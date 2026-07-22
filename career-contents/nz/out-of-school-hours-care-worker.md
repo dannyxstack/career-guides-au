@@ -1,61 +1,97 @@
-# Out of School Hours Care Worker（Out of School Hours Care Worker）职业分析 · 新西兰
+# Out of School Hours Care Worker — career analysis · New Zealand
 
-**职业代码：421114 – Out of School Hours Care Worker。**
+**Occupation code: 421114 (ANZSCO)**
 
-Out of School Hours Care Workers care for school-age children before/after school and during holidays, providing recreation, homework help, and basic care. This role can apply for AEWV but is not on the Green List or skill shortage list, with limited migration pathways.
+Out-of-school care workers care for school-age children before and after school and during holidays, providing recreational activities, homework assistance, and personal care. This occupation can apply for the Accredited Employer Work Visa (AEWV) but is not on the Green List or skill shortage lists, limiting immigration pathways.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程/证书 | 6个月 | $2,000~$5,000（如在线儿童护理课程） |
-| 新西兰文凭 | 2年 | $15,000~$30,000（如幼儿教育或社区服务文凭） |
+| Short courses/certificates | 6 months. | $2,000~$5,000 (Such as online child care courses.) |
+| New Zealand Diploma | 2 years | $15,000~$30,000 (such as a diploma in early childhood education or community services) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 儿童服务工作技能证书 | 新西兰资格认证局 (NZQA) | 可选 | 非强制，但雇主偏好 |
-| 急救证书 | 新西兰红十字会等 | 必备 | 多数雇主要求 |
-| 警察安全检查 (Police Vetting) | 新西兰警方 | 必备 | 法律要求 |
+| First aid certificate | New Zealand Red Cross, etc. | Required | Most employers require |
+| Police Vetting | New Zealand Police. | Required | Legal requirement |
+| Childcare Services Skill Certificate | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,000。新西兰课外托护需求稳定，因双职工家庭增多，但就业竞争一般。岗位增长集中在城市，偏远地区机会较少。疫情后行业复苏，但薪资较低，从业者多为兼职。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,000. Out-of-school care demand is stable in New Zealand due to the increase in dual-income families, but job competition is moderate. Job growth is concentrated in cities, with fewer opportunities in remote areas. The industry has recovered post-pandemic, but wages are low, and most workers are part-time.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28纽元 |
-| 中级（3-6年） | $55,000~$65,000 | 含主管岗位 |
-| 高级（6年以上） | $65,000~$75,000 | 协调员或经理级别 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approx NZD 23-28 |
+| Mid-level (3–6 years) | $55,000~$65,000 | Including supervisory roles |
+| Senior (6+ years) | $65,000~$75,000 | Coordinator or manager level |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可从助理升至主管或协调员，或转向幼儿教育或社区服务管理。持有相关儿童服务资质可提升竞争力，但高级岗位稀缺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The daily care and routine homework supervision tasks of after-school caregivers are nearly fully automatable, but emotional companionship and safety supervision responsibilities are difficult to replace by AI. Overall, the occupation risk is moderate, leaning more towards being enhanced by AI tools rather than replaced.
+
+Career progression paths are limited; may advance from assistant to supervisor or coordinator, or move into early childhood education or community services management. Holding relevant childcare qualifications can improve competitiveness, but senior roles are scarce.
+
+**Tasks most exposed to AI:**
+
+- Routine homework guidance and knowledge Q&A (AI education assistant can answer automatically)
+- Shift scheduling and attendance records (replaced by automated software)
+- Standardized procedures in event execution (e.g., manual step demonstrations guided by AI video)
+- Daily communication and feedback with parents (chatbots handle common issues)
+- Safety monitoring and patrol (AI visual system auto-alerts)
+
+**Where AI augments the role:**
+
+- Personalized learning plan design (AI analyzes child abilities to assist in activity planning)
+- Behavioral observation and early problem identification (AI flags abnormal behaviors, alerts attention)
+- Event creativity and interdisciplinary content generation (AI provides topic inspiration and teaching resources)
+- Multilingual communication (real-time translation and interaction with ESL children).
+- Emergency decision support (AI provides medical or safety guidance)
+
+**Human moat:**
+
+- Children's emotional bonding and psychological safety establishment
+- Intuitive judgment for handling sudden behavioral issues and emotional reassurance
+- Improvise facilitation in chaotic or creative activities.
+- Parent trust building and non-standard communication
+- Group dynamics management and personalized care
+
+**Skills to build:**
+
+- Child psychology and behavioral observation techniques
+- Use of AI education tools (e.g., adaptive learning platforms, activity planning software).
+- Basic data analysis (assessing child development progress)
+- Cross-cultural communication and language skills
+- First aid and crisis management certification
+- Creative activity design (integrating AI and hands-on experience)
+
+**Key growth areas:**
 
 - AEWV
 - Part-time positions
@@ -64,69 +100,68 @@ Out of School Hours Care Workers care for school-age children before/after schoo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 可通过认证雇主申请工签，但需满足劳动力市场测试，非直接移民路径 |
-| Subclass SMC（Skilled Migrant Category） | 仅当薪资达到中位数或以上且工作技能匹配ANZSCO等级（多为Level 4-5）时可能符合要求，通常需雇主支持 |
-| Subclass Green List T1（Green List Tier 1） | 该职业不在绿色清单中，无法直接申请居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply for a work visa through an accredited employer, but must meet the labour market test; not a direct migration pathway |
+| Subclass SMC (Skilled Migrant Category) | Only potentially eligible if salary is at or above the median and job skills match ANZSCO level (mostly Level 4-5); usually requires employer sponsorship |
+| Subclass Green List T1 (Green List Tier 1) | This occupation is not on the Green List and cannot directly apply for residency |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Out of School Hours Care Worker？**
-- 喜欢与儿童相处、有耐心的人
-- 寻求兼职或灵活工作时间的人
-- 考虑作为进入教育行业的起点
-
-**谁不适合学Out of School Hours Care Worker？**
-- 追求高薪或快速移民的人
-- 不擅长应对儿童行为问题的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with children and are patient
+- For those seeking part-time or flexible working hours
+- Consideration as an entry point into the education industry
+
+**Who is not suited**
+- Those seeking high salary or fast immigration.
+- People not good at handling children's behavior issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an out-of-school hours care worker?**
+A: Entry-level about NZD 45,000-55,000; experienced supervisors can earn over NZD 65,000. Salaries are below the New Zealand median; mostly part-time positions.
+
+**Q: Can after-school care workers immigrate to New Zealand?**
+A: Direct migration is difficult as it is not on the Green List. Usually requires gaining experience via an AEWV work visa, then attempting skilled migration, but must meet median wage and ANZSCO level requirements.
+
+**Q: What qualifications are needed?**
+A: Formal qualifications are not mandatory, but holding a children's services certificate or first aid certificate can improve job opportunities. Employers typically require a police security check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Out of School Hours Care Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Out of School Hours Care Worker?**
-答：Entry-level around NZD 45,000-55,000, experienced supervisors up to NZD 65,000+. Pay is below median, often part-time.
-
-**问：Can an Out of School Hours Care Worker migrate to New Zealand?**
-答：Direct migration is difficult as it's not on the Green List. Typically via AEWV work visa, later SMC if salary meets median and skill level aligns.
-
-**问：What qualifications are needed?**
-答：No formal degree required, but child care certificate or first aid certificate boosts chances. Police vetting is mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

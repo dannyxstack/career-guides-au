@@ -1,58 +1,94 @@
-# Ship's Engineer（Ship's Engineer）职业分析 · IE
+# Ship's Engineer — career analysis · Ireland
 
-**职业代码：3151 – Ship's Engineer。**
+**Occupation code: 3151 (ISCO08)**
 
-Ships' Engineers operate, maintain, and repair mechanical and electrical systems on vessels, ensuring safe and efficient maritime operations. Ireland's island status ensures steady demand for these professionals.
+Marine engineers operate, maintain, and repair mechanical and electrical systems on ships to ensure safe and efficient operation. As an island nation, Ireland has a steady demand for such professionals in its maritime industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（爱尔兰国家海事学院（NMCI）学徒制，学费由政府资助） |
-| 本科 | 3-4年 | $10,000~$20,000（NMCI或科克理工学院等提供船舶工程学士学位，年学费约1-2万欧元） |
+| Apprenticeship | 4 years | $0~$1,000 (National Maritime College of Ireland (NMCI) apprenticeship, tuition funded by the government) |
+| Bachelor's degree | 3-4 years | $10,000~$20,000 (NMCI or Cork Institute of Technology offer Bachelor's degrees in Marine Engineering, with annual tuition around €10,000-20,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 轮机员适任证书（STCW III/1） | 爱尔兰海事局（Irish Maritime Administration） | 必备 | 由NMCI或认证培训机构颁发，需完成规定海历时数 |
-| 高级轮机员证书（STCW III/2） | 爱尔兰海事局 | 可选 | 晋升二管轮或轮机长所需 |
+| Engineer Officer Certificate of Competency (STCW III/1) | Irish Maritime Administration | Required | Issued by NMCI or an accredited training institution, requiring completion of prescribed sea time hours. |
+| Advanced Marine Engineer Certificate (STCW III/2) | Irish Maritime Administration | Optional | Required for promotion to Second Engineer or Chief Engineer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 800。爱尔兰海运业持续发展，船舶工程师需求稳定。随着全球贸易增长和船队更新，预计未来五年就业机会保持平稳，年均约30-50个职位空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. Ireland's maritime industry continues to grow, with steady demand for marine engineers. With global trade growth and fleet renewal, employment opportunities are expected to remain stable over the next five years, with around 30-50 job openings annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 船上工作含食宿，一般不包括陆上福利 |
-| 中级（3-7年） | $45,000~$60,000 | 轮值二管轮，薪资因船型与航线浮动 |
-| 高级（7年以上） | $60,000~$80,000 | 轮机长，大型集装箱船或油轮薪资可达更高 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Work on ships includes accommodation and meals, but generally does not include shore-based benefits |
+| Mid-level (3–7 years) | $45,000~$60,000 | Rotating second engineer, salary varies by ship type and route |
+| Senior (7+ years) | $60,000~$80,000 | Chief engineer, large container ships or oil tankers can earn higher salaries |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径通常从学徒或初级工程师开始，积累经验后可晋升为二管轮（Second Engineer），最终成为轮机长（Chief Engineer）。也可转向岸基管理、船级社或海事培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Career paths typically start with an apprenticeship or junior engineer role, progressing to Second Engineer and eventually Chief Engineer. Transition to shore-based management, classification societies, or maritime training is also possible.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Maritime transport
 - Shipping trade
@@ -61,68 +97,67 @@ Ships' Engineers operate, maintain, and repair mechanical and electrical systems
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：紧缺职业较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业列表中的船舶工程师，可快速获得居留，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 需先获得工作offer，雇主需进行劳动力市场测试，适合非紧缺岗位 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，要求年薪至少一般€50,000以上，提供快速家庭团聚 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to ship engineers on the shortage occupation list, allows fast-track residency, eligible for permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | A job offer is required first; the employer must conduct a labor market test, suitable for non-occupation in demand |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, requiring an annual salary generally at least €50,000 or more, offering fast family reunification |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ship's Engineer？**
-- 喜欢海上工作和国际旅行的人
-- 动手能力强，擅长机械和电气维修的人
-- 能适应长时间离家、节奏规律的工作
-
-**谁不适合学Ship's Engineer？**
-- 无法忍受长时间海上封闭环境的人
-- 对机械和电气不感兴趣、晕船严重的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- people who enjoy maritime work and international travel
+- People with strong hands-on skills and expertise in mechanical and electrical repair
+- Able to adapt to long periods away from home and a regular work rhythm
+
+**Who is not suited**
+- Those who cannot tolerate long periods in a confined marine environment
+- People who are not interested in machinery and electrical work and suffer from severe seasickness
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary of a marine engineer?**
+A: Junior approx. €35,000-45,000, mid-level €45,000-60,000, senior (chief engineer) €60,000-80,000, meals and accommodation included on board.
+
+**Q: How can foreign marine engineers work in Ireland?**
+A: Can apply through a Critical Skills Employment Permit (if the occupation is on the shortage list) or a General Employment Permit, must first obtain a job offer from an Irish employer.
+
+**Q: What certifications are needed to work as a marine engineer in Ireland?**
+A: Must hold STCW III/1 Engineer Officer Certificate of Competency (entry-level), senior positions require STCW III/2 certificate, both obtained at the National Maritime College of Ireland (NMCI).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 紧缺职业较友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Ship's Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a Ship's Engineer?**
-答：Entry-level €35,000-45,000, mid-level €45,000-60,000, senior (Chief Engineer) €60,000-80,000, with meals and accommodation included on board.
-
-**问：How can a foreign Ship's Engineer work in Ireland?**
-答：Apply for a Critical Skills Employment Permit (if on shortage list) or General Employment Permit, requiring a job offer from an Irish employer.
-
-**问：What qualifications are needed to work as a Ship's Engineer in Ireland?**
-答：An STCW III/1 certificate (junior) and STCW III/2 (senior) are required, obtainable at the National Maritime College of Ireland (NMCI).
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

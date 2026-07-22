@@ -1,59 +1,95 @@
-# ICT Services Directors（ICT Services Directors）职业分析 · ES
+# ICT Services Directors — career analysis · Spain
 
-**职业代码：1321 – ICT Services Directors。**
+**Occupation code: 1321 (CNO)**
 
-Plan, direct and coordinate the IT and communications services of an organization, developing technology strategies, managing teams and budgets, and ensuring secure and efficient system operations.
+Responsible for planning, guiding, and coordinating the information technology and communication services departments of enterprises or institutions, formulating technology strategies, managing teams and budgets, and ensuring the safe and efficient operation of systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$12,000（公立大学约 1000-2000€/年，私立 6000-12000€/年） |
-| 硕士（Máster） | 1-2年（Máster） | $2,000~$15,000（公立大学约 2000-5000€/年，私立 8000-15000€/年） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$12,000 (Public universities cost about €1,000-2,000 per year, private ones €6,000-12,000 per year) |
+| Máster | 1-2 years (Máster) | $2,000~$15,000 (Public universities approx. €2,000-5,000/year, private €8,000-15,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术相关学士学位 | 西班牙大学（Universidad） | 必备 | 通常要求计算机科学、电信工程或类似专业Grado |
-| PMP项目管理认证 | PMI（Project Management Institute） | 可选 | 非强制，但显著提升竞争力 |
-| ITIL认证 | AXELOS | 可选 | 服务管理框架，常见于IT管理岗位 |
+| Bachelor's degree in information technology | University of Spain (Universidad) | Required | Grado is usually required to specialize in computer science, telecommunications engineering, or similar fields |
+| PMP Project Management Certification | PMI（Project Management Institute） | Optional | Not mandatory, but significantly enhances competitiveness |
+| ITIL certification | AXELOS | Optional | Service management frameworks, commonly found in IT management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,500。西班牙数字化转型推动ICT管理岗位需求稳定增长，尤其在金融、咨询和科技行业。中小企业日益重视技术管理，创造更多总监级职位。预计未来五年增长15%。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Spain's digital transformation has driven steady growth in demand for ICT management positions, especially in the financial, consulting, and technology sectors. SMEs are increasingly emphasizing technical management, creating more director-level positions. Growth of 15% is expected over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 初级IT经理或小企业IT负责人 |
-| 中级（3-7年） | $50,000~$70,000 | 中型企业IT总监 |
-| 高级（7年以上） | $75,000~$110,000 | 大型企业或跨国公司ICT总监 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Junior IT Manager or IT Lead for Small Businesses |
+| Mid-level (3–7 years) | $50,000~$70,000 | IT Director for medium-sized enterprises |
+| Senior (7+ years) | $75,000~$110,000 | ICT Director for large enterprises or multinational corporations |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★½）。** 通常从技术岗位（系统架构师、项目经理）晋升至部门主管，再至总监。可发展为首席信息官（CIO）或首席技术官（CTO）。MBA或专业认证（如PMP、ITIL）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
+
+Typically, they are promoted from technical positions (system architect, project manager) to department heads, and then to directors. They can develop into Chief Information Officers (CIOs) or Chief Technology Officers (CTO). An MBA or professional certification (such as PMP, ITIL) helps with promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated project progress tracking and status report generation
+- AI-assisted code review and automated test case generation
+- standardized IT operations tasks (e.g., server monitoring, log analysis)
+- Automatically generate technical documentation and user manuals
+- Data-Driven Decision Support Reports (e.g., Cost Analysis, Resource Optimization Recommendations)
+
+**Where AI augments the role:**
+
+- Using AI to predict project risks and adjust resource allocation in advance
+- Improving team communication and problem-solving efficiency through AI chatbots
+- Use AI tools for technology selection evaluation and architecture comparison
+- Automated budget tracking and compliance checks, allowing managers to focus on strategic decisions
+- AI-driven market trend analysis to assist IT strategic planning
+
+**Human moat:**
+
+- High-level strategic decision-making and vision setting
+- Cross-departmental interest coordination and conflict resolution
+- Critical judgment and accountability for AI outputs
+- Team culture building and talent development
+- Creative solutions to complex systemic problems
+
+**Skills to build:**
+
+- AI project management tools (e.g., Jira+AI plugins, Asana smart features)
+- Basic data analysis and visualization (Python/Power BI)
+- Machine learning workflow understanding (MLOps basics)
+- AI ethics and compliance knowledge
+- Practices of Agile and DevOps combined with AI
+- Communication and change management skills
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -62,68 +98,67 @@ Plan, direct and coordinate the IT and communications services of an organizatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历（本科以上）且年薪不低于约33,908€（2024标准）的技术人才，可快速获得居留并携带家属。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高级管理或技术人才，薪资门槛约为西班牙平均工资1.5倍（约45,000€/年），流程简化，可获两年居留。 |
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 由西班牙公司担保的工作居留，需证明职位无法由本地人填补。适合企业高管调动。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for technical professionals with higher education (bachelor's degree or above) with an annual salary of no less than approximately €33,908 (2024 standard), allowing quick residency and family support. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior management or technical talent, the salary threshold is about 1.5 times the Spanish average (approximately €45,000/year), with a simplified process allowing for two-year residency. |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Work permit sponsored by a Spanish company, requiring proof that the position cannot be filled locally. Suitable for corporate executive transfers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Services Directors？**
-- 具备技术背景且希望转向管理方向的人
-- 拥有战略思维和团队领导能力的人
-- 对数字化转型有热情并愿意持续学习的人
-
-**谁不适合学ICT Services Directors？**
-- 偏好纯技术工作、不愿承担管理责任的人
-- 不善于沟通和跨部门协调的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a technical background who wish to move into management
+- People with strategic thinking and team leadership skills
+- Passionate about digital transformation and willing to keep learning
+
+**Who is not suited**
+- People who prefer pure technical work and are unwilling to take on management responsibilities
+- People who are not good at communication and cross-departmental coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an ICT director in Spain?**
+A: Depending on experience and company size, annual salary typically between €50,000-110,000. Large tech companies or multinationals may be higher.
+
+**Q: How can foreigners apply for the position of ICT Director in Spain?**
+A: Applications can be made through the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional Visa (Ley 14/2013), requiring a bachelor's degree or above and meeting the salary threshold (approximately €45,000/year). Employer sponsorship is key.
+
+**Q: What educational qualifications are required to become an ICT Director?**
+A: A bachelor's degree in computer science or a related field (Grado) is usually required, and a master's degree (Máster) is a clear advantage. Project Management Certification (PMP) and ITIL certification are also valuable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 较高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-ICT Services Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an ICT director in Spain?**
-答：Depending on experience and company size, annual salary ranges between €50,000 and €110,000. Large tech firms or multinationals may pay more.
-
-**问：How can a foreigner apply for an ICT director position in Spain?**
-答：Apply via EU Blue Card or Highly Qualified Professional visa (Ley 14/2013), requiring a bachelor's degree and minimum salary (~€45,000/year). Employer sponsorship is essential.
-
-**问：What education is needed to become an ICT director?**
-答：A bachelor's degree (Grado) in computer science or related field is required; a master's (Máster) is a strong advantage. Certifications like PMP and ITIL are valuable.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

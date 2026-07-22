@@ -1,60 +1,94 @@
-# Dog Handler or Trainer（Dog Handler or Trainer）职业分析 · 澳大利亚
+# Dog Handler or Trainer — career analysis · Australia
 
-**职业代码：361111 – Dog Handler or Trainer。**
+**Occupation code: 361111 (ANZSCO)**
 
-Dog handlers or trainers train dogs for obedience, behavior correction, and specialized roles such as guide dogs or police dogs. They work with owners to improve human-canine relationships and enhance canine socialization.
+Dog trainers train dogs to obey commands, correct behavioral issues, and provide specialized training for working dogs such as guide dogs and police dogs. They collaborate with pet owners to improve human-dog relationships and enhance dogs' socialization skills.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业证书IV | 6个月-1年 | $3,000~$8,000（如 ACM40318 Certificate IV in Dog Training） |
-| 职业教育文凭 | 1-2年 | $6,000~$15,000（如 Diploma of Animal Behaviour and Training） |
+| Certificate IV | 6 months to 1 year | $3,000~$8,000 (E.g., ACM40318 Certificate IV in Dog Training) |
+| Vocational education diploma | 1-2 years | $6,000~$15,000 (Such as Diploma of Animal Behaviour and Training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 犬只训练四级证书 | TAFE或注册培训机构 | 可选 | 核心学历，部分雇主需要 |
-| 动物行为与训练文凭 | TAFE或私立学院 | 可选 | 提升竞争力 |
+| Certificate IV in Dog Training | TAFE or registered training organizations | Optional | Core qualification; required by some employers |
+| Animal behavior and training diploma | TAFE or private college | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 5,400。澳洲宠物行业持续增长，犬只训练服务需求稳定上升。随着宠物人性化趋势和心理健康意识增强，专业训练师前景良好。预计就业机会在未来5年稳步增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 5,400. The Australian pet industry continues to grow, with stable demand for dog training services. As pet humanisation trends and mental health awareness increase, professional trainers have good prospects. Employment opportunities are expected to grow steadily over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 训练助理或入门级训练师 |
-| 中级（3-6年） | $60,000~$80,000 | 独立训练师或主管 |
-| 高级（6年以上） | $80,000~$110,000 | 高级行为顾问或工作室所有者 |
+| Median salary | $66,352 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Training assistant or entry-level trainer |
+| Mid-level (3–6 years) | $60,000~$80,000 | Independent trainer or supervisor |
+| Senior (6+ years) | $80,000~$110,000 | Senior behavior consultant or studio owner |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级训练师可晋升为高级训练师、行为顾问或开设自己的训练学校。也可专攻工作犬训练（如警犬、导盲犬）或动物行为治疗，需持续学习动物心理学。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dog trainers is mixed: behavior analysis and training plans can be AI-assisted, but actual training, emotional connection, and real-time interaction rely on humans and are difficult to replace.
+
+Junior trainers can advance to senior trainer, behaviour consultant, or start their own training school. They may also specialise in working dog training (e.g., police dogs, guide dogs) or animal behaviour therapy, requiring ongoing study of animal psychology.
+
+**Tasks most exposed to AI:**
+
+- Behavioral data recording and basic analysis: AI automatically analyzes dog behavior videos and generates reports.
+- Training plan development: AI recommends training plans based on dog breed and problem behavior database.
+- Training effectiveness assessment: AI quantifies training progress via sensors and video.
+- customer communication and appointment management: chatbots handle appointments and FAQs.
+
+**Where AI augments the role:**
+
+- Personalized training program design: AI analyzes individual dog data to optimize training strategies.
+- Remote monitoring and feedback: AI monitors training in real time via cameras and provides instant suggestions.
+- Behavioral Problem Diagnosis: AI-assisted identification of root causes of complex behavioral issues.
+- Training material generation: AI generates training video tutorials and illustrated guides.
+- Client education: AI generates customized home training plans to enhance owner participation.
+
+**Human moat:**
+
+- Building trust and emotional connection with dogs: humans' unique non-verbal communication ability.
+- Real-time interaction and adaptive adjustment: flexibly adjust training methods based on the dog's mood and reactions.
+- Handling complex behavior issues: requires deep understanding of canine psychology and context, combined with intuition.
+- Safety and Responsibility: Ensuring the safety of both humans and dogs during training, and assuming legal responsibility.
+- Personalized care and empathy: providing emotional support and personalized guidance to owners.
+
+**Skills to build:**
+
+- AI behavior analysis tool usage: e.g., behavior recognition software, data visualization.
+- Data interpretation and decision-making: extracting key information from AI reports to formulate training plans.
+- Remote training technology: use cameras and sensors for remote guidance.
+- Knowledge of animal cognitive science: in-depth study of canine learning and behavioral mechanisms.
+- Soft skills: communication, empathy, customer relationship management.
+
+**Key growth areas:**
 
 - pet industry growth
 - canine behavior therapy
@@ -63,65 +97,67 @@ Dog handlers or trainers train dogs for obedience, behavior correction, and spec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 该职业不在核心技能清单上，但可能通过劳工协议申请，机会极少。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，需证明市场劳动力短缺，路径非常有限。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | This occupation is not on the core skills list but may be possible via labor agreement; very limited opportunities. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship requires proof of labor market shortage, very limited pathways. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dog Handler or Trainer？**
-- 热爱动物并且有耐心的人
-- 愿意与宠物主人沟通并提供教育指导
-- 具备观察力和行为分析能力
+**Who is suited**
+- People who love animals and are patient
+- Willing to communicate with pet owners and provide educational guidance
+- Possess observation and behavioral analysis skills
 
-**谁不适合学Dog Handler or Trainer？**
-- 对动物行为没有兴趣或耐心不足
-- 无法应对犬只攻击或行为问题带来的风险
+**Who is not suited**
+- Lack of interest in animal behavior or insufficient patience
+- Unable to handle risks from dog attacks or behavioral issues
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for dog trainers?**
+A: Junior trainer annual salary approx. AUD 45,000-60,000, mid-level AUD 60,000-80,000. Senior trainers running their own school or specializing in working dog training can earn AUD 80,000-110,000.
+
+**Q: Can dog trainers obtain Australian permanent residency through skilled migration?**
+A: Nearly impossible. The occupation is not on the CSOL/MLTSSL list, so cannot apply for 189/190/482 visas. Only very few regional employer sponsorship or labour agreements may be possible, with extremely high thresholds.
+
+**Q: Does this career have growth potential?**
+A: Yes. Can advance to senior trainer, animal behaviour consultant, or specialise in guide dog or police dog training. With experience, can start a training school.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Dog Handler or Trainer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dog trainers?**
-答：Entry-level trainers earn AUD 45,000-60,000 annually, mid-level AUD 60,000-80,000, and advanced trainers with own business or specialized skills AUD 80,000-110,000.
-
-**问：Can dog handlers obtain Australian PR through skilled migration?**
-答：Almost impossible. This occupation is not on CSOL/MLTSSL, so 189/190/482 visas are not available. Only very limited regional sponsorship or labour agreements might apply, with high barriers.
-
-**问：Are there career progression opportunities?**
-答：Yes. You can advance to senior trainer, behavior consultant, or specialize in guide dog or police dog training. Experienced trainers can start their own training businesses.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

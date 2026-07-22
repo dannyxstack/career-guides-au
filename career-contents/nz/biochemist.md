@@ -1,60 +1,96 @@
-# Biochemist（Biochemist）职业分析 · 新西兰
+# Biochemist — career analysis · New Zealand
 
-**职业代码：234513 – Biochemist。**
+**Occupation code: 234513 (ANZSCO)**
 
-Biochemists study chemical processes in living organisms, applied to medicine, agriculture, and industry. In New Zealand, demand is stable, with pathways via Green List Tier 2 and Skilled Migrant Category, multiple accredited employer opportunities.
+Biochemists study the chemical processes of organisms, applied in medicine, agriculture, and industry. Demand is stable in New Zealand, and residency can be applied for via the Green List Tier 2 or Skilled Migrant Category, with opportunities with accredited employers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（学士） | 3年 | $60,000~$80,000（国际学生学费，年均2-2.7万NZD） |
-| 硕士 | 1-2年 | $40,000~$70,000（研究型硕士学费，部分项目有奖学金） |
-| 博士 | 3-4年 | $6,000~$8,000（博士学费低，约7千NZD/年，常获资助） |
+| Bachelor's degree | 3 years | $60,000~$80,000 (International student tuition, average NZD 20,000-27,000 per year) |
+| Master's degree | 1-2 years | $40,000~$70,000 (Research master's tuition fees, some programs offer scholarships) |
+| Doctorate | 3-4 years | $6,000~$8,000 (Low PhD tuition fees, approx. NZD 7,000/year, often with funding support) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物化学或相关学位 | 认可大学 | 必备 | 学士学位是基础，硕士/博士增加竞争力 |
-| 新西兰注册科学家（optional） | 新西兰科学研究所 | 可选 | 非强制，但有助于职业发展 |
-| 雅思7.0（移民要求） | IELTS | 可选 | 技术移民需G类，各单项不低于6.5 |
+| Degree in biochemistry or related field | Recognised university | Required | Bachelor's degree is the foundation; master's/PhD increases competitiveness |
+| Registered Scientist in New Zealand (optional) | New Zealand Institute of Science | Optional | Not mandatory, but beneficial for career development |
+| IELTS 7.0 (immigration requirement) | IELTS | Optional | Skilled migration requires General IELTS, with no band below 6.5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰生物化学领域就业前景平稳，研究机构和生物技术公司是主要雇主。政府支持生物技术创新，未来五年岗位预计小幅增长，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Employment prospects in biochemistry in New Zealand are stable, with research institutions and biotech companies as major employers. The government supports biotech innovation; jobs are expected to grow slightly over the next five years, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 研究助理或初级科学家 |
-| 中级（4-7年） | $70,000~$95,000 | 有经验的研究员或高级分析师 |
-| 高级（8年以上） | $95,000~$130,000 | 资深科学家、团队领导或总监 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Research assistant or junior scientist |
+| Mid-level (4-7 years) | $70,000~$95,000 | Experienced researcher or senior analyst |
+| Senior (8+ years) | $95,000~$130,000 | Senior scientist, team leader, or director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：初级研究员或实验室技术员起步，积累经验后可晋升为高级科学家、团队负责人，或转入管理、质量控制等方向。博士学位者更易进入领导岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
+
+Career path: Start as a junior researcher or lab technician, gain experience to advance to senior scientist, team leader, or move into management, quality control, etc. A PhD makes it easier to enter leadership roles.
+
+**Tasks most exposed to AI:**
+
+- Automated analysis and report generation for routine blood and urine samples
+- Automatic monitoring and anomaly marking of quality control data
+- Automated execution and recording of standardized experimental procedures
+- Auto-fill and preliminary review of report templates
+- Automation of inventory management and reagent ordering
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyse complex test results and provide anomaly alerts.
+- Big data analytics: integrating patient historical data to predict disease trends
+- Automating workflows: optimizing sample sorting, tracking, and test sequencing
+- Remote expert collaboration: real-time sharing of inspection images and data for second opinions
+- Continuous learning: AI recommends latest research and updates standard operating procedures
+
+**Human moat:**
+
+- Manual processing and judgment of non-standardized samples
+- Interdisciplinary interpretation of test results and clinical context
+- Ethical decision-making and patient privacy protection
+- Development and validation of new testing methods
+- Laboratory quality system management and regulatory compliance
+
+**Skills to build:**
+
+- AI/machine learning applications in clinical testing (e.g., anomaly detection models)
+- Advanced pathophysiology knowledge to interpret AI outputs
+- Data science and analysis skills (Python/R)
+- Laboratory information system and automation integration skills
+- Telemedicine and electronic health record usage
+- Critical thinking and complex problem solving
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Biochemists study chemical processes in living organisms, applied to medicine, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制：新西兰工作经验、学历、收入等积分。当前绿名单职业有额外激励。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事生物化学家职业2年后可申请居留，需认证雇主和时薪达中位数（约29.66NZD）。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，有效期最长3年，绿名单职业可加速居留。 |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: points for work experience, qualifications, income, etc. in New Zealand. Current Green List occupations have additional incentives. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After 2 years as a biochemist, you can apply for residency, requiring an accredited employer and an hourly wage at the median (approx. 29.66 NZD). |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa valid for up to 3 years; green list occupations can accelerate residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biochemist？**
-- 化学/生物本科及以上学历者
-- 有实验研究经验且适应实验室工作的人
-- 对移民新西兰有明确规划，愿意从初级岗位做起
-
-**谁不适合学Biochemist？**
-- 不喜欢重复性实验或数据分析
-- 无法接受长时间站立工作或生物安全风险
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holders of a bachelor's degree or higher in chemistry/biology
+- People with experimental research experience who are suited to laboratory work
+- A clear plan to immigrate to New Zealand, willing to start from entry-level positions
+
+**Who is not suited**
+- Dislike repetitive experiments or data analysis
+- Unable to tolerate long periods of standing work or biosecurity risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for biochemists?**
+A: Entry-level annual salary is about NZD 55,000-70,000, mid-level NZD 70,000-95,000, senior NZD 95,000-130,000. Research institutions pay slightly less, while biotech companies or pharmaceutical firms pay more.
+
+**Q: Is it easy for biochemists to immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 2; after working for 2 years, you can apply for residency. It can also go through SMC. Requires accredited employer and meeting salary requirements. Overall difficulty is moderate and requires a New Zealand employer sponsor.
+
+**Q: How long does it take to study biochemistry in New Zealand?**
+A: Bachelor's 3 years, Master's 1-2 years, PhD 3-4 years. International student tuition about 20,000-27,000 NZD/year (bachelor's), PhD about 7,000 NZD.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Biochemist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biochemists?**
-答：Entry-level salary is around NZD 55,000-70,000, mid-level NZD 70,000-95,000, senior NZD 95,000-130,000. Research institutions pay slightly less, while biotech and pharmaceutical companies pay more.
-
-**问：Is it easy to immigrate to New Zealand as a biochemist?**
-答：This occupation is on Green List Tier 2, eligible for residence after 2 years of work; also qualifies for SMC. Requires accredited employer and meeting salary threshold. Overall difficulty is moderate, needing employer sponsorship.
-
-**问：How long does it take to study biochemistry in New Zealand?**
-答：Bachelor's 3 years, Master's 1-2 years, PhD 3-4 years. International tuition: approx. NZD 20,000-27,000/year for undergraduate, PhD around NZD 7,000/year.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

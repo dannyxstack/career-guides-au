@@ -1,59 +1,94 @@
-# Viticulture Worker（Viticulture Worker）职业分析 · 新西兰
+# Viticulture Worker — career analysis · New Zealand
 
-**职业代码：841311 – Viticulture Worker。**
+**Occupation code: 841311 (ANZSCO)**
 
-Viticulture Workers manage vineyard planting, pruning, and harvesting, vital to New Zealand's wine industry. Eligible for Green List Tier 1 direct residence, offering strong migration prospects.
+Grape growers in New Zealand are responsible for vineyard planting management, pruning, and harvesting, and are key to the wine industry. This occupation is eligible for the Green List direct residence pathway, offering good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 葡萄种植培训证书 | 6个月 | $3,000~$6,000（包括在线课程和实习） |
-| 葡萄酒科学大专文凭 | 2年 | $15,000~$25,000（公立理工学院开设） |
+| Grape growing training certificate | 6 months. | $3,000~$6,000 (Including online courses and internships) |
+| Diploma in Wine Science | 2 years | $15,000~$25,000 (Offered by public polytechnics) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰葡萄种植证书（Level 3） | 新西兰学历认证局（NZQA） | 可选 | 入门级证书，需完成培训 |
-| Growsafe认证 | 新西兰初级产业部 | 可选 | 农药安全使用认证，通常需要 |
-| IELTS 6.0 | IDP/BC | 必备 | 移民技术移民语言要求 |
+| IELTS 6.0 | IDP/BC | Required | Language requirements for skilled migration |
+| New Zealand Certificate in Viticulture (Level 3) | New Zealand Qualifications Authority (NZQA) | Optional | Entry-level certification, training required |
+| Growsafe certification | New Zealand Ministry for Primary Industries | Optional | Pesticide safety certification, usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰葡萄酒产业持续增长，尤其是马尔堡、霍克湾等产区，对熟练葡萄种植工需求旺盛。劳动力短缺明显，未来五年预计每年增长5%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's wine industry continues to grow, especially in regions like Marlborough and Hawke's Bay, with strong demand for skilled viticulturalists. Labor shortages are notable, with an expected annual growth of 5% over the next five years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28新西兰元 |
-| 中级（3-5年） | $55,000~$70,000 | 含主管岗位 |
-| 高级（5年以上） | $70,000~$90,000 | 含葡萄园经理 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately NZD 23-28 |
+| Mid-level (3–5 years) | $55,000~$70,000 | Including supervisory roles |
+| Senior (5+ years) | $70,000~$90,000 | Includes vineyard manager |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 葡萄种植工可从初级岗位晋升为高级种植工、主管或葡萄园经理。积累经验后，可进入葡萄酒酿造、品酒或农业咨询领域，职业路径清晰。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
+
+Grape growers can progress from entry-level to senior grower, supervisor, or vineyard manager. With experience, they can move into winemaking, wine tasting, or agricultural consulting, with a clear career path.
+
+**Tasks most exposed to AI:**
+
+- Manually recording temperature, rainfall, and pest data
+- Routine grapevine pruning pattern recognition and decision-making
+- Calculation and adjustment of irrigation schedules
+- Yield prediction and harvest time estimation
+
+**Where AI augments the role:**
+
+- Using AI vision systems to quickly identify pests, diseases, and nutrient deficiency symptoms
+- Optimize irrigation and fertilization plans using sensors and algorithms
+- Use drones or robots for large vineyard inspection
+- Predict yield, disease risks, and optimal harvest time based on historical data
+- Automated recording and generation of compliance reports
+
+**Human moat:**
+
+- Intuition and hands-on experience with soil and plant physiology
+- Handle complex environmental variables (e.g., microclimate, soil heterogeneity)
+- Fine manual tasks such as pruning and harvesting
+- On-site communication and coordination with farm teams and suppliers
+- Response to emergencies (e.g., equipment failure, extreme weather)
+
+**Skills to build:**
+
+- Operation and maintenance of agricultural IoT devices
+- Basic data analysis (Excel, Python, or specialized agricultural software)
+- Drone operation and image analysis
+- Sustainable agriculture management practices
+- Basic mechanical maintenance and troubleshooting of automation systems
+- Digital record keeping and compliance report generation
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Regional Skill Shortage
@@ -62,68 +97,67 @@ Viticulture Workers manage vineyard planting, pruning, and harvesting, vital to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿名单一级职业，可直接申请居留权，需雇主担保和时薪至少29.66新西兰元（2024年标准） |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下需满足积分要求，通常需雇主担保 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于临时工作，后续可转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green list Tier 1 occupation, can directly apply for residency, requires employer sponsorship and hourly wage of at least NZ$29.66 (2024 standard) |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category: requires meeting points under the 6-point system; usually needs employer sponsorship. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for temporary work, with potential to transition to residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Viticulture Worker？**
-- 喜欢户外工作、体力劳动的人
-- 对葡萄酒产业有热情，愿意学习种植技术
-- 愿意定居在新西兰乡村地区的人
-
-**谁不适合学Viticulture Worker？**
-- 不适应季节性加班和恶劣天气的人
-- 追求高薪办公室工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and physical labor
+- Passion for the wine industry and willingness to learn cultivation techniques
+- People willing to settle in rural areas of New Zealand
+
+**Who is not suited**
+- Not suited for seasonal overtime and harsh weather
+- People seeking high-paying office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a vineyard worker?**
+A: Entry level approx. NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000, manager can reach NZD 100,000+.
+
+**Q: Can a grape grower immigrate to New Zealand?**
+A: Yes. This occupation is on Tier 1 of the Green List and is eligible for direct residence, requiring employer sponsorship and meeting salary requirements.
+
+**Q: How to become a grape grower in New Zealand?**
+A: Usually requires completing an NZQA-approved viticulture certificate (Level 3) or a diploma in wine science, and obtaining Growsafe certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Viticulture Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a viticulture worker?**
-答：Entry-level NZD 45,000-55,000; mid NZD 55,000-70,000; senior NZD 70,000-90,000; managers can exceed NZD 100,000.
-
-**问：Can a viticulture worker immigrate to New Zealand?**
-答：Yes. It's on Green List Tier 1, eligible for direct residence with employer sponsorship and minimum wage requirements.
-
-**问：How to become a viticulture worker in New Zealand?**
-答：Typically complete a NZQA-recognized certificate in viticulture (Level 3) or a diploma in wine science, plus Growsafe certification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

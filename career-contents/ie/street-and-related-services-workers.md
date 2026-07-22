@@ -1,59 +1,92 @@
-# Street and Related Services Workers（Street and Related Services Workers）职业分析 · IE
+# Street and Related Services Workers — career analysis · Ireland
 
-**职业代码：9510 – Street and Related Services Workers。**
+**Occupation code: 9510 (ISCO08)**
 
-Street and related services workers include street cleaners, vendors, and similar roles maintaining public cleanliness or providing retail services on streets.
+Street and related service workers include sanitation workers, street vendors, etc., responsible for maintaining public area cleanliness or providing street retail services.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无 | —（通常无需正规教育） |
-| 短期培训 | 1-2周 | $100~$500（可能需卫生或安全培训） |
+| Junior high school graduation | None | $0~$0 (Usually no formal education required) |
+| Short-term training | 1-2 weeks | $100~$500 (May require health or safety training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无 | 无 | 可选 | 通常无特定资格要求 |
+| None | None | Optional | Usually no specific qualification requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。爱尔兰城市化持续推进，公共清洁和街头零售需求稳定，但自动化可能影响部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Urbanization in Ireland continues to advance, with stable demand for public cleaning and street retail, but automation may affect some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从普通清洁工晋升为团队主管，或从街头小贩转向固定摊位经营。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Street and related service workers (e.g., cleaners, vendors) rely heavily on physical movement and on-site judgment, making them hard to fully replace by AI, but automated equipment (e.g., vending machines, cleaning robots) will reduce entry-level job demand, leading to a decline in low-skilled positions.
+
+Can advance from general cleaner to team supervisor, or from street vendor to fixed stall operator.
+
+**Tasks most exposed to AI:**
+
+- Payment collection and change-making tasks for street vendors (replaced by mobile payments and self-checkout)
+- Basic cleaning of public areas (taken over by automatic cleaning robots)
+- Simple product placement and inventory management (replaced by smart inventory systems)
+- Waste collection route planning (optimized and automated by AI dispatch system)
+
+**Where AI augments the role:**
+
+- Using a mobile app to manage mobile stall inventory and sales data
+- Operate cleaning robots and monitor their working status
+- Optimizing garbage collection routes through data analysis
+- Using voice translation tools to communicate with diverse customers
+
+**Human moat:**
+
+- Flexible response to sudden hygiene incidents (e.g., vomit, hazardous waste)
+- Providing personalized services or recommendations to customers (e.g., adjusting street food flavors)
+- Conduct safety guidance and dispute mediation in crowded areas.
+- Make decisions in non-standardized scenarios (e.g., detouring around construction sections)
+
+**Skills to build:**
+
+- Basic machine operation and maintenance (e.g., cleaning robots, vending machines)
+- Use of mobile applications and digital payment systems
+- Basic data analysis and route planning tools
+- Interpersonal communication and customer service skills
+- Knowledge of health and safety procedures
+- Multilingual or translation tool usage
+
+**Key growth areas:**
 
 - urbanization
 - public hygiene awareness
@@ -62,65 +95,64 @@ Street and related services workers include street cleaners, vendors, and simila
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪一般不低于30000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 面向高技能工人，但此类职业通常不符合要求。 |
+| Subclass General Employment P (General Employment Permit) | Available for non-occupation in demand, requires employer sponsorship, annual salary generally not less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Aimed at high-skilled workers, but such occupations usually do not meet requirements. |
 
-**PR难度：难（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Street and Related Services Workers？**
-- 体力好、能适应户外工作
-- 不需要高学历、希望快速就业
-- 对薪资要求不高、稳定工作优先
-
-**谁不适合学Street and Related Services Workers？**
-- 希望高收入或职业晋升
-- 不愿从事体力劳动或户外工作
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, able to work outdoors
+- No high education required, seeking quick employment
+- Prefers stable work over high salary demands
+
+**Who is not suited**
+- Seeking high income or career advancement
+- Unwilling to do physical labor or outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for street service workers?**
+A: Entry-level annual salary around 22,000-28,000 euros, reaching up to 42,000 euros for senior positions.
+
+**Q: Can this occupation apply for a work visa?**
+A: Usually can only apply for a General Employment Permit, requiring employer sponsorship and meeting salary thresholds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 难（★★★★½） |
-
-Street and Related Services Workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for street service workers?**
-答：Entry-level annual salary is around 22,000-28,000 EUR, senior up to 42,000 EUR.
-
-**问：Can this occupation apply for a work visa?**
-答：Typically only a General Employment Permit is possible, requiring employer sponsorship and meeting salary threshold.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

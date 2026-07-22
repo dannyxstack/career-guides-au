@@ -1,60 +1,95 @@
-# Airport Operations Manager（Airport Operations Manager）职业分析 · FR
+# Airport Operations Manager — career analysis · France
 
-**职业代码：N2205 – Airport Operations Manager。**
+**Occupation code: N2205 (ROME)**
 
-Oversees airport flight scheduling, ground handling, and passenger flow to ensure punctual and safe operations.
+Responsible for airport flight scheduling, ground services, and passenger guidance to ensure on-time and safe flight operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 交通运输管理 | 2年 | —（公立学校学费低，学徒制免费） |
-| Licence 机场管理 | 3年 | $200~$3,000（公立大学学费约200-300欧/年） |
-| Master 航空运输管理 | 2年（本科后） | $5,000~$15,000（商学院或工程师学校费用较高） |
+| BTS Transport Management | 2 years | $0~$1,000 (Public schools have low tuition fees and free apprenticeships) |
+| Licence Airport Management | 3 years | $200~$3,000 (Tuition at public universities is about 200-300 euros per year) |
+| Master in Air Transport Management | 2 years (post-undergraduate) | $5,000~$15,000 (Business schools or engineering schools tend to be more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机场运营管理文凭 | 法国民航大学 | 可选 | ENAC颁发，部分岗位要求 |
-| 航空安全认证 | 法国民航局 | 必备 | DGAC认证，从事安全相关岗位必需 |
-| 危险品运输证书 | IATA | 可选 | 处理危险品货物时要求 |
+| Aviation safety certification | French Civil Aviation Authority | Required | DGAC certification is required for safety-related positions |
+| Diploma in Airport Operations Management | French Civil Aviation University | Optional | Issued by ENAC, some job requirements |
+| Dangerous goods transport certificate | IATA | Optional | Requirements when handling hazardous goods cargo |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。法国航空运输业稳定增长，巴黎机场集团及地方机场持续招聘，疫情影响后复苏加快，就业前景向好。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. France's air transport sector has grown steadily, with Paris Airport Group and regional airports continuing to recruit, post-pandemic recovery accelerating, and employment prospects improving.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（4-8年） | $40,000~$55,000 | 税前年薪 |
-| 高级（9年以上） | $60,000~$85,000 | 税前年薪，含奖金 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4–8 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (9+ years) | $60,000~$85,000 | Annual pre-tax salary, including bonuses |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从地勤主管晋升至运营经理，再至机场总监；也可转向航空公司或民航局管理岗。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of airport operations directors involves complex coordination, emergency decision-making, and balancing multiple interests, making it difficult for AI to fully replace; However, tasks related to data analysis and scheduling optimization will be significantly enhanced by AI, requiring proactive adoption of tool upgrades.
+
+Ground Handling Supervisor can be promoted to Operations Manager, and then to Airport Director; You can also move to management positions at airlines or the Civil Aviation Authority.
+
+**Tasks most exposed to AI:**
+
+- Regular flight scheduling and resource allocation (AI optimization algorithms)
+- Passenger flow forecasting and dynamic gate allocation
+- Basic ground handling process monitoring and exception report generation
+- Flight history data compilation and on-time rate statistics
+
+**Where AI augments the role:**
+
+- Dynamic resource rescheduling based on real-time data (AI-assisted decision-making)
+- Multi-scenario simulation and contingency plan generation for emergencies (AI simulation)
+- Customer satisfaction analysis and personalized service improvement (AI text mining)
+- Intelligent communication and task assignment for cross-departmental collaboration (AI coordinator)
+- Automatic reporting and early warning for safety compliance monitoring (AI vision + sensors)
+
+**Human moat:**
+
+- Emergency decision-making and on-site command for major security incidents
+- Negotiate and maintain relationships with governments, airlines, and other parties
+- Building employee team morale and culture
+- Intuitive judgment and leadership in complex and chaotic situations
+- Humane care for special passengers (such as the elderly and patients).
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/SQL/Tableau)
+- AI scheduling tools (such as Veovo, Airport Collaborative Decision A-CDM)
+- Emergency Plan Design and Simulation Drill (AI Simulation Platform)
+- Project Management and Agile Methodologies
+- Emotional intelligence and conflict resolution skills
+- Basic aviation regulations and safety standards
+
+**Key growth areas:**
 
 - air travel recovery
 - digitalization
@@ -63,68 +98,67 @@ Oversees airport flight scheduling, ground handling, and passenger flow to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Salarié） | 受雇工作居留，需雇主提供CDI合同并满足工资门槛 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适合高级职位，工资需≥1.5倍SMIC，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪至少53,000欧元（2024年标准），短期后转永居 |
+| Subclass Salarié (Employee Salarié) | Work residence permit for employed work requires employer to provide CDI contract and meet salary threshold. |
+| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for senior positions, requires a salary ≥ 1.5 times SMIC, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card: requires annual salary of at least €53,000 (2024 standard); can transition to permanent residence after short term. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airport Operations Manager？**
-- 具备组织协调和应急处理能力的人
-- 对航空业有热情，能适应轮班工作
-- 注重细节，擅长团队管理
-
-**谁不适合学Airport Operations Manager？**
-- 无法接受非固定工作时间者
-- 对高压环境不适应者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with organizational, coordination, and emergency response capabilities
+- Passionate about the aviation industry and able to adapt to shift work
+- Attention to detail, skilled in team management
+
+**Who is not suited**
+- Those who cannot accept non-fixed working hours
+- Those not adapted to high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary about EUR 30,000-38,000, mid-level 40,000-55,000, senior up to 85,000.
+
+**Q: How can foreigners apply for this position-based immigration program?**
+A: This can be done through employment-based residence, talent passport, or EU Blue Card. A French employer CDI contract is required, and the salary requirements for the talent passport are even higher.
+
+**Q: What are the career advancement paths?**
+A: Promotion from ground supervisor to operations manager, then to airport director; can also move to airline or civil aviation authority management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Airport Operations Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary ranges from €30,000 to €38,000, intermediate €40,000-€55,000, senior up to €85,000.
-
-**问：How can foreigners immigrate for this job?**
-答：Via Salarié, Talent Passport, or EU Blue Card. Requires a French employer with CDI contract; Talent Passport has higher salary threshold.
-
-**问：What are the career progression paths?**
-答：From ground handling supervisor to operations manager, then airport director; also possible to move to airline or civil aviation authority management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

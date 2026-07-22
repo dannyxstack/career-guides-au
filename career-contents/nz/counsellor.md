@@ -1,61 +1,97 @@
-# Counsellor（Counsellor）职业分析 · 新西兰
+# Counsellor — career analysis · New Zealand
 
-**职业代码：272199 – Counsellor。**
+**Occupation code: 272199 (ANZSCO)**
 
-Counsellors provide support for emotional, mental health, addiction issues to individuals, families, and groups. In New Zealand, demand exists but skilled migration pathways are limited, requiring registration with either the New Zealand Board of Counsellors or the New Zealand Association of Counsellors.
+Counsellors provide emotional, mental health, addiction, and other support to individuals, families, and groups. There is demand for this occupation in New Zealand, but skilled migration pathways are limited, usually requiring registration with the New Zealand Board of Counsellors or the New Zealand Counselling Association.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $35,000~$45,000（年均学费） |
-| 硕士 | 2年 | $40,000~$55,000（年均学费，部分课程需实习） |
+| Bachelor's degree | 3 years | $35,000~$45,000 (Annual tuition.) |
+| Master's degree | 2 years | $40,000~$55,000 (Annual tuition fee; some courses require internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰心理咨询委员会注册 | NZ Board of Counsellors | 必备 | 或新西兰咨询协会会员资格；需认可学位+临床实践 |
-| 硕士文凭（心理咨询） | 新西兰大学 | 可选 | 通常为注册必备 |
-| 雅思7.0（各单项≥7） | IELTS | 必备 | 注册和移民英语要求 |
+| Registration with the New Zealand Psychologists Board | NZ Board of Counsellors | Required | Or membership in the New Zealand Counselling Association; requires recognized degree plus clinical practice |
+| IELTS 7.0 (each band ≥ 7) | IELTS | Required | Registration and immigration English requirements |
+| Master's degree (counseling psychology) | New Zealand universities | Optional | Usually required for registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。新西兰心理健康服务需求持续增长，政府投资社区心理支持，心理咨询师就业前景良好。预计2023-2028年岗位年增长约4%，主要在城市和地区卫生局。竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. Demand for mental health services in New Zealand continues to grow, with government investment in community psychological support. Employment prospects for counselors are good. Projected annual growth of about 4% from 2023-2028, mainly in urban and district health boards. Competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 社区或非营利机构 |
-| 中级（4-7年） | $70,000~$90,000 | 地区卫生局或私人执业 |
-| 高级（8年以上） | $90,000~$120,000 | 主管或私人执业高收入 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Community or non-profit organizations |
+| Mid-level (4-7 years) | $70,000~$90,000 | Regional health authority or private practice |
+| Senior (8+ years) | $90,000~$120,000 | High income as supervisor or private practitioner |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 从入门级心理咨询师升至高级/主管咨询师需5-8年经验，可专攻成瘾、创伤或儿童领域，或进入管理、培训岗位。部分咨询师开设私人诊所。
-**AI替代风险：低风险（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
+
+From entry-level counselor to senior/supervisor counselor requires 5-8 years of experience, with specialization in addiction, trauma, or child fields, or moving into management or training roles. Some counselors open private practices.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and analysis of initial psychological assessment and diagnostic questionnaires
+- AI-assisted writing of treatment notes, progress reports, treatment plans, and other documents
+- Symptom-based initial information retrieval and standardized advice provision
+- Automated reminders and cognitive behavioral training programs based on preset plans
+- Online programs for self-help interventions for common mental health issues (e.g., mild anxiety, depression)
+
+**Where AI augments the role:**
+
+- Real-time tone and emotion analysis to help counselors identify potential issues
+- Data-driven personalized treatment recommendations and outcome prediction
+- AI-simulated client role-play for skill training and supervision
+- Automatically compile meeting minutes and extract key topics and progress indicators
+- Multimodal data analysis (facial expressions, voice) to enhance diagnostic accuracy
+
+**Human moat:**
+
+- Building a safe and trusting therapeutic alliance with deep empathy
+- Clinical judgment and ethical decision-making in complex situations (e.g., suicide risk assessment)
+- Handling unstructured, emotionally complex interviews and crisis intervention
+- Cultural sensitivity and personalized treatment adjustments
+- Immediate intuition and creative intervention during treatment
+
+**Skills to build:**
+
+- Application and integration of AI-assisted tools (e.g., intelligent diagnostics, document automation)
+- Data analysis and interpretation skills (using AI to process structured assessment data)
+- Operation and personalized adjustment of digital therapy platforms
+- Remote consultation and digital communication skills
+- Ethics and privacy management (compliant use of AI and client data)
+- Continuous learning ability (track cutting-edge AI applications in mental health)
+
+**Key growth areas:**
 
 - Mental Health Demand
 - Community Support
@@ -64,69 +100,68 @@ Counsellors provide support for emotional, mental health, addiction issues to in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 若职业在ANZSCO Skill Level 1-3且符合6分制条件（如注册+高薪）可申请，但心理咨询师通常需新西兰注册 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若雇主为认证雇主且岗位招聘通过劳动力市场测试，可申请AEWV，但注册为强制条件 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 心理咨询师不在Green List上，但未来可能调整；目前无直接路径 |
+| Subclass SMC (Skilled Migrant Category) | If the occupation is at ANZSCO Skill Level 1-3 and meets the 6-point criteria (e.g., registration + high salary), you can apply. However, psychologists usually need New Zealand registration. |
+| Subclass AEWV (Accredited Employer Work Visa) | If the employer is accredited and the position passes the labour market test, can apply for AEWV, but registration is mandatory |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Psychologist is not on the Green List, but may be added in the future; no direct pathway currently |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Counsellor？**
-- 具备同理心和倾听能力的人
-- 对心理健康行业有热情的人
-- 愿意接受持续专业发展的人
-
-**谁不适合学Counsellor？**
-- 情绪容易受影响且难以抽离的人
-- 缺乏耐心或不喜欢与复杂人际关系打交道的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and listening skills
+- People passionate about the mental health industry
+- Those willing to pursue continuous professional development
+
+**Who is not suited**
+- People who are easily emotionally affected and have trouble detaching
+- Those lacking patience or who dislike dealing with complex interpersonal relationships
+
+---
+
+## 8. FAQ
+
+**Q: Can psychologists immigrate to New Zealand through skilled migration?**
+A: Possible but limited pathways. Need registration with NZ Psychologists Board or membership in NZ Association of Counsellors, and apply via SMC or AEWV, but usually require locally completed qualifications or work experience.
+
+**Q: What is the average salary for psychologists in New Zealand?**
+A: Entry-level about 55,000–70,000 NZD, mid-level 70,000–90,000, senior 90,000–120,000. Private practice income may be higher, depending on client base and experience.
+
+**Q: What qualifications are needed to work as a psychologist in New Zealand?**
+A: Typically requires a relevant bachelor's or master's degree and registration with the New Zealand Psychologists Board or membership in the New Zealand Association of Counsellors. Registration requires approved courses and clinical supervised practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低风险（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Counsellor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can counsellors immigrate to New Zealand through skilled migration?**
-答：Yes, but pathways are limited. You need registration with the NZ Board of Counsellors or membership of NZAC, then apply via SMC or AEWV, typically requiring local qualifications or work experience.
-
-**问：What is the average salary for a counsellor in New Zealand?**
-答：Entry-level NZ$55,000-70,000, mid-level NZ$70,000-90,000, senior NZ$90,000-120,000. Private practice can yield higher but depends on client volume and experience.
-
-**问：What qualifications are needed to work as a counsellor in New Zealand?**
-答：Generally a relevant bachelor's or master's degree, plus registration with the NZ Board of Counsellors or membership of NZAC. Registration requires an approved programme and supervised clinical practice.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Commercial Housekeeper（Commercial Housekeeper）职业分析 · 澳大利亚
+# Commercial Housekeeper — career analysis · Australia
 
-**职业代码：811411 – Commercial Housekeeper。**
+**Occupation code: 811411 (ANZSCO)**
 
-Commercial housekeepers perform cleaning and tidying duties in commercial establishments such as hotels, offices, and shopping centers, ensuring a clean and sanitary environment. Tasks include vacuuming, scrubbing, and waste disposal, often requiring physical labor.
+Commercial cleaners are responsible for cleaning and tidying commercial premises such as hotels, offices, and shopping malls to ensure a clean and hygienic environment. The role involves tasks like vacuuming, scrubbing, and waste disposal, often requiring physical labor.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无需高等教育，在职培训为主） |
-| 短期职业课程 | 数周至3个月 | $500~$2,000（可选，如清洁技术证书） |
+| High school graduation | 0 years | $0~$0 (No higher education required, mainly on-the-job training) |
+| Short-term vocational course | Weeks to 3 months | $500~$2,000 (Optional, such as a Clean Technology Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常由雇主提供，学习清洁流程和安全规范 |
-| 清洁操作证书（可选） | TAFE或私立培训机构 | 可选 | 如Certificate II in Cleaning Operations，提升竞争力 |
-| 无正式注册要求 | N/A | 可选 | 多数州无需执照 |
+| On-the-job training | Employer | Required | Usually provided by the employer, learning cleaning processes and safety protocols |
+| Clean operation certificate (optional) | TAFE or private training institution | Optional | e.g., Certificate II in Cleaning Operations, boosts competitiveness |
+| No formal registration requirements. | N/A | Optional | License not required in most states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 50,000。澳洲商业清洁工需求稳定，受旅游业和商业活动驱动。预计未来五年就业增长缓慢，约1.4%，年约7,500个职位空缺。主要机会在酒店和清洁服务公司。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. Demand for commercial cleaners in Australia is stable, driven by tourism and business activities. Employment growth is expected to be slow over the next five years, at about 1.4%, with around 7,500 job openings annually. Main opportunities are in hotels and cleaning service companies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $42,000~$50,000 | 约$21-25/小时 |
-| 中级（2-5年） | $50,000~$58,000 | 含经验增加和加班 |
-| 高级（5年以上） | $58,000~$65,000 | 主管或特殊场所清洁 |
+| Median salary | $63,960 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $42,000~$50,000 | Approximately $21-25/hour |
+| Intermediate (2-5 years) | $50,000~$58,000 | Including experience increments and overtime |
+| Senior (5+ years) | $58,000~$65,000 | Supervisor or special venue cleaning |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 职业晋升路径有限，可从初级清洁工晋升为高级清洁工或团队主管，部分可成为清洁服务经理或创业。需积累经验并考取相关证书。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Commercial cleaners face a risk of automation downsizing; robotic vacuum cleaners and automated cleaning systems can already perform most repetitive cleaning tasks, leading to a clear decline in jobs.
+
+Limited career progression: can advance from junior cleaner to senior cleaner or team leader; some may become cleaning service managers or start their own business. Requires experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuuming and mopping
+- Automatic garbage sorting and classification
+- Automatic glass cleaning
+- Basic disinfection spraying
+- Automatic detergent dispenser.
+
+**Where AI augments the role:**
+
+- Using smart scheduling systems to optimize cleaning routes
+- Monitor cleaning quality using sensors
+- Analyzing cleaning frequency needs using AI.
+- Preventive maintenance using IoT devices
+- Training and managing cleaning robots
+
+**Human moat:**
+
+- Handles complex stains and unexpected situations.
+- Manual cleaning of fine areas (e.g., decorations)
+- Customer interaction and feedback handling
+- Deep cleaning and health safety inspections
+- Flexibly adapt to different workplace needs
+
+**Skills to build:**
+
+- Robot operation and maintenance
+- Data analysis and cleaning plan optimization
+- Basic IoT device management
+- Customer service skills
+- Green cleaning technology
+- Project Management
+
+**Key growth areas:**
 
 - Stable demand
 - Tourism-driven
@@ -64,65 +100,67 @@ Commercial housekeepers perform cleaning and tidying duties in commercial establ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 极少数情况雇主可担保，但通常不在此职业列表上 |
-| Subclass 189（Skilled Independent） | 不适用，该职业不在技术职业清单上 |
+| Subclass 482 (Temporary Skill Shortage) | In rare cases, employers can sponsor, but this occupation is usually not on the occupation list |
+| Subclass 189 (Skilled Independent) | Not applicable; this occupation is not on the skilled occupation list |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Commercial Housekeeper？**
-- 体力好、注重细节的人
-- 寻求稳定低门槛工作的人
-- 希望在服务业积累经验的人
+**Who is suited**
+- People who are physically fit and detail-oriented
+- People seeking stable, low-barrier jobs
+- People looking to gain experience in the service industry
 
-**谁不适合学Commercial Housekeeper？**
-- 期望高薪或快速晋升的人
-- 不喜重复体力劳动的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- people who dislike repetitive manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for commercial cleaners?**
+A: Entry-level salary approx. AUD 42,000-50,000/year, mid-level AUD 50,000-58,000, senior supervisor up to AUD 65,000. Hourly rate approx. AUD 21-25.
+
+**Q: Can commercial cleaners immigrate to Australia?**
+A: Generally not possible. This occupation is not on Australia's skilled occupation list, so it cannot apply for 189/190/491 visas. Only very few DAMA or employer-sponsored exceptions exist, but the requirements are high.
+
+**Q: How to advance to cleaning supervisor?**
+A: Typically requires 2-3 years of experience, good performance, and completion of internal training or obtaining a Certificate III in Cleaning Operations, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Commercial Housekeeper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for commercial housekeepers?**
-答：Entry-level salary is around AUD 42,000-50,000 per year, mid-level AUD 50,000-58,000, and senior supervisors up to AUD 65,000. Hourly rate is about AUD 21-25.
-
-**问：Can commercial housekeepers migrate to Australia?**
-答：Generally no. This occupation is not on the skilled occupation list, so it cannot apply for 189/190/491 visas. Only very rare DAMA or employer sponsorship exceptions exist, with high thresholds.
-
-**问：How to advance to cleaning supervisor?**
-答：Typically requires 2-3 years of experience, good performance, and internal training or obtaining a Certificate III in Cleaning Operations.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

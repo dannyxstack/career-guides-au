@@ -1,60 +1,92 @@
-# Stonemasons（Stonemasons）职业分析 · 美国
+# Stonemasons — career analysis · United States
 
-**职业代码：47-2022 – Stonemasons。**
+**Occupation code: 47-2022 (SOC)**
 
-Stonemasons build stone structures such as piers, walls, and abutments, and lay walks, curbstones, or special types of masonry for vats, tanks, and floors.
+Stonemasons construct stone structures such as bridge piers, walls, and revetments, lay paving, curbstones, and special masonry for large containers, tanks, and floors.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制（在职+课堂培训） | 3-4年 | $1,000~$5,000（学徒期间通常有薪资，培训费用低） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship (on-the-job + classroom training) | 3-4 years | $1,000~$5,000 (Apprentices typically receive a salary during training, with low training costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石匠学徒证书 | 美国劳工部或州学徒委员会 | 可选 | 完成注册学徒计划后获得，非强制但受雇主青睐 |
-| OSHA 30小时建筑安全培训 | 职业安全与健康管理局（OSHA） | 可选 | 许多工地要求持有 |
+| Stonemason Apprenticeship Certificate | US Department of Labor or State Apprenticeship Council | Optional | Obtained after completing a registered apprenticeship program, not mandatory but preferred by employers |
+| OSHA 30-hour construction safety training | Occupational Safety and Health Administration (OSHA) | Optional | Many construction sites require holding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,000。美国石匠就业前景稳定，受基础设施建设和建筑修复需求推动，预计2023-2033年就业增长约为4%，与所有职业平均水平相当。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,000. Employment outlook for US stonemasons is stable, driven by infrastructure construction and building restoration, with projected growth of about 4% from 2023 to 2033, about as fast as the average for all occupations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒或助手薪资较低 |
-| 中级（4-8年） | $45,000~$60,000 | 熟练石匠薪资区间 |
-| 高级（9年以上） | $60,000~$80,000 | 领班、承包商或专精修复的石匠薪资更高 |
+| Median salary | $57,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Lower pay for apprentices or assistants |
+| Mid-level (4–8 years) | $45,000~$60,000 | Salary range for experienced stonemasons |
+| Senior (9+ years) | $60,000~$80,000 | Foremen, contractors, or masons specializing in restoration earn higher salaries |
+| average salary | $60,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 石匠可从学徒做起，晋升为领班、工头，或专攻历史建筑修复、艺术石雕等细分领域，也可自主创业成为承包商。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+Stonemasons can start as apprentices, advance to foreman, supervisor, or specialize in historic building restoration, artistic stone carving, etc., or become self-employed contractors.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Infrastructure
 - Restoration
@@ -63,62 +95,64 @@ Stonemasons build stone structures such as piers, walls, and abutments, and lay 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 用于临时非农业工人，石匠岗位可能适用，但需雇主担保且名额有限。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 技术工人绿卡，但石匠通常难以满足技能要求，需PERM劳工认证。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | For temporary non-agricultural workers; stonemason roles may qualify but require employer sponsorship and limited quotas. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Green card for skilled workers, but stonemasons typically struggle to meet skill requirements; PERM labor certification needed. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stonemasons？**
-- 喜欢户外体力劳动、动手能力强的人
-- 对建筑和砌体工艺有热情者
-- 追求稳定职业、不介意工地的环境
+**Who is suited**
+- People who enjoy outdoor physical labor and are hands-on
+- Those passionate about construction and masonry craftsmanship
+- Seeking stable careers and not minding the work site environment
 
-**谁不适合学Stonemasons？**
-- 偏好办公室工作、需低劳动强度的人
-- 对灰尘和体力消耗敏感者
+**Who is not suited**
+- Those who prefer office work and low physical exertion
+- Those sensitive to dust and physical exertion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How are the salary levels for stonemasons?**
+A: According to BLS data, the median annual wage for stonemasons in the U.S. in 2023 was about $47,000, ranging from $35,000 to $80,000, depending on experience and region.
+
+**Q: What immigration pathways can stonemasons use to go to the US?**
+A: Stonemasons generally do not meet H-1B requirements, primarily rely on H-2B temporary worker visas (limited slots), or EB-3 green cards requiring PERM labor certification—pathways are difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stonemasons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stonemasons?**
-答：According to BLS, the median annual wage for stonemasons in 2023 was about $47,000, ranging from $35,000 to $80,000 depending on experience and location.
-
-**问：What immigration pathways are available for stonemasons to the US?**
-答：Stonemasons generally do not qualify for H-1B; they may rely on H-2B temporary visas (limited) or EB-3 green cards with PERM labor certification, which are challenging.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

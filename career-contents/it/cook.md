@@ -1,58 +1,91 @@
-# Cook（Cook）职业分析 · IT
+# Cook — career analysis · Italy
 
-**职业代码：5120 – Cook。**
+**Occupation code: 5120 (ISCO08)**
 
-Cooks prepare and cook dishes, ensuring food quality and hygiene standards. In Italy, this role is central to the hospitality industry, from traditional pasta to gourmet cuisine.
+Chefs prepare and cook dishes, ensuring food quality and hygiene standards. In Italy, this profession is central to the catering industry, with demand ranging from traditional pasta to fine dining.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训学校 | 2年 | $5,000~$10,000（公立与私立机构差异大） |
-| 本科（餐饮管理） | 3年 | $15,000~$25,000（大学学费含实习） |
+| Vocational training school | 2 years | $5,000~$10,000 (Large differences between public and private institutions) |
+| Bachelor's degree (Hospitality Management) | 3 years | $15,000~$25,000 (University tuition fees include internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生资格证书 | 地方卫生局 | 必备 | 食品安全与HACCP培训 |
-| 厨师等级认证 | 意大利厨师联合会 | 可选 | 非强制但提升就业 |
+| Health qualification certificate | Local Health District | Required | Food safety and HACCP training |
+| Chef certification | Italian Chefs Federation | Optional | Not mandatory but enhances employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 320,000。意大利餐饮业持续复苏，旅游与本地消费推动厨师需求。但薪资增长缓慢，工作强度大，兼职与季节性岗位常见。
+**Job demand: high (★★★★☆).** National workforce approx. 320,000. Italy's catering industry continues to recover, with tourism and local consumption driving demand for chefs. However, salary growth is slow, work intensity is high, and part-time and seasonal positions are common.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 多为合同工 |
-| 中级（3-7年） | $25,000~$35,000 | 星级餐厅更高 |
-| 高级（7年以上） | $40,000~$55,000 | 主厨或酒店行政厨师 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Mostly contract workers |
+| Mid-level (3–7 years) | $25,000~$35,000 | Higher at starred restaurants |
+| Senior (7+ years) | $40,000~$55,000 | Head chef or hotel executive chef |
+| average salary | $32,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级厨师可从厨房助理做起，积累经验后升为一线厨师、副主厨，最终成为行政主厨。也可专攻特定菜系或开设个人餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
+
+Junior chefs can start as kitchen assistants, gain experience to become line cooks, sous chefs, and eventually executive chefs. They can also specialize in specific cuisines or open their own restaurants.
+
+**Tasks most exposed to AI:**
+
+- Standard repetitive cooking tasks such as frying, stir-frying, and other fixed-procedure dishes can be completed by AI-controlled robots.
+- Recipe and ingredient management: AI systems can automatically optimise recipes, calculate ingredient ratios, and generate purchase lists.
+- Inventory counting and ordering: AI vision and barcode scanning systems monitor stock in real time and place orders automatically.
+- Customer ordering and order transmission: self-service kiosks and AI voice systems replace waitstaff taking and passing orders to kitchen.
+
+**Where AI augments the role:**
+
+- Menu innovation and dish development: AI analyzes dietary trends, ingredient pairings, and nutritional data to assist chefs in designing new dishes.
+- Cost control and food procurement: AI systems forecast demand, optimize purchase volumes, reduce waste, and increase profits
+- Quality control and consistency: AI vision systems monitor the color, size, and plating of each dish to ensure standard output.
+- Kitchen scheduling and workflow optimization: AI automatically schedules based on customer flow predictions and coordinates equipment usage to improve efficiency.
+
+**Human moat:**
+
+- Fine manual skills like knife work and heat control: AI cannot replicate a chef's intuition for ingredient texture and craftsmanship.
+- Creativity and personalized customization: improvise flavors and plating based on guest needs, showcasing artistry and human touch
+- Tasting and flavor assessment: human perception of subtle flavors (e.g., acidity, umami) far surpasses any sensor.
+- Kitchen leadership and team collaboration: managing kitchen staff, handling emergencies (e.g., excessive heat, customer complaints), requiring interpersonal coordination.
+
+**Skills to build:**
+
+- Learn to use AI kitchen management systems: e.g., inventory, purchasing, scheduling software such as Mozza or KitchenCUT.
+- Master food science and nutrition analysis: use AI tools to design healthy menus meeting special dietary needs.
+- Data interpretation and cost modeling: adjusting menu pricing and supply strategies based on sales data.
+- Enhance creative cooking and fusion cuisine skills: personalize services beyond standard dishes.
+- Learn to operate and maintain robotic equipment: such as automatic stir-fryers, smart ovens, etc.
+- Enhance leadership and communication skills: manage teams, train new chefs on AI tools.
+
+**Key growth areas:**
 
 - Tourism growth
 - Gourmet cuisine
@@ -61,68 +94,67 @@ Cooks prepare and cook dishes, ensuring food quality and hygiene standards. In I
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合非欧盟高技能厨师，需大学学位或同等经验，年薪门槛约26,000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，针对非欧盟季节性工人，适用于餐厅雇佣。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主担保工作许可，需证明无本地人选。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for non-EU high-skilled chefs, requiring a university degree or equivalent experience, annual salary threshold approx. €26,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU seasonal workers, applicable for restaurant employment. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer-sponsored work permission, must demonstrate no local candidate is available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cook？**
-- 热爱烹饪和美食
-- 能承受快节奏与压力
-- 喜欢团队合作
-
-**谁不适合学Cook？**
-- 厌恶体力劳动
-- 无法适应晚班与周末工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for Cooking and Food
+- Able to handle fast pace and pressure
+- Enjoys teamwork
+
+**Who is not suited**
+- Aversion to manual labor
+- Unable to adapt to night shifts and weekend work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of chefs in Italy?**
+A: Entry-level chefs earn an annual salary of about 18,000-24,000 euros, while executive chefs can earn 40,000-55,000 euros. Salaries vary significantly by region and restaurant level.
+
+**Q: How can non-EU chefs obtain an Italian work visa?**
+A: Via Decreto Flussi quota work visa or EU Blue Card. Requires employer sponsorship; some positions may require proof of no local candidates.
+
+**Q: What are the career progression paths for chefs in Italy?**
+A: From kitchen assistant to line cook, then to sous chef and executive chef. You can also specialize in areas like desserts, pizza, or start your own restaurant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等偏易（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cook的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cook in Italy?**
-答：Entry-level cooks earn €18,000–€24,000 per year, while senior chefs can earn €40,000–€55,000. Salary varies by region and restaurant type.
-
-**问：How can non-EU cooks obtain a work visa for Italy?**
-答：Via Decreto Flussi quota work visa or EU Blue Card. Requires employer sponsorship, and some positions need proof of no local candidates.
-
-**问：What are the career advancement paths for cooks in Italy?**
-答：From kitchen assistant to line cook, sous chef, and executive chef. Specializations in pastry, pizza, or opening your own restaurant are common.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

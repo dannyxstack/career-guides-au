@@ -1,58 +1,94 @@
-# Health Professionals Not Elsewhere Classified（Health Professionals Not Elsewhere Classified）职业分析 · ES
+# Health Professionals Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2159 – Health Professionals Not Elsewhere Classified。**
+**Occupation code: 2159 (CNO)**
 
-Covers health professionals not classified elsewhere, including health advisors, patient educators, and health program coordinators, working in various healthcare settings and public health departments in Spain.
+Covers health professionals not classified in other categories, such as health consultants, patient educators, health program coordinators, etc., working in various Spanish medical institutions and public health sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学每年学费约1000-3000欧元） |
-| 硕士（Máster） | 1-2年 | $1,500~$5,000（公立大学硕士每年学费约1500-5000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (Public university tuition fees approximately EUR 1,000-3,000 per year) |
+| Máster | 1-2 years | $1,500~$5,000 (The annual tuition for a master's degree at a public university is about 1,500–5,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康科学相关学士学位 | 西班牙大学 | 必备 | 需获得相关领域学士学位，如公共卫生、健康科学等 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行学历认证，评估是否等同西班牙学位 |
+| Bachelor's degree in health sciences | Spanish University | Required | A bachelor's degree in a relevant field is required, such as public health or health sciences |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require credential verification to assess whether they are equivalent to a Spanish degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。西班牙医疗系统持续扩张，老龄化社会推动需求，健康促进与预防领域岗位增加，就业前景稳定向好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Spain's healthcare system continues to expand, an aging society drives demand, jobs in health promotion and prevention are increasing, and employment prospects remain stable and positive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 公立医院或健康中心底薪 |
-| 中级（4-7年） | $30,000~$40,000 | 私立机构或专科领域略高 |
-| 高级（8年以上） | $40,000~$55,000 | 管理岗或资深专家 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Base salary for public hospitals or health centers |
+| Mid-level (4-7 years) | $30,000~$40,000 | Private institutions or specialized fields have slightly higher rates |
+| Senior (8+ years) | $40,000~$55,000 | Management role or senior expert |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可向健康管理、公共卫生政策或医疗项目主任晋升，部分转向私营健康咨询或健康科技公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance health advisor and patient education tasks while automating documentation and coordination, but clinical judgment, empathy, and cross-team collaboration remain humanity's core moat.
+
+Promotion can be made to health management, public health policy, or medical program directors, with some moving into private health consulting or health technology companies.
+
+**Tasks most exposed to AI:**
+
+- Automated routine health assessment questionnaire completion and preliminary triage
+- AI generates standardized patient education materials
+- Automatically organize and archive health project data
+- Basic health consultation responses (such as common disease Q&A)
+- Meeting schedule and coordination
+
+**Where AI augments the role:**
+
+- AI-assisted personalized health education program design
+- Big data analytics support health trend prediction
+- Speech-to-text tools improve the efficiency of patient interaction document recording
+- Intelligent monitoring systems assist in long-term management of chronic diseases
+- AI translation tools facilitate communication with patients from different linguistic backgrounds
+
+**Human moat:**
+
+- Complex clinical judgments and deep patient needs insights
+- Coordination ability for cross-cultural and cross-departmental health programs
+- Empathy and trust building (such as sensitive situations like hospice)
+- On-site decision-making in response to public health emergencies
+- Health intervention design based on ethics and values
+
+**Skills to build:**
+
+- Health informatics and electronic health record systems
+- Basic data analysis and statistical software (such as Python/Pandas)
+- Use of AI tools (such as ChatGPT generating patient education content)
+- Telemedicine communication and coordination skills
+- Application of behavioral science in health promotion
+- Multilingual proficiency (especially English and local languages)
+
+**Key growth areas:**
 
 - Aging population
 - Health promotion
@@ -61,65 +97,64 @@ Covers health professionals not classified elsewhere, including health advisors,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人员，需有工作合同且年薪达标（约33,908欧元）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 根据Ley 14/2013，适用于高级专业人员、研究人员或经理，流程较快。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由雇主担保的普通工作居留，需证明职位无法在本地填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals who have a work contract and meet the annual salary threshold (approximately 33,908 euros). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | According to Ley 14/2013, it is suitable for senior professionals, researchers, or managers, with a relatively fast process. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored ordinary work residence, proof must be provided that the position cannot be filled locally. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Professionals Not Elsewhere Classified？**
-- 对健康促进和预防医学有兴趣的人
-- 希望从事非临床健康领域工作的人
-- 有良好沟通和项目管理能力的人
-
-**谁不适合学Health Professionals Not Elsewhere Classified？**
-- 希望直接从事临床治疗工作的人
-- 不喜欢跨部门协作或公共政策工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in health promotion and preventive medicine
+- Those who wish to work in non-clinical health fields
+- People with good communication and project management skills
+
+**Who is not suited**
+- Those who wish to work directly in clinical treatment
+- People who dislike cross-departmental collaboration or public policy work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for other health professionals in Spain?**
+A: Entry-level positions earn about 22,000-30,000 euros annually, intermediate positions about 30,000-40,000 euros, and senior management positions can earn 40,000-55,000 euros. There are slight differences between the public sector and private institutions.
+
+**Q: What visas are required to immigrate to Spain to work as other health professionals?**
+A: You can apply for the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional visa (Ley 14/2013), which requires a work contract and the relevant academic qualifications. Ordinary Work Residency (Cuenta ajena) is also applicable. Non-EU degrees require Homologación (Academic Credential Recognition).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Health Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for health professionals not elsewhere classified in Spain?**
-答：Entry-level positions earn around €22,000-€30,000 annually, mid-level €30,000-€40,000, and senior management roles can reach €40,000-€55,000. Differences exist between public and private sectors.
-
-**问：What visas are needed to work as a health professional not elsewhere classified in Spain?**
-答：You can apply for the EU Blue Card or the Highly Skilled Professional visa (Law 14/2013), requiring a job offer and relevant degree. The ordinary work permit (Cuenta ajena) is also an option. Non-EU degrees need homologación (credential evaluation).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

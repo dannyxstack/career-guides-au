@@ -1,59 +1,94 @@
-# Salespersons Not Elsewhere Classified（Salespersons Not Elsewhere Classified）职业分析 · ES
+# Salespersons Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：5499 – Salespersons Not Elsewhere Classified。**
+**Occupation code: 5499 (CNO)**
 
-Includes salespersons not elsewhere classified, such as telemarketers, door-to-door sellers, and street vendors, offering flexible work but variable income.
+This includes various types of salespeople not listed in other categories, such as telemarketers, door-to-door sales, street sales, etc., who have flexible jobs but unstable incomes.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无固定 | —（无需特定教育） |
-| 职业培训（FP Grado Medio） | 2年 | $500~$3,000（商业或销售相关课程） |
+| High school graduation | No fixed requirement | $0~$0 (No specific education is required) |
+| Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Business or sales-related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 通常只需中学学历 |
+| No mandatory qualification requirements | None | Optional | Usually, only a secondary school diploma is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。由于电子商务和自动化的冲击，传统销售岗位需求缓慢下降，但直销、电话销售等领域仍有部分需求，适合灵活就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Due to the impact of e-commerce and automation, demand for traditional sales positions has slowly declined, but areas such as direct sales and telemarketing still have some demand, making them suitable for flexible employment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 底薪加佣金 |
-| 中级（3-7年） | $20,000~$28,000 | 底薪加提成 |
-| 高级（7年以上） | $25,000~$35,000 | 高管或团队领导 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$20,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $20,000~$28,000 | Base salary plus commission |
+| Senior (7+ years) | $25,000~$35,000 | Executives or team leaders |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：悲观（★½☆☆☆）。** 经验丰富者可晋升为销售主管或区域经理，也可转向客户服务或市场营销，或自主创业。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Unclassified sales personnel (phone, door-to-door, street sales) face high automation risks. AI voice and digital marketing will replace a large number of repetitive sales tasks, significantly shrinking entry-level positions.
+
+Experienced individuals can be promoted to Sales Supervisor or Regional Manager, or may shift to customer service, marketing, or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Telephone sales: AI voice robots automatically make outbound calls and screen potential customers
+- On-site sales: Data-driven precision marketing reduces the need for stranger visits
+- Street selling: Digital advertising and recommendation systems replace random block selling
+- Repeat customer follow-up: CRM automates sending emails/messages and schedule reminders
+- Order entry: AI automatically extracts information from calls or chats and enters it into the system
+
+**Where AI augments the role:**
+
+- Complex negotiations: AI provides real-time data analysis support to assist pricing and discount decisions
+- Customer Relationship Management: AI analyzes historical interaction records to remind users of the best timing and strategies for follow-up
+- Personalized recommendations: AI generates customized scripts and product combinations based on customer profiles
+- Sales Forecasting: AI forecasts demand based on market data, optimizing sales goals and routes
+
+**Human moat:**
+
+- Building long-term trust and emotional resonance
+- Handling highly personalized, non-standardized customer objections
+- Flexible adaptability across cultures and scenarios
+- Creatively uncovering hidden needs and solutions
+- On-site impact and improvisational persuasiveness
+
+**Skills to build:**
+
+- Application of AI sales tools (such as CRM intelligent analysis, AI conversation assistance)
+- Fundamentals of data processing and customer analysis
+- High-value negotiations and complex relationship management
+- Digital marketing and multi-channel customer acquisition strategies
+- Emotional intelligence and empathy training
+- Compliance and Ethical Awareness (Data Privacy, Anti-Harassment)
+
+**Key growth areas:**
 
 - e-commerce impact
 - automation
@@ -62,62 +97,64 @@ Includes salespersons not elsewhere classified, such as telemarketers, door-to-d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 由西班牙公司担保的工作居留，需证明职位难以填补。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙寻找工作6个月，适用于高学历人群。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Work residency sponsored by a Spanish company must prove that the position is difficult to fill. |
+| Subclass Búsqueda de empleo (Job Search Visa) | Allows you to find a job in Spain for 6 months, suitable for highly educated individuals. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salespersons Not Elsewhere Classified？**
-- 善于沟通且抗压能力强的人
-- 能接受灵活工作时间和提成制的人
-- 希望快速进入劳动市场的人
+**Who is suited**
+- Someone who is good at communication and strong under pressure
+- Willing to accept flexible working hours and commission systems
+- Those hoping to quickly enter the labor market
 
-**谁不适合学Salespersons Not Elsewhere Classified？**
-- 寻求稳定高薪的人
-- 不擅长说服或销售的人
+**Who is not suited**
+- Those seeking stable high salaries
+- People who are not good at persuading or selling
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for salespeople in Spain?**
+A: Junior approx. €15,000-20,000, mid-level €20,000-28,000, senior up to €35,000, but most income comes from commissions.
+
+**Q: Can foreigners immigrate to Spain through sales positions?**
+A: It is very difficult because the occupation is not in short supply; companies need to prove that the position is hard to find locals and that the income threshold is low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 悲观（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Salespersons Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for salespersons in Spain?**
-答：Entry-level around €15,000-20,000, mid-level €20,000-28,000, senior up to €35,000, mostly commission-based.
-
-**问：Can foreigners immigrate to Spain through sales jobs?**
-答：Very difficult, as it's not a shortage occupation; employers must prove difficulty in finding local workers, and salary thresholds are low.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

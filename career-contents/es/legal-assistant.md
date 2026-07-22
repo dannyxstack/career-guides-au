@@ -1,59 +1,95 @@
-# Legal Assistant（Legal Assistant）职业分析 · ES
+# Legal Assistant — career analysis · Spain
 
-**职业代码：3612 – Legal Assistant。**
+**Occupation code: 3612 (CNO)**
 
-Legal assistants support lawyers in law firms, corporate legal departments, or public institutions, handling document preparation, legal research, case management, and client communication.
+Legal assistants support lawyers in law firms, corporate legal departments, or public institutions, responsible for document organization, legal research, case management, and client communication.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Superior） | 2年 | —（公立培训中心免费，私立约1000-2000欧元/年） |
-| 大学本科（Grado en Derecho） | 4年 | $1,000~$6,000（公立大学约1000-1500欧元/年，私立约4000-6000欧元/年） |
+| Intermediate Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public training centers are free, private ones about 1000-2000 euros per year) |
+| Undergraduate (Grado en Derecho) | 4 years | $1,000~$6,000 (Public universities about 1,000-1,500 euros/year, private about 4,000-6,000 euros/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior en Asistencia a la Dirección | 教育部认可的培训中心 | 可选 | 可选，但受雇主青睐 |
-| 法律学士学位（Grado en Derecho） | 西班牙大学 | 可选 | 非强制，但利于晋升 |
-| 外国学历认证（Homologación） | 西班牙教育部 | 可选 | 若有外国法律学位需认证 |
+| FP Grado Superior en Asistencia a la Dirección | A training center recognized by the Ministry of Education | Optional | Optional, but favored by employers |
+| Bachelor of Laws (Grado en Derecho) | Spanish University | Optional | Not mandatory, but beneficial for promotion |
+| Homologación (Homologación) of Foreign Academic Credentials | Spanish Ministry of Education | Optional | If you have a foreign law degree, it must be certified |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。西班牙法律助理需求稳定，受司法系统效率提升和企业合规需求驱动。马德里、巴塞罗那等大城市机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. The demand for legal assistants in Spain is stable, driven by improved judicial system efficiency and corporate compliance requirements. Major cities like Madrid and Barcelona offer more opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$50,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$50,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级法律助理可晋升为高级助理、案件经理，或通过深造成为律师（需完成法学学位及硕士）。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
+
+Junior Legal Assistants can be promoted to Senior Assistant, Case Manager, or become lawyers through Shenzhen Studies (requires completion of a law degree and master's degree).
+
+**Tasks most exposed to AI:**
+
+- Automatic generation and preliminary review of property document templates.
+- Rule-based due diligence checklist checking
+- Automatic reminders and tracking of appointments and deadlines
+- Standardized document filling for real estate transaction processes
+- Simple proofreading and formatting of legal documents
+
+**Where AI augments the role:**
+
+- AI-Assisted Complex Title Search & Title Chain Visualization
+- Smart contract management systems improve efficiency in handling multiple cases
+- Automated generation of client progress reports and risk alerts
+- Use NLP to quickly extract key clauses and potential conflicts
+- Chatbots handle routine customer inquiries, freeing up time
+
+**Human moat:**
+
+- Legal strategy and judgment in complex property disputes
+- High-sensitivity communication with clients, banks, municipalities, etc.
+- Professional reasoning on incomplete information or conflicting clues
+- Assume sign-off responsibility and occupational risk management
+- In-depth interpretation of local regulations and location-specific advice
+
+**Skills to build:**
+
+- Hands-on experience with LegalTech tools (e.g., Clio, PracticePanther)
+- Use of AI-assisted document review platforms (e.g., Kira, Relativity)
+- Data analysis and statistics related to property rights.
+- Advanced search and information verification techniques
+- Project management and client communication skills
+- Basic programming (Python/API) to customize automated workflows
+
+**Key growth areas:**
 
 - Legal Tech
 - Compliance
@@ -62,68 +98,67 @@ Legal assistants support lawyers in law firms, corporate legal departments, or p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (employed)） | 由西班牙雇主担保的工作居留，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历或高收入的法律助理，可快速获得居留。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学历及高于平均水平的薪资合同，适合中级以上职位。 |
+| Subclass Cuenta ajena (Work Permit (employed)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or high-income legal assistants, allowing quick residency access. |
+| Subclass Tarjeta azul UE (EU Blue Card) | University degree and above-average salary contract required, suitable for mid-level or higher positions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Assistant？**
-- 细致有条理、擅长文书工作的人
-- 对法律感兴趣但不想成为律师的人
-- 希望在律所或企业法务部稳定就业的人
-
-**谁不适合学Legal Assistant？**
-- 不喜重复性文书工作者
-- 追求高薪高压职业者（建议转向律师）
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous, organized, and skilled in clerical work
+- People interested in law but who do not want to become lawyers
+- Those who want stable employment at law firms or corporate legal departments
+
+**Who is not suited**
+- Dislikes repetitive clerical work
+- For those seeking high salary and high-pressure careers (suggest switching to lawyer)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for legal assistants in Spain?**
+A: The entry-level salary is about 18,000-24,000 euros, the intermediate salary is 25,000-35,000 euros, and the senior can reach up to 50,000 euros.
+
+**Q: Can a Chinese legal background apply for a legal assistant position in Spain?**
+A: Yes, but you must pass homologación or choose the FP pathway that does not require certification. It is recommended to first study a Spanish Master of Laws for one year.
+
+**Q: How can a legal assistant be promoted to a lawyer?**
+A: Applicants must complete a 4-year Bachelor's degree in Law (Grado) and a 1-year Master's degree (Máster de Acceso a la Abogacía), as well as pass the national exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Legal Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for legal assistants in Spain?**
-答：Entry-level annual salary is around 18,000-24,000 EUR, mid-level 25,000-35,000 EUR, and senior up to 50,000 EUR.
-
-**问：Can a Chinese legal background apply for legal assistant positions in Spain?**
-答：Yes, but degree homologation is required or consider a FP pathway. It is advisable to complete a year of Spanish law master.
-
-**问：How can a legal assistant become a lawyer?**
-答：Complete a 4-year law degree (Grado) and a 1-year master (Máster de Acceso a la Abogacía), then pass the national bar exam.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

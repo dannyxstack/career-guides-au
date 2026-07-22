@@ -1,60 +1,93 @@
-# Personal Financial Advisors（Personal Financial Advisors）职业分析 · 美国
+# Personal Financial Advisors — career analysis · United States
 
-**职业代码：13-2052 – Personal Financial Advisors。**
+**Occupation code: 13-2052 (SOC)**
 
-Advise clients on financial plans using knowledge of tax, investment, insurance, and retirement strategies to achieve financial goals.
+Provide comprehensive financial advice on tax, investment, insurance, and retirement planning to help clients achieve financial goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$200,000（公立大学约4万，私立名校可达20万美元） |
-| 硕士（可选） | 1-2年 | $30,000~$120,000（MBA或金融硕士有助于晋升） |
+| Bachelor's degree | 4 years | $40,000~$200,000 (Around USD 40,000 at public universities, up to USD 200,000 at elite private institutions) |
+| Master's degree (optional) | 1-2 years | $30,000~$120,000 (An MBA or Master of Finance can help with career advancement) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Series 65 或 Series 7 执照 | FINRA | 必备 | 多数岗位要求，可在入职后考取 |
-| CFP（注册理财规划师） | CFP Board | 可选 | 高级认证，提升信誉 |
-| CFA（特许金融分析师） | CFA Institute | 可选 | 投资管理方向高含金量认证 |
-| 本科学位（金融、经济等） | 大学 | 必备 | 大部分雇主的基本要求 |
+| Series 65 or Series 7 license | FINRA | Required | Required for most roles, can be obtained after starting |
+| Bachelor's degree (finance, economics, etc.) | University | Required | Basic requirement for most employers |
+| CFP (Certified Financial Planner) | CFP Board | Optional | Advanced certification, enhances credibility |
+| CFA (Chartered Financial Analyst) | CFA Institute | Optional | High-value certification in investment management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 213,100。随着老龄化人口对退休规划需求增加，以及金融产品复杂化，预计2023-2033年就业增长约17%，远高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 213,100. With an aging population increasing demand for retirement planning and the complexity of financial products, employment is projected to grow about 17% from 2023 to 2033, much faster than average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$75,000 | 取决于公司规模和地区 |
-| 中级（3-7年） | $75,000~$120,000 | 持有CFP等认证可提高收入 |
-| 高级（7年以上） | $120,000~$200,000 | 资深顾问或管理层可达更高，含奖金 |
+| Median salary | $105,070 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$75,000 | Depends on company size and region |
+| Mid-level (3–7 years) | $75,000~$120,000 | Holding certifications such as CFP can increase income |
+| Senior (7+ years) | $120,000~$200,000 | Senior consultants or management can earn more, including bonuses |
+| average salary | $156,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级分析师晋升为高级顾问、团队主管，或考取CFP等认证后独立执业，部分进入财富管理公司管理层。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Licensed Financial Advisors Will Not Be Replaced by AI; Instead, AI Enhances Data Processing and Compliance Efficiency, but Entry-Level Roles Have Significantly Narrowed Due to Regulatory and Qualification Requirements.
+
+Can progress from junior analyst to senior consultant, team lead, or obtain certifications like CFP for independent practice; some enter wealth management firm management.
+
+**Tasks most exposed to AI:**
+
+- Basic data collection and organization (client income, assets, liabilities, etc.)
+- Preliminary review and archiving of compliance documents
+- Standardized superannuation balance inquiries and retirement income projection calculations
+- Portfolio rebalancing trade execution
+
+**Where AI augments the role:**
+
+- AI generates first drafts of personalized financial plans, allowing advisors to focus on strategy optimization
+- AI analyzes customer behavior data to provide cross-selling and risk warnings
+- Automated compliance checks to reduce violation risk
+- Market research and investment trend analysis acceleration
+
+**Human moat:**
+
+- Legal and fiduciary duties (e.g., Fiduciary Duty)
+- Building and maintaining complex client relationships
+- Non-standard financial decisions (e.g., estate planning, tax optimization)
+- Final judgment and sign-off responsibility for regulatory compliance.
+
+**Skills to build:**
+
+- Operation of AI financial planning tools (e.g., Vise, Betterment platforms)
+- Data analysis and basic Python/R programming
+- Behavioral Finance and Customer Psychological Insight
+- Advanced compliance and regulatory knowledge (new ASIC regulations)
+- Digital customer relationship management (CRM) systems
+- Cross-selling and wealth management comprehensive skills
+
+**Key growth areas:**
 
 - Aging Population
 - Retirement Planning
@@ -63,68 +96,67 @@ Advise clients on financial plans using knowledge of tax, investment, insurance,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大型金融机构，需本科以上学历，配额有限竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于硕士以上或杰出能力者，需PERM劳工证，排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保的绿卡流程，需证明无法招聘到合适美国员工。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in large financial institutions, requires a bachelor's degree or higher, limited quotas and intense competition. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to those with a master's degree or above or outstanding ability, requires PERM labor certification, long wait times. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card process, requires proving inability to hire suitable US workers. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Personal Financial Advisors？**
-- 有较强沟通和销售能力的人
-- 对金融市场和投资有兴趣者
-- 愿意持续学习并考取认证的人
-
-**谁不适合学Personal Financial Advisors？**
-- 厌恶销售或业绩压力的人
-- 不擅长数字分析的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong communication and sales abilities
+- Those interested in financial markets and investment
+- People willing to continuously learn and obtain certifications.
+
+**Who is not suited**
+- Those who dislike sales or performance pressure
+- People not good at numerical analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a personal financial advisor?**
+A: Entry-level about 50,000-75,000 USD, mid-level 75,000-120,000, senior 120,000-200,000, experienced can exceed 250,000.
+
+**Q: Is it difficult for personal financial advisors to immigrate to the US?**
+A: Common H-1B and EB-2/EB-3 green card pathways, but require employer sponsorship and have tight quotas and long backlogs.
+
+**Q: What certifications are needed?**
+A: Typically requires Series 65 or 7 license; CFP advanced certification is a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Personal Financial Advisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for personal financial advisors?**
-答：Entry-level $50k-$75k, mid $75k-$120k, senior $120k-$200k, experienced can exceed $250k.
-
-**问：Is it difficult to immigrate as a personal financial advisor?**
-答：H-1B and EB-2/EB-3 green cards are common but require employer sponsorship and long queues.
-
-**问：What certifications are needed?**
-答：Typically Series 65 or 7 licenses; CFP is highly recommended.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

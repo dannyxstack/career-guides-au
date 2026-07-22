@@ -1,59 +1,95 @@
-# Dental Assistants（Dental Assistants）职业分析 · 美国
+# Dental Assistants — career analysis · United States
 
-**职业代码：31-9091 – Dental Assistants。**
+**Occupation code: 31-9091 (SOC)**
 
-Perform clinical and administrative duties under dentist supervision, including instrument sterilization, patient preparation, radiography, and appointment scheduling.
+Performs clinical and administrative duties under dentist supervision, including instrument preparation, patient care, taking X-rays, and appointment management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 牙科助理证书/文凭 | 9-12个月 | $5,000~$20,000（社区学院或技术学校） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Dental Assistant certificate/diploma. | 9-12 months | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CPR认证 | 美国心脏协会 | 必备 | 通常为就业必备 |
-| 放射学执照 | 州牙科委员会 | 必备 | 部分州要求 |
-| 注册牙科助理（RDA） | 牙科助理认证委员会（DANB） | 可选 | 部分州要求或雇主偏好 |
+| CPR certification | American Heart Association | Required | Usually required for employment |
+| Radiology license | State Dental Board | Required | Required in some states |
+| Registered Dental Assistant (RDA) | Dental Assisting National Board (DANB) | Optional | Required or preferred by some states or employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 336,000。美国劳工统计局预测2023-2033年牙科助理就业增长约8%，快于平均水平，主要由于人口老龄化和口腔健康需求增加。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 336,000. The U.S. Bureau of Labor Statistics projects around 8% growth in dental assistant employment from 2023 to 2033, faster than average, driven mainly by an aging population and increased demand for oral healthcare.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级薪资 |
-| 中级（3-7年） | $42,000~$54,000 | 中等经验年薪 |
-| 高级（7年以上） | $54,000~$65,000 | 资深或担任管理职责 |
+| Median salary | $48,070 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level salary |
+| Mid-level (3–7 years) | $42,000~$54,000 | Median experience annual salary |
+| Senior (7+ years) | $54,000~$65,000 | Senior or in management roles |
+| average salary | $50,200 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为高级牙科助理、办公室经理或通过额外教育成为牙科保健师或牙医。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
+
+Can advance to senior dental assistant, office manager, or through additional education become a dental hygienist or dentist.
+
+**Tasks most exposed to AI:**
+
+- Patient appointment and schedule management (AI scheduling system)
+- Dental imaging capture and basic analysis (AI-assisted imaging)
+- Instrument sterilization and inventory tracking (automated sterilization cabinets and IoT tags)
+- Patient billing and insurance claim processing (AI-automated form filling)
+- Routine Chairside Assistance (e.g., Suction, Tool Passing, Robot-Assisted)
+
+**Where AI augments the role:**
+
+- AI-assisted chairside operation support: real-time image annotation and surgical suggestions
+- Patient communication and education: AI generates personalized care plans, assistant explains
+- Infection control monitoring: AI analyzes environmental data, assistants optimize processes
+- Cross-clinic data sharing: AI integrates medical records, assistant coordinates referrals
+- Remote consultation support: AI-assisted video diagnosis, assistant prepares equipment
+
+**Human moat:**
+
+- Building Trust with Patients, Handling Anxiety and Emotions
+- Clinical judgment in handling medical emergencies (e.g., allergies, fainting)
+- Smooth coordination of fine hand operations and instrument transfer
+- Cross-team coordination (dentist, hygienist, lab)
+- Personalized patient education and behavior change guidance
+
+**Skills to build:**
+
+- Operation of AI dental software (e.g., Diagnocat, Planmeca Romexis)
+- Digital Dental Workflow (Intraoral Scanning, CAD/CAM Basics)
+- Advanced patient communication and behavior management skills
+- Basic data analysis (clinic operational metrics)
+- Infection control and compliance knowledge updates
+- Multitasking coordination and prioritization skills
+
+**Key growth areas:**
 
 - Aging population
 - Increased dental awareness
@@ -62,68 +98,67 @@ Perform clinical and administrative duties under dentist supervision, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 通常需要本科学位，但部分牙科助理可能通过专业资格申请；竞争激烈。 |
-| Subclass EB-3（EB-3 Skilled Worker/Professional） | 基于PERM劳工证，适用于有两年经验或副学位的牙科助理；排期较长。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 需要雇主担保并通过劳工证明，证明无合格美国工人可用。 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Usually requires a bachelor's degree, but some dental assistants may apply through professional qualifications; competition is intense. |
+| Subclass EB-3 (EB-3 Skilled Worker/Professional) | Based on the PERM labor certification, suitable for dental assistants with two years of experience or an associate degree; long processing times. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Requires employer sponsorship and labor certification proving no qualified US workers available. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Assistants？**
-- 注重细节且手巧的人
-- 乐于在团队中协助他人
-- 对口腔健康行业有热情
-
-**谁不适合学Dental Assistants？**
-- 不耐受血液或口腔异味
-- 无法承受长时间站立工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and dexterous individuals
+- Enjoy assisting others in a team setting
+- Passion for the oral health industry
+
+**Who is not suited**
+- Intolerant of blood or oral odors
+- Cannot tolerate long periods of standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dental assistants?**
+A: Median annual salary around $44,000, with entry-level at $34,000 and senior at $58,000, depending on experience and region.
+
+**Q: How can a dental assistant immigrate to the US through a work visa?**
+A: Usually requires employer-sponsored H-1B (needs bachelor's degree) or EB-3 green card (needs PERM labor certification); due to educational requirements, pathways are narrow.
+
+**Q: What certifications are needed to become a dental assistant?**
+A: Most states require CPR certification; some require a radiology license or Registered Dental Assistant (RDA) exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dental Assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dental assistants?**
-答：Median annual wage is about $44,000, entry-level around $34,000, senior up to $58,000, depending on experience and location.
-
-**问：How can dental assistants immigrate to the US via work visa?**
-答：Typically require employer sponsorship for H-1B (needs bachelor's degree) or EB-3 green card (PERM); limited due to education requirements.
-
-**问：What certifications are needed to become a dental assistant?**
-答：Most states require CPR certification; some require radiology license or Registered Dental Assistant (RDA) exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Other professional occupations in health diagnosing and treating（Other professional occupations in health diagnosing and treating）职业分析 · 加拿大
+# Other professional occupations in health diagnosing and treating — career analysis · Canada
 
-**职业代码：31209 – Other professional occupations in health diagnosing and treating。**
+**Occupation code: 31209 (NOC)**
 
-Includes audiologists, speech-language pathologists, chiropractors, etc., who assess, diagnose, and treat patients to improve health.
+Includes audiologists, speech-language pathologists, chiropractors, etc., responsible for assessing, diagnosing, and treating patients to improve their health.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 硕士学位 | 2年 | $20,000~$60,000（如言语语言病理学硕士，学费因大学而异） |
-| 博士学位 | 4年 | $40,000~$120,000（如脊椎按摩博士，学费较高） |
-| 本科 | 4年 | $40,000~$80,000（相关健康科学本科，作为研究生教育基础） |
+| Master's degree | 2 years | $20,000~$60,000 (E.g., Master of Speech Language Pathology, tuition varies by university) |
+| Doctoral degree (PhD) | 4 years | $40,000~$120,000 (e.g., Doctor of Chiropractic, high tuition fees) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Related health science bachelor's degree as a foundation for postgraduate education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级注册 | 各省监管机构 | 必备 | 必须通过资格考试并注册才能执业 |
-| 专业硕士学位 | 认可大学 | 必备 | 例如言语语言病理学硕士或脊椎按摩博士 |
-| 实习/临床培训 | 培训项目 | 必备 | 多数专业要求完成监督临床实习 |
+| Provincial registration. | Provincial regulatory bodies | Required | Must pass a qualification exam and be registered to practice |
+| Professional Master's Degree | Recognised university | Required | For example, a master's degree in speech-language pathology or a doctorate in chiropractic |
+| Internship / Clinical Training | Training program | Required | Most specialties require completing supervised clinical internships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。加拿大人口老龄化推动需求增长，尤其在偏远地区。就业前景较好，预计未来几年职位空缺持续。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Canada's aging population is driving demand growth, especially in remote areas. Job prospects are good, with vacancies expected to persist in the coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 新毕业生，公立或私人诊所 |
-| 中级（3-7年） | $75,000~$95,000 | 有经验从业者，部分私人执业收入更高 |
-| 高级（7年以上） | $95,000~$130,000 | 高级临床或管理职位，或私人诊所所有者 |
+| Median salary | $56,800 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | New graduates, public or private clinics |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experienced practitioners, higher income in some private practices |
+| Senior (7+ years) | $95,000~$130,000 | Senior clinical or management roles, or private practice owner |
+| average salary | $64,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从业者通常需要硕士或博士学位，积累经验后可转向管理或私人执业，也可从事研究或教学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on this profession is mixed: automation can handle documentation and data analysis, but clinical diagnosis, treatment planning, and patient interaction still highly depend on human judgment, and legal regulations limit automation substitution.
+
+Practitioners usually need a master's or doctoral degree, and with experience can move into management or private practice, or engage in research and teaching.
+
+**Tasks most exposed to AI:**
+
+- Medical record keeping and patient data entry
+- Data analysis in routine hearing or speech assessments
+- Automated sending of patient appointment reminders
+- Insurance reimbursement document processing
+- Answering initial screening questions based on guidelines
+
+**Where AI augments the role:**
+
+- Improve assessment accuracy with AI diagnostic assistance systems
+- Automatically generate treatment reports using natural language processing tools
+- Real-time speech therapy feedback via AI voice analysis
+- Enhance rehabilitation training using virtual reality simulations.
+- AI-assisted personalized treatment plan development and adjustment
+
+**Human moat:**
+
+- Face-to-face patient communication and trust building
+- Clinical judgment and ethical decision-making for complex cases
+- Manual therapy techniques and tactile sensitivity
+- Interdisciplinary collaboration and personalized plan design
+- Legally mandated independent diagnostic authority
+
+**Skills to build:**
+
+- Use and interpretation of AI diagnostic tools
+- Data-driven decision-making and clinical data analysis
+- Operation of digital health records and telemedicine platforms
+- Interdisciplinary collaboration and communication skills
+- Continuous learning of new technologies and evidence-based practice
+- Basic programming or scripting skills to customize workflows
+
+**Key growth areas:**
 
 - Aging population
 - Rural demand
@@ -63,68 +99,67 @@ Includes audiologists, speech-language pathologists, chiropractors, etc., who as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类移民，需要符合学历和工作经验要求。 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名项目，尤其对医疗职业有优先通道。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适用于获得工作offer的申请人。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Requires meeting education and work experience requirements through Federal Skilled Worker or Canadian Experience Class. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, especially with priority pathways for medical occupations. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable to applicants with a job offer. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other professional occupations in health diagnosing and treating？**
-- 有志于帮助他人、改善健康的人
-- 具备科学基础和持续学习能力的人
-- 喜欢独立工作又擅长沟通的人
-
-**谁不适合学Other professional occupations in health diagnosing and treating？**
-- 厌恶长时间学术训练的人
-- 不喜欢直接接触患者的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Aspiring to help others and improve health
+- People with a scientific foundation and continuous learning ability
+- People who enjoy working independently yet are good at communicating
+
+**Who is not suited**
+- People who dislike long periods of academic training
+- People who do not like direct contact with patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Canada?**
+A: According to Job Bank, annual salary approx. CAD 70,000-100,000, depending on specialty and experience.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: This is a skilled occupation; you can immigrate through Express Entry or provincial nomination, but require credential assessment and provincial registration.
+
+**Q: What qualifications are needed to become this occupation?**
+A: Usually requires a master's or doctoral degree in a relevant field, plus completion of clinical internship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other professional occupations in health diagnosing and treating的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Canada?**
-答：According to Job Bank, annual salary ranges from CAD 70,000 to 100,000, depending on specialty and experience.
-
-**问：Is it easy to immigrate to Canada with this occupation?**
-答：It is a high-demand occupation; immigration via Express Entry or PNP is possible but requires credential assessment and provincial registration.
-
-**问：What education is required for this occupation?**
-答：Typically a master's or doctoral degree in a related field, plus clinical internship.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

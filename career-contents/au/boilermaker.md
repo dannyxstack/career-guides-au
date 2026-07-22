@@ -1,68 +1,97 @@
-# 锅炉工（Boilermaker）职业分析 · 澳大利亚
+# Boilermaker — career analysis · Australia
 
-**职业代码：322111 – Boilermaker。**
+**Occupation code: 322111 (ANZSCO)**
 
-锅炉工（Boilermaker）负责制造、安装、维修压力容器、储罐、钢结构件和管道系统，广泛应用于矿业、石油天然气、造船和制造业。澳大利亚资源行业旺盛，加上国防造船项目，持证锅炉工长期处于短缺状态。
+A Boilermaker fabricates, installs, and repairs pressure vessels, storage tanks, structural steel components, and piping systems, with broad applications in mining, oil and gas, shipbuilding, and manufacturing. Strong demand from Australia's resources sector, combined with defence shipbuilding projects, means licensed boilermakers remain in long-term shortage.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Engineering (Fabrication Trade) | 42~48个月（学徒） | —（各州差异；工具费约$1,500~$2,500） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| Pressure Vessel Welding Certification（压力容器焊接） | 1~3个月 | $1,000~$3,000（AS/NZS 2980焊工认证） |
+| Certificate III in Engineering (Fabrication Trade) | 42–48 months (apprenticeship) | $0~$3,000 (Varies by state; tool costs approx. $1,500–$2,500) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| Pressure Vessel Welding Certification | 1–3 months | $1,000~$3,000 (AS/NZS 2980 Welder Certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering Fabrication | TAFE / RTO | 必备 | 执业核心资质 |
-| Pressure Vessel Welding Certificate (AS 2980) | WTIA认可机构 | 可选 | 矿业和油气方向必备 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
+| Certificate III in Engineering Fabrication | TAFE / RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| Pressure Vessel Welding Certificate (AS 2980) | WTIA-recognised institution | Optional | Essential for mining and oil & gas roles |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 25,000。WA/QLD矿业和油气行业FIFO锅炉工持续短缺。国防造船（Hunter级驱逐舰/攻击型潜艇）2025年起创造大量制造业岗位。可再生能源（风塔/储能容器）制造需求新增。
+**Job demand: very high (★★★★★).** National workforce approx. 25,000. WA/QLD mining and oil & gas FIFO boilermaker shortages are ongoing. Defence shipbuilding (Hunter-class frigates / attack submarines) will create significant manufacturing roles from 2025. New demand is emerging in renewable energy (wind towers / energy storage vessels) manufacturing.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~800 个 | 全国，WA/QLD矿业集中 |
-| Indeed | 200~450 个 | 含FIFO职位 |
-| LinkedIn | 80~200 个 | 偏造船和大型工程 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$62,000 | Metal Industry Award |
-| 初级锅炉工（1~3年） | $75,000~$95,000 | 制造业或建筑施工 |
-| 中级锅炉工（3~8年） | $95,000~$130,000 | Seek均值约$45~$62/hr（2026） |
-| 矿业FIFO / 关停专家（8年+） | $130,000~$200,000 | WA/QLD FIFO+关停津贴；日薪$1,000~$1,400 |
+| Median salary | $98,750 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Apprentice (0–4 years) | $30,000~$62,000 | Metal Industry Award |
+| Junior boilermaker (1–3 years) | $75,000~$95,000 | Manufacturing or building and construction |
+| Intermediate Boilermaker (3–8 years) | $95,000~$130,000 | Seek average approximately $45–$62/hr (2026) |
+| Mining FIFO / Shutdown Specialist (8+ years) | $130,000~$200,000 | WA/QLD FIFO and shutdown allowances; daily rate $1,000–$1,400 |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 自动化焊接辅助提升效率，但高级焊接技能（TIG/压力容器）仍稀缺。矿业关停（shutdown）期间日薪率极高，是澳洲最高薪技工之一。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
+
+Automated welding assistance improves efficiency, but advanced welding skills (TIG / pressure vessels) remain scarce. Daily rates during mining shutdowns are exceptionally high, making this one of the highest-paid trades in Australia.
+
+**Tasks most exposed to AI:**
+
+- Automated welding of repetitive seams (AI-guided welding robots)
+- Standard tank and pipeline modeling and nesting layout (AI-generated cutting paths)
+- Routine non-destructive testing report generation (AI analyzes X-ray/ultrasound data)
+- Inventory management and material ordering (AI predicts demand)
+
+**Where AI augments the role:**
+
+- Path planning and parameter optimization for complex curved surface welding (AI simulates optimal angles)
+- Remote expert assistance (AR overlay for welding guidance)
+- Quality prediction and defect prevention (real-time sensors + AI alerts)
+- Project management and schedule optimization (AI Gantt charts)
+- Safety risk assessment (AI analyzes construction data)
+
+**Human moat:**
+
+- On-site inspection and modification of non-standard, high-pressure vessels (unpredictable environments)
+- High-precision manual welding (e.g., titanium alloys, composite materials)
+- Cross-trade coordination and safety supervision responsibilities
+- Customer communication and custom solution design
+- Physical flexibility and ability to work in confined spaces
+
+**Skills to build:**
+
+- Automated welding and robot programming (e.g., FANUC, ABB)
+- 3D modeling and CAD/CAM (SolidWorks, AutoCAD)
+- Data Analysis Basics (Python/Excel)
+- Use of digital twin/AR maintenance assistance tools
+- Project management certification (e.g., PMP)
+- Safety and quality standards (ASME, AWS)
+
+**Key growth areas:**
 
 - Mining & Resource Processing
 - Oil & Gas Vessels & Piping
@@ -71,79 +100,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学锅炉工？**
-- 有焊接、钢结构制造或压力容器经验，目标技能移民来澳
-- 接受FIFO和高强度工业环境，追求矿业顶级薪资
-- 有意在国防造船或矿业行业长期发展
-
-**谁不适合学锅炉工？**
-- 不接受高温重工业环境和FIFO模式
-- 无焊接基础（培训周期长）
-- 期望室内轻体力工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in welding, steel fabrication or pressure vessels, targeting skilled migration to Australia
+- Comfortable with FIFO and high-intensity industrial environments, seeking top-tier mining salaries
+- Seeking long-term career development in defence shipbuilding or the mining industry
+
+**Who is not suited**
+- Not suited to high-temperature heavy industrial environments or FIFO rosters
+- No welding background (training period is lengthy)
+- Prefers light indoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a boilermaker in Australia?**
+A: Mid-level boilermaker annual salary approx. $95,000–$130,000 (approx. $45–$62/hr). Mining FIFO roles can reach $130,000–$200,000; shutdown contract work can reach $200,000+.
+
+**Q: Is it easy to find work as a boilermaker in Australia?**
+A: Very easy. Mining, shipbuilding and renewables are all booming; licensed boilermakers are extremely scarce, with 400–800 positions listed on Seek at any given time.
+
+**Q: Is overseas welding experience recognised in Australia?**
+A: TRA assessment required (12–18 months). Applicants with welding certificates and practical records generally progress smoothly; pressure vessel welding requires separate certification.
+
+**Q: Will boilermakers be replaced by robots?**
+A: Relatively low. Welding automation is advancing, but complex welds (TIG and pressure vessels) and on-site repairs still require certified personnel.
+
+**Q: Is a university degree required?**
+A: Not required. A Certificate III plus pressure vessel welding certification is sufficient to enter the field; FIFO employers primarily look for hands-on experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 322111 数据 |
-| Seek AU | Boilermaker 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-锅炉工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲锅炉工工资多少？**
-答：中级锅炉工年薪约 $95,000~$130,000（约$45~$62/hr）。矿业FIFO可达 $130,000~$200,000，关停合同工可达 $200,000+。
-
-**问：澳洲锅炉工容易找工作吗？**
-答：非常容易。矿业+造船+可再生全面旺盛，持证锅炉工极度稀缺，Seek挂牌400~800个职位。
-
-**问：国内焊接经验澳洲认可吗？**
-答：需TRA评估（12~18个月）。有焊工证书和实操记录者评估顺利，压力容器焊接需单独认证。
-
-**问：锅炉工会被机器人替代吗？**
-答：较低。焊接自动化在发展，但高难度焊缝（TIG/压力容器）和现场修复仍需持证人员。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III+压力容器焊接认证即可入行，FIFO雇主主要看实操经验。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

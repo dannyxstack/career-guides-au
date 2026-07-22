@@ -1,61 +1,97 @@
-# Library clerks and assistants（Library clerks and assistants）职业分析 · UK
+# Library clerks and assistants — career analysis · United Kingdom
 
-**职业代码：4135 – Library clerks and assistants。**
+**Occupation code: 4135 (SOC)**
 
-Classify, sort, and file publications, documents, and audiovisual materials in libraries or offices; assist patrons with information retrieval.
+Responsible for classifying, organizing, and archiving publications, documents, and multimedia materials in libraries or archives, and assisting readers in retrieving information.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（通常要求GCSE或同等学历，免费公立教育） |
-| 图书馆学职业证书 | 1年 | $3,000~$8,000（如City & Guilds或CILIP认证课程，费用因机构而异） |
+| High school diploma | 2 years | $0~$0 (Typically requires GCSEs or equivalent, free public education) |
+| Library science vocational certificate | 1 year | $3,000~$8,000 (e.g., City & Guilds or CILIP accredited courses, fees vary by institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| GCSE英语和数学 | 考试委员会 | 必备 | 基础学历要求 |
-| 图书馆学证书 | CILIP | 可选 | 职业资格，非强制但有益 |
-| NVQ 2级或3级图书馆、信息与知识服务 | City & Guilds | 可选 | 在职培训途径 |
+| GCSE English and Mathematics | Examination board | Required | Basic education requirements |
+| Library science certificate | CILIP | Optional | Professional qualifications are not mandatory but beneficial. |
+| NVQ Level 2 or 3 in Libraries, Information and Knowledge Services | City & Guilds | Optional | On-the-job training pathway |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。需求稳定但增速缓慢，受数字化影响部分岗位减少，但公共图书馆和学术机构仍有基础需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand is stable but growth is slow; some positions are reduced due to digitalization, but public libraries and academic institutions still have basic demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 常见于公共图书馆或学校 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验后可晋升高级助理 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或专业档案岗位 |
+| Median salary | $28,134 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Commonly found in public libraries or schools |
+| Mid-level (3–7 years) | $22,000~$28,000 | With experience, can progress to senior assistant |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or professional archives position |
+| average salary | $29,067 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：不确定（★★½☆☆）。** 可从助理晋升至高级图书馆助理或图书管理员，需积累经验并考取图书馆学资格认证。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Library staff and assistants' daily tasks like sorting, cataloguing, and retrieval will be highly automated, but interpersonal services and asset management still require human judgment. Entry-level positions will decrease, but assistants skilled in AI tools and special collections management will increase in value, creating a polarisation.
+
+Can advance from assistant to senior library assistant or librarian, requiring accumulated experience and obtaining a library science qualification.
+
+**Tasks most exposed to AI:**
+
+- Book classification and cataloging (AI-generated metadata and subject tags)
+- Basic retrieval and general reader inquiries (AI chatbot answers common questions)
+- Overdue notices and renewal processing (automated system batch operations)
+- Collection statistical analysis (AI report generation)
+- Digital resource organization and link maintenance (AI crawling and verification)
+
+**Where AI augments the role:**
+
+- Uses AI to analyze borrowing data and optimize collection allocation
+- Using natural language processing tools to assist in in-depth literature search
+- provides personalized reading recommendations through AI recommendation system
+- Use automated processes for interlibrary loan and resource scheduling
+- Using AI tools for digitisation of special collections and metadata extraction
+
+**Human moat:**
+
+- Ability to understand and communicate complex information needs
+- Physical handling and identification of special collections and rare materials
+- Insight into unique community needs and humanistic care
+- Cross-departmental coordination and event planning skills.
+- Ethical and privacy judgment in digital projects
+
+**Skills to build:**
+
+- Basic programming and data analysis (Python, SQL)
+- AI tool usage (chatbot configuration, recommendation systems)
+- Digital asset management software operation
+- User research and experience design
+- Metadata standards and data governance knowledge
+- Communication and teaching skills (reader training)
+
+**Key growth areas:**
 
 - Digital archiving
 - Customer service
@@ -64,65 +100,67 @@ Classify, sort, and file publications, documents, and audiovisual materials in l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，但该职业不在高需求清单，担保需证明无法本地招聘 |
-| Subclass Graduate（Graduate visa） | 适合英国毕业生，可在毕业后工作2年（博士3年）积累经验 |
+| Subclass Skilled Worker (Skilled Worker visa) | Employer sponsorship required, but this occupation is not on the high-demand list; sponsorship requires proof of inability to recruit locally |
+| Subclass Graduate (Graduate visa) | Suitable for UK graduates, allows working for 2 years (PhD 3 years) after graduation to gain experience |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Library clerks and assistants？**
-- 喜欢安静工作环境、注重细节的人
-- 对书籍和档案管理有兴趣
-- 善于提供客户服务和信息检索
+**Who is suited**
+- People who prefer a quiet work environment and pay attention to detail
+- Interested in book and archive management
+- Good at providing customer service and information retrieval
 
-**谁不适合学Library clerks and assistants？**
-- 追求高薪或快速晋升的人
-- 偏好动态、快节奏工作环境
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Prefers dynamic, fast-paced work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for library staff?**
+A: Entry-level annual salary about £18,000-22,000, experienced up to £28,000-35,000, but overall low.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, but employers must conduct a local labor market test, and the occupation is not on the shortage list, making sponsorship more difficult.
+
+**Q: How to become a librarian?**
+A: Must obtain a CILIP-accredited library science degree or professional qualification and accumulate work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 不确定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Library clerks and assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for library clerks?**
-答：Entry-level salary is around £18,000-£22,000, rising to £28,000-£35,000 with experience, but generally low.
-
-**问：Can I apply for a Skilled Worker visa for this occupation?**
-答：Yes, but the employer must pass a local labour market test. As the occupation is not on the shortage list, sponsorship is challenging.
-
-**问：How can I advance to become a librarian?**
-答：You need a CILIP-accredited library science degree or professional qualification, plus relevant experience.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,68 +1,98 @@
-# 钣金工（Sheetmetal Trades Worker）职业分析 · 澳大利亚
+# Sheetmetal Trades Worker — career analysis · Australia
 
-**职业代码：322211 – Sheetmetal Trades Worker。**
+**Occupation code: 322211 (ANZSCO)**
 
-钣金工负责切割、成型、连接和安装金属薄板制品，用于通风管道、矿业设备、建筑装饰和工业容器。澳大利亚国防造船、矿业和HVAC行业对钣金工的需求持续旺盛。
+Sheet metal workers cut, form, join and install sheet metal products used in ventilation ductwork, mining equipment, architectural features and industrial containers. Demand for sheet metal workers in Australia's defence shipbuilding, mining and HVAC industries remains consistently strong.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 MEM30219 Certificate III in Engineering – Sheet Metal Trade） | 42~48个月 | —（各州补贴，WA Lower Fees 计划上限 $1,200） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含TRA评估费及实习期费用） |
+| Apprenticeship (including MEM30219 Certificate III in Engineering – Sheet Metal Trade) | 42–48 months | $0~$1,200 (State government subsidies; WA Lower Fees scheme capped at $1,200) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees and internship costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering – Sheet Metal Trade (MEM30219) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| Working at Heights / Confined Space Certificates | 各州SafeWork认可RTO | 可选 | 施工和矿业现场作业强制安全资质 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Engineering – Sheet Metal Trade (MEM30219) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| Working at Heights / Confined Space Certificates | SafeWork-recognised RTO in each state | Optional | Mandatory safety qualifications for construction and mining site operations |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 28,000。JSA 预测技工类至2035年新增约195,800个岗位。AUKUS国防项目和可再生能源结构件制造带动钣金工需求增长。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. JSA projects approximately 195,800 new trade positions by 2035. Demand for sheet metal workers is growing, driven by the AUKUS defence program and renewable energy structural component manufacturing.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,200 个 | 全国，含HVAC管道、矿业和国防岗 |
-| Indeed | 400~800 个 | 含学徒岗和合同工 |
-| LinkedIn | 200~500 个 | 偏国防/工业企业直招岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $21,000~$28,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $28,000~$46,000 | 约 $23~$30/hr |
-| 初级钣金工（持证后 1~3年） | $65,000~$80,000 | ERI 初级估算 |
-| 中级钣金工（3~8年） | $80,000~$105,000 | ERI SalaryExpert 悉尼平均 $104,949；全国平均约 $85k |
-| 资深钣金工 / 工头（8年+） | $105,000~$130,000 | 含国防/精密制造溢价 |
-| 矿业 / 国防造船 FIFO | $120,000~$160,000 | 国防造船（BAE Systems/ASC）和矿业岗薪资较高 |
+| Median salary | $82,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Apprentice Year 1 | $21,000~$28,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $28,000~$46,000 | Approx. $23–$30/hr |
+| Junior Sheet Metal Worker (1–3 years post-trade certificate) | $65,000~$80,000 | ERI entry-level estimate |
+| Intermediate Sheet Metal Worker (3–8 years) | $80,000~$105,000 | ERI SalaryExpert Sydney average: $104,949; national average: approx. $85k |
+| Senior Sheet Metal Worker / Foreperson (8+ years) | $105,000~$130,000 | Includes defence/precision manufacturing premium |
+| Mining / Defence Shipbuilding FIFO | $120,000~$160,000 | Defence shipbuilding (BAE Systems/ASC) and mining roles offer higher salaries |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 国防造船（AUKUS）、HVAC管道制造和可再生能源钢结构是三大增长方向。AI和自动化在重复性钣金加工中有一定渗透，复杂定制件仍依赖人工。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+Defence shipbuilding (AUKUS), HVAC ductwork fabrication and renewable energy steel structures are the three main growth areas. AI and automation have made some inroads into repetitive sheetmetal processing, but complex custom work still relies on skilled tradespeople.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - HVAC Ductwork Fabrication
 - Mining & Industrial Equipment
@@ -72,89 +102,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学钣金工？**
-- 有金属加工/钣金/机械制造背景，希望技能移民来澳
-- 接受噪音和金属加工工作环境
-- 目标是国防造船（BAE Systems/ASC）或矿业高薪岗
-- 年龄28~42岁，有时间完成TRA评估
-
-**谁不适合学钣金工？**
-- 对金属噪音和碎屑有明显生理抵触
-- 期望1~2年内快速取得资质
-- 完全无金属加工基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in metalworking / sheet metal / mechanical manufacturing, seeking skilled migration to Australia
+- Comfortable with noise and metalworking environments
+- Target defence shipbuilding (BAE Systems/ASC) or high-paying mining roles
+- Aged 28–42, with time to complete a TRA assessment
+
+**Who is not suited**
+- Strong physical aversion to metal noise and debris
+- Expecting to obtain qualifications quickly within 1–2 years
+- No metalworking background whatsoever
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a sheet metal worker in Australia?**
+A: Mid-level sheetmetal workers earn approximately $80,000–$105,000 per year; ERI Sydney average $104,949 (2026). High-paying roles in defence shipbuilding and mining can reach $120k–$160k; apprentices earn approximately $21k–$46k.
+
+**Q: Is it easy to find work as a Panel Beater/Sheet Metal Worker in Australia?**
+A: Easy. Listed on MLTSSL; ongoing demand from AUKUS defense projects and HVAC industry; Seek shows 600–1,200 job listings.
+
+**Q: Is overseas sheet metal working experience recognised in Australia?**
+A: Not directly recognised; assessment through the TRA Job Ready Program is required, with a process of approximately 12–18 months.
+
+**Q: Will sheet metal workers be replaced by robots?**
+A: Partial substitution, but overall automation risk is low. Automated bending and laser cutting are already widely used for standard components, but complex custom parts and on-site installation still require manual labour.
+
+**Q: Are there age restrictions for sheet metal workers in Australia?**
+A: No legal age limit. Candidates aged 35+ can pursue the TRA mutual recognition pathway; immigration points scoring offers no bonus points for those aged 45+.
+
+**Q: Do sheet metal workers in Australia need a university degree?**
+A: No. A Certificate III is sufficient to practise, and school leavers can apply directly for an apprenticeship.
+
+**Q: Is it hard to learn sheet metal work in Australia?**
+A: Moderate difficulty. Basic bending and cutting are quick to pick up; precision components and complex structures require more training. Those with a background in metalwork will adapt more quickly.
+
+**Q: Which is better for migrating to Australia — sheet metal worker or welder?**
+A: Both are on the MLTSSL, with similar salaries and pathways. Welders have higher employment volume (Seek ~2,500 vs sheet metal workers ~1,000); sheet metal workers have a unique advantage in defence shipbuilding and HVAC sectors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ERI SalaryExpert | 钣金工悉尼平均年薪 $104,949（2026） |
-| TRA | 海外钣金工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-钣金工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲钣金工工资多少？**
-答：中级钣金工年薪约 $80,000~$105,000，ERI 悉尼平均 $104,949（2026）。国防造船和矿业高薪岗可达 $120k~$160k，学徒约 $21k~$46k。
-
-**问：澳洲钣金工容易找工作吗？**
-答：容易。MLTSSL在列，AUKUS国防项目和HVAC行业持续需求，Seek 挂牌 600~1,200 个职位。
-
-**问：中国钣金工经验澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。
-
-**问：钣金工会被机器人替代吗？**
-答：部分替代，但整体风险偏低。自动折弯和激光切割已在标准件生产中广泛应用，但复杂定制件和现场安装仍需人工。
-
-**问：澳洲钣金工有年龄限制吗？**
-答：无法律上限。35岁以上可走TRA互认路径，移民打分45岁以上无加分。
-
-**问：澳洲钣金工需要大学学历吗？**
-答：不需要。完成 Certificate III 即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲钣金工难学吗？**
-答：难度中等。基础折弯和切割上手较快，精密件和复杂结构需要更多训练，有国内金属加工基础者适应较快。
-
-**问：钣金工和焊工哪个更适合移民澳洲？**
-答：两者均在MLTSSL，薪资和路径相近。焊工就业量更大（Seek ~2,500 vs 钣金工 ~1,000）；钣金工在国防造船和HVAC领域有独特优势。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

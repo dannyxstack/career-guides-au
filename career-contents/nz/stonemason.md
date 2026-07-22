@@ -1,58 +1,90 @@
-# Stonemason（Stonemason）职业分析 · 新西兰
+# Stonemason — career analysis · New Zealand
 
-**职业代码：331112 – Stonemason。**
+**Occupation code: 331112 (ANZSCO)**
 
-Stonemasons cut, shape, and install natural or artificial stone for buildings, monuments, and decorative projects. This occupation is on New Zealand's Green List and eligible for Skilled Migrant Category, offering pathways to residence via AEWV or direct application.
+Stonemasons cut, shape, and install natural or artificial stone for buildings, monuments, and decorative works. This occupation is on New Zealand's Skilled Migrant and Green List, allowing immigration through an accredited employer work visa or direct residence application.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（通过新西兰建筑行业培训组织(BCITO)注册，雇主资助，可能免学费） |
-| 证书课程 | 1-2年 | $5,000~$15,000（理工学院提供新西兰证书（石匠）课程，如奥塔哥理工学院） |
+| Apprenticeship | 3-4 years | $0~$2,000 (Register through the Building and Construction Industry Training Organisation (BCITO) in New Zealand, employer-funded, possibly tuition-free) |
+| Certificate course | 1-2 years | $5,000~$15,000 (Polytechnics offer New Zealand Certificate in Stonemasonry courses, e.g., Otago Polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰石匠证书（Level 4） | 新西兰建筑行业培训组织(BCITO) | 必备 | 行业认可，学徒制完成后获得 |
-| 工地安全卡（Site Safe Card） | Site Safe | 可选 | 基本安全培训，多数工地要求 |
+| New Zealand Certificate in Stonemasonry (Level 4) | Building and Construction Industry Training Organisation (BCITO) | Required | Industry recognised, obtained after completing apprenticeship |
+| Site Safe Card | Site Safe | Optional | Basic safety training, required on most construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰建筑行业持续增长，石匠需求稳定。基督城和奥克兰的重建项目以及住宅建设需求旺盛。预计未来5年就业率小幅增长，但受季节性影响。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's construction industry continues to grow, with steady demand for stonemasons. Reconstruction projects in Christchurch and Auckland, as well as residential construction, are in high demand. Employment is expected to increase slightly over the next 5 years, but subject to seasonal effects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒或刚毕业，时薪约23-30纽币 |
-| 中级（3-6年） | $60,000~$80,000 | 熟练石匠，时薪30-40纽币 |
-| 高级（6年以上） | $80,000~$100,000 | 领班或专精高技能领域，时薪40-50纽币以上 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentices or recent graduates, hourly wage about NZ$23-30 |
+| Mid-level (3–6 years) | $60,000~$80,000 | Skilled stonemason, hourly rate NZD 30-40 |
+| Senior (6+ years) | $80,000~$100,000 | Supervisor or specialist in high-skill areas, earning $40-50+ NZD per hour |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级石匠可晋升为熟练工、领班，或专攻雕刻、修复等高技能领域。积累经验后可自主创业，承接分包工程。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+Junior stonemasons can advance to skilled workers, supervisors, or specialize in high-skill areas like carving and restoration. With experience, they can start their own business and take on subcontracting projects.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +93,67 @@ Stonemasons cut, shape, and install natural or artificial stone for buildings, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，符合绿色清单一级职业要求，无需工作经验即可申请 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制要求（如学历+工作经验+薪资） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，为认证雇主工作后可申请居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, meeting Green List Tier 1 occupation requirements, no work experience needed to apply. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (e.g., education + work experience + salary) |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, can apply for residence after working for an accredited employer |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stonemason？**
-- 喜爱动手和体力劳动的人
-- 注重细节、有耐心的人
-- 希望快速移民新西兰且从事建筑行业的人
-
-**谁不适合学Stonemason？**
-- 无法适应户外和重体力工作的人
-- 对灰尘、噪音敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- Detail-oriented, patient people
+- For those who want to immigrate to New Zealand quickly and work in the construction industry
+
+**Who is not suited**
+- People who cannot adapt to outdoor and heavy physical work
+- People sensitive to dust and noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for stonemasons in New Zealand?**
+A: Entry-level stonemason salary approx. NZD 45,000-60,000 per year, skilled can reach NZD 80,000-100,000. Overtime and project bonuses can increase income.
+
+**Q: How can stonemasons immigrate to New Zealand?**
+A: Stonemason is on Green List Tier 1, eligible for Direct Residence visa without work experience. Can also work initially on an Accredited Employer Work Visa then apply for residence. The Skilled Migrant 6-point system also applies.
+
+**Q: Is a New Zealand local certificate required?**
+A: Yes, typically requires a New Zealand stonemason certificate (Level 4) or equivalent, which can be obtained through an apprenticeship. Overseas qualifications need NZQA assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Stonemason的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a stonemason in New Zealand?**
-答：Entry-level stonemasons earn NZD 45,000-60,000 per year, experienced ones can earn NZD 80,000-100,000. Overtime and project bonuses can increase income.
-
-**问：How can a stonemason immigrate to New Zealand?**
-答：Stonemasons are on Green List Tier 1, eligible for Straight to Residence Visa without work experience. Alternatively, work on AEWV and later apply for residence. Also qualifies under Skilled Migrant Category 6-point system.
-
-**问：Do I need a New Zealand qualification?**
-答：Yes, typically need NZ Certificate in Stonemasonry (Level 4) or equivalent through apprenticeship. Overseas qualifications require NZQA assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

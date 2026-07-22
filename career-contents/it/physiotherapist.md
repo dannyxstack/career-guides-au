@@ -1,58 +1,93 @@
-# Physiotherapist（Physiotherapist）职业分析 · IT
+# Physiotherapist — career analysis · Italy
 
-**职业代码：2264 – Physiotherapist。**
+**Occupation code: 2264 (ISCO08)**
 
-Physiotherapists help patients restore movement and function through exercise, manual therapy, and physical modalities.
+Physiotherapists help patients restore movement function and relieve pain through exercise, manual therapy, and physical modalities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，视家庭收入而定） |
-| 硕士（选修） | 2年 | $2,000~$6,000（私立大学或专业院校） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition fees, depending on family income) |
+| Master's (elective) | 2 years | $2,000~$6,000 (Private universities or specialist colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗师执业资格 | 意大利卫生部 | 必备 | 通过国家考试后注册，方可执业 |
-| 大学学位 | 意大利大学 | 必备 | 三年制本科（Laurea Triennale） |
+| Physiotherapist practicing license | Italian Ministry of Health | Required | Must register after passing national exam to practice |
+| University degree | Italian universities | Required | Three-year bachelor's degree (Laurea Triennale). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。意大利老龄化加剧（65岁以上人口占比约23%），对康复治疗需求持续增长，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Italy is experiencing an aging population (65+ accounts for about 23%), leading to growing demand for rehabilitation therapy and good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立医院或诊所 |
-| 中级（4-9年） | $32,000~$40,000 | 有经验，私立机构更高 |
-| 高级（10年以上） | $42,000~$55,000 | 主管或私人诊所 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Public hospitals or clinics |
+| Intermediate (4-9 years) | $32,000~$40,000 | Experienced, higher in private institutions. |
+| Senior (10+ years) | $42,000~$55,000 | Supervisor or private clinic |
+| average salary | $37,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从公立医院物理治疗师晋升为科室主管，或开设私人诊所，也可向运动康复、老年康复等细分领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Demand for physiotherapists will grow with AI assistance; AI handles paperwork and data analysis, but core manual therapy and clinical decisions are hard to replace, leading to a positive career outlook.
+
+Can progress from a hospital physiotherapist to a department head, or open a private practice, and may also develop into specialized areas such as sports rehabilitation or geriatric rehabilitation.
+
+**Tasks most exposed to AI:**
+
+- Patient record organization and electronic health record entry
+- Scoring and data analysis of standardized assessment scales.
+- Generate routine reports on treatment progress
+- Administrative tasks such as appointment scheduling and patient reminders
+
+**Where AI augments the role:**
+
+- AI assists in analyzing patient movement data to optimize personalized treatment plans
+- Utilize virtual reality technology for remote rehabilitation guidance and monitoring
+- AI predicts patient recovery trajectories, adjusting intervention plans in advance
+- Recommending optimal treatment exercise combinations based on big data
+- Automatically generate patient education materials to improve compliance
+
+**Human moat:**
+
+- Manual therapy based on palpation and movement analysis
+- Communication to build trust and emotional support with patients
+- Clinical reasoning and real-time adjustments for complex cases
+- Professional judgment in interdisciplinary team collaboration
+- Flexibility in handling emergencies and patient individual differences
+
+**Skills to build:**
+
+- Master AI rehabilitation analysis software and remote monitoring platforms
+- Study sports science and biomechanics data analysis
+- Enhance the application of digital health tools.
+- Enhanced Patient Communication and Motivation Skills
+- Understand evidence-based practice and clinical decision support systems
+- Continuously follow the latest research on rehabilitation AI
+
+**Key growth areas:**
 
 - Aging population
 - Increased chronic disease
@@ -61,68 +96,67 @@ Physiotherapists help patients restore movement and function through exercise, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需工作合同及最低薪资（约年薪≥30,000欧元）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟公民从事紧缺职业。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 由雇主协助申请，需证明该职位无法由欧盟公民填补。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a work contract and minimum salary (approx. annual ≥ €30,000). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU citizens in shortage occupations. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Application supported by employer, must prove that the position cannot be filled by an EU citizen. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 热爱帮助他人恢复健康，具备耐心和沟通能力
-- 对运动科学和人体解剖有浓厚兴趣
-- 愿意持续学习，跟上康复技术发展
-
-**谁不适合学Physiotherapist？**
-- 不善于与他人互动或缺乏同理心
-- 无法承受体力劳动或长时间站立
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about helping others recover health, with patience and communication skills
+- Strong interest in sports science and human anatomy
+- Willing to engage in continuous learning and keep up with developments in rehabilitation technology
+
+**Who is not suited**
+- Not good at interacting with others or lacking empathy
+- Unable to endure physical labour or prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a physiotherapist in Italy?**
+A: Junior approx. 24,000-30,000 EUR/year, mid-level approx. 32,000-40,000 EUR/year, senior up to 42,000-55,000 EUR/year.
+
+**Q: How do non-EU citizens obtain a work visa for physiotherapists in Italy?**
+A: Available through EU Blue Card (requires a high-salary contract) or Decreto Flussi annual quota work visa; the employer must prove inability to hire an EU citizen.
+
+**Q: Do EU citizens need a visa to work in Italy?**
+A: Not required. EU citizens enjoy free movement rights and can work directly in Italy, but must register at their place of residence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physiotherapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a physiotherapist in Italy?**
-答：Entry-level: €24,000-30,000/year; mid-level: €32,000-40,000/year; senior: €42,000-55,000/year.
-
-**问：How can non-EU citizens obtain a work visa as a physiotherapist in Italy?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa; employer must prove no EU candidate available.
-
-**问：Do EU citizens need a visa to work in Italy?**
-答：No, EU citizens have freedom of movement and can work directly, but must register with local authorities.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

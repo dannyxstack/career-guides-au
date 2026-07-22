@@ -1,60 +1,95 @@
-# Oil and Gas Extraction Worker（Oil and Gas Extraction Worker）职业分析 · FR
+# Oil and Gas Extraction Worker — career analysis · France
 
-**职业代码：F1401 – Oil and Gas Extraction Worker。**
+**Occupation code: F1401 (ROME)**
 
-Operates and maintains equipment for drilling, extracting, and initial processing of oil and natural gas onshore and offshore in France, ensuring safety and efficiency.
+In France, engaged in surface and subsea drilling, extraction, transportation, and primary processing of oil and gas, responsible for equipment operation, maintenance, and on-site safety monitoring.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 石油职业证书 | 2年 | —（公立学校免费，仅注册费） |
-| BTS 流体能源与机械 | 2年 | —（公立院校免学费，材料费自理） |
-| 学士/硕士 石油工程 | 3-5年 | $3,000~$10,000（大学学费，英法院校差异大） |
+| CAP Petroleum Professional Certificate | 2 years | $0~$1,000 (Public schools are free, with only a registration fee) |
+| BTS Fluid Energy & Machinery | 2 years | $0~$1,500 (Public institutions waive tuition; material costs are self-paid) |
+| Bachelor's/Master's in Petroleum Engineering | 3-5 years | $3,000~$10,000 (University tuition fees vary greatly between UK law and school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 石油操作员证书 | OPCO 2i / 行业委员会 | 可选 | 行业认可的职业资格，非强制但优先 |
-| GWO 基本安全培训 | 全球风能组织（等同油气安全） | 必备 | 海上作业必备 |
-| 法国驾照 B 类 | Préfecture | 可选 | 部分陆上岗位要求 |
+| GWO Basic Safety Training | Global Wind Energy Organization (equivalent to oil and gas safety) | Required | Essential for offshore operations |
+| CQP Petroleum Operator Certificate | OPCO 2i / Industry Committee | Optional | Industry-recognized professional qualifications, not mandatory but preferred |
+| French driver's license classified as Class B | Préfecture | Optional | Some land-based positions require this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。随着法国能源转型，传统化石燃料岗位减少，但现有油田维护及地热开发仍带来稳定需求。未来十年就业预计小幅下降，但熟练技工仍受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. With France's energy transition, traditional fossil fuel jobs are decreasing, but maintenance of existing oil fields and geothermal development continue to provide stable demand. Employment is expected to decline slightly over the next decade, but skilled workers remain popular.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，含海上补贴 |
-| 中级（4-7年） | $42,000~$55,000 | 税前年薪，已获安全认证 |
-| 高级（8年以上） | $55,000~$75,000 | 税前年薪，主管或技术专家 |
+| Median salary | $48,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary, including marine subsidies |
+| Mid-level (4-7 years) | $42,000~$55,000 | Pre-tax annual salary, certified for safety |
+| Senior (8+ years) | $55,000~$75,000 | Pre-tax annual salary, supervisor, or technical expert |
+| average salary | $28,370 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 可从操作员晋升为钻井主管或生产经理，也可转向地热能源或碳捕获等新兴领域。需积累现场经验并考取安全证书。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Oil rig operators are highly dependent on physical site operations and emergency response. Current AI has limited substitution for core drilling tasks, but automated monitoring systems will compress support roles, making overall risk moderately high.
+
+You can be promoted from operator to drilling supervisor or production manager, or move into emerging fields such as geothermal energy or carbon capture. Candidates must accumulate on-site experience and obtain safety certificates.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of drilling parameters and alarms.
+- Record drilling logs and reports
+- Basic mud performance testing
+- Operate partially automated drilling equipment
+
+**Where AI augments the role:**
+
+- AI drilling optimization suggestions improve efficiency
+- Predictive maintenance reduces downtime
+- Remote expert system-assisted fault diagnosis
+- Virtual reality training improves safety skills
+- Automated data integration for decision support
+
+**Human moat:**
+
+- Emergency judgment in underground mine accidents
+- Operational adjustments under complex geological conditions
+- Team coordination and safety supervision
+- Non-standard handling of equipment anomalies.
+- Physical perception and adaptation to the environment
+
+**Skills to build:**
+
+- Drilling automation system operation
+- Data analysis and interpretation
+- Remote monitoring and diagnostic tools
+- Basic programming (PLC/SCADA)
+- Safety regulations and environmental knowledge
+- Cross-cultural communication
+
+**Key growth areas:**
 
 - Energy Transition
 - Offshore Drilling
@@ -63,65 +98,64 @@ Operates and maintains equipment for drilling, extracting, and initial processin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 适用于高技能油气工程师或技术专家，需 bachelor+ 学历及合同。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 标准工作居留，需法国公司雇佣，通过劳动力市场测试。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，年薪高于法国平均工资 1.5 倍（约 53k EUR）可申请。 |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Suitable for highly skilled oil and gas engineers or technical experts, requiring bachelor+ degree and contract. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Standard work residency, must be employed by a French company and pass labor market tests. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, with an annual salary 1.5 times the French average (about 53k EUR), can be applied for. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Oil and Gas Extraction Worker？**
-- 能适应野外/海上艰苦环境的人
-- 对机械操作和动手维修有浓厚兴趣
-- 愿意接受轮班制和不规律工作时间
-
-**谁不适合学Oil and Gas Extraction Worker？**
-- 极度恐高或晕船者
-- 寻求稳定城市办公环境者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who can adapt to the harsh environments of the wild/sea
+- Strong interest in mechanical operation and hands-on maintenance
+- Willing to accept shift work and irregular working hours
+
+**Who is not suited**
+- Those with extreme fear of heights or seasickness
+- Those seeking a stable urban office environment
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for oil and gas extractors?**
+A: Pre-tax annual salary: junior approximately EUR 30k–40k, mid-level EUR 42k–55k, senior EUR 55k–75k. Offshore positions receive additional allowances.
+
+**Q: How can foreigners obtain a work visa for French oil and gas extractors?**
+A: Salarié work residence can be applied for through French company employment; highly skilled candidates can apply for Passeport Talent (contract and academic qualifications) or EU Blue Card (annual salary above 53k EUR).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Oil and Gas Extraction Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for oil and gas extraction workers?**
-答：Gross annual salary ranges from 30k-40k EUR for junior, 42k-55k EUR for mid-level, and 55k-75k EUR for senior. Offshore positions have additional allowances.
-
-**问：How can foreigners obtain a work visa for oil and gas extraction jobs in France?**
-答：They can apply for a Salarié work permit with a French employer, or for high-skilled roles, the Passeport Talent (requires contract and degree) or EU Blue Card (salary above 53k EUR).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

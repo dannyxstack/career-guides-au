@@ -1,59 +1,94 @@
-# Tool makers, tool fitters and markers-out（Tool makers, tool fitters and markers-out）职业分析 · UK
+# Tool makers, tool fitters and markers-out — career analysis · United Kingdom
 
-**职业代码：5222 – Tool makers, tool fitters and markers-out。**
+**Occupation code: 5222 (SOC)**
 
-Mark out metal for machining, fit, assemble and repair machine tools, press tools, dies, jigs, fixtures and other tools. A key skilled trade in precision manufacturing.
+Responsible for metal marking, assembly, repair, and manufacturing of machine tools, dies, jigs, moulds, and other tools; a key technical trade in precision manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制（高级） | 3-4年 | —（雇主资助，部分由政府补贴） |
-| 职业培训（BTEC/HND） | 2年 | $5,000~$10,000（自费，可申请学生贷款） |
+| Apprenticeship (Advanced) | 3-4 years | $0~$1,000 (Employer-sponsored, partly government-subsidized) |
+| Vocational Training (BTEC/HND) | 2 years | $5,000~$10,000 (Self-funded, can apply for student loans) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程制造学徒制（Advanced Apprenticeship） | 英国教育部/行业技能委员会 | 可选 | 通常要求GCSE数学和英语C级以上 |
-| BTEC工程三级文凭 | Pearson | 可选 | 广泛认可的工程职业资格 |
-| NVQ/SVQ 工程制造三级 | Awarding Bodies (e.g., City & Guilds) | 可选 | 在职评估，证明实操能力 |
+| Engineering manufacturing apprenticeship (Advanced Apprenticeship) | UK Department for Education/Skills Commission | Optional | Typically requires GCSE Math and English at grade C or above |
+| BTEC Level 3 Diploma in Engineering | Pearson | Optional | Widely recognised engineering professional qualifications |
+| NVQ/SVQ Level 3 in Engineering Manufacture | Awarding Bodies (e.g., City & Guilds) | Optional | On-the-job assessment to demonstrate practical skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 22,000。英国制造业持续需要高技能工具制造工，尤其在航空航天、汽车和精密工程领域。未来十年就业预计稳定，高级技工短缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 22,000. UK manufacturing continues to need highly skilled toolmakers, especially in aerospace, automotive, and precision engineering. Employment is expected to be stable over the next decade, with a shortage of advanced tradespeople.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 含加班及奖金 |
-| 中级（3-7年） | $30,000~$40,000 | 已具备独立操作能力 |
-| 高级（7年以上） | $40,000~$55,000 | 含团队管理或技术专家职责 |
+| Median salary | $39,902 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$30,000 | Including overtime and bonuses |
+| Mid-level (3–7 years) | $30,000~$40,000 | Already capable of independent operation |
+| Senior (7+ years) | $40,000~$55,000 | Includes team management or technical expert responsibilities |
+| average salary | $43,878 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从学徒起步，逐步晋升为高级工具制造工、团队主管或技术专家，也可向模具设计或生产管理方向发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Toolmaking is a profession at the intersection of high-precision manual skills and digital design. While AI cannot fully replace physical operations, it will significantly reduce traditional marking, measuring, and trial-and-error processes, while enhancing CAM programming and simulation optimization capabilities, requiring proactive upskilling in digital skills.
+
+Starting as an apprentice, progress to senior toolmaker, team supervisor, or technical expert; also possible to move into mould design or production management.
+
+**Tasks most exposed to AI:**
+
+- Traditional manual layout, lofting, and template making (replaced by AI vision + CNC)
+- Repetitive repair and polishing of simple molds/fixtures (robots and automated machine tools)
+- Experience-based size adjustments and trial-and-error (AI machining simulation and online monitoring)
+- Paper blueprint reading and manual calculations (CAD/CAM generates paths automatically)
+
+**Where AI augments the role:**
+
+- CNC programming for complex mold surfaces and multi-axis machining path optimization (AI-assisted CAM)
+- AI-based machining parameter recommendation and tool life prediction
+- Online measurement and adaptive compensation machining (closed-loop quality control).
+- Reverse engineering and additive manufacturing tooling design (AI point cloud processing and topology optimization)
+- Virtual commissioning of multi-station fixture systems (digital twin and AI simulation)
+
+**Human moat:**
+
+- Tactile feel and experience-based judgment for micro-adjustments in high-precision mold assembly
+- Fault diagnosis and on-site emergency handling under abnormal conditions.
+- Tacit knowledge transfer in communication with designers and craftsmen
+- Repair and innovative modification of non-standard old equipment
+- Sensory and intuitive judgment of workpiece surface quality and geometric tolerances
+
+**Skills to build:**
+
+- Advanced application of CAD/CAM software (e.g., NX, Mastercam)
+- Multi-axis CNC Programming and Post-processing Customization
+- Python/VBA scripting for automated data processing and process parameter optimization
+- AI/ML basics and applications in processing prediction
+- Digital twin and virtual commissioning technologies (e.g., Siemens NX Mechatronics)
+- Additive manufacturing (3D printing) tooling design and post-processing
+
+**Key growth areas:**
 
 - Precision Engineering
 - Aerospace Manufacturing
@@ -62,68 +97,67 @@ Mark out metal for machining, fit, assemble and repair machine tools, press tool
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 符合技术工人签证条件，需雇主担保且职业在可担保清单上。紧缺职业可放宽薪资要求。 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业，需获得担保且满足薪资门槛。职业不在Scale-up优先列表但可申请。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可获2年留英工作许可，从事本职业有助于后续转技术工签。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Eligible for skilled worker visa conditions, requires employer sponsorship and the occupation must be on the eligible list. Shortage occupations may have relaxed salary requirements. |
+| Subclass Scale-up (Scale-up visa) | Applicable to high-growth enterprises, requires sponsorship and meeting the salary threshold. The occupation is not on the Scale-up priority list but can still apply. |
+| Subclass Graduate (Graduate visa) | UK university graduates can receive a 2-year post-study work visa; working in this occupation helps with transitioning to a skilled work visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tool makers, tool fitters and markers-out？**
-- 动手能力强、注重细节、对精密制造有热情的人
-- 愿意通过学徒制稳步学习、积累实践经验的人
-- 追求稳定职业且希望在英国获得技术移民机会的人
-
-**谁不适合学Tool makers, tool fitters and markers-out？**
-- 不喜欢重复性机械操作、期望快速晋升的人
-- 对物理劳动和车间环境不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on, detail-oriented, and passionate about precision manufacturing.
+- Individuals willing to steadily learn and accumulate practical experience through apprenticeships
+- People seeking stable careers and opportunities for skilled migration in the UK.
+
+**Who is not suited**
+- People who dislike repetitive mechanical tasks and expect fast promotion.
+- People who are not suited to physical labor and workshop environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a toolmaker in the UK?**
+A: Salaries typically range from £25,000 to £45,000 per year depending on experience and location. Experienced specialists can earn over £50,000.
+
+**Q: Can toolmakers immigrate to the UK via a skilled worker visa?**
+A: Yes. This occupation is on the skilled occupation list and is a shortage occupation. You can apply for an employer-sponsored visa if you meet salary and English requirements.
+
+**Q: What are the pathways to immigrate to the UK as a toolmaker?**
+A: Main pathways include Skilled Worker visa and Scale-up visa. Those with a UK degree can first gain work experience using a Graduate visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tool makers, tool fitters and markers-out的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tool maker in the UK?**
-答：Annual salary ranges from £25,000 to £45,000 depending on experience and location; experienced specialists can earn over £50,000.
-
-**问：Can a tool maker migrate to the UK via the Skilled Worker visa?**
-答：Yes. The occupation is on the eligible list and is on the shortage occupation list, making it easier to meet salary thresholds and obtain employer sponsorship.
-
-**问：What are the migration pathways to become a tool maker in the UK?**
-答：Main pathways include Skilled Worker visa and Scale-up visa. Those with UK degrees can use the Graduate visa to gain work experience first.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

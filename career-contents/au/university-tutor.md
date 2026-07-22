@@ -1,61 +1,97 @@
-# University Tutor（University Tutor）职业分析 · 澳大利亚
+# University Tutor — career analysis · Australia
 
-**职业代码：242112 – University Tutor。**
+**Occupation code: 242112 (ANZSCO)**
 
-University Tutors support academic staff by leading tutorials, marking assignments, and providing student guidance. They are often employed on a casual or fixed-term basis in Australian higher education institutions.
+University tutors mentor students, lead group discussions, grade assignments, and assist professors with teaching activities at higher education institutions. This role is typically part-time or on a temporary contract, common at Australian universities.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（本科学费年均约30,000-50,000澳元） |
-| 硕士（授课型） | 1.5-2年 | $40,000~$60,000（硕士课程年均学费40,000-60,000澳元） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Bachelor's tuition is about AUD 30,000-50,000 per year.) |
+| Master's (coursework) | 1.5-2 years | $40,000~$60,000 (Master's program annual tuition 40,000-60,000 AUD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 本科学位（相关领域） | 认可的高等教育机构 | 必备 | 通常需要相关学科本科学位 |
-| 硕士或博士在读/完成 | 大学 | 必备 | 大多数大学要求导师至少拥有硕士学位或在读 |
-| 高等教育证书（可选） | 各大学 | 可选 | 部分大学提供教学发展课程 |
+| Bachelor's degree (relevant field) | Accredited higher education institution | Required | Typically requires a bachelor's degree in a related field |
+| Master's or PhD in progress/completed | University | Required | Most universities require tutors to hold at least a master's degree or be enrolled in one |
+| Higher education certificate (optional) | Various universities | Optional | Some universities offer teaching development courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。澳洲高等教育持续增长，国际学生回流，大学对导师需求稳定。但岗位多为临时性质，竞争激烈，尤其在知名院校。预计未来五年就业小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Australian higher education continues to grow with the return of international students, and universities have stable demand for tutors. However, positions are often temporary with fierce competition, especially at prestigious institutions. Employment is expected to grow slightly over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 按小时计费，年薪基于每周15-20小时 |
-| 中级（3-6年） | $85,000~$105,000 | 按小时计费，年薪基于每周20-25小时 |
-| 高级（6年以上） | $100,000~$130,000 | 按小时计费，年薪基于每周25-30小时 |
+| Median salary | $152,048 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$85,000 | Billed hourly, annual salary based on 15-20 hours per week |
+| Mid-level (3–6 years) | $85,000~$105,000 | Hourly rate, annual salary based on 20-25 hours per week |
+| Senior (6+ years) | $100,000~$130,000 | Hourly billing, annual salary based on 25-30 hours per week |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从临时导师转为固定讲师或高级导师，进而申请博士职位或转为学术研究员。部分导师转入教育管理或企业培训领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly reduce the administrative and basic teaching tasks of university tutors, but core human values such as one-on-one mentoring, emotional support, and critical thinking development are amplified. The role overall faces a mixed transformation.
+
+Career progression path: from temporary tutor to fixed lecturer or senior tutor, then apply for PhD positions or transition to academic researcher. Some tutors move into educational management or corporate training.
+
+**Tasks most exposed to AI:**
+
+- Auto-grading of multiple-choice questions and simple programming assignments.
+- Generate standardized course materials and syllabi
+- Answer common course questions (AI chatbot)
+- Recording and tracking student attendance and grades
+- Provides one-on-one tutoring in basic subjects (e.g., math, grammar).
+
+**Where AI augments the role:**
+
+- Use AI to analyze student learning data and personalize tutoring plans
+- Use AI simulation tools for complex case teaching (e.g., business simulation, experiment design).
+- Use natural language processing tools to quickly search the latest literature and enrich teaching materials
+- Using AI translation and voice assistants to serve non-native-speaking students
+- Improve teaching efficiency by generating practice questions and quizzes using AI.
+
+**Human moat:**
+
+- Providing emotional support and psychological counseling
+- Stimulate students' critical thinking and innovation
+- Adjust teaching strategies based on students' non-verbal cues
+- Handling complex academic integrity and ethical issues
+- Building long-term trust relationships and personalised career guidance
+
+**Skills to build:**
+
+- Proficient in learning analytics tools (e.g., Excel, Python data visualization)
+- Proficient in using AI teaching assistance platforms (e.g., ChatGPT, Knewton)
+- Learn basic programming and AI principles
+- Enhance cross-cultural communication and emotional coaching skills.
+- Acquire skills in online instructional design and digital content creation.
+- Participate in AI ethics and educational technology training
+
+**Key growth areas:**
 
 - Higher education growth
 - International student recovery
@@ -64,67 +100,69 @@ University Tutors support academic staff by leading tutorials, marking assignmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 仅适用于大学讲师等更高级别，导师通常不符合 |
-| Subclass 186（Employer Nomination Scheme） | 需要雇主担保，导师岗位很少提供 |
-| Subclass 189（Skilled Independent） | 大学导师不在MLTSSL上，无法申请 |
-| Subclass 190（Skilled Nominated） | 仅少数州可能提名，但机会极少 |
+| Subclass 482 (Temporary Skill Shortage) | Only applicable to higher levels such as university lecturers; mentors usually do not qualify |
+| Subclass 186 (Employer Nomination Scheme) | Requires employer sponsorship, with very few mentoring positions available. |
+| Subclass 189 (Skilled Independent) | University supervisor not on MLTSSL, cannot apply |
+| Subclass 190 (Skilled Nominated) | Only a few states may nominate, but with very few opportunities |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学University Tutor？**
-- 喜欢学术环境并乐于分享知识的研究生或博士候选人
-- 追求灵活工作时间并希望在高校积累教学经验的人
-- 计划未来从事学术研究或讲师职业的人
+**Who is suited**
+- Graduate student or PhD candidate who enjoys an academic environment and is willing to share knowledge
+- Those seeking flexible working hours and wishing to accumulate teaching experience in universities
+- For those planning a future career in academic research or as a lecturer
 
-**谁不适合学University Tutor？**
-- 寻求全职稳定工作和永久居留权的人
-- 对教学缺乏热情且不喜欢与学生互动的人
+**Who is not suited**
+- People seeking full-time stable work and permanent residency
+- Those lacking passion for teaching and dislike interacting with students
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for university lecturers?**
+A: Australian university tutors are usually paid by the hour, with hourly rates around 40-60 AUD, depending on experience and institution. Part-time annual salary is approximately 65,000-130,000 AUD (based on 15-30 hours per week).
+
+**Q: Can university lecturers obtain Australian PR through skilled migration?**
+A: University tutors (ANZSCO 242112) are usually not on the skilled migration occupation list, making it difficult to migrate via subclass 189 or 190 visas. In rare cases, if they change to university lecturers (242111) and meet requirements, there may be an opportunity to apply.
+
+**Q: What are the career development paths for university tutors?**
+A: Common paths include promotion to senior tutor, lecturer, or academic researcher, or transitioning into educational management, curriculum design, or corporate training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-University Tutor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for university tutors?**
-答：University tutors in Australia are typically paid hourly, around AUD 40-60 per hour depending on experience and institution. Part-time annual salary ranges from AUD 65,000 to 130,000 (based on 15-30 hours per week).
-
-**问：Can university tutors obtain Australian PR through skilled migration?**
-答：University Tutor (ANZSCO 242112) is not on the skilled occupation list, making it difficult for 189 or 190 visas. In rare cases, transitioning to a University Lecturer (242111) may provide opportunities.
-
-**问：What career development paths are available for university tutors?**
-答：Common paths include progression to senior tutor, lecturer, or academic researcher. Others move into education management, curriculum design, or corporate training.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

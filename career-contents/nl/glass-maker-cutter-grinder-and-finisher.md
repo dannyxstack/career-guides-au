@@ -1,60 +1,96 @@
-# Glass Maker, Cutter, Grinder and Finisher（Glass Maker, Cutter, Grinder and Finisher）职业分析 · NL
+# Glass Maker, Cutter, Grinder and Finisher — career analysis · Netherlands
 
-**职业代码：7315 – Glass Maker, Cutter, Grinder and Finisher。**
+**Occupation code: 7315 (ISCO08)**
 
-Workers who manually or mechanically process glass products, including cutting, grinding, polishing, and finishing for construction, decoration, and industrial applications.
+Responsible for manually or mechanically processing glass products, including cutting, grinding, polishing, and finishing, for use in construction, decoration, and industrial fields.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | —（政府资助，学费低） |
-| 在职培训 | 1-2年 | —（雇主提供，可能需自费部分课程） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $0~$2,000 (Government-funded with low tuition fees) |
+| On-the-job training | 1-2 years | $0~$500 (Provided by employer, may require self-funding for some courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃加工技工资格 | 荷兰行业认证机构（如SBB） | 可选 | 通过MBO课程或学徒制获得 |
-| VCA安全证书 | 荷兰安全协会 | 必备 | 工作场所安全要求 |
+| VCA safety certificate | Dutch Safety Association | Required | Workplace Safety Requirements |
+| Glass processing technician qualification | Dutch industry certification bodies (such as SBB) | Optional | Obtained through MBO courses or apprenticeships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 3,500。荷兰建筑业和装饰玻璃需求稳定，但自动化趋势导致岗位缓慢减少。预计未来五年就业机会基本持平，退休替代提供少量空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Demand for glass in the Dutch construction and decoration sector is stable, but automation trends are causing a slow decline in jobs. Employment opportunities are expected to remain largely flat over the next five years, with retirement replacements providing some openings.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，工长或专家级 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, foreman or expert level |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从初级操作工晋升为高级技工或工长，部分转向质量检验或生产管理。需持续学习新机器技术。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Glass manufacturing and processing roles face high automation risk; machine vision and robotic arms are comprehensively replacing manual cutting, grinding, and polishing. Entry-level positions are significantly shrinking, but equipment maintenance and process optimization still require human involvement.
+
+Can advance from entry-level operator to senior technician or foreman, with some transitioning to quality inspection or production management. Requires continuous learning of new machine technologies.
+
+**Tasks most exposed to AI:**
+
+- Hand Glass Cutting (Machine Vision-Guided Laser or Waterjet Precision Cutting)
+- Manual grinding and polishing (replaced by CNC grinders and automatic polishing machines)
+- Quality visual inspection (AI vision system real-time defect detection)
+- Simple repetitive handling and loading/unloading (performed by collaborative robots)
+- Manual chamfering and edge finishing (completed using specialized automated equipment).
+
+**Where AI augments the role:**
+
+- Use CAD/CAM software to design cutting paths for irregular glass shapes, AI optimizes layout to reduce waste
+- Operating and debugging multi-axis CNC glass processing centers (programming and parameter optimization)
+- Reduce equipment downtime based on AI predictive maintenance, analyze sensor data to plan maintenance
+- Quality feedback and adjustment for complex curved surface polishing using AR-assisted tools
+- Train AI vision systems to identify new types of defects (e.g., micro-cracks, uneven stress)
+
+**Human moat:**
+
+- Handling extra-thick, irregular, or artistic glass requires fine manual adjustments, such needs still rely on technician experience
+- On-site diagnosis and rapid repair of sudden equipment failures (non-standard issues)
+- New process trials and sample development, requiring manual trial cutting verification based on material properties
+- Communication and solution design for customized complex products (e.g., architectural curved glass).
+- Safety procedures and emergency response (occupational safety responsibilities involving heat, glass dust)
+
+**Skills to build:**
+
+- CNC programming (e.g., Mastercam, Fusion 360) and fixture design
+- Basic PLC and robot programming (Siemens, ABB)
+- Python Data Analysis (for secondary processing of machine vision results)
+- Fundamentals of additive manufacturing/3D glass printing technology.
+- Industry 4.0-related skills: MES system operation, digital twin basics
+- Quality management system (ISO 9001) and lean production methods
+
+**Key growth areas:**
 
 - Manual Skills
 - Precision Work
@@ -63,62 +99,64 @@ Workers who manually or mechanically process glass products, including cutting, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，需工资达标（2025年约€5,688/月）。本职业通常不满足薪资门槛。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰大学毕业或全球前200高校毕业生可申请，一年内自由找工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 需高工资（2025年约€5,688/月），本职业通常不符合。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, must meet salary threshold (approx. €5,688/month in 2025). This occupation usually does not meet the salary threshold. |
+| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 global universities can apply and freely seek work for one year. |
+| Subclass EU Blue Card (EU Blue Card) | Requires high salary (approximately €5,688/month in 2025), this occupation usually does not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Glass Maker, Cutter, Grinder and Finisher？**
-- 喜欢动手操作、注重细节的人
-- 愿意接受重复性工作、有耐心的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People willing to accept repetitive work and have patience
 
-**谁不适合学Glass Maker, Cutter, Grinder and Finisher？**
-- 对自动化可能替代手工有担忧的人
-- 期望高收入或快速晋升的人
+**Who is not suited**
+- People concerned that automation may replace manual work
+- Those who expect high income or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for glass manufacturing workers?**
+A: Junior approx. €24,000-30,000, middle €30,000-38,000, senior €38,000-45,000 (pre-tax annual salary).
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: This occupation is not on the skilled migration shortage list and generally cannot obtain a work visa. Free movement is limited to EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Glass Maker, Cutter, Grinder and Finisher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass makers?**
-答：Entry-level: €24,000-30,000; Mid-level: €30,000-38,000; Senior: €38,000-45,000 (gross annual).
-
-**问：Can foreigners immigrate to the Netherlands through this occupation?**
-答：This occupation is not considered highly skilled; work permits for non-EU nationals are unlikely. Only EU citizens have free movement.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

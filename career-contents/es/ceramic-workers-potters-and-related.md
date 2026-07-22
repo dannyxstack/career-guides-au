@@ -1,59 +1,95 @@
-# Ceramic Workers, Potters and Related（Ceramic Workers, Potters and Related）职业分析 · ES
+# Ceramic Workers, Potters and Related — career analysis · Spain
 
-**职业代码：7614 – Ceramic Workers, Potters and Related。**
+**Occupation code: 7614 (CNO)**
 
-Manufacture ceramic products including pottery, tiles, and industrial ceramics through molding, glazing, and firing, with employment concentrated in traditional ceramic regions like Valencia and Andalusia.
+Responsible for the manufacturing, forming, glazing, and firing of ceramic products, including handmade ceramics and industrial ceramics production, with concentrated employment in Spain's traditional ceramic-producing regions such as Valencia and Andalusia.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立FP学费极低，仅注册费） |
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立FP学费低，材料费自理） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,000 (Public FP tuition is extremely low, with only a registration fee) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public FP tuition is low, and material costs are self-paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | — | 可选 | 通常通过在职培训或FP获得技能，无需特定执照 |
+| No mandatory qualification requirements | — | Optional | Skills are usually acquired through on-the-job training or FP, without the need for a specific license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 18,000。西班牙陶瓷行业面临自动化替代和廉价进口竞争，就业岗位缓慢缩减，但手工/艺术陶瓷仍有小众市场需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 18,000. Spain's ceramics industry faces competition from automation substitution and cheap imports, with jobs slowly shrinking, but handmade/art ceramics still have niche market demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从学徒或操作工起步，积累经验后晋升为技师或班组长；少数可转向自营陶艺工作室或进入陶瓷修复领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly compress the repetitive tasks of ceramic workers in making billets, glazing, and monitoring kilns, but handcrafted design and custom ceramics are amplified by AI-assisted design tools, intensifying job segmentation.
+
+You can start as an apprentice or operator, and after gaining experience, be promoted to technician or team leader; A few can turn to self-operated ceramic studios or enter the field of ceramic restoration.
+
+**Tasks most exposed to AI:**
+
+- Mass-produced ceramic bodies are automatically formed and trimmed
+- Automated calculation and spraying of glaze formulations
+- AI monitoring and adjustment of kiln temperature curves
+- Classification of visual defects in quality inspection
+- Automation of production scheduling and inventory management
+
+**Where AI augments the role:**
+
+- AI-assisted ceramic 3D modeling and complex shape design
+- Digital tools are used to simulate firing results to optimize the recipe
+- Rapid prototyping of customized products for clients
+- Digital restoration and innovation of historical ceramic patterns
+- Personalized glaze color recommendations based on data analysis
+
+**Human moat:**
+
+- Tactile and improvisational skills in handmade ceramics
+- A deep understanding of traditional Spanish ceramic culture and aesthetics
+- Personalized design of high-value artistic ceramics communicates with customers
+- Creative integration across materials and craftsmanship (such as combining ceramics with metal and glass)
+- Flexible decision-making in on-site restoration and customized services
+
+**Skills to build:**
+
+- Learn 3D modeling software (such as Rhino, Blender)
+- Master AI-assisted design tools (such as Midjourney, Topaz Labs)
+- Understand kiln automation systems and programming logic
+- Enhance digital marketing and e-commerce operation capabilities
+- Enhancing traditional handicraft skills (rolling, carving, overglaze painting)
+- Learn about sustainable materials and green production processes
+
+**Key growth areas:**
 
 - Manual work
 - Traditional craft
@@ -62,60 +98,62 @@ Manufacture ceramic products including pottery, tiles, and industrial ceramics t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 需雇主提供工作合同，证明职位无法在本地填补，薪资不低于行业标准。 |
+| Subclass Cuenta ajena (Work Contract) | The employer must provide a work contract proving the position cannot be filled locally, with a salary not lower than industry standards. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ceramic Workers, Potters and Related？**
-- 喜欢手工艺创作、动手能力强的人
-- 对陶瓷艺术有热情且愿意接受传统技艺培训
+**Who is suited**
+- People who enjoy crafts and have strong hands-on skills
+- Passionate about ceramic art and willing to receive traditional craft training
 
-**谁不适合学Ceramic Workers, Potters and Related？**
-- 希望高收入或快速晋升的人
-- 担心工作环境灰尘多、体力消耗大的人
+**Who is not suited**
+- Those seeking high income or rapid promotion
+- People worried about dusty work environments and heavy physical exertion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for Spanish ceramic workers?**
+A: Entry-level salaries range from about 18,000 to 22,000 euros annually, while seniors do not exceed 35,000 euros, which is below the national average.
+
+**Q: Can third-country citizens immigrate to Spain through the ceramic worker occupation?**
+A: Almost impossible. This occupation is not on the shortage list, employers find it difficult to obtain work permits, and the salary threshold is too low to meet Blue Card requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ceramic Workers, Potters and Related属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for ceramic workers in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, and senior workers earn up to €35,000, below the national average.
-
-**问：Can third-country nationals immigrate to Spain as ceramic workers?**
-答：Extremely difficult. The occupation is not on the shortage list, work permits are hard to obtain, and salary is too low for EU Blue Card.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Concrete Construction Worker（Concrete Construction Worker）职业分析 · FR
+# Concrete Construction Worker — career analysis · France
 
-**职业代码：F1701 – Concrete Construction Worker。**
+**Occupation code: F1701 (ROME)**
 
-Concrete construction workers specialize in forming, pouring, finishing, and curing concrete for residential, commercial, and infrastructure projects.
+Concrete construction workers are responsible for the construction of concrete structures, including formwork, pouring, leveling, and curing, and are widely used in residential, commercial, and infrastructure projects.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP混凝土施工 | 2年 | —（公立职业学校免费或低学费，学徒制可获得补贴） |
-| BTS建筑与公共工程 | 2年 | —（可通过学徒制完成，学费较低） |
+| CAP concrete construction | 2 years | $0~$3,000 (Public vocational schools offer free or low tuition, and apprenticeships can be subsidized) |
+| BTS Architecture and Public Works | 2 years | $0~$5,000 (It can be completed through apprenticeships, and tuition fees are relatively low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP混凝土工 | 法国教育部 | 必备 | 基础职业资格证书，通常需2年学徒或职业教育 |
-| BTS建筑与公共工程 | 法国教育部 | 可选 | 高级技师文凭，可提升管理及技术能力 |
-| CACES操作证 | 法国劳动部认可的机构 | 可选 | 操作混凝土泵车、搅拌机等设备需持证 |
+| CAP concrete workers | French Ministry of Education | Required | Basic vocational qualification certificates, usually requiring 2 years of apprenticeship or vocational education |
+| BTS Architecture and Public Works | French Ministry of Education | Optional | Advanced Technician Diploma can enhance management and technical abilities |
+| CACES operation certificate | An institution recognized by the French Ministry of Labor | Optional | Operation of concrete pump trucks, mixers, and other equipment requires certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。法国建筑行业持续增长，混凝土工人需求稳定，尤其是绿色建筑和旧房改造领域。预计未来5年就业岗位增长约5%，需警惕经济波动影响。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. France's construction industry continues to grow, with stable demand for concrete workers, especially in green buildings and old home renovations. Job growth is expected to be about 5% over the next five years, so caution is needed regarding economic fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，包含奖金 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪，根据技能和地区浮动 |
-| 高级（8年以上/工长） | $35,000~$45,000 | 税前年薪，含管理职责的额外补贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (4-7 years) | $28,000~$35,000 | Pre-tax annual salary, fluctuating depending on skill and region |
+| Senior (8 years or more / Foreman) | $35,000~$45,000 | Pre-tax annual salary, including additional subsidies for management duties |
+| average salary | $28,370 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从普通工人晋升为混凝土工长、工地经理，或通过学徒制获得CAP/BTS文凭后向技术专家或质检员发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Structural differentiation of concrete construction workers' tasks: repetitive physical labor (mixing, vibration) is easily replaced by automation, but skills such as on-site judgment, exception handling, and formwork precision control have been enhanced, intensifying competition for entry-level positions.
+
+Employees can be promoted from ordinary workers to concrete foremen or site managers, or develop into technical experts or quality inspectors after obtaining a CAP/BTS diploma through apprenticeships.
+
+**Tasks most exposed to AI:**
+
+- Automatic concrete mixing and pumping operations
+- Automatic vibration table vibration operation
+- The intelligent smoothing machine smooths the surface
+- Automated maintenance (humidity and temperature monitoring)
+
+**Where AI augments the role:**
+
+- AR glasses allow viewing of 3D template drawings to improve formwork accuracy
+- Drones inspect large areas of concrete surface defects
+- Real-time sensor data analysis optimizes pouring time
+- Digital twin simulates curing conditions to reduce cracking
+
+**Human moat:**
+
+- Safety assessment of complex formwork installation and support systems
+- Manual repair of defects such as sudden cracks and honeycomb roughness
+- On-site team coordination and safety supervision
+- Special-shaped concrete (self-compacting, lightweight) process control
+
+**Skills to build:**
+
+- Concrete 3D printing operation and maintenance
+- Basic application of Building Information Modeling (BIM)
+- Smart sensor data analysis
+- Fundamentals of drone inspection and image recognition
+- Safety regulations for robot collaborative operations
+- Green concrete formulas and low-carbon construction technologies
+
+**Key growth areas:**
 
 - Green building
 - Renovation
@@ -64,66 +97,68 @@ Concrete construction workers specialize in forming, pouring, finishing, and cur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Temporary Worker)） | 适合获得法国雇主长期合同的外籍工人，需通过法国劳动局认证，证明劳动力短缺。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能人才，如企业所需的技术专家，需雇主担保，年薪不低于法定最低工资1.5倍。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 允许毕业生或特定情况下的外籍人士在法求职，有效期1年，不可直接工作。 |
+| Subclass Salarié (Salarié (Temporary Worker)) | Foreign workers eligible for long-term contracts with French employers must be certified by the French Labor Bureau to prove labor shortages. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled talents, such as technical experts required by enterprises, employer sponsorship is required, with an annual salary not less than 1.5 times the statutory minimum wage. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates or foreigners under specific circumstances are allowed to seek employment in France for one year, but cannot work directly. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Concrete Construction Worker？**
-- 喜欢动手操作、体力充沛的人
-- 愿意接受户外工作及工地环境的人
-- 追求稳定就业且对薪资要求不高的人
-
-**谁不适合学Concrete Construction Worker？**
-- 对粉尘、噪音敏感或体力较弱的人
-- 希望快速晋升且薪资增长快的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are physically energetic
+- People willing to work outdoors and in construction sites
+- People seeking stable employment with modest salary expectations.
+
+**Who is not suited**
+- People sensitive to dust, noise, or those with weak physical strength
+- Those who want a quick promotion and fast salary growth
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for concrete construction workers in France?**
+A: Junior workers earn about 22,000–28,000 euros annually, experienced workers up to 35,000 euros, and foremen up to 45,000 euros.
+
+**Q: How can foreigners obtain a work visa for French concrete construction workers?**
+A: The most common is through the Salarié visa, which requires the employer to provide a long-term contract and prove the position is in high demand. You can also try Passeport Talent, but it requires a higher salary.
+
+**Q: What certificates are required for concrete construction in France?**
+A: Typically, CAP concrete worker qualifications or a higher BTS diploma are required. Operating special equipment requires CACES certificate. France requires certification for non-EU qualifications (reconnaissance des qualifications).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Concrete Construction Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for concrete construction workers in France?**
-答：Entry-level workers earn €22,000-€28,000 annually; experienced workers up to €35,000; foremen up to €45,000.
-
-**问：How can a foreigner obtain a work visa for concrete construction in France?**
-答：The common route is the Salarié visa, requiring a long-term contract and proof of shortage. Passeport Talent is also possible for higher salaries.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

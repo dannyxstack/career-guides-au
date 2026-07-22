@@ -1,58 +1,94 @@
-# Town and Traffic Planners（Town and Traffic Planners）职业分析 · IE
+# Town and Traffic Planners — career analysis · Ireland
 
-**职业代码：2164 – Town and Traffic Planners。**
+**Occupation code: 2164 (ISCO08)**
 
-Town and traffic planners design and manage urban spaces and transport systems for sustainable development and efficient mobility.
+Urban and transport planners are responsible for designing and managing urban spaces and transport systems, ensuring sustainability and efficient mobility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $15,000~$25,000（欧盟学生学费约€10,000-€25,000/年） |
-| 硕士 | 1-2年（硕士） | $10,000~$20,000（非欧盟学生学费约€15,000-€30,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$25,000 (Tuition fees for EU students are approximately €10,000–€25,000 per year.) |
+| Master's degree | 1-2 years (Master's) | $10,000~$20,000 (Tuition for non-EU students is approximately €15,000–€30,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰规划学会认证（IPI） | Irish Planning Institute | 必备 | 专业认证，通常需工作经验 |
-| 皇家城镇规划学会认证（RTPI） | Royal Town Planning Institute | 可选 | 国际认可，可选 |
+| Accreditation by the Irish Planning Institute (IPI). | Irish Planning Institute | Required | Professional certification, usually requires work experience |
+| Royal Town Planning Institute (RTPI) accreditation | Royal Town Planning Institute | Optional | Internationally recognized, optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰城镇化与基础设施投资持续增长，规划师需求稳定。政府住房与交通项目推动岗位增加，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Urbanization and infrastructure investment in Ireland continue to grow, with stable demand for planners. Government housing and transport projects are driving job growth, but competition is intense.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公共部门较低，私营略高 |
-| 中级（3-7年） | $45,000~$60,000 | 包括项目经理 |
-| 高级（7年以上） | $60,000~$85,000 | 总监级可达€100,000+ |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Lower in the public sector, slightly higher in private |
+| Mid-level (3–7 years) | $45,000~$60,000 | Including project managers |
+| Senior (7+ years) | $60,000~$85,000 | Director-level can reach €100,000+ |
+| average salary | $55,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级规划师晋升为高级规划师或项目负责人，需积累经验并获得专业认证。可转向政策顾问或管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace many routine analytical tasks, but the politics of planning, community consultation, and creative design still rely on humans. Overall job numbers may decrease slightly, but quality improves, requiring GIS automation and data skills.
+
+Progress from Junior Planner to Senior Planner or Project Leader, requiring experience and professional certification. Can transition to policy advisor or management roles.
+
+**Tasks most exposed to AI:**
+
+- Sorting and preliminary analysis of land use data
+- Standardized drawing and basic drafting
+- Legal clause retrieval and compliance preliminary screening
+- Simple modeling of population and economic forecasting
+- Generation of public consultation meeting records and summaries
+
+**Where AI augments the role:**
+
+- Population and traffic flow simulation and prediction based on multi-source data
+- Use generative design to explore land use options
+- Quickly analyze public opinions through natural language processing
+- Combine satellite imagery with AI for real-time land use monitoring
+- Utilizing digital twins for scenario planning and visualization
+
+**Human moat:**
+
+- Multi-stakeholder coordination and consensus building
+- Political sensitivity and policy-making balance
+- Creative urban design and placemaking
+- Ethical judgment and long-term social impact assessment
+- Decision-making ability in crisis situations
+
+**Skills to build:**
+
+- Spatial data analysis and GIS automation
+- Python/R programming and data visualization.
+- Machine learning fundamentals and predictive modeling
+- Digital twin and BIM integration
+- public participation digital tools
+- urban computing and systems thinking
+
+**Key growth areas:**
 
 - Urban regeneration
 - Sustainable transport
@@ -61,68 +97,67 @@ Town and traffic planners design and manage urban spaces and transport systems f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业清单，快速转永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，门槛较低 |
-| Subclass EU Blue Card（EU Blue Card） | 高技能人才，要求高薪，享欧盟便利 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Suitable for occupation shortage lists, fast track to permanent residency |
+| Subclass General Employment P (General Employment Permit) | Labor market test required, lower threshold |
+| Subclass EU Blue Card (EU Blue Card) | High-skilled talent, demanding high salaries, enjoying EU convenience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Town and Traffic Planners？**
-- 擅长空间分析与设计的人
-- 关注城市可持续发展的人
-- 能在多学科团队中协作的人
-
-**谁不适合学Town and Traffic Planners？**
-- 不喜政策性工作的人
-- 偏好单一技术任务的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals skilled in spatial analysis and design
+- People focused on sustainable urban development
+- able to collaborate in multidisciplinary teams
+
+**Who is not suited**
+- Not interested in policy-related work
+- People who prefer single technical tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for planners in Ireland?**
+A: Entry-level about €35,000-€45,000, mid-level €45,000-€60,000, senior €60,000-€85,000, higher in private sector.
+
+**Q: How can an overseas planner immigrate to Ireland?**
+A: Can apply through a Critical Skills Employment Permit or General Employment Permit. Requires accreditation from the Irish Planning Institute.
+
+**Q: What are the career paths for a planner?**
+A: Can progress from junior planner to project manager, department head, or policy advisor. May also move into private consulting or academia.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Town and Traffic Planners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for planners in Ireland?**
-答：Entry-level €35,000-€45,000, mid-level €45,000-€60,000, senior €60,000-€85,000, higher in private sector.
-
-**问：How can overseas planners immigrate to Ireland?**
-答：Apply through Critical Skills Employment Permit (shortage occupation) or General Employment Permit. IPI accreditation required.
-
-**问：What are the career paths for planners?**
-答：From junior to project manager, department head, or policy advisor. Can also move to private consultancy or academia.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

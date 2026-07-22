@@ -1,59 +1,88 @@
-# Forestry and related workers（Forestry and related workers）职业分析 · UK
+# Forestry and related workers — career analysis · United Kingdom
 
-**职业代码：9112 – Forestry and related workers。**
+**Occupation code: 9112 (SOC)**
 
-Forestry workers perform tasks related to planting, cultivating, and protecting trees, including forest maintenance, harvesting preparation, and pest control. Usually outdoor work requiring physical labor.
+Forestry workers plant, nurture, and protect trees, including forest maintenance, harvesting preparation, and pest/disease control. Typically outdoor work requiring physical labor.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育（GCSE/A-level） | 2年 | —（公立学校免费） |
-| 学徒制（林业） | 2-3年 | —（带薪培训，政府资助） |
+| Secondary education (GCSE/A-level) | 2 years | $0~$0 (Free public schools.) |
+| Apprenticeship (forestry) | 2-3 years | $0~$0 (Paid training, government funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业学徒证书 | City & Guilds | 可选 | 相当于2级资格证书 |
-| 林业技师文凭 | Pearson BTEC | 可选 | 3级证书，提升就业竞争力 |
-| 使用链锯资格（NPTC） | NPTC | 必备 | 法律要求操作链锯时持有 |
+| Chainsaw use qualification (NPTC) | NPTC | Required | Legally required when operating chainsaws. |
+| Certificate in Forestry Apprenticeship. | City & Guilds | Optional | Equivalent to a Level 2 qualification |
+| Diploma in Forestry Technology. | Pearson BTEC | Optional | Certificate III to enhance employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。英国林业就业前景稳定，受气候变化和碳减排目标推动，森林面积扩大增加劳动力需求。但机械化程度提高可能限制就业增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. UK forestry employment outlook is stable, driven by climate change and carbon reduction targets; forest expansion increases labor demand, but increased mechanization may limit job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级，学徒期间较低 |
-| 中级（3-5年） | $22,000~$28,000 | 有经验后薪资提升 |
-| 高级（5年以上/督导） | $28,000~$35,000 | 高级或管理职位 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level, lower during apprenticeship. |
+| Mid-level (3–5 years) | $22,000~$28,000 | Salary increases with experience |
+| Senior (5+ years/supervisory) | $28,000~$35,000 | Senior or management positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：从普通林业工人起步，可晋升为林业督导、森林经理，或专攻森林生态、树木栽培等领域。经验积累后也可自雇运营林业服务。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Labor-intensive tasks for forestry and related workers (such as inspection and measurement) are being gradually replaced by AI-driven drones, sensors, and automated machinery. Entry-level positions are decreasing, but jobs involving on-site operations and emergency judgment still exist.
+
+Career progression path: Starting as a general forestry worker, can advance to forestry supervisor, forest manager, or specialize in forest ecology, arboriculture, etc. With experience, can also become self-employed in forestry services.
+
+**Tasks most exposed to AI:**
+
+- Use drones or remote sensing technology for forest patrol and tree counting, replacing manual foot patrols.
+- Automated detection of early signs of pests and diseases via AI image recognition, replacing manual visual inspection.
+- Use GPS and sensors to automatically record harvest area boundaries and volumes, replacing manual measurement and recording
+
+**Where AI augments the role:**
+
+- AI-assisted ecological models help optimize planting density and tree species selection to increase long-term output
+- Real-time environmental sensor data combined with AI to predict fire risk, enhancing prevention capabilities
+- Automated logging planning software optimizes operational paths and reduces resource waste
+
+**Human moat:**
+
+- Operate and maintain heavy forestry machinery (e.g., harvesters) in complex terrain.
+- On-site judgment of abnormal tree health and non-standard treatments (e.g., rescuing endangered tree species)
+- Communicate and coordinate disputes with landowners and environmental regulatory agencies
+
+**Skills to build:**
+
+- UAV operation and remote sensing data analysis
+- Basic GIS (Geographic Information System) applications
+- Forestry machinery maintenance and automation system debugging
+- Basic data science and statistical modeling
+- Environmental compliance and sustainable development report writing.
+- Ecological restoration planning technology
+
+**Key growth areas:**
 
 - reforestation
 - carbon sequestration
@@ -62,64 +91,63 @@ Forestry workers perform tasks related to planting, cultivating, and protecting 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证条件，需雇主担保，年薪不低于£26,200（或紧缺职业£20,960）。 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可申请2年居留（博士3年），无雇主担保要求，可从事任何工作。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets skilled worker visa conditions, requires employer sponsorship, annual salary no less than £26,200 (or £20,960 for shortage occupations). |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply for 2-year stay (3 years for PhD), no employer sponsorship required, any work allowed. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry and related workers？**
-- 喜欢户外工作，不介意体力劳动和恶劣天气
-- 对环境保护和可持续林业有兴趣
-- 愿意接受培训，获取操作链锯等技能证书
-
-**谁不适合学Forestry and related workers？**
-- 偏好办公室环境或稳定室内工作
-- 体力较弱或无法适应重复性体力劳动
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work, does not mind physical labor and bad weather
+- Interested in environmental protection and sustainable forestry
+- Willing to undergo training to obtain skills certificates such as chain saw operation.
+
+**Who is not suited**
+- Preferring an office environment or stable indoor work
+- Low physical strength or unable to adapt to repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a forestry worker?**
+A: Average annual salary for UK forestry workers is approximately £22,000-£28,000, entry-level positions around £18,000-£22,000, and senior supervisors can earn over £35,000.
+
+**Q: Can forestry workers immigrate to the UK via a skilled worker visa?**
+A: Yes. Forestry worker (SOC 9112) is on the eligible occupations list for the Skilled Worker visa and is on the Immigration Salary List (ISL), thus qualifying for a lower salary threshold (£20,960).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forestry and related workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for forestry workers?**
-答：The average annual salary for forestry workers in the UK is around £22,000-£28,000, with entry-level positions at £18,000-£22,000 and senior supervisors up to £35,000.
-
-**问：Can forestry workers immigrate to the UK via the Skilled Worker visa?**
-答：Yes. Forestry workers (SOC 9112) are on the list of eligible occupations for the Skilled Worker visa and are included in the Immigration Salary List (ISL), benefiting from a lower salary threshold of £20,960.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

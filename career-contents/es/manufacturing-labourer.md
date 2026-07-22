@@ -1,59 +1,94 @@
-# Manufacturing Labourer（Manufacturing Labourer）职业分析 · ES
+# Manufacturing Labourer — career analysis · Spain
 
-**职业代码：9700 – Manufacturing Labourer。**
+**Occupation code: 9700 (CNO)**
 
-Performs manual tasks in manufacturing plants, such as moving materials, feeding machines, packaging products, cleaning, and basic assembly, requiring no specialized skills.
+Manual labor in manufacturing factories, including material handling, machine feeding, product packaging, cleaning, and simple assembly, requires no specialized skills.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无需正规教育 | —（仅需基本读写能力） |
-| 职业培训（FP Básica） | 2年 | —（部分公立免费） |
+| Compulsory education | No formal education required | $0~$0 (Only basic literacy is required) |
+| Vocational Training (FP Básica) | 2 years | $0~$3,000 (Some public schools are free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | — | 可选 | 雇主通常提供在职培训 |
+| No mandatory requirements | — | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 450,000。西班牙制造业就业稳定，但自动化可能减少低技能岗位需求。食品、汽车和化工行业仍有需求，季节性波动明显。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 450,000. Employment in Spain's manufacturing sector is stable, but automation may reduce demand for low-skilled jobs. There is still demand in the food, automotive, and chemical industries, with significant seasonal fluctuations.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，按14薪计算 |
-| 中级（3-6年） | $21,000~$26,000 | 税前年薪，含加班费 |
-| 高级（6年以上） | $24,000~$30,000 | 税前年薪，可能担任组长 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary is calculated as 14 months' salary |
+| Mid-level (3–6 years) | $21,000~$26,000 | Annual salary before tax, including overtime pay |
+| Senior (6+ years) | $24,000~$30,000 | Pre-tax annual salary, possibly serving as a team leader |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从临时工或劳务派遣开始，积累经验后可升任组长或生产线主管，或转岗至更专业的机器操作岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Ordinary manufacturing workers face high automation risks, with repetitive manual labor largely replaced by robots, AGVs, and AI scheduling systems, and the number of positions will continue to decrease.
+
+Usually, they start as temporary workers or labor dispatchers, and after gaining experience, can be promoted to team leader or production line supervisor, or transfer to more specialized machine operation positions.
+
+**Tasks most exposed to AI:**
+
+- Material handling and warehousing: AGVs and robots replace manual handling and palletizing
+- Machine loading and unloading: Automated loading and unloading robots replace manual operations
+- Product packaging: automated packaging lines replace manual sealing and labeling
+- Simple assembly: Collaborative robots or specialized automation equipment replace screw tightening and parts installation
+- Production line cleaning: industrial cleaning robots replace floor and equipment cleaning
+
+**Where AI augments the role:**
+
+- Monitoring the operation of automated equipment: AI systems assist in identifying anomalies, enhancing remote monitoring capabilities for personnel
+- Quality Inspection: AI visual inspection systems assist manual spot checks to improve detection rates
+- Equipment Maintenance Prediction: AI analyzes vibration and temperature data to enhance preventive maintenance decisions
+- Production scheduling optimization: AI algorithms help adjust production line rhythms to enhance efficiency
+- Security risk warning: AI video analysis identifies unsafe behaviors to enhance security management
+
+**Human moat:**
+
+- On-site Flexibility: Handle unexpected mechanical failures or production line interruptions
+- Fine manual work: Requires fine adjustments for tactile feedback or special material handling
+- Cross-trade collaboration: Coordinate with electricians, mechanics, and others to solve complex problems
+- Exception handling decision-making: After AI alerts, determine whether to shut down and adjust parameters
+
+**Skills to build:**
+
+- Automation equipment operation and basic programming (PLC, robot teaching methods)
+- Industrial IoT and sensor maintenance knowledge
+- Basic operation and anomaly detection of AI visual inspection systems
+- Data analysis and reporting tools (Excel, BI)
+- Basic English (Read the equipment manual)
+- Lean Production and Improvement Methods
+
+**Key growth areas:**
 
 - Manual labor
 - Manufacturing
@@ -62,65 +97,67 @@ Performs manual tasks in manufacturing plants, such as moving materials, feeding
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主提供工作合同，且职位无法在欧盟内填补，通过劳动力市场测试。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙居留寻找工作，但需证明经济能力。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employers must provide a work contract, and the position cannot be filled within the EU to pass the labor market test. |
+| Subclass Busqueda empleo (Job search visa) | Residency in Spain is allowed to seek work, but financial ability must be demonstrated. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Manufacturing Labourer？**
-- 愿意从事体力劳动，不介意重复性工作
-- 寻求快速入职、无需学历的求职者
-- 能适应工厂环境和轮班制
+**Who is suited**
+- Willing to do physical labor and not mind repetitive work
+- Job seekers seeking quick onboarding without a formal degree
+- Able to adapt to factory environments and shift systems
 
-**谁不适合学Manufacturing Labourer？**
-- 希望高薪或快速晋升者
-- 追求稳定、低自动化风险的职业
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Pursue a stable career with low automation risk
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for ordinary workers in manufacturing?**
+A: Junior workers earn about 18,000-22,000 euros annually, intermediate workers about 21,000-26,000 euros, and senior or team leaders up to 30,000 euros.
+
+**Q: How can foreigners obtain a Spanish manufacturing worker visa?**
+A: You must obtain a work contract from your employer, prove that the position cannot be recruited in the EU, pass the labor market test, and apply for employment residence.
+
+**Q: Will this occupation be replaced by automation?**
+A: Risks are high, and many simple, repetitive tasks have begun to be replaced by machines, but flexible, non-standardized tasks still require human labor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（½☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Manufacturing Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for manufacturing labourers?**
-答：Entry-level workers earn about €18,000-22,000 per year, mid-level €21,000-26,000, and senior or team leaders up to €30,000.
-
-**问：How can foreigners get a visa for manufacturing labourer jobs in Spain?**
-答：They need a job offer from an employer who proves the position cannot be filled within the EU, passes labor market test, and applies for a work permit.
-
-**问：Will this job be replaced by automation?**
-答：Risk is high; many simple repetitive tasks are already automated, but flexible and non-standard tasks still require human labor.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

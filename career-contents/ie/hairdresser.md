@@ -1,60 +1,94 @@
-# Hairdresser（Hairdresser）职业分析 · IE
+# Hairdresser — career analysis · Ireland
 
-**职业代码：5141 – Hairdresser。**
+**Occupation code: 5141 (ISCO08)**
 
-Provides hair cutting, coloring, styling and other hairdressing services. Works in salons or barbershops, requiring good communication skills and creativity.
+Provide hair cutting, coloring, styling, and other hairdressing services to clients. Practitioners typically work in salons or barbershops, requiring good communication skills and creativity.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年 | $5,000~$10,000（包括学费和材料费） |
-| 学徒制 | 3-4年 | —（在职培训，部分课程免费） |
+| Vocational training | 2 years | $5,000~$10,000 (Includes tuition and material fees) |
+| Apprenticeship | 3-4 years | $0~$2,000 (On-the-job training, some courses free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家美发证书（QQI Level 5/6） | QQI | 可选 | 基础职业资格 |
-| 理发师执业许可 | 当地政府 | 可选 | 开设店铺前需注册 |
+| National Hairdressing Certificate (QQI Level 5/6) | QQI | Optional | Basic professional qualifications |
+| Barber License | Local government | Optional | Must register before opening a store |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。爱尔兰美发行业需求稳定，受人口增长和时尚消费驱动。预计未来十年就业增长约5%，但竞争较为激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Demand in the Irish hairdressing industry is stable, driven by population growth and fashion consumption. Employment is expected to grow by about 5% over the next decade, but competition is relatively intense.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 含小费 |
-| 中级（3-5年） | $28,000~$35,000 | 含提成 |
-| 高级（5年以上） | $35,000~$50,000 | 高级发型师/店主 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Includes tips |
+| Mid-level (3–5 years) | $28,000~$35,000 | Including commission |
+| Senior (5+ years) | $35,000~$50,000 | Senior hairdresser / salon owner |
+| average salary | $33,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级理发师晋升为高级发型师、创意总监或发廊经理。积累客户后也可自主创业开设沙龙。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist rather than fully replace barbers, but task reorganization is significant: automation can handle scheduling, consultations, and some styling processes, while core creative and interpersonal skills remain irreplaceable. Entry-level roles may have lower barriers due to AI tools, but advanced customization requires higher skills.
+
+Can advance from junior barber to senior hairstylist, creative director, or salon manager. After building a client base, can also start own salon.
+
+**Tasks most exposed to AI:**
+
+- Appointment and Customer Management System (AI scheduling and reminders)
+- Standard hairstyle consultation and advice (AI recommends hairstyles based on face shape)
+- Hair dye mixing and colour matching (AI colour analysis)
+- Shampooing and basic blow-drying (automatic hair washer and smart hair dryer).
+
+**Where AI augments the role:**
+
+- Hair design and 3D simulation (AI-generated personalized solutions)
+- Customer Preference Analysis and File Management (AI records historical service preferences)
+- Social media marketing and content creation (AI-generated hairstyle demonstration videos)
+- Product inventory and procurement optimization (AI demand forecasting)
+
+**Human moat:**
+
+- Masterful scissor and razor techniques (the texture of hand-cut hair is irreproducible)
+- Close client interaction and trust building
+- Creative styling and personalized design (tailored to customer temperament).
+- Acute perception and integration of fashion trends
+- Experience in handling complex hair types and unexpected issues
+
+**Skills to build:**
+
+- Master AI hairstyle design software (e.g., virtual try-on)
+- Learn basic programming and data analysis (for customer management)
+- Enhance social media operation and content creation skills
+- Study of hair dye chemistry and color theory
+- Advanced haircutting and styling techniques (e.g., men's fades, women's layers)
+- Customer experience design and service innovation
+
+**Key growth areas:**
 
 - Self-employment
 - Men's grooming
@@ -63,62 +97,64 @@ Provides hair cutting, coloring, styling and other hairdressing services. Works 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪未达特级许可门槛的工作，雇主需通过劳动力市场测试。 |
-| Subclass Stamp 4 (EU Family M（EU Family Member Residence） | 如果与EU/EEA公民有家庭关系，可自由工作。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for jobs where annual salary is below the specialist exemption threshold; employers must pass a labor market test. |
+| Subclass Stamp 4 (EU Family M (EU Family Member Residence) | Can work freely if you have a family relationship with an EU/EEA citizen. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hairdresser？**
-- 喜欢与人交流、有创意的人
-- 愿意从事手工业、不怕站立工作的人
-- 有耐心、能适应灵活工作时间的人
+**Who is suited**
+- People who enjoy interacting with others and are creative
+- people willing to engage in manual work and not afraid of standing
+- Patient individuals who can adapt to flexible working hours
 
-**谁不适合学Hairdresser？**
-- 不喜欢身体接触或长时间站立的人
-- 希望快速获得高薪的人
+**Who is not suited**
+- Not suitable for people who dislike physical contact or standing for long periods
+- Those hoping to quickly secure a high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of hairdressers in Ireland?**
+A: Junior annual salary about €22,000-28,000; senior stylists can earn €35,000-50,000. Income includes tips and commissions.
+
+**Q: Can hairdressers immigrate to Ireland via a work visa?**
+A: This occupation is not on the shortage list; a general work permit is required, and the employer must prove inability to recruit locally. Considerable difficulty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hairdresser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hairdressers in Ireland?**
-答：Entry-level annual salary is about €22,000-28,000, while senior hairdressers can earn €35,000-50,000, including tips and commissions.
-
-**问：Can hairdressers immigrate to Ireland via work visa?**
-答：This occupation is not on the shortage list. A General Employment Permit requires labor market test, making it difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

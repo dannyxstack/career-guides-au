@@ -1,60 +1,95 @@
-# Insurance Operations Director（Insurance Operations Director）职业分析 · FR
+# Insurance Operations Director — career analysis · France
 
-**职业代码：C1104 – Insurance Operations Director。**
+**Occupation code: C1104 (ROME)**
 
-Responsible for overall operations management of an insurance company, including strategy formulation, process optimization, team management, and ensuring profitability targets are met.
+Responsible for overall operational management of the insurance company, including strategy formulation, process optimization, team management, and ensuring profitability targets are met.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（硕士） | $8,000~$20,000（公立大学学费低，高商费用高，可学徒制） |
-| 工程师或商校文凭 | 3-5年 | $10,000~$25,000（顶尖高商或工程师学院，学徒制可减免） |
+| Master's (BAC+5) | 5 years (Master's) | $8,000~$20,000 (Public universities have low tuition fees, high commercial fees are high, and apprenticeships are available) |
+| Engineer or business school diploma | 3-5 years | $10,000~$25,000 (Top commercial or engineering colleges can offer apprenticeship reductions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险经纪人注册 | ACPR（法国审慎监管局） | 可选 | 如直接负责保险经纪业务需注册 |
-| CIIA或保险专业认证 | Fédération Française de l'Assurance | 可选 | 非强制，但提升竞争力 |
+| Insurance broker registration | ACPR (French Prudential Regulatory Agency) | Optional | If directly responsible for insurance brokerage business, registration is required |
+| CIIA or insurance professional certification | Fédération Française de l'Assurance | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。法国保险业就业稳定，数字化转型与合规要求推动高级管理岗位需求。预计未来五年年增长率约2-3%。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Employment in France's insurance industry is stable, and digital transformation and compliance requirements are driving demand for senior management positions. The annual growth rate is expected to be about 2-3% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $70,000~$100,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $100,000~$150,000 | 税前年薪，含奖金 |
+| Median salary | $85,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$70,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $70,000~$100,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $100,000~$150,000 | Annual pre-tax salary, including bonuses |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径：初级部门经理 -> 运营总监 -> 区域/集团高管。需积累行业经验及管理能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of the Insurance Operations Director will be significantly amplified in the AI era. AI will optimize operational processes, data analytics, and decision support, enabling directors to manage teams more efficiently, reduce costs, and enhance customer experience. However, caution should be held against the risk of AI replacing some traditional operational positions.
+
+Career paths: Junior Department Manager -> Operations Director -> Regional/Group Executive. Accumulate industry experience and management skills.
+
+**Tasks most exposed to AI:**
+
+- Routine operations report generation
+- Preliminary review and allocation of policies and claims
+- Standardized handling of some customer service inquiries
+- Basic statistics and visualization of operational data
+
+**Where AI augments the role:**
+
+- Use AI for operational performance forecasting and anomaly alerts
+- AI-driven large-scale personalized product pricing
+- Optimize workflows and reduce manual intervention through automated tools
+- Leverage AI to analyze customer behavior and develop precise operational strategies
+- Use natural language processing to improve the efficiency of internal and compliance document processing
+
+**Human moat:**
+
+- Strategic decision-making and business direction formulation
+- Organizational change management and cross-departmental coordination
+- Maintaining complex customer relationships and key partners
+- Responding to unforeseen crises and risk management
+- Cultivating an innovative culture and humanized team management
+
+**Skills to build:**
+
+- Basic concepts and business applications of AI and machine learning
+- Data-driven operational analysis and decision-making capabilities
+- RPA and intelligent automation tools are used
+- Digital strategy and project management
+- Change management and team leadership
+- Compliance and ethics: AI application knowledge
+
+**Key growth areas:**
 
 - Digital Transformation
 - Risk Management
@@ -63,66 +98,65 @@ Responsible for overall operations management of an insurance company, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能管理人才，需工作合同或项目计划，有效期4年 |
-| Subclass Salarié（Employee） | 雇主担保，适用于受雇于法国公司，需劳工许可 |
-| Subclass Carte bleue UE（EU Blue Card） | 高薪职位（年薪≥53,000€），快速通道 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled management talents, requiring a work contract or project plan, valid for 4 years |
+| Subclass Salarié (Employee) | Employer sponsorship, applicable to those employed by French companies who require a labor permit |
+| Subclass Carte bleue UE (EU Blue Card) | High-paying positions (annual salary ≥€53,000), fast track |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Operations Director？**
-- 拥有管理或金融硕士学历，有保险行业经验
-- 具备战略思维和领导力，能处理复杂合规环境
-- 法语流利，适应法国企业文化
-
-**谁不适合学Insurance Operations Director？**
-- 缺乏管理经验或团队领导能力
-- 不熟悉法国监管框架或法语沟通困难
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a master's degree in management or finance and has experience in the insurance industry
+- Possess strategic thinking and leadership skills, and be able to handle complex compliance environments
+- Fluent in French, adapted to French corporate culture
+
+**Who is not suited**
+- Lack of management experience or team leadership skills
+- Unfamiliarity with the French regulatory framework or difficulties in French communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an Insurance Operations Director?**
+A: Entry-level salary is about €55,000-70,000, intermediate salary is €70,000-100,000, and senior-level salary is €100,000-150,000 with bonuses.
+
+**Q: How can foreigners immigrate to France to work in this profession?**
+A: Applications can be made through Passeport Talent (contract required) or the EU Blue Card (annual salary ≥€53,000).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insurance Operations Director为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Insurance Operations Director?**
-答：Junior: €55,000-70,000, mid: €70,000-100,000, senior: €100,000-150,000 gross annual including bonuses.
-
-**问：How can foreigners immigrate to France for this occupation?**
-答：Via Talent Passport (with contract) or EU Blue Card (salary ≥€53,000).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

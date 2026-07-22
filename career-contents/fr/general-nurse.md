@@ -1,61 +1,97 @@
-# General Nurse（General Nurse）职业分析 · FR
+# General Nurse — career analysis · France
 
-**职业代码：J1506 – General Nurse。**
+**Occupation code: J1506 (ROME)**
 
-In the French healthcare system, general nurses provide fundamental care including patient monitoring, medication administration, and wound care, serving as essential members of the medical team.
+In the French healthcare system, general practitioners are responsible for providing basic nursing services, including condition monitoring, medication management, and wound care, making them key members of the medical team.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 护理文凭（DEI） | 3年 | —（公立院校学费低，私立较高；可通过学徒制减免） |
-| 护理硕士（Master） | 2年 | —（公立大学学费约250欧元/年，私立高） |
+| Nursing Diploma (DEI) | 3 years | $0~$10,000 (Public institutions have lower tuition fees, while private institutions have higher tuition fees; Exemptions can be made through the apprenticeship system) |
+| Master of Nursing | 2 years | $0~$15,000 (Tuition at public universities is about 250 euros per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法国国家护理文凭（DEI） | 法国卫生部 | 必备 | 必须持有DEI才能执业 |
-| 欧盟护士资格认证 | 各国注册机构 | 必备 | 第三国护士需通过欧洲资格认可程序 |
-| 法国护理注册（Ordre des infirmiers） | 法国护理协会 | 必备 | 所有护士必须注册 |
+| French National Diploma in Nursing (DEI) | French Ministry of Health | Required | You must hold a DEI to practice |
+| EU Nurse Qualification Certification | Registration agencies in various countries | Required | Nurses from third countries must pass the European qualification recognition process |
+| French Nursing Registry (Ordre des infirmiers) | French Nursing Association | Required | All nurses must register |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 500,000。法国面临护士短缺，预计到2030年需求增长10%以上。老龄化人口和慢性病增加推动就业市场强劲表现。
+**Job demand: very high (★★★★½).** National workforce approx. 500,000. France faces a shortage of nurses, with demand expected to grow by more than 10% by 2030. An aging population and an increase in chronic diseases are driving strong job market performance.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 公立医院起薪约30000欧元 |
-| 中级（3-7年） | $35,000~$42,000 | 含加班和津贴 |
-| 高级（7年以上） | $40,000~$55,000 | 专科护士或主管可达更高 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | The starting salary for public hospitals is about 30,000 euros |
+| Mid-level (3–7 years) | $35,000~$42,000 | Including overtime and allowances |
+| Senior (7+ years) | $40,000~$55,000 | Specialist nurses or supervisors can reach even higher |
+| average salary | $34,236 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从临床护士晋升为护理主管、专科护士（如麻醉护士、手术室护士），或转向护理管理、教育岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of general nurses is being doubly influenced by AI: tasks like paperwork and monitoring are being automated, while the value of clinical decision-making and patient communication is being amplified. Competition for entry-level positions is intensifying, but demand for senior practical positions is rising.
+
+Patients can be promoted from clinical nurses to nursing supervisors, specialist nurses (such as anesthesia nurses, operating room nurses), or transition to nursing management or education positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic monitoring and early warning of vital signs (AI takes over routine observation)
+- Electronic medical record entry and document organization (AI automatically generates SOAP notes)
+- Drug Dosage Calculation and Interactive Examination (AI Clinical Decision Support System)
+- Patient triage prioritization (AI triage algorithm)
+- Frequently Asked Questions and Answers (AI Chatbot)
+
+**Where AI augments the role:**
+
+- AI-assisted complex wound assessment and care plan development
+- AI predictive models are used to identify high-risk patients and intervene early
+- Expanding chronic disease follow-up capabilities through remote monitoring platforms
+- Use AI tools to optimize care scheduling and resource allocation
+- AI-assisted continuing education and clinical simulation training
+
+**Human moat:**
+
+- Rapid clinical judgment and hands-on operations in emergencies
+- Multidimensional humanistic care and emotional support for complex patients
+- Leadership and coordination roles in multidisciplinary teams
+- Nursing decisions involving legal liability (such as medication verification)
+- In-depth communication and education with patients' families
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted clinical decision-making systems
+- Remote patient monitoring and data analysis capabilities
+- Complex wound care and advanced life support skills
+- Interdisciplinary communication and team leadership
+- Basic programming and nursing data analysis (such as Python/R)
+- Ethics and Legal Awareness (AI-related)
+
+**Key growth areas:**
 
 - aging population
 - chronic disease
@@ -64,69 +100,68 @@ In the French healthcare system, general nurses provide fundamental care includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，护士在紧缺列表内，可申请 |
-| Subclass Salarié（Employee） | 工作居留，需雇主担保，护士职位易获批 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪≥53775欧元，护士通常收入达标 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents; nurses on the shortage list can apply |
+| Subclass Salarié (Employee) | Work residency requires employer sponsorship, and nurse positions are easily approved |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary ≥ €53,775, nurses usually meet the threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General Nurse？**
-- 喜欢帮助他人、有耐心和同理心的人
-- 能承受高压、轮班工作环境的人
-- 愿意不断学习医学知识的人
-
-**谁不适合学General Nurse？**
-- 对血液、创伤等场景敏感的人
-- 需要固定作息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy helping others and are patient and empathetic
+- People who can handle high-pressure, shift work environments
+- People willing to continuously learn medical knowledge
+
+**Who is not suited**
+- People sensitive to scenes like blood and trauma
+- People who need a regular routine
+
+---
+
+## 8. FAQ
+
+**Q: How do nurses in France earn salaries?**
+A: Junior salary approx. €30,000–€35,000; senior or specialist can reach €55,000+, plus allowances in public hospitals.
+
+**Q: How do nurses from third countries immigrate to France?**
+A: You must obtain the French Nursing Diploma (DEI) certification or EU qualification recognition before applying for a talent passport or work visa.
+
+**Q: Do French nurses have to register?**
+A: Yes, you must be registered with Ordre des infirmiers to practice, and you must hold a valid DEI diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-General Nurse为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a nurse in France?**
-答：Entry-level annual salary is about 30,000-35,000 EUR; experienced nurses can earn up to 55,000 EUR including allowances.
-
-**问：How can a third-country nurse migrate to France?**
-答：Must obtain recognition of nursing qualifications (DEI) or EU equivalency, then apply for a Talent Passport or work visa.
-
-**问：Is nurse registration mandatory in France?**
-答：Yes, must register with the Ordre des infirmiers and hold a valid DEI diploma to practice.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

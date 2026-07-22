@@ -1,60 +1,92 @@
-# Meter Readers, Utilities（Meter Readers, Utilities）职业分析 · 美国
+# Meter Readers, Utilities — career analysis · United States
 
-**职业代码：43-5041 – Meter Readers, Utilities。**
+**Occupation code: 43-5041 (SOC)**
 
-Read and record consumption data from electricity, gas, water, or steam meters, often traveling between locations on foot or by vehicle to ensure accurate and timely data submission.
+Read and record usage data from electricity, gas, and water meters, usually requiring walking or driving between multiple locations, ensuring data accuracy and timely submission.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无需 | —（通常仅要求高中学历或同等学历） |
-| 在职培训 | 1-3个月 | —（雇主提供短期在岗培训） |
+| High school graduation | None | $0~$0 (Usually only requires high school diploma or equivalent.) |
+| On-the-job training | 1-3 months. | $0~$500 (Employer provides short-term on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾照 | 州机动车管理局 | 必备 | 通常需要有效的驾驶执照以驾驶公司车辆 |
-| 背景调查 | 雇主 | 必备 | 部分雇主要求通过背景调查 |
+| Driver's license | State motor vehicle department | Required | Usually requires a valid driver's license to drive company vehicles |
+| Background check | Employer | Required | Some employers require background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 18,000。受自动抄表技术（AMR/AMI）普及影响，该职业需求预计持续下降。未来十年就业增长率约为 -4% 至 -6%，但现有岗位退休仍会带来少量职位空缺。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 18,000. Affected by the adoption of automatic meter reading (AMR/AMI), demand for this occupation is expected to decline. Employment growth over the next decade is around -4% to -6%, but retirements will still create some openings.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起薪较低，随经验增长 |
-| 中级（3-7年） | $35,000~$45,000 | 多数从业者薪资在此范围 |
-| 高级（7年以上） | $45,000~$55,000 | 资深或主管级别可达更高 |
+| Median salary | $48,150 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary is low, increases with experience. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Most practitioners' salaries fall within this range |
+| Senior (7+ years) | $45,000~$55,000 | Senior or supervisory level can be higher |
+| average salary | $55,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级抄表员可晋升至高级抄表员、团队主管或调度员；部分人员可转入客户服务或数据中心管理岗位。但随着自动化提升，转型空间有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Utility meter readers face high automation due to smart meters and remote reading technology, leading to sharp job decline and severely limited career prospects.
+
+Junior meter readers can advance to senior meter readers, team supervisors, or dispatchers; some can move to customer service or data center management roles. However, advancement opportunities are limited as automation increases.
+
+**Tasks most exposed to AI:**
+
+- Manually recording electricity, gas, and water meter readings
+- On-site inspection of measuring equipment faults (initial judgment)
+- Generate manual meter reading reports.
+- Reading meters along a fixed route
+
+**Where AI augments the role:**
+
+- Use mobile apps or handheld terminals to assist with remote confirmation of abnormal readings.
+- Identify potential leaks or tampering by analyzing consumption patterns via AI
+- Use autonomous inspection drones or robots for meter reading in high-risk areas
+- Provide energy advice to clients based on AI-generated energy saving reports.
+
+**Human moat:**
+
+- Equipment fault diagnosis and repair in complex on-site environments.
+- In-person communication with clients over billing disputes or safety issues
+- Decision-making ability in emergencies (e.g., gas leaks)
+- Manual calibration and maintenance of old mechanical watch heads
+
+**Skills to build:**
+
+- Basic data analysis and anomaly detection
+- Mobile device and specialized app operation
+- Customer service and communication skills
+- Basic electrical/mechanical repair knowledge
+- Drone or robot operation and maintenance
+
+**Key growth areas:**
 
 - Smart Meter Adoption
 - Automation
@@ -63,65 +95,67 @@ Read and record consumption data from electricity, gas, water, or steam meters, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职位要求，极少通过此路径 |
-| Subclass EB-3（EB-3 Skilled Workers） | 一般不被视为技术职业，申请难度极大 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional position requirements, rarely through this path |
+| Subclass EB-3 (EB-3 Skilled Workers) | Generally not considered a skilled occupation, extremely difficult to apply for. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Meter Readers, Utilities？**
-- 偏好户外工作、不介意体力活动的人
-- 喜欢独立作业、不需要频繁团队协作的人
-- 对有稳定需求但非高增长行业不排斥的人
+**Who is suited**
+- People who prefer outdoor work and do not mind physical activity
+- People who prefer working independently without frequent team collaboration
+- People who are open to stable but not high-growth industries.
 
-**谁不适合学Meter Readers, Utilities？**
-- 寻求高薪或快速职业发展的人
-- 对自动化取代风险敏感的人
+**Who is not suited**
+- People seeking high salary or fast career development
+- People sensitive to automation replacement risk
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of meter readers?**
+A: US meter readers have a median annual salary of approximately $38,000, entry-level about $28,000-$35,000, senior over $55,000, but overall below the national average.
+
+**Q: Can a meter reader work in the US through skilled migration?**
+A: Very difficult. The occupation is typically not considered professional/technical, does not meet H-1B or EB-2/EB-3 green card criteria, and the labor market test (PERM) is hard to pass.
+
+**Q: How much does automatic meter reading technology impact the occupation?**
+A: Significant. More utilities are deploying smart meters and remote reading systems, drastically reducing manual meter reading jobs; employment expected to decline over 4% in next decade.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 差（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Meter Readers, Utilities属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for meter readers?**
-答：The median annual wage for meter readers in the US is around $38,000, with entry-level positions earning $28,000-$35,000 and experienced workers up to $55,000, generally below the national average.
-
-**问：Can meter readers immigrate to the US through work visas?**
-答：Extremely difficult. This occupation is not considered a specialty occupation, making it ineligible for H-1B or most employment-based green cards, and the PERM labor certification is unlikely to succeed.
-
-**问：How does automation affect this career?**
-答：Significantly. The adoption of smart meters and remote reading systems is reducing demand for manual meter readers, with employment projected to decline by over 4% in the next decade.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

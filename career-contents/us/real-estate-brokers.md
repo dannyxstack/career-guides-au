@@ -1,61 +1,97 @@
-# Real Estate Brokers（Real Estate Brokers）职业分析 · 美国
+# Real Estate Brokers — career analysis · United States
 
-**职业代码：41-9021 – Real Estate Brokers。**
+**Occupation code: 41-9021 (SOC)**
 
-Real estate brokers operate real estate offices or work for commercial firms, overseeing transactions including selling, renting, and arranging loans.
+Real estate agents represent clients in buying, selling, or leasing properties, and also manage real estate offices or commercial property companies, assisting with loan arrangements.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 无特定年限 | —（基本要求，但需后续执照培训） |
-| 本科（商业/金融相关） | 4年 | $40,000~$150,000（非必需，但有助于竞争力） |
+| High school graduation | No specific time limit | $0~$0 (Basic requirements, but subsequent license training needed) |
+| Bachelor's degree (business/finance related) | 4 years | $40,000~$150,000 (Not mandatory, but beneficial for competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产销售员执照 | 州房地产委员会 | 必备 | 完成规定课时并通过考试，部分州要求大专学历 |
-| 房地产经纪人执照 | 州房地产委员会 | 必备 | 有销售员经验后，再完成额外课程和考试 |
-| 继续教育 | 州房地产委员会 | 必备 | 定期更新执照所需学时 |
+| Real estate salesperson licence | State Real Estate Commission | Required | Complete required hours and pass exams; some states require an associate degree |
+| Real estate agent license | State Real Estate Commission | Required | After gaining sales experience, complete additional courses and exams |
+| Continuing education | State Real Estate Commission | Required | Regularly update license required hours |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 137,000。美国房地产经纪人就业预计增长约5%（2023-2033），与平均水平相近。利率波动和住房库存影响需求，但人口增长和商业活动持续支撑岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 137,000. Employment for US real estate agents is projected to grow about 5% (2023-2033), similar to the average. Interest rate fluctuations and housing inventory affect demand, but population growth and commercial activity continue to support jobs.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$60,000 | 佣金为主，收入不稳定 |
-| 中级（3-10年） | $60,000~$120,000 | 稳定客户群和佣金 |
-| 高级（10年以上） | $120,000~$200,000 | 高额交易或管理团队 |
+| Median salary | $73,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $36,000~$60,000 | Commission-based, unstable income |
+| Intermediate (3-10 years) | $60,000~$120,000 | Stable client base and commission |
+| Senior (10+ years) | $120,000~$200,000 | High-value transactions or management teams |
+| average salary | $83,950 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业生涯可从销售助理起步，通过考取经纪人执照并积累客户资源，晋升为团队主管、办公室经理，最终开设独立经纪公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+Career can start from sales assistant, then obtain a broker license and accumulate client resources, advancing to team supervisor, office manager, and eventually opening an independent brokerage firm.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - Housing market
 - Commercial real estate
@@ -64,67 +100,69 @@ Real estate brokers operate real estate offices or work for commercial firms, ov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少用于房地产经纪人，因为通常不要求本科专业学位，除非在大型商业地产公司担任分析等岗位。 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国房地产公司内部调动可能适用，但需高管或专门知识。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需证明职位要求高级学位或杰出能力，通常不适用。 |
-| Subclass EB-3（Employment-Based Third Preference） | 极少数雇主担保案例，但需要PERM劳工证且市场测试困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely used for real estate agents, as a bachelor's degree is not typically required unless in analytical roles at large commercial real estate firms. |
+| Subclass L-1 (L-1 Intracompany Transferee) | Internal transfers at multinational real estate companies may apply, but need executive or specialized knowledge. |
+| Subclass EB-2 (Employment-Based Second Preference) | Need to prove position requires advanced degree or exceptional ability, usually not applicable. |
+| Subclass EB-3 (Employment-Based Third Preference) | Very few employer sponsorship cases, but require PERM labor certification and difficult market testing. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Real Estate Brokers？**
-- 善于社交和谈判者
-- 自我驱动且能承受佣金制收入波动者
-- 对房地产市场有浓厚兴趣者
+**Who is suited**
+- People who are sociable and skilled at negotiation
+- Self-motivated and able to withstand commission-based income fluctuations
+- Those with strong interest in the real estate market
 
-**谁不适合学Real Estate Brokers？**
-- 厌恶风险且寻求稳定收入者
-- 不喜欢频繁外出和不规律工作时间者
+**Who is not suited**
+- Those who dislike risk and seek stable income
+- Those who dislike frequent travel and irregular work hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do real estate agents earn?**
+A: Income primarily from commissions; most newcomers earn below US$50,000 per year, experienced agents can reach US$100,000-200,000, highly dependent on market conditions.
+
+**Q: Can real estate agents apply for US skilled migration?**
+A: Very difficult. This position is usually not considered a professional occupation; H-1B visa requires a specialized degree, EB-2/EB-3 green cards need employer sponsorship and PERM market test; the real estate industry rarely meets conditions.
+
+**Q: How to become a real estate agent?**
+A: Typically obtain a salesperson license first, work for a few years, then pass the broker exam to get a broker license, allowing you to start your own company or manage a team.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Real Estate Brokers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much do real estate brokers earn?**
-答：Income is commission-based; most beginners earn under $50k, experienced brokers can earn $100k-$200k, heavily dependent on market conditions.
-
-**问：Can real estate brokers immigrate to the US?**
-答：Very difficult. The occupation is generally not considered a specialty occupation for H-1B; EB-2/EB-3 green cards require employer sponsorship and PERM labor certification, rarely feasible.
-
-**问：How to advance to real estate broker?**
-答：Start as a salesperson with a license, gain experience, pass the broker exam, then open your own firm or manage a team.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

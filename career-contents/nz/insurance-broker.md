@@ -1,131 +1,163 @@
-# Insurance Broker（Insurance Broker）职业分析 · 新西兰
+# Insurance Broker — career analysis · New Zealand
 
-**职业代码：222113 – Insurance Broker。**
+**Occupation code: 611211 (ANZSCO)**
 
-Insurance brokers in New Zealand represent clients to negotiate insurance policies with multiple insurers, assess risks, recommend suitable coverage, and provide claims support. This role qualifies for skilled migration via the Skilled Migrant Category or Green List pathways.
+Insurance brokers have a stable outlook in New Zealand's financial industry. The ANZSCO corresponding occupation is Insurance Broker, eligible for immigration via Skilled Migrant Category or Green List Tier 2, requiring Financial Adviser registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $15,000~$35,000（商学院或理工学院，如奥塔哥理工学院） |
-| 本科学历 | 3年 | $30,000~$45,000（大学商科/金融本科，如奥克兰大学） |
-| 职业资格培训 | 6个月 | $5,000~$10,000（NZIB保险经纪认证课程） |
+| Bachelor's degree (Finance/Business) | 3 years | $22,000~$35,000 (International student tuition approximately NZD 22,000-35,000 per year) |
+| Vocational training/diploma | 1 year | $8,000~$15,000 (E.g., New Zealand Financial Adviser qualification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰保险经纪认证 | 新西兰保险经纪人协会 (NZIB) | 必备 | 需完成培训并通过考试 |
-| NZQA商业文凭 | 新西兰资格认证局 | 可选 | 非强制但有助于就业 |
-| 雅思6.5分 | IELTS | 必备 | 移民要求，各单项不低于6.0 |
-| 金融咨询注册 | 金融市场管理局(FMA) | 必备 | 提供金融咨询需注册 |
+| Financial Advisor Registration (FSP) | Financial Markets Authority | Required | Must register to act as an insurance intermediary, must pass relevant exams |
+| English proficiency (IELTS 6.5) | IELTS | Required | Skilled migration requirements, possible occupational registration required |
+| NZ Certificate in Financial Services (Level 5) | NZ Qualifications Authority | Optional | Core qualification, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。新西兰保险行业持续增长，自然灾害频繁推动保险需求，保险经纪人就业前景稳定。预计未来5年岗位数量小幅增长，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. With New Zealand's economic recovery and growing insurance demand, insurance broker roles are expected to see steady growth, especially in commercial insurance and risk management. Job opportunities are concentrated in major cities like Auckland and Wellington.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含佣金提成 |
-| 中级（3-7年） | $70,000~$100,000 | 含佣金提成 |
-| 高级（7年以上） | $100,000~$150,000 | 含佣金提成，资深可达20万+ |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Includes commission, base salary is low |
+| Mid-level (3–6 years) | $60,000~$90,000 | Higher commission rates may lead to increased total income |
+| Senior (6+ years) | $90,000~$130,000 | Including performance bonuses, top agents can earn over 150,000 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级保险经纪人可逐步晋升为高级经纪人、团队主管或经理，部分转向风险管理或精算领域。积累客户资源后收入提升明显。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Insurance brokers face dual impact from AI automation and augmentation: tasks like policy search and data comparison are automated, but complex client consultations and risk solution design rely on human insight and emotional connection, making career value more polarized.
 
+Career development typically starts in sales or customer service, with experience leading to promotion to senior broker, team supervisor, or starting an independent brokerage. Certification and continuing education help improve competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated search and comparison of policy terms; AI can instantly aggregate product data from multiple insurers
+- Client basic data entry and preliminary needs analysis handled via chatbots
+- Regular renewal reminders and premium updates via automated email or app push
+- Initial review of insurance claims; AI quickly screens anomalies based on rules and past cases
+- Industry regulatory compliance report generation, AI auto-fetches data to fill templates
+
+**Where AI augments the role:**
+
+- Complex risk consulting: AI provides actuarial models and customer profiles; brokers customize insurance plans accordingly.
+- Customer relationship management: AI analyzes customer lifecycle events to suggest optimal communication timing and cross-selling opportunities
+- Professional negotiation support: AI simulates insurance company pricing strategies to assist brokers in optimizing negotiation plans
+- Training and knowledge update: AI generates personalized learning materials for quick mastery of emerging insurance products
+- Precision marketing: AI analyzes social media and behavioral data to identify potential high-net-worth clients
+
+**Human moat:**
+
+- Building long-term trust relationships requiring face-to-face communication, empathy, and emotional connection
+- Cross-domain risk coordination (e.g., enterprise and home insurance), involving law, taxation, asset allocation
+- Handling unique needs of high-net-worth clients (estate planning, cross-border asset insurance)
+- Legal compliance and ethical judgment, advocating for clients in gray areas
+
+**Skills to build:**
+
+- AI insurance analysis tools (e.g., ComparetheMarket API, insurtech platforms)
+- Customer data analysis and visualization (Python/R + Tableau)
+- Communication and Negotiation Skills (especially virtual communication in complex scenarios)
+- Basic Programming and Automation Scripting (to reduce repetitive price checking)
+- Compliance and risk management knowledge (ASIC regulations continuously updated)
+- Psychology and behavioral finance (understand irrational client decisions)
+
+**Key growth areas:**
+
+- Stable
 - Skilled Migrant Category
 - Green List Tier 2
-- Competitive
-- Stable Demand
+- Financial Services
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制（学历+工作经验）可申请居留 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 绿色清单二级，工作2年后可转居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合找到雇主担保的申请人 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | If the occupation falls under ANZSCO skill level and meets the 6-point system requirements (e.g., qualifications + work experience), can apply |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Insurance brokers are not yet directly listed as T1, but belong to T2 occupations and can apply for residence after working for 2 years |
+| Subclass AEWV (Accredited Employer Work Visa) | Common work visa pathway, requires employer sponsorship and salary at median approx. $29.66/hour. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Broker？**
-- 善于沟通和谈判的人
-- 对金融和风险分析有兴趣的人
-- 能独立工作且抗压能力强者
-
-**谁不适合学Insurance Broker？**
-- 不喜欢销售性质工作的人
-- 对数字不敏感者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with sales skills and interpersonal communication ability.
+- Interested in financial and insurance products, able to withstand performance pressure
+- Professionals seeking to deepen their expertise in commercial and property insurance
+
+**Who is not suited**
+- Those who dislike sales targets and unstable commission income
+- Those lacking patience to handle complex policy terms
+
+---
+
+## 8. FAQ
+
+**Q: Do insurance brokers primarily earn income from commissions?**
+A: Yes, junior brokers typically have a base salary plus commission; as experience grows, commission rates increase, and top brokers may earn 50%-70% from commissions.
+
+**Q: Does a insurance broker qualify for the Green List direct residence pathway?**
+A: Insurance brokers are currently not on the Green List Tier 1 direct residency category, but are in Tier 2 work-to-residence occupations, eligible for residency after 2 years with an accredited employer.
+
+**Q: What New Zealand local licenses are required to become an insurance broker?**
+A: Must be registered with the Financial Markets Authority (FMA) and complete the New Zealand Certificate in Financial Services Level 5 or equivalent, plus pass ethics and regulations exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insurance Broker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for insurance brokers in New Zealand?**
-答：Entry-level insurance brokers earn NZD 55,000-70,000, mid-level NZD 70,000-100,000, and senior NZD 100,000-150,000, including commissions.
-
-**问：Can insurance brokers immigrate to New Zealand through skilled migration?**
-答：Yes. This occupation is ANZSCO Skill Level 1-3, eligible for Skilled Migrant Category (6-point system) and Green List Tier 2 Work to Residence.
-
-**问：What registration or licenses are required?**
-答：Must complete NZIB certification and register with FMA as a financial adviser. Tertiary education is recommended but not mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

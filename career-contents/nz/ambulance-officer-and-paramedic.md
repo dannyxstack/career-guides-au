@@ -1,61 +1,97 @@
-# Ambulance Officer and Paramedic（Ambulance Officer and Paramedic）职业分析 · 新西兰
+# Ambulance Officer and Paramedic — career analysis · New Zealand
 
-**职业代码：411711 – Ambulance Officer and Paramedic。**
+**Occupation code: 411711 (ANZSCO)**
 
-Paramedics in New Zealand provide advanced life support, drug administration, and patient transport at emergency scenes, employed by ambulance services like St John or Wellington Free Ambulance. This role is on Green List Tier 1, eligible for direct residence.
+New Zealand emergency medical personnel provide advanced life support, medication administration, and patient transport services at emergency scenes, employed by St John or Wellington Free Ambulance. This occupation is on the Green List Tier 1 and eligible for direct residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 急救文凭（Diploma in Paramedicine） | 2年 | $20,000~$30,000（学费，不含生活费） |
-| 急救学士学位（Bachelor of Health Science in Paramedicine） | 3年 | $30,000~$45,000（学费，如奥克兰理工大学） |
-| 硕士课程（可选） | 1-2年 | $20,000~$30,000（用于专科发展，如重症监护） |
+| Diploma in Paramedicine | 2 years | $20,000~$30,000 (Tuition fees, excluding living expenses) |
+| Bachelor of Health Science in Paramedicine | 3 years | $30,000~$45,000 (Tuition, e.g., Auckland University of Technology.) |
+| Master's program (optional) | 1-2 years | $20,000~$30,000 (Used for specialty development, such as intensive care) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救注册（Paramedic Registration） | 新西兰急救协会（Paramedic Council of New Zealand） | 必备 | 强制要求，需完成认证学历并通过考试。 |
-| 急救文凭或学士学位 | 新西兰认证教育机构（如奥塔哥理工学院、奥克兰理工大学） | 必备 | 认证课程列表见新西兰学历认证局（NZQA）。 |
-| 执业证书（Annual Practising Certificate） | Paramedic Council | 必备 | 每年更新，需继续教育学分。 |
-| 英语能力证明 | IELTS/OET | 必备 | 注册要求，通常雅思7.0或OET B级。 |
+| Paramedic Registration | Paramedic Council of New Zealand | Required | Mandatory; must complete accredited qualification and pass exams. |
+| Paramedic diploma or bachelor's degree | New Zealand accredited education institutions (e.g., Otago Polytechnic, Auckland University of Technology) | Required | See NZQA for list of accredited courses. |
+| Annual Practising Certificate | Paramedic Council | Required | Updated annually, requiring continuing education credits. |
+| English proficiency proof | IELTS/OET | Required | Registration requirements, usually IELTS 7.0 or OET B grade. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,000。新西兰人口老龄化及慢性病增加导致紧急医疗服务需求持续增长。政府计划扩大急救队伍，预计未来五年就业人数增长15-20%。偏远地区需求尤为旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 3,000. New Zealand's aging population and increase in chronic diseases are driving continuous growth in emergency medical services demand. The government plans to expand the emergency team, with employment expected to grow 15-20% over the next five years. Remote areas have particularly strong demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | St John 起薪约5.5万纽元 |
-| 中级（3-7年） | $70,000~$90,000 | 含高级急救员或团队领导 |
-| 高级（7年以上） | $90,000~$110,000 | 临床专家或管理层可达11万 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | St John starting salary is approximately NZD 55,000. |
+| Mid-level (3–7 years) | $70,000~$90,000 | Includes advanced first aider or team leader |
+| Senior (7+ years) | $90,000~$110,000 | Clinical specialists or management can reach 110,000 |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级急救人员可晋升至高级急救人员、团队领导或临床教育者，部分转向空中救护或灾害管理。需持续学习高级技能，如重症监护转运或社区急救项目。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Junior first responders can advance to senior first responders, team leaders, or clinical educators; some move to air ambulance or disaster management. Continuous learning of advanced skills like critical care transport or community first aid projects required.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Paramedics in New Zealand provide advanced life support, drug administration, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，要求持认可学历和注册，无需工作满两年。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，注册资格通常加6分，可申请技术移民。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有雇主担保，工作2年后可申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, requires recognized qualification and registration, no need to work for two years. |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: registration qualification usually adds 6 points, eligible for skilled migration. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, eligible for residence after 2 years of work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance Officer and Paramedic？**
-- 抗压能力强，能应对紧急创伤和病患
-- 喜欢户外工作，适应轮班制
-- 有医疗背景或急救经验者优先
-
-**谁不适合学Ambulance Officer and Paramedic？**
-- 无法承受高强度压力或血腥场景
-- 不接受不规则作息和偏远地区调派
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong ability to handle stress, can cope with emergency trauma and patients
+- Enjoys outdoor work and is adaptable to shift work
+- Medical background or first aid experience preferred
+
+**Who is not suited**
+- Cannot withstand high stress or bloody scenes
+- Cannot accept irregular schedules and remote area assignments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for paramedics in New Zealand?**
+A: Entry-level annual salary is around NZD 55,000-70,000, mid-level NZD 70,000-90,000, senior up to NZD 110,000. St John is a major employer; salary increases with experience.
+
+**Q: How can emergency responders immigrate to New Zealand through skilled migration?**
+A: This occupation is on Green List Tier 1; meeting registration and qualification requirements allows direct application for Straight to Residence Visa; or via SMC 6-point system, registration can add 6 points.
+
+**Q: What qualifications are needed to become a paramedic in New Zealand?**
+A: Usually requires completing a 3-year bachelor's degree in paramedicine (e.g., at Auckland University of Technology) or a 2-year diploma in paramedicine, and passing registration exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ambulance Officer and Paramedic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of paramedics in New Zealand?**
-答：Entry-level annual salary is around NZD 55,000-70,000, mid-level NZD 70,000-90,000, and senior up to NZD 110,000. St John is the main employer.
-
-**问：How can paramedics immigrate to New Zealand through skilled migration?**
-答：This role is on Green List Tier 1. With registration and a recognized qualification, you can apply for the Straight to Residence Visa, or use SMC 6-point system where registration gives 6 points.
-
-**问：What education is required to become a paramedic in New Zealand?**
-答：Typically a 3-year Bachelor of Health Science in Paramedicine (e.g., AUT) or a 2-year Diploma in Paramedicine, followed by registration exams.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

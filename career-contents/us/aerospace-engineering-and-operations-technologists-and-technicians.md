@@ -1,58 +1,92 @@
-# Aerospace Engineering and Operations Technologists and Technicians（Aerospace Engineering and Operations Technologists and Technicians）职业分析 · 美国
+# Aerospace Engineering and Operations Technologists and Technicians — career analysis · United States
 
-**职业代码：17-3021 – Aerospace Engineering and Operations Technologists and Technicians。**
+**Occupation code: 17-3021 (SOC)**
 
-Operate, install, adjust, and maintain integrated computer/communications systems, consoles, simulators, and related equipment for air and space vehicles; record and interpret test data.
+Operates, installs, adjusts, and maintains aerospace vehicles and ground support systems, including computer/communication systems, simulators, etc.; records and interprets test data.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费均价） |
-| 学士学位 | 4年 | $40,000~$120,000（公立/私立大学差异大） |
+| Associate degree | 2 years | $10,000~$30,000 (Average community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Large differences between public/private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位 | 社区学院/技术学院 | 必备 | 通常为入门最低要求 |
-| 认证（可选） | 如 NATS、行业认证 | 可选 | 提升竞争力 |
+| Associate degree | Community College / Technical College | Required | Usually the minimum entry requirement |
+| Certification (optional) | e.g., NATS, industry certifications | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,400。美国航空航天业持续发展，商用太空旅行和无人机技术增长带来需求。BLS 预计 2022-2032 年就业增长约 6%，与平均水平持平。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,400. The US aerospace industry continues to grow, with commercial space travel and drone technology driving demand. BLS projects about 6% job growth from 2022-2032, on par with the average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 入门级，含实习和初级岗 |
-| 中级（4-7年） | $65,000~$85,000 | 具备经验后提升 |
-| 高级（8年以上） | $85,000~$110,000 | 含主管/高级技师 |
+| Median salary | $82,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Entry-level, including internships and junior positions |
+| Mid-level (4-7 years) | $65,000~$85,000 | Salary increase with experience |
+| Senior (8+ years) | $85,000~$110,000 | Including supervisors/senior technicians |
+| average salary | $91,310 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 从初级技师起步，可晋升为高级技师、团队主管或工程支持经理。部分人通过继续教育转向航空航天工程岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aerospace engineering and operations technician jobs will be significantly enhanced rather than replaced by AI, as physical operations and compliance requirements create a moat, but data analysis and simulation tasks face automation risk.
+
+Start as a junior technician, can advance to senior technician, team leader, or engineering support manager. Some transition to aerospace engineering roles through further education.
+
+**Tasks most exposed to AI:**
+
+- Manually record test data and input results into a database
+- Basic flight simulator operation and parameter adjustment
+- Routine equipment status monitoring and early warning report generation
+- Standard paperwork, such as maintaining logs
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of aircraft faults, providing maintenance suggestions
+- Use AI simulations to optimize flight test parameters.
+- Use AI to analyze large historical datasets to predict equipment life
+- Using natural language assistant to quickly search technical manuals
+- Automated calibration process reduces human error
+
+**Human moat:**
+
+- On-site installation, dismantling, and repair of complex mechanical components
+- Physical diagnosis and emergency decision-making for abnormal faults
+- Ensuring safe and compliant operational process supervision
+- Collaborate with engineers to resolve non-standard issues
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python scikit-learn)
+- Automated test script writing (e.g., LabVIEW)
+- Digital twin and simulation software operation
+- IoT sensor integration and maintenance
+- Basic programming skills (Python/Java)
+- Use of AI-assisted decision systems for fault diagnosis
+
+**Key growth areas:**
 
 - Space commercial
 - UAV technology
@@ -61,68 +95,67 @@ Operate, install, adjust, and maintain integrated computer/communications system
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等经验，雇主担保，年度抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需高等学位或特殊能力，PERM 劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于技术工人、专业人士，PERM 劳工认证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent experience, employer sponsorship, annual lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires advanced degree or exceptional ability, PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Applies to skilled workers and professionals; requires PERM labor certification. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aerospace Engineering and Operations Technologists and Technicians？**
-- 注重细节，动手能力强
-- 对航空航天技术有浓厚兴趣
-- 能适应团队合作和高压环境
-
-**谁不适合学Aerospace Engineering and Operations Technologists and Technicians？**
-- 排斥重复性操作和严格规程
-- 不擅长技术文档和数据分析
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on
+- Strong interest in aerospace technology
+- Able to work in teams and under high pressure
+
+**Who is not suited**
+- Dislike repetitive operations and strict procedures
+- Not skilled in technical documentation and data analysis.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an aerospace engineering technician?**
+A: BLS 2023 median annual salary about $72,000; entry-level about $45,000-$65,000; senior can reach $110,000.
+
+**Q: Can this occupation immigrate to the US via H-1B?**
+A: Yes, but requires employer sponsorship and participation in the lottery. Usually requires an associate degree or equivalent experience, meeting professional position requirements.
+
+**Q: What education is required to become an aerospace engineering technician?**
+A: Requires at least an associate degree (2 years); some positions accept relevant work experience in lieu. A bachelor's degree can improve promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aerospace Engineering and Operations Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for aerospace engineering technicians?**
-答：BLS 2023 median annual wage ~$72,000; entry-level $45,000-$65,000; senior up to $110,000.
-
-**问：Can this occupation immigrate to the US via H-1B?**
-答：Yes, with employer sponsorship and lottery. Typically requires associate degree or equivalent experience.
-
-**问：What education is needed to become an aerospace engineering technician?**
-答：Minimum associate degree (2 years); some accept experience. Bachelor's may aid advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Machine operators, mineral and metal processing（Machine operators, mineral and metal processing）职业分析 · 加拿大
+# Machine operators, mineral and metal processing — career analysis · Canada
 
-**职业代码：94100 – Machine operators, mineral and metal processing。**
+**Occupation code: 94100 (NOC)**
 
-Operate cement production equipment including crushing, grinding, calcining and packaging; eligible for PNP or employer-sponsored immigration.
+Operate cement production equipment including crushing, grinding, calcination, and packaging to ensure product quality; can migrate through provincial nomination or employer sponsorship.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无固定时长 | —（通常需高中文凭或同等学历） |
-| 在职培训 | 1-2年 | —（雇主提供岗位培训或学徒项目，费用因省份而异） |
+| High school graduation | No fixed duration | $0~$0 (Usually requires a high school diploma or equivalent) |
+| On-the-job training | 1-2 years | $0~$5,000 (Employers provide on-the-job training or apprenticeship programs; costs vary by province) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES或IQAS | 可选 | 海外学历需认证，用于移民申请 |
-| 语言能力（CLB 5） | 雅思或思培 | 可选 | 技术移民通常要求CLB 5以上 |
-| 省级资格证书 | 加拿大各省 | 可选 | 部分省份要求操作员持证，如BC省的安全证 |
+| ECA (Educational Credential Assessment). | WES or IQAS | Optional | Overseas qualifications need to be assessed for immigration applications |
+| Language ability (CLB 5) | IELTS or CELPIP | Optional | Skilled migration usually requires CLB 5 or above |
+| Provincial qualification certificate | Provinces of Canada | Optional | Some provinces require operators to hold a license, e.g., BC Safety Certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,700。受建筑和基础设施投资影响，就业需求稳定；但自动化可能减少部分岗位，需持续学习新技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,700. Driven by construction and infrastructure investment, employment demand is stable; but automation may reduce some roles, requiring continuous learning of new skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 小时工资约$16-$22 |
-| 中级（3-7年） | $45,000~$60,000 | 小时工资约$22-$30 |
-| 高级（7年以上） | $60,000~$75,000 | 小时工资约$30-$38，包括加班 |
+| Median salary | $72,800 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$45,000 | Hourly wage about $16-$22 |
+| Mid-level (3–7 years) | $45,000~$60,000 | Hourly wage approximately $22-$30 |
+| Senior (7+ years) | $60,000~$75,000 | Hourly wage approximately $30-$38, including overtime |
+| average salary | $72,800 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为高级操作员、轮班主管或生产经理；也可考取资格证书（如工业培训）提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Mineral and metal processing machine operators face high automation risk; AI and robots can take over most repetitive operational tasks, but equipment maintenance and anomaly handling still require human judgment.
+
+Can progress from entry-level operator to senior operator, shift supervisor, or production manager; can also obtain qualifications (e.g. industrial training) to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operating parameters (temperature, pressure, etc.)
+- Perform standardized crushing, grinding, and calcination processes
+- Routine quality inspection of product appearance and dimensions
+- Recording production data and generating reports
+- Material handling and simple packaging operations
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to analyze equipment fault signs
+- Optimize production parameters through digital twin simulation
+- Use computer vision to assist in non-standard defect detection.
+- Manage multiple production lines in real-time using data dashboards
+- Adjust formulas and processes based on historical data
+
+**Human moat:**
+
+- Emergency decision-making when handling mechanical failures and unexpected shutdowns
+- Manual skills for equipment overhaul and precision component replacement
+- Experience in operating new or non-standard raw materials
+- Communication skills to collaborate with engineers in improving process workflows
+- Responsibility for on-site safety management and compliance with complex operating procedures
+
+**Skills to build:**
+
+- Industrial robot operation and basic programming
+- Basic use of PLC and SCADA systems.
+- Data Analysis and Visualization (e.g., Excel/Python)
+- Preventive Maintenance and Fault Diagnosis
+- Basics of quality management systems (e.g., Six Sigma)
+- Reading and Communication of English Technical Documents
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Employer-Sponsored
@@ -64,70 +100,69 @@ Operate cement production equipment including crushing, grinding, calcining and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 需满足工作经验、语言和教育要求，但该职业非EE优先类别 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份有技能工人类别，雇主担保可加分 |
-| Subclass AIP（Atlantic Immigration Program） | 海洋四省雇主担保，适合有雇主offer的申请者 |
-| Subclass Rural（Rural and Northern Immigration Pilot） | 偏远地区试点，要求雇主offer和社区支持 |
+| Subclass EE (Express Entry (FSW/CEC)) | Must meet work experience, language, and education requirements, but this occupation is not an Express Entry priority category |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have skilled worker categories, and employer sponsorship can add points |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer from an employer |
+| Subclass Rural (Rural and Northern Immigration Pilot) | Regional pilot program requiring employer offer and community support |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine operators, mineral and metal processing？**
-- 愿意在偏远地区工作、能接受轮班和体力劳动的人
-- 有水泥或重工业操作经验、注重职业稳定的人
-- 愿意通过雇主担保或省提名移民的人
-
-**谁不适合学Machine operators, mineral and metal processing？**
-- 希望快速移民、不愿等待雇主担保的人
-- 无法适应高温、粉尘环境或倒班工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to work in remote areas, accept shift work and physical labor.
+- People with experience in cement or heavy industry operations, seeking career stability
+- People willing to immigrate through employer sponsorship or provincial nomination
+
+**Who is not suited**
+- Those hoping for fast migration and unwilling to wait for employer sponsorship
+- Those unable to tolerate high temperatures, dusty environments, or shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a cement plant operator in Canada?**
+A: Junior approx. $32,000-$45,000, mid-level approx. $45,000-$60,000, senior up to $75,000.
+
+**Q: Can a cement plant operator immigrate through Express Entry?**
+A: This occupation is usually not on the EE shortage list, but can immigrate through Provincial Nominee Program (PNP) or employer sponsorship programs.
+
+**Q: Is a Canadian certificate required to work?**
+A: A provincial certificate is not necessarily required, but holding a safety training certificate (e.g., WHMIS) increases employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Machine operators, mineral and metal processing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a cement plant operator in Canada?**
-答：Entry-level is about $32,000-$45,000, mid-level $45,000-$60,000, and senior up to $75,000.
-
-**问：Can a cement plant operator immigrate through Express Entry?**
-答：This occupation is usually not on the EE priority list, but can immigrate through PNP or employer-sponsored programs.
-
-**问：Do I need a Canadian certification to work?**
-答：Not necessarily, but holding safety training certificates (e.g., WHMIS) improves job prospects.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Astrologers, Fortune-tellers and Related Workers（Astrologers, Fortune-tellers and Related Workers）职业分析 · IT
+# Astrologers, Fortune-tellers and Related Workers — career analysis · Italy
 
-**职业代码：5161 – Astrologers, Fortune-tellers and Related Workers。**
+**Occupation code: 5161 (ISCO08)**
 
-Astrologers and fortune-tellers in Italy offer personal consultation and entertainment services, typically self-employed, with demand influenced by tourism and traditional culture.
+Astrologers and fortune tellers in Italy provide personal consultation and entertainment services, usually self-employed; the market is influenced by tourism and traditional culture.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低学习难度（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期培训（6个月-1年） | 6个月-1年 | $2,000~$6,000（短期课程费用） |
+| Short-term training (6 months-1 year) | 6 months to 1 year | $2,000~$6,000 (Short-term course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无强制认证（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 该职业在意大利无官方强制资质要求 |
+| No mandatory requirements | None | Optional | No mandatory government qualification requirements for this occupation in Italy |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：需求较低（★½☆☆☆）。** 全国从业人数约 3,000。意大利占星和算命服务需求稳定但小众，依赖本地文化和旅游市场。受数字平台影响，线上服务有增长潜力。总体就业前景平淡，竞争较高。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,000. Demand for Italian astrology and fortune-telling services is stable but niche, relying on local culture and tourism markets. Influenced by digital platforms, online services have growth potential. Overall employment prospects are flat with high competition.
 
-**竞争度：竞争高（★★★★☆）。**
-**工作强度：工作强度低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 部分自雇收入不稳定 |
-| 中级（3-7年） | $18,000~$30,000 | 有稳定客户群 |
-| 高级（7年以上） | $30,000~$50,000 | 知名顾问或拥有媒体影响力 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $12,000~$18,000 | Some self-employment income is unstable |
+| Mid-level (3–7 years) | $18,000~$30,000 | Having a stable client base |
+| Senior (7+ years) | $30,000~$50,000 | Renowned consultant or media influence. |
+| average salary | $26,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：前景一般（★★☆☆☆）。** 从业者通常从学徒或自营起步，可发展为知名顾问、作家或媒体名人。部分人转向数字内容创作或健康咨询。晋升路径不明确，依赖个人品牌。
-**AI替代风险：高风险（★★★★½）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: very high (★★★★½).**
 
-主要增长方向：
+AI's impact on astrologers and fortune tellers is mixed: data analysis and pattern recognition can automate some prediction tasks, but clients' demand for human interaction and personalized interpretation remains a moat. However, entry-level positions face increased competition due to the proliferation of AI tools.
+
+Practitioners typically start as apprentices or self-employed, can develop into renowned consultants, writers, or media celebrities. Some move into digital content creation or health consulting. Promotion paths are unclear and depend on personal branding.
+
+**Tasks most exposed to AI:**
+
+- Generate basic horoscope reports and daily fortune analysis
+- Calculate planetary positions and houses based on birth information
+- Answering common astrology questions (such as zodiac compatibility)
+- Writing simple tarot card interpretation copy
+- Automatically generate social media posts for astrology/fortune-telling content
+
+**Where AI augments the role:**
+
+- Using AI to analyze client historical data, providing more personalized life cycle predictions
+- Enhancing online communication efficiency with customers through natural language processing
+- Use AI tools to generate visual astrolabes and tarot card spreads to enhance consultation experience
+- Identify hidden customer needs using machine learning to assist in-depth interpretation
+- Automatically collects and organizes astronomical data, saving research time.
+
+**Human moat:**
+
+- Face-to-face emotional resonance and empathetic interaction
+- Personalized interpretation combining cultural background and client experience
+- building trust and maintaining long-term relationships with high-value clients
+- Ability to handle complex, ambiguous, or non-standard advisory issues
+- Design of creative rituals or suggestions (e.g., auspicious timing, Feng Shui layout)
+
+**Skills to build:**
+
+- Proficiency in AI-assisted astrology tools (e.g., using GPT to polish reports)
+- Basic data analysis and customer behavior insights
+- Create multimedia content (short videos, podcasts) to expand reach
+- Foundations of psychology to enhance communication and empathy
+- Digital marketing and private domain operation skills
+- Cross-cultural astrology knowledge (e.g., Indian astrology, Chinese Bazi)
+
+**Key growth areas:**
 
 - Online services
 - Cultural tourism
@@ -61,64 +97,66 @@ Astrologers and fortune-tellers in Italy offer personal consultation and enterta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 自雇工作签证（Lavoro Autono（Self-employment Visa） | 适用于在意大利自雇的占星师等职业，需证明经济能力和业务计划。 |
+| Subclass Self-Employment Visa (Lavoro Autonomo) (Self-employment Visa) | Applicable to self-employed astrologers in Italy, requiring proof of economic capacity and business plan. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Astrologers, Fortune-tellers and Related Workers？**
-- 对神秘学和传统占星有热情的人
-- 善于沟通和建立个人品牌的人
-- 愿意接受不稳定收入的自雇者
+**Who is suited**
+- For those passionate about mysticism and traditional astrology.
+- People skilled in communication and personal branding
+- Self-employed individuals willing to accept unstable income
 
-**谁不适合学Astrologers, Fortune-tellers and Related Workers？**
-- 寻求稳定收入和职业保障的人
-- 不希望依赖个人营销能力的人
+**Who is not suited**
+- People seeking stable income and job security
+- People who do not want to rely on personal marketing skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of astrologers in Italy?**
+A: Income varies widely; entry-level annual income is about €12,000-€18,000, while senior well-known professionals can reach €30,000-€50,000, but most self-employed individuals have unstable income.
+
+**Q: Can foreign astrologers immigrate to Italy?**
+A: Self-employment visa may be possible, but requires proof of financial capacity and a business plan, and the occupation is not in shortage, making immigration difficult.
+
+**Q: Do Italian astrologers need official certification?**
+A: No official certification is required, but relevant training or certificates help build credibility.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期学习（★☆☆☆☆） |
-| 学习难度 | 较低学习难度（★½☆☆☆） |
-| 考证难度 | 无强制认证（½☆☆☆☆） |
-| 职位需求量 | 需求较低（★½☆☆☆） |
-| 竞争度 | 竞争高（★★★★☆） |
-| 收入水平 | 收入较低（★½☆☆☆） |
-| 工作强度 | 工作强度低（★½☆☆☆） |
-| 发展前景 | 前景一般（★★☆☆☆） |
-| AI替代风险 | 高风险（★★★★½） |
-| PR友好度 | 移民友好度低（★☆☆☆☆） |
-| PR难度 | 获永居难（★★★★☆） |
-
-Astrologers, Fortune-tellers and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for astrologers in Italy?**
-答：Income varies widely; entry-level earns about EUR 12,000-18,000, while established astrologers can earn EUR 30,000-50,000, but most self-employed have unstable income.
-
-**问：Can foreign astrologers immigrate to Italy?**
-答：Possible via self-employment visa, but requires proof of financial means and business plan; not a shortage occupation, so immigration is difficult.
-
-**问：Do astrologers need official certification in Italy?**
-答：No official certification required, but training or certificates help build credibility.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

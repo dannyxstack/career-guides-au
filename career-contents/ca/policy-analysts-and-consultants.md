@@ -1,59 +1,93 @@
-# Policy analysts and consultants（Policy analysts and consultants）职业分析 · 加拿大
+# Policy analysts and consultants — career analysis · Canada
 
-**职业代码：21220 – Policy analysts and consultants。**
+**Occupation code: 21220 (NOC)**
 
-Policy analysts research policies, assess impacts, and provide recommendations for governments, non-profits, and private firms. This occupation is eligible for skilled migration via Express Entry or PNP.
+Policy analysts research policies, evaluate impacts, and make recommendations in government, non-profits, and private sector. This occupation qualifies for skilled immigration via Express Entry or PNP.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$60,000（国际生学费加生活费） |
-| 硕士 | 2年 | $25,000~$50,000（国际生学费加生活费） |
+| Bachelor's degree | 4 years | $30,000~$60,000 (International student tuition and living expenses) |
+| Master's degree | 2 years | $25,000~$50,000 (International student tuition and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 用于移民申请 |
-| 语言考试 | IELTS/TEF | 必备 | CLB 7或更高 |
-| 无强制执照 | 无 | 可选 | 部分省政府职位可能要求加拿大学位或经验 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Used for immigration applications |
+| Language test | IELTS/TEF | Required | CLB 7 or higher. |
+| No mandatory license | None | Optional | Some provincial government positions may require Canadian degrees or experience. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。加拿大政策分析师就业前景良好，尤其在公共管理、医疗和社会政策领域。预计2023-2031年职位空缺可观，主要源于退休和需求增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Job prospects for policy analysts in Canada are good, especially in public administration, healthcare, and social policy. Vacancies from 2023-2031 are expected to be significant, mainly due to retirements and demand growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 政府或非营利组织起薪 |
-| 中级（3-8年） | $70,000~$95,000 | 私营或联邦政府 |
-| 高级（8年以上） | $95,000~$130,000 | 管理或顾问职位 |
+| Median salary | $103,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$70,000 | Starting salary in government or non-profit organizations. |
+| Mid-level (3–8 years) | $70,000~$95,000 | Private or federal government |
+| Senior (8+ years) | $95,000~$130,000 | Management or consultant positions |
+| average salary | $108,160 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级分析师可晋升为高级政策顾问、经理或首席分析师。也可向公共事务或咨询方向转型，政府经验有助于进入私营部门。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Policy analysts face mixed prospects: AI can assist with data collection, literature reviews, and drafting reports, but policy advice involves trade-offs, ethical judgment, and public accountability, making core decisions hard to automate. Entry-level roles are compressed due to automation, but demand for senior analysis increases.
+
+Junior analysts can advance to senior policy advisor, manager, or chief analyst. Can also transition to public affairs or consulting; government experience helps enter the private sector.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and organization of policy-related information from government databases, academic journals, and news
+- Generate policy briefs and draft reports (e.g., background, data, option comparisons)
+- Performing basic calculations and visualizations for quantitative analysis (e.g., cost-benefit, regression models)
+- Translate or summarize multilingual policy documents
+
+**Where AI augments the role:**
+
+- Using AI to rapidly simulate the economic and social impacts of different policy options (e.g., system dynamics models)
+- Analyze opinion distribution in large volumes of public feedback or hearing records using natural language processing
+- Use AI tools to extract stakeholder positions, conflict points, and consensus areas
+- Discover cross-disciplinary policy links and innovative solutions through intelligent search and knowledge graphs
+
+**Human moat:**
+
+- Weighing trade-offs and making value judgments in conflicting goals (e.g., efficiency vs. equity)
+- Ethical assessment of hidden impacts on vulnerable groups
+- Providing feasible advice in politically sensitive scenarios and bearing public accountability.
+- Integrate divergent views of multiple stakeholders and reach consensus
+- Writing persuasive narratives targeting political leaders and the public
+
+**Skills to build:**
+
+- Python or R for policy simulation and data analysis
+- Natural language processing tools (e.g., ChatGPT API) for document summarization and opinion mining
+- Causal inference methods (e.g., difference-in-differences, regression discontinuity)
+- Data visualization (e.g., Tableau, D3.js)
+- AI ethics and bias audit knowledge
+- Systems Thinking and Complex System Modeling
+
+**Key growth areas:**
 
 - Express Entry
 - Provincial Nominee
@@ -62,68 +96,67 @@ Policy analysts research policies, assess impacts, and provide recommendations f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry） | FSW或CEC通道，满足NOC 21220要求 |
-| Subclass PNP（Provincial Nominee Program） | 各省如安省、BC省有技术移民提名 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保 |
+| Subclass EE (Express Entry) | FSW or CEC stream, meeting NOC 21220 requirements |
+| Subclass PNP (Provincial Nominee Program) | Provinces such as Ontario and British Columbia have skilled migration nominations. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy analysts and consultants？**
-- 具有公共政策、政治学或经济学背景的本科及硕士毕业生
-- 具备优秀研究和写作能力的专业人士
-- 希望在政府或公共部门长期发展的人
-
-**谁不适合学Policy analysts and consultants？**
-- 不喜政策分析和文书工作的人
-- 希望高薪快速致富的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor's and Master's graduates with background in public policy, political science, or economics
+- Professionals with strong research and writing skills
+- Those seeking long-term development in government or public sector.
+
+**Who is not suited**
+- People who dislike policy analysis and paperwork
+- People hoping for high salary and quick wealth
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for policy analysts in Canada?**
+A: Entry-level about 50,000-70,000 CAD, mid-level 70,000-95,000, senior 95,000-130,000, government positions with good benefits.
+
+**Q: How can a policy analyst immigrate to Canada?**
+A: Eligible via EE (FSW/CEC) or PNP, requiring ECA and language test, NOC TEER 1.
+
+**Q: Are policy analysts in demand in Canada?**
+A: Demand is stable, but competition is moderate, especially in popular cities. It is recommended to gain local experience or pursue a master's degree in Canada.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Policy analysts and consultants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for policy analysts in Canada?**
-答：Entry-level $50k-$70k, mid $70k-$95k, senior $95k-$130k, with good benefits in government.
-
-**问：How can a policy analyst immigrate to Canada?**
-答：Through EE (FSW/CEC) or PNP, requiring ECA and language test, NOC TEER 1.
-
-**问：Is it easy to find a job as a policy analyst in Canada?**
-答：Demand is stable but competitive, especially in major cities. Local experience or Canadian degree helps.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Door-to-Door Sales Workers, News and Street Vendors, and Related Workers（Door-to-Door Sales Workers, News and Street Vendors, and Related Workers）职业分析 · 美国
+# Door-to-Door Sales Workers, News and Street Vendors, and Related Workers — career analysis · United States
 
-**职业代码：41-9091 – Door-to-Door Sales Workers, News and Street Vendors, and Related Workers。**
+**Occupation code: 41-9091 (SOC)**
 
-Sell goods or services door-to-door or on the street; income is commission-based and highly variable.
+Selling goods or services directly to customers door-to-door or on the street; high mobility, income depends on sales performance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 短期销售培训 | 数周 | $100~$500（可选课程，非必须） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Short-term sales training. | Several weeks | $100~$500 (Elective course, not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 多数雇主不要求特定执照或证书 |
+| No mandatory certification | None | Optional | Most employers do not require specific licenses or certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 50,000。随着电子商务和数字营销崛起，上门销售岗位需求持续下降，就业前景看弱。
+**Job demand: low (★½☆☆☆).** National workforce approx. 50,000. With the rise of e-commerce and digital marketing, door-to-door sales positions are declining, and the job outlook is weak.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$35,000 | 收入主要来自佣金，底薪低 |
-| 中级（3-5年） | $30,000~$50,000 | 有经验后业绩提升，收入增加 |
-| 高级（5年以上） | $40,000~$70,000 | 少数顶尖销售员收入可达六位数 |
+| Median salary | $41,380 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $20,000~$35,000 | Income mainly from commission, low base salary |
+| Mid-level (3–5 years) | $30,000~$50,000 | Performance improves with experience, leading to higher income. |
+| Senior (5+ years) | $40,000~$70,000 | A few top salespeople can earn six figures |
+| average salary | $43,850 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从基础销售员起步，可晋升为销售主管或转向电话营销、线上销售等岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Delivery drivers face high risk of automation, especially last-mile delivery. Autonomous driving and drones will reduce job numbers, but niche areas like instant delivery and cold chain still have demand.
+
+Usually starts as a basic salesperson, can advance to sales supervisor or move into telemarketing, online sales, etc.
+
+**Tasks most exposed to AI:**
+
+- Manual route planning using navigation apps (replaced by AI real-time optimization)
+- Driving vehicles on standard delivery routes (replaced by autonomous vehicles).
+- Receiving and parcel scanning (automated sorting and electronic signatures replace)
+- Basic customer communication (chatbots handle queries and complaints)
+- Fuel/battery monitoring (AI dispatch system automatically predicts and reminds)
+
+**Where AI augments the role:**
+
+- Exception handling (e.g., incorrect delivery address, customer refusal, requiring human flexible communication and decision-making)
+- Safe driving in complex road and weather conditions (AI-assisted warnings but human control)
+- Client relationship management and personalized service (AI provides history, humans build trust).
+- Monitoring and adjustment of multi-zone cold chain delivery (AI alerts, human operation)
+- Door-to-door services in last-mile delivery (e.g., moving heavy items, climbing stairs, cannot be replaced by AI)
+
+**Human moat:**
+
+- Flexible judgment for unexpected situations (e.g., traffic control, last-minute client changes)
+- Ability to build trust and reputation through face-to-face interaction with clients
+- Physical labor and fine manipulation (handling fragile items, parking in tight spaces)
+- Ability to integrate multiple tasks (simultaneously handling delivery, payment, customer feedback)
+- Compliance with safety regulations and ethical responsibilities (e.g., dangerous goods transport)
+
+**Skills to build:**
+
+- Learn to use route optimization software and fleet management platforms
+- Knowledge of niche areas such as cold chain logistics and dangerous goods transport
+- Improve customer service and problem-solving skills
+- basic data analysis and report writing skills
+- Receive training in autonomous vehicle monitoring and remote intervention
+- Knowledge of new energy vehicle maintenance and charging infrastructure operation.
+
+**Key growth areas:**
 
 - Declining
 - Digital Shift
@@ -62,61 +98,63 @@ Sell goods or services door-to-door or on the street; income is commission-based
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少符合专业职业要求，通常不适用 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely meets specialty occupation requirements, generally not applicable |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Door-to-Door Sales Workers, News and Street Vendors, and Related Workers？**
-- 喜欢与人面对面交流
-- 能承受高压力和不稳定收入
-- 自我驱动力强
+**Who is suited**
+- Likes face-to-face interaction with people
+- Able to handle high pressure and unstable income
+- Strong self-motivation
 
-**谁不适合学Door-to-Door Sales Workers, News and Street Vendors, and Related Workers？**
-- 偏好稳定收入和固定工作环境
-- 不擅长应对拒绝和户外工作
+**Who is not suited**
+- Prefers stable income and fixed work environment
+- Not good at handling rejection and outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual income for a door-to-door salesperson?**
+A: According to BLS data, the median annual salary in 2023 was about $30,000, but income varies widely; top salespeople can earn over $70,000.
+
+**Q: Are there pathways to immigrate to the US for this occupation?**
+A: Almost none. This occupation does not meet H-1B specialty occupation requirements, and employers generally do not provide green card sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Door-to-Door Sales Workers, News and Street Vendors, and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual income for door-to-door sales workers?**
-答：According to BLS, the median annual wage in 2023 was around $30,000, but earnings vary widely; top performers can exceed $70,000.
-
-**问：Are there immigration pathways to the US for this occupation?**
-答：Very limited. It does not qualify as a specialty occupation for H-1B, and employers rarely sponsor green cards.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Garden and Horticultural Labourers（Garden and Horticultural Labourers）职业分析 · IT
+# Garden and Horticultural Labourers — career analysis · Italy
 
-**职业代码：9214 – Garden and Horticultural Labourers。**
+**Occupation code: 9214 (ISCO08)**
 
-Perform manual tasks in gardening and horticulture, including planting, pruning, weeding, watering, and maintaining green areas.
+Engaging in horticultural and gardening tasks, including planting, pruning, weeding, watering, and maintaining green areas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 3年（职业培训） | —（部分培训免费，证书费用约500欧元） |
-| 高中毕业 | 2年（技术学院） | $1,000~$3,000（学费视学校和地区而定） |
+| Junior high school graduation | 3 years (vocational training) | $0~$500 (Some training is free; certification fees are approximately 500 euros) |
+| High school graduation | 2 years (technical college) | $1,000~$3,000 (Tuition fees vary by school and region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺工职业资格 | 地区职业培训中心 | 可选 | 非强制但有助于就业 |
-| 安全培训证书 | 雇主或培训机构 | 必备 | 使用机械和化学品时必需 |
+| Safety training certificate | Employer or training provider | Required | Mandatory when using machinery and chemicals. |
+| Horticulturist occupational qualification | Regional vocational training center | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 61,200。随着城市绿化和农业旅游的发展，园艺劳动力需求稳定，但季节性波动较大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 61,200. With the development of urban greening and agritourism, demand for horticultural labor is stable but subject to seasonal fluctuations.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，季节性工作可能更低 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含加班和奖金 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，通常为团队主管或自雇 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary; may be lower for seasonal work |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary, including overtime and bonuses |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, typically for team supervisor or self-employed |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 积累经验后可晋升为园艺主管或自主经营园艺服务公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardeners and groundskeepers face a high risk of automation compression, especially routine weeding, pruning, and watering tasks will be replaced by AI robots, but complex landscape design and customer communication still require human judgment.
+
+After gaining experience, you can advance to a gardening supervisor or start your own gardening service company.
+
+**Tasks most exposed to AI:**
+
+- Use automatic lawnmowers for grass cutting.
+- Automatically water plants based on soil moisture sensor readings.
+- Using AI vision robots for weed identification and removal
+- Conduct large-scale vegetation status monitoring using drones
+
+**Where AI augments the role:**
+
+- Use AI plant identification apps to quickly diagnose pests and diseases
+- Using smart irrigation systems to optimize water and fertilizer management
+- Preview landscape design schemes with AR tools
+- Predicts plant growth cycles using data analysis tools
+
+**Human moat:**
+
+- Creative Design and Plant Pairing for Complex Landscapes
+- Client personalized needs communication and solution customization
+- Fine care of rare or sensitive plants
+- On-site emergency response (e.g., rescue after extreme weather)
+
+**Skills to build:**
+
+- Operate and maintain smart gardening equipment (e.g., automatic mowers, drones)
+- Use gardening management software (e.g. landscape design CAD, plant databases)
+- Basic data analysis: interpreting sensor data to optimize maintenance plans.
+- Plant pathology and use of AI-assisted diagnostic tools
+- Sustainable gardening practices (such as organic planting, water-saving techniques)
+- Safety operation and emergency response skills
+
+**Key growth areas:**
 
 - Urban greening
 - Organic farming
@@ -61,68 +94,67 @@ Perform manual tasks in gardening and horticulture, including planting, pruning,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟季节性工人，每年有配额，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能移民，但园艺工人通常不符合薪资要求。 |
-| Subclass Nulla Osta（Nulla Osta Work Permit） | 雇主需申请工作许可，通过劳动部门审批。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, there is an annual quota and requires employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled migration, but horticultural workers usually do not meet salary requirements. |
+| Subclass Nulla Osta (Nulla Osta Work Permit) | Employer needs to apply for work permit, approved by labor department. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Garden and Horticultural Labourers？**
-- 喜欢户外工作，体力充沛的人
-- 不介意季节性失业和临时合同
-- 愿意学习植物养护和简单机械操作
-
-**谁不适合学Garden and Horticultural Labourers？**
-- 不适应户外艰苦环境和体力劳动
-- 追求稳定收入和职业发展路径
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are physically energetic
+- Not concerned about seasonal unemployment and temporary contracts
+- Willing to learn plant care and simple mechanical operations
+
+**Who is not suited**
+- Not suitable for outdoor harsh environments and physical labor
+- Seeking stable income and career development path
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a gardener?**
+A: Junior workers earn about 18,000-22,000 EUR per year, seniors up to 28,000-35,000 EUR.
+
+**Q: How can non-EU citizens obtain an Italian horticulture work visa?**
+A: Primarily through the Decreto Flussi quota work visa, requiring employer sponsorship, with annual quota limits.
+
+**Q: Do gardening workers have career advancement opportunities?**
+A: Can advance to horticulture supervisor, landscape designer, or start your own landscaping business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Garden and Horticultural Labourers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for garden and horticultural labourers?**
-答：Entry-level workers earn around €18,000-22,000, while senior workers can earn up to €28,000-35,000 annually.
-
-**问：How can non-EU citizens obtain a work visa for gardening jobs in Italy?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship and subject to annual caps.
-
-**问：Are there career advancement opportunities for garden labourers?**
-答：Yes, they can become team supervisors, landscape designers, or start their own gardening business.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

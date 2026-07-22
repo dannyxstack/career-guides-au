@@ -1,59 +1,94 @@
-# Environment professionals（Environment professionals）职业分析 · UK
+# Environment professionals — career analysis · United Kingdom
 
-**职业代码：2152 – Environment professionals。**
+**Occupation code: 2152 (SOC)**
 
-Environment professionals investigate, address, and advise on terrestrial and marine environment and resource management issues, including developing environmental policies and remedies for human and industrial impacts.
+Environmental professionals study, solve, and provide advice on issues related to land and marine environments and resource management, including developing and implementing environmental policies and remedial measures for the environmental impacts of human activities and industrial processes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $15,000~$25,000（英国本科学费（国际学生）每年约15000-25000英镑） |
-| 硕士 | 1年 | $20,000~$35,000（英国授课型硕士学费（国际学生）） |
+| Bachelor's degree | 3-4 years | $15,000~$25,000 (UK undergraduate tuition fees (international students) range from £15,000 to £25,000 per year) |
+| Master's degree | 1 year | $20,000~$35,000 (UK taught master's tuition fees (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学或相关学科本科学位 | 英国大学 | 必备 | 常见相关专业：环境科学、地理、工程、生物学 |
-| 特许环境专家（CEnv） | 环境科学学会（IES） | 可选 | 经认证的资深专业资格 |
-| 注册环境从业者（REnvP） | 环境科学学会（IES） | 可选 | 早期职业认证 |
+| Bachelor's degree in environmental science or related discipline | UK universities | Required | Common related majors: Environmental Science, Geography, Engineering, Biology |
+| Chartered Environmentalist (CEnv) | Institute of Environmental Sciences (IES) | Optional | Certified senior professional qualification |
+| Registered Environmental Practitioner (REnvP) | Institute of Environmental Sciences (IES) | Optional | Early career certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。英国净零排放目标和环境法规推动需求增长，尤其在可再生能源、污染控制和可持续发展领域。政府投资绿色基础设施和自然修复项目，预计未来十年职位稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. UK net zero targets and environmental regulations drive demand growth, especially in renewable energy, pollution control, and sustainability. Government investment in green infrastructure and nature restoration projects, with stable job growth expected over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 环境顾问/助理起薪 |
-| 中级（3-8年） | $32,000~$45,000 | 有经验的环境顾问或项目经理 |
-| 高级（8年以上） | $45,000~$65,000 | 高级顾问、团队领导或专家 |
+| Median salary | $43,362 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Starting salary for environmental consultant/assistant |
+| Mid-level (3–8 years) | $32,000~$45,000 | Experienced environmental consultant or project manager |
+| Senior (8+ years) | $45,000~$65,000 | Senior consultant, team leader, or specialist |
+| average salary | $46,565 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级环境顾问或助理起步，积累经验后晋升为高级顾问、项目经理或团队领导。可专攻领域如水资源管理、气候变化、生态修复，或转向政策制定、学术研究或企业可持续发展管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core duties of environmental professionals are significantly enhanced by AI, but lower-level report generation and data collection tasks face automation risks, resulting in a mixed outlook.
+
+Start as a junior environmental consultant or assistant, gain experience, then advance to senior consultant, project manager, or team leader. Specialize in areas such as water resource management, climate change, ecological restoration, or move into policy development, academic research, or corporate sustainability management.
+
+**Tasks most exposed to AI:**
+
+- Environmental data collection and preliminary analysis report generation
+- Routine environmental compliance checklist auto-verification
+- Standardized monitoring and recording of pollution emissions.
+- Template-based writing of environmental impact assessments
+
+**Where AI augments the role:**
+
+- Environmental model prediction and simulation (AI-optimized parameters)
+- Large-scale analysis of satellite and remote sensing data
+- Multi-scenario simulation for policy impact assessment
+- Generate optimization suggestions for environmental management plans.
+- Smart environmental monitoring system for remote diagnosis
+
+**Human moat:**
+
+- Cross-system environmental risk assessment and decision-making
+- Complex stakeholder communication and negotiation
+- Interpretation of environmental regulations and forensic identification
+- On-site emergency environmental incident command
+- Design of innovative environmentally friendly technical solutions.
+
+**Skills to build:**
+
+- Environmental big data analysis and visualization (Python/R)
+- Application of machine learning in environmental modeling
+- Advanced GIS and remote sensing analysis skills
+- AI environmental compliance tool operation
+- Environmental Economics and Policy Analysis
+- Project communication and cross-department collaboration.
+
+**Key growth areas:**
 
 - Climate change policy
 - Renewable energy
@@ -62,69 +97,68 @@ Environment professionals investigate, address, and advise on terrestrial and ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足技能和薪资要求（一般年薪至少26200英镑），雇主担保。环境专业人员通常符合条件。 |
-| Subclass Global Talent（Global Talent visa） | 适合在环境领域有杰出成就或潜力的研究人员和领导者。 |
-| Subclass Scale-up（Scale-up Worker visa） | 如果雇主是符合条件的快速增长企业，可申请。 |
-| Subclass Graduate（Graduate visa） | 英国本科或硕士毕业后可申请，允许在英国工作2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Meet skill and salary requirements (generally at least 26,200 GBP annually), employer sponsorship. Environmental professionals usually qualify. |
+| Subclass Global Talent (Global Talent visa) | Suitable for researchers and leaders with outstanding achievements or potential in the environmental field. |
+| Subclass Scale-up (Scale-up Worker visa) | You can apply if the employer is a qualifying high-growth business. |
+| Subclass Graduate (Graduate visa) | Applicable after completing a UK bachelor's or master's degree, allowing work in the UK for 2 years (3 years for PhD). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environment professionals？**
-- 对环境保护和可持续发展有热情的人
-- 具备跨学科知识（科学、政策、经济）者
-- 喜欢户外工作与实地调研的人
-
-**谁不适合学Environment professionals？**
-- 不喜欢政策法规和文书工作的人
-- 对科学分析感到枯燥的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about environmental protection and sustainable development
+- Applicants with interdisciplinary knowledge (science, policy, economics)
+- People who enjoy outdoor work and fieldwork
+
+**Who is not suited**
+- People who dislike policies, regulations, and paperwork.
+- People who find scientific analysis boring
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for environmental professionals?**
+A: Entry-level: approximately £25,000-32,000, mid-level: £32,000-45,000, senior: up to £65,000 or more. Salaries vary by experience and industry, with consulting, government, and energy sectors offering higher pay.
+
+**Q: What visa pathways are available for environmental professionals in the UK?**
+A: Common pathways include the Skilled Worker visa (requires employer sponsorship, meeting salary and skill requirements), Global Talent visa (for outstanding individuals), Scale-up Worker visa (requires a qualifying employer), and Graduate visa (for UK graduates).
+
+**Q: What are the career development prospects for environmental professionals?**
+A: UK net-zero targets drive demand, with opportunities in policy, consulting, renewable energy, and ecological restoration. Can advance to senior consultant, project manager, or specialist, or move into academic research or corporate sustainability management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Environment professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for environment professionals?**
-答：Entry-level salaries are around £25,000-£32,000, mid-level £32,000-£45,000, and senior roles can exceed £65,000. Salaries vary by experience and sector, with consulting, government, and energy industries paying higher.
-
-**问：What are the visa pathways for environment professionals in the UK?**
-答：Common routes include Skilled Worker visa (employer sponsorship, meeting salary and skill requirements), Global Talent visa (for exceptional talent), Scale-up Worker visa (for qualifying employers), and Graduate visa (for UK graduates).
-
-**问：What are the career prospects for environment professionals?**
-答：The UK's net-zero targets drive demand, with opportunities in policy, consulting, renewable energy, and ecological restoration. Career progression includes senior consultant, project manager, or specialist roles, with options in academia or corporate sustainability management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

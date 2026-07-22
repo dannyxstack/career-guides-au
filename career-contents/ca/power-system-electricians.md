@@ -1,58 +1,94 @@
-# Power system electricians（Power system electricians）职业分析 · 加拿大
+# Power system electricians — career analysis · Canada
 
-**职业代码：72202 – Power system electricians。**
+**Occupation code: 72202 (NOC)**
 
-Power system electricians install, maintain, and repair electrical power transmission and distribution systems, including substations, transformers, and high-voltage lines, ensuring stable power supply.
+Power system electricians install, maintain, and repair power transmission and distribution systems, including substations, transformers, and high-voltage lines, ensuring stable power supply.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 4年学徒制 | —（学徒期间有工资） |
-| 学院证书或大专 | 1-2年 | $5,000~$15,000（学费因省份而异） |
+| High school graduation | 4-year apprenticeship | $0~$5,000 (Paid during apprenticeship) |
+| College Certificate or Diploma | 1-2 years | $5,000~$15,000 (Tuition fees vary by province) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级电力系统电工证书 | 各省学徒与行业认证机构 | 必备 | 需通过学徒计划和考试 |
-| 红印认证 (Red Seal) | 加拿大红印计划 | 可选 | 跨省就业推荐 |
+| Provincial Electrician Certificate for Power Systems | Provincial apprenticeship and trade certification bodies. | Required | Requires apprenticeship and exams |
+| Red Seal certification | Canadian Red Seal Program | Optional | Cross-provincial employment recommendation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。加拿大电力基础设施老化和可再生能源扩张推动需求增长，预计未来十年岗位增长稳健，尤其阿尔伯塔、安大略和卑诗省。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Aging power infrastructure and renewable energy expansion drive demand growth in Canada, with steady job growth expected over the next decade, especially in Alberta, Ontario, and British Columbia.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 学徒期工资较低 |
-| 中级（4-7年） | $70,000~$90,000 | 获得认证后增长 |
-| 高级（8年+） | $95,000~$120,000 | 包括主管和高压专长 |
+| Median salary | $96,824 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Apprenticeship wages are lower |
+| Mid-level (4-7 years) | $70,000~$90,000 | increases after certification |
+| Senior (8+ years) | $95,000~$120,000 | Including supervisors and high-voltage specialties |
+| average salary | $99,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径包括成为主管、项目经理或电力系统设计师；积累经验后也可转向电力工程或咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Electricians are in demand in Canada; automation risk is moderate: AI struggles to replace on-site operations and diagnostics, but simplifies design, documentation, and compliance, enhancing safety monitoring and efficiency tools. Entry-level roles may narrow due to remote diagnostic tools, but licensed electricians remain stable.
+
+Career progression paths include becoming a supervisor, project manager, or power system designer; with experience, you can also transition to electrical engineering or consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate electrical wiring diagrams and material lists according to specifications
+- Remotely read and analyze energy consumption data via smart meters, generating reports.
+- Automatically check electrical code compliance, flag violations
+- AI chatbots handle basic customer inquiries and troubleshooting suggestions
+- Automated systems generate maintenance records and reports
+
+**Where AI augments the role:**
+
+- AI diagnostic tools assist in fault troubleshooting, quickly locating circuit issues
+- Augmented reality (AR) headsets overlay wiring diagrams and real-time data to improve installation accuracy
+- Predictive maintenance algorithm analyzes equipment data to indicate potential faults
+- AI-assisted safety monitoring (e.g., detecting arcs, overheating) and automatic power cut-off
+- Mobile apps provide AR remote expert support for collaborative problem-solving of complex issues.
+
+**Human moat:**
+
+- Physical diagnosis and repair of complex electrical systems, requires hands-on operation.
+- On-site safety assessment and emergency response (e.g., power outage, electric shock first aid)
+- Customer communication and needs understanding, customized solution design
+- Cross-trade collaboration (e.g., with construction and HVAC teams) to resolve integration issues
+- Licensed responsibilities and regulatory compliance judgments, cannot be fully automated
+
+**Skills to build:**
+
+- Proficient in using AI diagnostic tools and mobile apps
+- Basic data analysis and digital panel operation
+- AR/VR-assisted equipment operation skills
+- Knowledge of smart home/building system integration
+- Ability to continuously learn new technologies and standards
+- Communication and customer management skills
+
+**Key growth areas:**
 
 - Infrastructure Renewal
 - Renewable Energy
@@ -61,68 +97,67 @@ Power system electricians install, maintain, and repair electrical power transmi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 通过联邦技术移民，需满足EE入池条件及CRS评分 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如阿尔伯塔、卑诗省对技工有优先提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，为EE加分 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Through Federal Skilled Migration, must meet Express Entry pool requirements and CRS score. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Alberta and British Columbia have priority nomination for tradespeople |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, adding points for Express Entry |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Power system electricians？**
-- 喜欢动手操作、户外工作以及解决电力系统挑战的人
-- 愿意完成学徒培训并考取省级认证
-- 追求稳定高薪且移民友好的技工职业
-
-**谁不适合学Power system electricians？**
-- 对高空作业或高压环境感到不适者
-- 无法适应轮班或紧急抢修工作节奏的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, outdoor work, and solving electrical system challenges
+- Willing to complete an apprenticeship and obtain provincial certification
+- Pursue a stable, high-paying and immigration-friendly skilled trade career
+
+**Who is not suited**
+- Unsuitable for those uncomfortable with working at heights or in high-pressure environments
+- People unable to adapt to shift work or emergency repair work pace
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an electrician in Canada?**
+A: Average annual salary about 75,000 CAD, mid-level about 80,000, senior up to 120,000; salary is significantly affected by province and experience.
+
+**Q: What are the main pathways for electricians in the power system to immigrate to Canada?**
+A: Main pathways include Federal Express Entry (FSW/CEC), Provincial Nominee Programs (e.g., Alberta, BC), and LMIA employer sponsorship; trades workers may get extra points in EE.
+
+**Q: What is the future outlook for this occupation?**
+A: Good prospects: grid updates and renewable energy projects increase demand, while many older electricians retiring create vacancies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Power system electricians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for power system electricians in Canada?**
-答：Average annual salary is about CAD 75,000, with mid-level around CAD 80,000 and senior up to CAD 120,000; varies by province and experience.
-
-**问：What are the main immigration pathways for power system electricians to Canada?**
-答：Main pathways include Express Entry FSW/CEC, Provincial Nominee Programs (e.g., Alberta, BC), and LMIA employer sponsorship; trades may get extra CRS points.
-
-**问：What is the future outlook for this occupation?**
-答：Outlook is positive due to grid modernization and renewable energy projects, plus retirement of many current workers.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

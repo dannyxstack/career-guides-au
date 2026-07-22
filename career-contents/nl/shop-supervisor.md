@@ -1,58 +1,94 @@
-# Shop Supervisor（Shop Supervisor）职业分析 · NL
+# Shop Supervisor — career analysis · Netherlands
 
-**职业代码：5222 – Shop Supervisor。**
+**Occupation code: 5222 (ISCO08)**
 
-Shop supervisors oversee daily retail operations, manage sales teams, ensure customer satisfaction, and achieve sales targets.
+A store supervisor oversees daily retail store operations, manages the sales team, and ensures customer satisfaction and sales target achievement.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | $1,000~$6,000（MBO学费每年约1000-2000欧元，书籍费用另计。） |
-| 应用科学大学本科（HBO） | 4年 | $2,000~$10,000（HBO学费每年约2000-10000欧元，视学校和专业而定。） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $1,000~$6,000 (MBO tuition fees are about €1,000-2,000 per year, plus book costs.) |
+| Bachelor's degree from a University of Applied Sciences (HBO) | 4 years | $2,000~$10,000 (HBO tuition is about 2000-10000 euros per year, depending on the school and program.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售管理文凭 | 荷兰零售行业协会 | 可选 | 部分雇主偏好持有此文凭的候选人。 |
-| 急救证书 | 荷兰红十字会 | 可选 | 部分商店要求员工持有急救证书。 |
+| Diploma of Retail Management | Dutch Retail Association | Optional | Some employers prefer candidates with this diploma. |
+| First aid certificate | Netherlands Red Cross | Optional | Some stores require employees to hold a first aid certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 95,000。荷兰零售业持续稳定发展，电商与实体店融合趋势下，商店主管需求保持中等水平，就业机会主要集中在大型连锁超市和百货商店。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 95,000. The Dutch retail sector continues to develop steadily. With the trend of integrating e-commerce and physical stores, demand for store managers remains at a moderate level, with job opportunities mainly concentrated in large supermarket chains and department stores.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，基于全职工作。 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，包括奖金和津贴。 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，通常包括管理奖金。 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, based on full-time work. |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, including bonuses and allowances. |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary, usually including management bonuses. |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从销售助理晋升为主管，再晋升为店长或区域经理。积累管理经验后也可转向采购、运营等岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The risk of shop supervisor jobs being automated by AI is medium to high. High-frequency administrative tasks may be replaced, but interpersonal management and handling emergencies remain difficult to replace. Proactively embrace AI tools like sales data analysis and smart scheduling to amplify efficiency.
+
+Can progress from sales assistant to supervisor, then to store manager or regional manager. With accumulated management experience, may also transition to procurement, operations, and other roles.
+
+**Tasks most exposed to AI:**
+
+- Use AI-driven inventory management systems to automatically generate replenishment orders and inventory reports.
+- Handle common customer inquiries and checkout via chatbots and self-checkout systems
+- Use AI scheduling tools to automatically generate employee shift schedules and optimize labor costs
+- Use an AI sales forecasting system based on historical data to set sales targets
+- In-store security monitoring and alerting via cameras and AI anomaly detection
+
+**Where AI augments the role:**
+
+- AI dashboard shows real-time sales trends and performance, aiding precise decision-making and intervention
+- Use AI customer analysis tools to identify high-value customers and design personalized promotions
+- AI training platforms provide customized employee learning paths to enhance training efficiency
+- Optimize customer service scripts and complaint handling strategies through AI sentiment analysis
+- AI-assisted monitoring of competitor pricing and promotions for rapid market response.
+
+**Human moat:**
+
+- Demonstrate empathy and flexibility when handling customer complaints and emergencies
+- Inspire and coach sales teams, soft leadership to build trust and morale
+- Human judgment on store atmosphere, display aesthetics, and community relationships
+- Make fair decisions in non-standard scenarios such as customer return disputes and employee conflicts
+- Develop unique promotional strategies by combining local culture and market intuition
+
+**Skills to build:**
+
+- Learning to use the data analysis features of retail management software (such as POS systems, ERP)
+- Master basic data visualization tools (such as Tableau, Power BI)
+- Develop agile project management and team coaching skills
+- Learn basic AI tools (such as ChatGPT) for writing marketing copy and response templates
+- Improve cross-cultural communication and emotional intelligence management skills
+- Understand configuration and adjustment of automated inventory management and scheduling systems
+
+**Key growth areas:**
 
 - Retail Management
 - Customer Service
@@ -61,68 +97,67 @@ Shop supervisors oversee daily retail operations, manage sales teams, ensure cus
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于年收入达到门槛的高技能人才，需有荷兰雇主担保。2024年门槛约为EUR 5,331/月（30岁以上）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育背景且年薪达到EU Blue Card门槛（约EUR 58,000）的专业人才，但商店主管通常达不到此标准。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰或世界顶尖大学完成学位的毕业生，可在毕业后一年内在荷兰寻找工作，无需雇主担保。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For highly skilled talent meeting the annual income threshold, requiring Dutch employer sponsorship. The 2024 threshold is approximately EUR 5,331/month (for over 30 years old). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for higher education background with an annual salary meeting the EU Blue Card threshold (approx. EUR 58,000) for professionals, but shop supervisors typically do not meet this standard. |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed a degree at a top university in the Netherlands or worldwide, allowing them to seek employment in the Netherlands within one year after graduation without an employer sponsor. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shop Supervisor？**
-- 善于沟通和团队管理的人
-- 喜欢快节奏零售环境的人
-- 有销售和客户服务经验的人
-
-**谁不适合学Shop Supervisor？**
-- 不喜欢面对客户的人
-- 不适应轮班和周末工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication and team management
+- People who enjoy a fast-paced retail environment
+- People with sales and customer service experience
+
+**Who is not suited**
+- People who don't like facing clients
+- People who are not adaptable to shift work and weekend work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a store manager in the Netherlands?**
+A: Junior supervisor annual salary approx. €25,000-32,000, intermediate €32,000-40,000, senior up to €40,000-50,000 (pre-tax).
+
+**Q: As a non-EU citizen, how to obtain a work visa for a store supervisor role in the Netherlands?**
+A: If you meet the Highly Skilled Migrant annual income threshold (2024: EUR 63,972/year for those aged 30+), you can apply for this visa. However, shop supervisor salaries are usually lower, making direct application difficult. Consider entering on another visa first, then finding a job.
+
+**Q: What promotion opportunities are available for a store supervisor?**
+A: Can advance to store manager, regional manager, retail operations manager, or transition to procurement or merchandising roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Shop Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a shop supervisor in the Netherlands?**
-答：Entry-level supervisors earn around EUR 25,000-32,000, mid-level EUR 32,000-40,000, and senior up to EUR 40,000-50,000 (gross annual).
-
-**问：How can a non-EU citizen obtain a work visa as a shop supervisor in the Netherlands?**
-答：If you meet the income threshold for the Highly Skilled Migrant scheme (EUR 63,972/year for over 30 in 2024), you can apply. However, salaries for shop supervisors are often lower, making direct application challenging. Consider other visa routes first.
-
-**问：What are the career advancement opportunities for a shop supervisor?**
-答：You can advance to store manager, area manager, retail operations manager, or move into buying and merchandising roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

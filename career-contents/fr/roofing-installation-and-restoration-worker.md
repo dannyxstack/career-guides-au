@@ -1,61 +1,96 @@
-# Roofing Installation and Restoration Worker（Roofing Installation and Restoration Worker）职业分析 · FR
+# Roofing Installation and Restoration Worker — career analysis · France
 
-**职业代码：F1610 – Roofing Installation and Restoration Worker。**
+**Occupation code: F1610 (ROME)**
 
-Installs, repairs, and restores roofs using materials such as tiles, metal sheets, and waterproof membranes. Essential for building maintenance and new construction, with steady demand in France.
+Responsible for rooftop installation, maintenance, and renovation, including the installation of tiles, metal panels, waterproof layers, and other materials. Demand in the French construction industry is stable, requiring familiarity with safety codes and leak-proof technologies.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP couvreur | 2年 | $500~$5,000（公立学校学费低，学徒制可免费并获津贴） |
-| Bac pro technicien du bâtiment | 3年 | $1,000~$8,000（公立高中免费或低学费） |
+| CAP couvreur | 2 years | $500~$5,000 (Public schools have low tuition fees, and apprenticeships are free and receive subsidies) |
+| Bac pro technicien du bâtiment | 3 years | $1,000~$8,000 (Public high schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Couvreur | 法国教育部 | 必备 | 入门级文凭，必须持有 |
-| Carte professionnelle bâtiment | Chambre de Métiers et de l'Artisanat | 必备 | 注册工匠必备，需3年经验或CAP |
-| Reconnaissance des qualifications (pour étrangers) | France Compétences | 可选 | 外国资质需认证，可通过VAE获取法国文凭 |
+| CAP Couvreur | French Ministry of Education | Required | An entry-level diploma is mandatory |
+| Carte professionnelle bâtiment | Chambre de Métiers et de l'Artisanat | Required | Registered Craftsman is a must-have, requiring 3 years of experience or CAP |
+| Reconnaissance des qualifications (pour étrangers) | France Compétences | Optional | Foreign qualifications require certification, and French diplomas can be obtained through VAE |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国老旧建筑翻新和节能改造政策推动屋顶工需求。据France Travail，该职业为紧缺工种(métier en tension)，未来十年岗位增长约10%，尤其在巴黎、里昂等大城市。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France's policies for renovating old buildings and energy-saving upgrades are driving demand for roofing workers. According to France Travail, this profession is a scarce category (métier en tension), with job growth of about 10% over the next decade, especially in major cities like Paris and Lyon.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $38,000~$50,000 | 税前年薪，高级技工或项目经理 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $38,000~$50,000 | Pre-tax annual salary, senior technician or project manager |
+| average salary | $25,224 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 初级工人可晋升为专业屋顶工或领班，积累经验后可成立自己的装修公司。也可转向建筑项目管理或建筑监理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
+
+Junior workers can be promoted to professional roofers or foremen, and after gaining experience, can establish their own renovation companies. You can also switch to construction project management or construction supervision positions.
+
+**Tasks most exposed to AI:**
+
+- Roof area measurement and material quantity calculation (AI vision + drone)
+- Automated cutting and positioning of standard roof panels or tiles (robot-assisted)
+- Initial roof condition inspection report generation (AI image recognition)
+- Security monitoring and compliance documentation (AI-automated recording)
+
+**Where AI augments the role:**
+
+- Drone roof inspection and thermal imaging (AI-assisted leak detection)
+- AR (Augmented Reality) overlays installation guides, reducing blueprint reading errors.
+- AI optimizes material cutting layouts to reduce waste
+- Real-time weather and project timeline prediction to assist work scheduling
+- Digital twin model simulates roof waterproofing layer performance
+
+**Human moat:**
+
+- Custom installation of complex roof structures (spires, curves, historic buildings)
+- Waterproofing detail work and manual tasks (e.g., shingle overlapping, sealant application)
+- On-site problem assessment (e.g., damage extent, hidden structures)
+- Direct communication with clients and on-site decision-making
+- Safety Awareness and Emergency Response for Working at Heights
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- BIM (Building Information Modeling) fundamentals and digital tools
+- Solar roof installation and waterproofing integration
+- Basic data analysis (material optimization, cost estimation)
+- Green roof (vegetated roof) construction techniques
+- Safety regulations and use of smart equipment for high-altitude operations.
+
+**Key growth areas:**
 
 - Rénovation énergétique
 - Bâtiment durable
@@ -64,66 +99,65 @@ Installs, repairs, and restores roofs using materials such as tiles, metal sheet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需法国雇主提供工作合同，并通过劳动局审核。适用于非紧缺职业，但建筑行业较易获批。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若获得法国公司高薪聘用（年薪≥53,000€），可申请此签证，但屋顶工通常薪资不达标。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后可申请1年找工作签证，找到工作后转Salarié。 |
+| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer must be submitted and approved by the Labor Bureau. Suitable for non-urgently needed occupations, but the construction industry is relatively easy to approve. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you are hired by a high-paying French company (annual salary ≥ €53,000), you can apply for this visa, but rooftop workers usually earn less than the required salary. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for a one-year work-finding visa, and once you find a job, transfer to Salarié. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roofing Installation and Restoration Worker？**
-- 体力好、不恐高的人
-- 喜欢动手、有耐心完成精细防水的求职者
-- 愿意通过学徒制学习实用技能的人
-
-**谁不适合学Roofing Installation and Restoration Worker？**
-- 抗拒户外高空作业的人
-- 期望快速获得高薪或办公室工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and no fear of heights
+- Job seekers who enjoy hands-on work and have the patience to complete fine waterproofing
+- People willing to learn practical skills through apprenticeships
+
+**Who is not suited**
+- People who resist working at heights outdoors
+- People who expect to quickly secure a high salary or office job
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of roofers in France?**
+A: Beginner is about 24,000-30,000 euros, intermediate is 30,000-38,000 euros, and advanced can reach up to 50,000 euros.
+
+**Q: How can foreigners obtain a work visa for French roofers?**
+A: Must hold a CAP or equivalent qualification, obtain it via VAE or accreditation, then find a French employer to apply for a Salarié visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Roofing Installation and Restoration Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for roofers in France?**
-答：Junior: €24,000-€30,000; Mid-level: €30,000-€38,000; Senior: up to €50,000.
-
-**问：How can a foreigner obtain a work visa as a roofer in France?**
-答：Requires CAP or equivalent qualification (via VAE or recognition), then a job offer and Salarié visa.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

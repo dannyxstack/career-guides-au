@@ -1,59 +1,92 @@
-# Street Vendor（Street Vendor）职业分析 · ES
+# Street Vendor — career analysis · Spain
 
-**职业代码：9410 – Street Vendor。**
+**Occupation code: 9410 (CNO)**
 
-Street vendors sell goods directly to pedestrians in public spaces, typically offering food, drinks, clothing, or small items.
+Vendors selling goods directly to pedestrians on the street or in public spaces, usually selling food, drinks, clothing, or small commodities.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 0 | —（一般无学历门槛，但需了解当地法规。） |
+| No specific educational requirements | 0 | $0~$0 (There is generally no educational requirement, but you need to understand local regulations.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市政经营许可证 | 当地市政厅 | 必备 | 多数城市要求申请街头贩卖许可证，费用和条件因地而异。 |
-| 食品安全培训证书 | 自治社区卫生部门 | 必备 | 若售卖食品，需完成食品安全课程并取得证书。 |
+| Municipal business license | Local municipal council | Required | Most cities require a street vendor permit, with fees and conditions varying by location. |
+| Food safety training certificate | Autonomous community health department | Required | If selling food, you must complete a food safety course and obtain a certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,000。西班牙街头贩卖受地方条例严格限制，正规化趋势加强。旅游业复苏带动需求，但自动售货和电商冲击导致岗位增长缓慢，预计未来五年持平或微降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. Street selling in Spain is strictly regulated by local regulations, with a growing trend toward regularization. The recovery of tourism is driving demand, but the impact of vending machines and e-commerce has led to slow job growth, with expectations of stable or slight declines over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 收入不稳定，受季节和地点影响大。 |
-| 中级（3-8年） | $18,000~$25,000 | 经验丰富者可能获得更佳摊位位置或更高销量。 |
-| 高级（8年以上） | $25,000~$35,000 | 顶尖小贩可能拥有多个摊位或品牌化运营。 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$18,000 | Income is unstable and greatly affected by seasons and locations. |
+| Mid-level (3–8 years) | $18,000~$25,000 | Experienced individuals may get better booth locations or higher sales. |
+| Senior (8+ years) | $25,000~$35,000 | Top vendors may own multiple stalls or operate in a branded manner. |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 职业晋升有限，多数为自雇。部分小贩可能转向正规摊位或开设小型店铺，或通过培训转入零售业其他岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on street vendors is mixed: automated pricing and payments can improve efficiency but rely on human craftsmanship and on-site interaction; The entry barrier may be slightly higher due to algorithmic management, but core skills remain difficult to replace.
+
+Career advancement is limited, and most are self-employed. Some hawkers may switch to formal stalls or open small shops, or transfer to other retail positions through training.
+
+**Tasks most exposed to AI:**
+
+- Use traditional calculators or mental arithmetic to calculate prices
+- Handwritten bookkeeping or simple financial management
+- Attract customers through shouting or handwritten signs
+- Manually count inventory and replenishment needs
+
+**Where AI augments the role:**
+
+- Optimize transaction efficiency by leveraging mobile payments and dynamic pricing tools
+- Precise marketing through social media and local advertising platforms
+- Use data analytics tools to predict best-selling products and restock timing
+- Use portable barcode scanning devices to quickly process payment and inventory records
+
+**Human moat:**
+
+- Personalized interaction and trust with customers on site
+- Handmade crafts of food or unique products
+- Intuitive judgment of local mobile populations and sudden needs
+- Respond flexibly to uncertainties such as municipal regulations and weather changes
+
+**Skills to build:**
+
+- Mobile payments and digital wallet operations
+- Basic data analysis and inventory management app usage
+- Social media marketing and short video production
+- Dynamic pricing strategy learning
+- Multilingual Basic Communication (for Tourist Areas)
+- Simple spreadsheets or accounting software
+
+**Key growth areas:**
 
 - Informal Economy
 - Tourism
@@ -62,65 +95,67 @@ Street vendors sell goods directly to pedestrians in public spaces, typically of
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇于公司做街头贩卖极罕见，通常为自雇，难以获得工作签证。 |
-| Subclass Cuenta propia（Self-Employment Work Permit） | 需证明投资能力及商业计划可行性，获批难度高。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | It is extremely rare to be employed by a company doing street vending; it is usually self-employed, making it difficult to obtain a work visa. |
+| Subclass Cuenta propia (Self-Employment Work Permit) | Requires proof of investment capability and business plan feasibility, making approval difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street Vendor？**
-- 适应不稳定收入者
-- 偏好户外工作的人
-- 创业者心态者
+**Who is suited**
+- Suitable for those with variable income.
+- People who prefer outdoor work
+- Entrepreneurial mindset
 
-**谁不适合学Street Vendor？**
-- 寻求稳定职业发展者
-- 厌恶行政手续者
+**Who is not suited**
+- Seeking stable career development
+- Those who dislike administrative procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How do street vendors earn?**
+A: Income fluctuates greatly, affected by season, location, and commodity type. Entry-level annual income is about €12,000–18,000.
+
+**Q: Can foreigners immigrate to Spain through street vending?**
+A: extremely difficult. Street vendors are mostly self-employed, requiring self-employment residency and detailed business plans, resulting in low approval rates.
+
+**Q: What permits are required for street vending?**
+A: You need to apply for a business license from the local municipal office, and selling food also requires a food safety training certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 极难（★★★★½） |
-
-Street Vendor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a street vendor?**
-答：Income varies greatly, affected by season, location, and product type; entry-level annual income is around €12,000-18,000.
-
-**问：Can a foreigner immigrate to Spain through street vending?**
-答：Very difficult. Street vending is mostly self-employed; requires a self-employment visa with a detailed business plan, low approval rate.
-
-**问：What permits are needed for street vending?**
-答：A municipal license is required, plus a food safety certificate if selling food.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

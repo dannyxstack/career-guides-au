@@ -1,59 +1,92 @@
-# Glaziers（Glaziers）职业分析 · 美国
+# Glaziers — career analysis · United States
 
-**职业代码：47-2121 – Glaziers。**
+**Occupation code: 47-2121 (SOC)**
 
-Glaziers install glass in windows, skylights, store fronts, display cases, and on surfaces such as building fronts, interior walls, ceilings, and tabletops.
+Glaziers install glass in windows, skylights, storefronts, display cases, and on building exteriors, interior walls, ceilings, and tabletops.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制 | 3-4年 | —（学徒期间带薪学习） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship | 3-4 years | $0~$0 (Paid learning during apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒制完成证书 | 美国劳工部或州学徒委员会 | 可选 | 通常需通过学徒项目获得 |
-| 州级驾驶执照 | 州机动车辆管理局 | 必备 | 需驾驶车辆运输玻璃 |
-| NAGRA认证 | 北美玻璃协会 | 可选 | 自愿认证，提升就业机会 |
+| State driver's license | State motor vehicle department | Required | Need to drive vehicles to transport glass |
+| Certificate of apprenticeship completion | US Department of Labor or State Apprenticeship Council | Optional | Typically obtained through an apprenticeship program |
+| NAGRA certification | National Glass Association | Optional | Voluntary certification to enhance job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 49,000。美国玻璃安装工就业前景良好，预计2023-2033年增长约6%，快于平均水平。商业建筑翻新和节能玻璃需求推动增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 49,000. The job outlook for US glaziers is good, with projected growth of about 6% from 2023-2033, faster than average. Commercial building renovation and energy-efficient glass demand drive growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 时薪约15-20美元 |
-| 中级（4-7年） | $42,000~$58,000 | 时薪约20-28美元 |
-| 高级（8年以上/领班） | $58,000~$78,000 | 时薪约28-38美元 |
+| Median salary | $57,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Hourly wage approx $15-20 USD |
+| Mid-level (4-7 years) | $42,000~$58,000 | Hourly wage approximately 20-28 USD |
+| Senior (8+ years/lead) | $58,000~$78,000 | Hourly wage approximately $28-38 |
+| average salary | $59,720 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级玻璃安装工可晋升为领班或项目经理，经验丰富者可自营承包公司。获得认证（如NGDA）可提升竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+Entry-level glaziers can advance to foreman or project manager; experienced ones can start their own contracting business. Obtaining certification (e.g., NGDA) enhances competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Construction
 - Energy-efficient glass
@@ -62,68 +95,67 @@ Glaziers install glass in windows, skylights, store fronts, display cases, and o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因需专业学士学位；但可凭特殊技能申请，难度大 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 需PERM劳工证，要求至少2年培训或经验，适合熟练玻璃安装工 |
-| Subclass TN（TN NAFTA Professional） | 不适用，因玻璃安装工不属于TN职业列表 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable, as a professional bachelor's degree is required; but may apply with exceptional skills, which is highly difficult. |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Requires PERM labor certification, at least 2 years training or experience, suitable for skilled glass installers |
+| Subclass TN (TN NAFTA Professional) | Not applicable, as glass installers are not on the TN list of occupations |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glaziers？**
-- 动手能力强，细心且注重安全者
-- 能适应高空作业和体力劳动
-- 喜欢在建筑工地工作，有团队合作精神
-
-**谁不适合学Glaziers？**
-- 恐高或无法承受重体力劳动
-- 对灰尘、噪音等恶劣环境敏感
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong hands-on skills, meticulous and safety-conscious
+- Able to work at heights and perform physical labor
+- Enjoy working on construction sites and have a team spirit
+
+**Who is not suited**
+- Fear of heights or inability to perform heavy physical labor.
+- Sensitive to harsh environments such as dust and noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the wage level for glass installers?**
+A: Median annual salary for US glass installers about $45,000, entry-level around $32,000-42,000, senior up to $78,000+. Overtime common, usually paid hourly.
+
+**Q: How can a glass installer immigrate to the US through employment?**
+A: Usually immigrate through the EB-3 skilled worker category, requiring PERM labor certification and 2 years of experience or training. H-1B not applicable. Requires employer sponsorship; highly competitive.
+
+**Q: Is there room for advancement as a glazier?**
+A: Yes, can progress from apprentice to journeyman, then to foreman, project manager, or self-employed contractor. Obtaining certifications (e.g., NAGRA) aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Glaziers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glaziers?**
-答：The median annual wage for glaziers in the U.S. is around $45,000, with entry-level earning $32,000-$42,000 and experienced up to $78,000+. Overtime is common, paid hourly.
-
-**问：How can glaziers immigrate to the U.S. through employment?**
-答：Typically via EB-3 skilled worker category, requiring PERM labor certification and 2 years of experience or training. H-1B is not applicable. Employer sponsorship needed, competitive.
-
-**问：Is there career advancement for glaziers?**
-答：Yes, from apprentice to journeyman, then lead, project manager, or self-employed contractor. Certifications (e.g., NAGRA) help advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

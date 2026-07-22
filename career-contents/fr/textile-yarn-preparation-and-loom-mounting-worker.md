@@ -1,60 +1,95 @@
-# Textile Yarn Preparation And Loom Mounting Worker（Textile Yarn Preparation And Loom Mounting Worker）职业分析 · FR
+# Textile Yarn Preparation And Loom Mounting Worker — career analysis · France
 
-**职业代码：H2413 – Textile Yarn Preparation And Loom Mounting Worker。**
+**Occupation code: H2413 (ROME)**
 
-Prepares yarns for textile production (winding, warping, sizing) and mounts/ sets up looms (weaving or knitting machines), ensuring smooth operation before production runs.
+Responsible for preparing yarns before textile production (winding, warping, sizing), as well as installing, debugging, and replacing looms (weaving machines, knitting machines) to ensure smooth weaving processes.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP纺织机械操作 | 2年 | —（公立职业高中免费，仅需教材及注册费） |
-| BTS纺织与纤维创新 | 2年 | —（公立学校免费，私立学校约2000欧元/年） |
+| CAP textile machinery operation | 2 years | $0~$1,500 (Public vocational high schools are free, requiring only textbooks and registration fees) |
+| BTS Textile and Fiber Innovation | 2 years | $0~$2,000 (Public schools are free; private schools approx. 2000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP纺织机械操作 | 法国教育部 | 可选 | 基础从业文凭，多数雇主要求 |
-| BTS纺织与纤维创新 | 法国教育部 | 可选 | 更高级文凭，可提升晋升机会 |
+| CAP textile machinery operation | French Ministry of Education | Optional | A basic professional diploma is required by most employers |
+| BTS Textile and Fiber Innovation | French Ministry of Education | Optional | Higher diplomas can increase promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,200。法国纺织制造业持续萎缩，自动化程度提高，传统手工岗位需求减少。但高端纺织品、技术纺织品（如复合材料、医用纺织品）领域仍有少量就业机会。预计未来十年从业人数将小幅下降。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,200. France's textile manufacturing industry continues to shrink, automation is increasing, and demand for traditional manual jobs has decreased. However, there are still limited job opportunities in high-end textiles and technical textiles (such as composites and medical textiles). The number of employees is expected to decline slightly over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按SMIC起薪 |
-| 中级（3-8年） | $26,000~$31,000 | 税前年薪，含经验与技能提升 |
-| 高级（8年以上/主管） | $31,000~$36,000 | 税前年薪，担任生产主管或调试专家 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–8 years) | $26,000~$31,000 | Pre-tax annual salary, including experience and skill improvement |
+| Senior (8+ years / Supervisor) | $31,000~$36,000 | Pre-tax annual salary, serve as production supervisor or commissioning expert |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从初级纱线准备工或织机安装助手做起，积累经验后可晋升为高级织机调试员或生产主管。部分人员可转向纺织设备维护、质量控制或技术纺织品领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Textile yarn preparation and loom installers face automation risks, especially in yarn handling and loom debugging; However, AI enhances maintenance and quality control capabilities, and humans still have an advantage in complex troubleshooting and process adjustments.
+
+Start as a junior yarn prep worker or weaving machine installation assistant, and after gaining experience, you can be promoted to senior weaving machine debugger or production supervisor. Some personnel may shift to textile equipment maintenance, quality control, or technical textiles.
+
+**Tasks most exposed to AI:**
+
+- Automatic yarn tension detection and adjustment
+- Automatic warping machine cable arrangement
+- Programmatic spindle change on the loom
+- Yarn joint robot operation
+
+**Where AI augments the role:**
+
+- AI predicts the probability of yarn breakage and issues warnings
+- Machine vision assists fabric defect detection
+- Digital twin optimizes loom parameters
+- Knowledge graphs assist in fault diagnosis
+- Real-time analysis of output and quality data
+
+**Human moat:**
+
+- On-site diagnosis of complex loom mechanical faults
+- Process debugging of non-standard yarn varieties
+- Collaborating with R&D to develop new fabrics
+- Manual intervention during emergency shutdowns
+- Flexible scheduling for small-batch production of multiple varieties
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Basics of sensors and data acquisition
+- Use of textile CAD/CAM software
+- Predictive maintenance technology
+- Industrial IoT platform applications
+- Lean production and problem solving
+
+**Key growth areas:**
 
 - Technical textiles
 - Automation
@@ -63,65 +98,67 @@ Prepares yarns for textile production (winding, warping, sizing) and mounts/ set
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employment Authorization)） | 需获得法国雇主工作合同，并经法国劳动局审核。 |
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 若符合高技能人才或紧缺职业，可申请此签证。 |
+| Subclass Salarié (Salarié (Employment Authorization)) | A work contract with a French employer must be obtained and reviewed by the French Labor Bureau. |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | If you qualify as a highly skilled worker or in a shortage occupation, you can apply for this visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Yarn Preparation And Loom Mounting Worker？**
-- 对传统纺织工艺感兴趣、动手能力强的人
-- 愿意在制造业车间稳定工作的人
-- 接受低技术自动化替代风险、寻求快速就业的人
+**Who is suited**
+- People interested in traditional textile crafts and strong hands-on skills
+- People willing to work stably in manufacturing workshops
+- Those accepting risk of automation replacement in low-skilled jobs and seeking quick employment
 
-**谁不适合学Textile Yarn Preparation And Loom Mounting Worker？**
-- 期望高收入或快速晋升的人
-- 希望从事创意或高科技领域的人
+**Who is not suited**
+- Those who expect high income or rapid promotion
+- Those who wish to work in creative or high-tech fields
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Pre-tax annual salary is about 22,000-36,000 euros, with entry-level salaries close to SMIC and seniors up to 36,000 euros.
+
+**Q: Is it easy for non-EU immigrants to pursue this profession?**
+A: It's harder. France's textile industry is sluggish, and employers rarely provide visa sponsorship for low-skilled positions. It is recommended to pursue job opportunities after obtaining a diploma through an apprenticeship.
+
+**Q: Does this career have growth prospects?**
+A: Traditional textile jobs have poor prospects, but can shift to technical textiles (such as composite materials, medical textiles) or equipment maintenance, where development is relatively good.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短期（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Textile Yarn Preparation And Loom Mounting Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Annual gross salary ranges from €22,000 to €36,000, starting near SMIC and reaching up to €36,000 for senior positions.
-
-**问：Is it easy for non-EU immigrants to work in this occupation?**
-答：Quite difficult. The French textile industry is declining, and employers rarely sponsor visas for low-skilled roles. It is recommended to obtain a diploma through apprenticeship and then seek employment.
-
-**问：What are the career prospects for this occupation?**
-答：Traditional textile roles have poor prospects, but one can move into technical textiles (composites, medical textiles) or equipment maintenance for better opportunities.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

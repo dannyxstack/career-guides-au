@@ -1,59 +1,95 @@
-# Bus Driver（Bus Driver）职业分析 · 新西兰
+# Bus Driver — career analysis · New Zealand
 
-**职业代码：731211 – Bus Driver。**
+**Occupation code: 731211 (ANZSCO)**
 
-Bus drivers in New Zealand operate buses, school buses, or long-distance coaches, requiring a Class 2 or 4 license with a passenger endorsement. Due to labour shortages and inclusion on the Green List, eligible drivers can apply for skilled migration, offering a realistic pathway to residency.
+Bus drivers in New Zealand drive buses, school buses, or long-distance coaches, requiring a Class 2 or 4 license and a P endorsement. Due to labor shortages and inclusion on the Green List, eligible candidates can apply for skilled migration, making it a typical mid-skilled immigration opportunity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 重型车辆驾驶培训 | 4-6周 | $3,000~$6,000（含驾照考试和P牌课程） |
-| 学徒/职业培训 | 6个月 | $1,000~$3,000（在职培训，部分雇主提供资助） |
+| Heavy vehicle driving training | 4-6 weeks | $3,000~$6,000 (Includes driving test and P-plate course) |
+| Apprenticeship/vocational training | 6 months. | $1,000~$3,000 (On-the-job training, some employers offer sponsorship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Class 2或4驾照 | 新西兰交通局 (NZTA) | 必备 | Class 2适用于公交，Class 4适用于长途，携带P牌 |
-| 乘客背书 (P牌) | NZTA | 必备 | 需通过理论测试和驾驶评估 |
-| 医学认证 | NZTA认可医师 | 必备 | 定期健康检查（视力、听力、疾病筛查） |
+| Class 2 or 4 driver's license | New Zealand Transport Agency (NZTA) | Required | Class 2 for buses, Class 4 for long-distance, carries P plates |
+| Passenger endorsement (P license) | NZTA | Required | Must pass theoretical tests and driving assessment |
+| Medical certification | NZTA-recognized physician | Required | Regular health checks (vision, hearing, disease screening) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。新西兰巴士司机长期短缺，尤其奥克兰、惠灵顿等主要城市。政府积极引进移民填补空缺，就业市场稳定。预计未来5年需求持续增长，受旅游业和公共交通扩张驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. New Zealand faces a long-term shortage of bus drivers, especially in major cities like Auckland and Wellington. The government actively recruits migrants to fill vacancies, and the job market is stable. Demand is expected to continue growing over the next five years, driven by tourism and public transport expansion.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 如城市公交或校车司机 |
-| 中级（3-5年） | $55,000~$65,000 | 含经验加给，如长途或旅游巴士 |
-| 高级（5年以上） | $65,000~$80,000 | 含管理职责或特种车辆（如铰接客） |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Such as city bus or school bus drivers |
+| Mid-level (3–5 years) | $55,000~$65,000 | Includes experience allowance, such as for long-distance or tour buses |
+| Senior (5+ years) | $65,000~$80,000 | Including management duties or special vehicles (e.g., articulated buses) |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从公共巴士司机晋升为长途客车或旅游巴士司机，资深司机可转向运营管理或培训岗位。获取Class 5驾照后可驾驶铰接式客车提升薪资，部分司机自雇运营小型巴士服务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Can progress from public bus driver to long-distance or tour bus driver; senior drivers can move into operations management or training roles. Obtaining a Class 5 license allows driving articulated buses for higher pay; some drivers become self-employed operating small bus services.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,69 +98,68 @@ Bus drivers in New Zealand operate buses, school buses, or long-distance coaches
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC (Skilled Migrant（Skilled Migrant Category Resident Visa） | 需满足6分制（学历+工作经验），年薪中位数以上（$59,032/年） |
-| Subclass Green List T2 (Work （Green List Tier 2 Work to Residence Visa） | 巴士司机在绿名单T2，工作2年后可申请居留 |
-| Subclass AEWV (Accredited Emp（Accredited Employer Work Visa） | 需认证雇主担保，工资不低于中位数，可转为居留路径 |
-| Subclass 区域技能短缺工签（Regional Skill Shortage Work Visa） | 针对技能短缺区域，如奥克兰，开放直接申请的临时签证 |
+| Subclass SMC (Skilled Migrant (Skilled Migrant Category Resident Visa) | Must meet the 6-point system (qualifications + work experience), with median annual salary above $59,032. |
+| Subclass Green List T2 (Work  (Green List Tier 2 Work to Residence Visa) | Bus driver is on Green List Tier 2; can apply for residency after 2 years of work |
+| Subclass AEWV (Accredited Emp (Accredited Employer Work Visa) | Requires employer sponsorship with salary not below the median, can lead to permanent residency pathway |
+| Subclass Regional Skills Shortage Visa (Regional Skill Shortage Work Visa) | For skill shortage areas like Auckland, temporary visas open for direct application |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bus Driver？**
-- 持有重型车辆驾驶经验或愿意学习驾照者
-- 善于沟通、能独立工作且适应轮班制
-- 希望借助短缺职业快速移民新西兰
-
-**谁不适合学Bus Driver？**
-- 无法接受长时间坐姿和高压交通环境
-- 不能通过医学体检或持有不良驾驶记录
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with heavy vehicle driving experience or willingness to obtain a license
+- Good communicator, able to work independently and adapt to shift work
+- Hoping to quickly immigrate to New Zealand via a shortage occupation
+
+**Who is not suited**
+- Cannot tolerate prolonged sitting and high-pressure traffic environments
+- Cannot pass medical examination or have a bad driving record
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a bus driver in New Zealand?**
+A: According to careers.govt.nz, bus drivers earn about NZ$48,000 to $65,000 per year, senior drivers can earn over $80,000, but it varies by region and driving type.
+
+**Q: How can bus drivers immigrate to New Zealand through the Green List?**
+A: Bus Drivers are on the Green List Tier 2, requiring a job offer from an accredited employer and 2 years of work at median wage ($29.66/hour) to apply for work-to-residence.
+
+**Q: What driver's license is required to become a bus driver in New Zealand?**
+A: Usually need a Class 2 license (bus) or Class 4 (long-distance coach) plus passenger endorsement (P endorsement). Can be obtained through NZ Transport Agency certified training courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（1-3个月）（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Bus Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bus driver in New Zealand?**
-答：According to careers.govt.nz, bus drivers earn between NZ$48,000 and NZ$65,000 per year, with experienced drivers reaching over NZ$80,000, depending on region and type of bus.
-
-**问：How can a bus driver migrate to New Zealand via the Green List?**
-答：Bus drivers are on Green List Tier 2. You need a job offer from an accredited employer, work for 2 years at median wage ($29.66/hour), then apply for work to residence.
-
-**问：What license is needed to become a bus driver in New Zealand?**
-答：Typically a Class 2 license (urban bus) or Class 4 (long-distance), plus a passenger endorsement (P). You can obtain it through NZTA-approved training courses.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

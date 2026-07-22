@@ -1,58 +1,92 @@
-# Supervisors, printing and related occupations（Supervisors, printing and related occupations）职业分析 · 加拿大
+# Supervisors, printing and related occupations — career analysis · Canada
 
-**职业代码：72022 – Supervisors, printing and related occupations。**
+**Occupation code: 72022 (NOC)**
 
-Supervise workers in printing and related occupations, coordinate operations, and ensure quality and efficiency.
+Supervise printing and related industry workers, coordinate operations, and ensure quality and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专/证书 | 2年 | $8,000~$25,000（印刷技术或相关领域） |
-| 高中+在职培训 | 1-2年 | —（在职培训或学徒制） |
+| Diploma/Certificate | 2 years | $8,000~$25,000 (Printing technology or related field) |
+| High school + on-the-job training | 1-2 years | $0~$5,000 (On-the-job training or apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印刷主管证书 | 省级行业协会 | 可选 | 非强制但有利 |
-| 工作场所安全认证 | 省级安全机构 | 必备 | 部分省份要求 |
+| Workplace safety certification | Provincial safety authority | Required | Required in some provinces |
+| Printing Supervisor Certificate | Provincial industry association | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 5,200。随着数字化替代，传统印刷需求放缓，但包装和特殊印刷仍有稳定需求，就业前景一般。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,200. With digital substitution, traditional printing demand slows down, but packaging and special printing still have stable demand; employment prospects are average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 助理主管或小规模企业 |
-| 中级（4-7年） | $55,000~$70,000 | 主管，中型企业 |
-| 高级（8年以上） | $70,000~$90,000 | 高级主管或生产经理 |
+| Median salary | $62,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Assistant supervisor or small-scale enterprise |
+| Mid-level (4-7 years) | $55,000~$70,000 | Manager, medium-sized enterprise |
+| Senior (8+ years) | $70,000~$90,000 | Senior supervisor or production manager |
+| average salary | $64,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从印刷技术员晋升为主管，再至生产经理或质量控制经理，需积累经验和管理技能。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Print workers face dual pressures from AI and automation: digital printing and quality inspection are increasingly automated, but creative color mixing, equipment maintenance, and client communication still rely on human experience, making career prospects mixed.
+
+Can progress from printing technician to supervisor, then to production manager or quality control manager, requiring experience and management skills.
+
+**Tasks most exposed to AI:**
+
+- Prepress file checking and format conversion (AI auto-layout)
+- Print quality visual inspection (computer vision automated QC)
+- Routine equipment fault diagnosis and reset (AI predictive maintenance)
+- Print order entry and scheduling (ERP system automation)
+
+**Where AI augments the role:**
+
+- Complex color management and color matching (assisted by AI color engine)
+- High-precision printing calibration and fine-tuning (AI algorithm recommends parameters)
+- Customized printing solution design (AI-generated templates and previews)
+- Equipment preventive maintenance plan development (AI predictive analysis)
+
+**Human moat:**
+
+- Process innovation for unconventional materials/surface printing (e.g., fabric, metal)
+- Client creative communication and customized requirement interpretation
+- Judging non-standard qualities of printed materials such as texture and gloss
+- Manual repair and debugging of old/non-standard equipment
+- On-site decision-making for coordinating multi-step processes (cutting, binding)
+
+**Skills to build:**
+
+- Digital printing workflow software (e.g., EFI Fiery).
+- Color management (spectrophotometer, ICC profiling)
+- AI Image Enhancement and Layout Tools (Adobe Sensei, Canva AI)
+- Predictive maintenance and IoT device monitoring
+- Customer communication and customized sales techniques
+- Learn industry-specific print automation systems (e.g., HP PrintOS)
+
+**Key growth areas:**
 
 - Packaging Printing
 - Digital Printing
@@ -61,65 +95,64 @@ Supervise workers in printing and related occupations, coordinate operations, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 通过FSW类别，需满足工作经验、语言等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有技工类提名，需雇主支持。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明本地招聘困难。 |
+| Subclass Express Entry (Federal Skilled Worker) | Through the FSW category, requires meeting work experience, language, and other requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have skilled trade nominations requiring employer support. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove local recruitment difficulty. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, printing and related occupations？**
-- 有印刷行业经验并希望晋升管理的人
-- 注重细节、善于协调和团队管理的人
-- 适应较快生产节奏的人
-
-**谁不适合学Supervisors, printing and related occupations？**
-- 对传统印刷行业前景担忧的人
-- 不喜欢监管他人或处理生产问题的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with printing industry experience seeking advancement into management
+- People who are detail-oriented, good at coordination, and team management
+- People who adapt to fast-paced production environments.
+
+**Who is not suited**
+- People concerned about the future of the traditional printing industry
+- People who dislike supervising others or dealing with production issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Printing Supervisor?**
+A: Entry level about CAD 45,000-55,000, mid-level 55,000-70,000, senior up to 70,000-90,000.
+
+**Q: Can a printing supervisor immigrate to Canada?**
+A: Yes, via Express Entry or PNP, but must meet language, work experience, and other requirements, and need employer support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, printing and related occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a printing supervisor?**
-答：Entry-level around CAD 45,000-55,000, mid-level CAD 55,000-70,000, senior up to CAD 70,000-90,000.
-
-**问：Can a printing supervisor immigrate to Canada?**
-答：Yes, via Express Entry or PNP, but requires language proficiency, work experience, and often employer sponsorship.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

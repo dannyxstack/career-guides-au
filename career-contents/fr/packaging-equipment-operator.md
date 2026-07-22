@@ -1,60 +1,96 @@
-# Packaging Equipment Operator（Packaging Equipment Operator）职业分析 · FR
+# Packaging Equipment Operator — career analysis · France
 
-**职业代码：H3301 – Packaging Equipment Operator。**
+**Occupation code: H3301 (ROME)**
 
-Operates and maintains packaging machinery (fillers, sealers, labelers) to ensure product packaging quality and efficiency, commonly in food, pharmaceutical, and chemical industries.
+Operate and maintain packaging machinery (such as filling machines, sealing machines, labeling machines) to ensure the quality and efficiency of product packaging. It is commonly found in industries such as food, pharmaceuticals, and chemicals.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BEP | 2年 | —（公立学校免费，仅注册费） |
-| BTS 工业自动化 | 2年 | —（公立学校免费，私立约3000欧元/年） |
+| CAP or BEP | 2 years | $0~$2,000 (Public schools are free, with only a registration fee) |
+| BTS Industrial Automation | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES 叉车证 | CNAM 或认证机构 | 可选 | 非强制，但雇主常要求 |
-| 电工操作证 | INRS | 可选 | 仅限涉及电气维护的岗位 |
+| CACES Forklift License | CNAM or certification body | Optional | Not mandatory, but employers often require it |
+| Electrician operation certificate | INRS | Optional | Only for positions involving electrical maintenance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。法国包装行业自动化程度较高，但操作员需求稳定，尤其在有经验的自动化设备操作员方面存在短缺。预计未来十年就业人数保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. The French packaging industry is highly automated, but operator demand remains stable, especially with a shortage of experienced automation equipment operators. Employment is expected to remain stable over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪 |
-| 高级（7年以上） | $34,000~$40,000 | 税前年薪，含技能奖金 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Senior (7+ years) | $34,000~$40,000 | Pre-tax annual salary, including skill bonuses |
+| average salary | $27,216 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为生产线组长、设备调试员或生产主管；也可通过培训成为自动化工程师。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Packaging and filling machine operators have repetitive tasks and fixed environments; AI and automation will significantly reduce positions, requiring low cognitive skills, with very high substitution risk.
+
+Promotion from junior operator to production line team leader, equipment commissioner, or production supervisor; You can also become an automation engineer through training.
+
+**Tasks most exposed to AI:**
+
+- Monitor conveyor belts and fill levels; AI vision systems automatically detect and adjust parameters
+- Operate buttons to start/stop machines, executed by automated control systems
+- Fill in production records; AI automatically collects and generates reports
+- Inspect packaging seals; AI visual inspection replaces manual checks
+- Handle simple faults like jammed bottles; robot or remote operator handles
+
+**Where AI augments the role:**
+
+- AI-assisted fault prediction for proactive maintenance reducing downtime
+- AI visualizes production line efficiency, optimizing operator scheduling
+- AI-guided parameter fine-tuning to improve packaging quality
+- AI-driven training simulations to accelerate onboarding
+- Voice assistant-assisted anomaly troubleshooting, reducing cognitive load
+
+**Human moat:**
+
+- Quick hands-on ability to handle atypical mechanical failures
+- Human judgment and safety handling during emergency line shutdowns
+- Coordinate complex issues with maintenance team via communication
+- Experiential perception of subtle material differences
+- Physical flexibility for fine adjustments in confined spaces
+
+**Skills to build:**
+
+- Basic knowledge of industrial control systems (PLC/DCS)
+- Operation and debugging of AI vision inspection systems
+- Python basic data analysis and report automation
+- Basic programming and maintenance of robotic arms
+- Interpretation of IoT production line sensor data
+- Basic electrical fault diagnosis and safety knowledge
+
+**Key growth areas:**
 
 - Automation
 - Packaging
@@ -63,63 +99,65 @@ Operates and maintains packaging machinery (fillers, sealers, labelers) to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，公司证明招聘不到本地人（紧缺职业放宽）。 |
+| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship; company must prove inability to hire locally (shortage occupations relaxed). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Packaging Equipment Operator？**
-- 喜欢动手操作设备、注重细节的人
-- 适应倒班工作、追求稳定就业的人
+**Who is suited**
+- People who enjoy hands-on equipment and pay attention to detail
+- People who adapt to shift work and pursue stable employment
 
-**谁不适合学Packaging Equipment Operator？**
-- 厌恶重复性体力劳动或噪音环境的人
-- 不擅长机械维护和基本故障排除的人
+**Who is not suited**
+- People who dislike repetitive physical labor or noisy environments
+- People who are not good at mechanical maintenance or basic troubleshooting
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary growth potential for packaging equipment operators?**
+A: Entry-level salary about €24,000-28,000, rising to €34,000-40,000 with experience, and up to €45,000+ as production supervisor.
+
+**Q: Can non-EU citizens immigrate to France through this occupation?**
+A: The difficulty is quite high. This occupation is not on France's Shortage Occupation List; employers must prove they cannot recruit local workers. Usually, only those with a French degree or EU citizenship are eligible.
+
+**Q: What are the career advancement opportunities?**
+A: You can be promoted from operator to team leader, production supervisor, equipment commissioner, or transfer through training to become an automation engineer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Packaging Equipment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for packaging equipment operators?**
-答：Entry-level salaries are around €24,000–€28,000; experienced operators can earn €34,000–€40,000, and production supervisors over €45,000.
-
-**问：Can non-EU nationals immigrate to France through this occupation?**
-答：It is difficult. The occupation is not on the shortage list; employers must prove inability to hire locally. Usually limited to French degree holders or EU citizens.
-
-**问：What are the career advancement opportunities?**
-答：Operators can become team leaders, production supervisors, equipment adjusters, or retrain as automation engineers.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Building Waterproofing System Installers（Building Waterproofing System Installers）职业分析 · ES
+# Building Waterproofing System Installers — career analysis · Spain
 
-**职业代码：7193 – Building Waterproofing System Installers。**
+**Occupation code: 7193 (CNO)**
 
-Install waterproofing membranes, coatings, and sealants in building structures to prevent water ingress. Common in roofs, basements, bathrooms, and bridges.
+Responsible for installing waterproof membranes, coatings, and sealing systems in building structures to prevent water infiltration. It is commonly found in rooftops, basements, bathrooms, and bridges.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立FP几乎免费，仅少量注册费） |
-| 岗位培训/学徒制 | 1-2年 | —（企业带薪培训或政府补贴课程） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$600 (Public FPs are almost free, with only a small registration fee) |
+| Job training/apprenticeship system | 1-2 years | $0~$1,000 (Paid corporate training or government-subsidized courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑与土木工程FP中级（FP Grado Medio en Construcción） | 教育部/自治区 | 可选 | 提供基础技能，非强制但优先 |
-| 高空作业安全证书 | 劳工部或授权培训机构 | 必备 | 屋顶防水必须，强制持有 |
+| Safety certificate for working at heights | The Ministry of Labor or authorized training institutions | Required | Roof waterproofing is mandatory and mandatory |
+| FP Intermediate in Architecture and Civil Engineering (FP Grado Medio en Construcción) | Ministry of Education/Autonomous Region | Optional | Basic skills are provided, not mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,500。西班牙建筑行业持续复苏，防水安装工需求稳定。受气候影响（如地中海暴雨），老建筑翻新及新基建项目提供长期就业机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,500. Spain's construction industry continues to recover, with stable demand for waterproofing installers. Climate impacts (such as Mediterranean rains), old building renovations, and new infrastructure projects provide long-term employment opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 起薪约18000-22000欧元 |
-| 中级（4-7年） | $22,000~$28,000 | 熟练工可达22000-28000欧元 |
-| 高级（8年以上/领班） | $28,000~$35,000 | 领班或项目经理年薪可达28000-35000欧元 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salary is about 18,000–22,000 euros |
+| Mid-level (4-7 years) | $22,000~$28,000 | Skilled workers can earn up to 22,000–28,000 euros |
+| Senior (8+ years/lead) | $28,000~$35,000 | Annual salaries for team leaders or project managers can reach 28,000–35,000 euros |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从工人晋升为领班或项目主管，具备经验后可成立小型防水公司。参加FP高级培训可转向建筑技术员或工程监理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Waterproofing system installers are experiencing mixed feelings due to AI: automated tools can replace inspection and material preparation, but tasks that rely on touch and experience, such as on-site construction and sealing, are difficult for AI to fully take over.
+
+You can be promoted from worker to foreman or project supervisor, and with experience, you can establish a small waterproofing company. Attending advanced FP training can lead to becoming a construction technician or engineering supervisor.
+
+**Tasks most exposed to AI:**
+
+- The automatic detection system replaces manual leak inspections and records defects
+- AI image recognition automatically analyzes the integrity of the waterproof layer and generates a report
+- Spraying robots replace manual application of waterproof coatings
+- Intelligent material cutting equipment replaces manual cutting of waterproof membranes
+
+**Where AI augments the role:**
+
+- AI-assisted waterproofing design recommends optimal materials and construction sequences based on building structures
+- Augmented reality (AR) guides precise positioning of anchorage points and overlap locations
+- Computer simulations predict long-term waterproofing performance, helping to avoid design defects in advance
+- Smart tools provide real-time feedback, improving coating uniformity and thickness control
+- BIM integration automatically generates material lists, reducing human calculation errors
+
+**Human moat:**
+
+- On-site cutting and sealing of complex nodes (inside and outside corners, pipe openings).
+- Flexible response and decision-making for abnormal conditions such as dampness and unevenness at the grassroots level
+- Detailed treatment and quality control at multi-material overlap joints
+- Adherence to safety construction standards and emergency judgment in emergencies
+- Coordinate and communicate with the client on-site and fine-tune the construction plan
+
+**Skills to build:**
+
+- Skills in operating automated spraying equipment and intelligent inspection systems
+- Use of BIM model reading and waterproof node simulation software
+- Basic data analysis skills (interpreting test reports and quality statistics)
+- Knowledge of Waterproof Material Performance (especially new polymer materials)
+- Drone inspection and thermal imaging leak location technology
+- Continuous learning ability and problem-solving mindset (handling non-standard working conditions)
+
+**Key growth areas:**
 
 - Infrastructure renewal
 - Climate resilience
@@ -63,68 +98,67 @@ Install waterproofing membranes, coatings, and sealants in building structures t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需要西班牙雇主提供工作合同，并经劳工市场测试（Solicitud de Autorización de Residencia por Trabajo por Cuenta Ajena）。非紧缺职业，获批难度中等。 |
-| Subclass Busqueda empleo（Job-Seeker Visa） | 允许在西班牙停留6个月寻找工作，但需证明足够经济能力。找到工作后可转为工作居留。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer must be provided and tested by the labor market (Solicitud de Autorización de Residencia por Trabajo por Cuenta Ajena). Non-urgently needed occupations, with moderate approval difficulty. |
+| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6 months looking for work, but you must prove sufficient financial means. After finding a job, you can switch to work-based residence. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Waterproofing System Installers？**
-- 动手能力强，喜欢户外和体力活动者
-- 注重安全规范，能适应高空作业环境
-- 愿意通过职业培训快速进入劳动力市场
-
-**谁不适合学Building Waterproofing System Installers？**
-- 畏高或无法适应恶劣天气条件
-- 追求高薪或白领工作环境
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoys outdoor activities and physical activities
+- Emphasizing safety standards and adapting to high-altitude work environments
+- Willing to quickly enter the labor market through vocational training
+
+**Who is not suited**
+- Fear of heights or inability to adapt to harsh weather conditions
+- Pursue high-paying or white-collar work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for waterproofing installers in Spain?**
+A: Entry-level approx EUR 18,000-22,000, mid-level EUR 22,000-28,000, senior foreman up to EUR 35,000. Salary below construction industry average, but overtime and bonuses can increase income.
+
+**Q: How can foreigners immigrate to Spain through waterproofing installers?**
+A: You must first obtain a work contract from a Spanish employer and apply for employment residence (Cuenta ajena). Since this occupation is not in short supply, it must be proven through labor market testing that the position cannot be filled by locals. You can also apply for a job-seeking visa (Busqueda empleo) first, then switch after finding a job.
+
+**Q: What educational qualifications are required to become a waterproof installer?**
+A: Usually requires completion of FP Grado Medio (2 years of vocational training) or corporate apprenticeship. Safety certificates (such as those for working at heights) are mandatory. No university degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Building Waterproofing System Installers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for waterproofing installers in Spain?**
-答：Entry-level around €18,000–€22,000; mid-level €22,000–€28,000; senior foreman up to €35,000. Below construction average, but overtime and bonuses can increase income.
-
-**问：How can a foreigner immigrate to Spain as a waterproofing installer?**
-答：Obtain a job offer from a Spanish employer and apply for an employed work permit (Cuenta ajena). As it is not a shortage occupation, a labor market test is required. Alternatively, enter on a job-seeker visa and convert once employed.
-
-**问：What education is required to become a waterproofing installer?**
-答：Typically a 2-year FP Grado Medio (vocational training) or an apprenticeship. Safety certificates (e.g., working at height) are mandatory. No university degree needed.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

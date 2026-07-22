@@ -1,60 +1,96 @@
-# Hunter and Trapper（Hunter and Trapper）职业分析 · IE
+# Hunter and Trapper — career analysis · Ireland
 
-**职业代码：6224 – Hunter and Trapper。**
+**Occupation code: 6224 (ISCO08)**
 
-Hunters and trappers capture, kill, and trap wild animals for fur, meat, or population control, primarily active in rural and remote areas of Ireland.
+Hunters and trappers capture, kill, and trap wild animals for fur, meat, or population control, primarily in rural and remote areas of Ireland.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式学历 | —（通常通过实践学习，无学费） |
-| 短期培训课程 | 数周至数月 | $500~$2,000（涉及野生动物管理、安全培训等） |
+| High school graduation | No formal education required | $0~$0 (Usually learned through hands-on practice, no tuition fees) |
+| Short-term training course | A few weeks to several months | $500~$2,000 (Involves wildlife management, safety training, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 枪支执照 | 爱尔兰警察（An Garda Síochána） | 必备 | 合法持有猎枪所需 |
-| 捕猎许可证 | 国家公园和野生动物服务局 | 必备 | 特定物种和地区捕猎所需 |
+| Firearms license | Garda Síochána (Irish police force) | Required | Required for legal possession of a shotgun |
+| Hunting license | National Parks and Wildlife Service | Required | Required for hunting specific species and regions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰狩猎业规模较小且稳定，受野生动物管理和传统活动驱动。就业机会有限，多为自雇或季节性工作，未来需求受环保法规和公众态度影响。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. Ireland's hunting industry is small and stable, driven by wildlife management and traditional activities. Employment opportunities are limited, mostly self-employed or seasonal; future demand is influenced by environmental regulations and public attitudes.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 多为兼职或季节性收入 |
-| 中级（3-10年） | $25,000~$35,000 | 部分从业者可全职 |
-| 高级（10年以上） | $35,000~$50,000 | 包括导游或自营业务 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Mostly part-time or seasonal income |
+| Intermediate (3-10 years) | $25,000~$35,000 | Some practitioners can work full-time |
+| Senior (10+ years) | $35,000~$50,000 | Including tour guide or self-operated business |
+| average salary | $30,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从业者通常从学徒或家族传承起步，可发展为狩猎导游或野生动物管理顾问。晋升路径有限，但经验丰富者可创立小型企业或参与保育项目。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The overall impact of AI and automation on hunter-gatherers is compression: drones and sensors reduce the need for manual tracking and patrols, but the unpredictability of field environments limits full replacement.
+
+Practitioners typically start as apprentices or through family tradition, and can progress to hunting guides or wildlife management consultants. Advancement paths are limited, but experienced individuals can start small businesses or participate in conservation projects.
+
+**Tasks most exposed to AI:**
+
+- Using drones for aerial patrols and animal monitoring
+- Triggering and monitoring of automated trapping devices (smart traps)
+- GPS and sensor-based prediction of animal activity patterns
+- Remote monitoring systems replace manual inspection of field sites.
+- Automated data processing and report generation
+
+**Where AI augments the role:**
+
+- Use AI to analyse terrain and weather data to optimise hunting routes
+- Predicts population density and migration routes using machine learning models.
+- Use smart cameras and recognition software to improve target identification accuracy
+- Combining GIS and AI to plan sustainable hunting areas
+- AI-assisted formulation of population control strategies to reduce ecological impact
+
+**Human moat:**
+
+- Conduct field operations in rugged terrain
+- Deep understanding of wildlife behavior and ecology
+- Improvisational decision-making and adaptability in emergency situations
+- Proficiency with traditional tools (e.g., traps, shotguns)
+- Interpersonal coordination with local communities and landowners
+
+**Skills to build:**
+
+- Learning drone operation and maintenance
+- Proficiency in GPS/GIS and remote sensing data analysis
+- Using AI tools for wildlife tracking and identification
+- Acquire data science fundamentals to analyze ecological data
+- develop customer service and sustainable hunting management knowledge
+- Learn photography/videography skills to enhance monitoring reports
+
+**Key growth areas:**
 
 - wildlife management
 - conservation
@@ -63,62 +99,64 @@ Hunters and trappers capture, kill, and trap wild animals for fur, meat, or popu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非稀缺职业，需雇主担保，但猎人职位极少提供担保。 |
-| Subclass EU/EEA Freedom of Mo（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可在爱尔兰自由工作，无需额外签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations requiring employer sponsorship, but hunter positions rarely offer sponsorship. |
+| Subclass EU/EEA Freedom of Mo (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely in Ireland without an additional visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hunter and Trapper？**
-- 热爱户外和野生动物
-- 独立工作能力强
-- 传统手工艺和狩猎技能兴趣者
+**Who is suited**
+- Passionate about the outdoors and wildlife
+- Strong ability to work independently
+- Those interested in traditional crafts and hunting skills
 
-**谁不适合学Hunter and Trapper？**
-- 寻求稳定高收入者
-- 反对动物捕猎者
+**Who is not suited**
+- Seeking stable high-income earners
+- Opposes animal hunters
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do hunters earn?**
+A: Income fluctuates significantly; junior practitioners earn about €15,000–€25,000 per year, while senior or those with tour guide services may earn €35,000–€50,000.
+
+**Q: Can non-EU citizens immigrate to Ireland through occupation in demand?**
+A: Almost impossible. The occupation is not on the shortage list, employer sponsorship is extremely rare, and the self-employment pathway makes it difficult to obtain work authorization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hunter and Trapper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a hunter?**
-答：Income varies; entry-level earns €15,000-€25,000 per year, while experienced or guiding roles may reach €35,000-€50,000.
-
-**问：Can non-EU citizens immigrate to Ireland as a hunter?**
-答：Highly unlikely. The occupation is not on the shortage list, employer sponsorship is rare, and self-employment routes are challenging for permits.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

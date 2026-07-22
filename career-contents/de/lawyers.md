@@ -1,61 +1,97 @@
-# Lawyers（Lawyers）职业分析 · DE
+# Lawyers — career analysis · Germany
 
-**职业代码：7313 – Lawyers。**
+**Occupation code: 7313 (KldB)**
 
-Lawyers provide legal advice, draft legal documents, and represent clients in court; a highly regulated profession in Germany.
+Lawyers provide legal advice, draft legal documents, and represent clients in court for individuals or businesses; it is a highly regulated profession in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学法学本科 | 4年 | —（公立大学免学费，仅含生活费） |
-| 法律文官实习（Referendariat） | 2年 | —（有实习工资） |
+| Bachelor of Laws | 4 years | $0~$30,000 (Public universities are tuition-free, covering only living expenses) |
+| Legal clerkship (Referendariat) | 2 years | $0~$0 (Interns receive a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 第一次国家考试 | 各州司法考试委员会 | 必备 | 大学毕业后参加，通过后方能进入实习期 |
-| 第二次国家考试 | 各州司法考试委员会 | 必备 | 实习期结束后参加，通过后方可执业 |
-| 专业律师资格（Fachanwalt） | 德国律师协会 | 可选 | 可选，需额外培训和考试 |
+| First State Examination (Staatsexamen). | State Judicial Examination Committees | Required | Take after graduating from university, can only enter internship period after passing. |
+| Second state examination | State Judicial Examination Committees | Required | Take after probation period; can practice only after passing |
+| Professional lawyer qualification (Fachanwalt) | German Bar Association | Optional | Optional, requiring additional training and exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 170,000。德国法律服务需求稳定，经济法、公司法领域增长较快，但律师数量过剩，竞争激烈；高端领域如国际商法、知识产权仍有缺口。
+**Job demand: medium (★★½☆☆).** National workforce approx. 170,000. Demand for legal services in Germany is stable, with faster growth in economic law and corporate law, but an oversupply of lawyers leads to fierce competition; high-end fields like international commercial law and intellectual property still have gaps.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 受雇于律所，税前年薪 |
-| 中级（3-8年） | $60,000~$90,000 | 有经验律师 |
-| 高级（8年以上） | $90,000~$150,000 | 资深律师或合伙人 |
+| Median salary | $73,584 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Employed by a law firm, pre-tax annual salary |
+| Mid-level (3–8 years) | $60,000~$90,000 | Experienced Lawyer |
+| Senior (8+ years) | $90,000~$150,000 | Senior Lawyer or Partner |
+| average salary | $82,860 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从律师助理（Referendar）开始，通过第二次国家考试后可成为律师（Rechtsanwalt）；之后可晋升为专业律师（Fachanwalt）、合伙人或进入司法系统。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+Typically start as a trainee lawyer (Referendar), become a lawyer (Rechtsanwalt) after passing the second state exam; then can advance to specialist lawyer (Fachanwalt), partner, or enter the judiciary.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - legal tech
 - corporate law
@@ -64,66 +100,65 @@ Lawyers provide legal advice, draft legal documents, and represent clients in co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需有德国认可的法律学位，年薪至少约58,400欧元（2024），适合高薪职位。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需学历认证及语言要求，律所雇主担保。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月求职，但需证明经济能力，且法律领域求职难度大。 |
+| Subclass EU Blue Card (EU Blue Card) | Need a recognized law degree in Germany; annual salary of at least approximately €58,400 (2024), suitable for high-paying positions. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires credential evaluation and language requirements, with law firm employer sponsorship. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months of job seeking in Germany, but need to prove financial capacity, and job hunting in the legal field is difficult. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lawyers？**
-- 法律专业毕业生
-- 具备德语C1以上水平者
-- 适应高强度工作压力者
-
-**谁不适合学Lawyers？**
-- 不擅长沟通与辩论者
-- 抗压能力较差者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Law graduates
+- Proficient in German at C1 level or above
+- Suitable for those who can handle high-intensity work pressure
+
+**Who is not suited**
+- Those not skilled in communication and debate
+- Those with poor stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a lawyer in Germany?**
+A: Employed lawyers average annual salary approx. EUR 70-90,000, partners up to EUR 150,000+, but junior lawyers approx. EUR 45-60,000.
+
+**Q: Can foreign lawyers immigrate to practice in Germany?**
+A: Yes, but through qualification recognition, foreign law degree recognized then take two national exams, extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Lawyers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a lawyer in Germany?**
-答：Employed lawyers average €70,000-€90,000; partners can earn over €150,000; entry-level around €45,000-€60,000.
-
-**问：Can foreign lawyers migrate to practice in Germany?**
-答：Yes, but requires recognition of foreign degree, then both state exams; very difficult.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

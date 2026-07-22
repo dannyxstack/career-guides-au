@@ -1,60 +1,93 @@
-# Personal Services Worker（Personal Services Worker）职业分析 · IT
+# Personal Services Worker — career analysis · Italy
 
-**职业代码：5169 – Personal Services Worker。**
+**Occupation code: 5169 (ISCO08)**
 
-Provides personal services such as beauty, fitness, entertainment, and tourism guidance, not elsewhere classified.
+Provide personal services in beauty, health, entertainment, etc., such as beauticians, fitness instructors, tour guides, not specifically classified elsewhere.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1-2年 | $1,000~$5,000（地区职业培训中心费用） |
-| 高中文凭 | 3年 | —（公立学校免费） |
+| Vocational training | 1-2 years | $1,000~$5,000 (Regional vocational training center fees) |
+| High school diploma | 3 years | $0~$500 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业执照（如美容师执照） | 地区卫生局或行业协会 | 必备 | 部分地区要求注册 |
-| 急救证书 | 意大利红十字会 | 可选 | 推荐获取 |
+| Professional license (e.g., beautician license) | Regional health authorities or industry associations | Required | Registration required in certain regions |
+| First aid certificate | Italian Red Cross | Optional | Recommended to obtain |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。意大利个人服务业就业稳定，受旅游和本地消费驱动，但增长缓慢，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Employment in the Italian personal services sector is stable, driven by tourism and local consumption, but growth is slow, and competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$40,000 | 税前年薪，含自雇收入 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$40,000 | Annual pre-tax salary, including self-employment income |
+| average salary | $27,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级从业者晋升为高级技师或自主创业，开设个人工作室或成为团队主管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Personal service workers (not elsewhere classified) have mixed overall risk: some standardized services (e.g., beauty care) are easily replaced by automation, but core tasks like emotional interaction and personalized customization are hard to replace; AI tools can assist in improving efficiency and experience.
+
+Can progress from entry-level to senior technician or start their own business, opening a personal studio or becoming a team leader.
+
+**Tasks most exposed to AI:**
+
+- Template-based skincare/makeup routine design
+- Real-time monitoring and correction of fitness movements
+- Automatic generation of audio guides for tourist attractions
+- Automated responses for simple customer inquiries (e.g., business hours, prices)
+
+**Where AI augments the role:**
+
+- AI analyzes customer skin data and recommends personalized skincare plans
+- AI generates customized fitness plans, provides real-time feedback on exercise quality
+- AI plans travel routes, provides real-time translation and cultural explanations
+- AI-assisted hair styling or makeup virtual preview
+
+**Human moat:**
+
+- Building emotional trust and long-term client relationships
+- Handling unexpected situations (e.g., client health issues, on-site complaints).
+- Provide creative, personalized services (such as special styling/design)
+- Cross-cultural communication and empathy
+
+**Skills to build:**
+
+- AI tool usage (e.g., skin analysis software, AI fitness coach platforms)
+- Data analysis basics (customer preferences, service effect tracking)
+- Digital content creation (e.g., AI-assisted beauty tutorial videos)
+- Advanced communication and emotional management skills.
+- Personalized service customization capabilities
+- Interdisciplinary knowledge (e.g., basics of nutrition and psychology)
+
+**Key growth areas:**
 
 - tourism demand
 - wellness trends
@@ -63,62 +96,64 @@ Provides personal services such as beauty, fitness, entertainment, and tourism g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，年度配额有限。 |
-| Subclass 自雇签证（Self-Employment Visa） | 适用于计划在意大利开办个人服务业务的自雇人士，需提供商业计划。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requires employer sponsorship, with limited annual quota. |
+| Subclass Self-employed Visa (Self-Employment Visa) | For self-employed individuals planning to start a personal service business in Italy, requires a business plan. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Services Worker？**
-- 善于沟通、服务意识强的人
-- 喜欢灵活工作时间和自主安排的人
-- 有美容、健身等专业技能的人
+**Who is suited**
+- People with good communication and strong service orientation
+- People who enjoy flexible working hours and self-scheduling
+- Individuals with professional skills in beauty, fitness, etc.
 
-**谁不适合学Personal Services Worker？**
-- 不适应不稳定收入的人
-- 不喜欢与客户直接互动的人
+**Who is not suited**
+- Not suitable for those with unstable income
+- People who dislike direct interaction with clients
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do Italian personal service workers earn?**
+A: Starting annual salary about €18,000-€24,000, senior up to €30,000-€40,000; self-employment income varies greatly.
+
+**Q: How can non-EU citizens obtain a personal service work visa in Italy?**
+A: Available via Decreto Flussi work visa or self-employment visa, requiring employer sponsorship or a business plan with limited quotas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Personal Services Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of personal services workers in Italy?**
-答：Entry-level salary is around €18,000-24,000 per year, senior up to €30,000-40,000, self-employed income varies.
-
-**问：How can non-EU citizens obtain a visa for personal services work in Italy?**
-答：Through Decreto Flussi work visa or self-employment visa, requiring employer sponsorship or a business plan with limited quotas.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

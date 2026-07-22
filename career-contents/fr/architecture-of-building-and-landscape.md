@@ -1,64 +1,97 @@
-# Architecture of Building and Landscape（Architecture of Building and Landscape）职业分析 · FR
+# Architecture of Building and Landscape — career analysis · France
 
-**职业代码：F1101 – Architecture of Building and Landscape。**
+**Occupation code: F1101 (ROME)**
 
-Architects of building and landscape design and oversee construction projects and outdoor spaces, integrating aesthetics, functionality, and environmental sustainability. In France, this role covers the entire process from initial concept to construction management.
+Architectural and landscape designers are responsible for planning, designing, and overseeing architectural projects and outdoor spaces, integrating aesthetics, functionality, and environmental sustainability. In France, this profession covers the entire process from initial concept to construction management.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/BUT | 2年（BTS）或3年（BUT） | $2,000~$8,000（公立学校学费，私校更高） |
-| Licence | 3年（Licence） | $200~$5,000（公立大学学费低） |
-| Master / Diplôme d'Architecte | 5年（Diplôme d'Architecte） | $250~$10,000（公立私立差距大，含ENSAP学费） |
-| Apprentissage | 2-3年 | —（学徒制免学费并有工资） |
+| BTS/BUT | 2 years (BTS) or 3 years (BUT) | $2,000~$8,000 (Public school tuition is higher, while private schools are higher) |
+| Licence | 3 years (Licence) | $200~$5,000 (Public university tuition is low) |
+| Master / Diplôme d'Architecte | 5 years (Diplôme d'Architecte) | $250~$10,000 (There is a large gap between public and private schools, including ENSAP tuition) |
+| Apprentissage | 2-3 years | $0~$5,000 (Apprenticeships are tuition-free and provide wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑师文凭（DEA / DPLG） | 法国国家建筑学院（ENSA） | 必备 | 法国注册建筑师的必备文凭，需完成5年学习 |
-| 建筑师注册（HMONP） | 法国建筑师协会（Ordre des Architectes） | 必备 | 拥有个人执业资质，必须注册 |
-| BIM认证 | 各种认证机构 | 可选 | 非强制，但提升竞争力 |
-| 景观设计师资格认证 | 法国景观设计师协会（FFP） | 可选 | 自愿认证，提高专业认可 |
+| Diploma in Architect (DEA / DPLG) | French National School of Architecture (ENSA) | Required | A mandatory diploma for French registered architects requires five years of study |
+| Architect Registration (HMONP) | French Association of Architects (Ordre des Architectes) | Required | Possess personal practice qualifications and must register |
+| BIM certification | Various certification bodies | Optional | Not mandatory, but enhances competitiveness |
+| Landscape designer qualification certification | French Association of Landscape Architects (FFP) | Optional | Voluntary certification to enhance professional recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 46,000。法国建筑与景观设计领域就业前景稳定，受绿色建筑和城市更新项目推动。数字化转型要求掌握BIM技术，但市场竞争激烈，需持续提升技能。
+**Job demand: medium (★★½☆☆).** National workforce approx. 46,000. Employment prospects in France's architecture and landscape design sector are stable, driven by green building and urban renewal projects. Digital transformation requires mastering BIM technology, but market competition is fierce, requiring continuous skill improvement.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$34,000 | 税前年薪，视公司和地区而定 |
-| 中级（4-8年） | $35,000~$48,000 | 责任增加，项目管理角色 |
-| 高级（9年以上） | $50,000~$75,000 | 设计总监或合伙人级别 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$34,000 | Pre-tax annual salary depends on the company and region |
+| Mid-level (4–8 years) | $35,000~$48,000 | Increased responsibilities, project management roles |
+| Senior (9+ years) | $50,000~$75,000 | Design Director or Partner level |
+| average salary | $42,384 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：初级设计师 → 项目建筑师 → 设计总监或合伙人。可向城市规划、可持续设计或项目管理方向深化。法国建筑师需注册于建筑师协会（Ordre des Architectes）。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Career development paths: Junior Designer → Project Architect → Design Director or Partner. It can deepen into urban planning, sustainable design, or project management. French architects must be registered with the Ordre des Architectes.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - BIM
 - Sustainable design
@@ -67,70 +100,69 @@ Architects of building and landscape design and oversee construction projects an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合高技能人才，需年薪达到约53,000欧元（2023年门槛），工作合同至少1年 |
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家、科学家等高素质人才，需证明专业成就，无薪资硬性门槛 |
-| Subclass Salarié（Employee Work Permit） | 普通工作居留，需雇主担保，受劳动力市场测试影响，薪资不低于SMIC |
-| Subclass Recherche emploi（Job Search Permit） | 毕业后允许在法国寻找工作，有效期12个月，不可续签 |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled talent, requiring an annual salary of about 53,000 euros (2023 threshold) and a work contract of at least one year |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-quality talents such as artists and scientists, requiring proof of professional achievements, with no hard salary threshold |
+| Subclass Salarié (Employee Work Permit) | Ordinary work residence requires employer sponsorship, subject to labor market testing, salary not below SMIC |
+| Subclass Recherche emploi (Job Search Permit) | After graduation, you are allowed to look for work in France for a period of 12 months, with no renewal |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architecture of Building and Landscape？**
-- 拥有创意设计思维和对建筑、景观热爱的艺术型人才
-- 具备良好空间感知和项目管理能力的实干者
-- 愿意接受长期教育和专业认证挑战的长期主义者
-
-**谁不适合学Architecture of Building and Landscape？**
-- 不喜欢复杂法规和严格资质要求的人
-- 对高强度工作和市场竞争压力敏感者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Artistic talents with creative design thinking and a passion for architecture and landscape
+- Practical practitioners with good spatial awareness and project management skills
+- Long-termists willing to take on long-term education and professional certification challenges
+
+**Who is not suited**
+- People who dislike complicated regulations and strict qualification requirements
+- Sensitive to high-intensity work and market competition pressures
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for architects and landscape designers in France?**
+A: Junior designer annual salary approximately €26,000-34,000, experienced designer €35,000-48,000, senior designer or partner €50,000-75,000.
+
+**Q: How can foreign architects immigrate to France?**
+A: Must have a degree certified by the French Institute of Architects or be registered as an architect. You can apply for the EU Blue Card (Carte bleue UE) or the Passeport Talent Passport, but the market is highly competitive for foreign architects.
+
+**Q: What are the career prospects for architecture and landscape design?**
+A: Employment is stable driven by green building and urban renewal projects. Digital transformation requires mastering technologies like BIM, and continuous learning is recommended to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Architecture of Building and Landscape为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for architects in France?**
-答：Entry-level architects earn €26,000-34,000 per year, experienced architects earn €35,000-48,000, and senior architects or partners earn €50,000-75,000.
-
-**问：How can foreign architects immigrate to France?**
-答：You need to have your qualifications recognized by the French Order of Architects or register as an architect. You can apply for the EU Blue Card or Talent Passport, but the market is competitive for foreign architects.
-
-**问：What are the career prospects for building and landscape architecture?**
-答：Driven by green building and urban renewal projects, employment is stable. Digital transformation requires mastering technologies such as BIM; continuous learning is recommended to stay competitive.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

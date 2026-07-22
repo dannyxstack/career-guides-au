@@ -1,59 +1,95 @@
-# Automation Design and Study Technician（Automation Design and Study Technician）职业分析 · FR
+# Automation Design and Study Technician — career analysis · France
 
-**职业代码：H1208 – Automation Design and Study Technician。**
+**Occupation code: H1208 (ROME)**
 
-Designs and studies industrial automation systems, including control circuits, PLCs, and industrial networks for manufacturing and process industries.
+Responsible for the design, research, and technical implementation of industrial automation systems, including control circuits, programmable logic controllers (PLCs), and industrial networks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2（BTS或DUT） | 2年 | $500~$8,000（公立院校低学费，私立或学徒制可能更高） |
-| BAC+3（ Licence Professionnelle） | 1年（BTS后） | $500~$10,000（公立大学低学费，学徒制有补贴） |
+| BAC+2 (BTS or DUT) | 2 years | $500~$8,000 (Public institutions offer lower tuition fees, while private or apprenticeship programs may offer higher fees) |
+| BAC+3（ Licence Professionnelle） | 1 year (after BTS) | $500~$10,000 (Public universities offer low tuition fees and subsidies for apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自动化BTS或DUT文凭 | 法国教育部 | 必备 | 行业基础要求 |
-| 电工认证（Habilitation électrique） | INRS | 必备 | 工作必备安全认证 |
-| PLC厂商认证（如西门子、施耐德） | 各厂商 | 可选 | 非强制但提升竞争力 |
+| Automation BTS or DUT diploma | French Ministry of Education | Required | Industry Foundation Requirements |
+| Electrical Certification (Habilitation électrique) | INRS | Required | Essential safety certification for work |
+| PLC Manufacturer Certification (such as Siemens, Schneider) | All manufacturers | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国工业数字化转型推动自动化需求，该职业在制造业、能源、汽车等领域持续紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The digital transformation of France's industry is driving demand for automation, with this profession remaining in short supply in manufacturing, energy, automotive, and other sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视地区和企业规模 |
-| 中级（4-7年） | $35,000~$45,000 | 包含有经验和专项技能 |
-| 高级（8年以上） | $45,000~$60,000 | 管理或专家职位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, depending on region and company size |
+| Mid-level (4-7 years) | $35,000~$45,000 | Includes experience and specialized skills |
+| Senior (8+ years) | $45,000~$60,000 | Management or specialist positions |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为自动化项目主管、系统架构师，或转向工业4.0咨询与集成。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Automation design and research technician positions have been significantly enhanced by AI, but some core design tasks face automation risks. The entry threshold has risen, requiring mastery of AI tools, while physical debugging and system integration remain solid.
+
+You can be promoted to automation project lead, system architect, or transition to Industry 4.0 consulting and integration.
+
+**Tasks most exposed to AI:**
+
+- Template-based PLC program writing (such as jog, loop logic)
+- Schematic drawing of the basic control circuit
+- Standard code checks in automated system fault diagnosis
+- Industrial network parameter configuration (such as IP address allocation)
+- Automated document generation (such as I/O lists and wiring lists)
+
+**Where AI augments the role:**
+
+- Simulation testing and optimization of complex systems (AI simulates multiple scenarios)
+- AI-driven predictive maintenance strategy design
+- Intelligent interaction design for human-machine interface (HMI).
+- Multi-source sensor data fusion and analysis
+- Automated system security risk assessment (AI-assisted vulnerability identification)
+
+**Human moat:**
+
+- Physical perception in cross-system integration and on-site commissioning
+- Design and modification of non-standard automation equipment
+- Communicate and coordinate with customers and production line operators regarding their needs
+- Safety compliance judgments and ethical decisions (such as machine safety standards)
+- Creatively solve unforeseen engineering problems
+
+**Skills to build:**
+
+- AI-assisted design tools (such as Copilot, which automatically generates PLC code)
+- Digital twins and system simulation software (such as Unity, Simulink)
+- Industrial Internet of Things (IIoT) and Edge Computing Fundamentals
+- Python/R is used for data analysis and model integration
+- Advanced Robotics Programming (such as ROS 2)
+- Cybersecurity Fundamentals (Industrial OT Security in Industrial Environments)
+
+**Key growth areas:**
 
 - Industry 4.0
 - PLC Programming
@@ -62,68 +98,67 @@ Designs and studies industrial automation systems, including control circuits, P
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高等学历，年薪需达阈值（约53k€） |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，要求硕士以上学历或高薪（约42k€+） |
-| Subclass Salarié（Employee Visa） | 雇主担保，需通过法国劳动局审批 |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to higher education holders, annual salary must meet the threshold (about €53k) |
+| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requiring master's degree or higher or high salary (approx. €42k+) |
+| Subclass Salarié (Employee Visa) | Employer sponsorship, which must be approved by the French Labor Department |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automation Design and Study Technician？**
-- 喜欢解决工业自动化技术问题的人
-- 具备电气和编程双重技能者
-- 适应生产现场环境者
-
-**谁不适合学Automation Design and Study Technician？**
-- 不喜出差或现场调试者
-- 缺乏逻辑思维和耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving industrial automation technology problems
+- Possess both electrical and programming skills
+- Those who are adapted to the production site environment
+
+**Who is not suited**
+- Those who dislike business trips or on-site debugging
+- Lack of logical thinking and patience
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for automation design technicians in France?**
+A: Starting salaries for fresh graduates are about 28k-35k euros per year (before tax), depending on the region and company size.
+
+**Q: How can Chinese nationals immigrate to France through this profession?**
+A: You can obtain the EU Blue Card (annual salary about €53k) or talent passport (annual salary about €42k + master's degree). Employer sponsorship is key.
+
+**Q: How is overseas education recognized in France?**
+A: Academic credentials must be verified through ENIC-NARIC, proving they are equivalent to French BTS or Licence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Automation Design and Study Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for an automation design technician in France?**
-答：Starting salary for graduates is about €28,000-€35,000 per year (gross), depending on region and company size.
-
-**问：How can Chinese nationals immigrate to France through this occupation?**
-答：Via EU Blue Card (requires salary ~€53k) or Talent Passport (salary ~€42k+ master's degree). Employer sponsorship is essential.
-
-**问：How are foreign qualifications recognized in France?**
-答：Requires ENIC-NARIC evaluation to prove equivalence to French BTS or Licence.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

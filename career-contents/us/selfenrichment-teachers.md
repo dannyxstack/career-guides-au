@@ -1,60 +1,93 @@
-# Self-Enrichment Teachers（Self-Enrichment Teachers）职业分析 · 美国
+# Self-Enrichment Teachers — career analysis · United States
 
-**职业代码：25-3021 – Self-Enrichment Teachers。**
+**Occupation code: 25-3021 (SOC)**
 
-Teach or instruct individuals or groups for self-enrichment or recreation, such as arts, music, languages, cooking, without occupational or academic objectives.
+Teaches personal interest or leisure skills for non-vocational purposes, such as art, music, language, cooking, etc., aimed at enriching life rather than obtaining a degree or qualification.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无固定期限 | —（部分岗位仅需高中学历及技能） |
-| 行业认证 | 数月至1年 | $500~$5,000（如瑜伽教练、烹饪证书等） |
+| High school diploma | No fixed term | $0~$0 (Some positions only require high school diploma and skills) |
+| Industry certifications | Several months to 1 year | $500~$5,000 (Such as yoga instructor, cooking certificate, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学技能 | 雇主或行业协会 | 可选 | 通常需要演示教学能力 |
-| 特定领域认证 | 相关协会 | 可选 | 如瑜伽联盟认证 |
+| Teaching skills | Employer or industry association | Optional | Usually requires demonstrating teaching ability |
+| Specific area certification | Relevant associations | Optional | e.g., Yoga Alliance certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 128,000。美国就业增速与平均水平持平，受终身学习和休闲需求驱动。兼职岗位多，全职机会有限，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 128,000. US employment growth rate is about average, driven by lifelong learning and leisure demand. Many part-time jobs, limited full-time opportunities, moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$35,000 | 兼职时薪，年收入取决于课时 |
-| 中级（3-7年） | $35,000~$50,000 | 全职或稳定兼职 |
-| 高级（7年以上） | $50,000~$75,000 | 资深教师或课程主管 |
+| Median salary | $46,800 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $23,000~$35,000 | Part-time hourly rate, annual income depends on teaching hours |
+| Mid-level (3–7 years) | $35,000~$50,000 | Full-time or stable part-time |
+| Senior (7+ years) | $50,000~$75,000 | Senior teacher or curriculum supervisor |
+| average salary | $54,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从兼职教师晋升为课程主管或项目协调员，部分转向成人教育管理或创办自己的培训工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Self-enrichment teachers face a medium risk of AI replacement: standardized content (e.g., basic language, music theory) is easily automated, but personalized interaction, creative inspiration, and emotional support are core moats. Overall, it's a mixed outlook, with entry-level roles shrinking due to AI tools.
+
+Can progress from part-time teacher to curriculum coordinator or program coordinator, some move into adult education management or start their own training studio.
+
+**Tasks most exposed to AI:**
+
+- Basic language vocabulary and grammar instruction (e.g., AI voice assistant replaces pronunciation correction)
+- Music theory and instrument fingering demonstrations (e.g., interactive exercises on AI teaching software)
+- Standardized teaching of cooking steps (e.g., video tutorials and AI recipes replacing demonstrations).
+- Repetitive painting technique demonstrations (e.g., AI-generated original art for copying)
+
+**Where AI augments the role:**
+
+- AI-assisted personalized learning path design (analyzing student progress and recommending exercises)
+- AI generates creative asset library (e.g., painting style references, music accompaniments)
+- AI-powered after-class exercise and feedback system (automatically grades assignments and provides improvement suggestions)
+- AI simulated scenario practice (e.g., language conversation bots, cooking virtual simulation)
+
+**Human moat:**
+
+- Real-time emotional interaction and psychological support (encouragement, stimulating learning motivation)
+- Creative curriculum design and real-time adaptation (to suit different student styles)
+- Non-verbal communication and atmosphere building (classroom humor, charisma)
+- Deep understanding of cultural and social backgrounds (e.g., artistic traditions of specific ethnic groups)
+
+**Skills to build:**
+
+- Use of AI teaching tools (e.g., adaptive learning platforms, voice recognition feedback systems)
+- Course content planning and creative design (integrating AI-generated content)
+- Emotional intelligence and communication skills (to increase student engagement)
+- Data analysis skills (interpreting learning outcome data to optimize teaching)
+- Interdisciplinary integration skills (e.g., programming + arts)
+- Digital content creation (producing high-quality educational videos, interactive materials)
+
+**Key growth areas:**
 
 - Lifelong learning
 - Recreation demand
@@ -63,62 +96,64 @@ Teach or instruct individuals or groups for self-enrichment or recreation, such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，需学士学位且专业对口，通常不符合专业职业要求。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅极少数杰出艺术家或教师可能符合，门槛极高。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, requires a bachelor's degree with a relevant major, usually not meeting professional occupation requirements. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only a very few outstanding artists or teachers may qualify, with very high thresholds. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Self-Enrichment Teachers？**
-- 热爱教学与分享技能的人
-- 拥有某项艺术或爱好特长的人
-- 追求灵活工作时间的人
+**Who is suited**
+- People who love teaching and sharing skills
+- People with a particular art or hobby skill
+- Those seeking flexible working hours
 
-**谁不适合学Self-Enrichment Teachers？**
-- 寻求高薪或稳定全职工作的人
-- 希望移民美国的人
+**Who is not suited**
+- Seeks high salary or stable full-time work
+- People wishing to immigrate to the United States
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level for self-improvement teachers?**
+A: Usually paid per session; hourly rate about USD $15-40; median annual income around $30,000-40,000; mostly part-time.
+
+**Q: Is this occupation suitable for immigrating to the United States?**
+A: Not suitable; employer sponsorship is difficult, usually does not meet H-1B specialty occupation requirements, and green card paths are very limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Self-Enrichment Teachers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for self-enrichment teachers?**
-答：Typically paid per hour, $15-$40/hour, median annual income around $30,000-$40,000, mostly part-time.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：Not suitable; employer sponsorship is difficult, typically does not qualify for H-1B or green card pathways.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

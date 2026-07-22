@@ -1,58 +1,92 @@
-# Other professional occupations in physical sciences（Other professional occupations in physical sciences）职业分析 · 加拿大
+# Other professional occupations in physical sciences — career analysis · Canada
 
-**职业代码：21109 – Other professional occupations in physical sciences。**
+**Occupation code: 21109 (NOC)**
 
-Conduct research and application in physical sciences such as physics, geology, oceanography, and meteorology, including roles in research, teaching, and environmental monitoring.
+Engage in research and application of physical sciences such as physics, geology, oceanography, and meteorology, including roles in scientific research, teaching, and environmental monitoring.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$40,000（国际学生年均学费） |
-| 硕士 | 2年 | $25,000~$50,000（国际学生年均学费） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Average annual tuition fees for international students) |
+| Master's degree | 2 years | $25,000~$50,000 (Average annual tuition fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学或相关学科本科学位 | 大学 | 必备 | 通常需要学士学位，高级职位要求硕士或博士 |
-| 省级专业认证（如适用） | 各省专业工程师协会 | 可选 | 部分岗位如地球科学家需注册为专业工程师（P.Eng.） |
+| Bachelor's degree in physics or a related discipline | University | Required | Typically requires a bachelor's degree; senior positions require a master's or doctorate |
+| Provincial professional certification (if applicable) | Provincial professional engineering associations. | Optional | Some roles, such as earth scientists, require registration as a Professional Engineer (P.Eng.) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大对物理科学专业人员的需求稳定，受政府科研投资和清洁技术发展推动，预计未来几年就业机会温和增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for physical science professionals in Canada is stable, driven by government research investment and clean technology development; moderate job growth expected in coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助手/技术员岗位 |
-| 中级（3-7年） | $75,000~$95,000 | 研究员/项目科学家 |
-| 高级（7年以上） | $95,000~$130,000 | 高级科学家/管理层 |
+| Median salary | $89,440 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Assistant/technician positions |
+| Mid-level (3–7 years) | $75,000~$95,000 | Research Fellow/Project Scientist |
+| Senior (7+ years) | $95,000~$130,000 | Senior Scientist/Management |
+| average salary | $106,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升通常从初级研究员或技术员起步，逐步晋升为高级科学家、项目经理或科研主管，也可转向学术界或私营部门管理岗位。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
+
+Career progression typically starts from junior researcher or technician, advancing to senior scientist, project manager, or research director, or transitioning to academia or private sector management roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive physicochemical index testing and automated data analysis report generation
+- Template-based writing of regulatory compliance documents and tracking of standard updates
+- Parameter scanning and screening in simple recipe optimisation
+- Anomaly Monitoring and Early Warning of Sensor Data in Production Environments
+
+**Where AI augments the role:**
+
+- Use AI to assist in screening new materials and predicting formulations, accelerating R&D iteration
+- Analyzing consumer preference data via machine learning to guide product flavor design
+- AI-driven supply chain optimization ensures consistent raw material quality
+- Intelligent sensory analysis system aids subjective tasting, providing objective data support
+
+**Human moat:**
+
+- Food flavor tuning and subjective evaluation based on human senses
+- Creative product concept development and cross-departmental communication collaboration
+- On-site judgment and decision-making in food safety emergencies
+- Building trust relationships and business negotiations with clients and suppliers
+- Localization adjustments for understanding complex cultural dietary preferences
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning (e.g., scikit-learn)
+- AI-assisted formulation design tools (e.g., ChemAI, Intelligent Formulation)
+- Sensor data analysis and basic IoT knowledge
+- Digital management system operation for food regulations
+- Data visualisation tools (e.g., Tableau, Power BI).
+- Knowledge of sustainable packaging and clean label trends
+
+**Key growth areas:**
 
 - Environmental monitoring
 - Climate change research
@@ -61,68 +95,67 @@ Conduct research and application in physical sciences such as physics, geology, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 通过联邦技术移民或经验类移民，满足语言学历要求即可申请 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份对物理科学人才有优先提名，如BC省、安省 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场影响评估，支持工签和移民 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Apply through Federal Skilled Worker or Canadian Experience Class, meeting language and education requirements |
+| Subclass PNP (Provincial Nominee Program) | Some provinces prioritize physical science talent, such as BC and Ontario. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for Labor Market Impact Assessment to support work permits and immigration. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other professional occupations in physical sciences？**
-- 对自然现象有浓厚兴趣，喜欢科研和数据分析
-- 具有物理、化学或地球科学背景
-- 适应跨学科工作和实验室环境
-
-**谁不适合学Other professional occupations in physical sciences？**
-- 不喜欢长期学术研究或技术报告撰写
-- 希望快速进入高薪行业而非专注研究
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in natural phenomena, enjoys scientific research and data analysis
+- Background in physics, chemistry, or earth sciences
+- Adaptable to interdisciplinary work and laboratory environments.
+
+**Who is not suited**
+- Dislike long-term academic research or writing technical reports
+- Want to quickly enter a high-paying industry rather than focusing on research
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth outlook for physical science professionals?**
+A: With experience and advanced degrees, salary can rise from entry-level CAD 55,000 to senior CAD 130,000, with management levels going higher.
+
+**Q: Main pathways for overseas physical science professionals to immigrate to Canada?**
+A: Main pathways include Express Entry (FSW/CEC), Provincial Nominee Programs (PNP), and employer-sponsored LMIA work permits.
+
+**Q: Who are the main employers for this occupation in Canada?**
+A: Major employers include federal and provincial governments, universities and research institutions, environmental consulting firms, and mining/energy companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other professional occupations in physical sciences的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth outlook for physical science professionals?**
-答：With experience and advanced degrees, salaries can increase from CAD 55,000 junior to CAD 130,000 senior, with management roles higher.
-
-**问：What are the main immigration pathways for overseas physical science professionals to Canada?**
-答：Main pathways include Express Entry (FSW/CEC), Provincial Nominee Program (PNP), and employer-sponsored LMIA work permits.
-
-**问：Who are the main employers for this occupation in Canada?**
-答：Main employers include federal/provincial governments, universities and research institutes, environmental consulting firms, and mining/energy companies.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

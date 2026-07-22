@@ -1,59 +1,95 @@
-# Construction and Civil Engineering Engineer（Construction and Civil Engineering Engineer）职业分析 · ES
+# Construction and Civil Engineering Engineer — career analysis · Spain
 
-**职业代码：2432 – Construction and Civil Engineering Engineer。**
+**Occupation code: 2432 (CNO)**
 
-Responsible for the design, planning, and management of construction and civil engineering projects, including roads, bridges, tunnels, and buildings.
+Responsible for designing, planning, and managing architectural and civil engineering projects, including the construction and maintenance of infrastructure such as roads, bridges, tunnels, and buildings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（240 ECTS） | $1,000~$4,000（公立大学年学费，视大区而定） |
-| 硕士（Máster） | 1-2年（60-120 ECTS） | $1,500~$6,000（土木工程硕士或专业方向硕士） |
+| Undergraduate (Grado) | 4 years (240 ECTS) | $1,000~$4,000 (Annual tuition fees for public universities vary by region) |
+| Máster | 1-2 years (60-120 ECTS) | $1,500~$6,000 (Master's degree in Civil Engineering or a master's degree in a specialized field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑与土木工程本科学位（Grado en Ingeniería de la Construcción / Obras Públicas） | 西班牙大学 | 必备 | 需通过学历认证（homologación）方可执业 |
-| 行业协会注册（Colegio de Ingenieros） | Colegio de Ingenieros de Caminos, Canales y Puertos | 可选 | 非强制但利于职业发展 |
-| 硕士或专门认证（如PRL） | 大学或认证机构 | 可选 | 提升竞争力，非强制 |
+| Bachelor's degree in Architecture and Civil Engineering (Grado en Ingeniería de la Construcción / Obras Públicas) | Spanish University | Required | Practice requires homologación (academic certification). |
+| Industry Association Registration (Colegio de Ingenieros) | Colegio de Ingenieros de Caminos, Canales y Puertos | Optional | Not mandatory but beneficial for career development |
+| Master's or specialized certification (such as PRL) | Universities or accrediting bodies | Optional | Increases competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。西班牙基础设施更新和可再生能源项目（如风电、光伏）推动需求，但受公共预算和欧盟资助节奏影响，就业增长稳定，年约2-3%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Infrastructure upgrades and renewable energy projects (such as wind and photovoltaics) in Spain are driving demand, but employment growth remains stable at about 2-3% annually, influenced by the pace of public budget and EU funding.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（4-7年） | $33,000~$45,000 | 税前年薪 |
-| 高级（8年以上/项目经理） | $46,000~$65,000 | 税前年薪，大型项目可更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $33,000~$45,000 | Annual pre-tax salary |
+| Senior (Over 8 years / Project Manager) | $46,000~$65,000 | Pre-tax annual salary, with higher salaries for large projects |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从项目工程师可晋升至项目经理、技术总监，或进入企业管理层；也可通过硕士或博士深造转向研究或教学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
+
+You can advance from project engineer to project manager, technical director, or enter enterprise management; Alternatively, master's or doctoral studies can be pursued to research or teaching.
+
+**Tasks most exposed to AI:**
+
+- Conventional structural analysis and design calculations (e.g., finite element modeling parameter adjustments)
+- Automated generation and standard compliance checking of civil drawings
+- Drafting and formatting of engineering reports and documents
+- Automatic scheduling and conflict detection of project timelines
+- Automatic classification and preliminary interpretation of geological survey data
+
+**Where AI augments the role:**
+
+- AI-optimized structural solutions: rapidly iterate thousands of design options to improve structural efficiency and cost-effectiveness
+- Real-time construction monitoring based on BIM and IoT: AI predicting schedule deviations and material waste
+- Natural language query of regulatory libraries: quickly locate complex legal clauses and obtain explanations
+- Automatically generate risk assessment matrix: integrate geological, hydrological, traffic, and other multi-source data
+- Enhanced collaboration platform: AI translates conflicts across multiple discipline drawings in real-time and suggests coordination solutions
+
+**Human moat:**
+
+- On-site construction coordination and safety supervision, handling unforeseen conditions
+- Cross-disciplinary (architectural, structural, MEP) design conflict arbitration and decision-making
+- Communicate with Clients and Government Agencies, Explain Technical Solutions, and Obtain Permits
+- Assume legal responsibility for AI outputs, sign engineering documents
+- Design innovative foundation treatment solutions under complex geological conditions
+
+**Skills to build:**
+
+- Python/R programming and civil data analysis (e.g., OpenSees, Pandas)
+- Advanced BIM applications (Revit API, Navisworks automation)
+- AI/machine learning basics (for structural optimization and failure prediction)
+- Generative design tools (e.g., GenerativeComponents, Dynamo)
+- Project management and agile methods (for AI-collaborative workflows)
+- Digital twin and IoT integration (for infrastructure operations and maintenance)
+
+**Key growth areas:**
 
 - Renewable energy infrastructure
 - Public works renewal
@@ -62,68 +98,67 @@ Responsible for the design, planning, and management of construction and civil e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求大学学历+工作合同，薪资门槛约33,908€/年（2023）。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能人才，可快速审批，适用于紧缺职业。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 常规工作居留，需公司担保，可转长期。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree + work contract, with a salary threshold of about €33,908 per year (2023). |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled talent, it offers rapid approval and is suitable for shortage occupations. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Regular work residence requires company sponsorship, and can be converted to long-term status. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction and Civil Engineering Engineer？**
-- 喜欢户外和现场工作，动手能力强
-- 对大型基础设施项目有热情
-- 具备团队协作和项目管理能力
-
-**谁不适合学Construction and Civil Engineering Engineer？**
-- 不习惯频繁出差或驻场
-- 厌恶高强度工作和工期压力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor and on-site work, strong hands-on skills
+- Passionate about large-scale infrastructure projects
+- Possess teamwork and project management skills
+
+**Who is not suited**
+- Not accustomed to frequent business trips or on-site assignments
+- Dislikes high-intensity work and schedule pressure
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for architectural and civil engineers in Spain?**
+A: Beginner is about €25,000-32,000, intermediate is €33,000-45,000, and advanced is €46,000 or more. Large projects and public works may be even higher.
+
+**Q: How can foreign engineers immigrate to Spain?**
+A: You can obtain the EU Blue Card (university degree + contract) or the Highly Skilled Talent Visa (Ley 14/2013). You must first complete academic credential authentication (homologación).
+
+**Q: What are the career prospects for this occupation?**
+A: Steady growth, driven by infrastructure upgrades and renewable energy projects. You can be promoted to project manager or technical director, and you can also start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Construction and Civil Engineering Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for construction and civil engineers in Spain?**
-答：Junior: 25,000-32,000€, mid-level: 33,000-45,000€, senior: 46,000€+. Large projects and public works may pay more.
-
-**问：How can foreign engineers immigrate to Spain?**
-答：Via EU Blue Card (degree + job offer) or Highly Qualified Professional visa (Law 14/2013). Academic homologation is required.
-
-**问：What are the career prospects?**
-答：Stable growth, driven by infrastructure renewal and renewable energy projects. Promotion to project manager or technical director is common.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

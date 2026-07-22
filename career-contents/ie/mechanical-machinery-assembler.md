@@ -1,58 +1,92 @@
-# Mechanical Machinery Assembler（Mechanical Machinery Assembler）职业分析 · IE
+# Mechanical Machinery Assembler — career analysis · Ireland
 
-**职业代码：8211 – Mechanical Machinery Assembler。**
+**Occupation code: 8211 (ISCO08)**
 
-Mechanical machinery assemblers assemble mechanical parts, equipment, and machines according to blueprints and technical specifications, typically in manufacturing, engineering firms, and industrial maintenance.
+Mechanical machine assemblers assemble mechanical parts, equipment, and machines according to drawings and technical specifications, commonly found in manufacturing, engineering companies, and industrial maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学毕业/职业教育 | 2年（职业教育） | $500~$2,000（部分课程由ETB（教育与培训委员会）提供，费用较低或免费） |
-| 高级证书/学徒制 | 3-4年（学徒制） | $1,000~$5,000（学徒期间有薪资，部分费用由雇主承担） |
+| High school graduation/vocational education | 2 years (vocational education) | $500~$2,000 (Some courses are offered by ETB (Education and Training Board) at low or no cost) |
+| Advanced Certificate/Apprenticeship | 3-4 years (apprenticeship). | $1,000~$5,000 (There is a salary during the apprenticeship, and some costs are covered by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械装配工学徒认证 | SOLAS | 可选 | 完成学徒培训并通过考核 |
-| 职业教育证书（机械工程） | QQI | 可选 | 许多雇主更倾向于有相关证书的申请人 |
+| Mechanical Fitter Apprenticeship Certificate | SOLAS | Optional | Completion of apprenticeship training and passing assessment |
+| Vocational education certificate (mechanical engineering) | QQI | Optional | Many employers prefer applicants with relevant certifications. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰制造业持续发展，尤其是制药、医疗设备及食品加工领域，对机械装配工的需求稳定。但自动化可能影响低技能岗位，具备多技能及自动化经验的工人更具竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Irish manufacturing continues to develop, especially in pharmaceuticals, medical devices, and food processing, with steady demand for mechanical assemblers. However, automation may affect low-skilled positions; workers with multi-skills and automation experience are more competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏强（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 包括基本工资及加班费 |
-| 中级（3-5年） | $32,000~$40,000 | 有经验且具备多技能者 |
-| 高级（5年以上） | $40,000~$50,000 | 包括团队主管或技术专家 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$32,000 | Including base salary and overtime pay |
+| Mid-level (3–5 years) | $32,000~$40,000 | Experienced and multi-skilled individuals |
+| Senior (5+ years) | $40,000~$50,000 | Including Team Supervisor or Technical Expert |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级装配工起步，可晋升为高级装配工、团队主管或质量控制员。通过获得额外认证（如焊接或电气技能），可转向维护或技术员岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Mechanical machine assemblers face high automation risk, especially repetitive assembly tasks will be replaced by intelligent robots, but debugging and anomaly handling still require human experience.
+
+Start as a junior assembler, can advance to senior assembler, team leader, or quality control officer. Additional certifications (e.g., welding or electrical skills) can lead to maintenance or technician roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive mechanical parts assembly and bolt tightening
+- Installing standard parts according to fixed drawings
+- Manual lubrication and basic maintenance
+- Simple quality checks (e.g., dimensional measurement)
+
+**Where AI augments the role:**
+
+- View 3D assembly instructions using AR glasses
+- Using AI vision systems to verify assembly precision and defects
+- Optimising equipment maintenance plans through predictive maintenance software
+- Using collaborative robots for heavy lifting and precise positioning
+- Use digital twins to simulate complex assembly processes
+
+**Human moat:**
+
+- On-the-spot judgment when handling non-standard, deformed, or old parts.
+- Hand Feel and Fine-Tuning Experience in Precision Assembly
+- Cross-trade coordination and on-site problem solving
+- Understand mechanical principles and design temporary tooling
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (e.g., UR, Fanuc)
+- CAD/CAM software (SolidWorks, AutoCAD)
+- Basics of industrial IoT and sensors.
+- Basic Python or PLC programming
+- Lean production and Six Sigma methods
+- Technical document reading (English drawings)
+
+**Key growth areas:**
 
 - Manufacturing
 - Pharma
@@ -61,64 +95,63 @@ Mechanical machinery assemblers assemble mechanical parts, equipment, and machin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上的非欧盟工人，需雇主担保；该职业不在关键技能名单上。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不适用，因该职业不属紧缺技能列表。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动，需满足薪资及职位要求。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-EU workers earning over €30,000 per year, requires employer sponsorship; this occupation is not on the critical skills list. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, as this occupation is not on the skills shortage list. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable for intra-company transfers within multinational corporations, subject to salary and position requirements. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Machinery Assembler？**
-- 动手能力强，喜欢机械操作
-- 耐心细致，能遵循技术规范
-
-**谁不适合学Mechanical Machinery Assembler？**
-- 不喜欢体力劳动或重复性工作
-- 对精密组装缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys mechanical work
+- Patient and meticulous, able to follow technical specifications
+
+**Who is not suited**
+- Dislikes physical labour or repetitive work
+- Lacks patience for precision assembly
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of mechanical machinery assemblers in Ireland?**
+A: Junior assembler annual salary approx. €26,000-32,000, experienced can reach €40,000-50,000.
+
+**Q: How can non-EU citizens immigrate to Ireland through this occupation?**
+A: General Employment Permit available, requires employer-provided contract with annual salary of at least 30,000 euros. This occupation is not on the Critical Skills List.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中偏低（★★☆☆☆） |
-| 工作强度 | 中等偏强（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Machinery Assembler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical machinery assemblers in Ireland?**
-答：Entry-level assemblers earn around €26,000-€32,000 per year, while experienced workers can earn €40,000-€50,000.
-
-**问：How can non-EU citizens immigrate to Ireland through this occupation?**
-答：They can apply for a General Employment Permit, requiring a job offer with salary at least €30,000. This occupation is not on the Critical Skills list.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

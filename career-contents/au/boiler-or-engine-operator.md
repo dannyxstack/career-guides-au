@@ -1,61 +1,94 @@
-# Boiler or Engine Operator（Boiler or Engine Operator）职业分析 · 澳大利亚
+# Boiler or Engine Operator — career analysis · Australia
 
-**职业代码：712911 – Boiler or Engine Operator。**
+**Occupation code: 712911 (ANZSCO)**
 
-Operate and maintain boilers, steam engines, and internal combustion engines to provide power for ships, trains, or industrial plants.
+Operate and maintain power equipment such as boilers, steam engines, and internal combustion engines to provide power for ships, trains, or factories.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业证书（Certificate III/IV） | 1-2年 | $5,000~$15,000（TAFE学费，政府补贴后可能更低） |
-| 在职培训与学徒制 | 2-4年 | —（部分雇主提供带薪培训） |
+| Vocational certificate (Certificate III/IV) | 1-2 years | $5,000~$15,000 (TAFE tuition; may be lower after government subsidies) |
+| On-the-job training and apprenticeships | 2-4 years | $0~$5,000 (Some employers offer paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering – Mechanical Trade | TAFE或RTO | 可选 | 通常要求，涵盖机械操作与维护 |
-| 锅炉操作员执照（受州监管） | 各州安全工作机构 | 必备 | 操作特定锅炉需要，例如新南威尔士州需有资质 |
-| Marine Engine Driver Grade 1/2（如适用） | AMSA | 可选 | 在船舶上工作必须持证 |
+| Boiler operator licence (regulated by state). | State workplace safety authorities | Required | Required for operating specific boilers, e.g., New South Wales requires certification |
+| Certificate III in Engineering – Mechanical Trade | TAFE or RTO | Optional | Usually required, covering machine operation and maintenance |
+| Marine Engine Driver Grade 1/2 (if applicable) | AMSA | Optional | Must hold a certificate to work on ships |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。受矿业和交通运输业需求支撑，就业稳定。自动化和新能源转型可能影响长期需求，但熟练操作员仍受青睐。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. Employment is stable, supported by demand from mining and transport industries. Automation and the shift to renewable energy may affect long-term demand, but skilled operators remain in demand.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 取决于行业和地点 |
-| 中级（3-8年） | $70,000~$90,000 | 矿业或船舶作业加班后可达更高 |
-| 高级（8年以上） | $90,000~$120,000 | 监督或特殊技能岗位如远程操作 |
+| Median salary | $104,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Depends on industry and location |
+| Mid-level (3–8 years) | $70,000~$90,000 | Can be higher with overtime in mining or marine operations |
+| Senior (8+ years) | $90,000~$120,000 | Supervisory or specialist skill roles such as remote operation |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级操作员晋升为高级操作员或监督员，也可向轮机工程师或工厂管理岗位发展，需积累经验和取得更高等级证书。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Boiler or engine operator jobs will be significantly affected by AI and automation, but physical operations and emergency response responsibilities are hard to replace. Entry-level positions may shrink, but maintenance and monitoring tasks will be enhanced by AI.
+
+Can advance from entry-level operator to senior operator or supervisor, or to marine engineer or factory management roles, requiring experience and higher-level certifications.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and alarm for boiler/engine condition based on sensor data
+- Automatically adjusts fuel supply, steam pressure, and other operating parameters based on preset parameters.
+- Using AI systems for predictive maintenance, replacing manual regular inspections
+- Automatically generate operation logs and efficiency reports
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of operational data to optimize combustion efficiency and reduce emissions
+- Using digital twin simulation for fault diagnosis and operational scenario simulation
+- Quickly obtain maintenance manuals and historical cases through AI recommendation system
+- Augmented Reality (AR) assisted guidance for complex repairs and operational steps
+
+**Human moat:**
+
+- Physical diagnosis and emergency manual intervention capability for sudden faults
+- Experience-based judgment for abnormal operating conditions (e.g., extreme weather, equipment anomalies)
+- Cross-system coordination (e.g., communicating with other departments on ship/factory)
+- Safety compliance and accountability decision-making (e.g., impact assessment of emergency shutdowns on production)
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Predictive maintenance software (e.g., IBM Maximo, Uptake)
+- Digital twin and simulation tools (e.g., ANSYS Twin Builder)
+- Basics of AI/Machine Learning and Their Application in Process Control
+- Safety regulations and digital transformation management
+- Remote monitoring and automation system operation (e.g., SCADA, DCS)
+
+**Key growth areas:**
 
 - Mining
 - Transport
@@ -64,66 +97,65 @@ Operate and maintain boilers, steam engines, and internal combustion engines to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，要求职业在CSOL上且有相关经验 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需通过职业评估和三年工作经验 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa requiring occupation on the CSOL and relevant experience |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa requiring skills assessment and three years of work experience |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Boiler or Engine Operator？**
-- 喜欢动手操作机械的人员
-- 愿意在偏远矿区或海上作业者
-- 注重工作安全且能承受体力劳动
-
-**谁不适合学Boiler or Engine Operator？**
-- 希望朝九晚五办公室工作的人
-- 对噪音和高温环境敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with mechanical equipment
+- Willing to work in remote mining areas or offshore
+- Focus on work safety and capable of physical labor
+
+**Who is not suited**
+- People who want a 9-to-5 office job
+- Sensitive to noisy and high-temperature environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a boiler operator?**
+A: Depending on industry and location, annual salary approx. 65,000 to 90,000 AUD, higher in mining and offshore roles.
+
+**Q: Can a Boiler Operator migrate to Australia through skilled migration?**
+A: This occupation is not on the Core Skills Occupation List, usually requiring employer sponsorship (482/186) or state sponsorship (regional 494).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Boiler or Engine Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a boiler or engine operator?**
-答：Annual salary ranges from AUD 65,000 to 90,000, with higher pay in mining and marine sectors.
-
-**问：Can a boiler or engine operator migrate to Australia via skilled visa?**
-答：This occupation is not on the Core Skills Occupation List, so employer sponsorship (482/186) or regional sponsorship (494) is typically required.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

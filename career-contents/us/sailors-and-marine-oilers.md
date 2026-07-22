@@ -1,59 +1,94 @@
-# Sailors and Marine Oilers（Sailors and Marine Oilers）职业分析 · 美国
+# Sailors and Marine Oilers — career analysis · United States
 
-**职业代码：53-5011 – Sailors and Marine Oilers。**
+**Occupation code: 53-5011 (SOC)**
 
-Stand watch, steer vessels, maintain deck gear, and operate emergency equipment under captain's orders; must hold maritime credentials.
+Responsible for deck watchkeeping, lookout, steering, maintaining deck equipment, and emergency operations; must hold relevant maritime certificates.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立学校免费） |
-| 海事职业培训 | 6个月至2年 | $5,000~$20,000（技术学院或海事学校） |
+| High school graduation | 12 years | $0~$0 (Free public schools.) |
+| Maritime career training | 6 months to 2 years | $5,000~$20,000 (Technical college or maritime school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水手证书 | 美国海岸警卫队 | 必备 | 所有商用船舶必备 |
-| STCW基本安全培训 | 国际海事组织认可机构 | 必备 | 全球通用 |
-| 熟练水手证书 | 美国海岸警卫队 | 可选 | 晋升高级水手需要 |
+| Seafarer certificate | United States Coast Guard | Required | Essential for all commercial vessels |
+| STCW Basic Safety Training | International Maritime Organization recognized body | Required | Globally applicable |
+| Able seaman certificate. | United States Coast Guard | Optional | Required for promotion to senior seaman |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。美国运输物流业稳定增长，但自动化趋势可能减缓需求；内河与沿海航运岗位略有增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The US transportation and logistics industry is growing steadily, but automation trends may slow demand; inland waterway and coastal shipping jobs are slightly increasing.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 入门级薪资 |
-| 中级（3-8年） | $45,000~$65,000 | 含加班费 |
-| 高级（8年以上） | $65,000~$85,000 | 水手长或资深角色 |
+| Median salary | $51,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Entry-level salary |
+| Mid-level (3–8 years) | $45,000~$65,000 | Including overtime pay |
+| Senior (8+ years) | $65,000~$85,000 | Boatswain or Senior Role |
+| average salary | $56,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从普通水手可晋升为高级水手、水手长，再通过考取执照成为驾驶员或船长。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The workload for sailors and marine engineers is mixed: repetitive deck tasks are easily automated, but navigation safety supervision, emergency handling, and complex mechanical maintenance still require human judgment; AI is more of an auxiliary tool.
+
+Can advance from ordinary sailor to senior sailor, boatswain, and then become a driver or captain by obtaining a license.
+
+**Tasks most exposed to AI:**
+
+- Autopilot and electronic chart systems take over steering and route monitoring tasks
+- AI vision systems replace target identification and collision warning in lookouts
+- Automated engine monitoring systems take over routine parameter checks and alarms for marine engineers
+- Electronic logs automatically record, replacing manual entry of navigation logs
+- Drones or robots for external hull inspection
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems optimize fuel efficiency and route planning, improving economics
+- Augmented reality (AR) head-up display overlays critical navigation information, improving lookout accuracy.
+- Intelligent maintenance prediction system warns of mechanical failures in advance, reducing unplanned voyage interruptions
+- AI training simulator provides immersive emergency scenario drills, accelerating skill improvement
+- Data analysis tools help optimize cargo stowage and hull stability calculations.
+
+**Human moat:**
+
+- Comprehensive judgment and emergency decision-making ability under complex sea conditions
+- Non-routine diagnosis and on-site repair of mechanical failures
+- Team collaboration and communication leadership, especially in emergency situations
+- Sense of responsibility and professionalism in complying with strict maritime regulations
+
+**Skills to build:**
+
+- AI-assisted navigation system operation and interpretation
+- Ship data analysis and digital twin basics
+- Use of augmented reality maintenance support tools
+- Cybersecurity basics (defense against ship system attacks).
+- Decision-making and leadership in extreme environments
+- Multilingual communication skills (international routes)
+
+**Key growth areas:**
 
 - Maritime operations
 - Barge transport
@@ -62,68 +97,67 @@ Stand watch, steer vessels, maintain deck gear, and operate emergency equipment 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时非农业工作签证，限季节性航运雇主担保 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 职业移民第三优先，需PERM劳工证，但申请量少 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大或墨西哥公民的海事专业人员，需符合特定职业 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural work visa, limited to seasonal shipping employer sponsorship |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Employment-based third preference, requires PERM labor certification, but few applicants. |
+| Subclass TN (TN NAFTA Professional) | Maritime professionals for Canadian or Mexican citizens, must meet specific occupations |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sailors and Marine Oilers？**
-- 喜欢海洋与航海工作
-- 能适应长时间离岸生活
-- 动手能力强且注重安全
-
-**谁不适合学Sailors and Marine Oilers？**
-- 晕船或无法适应海上颠簸
-- 希望朝九晚五陆地工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes the ocean and maritime work
+- Able to adapt to long periods offshore
+- Hands-on skills and strong attention to safety
+
+**Who is not suited**
+- Seasickness or inability to adapt to sea motion
+- Prefer 9-to-5 onshore work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sailors?**
+A: Entry-level approx USD 30,000-45,000, mid to senior can reach USD 65,000-85,000, offshore positions may be higher.
+
+**Q: How can foreign seafarers work in the US?**
+A: Primarily via H-2B temporary work visa, or TN visa (Canadian/Mexican citizens); EB-3 green card low probability.
+
+**Q: What qualifications are required?**
+A: High school diploma required, but must complete Coast Guard approved training courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Sailors and Marine Oilers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sailors?**
-答：Entry-level $30k-$45k; senior $65k-$85k; offshore ships may pay more.
-
-**问：How can foreign sailors work in the US?**
-答：Mainly via H-2B temporary visa or TN for Canadian/Mexican citizens; EB-3 green card is less common.
-
-**问：What education is required?**
-答：High school diploma plus USCG-approved training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Clinical Psychologist（Clinical Psychologist）职业分析 · 加拿大
+# Clinical Psychologist — career analysis · Canada
 
-**职业代码：31200 – Clinical Psychologist。**
+**Occupation code: 31200 (NOC)**
 
-Clinical psychologists assess, diagnose, and treat mental health issues. Eligible for Express Entry and PNP immigration, requiring provincial registration and ECA, with steady demand growth.
+Clinical psychologists in Canada conduct psychological assessments, diagnosis, and treatment in mental health. This occupation is eligible for Express Entry and PNP immigration, requires provincial registration and credential assessment, with stable demand growth.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学士 | 4年 | $60,000~$120,000（四年制本科心理学专业） |
-| 硕士 | 2年 | $30,000~$80,000（临床心理学硕士（注册必需）） |
-| 博士 | 4-5年 | $80,000~$200,000（博士是部分省份注册要求） |
+| Bachelor's degree | 4 years | $60,000~$120,000 (Four-year undergraduate psychology major.) |
+| Master's degree | 2 years | $30,000~$80,000 (Master's in Clinical Psychology (required for registration)) |
+| Doctorate | 4-5 years | $80,000~$200,000 (A doctoral degree is required for registration in some provinces) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES/ICES等 | 必备 | 海外学历需ECA，用于移民和注册 |
-| 省级注册 | 各省心理师学院 | 必备 | 如安大略省需通过CPO注册 |
-| 英语语言考试 | IELTS/CELPIP | 必备 | 移民要求CLB 7（EE）或更高 |
-| 资格考试 | EPPP/PCB | 必备 | 省注册需通过专业知识考试 |
+| Educational credential assessment (ECA) | WES/ICES etc. | Required | Overseas education requires ECA for immigration and registration |
+| Provincial registration. | Provincial Institutes of Psychology | Required | For example, Ontario requires registration with the CPO |
+| English language test | IELTS/CELPIP | Required | Immigration requires CLB 7 (EE) or higher |
+| Qualification exam | EPPP/PCB | Required | Provincial registration requires passing a professional knowledge exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。加拿大对临床心理学家的需求因精神健康意识提升和医疗服务扩展而持续增长。联邦和省份资助项目推动就业，尤其在公立医院和社区诊所。预计未来十年岗位增长快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Demand for clinical psychologists in Canada continues to grow due to increased mental health awareness and expansion of healthcare services. Federal and provincial funded projects drive employment, especially in public hospitals and community clinics. Job growth is expected to be faster than average over the next decade.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 公立诊所或社区机构 |
-| 中级（3-7年） | $85,000~$110,000 | 医院或私人诊所 |
-| 高级（7年以上） | $110,000~$150,000 | 私人执业或管理职位 |
+| Median salary | $109,990 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $65,000~$85,000 | Public clinics or community organizations |
+| Mid-level (3–7 years) | $85,000~$110,000 | Hospital or private clinic |
+| Senior (7+ years) | $110,000~$150,000 | Private practice or management positions |
+| average salary | $116,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从注册心理学家到主管或私人执业者。可能向神经心理学、儿童心理学等细分领域专精，或进入研究教学。高级职位需博士学位和多年经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on clinical psychologists is mixed: automation can handle paperwork and initial assessments, but diagnosis and treatment still require human empathy and clinical judgment. The profession is regulated, and entry barriers increase.
+
+From registered psychologist to supervisor or private practitioner. May specialize in subfields like neuropsychology, child psychology, or move into research and teaching. Senior roles require a PhD and many years of experience.
+
+**Tasks most exposed to AI:**
+
+- Automated scoring and report generation for psychological tests
+- Standardized questionnaire and data collection for initial interviews
+- Documentation of patient medical records and electronic health records
+- Guideline-based initial treatment suggestions and symptom tracking
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient speech and text emotions to assist diagnosis
+- Utilize virtual reality tools for exposure therapy and skills training
+- Identifying high-risk patients through predictive models and intervening early
+- Using natural language processing to automate literature reviews and treatment plan matching
+
+**Human moat:**
+
+- Building therapeutic alliance and empathy skills
+- Clinical judgment and individualized treatment for complex psychological disorders
+- Handling crisis intervention and suicide risk assessment with immediate decision-making
+- Cross-cultural ethical considerations and confidentiality management
+- Interpreting nonverbal cues in face-to-face therapy
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools and mental health applications.
+- Learning data analysis basics and treatment outcome evaluation
+- Enhancing remote therapy and digital health delivery capabilities
+- Take elective courses in cognitive science or human-computer interaction
+- Strengthen knowledge of ethics and privacy regulations.
+- Develop interdisciplinary collaboration skills (working with data scientists)
+
+**Key growth areas:**
 
 - Mental Health
 - Telehealth
@@ -64,68 +98,67 @@ Clinical psychologists assess, diagnose, and treat mental health issues. Eligibl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 满足CRS分数，适合高学历英语好的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如安省Human Capital或BC省Healthcare stream |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份指定雇主担保 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with high education and English proficiency who meet CRS scores |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario Human Capital or BC Healthcare stream |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces designated employer sponsorship |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clinical Psychologist？**
-- 拥有临床心理学硕士或博士学位的专业人士
-- 具备英语考试高分（如IELTS 7.0+）的申请者
-- 愿意在偏远省份工作以加快移民的候选人
-
-**谁不适合学Clinical Psychologist？**
-- 只有学士学位且无临床经验者
-- 无法投入多年学习和繁重注册过程的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with a master's or doctoral degree in clinical psychology
+- Applicants with high English test scores (e.g. IELTS 7.0+)
+- Candidates willing to work in remote provinces to expedite immigration
+
+**Who is not suited**
+- Those with only a bachelor's degree and no clinical experience.
+- Those unable to commit to years of study and a heavy registration process
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for clinical psychologists in Canada?**
+A: Entry-level annual salary approx. CAD 65,000-85,000, mid-level CAD 85,000-110,000, senior private practice up to CAD 150,000, above national average.
+
+**Q: Is it easy for clinical psychologists to immigrate to Canada?**
+A: Moderately difficult. Must meet registration requirements (overseas education assessment, provincial license), but it is a shortage occupation; both EE and PNP have opportunities, especially with PhD and provincial nomination points.
+
+**Q: Is a clinical psychology degree from overseas recognized?**
+A: Overseas qualifications need ECA (e.g., from WES), but provincial regulators may require additional courses or exams, such as the EPPP, so plan ahead.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Clinical Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for clinical psychologists in Canada?**
-答：Entry-level CAD 65,000-85,000, mid CAD 85,000-110,000, senior up to CAD 150,000, above national average.
-
-**问：Is it easy for clinical psychologists to immigrate to Canada?**
-答：Moderate. Requires ECA, provincial registration, but as a high-demand occupation, EE and PNP are viable, especially with PhD and provincial nomination.
-
-**问：Are foreign clinical psychology degrees recognized?**
-答：Overseas degrees need ECA (e.g., WES) but provincial regulators may require supplementary courses or exams like EPPP; plan ahead.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Police Inspector（Police Inspector）职业分析 · NL
+# Police Inspector — career analysis · Netherlands
 
-**职业代码：3355 – Police Inspector。**
+**Occupation code: 3355 (ISCO08)**
 
-Police Inspectors in the Netherlands are senior officers who lead criminal investigations, manage teams, and handle complex cases, typically working in regional police units or national detective departments.
+Police detectives are senior officers in the Dutch police force, responsible for leading criminal investigations, managing teams, and handling complex cases. They typically work in regional police units or national criminal investigation departments.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 警察学院培训 | 3年（学士级别） | —（由荷兰警察学院承担，学员可获得带薪培训） |
-| 警官进阶课程 | 1-2年 | —（内部晋升培训，通常免费） |
+| Police academy training | 3 years (bachelor level) | $0~$0 (Provided by the Dutch Police Academy, trainees receive paid training) |
+| Police officer advanced course | 1-2 years | $0~$0 (Internal promotion training, usually free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警察学院文凭（政治学/法律方向） | 荷兰警察学院（Politieacademie） | 必备 | 完成3年制警官课程 |
-| 荷兰语流利（C1级别） | 荷兰政府 | 必备 | 所有警务人员必须精通荷兰语 |
+| Police Academy Diploma (Politics/Law stream) | Netherlands Police Academy (Politieacademie) | Required | Complete a 3-year police officer course |
+| Fluent in Dutch (C1 level) | Dutch government | Required | All police personnel must be proficient in Dutch |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。荷兰警察部队面临老龄化退休潮，预计2025-2030年将需要大量补充中高级警官。尽管政府预算紧张，但维护公共安全仍是优先事项，探长职位相对稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The Dutch police force faces an aging retirement wave, with a significant need for mid-to-senior police officers expected between 2025-2030. Although government budgets are tight, maintaining public safety remains a priority, making detective positions relatively stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪，含基本工资和津贴 |
-| 中级（4-10年） | $50,000~$65,000 | 基于经验和绩效 |
-| 高级（10年以上） | $65,000~$80,000 | 高级探长或管理职务 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary, including base salary and allowances |
+| Mid-level (4-10 years). | $50,000~$65,000 | Based on experience and performance |
+| Senior (10+ years) | $65,000~$80,000 | Senior detective or management role |
+| average salary | $58,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 晋升路径通常从警员（Agent）开始，通过内部考试和绩效评估晋升为探长（Inspecteur），之后可升至首席探长（Hoofdinspecteur）或警监（Commissaris）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The nature of police detective work is complex; AI/automation will take over data analysis and preliminary investigation tasks, but cannot replace high-level decision-making and interpersonal judgement, making it a mixed blessing.
+
+The promotion path typically starts as an officer (Agent), progressing through internal exams and performance assessments to detective (Inspecteur), then to chief detective (Hoofdinspecteur) or commissioner (Commissaris).
+
+**Tasks most exposed to AI:**
+
+- Analyzing crime data to identify patterns and trends
+- Writing routine survey reports and documents
+- Manage case files and evidence databases
+- Initial screening and classification of case leads
+- Automatically generate routine police statistical reports.
+
+**Where AI augments the role:**
+
+- AI-assisted crime scene evidence analysis and correlation
+- AI optimizes patrol and resource scheduling plans
+- AI supports information retrieval and integration in complex case investigations
+- AI enhances the simulation and evaluation efficiency of interrogation strategies
+- AI predicts crime hotspots and guides prevention deployment
+
+**Human moat:**
+
+- Emotional intelligence and judgement required to lead and manage survey teams
+- Build trust and communication with victims, witnesses, and informants
+- Make critical decisions under ambiguous or conflicting information
+- Exercise legally granted enforcement powers such as arrest and search
+- On-site adaptability in emergency situations
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Python, Tableau)
+- AI tools and police platform operations (e.g., predictive analytics software)
+- Fundamentals of digital forensics and cybersecurity
+- Critical thinking and complex decision-making skills.
+- Cross-departmental collaboration and public speaking
+- Ethical and legal compliance knowledge
+
+**Key growth areas:**
 
 - Retirement-driven demand
 - Specialized crime units
@@ -63,65 +99,67 @@ Police Inspectors in the Netherlands are senior officers who lead criminal inves
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于非欧盟公民，需有荷兰雇主担保，工资达到门槛（2024年约€5,331/月）。警察职位通常不适用，因需荷兰国籍。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约€5,900/月。警察职位通常不适用。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for non-EU citizens, requires a Dutch employer sponsor, salary meets threshold (approx. €5,331/month in 2024). Police positions usually not applicable due to Dutch nationality requirement. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with a minimum annual salary threshold of about €5,900/month. Police positions are generally not applicable. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Police Inspector？**
-- 具有领导力和决策能力的人
-- 对刑事调查有浓厚兴趣的人
-- 能够在压力下工作并处理敏感信息的人
+**Who is suited**
+- People with leadership and decision-making skills
+- Individuals with a strong interest in criminal investigations
+- People who can work under pressure and handle sensitive information.
 
-**谁不适合学Police Inspector？**
-- 不善于团队协作的人
-- 无法接受严格纪律和轮班工作的人
+**Who is not suited**
+- People who are not good at teamwork
+- Unable to accept strict discipline and shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a Dutch police detective?**
+A: Junior detective annual salary is approximately €40,000-€50,000, mid-level €50,000-€65,000, and senior up to €80,000.
+
+**Q: Can non-EU citizens become police detectives in the Netherlands through high-skilled migration?**
+A: Generally not, because police positions require Dutch nationality or EU citizenship. Non-EU citizens face extreme difficulty obtaining such work permits.
+
+**Q: What is the career progression path for a police detective sergeant?**
+A: Start as a police officer, then through internal exams promote to detective, and later to chief detective or police inspector.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Police Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Police Inspector in the Netherlands?**
-答：Entry-level inspectors earn around €40,000-€50,000, mid-level €50,000-€65,000, and senior up to €80,000 annually before tax.
-
-**问：Can non-EU citizens become Police Inspectors via the Highly Skilled Migrant scheme?**
-答：Generally no, because police positions require Dutch or EU citizenship. Non-EU citizens face significant obstacles.
-
-**问：What is the career progression for a Police Inspector?**
-答：Starting as an officer, you can advance to Inspector through internal exams, then to Chief Inspector or Commissioner.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

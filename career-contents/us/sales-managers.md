@@ -1,59 +1,95 @@
-# Sales Managers（Sales Managers）职业分析 · 美国
+# Sales Managers — career analysis · United States
 
-**职业代码：11-2022 – Sales Managers。**
+**Occupation code: 11-2022 (SOC)**
 
-Sales Managers plan, direct, or coordinate the distribution of products or services to customers, establishing sales territories, quotas, goals, and training programs, while analyzing sales statistics to determine potential and inventory needs.
+Sales managers plan, direct, or coordinate the actual distribution or delivery of products or services to customers, by setting sales territories, quotas, and targets, as well as establishing training programs for sales representatives.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$120,000（公立大学年均学费约$17,000，私立约$40,000） |
-| 硕士学位（MBA） | 2年 | $50,000~$200,000（顶级MBA项目总费用可高达$200,000） |
+| Bachelor's degree | 4 years | $20,000~$120,000 (Average annual tuition about $17,000 for public universities, $40,000 for private) |
+| Master's degree (MBA) | 2 years | $50,000~$200,000 (Top MBA programs can cost up to $200,000 in total fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售管理认证 (CPSP) | 全国销售专业人士协会 | 可选 | 提升销售管理和领导技能 |
-| 项目管理专业人士 (PMP) | 项目管理协会 | 可选 | 有助于管理复杂销售项目 |
-| 学士学位 | 认证大学 | 必备 | 商业管理、市场营销或相关领域 |
+| Bachelor's degree | Accredited university | Required | Business administration, marketing, or related fields |
+| Sales Management Certification (CPSP) | National Association of Sales Professionals | Optional | Enhance sales management and leadership skills |
+| Project Management Professional (PMP) | Project Management Institute | Optional | Helps manage complex sales projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 526,000。美国销售经理就业预计从2023年至2033年增长约6%，快于所有职业平均水平，新增约45,000个岗位。增长由销售团队的持续扩张和对管理人才的需求驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 526,000. US sales manager employment is projected to grow about 6% from 2023 to 2033, faster than the average for all occupations, adding about 45,000 new positions. Growth is driven by continued expansion of sales teams and demand for management talent.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 包括底薪和佣金 |
-| 中级（3-7年） | $90,000~$140,000 | 包括奖金和绩效激励 |
-| 高级（7年以上） | $140,000~$200,000 | 包括利润分成和股票期权 |
+| Median salary | $148,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$90,000 | Includes base salary and commission |
+| Mid-level (3–7 years) | $90,000~$140,000 | Includes bonuses and performance incentives |
+| Senior (7+ years) | $140,000~$200,000 | Including profit sharing and stock options |
+| average salary | $164,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 销售经理通常从销售代表起步，逐步晋升为区域经理、全国销售经理，最终成为销售副总裁或首席营收官。MBA学位和相关认证（如CPSP）有助于加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Sales managers typically start as sales representatives and progressively advance to regional manager, national sales manager, and eventually vice president of sales or chief revenue officer. An MBA and relevant certifications (e.g., CPSP) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Sales
 - B2B Sales
@@ -62,69 +98,68 @@ Sales Managers plan, direct, or coordinate the distribution of products or servi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于有学士学位或同等学历的销售经理，需雇主担保 |
-| Subclass L-1A（L-1A Intracompany Transferee Executive or Manager） | 跨国公司内部调动的管理职位 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需要高等学位或杰出能力，用于绿卡申请 |
-| Subclass Green Card (PERM)（Permanent Labor Certification (PERM)） | 通过PERM劳工证申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to sales managers with a bachelor's degree or equivalent, requiring employer sponsorship |
+| Subclass L-1A (L-1A Intracompany Transferee Executive or Manager) | Management positions within multinational companies via internal transfer |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Require advanced degree or exceptional ability for green card application |
+| Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Apply for employment-based green card through PERM labor certification |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Managers？**
-- 具备领导力和团队管理能力者
-- 善于目标驱动和结果导向者
-- 擅长客户关系和谈判者
-
-**谁不适合学Sales Managers？**
-- 不善沟通和压力应对者
-- 缺乏销售经验或商业敏感度者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with leadership and team management skills
+- Those who are goal-driven and results-oriented
+- Good at customer relationships and negotiation
+
+**Who is not suited**
+- Those who are not good at communication and handling pressure
+- Those lacking sales experience or business acumen
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a sales manager?**
+A: According to BLS data, the 2023 median annual salary for US sales managers was about $135,000, but income is highly dependent on performance and industry, ranging from $70,000 to over $208,000.
+
+**Q: Can a sales manager apply for an H-1B visa?**
+A: Yes, but must meet professional position requirements, usually a bachelor's degree or equivalent. Many companies sponsor H-1B for sales managers, especially B2B or technical sales roles.
+
+**Q: What is the career development path for sales managers?**
+A: Typically start as sales representative, advance to regional sales manager, national sales manager, VP of sales, and eventually chief revenue officer. MBA and relevant certifications accelerate advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Sales Managers?**
-答：According to BLS, the median annual wage for Sales Managers in 2023 was approximately $135,000, with income highly dependent on performance and industry, ranging from $70,000 to over $208,000.
-
-**问：Can Sales Managers apply for H-1B visa?**
-答：Yes, but it must meet the specialty occupation requirement, typically requiring a bachelor's degree or equivalent. Many companies sponsor H-1B for Sales Managers, especially in B2B or tech sales.
-
-**问：What is the career progression for Sales Managers?**
-答：Typically starting as a sales representative, progressing to regional sales manager, national sales manager, VP of sales, and eventually Chief Revenue Officer. An MBA and certifications can accelerate advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

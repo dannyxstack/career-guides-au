@@ -1,58 +1,88 @@
-# Hydrologic Technicians（Hydrologic Technicians）职业分析 · 美国
+# Hydrologic Technicians — career analysis · United States
 
-**职业代码：19-4044 – Hydrologic Technicians。**
+**Occupation code: 19-4044 (SOC)**
 
-Collect and organize data on ground and surface water distribution, circulation, and physical, chemical, biological properties. Measure flow rates and water levels, maintain field equipment, collect water samples, and process samples for testing.
+Collect and organize data on the distribution, circulation, and physical, chemical, and biological properties of groundwater and surface water. Measure and report flow rates and water levels, maintain field equipment, collect water samples, install sampling equipment, and process samples for testing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$100,000（公立大学州内学费估算） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Estimated in-state tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水文技术员认证 | National Ground Water Association | 可选 | 非强制但有助于就业 |
-| 驾驶执照 | 州政府 | 必备 | 因需现场作业，通常要求有效驾照 |
+| Driver's license | State government | Required | Due to on-site work, usually requires a valid driver's license |
+| Hydrographic Technician Certification | National Ground Water Association | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。由于水资源管理和环境保护日益受到重视，水文技术人员需求稳定增长。政府机构、环保咨询公司和水利工程企业均需此类人才，但整体职位数量有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Due to increasing emphasis on water resource management and environmental protection, demand for hydrographic technicians is steadily growing. Government agencies, environmental consulting firms, and water engineering companies all require such talent, but overall positions are limited with moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资 |
-| 中级（3-7年） | $45,000~$60,000 | 积累经验后提高 |
-| 高级（7年以上） | $60,000~$80,000 | 资深或主管级 |
+| Median salary | $64,790 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary |
+| Mid-level (3–7 years) | $45,000~$60,000 | Increase with experience |
+| Senior (7+ years) | $60,000~$80,000 | Senior or supervisor level |
+| average salary | $69,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★☆☆）。** 初级水文技术员可从事现场采样和数据记录，积累经验后晋升为高级技术员或项目协调员，也可通过深造成为水文专家或水资源管理工程师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hydrographic technician work is primarily field data collection and equipment maintenance; AI can automate some data processing and analysis, but field operations, equipment repair, and compliance still require humans—outlook mixed.
+
+Junior hydrology technicians can conduct field sampling and data recording, advance to senior technician or project coordinator with experience, or pursue further study to become hydrology experts or water resource management engineers.
+
+**Tasks most exposed to AI:**
+
+- Manual recording of water levels, flow rates, etc., replaced by real-time data collection from automatic sensors and IoT devices.
+- Routine water sampling tasks taken over by automatic samplers and remote control systems
+- Basic data processing and simple trend report generation, completed by AI algorithms
+
+**Where AI augments the role:**
+
+- Utilizing AI models to predict hydrological events like floods and droughts, improving warning accuracy
+- Integrating drones and remote sensing image analysis to expand monitoring range and efficiency
+- Quickly generate decision support reports using data visualization tools
+- Use machine learning to optimize sampling point placement and equipment maintenance schedules
+
+**Human moat:**
+
+- On-site equipment fault diagnosis and repair, requiring hands-on skills and experience-based judgment
+- Emergency response and field operation capabilities in remote or complex environments
+- Understand hydrological regulations, standard operating procedures, and ensure compliance
+
+**Skills to build:**
+
+- Remote sensing and GIS spatial analysis (e.g., ArcGIS, QGIS)
+- Python/R programming and data processing (Pandas, NumPy)
+- IoT device operation and basic instrumentation knowledge
+- Machine learning and statistical modeling (especially time series analysis)
+- Data visualization tools (Tableau, Power BI)
+
+**Key growth areas:**
 
 - water resources management
 - environmental monitoring
@@ -61,68 +91,67 @@ Collect and organize data on ground and surface water distribution, circulation,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，雇主支持，每年配额限制 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需硕士或本科加5年经验，需PERM劳工证 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需至少两年培训或经验，需PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires Bachelor's degree, employer sponsorship, annual quota limit |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires a master's degree or bachelor's plus 5 years of experience, and a PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires at least two years of training or experience, needs PERM labor certification |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hydrologic Technicians？**
-- 喜欢户外工作且对水资源保护感兴趣的人
-- 注重细节并能处理重复性数据采集任务的人
-- 愿意在偏远地区或野外工作的人
-
-**谁不适合学Hydrologic Technicians？**
-- 不喜户外工作或恶劣天气的人
-- 追求高薪资和高社会地位的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are interested in water conservation
+- Detail-oriented individuals who can handle repetitive data collection tasks
+- Someone willing to work in remote areas or the field
+
+**Who is not suited**
+- People who dislike outdoor work or harsh weather
+- People pursuing high salary and high social status
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for hydrographic technicians?**
+A: Entry-level approx. $35,000-45,000 USD, mid-level $45,000-60,000 USD, senior $60,000-80,000 USD. Salary affected by region and employer; government positions usually pay less than private sector.
+
+**Q: Is it easy for hydrographic technicians to immigrate to the US?**
+A: Can immigrate via H-1B or EB-2/EB-3 green cards, but requires employer sponsorship. As the occupation is not on the STEM shortage list, competition for quotas is intense.
+
+**Q: What are the advancement paths for a Hydrographic Technician?**
+A: Can advance to senior technician, project coordinator, or hydrology specialist; can also become a hydrology engineer or water resource management manager through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hydrologic Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hydrologic technicians?**
-答：Entry-level: $35k-$45k; mid-level: $45k-$60k; senior: $60k-$80k. Salaries vary by location and employer, with government positions generally lower than private sector.
-
-**问：Is it easy to immigrate to the US as a hydrologic technician?**
-答：Possible via H-1B or EB-2/EB-3 green card, requiring employer sponsorship. Not on STEM shortage list, so quota competition is high.
-
-**问：What are the career advancement paths for hydrologic technicians?**
-答：Advance to senior technician, project coordinator, or hydrologist; further education can lead to hydrologic engineer or water resource manager.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

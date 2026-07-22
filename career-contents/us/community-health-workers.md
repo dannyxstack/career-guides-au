@@ -1,60 +1,96 @@
-# Community Health Workers（Community Health Workers）职业分析 · 美国
+# Community Health Workers — career analysis · United States
 
-**职业代码：21-1094 – Community Health Workers。**
+**Occupation code: 21-1094 (SOC)**
 
-Community health workers promote health within a community by helping individuals adopt healthy behaviors, acting as advocates for health needs, and implementing programs to improve individual and community health.
+Community health workers promote health within communities, help individuals adopt healthy behaviors, act as advocates to help residents communicate with medical or social service agencies, and implement programs that promote individual and community health.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 0 | —（部分职位只需高中及短期培训） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区大学常见路径） |
+| High school graduation or equivalent | 0 | $0~$0 (Some positions only require high school and short-term training) |
+| Associate degree | 2 years | $10,000~$30,000 (Typical community college path) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证健康教育家（CHES） | 国家健康教育认证委员会 | 可选 | 提升竞争力，非强制 |
-| 社区健康工作者证书 | 各州卫生部门 | 可选 | 部分州要求认证 |
+| Certified Health Education Specialist (CHES) | National Commission for Health Education Credentialing | Optional | Increases competitiveness, not mandatory |
+| Community health worker certificate | State health departments | Optional | Some states require certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 65,000。美国劳工统计局预测2023-2033年就业增长约14%，远高于平均水平，受社区健康重视和人口老龄化推动。
+**Job demand: very high (★★★★½).** National workforce approx. 65,000. The US Bureau of Labor Statistics projects about 14% employment growth from 2023 to 2033, much faster than average, driven by community health emphasis and an aging population.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 入门级薪资较低 |
-| 中级（3-7年） | $40,000~$50,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $50,000~$60,000 | 可担任主管或项目协调员 |
+| Median salary | $51,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level salary is relatively low |
+| Mid-level (3–7 years) | $40,000~$50,000 | Salary increases with experience |
+| Senior (7+ years) | $50,000~$60,000 | Can serve as supervisor or project coordinator |
+| average salary | $56,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径可从基层工作者晋升为项目协调员或主管，或通过继续教育成为健康教育家或公共卫生专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Community health workers' core value lies in interpersonal trust and localized services; AI cannot easily replace their emotional support and community liaison functions. However, administrative tasks such as data management and educational material generation will be greatly enhanced by AI, requiring practitioners to shift to higher-value personalized guidance roles.
+
+Career path can progress from entry-level worker to project coordinator or supervisor, or through continuing education become a health educator or public health specialist.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate health promotion materials and FAQ content
+- using chatbots for initial health screening and appointment reminders
+- Automatically record and organize customer follow-up records and basic data entry
+- Generate personalized health action plan drafts based on standard protocols
+- Automatically identify community health trends and generate reports via algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted personalized health advice: generate customized intervention plans based on resident health data
+- Smart customer relationship management system: automatically flag high-risk families and remind follow-up
+- Multilingual real-time translation: facilitating seamless communication with residents from different language backgrounds
+- VR/AR simulation training: for health literacy education and behavior change skill practice
+- Predictive analytics tools: identify potential health crises in communities and plan resources in advance.
+
+**Human moat:**
+
+- Build deep trust and empathetic communication
+- Creative problem-solving in complex social situations.
+- Cultural sensitivity assessment and localized intervention design
+- Multi-agency coordination and advocacy for community resource integration
+- Intuitive judgment and ethical decision-making in unstructured information
+
+**Skills to build:**
+
+- Basic data analysis and visualization (e.g., Excel, Tableau)
+- Proficient in operating CRM and health information exchange platforms
+- Learn to use AI health tools (e.g., ChatGPT, AI assessment assistants)
+- Enhance cross-cultural communication and community fundraising skills
+- Participate in data privacy and ethics training
+- Develop skills in project management and community program evaluation
+
+**Key growth areas:**
 
 - Community Health
 - Public Health
@@ -63,61 +99,63 @@ Community health workers promote health within a community by helping individual
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，但社区健康工作者职位常不满足，H-1B较少见 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 可通过PERM申请，但需雇主担保且证明无美国工人可用，路径困难 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually requires a bachelor's degree, but community health worker positions often do not meet requirements, H-1B is rare |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Can apply via PERM, but requires employer sponsorship and proof no US workers available; path is difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Community Health Workers？**
-- 擅长人际沟通和社区动员的人
-- 有志于促进公共卫生和健康公平的人
+**Who is suited**
+- People skilled in interpersonal communication and community mobilization.
+- Individuals committed to promoting public health and health equity.
 
-**谁不适合学Community Health Workers？**
-- 追求高薪和快速晋升的人
-- 不喜欢频繁社区外出和家访的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike frequent community outings and home visits
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for community health workers?**
+A: Pay is relatively low; entry-level approx. $30,000–40,000, senior up to $50,000–60,000, but job satisfaction is high.
+
+**Q: Can community health workers immigrate to the US?**
+A: Skilled migration paths are very limited. This occupation typically doesn't require a bachelor's degree; H-1B and EB-3 green card applications are difficult, and employer sponsorship opportunities are few.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Community Health Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary prospects for community health workers?**
-答：Salaries are relatively low, with entry-level around $30,000-$40,000 and senior up to $50,000-$60,000, but job satisfaction is high.
-
-**问：Can community health workers immigrate to the US?**
-答：Skilled migration paths are very limited. The occupation typically does not require a bachelor's degree, making H-1B and EB-3 green card applications difficult with few employer sponsors.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

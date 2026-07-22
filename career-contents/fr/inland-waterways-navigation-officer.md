@@ -1,60 +1,95 @@
-# Inland Waterways Navigation Officer（Inland Waterways Navigation Officer）职业分析 · FR
+# Inland Waterways Navigation Officer — career analysis · France
 
-**职业代码：N3103 – Inland Waterways Navigation Officer。**
+**Occupation code: N3103 (ROME)**
 
-Operates and navigates inland waterway vessels, manages cargo transport, and ensures compliance with safety and environmental regulations.
+Responsible for navigation, navigation, and cargo transportation management of inland vessels to ensure the safety and compliance of waterways.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Maritime (内河航运) | 2年 | —（公立学校免学费，注册费约150-500欧元/年） |
-| BTS Transport fluvial (内河运输高级技师) | 2年 | —（公立/私立BTS，公立免学费，注册费约200-800欧元/年） |
+| CAP Maritime (Inland Shipping) | 2 years | $0~$2,000 (Public schools are tuition-free, with registration fees of about 150-500 euros per year) |
+| BTS Transport Fluvial (Senior Inland Transport Technician) | 2 years | $0~$3,000 (Public/Private BTS: Public tuition is free, registration fee is about 200-800 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 内河船舶驾驶员证书 (Certificat de capacité pour la navigation intérieure) | 法国生态转型与团结部 (Ministère de la Transition écologique) | 必备 | 必须持有，分不同吨位/航区等级 |
-| 基础安全培训 (STCW内河等效) | 法国航运培训中心 | 必备 | 安全、消防、急救等模块 |
+| Inland Vessel Operator Certificate (Certificat de capacité pour la navigation intérieure) | Ministry of Ecological Transition and Solidarity (Ministère de la Transition écologique) | Required | It is mandatory and divided into different tonnage/zone grades |
+| Basic Safety Training (STCW Inland Equivalent Level) | French Shipping Training Center | Required | Safety, fire protection, emergency rescue, and other modules |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,500。法国内河货运量稳定增长，绿色航运转型加速，需持证驾驶员补充退休潮空缺。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,500. France's inland waterway freight volume is steadily growing, the transformation to green shipping is accelerating, and licensed drivers are needed to fill vacancies in the retirement wave.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 含奖金，税前年薪 |
-| 中级（3-8年） | $32,000~$42,000 | 担任船长或高级驾驶员 |
-| 高级（8年以上） | $45,000~$55,000 | 大型船舶船长或航运主管 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Including bonuses and pre-tax annual salary |
+| Mid-level (3–8 years) | $32,000~$42,000 | Serve as captain or senior pilot |
+| Senior (8+ years) | $45,000~$55,000 | Captain of large vessels or shipping supervisors |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从实习生或船员起步，考取内河导航证书后可晋升船长或航运调度主管。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Starting as an intern or crew member, after obtaining an inland navigation certificate, you can be promoted to captain or shipping dispatch supervisor.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - River freight growth
 - Green shipping transition
@@ -63,69 +98,68 @@ Operates and navigates inland waterway vessels, manages cargo transport, and ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合被法国航运公司聘用且年薪高于38,400欧元的专业人士 |
-| Subclass Salarié（Employee Work Permit） | 若雇主提供工作合同且符合劳动市场条件，可申请受雇工作居留 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪53,941欧元以上（2025门槛），通常适用于高级职位 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for professionals hired by French shipping companies with annual salaries above 38,400 euros |
+| Subclass Salarié (Employee Work Permit) | If the employer provides a work contract that meets labor market conditions, you can apply for employment work residence |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of at least 53,941 euros (2025 threshold) is required, usually applicable to senior positions |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inland Waterways Navigation Officer？**
-- 喜欢户外和水上工作
-- 适应倒班和长时间航行
-- 对机械和导航技术感兴趣
-
-**谁不适合学Inland Waterways Navigation Officer？**
-- 晕船或对封闭空间不适
-- 无法接受长时间远离家人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor and water work
+- Adapt to shifts and long voyages
+- Interested in mechanical and navigation technology
+
+**Who is not suited**
+- Seasickness or discomfort in confined spaces
+- Unable to accept being away from family for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for inland shipping drivers?**
+A: Junior annual salary approx. €24,000-30,000, with experience up to €45,000+; large ship captains earn more.
+
+**Q: How can foreigners obtain an inland shipping work visa?**
+A: Must obtain a work contract from a French employer and apply for Salarié residency; High-paying individuals can apply for Passeport Talent or the EU Blue Card.
+
+**Q: How do you pass the Qualification Certification (Reconnaissance des qualifications)?**
+A: Non-EU certificates must be assessed by the French Ministry for Ecological Transition, followed by supplementary courses and passing an exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Inland Waterways Navigation Officer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for inland navigation officers?**
-答：Entry-level salaries range from €24,000 to €30,000; experienced captains can earn over €45,000.
-
-**问：How can a foreigner obtain a work visa for inland navigation?**
-答：A job offer from a French employer is required; apply for a Salarié permit or Talent Passport if salary thresholds are met.
-
-**问：How to get qualification recognition?**
-答：Non-EU certificates must be assessed by the Ministry, with additional training and exams if needed.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

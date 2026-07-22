@@ -1,59 +1,90 @@
-# Mining Machine Operator（Mining Machine Operator）职业分析 · 新西兰
+# Mining Machine Operator — career analysis · New Zealand
 
-**职业代码：811611 – Mining Machine Operator。**
+**Occupation code: 811611 (ANZSCO)**
 
-Operate surface or underground mining equipment such as excavators, bulldozers, and haul trucks. New Zealand's mining sector is small but faces skill shortages, offering migration pathways via Green List and Skilled Migrant Category.
+Operate open-cut or underground mining equipment such as excavators, bulldozers, and mining trucks. New Zealand's mining industry is small but has skill shortages; settlement can be achieved via the Green List or skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书（学徒制） | 2年 | $5,000~$15,000（新西兰矿业协会（NZMIA）认可的学徒项目） |
-| 在职培训 | 6-12个月 | —（雇主提供培训，可能需自费部分证书） |
+| Certificate (apprenticeship) | 2 years | $5,000~$15,000 (Apprenticeship program accredited by the New Zealand Mining Industry Association (NZMIA)) |
+| On-the-job training | 6–12 months | $0~$5,000 (Employer provides training; some certificates may need to be self-funded.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰矿业证书 (New Zealand Certificate in Mining) | NZMIA / MITO | 必备 | Level 3或4，包含安全操作、设备维护等 |
-| 驾驶执照（重型车辆） | NZTA | 必备 | 需Class 2或4驾照，采矿卡车通常要求Class 5 |
-| 危险货物驾驶许可证 (Dangerous Goods Endorsement) | NZTA | 可选 | 如运输爆炸物等 |
+| New Zealand Certificate in Mining | NZMIA / MITO | Required | Level 3 or 4, including safe operation, equipment maintenance, etc. |
+| Driver's license (heavy vehicle) | NZTA | Required | Requires Class 2 or 4 license; mining trucks typically require Class 5 |
+| Dangerous Goods Endorsement | NZTA | Optional | Such as transporting explosives |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 700。新西兰采矿业以金、银、煤为主，分布在科罗曼德尔半岛、西海岸和南岛。预计未来五年从业人数基本稳定，年均新增约50岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 700. New Zealand mining industry primarily gold, silver, coal; located in Coromandel Peninsula, West Coast, and South Island. Workforce expected to remain stable over next five years, with about 50 new jobs annually
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 试用期后通常有加薪 |
-| 中级（3-5年） | $75,000~$90,000 | 包括经验丰富操作自动设备的操作员 |
-| 高级（5年以上） | $95,000~$120,000 | 含领班或多技能操作员 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Salary increase usually after probation |
+| Mid-level (3–5 years) | $75,000~$90,000 | Includes operators experienced in operating automated equipment |
+| Senior (5+ years) | $95,000~$120,000 | Includes lead or multi-skilled operator |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从初级操作员到高级操作员或领班，可转向采矿监督、爆破工程、矿山规划等岗位，需积累经验+考取相关证书。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
+
+Career progression: from junior operator to senior operator or supervisor, can move into mining supervision, blasting engineering, mine planning, etc., requiring experience + relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Autonomous haulage systems (AHS) take over transport cycle operations.
+- GPS navigation and sensors automatically handle path planning and obstacle avoidance
+- AI scheduling system optimises fleet allocation, replacing manual scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults to improve maintenance efficiency
+- Virtual reality (VR) simulators for safety training and operation drills
+- Data analysis to optimise fuel consumption and tyre wear.
+
+**Human moat:**
+
+- Emergency judgment and decision-making in complex geological conditions
+- On-site rapid repair skills for equipment breakdowns
+- Cross-device coordination and multitasking
+- Safety procedure execution and risk assessment
+
+**Skills to build:**
+
+- Automated system operation and monitoring (e.g., AHS console)
+- Basic data analysis (Python/R)
+- Remote device diagnostics and maintenance (IoT sensors)
+- Safety regulation updates and digital management.
+- Cross-departmental collaboration and communication skills
+- Drone inspection operations.
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +93,67 @@ Operate surface or underground mining equipment such as excavators, bulldozers, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 采矿机械操作工在绿色清单Tier 2，工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 符合技术移民条件，基于薪资和技能评估 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主可担保，适合先来新西兰工作 |
+| Subclass Green List T2 (Green List Work to Residence) | Mining machinery operators are on the Green List Tier 2 and can apply for residency after 2 years of work. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Eligible for Skilled Migration, based on salary and skills assessment |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employers can sponsor, suitable for those wanting to work in New Zealand first. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Machine Operator？**
-- 喜欢户外和机械设备操作
-- 能适应偏远矿区工作和倒班
-- 愿意接受安全培训和严格规程
-
-**谁不适合学Mining Machine Operator？**
-- 不适应孤立工作和长时间驾驶
-- 体能或听力不佳
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work and operating machinery.
+- Able to adapt to remote mine site work and shift work
+- Willing to undergo safety training and strict procedures
+
+**Who is not suited**
+- Not suited for isolated work or long hours of driving.
+- Poor physical fitness or hearing
+
+---
+
+## 8. FAQ
+
+**Q: How much do mining machinery operators earn in New Zealand?**
+A: Junior NZD 55,000-70,000, senior up to NZD 95,000-120,000, usually includes overtime and site allowances.
+
+**Q: Can mining machinery operators immigrate via the Green List?**
+A: Yes, this occupation is on the Green List Tier 2; can apply for residence after 2 years of work, also meets skilled migration requirements.
+
+**Q: What certificates are needed to become a mining machine operator in New Zealand?**
+A: Requires New Zealand mining certificate (Level 3/4) and heavy vehicle license (Class 2-5); some positions require hazardous goods endorsement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mining Machine Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for mining machine operators in New Zealand?**
-答：Entry-level earns NZD 55,000-70,000, senior up to NZD 95,000-120,000, often with overtime and remote area allowances.
-
-**问：Can mining machine operators immigrate via the Green List?**
-答：Yes, the occupation is on Green List Tier 2, enabling Work to Residence after 2 years, also eligible for Skilled Migrant Category.
-
-**问：What certificates are required to become a mining machine operator in NZ?**
-答：You need a New Zealand Certificate in Mining (Level 3/4) and a heavy vehicle license (Class 2-5), some roles require dangerous goods endorsement.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

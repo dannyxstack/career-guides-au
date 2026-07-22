@@ -1,60 +1,96 @@
-# Complementary Health Therapists nec（Complementary Health Therapists nec）职业分析 · 澳大利亚
+# Complementary Health Therapists nec — career analysis · Australia
 
-**职业代码：252299 – Complementary Health Therapists nec。**
+**Occupation code: 252299 (ANZSCO)**
 
-Provides complementary health therapies such as naturopathy, Chinese medicine, herbalism, and aromatherapy to support or alternative conventional medical treatment.
+Provides non-traditional health therapies, including naturopathy, Chinese medicine, herbal medicine, aromatherapy, etc., to supplement or replace conventional medical treatments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma | 1-2年 | $15,000~$30,000（私立学院学费不等） |
-| Bachelor Degree | 3-4年 | $60,000~$120,000（大学本科学费） |
-| Masters Degree | 1-2年 | $30,000~$70,000（研究生学费） |
+| Diploma | 1-2 years | $15,000~$30,000 (Tuition fees at private colleges vary) |
+| Bachelor Degree | 3-4 years | $60,000~$120,000 (Undergraduate Tuition Fees) |
+| Masters Degree | 1-2 years | $30,000~$70,000 (Graduate tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关专业学位或文凭 | TEQSA或ASQA认可的院校 | 必备 | 需在CRICOS注册课程 |
-| 职业注册或会员 | 澳大利亚自然疗法协会(ANTA)等 | 可选 | 自愿但推荐注册以增强就业 |
-| 专业技能评估 | 指定评估机构（如VETASSESS） | 可选 | 用于移民申请 |
+| Relevant degree or diploma | TEQSA or ASQA accredited institutions | Required | Must enroll in a CRICOS-registered course |
+| Professional registration or membership | Australian Natural Therapists Association (ANTA), etc. | Optional | Voluntary but recommended registration to enhance employment |
+| Professional skills assessment | Specified assessing authority (e.g., VETASSESS) | Optional | Used for immigration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。随着人们对整体健康与替代医疗的接受度提高，澳洲对此类职业的需求稳步增长。尤其在偏远地区，因医生短缺，补充疗法受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. As acceptance of holistic health and alternative medicine grows, demand for such occupations in Australia is steadily increasing, especially in remote areas where complementary therapies are popular due to doctor shortages.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 受雇于诊所或健康中心 |
-| 中级（3-7年） | $65,000~$85,000 | 有经验者或开始独立执业 |
-| 高级（7年以上） | $85,000~$120,000 | 资深从业者、诊所主理人 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$65,000 | Employed by clinics or health centers |
+| Mid-level (3–7 years) | $65,000~$85,000 | For experienced individuals or those starting independent practice |
+| Senior (7+ years) | $85,000~$120,000 | Senior practitioner, clinic manager |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可从初级治疗师晋升为高级临床顾问、诊所经理或独立执业。部分人进一步深造成为讲师或研究学者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
+
+Practitioners can progress from junior therapist to senior clinical consultant, clinic manager, or independent practitioner. Some further study to become lecturers or researchers.
+
+**Tasks most exposed to AI:**
+
+- Preliminary symptom analysis and health history recording
+- Patient appointment scheduling, reminders, and basic follow-up email generation
+- Assisting pattern recognition for common therapies (e.g., acupoint localization).
+- Herbal formula dosage calculation and interaction checking
+- Standardized health questionnaire results are automatically parsed
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve assessment accuracy (e.g., tongue/pulse analysis)
+- Big data recommends personalized wellness plans (diet, schedule, exercise)
+- Digital therapy platform expands remote monitoring and interaction
+- Knowledge retrieval system for quick access to latest clinical research
+- Intelligent exercise guidance to assist patients in self-rehabilitation (e.g., qigong, meditation)
+
+**Human moat:**
+
+- Intuition and touch in body contact therapies (e.g., massage, acupuncture)
+- Empathetic communication and emotional support to build trust
+- Complex cross-system overall judgment and decision-making
+- Culturally sensitive personalized advice (considering life background)
+- Emergency response and real-time physical reaction adjustment
+
+**Skills to build:**
+
+- AI health analysis tool operation (e.g., symptom checker, digital tongue diagnosis)
+- Basic programming or data analysis (Python/R for patient data)
+- Digital therapeutics platform usage and remote health management skills
+- Ethics and data privacy management (GDPR related)
+- Enhanced communication and patient education skills (explaining AI recommendations)
+- Continuously track evidence-based medicine and AI integration research
+
+**Key growth areas:**
 
 - Increasing demand
 - Rising acceptance
@@ -63,69 +99,68 @@ Provides complementary health therapies such as naturopathy, Chinese medicine, h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 若职业在CSOL上，可申请雇主担保临时签证 |
-| Subclass 190（Skilled Nominated visa） | 需州担保，部分州提名补充健康治疗师 |
-| Subclass 491（Skilled Work Regional visa） | 偏远地区州担保，可加分 |
-| Subclass 189（Skilled Independent visa） | 需在MLTSSL上，此职业通常不在列 |
+| Subclass 482 (Temporary Skill Shortage visa) | If the occupation is on the CSOL, you may apply for an employer-sponsored temporary visa |
+| Subclass 190 (Skilled Nominated visa) | Requires state nomination, some states nominate complementary health therapists |
+| Subclass 491 (Skilled Work Regional visa) | Regional state sponsorship, can add points |
+| Subclass 189 (Skilled Independent visa) | Must be on the MLTSSL; this occupation is usually not on the list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Complementary Health Therapists nec？**
-- 对自然疗法充满热情的人
-- 希望灵活工作时间的人
-- 善于沟通和客户关怀的人
-
-**谁不适合学Complementary Health Therapists nec？**
-- 期望高稳定收入的人
-- 对医学证据要求严格的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about naturopathy
+- people seeking flexible working hours
+- Person who is good at communication and customer care
+
+**Who is not suited**
+- People seeking high and stable income
+- Those with strict requirements for medical evidence
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of complementary health therapists?**
+A: Income varies by practice type and experience. Employed at a clinic annual salary approx. AUD 50,000-85,000; self-employed income fluctuates more, potentially over AUD 120,000.
+
+**Q: How can complementary health therapists immigrate to Australia?**
+A: This occupation is usually not on the MLTSSL, but may appear on the CSOL or state/territory nominated occupation lists. It can apply for 482 employer-sponsored or 190/491 state-sponsored visas. A skills assessment through VETASSESS or other bodies is required.
+
+**Q: What are the career prospects for this occupation?**
+A: Demand continues to grow as interest in alternative medicine increases. Practitioners can advance to senior therapist, clinic manager, or open their own clinic, and can also engage in teaching and research.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Complementary Health Therapists nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of complementary health therapists?**
-答：Income varies by practice mode and experience. Employed therapists earn around AUD 50,000-85,000 annually, while self-employed practitioners can earn over AUD 120,000.
-
-**问：How can complementary health therapists migrate to Australia?**
-答：This occupation is usually not on MLTSSL but may be on CSOL or state nomination lists. Options include 482 employer-sponsored, 190/491 state-nominated visas. Skill assessment via VETASSESS is required.
-
-**问：What are the career prospects for this occupation?**
-答：With rising interest in alternative medicine, demand is growing. Therapists can advance to senior roles, clinic managers, or open their own practice, and also pursue teaching or research.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

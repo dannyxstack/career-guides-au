@@ -1,59 +1,94 @@
-# Social Work Teachers, Postsecondary（Social Work Teachers, Postsecondary）职业分析 · 美国
+# Social Work Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1113 – Social Work Teachers, Postsecondary。**
+**Occupation code: 25-1113 (SOC)**
 
-Teach courses in social work at postsecondary institutions, combining teaching and research.
+Teach social work courses at higher education institutions, including teaching and research duties.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 4-6年 | $30,000~$60,000（每年学费，含生活费） |
-| 硕士学位 | 2年 | $20,000~$40,000（每年学费，含生活费） |
+| Doctoral degree (PhD) | 4-6 years | $30,000~$60,000 (Annual tuition fees including living expenses) |
+| Master's degree | 2 years | $20,000~$40,000 (Annual tuition fees including living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作博士(PhD in Social Work) | 大学 | 必备 | 通常要求 |
-| 社会工作硕士(MSW) | 大学 | 可选 | 部分社区学院可能接受 |
-| 社会工作执照(Licensed Clinical Social Worker) | 州执照委员会 | 可选 | 临床教学可能需要 |
+| PhD in Social Work | University | Required | Usually required |
+| Master of Social Work (MSW) | University | Optional | Some community colleges may accept |
+| Licensed Clinical Social Worker | State Licensing Board | Optional | Clinical teaching may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,300。美国就业前景稳定，本科及研究生教育需求持续增长，但受高等教育财政影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,300. Job prospects are stable in the U.S., with continued demand for undergraduate and graduate education, but affected by higher education funding.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-5年） | $55,000~$75,000 | 根据院校和地区 |
-| 中级（副教授，5-10年） | $70,000~$95,000 | 根据院校和地区 |
-| 高级（教授，10年以上） | $90,000~$130,000 | 根据院校和地区 |
+| Median salary | $77,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (Assistant Professor, 0-5 years). | $55,000~$75,000 | Varies by institution and region |
+| Mid-level (Associate Professor, 5-10 years) | $70,000~$95,000 | Varies by institution and region |
+| senior (professor, 10+ years) | $90,000~$130,000 | Varies by institution and region |
+| average salary | $83,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理教授晋升至副教授、正教授，进而担任系主任或学院领导职务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
+
+Can be promoted from assistant professor to associate professor, full professor, and then to department chair or college leadership roles.
+
+**Tasks most exposed to AI:**
+
+- Automated case recording and report writing
+- Preliminary client information collection and filing
+- Resource database query and matching
+- Distribution and collation of standardized assessment questionnaires
+- Appointment scheduling and reminder notifications
+
+**Where AI augments the role:**
+
+- AI provides real-time translation to assist communication with non-native speaking clients
+- Predictive analytics helps identify high-risk cases.
+- Emotion recognition tools assist remote psychological counseling
+- Automatically generate multilingual service guides and promotional materials
+- Virtual reality simulation for training crisis intervention skills
+
+**Human moat:**
+
+- Building Trust and Empathic Communication Face-to-Face
+- Handling complex ethical dilemmas and value conflicts
+- Cross-system coordination and advocacy
+- Make comprehensive judgments in dynamic, unpredictable environments
+
+**Skills to build:**
+
+- AI-assisted clinical decision support tool operation
+- Basics of data analysis and statistical modeling
+- Digital mental health platform usage
+- Ethics and privacy protection (especially in AI application scenarios)
+- Cross-cultural communication and diverse service capabilities
+- Project management and multi-agency collaboration
+
+**Key growth areas:**
 
 - Postsecondary Education
 - Social Work
@@ -62,68 +97,67 @@ Teach courses in social work at postsecondary institutions, combining teaching a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于大学教学职位，需雇主支持 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士学位或以上，通过PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出研究或教学人员 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable for university teaching positions, requires employer support |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, via PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to distinguished research or teaching personnel |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Work Teachers, Postsecondary？**
-- 热爱教学和研究的社会工作专业博士
-- 具有临床经验并希望培养下一代社工的人
-- 喜欢学术环境和终身学习的人
-
-**谁不适合学Social Work Teachers, Postsecondary？**
-- 不愿从事研究或学术写作的人
-- 追求高收入而非工作稳定的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- PhD in Social Work with a passion for teaching and research
+- Someone with clinical experience who wants to train the next generation of social workers
+- People who enjoy an academic environment and lifelong learning
+
+**Who is not suited**
+- People unwilling to engage in research or academic writing
+- People pursuing high income rather than job stability
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social work teachers?**
+A: Entry-level assistant professor salary approx. USD 55,000-75,000 per year; professor up to USD 90,000-130,000, depending on institution and location.
+
+**Q: What immigration pathways are available for foreigners to become a social work teacher in the United States?**
+A: Typically via H-1B work visa, then apply for EB-2 or EB-3 green card. Outstanding researchers can apply for O-1 visa.
+
+**Q: What educational background is required?**
+A: Usually requires a doctoral degree in social work; some community colleges may accept a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Social Work Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for social work teachers?**
-答：Entry-level assistant professors earn about $55,000-$75,000, while full professors can earn $90,000-$130,000, depending on institution and location.
-
-**问：What are the immigration pathways for foreign social work teachers?**
-答：Typically through H-1B visa, then EB-2 or EB-3 green card. O-1 visa is available for outstanding researchers.
-
-**问：What educational background is required?**
-答：A PhD in social work is typically required; some community colleges may accept a master's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

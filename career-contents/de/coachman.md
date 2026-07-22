@@ -1,60 +1,96 @@
-# Coachman（Coachman）职业分析 · DE
+# Coachman — career analysis · Germany
 
-**职业代码：1134 – Coachman。**
+**Occupation code: 1134 (KldB)**
 
-Coachmen drive and maintain horse-drawn carriages for tourism, transport, or special events, primarily serving tourist sites and traditional sectors.
+A coachman is responsible for driving and maintaining carriages for tourism, transportation, or special events, mainly serving tourist attractions and traditional industries.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年（双元制） | —（双元制培训无学费，企业支付津贴） |
-| 短期课程 | 2-6个月 | $500~$2,000（马术/马车驾驶证书课程） |
+| Vocational training | 3 years (dual system) | $0~$500 (Dual training has no tuition fees, and companies pay allowances) |
+| Short-term courses | 2-6 months | $500~$2,000 (Equestrian / carriage driving certificate course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理或马术培训证书 | 德国联邦农业局或当地马术协会 | 可选 | 非强制但有助于就业 |
-| 驾照（B类） | 德国交通管理局 | 可选 | 驾驶马车常需培训许可 |
+| Animal care or equestrian training certificate | German Federal Office for Agriculture or local equestrian association | Optional | Not mandatory but helpful for employment |
+| Driver's license (Class B) | German Transport Authority | Optional | Driving a horse-drawn carriage often requires a training permit |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很低（★☆☆☆☆）。** 全国从业人数约 2,000。马车夫职业在德国属小众，需求稳定但有限，主要依赖旅游和马术文化。数字化和汽车替代导致岗位减少，但传统活动和乡村旅游提供少量机会。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 2,000. The carriage driver occupation is a niche in Germany, with steady but limited demand, mainly reliant on tourism and equestrian culture. Digitalization and automotive replacement have led to job reductions, but traditional events and rural tourism offer limited opportunities.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，多为兼职或季节工 |
-| 中级（3-7年） | $26,000~$32,000 | 全职，含小费 |
-| 高级（7年以上） | $30,000~$38,000 | 自营或带团队 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Pre-tax annual salary, mostly part-time or seasonal work |
+| Mid-level (3–7 years) | $26,000~$32,000 | Full-time, including tips |
+| Senior (7+ years) | $30,000~$38,000 | Self-employed or leading a team |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 入门门槛低，可自营马车业务或转向马术教练、旅游服务等方向。晋升空间有限，需积累客户和口碑。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+The coachman profession faces dual pressure from automation and declining tourism demand, but opportunities remain in high-end custom travel and cultural heritage preservation; AI mainly assists with scheduling and maintenance rather than full replacement.
+
+Low entry barrier, can run own carriage business or transition to horse-riding coach, tourism services, etc. Limited promotion opportunities, need to build client base and reputation.
+
+**Tasks most exposed to AI:**
+
+- Booking and route planning: AI scheduling system automatically optimizes itineraries, reducing manual arrangement.
+- Basic customer service: chatbots handle common inquiries and complaints.
+- Vehicle maintenance records: AI image recognition monitors wear and tear on carriage parts, automatically generating maintenance reports.
+- Finance and bookkeeping: automated software handles payments, taxes, and revenue statistics.
+- Marketing and promotion: AI tools generate social media content to target tourists.
+
+**Where AI augments the role:**
+
+- Multilingual interaction: AI translation devices help communicate with international tourists, enhancing service experience.
+- Health monitoring: AI wearable devices monitor horse heart rate and gait in real time to help prevent disease.
+- Route optimization: AI combines real-time traffic and weather data to recommend safe and comfortable driving routes.
+- Personalized experience: AI analyzes visitor preferences to customize story narration, music, or photo spots.
+- Safety alert: AI sensors detect road obstacles or abnormal horse behavior, promptly alerting the driver.
+
+**Human moat:**
+
+- Horse behavior interpretation and emotional connection: AI cannot replace human perception and soothing of subtle emotional changes in horses.
+- Emergency handling in complex environments: sudden incidents (e.g., spooked horses, road obstacles) require human real-time judgment and action.
+- Cultural heritage transmission: traditional carriage driving skills, historical storytelling require human touch and live presence.
+- High-end service trust: VIP customers require one-on-one, high-privacy exclusive services, where AI lacks empathy.
+- Handcraft maintenance: traditional skills like saddle making and carriage repair cannot be replicated by AI.
+
+**Skills to build:**
+
+- Horse health management: learn basic veterinary knowledge, nutrition, and use of AI health monitoring tools.
+- Customer experience design: understand the principles of the experience economy and learn how to use AI to customise personalised services.
+- Digital marketing: social media operations, content creation, and AI-assisted ad placement skills.
+- Small team management: training novices, coordinating multiple carriage operations.
+- Safety and emergency certifications: obtain first aid, horse emergency handling, etc.
+- Basic data analysis: use AI to analyze customer feedback and operational efficiency to optimize service solutions.
+
+**Key growth areas:**
 
 - Tourism
 - Heritage Preservation
@@ -63,62 +99,64 @@ Coachmen drive and maintain horse-drawn carriages for tourism, transport, or spe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需德国雇主offer且职业资格被认可，但马车夫非典型技术职业 |
-| Subclass Chancenkarte（Opportunity Card） | 机会卡用于找工，但马车夫市场小，成功率低 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires a German employer offer and professional qualification recognition, but coachman is not a typical skilled occupation. |
+| Subclass Chancenkarte (Opportunity Card) | The Opportunity Card is used for job seeking, but the coachman market is small with low success rates. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coachman？**
-- 热爱动物和马术者
-- 寻求传统乡村生活方式的人
-- 喜欢户外工作和低压力环境的人
+**Who is suited**
+- For those who love animals and horse riding
+- People seeking traditional rural lifestyle
+- People who enjoy outdoor work and low-pressure environments
 
-**谁不适合学Coachman？**
-- 追求高薪和职业发展的人
-- 对动物过敏或不喜欢体力劳动的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- Those allergic to animals or who dislike physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a coachman in Germany?**
+A: Full-time carriage driver pre-tax annual salary around €26,000 to €32,000, senior or self-employed up to €38,000. Income often includes tips, but fluctuates significantly.
+
+**Q: Can foreigners immigrate to Germany through the coachman occupation?**
+A: Extremely difficult. Coachman is not a shortage occupation and has a small market; employer sponsorship and qualification recognition pathways are unclear. Consider other skilled trades.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 很低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Coachman属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a coachman in Germany?**
-答：Full-time coachmen earn around €26,000-€32,000 gross annually, with seniors or self-employed up to €38,000. Tips are common but vary.
-
-**问：Can foreigners immigrate to Germany as coachmen?**
-答：Very difficult. Coachman is not a shortage occupation with limited market; employer sponsorship and qualification recognition are unclear. Consider other skilled trades.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

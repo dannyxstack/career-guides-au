@@ -1,60 +1,96 @@
-# Secretary (general)（Secretary (general)）职业分析 · IT
+# Secretary (general) — career analysis · Italy
 
-**职业代码：4120 – Secretary (general)。**
+**Occupation code: 4120 (ISCO08)**
 
-Secretaries general handle administrative tasks such as answering phones, scheduling meetings, and organizing files, providing essential support for office operations.
+General secretaries handle administrative tasks, including answering phones, scheduling meetings, organizing files, etc., and are core support roles in office operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立学校免费） |
-| 职业培训证书 | 1年 | $1,500~$5,000（私立机构或区域职业培训中心） |
-| 三年制大专（秘书方向） | 3年 | $1,000~$4,000（公立大学学费；私立更高） |
+| High school graduation | 12 years | $0~$0 (Free public schools.) |
+| Vocational training certificate | 1 year | $1,500~$5,000 (Private institutions or regional vocational training centers) |
+| Three-year diploma (Secretarial direction) | 3 years | $1,000~$4,000 (Public university tuition; private is higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 秘书资格证书 | 意大利秘书协会 | 可选 | 非强制但提升竞争力 |
-| 计算机操作证书 | ECDL基金会 | 可选 | 常见要求 |
-| 外语证书（如英语B2） | 剑桥或托业 | 可选 | 外企常要求 |
+| Secretarial qualification certificate | Italian Secretarial Association | Optional | Not mandatory but enhances competitiveness |
+| Computer operation certificate | ECDL Foundation | Optional | Common requirements |
+| Foreign language certificate (e.g., English B2) | Cambridge or TOEIC | Optional | Foreign companies often require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。意大利秘书岗位需求稳定，但数字化转型导致对基础行政技能的需求略有下降。企业更青睐具备数字技能和多语言能力的秘书。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Demand for secretary roles in Italy is stable, but digital transformation has slightly reduced the need for basic administrative skills. Companies prefer secretaries with digital skills and multilingual abilities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，含管理职能 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$38,000 | Annual pre-tax salary, including management functions |
+| average salary | $27,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级秘书可通过积累经验晋升为行政主管或办公室经理；掌握外语和IT技能可进入国际企业或高层管理支持岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The division of tasks in secretary roles is intensifying: repetitive administrative tasks (like scheduling and document processing) will be automated by AI tools, but tasks requiring interpersonal judgment, coordination, and confidentiality still rely on humans. The role is upgrading to administrative specialist or executive assistant, with higher entry thresholds.
+
+Junior secretaries can advance to executive assistant or office manager by gaining experience; acquiring foreign language and IT skills can open doors to international companies or senior management support roles.
+
+**Tasks most exposed to AI:**
+
+- Automated meeting schedule coordination and conflict detection
+- Call screening and standard response generation
+- Document Formatting, Spell Checking, and Template Application
+- Preliminary review of travel bookings and expense reimbursements
+- Simple email classification and auto-reply
+
+**Where AI augments the role:**
+
+- Optimizing executive time allocation through AI schedule analysis
+- Improving meeting minutes efficiency using voice transcription and summarization tools
+- Generate administrative reports and insights using data analysis tools
+- Using AI customer management system to enhance external contact management
+- Automating workflow design to improve overall team efficiency
+
+**Human moat:**
+
+- Judgment and confidentiality skills when handling highly sensitive or confidential information
+- Interpersonal coordination and decision-making in ambiguous or urgent situations
+- Emotional intelligence and relationship management in cross-departmental communication
+- Understanding and navigating informal power structures within an organization.
+- Administrative tasks requiring creativity or personalized handling
+
+**Skills to build:**
+
+- Advanced office suite automation and scripting (e.g., VBA, Power Automate).
+- Hands-on AI tools: meeting scheduling AI, speech-to-text, CRM system
+- Data analysis basics (advanced Excel functions, BI tools)
+- Project management basics (e.g., Agile methodology)
+- Advanced communication and emotional intelligence (conflict resolution, executive support)
+- Digital security and privacy protection awareness
+
+**Key growth areas:**
 
 - Digital skills
 - Multilingual
@@ -63,68 +99,67 @@ Secretaries general handle administrative tasks such as answering phones, schedu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人士，年薪需达到门槛（2023年约27,500欧元）。 |
-| Subclass Decreto Flussi（Decreto Flussi Work Visa） | 配额制工作签证，针对非高技能岗位，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可审批，雇主需证明无法在欧盟内找到合适人选。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU individuals, annual salary must meet the threshold (approximately 27,500 euros in 2023). |
+| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Quota-based work visa for non-high-skilled positions, requiring employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit approval requires employers to demonstrate that no suitable candidate can be found within the EU. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secretary (general)？**
-- 具备良好组织和沟通能力的人
-- 喜欢稳定办公室环境的人
-- 注重细节、多任务处理能力强的人
-
-**谁不适合学Secretary (general)？**
-- 追求高薪和快速晋升的人
-- 不喜欢重复性行政事务的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good organizational and communication skills
+- People who prefer a stable office environment
+- Detail-oriented individuals with strong multitasking skills
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive administrative tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a general secretary in Italy?**
+A: Junior secretaries earn around €18,000-24,000 per year, intermediate around €24,000-30,000, and senior up to €38,000.
+
+**Q: How can non-EU citizens immigrate to Italy through a secretary position?**
+A: Eligible for EU Blue Card (requires annual salary ≥ €27,500) or quota work visa, requiring employer sponsorship and proof that no EU citizen can be hired.
+
+**Q: What are the career development paths for secretary?**
+A: Can be promoted to administrative supervisor, office manager, or executive assistant; multilingual and IT skills can lead to international organizations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Secretary (general)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a general secretary in Italy?**
-答：Entry-level secretaries earn €18,000-24,000, mid-level €24,000-30,000, and senior up to €38,000 per year.
-
-**问：How can non-EU citizens migrate to Italy as a secretary?**
-答：They can apply for an EU Blue Card (min. salary €27,500) or Decreto Flussi quota work visa, requiring employer sponsorship and proof of no available EU workers.
-
-**问：What are the career advancement paths for secretaries?**
-答：They can advance to administrative supervisor, office manager, or executive assistant; multilingual and IT skills open doors to international organizations.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

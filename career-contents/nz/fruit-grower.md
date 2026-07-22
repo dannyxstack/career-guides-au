@@ -1,59 +1,92 @@
-# Fruit Grower（Fruit Grower）职业分析 · 新西兰
+# Fruit Grower — career analysis · New Zealand
 
-**职业代码：121612 – Fruit Grower。**
+**Occupation code: 121612 (ANZSCO)**
 
-Fruit growers plan, plant, cultivate, and harvest fruit crops in orchards, managing farm operations. This profession is eligible for Green List Tier 1 direct residence, requiring at least 3 years' experience or a NZ qualification, ideal for applicants with agricultural background.
+Fruit growers plan, plant, cultivate, and harvest fruit crops in orchards, managing orchard operations. This occupation may be eligible for the Green List direct residence pathway, requiring at least 3 years of relevant experience or a New Zealand qualification, suitable for applicants with agricultural background.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家证书（NZ Certificate in Horticulture） | 2年 | $8,000~$15,000（全日制课程，部分学校提供兼职选项） |
-| 专科文凭（Diploma in Horticulture） | 3年 | $15,000~$25,000（包含实习，适用于果园管理岗位） |
+| New Zealand Certificate in Horticulture | 2 years | $8,000~$15,000 (Full-time courses; some schools offer part-time options) |
+| Diploma in Horticulture | 3 years | $15,000~$25,000 (Includes internship, suitable for orchard management positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰园艺证书（NZ Certificate in Horticulture Level 4） | 新西兰学历认证局（NZQA）认可的培训机构 | 可选 | 非强制，但有助于就业和移民加分 |
-| 全地形车（ATV）安全操作证书 | 农业安全认证机构 | 可选 | 部分果园要求，额外安全认证 |
-| 农业化学品应用证书（Approved Handler Certificate） | 新西兰环境保护局（EPA） | 可选 | 管理农药时可能需要 |
+| New Zealand Certificate in Horticulture (Level 4) | Training provider recognized by the New Zealand Qualification Authority (NZQA) | Optional | Not mandatory, but beneficial for employment and immigration points |
+| All-Terrain Vehicle (ATV) Safety Operation Certificate | Agricultural safety certification body | Optional | Some orchards require additional safety certification |
+| Approved Handler Certificate | New Zealand Environmental Protection Authority (EPA) | Optional | May be required when managing pesticides |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 8,500。新西兰水果种植业持续发展，尤其是猕猴桃、苹果和葡萄产业。由于劳动力短缺，雇主对熟练种植者需求旺盛。预计未来5年从业人数稳步增长，季节性用工需求大。
+**Job demand: very high (★★★★½).** National workforce approx. 8,500. New Zealand's fruit growing industry continues to develop, especially kiwifruit, apple, and grape sectors. Due to labor shortages, employers have strong demand for skilled growers. Steady employment growth expected over the next 5 years, with high seasonal labor demand.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约$22-$26，加班和季节奖金可能额外增加 |
-| 中等（3-6年） | $55,000~$75,000 | 担任主管或团队领导，薪资含绩效 |
-| 高级（6年以上） | $75,000~$100,000 | 果园经理或生产经理，可能含住房补贴 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate about $22-$26, overtime and seasonal bonuses may add extra |
+| Mid-level (3-6 years) | $55,000~$75,000 | Serving as supervisor or team leader, salary includes performance pay |
+| Senior (6+ years) | $75,000~$100,000 | Orchard manager or production manager, may include housing allowance |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级种植者可通过积累经验晋升为果园经理或生产主管。部分人通过学习农业技术或管理课程，进入农业咨询或研发岗位。长期可创业经营自家果园。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Although fruit growers rely on physical labour and field experience, tasks like data analysis and pest identification are increasingly penetrated by AI tools; entry-level jobs are shrinking due to mechanisation and sensors, but demand for high-precision agronomy management roles is rising.
+
+Junior growers can advance to orchard manager or production supervisor through experience. Some move into agricultural consulting or R&D by studying agricultural technology or management courses. Long-term, they can start their own orchard business.
+
+**Tasks most exposed to AI:**
+
+- Crop growth monitoring and yield estimation using computer vision and drones
+- Automated irrigation and fertilization scheduling based on historical data and weather models
+- Uses AI image recognition to automatically detect pests and diseases and recommend treatment plans
+- Recording and basic data analysis (e.g., production statistics, inventory management)
+
+**Where AI augments the role:**
+
+- Using AI prediction models to optimize planting plans and variety selection
+- Adjust orchard microclimate management in real-time through IoT sensor data
+- AI-assisted precision spraying and fertilizing, reducing chemical usage
+- Use NLP tools to quickly obtain the latest agricultural research and market information
+
+**Human moat:**
+
+- On-site decision-making: e.g., judging fruit quality, responding to sudden weather changes
+- Maintenance and troubleshooting of complex machinery (e.g., trimmers, picking robots)
+- Workforce management: coordinating seasonal workers and subcontractors
+- Regulatory compliance: Knowledge of New Zealand's food safety, export standards, and environmental regulations
+
+**Skills to build:**
+
+- Precision agriculture technology (sensors, GPS, drone operation)
+- Basic data analysis (Excel, R, Python, or agricultural software like Farmable)
+- Mechanical automation maintenance (basic repair of electric trimmers, automatic picking robots)
+- Sustainable farming methods (e.g., irrigation and fertilization strategies to reduce carbon footprint)
+- Business Skills (Cost Analysis, Market Forecasting, Supply Chain Optimization)
+- Basic AI tool use (e.g., AI modules in farm management platforms)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Fruit growers plan, plant, cultivate, and harvest fruit crops in orchards, manag
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，需符合工作、薪资和资格要求，可带家人移民。 |
-| Subclass Green List T2（Work to Residence Visa） | 工作转居留签证，工作2年后申请，适用于部分园艺职业。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，薪资达中位数。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, must meet work, salary, and qualification requirements, can bring family for immigration. |
+| Subclass Green List T2 (Work to Residence Visa) | Work to residence visa, apply after 2 years of work, available for some horticultural occupations. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, salary meets median wage. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fruit Grower？**
-- 喜欢户外体力劳动和自然工作环境
-- 有农业或园艺背景，愿意在乡村生活
-- 愿意通过积累经验或学习考取新西兰资格证书
-
-**谁不适合学Fruit Grower？**
-- 不喜爱体力劳动和季节性工作节奏
-- 无法适应偏远地区或常年户外工作
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and natural work environments
+- Have agricultural or horticultural background, willing to live in rural areas
+- Willing to gain a New Zealand qualification through experience accumulation or study.
+
+**Who is not suited**
+- Dislikes manual labour and seasonal work rhythms
+- Unable to adapt to remote areas or year-round outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual income of fruit growers in New Zealand?**
+A: Beginners: approximately NZD 45,000-55,000; experienced orchard supervisors: up to NZD 70,000+; senior managers: over NZD 100,000. Some employers offer seasonal bonuses or housing.
+
+**Q: Can fruit growers immigrate via the Green List?**
+A: Yes. Fruit growers are on the Green List Tier 1 occupation, meeting at least 3 years of relevant experience or NZ qualification, and full-time work allows direct application for residency. Salary must meet the median wage.
+
+**Q: What skills are needed to become a fruit grower?**
+A: Requires skills in fruit tree cultivation, irrigation system operation, and pest and disease identification and management. Communication and team management skills are important for advancement. A New Zealand horticulture certificate is very helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Fruit Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income for a fruit grower in New Zealand?**
-答：Entry-level earns around NZD 45,000-55,000, experienced supervisors up to NZD 70,000+, and senior managers over NZD 100,000. Some employers offer seasonal bonuses or housing.
-
-**问：Can fruit growers immigrate via the Green List?**
-答：Yes. Fruit growers are on the Green List Tier 1. You need at least 3 years of relevant experience or a New Zealand qualification and a full-time job to directly apply for residence. The salary must meet the median wage.
-
-**问：What skills are needed to become a fruit grower?**
-答：Skills include orchard management, irrigation systems, pest and disease control. Communication and team management are important for advancement. A New Zealand horticulture certificate is beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

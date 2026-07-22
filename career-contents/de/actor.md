@@ -1,61 +1,93 @@
-# Actor（Actor）职业分析 · DE
+# Actor — career analysis · Germany
 
-**职业代码：9421 – Actor。**
+**Occupation code: 9421 (KldB)**
 
-Actors portray characters in theater, film, television, or radio, conveying emotions and stories through performance. Work is typically project-based, requiring high creativity and expressiveness.
+Actors interpret roles on stage, film, television, or radio, conveying emotions and stories through performance. Work is usually project-based and requires high creativity and expressiveness.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 表演专业学士学位 | 3-4年（全日制） | —（公立大学仅收学期费，约每学期300欧元） |
-| 私立表演学校培训 | 2-3年（全日制） | $10,000~$30,000（总学费） |
-| 双元制培训（罕见） | 3年 | —（通常不适用） |
+| Bachelor of Performing Arts | 3-4 years (full-time) | $0~$2,000 (Public universities only charge semester fees, approximately 300 euros per semester) |
+| Private performing arts school training | 2-3 years (full-time). | $10,000~$30,000 (Total tuition) |
+| Dual vocational training (rare) | 3 years | $0~$0 (Typically not applicable) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演学位或文凭 | 国家认可的大学或艺术学院 | 可选 | 虽非强制，但极大增加就业机会 |
-| 德国演员协会（BFFS）会员资格 | BFFS | 可选 | 提供职业支持和网络 |
+| Performing arts degree or diploma | Nationally recognised university or art college | Optional | Although not mandatory, greatly increases employment opportunities |
+| German Actors' Association (BFFS) membership | BFFS | Optional | Provides career support and networking. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 28,000。德国娱乐产业稳步发展，但演员市场竞争激烈，职位数量有限。数字化和流媒体平台增加了一些机会，但多数演员仍面临不稳定的就业和收入。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 28,000. Germany's entertainment industry is steadily growing, but the actor job market is highly competitive with limited positions. Digitisation and streaming platforms have created some opportunities, but most actors still face unstable employment and income.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$35,000 | 年收入波动大，取决于项目数量和角色大小 |
-| 中级（3-10年） | $35,000~$60,000 | 稳定角色或固定剧组成员 |
-| 高级（10年以上） | $60,000~$100,000 | 知名演员或主演收入可能更高 |
+| Median salary | $53,940 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$35,000 | Annual income fluctuates greatly, depending on project quantity and role size |
+| Intermediate (3-10 years) | $35,000~$60,000 | Stable role or fixed crew member |
+| Senior (10+ years) | $60,000~$100,000 | Income may be higher for well-known actors or lead performers |
+| average salary | $161,364 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 演员通常从配角或小角色起步，积累经验和人脉后向主角或更重要的角色发展。部分演员转向导演、编剧或表演教学。专业培训和持续进修有助于提升竞争力。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The creative core of actors is not easily replaced by AI, but AI is penetrating areas such as auditions, supporting role generation, and background performances, increasing competitive pressure; meanwhile, AI tools can assist content creation and rehearsal, requiring proactive adoption of technology.
+
+Actors usually start in supporting or minor roles, gaining experience and connections before moving to lead or more significant roles. Some actors transition to directing, writing, or teaching acting. Professional training and continuous education help improve competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of background crowd characters and virtual avatars
+- Automatically generate preliminary audition clips or character proposals based on scripts
+- Replace or modify actors' facial expressions and speech in post-production
+- Match actors and roles based on data analysis, reducing casting workload
+
+**Where AI augments the role:**
+
+- Using AI for script analysis and character psychology exploration
+- Improve performance accuracy through AI-assisted virtual rehearsal systems
+- Use AI tools to quickly create visual previews and mood boards
+- Achieve multilingual versions using AI dubbing and lip-sync technology
+
+**Human moat:**
+
+- Improvisational performance and genuine emotional interaction
+- Interpretation of role depth's unpredictability
+- Real-time empathy and feedback with audience/director
+- Originality of body movements and micro-expressions
+
+**Skills to build:**
+
+- AI-driven content creation tools (e.g., script generation, virtual scenes)
+- Virtual filming and motion capture technology
+- Data Analysis and Social Media Operations
+- Multilingual dubbing and lip-sync technology
+- Mindset of continuous learning and adapting to technological change
+
+**Key growth areas:**
 
 - Digital Media
 - Streaming Platforms
@@ -64,66 +96,68 @@ Actors portray characters in theater, film, television, or radio, conveying emot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Artist Visa（Artist Visa） | 适用于独立艺术家，需证明艺术成就和项目合同。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国寻找工作机会，但演员工作通常为短期合同。 |
-| Subclass Freelancer Visa（Freelancer Visa） | 适用于自雇演员，需证明稳定收入和项目。 |
+| Subclass Artist Visa (Artist Visa) | Suitable for independent artists, requires proof of artistic achievements and project contracts. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows job seeking in Germany, but acting jobs are typically short-term contracts. |
+| Subclass Freelancer Visa (Freelancer Visa) | Applies to self-employed actors, requiring proof of stable income and projects. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Actor？**
-- 具有强烈表现欲和创造力的人
-- 能忍受不稳定的收入和频繁面试的人
-- 愿意不断学习和适应不同角色的人
+**Who is suited**
+- People with strong desire for expression and creativity
+- People who can tolerate unstable income and frequent interviews
+- Willing to continuously learn and adapt to different roles
 
-**谁不适合学Actor？**
-- 追求稳定收入和固定工作的人
-- 不喜欢公众关注和高强度竞争的人
+**Who is not suited**
+- People seeking stable income and fixed working hours
+- People who dislike public attention and high-intensity competition
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of an actor in Germany?**
+A: Actor income varies greatly; junior actors earn about €20,000-35,000 per year, but many earn less. Only successful actors reach six figures.
+
+**Q: How can foreign actors obtain a work visa in Germany?**
+A: Foreign actors can work in Germany with an artist visa or freelance visa. They need to prove artistic achievements, project contracts, and sufficient income. German language skills are important.
+
+**Q: What is the career progression path for actors?**
+A: Typically start with supporting roles and gradually pursue lead roles. Many actors transition into directing, screenwriting, or teaching. Joining actors' unions and continuous training aid career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Actor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of an actor in Germany?**
-答：Actor incomes vary widely; junior actors earn around €20,000-35,000 per year, but many earn less. Only successful actors reach six figures.
-
-**问：How can foreign actors obtain a work visa in Germany?**
-答：Foreign actors can work in Germany via an Artist Visa or Freelancer Visa, requiring proof of artistic achievement, project contracts, and sufficient income. German language skills are important.
-
-**问：What is the career progression for actors?**
-答：Typically start with supporting roles, then progress to lead roles. Many move into directing, writing, or teaching. Joining actors' unions and continuous training helps career growth.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Subway and Streetcar Operators（Subway and Streetcar Operators）职业分析 · 美国
+# Subway and Streetcar Operators — career analysis · United States
 
-**职业代码：53-4041 – Subway and Streetcar Operators。**
+**Occupation code: 53-4041 (SOC)**
 
-Operate subway or elevated suburban trains with no separate locomotive, or electric-powered streetcar, to transport passengers; may handle fares.
+Drive subway or elevated trains (non-locomotive) or electric trams, transporting passengers; may be responsible for ticket sales.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
-| 在职培训 | 3-6个月 | —（雇主提供培训，可能需自付材料费） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 3-6 months | $0~$2,000 (Employer provides training, may need to pay for materials yourself) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 州机动车管理局 | 必备 | 部分州要求，需通过笔试和路考 |
-| 运输安全管理局（TSA）背景调查 | TSA | 必备 | 通过安全评估，无犯罪记录 |
-| 铁路操作许可证 | 联邦铁路管理局（FRA）或州机构 | 可选 | 部分系统要求，通过操作考试 |
+| Commercial Driver's License (CDL) | State motor vehicle department | Required | Required in some states, must pass written and road tests |
+| Transportation Security Administration (TSA) background check | TSA | Required | Pass security assessment, no criminal record. |
+| Railway operating license | Federal Railroad Administration (FRA) or state agencies | Optional | Partial system requirements, pass a practical exam. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,500。美国就业前景稳定，受城市公共交通扩张推动。预计2020-2030年就业增长约8%，但竞争取决于具体城市。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,500. US job outlook stable, driven by urban public transit expansion. Projected 2020-2030 job growth of about 8%, but competition varies by city.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 多数城市公交系统起薪 |
-| 中级（3-6年） | $55,000~$70,000 | 经验积累后薪资提升 |
-| 高级（6年以上） | $70,000~$85,000 | 资深驾驶员或兼任引导员 |
+| Median salary | $86,380 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary for most city public transport systems |
+| Mid-level (3–6 years) | $55,000~$70,000 | Salary increases with experience |
+| Senior (6+ years) | $70,000~$85,000 | Senior driver or escort attendant |
+| average salary | $77,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级驾驶员晋升为资深驾驶员，可转向运营管理或培训岗位，部分进入调度或安全管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Subway and tram driver positions face high automation risk; AI and sensor technology will gradually replace drivers, leading to significant job reduction and narrower entry opportunities.
+
+Progress from junior driver to senior driver, can move into operations management or training roles, some enter dispatch or safety management.
+
+**Tasks most exposed to AI:**
+
+- Execute automatic train operation
+- Control speed and stopping based on signals and timetables
+- Monitor train doors and platform safety
+- Handle routine announcements and passenger information broadcasts.
+- Perform emergency braking and fault diagnosis
+
+**Where AI augments the role:**
+
+- Monitor train operation status via AI system, predict maintenance needs
+- Using augmented reality to assist in inspecting tracks and signal equipment
+- AI scheduling system optimizes shift planning and route planning
+- Automated passenger counting and demand forecasting to adjust shifts
+- AI-assisted training simulators improve novice training efficiency
+
+**Human moat:**
+
+- Handling unexpected complex faults and abnormal events
+- Communicate with passengers and assist special needs individuals
+- Manual driving ability in areas without signal coverage.
+- Emergency evacuation and medical first aid decision-making
+- Cross-departmental coordination and operations management experience
+
+**Skills to build:**
+
+- Learn automation system monitoring and troubleshooting
+- Master basic AI data analysis (Python, SQL)
+- Strengthen crisis management and non-technical decision-making skills
+- Obtain a certificate in railway operations management/transportation engineering
+- Learn about the Internet of Things (IoT) and intelligent transportation systems
+- Improve customer service and communication skills
+
+**Key growth areas:**
 
 - urban transit expansion
 - public transportation investment
@@ -64,66 +100,68 @@ Operate subway or elevated suburban trains with no separate locomotive, or elect
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 职业通常不满足H-1B专业职业要求，极少应用 |
-| Subclass EB-3（EB-3 Skilled Workers / Other Workers） | 理论上可作为其他工人申请，但PERM劳工证和雇主担保极为困难 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 需劳工部认证，通常要求雇主证明无法找到合适美国工人，此职业几乎不可能 |
+| Subclass H-1B (H-1B Specialty Occupations) | The occupation typically does not meet H-1B specialty occupation requirements and is rarely applied. |
+| Subclass EB-3 (EB-3 Skilled Workers / Other Workers) | Theoretically possible to apply as other workers, but PERM labor certification and employer sponsorship are extremely difficult |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Requires Department of Labor certification, usually requiring employers to prove they cannot find suitable US workers; this occupation is almost impossible |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Subway and Streetcar Operators？**
-- 对公共交通有热情，能适应轮班和长时间驾驶
-- 注重安全，能处理紧急情况
-- 具备良好沟通能力，服务乘客
+**Who is suited**
+- Passionate about public transport, able to adapt to shift work and long hours of driving
+- Safety-conscious and able to handle emergencies
+- Good communication skills to serve passengers
 
-**谁不适合学Subway and Streetcar Operators？**
-- 难以适应倒班和夜班工作
-- 不喜欢长时间保持专注和重复性操作
+**Who is not suited**
+- Difficulty adapting to shift work and night shifts
+- Dislikes prolonged focus and repetitive operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a subway driver?**
+A: According to BLS data, the median annual salary for subway and tram drivers in 2022 was USD 68,000, with entry-level around USD 45,000–55,000 and senior roles exceeding USD 85,000.
+
+**Q: Can immigrants work in the U.S. through this occupation?**
+A: Very difficult. This occupation typically does not meet H-1B professional occupation requirements; for EB-3 green card applications, employers must pass PERM labor certification proving no US workers available, and due to its welfare nature, employers rarely sponsor.
+
+**Q: What education is needed to become a subway driver?**
+A: Usually only a high school diploma or equivalent is required, with on-the-job training provided by employers. Some cities require a commercial driver's license (CDL) and a security background check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Subway and Streetcar Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for subway operators?**
-答：According to BLS, the median annual wage for subway and streetcar operators was $68,000 in 2022, with entry-level around $45,000-$55,000 and senior up to $85,000+.
-
-**问：Can immigrants come to the US through this occupation?**
-答：Very difficult. This occupation typically does not qualify for H-1B as a specialty occupation, and for EB-3 green card, employers must pass PERM labor certification, which is rarely sponsored.
-
-**问：What education is required to become a subway operator?**
-答：Typically only a high school diploma or equivalent; employers provide on-the-job training. Some cities require a commercial driver's license (CDL) and passing a security background check.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Translator; Interpreter（Translator; Interpreter）职业分析 · FR
+# Translator; Interpreter — career analysis · France
 
-**职业代码：E1108 – Translator; Interpreter。**
+**Occupation code: E1108 (ROME)**
 
-Translators and interpreters convert written or spoken information from one language to another, ensuring accurate meaning. They work in conferences, courts, medical settings, or on literary and technical documents.
+Translators and interpreters are responsible for converting written or spoken information from one language to another, ensuring the original meaning is accurately conveyed. They may work in conferences, courts, medical settings, or engage in literary and technical document translation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Licence） | 3年（Licence LEA ou LLCE） | $500~$5,000（公立大学约170-500欧元/年，私立高商或专门学校可达5000欧元/年） |
-| 硕士（Master） | 2年（Master en traduction/interprétation） | $500~$8,000（公立大学约170-500欧元/年，私立如ISIT、ESIT学费约4000-8000欧元/年） |
+| Licence | 3 years (Licence LEA ou LLCE) | $500~$5,000 (Public universities cost about 170-500 euros per year, while private commercial or specialized schools can pay up to 5,000 euros per year) |
+| Master's Degree (Master) | 2 years (Master en traduction/interprétation) | $500~$8,000 (Public universities cost about 170-500 euros per year, while private universities like ISIT and ESIT pay about 4000-8000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 司法口译认证（Liste des experts judiciaires） | 法国上诉法院 | 必备 | 在法院从事口译需列入法院专家名单，通过考核 |
-| 翻译硕士学位 | 法国大学（如ESIT、ISIT、INALCO） | 可选 | 非强制但高度推荐，有助于就业和资质认可 |
+| Judicial Interpreting Certification (Liste des experts judiciaires) | French Court of Appeal | Required | Interpreters working in courts must be listed as court experts and pass assessments |
+| Master's degree in Translation | French universities (such as ESIT, ISIT, INALCO) | Optional | Non-mandatory but highly recommended, it helps with employment and qualification recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 28,000。随着全球化发展和移民增加，法国对翻译和口译服务的需求保持稳定。多语言企业、国际组织和公共部门（如法院、医院）提供就业机会。法语与英语、中文、阿拉伯语等语言的组合尤为紧缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. With globalization and increasing immigration, France's demand for translation and interpretation services remains stable. Multilingual enterprises, international organizations, and public sectors (such as courts and hospitals) offer employment opportunities. The combination of French with English, Chinese, Arabic, and other languages is especially scarce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 起薪约2.4万-3.2万欧元，自由译员按项目收费 |
-| 中级（3-7年） | $32,000~$45,000 | 在职翻译或专业领域译员年薪约3.2万-4.5万欧元 |
-| 高级（7年以上） | $45,000~$65,000 | 资深会议口译、法务或医学翻译年薪可达4.5万-6.5万欧元 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$32,000 | Starting salary approx. €24,000-€32,000, freelance translators charge per project. |
+| Mid-level (3–7 years) | $32,000~$45,000 | In-house interpreters or professional field translators earn about 32,000–45,000 EUR annually. |
+| Senior (7+ years) | $45,000~$65,000 | Senior conference interpreters, legal or medical translators can earn EUR 45,000-65,000 annually |
+| average salary | $29,148 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★½☆）。** 职业发展可从自由译员起步，逐步建立专业领域（法律、医学、技术）声誉，或晋升为翻译公司项目经理、审校。也可通过认证考试（如法国司法口译名单）进入法院等机构。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Career development can start as a freelance translator, gradually build a reputation in professional fields (law, medicine, technology), or advance to project manager or proofreader at translation companies. You can also enter courts and other institutions through certification exams (such as the French Judicial Interpreter List).
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Globalization
 - Multilingualism
@@ -61,68 +96,67 @@ Translators and interpreters convert written or spoken information from one lang
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Profession Artistique et Culturelle)） | 适用于翻译、口译等文化领域人才，需证明有在法项目或雇主，有效期为4年。 |
-| Subclass Salarié（Salarié (Employee)） | 如有法国雇主提供工作合同，可申请受雇工作居留，需获得工作许可（Autorisation de travail）。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能岗位，年薪需达到约5.4万欧元（2023年门槛），翻译岗位通常较难达到此薪资。 |
+| Subclass Passeport Talent (Passeport Talent (Profession Artistique et Culturelle)) | Suitable for talents in cultural fields such as translation and interpretation, requiring proof of having a project or employer in France, valid for 4 years. |
+| Subclass Salarié (Salarié (Employee)) | If a French employer offers a work contract, you can apply for employed work residence and obtain a work permit (Autorisation de travail). |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to high-skilled positions; annual salary must meet approximately €54,000 (2023 threshold). Translation roles typically struggle to reach this salary. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Translator; Interpreter？**
-- 精通至少两门语言且对文化差异敏感的人
-- 善于沟通并能承受压力（如会议口译）的人
-- 希望灵活工作（自由职业）并具备自我管理能力的人
-
-**谁不适合学Translator; Interpreter？**
-- 缺乏耐心或不愿持续学习新词汇和领域知识的人
-- 不喜欢高压环境或需要高度集中注意力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals fluent in at least two languages and sensitive to cultural differences
+- People who are good communicators and able to handle pressure (such as conference interpreting).
+- Those who want flexible work (freelancing) and possess self-management skills
+
+**Who is not suited**
+- People who lack patience or are unwilling to continuously learn new vocabulary and domain knowledge
+- People who dislike high-pressure environments or require intense concentration
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for translators and interpreters in France?**
+A: Junior translators earn approx. €24,000-32,000 annually, intermediate €32,000-45,000, senior up to €65,000. Interpreter income is usually higher than translation, conference interpreters can earn €500-1,500 per day.
+
+**Q: How can non-EU citizens immigrate to France to work as translators/interpreters?**
+A: Non-EU citizens can apply for Salarié residency by obtaining a work contract with a French employer, or by using the Passeport Talent (cultural sector) visa. Freelancers can apply for 'Freelancer Residence.' French proficiency must be at least C1.
+
+**Q: How much threat do machine translation and AI pose to the interpreting and translation profession?**
+A: AI has had a significant impact on standardized translation, but high-precision, culturally sensitive, and specialized translations (such as law, medicine, literature) and conference interpreting still heavily rely on human intervention, especially for interpreting that requires instant interaction and contextual understanding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较高（★★★½☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Translator; Interpreter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for translators and interpreters in France?**
-答：Entry-level translators earn around €24,000-32,000 per year, mid-level €32,000-45,000, and senior up to €65,000. Interpreters earn more, with conference interpreters averaging €500-1,500 per day.
-
-**问：How can non-EU citizens immigrate to France as translators/interpreters?**
-答：Non-EU citizens can obtain a Salarié visa with a French employer contract, or a Passeport Talent (cultural field). Freelancers may apply for a 'profession libérale' residence permit. French proficiency C1 or higher required.
-
-**问：How much threat do machine translation and AI pose to translators/interpreters?**
-答：AI significantly impacts standardized translation, but high-precision, culturally sensitive, and specialized fields (legal, medical, literary) as well as conference interpreting still heavily rely on humans, especially for real-time interaction and context understanding.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

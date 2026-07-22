@@ -1,59 +1,95 @@
-# Secondary School Teacher（Secondary School Teacher）职业分析 · 新西兰
+# Secondary School Teacher — career analysis · New Zealand
 
-**职业代码：241411 – Secondary School Teacher。**
+**Occupation code: 241411 (ANZSCO)**
 
-Secondary school teachers work in NZ public and private schools, listed on Green List Tier 1 for direct residence, requiring NZ teacher registration.
+Secondary school teachers teach in New Zealand's public and private schools. This is a Green List Tier 1 direct residence occupation with a clear immigration pathway, requiring New Zealand teacher registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $20,000~$35,000（国内学生年学费，国际生更高） |
-| 教育学研究生文凭 | 1年 | $25,000~$40,000（需本科学位，含实习） |
+| Bachelor's degree | 3 years | $20,000~$35,000 (Annual tuition for domestic students; higher for international students) |
+| Graduate Diploma in Education | 1 year | $25,000~$40,000 (Requires bachelor's degree, includes internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰教师注册 | 新西兰教学委员会 | 必备 | 必须注册才能在公立学校任教 |
-| 教学资格 | 新西兰大学 | 必备 | 如教育学士或GDipTchg |
-| 英语语言能力 | IELTS/PTE | 必备 | 雅思平均7.0，单项不低于7.0 |
+| New Zealand teacher registration | Teaching Council of Aotearoa New Zealand | Required | Must be registered to teach in public schools |
+| Teaching qualification. | New Zealand universities | Required | Such as a Bachelor of Education or Graduate Diploma in Teaching |
+| English language proficiency | IELTS/PTE | Required | IELTS overall 7.0, no band below 7.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 26,000。新西兰面临教师短缺，尤其是STEM和毛利语教师，就业前景良好。政府积极招聘海外教师，并提供资金支持。
+**Job demand: high (★★★★☆).** National workforce approx. 26,000. New Zealand faces teacher shortages, especially in STEM and Māori language, with good employment prospects. The government actively recruits overseas teachers and provides funding support.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 新毕业生薪资 |
-| 中级（4-9年） | $70,000~$90,000 | 根据经验增长 |
-| 高级（10年以上/管理） | $90,000~$120,000 | 系主任或副校长薪资 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary for new graduates |
+| Intermediate (4-9 years) | $70,000~$90,000 | Increases with experience |
+| Senior (10+ years/management) | $90,000~$120,000 | Department chair or vice principal salary. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从普通教师晋升为高级教师、系主任、副校长或校长，也可转向教育政策或培训领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+Can progress from teacher to senior teacher, department head, deputy principal, or principal, or move into education policy or training.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Secondary school teachers work in NZ public and private schools, listed on Green
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Direct Residence） | 直接居留签证，要求教师注册和工资中位数 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，需注册和工作经验 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，用于临时工作后转居留 |
+| Subclass Green List T1 (Direct Residence) | Direct residence visa requiring teacher registration and median wage |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration, requires registration and work experience |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for temporary work leading to residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary School Teacher？**
-- 热爱教育和青少年发展
-- 具备耐心和沟通能力
-- 愿意在偏远地区任教
-
-**谁不适合学Secondary School Teacher？**
-- 不擅长课堂管理
-- 期望高收入但不愿进修
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about education and youth development
+- Patience and communication skills
+- Willing to teach in remote areas
+
+**Who is not suited**
+- Not good at classroom management
+- Expects high income but unwilling to pursue further education
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for secondary school teachers?**
+A: Junior: approx. 55,000–70,000 NZD, mid-level: 70,000–90,000, senior: 90,000–120,000.
+
+**Q: How can secondary school teachers immigrate to New Zealand?**
+A: Apply for residence directly through Green List Tier 1, requiring teacher registration and meeting salary threshold.
+
+**Q: How can overseas teachers gain New Zealand registration?**
+A: Requires assessment by the New Zealand Teaching Council, may need to complete bridging courses and IELTS 7.0.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Secondary School Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for secondary school teachers?**
-答：Entry-level NZD 55,000-70,000; mid-level NZD 70,000-90,000; senior NZD 90,000-120,000.
-
-**问：How can secondary school teachers immigrate to NZ?**
-答：Via Green List Tier 1 direct residence, requiring teacher registration and meeting salary threshold.
-
-**问：How can overseas teachers gain NZ registration?**
-答：Assessment by Teaching Council, possibly bridging courses and IELTS 7.0.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Midwifery Associate Professional（Midwifery Associate Professional）职业分析 · NL
+# Midwifery Associate Professional — career analysis · Netherlands
 
-**职业代码：3222 – Midwifery Associate Professional。**
+**Occupation code: 3222 (ISCO08)**
 
-In the Netherlands, midwifery associate professionals (clinical midwives) provide antenatal, intrapartum, and postnatal care under medical supervision, acting as key members of the maternal healthcare team.
+In the Netherlands, midwife associate professionals (clinical midwives) provide antenatal, intrapartum, and postpartum care under the guidance of doctors, and are key members of the maternal healthcare team.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 副学士/学士 | 4年（学士） | $2,000~$22,000（欧盟学生约€2,200/年，非欧盟约€10,000-22,000/年） |
+| Associate/Bachelor | 4 years (bachelor's) | $2,000~$22,000 (EU students approx. €2,200/year, non-EU approx. €10,000-22,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 助产士注册 | BIG注册（荷兰卫生、福利和体育部） | 必备 | 完成认可的助产士课程后必须注册，方可执业。 |
-| 荷兰语水平 | 荷兰政府 | 必备 | 通常要求B2或以上水平的荷兰语，以便与患者沟通。 |
+| Midwife registration | BIG registration (Dutch Ministry of Health, Welfare and Sport) | Required | Registration is required after completing an accredited midwifery program before practice. |
+| Dutch language proficiency | Dutch government | Required | Typically requires Dutch at B2 level or higher to communicate with patients. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。荷兰助产士副专业人员需求稳定，因出生率平稳及对优质孕产护理的持续需求。老龄化社会和慢性病孕产妇增加也可能提升需求。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. Demand for midwives in the Netherlands is stable due to steady birth rates and ongoing need for quality maternity care. An aging population and increase in pregnant women with chronic conditions may also boost demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，含兼职调整 |
-| 中级（4-7年） | $38,000~$45,000 | 税前年薪，视经验和机构而定 |
-| 高级（8年以上） | $45,000~$55,000 | 税前年薪，含高级职位或管理职责 |
+| Median salary | $56,316 | Median salary (official: CBS median hourly wage €28.5/hour × 1976 hours annualized, BRC group 1033 Verpleegkundigen (mbo); P25–P75 €48,214–€64,022, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary, including part-time adjustment |
+| Mid-level (4-7 years) | $38,000~$45,000 | Pre-tax annual salary, depending on experience and organisation |
+| Senior (8+ years) | $45,000~$55,000 | Annual salary before tax, including senior positions or management responsibilities |
+| average salary | $41,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★½☆）。** 职业起步于注册助产士（副专业），积累经验后可晋升为首席助产士或转至医院管理、教育或研究岗位。部分人选择深造成为执业助产士或专科护士。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will take over some documentation, monitoring, and other tasks of midwifery paraprofessionals, but core clinical judgment, emotional support, and manual operations are difficult to replace, presenting both risks and opportunities.
+
+Career starts as a registered midwife (sub-specialty); with experience, can advance to chief midwife or transition to hospital management, education, or research roles. Some choose further study to become a practicing midwife or specialist nurse.
+
+**Tasks most exposed to AI:**
+
+- Prenatal electronic health record entry and basic data analysis, with AI automatically generating summaries
+- AI systems can automatically analyze routine pattern recognition and alerts for fetal heart rate monitoring
+- Standardized questionnaire surveys and basic advice for postpartum follow-up, which can be handled by chatbots.
+- Automatic tagging and key event extraction of childbirth video recordings
+- Drug dosage calculations and standard protocol matching can be performed by automated systems
+
+**Where AI augments the role:**
+
+- AI-assisted ultrasound image analysis improves accuracy in anomaly detection
+- Risk stratification tools based on historical data to help prioritize high-risk pregnant women
+- Real-time speech-to-text and translation tools to improve communication with mothers from different language backgrounds
+- Virtual reality simulation training platform to enhance response capabilities in emergency delivery scenarios
+- AI-driven personalized pregnancy health management plans to improve maternal compliance
+
+**Human moat:**
+
+- Clinical intuition and manual intervention techniques during childbirth
+- Build emotional trust and empathetic support with mothers and families
+- Interdisciplinary coordination and emergency decision-making for complex complications
+- Culturally sensitive communication and personalized care plan design
+- Independent professional judgment under legal and ethical responsibilities
+
+**Skills to build:**
+
+- AI-assisted prenatal ultrasound interpretation skills
+- Using health data analysis and clinical decision support systems
+- Telehealth platform operation and virtual birth assistance techniques
+- Basic programming and scripting to customize automated reports
+- Cross-cultural communication and digital health literacy improvement
+- Ethical awareness and AI bias identification in human-computer interaction
+
+**Key growth areas:**
 
 - Maternity care
 - Community midwifery
@@ -62,66 +98,65 @@ In the Netherlands, midwifery associate professionals (clinical midwives) provid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于年收入至少€5,008/月（2025年标准）的高技能移民，需有荷兰雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需有工作合同且薪资达门槛（约€5,500/月）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 毕业生居留许可，允许在荷兰求职一年，适用于从荷兰大学毕业或顶尖大学毕业生。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to highly skilled migrants with an annual income of at least €5,008/month (2025 standard), requiring a Dutch employer sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a work contract and salary meeting the threshold (approx. €5,500/month). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduate residence permit, allowing one year of job seeking in the Netherlands, available to graduates from Dutch universities or top-tier universities. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Midwifery Associate Professional？**
-- 富有同理心且抗压能力强的人
-- 对孕产护理有浓厚兴趣并愿意持续学习
-- 适应轮班和紧急工作节奏
-
-**谁不适合学Midwifery Associate Professional？**
-- 对血液或医疗紧急情况感到不适者
-- 不擅长与人沟通或团队合作者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Empathetic and Resilient People
+- Strong interest in perinatal care and willingness to continuously learn
+- Adaptable to shift work and urgent work pace.
+
+**Who is not suited**
+- Those who are uncomfortable with blood or medical emergencies
+- Not suitable for those who are not good at communicating or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: How can non-EU midwife associate professionals immigrate to the Netherlands?**
+A: Must pass BIG registration assessment, usually requiring Dutch B2+ and recognized qualifications. High-skilled migrant visa or EU Blue Card is common pathway, requiring employer sponsorship.
+
+**Q: What is the average salary for a midwife assistant in the Netherlands?**
+A: Entry-level annual salary approx. €30,000-38,000, mid-level approx. €38,000-45,000, senior up to €55,000. Salary varies by region and institution type.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定增长（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Midwifery Associate Professional为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How can non-EU midwifery associate professionals immigrate to the Netherlands?**
-答：They must pass BIG registration evaluation, usually requiring Dutch B2+ and recognized qualifications. Highly Skilled Migrant or EU Blue Card visas are common routes with employer sponsorship.
-
-**问：What is the average salary for a midwifery associate professional in the Netherlands?**
-答：Entry-level annual salary is around €30,000-38,000, mid-level €38,000-45,000, and senior up to €55,000. Salaries vary by region and employer type.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Agricultural and Forestry Machinery Operator（Agricultural and Forestry Machinery Operator）职业分析 · FR
+# Agricultural and Forestry Machinery Operator — career analysis · France
 
-**职业代码：A1101 – Agricultural and Forestry Machinery Operator。**
+**Occupation code: A1101 (ROME)**
 
-Operates tractors, harvesters, forestry skidders and other agricultural and forestry machinery for plowing, seeding, fertilizing, harvesting and timber collection. Requires knowledge of machine maintenance, GPS guidance and basic agronomy.
+Operate agricultural and forestry machinery such as tractors, harvesters, and forestry lumber collectors, and carry out tasks such as plowing, sowing, fertilizing, harvesting, and timber collection. Must be proficient in machinery maintenance, GPS navigation, and basic agricultural technical knowledge.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP）农业机械驾驶 | 2年 | —（公立学校学费低，可学徒制（apprentissage）免学费并获工资） |
-| 农业技术员文凭（BTS agricole） | 2年（高中后） | $500~$3,000（公立学校约500€/年，私立可达3000€/年） |
+| Certificate of Professional Competency (CAP) for driving agricultural machinery | 2 years | $0~$1,500 (Public schools have low tuition fees, apprenticeships (apprentissage) are exempt from tuition and receive wages) |
+| Agricultural Technician Diploma (BTS Agricole) | 2nd year (after high school) | $500~$3,000 (Public schools approx. €500/year, private up to €3,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶证B类（轻型车辆） | Préfecture | 可选 | 部分雇主要求 |
-| 驾驶证T类（重型农用机械） | Préfecture | 必备 | 驾驶大型农用车辆需持T类驾照或C类+E类附加 |
-| CAP Agricole (Conduite d'engins) 或 BTS agricole | Ministère de l'Agriculture | 可选 | 非强制但雇主倾向雇佣有文凭者 |
-| Certiphyto（植物保护产品使用证书） | DRAAF | 必备 | 操纵植保设备时强制要求 |
+| Category T Driver's License (Heavy Agricultural Machinery) | Préfecture | Required | Driving large agricultural vehicles requires a Class T driver's license or a Class C + Class E supplement |
+| Certiphyto (Plant Protection Product Usage Certificate) | DRAAF | Required | Mandatory requirements when operating plant protection equipment |
+| Class B Driver's License (Light Vehicle) | Préfecture | Optional | Some employers require |
+| CAP Agricole (Conduit d'engins) or BTS agricole | Ministère de l'Agriculture | Optional | Non-mandatory, but employers tend to hire those with a diploma |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。法国农业机械操作员需求稳定，受农业现代化和退休潮推动，每年约有数千岗位空缺。但季节性明显，山区和大型农场机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Demand for agricultural machinery operators in France is stable, driven by agricultural modernization and retirement waves, with thousands of job vacancies each year. However, seasonality is distinct, with more opportunities in mountainous areas and large farms.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，按35小时标准工时 |
-| 中级（3-7年） | $25,000~$30,000 | 含加班和季节性补贴 |
-| 高级（7年以上/主管） | $30,000~$40,000 | 农场主管或大型农机队长 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary based on 35-hour standard working hours |
+| Mid-level (3–7 years) | $25,000~$30,000 | Including overtime and seasonal subsidies |
+| Senior (7+ years/supervisor) | $30,000~$40,000 | Farm supervisor or large agricultural machinery team leader |
+| average salary | $25,320 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 起步为机械操作员，可晋升为农场主管、农业技术员，或通过培训转型为农业机械销售/维修技师。持有CAP/BTS可向农场经理发展。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
+
+Starting as a machine operator, you can be promoted to farm supervisor, agricultural technician, or transition through training to become an agricultural machinery sales/maintenance technician. Holding CAP/BTS allows you to advance to farm manager.
+
+**Tasks most exposed to AI:**
+
+- Automated collection of soil moisture and nutrient data with report generation
+- Optimizing fertilization/irrigation plans based on historical yield and weather data.
+- Use drones to patrol fields and automatically identify pest and disease areas
+- Automated agricultural machinery scheduling and path planning
+
+**Where AI augments the role:**
+
+- AI-assisted precision fertilization decisions to increase crop yield
+- Uses computer vision to monitor livestock health in real time and warn of disease.
+- Smart sensor network optimizes irrigation and energy consumption
+- Machine learning predicts market demand to guide production planning
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Unstructured communication and coordination with farm workers and contractors
+- Ethical judgment of animal welfare and herd health management
+- Comprehensive production decisions across seasons and sites
+
+**Skills to build:**
+
+- Precision agriculture software (e.g., Climate FieldView)
+- UAV operation and remote sensing data analysis
+- Python/R basics and agricultural data analysis
+- IoT device configuration and maintenance
+- Project management and team management skills
+- Biosecurity protocols and animal health management
+
+**Key growth areas:**
 
 - Precision agriculture
 - GPS guidance
@@ -63,68 +96,67 @@ Operates tractors, harvesters, forestry skidders and other agricultural and fore
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 适用于有法国雇主工作合同的外国人，需申请工作许可。农业劳动力紧缺地区（如Grand Est）通过France Travail可加速审批。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 年薪达到约40k€以上或持有硕士文凭（BTS+3年以上经验可视为相当），可申请有效期4年的人才护照。非农业主流渠道。 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪需至少法国蓝卡门槛（2025年约53k€）。农场机械操作员通常达不到，仅主管级别可能符合。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | This applies to foreigners with a work contract with a French employer who need to apply for a work permit. Agricultural labor-scarce areas (such as Grand Est) can expedite approval through France Travail. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If your annual salary is about €40k or above, or you hold a master's degree (BTS+ 3 years of experience is considered equivalent), you may apply for a talent passport valid for 4 years. Non-agricultural mainstream channels. |
+| Subclass Carte bleue UE (EU Blue Card) | Annual salary must meet at least the French Blue Card threshold (approx. €53k in 2025). Farm machinery operators usually do not meet this; only supervisors may qualify. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Forestry Machinery Operator？**
-- 对农业机械操作有热情，愿意在户外和偏远地区工作
-- 能适应季节性高强度劳动和灵活工时
-- 希望从事稳定技术蓝领工作，愿意通过学徒制进入行业
-
-**谁不适合学Agricultural and Forestry Machinery Operator？**
-- 不习惯长期独处或户外体力劳动
-- 追求高收入和都市白领环境
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about operating agricultural machinery and willing to work outdoors and in remote areas
+- Able to adapt to seasonal high-intensity labor and flexible working hours
+- Those who hope to work in stable technical blue-collar jobs and are willing to enter the industry through apprenticeships
+
+**Who is not suited**
+- Not accustomed to long-term solitude or outdoor physical labor
+- Pursue high income and an urban white-collar environment
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for agricultural machinery operators?**
+A: Entry-level salary is about €20,000–€25,000 before tax, and with experience, it can rise to €30,000–€40,000. Seasonal overtime can increase income.
+
+**Q: Can foreign immigrants obtain a French work visa through this occupation?**
+A: Yes, you can. In areas with agricultural labor shortages, employers can apply for a Salarié work permit by providing a contract. Competitiveness can be increased through apprenticeships or BTS diplomas.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can progress to farm supervisor, agricultural technician, farm machinery sales/repair technician, or become a farm manager through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Agricultural and Forestry Machinery Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural machinery operators?**
-答：Entry-level around €20,000-25,000 gross annually, rising to €30,000-40,000 with experience. Seasonal overtime can boost income.
-
-**问：Can foreign migrants get a French work visa through this occupation?**
-答：Yes. With a job offer from an employer in a labor-shortage area, you can apply for a Salarié work permit. Apprenticeship or a BTS diploma can improve competitiveness.
-
-**问：What are the career advancement paths?**
-答：Promotion to farm supervisor, agri-technician, machinery sales/repair technician, or farm manager through further training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

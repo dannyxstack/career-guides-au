@@ -1,58 +1,93 @@
-# Waste Treatment Plant Operator（Waste Treatment Plant Operator）职业分析 · ES
+# Waste Treatment Plant Operator — career analysis · Spain
 
-**职业代码：3132 – Waste Treatment Plant Operator。**
+**Occupation code: 3132 (CNO)**
 
-Operate and maintain wastewater, solid waste, and industrial waste treatment facilities to ensure compliance with environmental regulations. Monitor equipment, adjust chemical dosages, and record data to optimize treatment processes.
+Responsible for operating and maintaining wastewater, solid waste, and industrial waste treatment facilities to ensure compliance with environmental regulations. Optimize the processing by monitoring equipment, adjusting chemical dosages, and recording data.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Superior in Environmental Chemistry or Water Treatment | 2年 | —（公立FP几乎免费，仅注册费） |
-| 大学工程学位（环境工程） | 4年 | $1,000~$4,000（公立大学学费，视自治区而定） |
+| FP Grado Superior in Environmental Chemistry or Water Treatment | 2 years | $0~$1,500 (Public FPs are almost free, with only a registration fee) |
+| University Degree in Engineering (Environmental Engineering) | 4 years | $1,000~$4,000 (Tuition fees for public universities vary depending on the autonomous region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior毕业证书 | 西班牙教育部 | 可选 | 可从事操作员工作，非强制但普遍要求 |
-| 危险废物操作员认证 | 自治区环境部门 | 必备 | 处理危险废物所需 |
+| Hazardous Waste Operator Certification | Autonomous Region Environmental Department | Required | Required for handling hazardous waste |
+| FP Grado Superior diploma | Spanish Ministry of Education | Optional | Operator work is allowed, not mandatory but generally required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙正推进循环经济和欧盟水框架指令，废物处理行业需求稳定。未来十年因环保法规趋严和基础设施更新，需更多技术操作员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Spain is advancing the circular economy and the EU Water Framework directive, with stable demand in the waste management sector. In the next decade, stricter environmental regulations and infrastructure upgrades will require more technical operators.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，含加班 |
-| 中级（4-7年） | $26,000~$32,000 | 税前年薪，含补贴 |
-| 高级（8年以上） | $33,000~$40,000 | 税前年薪，主管级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary, including overtime |
+| Mid-level (4-7 years) | $26,000~$32,000 | Annual salary before tax, including allowances |
+| Senior (8+ years) | $33,000~$40,000 | Annual salary before tax, supervisor level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级操作员可晋升为高级操作员或团队主管，进一步可转向环境技术员或工厂经理。通过FP高级培训或工程学位可进入技术顾问或项目管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The daily monitoring and recording tasks of wastewater treatment plant operators are easily automated by AI, but on-site equipment maintenance and emergency response still require humans. AI will enhance their process optimization capabilities, resulting in mixed outcomes for the overall role.
+
+Junior operators can be promoted to senior operators or team leaders, and further move on to environmental technicians or plant managers. Through advanced FP training or engineering degrees, you can enter technical consultant or project management positions.
+
+**Tasks most exposed to AI:**
+
+- Regularly and manually record instrument data and generate reports
+- Adjust chemical dosage according to preset rules
+- Surveillance video footage detects equipment abnormalities
+- Prepare daily operation logs and compliance reports
+- Perform simple device switching operations and scheduled sampling
+
+**Where AI augments the role:**
+
+- The AI predictive maintenance system provides early warnings of equipment faults, reducing unplanned downtime
+- Optimized algorithms recommend the optimal chemical dosage in real time, reducing consumption and improving processing efficiency
+- Digital twins simulate different working conditions to assist in formulating operating plans
+- Remote expert systems provide guidance on complex fault handling
+- Automatically generate environmental compliance reports to enhance data transparency
+
+**Human moat:**
+
+- On-site emergency judgment and manual operation in case of sudden equipment failures or leaks
+- Rapid response and safe handling of abnormal working conditions (such as toxic gas leaks).
+- Maintenance teams coordinate cross-departmental communication (such as EPA inspections)
+- Localized process commissioning (such as adjusting treatment plans based on water quality fluctuations)
+
+**Skills to build:**
+
+- Fundamentals of Industrial Automation and PLC Control
+- Data analysis and IoT instrument interpretation
+- AI tool applications (such as predictive maintenance platforms)
+- Environmental regulations and compliance management
+- Team coordination and emergency command
+- Digital twin and process simulation software
+
+**Key growth areas:**
 
 - Water treatment
 - Waste management
@@ -61,68 +96,67 @@ Operate and maintain wastewater, solid waste, and industrial waste treatment fac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由雇主担保的工作居留，需证明职位无法在欧盟招到合适人选。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需本科以上学历及高于平均工资的合同。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，需有足够资金支持。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position does not attract suitable candidates in the EU. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a bachelor's degree or above and a contract with a salary above the average. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, provided you have sufficient financial support. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Waste Treatment Plant Operator？**
-- 动手能力强，喜欢户外工作
-- 对环保和可持续发展有热情
-- 愿意接受轮班制
-
-**谁不适合学Waste Treatment Plant Operator？**
-- 不适应倒班和重复性体力工作
-- 对化学气味和污物敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and enjoys outdoor work
+- Passionate about environmental protection and sustainability
+- Willing to accept shift work
+
+**Who is not suited**
+- Unable to adapt to shifts and repetitive physical work
+- Sensitive to chemical odors and contaminants
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for waste treatment plant operators?**
+A: Annual salary ranges from 20,000 to 40,000 EUR; junior about 20,000-25,000, senior supervisors up to 33,000-40,000. Overtime and allowances can increase income.
+
+**Q: How can non-EU citizens apply for a Spanish waste processing plant operator work visa?**
+A: The most common route is to obtain employer-sponsored "Cuenta ajena" work residency. If you hold an engineering degree and earn a higher salary, you can apply for an EU Blue Card. You can also apply for a job-seeking visa first.
+
+**Q: What educational background is required to become a waste treatment plant operator?**
+A: Typically requires a FP Grado Superior (in environmental chemistry or water treatment direction), 2 years, almost free. Some roles accept a bachelor's degree in environmental engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Waste Treatment Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for waste treatment plant operators?**
-答：The annual salary ranges from €20,000 to €40,000 gross. Entry-level earns €20,000-€25,000, while senior supervisors can earn €33,000-€40,000. Overtime and allowances can increase total compensation.
-
-**问：How can non-EU citizens apply for a work visa as a waste treatment plant operator in Spain?**
-答：The most common route is an employer-sponsored "Cuenta ajena" work permit. If you have an engineering degree and a high salary, you can apply for an EU Blue Card. Alternatively, you can first get a job-seeking visa.
-
-**问：What education is needed to become a waste treatment plant operator?**
-答：Typically, a two-year FP Grado Superior in Environmental Chemistry or Water Treatment is required (nearly free tuition). Some positions accept a bachelor's in Environmental Engineering.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

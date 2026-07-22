@@ -1,59 +1,93 @@
-# Driving Instructor（Driving Instructor）职业分析 · IE
+# Driving Instructor — career analysis · Ireland
 
-**职业代码：5165 – Driving Instructor。**
+**Occupation code: 5165 (ISCO08)**
 
-Driving instructors teach learner drivers vehicle control, road rules, and safe driving practices, often employed by driving schools or self-employed.
+Driving instructors teach students driving skills, including traffic rules, vehicle control, and road safety, typically working for individuals or driving schools.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无固定年限 | —（通常要求完成义务教育） |
-| 驾驶教练资格培训 | 6-12个月 | $2,000~$5,000（包括理论和实践培训） |
+| High school graduation | No fixed duration | $0~$0 (Usually requires completion of compulsory education) |
+| Driving instructor qualification training | 6–12 months | $2,000~$5,000 (Includes theoretical and practical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练执照 | Road Safety Authority (RSA) | 必备 | 必须完成RSA批准的培训课程并通过考试 |
-| 完整驾驶执照 | NDLS (National Driver Licence Service) | 必备 | 持有完整驾照至少2年，无重大违章记录 |
-| 犯罪背景调查 | Garda Síochána | 必备 | 必须通过警方背景审查 |
+| Driving instructor license | Road Safety Authority (RSA) | Required | Must complete RSA-approved training course and pass the exam. |
+| Full driving license | NDLS (National Driver Licence Service) | Required | Hold a full driver's license for at least 2 years with no major violations |
+| Criminal background check | Garda Síochána | Required | Must pass police background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 3,000。爱尔兰驾驶教练需求稳定，因年轻人口和移民增加，驾驶执照需求持续存在。预计未来五年就业增长约5-10%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Demand for driving instructors in Ireland is stable, driven by a growing young population and immigration, leading to sustained demand for driving licences. Employment is expected to grow by about 5-10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，全职 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含管理或自雇收入 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual salary before tax, full-time |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including management or self-employment income |
+| average salary | $40,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径包括积累经验后晋升为高级教练、驾驶学校经理或独立开设驾校。也可转向交通安全教育或执法领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Driving instructors face impact from AI-assisted teaching tools, but core in-car instruction, risk assessment, and safety responsibilities are hard to replace, presenting a mixed outlook.
+
+Career paths include advancing to senior instructor, driving school manager, or opening your own driving school after gaining experience. You can also transition into traffic safety education or law enforcement.
+
+**Tasks most exposed to AI:**
+
+- AI simulation system replaces basic driving theory instruction
+- Automated tools replacing traffic rule testing and scoring
+- Video analysis software replaces part of driving behavior evaluation
+- AI driving school scheduling system replaces manual scheduling
+
+**Where AI augments the role:**
+
+- AI driving analysis system assists in precisely correcting trainee operation details
+- Virtual reality simulators enhance training scenarios for complex road conditions
+- Personalized learning algorithms optimize teaching schedule arrangements
+- In-vehicle sensor data provides real-time feedback on the learner's driving habits
+
+**Human moat:**
+
+- On-road safety supervision responsibility in complex traffic conditions
+- Student psychological support and personalized teaching interaction
+- Emergency response capability for sudden driving incidents
+- Local traffic regulations and practical enforcement experience
+- Building student trust and developing driving confidence
+
+**Skills to build:**
+
+- Operating AI-assisted driving instruction tools (e.g., VR simulators)
+- Data analysis basics (interpreting student performance data)
+- Advanced Defensive Driving Certification
+- Cross-cultural communication and special needs teaching (e.g., elderly/anxious students)
+- Basic vehicle maintenance and fault diagnosis
+- Design and operation of online teaching platforms
+
+**Key growth areas:**
 
 - Stable demand
 - Young drivers
@@ -62,68 +96,67 @@ Driving instructors teach learner drivers vehicle control, road rules, and safe 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 驾驶教练通常不符合紧缺职业列表，但若年薪超过60,000欧元可申请。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需超过一般水平，驾驶教练通常不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Driving instructors are usually not on the shortage occupation list, but can apply if annual salary exceeds €60,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, with an annual salary above the average; driving instructors are generally not eligible. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Driving Instructor？**
-- 耐心、善于沟通的人
-- 喜欢独立工作且自律的人
-- 对道路安全有热情的人
-
-**谁不适合学Driving Instructor？**
-- 缺乏耐心、易怒的人
-- 不善于教学或解释的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and good communicator
+- Prefers independent work and self-discipline
+- People passionate about road safety
+
+**Who is not suited**
+- People who lack patience and are easily angered
+- People not skilled at teaching or explaining
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for driving instructors?**
+A: Junior coaches earn about 25,000-35,000 euros annually; senior coaches can earn 45,000-55,000 euros. Self-employment income is higher but more volatile.
+
+**Q: As a non-EU citizen, can I become a driving instructor in Ireland through a work visa?**
+A: Yes, but driving instructor is not a shortage occupation; you need to apply for a General Employment Permit, meet the salary threshold, and have employer sponsorship.
+
+**Q: What certifications are needed to become a driving instructor?**
+A: Must pass a training course recognized by the Road Safety Authority (RSA), obtain a driving instructor license, and hold a full driving license for at least 2 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Driving Instructor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a driving instructor?**
-答：Entry-level driving instructors earn €25,000-€35,000 annually, while experienced instructors can earn €45,000-€55,000. Self-employed instructors may earn more but with income variability.
-
-**问：Can non-EU nationals become driving instructors in Ireland via work visa?**
-答：Yes, but driving instructor is not on the Critical Skills list. You need a General Employment Permit with employer sponsorship and a salary above €30,000.
-
-**问：What certifications are needed to become a driving instructor?**
-答：You must complete an RSA-approved training course, obtain a driving instructor license, and hold a full driving license for at least 2 years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Massage Therapist（Massage Therapist）职业分析 · 新西兰
+# Massage Therapist — career analysis · New Zealand
 
-**职业代码：411613 – Massage Therapist。**
+**Occupation code: 411613 (ANZSCO)**
 
-Massage therapists are in steady demand in New Zealand's health and wellness sector, with migration pathways via AEWV or Skilled Migrant Category.
+Massage therapists have stable demand in New Zealand's health and wellness industry, and can achieve immigration through accredited employer work visas or skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 文凭课程 | 1-2年 | $15,000~$30,000（私立或理工学院文凭） |
-| 本科学位 | 3年 | $60,000~$90,000（如健康科学学位） |
+| Diploma course | 1-2 years | $15,000~$30,000 (Private or polytechnic diploma) |
+| Bachelor's degree | 3 years | $60,000~$90,000 (E.g., health science degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 按摩治疗国家文凭 | 新西兰按摩治疗协会(MNZ) | 必备 | 行业认可资格 |
-| 急救证书 | 新西兰急救委员会 | 必备 | 从业必备 |
-| 雅思成绩 | IDP/British Council | 可选 | 移民需总分6.5分 |
+| National Diploma in Massage Therapy | Massage New Zealand (MNZ) | Required | Industry-recognized qualifications |
+| First aid certificate | New Zealand Paramedic Board | Required | Essential for practice. |
+| IELTS score | IDP/British Council | Optional | Requires a total IELTS score of 6.5 for immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。新西兰健康与保健行业持续增长，按摩治疗师在康复、运动、老年护理等领域需求上升，尤其旅游区就业机会多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. New Zealand's health and wellness industry continues to grow, with increasing demand for massage therapists in rehabilitation, sports, and aged care, especially in tourist areas with many job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 全职周薪约800-1050 |
-| 中级（3-6年） | $55,000~$70,000 | 可自营提高收入 |
-| 高级（6年以上） | $70,000~$90,000 | 诊所经理或自营可达更高 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Full-time weekly salary about 800-1,050 |
+| Mid-level (3–6 years) | $55,000~$70,000 | Can increase income through self-employment |
+| Senior (6+ years) | $70,000~$90,000 | Clinic manager or self-employment can earn more. |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 按摩治疗师可向高级治疗师、诊所主管或自营方向发展，也可进修物理治疗或整骨疗法拓宽职业路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
+
+Massage therapists can advance to senior therapist, clinic supervisor, or self-employment, or pursue further studies in physical therapy or osteopathy to broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Client appointment, scheduling, and reminders (AI voice assistants and calendar systems)
+- Initial patient health questionnaire screening and symptom recording (AI form processing and natural language understanding)
+- Simple post-treatment feedback collection (AI chatbot)
+- Marketing copy and social media content generation (AI content generation)
+- Membership management and renewal notifications (AI-driven CRM system)
+
+**Where AI augments the role:**
+
+- Personalized treatment plan design (AI analyzes client history and preferences to recommend techniques/pressure)
+- Real-time stress/comfort monitoring (AI feedback via smart wearable devices)
+- Online Continuing Education and Skills Mapping (AI recommends courses and identifies skill gaps)
+- Automated generation of health assessment reports (AI integrates client data to produce illustrated reports)
+- Multilingual services (AI translation tools assist in communicating with foreign clients).
+
+**Human moat:**
+
+- Tactile perception and manual precision (hand massage techniques AI cannot replicate).
+- Building trust and emotional connection (empathy, calming anxious clients)
+- On-site adaptability (adjusting techniques based on client reactions in real-time)
+- Personalized communication and health consultation (integrating knowledge of Chinese medicine/Western osteopathy, etc.)
+- Ethical responsibility and clinical judgment (avoid excessive force or aggravating injuries)
+
+**Skills to build:**
+
+- Basic palpation and technique refinement (deep tissue, sports massage, etc.)
+- Use of AI health management tools (e.g., AI-assisted assessment software)
+- Client psychology and communication skills
+- Basic anatomy and pathology knowledge (identifying contraindications)
+- Digital Marketing and Personal Branding (Social Media, SEO)
+- Basic data analysis (track customer improvement trends)
+
+**Key growth areas:**
 
 - Steady demand
 - Wellness sector growth
@@ -62,68 +98,67 @@ Massage therapists are in steady demand in New Zealand's health and wellness sec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主工作offer，时薪至少25.50纽币 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求，学历加工作经验可申请 |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后可申请居留，需符合指定职业清单 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, hourly rate at least NZD 25.50 |
+| Subclass SMC (Skilled Migrant Category) | Meets the six-point system requirements; education plus work experience can be used to apply. |
+| Subclass Green List T2 (Green List Tier 2) | After 2 years of work, can apply for residency, subject to specified occupation list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Massage Therapist？**
-- 对人体解剖和康复治疗有浓厚兴趣
-- 善于沟通和建立病患关系
-- 追求灵活就业和自营可能
-
-**谁不适合学Massage Therapist？**
-- 不喜欢重复性体力劳动
-- 无法适应灵活排班或兼职工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human anatomy and rehabilitation therapy
+- Good communication skills and ability to build patient relationships
+- People seeking flexible employment and self-employment opportunities
+
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Unable to adapt to flexible scheduling or part-time work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a massage therapist in New Zealand?**
+A: Entry-level salary about NZD 45,000-55,000, mid-level 55,000-70,000, senior up to over 90,000.
+
+**Q: Can massage therapists migrate to New Zealand?**
+A: Yes, can apply via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), requiring a recognized qualification and job offer.
+
+**Q: Are registration or licenses required?**
+A: Although not legally required for registration, holding a National Diploma in Massage Therapy and a first aid certificate is industry practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Massage Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a massage therapist in New Zealand?**
-答：Entry-level salary is around NZD 45,000-55,000, mid-level NZD 55,000-70,000, and senior up to NZD 90,000+.
-
-**问：Can massage therapists immigrate to New Zealand?**
-答：Yes, through AEWV or Skilled Migrant Category, requiring recognized qualifications and a job offer.
-
-**问：Is registration or license required?**
-答：Not mandatory by law, but NZ Certificate in Massage and First Aid certificate are industry standards.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

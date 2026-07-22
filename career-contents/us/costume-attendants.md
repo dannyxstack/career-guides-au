@@ -1,60 +1,95 @@
-# Costume Attendants（Costume Attendants）职业分析 · 美国
+# Costume Attendants — career analysis · United States
 
-**职业代码：39-3092 – Costume Attendants。**
+**Occupation code: 39-3092 (SOC)**
 
-Select, fit, and take care of costumes for cast members, aid entertainers, and assist with multiple costume changes during performances.
+Selects, fits, and maintains costumes for performers, assists with quick changes to ensure stage visual effects.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | N/A | —（无直接教育成本） |
-| 时装设计或戏剧制作副学士学位 | 2年 | $10,000~$30,000（社区大学费用） |
+| High school diploma | N/A | $0~$0 (No direct education costs) |
+| Associate degree in fashion design or theatrical production | 2 years | $10,000~$30,000 (Community college costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 服装制作或设计相关培训 | 职业院校或社区学院 | 可选 | 非强制但优先 |
-| 服装管理经验 | 工作单位 | 必备 | 通常需要1-2年相关经验 |
+| Clothing management experience | Work unit | Required | Typically requires 1-2 years relevant experience |
+| Training in garment making or design | Vocational schools or community colleges | Optional | Non-mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。美国服装管理员就业机会主要集中在影视制作、剧院和主题公园，随着娱乐产业复苏，岗位需求稳定但竞争激烈，预计年薪增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. Employment opportunities for wardrobe managers in the US are mainly in film and TV production, theaters, and theme parks. With the recovery of the entertainment industry, job demand is stable but competition is fierce, and salary growth is expected to be slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$35,000 | 助理或小制作 |
-| 中级（3-7年） | $36,000~$48,000 | 独立负责项目 |
-| 高级（8年以上） | $50,000~$70,000 | 主管或大型制作 |
+| Median salary | $50,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$35,000 | Assistant or small production |
+| Mid-level (3–7 years) | $36,000~$48,000 | Independently responsible for projects |
+| Senior (8+ years) | $50,000~$70,000 | Supervisor or large-scale production |
+| average salary | $63,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级服装助理可晋升为服装管理员，进而成为服装主管或造型师，部分转向电影或时尚行业。积累经验后可担任大型制作的首席服装师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+The role of a wardrobe manager is highly dependent on physical operations and on-site judgment; AI is difficult to fully replace, but wearable devices and automated fitting systems will reduce demand for low-skilled positions.
+
+Junior costume assistants can advance to costume supervisors or stylists, with some moving into film or fashion industries. With experience, they can become head costume makers on large productions.
+
+**Tasks most exposed to AI:**
+
+- Automatically match actor body type with clothing size using AI image recognition
+- Use RFID and Internet of Things to automatically track clothing inventory and returns
+- Use virtual try-on software to reduce physical fitting sessions
+- Handled by chatbots for basic changing time and clothing cleaning scheduling
+- AI analyzes scripts to automatically generate alternative costume lists
+
+**Where AI augments the role:**
+
+- AI-assisted rapid generation of multiple clothing matching options for director selection
+- Uses historical data to predict clothing wear and perform proactive maintenance
+- Get real-time costume adjustment prompts for actors via AR glasses
+- AI analysis of performance videos to optimize quick-change processes
+- Automatically generates clothing maintenance reports and budget recommendations
+
+**Human moat:**
+
+- Manual sewing and temporary alterations during on-site quick changes
+- Understand director's creative needs and make artistic judgments
+- Build trust with actors, handle sensitive body and comfort issues
+- Impromptu problem-solving for emergencies (e.g., clothing tears, wardrobe malfunctions)
+
+**Skills to build:**
+
+- Master basic sewing and garment alteration techniques
+- Learn to use 3D modeling and virtual fitting software
+- Mastery of garment inventory management systems and RFID technology
+- Improve communication and teamwork skills
+- Learn basic script analysis and costume design knowledge
+- Knowledge of sustainable fashion and eco-friendly fabrics
+
+**Key growth areas:**
 
 - Entertainment Industry
 - Theater Production
@@ -63,66 +98,68 @@ Select, fit, and take care of costumes for cast members, aid entertainers, and a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，服装管理员通常不符，极少申请 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于达到国家或国际知名度的顶尖人才 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 需雇主担保，服装管理员难以证明短缺，获批率低 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree; costume managers usually do not qualify, very few apply |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to top talent with national or international recognition |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Requires employer sponsorship; clothing managers struggle to prove a skills shortage, leading to low approval rates |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Costume Attendants？**
-- 对时尚和服装设计有热情的人
-- 细心且能处理紧急换装需求的人
-- 愿意在剧场或影视行业幕后工作的人
+**Who is suited**
+- People passionate about fashion and clothing design
+- Detail-oriented and able to handle urgent fitting requests
+- Someone willing to work behind the scenes in theatre or film production
 
-**谁不适合学Costume Attendants？**
-- 追求高薪和稳定职业发展的人
-- 不喜欢不规律工作时间（包括夜间和周末）的人
+**Who is not suited**
+- People seeking high salary and stable career development
+- Those who dislike irregular working hours (including nights and weekends)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a wardrobe manager?**
+A: Entry-level annual salary about USD 26,000-35,000, senior up to USD 50,000-70,000, varying by production scale and region.
+
+**Q: Can a costume manager obtain a US green card through employment immigration?**
+A: Usually very difficult, as this occupation is not in shortage; employer sponsorship through PERM is challenging. Consider O-1 visa (requires outstanding achievement).
+
+**Q: How to become a Senior Wardrobe Manager?**
+A: Accumulate years of large-scale production experience and build industry connections to advance to costume supervisor or stylist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Costume Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for costume attendants?**
-答：Entry-level annual salary is around $26,000-$35,000, senior level can reach $50,000-$70,000, depending on production scale and location.
-
-**问：Can costume attendants get a US green card through employment-based immigration?**
-答：Typically difficult as the occupation is not in shortage; employer sponsorship via PERM is challenging. Consider O-1 visa for extraordinary ability.
-
-**问：How to become a senior costume attendant?**
-答：Gain years of experience in large-scale productions, build industry connections, and advance to costume supervisor or stylist.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

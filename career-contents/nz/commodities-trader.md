@@ -1,59 +1,92 @@
-# Commodities Trader（Commodities Trader）职业分析 · 新西兰
+# Commodities Trader — career analysis · New Zealand
 
-**职业代码：222111 – Commodities Trader。**
+**Occupation code: 222111 (ANZSCO)**
 
-Commodities traders buy and sell commodities such as grains, metals, and energy on financial or physical markets, profiting from analysis of supply-demand trends and price volatility. In New Zealand, the field is highly competitive with limited migration pathways, often requiring local experience or employer sponsorship.
+Commodity traders buy and sell commodities (e.g., grains, metals, energy) in financial or physical markets, profiting from supply-demand trends and price fluctuations. This occupation faces intense competition in New Zealand with limited migration pathways, usually requiring local experience or employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$50,000（学费，如奥克兰大学金融学士） |
-| 硕士学位 | 1-2年 | $40,000~$60,000（学费，如梅西大学金融硕士） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Tuition fees, such as for a Bachelor of Finance at the University of Auckland) |
+| Master's degree | 1-2 years | $40,000~$60,000 (Tuition fees, e.g., Massey University Master of Finance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融学士或相关学位 | 大学 | 必备 | 通常要求，如商业、经济或数学 |
-| CFA特许金融分析师 | CFA协会 | 可选 | 非强制但受青睐 |
-| PRM专业风险管理 | PRMIA | 可选 | 对风险管理岗位有帮助 |
+| Bachelor's degree in finance or related field | University | Required | Typically required qualifications, such as business, economics, or mathematics |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Not mandatory but preferred |
+| PRM Professional Risk Management | PRMIA | Optional | Helpful for risk management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 300。新西兰大宗商品交易员就业市场较小，主要集中在奥克兰和惠灵顿的银行、贸易公司及能源企业。预计未来五年职位增长率约为5-10%，但岗位数量有限，竞争激烈。申请人需具备金融学位和相关经验。
+**Job demand: medium (★★★☆☆).** National workforce approx. 300. The commodity trader job market in New Zealand is relatively small, mainly concentrated in banks, trading companies, and energy firms in Auckland and Wellington. The expected job growth rate over the next five years is about 5-10%, but positions are limited with high competition. Applicants need a finance degree and relevant experience.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 含奖金，视公司而定 |
-| 中级（3-7年） | $90,000~$150,000 | 含奖金，通常高于基本薪 |
-| 高级（7年以上） | $150,000~$250,000 | 含奖金，可能与业绩挂钩 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$90,000 | Includes bonus, depending on the company |
+| Mid-level (3–7 years) | $90,000~$150,000 | Including bonuses, typically above base salary |
+| Senior (7+ years) | $150,000~$250,000 | Including bonuses, may be tied to performance |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级交易员可晋升为资深交易员或交易主管，再发展到投资组合经理或风险管理岗位。部分人转向大宗商品分析或咨询领域。获得CFA或PRM认证有助于职业发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Routine analysis, trade execution, and reporting tasks of commodity traders will be significantly impacted by AI, but complex market judgement, risk management, and client relationships remain human strengths. Entry-level competition will intensify, requiring upgraded technical skills.
+
+Junior traders can advance to senior trader or trading desk head, then to portfolio manager or risk management roles. Some move into commodity analysis or consulting. Obtaining CFA or PRM certification aids career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically executes standardized trading instructions (e.g., stop-loss orders, market orders)
+- Generate basic market reports based on historical data and news sentiment
+- Real-time monitoring of price trends and triggering predefined alerts
+- Compile transaction data and generate compliance reports
+
+**Where AI augments the role:**
+
+- Using AI prediction models to analyze long-term supply and demand trends
+- Quickly processing key information from global financial news and government reports via NLP
+- Using machine learning to optimize hedging strategies and identify arbitrage opportunities
+- Use AI risk control systems to simulate portfolio performance under extreme market scenarios
+
+**Human moat:**
+
+- Identify abnormal signals in unstructured information (e.g., hidden impacts of geopolitical events on specific commodity supply chains)
+- Negotiate tailored contract terms with counterparties in physical trading
+- Build client trust through long-term relationships, providing personalized strategic advice
+- Pricing and execution in illiquid complex markets (e.g., rare metals, special grades)
+
+**Skills to build:**
+
+- Python data analysis (Pandas, NumPy).
+- Machine learning basics (regression, time series forecasting)
+- Data visualization tools (Tableau, Power BI)
+- Financial derivatives pricing models
+- NLP tools to obtain alternative data
+- Supply chain fundamentals analysis (warehousing, logistics data integration)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Commodities traders buy and sell commodities such as grains, metals, and energy 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制，职业在ANZSCO Level 2，需有新西兰雇主offer或相关工作经历 |
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主担保，需有相关工作经验和雇主支持 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 该职业在绿色清单二级，工作2年后可申请居留，需满足薪资和雇主条件 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the six-point system, occupation is at ANZSCO Level 2, requires a New Zealand employer's job offer or relevant work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Through accredited employer sponsorship, requires relevant work experience and employer support |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is on the Green List Tier 2; after working for 2 years, you can apply for residency, subject to salary and employer requirements. |
 
-**PR难度：较难（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commodities Trader？**
-- 对金融和商品市场有强烈兴趣，具备定量分析能力
-- 能承受高压和快速决策，具备良好心理素质
-- 愿意在金融中心如奥克兰发展
-
-**谁不适合学Commodities Trader？**
-- 不喜压力或拒绝高风险决策
-- 希望轻松移民或缺乏相关学历经验
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in finance and commodity markets with quantitative analysis skills
+- Able to withstand high pressure and make quick decisions, with good psychological resilience
+- Willing to develop in financial hubs such as Auckland
+
+**Who is not suited**
+- Dislike pressure or avoid high-risk decisions
+- Wanting easy immigration or lacking relevant qualifications and experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for commodity traders in New Zealand?**
+A: Junior trader annual salary about NZD 60,000-90,000, mid-level 90,000-150,000, senior 150,000-250,000, with bonuses accounting for a large portion, depending on performance and company.
+
+**Q: How to immigrate to New Zealand as a commodity trader?**
+A: This occupation is on Green List Tier 2; can work on an Accredited Employer Work Visa for 2 years then apply for residence; or via Skilled Migrant Category (SMC) 6-point system, requiring a New Zealand employer offer or relevant experience.
+
+**Q: What is the career outlook for commodity traders in New Zealand?**
+A: Median prospects; limited positions, competitive, but experienced workers can advance to management or analytical roles. Digitalization and AI may reduce some basic transaction positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较难（★★★★☆） |
-
-Commodities Trader的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for commodities traders in New Zealand?**
-答：Entry-level traders earn about NZD 60,000-90,000, mid-level NZD 90,000-150,000, and senior NZD 150,000-250,000, with bonuses forming a significant portion.
-
-**问：How to immigrate to New Zealand as a commodities trader?**
-答：This occupation is on Green List Tier 2; you can work for 2 years on an AEWV then apply for residence, or use the Skilled Migrant Category with a job offer or relevant experience.
-
-**问：What are the career prospects for commodities traders in New Zealand?**
-答：Moderate; positions are limited and competition high, but experienced traders can advance to management or analysis. Digitalization and AI may reduce some entry-level trading jobs.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Conservation professionals（Conservation professionals）职业分析 · UK
+# Conservation professionals — career analysis · United Kingdom
 
-**职业代码：2151 – Conservation professionals。**
+**Occupation code: 2151 (SOC)**
 
-Conservation professionals protect and manage landscapes, habitats, and species, promote public environmental awareness, and develop/implement conservation policies.
+Responsible for protecting and managing natural landscapes, habitats, and species; promoting public environmental awareness; and developing and implementing relevant conservation policies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $12,000~$18,000（英国/欧盟学生学费约9250英镑/年，国际学生更高） |
-| 硕士 | 1-2年 | $15,000~$25,000（硕士学费因校而异） |
+| Bachelor's degree | 3-4 years | $12,000~$18,000 (UK/EU student tuition approximately £9,250/year, higher for international students) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Master's tuition fees vary by school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CEnv（注册环境从业者） | 环境科学学会 | 可选 | 证明专业能力，非强制但提升竞争力 |
-| CIEEM认证 | 生态与环境管理学会 | 可选 | 行业认可的专业认证 |
+| CEnv (Chartered Environmentalist) | Environmental Science Society | Optional | Demonstrates professional capability; not mandatory but enhances competitiveness |
+| CIEEM certification | Institute of Ecology and Environmental Management | Optional | Industry-recognized professional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。英国政府加大环境投资，绿色就业增长强劲，预计2030年前环保岗位将增加10%，但竞争激烈。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 25,000. The UK government is increasing environmental investment, driving strong growth in green jobs. Environmental positions are expected to increase by 10% by 2030, but competition is fierce.
 
-**竞争度：中等偏大（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$27,000 | 助理生态学家 |
-| 中级（3-8年） | $28,000~$40,000 | 生态学家 |
-| 高级（8年以上） | $40,000~$55,000 | 高级生态学家或项目经理 |
+| Median salary | $40,083 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$27,000 | Assistant ecologist |
+| Mid-level (3–8 years) | $28,000~$40,000 | Ecologist |
+| Senior (8+ years) | $40,000~$55,000 | Senior ecologist or project manager |
+| average salary | $44,433 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从助理生态学家晋升至高级生态学家、保护项目经理，或进入政策制定与科研领域，需积累项目经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Can progress from assistant ecologist to senior ecologist, conservation project manager, or enter policy and research fields, requiring project experience accumulation.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Green jobs
 - Biodiversity
@@ -61,65 +97,64 @@ Conservation professionals protect and manage landscapes, habitats, and species,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，符合技能和薪资要求（一般技术工种路线） |
-| Subclass Global Talent（Global Talent visa） | 适用于世界级领导者或潜在领导者，如环保领域突出贡献者 |
-| Subclass Graduate（Graduate visa） | 毕业生可在英国工作2年（博士3年），积累经验后转工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, meeting skill and salary requirements (general skilled occupation pathway) |
+| Subclass Global Talent (Global Talent visa) | Suitable for world-class leaders or potential leaders, such as outstanding contributors in environmental fields |
+| Subclass Graduate (Graduate visa) | Graduates can work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conservation professionals？**
-- 热爱自然和环保，有科学背景
-- 能承受户外工作，如野外调查
-- 具备政策理解和沟通能力
-
-**谁不适合学Conservation professionals？**
-- 厌恶户外和野外工作
-- 缺乏耐心和细致观察力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and environmental protection, with a science background
+- Able to withstand outdoor work, such as field surveys
+- Have policy understanding and communication skills
+
+**Who is not suited**
+- Dislikes outdoor and fieldwork
+- Lack of patience and detail observation
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for conservation professionals?**
+A: With experience, salary can rise from junior £20,000 to senior over £50,000, management up to £60,000.
+
+**Q: How can overseas individuals obtain nature conservation jobs in the UK?**
+A: Must find employer sponsorship to apply for a Skilled Worker visa, or work under a Graduate visa and then switch. Shortage occupations may fast-track the process.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等偏大（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Conservation professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for conservation professionals?**
-答：Salaries can grow from £20k entry-level to over £50k senior, with management roles reaching £60k.
-
-**问：How can overseas candidates secure a UK conservation job?**
-答：Find an employer for Skilled Worker sponsorship, or work under Graduate visa and switch. Shortage occupation can expedite.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

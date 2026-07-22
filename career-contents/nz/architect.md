@@ -1,58 +1,91 @@
-# Architect（Architect）职业分析 · 新西兰
+# Architect — career analysis · New Zealand
 
-**职业代码：232111 – Architect。**
+**Occupation code: 232111 (ANZSCO)**
 
-Architects plan and design buildings, urban complexes, and infrastructure. Due to housing shortages and sustainable building demand, this occupation is in long-term shortage and eligible for Green List direct residence.
+Architects plan and design buildings, urban complexes, and infrastructure. Due to housing shortages and sustainable building demand in New Zealand, this occupation is in chronic shortage and can qualify for direct residency via the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（建筑学学士） | 5年 | $60,000~$140,000（国际生学费，新西兰本地生约$40k-80k） |
-| 硕士（建筑学硕士） | 2年 | $50,000~$90,000（部分院校需完成本科建筑学） |
+| Bachelor's degree (Bachelor of Architecture) | 5 years | $60,000~$140,000 (International student tuition, domestic NZ students about $40k-80k) |
+| Master's (e.g., Master of Architecture) | 2 years | $50,000~$90,000 (Some institutions require completion of undergraduate architecture) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册建筑师（NZRAB） | 新西兰建筑师注册委员会 | 必备 | 需完成认证学位+3年实践经验+考试，全职工作必备 |
-| LBP（持牌建筑从业者）设计级 | 新西兰建筑局 | 可选 | 从事独立设计或施工监督时可能需要 |
+| New Zealand Registered Architect (NZRAB) | New Zealand Architects Registration Board. | Required | Requires completing an accredited degree + 3 years of practical experience + exam, essential for full-time work |
+| LBP (Licensed Building Practitioner) Design level | New Zealand Building Authority | Optional | May be required when engaging in independent design or construction supervision |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。新西兰住房危机和人口增长推动建筑活动持续活跃，尤其是奥克兰和基督城。政府加大保障房和基础设施投资，建筑师需求预计稳定增长。可持续设计和抗震加固成为新热点。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. New Zealand's housing crisis and population growth drive ongoing construction activity, especially in Auckland and Christchurch. Government investment in social housing and infrastructure increases, demand for architects expected to grow steadily. Sustainable design and seismic retrofitting are new hot spots.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 通常为见习或技术助理 |
-| 中级（3-7年） | $75,000~$100,000 | 具备NZRAB注册后快速提升 |
-| 高级（7年以上） | $100,000~$140,000 | 资深注册建筑师或项目总监 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Typically trainee or technical assistant |
+| Mid-level (3–7 years) | $75,000~$100,000 | Rapid advancement with NZRAB registration |
+| Senior (7+ years) | $100,000~$140,000 | Senior registered architect or project director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级建筑师可积累项目经验后考取NZRAB注册，晋升为注册建筑师（技术负责人），再发展为项目主管或设计总监。部分资深人士开设事务所或转型为城市规划顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior architects can gain project experience, then obtain NZRAB registration, advance to registered architect (technical lead), then project manager or design director. Some veterans open their own firms or transition to urban planning consultants.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +94,67 @@ Architects plan and design buildings, urban complexes, and infrastructure. Due t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留，需有认证雇主job offer且满足NZRAB注册或同等要求 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，适用于有新西兰学历或工作经验的申请人 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡路径，工作2年后可申请居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence requires a job offer from an accredited employer and meeting NZRAB registration or equivalent requirements |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, for applicants with New Zealand qualifications or work experience |
+| Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa as a transitional path; eligible for residency after working for 2 years |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architect？**
-- 对空间设计和建筑美学有浓厚兴趣的人
-- 能应对复杂法规和多团队协调的理工科学生
-- 希望在新西兰长期发展并获得高薪居留的设计师
-
-**谁不适合学Architect？**
-- 抵触严格注册考试和持续专业进修的人
-- 追求快速赚钱或对细节缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in spatial design and architectural aesthetics
+- STEM students who can handle complex regulations and multi-team coordination
+- Designers aiming for long-term development and high-paying residency in New Zealand
+
+**Who is not suited**
+- Those who oppose strict registration exams and continuous professional development
+- People who chase quick money or lack patience for details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an architect in New Zealand?**
+A: According to Careers NZ, registered architects typically earn between NZ$75,000 and NZ$140,000 annually, with lower pay at entry level and senior roles reaching over NZ$150,000.
+
+**Q: How can architects apply for New Zealand residence through the Green List?**
+A: Architects are on the Green List Tier 1. With a certified employer job offer and meeting NZRAB registration requirements (or equivalent experience), they can directly apply for the Straight to Residence Visa without waiting
+
+**Q: What qualifications are needed to become an architect in New Zealand?**
+A: Typically requires completing an accredited 5-year Bachelor of Architecture (BArch) or 2-year Master of Architecture (MArch), then accumulate 3 years experience and pass NZRAB exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（5-7年）（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for architects in New Zealand?**
-答：According to Careers NZ, registered architects earn between NZ$75,000 and NZ$140,000 annually; senior roles can exceed NZ$150,000.
-
-**问：How can architects apply for residence in New Zealand via the Green List?**
-答：Architects are on Green List Tier 1. With a job offer from an accredited employer and meeting NZRAB registration or equivalent, you can directly apply for a Straight to Residence Visa.
-
-**问：What qualifications are needed to become an architect in New Zealand?**
-答：Typically a 5-year accredited Bachelor of Architecture or 2-year Master of Architecture, followed by 3 years of experience and passing the NZRAB exam.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

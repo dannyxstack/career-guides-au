@@ -1,60 +1,96 @@
-# Sales Representative (Motor Vehicle Parts and Accessories)（Sales Representative (Motor Vehicle Parts and Accessories)）职业分析 · 澳大利亚
+# Sales Representative (Motor Vehicle Parts and Accessories) — career analysis · Australia
 
-**职业代码：611313 – Sales Representative (Motor Vehicle Parts and Accessories)。**
+**Occupation code: 611313 (ANZSCO)**
 
-Sells motor vehicle parts and accessories to retail outlets, repair shops, and wholesale clients. Requires product knowledge, sales skills, and customer service ability.
+Responsible for selling auto parts and accessories to customers, including retail stores, repair shops, and wholesale clients. Requires product knowledge, sales skills, and customer service ability.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常要求高中文凭，无需高等教育） |
-| 职业证书 | 6个月 | $1,000~$5,000（可选汽车销售或商业证书，提升竞争力） |
+| High school graduation | 0 years | $0~$0 (Usually requires high school diploma, no higher education needed) |
+| Professional certificate | 6 months. | $1,000~$5,000 (Optional automotive sales or business certificate to enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 州交通局 | 必备 | 需有效驾驶执照以便拜访客户 |
-| 汽车销售培训证书 | TAFE或私立培训机构 | 可选 | 非强制，但有助于提升产品知识和销售技巧 |
+| Driver's license | State Transport Authority | Required | Requires valid driver's license for client visits |
+| Certificate in automotive sales training | TAFE or private training institution | Optional | Not mandatory, but helps improve product knowledge and selling skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。澳洲汽车后市场规模稳定，汽车保有量持续增长，零部件销售需求平稳。但受电商冲击，传统销售代表岗位增长有限，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Australian automotive aftermarket is stable, with continued growth in vehicle ownership and steady demand for parts sales. However, due to the impact of e-commerce, growth for traditional sales representative roles is limited, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含基本工资+提成，总收入可达此范围 |
-| 中级（3-5年） | $70,000~$90,000 | 经验丰富后提成增加 |
-| 高级（5年以上） | $90,000~$120,000 | 资深销售或管理岗，高提成 |
+| Median salary | $87,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Includes base salary plus commission; total income can reach this range. |
+| Mid-level (3–5 years) | $70,000~$90,000 | Commission increases with experience. |
+| Senior (5+ years) | $90,000~$120,000 | Senior sales or management role, high commission |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级销售代表晋升为高级销售代表、区域销售经理或销售总监。也可转向采购、产品管理或业务开发等岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Can advance from junior sales representative to senior sales representative, regional sales manager, or sales director. Can also transition to roles in procurement, product management, or business development.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - stable
 - automotive aftermarket
@@ -63,65 +99,67 @@ Sells motor vehicle parts and accessories to retail outlets, repair shops, and w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 该职业不在核心技能职业清单（CSOL）上，通常无法申请482签证。但若雇主能证明无法本地招聘，可能通过劳工协议。概率低。 |
-| Subclass 190（Skilled Nominated Visa） | 该职业不在州担保职业清单上，无法申请190签证。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | This occupation is not on the Core Skills Occupation List (CSOL) and usually cannot apply for a 482 visa. However, if the employer can prove they cannot recruit locally, a labour agreement may be possible. Low probability. |
+| Subclass 190 (Skilled Nominated Visa) | This occupation is not on the state nomination occupation list and cannot apply for a 190 visa. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Representative (Motor Vehicle Parts and Accessories)？**
-- 喜欢与人沟通、有销售热情的人员
-- 对汽车行业感兴趣，愿意学习产品知识
-- 能承受业绩压力，有目标导向精神
+**Who is suited**
+- People who enjoy communication and have sales enthusiasm
+- Interested in the automotive industry, willing to learn product knowledge
+- Able to handle performance pressure, goal-oriented
 
-**谁不适合学Sales Representative (Motor Vehicle Parts and Accessories)？**
-- 不擅长社交或不喜欢频繁客户沟通
-- 希望稳定办公室工作，不愿出差或外出拜访
+**Who is not suited**
+- Not good at socialising or dislikes frequent customer interaction
+- Prefers stable office work, unwilling to travel or visit clients offsite
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for automotive parts sales representatives?**
+A: Starting salary approx AUD 55,000-70,000 (including commission), mid to senior can reach AUD 90,000-120,000. Income tied to sales performance, commission proportion is significant.
+
+**Q: Can auto parts sales representatives immigrate to Australia?**
+A: This occupation is usually not on the skilled migration occupation list, skilled migration pathways are very limited, only possible through employer-sponsored labor agreements but extremely rare. Consider other occupations.
+
+**Q: What are the career prospects for this occupation?**
+A: Can advance to senior sales representative, regional sales manager, sales director, or move into procurement, product management, business development. Accumulate client resources to start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sales Representative (Motor Vehicle Parts and Accessories)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Sales Representative (Motor Vehicle Parts and Accessories)?**
-答：Entry-level salary ranges from AUD 55,000 to 70,000 (including commission), senior roles can reach AUD 90,000 to 120,000. Income is closely tied to sales performance.
-
-**问：Can a Sales Representative (Motor Vehicle Parts and Accessories) migrate to Australia?**
-答：This occupation is generally not on skilled occupation lists, so migration options are very limited. It may be possible via employer-sponsored labour agreements but rare.
-
-**问：What are the career prospects for this occupation?**
-答：Can advance to senior sales representative, regional sales manager, sales director, or transition to purchasing, product management, business development. With client network, can start own business.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

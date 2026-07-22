@@ -1,62 +1,98 @@
-# Payroll and Personnel Clerks（Payroll and Personnel Clerks）职业分析 · ES
+# Payroll and Personnel Clerks — career analysis · Spain
 
-**职业代码：4112 – Payroll and Personnel Clerks。**
+**Occupation code: 4112 (CNO)**
 
-Handle employee attendance, payroll calculation, social security declarations, and personnel records management as routine support in HR departments.
+Responsible for daily tasks such as employee attendance, payroll calculation, social insurance declarations, and personnel file management, serving as the basic executive position in the human resources department.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Superior en Administración y Finanzas | 2年（FP Grado Superior） | —（公立学校免费或低学费） |
-| 大学本科（劳动关系或人力资源） | 4年（Grado） | —（公立大学每年约1500欧） |
-| 薪资管理职业培训课程 | 6-12个月 | $500~$2,000（私立机构课程） |
+| FP Grado Superior en Administración y Finanzas | 2 years (FP Grado Superior) | $0~$3,000 (Public schools offer free or low tuition) |
+| Undergraduate (Labor Relations or Human Resources) | 4 years (Grado) | $0~$8,000 (Public universities approx €1,500 per year.) |
+| Payroll management vocational training courses | 6–12 months | $500~$2,000 (Private institution courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 劳动关系或人力资源学士学位 | 西班牙大学 | 可选 | 非强制但有助于晋升 |
-| FP Grado Superior en Administración y Finanzas | 教育部认证的FP学校 | 可选 | 常见入门资格 |
-| 薪资软件认证（如SAP、A3NOM） | 软件厂商 | 可选 | 提升竞争力 |
+| Bachelor's degree in Labor Relations or Human Resources | Spanish University | Optional | Not mandatory but beneficial for promotion |
+| FP Grado Superior en Administración y Finanzas | An FP school accredited by the Ministry of Education | Optional | Common entry qualifications |
+| Payroll software certification (such as SAP, A3NOM) | Software vendors | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。西班牙企业数字化程度提高，但中小企业仍需人工处理薪酬合规事务，岗位需求平稳，年增长约1-2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Spanish companies are becoming more digital, but SMEs still need manual compensation compliance, and job demand remains stable, with annual growth of about 1-2%.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管职位 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为薪资主管或人力资源专员，部分人转向人力资源信息系统（HRIS）管理或薪酬咨询顾问。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI is rapidly automating core operations such as attendance statistics, payroll calculation, and social security declarations, significantly reducing the basic job requirements for HR and payroll administrators.
+
+They can be promoted to payroll supervisor or HR specialist, with some moving on to HRIS management or compensation consultants.
+
+**Tasks most exposed to AI:**
+
+- Automatic aggregation of attendance data and anomaly marking
+- Automatic calculation and report generation of wages, bonuses, and deductions
+- Verification and online declaration of social security housing fund base
+- Digital archiving and information extraction of personnel files
+- Automatically generate and send standard labor contract templates
+
+**Where AI augments the role:**
+
+- Using AI to analyze salary data and provide market benchmarking recommendations
+- AI-assisted employee self-service inquiries and FAQs
+- The intelligent scheduling system optimizes manpower allocation
+- Predict turnover risks through data analysis and intervene in advance
+- Automate payroll compliance audits and generate reports
+
+**Human moat:**
+
+- Handling salary appeals and complex personnel disputes
+- Understand labor laws and provide personalized policy interpretations
+- Cross-departmental coordination and senior decision-making support
+- Employee benefits program design and interpersonal care
+- Manage payroll tax compliance for special positions (such as foreign employees).
+
+**Skills to build:**
+
+- HRIS system configuration and maintenance (such as SAP SuccessFactors)
+- Python or VBA enables batch data processing automation
+- Data Visualization Tools (Power BI/Tableau)
+- In-depth application of labor law and compliance knowledge
+- Project Management and Process Optimization
+- AI tools (such as ChatGPT) assist in policy document writing
+
+**Key growth areas:**
 
 - Payroll automation
 - HR outsourcing
@@ -65,62 +101,64 @@ Handle employee attendance, payroll calculation, social security declarations, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需获得西班牙公司工作合同，并证明该职位无法由本地人填补，通常用于非紧缺职业。 |
-| Subclass Busqueda empleo（Job Search Visa） | 适用于从西班牙大学或FP毕业的非欧盟学生，可在毕业后留西寻找工作。 |
+| Subclass Cuenta ajena (Work Contract Visa) | A job contract with a Spanish company must be obtained, proving that the position cannot be filled by a local person, usually for non-essential occupations. |
+| Subclass Busqueda empleo (Job Search Visa) | This applies to non-EU students who graduated from Spanish universities or FP, allowing them to stay in Spain and look for jobs after graduation. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Payroll and Personnel Clerks？**
-- 细心、有条理的人事行政从业者
-- 希望在西班牙中小企业稳定就业的本地或欧盟公民
-- 具有财务或行政背景的求职者
+**Who is suited**
+- Careful and organized personnel administration practitioners
+- Local or EU citizens who wish to find stable employment in Spanish SMEs
+- Job seekers with financial or administrative backgrounds
 
-**谁不适合学Payroll and Personnel Clerks？**
-- 寻求高薪或快速晋升的野心家
-- 非欧盟且无西班牙学历或工作经验的第三国公民
+**Who is not suited**
+- Ambitious individuals seeking high salaries or rapid promotions
+- Third-country citizens outside the EU who do not have Spanish education or work experience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a salary administrator in Spain?**
+A: Entry-level about €18,000-24,000, mid-level €24,000-32,000, senior €32,000-40,000 (pre-tax annual salary).
+
+**Q: Can third-country citizens immigrate to Spain through this occupation?**
+A: This occupation is not in short supply and does not require academic certification, but non-EU citizens must obtain a work contract and prove that the position is difficult to fill by locals, making immigration more challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Payroll and Personnel Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for payroll clerks in Spain?**
-答：Entry-level: €18,000–€24,000; mid-level: €24,000–€32,000; senior: €32,000–€40,000 (gross annual).
-
-**问：Can third-country nationals immigrate to Spain through this occupation?**
-答：This occupation is not in shortage, and no mandatory credential validation is required. However, a work contract and proof that the position cannot be filled locally are needed, making immigration difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Security system installers and repairers（Security system installers and repairers）职业分析 · UK
+# Security system installers and repairers — career analysis · United Kingdom
 
-**职业代码：5245 – Security system installers and repairers。**
+**Occupation code: 5245 (SOC)**
 
-Install, maintain and repair electronic security systems including intruder alarms, access control and CCTV.
+Responsible for installing, maintaining, and repairing electronic security systems, including intrusion detection, access control, and surveillance equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 2年 | —（部分雇主提供学徒制，无学费） |
-| 大学预科/文凭 | 1-2年 | $5,000~$15,000（如BTEC电气/电子工程证书） |
+| High school diploma or equivalent | 2 years | $0~$5,000 (Some employers offer apprenticeships with no tuition fees) |
+| University Foundation/Diploma | 1-2 years | $5,000~$15,000 (E.g., BTEC certification in Electrical/Electronic Engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气安装资质 | City & Guilds / EAL | 可选 | 如Level 3 Diploma in Electrical Installation |
-| 安防系统认证 | NSI (National Security Inspectorate) / SSAIB | 必备 | 入侵报警、门禁、CCTV等专业认证 |
-| 电工注册 | JIB / ECS | 可选 | ECS金卡是行业通行证 |
+| Security system certification | NSI (National Security Inspectorate) / SSAIB | Required | Professional certifications for intrusion alarm, access control, CCTV, etc. |
+| Electrical installation qualification | City & Guilds / EAL | Optional | e.g., Level 3 Diploma in Electrical Installation |
+| Electrician registration | JIB / ECS | Optional | The ECS Gold Card is an industry passport |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。随着犯罪预防和智能家居需求增长，英国安防系统安装维修员需求稳定。数字化转型和物联网技术应用推动行业升级，预计未来几年就业机会持续增加。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. With the growing demand for crime prevention and smart homes, demand for security system installers and repairers in the UK remains stable. Digital transformation and IoT technology are driving industry upgrades, and employment opportunities are expected to continue increasing in coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒期或入门级 |
-| 中级（3-8年） | $28,000~$35,000 | 持有认证的合格技师 |
-| 高级（8年以上） | $35,000~$45,000 | 高级技师或主管 |
+| Median salary | $39,002 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprenticeship or entry-level |
+| Mid-level (3–8 years) | $28,000~$35,000 | Certified qualified technician |
+| Senior (8+ years) | $35,000~$45,000 | Senior technician or supervisor |
+| average salary | $42,119 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级安装工可晋升为高级技师、团队主管或项目经理。也可向系统设计、网络安全集成方向发展。获取电气资质可拓展至综合建筑系统领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Security System Installer/Repairer faces task restructuring: routine monitoring configuration and fault diagnosis are easily automated by AI, but on-site installation, physical security system maintenance, and client communication still rely on humans; overall outlook is mixed.
+
+Junior installers can advance to senior technicians, team leaders, or project managers. They can also move towards system design or cybersecurity integration. Obtaining electrical qualifications can expand into integrated building systems.
+
+**Tasks most exposed to AI:**
+
+- Intrusion detection algorithms based on video streams will take over manual video surveillance analysis
+- AI self-diagnosis system can automatically identify camera/sensor faults and deliver solutions
+- Cloud security management platform automates system inspections and log analysis
+- Smart voice interaction systems replace simple troubleshooting in phone repair requests
+
+**Where AI augments the role:**
+
+- AI-assisted wiring planning tool can quickly generate optimal route maps, reducing on-site survey time
+- Augmented Reality (AR) overlays installation manuals, improving efficiency in assembling complex systems
+- Machine learning predicts equipment lifespan, optimizing preventive maintenance plans
+- Virtual fault simulator accelerates repair training, covering rare problem scenarios
+- Automatically generate compliance reports and client documents, saving paperwork
+
+**Human moat:**
+
+- Physical operations like on-site wiring, drilling, and cable termination are irreplaceable
+- Temporary adaptation and creative troubleshooting in emergency situations
+- Multi-system integration debugging (e.g., access control and fire alarm linkage) relies on experience
+- Understanding client needs and designing personalized solutions
+- Maintenance experience with legacy systems and non-standard equipment cannot be fully replicated by AI
+
+**Skills to build:**
+
+- Cybersecurity basics (IP camera, access control system protection)
+- IoT device configuration and commissioning (Zigbee/Wi-Fi security components)
+- Use of AI diagnostic tools (e.g., machine learning-based fault prediction software).
+- AR-assisted maintenance equipment operation
+- Basic programming skills (Python scripting for system integration)
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Security technology
 - Smart homes
@@ -62,68 +97,67 @@ Install, maintain and repair electronic security systems including intruder alar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 符合技术工人签证要求，需获得雇主担保 |
-| Subclass Scale-up（Scale-up visa） | 适合高增长企业雇佣，需满足薪资要求 |
-| Subclass Graduate（Graduate visa） | 毕业生签证可从事该职业工作 |
+| Subclass Skilled Worker (Skilled Worker visa) | Meets skilled worker visa requirements, requires employer sponsorship |
+| Subclass Scale-up (Scale-up visa) | Suitable for employment by high-growth companies, must meet salary requirements |
+| Subclass Graduate (Graduate visa) | Graduate visa allows working in this occupation |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Security system installers and repairers？**
-- 动手能力强、喜欢电子技术的人
-- 追求稳定就业、愿意考取行业认证的人
-- 乐意在不同地点工作（现场施工）的人
-
-**谁不适合学Security system installers and repairers？**
-- 不喜欢户外或现场工作环境的人
-- 对频繁客户接触感到压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on and enjoy electronics
+- People seeking stable employment and willing to obtain industry certifications
+- People willing to work in different locations (on-site construction)
+
+**Who is not suited**
+- People who dislike outdoor or on-site work environments
+- Individuals who feel stressed by frequent customer contact
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a security system installation and maintenance technician?**
+A: Entry-level approximately £22,000-28,000, mid-level £28,000-35,000, senior up to £45,000. Overtime and additional projects can increase earnings.
+
+**Q: Can this occupation migrate to the UK under the Skilled Worker visa?**
+A: Yes, this occupation is on the skilled worker occupation list and appears on the shortage occupation list (Immigration Salary List), with a lower salary threshold.
+
+**Q: How to Become a Security System Installer or Repairer?**
+A: Common path: complete an apprenticeship or relevant electrical course, obtain NSI/SSAIB certification, gain experience, and become a senior technician.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Security system installers and repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for security system installers and repairers?**
-答：Entry-level £22,000-£28,000, mid-level £28,000-£35,000, senior up to £45,000. Overtime and extra projects can increase earnings.
-
-**问：Can this profession immigrate to the UK via the Skilled Worker visa?**
-答：Yes, it is on the eligible occupations list and also on the Immigration Salary List, meaning a lower salary threshold applies.
-
-**问：How to become a security system installer and repairer?**
-答：Typical route is completing an apprenticeship or relevant electrical course, obtaining NSI/SSAIB certification, and gaining experience to become a senior technician.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

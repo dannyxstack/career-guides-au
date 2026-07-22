@@ -1,59 +1,92 @@
-# Subsistence Livestock Farmers（Subsistence Livestock Farmers）职业分析 · IE
+# Subsistence Livestock Farmers — career analysis · Ireland
 
-**职业代码：6320 – Subsistence Livestock Farmers。**
+**Occupation code: 6320 (ISCO08)**
 
-Subsistence livestock farmers raise animals primarily for family consumption and local barter, representing traditional small-scale farming in Ireland.
+Subsistence livestock farmers mainly rely on raising livestock to sustain their household, with products primarily for own consumption or small local trade, representing traditional small-scale farmers in Irish agriculture.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | — | —（通常通过家庭传承或短期培训获得技能） |
-| 农业证书/文凭 | 1年（证书） | $1,000~$5,000（部分农场可申请培训资助） |
+| No formal education requirements | — | $0~$0 (Skills typically acquired through family inheritance or short-term training) |
+| Agricultural Certificate/Diploma | 1 year (certificate) | $1,000~$5,000 (Some farms can apply for training subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 经验传承为主 |
+| No mandatory qualification requirements | None | Optional | Mainly through experience transfer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（★☆☆☆☆）。** 全国从业人数约 12,000。爱尔兰自给性畜牧业从业人数持续下降，受农业集约化和欧盟共同农业政策影响，小型农场面临转型或退出压力。
+**Job demand: very low (★☆☆☆☆).** National workforce approx. 12,000. Employment in Ireland's self-sufficient livestock sector continues to decline due to agricultural intensification and the EU Common Agricultural Policy, with small farms facing transformation or exit pressures.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 多为家庭收入，现金回报低 |
-| 中级（3-10年） | $20,000~$30,000 | 部分补贴和自产食物 |
-| 高级（10年以上） | $25,000~$35,000 | 多样化收入来源 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Mostly household income, low cash returns |
+| Intermediate (3-10 years) | $20,000~$30,000 | Partial subsidies and self-produced food |
+| Senior (10+ years) | $25,000~$35,000 | Diverse income sources |
+| average salary | $24,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径有限，部分农民可能转向有机农业或乡村旅游以增加收入，但整体晋升空间较小。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Self-sufficient livestock farmers face automation compression risk: daily tasks like grazing, record-keeping, and simple disease monitoring can be replaced by drones, sensors, and AI systems, but complex decisions, traditional skills, and emotional care remain a moat.
+
+Limited career paths; some farmers may transition to organic farming or rural tourism to increase income, but overall promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Using sensors and drones to automatically monitor livestock location and health
+- AI analyzes historical data to automatically optimize grazing routes and feed ratios
+- Automated recording systems replacing manual ledgers and production statistics
+- Early disease warning based on image recognition replaces manual inspection
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of pandemic risks and market supply-demand trends to improve decision-making quality
+- Precision feeding systems achieve personalized nutrition plans through individual animal identification.
+- Digital twins simulate the impact of different management strategies on pasture output.
+- Real-time access to market information on feed, vaccines, subsidies, etc. via mobile app
+
+**Human moat:**
+
+- Intuition and experience in discerning subtle changes in livestock mood and behavior.
+- Mob grazing and traditional seasonal management based on local ecosystem knowledge
+- Comprehensive ability to handle emergency situations (dystocia, blizzard)
+- The value of community trust relationships and the transmission of manual skills
+
+**Skills to build:**
+
+- Operation and data analysis of precision livestock software (e.g., HerdHealth)
+- Drone inspection and geographic information system (GIS) mapping
+- Sensor network maintenance and IoT basics
+- Knowledge of animal welfare and organic certification standards
+- Basic financial management and digital marketing
+- Cross-cultural communication and sustainable agriculture knowledge
+
+**Key growth areas:**
 
 - declining workforce
 - small farm consolidation
@@ -62,64 +95,63 @@ Subsistence livestock farmers raise animals primarily for family consumption and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：差（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，但自给性畜牧业几乎无雇主担保可能 |
-| Subclass EU Treaty Rights（EU/EEA Free Movement） | 欧盟/EEA公民可自由在爱尔兰从事自给性农业 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, but self-sustaining pastoralism rarely offers employer sponsorship opportunities |
+| Subclass EU Treaty Rights (EU/EEA Free Movement) | EU/EEA citizens can freely engage in subsistence farming in Ireland |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Subsistence Livestock Farmers？**
-- 安于传统田园生活、不追求高收入者
-- 有继承家庭农场资源的人
-
-**谁不适合学Subsistence Livestock Farmers？**
-- 追求职业发展和高收入的人
-- 希望移民爱尔兰的非EU公民
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are content with traditional rural life and do not seek high income
+- People who have inherited family farm resources
+
+**Who is not suited**
+- Those pursuing career advancement and high income.
+- Non-EU citizens wishing to immigrate to Ireland
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of subsistence livestock farmers?**
+A: Low and unstable income; entry-level practitioners earn about €15,000-20,000 annually, often in non-cash forms (self-produced food and housing).
+
+**Q: Can non-EU citizens immigrate to Ireland through subsistence livestock farming?**
+A: Almost impossible. This occupation is not in shortage and has no employer sponsorship pathway, usually limited to EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 极低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 极低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Subsistence Livestock Farmers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of subsistence livestock farmers?**
-答：Income is low and unstable, with entry-level earning around €15,000-20,000 annually, mostly in kind (food and housing).
-
-**问：Can non-EU citizens immigrate to Ireland as subsistence livestock farmers?**
-答：Almost impossible. This occupation is not on the shortage list and lacks employer sponsorship, generally only for EU citizens.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

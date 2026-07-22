@@ -1,61 +1,94 @@
-# Hydrogeologist（Hydrogeologist）职业分析 · 新西兰
+# Hydrogeologist — career analysis · New Zealand
 
-**职业代码：234413 – Hydrogeologist。**
+**Occupation code: 234413 (ANZSCO)**
 
-Hydrogeologists study groundwater distribution, flow, and quality, assessing water resource sustainability for mining, environmental remediation, and water supply projects. High migration feasibility in NZ, as the occupation is on the Green List Tier 1 for direct residence.
+Hydrogeologists study the distribution, flow, and quality of groundwater, assess water resource sustainability, and provide scientific basis for mining, environmental remediation, and water supply projects. New Zealand skilled migration is highly feasible; this occupation is on the Green List (Tier 1) and eligible for direct residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $32,000~$45,000（每年学费，以奥克兰大学为例） |
-| 硕士 | 1-2年 | $40,000~$55,000（每年学费，以坎特伯雷大学为例） |
-| 博士 | 3-4年 | $6,500~$8,000（每年学费，多为政府资助或奖学金） |
+| Bachelor's degree | 3 years | $32,000~$45,000 (Annual tuition fee, using the University of Auckland as an example) |
+| Master's degree | 1-2 years | $40,000~$55,000 (Annual tuition fee, using University of Canterbury as an example) |
+| Doctorate | 3-4 years | $6,500~$8,000 (Annual tuition fees, mostly government-funded or scholarship-based) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地球科学或相关领域学士学位 | 新西兰大学 | 必备 | 核心要求，专业需包含水文学、地质学 |
-| 注册地质学家(CPG) | 澳大利亚与新西兰地质学会(AusIMM) | 可选 | 高级认证，提升竞争力 |
-| 雅思成绩 | IELTS | 必备 | 总分6.5，各单项不低于6.0（技术移民要求） |
-| 新西兰工作安全局(Worksafe)认证 | Worksafe NZ | 可选 | 从事钻井现场工作可能需要 |
+| Bachelor's degree in Earth Science or related field | New Zealand universities | Required | Core requirement: major must include hydrology and geology |
+| IELTS score | IELTS | Required | Overall 6.5, no band below 6.0 (for skilled migration) |
+| Certified Professional Geologist (CPG) | Australasian Institute of Mining and Metallurgy (AusIMM) | Optional | Advanced certification to enhance competitiveness. |
+| Worksafe New Zealand certification | Worksafe NZ | Optional | May require working on drilling sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 650。新西兰水资源管理与环境咨询行业持续增长，尤其在坎特伯雷、奥克兰等地区，因农业与城市发展对地下水依赖度高。预计未来5年就业岗位增长约15%，初级职位竞争中等，有经验者需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 650. New Zealand's water resource management and environmental consulting industry continues to grow, especially in Canterbury, Auckland, and other regions due to high reliance on groundwater for agriculture and urban development. Employment is expected to grow by about 15% over the next 5 years. Competition for entry-level positions is moderate, with strong demand for experienced workers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 入门级，多在地质咨询公司 |
-| 中级（3-7年） | $75,000~$100,000 | 具备项目管理能力 |
-| 高级（7年以上） | $100,000~$130,000 | 含主管、技术总监职位 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level, mostly in geological consulting firms |
+| Mid-level (3–7 years) | $75,000~$100,000 | Project management skills |
+| Senior (7+ years) | $100,000~$130,000 | Including supervisor and technical director positions |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级水文地质学家（0-3年）从事数据采集、监测井安装；中级（3-7年）负责项目设计与建模；高级（7年以上）晋升为项目经理或技术总监，可注册成为新西兰地质学家学会（GSNZ）成员，需持续专业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Entry-level hydrogeologist (0-3 years) conducts data collection and monitoring well installation; mid-level (3-7 years) handles project design and modelling; senior (7+ years) advances to project manager or technical director, may register as a member of the Geoscience Society of New Zealand (GSNZ), requiring continuing professional development.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +97,67 @@ Hydrogeologists study groundwater distribution, flow, and quality, assessing wat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 水文地质学家在绿色名单第一梯队，符合条件可直接申请居留，无需先工作。需有认证雇主或满足薪资要求。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，根据学历、工作经验、收入等评分，达到6分可申请。职业在ANZSCO技能等级1，有额外加分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如暂不符合居留条件，可凭认证雇主工签先工作，积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Hydrogeologists are in Tier 1 of the Green List; eligible candidates can apply for residence directly without needing to work first. Must have an accredited employer or meet salary requirements. |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, score points based on qualifications, work experience, income, etc. A score of 6 is required to apply. Occupations in ANZSCO skill level 1 receive additional points. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you do not yet meet residency conditions, you can first work with a certified employer work visa, gain experience, and then transition to residency. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hydrogeologist？**
-- 热爱野外工作与数据分析
-- 具有环境科学或地质学背景
-- 寻求新西兰技术移民且职业在绿色名单上
-
-**谁不适合学Hydrogeologist？**
-- 不喜欢长时间户外工作
-- 对数学建模和软件操作缺乏耐心
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for fieldwork and data analysis
+- Background in environmental science or geology
+- Seeking New Zealand skilled migration with an occupation on the Green List
+
+**Who is not suited**
+- Dislikes long hours of outdoor work
+- Lacks patience with mathematical modeling and software operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of hydrogeologists in New Zealand?**
+A: Junior annual salary approx. 55k-75k NZD, intermediate 75k-100k NZD, senior 100k-130k NZD. Government and research institutions slightly lower but with stable benefits.
+
+**Q: Is it easy for hydrogeologists to apply for skilled migration to New Zealand?**
+A: This occupation is on the Green List Tier 1 and qualifies for direct residence application; it is also a high-skilled occupation under the SMC 6-point system, typically achieving 6 points. Requires a certified employer job offer or meeting salary requirements.
+
+**Q: What educational background is needed to become a hydrogeologist?**
+A: Usually requires a bachelor's degree or higher in earth science, hydrology, or a related field. Universities in New Zealand such as the University of Auckland and the University of Canterbury offer relevant courses. A master's or PhD is more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-Hydrogeologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hydrogeologists in New Zealand?**
-答：Entry-level: NZD 55,000-75,000; Mid-level: NZD 75,000-100,000; Senior: NZD 100,000-130,000. Government and research institutes pay slightly lower but with stable benefits.
-
-**问：Is it easy for hydrogeologists to apply for skilled migration to New Zealand?**
-答：The occupation is on Green List Tier 1, eligible for Straight to Residence visa. Also qualifies for SMC 6-point system with high points. Requires a job offer from an accredited employer or meeting salary threshold.
-
-**问：What educational background is required to become a hydrogeologist?**
-答：Typically a bachelor's degree or higher in earth science, hydrology, or a related field. Universities like University of Auckland and University of Canterbury offer relevant programs. A master's or PhD is advantageous.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

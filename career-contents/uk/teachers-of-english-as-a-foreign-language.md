@@ -1,61 +1,95 @@
-# Teachers of english as a foreign language（Teachers of english as a foreign language）职业分析 · UK
+# Teachers of english as a foreign language — career analysis · United Kingdom
 
-**职业代码：2317 – Teachers of english as a foreign language。**
+**Occupation code: 2317 (SOC)**
 
-Teachers of English as a foreign language instruct non-native speakers in English language skills, including speaking, writing, listening, and reading, from beginner to advanced levels.
+English as a Foreign Language teachers teach English to non-native speakers, covering skills from basic to advanced, including speaking, writing, listening, and reading.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $9,000~$25,000（英国本科国际生学费年均约£15,000-£25,000，本地学生约£9,000） |
-| TEFL/CELTA证书 | 1-6个月 | $500~$2,000（线上课程较便宜，线下密集型课程费用较高） |
-| 硕士学位（如应用语言学） | 1年 | $15,000~$30,000（国际生学费，英国本地学生约£10,000） |
+| Bachelor's degree | 3 years | $9,000~$25,000 (Annual tuition for UK undergraduate international students approx. £15,000-£25,000; domestic students approx. £9,000) |
+| TEFL/CELTA certificate | 1-6 months | $500~$2,000 (Online courses are cheaper, while intensive in-person courses are more expensive) |
+| Master's degree (e.g., in Applied Linguistics) | 1 year | $15,000~$30,000 (International student tuition, UK local students approximately £10,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CELTA证书 | 剑桥大学 | 必备 | 全球广泛认可的英语教学资格证书，多为强制要求 |
-| TESOL证书 | 多所机构 | 可选 | 另一种主流英语教学证书，受雇主认可 |
-| 英语语言文学或教育相关学位 | 大学 | 可选 | 许多雇主优先考虑相关学位 |
-| 英国合格教师身份（QTS） | 英国教育部 | 可选 | 若在公立学校任教则需 |
+| CELTA certificate | University of Cambridge | Required | Globally recognized English teaching qualification, often mandatory |
+| TESOL certificate. | Multiple institutions | Optional | Another mainstream English teaching certificate recognized by employers |
+| Degree in English language and literature or education | University | Optional | Many employers prefer a relevant degree |
+| Qualified Teacher Status (QTS) in the UK | UK Department for Education | Optional | If teaching in a public school, you need |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国英语外语教师需求稳定，受国际学生和移民增长推动。伦敦和东南部机会较多，线上教学需求上升。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for English as a foreign language teachers in the UK is stable, driven by international students and immigration growth. London and the Southeast have more opportunities, and online teaching demand is rising.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 语言学校或私立机构 |
-| 中级（3-8年） | $28,000~$38,000 | 管理经验或高级职位 |
-| 高级（8年以上） | $38,000~$50,000 | 学术主管或大学讲师 |
+| Median salary | $37,514 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Language school or private institution |
+| Mid-level (3–8 years) | $28,000~$38,000 | Management experience or senior position |
+| Senior (8+ years) | $38,000~$50,000 | Academic supervisor or university lecturer |
+| average salary | $39,399 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业可发展为资深教师、课程协调员、学术主管或教育管理者。也可转向教师培训、教材编写或教育科技领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
+
+Career can progress to senior teacher, curriculum coordinator, academic supervisor, or education administrator. Also possible to transition to teacher training, textbook development, or educational technology.
+
+**Tasks most exposed to AI:**
+
+- Automated grading and feedback for basic grammar and vocabulary exercises
+- Generating standardized homework questions and test papers
+- AI-Driven Assessment and Correction of Spoken Pronunciation
+- Generate simulated exercises for common conversation scenarios
+
+**Where AI augments the role:**
+
+- Use AI to analyze students' language weaknesses and create personalized learning plans
+- Using AI translation tools to assist in explaining complex grammar concepts (especially for low-language-level students)
+- Generate diverse teaching materials using AI (e.g., cultural context dialogues, speech templates)
+- 24/7 language practice support via AI chatbots outside class hours
+
+**Human moat:**
+
+- Cross-cultural communication and emotional support to help students overcome language anxiety
+- Dynamic classroom management and real-time interaction, adjusting teaching pace based on student responses
+- Explain cultural metaphors, humor, and implied meanings in language
+- Creating immersive language environments (e.g., role-plays, field activities)
+- Assess students' oral fluency, pragmatic skills, and other soft skills
+
+**Skills to build:**
+
+- Use of AI educational tools (e.g. adaptive learning platforms, AI teaching assistants)
+- Data-driven teaching methods (analyze learning data to optimize lesson plans)
+- Online Teaching and Blended Course Design
+- Advanced course in second language acquisition theory and cross-cultural communication
+- EdTech Project Management Skills
+- Critical thinking and emotional intelligence development
+
+**Key growth areas:**
 
 - ESL demand growth
 - online teaching
@@ -64,68 +98,67 @@ Teachers of English as a foreign language instruct non-native speakers in Englis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有雇主担保的英语教师职位，需满足薪资门槛£26,200/年或行业最低工资 |
-| Subclass Graduate（Graduate Visa） | 允许在英毕业生工作2年（博士3年），可积累教学经验后转为Skilled Worker |
-| Subclass Temporary Work（Temporary Work - International Agreement Visa） | 适用于短期教学交流项目，如British Council安排的职位 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to employer-sponsored English teacher positions, must meet salary threshold of £26,200/year or industry minimum wage |
+| Subclass Graduate (Graduate Visa) | Allows UK graduates to work for 2 years (3 years for PhD), can accumulate teaching experience then switch to Skilled Worker |
+| Subclass Temporary Work (Temporary Work - International Agreement Visa) | Suitable for short-term teaching exchange programs, such as positions arranged by British Council |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teachers of english as a foreign language？**
-- 喜欢与不同文化背景的人交流，具备耐心和沟通技巧
-- 对语言教学有热情，愿意持续学习教学法
-- 适应灵活的工作时间，包括晚间和周末课程
-
-**谁不适合学Teachers of english as a foreign language？**
-- 不喜欢重复性教学或课堂管理
-- 对工作稳定性要求高，偏好长期合同
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys communicating with people from different cultural backgrounds, with patience and communication skills
+- Passionate about language teaching, willing to continuously learn teaching methods
+- Adapt to flexible working hours, including evening and weekend classes
+
+**Who is not suited**
+- Dislikes repetitive teaching or classroom management
+- Prefers high job stability and long-term contracts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for English as a Foreign Language teachers?**
+A: Annual salary for junior teachers: about £20,000-£28,000; experienced: £28,000-£38,000; senior roles like academic head: £38,000-£50,000. Type and location of institution affect salary.
+
+**Q: Can an English as a Foreign Language teacher immigrate to the UK through the Skilled Worker visa?**
+A: Yes, but requires employer sponsorship, and the job must meet skill level and salary requirements (typically annual salary no less than £26,200). This occupation is not on the Shortage Occupation List but is still a qualifying occupation.
+
+**Q: What qualifications are needed to become an English as a foreign language teacher?**
+A: Usually requires CELTA or TESOL certification. CELTA is more recognized and often mandatory. A bachelor's degree is not essential but preferred by employers. Public schools require QTS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Teachers of english as a foreign language的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an EFL teacher?**
-答：Entry-level teachers earn around £20,000-£28,000; experienced teachers £28,000-£38,000; senior roles like academic director £38,000-£50,000. Salary varies by institution type and location.
-
-**问：Can EFL teachers migrate to the UK via the Skilled Worker visa?**
-答：Yes, with a sponsoring employer. The job must meet skill level and salary thresholds (typically £26,200/year). The occupation is not on the shortage list but is eligible.
-
-**问：What certifications are needed to become an EFL teacher?**
-答：Typically require a CELTA or TESOL certificate, with CELTA being widely mandatory. A bachelor's degree is preferred. For state schools, QTS is required.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

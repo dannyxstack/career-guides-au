@@ -1,59 +1,92 @@
-# Motorcycle Mechanic（Motorcycle Mechanic）职业分析 · 澳大利亚
+# Motorcycle Mechanic — career analysis · Australia
 
-**职业代码：321213 – Motorcycle Mechanic。**
+**Occupation code: 321213 (ANZSCO)**
 
-Motorcycle Mechanics repair, service, and modify motorcycles and other two-wheeled motor vehicles, including engines, transmissions, brakes, and electrical systems. The occupation is in steady demand in Australia.
+Motorcycle mechanics are responsible for repairing, maintaining, and modifying motorcycles and other two-wheeled motor vehicles, including engines, transmissions, brakes, and electrical systems. This occupation is in demand in Australia with stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 三级证书 | 3年 | $5,000~$12,000（公立TAFE学费，学徒期间收入可抵扣部分费用） |
-| 四级证书 | 附加6个月 | $3,000~$6,000（通常在三级证书完成后进修，提升管理技能） |
+| Certificate III | 3 years | $5,000~$12,000 (Public TAFE fees; apprenticeship income can offset part of the costs) |
+| Certificate IV | Additional 6 months | $3,000~$6,000 (Usually pursue further study after completing Certificate III to enhance management skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托车维修三级证书 | TAFE或注册培训机构 | 必备 | 行业标准准入资格 |
-| 机动车维修技师注册 | 各州公平交易或交通部门 | 可选 | 部分州要求注册 |
-| TRA技能评估 | Trades Recognition Australia | 必备 | 技术移民必备 |
+| Certificate III in Motorcycle Mechanics | TAFE or registered training organizations | Required | Industry standard entry qualification |
+| TRA skills assessment | Trades Recognition Australia | Required | Essential for skilled migration |
+| Motor vehicle repair technician registration | State fair trading or transport departments | Optional | Some states require registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,800。澳洲摩托车保有量持续增加，特别是休闲和通勤用途，预计未来5年就业增长稳健。同时，老技师退休将创造新的职位空缺。
+**Job demand: high (★★★★☆).** National workforce approx. 4,800. Motorcycle ownership in Australia continues to increase, especially for leisure and commuting, with steady employment growth expected over the next 5 years. Additionally, retiring technicians will create new job openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $52,000~$60,000 | 含养老金 |
-| 中级（3-5年） | $65,000~$78,000 | 含养老金，有品牌认证更佳 |
-| 高级（5年以上） | $80,000~$95,000 | 首席技师或车间主管级别 |
+| Median salary | $84,344 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $52,000~$60,000 | Including superannuation |
+| Mid-level (3–5 years) | $65,000~$78,000 | Including pension, brand certification preferred |
+| Senior (5+ years) | $80,000~$95,000 | Chief technician or workshop supervisor level |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技工可晋升为高级技师、车间主管或开设自己的修理店。也可以专注于特定品牌或高性能改装，或转向摩托车赛事支持。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
+
+Entry-level technicians can advance to senior technicians, workshop supervisors, or open their own repair shops. They can also specialize in specific brands or high-performance modifications, or shift to motorcycle event support.
+
+**Tasks most exposed to AI:**
+
+- Using diagnostic software to identify motorcycle engine and electrical system faults
+- Reading fault codes via OBD interface and generating repair suggestions.
+- Automatically generates maintenance records and inventory management reports
+- Using AI vision to inspect tire wear and component condition
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis improves fault localization speed and accuracy
+- AI recommends optimal repair plans and parts replacement options
+- AI provides training videos and AR guidance for complex disassembly and assembly procedures.
+- AI predictive maintenance reminds customers for regular servicing
+- AI-optimized parts procurement and inventory management
+
+**Human moat:**
+
+- Experience in tuning special modified and high-performance motorcycles
+- Creative problem-solving for non-standard failures
+- Soft skills in building trust and reputation through communication with clients
+- Field operations and fine manual crafting skills
+
+**Skills to build:**
+
+- Diagnostic software and OBD tool usage skills.
+- Electric and hybrid motorcycle repair technology
+- Customer service and communication skills
+- Habit of continuously learning new vehicle models and digital systems
+- AR-assisted maintenance and remote collaboration tools
+
+**Key growth areas:**
 
 - Motorcycle ownership up
 - Specialist repairs demand
@@ -62,69 +95,68 @@ Motorcycle Mechanics repair, service, and modify motorcycles and other two-wheel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary) Visa） | 基于雇主担保的临时工作签证，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主提名永居签证，直接获得永久居留 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，在MLTSSL清单上，需高分邀请 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，在CSOL上，需州政府提名 |
+| Subclass 482 (Skills in Demand (Temporary) Visa) | Employer-sponsored temporary work visa, can transition to 186 permanent residence |
+| Subclass 186 (Employer Nomination Scheme) | Employer Nomination Permanent Visa, directly grants permanent residency |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent visa (subclass 189), on the MLTSSL, requires high points invitation |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence visa, on the CSOL, requires state government nomination |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motorcycle Mechanic？**
-- 对摩托车有浓厚兴趣和热情
-- 动手能力强，喜欢机械修理
-- 愿意通过学徒制积累经验
-
-**谁不适合学Motorcycle Mechanic？**
-- 对油污和体力工作敏感
-- 缺乏耐心进行细节故障排查
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest and passion for motorcycles
+- Strong hands-on skills and enjoy mechanical repair
+- Willing to gain experience through an apprenticeship.
+
+**Who is not suited**
+- Sensitive to oil stains and physical work.
+- Lack of patience for detailed fault troubleshooting
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a motorcycle mechanic in Australia?**
+A: Entry-level approx AUD 52,000-60,000 per year, mid-level 65,000-78,000, senior 80,000-95,000, experienced or self-employed higher.
+
+**Q: How can a motorcycle mechanic immigrate to Australia?**
+A: This occupation is on the MLTSSL list, eligible for 189 Skilled Independent visa, 190 State Nominated visa, 482 Employer Sponsored visa, and 186 Permanent Residence visa. Requires TRA skills assessment.
+
+**Q: What are the employment prospects for motorcycle mechanics in Australia?**
+A: Australia's growing motorcycle ownership and stable maintenance demand make this an occupation in demand with good employment prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Motorcycle Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Motorcycle Mechanic in Australia?**
-答：Entry-level: AUD 52,000–60,000; mid-level: AUD 65,000–78,000; senior: AUD 80,000–95,000 per year. Experienced or self-employed can earn more.
-
-**问：How can a Motorcycle Mechanic migrate to Australia?**
-答：This occupation is on the MLTSSL. You can apply for Skilled Independent (189), State Nominated (190), Employer Sponsored (482), or ENS (186) visas. A TRA skills assessment is required.
-
-**问：What is the job outlook for Motorcycle Mechanics in Australia?**
-答：With growing motorcycle ownership and stable repair needs, this occupation is in shortage and has good prospects.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

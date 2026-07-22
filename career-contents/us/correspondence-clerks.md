@@ -1,60 +1,92 @@
-# Correspondence Clerks（Correspondence Clerks）职业分析 · 美国
+# Correspondence Clerks — career analysis · United States
 
-**职业代码：43-4021 – Correspondence Clerks。**
+**Occupation code: 43-4021 (SOC)**
 
-Compose letters or electronic correspondence in reply to requests for merchandise, damage claims, credit and other information, delinquent accounts, incorrect billings, or unsatisfactory services; duties include gathering data to formulate reply and preparing correspondence.
+Responsible for drafting letters or emails, replying to inquiries about merchandise, damage claims, credit issues, overdue accounts, billing errors, or unsatisfactory service; requires gathering data and drafting responses.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费，每年约5000-15000美元） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition, approximately $5,000–$15,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育委员会 | 必备 | 大多数雇主最低要求 |
-| 打字速度认证 | 各类认证机构 | 可选 | 每分钟打字速度达50+单词有优势 |
+| High school diploma or equivalent | State Board of Education | Required | Minimum requirement for most employers |
+| Typing speed certification | Various certifying bodies | Optional | Typing speed of 50+ words per minute is an advantage |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 62,000。美国书信文员就业预计将下降，受自动化和数字化影响，岗位减少幅度约-5%至-10%。需求量较小，主要分布在金融、保险和政府机构。
+**Job demand: low (★½☆☆☆).** National workforce approx. 62,000. Employment of US correspondence clerks is projected to decline, affected by automation and digitization, with a decrease of about -5% to -10%. Demand is small, mainly in finance, insurance, and government agencies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级薪资，通常按小时计薪约13-17美元 |
-| 中级（3-7年） | $35,000~$44,000 | 有经验者薪资提升有限 |
-| 高级（7年以上） | $44,000~$55,000 | 包含资深文员或主管岗位 |
+| Median salary | $46,800 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary, typically hourly around $13-17 |
+| Mid-level (3–7 years) | $35,000~$44,000 | Limited salary growth for experienced workers |
+| Senior (7+ years) | $44,000~$55,000 | Includes senior clerical or supervisory roles |
+| average salary | $48,090 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展空间有限，可晋升为高级文员、行政助理或客户服务主管。需提升计算机技能或转向数据分析、办公室管理以增加竞争力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
+
+Limited career development, can advance to senior clerk, administrative assistant, or customer service supervisor. Need to improve computer skills or transition to data analysis, office management to increase competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Data entry and table sorting (manual review only required)
+- Standard email and basic document drafting
+- Auto-generation of simple reports
+- Voice transcription and archiving of meeting minutes
+
+**Where AI augments the role:**
+
+- Cross-system data reconciliation and cleaning
+- AI draft followed by manual proofreading
+- Process scheduling and coordination
+- Knowledge base retrieval and organization
+
+**Human moat:**
+
+- Cross-departmental communication and coordination
+- Overall understanding of business processes
+- Judgment and handling of exceptions and anomalies
+- Interpersonal trust with clients/colleagues
+
+**Skills to build:**
+
+- Office automation (Excel/Power Automate)
+- AI office assistants (Copilot, etc.)
+- Data organization and basic analysis
+- Process and project coordination
+- Business communication and English
+
+**Key growth areas:**
 
 - Declining
 - Automation Impact
@@ -63,65 +95,67 @@ Compose letters or electronic correspondence in reply to requests for merchandis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适合，因为该职业通常不要求学士学位，不符合专业职业要求。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 极难获得，因为劳工部可能认定该职业非专业岗位，PERM认证成功率低。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Generally not suitable, as the occupation typically does not require a bachelor's degree and does not meet the professional occupation requirement. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Extremely difficult to obtain as the Department of Labor may deem the occupation non-professional; PERM certification success rate is low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Correspondence Clerks？**
-- 注重细节、打字速度快的人
-- 希望办公室稳定工作、不追求高薪的人
-- 有良好书面沟通能力的人
+**Who is suited**
+- Detail-oriented, fast typist
+- People seeking stable office work and not pursuing high salary
+- People with good written communication skills
 
-**谁不适合学Correspondence Clerks？**
-- 寻求高收入和职业发展的人
-- 希望从事创造性或技术性工作的人
+**Who is not suited**
+- People seeking high income and career development
+- People who want creative or technical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of correspondence clerks in the United States?**
+A: According to the US Bureau of Labor Statistics, average annual salary in 2023 was about $37,000, median about $35,000. Salary range is $25,000 to $55,000.
+
+**Q: Can a correspondence clerk immigrate to the U.S. with a work visa?**
+A: Difficult. This occupation generally does not meet H-1B specialty occupation requirements, and PERM labor certification is hard because employers must prove no qualified US workers are available. Consider transitioning to related professional roles such as legal assistant or administrative services manager.
+
+**Q: What is the employment outlook for correspondence clerks?**
+A: Poor outlook. Employment is projected to decline by 7% from 2022-2032, mainly due to automation. It is recommended to upgrade technical skills to remain competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Correspondence Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Correspondence Clerks in the US?**
-答：According to BLS, the average annual salary is about $37,000, with a median around $35,000. Salaries range from $25,000 to $55,000.
-
-**问：Can Correspondence Clerks get a work visa to immigrate to the US?**
-答：Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and PERM labor certification is challenging. Consider transitioning to related professional roles like legal assistant or administrative services manager.
-
-**问：What is the job outlook for Correspondence Clerks?**
-答：Poor. Projected decline of 7% from 2022-2032 due to automation. Upskilling in technology is recommended.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

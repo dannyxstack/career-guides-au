@@ -1,163 +1,189 @@
-# 咖啡师/咖啡馆经理（Cafe Worker）职业分析 · 澳大利亚
+# Barista / Cafe Manager — career analysis · Australia
 
-**职业代码：431511 – Cafe Worker。**
+**Occupation code: 431511 (ANZSCO)**
 
-澳洲是全球最成熟的精品咖啡市场之一，墨尔本被誉为世界咖啡之都。咖啡师负责制作意式浓缩饮品，在精品咖啡馆担任技术核心角色；咖啡馆经理负责日常运营、人员和成本管理。咖啡馆经理（Cafe Manager）是MLTSSL在列的短缺职业，移民路径清晰；初级咖啡师则不在短缺清单。
+Australia is one of the world's most mature specialty coffee markets, with Melbourne regarded as the coffee capital of the world. Baristas prepare espresso-based beverages and serve as the technical heart of specialty cafés; café managers oversee daily operations, staffing, and cost management. Café Manager is a MLTSSL shortage occupation with a clear migration pathway; entry-level baristas are not on the shortage list.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Hospitality（SIT30722，咖啡相关单元） | 6~12个月 | $2,000~$10,000（包含咖啡制作单元的酒店服务资质） |
-| SCA（精品咖啡协会）咖啡技能认证 | 各级别1~5天课程 | $500~$5,000（SCA Coffee Skills Program：Barista Intermediate/Professional认证；全球认可） |
-| 咖啡馆经理证书（Certificate IV Hospitality + 管理经验） | 12个月+实践 | $3,000~$15,000（咖啡馆经理MLTSSL移民评估的基础资质路径） |
-| Food Safety Supervisor + RSA证书 | 1~2天 | $150~$500（餐饮场所法律必须） |
+| Certificate III in Hospitality (SIT30722, coffee-related units) | 6–12 months | $2,000~$10,000 (Hospitality qualification that includes a coffee-making unit) |
+| SCA (Specialty Coffee Association) barista skills certification | 1–5 day courses at all levels | $500~$5,000 (SCA Coffee Skills Program: Barista Intermediate/Professional certification; globally recognised) |
+| Café Manager qualification (Certificate IV in Hospitality + management experience) | 12 months + practical experience | $3,000~$15,000 (Foundational qualification pathway for café manager MLTSSL migration assessment) |
+| Food Safety Supervisor + RSA certificate | 1–2 days | $150~$500 (Legally required for food and beverage venues) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| SCA Barista Skills（Intermediate/Professional） | Specialty Coffee Association | 可选 | 全球最具公信力的精品咖啡师认证，显著提升薪资 |
-| Food Safety Supervisor Certificate | 各州认可机构 | 必备 | 所有餐饮场所从业者的法律要求 |
-| RSA（Responsible Service of Alcohol） | 各州认可机构 | 可选 | 提供酒精饮品的咖啡馆的法律要求 |
-| Vetassess 技能评估（咖啡馆经理 141111） | Vetassess | 可选 | 咖啡馆经理技术移民路径（ANZSCO 141111）必须的评估 |
+| Food Safety Supervisor Certificate | State-recognised assessment bodies | Required | A legal requirement for all hospitality venue workers |
+| SCA Barista Skills（Intermediate/Professional） | Specialty Coffee Association | Optional | The world's most credible specialty barista certification, significantly boosting salary |
+| RSA（Responsible Service of Alcohol） | State-recognised assessment bodies | Optional | Legal requirement for cafes serving alcoholic beverages |
+| Vetassess skills assessment (Cafe/Restaurant Manager 141111) | Vetassess | Optional | Required assessment for the café manager skilled migration pathway (ANZSCO 141111) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 95,000。JSA预测咖啡和餐饮服务就业至2030年基本稳定。精品咖啡市场持续增长，精品咖啡师（SCA认证/Q Grader）需求旺盛；标准连锁咖啡馆岗位增速放缓。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. JSA forecasts that employment in coffee and food service will remain broadly stable through to 2030. The specialty coffee market continues to grow, with strong demand for specialty baristas (SCA certified / Q Grader); growth in standard chain café roles is slowing.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~4,000 个 | 全国，含咖啡师/咖啡馆经理/店长/饮品吧台岗 |
-| Indeed | 1,000~3,000 个 | 含独立精品咖啡馆和连锁咖啡品牌岗 |
-| LinkedIn | 500~1,500 个 | 连锁品牌区域培训师和运营经理岗 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级咖啡师（0~2年） | $52,000~$64,000 | 全职咖啡师基础薪资；按小时计约 $25~$30/hr（含普通时） |
-| 有经验咖啡师（2~5年） | $62,000~$78,000 | SEEK 咖啡师均值 $70k~$75k；Indeed 均值约 $64,979（$31.24/hr × 2080h，2026） |
-| 咖啡馆经理 / 店长（3~8年） | $68,000~$85,000 | SEEK 咖啡馆经理均值 $70k~$80k；SCA认证资深咖啡师可超 $80k |
-| 精品咖啡馆总监 / 区域经理（8年+） | $82,000~$120,000 | 精品咖啡品牌区域经理或咖啡烘焙公司品质总监 |
+| Median salary | $69,992 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior barista (0–2 years) | $52,000~$64,000 | Base salary for a full-time barista; approximately $25–$30/hr by the hour (including ordinary hours) |
+| Experienced barista (2–5 years) | $62,000~$78,000 | SEEK barista average $70k–$75k; Indeed average approx. $64,979 ($31.24/hr × 2,080 hrs, 2026) |
+| Café Manager / Store Manager (3–8 years) | $68,000~$85,000 | SEEK café manager average $70k–$80k; SCA-certified senior baristas can exceed $80k |
+| Specialty café director / area manager (8+ years) | $82,000~$120,000 | Regional Manager for a specialty coffee brand or Quality Director at a coffee roasting company |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲精品咖啡行业持续高端化，消费者对咖啡知识和品质要求显著提升。植物性奶制品（燕麦奶/杏仁奶）已占澳洲咖啡馆饮品点单量的30%+。有SCA（精品咖啡协会）认证的咖啡师薪资溢价约15~25%；有经验的咖啡馆经理在大城市供不应求。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
 
-- 精品咖啡师（Specialty Coffee/Q Grader）
-- 咖啡馆经理/店长
-- 冷萃/氮气咖啡专业技术
-- 咖啡烘焙和咖啡豆采购
-- 咖啡培训师（Barista Trainer）
+Australia's specialty coffee industry continues to move upmarket, with consumers raising the bar on coffee knowledge and quality. Plant-based milks (oat/almond) now account for 30%+ of café beverage orders in Australia. Baristas with SCA (Specialty Coffee Association) certification command a salary premium of around 15–25%; experienced café managers are in short supply in major cities.
+
+**Tasks most exposed to AI:**
+
+- Automated ordering system (self-service kiosk or app ordering)
+- Inventory management and replenishment alerts (AI predicts consumption)
+- Basic coffee making (fully automatic machines)
+- Scheduling and payroll calculation (AI scheduling software).
+- Simple customer Q&A (AI chatbot)
+
+**Where AI augments the role:**
+
+- AI formula optimization (analyzing flavor data to suggest new blends)
+- Training simulations (VR/AR guiding latte art and extraction techniques)
+- Customer relationship management (CRM system recommends personalized services)
+- Cost control (real-time data analysis to reduce waste)
+- Social media marketing (AI-generated content and placement strategies)
+
+**Human moat:**
+
+- Manual latte art and creative beverage design (artistic)
+- Customer emotional engagement and community building (human touch)
+- Coffee bean tasting and purchasing decisions (sensory experience)
+- On-site incident handling (machine breakdowns, guest complaints)
+- Team Management and Training (Soft Skills)
+
+**Skills to build:**
+
+- Coffee science and tasting (SCA certification).
+- AI tool application (formula optimization, data analysis)
+- Digital marketing (social media and e-commerce)
+- Financial and inventory management software (e.g., Xero, Marketman)
+- Communication and customer experience design
+- Small business management (budgeting, hiring)
+
+**Key growth areas:**
+
+- Specialty Barista (Coffee/Q Grader)
+- Cafe Manager
+- Cold Brew/Nitro Coffee Expertise
+- Coffee Roasting and Coffee Bean Sourcing
+- Barista Trainer
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，咖啡馆经理（141111）是短缺职业，担保可行 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 咖啡馆经理（141111）MLTSSL在列，Vetassess评估 |
-| Subclass 190（Skilled Nominated） | 州提名，咖啡馆经理职位各州均有提名通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区咖啡馆经理加15分，需以经理身份申请 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship — Café Manager (141111) is a shortage occupation and sponsorship is viable |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Café Manager (141111) – listed on MLTSSL, assessed by Vetassess |
+| Subclass 190 (Skilled Nominated) | State nomination; café manager positions have nomination pathways in all states |
+| Subclass 491 (Skilled Work Regional) | Regional café manager — 15 bonus points; must apply as a manager |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学咖啡师/咖啡馆经理？**
-- 有3年以上咖啡馆管理经验（以经理身份而非咖啡师），有意向以咖啡馆经理（ANZSCO 141111）申请技术移民
-- 持有SCA精品咖啡协会认证（Intermediate或以上），有精品咖啡馆工作背景
-- 有澳洲或国际知名咖啡品牌担保意向
-- 英语沟通能力达到基本运营要求
-- 愿意在咖啡行业密集的城市（墨尔本/悉尼/布里斯班）就业
-
-**谁不适合学咖啡师/咖啡馆经理？**
-- 无咖啡馆管理经验（仅有咖啡师技能），无法以经理身份申请技术移民
-- 期望通过初级咖啡师岗位获得技术移民（咖啡师431511不在MLTSSL）
-- 不适应早班（5am开始）和包含周末的工作时间
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has 3+ years of café management experience (as a manager rather than a barista) and intends to apply for skilled migration as a Café/Restaurant Manager (ANZSCO 141111)
+- Hold an SCA Specialty Coffee Association certification (Intermediate or above) with a background working in specialty coffee
+- Sponsorship intent from an Australian or internationally recognised coffee brand
+- English communication skills meeting basic operational requirements
+- Willing to work in cities with a high concentration of coffee industry jobs (Melbourne/Sydney/Brisbane)
+
+**Who is not suited**
+- No café management experience (barista skills only) — cannot apply for skilled migration as a manager
+- Expecting to obtain skilled migration through a junior barista role (Barista 431511 is not on the MLTSSL)
+- Not suited to early morning shifts (starting at 5am) and rosters that include weekends
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a barista / café manager in Australia?**
+A: Experienced baristas earn approximately $62,000–$78,000 (SEEK $70k–$75k; Indeed ~$64,979); café managers earn approximately $68,000–$85,000 (SEEK $70k–$80k); specialty coffee brand area managers earn approximately $82k–$120k.
+
+**Q: Is it easy to find work as a barista in Australia?**
+A: Easy to find work, but competition is fierce. Specialty baristas (SCA certified) are in high demand; cafe managers (on MLTSSL) find visa support easier. Australia consumes over 1.6 billion coffees annually, and industry employment remains strong.
+
+**Q: Is skilled migration to Australia as a barista viable?**
+A: Entry-level barista (431511) is not on the MLTSSL; skilled migration as a barista is difficult. It is recommended to apply as a café manager (ANZSCO 141111, on the MLTSSL), requiring at least 3 years of management experience. SCA specialty coffee certification can significantly enhance migration assessment competitiveness.
+
+**Q: Will baristas be replaced by AI or automation?**
+A: Automated coffee machines at standard chain cafés (fast food/convenience stores) impact the lower end of the market; however, the craft skills, coffee knowledge, and customer experience offered by specialty cafés are core values that automation cannot replace. Specialty coffee consumers in Australia particularly value handcrafted brewing and barista interaction.
+
+**Q: Is there an age limit for baristas in Australia?**
+A: None. Experienced baristas aged 35–50 with extensive specialty coffee knowledge and reliability are highly sought after as trainers and managers. Specialty cafés particularly value consistency and depth of coffee knowledge.
+
+**Q: What qualifications do you need to be a barista in Australia?**
+A: There are no mandatory academic requirements for barista employment; a Food Safety Supervisor certificate and RSA are legal requirements for working in the industry. The skilled migration pathway (café manager 141111) requires a Certificate IV in Hospitality, management experience, and a Vetassess assessment. SCA Specialty Coffee certification significantly enhances employment competitiveness and salary prospects.
+
+**Q: Is it difficult to become a certified barista in Australia (for migration purposes)?**
+A: Applying as a Cafe Manager (ANZSCO 141111) is moderately difficult: Vetassess assessment requires management experience, a food safety certificate and English proficiency (IELTS 6.0+). It is recommended to first study a Hospitality diploma on a student visa, accumulate 2–3 years of management experience, then apply for skilled migration as a manager.
+
+**Q: Which has a better migration pathway in Australia — barista or restaurant manager?**
+A: Both can apply using ANZSCO 141111 (Cafe or Restaurant Manager) under the same MLTSSL occupation code. The difference is in salary: restaurant managers are typically slightly higher ($80k–$90k vs cafe managers at $70k–$80k). Those with a café industry background should apply via the cafe manager pathway; those with fine dining or full-service restaurant operations experience should apply via the restaurant manager pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 咖啡师薪资 $70k~$75k；咖啡馆经理 $70k~$80k（2026） |
-| Indeed AU | 咖啡师平均时薪 $31.24（约 $64,979/年，2026） |
-| SEEK AU | 咖啡馆经理薪资（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-咖啡师/咖啡馆经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲咖啡师/咖啡馆经理工资多少？**
-答：有经验咖啡师约 $62,000~$78,000（SEEK $70k~$75k；Indeed约 $64,979）；咖啡馆经理约 $68,000~$85,000（SEEK $70k~$80k）；精品咖啡品牌区域经理约 $82k~$120k。
-
-**问：澳洲咖啡师容易找工作吗？**
-答：容易找到工作，但竞争也相当激烈。精品咖啡师（SCA认证）供不应求；咖啡馆经理（MLTSSL在列）更容易获得签证支持。澳洲每年消费超过 16 亿杯咖啡，行业就业持续旺盛。
-
-**问：咖啡师技能移民澳洲可行吗？**
-答：初级咖啡师（431511）不在MLTSSL，直接以咖啡师身份技术移民难度大。建议以咖啡馆经理（ANZSCO 141111，MLTSSL在列）身份申请，需要至少3年管理经验。SCA精品咖啡认证可以大幅提升移民评估竞争力。
-
-**问：咖啡师会被AI/自动化替代吗？**
-答：标准连锁咖啡（麦当劳/便利店）自动化咖啡机影响低端市场；但精品咖啡馆的手工技艺、咖啡知识分享和顾客体验是自动化无法替代的核心价值。澳洲精品咖啡消费者特别推崇手工冲泡和咖啡师互动。
-
-**问：澳洲咖啡师有年龄限制吗？**
-答：无。有丰富精品咖啡知识和稳定性的中年咖啡师（35~50岁）担任培训师和经理非常受欢迎。精品咖啡馆特别重视稳定性和咖啡知识深度。
-
-**问：澳洲咖啡师需要什么资质？**
-答：纯咖啡师就业无强制学历要求；Food Safety Supervisor证书和RSA是从业法律要求。技术移民路径（咖啡馆经理141111）需要Certificate IV Hospitality+管理经验+Vetassess评估。SCA精品咖啡认证大幅提升就业竞争力和薪资。
-
-**问：澳洲咖啡师认证（移民）难吗？**
-答：以咖啡馆经理（141111）身份申请难度中等：Vetassess评估要求管理经验+食品安全证书+英语（IELTS 6.0+）。建议先通过学生签证就读Hospitality文凭，积累2~3年管理经验后以经理身份申请技术移民。
-
-**问：澳洲咖啡师和餐厅经理哪个移民路径更好？**
-答：两者都可以用ANZSCO 141111（Cafe or Restaurant Manager）申请，使用同一MLTSSL职业代码。区别在于薪资：餐厅经理通常略高（$80k~$90k vs 咖啡馆经理 $70k~$80k）。有咖啡行业背景者以咖啡馆经理路径申请；有正餐运营背景者以餐厅经理路径申请。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

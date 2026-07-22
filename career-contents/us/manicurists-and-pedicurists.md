@@ -1,60 +1,93 @@
-# Manicurists and Pedicurists（Manicurists and Pedicurists）职业分析 · 美国
+# Manicurists and Pedicurists — career analysis · United States
 
-**职业代码：39-5092 – Manicurists and Pedicurists。**
+**Occupation code: 39-5092 (SOC)**
 
-Manicurists and Pedicurists clean, shape, and decorate customers' fingernails and toenails. They provide services such as polishing, artificial nail application, and nail art in salons and spas.
+Nail technicians clean, trim, and beautify clients' fingernails and toenails, including polishing, artificial tips, and painting. Typically work in nail salons, spas, or beauty salons.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 职前培训 | 3-6个月 | $1,000~$5,000（美甲学校或职业培训课程费用） |
-| 学徒制 | 1-2年 | —（在职培训，可能需支付执照考试费） |
+| Pre-employment training | 3-6 months | $1,000~$5,000 (Cost of nail school or vocational training courses) |
+| Apprenticeship | 1-2 years | $0~$2,000 (On-the-job training, may need to pay for license exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美甲技师执照 | 州级美容委员会 | 必备 | 大多数州要求持证上岗，需完成培训并通过考试 |
-| 高级美甲证书 | 国家美甲协会或专业机构 | 可选 | 非强制，但有助于提升专业技能和就业竞争力 |
+| Nail technician license | State Cosmetology Board | Required | Most states require licensing, need to complete training and pass exam |
+| Advanced nail technician certificate | National Nail Association or professional organizations | Optional | Not mandatory, but helps enhance professional skills and job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 109,200。美国劳工统计局预计2023-2033年美甲师就业增长约15%，远高于所有职业平均水平。随着个人护理和美容服务需求持续增长，美甲行业前景良好，但竞争也较为激烈。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 109,200. The US Bureau of Labor Statistics projects nail technician employment growth of about 15% from 2023 to 2033, much faster than the average. With continued demand for personal care and beauty services, the nail industry has good prospects, though competition is strong.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 含小费，时薪加提成 |
-| 中级（3-5年） | $35,000~$50,000 | 稳定客户群，小费较高 |
-| 高级（5年以上） | $50,000~$75,000 | 资深技师或店主，收入含经营利润 |
+| Median salary | $35,760 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Includes tips; hourly wage plus commission |
+| Mid-level (3–5 years) | $35,000~$50,000 | Stable client base, high tips |
+| Senior (5+ years) | $50,000~$75,000 | Senior technician or shop owner, income includes operating profit |
+| average salary | $38,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 美甲师可从初级技师晋升为高级美甲师、沙龙主管或店长。积累足够经验和客户后，可开设自己的美甲工作室或加盟连锁品牌。部分美甲师通过考取专业资质拓展到医疗美甲或教育领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Nail technicians' daily services are highly routine and repetitive; AI and automation tools (e.g., smart nail printers, online booking and image design) will compress demand for basic positions, but customized design and physical services like hygiene retain human advantages.
+
+Nail technicians can advance from junior to senior nail technician, salon supervisor, or manager. With sufficient experience and clients, they can open their own nail studio or join a franchise chain. Some expand into medical nail care or education by obtaining professional qualifications.
+
+**Tasks most exposed to AI:**
+
+- Standard monochrome/simple pattern painting (AI nail art machines can replace)
+- Customer appointments and reminders (AI customer service and scheduling system)
+- Basic nail care (e.g., trimming, cuticle removal, partly assisted by automated devices)
+- Social media marketing content generation (AI-generated images/text)
+
+**Where AI augments the role:**
+
+- AI image analysis assists custom pattern design (generates design proposals based on client preferences)
+- Virtual nail try-on app (AR technology lets clients preview results)
+- Intelligent teaching and skill enhancement (AI-guided complex painting techniques)
+- Inventory and product recommendation management (AI predicting trends)
+
+**Human moat:**
+
+- Highly customized, artistic nail art creations (hand-painting, 3D sculpting, etc.)
+- Build trust and emotional connection through face-to-face communication with clients
+- Health and sterile operations (physical contact cannot be remotely replaced).
+- Real-time creativity and on-the-spot adjustment skills
+
+**Skills to build:**
+
+- Use digital design software (e.g., Photoshop, AI drawing tools)
+- Proficiency in AR/VR virtual nail art tool operation
+- Learn basic marketing and social media strategies
+- Improve hand-drawing and complex sculpture skills
+- Understanding new materials and smart nail art equipment maintenance.
+- Strengthened customer service and communication skills
+
+**Key growth areas:**
 
 - Personal Care Services
 - Nail Art Trends
@@ -63,66 +96,68 @@ Manicurists and Pedicurists clean, shape, and decorate customers' fingernails an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 美甲师通常不符合H-1B专业职业要求，因为此职业不需学士学位，但少数管理或教学职位可能适用 |
-| Subclass O-1（O-1 Extraordinary Ability） | 极少情况，除非在美甲艺术领域有国际声誉和杰出成就 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Employment-Based Green Card） | PERM劳工证要求证明本土劳动力不足，美甲师市场供应充足，雇主很难通过此途径担保 |
+| Subclass H-1B (H-1B Specialty Occupation) | Nail technicians typically do not meet H-1B specialty occupation requirements because the occupation does not require a bachelor's degree, though some management or teaching roles may qualify. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Rare, unless you have international reputation and outstanding achievements in nail art |
+| Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based Green Card) | PERM labor certification requires proving domestic labor shortage; nail technician market has sufficient supply, making it difficult for employers to sponsor through this route |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Manicurists and Pedicurists？**
-- 对美容和手部护理有浓厚兴趣的人
-- 喜欢与人沟通、提供个性化服务的人
-- 希望灵活工作或有创业意向的人
+**Who is suited**
+- People with a strong interest in beauty and hand care
+- People who enjoy communicating with others and providing personalized service
+- Those seeking flexible work or entrepreneurial intentions
 
-**谁不适合学Manicurists and Pedicurists？**
-- 对手部劳动和化学品过敏或无法耐受长时间站立的人
-- 追求高薪且不愿依赖小费收入的人
+**Who is not suited**
+- People who cannot tolerate manual labor, chemical allergies, or prolonged standing
+- People who seek high pay and do not want to rely on tip income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the main sources of income for nail technicians?**
+A: Nail technician income typically includes base hourly wage, service commission, and client tips. Tips are a high proportion; skilled technicians can earn 30%-50% of income from tips.
+
+**Q: Can a nail technician work in the U.S. under an H-1B visa?**
+A: Usually not. The H-1B visa requires a specialty occupation, typically needing a bachelor's degree. Nail technicians do not require a university degree, so they generally do not qualify for H-1B. Only very few management or training roles may be exceptions.
+
+**Q: What are the career development paths for nail technicians?**
+A: Nail technicians can start as junior technicians and progress to senior technician, salon supervisor. Those with entrepreneurial spirit can open their own nail salon or franchise a brand. They can also move into nail education, product development, or medical nail care (e.g., damaged nail care).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Manicurists and Pedicurists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main source of income for manicurists?**
-答：Manicurists' income typically includes base hourly wage, service commission, and customer tips. Tips can account for 30%-50% of total earnings for experienced technicians.
-
-**问：Can manicurists get an H-1B visa to work in the US?**
-答：Generally no. H-1B visa requires a specialty occupation that typically needs a bachelor's degree. Manicurists do not require a college degree, so they do not qualify. Only rare management or instructor roles may be exceptions.
-
-**问：What are the career development paths for manicurists?**
-答：Manicurists can start as entry-level technicians and progress to senior technician or salon manager. Those interested in entrepreneurship can open their own nail salon or franchise. Other paths include nail education, product development, or medical nail care.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

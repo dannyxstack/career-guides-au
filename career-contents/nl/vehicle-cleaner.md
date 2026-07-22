@@ -1,60 +1,94 @@
-# Vehicle Cleaner（Vehicle Cleaner）职业分析 · NL
+# Vehicle Cleaner — career analysis · Netherlands
 
-**职业代码：9122 – Vehicle Cleaner。**
+**Occupation code: 9122 (ISCO08)**
 
-Clean vehicles like cars, trucks, and buses inside and out using cleaning agents and equipment, either manually or with automated systems.
+Responsible for cleaning the interior and exterior of vehicles such as cars, trucks, and buses, using cleaning agents and equipment for manual or automatic washing.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育，在职培训 | 1-3个月 | —（通常由雇主提供培训，无直接学费） |
-| 职业培训课程（如汽车美容） | 6个月-1年 | $1,000~$3,000（私立培训中心或MBO课程） |
+| No formal education required, on-the-job training | 1-3 months. | $0~$500 (Training is usually provided by the employer with no direct tuition fees.) |
+| Vocational training courses (e.g., car detailing) | 6 months to 1 year | $1,000~$3,000 (Private training centers or MBO courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证，但雇主偏好有经验者 | 无 | 可选 | 一般要求基本荷兰语沟通能力 |
-| 健康与安全证书（如VCA） | SSVV或其他认证机构 | 可选 | 部分雇主要求，尤其涉及化学品 |
+| No mandatory certification, but employers prefer experienced candidates | None | Optional | Basic Dutch communication skills generally required |
+| Health and safety certificate (e.g., VCA) | SSVV or other accredited bodies | Optional | Required by some employers, especially when involving chemicals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰车辆清洁工需求稳定，受汽车保有量和洗车服务外包驱动；自动化可能影响低端岗位，但高端服务需求增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Demand for vehicle cleaners in the Netherlands is stable, driven by car ownership rates and outsourcing of car wash services; automation may affect low-end positions, but demand for high-end services is growing.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，通常基于时薪11-13欧元 |
-| 中级（3-6年） | $25,000~$30,000 | 税前年薪，含经验补贴 |
-| 高级（6年以上或主管） | $30,000~$35,000 | 税前年薪，主管级略高 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, typically based on an hourly wage of €11-13 |
+| Mid-level (3–6 years) | $25,000~$30,000 | Annual salary before tax, including experience allowance |
+| Senior (6+ years or supervisory) | $30,000~$35,000 | Annual salary before tax, slightly higher for supervisory roles. |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基础清洁工晋升为团队主管或质检员；积累经验后可转向汽车美容或维修助理；部分人可自主创业开洗车店。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Vehicle cleaners face medium automation risk; autonomous driving and smart cleaning technologies will gradually replace basic cleaning tasks, but complex interiors and custom services still require human labor. Entry-level positions see increased competition, with limited salary growth.
+
+Can advance from basic cleaner to team supervisor or quality inspector; with experience, transition to car detailing or maintenance assistant; some may start their own car wash business.
+
+**Tasks most exposed to AI:**
+
+- Use automatic car wash machine for exterior cleaning
+- Check cleaning quality and report omissions using sensors and AI
+- Automatic vacuuming and disinfection of car interiors
+- Automated system for managing cleaning chemical inventory
+
+**Where AI augments the role:**
+
+- Using AI diagnostic tools to identify special stains or damage on vehicles.
+- Optimizing workflows using automated scheduling systems
+- Complex interior cleaning via augmented reality guidance
+- Analyze and clean data to provide personalized maintenance recommendations
+
+**Human moat:**
+
+- Fine cleaning of custom vehicles (e.g., classic cars, race cars)
+- Handle emergencies (e.g., animal remains, hazardous liquids)
+- Provide customer satisfaction service and communication
+- Supervise and maintain complex cleaning equipment.
+- Combine repair and beauty skills to offer value-added services.
+
+**Skills to build:**
+
+- Learn to operate advanced automatic car wash systems
+- Master basic vehicle maintenance and inspection knowledge
+- Improving customer service and communication skills
+- Learning to use clean AI scheduling software
+- Obtain green cleaning technology and materials certification
+- Develop ability to operate drones or robots for assisted cleaning operations
+
+**Key growth areas:**
 
 - Manual labor
 - Car wash automation
@@ -63,66 +97,68 @@ Clean vehicles like cars, trucks, and buses inside and out using cleaning agents
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟/EEA公民可自由在荷兰工作，无需额外许可。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 仅适用于高技能职业，车辆清洁工通常不符合薪资门槛（2023年需至少€5,008/月）。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的外国学生，可找任何工作，但清洁工薪资低，可能影响居留延续。 |
+| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens can freely work in the Netherlands without additional permits. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Only applicable to high-skilled occupations; vehicle cleaners typically do not meet the salary threshold (at least €5,008/month in 2023). |
+| Subclass Orientation Year (Orientation Year) | Applies to foreign students who graduated in the Netherlands, can find any job, but low salary for cleaners may affect residency renewal. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vehicle Cleaner？**
-- 喜欢动手、体力充沛的人
-- 不介意户外工作和重复性劳动
-- 希望快速入门劳动力市场的人
+**Who is suited**
+- Those who enjoy hands-on work and are physically active
+- Does not mind outdoor work and repetitive tasks
+- People who want to quickly enter the labor market.
 
-**谁不适合学Vehicle Cleaner？**
-- 对化学清洁剂敏感或厌恶脏污的人
-- 追求高薪和职业发展的人
+**Who is not suited**
+- People sensitive to chemical cleaning agents or averse to dirt
+- Those seeking high salary and career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a vehicle cleaner in the Netherlands?**
+A: Entry-level approximately €20,000-25,000/year, senior up to €35,000/year (pre-tax). Hourly wage approximately €11-15.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through work as a vehicle cleaner?**
+A: Usually not. This occupation is not considered high-skilled migration and cannot apply for skilled migration visas. Only applicable for EU citizens' free movement.
+
+**Q: Are there promotion opportunities for vehicle cleaners?**
+A: Yes, can advance to team leader, quality inspector, or switch to auto detailing; some may start a business. But overall promotion opportunities are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Vehicle Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for vehicle cleaners in the Netherlands?**
-答：Entry-level around €20,000-25,000/year, senior up to €35,000/year (pre-tax). Hourly wage about €11-15.
-
-**问：Can non-EU citizens immigrate to the Netherlands as vehicle cleaners?**
-答：Typically no. The job is not considered highly skilled, so no skilled migration visa is available. Only EU citizens can work freely.
-
-**问：Are there promotion opportunities for vehicle cleaners?**
-答：Yes, to team leader, quality inspector, or auto detailing; some start their own business. But overall limited.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

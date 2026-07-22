@@ -1,58 +1,93 @@
-# Care workers and home carers（Care workers and home carers）职业分析 · UK
+# Care workers and home carers — career analysis · United Kingdom
 
-**职业代码：6135 – Care workers and home carers。**
+**Occupation code: 6135 (SOC)**
 
-Care workers and home carers attend to the personal needs and comforts of children, the elderly, the infirm and others with care and support needs in residential care establishments, day care establishments or in their own homes.
+Nursing assistants and home care workers provide personal care, companionship, and life support to children, the elderly, the sick, and individuals with special needs in nursing homes, day care facilities, or clients' homes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无正式学历要求） |
-| 职业教育与培训（如NVQ） | 1-2年 | $1,000~$5,000（部分课程可免费或政府资助） |
+| High school graduation | 0 years | $0~$0 (No formal education requirements) |
+| Vocational education and training (e.g., NVQ) | 1-2 years | $1,000~$5,000 (Some courses are free or government-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理技能证书（如NVQ Level 2/3） | City & Guilds 等 | 可选 | 雇主通常要求或支持员工获取 |
-| 背景调查（DBS Check） | 披露与限制服务处（DBS） | 必备 | 法律规定必须通过 |
+| Background check (DBS Check) | Disclosure and Barring Service (DBS) | Required | Must pass by law |
+| Nursing skills certificates (e.g. NVQ Level 2/3) | City & Guilds etc. | Optional | Employers typically require or support employees in obtaining |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 1,100,000。随着英国人口老龄化，护理需求持续增长。预计未来十年该职业将增加约15%的岗位，但招聘和留任仍是行业挑战。
+**Job demand: very high (★★★★½).** National workforce approx. 1,100,000. As the UK population ages, care demand continues to grow. The occupation is expected to add about 15% more jobs over the next decade, but recruitment and retention remain industry challenges.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 时薪约£9.50-£11.00 |
-| 中级（3-7年） | $22,000~$26,000 | 含额外职责或夜班补贴 |
-| 高级（7年以上） | $26,000~$30,000 | 如团队主管或专科护理员 |
+| Median salary | $27,468 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Hourly wage approximately £9.50-£11.00 |
+| Mid-level (3–7 years) | $22,000~$26,000 | Including additional duties or night shift allowance |
+| Senior (7+ years) | $26,000~$30,000 | Such as team leader or specialist nurse |
+| average salary | $27,577 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级护理员晋升为高级护理员、团队领导或护理协调员；也可通过进修成为注册护士或社会工作者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
+
+Can advance from junior caregiver to senior caregiver, team leader, or care coordinator; also can become a registered nurse or social worker through further study.
+
+**Tasks most exposed to AI:**
+
+- Documentation and report generation: AI automatically generates care logs, medication records, and anomaly reports
+- Scheduling and task allocation: AI optimizes caregiver shifts and client visit routes
+- Basic health monitoring data collation: AI automatically aggregates metrics like blood pressure and blood glucose and issues alerts
+- Partially standardized daily conversations: AI chatbots handle routine inquiries (e.g., meal times)
+
+**Where AI augments the role:**
+
+- Individualized care plan development: AI analyzes client data to recommend more precise activities and dietary plans.
+- Fall/risk prediction: AI uses sensor data for early warnings, assisting caregivers in preventing accidents
+- Family communication and reporting: AI generates customized monthly reports to enhance family trust
+- Training and skill enhancement: AI simulated scenarios for nursing staff to practice complex care situations
+- Cross-language/cross-cultural communication: AI real-time translation aids communication with elderly from multicultural backgrounds
+
+**Human moat:**
+
+- Building trust and emotional support: human empathy, patience, and non-verbal communication are irreplaceable.
+- Flexible judgment and emergency response in unexpected situations: e.g. comprehensive assessment of injuries and emotions after an elderly person falls
+- Physical contact and intimate care: tasks requiring detailed physical contact such as assisting with eating, bathing, and toileting
+- Ethical decision-making and end-of-life care: making humane, respectful judgments in terminal care
+- Adaptation to unstructured environments: dealing with erratic behaviour or sudden cognitive changes in the elderly
+
+**Skills to build:**
+
+- Proficiency in nursing management software (e.g., AlayaCare, MYP)
+- Basic data analysis: interpreting AI early warning reports and translating into actions
+- Communication and empathy skills: especially delivering personalised care with AI assistance
+- Digital health literacy: use wearable devices and remote monitoring platforms
+- Cross-cultural care ability: adapting to diverse needs of elderly immigrant populations
+- Continuous learning mindset: keep up with AI tool updates and best practices
+
+**Key growth areas:**
 
 - Aging Population
 - High Demand
@@ -61,67 +96,66 @@ Care workers and home carers attend to the personal needs and comforts of childr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health and Care Work（Health and Care Worker visa） | 为符合条件的医护人员提供的快速签证，享有较低申请费和优先处理 |
-| Subclass Skilled Worker visa（Skilled Worker visa） | 可申请技术工人签证，但需满足薪资门槛（通常为£26,200） |
+| Subclass Health and Care Work (Health and Care Worker visa) | Fast-track visa for eligible healthcare workers with lower application fees and priority processing |
+| Subclass Skilled Worker visa (Skilled Worker visa) | Eligible for skilled worker visa but must meet salary threshold (typically £26,200) |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Care workers and home carers？**
-- 有耐心和同理心的人
-- 喜欢帮助他人的人
-- 对老年护理或特殊需要人士有热情的人
-
-**谁不适合学Care workers and home carers？**
-- 不擅长体力劳动的人
-- 无法承受情感压力的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- People who enjoy helping others
+- For those passionate about aged care or special needs
+
+**Who is not suited**
+- People not suited for manual labor
+- People who cannot handle emotional pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for caregivers? Is there overtime pay?**
+A: Entry-level care worker salary about £19,000-£22,000 per year; night and weekend shift allowances typically apply.
+
+**Q: Can caregivers apply for a work visa to immigrate to the UK?**
+A: Yes, apply through the Health and Care Worker visa, requiring employer sponsorship and meeting the salary threshold (usually £26,200).
+
+**Q: What are the career development paths for nursing assistants?**
+A: Can advance to senior caregiver, team leader, or become a registered nurse, social worker through study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Care workers and home carers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for care workers? Are there overtime payments?**
-答：Entry-level care workers earn around £19,000-£22,000 per year; night and weekend shifts usually attract additional payments.
-
-**问：Can care workers apply for a work visa to immigrate to the UK?**
-答：Yes, through the Health and Care Worker visa, which requires employer sponsorship and meeting the salary threshold (usually £26,200).
-
-**问：What career development paths are available for care workers?**
-答：They can progress to senior carer, team leader, or further study to become a registered nurse or social worker.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

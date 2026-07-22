@@ -1,58 +1,94 @@
-# Tobacco Preparers and Tobacco Products Makers（Tobacco Preparers and Tobacco Products Makers）职业分析 · IE
+# Tobacco Preparers and Tobacco Products Makers — career analysis · Ireland
 
-**职业代码：7516 – Tobacco Preparers and Tobacco Products Makers。**
+**Occupation code: 7516 (ISCO08)**
 
-Workers responsible for preparing tobacco and making tobacco products, including leaf processing, cigarette and cigar production. In Ireland, the industry is small with limited employment opportunities.
+Workers responsible for tobacco preparation and the manufacture of tobacco products, including leaf processing, cigarette and cigar making, etc. In Ireland, the industry is small with limited employment opportunities.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无固定时长 | —（通常不需要正式教育，在职培训为主） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Formal education is usually not required, mainly on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 爱尔兰食品安全局 | 可选 | 处理食品和烟草产品时可能需要 |
+| Food safety certificate | Food Safety Authority of Ireland | Optional | May be required when handling food and tobacco products. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 100。爱尔兰烟草制造业规模较小，且受到健康政策和烟草控制法规的影响，就业前景不乐观。自动化和消费下降可能导致岗位减少。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 100. Ireland's tobacco manufacturing industry is relatively small and is affected by health policies and tobacco control regulations, leading to poor employment prospects. Automation and declining consumption may result in job reductions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-5年） | $28,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，通常从生产线工人开始，可晋升为团队主管或质量检查员，但高级职位极少。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Tobacco preparation and manufacturing roles in Ireland are squeezed by both automation and health policies, with few job opportunities that continue to shrink; AI and automation are expected to take over most repetitive tasks.
+
+Limited promotion paths, typically starting from production line worker, can advance to team supervisor or quality inspector, but senior roles are rare.
+
+**Tasks most exposed to AI:**
+
+- Tobacco leaf grading and weighing: AI vision systems can automatically identify tobacco leaf grades and weigh them
+- Cigarette machine operation and monitoring: automated equipment can autonomously complete the cigarette manufacturing process
+- Quality inspection: computer vision replaces manual inspection of cigarette appearance and weight
+- Packaging and labeling: automated by robots without human intervention
+- Inventory records and order processing: ERP systems automate inventory management and order generation
+
+**Where AI augments the role:**
+
+- Equipment maintenance and fault diagnosis: AI predictive maintenance systems assist technicians in identifying potential issues early
+- Process optimization: AI analyzes production data to optimize parameters such as temperature and humidity, improving product quality
+- Safety monitoring: AI video analysis for real-time detection of workplace safety hazards
+- Supply chain planning: AI tools optimize raw material procurement and finished product delivery schedules.
+- Training and simulation: VR/AR assist in training new employees to operate complex equipment
+
+**Human moat:**
+
+- Complex equipment repair and debugging: hands-on experience needed to solve non-standard mechanical faults
+- Product sensory quality control: human taste and smell assessment of tobacco flavor is irreplaceable
+- Emergency response and on-site decision-making: ability to flexibly respond to sudden failures.
+- Cross-departmental coordination and communication: negotiation and collaboration with suppliers and regulatory bodies
+- Compliance and safety responsibilities: professional sense of responsibility to ensure production complies with tobacco regulations
+
+**Skills to build:**
+
+- PLC and industrial robot programming: enhancing autonomous operation of automation equipment
+- Data analysis and visualization: use Python or BI tools to analyze production metrics
+- Predictive maintenance technology: learn sensor data interpretation and maintenance plan development
+- Quality Management System (QMS) operation: mastering automated quality control tools
+- Occupational health and safety certification: enhance on-site safety risk assessment skills
+- Supply Chain Management Basics: Optimizing Logistics and Inventory Management Efficiency
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -61,62 +97,64 @@ Workers responsible for preparing tobacco and making tobacco products, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于特定门槛的非紧缺职业，需雇主担保。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部员工调动，需满足薪资和职位要求。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-critical occupations with annual salary below a specific threshold, requiring employer sponsorship. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable to intra-company transfers for multinational corporations, meeting salary and position requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tobacco Preparers and Tobacco Products Makers？**
-- 愿意从事重复性体力劳动的人
-- 不介意在烟草环境中工作的人
-- 寻求简单入门工作的人
+**Who is suited**
+- Willing to perform repetitive physical labor
+- People who don't mind working in a tobacco environment
+- People seeking simple entry-level jobs
 
-**谁不适合学Tobacco Preparers and Tobacco Products Makers？**
-- 有呼吸道健康问题的人
-- 寻求高薪或职业发展的人
+**Who is not suited**
+- People with respiratory health issues
+- Those seeking high salary or career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for tobacco product manufacturing workers in Ireland?**
+A: Salaries are low; junior annual salary ranges from about 22,000 to 28,000 euros, senior up to 42,000 euros.
+
+**Q: Is it easy to obtain an Irish work visa for this occupation?**
+A: Not easy. The occupation is not on the skilled occupation list; requires a general work permit, employer sponsorship, and meeting salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tobacco Preparers and Tobacco Products Makers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tobacco preparers in Ireland?**
-答：Salaries are low, entry-level around €22,000-€28,000, senior up to €42,000 per year.
-
-**问：Is it easy to get a work visa for this occupation in Ireland?**
-答：No. It is not on the critical skills list; requires General Employment Permit with employer sponsorship and salary threshold.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

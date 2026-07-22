@@ -1,60 +1,95 @@
-# Other Physical, Chemical, Environmental and Engineering Science Technicians（Other Physical, Chemical, Environmental and Engineering Science Technicians）职业分析 · ES
+# Other Physical, Chemical, Environmental and Engineering Science Technicians — career analysis · Spain
 
-**职业代码：3129 – Other Physical, Chemical, Environmental and Engineering Science Technicians。**
+**Occupation code: 3129 (CNO)**
 
-This occupation covers technicians in physical, chemical, environmental and engineering sciences not elsewhere classified, performing experimental, analytical, measurement and quality control support in industrial labs, environmental monitoring agencies and engineering projects.
+This profession includes technicians in physics, chemistry, environment, and engineering fields that are not separately classified, engaged in technical support work such as experiments, analysis, measurement, and quality control, commonly found in industrial laboratories, environmental monitoring agencies, and engineering projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | $500~$2,000（公立院校学费低，私立较高） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学年均学费，因大区而异） |
-| 硕士（Máster） | 1-2年 | $1,500~$6,000（专精方向如环境监测或材料分析） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $500~$2,000 (Public institutions have lower tuition fees, while private ones have higher tuition fees) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (The average annual tuition fees for public universities vary by region) |
+| Máster | 1-2 years | $1,500~$6,000 (Specializations include environmental monitoring or materials analysis) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior 文凭（如Laboratorio de Análisis y Control de Calidad） | 西班牙教育部认可的职业学校 | 可选 | 最直接的职业资格，无需额外认证 |
-| 大学本科学位（Grado） | 西班牙公立或私立大学 | 可选 | 提供更宽泛的理论基础，利于晋升 |
-| 硕士学历（Máster） | 西班牙大学 | 可选 | 专精领域的深造，非必须 |
+| FP Grado Superior diploma (such as Laboratorio de Análisis y Control de Calidad) | Vocational schools recognized by the Spanish Ministry of Education | Optional | The most direct professional qualification requires no additional certification |
+| Bachelor's degree (Grado) | Public or private universities in Spain | Optional | It provides a broader theoretical foundation to facilitate promotion |
+| Master's degree (Máster) | Spanish University | Optional | Advanced study in a specialized field is not required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙在绿色能源、环境治理和工业数字化方面持续投入，带动对这类技术人员的需求。就业机会主要集中在大型企业、公共研究机构和环境咨询公司，但合同多为临时或项目制，稳定性一般。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Spain's continued investment in green energy, environmental governance, and industrial digitalization is driving demand for these skilled workers. Employment opportunities are mainly concentrated in large enterprises, public research institutions, and environmental consulting firms, but contracts are mostly temporary or project-based, with average stability.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，视行业和地区而定 |
-| 中级（3-7年） | $26,000~$34,000 | 含经验提升和技能加成 |
-| 高级（7年以上） | $34,000~$45,000 | 含主管职责或专精技能 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual pre-tax salary, depending on industry and region |
+| Mid-level (3–7 years) | $26,000~$34,000 | Includes experience boosts and skill bonuses |
+| Senior (7+ years) | $34,000~$45,000 | Including supervisory responsibilities or specialized skills |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径可从初级技术员晋升为高级技术员或实验室主管，部分人通过进修获得工程师学位（Grado en Ingeniería）转型为工程师，或转向项目管理、技术销售岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI/automation on physical, chemical, environmental, and engineering technicians is mixed: routine experimental operations and data analysis are easily automated, but tasks such as on-site sampling, equipment maintenance, and cross-departmental communication that rely on physical contact and comprehensive judgment are difficult to replace in the short term.
+
+Career development paths can be from junior technician to senior technician or laboratory supervisor. Some people pursue engineering degrees (Grado en Ingeniería) through further study, transitioning to engineers, or move to project management or technical sales roles.
+
+**Tasks most exposed to AI:**
+
+- Routine chemistry/physics experiment operations and data recording
+- Batch testing of environmental samples and generation of standard reports
+- Use tools like Excel for data organization and preliminary analysis
+- Repeat inspection and documentation of quality control
+
+**Where AI augments the role:**
+
+- AI models are used to predict material properties or chemical reaction outcomes
+- Analyze environmental monitoring data through machine learning to identify abnormal patterns
+- Optimize engineering experiment workflows using digital twin technology
+- Automated laboratories increase sample throughput and reduce human error
+- Automatically generate quality control reports and alerts based on historical data
+
+**Human moat:**
+
+- On-site equipment commissioning and troubleshooting require hands-on experience and physical intuition
+- Cross-departmental communication and coordination translate technical language into management decisions
+- Sampling and emergency handling in non-standard environments (such as sudden pollution outbreaks)
+- Innovative interpretation of experimental results and subsequent experimental plan design
+- On-site audits and compliance explanations by clients/regulatory agencies
+
+**Skills to build:**
+
+- Python/R data analysis and automated scripting
+- Fundamentals of machine learning and its applications in the fields of chemistry and environment
+- Automated experimental platform operations (such as robotic liquid handling).
+- Fundamentals of digital twins and industrial IoT
+- Data visualization and reporting automation tools (such as Tableau)
+- Advanced use of industry-specific software (such as ASPEN, MATLAB).
+
+**Key growth areas:**
 
 - Environmental monitoring
 - Industrial quality control
@@ -63,68 +98,67 @@ This occupation covers technicians in physical, chemical, environmental and engi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历（相当于本科以上）且年薪达到西班牙最低倍数的技术岗位，需有工作合同，一般年薪需高于约 33,908 欧元（2023年标准）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高技能人才，年薪门槛通常高于 40,000 欧元，适合大型企业或研究机构的技术员岗位，审批较快。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需雇主担保，无严格薪资门槛但需证明岗位无法被本地人填补。适用于中小企业或初级岗位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to technical positions with high academic qualifications (equivalent to a bachelor's degree or above) and annual salaries at the lowest multiple in Spain, requiring a work contract, generally with an annual salary above approximately 33,908 euros (2023 standard). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled talent, the annual salary threshold is usually above €40,000, suitable for technician positions in large companies or research institutions, with faster approvals. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires employer sponsorship, no strict salary threshold, but proof that the position cannot be filled by local residents. Suitable for small and medium-sized enterprises or entry-level positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Physical, Chemical, Environmental and Engineering Science Technicians？**
-- 喜欢实验室工作和数据分析的人
-- 有物理、化学或环境科学背景，希望快速进入职场者
-- 愿意通过持续学习提升至工程师级别的人
-
-**谁不适合学Other Physical, Chemical, Environmental and Engineering Science Technicians？**
-- 不喜欢重复性实验或质量控制流程的人
-- 期望高薪和快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy laboratory work and data analysis
+- Those with a background in physics, chemistry, or environmental science who want to enter the workforce quickly
+- Individuals willing to advance to the engineer level through continuous learning
+
+**Who is not suited**
+- People who dislike repetitive experiments or quality control processes
+- People seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for these technicians in Spain?**
+A: Salary range about 20,000 to 45,000 euros (pre-tax annual salary), below average to average, but room for growth with experience. Higher salaries in large companies and major cities like Madrid and Barcelona.
+
+**Q: How can third-country citizens immigrate to Spain through this employment?**
+A: Possible via EU Blue Card or Highly Skilled Migrant visa (requires higher salary), or regular work residence. Qualifications need homologación or recognized FP diploma. This occupation is not on the shortage list (OCA), so employer must prove inability to find local suitable candidates.
+
+**Q: What academic qualifications are required to enter this industry?**
+A: The minimum entry requirement is FP Grado Superior (2 years), such as in analytical laboratories or quality control specialties. Undergraduate (Grado) is more competitive in physics, chemistry, or environmental sciences. Master's degree holders can specialize in this area.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other Physical, Chemical, Environmental and Engineering Science Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this type of technician in Spain?**
-答：Salaries range from €20,000 to €45,000 gross per year, which is below average. Higher in large companies and cities like Madrid and Barcelona.
-
-**问：How can third-country nationals migrate to Spain through this occupation?**
-答：Via EU Blue Card or Highly Skilled Professional visa (higher salary required), or standard work permit. Qualifications need homologación or recognized FP diploma. The occupation is not on the shortage list, so labor market test applies.
-
-**问：What education is needed to enter this field?**
-答：Minimum is FP Grado Superior (2 years) in lab analysis or quality control. A university degree (Grado) in physical, chemical or environmental sciences is more competitive. Master's degrees specialize.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

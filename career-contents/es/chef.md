@@ -1,62 +1,98 @@
-# Chef（Chef）职业分析 · ES
+# Chef — career analysis · Spain
 
-**职业代码：3734 – Chef。**
+**Occupation code: 3734 (CNO)**
 
-Chefs plan menus, procure ingredients, cook dishes, and manage kitchen teams, serving as the core of the hospitality industry. In Spain, they need expertise in traditional Mediterranean cuisine and modern kitchen management.
+Chefs are responsible for planning menus, sourcing ingredients, cooking dishes, and managing the kitchen team—they are core roles in the food and beverage industry. In Spain, chefs need to master traditional Mediterranean cooking techniques as well as modern food management knowledge.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立学校几乎免费，仅注册费；私立约2000欧元/年） |
-| 高等职业培训（FP Grado Superior） | 2年 | —（公立学校免费；私立约3000欧元/年，含实习） |
-| 大学本科（Grado en Hostelería） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年；私立约5000-6000欧元/年） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are almost free, with only a registration fee; Private tuition costs about 2000 euros per year) |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$3,000 (Public schools are free; Private education costs about 3000 euros per year, including internships) |
+| Undergraduate Degree (Grado en Hostelería) | 4 years | $1,000~$6,000 (Public universities about 1,000-2,000 EUR/year; private about 5,000-6,000 EUR/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生与食品处理证书 | 各自治区卫生部门 | 必备 | 所有餐饮从业人员必须持有，证明掌握食品安全规范 |
-| FP Grado Medio/Superior 烹饪文凭 | 西班牙教育部 | 可选 | 常见入职门槛，课程涵盖烹饪、糕点、营养学等 |
-| 专业厨师经验证明 | 雇主 | 可选 | 高星级酒店或高端餐厅通常要求2-5年相关经验 |
+| Hygiene and food handling certificates | Health departments of all autonomous regions | Required | All food service personnel must hold these to prove their mastery of food safety standards |
+| FP Grado Medio/Superior Culinary Diploma | Spanish Ministry of Education | Optional | Common entry barriers, with courses covering cooking, pastry, nutrition, and more |
+| Proven by professional chefs | Employer | Optional | High-star hotels or high-end restaurants usually require 2-5 years of relevant experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 160,000。西班牙旅游业发达，餐饮业持续扩张，优秀厨师需求旺盛。马德里、巴塞罗那等旅游城市及沿海度假区就业机会多，高星级酒店和高端餐厅对创意厨师需求增长明显。
+**Job demand: high (★★★★☆).** National workforce approx. 160,000. Spain's tourism industry is well developed, the restaurant sector continues to expand, and there is strong demand for top chefs. Tourist cities like Madrid and Barcelona, as well as coastal resorts, offer abundant job opportunities, and demand for creative chefs in high-star hotels and upscale restaurants is growing significantly.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 一般为commis或demi-chef de partie，税前年薪 |
-| 中级（3-7年） | $24,000~$35,000 | 多为chef de partie或sous-chef，税前年薪 |
-| 高级（7年以上） | $35,000~$60,000 | executive chef或head chef，大型酒店或知名餐厅税前年薪可达6万欧元以上 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Generally commis or demi-chef de partie, pre-tax annual salary |
+| Mid-level (3–7 years) | $24,000~$35,000 | Mostly chef de partie or sous-chef, with a pre-tax annual salary |
+| Senior (7+ years) | $35,000~$60,000 | Executive chef or head chef, pre-tax annual salary can reach over €60k in large hotels or renowned restaurants |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级厨师可从commis（助理）做起，逐步晋升为demi-chef、chef de partie、sous-chef，最终成为executive chef或head chef。也可转向餐饮管理、食品研发或开设自己的餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The chef profession faces mixed AI impact: repetitive prep tasks risk automation, but creative, quality control, and team management roles are amplified by AI assistance, with the entry barrier slightly raised.
+
+Junior chefs can start as commis (assistants) and gradually advance to demi-chef, chef de partie, sous-chef, and finally executive or head chef. You can also shift to restaurant management, food development, or open your own restaurant.
+
+**Tasks most exposed to AI:**
+
+- Using AI recipe generation and ingredient ratio optimization to replace manual recipe writing
+- Automated cooking equipment (e.g., smart ovens, cooking robots) replaces standardized dish preparation
+- AI scheduling system replacing manual kitchen schedule management
+- Smart inventory management system replaces manual food inventory and purchasing
+- AI dish recognition and plating inspection replace some quality checks
+
+**Where AI augments the role:**
+
+- AI-assisted menu innovation: predicting popular flavors and ingredient combinations through data analysis
+- AI-driven precision cooking control improves dish consistency and quality
+- Nutrition and allergen intelligent computing enhances customized food services
+- AI customer preference analysis optimises menu design and promotions
+- Smart kitchen monitoring system assists in food safety and hygiene inspections.
+
+**Human moat:**
+
+- Creative dish development: unique flavor creation blending culture, art, and sensibility
+- Complex food handling and manual skills (e.g., carving, advanced plating).
+- Real-time interpersonal interaction: adjust taste and service instantly based on customer feedback
+- Crisis Management Skills: handling kitchen emergencies (equipment failure, ingredient issues)
+- Team leadership and training: Motivate chef team, pass on craft and experience
+
+**Skills to build:**
+
+- AI tool application: learn to use smart cooking equipment, menu optimization software
+- Data analysis: methods for analyzing ingredient costs and customer preference trends
+- Creative cooking: advanced techniques such as molecular gastronomy and fusion cuisine
+- Nutrition and food safety certification (e.g., HACCP)
+- Digital management: use kitchen management systems and inventory automation platforms
+- Social media and brand marketing: use AI content tools to promote personal brands
+
+**Key growth areas:**
 
 - Gastronomy tourism
 - Sustainable cooking
@@ -65,65 +101,67 @@ Chefs plan menus, procure ingredients, cook dishes, and manage kitchen teams, se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于西班牙企业的工作居留，需雇主担保，证明职位无法由本地人填补，薪资达标。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高技能专业人才求职签证，允许在西班牙停留6个月寻找工作，需符合学历或经验要求。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residence employed by Spanish companies requires employer sponsorship, proving that the position cannot be filled by a local resident and that the salary meets the standard. |
+| Subclass Busqueda empleo (Job Search Visa) | The Highly Skilled Professional Job Seeker Visa allows you to stay in Spain for 6 months to look for work, and you must meet educational or experience requirements. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Chef？**
-- 热爱烹饪、有创意且能承受高压工作环境的人
-- 愿意从基层做起、逐步积累经验的餐饮从业者
-- 具备团队协作精神、能够管理厨房流水线的人
+**Who is suited**
+- People who love cooking, are creative, and can handle high-pressure work environments
+- Catering professionals willing to start from the grassroots and gradually accumulate experience
+- Someone with team spirit who can manage kitchen assembly lines
 
-**谁不适合学Chef？**
-- 追求朝九晚五、规律作息的人
-- 不善于体力劳动或长时间站立工作的人
+**Who is not suited**
+- Those who pursue a nine-to-five routine
+- People who are not good at physical labor or standing for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can foreign chefs immigrate to Spain with a work visa?**
+A: Yes, but it's quite challenging. Typically, employers are required to prove that the vacancies cannot be filled by EU citizens, and that salaries must meet industry standards. Senior chefs or specialty cuisines (such as Japanese cuisine with Michelin backgrounds) have greater opportunities.
+
+**Q: What is the average annual salary of Spanish chefs?**
+A: Junior chef about 18,000-24,000 EUR, intermediate 24,000-35,000 EUR, senior (executive chef) up to 35,000-60,000 EUR. Higher in fine dining or resort hotels, some include tips.
+
+**Q: What educational qualifications are required to become a chef in Spain?**
+A: The minimum requirement is FP Grado Medio (2 years of vocational training), but more and more employers prefer FP Grado Superior (2 years) or a university degree. The health certificate is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Chef属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can foreign chefs immigrate to Spain via work visa?**
-答：Yes, but it's challenging. Employers must prove the position cannot be filled by EU citizens, and salary must meet industry standards. High-end chefs or those specializing in cuisines like Japanese or Michelin-star experience have better chances.
-
-**问：What is the average annual salary for chefs in Spain?**
-答：Entry-level chefs earn about €18,000-€24,000, mid-level €24,000-€35,000, and senior executive chefs up to €35,000-€60,000. High-end restaurants and resorts may offer more, including tips.
-
-**问：What education is required to become a chef in Spain?**
-答：The minimum is FP Grado Medio (2-year vocational training), but employers increasingly prefer FP Grado Superior (2-year advanced) or a university degree. A hygiene certificate is mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

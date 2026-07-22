@@ -1,60 +1,96 @@
-# Security and Protection Services Workers Not Elsewhere Classified（Security and Protection Services Workers Not Elsewhere Classified）职业分析 · ES
+# Security and Protection Services Workers Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：5999 – Security and Protection Services Workers Not Elsewhere Classified。**
+**Occupation code: 5999 (CNO)**
 
-This occupation covers security and protection service workers not classified elsewhere, such as private security guards and control room operators. They maintain order, monitor security equipment, and respond to incidents.
+This profession covers security protection service personnel not listed in other categories, such as private security personnel, monitoring room operators, and others. They are responsible for maintaining order, monitoring security equipment, and responding to emergencies.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育 (FP Básico/Grado Medio) | 1-2年 (FP Básico) 或 2年 (FP Grado Medio) | $500~$3,000（公立FP学费低，私立约1000-3000欧元/年） |
-| 短期培训课程 | 6个月-1年 | $300~$1,500（私人安保执照培训课程，含考试费） |
+| Vocational Education (FP Básico/Grado Medio) | 1-2 years (FP Básico) or 2 years (FP Grado Medio) | $500~$3,000 (Public FP fees are low; private schools cost about €1,000-3,000/year) |
+| Short-term training course | 6 months to 1 year | $300~$1,500 (Private security license training course, including exam fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 私人保安执照 (Tarjeta de Identificación Profesional de Seguridad Privada) | 西班牙内政部 (Ministerio del Interior) | 必备 | 完成培训并通过考试，必须持有方可从事私人安保工作 |
-| FP Grado Medio en Seguridad y Protección | 教育部认可的职业教育机构 | 可选 | 相关学位可增加竞争力，但非强制 |
+| Private Security License (Tarjeta de Identificación Profesional de Seguridad Privada) | Spanish Ministry of the Interior (Ministerio del Interior) | Required | Completion of training and passing exams is required to hold the certificate before engaging in private security work |
+| FP Grado Medio en Seguridad y Protección | Vocational education institutions recognized by the Ministry of Education | Optional | Related degrees can increase competitiveness but are not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 180,000。西班牙安保行业需求稳定，受旅游业、大型活动及商业安全需求推动。但岗位竞争较激烈，薪资增长缓慢，自动化和AI监控技术可能减少低端岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 180,000. Demand for Spain's security industry is stable, driven by tourism, large-scale events, and commercial security needs. However, competition for positions is fierce, salary growth is slow, and automation and AI monitoring technologies may reduce low-end positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级 (0-3年) | $18,000~$22,000 | 起薪通常为最低工资标准或略高 |
-| 中级 (4-7年) | $22,000~$28,000 | 有经验者或持有武器许可者薪资较高 |
-| 高级 (8年以上/主管) | $28,000~$35,000 | 主管或特殊场所安保薪资上限 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Junior (0-3 years) | $18,000~$22,000 | Starting salaries are usually at or slightly higher than the minimum wage standard |
+| Intermediate (4-7 years) | $22,000~$28,000 | Experienced individuals or those licensed for weapons tend to earn higher salaries |
+| Senior (8 years or more / supervisor) | $28,000~$35,000 | Salary cap for supervisors or security personnel in special locations |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但无增长（★★☆☆☆）。** 初级安保员可晋升为监控主管或安全协调员，但管理岗位有限。部分人通过考取更高资质（如私人调查员执照）转型，或进入公共安全部门。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Routine tasks in this profession, such as monitoring, recording, and reporting, are easily automated by AI, but tasks like personal security, emergency decision-making, and interpersonal negotiations rely on human judgment and are difficult to replace in the short term. The overall number of positions may decrease, but quality will improve.
+
+Junior security officers can be promoted to monitoring supervisor or security coordinator, but management positions are limited. Some people transition by obtaining higher qualifications (such as private investigator licenses) or enter public safety departments.
+
+**Tasks most exposed to AI:**
+
+- Electronic monitoring system analysis and alarm response (AI video analysis replacement)
+- Routine patrol and check-in tasks (replacing automated inspection robots)
+- Visitor Registration and Identity Verification (Facial Recognition System Replacement)
+- Simple abnormal behavior detection and reporting (AI behavior analysis replacement)
+- Basic access control and key management (replacing smart lock systems)
+
+**Where AI augments the role:**
+
+- AI video analysis can quickly locate suspects or unusual events, improving patrol efficiency
+- Optimize security personnel scheduling and deployment with predictive models
+- Automatically generate event reports through natural language processing, reducing document processing time
+- Using deep learning systems to identify masked or disguised faces
+- Combining drones and sensors to assist security monitoring for large-scale events
+
+**Human moat:**
+
+- On-site personal safety protection and the responsibility for armed confrontation
+- Real-time decision-making and crisis management for complex emergencies
+- Interpersonal communication and negotiation with clients and law enforcement agencies
+- Legal judgment and discretion regarding illegal acts or safety hazards
+- Autonomous decision-making amid moral and ethical dilemmas
+
+**Skills to build:**
+
+- Operation and maintenance of AI video surveillance systems
+- Data analysis and report interpretation
+- Crisis management and emergency response tactics
+- Cybersecurity Fundamentals (Integration of Physical Security and Cybersecurity)
+- Conflict mediation and negotiation skills
+- Drone operations and sensor fusion
+
+**Key growth areas:**
 
 - Security Services
 - Surveillance Technology
@@ -63,62 +99,64 @@ This occupation covers security and protection service workers not classified el
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 受雇工作居留，需雇主担保且证明该岗位无法由欧盟公民填补。安保行业名额极少。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高学历者可申请求职签证，但安保行业非紧缺，成功率低。 |
+| Subclass Cuenta ajena (Work Contract) | Employer-sponsored work residence requires proving the position cannot be filled by EU citizens. Very few positions in the security industry. |
+| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can apply for job-seeking visas, but the security industry is not in short supply and has a low success rate. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Security and Protection Services Workers Not Elsewhere Classified？**
-- 希望快速进入劳动力市场的人
-- 具有良好观察力和责任心的人
-- 对技术监控设备感兴趣者
+**Who is suited**
+- Those seeking quick entry into the labor market
+- People with good observation skills and a sense of responsibility
+- For those interested in technical monitoring equipment
 
-**谁不适合学Security and Protection Services Workers Not Elsewhere Classified？**
-- 追求高薪和快速晋升的人
-- 无法适应轮班和夜班工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who cannot adapt to shift and night shifts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can foreigners immigrate to Spain through security work?**
+A: It's very difficult. Security is a non-shortage occupation; employers must prove they cannot find EU citizens and offer low wages, making it difficult to meet skilled migration requirements.
+
+**Q: What is the average salary for security personnel in Spain?**
+A: The average annual salary is about 22,000-26,000 euros (before tax), with supervisors earning up to 35,000 euros. There is limited room for salary growth.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定但无增长（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Security and Protection Services Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can foreigners immigrate through security work in Spain?**
-答：Very difficult. Security is not a shortage occupation, employers must prove no EU citizen available, and salary is low, making it hard to meet skill migration requirements.
-
-**问：What is the average salary of security workers in Spain?**
-答：Average annual salary is around €22,000-€26,000 (gross), supervisors can reach €35,000. Salary growth is limited.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

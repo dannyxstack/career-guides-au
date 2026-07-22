@@ -1,59 +1,93 @@
-# Nuclear Medicine Technologists（Nuclear Medicine Technologists）职业分析 · 美国
+# Nuclear Medicine Technologists — career analysis · United States
 
-**职业代码：29-2033 – Nuclear Medicine Technologists。**
+**Occupation code: 29-2033 (SOC)**
 
-Nuclear medicine technologists prepare, administer, and measure radioactive isotopes for therapeutic, diagnostic, and tracer studies, operating radioisotope equipment and calculating dosages.
+Nuclear medicine technologists prepare, administer, and measure radioisotopes for therapeutic, diagnostic, and tracer studies, operating various radiation equipment and calculating dosages.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 核医学技师认证 | 核医学技术认证委员会（NMTCB） | 必备 | 必须通过考试获得 |
-| 州执照 | 各州卫生部门 | 必备 | 多数州要求执照 |
-| CPR认证 | 美国心脏协会等 | 可选 | 通常工作必备 |
+| Nuclear medicine technologist certification. | Nuclear Medicine Technology Certification Board (NMTCB) | Required | Must pass an exam to obtain |
+| State license | State health departments | Required | Licence required in most states |
+| CPR certification | American Heart Association, etc. | Optional | Usually required for the job |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 19,500。美国核医学技师就业前景良好，预计2023-2033年增长约10%，受老龄化人口和癌症诊断需求增加驱动。医院和诊断中心为主要雇主。
+**Job demand: high (★★★★☆).** National workforce approx. 19,500. The job outlook for nuclear medicine technologists in the US is favorable, with an estimated 10% growth from 2023-2033, driven by an aging population and increased demand for cancer diagnostics. Hospitals and diagnostic centers are the main employers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$72,000 | 年薪 |
-| 中级（4-9年） | $73,000~$90,000 | 年薪 |
-| 高级（10年以上） | $91,000~$110,000 | 年薪 |
+| Median salary | $101,370 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$72,000 | Annual salary |
+| Intermediate (4-9 years) | $73,000~$90,000 | Annual salary |
+| Senior (10+ years) | $91,000~$110,000 | Annual salary |
+| average salary | $105,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径：初级技师→高级技师→主管/主任技师，或转向核医学物理学、辐射安全等领域。通常需继续教育以维持认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate image reconstruction and dose calculation but enhance diagnostic recommendations and patient communication; nuclear medicine technologists' composite skills (equipment operation + patient care) offer partial protection, but entry-level positions may shrink as AI reduces demand for low-skill assistants.
+
+Career path: Junior Technician → Senior Technician → Supervisor/Chief Technician, or transition to nuclear medicine physics, radiation safety, etc. Usually requires continuing education to maintain certification.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation and calibration of radioisotope dosages
+- Preprocessing and reconstruction of standard SPECT/CT images
+- Recording readings in routine equipment quality control testing
+- Template-based draft generation of patient reports
+
+**Where AI augments the role:**
+
+- AI-assisted real-time image analysis improves anomaly detection sensitivity
+- intelligent decision support system optimizing personalized isotope dosages
+- Natural language processing auto-generates structured reports
+- Predictive maintenance analysis reduces equipment downtime
+- VR simulation training system accelerates new technician skill acquisition
+
+**Human moat:**
+
+- Aseptic techniques and safety compliance in radiopharmaceutical preparation and operation
+- Clinical judgment and rapid response in emergencies (e.g., allergic reactions)
+- Empathetic communication with patients and families, and explaining complex examination processes
+- Cross-department collaboration and integrated interpretation of multimodal imaging (PET/CT, etc.)
+
+**Skills to build:**
+
+- Basics of AI image diagnosis and tool applications (e.g., CAD systems)
+- Data science and Python programming (for custom analysis)
+- Radiation safety regulation updates and ethical review skills
+- Enhance patient communication skills (especially with anxious patients)
+- Interdisciplinary team collaboration and AI project management
+- Continuously study the latest literature and algorithms in nuclear medicine AI
+
+**Key growth areas:**
 
 - Aging population
 - Cancer diagnosis
@@ -62,69 +96,68 @@ Nuclear medicine technologists prepare, administer, and measure radioactive isot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学士及以上学位的核医学技师，需雇主担保，配额竞争激烈。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需PERM劳工证，适用高学历或特殊能力者。 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 适用技术工人，需PERM劳工证，排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 绿卡申请前需通过PERM劳工认证。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to nuclear medicine technologists with a Bachelor's degree or higher; requires employer sponsorship, and quota is competitive. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires PERM labor certification, applicable to those with advanced degrees or exceptional ability. |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | Applicable to skilled workers, requires PERM labor certification, with long waiting periods. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Before applying for a green card, PERM labor certification is required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nuclear Medicine Technologists？**
-- 对医学影像和放射性技术感兴趣的人
-- 注重细节和患者安全的人
-- 愿意在医疗环境中工作并适应轮班的人
-
-**谁不适合学Nuclear Medicine Technologists？**
-- 不喜欢接触放射性物质的人
-- 对高压环境不适应的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those interested in medical imaging and radiological technology
+- Detail-oriented and patient safety-focused person
+- Individuals willing to work in a medical environment and adapt to shift work
+
+**Who is not suited**
+- People who dislike exposure to radioactive materials
+- People who do not adapt well to high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a nuclear medicine technologist?**
+A: According to BLS data, the median annual salary in 2023 was about $82,000, with entry-level around $55,000-72,000 and senior roles exceeding $110,000.
+
+**Q: Is it easy for nuclear medicine technologists to apply for US work visas?**
+A: Can apply for H-1B visa, but requires a bachelor's degree and has limited quotas. EB-2/EB-3 green cards require PERM labor certification with long waits. Feasible but competitive.
+
+**Q: What educational background is needed to become a nuclear medicine technologist?**
+A: Typically requires an associate or bachelor's degree and passing the NMTCB certification exam. Many states also require a license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Nuclear Medicine Technologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for nuclear medicine technologists?**
-答：According to BLS, the median annual wage in 2023 was about $82,000, with entry-level $55,000-$72,000 and senior over $110,000.
-
-**问：Is it easy for nuclear medicine technologists to get a US work visa?**
-答：H-1B visa is available with a bachelor's degree but subject to quota. EB-2/EB-3 green cards require PERM and have long wait times. Feasible but competitive.
-
-**问：What education is needed to become a nuclear medicine technologist?**
-答：Typically an associate or bachelor's degree, plus NMTCB certification. Most states also require licensure.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,89 @@
-# Textile and Footwear Production Machine Operators nec（Textile and Footwear Production Machine Operators nec）职业分析 · 澳大利亚
+# Textile and Footwear Production Machine Operators nec — career analysis · Australia
 
-**职业代码：711799 – Textile and Footwear Production Machine Operators nec。**
+**Occupation code: 711799 (ANZSCO)**
 
-Operate textile or footwear production machines such as knitting, stitching, cutting, and finishing equipment to ensure product quality and meet production deadlines.
+Operate textile or footwear production machines such as weaving, stitching, cutting, and finishing equipment, ensuring product quality and completing production tasks on time.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1年 | $5,000~$15,000（TAFE或私立学院课程费用） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能需自费部分材料） |
+| Vocational education certificate | 1 year | $5,000~$15,000 (TAFE or private college course fees) |
+| On-the-job training | 1-2 years | $0~$2,000 (Employer provides training, may need to partially fund materials.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织生产三级证书 | TAFE | 可选 | 覆盖基础操作与安全知识 |
-| 能力证明 | 雇主 | 必备 | 通常要求2年以上相关经验 |
+| Proof of ability | Employer | Required | Usually requires 2+ years of relevant experience |
+| Certificate III in Textile Production | TAFE | Optional | Covers basic operations and safety knowledge |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 2,800。该职业在澳洲受制造业外包影响，就业机会有限。预计未来五年需求保持稳定，主要在乡村地区的中小型工厂。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,800. This occupation in Australia is affected by manufacturing outsourcing, with limited employment opportunities. Demand is expected to remain stable over the next five years, mainly in small to medium-sized factories in rural areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 时薪约25-28澳元 |
-| 中级（3-7年） | $55,000~$65,000 | 含加班及熟练津贴 |
-| 高级（7年以上） | $65,000~$75,000 | 含主管职级补贴 |
+| Median salary | $63,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $48,000~$55,000 | Hourly wage around AUD 25-28 |
+| Mid-level (3–7 years) | $55,000~$65,000 | Including overtime and skill allowance |
+| Senior (7+ years) | $65,000~$75,000 | Including supervisor position allowance |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 可从操作员晋升为生产线主管或质量检查员，或通过培训转向机器维修或生产管理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Textile and footwear production machine operators face significant impact from AI and automation: repetitive tasks are easily replaced by intelligent machines, entry-level jobs are reduced, but maintenance and anomaly handling still depend on humans.
+
+Can progress from operator to production line supervisor or quality inspector, or transition to machine maintenance or production management through training.
+
+**Tasks most exposed to AI:**
+
+- Fabric or upper stitching operations performed by automated sewing robots
+- Material cutting and trimming replaced by AI vision-guided cutters
+- Visual defect identification in quality inspection, performed by computer vision systems
+- Production piecework and statistics automatically recorded by IoT sensors
+
+**Where AI augments the role:**
+
+- Monitor the operational status of multiple automated equipment, receive real-time anomaly alerts via AI assistant
+- Use AI to analyze production data and optimize machine parameters to improve yield
+- Remote fault diagnosis and preventive maintenance through digital twins
+
+**Human moat:**
+
+- Instant adjustments for complex fabric deformations or special materials
+- Emergency handling and physical repair of major machine failures
+- Communicate with designers on process implementation for customized product requirements.
+- Flexible scheduling experience for small-batch, multi-variety production.
+
+**Skills to build:**
+
+- Basic PLC programming and industrial robot debugging.
+- Data analysis and machine learning basics (for predictive maintenance)
+- Digital twin or MES system operation
+- Industrial IoT sensor maintenance
+- Cross-department communication and problem-solving skills.
+
+**Key growth areas:**
 
 - Stable
 - Rural focus
@@ -61,69 +92,68 @@ Operate textile or footwear production machines such as knitting, stitching, cut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 适用于获得雇主担保的中长期技术工人，要求雅思5分及2年经验。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主直接担保永居，需通过职业评估及3年工作经验。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保临时签证，3年后可转191永居。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA提供宽松条件，如年龄放宽至50岁。 |
+| Subclass 482 (Skills in Demand Visa) | Applicable to medium and long-term skilled workers with employer sponsorship, requiring IELTS 5 and 2 years of experience. |
+| Subclass 186 (Employer Nomination Scheme) | Employer directly sponsors permanent residence, requires skills assessment and 3 years of work experience. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer-sponsored temporary visa allows transition to 191 permanent residency after 3 years. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA offer relaxed conditions, such as age concession up to 50 years. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Textile and Footwear Production Machine Operators nec？**
-- 动手能力强、注重细节的工人
-- 愿意在乡村或偏远地区就业
-- 接受重复性体力劳动
-
-**谁不适合学Textile and Footwear Production Machine Operators nec？**
-- 追求高薪或快速职业发展者
-- 对化学纤维或噪音敏感者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented worker
+- Willing to work in rural or remote areas
+- Accepting repetitive physical labor
+
+**Who is not suited**
+- Those seeking high salary or rapid career development
+- Sensitive to chemical fibers or noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Australian textile operator annual salary approx. AUD 48,000-75,000, entry-level usually below AUD 50,000, senior up to AUD 75,000.
+
+**Q: What skilled migration pathways are available?**
+A: Mainly relies on employer sponsorship (482/186/494), remote area DAMA also applicable. Requires skills assessment, but not on CSOL/MLTSSL.
+
+**Q: What is the career outlook for this occupation?**
+A: Affected by automation, but niche products like custom footwear still have demand; job opportunities are stable but limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Textile and Footwear Production Machine Operators nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：In Australia, textile machine operators earn AUD 48k-75k per year, with entry-level under 50k and senior up to 75k.
-
-**问：What technical migration options are available?**
-答：Mainly employer-sponsored visas (482/186/494) and DAMA. Requires skills assessment but not on CSOL/MLTSSL.
-
-**问：What are the career prospects?**
-答：Affected by automation, but niche products like custom footwear sustain demand. Stable but limited growth.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

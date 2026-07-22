@@ -1,61 +1,93 @@
-# Aquaculture and Fisheries Production Managers（Aquaculture and Fisheries Production Managers）职业分析 · IT
+# Aquaculture and Fisheries Production Managers — career analysis · Italy
 
-**职业代码：1312 – Aquaculture and Fisheries Production Managers。**
+**Occupation code: 1312 (ISCO08)**
 
-Plan, organize, and supervise aquaculture or fishery production activities including fish hatching, rearing, harvesting, and quality control to ensure efficiency and sustainability.
+Responsible for planning, organizing, and supervising aquaculture or fishery production activities, including fish hatching, rearing, harvesting, and quality control, ensuring production efficiency and sustainability.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $5,000~$12,000（公立大学学费，视户籍和收入而定） |
-| 硕士 | 2年（硕士） | $3,000~$8,000（部分大学提供水产养殖或渔业科学硕士） |
+| Bachelor's degree | 3 years (bachelor's) | $5,000~$12,000 (Public university tuition fees vary by household registration and income) |
+| Master's degree | 2 years (Master's) | $3,000~$8,000 (Some universities offer a master's degree in aquaculture or fishery science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔业与水产养殖学位 | 意大利大学 | 可选 | 生物、农业或渔业相关专业 |
-| HACCP食品安全认证 | 认证机构 | 必备 | 适用于水产品加工场所 |
-| 工作健康与安全证书 | 地区卫生局 | 必备 | 基础安全培训 |
+| HACCP food safety certification | Certification bodies | Required | Suitable for seafood processing facilities |
+| Work Health and Safety Certificate | Regional health authority | Required | Basic safety training |
+| Fisheries and Aquaculture Degree | Italian universities | Optional | Relevant major in biology, agriculture or fisheries |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。意大利水产养殖业因可持续海鲜需求增长而稳步发展，尤其在北部淡水养殖和南部海水养殖区域。预计未来5年就业增长约5%，需应对环境法规和气候变化挑战。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Italy's aquaculture industry is steadily growing due to rising demand for sustainable seafood, especially in northern freshwater farming and southern marine farming areas. Expected employment growth of about 5% over the next 5 years, must address environmental regulations and climate change challenges.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，小型农场或助理经理 |
-| 中级（4-7年） | $36,000~$48,000 | 管理中型养殖场或部门负责人 |
-| 高级（8年以上） | $50,000~$65,000 | 大型企业生产总监或区域经理 |
+| Median salary | $42,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, small farm or assistant manager |
+| Mid-level (4-7 years) | $36,000~$48,000 | Managing a medium-sized farm or serving as department head |
+| Senior (8+ years) | $50,000~$65,000 | Production Director or Regional Manager for Large Enterprises |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从技术员或生产主管晋升至经理，可向区域生产总监或咨询顾问发展。部分经理转向质量控制或研发岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will optimise data monitoring, reporting, and compliance checks, but key decisions, on-site management, and biosecurity still require human judgment, with overall risks and opportunities coexisting.
+
+Typically progress from technician or production supervisor to manager, and can develop into regional production director or consultant. Some managers move into quality control or R&D roles.
+
+**Tasks most exposed to AI:**
+
+- Manually record farming data (water temperature, feeding amounts, etc.)
+- Generate daily production reports and compliance documents
+- Image recognition of initial disease symptoms
+- Inventory counting and feed order calculation
+
+**Where AI augments the role:**
+
+- Uses sensors and AI to predict optimal feeding times and amounts
+- Monitor fish health and abnormal behavior through machine vision.
+- Simulate the impact of different stocking densities and feed plans on yield
+- Real-time water quality monitoring and automatic adjustment of oxygenation and filtration equipment
+
+**Human moat:**
+
+- On-site decision-making for responding to sudden disease outbreaks or environmental disasters
+- Experience-based biosecurity management and overall disease prevention planning.
+- Negotiations and relationship management with regulators, suppliers, and sales channels
+- Assess and implement new sustainable aquaculture technologies
+
+**Skills to build:**
+
+- Data analysis and statistical software (Python/R)
+- Internet of Things (IoT) and sensor system management
+- Operation and troubleshooting of automated control systems
+- Knowledge of environmental regulations and sustainability certification standards
+- Inspection skills for drones or underwater robots
+
+**Key growth areas:**
 
 - Sustainable aquaculture
 - Blue economy growth
@@ -64,69 +96,68 @@ Plan, organize, and supervise aquaculture or fishery production activities inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，要求大学学历及年薪≥约3.5万欧元，可携带家属。 |
-| Subclass Decreto Flussi（Decreto Flussi Quota Work Visa） | 年度配额工作签证，针对季节性或非季节性员工，需雇主担保，名额有限。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工局申请工作许可，证明无法招到本地员工，适用于技术岗位。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU citizens, requiring a university degree and annual salary of approximately €35,000 or more; family may accompany. |
+| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota work visa for seasonal or non-seasonal workers, requires employer sponsorship, limited places. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the labor office, proving no local workers can be hired, applicable for skilled positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture and Fisheries Production Managers？**
-- 对水产养殖或海洋生物有浓厚兴趣者
-- 擅长现场管理和解决问题的人
-- 愿意在沿海或乡村地区工作
-
-**谁不适合学Aquaculture and Fisheries Production Managers？**
-- 不适应户外和体力劳动的人
-- 不喜欢季节性工作节奏者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in aquaculture or marine biology.
+- People skilled in on-site management and problem-solving
+- Willing to work in coastal or rural areas
+
+**Who is not suited**
+- People who are not suited to outdoor and physical work
+- Not suitable for those who dislike seasonal work rhythms
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aquaculture production managers in Italy?**
+A: Annual salary for junior managers is approximately 28,000-35,000 euros, for mid-to-senior up to 50,000-65,000 euros, higher in large enterprises or for technical directors.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: EU Blue Card (requires degree and high salary) or Decreto Flussi quota work visa; employer must prove inability to hire local workers.
+
+**Q: What career development opportunities are available in this occupation?**
+A: Can be promoted to regional production director, consultant, or R&D specialist, or transition to quality control or sustainable management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aquaculture and Fisheries Production Managers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an aquaculture production manager in Italy?**
-答：Entry-level managers earn about €28,000-35,000, while senior managers can reach €50,000-65,000 annually, with higher pay in large companies.
-
-**问：How can non-EU citizens immigrate to Italy through this occupation?**
-答：Via EU Blue Card (requires degree and high salary) or Decreto Flussi quota work visa with employer sponsorship and labor market test.
-
-**问：What career advancement opportunities exist?**
-答：Advance to regional production director, consultant, or R&D specialist, or move into quality control or sustainability management.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Program Director (Television or Radio)（Program Director (Television or Radio)）职业分析 · 澳大利亚
+# Program Director (Television or Radio) — career analysis · Australia
 
-**职业代码：212315 – Program Director (Television or Radio)。**
+**Occupation code: 212315 (ANZSCO)**
 
-Program Directors plan, coordinate, and oversee the overall content and broadcast of television or radio programs, ensuring quality, budget compliance, and audience engagement. Requires extensive media experience, creativity, and management skills.
+A program director is responsible for planning, coordinating, and supervising the overall content and broadcast of television or radio programs, ensuring program quality, budget compliance, and meeting audience needs. This role requires extensive media industry experience, creativity, and management skills.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（传媒、电影电视或相关专业，年学费约AUD 30,000-50,000） |
-| 硕士 | 1-2年 | $35,000~$60,000（传媒管理或相关硕士，年学费约AUD 35,000-60,000） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Media, film/TV, or related fields; annual tuition approx. AUD 30,000-50,000) |
+| Master's degree | 1-2 years | $35,000~$60,000 (Master in Media Management or related, annual tuition approximately AUD 35,000-60,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传媒或相关学士学位 | 澳洲大学 | 可选 | 通常要求，但不是强制 |
-| 行业经验 | 雇主 | 必备 | 通常需要5年以上媒体制作或管理经验 |
+| Industry experience | Employer | Required | Typically requires more than 5 years of media production or management experience |
+| Media or related bachelor's degree | Australian universities | Optional | Usually required, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。随着数字媒体和流媒体平台的兴起，传统广播电视面临转型压力，但经验丰富的节目总监仍有稳定需求，尤其在内容策划和制作管理方面。就业增长缓慢，竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. With the rise of digital media and streaming platforms, traditional broadcasting faces transformation pressure, but experienced program directors still have stable demand, especially in content planning and production management. Employment growth is slow and competition is fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 助理节目总监或小型电台/电视台 |
-| 中级（3-7年） | $90,000~$120,000 | 中型电视台/电台节目总监 |
-| 高级（7年以上） | $130,000~$180,000 | 大型广播公司或高级节目总监 |
+| Median salary | $102,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Assistant program director or small radio/TV station |
+| Mid-level (3–7 years) | $90,000~$120,000 | Program director at a medium-sized TV/radio station |
+| Senior (7+ years) | $130,000~$180,000 | Large broadcaster or senior program director |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从制片人、编辑或内容创作者晋升而来，积累足够经验后可担任节目总监，进而升任高级管理职位如内容总监或电视台总经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly optimise programming, audience analysis and content production workflows, but creative decision-making, strategic planning and team management remain core human strengths. The role of program director will not disappear but requires deep engagement with data tools.
+
+Usually promoted from producer, editor, or content creator; with sufficient experience can become program director, and then advance to senior management roles such as content director or TV station general manager.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and time-slot optimization for regular programs
+- Generation of audience viewing analysis reports based on historical data
+- Automatic tagging, archiving, and metadata entry for program materials
+- Standardized budget tracking and expenditure report generation
+
+**Where AI augments the role:**
+
+- Use AI prediction models to quickly assess potential audience reactions to new programs or content adjustments.
+- Automatically generate program promotional scripts and social media summaries using natural language processing tools
+- Use AI editing assistant tools to speed up rough cuts and content adaptation
+- Use real-time data dashboards to monitor performance across time periods and dynamically adjust strategies
+- Automated competitor analysis to quickly identify market trends
+
+**Human moat:**
+
+- Sharp intuition for cultural and public opinion trends combined with risk judgment
+- Cross-departmental creative coordination and team motivation skills
+- Immediate decision-making during major crises or breaking news
+- High-value negotiations with advertisers, regulators, and partners
+
+**Skills to build:**
+
+- Data analysis and visualisation (e.g., Python/Pandas, Tableau)
+- AI content production tools (e.g., GPTs for copywriting, video editing AI)
+- Audience insights and predictive modeling basics
+- Agile Project Management and Cross-Platform Coordination
+- Digital marketing and social media strategy
+- AI ethics and compliance awareness
+
+**Key growth areas:**
 
 - Content Strategy
 - Digital Media
@@ -63,64 +97,66 @@ Program Directors plan, coordinate, and oversee the overall content and broadcas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，但该职业不在短期或中长期职业清单上，机会极少 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Suitable for employer sponsorship, but the occupation is not on the short-term or medium- to long-term skills list, opportunities are very limited |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Program Director (Television or Radio)？**
-- 有创意和领导力，热爱媒体内容策划
-- 能承受高压工作，适应不规律时间
-- 具备团队管理和预算控制能力
+**Who is suited**
+- Creative and leadership skills, passionate about media content planning
+- Ability to handle high-pressure work and adapt to irregular hours
+- Ability in team management and budget control
 
-**谁不适合学Program Director (Television or Radio)？**
-- 不喜欢快节奏和高压力环境
-- 缺乏媒体行业经验或人脉
+**Who is not suited**
+- Not suitable for fast-paced and high-pressure environments
+- Lack of media industry experience or connections
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a program director?**
+A: Junior approx. AUD 65,000-80,000, mid-level approx. AUD 90,000-120,000, senior up to AUD 130,000-180,000.
+
+**Q: Can a program director immigrate to Australia through skilled migration?**
+A: Almost impossible. This occupation is not on the skilled occupation list, employer sponsorship is extremely difficult to obtain, and migration pathways are very limited.
+
+**Q: What are the career prospects for a program director?**
+A: Traditional media is shrinking, but digital content creates new opportunities. Competition is fierce, and advancement requires extensive experience and networks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Program Director (Television or Radio)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Program Director?**
-答：Entry-level: AUD 65,000-80,000; Mid-level: AUD 90,000-120,000; Senior: AUD 130,000-180,000.
-
-**问：Can a Program Director migrate to Australia via skilled migration?**
-答：Almost impossible. This occupation is not on the skilled occupation list, and employer sponsorship is very difficult.
-
-**问：What are the career prospects for a Program Director?**
-答：Traditional media is shrinking, but digital content creates new opportunities. Competition is high; advancement requires extensive experience and network.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

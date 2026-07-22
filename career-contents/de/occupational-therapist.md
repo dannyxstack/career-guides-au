@@ -1,61 +1,97 @@
-# Occupational Therapist（Occupational Therapist）职业分析 · DE
+# Occupational Therapist — career analysis · Germany
 
-**职业代码：8172 – Occupational Therapist。**
+**Occupation code: 8172 (KldB)**
 
-Occupational therapists help people with physical, mental, or developmental conditions regain independence in daily life, work, and leisure through purposeful activities.
+Occupational therapists help individuals limited by illness, disability, or mental health conditions to restore or improve daily living abilities, work capacity, and leisure participation through purposeful activity training.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（双元制培训通常免学费，培训期间每月有津贴（约600-1200欧元）） |
-| 本科（应用科学大学） | 3-4年 | —（公立大学每学期仅收取少量管理费（约150-400欧元）） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Dual training is usually tuition-free, with a monthly allowance during training (approx. 600-1200 euros)) |
+| Bachelor's degree (University of Applied Sciences) | 3-4 years | $0~$1,500 (Public universities charge only a small administrative fee per semester (approximately 150-400 euros)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家认可的职业治疗师资格 | 德国各联邦州主管部门 | 必备 | 完成国家认可的培训或学位后，通过国家考试获得执业许可，是从事职业治疗师工作的强制性要求 |
-| 资质认证（Anerkennung） | 德国卫生局或同等机构 | 必备 | 非欧盟学历需通过Anerkennung程序，评估学历等同性，可能需要补修课程或参加适应培训 |
-| 继续教育专科认证 | 德国职业治疗师协会（DVE）等 | 可选 | 如手部治疗、神经康复、儿科等，非强制但有助于职业发展 |
+| Nationally recognized occupational therapist qualification | Competent authorities of the German federal states | Required | After completing a nationally recognized training or degree, obtain a practice license through a national exam, which is a mandatory requirement for working as an occupational therapist. |
+| Qualification recognition (Anerkennung) | German health authority or equivalent body | Required | Non-EU qualifications need to go through the Anerkennung procedure to assess qualification equivalence, may require supplementary courses or adaptation training |
+| Continuing education specialist certification | German Association of Occupational Therapists (DVE), etc. | Optional | e.g. hand therapy, neurorehabilitation, paediatrics - not mandatory but helpful for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 58,000。德国人口老龄化加剧，对职业治疗师的需求持续增长。联邦劳工局将治疗师列为紧缺职业，就业机会良好，尤其在康复中心、医院和老年护理机构。
+**Job demand: high (★★★★☆).** National workforce approx. 58,000. Germany's aging population is increasing, driving sustained demand for occupational therapists. The Federal Employment Agency lists therapists as a shortage occupation, with good job opportunities especially in rehabilitation centers, hospitals, and aged care facilities.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 公立医疗机构TVöD薪酬表，初期约E8-E9级别 |
-| 中级（4-9年） | $38,000~$46,000 | 经验增加后，薪资随TVöD级别或私立机构议价提升 |
-| 高级（10年以上） | $45,000~$55,000 | 担任主管或专科治疗师，私立机构或自雇收入更高 |
+| Median salary | $42,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$38,000 | Public hospitals follow TVöD pay scale, typically at E8-E9 levels |
+| Intermediate (4-9 years) | $38,000~$46,000 | As experience increases, salary rises with TVöD level or private sector negotiation |
+| Senior (10+ years) | $45,000~$55,000 | As a supervisor or specialist therapist, private practice or self-employment offers higher income |
+| average salary | $44,076 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级职业治疗师可从基层岗位起步，积累经验后晋升为高级治疗师、科室主管或治疗中心主任。也可通过继续教育转向专科领域（如神经康复、儿科），或进入教学和研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
+
+Entry-level occupational therapists can start in basic roles, accumulate experience and then advance to senior therapist, department head or therapy centre director. They can also move into specialist areas (e.g. neurological rehabilitation, paediatrics) through further education, or into teaching and research roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized assessment scales and score statistics
+- Use NLP to analyze patient diaries and generate rehabilitation progress summaries.
+- AI voice assistants record therapy sessions and summarize key points
+- Robot-assisted completion of repetitive limb training exercises
+- Automated scheduling and medical record archiving
+
+**Where AI augments the role:**
+
+- AI provides personalized activity recommendations and adaptive rehabilitation plans
+- Wearable device data analysis aids in identifying patient fatigue and risks
+- Virtual reality (VR) simulations of daily scenarios for desensitization training
+- Generative AI creating visual teaching aids and home practice guides
+- Predictive models for early warning of functional decline and intervention strategy adjustment
+
+**Human moat:**
+
+- Building and maintaining therapeutic relationships face-to-face
+- Unstructured activity analysis, improvisation, and creative adaptation
+- Assessing real-world engagement in complex social contexts
+- Human-Centered Communication and Decision-Making in Interdisciplinary Team Collaboration
+- Emotional guidance and motivation for patients/family members
+
+**Skills to build:**
+
+- Use and tuning of AI rehabilitation plan generation tools
+- Wearable device data analysis and visual interpretation
+- VR/AR therapy content design and basic programming
+- Human-robot collaborative therapy process design and ethical evaluation
+- Application of digital health records and intelligent reporting systems
+- AI-based remote rehabilitation monitoring and intervention
+
+**Key growth areas:**
 
 - Aging Society
 - Rehabilitation
@@ -64,69 +100,68 @@ Occupational therapists help people with physical, mental, or developmental cond
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可的职业资格并获雇主担保的申请人，需通过资质认证。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪不低于43800欧元（2024年紧缺职业）的申请人。通常需本科以上学历，通过资质认证。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德国找工作时停留一年。要求至少与职业相关的职业资格或学位。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to applicants with recognized German vocational qualifications and employer sponsorship, requiring qualification recognition. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with annual salary not less than 43,800 EUR (2024 shortage occupations). Usually requires bachelor's degree or above and qualification certification. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allowing a one-year stay in Germany to look for work. Requires at least a occupation-related vocational qualification or degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapist？**
-- 有耐心和同理心，善于沟通和激励他人
-- 喜欢从事动手实践、灵活变通的工作
-- 希望在医疗健康领域获得稳定职业的人
-
-**谁不适合学Occupational Therapist？**
-- 无法适应与残障或慢性病患者密切接触
-- 偏好快节奏、高压环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, good at communication and motivating others
+- Enjoys hands-on, flexible work
+- People seeking a stable career in the healthcare field
+
+**Who is not suited**
+- Unable to adapt to close contact with people with disabilities or chronic illnesses
+- People who prefer a fast-paced, high-pressure environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an occupational therapist in Germany?**
+A: Depending on experience, gross annual salary approx. €32,000 to €55,000. Public institutions follow TVöD rates; private or self-employed may be higher.
+
+**Q: How to become an occupational therapist in Germany as a non-EU applicant?**
+A: Must first complete a recognized training or degree in Germany, or have qualifications assessed via credential evaluation (Anerkennung). Then apply for a Skilled Worker Visa or EU Blue Card.
+
+**Q: Do occupational therapists in Germany need to have their qualifications recognized?**
+A: Yes, all occupational therapy qualifications obtained outside the EU must go through the German authority's Anerkennung procedure to confirm equivalence with German qualifications before you can practise.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Occupational Therapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an occupational therapist in Germany?**
-答：Gross annual salary ranges from €32,000 to €55,000 depending on experience, with public sector following TVöD standards.
-
-**问：How can a non-EU applicant become an occupational therapist in Germany?**
-答：You need a German-recognized qualification or pass the credential assessment (Anerkennung), then apply for a Skilled Worker Visa or EU Blue Card.
-
-**问：Is credential recognition mandatory for occupational therapists in Germany?**
-答：Yes, all non-EU qualifications must undergo the Anerkennung procedure to be recognized as equivalent before you can practice.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

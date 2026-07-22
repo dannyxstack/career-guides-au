@@ -1,59 +1,91 @@
-# Managers in Advertising and Marketing（Managers in Advertising and Marketing）职业分析 · DE
+# Managers in Advertising and Marketing — career analysis · Germany
 
-**职业代码：9219 – Managers in Advertising and Marketing。**
+**Occupation code: 9219 (KldB)**
 
-Plan, coordinate, and oversee advertising and marketing campaigns, develop strategies, manage budgets and teams to increase brand awareness and market share.
+Responsible for planning, coordinating, and overseeing advertising and marketing activities, developing marketing strategies, managing budgets and teams to enhance brand awareness and market share.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学无学费，仅学期费约300欧元/年） |
-| 硕士 | 1-2年 | —（公立大学硕士通常无学费） |
-| 双元制培训（市场营销专员） | 3年 | —（双元制培训期间有津贴） |
+| Bachelor's degree | 3-4 years | $0~$1,000 (Public universities have no tuition fees, only a semester fee of about 300 euros per year) |
+| Master's degree | 1-2 years | $0~$1,000 (Master's at public universities typically tuition-free) |
+| Dual vocational training (Marketing Specialist) | 3 years | $0~$0 (Dual system training includes an allowance.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销或相关专业本科学位 | 德国大学或国际认可大学 | 可选 | 通常为进入该职业的基础要求 |
-| 管理经验 | 雇主 | 可选 | 需多年相关工作经验 |
+| Bachelor's degree in marketing or related field | German university or internationally recognized university | Optional | Usually the basic requirement to enter this occupation |
+| Management experience | Employer | Optional | Requires several years of relevant work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。德国广告与营销行业持续增长，数字化转型和社交媒体营销创造新职位。就业前景良好，但竞争激烈，需持续学习新技术。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. The German advertising and marketing industry is growing steadily, with digital transformation and social media marketing creating new positions. Job prospects are good but competitive, requiring continuous learning of new technologies.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪 |
-| 中级（4-7年） | $55,000~$75,000 | 税前年薪 |
-| 高级（8年以上） | $75,000~$100,000 | 税前年薪 |
+| Median salary | $58,944 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $55,000~$75,000 | Annual pre-tax salary |
+| Senior (8+ years) | $75,000~$100,000 | Annual pre-tax salary |
+| average salary | $66,876 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从市场营销专员晋升至团队领导、部门经理，再到首席营销官（CMO）。也可转向数字营销、品牌管理等专业方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
+
+Can progress from marketing specialist to team leader, department manager, and then Chief Marketing Officer (CMO). May also transition to digital marketing, brand management, or other specialized areas.
+
+**Tasks most exposed to AI:**
+
+- Automating routine reports and data analysis (e.g., Excel sorting, weekly ad performance reports)
+- Generate standardized marketing copy and social media posts
+- Execute batch email marketing and automated customer segmentation
+- Manage bidding rankings and programmatic advertising
+
+**Where AI augments the role:**
+
+- Use AI for consumer behavior prediction and market trend analysis
+- Create personalized videos, images, and copy content using AI
+- Rapidly generate A/B test plans and optimization suggestions using AI tools
+- Using AI-driven dashboards to monitor and adjust multi-channel marketing campaigns in real time
+
+**Human moat:**
+
+- Develop long-term brand strategy and annual marketing plans
+- Cross-departmental coordination and senior management communication
+- Making non-routine decisions based on market intuition and experience
+- Building and maintaining key client, media, and partner relationships
+
+**Skills to build:**
+
+- Proficiency in Python or R for marketing data analysis.
+- Proficiency in AI content generation tools (e.g., Jasper, DALL·E)
+- Learn advanced usage of Google Analytics and CRM systems
+- Enhance project management and agile marketing approaches
+- Develop data-driven decision-making and A/B test design skills
+
+**Key growth areas:**
 
 - Digital Marketing
 - Data-Driven Marketing
@@ -62,68 +94,67 @@ Plan, coordinate, and oversee advertising and marketing campaigns, develop strat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需大学学历和年薪不低于约43,800欧元（2024年标准）。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有德国认可学历或职业资格的申请人，需获得工作合同。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许寻找工作并兼职。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and an annual salary of at least approximately €43,800 (2024 standard). |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applies to applicants with recognized German qualifications or vocational credentials; must have a job contract. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing job search and part-time work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in Advertising and Marketing？**
-- 具有创意和战略思维，擅长沟通和团队合作
-- 对市场趋势敏感，愿意不断学习新技术
-- 有销售或市场相关背景，能承受工作压力
-
-**谁不适合学Managers in Advertising and Marketing？**
-- 不喜欢与人沟通或团队合作
-- 抗拒数字工具和数据分析
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and strategic thinker with strong communication and teamwork skills.
+- Sensitive to market trends and willing to continuously learn new technologies.
+- Background in sales or marketing, able to handle work pressure
+
+**Who is not suited**
+- Dislikes communicating with people or teamwork
+- Resistant to digital tools and data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for advertising and marketing managers in Germany?**
+A: Entry-level positions: about EUR 40,000-55,000 annually, mid-level: 55,000-75,000, senior: 75,000-100,000, depending on company size and region.
+
+**Q: How can non-EU citizens immigrate to Germany through this occupation?**
+A: Eligible for EU Blue Card (annual salary threshold approx. EUR 43,800) or skilled migration visa. Requires a German-recognized bachelor's degree and a job offer.
+
+**Q: What is the career progression path for this occupation?**
+A: Start as marketing specialist, progress to team leader, department manager, and ultimately Chief Marketing Officer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Managers in Advertising and Marketing的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for advertising and marketing managers in Germany?**
-答：Entry-level salary is around €40,000-55,000, mid-level €55,000-75,000, senior €75,000-100,000, depending on company size and location.
-
-**问：How can non-EU citizens immigrate to Germany through this profession?**
-答：They can apply for the EU Blue Card (salary threshold approx. €43,800) or a skilled worker visa. A recognized bachelor's degree and a job offer are required.
-
-**问：What is the career path for this profession?**
-答：Starting as a marketing specialist, progress to team leader, department manager, and eventually to Chief Marketing Officer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

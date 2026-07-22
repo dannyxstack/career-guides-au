@@ -1,62 +1,97 @@
-# Physicists and Astronomers（Physicists and Astronomers）职业分析 · ES
+# Physicists and Astronomers — career analysis · Spain
 
-**职业代码：2411 – Physicists and Astronomers。**
+**Occupation code: 2411 (CNO)**
 
-Physicists and astronomers in Spain conduct fundamental research, teach at universities, and develop applied physics in areas like astronomy, particle physics, and materials science.
+Spanish physicists and astronomers mainly engage in basic scientific research, teaching, and the development of applied physics in fields such as astronomy, particle physics, and materials science.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（Grado） | $1,200~$3,000（公立大学每年约1200-3000欧元） |
-| 硕士 | 1-2年（Máster） | $1,500~$5,000（公立大学每年约1500-5000欧元） |
-| 博士 | 3-4年（Doctorado） | $300~$1,000（公立大学博士课程费用较低，通常每年300-1000欧元） |
+| Bachelor's degree | 4 years (Grado) | $1,200~$3,000 (Public university tuition about €1,200-3,000/year.) |
+| Master's degree | 1-2 years (Máster) | $1,500~$5,000 (Public universities about 1,500-5,000 EUR per year) |
+| Doctorate | 3-4 years (Doctorado) | $300~$1,000 (Doctoral programs at public universities are relatively low, usually 300-1000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学/天文学学士学位 | 西班牙大学 | 必备 | 必需学位，完成4年Grado课程 |
-| 博士学位 | 西班牙大学 | 必备 | 研究职位通常要求博士学历 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行官方认证 |
+| Bachelor's degree in Physics/Astronomy | Spanish University | Required | A degree is required, and you must complete a 4-year Grado program |
+| Doctoral degree (PhD) | Spanish University | Required | Research positions usually require a doctoral degree |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require official recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 5,500。西班牙就业前景稳定但竞争激烈，主要岗位集中在大学、研究机构（如CSIC）和少数企业研发部门。公共科研经费波动影响招聘。
+**Job demand: low (★★☆☆☆).** National workforce approx. 5,500. Employment prospects in Spain are stable but highly competitive, with most positions concentrated in universities, research institutions (such as CSIC), and a few corporate R&D departments. Fluctuations in public research funding affect recruitment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪，通常为博士后或初级研究员 |
-| 中级（4-7年） | $32,000~$45,000 | 税前年薪，固定研究员或助理教授 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，教授或高级研究员 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Pre-tax annual salary, usually for postdoctoral researchers or junior researchers |
+| Mid-level (4-7 years) | $32,000~$45,000 | Pre-tax annual salary, fixed researcher or assistant professor |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, professor or senior researcher |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业晋升通常从博士后研究助理开始，通过积累科研成果逐步晋升为固定研究员、教授或研究组长。也可转向私营企业如可再生能源、航空航天领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI mainly enhances the roles of physicists and astronomers, automating repetitive data analysis and simulation, but core scientific discoveries, experimental design, and theoretical innovation still require human leadership.
+
+Career promotion usually starts as a postdoctoral research assistant and gradually advances through accumulated research achievements to permanent researcher, professor, or research group leader. It can also be turned to private enterprises such as renewable energy and aerospace.
+
+**Tasks most exposed to AI:**
+
+- Routine data analysis and statistics (such as fitting curves, error propagation)
+- Parameter scanning and batch simulation runs
+- Literature search and preliminary abstract organization
+- Automatic instrument calibration and data preprocessing
+
+**Where AI augments the role:**
+
+- Accelerated numerical simulation and large-scale data processing (such as particle collisions and astronomical simulations)
+- AI-based pattern recognition (such as finding anomalous signals and classifying galaxies)
+- Automatically optimize experimental parameters and design
+- Assisted in generating and validating theoretical model variants
+- Efficient visualization of complex data drives insights
+
+**Human moat:**
+
+- Raise original scientific questions and hypotheses
+- Design key experiments to test theoretical predictions
+- Interdisciplinary scientific intuition and creative thinking
+- Judgment and exploration of experimental anomalies
+- Research ethics and reliability assessment of results
+
+**Skills to build:**
+
+- Machine Learning (PyTorch/TensorFlow)
+- High-performance computing (GPU programming, distributed computing)
+- Statistical modeling and Bayesian inference
+- Scientific Visualization (Matplotlib/Mayavi)
+- AI-assisted physics theory tools (such as symbolic regression)
+- Data management and version control
+
+**Key growth areas:**
 
 - Research
 - Renewable Energy
@@ -65,66 +100,65 @@ Physicists and astronomers in Spain conduct fundamental research, teach at unive
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，需大学学历及工作合同，年薪门槛约33,908欧元（2024年） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人才，更灵活，需工作合同并满足学历或工作经验要求 |
-| Subclass Cuenta ajena（Employed Work Permit） | 标准工作居留，需公司担保，无特殊技能要求 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions requiring a university degree and work contract; annual salary threshold approximately EUR 33,908 (2024). |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, it is more flexible, requires a work contract, and meets educational or work experience requirements |
+| Subclass Cuenta ajena (Employed Work Permit) | Standard work residency, company sponsorship required, no special skill requirements |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicists and Astronomers？**
-- 热爱基础科学研究与数学
-- 能承受科研竞争压力
-- 愿意长期投入学术深造
-
-**谁不适合学Physicists and Astronomers？**
-- 追求快速高薪就业
-- 不喜欢长时间独立研究
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about basic scientific research and mathematics
+- Able to withstand the pressure of scientific research competition
+- Willing to devote long-term to academic advancement
+
+**Who is not suited**
+- Pursue fast, high-paying employment
+- Dislikes long-term independent research
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physicists in Spain?**
+A: Entry-level researcher annual salary approx. 22,000-30,000 EUR, senior professor up to 45,000-60,000 EUR, but overall lower than engineering roles in private sector.
+
+**Q: How can non-EU physicists immigrate to Spain?**
+A: You can obtain an EU Blue Card or a visa for highly skilled professionals, obtain a work contract at a Spanish research institution or university, and complete academic credential verification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Physicists and Astronomers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physicists in Spain?**
-答：Entry-level researchers earn around €22,000-€30,000 gross annually, while senior professors can reach €45,000-€60,000, but overall lower than private engineering roles.
-
-**问：How can non-EU physicists immigrate to Spain?**
-答：Via EU Blue Card or Highly Qualified Professional visa, requiring a job offer from a Spanish research institution or university and credential homologation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

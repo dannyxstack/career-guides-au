@@ -1,60 +1,96 @@
-# Pig Breeder（Pig Breeder）职业分析 · FR
+# Pig Breeder — career analysis · France
 
-**职业代码：A1411 – Pig Breeder。**
+**Occupation code: A1411 (ROME)**
 
-Pig breeders manage daily feeding, breeding, health monitoring, and farm hygiene to ensure efficient pig production in compliance with animal welfare and sanitary standards.
+Pig farmers are responsible for daily feeding, breeding management, health monitoring, and farm cleaning for the herd, ensuring pig production is efficient and meets animal welfare and hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中 | 2年（CAP） | —（公立学校免费，注册费约200€/年） |
-| 农业技术文凭 | 2年（BTSA） | —（公立学校免费，注册费约300€/年） |
+| Vocational high school | 2 years (CAP) | $0~$1,000 (Public schools are free, with a registration fee of about €200 per year) |
+| Diploma of Agricultural Technology | 2 years (BTSA) | $0~$1,500 (Public schools are free, with registration fees of about €300 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAPA 养猪员 | 法国农业部 | 必备 | 必备职业文凭 |
-| Certiphyto 农药使用证 | DRAAF | 可选 | 若涉及用药则需 |
+| CAPA pig farmers | French Ministry of Agriculture | Required | A mandatory professional diploma |
+| Certiphyto pesticide use license | DRAAF | Optional | If medication is involved, it is necessary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 35,000。法国养猪业面临转型，对现代化、环保型养殖人才需求稳定，但总体从业人员缓慢减少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. France's pig farming industry is undergoing transformation, with stable demand for modern, environmentally friendly farming talent, but overall workforce is slowly decreasing.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，约SMIC起 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，主管级 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary, starting at about SMIC |
+| Mid-level (3–7 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$38,000 | Annual salary before tax, supervisor level |
+| average salary | $20,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从普通饲养员晋升为猪场主管、技术经理，也可通过职业培训转向兽医或农业工程师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pig farmers' daily feeding, data recording, and simple health monitoring tasks face high risks of automation and AI replacement, but animal welfare assessment, complex disease management, and refined management remain humanity's moat, and entry-level positions are being squeezed.
+
+You can be promoted from ordinary breeder to farm supervisor or technical manager, or through vocational training, you can transition to veterinarian or agricultural engineer.
+
+**Tasks most exposed to AI:**
+
+- Feed Mixing and Feeding: The automatic feeding system can provide precise, timed, and measured feeding, replacing manual operation.
+- Environmental control: AI monitors temperature, humidity, ventilation, and other parameters, automatically adjusting them to reduce manual inspections.
+- Basic health monitoring: Image recognition and sensors can automatically detect abnormal behaviors and body conditions in pigs, replacing visual observation.
+- Data Recording and Reporting: Automatically collects growth, feeding, and health data and generates reports to replace manual recording.
+- Cleaning and disinfection: Robots or automated cleaning systems can perform pen washing and disinfection tasks.
+
+**Where AI augments the role:**
+
+- Reproductive Management: AI analyzes estrus cycles and sperm motility data to optimize mating timing and improve conception rates.
+- Disease Early Warning: AI integrates multi-source data (body temperature, activity level, feed intake) to provide early warnings of diseases and assist veterinarians' decision-making.
+- Precision feeding: AI customizes nutritional plans based on each pig's weight and stage to improve the feed-to-meat ratio.
+- Production Data Analysis: AI identifies efficiency bottlenecks in production data and guides farming strategy optimization.
+- Animal Welfare Audit: AI video analysis assesses pigs' stress levels to help improve the rearing environment.
+
+**Human moat:**
+
+- Animal welfare decision-making: assessing the pig's psychological state, pain level, and timing for humane treatment.
+- Diagnosis of complex diseases: On-site management of atypical symptoms, mixed infections, and emergencies.
+- Piglet delivery and care: handling difficult labor and special care for weak piglets, among other delicate manual operations.
+- Human-Pig Interaction Management: Build trust through behavioral language to reduce stress.
+- Regulatory compliance and ethical responsibility: Undertake legal responsibilities for animal epidemic prevention, harmless treatment, and food safety.
+
+**Skills to build:**
+
+- Operation and maintenance of intelligent farming systems (such as automatic feeding, environmental control platforms)
+- Fundamentals of data analysis (processing growth curves and feed-to-meat ratios with Excel or Python)
+- AI Image Recognition Tool Application (Pig Behavior Analysis Software)
+- Precision Veterinary Technology (AI-Assisted Diagnosis Capabilities)
+- Troubleshooting and simple maintenance of automated equipment
+- Animal welfare audits and sustainable farming knowledge
+
+**Key growth areas:**
 
 - modernization
 - welfare standards
@@ -63,60 +99,62 @@ Pig breeders manage daily feeding, breeding, health monitoring, and farm hygiene
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 需获得法国雇主的工作合同，并经过劳动市场测试。 |
+| Subclass Salarié (Salarié) | Must obtain a work contract from a French employer and pass labor market testing. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pig Breeder？**
-- 喜欢户外体力劳动，适应农场环境
-- 对动物有耐心，注重生物安全
+**Who is suited**
+- Enjoys outdoor physical labor and adapts to the farm environment
+- Be patient with animals and focus on biosafety
 
-**谁不适合学Pig Breeder？**
-- 不愿从事重复性体力工作
-- 对动物气味或脏污环境敏感
+**Who is not suited**
+- Unwilling to do repetitive physical work
+- Sensitive to animal odors or dirty environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pig farmers?**
+A: Entry-level positions cost about €20k-24k/year, while senior managers can reach €38k/year.
+
+**Q: Can foreigners immigrate to France through pig farming work?**
+A: This occupation is not in urgent demand, requires employment residency, and requires labor market testing, making it quite challenging.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Pig Breeder属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for pig breeders?**
-答：Entry-level around €20k-24k/year; senior supervisors up to €38k/year.
-
-**问：Can foreigners immigrate to France as pig breeders?**
-答：This occupation is not in shortage; requires a work permit with labor market test, which is difficult.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Aircraft Cargo Handling Supervisors（Aircraft Cargo Handling Supervisors）职业分析 · 美国
+# Aircraft Cargo Handling Supervisors — career analysis · United States
 
-**职业代码：53-1041 – Aircraft Cargo Handling Supervisors。**
+**Occupation code: 53-1041 (SOC)**
 
-Supervise and coordinate ground crew in loading, unloading, securing aircraft cargo or baggage; compute center of gravity for safe flight operations.
+Supervise and coordinate ground crew in loading, securing aircraft cargo or baggage, calculate load balance and center of gravity to ensure safe and efficient operations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 高中 | —（公立高中免费） |
-| 在职培训/认证 | 1-3个月 | $500~$2,000（航空公司内部或第三方培训，如空运危险品认证） |
+| High school graduation or equivalent | High school | $0~$0 (Public high schools are free) |
+| On-the-job training / certification | 1-3 months. | $500~$2,000 (In-house or third-party training by airlines, such as dangerous goods by air certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 危险品运输认证（DGR） | 国际航空运输协会（IATA） | 必备 | 必备，需每两年更新 |
-| 机场安全认证（如Badge） | 运输安全管理局（TSA） | 必备 | 需背景调查 |
-| 叉车/货物搬运设备操作证书 | 职业安全与健康管理局（OSHA） | 可选 | 部分雇主要求 |
+| Dangerous goods transport certification (DGR) | International Air Transport Association (IATA) | Required | Required, must be renewed every two years |
+| Airport security clearance (e.g., Badge) | Transportation Security Administration (TSA). | Required | Requires background check |
+| Forklift/ material handling equipment operation certificate. | Occupational Safety and Health Administration (OSHA) | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 16,800。预计2024-2034年就业增长约5%，随航空货运量增加而稳定需求。自动化行李处理系统可能影响部分岗位，但复杂作业仍需人力主管。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 16,800. Projected employment growth of about 5% from 2024-2034, with steady demand as air cargo volume increases. Automated baggage handling systems may affect some roles, but complex operations still require human oversight.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 部分季节性或小时制岗位 |
-| 中级（3-8年） | $45,000~$58,000 | 含加班费后可达更高 |
-| 高级（8年以上） | $58,000~$72,000 | 大型货运枢纽或航空公司薪资较高 |
+| Median salary | $58,170 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$45,000 | Some seasonal or hourly positions |
+| Mid-level (3–8 years) | $45,000~$58,000 | Can be higher including overtime pay |
+| Senior (8+ years) | $58,000~$72,000 | Higher pay at large freight hubs or airlines |
+| average salary | $65,010 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从地勤人员晋升为主管，再升至货运运营经理或机场运营总监。积累经验后可转向航空物流管理或安全协调岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The supervisory and coordination duties of aircraft cargo loading supervisors are difficult to fully automate, but AI/automation will significantly optimize load calculations, documentation, and scheduling; some tasks like data entry and balance calculations may be replaced, while human value in emergency response and team management becomes more prominent.
+
+Can progress from ground staff to supervisor, then to cargo operations manager or airport operations director. With experience, can transition to aviation logistics management or safety coordination roles.
+
+**Tasks most exposed to AI:**
+
+- Manual calculation of aircraft load and balance center of gravity; AI can automatically optimize calculations based on real-time data
+- Fill out paper loading lists and customs documents; AI can generate electronic documents and automatically verify them
+- Coordinating loading/unloading progress via radio; AI dispatch systems can automatically assign tasks and optimize sequences
+- Monitor loading/unloading safety procedures; AI vision systems can automatically detect violations.
+- Manually record cargo information; AI can automatically identify and enter label data
+
+**Where AI augments the role:**
+
+- Use AI stowage software to quickly generate optimal loading plans, handling complex aircraft types and dangerous goods combinations
+- Optimize personnel scheduling and equipment allocation through AI predictive analysis to improve resource utilization.
+- Uses AI vision to monitor loading/unloading processes in real time, automatically alerts safety risks and assists decision-making.
+- Use AI digital twins to simulate different loading plans' impact on fuel efficiency and flight safety
+- Simulate emergency scenarios through AI training systems to improve team response speed
+
+**Human moat:**
+
+- On-site decision-making and emergency management for incidents (e.g., cargo spills, equipment failures)
+- Manage a diverse ground crew team, including new staff training and conflict resolution
+- Coordinate and communicate with airlines, ground service providers, etc., across departments to sign agreements
+- Experienced in handling special cargo (live animals, precision instruments) during loading and transport
+- Assumes legal responsibility, signs final loading confirmation and safety release
+
+**Skills to build:**
+
+- AI load planning software operation (e.g., CargoWise, LodeStar)
+- Basic data analysis, ability to interpret AI-generated loading reports and optimization suggestions
+- Digital tool application: logistics management platforms, RFID/IoT device operation
+- Emergency management: on-site response capability with AI-assisted systems
+- Team leadership: motivating and training employees in an automated environment
+- Basic safety regulation updates: e.g. IATA Dangerous Goods Regulations, FAA safety standards
+
+**Key growth areas:**
 
 - Air Cargo Growth
 - E-commerce Logistics
@@ -64,66 +100,68 @@ Supervise and coordinate ground crew in loading, unloading, securing aircraft ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位，但若管理大量数据或系统可尝试 |
-| Subclass EB-3（EB-3 Skilled/Unskilled） | 作为非技术工人类别，需PERM劳工证，但雇主担保较难 |
-| Subclass TN（TN NAFTA Professional） | 不适用，因不符合专业职业要求 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable as the occupation typically does not require a bachelor's degree, but may be attempted if managing large amounts of data or systems |
+| Subclass EB-3 (EB-3 Skilled/Unskilled) | As a non-skilled worker category, requires a PERM labor certification, but employer sponsorship is difficult |
+| Subclass TN (TN NAFTA Professional) | Not applicable as it does not meet professional occupation requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Aircraft Cargo Handling Supervisors？**
-- 喜欢户外体力工作、注重团队协作和安全管理的人
-- 有志于航空物流行业但无高等教育背景者
-- 适应轮班制（含夜班/节假日）的稳定就业者
+**Who is suited**
+- People who enjoy outdoor physical work, value teamwork and safety management
+- Those aspiring to the aviation logistics industry but without higher education background.
+- Stable employees adaptable to shift work (including nights/holidays)
 
-**谁不适合学Aircraft Cargo Handling Supervisors？**
-- 偏好办公室白领工作或高薪职位者
-- 无法通过TSA背景调查或有犯罪记录者
+**Who is not suited**
+- Those who prefer office white-collar jobs or high-paying positions
+- Unable to pass TSA background check or have criminal record
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of an aircraft cargo handling supervisor?**
+A: Average salary around $48,000/yr, junior $38,000-45,000, senior up to $72,000. Overtime and major hubs pay more.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Difficult. Typically not applicable for H-1B/EB-2 professional categories; only possibly via EB-3 unskilled immigration, but few employers and long wait times.
+
+**Q: How to advance to Cargo Loading Supervisor?**
+A: Typically start as ground staff, gain 2-3 years of experience before competing for supervisor positions. Must obtain DGR certification and a good safety record.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aircraft Cargo Handling Supervisors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Aircraft Cargo Handling Supervisors?**
-答：Average annual salary is about $48,000; entry-level $38k-$45k, senior up to $72k. Overtime and major hubs pay more.
-
-**问：Is immigration through this occupation feasible?**
-答：Difficult. Usually not eligible for H-1B/EB-2; only possibly via EB-3 unskilled, but few sponsors and long queues.
-
-**问：How to become a cargo handling supervisor?**
-答：Start as ground crew, gain 2-3 years experience, then apply for supervisor. Need DGR certification and good safety record.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

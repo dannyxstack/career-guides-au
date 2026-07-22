@@ -1,60 +1,96 @@
-# Singer（Singer）职业分析 · DE
+# Singer — career analysis · Germany
 
-**职业代码：9412 – Singer。**
+**Occupation code: 9412 (KldB)**
 
-Singers perform vocal music across genres like classical, pop, and jazz, working on stage, in studios, or at events.
+Singers perform singing as a profession, covering various music styles such as classical, pop, and jazz, typically performing on stage, in studios, or at events.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 音乐院校学位 | 4年（本科） | —（公立音乐院校通常免学费，仅收学期费（约300欧元/学期）） |
-| 私立声乐培训 | 2-3年 | $5,000~$30,000（费用因机构和课程长度差异较大） |
+| Music degree | 4 years (bachelor's degree) | $0~$20,000 (public music schools are usually tuition-free, only charging a semester fee (approx. 300 euros/semester)) |
+| Private vocal training | 2-3 years | $5,000~$30,000 (Fees vary significantly depending on the institution and course length) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐院校学位 | 公立或私立音乐学院 | 可选 | 非强制，但有助于职业发展 |
-| 资质认证（如职业歌手资格） | 德国工商会（IHK）或相关协会 | 可选 | 自由职业者可按需申请 |
+| Music degree | Public or private music conservatories | Optional | Not mandatory, but beneficial for career development |
+| Professional qualifications (e.g., professional singer certification) | German Chamber of Commerce (IHK) or related associations | Optional | Freelancers can apply on demand |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,000。德国歌手职业竞争激烈，就业机会不稳定。自由职业者居多，受文化活动和旅游业影响较大。数字化和流媒体平台创造了新收入渠道，但全职岗位有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,000. The singer profession in Germany is highly competitive with unstable job opportunities. Most are freelancers, heavily influenced by cultural events and tourism. Digitalization and streaming platforms have created new revenue channels, but full-time positions are limited.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$35,000 | 多为兼职或不稳定收入 |
-| 中级（3-10年） | $35,000~$60,000 | 包括部分固定演出合同 |
-| 高级（10年以上） | $60,000~$100,000 | 知名歌手或与大型机构签约 |
+| Median salary | $68,436 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$35,000 | Mostly part-time or unstable income |
+| Intermediate (3-10 years) | $35,000~$60,000 | Includes some fixed performance contracts |
+| Senior (10+ years) | $60,000~$100,000 | Famous singer or signed with a major institution |
+| average salary | $71,064 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展通常从本地演出起步，逐步拓展至全国巡演或签约唱片公司。部分歌手转向声乐教学、音乐制作或相关管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+A singer's core vocal charm and live performance are hard to replace by AI, but AI is significantly compressing entry-level recording, practice, and arrangement support roles, while amplifying efficiency in creation, post-production, and marketing.
+
+Career progression usually starts with local performances, gradually expanding to national tours or signing with record labels. Some singers move into vocal teaching, music production, or related management roles.
+
+**Tasks most exposed to AI:**
+
+- AI generates multi-style song demos for record label screening
+- AI auto-tuning, mixing, and mastering basic version
+- AI-synthesized choir background vocals or backing harmony parts
+- AI predicts popular songs based on trends and generates initial lyrics
+- AI live-streaming sales support vocals, automatic harmonization plugins
+
+**Where AI augments the role:**
+
+- AI-assisted songwriting: generate melodies, chords, and arrangement drafts
+- AI analyzes voice tone and style, recommending optimal practice pieces and vocal techniques
+- Multilingual AI dubbing enables cross-language song release
+- AI-generated personalized performance marketing videos and social media content
+- Real-time AI stage effects (auto-tuning, visual effects synchronization)
+
+**Human moat:**
+
+- Live improvisational singing, emotional delivery, and audience interaction
+- Unique voice recognition and personal artistic style
+- Stage performance skills, body language, emotional expression.
+- The human depth and social resonance of original music
+- Artist brand building, fan community management, and offline relationships
+
+**Skills to build:**
+
+- Master AI audio workstations/plugins (e.g., LANDR, Amped Studio)
+- Learning AI music generation tools (such as Suno, Udio) for rapid multi-version creation
+- Advanced operation of digital audio workstation (DAW) and AI mixing/post-production
+- Social media data analytics and AI content marketing tools
+- Live sound reinforcement and real-time effects technical fundamentals
+- Copyright management and AI music law knowledge
+
+**Key growth areas:**
 
 - Live Performance
 - Digital Streaming
@@ -63,69 +99,68 @@ Singers perform vocal music across genres like classical, pop, and jazz, working
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Artist Visa（Artist Visa (§ 21 AufenthG)） | 适用于独立艺术家，需证明艺术成就和经济来源 |
-| Subclass Freelancer Visa（Freelancer Visa (§ 21 AufenthG)） | 自由职业者路径，需提交作品集和收入计划 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国6个月寻找演出机会，需证明经济能力 |
+| Subclass Artist Visa (Artist Visa (§ 21 AufenthG)) | Applicable to independent artists; must prove artistic achievements and financial resources |
+| Subclass Freelancer Visa (Freelancer Visa (§ 21 AufenthG)) | Freelancer pathway, requires portfolio and income plan |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed 6 months in Germany to seek performance opportunities; proof of financial means required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Singer？**
-- 有音乐天赋和舞台表现力
-- 能接受不规律工作和收入波动
-- 愿意持续学习和提升技艺
-
-**谁不适合学Singer？**
-- 追求稳定工作和固定收入
-- 不善自我营销和建立人脉
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have musical talent and stage presence
+- Be able to accept irregular work hours and income fluctuations
+- Willing to continuously learn and improve skills
+
+**Who is not suited**
+- Seeking stable job and fixed income
+- Not good at self-marketing and networking
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of singers?**
+A: German singer income varies widely: entry-level about EUR 20,000-35,000, senior EUR 60,000-100,000. Most need multiple income sources.
+
+**Q: How can foreign singers work in Germany?**
+A: Require artist visa or freelance visa, with portfolio and income proof. Short-term performances can use Schengen visa.
+
+**Q: Do singers need formal qualifications?**
+A: Not mandatory, but a music school degree can boost competitiveness. Practical experience and networks are more crucial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Singer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for singers?**
-答：Salaries vary widely: entry-level around €20,000-35,000, senior up to €60,000-100,000. Most have multiple income streams.
-
-**问：How can foreign singers work in Germany?**
-答：Apply for an Artist or Freelancer visa with a portfolio and income proof. Short-term performances are possible with a Schengen visa.
-
-**问：Do singers need formal education?**
-答：Not mandatory, but a music degree boosts competitiveness. Practical experience and networking are more important.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

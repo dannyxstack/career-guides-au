@@ -1,62 +1,97 @@
-# Musicians（Musicians）职业分析 · UK
+# Musicians — career analysis · United Kingdom
 
-**职业代码：3415 – Musicians。**
+**Occupation code: 3415 (SOC)**
 
-Musicians write, arrange, orchestrate, conduct and perform musical compositions, working in orchestras, theatres, studios or as freelancers across various genres.
+Musicians create, arrange, orchestrate, conduct and perform musical works across classical, pop, jazz and other styles, often employed by orchestras, theatres, recording studios or as freelancers.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $14,000~$25,000（英国本科学费每年约£14,000-£25,000（国际学生）） |
-| 硕士 | 1-2年 | $15,000~$28,000（硕士课程学费每年约£15,000-£28,000） |
-| 文凭/证书 | 1-2年 | $5,000~$15,000（音乐学院文凭或短期课程，费用较低） |
+| Bachelor's degree | 3-4 years | $14,000~$25,000 (UK undergraduate tuition fees are approximately £14,000-£25,000 per year (international students)) |
+| Master's degree | 1-2 years | $15,000~$28,000 (Master's course tuition fees approximately £15,000-£28,000 per year) |
+| Diploma/Certificate | 1-2 years | $5,000~$15,000 (Music conservatory diploma or short course, low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐学位 | 音乐学院或大学 | 可选 | 音乐学士或硕士学位，提供专业训练 |
-| ABRSM等级证书 | 英国皇家音乐学院联合委员会 | 可选 | 乐器演奏等级证书，8级或以上可证明水平 |
-| 教师资格 | 英格兰教学监管局 | 可选 | 若从事音乐教学，需获得合格教师资格（QTS） |
+| Music degree | Conservatorium or university | Optional | Bachelor's or Master's degree in Music, providing professional training |
+| ABRSM graded certificate | Associated Board of the Royal Schools of Music | Optional | Instrument performance grade certificate; Grade 8 or above can prove proficiency. |
+| Teaching Qualification | Office for Standards in Education, Children's Services and Skills | Optional | If teaching music, you need Qualified Teacher Status (QTS) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 48,000。音乐行业竞争激烈，但现场演出、电影配乐和数字音乐平台需求持续。英国创意产业受政府支持，伦敦以外地区机会增多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 48,000. The music industry is highly competitive, but demand for live performances, film scoring, and digital music platforms continues. The UK creative industry is supported by the government, with increasing opportunities outside London.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$30,000 | 兼职或自由职业者收入可能更低 |
-| 中级（3-10年） | $30,000~$50,000 | 管弦乐团成员或稳定合同者 |
-| 高级（10年以上） | $50,000~$100,000 | 首席、指挥或知名独奏家 |
+| Median salary | $46,591 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$30,000 | Part-time or freelancers may earn less. |
+| Intermediate (3-10 years) | $30,000~$50,000 | Orchestra member or stable contract holder |
+| Senior (10+ years) | $50,000~$100,000 | Principal, conductor, or renowned soloist |
+| average salary | $49,384 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从演奏员起步，可晋升为首席、指挥或音乐总监；也可转向作曲、编曲、教学或音乐制作。自由职业者需建立个人品牌。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on musicians is mixed: automation threatens melody creation, basic arrangement, and sound synthesis tasks, but AI tools can enhance improvisation inspiration, sound design, and personalised instruction. High emotional expression and live improvisation skills remain a moat.
+
+Starting as a performer, you can advance to principal, conductor, or music director; also transition to composition, arranging, teaching, or music production. Freelancers need to build a personal brand.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate background music and simple melody creation
+- Basic harmony arrangement and instrumental part production
+- Conventional mixing and mastering in audio post-processing
+- Standard format music score typesetting and printing
+
+**Where AI augments the role:**
+
+- AI real-time harmony suggestions assist improvisation and composition
+- Expanded sound synthesis tool for timbre design and experimental creation
+- Smart sheet music software speeds up notation and arrangement processes
+- AI-simulated ensemble for practice accompaniment in teaching scenarios
+- Data analysis tools optimize performance repertoire and audience preference matching
+
+**Human moat:**
+
+- Deep emotional expression and artistic interpretation
+- Live improvisation and dynamic interaction
+- Cross-cultural integration and unique personal style
+- Human design of complex musical structures
+- Overall concept and command coordination of large-scale works
+
+**Skills to build:**
+
+- Operation of AI music creation tools (e.g., MuseNet, AIVA)
+- Fundamentals of sound design and synthesis
+- Data analysis and music audience insights
+- Interactive music programming (e.g., Max/MSP).
+- Remote rehearsal techniques on collaboration platforms
+- Music therapy and educational methods
+
+**Key growth areas:**
 
 - Live performance
 - Film scoring
@@ -65,65 +100,67 @@ Musicians write, arrange, orchestrate, conduct and perform musical compositions,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Global Talent（Global Talent Visa） | 适用于在音乐领域有杰出成就或潜力的申请人，需获得英国艺术委员会认可。 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请为期2年（博士3年）的毕业生签证，用于积累工作经验。 |
+| Subclass Global Talent (Global Talent Visa) | For applicants with outstanding achievements or potential in music, must be recognized by the UK Arts Council. |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply for a 2-year (3-year for PhD) Graduate Visa to gain work experience. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musicians？**
-- 有强烈音乐天赋和热情，能忍受不稳定收入的人
-- 愿意接受长期训练并不断精进技艺的人
-- 善于自我营销和建立人际网络的人
+**Who is suited**
+- People with strong musical talent and passion who can tolerate unstable income
+- Willing to undergo long-term training and continuously refine skills
+- People who are good at self-promotion and networking
 
-**谁不适合学Musicians？**
-- 追求稳定高收入和固定工作时间的人
-- 不喜欢频繁表演或公众场合压力的人
+**Who is not suited**
+- People seeking stable high income and fixed working hours
+- People who dislike frequent performances or pressure in public settings
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a musician?**
+A: Musician incomes vary widely; full-time orchestra members earn an average of £35,000 per year, while freelancers may earn an average of less than £25,000.
+
+**Q: Can musicians apply for a UK work visa?**
+A: Musicians usually cannot apply for skilled worker visas, but can apply through the Global Talent visa, requiring endorsement from the UK Arts Council.
+
+**Q: Do musicians need formal qualifications?**
+A: Formal qualifications are not required, but a music conservatory degree or ABRSM certificate can boost competitiveness, especially in orchestras and teaching positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Musicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a musician?**
-答：Income varies widely: full-time orchestral musicians average around £35,000, while freelancers may earn less than £25,000.
-
-**问：Can musicians apply for a UK work visa?**
-答：Musicians generally cannot apply for a Skilled Worker visa, but may apply for a Global Talent visa with endorsement from Arts Council England.
-
-**问：Do musicians need formal qualifications?**
-答：Formal qualifications are not mandatory, but a music degree or ABRSM certificates can enhance competitiveness, especially in orchestras and teaching.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Graphic and multimedia designers（Graphic and multimedia designers）职业分析 · UK
+# Graphic and multimedia designers — career analysis · United Kingdom
 
-**职业代码：2142 – Graphic and multimedia designers。**
+**Occupation code: 2142 (SOC)**
 
-Use illustrative, sound, visual and multimedia techniques to convey messages for information, entertainment, advertising, promotion or publicity, and create special visual effects, 3D models and animations for computer games, film, interactive and other media.
+Uses illustration, sound, visuals, and multimedia technology to convey information for information, entertainment, advertising, publicity, or PR purposes, and creates special visual effects, 3D models, and animations for computer games, films, interactive media, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位（BA/BSc） | 3年 | $15,000~$25,000（学费因大学而异，国际学生更高。） |
-| 基础学位或HND | 2年 | $10,000~$18,000（职业导向，学费较低。） |
+| Bachelor's Degree (BA/BSc) | 3 years | $15,000~$25,000 (Tuition fees vary by university; international students pay higher fees.) |
+| Foundation degree or HND. | 2 years | $10,000~$18,000 (Career-oriented with lower tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 平面设计学士学位 | 英国大学 | 可选 | 多数雇主偏好本科以上学历。 |
-| Adobe认证专家（ACE） | Adobe | 可选 | 证明在Photoshop、Illustrator等软件的熟练度。 |
-| 英国特许设计师协会（CSD）会员 | CSD | 可选 | 专业协会会员可提升职业信誉。 |
+| Bachelor's degree in graphic design | UK universities | Optional | Most employers prefer a bachelor's degree or higher. |
+| Adobe Certified Expert (ACE) | Adobe | Optional | Demonstrate proficiency in software such as Photoshop and Illustrator. |
+| Member of the Chartered Society of Designers (CSD) | CSD | Optional | Professional association membership can enhance career credibility. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。英国平面与多媒体设计行业稳步增长，受数字媒体和游戏产业推动。预计未来几年就业机会增加，但竞争激烈，拥有复合技能（如UI/UX、动画）的设计师更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. The UK graphic and multimedia design industry is growing steadily, driven by digital media and gaming. Employment opportunities are expected to increase in the coming years, but competition is fierce. Designers with composite skills (e.g., UI/UX, animation) are more popular.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 伦敦地区通常更高。 |
-| 中级（3-7年） | $30,000~$45,000 | 有经验的设计师薪资增长明显。 |
-| 高级（7年以上） | $50,000~$70,000 | 艺术总监或创意总监薪资更高。 |
+| Median salary | $32,510 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | London area is generally higher. |
+| Mid-level (3–7 years) | $30,000~$45,000 | Experienced designers see significant salary growth. |
+| Senior (7+ years) | $50,000~$70,000 | Art directors or creative directors earn higher salaries. |
+| average salary | $35,344 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级职位如初级设计师或设计助理；累积经验后晋升为高级设计师、艺术总监或创意总监。也可向UX/UI设计、动效设计或3D设计等细分领域专业化发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
+
+Entry-level positions such as junior designer or design assistant; with experience, advance to senior designer, art director, or creative director. Also possible to specialize in areas like UX/UI design, motion design, or 3D design.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of social media templates and ad banners
+- Basic image processing (cutout, color adjustment, filters)
+- Automatically completing layout and formatting based on preset styles
+- Generate simple logo and icon drafts
+- Automated output of print-ready files (bleeds, crop marks)
+
+**Where AI augments the role:**
+
+- Generate creative sketches with AI to rapidly iterate design proposals
+- Leverage AI to analyze user data and optimize visual strategies
+- AI-assisted font matching and color matching to improve design efficiency
+- Auto-generate design variants for A/B testing
+- AI tools enable rapid prototyping of video and motion graphics
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user psychology to define visual direction
+- Original creativity and unique artistic expression
+- Cross-media storytelling (print + digital + environment)
+- Efficient communication and feedback integration with clients and teams
+- Sharp insight into cultural trends and social contexts
+
+**Skills to build:**
+
+- AI design tools (Midjourney, DALL·E 3, Adobe Firefly)
+- Motion design and video editing (After Effects, Premiere Pro)
+- User Experience and Interface Design (Figma, Sketch)
+- Data visualization and infographic design
+- Project management and client communication (agile collaboration)
+- 3D modeling and rendering basics (Blender, C4D)
+
+**Key growth areas:**
 
 - digital media
 - game design
@@ -62,68 +98,67 @@ Use illustrative, sound, visual and multimedia techniques to convey messages for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得内政部认可雇主的工作offer，年薪不低于£26,200或行业特定标准。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在数字技术领域有杰出成就或潜力的设计师，无需雇主担保。 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请，允许在英工作2年（博士3年），无需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Work offer endorsed by the Home Office, annual salary no less than £26,200 or industry-specific standard. |
+| Subclass Global Talent (Global Talent Visa) | Applicable to designers with outstanding achievements or potential in digital technology fields, no employer sponsorship required. |
+| Subclass Graduate (Graduate Visa) | Available to UK graduates, allows working in the UK for 2 years (3 years for PhD), no employer sponsorship required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Graphic and multimedia designers？**
-- 有创造力和艺术天赋的人
-- 精通设计软件并乐于学习新技术的人
-- 适应项目制工作、能接受反馈并快速迭代的人
-
-**谁不适合学Graphic and multimedia designers？**
-- 偏好稳定重复性工作的人
-- 不擅长自我营销或团队协作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and artistic talent
+- Person proficient in design software and eager to learn new technologies
+- Adaptable to project-based work, receptive to feedback, and able to iterate quickly
+
+**Who is not suited**
+- People who prefer stable and repetitive work
+- People not good at self-marketing or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for graphic and multimedia designers in the UK?**
+A: Junior salary is approximately £20,000-£28,000, mid-level £30,000-£45,000, and senior £50,000-£70,000. London salaries are usually higher than elsewhere.
+
+**Q: How can graphic and multimedia designers immigrate to the UK?**
+A: The most common is the Skilled Worker visa, requiring employer sponsorship and meeting a salary threshold. Outstanding talents can apply for the Global Talent visa. UK graduates can gain work experience through the Graduate visa.
+
+**Q: What are the career prospects for this occupation in the UK?**
+A: Employment growth is stable, with high demand in digital media and gaming industries. Competition is fierce, but designers with UI/UX, motion, or 3D skills are more likely to find high-paying jobs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Graphic and multimedia designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for graphic and multimedia designers in the UK?**
-答：Entry-level salaries range from £20,000 to £28,000, mid-level from £30,000 to £45,000, and senior from £50,000 to £70,000. London salaries are typically higher.
-
-**问：How can graphic and multimedia designers migrate to the UK?**
-答：The most common route is the Skilled Worker visa with employer sponsorship and a salary meeting requirements. Outstanding talents may apply for the Global Talent visa. UK graduates can use the Graduate visa to gain work experience.
-
-**问：What is the career outlook for this occupation in the UK?**
-答：Job growth is steady, driven by digital media and gaming industries. Competition is strong, but designers with UI/UX, motion, or 3D skills are more likely to find high-paying roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

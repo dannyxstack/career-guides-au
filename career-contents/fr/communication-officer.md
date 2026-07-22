@@ -1,59 +1,95 @@
-# Communication Officer（Communication Officer）职业分析 · FR
+# Communication Officer — career analysis · France
 
-**职业代码：E1103 – Communication Officer。**
+**Occupation code: E1103 (ROME)**
 
-Communication officers manage internal and external communications, including media relations, content creation, social media management, and public relations campaigns.
+Communications specialists are responsible for internal and external communications within a company or organization, including media relations, content creation, social media management, and public relations event planning.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年 | 2年（BTS Communication） | —（公立学校低学费，学徒制可获收入） |
-| 本科 | 3年（Licence Information-Communication） | $200~$5,000（公立大学约200€/年，私立约3000-5000€/年） |
-| 硕士 | 2年（Master Communication） | $300~$8,000（公立大学约300€/年，高商约8000€/年） |
+| High school graduation + 2 years | 2 years (BTS Communication) | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can generate income) |
+| Bachelor's degree | 3 years (Licence Information-Communication) | $200~$5,000 (Public universities: about €200/year; private: about €3,000–€5,000/year.) |
+| Master's degree | 2 years (Master Communication) | $300~$8,000 (Public universities about €300/year, business schools about €8,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传播专业文凭 | 法国公立大学或私立院校 | 可选 | 推荐至少Licence或Master |
-| 法语能力 | CIEP或法语联盟 | 必备 | 通常要求C1水平 |
+| French language proficiency | CIEP or Francophone Alliance | Required | Usually, C1 level is required |
+| Diploma in Communication | A public university or private institution in France | Optional | At least Licence or Master is recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。法国传播行业就业前景稳定，数字化转型和社交媒体需求推动岗位增长，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. The job outlook for France's communications industry is stable, with digital transformation and social media demand driving job growth, but competition is fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $53,160 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：初级传播助理→传播专员→传播经理→传播总监；可转向数字营销、公关等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
+
+Career development path: Junior Communications Assistant→ Communications Specialist→ Communications Manager→ Communications Director; It can shift to digital marketing, public relations, and other directions.
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting basic press releases and media statements
+- Media monitoring and influence report generation
+- Social media content scheduling and automatic posting
+- Standardized responses to common media inquiries
+- Batch sending of event invitation letters and follow-up emails
+
+**Where AI augments the role:**
+
+- Using AI for media sentiment analysis and trend prediction
+- Optimizing social media ad placement and audience targeting through AI
+- Use AI to generate multiple versions of copy and conduct A/B testing
+- Quickly generate crisis simulation scenarios and response plans using AI tools
+- Develop personalized communication strategies through AI analysis of audience data.
+
+**Human moat:**
+
+- Complex stakeholder relationship management and trust building
+- On-the-spot judgment and impromptu expression in crisis communication
+- Long-term brand strategy planning and cross-department coordination
+- Design creative communication solutions for ambiguous problems
+- Internal communications requiring confidentiality or high sensitivity
+
+**Skills to build:**
+
+- Proficient in using tools like GPTs for copy editing and generating multiple versions
+- Learn basics of natural language processing to understand AI reports
+- Proficient in social media analytics tools (e.g., Brandwatch)
+- Develop data interpretation and visualization skills
+- Improve cross-cultural communication and strategic thinking
+- Familiar with AI-driven public opinion monitoring platforms
+
+**Key growth areas:**
 
 - Digital transformation
 - Social media
@@ -62,68 +98,67 @@ Communication officers manage internal and external communications, including me
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需年薪≥53,000€或硕士学历；有效期4年，可带家属 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，年薪与行业标准相符；有效期1年，可续签 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合非欧盟高技能人才，年薪需≥1.5倍法国平均工资（约54,000€）；有效期1-4年 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an annual salary of €≥53,000 or a master's degree; Valid for 4 years, family members may be brought along |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, annual salary in line with industry standards; Valid for 1 year, renewable with the right to renew |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled non-EU talent, with an annual salary ≥ 1.5 times the French average (about €54,000); Shelf life is 1-4 years |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Communication Officer？**
-- 善于沟通、创造力强的人
-- 对数字媒体和内容创作有兴趣的人
-- 具备团队协作和多任务处理能力的人
-
-**谁不适合学Communication Officer？**
-- 不喜欢公开演讲或写作的人
-- 抗压能力较弱的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good communicators and highly creative
+- People interested in digital media and content creation
+- Individuals with teamwork and multitasking abilities
+
+**Who is not suited**
+- People who dislike public speaking or writing
+- People with low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for communications specialists in France?**
+A: Beginner level is about €25,000-32,000/year, intermediate €32,000-45,000/year, and senior-level can reach €60,000/year.
+
+**Q: Can a communications specialist apply for a French talent passport?**
+A: Yes, you must hold a master's degree or have an annual salary of €53,000 ≥ and be employed by a French employer.
+
+**Q: Are specific qualifications required to work in communications in France?**
+A: No mandatory qualifications are required, but relevant degrees (such as Licence or Master en Communication) and fluency in French are common requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Communication Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a communication officer in France?**
-答：Entry-level: €25,000-32,000/year; mid-level: €32,000-45,000/year; senior: up to €60,000/year.
-
-**问：Can a communication officer apply for a Talent Passport in France?**
-答：Yes, with a master's degree or salary ≥€53,000, and a job offer from a French employer.
-
-**问：Are specific qualifications required to work in communication in France?**
-答：No mandatory certification, but a relevant degree (e.g., Licence or Master in communication) and fluent French are usually required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

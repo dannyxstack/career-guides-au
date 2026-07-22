@@ -1,61 +1,95 @@
-# Training and Development Manager（Training and Development Manager）职业分析 · 新西兰
+# Training and Development Manager — career analysis · New Zealand
 
-**职业代码：223211 – Training and Development Manager。**
+**Occupation code: 223211 (ANZSCO)**
 
-Training and Development Managers design, implement, and evaluate employee training programs to improve organizational performance. Demand is steady in New Zealand, with residency options under Skilled Migrant Category or Green List, suitable for those with HR or teaching backgrounds.
+Training and Development Managers design, implement, and evaluate employee training programs to improve organisational performance. Demand for this occupation is stable in New Zealand, with residency pathways via skilled migration or the Green List, suitable for applicants with HR or teaching backgrounds.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（人力资源/教育/商业） | 3年 | $30,000~$45,000（新西兰大学国际生学费，年均约1-1.5万NZD） |
-| 硕士（人力资源/组织发展） | 1-2年 | $40,000~$55,000（硕士课程总学费，如奥塔哥大学MBA方向） |
-| 短期证书（培训设计/在线学习） | 6个月 | $3,000~$8,000（如ATD证书或Coursera在线学习课程） |
+| Bachelor's degree (Human Resources/Education/Business) | 3 years | $30,000~$45,000 (New Zealand university international student tuition, annual average about 10,000-15,000 NZD) |
+| Master's (Human Resources/Organizational Development) | 1-2 years | $40,000~$55,000 (Total tuition for a master's degree, e.g., MBA at University of Otago) |
+| Short-term certificate (training design/online learning) | 6 months. | $3,000~$8,000 (Such as ATD certification or Coursera online courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰人力资源协会（HRNZ）认可会员 | Human Resources Institute of New Zealand | 可选 | 自愿认证，提升专业信誉 |
-| 培训与评估四级证书（NZ Certificate） | 新西兰学历认证局（NZQA） | 可选 | 适用于培训师角色，部分雇主要求 |
-| 领导力与管理文凭（Level 6） | 新西兰理工学院 | 可选 | 可替代部分经验要求 |
-| 语言能力（雅思6.5或同等） | IELTS等 | 必备 | 移民申请必需 |
+| Language ability (IELTS 6.5 or equivalent) | IELTS, etc. | Required | Required for immigration application |
+| Recognized member of Human Resources New Zealand (HRNZ) | Human Resources Institute of New Zealand | Optional | Voluntary certification to enhance professional credibility |
+| New Zealand Certificate in Training and Assessment (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Applicable for trainer roles, required by some employers |
+| Leadership and Management Diploma (Level 6) | New Zealand Institute of Technology | Optional | Can substitute part of the experience requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,500。新西兰培训与发展经理岗位预计稳定增长，尤其在医疗、IT和建筑行业。疫情影响下，远程培训需求增加，数字化转型推动在线学习设计岗位，但竞争中等，奥克兰以外地区机会更多。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. The Training and Development Manager role in New Zealand is expected to see steady growth, especially in healthcare, IT, and construction. Post-pandemic, demand for remote training has increased, and digital transformation is boosting online learning design roles, though competition is moderate, with more opportunities outside Auckland.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 培训专员或助理经理 |
-| 中级（3-7年） | $80,000~$110,000 | 培训经理，中等企业 |
-| 高级（7年以上） | $120,000~$160,000 | 资深经理或总监，大企业或咨询公司 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Training Specialist or Assistant Manager |
+| Mid-level (3–7 years) | $80,000~$110,000 | Training manager, mid-sized company |
+| Senior (7+ years) | $120,000~$160,000 | Senior manager or director in large enterprises or consulting firms |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 可从培训专员晋升为培训与发展经理，再至人力资源总监或学习与开发总监。获取新西兰人力资源协会（HRNZ）认证或项目管理认证（如PRINCE2）有助于晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation reshapes corporate training roles: content production and administrative tasks are compressed, but trainers' value in strategy design, evaluation and coaching is amplified, and the role upgrades to learning experience designer.
+
+Can advance from training specialist to training and development manager, then to HR director or learning and development director. Obtaining certification from the Human Resources Institute of New Zealand (HRNZ) or project management certification (e.g., PRINCE2) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine courseware creation (using AI to generate PPTs, video scripts)
+- Training data recording and report generation (via automated tracking systems)
+- Basic new employee onboarding training (standardised content delivered by AI virtual assistants)
+- Training schedule management and notifications (automated system management)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes employee skill gaps, trainer customizes plans)
+- Training effectiveness evaluation and iteration (AI data feedback helps optimize courses)
+- Simulation drills and role-playing (AI-generated scenario scripts)
+- Participatory workshop design (AI provides interactive tool support)
+
+**Human moat:**
+
+- Organisational strategy-based learning needs diagnosis
+- Coaching and facilitation for senior leadership training
+- Complex interpersonal communication and motivational skills
+- Tacit knowledge transfer in corporate culture and change management
+- Cross-departmental business collaboration and customized solutions
+
+**Skills to build:**
+
+- Learning Experience Design (LXD)
+- Data Analysis and Evaluation (LMS/Learning Analytics)
+- AI tool applications (e.g., Articulate Rise AI, Synthesia)
+- Agile project management
+- Change management and coaching techniques
+- Digital content creation (video/interactive modules)
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 1
@@ -64,69 +98,68 @@ Training and Development Managers design, implement, and evaluate employee train
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制（学历+新西兰工作经历+工资），要求工资中位数以上（当前约29.66NZD/小时） |
-| Subclass Green List T1（Green List Straight to Residence） | 培训与发展经理在绿色清单T1，直接居留通道，需认证雇主且工资中位数1.5倍 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可在新西兰工作2-3年，满足条件可转居留 |
-| Subclass Green List T2（Green List Work to Residence） | 工作2年后转居留，需认证雇主且满足工资要求 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point system (qualifications + NZ work experience + salary), requiring salary above median (currently approx. NZD 29.66/hour). |
+| Subclass Green List T1 (Green List Straight to Residence) | Training and Development Manager on Green List Tier 1, direct residence pathway, requires accredited employer and 1.5 times median wage |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, allows working in New Zealand for 2-3 years, eligible for residency if conditions met. |
+| Subclass Green List T2 (Green List Work to Residence) | Residency after 2 years of work, requires accredited employer and meeting salary requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Training and Development Manager？**
-- 具备人力资源管理或教育学背景，希望在新西兰从事稳定管理岗位者
-- 有企业培训经验，善于沟通与组织，愿意适应新西兰文化环境
-- 追求高薪资与职业发展空间，接受奥克兰以外区域工作者
-
-**谁不适合学Training and Development Manager？**
-- 不愿接触多任务和跨部门协调，偏好单一技术工作
-- 缺乏英语或当地HR法规知识，难以快速融入新西兰职场
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a background in human resource management or education, seeking a stable management role in New Zealand
+- Has corporate training experience, good communication and organizational skills, willing to adapt to New Zealand's cultural environment
+- Those seeking high salary and career development opportunities, willing to work outside Auckland.
+
+**Who is not suited**
+- Unwilling to handle multitasking and cross-department coordination, preferring single technical work
+- Lack of English or local HR regulations knowledge makes it difficult to quickly integrate into the New Zealand workplace
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Training and Development Managers in New Zealand?**
+A: Junior training specialist annual salary approx. NZ$55,000-70,000, mid-level manager NZ$80,000-110,000, senior manager or director up to NZ$120,000-160,000. Actual salary depends on industry, city, and company size.
+
+**Q: Can training and development managers obtain New Zealand residency through skilled migration?**
+A: Yes. This occupation is on Green List Tier 1 Straight to Residence, meeting 1.5 times the median wage and accredited employer conditions allows direct residence application; or via SMC or Work to Residence pathways, but must meet the 6-point system requirements.
+
+**Q: What is the demand trend for training and development managers in New Zealand?**
+A: Steady demand growth, especially in healthcare, construction, and IT industries. Digital transformation drives online learning design roles, and post-pandemic normalization of remote training increases employment opportunities, but jobs are easier to find outside Auckland.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Training and Development Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Training and Development Manager in New Zealand?**
-答：Junior trainers earn NZD 55,000-70,000; mid-level managers NZD 80,000-110,000; senior managers or directors NZD 120,000-160,000. Salary depends on industry, location, and company size.
-
-**问：Can a Training and Development Manager obtain New Zealand residency through skilled migration?**
-答：Yes. The occupation is on Green List Tier 1 (Straight to Residence), requiring 1.5x median wage and accredited employer. SMC (6-point system) or Work to Residence also possible.
-
-**问：What is the demand trend for Training and Development Managers in New Zealand?**
-答：Demand is growing steadily, especially in healthcare, construction, and IT. Digital transformation boosts e-learning roles; remote training post-COVID expands opportunities, but jobs are more available outside Auckland.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Sales Workers Not Elsewhere Classified（Sales Workers Not Elsewhere Classified）职业分析 · NL
+# Sales Workers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：5249 – Sales Workers Not Elsewhere Classified。**
+**Occupation code: 5249 (ISCO08)**
 
-Includes various unclassified sales roles such as street vendors, telemarketers, and direct sales representatives, primarily engaged in direct selling of goods or services in retail and service sectors.
+Includes various sales jobs not elsewhere classified, such as street vendors, telemarketers, direct sales representatives, primarily engaged in direct selling of goods or services in retail and service industries.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-3年 | $6,000~$12,000（每年学费约2000-4000欧元） |
-| 高中文凭 | 无需额外教育 | —（仅需高中毕业） |
+| Secondary vocational education (MBO) | 2-3 years | $6,000~$12,000 (Annual tuition around €2,000–4,000) |
+| High school diploma | No additional education required | $0~$0 (Only requires high school graduation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 多数雇主不要求特定证书，但销售技巧培训有优势 |
-| SVH 销售证书 (可选) | SVH (Stichting Vakbekwaivoor Horeca) | 可选 | 针对 hospitality 销售，提升竞争力 |
+| No mandatory certification | None | Optional | Most employers do not require a specific certificate, but sales skills training is advantageous. |
+| SVH Sales Certificate (optional) | SVH (Stichting Vakbekwaivoor Horeca) | Optional | Enhance competitiveness in hospitality sales |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 45,000。荷兰零售业稳定但竞争激烈，电子商务增长挤压传统销售岗位，但面对面销售在旅游和 hospitality 领域仍有需求。预计就业增长平稳，流动性高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The Dutch retail sector is stable but competitive, with e-commerce growth squeezing traditional sales roles, but face-to-face sales remain in demand in tourism and hospitality. Employment growth is expected to be steady with high turnover.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，包括基本工资和佣金 |
-| 中级（3-7年） | $30,000~$40,000 | 有经验者佣金比例更高 |
-| 高级（7年以上） | $40,000~$55,000 | 包括团队管理或关键客户岗位 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary, including base salary and commission |
+| Mid-level (3–7 years) | $30,000~$40,000 | Experienced individuals receive higher commission rates. |
+| Senior (7+ years) | $40,000~$55,000 | Includes team management or key account positions |
+| average salary | $36,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从初级销售员可晋升为销售主管、区域经理，或转向数字营销和客户关系管理。行业内部轮岗机会较多，但晋升需要较强业绩和沟通能力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation includes many low-skill sales positions, such as telemarketing and street vending; AI automation (e.g., chatbots, self-checkout) will gradually replace these tasks, and the number of jobs is expected to decrease.
+
+Junior sales staff can progress to sales supervisor, regional manager, or move into digital marketing and customer relationship management. Internal rotations are common, but promotion requires strong performance and communication skills.
+
+**Tasks most exposed to AI:**
+
+- Automated outbound calling and initial screening
+- Street vendor's product sales and payment collection
+- Standard repetitive answers to product information
+- Script-based sales pitch execution
+- Simple order entry and processing
+
+**Where AI augments the role:**
+
+- Using CRM and AI to analyze customer data for optimizing sales strategies
+- Use AI tools to automate customer follow-up and schedule management
+- Using chatbots to handle common inquiries, freeing up time for complex customer issues
+- Using predictive analytics to identify potential high-value customers
+- Generate personalized sales proposals with AI assistance
+
+**Human moat:**
+
+- Building long-term client relationships and trust
+- Handle complex objections and personalized needs
+- Negotiation and high emotional intelligence communication
+- Cross-cultural interpersonal skills
+- On-site demonstration and experiential sales
+
+**Skills to build:**
+
+- CRM system operation and data analysis
+- Use of AI sales assistants (e.g., conversational AI platforms)
+- Digital Marketing and Social Media Sales
+- Customer relationship management and maintenance
+- Basic data interpretation and reporting
+- Negotiation and Persuasion Skills
+
+**Key growth areas:**
 
 - E-commerce impact
 - Customer experience focus
@@ -63,66 +99,68 @@ Includes various unclassified sales roles such as street vendors, telemarketers,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于年收入高于阈值（2024年约€4,500/月）的销售经理或专家，需有雇主担保。 |
-| Subclass Orientation Year (zo（Orientation Year (zoekjaar)） | 适用于在荷兰毕业的硕士或博士，可工作一年寻找高技术岗位。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪销售专家（年收入高于€5,600/月），需有高等教育背景和雇主担保。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | For sales managers or specialists earning above the threshold (approx. €4,500/month in 2024), requiring employer sponsorship. |
+| Subclass Orientation Year (zo (Orientation Year (zoekjaar)) | Applicable to master's or PhD graduates in the Netherlands, allowing one year to find a high-skilled position. |
+| Subclass EU Blue Card (EU Blue Card) | For high-paid sales specialists (annual income >€5,600/month), requires higher education background and employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Workers Not Elsewhere Classified？**
-- 善于沟通、乐于助人、喜欢与人互动的人
-- 适应灵活工作时间，包括周末和节假日
-- 愿意从底层做起，通过业绩晋升
+**Who is suited**
+- People who are good at communicating, helpful, and enjoy interacting with others
+- Adapt to flexible working hours, including weekends and holidays
+- Willing to start from the bottom and advance through performance
 
-**谁不适合学Sales Workers Not Elsewhere Classified？**
-- 不喜欢面对拒绝和压力的人
-- 偏好稳定、固定工作环境和办公桌工作的人
+**Who is not suited**
+- People who dislike facing rejection and pressure
+- Prefers stable, fixed work environment and desk job
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for sales occupations in the Netherlands?**
+A: Junior salesperson annual salary approx. €23,000-28,000, senior sales or management roles can reach €40,000-55,000, with a high commission component.
+
+**Q: Can foreigners immigrate to the Netherlands through sales jobs?**
+A: General sales roles do not meet the high-skilled migration threshold, but sales manager or specialist positions may qualify for the Highly Skilled Migrant visa or EU Blue Card if salary requirements are met.
+
+**Q: What is the career progression path for sales positions?**
+A: Can progress from sales representative to sales supervisor, regional manager, or transition to marketing, customer relationship management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sales Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sales workers in the Netherlands?**
-答：Entry-level sales workers earn around €23,000-€28,000 annually, while senior or managerial roles can reach €40,000-€55,000, with commissions making up a significant portion.
-
-**问：Can foreigners immigrate to the Netherlands through sales jobs?**
-答：Standard sales positions do not meet the high-skilled migration threshold, but sales manager or specialist roles that meet salary requirements can qualify for the Highly Skilled Migrant visa or EU Blue Card.
-
-**问：What is the career progression for sales positions?**
-答：Career path can progress from sales representative to sales supervisor, regional manager, or pivot to marketing and customer relationship management.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

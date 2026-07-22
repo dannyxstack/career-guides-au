@@ -1,59 +1,95 @@
-# ICT Business Development Manager（ICT Business Development Manager）职业分析 · 新西兰
+# ICT Business Development Manager — career analysis · New Zealand
 
-**职业代码：225212 – ICT Business Development Manager。**
+**Occupation code: 225212 (ANZSCO)**
 
-Responsible for client acquisition and solution selling of IT products/services in New Zealand; eligible for Skilled Migrant Category with ACS assessment.
+Responsible for client development and sales of New Zealand enterprise IT solutions, often gaining residency through skilled migration, requiring ANZSCO skill level 1-3 and ACS certification.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3-4年 | $40,000~$55,000（新西兰大学商科/IT相关学士年学费约NZD 40,000-55,000） |
-| 硕士文凭/证书 | 1-2年 | $30,000~$60,000（研究生文凭或硕士年学费约NZD 30,000-60,000） |
+| Bachelor's degree | 3-4 years | $40,000~$55,000 (Annual tuition for a bachelor's degree in business/IT at a New Zealand university is about NZD 40,000-55,000) |
+| Master's diploma/certificate | 1-2 years | $30,000~$60,000 (Annual tuition for a postgraduate diploma or master's degree is approximately NZD 30,000-60,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ACS技能评估 | Australian Computer Society (ACS) | 必备 | 技术移民必备，需相关学历+工作经验 |
-| 英语雅思6.5分 | IELTS | 必备 | 技术移民语言要求，单项不低于6.0 |
-| NZ注册销售认证（可选） | NZ Institute of Sales Management | 可选 | 虽非强制，但提升竞争力 |
+| ACS Skills Assessment | Australian Computer Society (ACS) | Required | Required for skilled migration; relevant degree plus work experience needed |
+| IELTS score of 6.5 | IELTS | Required | Skilled migration language requirement: no band below 6.0 |
+| NZ Registered Sales Certification (optional) | NZ Institute of Sales Management | Optional | Although not mandatory, it enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。随着数字化转型加速，新西兰IT服务业持续增长，尤其奥克兰、惠灵顿需求旺盛。预测未来5年就业人数上升约10%，但竞争激烈。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,500. With the acceleration of digital transformation, New Zealand's IT service industry continues to grow, especially strong demand in Auckland and Wellington. Employment numbers are predicted to rise by about 10% over the next five years, but competition is fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 起薪约NZD 70,000-95,000 |
-| 中级（3-7年） | $95,000~$130,000 | NZD 95,000-130,000 |
-| 高级（7年以上） | $130,000~$180,000 | 资深可超NZD 180,000 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$95,000 | Starting salary approx. NZD 70,000-95,000 |
+| Mid-level (3–7 years) | $95,000~$130,000 | NZD 95,000-130,000 |
+| Senior (7+ years) | $130,000~$180,000 | Senior can exceed NZD 180,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从销售代表晋升至区域经理、销售总监，或转向产品管理、咨询。积累客户资源后，可创业成立IT代理公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of ICT sales (business development manager) is undergoing a 'mixed' transformation: AI automates customer information collection, proposal generation, and report writing, but high-value customer relationship building, strategic negotiation, and complex solution customization still rely on humans, and AI enhances data analysis, customer insights, and sales forecasting, boosting efficiency.
+
+Can advance from sales representative to regional manager or sales director, or transition to product management or consulting. After accumulating client resources, one can start an IT agency.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate Standard Quotes, Proposals, and Technical Drafts
+- Analyze historical customer data to automatically screen potential clients
+- Automated monitoring of competitor dynamics and market trend reports
+- Automatically schedule sales follow-up reminders and some email communications.
+- Automatically collate customer interaction records and update CRM
+
+**Where AI augments the role:**
+
+- Leveraging AI to analyze client industry pain points for precise solution recommendations
+- Optimise conversation strategies using AI sales assistants (e.g., Gong.io)
+- Identify high-intent customers through predictive models and prioritize follow-ups
+- Use AI tools to automatically create personalized presentation slides and videos
+- Use natural language processing to translate multilingual customer communications in real time
+
+**Human moat:**
+
+- Build deep client trust and long-term relationships
+- Complex contract negotiation and the art of price compromise
+- Cross-departmental coordination to drive customized project delivery
+- Understand client implicit needs and industry scenarios
+- Manage the politics and decision-making processes of key accounts
+
+**Skills to build:**
+
+- CRM automation tools (Salesforce Einstein)
+- Conversation intelligence analysis (Chorus/Gong)
+- Data visualization (Tableau/Power BI)
+- Social media selling (LinkedIn Sales Navigator)
+- Project management (Agile/Scrum)
+- Basic Python or RPA automation scripts
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Services
@@ -62,68 +98,67 @@ Responsible for client acquisition and solution selling of IT products/services 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需满足6分制（学历+工作经验+年龄等），澳洲ANZSCO 1-3级职业，底薪达中位数 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 虽不直接列于绿色清单，但可通过高薪（2倍中位数）或其它途径申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，薪资达标，可转居留 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, must meet 6-point system (qualifications + work experience + age etc.), ANZSCO skill level 1-3, salary reaches median |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Although not directly listed on the Green List, it can be applied for via high salary (2x median) or other pathways |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requiring employer sponsorship, meeting salary threshold, with pathway to residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学ICT Business Development Manager？**
-- 拥有IT或商科背景，善于沟通与谈判的销售人才
-- 想在技术领域结合商业能力快速移民的申请人
-- 具备行业人脉或客户资源，能快速开展业务
-
-**谁不适合学ICT Business Development Manager？**
-- 缺乏销售经验，不愿进行高压客户开拓的人
-- 不擅长英语沟通，难以完成全球客户交流
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Sales talent with IT or business background, good communication and negotiation skills
+- Applicants who want to combine technical skills with business acumen for fast immigration.
+- Have industry connections or client resources to quickly develop business
+
+**Who is not suited**
+- People lacking sales experience and unwilling to engage in high-pressure customer acquisition
+- Not proficient in English communication, difficult to handle global client interactions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an ICT Business Development Manager in New Zealand?**
+A: Entry-level about NZ$70,000-95,000, mid-level $95,000-130,000, senior $130,000-180,000+, tied to sales performance.
+
+**Q: Can this occupation apply for skilled migration to New Zealand?**
+A: Yes, requires ACS assessment and a salary above the median, pursuing SMC or Green List high-wage pathway.
+
+**Q: Is a New Zealand qualification required for immigration?**
+A: Not mandatory, but holding a New Zealand qualification can earn extra points under the 6-point system.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-ICT Business Development Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for ICT Business Development Manager in NZ?**
-答：Entry-level NZD 70,000-95,000, mid-level NZD 95,000-130,000, senior NZD 130,000-180,000+, performance-based.
-
-**问：Can this occupation qualify for skilled migration in NZ?**
-答：Yes, requires ACS assessment and salary above median; eligible for SMC or high-salary Green List pathway.
-
-**问：Is a New Zealand qualification required for immigration?**
-答：No, but a NZ qualification can provide additional points under the 6-point system.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

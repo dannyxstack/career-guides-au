@@ -1,58 +1,94 @@
-# Civil Engineer（Civil Engineer）职业分析 · NL
+# Civil Engineer — career analysis · Netherlands
 
-**职业代码：2142 – Civil Engineer。**
+**Occupation code: 2142 (ISCO08)**
 
-Civil engineers design, construct, and maintain infrastructure projects such as roads, bridges, dams, and buildings. The profession is in steady demand in the Netherlands, involving both public and private sectors.
+Civil engineers design, build, and maintain infrastructure projects such as roads, bridges, dams, and buildings. This occupation has stable demand in the Netherlands, involving both public and private sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $2,000~$15,000（荷兰大学本科每年学费约2,000-15,000欧元（欧盟/非欧盟差异大）） |
-| 硕士 | 2年 | $2,000~$20,000（硕士阶段学费更高，非欧盟学生约15,000-20,000欧元/年） |
+| Bachelor's degree | 4 years | $2,000~$15,000 (Annual undergraduate tuition at Dutch universities ranges from approximately €2,000 to €15,000 (varies significantly between EU and non-EU students)) |
+| Master's degree | 2 years | $2,000~$20,000 (Master's level tuition fees are higher, approximately 15,000-20,000 euros per year for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程学位（BSc/MSc） | 荷兰认可大学 | 必备 | 必备基础学历，需为荷兰认可院校 |
-| 注册工程师（Ing. 或 ir.） | 荷兰工程师协会（KIVI） | 可选 | 持此类注册可正式使用工程师称谓，非强制但有利 |
+| Civil engineering degree (BSc/MSc) | Dutch recognized university | Required | Required basic degree, must be from a Dutch-recognized institution. |
+| Registered engineer (Ing. or ir.) | Royal Institute of Engineers (KIVI) | Optional | Holding this registration allows formal use of the engineer title; not mandatory but beneficial. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。荷兰面临住房短缺和基础设施老化问题，政府计划大量投资于建筑和水利工程，土木工程师需求预计持续增长。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The Netherlands faces housing shortages and aging infrastructure. The government plans significant investment in construction and water engineering, so demand for civil engineers is expected to grow.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含假期津贴 |
-| 中级（4-7年） | $45,000~$60,000 | 税前年薪，含假期津贴 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪，项目经理或专家更高 |
+| Median salary | $64,615 | Median salary (official: CBS median hourly wage €32.7/hour × 1976 hours annualized, BRC group 0712 Engineers (excluding electrical engineering); P25–P75 €49,202–€83,190, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (4-7 years) | $45,000~$60,000 | Pre-tax annual salary, including holiday allowance |
+| Senior (8+ years) | $60,000~$80,000 | Annual salary before tax, higher for project managers or specialists |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级工程师可从设计或现场监督起步，积累经验后晋升为项目经理或专业领域专家，高级职位可成为技术总监或独立顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Junior engineers can start from design or site supervision, gain experience, and advance to project manager or specialist roles; senior positions can become technical directors or independent consultants.
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Infrastructure
 - Water management
@@ -61,68 +97,67 @@ Civil engineers design, construct, and maintain infrastructure projects such as 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，雇主担保，收入门槛约5,008欧元/月（30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需雇佣合同且年薪不低于约55,000欧元（2024年标准） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业留学生可在毕业后一年内找工，无需雇主担保 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigration, employer sponsorship, income threshold approximately €5,008/month (over 30 years old) |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled workers, requiring an employment contract and annual salary of at least approximately €55,000 (2024 standard) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities can find jobs within one year after graduation without employer sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineer？**
-- 擅长数学和物理，注重细节的人
-- 对大型基础设施项目有热情，愿意承担社会责任的人
-- 具备解决问题和团队协作能力的人
-
-**谁不适合学Civil Engineer？**
-- 不喜欢户外工作和现场监督的人
-- 对持续学习和职业认证缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in math and physics who are detail-oriented.
+- People passionate about large-scale infrastructure projects and willing to take on social responsibility
+- People with problem-solving and teamwork skills
+
+**Who is not suited**
+- People who dislike outdoor work and on-site supervision
+- Those lacking patience for continuous learning and professional certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for civil engineers in the Netherlands?**
+A: Entry-level salary about €35,000–€45,000, mid-level €45,000–€60,000, senior up to €80,000 or more (pre-tax annual salary).
+
+**Q: How can overseas civil engineers immigrate to the Netherlands?**
+A: Can obtain a work visa through the Highly Skilled Migrant (kennismigrant) scheme, requiring employer sponsorship and meeting income thresholds. EU citizens can move freely.
+
+**Q: What is the career development path for a civil engineer in the Netherlands?**
+A: Starting from entry-level design or on-site engineer, you can advance to project manager, specialist in a field (e.g. water, structure), or become an independent consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a civil engineer in the Netherlands?**
-答：Entry-level salary ranges from €35,000 to €45,000, mid-level from €45,000 to €60,000, and senior can reach €80,000 or more (gross annual).
-
-**问：How can a foreign civil engineer immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant program with employer sponsorship and income threshold; EU citizens have free movement.
-
-**问：What is the career progression for civil engineers in the Netherlands?**
-答：Start as junior design or field engineer, progress to project manager, specialist (e.g., water, structural), or independent consultant.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

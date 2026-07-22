@@ -1,61 +1,97 @@
-# Health and Welfare Services Manager（Health and Welfare Services Manager）职业分析 · 新西兰
+# Health and Welfare Services Manager — career analysis · New Zealand
 
-**职业代码：134211 – Health and Welfare Services Manager。**
+**Occupation code: 134211 (ANZSCO)**
 
-Health and Welfare Services Managers oversee hospital departments, aged care, community health, and disability services, ensuring operational compliance, team management, and high-quality care. The role is on New Zealand's Green List Tier 1, enabling direct residency.
+Medical and welfare services managers oversee hospital departments, aged care facilities, community health, and disability services, ensuring operational compliance, team efficiency, and high-quality patient care. This occupation is on New Zealand's Green List Tier 1, allowing direct residency application, making it immigration-friendly.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位（健康管理相关） | 3年 | $40,000~$60,000（新西兰大学本科国际生学费，如奥克兰大学） |
-| 硕士学位（健康管理） | 1.5年 | $50,000~$70,000（如奥塔哥大学硕士课程） |
+| Bachelor's degree (health administration related) | 3 years | $40,000~$60,000 (International undergraduate tuition fees at New Zealand universities, e.g., University of Auckland) |
+| Master's degree (Health Management) | 1.5 years | $50,000~$70,000 (e.g., University of Otago master's program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康管理研究生文凭 | 新西兰健康管理学会（HINZ） | 可选 | 非强制，但有利于职业发展 |
-| 新西兰注册护士或社工资质 | 新西兰护理委员会或社工注册局 | 可选 | 部分雇主要求相关专业背景 |
-| 雅思取得4个7分 | IELTS | 必备 | 技术移民英语要求 |
+| IELTS score of 4 sevens (7.0 each band) | IELTS | Required | English language requirements for skilled migration |
+| Graduate Diploma in Health Management | Health Informatics New Zealand (HINZ) | Optional | Not mandatory, but beneficial for career development |
+| New Zealand registered nurse or social worker qualification | New Zealand Nursing Council or Social Work Registration Board | Optional | Some employers require relevant educational background |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,200。随着新西兰人口老龄化及医疗需求增长，医疗及福利服务经理的需求持续强劲。尤其在养老、社区健康和残障服务领域，岗位增长稳定。预计未来5年就业机会良好。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. As New Zealand's population ages and healthcare demand grows, demand for medical and welfare services managers remains strong, especially in aged care, community health, and disability services. Job growth is stable over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | 年薪，需额外福利及绩效 |
-| 中级（3-7年） | $110,000~$140,000 | 年薪，含管理更大团队 |
-| 高级（7年以上） | $150,000~$200,000 | 年薪，如区域经理或总监 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $80,000~$100,000 | Annual salary with additional benefits and performance pay |
+| Mid-level (3–7 years) | $110,000~$140,000 | Annual salary, including managing larger teams |
+| Senior (7+ years) | $150,000~$200,000 | Annual salary, e.g., regional manager or director |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从医疗或社会福利专业人员起步，如护士、社工。晋升路径包括：部门经理 → 区域经理 → 运营总监 → 执行总裁。可考取新西兰健康管理学会（HINZ）认证，提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
+
+Usually starts from medical or social welfare professionals, such as nurses or social workers. Career progression includes: department manager → regional manager → operations director → CEO. Can obtain Health Informatics New Zealand (HINZ) certification to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating operational reports, compliance documents, and KPI dashboards
+- Using AI for Social/Medical Insurance Claims Review and Anomaly Alerts
+- AI-optimized shift scheduling systems reduce manual scheduling workload
+- Transcribing and organising meeting minutes and action items via voice AI
+- Automatically monitor budget expenditure deviations and generate warning notifications
+
+**Where AI augments the role:**
+
+- AI analyzing patient flow and resource gaps to assist department budgeting and workforce planning
+- Utilizing predictive models to optimize long-term care needs and resource allocation
+- AI-assisted review of policy changes' impact on institutional compliance, providing compliance risk scores
+- Analyze employee feedback and satisfaction surveys via NLP to assist team management decisions
+- AI automatically matches patients/clients with available service resources to improve service coordination efficiency
+
+**Human moat:**
+
+- Face-to-face family communication, team motivation, and conflict mediation
+- Making final decisions in complex ethical and legal situations
+- Handling Unstructured Crises (e.g., Sudden Outbreaks, Casualties)
+- Establish and maintain cross-agency collaboration networks and trust relationships
+- Judging and refining AI suggestions based on organizational culture and values
+
+**Skills to build:**
+
+- Data analysis and visualization (Tableau, Power BI)
+- Medical/social insurance policy knowledge and compliance management
+- AI tool applications (ChatGPT, Copilot, low-code platforms)
+- Change management and organizational psychology
+- Basic programming skills (Python/R for automated reporting)
+- Interpersonal communication and conflict resolution skills
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,69 +100,68 @@ Health and Welfare Services Managers oversee hospital departments, aged care, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单Tier 1要求，可直接申请居留，无需先工作。需有认证雇主offer且薪资达标。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，根据学历、工作及薪资综合打分。职业在ANZSCO技能等级1，可获认可。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若暂时不符合居留条件，可通过认证雇主工签进入新西兰工作，积累经验后再申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 requirements; can apply for residence directly without working first. Must have a certified employer offer and meet salary thresholds. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration, scoring based on education, work experience, and salary. Occupations at ANZSCO skill level 1 are eligible for recognition. |
+| Subclass AEWV (Accredited Employer Work Visa) | If not immediately eligible for residency, you can work in NZ via an Accredited Employer Work Visa, gain experience, then apply for residency. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health and Welfare Services Manager？**
-- 有医疗或社会福利背景的管理者，希望快速获得新西兰居留
-- 善于协调、沟通，能在多元文化环境中领导团队
-- 希望在稳定且需求增长的行业长期发展
-
-**谁不适合学Health and Welfare Services Manager？**
-- 缺乏临床或社会工作经验，难以有效管理一线员工
-- 不愿承担较高工作强度与责任
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Managers with medical or social welfare background seeking quick New Zealand residency
+- Good at coordination and communication, able to lead teams in a multicultural environment
+- Hoping for long-term development in a stable and growing industry
+
+**Who is not suited**
+- Lack of clinical or social work experience, making it difficult to effectively manage frontline staff
+- Unwilling to take on high work intensity and responsibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Medical and Welfare Services Managers in New Zealand?**
+A: Divided into three levels based on experience: entry-level annual salary NZD 80,000-100,000, mid-level NZD 110,000-140,000, senior NZD 150,000-200,000. Senior roles such as regional manager can exceed NZD 200,000.
+
+**Q: How to immigrate to New Zealand as a medical and health services manager?**
+A: This occupation is on the Green List Tier 1, eligible for a Straight to Residence Visa, requiring an offer from an accredited employer and meeting salary thresholds. It can also be accessed through Skilled Migrant Category (6-point system) or AEWV as a transition.
+
+**Q: What educational background is required for this occupation?**
+A: Typically requires a bachelor's degree in health management, public health, or related field. New Zealand universities like the University of Auckland offer relevant courses. A master's degree can improve competitiveness but is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（3-5年）（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Health and Welfare Services Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Health and Welfare Services Managers in New Zealand?**
-答：Entry-level (0-3 years) NZ$80,000-$100,000; mid-level (3-7 years) NZ$110,000-$140,000; senior (7+ years) NZ$150,000-$200,000 per year.
-
-**问：How can I migrate to New Zealand as a Health and Welfare Services Manager?**
-答：The role is on Green List Tier 1, eligible for Straight to Residence Visa with a job offer from an accredited employer and meeting salary threshold. Alternatively, Skilled Migrant Category (6-point system) or AEWV.
-
-**问：What education is required for this role?**
-答：Typically a bachelor's degree in health management, public health, or related field. NZ universities like University of Auckland offer courses. A master's degree can enhance competitiveness but is not mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

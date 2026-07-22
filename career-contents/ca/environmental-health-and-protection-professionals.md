@@ -1,61 +1,97 @@
-# Environmental health and protection professionals（Environmental health and protection professionals）职业分析 · 加拿大
+# Environmental health and protection professionals — career analysis · Canada
 
-**职业代码：21112 – Environmental health and protection professionals。**
+**Occupation code: 21112 (NOC)**
 
-Enforce public health regulations (food safety, water quality, disease control) for federal, provincial, and municipal governments; require CPHI(C) certification; eligible for PNP but not core Express Entry occupation.
+Environmental health regulation in Canadian government (federal, provincial, municipal) and public health agencies, including food safety, water quality monitoring, and infectious disease control. Requires registration as a Public Health Inspector or Environmental Health Officer (CPHI(C)). Eligible for Provincial Nominee Programs but not a core occupation under Federal Express Entry.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（加拿大大学学费因省份而异，国际生更高） |
-| 硕士（可选） | 1-2年 | $15,000~$40,000（有助于晋升至高级职位） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Canadian university tuition varies by province; international students pay more) |
+| Master's degree (optional) | 1-2 years | $15,000~$40,000 (Helps advance to senior positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大公共健康督察认证（CPHI(C)） | 加拿大公共健康督察协会（CIPHI） | 必备 | 必须持有方能从事该职业 |
-| 省级执业注册 | 各省监管机构 | 必备 | 如安大略需注册为公共健康督察 |
-| 语言成绩（雅思或思培） | IELTS/CELPIP | 必备 | 移民要求CLB 7，执照可能要求更高 |
+| Canadian Public Health Inspector Certification (CPHI(C)) | Canadian Institute of Public Health Inspectors (CIPHI) | Required | Must hold to practice in the occupation |
+| Provincial practice registration | Provincial regulatory bodies | Required | e.g., registration as a public health inspector in Ontario |
+| Language test scores (IELTS or CELPIP) | IELTS/CELPIP | Required | Immigration requires CLB 7, license may require higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,500。受公共卫生意识增强及气候变化影响，加拿大对水质监测、食品安全、传染病防控的需求持续增长，尤其在安大略、不列颠哥伦比亚和阿尔伯塔省。预计未来5年就业增长稳健，但竞争中等，因政府岗位有限。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,500. Driven by increased public health awareness and climate change, Canada's demand for water quality monitoring, food safety, and infectious disease control continues to grow, especially in Ontario, British Columbia, and Alberta. Employment growth is expected to be steady over the next 5 years, but competition is moderate due to limited government positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 市政府或卫生局初级岗位 |
-| 中级（3-7年） | $70,000~$90,000 | 资深督察或高级职称 |
-| 高级（7年以上） | $90,000~$110,000 | 部门经理或省级专家 |
+| Median salary | $83,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level positions at municipal government or health bureau |
+| Mid-level (3–7 years) | $70,000~$90,000 | Senior inspector or senior title |
+| Senior (7+ years) | $90,000~$110,000 | Department manager or provincial specialist |
+| average salary | $85,280 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径：初级环境健康官员→高级督察→地区主管→部门经理；或转至政策制定、咨询或非营利领域。拥有硕士学历或多年经验者可担任省级或联邦专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some data collection and reporting tasks, but core on-site inspections, enforcement discretion, and public health decision-making responsibilities still require humans; the role presents both risks and opportunities.
+
+Career path: Junior environmental health officer → Senior inspector → Regional supervisor → Department manager; or transition to policy development, consulting, or non-profit. Those with a master's degree or many years of experience can serve as provincial or federal experts.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate routine food safety inspection reports and statistical summaries.
+- Automatic online water quality monitoring and anomaly alarm based on sensor data
+- Using natural language processing to extract requirements from regulatory documents and match them against checklists.
+- Automated summary of online infectious disease case reports and preliminary outbreak signal detection
+- Standardized health risk assessment questionnaire auto-distribution and score calculation
+
+**Where AI augments the role:**
+
+- AI-assisted identification of subtle trends and potential pollution sources in water quality monitoring data
+- Historical data-based risk prediction models guide on-site inspection priority allocation
+- Natural language search for quick retrieval of complex public health regulations and precedents
+- AI vision analysis helps identify hygiene risks (e.g., cross-contamination) in food processing areas.
+- Using chatbots to improve public health education and survey response rates
+
+**Human moat:**
+
+- On-site enforcement discretion: assessing violation severity and deciding between immediate penalties or corrective actions
+- Cross-departmental coordination and emergency decision-making in public health crises
+- Deep understanding of community cultural backgrounds to effectively communicate sensitive health issues
+- Legal litigation support: serving as expert witness to explain inspection findings and scientific basis
+- Professional certification (CPHI(C)) required for comprehensive judgment and professional ethics
+
+**Skills to build:**
+
+- Basic data analysis and visualization (Python/R)
+- GIS geospatial analysis for disease outbreak and environmental exposure mapping
+- AI tool usage (e.g., building risk prediction models with AutoML)
+- Compliance knowledge of digital health data privacy regulations (PIPEDA)
+- Human-robot collaboration mindset for on-site inspection workflows
+- Continuously learning about emerging environmental health threats (e.g., microplastics, PFAS)
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Public Health
@@ -64,69 +100,68 @@ Enforce public health regulations (food safety, water quality, disease control) 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 多数省份如安大略、BC、阿尔伯塔有环境健康官员的省提名通道，需雇主担保或职业列表 |
-| Subclass EE（Express Entry (FSW/CEC)） | 职业代码21112在EE中职匹配有限，通常需PNP加600分或高分CRS |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份指定雇主担保，适合在该地区找到工作机会的申请人 |
+| Subclass PNP (Provincial Nominee Program) | Most provinces like Ontario, BC, Alberta have provincial nomination streams for environmental health officers, requiring employer sponsorship or occupation list |
+| Subclass EE (Express Entry (FSW/CEC)) | Occupation code 21112 has limited points test matching in Express Entry; usually requires PNP with 600 points or high CRS score. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Provincial Nominee Program, suitable for applicants who have found job opportunities in the region |
 
-**PR难度：中等偏高（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental health and protection professionals？**
-- 有公共卫生、环境科学或相关背景的人
-- 喜欢政府机构稳定工作、注重流程和法规执行的人
-- 愿意在各省份之间搬迁或居住在偏远地区以获取移民机会的人
-
-**谁不适合学Environmental health and protection professionals？**
-- 期望快速高薪或私营企业灵活性的人
-- 不愿意反复参加认证考试或语言考试的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with backgrounds in public health, environmental science, or related fields
+- People who prefer stable government agency jobs and focus on procedures and regulations enforcement
+- People willing to relocate between provinces or live in remote areas for immigration opportunities
+
+**Who is not suited**
+- Those seeking fast high salary or private sector flexibility
+- People unwilling to repeatedly take certification exams or language tests
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an environmental health officer in Canada?**
+A: Entry-level annual salary approx. CAD 55,000-70,000, mid-level 70,000-90,000, senior 90,000-110,000. Government salaries are transparent and may be tied to grade.
+
+**Q: Can environmental health officers immigrate to Canada via Express Entry?**
+A: Possible, but occupation code 21112 is not an EE targeted draw occupation (e.g., STEM). Typically requires provincial nomination (PNP) for 600 points, or a high CRS score (e.g., high language ability, age advantage) to receive an invitation.
+
+**Q: How to become a registered environmental health officer in Canada?**
+A: Must complete a recognized public health or environmental health degree, then pass the certification exam of the Canadian Public Health Inspection Association (CIPHI) to obtain CPHI(C) status, and meet provincial registration requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等偏高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏高（★★★☆☆） |
-
-Environmental health and protection professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an environmental health officer in Canada?**
-答：Entry-level CAD 55,000-70,000; mid-level CAD 70,000-90,000; senior CAD 90,000-110,000. Government positions have transparent pay scales.
-
-**问：Can an environmental health officer immigrate through Express Entry?**
-答：Possibly, but NOC 21112 is not a targeted occupation; usually requires PNP nomination (+600 points) or high CRS score (e.g., strong language, age).
-
-**问：How to become a certified environmental health officer in Canada?**
-答：Complete an accredited degree in public health or environmental health, pass the CIPHI certification exam to earn CPHI(C), and meet provincial registration requirements.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

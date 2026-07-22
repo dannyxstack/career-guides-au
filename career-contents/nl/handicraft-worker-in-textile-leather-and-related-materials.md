@@ -1,61 +1,96 @@
-# Handicraft Worker in Textile, Leather and Related Materials（Handicraft Worker in Textile, Leather and Related Materials）职业分析 · NL
+# Handicraft Worker in Textile, Leather and Related Materials — career analysis · Netherlands
 
-**职业代码：7318 – Handicraft Worker in Textile, Leather and Related Materials。**
+**Occupation code: 7318 (ISCO08)**
 
-Handicraft workers in textile, leather and related materials create handmade products such as woven fabrics, embroidered items, leather goods, and dyed materials. They work in small studios, custom workshops, or cultural creative industries, combining traditional craftsmanship with artistic design.
+Handmade textiles, leather goods, etc., including traditional crafts like weaving, embroidery, dyeing, and leather carving. In the Netherlands, this occupation is commonly found in small workshops, custom studios, or the cultural creative industry, emphasizing the combination of manual craftsmanship and artistic design.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 4年（MBO） | —（荷兰公民/欧盟学生学费约0-2,000欧元/年，非欧盟约5,000-6,000欧元/年） |
-| 高等职业教育 | 4年（HBO） | —（荷兰公民/欧盟学生学费约0-2,500欧元/年，非欧盟约7,000-12,000欧元/年） |
-| 短期课程/学徒制 | 1-3年 | $500~$5,000（私立培训机构或行会认证课程） |
+| Secondary vocational education | 4 years (MBO) | $0~$6,000 (Dutch citizens/EU students: tuition approx. €0-2,000/year; non-EU: approx. €5,000-6,000/year) |
+| Higher vocational education | 4 years (HBO) | $0~$12,000 (Tuition fees: Dutch citizens/EU students approximately €0-2,500/year; non-EU approximately €7,000-12,000/year) |
+| Short-term courses/apprenticeships | 1-3 years | $500~$5,000 (Private training institution or industry association certified courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 手工艺职业资格证书 | 荷兰手工艺委员会或行业协会 | 可选 | MBO或HBO相关专业毕业可获，非强制但提升就业竞争力 |
-| 企业注册（自雇） | KVK（荷兰商会） | 可选 | 自雇手工艺人需在KVK注册，并可能需要VAT税号 |
+| Handicraft vocational qualification certificate | Netherlands Crafts Council or trade association | Optional | Graduates of MBO or HBO related programs may obtain, not mandatory but enhances employment competitiveness |
+| Business registration (self-employed) | KVK (Kamer van Koophandel) | Optional | Self-employed artisans must register with KVK and may need a VAT number |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,500。荷兰手工艺品市场稳定，但受自动化影响，低端手工岗位减少。高端定制、文化遗产修复和可持续时尚领域仍有需求。预计未来5年就业人数小幅下降，年均约-0.5%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,500. The handicraft market in the Netherlands is stable, but low-end manual jobs are decreasing due to automation. There is still demand in high-end customisation, cultural heritage restoration, and sustainable fashion. Employment is expected to decline slightly over the next 5 years, at about -0.5% annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，取决于从业形式（受雇或自雇） |
-| 中级（3-8年） | $28,000~$38,000 | 税前年薪，有经验的手工艺人 |
-| 高级（8年以上） | $38,000~$50,000 | 税前年薪，包括知名工匠或工作室负责人 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, depending on employment type (employed or self-employed). |
+| Mid-level (3–8 years) | $28,000~$38,000 | Pre-tax annual salary for experienced craftspersons |
+| Senior (8+ years) | $38,000~$50,000 | pre-tax annual salary, including renowned artisans or studio directors |
+| average salary | $34,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级手工艺人可从学徒或工艺课程起步，逐步晋升为独立工匠或工作室负责人。经验丰富者可转向设计指导、文化遗产保护或开设个人品牌。部分从业者通过继续教育转向时尚设计或艺术管理。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on artisans is mixed: while automated design tools and digital manufacturing reduce repetitive tasks, the uniqueness of craftsmanship and demand for personalisation actually enhance value.
+
+Beginner artisans can start from apprenticeships or craft courses and progress to independent craftsmen or studio heads. Experienced practitioners can shift to design direction, heritage conservation, or start personal brands. Some pursue further education to move into fashion design or arts management.
+
+**Tasks most exposed to AI:**
+
+- Repetitive pattern design (e.g., simple prints, symmetrical patterns)
+- Basic colour matching and dye formula calculation
+- Standardized leather cutting and punching operations
+- Inventory management and order processing
+
+**Where AI augments the role:**
+
+- AI-assisted generation of complex weave structure diagrams and jacquard patterns
+- Analyze customer preferences using machine learning to customize personalized patterns
+- Digital twin simulation of leather aging and color evolution
+- AI-driven material waste optimization and cutting path planning
+- Automatically generate craft manuals and audio-video tutorials
+
+**Human moat:**
+
+- Handmade imperfections and unique tactile feel
+- Personal style in creative design and artistic expression
+- Client communication and customized emotional resonance
+- Complex restoration and traditional craft techniques
+- Live demonstration and interactive teaching experience
+
+**Skills to build:**
+
+- Generative AI tools (e.g., Midjourney) for design ideation
+- CAD/CAM digital modeling and CNC/3D printing operation
+- Data analysis to understand customer preference trends
+- Cross-Media Marketing and Personal Branding
+- Knowledge of materials science (new environmentally friendly materials)
+- English (for international clients and platforms)
+
+**Key growth areas:**
 
 - Sustainable Fashion
 - Artisan Revival
@@ -64,66 +99,68 @@ Handicraft workers in textile, leather and related materials create handmade pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于认可担保人的高技能移民，需工资达标（2025年约€5,331/月）。手工艺人通常难以满足薪资门槛，除非在高端定制领域担任管理职。 |
-| Subclass Self-Employed Person（Self-Employed Residence Permit） | 自雇移民需通过积分制考核（包括教育背景、工作经验、业务计划等），并证明对荷兰经济或文化有贡献。 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 适用于在荷兰或世界顶尖大学获得硕士/博士学位的毕业生，可在荷兰居留一年寻找工作或创业。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled migrants employed by an approved sponsor, subject to meeting the salary threshold (approx. €5,331/month in 2025). Artisans typically find it difficult to meet the salary threshold unless in management roles in high-end custom fields. |
+| Subclass Self-Employed Person (Self-Employed Residence Permit) | Self-employed immigration requires a points-based assessment (including education background, work experience, business plan, etc.) and proof of contribution to the Dutch economy or culture. |
+| Subclass Orientation Year (Orientation Year for Graduates) | For graduates with a master's or doctoral degree from a top university in the Netherlands or worldwide, allowing one year to stay in the Netherlands to seek work or start a business. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Handicraft Worker in Textile, Leather and Related Materials？**
-- 热爱手工制作、有耐心和细致观察力的人
-- 追求个性化、非大规模生产的人
-- 有一定艺术设计基础或文化传承兴趣的人
+**Who is suited**
+- People who love handcrafting, have patience, and a keen eye for detail
+- Those who seek personalized, non-mass-produced items
+- People with some artistic design foundation or interest in cultural heritage
 
-**谁不适合学Handicraft Worker in Textile, Leather and Related Materials？**
-- 期望高薪和快速职业晋升的人
-- 偏好稳定、固定工作环境的人
+**Who is not suited**
+- Those expecting high salary and rapid career advancement.
+- People who prefer stable, fixed work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a Dutch artisan?**
+A: Entry-level artisans earn about €22,000-28,000 annually, mid-level €28,000-38,000, senior €38,000-50,000 (pre-tax). Self-employed income varies significantly.
+
+**Q: As a foreign artisan, what is the main pathway to immigrate to the Netherlands?**
+A: Mainly self-employment visa (points-based) and high-skilled migration visa (requires employer sponsorship and salary threshold). The self-employment route is more feasible but requires proof of economic or cultural value to the Netherlands.
+
+**Q: What are the career development prospects for artisans in the Netherlands?**
+A: Craftspersons can start as apprentices, gradually become independent artisans, and establish studios or brands. Future directions include sustainable fashion, cultural heritage restoration and other niche areas, but overall job market competition is moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker in Textile, Leather and Related Materials属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for handicraft workers in the Netherlands?**
-答：Entry-level handicraft workers earn around €22,000-28,000, mid-level €28,000-38,000, and senior €38,000-50,000 annually (pre-tax). Self-employed incomes vary significantly.
-
-**问：What are the main migration routes for foreign handicraft workers to the Netherlands?**
-答：Main routes are the self-employment residence permit (points-based) and the highly skilled migrant visa (requires employer sponsorship and salary threshold). The self-employment route is more feasible with a solid business plan.
-
-**问：What are the career prospects for handicraft workers in the Netherlands?**
-答：Career progression starts from apprentice to independent artisan, then studio owner or brand founder. Specialization in sustainable fashion or heritage restoration offers growth, but the job market is moderately competitive.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

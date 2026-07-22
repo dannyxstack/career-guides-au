@@ -1,67 +1,97 @@
-# 行为支持师（Behaviour Support Practitioner）职业分析 · 澳大利亚
+# Behaviour Support Practitioner — career analysis · Australia
 
-**职业代码：272615 – Behaviour Support Practitioner。**
+**Occupation code: 272615 (ANZSCO)**
 
-行为支持师为有复杂行为需求的残障人士设计并执行积极行为支持(PBS)计划，受 NDIS Quality and Safeguards Commission 监管并须通过能力评估，薪资较高、需求旺盛，非技术移民职业。
+Behaviour Support Practitioner designs and implements positive behaviour support (PBS) plans for people with disabilities with complex behavioural needs, regulated by the NDIS Quality and Safeguards Commission and requiring competency assessment. High salary, strong demand, not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 心理学/社工/作业治疗/教育等相关本科（常见） | 3~4年 | $20,000~$45,000（多数雇主要求） |
-| NDIS PBS Capability 自评与证据 | 持续 | —（Commission 能力框架） |
+| Psychology/Social work/Occupational therapy/Education related bachelor degree (common) | 3–4 years | $20,000~$45,000 (Most employers require) |
+| NDIS PBS Capability self-assessment and evidence | Ongoing | $0~$2,000 (Commission capability framework) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NDIS Worker Screening Check | 各州核查机构 | 必备 | 强制 |
-| 相关本科/研究生学历 | 认可大学 | 可选 | 入行基础 |
-| PBS Capability 等级（Core→Advanced） | NDIS Commission | 可选 | 能力评定 |
+| NDIS Worker Screening Check | State assessing authorities | Required | Mandatory |
+| Relevant bachelor's/postgraduate degree | Recognised university | Optional | Foundation for entering the industry |
+| PBS Capability level (Core → Advanced) | NDIS Commission | Optional | Competency assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 12,000。NDIS 减少限制性做法的政策推动行为支持师需求快速增长，心理/社工/作业治疗背景者尤其抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. NDIS policy reducing restrictive practices drives rapid growth for behaviour support practitioners, especially those with psychology/social work/occupational therapy backgrounds.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,500 个 | 全国 |
-| Indeed | 800~1,800 个 | 全国 |
-| Jora | 600~1,400 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-2年） | $70,000~$85,000 | Entry |
-| 中级（2-6年） | $90,000~$110,000 | Experienced |
-| 高级 / 顾问 | $110,000~$140,000 | Senior / 独立顾问更高 |
+| Median salary | $101,920 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $70,000~$85,000 | Entry |
+| Mid-level (2–6 years) | $90,000~$110,000 | Experienced |
+| Advanced / Consultant | $110,000~$140,000 | Senior / Independent consultant higher |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：初级→熟练→高级/顾问；通过 NDIS Commission 能力等级评估、积累复杂个案经验者收入显著提升。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
+
+Pathway: Junior → Skilled → Senior/Consultant; income rises significantly through NDIS Commission capability level assessments and complex case experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating initial drafts of behavior support plans and progress reports
+- AI analyzing behavioral data and identifying trigger patterns
+- Automated Reminders for Intervention Execution via Smart Systems
+- AI-assisted NDIS billing and compliance form completion
+- Chatbot handling routine family inquiries
+
+**Where AI augments the role:**
+
+- AI analyzes patient behavior data in real time and provides intervention recommendations
+- Natural language processing assists in writing case reports and therapy notes
+- Machine learning identifies high-risk behavior patterns for early warning
+- Virtual reality simulation of behavioral scenarios for employee training
+- AI-recommended personalized intervention strategies and community resources
+
+**Human moat:**
+
+- Comprehensive assessment and diagnosis of complex behavioral cases
+- Build trust with patients, families, and multidisciplinary teams
+- Flexibly adjust interventions based on unpredictable on-site responses
+- Ethical decision-making and regulatory compliance responsibilities
+- On-the-spot judgment in empathetic communication and crisis intervention
+
+**Skills to build:**
+
+- Proficient in NDIS regulations and PBS framework
+- Data analysis and behavioral pattern recognition
+- Using AI-assisted report generation tools (e.g., customized ChatGPT)
+- Evidence-based intervention strategy research and practice
+- Cross-cultural communication and family system counseling
+- Project management and team collaboration
+
+**Key growth areas:**
 
 - NDIS Positive Behaviour Support
 - Restrictive Practice Reduction
@@ -70,58 +100,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学行为支持师？**
-- 心理/社工/作业治疗等背景者
-- 擅长行为分析与计划设计的人
-- 想进入高薪助残专业岗者
-
-**谁不适合学行为支持师？**
-- 不愿读相关学位者
-- 排斥处理复杂行为与风险个案者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with psychology/social work/occupational therapy backgrounds
+- People skilled in behaviour analysis and plan design
+- Those who want to enter high-paying disability professional roles
+
+**Who is not suited**
+- Those unwilling to study a relevant degree
+- Those averse to handling complex behaviours and risk cases
+
+---
+
+## 8. FAQ
+
+**Q: How much do behaviour support practitioners earn in Australia?**
+A: Approximately AUD $70,000-$140,000, independent consultants hourly rate $100-$160.
+
+**Q: Can behaviour support practitioners migrate via skilled migration?**
+A: Usually cannot migrate via skilled migration alone; if holding registration as a psychologist/occupational therapist etc., assess under the corresponding registered occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-行为支持师属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：行为支持师澳洲薪资多少？**
-答：约 AUD $7万~$14万，独立顾问时薪可达 $100~$160。
-
-**问：行为支持师能技术移民吗？**
-答：通常不能单独走技术移民；若持心理学家/作业治疗师等注册资格，则按对应注册职业评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

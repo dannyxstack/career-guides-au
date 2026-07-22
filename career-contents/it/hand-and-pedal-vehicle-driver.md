@@ -1,59 +1,95 @@
-# Hand and Pedal Vehicle Driver（Hand and Pedal Vehicle Driver）职业分析 · IT
+# Hand and Pedal Vehicle Driver — career analysis · Italy
 
-**职业代码：9331 – Hand and Pedal Vehicle Driver。**
+**Occupation code: 9331 (ISCO08)**
 
-Drives hand or pedal vehicles to transport people or goods, commonly used for urban short-distance delivery, tourism, and local logistics.
+Operate human-powered or pedal vehicles to transport people or goods, commonly used for urban short-distance delivery, tourism, and local logistics.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（仅需基本读写和交通知识） |
-| 职业培训 | 数周 | $200~$800（如安全骑行课程或城市配送培训） |
+| No formal education required | None | $0~$0 (Only basic literacy and traffic knowledge required) |
+| Vocational training | Several weeks | $200~$800 (e.g. safe cycling course or urban delivery training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无需特殊资格 | 无 | 可选 | 基本要求：年满16岁，无犯罪记录 |
+| No special qualifications required | None | Optional | Basic requirements: at least 16 years old, no criminal record |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利城市配送需求持续增长，但受自动化和电动车冲击，岗位增长缓慢。北部工业区机会较多，南部以兼职为主。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. Demand for city delivery services in Italy continues to grow, but job growth is slow due to automation and electric vehicles. The northern industrial areas have more opportunities, while the south is mainly part-time.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 多为兼职或按件计酬 |
-| 中级（3-6年） | $18,000~$24,000 | 全职配送员或旅游导游 |
-| 高级（6年以上） | $24,000~$30,000 | 团队主管或自营配送业务 |
+| Median salary | $21,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $14,000~$18,000 | Mostly part-time or paid per piece |
+| Mid-level (3–6 years) | $18,000~$24,000 | Full-time delivery driver or tour guide |
+| Senior (6+ years) | $24,000~$30,000 | Team supervisor or self-operated delivery business |
+| average salary | $21,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可晋升为配送团队主管或物流协调员，或转为机动车辆司机以获得更高收入。部分从业者自营小型配送业务。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Demand for human and bicycle drivers will be significantly reduced by automation, as self-driving delivery vehicles, drones, and e-scooters can complete short-distance deliveries more efficiently, leaving only a few customized, non-structured routes or tourism experience services remaining.
+
+Can be promoted to distribution team supervisor or logistics coordinator, or transfer to motor vehicle driver for higher income. Some practitioners operate their own small delivery businesses.
+
+**Tasks most exposed to AI:**
+
+- Standardized, fixed-route parcel delivery
+- Rickshaw passenger transport along a preset route
+- Simple point-to-point cargo transportation
+- Navigation using paper maps or experience
+- Routine vehicle maintenance and fault diagnosis.
+
+**Where AI augments the role:**
+
+- Optimize delivery routes and order efficiency through AI dispatch system
+- Using sensors and data analysis to improve vehicle safety
+- Use mobile payments and digital platforms to expand client base
+- Using GPS and real-time traffic data to avoid congestion
+- Automatically record trips and income using smart devices
+
+**Human moat:**
+
+- Handle unstructured environmental adaptability such as sudden road conditions and obstacle avoidance.
+- Direct client communication, personalized service, and emotional engagement
+- Provide experiential services in historical districts, scenic areas, and other environments with motor vehicle restrictions
+- Handling fragile, valuable, or temperature-sensitive items
+- Long-term customer relationship maintenance requiring interpersonal trust
+
+**Skills to build:**
+
+- Operate using delivery/navigation platforms (e.g., Uber, Deliveroo)
+- Basic data analysis, understanding scheduling algorithms to optimize order acceptance timing
+- Customer service and multilingual communication skills
+- Basic knowledge of electric/hybrid vehicle repair
+- Using logistics management software (e.g., Logistimo)
+- Safety Awareness and Compliant Driving Training
+
+**Key growth areas:**
 
 - urban delivery
 - last-mile logistics
@@ -62,65 +98,67 @@ Drives hand or pedal vehicles to transport people or goods, commonly used for ur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于该职业，因技能门槛低，但若雇主证明稀缺可尝试。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 非欧盟公民可通过年度配额申请，但岗位竞争激烈且需雇主担保。 |
+| Subclass EU Blue Card (EU Blue Card) | Generally not applicable for this occupation due to low skill threshold, but may be attempted if the employer can prove scarcity. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Non-EU citizens can apply through annual quotas, but positions are competitive and require employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand and Pedal Vehicle Driver？**
-- 身体健康、喜欢户外工作的人
-- 希望灵活兼职或自雇的人
-- 对交通物流感兴趣且不排斥重复劳动的人
+**Who is suited**
+- People who are physically fit and enjoy outdoor work
+- Wants flexible part-time or self-employed work
+- People interested in transportation and logistics and not averse to repetitive work
 
-**谁不适合学Hand and Pedal Vehicle Driver？**
-- 希望高收入或稳定晋升的人
-- 不适合体力劳动或恶劣天气工作的人
+**Who is not suited**
+- Those seeking high income or stable promotion
+- Not suitable for physical labor or harsh weather conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a rickshaw driver in Italy?**
+A: Full-time practitioners earn approximately €18,000-24,000 per year, part-time income is lower.
+
+**Q: How can non-EU citizens obtain this type of work visa in Italy?**
+A: Primarily through Decreto Flussi annual quotas, requires employer sponsorship, but few positions are open to non-EU workers.
+
+**Q: Does this career have growth prospects?**
+A: Affected by e-bikes and automated delivery, long-term demand may decline, but urban short-distance delivery still has some scope.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hand and Pedal Vehicle Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for hand and pedal vehicle drivers in Italy?**
-答：Full-time workers earn around €18,000-24,000 per year, while part-time income is lower.
-
-**问：How can non-EU citizens obtain a work visa for this occupation in Italy?**
-答：Mainly through the Decreto Flussi annual quota with employer sponsorship, but opportunities are limited.
-
-**问：Does this occupation have good career prospects?**
-答：Long-term demand may decline due to e-bikes and automation, but urban short-distance delivery still offers opportunities.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

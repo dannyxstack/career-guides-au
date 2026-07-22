@@ -1,60 +1,94 @@
-# Hospital Services Multiskilled Worker（Hospital Services Multiskilled Worker）职业分析 · FR
+# Hospital Services Multiskilled Worker — career analysis · France
 
-**职业代码：J1301 – Hospital Services Multiskilled Worker。**
+**Occupation code: J1301 (ROME)**
 
-Performs non-clinical support tasks in hospitals, including cleaning, patient transport, supply distribution, and basic care assistance, ensuring a safe and hygienic environment.
+Responsible for non-clinical logistics and support services within the hospital, including cleaning, patient transfer, material distribution, and basic nursing assistance, ensuring a safe and healthy medical environment.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需文凭（在职培训） | 0-6个月（企业培训） | —（雇主通常提供带薪培训，部分可报学徒制） |
-| CAP 卫生与环境（CAP Hygiène et Environnement） | 2年（CAP） | —（公立高中免费，私立约500-1000€） |
+| No diploma required (on-the-job training) | 0-6 months (corporate training) | $0~$500 (Employers usually offer paid training, some of which are apprenticeships) |
+| CAP Health and Environment (CAP Hygiène et Environnement) | 2 years (CAP) | $0~$1,000 (Public high schools are free, private ones about €500-1000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生与安全基础培训（Prévention Santé） | 法国劳动部 | 可选 | 部分医院要求持有 |
-| 急救证书（PSC1） | 法国红十字会或国家认证机构 | 可选 | 推荐持有，非强制 |
+| Basic Training in Health and Safety (Prévention Santé) | French Ministry of Labor | Optional | Some hospitals require it to be held |
+| First Aid Certificate (PSC1) | The French Red Cross or national certification bodies | Optional | Recommended to hold, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国人口老龄化推动医疗服务需求持续增长，医院多技能服务人员岗位稳定，尤其在巴黎及大型区域医疗中心缺口明显，但竞争也较多。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. France's aging population is driving continuous growth in medical service demand, with stable positions for multi-skilled hospital staff, especially in Paris and large regional medical centers, where there is a significant gap but intense competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 税前年薪，含公共医院额外补贴 |
-| 中级（3-7年） | $24,000~$27,000 | 含工龄津贴及绩效奖金 |
-| 高级（7年以上） | $27,000~$30,000 | 含主管补贴，加班另计 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | Pre-tax annual salary, including additional subsidies for public hospitals |
+| Mid-level (3–7 years) | $24,000~$27,000 | Includes seniority allowance and performance bonus |
+| Senior (7+ years) | $27,000~$30,000 | Including supervisor allowance; overtime is calculated separately |
+| average salary | $23,436 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从基层岗位起步，通过内部培训可晋升至团队主管或转向护理助理等临床支持角色，需考取国家护理助理文凭（DEAS）等资质。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly improve the efficiency of non-clinical tasks for multi-skilled hospital service staff, but some repetitive tasks such as cleaning and transportation face replacement risks, while assistive nursing work is being strengthened, resulting in a mixed overall job structure.
+
+Usually, starting from grassroots positions, through internal training one can be promoted to team leader or transition to clinical support roles such as nursing assistants, requiring qualifications such as the National Diploma in Nursing Assistant (DEAS).
+
+**Tasks most exposed to AI:**
+
+- Planning and execution of ward cleaning pathways
+- Automatic distribution of medical supplies and inventory counting
+- Optimization and scheduling of patient transport routes
+- Cleaning and disinfection quality monitoring records
+
+**Where AI augments the role:**
+
+- Using AI-assisted tools for patient hygiene care (such as fall warnings)
+- Optimize material distribution scheduling through intelligent systems
+- Efficient cleaning operations are carried out using automated equipment
+- Use mobile terminals to obtain real-time task assignment and feedback
+
+**Human moat:**
+
+- Empathy and emotional support in patient interactions
+- Flexible response and judgment in emergencies
+- Manual fine operations in complex scenarios (such as special cleaning)
+- Cross-departmental coordination and communication skills
+- In-depth understanding of hospital-specific processes
+
+**Skills to build:**
+
+- Basic digital literacy and mobile terminal operation
+- Cleaning and care robot collaboration skills
+- Data entry and electronic record management
+- Basic nursing knowledge (such as vital sign measurement)
+- Time management and task priority planning
+- Communication and teamwork skills
+
+**Key growth areas:**
 
 - Aging population
 - Hospital demand
@@ -63,62 +97,64 @@ Performs non-clinical support tasks in hospitals, including cleaning, patient tr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主担保，证明招聘困难且符合薪资门槛，通常为CDI合同 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 法国毕业生可申请为期1年的求职居留，可在全法寻找工作 |
+| Subclass Salarié (Salarié (Employee)) | Requires employer sponsorship, proof of recruitment difficulties and meeting salary threshold, usually a CDI contract |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | French graduates can apply for a one-year job-seeking residence permit, allowing them to find work throughout France |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hospital Services Multiskilled Worker？**
-- 有耐心且身体健康的求职者
-- 愿意从事基层医疗后勤工作，寻求稳定就业者
-- 法语水平较低但仍希望进入医疗体系的移民
+**Who is suited**
+- Patient and physically healthy job seekers
+- Willing to work in grassroots medical logistics, seeking stable employment
+- Immigrants with low French proficiency who still wish to enter the healthcare system
 
-**谁不适合学Hospital Services Multiskilled Worker？**
-- 追求高薪及快速晋升者
-- 对体力劳动及轮班工作无法适应者
+**Who is not suited**
+- Those seeking high salary and fast promotion
+- Those who cannot adapt to physical labor or shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for multi-skilled hospital service staff?**
+A: Pre-tax annual salaries are about 21,000-30,000 euros (including subsidies), and public hospitals are usually higher than private institutions.
+
+**Q: Can foreign immigrants obtain a French work visa as a hospital multi-skilled service worker?**
+A: Low possibility as this is low-skill category, hard to meet skilled migration salary threshold, but may try Salarié visa; employer must prove recruitment difficulty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Hospital Services Multiskilled Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hospital services multiskilled workers?**
-答：Gross annual salary ranges from €21,000 to €30,000 including bonuses, with public hospitals paying higher.
-
-**问：Can foreign migrants obtain a French work visa as a hospital services multiskilled worker?**
-答：Unlikely due to low skill nature; possible via Salarié visa if employer proves recruitment difficulty, but income threshold is challenging.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

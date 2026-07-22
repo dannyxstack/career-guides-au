@@ -1,61 +1,94 @@
-# Lecturer（Lecturer）职业分析 · DE
+# Lecturer — career analysis · Germany
 
-**职业代码：9242 – Lecturer。**
+**Occupation code: 9242 (KldB)**
 
-Lecturers teach and conduct research at higher education institutions like universities and universities of applied sciences. They deliver courses, supervise theses, and participate in academic activities, often on fixed-term or part-time contracts.
+Lecturers in higher education institutions (such as universities and universities of applied sciences) undertake teaching tasks and may also engage in research. They teach courses, supervise theses, and participate in academic activities, usually on short-term or part-time contracts.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（全日制） | —（公立大学学费极低，仅少量学期费，部分州对非欧盟学生收学费） |
-| 博士 | 3-5年（全职研究） | —（博士职位通常为带薪工作，无学费） |
+| Master's degree | 2 years (full-time) | $0~$15,000 (Public universities have very low tuition, only small semester fees; some states charge tuition for non-EU students.) |
+| Doctorate | 3-5 years (full-time research) | $0~$0 (Doctoral positions are usually paid and tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 德国大学 | 必备 | 通常要求相关专业硕士学历（Magister/Diplom/Master） |
-| 博士学位 | 德国大学 | 可选 | 博士学位（Dr. phil./Dr. rer. nat.等）是长期学术职位的标配 |
-| 教学能力证明 | 大学 | 可选 | 部分职位要求教学经验或Habilitation（教授资格论文） |
+| Master's degree | German university | Required | Typically requires a relevant master's degree (Magister/Diplom/Master) |
+| Doctoral degree (PhD) | German university | Optional | Doctoral degree (Dr. phil./Dr. rer. nat., etc.) is standard for long-term academic positions |
+| Teaching Ability Certificate | University | Optional | Some positions require teaching experience or Habilitation (postdoctoral lecturing qualification) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 50,000。德国高等教育领域因人口结构变化和国际化趋势，讲师需求稳定增长。但长期职位有限，竞争激烈，尤其在人文学科。STEM领域机会稍多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 50,000. Due to demographic changes and internationalization trends in German higher education, lecturer demand is growing steadily. However, permanent positions are limited and competition is fierce, especially in the humanities. STEM fields offer slightly more opportunities.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 依据TV-L 13级别，约50%-75%职位 |
-| 中级（4-7年） | $50,000~$65,000 | TV-L 13-14级别 |
-| 高级（8年以上） | $65,000~$85,000 | TV-L 14-15级别或教授（W1）起薪 |
+| Median salary | $57,120 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Based on TV-L level 13, approximately 50%-75% of positions |
+| Mid-level (4-7 years) | $50,000~$65,000 | TV-L Level 13-14 |
+| Senior (8+ years) | $65,000~$85,000 | Starting salary at TV-L level 14-15 or professor (W1) |
+| average salary | $62,868 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 讲师通常从短期合同开始，积累教学和科研成果后可申请终身教授职位（W1/W2/W3）。也可转向研究管理、成人教育或企业培训等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For instructors, AI is both a threat and an opportunity: standardized teaching and assessment may be automated, but curriculum design, personalized guidance, and academic mentoring roles are enhanced by AI.
+
+Lecturers typically start on short-term contracts and can apply for tenured professor positions (W1/W2/W3) after accumulating teaching and research achievements. Alternative career paths include research management, adult education, or corporate training.
+
+**Tasks most exposed to AI:**
+
+- Basic course delivery: AI digital humans can record standard course videos
+- Assignment and exam grading: AI automatic scoring system handles objective questions and standardised tests
+- FAQ: AI chatbot answers common student questions
+- Textbook writing and updating: AI generates basic lecture notes and literature reviews
+
+**Where AI augments the role:**
+
+- Personalized tutoring: AI analyzes learning data to help instructors tailor coaching to students' weaknesses
+- Course design innovation: AI provides adaptive learning paths and interactive simulation suggestions
+- Academic research support: AI accelerates literature search, data analysis, and draft writing
+- Multimodal teaching: AI assists in creating immersive learning content such as augmented reality and virtual reality
+- Student tutoring and assessment: AI predicts academic risk, supporting early intervention
+
+**Human moat:**
+
+- Academic judgment: critical analysis and evaluation of complex, ambiguous issues
+- Emotional connection and motivation: building trust and stimulating learning motivation through teacher-student interaction
+- Role in ethical and value guidance: shaping student values
+- Interdisciplinary integration ability: combine diverse knowledge to solve real-world problems
+
+**Skills to build:**
+
+- Application of AI teaching tools: mastery of intelligent tutoring systems and adaptive learning platforms
+- Data literacy: interpreting learning analytics data to optimize teaching
+- Human-machine collaborative instructional design: integrating AI tools to create blended learning experiences
+- Academic innovation research: use AI to assist with cutting-edge topics
+- Cross-cultural communication and ethical decision-making: guiding discussions among diverse student populations
+
+**Key growth areas:**
 
 - Academic jobs
 - Higher education
@@ -64,69 +97,68 @@ Lecturers teach and conduct research at higher education institutions like unive
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪不低于40368欧元（2024年）的学术岗位，需有德国认可的高等学历。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Section 18b AufenthG)） | 针对具有认可学历的学术人员，雇主担保，年薪无硬性门槛。 |
-| Subclass Job Seeker（Job Seeker Visa (Section 20 AufenthG)） | 允许在德居留6个月寻找工作，需有足够资金和学历。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for academic positions with annual salary not less than 40,368 EUR (2024), requires a recognized higher education degree in Germany. |
+| Subclass Skilled Worker (Skilled Worker Visa (Section 18b AufenthG)) | For academic personnel with recognized qualifications, employer sponsorship, no hard salary threshold. |
+| Subclass Job Seeker (Job Seeker Visa (Section 20 AufenthG)) | Allows to stay in Germany for 6 months to look for work, requires sufficient funds and a degree. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lecturer？**
-- 热爱教学与学术交流，擅长知识传递
-- 具备较强研究能力和毅力，能承受发表压力
-- 适应短期合同和不稳定职业路径
-
-**谁不适合学Lecturer？**
-- 追求高薪和稳定职业前景者
-- 不愿长期攻读博士或从事临时性工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and academic exchange, skilled in knowledge transfer
+- Strong research ability and perseverance, able to withstand publication pressure
+- Adapt to short-term contracts and unstable career paths
+
+**Who is not suited**
+- For those seeking high salaries and stable career prospects
+- Those unwilling to pursue a long-term PhD or engage in temporary work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for lecturers in Germany?**
+A: Lecturer salaries follow TV-L levels 13-15: entry-level approx. €40,000-50,000, mid-level €50,000-65,000, senior up to €85,000. Professors (W-level) earn higher.
+
+**Q: How can foreigners immigrate to Germany as lecturers?**
+A: Requires a recognized higher education degree (master's or higher) in Germany, usually a doctorate. Can apply via EU Blue Card or skilled migration visa, but needs employer sponsorship. Language requirement typically German or English.
+
+**Q: What are the career development prospects for a lecturer?**
+A: Lecturers can progress to tenured professor (W1/W2/W3) but competition is fierce. They may also transition to research management, adult education, or corporate training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Lecturer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for lecturers in Germany?**
-答：Lecturers are paid according to TV-L 13-15, with junior positions earning around 40,000-50,000 EUR, mid-level 50,000-65,000, and senior up to 85,000 EUR. Professors (W-level) earn more.
-
-**问：How can foreigners immigrate to Germany as lecturers?**
-答：A recognized higher education degree (master's or above), usually a doctorate, is required. Pathways include EU Blue Card or Skilled Worker Visa with employer sponsorship. Language skills in German or English are needed.
-
-**问：What are the career prospects for lecturers?**
-答：Lecturers can aim for tenured professorships (W1/W2/W3), but competition is fierce. Alternatives include research management, adult education, or corporate training.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

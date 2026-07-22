@@ -1,57 +1,93 @@
-# Travel Attendant（Travel Attendant）职业分析 · IE
+# Travel Attendant — career analysis · Ireland
 
-**职业代码：5111 – Travel Attendant。**
+**Occupation code: 5111 (ISCO08)**
 
-Provide safety checks and cabin services on aircraft, trains, ships, and other transport, including catering, first aid, and emergency handling.
+Provide safety checks and cabin services to passengers on aircraft, trains, ships, and other transport, including meals, first aid, and emergency handling.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需特定学历，但需完成公司培训 | —（由航空公司提供带薪培训） |
+| High school graduation | No specific education required, but company training must be completed | $0~$0 (Paid training provided by the airline) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客舱乘务员培训证书 | 爱尔兰航空管理局（IAA）认可的培训机构 | 必备 | 完成初始安全培训并获认证 |
-| 急救证书 | 爱尔兰红十字会或同等机构 | 必备 | 通常包含在航空培训中 |
+| Cabin Crew Training Certificate | Training organisations approved by the Irish Aviation Authority (IAA) | Required | Complete initial safety training and obtain certification. |
+| First aid certificate | Irish Red Cross or equivalent body | Required | Usually included in aviation training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。爱尔兰旅游和航空业持续增长，带动客舱乘务员需求。但职位门槛不高，竞争中等，就业机会主要集中在都柏林机场及主要铁路线路。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Continuous growth in Ireland's tourism and aviation sectors drives demand for cabin crew. However, position entry requirements are not high, competition is moderate, and employment opportunities are mainly concentrated at Dublin Airport and major railway lines.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含基本工资和飞行津贴 |
-| 中级（3-6年） | $28,000~$38,000 | 税前年薪，含基本工资和飞行津贴 |
-| 高级（6年以上） | $38,000~$50,000 | 多为乘务长职位，税前年薪 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including base salary and flight allowances |
+| Mid-level (3–6 years) | $28,000~$38,000 | Pre-tax annual salary, including base salary and flight allowances |
+| Senior (6+ years) | $38,000~$50,000 | Mostly purser positions, pre-tax annual salary |
+| average salary | $34,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级乘务员可晋升为高级乘务员、乘务长，或转向地面服务管理、培训岗位。经验丰富者有机会进入航空公司调度或安全管理。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce travel attendant positions, as automated security checks, voice customer service, and robot food delivery can replace over 50% of repetitive tasks, but emergency handling still requires humans.
+
+Junior crew members can advance to senior crew, purser, or transition to ground service management or training roles. Experienced individuals may have opportunities in airline scheduling or safety management.
+
+**Tasks most exposed to AI:**
+
+- Cabin voice broadcasts and FAQ responses (AI voice assistant)
+- Passenger boarding pass scanning and security check (automated gates)
+- Basic food service and order processing (robot meal delivery)
+- Onboard duty-free sales and inventory management (digital system)
+- Cabin cleaning and item organization (cleaning robots)
+
+**Where AI augments the role:**
+
+- Quick decision-making and passenger evacuation in emergencies (AI provides real-time contingency plans)
+- Multilingual services and personalized demand response (assisted by translation headsets).
+- Passenger health monitoring and discomfort alerts (via wearable device data recognition)
+- Dynamic deployment of cabin resources (AI-optimized meal and supply allocation)
+- Abnormal passenger behavior detection (AI monitoring and early warning)
+
+**Human moat:**
+
+- On-site judgment and humane reassurance for complex emergencies
+- Care and attentive service for special passengers (children, elderly, disabled)
+- Cross-cultural communication and emotional interaction (e.g., celebrating birthdays, calming anxiety)
+- Flexible handling of emergencies (such as passenger conflicts, medical emergencies)
+- Team coordination and on-site leadership (overall coordination within the cabin)
+
+**Skills to build:**
+
+- First aid and emergency medical care (advanced first aid certificate)
+- Multilingual ability (especially English + local language)
+- Digital tool operation (tablets, AI voice systems, robot management)
+- Emotion management and conflict resolution skills
+- Data reporting and analysis basics (cabin service data entry)
+- Customer experience design (personalized service innovation)
+
+**Key growth areas:**
 
 - Tourism Growth
 - Aviation Expansion
@@ -60,64 +96,63 @@ Provide safety checks and cabin services on aircraft, trains, ships, and other t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元（2024年标准）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达到33,000欧元以上（2024年标准），但不常见于乘务员职位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, annual salary not less than €30,000 (2024 standard). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary above €33,000 (2024 standard), but not common for cabin crew roles. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Travel Attendant？**
-- 喜欢与人交流、具备服务意识的人
-- 适应灵活排班和频繁出差的人
-- 在紧急情况下保持冷静的人
-
-**谁不适合学Travel Attendant？**
-- 厌恶长时间站立或旅行的人
-- 对高空或封闭空间感到不适的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with others and have a service mindset
+- Suitable for those who can adapt to flexible scheduling and frequent travel
+- People who stay calm in emergencies
+
+**Who is not suited**
+- Those who dislike prolonged standing or travel
+- People who feel uncomfortable in high or confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for travel service staff in Ireland?**
+A: Junior annual salary approx. €22,000-28,000, mid-level €28,000-38,000, senior €38,000-50,000, including flight allowance.
+
+**Q: Can foreigners become travel attendants in Ireland via work visa?**
+A: Can apply for a General Employment Permit, but requires employer sponsorship and meeting the salary threshold; this occupation is not on the shortage list, so visa processing may be slower.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Travel Attendant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for travel attendants in Ireland?**
-答：Junior annual salary is around €22,000-€28,000, mid-level €28,000-€38,000, senior €38,000-€50,000, including flight allowances.
-
-**问：Can foreigners become travel attendants in Ireland via work visa?**
-答：Yes, via General Employment Permit, requiring employer sponsorship and meeting salary threshold; not on shortage list, so processing may be slower.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

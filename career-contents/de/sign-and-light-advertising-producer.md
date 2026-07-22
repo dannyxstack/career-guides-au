@@ -1,61 +1,97 @@
-# Sign and Light Advertising Producer（Sign and Light Advertising Producer）职业分析 · DE
+# Sign and Light Advertising Producer — career analysis · Germany
 
-**职业代码：9354 – Sign and Light Advertising Producer。**
+**Occupation code: 9354 (KldB)**
 
-Designs, manufactures, and installs signs, illuminated letters, and lighting advertising systems such as neon signs and LED displays. Requires skills in metalworking, welding, electrical installation, and graphic design.
+Responsible for designing, manufacturing, and installing various signs, illuminated letters, and lighting advertising systems, including neon signs, LED displays, etc. Requires skills in metalworking, welding, electrical installation, and graphic design.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，通常无需学费） |
-| 技师（Meister）或技术员（Techniker） | 1-2年（全职） | $2,000~$8,000（需完成双元制培训后进修，费用因学校而异） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Technician (Meister) or Techniker. | 1-2 years (full-time) | $2,000~$8,000 (Requires further training after completing the dual system, costs vary by school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 完成标牌与灯光广告制作师双元制培训 | 德国工商业行会（IHK） | 必备 | 国家认可的职业资格，需通过结业考试 |
-| 电气安装资质（如适用） | 德国电气行业协会（ZVEH） | 可选 | 若涉及高压电气安装，需额外认证 |
-| 国外资质认证（Anerkennung） | 德国联邦职业教育与培训办公室（BIBB） | 必备 | 第三国从业者需认证资格，部分承认工作经验 |
+| Complete dual training as a Sign and Lighting Advertising Maker | German Chamber of Commerce and Industry (IHK) | Required | Nationally recognized vocational qualification, requires passing a final exam |
+| Overseas qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) | Required | Practitioners from third countries need credential recognition; work experience is partially recognised |
+| Electrical installation qualification (if applicable) | German Electrical and Electronic Manufacturers' Association (ZVEH) | Optional | If involving high-voltage electrical installation, additional certification is required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国城市化与商业发展持续推动标牌需求，数字化广告牌和节能LED技术带来新机遇。行业稳定，但受经济周期影响，就业竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Urbanisation and commercial development in Germany continue to drive demand for signage, with digital billboards and energy-saving LED technology creating new opportunities. The industry is stable but affected by economic cycles; employment competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，双元制毕业生起薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，经验丰富技工 |
-| 高级（7年以上/技师） | $45,000~$55,000 | 税前年薪，含技师或项目经理职位 |
+| Median salary | $38,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Gross annual salary, starting salary for dual system graduates. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary for experienced tradesperson |
+| Senior (7+ years / Technician). | $45,000~$55,000 | Annual pre-tax salary, including technician or project manager positions |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为熟练技工，进而担任项目经理或自营工作室。积累经验后可转向大型广告工程管理或专业灯光设计领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Automation will take over repetitive tasks in mass sign production and electrical installation, but AI plays a limited role in custom design and on-site installation coordination. This occupation's task structure is being reshaped, presenting both risks and new opportunities.
+
+Can progress from apprentice to skilled tradesperson, then to project manager or studio owner. With experience, can move into large-scale advertising project management or specialized lighting design.
+
+**Tasks most exposed to AI:**
+
+- Batch text layout and graphic design for signage using standard templates
+- Automatically cutting materials like metal and acrylic sheets using CNC machines
+- Automated soldering of LED beads and circuit board assembly
+- Automatic tube bending and gas filling process for neon lights
+- Routine maintenance diagnostics completed via AI visual inspection system
+
+**Where AI augments the role:**
+
+- Using AI generative design to quickly iterate creative concepts and client previews
+- Preview signage effects in real environments through augmented reality (AR) simulations
+- AI-driven layout optimization algorithms improve material utilization and structural stability.
+- Intelligent installation process planning using Building Information Modelling (BIM) to reduce on-site errors
+- AI-assisted project management tools automatically generate cost estimates and schedule plans
+
+**Human moat:**
+
+- Complex assessment of building structural safety and electrical regulations during on-site installation
+- Ability to interpret abstract requirements from clients and translate them into unique artistic solutions
+- Flexibility of manual work at heights and in complex environments
+- Manual restoration skills for non-standard, historic buildings, or special materials
+- Deep understanding of local regulations (e.g., light pollution, safety signage standards)
+
+**Skills to build:**
+
+- Proficient in CAD/CAM and CNC machine programming
+- Learning AI design tools (e.g., Adobe Firefly, Midjourney)
+- Understanding IoT and smart signage system integration
+- Master BIM software basics and AR-assisted installation.
+- Learn electrical automation and PLC basics
+- Improve customer needs analysis and creative design skills
+
+**Key growth areas:**
 
 - Urbanization
 - Digital signage
@@ -64,69 +100,68 @@ Designs, manufactures, and installs signs, illuminated letters, and lighting adv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 需获得德国认可的职业资格及工作合同，适合已通过资质认证的从业者。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许未获工作合同的求职者进入德国寻找机会，需具备相关资质。 |
-| Subclass Job Seeker（Job Search Visa） | 允许在德居留6个月寻找工作，需证明经济能力及学历/资格。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Need to obtain a German-recognised professional qualification and employment contract, suitable for practitioners who have already passed qualification certification. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a work contract to enter Germany to seek opportunities, provided they have relevant qualifications. |
+| Subclass Job Seeker (Job Search Visa) | Allows stay in Germany for 6 months to seek employment, requiring proof of financial means and qualifications. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sign and Light Advertising Producer？**
-- 喜欢动手制作、结合设计与技术的人
-- 对广告行业和城市景观有兴趣的创意型人才
-- 愿意接受双元制培训并获取职业资格者
-
-**谁不适合学Sign and Light Advertising Producer？**
-- 不愿从事体力劳动或户外安装工作的人
-- 追求高薪或快速晋升的人群
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on creation, combining design and technology.
+- Creative talent interested in the advertising industry and urban landscapes
+- Those willing to undergo dual vocational training and obtain professional qualifications
+
+**Who is not suited**
+- People unwilling to perform physical labor or outdoor installation work
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of sign makers?**
+A: Entry-level annual salary is approximately €28,000–35,000, mid-to-senior levels can reach €45,000–55,000. Salaries are affected by region, company size, and experience.
+
+**Q: How can third-country nationals immigrate to Germany to work in this occupation?**
+A: Must first pass German professional qualification recognition (Anerkennung); after obtaining a work contract, can apply for a skilled migration visa. The Opportunity Card allows job searching first.
+
+**Q: Do you need a special license?**
+A: Dual-system training certificate is mandatory. Additional electrical qualifications may be needed for electrical installations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Sign and Light Advertising Producer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sign makers?**
-答：Entry-level annual salary is about €28,000-35,000, while senior roles can reach €45,000-55,000. Pay varies by region, company size, and experience.
-
-**问：How can third-country nationals immigrate to Germany for this profession?**
-答：They must first obtain recognition of their professional qualifications (Anerkennung), then secure a job contract to apply for a skilled worker visa. The Opportunity Card allows job seeking first.
-
-**问：Are special licenses required?**
-答：A completed dual training certificate is mandatory. Additional electrical qualifications may be needed for electrical installations.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

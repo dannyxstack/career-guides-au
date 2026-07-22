@@ -1,60 +1,96 @@
-# Other Arts Teachers（Other Arts Teachers）职业分析 · IT
+# Other Arts Teachers — career analysis · Italy
 
-**职业代码：2355 – Other Arts Teachers。**
+**Occupation code: 2355 (ISCO08)**
 
-Other Arts Teachers in Italy include private art studio instructors, community center tutors, and non-formal educators in painting, sculpture, ceramics, etc., focusing on skill development and creative expression.
+Other art teachers in Italy cover informal art teaching roles in private art studios, community centers, and some educational institutions, such as painting, sculpture, and ceramics, aiming to impart artistic skills and creative expression.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（三年制） | 3年（本科） | $1,000~$4,000（公立美术学院学费较低，私立较高） |
-| 硕士（两年制） | 2年（硕士） | $1,500~$6,000（部分院校提供奖学金） |
+| Bachelor's (Three-year programme) | 3 years (bachelor's) | $1,000~$4,000 (Lower tuition fees at public art schools, higher at private ones) |
+| Master's (two-year) | 2 years (Master's) | $1,500~$6,000 (Some institutions offer scholarships.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术教师资格认证 | 教育部或地区教育办公室 | 可选 | 非强制，但有助于在公立机构任教 |
-| 作品集 | 无 | 可选 | 求职核心，展示个人艺术水平 |
+| Art teacher certification | Ministry of Education or Regional Education Office | Optional | Not mandatory, but helpful for teaching in public institutions. |
+| Portfolio | None | Optional | Core of job seeking, showcasing personal artistic level |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。意大利艺术文化传统深厚，私人艺术教学需求稳定，但受经济波动影响较大。就业机会集中在城市文化区，竞争中等，自由职业者居多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Italy has a deep artistic and cultural tradition, with stable demand for private art lessons, though affected by economic fluctuations. Job opportunities are concentrated in urban cultural districts, with moderate competition and many freelancers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$22,000 | 自由职业或兼职收入较低 |
-| 中级（3-10年） | $22,000~$35,000 | 受雇于工作室或学校时收入较稳定 |
-| 高级（10年以上） | $35,000~$50,000 | 工作室负责人或知名艺术教师可达更高 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$22,000 | Freelance or part-time income is lower |
+| Intermediate (3-10 years) | $22,000~$35,000 | Relatively stable income when employed by studios or schools |
+| Senior (10+ years) | $35,000~$50,000 | Studio manager or renowned art teacher may be higher |
+| average salary | $29,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径通常从助理教师或自由艺术家起步，积累经验后可晋升为工作室负责人或开设个人艺术学校，部分优秀者可转向高等艺术教育或策展领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace some basic teaching and administrative tasks, but it also amplifies teachers' value through creative tools and personalized learning platforms, so the job outlook is mixed and requires proactive adaptation.
+
+Career development paths typically start as assistant teacher or freelance artist; after gaining experience, you can advance to studio director or start your own art school; top performers may move into higher art education or curation.
+
+**Tasks most exposed to AI:**
+
+- Basic technique demonstration (e.g., AI-generated step-by-step diagrams replacing live demonstration)
+- Initial assignment feedback (automated feedback based on rules or models)
+- Student progress tracking and report generation (automated tools)
+- Art History Q&A and Data Compilation (Replaced by Large Language Model)
+- Partial one-on-one standardized tutoring (handled by AI adaptive learning systems)
+
+**Where AI augments the role:**
+
+- Using AI to generate creative reference images to inspire students
+- Use AI to analyze student work styles and provide personalized improvement suggestions
+- Creating immersive artistic learning scenarios by combining VR/AR with AI
+- Automated creation of teaching courseware and multimedia cases, improving lesson preparation efficiency
+- Expand international art education content using AI translation and cross-cultural resource libraries
+
+**Human moat:**
+
+- Face-to-face emotional communication and encouragement to build trust
+- Hands-on corrective guidance for movements, material control, and other fine tactile instruction
+- Improvisation guidance and personalized creative inspiration
+- Classroom atmosphere creation and team collaboration guidance
+- Curriculum design and evaluation integrating local cultural context
+
+**Skills to build:**
+
+- Application of AI art generation tools (e.g., Midjourney, DALL·E)
+- Learning Management System (LMS) and basic data analysis skills
+- VR/AR teaching device operation and content design
+- Operations for social media and online teaching platforms
+- Interdisciplinary teaching ability (arts + technology + psychology)
+- Critical thinking and creative guidance strategies
+
+**Key growth areas:**
 
 - art education
 - creative industries
@@ -63,66 +99,68 @@ Other Arts Teachers in Italy include private art studio instructors, community c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及工作合同，年薪门槛约24,000欧元（2024年） |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非高技能职位，需雇主担保 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，由雇主申请，需证明无合适欧盟候选人 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU citizens, requiring a university degree and work contract, with an annual salary threshold of approximately €24,000 (2024) |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-skilled positions, requires employer sponsorship |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied by employer, must prove no suitable EU candidate available |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Arts Teachers？**
-- 热爱艺术并有耐心教学的人
-- 善于沟通、能激发学生创意的人
-- 愿意接受自由职业或不稳定收入的人
+**Who is suited**
+- Individuals passionate about art and patient in teaching
+- Someone who communicates well and can inspire students creatively
+- Willing to accept freelance work or unstable income
 
-**谁不适合学Other Arts Teachers？**
-- 追求高薪或稳定工作的人
-- 对教学缺乏热情的人
+**Who is not suited**
+- People seeking high salary or stable jobs
+- People lacking enthusiasm for teaching
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for art teachers in Italy?**
+A: Junior approx. 15,000-22,000 EUR/year, mid-level 22,000-35,000, senior 35,000-50,000. Private studio income varies greatly.
+
+**Q: How can non-EU citizens immigrate to Italy as art teachers?**
+A: Available through the EU Blue Card (for highly skilled workers) or the Decreto Flussi quota work visa. Requires employer sponsorship and academic qualification verification.
+
+**Q: What are the career progression paths for an art teacher?**
+A: Can start as assistant teacher, accumulate experience to set up personal studio or transfer to higher education institutions for teaching, also possible to engage in art curation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other Arts Teachers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for art teachers in Italy?**
-答：Entry-level: €15,000-22,000/year; mid: €22,000-35,000; senior: €35,000-50,000. Private studio income varies.
-
-**问：How can non-EU citizens migrate as art teachers to Italy?**
-答：Via EU Blue Card (requires high skill) or Decreto Flussi quota work visa. Employer sponsorship and degree recognition needed.
-
-**问：What is the career progression for art teachers?**
-答：Start as assistant, progress to studio owner or higher education instructor, or move into curating.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

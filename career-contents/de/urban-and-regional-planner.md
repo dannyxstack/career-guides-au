@@ -1,60 +1,96 @@
-# Urban and Regional Planner（Urban and Regional Planner）职业分析 · DE
+# Urban and Regional Planner — career analysis · Germany
 
-**职业代码：3112 – Urban and Regional Planner。**
+**Occupation code: 3112 (KldB)**
 
-Urban and regional planners develop concepts for spatial development, coordinating land use, transport, and environment for sustainable city and regional growth.
+Urban and regional planners develop urban and rural development plans, coordinate land use, transport, environment, etc., providing sustainable spatial development strategies for governments or planning agencies.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（公立大学每学期约150-300欧元注册费） |
-| 硕士 | 2年（大学） | —（部分州有学费，通常低于1500欧元/学期） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,500 (Public universities: approximately 150-300 euros per semester registration fee) |
+| Master's degree | 2 years (university) | $0~$1,500 (Some states charge tuition, typically under EUR 1,500 per semester) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 城市与区域规划学位 | 德国大学 | 必备 | 通常要求空间规划、地理或相关专业硕士学历 |
-| 资质认证（Anerkennung） | 德国规划师协会（SRL）或州政府 | 可选 | 非强制，但有助于在公共部门担任高级职位 |
+| Urban and regional planning degree | German university | Required | Typically requires a master's degree in spatial planning, geography, or a related field |
+| Qualification recognition (Anerkennung) | German Association of Planners (SRL) or state government | Optional | Not mandatory, but beneficial for senior positions in the public sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,000。德国面临住房短缺和城市更新需求，规划师就业前景良好。联邦与州政府持续投入基础设施与气候适应项目，岗位稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Germany faces housing shortages and urban renewal needs, so planners have good employment prospects. Federal and state governments continue to invest in infrastructure and climate adaptation projects, ensuring steady job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 公共部门按TVöD E13起薪约4.2万欧元 |
-| 中级（4-7年） | $48,000~$60,000 | 私营企业年薪可达5.5万欧元以上 |
-| 高级（8年以上） | $60,000~$80,000 | 项目负责人或部门主管可达7万欧元以上 |
+| Median salary | $62,184 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$48,000 | Public sector starting salary approx. €42,000 according to TVöD E13 |
+| Mid-level (4-7 years) | $48,000~$60,000 | Annual salary in private enterprises can exceed €55,000. |
+| Senior (8+ years) | $60,000~$80,000 | Project managers or department heads can reach over €70,000. |
+| average salary | $67,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业路径从初级规划师到项目负责人，可晋升为部门主管或独立规划事务所合伙人。通过资质认证后可担任更高级别的公共职务。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
+
+Career path from junior planner to project lead, with potential to become department head or partner in an independent planning firm. Certification can lead to higher-level public roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary land use analysis report
+- Performing standardized traffic flow simulations.
+- Batch process geospatial data and create basic maps
+- Compile routine regulatory compliance checklists
+- Automatically generate meeting minutes and preliminary public opinion summaries
+
+**Where AI augments the role:**
+
+- Use AI to simulate multiple planning scenarios and assess environmental impacts.
+- Analyzing public opinion and extracting key demands using natural language processing
+- Predict urban growth trends and infrastructure needs based on machine learning
+- Automatically identify land use changes in satellite imagery
+- Optimize transport network design to reduce commute time and carbon emissions
+
+**Human moat:**
+
+- Political judgment and negotiation skills to balance multiple stakeholders' interests
+- Handling conflicting public opinions and reaching consensus
+- Deep understanding and intuition of local socioeconomic context
+- planning decisions bearing legal and ethical responsibilities
+- Creative ability to design unique community spaces
+
+**Skills to build:**
+
+- Master advanced GIS analysis and automation (ArcPy, QGIS)
+- Learn machine learning fundamentals and urban analysis applications (Scikit-learn, TensorFlow)
+- Improve data visualization and communication skills (Tableau, D3.js)
+- Keep up with updates to urban planning related laws and regulations
+- Develops public participation and conflict mediation skills
+- Learn sustainable infrastructure design principles
+
+**Key growth areas:**
 
 - Urban Renewal
 - Climate Adaptation
@@ -63,69 +99,68 @@ Urban and regional planners develop concepts for spatial development, coordinati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且年薪达到门槛（2024年约4.3万欧元）的规划师。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 持有德国认可学位且获得工作合同即可申请。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德国寻找工作，最长一年。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for planners with higher education and salary threshold (approx. €43k in 2024). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a German-recognized degree and obtain a job contract to apply. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa allowing entry to Germany to look for work, valid for up to one year. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Urban and Regional Planner？**
-- 拥有空间规划、地理或相关学位者
-- 对城市可持续发展与公共政策有兴趣的人
-- 具备跨学科思维与分析能力的人
-
-**谁不适合学Urban and Regional Planner？**
-- 偏好快速变现和高薪职业者
-- 不喜欢处理复杂法规和多方协调的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a degree in spatial planning, geography, or a related field
+- People interested in urban sustainability and public policy
+- People with interdisciplinary thinking and analytical skills
+
+**Who is not suited**
+- Those who prefer quick returns and high-paying careers
+- People who dislike dealing with complex regulations and multi-party coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of urban and regional planners?**
+A: Entry-level planner salary is about 38,000–48,000 euros annually, senior can exceed 80,000 euros, with stable public sector pay.
+
+**Q: How to become a planner in Germany with a foreign degree?**
+A: Must submit qualifications to German accreditation bodies (e.g., SRL) for credential evaluation, usually requiring equivalence to a German master's degree in planning.
+
+**Q: What positions can planners advance to?**
+A: Can advance to project supervisor, department director, or establish own planning firm, or transition to research or teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Urban and Regional Planner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for urban and regional planners?**
-答：Entry-level planners earn €38,000–€48,000 annually, senior planners up to €80,000+, with stable public sector pay.
-
-**问：How can foreign qualifications become a planner in Germany?**
-答：Submit your degree for recognition (Anerkennung) by bodies like SRL; typically requires equivalence to a German master's in planning.
-
-**问：What career advancements are available for planners?**
-答：Promotions to project lead, department head, or starting your own firm; opportunities in research and teaching.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

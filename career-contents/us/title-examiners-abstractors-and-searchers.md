@@ -1,59 +1,94 @@
-# Title Examiners, Abstractors, and Searchers（Title Examiners, Abstractors, and Searchers）职业分析 · 美国
+# Title Examiners, Abstractors, and Searchers — career analysis · United States
 
-**职业代码：23-2093 – Title Examiners, Abstractors, and Searchers。**
+**Occupation code: 23-2093 (SOC)**
 
-Search real estate records, examine titles, or summarize pertinent legal or insurance documents for law firms, real estate agencies, or title insurance companies.
+Search real estate records, review titles or abstracts, compile lists of mortgages, contracts, etc., for law firms, real estate agencies, or title insurance companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（部分雇主接受在职培训） |
-| 副学士学位（相关领域） | 2年 | $10,000~$30,000（社区大学学费） |
-| 学士学位（商业、法律等） | 4年 | $40,000~$120,000（公立大学估算） |
+| High school diploma | 4 years | $0~$0 (Some employers accept on-the-job training) |
+| Associate degree (related field) | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree (Business, Law, etc.) | 4 years | $40,000~$120,000 (Public university estimate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 全国产权审核员认证（NTA） | 美国产权协会 | 可选 | 自愿认证，增强竞争力 |
-| 在职培训 | 雇主 | 必备 | 通常需要6个月至1年 |
+| On-the-job training | Employer | Required | Typically takes 6 months to 1 year |
+| National Title Examiner Certification (NTA) | American Land Title Association | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 51,000。美国就业前景稳定，预计2022-2032年岗位数量基本不变或略有下降，因技术自动化减少部分常规任务，但复杂产权审查仍需专业人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 51,000. U.S. job outlook is stable, with little or no change in the number of positions from 2022 to 2032, as technology automation reduces some routine tasks, but complex property title reviews still require professionals.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | 入门级薪资 |
-| 中级（3-7年） | $48,000~$65,000 | 有经验者 |
-| 高级（7年以上） | $65,000~$90,000 | 主管或高级审核员 |
+| Median salary | $58,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$48,000 | Entry-level salary |
+| Mid-level (3–7 years) | $48,000~$65,000 | Experienced individuals |
+| Senior (7+ years) | $65,000~$90,000 | Supervisor or senior auditor |
+| average salary | $62,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 可从初级搜索员或文员起步，积累经验后晋升为高级产权审核员、主管或经理；部分人转向房地产律师、保险理赔员或相关金融岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
+
+Can start as a junior searcher or clerk, gain experience to advance to senior title examiner, supervisor, or manager; some move to real estate lawyer, insurance adjuster, or related financial roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically scrape comparable sales case data from public databases
+- Generating preliminary valuation report drafts (template-based)
+- Automatically adjust model parameters based on historical data for basic valuation
+- Regularly monitoring market trends and automatically generating market briefs
+
+**Where AI augments the role:**
+
+- AI providing real-time market data and trend predictions to aid accurate valuation
+- Automated documentation and compliance checks to reduce manual errors
+- Enhancing report visualization capabilities for client communication
+- Support rapid scenario simulation (e.g., impact of interest rate changes on housing prices)
+- Integrate geographic information (GIS) with AI analysis to improve location assessment accuracy
+
+**Human moat:**
+
+- Deep insights into non-quantitative factors of the local property market (e.g., community reputation, future plans)
+- Customer negotiation and trust-building skills
+- Interpretation and judgment of complex property boundaries and legal clauses
+- Responsibility attribution and professional ethics decisions in valuation reports
+- On-site visual inspection for building defects and subtle area changes
+
+**Skills to build:**
+
+- Data analysis and interpretation (Python/R, SQL)
+- Valuation automation software (e.g., ValEx, API integration)
+- GIS and spatial analysis tools (e.g., ArcGIS)
+- AI model interpretability (explainable AI report generation)
+- Advanced communication and client consultation skills
+- Continuously updated regulatory and compliance knowledge
+
+**Key growth areas:**
 
 - Stable
 - Low growth
@@ -62,65 +97,64 @@ Search real estate records, examine titles, or summarize pertinent legal or insu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等经验，雇主担保，抽签制 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 技术工人、专业人员或其他工人绿卡 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 劳工证后申请职业移民绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent experience, employer sponsorship, lottery system |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Green card for skilled workers, professionals, or other workers |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card after labor certification |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Title Examiners, Abstractors, and Searchers？**
-- 注重细节、耐心细致的人
-- 喜欢法律文书和地产相关工作
-- 寻求稳定办公室工作的人
-
-**谁不适合学Title Examiners, Abstractors, and Searchers？**
-- 厌倦重复性文档工作的人
-- 希望高薪快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- Enjoys legal documents and real estate-related work
+- People seeking stable office jobs
+
+**Who is not suited**
+- People tired of repetitive documentation work
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a property auditor?**
+A: Annual salary typically between $35,000 and $90,000, median about $48,000, influenced by region and experience.
+
+**Q: Can a title examiner immigrate to the US?**
+A: Yes, through employer-sponsored H-1B work visa or EB-3 employment-based green card, but requires relevant degree or experience, and competition is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Title Examiners, Abstractors, and Searchers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for title examiners?**
-答：Annual salaries typically range from $35,000 to $90,000, with a median around $48,000, varying by location and experience.
-
-**问：Can title examiners immigrate to the US?**
-答：Yes, through employer-sponsored H-1B visa or EB-3 green card, but requires related degree or experience and competition is significant.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Delivery drivers and couriers（Delivery drivers and couriers）职业分析 · UK
+# Delivery drivers and couriers — career analysis · United Kingdom
 
-**职业代码：8214 – Delivery drivers and couriers。**
+**Occupation code: 8214 (SOC)**
 
-Delivery drivers and couriers collect, transport and deliver goods using vehicles up to 7.5 tonnes, including bicycles, forming a key part of the logistics supply chain.
+Delivery drivers and couriers use bicycles, motorcycles, or motor vehicles with a load capacity under 7.5 tonnes to collect, transport, and deliver goods, playing a key role in the logistics supply chain.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无特定教育要求 | 无 | —（通常无需正式教育，但需通过驾照考试） |
-| 驾驶培训课程 | 1-3周 | $200~$500（可选培训，如配送效率、客户服务等） |
+| No specific educational requirements | None | $0~$0 (Usually no formal education required, but must pass driving license test) |
+| Driving training courses | 1-3 weeks | $200~$500 (Optional training, such as delivery efficiency, customer service, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B类汽车驾照 | DVLA（驾驶员和车辆标准局） | 必备 | 驾驶机动车（含3.5吨以下货车）必需 |
-| C1类驾照（可选） | DVLA | 可选 | 驾驶3.5-7.5吨车辆时需持有 |
+| Class B car driving license | DVLA (Driver and Vehicle Standards Agency) | Required | Driving a motor vehicle (including vans under 3.5 tonnes) is mandatory |
+| Class C1 driving license (optional) | DVLA | Optional | Required when driving vehicles weighing 3.5-7.5 tons |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 350,000。由于电子商务持续增长，该职业需求稳定。预计2024-2029年岗位数量将增长约5%，但受自动驾驶技术影响，长期存在不确定性。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 350,000. Due to continued e-commerce growth, demand for this occupation is stable. The number of positions is expected to grow by about 5% from 2024 to 2029, but long-term uncertainty exists due to autonomous driving technology.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 通常为按件计酬或最低工资加提成 |
-| 中级（3-5年） | $25,000~$30,000 | 经验丰富者可通过效率提升收入 |
-| 高级（5年以上） | $30,000~$38,000 | 包括车队管理或自营车辆的收入 |
+| Median salary | $27,854 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$25,000 | Usually piece-rate pay or minimum wage plus commission. |
+| Mid-level (3–5 years) | $25,000~$30,000 | Experienced individuals can increase income through efficiency |
+| Senior (5+ years) | $30,000~$38,000 | Includes income from fleet management or self-owned vehicles |
+| average salary | $29,419 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可从快递员晋升至调度员、车队主管或物流经理。部分司机通过积累经验转为自有车辆运营者。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Delivery drivers and couriers will face mixed fortunes: autonomous driving and robots may replace some long-haul and standardized deliveries, but AI can enhance human capabilities in route optimization, dynamic scheduling, and last-mile flexibility, while regulatory responsibility and complex interpersonal interactions remain a moat.
+
+Career progression paths are limited, from courier to dispatcher, fleet supervisor, or logistics manager. Some drivers transition to owner-operators through experience.
+
+**Tasks most exposed to AI:**
+
+- Automatic route planning using GPS and real-time traffic data
+- Autonomous vehicle delivery in controlled environments (e.g., warehouse to warehouse)
+- AI-based package sorting and loading sequence optimization
+- Automated customer notifications and tracking updates (e.g., SMS/email)
+
+**Where AI augments the role:**
+
+- AI-assisted dynamic scheduling: adjust routes based on real-time traffic, weather, and customer time windows
+- Smart parcel volume/weight estimation: improves loading efficiency and reduces damage
+- Fatigue driving warning and safety assistance through AI cameras and sensors
+- AI-driven customer service: handling delivery exceptions (e.g. incorrect address, recipient not present)
+
+**Human moat:**
+
+- Last-mile decision-making in complex environments (e.g., narrow alleys, rural areas without clear addresses)
+- Face-to-face interaction and relationship maintenance with clients (e.g., signing for deliveries, negotiating special requests)
+- Flexibility to handle unexpected situations (e.g., package damage, customer complaints)
+- Hand-eye coordination and physical control skills required for driving large vehicles
+
+**Skills to build:**
+
+- Use smart scheduling platform and mobile app
+- Basic data analysis (e.g., interpreting delivery performance indicators)
+- Customer service and communication skills
+- Knowledge of vehicle safety systems and driver-assistance technology
+- Time management and stress resistance skills
+- Multitasking (simultaneously monitoring routes and client messages)
+
+**Key growth areas:**
 
 - E-commerce growth
 - Last-mile delivery
@@ -63,65 +96,67 @@ Delivery drivers and couriers collect, transport and deliver goods using vehicle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业通常不符合技术工人签证要求，因其技能等级较低。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证持有人可从事任何工作，包括此职业，但需注意签证期限。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation typically does not meet skilled visa requirements due to its lower skill level. |
+| Subclass Graduate (Graduate visa) | Graduate visa holders can work in any occupation, including this one, but must note the visa's duration. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Delivery drivers and couriers？**
-- 喜欢户外工作和体力活动的人
-- 需要灵活工作时间的人
-- 对驾驶有热情且熟悉当地路线的人
+**Who is suited**
+- People who enjoy outdoor work and physical activity
+- People who need flexible working hours
+- People passionate about driving and familiar with local routes
 
-**谁不适合学Delivery drivers and couriers？**
-- 不喜长时间驾驶或户外工作的人
-- 寻求高收入和稳定职业发展路径的人
+**Who is not suited**
+- People who dislike long driving or outdoor work
+- People seeking high income and stable career development paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for delivery drivers and couriers?**
+A: Entry-level annual salary around £20,000-25,000, experienced can reach £30,000-38,000, but income fluctuates significantly depending on employer and delivery volume.
+
+**Q: Can a foreigner work as a delivery driver in the UK?**
+A: This occupation is generally not eligible for skilled worker visas, but those holding a graduate visa or family visa may work in it. Note the requirement for license conversion.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Limited advancement opportunities, but can develop into dispatcher, fleet manager, or increase income through self-owned vehicles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Delivery drivers and couriers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for delivery drivers and couriers?**
-答：Entry-level roles earn around £20,000-£25,000 annually, while experienced drivers can earn £30,000-£38,000, though income varies by employer and delivery volume.
-
-**问：Can foreigners work as delivery drivers in the UK?**
-答：This occupation typically does not qualify for a Skilled Worker visa, but those on a Graduate visa or family visa can work. Note the need to exchange driving licenses.
-
-**问：Are there promotion opportunities in this career?**
-答：Promotion prospects are limited, but you can move into dispatching, fleet management, or become self-employed with your own vehicle.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

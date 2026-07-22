@@ -1,61 +1,95 @@
-# Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)（Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)）职业分析 · 新西兰
+# Vegetable Farm Worker (Aus) / Market Garden Worker (NZ) — career analysis · New Zealand
 
-**职业代码：842218 – Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)。**
+**Occupation code: 842218 (ANZSCO)**
 
-Vegetable farm workers perform tasks such as planting, irrigating, fertilizing, weeding, harvesting, and packing vegetables. This is seasonal outdoor labour classified as ANZSCO Skill Level 4-5, typically not eligible for skilled migration but accessible via Accredited Employer Work Visa (AEWV).
+Vegetable farm workers perform physical labor such as planting, irrigation, fertilizing, weeding, harvesting, and packaging, mostly seasonal outdoor work. This occupation is at skill level 4-5 in ANZSCO and usually does not meet skilled migration requirements, but can work in New Zealand via the Accredited Employer Work Visa (AEWV).
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无需正式教育 | 0年 | —（通常无学历要求，雇主提供在职培训） |
-| 短期培训课程 | 2周 | $500~$2,000（如初级园艺课程、健康安全证书等） |
+| No formal education required | 0 years | $0~$0 (Usually no educational requirements; employers provide on-the-job training.) |
+| Short-term training course | 2 weeks | $500~$2,000 (E.g., introductory horticulture courses, health and safety certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 通常无证书要求，但雇主可能偏好有经验的工人 |
-| 新西兰驾照 | 新西兰交通局 (NZTA) | 可选 | 如需驾驶农场车辆，较好有一号驾照 |
-| 基本食品安全证书 | Primary ITO或类似机构 | 可选 | 部分雇主可能要求 |
+| No mandatory qualification requirements | None | Optional | Usually no certificate required, but employers may prefer experienced workers |
+| New Zealand driver licence | New Zealand Transport Agency (NZTA) | Optional | If driving farm vehicles, a Class 1 license is preferred. |
+| Basic food safety certificate | Primary ITO or similar organisations | Optional | Some employers may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰园艺业持续面临劳动力短缺，蔬菜农场对季节性工人需求稳定。预计未来几年仍将依赖海外劳工，但自动化技术可能减少部分岗位。工作机会主要集中在丰盛湾、霍克湾等产区。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. New Zealand's horticulture industry faces ongoing labour shortages, with stable demand for seasonal workers in vegetable farms. Expected to rely on overseas labour for the next few years, but automation may reduce some roles. Job opportunities mainly in Bay of Plenty, Hawke's Bay, and other growing regions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-1年） | $42,000~$48,000 | 约为最低工资标准（2024年约$23.15/小时）全时收入 |
-| 中级（1-3年） | $48,000~$55,000 | 经验丰富，可能获得较高时薪 |
-| 高级（3年以上领班） | $55,000~$65,000 | 负责管理团队，收入稍高 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Junior (0-1 year) | $42,000~$48,000 | Approximately full-time income at the minimum wage (approx. $23.15/hour in 2024) |
+| Intermediate (1-3 years) | $48,000~$55,000 | Experienced, may earn a higher hourly wage |
+| Senior (3+ years as team leader) | $55,000~$65,000 | Responsible for managing a team, with slightly higher income |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业发展路径有限，可从初级工人晋升为领班或团队主管，少数经验丰富者可自营农场。通常需要学习新西兰的农机操作、食品安全和健康安全规范。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Vegetable farm workers face high risk of automation, especially for repetitive tasks like picking and weeding, but in the short term, automation is limited by physical environment and cost constraints.
+
+Career development paths are limited; progression from junior worker to supervisor or team leader is possible, and a few experienced individuals may run their own farms. Typically requires learning New Zealand's agricultural machinery operation, food safety, and health and safety standards.
+
+**Tasks most exposed to AI:**
+
+- Automated harvesters replace manual vegetable picking
+- AI vision-based weed identification and precision weeding robots replace manual weeding
+- Automated irrigation system adjusts based on soil sensor data, replacing manual watering
+- Using drones to monitor crop growth to replace manual inspection
+- Automated packaging lines replace manual sorting and packing
+
+**Where AI augments the role:**
+
+- AI-guided precision fertilization and pest prediction enhance decision-making
+- Wearable devices monitor worker health and fatigue to enhance safety
+- AR glasses provide real-time operational guidance to enhance training efficiency
+- Data analysis optimizes planting plans and crop rotation to enhance management
+
+**Human moat:**
+
+- Precise operations in complex terrain and variable weather
+- Intuitive judgment and experience-based decision-making for crop health
+- Special requirements of organic farms and other manual-labor-intensive settings
+- Aligning customer relationships with the local market
+
+**Skills to build:**
+
+- Agricultural robot operation and maintenance
+- Data analysis and farm management software usage
+- Precision agriculture technologies (e.g., drones, sensors)
+- Knowledge of sustainable agricultural practices
+- Basic programming and automation system debugging
+- Multi-task coordination and team management
+
+**Key growth areas:**
 
 - Seasonal Labour
 - AEWV
@@ -64,65 +98,67 @@ Vegetable farm workers perform tasks such as planting, irrigating, fertilizing, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见的工签途径，雇主需为认证雇主，工作为真实、全职，且小时工资不低于中位数工资（2024年约$29.66/小时）。 |
-| Subclass RSE（Recognised Seasonal Employer Scheme） | 适用于季节性短期工作，主要针对太平洋岛国工人。 |
+| Subclass AEWV (Accredited Employer Work Visa) | The most common work visa pathway, where the employer must be accredited, the job must be genuine and full-time, and the hourly wage must be at least the median wage (approx. $29.66/hour in 2024). |
+| Subclass RSE (Recognised Seasonal Employer Scheme) | Applicable to seasonal short-term work, mainly for Pacific Island workers. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)？**
-- 体力好、能适应户外和季节性工作的人
-- 对农业园艺有热情，愿意从基层干起的人
-- 希望通过工签入境新西兰，慢慢寻找其他机会的人
+**Who is suited**
+- People with good physical fitness, adaptable to outdoor and seasonal work
+- People passionate about agriculture and horticulture who are willing to start from the ground up
+- People who hope to enter New Zealand on a work visa and slowly look for other opportunities
 
-**谁不适合学Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)？**
-- 期望通过技术移民直接获得居留权的人
-- 不喜欢体力劳动、需要稳定办公室环境的人
+**Who is not suited**
+- Those who expect to obtain direct residence through skilled migration
+- Individuals who dislike physical work and require a stable office environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for vegetable farm workers?**
+A: Typically paid at or slightly above the minimum wage. In 2024, the minimum wage is $23.15/hour, with a full-time annual salary of approximately $42,000–$48,000. Seasonal work may fluctuate with hours.
+
+**Q: Can vegetable farm workers immigrate to New Zealand?**
+A: This occupation falls under ANZSCO skill level 4-5, usually not eligible for the Skilled Migrant Category (SMC) or Green List. However, it can work through the Accredited Employer Work Visa (AEWV) or Recognised Seasonal Employer (RSE) scheme, making it difficult to obtain residency directly.
+
+**Q: Which regions in New Zealand have high demand for vegetable farm workers?**
+A: Main demand is in horticultural regions such as Bay of Plenty, Hawke's Bay, Waikato, and Canterbury, which have many vegetable farms.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for vegetable farm workers?**
-答：Usually paid at or slightly above minimum wage, which is $23.15/hr in 2024, with full-time annual earnings around NZD 42,000-48,000. Seasonal work may vary with hours.
-
-**问：Can vegetable farm workers immigrate to New Zealand?**
-答：This occupation is ANZSCO Skill Level 4-5 and generally does not meet SMC or Green List requirements. However, you can work via Accredited Employer Work Visa (AEWV) or RSE scheme, but direct residence is difficult.
-
-**问：Which regions in New Zealand have high demand for vegetable farm workers?**
-答：High demand exists in horticulture regions such as Bay of Plenty, Hawke's Bay, Waikato, and Canterbury, where many vegetable farms are located.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

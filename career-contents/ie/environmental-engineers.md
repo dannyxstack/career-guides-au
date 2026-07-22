@@ -1,58 +1,93 @@
-# Environmental Engineers（Environmental Engineers）职业分析 · IE
+# Environmental Engineers — career analysis · Ireland
 
-**职业代码：2143 – Environmental Engineers。**
+**Occupation code: 2143 (ISCO08)**
 
-Environmental engineers design, plan, and implement solutions for environmental protection and pollution control, addressing water, air, soil, and waste management to promote sustainability.
+Environmental engineers design, plan, and implement environmental protection and pollution control solutions involving water, air, soil, and waste management to ensure sustainable development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | —（欧盟学生学费较低，非欧盟学生约1.5-3万欧元/年） |
-| 硕士 | 1-2年（硕士） | $10,000~$25,000（硕士学费约1-2.5万欧元/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $0~$30,000 (Lower tuition for EU students; non-EU students approximately €15,000–30,000 per year.) |
+| Master's degree | 1-2 years (Master's) | $10,000~$25,000 (Master's tuition about €10,000-25,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰工程师协会注册工程师 | Engineers Ireland | 可选 | 特许工程师需认证，提升职业竞争力 |
-| 环境管理证书 | Irish Environmental Protection Agency | 可选 | 非强制，但有助于专业发展 |
+| Chartered Engineer with Engineers Ireland | Engineers Ireland | Optional | Chartered engineers need certification to enhance career competitiveness. |
+| Certificate in Environmental Management | Irish Environmental Protection Agency | Optional | Not mandatory, but beneficial for professional development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。爱尔兰环境工程师需求稳定，受欧盟绿色协议和本国气候行动计划推动，预计未来五年增长约8%，尤其在可再生能源和废水处理领域。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Demand for environmental engineers in Ireland is stable, driven by the EU Green Deal and national Climate Action Plan, with an estimated 8% growth over the next five years, particularly in renewable energy and wastewater treatment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级环境工程师可晋升为项目经理或技术专家，积累经验后可担任首席工程师或环境顾问，也可转向政策或管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental engineers' core tasks involve complex system design and compliance judgment, low short-term replacement risk; but data monitoring, report generation, preliminary design, etc., have been significantly affected by AI, with some entry-level positions reduced. Overall mixed, requiring proactive skill upgrading.
+
+Junior environmental engineers can advance to project managers or technical experts; with experience, they can become chief engineers or environmental consultants, or shift to policy or management roles.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and basic report generation
+- Standard calculation and debugging of pollutant dispersion models
+- Compliance document template filling and preliminary review
+- Literature Search and Data Statistics in Environmental Impact Assessment
+- Parameter optimization for fixed-process pollution control schemes
+
+**Where AI augments the role:**
+
+- Using AI simulation to accelerate comparison and design optimization of pollution control schemes
+- Predict pollutant trends using machine learning and develop response strategies in advance
+- Use natural language processing to quickly review massive regulations and literature
+- Combining IoT and AI for intelligent environmental monitoring and warning systems
+
+**Human moat:**
+
+- Interdisciplinary system-level solution design (e.g., integrating ecological restoration with engineering)
+- Communication, negotiation, and compliance adjudication with regulators, communities, and businesses
+- Ethical and safety judgments in emergency decision-making for incidents (e.g., leak accidents)
+- R&D of innovative pollution control technologies (breaking through existing frameworks)
+- Full lifecycle management of projects and coordination of multiple stakeholders
+
+**Skills to build:**
+
+- Python/R and machine learning (applied to environmental data modeling)
+- GIS and Remote Sensing Analysis (Spatial Environmental Decision Making)
+- AI-assisted design tools (e.g., AutoCAD + generative design)
+- Environmental big data analysis and visualization (Tableau, etc.)
+- Environmental legal and ESG reporting AI tools (such as Greenstone)
+- Systems thinking and cross-disciplinary collaboration skills
+
+**Key growth areas:**
 
 - Green Economy
 - Climate Action Plan
@@ -61,65 +96,64 @@ Environmental engineers design, plan, and implement solutions for environmental 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超3.2万欧元的环境工程师，可直接申请永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动市场测试，年薪需达标，适合非短缺但仍有需求者 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人士，年薪需达1.5倍平均工资（约4.5万欧元） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to environmental engineers with an annual salary over €32,000, eligible for direct permanent residence |
+| Subclass General Employment P (General Employment Permit) | Requires labor market testing, salary must meet threshold, suitable for those in non-shortage but still in demand |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU individuals, annual salary must reach 1.5 times the average wage (approx. €45,000) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Engineers？**
-- 对环境保护有热情，具备工程与科学基础
-- 善于解决复杂问题，有团队协作精神
-- 愿意持续学习新法规与技术
-
-**谁不适合学Environmental Engineers？**
-- 不喜欢户外或现场工作
-- 对细致法规文书工作缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about environmental protection, with engineering and science foundation
+- Skilled at solving complex problems, with a team-oriented mindset
+- Willingness to continuously learn new regulations and technologies
+
+**Who is not suited**
+- Dislikes outdoor or on-site work
+- Impatience with meticulous regulatory paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for environmental engineers in Ireland?**
+A: Junior approximately €35,000-45,000, intermediate €50,000-65,000, senior €70,000-90,000, all annual pre-tax salary.
+
+**Q: What visa is needed for an environmental engineer to immigrate to Ireland?**
+A: Preferred: Critical Skills Employment Permit, with annual salary exceeding €32,000, no labour market test needed, eligible for permanent residence after 2 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Environmental Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for environmental engineers in Ireland?**
-答：Entry-level: €35,000-€45,000, mid-level: €50,000-€65,000, senior: €70,000-€90,000, all gross annual.
-
-**问：What visa is needed for environmental engineers to migrate to Ireland?**
-答：The Critical Skills Employment Permit is preferred, requiring a salary above €32,000, no labor market test, and eligibility for permanent residency after 2 years.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

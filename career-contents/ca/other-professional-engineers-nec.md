@@ -1,59 +1,92 @@
-# Other professional engineers, n.e.c.（Other professional engineers, n.e.c.）职业分析 · 加拿大
+# Other professional engineers, n.e.c. — career analysis · Canada
 
-**职业代码：21399 – Other professional engineers, n.e.c.。**
+**Occupation code: 21399 (NOC)**
 
-Fire Safety Engineers in Canada design fire protection systems, conduct fire risk assessments, and develop evacuation plans. This profession is eligible for immigration via Express Entry (e.g., CEC or FSW) and Provincial Nominee Programs (e.g., Ontario, BC).
+Fire safety engineers in Canada design fire protection systems, conduct fire risk assessments, and develop evacuation plans. This engineering occupation has good feasibility for immigration through Express Entry (e.g., CEC or FSW) or provincial nomination (e.g., Ontario, BC, etc.).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 工程学学士 | 4年 | $60,000~$120,000（国际生学费，约1.5-3万加元/年） |
-| 消防工程硕士 | 2年 | $40,000~$80,000（国际生学费，约2-4万加元/年） |
+| Bachelor of Engineering | 4 years | $60,000~$120,000 (International student tuition, approximately CAD 15,000-30,000 per year.) |
+| Master's degree in fire engineering | 2 years | $40,000~$80,000 (International student tuition, approx. CAD 20,000-40,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECE学历认证 | WES / ICAS等 | 可选 | 用于移民申请的学历等同认证 |
-| 专业工程师(P.Eng.)执照 | 各省工程监管机构（如PEO、APEGA） | 必备 | 至少4年经验并通过FE/EIT考试，是从事独立工程实践的法律要求 |
-| 雅思或思培考试 | IRCC认可机构 | 可选 | 移民要求CLB 7（雅思G类各6.0）或更高 |
+| Professional Engineer (P.Eng.) license | Provincial engineering regulatory bodies (e.g., PEO, APEGA) | Required | At least 4 years of experience and passing the FE/EIT exam is a legal requirement for independent engineering practice |
+| ECE credential assessment | WES / ICAS etc. | Optional | Educational credential assessment for immigration purposes |
+| IELTS or CELPIP exam | IRCC-recognized institution | Optional | Immigration requirement CLB 7 (IELTS General 6.0 per band) or higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。加拿大建筑安全法规日趋严格，高层建筑、隧道及数据中心项目增长，消防安全工程师需求稳定。预计未来5年就业增长良好，尤其在大城市（如多伦多、温哥华）及资源型省份（如阿尔伯塔）。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Canada's building safety regulations are becoming stricter, with growth in high-rise, tunnel, and data center projects, leading to stable demand for fire safety engineers. Good employment growth expected over the next 5 years, especially in major cities (e.g., Toronto, Vancouver) and resource-rich provinces (e.g., Alberta).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | EIT或从工程师助理开始 |
-| 中级（4-8年） | $80,000~$100,000 | 已获P.Eng.执照 |
-| 高级（9年以上） | $100,000~$140,000 | 担任项目经理或顾问 |
+| Median salary | $104,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | EIT or start as an engineering assistant |
+| Mid-level (4–8 years) | $80,000~$100,000 | Already holds P.Eng. license |
+| Senior (9+ years) | $100,000~$140,000 | Work as project manager or consultant |
+| average salary | $112,320 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级消防安全工程师（EIT）积累经验后可考取专业工程师（P.Eng.）执照，进而晋升为高级工程师、项目经理或消防顾问。部分人才转向政府监管或保险风险评估领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on fire safety engineers is mixed: routine document review and basic risk assessment can be automated, but on-site decision-making, compliance responsibility, and human factor judgment remain core human barriers.
+
+Junior fire protection engineers (EIT) can gain experience and obtain a Professional Engineer (P.Eng.) license, then advance to senior engineer, project manager, or fire consultant. Some transition to government regulation or insurance risk assessment.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of standard fire system design drawings and calculations
+- Preliminary fire risk assessment report based on historical data.
+- Automated checking of building code compliance items (e.g., sprinkler spacing)
+- Drafting and filing routine inspection reports
+
+**Where AI augments the role:**
+
+- AI optimizes fire simulation software for rapid iteration of evacuation plans
+- Real-time monitoring of building sensors, AI early warning of potential fire hazards
+- Enhanced virtual reality fire drills for better training outcomes
+- AI-assisted analysis of complex combustion models to optimize material selection
+
+**Human moat:**
+
+- Human judgment and flexible response in on-site safety inspections
+- Final project sign-off and legal liability acceptance
+- Communication skills to coordinate multiple stakeholders (owners, fire department, insurance)
+- Interdisciplinary innovative solutions for emerging risks (e.g., lithium battery fires)
+
+**Skills to build:**
+
+- Mastering AI-Enhanced Fire Simulation Software like Fire Dynamics Simulator
+- Learn Python/R for fire data analysis and predictive modeling
+- Obtain high-end certifications such as CFPS (Certified Fire Protection Specialist)
+- Enhance practical ability in using AI tools for compliance review.
+- Elective courses in crisis management and leadership
+- Understanding IoT sensors and Building Information Modeling (BIM) integration
+
+**Key growth areas:**
 
 - Green Building
 - Building Code Update
@@ -62,65 +95,64 @@ Fire Safety Engineers in Canada design fire protection systems, conduct fire ris
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 符合NOC TEER 1要求，通过FSW或CEC获得永久居民身份，需语言CLB 7及学历认证 |
-| Subclass PNP（Provincial Nominee Program） | 安省、BC省、阿省等对工程师类的省提名项目，可获加分或直接提名 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保移民，适合已获雇主offer的申请人 |
+| Subclass EE (Express Entry (FSW/CEC)) | Meets NOC TEER 1 requirements, obtain permanent residence through FSW or CEC, requires CLB 7 and educational credential assessment |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for engineers in Ontario, BC, Alberta, etc., offering points or direct nomination |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship immigration, suitable for applicants with a job offer. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other professional engineers, n.e.c.？**
-- 具有工程学本科或硕士学历，尤其是消防、土木或机械工程专业
-- 具备数理分析能力和对建筑规范的熟练度
-- 愿意在北美获取或转加拿大的工程师执照（P.Eng.）
-
-**谁不适合学Other professional engineers, n.e.c.？**
-- 无法在英语或法语环境中顺畅沟通（需CLB 7以上）
-- 难以满足严厉的工程师注册考试要求（如FE及专业实践考试）
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a bachelor's or master's degree in engineering, especially fire protection, civil, or mechanical engineering
+- Proficient in mathematical analysis and familiar with building codes.
+- Willing to obtain or transfer an engineer's license (P.Eng.) in North America.
+
+**Who is not suited**
+- Unable to communicate fluently in English or French (requires CLB 7 or higher)
+- Difficult to meet stringent engineering registration exam requirements (e.g., FE and professional practice exams)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Fire Safety Engineers in Canada?**
+A: Entry-level about 55,000-75,000 CAD, mid-level 80,000-100,000, senior 100,000-140,000. Higher with P.Eng. license and in large cities.
+
+**Q: Is it difficult for fire safety engineers to immigrate through Express Entry?**
+A: STEM occupation with high CRS points advantage in EE, but requires IELTS CLB 7, ECA, and usually Canadian (CEC) or foreign (FSW) work experience. If not eligible for EE, consider PNP (e.g., Ontario Human Capital Priorities).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other professional engineers, n.e.c.的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Fire Safety Engineers in Canada?**
-答：Entry-level: CAD 55,000-75,000; Mid-level: CAD 80,000-100,000; Senior: CAD 100,000-140,000. Licensure (P.Eng.) and location significantly affect income.
-
-**问：Is it difficult for Fire Safety Engineers to immigrate via Express Entry?**
-答：As a STEM profession, it scores well in CRS. Requirements include CLB 7 IELTS, ECA, and Canadian work experience (CEC) or foreign work experience (FSW). If EE is not sufficient, PNP streams (e.g., Ontario Human Capital) are good alternatives.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

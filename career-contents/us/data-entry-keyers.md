@@ -1,60 +1,96 @@
-# Data Entry Keyers（Data Entry Keyers）职业分析 · 美国
+# Data Entry Keyers — career analysis · United States
 
-**职业代码：43-9021 – Data Entry Keyers。**
+**Occupation code: 43-9021 (SOC)**
 
-Operate data entry devices such as keyboards to input information, may verify data and prepare materials for printing. Excludes word processors and typists.
+Operate keyboards or data entry devices to input information, which may include verifying data and preparing print materials. Excludes word processors and typists.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年（在职培训） | —（通常不需额外教育成本） |
-| 短期职业培训证书 | 6个月 | $3,000~$15,000（社区大学或私立职业培训） |
+| High school diploma or equivalent | 0 years (on-the-job training) | $0~$0 (Typically no additional education costs) |
+| Short-term vocational training certificate | 6 months. | $3,000~$15,000 (Community college or private vocational training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 美国教育部认可机构 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 必备 | 通常持续1-3个月 |
+| High school diploma or GED | Accredited by the U.S. Department of Education | Required | Basic entry requirements |
+| On-the-job training | Employer | Required | Usually lasts 1-3 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 174,700。美国劳工统计局预测数据输入员岗位将因自动化和数字化逐步减少，2022-2032年就业下降约8%。但医疗、金融等行业仍有一定需求。建议学习数据管理或自动化工具以提升竞争力。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 174,700. US Bureau of Labor Statistics projects data entry jobs will decline about 8% from 2022-2032 due to automation and digitalization. However, demand remains in healthcare and finance. Learning data management or automation tools is recommended to stay competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 数据来源BLS 2023 |
-| 中级（3-7年） | $35,000~$42,000 | 含经验及速度提升 |
-| 高级（7年以上） | $42,000~$50,000 | 可能晋升为主管或团队领导 |
+| Median salary | $41,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Data source: BLS 2023 |
+| Mid-level (3–7 years) | $35,000~$42,000 | Includes experience and speed improvement |
+| Senior (7+ years) | $42,000~$50,000 | May advance to supervisor or team leader |
+| average salary | $43,310 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 初级数据输入员可晋升为数据验证员或团队主管；积累经验后转向数据分析、数据库管理或系统管理员方向。部分人通过考取微软办公专家等认证提升职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Data entry operators face a very high risk of automation, as data transcription, validation, and formatting tasks can be efficiently replaced by AI/OCR technology, leading to significant shrinkage in job demand.
+
+Junior data entry clerks can advance to data verifiers or team supervisors; with experience, move toward data analysis, database management, or system administration. Some boost positions through certifications like Microsoft Office Specialist.
+
+**Tasks most exposed to AI:**
+
+- Transcribe data from paper documents or images into electronic systems
+- Verify data accuracy and correct errors
+- Organize and classify data according to preset formats
+- Generate standard reports and print materials
+- Simple repetitive keyboard data entry tasks.
+
+**Where AI augments the role:**
+
+- Use AI tools for data cleaning and standardization
+- Accelerate data collection via OCR and voice recognition
+- Automate data workflows using low-code/no-code platforms
+- Monitor AI data entry quality and handle anomalies
+- Design optimization plans for data entry processes
+
+**Human moat:**
+
+- Judgment to handle unstructured or ambiguous data
+- Compliance responsibilities for data security and privacy protection
+- Complex problem-solving for cross-system data integration
+- Flexible handling of special formats or handwritten text
+- Communicate with business departments to understand data needs
+
+**Skills to build:**
+
+- Python scripting and basic programming
+- Advanced Excel functions and Macros/VBA
+- RPA tools (e.g., UiPath, Power Automate)
+- data cleaning and visualisation tools (e.g., OpenRefine, Tableau)
+- Master AI OCR and document processing APIs (e.g., Tesseract, AWS Textract)
+- Basic database management (SQL queries)
+
+**Key growth areas:**
 
 - Digitization
 - Automation
@@ -63,65 +99,67 @@ Operate data entry devices such as keyboards to input information, may verify da
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation Worker） | 通常需学士学位，但数据输入员不符合专业职位要求，极少获批 |
-| Subclass EB-3（Employment-Based Third Preference） | 理论可行但需雇主证明无法找到合格美国工人，实际极少 |
+| Subclass H-1B (Specialty Occupation Worker) | Typically requires a bachelor's degree, but data entry operators do not meet professional position requirements and are rarely approved. |
+| Subclass EB-3 (Employment-Based Third Preference) | Theoretically feasible but requires employer to prove inability to find qualified US workers; rarely happens in practice |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Data Entry Keyers？**
-- 寻求快速入职且对薪资要求不高的人群
-- 注重工作生活平衡、不喜欢高压的人
-- 暂时过渡性职业，计划转向数据相关领域的人
+**Who is suited**
+- People seeking quick onboarding and not requiring high salary
+- Those who value work-life balance and dislike high pressure
+- A transitional career for those planning to move into data-related fields
 
-**谁不适合学Data Entry Keyers？**
-- 追求高薪和职业发展潜力的人
-- 不习惯重复性劳作者
+**Who is not suited**
+- Those seeking high salary and career development potential
+- Those who are not accustomed to repetitive work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a data entry clerk?**
+A: According to US Bureau of Labor Statistics (BLS) 2023 data, the median annual salary is $35,590, approximately $17.10 per hour.
+
+**Q: Is it feasible to apply for a US work visa as a data entry operator?**
+A: Almost infeasible. Data entry operators typically do not meet H-1B etc. requirements for 'specialty occupation' (need bachelor's degree or higher), and EB-3 green card applications are difficult.
+
+**Q: Will data entry clerks be replaced by AI?**
+A: High risk. Automation and optical character recognition (OCR) significantly reduce manual data entry demand; recommend upgrading data analysis or management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 难（★★★★½） |
-
-Data Entry Keyers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Data Entry Keyers?**
-答：According to BLS 2023, the median annual wage is $35,590, approximately $17.10 per hour.
-
-**问：Is it feasible to get a US work visa as a Data Entry Keyer?**
-答：Almost impossible. The role typically does not qualify as a 'specialty occupation' for H-1B, and EB-3 green card is also difficult.
-
-**问：Will Data Entry Keyers be replaced by AI?**
-答：High risk. Automation and OCR technology are reducing demand; upskilling in data analysis or management is recommended.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

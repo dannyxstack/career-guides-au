@@ -1,59 +1,95 @@
-# Mathematician, Actuary and Statistician（Mathematician, Actuary and Statistician）职业分析 · IT
+# Mathematician, Actuary and Statistician — career analysis · Italy
 
-**职业代码：2120 – Mathematician, Actuary and Statistician。**
+**Occupation code: 2120 (ISCO08)**
 
-Apply mathematical and statistical methods to solve complex problems in finance, insurance, research, etc., including risk modeling, data analysis, and forecasting.
+Uses mathematical and statistical methods to solve complex problems in finance, insurance, scientific research, etc., including risk modeling, data analysis, and forecasting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $5,000~$15,000（公立大学学费，因Isee而异） |
-| 硕士 | 2年（硕士） | $3,000~$12,000（多数公立大学硕士学费） |
+| Bachelor's degree | 3 years (bachelor's) | $5,000~$15,000 (Public university tuition fees, varies by Isee) |
+| Master's degree | 2 years (Master's) | $3,000~$12,000 (Most public university master's tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师资格认证 | 意大利精算师协会 (Ordine degli Attuari) | 必备 | 通过国家考试及协会要求 |
-| 统计学硕士 | 大学 | 可选 | 通常为入职基础 |
-| CFA证书 | CFA Institute | 可选 | 金融领域加分 |
+| Actuary certification | Italian Institute of Actuaries (Ordine degli Attuari) | Required | Pass national exams and association requirements |
+| Master's degree in Statistics | University | Optional | Typically entry-level |
+| CFA certificate | CFA Institute | Optional | Preference in finance sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 12,000。随着大数据和人工智能发展，意大利对数据科学家和精算师需求持续增长，金融科技和保险行业尤为突出。
+**Job demand: very high (★★★★½).** National workforce approx. 12,000. As big data and artificial intelligence develop, demand for data scientists and actuaries continues to grow in Italy, particularly in fintech and insurance industries.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（4-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$90,000 | 税前年薪 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$90,000 | Annual pre-tax salary |
+| average salary | $51,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 可晋升为首席精算师、数据科学负责人或风控总监；也可转向AI研究或量化分析。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
+
+Can be promoted to Chief Actuary, Head of Data Science, or Risk Control Director; can also transition to AI research or quantitative analysis.
+
+**Tasks most exposed to AI:**
+
+- Standard statistical model running and parameter tuning.
+- Routine data cleaning and basic report generation
+- Simple risk probability calculation and reserve estimation
+- Routine forecasting and updating of economic indicators
+- Basic regression analysis and hypothesis testing
+
+**Where AI augments the role:**
+
+- Identifies complex risk factors and non-linear relationships using machine learning models.
+- Analyze economic policy texts and market sentiment via natural language processing
+- Uses AI to simulate large-scale economic scenarios and stress tests.
+- Automated data exploration and visualization to quickly uncover insights
+- Using AI-assisted validation of model assumptions and result robustness
+
+**Human moat:**
+
+- Deep understanding and critical thinking of model assumptions and limitations
+- Ability to communicate complex risk models to non-technical management
+- Making Professional Judgments Under Uncertainty and Sparse Data
+- Ultimate responsibility for ethical duties and regulatory compliance
+- Cross-disciplinary integration of economic, financial, and behavioral science insights
+
+**Skills to build:**
+
+- Python/R machine learning and deep learning
+- Causal inference and experimental design
+- Explainable AI and model auditability
+- Natural language processing and economic text analysis
+- Big data distributed computing (Spark, etc.)
+- Business communication and data storytelling
+
+**Key growth areas:**
 
 - Data Science
 - FinTech
@@ -62,68 +98,67 @@ Apply mathematical and statistical methods to solve complex problems in finance,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人才，需年薪至少约32,000欧元，合同至少1年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，需雇主担保，适用于非高技能但紧缺岗位。 |
-| Subclass Nulla Osta (自雇)（Nulla Osta for Self-Employment） | 适用于自由职业者，需证明高技能及业务计划。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU personnel; requires an annual salary of at least approx. €32,000 and a contract of at least 1 year. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-high-skilled but in-demand occupations. |
+| Subclass Nulla Osta (Self-Employment) (Nulla Osta for Self-Employment) | For freelancers, requires proof of high skills and business plan. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mathematician, Actuary and Statistician？**
-- 热爱数学和逻辑推理
-- 具备编程和数据分析能力
-- 希望在金融或保险行业发展
-
-**谁不适合学Mathematician, Actuary and Statistician？**
-- 不喜欢抽象思维和长时间专注
-- 对数字不敏感或排斥编程
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about mathematics and logical reasoning
+- Programming and data analysis skills
+- Wishing to develop a career in finance or insurance
+
+**Who is not suited**
+- Dislikes abstract thinking and prolonged concentration.
+- Not sensitive to numbers or averse to programming
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mathematicians/actuaries in Italy?**
+A: Entry-level approx €28k-35k, mid-to-senior can reach €55k-90k; actuaries earn higher salaries
+
+**Q: How can non-EU citizens immigrate to Italy for this occupation?**
+A: Eligible via the EU Blue Card (requires annual salary ≥ €32k) or Decreto Flussi quota work visa.
+
+**Q: Is Italian Actuarial Certification required?**
+A: If working as an actuary, mandatory membership in the Italian Association of Actuaries and passing the national exam. For statisticians, it is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Mathematician, Actuary and Statistician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mathematicians/actuaries in Italy?**
-答：Entry-level around 28k-35k EUR, mid-senior up to 55k-90k EUR, with actuaries earning high.
-
-**问：How can non-EU citizens immigrate to Italy for this profession?**
-答：Via EU Blue Card (salary ≥32k EUR) or Decreto Flussi quota work visa.
-
-**问：Is Italian actuary certification required?**
-答：For actuaries, mandatory to join Ordine degli Attuari and pass state exam. For statisticians, not required.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

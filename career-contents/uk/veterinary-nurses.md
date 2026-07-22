@@ -1,58 +1,94 @@
-# Veterinary nurses（Veterinary nurses）职业分析 · UK
+# Veterinary nurses — career analysis · United Kingdom
 
-**职业代码：3240 – Veterinary nurses。**
+**Occupation code: 3240 (SOC)**
 
-Veterinary nurses assist veterinarians in the treatment and care of sick or injured animals, undertaking tasks such as surgical preparation, anaesthetic monitoring, post-operative care, lab tests, and imaging.
+Veterinary nurses assist veterinarians in treating and caring for sick or injured animals, responsible for preoperative preparation, anesthesia monitoring, postoperative care, laboratory testing, and imaging procedures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 预科学位 | 2年 | $9,000~$15,000（FdSc 或 HND 课程，含实践实习） |
-| 本科学位 | 3-4年 | $15,000~$25,000（BSc（荣誉）兽护理学，受 RCVS 认证） |
+| Foundation degree | 2 years | $9,000~$15,000 (FdSc or HND courses with practical placement) |
+| Bachelor's degree | 3-4 years | $15,000~$25,000 (BSc (Hons) Veterinary Nursing, RCVS accredited) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RCVS 注册兽医护士 | 英国皇家兽医学院（RCVS） | 必备 | 完成认证课程并通过 RCVS 考试方可注册执业 |
-| LANTRA 证书 | LANTRA Awards | 可选 | 可选资格，强化动物护理技能 |
+| RCVS Registered Veterinary Nurse | Royal College of Veterinary Surgeons (RCVS) | Required | Complete accredited courses and pass the RCVS exam to register for practice |
+| LANTRA certificate | LANTRA Awards | Optional | Optional qualification to enhance animal care skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。随着宠物护理需求增长及动物医疗水平提升，英国兽医护士岗位持续增长。RVC 预测未来十年将新增约 15% 岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. With growing pet care demand and improved veterinary standards, UK veterinary nurse positions continue to increase. The RVC predicts about 15% more jobs over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 新晋兽医护士，私立诊所起薪 |
-| 中级（3-7年） | $25,000~$31,000 | 资深护士，可担任手术/麻醉护士 |
-| 高级（7年以上） | $31,000~$40,000 | 护理主管或专科护士，教学医院或大型机构 |
+| Median salary | $28,893 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$25,000 | New veterinary nurse, starting salary at private clinic |
+| Mid-level (3–7 years) | $25,000~$31,000 | Senior nurse, can work as a surgical or anaesthetic nurse |
+| Senior (7+ years) | $31,000~$40,000 | Nursing supervisor or specialist nurse, teaching hospital or large institution |
+| average salary | $28,771 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径：注册兽医护士（RVN）→ 高级护士/专科护士（如手术、牙科、急诊）→ 护理主管/诊所经理。可进修兽医学位或转行兽医。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinary nurse roles will see a mixed impact from AI: back-office tasks like documentation and image analysis can be automated, but core tasks involving live animal care, client communication, and clinical judgment are hard to replace, while efficiency gains may amplify certain duties.
+
+Career path: Registered Veterinary Nurse (RVN) → Senior/Specialist Nurse (e.g., surgery, dentistry, emergency) → Nursing Supervisor/Clinic Manager. Option to study veterinary medicine or switch to veterinarian.
+
+**Tasks most exposed to AI:**
+
+- Entry and organization of electronic health records and case documents
+- Automated analysis and result reporting of routine lab tests (e.g., blood biochemistry)
+- Preliminary identification and anomaly marking of radiological images.
+- AI customer service assistants for standardized inquiries and pre-screening questions.
+- Drug inventory management and automatic replenishment reminders
+
+**Where AI augments the role:**
+
+- Enhancing precision of preoperative evaluation and anesthesia monitoring through AI-assisted diagnostic tools
+- Using computer vision technology to optimize wound care and post-surgery recovery monitoring
+- Use natural language processing to quickly retrieve medical literature and clinical guidelines
+- Enhances veterinary nursing practical training through AI training simulator
+- Using data analysis tools to optimize hospital workflows and resource allocation
+
+**Human moat:**
+
+- Real-time observation and intuitive judgment of animal behavior and pain
+- Empathetic communication with pet owners, alleviating anxiety and providing psychological support
+- Flexible emergency response and manual operation skills in unexpected situations
+- Nursing tasks requiring physical contact such as injections, bandaging, and assisting with restraint
+- Inter-role coordination and auxiliary support for veterinarians' final diagnostic and treatment decisions
+
+**Skills to build:**
+
+- Operation and interpretation of AI-assisted diagnostic tools (e.g., Vetology, SignalPET)
+- basic data analysis and electronic medical record system management
+- Telemedicine and Online Consultation Skills
+- Animal behaviour and stress management techniques
+- Interdisciplinary communication and teamwork
+- Continuous learning of new diagnostic techniques and AI updates
+
+**Key growth areas:**
 
 - Pet Ownership Growth
 - Veterinary Specialisation
@@ -61,67 +97,66 @@ Veterinary nurses assist veterinarians in the treatment and care of sick or inju
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等偏易（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 满足技能和薪资要求（一般年薪≥£26,200，符合紧缺职业可放宽），雇主需担保 |
-| Subclass Health & Care（Health and Care Worker Visa） | 适用于医疗卫生职业，申请费更低，免除 Immigration Health Surcharge |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meet skill and salary requirements (generally annual salary ≥£26,200, relaxed for occupations in shortage), employer must sponsor |
+| Subclass Health & Care (Health and Care Worker Visa) | Applicable to healthcare occupations, lower application fee, exempt from Immigration Health Surcharge. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinary nurses？**
-- 热爱动物、有同理心
-- 能承受一定体力劳动和情感压力
-- 希望在动物医疗领域建立专业生涯
-
-**谁不适合学Veterinary nurses？**
-- 对血液/手术场景敏感
-- 不愿接受严格注册与持续教育要求
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for animals and empathy
+- Able to handle physical labor and emotional stress
+- Aspiring to build a professional career in animal medical field
+
+**Who is not suited**
+- Sensitive to blood/surgery scenes
+- Unwilling to accept strict registration and continuing education requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for veterinary nurses in the UK?**
+A: Entry-level approx. £20k-£25k, mid-level £25k-£31k, senior £31k-£40k, below national average, but lower threshold for skilled occupation sponsorship.
+
+**Q: How can overseas veterinary nurses get a UK work visa?**
+A: Must first obtain RCVS registration, then apply for a Skilled Worker or Health & Care Worker visa. The employer must hold a sponsorship license, and the annual salary typically needs to be ≥ £26,200.
+
+**Q: Can veterinary nurses become veterinarians?**
+A: Yes. Some universities offer an accelerated programme from veterinary nurse to veterinarian, requiring an additional 3-4 years of study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等偏易（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Veterinary nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for veterinary nurses in the UK?**
-答：Entry-level around £20k-£25k, mid-level £25k-£31k, senior £31k-£40k, below national average but with lower sponsorship threshold for shortage roles.
-
-**问：How can overseas veterinary nurses obtain a UK work visa?**
-答：They need RCVS registration first, then apply for Skilled Worker or Health and Care Worker visa. Employer sponsorship is required, and salary generally ≥£26,200.
-
-**问：Can veterinary nurses become veterinarians?**
-答：Yes. Some universities offer accelerated programmes to become a veterinarian, requiring an additional 3-4 years of study.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

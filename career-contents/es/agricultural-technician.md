@@ -1,58 +1,92 @@
-# Agricultural Technician（Agricultural Technician）职业分析 · ES
+# Agricultural Technician — career analysis · Spain
 
-**职业代码：3142 – Agricultural Technician。**
+**Occupation code: 3142 (CNO)**
 
-Agricultural technicians in Spain support crop production, livestock management, farm machinery operation, and farm administration, applying technical knowledge to enhance productivity and quality in the agricultural sector.
+Agricultural technicians work in Spain's agricultural sector engaged in crop cultivation, livestock breeding, agricultural machinery operation, and farm management support, applying technical knowledge to improve production efficiency and quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | —（公立学校几乎免费，仅注册费） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are almost free, with only a registration fee) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业技术员高级职业培训文凭 | 西班牙教育部认可的FP学校 | 必备 | Técnico Superior en Producción Agropecuaria |
-| 农学或相关领域大学学位 | 西班牙大学 | 可选 | 部分岗位偏好Grado en Ingeniería Agrícola |
+| Advanced Vocational Training Diploma for Agricultural Technician | FP schools recognized by the Spanish Ministry of Education | Required | Técnico Superior en Producción Agropecuaria |
+| A university degree in agriculture or related fields | Spanish University | Optional | Some positions are preferred in Grado en Ingeniería Agrícola |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙农业技术员就业前景稳定，受可持续农业和有机农业发展推动。年轻从业者短缺，就业机会在安达卢西亚、埃斯特雷马杜拉等农业大区较多。需适应技术升级（精准农业、数字化管理）。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Employment prospects for agricultural technicians in Spain are stable, driven by the development of sustainable and organic farming. There is a shortage of young workers, and employment opportunities are abundant in agricultural regions such as Andalusia and Extremadura. Needs to adapt to technological upgrades (precision agriculture, digital management).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，农业企业或合作社 |
-| 中级（3-7年） | $24,000~$32,000 | 可晋升为技术主管 |
-| 高级（7年以上） | $30,000~$40,000 | 农场经理或高级顾问 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, agricultural enterprise or cooperative |
+| Mid-level (3–7 years) | $24,000~$32,000 | Can be promoted to Technical Supervisor |
+| Senior (7+ years) | $30,000~$40,000 | Farm managers or senior consultants |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级农业技术员可晋升至农场管理、农业咨询或技术销售岗位。积累经验后，可担任农业合作社技术负责人、农业项目经理，或创业开办农业技术服务公司。持续培训（如数字化农业课程）有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
+
+Junior agricultural technicians can be promoted to farm management, agricultural consulting, or technical sales positions. After gaining experience, you can serve as a technical lead for agricultural cooperatives, agricultural project managers, or start a business with agricultural technology services. Ongoing training (such as digital agriculture courses) helps with promotion.
+
+**Tasks most exposed to AI:**
+
+- Routine crop health monitoring and data collection via drones and remote sensing
+- Generate standardized planting and fertilization plans based on historical data and models
+- Scheduling and adjustment of automated irrigation systems
+- Standard Pest and Disease Identification and Basic Control Recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyse multi-source data such as soil sensors and satellite imagery to optimise irrigation and fertilisation decisions
+- Using predictive models to provide early warning of pests, diseases, and weather risks, and formulate precise intervention plans
+- Using intelligent decision support systems to simulate different planting strategies, improving yield and sustainability
+- Crop growth full-cycle simulation and management using digital twin technology
+
+**Human moat:**
+
+- Hands-on Operations like On-site Soil Sampling, Equipment Repair, and Emergency Response
+- Interpersonal communication and collaboration with farmers, local governments, and research institutions
+- Strategic planting planning integrating multiple factors (market, regulations, ecology)
+- Flexible judgment and problem-solving for non-standard, sudden farm issues
+- Sustainable agriculture, organic certification, etc., requiring expert manual review for professional judgment
+
+**Skills to build:**
+
+- Precision agriculture technology (drone operation, GPS navigation, variable rate fertilization)
+- Agricultural data analysis and visualization (Python/R, GIS)
+- Smart irrigation and IoT platform management
+- Agricultural AI tools (crop models, prediction algorithms)
+- Sustainable agriculture practices and carbon accounting
+- Project management and farm advisory communication skills
+
+**Key growth areas:**
 
 - Precision agriculture
 - Organic farming
@@ -61,68 +95,67 @@ Agricultural technicians in Spain support crop production, livestock management,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于高技能专业人员，需大学学历及工作合同，年薪门槛约33,908欧元（2023年）。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需西班牙公司提供工作合同，并经劳工市场测试（紧缺职业可豁免）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | Ley 14/2013高技能专业人员签证，适用于管理和技术岗位，需大学学历及较高薪资。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card, for highly skilled professionals, requires university degree and job contract, annual salary threshold approx. EUR 33,908 (2023). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employed work residence, a work contract must be provided by a Spanish company and tested by the labor market (shortage occupations may be exempted). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Ley 14/2013 High-Skilled Professional Visa, for management and technical roles, requires a university degree and a high salary. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Technician？**
-- 对农业和自然有热情，愿意在户外工作
-- 喜欢动手操作和解决实际问题
-- 希望在农业领域长期发展，接受季节性工作节奏
-
-**谁不适合学Agricultural Technician？**
-- 不适应户外体力劳动和天气变化
-- 追求高薪和快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about agriculture and nature, willing to work outdoors
+- Enjoys hands-on operations and solving practical problems
+- We hope to develop long-term in agriculture and adapt to seasonal work rhythms
+
+**Who is not suited**
+- Not suitable for outdoor physical labor or changing weather
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural technicians in Spain?**
+A: Junior agricultural technician annual salary around €18k–24k, mid-level €24k–32k, senior up to €40k+, depending on region and company size.
+
+**Q: How can foreigners immigrate to Spain through the agricultural technician profession?**
+A: Immigration can be made through the EU Blue Card (requiring university degree and work contract) or employed work residence (with company sponsorship). Shortage occupations can simplify labor market testing. It is recommended to first secure an offer from a Spanish employer.
+
+**Q: What are the development directions for agricultural technicians?**
+A: You can develop into farm management, agricultural consulting, technical sales, cooperative manager, or start a business offering agricultural technology services. Continuous learning about precision agriculture and digital management helps with promotions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural technicians in Spain?**
-答：Entry-level agricultural technicians earn around €18,000-€24,000 annually, mid-level €24,000-€32,000, and senior roles up to €40,000, depending on region and employer.
-
-**问：How can foreigners immigrate to Spain as agricultural technicians?**
-答：Options include EU Blue Card (requires degree and job offer) or work permit (employer sponsorship). Shortage occupations may simplify labor market tests. Securing a Spanish employer is key.
-
-**问：What are the career paths for agricultural technicians?**
-答：Career progression includes farm management, agricultural consulting, technical sales, cooperative management, or starting a technical service business. Skills in precision agriculture and digitalization enhance opportunities.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

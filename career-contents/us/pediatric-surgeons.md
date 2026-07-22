@@ -1,60 +1,96 @@
-# Pediatric Surgeons（Pediatric Surgeons）职业分析 · 美国
+# Pediatric Surgeons — career analysis · United States
 
-**职业代码：29-1243 – Pediatric Surgeons。**
+**Occupation code: 29-1243 (SOC)**
 
-Pediatric surgeons diagnose and perform surgery to treat fetal abnormalities, birth defects, diseases, and injuries in fetuses, newborns, children, and adolescents. It requires highly specialized medical training and skills.
+Pediatric surgeons diagnose and perform surgery on fetuses, newborns, children, and adolescents, covering congenital anomalies, birth defects, diseases, and injuries. This occupation requires highly specialized medical training and skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 医学预科 | 4年 | $60,000~$150,000（本科学费因校而异） |
-| 医学院 | 4年 | $200,000~$400,000（公立与私立差异大） |
-| 住院医师培训 | 6-7年 | —（期间有薪资但低） |
+| Pre-medicine | 4 years | $60,000~$150,000 (Undergraduate tuition varies by institution) |
+| Medical school. | 4 years | $200,000~$400,000 (Large differences between public and private) |
+| Residency training | 6-7 years | $0~$0 (Paid but low during the period) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国医师执照（USMLE） | 美国医师执照考试委员会 | 必备 | 所有医师必须通过 |
-| 小儿外科专科认证 | 美国外科医师委员会 | 必备 | 完成fellowship后考试获得 |
-| 医学博士学位 | 医学院 | 必备 | 从认可医学院毕业 |
+| U.S. Medical Licensing Examination (USMLE) | The United States Medical Licensing Examination | Required | All physicians must pass |
+| Pediatric surgery subspecialty certification | American Board of Surgery | Required | Obtained after passing the fellowship exam |
+| Doctor of Medicine (MD) | Medical school. | Required | Graduated from an accredited medical school |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。美国小儿外科医生需求稳定，因儿童专科医疗持续受到重视。受人口增长和医疗技术进步推动，就业前景良好，但岗位数量有限且竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. Demand for U.S. pediatric surgeons is stable, as children's specialty medical care continues to receive attention. Driven by population growth and medical technology advances, job prospects are good, but positions are limited and competition is fierce.
 
-**竞争度：激烈（★★★★½）。**
-**工作强度：极高（★★★★★）。**
+**Competition: very high (★★★★½).**
+**Work intensity: very high (★★★★★).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（住院医师） | $60,000~$80,000 | 住院医师薪资低 |
-| 中级（主治医师） | $350,000~$500,000 | 取决于机构和地点 |
-| 高级（资深/主任） | $500,000~$700,000 | 学术或私人执业更高 |
+| Median salary | $559,030 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (resident physician) | $60,000~$80,000 | Low salary for resident physicians |
+| Mid-level (attending physician) | $350,000~$500,000 | Depends on institution and location |
+| Senior (senior/director) | $500,000~$700,000 | Higher in academia or private practice |
+| average salary | $502,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径通常从住院医师培训开始，逐步成为主治医师，之后可担任科室主任或学术职位。部分医生进入研究或医院管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core surgical skills of paediatric surgeons are hard to replace by AI in the short term, but auxiliary tasks like preoperative image analysis, postoperative monitoring, and medical record management will become significantly AI-driven. Overall job risk is moderate, requiring proactive adoption of AI-enhanced tools.
+
+Career progression typically starts with residency training, gradually becoming an attending physician, then department head or academic position. Some doctors enter research or hospital management.
+
+**Tasks most exposed to AI:**
+
+- Preliminary automated segmentation and anomaly annotation of preoperative images (CT/MRI)
+- Automatic anomaly alert and trend analysis for post-operative monitoring data
+- Automated entry of electronic medical records and structured report generation.
+- Guideline-based standardized Q&A and reminders during routine follow-ups
+- Partially standardized suturing actions assisted by surgical robots
+
+**Where AI augments the role:**
+
+- AI-assisted 3D reconstruction and surgical planning (e.g., complex deformity simulation)
+- Intraoperative smart navigation and real-time risk warnings (e.g., blood vessel and nerve paths)
+- Personalized prognosis assessment and complication prediction based on big data
+- Remote surgery collaboration and virtual simulation training
+- Automated scientific literature mining and clinical trial matching
+
+**Human moat:**
+
+- Fine manipulation and intraoperative decision-making in complex deformity repair
+- Empathetic communication with pediatric patients and their families, informed consent, and psychological support
+- Comprehensive clinical judgment in interdisciplinary emergency consultations
+- Teaching and surgical innovation (e.g., design of minimally invasive neonatal approaches)
+- Legal and ethical responsibility subject (surgical consent, medical disputes)
+
+**Skills to build:**
+
+- Basics of medical imaging AI (deep learning segmentation/classification concepts)
+- Surgical robot operation (e.g., Da Vinci system)
+- Clinical data analysis and statistical software (R/Python)
+- Use of digital twins and surgical simulation tools
+- Interpretation and validation of AI-assisted clinical decision systems
+- Telemedicine and digital platforms for doctor-patient communication
+
+**Key growth areas:**
 
 - Specialized pediatric care
 - Minimally invasive surgery
@@ -63,69 +99,68 @@ Pediatric surgeons diagnose and perform surgery to treat fetal abnormalities, bi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于专业职业，需雇主担保，有年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有高级学位或特殊能力的专业人员 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于专业工人、技术工人和其他工人 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 通过劳工证申请绿卡，需证明无法招聘到美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable for professional occupations, requires employer sponsorship, has annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to professionals with advanced degrees or exceptional ability |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to skilled trades, technical workers, and other workers |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | To obtain a green card through labor certification, you must prove that no US workers can be recruited. |
 
-**PR难度：困难（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pediatric Surgeons？**
-- 对儿童手术有强烈热情的人
-- 能在高压环境下长时间工作的人
-- 追求高收入和高社会地位的人
-
-**谁不适合学Pediatric Surgeons？**
-- 无法承受长时间高强度工作的人
-- 对血液和手术场景不适的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong passion for pediatric surgery
+- Those who can work long hours under high pressure
+- Those seeking high income and high social status.
+
+**Who is not suited**
+- People who cannot endure long hours of high-intensity work
+- People uncomfortable with blood and surgical scenes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Paediatric Surgeon?**
+A: The average annual salary for pediatric surgeons in the US is about $400,000 to $500,000, but junior residents earn around $60,000-80,000.
+
+**Q: How do foreign medical graduates become pediatric surgeons in the US?**
+A: Requires passing the USMLE, completing US residency training, and applying for H-1B or green card. Process is long and competitive, typically taking many years.
+
+**Q: What certifications are needed for a pediatric surgeon?**
+A: Requires a medical degree, USMLE license, completion of general surgery and pediatric surgery specialty training, and certification by the American Board of Surgery.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 激烈（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Pediatric Surgeons的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pediatric surgeons?**
-答：Pediatric surgeons in the US earn an average of $400,000 to $500,000 annually, while residents earn around $60,000-$80,000.
-
-**问：How can foreign medical graduates become pediatric surgeons in the US?**
-答：They must pass USMLE, complete US residency training, and apply for H-1B or green card. The process is long and competitive.
-
-**问：What certifications are required for pediatric surgeons?**
-答：They need an MD degree, USMLE license, completion of general surgery and pediatric surgery fellowship, and board certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

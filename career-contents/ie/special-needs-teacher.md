@@ -1,59 +1,93 @@
-# Special Needs Teacher（Special Needs Teacher）职业分析 · IE
+# Special Needs Teacher — career analysis · Ireland
 
-**职业代码：2352 – Special Needs Teacher。**
+**Occupation code: 2352 (ISCO08)**
 
-Special Needs Teachers in Ireland provide tailored instruction and support to students with learning, physical, or emotional disabilities in primary, secondary, or special schools.
+Special education teachers in Irish primary/secondary schools or special education schools provide individualized teaching support for students with learning, physical, or emotional disabilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（荣誉学士学位） | 4年（本科） | $10,000~$20,000（针对欧盟学生，非欧盟学费约€15,000-€25,000/年） |
-| 研究生教育文凭（PGCE）或硕士 | 1-2年 | $8,000~$15,000（针对已持有教学资格者，非欧盟费用更高） |
+| Bachelor's degree (Honours) | 4 years (bachelor's degree) | $10,000~$20,000 (For EU students, non-EU tuition approximately €15,000-€25,000/year) |
+| Postgraduate Certificate in Education (PGCE) or Master's degree | 1-2 years | $8,000~$15,000 (For those already holding a teaching qualification, non-EU fees are higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学委员会注册 | Teaching Council of Ireland | 必备 | 所有公立学校教师必须注册 |
-| 特殊教育研究生文凭或证书 | 大学或学院 | 可选 | 通常为兼职课程，提升就业竞争力 |
-| Garda清关证明 | 爱尔兰警察 | 必备 | 与儿童工作所需 |
+| Teaching council registration | Teaching Council of Ireland | Required | All public school teachers must be registered |
+| Garda clearance certificate | Irish police | Required | Required for working with children |
+| Graduate diploma or certificate in special education | University or college | Optional | Usually part-time courses to enhance employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,000。爱尔兰特殊教育需求持续增长，政府增加特殊教育岗位投入，就业前景稳定，尤其在都柏林以外地区需求更大。
+**Job demand: high (★★★★☆).** National workforce approx. 6,000. Ireland's special education needs are growing steadily; the government is increasing investment in special education positions. Employment prospects are stable, with higher demand outside Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公立学校按薪资标准，起点约€35k |
-| 中级（4-10年） | $45,000~$60,000 | 经验增加后可达€45k-€60k |
-| 高级（10年以上） | $60,000~$80,000 | 担任管理职务如特殊教育协调员可达€80k |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Public schools follow salary scales, starting around €35,000 |
+| Mid-level (4-10 years). | $45,000~$60,000 | With experience can reach €45k-€60k |
+| Senior (10+ years) | $60,000~$80,000 | Managerial roles such as special education coordinator can earn up to €80k |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从特殊教育教师晋升为特殊教育协调员、副校长或特殊教育顾问，也可进修硕士或博士成为教育心理学家或政策制定者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace special education teachers; instead, it can amplify their teaching impact through personalized learning tools, assistive communication technology, and data analysis, enabling teachers to focus more on emotional support and behavioral intervention.
+
+Can progress from special education teacher to special education coordinator, deputy principal, or special education consultant; can also pursue a master's or doctorate to become an educational psychologist or policy maker.
+
+**Tasks most exposed to AI:**
+
+- Automated tools for generating personalized learning materials and exercises
+- Automatic analysis of basic data records and student progress tracking
+- Voice-to-text and text-to-voice assisted communication tasks
+- Initial generation of standardized behavioral assessment reports
+
+**Where AI augments the role:**
+
+- Using AI to analyze student behavior patterns, develop more precise intervention strategies
+- Use adaptive learning platforms to customize teaching content for students with different needs
+- Create immersive sensory learning environments using augmented reality (AR)
+- AI-generated multilingual resources support students from diverse cultural and language backgrounds.
+
+**Human moat:**
+
+- Ability to build emotional connections and trust
+- Judgment to observe on-site and adjust teaching strategies in real-time
+- Professional intervention for complex behavioral issues and emotional crises
+- Ability to design integrated educational programs through interdisciplinary collaboration
+- Sensitivity and decision-making responsibility regarding ethical and privacy issues
+
+**Skills to build:**
+
+- Operation and integration of AI-assisted educational tools (e.g., adaptive learning platforms)
+- Educational data analysis and visualization (e.g., student progress tracking)
+- Latest applications of augmentative and alternative communication (AAC) tools
+- Use of behavioral analysis software (e.g., BIP implementation)
+- Cross-cultural communication and development of multilingual teaching resources.
+- Advanced features of online collaboration platforms (such as Google Classroom)
+
+**Key growth areas:**
 
 - Inclusive Education
 - SEN Demand
@@ -62,68 +96,67 @@ Special Needs Teachers in Ireland provide tailored instruction and support to st
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于特殊教育教师，紧缺职业，两年后可申请Stamp 4居留 |
-| Subclass General Employment P（General Employment Permit） | 如果不符合紧缺标准，需通过劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪职位（年薪≥€40,000），需本科以上学历 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to special education teachers, in a shortage occupation. Stamp 4 residence can be applied for after two years. |
+| Subclass General Employment P (General Employment Permit) | If it doesn't meet the critical shortage criteria, a labor market test is required |
+| Subclass EU Blue Card (EU Blue Card) | For high-paying positions (annual salary ≥€40,000), requires bachelor's degree or higher |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Needs Teacher？**
-- 有耐心和同理心，擅长与有特殊需求的孩子互动
-- 具备教育背景或教学经验，愿意在爱尔兰注册
-- 适应团队合作，能与家长、治疗师紧密配合
-
-**谁不适合学Special Needs Teacher？**
-- 不喜欢文书工作和行政职责
-- 无法应对高情绪需求的工作环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, skilled in interacting with children with special needs
+- Have an educational background or teaching experience and be willing to register in Ireland
+- Adapt to teamwork, cooperate closely with parents and therapists
+
+**Who is not suited**
+- Dislikes paperwork and administrative duties
+- Cannot handle work environments with high emotional demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for special education teachers in Ireland?**
+A: Entry-level teacher salary around €35k-€45k per year, mid-level around €45k-€60k, senior management up to €80k. Public school salaries are fixed, private schools may be higher.
+
+**Q: How can overseas teachers obtain an Irish work visa?**
+A: It can be applied for through a Critical Skills Employment Permit (for shortage occupations) or a General Employment Permit. You need to first register with the Teaching Council and find an employer sponsor.
+
+**Q: Do I need to re-qualify as a teacher in Ireland?**
+A: All teachers must register with the Teaching Council of Ireland. Overseas qualifications require assessment, and may involve completing supplementary courses or passing exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Special Needs Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Special Needs Teachers in Ireland?**
-答：Entry-level salaries range from €35k to €45k, mid-level from €45k to €60k, and senior roles up to €80k. Public schools have fixed scales, private may pay more.
-
-**问：How can overseas teachers obtain a work visa for Ireland?**
-答：Apply for a Critical Skills Employment Permit (if shortage occupation) or General Employment Permit. Requires Teaching Council registration and employer sponsorship.
-
-**问：Do I need to requalify as a teacher in Ireland?**
-答：All teachers must register with the Teaching Council of Ireland. Foreign qualifications need assessment and may require additional coursework or exams.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

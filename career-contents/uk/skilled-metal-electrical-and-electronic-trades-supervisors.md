@@ -1,60 +1,93 @@
-# Skilled metal, electrical and electronic trades supervisors（Skilled metal, electrical and electronic trades supervisors）职业分析 · UK
+# Skilled metal, electrical and electronic trades supervisors — career analysis · United Kingdom
 
-**职业代码：5250 – Skilled metal, electrical and electronic trades supervisors。**
+**Occupation code: 5250 (SOC)**
 
-Oversee operations and coordinate the activities of skilled workers in metal, electrical and electronic trades, ensuring safety, quality and productivity as a key link between frontline staff and management.
+Responsible for supervising skilled workers in the metal, electrical, and electronic industries, coordinating daily workflows, ensuring production safety and quality, and serving as a key link between frontline workers and management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高级学徒 | 3-4年 | —（雇主资助为主，部分课程有政府补贴） |
-| BTEC/HND | 2年 | $6,000~$12,000（全日制或兼职均可） |
-| 学位学徒 | 4-5年 | $9,000~$18,000（工学结合，学费由雇主与政府分担） |
+| Advanced Apprenticeship | 3-4 years | $0~$5,000 (Employer-sponsored primarily, some courses have government subsidies) |
+| BTEC/HND | 2 years | $6,000~$12,000 (Full-time or part-time available) |
+| Degree apprenticeship | 4-5 years | $9,000~$18,000 (Work-study integration, with tuition shared by employer and government) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家高级证书（HNC） | Pearson/BTEC | 可选 | 广泛认可的电工或金属加工高级资格 |
-| 电气安装证书（City & Guilds 2365） | City & Guilds | 必备 | 电气行业主管必备基础 |
-| 健康与安全管理证书（IOSH） | IOSH | 可选 | 非强制但雇主普遍要求 |
+| Electrical Installation Certificate (City & Guilds 2365) | City & Guilds | Required | Essential foundation for electrical industry supervisors |
+| Higher National Certificate (HNC) | Pearson/BTEC | Optional | Widely recognized advanced qualification in electrical or metalworking |
+| Health and Safety Management Certificate (IOSH) | IOSH | Optional | Not mandatory but generally required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 89,000。随着英国基础设施更新和绿色能源转型推进，电气与电子领域人才需求持续增长。高级主管岗位稳定性高，但晋升高级管理岗位竞争激烈。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 89,000. With the UK's infrastructure renewal and green energy transition, demand for electrical and electronic talent continues to grow. Senior supervisor positions are stable, but competition for senior management roles is fierce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 地区差异大，伦敦较高 |
-| 中级（3-7年） | $35,000~$45,000 | 含加班及奖金 |
-| 高级（8年+） | $45,000~$55,000 | 大型项目或管理岗可达6万 |
+| Median salary | $45,150 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Regional differences are large, higher in London |
+| Mid-level (3–7 years) | $35,000~$45,000 | Including overtime and bonuses |
+| Senior (8+ years) | $45,000~$55,000 | Large projects or management roles up to 60,000 |
+| average salary | $47,659 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从熟练技工晋升而来，积累经验后可晋升为生产经理或运营经理。部分主管可向项目管理或质量控制方向发展，考取管理类证书（如ILM）有助晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The overall outlook for senior metal, electrical, and electronic industry supervisors is mixed: daily coordination and reporting tasks are prone to AI automation, but on-site decision-making, safety supervision, and human-machine collaboration are difficult to fully replace.
+
+Usually promoted from skilled trades; with experience can advance to production manager or operations manager. Some supervisors can move into project management or quality control; obtaining management certificates (e.g., ILM) aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated production scheduling: AI generates production plans based on orders and inventory.
+- Quality data entry and preliminary analysis: AI automatically collects sensor data and generates inspection reports.
+- Routine inspection tasks: drones and vision systems replace manual equipment status checks.
+- Work order assignment and tracking: AI automatically matches tasks with worker skills and pushes work orders.
+
+**Where AI augments the role:**
+
+- Anomaly diagnosis and predictive maintenance: AI analyzes equipment data to warn of faults in advance, assisting supervisor decision-making.
+- Training and knowledge management: AI creates interactive operational guides and simulated training.
+- Performance analysis and optimization: AI identifies efficiency bottlenecks and provides improvement suggestions.
+- Safety compliance monitoring: AI monitors workplace safety in real time, alerting on unsafe operations.
+
+**Human moat:**
+
+- On-site emergency decisions: quick judgment needed for sudden breakdowns and safety incidents.
+- Team management and motivation: coordinating interpersonal relationships, resolving conflicts, boosting morale.
+- Unstructured problem-solving: flexibly adjusting solutions for new products and processes.
+- Responsibility: Legal responsibility for production safety and product quality.
+
+**Skills to build:**
+
+- Data analysis basics: understanding AI-generated reports and predictions.
+- AI tool operation: proficient in using industrial AI software for scheduling, quality monitoring, etc.
+- Human-machine collaboration management: leading teams that include AI assistants and robots.
+- Continuous learning ability: staying updated with new technologies and best practices in the industry.
+- Cross-departmental communication: collaborate with IT, engineering, and other departments to drive digital transformation.
+- Basic programming concepts: understanding automation script logic and being able to propose improvement needs.
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Green Energy Transition
@@ -63,68 +96,67 @@ Oversee operations and coordinate the activities of skilled workers in metal, el
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 雇主担保，满足薪资门槛（一般年薪£26,200） |
-| Subclass Graduate（Graduate Visa） | 毕业生可在英国工作2年（博士3年），积累经验后转工签 |
-| Subclass Scale-up（Scale-up Visa） | 快速成长企业担保，需年薪£33,000以上 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Employer sponsorship, meeting salary threshold (generally £26,200 per year) |
+| Subclass Graduate (Graduate Visa) | Graduates can work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
+| Subclass Scale-up (Scale-up Visa) | Fast-growing company sponsorship, requiring an annual salary of £33,000 or more |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Skilled metal, electrical and electronic trades supervisors？**
-- 有技术背景并希望转向管理岗位的熟练技工
-- 动手能力强、善于沟通协调的理工科毕业生
-- 愿意接受学徒培训并长期在工程领域发展的人
-
-**谁不适合学Skilled metal, electrical and electronic trades supervisors？**
-- 不喜欢现场作业或无法适应倒班工作的人
-- 对行政管理与监督职责缺乏兴趣的技术人员
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled workers with a technical background who wish to transition into management roles
+- Science and engineering graduates with strong hands-on skills and communication abilities
+- Individuals willing to undergo apprenticeship training and pursue long-term development in engineering.
+
+**Who is not suited**
+- People who dislike on-site work or cannot adapt to shift work.
+- Technicians lacking interest in administrative and supervisory duties
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for this occupation?**
+A: Senior managers can earn up to £55,000; if promoted to production manager or project manager, can exceed £70,000.
+
+**Q: Can overseas individuals work in this occupation in the UK via a skilled worker visa?**
+A: Yes, but requires employer sponsorship and meeting the salary threshold (usually at least £26,200 per year). This occupation is not on the shortage occupation list, but can still apply if the employer supports it.
+
+**Q: Is there an apprenticeship pathway?**
+A: Yes, Advanced Apprenticeship is a common entry path, typically lasting 3-4 years, during which you gain an NVQ Level 3 qualification and industry experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Skilled metal, electrical and electronic trades supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the maximum salary for this occupation?**
-答：Senior supervisors can earn up to £55,000, and with promotion to production or project manager, salaries can exceed £70,000.
-
-**问：Can overseas workers come to the UK for this occupation via a Skilled Worker visa?**
-答：Yes, but requires employer sponsorship and salary threshold (typically £26,200). The occupation is not on the shortage list, but sponsorship is still possible.
-
-**问：Is there an apprenticeship pathway?**
-答：Yes, Advanced Apprenticeship is a common entry route, lasting 3-4 years, leading to NVQ Level 3 and practical experience.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

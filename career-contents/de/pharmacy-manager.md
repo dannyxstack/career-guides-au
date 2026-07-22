@@ -1,62 +1,95 @@
-# Pharmacy Manager（Pharmacy Manager）职业分析 · DE
+# Pharmacy Manager — career analysis · Germany
 
-**职业代码：8189 – Pharmacy Manager。**
+**Occupation code: 8189 (KldB)**
 
-Pharmacy managers oversee pharmacy operations, including drug procurement, inventory control, staff management, and regulatory compliance to ensure high-quality pharmaceutical services.
+Pharmacy managers oversee pharmacy operations, including drug procurement, inventory control, personnel management, and regulatory compliance to ensure high-quality pharmaceutical services.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 药学学位（大学） | 5年（含实习） | —（公立大学基本免费，仅收注册费） |
-| 药剂师资格认证（Approbation） | 1年（实习+考试） | —（实习期间有薪资） |
-| 在职管理培训 | 6个月至2年 | $2,000~$10,000（由药房协会或商学院提供） |
+| Pharmacy degree (university) | 5 years (including internship) | $0~$50,000 (Public universities are largely free, only charging a registration fee) |
+| Pharmacist qualification (Approbation) | 1 year (internship + exam) | $0~$3,000 (Paid during internship) |
+| On-the-job management training | 6 months to 2 years | $2,000~$10,000 (Offered by pharmacy associations or business schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药剂师执业执照（Approbation） | 各州卫生局 | 必备 | 必须持有，需德国认可的药学学位+实习+国家考试 |
-| 药学学位（硕士同等） | 德国大学 | 必备 | 通常为Staatsexamen国家考试学位 |
-| 资质认证（Anerkennung） | 各州药剂师协会 | 必备 | 非欧盟学历需进行等效性评估，可能需补修课程 |
+| Pharmacist license (Approbation) | State health departments | Required | Mandatory, requires a German-recognised pharmacy degree plus internship and state examination |
+| Pharmacy degree (Master's equivalent) | German university | Required | Typically a Staatsexamen national examination degree |
+| Qualification recognition (Anerkennung) | State pharmacy associations | Required | Non-EU qualifications require equivalency assessment, may need supplementary courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。德国人口老龄化推动药品需求持续增长，药房经理职位稳定且需求旺盛。数字化和药品供应链管理带来新挑战，但总体就业前景良好，尤其是在乡村地区。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Germany's aging population drives sustained demand for pharmaceuticals, making pharmacy manager positions stable and in high demand. Digitalization and pharmaceutical supply chain management bring new challenges, but overall employment prospects are good, especially in rural areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 实际薪资取决于药房规模 |
-| 中级（4-9年） | $52,000~$65,000 | 担任经理角色 |
-| 高级（10年以上） | $65,000~$85,000 | 大型药房或连锁药房经理 |
+| Median salary | $61,368 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $42,000~$52,000 | Actual salary depends on pharmacy size |
+| Intermediate (4-9 years) | $52,000~$65,000 | Acting in a manager role |
+| Senior (10+ years) | $65,000~$85,000 | Manager of a large pharmacy or chain pharmacy |
+| average salary | $68,736 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从药剂师晋升为药房经理，可进一步向区域经理、药房连锁企业高管发展，或自主开设药房。继续教育（如药学管理硕士）可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance pharmacy managers' supply chain management, prescription review, and compliance monitoring capabilities, but the core legal and liability aspects are hard to replace; be alert to entry-level tech roles being compressed by automation.
+
+Progress from pharmacist to pharmacy manager, and further to regional manager, pharmacy chain executive, or open your own pharmacy. Continuing education (e.g., Master of Pharmacy Management) can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Automated ordering and replenishment of pharmaceutical inventory
+- Compliance report generation and regulatory document organization
+- Input and preliminary analysis of patient medication history data
+
+**Where AI augments the role:**
+
+- Advanced analysis of drug interactions and dosages using AI
+- Optimizing pharmaceutical procurement and inventory through AI-driven predictive analytics
+- Automate customer inquiries and complaints using NLP tools
+- Using AI to monitor compliance risks and provide real-time alerts
+
+**Human moat:**
+
+- Responsibility for personalised medication consultation and monitoring for patients
+- Medical legal and ethical decision-making (e.g., prescription rights, medication error liability)
+- Cross-departmental coordination and team leadership
+- Handle emergencies and crisis management
+
+**Skills to build:**
+
+- Operation of AI-driven medication management systems
+- Data-driven supply chain optimization skills
+- Advanced applications of medical informatics and electronic health records.
+- Generative AI applications in medical documentation
+- Basic programming (Python/RPA) for custom automation scripts
+- AI governance within legal and ethical frameworks
+
+**Key growth areas:**
 
 - Pharmaceutical Supply Chain
 - Digital Pharmacy
@@ -65,70 +98,69 @@ Pharmacy managers oversee pharmacy operations, including drug procurement, inven
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合持大学学历且薪资达门槛（2024年约43,130欧元）的申请人 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 需通过资质认证，由雇主担保 |
-| Subclass Job Seeker Visa（Job Seeker Visa） | 允许在德6个月寻找工作，需有学历和德语能力 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，2024年新政策，适合未获具体Offer的求职者 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with a university degree and meeting salary threshold (approx. €43,130 in 2024) |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires qualification certification, sponsored by employer |
+| Subclass Job Seeker Visa (Job Seeker Visa) | Allows 6 months in Germany to search for a job, requiring a degree and German language skills |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, new policy in 2024, suitable for job seekers without a specific offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacy Manager？**
-- 持有外国药学学位且愿意通过资质认证的人士
-- 有管理经验或希望转管理岗的药剂师
-- 愿意在德国乡村或药店密度较低地区工作的人
-
-**谁不适合学Pharmacy Manager？**
-- 不愿学习德语至C1水平者
-- 希望快速获得永居且不接受长期认证过程的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals holding a foreign pharmacy degree and willing to undergo qualification assessment
+- Pharmacists with management experience or those aspiring to transition into management roles
+- People willing to work in rural areas or regions with low pharmacy density in Germany.
+
+**Who is not suited**
+- Those unwilling to learn German to C1 level
+- People who want to quickly obtain permanent residency and cannot accept a long certification process
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a pharmacy manager in Germany?**
+A: Entry-level approximately 42,000–52,000 euros, mid-level 52,000–65,000 euros, senior up to 85,000 euros, depending on experience and pharmacy size.
+
+**Q: How can foreign pharmacists immigrate to Germany?**
+A: Must pass qualification recognition (Anerkennung), complete German C1 exam and equivalent German pharmacy degree assessment. Then can apply for EU Blue Card or skilled migration visa.
+
+**Q: Does a pharmacy manager need continuing education?**
+A: Yes, German pharmacists have a continuing education obligation (Fortbildungspflicht) and must participate in training annually to maintain their license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pharmacy Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a pharmacy manager in Germany?**
-答：Entry-level: €42,000-52,000; mid-level: €52,000-65,000; senior: up to €85,000, depending on experience and pharmacy size.
-
-**问：How can a foreign pharmacist immigrate to Germany?**
-答：You need to complete credential recognition (Anerkennung), pass German C1 exam, and have your pharmacy degree evaluated as equivalent. Then you can apply for EU Blue Card or Skilled Worker visa.
-
-**问：Do pharmacy managers need continuing education?**
-答：Yes, German pharmacists have a mandatory continuing education requirement (Fortbildungspflicht) to maintain their license.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

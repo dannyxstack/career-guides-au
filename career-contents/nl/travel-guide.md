@@ -1,61 +1,97 @@
-# Travel Guide（Travel Guide）职业分析 · NL
+# Travel Guide — career analysis · Netherlands
 
-**职业代码：5113 – Travel Guide。**
+**Occupation code: 5113 (ISCO08)**
 
-Travel guides lead groups of visitors to historical sites, museums, and natural attractions, providing multilingual commentary and ensuring a safe and enjoyable experience.
+Guides lead tourists through historical sites, museums, natural attractions, etc., providing multilingual commentary to ensure a safe and enjoyable travel experience.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（MBO） | 2-4年 | —（公立学校学费低，欧盟学生几乎免费；非欧盟每年约2000欧元。） |
-| 旅游管理本科（HBO） | 4年 | $2,200~$10,000（欧盟学生约2200欧元/年；非欧盟约8000-10000欧元。） |
+| Vocational education (MBO) | 2-4 years | $0~$2,000 (Public schools have low tuition fees; almost free for EU students; about 2,000 euros per year for non-EU students.) |
+| Bachelor of Tourism Management (HBO) | 4 years | $2,200~$10,000 (EU students: approximately €2,200/year; non-EU: approximately €8,000-10,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 导游证（Nederlandse Gidsenopleiding） | 多家旅游培训机构 | 可选 | 非强制但提升竞争力，涵盖历史、文化、法律等。 |
-| 急救证书（EHBO） | 荷兰红十字会 | 可选 | 许多雇主要求。 |
-| 语言证书（如CEFR B2-C1） | 相关语言机构 | 可选 | 多语种（英/德/法/西等）要求常见。 |
+| Tour guide license (Nederlandse Gidsenopleiding) | Multiple tourism training institutions | Optional | Not mandatory but enhances competitiveness, covering history, culture, law, etc. |
+| First aid certificate (EHBO) | Netherlands Red Cross | Optional | Required by many employers. |
+| Language certificate (e.g., CEFR B2-C1) | Relevant language institutions | Optional | Multilingual (English/German/French/Spanish etc.) requirements are common. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。荷兰旅游业持续复苏，预计2024年国际游客数量接近疫情前水平，导游需求稳定。兼职和季节性工作机会较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. The Netherlands tourism industry continues to recover, with international visitor numbers expected to approach pre-pandemic levels in 2024, and demand for tour guides is stable. Part-time and seasonal jobs are plentiful.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含兼职折合全职。 |
-| 中级（3-7年） | $28,000~$35,000 | 经验丰富或多语种导游。 |
-| 高级（7年以上） | $35,000~$45,000 | 资深导游或团队领导。 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including part-time roles converted to full-time equivalent. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced or multilingual guides. |
+| Senior (7+ years) | $35,000~$45,000 | Senior tour guide or team leader. |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级导游可晋升为资深导游或团队领导，部分转入旅行社管理或旅游产品开发。多元化语言能力有助于职业发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on tour guide work is mixed: information retrieval, multilingual translation, and route planning can be automated, but interpersonal interaction, on-site adaptability, and in-depth cultural explanations still rely on humans.
+
+From entry-level tour guide, one can advance to senior tour guide or team leader, and some move into travel agency management or tourism product development. Multilingual skills aid career development.
+
+**Tasks most exposed to AI:**
+
+- Standard scenic spot introduction and background information queries
+- Multilingual translation and simple Q&A
+- Itinerary planning and navigation
+- Ticket booking and schedule management
+- Frequently Asked Questions (e.g., opening hours, facility locations)
+
+**Where AI augments the role:**
+
+- Using AR/VR to enhance historical site restoration and interactive experiences
+- Customizes personalized tour routes by analyzing visitor preferences with AI
+- Use real-time translation earphones to improve multilingual service efficiency
+- Use AI-generated multilingual commentary content to supplement explanations
+- Using data analysis to predict foot traffic and optimize on-site scheduling
+
+**Human moat:**
+
+- On-site response and crisis management (e.g., sudden weather changes, tourist accidents)
+- Deep cultural interpretation and emotional resonance ability
+- Unstructured social interaction and personalized care
+- Security supervision and regulatory compliance responsibilities
+- Cross-cultural sensitivity and interpersonal trust building
+
+**Skills to build:**
+
+- Use of AI tools (e.g., AR/VR content creation, real-time translation devices)
+- Customized experience design (themed routes, interactive activities)
+- Crisis management and emergency response training
+- In-depth historical and cultural knowledge (specializing in a specific field)
+- Customer Relationship Management and Personalized Services
+- Digital Content Creation (Blogs, Short Video Guides)
+
+**Key growth areas:**
 
 - Sustainable tourism
 - Multilingual demand
@@ -64,66 +100,68 @@ Travel guides lead groups of visitors to historical sites, museums, and natural 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，年薪门槛约€56,000（2024），导游通常难以达到。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于非欧盟雇员，30岁以下年薪门槛约€3,909/月，导游全职可能达到。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰毕业的留学生可获1年求职居留，找到导游工作后可转为工作居留。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU talent, with an annual salary threshold of approx. €56,000 (2024); tour guides generally cannot meet this. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For non-EU employees, the annual salary threshold under 30 is approx. €3,909/month, which may be met by full-time tour guides. |
+| Subclass Orientation Year (Zo (Orientation Year) | Graduates from the Netherlands can get a 1-year job-seeking residence permit, and after finding a tour guide job, they can switch to a work residence permit. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Travel Guide？**
-- 热爱历史与文化的人
-- 擅长与人沟通、多语种能力者
-- 喜欢户外工作和灵活时间安排的人
+**Who is suited**
+- People passionate about history and culture
+- Good at communicating with people, multilingual ability
+- People who enjoy outdoor work and flexible hours
 
-**谁不适合学Travel Guide？**
-- 不喜欢与人互动或重复讲解的人
-- 无法适应季节性或兼职工作的人
+**Who is not suited**
+- People who dislike interacting with others or repeating explanations
+- People unable to adapt to seasonal or part-time work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a tour guide in the Netherlands?**
+A: Full-time tour guides earn an average pre-tax annual salary of about €25,000-€35,000; part-time is paid hourly, typically €12-18/hour.
+
+**Q: How can non-EU citizens become a tour guide in the Netherlands?**
+A: Requires a work visa, usually employer-sponsored. Application via Highly Skilled Migrant visa is possible, but salary must meet threshold. Alternatively, study in tourism management first, then do the Orientation Year.
+
+**Q: What are the career progression paths for tour guides?**
+A: Can progress from tour guide to senior guide, team leader, or shift to tourism product development, travel agency management. Some guides become destination experts or start their own travel companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Travel Guide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for travel guides in the Netherlands?**
-答：Full-time travel guides earn an average gross annual salary between €25,000 and €35,000; part-time rates are €12-18 per hour.
-
-**问：How can non-EU citizens become travel guides in the Netherlands?**
-答：They need a work visa, usually employer-sponsored. The Highly Skilled Migrant visa is an option if salary threshold is met; alternatively, study tourism management then use the Orientation Year.
-
-**问：What are the career progression paths for travel guides?**
-答：Guides can advance to senior guide, team leader, or move into tour product development, travel agency management. Some become destination specialists or start their own tour company.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

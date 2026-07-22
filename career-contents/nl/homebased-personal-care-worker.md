@@ -1,62 +1,98 @@
-# Home-based Personal Care Worker（Home-based Personal Care Worker）职业分析 · NL
+# Home-based Personal Care Worker — career analysis · Netherlands
 
-**职业代码：5322 – Home-based Personal Care Worker。**
+**Occupation code: 5322 (ISCO08)**
 
-Provides personal care, companionship and daily assistance to clients in their homes, including bathing, dressing, feeding and medication reminders, enabling elderly or disabled individuals to live independently.
+Provide personal care, companionship, and daily assistance such as bathing, dressing, eating, and medication reminders in clients' homes, helping elderly or disabled individuals live independently.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中专/职业培训 | 2-3年 | —（部分由雇主或政府资助） |
-| 高中文凭+在职培训 | 6个月-1年 | —（通常雇主提供培训） |
+| Vocational school / Professional training | 2-3 years | $0~$5,000 (Partially funded by employer or government) |
+| High school diploma plus on-the-job training | 6 months to 1 year | $0~$2,000 (Training is usually provided by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰语水平B1证书 | DUO或其他认可机构 | 必备 | 必须能流利沟通 |
-| 护理相关MBO文凭（2-4级） | 荷兰中等职业教育机构 | 必备 | 常见入门要求 |
-| 心肺复苏（CPR）证书 | 荷兰红十字会等 | 可选 | 多数雇主要求 |
-| 无犯罪记录证明 | 荷兰司法部 | 必备 | 必须提供 |
+| Dutch Language B1 Certificate | DUO or other recognized institutions | Required | Must be able to communicate fluently. |
+| MBO Diploma in Nursing-related field (Levels 2-4) | Dutch secondary vocational education institutions | Required | Common Entry Requirements |
+| Police clearance certificate | Ministry of Justice of the Netherlands | Required | Must be provided |
+| Cardiopulmonary resuscitation (CPR) certificate. | Dutch Red Cross, etc. | Optional | Most employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。荷兰人口老龄化加剧，居家护理需求持续增长；政府鼓励非机构养老，预计岗位数量稳步增加，但面临劳动力短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Netherlands' aging population is intensifying, with growing demand for home care; the government encourages non-institutional care, and job numbers are expected to increase steadily, but labor shortages persist.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$27,000 | 税前年薪，含津贴 |
-| 中级（2-5年） | $27,000~$33,000 | 税前年薪，含津贴 |
-| 高级（5年以上） | $33,000~$40,000 | 税前年薪，含津贴，可任主管 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$27,000 | Annual pre-tax salary, including allowances |
+| Intermediate (2-5 years) | $27,000~$33,000 | Annual pre-tax salary, including allowances |
+| Senior (5+ years) | $33,000~$40,000 | Annual pre-tax salary, inclusive of allowances, can serve as supervisor |
+| average salary | $30,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级护理员晋升为高级护理员、团队主管或护理协调员；部分人进修后成为注册护士或社工，也可转向居家护理机构管理岗。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Far from replacing in-home personal care workers, AI will significantly enhance their capabilities, though entry-level positions may narrow slightly due to greater technical collaboration.
+
+Can advance from junior care worker to senior care worker, team leader, or care coordinator; some pursue further study to become registered nurses or social workers, or transition to management roles in home care agencies.
+
+**Tasks most exposed to AI:**
+
+- Record care logs and medication reminders
+- Manually check vital signs and write reports
+- Phone answering and simple scheduling
+- Basic nutritional calculations and dietary adjustments
+- Repetitive companionship conversations (e.g., singing Happy Birthday, reading news)
+
+**Where AI augments the role:**
+
+- Real-time health anomaly alerts via AI wearable devices to improve response speed
+- AI-assisted development of personalized care plans to optimize processes like toileting and repositioning
+- Use a voice assistant to conveniently check drug interactions and nursing guidelines
+- Efficient collaboration with doctors and family members via remote video
+- AI-driven fall detection and fall prevention systems provide safety assurance
+
+**Human moat:**
+
+- Physical contact and emotional comfort (e.g., hugging, soothing emotions)
+- Handle sudden physical conflicts or violent behaviors
+- Personalized, non-scripted interactions with elderly people with dementia
+- Complex wound care and manual manipulation
+- Human empathy and companionship in hospice care
+
+**Skills to build:**
+
+- Basic health monitoring device operation (blood pressure monitor, glucose meter, etc.)
+- Using nursing management software (e.g., Carely, Honor)
+- Understanding and responding to AI health abnormality early warning systems
+- Auxiliary coordination capabilities for telehealth consultations
+- Digital literacy and data privacy protection knowledge
+- Social Emotional Learning (SEL) communication skills
+
+**Key growth areas:**
 
 - Aging population
 - Community-based care
@@ -65,66 +101,68 @@ Provides personal care, companionship and daily assistance to clients in their h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 需雇主担保，年薪门槛较高，一般护理员难以达标，除非担任高级职位。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 在校毕业生可在荷兰居留一年寻找工作，护理职位可申请，但需满足荷兰语要求。 |
-| Subclass EU Free Movement（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可直接在荷兰工作，无需额外签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Requires employer sponsorship, with a high annual salary threshold; general care workers can hardly meet it unless in senior positions. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates can stay in the Netherlands for one year to find work; nursing positions are eligible but must meet Dutch language requirements. |
+| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU/EEA citizens can work directly in the Netherlands without an additional visa. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Home-based Personal Care Worker？**
-- 有耐心和同理心，喜欢帮助他人的人
-- 适应灵活工作时间，能承受体力劳动
-- 愿意学习荷兰语至B1水平
+**Who is suited**
+- Patient and empathetic individuals who enjoy helping others
+- Able to adapt to flexible working hours and handle physical labor
+- Willing to learn Dutch to B1 level
 
-**谁不适合学Home-based Personal Care Worker？**
-- 不善于人际沟通或工作压力承受力低
-- 无法适应非固定工作时间（如夜班、周末）
+**Who is not suited**
+- Poor interpersonal communication or low tolerance for work pressure
+- Inability to adapt to non-fixed working hours (e.g., night shifts, weekends)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for home personal care workers?**
+A: Pre-tax annual salary around €25,000 to €40,000, entry-level about €22,000-27,000, senior up to €33,000-40,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as caregivers?**
+A: Non-EU citizens usually need employer sponsorship for a high-skilled migrant visa, but caregiver salaries often do not meet the threshold; EU citizens have free movement.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Yes, can advance to care supervisor, care coordinator, or home care management; also can pursue further study to become a registered nurse or social worker.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Home-based Personal Care Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for home-based personal care workers?**
-答：Gross annual salary ranges from €25,000 to €40,000, with entry-level around €22,000-€27,000 and senior up to €33,000-€40,000.
-
-**问：How can non-EU citizens migrate to the Netherlands as a care worker?**
-答：Non-EU citizens typically need employer sponsorship for a Highly Skilled Migrant visa, but the salary level for care workers is often below the threshold; EU citizens have free movement.
-
-**问：Are there promotion opportunities in this occupation?**
-答：Yes, you can advance to care team leader, care coordinator, or management roles; further education leads to registered nurse or social worker.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

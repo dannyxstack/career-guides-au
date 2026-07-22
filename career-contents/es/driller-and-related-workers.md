@@ -1,63 +1,95 @@
-# Driller and related workers（Driller and related workers）职业分析 · ES
+# Driller and related workers — career analysis · Spain
 
-**职业代码：8113 – Driller and related workers。**
+**Occupation code: 8113 (CNO)**
 
-Drillers operate drilling rigs for geological exploration, mineral extraction, water well drilling, or foundation construction, handling equipment setup, maintenance, and site safety monitoring.
+Drillers operate drilling rigs for geological exploration, mineral extraction, well drilling, or foundation construction, and are responsible for equipment installation, maintenance, and on-site safety monitoring.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（可衔接土木工程或矿业相关领域） |
-| 大学本科（Grado） | 4年 | $1,000~$1,500（矿业工程或土木工程学位，学费公立每年约1000-1500欧元） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$500 (Public schools are free, with only a registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$700 (It can connect with civil engineering or mining-related fields) |
+| Undergraduate (Grado) | 4 years | $1,000~$1,500 (Degrees in mining engineering or civil engineering, with tuition fees for public institutions around 1000-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钻探操作证书 | 西班牙劳工部或行业协会 | 可选 | 完成FP课程或相关培训后获得，非强制但雇主普遍要求 |
-| 高空作业证 | 职业安全机构 | 可选 | 部分钻探场景需持证上岗 |
-| 矿业安全培训 | 矿业安全机构 | 可选 | 矿山钻探需通过安全培训 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学历需认证，非强制但有助于就业 |
+| Drilling operations certificate | The Spanish Ministry of Labor or industry associations | Optional | Obtained after completing FP courses or related training, not mandatory but generally required by employers |
+| Working at heights certificate | Occupational safety agencies | Optional | Some drilling scenarios require certification to operate |
+| Mining safety training | Mining safety agencies | Optional | Mine drilling requires safety training |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country diplomas must be certified; it is not mandatory but helps with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,500。西班牙钻探工受建筑业和采矿业波动影响，可再生能源和地热项目带来新需求，但整体岗位数量有限。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,500. Spanish drillers are affected by fluctuations in the construction and mining industries, with new demand from renewable energy and geothermal projects, but the overall number of positions is limited.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含加班补贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，视项目难度而异 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，含主管津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual salary before tax, including overtime allowances |
+| Mid-level (3–7 years) | $30,000~$36,000 | Pre-tax annual salary varies depending on the difficulty of the project |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级钻探助手晋升为操作员、主管，或专攻定向钻探、地热钻探等细分领域，需持续学习技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Drillers face mixed challenges: AI and automation will take over tasks such as data monitoring and drilling parameter optimization, but field operations, equipment maintenance, and emergency response rely on human judgment and cannot be fully replaced in the short term.
+
+You can be promoted from junior drilling assistant to operator or supervisor, or specialize in niche fields such as directional drilling and geothermal drilling, requiring continuous technical learning.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitors and records parameters such as drilling depth, pressure, and flow rate
+- Automatically adjust drilling speed and direction based on geological data
+- Generate drilling reports and logs
+- Preliminary geological data analysis and anomaly alarms
+
+**Where AI augments the role:**
+
+- AI-assisted geological modeling and drilling path optimization
+- Real-time data analysis predicts equipment faults and provides early warnings
+- Augmented reality (AR) assisted device maintenance and operation guidance
+- Remote expert systems assist in complex fault diagnosis
+
+**Human moat:**
+
+- On-site equipment assembly, disassembly, and manual operation
+- Emergency handling and decision-making under complex geological conditions
+- Coordination and coordination of multi-equipment collaborative operations
+- Real-time communication and on-site management with teams and management
+
+**Skills to build:**
+
+- Master automated drilling rig operation and maintenance technology
+- Learn geological data analysis software (such as LogPlot, WellCAD)
+- Familiar with IoT sensors and remote monitoring systems
+- Enhance fault diagnosis and emergency response capabilities
+- Learn HSE (Health, Safety, and Environment) management standards
+
+**Key growth areas:**
 
 - Geothermal drilling
 - Renewable energy projects
@@ -66,66 +98,65 @@ Drillers operate drilling rigs for geological exploration, mineral extraction, w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需获得西班牙雇主offer，劳工部审核，符合职业要求 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6-12个月寻找工作，需有经济能力 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高学历钻探工程师，需合同和学位认证，薪资门槛约33,000欧元 |
+| Subclass Cuenta ajena (Work Contract Visa) | You must obtain an offer from a Spanish employer, be reviewed by the Ministry of Labor, and meet the occupational requirements |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find a job, and you must have financial means |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated drilling engineers, requiring contract and degree certification, with a salary threshold of about 33,000 euros |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Driller and related workers？**
-- 愿意从事户外和体力劳动的人
-- 对机械操作和地质勘探感兴趣的人
-- 能适应不定时工作和偏远地区派遣的人
-
-**谁不适合学Driller and related workers？**
-- 偏好办公室和固定工作时间的人
-- 对粉尘、噪音或高空作业敏感的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People willing to engage in outdoor and physical labor
+- People interested in mechanical operation and geological exploration
+- Individuals who can adapt to irregular work hours and assignments to remote areas
+
+**Who is not suited**
+- People who prefer offices and fixed working hours
+- People sensitive to dust, noise, or working at heights
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for drillers in Spain?**
+A: Junior approx. €24,000-28,000, intermediate €30,000-36,000, senior up to €45,000. Mining and offshore drilling pay higher.
+
+**Q: What routes can third-country citizens take to immigrate to Spain as a driller?**
+A: Common pathways include work contract visas (Cuenta ajena) and job search visas (Busqueda empleo). The EU Blue Card applies to engineering positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Driller and related workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a driller in Spain?**
-答：Entry-level: €24k-28k; mid-level: €30k-36k; senior: up to €45k; mining and offshore drilling pay higher.
-
-**问：What migration routes are available for third-country nationals to work as drillers in Spain?**
-答：Common paths are the work contract visa (Cuenta ajena) and job search visa (Busqueda empleo). EU Blue Card applies for engineering roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

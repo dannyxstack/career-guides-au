@@ -1,62 +1,98 @@
-# Musical Instrument Maker and Repairer（Musical Instrument Maker and Repairer）职业分析 · FR
+# Musical Instrument Maker and Repairer — career analysis · France
 
-**职业代码：B1501 – Musical Instrument Maker and Repairer。**
+**Occupation code: B1501 (ROME)**
 
-Designs, builds, restores, and tunes musical instruments (e.g., violins, pianos, wind instruments) using craftsmanship and acoustic knowledge to ensure sound quality and playability.
+Responsible for manufacturing, repairing, and tuning various instruments (such as violins, pianos, wind instruments), combining handcrafted skills with acoustic knowledge to ensure the sound quality and performance of instruments.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制培训（CAP） | 2年（CAP） | —（通过学徒制（apprentissage）通常免学费，且有工资；部分私立学校收费） |
-| 高级职业文凭（BTM） | 2年（BTM） | $3,000~$10,000（私立学校或继续教育，可申请资助） |
-| 职业学士（Licence Pro） | 3年（Licence） | $5,000~$15,000（大学或专业学院，部分课程含实习） |
+| Apprenticeship Training (CAP) | 2 years (CAP) | $0~$5,000 (Apprenticeships usually waive tuition fees and provide wages; Some private schools charge fees) |
+| Higher Professional Diploma (BTM) | 2 years (BTM) | $3,000~$10,000 (Private schools or continuing education can apply for funding) |
+| Bachelor of Vocational (Licence Pro) | 3 years (Licence) | $5,000~$15,000 (Some courses at universities or professional colleges include internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 乐器制造或维修 | 法国教育部 | 必备 | 基础职业资格，多数从业者必备 |
-| BTM 乐器工艺 | 法国手工业行会（CMA） | 可选 | 高级技能证书，提升专业认可度 |
-| 乐器维修师认证（非强制） | 法国乐器行业协会（CSFI） | 可选 | 自愿认证，有助于客户信任 |
+| CAP instrument manufacturing or repair | French Ministry of Education | Required | Basic professional qualifications are essential for most practitioners |
+| BTM instrument craftsmanship | French Crafts Association (CMA) | Optional | Advanced skills certificates enhance professional recognition |
+| Instrument Repair Specialist Certification (Non-mandatory) | French Musical Instrument Industry Association (CSFI) | Optional | Voluntary authentication helps build customer trust |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,500。法国乐器制造与维修行业规模较小但稳定，受文化传统和高端市场需求支撑。由于学徒培养周期长，熟练工匠稀缺，就业机会主要集中于专业工坊和音乐机构，整体前景平稳。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. France's musical instrument manufacturing and repair industry is small but stable, supported by cultural traditions and high-end market demand. Due to the long apprenticeship cycle and scarcity of skilled craftsmen, employment opportunities are mainly concentrated in professional workshops and music institutions, with overall stable prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒转正后或小型工坊起薪 |
-| 中级（3-10年） | $27,000~$35,000 | 经验丰富的工匠或工坊经理 |
-| 高级（10年以上） | $35,000~$50,000 | 大师级工匠、独立制琴师或修复专家 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | After apprentices become regular or small workshops, starting salaries |
+| Intermediate (3-10 years) | $27,000~$35,000 | Experienced craftsmen or workshop managers |
+| Senior (10+ years) | $35,000~$50,000 | Master craftsmen, independent luthiers, or restoration experts |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 职业发展路径通常从学徒（CAP/BTM）开始，逐步晋升为熟练工匠，可专攻特定乐器（如钢琴、弦乐器）或开设个人工坊。少数资深工匠可进入奢侈品或博物馆修复领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Automation risks for instrument manufacturers and repairers are moderately high: AI can assist with tuning and design, but manual skills and acoustic judgment are hard to replace. Entry-level positions may narrow due to the widespread adoption of digital tools, but demand for advanced customization and repair remains robust.
+
+Career development typically begins as an apprentice (CAP/BTM) and gradually advances to skilled craftsmanship, specializing in specific instruments (such as piano and string instruments) or opening a personal workshop. A few experienced craftsmen can enter the fields of luxury goods or museum restoration.
+
+**Tasks most exposed to AI:**
+
+- Standard tuning (such as piano tuning with AI spectrum analysis that can automatically detect deviations)
+- Basic fault diagnosis (AI acoustic sensor analyzes sound quality issues)
+- Mass processing of musical instrument components (CNC automated machinery replacing manual cutting)
+- Customer Communication and Order Management (AI Customer Service and CRM System)
+- Inventory Management and Procurement (Automated Supply Chain Tools)
+
+**Where AI augments the role:**
+
+- Acoustic modeling and tone optimization (AI analyzes vibration patterns and guides manual adjustments)
+- Personalized design (AI generates instrument parameters based on player data)
+- Repair plan simulation (AI virtual restoration preview to reduce material waste)
+- Material Property Analysis (AI-Assisted Selection of the Best Match for Wood/Metal)
+- Online remote commissioning (AI-assisted repair technicians provide remote guidance to customers)
+
+**Human moat:**
+
+- Manual micro-adjustments to instrument sound (such as the arrangement of bow hairs and the position of the sound pillar)
+- Intuitive understanding of instrument history and style (when restoring ancient instruments)
+- Engage in deep communication with musicians to cater to their subjective tonal preferences
+- Creative and artistic production (such as custom instrument appearance carving)
+- Handling non-standardized, rare issues (such as antique instrument restoration)
+
+**Skills to build:**
+
+- Digital acoustic analysis and AI tuning tools are used
+- 3D modeling and CNC programming (for part fabrication)
+- Instrument Materials Science (Acoustics, Wood/Metal Properties)
+- Customer Relationship Management (CRM Software)
+- Data-driven quality control and sustainable maintenance practices
+- Interdisciplinary Collaboration (Working with Music Technology Companies)
+
+**Key growth areas:**
 
 - Artisan craftsmanship
 - Heritage preservation
@@ -65,65 +101,67 @@ Designs, builds, restores, and tunes musical instruments (e.g., violins, pianos,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇于法国工坊或企业，需获得劳工许可，通常需雇主协助申请 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于具有杰出专业技能或艺术才能者，需证明对法国文化领域有贡献 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | To be employed by a French workshop or company, you need to obtain a labor permit, which usually requires employer assistance to apply |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for those with outstanding professional skills or artistic talent, who must demonstrate contributions to the French cultural sector |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musical Instrument Maker and Repairer？**
-- 对手工制作和声学有浓厚兴趣，耐心细致
-- 接受长期学徒制，热爱传统工艺
-- 追求艺术与技术结合，不介意较小市场规模
+**Who is suited**
+- Strong interest in handmade craftsmanship and acoustics, patient and meticulous
+- Accept long-term apprenticeship programs and love traditional crafts
+- Pursuing a blend of art and technology, we don't mind a smaller market size
 
-**谁不适合学Musical Instrument Maker and Repairer？**
-- 追求高薪或快速职业晋升
-- 偏好数字技术或工业化生产环境
+**Who is not suited**
+- Pursuing high salary or rapid career advancement
+- Preference for digital technology or industrial production environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of musical instrument makers?**
+A: Entry-level annual salary about 20,000-26,000 EUR, mid-level about 27,000-35,000 EUR, senior master can reach 50,000 EUR+. Income may fluctuate due to self-employment.
+
+**Q: Can foreign instrument makers immigrate to France?**
+A: This occupation is not considered a shortage occupation in France, and immigration pathways are limited. You can apply through Salarié residence (employer sponsorship) or Passeport Talent (proof of outstanding talent), but competition is high, so it is recommended to first study in France through an apprenticeship.
+
+**Q: What diploma is required to work in musical instrument manufacturing in France?**
+A: Typically, CAP (Professional Qualification Certificate) or a higher BTM is required. Some workshops may require apprenticeship experience or professional technical certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Musical Instrument Maker and Repairer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for musical instrument makers?**
-答：Entry-level: €20,000-€26,000; mid-level: €27,000-€35,000; senior master craftspersons can earn over €50,000 annually. Self-employment incomes may vary.
-
-**问：Can foreign musical instrument makers immigrate to France?**
-答：This occupation is not on the shortage list. Possible routes include the Salarié permit (with employer sponsorship) or Passeport Talent (for exceptional skills). Competing locally is advisable.
-
-**问：What qualifications are needed to work as a musical instrument maker in France?**
-答：A CAP (vocational diploma) or BTM (advanced trade certificate) is typical. Some workshops require an apprenticeship or specialized credentials.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

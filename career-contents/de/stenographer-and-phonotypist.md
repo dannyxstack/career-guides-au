@@ -1,60 +1,96 @@
-# Stenographer and Phonotypist（Stenographer and Phonotypist）职业分析 · DE
+# Stenographer and Phonotypist — career analysis · Germany
 
-**职业代码：7143 – Stenographer and Phonotypist。**
+**Occupation code: 7143 (KldB)**
 
-Stenographers and phonotypists convert spoken words or audio recordings into written text quickly and accurately, commonly used in court reporting, meeting minutes, and media transcription.
+Shorthand writers and voice typists quickly and accurately convert spoken or recorded content into written text, commonly used for court records, meeting minutes, and media transcription.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训通常免学费，企业提供津贴。） |
-| 短期课程 | 6-12个月 | $2,000~$5,000（私立机构提供的速记与转录课程。） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$500 (Dual training is usually tuition-free, with companies providing allowances.) |
+| Short-term courses | 6–12 months | $2,000~$5,000 (Shorthand and transcription courses offered by private institutions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训证书 | 德国工商会（IHK） | 可选 | 完成双元制培训后获得，非强制但受雇主青睐。 |
-| 德语能力证明 | 歌德学院等 | 必备 | 母语或C1水平，因工作需要精准听写。 |
+| German language proficiency certificate | Goethe-Institut, etc. | Required | Native or C1 level, as accurate dictation is required for work. |
+| Vocational training certificate | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing dual-system training; not mandatory but favored by employers. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 8,000。德国数字化进程对传统速记需求下降，但法律和医疗领域对高精度转录仍有稳定需求。就业机会集中在专业服务公司和公共部门。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The digitisation process in Germany has reduced demand for traditional shorthand, but there is still stable demand for high-precision transcription in the legal and medical fields. Employment opportunities are concentrated in professional service companies and the public sector.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，公共部门略高。 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，含专业领域经验。 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，主管或法庭记录员。 |
+| Median salary | $46,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Pre-tax annual salary slightly higher in the public sector. |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, including professional experience. |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary, supervisor or court recorder. |
+| average salary | $52,320 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从初级速记员晋升至高级速记员或团队主管，也可转向法庭记录员或同声传译等专门领域。继续教育和认证可提升职业前景。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+With rapid advances in AI voice recognition and automatic transcription, core tasks of stenographers will be largely replaced, entry-level positions will shrink dramatically, and demand for jobs relying solely on transcription will plummet.
+
+Can progress from junior stenographer to senior stenographer or team supervisor, or transition to specialized fields such as court reporter or simultaneous interpreter. Continuing education and certification can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Transcribe recordings verbatim into text
+- Organizing meeting minutes according to standard format
+- Real-time listening and generating shorthand transcripts
+- Proofread common homophone typos
+- Extract keywords mentioned by the speaker
+
+**Where AI augments the role:**
+
+- Using AI-assisted real-time transcription with simultaneous speaker identification labeling
+- Quickly generate meeting key points using AI summarization tools
+- Combine NLP to automatically identify legal terms and insert correct wording
+- Using voice analysis tools to extract emotions and intent from conversations
+- AI-assisted multilingual real-time translation and transcription
+
+**Human moat:**
+
+- Final review responsibility for accuracy of testimony and special terminology in legal hearings
+- Handling highly noisy audio scenes with multiple accented voices.
+- Key decision release under customer's 99.9% accuracy requirement
+- Security requirements for offline transcription under non-disclosure agreement
+- Human judgment of non-standard terms, dialects, or ad-hoc vocabulary
+
+**Skills to build:**
+
+- Proficient in AI voice transcription tools (e.g., Otter.ai, Trint)
+- Learn database management and smart proofreading processes
+- Improve terminology knowledge in law or medicine
+- Developing skills in meeting analysis and summary writing
+- Learn to build RPA automation workflows.
+- Proficiency in basic programming (Python) for batch processing of transcription files.
+
+**Key growth areas:**
 
 - Digitalization
 - Court Reporting
@@ -63,69 +99,68 @@ Stenographers and phonotypists convert spoken words or audio recordings into wri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker Visa（Fachkräfteeinwanderungsgesetz） | 需获得德国雇主offer且职业资格被认可，非紧缺职业，薪资门槛较低。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许求职者在德国停留1年寻找工作，需具备相关资质。 |
-| Subclass Job Seeker Visa（Jobseeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力。 |
+| Subclass Skilled Worker Visa (Fachkräfteeinwanderungsgesetz) | Requires a German employer offer and recognized qualifications, not in shortage occupation, and lower salary threshold. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers with relevant qualifications to stay in Germany for 1 year to find a job. |
+| Subclass Job Seeker Visa (Jobseeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stenographer and Phonotypist？**
-- 打字速度快且准确的人
-- 注重细节、能长时间专注的人
-- 对法律或医疗术语感兴趣的人
-
-**谁不适合学Stenographer and Phonotypist？**
-- 不习惯长时间静坐工作的人
-- 对重复性工作感到厌倦的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who type quickly and accurately
+- People who are detail-oriented and can focus for long periods
+- Those interested in legal or medical terminology.
+
+**Who is not suited**
+- Those not accustomed to long periods of seated work
+- People who are tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for stenographers?**
+A: German stenographer's pre-tax annual salary ranges from about 26,000 to 50,000 euros, depending on experience and field. Court reporters typically earn higher.
+
+**Q: How can foreigners become stenographers in Germany?**
+A: Requires fluent German (C1) and completed vocational training or qualification certification. Eligible via Skilled Immigration Act or Opportunity Card visa.
+
+**Q: Will AI replace stenographers?**
+A: AI voice recognition is developing rapidly, but high-precision legal and medical transcription still requires human review; positions are declining but will not disappear completely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Stenographer and Phonotypist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stenographers?**
-答：In Germany, stenographers earn a gross annual salary of approximately €26,000 to €50,000, depending on experience and field. Court reporters typically earn higher.
-
-**问：How can foreigners become stenographers in Germany?**
-答：Require fluent German (C1) and completion of vocational training or credential recognition. Entry via Skilled Worker Act or Opportunity Card.
-
-**问：Will AI replace stenographers?**
-答：AI speech recognition is advancing, but high-precision legal and medical transcription still requires human review. Jobs will decline but not vanish entirely.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Surface Treatment Operator（Surface Treatment Operator）职业分析 · FR
+# Surface Treatment Operator — career analysis · France
 
-**职业代码：H3402 – Surface Treatment Operator。**
+**Occupation code: H3402 (ROME)**
 
-Operate surface treatment equipment (e.g., electroplating, spraying, chemical conversion) to apply coatings, anti-corrosion, or decorative finishes on metal or plastic parts, controlling process parameters to ensure quality.
+Operate surface treatment equipment (such as electroplating, spraying, chemical conversion), apply plating, anti-corrosion, and beautification treatments to metal or plastic workpieces, and control process parameters to ensure quality.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年 | —（公立学校免费，私立约€500-15000/年；可签学徒合同免学费） |
-| 高级技师证书（BTS） | 2年 | —（公立学校免费；私立年费约€3000-10000） |
-| 学士（Licence Pro） | 3年（含BTS后1年） | —（公立大学约€200-500/年注册费，无学费；私立年费€3000-5000） |
+| Certificate of Professional Competency (CAP) | 2 years | $0~$15,000 (Public schools are free, private schools about €500-15,000 per year; You can sign an apprenticeship contract and waive tuition fees) |
+| Senior Technician Certificate (BTS) | 2 years | $0~$10,000 (Public schools are free; Private tuition annual fees are about €3,000–10,000) |
+| Licence Pro | 3 years (including 1 year after BTS) | $0~$5,000 (The registration fee for public universities is about €200-500 per year, with no tuition fees; Private annual fees range from €3,000 to €5,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 表面处理操作员 | UIMM（金属工业联盟） | 可选 | 职业资格认证，非强制但受企业认可 |
-| CAP 表面处理 | 法国教育部 | 必备 | 基础从业文凭，常见于招聘要求 |
+| CAP surface treatment | French Ministry of Education | Required | Basic professional diploma, commonly found in recruitment requirements |
+| CQP Surface Treatment Operator | UIMM (Metal Industry Alliance) | Optional | Professional qualification certification is not mandatory but recognized by enterprises |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 15,000。法国工业维护与高端制造对表面处理需求稳定，航空、汽车、军工等行业尤为依赖。环保法规趋严推动绿色工艺转型，具备清洁技术经验的从业者更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's industrial maintenance and high-end manufacturing have stable demand for surface treatment, with industries such as aviation, automotive, and military industries particularly reliant on it. Stricter environmental regulations are driving the transformation of green processes, making practitioners with clean technology experience more popular.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含奖金，主管级更高 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including bonuses, with higher supervisor levels |
+| average salary | $28,068 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从操作员晋升为班组长、工艺技术员，再至生产主管。获取BTS或Licence Pro文凭后，可转向工艺工程或质量控制岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Coating and spraying machine operators have mixed prospects: AI optimizes paths and defect detection to improve efficiency, but robot automation is gradually replacing routine operations; meanwhile, custom fine work and complex equipment maintenance still require human skills.
+
+Operators can be promoted from operator to team leader, process technician, and then to production supervisor. After obtaining a BTS or Licence Pro diploma, you can move on to process engineering or quality control positions.
+
+**Tasks most exposed to AI:**
+
+- Repetitive spraying tasks: AI robots automatically spray standard workpieces according to preset programs
+- Quality inspection: computer vision real-time monitoring of coating thickness and defects, automatic adjustments
+- Material mixing and proportioning: automated systems precisely control pigments and solvents according to formulas
+- Production planning: AI optimizes batch size and sequence to reduce color change time
+
+**Where AI augments the role:**
+
+- Complex curved surface spray path planning: AI-assisted optimal trajectory design to improve uniformity
+- Fault prediction and maintenance: sensor data-driven prediction of mechanical failures to reduce downtime
+- Personalized customization: AI quickly generates customer-requested patterns and color schemes
+- Safety monitoring: AI identifies harmful gas leaks or fire risks, enhancing protection
+- Remote collaboration: AR glasses with AI guidance assist novices in complex setups
+
+**Human moat:**
+
+- Fine manual finishing: tactile control of spray distance and pressure—difficult for AI to replicate
+- Process innovation: develop new paint formulations and spraying processes, requiring materials science experience
+- Complex equipment integration: debugging multi-robot collaboration, resolving unexpected interruptions
+- On-site problem solving: immediate adjustments for substrate defects or environmental changes
+
+**Skills to build:**
+
+- Robot programming and maintenance (e.g., Fanuc, ABB robot systems)
+- Computer Vision Basics (for quality inspection and path planning)
+- Data analysis and predictive maintenance (Python, sensor logs)
+- AR/VR-assisted operation and training
+- New coating chemistry knowledge (UV curing, water-based coatings)
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Industrial coating
 - Green chemistry
@@ -64,65 +98,67 @@ Operate surface treatment equipment (e.g., electroplating, spraying, chemical co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié) Work Permit） | 需获得法国雇主工作合同，并通过劳动局审核（证明无欧盟公民胜任）。适用于长期雇佣。 |
-| Subclass Passeport Talent（Talent Passport） | 若年薪高于约€53,000（2025年标准）或属于创新/高技能项目，可申请此居留，手续简化。 |
+| Subclass Salarié (Employee (Salarié) Work Permit) | You must obtain a work contract from a French employer and pass the review by the Labor Bureau (proving that no EU citizen is qualified). Suitable for long-term employment. |
+| Subclass Passeport Talent (Talent Passport) | If the annual salary exceeds approximately €53,000 (2025 standard) or falls under an innovative/high-skilled project, you can apply for this residence with simplified procedures. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Surface Treatment Operator？**
-- 注重实际操作的动手型人才
-- 对工业制造与工艺优化感兴趣者
-- 愿意在中小型工厂或专业车间工作
+**Who is suited**
+- Hands-on talents who focus on practical operations
+- Those interested in industrial manufacturing and process optimization
+- Willing to work in small or medium-sized factories or specialized workshops
 
-**谁不适合学Surface Treatment Operator？**
-- 希望高薪或快速晋升的人
-- 无法适应化学气味或防护要求的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who cannot adapt to chemical odors or protective requirements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for surface treatment operators?**
+A: Entry-level salaries are about €23,000-28,000, intermediate €28,000-35,000, and senior salaries €35,000-45,000 (pre-tax annual salary).
+
+**Q: How can non-EU individuals immigrate to France as surface treatment operators?**
+A: A French employer-sponsored application for Salarié work residence is required; Alternatively, if the annual salary meets the requirements, you can apply for Passeport Talent. This occupation is not in urgent demand and has relatively high visa requirements.
+
+**Q: How are surface treatment operators promoted?**
+A: Promotion can be to production team leader or process technician; After passing the BTS or Licence Pro exams, they moved into quality control or process engineering positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Surface Treatment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Surface Treatment Operator?**
-答：Entry-level €23,000-28,000, mid-level €28,000-35,000, senior €35,000-45,000 (gross annual).
-
-**问：How can non-EU nationals immigrate to France as a Surface Treatment Operator?**
-答：Must obtain employer sponsorship for a Salarié work permit; or apply for Passeport Talent if salary threshold met. Not a shortage occupation, visa difficulty is high.
-
-**问：How can Surface Treatment Operators advance?**
-答：Promotion to team leader, process technician; with BTS or Licence Pro, transition to quality control or process engineering roles.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

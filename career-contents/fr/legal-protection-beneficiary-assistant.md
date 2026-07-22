@@ -1,62 +1,94 @@
-# Legal Protection Beneficiary Assistant（Legal Protection Beneficiary Assistant）职业分析 · FR
+# Legal Protection Beneficiary Assistant — career analysis · France
 
-**职业代码：K1102 – Legal Protection Beneficiary Assistant。**
+**Occupation code: K1102 (ROME)**
 
-Assists adults or minors under legal protection measures (e.g., guardianship, curatorship) with daily living, administrative tasks, and social rights, coordinating with social workers and judicial authorities.
+Assist adults or minors protected by legal measures (such as guardianship or custody), safeguard their daily life, administrative affairs, and social rights, and collaborate with social workers and judicial institutions.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或Bac专业证书 | 2年（CAP） | —（公立学校免费，私立0-3000欧元/年） |
-| 社会服务辅助职业文凭（DEAF） | 2年（Bac+2） | —（公立机构免费，私立1000-5000欧元/年） |
-| 国家司法保护干预人员文凭（DEMJPI） | 2年（Bac+2） | —（可通过学徒制或继续教育获得，费用视机构而定） |
+| CAP or BAC professional certificate | 2 years (CAP) | $0~$3,000 (Public school free, private EUR 0-3,000 per year) |
+| Diploma in Social Service Auxiliary Vocational (DEAF) | 2 years (Bac+2) | $0~$5,000 (Public institutions free, private EUR 1k-5k/year) |
+| National Diploma in Judicial Protection Intervention (DEMJPI) | 2 years (Bac+2) | $0~$8,000 (It can be obtained through apprenticeships or continuing education, with costs depending on the institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 司法保护干预人员国家文凭（DEMJPI） | 法国司法部 | 必备 | 从事该职业的核心文凭，证明具备法律和社会工作技能 |
-| 社会服务辅助职业文凭（DEAF） | 地区卫生和社会事务局 | 可选 | 可替代性资格，但需额外法律培训 |
-| 无犯罪记录证明 | 法国司法部 | 必备 | 从事与弱势群体相关工作必须提供 |
+| National Diploma in Judicial Protection Intervention (DEMJPI) | French Ministry of Justice | Required | A core diploma for this profession, demonstrating legal and social work skills |
+| Police clearance certificate | French Ministry of Justice | Required | Work related to vulnerable groups must be provided |
+| Diploma in Social Service Auxiliary Vocational (DEAF) | Regional Health and Social Affairs Bureau | Optional | Replaceable qualifications, but additional legal training is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 5,500。随着法国人口老龄化及对弱势群体保护需求的增加，该职业需求稳定。就业机会集中在社会救助协会、地方行政机构和私营保护服务公司。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 5,500. With France's aging population and growing demand for protecting vulnerable groups, demand for this profession remains stable. Employment opportunities are concentrated in social assistance associations, local administrative agencies, and private protection service companies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 年薪，税前 |
-| 中级（3-7年） | $26,000~$32,000 | 年薪，税前 |
-| 高级（7年以上） | $32,000~$38,000 | 年薪，税前 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual salary, pre-tax |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual salary, pre-tax |
+| Senior (7+ years) | $32,000~$38,000 | Annual salary, pre-tax |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理晋升为司法保护代表（délégué à la protection judiciaire），或通过继续教育转向社会工作者或法律顾问角色。
-**AI替代风险：低风险（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on the role of legal protection beneficiary assistants, especially by freeing up manpower through automated document and schedule management, but high emotional demands and complex case decision-making make core tasks difficult to replace.
+
+You can be promoted from assistant to legal protection representative (délégué à la protection judiciaire), or transition to social worker or legal advisor roles through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates standardized rights protection progress reports and administrative forms
+- Arrange and remind beneficiaries of daily schedules such as medical care and social interactions
+- Preliminary screening of benefit application documents and matching them to policy terms
+- Organize and archive the beneficiary's electronic files and communication records
+
+**Where AI augments the role:**
+
+- Quickly check the latest laws, regulations, and local policies through the AI dialogue system
+- Using NLP tools to analyze the emotions and needs implied in beneficiaries' discourse
+- Automatically pre-fill beneficiary information and check for logical errors with smart forms
+- Progress is efficiently shared with social workers and judicial institutions through digital collaboration platforms
+
+**Human moat:**
+
+- Build trust with vulnerable groups and manage complex psychological states
+- Making judgments balancing human relationships and rules in challenging social investigations
+- Coordinate multiple interests (families, institutions, judiciary) to reach a compromise
+- Responding to unstructured sudden crises (such as beneficiary self-harm risk)
+
+**Skills to build:**
+
+- Basic Legal Knowledge (Guardianship Law and Social Security Procedures)
+- Document automation tools (such as low-code forms, RPA)
+- Emotional and Communication Skills (Nonviolent Communication, Crisis Intervention)
+- Data privacy and ethical compliance
+- Cross-departmental collaboration and project management tools (such as Trello)
+
+**Key growth areas:**
 
 - aging population
 - social care demand
@@ -65,66 +97,68 @@ Assists adults or minors under legal protection measures (e.g., guardianship, cu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Visa） | 需获得法国雇主合同，且职位需通过劳工市场测试（如Pôle emploi审核）。 |
-| Subclass Passeport Talent（Talent Passport） | 符合紧缺职业或高技能类别，需至少30k€年薪，但该职业通常达不到。 |
-| Subclass Recherche emploi（Job Search Visa） | 适合在法完成学业后申请，有效期1年，需找到相关工作。 |
+| Subclass Salarié (Employee Visa) | A French employer contract is required, and the position must pass a labor market test (such as Pôle emploi audit). |
+| Subclass Passeport Talent (Talent Passport) | Falls under shortage occupation or high-skilled category, requires at least €30k annual salary, but this occupation typically does not meet that. |
+| Subclass Recherche emploi (Job Search Visa) | Suitable for application after completing studies in France; valid for 1 year; requires finding relevant work. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Legal Protection Beneficiary Assistant？**
-- 具有同理心和耐心，愿意帮助弱势群体的人
-- 对法律和社会工作有基本兴趣的人
-- 追求稳定而非高薪的人
+**Who is suited**
+- Empathetic and patient, willing to help vulnerable groups
+- People with a fundamental interest in law and social work
+- Those seeking stability rather than high salary
 
-**谁不适合学Legal Protection Beneficiary Assistant？**
-- 无法承受情感压力或复杂人际关系冲突的人
-- 追求高收入和快速职业晋升的人
+**Who is not suited**
+- People who cannot handle emotional stress or complex interpersonal conflicts
+- People pursuing high income and rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation?**
+A: Junior annual salary about €22k-26k, intermediate €27k-32k, senior €33k-38k (pre-tax).
+
+**Q: Can third-country citizens work in this profession through skilled migration?**
+A: It's very difficult. This profession does not fall under the high-paying standards for the EU Blue Card or Talent Passport, and requires fluency in French and a diploma recognized by France. It is generally only suitable for EU citizens or immigration through family reunification.
+
+**Q: What qualifications are required?**
+A: Must hold a National Diploma for Judicial Protection Interventionists (DEMJPI) issued by the Ministry of Justice or an equivalent social service diploma, and must have no criminal record.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏易（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低风险（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Legal Protection Beneficiary Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation?**
-答：Entry-level: €22k-26k; mid-level: €27k-32k; senior: €33k-38k (gross annual).
-
-**问：Can third-country nationals work in this occupation via skilled migration?**
-答：Very difficult. This occupation does not meet EU Blue Card or Talent Passport salary thresholds, requires fluent French and French-recognized diplomas, typically only for EU citizens or via family reunification.
-
-**问：What qualifications are required?**
-答：Must hold the National Diploma of Judicial Protection Intervention Personnel (DEMJPI) issued by the Ministry of Justice or equivalent social service diploma, plus a clean criminal record.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

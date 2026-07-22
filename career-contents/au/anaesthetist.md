@@ -1,61 +1,97 @@
-# Anaesthetist（Anaesthetist）职业分析 · 澳大利亚
+# Anaesthetist — career analysis · Australia
 
-**职业代码：253211 – Anaesthetist。**
+**Occupation code: 253211 (ANZSCO)**
 
-Anaesthetists are specialist doctors who administer anaesthesia, provide pain relief, and support vital functions during surgical, obstetric, and other medical procedures, ensuring patient safety and comfort.
+An anesthetist is a medical specialist responsible for providing anesthesia, analgesia, and life support to patients during surgery, childbirth, and other medical procedures, ensuring patient safety and comfort.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 医学本科 | 4-6年 | $200,000~$250,000（澳洲医学学位国际学生总学费约$200k-$250k AUD） |
-| 住院医师培训（PGY1-2） | 2年 | —（受薪职位，无需学费） |
-| 麻醉专科培训（FANZCA） | 5年 | $20,000~$30,000（培训费及考试费，部分由医院承担） |
+| Bachelor of Medicine (MBBS). | 4-6 years | $200,000~$250,000 (Total tuition for international students in Australian medical degrees is approximately AUD $200k–$250k) |
+| Residency training (PGY1-2) | 2 years | $0~$0 (Salaried position, no tuition fees) |
+| Anesthesia specialty training (FANZCA) | 5 years | $20,000~$30,000 (Training and exam fees, partially covered by the hospital) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学本科学位 | 澳洲医学委员会认可的大学 | 必备 | 如MBBS或MD |
-| 澳洲医学委员会注册 | 澳大利亚医学委员会（AHPRA） | 必备 | 完成实习后取得一般注册 |
-| 麻醉专科院士（FANZCA） | 澳大利亚和新西兰麻醉师学院 | 必备 | 完成5年培训并通过考试 |
-| 技能评估 | 澳大利亚医学委员会（AMC） | 可选 | 海外医生需通过AMC评估 |
+| Bachelor's degree in medicine | Universities recognised by the Australian Medical Council | Required | Such as MBBS or MD. |
+| Registration with the Australian Medical Board | Australian Medical Council (AHPRA) | Required | Obtain general registration after completing internship |
+| Fellow of the Australian and New Zealand College of Anaesthetists (FANZCA) | Australian and New Zealand College of Anaesthetists | Required | Complete five years of training and pass exams. |
+| Skills assessment | Australian Medical Council (AMC) | Optional | Overseas doctors must pass AMC assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★½）。** 全国从业人数约 3,800。澳大利亚老龄化人口和医疗技术进步持续推动麻醉服务需求，就业前景强劲，尤其在偏远地区需求更大。
+**Job demand: very high (★★★★½).** National workforce approx. 3,800. Australia's aging population and advances in medical technology continue to drive demand for anaesthesia services, with strong employment prospects, especially in remote areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（住院医师） | $85,000~$120,000 | PGY1-2 受薪医生 |
-| 中级（注册培训医师） | $130,000~$200,000 | 专科培训期间 |
-| 高级（顾问麻醉师） | $300,000~$500,000 | 公共或私立医院，含加班及津贴 |
+| Median salary | $431,236 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior (resident physician) | $85,000~$120,000 | PGY1-2 salaried doctor |
+| Intermediate (Registered Training Physician) | $130,000~$200,000 | During specialist training |
+| Senior (consultant anaesthetist) | $300,000~$500,000 | Public or private hospitals, including overtime and allowances |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★½）。** 从住院医师培训开始，逐步晋升为顾问麻醉师，可专攻心脏、儿科或疼痛管理等亚专科，或进入学术/管理岗位。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI mainly plays a supporting role in monitoring and data analysis for anesthesiologists, but core operations and complex decisions still require human control, overall risk is moderate to low.
+
+Starting from residency training, you can progress to consultant anaesthetist, specialising in sub-specialties such as cardiac, paediatric or pain management, or move into academic/management roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and anomaly alerts for intraoperative vital signs (AI vision + sensor fusion)
+- Anesthesia dose adjustment in standardized, low-risk surgeries (based on pharmacokinetic models)
+- Basic postoperative analgesia plan formulation and automated pump management
+- Automatic generation and compliance check of anesthesia records and medical documents
+- Data collection and preliminary analysis for preoperative risk assessment (e.g., comorbidity models).
+
+**Where AI augments the role:**
+
+- AI-assisted personalized anesthesia planning (integrating genomics, pharmacology, and medical history)
+- Intraoperative decision support system (suggesting optimal drug combinations and dose adjustments)
+- Big data-driven complication prediction and prevention strategies
+- Virtual reality simulation training and surgical rehearsal (enhances complex case readiness)
+- Remote consultation and cross-team collaboration (AI real-time translation and information summarization)
+
+**Human moat:**
+
+- Improvisation and manual intervention in emergencies (e.g., airway management, circulation resuscitation)
+- High-risk communication and trust-building with surgical teams, patients, and families
+- Clinical decision-making based on interdisciplinary expert consensus (balancing, ethics, law)
+- Clinical translation and standard setting for new drugs/technologies
+- Personalized anesthesia management for patients with complex comorbidities (e.g., organ transplant, pediatric, elderly)
+
+**Skills to build:**
+
+- AI-assisted decision system operation and result interpretation (e.g., anesthesia depth monitoring AI)
+- Data science and statistics basics (for interpreting pharmacogenomic data).
+- Human-machine collaborative workflow design (e.g., automated recording + manual review)
+- Critical thinking and handling anomalies (dealing with AI false alarms or system failures)
+- Basic programming and automation scripts (custom AI/robot-assisted tools)
+- Use of telehealth and digital health tools (e.g., remote monitoring platforms)
+
+**Key growth areas:**
 
 - high demand
 - aging population
@@ -64,69 +100,68 @@ Anaesthetists are specialist doctors who administer anaesthesia, provide pain re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL职业，无需担保，直接申请永久居留。麻醉师在MLTSSL上。 |
-| Subclass 190（Skilled Nominated Visa） | 需州政府担保，可获得额外加分，各州均有需求。 |
-| Subclass 482（Skills in Demand Visa） | 临时技术短缺签证，担保工作后可转186永久居留。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久签证，要求职业在MLTSSL上，需通过职业评估。 |
+| Subclass 189 (Skilled Independent Visa) | Applicable for MLTSSL occupations, no sponsorship required, direct permanent residency application. Anaesthetist is on the MLTSSL. |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination; can receive extra points; all states have demand. |
+| Subclass 482 (Skills in Demand Visa) | Temporary Skill Shortage visa; after sponsored employment, can transition to 186 permanent residency. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires occupation on MLTSSL and a skills assessment. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Anaesthetist？**
-- 抗压能力强，能在紧张手术中保持冷静
-- 对生理学、药理学有浓厚兴趣且学习能力强
-- 愿意长期投入高强度培训（至少7年）
-
-**谁不适合学Anaesthetist？**
-- 不喜长时间站立和不规律作息
-- 无法承受重大责任和医疗纠纷风险
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong stress tolerance, able to stay calm under tension during surgery
+- Strong interest in physiology and pharmacology with strong learning ability
+- Willing to commit to long-term intensive training (at least 7 years)
+
+**Who is not suited**
+- Dislike of prolonged standing and irregular schedules
+- Unable to bear major responsibilities and medical dispute risks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an anesthesiologist in Australia?**
+A: Junior resident doctor annual salary approx. $85k-$120k, consultant anesthesiologist approx. $300k-$500k, higher in private practice.
+
+**Q: How can overseas anesthesiologists immigrate to Australia?**
+A: Requires skills assessment through AMC, AHPRA registration, then applying for 189/190/482 visas. Anaesthetist is on the MLTSSL, with a clear pathway.
+
+**Q: How long does it take to become an anaesthetist in Australia?**
+A: Typically takes 12-14 years: 4-6 years medical undergraduate, 2 years internship, 5 years anaesthesia specialty training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 极高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极好（★★★★½） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Anaesthetist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for anaesthetists in Australia?**
-答：Junior registrars earn around $85k-$120k, while consultant anaesthetists earn $300k-$500k, with potential for higher earnings in private practice.
-
-**问：How can overseas anaesthetists migrate to Australia?**
-答：You must pass AMC assessment, obtain AHPRA registration, then apply for 189/190/482 visas. Anaesthetist is on MLTSSL, providing clear pathways.
-
-**问：How long does it take to become an anaesthetist in Australia?**
-答：Typically 12-14 years: medical degree 4-6 years, internship/junior residency 2 years, anaesthesia specialty training 5 years.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

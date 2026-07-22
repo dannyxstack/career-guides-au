@@ -1,60 +1,93 @@
-# Marine Equipment Installer and Maintenance Technician（Marine Equipment Installer and Maintenance Technician）职业分析 · FR
+# Marine Equipment Installer and Maintenance Technician — career analysis · France
 
-**职业代码：I1601 – Marine Equipment Installer and Maintenance Technician。**
+**Occupation code: I1601 (ROME)**
 
-Install, diagnose, and maintain electrical, mechanical, and electronic systems on yachts and sailboats to ensure safety and performance.
+Responsible for installation, fault diagnosis, and daily maintenance of electromechanical equipment on yachts, sailing ships, and other vessels to ensure navigation safety and equipment lifespan.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Maintenance nautique | 2年 | —（公立学校学费低，可申请学徒制带薪学习） |
-| BTS Maintenance des véhicules (option marine) | 2年 | —（BTS为bac+2，可通过 alternance 完成） |
-| Licence professionnelle (génie nautique) | 1年（BTS后） | $3,000~$8,000（公立大学费用较低，部分私立学校较高） |
+| CAP Maintenance nautique | 2 years | $0~$1,500 (Public schools have low tuition fees and can apply for paid apprenticeship programs) |
+| BTS Maintenance des véhicules (option marine) | 2 years | $0~$2,000 (BTS is bac+2, which can be completed via alternance) |
+| Licence professionnelle (génie nautique) | 1 year (after BTS) | $3,000~$8,000 (Public universities have lower fees, while some private schools have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maintenance nautique | 法国教育部 | 必备 | 基础从业资格证书，必备入门文凭 |
-| Habilitations électriques (B2V, BR) | INRS / 认证培训机构 | 必备 | 电气操作安全认证，高风险作业必备 |
-| Certificat de formation à la sécurité (CFS) | 法国海事局 | 必备 | 海上安全培训证书，从事维修上船工作需持有 |
+| CAP Maintenance nautique | French Ministry of Education | Required | Basic professional qualification certificate, mandatory entry-level diploma |
+| Habilitations électriques (B2V, BR) | INRS / Certified Training Institution | Required | Electrical operation safety certification, essential for high-risk work |
+| Certificat de formation à la sécurité (CFS) | French Maritime Authority | Required | Maritime safety training certificate, required for ship maintenance work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国拥有漫长的海岸线和发达的游艇产业，尤其是地中海沿岸和大西洋沿岸。随着休闲航海和电动船舶的兴起，该职业需求稳定，但受季节性和经济波动影响。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France boasts a long coastline and a developed yachting industry, especially along the Mediterranean and Atlantic coasts. With the rise of recreational sailing and electric boats, demand for this profession remains stable but is affected by seasonal and economic fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金，通常为CDI合同 |
-| 中级（3-7年） | $30,000~$38,000 | 具备独立诊断与维修能力 |
-| 高级（7年以上） | $38,000~$48,000 | 可担任团队主管或技术专家 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, including bonuses, usually under CDI contracts |
+| Mid-level (3–7 years) | $30,000~$38,000 | Possess independent diagnostic and maintenance capabilities |
+| Senior (7+ years) | $38,000~$48,000 | Can serve as a team leader or technical expert |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒或CAP起步，逐步晋升为高级技师、团队主管，或专攻电动/混合动力推进系统、船舶自动化等细分领域，也可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Ship equipment installation and maintenance technicians will benefit from AI-assisted diagnosis and predictive maintenance for electromechanical fault diagnosis and routine maintenance, but limited operating space, regulatory requirements, and non-standard operations provide some protection. Entry-level positions have narrowed due to digital twins and remote support tools, but overall skill requirements have increased.
+
+You can start as an apprentice or CAP, gradually advance to senior technician, team leader, specialize in electric/hybrid propulsion systems, ship automation, and other specialized fields, or start your own business.
+
+**Tasks most exposed to AI:**
+
+- Manual inspection and recording of health monitoring data for routine electromechanical equipment
+- Experience-based equipment troubleshooting process (AI diagnostic system can automatically recommend solutions)
+- Manual inventory counting and ordering of spare parts inventory (replacing automated inventory management)
+- Writing and updating standard installation documentation (AI-generated automatically)
+
+**Where AI augments the role:**
+
+- Using augmented reality (AR) to assist complex electrical wiring installation
+- Optimize equipment maintenance plans with AI predictive maintenance algorithms
+- Quickly validate installation plans through digital twin simulation
+- Use AI translation tools to access multilingual technical manuals
+
+**Human moat:**
+
+- Creative fault diagnosis for non-standard ship systems
+- On-site decision-making in high-risk environments (such as offshore and confined cabins).
+- Customer communication and customized service plan design
+- Hands-on experience with new composite materials and hybrid systems
+- Safety compliance and human liability for maritime regulations
+
+**Skills to build:**
+
+- AI-assisted tools for diagnosing electrical/hydraulic/refrigeration systems (such as Fluke Connect)
+- Learn programming and calibration of marine electronic devices (GPS, radar, AIS).
+- Proficient in using 3D modeling software (Rhino, SolidWorks) to assist in installation design
+- Obtained low-voltage electrician/maritime electrical certification
+- Enhance English technical document reading and AI post-translation proofreading capabilities
+
+**Key growth areas:**
 
 - sustainable yachting
 - electric propulsion
@@ -63,68 +96,67 @@ Install, diagnose, and maintain electrical, mechanical, and electronic systems o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 获得法国雇主工作合同后，可申请受雇工作居留，需满足薪资与资质要求 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 高技能人才签证，适用于年薪≥1.5倍SMIC的紧缺职业岗位 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪≥53,836.50€（2025标准），通常需本科以上学历 |
+| Subclass Salarié (Salarié (Employee)) | After obtaining a work contract from a French employer, you can apply for employment-based residence, provided you meet salary and qualification requirements |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | High‑skilled talent visa for shortage occupations with salary ≥1.5 times SMIC. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires annual salary ≥€53,836.50 (2025 standard), usually a bachelor's degree or higher. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine Equipment Installer and Maintenance Technician？**
-- 喜欢动手操作、热爱海洋与船舶技术的人
-- 愿意接受户外、多变工作环境（船厂、码头、海上）
-- 具备机械、电气双重兴趣，愿意终身学习新技术
-
-**谁不适合学Marine Equipment Installer and Maintenance Technician？**
-- 偏好稳定室内办公、规律作息者
-- 对海洋环境不适应、晕船或恐水者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and are passionate about ocean and ship technology
+- Willingness to embrace outdoor and diverse work environments (shipyards, docks, offshore environments)
+- Interested in both mechanical and electrical engineering, willing to learn new technologies for life
+
+**Who is not suited**
+- Those who prefer stable indoor work and regular schedules
+- Those who are not adapted to the marine environment, seasick, or have a fear of water
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for ship maintenance technicians?**
+A: French ship maintenance technicians earn about 24k-30k euros annually, intermediate 30k-38k euros, and senior salaries can exceed 48k euros. Overtime during peak seasons can increase income.
+
+**Q: Can foreigners immigrate to France through this occupation?**
+A: Yes. This occupation is in demand, can apply for Salarié or Passeport Talent visa, but requires employer sponsorship and French proficiency (usually B1 or above).
+
+**Q: What mandatory certificates are required?**
+A: You must hold a CAP Maintenance nautique or related diploma, an electrical safety certificate (Habilitation électrique), and a Certificate of Maritime Safety Training (CFS).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marine Equipment Installer and Maintenance Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for marine maintenance technicians?**
-答：In France, junior technicians earn €24k-€30k, mid-level €30k-€38k, and senior up to €48k+ (gross annual). Overtime during peak season can increase income.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Yes, it's a shortage occupation. You can apply for Salarié or Passeport Talent visa with employer sponsorship, usually requiring French B1 level.
-
-**问：What mandatory certifications are required?**
-答：You need a CAP in marine maintenance, electrical safety certification (Habilitation électrique), and maritime safety training (CFS).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

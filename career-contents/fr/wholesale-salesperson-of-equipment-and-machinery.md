@@ -1,58 +1,94 @@
-# Wholesale Salesperson of Equipment and Machinery（Wholesale Salesperson of Equipment and Machinery）职业分析 · FR
+# Wholesale Salesperson of Equipment and Machinery — career analysis · France
 
-**职业代码：D1213 – Wholesale Salesperson of Equipment and Machinery。**
+**Occupation code: D1213 (ROME)**
 
-Responsible for selling industrial equipment, machinery, and spare parts to business clients, including customer development, price negotiation, order follow-up, and after-sales service. Requires product technical knowledge and B2B sales skills.
+Responsible for selling industrial equipment, machinery, and spare parts to corporate clients, including customer development, quotation negotiation, order follow-up, and after-sales service. Must master product technical knowledge and B2B sales techniques.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业后2年 | 2年（BTS） | $3,000~$8,000（公立学校学费低，私校较高，可学徒制免学费） |
-| 本科 | 3年（Licence） | $3,000~$10,000（公立大学学费约3000€/年，商学院更高） |
+| Two years after graduating from high school | 2 Years (BTS) | $3,000~$8,000 (Public schools have lower tuition fees, while private schools offer higher tuition, and apprenticeships can be waived) |
+| Bachelor's degree | 3 years (Licence) | $3,000~$10,000 (Tuition at public universities is about €3,000 per year, and business schools offer even higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售技能认证 | CCI France | 可选 | 非强制，但有助于求职 |
-| 驾照B类 | Préfecture | 可选 | 部分职位需拜访客户，要求驾照 |
+| Sales skills certification | CCI France | Optional | Not mandatory, but helpful for job hunting |
+| Category B driver's license | Préfecture | Optional | Some positions require visiting clients and requesting a driver's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国工业设备批发行业稳定，受制造业和建筑业需求驱动。数字化和绿色转型带来新型设备销售机会，但竞争激烈，需持续学习产品知识。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's industrial equipment wholesale sector is stable, driven by demand from manufacturing and construction sectors. Digital and green transformation bring new equipment sales opportunities, but competition is fierce and continuous learning of product knowledge is required.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，不含奖金 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含提成 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，含提成与奖金 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, including commission |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, including commission and bonuses |
+| average salary | $26,184 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★★☆☆）。** 可从初级销售顾问晋升至大客户经理或区域销售经理，部分转向采购或产品管理。积累客户资源后可自主创业或转行至相关技术销售领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
+
+Employees can advance from junior sales consultants to key account managers or regional sales managers, with some shifting to procurement or product management. After accumulating customer resources, they can start their own businesses or switch to related technical sales fields.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate customer quotes and product specifications
+- Use CRM automation for customer information collection and initial screening
+- Automatically generate sales reports and performance analysis.
+- Basic customer email responses and FAQ replies
+- Automated query for product inventory and pricing data
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of customer historical data to predict purchase intent and optimal contact timing
+- Intelligent recommendation of personalized product combinations and cross-selling opportunities
+- Provides real-time negotiation advice and script optimization via natural language processing
+- Automatically record and analyze meeting content, extracting key action items
+- Using virtual presentation tools to improve remote product demonstrations
+
+**Human moat:**
+
+- Complex negotiations and relationship management for building long-term trust
+- Creative solutions for handling customer complaints and exceptional situations
+- Cross-departmental coordination and integration of customised solutions
+- In-depth industry knowledge and professional judgment
+- Emotional resonance and real-time response to unexpressed customer needs.
+
+**Skills to build:**
+
+- CRM and sales automation tool operation (e.g., Salesforce, HubSpot)
+- Data analysis and visualization (Tableau, Power BI, SQL)
+- Use of AI-assisted sales tools (e.g., Conversica, Gong)
+- Digital communication and virtual presentation skills
+- Basic programming logic (to understand AI output).
+- Industry-specific technical knowledge (e.g., materials science, supply chain)
+
+**Key growth areas:**
 
 - B2B Sales
 - Industrial Equipment
@@ -61,67 +97,66 @@ Responsible for selling industrial equipment, machinery, and spare parts to busi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由法国雇主担保，需证明职位无法由欧盟公民填补，适合有雇主合同者。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如年薪超过约42,000€，可获4年居留。 |
+| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, it must be proven that the position cannot be filled by an EU citizen, suitable for those with an employer contract. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as annual salaries exceeding approximately €42,000, eligible for 4-year residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wholesale Salesperson of Equipment and Machinery？**
-- 善于沟通、有说服力的人
-- 对工业机械技术感兴趣的人
-- 能承受业绩压力的人
-
-**谁不适合学Wholesale Salesperson of Equipment and Machinery？**
-- 不喜出差或拜访客户的人
-- 缺乏耐心进行长期客户跟进的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good communicator, persuasive
+- People interested in industrial machinery technology
+- People who can withstand performance pressure
+
+**Who is not suited**
+- People who dislike business trips or visiting clients
+- People who lack patience for long-term customer follow-ups
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for wholesale salespeople?**
+A: Usually consists of a fixed base salary (about €28-45k) + sales commission, with senior sales earnings exceeding €60k.
+
+**Q: How can a foreigner obtain a work visa for this position?**
+A: You must obtain a French employer employment contract and apply for Salarié or Passeport Talent. If the annual salary exceeds €42k, Passeport Talent is more advantageous.
+
+**Q: What are the future prospects for this profession?**
+A: You can be promoted to regional manager, shift into procurement or product management, or start a business and establish a sales agency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wholesale Salesperson of Equipment and Machinery的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for wholesale salespersons?**
-答：Typically a base salary (approx. 28-45k€) plus sales commission; senior sales can exceed 60k€.
-
-**问：How can foreigners obtain a work visa for this position?**
-答：Must obtain a job offer from a French employer, then apply for Salarié or Passeport Talent. If salary exceeds €42k, Talent Passport is preferable.
-
-**问：What are the career prospects for this occupation?**
-答：Can advance to regional manager or move to purchasing, product management, or start own sales agency.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

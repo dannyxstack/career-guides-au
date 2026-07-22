@@ -1,60 +1,94 @@
-# Mineral and Stone Processing Plant Operators（Mineral and Stone Processing Plant Operators）职业分析 · IT
+# Mineral and Stone Processing Plant Operators — career analysis · Italy
 
-**职业代码：8112 – Mineral and Stone Processing Plant Operators。**
+**Occupation code: 8112 (ISCO08)**
 
-Operate mineral and stone processing machinery such as crushers, grinders, and screens to process ores or stone into industrial materials or finished products.
+Operate mineral and stone processing equipment such as crushers, mills, and screens to process ore or stone into industrial raw materials or finished products.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育证书 | 2年（职业培训学校） | $500~$2,000（公立学校免费或低学费，私立培训数百至2000欧元） |
-| 高中（技术方向） | 5年（高中文凭） | —（公立高中免费，仅少量注册费） |
+| Vocational education certificate | 2 years (vocational training school) | $500~$2,000 (Public schools are free or low-tuition; private training costs hundreds to 2000 euros.) |
+| High school (technical stream) | 5 years (high school diploma) | $0~$1,000 (Public high schools are free, with only a small registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证（操作特定设备） | 各地区职业培训中心 | 可选 | 非强制，但雇主优先考虑持证者 |
-| 安全培训证书 | 意大利劳动与社会政策部认可机构 | 必备 | 工作场所必备的安全培训 |
+| Safety training certificate | Institutions recognized by the Italian Ministry of Labor and Social Policies | Required | Essential safety training for the workplace |
+| Professional qualification (operating specific equipment) | Regional vocational training centers | Optional | Not mandatory, but employers prefer certified candidates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。意大利建筑与矿业需求稳定，但自动化升级可能减少低端岗位。北部工业区就业机会较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand in Italy's construction and mining sectors is stable, but automation upgrades may reduce low-end jobs. More employment opportunities in the northern industrial areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，北部略高 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含加班 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，班长或技术专家 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, slightly higher in the north. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, including overtime |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, team leader or technical expert |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作员可晋升为高级操作员或班长，学习自动化技术后可转向设备维护或生产管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation's operational tasks are highly repetitive and prone to automation; however, AI enhances monitoring, maintenance, and process optimization, improving efficiency. Competition for entry-level positions intensifies, requiring new skills.
+
+Junior operators can advance to senior operators or team leaders; with automation skills, they can move to equipment maintenance or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Monitor the operating status of crushers and grinders
+- Adjust screen machine parameters to control particle size
+- Record production data and generate reports
+- Perform simple equipment start/stop operations
+
+**Where AI augments the role:**
+
+- AI predicts equipment failures, guiding preventive maintenance
+- Optimize crushing parameters to reduce energy consumption and increase yield
+- Intelligent vision system assists in ore sorting and quality inspection
+- Remotely monitor multiple devices to improve inspection efficiency
+- Digital twin simulation to optimize process workflows
+
+**Human moat:**
+
+- Adaptability to working in high dust and high noise environments
+- Hands-on ability to handle unexpected breakdowns and mechanical jams
+- Experience-based judgment of ore and stone properties (e.g., hardness, moisture).
+- On-site safety emergency response and team coordination
+
+**Skills to build:**
+
+- Basic PLC and HMI Operation
+- Industrial IoT and sensor data interpretation
+- Fault diagnosis and maintenance of automation equipment
+- Digital twin or simulation software applications
+- Data processing and analysis tools (e.g., Excel, low-code platforms)
+- Remote monitoring system operation
+
+**Key growth areas:**
 
 - Construction
 - Infrastructure
@@ -63,62 +97,64 @@ Operate mineral and stone processing machinery such as crushers, grinders, and s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，每年配额有限，适合低技能职业 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪需高于门槛（约2.5万欧元），但本职业通常不达标准 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, requires employer sponsorship, limited annual quota, suitable for low-skilled occupations |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, salary must exceed threshold (approx. €25,000), but this occupation typically does not meet the standard. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mineral and Stone Processing Plant Operators？**
-- 喜欢动手操作机械设备
-- 能适应噪音和粉尘环境
-- 愿意在偏远地区工作
+**Who is suited**
+- Enjoys hands-on operation of mechanical equipment
+- Able to tolerate noise and dust environments.
+- Willing to work in remote areas.
 
-**谁不适合学Mineral and Stone Processing Plant Operators？**
-- 对粉尘或噪音敏感
-- 寻求高薪或快速晋升
+**Who is not suited**
+- Sensitive to dust or noise
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in Italy?**
+A: Entry-level annual salary approximately 22,000-28,000 euros, mid-level 28,000-35,000 euros, senior 35,000-45,000 euros. Higher salaries in northern industrial areas.
+
+**Q: How can a foreigner obtain a work visa for this occupation?**
+A: Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship, with limited annual quotas and intense competition. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mineral and Stone Processing Plant Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Italy?**
-答：Entry-level salary: €22,000-28,000, mid-level: €28,000-35,000, senior: €35,000-45,000 per year. Higher in northern industrial areas.
-
-**问：How can foreigners obtain a work visa for this occupation?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship with limited annual quotas. EU citizens can move freely.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

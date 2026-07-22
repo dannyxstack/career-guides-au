@@ -1,59 +1,92 @@
-# Disc Jockeys, Except Radio（Disc Jockeys, Except Radio）职业分析 · 美国
+# Disc Jockeys, Except Radio — career analysis · United States
 
-**职业代码：27-2091 – Disc Jockeys, Except Radio。**
+**Occupation code: 27-2091 (SOC)**
 
-Play prerecorded music for live audiences at clubs, parties, or wedding receptions, using mixing, cutting, or sampling techniques; may also serve as emcee.
+Play pre-recorded music at clubs, parties, or weddings, using mixing, cutting, and sampling techniques, sometimes also serving as MC.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 不适用 | —（无正式学历要求） |
-| 职业培训/短期课程 | 6个月至1年 | $2,000~$10,000（DJ学校或在线课程） |
+| High school graduation | Not applicable | $0~$0 (No formal education requirements) |
+| Vocational training/short-term courses | 6 months to 1 year | $2,000~$10,000 (DJ school or online courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无需强制证书 | 无 | 可选 | 雇主更看重经验和作品集 |
+| No mandatory certificate required | None | Optional | Employers value experience and portfolio more |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,500。美国就业增长稳定，受现场娱乐和活动产业需求驱动。疫情后复苏强劲，但竞争激烈，顶尖人才收入高。
+**Job demand: medium (★★★☆☆).** National workforce approx. 28,500. US employment growth is stable, driven by demand from the live entertainment and events industry. The post-pandemic recovery is strong, but competition is fierce, with top talent earning high incomes.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（夜间/周末）（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$45,000 | 兼职或小型活动 |
-| 中级（3-7年） | $45,000~$80,000 | 常驻俱乐部或中型活动 |
-| 高级（7年以上） | $80,000~$150,000 | 知名DJ或大型巡演 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$45,000 | Part-time or small events |
+| Mid-level (3–7 years) | $45,000~$80,000 | Permanent at clubs or medium-sized events |
+| Senior (7+ years) | $80,000~$150,000 | Famous DJs or major tours |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级DJ可通过积累人气、建立个人品牌晋升为知名DJ或音乐制作人；部分转向活动策划或娱乐管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will reshape DJ work; auto-mixing and music recommendation tools will compress traditional entry-level jobs, but human traits like live interaction, creative programming, and brand building will be amplified, creating new opportunities in high-end experience design.
+
+From entry-level DJ, can advance to well-known DJ or music producer by building popularity and personal brand; some transition to event planning or entertainment management.
+
+**Tasks most exposed to AI:**
+
+- Auto mixing and beat matching: AI tools can seamlessly mix, replacing manual beat alignment and pitch adjustment.
+- Music recommendations and playlist generation: algorithms automatically generate playlists based on context and listener preferences, replacing DJ song selection.
+- Basic audio processing: AI plugins can automatically apply effects like EQ and compression, simplifying traditional mixing console operations.
+- Scene mood identification: AI adjusts music parameters in real-time based on sensors and music analysis to match crowd emotions.
+
+**Where AI augments the role:**
+
+- Creative mixing and sample arrangement: AI provides a wide range of sounds and sample options, allowing DJs to quickly experiment and personalize creations.
+- Real-time interactive response: AI analyzes dance floor energy to assist DJs in adjusting music style and tempo, enhancing live control.
+- Brand and personal promotion: AI tools help analyze audiences, generate marketing content, and amplify the DJ's personal IP.
+- Multi-platform content production: AI-assisted mixing, recording, and live streaming to expand audience reach.
+
+**Human moat:**
+
+- Impromptu live interaction and reading audience energy
+- Personal music taste, narrative, and style creation
+- Brand building and fan community management
+- Cross-modal art fusion (e.g., lighting, visual, performance)
+- Ethical and cultural sensitivity, such as respect for music copyright
+
+**Skills to build:**
+
+- Proficiency in professional software like Ableton Live and Serato DJ Pro combined with AI plugins
+- Learn basic programming (e.g., Python) to automate workflows and create tools
+- Improve improvisation and party control skills
+- Proficient in social media marketing and data analysis tools.
+- Learn the basics of audio engineering and sound design
+- Develop cross-disciplinary collaboration skills (e.g., with VJs, event planners)
+
+**Key growth areas:**
 
 - Live Event Industry
 - Music Production
@@ -62,62 +95,64 @@ Play prerecorded music for live audiences at clubs, parties, or wedding receptio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（Extraordinary Ability Visa） | 适用于在音乐领域有杰出成就的国际知名DJ |
-| Subclass H-1B（Specialty Occupation Visa） | 极少见，需符合专业职业要求且通常不适用 |
+| Subclass O-1 (Extraordinary Ability Visa) | Applicable to internationally renowned DJs with outstanding musical achievements |
+| Subclass H-1B (Specialty Occupation Visa) | Very rare, must meet professional occupation requirements and is usually not applicable |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Disc Jockeys, Except Radio？**
-- 热爱音乐和现场表演
-- 善于社交和活跃气氛
-- 具备创意和混音技术
+**Who is suited**
+- Passionate about music and live performance
+- People who are sociable and good at creating a lively atmosphere
+- With creativity and mixing techniques
 
-**谁不适合学Disc Jockeys, Except Radio？**
-- 不接受不规律工作时间
-- 不擅长自我营销
+**Who is not suited**
+- Cannot accept irregular working hours
+- Not good at self-marketing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a DJ?**
+A: Entry level around $25,000-45,000, mid-level $45,000-80,000, senior up to $150,000+.
+
+**Q: How can foreign DJs work in the US?**
+A: Usually requires O-1 visa for extraordinary ability, needing evidence of international recognition and achievements. H-1B is very rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（夜间/周末）（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Disc Jockeys, Except Radio属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for DJs?**
-答：Entry-level: $25k-$45k; mid-level: $45k-$80k; top-level: $80k-$150k+.
-
-**问：How can foreign DJs work in the US?**
-答：Usually through O-1 visa for extraordinary ability; H-1B is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

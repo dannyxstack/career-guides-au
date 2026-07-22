@@ -1,61 +1,95 @@
-# Social Work and Education Professionals（Social Work and Education Professionals）职业分析 · ES
+# Social Work and Education Professionals — career analysis · Spain
 
-**职业代码：2824 – Social Work and Education Professionals。**
+**Occupation code: 2824 (CNO)**
 
-Professionals providing social assistance, educational support, and community development in community settings, schools, and social service agencies.
+Social workers and educators provide social assistance, educational support, and community development services in communities, schools, and social service institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado en Trabajo Social） | $1,000~$2,500（公立大学年学费） |
-| 硕士（Máster） | 1-2年（Máster en Intervención Social） | $1,500~$4,000（公立大学年学费） |
-| 高级职业培训（FP Grado Superior） | 2年（Técnico Superior en Integración Social） | $500~$1,500（公立FP中心年学费） |
+| Undergraduate (Grado) | 4 years (Grado en Trabajo Social) | $1,000~$2,500 (Annual tuition at public universities) |
+| Máster | 1-2 years (Máster en Intervención Social) | $1,500~$4,000 (Annual tuition at public universities) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (Técnico Superior en Integración Social) | $500~$1,500 (Annual tuition fees for public FP centers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作学位（Grado en Trabajo Social） | 西班牙大学 | 必备 | 从事社会工作者需持有该学位 |
-| 社会教育学位（Grado en Educación Social） | 西班牙大学 | 必备 | 从事社会教育工作者需持有该学位 |
-| 专业资格认证（Colegio Profesional） | 各自治区专业协会 | 可选 | 注册为专业社工或教育者需加入相应 colegio |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学历需认证方可执业 |
+| Social Work Degree (Grado en Trabajo Social) | Spanish University | Required | Social workers must hold this degree |
+| Social Education Degree (Grado en Educación Social) | Spanish University | Required | Social education workers must hold this degree |
+| Professional Certification (Colegio Profesional) | Professional associations of all autonomous regions | Optional | Registered as a professional social worker or educator must join the corresponding colegio |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country diplomas must be certified before practicing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙社会服务需求增长，老龄化与移民融合推动岗位需求；公共部门招聘稳定，但地区差异大。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Growing demand for social services in Spain, with aging and immigration merging driving job demand; Public sector recruitment is stable, but there are significant regional differences.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 公共部门起薪约€22,000 |
-| 中级（4-7年） | $26,000~$32,000 | 有经验者年薪约€28,000-€32,000 |
-| 高级（8年以上） | $32,000~$40,000 | 管理职位可达€40,000 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | The starting salary in the public sector is about €22,000 |
+| Mid-level (4-7 years) | $26,000~$32,000 | Experienced individuals earn an annual salary of about €28,000–€32,000 |
+| Senior (8+ years) | $32,000~$40,000 | Management positions can earn up to €40,000 |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从一线社工晋升为团队主管、项目协调员或社会服务主任；需持续培训提升专业能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate administrative paperwork and data analysis tasks, but core social work and educational interactions rely on interpersonal trust and emotional support, resulting in a mixed overall situation for positions.
+
+Frontline social workers can be promoted to team leader, project coordinator, or social services director; Continuous training is needed to enhance professional capabilities.
+
+**Tasks most exposed to AI:**
+
+- Case recording and data entry
+- Preliminary requirements screening and standardized inquiry responses
+- Basic arrangement and distribution of educational materials
+- Community information organization and basic report generation
+
+**Where AI augments the role:**
+
+- Personalized education programs and intervention plans are developed
+- Social risk forecasting and resource matching
+- Multilingual instant communication and cross-cultural support
+- Tracking and dynamic adjustment of educational effectiveness
+
+**Human moat:**
+
+- Deep communication skills to build trust
+- Ethical judgment in complex social contexts
+- Emotional support for children, vulnerable groups, and others
+- Cross-agency coordination and resource integration
+- Flexible response to crisis interventions
+
+**Skills to build:**
+
+- Data analysis and visualization
+- Use of AI-assisted tools (such as ChatGPT).
+- Online education platforms and remote coaching skills
+- Cultural sensitivity and inclusive practices
+- Project management and cross-team collaboration
+- Fundamentals of mental health and crisis intervention
+
+**Key growth areas:**
 
 - Social Work
 - Community Development
@@ -64,68 +98,67 @@ Professionals providing social assistance, educational support, and community de
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需获得西班牙雇主工作合同，并通过劳动力市场测试（如适用）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高学历或高技术人才，年薪需达到门槛（约€33,908）。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能非欧盟公民，需持有大学学位或5年经验，合同年薪不低于€33,908（2023年标准）。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Must obtain a Spanish employer employment contract and pass a labor market test (if applicable). |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly educated or highly skilled talents, with an annual salary meeting the threshold (approximately €33,908). |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled non-EU citizens, a university degree or 5 years of experience is required, with a contract annual salary of no less than €33,908 (2023 standard). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Work and Education Professionals？**
-- 热爱与人沟通，具备同理心和耐心
-- 有志于社会公益、社区发展或教育支持工作
-- 适应多团队协作和跨部门工作
-
-**谁不适合学Social Work and Education Professionals？**
-- 不善于处理情感压力和冲突
-- 偏好快节奏、高收入行业者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves communicating with others, possesses empathy and patience
+- Committed to social welfare, community development, or educational support work
+- Adapt to multi-team collaboration and cross-departmental work
+
+**Who is not suited**
+- Poor at handling emotional stress and conflict
+- Those who prefer fast-paced, high-income industries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social workers in Spain?**
+A: Junior social workers earn about €20,000–€26,000 annually, with experienced individuals earning up to €32,000, and management positions about €40,000. Public sector wages are stable but grow slowly.
+
+**Q: How can non-EU citizens immigrate to Spain as social workers?**
+A: A Spanish employer contract is required, which can be obtained through the Ordinary Work Residence (Cuenta ajena) or the High-Skilled Talent Visa (Altamente cualificado/EU Blue Card). Academic qualifications must be certified (Homologación), and the language must be at least B2 Spanish.
+
+**Q: What educational background is needed for this occupation?**
+A: A bachelor's degree in social work or social education (Grado) is usually required. You can also enter through Advanced Vocational Training (FP Grado Superior), but promotion may be restricted. Some positions prefer master's degrees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Social Work and Education Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social workers in Spain?**
-答：Entry-level social workers earn about €20,000-€26,000 per year, experienced workers up to €32,000, and management positions around €40,000. Public sector salaries are stable but slow-growing.
-
-**问：How can non-EU citizens immigrate to Spain as social workers?**
-答：They need a job offer from a Spanish employer and can apply for a standard work permit (Cuenta ajena) or a highly skilled visa (Altamente cualificado/EU Blue Card). Academic credentials must be homologated, and Spanish proficiency at B2 level is required.
-
-**问：What educational background is required for this profession?**
-答：A bachelor's degree (Grado) in social work or social education is typically required. A higher vocational training (FP Grado Superior) may allow entry but limit advancement. Some roles prefer a master's degree.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

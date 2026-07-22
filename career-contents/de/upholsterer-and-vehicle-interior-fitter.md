@@ -1,59 +1,94 @@
-# Upholsterer and Vehicle Interior Fitter（Upholsterer and Vehicle Interior Fitter）职业分析 · DE
+# Upholsterer and Vehicle Interior Fitter — career analysis · Germany
 
-**职业代码：2824 – Upholsterer and Vehicle Interior Fitter。**
+**Occupation code: 2824 (KldB)**
 
-Specializes in upholstering furniture and fitting vehicle interiors, including cutting, sewing, padding, and installing trim materials.
+Responsible for soft furnishing production and installation of furniture, vehicles, and ships' interiors, including cutting, sewing, padding, and finishing material assembly.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育 | 3年 | —（企业培训期间有津贴） |
+| Dual vocational education and training | 3 years | $0~$500 (Allowance during corporate training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 软包工职业资格证书（Gesellenbrief） | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 完成双元制培训后获得 |
-| 资质认证（Anerkennung） | 德国主管机构 | 必备 | 海外学历需认证为等同德国职业资格 |
+| Vocational qualification certificate (Gesellenbrief) for soft packers | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Obtained after completing dual system training |
+| Qualification recognition (Anerkennung) | German regulatory authority | Required | Overseas qualifications need to be recognized as equivalent to German vocational qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。德国手工业持续面临技工短缺，尤其定制软包与高端车辆内饰领域需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The German skilled trades sector continues to face shortages, with steady demand especially in custom upholstery and high-end vehicle interiors.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，按35小时/周计算 |
-| 中级（3-7年） | $30,000~$38,000 | 含熟练工和部分师傅工资 |
-| 高级（7年以上/师傅） | $38,000~$48,000 | 师傅级或自雇收入可能更高 |
+| Median salary | $35,160 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, based on 35 hours per week |
+| Mid-level (3–7 years) | $30,000~$38,000 | Including wages for skilled workers and some supervisors |
+| Advanced (7+ years / Master) | $38,000~$48,000 | Master-level or self-employed income may be higher. |
+| average salary | $40,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为工头或自营工匠，也可进修成为内饰技术员或设计顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Furniture finishers face a medium-low automation risk, but AI-driven design tools and automated cutting equipment will compress entry-level positions while enhancing high-skilled work.
+
+Can advance to foreman or become a self-employed tradesperson, or further study to become an interior technician or design consultant.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to generate patterns; AI can automatically optimize fabric layout to reduce waste
+- Automatic cutting machines cut fabric precisely based on digital patterns, replacing manual cutting
+- AI-assisted color and texture matching system, replacing manual sample comparison.
+- Inventory management: AI automatically tracks consumables and replenishes stock
+- Basic sewing tasks: robotic arm can perform straight-line stitching.
+
+**Where AI augments the role:**
+
+- AI design tools assist in quickly generating customized decoration plans, improving customer communication efficiency
+- 3D scanning and visualization tools help precisely measure furniture surfaces, improving upholstery fit
+- Augmented reality (AR) previews let clients see the final result before production, reducing rework
+- AI quality inspection system identifies sewing defects in real time, improving product consistency.
+
+**Human moat:**
+
+- Manual binding and shaping skills for complex curved and irregular furniture
+- Artistry of traditional hand embroidery and fine finishing
+- Keen judgment of customer preferences and style trends
+- Expertise in handling special materials (e.g., antique fabrics, leather)
+- Experience in flexible adjustment of furniture structures during on-site installation.
+
+**Skills to build:**
+
+- Use 3D modeling and design software like SketchUp and Rhino
+- Operate CNC equipment such as automatic cutters and computer sewing machines
+- Learn AI-driven textile visualization tools (e.g., VStitcher)
+- Master AR/VR customer presentation technology
+- Specializes in luxury finishes for yachts, private jets, high-end residences, etc.
+- Continuously learning about new eco-friendly and smart textile properties
+
+**Key growth areas:**
 
 - Customization
 - Luxury vehicles
@@ -62,69 +97,68 @@ Specializes in upholstering furniture and fitting vehicle interiors, including c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act – Employment Visa） | 适用于获得德国认可职业资格的第三国技工，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的找工作签证，允许来德国找雇主。 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月找工作签证，需有相关资质和德语能力。 |
+| Subclass Skilled Worker (Skilled Immigration Act – Employment Visa) | Applicable to third-country skilled workers with recognized German professional qualifications, requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, allowing entry to Germany to find an employer. |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires relevant qualifications and German language ability. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Upholsterer and Vehicle Interior Fitter？**
-- 喜欢手工制作和精细操作的人
-- 对汽车或家具内饰有浓厚兴趣
-- 愿意接受学徒培训并长期在德国工作
-
-**谁不适合学Upholsterer and Vehicle Interior Fitter？**
-- 对重复性手工工作缺乏耐心
-- 不打算学习德语至B1或更高水平
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual crafting and fine operations
+- Strong interest in automotive or furniture interiors
+- Willing to undergo apprenticeship training and work long-term in Germany
+
+**Who is not suited**
+- Lack of patience for repetitive manual work
+- Do not plan to learn German to B1 or higher level
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a soft trimmer in Germany?**
+A: Entry level approx. €24,000-30,000, senior master can reach €48,000 gross annual salary.
+
+**Q: How can Chinese upholsterers immigrate to Germany?**
+A: Must first pass qualification recognition (Anerkennung) to confirm academic equivalence to German vocational qualifications, then apply for a skilled migration visa or opportunity card.
+
+**Q: How long does soft trim training take?**
+A: Dual vocational training in Germany typically lasts 3 years, includes a stipend, and leads to a vocational qualification upon completion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Upholsterer and Vehicle Interior Fitter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for upholsterers in Germany?**
-答：Entry-level around €24,000-30,000; senior masters up to €48,000 gross per year.
-
-**问：How can a Chinese upholsterer immigrate to Germany?**
-答：First obtain recognition of qualifications (Anerkennung), then apply for a skilled worker visa or Opportunity Card.
-
-**问：How long is the training for upholsterers?**
-答：The German dual training typically lasts 3 years with a stipend, leading to a vocational certificate.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

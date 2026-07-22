@@ -1,61 +1,95 @@
-# Veterinarian for Pets and Companion Animals（Veterinarian for Pets and Companion Animals）职业分析 · DE
+# Veterinarian for Pets and Companion Animals — career analysis · Germany
 
-**职业代码：8152 – Veterinarian for Pets and Companion Animals。**
+**Occupation code: 8152 (KldB)**
 
-Diagnoses and treats diseases in domestic pets like cats and dogs, performs vaccinations, surgeries, and health checks, and advises owners on care.
+Responsible for diagnosing and treating diseases in domestic and companion animals such as cats and dogs, performing vaccinations, surgeries, and health checks, and providing care advice to pet owners.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 兽医学大学学位 | 5-6年（大学） | —（公立大学每学期杂费约300欧元） |
-| 国家考试 & 执业许可 | 1年（实习+考试） | —（考试费及材料费） |
+| Veterinary medicine university degree | 5-6 years (university) | $0~$1,500 (Public universities charge around €300 per semester in incidental fees) |
+| National Examination & Practising License | 1 year (internship + exam) | $0~$500 (Exam and material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医学硕士 (Staatsexamen) | 德国大学 | 必备 | 通过国家考试 |
-| 执业许可 (Approbation) | 各州兽医协会 | 必备 | 需完成实习并通过考试 |
-| 专业兽医资质认证 | 德国兽医协会 (BTK) | 可选 | 可选，提升专业地位 |
+| Master of Veterinary Medicine (Staatsexamen) | German university | Required | Pass national exam |
+| Practicing license (Approbation) | State veterinary associations | Required | Must complete internship and pass exam |
+| Professional veterinary qualification certification | German Veterinary Association (BTK) | Optional | Optional, to enhance professional standing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 20,400。德国宠物数量持续增长，兽医需求稳定，尤其在农村地区存在短缺。联邦劳工局列为紧缺职业，就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 20,400. Germany's pet population continues to grow, with stable demand for veterinarians, especially in rural areas. The Federal Employment Agency lists it as a shortage occupation with good job prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公立机构或诊所助理 |
-| 中级（4-9年） | $45,000~$60,000 | 经验兽医或专科医生 |
-| 高级（10年以上） | $60,000~$85,000 | 诊所主任或独立执业 |
+| Median salary | $64,224 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Assistant in public institutions or clinics |
+| Intermediate (4-9 years) | $45,000~$60,000 | Experienced veterinarian or specialist |
+| Senior (10+ years) | $60,000~$85,000 | Clinic director or independent practitioner |
+| average salary | $71,628 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从助理兽医开始，积累经验后可担任主治兽医或诊所部门主管，也可开设私人诊所或转向科研/教学岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
+
+Typically starting as a veterinary assistant, one can gain experience to become a lead veterinarian or clinic department head, or open a private practice, or shift to research/teaching roles.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and report generation of routine imaging (X-ray, ultrasound)
+- Data analysis for basic laboratory tests (blood, urine analysis)
+- Standardized administrative tasks like vaccination reminders and client follow-ups
+- Routine symptom recognition and classification in pet health monitoring.
+
+**Where AI augments the role:**
+
+- Using AI image analysis to improve diagnostic accuracy in complex cases
+- Remote monitoring and wearable devices enable continuous chronic disease management
+- Personalized treatment plans based on big data analysis (e.g., dose optimization)
+- AI-assisted surgical navigation and robotic operations improve surgical precision
+
+**Human moat:**
+
+- On-the-spot judgment and hand-eye coordination in complex surgeries
+- Cross-species clinical reasoning and comprehensive diagnosis of rare cases
+- Client communication requiring empathy, end-of-life care, and psychological support.
+- Practitioner responsibility: bear ultimate decision-making and legal consequences for treatment plans
+- Ergonomic adjustment and real-time titration of drugs and anesthetics.
+
+**Skills to build:**
+
+- Use and result verification of AI imaging diagnostic tools
+- Telehealth platform operation and data analysis
+- Basic data science (Python/R) integrated with clinical data
+- Animal welfare and ethical decision-making skills
+- Advanced cross-species pathophysiology knowledge
+- Customer relationship management (CRM) and digital communication skills
+
+**Key growth areas:**
 
 - Pet ownership growth
 - Veterinary shortage
@@ -64,69 +98,68 @@ Diagnoses and treats diseases in domestic pets like cats and dogs, performs vacc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪兽医学位持有者，需年薪达标（2024年约43,800欧元）。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需学历认可和雇主担保，适用于短缺职业。 |
-| Subclass Recognition Qualific（Recognition of Professional Qualifications） | 境外学位需通过Anabin或兽医学协会认证，可能需补修课程。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-salaried veterinary degree holders; must meet salary threshold (approx. 43,800 euros in 2024). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires qualification recognition and employer sponsorship, applicable to shortage occupations. |
+| Subclass Recognition Qualific (Recognition of Professional Qualifications) | Overseas degrees must be accredited by Anabin or the Veterinary Association, and supplementary courses may be required. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian for Pets and Companion Animals？**
-- 热爱动物且具备科学背景的人
-- 能承受情感压力（安乐死等）的人
-- 愿意持续学习新医疗技术的人
-
-**谁不适合学Veterinarian for Pets and Companion Animals？**
-- 对血腥或手术感到不适的人
-- 不愿处理宠物主人情感需求的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals and have a scientific background
+- People who can handle emotional stress (such as euthanasia).
+- People willing to continuously learn new medical technologies
+
+**Who is not suited**
+- People who are uncomfortable with blood or surgery
+- Those unwilling to handle pet owners' emotional needs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a veterinarian in Germany?**
+A: Junior: approximately 35,000-45,000 euros; experienced: up to 85,000 euros; independent practice income higher.
+
+**Q: How can foreign veterinarians immigrate to Germany?**
+A: requires degree accreditation (Anabin), passing language exam (C1), applying for practice license (Approbation), then processing work visa.
+
+**Q: What are the professional directions for veterinarians?**
+A: Small animals, horses, ruminants, public health, food inspection, etc., with the option to become a specialist veterinarian through continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Veterinarian for Pets and Companion Animals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in Germany?**
-答：Entry-level earns €35,000-45,000, experienced up to €85,000, and self-employed can earn more.
-
-**问：How can foreign veterinarians immigrate to Germany?**
-答：Require degree recognition (Anabin), language test (C1), obtain license (Approbation), then apply for work visa.
-
-**问：What specializations are available for veterinarians?**
-答：Small animals, horses, ruminants, public health, food inspection, etc., via further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

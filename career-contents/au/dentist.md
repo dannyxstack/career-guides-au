@@ -1,69 +1,99 @@
-# 牙医（Dentist）职业分析 · 澳大利亚
+# Dentist — career analysis · Australia
 
-**职业代码：252111 – Dentist。**
+**Occupation code: 252111 (ANZSCO)**
 
-牙医负责诊断和治疗口腔疾病，提供洗牙、补牙、拔牙、正畸和种植牙等服务。澳大利亚牙医严重短缺，尤其在农村和公共牙科诊所，是高薪且PR友好的医疗职业之一。
+Dentists diagnose and treat oral diseases, providing services such as cleaning, fillings, extractions, orthodontics and dental implants. Australia faces a severe dentist shortage, particularly in rural areas and public dental clinics, making it one of the high-paying and PR-friendly healthcare professions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 牙医学学位（Bachelor of Dental Science/Surgery） | 5年（澳洲） | $40,000~$350,000（澳洲国际生学费约 $65,000~$75,000/年（5年约 $325,000~$375,000）；国内牙医学位申请ADC评估） |
-| ADC 考试（澳洲牙科委员会评估） | 6~18个月 | $5,000~$12,000（含笔试（$3,150）和临床技能考试（$7,000+），总约 $10,000~$12,000） |
-| AHPRA 牙医注册 | 1~3个月 | $500~$1,000（完成ADC评估后申请） |
+| Bachelor of Dental Science / Surgery | 5 years (Australia) | $40,000~$350,000 (International student tuition is approximately $65,000–$75,000/year (approximately $325,000–$375,000 over 5 years); domestic dental degree applicants sit the ADC assessment) |
+| ADC Examination (Australian Dental Council assessment) | 6–18 months | $5,000~$12,000 (Includes written exam ($3,150) and clinical skills exam ($7,000+), total approximately $10,000–$12,000) |
+| AHPRA dentist registration | 1–3 months | $500~$1,000 (Apply after completing the ADC assessment) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Dental Science / Surgery | 认可大学 | 必备 | AHPRA注册基础学历 |
-| ADC Certificate（澳洲牙科委员会资质证书） | Australian Dental Council | 必备 | 海外牙医在澳执业的强制评估 |
-| AHPRA Dental Registration | AHPRA | 必备 | 全国统一牙医注册，无此注册不得执业 |
-| 专科资质（正畸/口腔外科等） | 各专科学会/AHPRA | 可选 | 晋升专科牙医额外 3~4 年培训，薪资翻倍 |
+| Bachelor of Dental Science / Surgery | Recognised university | Required | Baseline qualification for AHPRA registration |
+| ADC Certificate (Australian Dental Council qualification certificate) | Australian Dental Council | Required | Mandatory assessment for overseas-trained dentists to practise in Australia |
+| AHPRA Dental Registration | AHPRA | Required | National uniform dental registration is mandatory; practising without registration is not permitted |
+| Specialist qualification (orthodontics, oral surgery, etc.) | Relevant specialist colleges / AHPRA | Optional | Specialising as a dental specialist requires an additional 3–4 years of training, with salaries roughly doubling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 18,000。澳洲牙医供给长期无法满足需求，农村和偏远地区严重短缺。政府公立牙科诊所等候时间超4年，私立市场需求极旺盛。
+**Job demand: very high (★★★★★).** National workforce approx. 18,000. Australia's dental workforce has long been unable to meet demand, with severe shortages in rural and remote areas. Waiting times at public dental clinics exceed 4 years, while the private market remains extremely strong.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,200 个 | 全国，含私立诊所、公立和农村牙科岗 |
-| Indeed | 400~800 个 | 含兼职和合同工 |
-| LinkedIn | 200~500 个 | 偏诊所合伙人和牙科连锁管理岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册牙医（0~2年） | $90,000~$130,000 | 诊所受雇，含基本薪+佣金（按诊疗量计） |
-| 中级牙医（2~8年） | $130,000~$220,000 | 私立诊所佣金制约 $150k~$220k；Indeed/Glassdoor区间 $110k~$200k |
-| 资深牙医 / 诊所主任（8年+） | $200,000~$350,000 | 持股诊所收益叠加，高产牙医年收入 $300k~$400k+ |
-| 专科牙医（正畸/口腔外科） | $300,000~$600,000 | 专科培训后薪资翻倍，正畸医生年收入普遍超 $400k |
-| 农村/DWS区域牙医 | $180,000~$350,000 | 政府补贴 $50,000~$100,000+/年，实际收入显著高于城市 |
+| Median salary | $265,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Newly registered dentist (0–2 years) | $90,000~$130,000 | Clinic-employed, including base salary plus commission (based on treatment volume) |
+| Mid-level dentist (2–8 years) | $130,000~$220,000 | Private clinic commission-based approx. $150k–$220k; Indeed/Glassdoor range $110k–$200k |
+| Senior dentist / clinic director (8+ years) | $200,000~$350,000 | Equity clinic revenue stacked on top; high-producing dentists earn $300k–$400k+ annually |
+| Specialist Dentist (Orthodontics / Oral Surgery) | $300,000~$600,000 | Salaries can double after specialist training; orthodontists commonly earn over $400k per year |
+| Rural / DWS regional dentist | $180,000~$350,000 | Government-subsidised roles $50,000–$100,000+/year, with actual income significantly higher than in cities |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 美容牙科（漂白、贴瓷/种植）和正畸市场快速增长，私立诊所盈利能力强。农村DWS区域享有额外政府补贴和PR快速通道。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+The cosmetic dentistry (whitening, veneers/implants) and orthodontics markets are growing rapidly, with strong profitability in private clinics. Rural DWS areas offer additional government subsidies and fast-track PR pathways.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Cosmetic & Aesthetic Dentistry
 - Orthodontics & Implants
@@ -73,91 +103,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，牙医为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村牙医享优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，政府补贴叠加 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; dentistry is a key shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, rural dentists given priority |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, stackable with government subsidies |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学牙医？**
-- 已持有国内牙医执照（5年制口腔医学本科以上）
-- 英语能力优秀（ADC考试全英语，OET A级或IELTS 7.5+）
-- 手工精细操作能力强，有耐心和亲和力
-- 接受农村就业以快速获取PR和额外补贴
-- 目标是高薪私立诊所或专科培训（正畸/种植）
-
-**谁不适合学牙医？**
-- 英语能力较弱，ADC临床考试困难
-- 有颈椎或腰椎问题（长期弯腰操作职业损耗大）
-- 无法接受高考试成本（ADC约 $10,000~$12,000）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds a domestic dental licence (five-year undergraduate dental degree or above)
+- Excellent English proficiency (ADC exam is fully in English; OET Grade A or IELTS 7.5+)
+- Strong fine manual dexterity, patience and interpersonal skills
+- Accept rural employment to fast-track PR and receive additional subsidies.
+- Aiming for high-paying private practice or specialist training (orthodontics/implants)
+
+**Who is not suited**
+- Weaker English skills making the ADC clinical exam difficult
+- History of cervical or lumbar issues (prolonged bending causes significant occupational wear)
+- Unable to accept the high examination costs (ADC approximately $10,000–$12,000)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for dentists in Australia?**
+A: Mid-career dentist annual income approximately $130,000–$220,000; experienced dentist $300,000–$400,000+; orthodontic specialist up to $400,000–$600,000. Additional allowances of $50,000–$100,000+ available in rural DWS areas.
+
+**Q: Is it easy for dentists to find work in Australia?**
+A: Very easy. Public dental waiting lists exceed 4 years, private demand is strong, clinics actively recruit after ADC completion, and rural areas offer near-immediate employment.
+
+**Q: Are dental qualifications from China recognised in Australia?**
+A: Pass the ADC (Australian Dental Council) written exam and clinical skills exam; total cost approx. $10,000–$12,000. The ADC clinical exam is widely regarded as one of the most challenging healthcare examinations; thorough preparation is strongly advised (pass rate approx. 50–60%).
+
+**Q: Will dentists be replaced by AI?**
+A: Low risk in the short term. AI is advancing rapidly in X-ray diagnostics and treatment planning support, but hands-on dental procedures and patient communication cannot yet be replaced. Growth in cosmetic dentistry and orthodontics is outpacing AI adoption.
+
+**Q: Is there an age limit for dentists in Australia?**
+A: There is no upper age limit for practising, but no additional migration points are awarded above age 45. Dentists aged 35–45 are advised to begin their ADC application promptly, as approval still leaves 15–20 years of high-earning practice ahead.
+
+**Q: What qualifications do you need to become a dentist in Australia?**
+A: A dental degree (Bachelor of Dental Science or equivalent, typically 5 years) is required. Graduates of domestic dentistry programmes (5 years) may apply for ADC assessment.
+
+**Q: Is it difficult to get dental registration in Australia?**
+A: The ADC clinical skills examination is widely regarded as one of the most challenging healthcare assessments, with a pass rate of approximately 50–60%. It requires participation in standardised model-based practical sessions in Australia, which differ from real clinical practice — preparatory training courses are strongly recommended.
+
+**Q: Which is a better option for migrating to Australia — dentistry or general practice?**
+A: Both are excellent migration occupations. General practitioners have a wider salary range ($250k–$500k+) with similar PR pathways; the ADC examination for dentists is slightly more demanding than the AMC, but income stability in the private market is stronger and there is greater flexibility in opening an independent practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Australian Dental Council (ADC) | 海外牙医评估和ADC考试流程 |
-| AHPRA | 牙医注册要求 |
-| Indeed AU | 牙医薪资区间 $110k~$200k（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较高（★★★★☆） |
-
-牙医的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲牙医工资多少？**
-答：中级牙医年收入约 $130,000~$220,000；资深牙医 $300,000~$400,000+；正畸专科医生可达 $400,000~$600,000。农村DWS区域额外补贴 $50,000~$100,000+。
-
-**问：澳洲牙医容易找工作吗？**
-答：极容易。公立牙科候诊超4年，私立需求旺盛，ADC通过后诊所主动招募，农村地区几乎可立即入职。
-
-**问：中国牙医执照澳洲认可吗？**
-答：通过 ADC（澳洲牙科委员会）笔试+临床技能考试，总费用约 $10,000~$12,000。ADC临床考试是公认最难的医疗类考试之一，建议充分备考（通过率约50%~60%）。
-
-**问：牙医会被AI替代吗？**
-答：短期内风险较低。AI在X光诊断和治疗方案辅助上快速发展，但实际牙科手术操作和患者沟通仍无法替代。美容牙科和正畸市场的增长超过AI渗透速度。
-
-**问：澳洲牙医有年龄限制吗？**
-答：无执业年龄上限，但移民打分45岁以上无加分。建议35~45岁牙医尽快启动ADC申请，通过后仍有15~20年高薪执业年限。
-
-**问：澳洲牙医需要什么学历？**
-答：需要牙医学学位（Bachelor of Dental Science 或同等，通常5年制）。国内口腔医学（5年制）毕业可申请ADC评估。
-
-**问：澳洲牙医认证难吗？**
-答：ADC临床技能考试是公认最难的医疗类考试之一，通过率约50%~60%。需要在澳参加标准化模型实操，与实际临床操作有所不同，建议提前参加培训课程。
-
-**问：牙医和全科医生哪个更适合移民澳洲？**
-答：两者均是极佳移民职业。全科医生薪资区间更宽（$250k~$500k+），PR路径相近；牙医ADC考试难度比AMC略高，但私立市场收入稳定性更强，自主开诊所的灵活性更高。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

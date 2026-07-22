@@ -1,61 +1,97 @@
-# Purchasing Managers（Purchasing Managers）职业分析 · 美国
+# Purchasing Managers — career analysis · United States
 
-**职业代码：11-3061 – Purchasing Managers。**
+**Occupation code: 11-3061 (SOC)**
 
-Purchasing managers plan, direct, or coordinate the activities of buyers, purchasing officers, and related workers involved in purchasing materials, products, and services. Includes wholesale or retail trade merchandising managers and procurement managers.
+Procurement managers plan, direct, or coordinate the activities of buyers and related staff to purchase materials, products, or services, including wholesale or retail merchandise managers and purchasing managers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 硕士学位（MBA或供应链管理） | 2年 | $30,000~$100,000（顶尖商学院学费较高，可获奖学金） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院可节省费用，但就业竞争力较低） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Master's degree (MBA or Supply Chain Management) | 2 years | $30,000~$100,000 (Top business schools have higher tuition but scholarships may be available) |
+| Associate degree | 2 years | $10,000~$30,000 (Community colleges can save costs but offer lower employment competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采购与供应管理认证（CPSM） | 美国供应管理协会（ISM） | 可选 | 行业认可度高的专业认证，需通过考试和工作经验 |
-| 商业或经济学学士学位 | 大学 | 必备 | 多数雇主要求本科以上学历 |
-| 供应链管理硕士（可选） | 大学 | 可选 | 高级职位或转型管理层推荐 |
-| 项目管理认证（PMP） | 项目管理协会（PMI） | 可选 | 对涉及重大项目采购的经理有帮助 |
+| Bachelor's degree in business or economics | University | Required | Most employers require a bachelor's degree or higher |
+| Certified Professional in Supply Management (CPSM) | Institute for Supply Management (ISM) | Optional | Highly recognized professional certification requiring exams and work experience |
+| Master of Supply Chain Management (optional) | University | Optional | Advanced roles or transitioning to management recommended |
+| Project Management Professional (PMP) certification | Project Management Institute (PMI) | Optional | Helpful for managers involved in major procurement projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 62,000。美国劳工统计局预计2023-2033年采购经理就业增长约3%，略低于所有职业平均水平。全球化供应链和成本控制需求推动岗位稳定，但自动化可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 62,000. The U.S. Bureau of Labor Statistics projects about 3% employment growth for purchasing managers from 2023 to 2033, slightly below the average for all occupations. Global supply chains and cost control needs drive job stability, but automation may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 采购专员或助理采购经理，薪资因行业和地区而异 |
-| 中级（4-7年） | $80,000~$120,000 | 采购经理，负责中小型采购团队 |
-| 高级（8年+） | $120,000~$180,000 | 资深采购经理或供应链总监，大型企业或高利润行业薪资更高 |
+| Median salary | $148,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Procurement officer or assistant procurement manager, salary varies by industry and location |
+| Mid-level (4-7 years) | $80,000~$120,000 | Procurement manager, responsible for a small to medium procurement team |
+| Senior (8+ years) | $120,000~$180,000 | Senior procurement manager or supply chain director, higher salary in large enterprises or high-profit industries |
+| average salary | $156,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 常见晋升路径：采购员→采购主管→采购经理→供应链总监/副总裁。也可转向供应链管理、运营管理或咨询领域。持有CPSM认证可加速晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
+
+Common promotion path: Buyer → Procurement Supervisor → Procurement Manager → Supply Chain Director/VP. Can also move into supply chain management, operations management, or consulting. Holding CPSM certification can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated inquiry and price comparison processes for standard procurement
+- Supplier master data maintenance and historical transaction analysis
+- Automated review and compliance checking of contract clauses
+- Inventory monitoring and automatic replenishment suggestions
+- Automated Generation and Tracking of Purchase Orders
+
+**Where AI augments the role:**
+
+- AI-based market price forecasting and strategic procurement decisions
+- Real-time monitoring and intelligent scoring of supplier risks
+- Data analysis support and pattern recognition in contract negotiations
+- Market insight and trend simulation in category strategy development
+- Automatic report and suggestion generation in cross-department collaboration
+
+**Human moat:**
+
+- Complex supplier relationship management and long-term strategic partnerships
+- Emergency decision-making and interpersonal coordination during supply chain disruptions
+- Human judgment and accountability in compliance and ethical procurement
+- Cross-cultural negotiation and interest balancing skills
+- Leadership and influence in organizational change management.
+
+**Skills to build:**
+
+- Operation and integration of AI procurement tools (e.g., SAP Ariba, Coupa AI)
+- Supply chain data analysis and predictive modeling (Python/R)
+- Supplier risk management and ESG assessment
+- Strategic category management and market intelligence
+- Cross-functional leadership and change management
+- Negotiation psychology and digital tool assistance
+
+**Key growth areas:**
 
 - Supply Chain
 - Cost Reduction
@@ -64,69 +100,68 @@ Purchasing managers plan, direct, or coordinate the activities of buyers, purcha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于具备学士学位及以上的采购经理，需雇主担保且抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于高级学位或特殊能力的采购经理，需PERM劳工证。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或熟练工人，需PERM劳工证。签证排期较长。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 通过PERM申请绿卡，需证明无法招聘到合格美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to procurement managers with a bachelor's degree or higher, requiring employer sponsorship and a lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to purchasing managers with advanced degrees or special abilities, requires PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | For bachelor degree holders or skilled workers, requires PERM labor certification. Visa backlog is long. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Apply for a green card through PERM, required to prove inability to recruit qualified US workers. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing Managers？**
-- 具备谈判和数据分析能力的人
-- 热爱供应链和成本优化工作的人
-- 希望从事管理岗位且有商业头脑的人
-
-**谁不适合学Purchasing Managers？**
-- 不喜欢处理细节和文书工作的人
-- 抗压能力弱、不擅长应对供应商关系的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with negotiation and data analysis skills
+- People passionate about supply chain and cost optimization
+- Those aspiring to management roles with business acumen
+
+**Who is not suited**
+- People who dislike handling details and paperwork
+- Those with low stress tolerance and poor ability to manage supplier relationships
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a procurement manager?**
+A: Median annual salary for procurement managers is about $120,000, entry-level $60,000-80,000, senior can exceed $180,000. Industry varies, with wholesale trade and manufacturing paying higher.
+
+**Q: What are the visa pathways for procurement managers to immigrate to the US?**
+A: Common pathways include H-1B work visa (requires bachelor's degree or higher) and EB-2/EB-3 employment-based green cards (requires PERM labor certification). Also possible is the L-1 visa for intracompany transferees. As it is not a STEM occupation, H-1B lottery chances are lower.
+
+**Q: What skills do procurement managers need?**
+A: Core skills include negotiation, data analysis, supplier management, contract management, and cost control. Familiarity with ERP systems and supply chain software is also important. Soft skills require team leadership and cross-departmental communication.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Purchasing Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for purchasing managers?**
-答：The median annual salary for purchasing managers is around $120,000, with entry-level positions at $60,000-$80,000 and senior roles exceeding $180,000. Salaries vary by industry, with wholesale trade and manufacturing offering higher pay.
-
-**问：What visa options are available for purchasing managers to immigrate to the US?**
-答：Common pathways include the H-1B work visa (requiring a bachelor's degree or higher) and EB-2/EB-3 employment-based green cards (requiring PERM labor certification). The L-1 intracompany transfer visa is also an option. As this is not a STEM occupation, the H-1B lottery odds are lower.
-
-**问：What skills are needed for a purchasing manager?**
-答：Core skills include negotiation, data analysis, supplier management, contract management, and cost control. Proficiency in ERP systems and supply chain software is important. Soft skills include team leadership and cross-departmental communication.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,69 +1,97 @@
-# 柴油机技工（Diesel Motor Mechanic）职业分析 · 澳大利亚
+# Diesel Motor Mechanic — career analysis · Australia
 
-**职业代码：321212 – Diesel Motor Mechanic。**
+**Occupation code: 321212 (ANZSCO)**
 
-柴油机技工负责诊断、维修和保养柴油发动机驱动的重型设备，包括矿业机械、运输卡车、农业设备和建筑机械。澳大利亚矿业和物流行业的庞大需求使柴油机技工长期列于技术短缺清单最高需求类别。
+Diesel mechanics diagnose, repair and maintain heavy equipment powered by diesel engines, including mining machinery, transport trucks, agricultural equipment and construction machinery. Consistently high demand from Australia's mining and logistics industries keeps diesel mechanics at the top of the skills shortage list.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 AUR31020 Certificate III in Heavy Commercial Vehicle Mechanical Technology） | 42~48个月 | —（各州补贴，WA/QLD 矿业州补贴力度较强） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,500（含TRA评估费及实习期费用；重型设备评估较轿车更复杂） |
+| Apprenticeship (including AUR31020 Certificate III in Heavy Commercial Vehicle Mechanical Technology) | 42–48 months | $0~$1,200 (State government subsidies; WA and QLD mining states offer stronger subsidy support) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,500 (Includes TRA assessment fees and traineeship costs; heavy vehicle assessments are more complex than passenger vehicle assessments) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31020) | TAFE / RTO | 必备 | 全国统一课程，重型柴油维修基础资质 |
-| Certificate III in Mobile Plant Technology (AUR32720) | TAFE / RTO | 可选 | 矿业移动设备维修专项资质（可选） |
-| High Voltage / Electrical Safety Certificate | 认可RTO | 可选 | 矿业电气设备维修安全证书 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31020) | TAFE / RTO | Required | Nationally consistent curriculum; foundational qualification for heavy diesel maintenance |
+| Certificate III in Mobile Plant Technology (AUR32720) | TAFE / RTO | Optional | Mining mobile equipment maintenance specialist qualification (optional) |
+| High Voltage / Electrical Safety Certificate | Approved RTO | Optional | Mining electrical equipment maintenance safety certificate |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000。JSA 预测技工类至2035年新增约195,800个岗位。矿业自动化和新型重型电气设备的普及驱动柴油机技工的技能升级需求。
+**Job demand: very high (★★★★★).** National workforce approx. 45,000. JSA projects that approximately 195,800 new trade-level positions will be created by 2035. Mining automation and the growing adoption of new heavy electric equipment are driving demand for upskilling among diesel mechanics.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~2,800 个 | 全国，以矿业和运输物流为主，WA需求最强 |
-| Indeed | 800~1,500 个 | 含学徒岗和合同工 |
-| LinkedIn | 400~900 个 | 偏矿业公司直招和工程管理岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：很高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $21,000~$28,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $28,000~$46,000 | 约 $23~$30/hr |
-| 初级技工（持证后 1~3年） | $70,000~$86,000 | Indeed 25th percentile |
-| 中级技工（3~8年） | $86,000~$110,000 | SEEK 区间 $90k~$110k；Indeed 平均 $46.93/hr（约 $97k） |
-| 资深技工 / 主任（8年+） | $110,000~$135,000 | 含工地主任职责和专业矿业设备资质 |
-| 矿业 FIFO 技工（WA/QLD） | $140,000~$200,000 | 矿业轮班津贴+FIFO补贴，WA矿区顶级岗位超 $200k |
+| Median salary | $84,344 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $21,000~$28,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $28,000~$46,000 | Approx. $23–$30/hr |
+| Junior tradesperson (1–3 years post-qualification) | $70,000~$86,000 | Indeed 25th percentile |
+| Mid-level Tradesperson (3–8 years) | $86,000~$110,000 | SEEK range $90k–$110k; Indeed average $46.93/hr (approx. $97k) |
+| Senior tradesperson / superintendent (8+ years) | $110,000~$135,000 | Including site supervisor responsibilities and specialist mining equipment qualifications |
+| Mining FIFO Technician (WA/QLD) | $140,000~$200,000 | Mining shift allowances + FIFO loadings; top roles in WA mining regions exceed $200k |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 矿业FIFO是柴油机技工薪资最高的就业方向，WA和QLD矿区长期短缺。物流车队维修和农业设备市场同样旺盛。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on diesel mechanics is mixed: diagnostic and documentation tasks will be enhanced, but field operations and physical repairs still rely on humans. Overall, roles won't shrink, but entry barriers may slightly narrow due to increased skill requirements.
+
+Mining FIFO is the highest-paying employment pathway for diesel mechanics, with long-term shortages in WA and QLD mining regions. The logistics fleet maintenance and agricultural equipment sectors are equally strong.
+
+**Tasks most exposed to AI:**
+
+- Routine written diagnostic reports—AI can auto-generate reports from sensor data
+- Spare parts inventory management and ordering: AI systems can predict demand and auto-order
+- Basic fault code interpretation, AI can automatically match repair solutions
+- Partial remote monitoring and alarm response; AI can perform initial fault classification
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostics: AI analyzes engine data and historical fault database, technicians quickly locate issues
+- Predictive maintenance: AI predicts component lifespan, and technicians replace parts proactively rather than reactively.
+- AR remote assistance: AI-enhanced augmented reality guiding complex assembly and disassembly steps
+- Training Simulations: AI Creates Virtual Engine Models for Technicians to Practice
+- Documentation and compliance: AI automatically updates maintenance records and regulatory requirements
+
+**Human moat:**
+
+- On-site physical repairs: fine mechanical adjustments, welding, replacement of faulty parts
+- Unstructured problem solving: handling rare, complex, or sensor-data-deficient faults
+- Client trust and communication: explaining issues and repair solutions to non-technical clients
+- Safety and compliance judgment: ensuring repairs meet safety standards and regulations
+
+**Skills to build:**
+
+- Diagnostic software and sensor integration
+- Use of predictive maintenance tools
+- AR-assisted maintenance system
+- Data analysis and basic programming skills
+- Knowledge of electrical and hybrid power systems
+- Telematics and IoT basics
+
+**Key growth areas:**
 
 - Mining Equipment Maintenance (FIFO)
 - Transport & Logistics Fleet
@@ -73,93 +101,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，WA/QLD对柴油机技工需求旺盛 |
-| Subclass 491（Skilled Work Regional） | 偏远矿业地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points; WA and QLD have strong demand for diesel mechanics |
+| Subclass 491 (Skilled Work Regional) | Regional mining area nomination adds 15 points, 5 years to PR |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学柴油机技工？**
-- 有重型机械/柴油发动机/矿业设备维修背景，希望技能移民来澳
-- 接受FIFO轮班（8/6或14/7）和重体力工作环境
-- 目标是WA/QLD矿业高薪岗位（$140k~$200k+）
-- 年龄25~42岁，体力好，能适应矿区生活
-- 愿意持续考取矿业安全认证以提升薪资竞争力
-
-**谁不适合学柴油机技工？**
-- 无法接受FIFO轮班（长期离家）工作模式
-- 对油污、噪音和重体力有明显生理抵触
-- 完全无重型机械或柴油发动机维修基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in heavy machinery, diesel engines or mining equipment maintenance, seeking skilled migration to Australia.
+- Willing to accept FIFO rosters (8/6 or 14/7) and physically demanding working conditions
+- Targeting high-paying WA/QLD mining roles ($140k-$200k+)
+- Aged 25–42, physically fit, able to adapt to life in a remote mining region
+- Willingness to continuously obtain mining safety certifications to improve salary competitiveness
+
+**Who is not suited**
+- Unable to accept FIFO roster arrangements (extended periods away from home)
+- Strong physical aversion to grease, noise, and heavy manual labour
+- No background in heavy machinery or diesel engine maintenance whatsoever
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a diesel mechanic in Australia?**
+A: Mid-level tradespeople earn approximately $86,000–$110,000 per year; Indeed average $46.93/hr (approximately $97k). Mining FIFO roles can reach $140k–$200k+, making this one of the highest-paying trade categories. Apprentices earn approximately $21k–$46k.
+
+**Q: Is it easy to find work as a diesel mechanic in Australia?**
+A: Very easy. Mining diesel mechanics are in extreme shortage, listed on the MLTSSL long-term, with Seek consistently advertising 1,500–2,800 positions, and very low competition in WA/QLD mining regions.
+
+**Q: Are Chinese heavy machinery maintenance certificates recognised in Australia?**
+A: Not directly recognised — assessment through the TRA Job Ready Program is required, with an assessment cycle of approximately 12–18 months for heavy equipment.
+
+**Q: Will Diesel Mechanics be replaced by AI?**
+A: Lower short-term risk. AI-assisted diagnostics are already widely used in mining, but heavy equipment maintenance, hands-on repairs, and emergency site work remain highly dependent on human labour.
+
+**Q: Is there an age limit for diesel mechanics in Australia?**
+A: No legal upper limit, but FIFO high-intensity roles are recommended for those under 42. There are no additional points for migrants aged 45 or over in the points test, so it is advisable to begin the visa application process as early as possible.
+
+**Q: Do diesel mechanics need a university degree in Australia?**
+A: Not required. Completing a Certificate III (AUR31020) is sufficient to practise; applicants can enter an apprenticeship directly after secondary school.
+
+**Q: Is it hard to learn diesel mechanics in Australia?**
+A: Medium-high difficulty. Heavy equipment electronic control diagnostics and mining-specific machinery (CAT/Komatsu) are technically complex; those with a background in heavy equipment maintenance adapt more quickly.
+
+**Q: Which is better for migrating to Australia — diesel mechanic or electrician?**
+A: Mining wages for diesel mechanics are higher ($140k–$200k+ vs electricians at a comparable $140k–$220k), but working conditions are harsher; electricians have broader employment opportunities beyond mining. Those with a mining background should prioritise the diesel mechanic pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 321212 职业档案与短缺清单 |
-| SEEK AU | 柴油机技工薪资区间 $90k~$110k（2026） |
-| Indeed AU | 柴油机技工平均时薪 $46.93（2026） |
-| PayScale AU | 柴油机技工薪资数据（2026） |
-| TRA | 海外柴油机技工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 很高（★★★★★） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-柴油机技工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲柴油机技工工资多少？**
-答：中级技工年薪约 $86,000~$110,000，Indeed 平均 $46.93/hr（约 $97k）。矿业FIFO可达 $140k~$200k+，是技工类薪资最高之一，学徒约 $21k~$46k。
-
-**问：澳洲柴油机技工容易找工作吗？**
-答：极容易。矿业柴油机技工极度短缺，MLTSSL长期在列，Seek 常年挂牌 1,500~2,800 个职位，WA/QLD矿区竞争极低。
-
-**问：中国重型机械维修证澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，重型设备评估周期约12~18个月。
-
-**问：柴油机技工会被AI替代吗？**
-答：短期内风险较低。AI辅助诊断已在矿业广泛应用，但重型设备维修操作、矿区紧急抢修仍高度依赖人工。
-
-**问：澳洲柴油机技工有年龄限制吗？**
-答：无法律上限，但FIFO高强度作业建议42岁以下。45岁以上移民打分无加分，建议尽早启动签证申请。
-
-**问：澳洲柴油机技工需要大学学历吗？**
-答：不需要。完成 Certificate III（AUR31020）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲柴油机技工难学吗？**
-答：难度中高。重型设备电控诊断和矿业专用机械（CAT/Komatsu）技术复杂，有国内重型设备维修基础者适应较快。
-
-**问：柴油机技工和电工哪个更适合移民澳洲？**
-答：柴油机技工矿业薪资更高（$140k~$200k+ vs 电工 $140k~$220k相近），但工作环境更恶劣；电工就业范围更广，不限于矿业。有矿业背景者首选柴油机技工。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

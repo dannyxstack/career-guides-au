@@ -1,62 +1,97 @@
-# General Practitioner and Specialist Physician（General Practitioner and Specialist Physician）职业分析 · FR
+# General Practitioner and Specialist Physician — career analysis · France
 
-**职业代码：J1102 – General Practitioner and Specialist Physician。**
+**Occupation code: J1102 (ROME)**
 
-General practitioners and specialist physicians diagnose, treat, and prevent diseases in France, working in clinics, hospitals, and emergency settings. The profession is regulated by the French Medical Council, requiring a national medical diploma and license.
+General practitioners and specialists in France are engaged in disease prevention, diagnosis, and treatment, including outpatient, inpatient, and emergency services. This profession is regulated by the French Medical Council and requires a national medical diploma and a medical license.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学学习（第一阶段） | 6年（DFGSM + DFASM） | $4,000~$12,000（公立大学学费约170€/年，私立或国际学生更高） |
-| 住院医师实习（第三阶段） | 3-6年（取决于专科） | —（实习期间有工资，无需学费） |
-| 专科培训（DES/DESC） | 4-6年（含实习） | —（已在住院医师阶段覆盖） |
+| Medical Study (Phase One) | 6 years (DFGSM + DFASM) | $4,000~$12,000 (Public university tuition is about €170 per year, while private or international students pay even more) |
+| Residency Internship (Phase 3) | 3-6 years (depending on specialty) | $0~$0 (During the internship, there is a salary and no tuition fees) |
+| Specialist Training (DES/DESC) | 4-6 years (including internship) | $0~$0 (Coverage is provided at the residency stage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家医学文凭（Diplôme d'État de Docteur en Médecine） | 法国大学医学院 | 必备 | 完成医学学习后获得，是行医的基础文凭 |
-| 行医执照（Ordre des Médecins） | 法国医学委员会 | 必备 | 必须在Ordre des Médecins注册才能合法行医 |
-| 专科资格认证（DES/DESC） | 法国大学 | 必备 | 完成专科培训后获得，是专科医生的必要条件 |
+| National Medical Diploma (Diplôme d'État de Docteur en Médecine) | French University Medical School | Required | Obtained after completing medical studies, it is a foundational diploma for practicing medicine |
+| Medical license (Ordre des Médecins) | French Medical Council | Required | You must register with Ordre des Médecins to practice medicine legally |
+| Specialist Qualification Certification (DES/DESC) | French universities | Required | Obtaining it after completing specialist training is a necessary condition for specialist doctors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 230,000。法国面临医生短缺，尤其是乡村和某些专科领域（如精神病学、儿科）。未来十年大量医生退休，就业前景良好，但竞争仍存在于热门城市和专科。
+**Job demand: high (★★★★☆).** National workforce approx. 230,000. France faces a shortage of doctors, especially in rural areas and certain specialties such as psychiatry and pediatrics. Over the next decade, a large number of doctors will retire, and employment prospects will be promising, but competition will still exist in popular cities and specialties.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 住院医师（实习阶段） | $24,000~$40,000 | 税前年薪，包括津贴和奖金 |
-| 中级（5-10年经验） | $60,000~$100,000 | 税前年薪，公立医院工资略低于私立 |
-| 高级（专科医生/私人诊所） | $100,000~$200,000 | 税前年薪，私人诊所收入更高 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Resident Physician (Internship Stage) | $24,000~$40,000 | Pre-tax annual salary, including allowances and bonuses |
+| Intermediate (5-10 years of experience) | $60,000~$100,000 | Pre-tax annual salary: public hospital salaries are slightly lower than private ones |
+| Advanced (specialist/private clinic) | $100,000~$200,000 | Pre-tax annual salary, private clinic income is higher |
+| average salary | $85,500 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业生涯从住院医师开始，逐步晋升为专科医师或全科医师，可开设私人诊所或医院任职。高级阶段可担任科室主任、教学或研究职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core diagnostics, complex treatments, and doctor-patient communication tasks for general practitioners and specialists are difficult to replace, but tasks such as medical record recording, initial imaging screening, and medication consultation will be significantly automated by AI, showing an overall complementary trend.
+
+Your career starts as a resident physician and gradually advances to specialist or general practitioner, with the option to open a private clinic or work in a hospital. At the advanced stage, you can serve as a department head, teaching, or research position.
+
+**Tasks most exposed to AI:**
+
+- Routine medical record entry and structured organization (AI automatically generates SOAP notes)
+- Preliminary medical imaging screening (such as AI-assisted X-ray and CT scans)
+- Standard drug dosage calculation and interaction testing (AI decision support)
+- Simple doctor-patient consultation (AI chatbot handling common symptom consultations)
+
+**Where AI augments the role:**
+
+- Personalized treatment plan development based on big data analysis (AI recommendation)
+- Real-time clinical decision support (AI suggests rare disease possibilities)
+- Remote monitoring and chronic disease management (AI analysis of patients' home data)
+- Automatic generation and coding of medical documents (improving efficiency)
+- Patient education and follow-up (AI-generated personalized health recommendations)
+
+**Human moat:**
+
+- Clinical reasoning and judgment of complex cases (requires integration of multi-source information)
+- Face-to-face doctor-patient communication and empathy skills
+- Ethical decision-making and medical responsibility
+- Rapid response in emergencies with team leadership
+- Continuous manual skills (such as surgery and punctures)
+
+**Skills to build:**
+
+- Use and validation of AI-assisted diagnostic tools
+- Fundamentals of medical big data analysis
+- Digital health and telemedicine skills
+- Human-machine collaboration workflow design
+- Medical Informatics and Coding
+- Bioethics and AI ethics
+
+**Key growth areas:**
 
 - aging population
 - medical deserts
@@ -65,69 +100,68 @@ General practitioners and specialist physicians diagnose, treat, and prevent dis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent (Ca（EU Blue Card / Talent Passport） | 适用于高技能医生，要求长期工作合同及一定薪资水平（通常高于法国平均工资1.5倍） |
-| Subclass Salarié（Employee Work Permit） | 适用于受雇于法国医疗机构，需获得工作许可和资质认证 |
-| Subclass Recherche d'emploi /（Job Search / Business Creation） | 毕业后可申请1年求职居留，用于寻找工作或开设诊所 |
+| Subclass Passeport Talent (Ca (EU Blue Card / Talent Passport) | Suitable for highly skilled doctors, requiring long-term contracts and a certain salary level (usually 1.5 times higher than the French average). |
+| Subclass Salarié (Employee Work Permit) | Applicable to those employed by French medical institutions who need to obtain a work permit and certification |
+| Subclass Recherche d'emploi / (Job Search / Business Creation) | After graduation, you can apply for a one-year job-seeking residence permit to find a job or open a clinic |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General Practitioner and Specialist Physician？**
-- 有强烈从医意愿、能承受长期高强度学习的人
-- 对医学研究或特定专科有浓厚兴趣的人
-- 愿意在医疗资源稀缺地区工作的人
-
-**谁不适合学General Practitioner and Specialist Physician？**
-- 无法接受至少10年教育和培训的人
-- 抗压能力差、不擅长与人沟通的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong desire to practice medicine and able to endure long-term, high-intensity study
+- People with a strong interest in medical research or a specific specialty
+- People willing to work in areas with limited medical resources
+
+**Who is not suited**
+- People who cannot receive at least 10 years of education and training
+- People with poor stress tolerance and poor communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of doctors in France?**
+A: Junior doctors (residents) earn about €24,000-40,000 annually, mid-level doctors €50,000-100,000, senior specialists or private practice can reach €100,000-200,000. Public hospital salaries are relatively fixed; private is higher.
+
+**Q: How do foreign doctors work in France?**
+A: Non-EU doctors need to go through a qualification recognition procedure (reconnaissance des qualifications) to verify their education and training, and pass a French language exam (e.g., DALF C1). Then they can apply for a Passeport Talent or Salarié visa.
+
+**Q: How long does it take to study medicine in France?**
+A: It usually takes 10-12 years: 6 years of basic medicine (Phase 1), followed by 3-6 years of residency (depending on specialty). General practitioners have a total tenure of about 9 years, while specialists have 11-12 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★★） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-General Practitioner and Specialist Physician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a doctor in France?**
-答：Junior doctors (interns) earn €24,000-40,000 per year, mid-level €60,000-100,000, and senior specialists or private practitioners can earn €100,000-200,000. Public hospital salaries are more standardized, while private practice offers higher income.
-
-**问：How can foreign doctors work in France?**
-答：Non-EU doctors must go through qualification recognition (reconnaissance des qualifications), validating diplomas and training, and pass a French language exam (e.g., DALF C1). They can then apply for a Passeport Talent or Salarié visa.
-
-**问：How long does it take to study medicine in France?**
-答：Typically 10-12 years: 6 years of basic medical studies (first cycle), followed by 3-6 years of residency (depending on specialty). General practitioners require about 9 years, specialists 11-12 years.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

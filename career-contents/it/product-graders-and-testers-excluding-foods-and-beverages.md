@@ -1,60 +1,96 @@
-# Product Graders and Testers (excluding Foods and Beverages)（Product Graders and Testers (excluding Foods and Beverages)）职业分析 · IT
+# Product Graders and Testers (excluding Foods and Beverages) — career analysis · Italy
 
-**职业代码：7543 – Product Graders and Testers (excluding Foods and Beverages)。**
+**Occupation code: 7543 (ISCO08)**
 
-Visually or instrumentally inspect, grade, and test non-food industrial products to ensure they meet quality standards.
+Visually or instrumentally inspect, grade, and test non-food beverage industrial products to ensure quality standards.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业学校 | 3年 | —（公立学校免费） |
-| 技术学院文凭 | 2年 | $1,000~$5,000（部分私立学院收费） |
+| High school/vocational school | 3 years | $0~$2,000 (Free public schools.) |
+| TAFE diploma | 2 years | $1,000~$5,000 (Some private colleges charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 质量检验员认证 | 意大利标准化协会 (UNI) | 可选 | 非强制但有利 |
-| 行业特定培训证书 | 地区职业培训机构 | 必备 | 某些行业要求 |
+| Industry-specific training certificate | Regional Vocational Training Institutions | Required | Required by certain industries |
+| Quality inspector certification | Italian National Standards Body (UNI) | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利制造业自动化程度提高，但对质量检测人员的需求稳定，尤其在纺织、机械和电子行业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Automation in Italian manufacturing is increasing, but demand for quality inspectors remains stable, especially in textiles, machinery, and electronics industries.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级检验员晋升为高级质量技术员、质量主管或质量管理工程师，需积累行业经验和相关认证。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The outlook for product graders and testers is mixed: tasks such as visual inspection and quantitative measurement are easily replaced by AI vision systems, but roles involving subjective judgment, customer communication, and process adjustment are enhanced by AI tools. Entry-level opportunities are narrowing due to higher automation thresholds.
+
+Can progress from junior inspector to senior quality technician, quality supervisor, or quality management engineer, requiring industry experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically inspect product surface defects (scratches, discoloration, etc.) through cameras and image recognition algorithms, replacing manual visual inspection.
+- Use automated equipment such as laser rangefinders and coordinate measuring machines to perform quantitative measurement tasks for product dimensions, tolerances, etc.
+- Automatically classify product quality (good/fair/defective) based on historical data and machine learning models, replacing manual subjective grading
+- Automatically record inspection results and generate quality reports, replacing manual paper or electronic record sheets
+- Performing automatic sampling tests on batch products (e.g., physical parameters like hardness, conductivity), replacing manual repetitive sampling operations
+
+**Where AI augments the role:**
+
+- Using AI visual analysis systems to obtain deep information such as microstructure and composition deviations of defects, assisting in determining root causes of faults
+- Using AI predictive models to detect abnormal trends in production processes early, guiding parameter adjustments to improve overall yield
+- Use digital twin technology to simulate product performance under different operating conditions, helping optimize quality inspection standards and processes.
+- Quickly look up product specifications, historical cases, and quality standards with the help of an AI assistant to improve efficiency in complex product inspection
+- Use AI-driven Statistical Process Control (SPC) tools to analyze quality fluctuations and assist in developing improvement plans.
+
+**Human moat:**
+
+- Deep understanding of product features, usage scenarios, and customer needs, enabling personalized quality assessment
+- Creative problem-solving ability when handling non-standard, extreme, or rare defects, relying on experience and intuition.
+- Interpersonal skills for communicating and coordinating with customers and production teams, explaining quality reports, and driving corrective actions
+- Responsibility for making legally binding or compliance decisions in acceptance, arbitration, etc., requiring the person to bear legal consequences.
+- Maintain and train AI detection systems to ensure performance and reliability when adapting to new processes and materials
+
+**Skills to build:**
+
+- Fundamentals of machine learning and computer vision, ability to use and adjust AI detection models
+- Data analytics and statistical process control (SPC) to extract insights from quality data
+- Basic programming skills (e.g., Python) for automated data retrieval and report generation
+- Equipment maintenance and troubleshooting, especially operation and calibration of automated testing instruments
+- Communication and collaboration skills to drive quality improvements across departments
+- Continuous learning ability to track quality standard changes related to new materials and processes.
+
+**Key growth areas:**
 
 - Quality Control
 - Automation
@@ -63,68 +99,67 @@ Visually or instrumentally inspect, grade, and test non-food industrial products
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历和高薪工作合同。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适合非欧盟公民，需雇主担保。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens, requiring a university degree and a high-paying job contract. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, suitable for non-EU citizens, requires employer sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product Graders and Testers (excluding Foods and Beverages)？**
-- 细心耐心，注重细节
-- 动手能力强，能重复性工作
-- 适应制造业环境
-
-**谁不适合学Product Graders and Testers (excluding Foods and Beverages)？**
-- 厌恶单调重复工作
-- 不善于使用测量仪器
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful, patient, and detail-oriented
+- Strong hands-on skills, able to perform repetitive work
+- Adaptation to Manufacturing Environment
+
+**Who is not suited**
+- Dislikes monotonous repetitive work
+- Not good at using measuring instruments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for product graders?**
+A: Entry-level approximately 22,000-28,000 euros, mid-level 28,000-35,000 euros, senior up to 45,000 euros.
+
+**Q: How can non-EU citizens obtain a work visa for Italy?**
+A: Applications can be made via the EU Blue Card (requires high salary) or the Decreto Flussi quota work visa (requires employer sponsorship).
+
+**Q: Is there room for advancement as a product grader?**
+A: Can advance to quality supervisor, technician, or engineer, requiring experience and certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Product Graders and Testers (excluding Foods and Beverages)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for product graders?**
-答：Entry-level €22,000-€28,000, mid-level €28,000-€35,000, senior up to €45,000.
-
-**问：How can non-EU citizens obtain a work visa for Italy?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa (employer sponsorship).
-
-**问：Is there career progression for product graders?**
-答：Yes, to quality supervisor, technician, or engineer with experience and certifications.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

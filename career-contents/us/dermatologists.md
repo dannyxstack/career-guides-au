@@ -1,60 +1,96 @@
-# Dermatologists（Dermatologists）职业分析 · 美国
+# Dermatologists — career analysis · United States
 
-**职业代码：29-1213 – Dermatologists。**
+**Occupation code: 29-1213 (SOC)**
 
-Dermatologists diagnose and treat diseases of the skin, hair, and nails, performing medical and surgical procedures. Requires MD degree and residency.
+Dermatologists diagnose and treat diseases related to skin, hair, and nails, and can perform medical and skin surgical procedures. Requires MD and residency training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（预科） | 4年 | $80,000~$200,000（学费因校而异，公立较低） |
-| 医学院（MD） | 4年 | $150,000~$350,000（含学费生活费，私立更贵） |
-| 皮肤科住院医师 | 4年 | —（带薪培训，年薪约6万） |
+| Undergraduate (foundation) | 4 years | $80,000~$200,000 (Tuition varies by school; public institutions are lower) |
+| Medical School (MD) | 4 years | $150,000~$350,000 (Including tuition and living expenses; private more expensive) |
+| Dermatology Resident | 4 years | $0~$0 (Paid training, annual salary about $60,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位 (MD) | 医学院 | 必备 | 需从 accredited 医学院毕业 |
-| 美国医师执照 (USMLE) | FSMB/NBME | 必备 | 通过三步考试 |
-| 皮肤科委员会认证 | 美国皮肤科委员会 (ABD) | 必备 | 通过笔试和口试 |
+| Doctor of Medicine (MD) | Medical school. | Required | Must graduate from an accredited medical school |
+| United States Medical Licensing Examination (USMLE) | FSMB/NBME | Required | Pass a three-step exam |
+| Board certification in dermatology | American Board of Dermatology (ABD) | Required | Through written and oral exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。美国皮肤科医生就业前景良好，老龄化人口和皮肤癌发病率上升推动需求。BLS预计2022-2032年增长约3%，但竞争激烈，尤其在城市地区。
+**Job demand: high (★★★★☆).** National workforce approx. 13,000. U.S. dermatologist job outlook is good, driven by aging population and rising skin cancer rates. BLS projects about 3% growth from 2022 to 2032, but competition is fierce, especially in urban areas.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $250,000~$350,000 | 受雇于医院或诊所 |
-| 中级（4-10年） | $350,000~$500,000 | 有经验，可能合伙人 |
-| 高级（10年以上） | $500,000~$800,000 | 私人执业或知名专家 |
+| Median salary | $328,730 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $250,000~$350,000 | Employed in a hospital or clinic |
+| Mid-level (4-10 years). | $350,000~$500,000 | Experienced, possibly partner |
+| Senior (10+ years) | $500,000~$800,000 | Private practitioner or renowned expert |
+| average salary | $323,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 完成住院医师培训后可成为执业皮肤科医生，资深者可晋升为科室主任或开设私人诊所。还可从事皮肤病理学、皮肤外科等亚专科。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dermatologists face limited impact from automation in core diagnostic and surgical tasks, but will be significantly enhanced by AI in image recognition, documentation, and patient communication. Entry-level positions will narrow slightly due to higher technical requirements, overall risk is medium-low.
+
+After completing residency training, can become a practicing dermatologist; senior ones can advance to department head or open a private practice. Can also pursue subspecialties like dermatopathology or dermatologic surgery.
+
+**Tasks most exposed to AI:**
+
+- Preliminary classification of dermoscopic images and identification of common lesions
+- Automatic generation of medical records and prescription documents
+- Standard follow-up calls and appointment reminders.
+- Automatic check for drug interactions and dosages
+- Automated writing of dermatology health science content
+
+**Where AI augments the role:**
+
+- AI-assisted dermoscopic image analysis improves diagnostic accuracy
+- Surgical robots enhance stability in fine operations
+- Telehealth platforms expand patient reach
+- Big data analytics to optimize treatment plans and prognosis prediction
+- Natural language processing to quickly organize medical literature and clinical guidelines
+
+**Human moat:**
+
+- Complex surgical decision-making and handling of sudden complications
+- Patient emotional support and trust building
+- Multi-factor comprehensive analysis (medical history + social + psychological)
+- Medical ethics and responsibility
+- Clinical inference for rare or emerging diseases
+
+**Skills to build:**
+
+- Using and interpreting results of skin imaging AI tools
+- Telemedicine and doctor-patient communication platform operation.
+- Basic programming and data analysis (Python/R)
+- Medical ethics and AI compliance knowledge
+- Interdisciplinary collaboration (with AI engineers, data scientists)
+- Continuous learning of new AI diagnostic systems
+
+**Key growth areas:**
 
 - Aging population
 - Skin cancer incidence
@@ -63,65 +99,64 @@ Dermatologists diagnose and treat diseases of the skin, hair, and nails, perform
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于医院或医疗机构雇佣，需学士以上学位，每年抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需PERM或国家利益豁免，适用于高级学位或特殊能力 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合杰出皮肤科医生，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Commonly employed by hospitals or medical institutions, requires Bachelor's degree or higher, annual lottery system. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires PERM or National Interest Waiver, applicable for advanced degrees or exceptional ability |
+| Subclass O-1 (O-1 Extraordinary Ability) | For outstanding dermatologists, no labor certification required |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dermatologists？**
-- 对皮肤疾病有浓厚兴趣，喜欢临床与手术结合
-- 具备长时间高强度学习能力
-- 追求高收入和职业声望
-
-**谁不适合学Dermatologists？**
-- 无法承受长期高压和竞争环境
-- 不喜欢近距离接触患者皮肤
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in skin diseases, enjoys combination of clinical and surgical work
+- Able to study intensively for long periods
+- Pursuing high income and professional prestige
+
+**Who is not suited**
+- Cannot tolerate long-term high pressure and competitive environment
+- Dislikes close contact with patients' skin
+
+---
+
+## 8. FAQ
+
+**Q: How does a dermatologist's salary compare to other specialties?**
+A: Dermatologist salaries rank among the highest of all specialties, with average annual salary around $400,000 USD, higher than family doctors but slightly lower than surgeons.
+
+**Q: How can foreign medical graduates become dermatologists in the US?**
+A: Must pass USMLE, complete US residency training (extremely competitive to match), then apply for H-1B or EB-2 green card; highly competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dermatologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How does dermatologist salary compare to other specialties?**
-答：Dermatologists are among the highest-paid specialists, averaging $400k, above family physicians but slightly below surgery.
-
-**问：How can foreign medical graduates become dermatologists in the US?**
-答：Requires USMLE, US residency match (highly competitive), then H-1B or EB-2 green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

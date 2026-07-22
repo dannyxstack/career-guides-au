@@ -1,62 +1,97 @@
-# Waiters（Waiters）职业分析 · ES
+# Waiters — career analysis · Spain
 
-**职业代码：5120 – Waiters。**
+**Occupation code: 5120 (CNO)**
 
-Serve food and beverages to customers in restaurants, bars, cafes, and other hospitality venues, take orders, handle payments, and ensure a pleasant dining experience.
+In restaurants, bars, cafes, and other dining establishments, we provide customer reception services such as ordering, serving dishes, beverage service, and checkout, ensuring a comfortable and satisfying dining experience.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求，但有培训课程 | 短期课程（数月） | —（部分雇主提供在职培训，也可自费参加餐饮服务课程） |
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立学校约€200-400/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免学费，私立约€300-600/年） |
+| No specific educational requirements, but there are training courses | Short-term courses (several months) | $0~$500 (Some employers offer on-the-job training, and you may also pay for catering service courses) |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$400 (Public schools are free; private schools approx. 200-400 euros/year.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$600 (Public schools offer no tuition, private ones about €300-600 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书（Manipulador de Alimentos） | 各自治区卫生部门或认可培训机构 | 必备 | 从事餐饮服务必须持有，有效期通常为永久 |
-| 酒类服务证书（Curso de Manipulación de Bebidas Alcohólicas） | 自治区政府 | 可选 | 销售酒类时可能需要 |
-| 餐饮服务职业培训文凭 | 教育部或职业培训中心 | 可选 | 有助于晋升管理岗位，非强制 |
+| Food Hygiene Certificate (Manipulador de Alimentos) | Health departments of each autonomous region or accredited training institutions | Required | Catering services must be held, and the validity period is usually permanent |
+| Certificate of Alcohol Service (Curso de Manipulación de Bebidas Alcohólicas) | Autonomous region government | Optional | It may be necessary when selling alcoholic beverages |
+| Diploma in Vocational Training in Catering Services | Ministry of Education or vocational training centers | Optional | Helps promote to management positions, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 700,000。西班牙旅游业发达，餐饮业持续增长，尤其是旅游旺季对服务员需求旺盛。但该职位季节性明显，且受经济波动影响较大，就业机会主要集中在城市及旅游区。
+**Job demand: high (★★★★☆).** National workforce approx. 700,000. Spain's tourism industry is well developed, with the restaurant sector continuing to grow, especially during peak tourist seasons when demand for waitstaff is strong. However, this position is highly seasonal and highly affected by economic fluctuations, with employment opportunities mainly concentrated in cities and tourist areas.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $14,000~$18,000 | 税前年薪，包含小费收入 |
-| 中级（3-5年） | $18,000~$24,000 | 税前年薪，含小费 |
-| 高级（5年以上/领班） | $24,000~$30,000 | 税前年薪，含小费，可能含年终奖金 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $14,000~$18,000 | Pre-tax annual salary, including tip income |
+| Mid-level (3–5 years) | $18,000~$24,000 | Annual pre-tax salary, including tips |
+| Senior (5+ years/team leader) | $24,000~$30,000 | Pre-tax annual salary, including tips, and possibly year-end bonuses |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级服务员可晋升为领班、餐厅主管或经理，也可通过培训转向调酒师、品酒师等专业岗位，或积累经验后自主创业开设餐饮店铺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on waitstaff is mixed: repetitive tasks like taking orders and billing will be automated, but AI can also enhance personalized service and efficiency; human emotional interaction and flexibility remain core strengths.
+
+Junior waiters can be promoted to team leaders, restaurant supervisors, or managers, or can transition through training to bartenders, sommeliers, or accumulate experience to start their own restaurants.
+
+**Tasks most exposed to AI:**
+
+- Place orders via self-service ordering systems or mobile apps
+- Process payments using mobile payment or self-checkout machines
+- Handle common customer inquiries via AI chatbot
+- Using electronic menus and recommendation algorithms to provide dish information
+
+**Where AI augments the role:**
+
+- AI analyzes customer preferences and allergy information to recommend personalized dishes
+- AI optimizes work schedules and serving times to improve service efficiency.
+- AI-assisted inventory management, automatically predicting ingredient demand and restocking
+- AI provides multilingual translation to assist in servicing international customers.
+- AI records customer history for personalized reception and follow-up
+
+**Human moat:**
+
+- Flexible problem-solving and creative adaptability in complex scenarios
+- Emotional connection and empathy in real human interactions
+- On-the-spot judgment in handling emergencies (e.g., complaints, allergic reactions)
+- The artistry of creating atmosphere and personalized service
+- Close trust-based relationships with customers and word-of-mouth recommendations
+
+**Skills to build:**
+
+- Learning to use AI ordering and POS systems
+- Mastery of basic customer data analysis tools
+- Improve cross-cultural communication and service skills
+- Learn emotional management and conflict resolution skills
+- Knowledge of catering hygiene regulations and food safety standards
+- Learning basic multilingual service phrases
+
+**Key growth areas:**
 
 - seasonal work
 - tourism industry
@@ -65,62 +100,64 @@ Serve food and beverages to customers in restaurants, bars, cafes, and other hos
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主担保，证明职位难以在当地招聘，适用于有工作合同的服务员 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙找工作，但要求高技能或硕士以上学历，不适合普通服务员 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsor is required, proving the position is difficult to recruit locally, applicable to service workers with work contracts |
+| Subclass Busqueda empleo (Job Search Visa) | It is allowed to find jobs in Spain, but requires high-skill or master's degrees or above, making it unsuitable for regular waiters |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Waiters？**
-- 喜欢与人交流、有服务意识的人
-- 适应弹性工作时间和快节奏环境的人
-- 希望在餐饮旅游业积累经验的人
+**Who is suited**
+- People who enjoy communication and have a service-oriented mindset.
+- People who adapt to flexible working hours and fast-paced environments
+- For those who wish to gain experience in the food and beverage tourism industry
 
-**谁不适合学Waiters？**
-- 不善于沟通或对客服务感到压力的人
-- 需要稳定朝九晚五作息的人
+**Who is not suited**
+- People who are not good at communication or feel pressured by customer service
+- People who need a stable nine-to-five schedule
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the main source of income for waiters in Spain?**
+A: Waiters' income consists of their base salary and tips, with tips usually accounting for a large proportion, and income is higher during peak seasons.
+
+**Q: Is it easy for foreigners to find waiter jobs in Spain and immigrate?**
+A: Waiters are low-skilled professions with narrow immigration pathways. Employer sponsorship is required, and proof of the position is difficult to recruit locally, usually requiring language skills (Spanish), making immigration generally difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Waiters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main income source for waiters in Spain?**
-答：Waiters' income consists of base salary and tips, with tips forming a significant portion, especially during peak seasons.
-
-**问：Is it easy for foreigners to find waiter jobs and immigrate to Spain?**
-答：Waiter is a low-skilled occupation with limited migration pathways. Employer sponsorship and proof of local shortage are required, along with Spanish language skills. Overall, immigration is difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

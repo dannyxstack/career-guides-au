@@ -1,61 +1,97 @@
-# Pipe Fitter and Pipe Fabricator（Pipe Fitter and Pipe Fabricator）职业分析 · FR
+# Pipe Fitter and Pipe Fabricator — career analysis · France
 
-**职业代码：H2914 – Pipe Fitter and Pipe Fabricator。**
+**Occupation code: H2914 (ROME)**
 
-Specializes in cutting, bending, assembling, and welding pipes for industrial and construction systems, ensuring compliance with specifications and safety standards.
+Responsible for cutting, bending, assembling, and welding industrial and construction pipelines, ensuring pipeline systems meet specifications and operate safely.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立学校免费，私立约3000欧元；常通过学徒制带薪学习） |
-| Bac Pro（职业高中文凭） | 3年 | —（公立教育免费，私立约5000欧元；含大量实践） |
-| BTS（高级技师证书） | 2年（Bac+2） | —（公立约0-800欧元/年；私立更高；可学徒制） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros; Paid apprenticeship learning is often used) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$5,000 (Public education is free, private education is about 5,000 euros; Includes extensive practical experience) |
+| BTS (Senior Technician Certificate) | 2 years (Bac+2) | $0~$8,000 (Public schools: about 0-800 euros per year; Private schools have higher grades; Apprenticeship system is permitted) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Monteur en Installations Sanitaires | 法国教育部 | 可选 | 基础入门文凭，非强制但行业认可 |
-| 焊接证书（如ASME/AWS标准） | 国际焊接学会或法国标准化协会 | 可选 | 高级管道工必要，提升薪资与就业机会 |
-| CACES（起重与高空作业卡） | 法国CNAM或授权机构 | 必备 | 工地必备安全认证，部分雇主要求 |
-| Qualification de soudeur | 法国焊接协会 | 必备 | 特定行业（如核能）强制要求 |
+| CACES (Lifting and Aerial Work Card) | French CNAM or authorized institutions | Required | Construction site safety certifications are mandatory and required by some employers |
+| Qualification de soudeur | French Welding Association | Required | Specific industries (such as nuclear energy) are required to do so |
+| CAP Monteur en Installations Sanitaires | French Ministry of Education | Optional | Basic introductory diploma, not mandatory but industry-recognized |
+| Welding certificates (such as ASME/AWS standards) | International Welding Society or French Standardization Association | Optional | Senior plumbers are essential, increasing salaries and job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。法国能源转型（核能、氢能）及基础设施更新推动管道工需求，尤其核电和化工领域。预计未来5年岗位稳定，但受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. France's energy transition (nuclear and hydrogen) and infrastructure upgrades are driving demand for pipelines, especially in nuclear power and chemical sectors. Positions are expected to remain stable over the next five years, but will be affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒津贴可能更低 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含加班与补贴 |
-| 高级（7年以上/焊接专家） | $35,000~$45,000 | 税前年薪，含资质与项目津贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprenticeship allowances, may be even lower |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, including overtime and subsidies |
+| Senior (over 7 years / welding specialist) | $35,000~$45,000 | Pre-tax annual salary, including qualifications and project allowances |
+| average salary | $29,004 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从学徒晋升为熟练工，再至监理或技师。部分进入项目工程管理或自雇。需持续考取焊接资质以提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pipeline installers and assemblers face moderate automation risks; digital modeling and automated cutting and welding will replace some tasks, but on-site flexible assembly and compliance responsibilities depend on humans, and enhanced tools can improve efficiency, which is a mixed bag.
+
+You can be promoted from apprentice to skilled worker, then to supervisor or technician. Some enter project engineering management or self-employment. Continuous certification for welding is necessary to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic pipe cutting and groove processing
+- Pipes are automatically bent based on digital models
+- Standard welding is robotically automated welding
+- AI image recognition is used for automatic weld inspection
+- Automatic assembly of the robotic arm for prefabricated modules
+
+**Where AI augments the role:**
+
+- Use AR glasses for pipeline laying navigation and real-time calibration
+- AI-assisted design optimizes routing for complex piping systems
+- Digital twin simulation and stress testing reduce rework rates
+- Handheld smart welding equipment guides manual welding quality
+- The intelligent dispatch system arranges installation processes and resources
+
+**Human moat:**
+
+- On-site flexible measurement and adaptation in non-standard spaces
+- Fault diagnosis and manual repair for complex pipeline network systems
+- Safety coordination and responsibility decision-making under cross-construction conditions
+- Manual modification of irregularly shaped pipe fittings during the renovation of old systems
+- Signing for the first piece inspection and acceptance of welding and installation quality
+
+**Skills to build:**
+
+- Digital modeling and BIM software (such as Revit)
+- Automatic welding and robot collaboration operations
+- Additive Manufacturing (Metal 3D Printed Pipe Fittings)
+- Intelligent inspection tools such as ultrasonic weld seam scanning
+- Project progress management and digital reporting skills
+- Field edge computing and sensor setup
+
+**Key growth areas:**
 
 - Energy transition
 - Nuclear power
@@ -64,68 +100,67 @@ Specializes in cutting, bending, assembling, and welding pipes for industrial an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 受雇工作居留，需雇主担保及法国劳工局（France Travail）审核，适用于长期合同。 |
-| Subclass Passeport Talent（Talent Passport (Passeport Talent)） | 适用于高技能人才，年薪需达约2倍SMIC（约37,000欧元），可简化程序。 |
-| Subclass Carte bleue UE（EU Blue Card (Carte bleue européenne)） | 欧盟蓝卡，要求年薪约53,000欧元（2025标准），适合资深焊接专家或项目主管。 |
+| Subclass Salarié (Employee (Salarié)) | Employed work residence requires employer sponsorship and review by the French Labour Agency (France Travail), applicable to long-term contracts. |
+| Subclass Passeport Talent (Talent Passport (Passeport Talent)) | Applicable to highly skilled talent, requiring an annual salary of about 2 times the SMIC (approximately 37,000 euros), with simplified procedures. |
+| Subclass Carte bleue UE (EU Blue Card (Carte bleue européenne)) | EU Blue Card, requiring an annual salary of about 53,000 euros (2025 standard), suitable for senior welding specialists or project supervisors. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pipe Fitter and Pipe Fabricator？**
-- 喜欢动手操作、体力充沛，对焊接或管道安装有热情
-- 愿意接受工地环境、出差及加班
-- 希望通过学徒制边学边赚，快速进入劳动力市场
-
-**谁不适合学Pipe Fitter and Pipe Fabricator？**
-- 不能适应户外或高空作业者
-- 排斥持续认证考试与安全培训者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work, is physically strong, and passionate about welding or pipeline installation
+- Willing to accept the construction site environment, business trips, and overtime
+- Looking to earn while learning through an apprenticeship and quickly enter the workforce
+
+**Who is not suited**
+- Those who cannot adapt to outdoor or high-altitude work
+- Dislike of ongoing certification exams and safety training.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level for plumbers in France?**
+A: Junior approx. 22,000-28,000 EUR, intermediate 28,000-35,000, senior welders can reach 45,000+ EUR. Overtime and site allowances can significantly increase income.
+
+**Q: How can foreign plumbers immigrate to France?**
+A: You can apply through Salarié work residence (employer sponsorship), Passeport Talent (high skill, annual salary standard), or EU Blue Card (high salary). France is in short supply for plumbers, which is convenient for applications.
+
+**Q: Does France recognize foreign pipeline professional qualifications?**
+A: You must pass the French professional qualification certification (Reconnaissance des Qualifications), especially the welding certificate. Some experience can be exempted from CAP or BTS tuits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pipe Fitter and Pipe Fabricator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pipe fitters in France?**
-答：Entry-level: €22k-28k; intermediate: €28k-35k; senior welders up to €45k+. Overtime and site allowances can increase earnings.
-
-**问：How can a foreign pipe fitter immigrate to France?**
-答：Via Salarié work permit (employer sponsorship), Talent Passport (high salary), or EU Blue Card. Shortage occupation increases chances.
-
-**问：Are foreign pipe fitting qualifications recognized in France?**
-答：Requires recognition (reconnaissance des qualifications), especially for welding. Experience may lead to exemption of CAP/BTS.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

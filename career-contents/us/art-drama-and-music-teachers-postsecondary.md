@@ -1,58 +1,94 @@
-# Art, Drama, and Music Teachers, Postsecondary（Art, Drama, and Music Teachers, Postsecondary）职业分析 · 美国
+# Art, Drama, and Music Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1121 – Art, Drama, and Music Teachers, Postsecondary。**
+**Occupation code: 25-1121 (SOC)**
 
-Teach courses in drama, music, and arts including fine and applied art at postsecondary level, combining teaching with research.
+Teaches art, drama, music, and other courses such as painting, sculpture, design, and craft at colleges or universities, balancing teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士 | 2年 | $30,000~$80,000（顶尖艺术院校学费较高，公立大学相对便宜） |
-| 博士 | 4-6年 | $40,000~$120,000（部分博士项目提供全额奖学金） |
+| Master's degree | 2 years | $30,000~$80,000 (Top art schools have higher tuition; public universities are relatively cheaper) |
+| Doctorate | 4-6 years | $40,000~$120,000 (Some PhD programs offer full scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术硕士（MFA）或博士 | 认证大学 | 可选 | 通常需硕士或博士学位，博士在终身教职评选中更有利 |
-| 教师资格认证 | 州教育委员会 | 可选 | 社区学院可能要求，四年制大学通常不强制 |
+| Master of Fine Arts (MFA) or PhD | Accredited university | Optional | Usually requires a master's or doctorate; a PhD is more advantageous for tenure track positions |
+| teacher certification | State Board of Education | Optional | Community colleges may require, four-year universities usually do not mandate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 96,000。美国高等教育艺术类教师岗位增长稳定，2023-2033年预计增长约8%，但受高校预算和招生影响，竞争激烈，兼职岗位较多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 96,000. Job growth for arts teachers in U.S. higher education is steady, with an estimated increase of about 8% from 2023 to 2033, but competition is fierce due to university budgets and enrollment, with many part-time positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 助理教授或兼职讲师 |
-| 中级（4-9年） | $60,000~$85,000 | 副教授 |
-| 高级（10年以上） | $80,000~$120,000 | 正教授或系主任 |
+| Median salary | $78,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Assistant professor or part-time lecturer |
+| Intermediate (4-9 years) | $60,000~$85,000 | associate professor |
+| Senior (10+ years) | $80,000~$120,000 | Full professor or department head |
+| average salary | $94,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从助理教授起步，晋升副教授、正教授；部分转向系主任或行政岗位，也可专注创作或研究。需持续出版作品或举办展览。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually starts as assistant professor, advances to associate professor, full professor; some move to department chair or administrative roles, or focus on creative work or research. Requires continuous publication of works or exhibitions.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Arts Education
 - Digital Media
@@ -61,65 +97,64 @@ Teach courses in drama, music, and arts including fine and applied art at postse
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学职位通常免抽签，可直接申请H-1B |
-| Subclass EB-2（Employment-Based Second Preference） | 拥有硕士及以上学位可申请，需PERM或NIW |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出艺术家或学者可申请，需证明成就 |
+| Subclass H-1B (H-1B Specialty Occupation) | University positions are usually exempt from the cap and can apply for H-1B directly |
+| Subclass EB-2 (Employment-Based Second Preference) | A master's degree or higher required; application via PERM or NIW. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Outstanding artists or scholars may apply, with proven achievements |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Art, Drama, and Music Teachers, Postsecondary？**
-- 具有艺术创作热情和教学能力的人
-- 喜欢学术自由、注重创意表达的人
-- 愿意持续产出作品或研究成果的人
-
-**谁不适合学Art, Drama, and Music Teachers, Postsecondary？**
-- 追求高薪或稳定工作的人
-- 不喜欢科研或创作压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with artistic creativity and teaching ability
+- Individuals who value academic freedom and creative expression
+- People willing to continuously produce work or research results
+
+**Who is not suited**
+- People seeking high salary or stable jobs
+- People who dislike research or creative pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for art teachers?**
+A: Entry-level about US$45,000-65,000, mid-level $60,000-85,000, senior $80,000-120,000. Part-time lecturers earn less; tenure-track positions are more stable.
+
+**Q: How can art teachers immigrate to the US?**
+A: Typically move to the US on an H-1B (university exemption from cap) and then apply for an EB-2 green card. Outstanding artists may apply for an O-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Art, Drama, and Music Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for art teachers?**
-答：Entry-level $45,000-$65,000, mid-level $60,000-$85,000, senior $80,000-$120,000. Part-time lecturers earn less; tenured positions are more stable.
-
-**问：How can art teachers immigrate to the US?**
-答：Usually via H-1B (universities exempt from cap), then EB-2 green card. Outstanding artists may apply for O-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,56 +1,92 @@
-# Elementary Worker Not Elsewhere Classified（Elementary Worker Not Elsewhere Classified）职业分析 · IT
+# Elementary Worker Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：9629 – Elementary Worker Not Elsewhere Classified。**
+**Occupation code: 9629 (ISCO08)**
 
-Performs simple physical or service tasks not elsewhere classified, such as carrying, cleaning, or assisting, with low skill barriers across multiple sectors in Italy.
+Engaging in simple manual or service work not classified elsewhere, such as moving, cleaning, assisting, etc., with demand in various sectors in Italy but lower skill requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 小学教育 | 5年 | —（意大利义务教育免费，通常无额外成本） |
+| Primary Education | 5 years | $0~$0 (Compulsory education in Italy is free, usually with no additional costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | N/A | 可选 | 通常仅需基本读写能力，部分雇主可能要求健康证明 |
+| No mandatory qualification requirements | N/A | Optional | Typically only basic literacy is required; some employers may require a health certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 450,000。意大利基层劳动力需求稳定，尤其在服务业和农业季节性用工中。但自动化替代风险较高，整体就业增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 450,000. Demand for grassroots labor in Italy remains stable, especially in services and seasonal agricultural work. However, the risk of automation replacement is high, and overall employment growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 税前年薪，含临时合同 |
-| 中级（3-7年） | $18,000~$22,000 | 税前年薪，通常为永久合同 |
-| 高级（7年以上） | $22,000~$26,000 | 税前年薪，可能包含加班费 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$18,000 | Pre-tax annual salary, including temporary contracts |
+| Mid-level (3–7 years) | $18,000~$22,000 | Annual salary before tax, usually permanent contract |
+| Senior (7+ years) | $22,000~$26,000 | Annual pre-tax salary, may include overtime pay. |
+| average salary | $20,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 晋升路径有限，可通过积累经验转向物流、餐饮等对口岗位；或参加短期培训成为技术工人，实现收入提升。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly impact unclassified frontline workers: many repetitive manual tasks will be replaced by robots or algorithms, reducing job demand; however, some tasks requiring human judgement will remain.
+
+Limited advancement paths; can transition to logistics, catering, or similar roles through experience; or take short-term training to become a skilled worker for income growth.
+
+**Tasks most exposed to AI:**
+
+- Simple goods handling and stacking: replaced by autonomous mobile robots (AMRs)
+- Basic cleaning (e.g., sweeping, mopping): replaced by automatic floor scrubbers or robotic vacuums
+- Item classification and sorting: replaced by computer vision systems
+- Mail or document distribution: replaced by digital notification systems
+- Inventory counting assistance: replaced by RFID and drones
+
+**Where AI augments the role:**
+
+- Task scheduling and priority arrangement: AI optimizes daily work lists
+- Equipment failure warning: AI analyzes sensor data to remind of maintenance
+- Customer communication records: AI automatic transcription and classification of feedback
+- Safety compliance checks: AI-assisted identification of hazardous areas
+- Basic communication in multilingual environments: assisted by real-time translation tools
+
+**Human moat:**
+
+- Adaptability to unstructured environments (e.g., ad-hoc assembly tasks)
+- Complex emotional communication and customer service (e.g., appeasing dissatisfied customers)
+- Cross-task flexible decision-making (when AI recommendations are unclear)
+- Fine manual operations (e.g., art packaging)
+- Teamwork and on-site coordination skills
+
+**Skills to build:**
+
+- Basic digital literacy (managing tasks using tablets/mobile phones)
+- Operate semi-automated equipment (e.g., cleaning robots)
+- Basic Data Analysis (Understanding Task Efficiency Reports)
+- Interpersonal communication and customer service skills
+- Basic English or a second language (to adapt to multicultural work environments)
+- Safety and compliance basic training
+
+**Key growth areas:**
 
 - Seasonal Demand
 - Service Sector
@@ -59,66 +95,65 @@ Performs simple physical or service tasks not elsewhere classified, such as carr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟劳工在意大利从事基层工作，需雇主申请配额，每年有名额限制。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民无需签证即可在意大利工作，但对非欧盟公民不适用。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU workers in Italy taking low-skilled jobs; requires employer to apply for a quota, with annual limits. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work in Italy without a visa, but this does not apply to non-EU citizens. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Elementary Worker Not Elsewhere Classified？**
-- 初来意大利、语言能力有限、急需就业的非欧盟劳工
-- 愿意从事体力劳动、不介意低薪的求职者
-
-**谁不适合学Elementary Worker Not Elsewhere Classified？**
-- 追求职业成长和高收入的人群
-- 希望获得稳定居留并长期发展的移民
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Non-EU workers newly arrived in Italy with limited language skills and urgent employment needs
+- Job seekers willing to do manual labor and not minding low pay
+
+**Who is not suited**
+- People pursuing career growth and high income
+- Migrants seeking stable residency and long-term development
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a grassroots worker in Italy?**
+A: Junior approx. €15,000-18,000, mid-level €18,000-22,000, senior €22,000-26,000 (pre-tax).
+
+**Q: How can non-EU citizens obtain a basic work visa for Italy?**
+A: Work visa through Decreto Flussi quota, requires employer application, annual quotas are limited and competitive.
+
+**Q: Are there promotion opportunities for entry-level positions?**
+A: Limited, but can shift to skilled roles in logistics, hospitality, etc. through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Elementary Worker Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for elementary workers in Italy?**
-答：Entry-level approximately €15,000-€18,000, mid-level €18,000-€22,000, senior €22,000-€26,000 (gross).
-
-**问：How can non-EU citizens obtain a work visa for elementary jobs in Italy?**
-答：Via Decreto Flussi quota work visa, employer-sponsored with annual caps, highly competitive.
-
-**问：Are there promotion opportunities for elementary workers?**
-答：Limited, but training can lead to skilled roles in logistics or hospitality.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

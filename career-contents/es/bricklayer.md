@@ -1,60 +1,96 @@
-# Bricklayer（Bricklayer）职业分析 · ES
+# Bricklayer — career analysis · Spain
 
-**职业代码：7121 – Bricklayer。**
+**Occupation code: 7121 (CNO)**
 
-Bricklayers lay bricks, blocks, tiles, and stone in construction, a foundational trade in Spain's building sector for residential, commercial, and renovation projects.
+Bricklayers mainly handle bricklaying, block laying, laying tiles, and stone. They are a fundamental trade in Spain's construction industry, involving new residential buildings, commercial buildings, and renovation projects.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立FP免费，私立约2000-5000欧元/年） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（企业带薪培训，学费低或免费） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$5,000 (Public Affordable Courses (FP) are free, while private ones pay about 2,000-5,000 euros per year) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$3,000 (Corporate paid training, with low or free tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑行业安全卡（Tarjeta Profesional de la Construcción） | Fundación Laboral de la Construcción | 必备 | 从事建筑工地必须持有，需通过安全培训 |
-| 职业培训文凭（Técnico en Construcción） | 教育部/劳动局 | 可选 | FP Grado Medio毕业证书，非强制但有助于就业 |
+| Construction Industry Safety Card (Tarjeta Profesional de la Construcción) | Fundación Laboral de la Construcción | Required | Construction sites must hold these and pass safety training |
+| Diploma in Vocational Training (Técnico en Construcción) | Ministry of Education/Labor Bureau | Optional | FP Grado Medio diploma, non-mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 110,000。西班牙建筑业复苏对砖瓦工需求稳定，但受经济周期影响大。2023年就业人数约11万，预计未来几年因住房更新和基建项目保持温和增长。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 110,000. Spain's construction industry recovery has created stable demand for bricklayers, but it is heavily affected by economic cycles. Employment numbers were about 110,000 in 2023, with moderate growth expected in coming years due to housing renewal and infrastructure projects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$24,000 | 税前年薪，常按日薪计（约70-90欧元/天） |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪，含加班及项目奖金 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，工头或自主经营者收入更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $19,000~$24,000 | Pre-tax annual salary, usually calculated as daily wage (about 70-90 euros/day) |
+| Mid-level (3–7 years) | $24,000~$30,000 | Pre-tax annual salary, including overtime and project bonuses |
+| Senior (7+ years) | $30,000~$38,000 | Pre-tax annual salary: foremen or self-employed individuals earn more |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从业者可从普通砖瓦工晋升为工头或施工监督，也可通过经验积累和培训转向建筑管理或自主创业（分包商）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bricklayers face the dual impact of AI and automation tools: BIM and bricklaying robots will reduce some repetitive tasks, but on-site adaptability, meticulous finishing, and quality control still rely on manual labor, making overall employment risks manageable in the short term.
+
+Practitioners can be promoted from ordinary bricklayers to foremen or construction supervisors, or through experience accumulation and training, transition to construction management or entrepreneurship (subcontractors).
+
+**Tasks most exposed to AI:**
+
+- Reconstruction of standard-sized bricks (such as fences and partitions)
+- Layout and masonry path planning based on BIM models
+- Monitoring tasks for automatic mortar mixing and conveying
+- Partial dimensional measurement and recording in masonry quality inspection
+- Construction of standardized components such as simple fireplaces and chimneys
+
+**Where AI augments the role:**
+
+- BIM software is used for 3D masonry layout optimization and collision inspection
+- Precise staking is achieved with the help of laser rangefinders and digital levels
+- The main structure is completed by bricklaying robots, while manual handling of complex corners and edge finishing
+- Use drones or cameras to assist high-altitude masonry quality inspections
+- Combining AR glasses with drawings and real-time progress feedback
+
+**Human moat:**
+
+- Handcrafted techniques for complex and irregular masonry (arches, curved surfaces, restoration of historic buildings).
+- Assessment and repair of on-site emergencies (material deviations, structural conflicts)
+- The ability to communicate with owners and designers and adjust plans
+- Precise finishing work (seam joining, finishing, waterproof layer treatment) for texture control
+- On-site leadership and scheduling in multi-trade collaboration
+
+**Skills to build:**
+
+- Basic operations of BIM software (such as Autodesk Revit, Tekla).
+- Digital Surveying and Lofting Tools (Total Station, Laser Scanner)
+- Programming and maintenance of bricklaying robots (such as SAM100).
+- Building Information Management and Digital Document Processing
+- Green building masonry technology and sustainable material knowledge
+- Safety production and quality control management capabilities
+
+**Key growth areas:**
 
 - Construction recovery
 - Renovation projects
@@ -63,62 +99,67 @@ Bricklayers lay bricks, blocks, tiles, and stone in construction, a foundational
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需西班牙公司提供工作合同，经劳工局审批，证明岗位无法由本地人填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月找工作的签证，需经济能力证明，但砖瓦工非高技能岗位，获批难度大。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish company, approved by the Labor Bureau, and proven that the position cannot be filled by a local resident. |
+| Subclass Busqueda empleo (Job Search Visa) | A visa allowing a 6-month stay in Spain to look for work requires proof of financial capability, but bricklayers are non-high-skilled positions and are difficult to approve. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bricklayer？**
-- 体力好、适应户外及高空作业的人
-- 喜欢动手、对建筑行业有热情者
-- 愿意通过学徒制学习技能的人
+**Who is suited**
+- People with good physical strength who are adapted to outdoor and high-altitude work
+- Those who enjoy hands-on activities and are passionate about the construction industry
+- People willing to learn skills through an apprenticeship
 
-**谁不适合学Bricklayer？**
-- 不喜体力劳动或对灰尘/噪音敏感者
-- 希望快速获得高薪或办公室工作的人
+**Who is not suited**
+- Those who dislike physical labor or are sensitive to dust/noise
+- People who want to quickly secure a high salary or office job
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for bricklayers in Spain?**
+A: Entry-level about 19,000-24,000 EUR, mid-level 24,000-30,000, senior up to 38,000 EUR (pre-tax), actual income varies by region, project type, and self-employment status.
+
+**Q: Can non-EU citizens immigrate to Spain through the bricklayer profession?**
+A: It's tough. Bricklayers are non-high-skilled occupations and do not meet the requirements for the EU Blue Card. A job contract sponsored by a Spanish company is required, and it must be proven that the position cannot be filled locally; the annual quota is limited.
+
+**Q: What career development paths are available for bricklayers?**
+A: You can be promoted to foreman (encargado), construction supervisor (capataz), or through further training to become a construction technical engineer (FP Superior). You can also start your own business and contract small projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 2-3年（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bricklayer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for a bricklayer in Spain?**
-答：Entry-level earns €19,000-€24,000, mid-level €24,000-€30,000, senior up to €38,000 (gross), varying by region, project type, and self-employment status.
-
-**问：Can non-EU citizens immigrate to Spain as a bricklayer?**
-答：Very difficult. Bricklayer is not a high-skilled occupation and does not qualify for the EU Blue Card. Requires a company-sponsored work contract with proof of labor shortage, subject to annual quotas.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

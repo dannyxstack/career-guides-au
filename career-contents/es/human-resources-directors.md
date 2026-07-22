@@ -1,58 +1,94 @@
-# Human Resources Directors（Human Resources Directors）职业分析 · ES
+# Human Resources Directors — career analysis · Spain
 
-**职业代码：1212 – Human Resources Directors。**
+**Occupation code: 1212 (CNO)**
 
-Human Resources Directors develop and implement HR strategies, overseeing recruitment, training, compensation, employee relations, and compliance.
+The HR Director is responsible for formulating and executing the company's HR strategy, covering recruitment, training, compensation and benefits, employee relations, and compliance management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $2,500~$8,000（公立大学学费） |
-| 硕士（Máster） | 1年 | $3,000~$12,000（人力资源或MBA方向） |
+| Undergraduate (Grado) | 4 years | $2,500~$8,000 (Public university tuition) |
+| Máster | 1 year | $3,000~$12,000 (Human Resources or MBA Direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人力资源管理学位 | 西班牙大学 | 可选 | 相关本科或硕士学历通常为必要条件 |
-| MBA或高级管理课程 | 商学院（如IESE、ESADE） | 可选 | 提升战略管理能力，非强制但常见 |
+| Degree in Human Resource Management | Spanish University | Optional | A relevant bachelor's or master's degree is usually a requirement |
+| MBA or Advanced Management Program | Business schools (such as IESE, ESADE) | Optional | Enhancing strategic management capabilities is not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★½☆）。** 全国从业人数约 8,500。随着西班牙企业数字化转型和远程办公普及，HR总监需精通数据分析与劳动法，就业需求稳定，尤其在大型企业和跨国公司。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. With the digital transformation and widespread remote work among Spanish enterprises, HR directors need to be proficient in data analysis and labor law, maintaining stable employment demand, especially in large corporations and multinational corporations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（4-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $65,000~$100,000 | 税前年薪，大型企业或跨国公司更高 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $65,000~$100,000 | Pre-tax annual salaries are higher for large corporations or multinational corporations |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从HR经理晋升至HR总监，再至首席人力资源官（CHRO）或VP of HR；需积累跨部门经验、掌握战略规划及数字化工具。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The HR director position is generally mixed: administrative tasks (such as data organization and compliance reporting) are compressed by AI automation, but strategic decision-making, cultural development, and complex interpersonal coordination are amplified by AI-enhanced value.
+
+You can advance from HR Manager to HR Director, and then to Chief Human Resources Officer (CHRO) or VP of HR; Accumulate cross-departmental experience and master strategic planning and digital tools.
+
+**Tasks most exposed to AI:**
+
+- Compensation data processing and compliance report generation
+- Resume screening and candidate matching notification
+- Automated training course scheduling and recording
+- Employee attendance and leave management statistics
+- Drafting and updating policy documents
+
+**Where AI augments the role:**
+
+- Use AI to analyze employee turnover and engagement data to develop retention strategies
+- Optimize recruitment channels and talent profiling through predictive modeling
+- Use natural language processing tools for employee feedback sentiment analysis
+- Use AI to simulate training outcomes and recommend personalized learning paths
+- Automatically generate compensation adjustment recommendations based on market data
+
+**Human moat:**
+
+- Formulate and promote the implementation of corporate culture and values
+- Senior personnel negotiations and labor conflict mediation
+- Strategic talent planning and organizational structure design
+- Humanized communication and reassurance during management change
+- Ethical judgment and correction of AI output results
+
+**Skills to build:**
+
+- Human resource management data analysis (such as Python/R)
+- AI tool applications (such as HR chatbots, predictive models)
+- Digital Change Management Methodology
+- Employee experience design and psychological knowledge
+- Strategic thinking and business acumen
+- Data Visualization (Power BI/Tableau)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Remote Work
@@ -61,67 +97,66 @@ Human Resources Directors develop and implement HR strategies, overseeing recrui
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高薪技术人才，年薪需达约33,000欧元以上，需雇佣合同。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能人才，年薪要求约40,000欧元以上，流程简化。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 常规受雇工作居留，需雇主担保，符合市场劳动力测试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-paying technical talents, with an annual salary of about 33,000 euros or more and an employment contract required. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled talent, the annual salary requirement is around 40,000 euros or more, with a streamlined process. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment residency requires employer sponsorship and meets market labor force testing. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Human Resources Directors？**
-- 具战略思维与领导力，善于处理复杂人际关系
-- 了解劳动法与组织发展，有跨文化管理意愿
-
-**谁不适合学Human Resources Directors？**
-- 不喜处理行政细节与员工纠纷
-- 缺乏抗压能力与决策力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strategic thinking and leadership, adept at handling complex interpersonal relationships
+- Understand labor law and organizational development, and have a willingness to manage across cultures
+
+**Who is not suited**
+- Dislikes handling administrative details and employee disputes
+- Lack of stress resistance and decision-making ability
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for HR directors in Spain?**
+A: Junior approximately 30,000-40,000 EUR, intermediate 45,000-60,000, senior 65,000-100,000 EUR (annual pre-tax salary), higher in large companies or multinationals.
+
+**Q: How can foreigners immigrate to Spain through the HR Director position?**
+A: You can obtain an EU Blue Card (annual salary of about 33k euros or above) or Highly Skilled Professional Residence (annual salary of about 40k or more), with an employer contract required.
+
+**Q: What is the career advancement path for HR directors?**
+A: Typically, the promotion from HR Manager to HR Director, and then to Chief Human Resources Officer (CHRO) or Vice President of HR requires expanding strategic and business knowledge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Human Resources Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for HR Directors in Spain?**
-答：Entry-level: €30K-40K; Mid-level: €45K-60K; Senior: €65K-100K (gross annual), higher in large or multinational firms.
-
-**问：How can foreigners immigrate to Spain as HR Directors?**
-答：Via EU Blue Card (salary >€33k) or Highly Qualified Professional visa (salary >€40k), requiring an employment contract.
-
-**问：What is the career progression for HR Directors?**
-答：Typically from HR Manager to HR Director, then to CHRO or VP of HR, requiring strategic and business acumen.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

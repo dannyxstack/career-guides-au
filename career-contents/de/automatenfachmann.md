@@ -1,60 +1,93 @@
-# Automatenfachmann（Automatenfachmann）职业分析 · DE
+# Automatenfachmann — career analysis · Germany
 
-**职业代码：6114 – Automatenfachmann。**
+**Occupation code: 6114 (KldB)**
 
-Responsible for installing, maintaining, refilling and cash collection of vending machines (drinks, snacks, tobacco), ensuring machine uptime and optimizing sales.
+Responsible for installing, maintaining, restocking, and cash management of vending machines (e.g. beverages, snacks, tobacco), ensuring normal operation and optimizing sales.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间有津贴，通常由企业承担费用） |
-| 内部培训/转行 | 6-12个月 | $2,000~$5,000（针对有技术背景的转行者，通过内部培训入职） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Allowances during training, usually covered by the company.) |
+| Internal training/career change | 6–12 months | $2,000~$5,000 (Career changers with technical backgrounds can join through internal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自动售货机服务商资格证书（IHK） | 德国工商业联合会（IHK） | 必备 | 双元制培训后通过结业考试获得，行业标准资格 |
-| 电工安全认证（如 DGUV V3） | 德国法定事故保险机构 | 可选 | 处理电气部件时需要，可附加培训获得 |
+| Vending machine service provider qualification (IHK) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after passing the final exam in a dual training system; industry-standard qualification |
+| Electrical safety certification (e.g., DGUV V3) | German statutory accident insurance institution | Optional | Required when handling electrical components; can be acquired through additional training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。德国自动售货机数量稳步增长（超100万台），行业对熟练服务人员的需求稳定，尤其大城市和展会区域。数字化转型（远程监控）带来新技能要求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The number of vending machines in Germany is steadily growing (over 1 million units); demand for skilled service personnel is stable, especially in major cities and exhibition areas. Digital transformation (remote monitoring) brings new skill requirements.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税后月薪约€1800-2300 |
-| 中级（3-7年） | $32,000~$40,000 | 可能包括绩效奖金 |
-| 高级（7年以上/主管） | $40,000~$50,000 | 区域主管或技术专家可达€50000+ |
+| Median salary | $64,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Monthly net salary approximately €1,800-2,300 |
+| Mid-level (3–7 years) | $32,000~$40,000 | May include performance bonuses |
+| Senior (7+ years/supervisor) | $40,000~$50,000 | Regional supervisor or technical expert can reach €50,000+ |
+| average salary | $72,672 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级服务人员晋升为区域主管或技术专家；积累经验后可转向安装/维修或自主创业。继续教育可考取“服务技术员”资格。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Vending machine service work faces dual impact from AI and automation: routine tasks like restocking and cash management can be automated, but equipment maintenance and on-site services still rely on human labor; the job outlook is mixed.
+
+Can advance from junior service staff to regional supervisor or technical specialist; with experience, can transition to installation/repair or start own business. Further education can lead to 'service technician' certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically predict restocking timing through AI inventory management systems, reducing manual counts
+- Cashless payments and remote monitoring replace cash collection and machine status checks
+- AI scheduling optimizes replenishment routes, reducing demand for manual planning
+- Automated fault diagnosis systems replace some on-site repair inspections
+
+**Where AI augments the role:**
+
+- AI predicts sales data, helping optimize machine placement and product mix
+- Real-time alerts from remote monitoring platforms make maintenance more timely and efficient
+- Augmented Reality (AR)-assisted maintenance, improving complex fault handling
+- Customer data analysis guides promotion and pricing strategies
+
+**Human moat:**
+
+- On-site machine hardware repair and complex troubleshooting
+- Communicate with clients to resolve complaints and special needs
+- Flexibly install and debug equipment in remote or complex environments
+- Handle non-standard situations such as vandalism, theft, or system anomalies
+
+**Skills to build:**
+
+- Basic electrical and mechanical repair skills
+- Use of data analysis tools (e.g., Excel, basic BI)
+- Mobile inventory management app operations
+- Customer communication and service skills
+- Remote monitoring system operation and preliminary fault diagnosis
+- Basic cybersecurity awareness (preventing payment system risks)
+
+**Key growth areas:**
 
 - Vending Machine Expansion
 - Digital Monitoring
@@ -63,66 +96,68 @@ Responsible for installing, maintaining, refilling and cash collection of vendin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国寻找工作6个月，适用于有双元制培训资质者 |
-| Subclass Skilled Worker（Skilled Worker Visa (Non-degree)） | 若获得IHK证书并找到工作，可申请技术移民 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许在德国找工作一年，适合有职业资格者 |
+| Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months for job seeking in Germany, applicable to those with dual system training qualifications |
+| Subclass Skilled Worker (Skilled Worker Visa (Non-degree)) | If you obtain an IHK certificate and find a job, you can apply for skilled migration |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, allows job-seeking in Germany for one year, suitable for qualified professionals |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automatenfachmann？**
-- 喜欢动手维修和安装工作的人
-- 愿意独立工作、经常出差（区域服务）的人
-- 对零售技术有兴趣的务实型人才
+**Who is suited**
+- People who enjoy hands-on repair and installation work
+- People willing to work independently and travel frequently (regional service)
+- Pragmatic talent interested in retail technology
 
-**谁不适合学Automatenfachmann？**
-- 不喜欢体力劳动或户外工作的人
-- 希望高薪或快速升职的人
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for vending machine service providers?**
+A: Starting salary approximately €25,000-32,000/year (after-tax €1,800-2,300/month), intermediate around €32,000-40,000, senior manager up to €50,000. Performance bonuses available.
+
+**Q: Can foreigners work as vending machine service technicians? Is certification required?**
+A: Yes. Requires completion of German dual vocational training (Ausbildung) and obtaining an IHK certificate, or passing qualification recognition (Anerkennung) for foreign qualifications. Either an Opportunity Card or a skilled migration visa is acceptable.
+
+**Q: Does this career have growth prospects?**
+A: Stable. The vending machine market continues to grow, with digital transformation (remote monitoring, cashless payments) creating new opportunities. Can advance to supervisor or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Automatenfachmann属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Automatenfachmann?**
-答：Entry salary around €25,000-32,000 gross per year, mid-level €32,000-40,000, senior/supervisor up to €50,000.
-
-**问：Can foreigners become an Automatenfachmann? Is recognition required?**
-答：Yes. A German vocational training (Ausbildung) with IHK certificate is required, or foreign qualification recognition (Anerkennung). Opportunity Card or Skilled Worker visa are possible.
-
-**问：What are the career prospects?**
-答：Stable. Growing vending machine market, digitalization (remote monitoring, cashless) create opportunities. Can advance to supervisor or self-employment.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

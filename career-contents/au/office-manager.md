@@ -1,63 +1,94 @@
-# 办公室经理（Office Manager）职业分析 · 澳大利亚
+# Office Manager — career analysis · Australia
 
-**职业代码：512111 – Office Manager。**
+**Occupation code: 512111 (ANZSCO)**
 
-办公室经理统筹日常行政、采购、设施、人事与财务协调，是中小企业的运营枢纽，多由资深行政晋升，非技术移民职业。
+An office manager oversees day-to-day administration, procurement, facilities, HR and financial coordination — the operational hub of small to medium businesses, typically promoted from senior administrative roles and not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma of Business / Leadership（常见） | 1~2年 | $5,000~$18,000（或经验晋升） |
+| Diploma of Business / Leadership (common) | 1–2 years | $5,000~$18,000 (Or promoted through experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Diploma of Leadership and Management (BSB50420) | TAFE/RTO | 可选 | 非强制 |
+| Diploma of Leadership and Management (BSB50420) | TAFE/RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 120,000。中小企业持续需要全能型行政管理者，具备HR/财务/系统经验者薪资更高。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Small and medium-sized businesses have ongoing demand for all-round office administrators; those with HR, finance or systems experience command higher salaries.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,500~4,500 个 | 全国 |
-| Indeed | 1,800~3,200 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $65,000~$78,000 | 中小企业 |
-| 中级（3-8年） | $78,000~$95,000 | — |
-| 资深 | $95,000~$110,000 | 多职能 |
+| Median salary | $89,960 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $65,000~$78,000 | Small and medium-sized enterprises |
+| Mid-level (3–8 years) | $78,000~$95,000 | — |
+| Senior | $95,000~$110,000 | Multi-functional |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向运营经理、HR或Practice Manager发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Office manager roles face significant automation compression risk; AI and software directly replace core tasks like admin scheduling, document processing, and budget monitoring, but complex interpersonal coordination and strategic decisions still require humans.
+
+Can progress to Operations Manager, HR Manager or Practice Manager roles.
+
+**Tasks most exposed to AI:**
+
+- Schedule and meeting room coordination: AI tools automatically detect conflicts and optimize timelines
+- Purchase order processing: AI-driven system automatically matches inventory and generates orders
+- Routine financial report statistics: AI extracts data from ERP and generates monthly budget reports
+- Employee Attendance and Scheduling: AI Forecasts Staffing Needs Based on Historical Traffic
+- Office supply replenishment: AI monitors stock levels and auto-orders.
+
+**Where AI augments the role:**
+
+- Supplier negotiation: AI provides historical prices and alternative solution data to support decision-making
+- Incident coordination: AI aggregates departmental feedback in real-time and recommends solutions
+- Employee satisfaction analysis: AI processes questionnaire sentiment scores to aid benefit improvements
+- Compliance report writing: AI-generated first draft quickly finalized after human review
+- Budget alerts: AI predicts overspending risks and sends warnings
+
+**Human moat:**
+
+- Handling high-level interpersonal conflicts and sensitive employee disputes
+- Making strategic priority judgments in ambiguous situations
+- Cross-departmental cultural change and team cohesion
+- Maintain long-term trust relationships with key suppliers and clients
+- Taking ultimate responsibility for unconventional, high-risk decisions
+
+**Skills to build:**
+
+- Integrate AI office assistants (e.g., Microsoft Copilot, ChatGPT API) into task workflows
+- Learn data analysis fundamentals (SQL, BI tools) to autonomously generate management dashboards
+- Upgrade communication and negotiation skills to strengthen interpersonal moat
+- Obtain project management certification (PMP, PRINCE2) to manage AI-assisted hybrid teams
+- Learn Low-Code/Automation Platforms (Zapier, Power Automate) to Build Workflows
+- Understand basic employment laws and compliance requirements to review AI outputs
+
+**Key growth areas:**
 
 - Operations Coordination
 - HR & Payroll Admin
@@ -65,57 +96,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学办公室经理？**
-- 统筹能力强、细致的人
-- 资深行政想晋升管理者
-
-**谁不适合学办公室经理？**
-- 以技术移民为目标者
-- 不愿承担多线协调压力者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong coordination skills and attention to detail
+- Senior administrator looking to move into management
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not suited to those unwilling to handle multi-stream coordination pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an office manager in Australia?**
+A: Approximately AUD $65k~$110k, with higher pay for broader scope.
+
+**Q: Can an office manager migrate to Australia through skilled migration?**
+A: No, this is not a skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-办公室经理属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲办公室经理工资多少？**
-答：约AUD $6.5万~$11万，职能越全薪资越高。
-
-**问：办公室经理能技术移民吗？**
-答：不能，非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

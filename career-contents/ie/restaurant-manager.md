@@ -1,60 +1,95 @@
-# Restaurant Manager（Restaurant Manager）职业分析 · IE
+# Restaurant Manager — career analysis · Ireland
 
-**职业代码：1412 – Restaurant Manager。**
+**Occupation code: 1412 (ISCO08)**
 
-Restaurant managers oversee daily operations, including staff management, customer service, inventory control, and financial performance, ensuring profitability and compliance with health standards.
+Restaurant managers oversee daily operations, including staff management, customer service, inventory control, and financial performance, ensuring the restaurant is profitable and complies with hygiene standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求相关工作经验和培训） |
-| 酒店管理文凭 | 2年 | $10,000~$20,000（都柏林理工大学等院校提供） |
-| 本科学位 | 4年 | $15,000~$25,000（酒店管理或相关专业） |
+| High school graduation | None | $0~$0 (Typically requires relevant work experience and training) |
+| Hospitality management diploma | 2 years | $10,000~$20,000 (Offered by institutions such as Technological University Dublin) |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Hotel management or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 餐饮管理证书 | 爱尔兰技能网络 (Skillnet) | 可选 | 可选，提升管理技能 |
-| 食品安全证书 | HSE或认可培训机构 | 必备 | 法律要求，所有餐饮经理需持有 |
-| 酒类执照培训 | 酒类许可培训机构 | 可选 | 如需售酒，必须完成 |
+| Food safety certificate | HSE or accredited training providers | Required | Required by law, all food service managers must hold |
+| Certificate in Hospitality Management | Skillnet Ireland | Optional | Optional, improves management skills |
+| Liquor license training. | Liquor licensing training provider | Optional | Must complete if selling alcohol |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 8,000。爱尔兰旅游业持续增长，餐厅经理需求稳定，尤其在都柏林等城市。受疫情后复苏影响，预计未来五年就业增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,000. Ireland's tourism industry continues to grow, with stable demand for restaurant managers, especially in cities like Dublin. Affected by post-pandemic recovery, employment is expected to grow by about 5% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，高端的包括奖金 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, high-end includes bonuses |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径从助理经理到餐厅经理，再至区域经理或餐饮总监。积累经验后可自主创业开设餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on restaurant manager roles is mixed: scheduling, inventory counting, etc., are automated, but human strengths like customer experience management and team leadership are amplified, requiring proactive adoption of digital tools.
+
+Career progression from assistant manager to restaurant manager, then to regional manager or food and beverage director. With experience, you can start your own restaurant.
+
+**Tasks most exposed to AI:**
+
+- AI Scheduling System Automatically Generates Employee Rosters
+- Smart inventory management system monitors food consumption in real time and automatically places orders
+- AI-driven sales forecasting optimizes menu pricing and promotions
+- Chatbots handle common customer complaints and bookings
+- Automated financial systems generate daily revenue reports
+
+**Where AI augments the role:**
+
+- AI analyzes customer feedback data to customize personalized services and menu recommendations
+- Use smart dashboards to monitor operational KPIs in real-time for quick decision-making.
+- AI training simulator improves efficiency of employee service skills training
+- Dynamic pricing strategy based on historical data to optimize revenue
+- AI-assisted hygiene compliance checks, providing early risk warnings
+
+**Human moat:**
+
+- Flexible response and crisis management for on-site emergencies
+- Building trust with employees, suppliers, and clients
+- Creative menu design and special event planning
+- Building and maintaining team morale and culture
+
+**Skills to build:**
+
+- Learn restaurant management software (e.g., Toast, Square).
+- Master data analysis fundamentals (Excel, Tableau)
+- Familiar with AI customer service tool configuration and optimization
+- Improve communication and conflict resolution skills
+- Learn cost control and budget management
+- Stay updated on the latest food safety regulations
+
+**Key growth areas:**
 
 - Hospitality expansion
 - Tourism growth
@@ -63,68 +98,67 @@ Restaurant managers oversee daily operations, including staff management, custom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪至少30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，年薪需达到法定门槛（约60,000欧元）。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，需在海外公司工作至少6个月。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, requiring an annual salary of at least 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, with annual salary meeting the statutory threshold (approximately €60,000). |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, requiring at least 6 months of work in an overseas company. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Restaurant Manager？**
-- 具备领导力和团队管理能力的人
-- 热爱餐饮行业，能承受高压工作环境
-- 善于客户服务和解决问题
-
-**谁不适合学Restaurant Manager？**
-- 不适应长时间站立和不规律工作时间
-- 不擅长财务和库存管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership and team management skills
+- Passionate about the catering industry, able to work under high pressure
+- Skilled in customer service and problem solving
+
+**Who is not suited**
+- Unsuitable for long hours of standing and irregular work schedules
+- People who are not skilled in financial and inventory management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a restaurant manager in Ireland?**
+A: Junior about 28,000-35,000 euros, intermediate 35,000-45,000 euros, senior 45,000-60,000 euros, excluding tips.
+
+**Q: Can a restaurant manager immigrate to Ireland on a work visa?**
+A: Can apply for General Employment Permit, but requires annual salary ≥€30,000 and employer proof. This occupation is not on the Critical Skills list.
+
+**Q: Do you need a university degree to become a restaurant manager?**
+A: Not required, but a hotel management diploma or degree can enhance employment competitiveness. Practical experience is equally important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Restaurant Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a restaurant manager in Ireland?**
-答：Entry-level: €28,000–€35,000; mid-level: €35,000–€45,000; senior: €45,000–€60,000, excluding tips.
-
-**问：Can a restaurant manager immigrate to Ireland via a work visa?**
-答：Yes, via a General Employment Permit requiring a salary of at least €30,000 and employer sponsorship. This occupation is not on the Critical Skills list.
-
-**问：Is a university degree required to become a restaurant manager?**
-答：No, but a diploma or degree in hospitality management can improve job prospects. Practical experience is also valued.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

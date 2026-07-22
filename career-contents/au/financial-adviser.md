@@ -1,66 +1,94 @@
-# 持牌理财顾问（Financial Adviser）职业分析 · 澳大利亚
+# Financial Adviser — career analysis · Australia
 
-**职业代码：222313 – Financial Adviser。**
+**Occupation code: 222313 (ANZSCO)**
 
-持牌理财顾问为客户提供个人理财、退休金(Super)、保险与投资建议，须在 AFSL 下执业、满足 ASIC 的专业学历与考试标准(原 FASEA 框架)，行业供给紧缩使经验顾问薪资走高，非技术移民职业。
+Licensed financial advisors provide personal finance, superannuation, insurance, and investment advice to clients. They must operate under an AFSL and meet ASIC's professional qualifications and exam standards (formerly FASEA framework). Industry supply constraints have pushed up salaries for experienced advisors. This is a non-skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 金融/商科相关本科 + 认可学历 | 3~4年 | $20,000~$45,000（ASIC 学历标准） |
-| Financial Adviser Exam + Professional Year | 1年 | $1,000~$5,000（执业前提） |
+| Finance/business related bachelor's degree + accredited qualification | 3–4 years | $20,000~$45,000 (ASIC educational standards) |
+| Financial Adviser Exam + Professional Year | 1 year | $1,000~$5,000 (Prerequisite for practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AFSL 授权 / Adviser Register 登记 | ASIC | 必备 | 强制执业 |
-| 认可金融学历 + Financial Adviser Exam | 认可机构/ASIC | 必备 | 强制 |
-| Professional Year (PY) | 持牌机构 | 必备 | 新人强制 |
+| AFSL Authorisation / Adviser Register entry | ASIC | Required | Mandatory practice |
+| Recognised finance degree + Financial Adviser Exam | Recognised body / ASIC | Required | Mandatory |
+| Professional Year (PY) | Licensed agency | Required | Mandatory for newcomers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 16,000。持牌顾问人数因合规门槛下降而供不应求，经验顾问薪资 2025 年显著上涨，专业化与退休金建议需求强。
+**Job demand: high (★★★★☆).** National workforce approx. 16,000. Demand for licensed advisors outstrips supply due to lower compliance thresholds; experienced advisor salaries rise significantly in 2025; strong demand for specialization and retirement advice.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国 |
-| LinkedIn | 1,200~2,500 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 / 副顾问（0-3年） | $75,000~$95,000 | 含 PY |
-| 中级（3-8年） | $100,000~$140,000 | Experienced |
-| 资深 / 合伙人 | $150,000~$200,000 | 含奖金，部分更高 |
+| Median salary | $134,264 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior / Associate Consultant (0-3 years) | $75,000~$95,000 | Including PY |
+| Mid-level (3–8 years) | $100,000~$140,000 | Experienced |
+| Senior / Partner | $150,000~$200,000 | Includes bonus, some higher |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：副顾问/Paraplanner→持牌顾问→高级/合伙人；积累客户簿与专业认证者收入可观。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Licensed Financial Advisors Will Not Be Replaced by AI; Instead, AI Enhances Data Processing and Compliance Efficiency, but Entry-Level Roles Have Significantly Narrowed Due to Regulatory and Qualification Requirements.
+
+Path: Associate Advisor/Paraplanner → Licensed Advisor → Senior/Partner; those with client books and professional certifications earn well.
+
+**Tasks most exposed to AI:**
+
+- Basic data collection and organization (client income, assets, liabilities, etc.)
+- Preliminary review and archiving of compliance documents
+- Standardized superannuation balance inquiries and retirement income projection calculations
+- Portfolio rebalancing trade execution
+
+**Where AI augments the role:**
+
+- AI generates first drafts of personalized financial plans, allowing advisors to focus on strategy optimization
+- AI analyzes customer behavior data to provide cross-selling and risk warnings
+- Automated compliance checks to reduce violation risk
+- Market research and investment trend analysis acceleration
+
+**Human moat:**
+
+- Legal and fiduciary duties (e.g., Fiduciary Duty)
+- Building and maintaining complex client relationships
+- Non-standard financial decisions (e.g., estate planning, tax optimization)
+- Final judgment and sign-off responsibility for regulatory compliance.
+
+**Skills to build:**
+
+- Operation of AI financial planning tools (e.g., Vise, Betterment platforms)
+- Data analysis and basic Python/R programming
+- Behavioral Finance and Customer Psychological Insight
+- Advanced compliance and regulatory knowledge (new ASIC regulations)
+- Digital customer relationship management (CRM) systems
+- Cross-selling and wealth management comprehensive skills
+
+**Key growth areas:**
 
 - Advice Fee Models
 - Retirement & Super Advice
@@ -69,58 +97,59 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学持牌理财顾问？**
-- 对理财/投资有兴趣并能持续学习者
-- 擅长沟通、建立长期客户关系的人
-- 愿意完成学历与执业考试者
-
-**谁不适合学持牌理财顾问？**
-- 排斥合规与持续教育者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those interested in finance/investment and willing to continuously learn
+- People skilled in communication and building long-term client relationships
+- Willing to complete qualifications and licensing exams
+
+**Who is not suited**
+- Those averse to compliance and ongoing education
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: How much does a licensed financial adviser earn in Australia?**
+A: Approximately AUD $75,000-$200,000+, experienced consultants have seen significant increases in recent years, with large interstate variations.
+
+**Q: Can financial advisors qualify for skilled migration?**
+A: This role (personal financial advice) is generally not on the skilled migration list; Financial Investment Adviser (222311) has a separate assessment pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-持牌理财顾问属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：持牌理财顾问澳洲薪资多少？**
-答：约 AUD $7.5万~$20万+，经验顾问近年涨幅明显，州际差异大。
-
-**问：理财顾问能技术移民吗？**
-答：本职位(个人理财建议)一般不在技术移民清单；Financial Investment Adviser(222311)另有评估路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

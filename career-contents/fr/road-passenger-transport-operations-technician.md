@@ -1,58 +1,90 @@
-# Road Passenger Transport Operations Technician（Road Passenger Transport Operations Technician）职业分析 · FR
+# Road Passenger Transport Operations Technician — career analysis · France
 
-**职业代码：N4204 – Road Passenger Transport Operations Technician。**
+**Occupation code: N4204 (ROME)**
 
-Responsible for daily operations, dispatching, vehicle monitoring, driver coordination and customer service in urban bus and long-distance passenger transport to ensure efficient and safe service.
+Responsible for daily operation scheduling, vehicle monitoring, driver coordination, and customer service for urban public transport and long-distance passenger transport, ensuring efficient and safe route operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育文凭 | 2年（BTS） | —（公立学校免学费，仅注册费；学徒制可获薪） |
-| 大学本科 | 3年（Licence professionnelle） | $200~$5,000（公立大学注册费约200欧元/年；私立商学院较高） |
+| Vocational education diploma | 2 Years (BTS) | $0~$3,000 (Public schools offer tuition waiver, only registration fees; Apprenticeships can earn firewood) |
+| University bachelor's degree | 3 years (Licence professionnelle) | $200~$5,000 (The registration fee for public universities is about 200 euros per year; Private business schools have higher rates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS运输与物流服务 | 法国教育部 | 可选 | BTS Transportation et Prestations Logistiques，常见学历要求 |
-| 客运司机驾驶证 | Préfecture | 可选 | 如需兼任司机需持有 D 类驾照及 FIMO/FCO |
+| BTS transportation and logistics services | French Ministry of Education | Optional | BTS Transportation et Prestations Logistiques, common educational requirements |
+| Passenger Transport Driver's License | Préfecture | Optional | If you wish to be a driver part-time, you must hold a Class D license and FIMO/FCO |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。随着法国人口老龄化和城市低碳出行推广，公共交通需求持续增长，该职位在区域和城际客运公司中需求稳定，尤其在巴黎大区等都市圈。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. With France's aging population and the promotion of low-carbon urban mobility, public transport demand continues to grow. This position is in stable demand among regional and intercity passenger companies, especially in metropolitan areas such as the Paris region.
 
-**竞争度：中（★★☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，运营主管级别 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, operations supervisor level |
+| average salary | $52,632 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定增长（★★★★☆）。** 可从初级调度员晋升为运营主管，或转向运输规划、安全管理等岗位，也可通过进修获得运输管理BA文凭进入管理岗。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI will automate scheduling and monitoring, but interpersonal collaboration and on-site emergency response remain at the core, with mixed benefits for roles.
+
+You can be promoted from junior dispatcher to operations supervisor, move into positions such as transport planning or safety management, or obtain a BA diploma in transportation management through further study to enter management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and adjust bus schedules and driver schedules
+- Real-time monitoring of vehicle position and operating status, with automatic delay warnings
+- Handling standard inquiries and ticketing issues in customer complaints
+- Generate daily operational data reports and statistics
+
+**Where AI augments the role:**
+
+- AI predicts passenger flow peaks to assist in dynamic scheduling optimization
+- AI analyzes historical data to optimize route planning and vehicle configuration
+- AI-assisted driver fatigue monitoring and safety reminders
+- Intelligent customer service systems divert and upgrade complex issues
+
+**Human moat:**
+
+- On-site emergency command for sudden accidents (such as traffic accidents or severe weather).
+- Coordinate and communicate with drivers, passengers, traffic management, and other parties
+- Non-standardized customer service (such as emotional reassurance, special needs)
+- Cross-departmental collaboration and operational strategy development
+
+**Skills to build:**
+
+- Transport dispatch systems (such as Hastus, GIRO)
+- Data analysis and visualization (Python, Tableau)
+- AI fundamentals and machine learning applications
+- Customer Relationship Management (CRM) tools
+- Project management and communication coordination
+
+**Key growth areas:**
 
 - public transport demand
 - urban mobility
@@ -61,68 +93,67 @@ Responsible for daily operations, dispatching, vehicle monitoring, driver coordi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需获得法国公司工作合同，通过劳工市场测试，适用于常规职位。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 如学历达到硕士或拥有紧缺技能，可快速获得居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 年薪达标（约53k€+）时适用，但该职位薪资通常不达门槛。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Must obtain a work contract with a French company, pass a labor market test, and be suitable for regular positions. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you have a master's degree or possess scarce skills, you can quickly obtain residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable when the annual salary is met (about 53k€+), but the salary for this position usually does not reach the threshold. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Road Passenger Transport Operations Technician？**
-- 喜欢稳定工作、善于协调沟通和组织调度的人
-- 对城市公共交通有热情，能适应轮班制
-- 注重实用技能而非高学历的人
-
-**谁不适合学Road Passenger Transport Operations Technician？**
-- 追求高薪和快速晋升的人
-- 无法接受夜班和周末工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy stable work and are good at coordination, communication, and organizational scheduling
+- Enthusiastic about urban public transport and able to adapt to shift work
+- People who value practical skills over highly educated individuals
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who cannot accept night shifts and weekend work
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for this position in France?**
+A: Entry-level salary is about €22-26k, intermediate €26-32k, and senior-grade salary €32-40k (pre-tax annual salary).
+
+**Q: As a citizen of a third country, is it easy to immigrate to France to pursue this profession?**
+A: Applications can be made through Salarié, but employers must pass a labor market test; Shortage areas (such as Paris) are relatively easier.
+
+**Q: What are the promotion paths for this position?**
+A: Promotion can be made to Operations Supervisor, Dispatch Center Manager, or transition to positions such as transportation safety management and planning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定增长（★★★★☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Road Passenger Transport Operations Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for this position in France?**
-答：Entry level: €22,000-26,000, mid-level: €26,000-32,000, senior: €32,000-40,000 (gross).
-
-**问：Is it easy for a third-country national to immigrate to France for this occupation?**
-答：Yes, via the Salarié permit with a job offer, subject to labor market testing; easier in high-demand areas like Paris.
-
-**问：What are the career advancement paths for this role?**
-答：Possible to advance to operations supervisor, dispatch center manager, or transition to transport safety or planning.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

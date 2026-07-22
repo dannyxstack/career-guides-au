@@ -1,61 +1,97 @@
-# Physical Therapists（Physical Therapists）职业分析 · 美国
+# Physical Therapists — career analysis · United States
 
-**职业代码：29-1123 – Physical Therapists。**
+**Occupation code: 29-1123 (SOC)**
 
-Assess, plan, and implement rehabilitative programs to improve mobility, relieve pain, increase strength, and correct disabling conditions from disease or injury.
+Assess, plan, and implement rehabilitation programs to improve patients' mobility, relieve pain, enhance strength, and correct dysfunctions caused by disease or injury.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科预科（非必需） | 2-4年 | $20,000~$60,000（部分学生先完成相关本科学位） |
-| 物理治疗博士（DPT） | 3年 | $80,000~$150,000（认证项目的学费及生活费） |
-| 临床实习 | 1年 | —（实习期间可能无收入） |
+| Undergraduate foundation program (not mandatory) | 2-4 years | $20,000~$60,000 (Some students first complete a relevant bachelor's degree) |
+| Doctor of Physical Therapy (DPT) | 3 years | $80,000~$150,000 (Tuition and living expenses for certification programs) |
+| Clinical internship | 1 year | $0~$0 (May have no income during internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗博士（DPT） | CAPTE认证院校 | 必备 | 必需学位，3年制 |
-| 州执照 | 各州物理治疗委员会 | 必备 | 通过NPTE考试并满足州要求 |
-| CPR认证 | 美国心脏协会等 | 必备 | 基本生命支持（BLS） |
-| 专业认证（可选） | 美国物理治疗专业委员会 | 可选 | 如骨科、神经科等专科认证 |
+| Doctor of Physical Therapy (DPT) | CAPTE accredited program | Required | Required degree, 3-year program |
+| State license | Physiotherapy Boards of each state | Required | Pass the NPTE exam and meet state requirements |
+| CPR certification | American Heart Association, etc. | Required | Basic Life Support (BLS) |
+| Professional certification (optional) | American Physical Therapy Association | Optional | Specialty certifications such as orthopedics, neurology, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 240,000。美国劳工统计局预计2022-2032年岗位增长15%，远超平均水平。老龄化人口和慢性病增加推动需求，就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 240,000. The US Bureau of Labor Statistics projects 15% job growth from 2022 to 2032, much faster than average. An aging population and increasing chronic diseases drive demand, resulting in good employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 年均薪资约7.5万美元 |
-| 中级（4-9年） | $85,000~$105,000 | 年均薪资约9.5万美元 |
-| 高级（10年以上） | $105,000~$130,000 | 年薪中位数约11万美元 |
+| Median salary | $102,760 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Average annual salary approx. USD 75,000 |
+| Intermediate (4-9 years) | $85,000~$105,000 | Average annual salary approx. $95k |
+| Senior (10+ years) | $105,000~$130,000 | Median annual salary approximately $110,000 USD |
+| average salary | $105,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级物理治疗师可通过积累经验晋升为高级临床专家、科室主管或开设私人诊所。部分转向学术研究或医疗管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
+
+Junior physiotherapists can advance to senior clinical specialist, department head, or open a private practice through experience. Some transition to academic research or healthcare management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating patient assessment reports and progress records
+- AI-based initial screening and anomaly marking of images (e.g., X-ray, MRI)
+- Use rehabilitation robots and VR systems to perform standardized repetitive training movements
+- Collecting and analyzing patient activity data automatically via wearable devices
+- AI front desk system handling administrative tasks like insurance and appointments
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient movement pattern data to optimize personalized treatment plans
+- Expanding service coverage through remote rehabilitation platforms and AI real-time feedback
+- AI-assisted diagnostic tools improve clinical reasoning accuracy and speed
+- Using natural language processing to quickly retrieve latest research and treatment plans
+- Using VR/AR devices to create immersive rehabilitation training environments
+
+**Human moat:**
+
+- Clinical comprehensive judgment and multi-system interaction assessment for complex cases
+- Face-to-face communication and empathy skills for building trust
+- Fine tactile sense and feel in manual therapy
+- Professional advice and team leadership in interdisciplinary collaboration
+- Motivational techniques for addressing patient fear, motivation, and other psychological factors
+
+**Skills to build:**
+
+- Using AI-assisted diagnostic tools (e.g., musculoskeletal ultrasound AI)
+- Remote rehabilitation platform operation and data analysis
+- Integration of digital health records with clinical decision support systems
+- Sports biomechanics and sensor data analysis
+- Basic Python or R programming for rehabilitation data analysis
+- Human-computer interaction and VR rehabilitation content design
+
+**Key growth areas:**
 
 - Aging Population
 - Sports Medicine
@@ -64,69 +100,68 @@ Assess, plan, and implement rehabilitative programs to improve mobility, relieve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需雇主担保，配额有限 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 绿卡路径，需硕士以上或特殊能力 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 绿卡路径，适用于专业人员 |
-| Subclass TN（TN NAFTA Professional） | 加拿大/墨西哥公民适用，需雇主offer |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa, requires employer sponsorship, limited quotas. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Green card pathway, requires master's degree or above or exceptional ability |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Green card pathway, applicable to professionals |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian/Mexican citizens, requires employer offer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physical Therapists？**
-- 有耐心和同理心，善于与人沟通的人
-- 对解剖学和运动科学感兴趣，喜欢动手解决问题的人
-- 希望在医疗领域有稳定职业发展的人
-
-**谁不适合学Physical Therapists？**
-- 不喜欢长时间站立体力工作的人
-- 对繁琐的保险和医疗文书工作感到厌烦的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic individuals who are good at communicating with people
+- People interested in anatomy and sports science who like hands-on problem solving
+- Those seeking stable career development in healthcare
+
+**Who is not suited**
+- People who dislike long periods of standing and physical work
+- People who are tired of tedious insurance and medical paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physiotherapists?**
+A: According to BLS data, 2023 median annual salary approx. $97,000 USD, junior approx. $70,000, senior up to $130,000+. Salary affected by location, experience, and employer.
+
+**Q: How can overseas physiotherapists immigrate to the US?**
+A: Common paths include the H-1B work visa (requires employer sponsorship) and EB-2/EB-3 employment-based green cards. Foreign degree must be evaluated as equivalent to a US DPT, and pass the NPTE exam to obtain a state license.
+
+**Q: What licenses are needed to become a physiotherapist?**
+A: Must hold a physical therapist license from the state, pass the National Physical Therapy Examination (NPTE) and meet state education requirements. CPR certification is also needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Physical Therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a physical therapist?**
-答：According to BLS, the median annual wage is about $97,000 in 2023. Entry-level around $70,000, experienced over $130,000. Varies by location, experience, and setting.
-
-**问：How can foreign physical therapists immigrate to the US?**
-答：Common paths include H-1B visa (employer-sponsored) and EB-2/EB-3 green card. Requires foreign degree evaluation equivalent to DPT and passing NPTE for state licensure.
-
-**问：What licenses are required to become a physical therapist?**
-答：A state license is mandatory, requiring passing the National Physical Therapy Exam (NPTE) and meeting state educational requirements. CPR certification is also needed.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

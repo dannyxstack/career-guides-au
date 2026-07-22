@@ -1,61 +1,96 @@
-# Obstetricians and Gynecologists（Obstetricians and Gynecologists）职业分析 · 美国
+# Obstetricians and Gynecologists — career analysis · United States
 
-**职业代码：29-1218 – Obstetricians and Gynecologists。**
+**Occupation code: 29-1218 (SOC)**
 
-Obstetricians and Gynecologists provide medical care related to pregnancy, childbirth, and women's reproductive health. They diagnose and treat diseases, perform surgeries, and offer routine screenings. This role requires extensive medical training and clinical expertise.
+Obstetricians and gynecologists (OB/GYNs) are responsible for women's reproductive health, including pregnancy management, childbirth, and gynecological disease diagnosis and treatment. They work in clinics, hospitals, or operating rooms, providing full-spectrum care from routine exams to complex surgeries. This profession requires advanced medical knowledge and clinical skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$150,000（视公立或私立大学） |
-| 医学院（MD/DO） | 4年 | $150,000~$250,000（学费加生活费） |
-| 住院医师培训 | 4年 | —（带薪培训，年收入约6万） |
+| Bachelor's degree | 4 years | $50,000~$150,000 (Depends on public or private university) |
+| Medical school (MD/DO) | 4 years | $150,000~$250,000 (Tuition plus living expenses) |
+| Residency training | 4 years | $0~$0 (Paid training, annual income approx. NZD 60k.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位（MD/DO） | 认证医学院 | 必备 | 完成医学院课程并通过USMLE或COMLEX考试 |
-| 美国医师执照 | 各州医学委员会 | 必备 | 通过USMLE Step 3并获得州执照 |
-| 妇产科专科认证 | 美国妇产科委员会（ABOG） | 必备 | 完成住院医师培训并通过认证考试 |
-| DEA注册 | 美国缉毒局 | 必备 | 开具管制药品所需 |
+| Doctor of Medicine (MD/DO) | Accredited medical school | Required | Complete medical school and pass USMLE or COMLEX exams |
+| US medical license | State Medical Boards | Required | Pass USMLE Step 3 and obtain state license |
+| Specialist certification in obstetrics and gynecology | American Board of Obstetrics and Gynecology (ABOG) | Required | Complete residency training and pass certification exams |
+| DEA Registration | Drug Enforcement Administration (US) | Required | Required for prescribing controlled substances |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 22,000。美国劳工统计局预测，2023-2033年该职业就业增长约2%，低于平均水平，但女性健康需求稳定。人口老龄化和医疗技术发展可能带来新机会，但竞争激烈，尤其是在城市地区。
+**Job demand: high (★★★★☆).** National workforce approx. 22,000. The U.S. Bureau of Labor Statistics projects about 2% employment growth from 2023 to 2033, below average, but women's health demand is stable. Aging population and medical technology may create opportunities, but competition is fierce, especially in urban areas.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：极高（★★★★½）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $200,000~$260,000 | 住院医师完成后第一份工作 |
-| 中级（4-10年） | $270,000~$350,000 | 经验丰富的主治医师 |
-| 高级（10年以上） | $360,000~$500,000 | 资深专家或私人诊所合伙人 |
+| Median salary | $292,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $200,000~$260,000 | First job after completing residency |
+| Mid-level (4-10 years). | $270,000~$350,000 | Experienced attending physician |
+| Senior (10+ years) | $360,000~$500,000 | Senior expert or private practice partner |
+| average salary | $279,040 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业路径通常从住院医师培训开始（4年），完成后可成为主治医师。进一步可专攻母胎医学、生殖内分泌等领域，或晋升为科室主任、医院管理层。部分医生进入学术研究或私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on obstetricians and gynecologists is mixed: imaging diagnosis and documentation automation can improve efficiency, but core clinical operations, emergency decisions, and patient communication still require human leadership, overall replacement risk is low.
+
+Career path typically begins with residency training (4 years), after which one can become an attending physician. Further specialization in maternal-fetal medicine, reproductive endocrinology, etc., or advancement to department head or hospital management. Some enter academic research or private practice.
+
+**Tasks most exposed to AI:**
+
+- Preliminary reading and report generation for routine imaging (e.g., ultrasound)
+- Medical records, prescriptions, and other documentation and data entry
+- Simple guideline-based treatment advice (e.g., common gynecological infections)
+- Patient follow-up, appointment reminders, and other communication tasks
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis (ultrasound, MRI, pathology slides) improves diagnostic accuracy.
+- Personalized treatment plan recommendations based on big data and patient medical history
+- Surgical planning and intraoperative navigation (e.g., robotic surgery systems)
+- Remote monitoring and telemedicine support (e.g., high-risk pregnancy management)
+- Real-time clinical decision support system assists in emergency situations
+
+**Human moat:**
+
+- Complex surgical operations and intraoperative flexibility
+- Rapid clinical judgment for emergency critical cases (e.g., postpartum hemorrhage)
+- Building patient trust and empathetic communication.
+- Legal and ethical responsibility allocation (e.g., reproductive decisions, informed consent)
+- Cross-departmental collaboration leadership and comprehensive diagnosis and treatment decision-making
+
+**Skills to build:**
+
+- AI diagnostic imaging tool operation and result interpretation
+- Robotic surgery system assistance skills
+- Medical big data analysis and clinical decision support system application
+- Remote healthcare service management and patient communication
+- Basic programming and data literacy (e.g., Python, SQL)
+- Continuous learning and AI ethics awareness
+
+**Key growth areas:**
 
 - Steady demand
 - Women's health focus
@@ -64,69 +99,68 @@ Obstetricians and Gynecologists provide medical care related to pregnancy, child
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于拥有美国医学院学位或外国同等学历的医生，需通过USMLE并匹配住院医师项目。H-1B可用于住院医师或主治医师职位。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有高级学位或杰出能力的医生。通常需PERM劳工认证，但国家利益豁免（NIW）可跳过PERM，适合符合NIW标准的医生。 |
-| Subclass J-1 Waiver（J-1 Visa Waiver (Conrad 30)） | 外国医学毕业生若完成J-1住院医师培训，可通过Conrad 30项目申请豁免回国要求，在指定医疗服务不足地区工作。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的绿卡路径，需证明无法找到合格美国工人。医生职位通常通过PERM申请EB-2或EB-3。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to doctors with a US medical degree or foreign equivalent; must pass USMLE and match into a residency program. H-1B can be used for residency or attending physician positions. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applies to physicians with advanced degrees or exceptional ability. Usually requires PERM labor certification, but National Interest Waiver (NIW) can skip PERM, suitable for doctors meeting NIW criteria. |
+| Subclass J-1 Waiver (J-1 Visa Waiver (Conrad 30)) | Foreign medical graduates who complete J-1 residency training can apply for a waiver of the home residency requirement through the Conrad 30 program, working in designated health professional shortage areas. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card pathway requiring proof that no qualified U.S. workers are available. Physician positions typically apply for EB-2 or EB-3 through PERM. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Obstetricians and Gynecologists？**
-- 追求高薪且能承受高压环境的医学爱好者
-- 对女性健康有浓厚兴趣，愿意长期投入学习
-- 具备优秀手工技能和抗压能力的人群
-
-**谁不适合学Obstetricians and Gynecologists？**
-- 无法接受多年高强度学习与培训的人
-- 不喜欢手术或直接接触病人的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical enthusiasts seeking high salary and able to handle high pressure
+- Strong interest in women's health and willingness to commit to long-term study
+- People with excellent manual skills and ability to handle stress
+
+**Who is not suited**
+- People who cannot accept years of intensive study and training
+- People who dislike surgery or direct patient contact
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an obstetrician?**
+A: US obstetrician median annual salary approx. $300,000 USD, depending on experience, region, and employment type. Entry-level doctors approx. $200,000-260,000, senior specialists can exceed $500,000.
+
+**Q: How can a foreign doctor immigrate to the US to practice obstetrics and gynecology?**
+A: Common pathways include H-1B for residents or attendings, followed by EB-2 or EB-3 green cards. J-1 waivers are available for doctors willing to serve in underserved areas after training.
+
+**Q: How many years of education are required to become an obstetrician-gynecologist?**
+A: Typically requires 4 years bachelor's + 4 years medical school + 4 years residency training, totaling 12 years. Optionally 1-3 years fellowship afterwards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 很高（★★★★½） |
-| 工作强度 | 极高（★★★★½） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Obstetricians and Gynecologists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an OB/GYN?**
-答：The median annual salary for OB/GYNs in the US is around $300,000, ranging from $200,000 for early career to over $500,000 for experienced specialists.
-
-**问：How can foreign doctors immigrate to the US as OB/GYNs?**
-答：Common paths include H-1B for residency or attending positions, followed by EB-2/EB-3 green card. J-1 waiver is available for those willing to serve in underserved areas.
-
-**问：How many years of education are required to become an OB/GYN?**
-答：Typically 4 years of undergraduate + 4 years of medical school + 4 years of residency, totaling 12 years. Optional fellowship adds 1-3 years.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

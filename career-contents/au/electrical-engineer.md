@@ -1,68 +1,97 @@
-# 电气工程师（Electrical Engineer）职业分析 · 澳大利亚
+# Electrical Engineer — career analysis · Australia
 
-**职业代码：233311 – Electrical Engineer。**
+**Occupation code: 233311 (ANZSCO)**
 
-电气工程师设计和监督电力系统、配电网络、可再生能源接入和国防电子设备。澳洲可再生能源转型（2030年82%可再生电力目标）和电网现代化工程推动对电气工程师的需求急剧增加，是工程类增速最快的职业之一。
+Electrical engineers design and oversee power systems, electricity distribution networks, renewable energy integration and defence electronics. Australia's renewable energy transition (82% renewable electricity target by 2030) and grid modernisation projects are driving a sharp increase in demand for electrical engineers, making it one of the fastest-growing engineering occupations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Electrical Engineering（荣誉，4年） | 4年（全日制） | $30,000~$185,000（澳洲工程师资质要求4年荣誉学位；部分大学提供专业方向（电力/通信/控制）） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $770~$3,000（189/190签证必须，约 $770 申请费） |
-| 注册电气工程师（REng/CPEng） | 4~7年工作经验后申请 | $1,500~$5,000（部分州的公共电网工程要求注册工程师签名） |
+| Bachelor of Electrical Engineering (Honours, 4 years) | 4 years (full-time) | $30,000~$185,000 (Australian engineering qualifications require a 4-year honours degree; some universities offer specialist streams (power, communications, or control systems)) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $770~$3,000 (Required for 189/190 visa; approximately $770 application fee) |
+| Registered Professional Engineer (REng/CPEng) | Apply after 4–7 years of work experience | $1,500~$5,000 (Some states require a registered engineer's signature for public electrical grid projects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Electrical Engineering (Honours) | 认可大学（EA认证） | 必备 | 行业基础学历，4年荣誉学位是EA评估的基本要求 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 189/190签证技术移民必须 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 专业注册工程师，高级岗位薪资溢价 $20k~$40k |
-| Electrical Contractor License（各州） | 各州电气许可机构 | 可选 | 现场施工监督和独立执业需要，与工程师资质不同 |
+| Bachelor of Electrical Engineering (Honours) | Accredited university (EA-accredited) | Required | Foundational industry qualification; a 4-year honours degree is the basic requirement for EA assessment |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | Required for skilled migration via 189/190 visa |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | Registered Professional Engineer — senior roles attract a $20k–$40k salary premium |
+| Electrical Contractor Licence (by state) | State electrical licensing authorities | Optional | Required for on-site construction supervision and independent practice; distinct from engineering qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 72,000。JSA 预测电气工程师至2035年就业增长约15%。国家电力市场改革（NEM Reform）、大规模储能项目和EV充电基础设施是主要驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 72,000. JSA forecasts approximately 15% employment growth for Electrical Engineers to 2035. National Electricity Market (NEM) reform, large-scale energy storage projects, and EV charging infrastructure are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~5,000 个 | 全国，含电气工程师、电力系统工程师、可再生能源工程师岗 |
-| Indeed | 1,500~3,500 个 | 含国防、电网公司和顾问岗 |
-| LinkedIn | 2,500~5,000 个 | 能源和国防企业直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生电气工程师（0~2年） | $70,000~$88,000 | 应届生起薪，能源/电力公司高于均值 |
-| 中级电气工程师（2~7年） | $95,000~$130,000 | SEEK 区间 $105k~$125k；Indeed 平均 $106,550（2026） |
-| 高级电气工程师（7~15年，CPEng） | $130,000~$165,000 | Indeed Senior平均 $146,601（2026）；CPEng溢价明显 |
-| 国防/航空电气工程师（安全许可） | $150,000~$200,000 | AUKUS项目电气专家，持安全许可薪资溢价 $20k~$40k |
+| Median salary | $132,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate Electrical Engineer (0–2 years) | $70,000~$88,000 | Graduate starting salary; energy/utilities companies pay above average |
+| Mid-level electrical engineer (2–7 years) | $95,000~$130,000 | SEEK range $105k–$125k; Indeed average $106,550 (2026) |
+| Senior electrical engineer (7–15 years, CPEng) | $130,000~$165,000 | Indeed Senior average $146,601 (2026); CPEng premium is significant |
+| Defence/Aviation Electrical Engineer (security clearance required) | $150,000~$200,000 | AUKUS project electrical specialist; security clearance attracts a salary premium of $20k–$40k |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 可再生能源（太阳能/风能）接入电网工程师是2025-2030年薪资增速最快的方向。AUKUS国防电子（雷达/通信系统）是薪资最高的专精方向，年薪可超 $160k。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI mainly enhances design simulation and documentation generation rather than replacing core engineering judgement; electrical engineers see strong demand due to energy transition, with their role amplified by AI rather than compressed.
+
+Renewable energy (solar/wind) grid connection engineering is the fastest-growing salary direction for 2025–2030. AUKUS defence electronics (radar/communications systems) is the highest-paying specialisation, with salaries potentially exceeding $160k per year.
+
+**Tasks most exposed to AI:**
+
+- Manual calculation of cable current-carrying capacity, short circuit current, and other repetitive electrical calculations
+- Generate standard electrical drawings and BOM lists
+- Fill in compliance checklists and test report templates
+- Preliminary load analysis and energy efficiency estimation
+
+**Where AI augments the role:**
+
+- Using AI to accelerate power system simulations (e.g. AI modules in PSS/E, DIgSILENT)
+- Optimize distribution network topology and renewable energy grid integration using AI
+- AI-assisted drafting of technical specifications and tender documents
+- Identifying abnormalities in grid equipment using AI visual inspection
+- Predictive maintenance plan generation (based on AI analysis of historical data)
+
+**Human moat:**
+
+- Critical safety responsibilities (e.g., high-voltage system design approval, protection plan development)
+- Complex Communication and Negotiation with Clients, Contractors, and Regulators
+- Creative system integration and innovative solution design
+- Experience and intuition in on-site fault diagnosis and debugging
+- Professional ethics and statutory signing responsibilities
+
+**Skills to build:**
+
+- Automated power system analysis with Python scripting
+- Use AI tools (e.g., MATLAB AI toolbox, OpenAI API) for design optimization
+- Digital Twin and Simulation Modeling of Power Systems
+- Data analysis and visualization (Pandas, Power BI)
+- New energy technology (solar, storage, wind)
+- Project management and agile collaboration tools (Jira, Confluence)
+
+**Key growth areas:**
 
 - Renewable Energy & Grid Integration
 - EV Charging Infrastructure
@@ -72,91 +101,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，电气工程师为核心短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，SA/VIC可再生能源和QLD电网项目多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区能源项目，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; electrical engineers are a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; SA/VIC have strong renewable energy projects and QLD has significant grid projects |
+| Subclass 491 (Skilled Work Regional) | Remote area energy projects, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电气工程师？**
-- 有电气/电力/能源工程经验（2年以上）
-- 有电力系统、可再生能源接入或国防电子专业背景
-- 英语能力达到 IELTS 6.0+（EA评估和工程报告要求）
-- 有意向可再生能源行业（太阳能/风能/储能）或AUKUS国防项目
-- 有电气设计软件（ETAP/PowerWorld/AutoCAD Electrical）经验
-
-**谁不适合学电气工程师？**
-- 非工程学位，无法通过EA技能评估
-- 不愿意接受现场工作（发电站/变电站/施工现场）
-- 完全无电气安全意识（高压电气工作安全是核心要求）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in electrical/power/energy engineering (2+ years)
+- Background in power systems, renewable energy integration or defence electronics
+- English proficiency of IELTS 6.0+ (required for EA assessment and engineering reports)
+- Interested in the renewable energy sector (solar/wind/storage) or AUKUS defence projects
+- Experience with electrical design software (ETAP/PowerWorld/AutoCAD Electrical)
+
+**Who is not suited**
+- Non-engineering degree — unable to pass EA skills assessment
+- Not willing to work on site (power stations/substations/construction sites)
+- Completely lacking electrical safety awareness (high-voltage electrical safety is a core requirement)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an electrical engineer in Australia?**
+A: Mid-level approximately $95,000–$130,000 (Indeed average $106,550); senior CPEng approximately $130k–$165k (senior average $146,601); defence/aerospace specialisation can reach $150k–$200k.
+
+**Q: Is it easy for electrical engineers to find work in Australia?**
+A: Very easy. Seek lists about 2,000-5,000 job openings; renewable energy transition (82% target by 2030) and AUKUS defense electronics are driving a sharp increase in demand, making it the fastest-growing engineering occupation.
+
+**Q: Is a Chinese electrical engineering degree recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA). Electrical engineering degrees from China's 985/211 universities have a higher pass rate; ensure coursework covers core areas like power systems, control, and electromagnetics.
+
+**Q: Will electrical engineers be replaced by AI?**
+A: Risk is relatively low. AI assists with grid optimisation and fault prediction, but electrical system design, safety compliance (AS/NZS standards), and high-voltage site management require a licensed engineer and cannot be replaced.
+
+**Q: Is there an age limit for electrical engineers in Australia?**
+A: No. Experienced engineers (aged 40–55) with large-scale power grid or defence project experience are highly sought after by energy companies and defence contractors.
+
+**Q: What qualifications do electrical engineers need in Australia?**
+A: A 4-year honours electrical engineering degree is required — this is the fundamental requirement for EA assessment and CPEng. A 3-year degree requires an additional honours year.
+
+**Q: Is it difficult to get recognised as an electrical engineer in Australia (for migration purposes)?**
+A: Moderate difficulty. EA assessment turnaround is 3–12 months with a relatively high pass rate; 189/190 EOI scores are favourable for applicants with 5+ years of experience.
+
+**Q: Which is more suitable for migrating to Australia — electrical engineer or civil engineer?**
+A: Electrical engineers earn higher salaries (mid-level $105k–$130k vs civil $95k–$115k) and are growing faster driven by renewable energy; civil engineers have greater overall employment volume (broader infrastructure projects). Those with an electrical background should firmly choose electrical engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 电气工程师薪资 $105k~$125k（2026） |
-| Indeed AU | 电气工程师平均薪资 $106,550；高级 $146,601（2026） |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-电气工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电气工程师工资多少？**
-答：中级约 $95,000~$130,000（Indeed均值 $106,550）；高级CPEng约 $130k~$165k（高级均值 $146,601）；国防/航空专精可达 $150k~$200k。
-
-**问：澳洲电气工程师容易找工作吗？**
-答：极容易。Seek 挂牌约 2000~5000 个职位，可再生能源转型（2030年82%目标）和AUKUS国防电子推动需求急剧增加，是工程类增速最快的职业。
-
-**问：中国电气工程学位澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估。中国985/211大学的电气工程学位通过率较高，需要确保课程覆盖电力系统、控制和电磁学等核心内容。
-
-**问：电气工程师会被AI替代吗？**
-答：风险较低。AI辅助电网优化和故障预测，但电气系统设计、安全合规（AS/NZS标准）和高压现场管理需要持牌工程师负责，不可替代。
-
-**问：澳洲电气工程师有年龄限制吗？**
-答：无。有大型电网或国防项目经验的资深工程师（40~55岁）备受能源企业和国防承包商青睐。
-
-**问：澳洲电气工程师需要什么学历？**
-答：必须持有4年荣誉电气工程学位，这是EA评估和CPEng的基本要求。3年学位需要加一年荣誉年。
-
-**问：澳洲电气工程师认证（移民）难吗？**
-答：难度中等。EA评估周期3~12个月，通过率较高；189/190 EOI分数对有5年以上经验者友好。
-
-**问：电气工程师和土木工程师哪个更适合移民澳洲？**
-答：电气工程师薪资更高（中级 $105k~$130k vs 土木 $95k~$115k），可再生能源推动增速更快；土木工程师就业量更大（基础设施项目更广泛）。有电气背景者坚定选电气工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

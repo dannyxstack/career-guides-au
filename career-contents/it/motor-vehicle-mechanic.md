@@ -1,62 +1,94 @@
-# Motor Vehicle Mechanic（Motor Vehicle Mechanic）职业分析 · IT
+# Motor Vehicle Mechanic — career analysis · Italy
 
-**职业代码：7231 – Motor Vehicle Mechanic。**
+**Occupation code: 7231 (ISCO08)**
 
-Diagnose, repair, and maintain mechanical issues in cars, motorcycles, and light commercial vehicles. Requires knowledge of engines, transmissions, and electrical systems using diagnostic tools and hand equipment.
+Responsible for diagnosing, repairing, and maintaining mechanical faults in cars, motorcycles, and light commercial vehicles. Requires knowledge of engines, transmissions, and electrical systems, using diagnostic tools and hand equipment.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中/技校 | 3年（职业高中） | —（公立学校免费或低学费，含部分材料费） |
-| 学徒制 | 3-4年（学徒制） | —（带薪培训，仅需少量注册费） |
-| 大专/短期课程 | 2年（大专） | $2,000~$6,000（私立机构或大学技术课程学费） |
+| Vocational high school/technical school | 3 years (vocational high school) | $0~$3,000 (Public schools are free or have low tuition fees, including some material costs.) |
+| Apprenticeship | 3-4 years (apprenticeship). | $0~$500 (Paid training, only a small registration fee required) |
+| Diploma/Short-term course | 2 years (diploma) | $2,000~$6,000 (Tuition for private institutions or university technical courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机动车维修技师资格证 | 意大利运输和基础设施部 | 必备 | 从事维修工作必备，通过理论与实操考试 |
-| ITACA认证 | 各大区授权机构 | 可选 | 针对特定维修品牌或技术的自愿认证，提升就业竞争力 |
-| 高压电汽车维修认证 | 行业协会或制造商 | 必备 | 维修电动及混动车必需，需额外培训 |
+| Motor vehicle repair technician qualification certificate | Italian Ministry of Transport and Infrastructure | Required | Essential for repair work, passing theory and practical exams |
+| High-voltage vehicle repair certification | Industry associations or manufacturers | Required | Essential for repairing electric and hybrid vehicles, requires additional training |
+| ITACA certification | Authorized agencies by region | Optional | Voluntary certification for specific repair brands or technologies to enhance employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。意大利汽车保有量高，维修需求稳定。电动和混动汽车增长带动新技术培训需求。行业受正规维修厂和独立车行共同支撑，就业机会平衡。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Italy has a high car ownership rate, ensuring steady demand for repairs. The growth of electric and hybrid vehicles is driving the need for new technical training. The industry is supported by both authorized repair shops and independent garages, offering balanced job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒期或初级技工税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 独立操作技工，含经验加给 |
-| 高级（7年以上） | $32,000~$42,000 | 车间主管或专家技师税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary for apprenticeship or junior technician |
+| Mid-level (3–7 years) | $24,000~$32,000 | Independent operator technician, including experience allowance |
+| Senior (7+ years) | $32,000~$42,000 | Pre-tax annual salary for a workshop supervisor or specialist technician |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级技工起步，考取认证后升任车间主管或专家技师。积累经验可创业开设独立修理厂。精通电动系统可转型为新能源汽车技师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+Start as a junior technician, obtain certifications, and advance to workshop supervisor or specialist technician. With experience, start your own repair shop. Mastery of electric systems can lead to a role as a new energy vehicle technician.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - Electric vehicle service
 - Diagnostic technology
@@ -65,60 +97,68 @@ Diagnose, repair, and maintain mechanical issues in cars, motorcycles, and light
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟工人，需工作合同且薪资达标。本职业通常不符合蓝卡高薪标准 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，雇主需证明无法在本国或欧盟找到合适人选，适用于非紧缺列表职业 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 开设独立修理店需证明有充足资金和商业计划，配额有限 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU workers, requires a job contract and meeting salary thresholds. This occupation typically does not meet the high salary standard for the Blue Card. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa; employer must prove unable to find suitable candidate locally or within the EU; applicable to non-shortage list occupations |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | Opening an independent repair shop requires proof of sufficient funds and a business plan; quota is limited. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motor Vehicle Mechanic？**
-- 喜欢动手维修和解决机械问题
-- 愿意持续学习新技术，如电动车维修
-- 能够承受体力劳动和一定工作压力
+**Who is suited**
+- Enjoy hands-on maintenance and solving mechanical problems
+- Willing to continuously learn new technologies, such as electric vehicle repair
+- Able to withstand physical labour and certain work pressure
 
-**谁不适合学Motor Vehicle Mechanic？**
-- 不适应油污和嘈杂环境
-- 对标准化流程和持续学习缺乏耐心
+**Who is not suited**
+- Unable to adapt to oily and noisy environments
+- Lack of patience for standardized processes and continuous learning
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Italian motor vehicle mechanic?**
+A: Junior mechanic annual salary approx. €18,000-24,000, senior technician up to €32,000-42,000. Salary varies significantly by region, experience, and qualifications.
+
+**Q: How can non-EU immigrants obtain an Italian motor vehicle repair work visa?**
+A: Mainly through the annual Decreto Flussi work quota visa, requiring employer sponsorship. Self-employment requires a business plan; the EU Blue Card is generally not suitable for this low-paid occupation.
+
+**Q: What is the future career outlook for this occupation?**
+A: EV adoption brings new opportunities; technicians need to learn high-voltage system repairs. Independent shops and authorized service centers need talent; continuous learning is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motor Vehicle Mechanic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a motor vehicle mechanic in Italy?**
-答：Entry-level mechanics earn around €18,000-24,000 per year, while experienced technicians can earn €32,000-42,000. Salaries vary by region, experience, and certifications.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

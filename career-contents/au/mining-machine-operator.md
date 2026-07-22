@@ -1,67 +1,92 @@
-# 采矿机械操作工（Mining Machine Operator）职业分析 · 澳大利亚
+# Mining Machine Operator — career analysis · Australia
 
-**职业代码：811611 – Mining Machine Operator。**
+**Occupation code: 811611 (ANZSCO)**
 
-采矿机械操作工（Mining Machine Operator）操作露天或地下采矿设备，包括挖掘机、推土机、矿用卡车和铲运机。澳洲铁矿石（WA Pilbara）和煤矿（QLD/NSW）是全球最大出口来源，对机械操作工需求庞大。无人驾驶矿车（AHS）在兴起，但过渡期仍需大量操作员。
+Mining Machine Operators operate open-cut or underground mining equipment, including excavators, bulldozers, haul trucks and scrapers. Australia's iron ore (WA Pilbara) and coal mining (QLD/NSW) sectors are among the world's largest export sources, generating enormous demand for equipment operators. Autonomous haulage systems (AHS) are on the rise, but large numbers of operators are still required during the transition period.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate II in Surface Extraction Operations | 3~6个月 | $1,000~$3,000（入行最快路径） |
-| Certificate III in Mining Operations | 12~18个月（在职） | $2,000~$4,000（雇主通常提供） |
+| Certificate II in Surface Extraction Operations | 3–6 months | $1,000~$3,000 (Fastest pathway into the field) |
+| Certificate III in Mining Operations | 12–18 months (on-the-job) | $2,000~$4,000 (Typically provided by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate II/III in Surface Extraction/Mining Ops | RTO | 必备 | 核心资质 |
-| HR/HC Truck Licence | 各州交通厅 | 必备 | 矿用卡车操作必备 |
-| White Card | 各州SafeWork | 必备 | 必备安全证 |
+| Certificate II/III in Surface Extraction/Mining Ops | RTO | Required | Core qualifications |
+| HR/HC Truck Licence | State transport departments | Required | Required for mining truck operation |
+| White Card | SafeWork (each state/territory) | Required | Essential safety certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 28,000。Pilbara铁矿石和QLD煤矿仍是核心需求。自动驾驶矿车（AHS）快速扩展，同时催生新的AHS监控员岗位。关键矿产新矿山开发持续创造露天矿操作工需求。
+**Job demand: very high (★★★★★).** National workforce approx. 28,000. Pilbara iron ore and QLD coal mining remain core demand areas. Autonomous Haulage Systems (AHS) are expanding rapidly, creating new AHS monitor roles. Ongoing development of new critical minerals mines continues to generate demand for open-cut mine operators.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,500 个 | 全国，WA/QLD/NSW集中 |
-| Indeed | 300~700 个 | 露天矿操作工 |
-| LinkedIn | 100~300 个 | 大型矿业公司（BHP/Rio/Glencore） |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级操作工（0~2年） | $80,000~$105,000 | Mining Industry Award |
-| 中级（2~6年）FIFO | $105,000~$145,000 | WA Pilbara均值 |
-| 高级/AHS监控员（6年+） | $140,000~$190,000 | 自动化矿车监控溢价 |
+| Median salary | $69,784 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Operator (0–2 years) | $80,000~$105,000 | Mining Industry Award |
+| Mid-level (2–6 years) FIFO | $105,000~$145,000 | WA Pilbara average |
+| Senior/AHS Controller (6+ years) | $140,000~$190,000 | Automated mine truck monitoring premium |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 自主矿车技术改变部分驾驶岗，但现场维护、监控和非标设备操作仍需人力。FIFO年薪在澳洲蓝领中名列前茅。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
+
+Autonomous haul truck technology is changing some driving roles, but on-site maintenance, monitoring, and operation of non-standard equipment still require human workers. FIFO annual salaries rank among the highest in the Australian blue-collar workforce.
+
+**Tasks most exposed to AI:**
+
+- Autonomous haulage systems (AHS) take over transport cycle operations.
+- GPS navigation and sensors automatically handle path planning and obstacle avoidance
+- AI scheduling system optimises fleet allocation, replacing manual scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults to improve maintenance efficiency
+- Virtual reality (VR) simulators for safety training and operation drills
+- Data analysis to optimise fuel consumption and tyre wear.
+
+**Human moat:**
+
+- Emergency judgment and decision-making in complex geological conditions
+- On-site rapid repair skills for equipment breakdowns
+- Cross-device coordination and multitasking
+- Safety procedure execution and risk assessment
+
+**Skills to build:**
+
+- Automated system operation and monitoring (e.g., AHS console)
+- Basic data analysis (Python/R)
+- Remote device diagnostics and maintenance (IoT sensors)
+- Safety regulation updates and digital management.
+- Cross-departmental collaboration and communication skills
+- Drone inspection operations.
+
+**Key growth areas:**
 
 - Autonomous Haul Trucks (AHS)
 - Surface Open Cut Mining
@@ -70,66 +95,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 矿业雇主担保 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
-| Subclass 186（ENS） | 永居 |
+| Subclass 482 (Skills in Demand) | Mining employer sponsorship |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
+| Subclass 186 (ENS) | Permanent Residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学采矿机械操作工？**
-- 接受FIFO模式，追求矿业最快速高薪路径
-- 有重型机械或卡车驾驶背景
-
-**谁不适合学采矿机械操作工？**
-- 不接受FIFO和偏远矿区12hr班制
-- 期望城市工作
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Open to FIFO work arrangements and seeking the fastest high-paying pathway in the mining industry
+- Background in heavy machinery or truck driving
+
+**Who is not suited**
+- Not willing to accept FIFO rosters or 12-hour shifts at remote mine sites
+- Preference for city-based work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a mining machinery operator in Australia?**
+A: Mid-level FIFO mining machinery operators earn approximately $105,000–$145,000 per year (WA Pilbara average). Senior/AHS operators can earn $190,000+.
+
+**Q: Can I apply for mining roles without any mining experience?**
+A: Yes. Certificate II (3–6 months) is sufficient to enter the industry; BHP, Rio and Glencore run dedicated trainee programmes, and an HR/HC truck licence is an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 811611 数据 |
-| Seek AU | Mining Machine Operator 薪资及岗位量 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-采矿机械操作工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲采矿机械操作工工资多少？**
-答：中级FIFO采矿机械操作工年薪约 $105,000~$145,000（WA Pilbara均值）。高级/AHS监控员可达 $190,000+。
-
-**问：没有采矿经验可以直接申请吗？**
-答：可以。Certificate II（3~6个月）即可入行，BHP/Rio/Glencore有专门的新手培训项目，HR/HC卡车驾照是加分。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

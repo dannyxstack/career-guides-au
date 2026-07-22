@@ -1,59 +1,95 @@
-# Industrial Engineer（Industrial Engineer）职业分析 · 新西兰
+# Industrial Engineer — career analysis · New Zealand
 
-**职业代码：233511 – Industrial Engineer。**
+**Occupation code: 233511 (ANZSCO)**
 
-Industrial Engineers optimize production processes and supply chains across manufacturing, logistics, and consulting, improving efficiency and reducing costs. Recognized for New Zealand Skilled Migrant Category and Green List Tier 1, offering direct residence pathway.
+Industrial engineers optimize production processes and supply chains in manufacturing, logistics, consulting, and other fields to improve efficiency and control costs. Recognized for skilled migration to New Zealand, on the Green List Tier 1, eligible for direct residence visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 4年 | $25,000~$45,000（新西兰大学国际生学费，如奥克兰大学） |
-| 硕士学位 | 1-2年 | $35,000~$55,000（工程硕士，常要求本科背景） |
+| Bachelor's degree | 4 years | $25,000~$45,000 (International student tuition at New Zealand universities, e.g., University of Auckland) |
+| Master's degree | 1-2 years | $35,000~$55,000 (Master's in Engineering, often requires a bachelor's in a relevant field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士（荣誉） | 新西兰工程注册委员会（Engineering New Zealand）认证大学 | 必备 | 需包含工业工程或制造工程专业方向 |
-| 注册专业工程师（CPEng） | Engineering New Zealand | 可选 | 部分高级职位或自雇要求，非强制但加分 |
-| 雅思学术类 6.5（各单项≥6.0） | IELTS | 必备 | 移民或注册时需证明英语能力，可替代其他考试 |
+| Bachelor of Engineering (Honours) | University accredited by Engineering New Zealand | Required | Must include a major in industrial engineering or manufacturing engineering |
+| IELTS Academic 6.5 (no band below 6.0) | IELTS | Required | English proficiency may be required for immigration or registration, and can substitute for other tests |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Required for some senior or self-employed roles, not mandatory but adds points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,000。新西兰制造业与物流业持续发展，工业工程师需求稳定。政府推动智能制造与可持续发展，为本地及国际人才创造更多机会。预计未来五年就业增长中等，奥克兰、坎特伯雷等工业区岗位集中。
+**Job demand: high (★★★★☆).** National workforce approx. 2,000. New Zealand's manufacturing and logistics sectors are growing steadily, with stable demand for industrial engineers. The government promotes smart manufacturing and sustainable development, creating more opportunities for local and international talent. Moderate employment growth is expected over the next five years, with jobs concentrated in industrial areas such as Auckland and Canterbury.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起薪受地区影响，奥克兰略高 |
-| 中级（3-7年） | $75,000~$100,000 | 多数工业工程师在此范围 |
-| 高级（8年以上） | $110,000~$140,000 | 管理或咨询职位可达更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary varies by region; slightly higher in Auckland |
+| Mid-level (3–7 years) | $75,000~$100,000 | Most industrial engineers fall within this range |
+| Senior (8+ years) | $110,000~$140,000 | Management or consulting roles can reach higher earnings. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 工业工程师可从初级分析师晋升至高级工程师或管理层，领导精益改进或供应链优化项目。具备项目管理与数据分析技能后，可转向咨询或企业高管职位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
+
+Industrial engineers can progress from junior analyst to senior engineer or management, leading lean improvement or supply chain optimization projects. With project management and data analysis skills, they can move into consulting or executive roles.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and inventory optimization calculations based on historical data
+- Standard time measurement and production line balancing calculations and report generation
+- Automatic plotting and anomaly detection of statistical process control charts for quality control
+- Basic data analysis and visualization in lean production
+- Preliminary parameter setup and operation of simulation models (e.g., discrete event simulation)
+
+**Where AI augments the role:**
+
+- Use AI for complex system simulation and digital twin modeling to rapidly iterate production solutions
+- Use machine learning to predict equipment failures and maintenance needs, optimizing preventive maintenance plans
+- Uses AI-driven optimization algorithms (e.g., reinforcement learning) to dynamically adjust production scheduling
+- AI-assisted ergonomic analysis and workstation design to improve employee efficiency and comfort
+- Automated generation of data dashboards and decision recommendations to accelerate management reporting and decision-making.
+
+**Human moat:**
+
+- Cross-departmental coordination and change management, driving Lean/Six Sigma culture implementation
+- Understand human behavior and organizational dynamics, design human-centered process improvements.
+- Handles unstructured, multivariable coupled systemic problems
+- On-site problem diagnosis and rapid response based on experience and intuition.
+- Lifecycle cost-benefit analysis and strategic decision-making for projects
+
+**Skills to build:**
+
+- Python/R with data analysis libraries (Pandas, NumPy) for automated reporting and modeling
+- Machine learning basics, especially applications in predictive models and anomaly detection
+- Digital twin and simulation tools (e.g., Anylogic, Simio)
+- AI-driven optimization algorithms (introduction to genetic algorithms, reinforcement learning)
+- Data visualization tools (Tableau, Power BI)
+- Human-machine collaboration and AI applications in ergonomics
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Industrial Engineers optimize production processes and supply chains across manu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色名单一级，从事指定职位可直接申请居民签证，无工作转居留等待期。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 通过6分制打分，工业工程师可获得学历与经验加分，达标后申请居留。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为临时工签，在找到认证雇主后可先工作，后续转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1: direct application for resident visa for designated occupations, no work-to-residence waiting period. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Through the 6-point system, industrial engineers can gain points for education and experience, and apply for residence after meeting the threshold. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a temporary work visa, allows work with an accredited employer before transitioning to residence. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Engineer？**
-- 善于系统思考与流程优化，喜欢解决复杂问题
-- 具备数学与工程基础，对制造业或物流行业有兴趣
-- 愿意持续学习新技术，如精益生产或数字化工具
-
-**谁不适合学Industrial Engineer？**
-- 排斥重复性数据分析或沟通协调工作
-- 不喜欢在工厂或生产现场工作环境
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at systems thinking and process optimization, enjoys solving complex problems
+- Has a foundation in mathematics and engineering, with interest in manufacturing or logistics.
+- Willing to continuously learn new technologies, such as lean production or digital tools
+
+**Who is not suited**
+- Dislikes repetitive data analysis or coordination and communication tasks
+- Dislike working in factory or production site environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Industrial Engineer in New Zealand?**
+A: Depending on experience, entry-level annual salary about NZD 55,000-70,000, mid-level about 75,000-100,000, senior up to 110,000-140,000 or more. Accredited employers or registered engineers typically earn more.
+
+**Q: How can industrial engineers immigrate to New Zealand?**
+A: Industrial engineer is on Tier 1 of the Green List, eligible to directly apply for the Straight to Residence Visa without needing to transition from work to residence. Also eligible through the Skilled Migrant Category (SMC) 6-point system.
+
+**Q: How much does it cost to study Industrial Engineering in New Zealand?**
+A: International student tuition approximately NZ$25,000-45,000 per year, 4-year program. University of Auckland, University of Canterbury, etc., offer accredited programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Industrial Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Industrial Engineer in New Zealand?**
-答：Entry-level salary ranges from NZ$55,000 to NZ$70,000, mid-level NZ$75,000 to NZ$100,000, and senior can exceed NZ$110,000 to NZ$140,000. Accredited employers or CPEng may offer more.
-
-**问：How can an Industrial Engineer immigrate to New Zealand?**
-答：Industrial Engineer is on Green List Tier 1, eligible for Straight to Residence Visa without work-to-residence wait. Also qualifies for Skilled Migrant Category under 6-point system.
-
-**问：What is the cost of studying Industrial Engineering at undergraduate level in New Zealand?**
-答：International tuition fees range from NZ$25,000 to NZ$45,000 per year for a 4-year bachelor's degree. Universities such as University of Auckland and University of Canterbury offer accredited programs.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

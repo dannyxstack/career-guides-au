@@ -1,60 +1,96 @@
-# Other Cleaning Workers（Other Cleaning Workers）职业分析 · NL
+# Other Cleaning Workers — career analysis · Netherlands
 
-**职业代码：9129 – Other Cleaning Workers。**
+**Occupation code: 9129 (ISCO08)**
 
-Perform cleaning duties other than domestic and industrial cleaning, such as street sweeping and window cleaning.
+Performing various cleaning tasks other than domestic and industrial cleaning, such as street sweeping, window cleaning, etc.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常不需要学历，在职培训即可） |
-| 短期培训课程 | 数周至3个月 | $500~$2,000（可参加清洁技术或安全培训课程） |
+| No formal education requirements | None | $0~$0 (Usually no qualifications required, on-the-job training available) |
+| Short-term training course | Weeks to 3 months | $500~$2,000 (Can attend cleaning technology or safety training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格 | 无 | 可选 | 荷兰无特定执照要求 |
-| VCA安全证书 | 荷兰安全协会 | 可选 | 部分雇主要求，尤其是工业清洁 |
+| No mandatory qualifications | None | Optional | No specific license requirements in the Netherlands |
+| VCA safety certificate | Dutch Safety Association | Optional | Required by some employers, especially for industrial cleaning |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。荷兰清洁行业需求稳定，随着服务业发展，岗位数量预计小幅增长，但工作季节性较强。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Demand in the Dutch cleaning industry is stable, with a slight expected increase in positions as the service sector grows, but work is somewhat seasonal.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，基于全职 |
-| 中级（3-7年） | $30,000~$35,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $35,000~$40,000 | 税前年薪，包括主管职位 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, based on full-time |
+| Mid-level (3–7 years) | $30,000~$35,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $35,000~$40,000 | Annual salary before tax, including supervisory positions |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级清洁工晋升为团队主管或监督员，部分可转为自主创业提供专业清洁服务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cleaner tasks are highly repetitive and in a fixed environment; automation equipment (e.g., sweeping robots) and AI scheduling systems are rapidly replacing human labor, significantly reducing entry-level positions, but supervisory and complex cleaning tasks remain.
+
+Can progress from entry-level cleaner to team leader or supervisor, with some transitioning to self-employment offering professional cleaning services.
+
+**Tasks most exposed to AI:**
+
+- Using brooms and mops for routine floor cleaning
+- Sweep streets and sidewalks along fixed routes
+- Clean windows and surfaces with a cloth
+- Collecting and disposing of garbage
+- Repeating the same cleaning procedures in known areas
+
+**Where AI augments the role:**
+
+- Optimising cleaning routes and frequency via AI dispatch system
+- Use intelligent cleaning robots for efficient large-area cleaning
+- Analyzing high-traffic areas with sensor data to allocate resources.
+- Use online platforms to manage cleaning contracts and client communication
+- Monitor cleaning equipment status and maintenance needs via IoT
+
+**Human moat:**
+
+- Safety responsibility for handling hazardous or contaminated substances (e.g., medical waste)
+- Fine cleaning in complex or confined spaces (e.g., precision instruments)
+- Flexible judgment for handling emergencies (e.g., liquid spills, contamination spread)
+- Customer complaint handling and personalized cleaning needs adaptation.
+- Visually inspect cleaning quality and ensure hygiene standards
+
+**Skills to build:**
+
+- Operate commercial cleaning robots and perform maintenance
+- Use AI scheduling software for task management
+- Master the safe use of chemical cleaners
+- Basic equipment maintenance and troubleshooting skills.
+- Application of digital communication tools (e.g., work order systems)
+- Specialized cleaning training (e.g., deep carpet cleaning)
+
+**Key growth areas:**
 
 - Stable demand
 - Service sector growth
@@ -63,65 +99,67 @@ Perform cleaning duties other than domestic and industrial cleaning, such as str
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，通常要求薪资高于门槛，对于清洁工不常见 |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled migrants, usually requires salary above threshold, uncommon for cleaners |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Cleaning Workers？**
-- 需要体力劳动且不介意工作环境的人
-- 寻求入门级工作无需高学历的人
-- 愿意从事灵活或季节性工作的人
+**Who is suited**
+- People who are willing to do physical labor and do not mind the work environment
+- People seeking entry-level jobs without high educational requirements
+- People willing to do flexible or seasonal work
 
-**谁不适合学Other Cleaning Workers？**
-- 寻求高收入职业的人
-- 偏好室内办公环境的人
+**Who is not suited**
+- People seeking high-income careers.
+- People who prefer an indoor office environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for a cleaner?**
+A: Entry-level approx. €25,000-30,000, senior supervisor up to €40,000.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through the cleaner occupation?**
+A: Difficult because cleaners do not meet the high-skilled immigration salary threshold, typically limited to EU free movement.
+
+**Q: Are there promotion opportunities for cleaners?**
+A: Yes, can be promoted to team leader or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other Cleaning Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for cleaning workers?**
-答：Entry-level around EUR 25,000-30,000, senior supervisors up to EUR 40,000.
-
-**问：Can non-EU citizens immigrate to the Netherlands as cleaning workers?**
-答：Difficult, as the job usually does not meet the high-skilled migrant salary threshold; primarily EU free movement.
-
-**问：Are there career advancement opportunities for cleaning workers?**
-答：Yes, to team supervisor or self-employment.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

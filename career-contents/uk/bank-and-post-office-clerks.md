@@ -1,60 +1,93 @@
-# Bank and post office clerks（Bank and post office clerks）职业分析 · UK
+# Bank and post office clerks — career analysis · United Kingdom
 
-**职业代码：4123 – Bank and post office clerks。**
+**Occupation code: 4123 (SOC)**
 
-Deal with payment and receipt of money, cheques and other routine financial transactions, open and close accounts, and advise on financial products offered by banks, building societies and post offices.
+Responsible for handling daily financial transactions such as cash and checks, opening and closing accounts, and introducing financial products and services of banks, building societies, and post offices.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常无学历要求，企业提供在职培训） |
-| 职业培训证书 | 6个月 | $500~$2,000（如Level 2/3 Diploma in Banking or Customer Service） |
+| High school graduation | None | $0~$0 (Usually no education requirements; on-the-job training provided by employer) |
+| Vocational training certificate | 6 months. | $500~$2,000 (e.g., Level 2/3 Diploma in Banking or Customer Service) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融服务业资格认证 | 特许银行家协会 | 可选 | 部分雇主要求或鼓励获得，如Certificate in Financial Services |
-| 客户服务证书 | 城市行业协会 | 可选 | 非强制，但有助于提升竞争力 |
+| Financial services qualification certification | Chartered Banker Institute | Optional | Some employers require or encourage it, such as Certificate in Financial Services |
+| Customer service certificate | City and Guilds | Optional | Not mandatory, but helps improve competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 95,000。随着数字银行和自助服务普及，传统柜员需求持续下降，但邮局和社区银行仍有一定岗位。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 95,000. With the rise of digital banking and self-service, demand for traditional tellers continues to decline, but post offices and community banks still offer some positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 起薪多在最低工资附近 |
-| 中级（3-7年） | $22,000~$28,000 | 包含有经验的柜员或高级柜员 |
-| 高级（7年以上） | $28,000~$35,000 | 团队主管或分支行经理助理级别 |
+| Median salary | $30,265 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salaries are often near minimum wage |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes experienced tellers or senior tellers |
+| Senior (7+ years) | $28,000~$35,000 | Team supervisor or branch manager assistant level |
+| average salary | $32,980 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可晋升为高级柜员、客户服务主管或分支行经理，也可转岗至贷款、理财等后台部门。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Routine transaction processing tasks of bank and post office clerks will be greatly compressed by AI automation, but complex customer inquiries and sales tasks will be enhanced by AI, shifting roles toward advisory positions.
+
+Can be promoted to senior teller, customer service supervisor, or branch manager, or transfer to backend departments such as loans or wealth management.
+
+**Tasks most exposed to AI:**
+
+- Counting and reconciling cash and cheques
+- Standard account opening and closing form processing
+- Simple customer inquiries such as balance checks and transaction details
+- Mail sorting and courier slip entry
+
+**Where AI augments the role:**
+
+- Identify customer needs and recommend financial products (using AI to analyze customer profiles)
+- Handle escalated complaints and complex disputes (AI provides solution templates).
+- Check suspicious transactions and compliance risks (AI flags abnormal transactions)
+- Personalized Financial Planning Advice (AI-Generated Scenario Simulation)
+
+**Human moat:**
+
+- Communication and empathy skills for handling complex, non-routine customer requests
+- Cross-departmental coordination and internal process optimization decisions
+- Customization design and sales negotiation of financial product portfolios
+- Professional judgment and ethical trade-offs under regulatory compliance
+
+**Skills to build:**
+
+- Knowledge of financial products (investments, insurance, pensions, etc.)
+- Customer relationship management and sales techniques
+- Basic data analysis and AI tool usage (e.g., CRM systems)
+- Digital office and self-service terminal maintenance
+- Knowledge of AML and compliance regulations
+- Emotional intelligence and conflict mediation
+
+**Key growth areas:**
 
 - declining demand
 - digital banking
@@ -63,65 +96,67 @@ Deal with payment and receipt of money, cheques and other routine financial tran
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker） | 该职业通常不符合技术工人签证的学历和薪资门槛，雇主极难担保。 |
-| Subclass Graduate（Graduate Visa） | 毕业生签证持有人可在任何岗位工作两年（博士三年），但此职业无法带来长期居留路径。 |
+| Subclass Skilled Worker (Skilled Worker) | This occupation usually does not meet the education and salary thresholds for skilled worker visas, making employer sponsorship extremely difficult. |
+| Subclass Graduate (Graduate Visa) | Graduate visa holders can work in any role for two years (three years for PhD), but this occupation does not offer a long-term residency pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bank and post office clerks？**
-- 注重工作生活平衡、不追求高薪的求职者
-- 希望进入金融行业但无相关学历的入门者
-- 愿意从事客户服务且能应对重复性工作的人
+**Who is suited**
+- Job seekers prioritizing work-life balance over high salary
+- Beginners who want to enter the financial industry but lack relevant qualifications
+- Those willing to engage in customer service and handle repetitive tasks
 
-**谁不适合学Bank and post office clerks？**
-- 追求高收入和快速晋升的人
-- 希望获得英国长期居留的技术移民
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- Skilled migrants seeking long-term UK residency
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a bank teller in the UK?**
+A: Junior tellers earn around £18k-£22k per year, experienced staff £25k-£30k, and supervisors around £30k-£35k.
+
+**Q: Can bank and post office workers apply for a UK Skilled Worker visa?**
+A: Generally not, as this occupation is not on the eligible occupations list for skilled worker visas, and both salary and skill requirements are not met.
+
+**Q: Will bank tellers be replaced by automation?**
+A: High risk; online banking and self-service terminals have significantly reduced counter transaction demand, and positions will continue to shrink
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Bank and post office clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bank clerk in the UK?**
-答：Entry-level clerks earn around £18,000-£22,000 per year, experienced clerks £25,000-£30,000, and supervisors £30,000-£35,000.
-
-**问：Can bank and post office clerks apply for a UK Skilled Worker visa?**
-答：Generally no, as this occupation is not on the eligible occupations list and does not meet the salary and skill requirements.
-
-**问：Will bank clerks be replaced by automation?**
-答：High risk; online banking and self-service kiosks have significantly reduced demand for counter transactions, and jobs will continue to decline.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

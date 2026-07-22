@@ -1,59 +1,95 @@
-# Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)（Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)）职业分析 · 新西兰
+# Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher) — career analysis · New Zealand
 
-**职业代码：241211 – Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)。**
+**Occupation code: 241211 (ANZSCO)**
 
-Teach in Māori-medium primary schools, integrating Māori culture and traditions to foster bilingualism. Included on New Zealand's Green List Tier 1, offering a direct residence pathway with strong immigration prospects.
+Teach in primary schools in a Māori language environment, integrating Māori culture and traditions to develop bilingual skills. New Zealand lists Māori language teachers under the Green List Tier 1, allowing direct residency applications with a clear immigration pathway and good opportunities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（教育学-毛利语方向） | 3年 | $25,000~$35,000（新西兰公立大学学费，国际学生约3万纽元/年） |
-| 研究生文凭（教学） | 1年 | $30,000~$40,000（如已获其他专业本科，需完成教学研究生文凭） |
+| Bachelor's degree (Education - Māori language focus) | 3 years | $25,000~$35,000 (New Zealand public university tuition fees for international students: approximately NZD 30,000/year.) |
+| Graduate Diploma in Teaching | 1 year | $30,000~$40,000 (If you already hold a bachelor's degree in another field, you need to complete a Graduate Diploma in Teaching) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册教师资格 | 新西兰教学委员会 | 必备 | 必须完成经认可的教学课程并注册，含毛利语能力评估 |
-| 毛利语能力证书 | 毛利语言委员会或相关大学 | 必备 | 需达到高级水平（C1/C2），部分学校要求通过Māori Language Proficiency Exam |
-| 儿童工作安全检查 | 新西兰警方 | 必备 | 所有教育工作者必须通过 |
+| Registered teaching qualification | Teaching Council of Aotearoa New Zealand | Required | Must complete an accredited teaching course and be registered, including Māori language proficiency assessment |
+| Māori language proficiency certificate | Māori Language Commission or relevant universities | Required | Must achieve advanced level (C1/C2), some schools require passing the Māori Language Proficiency Exam |
+| Working with Children Check | New Zealand Police. | Required | All educators must pass |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰对毛利语教师需求持续增长，尤其是北岛毛利社区密集地区。政府推动毛利语言复兴计划，预计未来5年就业稳定增长，毕业生就业率高。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Demand for Māori language teachers in New Zealand continues to grow, especially in regions with dense Māori communities in the North Island. Government initiatives promoting Māori language revitalization are expected to lead to stable employment growth over the next 5 years, with high graduate employment rates.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 根据集体协议，2024年起点约5.5万纽元 |
-| 中级（4-9年） | $65,000~$80,000 | 含经验津贴和毛利语言额外补贴 |
-| 高级（10年以上） | $80,000~$95,000 | 含校长或学科带头人角色，最高可达9.5万纽元 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Under the collective agreement, the 2024 starting point is approx. NZD 55,000 |
+| Intermediate (4-9 years) | $65,000~$80,000 | Includes experience allowance and additional gross language allowance. |
+| Senior (10+ years) | $80,000~$95,000 | Including principal or subject leader roles, up to 95,000 NZD |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级教师晋升为高级教师、学科带头人或副校长。积累经验后可进入教育部或毛利教育机构从事政策制定或课程开发工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+Can progress from junior teacher to senior teacher, subject head, or deputy principal. With experience, can enter the Ministry of Education or Maori education institutions for policy development or curriculum development.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Teach in Māori-medium primary schools, integrating Māori culture and tradition
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色名单一级职业，可直接申请居留，无需先工作两年。需持注册教师资格并有工作offer。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，满足6分制要求（如学历+工作经验）。作为注册教师通常可获较高分数。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡签证，需雇主担保。通常用于积累工作经验以满足移民要求。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, can directly apply for residence without needing to work for two years first. Must hold registered teaching qualification and have a job offer. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting the 6-point system requirements (e.g., qualifications + work experience). Registered teachers typically receive higher scores. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa as a transitional visa, requiring employer sponsorship. Typically used to accumulate work experience for immigration eligibility. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)？**
-- 毛利语流利者，热爱毛利文化及教育
-- 希望快速获得新西兰居留权且职业稳定的人士
-- 有教学经验并愿意在毛利社区工作的人
-
-**谁不适合学Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)？**
-- 毛利语水平有限或不愿学习毛利语者
-- 无法适应偏远地区或毛利文化环境者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fluent in Māori, passionate about Māori culture and education
+- People seeking fast New Zealand residency with stable careers
+- Those with teaching experience and willing to work in Maori communities
+
+**Who is not suited**
+- Those with limited proficiency in the Māori language or unwilling to learn it
+- Those unable to adapt to remote areas or Māori cultural environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Māori language teachers?**
+A: Entry-level teachers earn about NZD 55,000-65,000 annually, mid-level NZD 65,000-80,000, and senior teachers up to NZD 95,000. Some schools offer Māori language allowances.
+
+**Q: Is it easy for a Maori language teacher to immigrate to New Zealand?**
+A: Very easy. This occupation is on the Green List Tier 1, eligible for direct residence application. Must hold registered teaching qualification and advanced Māori language proficiency.
+
+**Q: What certifications are required to become a Māori language teacher?**
+A: Requires registration with New Zealand Teaching Council, advanced Māori language certificate (e.g. C1), and children's work safety check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Māori-medium teachers?**
-答：Entry-level salary is around NZD 55,000-65,000, mid-level 65,000-80,000, senior up to 95,000. Some schools offer Māori language allowances.
-
-**问：Is it easy for Māori-medium teachers to immigrate to New Zealand?**
-答：Very easy. The occupation is on Green List Tier 1, allowing direct residence. Requires registration and advanced Māori proficiency.
-
-**问：What certifications are needed to become a Māori-medium teacher?**
-答：Registration with the Teaching Council, advanced Māori certificate (e.g., C1), and a police vetting.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Control and Valve Installers and Repairers, Except Mechanical Door（Control and Valve Installers and Repairers, Except Mechanical Door）职业分析 · 美国
+# Control and Valve Installers and Repairers, Except Mechanical Door — career analysis · United States
 
-**职业代码：49-9012 – Control and Valve Installers and Repairers, Except Mechanical Door。**
+**Occupation code: 49-9012 (SOC)**
 
-Install, repair, and maintain mechanical regulating and controlling devices, such as electric meters, gas regulators, thermostats, safety and flow valves, and other mechanical governors.
+Install, repair, and maintain mechanical regulation and control devices such as electric meters, gas regulators, thermostats, safety valves, and flow valves.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制培训 | 4-5年 | —（通常带薪培训，少量教材费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training | 4-5 years | $0~$5,000 (Typically paid training, with minor materials fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 美国教育部认可的学校 | 必备 | 基础入学要求 |
-| 认证技术员（可选） | 工业技术协会 | 可选 | 提升竞争力 |
-| EPA Section 608认证 | 美国环境保护署 | 可选 | 涉及制冷剂时必需 |
+| High school diploma | Schools accredited by the U.S. Department of Education | Required | Basic entry requirements |
+| Certified technician (optional) | Industrial Technology Association | Optional | Boosting competitiveness |
+| EPA Section 608 certification | US Environmental Protection Agency | Optional | Required when dealing with refrigerants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。随着工业自动化和智能电网发展，对控制与阀门安装和维修工的需求稳定。预计2023-2033年就业增长约5%，与平均水平持平，但退休人员更替将带来持续职位空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. With the development of industrial automation and smart grids, demand for control and valve installers and repairers is stable. Employment is projected to grow about 5% from 2023-2033, about as fast as the average, but replacement of retiring workers will create ongoing job openings.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒或入门级 |
-| 中级（4-7年） | $48,000~$60,000 | 熟练技工 |
-| 高级（8年以上） | $65,000~$80,000 | 主管或专家 |
+| Median salary | $74,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprentice or entry-level |
+| Mid-level (4-7 years) | $48,000~$60,000 | Skilled tradesperson |
+| Senior (8+ years) | $65,000~$80,000 | Supervisor or specialist |
+| average salary | $76,210 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径：从学徒或初级技工起步，积累经验后可晋升为高级技工、团队主管或质量控制员。也可通过继续教育转向自动化系统工程师或销售工程师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Automation risk for control and valve installation/repair workers is medium: routine instrument reading and documentation easily replaced by AI, but on-site manual operations, fault diagnosis, and compliance responsibilities still require humans; overall mixed impact.
+
+Career path: start as apprentice or junior technician, gain experience to advance to senior technician, team supervisor, or quality controller. Further education can lead to automation system engineer or sales engineer.
+
+**Tasks most exposed to AI:**
+
+- Routine instrument reading and data recording
+- Automatic valve opening adjustment (based on preset logic).
+- Standard maintenance report generation
+- Automatic triggering and classification of simple fault alarms
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis (predicting issues based on historical data)
+- Augmented reality remote guidance for complex repairs
+- Automatically analyze system logs to optimize maintenance plans
+- Smart sensor data fusion improves detection accuracy
+- Integration with SCADA systems for predictive maintenance
+
+**Human moat:**
+
+- Hands-on disassembly, assembly, and calibration of valves and controllers
+- Causal reasoning for diagnosing non-standard, abnormal faults
+- Comply with safety regulations and industry certifications (e.g., pressure equipment)
+- Communicating with clients to explain repair plans and preventive measures
+- Judgment and operation in hazardous environments (high pressure, gas)
+
+**Skills to build:**
+
+- Configuration of smart meters and wireless sensor networks
+- Industrial Internet of Things (IIoT) data analysis basics.
+- Programmable logic controller (PLC) programming and debugging
+- Augmented reality (AR) maintenance tool operation
+- Preventive maintenance software use (CMMS)
+- Basic Python or scripting languages for data extraction
+
+**Key growth areas:**
 
 - Industrial Automation
 - Smart Grid
@@ -62,65 +97,64 @@ Install, repair, and maintain mechanical regulating and controlling devices, suc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要专业知识的职位，通常要求相关学士学位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 绿卡移民，要求至少2年经验或培训 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主支持，证明无美国工人可用 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to positions requiring specialized knowledge, typically a relevant bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card immigration, requiring at least 2 years of experience or training |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship, proving no US workers are available |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Control and Valve Installers and Repairers, Except Mechanical Door？**
-- 喜欢动手操作和机械维修的人
-- 有耐心且注重细节，愿意在户外或厂房工作
-- 愿意通过学徒学习并接受持续培训
-
-**谁不适合学Control and Valve Installers and Repairers, Except Mechanical Door？**
-- 不喜欢体力劳动或现场作业环境
-- 不愿学习复杂工业控制系统
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy hands-on work and mechanical repair
+- Patient and detail-oriented, willing to work outdoors or in a workshop.
+- Willing to learn through apprenticeships and receive ongoing training
+
+**Who is not suited**
+- Dislikes physical labor or on-site work environments
+- Unwilling to learn complex industrial control systems
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for control and valve installation and repair workers?**
+A: According to BLS data, the median annual salary in 2023 was about $55,000, but experienced workers can earn over $75,000.
+
+**Q: Is it easy to immigrate to the US through a work visa for this occupation?**
+A: Relatively feasible, can immigrate via H-1B or EB-3 green card, but requires employer sponsorship and meeting education or experience requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Control and Valve Installers and Repairers, Except Mechanical Door的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for control and valve installers and repairers?**
-答：According to BLS, the median annual wage in 2023 was about $55,000, with experienced workers earning over $75,000.
-
-**问：Is this occupation easy to immigrate to the US via work visa?**
-答：Relatively feasible via H-1B or EB-3 green card, but requires employer sponsorship and meeting education/experience requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

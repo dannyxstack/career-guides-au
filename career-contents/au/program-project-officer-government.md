@@ -1,66 +1,94 @@
-# 政府项目官员（Program / Project Officer (Government)）职业分析 · 澳大利亚
+# Program / Project Officer (Government) — career analysis · Australia
 
-**职业代码：511113 – Program / Project Officer (Government)。**
+**Occupation code: 511113 (ANZSCO)**
 
-政府项目/项目官员在联邦与州政府负责项目协调、干系人沟通、报告与资金管理，是政策落地与公共项目交付的执行岗，APS5–6 居多，需求稳定，非技术移民职业。
+Government Project/Program Officers coordinate projects, stakeholder communication, reporting, and fund management in federal and state governments. They implement policies and deliver public programs, mostly at APS5–6 levels, with stable demand. This is a non-skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 相关本科（常见） | 3~4年 | $20,000~$45,000（多数岗位要求） |
-| 项目管理资质（可选） | 数月 | $1,000~$6,000（加分） |
+| Relevant bachelor's degree (common) | 3–4 years | $20,000~$45,000 (Most roles require) |
+| Project management qualifications (optional) | Several months | $1,000~$6,000 (Bonus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学历 | 认可大学 | 可选 | 入行基础 |
-| Australian Citizenship（多数岗） | — | 可选 | 多数岗强制 |
+| Related qualification | Recognised university | Optional | Foundation for entering the industry |
+| Australian Citizenship (most roles) | — | Optional | Mandatory for most roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 90,000。政府项目化交付增多带动稳定需求，具备项目管理、数据与干系人沟通能力者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 90,000. Rising government project-based delivery drives steady demand; those with project management, data, and stakeholder communication skills are more sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| APSjobs | 2,000~4,500 个 | 联邦 |
-| I work for NSW / 各州 | 2,000~4,000 个 | 州政府 |
-| Seek | 1,800~3,500 个 | 全国 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $75,000~$86,000 | Entry |
-| 中级（3-8年） | $86,000~$104,000 | APS5–6 |
-| 资深 / 项目经理 | $104,000~$125,000 | EL1 |
+| Median salary | $110,760 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $75,000~$86,000 | Entry |
+| Mid-level (3–8 years) | $86,000~$104,000 | APS5–6 |
+| Senior / Project Manager | $104,000~$125,000 | EL1 |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：项目官员→高级项目官员→项目经理/EL1；项目管理资质(如 PRINCE2)加分。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
+
+Pathway: Project officer → Senior project officer → Project manager/EL1; project management qualifications (e.g. PRINCE2) are an advantage.
+
+**Tasks most exposed to AI:**
+
+- Template-based report generation and formatting
+- Stakeholder data collection and preliminary organization
+- Meeting minutes and action item extraction
+- Budget tracking and expenditure classification.
+
+**Where AI augments the role:**
+
+- Quickly analyze project data via AI to generate insights
+- Automated stakeholder communication and updates
+- Intelligent schedule management and resource allocation optimization
+- Risk prediction and early warning
+
+**Human moat:**
+
+- Complex budget negotiations and contract decisions
+- Handle cross-departmental politically sensitive issues
+- Policy interpretation and flexible application
+- Senior stakeholder trust and relationship management
+- Crisis Management and Emergency Response
+
+**Skills to build:**
+
+- Project Management Software (e.g., MS Project, Jira)
+- Data analysis and visualization (Tableau, Power BI)
+- AI report generation tools (e.g., ChatGPT, Microsoft Copilot)
+- Basic budgeting and financial modeling
+- Emotional intelligence and cross-cultural communication
+- Agile project management (Agile/Scrum)
+
+**Key growth areas:**
 
 - Program Delivery
 - Stakeholder Engagement
@@ -69,57 +97,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学政府项目官员？**
-- 擅长协调、写报告与项目管理的人
-- 有学位、想进入公职项目岗者
-
-**谁不适合学政府项目官员？**
-- 不擅长干系人沟通与文书者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in coordination, report writing, and project management
+- Those with a degree who want to enter public sector project roles
+
+**Who is not suited**
+- Not suitable for those poor at stakeholder communication and documentation
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: How much do government project officers earn?**
+A: Approximately AUD 75,000-125,000 (APS5–EL1), plus 15.4% superannuation.
+
+**Q: Can government project officers do skilled migration?**
+A: No, mostly require citizenship, not on skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-政府项目官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：政府项目官员薪资多少？**
-答：约 AUD $7.5万~$12.5万(APS5–EL1)，外加 15.4% 退休金。
-
-**问：政府项目官员能技术移民吗？**
-答：不能，多要求公民身份，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

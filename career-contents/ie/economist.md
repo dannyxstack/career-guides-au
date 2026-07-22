@@ -1,60 +1,96 @@
-# Economist（Economist）职业分析 · IE
+# Economist — career analysis · Ireland
 
-**职业代码：2631 – Economist。**
+**Occupation code: 2631 (ISCO08)**
 
-Economists analyze economic data, forecast trends, and provide policy advice to governments, businesses, and financial institutions.
+Economists analyze economic data, forecast trends, and provide policy advice and decision support for governments, businesses, and financial institutions.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $10,000~$25,000（爱尔兰本科国际生学费约10000-25000欧元/年） |
-| 硕士 | 1-2年（硕士） | $12,000~$30,000（硕士学费略高，约12000-30000欧元/年） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $10,000~$25,000 (Ireland undergraduate international tuition approx. €10,000-25,000/year) |
+| Master's degree | 1-2 years (Master's) | $12,000~$30,000 (Master's tuition is slightly higher, about 12,000-30,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学学士学位 | 爱尔兰大学 | 必备 | 通常需要经济学或相关领域本科学位 |
-| 硕士或博士学位 | 大学 | 可选 | 高级职位常要求硕士或博士学历 |
+| Bachelor's degree in Economics. | Irish universities | Required | Usually requires an undergraduate degree in economics or a related field |
+| Master's or doctoral degree | University | Optional | Senior positions often require a master's or doctoral degree. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 3,000。爱尔兰经济持续增长，对经济学家的需求稳定，尤其在金融、咨询和公共部门。数据分析和政策评估技能备受青睐。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,000. Ireland's economy continues to grow, with stable demand for economists, especially in finance, consulting, and the public sector. Data analysis and policy evaluation skills are highly valued.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 初级经济学家年薪约35000-45000欧元 |
-| 中级（3-7年） | $50,000~$70,000 | 中级经济学家年薪约50000-70000欧元 |
-| 高级（7年以上） | $80,000~$120,000 | 高级经济学家年薪可达80000-120000欧元 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Junior economist annual salary approximately €35,000-45,000 |
+| Mid-level (3–7 years) | $50,000~$70,000 | Intermediate economist annual salary approximately 50,000-70,000 EUR |
+| Senior (7+ years) | $80,000~$120,000 | Senior economists can earn an annual salary of 80,000-120,000 euros |
+| average salary | $66,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级经济学家可晋升为高级经济学家，进而成为首席经济学家或经济政策主管。也可转向数据分析、金融或咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Junior economists can advance to senior economist, then to chief economist or economic policy director. They can also transition to data analysis, finance, or consulting.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Data Analysis
 - Policy Evaluation
@@ -63,69 +99,68 @@ Economists analyze economic data, forecast trends, and provide policy advice to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过32000欧元的经济学家，可快速获得居留权并带家属。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于32000欧元的职位，需雇主担保，更严格。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能经济学家，年薪门槛约45000欧元，可往其他欧盟国家工作。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to economists with an annual salary over 32,000 euros, enabling fast-track residency and family reunification. |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary below €32,000, requiring employer sponsorship, more restrictive. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled economists, with an annual salary threshold of approximately €45,000, and allows work in other EU countries. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economist？**
-- 对经济数据有浓厚兴趣，善于分析推理
-- 具备数学和统计基础，适应量化工作
-- 希望进入政策或金融研究领域
-
-**谁不适合学Economist？**
-- 厌恶数据分析和学术研究
-- 追求高交易或快节奏职业
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in economic data, adept at analytical reasoning
+- Have a foundation in mathematics and statistics, comfortable with quantitative work
+- Aspiring to enter the policy or financial research field
+
+**Who is not suited**
+- Dislikes data analysis and academic research
+- Pursuing high-volume or fast-paced careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for economists in Ireland?**
+A: junior annual salary approx. 35,000-45,000 euros, mid-level approx. 50,000-70,000 euros, senior up to 80,000-120,000 euros.
+
+**Q: How can a foreigner become an economist in Ireland?**
+A: Typically require employer sponsorship to apply for a Critical Skills or General Employment Permit. Economics is on the skills shortage list but is not a shortage occupation.
+
+**Q: Which universities in Ireland have good economics programs?**
+A: Trinity College Dublin, University College Dublin, University College Cork, among others, offer high-quality undergraduate and postgraduate programs in economics.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Economist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for economists in Ireland?**
-答：Junior economists earn €35,000-45,000, mid-level €50,000-70,000, and senior €80,000-120,000 annually.
-
-**问：How can a foreigner become an economist in Ireland?**
-答：Typically need employer sponsorship for a Critical Skills or General Employment Permit. Economics is not on the shortage list but still viable.
-
-**问：Which Irish universities have good economics programs?**
-答：Trinity College Dublin, University College Dublin, and University College Cork offer strong economics degrees.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

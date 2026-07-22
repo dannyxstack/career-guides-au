@@ -1,60 +1,94 @@
-# Soil and Plant Scientists（Soil and Plant Scientists）职业分析 · 美国
+# Soil and Plant Scientists — career analysis · United States
 
-**职业代码：19-1013 – Soil and Plant Scientists。**
+**Occupation code: 19-1013 (SOC)**
 
-Conduct research on crop breeding, physiology, production, and soil composition to improve agricultural productivity and sustainability.
+Research crop breeding, physiology, yield, management, and soil chemical, physical, and biological composition to improve agricultural productivity and sustainability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（公立大学学费） |
-| 硕士 | 2年 | $30,000~$60,000（公立大学学费） |
-| 博士 | 5年 | —（通常有全额奖学金或助教职位） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Public university tuition) |
+| Master's degree | 2 years | $30,000~$60,000 (Public university tuition) |
+| Doctorate | 5 years | $0~$50,000 (Usually full scholarships or teaching assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农学或相关领域学士学位 | 大学 | 必备 | 最低学历要求 |
-| 土壤科学家认证 | 美国土壤科学学会 | 可选 | 非强制但提升竞争力 |
-| 博士学历 | 大学 | 可选 | 研究或大学教职通常要求 |
+| Bachelor's degree in agronomy or related field | University | Required | Minimum Education Requirement |
+| Soil scientist certification | Soil Science Society of America | Optional | Not mandatory but enhances competitiveness |
+| PhD degree | University | Optional | Usually required for research or university faculty positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 16,000。预计2023-2033年就业增长约6%，与平均水平相当。可持续农业和粮食安全需求推动就业，政府与私营部门研究资金稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 16,000. Projected employment growth of about 6% from 2023-2033, about average. Sustainable agriculture and food security needs drive employment; stable research funding from government and private sector.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $45,000~$65,000 | 政府或实验室职位 |
-| 中级（5-10年） | $65,000~$85,000 | 私营企业或项目经理 |
-| 高级（10年以上） | $85,000~$120,000 | 首席科学家或教授 |
+| Median salary | $78,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $45,000~$65,000 | Government or laboratory positions |
+| Intermediate (5-10 years) | $65,000~$85,000 | Private enterprise or project manager |
+| Senior (10+ years) | $85,000~$120,000 | Chief Scientist or Professor |
+| average salary | $87,720 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 从助理研究员到首席科学家或教授。可转向农业咨询、政策制定或企业研发管理。博士学位晋升更快。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly change the work of soil and plant scientists, with some tasks automated, but core research and management capabilities enhanced; overall risk moderate.
+
+From assistant researcher to chief scientist or professor. Can pivot to agricultural consulting, policy development, or corporate R&D management. A doctoral degree accelerates promotion.
+
+**Tasks most exposed to AI:**
+
+- Routine soil sample chemical analysis
+- Manual recording and simple statistics of plant growth data
+- Literature review and data collation
+- Repeated observations in field trials
+- Basic report generation
+
+**Where AI augments the role:**
+
+- Use machine learning models to predict crop yield and soil health
+- Precision agriculture decision-making using remote sensing and drone imagery
+- AI-assisted crop breeding (gene-trait association analysis)
+- Automated laboratory analysis (e.g., real-time monitoring of soil carbon and nitrogen content)
+
+**Human moat:**
+
+- Interdisciplinary research design (e.g., crop-soil-climate system modeling)
+- Innovation and validation of experimental protocols (non-standard problems)
+- Communication and advice with farmers and policymakers
+- Ethical and sustainability judgment (e.g., ecological trade-offs)
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Machine learning and deep learning (e.g., Scikit-learn, TensorFlow)
+- Remote sensing and GIS (e.g., QGIS, Google Earth Engine).
+- Precision agriculture technologies (e.g., drone monitoring, soil sensors)
+- Experimental design and statistics (e.g., Bayesian methods)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Sustainable agriculture
 - Precision farming
@@ -63,68 +97,67 @@ Conduct research on crop breeding, physiology, production, and soil composition 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于专业职位，需学士以上学历，每年抽签。雇主可赞助。 |
-| Subclass EB-2（Employment-Based Second Preference (NIW)） | 国家利益豁免，适用于高级学位或杰出能力，无需劳工证。 |
-| Subclass J-1（Exchange Visitor (Research Scholar)） | 用于研究或教学交流，有回国服务要求，但可申请豁免。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional positions requiring at least a bachelor's degree, with an annual lottery. Employer sponsorship is available. |
+| Subclass EB-2 (Employment-Based Second Preference (NIW)) | National Interest Waiver, suitable for advanced degree or exceptional ability; no labor certification required. |
+| Subclass J-1 (Exchange Visitor (Research Scholar)) | For research or teaching exchange, with a requirement to return to serve the home country, but waiver may be applied for. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Soil and Plant Scientists？**
-- 热爱户外田野研究
-- 对农业可持续发展感兴趣
-- 具备数据分析与科学写作能力
-
-**谁不适合学Soil and Plant Scientists？**
-- 偏好办公室固定工作
-- 不愿接受长期博士训练
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves outdoor fieldwork research
+- Interested in sustainable agriculture
+- Skills in data analysis and scientific writing
+
+**Who is not suited**
+- Prefer fixed office work
+- Unwilling to pursue long-term doctoral training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for soil and plant scientists?**
+A: U.S. median annual salary approx US$73,000, junior approx US$45,000-65,000, senior up to US$120,000.
+
+**Q: How can foreign citizens immigrate to the US through this occupation?**
+A: Common path is H-1B work visa, or green card through EB-2 National Interest Waiver (NIW). Requires employer sponsorship.
+
+**Q: What qualifications are required?**
+A: Minimum bachelor's, but research positions usually require master's or doctorate. Doctorate offers more advancement opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Soil and Plant Scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for soil and plant scientists?**
-答：Median annual wage in the US is about $73,000, entry-level $45,000-$65,000, senior up to $120,000.
-
-**问：How can foreign nationals immigrate to the US through this occupation?**
-答：Common path is H-1B visa or EB-2 National Interest Waiver for green card. Requires employer sponsorship.
-
-**问：What education is required?**
-答：Minimum bachelor's degree, but research positions usually require master's or PhD. PhD offers more advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

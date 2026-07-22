@@ -1,59 +1,91 @@
-# Physical Therapist Aides（Physical Therapist Aides）职业分析 · 美国
+# Physical Therapist Aides — career analysis · United States
 
-**职业代码：31-2022 – Physical Therapist Aides。**
+**Occupation code: 31-2022 (SOC)**
 
-Physical therapist aides perform delegated, selected, or routine tasks under close supervision, including preparing patients and treatment areas.
+Physical therapist assistants perform specified, selective, or routine tasks such as preparing patients and treatment areas under the close supervision of a physical therapist or therapy assistant.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无需高等教育 | —（通常在职培训） |
+| High school diploma or equivalent | No higher education required | $0~$0 (Usually on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 多数物理治疗师助理接受在职培训，时长数周至数月 |
-| 基本生命支持（BLS）认证 | 美国心脏协会等 | 可选 | 部分雇主要求 |
+| On-the-job training | Employer | Required | Most physical therapist assistants receive on-the-job training lasting weeks to months |
+| Basic Life Support (BLS) certification | American Heart Association, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,200。美国劳工统计局（BLS）预测，2022-2032年物理治疗师助理就业增长率约为19%，远高于所有职业平均水平，主要受老龄化人口和康复需求增加驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 52,200. The US Bureau of Labor Statistics (BLS) projects a 19% employment growth for physical therapist assistants from 2022-2032, much faster than average, driven by aging population and rehabilitation needs.
 
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 入门级薪资，因地区和雇主而异 |
-| 中级（4-7年） | $34,000~$40,000 | 具有经验后薪资提升 |
-| 高级（8年以上） | $41,000~$48,000 | 资深助理或担任主管角色 |
+| Median salary | $35,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$33,000 | Entry-level salary, varies by location and employer |
+| Mid-level (4-7 years) | $34,000~$40,000 | Salary increases with experience |
+| Senior (8+ years) | $41,000~$48,000 | Senior assistant or supervisor role |
+| average salary | $36,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从助理岗位起步，可通过积累经验和进一步教育晋升为物理治疗助手或物理治疗师，或转向医疗管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace physiotherapist assistants' administrative and documentation tasks, but manual therapy preparation and interpersonal interaction still rely on humans; overall impact is mixed.
+
+Typically start as assistant, can advance to physical therapy aide or physical therapist through experience and further education, or move into healthcare management.
+
+**Tasks most exposed to AI:**
+
+- Using office software to schedule patient appointments and manage calendars
+- Complete and maintain patient treatment records and insurance forms.
+- Counting and ordering treatment consumables and equipment
+- Generate routine treatment reports and update electronic health records
+
+**Where AI augments the role:**
+
+- Demonstrates correct movements and postures through AI simulation to assist patient training
+- Using motion capture data to guide patients in real-time to adjust movements
+- Using AI to analyze patient progress data to optimize personalized treatment plans
+- Use AI vision tools to assess treatment effects and automatically record
+
+**Human moat:**
+
+- Directly performing physical therapy preparations such as heat packs and electrical stimulation for patients
+- Build trust with patients and provide emotional support
+- On-site judgment of patient pain response and adjustment of techniques during treatment
+- Maintain cleanliness of treatment areas and ensure safe operation of equipment.
+
+**Skills to build:**
+
+- Proficiency in electronic health record (EHR) software
+- Learn to use motion analysis AI tools (e.g., Kinetisense)
+- Basic data analysis and report interpretation skills
+- Workflow management collaborating with AI
+- Basic operation of rehabilitation assistive devices (e.g., robotic exoskeletons)
+
+**Key growth areas:**
 
 - Aging population
 - Rehabilitation services
@@ -62,65 +94,67 @@ Physical therapist aides perform delegated, selected, or routine tasks under clo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用于此职业，因为最低学历要求仅为高中文凭，不符合专业职业要求。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 极少数情况下可通过EB-3申请，但雇主需证明无法找到合格美国工人，且职位需至少两年经验或培训。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable for this occupation as the minimum education requirement is a high school diploma, not meeting professional occupation criteria. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | In very rare cases, can apply via EB-3, but the employer must prove inability to find qualified US workers, and the position requires at least two years of experience or training. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Physical Therapist Aides？**
-- 喜欢与人打交道，有耐心和同情心
-- 寻求医疗行业入门职位，无需高等教育
-- 善于遵循指示和完成重复性任务
+**Who is suited**
+- Enjoys interacting with people, patient and empathetic
+- Seeking entry-level healthcare positions, no higher education required
+- Good at following instructions and completing repetitive tasks
 
-**谁不适合学Physical Therapist Aides？**
-- 希望高薪资或快速晋升的人
-- 寻求独立决策和自主工作的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People seeking independent decision-making and autonomous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of physical therapist assistants?**
+A: According to BLS 2023 data, median annual salary is about USD 33,000, ranging from USD 27,000-46,000, depending on experience, region, and employer.
+
+**Q: Are there pathways to immigration in the US for physiotherapist assistants?**
+A: This occupation typically does not meet H-1B requirements as the minimum education is only a high school diploma. Green card pathways are also very limited unless the employer can demonstrate special need.
+
+**Q: How to advance from a physical therapist assistant?**
+A: Typically become a physical therapy assistant by completing an associate degree program, or continue study for a Doctor of Physical Therapy to become a physical therapist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Physical Therapist Aides属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physical therapist aides?**
-答：According to BLS 2023 data, median annual wage is about $33,000, ranging from $27,000 to $46,000 depending on experience, location, and employer.
-
-**问：Are there immigration pathways for physical therapist aides to the US?**
-答：This occupation typically does not qualify for H-1B due to the minimum education requirement of a high school diploma. Green card pathways are very limited unless the employer can demonstrate special needs.
-
-**问：How to advance from physical therapist aide?**
-答：Typically by completing an associate degree to become a physical therapist assistant, or pursuing a doctoral degree in physical therapy to become a physical therapist.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

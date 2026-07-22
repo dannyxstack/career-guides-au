@@ -1,60 +1,94 @@
-# Paper and Cardboard Products Machine Operators（Paper and Cardboard Products Machine Operators）职业分析 · ES
+# Paper and Cardboard Products Machine Operators — career analysis · Spain
 
-**职业代码：8143 – Paper and Cardboard Products Machine Operators。**
+**Occupation code: 8143 (CNO)**
 
-Operate machines to manufacture paper and cardboard products, including pulp preparation, sheet forming, drying, calendering, and winding, ensuring quality and efficiency.
+Operate papermaking and cardboard production equipment, including pulp preparation, paper forming, drying, calendering, and winding processes to ensure product quality and production efficiency.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Medio） | 2年 | —（公立学校免费，私立约2000欧元） |
-| 培训课程（Formación Profesional Ocupacional） | 6个月 | —（部分免费或政府补贴） |
+| Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros) |
+| Training Courses (Formación Profesional Ocupacional) | 6 months. | $0~$1,000 (Partially free or government-subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作员培训证书 | SEPE或认证培训机构 | 可选 | 非强制，但有助于就业 |
-| 安全操作执照 | 劳工部 | 必备 | 部分工厂要求 |
+| Safety operation license | Ministry of Labor | Required | Required by some factories |
+| Operator Training Certificate | SEPE or certified training institutions | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。西班牙造纸行业稳定，但自动化趋势减少低技能岗位。预计年增长率约0.5%，主要需求在包装纸板领域。岗位竞争中等，失业率低于全国平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Spain's paper industry is stable, but automation is decreasing in low-skilled positions. The annual growth rate is expected to be about 0.5%, with the main demand in the packaging cardboard sector. Job competition is moderate, and the unemployment rate is below the national average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含班组长 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including team leader |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 职业路径：操作员→高级操作员→班组长→生产主管。也可转向质量控制或设备维护。需持续学习新技术，如自动化控制系统。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Automation has mixed effects on paper products machine operators: AI and robots may take over some quality inspection and monitoring tasks, but flexible manual operations, equipment maintenance, and anomaly handling still require humans, and new systems will improve production efficiency and decision support.
+
+Career paths: Operator→ Senior Operator→ Team Leader→ Production Supervisor. It can also be turned to quality control or equipment maintenance. Continuous learning of new technologies, such as automated control systems, is necessary.
+
+**Tasks most exposed to AI:**
+
+- Visual inspection of paper quality (AI vision system can complete faster and more accurately)
+- Real-time monitoring and alarm of equipment operating parameters (AI predictive maintenance system replaces manual inspection)
+- Production data recording and report generation (automated data collection and reporting tools)
+- Remote diagnosis and troubleshooting of simple faults (replaced by expert systems or AI assistants)
+
+**Where AI augments the role:**
+
+- AI-based production scheduling and optimization (providing optimal paper roll cutting solutions)
+- Digital twin for equipment commissioning and simulation (reducing trial costs)
+- Using augmented reality (AR) for complex repairs (overlaying repair instructions)
+- Automatically record and analyze historical failure modes (AI provides maintenance recommendations)
+- Real-time interaction with ERP/MES systems to improve material and inventory management efficiency
+
+**Human moat:**
+
+- Ability to manually intervene in abnormal situations (e.g., paper breaks, equipment jams).
+- Experience in mechanical repair and debugging of aging/non-standard equipment
+- Cross-process coordination and on-site decision-making (e.g., adjusting process parameters in response to raw material fluctuations)
+- Safety operation procedures and emergency response (fire, chemical spill)
+
+**Skills to build:**
+
+- PLC and automation control system operation and programming
+- Data analysis and reporting tools (e.g., advanced Excel functions, Power BI)
+- Basics of industrial robot collaboration and maintenance
+- Use of predictive maintenance software
+- Understanding of Quality Management Systems (SPC)
+- Cross-departmental communication and English literacy (adapted for foreign companies/export orders)
+
+**Key growth areas:**
 
 - Packaging demand
 - Automation
@@ -63,65 +97,67 @@ Operate machines to manufacture paper and cardboard products, including pulp pre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer Sponsorship)） | 需雇主担保，提供工作合同。非紧缺职业，通过难度较高。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月找工作，但需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employer Sponsorship)) | Employer sponsorship required, work contract provided. Non-urgently needed occupations, with higher difficulty to pass. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove your financial capability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paper and Cardboard Products Machine Operators？**
-- 动手能力强，喜欢操作机械设备的人
-- 适应倒班和重复性工作的求职者
-- 希望快速进入就业市场的年轻人
+**Who is suited**
+- People who are hands-on and enjoy operating mechanical equipment
+- Job seekers adapted to shift shifts and repetitive work
+- Young people hoping to quickly enter the job market
 
-**谁不适合学Paper and Cardboard Products Machine Operators？**
-- 不喜欢体力劳动或噪音环境的人
-- 追求高薪和职业晋升空间者
+**Who is not suited**
+- People who dislike physical labor or noisy environments
+- Those seeking high salaries and career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for operators of paper and cardboard product machines?**
+A: Entry-level is about €18,000-22,000/year, intermediate €22,000-28,000/year, and seniors up to €35,000/year. Overtime and night shift subsidies can add extra income.
+
+**Q: How can non-EU citizens obtain paper product operator jobs in Spain?**
+A: A Spanish employer-sponsored work residence application (Cuenta ajena) is required. This occupation is not on the shortlist, making it difficult to apply for, and usually requires proof that the position cannot be filled by locals.
+
+**Q: What certifications are needed?**
+A: Most factories offer on-the-job training, but holding an FP Grado Medio or a safety operation certificate (such as PRL) increases employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Paper and Cardboard Products Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for paper and cardboard products machine operators?**
-答：Entry-level: €18,000-22,000/year, mid-level: €22,000-28,000/year, senior: up to €35,000/year. Overtime and night shifts increase earnings.
-
-**问：How can non-EU citizens get a paper operator job in Spain?**
-答：Requires employer sponsorship for a work permit (Cuenta ajena). Not a shortage occupation, so proving local labor shortage is needed.
-
-**问：What certifications are required?**
-答：Most training is on-the-job, but FP Grado Medio or safety certificates (e.g., PRL) improve chances.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

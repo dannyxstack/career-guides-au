@@ -1,59 +1,93 @@
-# Secondary education teaching professionals（Secondary education teaching professionals）职业分析 · UK
+# Secondary education teaching professionals — career analysis · United Kingdom
 
-**职业代码：2313 – Secondary education teaching professionals。**
+**Occupation code: 2313 (SOC)**
 
-Secondary education teaching professionals plan, organise and provide instruction in one or more subjects, including physical education and diversionary activities, within a prescribed curriculum at secondary, middle and sixth form levels.
+Secondary school teachers plan, organize, and teach one or more subjects according to the national curriculum at secondary, senior secondary, and pre-university levels, including physical education and extracurricular activities, and assess student progress.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（教育相关） | 3-4年 | $9,000~$12,000（英格兰本科年均学费，国际生更高） |
-| PGCE/教师培训 | 1年 | $9,250~$14,000（PGCE课程学费，部分科目有奖学金） |
+| Bachelor's Degree (Education) | 3-4 years | $9,000~$12,000 (Average annual undergraduate tuition fees in England; higher for international students.) |
+| PGCE/Teacher Training | 1 year | $9,250~$14,000 (PGCE course tuition fees; scholarships available for some subjects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 合格教师身份（QTS） | 英国教育部 | 必备 | 在英格兰和威尔士公立中学任教的法定要求 |
-| 学士学位 | 英国大学 | 必备 | 通常要求相关学科或教育学学位 |
-| PGCE/PGDE | 英国大学 | 必备 | 研究生教育证书或文凭，多数教师路径要求 |
+| Qualified Teacher Status (QTS) | UK Department for Education | Required | Statutory requirements for teaching in state secondary schools in England and Wales |
+| Bachelor's degree | UK universities | Required | Usually requires a degree in a related field or education |
+| PGCE/PGDE | UK universities | Required | Graduate certificate or diploma in education, required for most teaching pathways |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。英国中学教师长期紧缺，尤其是数学、科学、现代外语等科目。政府通过招聘奖金、快速通道计划吸引人才，未来十年需求稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 350,000. UK secondary school teachers are in long-term shortage, especially in subjects like mathematics, science, and modern foreign languages. The government attracts talent through recruitment bonuses and fast-track programs, with steady demand growth over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 英格兰及威尔士教师起薪（2023/24） |
-| 中级（4-10年） | $34,000~$45,000 | 取决于经验和绩效，含Leadership层 |
-| 高级（10年以上/领导层） | $45,000~$65,000 | 包含副校长、校长等领导职务 |
+| Median salary | $47,632 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | England and Wales Teacher Starting Salary (2023/24) |
+| Mid-level (4-10 years). | $34,000~$45,000 | Depends on experience and performance, including Leadership level |
+| Senior (10+ years/leadership) | $45,000~$65,000 | Includes leadership positions such as deputy principal and principal |
+| average salary | $47,170 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级教师可晋升为学科主管、年级主管或副校长，也可转向教育政策、教师培训或学校管理。教学经验积累后，可成为高级领导或教育顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Secondary school teaching positions show mixed impact: administrative and assessment tasks are significantly reduced by AI, but teaching core (classroom interaction, personalized tutoring) is enhanced by AI; entry-level competition slightly increases, while experienced teachers retain strong advantages.
+
+Junior teachers can advance to subject head, grade head, or deputy principal, or move into education policy, teacher training, or school management. With accumulated teaching experience, they can become senior leaders or education consultants.
+
+**Tasks most exposed to AI:**
+
+- Automated grading of standardized assignments and exams (multiple choice, short answer)
+- Generate and distribute standard lesson plans, practice exercises, and test papers
+- Record and analyze basic student data such as attendance and grades
+- Provides answers to general academic questions (e.g., basic math, grammar)
+
+**Where AI augments the role:**
+
+- AI-assisted personalized learning path design (recommends exercises based on student weaknesses)
+- Real-time classroom translation and multilingual teaching support
+- Intelligently generate differentiated teaching materials (e.g., adjust reading difficulty)
+- Virtual reality (VR) simulated experiments or immersive historical scene teaching
+- Automate parent communication reports (visualize student learning progress)
+
+**Human moat:**
+
+- In-Person Classroom Atmosphere Management and Student Emotional Support
+- Guiding and debating complex moral and ethical issues
+- Design and facilitation of interdisciplinary project-based learning
+- Personalized care and behavioral intervention for students with special needs
+
+**Skills to build:**
+
+- AI education tools (e.g., adaptive learning platforms, intelligent assessment systems)
+- Data literacy: Interpreting learning analytics reports to adjust teaching strategies.
+- Social-emotional learning (SEL) pedagogy
+- Digital content creation (interactive courseware, micro-lecture videos)
+- Integration of interdisciplinary courses and project-based learning design
+- Basic programming and AI literacy (as subject content or teaching tool).
+
+**Key growth areas:**
 
 - STEM subjects
 - Teacher recruitment incentives
@@ -62,69 +96,68 @@ Secondary education teaching professionals plan, organise and provide instructio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 中学教师属于可担保职业，可通过Skilled Worker签证移民英国，需要雇主担保和符合薪资要求。 |
-| Subclass Scale-up（Scale-up visa） | 快速成长教育机构可担保，适合有经验的教师，需满足薪资门槛。 |
-| Subclass Graduate（Graduate visa） | 在英国完成学位的国际学生可申请，提供2年（本科/硕士）或3年（博士）工作权，可转为技术工人签证。 |
-| Subclass Youth Mobility（Youth Mobility Scheme） | 适用于18-30岁特定国家公民，可在英国工作2年，但不能转为永居。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Secondary school teachers are eligible for sponsorship and can immigrate via the Skilled Worker visa, requiring employer sponsorship and meeting salary requirements. |
+| Subclass Scale-up (Scale-up visa) | Fast-growing educational institutions can sponsor, suitable for experienced teachers; must meet salary threshold. |
+| Subclass Graduate (Graduate visa) | International students who have completed a degree in the UK can apply, with 2 years (bachelor/master) or 3 years (PhD) of work rights, and can switch to a skilled worker visa. |
+| Subclass Youth Mobility (Youth Mobility Scheme) | Applies to citizens of specific countries aged 18-30; allows work in the UK for 2 years but cannot lead to permanent residency. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary education teaching professionals？**
-- 热爱教学、有耐心和沟通能力的人
-- 对特定学科有深厚知识且乐于传授的人
-- 寻求稳定职业和良好假期的人
-
-**谁不适合学Secondary education teaching professionals？**
-- 不喜欢与人互动或公共演讲的人
-- 无法承受课堂纪律管理压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching, have patience, and communication skills.
+- Person with deep knowledge of a specific subject who enjoys teaching
+- People seeking stable careers and good holidays
+
+**Who is not suited**
+- People who dislike interacting with others or public speaking
+- People who cannot handle the pressure of classroom discipline management
+
+---
+
+## 8. FAQ
+
+**Q: Is a secondary school teacher's salary sufficient to support living in the UK?**
+A: Yes, secondary school teachers start at around £28,000-34,000, rising to over £45,000 with experience, and head teachers can earn over £65,000. Salaries support a comfortable life, with some regions offering housing allowances.
+
+**Q: How can overseas teachers immigrate to the UK? What steps are required?**
+A: Overseas teachers can immigrate via the Skilled Worker visa, requiring a job offer from a UK school and meeting English language requirements and salary thresholds (typically at least £26,200). QTS or equivalent qualification required; some subjects benefit from priority visa processing.
+
+**Q: What are the career development paths for secondary school teachers?**
+A: Can advance from classroom teacher to subject head, grade coordinator, deputy principal, or principal. Can also shift to education policy, teacher training, or education technology fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Secondary education teaching professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary of a secondary school teacher sufficient to live in the UK?**
-答：Yes, starting salaries are around £28,000-£34,000, rising to over £45,000 with experience, and headteachers can earn over £65,000. The salary is enough for a comfortable life, with some areas offering housing allowances.
-
-**问：How can overseas teachers migrate to the UK? What steps are required?**
-答：Overseas teachers can migrate via the Skilled Worker visa. They need a job offer from a UK school, meet English language requirements, and earn at least £26,200. QTS or equivalent qualification is required. Some subjects have priority visa processing.
-
-**问：What are the career progression paths for secondary school teachers?**
-答：Teachers can progress to head of department, year head, deputy head, and headteacher. Alternatively, they can move into education policy, teacher training, or edtech.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Driver of Animal-drawn Vehicles and Machinery（Driver of Animal-drawn Vehicles and Machinery）职业分析 · NL
+# Driver of Animal-drawn Vehicles and Machinery — career analysis · Netherlands
 
-**职业代码：9332 – Driver of Animal-drawn Vehicles and Machinery。**
+**Occupation code: 9332 (ISCO08)**
 
-This occupation in the Netherlands primarily involves driving animal-drawn vehicles or machinery for transport or work, commonly found in traditional farming areas, tourist attractions, or specialty transport such as horse-drawn carriage tours and farm logistics.
+In the Netherlands, this occupation involves using animal-powered vehicles or agricultural machinery (e.g., horse-drawn carriages) for transport or work, typically in traditional farming areas, tourist sites, or special transport scenarios such as carriage tours or farm logistics.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常通过在职培训习得） |
-| 短期培训课程 | 1-3个月 | $500~$1,500（如动物驾驶与安全课程） |
+| No formal education required | None | $0~$0 (Usually acquired through on-the-job training) |
+| Short-term training course | 1-3 months. | $500~$1,500 (e.g. animal handling and safety courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶证（如适用） | 荷兰车辆管理局（RDW） | 必备 | 若在公共道路行驶，可能需要特定车辆许可 |
-| 动物处理证书 | 荷兰农业与自然组织 | 可选 | 确保动物福利与安全操作 |
+| Driver's licence (if applicable) | Netherlands Vehicle Authority (RDW) | Required | If driving on public roads, a specific vehicle permit may be required |
+| Animal handling certificate | Netherlands Agriculture and Nature Organization | Optional | Ensuring animal welfare and safe operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（★☆☆☆☆）。** 全国从业人数约 200。荷兰农业高度机械化，畜力车使用极少；仅在旅游观光和特定文化遗产活动中保存有限需求。整体就业机会稀少，且呈下降趋势，不视为主要职业路径。
+**Job demand: very low (★☆☆☆☆).** National workforce approx. 200. Dutch agriculture is highly mechanized, with very limited use of horse-drawn vehicles; only in tourism and specific cultural heritage activities is there limited demand. Overall job opportunities are scarce and declining, not considered a major career path.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常为兼职或季节性工作 |
-| 中级（3-6年） | $24,000~$30,000 | 税前年薪，含全职旅游马车驾驶员 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪，含主管或特殊项目驾驶员 |
+| Median salary | $22,131 | Median salary (official: CBS median hourly wage €11.2/hour × 1976 hours annualized, BRC group 1221 Loaders, unloaders and shelf fillers; P25–P75 €13,634–€33,790, CBS 2024) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, usually for part-time or seasonal work |
+| Mid-level (3–6 years) | $24,000~$30,000 | Annual salary before tax, includes full-time tourist carriage driver |
+| Senior (6+ years) | $28,000~$35,000 | Annual salary before tax, including supervisors or special project drivers |
+| average salary | $26,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极差（★☆☆☆☆）。** 该职业几乎没有晋升路径，多为临时或兼职岗位。从业者可能转向农业机械操作、旅游服务或动物护理等相关领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on animal-drawn vehicle drivers is mixed: core driving tasks are hard to replace, but auxiliary work such as route planning and document processing is easily taken over by AI.
+
+This occupation has almost no career advancement, mostly temporary or part-time positions. Practitioners may transition to related fields such as agricultural machinery operation, tourism services, or animal care.
+
+**Tasks most exposed to AI:**
+
+- Route planning and scheduling (AI-optimized shortest path)
+- Transport records and log filling (automated document generation)
+- Vehicle status monitoring and maintenance reminders (IoT sensors + AI predictions)
+- Customer communication and booking (chatbot)
+- Data report generation (automated summary of driving data)
+
+**Where AI augments the role:**
+
+- Animal health monitoring (AI cameras analyze abnormal behavior)
+- Precise load distribution (AI computing balance and safety)
+- Real-time navigation assistance (AR displays best route)
+- Customer experience management (AI-driven personalized recommendations)
+- Compliance and safety warnings (automatic hazardous area identification)
+
+**Human moat:**
+
+- Animal behavior understanding and immediate response
+- Flexible driving in complex terrain and unexpected situations
+- Customer service and emotional engagement
+- Traditional craftsmanship and manual maintenance
+- Safety responsibilities and on-site judgment
+
+**Skills to build:**
+
+- Basic use of AI and digital tools (e.g., navigation apps)
+- Animal health management and basic veterinary knowledge
+- Customer communication and experience design.
+- Small electric or hybrid vehicle maintenance
+- Basics of data recording and analysis
+- Environmental and sustainable practices
+
+**Key growth areas:**
 
 - niche
 - cultural heritage
@@ -63,65 +99,67 @@ This occupation in the Netherlands primarily involves driving animal-drawn vehic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷工作，无需额外工作许可。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技术移民，但该职业通常不符合薪资门槛，极少采用。 |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without needing an additional work permit. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled immigration, but this occupation typically does not meet the salary threshold and is rarely used. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Driver of Animal-drawn Vehicles and Machinery？**
-- 热爱动物与传统农业方式
-- 愿意从事季节性、兼职工作
-- 对旅游或文化遗产保护有兴趣
+**Who is suited**
+- Love for animals and traditional farming methods
+- Willing to do seasonal, part-time work
+- Interest in tourism or cultural heritage preservation
 
-**谁不适合学Driver of Animal-drawn Vehicles and Machinery？**
-- 追求稳定高薪与职业发展
-- 缺乏动物照护经验或耐心
+**Who is not suited**
+- Seeking stable high income and career development
+- Lacking animal care experience or patience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a cart driver in the Netherlands?**
+A: Low salary, entry-level annual income approximately €18,000-€24,000 (pre-tax), and mostly part-time or temporary jobs.
+
+**Q: Can non-EU nationals immigrate to the Netherlands through this occupation?**
+A: Extremely difficult. This occupation is not in demand, has low salary, does not meet high-skilled migration requirements; only EU freedom of movement citizens can easily enter.
+
+**Q: What are the career prospects for this occupation in the Netherlands?**
+A: Limited prospects, mainly in tourism and cultural sectors, with no clear career path; practitioners often move to other agricultural or service jobs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | very low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 极低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 极差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Driver of Animal-drawn Vehicles and Machinery属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for drivers of animal-drawn vehicles in the Netherlands?**
-答：Salaries are low, with entry-level annual income around €18,000-€24,000 (pre-tax), and mostly part-time or temporary positions.
-
-**问：Can non-EU nationals immigrate to the Netherlands through this occupation?**
-答：Very unlikely. This occupation is not in shortage, has low salary, and does not meet highly skilled migrant requirements; only EU freedom of movement citizens can easily work.
-
-**问：What are the career prospects for this occupation in the Netherlands?**
-答：Limited prospects, mainly in tourism and cultural heritage; no clear career ladder; most workers transition to other agricultural or service roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

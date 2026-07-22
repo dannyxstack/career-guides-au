@@ -1,59 +1,92 @@
-# Workplace Relations Adviser（Workplace Relations Adviser）职业分析 · 新西兰
+# Workplace Relations Adviser — career analysis · New Zealand
 
-**职业代码：223113 – Workplace Relations Adviser。**
+**Occupation code: 223113 (ANZSCO)**
 
-Workplace Relations Advisers handle industrial relations, negotiations, dispute resolution, and compliance to foster harmonious employer-employee relationships. This role offers clear migration pathways via Skilled Migrant Category or Green List for New Zealand residency.
+Workplace relations consultants handle labour relations, employee negotiations, dispute resolution and compliance, promoting harmony between employers and employees. This occupation can apply for New Zealand residency through skilled migration or the Green List, with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $20,000~$35,000（每年学费，新西兰境内大学） |
-| 硕士学位 | 1-2年 | $30,000~$50,000（每年学费，全日制课程） |
+| Bachelor's degree | 3 years | $20,000~$35,000 (Annual tuition fees, New Zealand domestic universities) |
+| Master's degree | 1-2 years | $30,000~$50,000 (Annual tuition fee, full-time course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 劳动关系或人力资源管理学位 | 新西兰大学 | 必备 | 核心学历要求 |
-| 新西兰人力资源协会会员 | 新西兰人力资源协会 | 可选 | 会员资格非强制但受雇主青睐 |
-| 雅思总分7.0 | 雅思考试 | 必备 | 技术移民语言要求 |
+| Degree in labor relations or human resource management | New Zealand universities | Required | Core educational requirements |
+| IELTS overall score 7.0 | IELTS test | Required | Language requirements for skilled migration |
+| Member of Human Resources Institute New Zealand | Human Resources Institute of New Zealand | Optional | Membership is not mandatory but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,800。新西兰劳资关系法持续更新，企业对合规与员工关系管理需求稳定增长。就业市场预计保持平稳，主要机会集中在大型企业、政府机构及咨询公司。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,800. New Zealand's industrial relations laws are continuously updated, leading to stable demand for compliance and employee relationship management. The job market is expected to remain steady, with major opportunities in large enterprises, government agencies, and consulting firms.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 常见于小型企业或咨询公司 |
-| 中级（3-7年） | $75,000~$100,000 | 大型企业或政府机构 |
-| 高级（8年以上） | $100,000~$130,000 | 包括管理或专家角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Common in small businesses or consulting firms |
+| Mid-level (3–7 years) | $75,000~$100,000 | Large corporations or government agencies |
+| Senior (8+ years) | $100,000~$130,000 | Includes management or specialist roles |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级顾问可晋升为高级顾问、劳动关系经理或人力资源总监。获取新西兰劳动关系协会认证有助于职业发展，亦可转向独立咨询或培训领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
+
+Junior consultants can advance to senior consultant, labor relations manager, or HR director. Obtaining certification from the New Zealand Institute of Labour Relations Studies helps career development, or they can move into independent consulting or training.
+
+**Tasks most exposed to AI:**
+
+- Automatically screen large volumes of resumes and pre-schedule interview candidates
+- Automatically generate compensation reports and performance data analysis
+- Handle basic employee inquiries (e.g., leave balances, policy questions)
+- Automate attendance and shift management
+
+**Where AI augments the role:**
+
+- Use AI for talent profile matching and candidate recommendations
+- Use sentiment analysis tools to assist employee satisfaction surveys
+- Use AI to generate personalised training plans and learning paths
+- Predict employee turnover risk based on data analysis and intervene early
+
+**Human moat:**
+
+- Complex Employee Relations Mediation and Conflict Resolution
+- Corporate culture and values building
+- Labor law compliance judgment and risk decisions
+- Strategic talent planning and leadership development
+
+**Skills to build:**
+
+- HR data analysis and visualization (Power BI/Tableau)
+- AI recruitment tools (e.g., HireVue, Pymetrics)
+- Employee experience platform design (e.g., Workday, SAP SuccessFactors)
+- Labour law compliance and risk management
+- Change management and project leadership
+- Digital human resource management knowledge
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +95,67 @@ Workplace Relations Advisers handle industrial relations, negotiations, dispute 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Residence Visa） | 通过6分制申请，学历+新西兰本地工作经验可满足分数要求。 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 在该职位工作24个月后可申请居留，需ANZSCO 1-3级且薪资达标。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，可衔接居留路径，适用于非直接移民情况。 |
+| Subclass SMC (Skilled Migrant Category Residence Visa) | Applying through the 6-point system, qualifications + New Zealand local work experience can meet the score requirement. |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | After 24 months in this position, can apply for residency, requiring ANZSCO 1-3 and meeting salary threshold. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship with pathway to residency, suitable for non-direct immigration cases. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Workplace Relations Adviser？**
-- 具有出色人际沟通与谈判能力者
-- 喜欢解决复杂劳资纠纷、政策制定者
-- 追求稳定移民路径且愿意在人力资源领域深耕者
-
-**谁不适合学Workplace Relations Adviser？**
-- 不擅长冲突调解或高压工作环境者
-- 缺乏本地法律知识或不愿持续学习者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with excellent interpersonal communication and negotiation skills
+- Those who enjoy resolving complex labor disputes and policy-making.
+- Those seeking a stable immigration path and willing to deepen their expertise in human resources
+
+**Who is not suited**
+- Those who are not skilled in conflict mediation or high-pressure work environments
+- Lack of local legal knowledge or unwillingness to engage in continuous learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a junior workplace relations consultant?**
+A: Entry-level consultant annual salary approx NZD 55,000-75,000, depending on employer size and region.
+
+**Q: Can this occupation immigrate through the Green List?**
+A: Yes, this occupation is on the Green List Tier 2 (Work to Residence), requiring meeting the salary threshold and 24 months of work experience.
+
+**Q: Is local qualification recognition required in New Zealand?**
+A: No mandatory registration, but a relevant degree (e.g., Human Resource Management) and English proficiency (IELTS 7.0) are essential for skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Workplace Relations Adviser的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for entry-level Workplace Relations Advisers?**
-答：Entry-level advisers earn between NZ$55,000 and NZ$75,000 per year, depending on employer size and location.
-
-**问：Can this occupation qualify for the Green List immigration pathway?**
-答：Yes, it is on the Green List Tier 2 (Work to Residence), requiring meeting salary thresholds and 24 months of experience.
-
-**问：Do I need local New Zealand qualifications?**
-答：No mandatory registration, but a relevant degree (e.g., HR management) and IELTS 7.0 are required for skilled migration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# History Teachers, Postsecondary（History Teachers, Postsecondary）职业分析 · 美国
+# History Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1125 – History Teachers, Postsecondary。**
+**Occupation code: 25-1125 (SOC)**
 
-History professors teach courses in human history and historiography at colleges and universities, often combining teaching with research to foster students' understanding of historical events, societal changes, and analytical methods.
+History professors teach courses on human history and historiography at colleges or universities, often combining teaching and research to cultivate students' deep understanding of historical events, societal changes, and historical analysis methods.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位（历史学相关） | 5-7年 | $100,000~$200,000（包含学费和生活费，通常有奖学金或助教机会） |
-| 硕士学位（历史学） | 2年 | $40,000~$80,000（部分社区学院或讲师职位可能只要求硕士） |
+| Doctoral degree (in history or related field) | 5-7 years | $100,000~$200,000 (Includes tuition and living expenses, usually with scholarship or teaching assistant opportunities) |
+| Master's degree (History) | 2 years | $40,000~$80,000 (Some community college or lecturer positions may only require a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认证大学 | 必备 | 任职终身教职序列教授通常需要博士学历 |
-| 教学经验 | 高校 | 可选 | 助教或讲师经历是重要加分项 |
-| 出版记录 | 学术期刊/出版社 | 可选 | 研究型大学特别看重专著和论文发表 |
+| Doctoral degree (PhD) | Accredited university | Required | Tenure-track professor positions typically require a doctoral degree |
+| Teaching experience | Higher education institutions. | Optional | Teaching assistant or lecturer experience is a significant plus |
+| Publication record | Academic journals/publishers | Optional | Research universities particularly value monographs and journal publications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 28,500。美国高校历史教授职位竞争激烈，受限于终身教职数量减少和兼职化趋势。预计2024-2034年就业增长约4%，与平均水平相当。博士学历和优秀研究成果是关键。
+**Job demand: medium (★★½☆☆).** National workforce approx. 28,500. History professor positions at U.S. universities are highly competitive, limited by declining tenure-track positions and increasing adjunctification. Employment is projected to grow about 4% from 2024 to 2034, about average. A Ph.D. and strong research record are key.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-6年） | $55,000~$75,000 | 取决于学校类型（社区学院或研究型大学） |
-| 中级（副教授，7-15年） | $65,000~$90,000 | 获得终身教职后薪资提升 |
-| 高级（正教授，15年以上） | $80,000~$130,000 | 杰出教授或系主任薪资更高 |
+| Median salary | $83,820 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (Assistant Professor, 0-6 years) | $55,000~$75,000 | Depends on school type (community college or research university) |
+| Mid-level (associate professor, 7-15 years). | $65,000~$90,000 | Salary increase after obtaining tenure. |
+| Senior (full professor, 15+ years) | $80,000~$130,000 | Distinguished professors or department heads may have higher salaries |
+| average salary | $96,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理教授起步，晋升副教授、正教授，少数成为系主任或院长。研究产出（论文、专著）和教学质量决定晋升；部分人转向学术管理或公共历史领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually starts as an assistant professor, advances to associate professor and full professor, with a few becoming department chairs or deans. Research output (papers, monographs) and teaching quality determine promotion; some move into academic administration or public history.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Postsecondary education
 - Research in humanities
@@ -62,68 +98,67 @@ History professors teach courses in human history and historiography at colleges
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 高校作为非营利机构可申请H-1B，无配额限制，是最常见的工作签证路径。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 拥有博士学位的历史教授可申请EB-2，需PERM劳工证或国家利益豁免(NIW)。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 若教授在学术领域取得杰出成就（如出版重要著作），可申请O-1签证。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities as non-profit institutions can apply for H-1B without quota limits, making it the most common work visa path. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | History professors with a PhD can apply for EB-2, requiring PERM labor certification or National Interest Waiver (NIW). |
+| Subclass O-1 (O-1 Extraordinary Ability) | If a professor has outstanding achievements in their academic field (e.g., publishing major works), they can apply for an O-1 visa. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学History Teachers, Postsecondary？**
-- 对历史研究有浓厚兴趣，愿意投入多年攻读博士学位的人
-- 善于教学和沟通，能够激发学生对历史的思考
-- 适应学术竞争，有毅力发表研究成果和争取终身教职
-
-**谁不适合学History Teachers, Postsecondary？**
-- 追求高薪或快速职业回报者
-- 不愿承担教学研究双重压力或不喜欢学术写作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in historical research and willing to spend many years pursuing a PhD
+- Skilled in teaching and communication, able to inspire students to think critically about history
+- Able to adapt to academic competition, with perseverance to publish research and pursue tenure
+
+**Who is not suited**
+- Those pursuing high salary or rapid career returns
+- Those unwilling to bear the dual pressure of teaching and research or who dislike academic writing
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for history professors?**
+A: According to BLS data, the 2023 median annual salary for history professors in the US was about $76,000, ranging from around $55,000 for assistant professors to over $130,000 for full professors, depending on school type and region.
+
+**Q: How can international individuals immigrate to the US as history professors?**
+A: The typical path is: obtain a US H-1B work visa (cap-exempt), then employer-sponsored EB-2 green card (via PERM or NIW). A PhD and research achievements are key.
+
+**Q: What are the career prospects for a history professor?**
+A: Promotion mainly depends on academic output and teaching evaluations; from assistant professor to tenure typically takes 6-7 years. Some professors move into administration or public history, but overall job growth is slow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 很高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-History Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for history professors?**
-答：According to BLS data, the median annual wage for history professors in 2023 was around $76,000, ranging from about $55,000 for assistant professors to over $130,000 for full professors, depending on institution type and location.
-
-**问：How can international individuals immigrate to the US as a history professor?**
-答：Common path: obtain an H-1B visa from a US university (cap-exempt), then employer-sponsored EB-2 green card (PERM or NIW). A PhD and research record are essential.
-
-**问：What are the career prospects for history professors?**
-答：Promotion relies on research output and teaching evaluations; tenure typically takes 6-7 years. Some transition to administration or public history, but overall job growth is slow.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

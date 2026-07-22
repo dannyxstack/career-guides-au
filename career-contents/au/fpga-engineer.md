@@ -1,149 +1,176 @@
-# FPGA 工程师（FPGA Engineer）职业分析 · 澳大利亚
+# FPGA Engineer — career analysis · Australia
 
-**职业代码：233411 – FPGA Engineer。**
+**Occupation code: 233411-FPGA (ANZSCO)**
 
-FPGA 工程师用 Verilog/VHDL 在可编程逻辑器件上实现高性能数字电路，涵盖信号处理、低延迟计算与硬件加速，主要就业于澳洲国防航天、高频交易与半导体/通信公司。岗位稀缺、门槛高、薪资优厚，是电子工程中的高价值细分。
+FPGA engineers use Verilog/VHDL to implement high-performance digital circuits on programmable logic devices, covering signal processing, low-latency computing, and hardware acceleration, mainly employed in Australian defense aerospace, high-frequency trading, and semiconductor/communications companies. Scarce positions, high entry barriers, and generous salaries make it a high-value segment in electronic engineering.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 电子/电气/计算机工程学士（4 年） | 4 年 | $40,000~$160,000（本地生 CSP 约 $40k；国际生约 $140k~$160k） |
-| 数字设计/FPGA 专项（Verilog/VHDL、时序收敛、高速接口） | 6~24 个月 | $2,000~$40,000（RTL、时序与验证实操核心） |
-| Engineers Australia 职业评估（电子工程） | 3~6 个月 | $600~$3,000（技术移民必须；国防岗常需公民/安全许可） |
+| Bachelor of Electronics/Electrical/Computer Engineering (4 years) | 4 years | $40,000~$160,000 (Local CSPs earn about $40k; International students pay about $140k~$160k) |
+| Digital Design/FPGA Specialization (Verilog/VHDL, Timing Convergence, High-Speed Interfaces) | 6~24 months | $2,000~$40,000 (RTL, timing, and verification core operations) |
+| Engineers Australia Vocational Assessment (Electronic Engineering) | 3~6 months | $600~$3,000 (Skilled migration must; Defense posts often require civic/security permits) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可电子/电气/计算机工程学位 | Engineers Australia | 必备 | 执业与移民评估基础 |
-| Verilog/VHDL、时序收敛与验证能力 | 项目实践 | 可选 | FPGA 岗核心竞争力 |
-| 安全许可(Security Clearance) | 澳洲政府 | 可选 | 国防航天岗常要求，需公民身份 |
+| Recognized degrees in Electronic/Electrical/Computer Engineering | Engineers Australia | Required | Practice and Immigration Assessment Basics |
+| Verilog/VHDL, temporal convergence, and verification capabilities | Project practice | Optional | Core competitiveness of FPGA positions |
+| Security Clearance | Australian Government | Optional | National defense aerospace posts often require citizenship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。澳洲国防(AUKUS/雷达/电子战)、航天与高频交易对 FPGA 需求稳定，岗位数量少但供给更少，资深 FPGA 工程师长期高薪紧俏；电子工程(233411)在技术移民清单。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. Australian defense (AUKUS/radar/electronic warfare), aerospace, and high-frequency transactions have stable FPGA demand, with few positions but even less supply, and senior FPGA engineers in high demand for long periods; Electronic Engineering (233411) is on the skilled immigration list.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 9~60 个 | FPGA/数字设计岗，数量少但高价值 |
-| Glassdoor | 20~60 个 | 约 27 个 FPGA 工程师岗 |
-| LinkedIn | 30~120 个 | 国防/航天/半导体/HFT 直招 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（1~3 年） | $110,000~$140,000 | 入门 FPGA 均值约 $114,162 |
-| 中级（3~7 年） | $140,000~$175,000 | Indeed 均值约 $145,936；悉尼约 $140k |
-| 资深（8 年+） | $175,000~$210,000 | SalaryExpert 均值约 $162k；资深约 $201,853 |
+| Median salary | $143,624 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Beginner (1~3 years) | $110,000~$140,000 | The average price for entry-level FPGAs is about $114,162 |
+| Intermediate Level (3~7 years) | $140,000~$175,000 | Indeed averages about $145,936; Sydney is about $140k |
+| Senior (8+) | $175,000~$210,000 | SalaryExpert averages about $162k; Senior: about $201,853 |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 2026 年国防信号处理、边缘 AI 加速与低延迟金融计算是主要方向，掌握 Verilog/VHDL、时序收敛与高速接口的工程师稀缺。AI 辅助 RTL 生成有限，硬件时序与验证仍高度专业化。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
 
-- 国防与航天信号处理(雷达/SDR)
-- 高频交易(HFT)低延迟 FPGA
-- 视频/图像与 AI 加速(边缘推理)
-- 通信基带与 5G/卫星
-- FPGA 原型验证与 SoC 加速
+By 2026, defense signal processing, edge AI acceleration, and low-latency financial computing will be the main directions, but engineers skilled in Verilog/VHDL, timing convergence, and high-speed interfaces are scarce. AI-assisted RTL generation is limited, while hardware timing and verification remain highly specialized.
+
+**Tasks most exposed to AI:**
+
+- Basic RTL code generation (such as counters, state machines)
+- Writing and executing routine simulation verification scripts
+- Automatic generation and preliminary optimization of timing constraint files
+- Basic IP integration and connection logic
+- Error mode classification and simple debugging
+
+**Where AI augments the role:**
+
+- Use AI for high-level integrated (HLS) optimization and resource estimation
+- AI-assisted timing analysis automatically locates critical paths and provides optimization suggestions
+- ML-based power consumption prediction and dynamic voltage/frequency regulation
+- AI-driven test case generation is closed to feature coverage
+- AI-assisted hardware/software partition decision-making and interface generation
+
+**Human moat:**
+
+- Complex system-level architecture design and trade-offs (latency, throughput, area)
+- Hardware-based domain-specific algorithms (such as radar, deep learning acceleration)
+- Design of hardware real-time system fault diagnosis and recovery solutions
+- Communicate requirements with customers/system engineers and develop technical roadmaps
+- Compliance and reliability verification of safety-critical systems (aerospace, military).
+
+**Skills to build:**
+
+- Mastering AI-based EDA tools (such as Cadence Cerebrus)
+- Learn Advanced Integration (HLS) and OpenCL applications
+- Understand basic machine learning principles and be able to deploy lightweight models on FPGAs
+- Strengthen system-level programming (C/C++, Python) and scripting automation
+- Enhance hardware/software collaborative verification and agile development capabilities
+- Learn about FPGA applications in cloud computing (such as AWS F1).
+
+**Key growth areas:**
+
+- Defense & Aerospace Signal Processing (Radar/SDR)
+- high-frequency trading (HFT) low-latency FPGA
+- Video/Image & AI Acceleration (Edge Inference)
+- Communication Baseband & 5G/Satellite
+- FPGA Prototyping & SoC Acceleration
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (SID)） | 雇主担保临居；能源/电网/数据中心/半导体企业担保紧缺工程师 |
-| Subclass 186（ENS 雇主提名） | 雇主担保永居（Direct Entry / TRT 通道） |
-| Subclass 189（技术独立） | 邀请制独立技术移民；需 Engineers Australia 职业评估（CDR 或认可学历） |
-| Subclass 190（州/领地提名） | 州提名加 5 分；工程类为多数州紧缺清单常客 |
-| Subclass 491（偏远地区担保） | 偏远地区州提名/亲属担保临居，满足条件后转 191 永居 |
+| Subclass 482 (Skills in Demand (SID)) | Employer-sponsored temporary residence; Energy/grid/data center/semiconductor companies guarantee urgently needed engineers |
+| Subclass 186 (ENS Employer Nomination) | Employer-Sponsored Permanent Residency (Direct Entry / TRT Pathway) |
+| Subclass 189 (Technical independence) | Independent skilled immigrants on an invitation-based basis; Requires Engineers Australia Professional Assessment (CDR or Recognized Qualification) |
+| Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
+| Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR难度：中低（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学FPGA 工程师？**
-- 电子/计算机工程背景，热爱数字硬件设计
-- 掌握或愿深耕 Verilog/VHDL、时序收敛与高速接口
-- 对国防航天、HFT 或边缘 AI 加速方向感兴趣
-- 接受岗位数量少但高薪、需锁定雇主的现实
-
-**谁不适合学FPGA 工程师？**
-- 偏好软件应用、不愿钻研硬件时序
-- 需要大量岗位选择与快速跳槽（此岗小众）
-- 国防岗但不满足公民/安全许可要求且只盯国防
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in Electronics/Computer Engineering, passionate about digital hardware design
+- Master or wish to deeply cultivate Verilog/VHDL, timing convergence, and high-speed interfaces
+- Interested in defense aerospace, HFT, or edge AI acceleration directions
+- Accept the reality of few but high-paying positions requiring employer sponsorship
+
+**Who is not suited**
+- Preference for software applications and reluctance to delve into hardware timing
+- Requires a large number of job options and quick job changes (this position is niche).
+- Defense posts that do not meet civic/safety clearance requirements and focus solely on national defense
+
+---
+
+## 8. FAQ
+
+**Q: How much do FPGA engineers in Australia earn?**
+A: Entry-level is about $110k~$140k (average about $114k); Intermediate $140k~$175k (Indeed about $146k); Senior: $175k~$210k (up to $201,853). This belongs to the high-paying electronics segment.
+
+**Q: Is it easy to find a job as an FPGA engineer in Australia?**
+A: There are few job openings (about 9 for SEEK, about 27 for Glassdoor), but even less supply, indicating structural shortage. Focusing on defense aerospace, HFT, and semiconductor/telecom companies, it is often necessary to target specific employers.
+
+**Q: Is overseas FPGA experience recognized in Australia?**
+A: Electronic engineering qualification assessed by Engineers Australia; Verilog/VHDL, timing closure and verification experience highly valued. Defence roles often require citizenship and security clearance.
+
+**Q: Will it be replaced by AI?**
+A: Low risk. AI offers limited help in RTL generation; hardware timing convergence, verification, and system integration are highly specialized and difficult to replace in the short term.
+
+**Q: Is skilled immigration possible?**
+A: Yes. Electronic Engineering (233411) is on the immigration list and can be taken as 189/190 or 482→186; Because there are few positions, employer sponsorship is often the more practical pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Indeed AU | FPGA Engineer 均值约 $145,936；悉尼约 $140k |
-| ERI SalaryExpert | 均值约 $162,372；入门约 $114k，资深约 $201,853 |
-| Glassdoor AU | 澳洲约 27 个 FPGA 工程师岗（2025） |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中低（★★½☆☆） |
-
-FPGA 工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲 FPGA 工程师工资多少？**
-答：入门约 $110k~$140k（均值约 $114k）；中级 $140k~$175k（Indeed 约 $146k）；资深 $175k~$210k（可达 $201,853）。属高薪电子细分。
-
-**问：FPGA 工程师在澳洲好找工作吗？**
-答：岗位数量少（SEEK 约 9、Glassdoor 约 27），但供给更少，属结构性紧缺。集中在国防航天、HFT 与半导体/通信公司，往往需锁定特定雇主。
-
-**问：海外 FPGA 经验澳洲认可吗？**
-答：电子工程学历经 Engineers Australia 评估；Verilog/VHDL、时序收敛与验证经验高度受认可。注意国防岗常要求公民身份与安全许可。
-
-**问：会被 AI 替代吗？**
-答：风险低。AI 对 RTL 生成帮助有限，硬件时序收敛、验证与系统集成高度专业，短期难以替代。
-
-**问：能技术移民吗？**
-答：能。电子工程(233411)在移民清单，可走 189/190 或 482→186；因岗位少，雇主担保常是更现实的通道。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

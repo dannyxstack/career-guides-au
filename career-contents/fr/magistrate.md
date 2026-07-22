@@ -1,59 +1,94 @@
-# Magistrate（Magistrate）职业分析 · FR
+# Magistrate — career analysis · France
 
-**职业代码：K1904 – Magistrate。**
+**Occupation code: K1904 (ROME)**
 
-Magistrates are key figures in the judiciary, responsible for hearing cases, interpreting laws, and delivering impartial verdicts.
+Judges are the core roles in the judicial system, responsible for hearing cases, interpreting laws, and making fair judgments.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 5年（硕士+M2） | —（公立大学学费低（约3000欧/年），但需通过ENM入学考试，培训期31个月带薪。） |
+| Master's degree | 5 years (Master's + M2) | $0~$50,000 (Public universities have low tuition fees (about 3,000 euros per year), but require passing the ENM entrance exam, with a 31-month paid training period.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家司法学院（ENM）毕业文凭 | 法国司法部 | 必备 | 必须通过ENM入学考试并完成31个月培训，含实习。 |
-| 司法宣誓 | 法国法院 | 必备 | 正式就职前需进行司法宣誓。 |
+| National Judicial College (ENM) diploma | French Ministry of Justice | Required | You must pass the ENM entrance exam and complete 31 months of training, including internships. |
+| Judicial oath | French court | Required | A judicial oath must be taken before officially taking office. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 9,000。法国法官职业稳定，受国家保障，但竞争激烈。近年来司法改革推动招聘增加，但岗位有限，晋升缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 9,000. The French judge profession is stable and state-protected, but competition is fierce. In recent years, judicial reforms have driven increased recruitment, but positions are limited and promotions are slow.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $40,000~$55,000 | 税前年薪，含津贴。 |
-| 中级（5-15年） | $55,000~$80,000 | 税前年薪，取决于法院级别和职位。 |
-| 高级（15年以上） | $80,000~$120,000 | 税前年薪，如庭长或上诉法院法官。 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $40,000~$55,000 | Pre-tax annual salary, including allowances. |
+| Intermediate (5-15 years) | $55,000~$80,000 | Pre-tax annual salary depends on court rank and position. |
+| Senior (15+ years) | $80,000~$120,000 | Pre-tax annual salary, such as the presiding judge or appellate court judge. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径清晰：从初任法官（juge）到庭长（président de chambre），再到高级职位如上诉法院院长。需通过国家司法学院（ENM）选拔。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist in legal research, document writing, and case retrieval, greatly improving efficiency, but core trial decisions, discretionary power, and judicial ethics remain irreplaceable barriers for judges.
+
+The career path is clear: from junior judge (juge) to presiding judge (président de chambre), and then to senior positions such as the president of the Court of Appeal. Candidates must pass the National Judicial College (ENM) selection.
+
+**Tasks most exposed to AI:**
+
+- Automated legal literature retrieval and case comparison
+- Generate standardized draft judgments and templated documents
+- Recording and transcribing court audio and evidence
+- Preliminary analysis of the chain of evidence and factual logic
+- Manage case schedules and document archiving processes
+
+**Where AI augments the role:**
+
+- AI is used to analyze vast amounts of case data, uncovering trends and patterns in penalty decisions
+- Quickly extract key facts and points of contention from cases using natural language processing
+- Use AI-assisted sentencing recommendation systems to assess sentence range and consistency
+- Identify potential fraud or contradictions through intelligent evidence analysis tools
+- Use AI to write non-core factual statements in judgment documents
+
+**Human moat:**
+
+- Discretion based on legal principles and moral ethics
+- A symbol of court authority, fairness, and social trust
+- Subjective judgment and balance of emotion and reason in complex cases
+- On-site control of the parties' emotions and social impact
+- The inescapable assertion of ultimate legal responsibility
+
+**Skills to build:**
+
+- Acquire legal technology tools (such as LexisNexis AI, Westlaw Edge)
+- Learn the basics of data analysis (Python/R for case statistics)
+- Enhance complex logical reasoning and uncertainty decision-making abilities
+- Cultivating interdisciplinary knowledge (such as technology ethics, cyber law)
+- Learn AI bias detection and fairness assessment methods
+- Strengthen interpersonal communication and court management skills
+
+**Key growth areas:**
 
 - Judicial reform
 - Career stability
@@ -62,65 +97,64 @@ Magistrates are key figures in the judiciary, responsible for hearing cases, int
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 工作居留，但法官职位通常不向非欧盟公民开放。 |
-| Subclass Passeport Talent（Passeport Talent） | 人才护照，仅适用于极少数特殊法律专家，但司法职业受限。 |
+| Subclass Salarié (Salarié) | Work residency, but judicial positions are usually not open to non-EU citizens. |
+| Subclass Passeport Talent (Passeport Talent) | Talent passport, only applicable to very few special legal experts, but judicial profession is restricted. |
 
-**PR难度：极高（★★★★½）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Magistrate？**
-- 法律专业毕业生，尤其通过法国司法考试者
-- 对司法公正有强烈使命感、抗压能力强的个人
-- 愿意接受严格选拔和长期培训的申请者
-
-**谁不适合学Magistrate？**
-- 希望快速移民或通过技术移民渠道者
-- 偏好灵活职业路径或高回报率职业者
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Law degree graduates, especially those who have passed the French bar exam
+- Individuals with a strong sense of justice and high resilience under pressure
+- Applicants willing to undergo rigorous selection and long-term training
+
+**Who is not suited**
+- Those seeking fast-track immigration or through skilled migration channels
+- Prefer flexible career paths or high-return careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for judges?**
+A: French judges earn approximately €40,000-120,000 before tax annually, junior about €40,000-55,000, mid-level €55,000-80,000, senior up to €120,000.
+
+**Q: Can non-EU citizens become French judges?**
+A: Extremely difficult. Judge is a regulated occupation, must pass selection by the French National School for the Judiciary and take an oath, typically open only to EU citizens. Skilled migration pathway almost impossible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Magistrate为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of magistrates?**
-答：French magistrates earn a gross annual salary between €40,000 and €120,000, with entry-level at €40,000-55,000, mid-level €55,000-80,000, and senior up to €120,000.
-
-**问：Can non-EU citizens become magistrates in France?**
-答：Extremely difficult. The judiciary is a regulated profession requiring ENM training and oath, typically restricted to EU citizens. Skilled migration paths are nearly nonexistent.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

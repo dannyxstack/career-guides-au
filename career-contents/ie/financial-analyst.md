@@ -1,59 +1,95 @@
-# Financial Analyst（Financial Analyst）职业分析 · IE
+# Financial Analyst — career analysis · Ireland
 
-**职业代码：2413 – Financial Analyst。**
+**Occupation code: 2413 (ISCO08)**
 
-Financial analysts evaluate investment opportunities, analyze financial data, prepare reports, and provide investment advice to businesses and individuals. They work in banks, investment firms, insurance companies, and corporate finance departments.
+Financial analysts evaluate investment opportunities, analyze financial data, write reports, and provide investment advice to businesses and individuals. They work in banks, investment companies, insurance companies, and corporate finance departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $15,000~$25,000（每年学费，欧盟学生较低，非欧盟较高） |
-| 硕士 | 1-2年（硕士） | $15,000~$30,000（每年学费，如都柏林大学金融硕士） |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$25,000 (Annual tuition: lower for EU students, higher for non-EU students) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Annual tuition fees, e.g., for University College Dublin's Master of Finance.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许金融分析师（CFA） | CFA Institute | 可选 | 国际认可，通常需要3-4年完成三级考试 |
-| 爱尔兰注册会计师（ACA/ACCA） | 爱尔兰特许会计师协会/ACCA | 可选 | 适合从事公司财务或审计方向 |
-| 金融风险管理师（FRM） | 全球风险专业人士协会 | 可选 | 专注于风险管理领域 |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Internationally recognized, typically requiring 3-4 years to complete the three-level exams |
+| Irish Chartered Accountant (ACA/ACCA) | Chartered Accountants Ireland / ACCA | Optional | Suitable for corporate finance or auditing roles |
+| Financial Risk Manager (FRM) | Global Association of Risk Professionals | Optional | Focus on risk management field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。爱尔兰金融服务业持续增长，尤其是在都柏林国际金融服务中心。随着金融科技和可持续投资的兴起，对金融分析师的需求预计将保持强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Ireland's financial services sector continues to grow, especially in the Dublin International Financial Services Centre. With the rise of fintech and sustainable investing, demand for financial analysts is expected to remain strong.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$75,000 | 税前年薪 |
-| 高级（7年以上） | $80,000~$120,000 | 税前年薪，可能包含奖金 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$75,000 | Annual pre-tax salary |
+| Senior (7+ years) | $80,000~$120,000 | Pre-tax annual salary, may include bonuses |
+| average salary | $67,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级分析师可晋升为高级分析师、投资经理或研究主管。具备CFA等专业认证后，可向投资银行、资产管理或风险管理等方向发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior analysts can advance to senior analyst, investment manager, or research director. With professional certifications like CFA, they can move into investment banking, asset management, or risk management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Fintech
 - Sustainable Finance
@@ -62,68 +98,67 @@ Financial analysts evaluate investment opportunities, analyze financial data, pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过32,000欧元且职业在紧缺清单上的金融分析师。允许直接申请Stamp 4居留。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过30,000欧元的金融分析师职位，需进行劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过33,500欧元的高技能职位，提供欧盟内流动便利。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to financial analysts with an annual salary over €32,000 and on the shortage list. Allows direct application for Stamp 4 residence. |
+| Subclass General Employment P (General Employment Permit) | For financial analyst positions with annual salary exceeding 30,000 euros, a labor market test is required. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with an annual salary exceeding €33,500, offering mobility within the EU. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Analyst？**
-- 对金融市场和数据分析有浓厚兴趣的人
-- 具备较强数学和逻辑思维能力的人
-- 愿意考取专业认证以提升竞争力的人
-
-**谁不适合学Financial Analyst？**
-- 不喜欢高强度工作和压力的人
-- 对数字和细节不敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in financial markets and data analysis
+- Individuals with strong mathematical and logical reasoning skills
+- Individuals willing to obtain professional certifications to improve competitiveness
+
+**Who is not suited**
+- People who dislike high-intensity work and pressure
+- Those not sensitive to numbers and details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a financial analyst in Ireland?**
+A: Junior financial analyst annual salary approximately €35,000-45,000, mid-level €50,000-75,000, senior up to €80,000-120,000, excluding bonuses.
+
+**Q: Which visas can financial analysts use to immigrate to Ireland?**
+A: Main pathways include the Critical Skills Employment Permit (annual salary ≥€32,000) and the General Employment Permit (annual salary ≥€30,000). EU citizens can move freely.
+
+**Q: What are the career prospects for a financial analyst?**
+A: Can progress from junior analyst to senior analyst, investment manager, or research director. Obtaining CFA certification can lead to roles in investment banking, asset management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Financial Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a financial analyst in Ireland?**
-答：Entry-level financial analysts earn around €35,000-€45,000, mid-level €50,000-€75,000, and senior analysts €80,000-€120,000 per year, excluding bonuses.
-
-**问：What visas can a financial analyst use to migrate to Ireland?**
-答：Main routes include the Critical Skills Employment Permit (salary ≥€32,000) and General Employment Permit (salary ≥€30,000). EU citizens can freely move.
-
-**问：What are the career prospects for a financial analyst?**
-答：Career progression from junior to senior analyst, investment manager, or research head. With CFA certification, opportunities expand into investment banking, asset management, etc.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

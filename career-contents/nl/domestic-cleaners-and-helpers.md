@@ -1,56 +1,92 @@
-# Domestic Cleaners and Helpers（Domestic Cleaners and Helpers）职业分析 · NL
+# Domestic Cleaners and Helpers — career analysis · Netherlands
 
-**职业代码：9111 – Domestic Cleaners and Helpers。**
+**Occupation code: 9111 (ISCO08)**
 
-Domestic cleaners and helpers perform cleaning, tidying, and household chores in private homes, including sweeping, vacuuming, dusting, and laundry.
+Domestic cleaners and assistants are responsible for cleaning, tidying, and general housekeeping in private homes, including sweeping, vacuuming, dusting, and laundry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常通过在职培训获得技能） |
+| No formal education required | None | $0~$0 (Skills are usually gained through on-the-job training.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主可能要求提供无犯罪记录证明 |
+| No mandatory qualification requirements | None | Optional | Employers may require a criminal record check. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 65,000。荷兰家庭清洁服务需求稳定，受人口老龄化和双职工家庭增加推动，就业机会保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Demand for home cleaning services in the Netherlands is stable, driven by an aging population and an increase in dual-income families, with employment opportunities remaining steady.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，按荷兰最低工资标准估算 |
-| 中级（3-7年） | $25,000~$30,000 | 税前年薪，含自雇收入 |
-| 高级（7年以上） | $30,000~$35,000 | 税前年薪，通常为自雇或主管 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $20,000~$25,000 | pre-tax annual salary, estimated based on Dutch minimum wage standards |
+| Mid-level (3–7 years) | $25,000~$30,000 | Annual pre-tax salary, including self-employment income |
+| Senior (7+ years) | $30,000~$35,000 | Annual salary before tax, typically for self-employed or supervisor |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 该职业晋升路径有限，多数为入门级岗位。经验丰富者可成为自雇清洁工或小型清洁公司主管。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Domestic cleaners and assistants will face significant automation compression, as robotic vacuums, smart cleaning systems, and automated laundry technology can now handle most repetitive cleaning tasks. Entry-level jobs will decrease, but high-value deep cleaning and customized customer services remain human-led.
+
+This occupation has limited career progression, mostly entry-level roles. Experienced workers can become self-employed cleaners or supervisors of small cleaning companies.
+
+**Tasks most exposed to AI:**
+
+- Floor cleaning using vacuum cleaners and brooms
+- Wipe standard surfaces such as desks and windowsills
+- Simple sorting and folding of laundry
+- Perform standardised cleaning procedures on a scheduled basis
+- Record cleaning completion (paper or simple digital records)
+
+**Where AI augments the role:**
+
+- Optimize multi-client cleaning routes and schedules using AI scheduling software
+- Use sensor data to detect high-stain areas for targeted cleaning
+- Coordinating customer preferences via voice assistants and smart home systems
+- Use smart cleaning equipment (e.g. automatic mops, window cleaning robots) to improve efficiency
+- Using online platforms (e.g., TaskRabbit) to match high-end client needs
+
+**Human moat:**
+
+- Fine cleaning of special items such as fragile goods and antiques
+- Customer trust building and personalized services (e.g., pet household hygiene tips)
+- Complex environment decision-making (e.g., carpet stain recognition and treatment method selection)
+- Interpersonal communication and emotional support (e.g., companionship for elderly living alone)
+- Emergency handling (e.g., water leaks, damage compensation negotiations)
+
+**Skills to build:**
+
+- Operation and maintenance of smart cleaning equipment
+- Basic data analysis (customer preferences, inventory management)
+- Interpersonal communication and customer relationship management
+- Time management and multitasking
+- Knowledge and use of environmentally friendly cleaning products
+- Basic home repair and maintenance
+
+**Key growth areas:**
 
 - aging population
 - dual-income households
@@ -59,68 +95,67 @@ Domestic cleaners and helpers perform cleaning, tidying, and household chores in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Free Movement（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由进入荷兰工作，无需工作许可。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但家庭清洁工通常不符合收入门槛（2025年要求月薪≥€5,331）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 在荷兰毕业的留学生可申请一年求职签证，但家庭清洁工薪资可能不满足要求。 |
+| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU/EEA citizens can freely enter the Netherlands for work without needing a work permit. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but domestic cleaners typically do not meet the income threshold (€5,331/month required in 2025). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International graduates in the Netherlands can apply for a one-year job-seeking visa, but wages for domestic cleaners may not meet the requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Domestic Cleaners and Helpers？**
-- 希望快速就业且无需高学历的人
-- 喜欢灵活工作时间和体力劳动的人
-- 注重家庭工作环境的人
-
-**谁不适合学Domestic Cleaners and Helpers？**
-- 寻求高收入和职业晋升的人
-- 厌恶体力劳动和重复性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who want quick employment without needing a high degree
+- Those who enjoy flexible working hours and physical labor
+- People who value a family-friendly work environment
+
+**Who is not suited**
+- Those seeking high income and career advancement
+- People who dislike physical labor and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for domestic cleaners in the Netherlands?**
+A: Junior cleaner gross annual salary approximately €20,000-25,000; self-employed cleaners can earn over €30,000.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through house cleaning work?**
+A: Difficult. Domestic cleaners generally do not meet high-skilled immigration income requirements; only EU freedom of movement or partner visa holders are eligible.
+
+**Q: Are there career development opportunities for domestic cleaners?**
+A: Promotion opportunities are limited, but one can become a self-employed cleaner or start a small cleaning company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Domestic Cleaners and Helpers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for domestic cleaners in the Netherlands?**
-答：Entry-level cleaners earn around €20,000-€25,000 gross annually, while self-employed can earn over €30,000.
-
-**问：Can non-EU citizens immigrate through domestic cleaning work in the Netherlands?**
-答：Difficulty. Domestic cleaning usually does not meet the income threshold for highly skilled migrants; only EU free movers or partner visa holders may work in this field.
-
-**问：Are there career development opportunities for domestic cleaners?**
-答：Limited. Possible to become self-employed or start a small cleaning business.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Special Education Teachers, Kindergarten（Special Education Teachers, Kindergarten）职业分析 · 美国
+# Special Education Teachers, Kindergarten — career analysis · United States
 
-**职业代码：25-2055 – Special Education Teachers, Kindergarten。**
+**Occupation code: 25-2055 (SOC)**
 
-Teach academic, social, and life skills to kindergarten students with learning, emotional, or physical disabilities, including those who are blind, deaf, or have intellectual disabilities.
+Teach academic, social, and life skills to kindergarten students with learning, emotional, or physical disabilities, including specialized teachers for blind, deaf, or intellectually disabled students.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约$10,000-$25,000） |
-| 硕士学位 | 2年 | $30,000~$70,000（硕士课程总学费，公立大学相对便宜） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Public university annual tuition approximately $10,000-$25,000) |
+| Master's degree | 2 years | $30,000~$70,000 (Total tuition for master's program, public universities are relatively cheaper) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特殊教育教师执照 | 州教育委员会 | 必备 | 各州要求完成认证课程并通过Praxis考试 |
-| 学士学位 | 认可大学 | 必备 | 专业需包含特殊教育课程 |
+| Special education teacher license | State Board of Education | Required | Each state requires completion of certified courses and passing the Praxis exam |
+| Bachelor's degree | Recognised university | Required | Major must include special education courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 22,000。美国对特殊教育教师的需求持续增长，因早期干预和包容性教育政策推动，就业前景良好，年增长率约4%。
+**Job demand: high (★★★★☆).** National workforce approx. 22,000. Demand for special education teachers in the US continues to grow due to early intervention and inclusive education policies, with good employment prospects and an annual growth rate of about 4%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪因地区和学区而异 |
-| 中级（4-9年） | $55,000~$70,000 | 随经验增长 |
-| 高级（10年以上） | $70,000~$90,000 | 高级教师或行政角色 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary varies by region and school district. |
+| Intermediate (4-9 years) | $55,000~$70,000 | Increases with experience. |
+| Senior (10+ years) | $70,000~$90,000 | Senior teacher or administrative role |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从助理教师晋升为首席特殊教育教师，进而成为特殊教育协调员或行政主管；也可通过硕士学历进入大学或研究机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
+
+Can advance from assistant teacher to lead special education teacher, then to special education coordinator or administrative supervisor; can also enter universities or research institutions through a master's degree.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
 
 - Early Intervention
 - Inclusive Education
@@ -61,69 +94,68 @@ Teach academic, social, and life skills to kindergarten students with learning, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 适用于公立学校教师，雇主担保，年度配额有限，但学校豁免部分限制 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 持有硕士学位的特殊教育教师可通过PERM申请 |
-| Subclass EB-3（EB-3 Employment-Based Green Card (Skilled Workers)） | 学士学位加执照可申请 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 雇主需证明无法招聘到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Applicable to public school teachers; employer-sponsored with annual quota limits, but schools are exempt from some restrictions |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Special education teachers with a master's degree can apply via PERM |
+| Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | Bachelor's degree plus license eligible to apply |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Employers must prove inability to hire qualified US workers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teachers, Kindergarten？**
-- 有耐心的教育工作者，乐于帮助残障儿童
-- 具备跨学科知识和创造力的人
-- 能承受情感和体力压力的坚韧者
-
-**谁不适合学Special Education Teachers, Kindergarten？**
-- 缺乏耐心或抗压能力较差的人
-- 不喜欢与有行为问题儿童打交道的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient educators who enjoy helping children with disabilities
+- People with interdisciplinary knowledge and creativity.
+- Resilient person able to withstand emotional and physical stress
+
+**Who is not suited**
+- People lacking patience or poor stress tolerance
+- Those who dislike working with children with behavioral issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for special education teachers in kindergartens?**
+A: Salary varies by location, experience, and education; entry-level approx $45,000-$55,000, senior up to $70,000-$90,000. Public schools typically offer full benefits.
+
+**Q: How can a kindergarten special education teacher immigrate via a US visa?**
+A: Common pathway is H-1B work visa, then employer-sponsored EB-2 or EB-3 green card. Schools as nonprofit organizations can be exempt from H-1B cap.
+
+**Q: What is the future outlook for this occupation?**
+A: Due to increased emphasis on early intervention and expansion of inclusive education, demand continues to grow. Expected growth of 4% from 2022-2032, on par with the average.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Special Education Teachers, Kindergarten的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for special education teachers in kindergarten?**
-答：Salaries vary by location, experience, and education. Entry-level: $45,000-$55,000; experienced: $70,000-$90,000. Public schools offer benefits.
-
-**问：How can a kindergarten special education teacher immigrate to the US via visa?**
-答：Common path: H-1B visa (schools as non-profits may be cap-exempt), then employer-sponsored EB-2/EB-3 green card via PERM.
-
-**问：What is the future outlook for this occupation?**
-答：Growing demand due to increased focus on early intervention and inclusive education. Projected growth 4% from 2022-2032, on par with average.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,90 @@
-# Sewing, Embroidery and Related Workers（Sewing, Embroidery and Related Workers）职业分析 · IE
+# Sewing, Embroidery and Related Workers — career analysis · Ireland
 
-**职业代码：7533 – Sewing, Embroidery and Related Workers。**
+**Occupation code: 7533 (ISCO08)**
 
-In Ireland, sewing, embroidery and related workers mainly perform stitching, repairing and decorating of garments, textiles and leather goods, serving fashion manufacturing, bespoke tailoring and restoration sectors.
+In Ireland, sewing, embroidery, and related workers primarily sew, repair, and decorate clothing, textiles, and leather goods, serving the fashion manufacturing, custom tailoring, and restoration industries.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（在职培训或短期课程费用） |
-| 职业教育证书 | 1-2年（职业培训） | $2,000~$8,000（如FETAC/QQI缝纫技能证书） |
+| High school graduation | No higher education required | $0~$2,000 (On-the-job training or short course fees) |
+| Vocational education certificate | 1-2 years (vocational training) | $2,000~$8,000 (E.g., FETAC/QQI Sewing Skills Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫技能证书 | QQI（爱尔兰质量与资格认证） | 可选 | 常见入门资格 |
-| 高级缝纫与裁剪证书 | 时装与技术学院 | 可选 | 提升职业竞争力 |
+| Sewing skills certificate | QQI (Quality and Qualifications Ireland) | Optional | Common entry qualifications |
+| Advanced Sewing and Tailoring Certificate | Fashion Institute of Technology | Optional | Enhance career competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 800。爱尔兰服装制造业规模较小，但定制和修复需求稳定。受快时尚和自动化影响，传统岗位增长有限，但高端定制和可持续时尚领域机会增加。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 800. The Irish clothing manufacturing industry is small, but demand for customization and repair is stable. Impacted by fast fashion and automation, traditional job growth is limited, but opportunities in high-end customization and sustainable fashion are increasing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管或自雇 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including supervisors or self-employed |
+| average salary | $29,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级工人可通过在职培训晋升为高级缝纫师或样板师。部分向时装设计或服装技术转型。独立开设裁缝店或工作室也是常见发展路径。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Core repetitive tasks for sewing, embroidery and related workers (e.g., batch sewing, embroidery) will be rapidly replaced by AI-driven automated machines, but high-end custom and restoration work still relies on human skill.
+
+Entry-level workers can advance to senior seamster or pattern maker through on-the-job training. Some transition into fashion design or garment technology. Opening a tailor shop or studio is also a common career path.
+
+**Tasks most exposed to AI:**
+
+- Repetitive straight and basic curved stitching in batch garment sewing
+- Automated embroidery of standard patterns, such as logos and repeating motifs.
+- Automated cutting and fabric layout based on preset templates
+- Simple defect identification in quality inspection (e.g., loose threads, skipped stitches)
+
+**Where AI augments the role:**
+
+- Use AI design software to creatively generate and adjust personalized embroidery patterns.
+- Virtual fitting and pattern correction for custom clothing using 3D scanning and AI
+- Use AI-assisted analysis of fabric properties to optimize stitching parameters and needle selection
+
+**Human moat:**
+
+- Hand-shaping and detail finishing in complex draping and haute couture
+- Professional judgment and restoration of historical stitching and fabrics in vintage clothing restoration.
+- The artistic creativity and manual texture in high-end embroidery, which cannot be replicated by machines.
+
+**Skills to build:**
+
+- Proficient in AI-assisted design software (e.g., Adobe Illustrator + AI plugins, CLO 3D)
+- Learn automated sewing equipment programming and maintenance
+- Enhancing knowledge of fabric science and sustainable materials
+- Develop creative design and client communication skills
+- Study digital marketing and e-commerce operations, transition to independent designer
+
+**Key growth areas:**
 
 - Sustainable fashion
 - Bespoke tailoring
@@ -63,66 +93,68 @@ In Ireland, sewing, embroidery and related workers mainly perform stitching, rep
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元（2024标准）的职位，但缝纫工通常难以达到此门槛，一般不适用。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国企业派遣，适用于在大型服装制造公司工作的情形。 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由工作和居住，无需工作许可。 |
+| Subclass General Employment P (General Employment Permit) | Applies to positions with an annual salary of at least €30,000 (2024 standard), but sewing workers usually find it difficult to reach this threshold, so it generally does not apply. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Suitable for secondment by multinational companies, applicable to work situations in large garment manufacturing companies. |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can work and reside freely without a work permit. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewing, Embroidery and Related Workers？**
-- 喜欢手工和细致工作的人
-- 追求灵活工作时间或自雇的人
-- 对时尚和纺织艺术有兴趣的人
+**Who is suited**
+- people who enjoy manual and meticulous work
+- For those seeking flexible working hours or self-employment
+- People interested in fashion and textile arts
 
-**谁不适合学Sewing, Embroidery and Related Workers？**
-- 偏好高薪和稳定晋升的人
-- 对重复性工作不耐受的人
+**Who is not suited**
+- People who prefer high salary and stable promotion
+- People who are intolerant of repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a sewing machinist in Ireland?**
+A: Junior sewing machinists earn about €20,000–€26,000 per year, senior ones up to €40,000, overall below the national median.
+
+**Q: Can non-EU citizens immigrate to Ireland as a sewing machinist?**
+A: Very difficult. Sewing machinists are not on the critical skills occupation list, and wages rarely meet the 30,000 euro threshold for general work permits; usually only EU citizens can work freely.
+
+**Q: What are the career prospects for sewing machine operators?**
+A: Traditional roles decline due to automation and overseas production, but growth opportunities exist in niche high-end customisation, restoration, and sustainable fashion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sewing, Embroidery and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sewing workers in Ireland?**
-答：Entry-level sewing workers earn about EUR 20,000-26,000 per year, with senior roles up to EUR 40,000, below the national median.
-
-**问：Can non-EU citizens immigrate to Ireland as sewing workers?**
-答：Very difficult. Sewing workers are not on the Critical Skills list and salaries typically fall below the General Employment Permit threshold of EUR 30,000; mainly EU citizens benefit from free movement.
-
-**问：What is the career outlook for sewing workers?**
-答：Traditional roles decline due to automation and offshoring, but niche opportunities in high-end tailoring, restoration and sustainable fashion are growing.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

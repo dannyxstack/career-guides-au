@@ -1,61 +1,94 @@
-# Commissioned Armed Forces Officers（Commissioned Armed Forces Officers）职业分析 · IT
+# Commissioned Armed Forces Officers — career analysis · Italy
 
-**职业代码：0110 – Commissioned Armed Forces Officers。**
+**Occupation code: 0110 (ISCO08)**
 
-Commissioned Armed Forces Officers lead and manage military operations in Italy, commanding troops, formulating strategies, and ensuring national security. They require strong leadership, discipline, and decision-making skills.
+Commissioned officers are commanders in the Italian armed forces, responsible for leading military operations, managing soldiers, developing strategies, and maintaining national security. This career requires a high degree of discipline, leadership, and decision-making skills.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 军事学院 | 5年（学士学位+军事训练） | —（全额资助，无需学费） |
-| 大学军官培训 | 3-5年（学士+补充培训） | $1,000~$3,000（部分课程自费，但多数得到补贴） |
+| Military academy | 5 years (bachelor's degree + military training) | $0~$0 (Fully funded, no tuition fees) |
+| University officer training | 3-5 years (bachelor's degree plus supplementary training) | $1,000~$3,000 (Some courses are self-funded, but most are subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 陆军/海军/空军军官学校毕业 | 国防部 | 必备 | 必须完成军事学院课程 |
-| 学士学位（任意学科） | 认可大学 | 必备 | 部分岗位要求特定专业 |
-| 通过选拔考试 | 国防部 | 必备 | 包括体能、心理和学术测试 |
+| Graduate of Army/Navy/Air Force Officer Academy | Department of Defense | Required | Must complete a military academy course |
+| Bachelor's degree (any discipline) | Recognised university | Required | Some positions require specific majors |
+| Passing the selection exam | Department of Defense | Required | Including physical, psychological and academic tests |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 20,000。意大利军队持续现代化，军官需求稳定。国防预算增长缓慢，但退役人员补充和网络安全等新兴领域提供机会。竞争激烈，晋升依赖绩效。
+**Job demand: medium (★★½☆☆).** National workforce approx. 20,000. Italian military is continuously modernizing, with stable demand for officers. Defense budget grows slowly, but opportunities arise from replenishing retiring personnel and emerging fields like cybersecurity. Competition is intense, and promotions depend on performance.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $28,000~$35,000 | 包括基本工资和津贴 |
-| 中级（5-15年） | $40,000~$55,000 | 军衔在中尉到少校之间 |
-| 高级（15年以上） | $60,000~$80,000 | 中校及以上，含特殊补贴 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $28,000~$35,000 | Includes base salary and allowances |
+| Intermediate (5-15 years) | $40,000~$55,000 | Military rank between lieutenant and major |
+| Senior (15+ years) | $60,000~$80,000 | Lieutenant Colonel and above, including special allowances |
+| average salary | $49,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从军校或大学毕业后晋升。晋升路径：少尉→中尉→上尉→少校→中校→上校→将军。需要定期培训、体能测试和服役年限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core command, strategic decision-making, and personnel management tasks of commissioned officers are hard to replace by AI, but tasks like intelligence analysis, logistics optimization, and administrative paperwork may be automated; overall impact is mixed.
+
+Typically promoted after graduating from military academy or university. Promotion path: Second Lieutenant → Lieutenant → Captain → Major → Lieutenant Colonel → Colonel → General. Requires regular training, physical fitness tests, and years of service.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate daily reports and logistics scheduling, such as military materiel allocation
+- AI-assisted intelligence analysis, such as satellite image threat recognition
+- Basic tactical simulations and wargaming to replace manual calculations.
+- Administrative document processing, such as personnel records and budget preparation.
+
+**Where AI augments the role:**
+
+- AI-enhanced battlefield situational awareness, integrating multi-source information in real-time to assist command decisions
+- Smart simulation systems optimize training plans, improving soldiers' skill matching
+- AI tools predict enemy actions, improving strategic planning efficiency.
+- Automated logistics systems reduce administrative burdens, enabling officers to focus on core tasks
+
+**Human moat:**
+
+- Making ethical and strategic decisions in high-pressure, ambiguous real-world environments
+- Motivate, lead, and unite soldiers, building team trust
+- Take responsibility for life, bear ultimate accountability and legal liability
+- Adapt to dynamic battlefields and flexibly handle unstructured emergencies.
+
+**Skills to build:**
+
+- AI and machine learning fundamentals for intelligence analysis and decision support
+- Data science and visualization for interpreting complex battlefield data
+- Operation and coordination of drones and autonomous systems
+- Knowledge of cyber warfare and electronic warfare
+- Human-machine collaborative leadership, managing AI-augmented teams
+- Ethical and legal frameworks to ensure compliant AI use
+
+**Key growth areas:**
 
 - National Security
 - Cyberspace Operations
@@ -64,66 +97,68 @@ Commissioned Armed Forces Officers lead and manage military operations in Italy,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能非欧盟军官，但意大利军队通常只招募欧盟公民或意大利公民。极少数专家可通过此途径。 |
-| Subclass Lavoro Autonomo（Self-Employment Visa） | 不适用，军官为公务员，不能自雇。 |
-| Subclass Nulla Osta（Work Authorization for Military Personnel） | 仅适用于特殊合同专家（如网络战）且需国防部批准。非欧盟公民极少获批。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU officers, but the Italian military usually only recruits EU citizens or Italian citizens. Very few specialists can enter through this pathway. |
+| Subclass Lavoro Autonomo (Self-Employment Visa) | Not applicable. Military officers are civil servants and cannot be self-employed. |
+| Subclass Nulla Osta (Work Authorization for Military Personnel) | Applicable only to special contract experts (e.g., cyber warfare) and requires approval from the Ministry of Defense. Non-EU citizens rarely approved. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Commissioned Armed Forces Officers？**
-- 纪律性强、有领导力的人
-- 热爱国家、愿意服务的人群
-- 适应高压和体力挑战的人
+**Who is suited**
+- Disciplined individuals with leadership skills
+- People who love their country and are willing to serve
+- People who adapt to high pressure and physical challenges
 
-**谁不适合学Commissioned Armed Forces Officers？**
-- 反感严格遵守等级制度的人
-- 不喜欢频繁移动和部署的人
+**Who is not suited**
+- Dislikes strict adherence to hierarchical systems
+- People who dislike frequent moves and deployments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of Italian military officers?**
+A: Junior officers earn about 28,000–35,000 euros annually, senior officers up to 80,000 euros, including housing and meal allowances.
+
+**Q: Can non-EU citizens become officers in Italy?**
+A: Generally not, officer positions are limited to EU citizens. Non-EU citizens have very few opportunities, only through special expert contracts.
+
+**Q: What is the career progression path for Italian military officers?**
+A: Start as Second Lieutenant, then progress: First Lieutenant, Captain, Major, Lieutenant Colonel, Colonel, General. Promotion based on performance and training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Commissioned Armed Forces Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Italian officers?**
-答：Junior officers earn around €28,000-35,000 per year, while senior officers can reach €80,000, including housing and meal allowances.
-
-**问：Can non-EU citizens become officers in Italy?**
-答：Generally no, officer positions are restricted to EU citizens. Non-EU citizens rarely have opportunities, only via special expert contracts.
-
-**问：What is the career progression for Italian officers?**
-答：Starting as Second Lieutenant, progression: Lieutenant, Captain, Major, Lieutenant Colonel, Colonel, General. Based on performance and training.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

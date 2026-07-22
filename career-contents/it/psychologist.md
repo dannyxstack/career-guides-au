@@ -1,60 +1,96 @@
-# Psychologist（Psychologist）职业分析 · IT
+# Psychologist — career analysis · Italy
 
-**职业代码：2634 – Psychologist。**
+**Occupation code: 2634 (ISCO08)**
 
-Psychologists study human behavior and mental processes, providing assessment, therapy, and counseling. In Italy, they work in public healthcare, private practice, schools, or corporations.
+Psychologists study human behavior and mental processes, providing psychological assessment, therapy, and counseling. In Italy, they may work in public health systems, private practices, schools, or companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$3,000（公立大学年学费，视家庭收入） |
-| 硕士 | 2年（硕士） | $2,000~$4,000（专业硕士课程，如临床心理学） |
-| 实习与资格培训 | 1-2年 | —（国家培训及资格考试费用） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$3,000 (Annual tuition at public universities, based on family income) |
+| Master's degree | 2 years (Master's) | $2,000~$4,000 (Professional master's programs, such as clinical psychology) |
+| Internship and qualification training | 1-2 years | $0~$5,000 (National training and qualification exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学硕士学位 | 意大利大学 | 必备 | 需通过国家考试获得执业资格 |
-| 国家执业资格考试 | 意大利卫生部 | 必备 | 笔试与口试，通过后注册为心理学家 |
-| 专业进修课程 | 各专业协会 | 可选 | 如认知行为疗法等专科培训，非强制但利于就业 |
+| Master's degree in Psychology | Italian universities | Required | Must pass national examination to obtain practising qualification |
+| National professional qualification examination | Italian Ministry of Health | Required | Written and oral exams, then register as a psychologist after passing |
+| Professional development courses | Various professional associations | Optional | Specialised training such as Cognitive Behavioural Therapy, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 60,000。意大利对心理学服务的需求稳定增长，尤其在公共心理健康领域。老龄化人口和心理健康意识提升推动了需求，但竞争激烈，公共部门职位有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 60,000. Demand for psychology services in Italy is steadily growing, especially in public mental health. An aging population and increased mental health awareness drive demand, but competition is fierce and public sector positions are limited.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 公立医院或初入私人诊所 |
-| 中级（4-7年） | $35,000~$50,000 | 有经验的临床心理学家或学校心理学家 |
-| 高级（8年以上） | $50,000~$70,000 | 资深私人执业或部门主管 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Public hospitals or entry-level private clinics |
+| Mid-level (4-7 years) | $35,000~$50,000 | Experienced clinical psychologist or school psychologist |
+| Senior (8+ years) | $50,000~$70,000 | Senior private practice or department head. |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★½☆）。** 职业路径：从临床实习生到注册心理学家，可专攻临床、发展、组织等领域。公立医院晋升需多年经验及继续教育。私人执业者需建立客户群。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on psychologists is mixed: administrative and data tasks will be automated, but core diagnosis, treatment, and ethical judgment are hard to replace.
+
+Career path: from clinical intern to registered psychologist, with specializations in clinical, developmental, organizational fields. Advancement in public hospitals requires years of experience and continuing education. Private practitioners need to build a client base.
+
+**Tasks most exposed to AI:**
+
+- Automated psychological test scoring and report generation
+- Basic Emotion Recognition and Symptom Screening Chatbot
+- Medical case records and clinical documentation management
+- Data-driven treatment outcome analysis
+- Appointment scheduling and client management
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve assessment accuracy
+- Virtual reality exposure therapy enhances immersion in treatment
+- Analyze therapy conversation patterns using natural language processing
+- Smart reminder systems improve patient compliance
+- Big data-driven preventive intervention recommendations
+
+**Human moat:**
+
+- Building therapeutic alliance and empathy skills
+- Clinical reasoning and intuition in complex diagnosis.
+- Ethical decision-making and maintaining confidentiality boundaries
+- Handling crisis intervention and suicide prevention
+- Multicultural sensitivity and personalized treatment
+
+**Skills to build:**
+
+- Use of AI-assisted diagnostic tools (e.g., IBM Watson for Oncology)
+- Design and evaluation of digital therapy platforms
+- Fundamentals of Data Science (Statistical Analysis, Python/R)
+- Remote psychotherapy technologies (e.g., Zoom, VR)
+- Knowledge of AI ethics and privacy regulations
+- Project management and interdisciplinary collaboration
+
+**Key growth areas:**
 
 - Mental health awareness
 - Aging population
@@ -63,68 +99,67 @@ Psychologists study human behavior and mental processes, providing assessment, t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟人才，需大学学历及符合薪资门槛（约年薪40,000欧元），适合有经验的临床或组织心理学家。 |
-| Subclass Qualified Work Visa （Work Visa for Non-EU Workers） | 需雇主担保及意大利移民配额（Decreto Flussi），适合已获聘的心理学家，职位需符合短缺职业列表。 |
-| Subclass Self-Employment Visa（Self-Employment Visa） | 开放给计划在意大利开设私人诊所的心理学家，需提交商业计划及足够资金证明，审批较严格。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU talent, requires a university degree and meeting a salary threshold (approx. €40,000 per year), suitable for experienced clinical or organizational psychologists. |
+| Subclass Qualified Work Visa  (Work Visa for Non-EU Workers) | Requires employer sponsorship and Italian immigration quotas (Decreto Flussi), suitable for psychologists who have already obtained a job offer, with the position needing to be on the shortage occupation list. |
+| Subclass Self-Employment Visa (Self-Employment Visa) | Open to psychologists planning to open a private practice in Italy; requires a business plan and proof of sufficient funds, with strict approval process. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychologist？**
-- 对人类行为有强烈兴趣的人
-- 具备耐心和同理心的人
-- 希望从事助人职业且能承受情绪压力的人
-
-**谁不适合学Psychologist？**
-- 对长时间与人沟通感到疲惫的人
-- 无法接受严格伦理规范的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in human behavior
+- People with patience and empathy
+- People Seeking a Helping Career and Able to Handle Emotional Stress
+
+**Who is not suited**
+- People who feel exhausted after long conversations
+- People who cannot accept a strict code of ethics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of psychologists in Italy?**
+A: Entry-level psychologists earn about €25,000-€35,000 annually; senior clinical or private practitioners can reach €50,000-€70,000. Public hospital salaries are stable but grow slowly; private practice income fluctuates significantly.
+
+**Q: How can non-EU psychologists work in Italy?**
+A: Common pathways: Obtain an EU Blue Card (requires employer offer and annual salary >€40k) or apply for a work visa (requires employer sponsorship and quota). Self-employment visa suitable for opening a private clinic, but business viability must be demonstrated.
+
+**Q: What qualifications are needed to become a psychologist in Italy?**
+A: Requires a master's degree in psychology (5 years), passing the national professional qualification exam, and registration with a professional association. Non-EU qualifications require accreditation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for psychologists in Italy?**
-答：Entry-level psychologists earn around 25,000-35,000 EUR annually, while experienced clinical or private practitioners can reach 50,000-70,000 EUR. Public sector pay is stable but slow-growing; private practice income varies.
-
-**问：How can non-EU psychologists work in Italy?**
-答：Common routes: EU Blue Card (requires job offer with salary >40k EUR) or work visa (employer sponsorship and quota). Self-employment visa possible for private practice but requires business plan.
-
-**问：What qualifications are needed to become a psychologist in Italy?**
-答：A Master's degree in Psychology (5 years total), passing the national licensing exam, and registration with the professional association. Non-EU degrees must be validated.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

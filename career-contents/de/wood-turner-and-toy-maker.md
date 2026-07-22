@@ -1,60 +1,96 @@
-# Wood Turner and Toy Maker（Wood Turner and Toy Maker）职业分析 · DE
+# Wood Turner and Toy Maker — career analysis · Germany
 
-**职业代码：9333 – Wood Turner and Toy Maker。**
+**Occupation code: 9333 (KldB)**
 
-Specializes in turning wood, plastic, and other materials, and manufacturing or repairing toys, decorative items, and small objects.
+Engage in turning of materials like wood and plastic, as well as manufacturing and restoration of products such as toys and decorations.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，通常无需学费） |
-| 高级技师培训（Meister） | 1-2年（全职） | $3,000~$8,000（可选，费用因学校和地区而异） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Advanced technician training (Meister) | 1-2 years (full-time) | $3,000~$8,000 (Optional; costs vary by school and region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 车削与玩具制造师证书（Gesellenbrief） | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 完成双元制培训后获得，是从事该职业的基本资格 |
-| 高级技师证书（Meisterbrief） | 手工业协会（HWK） | 可选 | 可选，但有助于晋升和创业 |
+| Turning and Toy Maker Certificate (Gesellenbrief) | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Obtained after completing dual vocational training; it is the basic qualification for this occupation |
+| Master Craftsman Certificate (Meisterbrief) | Handwerkskammer (HWK, Craft Chamber) | Optional | Optional, but helpful for promotion and entrepreneurship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 8,500。该职业在德国属于小众手工艺领域，受自动化影响较小，但整体需求稳定，尤其在定制和修复领域有持续需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. This occupation is a niche craft field in Germany, less affected by automation, but overall demand remains stable, especially in customization and repair areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，取决于地区和公司规模 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，有经验后薪资提升 |
-| 高级（7年以上/高级技师） | $38,000~$48,000 | 税前年薪，含高级技师或管理职责 |
+| Median salary | $41,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $30,000~$38,000 | Pre-tax annual salary, increases with experience |
+| Senior (7+ years / senior technician) | $38,000~$48,000 | Annual pre-tax salary, including senior technician or management duties |
+| average salary | $43,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从普通车工起步，可通过继续教育成为高级技师（Meister），或自主创业开设作坊，也可向产品设计师或修复师发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Among the skills of a lathe and toy maker, repetitive tasks like lathe processing are easily automated, but creative design, restoration, and artistic custom work, which require aesthetics and manual craftsmanship, may be amplified by AI tools. Overall, risks and opportunities coexist.
+
+Starting as a general machinist, you can become a Master Technician (Meister) through further education, start your own workshop, or develop into a product designer or restorer.
+
+**Tasks most exposed to AI:**
+
+- Using traditional lathes for repetitive woodturning of standard shapes
+- Manual measurement and cutting based on pre-designed drawings
+- Assembly and polishing of mass-produced standardized toy components
+- Simple record-keeping for inventory management and raw material procurement.
+- Routine customer communication and basic quotation calculation
+
+**Where AI augments the role:**
+
+- Use AI design software to generate personalised toy creative prototypes and 3D models.
+- Exploring complex geometric shapes unreachable by traditional woodturning through generative AI.
+- Uses Computer-Aided Manufacturing (CAM) to optimize turning paths to reduce material waste.
+- Uses AI image recognition to diagnose materials and historical styles of antique toys, aiding restoration decisions.
+- Utilizing automated customer data analysis to predict market trends and guide new toy line design
+
+**Human moat:**
+
+- Intuitive grasp and experience-based judgment of textures and properties of materials like wood and plastic
+- Non-replicable tactile and manual skills such as hand carving and fine polishing
+- Understanding and creative transformation of non-standard requirements when communicating with clients
+- Research and restoration decisions on historical craftsmanship in toy restoration
+- Brand differentiation from artistic aesthetics and unique design style
+
+**Skills to build:**
+
+- Proficiency in CAD/CAM software (e.g., Fusion 360, Rhino) and integrating AI design generation.
+- Learn basic programming and IoT knowledge to operate smart lathe equipment
+- Improving ability to use digital marketing and online customization service platforms
+- Develop experimental and processing skills across materials (e.g., bioplastics, composites)
+- Learn to use AI-assisted repair tools (e.g., 3D scanning reverse modeling)
+- Strengthen soft skills in project management and client communication
+
+**Key growth areas:**
 
 - Artisanal craftsmanship
 - Custom manufacturing
@@ -63,69 +99,68 @@ Specializes in turning wood, plastic, and other materials, and manufacturing or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历且薪资达到门槛的技术移民，但该职业通常不满足学历要求，较少使用。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于完成德国认可的双元制培训（Ausbildung）的技术工人，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德国寻找工作，但需职业资质被认可。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for skilled migration with higher education degree and salary threshold, but this occupation typically does not meet degree requirements, so rarely used. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers who have completed a recognised German dual training program (Ausbildung), requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job seeker visa allowing entry to Germany to seek work, but professional qualifications must be recognized. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Turner and Toy Maker？**
-- 喜欢手工制作、注重细节的人
-- 有艺术天赋和创造力，愿意从事传统手工艺的人
-- 追求稳定工作环境，不追求高薪的人
-
-**谁不适合学Wood Turner and Toy Maker？**
-- 追求高收入和快速职业晋升的人
-- 不喜欢重复性体力劳动或对木尘过敏的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys handcrafting and pays attention to detail
+- People with artistic talent and creativity, willing to engage in traditional crafts
+- People who seek a stable work environment and do not pursue high salary
+
+**Who is not suited**
+- People pursuing high income and rapid career advancement
+- People who dislike repetitive physical labor or are allergic to wood dust
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Junior net annual salary approx €24,000-30,000, senior technician up to €38,000-48,000, below German average.
+
+**Q: How can foreigners pursue this occupation in Germany?**
+A: Must complete a German-recognized dual training program (Ausbildung) or pass a qualification recognition process (Anerkennung) to prove equivalent skills. Eligible to apply for a Skilled Worker Visa.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can advance to senior technician through Meister training, or start your own studio, or transition to product design or restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wood Turner and Toy Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Germany?**
-答：Entry-level salary is around €24,000-€30,000 gross annually, while senior master craftsmen can earn €38,000-€48,000, below the German average.
-
-**问：How can foreigners work in this occupation in Germany?**
-答：Must complete a recognized German vocational training (Ausbildung) or obtain a qualification assessment (Anerkennung). Eligible for the Skilled Worker Visa.
-
-**问：What are the career advancement paths?**
-答：Advance to master craftsman (Meister) through further training, start your own workshop, or move into product design or restoration.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

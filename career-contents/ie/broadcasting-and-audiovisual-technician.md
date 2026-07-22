@@ -1,58 +1,94 @@
-# Broadcasting and Audiovisual Technician（Broadcasting and Audiovisual Technician）职业分析 · IE
+# Broadcasting and Audiovisual Technician — career analysis · Ireland
 
-**职业代码：3521 – Broadcasting and Audiovisual Technician。**
+**Occupation code: 3521 (ISCO08)**
 
-Broadcasting and audiovisual technicians install, operate, and maintain equipment for radio, television, and audiovisual productions, ensuring high-quality audio and video transmission.
+Broadcast and audiovisual technicians install, operate, and maintain broadcast, television, and audiovisual equipment, ensuring high-quality transmission of audio and video signals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育证书 | 1年 | $5,000~$10,000（学费因机构而异） |
-| 学士学位 | 3-4年（本科） | $12,000~$25,000（包括大学学费） |
+| Higher Education Certificate | 1 year | $5,000~$10,000 (Tuition fees vary by institution) |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $12,000~$25,000 (Including university tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播工程认证 | Society of Broadcast Engineers | 可选 | 国际认可，非强制但有利 |
-| 安全许可证 | 爱尔兰健康与安全局 | 必备 | 部分岗位要求 |
+| Security clearance | Health and Safety Authority (Ireland) | Required | Some positions require |
+| Broadcast Engineering Certification | Society of Broadcast Engineers | Optional | Internationally recognized, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。爱尔兰媒体与影视产业持续增长，对流媒体内容需求旺盛，预计就业稳定。但竞争激烈，技术更新快。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Ireland's media and film industry continues to grow, with strong demand for streaming content, expected stable employment. However, competition is fierce and technology updates quickly.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理技术员起步，积累经验后可晋升为高级技术员或主管，也可向制作导演或技术管理方向发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
+
+Usually start as assistant technician, can advance to senior technician or supervisor with experience, or move towards production director or technical management.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor broadcast signal stability and trigger alerts
+- Automatically convert audio and video formats and transcode
+- Automatically generate broadcast log reports
+- Automatically adjust audio levels using AI tools
+- Automatically switch preset program sources
+
+**Where AI augments the role:**
+
+- Uses AI-assisted real-time audio noise reduction and mixing
+- Use AI to predict equipment failures and perform proactive maintenance
+- Optimizing transmission power and spectrum allocation via AI
+- Automatic subtitle generation using speech recognition
+- Using AI tools for quick editing and tagging of footage
+
+**Human moat:**
+
+- Manual diagnosis and on-site repair of complex faults
+- Communicate creative requirements with the production team
+- Quick decision-making in response to emergencies
+- Deployment and debugging of temporary scenarios like broadcast vehicles
+- Compliant operations to ensure signal safety
+
+**Skills to build:**
+
+- IP network and cloud broadcasting system management
+- Use of AI audio/video processing tools
+- Basic programming (Python/scripting).
+- Data analysis and system monitoring
+- Emergency communication and troubleshooting
+- Digital media file management
+
+**Key growth areas:**
 
 - Digital Media
 - Streaming Services
@@ -61,67 +97,66 @@ Broadcasting and audiovisual technicians install, operate, and maintain equipmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的职位，需劳动市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪32,000欧元以上的紧缺职业，但广播电视技术员通常不在紧缺列表 |
+| Subclass General Employment P (General Employment Permit) | Applicable for positions with annual salary not less than 30,000 euros, requiring labor market test. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations with an annual salary above €32,000, but broadcast and television technicians are usually not on the shortage list |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Broadcasting and Audiovisual Technician？**
-- 对媒体技术有热情
-- 动手能力强
-- 适应灵活工作时间
-
-**谁不适合学Broadcasting and Audiovisual Technician？**
-- 不喜频繁出差
-- 不适应高压直播环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about media technology
+- Strong hands-on ability
+- Adaptable to flexible working hours
+
+**Who is not suited**
+- Not keen on frequent business travel
+- Not suitable for high-pressure live streaming environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a broadcast and audiovisual technician in Ireland?**
+A: Junior staff earn around €25,000–35,000 per year, while experienced staff can reach €50,000–70,000 per year.
+
+**Q: Is it easy for broadcast and audiovisual technicians to get a work visa in Ireland?**
+A: This occupation is not on the Critical Skills list and typically requires a General Employment Permit application, which involves a labour market test.
+
+**Q: What are the career prospects for this occupation?**
+A: With the growth of streaming and digital media, employment opportunities remain stable, but automation may affect some roles; enhancing technical skills is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Broadcasting and Audiovisual Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a broadcasting and audiovisual technician in Ireland?**
-答：Entry-level salaries range from €25,000 to €35,000, while experienced technicians can earn €50,000 to €70,000.
-
-**问：Is it easy for broadcasting and audiovisual technicians to get a work visa in Ireland?**
-答：This occupation is not on the Critical Skills list; a General Employment Permit is required, which involves a labor market test.
-
-**问：What are the career prospects for this occupation?**
-答：Growth in streaming and digital media provides stable opportunities, but automation may affect some roles; upgrading technical skills is essential.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

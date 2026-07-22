@@ -1,58 +1,94 @@
-# Managers in logistics（Managers in logistics）职业分析 · UK
+# Managers in logistics — career analysis · United Kingdom
 
-**职业代码：1243 – Managers in logistics。**
+**Occupation code: 1243 (SOC)**
 
-Managers in logistics plan, coordinate and organise the supply chain of goods and services between production and consumption, including efficient transportation, storage and retailing.
+Logistics managers plan, coordinate, and organize the supply chain of goods and services from production to consumption, including efficient transportation, warehousing, and retail.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$38,500（国际生学费更高，约38,500英镑/年） |
-| 硕士 | 1年 | $10,000~$25,000（物流或供应链管理硕士） |
+| Bachelor's degree | 3 years | $9,250~$38,500 (Higher tuition fees for international students, approximately £38,500/year) |
+| Master's degree | 1 year | $10,000~$25,000 (Master's degree in logistics or supply chain management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物流与运输特许学院（CILT）认证 | Chartered Institute of Logistics and Transport | 可选 | 行业认可的专业认证，非强制但有利 |
-| 供应链管理学位 | 大学 | 必备 | 通常要求相关学士学位 |
+| Supply chain management degree | University | Required | A relevant bachelor's degree is typically required |
+| Chartered Institute of Logistics and Transport (CILT) certification | Chartered Institute of Logistics and Transport | Optional | Industry-recognized professional certification, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。英国物流业持续增长，受电商和全球供应链需求推动，物流经理岗位需求稳定，预计未来10年就业人数增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. UK logistics industry continues to grow, driven by e-commerce and global supply chain demand. Logistics manager positions are stable, with employment expected to grow about 5% in the next 10 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助理物流经理或物流主管 |
-| 中级（3-7年） | $35,000~$50,000 | 物流经理 |
-| 高级（7年以上） | $50,000~$80,000 | 高级物流经理或供应链总监 |
+| Median salary | $46,143 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Assistant Logistics Manager or Logistics Supervisor |
+| Mid-level (3–7 years) | $35,000~$50,000 | Logistics manager |
+| Senior (7+ years) | $50,000~$80,000 | Senior logistics manager or supply chain director |
+| average salary | $51,049 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从物流主管、仓储经理晋升至物流经理，进一步发展为供应链总监或运营副总裁，也可跨行业至电商、制造业等。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Logistics manager positions are mixed under AI influence: automation and AI can handle a lot of repetitive planning and documentation work, but strategic decisions, cross-departmental coordination, and exception handling still require human judgment; overall risk is controllable.
+
+Can progress from logistics supervisor to warehouse manager to logistics manager, further to supply chain director or operations vice president, or cross-industry to e-commerce, manufacturing, etc.
+
+**Tasks most exposed to AI:**
+
+- Transport route optimization and scheduling, AI algorithms can automatically plan optimal routes.
+- Inventory forecasting and replenishment plans; machine learning models are more accurate than humans.
+- Logistics document processing and compliance checks, RPA can automatically generate and review documents.
+- Basic supplier performance report with AI dashboard automatically generating and analyzing data.
+- Daily transportation tracking and anomaly notifications, with IoT+AI enabling real-time monitoring.
+
+**Where AI augments the role:**
+
+- Strategic procurement decisions: AI provides market data and risk analysis to support manager negotiations.
+- Supply chain resilience planning: AI simulates different disruption scenarios to assist in developing contingency plans.
+- Customer demand forecasting: AI analyzes historical and external data to improve prediction accuracy.
+- Warehouse layout and automation equipment selection: AI simulation optimizes space and ROI.
+- Team performance management: AI tools aggregate multi-dimensional data to assist in personnel scheduling and training decisions.
+
+**Human moat:**
+
+- Quick decision-making and crisis management during complex supply chain disruptions.
+- Cross-departmental (sales, procurement, production) coordination and interest balancing.
+- Long-term strategic planning and business model innovation.
+- Build trusting relationships with key clients and suppliers.
+- Handle unstructured abnormal events (e.g., sudden strikes, natural disasters).
+
+**Skills to build:**
+
+- Supply chain data analysis and visualization (SQL, Tableau, Python).
+- Basic applications of AI/machine learning (predictive models, optimization algorithms).
+- Advanced configuration and integration of Enterprise Resource Planning (ERP) systems.
+- Supplier relationship management and negotiation skills.
+- Lean Six Sigma and continuous improvement methodologies.
+- Digital twin and simulation modelling tools.
+
+**Key growth areas:**
 
 - E-commerce growth
 - Supply chain digitization
@@ -61,68 +97,67 @@ Managers in logistics plan, coordinate and organise the supply chain of goods an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的物流经理，满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适用于在物流领域有杰出成就或潜力的人才 |
-| Subclass Scale-up（Scale-up visa） | 适用于获得规模增长企业担保的高级物流人才 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to logistics managers with employer sponsorship, meeting salary and skill requirements |
+| Subclass Global Talent (Global Talent visa) | Suitable for individuals with outstanding achievements or potential in the logistics field |
+| Subclass Scale-up (Scale-up visa) | Suitable for senior logistics personnel sponsored by high-growth enterprises |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in logistics？**
-- 擅长组织协调和问题解决的人
-- 对供应链和物流运营有浓厚兴趣
-- 愿意适应快节奏工作环境
-
-**谁不适合学Managers in logistics？**
-- 不喜欢管理多人团队或处理复杂协调工作
-- 不适应压力大、需要快速决策的工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in organisation, coordination, and problem-solving
+- Strong interest in supply chain and logistics operations
+- Willingness to adapt to a fast-paced work environment
+
+**Who is not suited**
+- People who dislike managing large teams or handling complex coordination
+- Not suited for high-pressure, fast-decision-making work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a logistics manager?**
+A: Entry-level about 28,000-35,000 GBP, mid-level 35,000-50,000 GBP, senior up to 80,000 GBP.
+
+**Q: Can a logistics manager apply for a UK work visa?**
+A: Yes, typically via the Skilled Worker visa with employer sponsorship. This occupation is on the shortage occupation list.
+
+**Q: How difficult is it for logistics managers to migrate?**
+A: Relatively easy; due to occupation shortage, sponsorship threshold is lower, salary requirement about £25,600-30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Managers in logistics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a logistics manager?**
-答：Entry-level around £28,000-£35,000, mid-level £35,000-£50,000, senior up to £80,000.
-
-**问：Can a logistics manager apply for a UK work visa?**
-答：Yes, typically via the Skilled Worker visa with employer sponsorship. This occupation is on the shortage list.
-
-**问：How difficult is it to immigrate as a logistics manager?**
-答：Relatively easy due to shortage, lower sponsorship threshold, salary requirement around £25,600-£30,000.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

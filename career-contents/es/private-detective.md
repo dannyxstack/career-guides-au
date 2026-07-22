@@ -1,62 +1,98 @@
-# Private Detective（Private Detective）职业分析 · ES
+# Private Detective — career analysis · Spain
 
-**职业代码：3712 – Private Detective。**
+**Occupation code: 3712 (CNO)**
 
-Private detectives conduct background checks, locate missing persons, investigate insurance fraud, and perform surveillance for clients such as individuals, businesses, and law firms.
+Private detectives are employed by individuals, companies, or law firms to conduct background checks, locate missing persons, investigate insurance fraud, and monitor surveillance, with work involving legal and privacy regulations.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | $500~$3,000（公立低，私立高） |
-| 大学专业（Grado en Criminología） | 4年（Grado） | $1,000~$6,000（公立大学学费） |
-| 硕士（Máster en Investigación Privada） | 1年 | $1,500~$5,000（部分大学专业课程） |
+| Vocational Training (FP Grado Superior) | 2 years | $500~$3,000 (Public schools have low rates, private ones have high standards) |
+| University Majors (Grado en Criminología) | 4 years (Grado) | $1,000~$6,000 (Public university tuition) |
+| Master's degree (Máster en Investigación Privada) | 1 year | $1,500~$5,000 (Some university professional courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 私人侦探执照（Título de Detective Privado） | 西班牙内政部 | 必备 | 必须持有，需通过考试和背景审查 |
-| 犯罪学或相关学位 | 西班牙大学 | 必备 | 通常为获得执照的学历要求 |
-| 无犯罪记录证明 | 司法部 | 必备 | 执照申请必备 |
+| Private Detective License (Título de Detective Privado) | Spanish Ministry of the Interior | Required | Must be held, and must pass exams and background checks |
+| Degree in criminology or related fields | Spanish University | Required | Usually the educational requirements for obtaining a license |
+| Police clearance certificate | Department of Justice. | Required | Essential for license applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。西班牙私人侦探需求稳定，主要来自保险欺诈调查、企业内部调查和家庭事务。但行业规模小，受经济周期影响不大。未来数字化取证等技能需求增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Private detective demand in Spain is stable, mainly from insurance fraud investigations, internal corporate investigations, and family matters. However, the industry is small in scale and is not significantly affected by economic cycles. The demand for skills such as digital forensics will grow in the future.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 多为助理或小型事务所 |
-| 中级（3-7年） | $25,000~$40,000 | 独立办案或中型企业 |
-| 高级（7年以上） | $40,000~$70,000 | 事务所负责人或大型案件 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$25,000 | Mostly assistants or small firms |
+| Mid-level (3–7 years) | $25,000~$40,000 | Independent case handling or medium-sized enterprises |
+| Senior (7+ years) | $40,000~$70,000 | Office heads or large-scale cases |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从侦探助理成长为资深侦探或开设自己的侦探事务所。部分人转入企业安全、风险管理或执法部门。持续积累人脉和专业技能是关键。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of private detectives is mixed; routine investigations, information retrieval, and report generation are easily automated by AI, but tasks involving legal boundaries, interpersonal insights, and field evidence collection still rely on humans, with overall risks being moderate.
+
+You can grow from a detective assistant to a senior detective or open your own detective agency. Some transferred to enterprise security, risk management, or enforcement departments. Continuously building connections and professional skills is key.
+
+**Tasks most exposed to AI:**
+
+- Public record searches and background information aggregation (such as debts, real estate, marriage records)
+- Rule-based data analysis and fraud pattern identification (such as marking insurance claims anomalies)
+- Standardized report generation (such as daily monitoring logs and routine survey summaries)
+- Automatic monitoring and anomaly alerts for social media and online activity
+- Location of Basically Missing Persons (Based on Digital Footprints and Public Databases)
+
+**Where AI augments the role:**
+
+- Use AI image enhancement and audio analysis tools to improve the quality of surveillance footage
+- Quickly analyze large amounts of chat history or emails through natural language processing to discover leads
+- Predictive models were used to assess the behavioral patterns or hiding places of survey subjects
+- Processing multilingual information with AI translation tools (such as cross-border surveys)
+- Using case knowledge graph tools to assist complex case correlation analysis
+
+**Human moat:**
+
+- Forensic decisions requiring legal and privacy-ethical judgments (such as monitoring legality)
+- Face-to-face questioning, micro-expression interpretation, and interpersonal persuasion skills
+- Real-time risk assessment and flexible response in emergencies
+- Cross-agency (police, law firm) coordination and sensitive information exchange
+- Unconventional clue discovery based on experience and intuition
+
+**Skills to build:**
+
+- Mastering OSINT (Open Source Intelligence) and automated investigative tools (such as Maltego, Hunchly)
+- Learn basic data analysis and visualization (Python, Tableau)
+- Understanding AI forensic tools (such as image recognition and speech-to-text analysis)
+- Strengthen legal knowledge (privacy law, evidence regulations)
+- Enhance communication and interrogation psychology skills
+- Learn digital forensics (mobile phone and cloud data extraction)
+
+**Key growth areas:**
 
 - Digital Forensics
 - Corporate Security
@@ -65,68 +101,67 @@ Private detectives conduct background checks, locate missing persons, investigat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 受雇于西班牙侦探事务所，需企业担保，难度中等 |
-| Subclass Cuenta propia（Self-Employment） | 开设自己的侦探事务所，需证明投资和商业计划 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Employed by a Spanish detective agency, requiring corporate sponsorship, moderate difficulty |
+| Subclass Cuenta propia (Self-Employment) | To open your own detective agency, you need to prove your investment and business plan |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Private Detective？**
-- 善于观察和分析细节的人
-- 具备耐心和良好沟通能力的人
-- 喜欢独立工作且遵守法律规范的人
-
-**谁不适合学Private Detective？**
-- 不擅长人际交往和隐蔽工作的人
-- 对繁琐行政手续不耐受的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- A person skilled at observing and analyzing details
+- People with patience and good communication skills
+- People who enjoy working independently and abide by legal norms
+
+**Who is not suited**
+- People who are not good at interpersonal skills and covert work
+- People who are intolerant of cumbersome administrative procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for private detectives?**
+A: Entry level approx €18,000-25,000, mid level €25,000-40,000, senior €40,000-70,000 (pre-tax annual salary).
+
+**Q: How can foreigners become private detectives in Spain?**
+A: You must hold a Spanish residence permit and pass the Ministry of the Interior exam to obtain the license. Non-EU individuals are usually sponsored by a company for a work visa (Cuenta ajena) or self-employed (Cuenta propia).
+
+**Q: Is private detective a sought-after profession in Spain?**
+A: It is not listed among Spain's Shortage Occupations (ocupación de difícil cobertura), so the skilled migration pathway is narrower.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Private Detective为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of private detectives?**
-答：Entry-level around €18,000-25,000, mid-level €25,000-40,000, senior €40,000-70,000 gross annually.
-
-**问：How can a foreigner become a private detective in Spain?**
-答：You need a Spanish residence permit and pass the Ministry of Interior exam to obtain a license. Non-EU citizens usually get a work contract (Cuenta ajena) or self-employment visa (Cuenta propia).
-
-**问：Is private detective a shortage occupation in Spain?**
-答：No, it is not on the shortage occupation list (ocupación de difícil cobertura), so migration pathways are limited.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

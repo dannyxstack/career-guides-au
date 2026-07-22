@@ -1,61 +1,96 @@
-# Sylviculture Worker（Sylviculture Worker）职业分析 · FR
+# Sylviculture Worker — career analysis · France
 
-**职业代码：A1205 – Sylviculture Worker。**
+**Occupation code: A1205 (ROME)**
 
-Sylviculture workers plant, tend, and harvest trees, managing forest resources for sustainable production and environmental health.
+Forest breeders are responsible for forestry activities such as tree planting, tending, and logging, managing forest resources, and ensuring sustainable operations.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Agricole (林务员) | 2年 | —（公立学校免费，私立约3000欧元） |
-| BTSA Gestion forestière (森林管理高级技师) | 2年 | —（公立免费，私立约5000欧元；可学徒制） |
+| CAP Agricole (Forester) | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros) |
+| BTSA Gestion Forestière (Senior Forest Management Technician) | 2 years | $0~$5,000 (Public schools are free, private ones about 5,000 euros; Apprenticeship system is permitted) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Agricole 林务员 | 法国农业部 | 可选 | 基础从业资格，非强制但普遍要求 |
-| BTSA 森林管理文凭 | 法国农业部 | 可选 | 高级技术员文凭，利于晋升 |
-| 驾驶执照（林业机械） | Préfecture | 可选 | 操作林业机械可能需要特定驾照 |
+| CAP Agricole Forester | French Ministry of Agriculture | Optional | Basic professional qualifications, not mandatory but generally required |
+| BTSA Forest Management Diploma | French Ministry of Agriculture | Optional | Senior technician diploma is beneficial for promotion |
+| Driver's license (forestry machinery) | Préfecture | Optional | Operating forestry machinery may require a specific driver's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。法国林业就业稳定，生态转型推动森林管理需求，但机械化减少部分岗位。老龄化导致后续补充需求，需年轻劳动力。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Forestry employment in France is stable, and ecological transformation is driving demand for forest management, but mechanization has reduced some jobs. Aging is driving demand to supplement future needs, requiring young labor.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，包括公共和私营部门 |
-| 中级（3-8年） | $26,000~$32,000 | 含岗位补贴 |
-| 高级（8年以上/队长） | $32,000~$40,000 | 管理岗位或技术专家 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, including both public and private sectors |
+| Mid-level (3–8 years) | $26,000~$32,000 | Including position allowances |
+| Senior (8 years or more / Captain) | $32,000~$40,000 | Management positions or technical experts |
+| average salary | $22,626 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从工人晋升为林业队长、技术员或森林经理，也可通过CAP/BTS文凭进入公共机构（如ONF）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI significantly enhances the work efficiency of forest growers, especially in resource monitoring and planning decisions, but actual manual labor is difficult to replace.
+
+You can advance from worker to forestry team leader, technician, or forest manager, and can also enter public institutions (such as ONF) through a CAP/BTS diploma.
+
+**Tasks most exposed to AI:**
+
+- Using drones or satellite imagery for forest resource surveys and health assessments
+- Automatically generate nurturing and cutting plans
+- Preliminary analysis of detecting pests, diseases, and fire risks
+- Maintain and manage forestry databases
+
+**Where AI augments the role:**
+
+- AI models optimize tree planting spacing and species selection
+- Real-time monitoring of soil and hydrological conditions through sensor data
+- Use portable devices to identify plant pests and diseases and recommend treatment plans
+- AI-assisted prediction of timber yield and optimal cutting times
+- Digitically record and report forestry carbon sink data
+
+**Human moat:**
+
+- On-site experience in judging tree vigor and abnormal growth
+- Field operations and mechanical maintenance for complex terrain
+- Communicate and coordinate with forestry supervisors and ecological experts
+- Emergency response capability for sudden natural disasters
+- Eco-ethics and sustainable business decision-making
+
+**Skills to build:**
+
+- Drone operations and remote sensing data analysis
+- GIS and forestry modeling software
+- Fundamentals of Machine Learning and Forestry Applications
+- Sensors and IoT devices are used
+- Data visualization and report writing
+- Sustainable forestry certification standards
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Ecological transition
@@ -64,61 +99,63 @@ Sylviculture workers plant, tend, and harvest trees, managing forest resources f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 需要雇主担保，通过法国劳动局审批，职业在紧缺列表可能简化 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能或硕士以上学历，可绕过劳动市场测试 |
+| Subclass Salarié (Employee (Salarié)) | Requires employer sponsorship, approved by the French Labour Authority, occupations on shortage list may simplify process |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled candidates or those with a master's degree or above, allowing you to bypass the labor market test |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sylviculture Worker？**
-- 热爱户外工作与自然环境的人
-- 愿意从事体力劳动，不介意天气条件
+**Who is suited**
+- People who love outdoor work and the natural environment
+- They are willing to do physical labor and don't mind weather conditions
 
-**谁不适合学Sylviculture Worker？**
-- 希望高薪或办公室工作的人
-- 对体力要求高工作不适应者
+**Who is not suited**
+- People who want a high salary or office job
+- Those who cannot adapt to jobs that require high physical strength
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for forest growers?**
+A: Entry-level annual salary approx. EUR 22,000-26,000, mid-level EUR 26,000-32,000, senior captain up to EUR 40,000.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: It's harder. This profession requires high physical strength, a strong French language requirement, and a sufficient local labor force in France, so employers usually do not sponsor foreigners.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sylviculture Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sylviculture workers?**
-答：Entry-level annual salary is around €22,000-26,000; mid-level €26,000-32,000; senior team leader can reach €40,000.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：It's difficult. The job is physically demanding, requires French language, and local workforce is sufficient; employers rarely sponsor migrants.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

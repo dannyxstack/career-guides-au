@@ -1,59 +1,92 @@
-# Surveyors（Surveyors）职业分析 · 美国
+# Surveyors — career analysis · United States
 
-**职业代码：17-1022 – Surveyors。**
+**Occupation code: 17-1022 (SOC)**
 
-Surveyors make exact measurements of land and determine property boundaries, providing data on shape, contour, elevation, and location for engineering, mapmaking, mining, and construction.
+Surveyors accurately measure land and determine property boundaries, providing terrain, elevation, and location data for projects such as engineering, mapping, mining, land valuation, and construction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（取决于公立/私立大学） |
-| 副学士学位（可选） | 2年 | $15,000~$50,000（社区学院通常较低） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Depends on public or private university) |
+| Associate degree (optional) | 2 years | $15,000~$50,000 (Community college usually lower) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业测量师执照（PLS） | 各州测量委员会 | 必备 | 通常要求学士学位、4年经验并通过考试 |
-| 工程师/测量师基础考试（FS） | NCEES | 必备 | 毕业前或毕业后可参加 |
-| 工程师/测量师原理与实践考试（PS） | NCEES | 必备 | 获取执照最后步骤 |
+| Professional Land Surveyor License (PLS) | State survey boards | Required | Typically requires a bachelor's degree, 4 years of experience, and passing an exam |
+| Engineer/Surveyor Fundamentals Exam (FS) | NCEES | Required | Can be taken before or after graduation |
+| Engineer/Surveyor Principles and Practice Exam (PS) | NCEES | Required | Final step to obtain license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 49,600。美国劳工统计局预测2023-2033年测量员就业增长约5%，与平均水平相近。基础设施投资和土地开发需求将推动就业，但技术进步可能限制增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 49,600. The US Bureau of Labor Statistics projects that employment of surveyors will grow about 5% from 2023 to 2033, similar to the average. Infrastructure investment and land development demand will drive employment, but technological advances may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$59,000 | 测量技术员或助理测量员 |
-| 中级（3-7年） | $59,000~$80,000 | 持照测量员 |
-| 高级（7年以上） | $80,000~$120,000 | 首席测量员或项目经理 |
+| Median salary | $75,440 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $42,000~$59,000 | Surveying technician or assistant surveyor. |
+| Mid-level (3–7 years) | $59,000~$80,000 | Licensed surveyor |
+| Senior (7+ years) | $80,000~$120,000 | Chief surveyor or project manager |
+| average salary | $80,570 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：初学者从测量技术员或助理做起，积累经验后晋升为项目测量员或首席测量员，最终可成为测绘经理或开设自己的测量公司。获得专业执照（PLS）是晋升关键。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
+
+Career path: beginners start as measurement technician or assistant, gain experience, then advance to project surveyor or chief surveyor, and eventually become surveying manager or start own surveying company. Obtaining professional license (PLS) is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Geographic Information Systems (GIS)
@@ -62,69 +95,68 @@ Surveyors make exact measurements of land and determine property boundaries, pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适合持学士学位的测量员，需雇主担保且受配额限制。 |
-| Subclass EB-2（EB-2 Advanced Degree Professionals） | 适合硕士或本科加5年经验，可通过PERM申请绿卡。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适合本科或两年以上经验的测量员，绿卡等待期较长。 |
-| Subclass TN（TN NAFTA Professional） | 仅对加拿大和墨西哥公民，测量员符合资格但需雇主支持。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Suitable for surveyors with a bachelor's degree, requires employer sponsorship and is subject to quota limits. |
+| Subclass EB-2 (EB-2 Advanced Degree Professionals) | Suitable for master's or bachelor's plus 5 years of experience, can apply for a green card through PERM. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Suitable for bachelor's degree holders or surveyors with over two years' experience; green card wait is long. |
+| Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens; surveyors are eligible but require employer support. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Surveyors？**
-- 喜欢户外工作和精确测量
-- 注重细节且擅长数学和地理
-- 愿意获取专业执照并持续学习
-
-**谁不适合学Surveyors？**
-- 不适应各种天气条件下的户外工作
-- 不喜欢重复性高且需要耐心的任务
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work and precise measurement
+- Detail-oriented and good at math and geography
+- Willing to obtain professional licenses and engage in continuous learning.
+
+**Who is not suited**
+- Not suitable for outdoor work in various weather conditions
+- Those who dislike repetitive tasks requiring patience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for surveyors?**
+A: US surveyor median annual salary approx. $65,000; entry-level approx. $42,000-$59,000; senior can exceed $120,000, depending on experience and location.
+
+**Q: Can surveyors apply for an H-1B visa?**
+A: Yes, surveyors are professional occupations (usually requiring a bachelor degree), and employers can sponsor H-1B. But note lottery and quota limits.
+
+**Q: What certifications are needed to become a surveyor?**
+A: Must obtain a state-issued Professional Land Surveyor (PLS) license, usually requiring passing the FS and PS exams and 4 years of relevant experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Surveyors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for surveyors?**
-答：The median annual wage for surveyors in the US is around $65,000, with entry-level earning $42,000-$59,000 and senior surveyors up to $120,000+.
-
-**问：Can surveyors apply for H-1B visas?**
-答：Yes, surveying is a specialty occupation requiring at least a bachelor's degree, so employers can sponsor H-1B visas, subject to the lottery and cap.
-
-**问：What certifications are required to become a surveyor?**
-答：You need a state-issued Professional Land Surveyor (PLS) license, which typically requires passing the FS and PS exams and 4 years of experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

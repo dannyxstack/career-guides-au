@@ -1,58 +1,94 @@
-# Cook（Cook）职业分析 · NL
+# Cook — career analysis · Netherlands
 
-**职业代码：5120 – Cook。**
+**Occupation code: 5120 (ISCO08)**
 
-Cooks in the Netherlands prepare and cook dishes in the hospitality industry, requiring food safety knowledge and diverse culinary skills.
+Chefs in the Dutch catering industry are responsible for preparing and cooking dishes, requiring knowledge of food safety and various cooking techniques.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费低，每年约2000欧元，可能有补贴） |
-| 学徒制 | 2-3年 | —（边工作边学习，费用极低） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public schools have low tuition fees, about 2,000 euros per year, possibly with subsidies) |
+| Apprenticeship | 2-3 years | $0~$1,000 (Study while working, with very low costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书（SVH） | SVH基金会 | 必备 | 荷兰餐饮业必备证书 |
-| MBO烹饪文凭 | 地区教育中心（ROC） | 可选 | 常见职业资格 |
+| Food safety certificate (SVH) | SVH Foundation | Required | Mandatory certificates for the Dutch catering industry |
+| MBO Diploma in Culinary Arts | Regional Education Centre (ROC) | Optional | Common occupational qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 140,000。荷兰餐饮业持续发展，对厨师需求稳定，但竞争激烈，有经验的厨师更受欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 140,000. The Dutch catering industry continues to develop, with stable demand for chefs but fierce competition; experienced chefs are more favored.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含假期津贴 |
-| 高级（7年以上） | $35,000~$45,000 | 主厨或行政主厨级别 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, including holiday allowance |
+| Senior (7+ years) | $35,000~$45,000 | head chef or executive chef level |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从厨房帮工晋升为厨师，再至主厨或行政主厨。需积累经验及考取相关证书。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Some tasks of chefs (such as chopping and looking up recipes) are easily automated, but core tasks like creating dishes, on-site seasoning, and quality control are difficult to replace. Overall, the outlook is mixed.
+
+Career path: from kitchen hand to chef, then to head chef or executive chef. Requires gaining experience and obtaining relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Repetitive pre-processing operations such as cutting, peeling, and mixing
+- Perform routine cooking processes according to standardized recipes (e.g., frying chips, boiling pasta)
+- Precise monitoring and adjustment of temperature and time
+- Simple decorative plating techniques in dish presentation
+- Inventory counting and raw material ordering records
+
+**Where AI augments the role:**
+
+- Using AI recipe recommendation systems to innovate dish combinations and flavor pairings
+- Improving product consistency and efficiency through smart ovens and precision temperature control equipment
+- Use data analysis to optimize food procurement and reduce waste
+- quickly learn new cuisines and techniques using AR or video tutorials
+- Automated booking and order processing, allowing chefs to focus on cooking
+
+**Human moat:**
+
+- Aesthetic judgment of dish creativity and flavor balance
+- Sensory experience of ingredient freshness, texture, and heat control
+- Adjusting flavors on-site based on customer feedback
+- Complex manual skills (e.g., carving, handmade pastry)
+- Kitchen team management and emergency response
+
+**Skills to build:**
+
+- Learning to Use Smart Kitchen Appliances and Cooking Automation Equipment
+- Master basic data analysis to optimize menus and costs
+- Develop knowledge of food science, understanding flavor chemistry and nutritional pairing
+- Develop creative cuisine research and menu design skills
+- Study food safety management certifications (e.g., HACCP)
+- Basic digital skills: POS system, booking platform operation
+
+**Key growth areas:**
 
 - Culinary Tourism
 - Farm-to-Table
@@ -61,67 +97,66 @@ Cooks in the Netherlands prepare and cook dishes in the hospitality industry, re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高薪厨师，需雇主担保，薪资门槛约€4,500/月（2025年） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能移民，薪资门槛约€5,331/月，但厨师通常难以达到 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业生的求职年签证，可在荷兰工作一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-salary chefs, requires employer sponsorship; salary threshold approx. €4,500/month (2025) |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU high-skilled migrants with a salary threshold of approximately €5,331/month, but chefs often struggle to meet this |
+| Subclass Orientation Year (Orientation Year) | The orientation year visa for Dutch graduates, allows working in the Netherlands for one year |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cook？**
-- 热爱烹饪并有创造力的人
-- 能承受快节奏和高强度工作的人
-
-**谁不适合学Cook？**
-- 不喜站立工作或长时间工作的人
-- 对重复性工作感到厌倦的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are passionate about cooking and creative
+- Able to withstand fast-paced and high-intensity work
+
+**Who is not suited**
+- People who dislike standing or working long hours
+- People who are tired of repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a chef in the Netherlands?**
+A: Junior chef annual salary around 22,000-28,000 EUR, intermediate 28,000-35,000 EUR, senior up to 45,000 EUR.
+
+**Q: How can non-EU chefs immigrate to the Netherlands?**
+A: Can be applied via high-skilled migration visa (requiring employer sponsorship and high salary) or EU Blue Card (higher salary threshold); usually difficult for chefs to meet.
+
+**Q: What qualifications do you need to work as a chef in the Netherlands?**
+A: Mandatory SVH food safety certificate, MBO cooking diploma not required but preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cook的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cook in the Netherlands?**
-答：Entry-level cooks earn €22,000-€28,000, mid-level €28,000-€35,000, and senior up to €45,000 annually.
-
-**问：How can non-EU cooks migrate to the Netherlands?**
-答：Through the Highly Skilled Migrant visa (employer sponsorship and high salary required) or EU Blue Card (high salary threshold), which is often challenging for cooks.
-
-**问：What certifications are needed to work as a cook in the Netherlands?**
-答：The SVH food safety certificate is mandatory; an MBO culinary diploma is not required but preferred.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

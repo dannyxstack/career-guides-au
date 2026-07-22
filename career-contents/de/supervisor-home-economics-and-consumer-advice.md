@@ -1,60 +1,96 @@
-# Supervisor - Home Economics and Consumer Advice（Supervisor - Home Economics and Consumer Advice）职业分析 · DE
+# Supervisor - Home Economics and Consumer Advice — career analysis · Germany
 
-**职业代码：8329 – Supervisor - Home Economics and Consumer Advice。**
+**Occupation code: 8329 (KldB)**
 
-Oversees home economics teams, offers consumer advice, manages household-related affairs, ensuring service quality and client satisfaction.
+Responsible for supervising the housekeeping service team, providing consumer advice, managing household financial affairs, and ensuring service quality and customer satisfaction.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（家政管理） | 3年（双元制） | —（培训期间有津贴，学校收费低或无） |
-| 进阶培训（家政技术员/经济师） | 1-2年 | $2,000~$8,000（可申请教育补贴） |
+| Dual-system training (Household Management) | 3 years (dual system) | $0~$500 (Allowance provided during training, low or no school fees) |
+| Advanced training (Home Economics Technician/Economist) | 1-2 years | $2,000~$8,000 (Eligible for education subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 家政管理师资质 | 德国工商会 (IHK) | 必备 | 需通过双元制培训及考试 |
-| 消费咨询员认证 | 消费者中心（Verbraucherzentrale） | 可选 | 可选，提升竞争力 |
+| Household Management Qualification | German Chamber of Commerce and Industry (IHK) | Required | Must complete dual vocational training and pass examinations |
+| Consumer Advisor Certification | Consumer Center (Verbraucherzentrale) | Optional | Optional, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。德国社会老龄化及居家照护需求增长，家政服务主管岗位稳定，但竞争中等，部分地区有缺口。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Germany's aging society and growing demand for home care mean stable positions for household service supervisors, but competition is moderate with some regional shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（3-7年） | $34,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$50,000 | 税前年薪 |
+| Median salary | $35,568 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $34,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$50,000 | Annual pre-tax salary |
+| average salary | $37,284 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从家政服务员晋升为主管，再至区域经理或培训师。需积累经验并考取高级资格证书。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation faces mixed prospects: AI can automate data analysis and some consulting tasks, but interpersonal communication, complex problem-solving, and ethical judgment remain core; entry-level competition may intensify but demand for senior roles grows.
+
+Can be promoted from domestic worker to supervisor, then to regional manager or trainer. Requires experience and advanced qualifications.
+
+**Tasks most exposed to AI:**
+
+- Automated consumer data analysis and report generation
+- Standardized consumer advisory Q&A (e.g., budget templates)
+- Service scheduling and resource allocation optimization
+- Automated summary and preliminary analysis of customer satisfaction surveys
+- Routine household economic information retrieval and comparison
+
+**Where AI augments the role:**
+
+- AI-assisted generation of personalized consumption recommendations (based on customer historical data)
+- Real-time monitoring of service team performance metrics with alerts
+- Intelligent generation of training materials and quality improvement plans
+- Multilingual customer support (translation and tone adjustment)
+- Predictive analytics to identify potential client risks or needs
+
+**Human moat:**
+
+- Diagnosis of complex family economic issues and comprehensive solution design
+- Team leadership and conflict resolution
+- Cross-departmental Collaboration and In-depth Client Relationship Maintenance
+- Ethical judgment and confidentiality decisions (e.g., financial crisis cases)
+- Customized, high-emotional-involvement consulting services
+
+**Skills to build:**
+
+- Data analysis tools (Python/R/SQL) and data visualization
+- AI/Machine learning fundamentals (predictive model applications)
+- Digital project management and collaboration platform
+- Advanced Communication and Psychological Counseling Skills
+- Finance and legal basics (consumer regulations)
+- Continuous learning and adaptability to new tools
+
+**Key growth areas:**
 
 - aging population
 - home care
@@ -63,69 +99,68 @@ Oversees home economics teams, offers consumer advice, manages household-related
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkraft)） | 需德国认可的职业资格及雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，需资质认证 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月求职，需学历或职业资格 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Requires a German-recognized vocational qualification and employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa requiring qualification recognition. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months of job seeking, requires education or professional qualifications |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Home Economics and Consumer Advice？**
-- 有家政管理或消费咨询背景的人
-- 喜欢与人沟通、组织协调能力强的人
-- 希望在德国稳定就业但非高薪领域的人
-
-**谁不适合学Supervisor - Home Economics and Consumer Advice？**
-- 追求高薪或快速晋升的人
-- 不愿从事服务性工作或与客户直接接触的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a background in home management or consumer advisory
+- People who enjoy communication and have strong organizational skills
+- Those seeking stable employment in Germany but not in high-salary fields
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Those unwilling to engage in service work or have direct contact with customers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a head of household?**
+A: Entry-level around €28,000-€34,000, senior up to €50,000, which is mid-to-low level.
+
+**Q: How can foreigners become a domestic manager in Germany?**
+A: Must complete a German-recognized dual vocational training and pass credential assessment, then apply for a skilled migration visa.
+
+**Q: Does this career have growth prospects?**
+A: Stable position, but limited promotion opportunities; can transition to training or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisor - Home Economics and Consumer Advice为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a home economics supervisor?**
-答：Entry-level around €28,000-34,000, senior up to €50,000, moderate to low.
-
-**问：How can foreigners become home economics supervisors in Germany?**
-答：Complete a recognized dual training and obtain credential recognition, then apply for a skilled worker visa.
-
-**问：Does this career have good prospects?**
-答：Stable but limited advancement; possible transition to training or management roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

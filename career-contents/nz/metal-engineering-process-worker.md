@@ -1,59 +1,95 @@
-# Metal Engineering Process Worker（Metal Engineering Process Worker）职业分析 · 新西兰
+# Metal Engineering Process Worker — career analysis · New Zealand
 
-**职业代码：839111 – Metal Engineering Process Worker。**
+**Occupation code: 839111 (ANZSCO)**
 
-Metal Engineering Process Workers operate and monitor metal processing equipment (e.g., cutting, forming, welding) to ensure smooth production. In New Zealand, this occupation may be eligible for skilled migration or Green List pathways, requiring employer sponsorship and meeting qualification or experience criteria.
+Metal engineering process workers operate and monitor metal processing equipment (e.g., cutting, forming, welding) to ensure smooth production flow. This occupation can lead to residence in New Zealand through the Skilled Migrant Category or Green List pathway, but requires employer sponsorship and meeting education or work experience requirements
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰工程制造证书（3级） | 1年 | $7,000~$12,000（理工学院学费，国际生更高） |
-| 学徒制（在职培训） | 3-4年 | —（雇主资助，材料费自理） |
+| New Zealand Certificate in Engineering and Manufacturing (Level 3) | 1 year | $7,000~$12,000 (Polytechnic tuition fees, higher for international students) |
+| Apprenticeship (on-the-job training) | 3-4 years | $0~$5,000 (Employer-sponsored, own material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程制造证书（3级） | 新西兰理工学院 | 可选 | 行业基础资格，非强制但有利于就业 |
-| 新西兰工程制造证书（4级） | 新西兰理工学院 | 可选 | 高级操作或主管所需 |
-| 焊接认证（如AWS） | 美国焊接学会或新西兰认证机构 | 可选 | 特定雇主可能需要，非统一强制 |
+| New Zealand Certificate in Engineering and Manufacturing (Level 3) | New Zealand Institute of Technology | Optional | Industry basic qualification, not compulsory but beneficial for employment |
+| New Zealand Certificate in Engineering (Level 4) | New Zealand Institute of Technology | Optional | Required for senior operations or supervisory roles |
+| Welding certification (e.g., AWS) | American Welding Society or New Zealand accreditation body | Optional | May be required by specific employers, not universally mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。新西兰制造业和建筑业持续发展，对金属加工工人的需求稳定。奥克兰、怀卡托和坎特伯雷等地区就业机会较多。预计未来五年职位增长平稳，但竞争受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. New Zealand's manufacturing and construction sectors continue to develop, with steady demand for metal workers. Regions like Auckland, Waikato, and Canterbury offer more job opportunities. Job growth is expected to be stable over the next five years, but competition is affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28纽币 |
-| 中级（3-5年） | $55,000~$65,000 | 时薪约28-33纽币 |
-| 高级（5年以上） | $65,000~$75,000 | 含主管津贴，时薪可达38纽币 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage about NZD 23-28 |
+| Mid-level (3–5 years) | $55,000~$65,000 | Hourly rate approximately NZD 28-33 |
+| Senior (5+ years) | $65,000~$75,000 | Including supervisor allowance, hourly rate up to NZ$38 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为高级操作员、主管或质量控制员。积累5年以上经验并取得新西兰学历或行业证书（如New Zealand Certificate in Engineering Fabrication）可拓宽职业道路。部分人可转型为工程技术人员。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Metal engineering process workers will face the dual impact of automation and AI: repetitive operational tasks (e.g., monitoring, simple cutting) are easily replaced, but anomaly handling, quality judgment, and multi-machine coordination still rely on human experience. It is recommended to transition to automation system debugger or multi-skilled technician roles.
+
+Can advance from operator to senior operator, supervisor, or quality controller. Accumulating over 5 years of experience and obtaining a New Zealand qualification or industry certificate (e.g., New Zealand Certificate in Engineering Fabrication) can broaden career paths. Some may transition to engineering technicians.
+
+**Tasks most exposed to AI:**
+
+- Monitor equipment operating parameters in real time and record
+- Perform standardised metal cutting and stamping operations
+- Welding or assembly according to fixed procedures
+- Simple dimensional measurement and visual inspection in quality control.
+- Material handling and loading/unloading operations
+
+**Where AI augments the role:**
+
+- Use AI vision systems to assist defect detection and classification
+- Optimizing cutting paths and parameters through digital twin simulation
+- Using intelligent maintenance prediction systems to schedule preventive maintenance
+- Use AR glasses to get remote expert guidance for complex troubleshooting
+- Optimize production line cycle times and material scheduling through data analysis
+
+**Human moat:**
+
+- Fast tool change and setup for high-mix, low-volume production
+- Manual finishing and rework of non-standard workpieces.
+- Rapid diagnosis and emergency response when handling equipment anomalies
+- Experience-based judgment of metal materials by sound, color, and touch.
+- Coordinate quality traceability and problem identification across multiple processes (cutting-forming-welding)
+
+**Skills to build:**
+
+- Industrial Robot Programming and Teaching (e.g., FANUC, ABB)
+- Digital twin and simulation software applications (e.g., Tecnomatix)
+- Data collection and basic analysis (SCADA system operation).
+- Welding automation parameter tuning (e.g., arc welding robot parameter settings)
+- Modern quality management methods (SPC, Six Sigma)
+- Reading and Communication of English Technical Documents
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Metal Engineering Process Workers operate and monitor metal processing equipment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的工人，可转居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制（学历+工作经验），职业在ANZSCO 4-5级需高薪 |
-| Subclass Green List T2（Green List Tier 2） | 绿名单第二梯队，工作满2年后可申请居留，需雇主担保 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for workers with employer sponsorship, can lead to residency |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, requiring a 6-point system (qualifications + work experience), occupations at ANZSCO skill levels 4-5 need high salary. |
+| Subclass Green List T2 (Green List Tier 2) | Green List Second Tier, eligible for residence after 2 years of work, requires employer sponsorship |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Engineering Process Worker？**
-- 喜欢动手操作、体力好、能适应工厂环境的人
-- 愿意从基层做起、未来向技术或管理方向发展的人
-- 希望走技术移民但学历不高、愿意通过工作经验积累分数的人
-
-**谁不适合学Metal Engineering Process Worker？**
-- 不擅长重复性体力劳动或对噪音敏感的人
-- 期望快速获得高薪或高社会地位的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like hands-on work, have good physical strength, and can adapt to a factory environment
+- Willing to start from the grassroots and develop towards technical or management roles in the future
+- People who want to pursue skilled migration but have low education and are willing to accumulate experience through work.
+
+**Who is not suited**
+- Those who are not suited to repetitive physical labour or are sensitive to noise
+- Those expecting to quickly obtain high salary or high social status
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal engineering process workers?**
+A: In New Zealand, the entry-level annual salary for this occupation is approximately NZD 45,000-55,000, intermediate NZD 55,000-65,000, and senior NZD 65,000-75,000. Salaries are affected by region, experience, and certifications.
+
+**Q: Is this occupation difficult for immigration to New Zealand?**
+A: Medium difficulty. This occupation is ANZSCO level 4 and needs to meet high salary (1.5 times the median) or Green List T2 requirements. It is recommended to accumulate at least 3 years of experience and obtain employer sponsorship, then apply via AEWV or SMC.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Metal Engineering Process Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Metal Engineering Process Workers in NZ?**
-答：Entry-level salary is around NZD 45,000-55,000, mid-level NZD 55,000-65,000, and senior NZD 65,000-75,000. Pay varies by region, experience, and certifications.
-
-**问：Is it difficult to immigrate to NZ as a Metal Engineering Process Worker?**
-答：Difficulty is moderate. The occupation is ANZSCO Level 4, requiring high salary (1.5x median) or Green List T2. It's advisable to gain 3+ years of experience with employer sponsorship, then apply via AEWV or SMC.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Eco-Industrial Operations Supervisor（Eco-Industrial Operations Supervisor）职业分析 · FR
+# Eco-Industrial Operations Supervisor — career analysis · France
 
-**职业代码：K2306 – Eco-Industrial Operations Supervisor。**
+**Occupation code: K2306 (ROME)**
 
-Oversees daily operations of eco-industrial facilities (e.g., water treatment plants, recycling centers) to ensure compliance with environmental regulations and efficiency targets.
+Responsible for supervising and managing the daily operations of eco-industrial facilities (such as water treatment plants and waste recycling centers) to ensure compliance with environmental regulations and efficiency goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT 环境工程 | 2年 | $500~$12,000（公立学校约500欧，私立可达12000欧） |
-| Licence professionnelle | 1年（BTS后） | $300~$8,000（公立大学约300欧，私立较高） |
-| Ingénieur 硕士 | 5年（高中后） | $500~$10,000（公立工程师学院约500欧，私立约10000欧） |
+| BTS/DUT environmental engineering | 2 years | $500~$12,000 (Public schools cost about 500 euros, while private schools can cost up to 12,000 euros) |
+| Licence professionnelle | 1 year (after BTS) | $300~$8,000 (Public universities cost about 300 euros, while private universities are higher) |
+| Ingénieur Master's degree | 5 years (after high school) | $500~$10,000 (Public engineering academies cost about 500 euros, private ones about 10,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境工程或相关专业文凭 | 法国教育部 | 必备 | BTS/Licence/Ingénieur等学历要求 |
-| 运营安全管理认证 | INRS或专业机构 | 可选 | 如CQP或HSE认证，非强制但加分 |
+| Diploma in Environmental Engineering or a related field | French Ministry of Education | Required | Educational requirements such as BTS, Licence, and Ingénieur |
+| Operational Safety Management Certification | INRS or professional institutions | Optional | For example, CQP or HSE certifications are not mandatory but are a bonus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国绿色经济转型推动该职业需求增长，尤其是废物管理和水处理领域。政府投资循环经济，预计未来五年岗位增长10-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's green economy transformation is driving demand growth in this profession, especially in waste management and water treatment. The government invests in the circular economy, expecting job growth of 10-15% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，通常含奖金 |
-| 中级（3-10年） | $35,000~$45,000 | 税前年薪 |
-| 高级（10年以上） | $45,000~$60,000 | 税前年薪，含管理岗位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, usually including bonuses |
+| Intermediate (3-10 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (10+ years) | $45,000~$60,000 | Pre-tax annual salary, including management positions |
+| average salary | $48,330 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从技术员晋升为主管，再至区域经理或环保项目经理。需积累运营管理经验并考取环境管理认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
+
+You can be promoted from technician to supervisor, then to regional manager or environmental project manager. Experience in operations management and obtaining environmental management certification are required.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and preliminary analysis
+- Standard chapter writing for environmental impact assessment reports
+- Routine document generation for environmental compliance inspections
+- Parameter Tuning and Running of Pollution Dispersion Models
+- Progress tracking and report updates in project management
+
+**Where AI augments the role:**
+
+- Using AI for pollutant dispersion simulation and risk assessment
+- Optimizing water treatment process parameters using machine learning
+- Using natural language processing for rapid review of regulations and environmental impact reports
+- Combine remote sensing AI for ecological impact monitoring and early warning
+- Testing field planning solutions using AI-powered digital twins
+
+**Human moat:**
+
+- On-site field inspection and pollution source identification
+- Communication and negotiation with stakeholders (government, community)
+- Cross-disciplinary solution design for complex environmental issues
+- Take responsibility for signing environmental impact reports (registered engineer)
+- Development and application of innovative repair technologies
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- GIS and remote sensing AI (e.g., ArcGIS Pro, Google Earth Engine).
+- AI integration of environmental modeling software (EFDC, MODFLOW)
+- Integration of project management with AI tools (e.g., Asana, Jira)
+- Reading environmental regulations and AI-assisted compliance tools
+- Digital twin and IoT data platform operation
+
+**Key growth areas:**
 
 - Green economy
 - Waste management
@@ -62,68 +98,67 @@ Oversees daily operations of eco-industrial facilities (e.g., water treatment pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需工作合同且年薪≥53000欧（2025标准）或学历硕士以上 |
-| Subclass Salarié（Employee） | 受雇工作居留，需雇主担保且通过劳动力市场测试 |
-| Subclass Carte bleue européen（EU Blue Card） | 需年薪≥53000欧（紧缺职业可降至43000欧），适合工程师级别 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent; requires a job contract and annual salary ≥ €53,000 (2025 standard) or a master's degree or higher. |
+| Subclass Salarié (Employee) | Employed work residency requires employer sponsorship and labor market testing |
+| Subclass Carte bleue européen (EU Blue Card) | Requires annual salary ≥53,000 EUR (can be reduced to 43,000 EUR for shortage occupations), suitable for engineer level |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Eco-Industrial Operations Supervisor？**
-- 对环境工程和可持续发展有热情
-- 具备运营管理和团队协调能力
-- 适应户外和工业现场工作
-
-**谁不适合学Eco-Industrial Operations Supervisor？**
-- 不喜欢现场操作和体力劳动
-- 对环保法规细节缺乏耐心
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about environmental engineering and sustainability
+- Possess operational management and team coordination skills
+- Suitable for outdoor and industrial site work.
+
+**Who is not suited**
+- Dislikes on-site operations and physical labor
+- Lack of patience for environmental regulatory details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an ecological industrial operations supervisor?**
+A: Entry-level salaries are about 28,000-35,000 euros, intermediate salaries 35,000-45,000 euros, and senior salaries 45,000-60,000 euros (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to France to work in this profession?**
+A: You can use Passeport Talent or Salarié residence visas, which require a French employer contract and meet the salary and educational requirements. EU citizens do not need a visa.
+
+**Q: What are the future prospects for this profession?**
+A: Green transformation drives demand growth, and you can be promoted to Regional Manager or Environmental Project Manager, or move to consulting/audit roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Eco-Industrial Operations Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Eco-Industrial Operations Supervisor?**
-答：Entry-level: €28,000-35,000; mid-level: €35,000-45,000; senior: €45,000-60,000 (gross annual).
-
-**问：How can foreigners migrate to France for this occupation?**
-答：Via Talent Passport or Employee residence permit, requiring a French job contract and meeting salary/education criteria. EU citizens do not need a visa.
-
-**问：What is the future career outlook?**
-答：Green transition drives demand; career progression to regional manager or environmental project manager, or switch to consulting/auditing.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

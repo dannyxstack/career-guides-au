@@ -1,61 +1,94 @@
-# Livestock and Dairy Producers（Livestock and Dairy Producers）职业分析 · NL
+# Livestock and Dairy Producers — career analysis · Netherlands
 
-**职业代码：6121 – Livestock and Dairy Producers。**
+**Occupation code: 6121 (ISCO08)**
 
-Manage the breeding, feeding, and health of livestock such as cattle, pigs, and sheep, and oversee milk production on dairy farms.
+Responsible for managing the breeding and production of livestock such as cattle, pigs, and sheep, including feeding, reproduction, health monitoring, and dairy production.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 4年 | —（每年学费约0-2000欧元，有政府补贴） |
-| 应用科学大学本科 | 4年 | $2,000~$4,000（每年学费约2000-4000欧元） |
+| Secondary vocational education | 4 years | $0~$2,000 (Annual tuition approximately 0-2000 euros, with government subsidies) |
+| Bachelor's degree at a University of Applied Sciences | 4 years | $2,000~$4,000 (Annual tuition around €2,000–4,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医健康管理证书 | 荷兰农业与自然部 | 可选 | 非强制但有助于专业发展 |
-| 农药施药许可证 | 荷兰食品与消费品安全局 | 可选 | 如涉及农药使用则必须 |
-| 拖拉机驾驶执照 | 荷兰车辆管理局 | 可选 | 操作农业机械时需持有 |
+| Veterinary Health Management Certificate | Dutch Ministry of Agriculture and Nature | Optional | Not mandatory but beneficial for professional development. |
+| Pesticide application license | Netherlands Food and Consumer Product Safety Authority | Optional | Mandatory if pesticide use is involved |
+| Tractor Driving License | Netherlands Vehicle Authority | Optional | Must hold a license when operating agricultural machinery |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 30,000。荷兰畜牧业面临环保法规趋严和消费者对可持续产品需求上升的挑战，自动化与精准农业技术应用增加，从业人数预计小幅下降。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,000. The Dutch livestock industry faces challenges from stricter environmental regulations and rising consumer demand for sustainable products. Automation and precision agriculture technologies are increasingly used, and employment numbers are expected to decline slightly.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，包括津贴 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪，视农场规模和职责 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，可含利润分成 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, including allowances |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual salary before tax, depending on farm size and responsibilities |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, may include profit sharing |
+| average salary | $39,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从农场工人晋升为生产主管或农场经理，也可通过专业培训成为畜牧顾问或兽医助理，部分转向有机或精准农业领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The outlook for livestock and dairy producers is mixed: AI/automation will take over repetitive tasks such as monitoring and feeding, but on-site farm management, animal health assessment, and complex decision-making still require humans. Job numbers may remain stable but entry requirements will increase.
+
+Can advance from farm worker to production supervisor or farm manager, or become a livestock consultant or veterinary assistant through professional training, with some transitioning to organic or precision agriculture.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding system replaces manual addition of feed
+- Drones or sensors automatically monitor livestock location and activity status.
+- Automatic milking robots replace manual milking.
+- Data-based health warning systems replace daily manual observation
+
+**Where AI augments the role:**
+
+- AI analyzes herd health data to assist in accurate disease diagnosis
+- Automatically record and analyze yield to optimize feed formulations
+- Intelligent early warning system improves breeding management and efficiency
+- Remote monitoring reduces on-site inspections, optimizing manpower allocation
+
+**Human moat:**
+
+- On-site anomaly assessment and first aid (e.g., disease, injury)
+- Non-standard interpretation of animal behavior and social dynamics
+- Trust-based communication with stakeholders such as veterinarians and regulatory bodies
+- Flexible decision-making under sudden natural disasters or equipment failures
+
+**Skills to build:**
+
+- Agricultural IoT and sensor system operation
+- Basic data analysis and visualization tools (e.g., Excel, simple BI)
+- Basic animal health diagnosis and care
+- Basic maintenance and troubleshooting of automated equipment
+- Knowledge of sustainable pasture management
+- Use of digital recording and compliance software
+
+**Key growth areas:**
 
 - precision livestock farming
 - sustainable dairy production
@@ -64,66 +97,68 @@ Manage the breeding, feeding, and health of livestock such as cattle, pigs, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适用于高技能移民，需雇主担保，年薪门槛约50000欧元，不适用于该职业常见薪资水平。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪约58000欧元以上，该职业通常不满足要求。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或全球前200高校毕业生可申请为期一年的求职签证，可在该职业工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applies to high-skilled migration, requires employer sponsorship, annual salary threshold approx. €50,000, not applicable to common salary levels for this occupation. |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary above approximately €58,000; this occupation typically does not meet the requirement. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch or top 200 global universities can apply for a one-year job-seeking visa and work in this occupation. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Livestock and Dairy Producers？**
-- 热爱户外工作与动物
-- 具备机械操作和基本兽医知识
-- 适应早起和季节性高强度劳动
+**Who is suited**
+- enjoys outdoor work and animals
+- Possess mechanical operation skills and basic veterinary knowledge.
+- Able to adapt to early starts and seasonal high-intensity labor
 
-**谁不适合学Livestock and Dairy Producers？**
-- 对动物福利不敏感
-- 无法适应体力劳动和长时间室外工作
+**Who is not suited**
+- Insensitive to animal welfare
+- Unable to adapt to physical labor and long outdoor work hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level in the Dutch livestock industry?**
+A: Entry-level annual salary around 25,000-32,000 euros, mid-level 32,000-45,000 euros, senior up to 60,000 euros, below national average but accommodation is often included.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: This occupation does not fall under high-skilled immigration categories, making work visas difficult; typically requires spousal visa or EU free movement pathways.
+
+**Q: What is the demand for livestock workers in the Netherlands?**
+A: Demand is stable, but automation reduces the need for low-skilled labor, placing more value on workers with skills in technology and sustainable farming.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Livestock and Dairy Producers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level in Dutch livestock farming?**
-答：Entry-level salary is about EUR 25,000-32,000, mid-level EUR 32,000-45,000, senior up to EUR 60,000, often with accommodation included.
-
-**问：Can foreigners immigrate to the Netherlands through this occupation?**
-答：This occupation is not eligible for the Highly Skilled Migrant scheme; it is difficult to obtain a work visa, usually via family reunification or EU free movement.
-
-**问：What is the demand for livestock workers in the Netherlands?**
-答：Demand is stable, but automation reduces need for low-skilled labor; preference for workers with technical and sustainable farming skills.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

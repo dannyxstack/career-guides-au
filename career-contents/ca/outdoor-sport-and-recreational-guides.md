@@ -1,61 +1,97 @@
-# Outdoor sport and recreational guides（Outdoor sport and recreational guides）职业分析 · 加拿大
+# Outdoor sport and recreational guides — career analysis · Canada
 
-**职业代码：64322 – Outdoor sport and recreational guides。**
+**Occupation code: 64322 (NOC)**
 
-Outdoor sport and recreational guides lead individuals or groups in outdoor adventure activities such as hiking, kayaking, skiing, fishing, hunting, and rock climbing. They ensure safety, provide instruction, and enhance the overall experience.
+Outdoor sports and recreation guides lead individuals or groups on outdoor adventure activities, such as hiking, kayaking, skiing, fishing, hunting and rock climbing. They ensure participant safety, provide instruction, and enhance the overall experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常最低要求高中文凭，但需相关经验或认证） |
-| 大学专科或证书课程 | 1-2年 | $5,000~$20,000（旅游管理、户外探险或休闲管理证书/大专） |
-| 大学本科学位 | 4年 | $20,000~$60,000（户外休闲、环境科学或相关领域学士学位） |
+| High school graduation | None | $0~$0 (Typically requires at least a high school diploma, but relevant experience or certification is needed) |
+| College diploma or certificate course | 1-2 years | $5,000~$20,000 (Certificate/diploma in tourism management, outdoor adventure, or leisure studies) |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Bachelor's degree in outdoor recreation, environmental science, or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 野外急救证书（Wilderness First Aid） | 如加拿大红十字会 | 必备 | 许多雇主强制要求 |
-| 心肺复苏术（CPR） | 如加拿大心脏与中风基金会 | 必备 | 基本要求 |
-| 导游许可证（如国家公园） | 加拿大公园管理局或省级机构 | 可选 | 特定活动如冰川徒步可能需要 |
-| 驾驶执照（Class 4或商业） | 省级交通部门 | 可选 | 运输参与者时可能需要 |
+| Wilderness First Aid certificate | e.g., Canadian Red Cross | Required | Many employers mandate it |
+| Cardiopulmonary resuscitation (CPR) | Such as the Heart and Stroke Foundation of Canada | Required | Basic requirements |
+| Tour guide license (e.g., national parks) | Parks Canada or provincial agencies | Optional | May be required for specific activities such as glacier hiking |
+| Driving license (Class 4 or commercial) | Provincial transportation department | Optional | May require when transporting participants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,200。加拿大户外旅游持续增长，国家公园和省级公园的需求稳定。季节性较强，夏季和冬季是高峰期，就业机会集中在旅游热点地区如卑诗省、阿尔伯塔省和安大略省。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,200. Canadian outdoor tourism continues to grow, with steady demand in national and provincial parks. Seasonal fluctuations are strong, with peaks in summer and winter; job opportunities concentrate in tourist hotspots such as British Columbia, Alberta, and Ontario.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 季节性工作，收入可能低于全职 |
-| 中级（3-5年） | $35,000~$45,000 | 含小费或额外补贴 |
-| 高级（5年以上） | $45,000~$60,000 | 主管或拥有专业认证 |
+| Median salary | $43,451 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $28,000~$35,000 | Seasonal work, income may be lower than full-time |
+| Mid-level (3–5 years) | $35,000~$45,000 | Including tips or additional subsidies |
+| Senior (5+ years) | $45,000~$60,000 | Supervisor or professional certification holder |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级导游积累经验后可晋升为高级导游或向导主管，也可转型为户外教育者、探险旅游策划者或自主创业开设导游公司。持有相关认证（如野外急救）有助于职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
+
+Junior guides can advance to senior guides or tour supervisors after gaining experience, or transition to outdoor educators, adventure tourism planners, or start their own guide companies. Relevant certifications (e.g., wilderness first aid) aid career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate activity routes and risk assessment reports
+- Create instructional videos and illustrated tutorials.
+- Monitor equipment status via AI and predict failures
+- Automatically organize client health declarations and liability waivers
+- Basic technical Q&A (e.g., equipment selection)
+
+**Where AI augments the role:**
+
+- Using AI-assisted simulators for virtual practice and skill training
+- Using AI to analyse student movement data and provide personalised feedback
+- Using AI real-time translation services to communicate with multilingual clients
+- Using natural language processing tools to quickly find latest safety regulations
+- Using AI Wearable Devices to Monitor Students' Physiological Indicators to Prevent Accidents
+
+**Human moat:**
+
+- Real-Time Judgment and Emotional Engagement in On-Site Teaching
+- Emergency decision-making and rescue skills in high-risk environments
+- Intuition based on experience and understanding of student psychology
+- Obtain accredited specialist skills (e.g., rock climbing, kayaking)
+- Build trust relationships with clients and team cohesion
+
+**Skills to build:**
+
+- Advanced first aid and wilderness medicine certificates (e.g., WFR)
+- AI-assisted Teaching Tools (e.g. Virtual Reality Systems)
+- Data analysis basics (for tracking student performance)
+- Digital Content Production (Drone Aerial Photography, Editing)
+- Multilingual communication and cross-cultural understanding
+- Knowledge of sustainable tourism and environmental ethics
+
+**Key growth areas:**
 
 - Ecotourism
 - Adventure Travel
@@ -64,69 +100,68 @@ Outdoor sport and recreational guides lead individuals or groups in outdoor adve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 年龄、教育、工作经验等符合要求可申请，但NOC 64322为TEER 3，需LMIA或省提名加分 |
-| Subclass PNP（Provincial Nominee Program） | 户外导游需求大的省份（如卑诗省、阿尔伯塔省）可能有省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人，可申请工签 |
-| Subclass International Experi（Working Holiday Visa） | 年轻人可通过IEC获得开放式工签 |
+| Subclass Express Entry (Federal Skilled Worker) | Applicants meeting age, education, work experience requirements can apply, but NOC 64322 is TEER 3, requiring LMIA or provincial nomination points. |
+| Subclass PNP (Provincial Nominee Program) | Provinces with high demand for outdoor guides (e.g., British Columbia, Alberta) may have provincial nomination programs |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to hire locally; work visa can be applied for |
+| Subclass International Experi (Working Holiday Visa) | Young people can obtain an open work permit through IEC |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Outdoor sport and recreational guides？**
-- 热爱户外活动和自然，体能良好
-- 善于沟通，能带领和激励团队
-- 适应季节性工作和灵活工时
-
-**谁不适合学Outdoor sport and recreational guides？**
-- 不喜欢或不适应户外艰苦环境
-- 无法接受季节性失业或不稳定收入
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves outdoor activities and nature, physically fit
+- Good communication skills, able to lead and motivate teams
+- Accommodates seasonal work and flexible hours
+
+**Who is not suited**
+- Dislike or not suited to harsh outdoor environments
+- Cannot accept seasonal unemployment or unstable income
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for outdoor guides?**
+A: Annual salary for entry-level tour guides is approximately 28,000-35,000 CAD, while senior guides can earn 45,000-60,000 CAD, but income is heavily affected by seasonality and tips.
+
+**Q: What is the main pathway for outdoor guides to immigrate to Canada?**
+A: Main pathways include provincial nomination (e.g., BC PNP) or LMIA work visa. Since this occupation is TEER 3, direct Express Entry requires additional points, so provincial nomination or LMIA is more realistic.
+
+**Q: What certifications are needed to work as an outdoor guide?**
+A: Typically requires wilderness first aid and CPR certification. For specific activities like skiing or climbing, corresponding instructor certifications are needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Outdoor sport and recreational guides的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an outdoor guide?**
-答：Entry-level guides earn about CAD 28,000-35,000 annually, while senior guides can reach CAD 45,000-60,000, though income varies with seasonality and tips.
-
-**问：What are the main immigration pathways for outdoor guides?**
-答：Main routes include Provincial Nominee Programs (e.g., BC PNP) or LMIA work permits. As TEER 3, direct Express Entry requires additional points, making PNP or LMIA more viable.
-
-**问：What certifications are needed to work as an outdoor guide?**
-答：Typically require Wilderness First Aid and CPR certification. Specific activities like skiing or climbing require respective instructor certifications.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

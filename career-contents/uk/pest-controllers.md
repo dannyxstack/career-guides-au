@@ -1,58 +1,90 @@
-# Pest controllers（Pest controllers）职业分析 · UK
+# Pest controllers — career analysis · United Kingdom
 
-**职业代码：6121 – Pest controllers。**
+**Occupation code: 6121 (SOC)**
 
-Investigate pest infestations and use traps, chemicals, and other methods to eliminate pests, protecting public health and property.
+Investigate pest infestations, using traps, chemical treatments, etc. to eliminate pests and protect public health and buildings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学毕业 | 无 | —（无正式学历要求，通常雇主提供在岗培训） |
-| 职业培训（短期课程） | 3个月 | $500~$1,500（包括害虫控制基础课程和安全培训） |
+| Secondary school graduation | None | $0~$0 (No formal education requirements; employers typically provide on-the-job training.) |
+| Vocational training (short courses) | 3 months | $500~$1,500 (Including pest control basics and safety training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 害虫控制许可证（BPCA/RSPH） | 英国害虫控制协会或皇家公共卫生学会 | 必备 | 从事该行业通常需要持有许可证，尤其是使用农药时 |
-| NEBOSH 安全证书 | NEBOSH | 可选 | 部分雇主要求，提升安全合规能力 |
+| Pest control license (BPCA/RSPH). | British Pest Control Association or Royal Society for Public Health | Required | Working in this industry usually requires a license, especially when using pesticides |
+| NEBOSH safety certificate | NEBOSH | Optional | Required by some employers to enhance safety and compliance capabilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。受气候变化和城市化影响，害虫问题增多，预计未来5年就业增长稳定，但竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Due to climate change and urbanization, pest problems are increasing, leading to stable employment growth over the next 5 years, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或新手，基本薪资 |
-| 中级（3-5年） | $24,000~$30,000 | 有经验的技术员 |
-| 高级（5年以上） | $30,000~$40,000 | 主管或资深专家，可能含额外奖金 |
+| Median salary | $28,323 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or beginner, basic salary |
+| Mid-level (3–5 years) | $24,000~$30,000 | Experienced technician |
+| Senior (5+ years) | $30,000~$40,000 | Supervisor or senior specialist, possibly including additional bonuses |
+| average salary | $29,850 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可通过积累经验晋升为高级技术员或团队主管，部分人成立自己的害虫控制公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
+
+Can advance to senior technician or team supervisor through experience; some start their own pest control companies.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate pest activity reports and client communication records
+- Automatically plan routine inspection routes based on historical data
+- Use drones or IoT sensors for initial pest monitoring
+- Automatically calculate dosage and compatibility recommendations
+
+**Where AI augments the role:**
+
+- Using AI image recognition to quickly and accurately diagnose pest types and severity
+- Use intelligent scheduling systems to optimize service routes and improve work efficiency
+- Access real-time operation guides and equipment instructions through augmented reality
+- Using data analysis to predict high-incidence areas and proactively prevent pests
+
+**Human moat:**
+
+- Flexibly judge and adjust plans in complex work environments
+- Face-to-face communication with clients to build trust and explain safety hazards
+- Physical handling and emergency response for hazardous chemicals.
+- Making professional decisions for unconventional on-site situations
+
+**Skills to build:**
+
+- Proficiency in basic data analysis and reporting tools (e.g., Excel, simple BI)
+- Learn pest identification and biology knowledge to improve diagnostic skills
+- Familiar with operating drones or IoT monitoring devices
+- Enhance customer communication and safety training skills
+- Learn digital workflow management software
+
+**Key growth areas:**
 
 - Urbanization
 - Climate change
@@ -61,64 +93,63 @@ Investigate pest infestations and use traps, chemicals, and other methods to eli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业在可担保清单上，可申请技术工人签证，需雇主担保且薪资达标 |
-| Subclass Graduate（Graduate Visa） | 持有相关学位者可通过毕业生签证在英国工作2年，积累经验后转为技术工人签 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible sponsorship list; can apply for a skilled worker visa, requires employer sponsorship and meeting salary threshold |
+| Subclass Graduate (Graduate Visa) | Degree holders can work in the UK for 2 years on a Graduate visa, then switch to a Skilled Worker visa after gaining experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pest controllers？**
-- 喜欢户外工作，不介意处理老鼠、昆虫等害虫
-- 动手能力强，愿意学习使用化学药剂和安全操作规程
-- 希望从事稳定、低AI风险的手工技术类职业
-
-**谁不适合学Pest controllers？**
-- 对害虫感到极度厌恶或恐惧
-- 无法适应非标准工作时间（如紧急呼叫服务）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoying outdoor work, not minding dealing with pests such as rodents and insects
+- Strong hands-on ability, willing to learn about chemical agents and safety operating procedures
+- Seeking stable, low AI-risk manual technical occupations
+
+**Who is not suited**
+- Extreme aversion or fear of pests
+- Inability to adapt to non-standard working hours (e.g. emergency call services)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pest controllers?**
+A: Entry level approximately £18,000-24,000, mid-level £24,000-30,000, senior up to £40,000+, with some managers or self-employed earning more.
+
+**Q: Can pest controllers apply for a UK work visa?**
+A: Yes, this occupation is on the Skilled Worker visa eligible list and is in shortage (Immigration Salary List); meeting salary and English requirements allows application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Pest controllers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pest controllers?**
-答：Entry-level around £18,000-£24,000, mid-level £24,000-£30,000, senior up to £40,000+, with supervisors or self-employed earning more.
-
-**问：Can pest controllers apply for a UK work visa?**
-答：Yes, the occupation is on the eligible list for Skilled Worker visa and is on the Immigration Salary List, subject to salary and English requirements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

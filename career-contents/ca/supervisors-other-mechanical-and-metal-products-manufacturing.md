@@ -1,58 +1,94 @@
-# Supervisors, other mechanical and metal products manufacturing（Supervisors, other mechanical and metal products manufacturing）职业分析 · 加拿大
+# Supervisors, other mechanical and metal products manufacturing — career analysis · Canada
 
-**职业代码：92023 – Supervisors, other mechanical and metal products manufacturing。**
+**Occupation code: 92023 (NOC)**
 
-Supervise and coordinate activities of workers in mechanical and metal products manufacturing, ensuring production efficiency, quality, and safety standards, managing scheduling, training, and problem-solving.
+Supervise and coordinate worker activities in machinery and metal product manufacturing, ensuring production efficiency, quality, and safety standards, responsible for scheduling, training, and problem-solving.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常要求高中毕业） |
-| 职业培训或大专文凭 | 1-2年 | $5,000~$20,000（机械或制造技术相关专业） |
+| High school diploma | None | $0~$0 (Usually requires high school graduation) |
+| Vocational training or associate degree/diploma | 1-2 years | $5,000~$20,000 (Mechanical or manufacturing technology related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级安全认证 | 各省劳工部门 | 必备 | 如WSIB或OH&S培训 |
-| 焊接或机械加工资质 | 省级学徒机构 | 可选 | 对下属有监督要求时有用 |
+| Provincial safety certification | Provincial labour departments | Required | Such as WSIB or OH&S training |
+| Welding or machining qualifications | Provincial apprenticeship authority. | Optional | Useful when supervising subordinates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。加拿大制造业稳定发展，特别是汽车零部件和金属制品领域，对经验丰富的生产主管需求持续。未来十年岗位增长平稳，退休人员更替将带来一定机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Canada's manufacturing industry is developing steadily, especially in automotive parts and metal products, with sustained demand for experienced production supervisors. Job growth will be stable over the next decade, and retirements will bring some opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪约$45,000 |
-| 中级（3-7年） | $55,000~$75,000 | 中位约$65,000 |
-| 高级（7年以上） | $75,000~$95,000 | 资深主管可达$95,000 |
+| Median salary | $74,880 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary approximately $45,000 |
+| Mid-level (3–7 years) | $55,000~$75,000 | Median around $65,000 |
+| Senior (7+ years) | $75,000~$95,000 | Senior supervisor up to $95,000 |
+| average salary | $79,040 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从生产工人晋升至班组长、主管，再至生产经理或工厂经理。可通过参加管理培训或获得工业工程证书加速晋升。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Supervisors' management tasks such as scheduling, progress tracking, and report generation will be largely automated by AI, but interpersonal coordination and on-the-job decision-making still require humans, with an estimated 20% reduction in positions.
+
+Advance from production worker to team leader, supervisor, then production manager or plant manager. Can accelerate through management training or obtaining industrial engineering certification.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and progress tracking
+- Daily reports and data summarization
+- Simple quality inspection records
+- Material demand forecasting
+- Standard operating procedure reminders
+
+**Where AI augments the role:**
+
+- Real-time monitoring of equipment efficiency via AI to predict failures
+- Use computer vision to assist quality inspection, improving accuracy
+- AI-optimized scheduling and resource allocation to reduce labor waste
+- Automatically generate visual production reports to support decision-making
+- Quick retrieval of process problem solutions via knowledge graphs
+
+**Human moat:**
+
+- On-site decision-making when handling sudden mechanical failures
+- Interpersonal conflict mediation and motivation among workers
+- Creative problem-solving for unstructured problems
+- Global optimization of production flow rather than local indicators
+- Safety culture building and emergency evacuation command
+
+**Skills to build:**
+
+- Production data analysis and visualization (Power BI/Tableau)
+- Lean production and Six Sigma methodology
+- AI tool collaborative workflow design
+- Human-machine team management and change leadership.
+- Basic operation and fault diagnosis of equipment IoT
+- Fundamentals of digital twin and simulation optimization
+
+**Key growth areas:**
 
 - Manufacturing
 - Lean Manufacturing
@@ -61,68 +97,67 @@ Supervise and coordinate activities of workers in mechanical and metal products 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 满足一年相关工作经验且语言达标可申请 |
-| Subclass PNP（Provincial Nominee Program） | 安大略、阿尔伯塔等省份有制造业优先类别 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可担保工签，需证明无法招到本地员工 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Eligible after one year of relevant work experience and meeting language requirements |
+| Subclass PNP (Provincial Nominee Program) | Manufacturing priority categories in provinces like Ontario and Alberta |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer can sponsor work visa if unable to hire local staff |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, other mechanical and metal products manufacturing？**
-- 擅长协调与沟通，能应对快节奏生产环境
-- 有机械或金属加工背景，乐于现场管理
-- 注重安全与质量，有团队领导经验
-
-**谁不适合学Supervisors, other mechanical and metal products manufacturing？**
-- 不喜体力劳动或车间环境
-- 厌烦重复性监督与排班工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in coordination and communication, able to thrive in a fast-paced production environment
+- Have a background in mechanical or metal processing, enjoy on-site management
+- Focus on safety and quality, with team leadership experience
+
+**Who is not suited**
+- Those who dislike physical labor or workshop environments
+- Tired of repetitive supervision and scheduling work
+
+---
+
+## 8. FAQ
+
+**Q: How much does a Mechanical Product Manufacturing Supervisor earn in Canada?**
+A: Entry-level approx. $45,000-$55,000, median $65,000, experienced up to $95,000. Overtime and bonuses can increase income.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: This is TEER 2, eligible for immigration through Express Entry or Provincial Nominee Program. Requires at least one year of relevant experience; LMIA can also add points.
+
+**Q: What license or certification is needed?**
+A: Generally no mandatory license required, but provincial safety training (e.g., WSIB) and industry certifications (e.g., welding certification) are helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisors, other mechanical and metal products manufacturing的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a mechanical products manufacturing supervisor in Canada?**
-答：Entry-level around $45,000-$55,000, median $65,000, experienced up to $95,000. Overtime and bonuses can add income.
-
-**问：Is it easy to immigrate to Canada with this occupation?**
-答：It falls under TEER 2, eligible for Express Entry and PNP. Requires at least one year of experience; LMIA can add points.
-
-**问：What licenses or certifications are required?**
-答：No mandatory license, but provincial safety training (e.g., WSIB) and industry certifications (e.g., welding) are beneficial.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

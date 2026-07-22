@@ -1,60 +1,96 @@
-# Cafe or Restaurant Manager（Cafe or Restaurant Manager）职业分析 · 新西兰
+# Cafe or Restaurant Manager — career analysis · New Zealand
 
-**职业代码：141111 – Cafe or Restaurant Manager。**
+**Occupation code: 141111 (ANZSCO)**
 
-Cafe or Restaurant Managers oversee daily operations of food and beverage establishments, managing staff, customer service, inventory, and financial performance. This role offers migration pathways via Green List and Skilled Migrant Category in New Zealand.
+A cafe or restaurant manager oversees the daily operations of a food and beverage venue, including staff management, customer service, inventory control, and financial performance. This occupation is viable for New Zealand skilled migration via the Green List or Skilled Migrant Category.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 餐饮管理文凭 | 1年 | $15,000~$25,000（NZQF Level 5-6，公立理工学院或私立院校） |
-| 管理学士学位 | 3年 | $30,000~$45,000（NZQF Level 7，大学学费较高） |
+| Diploma in hospitality management | 1 year | $15,000~$25,000 (NZQF Level 5-6, public polytechnic or private institution) |
+| Bachelor's degree in management | 3 years | $30,000~$45,000 (NZQF Level 7, university tuition is relatively high) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 新西兰食品安全局（NZFSA） | 必备 | 强制性，需完成培训 |
-| 酒店管理文凭 | 职业院校 | 可选 | 推荐非必需 |
-| 酒类服务执照 | 地方议会 | 可选 | 如需提供酒类服务 |
-| 雅思（学术类） | British Council或IDP | 必备 | 技术移民需总分6.5 |
+| Food safety certificate | New Zealand Food Safety Authority (NZFSA) | Required | Mandatory, must complete training |
+| IELTS (Academic) | British Council or IDP | Required | Skilled migration requires a total score of 6.5 |
+| Hospitality management diploma | Vocational college | Optional | Recommended but not required |
+| Liquor service license | Local council | Optional | If alcohol service is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 22,000。新西兰餐饮业持续增长，旅游业繁荣带动咖啡馆和餐厅需求，预计未来5年岗位数量小幅增长。大城市（奥克兰、惠灵顿、基督城）机会集中，但需注意季节性波动和竞争。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 22,000. New Zealand's food and beverage industry continues to grow; tourism boom drives demand for cafes and restaurants, with a modest increase in job numbers expected over the next 5 years. Opportunities are concentrated in major cities (Auckland, Wellington, Christchurch), but seasonal fluctuations and competition should be noted.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 起步职位，通常需督导经验 |
-| 中级（4-7年） | $60,000~$75,000 | 独立管理小型餐饮单位 |
-| 高级（8年以上） | $75,000~$100,000 | 大型餐厅或连锁品牌区域经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$60,000 | Entry-level position, usually requiring supervisory experience |
+| Mid-level (4-7 years) | $60,000~$75,000 | Independently manage a small food service unit |
+| Senior (8+ years) | $75,000~$100,000 | Regional manager of large restaurants or chain brands. |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级岗位可晋升为区域经理或运营总监，或自主创业开设餐饮店。多元文化背景有助于在高端餐饮或旅游热点发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Entry-level roles can advance to regional manager or operations director, or start their own food business. Multicultural background helps in high-end dining or tourist hotspots.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Cafe or Restaurant Managers oversee daily operations of food and beverage establ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制要求（学历+工作经验或收入），ANZSCO Level 2职业 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 从事该职业2年后可申请居留，需薪资达到中位数 |
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主获得工签，最长3年，可衔接居留 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meet the 6-point requirement (qualifications + work experience or income), ANZSCO Level 2 occupation |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | Residency can be applied for after 2 years in the occupation, requiring salary at median |
+| Subclass AEWV (Accredited Employer Work Visa) | Obtain work visa through accredited employer, up to 3 years, can lead to residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cafe or Restaurant Manager？**
-- 具备餐饮服务经验，善于人际沟通
-- 适应快节奏工作，抗压能力强
-- 希望自主创业或晋升管理岗位
-
-**谁不适合学Cafe or Restaurant Manager？**
-- 不喜轮班制（含周末、晚班）
-- 缺乏成本控制或团队管理能力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has food service experience and strong interpersonal communication skills
+- Adapts to fast-paced work with strong stress tolerance.
+- Those wishing to start their own business or advance to management
+
+**Who is not suited**
+- Dislike shift work (including weekends and night shifts)
+- Lack of cost control or team management skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for café or restaurant managers in New Zealand?**
+A: Junior annual salary approx. NZD 50,000-60,000, intermediate 60,000-75,000, senior 75,000-100,000, lower than Australia but cost of living is lower.
+
+**Q: How can this occupation immigrate to New Zealand via skilled migration?**
+A: Can apply through the Skilled Migrant Category (SMC) 6-point system (qualifications + work experience) or the Green List T2 work-to-residence pathway, requiring employer support.
+
+**Q: Do I need local qualifications?**
+A: Mandatory food safety certificate, hotel management diploma recommended. Overseas experience is recognized, but local qualifications increase job competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cafe or Restaurant Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Cafe or Restaurant Managers in New Zealand?**
-答：Entry-level: NZD 50,000-60,000; mid-level: 60,000-75,000; senior: 75,000-100,000 per year. Lower than Australia but with lower cost of living.
-
-**问：How can this occupation lead to skilled migration in New Zealand?**
-答：Via Skilled Migrant Category (6-point system: qualifications + work experience) or Green List Tier 2 Work to Residence, requiring employer sponsorship.
-
-**问：Are local qualifications required?**
-答：Food safety certificate is mandatory; hospitality diploma recommended. Overseas experience is accepted, but local qualifications boost employability.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

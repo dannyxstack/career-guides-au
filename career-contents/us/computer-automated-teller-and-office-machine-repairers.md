@@ -1,60 +1,92 @@
-# Computer, Automated Teller, and Office Machine Repairers（Computer, Automated Teller, and Office Machine Repairers）职业分析 · 美国
+# Computer, Automated Teller, and Office Machine Repairers — career analysis · United States
 
-**职业代码：49-2011 – Computer, Automated Teller, and Office Machine Repairers。**
+**Occupation code: 49-2011 (SOC)**
 
-Repair, maintain, or install computers, word processing systems, automated teller machines, and electronic office machines such as duplicating and fax machines, involving hardware diagnostics, component replacement, and software configuration.
+Responsible for repairing, maintaining or installing computers, word processing systems, ATMs, copiers, fax machines and other electronic office equipment, covering hardware diagnosis, parts replacement and software configuration.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立中学免费） |
-| 专科学位（电子或计算机维修） | 2年 | $5,000~$20,000（社区学院学费范围） |
+| High school diploma or equivalent | 12 years | $0~$0 (Free public secondary school) |
+| Associate degree (electronics or computer repair) | 2 years | $5,000~$20,000 (Community college tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA A+ 认证 | CompTIA | 可选 | 证实基本计算机维修技能，非强制但雇主常要求 |
-| 制造商专项认证 | 如Diebold Nixdorf, IBM | 可选 | 针对ATM或特定办公设备，提升竞争力 |
+| CompTIA A+ certification. | CompTIA | Optional | Demonstrate basic computer repair skills, not mandatory but often required by employers |
+| Manufacturer-specific certification | E.g., Diebold Nixdorf, IBM | Optional | Focusing on ATMs or specific office equipment to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 56,100。美国劳工统计局预计该职业2023-2033年就业增长约2%，低于平均水平，主要受自动化设备普及和远程支持技术替代影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 56,100. The US Bureau of Labor Statistics projects about 2% employment growth for this occupation from 2023 to 2033, below average, mainly due to automation and remote support technology substitution.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,500~$38,000 | 学徒或入门级岗位 |
-| 中级（4-7年） | $38,000~$52,000 | 具备独立维修能力 |
-| 高级（8年+） | $52,000~$68,000 | 含主管或专项技术专家 |
+| Median salary | $47,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,500~$38,000 | Apprenticeship or entry-level position |
+| Mid-level (4-7 years) | $38,000~$52,000 | Possess independent repair skills |
+| Senior (8+ years) | $52,000~$68,000 | Includes supervisor or specialized technical expert |
+| average salary | $50,880 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级维修员可晋升为高级技师或团队主管，部分转向IT支持专家或设备销售工程师，需持续学习新型号技术。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
+
+Junior maintenance staff can advance to senior technician or team leader; some transition to IT support specialists or equipment sales engineers, requiring continuous learning of new model technologies.
+
+**Tasks most exposed to AI:**
+
+- Automatically diagnose common network issues and provide solutions
+- Automatically generate network configuration and patch scripts
+- Record work orders and categorize/escalate to senior teams
+- User password reset and account management
+
+**Where AI augments the role:**
+
+- Use AI log analysis to quickly locate fault root causes
+- Using network simulation tools to predict change impact.
+- Early detection of anomalies through AI-driven monitoring.
+- Using natural language queries to accelerate knowledge base resolution
+
+**Human moat:**
+
+- Root cause analysis and manual repair of complex faults
+- Network architecture design and security policy formulation
+- Effective communication with non-technical users
+- Prioritizing urgent matters under pressure
+
+**Skills to build:**
+
+- Cloud network management (AWS/Azure/GCP)
+- Cybersecurity certifications (CISSP/CEH)
+- Automation scripts (Python/Ansible)
+- AI/ML basics and network analysis tools
+- Hybrid network architecture design
+
+**Key growth areas:**
 
 - Slow Growth
 - Self-Service Kiosks
@@ -63,65 +95,67 @@ Repair, maintain, or install computers, word processing systems, automated telle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常要求学士学位，本职业通常不满足，极少申请 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 需雇主担保且证明劳工短缺，但本职业非紧缺，获批率低 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically requires Bachelor's degree, this occupation usually does not meet requirements, very few applications |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Requires employer sponsorship and proof of labor shortage, but this occupation is not in shortage, so approval rate is low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Computer, Automated Teller, and Office Machine Repairers？**
-- 喜欢动手维修硬件
-- 能接受出差或上门服务
-- 希望快速入行不求高薪
+**Who is suited**
+- Enjoys hands-on hardware repair
+- Able to accept travel or on-site service
+- Wishing to enter the industry quickly without seeking high salary
 
-**谁不适合学Computer, Automated Teller, and Office Machine Repairers？**
-- 追求高薪或职业发展空间
-- 偏好稳定办公室环境
+**Who is not suited**
+- Seeking high salary or career development opportunities
+- Prefer a stable office environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the median annual salary for this occupation?**
+A: US Bureau of Labor Statistics 2023 data shows a median annual salary of about $42,000, varying by region and experience.
+
+**Q: Is this occupation easy to immigrate to the US with a work visa?**
+A: Difficult. Typically H-1B requires a relevant bachelor's degree, but this occupation is mostly diploma-based; EB-3 green card requires proving labor shortage, but supply is ample.
+
+**Q: What educational background is needed to enter the industry?**
+A: Most employers accept high school diploma plus on-the-job training, but a diploma (e.g., electronics repair) or CompTIA A+ certification significantly improves job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Computer, Automated Teller, and Office Machine Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the median annual salary for this occupation?**
-答：According to BLS 2023 data, the median annual salary is about $42,000, varying by location and experience.
-
-**问：Is it easy to immigrate to the US via work visa for this occupation?**
-答：Not easy. H-1B usually requires a bachelor's degree in a relevant field, while this job often only needs an associate degree; EB-3 green card requires labor shortage certification, but the market has sufficient supply.
-
-**问：What educational background is needed to enter this field?**
-答：Most employers accept a high school diploma plus on-the-job training, but an associate degree in electronics repair or CompTIA A+ certification significantly improves job prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

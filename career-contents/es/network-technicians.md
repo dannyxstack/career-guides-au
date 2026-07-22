@@ -1,60 +1,96 @@
-# Network Technicians（Network Technicians）职业分析 · ES
+# Network Technicians — career analysis · Spain
 
-**职业代码：3813 – Network Technicians。**
+**Occupation code: 3813 (CNO)**
 
-Install, configure, and maintain computer networks including LANs, WANs, servers, and network equipment, ensuring network stability and security.
+Responsible for installing, configuring, and maintaining computer network systems, including local area networks, wide area networks, servers, and network equipment, ensuring stable and secure network operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业培训（FP Grado Superior） | 2年 | —（公立FP免学费，仅注册费） |
-| 计算机工程学士（Grado） | 4年 | $1,000~$4,000（公立大学学费约1000-2500欧元/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$8,000（专业硕士如网络安全硕士） |
+| Higher Vocational Training (FP Grado Superior) | 2 years | $0~$1,500 (Public FPs are free of tuition, only the registration fee is required) |
+| Bachelor of Computer Engineering (Grado) | 4 years | $1,000~$4,000 (Tuition at public universities is about 1,000–2,500 euros per year) |
+| Máster | 1-2 years | $2,000~$8,000 (Professional master's programs include a Master of Cybersecurity program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Cisco CCNA认证 | Cisco | 可选 | 行业认可的网络技术基础认证 |
-| FP Grado Superior en Administración de Sistemas Informáticos en Red | 西班牙教育部 | 可选 | 官方职业培训文凭，受雇主认可 |
-| 计算机科学或相关领域学士学位 | 西班牙大学 | 可选 | 常见学历要求 |
+| Cisco CCNA Certification | Cisco | Optional | Industry-recognized network technology foundation certification |
+| FP Grado Superior en Administración de Sistemas Informáticos en Red | Spanish Ministry of Education | Optional | An official vocational training diploma, recognized by employers |
+| Bachelor's degree in computer science or related field | Spanish University | Optional | Common educational requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙数字化转型推动网络技术员需求持续增长，尤其在马德里、巴塞罗那等科技中心。5G、物联网和云计算普及进一步拉动就业。中小企业外包IT服务创造更多岗位。未来5年预计增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's digital transformation is driving continuous growth in demand for network technicians, especially in technology hubs like Madrid and Barcelona. The widespread adoption of 5G, IoT, and cloud computing further boosted employment. SMEs outsourcing IT services creates more jobs. Growth is expected to be about 10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，马德里/巴塞罗那略高 |
-| 中级（3-7年） | $30,000~$40,000 | 含CCNP认证者薪资偏高 |
-| 高级（7年以上） | $42,000~$55,000 | 网络架构师或IT经理薪资可达6万以上 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary: Madrid/Barcelona is slightly higher |
+| Mid-level (3–7 years) | $30,000~$40,000 | Those with CCNP certification earn relatively high salaries |
+| Senior (7+ years) | $42,000~$55,000 | Network architect or IT manager salary can exceed 60,000. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级网络支持晋升为网络工程师、网络架构师或IT项目经理。考取思科CCNA/CCNP等认证可加速职业发展。也可转向网络安全或云架构等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+You can advance from junior network support to network engineer, network architect, or IT project manager. Obtaining certifications such as Cisco CCNA/CCNP can accelerate your career development. It can also be shifted to niche areas such as cybersecurity or cloud architecture.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - 5G
 - Cloud Computing
@@ -63,68 +99,67 @@ Install, configure, and maintain computer networks including LANs, WANs, servers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历或5年经验，合同薪资不低于西班牙平均工资1.5倍。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高技能专业人士，流程快速，需公司担保，适合短缺职业。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 常规受雇工作居留，需雇主申请，受劳动力市场测试限制。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with a contract salary not less than 1.5 times the Spanish average salary. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeted at highly skilled professionals, the process is fast, company sponsorship is required, and it is suitable for shortage occupations. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment residency requires employer application and is subject to labor market testing restrictions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Network Technicians？**
-- 喜欢动手配置网络设备、解决技术问题
-- 对IT基础设施和系统安全有兴趣
-- 愿意持续学习新技术和考取认证
-
-**谁不适合学Network Technicians？**
-- 不喜欢轮班、值班（网络维护需应急响应）
-- 不擅长在压力下排查故障
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on configuration of network equipment and solving technical problems
+- Interested in IT infrastructure and system security
+- Willing to continuously learn new technologies and obtain certifications
+
+**Who is not suited**
+- Dislikes shift work or duty (network maintenance requires emergency response)
+- Not good at troubleshooting faults under pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for network technicians in Spain?**
+A: Entry-level about €22,000-28,000/year, mid-level €30,000-40,000/year, senior €42,000-55,000/year. Higher with CCNP certification.
+
+**Q: How can non-EU citizens immigrate to Spain through the network technician occupation?**
+A: You can apply for the EU Blue Card (requires a university degree or 5 years of experience, with a qualified salary) or a Skilled Professional Visa (company sponsorship). This occupation is in short supply, and visa approval is relatively fast.
+
+**Q: What certificates are required to become a network technician in Spain?**
+A: Employers generally value Cisco CCNA/CCNP certification. FP diplomas or computer science degrees are also common requirements. No official academic qualification (homologación) is required, but accredited school degrees can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Network Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for network technicians in Spain?**
-答：Entry-level: €22,000-28,000/year; mid-level: €30,000-40,000/year; senior: €42,000-55,000/year. Certified professionals earn more.
-
-**问：How can non-EU citizens migrate to Spain as a network technician?**
-答：Apply for EU Blue Card (requires degree or 5 years experience, salary threshold) or Highly Skilled Professional visa (company sponsorship). This is a shortage occupation, so faster processing.
-
-**问：What certifications are needed to work as a network technician in Spain?**
-答：Cisco CCNA/CCNP are highly valued. FP diploma or computer science degree is common. No mandatory homologación, but recognized degrees help.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

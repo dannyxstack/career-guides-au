@@ -1,61 +1,94 @@
-# Computer Network and Systems Technicians（Computer Network and Systems Technicians）职业分析 · NL
+# Computer Network and Systems Technicians — career analysis · Netherlands
 
-**职业代码：3513 – Computer Network and Systems Technicians。**
+**Occupation code: 3513 (ISCO08)**
 
-Computer network and systems technicians install, maintain, and optimize computer networks and systems, ensuring stable and secure data communication.
+Computer network and systems technicians install, maintain, and optimize an organization's computer networks and systems, ensuring stable and secure data communication.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年（MBO-2至MBO-4） | $1,000~$5,000（每年学费约1000-2000欧元，部分学校免费） |
-| 高等职业教育 (HBO) | 4年（学士） | $2,000~$15,000（非欧盟学生学费约8000-15000欧元/年） |
+| Secondary vocational education (MBO) | 2-4 years (MBO-2 to MBO-4) | $1,000~$5,000 (Annual tuition about 1000-2000 euros, some schools free) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's) | $2,000~$15,000 (Non-EU student tuition approx. 8,000-15,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 思科认证网络工程师 (CCNA) | Cisco | 可选 | 全球认可，入门级网络认证 |
-| compTIA Network+ | CompTIA | 可选 | 基础网络认证，适合初学者 |
-| MBO或HBO信息技术学位 | 荷兰教育机构 | 必备 | 许多雇主偏好相关学历 |
+| MBO or HBO degree in Information Technology | Dutch educational institution | Required | Many employers prefer relevant qualifications |
+| Cisco Certified Network Associate (CCNA) | Cisco | Optional | Globally recognized, entry-level network certification. |
+| compTIA Network+ | CompTIA | Optional | Basic networking certification, suitable for beginners |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。荷兰数字化进程加速，云计算和网络安全需求持续增长，该职业就业前景良好。预计未来五年职位增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. The acceleration of digitalization in the Netherlands has led to growing demand for cloud computing and cybersecurity, offering good employment prospects for this occupation. Job growth of about 5% is expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$70,000 | 税前年薪 |
+| Median salary | $67,382 | Median salary (official: CBS employee median hourly wage €34.1/hour × 1976h annualized, BRC group 0812 Databank- en netwerkspecialisten; P25–P75 €55,130–€79,633, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$70,000 | Annual pre-tax salary |
+| average salary | $48,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技术员可晋升为高级网络管理员或系统架构师，也可转向网络安全或云基础设施专家方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
+
+Junior technicians can advance to senior network administrators or system architects, or pivot to cybersecurity or cloud infrastructure specialist roles.
+
+**Tasks most exposed to AI:**
+
+- Routine network device configuration changes (e.g., VLAN, ACL additions)
+- Template-based network monitoring alarm analysis and preliminary diagnosis
+- Automatic detection of network faults and execution of standard recovery procedures
+- Compliance baseline checks and configuration audit report generation
+
+**Where AI augments the role:**
+
+- Using AI to predict network traffic peaks and automatically adjust bandwidth strategies
+- Designing multi-layer cloud network architectures and optimizing costs with AI assistance
+- Quickly identify abnormal traffic and threats using AI-driven security analysis tools
+- Using large language models to accelerate technical documentation and knowledge base building
+
+**Human moat:**
+
+- Ability to design hybrid networking architectures spanning internal networks and public cloud across regions
+- Customized network solutions based on deep understanding of business needs
+- Emergency decision-making and coordination/public relations skills during large network failures
+- Network audit responsibility under regulatory compliance (e.g., APRA, ISO 27001)
+
+**Skills to build:**
+
+- Python network automation (Netmiko/Nornir)
+- Cloud network certifications (AWS Advanced Networking / Azure Network Engineer)
+- AI/ML fundamentals and network data analysis
+- DevOps-related tools (Ansible, Terraform)
+- Cybersecurity situational awareness and zero-trust architecture
+- Use of AI-assisted network diagnostic tools.
+
+**Key growth areas:**
 
 - Cloud Computing
 - Cybersecurity
@@ -64,69 +97,68 @@ Computer network and systems technicians install, maintain, and optimize compute
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有雇主担保的高技能移民，收入需达到最低门槛（2023年约€5,008/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 面向高学历专业人士，需要工作合同及收入符合要求（2023年约€5,688/月）。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰高校毕业生或世界前200大学毕业生可申请，有效期一年，允许自由求职。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migrants with employer sponsorship, with income meeting the minimum threshold (approximately €5,008/month in 2023). |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and income meeting requirements (approx. €5,688/month in 2023). |
+| Subclass Orientation Year (Zo (Orientation Year) | Open to graduates from Dutch universities or top 200 global universities, valid for one year, allows unrestricted job seeking |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network and Systems Technicians？**
-- 对计算机网络和系统有浓厚兴趣的人
-- 喜欢解决技术问题、动手能力强者
-- 愿意持续学习新技术者
-
-**谁不适合学Computer Network and Systems Technicians？**
-- 不喜欢与人沟通、团队协作能力弱的人
-- 无法适应快速变化的IT环境者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in computer networks and systems
+- Suitable for those who enjoy solving technical problems and have hands-on skills.
+- those willing to continuously learn new technologies
+
+**Who is not suited**
+- Those who dislike communication and have weak teamwork skills
+- Those unable to adapt to a fast-changing IT environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Computer Network and Systems Technician in the Netherlands?**
+A: Entry-level approx. €30,000-€40,000, mid to senior level up to €55,000-€70,000 (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to the Netherlands through this occupation?**
+A: Available via the highly skilled migrant (kennismigrant) or EU Blue Card visa, requiring employer sponsorship and meeting a salary threshold.
+
+**Q: What certifications are required for this occupation?**
+A: Common certifications include CCNA and CompTIA Network+, but not mandatory. Employers typically value relevant work experience or qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Network and Systems Technicians为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Computer Network and Systems Technicians in the Netherlands?**
-答：Entry-level around €30,000-€40,000, senior level can reach €55,000-€70,000 (gross annual).
-
-**问：How can foreigners immigrate to the Netherlands through this occupation?**
-答：Through the Highly Skilled Migrant (kennismigrant) or EU Blue Card visa, requiring employer sponsorship and meeting income thresholds.
-
-**问：What certifications are needed for this occupation?**
-答：Common certifications include CCNA and CompTIA Network+, but not mandatory. Employers value relevant experience or education.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

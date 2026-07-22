@@ -1,61 +1,96 @@
-# Builder's Labourer（Builder's Labourer）职业分析 · 澳大利亚
+# Builder's Labourer — career analysis · Australia
 
-**职业代码：821111 – Builder's Labourer。**
+**Occupation code: 821111 (ANZSCO)**
 
-Builder's Labourers are entry-level manual workers on construction sites, assisting tradespeople with bricklaying, concreting, scaffolding, and general site cleanup. No formal education is required, but good physical fitness is essential.
+Construction workers are entry-level laborers on building sites, assisting tradespeople with tasks such as bricklaying, concreting, and scaffolding. No formal qualifications required, but good physical fitness is needed.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 岗前培训（强制性短期证书） | 2-4周 | $500~$1,500（如White Card（建筑工地安全卡），在线或课堂学习） |
-| 高中毕业 | 12年 | —（公立学校免费，但需完成10年级） |
+| Pre-job training (mandatory short-term certificate) | 2-4 weeks | $500~$1,500 (Such as White Card (construction site safety card), online or classroom learning) |
+| High school graduation | 12 years | $0~$0 (Public schools are free but require completion of Year 10) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑行业白卡（White Card） | SafeWork NSW等各州监管机构 | 必备 | 所有建筑工人必备，证明已完成安全工作培训 |
-| 高空作业证 | RTO注册培训机构 | 可选 | 如需从事高空作业则需持有 |
-| 叉车证 | RTO | 可选 | 操作叉车时需持有 |
+| White Card for Construction Industry | Regulatory Bodies in Each State, Such as SafeWork NSW | Required | Mandatory for all construction workers, proving completion of safety training |
+| Working at heights certificate | RTO registered training organisation | Optional | Required if working at heights |
+| Forklift license | RTO | Optional | Requires a license when operating a forklift |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。受澳洲人口增长和基建投资驱动，建筑行业需求持续旺盛。2023-2028年建筑工人岗位预计增长10%，尤其在住房和基础设施项目多的州。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. Driven by Australia's population growth and infrastructure investment, demand in the construction industry remains strong. Construction worker positions are expected to grow 10% from 2023-2028, especially in states with many housing and infrastructure projects.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-27澳元，含加班 |
-| 中级（3-5年） | $55,000~$65,000 | 时薪约27-32澳元 |
-| 高级（5年以上/主管） | $65,000~$80,000 | 时薪约32-40澳元，含津贴 |
+| Median salary | $95,004 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage about 22-27 AUD, including overtime |
+| Mid-level (3–5 years) | $55,000~$65,000 | Hourly wage approximately AUD 27-32 |
+| Senior (5+ years / supervisor) | $65,000~$80,000 | Hourly rate approximately 32-40 AUD, including allowances |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从工地杂工起步，积累经验后可晋升为特定工种（如砌砖工、木工）的学徒，或成为工地主管。少数人通过创业成立分包公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Automation is reducing construction worker jobs, but AI also creates new opportunities. Physical labor is hard to replace, but repetitive tasks like material handling, measuring, and basic quality control will gradually be taken over by automation tools, increasing competition for entry-level positions.
+
+Typically start as a construction laborer, gain experience, then advance to an apprenticeship in a specific trade (e.g., bricklayer, carpenter), or become a site supervisor. A few start their own subcontracting companies.
+
+**Tasks most exposed to AI:**
+
+- Material handling and supply: AI scheduling and AGVs replace manual material transport
+- Basic measurement and setting out: laser distance meters and automatic layout robots replace manual measurement
+- Concrete vibration and leveling: automated vibration robots and laser screed machines replace manual operations
+- Scaffolding and formwork inspection: AI vision system checks safety standards, reducing manual inspections
+- Waste sorting: AI recognition and sorting robots replace manual sorting
+
+**Where AI augments the role:**
+
+- Safety monitoring: AI cameras and wearable devices monitor worker status in real time, providing early risk warnings.
+- Progress tracking: AI analysis of site images automatically updates project progress, aiding management decisions.
+- Quality inspection: AI image recognition assists in detecting defects in bricklaying, welding, etc., improving accuracy
+- Tool management: AI inventory systems predict tool demand, reducing idle time and loss
+- Training support: AR/VR simulates complex operations, accelerating new workers' skill acquisition
+
+**Human moat:**
+
+- Fine manual dexterity: handling unstructured on-site unexpected situations
+- Teamwork and communication: flexibly cooperate with different trades, understand verbal instructions
+- Health and safety judgment: identifying dynamic risks such as weather and equipment anomalies.
+- Physical strength and endurance: sustaining high-intensity labor in complex environments
+
+**Skills to build:**
+
+- Operate automatic bricklaying machines, concrete leveling machines, and other smart equipment
+- Basic digital literacy: using construction management apps, reading digital blueprints
+- BIM Basics: Understanding Building Information Modeling to Assist On-Site Construction
+- Security Monitoring System Operation: Understand AI alerts and response processes
+- Scaffold and formwork practical skills: preparing for automated inspection
+- English communication: meets international construction site collaboration requirements
+
+**Key growth areas:**
 
 - infrastructure boom
 - residential construction
@@ -64,62 +99,64 @@ Builder's Labourers are entry-level manual workers on construction sites, assist
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但建筑工人不在中长期职业清单上，仅适用于劳工协议等狭窄路径 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，同样依赖劳工协议，极少获批 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship required, but construction workers are not on the Medium‑ and Long‑term Strategic Skills List (MLTSSL), only available through narrow pathways like labour agreements. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency also relies on labor agreements, and approvals are rare |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Builder's Labourer？**
-- 身体健康、吃苦耐劳者
-- 希望快速进入就业市场、无学历要求者
-- 善于团队合作、听从指令者
+**Who is suited**
+- People who are physically healthy and hardworking
+- Those wanting to quickly enter the job market with no academic qualification requirements
+- Good team player and able to follow instructions
 
-**谁不适合学Builder's Labourer？**
-- 不喜体力劳动、户外工作者
-- 追求高薪和白领工作环境者
+**Who is not suited**
+- Those who dislike physical labour or outdoor work
+- Those seeking high salary and white-collar work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of construction workers?**
+A: Annual salary for junior workers is approximately A$45,000-55,000, mid-level A$55,000-65,000, and senior supervisors up to A$80,000. Overtime and allowances can increase earnings.
+
+**Q: Can construction workers migrate to Australia through skilled migration?**
+A: Almost impossible. This occupation is not on any skilled occupation list and can only be applied for through employer-sponsored labour agreements (e.g. DAMA), with extremely high thresholds and rare opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Builder's Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Builder's Labourer?**
-答：Entry-level workers earn AUD 45,000-55,000, mid-level AUD 55,000-65,000, and senior/supervisors up to AUD 80,000 per year. Overtime and allowances can increase earnings.
-
-**问：Can a Builder's Labourer migrate to Australia via skilled visa?**
-答：Almost impossible. The occupation is not on any skilled occupation list. Only limited pathways exist under labour agreements (e.g., DAMA) with high barriers.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Hire services managers and proprietors（Hire services managers and proprietors）职业分析 · UK
+# Hire services managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1257 – Hire services managers and proprietors。**
+**Occupation code: 1257 (SOC)**
 
-Hire services managers plan, organise and direct the activities of businesses that hire out goods and services such as tools, heavy machinery and vehicles, ensuring customer satisfaction and profitability.
+A rental services manager plans, organizes, and directs the operations of renting tools, heavy machinery, vehicles, etc., ensuring customer satisfaction and business profitability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 无需 | —（在职培训为主） |
-| 商业或管理相关本科 | 3年 | $9,000~$15,000（英格兰本科年费） |
-| 管理文凭或NVQ | 1-2年 | $2,000~$5,000（部分在职学习） |
+| High school graduation | None | $0~$0 (On-the-job training primarily) |
+| Bachelor's degree in business or management related field | 3 years | $9,000~$15,000 (Annual undergraduate tuition in England) |
+| Diploma in Management or NVQ | 1-2 years | $2,000~$5,000 (Part-time on-the-job study) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业管理学位 | 英国大学 | 可选 | 常见相关学位，非强制 |
-| NVQ 管理文凭 | City & Guilds | 可选 | 职业资格，提升竞争力 |
-| 健康与安全证书 | NEBOSH 或 IOSH | 必备 | 租赁设备安全需持有 |
+| Health and safety certificate | NEBOSH or IOSH | Required | Must hold for leased equipment safety |
+| Business Management Degree | UK universities | Optional | Common related degree, not mandatory |
+| NVQ Management Diploma | City & Guilds | Optional | Professional qualifications enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。英国租赁服务行业受建筑、物流和活动行业需求驱动，预计未来几年保持稳定增长，但受经济波动影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The UK rental service industry is driven by demand from construction, logistics, and events sectors, expected to maintain stable growth in coming years, though subject to economic fluctuations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理或小型租赁公司 |
-| 中级（3-7年） | $28,000~$40,000 | 中型租赁公司经理 |
-| 高级（7年以上） | $40,000~$60,000 | 大型租赁公司高级经理或区域总监 |
+| Median salary | $31,626 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant or small rental company |
+| Mid-level (3–7 years) | $28,000~$40,000 | Manager of a mid-sized rental company |
+| Senior (7+ years) | $40,000~$60,000 | Senior manager or regional director at large rental companies |
+| average salary | $44,857 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从租赁助理或运营主管晋升为区域经理或业务开发总监，积累客户关系和行业知识是关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Can advance from rental assistant or operations supervisor to regional manager or business development director; building client relationships and industry knowledge is key.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Equipment Rental
 - Construction
@@ -63,68 +99,67 @@ Hire services managers plan, organise and direct the activities of businesses th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足最低薪资要求（通常£26,200/年）且雇主有担保资质可申请 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可获2年工作签证，积累管理经验 |
-| Subclass Global Talent（Global Talent visa） | 不适用，除非在商业管理领域有突出成就 |
+| Subclass Skilled Worker (Skilled Worker visa) | Meets minimum salary requirement (usually £26,200/year) and employer has sponsorship license to apply |
+| Subclass Graduate (Graduate visa) | UK graduates can get a 2-year work visa to gain management experience |
+| Subclass Global Talent (Global Talent visa) | Not applicable unless outstanding achievements in business management |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hire services managers and proprietors？**
-- 有客户服务和销售背景的人
-- 对租赁行业（如工具、车辆）感兴趣的人
-- 喜欢管理团队和日常运营的人
-
-**谁不适合学Hire services managers and proprietors？**
-- 不喜欢面对客户投诉的人
-- 不愿意处理行政和财务事务的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with customer service and sales backgrounds
+- People interested in the rental industry (e.g., tools, vehicles)
+- People who enjoy managing teams and daily operations.
+
+**Who is not suited**
+- Not suitable for those who dislike dealing with customer complaints
+- People unwilling to handle administrative and financial tasks.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a rental service manager?**
+A: Entry-level approximately £22,000-28,000, mid-level £28,000-40,000, senior up to £40,000-60,000, depending on company size and experience.
+
+**Q: Can overseas people come to Australia for this occupation through a skilled worker visa?**
+A: Yes, but requires employer sponsorship and meeting a salary threshold (typically £26,200/year). This occupation is not on the shortage occupation list, and competition is relatively high.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Yes, can be promoted from regional manager to operations director or business development director, or start your own rental company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hire services managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for hire services managers?**
-答：Entry-level £22,000-£28,000, mid-level £28,000-£40,000, senior £40,000-£60,000, depending on company size and experience.
-
-**问：Can overseas workers get a Skilled Worker visa for this role?**
-答：Yes, with employer sponsorship and meeting the salary threshold (usually £26,200/year). It's not on the shortage list so competition exists.
-
-**问：Is there career progression?**
-答：Yes, you can progress to regional manager, operations director, or start your own hire business.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Cuisine Manager（Cuisine Manager）职业分析 · FR
+# Cuisine Manager — career analysis · France
 
-**职业代码：G1601 – Cuisine Manager。**
+**Occupation code: G1601 (ROME)**
 
-Cuisine Manager oversees kitchen teams in restaurants, hotels, or collective catering, managing sourcing, menu design, cost control, hygiene, and staff scheduling to ensure efficient kitchen operations and quality standards.
+The kitchen supervisor manages the kitchen teams in restaurants, hotels, or group catering settings, overseeing ingredient procurement, menu design, cost control, food hygiene, and staff scheduling to ensure efficient kitchen operations and meet quality standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 烹饪 | 2年 | —（公立 CFA 免费，私立约 3000€） |
-| BTS 酒店餐饮管理 | 2年 | —（公立免费，私立 2000-5000€/年） |
-| Licence 酒店管理 | 3年 | —（公立大学约 0-3000€，私立 3000-6000€/年） |
+| CAP cooking | 2 years | $0~$3,000 (Public CFA is free, private is about €3000) |
+| BTS Hotel Food and Beverage Management | 2 years | $0~$5,000 (Public is free, private is 2000-5000€/year) |
+| Licence Hotel Management | 3 years | $0~$6,000 (Public universities cost about €0-3000, private ones €3000-6000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HACCP 卫生认证 | 专业培训机构 | 必备 | 食品卫生安全强制认证，需每5年更新 |
-| CAP Cuisine | 法国教育部 | 可选 | 基础烹饪文凭，行业入门证书 |
-| BTS Management en Hôtellerie-Restauration | 法国教育部 | 可选 | 酒店餐饮管理文凭，有助于管理岗位 |
+| HACCP hygiene certification | Professional training institutions | Required | Mandatory food hygiene and safety certification must be renewed every five years |
+| CAP Cuisine | French Ministry of Education | Optional | Basic culinary diploma, industry entry certificate |
+| BTS Management en Hôtellerie-Restauration | French Ministry of Education | Optional | A diploma in hotel and catering management helps with management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★½☆）。** 全国从业人数约 28,000。法国餐饮业持续复苏，高品质餐饮和集体餐饮需求稳定，但竞争激烈。职位多集中于大城市及旅游区，就业机会良好，但对经验和管理能力要求较高。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. France's catering industry continues to recover, with stable demand for high-quality and collective dining, but fierce competition. Most positions are concentrated in major cities and tourist areas, offering good employment opportunities but requiring high experience and management skills.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，视餐厅档次和城市而定 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，包括奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，高端餐饮或行政总厨可达更高 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary depends on the restaurant's grade and city |
+| Mid-level (3–7 years) | $30,000~$38,000 | Pre-tax annual salary, including bonuses |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, with higher salaries for high-end restaurants or executive chefs |
+| average salary | $29,424 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从厨师起步，晋升为副厨师长、厨师长，再至厨房主管。后期可发展为行政总厨或餐饮总监，也可自主创业开设餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Usually, they start as chefs, advance to sous chef, head chef, and finally head kitchen supervisor. Later, they can develop into executive chefs or food and beverage directors, or start their own restaurants.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Cuisine management
 - Catering industry
@@ -63,68 +99,67 @@ Cuisine Manager oversees kitchen teams in restaurants, hotels, or collective cat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪职位（年薪≥53,955€），但厨房主管薪资通常不达标，仅高端厨房可达。 |
-| Subclass Passeport Talent（Talent Passport） | 需证明知名餐厅或星级厨房工作经历，适合顶尖厨师，有简化流程。 |
-| Subclass Salarié（Salaried Employee） | 标准工作许可，需雇主证明职位无法从欧盟市场招聘，通过 DIRECCTE 审核。 |
+| Subclass Carte bleue UE (EU Blue Card) | This applies to high-paying positions (annual salary ≥ 53,955€), but kitchen supervisor salaries usually fall short of the standard, only accessible in high-end kitchens. |
+| Subclass Passeport Talent (Talent Passport) | Must demonstrate experience working in well-known restaurants or star-rated kitchens, suitable for top chefs, with streamlined procedures. |
+| Subclass Salarié (Salaried Employee) | Standard work permit, requiring employer certification that the position cannot be recruited from the EU market, and must pass DIRECCTE review. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cuisine Manager？**
-- 有多年厨房工作经验并希望晋升管理的厨师
-- 热爱餐饮业、擅长团队协调的资深厨师
-- 愿意接受高强度工作节奏的职业餐饮人
-
-**谁不适合学Cuisine Manager？**
-- 追求朝九晚五、生活规律的人
-- 不善人际沟通和压力管理的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Chefs with many years of kitchen experience and those hoping to advance to management
+- A seasoned chef passionate about the food and beverage industry and skilled in team coordination
+- Professional restaurateurs willing to accept a high-intensity work pace
+
+**Who is not suited**
+- People who pursue a nine-to-five, regular lifestyle
+- People who are poor at interpersonal communication and stress management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for kitchen supervisors in France?**
+A: Entry-level: approximately EUR 24,000-28,000, mid-level EUR 30,000-38,000, senior EUR 40,000-55,000 (pre-tax annual salary). High-end restaurants or star hotels may offer more.
+
+**Q: How can Chinese chefs immigrate to France to become kitchen supervisors?**
+A: You can use a Salarié work permit or Passeport Talent passport, which requires the employer to provide a long-term contract proving they cannot recruit EU personnel. It is recommended to obtain a CAP or BTS diploma and gain experience in star-rated restaurants.
+
+**Q: What mandatory certifications are required for French kitchen supervisors?**
+A: HACCP health accreditation is mandatory and must be completed and assessed at a training institution recognized in France. Additionally, CAP Cuisine or equivalent experience is usually expected by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等偏高（★★★½☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cuisine Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a Cuisine Manager in France?**
-答：Entry-level: €24,000-28,000, mid-level: €30,000-38,000, senior: €40,000-55,000 gross per year. Higher in fine dining or luxury hotels.
-
-**问：How can a Chinese chef immigrate to France as a Cuisine Manager?**
-答：Via a Salarié work permit or Passeport Talent, requiring a long-term job offer and proof of EU labor shortage. CAP/BTS diploma and fine-dining experience are beneficial.
-
-**问：What mandatory certifications are required for Cuisine Manager in France?**
-答：Mandatory HACCP hygiene certification from a recognized French training provider. CAP Cuisine or equivalent experience is commonly expected by employers.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Commodities Trader（Commodities Trader）职业分析 · 澳大利亚
+# Commodities Trader — career analysis · Australia
 
-**职业代码：222111 – Commodities Trader。**
+**Occupation code: 222111 (ANZSCO)**
 
-Commodities traders buy and sell raw materials (e.g., grains, metals, energy) on financial or physical markets, profiting from analysis of supply-demand trends, price volatility, and macroeconomic factors. They trade futures, options, and spot contracts for banks, trading firms, or mining companies.
+Commodity traders buy and sell commodities (e.g., grains, metals, energy) on financial or physical markets, profiting from analyzing supply-demand trends, price fluctuations, and macroeconomic factors. Work covers futures, options, spot trading, etc., often employed by banks, trading firms, or mining companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（商科/金融/经济） | 3年 | $30,000~$45,000（澳洲本科国际生学费年均约3-4.5万澳元） |
-| 硕士（金融/应用金融） | 1.5-2年 | $40,000~$55,000（硕士学费年均约4-5.5万澳元） |
+| Bachelor's degree (business/finance/economics) | 3 years | $30,000~$45,000 (Average annual tuition for international undergraduate students in Australia: approx AUD 30,000-45,000) |
+| Master's (Finance / Applied Finance). | 1.5-2 years | $40,000~$55,000 (Master's tuition averages about 40,000-55,000 AUD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融/经济学学士学位 | 澳洲大学 | 可选 | 大部分雇主要求相关学位 |
-| RG 146合规资格 | 金融顾问协会或经批准的培训机构 | 必备 | 提供金融产品建议必需，交易员常需 |
-| 金融市场交易员技能评估 | VETASSESS（用于移民） | 必备 | 技术移民需通过职业评估 |
+| RG 146 compliance qualification | Financial Adviser Association or approved training provider | Required | Providing financial product advice required; traders often need it. |
+| Financial market trader skills assessment | VETASSESS (for migration) | Required | Skilled migration requires a skills assessment |
+| Bachelor's degree in Finance/Economics | Australian universities | Optional | Most employers require a relevant degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。澳洲大宗商品行业受全球需求（尤其中国、印度）影响大，预计未来5年就业缓慢增长。资源与农业部门持续就业机会，但自动化与算法交易可能减少传统交易员岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Australia's commodity industry is heavily influenced by global demand (especially from China and India), with slow employment growth expected over the next 5 years. Ongoing job opportunities exist in the resources and agriculture sectors, but automation and algorithmic trading may reduce traditional trader roles.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$100,000 | 基本薪资，不含奖金 |
-| 中级（3-7年） | $100,000~$180,000 | 含绩效奖金，弹性大 |
-| 高级（7年以上） | $180,000~$350,000 | 含高额奖金，顶尖交易员收入更高 |
+| Median salary | $133,952 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$100,000 | Base salary, excluding bonuses |
+| Mid-level (3–7 years) | $100,000~$180,000 | Includes performance bonuses, highly variable |
+| Senior (7+ years) | $180,000~$350,000 | Includes high bonuses, top traders earn more. |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级交易员可从分析员或交易助理起步，积累客户与市场经验后晋升为独立交易员。资深交易员可升任部门主管、基金经理或自营交易合伙人。部分人转向风险管理或商品研究。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will greatly improve data analysis and information integration efficiency for commodity traders, but trading core relies on connections, intuition, and risk management; automation cannot fully replace it—mixed outlook.
+
+Junior traders can start as analysts or trading assistants, then advance to independent traders after gaining client and market experience. Senior traders can become department heads, fund managers or proprietary trading partners. Some move into risk management or commodity research.
+
+**Tasks most exposed to AI:**
+
+- Market data collection and preliminary trend analysis (e.g., supply-demand reports, economic indicator compilation)
+- Basic trade execution and market monitoring (algorithmic trading takes over routine orders)
+- Real-time monitoring of simple price pattern recognition and arbitrage opportunities
+- Generate standardized transaction reports and compliance documentation
+
+**Where AI augments the role:**
+
+- Using AI models to predict price trends and risk exposure (e.g., machine learning volatility models)
+- Automated backtesting of trading strategies and parameter optimization
+- Real-time public opinion analysis and news sentiment monitoring to assist decision-making
+- Personalised risk management dashboard and anomaly alert system
+
+**Human moat:**
+
+- Complex negotiations and counterparty relationship management (e.g., long-term contract terms negotiation)
+- Interpreting unstructured information (e.g., the actual impact of geopolitical events on commodities)
+- Intuitive judgment of market psychology and herd behavior
+- Risk decision-making and stop-loss courage under extreme market conditions
+- Cross-commodity and cross-market multi-leg arbitrage strategy design
+
+**Skills to build:**
+
+- Python programming and data science (Pandas, Scikit-learn)
+- Machine learning practice (time series forecasting, reinforcement learning)
+- Advanced derivative pricing models (Monte Carlo simulation, stochastic calculus)
+- Natural language processing for news sentiment analysis
+- Cloud Computing and Big Data Platforms (AWS/Azure)
+- Blockchain and product traceability technology basics
+
+**Key growth areas:**
 
 - Commodity Markets
 - Trading
@@ -62,68 +96,67 @@ Commodities traders buy and sell raw materials (e.g., grains, metals, energy) on
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 技术独立移民，需职业在MLTSSL列表上。222111在MLTSSL，可申请189。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保移民，需职业在州担保紧缺列表上。常见于新州、西澳、昆州。 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需雇主担保。222111在CSOL上，可转186永居。 |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent migration requiring the occupation to be on the MLTSSL. 222111 is on the MLTSSL and eligible for visa 189. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored migration, requires the occupation to be on the state's skilled shortage list. Common in NSW, WA, QLD. |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires employer sponsorship. 222111 is on CSOL and can transition to 186 permanent residency. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commodities Trader？**
-- 具备量化与数据分析能力者
-- 对大宗商品市场（能源/矿产/农业）有浓厚兴趣
-- 抗压且能在快速变化环境中果断决策
-
-**谁不适合学Commodities Trader？**
-- 厌恶风险或无法承受高强度压力
-- 缺乏金融和市场基础知识
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with quantitative and data analysis skills
+- Strong interest in commodity markets (energy/minerals/agriculture)
+- Able to handle pressure and make decisive decisions in a fast-changing environment
+
+**Who is not suited**
+- Risk-averse or unable to handle high-pressure situations
+- Lacks financial and marketing fundamentals
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary of a commodity trader structured?**
+A: Salary usually consists of base pay plus performance bonus; junior traders' bonuses account for about 30-50%, senior traders' bonuses can be several times base pay. Top traders can earn over a million AUD annually.
+
+**Q: Can a commodity trader migrate to Australia through skilled migration?**
+A: Yes, ANZSCO 222111 is on the MLTSSL list, and you can apply for 189 Skilled Independent visa, 190 State Nominated visa, or 482 Employer Sponsored visa with transition to 186 Permanent Residence. It requires a VETASSESS skills assessment, usually with at least 1 year of relevant work experience.
+
+**Q: How to become a commodity trader?**
+A: Typically requires a bachelor's degree in finance, economics, or business; enter a bank or trading firm as an analyst or trading assistant, gradually gain market experience and trading authority. Obtain RG 146 and other compliance qualifications, build industry networks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Commodities Trader的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is a commodities trader's salary structured?**
-答：Salary typically consists of a base plus performance bonus. For junior traders, bonuses account for 30-50%; for senior traders, bonuses can be multiples of base. Top traders can earn over AUD 1 million.
-
-**问：Can commodities traders migrate to Australia via skilled migration?**
-答：Yes, ANZSCO 222111 is on the MLTSSL, eligible for 189, 190, 482 → 186. Must pass VETASSESS skills assessment and usually have at least 1 year of relevant experience.
-
-**问：How to become a commodities trader?**
-答：Typically requires a bachelor's in finance, economics, or business. Start as an analyst or trading assistant at a bank or trading firm, gain market experience, obtain RG 146 compliance, and build industry networks.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

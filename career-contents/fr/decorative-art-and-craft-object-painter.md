@@ -1,62 +1,97 @@
-# Decorative Art and Craft Object Painter（Decorative Art and Craft Object Painter）职业分析 · FR
+# Decorative Art and Craft Object Painter — career analysis · France
 
-**职业代码：B1302 – Decorative Art and Craft Object Painter。**
+**Occupation code: B1302 (ROME)**
 
-Decorates art and craft objects using techniques like painting, gilding, and ceramic painting; restores and creates decorative items.
+Engaged in surface decoration of arts and crafts, including traditional techniques such as painting, gilding, stained glass, ceramic painting, and restoration or creation of decorative objects.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 艺术与手工艺装饰 | 2年（CAP） | —（公立学校免学费，材料费约1000-3000欧元） |
-| BMA 艺术工艺文凭 | 2年（BMA） | —（公立学校免学费，材料费约2000-4000欧元） |
-| DNAT/DNSEP 艺术设计文凭 | 3-5年（DNAT/DNSEP） | —（公立美院免学费，注册费约1000欧元，材料费自理） |
+| CAP Arts and Handicrafts Decoration | 2 years (CAP) | $0~$3,000 (Public schools are free of tuition, with material fees around 1000-3000 euros) |
+| BMA Diploma in Arts and Crafts | 2 years (BMA) | $0~$4,000 (Public schools are free of charge, with material fees ranging from 2000 to 4000 euros) |
+| DNAT/DNSEP Diploma in Art Design | 3-5 years (DNAT/DNSEP) | $0~$8,000 (Public art academies are free of charge, with a registration fee of about 1000 euros, and materials paid by the applicant) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 装饰艺术 | 法国教育部 | 必备 | 入门级职业资格，从事装饰工作必备 |
-| BMA 艺术工艺证书 | 法国教育部 | 可选 | 高级职业文凭，提升专业认可度 |
-| 专业经验认证 (VAE) | 法国成人职业培训协会 | 可选 | 通过经验申请资格认证，非强制但有用 |
+| CAP Art Deco | French Ministry of Education | Required | Entry-level professional qualification, essential for decoration work |
+| BMA Certificate of Arts and Crafts | French Ministry of Education | Optional | Advanced Professional Diploma to enhance professional recognition |
+| Professional Experience Certification (VAE) | French Adult Vocational Training Association | Optional | Applying for qualification certification through experience is not mandatory but useful |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,500。法国手工艺产业受旅游和奢侈品市场支撑，但就业机会有限，竞争激烈。可持续的需求来自高端定制和修复领域，但整体岗位增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,500. The French handicraft industry is supported by tourism and luxury markets, but job opportunities are limited and competition is fierce. Sustainable demand comes from high-end customization and restoration, but overall job growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，手工艺行业起薪较低 |
-| 中级（4-7年） | $24,000~$30,000 | 税前年薪，有经验的工匠收入提升 |
-| 高级（8年以上） | $30,000~$40,000 | 税前年薪，独立艺术家或修复专家可更高 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Pre-tax annual salary: the handicraft industry has relatively low starting salaries |
+| Mid-level (4-7 years) | $24,000~$30,000 | Pre-tax annual salary, and experienced craftsmen earn higher incomes |
+| Senior (8+ years) | $30,000~$40,000 | Pre-tax annual salaries, while independent artists or restoration specialists can be higher |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从学徒（CAP）起步，可晋升为高级工匠或工作室主管。少数优秀者可成为独立艺术家或修复专家，但职业晋升空间较窄。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will enhance communication between design ideas and clients, but will take over a large number of standardized decoration tasks (such as repetitive pattern drawing); Entry-level positions have expanded due to tool democratization, but high-end customization and restoration still rely on human craftsmanship.
+
+Starting as an Apprentice (CAP), you can be promoted to Senior Craftsman or Workshop Supervisor. A few outstanding individuals can become independent artists or restoration specialists, but career advancement opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Repetitive pattern drawing and batch color filling
+- Pretreatment of basic gold plating and gold foil
+- Template generation and engraving of standard geometric patterns
+- Simple stained glass color schemes and sketch drawing
+- Analyze customer requirements and generate preliminary design proposals
+
+**Where AI augments the role:**
+
+- Quickly generate a variety of decoration options for customers to choose from using generative AI
+- AI analyzes historical style data to assist vintage decoration restoration
+- AI image recognition is used to assist in evaluating the age and craftsmanship of antique items
+- Combined with AI-driven automation equipment (such as inkjet printers), large-area base color spraying is achieved
+- Enhance customer engagement by previewing decoration effects with AR/VR
+
+**Human moat:**
+
+- Handcrafted Touch and Fine Control (such as gold leaf gloss control)
+- A deep understanding of historical styles and culture, along with original interpretations
+- Repair judgments for non-standard, irregular, or damaged items
+- Build trust with clients and capture their personalized aesthetic needs
+
+**Skills to build:**
+
+- Digital design software (such as Procreate, Adobe Illustrator)
+- Generative AI tools (such as DALL· E. Midjourney) is used for quick creative drafts
+- 3D modeling and rendering technologies (such as Blender, SketchUp) assist in previewing
+- Materials Science Knowledge (Pigments, Gold Leaf, Glaze Properties)
+- Project management and client communication skills
+- Traditional craft techniques (at least one advanced technique, such as ceramic painting)
+
+**Key growth areas:**
 
 - Slow growth
 - Luxury market
@@ -65,65 +100,67 @@ Decorates art and craft objects using techniques like painting, gilding, and cer
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee） | 受雇于法国公司，工作合同，需获得工作许可 |
-| Subclass Passeport Talent（Talent Passport） | 适合杰出艺术家或高技能人才，需证明成就或项目 |
+| Subclass Salarié (Employee) | Employed by a French company, work contract, and a work permit required |
+| Subclass Passeport Talent (Talent Passport) | Suitable for outstanding artists or highly skilled talents, requiring proof of achievement or project |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Decorative Art and Craft Object Painter？**
-- 热爱手工艺和艺术创作，有耐心的人
-- 愿意接受低薪资但追求职业成就感的人
-- 有法国艺术教育背景或学徒经历的人
+**Who is suited**
+- A patient person who loves crafts and artistic creation
+- People willing to accept low salaries but pursue a sense of professional achievement
+- Those with a background in French art education or apprenticeship experience
 
-**谁不适合学Decorative Art and Craft Object Painter？**
-- 希望高薪或快速晋升的人
-- 语言能力弱或缺乏法国文化适应力的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People with weak language skills or who lack adaptation to French culture
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for art decor?**
+A: Junior annual salary about 20,000-24,000 euros, mid-to-senior up to 30,000-40,000 euros, but income for independent artists fluctuates greatly.
+
+**Q: Is it easy for non-EU citizens to immigrate to France for this profession?**
+A: It is relatively difficult because the position is not in short supply, employer sponsorship is low, and French proficiency is required. The Talent Passport pathway requires outstanding achievements.
+
+**Q: What qualifications are needed to work?**
+A: CAP or BMA diploma is usually required, but experience can also be accredited by VAE. Non-French diplomas require qualification certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Decorative Art and Craft Object Painter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a decorative art painter?**
-答：Entry-level annual salary is around €20,000-24,000, mid-level up to €30,000, and senior artisans can earn €40,000 or more.
-
-**问：Is it easy for non-EU citizens to immigrate for this job?**
-答：It's difficult as the occupation is not in shortage, employer sponsorship is limited, and French proficiency is required. The Talent Passport requires outstanding achievements.
-
-**问：What qualifications are needed to work?**
-答：Usually CAP or BMA diploma, but experience can be certified via VAE. Non-French diplomas require qualification recognition.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

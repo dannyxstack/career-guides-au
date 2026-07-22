@@ -1,61 +1,93 @@
-# Earth Drillers, Except Oil and Gas（Earth Drillers, Except Oil and Gas）职业分析 · 美国
+# Earth Drillers, Except Oil and Gas — career analysis · United States
 
-**职业代码：47-5023 – Earth Drillers, Except Oil and Gas。**
+**Occupation code: 47-5023 (SOC)**
 
-Operate rotary, churn, and pneumatic drills to tap subsurface water and salt deposits, extract core samples, and facilitate explosives use in mining or construction, including horizontal boring.
+Operate rotary drills, percussion drills, pneumatic drills, etc., to drill groundwater and salt mines, collect core or soil samples, supporting mining and construction.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无需高等教育 | —（部分雇主提供在职培训） |
-| 职业培训或学徒制 | 1-2年 | $5,000~$20,000（包括钻探技术证书、操作技能培训） |
+| High school diploma or equivalent | No higher education required | $0~$0 (Some employers offer on-the-job training) |
+| Vocational training or apprenticeship. | 1-2 years | $5,000~$20,000 (Including drilling technology certificate, operational skills training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾照 (CDL) | 各州机动车辆管理局 | 必备 | 运输钻探设备所需，部分雇主强制要求 |
-| 安全培训证书 (如OSHA 30) | 职业安全与健康管理局（OSHA） | 必备 | 遵守施工安全规定，多数雇主要求 |
-| 钻探设备操作认证 | 国家钻探协会（NDWA）等 | 可选 | 非强制但提升就业竞争力 |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Required | Required for transporting drilling equipment; mandatory for some employers |
+| Safety training certificate (e.g., OSHA 30) | Occupational Safety and Health Administration (OSHA) | Required | Follow construction safety regulations, required by most employers |
+| Drilling equipment operation certification. | National Drilling Association (NDWA), etc. | Optional | Not mandatory but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 14,000。受基础设施建设和矿业复苏推动，未来十年就业预计保持稳定。年均约200个岗位空缺，主要用于替代退休人员。受建筑周期影响较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 14,000. Driven by infrastructure construction and mining recovery, employment is projected to remain stable over the next decade, with about 200 annual job openings primarily to replace retirees. Subject to construction cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 多为助手或初级操作员 |
-| 中级（3-6年） | $45,000~$60,000 | 具备独立操作能力 |
-| 高级（6年以上） | $60,000~$80,000 | 含主管、特殊技能操作员 |
+| Median salary | $60,190 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Mostly assistants or junior operators |
+| Mid-level (3–6 years) | $45,000~$60,000 | Capable of independent operation. |
+| Senior (6+ years) | $60,000~$80,000 | Includes supervisors, special skills operators |
+| average salary | $62,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从钻探助手（钻工）起步，积累经验后可晋升为高级钻探工或钻探主管。部分转向设备销售、培训或项目管理。野外作业经验是核心资本。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
+
+Start as a drilling assistant (driller), gain experience, and advance to senior driller or drilling supervisor. Some transition to equipment sales, training, or project management. Field experience is key capital.
+
+**Tasks most exposed to AI:**
+
+- Drill start-stop and feed pressure etc. repetitive operations taken over by automation control system
+- Drill pipe connection/disconnection tasks replaced by remote-controlled robotic arms
+- Manual recording of basic data such as hole depth and rotation speed replaced by automatic sensor uploads
+- Preliminary identification of standard geological profiles completed by AI lithology recognition algorithms
+
+**Where AI augments the role:**
+
+- AI geological modeling assists in optimizing drill hole layouts and drilling parameters
+- Real-time vibration/torque data analysis to predict drill bit wear and downhole incidents
+- AR glasses overlay geological cross-sections to enhance core sample accuracy
+- Digital twin simulation of different drilling strategies in various strata to aid decisions
+
+**Human moat:**
+
+- On-site emergency judgment and handling of complex strata (fracture zones, water-bearing layers)
+- Team safety supervision and emergency communication coordination
+- Flexible repair and spare parts management for drilling rig mechanical failures
+- Experiential intuition in cross-trade collaboration (e.g., drill bit selection and cost trade-offs)
+
+**Skills to build:**
+
+- Fault diagnosis of hydraulic and electrical control systems
+- Basic sensor data interpretation and visualization
+- Remote operation and use of digital twin platforms
+- Rock and mineral identification and well log interpretation
+- WHS risk management (for automation collaborative safety)
+
+**Key growth areas:**
 
 - Infrastructure
 - Mining
@@ -64,64 +96,66 @@ Operate rotary, churn, and pneumatic drills to tap subsurface water and salt dep
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B非农业临时工人） | 部分季节性或临时钻探项目可使用，但非永久途径。 |
+| Subclass H-2B (H-2B non-agricultural temporary worker) | Can be used for some seasonal or temporary drilling projects, but not a permanent route. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Earth Drillers, Except Oil and Gas？**
-- 能适应户外高强度体力劳动，不介意恶劣天气和偏远工作地点
-- 具备机械操作兴趣和基本维修能力
-- 注重安全规范，愿意接受重复性工作任务
+**Who is suited**
+- Able to handle outdoor high-intensity physical labor, not bothered by bad weather or remote work locations
+- Interest in mechanical operation and basic repair skills
+- Focus on safety regulations, willing to accept repetitive tasks
 
-**谁不适合学Earth Drillers, Except Oil and Gas？**
-- 无法接受长时间站立和手部振动等身体不适
-- 对环境和职业流动性要求高，不愿频繁出差或搬迁
+**Who is not suited**
+- Unable to tolerate prolonged standing and hand vibration discomfort
+- High demand for environment and occupational mobility, unwilling to travel or relocate frequently
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a driller?**
+A: 2023 BLS data shows median annual salary of about $48,000, junior about $35,000, senior up to $80,000.
+
+**Q: Can a driller immigrate to the US via H-1B work visa?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and employer-sponsored immigration is almost impossible. Only a few temporary work visa (H-2B) opportunities exist, but no green card path.
+
+**Q: What certifications are required to become a driller?**
+A: Typically requires a commercial driver's license (CDL) and OSHA safety training certificate. Professional drilling certifications (e.g., NDWA) are not mandatory but helpful for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Earth Drillers, Except Oil and Gas属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for earth drillers?**
-答：BLS 2023 reports median annual wage around $48,000; entry-level $35,000, experienced up to $80,000.
-
-**问：Can earth drillers immigrate via H-1B visa?**
-答：Unlikely. This occupation does not qualify as specialty occupation for H-1B, and employer-sponsored green card is almost impossible. Only H-2B temporary work may be available.
-
-**问：What certifications are required for earth drillers?**
-答：Commercial driver's license (CDL) and OSHA safety training are commonly required. Professional drilling certifications (e.g., NDWA) are optional but beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

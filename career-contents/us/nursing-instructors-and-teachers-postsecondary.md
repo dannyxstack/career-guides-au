@@ -1,59 +1,92 @@
-# Nursing Instructors and Teachers, Postsecondary（Nursing Instructors and Teachers, Postsecondary）职业分析 · 美国
+# Nursing Instructors and Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1072 – Nursing Instructors and Teachers, Postsecondary。**
+**Occupation code: 25-1072 (SOC)**
 
-Demonstrate and teach patient care in classroom and clinical units to nursing students, including those who do a combination of teaching and research.
+Demonstrate and teach patient care knowledge to nursing students in academic and clinical settings, including positions that combine teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 护理学硕士（MSN） | 2年 | $30,000~$80,000（公立大学较低，私立较高） |
-| 护理学博士（PhD/DNP） | 3-4年 | $60,000~$150,000（博士学位在高校中更受青睐） |
+| Master of Science in Nursing (MSN) | 2 years | $30,000~$80,000 (Lower at public universities, higher at private ones) |
+| Doctor of Nursing (PhD/DNP) | 3-4 years | $60,000~$150,000 (Doctoral degrees are more valued in universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护士（RN）执照 | 州护理委员会 | 必备 | 所有州要求持有有效RN执照 |
-| 硕士学位 | 认证大学 | 必备 | 通常需要护理学硕士或相关领域硕士 |
-| 护理教育认证（CNE） | 国家护理联盟 | 可选 | 非强制，但提升竞争力 |
+| Registered Nurse (RN) License | State nursing board | Required | All states require a valid RN license |
+| Master's degree | Accredited university | Required | Usually requires a master's degree in nursing or a related field |
+| Nursing Education Certification (CNE). | National Nursing Association | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。随着美国人口老龄化和护理需求增加，高校护理专业招生持续增长，对护理讲师的需求稳步上升。预计2022-2032年就业增长约12%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. With the aging US population and increasing nursing demand, nursing program enrollment continues to grow, driving steady demand for nursing instructors. Employment projected to grow about 12% from 2022 to 2032, faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 社区学院或新入职 |
-| 中级（3-7年） | $75,000~$95,000 | 多数讲师薪资区间 |
-| 高级（7年以上或系主任） | $95,000~$130,000 | 资深或管理层 |
+| Median salary | $80,250 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Community college or new entrant |
+| Mid-level (3–7 years) | $75,000~$95,000 | Most lecturer salary ranges |
+| Senior (7+ years or department head) | $95,000~$130,000 | Senior or management level |
+| average salary | $86,410 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常由有丰富临床经验的注册护士（RN）担任，需要硕士或博士学位。可晋升为护理系主任、院长或研究主管，也可转向护理教育管理或高级实践护理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of nursing instructors has mixed prospects: AI can handle basic theoretical teaching and assessment, but aspects requiring human empathy and experience—such as clinical teaching, simulation training, and curriculum design—will become more valuable.
+
+Typically held by registered nurses (RNs) with extensive clinical experience, requiring a master's or doctoral degree. Can advance to nursing department head, dean, or research supervisor, or transition to nursing education management or advanced practice nursing.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate standardized teaching courseware and test banks
+- Auto-grading of multiple-choice questions and basic nursing operation videos
+- Use virtual patient cases to replace some theoretical lectures
+- Analyzes student performance data using AI and generates reports
+
+**Where AI augments the role:**
+
+- Using AI to simulate clinical presentations of different cases, enhancing practical training scenarios
+- Using AI virtual reality technology to let students safely practice high-risk operations
+- Using natural language processing tools to assist literature reviews and course research
+- Using AI to analyze dynamic updates of clinical best practices for teaching content
+
+**Human moat:**
+
+- Clinical experience and real case sharing
+- Emotional assessment of student learning progress and personalized guidance
+- Teaching nursing ethics and communication skills through direct instruction
+- Design curriculum integrating AI tools
+
+**Skills to build:**
+
+- Proficiency in AI teaching tools (e.g., adaptive learning platforms)
+- Data analysis and educational assessment skills
+- Virtual reality/simulation training platform operation
+- Clinical nursing experience and updated knowledge
+- Blended curriculum design approach
+- Critical thinking and ethical decision-making.
+
+**Key growth areas:**
 
 - Nursing shortage
 - Aging population
@@ -62,68 +95,67 @@ Demonstrate and teach patient care in classroom and clinical units to nursing st
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学支持H-1B签证，但需抽签，配额紧张 |
-| Subclass EB-2（Employment-Based Second Preference） | 硕士或以上学位可通过EB-2申请绿卡，需PERM |
-| Subclass EB-3（Employment-Based Third Preference） | 学士学位可申请，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities support H-1B visas, but lottery selection is required with tight quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Master's degree or higher can apply for green card via EB-2, requiring PERM. |
+| Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree eligible, long queue time |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing Instructors and Teachers, Postsecondary？**
-- 有丰富临床护理经验且热爱教学的人
-- 追求稳定学术职业、关注护理教育发展的注册护士
-- 希望在高校工作并参与护理教育研究的人
-
-**谁不适合学Nursing Instructors and Teachers, Postsecondary？**
-- 偏好直接临床护理而非教学的人
-- 无法接受高校薪资相对临床偏低的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with extensive clinical nursing experience and a passion for teaching
+- Registered nurses seeking stable academic careers and focusing on nursing education development
+- Those who wish to work in universities and participate in nursing education research
+
+**Who is not suited**
+- Prefers direct clinical care over teaching
+- For those who cannot accept relatively low academic salaries compared to clinical roles
+
+---
+
+## 8. FAQ
+
+**Q: Is a nursing lecturer's salary lower than a clinical nurse's?**
+A: Many nursing lecturers earn less than senior clinical nurses, but have less work pressure, more holidays, and opportunities to move into management.
+
+**Q: Can foreign nurses directly apply for a nursing lecturer position to immigrate to the US?**
+A: Yes, but must first pass the NCLEX-RN exam to obtain an RN license, generally requiring a master's degree or higher. Universities typically support H-1B and green card applications, but waiting periods may be long.
+
+**Q: Do nursing lecturers need a doctoral degree?**
+A: Community colleges usually only require a master's degree, while four-year universities prefer a PhD. Lecturers with a PhD are more likely to be promoted to professor or department head.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Nursing Instructors and Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do nursing instructors earn less than clinical nurses?**
-答：Many nursing instructors earn less than advanced clinical nurses, but enjoy less stress, more holidays, and promotion opportunities.
-
-**问：Can foreign nurses directly apply for nursing instructor positions and immigrate to the US?**
-答：Yes, but they need to pass NCLEX-RN for RN license and have a master's degree or higher. Universities usually support H-1B and green card applications, but visa queues can be long.
-
-**问：Do nursing instructors need a doctoral degree?**
-答：Community colleges usually require a master's, while universities prefer a doctorate. A PhD helps in promotion to professor or department head.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

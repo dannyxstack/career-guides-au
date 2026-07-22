@@ -1,60 +1,96 @@
-# Technical and Medical Sales Professional (excluding ICT)（Technical and Medical Sales Professional (excluding ICT)）职业分析 · IE
+# Technical and Medical Sales Professional (excluding ICT) — career analysis · Ireland
 
-**职业代码：2433 – Technical and Medical Sales Professional (excluding ICT)。**
+**Occupation code: 2433 (ISCO08)**
 
-Responsible for promoting and selling medical devices, pharmaceuticals, consumables, and specialized instruments to hospitals, clinics, laboratories, and industrial clients, providing technical solutions and after-sales support, acting as a key link between R&D and the market.
+Responsible for promoting and selling medical equipment, pharmaceuticals, consumables, and professional instruments to hospitals, clinics, laboratories, and industrial enterprises, providing technical solutions and after-sales support as a key link between R&D and the market.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（学费（本科）） |
-| 硕士 | 1-2年 | $12,000~$20,000（学费（硕士）） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Tuition fees (undergraduate)) |
+| Master's degree | 1-2 years | $12,000~$20,000 (Tuition (Master's)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学位（如生物医学、药学、工程） | 大学 | 必备 | 通常要求相关本科及以上学历 |
-| 销售认证（如专业销售技能认证） | 爱尔兰销售协会等 | 可选 | 非强制但提升竞争力 |
+| Relevant degree (e.g., biomedical science, pharmacy, engineering) | University | Required | Typically requires a relevant bachelor's degree or higher |
+| Sales certifications (e.g., Professional Sales Skills Certification) | Irish Sales Association, etc. | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。受益于爱尔兰持续增长的制药与医疗器械出口产业（占出口总额近40%），及本土创新生物技术企业的扩张，该职业需求保持旺盛。预计未来5年年均就业增长约3-5%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Benefiting from Ireland's growing pharmaceutical and medical device export industry (nearly 40% of total exports) and expansion of indigenous innovative biotech companies, demand for this occupation remains strong. Estimated average annual employment growth of around 3-5% over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 含基本工资和佣金 |
-| 中级（3-7年） | $50,000~$80,000 | 含基本工资和佣金 |
-| 高级（7年以上） | $80,000~$120,000 | 含基本工资和佣金，管理岗更高 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Includes base salary and commission |
+| Mid-level (3–7 years) | $50,000~$80,000 | Includes base salary and commission |
+| Senior (7+ years) | $80,000~$120,000 | Includes base salary and commission; management roles pay more |
+| average salary | $69,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从销售代表或技术专员起步，积累客户资源后晋升区域经理、全国销售经理，亦可转向产品管理、业务开发或市场营销岗位。资深人员可成为行业顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The routine customer communication and data sorting tasks of pharmaceutical sales specialists are easily automated by AI, but complex stakeholder negotiations, trust building, and technical solution customization still require human leadership, showing a 'polarizing' trend.
+
+Typically start as a sales representative or technical specialist, build client resources, then advance to regional manager, national sales manager; can also shift to product management, business development, or marketing roles. Experienced individuals can become industry consultants.
+
+**Tasks most exposed to AI:**
+
+- Customer priority ranking based on historical data with automated outbound follow-up
+- Standard documentation generation and auto-update of product technical parameters
+- Routine customer email replies, meeting minutes organization, and CRM data entry
+- Junior technical Q&A support based on symptom-product matching algorithm
+- Format checking and clause comparison for batch bid templates
+
+**Where AI augments the role:**
+
+- Use AI customer profiling tools to accurately identify high-value potential clients and improve conversion rates
+- Using AI-assisted presentation generation and virtual product demos to quickly respond to customer needs
+- Using natural language processing to analyze doctor feedback and extract product improvement directions
+- Optimize inventory and delivery cycles using AI prediction models, providing more reliable after-sales solutions.
+- AI-driven competitive intelligence monitoring to track competitor strategies in real-time and adjust sales pitches
+
+**Human moat:**
+
+- Establish long-term trust and deep cooperation with hospital management and department heads
+- Coordinate multiple stakeholders in complex tenders, engage in strategic negotiation and bargaining
+- Customized technical solution design and on-site problem diagnosis based on clinical scenarios
+- Handle high-risk decisions and disputes involving patient safety and ethical compliance
+- Deliver professional presentations at academic conferences, build personal brand and industry influence
+
+**Skills to build:**
+
+- AI-driven sales analysis tools (e.g., Salesforce Einstein, Tableau CRM)
+- Understanding of data interfaces between Hospital Information Systems (HIS) and Electronic Medical Records (EMR)
+- Basic data science and Python/R scripting for custom reports
+- Digital marketing and multi-channel customer engagement strategies (LinkedIn, email automation)
+- Clinical medical knowledge updates and product compliance training (e.g., GCP, ISO 13485)
+- Advanced communication skills for remote collaboration and virtual presentations
+
+**Key growth areas:**
 
 - Pharmaceutical exports
 - MedTech innovation
@@ -63,69 +99,68 @@ Responsible for promoting and selling medical devices, pharmaceuticals, consumab
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，年薪超过32,000欧元且学历或经验符合要求，可快速获得永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需通过劳动力市场测试，年薪门槛30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非EU公民，年薪超过一般国民收入1.5倍（约40,000欧元），可自由流动至其他欧盟国家。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations, with an annual salary exceeding €32,000 and meeting academic or experience requirements, enabling fast-track permanent residency. |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires labor market test, annual salary threshold €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens; annual salary at least 1.5 times the national average (approx. €40,000); allows free movement to other EU countries. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical and Medical Sales Professional (excluding ICT)？**
-- 具备生命科学或工程背景且擅长人际沟通者
-- 目标导向、抗压能力强的人
-- 希望进入高薪出口行业的人
-
-**谁不适合学Technical and Medical Sales Professional (excluding ICT)？**
-- 不喜欢频繁出差与社交活动者
-- 缺乏技术理解能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a life science or engineering background and strong interpersonal skills
+- Goal-oriented, resilient individuals
+- People who want to enter high-paying export industries
+
+**Who is not suited**
+- Not suitable for those who dislike frequent travel and social activities
+- People lacking technical understanding
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Entry-level annual salary around 35,000-50,000 euros, mid-level 50,000-80,000 euros, senior up to 80,000-120,000 euros, plus commission, income is flexible.
+
+**Q: How can non-EU citizens obtain a work permit for this occupation?**
+A: If the annual salary exceeds €32,000 and qualifications or experience match the critical skills list, you can apply for a Critical Skills Employment Permit without a labor market test, and obtain permanent residency in as little as 2 years.
+
+**Q: What is the career progression path for this occupation?**
+A: Common career path: sales representative → regional manager → national sales manager, or transition to product manager, business development, etc. Senior professionals can become senior consultants or management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Technical and Medical Sales Professional (excluding ICT)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level roles earn around €35,000-€50,000, mid-level €50,000-€80,000, and senior roles €80,000-€120,000, plus commission, with high earning potential.
-
-**问：How can non-EU citizens obtain a work permit for this occupation?**
-答：If salary exceeds €32,000 and criteria meet the Critical Skills list, apply for Critical Skills Employment Permit without labor market test, eligible for permanent residence in 2 years.
-
-**问：What is the career progression for this occupation?**
-答：Typical path: sales representative → regional manager → national sales manager, or transition to product manager, business development, etc. Senior roles can become high-level consultants or management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

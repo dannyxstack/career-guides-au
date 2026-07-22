@@ -1,61 +1,97 @@
-# Sports Teacher (without specialization)（Sports Teacher (without specialization)）职业分析 · DE
+# Sports Teacher (without specialization) — career analysis · Germany
 
-**职业代码：8450 – Sports Teacher (without specialization)。**
+**Occupation code: 8450 (KldB)**
 
-Sports teachers organize and deliver physical education classes in schools or sports institutions, promoting physical development and health awareness among students.
+Physical education teachers organize and teach sports courses in schools or sports institutions, promoting students' physical development and health awareness.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（体育教育） | 3-4年 | —（公立大学几乎免学费，仅收注册费） |
-| 硕士（体育教育） | 2年 | —（硕士多为公立，费用低） |
+| Bachelor's degree (Physical Education) | 3-4 years | $0~$30,000 (Public universities have almost no tuition fees, only registration fees) |
+| Master's (Physical Education) | 2 years | $0~$30,000 (Most master's degrees are at public institutions, low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师资格证（Lehramtsbefähigung） | 州教育部门 | 必备 | 需完成教师培训（Referendariat）并通过国家考试 |
-| 体育学士或硕士学位 | 大学 | 必备 | 通常要求体育教育专业 |
-| Anerkennung（资质认证） | 德国各州认证机构 | 必备 | 非欧盟学历需认证，包括语言能力证明 |
+| State teaching license (Lehramtsbefähigung) | State education department | Required | Must complete teacher training (Referendariat) and pass state exams |
+| Bachelor's or master's degree in sports | University | Required | Typically requires a Sports Education major |
+| Anerkennung (qualification recognition) | German state accreditation bodies | Required | Non-EU qualifications require recognition, including proof of language proficiency |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 50,000。德国对体育教师的需求稳定，尤其在中学和全日制学校。随着健康意识提升及学校体育项目扩展，就业前景良好，但公立学校职位受财政影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 50,000. Demand for physical education teachers in Germany is stable, especially in secondary and all-day schools. With growing health awareness and expanded school sports programs, employment prospects are good, though public school positions are affected by budget constraints.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 公立学校按Tarif TV-L，约E13级 |
-| 中级（4-9年） | $42,000~$55,000 | 根据等级和州差异 |
-| 高级（10年以上） | $55,000~$65,000 | 高级教师或部门负责人 |
+| Median salary | $45,360 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Public schools follow Tarif TV-L, about level E13. |
+| Intermediate (4-9 years) | $42,000~$55,000 | Varies by level and state |
+| Senior (10+ years) | $55,000~$65,000 | Senior teacher or department head |
+| average salary | $50,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从普通体育教师晋升为高级教师或体育部门负责人，也可转向体育管理、教练或运动科学领域，需继续教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physical education teacher roles have mixed prospects: AI can handle administrative tasks like curriculum design and assessment, but core teaching, demonstration, and emotional interaction rely heavily on humans. Jobs won't disappear, but responsibilities will shift towards nurturing, innovation, and holistic student development.
+
+Can progress from regular PE teacher to senior teacher or head of PE department, or move into sports management, coaching, or sports science, requiring further education.
+
+**Tasks most exposed to AI:**
+
+- Automatic recording and analysis report generation of student physical fitness data
+- Standardized sports theory test question generation and grading
+- Automatic editing and feedback of basic sports technique videos
+- Automated management of course attendance and grades
+- Preliminary risk assessment and early warning for sports injuries
+
+**Where AI augments the role:**
+
+- Use AI to analyze student movements and provide personalized correction suggestions
+- Generate diverse training plans using AI to suit students with different physiques
+- Use virtual reality (VR) to simulate high-risk sports scenarios to enhance teaching safety
+- Use natural language processing (NLP) to automatically reply to common student queries
+- Using AI to monitor classroom attention and dynamically adjust teaching pace
+
+**Human moat:**
+
+- Non-verbal skills for face-to-face demonstration and error correction.
+- Emotional interaction to motivate students, foster team spirit, and sportsmanship
+- Adapt flexibly to unexpected situations (e.g., injuries, emotional distress)
+- Interdisciplinary integration (e.g. incorporating biological and psychological knowledge into teaching)
+- Tutoring skills to track student progress long-term and build trust
+
+**Skills to build:**
+
+- Sports biomechanics and use of AI motion analysis tools
+- Data-Driven Personalized Teaching Program Design
+- Setting up virtual reality (VR) sports teaching scenarios.
+- Online sports course management and interactive platform operations
+- Basic Python or AI educational software scripting
+- Sport Science and Nutrition Data Interpretation
+
+**Key growth areas:**
 
 - Health trend
 - School sports expansion
@@ -64,70 +100,69 @@ Sports teachers organize and deliver physical education classes in schools or sp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历，工资门槛通常较高，体育教师可能不达标 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需有资质认证及雇主担保，适合公立学校教师 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许找工作6个月，需学历认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可找任何工作，但需资质认可 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high education; salary threshold is usually high; physical education teachers may not meet it |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires qualification certification and employer sponsorship, suitable for public school teachers |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed 6 months to find a job, requires education credential assessment. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system, can take any job but requires qualification recognition |
 
-**PR难度：困难（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sports Teacher (without specialization)？**
-- 热爱运动与教学
-- 有耐心和沟通能力
-- 愿意通过德国教师资格认证
-
-**谁不适合学Sports Teacher (without specialization)？**
-- 不擅长与青少年互动
-- 抗拒官僚认证流程
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and teaching
+- Patience and communication skills.
+- Willing to obtain German teacher certification
+
+**Who is not suited**
+- Not adept at interacting with adolescents
+- resists bureaucratic certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a physical education teacher?**
+A: German sports teacher salary follows Tarif TV-L; junior annual ~€35k-42k, senior up to €65k, with slight variations by state.
+
+**Q: How can non-EU sports teachers immigrate to Germany?**
+A: Must first obtain qualification recognition (Anerkennung) and have German C1 level. After approval, can apply for Skilled Worker Visa or Chancenkarte to find work.
+
+**Q: Is there room for advancement for physical education teachers?**
+A: Can be promoted to senior teacher or head of sports department, or transition to sports management, coaching, or research through further education
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 困难（★★★½☆） |
-
-Sports Teacher (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sports teachers?**
-答：In Germany, sports teachers are paid according to TV-L tariff, with entry-level salary around 35,000-42,000 EUR and senior salaries up to 65,000 EUR, varying by state.
-
-**问：How can non-EU sports teachers immigrate to Germany?**
-答：First, obtain credential recognition (Anerkennung) and German C1 level. Then apply for a Skilled Worker Visa or Opportunity Card to find a job.
-
-**问：Are there promotion opportunities for sports teachers?**
-答：Yes, to senior teacher or head of department, also into sports management, coaching, or research via further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

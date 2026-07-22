@@ -1,58 +1,91 @@
-# Well Driller and Borer（Well Driller and Borer）职业分析 · IE
+# Well Driller and Borer — career analysis · Ireland
 
-**职业代码：8113 – Well Driller and Borer。**
+**Occupation code: 8113 (ISCO08)**
 
-Operate drilling machinery to construct water wells, geothermal boreholes, and geotechnical investigation holes, involving casing installation, grouting, and sampling, typically on outdoor construction sites.
+Operate drilling equipment for water wells, geothermal wells, geotechnical exploration drilling, etc., involving installation of casings, grouting, sampling tasks, often working on outdoor sites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 4年（高中） | —（公立免费教育） |
-| 学徒制 | 2-4年 | —（通常由雇主资助，少量材料费） |
+| High school diploma | 4 years (high school) | $0~$0 (Free public education) |
+| Apprenticeship | 2-4 years | $0~$2,000 (Usually funded by employer, with a small material fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全通行证（Safe Pass） | 爱尔兰安全健康局（HSI） | 必备 | 建筑工地必备 |
-| 井钻工认证 | 爱尔兰钻井协会（IDA） | 可选 | 非强制但受雇主青睐 |
+| Safe Pass | Health and Safety Inspectorate (HSI) Ireland | Required | Essential for construction sites |
+| Well Driller Certification | Irish Drilling Association (IDA) | Optional | Not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。爱尔兰地下水勘探和地热能源项目需求稳定，但受建筑行业周期影响，就业机会集中在农村和基础设施建设区域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. Demand for groundwater exploration and geothermal energy projects in Ireland is stable but influenced by the construction industry cycle, with job opportunities concentrated in rural and infrastructure development areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 培训期或助理岗位 |
-| 中级（3-7年） | $36,000~$48,000 | 独立操作钻机 |
-| 高级（7年以上） | $49,000~$60,000 | 主管或高级操作员 |
+| Median salary | $42,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Training period or assistant position |
+| Mid-level (3–7 years) | $36,000~$48,000 | Operate drilling rig independently |
+| Senior (7+ years) | $49,000~$60,000 | Supervisor or senior operator |
+| average salary | $42,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助理钻工晋升为钻机操作员，或通过培训转向钻井监理、水文地质技术员等管理或技术岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In the tasks of drillers and borehole operators, data logging and monitoring can be automated by AI, but on-site operations, equipment maintenance, and emergency handling rely on human experience. Overall, risks and opportunities coexist.
+
+Can be promoted from assistant driller to drilling rig operator, or transition to management or technical roles such as drilling supervisor or hydrogeological technician through training.
+
+**Tasks most exposed to AI:**
+
+- Automatically record drilling depth, pressure, flow rate and other parameters
+- Real-time monitoring of wellbore stability based on sensor data with alerts
+- generate standardized drilling reports and logs
+- Optimizing drilling paths and mud ratio schemes through algorithms
+
+**Where AI augments the role:**
+
+- AI-assisted geological data analysis improves stratigraphic identification accuracy
+- Real-time monitoring systems help prevent incidents such as stuck pipes and blowouts
+- Remote expert system supports complex fault diagnosis
+- Digital twin simulation optimizes drilling parameters
+
+**Human moat:**
+
+- On-site equipment operation and hand-eye coordination skills
+- Rapid diagnosis and repair of sudden mechanical failures
+- Experience-based decision-making under special geological conditions.
+- Safety compliance and emergency response responsibilities
+- On-site communication and coordination with clients and supervisors
+
+**Skills to build:**
+
+- Basic digital literacy: data recording and analysis
+- Operate automated drilling rigs and intelligent monitoring systems
+- Basic programming and scripting (e.g., Python)
+- Geographic Information System (GIS) applications
+- Use of remote operation and collaboration tools
+
+**Key growth areas:**
 
 - Geothermal Energy
 - Water Well Drilling
@@ -61,64 +94,63 @@ Operate drilling machinery to construct water wells, geothermal boreholes, and g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30,000欧元，需通过劳动力市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如雇主为官方认可机构，年薪达32,000欧元且职业在紧缺列表上可申请 |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations, requires employer sponsorship, annual salary not less than 30,000 euros, and must pass a labour market test. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the employer is an officially recognized institution, with an annual salary of €32,000 and the occupation on the shortage list, you can apply |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Well Driller and Borer？**
-- 偏好户外体力工作、不介意恶劣天气的人
-- 对机械操作和拆装有兴趣的人
-- 愿意接受学徒制培训的人
-
-**谁不适合学Well Driller and Borer？**
-- 无法适应高强度体力劳动或野外工作环境的人
-- 偏好办公室工作或固定作息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prefer outdoor physical work and don't mind harsh weather
+- People interested in mechanical operation and disassembly/assembly
+- Individuals willing to undertake apprenticeship training
+
+**Who is not suited**
+- Those unable to adapt to high-intensity physical labor or field work environments
+- Prefers office work or a fixed schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for drilling rig operators in Ireland?**
+A: Entry-level annual salary approximately €28,000-35,000, mid-level €36,000-48,000, senior up to €49,000-60,000.
+
+**Q: How can a foreign drilling rig worker migrate to Ireland?**
+A: Can apply via General Employment Permit, requires employer sponsorship and labour market test, annual salary not less than €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Well Driller and Borer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for well drillers in Ireland?**
-答：Entry-level annual salary ranges from €28,000 to €35,000, mid-level from €36,000 to €48,000, and senior from €49,000 to €60,000.
-
-**问：How can a foreign well driller immigrate to Ireland?**
-答：Apply for a General Employment Permit with employer sponsorship and a labor market test; minimum salary €30,000 per year.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

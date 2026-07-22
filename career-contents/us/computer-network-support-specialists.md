@@ -1,59 +1,91 @@
-# Computer Network Support Specialists（Computer Network Support Specialists）职业分析 · 美国
+# Computer Network Support Specialists — career analysis · United States
 
-**职业代码：15-1231 – Computer Network Support Specialists。**
+**Occupation code: 15-1231 (SOC)**
 
-Analyze, test, troubleshoot, and evaluate network systems including LAN, WAN, cloud networks, and servers; perform network maintenance to ensure minimal interruption.
+Responsible for analyzing, testing, diagnosing, and evaluating network system issues including LAN, WAN, cloud networks, and servers; performing network maintenance to ensure stable operation and troubleshooting outages.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$40,000（社区学院或技术学院） |
-| 学士学位 | 4年 | $40,000~$120,000（计算机科学或信息技术相关专业） |
+| Associate degree | 2 years | $15,000~$40,000 (Community college or technical college) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Computer science or information technology related major) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA Network+ | CompTIA | 可选 | 基础网络认证，适合入门 |
-| CCNA | Cisco | 可选 | 思科认证网络工程师，行业认可度高 |
-| CCNP | Cisco | 可选 | 思科认证资深网络工程师，高级职位常见要求 |
+| CompTIA Network+ | CompTIA | Optional | Basic network certification, suitable for entry-level |
+| CCNA | Cisco | Optional | Cisco Certified Network Associate; highly recognized in the industry |
+| CCNP | Cisco | Optional | Cisco Certified Network Professional, common requirement for senior positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 183,000。随着企业数字化转型和云服务普及，计算机网络支持专家需求稳定增长。BLS预计2023-2033年就业增长约6%，每年新增约2.5万个职位。
+**Job demand: high (★★★★☆).** National workforce approx. 183,000. With the digital transformation of enterprises and the popularity of cloud services, demand for computer network support specialists is steadily growing. BLS projects about 6% employment growth from 2023-2033, with about 25,000 new positions annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 入门级常见薪资 |
-| 中级（3-7年） | $70,000~$95,000 | 多数从业者薪资范围 |
-| 高级（7年以上） | $95,000~$130,000 | 资深专家或管理岗位 |
+| Median salary | $76,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Entry-level common salary |
+| Mid-level (3–7 years) | $70,000~$95,000 | Salary range for most practitioners |
+| Senior (7+ years) | $95,000~$130,000 | Senior expert or management role |
+| average salary | $81,870 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级支持工程师晋升为高级网络专家、网络架构师或IT经理，也可通过考取CCNA、CCNP等认证加速职业发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
+
+Can advance from junior support engineer to senior network specialist, network architect, or IT manager, and accelerate career development by obtaining certifications such as CCNA, CCNP.
+
+**Tasks most exposed to AI:**
+
+- Automatically diagnose common network issues and provide solutions
+- Automatically generate network configuration and patch scripts
+- Record work orders and categorize/escalate to senior teams
+- User password reset and account management
+
+**Where AI augments the role:**
+
+- Use AI log analysis to quickly locate fault root causes
+- Using network simulation tools to predict change impact.
+- Early detection of anomalies through AI-driven monitoring.
+- Using natural language queries to accelerate knowledge base resolution
+
+**Human moat:**
+
+- Root cause analysis and manual repair of complex faults
+- Network architecture design and security policy formulation
+- Effective communication with non-technical users
+- Prioritizing urgent matters under pressure
+
+**Skills to build:**
+
+- Cloud network management (AWS/Azure/GCP)
+- Cybersecurity certifications (CISSP/CEH)
+- Automation scripts (Python/Ansible)
+- AI/ML basics and network analysis tools
+- Hybrid network architecture design
+
+**Key growth areas:**
 
 - Cloud Computing
 - Cybersecurity
@@ -62,69 +94,68 @@ Analyze, test, troubleshoot, and evaluate network systems including LAN, WAN, cl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见工作签证，需学士学位或以上，每年配额受限 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合拥有硕士以上学历或特殊情况，需PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适合拥有学士学位的技术工人，需PERM劳工认证 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大和墨西哥公民，需相关职业资格 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires bachelor's degree or higher, annual quota limited |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for those with a master's degree or higher, or special circumstances, requiring PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Suitable for skilled workers with a bachelor's degree, requires PERM labor certification. |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens; requires relevant professional qualifications |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Support Specialists？**
-- 喜欢动手解决网络问题，具备逻辑分析能力
-- 乐于学习新技术，愿意考取行业认证
-- 能适应一定的压力，例如网络故障处理
-
-**谁不适合学Computer Network Support Specialists？**
-- 不善于沟通或与用户协作
-- 对持续学习新技术缺乏兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy hands-on problem-solving with networks and have logical analysis skills
+- Willing to learn new technologies and obtain industry certifications
+- Able to handle some pressure, such as network fault resolution
+
+**Who is not suited**
+- Not good at communication or collaboration with users
+- Lack of interest in continuous learning of new technologies
+
+---
+
+## 8. FAQ
+
+**Q: Is it difficult for a computer network support specialist to apply for a US green card?**
+A: Classified as STEM occupation; H-1B and EB-2/EB-3 green card paths are established but require employer sponsorship, and H-1B lottery odds are low. Advised to plan early, consider L-1 or O-1 visas.
+
+**Q: What is the salary level for computer network support specialists in the US?**
+A: According to BLS, the 2023 median annual salary was about $72,000. Entry-level: about $50,000-$70,000, mid-level: $70,000-$95,000, senior: up to $130,000+. Salary varies by region, industry, and experience.
+
+**Q: What is the future career development prospect of this occupation?**
+A: Good. As network complexity and security demand increase, demand for specialized talent continues. Can advance to network architect, IT manager, etc., or move into cybersecurity.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Network Support Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is it difficult for Computer Network Support Specialists to apply for a US green card?**
-答：It is a STEM occupation with established H-1B and EB-2/EB-3 green card pathways, but requires employer sponsorship and H-1B cap lottery is competitive. Early planning, L-1 or O-1 visas can be alternatives.
-
-**问：What is the salary level for Computer Network Support Specialists in the US?**
-答：According to BLS, median annual wage is around $72,000 in 2023. Entry-level: $50k-$70k, mid: $70k-$95k, senior: up to $130k+. Varies by location, industry and experience.
-
-**问：What are the future career prospects for this occupation?**
-答：Good. Growing network complexity and security needs drive demand. Advancement to network architect, IT manager, or specialization in cybersecurity.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

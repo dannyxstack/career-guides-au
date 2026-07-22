@@ -1,126 +1,158 @@
-# Meat Process Worker（Meat Process Worker）职业分析 · 新西兰
+# Meat Process Worker — career analysis · New Zealand
 
-**职业代码：831311 – Meat Process Worker。**
+**Occupation code: 362111 (ANZSCO)**
 
-Work in slaughterhouses and meat processing plants on meat cutting, boning, and packing. Listed on Green List Tier 1, enabling direct residence pathway, a key role in the food processing industry.
+Work in slaughterhouses and meat processing plants performing slaughtering, splitting, boning, trimming, and packaging. New Zealand's meat processing industry is export-oriented and has a chronic shortage of skilled workers, which can lead to a direct residence pathway via the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 2周 | $1,000~$3,000（肉类加工入门课程（含安全操作证书）） |
-| 学徒制 | 2年 | $5,000~$12,000（雇主支持下的在职培训） |
+| On-the-job training | 3-6 months | $0~$2,000 (Employers typically provide paid training; some require self-funded short courses.) |
+| New Zealand Certificate (Meat Processing) | 1 year | $5,000~$12,000 (Offered by New Zealand polytechnics or private training providers.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 初级肉类加工证书 | 新西兰肉类行业协会 | 可选 | 入门级，非强制但利于就业 |
-| 食品安全证书 | 新西兰食品安全局 | 必备 | 多数雇主要求 |
-| 危险品操作证书 | 新西兰安全工作局 | 可选 | 如需使用化学品 |
+| English proficiency | Immigration-approved tests (IELTS, etc.) | Required | Immigration requires at least IELTS 6.5. |
+| New Zealand Certificate in Meat Processing (Level 3) | New Zealand polytechnics or industry training providers. | Optional | Not mandatory but can help with immigration points. |
+| Food safety and sanitation certificate | New Zealand Food Safety (MPI) | Optional | Some employers require. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。新西兰肉类加工行业就业稳定，主要得益于出口需求强劲。受技能短缺影响，雇主积极招聘海外工人，就业机会在主要产区如怀卡托、马纳瓦图等地较多。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Due to stable global meat demand and sustained export markets (e.g., China, USA) for New Zealand, labor shortages are prominent. Employment growth is expected to be stable over the next five years, but automation and robotics may impact entry-level positions.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-27纽元 |
-| 中级（3-5年） | $55,000~$65,000 | 含熟练剔骨工等角色 |
-| 高级（5年以上） | $65,000~$80,000 | 含班组长或质检员薪资 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Mostly assembly line packaging, slicing, etc. |
+| Intermediate (2-5 years) | $55,000~$70,000 | Technical positions such as boners and slaughterers. |
+| Senior (5+ years) | $70,000~$90,000 | Roles such as supervisor, quality inspector, or trainer. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从入门级分割工开始，可晋升为剔骨工、质检员或班组长。积累经验后，可申请居留并拓展至屠宰场管理或出口检验等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Slaughterers/meat processing workers face both automation threats and AI enhancement: machine vision and robotic arms are replacing repetitive tasks like cutting and packaging, but AI-assisted quality inspection, equipment maintenance, and production scheduling optimization greatly improve efficiency and reduce rework. Entry-level roles are declining due to replacement of basic cutting workers, but demand for advanced boners and quality control technicians remains stable.
+
+Entry-level workers can advance through on-the-job training to skilled positions like boner or slaughterer. Experienced workers can become supervisors, production line managers, or move to quality control and cold chain management. Career mobility increases after gaining residency.
+
+**Tasks most exposed to AI:**
+
+- Use machine vision and robotic arms for standardized portioning and deboning
+- Automated weighing, labeling, and packaging line operation
+- Vision-based preliminary meat grading and classification
+- Repetitive tasks like lifting, hanging, and cleaning
+
+**Where AI augments the role:**
+
+- AI-assisted real-time quality inspection (e.g., microorganism contamination prediction, color grading)
+- Optimizing slaughter line scheduling and equipment maintenance using digital twins and sensor data
+- Machine learning-based supply chain demand forecasting to adjust production plans
+- Smart wearable devices monitor worker fatigue to prevent injuries
+
+**Human moat:**
+
+- Complex manual boning techniques (difficult to fully automate)
+- Handling Exceptions like Non-standard Livestock Cuts or Bruising
+- Food Safety Regulation Compliance Judgment and On-site Emergency Handling
+- Team collaboration and experience transfer (in-depth training)
+
+**Skills to build:**
+
+- Operating and maintaining automated unpacking/packaging robots
+- Basic Python or data analysis (for interpreting QC and production scheduling AI reports)
+- Advanced food safety management knowledge such as HACCP
+- Lean production and process optimization (e.g., Six Sigma)
+- Equipment fault diagnosis and preventive maintenance skills
+- Cross-cultural communication and team leadership (managing diverse production line teams)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
-- Regional workforce
-- Food processing
+- Meat Industry
+- Regional Workforce
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 职业在绿色清单Tier1，满足薪资中位数（目前29.66纽元/时）可直接申请居民签证，最快2年内获批。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，适用于无直接居留资格者，工作2年后可申请转居留。 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（如学历+工作经验）可申请，通常需雇主担保。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Meets Green List Tier 1 occupation; can directly apply for residence with a job offer from an accredited employer. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, must meet a 6-point system (e.g., work experience, qualifications), current occupation has extra points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for cases without a Green List occupation but with employer sponsorship. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meat Process Worker？**
-- 愿意从事体力劳动、工作环境较冷或潮湿的人
-- 需要快速获得新西兰居留权的技术工人
-- 有屠宰或肉类加工经验者
-
-**谁不适合学Meat Process Worker？**
-- 对寒冷、血腥环境敏感或卫生要求极高的人
-- 追求办公室白领工作或灵活工时的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are physically fit and able to adapt to cold, humid environments.
+- Those willing to learn slaughtering or boning techniques and not afraid of blood.
+- Those who wish to immigrate to New Zealand quickly through employer sponsorship or the Green List.
+
+**Who is not suited**
+- Extremely uncomfortable with blood and animal entrails.
+- People who expect high pay and easy work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for meat processing workers?**
+A: Entry-level annual salary approx. NZD $45,000-$55,000, intermediate boner can reach $55,000-$70,000, senior supervisor approx. $70,000-$90,000. Salary increases with experience and skills.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: The occupation is on Tier 1 of the Green List (direct residence); an offer of employment from an accredited employer qualifies for residence without working for two years. Also eligible for Skilled Migrant Category, low immigration difficulty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Meat Process Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a meat process worker?**
-答：Entry-level salary is around NZ$45,000–55,000 per year; experienced workers can earn NZ$65,000–80,000.
-
-**问：Can a meat process worker immigrate to New Zealand?**
-答：Yes, it is on Green List Tier 1, allowing direct residence if the median wage threshold is met.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

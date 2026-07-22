@@ -1,60 +1,95 @@
-# Accounting Secretary（Accounting Secretary）职业分析 · FR
+# Accounting Secretary — career analysis · France
 
-**职业代码：M1608 – Accounting Secretary。**
+**Occupation code: M1608 (ROME)**
 
-Accounting secretaries handle daily accounting tasks such as bookkeeping, invoice processing, accounts receivable/payable, bank reconciliation, while also performing administrative duties like answering calls, filing documents, and scheduling meetings.
+The accounting secretary is responsible for handling daily company accounting affairs, including account registration, invoice processing, accounts receivable and payable management, bank reconciliation, etc., while also handling some administrative secretary duties such as answering phone calls, organizing documents, and arranging meetings.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（BTS Comptabilité-Gestion） | $1,000~$8,000（公立学校学费低，私立培训费用较高） |
-| 学士水平 | 3年（Licence Professionnelle en Comptabilité） | $3,000~$15,000（大学文凭费用较低，专业院校较高） |
+| High school graduation + vocational training | 2 years (BTS Comptabilité-Gestion) | $1,000~$8,000 (Public schools have low tuition fees, while private training fees are relatively high) |
+| The scholar is of high rank | 3 years (Licence professionnelle en comptabilité) | $3,000~$15,000 (University diploma fees are relatively low, while professional institutions tend to be more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 会计职业资格证书（CAP或BTS） | 法国教育部 | 必备 | BTS Comptabilité-Gestion是最常见入门资质 |
-| 会计与金融文凭（DCG） | 法国教育部 | 可选 | DCG是高级会计资格，通常为晋升所需 |
+| Accounting Professional Qualification Certificate (CAP or BTS) | French Ministry of Education | Required | BTS Complement-Defense is the most common entry-level qualification |
+| Diploma in Accounting and Finance (DCG) | French Ministry of Education | Optional | DCG is a senior accounting qualification usually required for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。随着中小企业数量增加和数字化会计工具的普及，会计秘书岗位需求稳定。法国就业局数据显示，该职业在行政管理领域保持中等招聘量，尤其在巴黎、里昂等大都市地区机会较多。但部分基础工作可能被自动化替代。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. With the increase in the number of small and medium-sized enterprises and the widespread adoption of digital accounting tools, the demand for accounting secretary positions has stabilized. According to data from the French Employment Agency, this profession maintains moderate hiring in the administrative management sector, especially in metropolitan areas like Paris and Lyon, where there are many opportunities. However, some basic tasks may be automated.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，通常有学徒合同或固定合同 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验后薪资提升，大公司更高 |
-| 高级（7年以上） | $35,000~$45,000 | 可担任会计主管或财务经理助理 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, usually with apprenticeship or fixed contracts |
+| Mid-level (3–7 years) | $28,000~$35,000 | With experience, salaries increase, and big companies offer even higher salaries |
+| Senior (7+ years) | $35,000~$45,000 | You may serve as an accounting supervisor or assistant to the financial manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展通常从会计秘书起步，积累经验后可晋升为会计助理、会计师，或转向专业会计岗位（如税务会计）。通过考取BTS Comptabilité-Gestion或DCG文凭，可提升至管理岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
+
+Career development usually starts as an accounting secretary, and after gaining experience, can be promoted to accounting assistant, accountant, or transition to professional accounting roles (such as tax accounting). By obtaining a BTS Competelité-Gestion or DCG diploma, you can advance to management positions.
+
+**Tasks most exposed to AI:**
+
+- Manually entering transaction data from invoices or receipts.
+- Bank reconciliation and discrepancy adjustment
+- Generate standard financial statements (e.g., trial balance, profit and loss statement)
+- Classify and code repetitive expense items.
+- Regular accounts receivable and payable processing
+
+**Where AI augments the role:**
+
+- Using AI tools for abnormal transaction detection and alerting
+- Real-time financial analysis using automated dashboards
+- Predicts cash flow trends using machine learning models.
+- Automating month-end closing process and validating data integrity
+- Automatically convert unstructured data (e.g., PDF receipts) into structured entries.
+
+**Human moat:**
+
+- Explain complex financial anomalies and provide business advice
+- Communicate financial strategies with clients and management
+- Handling non-standard transactions and accounting judgments
+- Ensure compliance and audit requirements
+- Cross-departmental collaboration and integration of financial and operational data
+
+**Skills to build:**
+
+- Familiar with cloud accounting software such as QuickBooks Online, Xero
+- Proficiency in data analysis tools (e.g., advanced Excel, Power BI)
+- Learn basics of robotic process automation (RPA)
+- Understand basic data modelling and SQL queries
+- Obtain relevant certifications (e.g., CPA, CMA)
+- Developing skills in financial report interpretation and data visualization
+
+**Key growth areas:**
 
 - Digitalization
 - SME demand
@@ -63,65 +98,67 @@ Accounting secretaries handle daily accounting tasks such as bookkeeping, invoic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Work Permit)） | 需雇主担保，公司需证明无法在欧盟内找到合适人选 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，但会计秘书通常不符合条件 |
+| Subclass Salarié (Employee (Work Permit)) | Requires employer sponsorship, and the company must demonstrate that no suitable candidate can be found within the EU |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but accounting secretaries usually do not meet the requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Accounting Secretary？**
-- 喜欢有条理地处理数字和文档的人
-- 注重细节、擅长多任务处理的人
-- 希望进入会计行业但学历不高的人
+**Who is suited**
+- People who like to handle numbers and documents in an organized manner
+- Detail-oriented and skilled in multitasking
+- Those who hope to enter the accounting industry but have a low academic background
 
-**谁不适合学Accounting Secretary？**
-- 不喜欢重复性办公工作的人
-- 对财务数字不敏感或厌恶核对数据的人
+**Who is not suited**
+- People who dislike repetitive office work.
+- People who are insensitive to financial figures or dislike verifying data
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for accounting secretaries in France?**
+A: Junior Accounting Secretary earns a pre-tax annual salary of about 24,000–28,000 euros; With 3-7 years of experience, salaries can reach 28,000-35,000 euros; Senior staff can earn over 35,000 euros.
+
+**Q: Can accounting secretaries work in France through the skilled migration route?**
+A: Not easy. Accounting secretaries are not considered a sought-after profession, and the position usually requires French communication skills. Employer-sponsored work permits (Salarié) are generally required, but the success rate is relatively low.
+
+**Q: What career development paths are available for accounting secretaries?**
+A: You can be promoted to accounting assistant or accountant, or become a financial manager by obtaining a DCG diploma. It can also be expanded into professional fields such as auditing and taxation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Accounting Secretary属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an accounting secretary in France?**
-答：Entry-level accounting secretaries earn €24,000-€28,000 gross per year; with 3-7 years experience, €28,000-€35,000; senior staff can exceed €35,000.
-
-**问：Can an accounting secretary migrate to France through skilled migration?**
-答：It is difficult. The occupation is not in shortage and often requires French language skills. Employer sponsorship for a Salarié visa is possible but approval is not guaranteed.
-
-**问：What are the career progression paths for an accounting secretary?**
-答：Possible paths include accounting assistant, accountant, or financial manager with a DCG diploma. Also can move to audit or tax specialties.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

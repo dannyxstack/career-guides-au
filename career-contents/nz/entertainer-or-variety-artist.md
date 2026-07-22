@@ -1,61 +1,96 @@
-# Entertainer or Variety Artist（Entertainer or Variety Artist）职业分析 · 新西兰
+# Entertainer or Variety Artist — career analysis · New Zealand
 
-**职业代码：211113 – Entertainer or Variety Artist。**
+**Occupation code: 211113 (ANZSCO)**
 
-Performs comedy, magic, acrobatics, and variety acts on stage, TV, or events to entertain audiences. This occupation is not a core skilled migration role; typically requires Accredited Employer Work Visa (AEWV) for employment, with limited immigration pathways.
+Performs comedy, magic, acrobatics and other variety acts on stage, television or at events to entertain audiences. This occupation is not a core skilled occupation for New Zealand skilled migration; it typically requires employment via an Accredited Employer Work Visa (AEWV), making immigration relatively difficult.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训课程 | 1-6个月 | $2,000~$8,000（如NZ Performing Arts Academy的短期表演课程） |
-| 大专文凭 | 1-2年 | $15,000~$25,000（如表演艺术文凭（Level 5-6）） |
+| Short-term training course | 1-6 months | $2,000~$8,000 (e.g., short performance courses at NZ Performing Arts Academy) |
+| Diploma | 1-2 years | $15,000~$25,000 (e.g. Diploma of Performing Arts (Level 5-6)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | N/A | 可选 | 新西兰对该职业无官方注册或执照要求，雇主通常看重经验和作品集。 |
-| 舞台表演相关学历 | 如Toi Whakaari: New Zealand Drama School | 可选 | 并非必需，但有助于提升竞争力。 |
-| 英语能力证明（如非英语母语） | IELTS/TOEFL等 | 可选 | 为满足签证要求，通常需达到AEWV的英语标准。 |
+| No mandatory qualification requirements | N/A | Optional | New Zealand has no official registration or licensing requirements for this occupation; employers typically value experience and portfolio. |
+| Stage performance related qualifications | Such as Toi Whakaari: New Zealand Drama School | Optional | Not mandatory, but helps improve competitiveness. |
+| Evidence of English proficiency (if not a native English speaker) | IELTS/TOEFL etc. | Optional | To meet visa requirements, the English standard for AEWV is typically required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。新西兰娱乐业规模较小，全职岗位有限，多为短期合同或兼职。疫情后现场演出恢复，但竞争激烈。奥克兰、惠灵顿等城市机会较多，但整体就业前景一般。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. New Zealand's entertainment industry is small, with limited full-time positions, mostly short-term contracts or part-time work. Live performances have recovered post-pandemic, but competition is intense. Auckland, Wellington and other cities have more opportunities, but overall employment prospects are average.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 多为兼职或按场次付费 |
-| 中级（3-6年） | $45,000~$65,000 | 有稳定演出机会或节目合约 |
-| 高级（6年以上） | $65,000~$90,000 | 知名演员或主力表演者，可能参与电视/大型活动 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $30,000~$45,000 | Mostly part-time or per-session pay |
+| Mid-level (3–6 years) | $45,000~$65,000 | Having stable performance opportunities or program contracts |
+| Senior (6+ years) | $65,000~$90,000 | Famous actor or lead performer, may participate in TV/large events |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 起步多为小型俱乐部或街头表演，积累经验后可进入剧院、电视节目或大型活动。资深者可转型为表演导演或艺术总监，但晋升空间较窄。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Starts with small clubs or street performances; experience leads to theaters, TV shows, or large events. Experienced individuals can transition to performance directors or art directors, but promotion space is limited.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - AEWV
 - Seasonal
@@ -64,66 +99,68 @@ Performs comedy, magic, acrobatics, and variety acts on stage, TV, or events to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，适用于有新西兰雇主担保的表演工作。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，除非收入达到中位数工资的1.5倍且工作视为技能就业，但极罕见。 |
-| Subclass Green List T1（Green List Tier 1） | 不在绿色清单上，不适用直接居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, applicable for performance work with New Zealand employer sponsorship. |
+| Subclass SMC (Skilled Migrant Category) | Usually does not meet skilled migration requirements unless income reaches 1.5 times the median wage and the role is considered skilled employment, but this is rare. |
+| Subclass Green List T1 (Green List Tier 1) | Not on the Green List, not eligible for direct residence. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Entertainer or Variety Artist？**
-- 热爱舞台表演，愿意接受不稳定的工作模式
-- 拥有独特才艺（如魔术、杂技），并持续打磨技能
-- 能接受兼职或周薪制，不依赖固定月薪
+**Who is suited**
+- Passionate about stage performance, willing to accept unstable work patterns
+- Possess unique talents (e.g., magic, acrobatics) and continuously hone skills
+- Able to accept part-time or weekly pay, not reliant on fixed monthly salary
 
-**谁不适合学Entertainer or Variety Artist？**
-- 寻求稳定全职工作和可预测收入的人
-- 计划通过技术移民快速获得新西兰居留权的人
+**Who is not suited**
+- People seeking stable full-time jobs with predictable income
+- People planning to obtain New Zealand residency quickly through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of variety performers in New Zealand?**
+A: Income varies widely: entry-level performers earn about NZD 30,000-45,000 per year, senior up to NZD 65,000-90,000, but most are part-time or paid per performance, with few full-time opportunities.
+
+**Q: Can artists migrate to New Zealand through skilled migration?**
+A: Very difficult. The occupation is not on the Green List, and the Skilled Migrant Category (SMC) requires income at 1.5 times the median wage (approx. NZ$73,300/year) and work considered skilled employment, which few performers can meet. The main pathway is the Accredited Employer Work Visa (AEWV), but migration options are limited.
+
+**Q: How to become a professional variety performer in New Zealand?**
+A: Usually requires accumulating performance experience and a portfolio, attending industry events to build networks. While a degree is not mandatory, relevant training or diploma (e.g., diploma in performing arts) can enhance competitiveness. Joining a performing arts union (e.g., Equity New Zealand) also helps.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 适中（★★☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Entertainer or Variety Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for entertainers in New Zealand?**
-答：Income varies widely; junior performers earn around NZD 30,000-45,000 per year, senior up to NZD 65,000-90,000, but most work part-time or per gig, with limited full-time opportunities.
-
-**问：Can entertainers migrate to New Zealand through skilled migration?**
-答：Very difficult. This occupation is not on the Green List, and Skilled Migrant Category (SMC) requires income at 1.5x median wage (approx. NZD 73,300/year) and skilled use, rarely met. Main pathway is Accredited Employer Work Visa (AEWV), but immigration options are limited.
-
-**问：How to become a professional variety artist in New Zealand?**
-答：Typically requires building performance experience and a portfolio, networking at industry events. While qualifications are not mandatory, relevant training or diploma (e.g., in performing arts) can boost competitiveness. Joining a performers' union (e.g., Equity New Zealand) may also help.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Motorcycle Driver（Motorcycle Driver）职业分析 · IT
+# Motorcycle Driver — career analysis · Italy
 
-**职业代码：8321 – Motorcycle Driver。**
+**Occupation code: 8321 (ISCO08)**
 
-Motorcycle drivers in Italy primarily handle urban courier, food delivery, and small parcel transport, serving as a flexible and efficient component of city logistics.
+Italian motorcycle couriers are primarily responsible for transporting parcels, food deliveries, and small goods within cities, serving as a flexible and efficient component of urban logistics.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（仅需摩托车驾照） |
-| 职业培训 | 1-2个月 | $500~$1,500（可选配送安全与客户服务培训） |
+| No formal education required | None | $0~$0 (Motorcycle license only) |
+| Vocational training | 1-2 months | $500~$1,500 (Optional delivery safety and customer service training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托车驾照（A类） | 意大利交通部 (Ministero delle Infrastrutture e dei Trasporti) | 必备 | 必须持有有效驾照 |
-| 基础安全培训 | 雇主或培训机构 | 可选 | 部分公司要求完成安全驾驶课程 |
+| Motorcycle license (Class A) | Italian Ministry of Infrastructure and Transport (Ministero delle Infrastrutture e dei Trasporti) | Required | Must hold a valid driver's license |
+| Basic safety training | Employer or training provider | Optional | Some companies require completion of a safe driving course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。随着电子商务和即时配送需求的增长，摩托车驾驶员岗位在意大利城市地区持续有需求，但竞争也较为激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. With the growth of e-commerce and instant delivery demand, motorcycle courier positions remain in demand in Italian urban areas, but competition is also quite high.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 基于小时工资，含小费 |
-| 中级（3-6年） | $22,000~$28,000 | 经验丰富的配送员 |
-| 高级（6年以上） | $28,000~$35,000 | 团队主管或自雇业务 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Based on hourly wage, including tips |
+| Mid-level (3–6 years) | $22,000~$28,000 | Experienced delivery driver |
+| Senior (6+ years) | $28,000~$35,000 | Team leader or self-employed business |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径有限，通常可向配送团队主管、自营配送业务或物流协调员发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Automation (e.g., unmanned delivery vehicles, drones) will severely reduce demand for motorcycle couriers, particularly in Italian city logistics, where route planning and delivery tasks are taken over by AI, leading to fewer jobs.
+
+Career advancement paths are limited, typically leading to distribution team supervisor, self-operated delivery business, or logistics coordinator.
+
+**Tasks most exposed to AI:**
+
+- Optimal delivery route planning
+- Real-time traffic navigation and adjustment
+- Customer signature confirmation and data entry
+- Simple repetitive short-distance delivery
+
+**Where AI augments the role:**
+
+- Using AI dispatch systems to improve delivery efficiency
+- Improve safety with vehicle navigation and obstacle avoidance technology
+- Using AI voice assistants to handle customer communication and order inquiries
+- Using data analytics to predict peak hours and popular areas
+
+**Human moat:**
+
+- Ability to adapt flexibly in complex urban environments
+- Face-to-face service communication and trust building with clients
+- Experience in handling emergencies (e.g., road closures, severe weather)
+- Manual Handling and Packaging of Valuable or Fragile Items
+
+**Skills to build:**
+
+- GPS and AI dispatch platform operation skills
+- Basic data analysis and delivery optimization knowledge
+- Multilingual customer service communication skills
+- Electric motorcycle maintenance and battery management
+- Emergency handling and safe driving training
+- Using Digital Payment and Electronic Signature Systems
+
+**Key growth areas:**
 
 - urban logistics
 - food delivery
@@ -63,62 +96,64 @@ Motorcycle drivers in Italy primarily handle urban courier, food delivery, and s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民可通过年度配额申请，需要雇主担保，适用于非技术性工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，摩托车驾驶员通常不符合薪资门槛。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply through annual quotas, require employer sponsorship, and are suitable for non-skilled work. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers; motorcycle drivers generally do not meet the salary threshold. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motorcycle Driver？**
-- 喜欢户外工作、灵活时间安排的人
-- 具备良好驾驶技能和道路安全意识的人
-- 适应快节奏和高强度工作的人
+**Who is suited**
+- People who enjoy outdoor work and flexible scheduling
+- People with good driving skills and road safety awareness
+- People who adapt to fast-paced and high-intensity work
 
-**谁不适合学Motorcycle Driver？**
-- 不喜长时间户外暴露于天气变化的人
-- 追求稳定职业晋升和长期发展的人
+**Who is not suited**
+- People who dislike prolonged outdoor exposure to weather changes
+- People seeking stable career progression and long-term development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of motorcycle riders?**
+A: Junior annual salary approximately 18000-22000 euros, senior up to 28000-35000 euros, depending on experience and company.
+
+**Q: How can a motorcycle rider obtain an Italian work visa?**
+A: Mainly through Decreto Flussi annual quota application, requires employer sponsorship, thresholds are low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motorcycle Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for motorcycle drivers?**
-答：Entry-level annual salary is around €18,000-22,000, rising to €28,000-35,000 with experience.
-
-**问：How can motorcycle drivers obtain a work visa for Italy?**
-答：Mainly through the Decreto Flussi annual quota, requiring employer sponsorship, with low entry barriers.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

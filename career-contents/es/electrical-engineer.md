@@ -1,60 +1,95 @@
-# Electrical Engineer（Electrical Engineer）职业分析 · ES
+# Electrical Engineer — career analysis · Spain
 
-**职业代码：2441 – Electrical Engineer。**
+**Occupation code: 2441 (CNO)**
 
-Electrical engineers design, develop, test, and supervise the manufacture and installation of electrical equipment and systems, including power generation, transmission, distribution, and industrial automation.
+Electrical engineers are responsible for designing, developing, testing, and supervising the production and installation of electrical equipment and systems, covering fields such as power generation, transmission, distribution, and industrial automation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado en Ingeniería Eléctrica） | $1,000~$20,000（公立大学约1000-2500欧元/年，私立大学约6000-20000欧元/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$15,000（公立大学约2000-5000欧元/年，私立大学约5000-15000欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费，私立约1000-2000欧元/年） |
+| Undergraduate (Grado) | 4 years (Grado en Ingeniería Eléctrica) | $1,000~$20,000 (Public universities: approx. €1,000-2,500/year; private universities: approx. €6,000-20,000/year) |
+| Máster | 1-2 years | $2,000~$15,000 (Public universities approximately €2,000-5,000/year, private universities approximately €5,000-15,000/year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free or low-tuition; private schools cost about 1000-2000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气工程本科学位（Grado） | 西班牙大学 | 必备 | 必须完成官方Grado学位，且通过学历认证（homologación）方可执业 |
-| 工业工程师官方认证（Colegiación） | 西班牙工业工程师协会（COGITI或ICAI） | 可选 | 非强制但推荐，注册后可签署项目，提升职业信誉 |
-| 硕士或专业认证（PRL、项目管理等） | 大学或认证机构 | 可选 | 有助于晋升管理层或专攻特定领域（如可再生能源） |
+| Bachelor's degree in Electrical Engineering (Grado) | Spanish University | Required | You must complete an official Grado degree and pass the homologación certification to practice |
+| Official Certification of Industrial Engineer (Colegiación) | Spanish Industrial Engineers Association (COGITI or ICAI) | Optional | Not mandatory but recommended; after registration, you can sign the project to enhance professional credibility |
+| Master's or professional certifications (PRL, project management, etc.) | Universities or accrediting bodies | Optional | Helping you advance to management or specialize in specific areas (such as renewable energy) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙能源转型和数字化进程推动电气工程师需求增长，尤其在可再生能源、智能电网和电动汽车领域。国家就业局(SEPE)将其列为紧缺职业，就业机会集中在马德里、巴塞罗那及北部工业区。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's energy transition and digitalization process are driving demand for electrical engineers, especially in renewable energy, smart grids, and electric vehicles. The National Employment Agency (SEPE) lists it as a shortage occupation, with employment opportunities concentrated in Madrid, Barcelona, and the northern industrial zone.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪 |
-| 中级（4-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $46,000~$60,000 | 税前年薪，项目经理或总监可达70000+ |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $46,000~$60,000 | Pre-tax annual salary: Project managers or directors can reach 70,000+ |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级电气工程师可从技术岗位起步，积累经验后晋升为项目经理或技术负责人。通过进修硕士或取得专业认证（如工业工程师官方认证），可进入管理层或成为独立顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
+
+Junior electrical engineers can start in technical positions and be promoted to project manager or technical lead after gaining experience. By pursuing a master's degree or obtaining professional certifications (such as official industrial engineer certification), you can enter management or become an independent consultant.
+
+**Tasks most exposed to AI:**
+
+- Circuit schematic drawing and PCB layout using standard libraries
+- Write electrical test cases and execute automated testing.
+- Generate repetitive technical documents and compliance reports.
+- Identifying common failure modes from historical data and recommending solutions.
+
+**Where AI augments the role:**
+
+- AI-assisted complex system-level circuit simulation and optimization
+- Use AI to analyze fault data and quickly locate root causes
+- AI-driven design recommendations and automatic bill of materials generation
+- Querying electrical standards and norms in natural language to improve research efficiency
+- AI in project management predicts schedule risks and suggests resource allocation
+
+**Human moat:**
+
+- Cross-system integration design (e.g., power, control, communication)
+- Failure analysis and compliance decisions for safety-critical systems.
+- Communication and negotiation with clients, contractors, and regulatory agencies
+- Innovative architectural design and patent creation
+- On-site commissioning and abnormal situation response handling
+
+**Skills to build:**
+
+- AI-enhanced use of electrical system simulation tools (e.g., MATLAB/Simulink, PSSE)
+- Python or VBA scripts for design automation
+- Knowledge of digital twin and Internet of Things (IoT) integration
+- Machine learning basics for fault prediction and anomaly detection
+- Project management (PMP or agile methods) and teamwork skills.
+- Expertise in power electronics or renewable energy system design
+
+**Key growth areas:**
 
 - Renewable Energy
 - Smart Grids
@@ -63,69 +98,68 @@ Electrical engineers design, develop, test, and supervise the manufacture and in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能非欧盟居民，需本科学位+工作合同，年薪约33,908欧元（2024标准）。可带家属，快速获得居留。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高学历专业人才，需西班牙公司合同，无最低薪资要求但需与岗位匹配。审批快，享家庭团聚。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准工作居留，需雇主担保。职业属于紧缺目录时审批优先。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许毕业生在西班牙停留1年寻找工作，适用于在西班牙完成学业者。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled non-EU residents, a bachelor's degree + work contract is required, with an annual salary of about €33,908 (2024 standard). You can bring your family members and quickly obtain residency. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated professionals, requires a Spanish company contract, no minimum salary requirement, but must match the position. Fast approval, enjoy family reunion. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residence permit, requires employer sponsorship. Priority processing when occupation is on shortage list. |
+| Subclass Busqueda empleo (Job Search Visa) | Graduates are allowed to stay in Spain for one year to look for work, applicable to those who have completed their studies in Spain. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Engineer？**
-- 喜欢数学、物理和技术的分析型人才
-- 愿意参与大型基础设施或能源项目的人
-- 追求稳定高薪且有意移民西班牙的理工科毕业生
-
-**谁不适合学Electrical Engineer？**
-- 不喜欢长时间伏案设计和计算工作
-- 对频繁更新技术法规感到厌倦
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Analytical talents who enjoy mathematics, physics, and technology
+- People willing to participate in large infrastructure or energy projects
+- Science and engineering graduates seeking stable high salaries and interested in immigrating to Spain
+
+**Who is not suited**
+- Dislikes long hours of desk design and calculation work
+- Tired of frequent updates to technical regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for electrical engineers in Spain?**
+A: Entry-level approximately EUR 22,000-30,000/year, mid-level EUR 32,000-45,000, senior EUR 46,000-60,000, project manager up to EUR 70,000+. Salary varies by region and industry.
+
+**Q: How can non-EU electrical engineers immigrate to Spain?**
+A: You can obtain the EU Blue Card (requires a bachelor's degree + work contract, annual income ≥€33,908) or the Highly Skilled Professional Visa (Ley14/2013). Spain's Shortage Occupations List includes electrical engineers, which can be expedited for approval.
+
+**Q: Is academic credential verification required to practice in Spain?**
+A: Yes, non-EU degrees must be accredited by the Spanish Ministry of Education (homologación) or obtained a confirmed degree level (equivalencia). Although the Registered Engineer Association (Colegiación) is not mandatory, it is essential for signing projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Electrical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electrical engineers in Spain?**
-答：Entry-level: €22,000-€30,000; mid-level: €32,000-€45,000; senior: €46,000-€60,000; project managers can earn over €70,000. Salaries vary by region and industry.
-
-**问：How can a non-EU electrical engineer immigrate to Spain?**
-答：Through the EU Blue Card (requiring a bachelor's degree and a job offer with annual salary ≥€33,908) or the Highly Qualified Professional visa (Ley 14/2013). The occupation is on Spain's shortage list, which may expedite processing.
-
-**问：Is degree homologation required to practice in Spain?**
-答：Yes, non-EU degrees must be officially recognized (homologación) or receive equivalence (equivalencia). While colegiación is not mandatory, it is required to sign off on projects and enhances professional credibility.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Farmers（Farmers）职业分析 · UK
+# Farmers — career analysis · United Kingdom
 
-**职业代码：5111 – Farmers。**
+**Occupation code: 5111 (SOC)**
 
-Farmers and related occupations cultivate arable crops, fruits and trees, and raise cattle, sheep, pigs, poultry and other livestock for consumption.
+Farmers and agricultural workers grow crops, fruit trees, and trees, and raise cattle, sheep, pigs, poultry, and other livestock for consumption.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 无特定要求 | —（通常无高等教育要求，在职培训为主） |
-| 职业教育与培训 | 1-2年 | $3,000~$7,000（如BTEC农业或动物管理课程） |
-| 学士学位 | 3年 | $9,000~$18,000（如农业科学或食品生产与管理学位） |
+| Secondary Education | No specific requirements | $0~$0 (Usually no higher education requirement, on-the-job training is primary) |
+| Vocational Education and Training | 1-2 years | $3,000~$7,000 (e.g., BTEC Agriculture or Animal Management courses) |
+| Bachelor's degree | 3 years | $9,000~$18,000 (Such as a degree in agricultural science or food production and management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业资格 | City & Guilds | 可选 | 如农业技能认证 |
-| 拖拉机驾驶执照 | DVSA | 可选 | 操作农用车辆可能需要 |
-| 农药施用证书 | NPTC | 必备 | 合法使用农药所需 |
+| Pesticide application certificate | NPTC | Required | Required for legal pesticide use |
+| Agricultural vocational qualification | City & Guilds | Optional | Such as agricultural skills certification |
+| Tractor Driving License | DVSA | Optional | Operating agricultural vehicles may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 280,000。英国农业面临劳动力老龄化和脱欧后劳动力短缺问题，但政府通过季节性工人签证和农业创新支持行业。预计就业稳定，但自动化可能减少低技能岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 280,000. The UK agricultural sector faces an aging workforce and labor shortages post-Brexit, but the government supports the industry through seasonal worker visas and agricultural innovation. Employment is expected to be stable, but automation may reduce low-skilled jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 农业工人/实习生 |
-| 中级（3-7年） | $25,000~$35,000 | 经验丰富的农场工人或初级经理 |
-| 高级（7年以上） | $35,000~$50,000 | 农场经理或农场主 |
+| Median salary | $35,295 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Agricultural worker/trainee |
+| Mid-level (3–7 years) | $25,000~$35,000 | Experienced farm worker or junior manager |
+| Senior (7+ years) | $35,000~$50,000 | Farm manager or farm owner |
+| average salary | $38,670 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从农业工人晋升为农场经理或农场主，或专攻有机农业、农业科技。部分农民转向咨询、农业教育或供应链管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Career progression from agricultural worker to farm manager or farm owner, or specializing in organic farming or agricultural technology. Some farmers move into consulting, agricultural education, or supply chain management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Sustainable farming
 - Agritech
@@ -63,68 +99,67 @@ Farmers and related occupations cultivate arable crops, fruits and trees, and ra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的农业技术岗位，如农场经理 |
-| Subclass Temporary Worker（Temporary Worker – Seasonal Worker visa） | 临时季节性农业工人签证，适用于短期采摘和种植 |
-| Subclass Global Talent（Global Talent visa） | 适用于在农业科技或研究领域中证明杰出才能的人士 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to employer-sponsored agricultural technology roles, such as farm manager |
+| Subclass Temporary Worker (Temporary Worker – Seasonal Worker visa) | Temporary seasonal agricultural worker visa for short-term picking and planting |
+| Subclass Global Talent (Global Talent visa) | For individuals demonstrating exceptional talent in agricultural technology or research fields |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farmers？**
-- 热爱户外体力劳动，不介意体力消耗
-- 对可持续农业和环境保护有兴趣
-- 愿意在农村或偏远地区生活和工作
-
-**谁不适合学Farmers？**
-- 不喜欢体力劳动或不适应户外天气
-- 追求高薪和城市生活方式
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoor physical labor, not bothered by physical exertion.
+- Interest in sustainable agriculture and environmental protection
+- Willing to live and work in rural or remote areas
+
+**Who is not suited**
+- Those who dislike physical labor or are unsuited to outdoor weather.
+- Seeking high salary and city lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for farmers in the UK?**
+A: Junior positions start at around £18,000-25,000, experienced farm managers can reach £35,000-50,000, but income is affected by season and crop prices.
+
+**Q: What visa can foreign farmers use to work in the UK?**
+A: The main pathway is the Temporary Worker – Seasonal Worker visa, allowing short-term agricultural work; those with management experience can apply for the Skilled Worker visa.
+
+**Q: What is the career development path for a farmer?**
+A: Start as an agricultural worker, gain experience and advance to farm supervisor or manager, eventually become an independent farmer. Also pivot to agricultural consulting, food processing, or agritech.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Farmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for farmers in the UK?**
-答：Starting salaries range from £18,000 to £25,000, while experienced farm managers can earn £35,000 to £50,000, but income varies with seasons and crop prices.
-
-**问：Which visa can foreign farmers use to work in the UK?**
-答：The main route is the Seasonal Worker visa for temporary farm work; those with management experience may apply for a Skilled Worker visa.
-
-**问：What are the career progression opportunities for farmers?**
-答：Start as a farm worker, progress to farm supervisor or manager, and eventually become a farm owner. Alternatively, move into agricultural consultancy, food processing, or agritech.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

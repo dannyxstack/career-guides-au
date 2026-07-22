@@ -1,61 +1,94 @@
-# Other practitioners of natural healing（Other practitioners of natural healing）职业分析 · 加拿大
+# Other practitioners of natural healing — career analysis · Canada
 
-**职业代码：32209 – Other practitioners of natural healing。**
+**Occupation code: 32209 (NOC)**
 
-In Canada, complementary health therapists offer non-traditional therapies such as naturopathy, TCM, and herbalism, subject to provincial regulation. This occupation is eligible for immigration via PNP or employer sponsorship, with limited self-employed options, suitable for candidates with relevant credentials and language skills.
+In Canada, complementary health therapists provide non-traditional therapies such as naturopathy, Chinese medicine, and herbal medicine, subject to provincial regulatory requirements. This occupation can lead to immigration through provincial nomination or employer sponsorship, but self-employment pathways are limited, suitable for applicants with relevant qualifications and language skills.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科或大专（相关领域） | 3-4年 | $20,000~$60,000（取决于省份和学校，如中医或自然疗法学位） |
-| 专业文凭或证书（具体疗法） | 1-3年 | $10,000~$30,000（如芳香疗法、草药学证书，需经认证机构认可） |
+| Bachelor's degree or diploma (related field) | 3-4 years | $20,000~$60,000 (Depends on the province and school, such as degree in Traditional Chinese Medicine or Naturopathy) |
+| Diploma or Certificate (Specific Therapy) | 1-3 years | $10,000~$30,000 (Certificates such as aromatherapy and herbal medicine, recognized by accredited institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 海外学历需评估为加拿大同等水平 |
-| 省专业牌照/注册 | 相应省级监管机构（如安省自然疗法医师学院） | 必备 | 多数省份要求注册，具体因疗法而异 |
-| 语言考试（IELTS/TEF） | IELTS/TEF | 必备 | 移民需CLB 7以上，部分省份要求更高 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Overseas Qualifications Must Be Assessed as Equivalent to Canadian Standards |
+| Provincial professional license/registration | Relevant provincial regulatory body (e.g., College of Naturopaths of Ontario) | Required | Most provinces require registration, which varies by therapy. |
+| Language test (IELTS/TEF) | IELTS/TEF | Required | For migration, CLB 7 or higher required; some provinces have higher requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 8,000。随着人们对整体健康和预防性医疗的兴趣增加，补充健康治疗师的需求在加拿大稳步增长。尤其在老龄化人口和多元文化社区中，从业机会较多，但需要适应各省不同的认证和监管环境。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 8,000. With growing interest in holistic health and preventive care, demand for complementary health therapists is rising steadily in Canada. Opportunities are particularly strong among aging populations and multicultural communities, but practitioners must adapt to varying certification and regulatory environments across provinces.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 时薪约$17-$24，受雇于诊所或自雇收入 |
-| 中级（3-6年） | $50,000~$75,000 | 有稳定客户群或合伙经营 |
-| 高级（6年以上） | $75,000~$100,000 | 独立开业或知名专家，收入差异大 |
+| Median salary | $32,867 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$50,000 | Hourly rate approximately $17-$24, employed in clinics or self-employed income |
+| Mid-level (3–6 years) | $50,000~$75,000 | Have a stable client base or partnership |
+| Senior (6+ years) | $75,000~$100,000 | Self-employed or renowned experts, with large income variation. |
+| average salary | $33,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括从助理治疗师逐步晋升为独立执业者，或开设自己的诊所。通过获取高级认证（如中医针灸专科）或扩展服务范围（如整合营养咨询），可提升收入和客户基础。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Complementary health therapists face AI replacement risk; administrative and diagnostic support tasks can be automated, but personalized treatment and patient trust provide a strong moat.
+
+Career development paths include progressing from assistant therapist to independent practitioner or opening your own clinic. By obtaining advanced certifications (e.g., acupuncture specialty) or expanding service scope (e.g., integrating nutrition counseling), you can increase income and client base.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patient health records and treatment documentation
+- Preliminary diagnostic suggestions based on symptom database
+- Automated management of appointment scheduling and follow-up reminders.
+- Herbal dosage calculation and incompatibility checks
+
+**Where AI augments the role:**
+
+- AI-assisted analysis and reading of imaging, tongue diagnosis, and other diagnostic data
+- Leverage knowledge graphs to accelerate personalized treatment plan design
+- Generate patient education materials through natural language processing
+- AI virtual assistants assist with teaching and training
+
+**Human moat:**
+
+- Ability to build trust and emotional connection with patients
+- Complex multi-factor comprehensive judgment and intuitive reasoning
+- Flexible application of traditional culture and philosophical background
+- Practical experience in manual therapy and physical contact
+
+**Skills to build:**
+
+- Operation of digital health tools and remote consultation platforms
+- Basic data analysis and collaboration with AI diagnostic tools
+- Health informatics and electronic medical records management
+- Cross-cultural communication and patient education design.
+- Critical Thinking and AI Output Validation
+- Continuously learn emerging natural therapy techniques
+
+**Key growth areas:**
 
 - Holistic Health
 - Aging Population
@@ -64,69 +97,68 @@ In Canada, complementary health therapists offer non-traditional therapies such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC省）有健康护理类别，需雇主offer或省注册 |
-| Subclass AIP（Atlantic Immigration Program） | 海洋四省雇主担保，适合有工作机会的申请人 |
-| Subclass Self-employed（Self-Employed Persons Program） | 仅适用于文化/体育/农场类，补充健康治疗师通常不符合，暂不考虑 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC) have health care streams, requiring employer offer or provincial registration |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
+| Subclass Self-employed (Self-Employed Persons Program) | Only applicable to cultural/sports/farming categories; complementary health therapists are usually ineligible, not considered for now |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other practitioners of natural healing？**
-- 有相关执业资格和英语/法语能力（CLB 7+）的海外从业者
-- 愿意通过省提名或雇主担保移民，接受地区限制
-- 能适应当地监管环境，并可能需要进行额外培训
-
-**谁不适合学Other practitioners of natural healing？**
-- 缺乏认证或无法通过省考的人士
-- 追求快速、低成本移民且不希望地域限制的申请人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Overseas practitioners with relevant qualifications and English/French ability (CLB 7+)
+- Willing to immigrate through provincial nomination or employer sponsorship, accepting regional restrictions
+- Ability to adapt to local regulatory environment, with possible need for additional training
+
+**Who is not suited**
+- People lacking certification or unable to pass provincial exams
+- Applicants seeking fast, low-cost migration without geographic restrictions
+
+---
+
+## 8. FAQ
+
+**Q: In Canada, what is the income of complementary health therapists? How long to reach high income?**
+A: Entry-level annual income approx. $35k-$50k, mid-level $50k-$75k, senior up to $75k-$100k+. Reaching high income usually requires 5+ years of building client base or opening a practice; income is heavily influenced by region, client volume, and visibility.
+
+**Q: Can complementary health therapists immigrate to Canada through Express Entry?**
+A: Usually not. This occupation is not in EE's priority categories (STEM, healthcare etc.), and there is no specific federal stream. More common via provincial nomination (e.g. BC PNP Health Authority category) or Atlantic Immigration Program (AIP) employer sponsorship. Some self-employed paths are not applicable.
+
+**Q: What key certifications are required for complementary health therapists in Canada?**
+A: Overseas qualifications require ECA certification and a provincial practice license (e.g., TCM practitioners must pass the Pan-Canadian exam). Requirements vary by therapy and province; for example, naturopathic doctors must graduate from an accredited college and pass the North American Board of Naturopathic Examiners exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Other practitioners of natural healing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income like for complementary health therapists in Canada? How long to reach high income?**
-答：Entry-level salary ranges from $35k-$50k, mid-level $50k-$75k, and senior can exceed $75k-$100k. Reaching high income typically takes over 5 years of building a client base or practice, heavily influenced by location, client volume, and reputation.
-
-**问：Can complementary health therapists immigrate through Express Entry?**
-答：Generally no. This occupation is not prioritized under EE categories (e.g., STEM, healthcare). Common pathways are Provincial Nominee Programs (e.g., BC PNP Health Authority) or Atlantic Immigration Program employer sponsorship. Self-employment programs do not apply.
-
-**问：What key certifications do complementary health therapists need in Canada?**
-答：Foreign education requires ECA, and provincial licencing is mandatory (e.g., TCM practitioners must pass pan-Canadian exams). Requirements vary by therapy and province; for example, naturopathic doctors must graduate from an accredited college and pass the NPLEX exam.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

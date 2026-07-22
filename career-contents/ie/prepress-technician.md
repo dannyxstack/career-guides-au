@@ -1,60 +1,92 @@
-# Pre-press Technician（Pre-press Technician）职业分析 · IE
+# Pre-press Technician — career analysis · Ireland
 
-**职业代码：7321 – Pre-press Technician。**
+**Occupation code: 7321 (ISCO08)**
 
-Pre-press technicians prepare design files for printing, including layout, image processing, and proofing. They are in demand in Ireland's publishing and packaging sectors.
+Pre-press technicians convert design files into print-ready formats, including layout, image processing, and proofing. There is demand for this occupation in Ireland's publishing and packaging industries.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育/职业培训 | 2年（高级证书） | $1,000~$5,000（继续教育学院课程费用） |
-| 本科 | 3-4年 | $6,000~$12,000（高等教育学费（欧盟生）） |
+| Secondary education/vocational training | 2 years (Advanced Certificate) | $1,000~$5,000 (Further education college course fees) |
+| Bachelor's degree | 3-4 years | $6,000~$12,000 (Higher education tuition fees (EU nationals)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印前技术高级证书 | 爱尔兰继续教育学院 | 可选 | 常见入门资格 |
-| 平面设计或相关学位 | 爱尔兰大学 | 可选 | 提升竞争力 |
+| Advanced Certificate in Prepress Technology | Irish Further Education College | Optional | Common entry qualifications |
+| Degree in graphic design or related field | Irish universities | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。随着数字印刷和自动化发展，传统印前岗位需求略有下降，但包装和标签领域仍保持稳定。预计未来5年就业人数小幅减少约5%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. With the development of digital printing and automation, demand for traditional pre-press roles has decreased slightly, but packaging and labelling remain stable. Employment is projected to decrease by about 5% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★★☆☆☆）。** 初级印前技术员可晋升为资深技术员或印前主管，也可转向数字媒体设计或印刷管理岗位。数字化技能（如PDF工作流程）是晋升关键。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Pre-press technician work is highly automated; AI can now replace humans in core tasks like layout, image processing, and proofing. Entry-level positions have significantly decreased, and practitioners need to shift toward creativity and quality control.
+
+Entry-level pre-press technicians can advance to senior technicians or pre-press supervisors, or move into digital media design or print management roles. Digital skills (such as PDF workflows) are key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatic layout and color correction
+- Basic image adjustments (e.g., denoising, cropping)
+- Digital proofing and file format conversion
+- File preflight and error alerting
+
+**Where AI augments the role:**
+
+- Complex creative layout design (AI-assisted iteration suggestions)
+- Efficient image synthesis and special effects generation
+- Multi-version automatic generation and A/B testing
+- Smart monitoring and optimization of print quality
+
+**Human moat:**
+
+- Client communication and needs understanding
+- Creative design and aesthetic judgment
+- Complex problem solving and quality optimization
+- Cross-departmental collaboration and project management
+
+**Skills to build:**
+
+- Proficient in AI layout tools (such as Adobe Illustrator smart plugins)
+- Learn printing processes and color management.
+- Enhance visual design and creative skills
+- Data Analysis and Automated Quality Inspection
+- Project management and client communication
+
+**Key growth areas:**
 
 - Digital Printing
 - Packaging
@@ -63,62 +95,64 @@ Pre-press technicians prepare design files for printing, including layout, image
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的非紧缺职业，需雇主担保。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不适用，因该职业不在紧缺清单。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations with an annual salary of no less than €30,000, requiring employer sponsorship. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, as this occupation is not on the shortage list. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pre-press Technician？**
-- 注重细节、有耐心的人
-- 对印刷流程感兴趣的人
-- 愿意学习数字技术的人
+**Who is suited**
+- Detail-oriented, patient people
+- People interested in the printing process
+- People willing to learn digital technology.
 
-**谁不适合学Pre-press Technician？**
-- 追求高薪或快速晋升的人
-- 对重复性工作厌倦的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- For those who find repetitive work tedious
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for a prepress technician?**
+A: Entry-level annual salary around €25,000-32,000; senior level can reach €40,000-50,000. Salary growth limited, affected by industry digitalization.
+
+**Q: Is this occupation suitable for immigration to Ireland?**
+A: This occupation is not on the shortage list; usually only a standard work permit is available, requiring employer sponsorship and an annual salary above €30,000. Immigration difficulty is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★★☆☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Pre-press Technician属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for pre-press technicians?**
-答：Entry-level salaries range from EUR 25,000 to 32,000, while senior roles can reach EUR 40,000-50,000. Growth is limited due to digitalization.
-
-**问：Is this occupation suitable for immigration to Ireland?**
-答：This occupation is not on the shortage list; only a General Employment Permit is possible, requiring employer sponsorship and salary above EUR 30,000. Immigration is challenging.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

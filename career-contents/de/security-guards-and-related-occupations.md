@@ -1,60 +1,92 @@
-# Security Guards and Related Occupations（Security Guards and Related Occupations）职业分析 · DE
+# Security Guards and Related Occupations — career analysis · Germany
 
-**职业代码：5311 – Security Guards and Related Occupations。**
+**Occupation code: 5311 (KldB)**
 
-Work in object, valuables and personal protection, including security guards, watchpersons and bodyguards. Main duties are monitoring security systems, patrolling, checking access and responding to incidents.
+Work involving protection of objects, valuables, and people, including security guards, watchmen, and personal safety services. Main duties include monitoring security systems, patrolling, checking access, and responding to emergencies.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2年 | —（双元制培训通常无学费，每月津贴约700-1000欧元） |
-| 专业进修（IHK认证） | 6个月-1年 | $1,500~$4,000（IHK认证保安员课程，费用自理） |
+| Vocational training (dual system) | 2 years | $0~$0 (Dual training usually has no tuition fees, with a monthly allowance of around €700-1,000) |
+| Professional development (IHK certified) | 6 months to 1 year | $1,500~$4,000 (IHK-certified security guard course, fees at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK认证保安员 | 德国工商业协会(IHK) | 必备 | 根据§34a GewO法规，从事保安工作需此项认证（必要时需无犯罪记录证明）。 |
-| 德语水平B1/B2 | 歌德学院等 | 可选 | 与客户沟通和报告撰写所需。 |
+| IHK-certified security guard | German Chambers of Commerce and Industry (IHK) | Required | Required for security work under §34a GewO regulations (criminal record certificate may be needed). |
+| German language proficiency B1/B2 | Goethe-Institut, etc. | Optional | Required for client communication and report writing. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 280,000。德国安全行业持续稳定发展，受数字化转型和公共安全需求增加驱动。私人安保和公共安全岗位需求温和增长，但对资质和技能要求逐渐提高。
+**Job demand: high (★★★★☆).** National workforce approx. 280,000. The German security industry continues to develop steadily, driven by digital transformation and increased public safety demand. Demand for private security and public safety positions grows moderately, but qualification and skill requirements are gradually increasing.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，取决于企业规模和联邦州 |
-| 中级（3-8年） | $30,000~$38,000 | 已具备IHK认证和工作经验 |
-| 高级（8年以上） | $38,000~$48,000 | 包括团队领导或特殊安全岗位 |
+| Median salary | $47,376 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, depends on company size and federal state |
+| Mid-level (3–8 years) | $30,000~$38,000 | Already has IHK certification and work experience |
+| Senior (8+ years) | $38,000~$48,000 | Includes team leadership or special security roles |
+| average salary | $51,552 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级保安可通过在职培训和职业资格提升（如IHK认证）晋升为团队领导、安全主管或安全顾问。也可转向安全技术、风险管理等专业领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
+
+Junior security guards can progress to team leader, security supervisor, or security consultant through on-the-job training and professional qualifications (e.g., IHK certification). They can also move into specialized areas like security technology or risk management.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
 
 - Security Technology
 - Digital Surveillance
@@ -63,69 +95,68 @@ Work in object, valuables and personal protection, including security guards, wa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa for Vocational Training） | 完成双元制培训后可申请技术移民签证，适合先留学再工作。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 机会卡允许未获工作合同但符合积分条件的求职者入境寻找工作。 |
-| Subclass Recognition Partner（Recognition Partnership） | 通过资质认证伙伴程序，可在德国境外远程获得资质认可后申请签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa for Vocational Training) | After completing dual training, can apply for a skilled migration visa, suitable for studying abroad first then working. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Opportunity cards allow job seekers who do not have a job contract but meet points criteria to enter the country to look for work. |
+| Subclass Recognition Partner (Recognition Partnership) | Through a qualification recognition partner program, you can obtain qualification recognition remotely from outside Germany and then apply for a visa. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Security Guards and Related Occupations？**
-- 责任心强、做事沉稳的人
-- 喜欢稳定工作环境并能处理突发状况的人
-- 对安全技术有兴趣的人
-
-**谁不适合学Security Guards and Related Occupations？**
-- 不喜欢重复性工作的人
-- 无法适应轮班制的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong sense of responsibility and calm demeanor
+- Someone who enjoys a stable work environment and can handle emergencies
+- People interested in safety technology
+
+**Who is not suited**
+- People who dislike repetitive work
+- People unable to adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a security guard in Germany?**
+A: Junior security guard pre-tax annual salary approx EUR 24,000-30,000, with experience and certification can rise to EUR 38,000-48,000, but salary varies significantly by region and employer.
+
+**Q: How can security guards immigrate to Germany?**
+A: You can apply for skilled migration after completing a dual-system training program, or enter the country for job hunting with an opportunity card. Note that working as a security guard usually requires German IHK certification (§34a GewO).
+
+**Q: What are the career prospects for security guards?**
+A: Junior security guards can advance to team leader, security supervisor, or transition to security consulting or technical security. Digital transformation brings new opportunities but requires continuous learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Security Guards and Related Occupations为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for security guards in Germany?**
-答：Entry-level guards earn around €24,000-30,000 gross annually, rising to €38,000-48,000 with experience and certification, though variation by region and employer is significant.
-
-**问：How to immigrate as a security guard in Germany?**
-答：Complete dual vocational training and apply for a skilled worker visa, or enter with a Chancenkarte. Note that working as a security guard requires IHK certification under §34a GewO.
-
-**问：What are the career prospects for security guards?**
-答：Starting as a guard, you can advance to team leader, security manager, or move into security consulting and technical security. Digitalization offers new opportunities but requires continuous learning.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

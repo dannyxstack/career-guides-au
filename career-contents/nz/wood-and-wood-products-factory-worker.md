@@ -1,61 +1,97 @@
-# Wood and Wood Products Factory Worker（Wood and Wood Products Factory Worker）职业分析 · 新西兰
+# Wood and Wood Products Factory Worker — career analysis · New Zealand
 
-**职业代码：839413 – Wood and Wood Products Factory Worker。**
+**Occupation code: 839413 (ANZSCO)**
 
-Operate woodworking machinery in timber mills, perform sawing, planing, splicing, packaging, and handle raw materials and finished products. In New Zealand, this occupation can lead to immigration via Accredited Employer Work Visa (AEWV) or specific skill sponsorship, subject to ANZSCO skill level requirements.
+Operate woodworking machinery in a timber processing plant, performing sawing, planing, splicing, packaging, and handling raw materials and finished products. This occupation is eligible for migration to New Zealand via an Accredited Employer Work Visa (AEWV) or specific skill sponsorship, but must meet ANZSCO skill level requirements.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 岗前培训 | 2-4周 | $500~$2,000（雇主通常提供在职培训） |
-| L4证书（木工机械操作） | 6-12个月 | $3,000~$8,000（可通过理工学院或行业培训机构获得） |
+| Pre-job training | 2-4 weeks | $500~$2,000 (Employers usually provide on-the-job training) |
+| L4 Certificate (Wood Machining Operations) | 6–12 months | $3,000~$8,000 (Can be obtained through polytechnics or industry training providers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰木工四级证书（Level 4 Certificate in Wood Manufacturing） | 新西兰理工学院（Te Pūkenga） | 可选 | 非强制，但有助于晋升和移民加分 |
-| 高空作业证（Working at Height） | 新西兰工作安全（WorkSafe） | 可选 | 部分岗位要求 |
-| 叉车驾驶证（Forklift License） | OSH认证培训机构 | 可选 | 提高就业竞争力 |
+| New Zealand Level 4 Certificate in Wood Manufacturing | Te Pūkenga (New Zealand Institute of Skills and Technology) | Optional | Not mandatory, but helpful for promotion and immigration points |
+| Working at Height certificate | WorkSafe New Zealand | Optional | Some positions require |
+| Forklift License | OSH approved training provider | Optional | Enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰建筑和家具行业发展稳定，木材加工需求持续，但自动化可能影响低技能岗位。就业机会集中于丰盛湾、坎特伯雷等林业区。持AEWV工签途径较可行，但技术移民门槛较高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. New Zealand's construction and furniture industry is stable with sustained demand for wood processing, but automation may impact low-skilled jobs. Job opportunities are concentrated in forestry regions like Bay of Plenty and Canterbury. The AEWV work visa pathway is feasible, but the skilled migration threshold is high.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 时薪约22-28 NZD |
-| 中级（2-5年） | $55,000~$65,000 | 时薪约26-32 NZD |
-| 高级（5年+） | $65,000~$75,000 | 时薪约32-37 NZD，含加班费 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Hourly wage approx. 22-28 NZD |
+| Intermediate (2-5 years) | $55,000~$65,000 | Hourly wage approximately 26-32 NZD |
+| Senior (5+ years) | $65,000~$75,000 | Hourly rate approximately 32-37 NZD including overtime pay |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级操作工起步，可晋升为高级机械操作员或班组长，进而转向技术维修或质量管理。部分经验丰富者可考取相关证书（如新西兰木工4级证书），提升至ANZSCO 3级技能水平，增加移民机会。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Wood processing plant workers perform highly repetitive tasks; AI/automation will significantly reduce positions, but equipment maintenance and complex judgment still require human labor, making overall risk relatively high.
+
+Start as an entry-level operator, can advance to senior machine operator or team leader, then transition to technical maintenance or quality management. Some experienced individuals can obtain relevant certifications (e.g., New Zealand Carpentry Level 4 Certificate), elevating to ANZSCO Skill Level 3, increasing immigration opportunities.
+
+**Tasks most exposed to AI:**
+
+- Using scanners/sensors to automatically detect and classify wood defects
+- An automatic cutting machine saws wood precisely to preset dimensions without manual measurement
+- Transporting and stacking finished boards by robot, replacing manual handling
+- AI vision system inspects surface quality and automatically rejects defective products
+- Automatic gluing and splicing equipment completes the plywood bonding process.
+
+**Where AI augments the role:**
+
+- Monitor multiple CNC machine tools via operation panel and adjust parameters
+- Use tablets to view production instructions and drawings, improving accuracy
+- AI predictive maintenance recommendations, replacing easily worn parts in advance to reduce downtime
+- View equipment fault indicators via AR glasses to accelerate repair processes
+- Digital dashboards display real-time output and pass rate, aiding management decisions
+
+**Human moat:**
+
+- Experience-based judgment when handling natural wood defects (knots, cracks)
+- On-site emergency handling of mechanical faults or abnormal conditions (e.g., jamming, breakage)
+- Final visual inspection of finished products to compensate for AI misjudgments
+- High-intensity physical adaptability and endurance (some on-site work still requires manual labor)
+- On-site communication and collaboration with colleagues, team leaders, and quality inspectors
+
+**Skills to build:**
+
+- Smart Manufacturing Fundamentals: PLC Programming, Sensor Calibration
+- Robot collaboration and maintenance: safe operation and basic troubleshooting of industrial robots
+- Data analysis: interpreting production reports, using data to optimize line efficiency
+- Digital tools: using tablets, AR/MR devices to assist work
+- Quality control: SPC statistical process control and ISO standards.
+- Cross-disciplinary skills: mechanical repair, welding, electrical basics
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -64,69 +100,68 @@ Operate woodworking machinery in timber mills, perform sawing, planing, splicing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见工签，需获得认证雇主工作offer，工资不低于中位数（2025年约31.61 NZD/时），可续签但移民路径有限。 |
-| Subclass SMC（Skilled Migrant Category） | 需ANZSCO技能等级1-3且满足6分制；本职业通常为4-5级，需通过配偶加分或额外技能证书提升等级。 |
-| Subclass Green List T2（Green List Tier 2） | 本职业不在绿色清单上。若雇主担保且工资达中位数1.5倍，可能通过特定行业协议申请。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common work visa; requires a job offer from an accredited employer, salary not below the median wage (~31.61 NZD/hour in 2025), renewable but limited immigration pathways. |
+| Subclass SMC (Skilled Migrant Category) | Requires ANZSCO skill level 1-3 and meets the 6-point system; this occupation is usually level 4-5, requiring partner points or additional skill certificates to upgrade |
+| Subclass Green List T2 (Green List Tier 2) | This occupation is not on the Green List. If employer-sponsored and salary reaches 1.5 times the median, it may be possible through specific industry agreements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood and Wood Products Factory Worker？**
-- 动手能力强，能承受体力劳动和粉尘环境
-- 愿意接受轮班和户外工作
-- 有机械操作经验或学习意愿
-
-**谁不适合学Wood and Wood Products Factory Worker？**
-- 追求高薪资和快速移民的人士
-- 不适应重复性劳动或噪音/粉尘环境
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, able to withstand physical labor and dusty environments
+- Willing to accept shift work and outdoor work
+- Has mechanical operation experience or willingness to learn
+
+**Who is not suited**
+- Individuals seeking high salaries and fast-track immigration
+- Not suitable for repetitive work or noisy/dusty environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for wood factory workers?**
+A: Entry-level salary around NZD 45,000-55,000 per year; mid-to-senior level can reach over NZD 65,000; hourly rate approximately NZD 22-37; overtime pay additional.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: Not very easy. This occupation is typically ANZSCO 4-5 level, requiring a 6-point system for skilled migration (SMC), often needing additional certificates or a spouse's points. The main pathway is the Accredited Employer Work Visa (AEWV), but transitioning to residency is difficult.
+
+**Q: What are the career development prospects?**
+A: Can be promoted to senior operator, team leader, or quality controller. With a Level 4 certificate, may transition to technical maintenance or management roles, but overall advancement is limited; automation may reduce entry-level positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood and Wood Products Factory Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for wood factory workers?**
-答：Entry-level salary is about 45,000-55,000 NZD/year, mid-senior up to 65,000+ NZD. Hourly rate ranges from 22 to 37 NZD, with overtime additional.
-
-**问：Is it easy to immigrate to New Zealand with this occupation?**
-答：Not easy. This occupation is usually ANZSCO 4-5, requiring additional qualifications for Skilled Migrant Category 6-point system. Main path is AEWV, but residence transition is difficult.
-
-**问：What are the career prospects?**
-答：Can progress to senior operator, team leader, or quality control. Obtaining Level 4 certificate may lead to technical maintenance or management, but automation may reduce entry-level positions.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

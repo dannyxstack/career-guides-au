@@ -1,127 +1,159 @@
-# 歌手（Singer）职业分析 · 澳大利亚
+# Singer — career analysis · Australia
 
-**职业代码：211214 – Singer。**
+**Occupation code: 211214 (ANZSCO)**
 
-歌手以歌唱进行表演，涵盖现场演出、录音、音乐剧、合唱团与活动演唱。多为自由职业，收入由演出、版税、教学和活动构成，波动大；成名与稳定收入高度依赖作品、曝光与个人品牌。
+Singers perform through singing, covering live shows, recordings, musicals, choirs, and event singing. Mostly freelancers, income derived from performances, royalties, teaching, and events, with high fluctuation; fame and stable income highly depend on work, exposure, and personal brand.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 声乐训练 / 音乐学位（可选） | 数年持续 | $2,000~$60,000（私人声乐课或音乐学院；非强制） |
+| Vocal training / Music degree (optional) | Several years continuous | $2,000~$60,000 (Private vocal lessons or music school; not mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 演出记录与作品（Demo/曲目） | — | 可选 | 试唱与曝光决定机会 |
+| Performance records and portfolio (demo/repertoire) | — | Optional | Auditions and exposure determine opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 —。活动与现场演出需求稳定，音乐剧与合唱是相对稳定的就业方向；流媒体与短视频改变了成名与变现路径。AI 合成人声冲击配音/库存演唱，但现场感染力与原创表达难以替代。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,000. Event and live performance demand is stable; musical theatre and choirs are relatively stable employment paths. Streaming and short videos have changed pathways to fame and monetisation. AI-synthesised voices impact dubbing/stock singing, but live expressiveness and original expression are hard to replace.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：很高（★★★★½）。**
-**工作强度：中高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 兼职/活动歌手 | $28,000~$52,000 | 按场次计酬，波动大 |
-| 全职歌手 | $52,000~$80,000 | 演出+教学+活动综合 |
-| 知名歌手/音乐剧主演 | $85,000~$200,000 | 头部演出与版税溢价显著 |
+| Median salary | $91,832 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Part-time/event singer | $28,000~$52,000 | Paid per session, fluctuates greatly |
+| Full-time singer | $52,000~$80,000 | Performance + teaching + event combination |
+| Famous singer/musical theatre lead | $85,000~$200,000 | Significant premium for top performances and royalties |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 自媒体与短视频成为重要曝光与变现渠道；活动演唱（婚礼/企业）是稳定的现金流来源。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's Impact on Singers is Mixed: AI-generated music and virtual singers compress the low-end market, but digital tools amplify individual production and performance capabilities. Top-tier human voices and emotional expression remain irreplaceable core assets.
 
-- 现场与活动演出
-- 录音/翻唱与流媒体
-- 声乐教学
-- 音乐剧/合唱团
+Self-media and short videos have become key channels for exposure and monetization; event singing (weddings/corporate) is a stable cash flow source.
+
+**Tasks most exposed to AI:**
+
+- Simple singing for background music and basic recording studios
+- Backing vocals and accompaniment for some live performances
+- Audio demo using AI-generated voice imitation
+- Demonstration singing in basic teaching (replaced by AI voice)
+- Standardized holiday/event singing (e.g., shopping mall background performances)
+
+**Where AI augments the role:**
+
+- AI-assisted mixing and mastering to improve track quality
+- AI composition tools inspire creativity and arrangement experimentation
+- Virtual stage/live augmented reality effects to expand performance formats
+- AI fan data analysis to guide tour cities and song selection
+- AI voice cloning for temporary backup or special sound effects
+
+**Human moat:**
+
+- Unique voice, emotional interpretation, and live presence
+- Personal experiences and stories contained in original songs
+- Genuine connection with fans and community management
+- Impromptu singing, adaptation, and interaction skills
+- Deep understanding of music styles and cross-genre fusion
+
+**Skills to build:**
+
+- AI music production tools (e.g., MuseNet, Suno assistance)
+- Advanced recording and mixing with digital audio workstation (DAW)
+- Social media content creation and personal brand management
+- Basic music theory for AI-assisted songwriting
+- Live streaming and online performance planning technology
+- Copyright and contract knowledge (managing AI-derived revenue)
+
+**Key growth areas:**
+
+- Live & Event Performance
+- Recording/Cover & Streaming
+- Vocal Teaching
+- Musical/Choir
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学歌手？**
-- 有声乐天赋并持续训练
-- 擅长自我营销与舞台表现
-- 能接受收入波动并多元化变现
-
-**谁不适合学歌手？**
-- 追求稳定坐班与固定薪资
-- 以移民为主要目标
-- 不愿做曝光与个人品牌经营
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has vocal talent and continuous training
+- Good at self-marketing and stage performance
+- Ability to accept income fluctuations and diversify monetization
+
+**Who is not suited**
+- Prefer stable office jobs and fixed salary
+- Primarily targeting immigration
+- Unwilling to do exposure and personal brand building
+
+---
+
+## 8. FAQ
+
+**Q: How much do Australian singers earn?**
+A: Part-time/gig singers earn approximately $28k-$52k; full-time singers earn about $52k-$80k; well-known singers/musical theatre leads can earn $85k-$200k+. Most rely on diversified income from performances, teaching, and events.
+
+**Q: Can singers migrate to Australia through skilled migration?**
+A: Generally not. Singer (211214) is not on the Skilled Migration Occupation List. A very small number of top performers may consider special pathways like Global Talent/Distinguished Talent.
+
+**Q: Will singers be replaced by AI?**
+A: AI-generated voices and covers impact session singing and stock vocals, but live performance, emotional expression, stage presence, and personal brand are hard to replace. Strengthen live and original work; use AI to assist production for stability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | 表演艺术职业概况 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★½☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 很高（★★★★½） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-歌手属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲歌手收入多少？**
-答：兼职/活动歌手约 $28k~$52k；全职歌手约 $52k~$80k；知名歌手/音乐剧主演可达 $85k~$200k+。多数靠演出+教学+活动多元收入。
-
-**问：歌手能技术移民澳洲吗？**
-答：基本不能。Singer (211214) 不在技术移民清单上。极少数顶尖表演者可考虑全球人才/杰出人才等特殊通道。
-
-**问：歌手会被 AI 替代吗？**
-答：AI 合成人声与翻唱冲击配唱/库存演唱，但现场演出、情感表达、舞台魅力与个人品牌难以替代。强化现场与原创、用 AI 辅助制作更稳。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

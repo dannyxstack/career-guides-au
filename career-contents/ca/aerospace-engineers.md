@@ -1,59 +1,92 @@
-# Aerospace engineers（Aerospace engineers）职业分析 · 加拿大
+# Aerospace engineers — career analysis · Canada
 
-**职业代码：21390 – Aerospace engineers。**
+**Occupation code: 21390 (NOC)**
 
-Aerospace engineers design, develop, test, and supervise the manufacturing of aircraft, spacecraft, and missile systems, covering aerodynamics, propulsion, structures, and navigation control. This is a key profession in Canada's high-tech industry.
+Aerospace engineers design, develop, test, and oversee the manufacturing of aircraft, spacecraft, and missile systems, covering aerodynamics, propulsion systems, structural design, and navigation control. It is one of the core professions in Canada's high-tech industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科（航空航天工程） | 4年 | $25,000~$60,000（加拿大本地生学费约25000-60000加元/年，国际生更高） |
-| 硕士（航空航天相关） | 1-2年 | $15,000~$40,000（硕士学费约15000-40000加元/年） |
+| Bachelor's degree (Aerospace Engineering) | 4 years | $25,000~$60,000 (Domestic tuition in Canada approx. CAD 25,000–60,000/year, higher for international students) |
+| Master's degree (aerospace-related) | 1-2 years | $15,000~$40,000 (Master's tuition approx 15,000-40,000 CAD/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | 加拿大大学 | 必备 | 需CEAB认证的工程专业 |
-| 专业工程师执照（P.Eng） | 省级工程监管机构 | 可选 | 要求4年工作经验并通过职业道德考试 |
-| 航空航天工程师认证 | 加拿大航空航天协会等相关机构 | 可选 | 非必须，但有利于晋升 |
+| Bachelor's degree in engineering | Canadian universities | Required | Engineering programs requiring CEAB accreditation |
+| Professional engineer license (P.Eng) | Provincial engineering regulatory body | Optional | Requires 4 years of work experience and passing an ethics exam |
+| Aerospace engineer certification | Relevant organizations such as the Canadian Aeronautics and Space Institute | Optional | Not mandatory, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 11,300。加拿大航空航天产业集中在魁北克省（蒙特利尔）、安大略省（多伦多）和BC省，受全球航空业复苏和国防需求驱动，未来5年就业增长稳定，但初级岗位竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 11,300. Canadian aerospace industry is concentrated in Quebec (Montreal), Ontario (Toronto), and BC. Driven by global aviation recovery and defence demand, employment growth is stable over next 5 years, but junior positions are competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 初级职位起薪约6-8万加元 |
-| 中级（3-7年） | $80,000~$110,000 | 中级工程师年薪8-11万加元 |
-| 高级（7年以上） | $110,000~$150,000 | 高级/管理职位可达11-15万加元 |
+| Median salary | $104,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $60,000~$80,000 | Entry-level salary starts at about CAD 60k-80k |
+| Mid-level (3–7 years) | $80,000~$110,000 | Intermediate engineer annual salary CAD 80,000-110,000 |
+| Senior (7+ years) | $110,000~$150,000 | Senior/management roles can reach 110,000-150,000 CAD |
+| average salary | $116,480 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级工程师可起步于设计或测试岗位，通过积累经验向系统工程师、项目经理或技术专家发展。深造（硕士/博士）或获得P.Eng执照有助于晋升高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aerospace engineers face mixed AI impact: analytical tasks like design optimization and simulation testing are enhanced, but lower-level tasks like multi-disciplinary integration, safety certification, and physical prototype evaluation will be automated, upgrading overall job roles.
+
+Junior engineers can start in design or testing roles, advancing to systems engineer, project manager, or technical expert through experience. Further study (master's/PhD) or obtaining a P.Eng license helps progress to senior roles.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for repetitive drafting and standard part library calls
+- Parametric simulation and batch result analysis based on known physical models
+- Write parts of routine test reports and compliance documents
+- Maintaining and updating metadata in engineering data management systems
+
+**Where AI augments the role:**
+
+- Using AI agents to rapidly explore design space, generating innovative aerodynamic shapes or structural layouts
+- Accelerate iteration through multiphysics simulation and ML agents, predict material fatigue and failure modes
+- Use natural language interaction to quickly retrieve regulations, standards, and historical design cases
+- Automatically generate multi-plan trade-off reports to assist team decision-making
+
+**Human moat:**
+
+- Cross-disciplinary system integration and trade-off decision-making skills
+- Responsibility for safety-critical systems and approval authority.
+- Compliance communication and contract negotiation with military and airworthiness authorities
+- Engineering judgment and innovative breakthroughs under uncertainty
+
+**Skills to build:**
+
+- AI-based optimization design methods and tools (e.g., generative design, reinforcement learning)
+- Machine learning engineering and data-driven modeling fundamentals
+- Advanced simulation software automation scripts and workflow orchestration
+- Systems Engineering and MBSE (Model-Based Systems Engineering)
+- Knowledge of AI ethics and explainability in aerospace applications
+- Rapid prototyping and 3D printing/digital twin technology.
+
+**Key growth areas:**
 
 - Aerospace
 - Aviation
@@ -62,68 +95,67 @@ Aerospace engineers design, develop, test, and supervise the manufacturing of ai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry / FSW（Federal Skilled Worker） | 基于CRS评分，适合有1年以上工作经验且英语/法语达标的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对航空航天工程师的省提名项目，如安大略省、魁北克省 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，适用于获得加拿大雇主offer的情况 |
+| Subclass Express Entry / FSW (Federal Skilled Worker) | Based on CRS score, suitable for applicants with over 1 year of work experience and meeting English/French language requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for aerospace engineers, e.g., Ontario, Quebec. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable when you have a job offer from a Canadian employer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aerospace engineers？**
-- 具备扎实的数学、物理基础，对飞行器设计有浓厚兴趣的工程类毕业生
-- 喜欢团队协作和解决复杂技术问题，能承受一定工作压力
-- 有意向在加拿大高科技制造业长期发展并定居的人
-
-**谁不适合学Aerospace engineers？**
-- 不喜欢严格的安全规范和精确设计，动手能力较弱者
-- 对航空航天行业不感兴趣，或不愿在魁北克等主要产业区工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineering graduates with solid math and physics foundations and a strong interest in aircraft design.
+- Enjoys teamwork and solving complex technical problems, can handle work pressure
+- Individuals interested in long-term development and settlement in Canada's high-tech manufacturing industry
+
+**Who is not suited**
+- Those who dislike strict safety regulations and precise design, and have weak hands-on skills
+- People not interested in the aerospace industry or unwilling to work in major industry regions like Quebec
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for aerospace engineers in Canada?**
+A: Entry level approx C$60,000-80,000/year, mid level C$80,000-110,000/year, senior up to C$150,000/year. Salaries affected by region, experience, and company size; higher in Montreal and Toronto areas.
+
+**Q: How can aerospace engineers immigrate to Canada?**
+A: Main pathways include Federal Express Entry (FSW/CEC) and Provincial Nominee Program (PNP). CRS score requires attention to age, education, language scores, and Canadian work experience. Obtaining employer sponsorship (LMIA) can add points or apply for a work visa.
+
+**Q: Is obtaining a P.Eng license mandatory?**
+A: Not mandatory, but obtaining a Professional Engineer (P.Eng) license can enhance career competitiveness and salary ceiling, especially necessary for signing engineering drawings and assuming legal liability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aerospace engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for aerospace engineers in Canada?**
-答：Entry-level: CAD 60,000-80,000; mid-level: CAD 80,000-110,000; senior: up to CAD 150,000 per year. Salaries vary by location, experience, and employer, with higher pay in Montreal and Toronto.
-
-**问：How can aerospace engineers immigrate to Canada?**
-答：Main pathways: Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP). Focus on age, education, language scores, and Canadian experience. A job offer with LMIA can add points or lead to a work permit.
-
-**问：Is a P.Eng license mandatory?**
-答：Not mandatory, but obtaining a P.Eng license enhances career prospects and salary potential, especially for roles requiring signing off on engineering drawings and legal responsibility.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

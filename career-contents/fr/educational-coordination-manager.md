@@ -1,59 +1,92 @@
-# Educational Coordination Manager（Educational Coordination Manager）职业分析 · FR
+# Educational Coordination Manager — career analysis · France
 
-**职业代码：K2102 – Educational Coordination Manager。**
+**Occupation code: K2102 (ROME)**
 
-Coordinates educational programs, curricula, and teaching teams to ensure quality and student progress.
+Responsible for organizing educational programs, coordinating courses, and managing the teaching team to ensure teaching quality and student progress.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 5年（Master） | $3,000~$15,000（公立大学约3000€/年，私立高商约10000-15000€/年） |
-| 本科+职业经验 | 3年（Licence） | $3,000~$10,000（公立Licence约3000€/年，可通过alternance减免学费） |
+| Master's degree | 5 years (Master) | $3,000~$15,000 (Public universities approx EUR 3,000/year, private business schools approx EUR 10,000-15,000/year) |
+| Bachelor's degree + professional experience | 3 years (Licence) | $3,000~$10,000 (Public Licence costs about €3,000 per year, with tuition waived through alternance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家教育管理文凭（DEME） | 法国教育部 | 可选 | 可自愿获取，提升竞争力 |
-| 教学协调员职业认证（CQP） | 法国成人职业培训协会（AFPA） | 可选 | 部分雇主要求 |
-| 硕士学历（Master MEEF或相关领域） | 公立大学 | 可选 | 通常为入门门槛 |
+| National Diploma in Education Management (DEME) | French Ministry of Education | Optional | Voluntarily obtainable to enhance competitiveness |
+| Teaching Coordinator Professional Certification (CQP) | French Association of Adult Vocational Training (AFPA) | Optional | Some employers require |
+| Master's degree (Master MEEF or related field) | Public university | Optional | Usually the entry threshold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国教育体系改革和数字化学习发展推动该岗位需求稳定增长，尤其在私立院校和培训中心。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Reforms in the French education system and the development of digital learning have driven steady growth in demand for this position, especially in private institutions and training centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 税前年薪 |
-| 中级（4-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $49,548 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从教学协调员晋升为教务主任、校区主管或教育项目总监，也可转向教育政策或培训咨询领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The responsibilities of teaching coordinators combine administrative management with teaching supervision. AI will improve efficiency in data analysis, class scheduling optimization, and report generation, but team coordination, personalized communication, and quality control still require human judgment, with overall risks being moderate.
+
+Students can be promoted from teaching coordinator to director of academic affairs, campus director, or director of educational programs, or may also transition into education policy or training consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates course progress reports and attendance statistics
+- Optimize teacher and classroom allocation through the AI scheduling system
+- Automatically tracks abnormal student grades and triggers alerts
+- Distribution and version management of standardized teaching resources
+
+**Where AI augments the role:**
+
+- Use AI data dashboards to monitor teaching progress and quality in real time for each class
+- Analyze student feedback and refine improvement suggestions through natural language processing
+- Automatically coordinate teacher meetings and research activities through collaborative platforms
+- Use intelligent recommendation systems to match teachers with training resources
+
+**Human moat:**
+
+- Handling teacher-student conflicts and emotional resonance in home-school communication
+- Flexible adjustment of teaching plans according to non-standardized needs
+- Evaluate and uphold the values and humanistic care of educational programs
+- Make decisions that balance responsibilities and powers under budget and resource constraints
+
+**Skills to build:**
+
+- Teaching data analysis tools (such as Tableau, Power BI)
+- Knowledge of educational technology project management
+- AI-assisted decision-making and critical thinking
+- Cross-cultural communication and team empowerment
+- Basic programming (Python/R) is used for automated scripting
+- Updates on education and legal and compliance knowledge
+
+**Key growth areas:**
 
 - Digital learning
 - Competency-based education
@@ -62,68 +95,67 @@ Coordinates educational programs, curricula, and teaching teams to ensure qualit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需硕士学历或3年经验，有工作合同，有效期4年 |
-| Subclass Salarié（Employee visa） | 工作居留，需雇主担保和就业局审核，有效期1年可续 |
-| Subclass Carte bleue UE（EU Blue Card） | 薪资需达法国平均工资1.5倍（约53800€），适用于高薪职位 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree or 3 years of experience, with a work contract valid for 4 years |
+| Subclass Salarié (Employee visa) | Work residence requires employer sponsorship and approval by the Employment Bureau, valid for one year and can be renewed |
+| Subclass Carte bleue UE (EU Blue Card) | Salary must reach 1.5 times the French national average wage (approx. €53,800), applicable to high-paid positions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Educational Coordination Manager？**
-- 善于沟通和组织协调，具有教育行业背景
-- 对课程设计和质量管理有兴趣
-- 希望在教育领域从事管理角色
-
-**谁不适合学Educational Coordination Manager？**
-- 偏好独立工作而非团队协调
-- 对行政事务和流程管理缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and organizational coordination, with a background in the education industry
+- Interested in curriculum design and quality management
+- Hope to pursue a management role in the education sector
+
+**Who is not suited**
+- Preference for working independently rather than coordinating with a team
+- Lack of patience with administrative affairs and process management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an Instructional Coordinator?**
+A: French teaching coordinators earn about €30,000-55,000 before tax, about €30,000-35,000 for junior teachers, €35,000-45,000 for intermediate, and €45,000-55,000 for seniors.
+
+**Q: What visa options are available for foreigners working as teaching coordinators in France?**
+A: You can apply for work residence through Passeport Talent (requires a master's degree or 3 years of experience), a Salarié work visa, or an EU Blue Card (salary of about €53,800).
+
+**Q: How is a teaching coordinator promoted?**
+A: You can be promoted to Director of Academic Affairs, Campus Supervisor, or Director of Educational Programs, or you may also transition to educational consulting or policy formulation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Educational Coordination Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an educational coordination manager?**
-答：In France, gross annual salary ranges from €30,000 to €55,000: entry-level €30,000-35,000, mid-level €35,000-45,000, senior €45,000-55,000.
-
-**问：What visa options exist for foreigners to work as an educational coordination manager in France?**
-答：Options include Talent Passport (master's degree or 3 years' experience), Salarié work visa, or EU Blue Card (salary above €53,800).
-
-**问：How can an educational coordination manager advance?**
-答：You can progress to academic director, campus manager, or program director, or move into education consulting or policy.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

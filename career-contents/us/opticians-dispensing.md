@@ -1,60 +1,96 @@
-# Opticians, Dispensing（Opticians, Dispensing）职业分析 · 美国
+# Opticians, Dispensing — career analysis · United States
 
-**职业代码：29-2081 – Opticians, Dispensing。**
+**Occupation code: 29-2081 (SOC)**
 
-Design, measure, fit, and adjust eyeglass lenses and frames according to prescriptions; assist clients in frame selection and contact lens care.
+Design, measure, and fit lenses and frames according to prescriptions, assist clients in selecting frames, and guide contact lens insertion and care.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（部分雇主提供在职培训） |
-| 配镜副学士学位 | 2年 | $10,000~$30,000（社区学院或技术学校） |
+| High school diploma | None | $0~$0 (Some employers offer on-the-job training) |
+| Opticianry Associate Degree | 2 years | $10,000~$30,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 配镜师执照 | 州政府 | 必备 | 多数州要求通过考试并持续教育 |
-| 眼镜匠认证 | 美国配镜师协会 | 可选 | 非强制但有助于就业 |
+| Optician license | State government | Required | Most states require passing exams and continuing education |
+| Eyeglass dispenser certification | American Board of Opticianry | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 72,100。美国人口老龄化和视力问题增加推动需求，就业增长预计高于平均水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 72,100. Aging US population and increasing vision problems drive demand, with employment growth expected to be higher than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级薪资 |
-| 中级（3-6年） | $36,000~$46,000 | 有经验后稳步增长 |
-| 高级（6年以上） | $46,000~$60,000 | 高级配镜师或管理职位 |
+| Median salary | $47,260 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary |
+| Mid-level (3–6 years) | $36,000~$46,000 | Steady growth after gaining experience |
+| Senior (6+ years) | $46,000~$60,000 | Senior optician or management positions |
+| average salary | $51,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级配镜师晋升为高级配镜师、店长或区域经理，也可转向光学实验室管理或验光师助理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Optician occupation is significantly augmented rather than replaced by AI; automated tools will handle measurements and order processing, but personalized fitting, client communication, and clinical judgment become more important; demand is stable with moderate growth.
+
+Can advance from junior optician to senior optician, store manager, or regional manager, or move into optical lab management or optometric assistant roles.
+
+**Tasks most exposed to AI:**
+
+- Manual optometry data recording and prescription entry
+- Frame inventory management and basic order processing
+- Conventional lens cutting and polishing processes (automated equipment)
+- Replaced by basic contact lens insertion instructional videos.
+- Client file maintenance and appointment scheduling
+
+**Where AI augments the role:**
+
+- Use AI-powered optometry devices for fast and accurate measurement data
+- Use VR/AR tools to simulate eyeglass frame try-on
+- AI-assisted facial feature analysis to recommend frame styles
+- Digital prescription management improves lens fitting accuracy
+- Online booking and remote consultation services handle routine issues
+
+**Human moat:**
+
+- Precise facial measurement and frame fitting feel
+- Clinical judgment for complex prescriptions (e.g., prisms, multifocals)
+- Build trust with clients, provide personalized advice
+- Physical skill to adjust frames for ergonomics
+- Cross-departmental (ophthalmologist, optometrist) collaboration and communication
+
+**Skills to build:**
+
+- Proficient in digital refraction and 3D scanning equipment
+- Learning AI eyewear fitting software (e.g., Zeiss VisuReal)
+- Improve client communication and consultation skills
+- Basic data analysis skills (tracking customer preferences)
+- Proficient in using VR/AR try-on platforms
+- Understanding of telemedicine and online dispensing processes
+
+**Key growth areas:**
 
 - Aging population
 - Vision care demand
@@ -63,63 +99,65 @@ Design, measure, fit, and adjust eyeglass lenses and frames according to prescri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位职位，配镜师通常不符合 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需要至少2年培训或经验，但需求低 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保困难，因国内劳动力充足 |
+| Subclass H-1B (H-1B Specialty Occupation) | Bachelor's degree required positions, opticians usually do not qualify |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires at least 2 years training or experience, but demand is low |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship is difficult due to sufficient domestic labor supply |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Opticians, Dispensing？**
-- 注重细节且善于与人沟通
-- 对光学和时尚有兴趣
-- 愿意考取州执照并持续学习
+**Who is suited**
+- Detail-oriented and good with people
+- Interested in optics and fashion
+- Willing to obtain state license and pursue continuous learning.
 
-**谁不适合学Opticians, Dispensing？**
-- 不善于手工操作
-- 无法长时间站立工作
+**Who is not suited**
+- Not good at manual operations
+- Cannot stand for long periods
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for an optical dispenser?**
+A: Entry-level approximately $28,000-$36,000, mid-level $36,000-$46,000, senior up to $60,000.
+
+**Q: Is it easy for opticians to immigrate to the US?**
+A: Very difficult. H-1B typically requires a bachelor's degree role, while opticians often have associate degrees or on-the-job training. EB-3 requires employer to prove labor shortage, but domestic labor supply is adequate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Opticians, Dispensing属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for opticians?**
-答：Entry level $28K-$36K, mid $36K-$46K, experienced up to $60K.
-
-**问：Is it easy to immigrate as an optician?**
-答：Very difficult. H-1B requires bachelor's degree; EB-3 needs labor shortage proof, which is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

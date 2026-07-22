@@ -1,63 +1,95 @@
-# Officers in armed forces（Officers in armed forces）职业分析 · UK
+# Officers in armed forces — career analysis · United Kingdom
 
-**职业代码：1161 – Officers in armed forces。**
+**Occupation code: 1161 (SOC)**
 
-Officers in armed forces are commissioned officers in His Majesty's armed forces and foreign/Commonwealth forces, planning, directing, organizing military operations and performing duties with no civilian equivalent.
+Armed forces officers are commissioned officers in the Royal Armed Forces and Commonwealth militaries, responsible for planning, directing, and organizing military operations, and performing duties without civilian counterparts.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 大学学位 | 3年 | $9,000~$12,000（英国本土学生学费，国际学生更高） |
-| 桑赫斯特皇家军事学院培训 | 44周 | —（由国防部资助，学员领取薪资） |
-| 专业兵种训练 | 1-2年 | —（随兵种不同，由军方提供） |
+| University degree | 3 years | $9,000~$12,000 (Tuition for domestic UK students; higher for international students) |
+| Training at the Royal Military Academy Sandhurst | 44 weeks | $0~$0 (Funded by the Department of National Defence, trainees receive a salary.) |
+| Specialized military training | 1-2 years | $0~$0 (Provided by the military, varies by branch.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 委任军官资格 | 英国国防部 | 必备 | 通过陆军军官选拔委员会考核后可获得 |
-| 大学学位 | 认可大学 | 可选 | 部分军官途径不强制要求学位，但强烈推荐 |
-| 安全审查 | 英国政府 | 必备 | 须通过最高机密级安全审查 |
-| 驾驶执照 | DVLA | 可选 | 通常要求持有英国驾照 |
+| Commissioned officer qualification | UK Ministry of Defence | Required | Obtainable after passing the Army Officer Selection Board |
+| Security clearance | UK Government | Required | Must pass top-secret level security clearance |
+| University degree | Recognised university | Optional | Some military officer pathways do not require a degree, but it is strongly recommended. |
+| Driver's license | DVLA | Optional | A UK driving licence is usually required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 20,000。英国武装部队规模相对稳定，招聘受国防预算影响。近年网络安全和无人机操作等领域需求增长，但整体军官岗位竞争激烈，需通过严格选拔。
+**Job demand: medium (★★½☆☆).** National workforce approx. 20,000. The size of the UK armed forces is relatively stable, and recruitment is affected by defense budgets. In recent years, demand has grown in areas such as cybersecurity and drone operations, but overall officer positions are competitive and require rigorous selection.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 少尉至中尉职级 |
-| 中级（3-10年） | $45,000~$60,000 | 上尉至少校职级 |
-| 高级（10年以上） | $70,000~$120,000 | 中校及以上职级 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Junior Lieutenant to Lieutenant ranks |
+| Intermediate (3-10 years) | $45,000~$60,000 | Officer Rank of Captain to at least Lieutenant Colonel |
+| Senior (10+ years) | $70,000~$120,000 | Lieutenant Colonel level and above |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 军官晋升路径清晰：从少尉至上尉通常需3-5年，之后可通过竞争选拔晋升少校、中校等高级职位。部分军官可进入参谋或指挥岗位，或转业至民用领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI primarily amplifies officers' command decision-making and information processing capabilities, rather than replacing their core combat leadership duties, but it risks compressing entry-level administrative roles.
+
+Officer promotion path is clear: from Second Lieutenant to Captain typically takes 3-5 years, after which promotion to Major, Lieutenant Colonel, and other senior positions is possible through competitive selection. Some officers may enter staff or command roles, or transition to civilian fields.
+
+**Tasks most exposed to AI:**
+
+- Battlefield intelligence collection and preliminary analysis report generation
+- Basic dispatching tasks for logistics and resource allocation
+- Automated Generation and Archiving of Standard Operations Reports
+- Training data collection and basic tactical simulation
+
+**Where AI augments the role:**
+
+- Use AI for multi-source intelligence fusion and situational awareness
+- Accelerate decision-making practice through simulation training systems
+- Use predictive models to optimize troop deployment and supply plans.
+- Use AI tools to enhance battlefield communication and coordination efficiency
+
+**Human moat:**
+
+- Major casualty decision-making and ethical judgment
+- Face-to-face military leadership and motivation
+- Rapid response to unforeseen factors in complex environments
+- Intuition and experience in strategic overall judgment
+
+**Skills to build:**
+
+- Military AI system operation and data interpretation skills
+- Human-machine collaborative command and decision-making methods
+- Fundamentals of cyber warfare and electronic warfare
+- Advanced intelligence analysis and critical thinking
+- Cross-domain joint action planning capability
+- Drone and autonomous systems formation management
+
+**Key growth areas:**
 
 - Defence
 - Cyber security
@@ -66,69 +98,68 @@ Officers in armed forces are commissioned officers in His Majesty's armed forces
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 军官岗位不被视为民用可担保职业，通常不符合技术工人签证条件。 |
-| Subclass Global Talent（Global Talent visa） | 仅适用于在军事领域有杰出才能的少数高级人才，路径极其有限。 |
-| Subclass Armed Forces（Armed Forces visa） | 非英国公民可应征加入英国军队，但需满足国籍和居住要求，获得签证支持。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Commissioned officer positions are not considered civilian sponsorable occupations and generally do not qualify for skilled worker visas. |
+| Subclass Global Talent (Global Talent visa) | Only applicable to a few highly talented individuals with exceptional skills in the military field, extremely limited pathway. |
+| Subclass Armed Forces (Armed Forces visa) | Non-UK citizens can apply to join the British Armed Forces, subject to nationality and residence requirements and visa support. |
 
-**PR难度：很高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Officers in armed forces？**
-- 有强烈爱国精神和纪律性的人
-- 适应高强度体能和压力的人
-- 渴望领导与团队协作的人
-
-**谁不适合学Officers in armed forces？**
-- 无法适应严格等级制度的人
-- 抗拒危险和不确定环境的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong patriotism and discipline
+- Suitable for those who can handle high physical demands and pressure
+- Those who desire leadership and teamwork
+
+**Who is not suited**
+- People who cannot adapt to strict hierarchical systems
+- People who are averse to dangerous and uncertain environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for military officers?**
+A: Junior officer (Second Lieutenant) salary approx. £30k/year; increases with rank; senior officers (Colonel and above) can reach £80-120k/year. Housing allowances and other benefits included.
+
+**Q: Can non-UK citizens become British Army officers?**
+A: Yes, but must meet citizenship requirements (Commonwealth or specific country citizens) and pass rigorous selection and security checks. Limited visa support, narrow immigration pathways.
+
+**Q: What career options are available after retiring as a military officer?**
+A: Common transition directions include security consultant, project management, logistics management, public sector leadership, etc., with the military providing career transition support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Officers in armed forces为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for military officers?**
-答：Junior officers (second lieutenant) earn around £30,000 per year, increasing with rank; senior officers (colonel and above) can earn £80,000-£120,000 plus allowances.
-
-**问：Can non-British citizens become UK military officers?**
-答：Yes, but must meet nationality requirements (Commonwealth or specific countries) and pass rigorous selection and security clearance. Visa support is limited, migration pathways narrow.
-
-**问：What career options are available after military service?**
-答：Common transitions include security consultant, project management, logistics, public sector leadership; military provides resettlement support.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

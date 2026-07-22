@@ -1,59 +1,95 @@
-# WHS Officer（WHS Officer）职业分析 · 新西兰
+# WHS Officer — career analysis · New Zealand
 
-**职业代码：251311 – WHS Officer。**
+**Occupation code: 251311 (ANZSCO)**
 
-WHS Officers are in consistent demand in New Zealand, eligible for residence via Green List or Skilled Migrant Category. They ensure workplace compliance with health and safety regulations, suitable for qualified and experienced applicants.
+Occupational Health and Safety Specialists have stable demand in New Zealand, with residency pathways via the Green List or skilled migration. This role ensures workplaces comply with health and safety regulations, suitable for applicants with relevant qualifications and experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $15,000~$25,000（新西兰理工学院或私立院校，如Otago Polytechnic） |
-| 本科（健康安全相关） | 3年 | $30,000~$45,000（大学如怀卡托大学或梅西大学；国际生费用更高） |
+| Diploma | 2 years | $15,000~$25,000 (New Zealand institutes of technology or private institutions, such as Otago Polytechnic) |
+| Bachelor's degree (health and safety related) | 3 years | $30,000~$45,000 (Universities like University of Waikato or Massey University; higher fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册安全专业人士（NZCSP） | 新西兰安全研究所（NZISM） | 可选 | 行业认可，需经验和工作评估 |
-| 国家职业健康与安全证书（NCEA Level 4） | NZQA | 必备 | 基础资质，入门要求 |
-| 雅思6.5分（移民要求） | IELTS | 必备 | 技术移民或绿色清单申请必备 |
+| National Certificate in Occupational Health and Safety (NCEA Level 4) | NZQA | Required | Basic qualification, entry requirement |
+| IELTS 6.5 (immigration requirement) | IELTS | Required | Essential for skilled migration or Green List applications |
+| New Zealand Registered Safety Professional (NZCSP) | New Zealand Institute of Safety Management (NZISM) | Optional | Industry recognized, requires experience and work assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰对职业健康与安全专员的就业前景良好，随着工作场所安全法规加强，需求持续增长。建筑、制造业和医疗行业是主要雇主，预计未来五年就业人数将稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Employment prospects for occupational health and safety officers in New Zealand are good, with demand growing steadily due to stricter workplace safety regulations. Construction, manufacturing, and healthcare are major employers; employment numbers are expected to rise steadily over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 多为助理或协调员职位 |
-| 中级（3-7年） | $75,000~$95,000 | 独立负责项目，持NZCSP认证 |
-| 高级（7年以上） | $100,000~$130,000 | 安全经理或顾问，行业专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Mostly assistant or coordinator positions |
+| Mid-level (3–7 years) | $75,000~$95,000 | Independently manage projects, hold NZCSP certification |
+| Senior (7+ years) | $100,000~$130,000 | Safety manager or consultant, industry specialist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级专员可通过积累经验晋升为高级专员或安全经理，也可专攻特定行业如建筑或医疗。考取新西兰注册安全专业人士（NZCSP）认证可加速职业发展，年薪可达10万纽币以上。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Occupational health and safety specialist roles benefit significantly from AI assistance, but core on-site compliance inspections, accident investigations, and liability judgments are difficult to automate, making this a typical AI-enhanced profession.
+
+Junior officers can advance to senior officer or safety manager through experience, or specialise in industries like construction or healthcare. Obtaining NZCSP certification can accelerate career progression, with salaries up to NZ$100,000+.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized safety inspection reports
+- Automatic monitoring and updating of regulatory changes
+- Automated production of employee safety training materials
+- Automatic risk data statistics and chart generation
+- Automated Q&A system for basic compliance questions
+
+**Where AI augments the role:**
+
+- Use computer vision to automatically identify on-site safety hazards
+- Use data analysis to predict high-risk areas and time periods
+- Efficiently review and cite safety regulations using natural language processing
+- Use AI simulation tools for accident cause analysis
+- Real-time monitoring of employee health status using wearable device data
+
+**Human moat:**
+
+- Subjective judgment and handling of on-site hazardous environments
+- Cross-departmental coordination and safety culture promotion
+- Root cause analysis of incidents and legal liability determination
+- Emergency response to unstructured security incidents
+- Build trust and psychological support (such as employee wellness conversations)
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python/Tableau)
+- Application of AI tools in safety (e.g., computer vision)
+- Wearable device and IoT system management
+- Human-machine collaboration and change management skills
+- Advanced compliance knowledge systems (international/industry standards)
+- Soft skills: communication, persuasion, resilience
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ WHS Officers are in consistent demand in New Zealand, eligible for residence via
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Straight to Residence） | 满足要求可直接申请居留，无需工作后再转。需职业在绿色清单并达到工资中位数1.5倍（约12.8万纽币） |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学士学位加3年以上经验可得6分，适合不符合绿色清单的申请人 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡途径，工作满2年后可申请居留（如雇主支持且满足条件） |
+| Subclass Green List T1 (Green List Straight to Residence) | Can apply directly for residence if requirements are met, no need to transfer after work. Occupation must be on the Green List and earn 1.5 times the median wage (approx. NZD $128,000). |
+| Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: bachelor's degree plus 3+ years experience gives 6 points, suitable for applicants not on the Green List. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a transitional pathway, eligible for residence after 2 years of work (if employer supports and conditions met) |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学WHS Officer？**
-- 有健康安全或相关领域学历或经验的人
-- 注重细节且善于沟通，能推动安全文化
-- 希望在建筑、制造或医疗等稳定行业工作的人
-
-**谁不适合学WHS Officer？**
-- 对重复性合规检查感到枯燥的人
-- 不喜欢户外现场工作或非典型办公环境的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with qualifications or experience in health and safety or related fields.
+- Detail-oriented and good at communication, able to promote a safety culture
+- People who want to work in stable industries such as construction, manufacturing, or healthcare
+
+**Who is not suited**
+- Those who find repetitive compliance checks tedious
+- Those who dislike outdoor field work or non-traditional office environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an occupational health and safety officer in New Zealand?**
+A: Junior annual salary approx. NZD 55,000-70,000, mid-level NZD 75,000-95,000, senior NZD 100,000-130,000. Green List requires 1.5x median wage (approx. NZD 128,000) for direct residence.
+
+**Q: How can an occupational health and safety specialist migrate to New Zealand?**
+A: Can obtain direct residence through Green List Tier 1 (requires salary at 1.5 times the median and occupation on the list), or Skilled Migrant 6-point system (bachelor's + experience). You can also apply for an AEWV work visa first, gain experience, then transition to residence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-WHS Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for WHS Officers in New Zealand?**
-答：Entry-level salary is around NZD $55,000-$70,000, mid-level $75,000-$95,000, senior $100,000-$130,000. Green List requires 1.5x median wage (approx. $128,000) for direct residence.
-
-**问：How can a WHS Officer immigrate to New Zealand?**
-答：Options include Green List Tier 1 (Straight to Residence with 1.5x median wage), Skilled Migrant Category (6-point system with degree and experience), or AEWV leading to residence after 2 years.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,89 @@
-# Travel Guides（Travel Guides）职业分析 · IE
+# Travel Guides — career analysis · Ireland
 
-**职业代码：5113 – Travel Guides。**
+**Occupation code: 5113 (ISCO08)**
 
-Travel guides escort visitors, provide commentary on attractions, and ensure enjoyable experiences, often employed by tour operators or self-employed.
+Tour guides lead visitors to attractions, provide commentary, and ensure an enjoyable travel experience, typically employed by travel agencies or working freelance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无严格要求 | 短期培训 | —（通常需急救证和当地导游牌） |
-| 旅游管理文凭 | 1-2年 | $5,000~$15,000（提高就业竞争力） |
+| No strict requirements | Short-term training | $0~$500 (First aid certificate and local tour guide license usually required) |
+| Diploma in Tourism Management | 1-2 years | $5,000~$15,000 (Enhance employment competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 导游证 | 爱尔兰旅游局 | 必备 | 部分地区要求，如都柏林 |
-| 急救证书 | 爱尔兰红十字会 | 可选 | 常见要求 |
+| Tour guide certificate | Tourism Ireland | Required | Required in some regions, such as Dublin |
+| First aid certificate | Irish Red Cross | Optional | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。爱尔兰旅游业是重要经济支柱，导游需求稳定但受季节影响。疫情后复苏强劲，特别是高端和特色旅游。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Tourism is a key economic pillar in Ireland, with stable demand for guides but seasonal fluctuations. Post-pandemic recovery is strong, especially in high-end and niche tourism.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 兼职或淡季收入 |
-| 中级（3-7年） | $28,000~$38,000 | 包括小费和旺季奖金 |
-| 高级（7年以上） | $38,000~$50,000 | 自由职业或资深导游 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Part-time or off-season income |
+| Mid-level (3–7 years) | $28,000~$38,000 | Including tips and seasonal bonuses |
+| Senior (7+ years) | $38,000~$50,000 | Freelance or senior tour guide |
+| average salary | $34,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级导游晋升为资深导游或团队主管，部分转向旅游管理或创业。多语言和文化知识可提升竞争力。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Tour guide work is polarizing: standardized site narration and itinerary management will be compressed by AI, but personalized experiences, emotional interaction, and emergency response skills are amplified by AI, increasing demand for versatile guides.
+
+Can progress from junior tour guide to senior tour guide or team leader, with some transitioning into tourism management or entrepreneurship. Multilingual and cultural knowledge can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Repetitive attraction narration (replaced by AI audio guides)
+- Basic itinerary booking and confirmation (handled by automated systems)
+- Information inquiries and FAQ (chatbot replacement)
+
+**Where AI augments the role:**
+
+- Real-time multilingual translation and background knowledge expansion (AI-assisted explanations are richer)
+- Personalized itinerary planning (AI analyzes tourist preferences to recommend routes)
+- Intelligent safety alerts and emergency coordination (AI prediction of crowds, weather risks)
+- Multimedia content creation (AI-generated video, image-text travel notes to enhance experience)
+
+**Human moat:**
+
+- In-depth cultural interpretation and narrative storytelling
+- Flexible response and emotional support in emergencies
+- Ability to build trust and emotional connection with tourists
+- Cross-cultural communication and live improvisation performance
+
+**Skills to build:**
+
+- AI tool usage (e.g., smart guide systems, content generation tools)
+- Multimedia content creation and social media management
+- Cross-cultural and psychological knowledge.
+- Emergency rescue and safety management skills
+- Data analysis skills (for visitor profiling and itinerary optimization)
+
+**Key growth areas:**
 
 - Ecotourism
 - Adventure Travel
@@ -61,64 +92,63 @@ Travel guides escort visitors, provide commentary on attractions, and ensure enj
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 雇主担保工作许可，适用于非紧缺职业，需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能员工，但导游通常工资较低，不易满足年薪门槛。 |
+| Subclass General Employment P (General Employment Permit) | Employer-sponsored work permit for non-occupation in demand, subject to labor market testing. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled employees, but tour guides generally have low salaries and it’s hard to meet the annual salary threshold. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Travel Guides？**
-- 热爱旅游和分享知识的人
-- 善于沟通和服务的人
-- 具备多语言能力者
-
-**谁不适合学Travel Guides？**
-- 不喜欢户外和长时间站立的人
-- 不擅长应付突发状况的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love travel and sharing knowledge
+- People who are good at communication and service
+- Those with multilingual skills
+
+**Who is not suited**
+- People who dislike outdoor and long periods of standing
+- People not good at handling unexpected situations
+
+---
+
+## 8. FAQ
+
+**Q: How much do tour guides earn?**
+A: Junior tour guide annual salary approx. €22,000-28,000, senior up to €38,000-50,000; tips are an important supplement.
+
+**Q: Can tour guides immigrate to Ireland through a work visa?**
+A: Can apply for a General Employment Permit, but requires employer sponsorship and must pass a labour market test; not a shortage occupation, medium immigration difficulty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Travel Guides的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much do travel guides earn?**
-答：Entry-level guides earn around €22,000-€28,000 annually; senior guides can earn €38,000-€50,000, with tips as a supplement.
-
-**问：Can travel guides immigrate to Ireland via work visa?**
-答：Yes, via General Employment Permit, requiring employer sponsorship and labor market test; not a shortage occupation, moderate difficulty.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

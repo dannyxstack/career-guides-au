@@ -1,59 +1,95 @@
-# Engineering Teachers, Postsecondary（Engineering Teachers, Postsecondary）职业分析 · 美国
+# Engineering Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1032 – Engineering Teachers, Postsecondary。**
+**Occupation code: 25-1032 (SOC)**
 
-Teach engineering courses at postsecondary institutions, covering chemical, civil, electrical, mechanical, and other engineering fields, combining teaching with research.
+Teach engineering courses at tertiary institutions, covering chemical, civil, electrical, mechanical and other engineering fields, combining teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $100,000~$200,000（学费、生活费及机会成本） |
-| 硕士学位 | 2-3年 | $40,000~$100,000（部分社区学院可接受硕士） |
+| Doctoral degree (PhD) | 5-7 years | $100,000~$200,000 (Tuition, living expenses, and opportunity cost) |
+| Master's degree | 2-3 years | $40,000~$100,000 (Some community colleges accept master's degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认可大学 | 必备 | 多数研究型大学要求；社区学院可接受硕士 |
-| 专业工程师执照 | 州工程委员会 | 可选 | 部分应用型课程偏好，非强制 |
-| 教学经验 | 高校 | 可选 | 博士后或助教经历有优势 |
+| Doctoral degree (PhD) | Recognised university | Required | Required by most research universities; community colleges may accept master's |
+| Professional Engineer License | State engineering board | Optional | Some applied courses preferred, not mandatory. |
+| Teaching experience | Higher education institutions. | Optional | Postdoctoral or teaching assistant experience is advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 62,000。预计2023-2033年就业增长约8%，快于平均水平。高等教育入学人数增加和对工程教育的持续需求将推动岗位增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 62,000. Projected employment growth of about 8% from 2023-2033, faster than average. Increasing higher education enrollment and sustained demand for engineering education will drive job growth.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（讲师/助理教授） | $60,000~$90,000 | 社区学院或非研究型大学 |
-| 中级（副教授） | $80,000~$120,000 | 多数四年制大学 |
-| 高级（教授） | $110,000~$180,000 | 顶尖研究型大学更高 |
+| Median salary | $109,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (lecturer/assistant professor) | $60,000~$90,000 | Community college or non-research university |
+| Intermediate (Associate Professor) | $80,000~$120,000 | Most four-year universities |
+| Senior (Professor) | $110,000~$180,000 | Higher at top research universities |
+| average salary | $124,520 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中上（★★★½☆）。** 可从讲师晋升至副教授、教授，进而担任系主任或院长等行政职务。也可转向工业界研发或高级管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Can advance from lecturer to associate professor, professor, and then to administrative roles such as department chair or dean. Can also move into industry R&D or senior management positions.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - postsecondary education growth
 - engineering program expansion
@@ -62,69 +98,68 @@ Teach engineering courses at postsecondary institutions, covering chemical, civi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学为非营利机构，H-1B不占名额，申请相对容易 |
-| Subclass EB-2（EB-2 Advanced Degree） | 博士通常符合EB-2国家利益豁免（NIW），无需PERM |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出教授或研究人员可申请，需证明国际声誉 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 少数情况需通过PERM，但大学常走NIW捷径 |
+| Subclass H-1B (H-1B Specialty Occupation) | University is non-profit, H-1B exempt from cap, application relatively easy. |
+| Subclass EB-2 (EB-2 Advanced Degree) | Doctorates usually qualify for EB-2 National Interest Waiver (NIW), no PERM needed |
+| Subclass O-1 (O-1 Extraordinary Ability) | Outstanding professors or researchers can apply, must demonstrate international reputation |
+| Subclass Green Card (PERM) (PERM Labor Certification) | In a few cases PERM is needed, but universities often take NIW shortcut |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Teachers, Postsecondary？**
-- 拥有博士学位并对工程研究有热情的人
-- 善于教学和沟通，愿意指导学生
-- 追求学术自由和终身教职保障的人
-
-**谁不适合学Engineering Teachers, Postsecondary？**
-- 不愿承担科研压力和发表论文要求的人
-- 偏好工业界高薪和灵活环境的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a PhD and passion for engineering research
+- Good at teaching and communication, willing to mentor students
+- Those seeking academic freedom and tenure
+
+**Who is not suited**
+- Those unwilling to bear research pressure and publication requirements
+- Those preferring high salary and flexible environment in industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an engineering professor?**
+A: Entry-level lecturer: about $60,000-$90,000, associate professor $80,000-$120,000, professor $110,000-$180,000, top universities higher.
+
+**Q: How can foreign nationals become engineering professors at US universities?**
+A: Common path: PhD graduate applies for H-1B (university cap exemption), then green card via EB-2 National Interest Waiver.
+
+**Q: Do engineering teachers at community colleges need a doctorate?**
+A: Usually a master's degree is sufficient, but a doctorate is more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中上（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Engineering Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for engineering professors?**
-答：Entry-level instructors earn $60k-$90k, associate professors $80k-$120k, full professors $110k-$180k, higher at top universities.
-
-**问：How can a foreigner become an engineering professor in the US?**
-答：Common path: obtain PhD, then H-1B (cap-exempt for universities), then EB-2 NIW green card.
-
-**问：Do community college engineering teachers need a PhD?**
-答：Typically a master's degree is sufficient, but a PhD is more competitive.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

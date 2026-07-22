@@ -1,61 +1,93 @@
-# Public Prosecutor（Public Prosecutor）职业分析 · ES
+# Public Prosecutor — career analysis · Spain
 
-**职业代码：2512 – Public Prosecutor。**
+**Occupation code: 2512 (CNO)**
 
-Public prosecutors are civil servants who represent the public interest in criminal proceedings, bring charges, supervise the legality of investigations, and participate in certain civil cases. They collaborate with judges and lawyers to ensure justice.
+Prosecutors are state officials who represent the public interest in initiating public prosecutions in criminal cases, supervising the legality of investigations, and participating in some civil litigation. They collaborate with judges and lawyers to ensure judicial fairness.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法学学士（Grado en Derecho） | 4年（Grado） | $3,000~$12,000（公立大学年均约3000欧元，私立大学可达12000欧元） |
-| 检察官专门培训（Escuela Judicial） | 1-2年 | $500~$2,000（通过Oposición后进入司法学校，费用较低） |
+| Bachelor of Laws (Grado en Derecho) | 4 years (Grado) | $3,000~$12,000 (Public universities: approximately €3,000 per year; private universities: up to €12,000 per year.) |
+| Escuela Judicial | 1-2 years | $500~$2,000 (After passing the Oposición, you can enter judicial school, which is less expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学位 | 西班牙大学 | 必备 | 须为西班牙认可的法学学士学位 |
-| 国家检察官考试（Oposición） | 司法部（Ministerio de Justicia） | 必备 | 通过笔试和面试，竞争激烈 |
-| 司法学校培训课程 | 司法学校（Escuela Judicial） | 必备 | 完成检察官专门培训 |
+| Degree in Law | Spanish University | Required | Must hold a Bachelor of Laws degree recognized by Spain |
+| National Prosecutor Examination (Oposición) | Ministry of Justice (Ministerio de Justicia) | Required | Competition is fierce through written tests and interviews |
+| Judicial school training courses | Escuela Judicial | Required | Complete specialized training for prosecutors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,000。西班牙司法系统持续招录检察官以应对案件积压。未来几年司法数字化改革将创造新岗位，但竞争激烈，需通过国家统考（Oposición）并完成司法学校培训。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,000. The Spanish judicial system continues to recruit prosecutors to cope with case backlogs. In the coming years, judicial digitalization reform will create new positions, but competition is fierce, requiring passing the national unified exam (Oposición) and completing training at a judicial school.
 
-**竞争度：非常高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$45,000 | 助理检察官，税前年薪 |
-| 中级（5-15年） | $50,000~$70,000 | 一级检察官，税前年薪 |
-| 高级（15年以上） | $80,000~$120,000 | 首席检察官或高级职位，税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $35,000~$45,000 | Assistant prosecutor, pre-tax annual salary |
+| Intermediate (5-15 years) | $50,000~$70,000 | First-level prosecutor, pre-tax annual salary |
+| Senior (15+ years) | $80,000~$120,000 | Chief prosecutor or senior position, pre-tax annual salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业起点为助理检察官，通过考核可晋升至一级检察官、首席检察官，最终可担任地方或国家检察机构负责人。部分检察官可通过选拔进入司法高级委员会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace some prosecutors' document and evidence screening tasks, but core prosecution discretion, court debates, and judicial oversight responsibilities are difficult to automate, resulting in an overall mixed trend.
+
+The career starts as an assistant prosecutor, and after passing assessments, can be promoted to first-level prosecutor or chief prosecutor, ultimately becoming the head of a local or national procuratorial body. Some prosecutors can enter the Judicial High Council through selection.
+
+**Tasks most exposed to AI:**
+
+- Drafting and formatting legal documents (such as generating indictment templates)
+- Automatic review and classification of electronic evidence
+- Rapid search of similar precedents and regulations
+- Case workflow management and scheduling
+
+**Where AI augments the role:**
+
+- Using AI for evidence correlation analysis improves the efficiency of fact-finding in cases
+- AI-assisted sentencing recommendations provide reference ranges based on historical data
+- Automatically generate case summaries and briefings, saving time for strategic thinking
+- Real-time speech-to-text and translation support during court statements
+
+**Human moat:**
+
+- Independently exercise prosecutorial discretion and bear legal responsibility
+- Court Interactive Debates and Witness Inquiry Strategies
+- Comprehensive judgment of complex social sentiments and public interests
+- Judicial ethics and adherence to confidentiality obligations
+
+**Skills to build:**
+
+- Operation of legal technology tools (such as evidence analysis platforms).
+- Fundamentals of data-assisted decision making and statistical analysis
+- AI ethics and legal compliance knowledge
+- Cross-departmental collaboration and communication skills
+- Continuous learning and adaptive thinking
+
+**Key growth areas:**
 
 - Legal Digitalization
 - Judicial Reform
@@ -64,65 +96,67 @@ Public prosecutors are civil servants who represent the public interest in crimi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需获得西班牙雇主（国家）的工作合同，并通过劳工市场测试。但检察官职位通常仅对西班牙和欧盟公民开放，第三国申请人极难获得。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留1年寻找工作，但对检察官职位的适用性极低，因为需要通过统考。 |
+| Subclass Cuenta ajena (Work Contract Visa) | You must obtain a work contract from a Spanish employer (country) and pass a labor market test. However, prosecutor positions are usually only open to Spanish and EU citizens, and are extremely difficult for third-country applicants to obtain. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for one year to look for work, but the suitability for prosecutor positions is very low because you need to pass the unified exam. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Prosecutor？**
-- 西班牙法学专业应届毕业生，有志于司法系统
-- 愿意通过高强度备试并长期从事公职者
-- 具备优秀口头表达、逻辑分析及抗压能力的人
+**Who is suited**
+- Recent law graduates in Spain, aspiring to work in the judicial system
+- Willing to undergo intensive preparation and long-term public service
+- Individuals with excellent verbal skills, logical analysis, and stress resistance
 
-**谁不适合学Public Prosecutor？**
-- 不愿参加漫长且竞争激烈的统考者
-- 希望快速移民或追求高薪的外籍人士
+**Who is not suited**
+- Those unwilling to take the long and highly competitive unified exam
+- Foreigners seeking quick immigration or pursuing high salaries
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for prosecutors?**
+A: Junior prosecutor: approx. EUR 35,000-45,000 per year; mid-level: approx. EUR 50,000-70,000; senior: up to EUR 80,000-120,000. Salary is set by the Ministry of Justice and increases with seniority.
+
+**Q: Can foreigners become Spanish prosecutors?**
+A: extremely difficult. Prosecutors are national public offices and are usually only available to Spanish or EU citizens. Third-country citizens must first obtain Spanish citizenship and pass the unified exam.
+
+**Q: What educational qualifications are required to become a prosecutor?**
+A: One must hold a Spanish recognized Bachelor of Laws degree (Grado en Derecho) and pass the national prosecutor's exam (Oposición), followed by 1-2 years of training at a judicial school.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 非常高（★★★★½） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 非常不友好（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Public Prosecutor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of prosecutors?**
-答：Entry-level prosecutors earn around €35,000-45,000 per year, mid-level €50,000-70,000, and senior positions €80,000-120,000. Salaries are regulated by the Ministry of Justice and increase with seniority.
-
-**问：Can foreigners become prosecutors in Spain?**
-答：It is extremely difficult. The prosecutor position is a civil service role typically open only to Spanish or EU citizens. Third-country nationals would need to obtain Spanish nationality and pass the national exam.
-
-**问：What education is required to become a prosecutor?**
-答：A recognized law degree (Grado en Derecho) in Spain is required, followed by passing the national prosecutor exam (Oposición) and completing a 1-2 year training program at the Judicial School.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Renderer (Solid Plaster)（Renderer (Solid Plaster)）职业分析 · 澳大利亚
+# Renderer (Solid Plaster) — career analysis · Australia
 
-**职业代码：333212 – Renderer (Solid Plaster)。**
+**Occupation code: 333212 (ANZSCO)**
 
-Solid plasterers apply cement, lime, or gypsum-based materials to interior and exterior walls, ceilings, and other surfaces to create smooth finishes. This trade is essential in Australia's construction sector for commercial and residential projects.
+Solid plasterers apply cement, lime, or gypsum-based materials to interior and exterior walls, ceilings, and other surfaces to create smooth, level finishes. This occupation has steady demand in the Australian construction industry and is an essential trade for commercial and residential projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Solid Plastering | 3-4年 | $8,000~$20,000（公立TAFE费用约8k-15k澳元，私立略高） |
-| Certificate IV in Building and Construction (Specialist Trades) | 1年 | $5,000~$12,000（进阶课程，适合晋升管理岗） |
+| Certificate III in Solid Plastering | 3-4 years | $8,000~$20,000 (Public TAFE fees approximately AUD 8k-15k; private slightly higher.) |
+| Certificate IV in Building and Construction (Specialist Trades) | 1 year | $5,000~$12,000 (Advanced course, suitable for promotion to management roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 三级固体抹灰证书 | TAFE/注册培训机构 | 必备 | 完成学徒制或正式课程后获得 |
-| 白卡（通用安全 Induction Card） | SafeWork NSW 等州机构 | 必备 | 所有建筑工地入场所需 |
-| 高空作业证 | 注册培训机构 | 可选 | 如需使用脚手架或高空作业 |
+| Level 3 Solid Plastering Certificate | TAFE/Registered Training Organisation | Required | Obtained after completing an apprenticeship or formal course |
+| White card (General Safety Induction Card) | State agencies like SafeWork NSW | Required | Required for all construction site entry |
+| Working at heights certificate | Registered Training Organisation | Optional | If scaffolding or working at heights is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 21,000。澳洲建筑行业持续增长，尤其是住宅和基础设施项目带动了对固体抹灰工的需求。未来五年该职业就业前景良好，预计保持稳定增长，年薪可达8-10万澳元。
+**Job demand: high (★★★★☆).** National workforce approx. 21,000. Australia's construction industry is growing steadily, especially residential and infrastructure projects driving demand for solid plasterers. Employment prospects for this occupation are good over the next five years, with stable growth expected. Annual salary can reach AUD 80,000-100,000.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 新手期时薪约25-32澳元 |
-| 中级（3-7年） | $70,000~$90,000 | 熟练工年薪约7.5-9万澳元 |
-| 高级（7年以上） | $90,000~$120,000 | 高级技工或领班年薪可达10-12万澳元 |
+| Median salary | $95,732 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | New starters earn approximately 25-32 AUD per hour |
+| Mid-level (3–7 years) | $70,000~$90,000 | Skilled worker annual salary approx. AU$75,000-90,000 |
+| Senior (7+ years) | $90,000~$120,000 | Senior technicians or team leaders can earn AUD 100,000-120,000 per year |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从业者可从普通抹灰工晋升为领班、项目经理或自主经营承包业务。积累经验后可专注于特殊装饰抹灰、修复古建筑或培训新员工，部分人最终成为建筑公司合伙人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Solid plastering is a physically demanding manual occupation; the risk of full AI replacement is low, but automated tools will reshape some auxiliary tasks. Meanwhile, AI enhances design, estimation, and quality inspection, improving efficiency. Overall, it's a mixed outlook.
+
+Practitioners can progress from general plasterer to foreman, project manager, or start their own contracting business. With experience, they can specialize in decorative plastering, restoring historic buildings, or training new staff; some eventually become partners in construction companies.
+
+**Tasks most exposed to AI:**
+
+- Measure and report wall flatness automatically using laser or digital levels
+- Automatically generate mortar material quantity takeoffs from BIM models
+- AI-driven paint robots complete large-area primer coating and substrate treatment
+- Automatic mixing and pumping systems replace manual mixing and handling of mortar
+- Initial high-altitude wall spraying using drones or robots
+
+**Where AI augments the role:**
+
+- AI-assisted design of veneer textures and patterns, providing customized solutions
+- Augmented reality (AR) glasses display construction precision and errors in real-time, assisting adjustments
+- AI quality inspection system photographs and analyzes surface defects, providing repair suggestions
+- Smart wearable devices monitor worker posture to prevent musculoskeletal injuries
+- AI-optimized multi-trade workflow sequencing to reduce rework
+
+**Human moat:**
+
+- Handcraft skills and artistic sense for complex wall shapes and decorative plastering
+- Experience in on-site assessment of ground conditions (e.g., moisture, cracking) and adjusting formulas accordingly
+- Flexibility in unstructured environments such as heights and confined spaces.
+- Heritage crafts needed for repairing historic buildings/special materials
+- Ability to communicate directly with clients/supervisors and make real-time adjustments based on feedback
+
+**Skills to build:**
+
+- Ability to read and use BIM models at a basic level
+- Operation and maintenance of automated plastering robots
+- Digital takeoff and estimating software (e.g. Bluebeam, PlanSwift)
+- Skills in drone/wall-climbing robot-assisted spraying
+- AR/VR tools for construction handover and quality visualization
+- Basic data analysis skills for tracking construction efficiency and material waste.
+
+**Key growth areas:**
 
 - Construction Boom
 - Infrastructure Projects
@@ -62,69 +98,68 @@ Solid plasterers apply cement, lime, or gypsum-based materials to interior and e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa (TSS)） | 雇主担保临时技术签证，适用于有雇主offer的固体抹灰工，可转186永居。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需通过职业评估和雇主提名。 |
-| Subclass 189（Skilled Independent Visa） | 技术独立永居签证，需要职业在MLTSSL列表上且EOI分数足够。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得澳洲州或领地政府提名。 |
+| Subclass 482 (Skills in Demand Visa (TSS)) | Employer-sponsored temporary skilled visa for solid plasterers with a job offer, can transition to 186 permanent residence. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requiring skills assessment and employer nomination. |
+| Subclass 189 (Skilled Independent Visa) | Skilled Independent visa (permanent), requires occupation on the MLTSSL and sufficient EOI score. |
+| Subclass 190 (Skilled Nominated Visa) | A state-sponsored permanent residence visa requires nomination by an Australian state or territory government. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Renderer (Solid Plaster)？**
-- 身体强壮、喜欢户外和体力工作的人
-- 对建筑工艺有耐心和细心的人
-- 希望在澳洲通过技术移民获得永居的人
-
-**谁不适合学Renderer (Solid Plaster)？**
-- 不愿意从事重复性体力劳动的人
-- 对灰尘和化学材料过敏或不适应户外作业的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are physically strong and enjoy outdoor and manual work
+- Individuals patient and meticulous with construction techniques
+- Those wishing to obtain permanent residency through skilled migration in Australia
+
+**Who is not suited**
+- People unwilling to engage in repetitive manual labor
+- Those allergic to dust and chemical materials or unsuited for outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for solid plasterers in Australia?**
+A: Entry-level annual salary approx. AUD 55,000-70,000, intermediate 70,000-90,000, senior or foreman 90,000-120,000. Overtime and project bonuses can add extra income.
+
+**Q: What are the pathways for solid plasterers to immigrate to Australia?**
+A: Mainly through employer-sponsored visas (482/186) or skilled migration (189/190). Requires an Australian-recognized diploma or apprenticeship and a skills assessment (e.g., Vetassess).
+
+**Q: What is the working environment like for a solid plasterer?**
+A: Work mainly indoors and outdoors on construction sites, may be exposed to dust, noise, and chemicals. Requires prolonged standing, bending, and carrying materials. Work intensity is high but safety regulations are in place.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Renderer (Solid Plaster)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for solid plasterers in Australia?**
-答：Entry-level earn AUD 55k-70k, mid-level AUD 70k-90k, senior/leading hand up to AUD 90k-120k per year. Overtime and project bonuses are common.
-
-**问：What are the migration pathways for solid plasterers to Australia?**
-答：Mainly through employer-sponsored visas (482/186) or skilled migration (189/190). Requires an Australian recognized qualification (e.g., Certificate III) and a skills assessment (e.g., Vetassess).
-
-**问：What is the work environment like for solid plasterers?**
-答：Work on construction sites indoors and outdoors, exposed to dust, noise, and chemicals. Requires standing, bending, and lifting materials. Physically demanding but regulated by safety standards.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,92 @@
-# Sewing, Embroidery and Related Workers（Sewing, Embroidery and Related Workers）职业分析 · NL
+# Sewing, Embroidery and Related Workers — career analysis · Netherlands
 
-**职业代码：7533 – Sewing, Embroidery and Related Workers。**
+**Occupation code: 7533 (ISCO08)**
 
-Operate sewing and embroidery machines to produce, alter, and repair textiles and garments, playing a fundamental role in the Dutch textile and clothing manufacturing industry.
+Operate sewing machines and embroidery equipment to produce, modify, and repair textiles and garments, playing a fundamental but key role in the Dutch textile and apparel manufacturing industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年 | —（部分课程由雇主资助或政府补贴） |
-| 中等职业教育 (MBO) | 2-3年 | $1,000~$4,000（学费每年约1000-2000欧元，含材料费） |
+| Vocational training | 2 years | $0~$2,000 (Some courses are sponsored by employers or subsidized by the government) |
+| Secondary vocational education (MBO) | 2-3 years | $1,000~$4,000 (Tuition about 1000-2000 euros per year, including materials) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫资格证书 | Kenniscentrum Handel | 可选 | 行业认可的技能证书，非强制但有助于就业 |
-| MBO文凭 (缝纫方向) | ROC (区域培训中心) | 可选 | 中等职业教育文凭，部分雇主会要求 |
+| Sewing qualification | Kenniscentrum Handel | Optional | Industry-recognized skill certificates, not mandatory but helpful for employment |
+| MBO Diploma (Sewing direction) | ROC (Regional Training Centre) | Optional | Secondary vocational education diploma, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 6,000。荷兰纺织和服装制造业就业人数稳定，但受自动化和外包影响，需求略有下降。高端定制和修复领域仍有少量机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,000. Employment numbers in the Dutch textile and apparel manufacturing industry are stable but slightly declining due to automation and outsourcing. There are still a few opportunities in high-end custom and repair fields.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，约等于最低工资标准 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，视技能水平和雇主规模 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪，可能包含主管职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, approximately equivalent to the minimum wage standard |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, depending on skill level and employer size |
+| Senior (7+ years) | $35,000~$42,000 | Annual salary before tax, may include supervisory duties |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可通过积累经验晋升为高级缝纫工、样版师或车间主管，部分人转向时尚设计或纺织品修复等专业领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Sewing machine operators face high automation risk; AI and robots will replace many repetitive sewing tasks. Entry-level roles will decrease significantly, but maintenance and programming jobs may increase.
+
+With experience, can be promoted to senior sewer, pattern maker, or workshop supervisor; some transition to fashion design or textile restoration
+
+**Tasks most exposed to AI:**
+
+- Repetitive straight-line suturing operations
+- Automatic sewing of simple patterns
+- Fabric cutting and alignment
+- Defect identification in quality inspection
+- Basic sewing machine maintenance
+
+**Where AI augments the role:**
+
+- Using AI sewing machines to program complex patterns
+- Optimising sewing processes using computer-aided design (CAD)
+- Monitors machine status through IoT for predictive maintenance
+- Use automated systems for material management
+
+**Human moat:**
+
+- Handle complex, delicate special fabrics
+- Custom, high-precision hand stitching
+- Machine fault diagnosis and advanced repair
+- Understand customer needs and provide creative solutions
+
+**Skills to build:**
+
+- Digital sewing machine programming and operation
+- CAD/CAM software applications
+- Automated system troubleshooting
+- IoT fundamentals and data analysis
+- Materials science knowledge
+- Project management and coordination
+
+**Key growth areas:**
 
 - Declining due to automation
 - Niche demand in haute couture
@@ -61,69 +95,68 @@ Operate sewing and embroidery machines to produce, alter, and repair textiles an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，月薪需达到一定门槛，通常缝纫工难以满足收入要求 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需高等教育背景，缝纫工通常不符合条件 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰完成学位的毕业生，可在一年内寻找工作，无特定薪资要求 |
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled migration; monthly salary must meet a certain threshold, which is often difficult for sewing machinists to achieve. |
+| Subclass EU Blue Card (EU Blue Card) | Targeted at highly skilled non-EU citizens, requiring higher education background; sewing machine operators typically do not meet the criteria. |
+| Subclass Orientation Year (Orientation Year) | For graduates who have completed their degree in the Netherlands, allows job search within one year, no specific salary requirement |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without a visa |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sewing, Embroidery and Related Workers？**
-- 有耐心和手巧的人
-- 对时尚和纺织品有热情
-- 愿意从事重复性手工工作
-
-**谁不适合学Sewing, Embroidery and Related Workers？**
-- 寻求高薪和职业发展空间的人
-- 无法接受自动化取代风险的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and dexterous people
+- Passion for fashion and textiles
+- Willing to perform repetitive manual tasks
+
+**Who is not suited**
+- Those seeking high salary and career development opportunities
+- People who cannot accept the risk of automation replacing jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sewing machinists in the Netherlands?**
+A: Entry-level annual salary is about €22,000-28,000, senior can reach €42,000, but overall it is below the national average.
+
+**Q: Can non-EU citizens immigrate to the Netherlands as sewing machine operators?**
+A: Very difficult. This occupation is not classified as high-skilled migration. The Highly Skilled Migrant visa requires a higher salary threshold, which sewing machine operators typically cannot meet. EU citizens can move freely.
+
+**Q: What are the career prospects for a sewing machinist?**
+A: Employment demand is declining due to automation and outsourcing to low-cost countries, but stable demand remains in niche areas such as high-end customization and repair.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sewing, Embroidery and Related Workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sewing workers in the Netherlands?**
-答：Entry-level annual salary is around €22,000-€28,000, and senior workers can earn up to €42,000, but overall it is below the national average.
-
-**问：Can non-EU citizens immigrate to the Netherlands as sewing workers?**
-答：Very difficult. The occupation is not considered highly skilled; the Highly Skilled Migrant scheme requires high salary thresholds, which sewing workers usually cannot meet. EU citizens can move freely.
-
-**问：What is the career outlook for sewing workers?**
-答：Due to automation and outsourcing to low-cost countries, demand is declining, but niche areas such as haute couture and repair still offer stable opportunities.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

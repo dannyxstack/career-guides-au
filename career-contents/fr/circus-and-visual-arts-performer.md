@@ -1,60 +1,95 @@
-# Circus and Visual Arts Performer（Circus and Visual Arts Performer）职业分析 · FR
+# Circus and Visual Arts Performer — career analysis · France
 
-**职业代码：L1204 – Circus and Visual Arts Performer。**
+**Occupation code: L1204 (ROME)**
 
-Circus and visual arts performers present acrobatics, clowning, magic, and visual art acts on stage or street, requiring high physical fitness and artistic creativity.
+Circus and visual arts performers perform on stage or on the street through acrobatics, clowning, magic, visual arts, and other forms, requiring high physical fitness and artistic creativity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（CAP） | 2年（CAP） | —（公立学校如CNAC学费低，私立学校费用较高） |
-| 高等文凭（DNSP） | 3年（DNSP） | —（国立高等马戏学校（CNAC）免费，其他私立学校收费） |
-| 学徒制 | 1-3年 | —（通过CFA学徒培训，无学费且有津贴） |
+| Vocational Training (CAP) | 2 years (CAP) | $0~$5,000 (Public schools like CNAC have lower tuition fees, while private schools have higher fees) |
+| Higher Diploma (DNSP) | 3 years (DNSP) | $0~$10,000 (The National Higher Circus School (CNAC) is free, while other private schools charge fees) |
+| Apprenticeship | 1-3 years | $0~$0 (Through CFA apprenticeship training, there is no tuition fee and there is a stipend) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家马戏艺术文凭（DNSP） | 法国高等马戏学校（CNAC）等 | 可选 | 专业表演者核心文凭，非强制但受认可 |
-| 马戏艺术职业证书（CQP） | 法国职业认证委员会（CPNE） | 可选 | 针对特定技能（如小丑、杂技）的职业认证 |
-| 视觉艺术学位（如DNA） | 高等艺术学院 | 可选 | 视觉艺术表演者常需艺术背景 |
+| National Diploma in Circus Arts (DNSP) | and the French Higher Circus School (CNAC). | Optional | The core diploma for professional performers, not mandatory but recognized |
+| Circus Arts Professional Certificate (CQP) | French Professional Accreditation Institute (CPNE) | Optional | Vocational certifications for specific skills (such as clowning and acrobatics). |
+| Visual Arts degree (such as DNA) | Higher School of Fine Arts | Optional | Visual arts performers often need an artistic background |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。法国马戏与视觉艺术行业就业机会有限，主要集中于巴黎及大型艺术节。自由职业者居多，竞争激烈。政府文化补贴支持部分项目，但长期就业稳定性较低。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. Employment opportunities in the French circus and visual arts industry are limited, mainly concentrated in Paris and major art festivals. Most are freelancers, and competition is fierce. Government cultural subsidies support some projects, but long-term employment stability is relatively low.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 自由职业者收入不稳定，常按场次计酬 |
-| 中级（3-8年） | $25,000~$40,000 | 部分受雇于大型剧团或固定演出项目 |
-| 高级（8年以上） | $40,000~$60,000 | 知名演员或艺术总监可达更高 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Freelancers' income is unstable and often paid per session |
+| Mid-level (3–8 years) | $25,000~$40,000 | Some are employed by large theater companies or regular performance projects |
+| Senior (8+ years) | $40,000~$60,000 | Famous actors or art directors can reach even higher |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 起步多为街头表演或小型剧团助演，积累经验后可晋升为剧团主要演员或艺术总监。部分从业者转向教学或编导，创办个人工作室或艺术团体。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Starting out is mostly street performances or supporting performers in small theater troupes, and after gaining experience, they can be promoted to lead actors or artistic directors in troupes. Some practitioners turn to teaching or directing, founding personal studios or art groups.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - Cultural events
 - Circus arts revival
@@ -63,68 +98,67 @@ Circus and visual arts performers present acrobatics, clowning, magic, and visua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Artistic and Cultural Profession)） | 适用于具有杰出艺术能力的表演者，需提供项目计划或合同。有效期最长4年，可续签。 |
-| Subclass Salarié（Salaried Worker Visa） | 若受雇于法国剧团或文化机构，需雇主担保，签订至少1年合同。 |
-| Subclass Carte bleue UE（EU Blue Card） | 通常不适用于艺术表演者，因薪资要求较高（≥53,836.50€），但若符合条件可申请。 |
+| Subclass Passeport Talent (Talent Passport (Artistic and Cultural Profession)) | Suitable for performers with outstanding artistic ability, requiring a project plan or contract. Valid for up to 4 years, with renewable options. |
+| Subclass Salarié (Salaried Worker Visa) | If employed by a French theater company or cultural institution, an employer sponsorship is required, and a contract of at least one year is required. |
+| Subclass Carte bleue UE (EU Blue Card) | Generally not applicable to performing artists, as the salary requirement is higher (≥53,836.50€), but applicants may apply if they meet the requirements. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Circus and Visual Arts Performer？**
-- 身体灵活且热爱舞台表演的艺术创作者
-- 能接受收入不稳定、自由职业模式的人
-- 善于自我营销和社交网络推广的表演者
-
-**谁不适合学Circus and Visual Arts Performer？**
-- 追求稳定收入和长期合同的人
-- 不愿意频繁旅行或适应不定时工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically agile artists who love stage performance
+- People who can accept unstable income and freelance models
+- Performers skilled in self-marketing and social network promotion
+
+**Who is not suited**
+- People seeking stable income and long-term contracts
+- People who are unwilling to travel frequently or adapt to irregular work hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of circus performers?**
+A: Junior performers earn about 15,000-25,000 euros annually, intermediate performers 25,000-40,000 euros, and senior performers can earn over 60,000 euros, but most are freelancers with significant income fluctuations.
+
+**Q: How do foreign circus performers immigrate to France?**
+A: Applications can be made through Passeport Talent (Talent Passport), which requires proof of artistic achievement or a French performance contract. If employed by a French institution, you can also apply for a Salarié work visa.
+
+**Q: What career development paths are available for circus performers?**
+A: You can start with street or small performances, gradually move into large theater troupes or arts festivals as lead actors, or move on to directing, teaching, or starting your own art troupe.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Circus and Visual Arts Performer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for circus performers?**
-答：Entry-level performers earn about €15,000-25,000 per year, mid-level €25,000-40,000, and senior up to €60,000+, but most are freelancers with fluctuating income.
-
-**问：How can foreign circus performers immigrate to France?**
-答：They can apply via the Talent Passport, requiring proof of artistic achievement or a French performance contract. If employed by a French organization, a Salarié work visa is also possible.
-
-**问：What are the career development paths for circus performers?**
-答：Starting from street or small shows, they can progress to major companies or festivals as lead performers, or move into choreography, teaching, or founding their own troupe.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

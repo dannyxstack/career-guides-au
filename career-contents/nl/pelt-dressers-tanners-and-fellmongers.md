@@ -1,60 +1,94 @@
-# Pelt Dressers, Tanners and Fellmongers（Pelt Dressers, Tanners and Fellmongers）职业分析 · NL
+# Pelt Dressers, Tanners and Fellmongers — career analysis · Netherlands
 
-**职业代码：7535 – Pelt Dressers, Tanners and Fellmongers。**
+**Occupation code: 7535 (ISCO08)**
 
-Pelt dressers, tanners and fellmongers treat animal hides to produce leather or fur. Tasks include soaking, dehairing, tanning, dyeing and finishing to ensure product quality.
+Fur and leather workers, tanners, and fellmongers treat animal hides to convert them into leather or fur. Tasks include soaking, dehairing, tanning, dyeing, and finishing to ensure final product quality.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（MBO） | 3-4年 | —（学费政府资助，每年约0-2000欧元） |
-| 在职培训 | 1-2年 | —（企业内训，无学费） |
+| Vocational education (MBO) | 3-4 years | $0~$6,000 (Government-subsidised tuition fees, approximately €0-2,000 per year) |
+| On-the-job training | 1-2 years | $0~$0 (In-company training, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革加工技师证书 | SSB 's-Hertogenbosch 等 | 可选 | 荷兰MBO学校可颁发相关文凭 |
-| 健康与安全证书 | Opleidingscentrum of branche | 可选 | 涉及化学品操作时可能需要 |
+| Leather Processing Technician Certificate | SSB 's-Hertogenbosch, etc. | Optional | Dutch MBO schools can issue relevant diplomas |
+| Health and safety certificate | Opleidingscentrum of branche | Optional | May be required when handling chemicals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。荷兰皮革制造业规模较小且持续萎缩，受环保法规和动物福利意识影响，需求有限。自动化替代部分人工，但传统工艺岗位保持稳定，预计就业机会较少。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. The Dutch leather manufacturing industry is small and shrinking, with limited demand due to environmental regulations and animal welfare awareness. Automation replaces some manual work, but traditional craft positions remain stable; employment opportunities are expected to be low.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$33,000 | 税前年薪 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$33,000 | Annual pre-tax salary |
+| Senior (7+ years) | $33,000~$40,000 | Annual pre-tax salary |
+| average salary | $29,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级工可从助手做起，积累经验后晋升为高级制革工或质检员。少数可成为车间主管。但行业规模限制，晋升空间有限，转型至纺织或化工行业可能更可行。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Fur dressing, tanning, and fur processing jobs face medium replacement risk; some manual tasks like tanning can be automated, but quality control and client customization still require human experience, while AI-enhanced quality inspection and design present opportunities.
+
+Junior workers can start as assistants, gain experience, and advance to senior tanner or quality inspector. A few can become workshop supervisors. However, industry size limits advancement; transitioning to textiles or chemicals may be more viable.
+
+**Tasks most exposed to AI:**
+
+- Repetitive hide soaking and dehairing operations are replaced by automated equipment.
+- Standardized tanning process optimized by AI control
+- Basic dyeing and coating are done by robots
+- Automation of data recording and inventory management
+
+**Where AI augments the role:**
+
+- AI vision system assists leather defect detection, improving quality inspection accuracy
+- AI analyzes client preferences to customize tanning and dyeing solutions
+- Digital twin simulation of tanning process to reduce material waste
+- AI optimizes production scheduling and supply chain management
+
+**Human moat:**
+
+- Artisans' subjective judgment of leather texture and feel
+- Experiential decision-making for handling rare or complex defects
+- Service ability to communicate directly with customers on customization needs
+- R&D capability for innovative tanning formulas and processes
+- Combination of traditional manual techniques and modern eco-friendly processes
+
+**Skills to build:**
+
+- Use of AI-assisted quality inspection tools
+- Operation of digital process simulation software
+- Data analysis and production optimization
+- Leather Chemistry and Sustainable Tanning Technology
+- Customer service and custom design communication
+- Robot and automation equipment maintenance
+
+**Key growth areas:**
 
 - Automation
 - Leather alternatives
@@ -63,63 +97,65 @@ Pelt dressers, tanners and fellmongers treat animal hides to produce leather or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于薪资达到门槛的高技能工人，但该职业通常不满足薪资要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育背景和高薪，该职业通常不符合。 |
-| Subclass Orientation Year（Orientation Year） | 针对荷兰毕业的留学生，可找工作，但职业前景有限。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled workers meeting the salary threshold, but this occupation usually does not meet the salary requirement. |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education background and high salary; this occupation typically does not qualify. |
+| Subclass Orientation Year (Orientation Year) | For graduates from the Netherlands, job opportunities exist but career prospects are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pelt Dressers, Tanners and Fellmongers？**
-- 对传统手工艺有兴趣者
-- 能接受体力劳动和化学品环境者
-- 愿意在相对小众行业深耕者
+**Who is suited**
+- Interested in traditional crafts
+- Able to tolerate physical labor and chemical environments
+- Willing to deepen expertise in a relatively niche industry
 
-**谁不适合学Pelt Dressers, Tanners and Fellmongers？**
-- 希望高薪或快速晋升者
-- 对环保和动物福利敏感者
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Sensitive to environmental and animal welfare issues
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fur dressers in the Netherlands?**
+A: Annual pre-tax salary: junior approx €20,000-26,000, mid-level €26,000-33,000, senior €33,000-40,000, below the Dutch average.
+
+**Q: Is it easy for foreigners to immigrate to the Netherlands through this occupation?**
+A: Not easy. The occupation is not in demand, salary is relatively low, making it difficult to meet the income threshold for highly skilled migrants or EU Blue Card, and is usually only suitable for EU citizens under free movement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pelt Dressers, Tanners and Fellmongers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for pelt dressers in the Netherlands?**
-答：Gross annual salary ranges from €20,000-26,000 for entry-level, €26,000-33,000 for mid-level, and €33,000-40,000 for senior, below national average.
-
-**问：Is it easy to immigrate to the Netherlands through this occupation?**
-答：No. The occupation is not in shortage, salaries are low, and it does not meet income thresholds for Highly Skilled Migrant or EU Blue Card, mainly for EU citizens.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

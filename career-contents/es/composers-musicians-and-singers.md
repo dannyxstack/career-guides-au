@@ -1,62 +1,98 @@
-# Composers, Musicians and Singers（Composers, Musicians and Singers）职业分析 · ES
+# Composers, Musicians and Singers — career analysis · Spain
 
-**职业代码：2932 – Composers, Musicians and Singers。**
+**Occupation code: 2932 (CNO)**
 
-Professionals who create, perform or conduct music, including composers, instrumentalists, and singers, working in theaters, recording studios, concert halls, educational institutions, and various performance venues.
+Professionals engaged in music creation, performance, or singing, including composers, instrumentalists, singers, and others, can work in theaters, recording studios, concert halls, educational institutions, and various performance venues.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级音乐学位（Título Superior de Música） | 4年（Grado Superior） | $1,000~$5,000（公立音乐学院年费较低，私立或知名学院较高） |
-| 大学音乐学士（Grado en Música） | 4年（Grado） | $1,500~$8,000（公立大学年费约1500欧元，私立大学较高） |
-| 音乐硕士（Máster en Música） | 1-2年（Máster） | $2,000~$10,000（公立大学年费约2000欧元，私立更高） |
+| Superior Music Degree (Título Superior de Música) | 4 years (Grado Superior) | $1,000~$5,000 (Public music conservatories have lower annual fees, while private or well-known academies offer higher fees) |
+| Bachelor of Music (Grado en Música) | 4 years (Grado) | $1,500~$8,000 (The annual fee for public universities is about 1,500 euros, while private universities are higher) |
+| Master of Music (Máster en Música) | 1-2 years (Máster) | $2,000~$10,000 (Public university annual fees around EUR 2,000, private universities higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级音乐学位（Título Superior de Música） | 公立或私立音乐学院 | 可选 | 专业音乐教育常见路径，适用于演奏、作曲、指挥等方向 |
-| 大学音乐学位（Grado/Máster en Música） | 大学 | 可选 | 学术性更强，适合希望从事音乐教育或研究的学生 |
-| 专业经验与作品集 | 行业认可 | 可选 | 实际演出、创作经历和作品集是评估能力的关键，非强制但极为重要 |
+| Superior Music Degree (Título Superior de Música) | Public or private music conservatories | Optional | Common paths in professional music education, suitable for performance, composition, conducting, and other directions |
+| University Music Degree (Grado/Máster en Música) | University | Optional | It is more academically oriented and suitable for students who wish to pursue music education or research |
+| Professional experience and portfolio | Industry recognised | Optional | Actual performances, creative experience, and portfolios are key to assessing ability; not mandatory, but extremely important |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 35,000。西班牙音乐产业整体稳定，但就业竞争激烈，全职岗位有限，多数从业者为自雇或项目制。数字音乐和流媒体平台带来新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. The Spanish music industry is generally stable, but competition for employment is fierce, with limited full-time positions, and most practitioners are self-employed or project-based. Digital music and streaming platforms bring new opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$20,000 | 收入不稳定，常为兼职或项目制 |
-| 中级（4-10年） | $20,000~$35,000 | 有稳定演出或教学收入，部分自雇 |
-| 高级（10年以上） | $35,000~$60,000 | 知名乐手、作曲人或音乐总监，收入含版权费 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$20,000 | Income is unstable, often part-time or project-based |
+| Mid-level (4-10 years). | $20,000~$35,000 | Stable income from performances or teaching, partially self-employed |
+| Senior (10+ years) | $35,000~$60,000 | Famous musicians, composers, or music directors earn income including copyright fees |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业发展路径通常从乐队成员或录音室乐手起步，积累经验后可转向作曲、音乐制作、音乐教育或音乐总监等职位，部分优秀者进入电影、广告等商业音乐领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on composers and singers is mixed: AI can automatically generate simple music and assist with mixing, making entry tasks easier; However, live performance, emotional expression, and deep creation still rely on humans, and high-end positions may benefit from AI tools to enhance creativity.
+
+Career development usually starts as a band member or studio musician, and after gaining experience, they can move on to positions such as composition, music production, music education, or music director. Some outstanding individuals enter commercial music fields such as film and advertising.
+
+**Tasks most exposed to AI:**
+
+- Generate background music or simple melodies
+- Basic mixing and mastering
+- Automatic transcription and sheet music layout
+- Standardized timbre sampling and source production
+- Beginner Music Teaching (Introduction to Guitar and Piano)
+
+**Where AI augments the role:**
+
+- AI-assisted arrangement suggestions and harmony analysis
+- Intelligent mixing plugins improve post-production efficiency
+- AI-based audience preference insights guide creative work
+- Real-time pitch calibration and rhythm correction
+- AI-driven virtual instrument simulation and performance assistance
+
+**Human moat:**
+
+- Live improvisation and emotional expression
+- Unique personal style and originality
+- A profound understanding of culture, history, and art
+- Cross-disciplinary artistic integration (such as film score storytelling)
+- Emotional interaction and resonance with the audience
+
+**Skills to build:**
+
+- Using AI music generation tools (such as Suno, Udio)
+- Advanced operation of digital audio workstations (DAWs).
+- Music production and sound engineering
+- Data Analysis (Music Market Trends)
+- Multimedia Creation (Video Scores)
+- Cross-media collaboration skills (games/film)
+
+**Key growth areas:**
 
 - Digital music
 - Live performance
@@ -65,66 +101,68 @@ Professionals who create, perform or conduct music, including composers, instrum
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed) - Cuenta Ajena） | 由西班牙雇主担保的工作居留，需证明职位无法由本地人胜任，对音乐类较难 |
-| Subclass Cuenta propia（Self-Employment Visa - Cuenta Propia） | 自雇工作居留，需提交商业计划及客户证明，适合自由职业音乐人 |
-| Subclass Altamente cualificad（Highly Qualified Professional - Ley 14/2013） | 适用于高学历或高技能人才，但音乐类通常不符合薪资门槛 |
+| Subclass Cuenta ajena (Work Permit (Employed) - Cuenta Ajena) | For work residency sponsored by a Spanish employer, it is necessary to prove that the position cannot be filled by a local resident, which is particularly difficult for music fields |
+| Subclass Cuenta propia (Self-Employment Visa - Cuenta Propia) | Self-employed work residence requires submission of a business plan and client documentation, suitable for freelance musicians |
+| Subclass Altamente cualificad (Highly Qualified Professional - Ley 14/2013) | They are suitable for highly educated or highly skilled talents, but music majors usually do not meet the salary threshold |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Composers, Musicians and Singers？**
-- 有强烈音乐热情和创造力的艺术型人格
-- 能承受不稳定收入并愿意多职并行的自律者
-- 具备良好人际关系和表演能力的人
+**Who is suited**
+- Artistic personality with a strong passion for music and creativity
+- Self-disciplined individuals who can handle unstable income and are willing to work multiple jobs simultaneously
+- People with strong interpersonal and performance skills
 
-**谁不适合学Composers, Musicians and Singers？**
-- 追求稳定高收入和固定工作时间者
-- 无法接受频繁演出与自我推广压力的人
+**Who is not suited**
+- Those seeking stable, high income and fixed working hours
+- People who cannot accept frequent performances and pressure to promote themselves
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of Spanish musicians?**
+A: Junior musicians earn about 12,000-20,000 euros annually, intermediate musicians about 20,000-35,000 euros, and senior musicians can earn over 60,000 euros, but most are project incomes with significant fluctuations.
+
+**Q: Is it easy for foreign musicians to immigrate to Spain?**
+A: Difficult. Music is not a shortage occupation in Spain; employer sponsorship is hard to obtain; self-employment visa requires a detailed business plan and client proof, and has high income thresholds.
+
+**Q: How can musicians enhance their professional competitiveness?**
+A: Continuously improve performance/singing skills, expand online and performance opportunities, use digital platforms to publish works, accumulate teaching experience, and consider studying music production or music management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Composers, Musicians and Singers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for musicians in Spain?**
-答：Entry-level musicians earn around €12,000-€20,000 annually, mid-level €20,000-€35,000, and senior can exceed €60,000, but income is often project-based and variable.
-
-**问：Is it easy for foreign musicians to immigrate to Spain?**
-答：Difficult. Music is not a shortage occupation. Employer sponsorship is rare, and self-employment visa requires a solid business plan and client proof, with high income thresholds.
-
-**问：How can musicians improve their career competitiveness?**
-答：Continuously improve performance skills, expand networks and gig opportunities, publish work on digital platforms, gain teaching experience, and consider learning music production or management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

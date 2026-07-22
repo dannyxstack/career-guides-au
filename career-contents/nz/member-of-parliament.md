@@ -1,61 +1,97 @@
-# Member of Parliament（Member of Parliament）职业分析 · 新西兰
+# Member of Parliament — career analysis · New Zealand
 
-**职业代码：111312 – Member of Parliament。**
+**Occupation code: 111312 (ANZSCO)**
 
-A Member of Parliament (MP) in New Zealand is an elected representative responsible for law-making, oversight of the executive, and representing constituents. This role is generally accessible only to New Zealand citizens or permanent residents, with very limited immigration pathways for overseas applicants.
+Members of Parliament are elected government representatives in New Zealand, responsible for legislation, overseeing executive bodies, and representing constituents' interests. This occupation is primarily open to New Zealand citizens or permanent residents, with very limited immigration pathways and typically not open to overseas applicants.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学士 | 3年 | $20,000~$40,000（学士课程学费，国际学生年费约NZD 20,000-40,000） |
-| 硕士（可选） | 1-2年 | $30,000~$60,000（硕士课程年费，政治学或公共管理方向） |
+| Bachelor's degree | 3 years | $20,000~$40,000 (Bachelor's tuition fees, international students approx. NZD 20,000-40,000 per year) |
+| Master's degree (optional) | 1-2 years | $30,000~$60,000 (Annual master's course fee, politics or public administration direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰公民或永久居民身份 | 新西兰移民局 | 必备 | 竞选议员的基本资格要求 |
-| 政党提名 | 注册政党 | 必备 | 需获得政党支持并通过党内选拔 |
-| 无特定学历要求 | 新西兰选举委员会 | 可选 | 法律未设最低学历，但多数议员拥有学士及以上学位 |
+| New Zealand citizen or permanent resident status | New Zealand Immigration Service | Required | Basic eligibility requirements for running for parliament |
+| Political party nomination | Registered political party | Required | Need to obtain party support and pass internal party selection |
+| No specific educational requirements | New Zealand Electoral Commission | Optional | No minimum education required by law, but most councillors hold a bachelor's degree or higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 120。新西兰议员职位随每三年的大选周期更替，职业稳定性受选举结果影响。由于职位数量固定（约120席），且要求极高的政治参与和本地背景，海外人士直接进入的机会极少。
+**Job demand: low (★½☆☆☆).** National workforce approx. 120. New Zealand MP positions change with the three-year election cycle, and job stability depends on election results. As the number of seats is fixed (around 120) and requires high political involvement and local background, there is very little opportunity for overseas individuals to enter directly.
 
-**竞争度：高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（首次当选） | $160,000~$180,000 | 基础议员年薪，2024年约为NZD 163,961 |
-| 中级（部长/党鞭） | $230,000~$300,000 | 部长年薪约NZD 296,000（2024年） |
-| 高级（总理/议长） | $400,000~$500,000 | 总理年薪约NZD 471,000（2024年） |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Junior (first elected) | $160,000~$180,000 | Base MP salary, approximately NZD 163,961 in 2024 |
+| Mid-level (Minister/Whip) | $230,000~$300,000 | Ministerial salary approx. NZD 296,000 (2024) |
+| Senior (Prime Minister/Speaker) | $400,000~$500,000 | Prime Minister's annual salary approximately NZD 471,000 (2024) |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 议员通常从政党基层或地方议会起步，经过竞选进入国会，可升任部长、党鞭或议长等职务。晋升依赖党内资历、选区支持及公众认可度，非选举获得。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Legislative and debate work of members of parliament is limitedly affected by AI, but auxiliary tasks like information analysis and document processing may be automated; AI also enhances voter engagement and decision support.
+
+Members of parliament typically start from grassroots party or local councils, enter parliament through elections, and can rise to positions such as minister, whip, or speaker. Promotion depends on party seniority, electoral support, and public recognition, not by direct election.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of policy brief drafts and meeting summaries
+- Initial response to voter inquiries (chatbot)
+- Public data analysis and trend report writing
+- Standardized document archiving and retrieval
+- Daily social media content posting and monitoring
+
+**Where AI augments the role:**
+
+- Use NLP to analyze large volumes of voter feedback and polling data
+- Visualize complex policy impacts through data visualization tools
+- AI-assisted debate preparation (simulating opponent arguments)
+- Automatically detect legal conflicts or gaps in policy drafts
+- Real-time translation to serve diverse constituents
+
+**Human moat:**
+
+- Face-to-face negotiation and consensus building
+- Highly politically sensitive decision-making and ethical judgment
+- Handle urgent or emergent public affairs
+- Building trust and representing diverse interests
+- Interpreting voter demands in ambiguous contexts
+
+**Skills to build:**
+
+- Data-driven policy analysis (using Python/R)
+- Application of AI tools in public participation (e.g., virtual town halls)
+- Digital Communication and Social Media Strategy
+- Critical thinking combined with AI suggestion evaluation
+- Knowledge of AI governance under ethical and regulatory frameworks
+- Basic data visualization and storytelling
+
+**Key growth areas:**
 
 - Political
 - Elected
@@ -64,65 +100,67 @@ A Member of Parliament (MP) in New Zealand is an elected representative responsi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 无对应工签（None） | 该职业无专门技术移民或工签路径，海外人士无法直接申请议员职位。 |
-| Subclass 新西兰公民/居民（Citizen/Resident） | 成为议员的先决条件是拥有新西兰国籍或永久居民身份。 |
+| Subclass No work permit (None) | This occupation has no dedicated skilled migration or work visa pathway, and overseas applicants cannot directly apply for a councillor position. |
+| Subclass NZ citizen/resident (Citizen/Resident) | A prerequisite for becoming a Member of Parliament is holding New Zealand citizenship or permanent residency. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Member of Parliament？**
-- 政治热情高且具备公众演讲和辩论能力的人
-- 愿意长期投入政党工作并接受选举不确定性的人
-- 已拥有新西兰公民或居民身份的人
+**Who is suited**
+- Those with high political enthusiasm and public speaking and debating skills
+- Those willing to commit long-term to political party work and accept electoral uncertainty.
+- People who already hold New Zealand citizenship or residency
 
-**谁不适合学Member of Parliament？**
-- 海外人士且不打算移民新西兰的人
-- 不愿经历高强度竞选和公众监督的人
+**Who is not suited**
+- Overseas individuals not planning to immigrate to New Zealand
+- People unwilling to undergo high-intensity campaigns and public scrutiny
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary of a member of parliament?**
+A: Basic MP annual salary is approximately NZD 163,961 (2024), while ministers and the Prime Minister earn higher, approximately NZD 296,000 and NZD 471,000 respectively.
+
+**Q: Can overseas people immigrate to New Zealand as parliamentarians?**
+A: No. Members of Parliament must be New Zealand citizens or permanent residents. This occupation has no skilled migration or work visa pathway.
+
+**Q: What education is needed to become a member of parliament?**
+A: No strict educational requirements, but most councilors hold at least a bachelor's degree in law, political science, or business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★½） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Member of Parliament属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary of an MP?**
-答：Base MP salary is approximately NZD 163,961 (2024), with ministers earning around NZD 296,000 and the Prime Minister NZD 471,000.
-
-**问：Can an overseas person immigrate to New Zealand as an MP?**
-答：No. MPs must be New Zealand citizens or permanent residents, and there is no skilled migration or work visa pathway for this occupation.
-
-**问：What education is needed to become an MP?**
-答：No formal education requirement, but most MPs hold a bachelor's degree or higher in law, political science, or business.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

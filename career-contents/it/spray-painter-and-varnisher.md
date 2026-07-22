@@ -1,58 +1,94 @@
-# Spray Painter and Varnisher（Spray Painter and Varnisher）职业分析 · IT
+# Spray Painter and Varnisher — career analysis · Italy
 
-**职业代码：7132 – Spray Painter and Varnisher。**
+**Occupation code: 7132 (ISCO08)**
 
-Spray painters and varnishers apply paint, varnish, or other coatings using spray equipment on surfaces such as vehicles, furniture, and buildings to achieve a smooth and even finish.
+Spray painters and varnishers apply paint, varnish, or coating to surfaces such as vehicles, furniture, and buildings using spray equipment to ensure a smooth, even finish.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（学徒期间有工资，培训成本低） |
-| 职业学校 | 2-3年 | $2,000~$6,000（公立职业学校学费较低） |
+| Apprenticeship | 3-4 years | $0~$1,000 (Paid during apprenticeship, low training costs) |
+| Vocational school | 2-3 years | $2,000~$6,000 (Public vocational schools have lower tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 喷漆工技能认证 | 各地区职业培训中心 | 可选 | 自愿认证，但雇主偏好持有者 |
-| 职业培训证书 (Attestato di Qualifica) | 意大利劳动与社会政策部 | 可选 | 对正式就业有帮助 |
+| Painters skill certification | Regional vocational training centers | Optional | Voluntary certification, but preferred by employers |
+| Vocational Training Certificate (Attestato di Qualifica) | Italian Ministry of Labor and Social Policies | Optional | Helpful for formal employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 62,000。意大利喷漆工需求稳定，尤其在汽车维修、家具制造和建筑行业。受经济波动影响较小，但需关注环保法规对涂料使用的限制。
+**Job demand: medium (★★½☆☆).** National workforce approx. 62,000. Italy's spray-painter demand is stable, especially in auto repair, furniture manufacturing, and construction. Less affected by economic fluctuations, but attention needed on environmental regulations limiting paint use.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒或入门级 |
-| 中级（3-7年） | $26,000~$34,000 | 熟练工 |
-| 高级（7年以上） | $34,000~$45,000 | 团队负责人或高技能专家 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $26,000~$34,000 | Skilled worker |
+| Senior (7+ years) | $34,000~$45,000 | Team leader or highly skilled specialist |
+| average salary | $30,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 喷漆工可从学徒晋升为熟练工，进而成为团队负责人或自主经营。持续学习新型环保喷涂技术和自动喷涂系统可提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Spray painters and varnishers face a mixed AI impact: automated spraying equipment will replace most basic painting tasks, but demand for AI-enhanced color matching, quality inspection, and complex surface treatment increases, requiring transition to intelligent spray system operators.
+
+Spray painters can progress from apprentice to skilled worker, then to team leader or self-employment. Continuous learning of new environmentally friendly spray technologies and automated spray systems can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic spraying of batch products.
+- Repetitive paint sanding and polishing
+- Simple color matching based on preset programs
+- Manual adjustment of paint film thickness uniformity
+- Routine visual quality inspection
+
+**Where AI augments the role:**
+
+- Complex curved surface spray path planning assisted by AI vision systems
+- Real-time color matching and formula optimization
+- Sensor-based automatic correction of paint film thickness
+- Defect detection and remote expert collaboration
+- Big data analysis and optimization of spraying parameters
+
+**Human moat:**
+
+- Judgment of customized surface effects for high-value customers
+- Manual color mixing and texture treatment in art or antique restoration.
+- Adjustment of spraying parameters under non-standard conditions
+- On-site control of environmental regulations and health safety
+- Process decisions in cross-trade collaboration
+
+**Skills to build:**
+
+- Industrial Robot Programming and System Debugging
+- Color science and computer color matching system operation
+- Data analysis and AI tool application
+- Smart painting equipment maintenance and fault diagnosis
+- Environmental and occupational health and safety standards
+- Client communication and customized solution design
+
+**Key growth areas:**
 
 - Automotive refinishing
 - Eco-friendly coatings
@@ -61,67 +97,66 @@ Spray painters and varnishers apply paint, varnish, or other coatings using spra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，要求有工作合同及符合条件的薪资（至少达到意大利平均工资的1.5倍）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟公民，通过年度配额申请，需雇主担保，通常用于非高技能职业。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled workers, requiring a work contract and eligible salary (at least 1.5 times the Italian average wage). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens, application via annual quota, requires employer sponsorship, typically for non-high-skilled occupations. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Spray Painter and Varnisher？**
-- 注重细节、有耐心的人
-- 适应体力劳动和站立工作的人
-- 愿意学习环保喷涂技术的人
-
-**谁不适合学Spray Painter and Varnisher？**
-- 对油漆气味过敏或敏感的人
-- 不喜欢重复性手工工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- Suitable for people who can handle physical labor and standing work
+- People willing to learn environmentally friendly spraying techniques
+
+**Who is not suited**
+- People allergic or sensitive to paint fumes
+- People who dislike repetitive manual work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a spray painter in Italy?**
+A: Junior painter salary around €20,000–€26,000 per year; senior painter can reach over €40,000.
+
+**Q: How non-EU citizens can get a work visa for spray painting in Italy?**
+A: Can apply via Decreto Flussi quota work visa, requires employer sponsorship and meeting quota requirements. Highly skilled spray painters may also apply for the EU Blue Card.
+
+**Q: What are the career advancement paths for spray painters?**
+A: Can progress from apprentice to skilled worker, team leader, or start own business. Proficiency in automated spraying systems can increase promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Spray Painter and Varnisher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for spray painters in Italy?**
-答：Entry-level spray painters earn €20,000-€26,000 per year, while experienced ones can earn over €40,000.
-
-**问：How can non-EU citizens obtain a work visa for spray painting in Italy?**
-答：Apply for the Decreto Flussi work visa with employer sponsorship under annual quotas. Highly skilled workers may also qualify for the EU Blue Card.
-
-**问：What are the career progression paths for spray painters?**
-答：Advance from apprentice to skilled worker, team leader, or self-employment. Expertise in automated systems enhances prospects.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

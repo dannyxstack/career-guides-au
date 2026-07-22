@@ -1,61 +1,97 @@
-# Sheet Metal Worker（Sheet Metal Worker）职业分析 · NL
+# Sheet Metal Worker — career analysis · Netherlands
 
-**职业代码：7213 – Sheet Metal Worker。**
+**Occupation code: 7213 (ISCO08)**
 
-Sheet metal workers fabricate, install, and repair products made from thin metal sheets, such as ducts, roofing, and car bodies.
+Sheet metal workers manufacture, install, and repair metal sheet products such as ventilation ducts, roofs, and car bodies.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | $500~$2,000（学费每年约500-2000欧元，取决于学校和课程） |
-| 学徒制（BBL） | 2-4年 | —（学徒期间学费低，部分由雇主承担） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $500~$2,000 (Tuition fees approximately €500-2000 per year, depending on the school and course) |
+| Apprenticeship (BBL) | 2-4 years | $0~$500 (Low tuition fees during apprenticeship, partly covered by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钣金工文凭 | MBO学校或行业认证机构 | 必备 | 完成MBO课程或学徒制后获得 |
-| VCA安全证书 | 荷兰安全认证机构 | 可选 | 基础安全证书，许多雇主要求 |
-| 焊接证书 | NIL或类似机构 | 可选 | 特定焊接工艺如MIG/MAG认证 |
+| Diploma in sheet metal work | MBO schools or industry certification bodies | Required | Awarded after completing MBO courses or apprenticeships |
+| VCA safety certificate | Dutch safety certification body | Optional | Basic safety certificate, required by many employers |
+| Welding certificate | NIL or similar institution | Optional | Certification for specific welding processes such as MIG/MAG |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 11,000。荷兰建筑业持续发展，绿色建筑和可再生能源项目（如太阳能板安装）增加，对钣金工需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 11,000. The Dutch construction industry continues to develop, with green building and renewable energy projects (such as solar panel installation) increasing, leading to stable demand for sheet metal workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为熟练技工，进而成为工头或自雇承包商；也可通过进修转向设计或项目管理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
+
+Can progress from apprentice to skilled tradesperson, then to foreman or self-employed contractor; also can move into design or project management through further training.
+
+**Tasks most exposed to AI:**
+
+- Automatic nesting and CNC cutting of metal sheets
+- Simple defect identification and classification through AI visual inspection
+- Repeated bending and punching in bulk forming of standard ventilation ducts
+- Automatic unfolding and blanking calculation based on 3D models
+- AI-driven automatic inventory counting and replenishment in warehouses
+
+**Where AI augments the role:**
+
+- AI-assisted unfolding and forming process optimization for complex geometric shapes
+- AR glasses project installation guides to improve on-site positioning and assembly accuracy
+- AI load calculation optimizes material utilization and reduces waste
+- Digital twin simulation of sheet metal part stress performance in assemblies
+- AI-Driven Robots Collaborate on Repetitive Welding and Handling
+
+**Human moat:**
+
+- On-site measurement and manual finishing of non-standard, irregular metal parts
+- Installation and sealing of ventilation ducts and roofs in confined spaces or at heights
+- Experienced judgment of hidden defects such as metal fatigue and weld quality
+- Ability to communicate on-site with clients and designers and adjust plans
+- Safety assurance: handling hazardous environments like heat, sharp edges, toxic coatings
+
+**Skills to build:**
+
+- Learn CAD/CAM software (e.g., SolidWorks, AutoCAD Inventor)
+- Master CNC punching and laser cutting machine programming and operation
+- Understanding collaborative programming of industrial robots with sheet metal bending and welding cells
+- Apply digital measurement tools (e.g., 3D scanners) for reverse engineering
+- Basic data analysis skills to optimise material layout and process parameters
+- Learning connection techniques for lightweight materials (aluminum-magnesium alloys, composites)
+
+**Key growth areas:**
 
 - Green building
 - Renewable energy
@@ -64,66 +100,68 @@ Sheet metal workers fabricate, install, and repair products made from thin metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需有工作合同且薪资达标 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于荷兰认可担保人的高技能移民 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰完成学业的毕业生，可在一年内寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled talent, requires a work contract and meeting salary threshold |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For Highly Skilled Migrants Employed by a Recognized Sponsor in the Netherlands |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed their studies in the Netherlands and can seek employment within one year |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sheet Metal Worker？**
-- 喜欢动手操作、注重细节的人
-- 愿意从事体力工作并适应车间环境的人
-- 对建筑和制造行业有兴趣的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Willing to do physical work and adapt to a workshop environment
+- People interested in the construction and manufacturing industries
 
-**谁不适合学Sheet Metal Worker？**
-- 不喜体力劳动或户外工作的人
-- 对重复性工作缺乏耐心的人
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those who lack patience for repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a sheet metal worker in the Netherlands?**
+A: Entry level approximately €28,000-35,000, mid level €35,000-45,000, senior level €45,000-55,000 (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to the Netherlands to work as sheet metal workers?**
+A: Can apply via EU Blue Card or highly skilled migrant visa, but requires a Dutch employer sponsor and salary meeting requirements. Sheet metal worker is not an occupation in demand, immigration difficulty moderate.
+
+**Q: What are the career progression paths for a panel beater?**
+A: Can progress from tradesperson to foreman, project manager, or start own sheet metal company. Further education can lead to design or engineering roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sheet Metal Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for sheet metal workers in the Netherlands?**
-答：Entry-level: €28,000-€35,000, mid-level: €35,000-€45,000, senior: €45,000-€55,000 (gross annual).
-
-**问：How can non-EU citizens migrate to the Netherlands as a sheet metal worker?**
-答：Through EU Blue Card or Highly Skilled Migrant visa, requiring a job offer from a recognized sponsor and meeting salary thresholds. Sheet metal work is not a shortage occupation, making migration moderately difficult.
-
-**问：What are the career progression paths for sheet metal workers?**
-答：Progress to foreman, project manager, or self-employment. Further education can lead to design or engineering roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

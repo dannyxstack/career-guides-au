@@ -1,60 +1,95 @@
-# Director and Engineering Manager for Infrastructure and Building Maintenance（Director and Engineering Manager for Infrastructure and Building Maintenance）职业分析 · FR
+# Director and Engineering Manager for Infrastructure and Building Maintenance — career analysis · France
 
-**职业代码：I1101 – Director and Engineering Manager for Infrastructure and Building Maintenance。**
+**Occupation code: I1101 (ROME)**
 
-Oversees maintenance strategy, budgeting, and team leadership for large buildings, transport networks, or industrial facilities, ensuring safety and regulatory compliance.
+Responsible for maintenance strategic planning, budget management, and team leadership for large buildings, transportation networks, or industrial facilities to ensure operational safety and compliance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 工程师文凭（硕士） | 5年（工程师学校） | $3,000~$10,000（公立学校每年约600€，私立可达10000€） |
-| 职业学士（Licence Pro） | 3年（Licence后加1年专业化） | $200~$5,000（公立大学注册费约200€，私立较高） |
-| 学徒制（Apprentissage） | 2年（BTS后或工程师阶段） | —（学徒期间由企业承担学费，并支付工资） |
+| Engineer Diploma (Master's) | 5 years (engineering school) | $3,000~$10,000 (Public schools about €600 per year, private up to €10,000.) |
+| Bachelor of Vocational (Licence Pro) | 3 years (1 year of specialization after Licence) | $200~$5,000 (The registration fee for public universities is about €200, while private universities are higher) |
+| Apprentissage | 2 years (post-BTS or engineer stage) | $0~$0 (During the apprenticeship period, the company pays the tuition fees and wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭（Diplôme d'Ingénieur） | CTI认证工程师学校 | 必备 | 必备资质，通常需5年高等教育 |
-| 安全管理认证（如CQP） | 专业机构 | 可选 | 非强制，但大企业招聘时加分 |
-| 项目管理认证（PMP等） | PMI | 可选 | 国际认可，提升竞争力 |
+| Diplôme d'Ingénieur (Engineer Diploma) | CTI Certified Engineering School | Required | Required qualifications, usually requiring 5 years of higher education |
+| Safety management certification (such as CQP) | Professional body | Optional | Not mandatory, but bonus points for large companies when hiring |
+| Project Management Certification (PMP, etc.) | PMI | Optional | Internationally recognized, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国老化基础设施（如桥梁、铁路）需升级改造，绿色建筑与能效法规推动维护需求，但岗位偏管理且竞争激烈，预计未来5年需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France's aging infrastructure (such as bridges and railways) needs to be upgraded, and green building and energy efficiency regulations are driving maintenance demand. However, positions are more managerial and highly competitive, and demand is expected to remain stable over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 税前年薪，含奖金 |
-| 中级（4-7年） | $55,000~$70,000 | 税前年薪，视企业规模 |
-| 高级（8年以上） | $70,000~$95,000 | 税前年薪，总监级别 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$50,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4-7 years) | $55,000~$70,000 | Pre-tax annual salary, depending on company size |
+| Senior (8+ years) | $70,000~$95,000 | Pre-tax annual salary, director level |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 通常从维护工程师或项目经理起步，积累经验后可晋升为设施总监或区域维护负责人，也可转向资产管理或可持续发展咨询。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on infrastructure and building maintenance engineering directors is mixed: tasks like predictive maintenance and document generation are automated, while senior responsibilities such as strategic decision-making, crisis management, and team leadership are being strengthened.
+
+Typically, you start as a maintenance engineer or project manager, and after gaining experience, you can be promoted to facility director or regional maintenance lead, or move to asset management or sustainability consulting.
+
+**Tasks most exposed to AI:**
+
+- Generate daily maintenance reports and compliance documentation
+- Monitor sensor data and trigger standard maintenance procedures
+- Basic budgeting and resource allocation calculations
+- Scheduling routine inspection tasks
+
+**Where AI augments the role:**
+
+- Maintenance strategy development based on AI predictive analytics
+- Optimize building energy management through digital twins
+- Complex fault diagnosis is assisted by AI
+- Automated generation of multidimensional performance dashboards
+- AI-powered supplier and contract evaluation
+
+**Human moat:**
+
+- Emergency decision-making and command for major security incidents
+- Cross-team conflict mediation and change management
+- Strategic planning involves interpreting regulations and balancing interests
+- Creative solutions to unstructured environmental problems
+- Establish and maintain highly trusted relationships between customers and stakeholders
+
+**Skills to build:**
+
+- Fundamentals of AI/Machine Learning and its application in facility management
+- Data analysis and data-driven decision-making
+- Digital twin and IoT system integration
+- Basic knowledge of cybersecurity
+- Lean and agile management methods
+- Emotional intelligence and leadership training
+
+**Key growth areas:**
 
 - Green Building
 - Asset Management
@@ -63,68 +98,67 @@ Oversees maintenance strategy, budgeting, and team leadership for large building
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需工程师文凭或多年经验，有效期4年，可带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求高等教育学历及高于1.5倍法国平均工资（约53k€），快速永居通道。 |
-| Subclass Salarié（Employee Work Permit） | 工作许可，需雇主担保且通过法国劳动局审核，建议申请Passeport Talent替代。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an engineer diploma or many years of experience, valid for 4 years, and family members may be brought along. |
+| Subclass Carte bleue UE (EU Blue Card) | Higher education and above 1.5 times the French average wage (about €53k) are required for fast-track permanent residency. |
+| Subclass Salarié (Employee Work Permit) | Work permits require employer sponsorship and approval from the French labour authority; it is recommended to apply for the Passeport Talent instead. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director and Engineering Manager for Infrastructure and Building Maintenance？**
-- 擅长团队管理和跨部门协调的工程背景人士
-- 对建筑维护、安全法规和资产管理有浓厚兴趣
-- 具备战略思维和预算控制能力
-
-**谁不适合学Director and Engineering Manager for Infrastructure and Building Maintenance？**
-- 不喜现场巡查和应急响应的纯办公型人才
-- 缺乏领导力和抗压能力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with engineering backgrounds skilled in team management and cross-departmental coordination
+- Strong interest in building maintenance, safety regulations, and asset management
+- Possess strategic thinking and budget control skills
+
+**Who is not suited**
+- Purely office professionals who dislike on-site inspections and emergency response
+- People who lack leadership and stress resistance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for the Infrastructure Maintenance Director in France?**
+A: Entry-level is about €40-50k, mid-range €55-70k, advanced €70-95k, with Paris and large groups offering higher prices.
+
+**Q: How can foreign engineers obtain a French work visa?**
+A: Recommended Passeport Talent: requires an engineer degree or more than 5 years of experience and meets contract salary requirements. Carte bleue UE requires a salary of about €53k or more. The Salarié visa is also available, but the procedures are more complicated.
+
+**Q: Which schools in France offer relevant engineering diplomas?**
+A: CTI-accredited engineering schools such as Arts et Métiers (ENSAM), ESTP, and INSA all offer general engineering courses, including maintenance management tracks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Director and Engineering Manager for Infrastructure and Building Maintenance的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a building maintenance director in France?**
-答：Entry-level: €40-50k, mid: €55-70k, senior: €70-95k gross annually, higher in Paris and large groups.
-
-**问：How can a foreign engineer get a work visa in France?**
-答：Talent Passport is recommended, requiring an engineering degree or 5+ years experience and adequate salary. EU Blue Card requires salary ~€53k. 'Salarié' visa is possible but more bureaucratic.
-
-**问：Which French schools offer relevant engineering degrees?**
-答：Arts et Métiers (ENSAM), ESTP, INSA, etc., all CTI-accredited, offer general engineering with maintenance management.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

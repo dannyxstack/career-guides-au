@@ -1,58 +1,94 @@
-# Purchasing Agents（Purchasing Agents）职业分析 · ES
+# Purchasing Agents — career analysis · Spain
 
-**职业代码：3522 – Purchasing Agents。**
+**Occupation code: 3522 (CNO)**
 
-Purchasing agents procure goods and services for organizations, manage supplier relationships, negotiate contracts, and ensure efficient supply chain operations.
+Procurement agents are responsible for purchasing goods and services for the company, managing supplier relationships, negotiating contracts, and ensuring the efficient operation of the supply chain.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $800~$3,000（公立大学年学费约800-2000欧元，私立约5000-12000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$1,500（公立FP年学费约500-1000欧元，私立约3000-6000欧元） |
+| Undergraduate (Grado) | 4 years | $800~$3,000 (Annual tuition for public universities is about 800-2000 euros, while private tuition is about 5000-12000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$1,500 (Annual tuition for public FPs is about 500-1000 euros, while private schools are about 3000-6000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采购与供应文凭（CIPS） | Chartered Institute of Procurement & Supply | 可选 | 国际认可，提升专业竞争力 |
-| 供应链管理硕士 | 西班牙大学 | 可选 | 有助于晋升高级职位 |
+| Diploma in Procurement and Supply (CIPS). | Chartered Institute of Procurement & Supply | Optional | International recognition enhances professional competitiveness |
+| Master's in Supply Chain Management | Spanish University | Optional | Useful for advancing to senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏上（★★★☆☆）。** 全国从业人数约 45,000。西班牙采购代理需求稳定，尤其在制造业、零售和公共部门。数字化转型和全球化供应链增加了对熟练采购人员的需求，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for sourcing agents in Spain remains stable, especially in manufacturing, retail, and the public sector. Digital transformation and global supply chains have increased demand for skilled procurement personnel, but competition remains moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视行业和地区而定 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，包括采购经理职位 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, depending on industry and region |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, including the procurement manager position |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从初级采购员晋升为高级采购经理或供应链总监。获得CIPS等认证有助于职业发展，也可转向战略采购或品类管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly optimize procurement processes, but core negotiation and supplier relationship management still rely on humans; low-value procurement tasks are easily replaced, while strategic procurement roles gain value, overall mixed outlook.
+
+Promotion from junior purchaser to senior purchasing manager or supply chain director. Obtaining certifications like CIPS helps with career development and can also lead to strategic procurement or category management.
+
+**Tasks most exposed to AI:**
+
+- Use AI system to automatically generate purchase orders and request for quotations
+- Based on historical data and market trends, algorithms predict demand and trigger replenishment
+- AI automatically compares supplier quotes and recommends the best option
+- RPA handles repetitive paperwork such as invoice reconciliation and payment matching
+- Automatic generation of standard contract templates and clause compliance checking
+
+**Where AI augments the role:**
+
+- using AI to analyze supplier performance data, aiding supplier evaluation and grading
+- Use market intelligence AI tools to track raw material price fluctuations in real time, optimizing procurement timing
+- AI-driven risk modeling helps identify supply disruption risks and develop alternative plans
+- Chatbot handles routine supplier inquiries; procurement officer focuses on complex negotiations
+- AI recommendation system offers cost-saving opportunities, accelerating sourcing and negotiation strategy development
+
+**Human moat:**
+
+- Strategic relationship maintenance and long-term cooperation negotiation with key suppliers
+- Game of complex contract terms, combining legal and business insights for decision-making
+- Ability to handle supply chain emergencies (e.g., geopolitical events, natural disasters)
+- Cross-departmental collaboration (R&D, production, finance) communication and leadership
+- Balancing and implementing non-quantifiable goals such as ethical sourcing and sustainability
+
+**Skills to build:**
+
+- Supply chain data analysis and visualization (SQL, Power BI, basic Python)
+- Ability to operate AI/automation tools (e.g., SAP Ariba for procurement, RPA platforms)
+- Supplier relationship management and strategic negotiation skills
+- Agile supply chain and risk management (e.g., scenario planning, inventory optimization)
+- Digital procurement platform and blockchain traceability applications
+- Cross-cultural communication and sustainable sourcing knowledge
+
+**Key growth areas:**
 
 - Supply chain digitization
 - Sustainable procurement
@@ -61,68 +97,67 @@ Purchasing agents procure goods and services for organizations, manage supplier 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等偏上（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或5年经验，薪资门槛约33,908欧元（2023年）。 |
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 受雇工作居留，需雇主担保，符合国家紧缺职业列表可简化流程。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | Ley 14/2013框架，适用于高管、研发人员等，审批较快。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of experience, with a salary threshold of approximately 33,908 euros (2023). |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employed work residency requires employer sponsorship and meets the national shortage occupation list to simplify the process. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | The Ley 14/2013 framework is suitable for executives, R&D personnel, and others with fast approvals. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing Agents？**
-- 善于谈判和沟通的人
-- 注重细节和分析能力强者
-- 对供应链和商业运作感兴趣者
-
-**谁不适合学Purchasing Agents？**
-- 不喜欢重复性文书工作的人
-- 抗压能力较弱者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in negotiation and communication
+- Attention to detail and strong analytical skills
+- Those interested in supply chains and business operations
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- Those with weaker stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for purchasing agents in Spain?**
+A: Entry-level about €22-28k, mid-level €30-40k, senior €40-55k (pre-tax annual salary). Industry and region vary widely; Madrid/Barcelona have higher salaries.
+
+**Q: How can foreigners become purchasing agents in Spain?**
+A: You can obtain the EU Blue Card (university degree or 5 years of experience, with a qualified salary) or employment residency (employer-sponsored). This occupation is in short supply and relatively easy to apply.
+
+**Q: What is the career development path for purchasing agents?**
+A: Promotion from junior purchaser to procurement manager or supply chain director. Obtaining CIPS certification or pursuing a master's in supply chain can accelerate your promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等偏上（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等偏上（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Purchasing Agents的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for purchasing agents in Spain?**
-答：Entry-level: €22,000-€28,000, mid-level: €30,000-€40,000, senior: €40,000-€55,000 (gross annual). Variations by industry and region, with Madrid/Barcelona higher.
-
-**问：How can foreigners become purchasing agents in Spain?**
-答：Via EU Blue Card (university degree or 5 years experience, salary threshold) or employer-sponsored work permit. The occupation is in shortage, facilitating applications.
-
-**问：What is the career path for purchasing agents?**
-答：From junior buyer to purchasing manager, supply chain director. CIPS certification or a master's in supply chain can accelerate promotion.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

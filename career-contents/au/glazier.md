@@ -1,69 +1,96 @@
-# 玻璃安装工（Glazier）职业分析 · 澳大利亚
+# Glazier — career analysis · Australia
 
-**职业代码：333311 – Glazier。**
+**Occupation code: 333311 (ANZSCO)**
 
-玻璃安装工（Glazier）负责测量、切割和安装玻璃于建筑门窗、幕墙及隔断系统。澳大利亚高层建筑幕墙工程旺盛，叠加住宅节能改造需求，持证玻璃工处于持续短缺状态。
+A Glazier is responsible for measuring, cutting, and installing glass in building doors, windows, curtain walls, and partition systems. Strong demand for high-rise curtain wall projects across Australia, combined with residential energy-efficiency retrofit needs, means licensed glaziers remain in ongoing shortage.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Glass and Glazing (CPC31220)（学徒） | 42~48个月 | —（各州学费差异；工具费约$500~$1,000（玻璃刀、吸盘等）） |
-| 海外资质互认（TRA） | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| Abseiling Certification（高层幕墙加分项） | 3~5天 | $800~$1,500（各州工作高空证） |
-| WHS White Card | 1天 | $50~$150（工地强制） |
+| Certificate III in Glass and Glazing (CPC31220) (apprenticeship) | 42–48 months | $0~$2,000 (Tuition fees vary by state; tools approximately $500–$1,000 (glass cutters, suction cups, etc.)) |
+| Overseas qualification recognition (TRA) | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| Abseiling Certification (bonus qualification for high-rise façade work) | 3–5 days | $800~$1,500 (Working at heights certification (state-specific)) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Glass and Glazing (CPC31220) | TAFE / RTO | 必备 | 执业核心资质 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
-| Working at Heights | 各州 | 必备 | 建筑工地强制 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Glass and Glazing (CPC31220) | TAFE / RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| Working at Heights | All states | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 14,000。高层玻璃幕墙（curtain wall）需求随城市核心区建设增长。住宅双层隔热玻璃改造市场扩大。JSA列为短缺职业（2025）。
+**Job demand: high (★★★★☆).** National workforce approx. 14,000. Demand for high-rise curtain wall glazing is growing alongside inner-city construction. The residential double-glazed insulation retrofit market is expanding. Listed as a shortage occupation by JSA (2025).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~350 个 | 全国，幕墙和住宅均有 |
-| Indeed | 80~200 个 | 含商铺玻璃 |
-| LinkedIn | 30~80 个 | 偏商业幕墙 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $28,000~$55,000 | Fair Work Award |
-| 初级玻璃工（1~3年） | $60,000~$80,000 | 住宅门窗和商业隔断 |
-| 中级玻璃工（3~8年） | $80,000~$100,000 | Seek AU 均值约$38~$45/hr（2026） |
-| 高层幕墙专家 / 资深（8年+） | $100,000~$130,000 | 含绳索下降津贴；CBD项目溢价 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Apprentice (0–4 years) | $28,000~$55,000 | Fair Work Award |
+| Junior Glazier (1–3 years) | $60,000~$80,000 | Residential windows and doors, and commercial partitions |
+| Mid-level Glazier (3–8 years) | $80,000~$100,000 | Seek AU average approx. $38–$45/hr (2026) |
+| High-rise curtain wall specialist / Senior (8+ years) | $100,000~$130,000 | Includes abseiling allowance; CBD project premium |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：佳（★★★★☆）。** 双层Low-E玻璃和结构胶粘合（structural glazing）成主流，技能要求提升。高层作业需绳索下降（abseiling）资质，薪资溢价明显。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on glaziers is mixed: automated measurement and cutting software will compress junior roles, but on-site skills like installation and sealing remain in high demand, with certified senior workers still scarce.
+
+Double-glazed Low-E glass and structural glazing have become mainstream, raising skill requirements. High-rise work requires abseiling certification, with a noticeable wage premium.
+
+**Tasks most exposed to AI:**
+
+- Automatic measurement and optimized nesting of glass sizes
+- CNC automation for standard glass cutting
+- Glass panel numbering and positioning based on BIM model
+- Automation of inventory management and order recording
+
+**Where AI augments the role:**
+
+- On-site installation precision verification using AR glasses
+- Using AI visual inspection to check seal quality after glass installation
+- High-rise curtain wall glass inspection using drones or robots
+- Optimize glass transportation and handling routes using AI
+
+**Human moat:**
+
+- Glass adjustment and sealing craftsmanship under complex working conditions
+- Physical Fitness and Emergency Handling for Safe Large-Glass Handling and High-Altitude Work
+- Communicate customised glass solutions with clients and architects.
+- On-site Judgment and Resolution of Unforeseen Problems
+
+**Skills to build:**
+
+- Mastering digital measurement and CAD/BIM software
+- Learn to use AR-assisted installation tools
+- Basic robot or drone operation and maintenance
+- Mastering construction techniques for new sealant materials
+- Enhance high-altitude work safety certification and collaboration skills
+- Learning to apply AI quality inspection tools
+
+**Key growth areas:**
 
 - High-Rise Curtain Wall & Facade
 - Residential Window Replacement
@@ -72,79 +99,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学玻璃安装工？**
-- 有玻璃、幕墙或铝合金门窗安装背景，目标技能移民
-- 不惧高空作业，愿考取绳索下降资质获溢价
-- 追求精细手工艺，对切割精度有耐心
-
-**谁不适合学玻璃安装工？**
-- 恐高或有高空工作禁忌
-- 体力较弱（大板玻璃搬运需要）
-- 期望完全室内工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Applicants with a background in glass, curtain wall, or aluminium door and window installation targeting skilled migration
+- Comfortable working at heights, willing to obtain abseiling/rope access certification for a pay premium
+- Values precision craftsmanship and has patience for cutting accuracy
+
+**Who is not suited**
+- Fear of heights or contraindications to working at heights
+- Limited physical strength (required for handling large glass panels)
+- Expects fully indoor work
+
+---
+
+## 8. FAQ
+
+**Q: How much do glaziers earn in Australia?**
+A: Mid-level glazier annual salary approximately $80,000–$100,000 (approximately $38–$45/hr). High-rise curtain wall specialists can earn $100,000–$130,000, including rope access allowances.
+
+**Q: Is it easy to find work as a glazier in Australia?**
+A: Straightforward. Dual demand from CBD curtain wall and residential renovation projects; Seek consistently lists 150–350 vacancies; JSA confirms an ongoing shortage.
+
+**Q: Is domestic door and window installation experience recognised in Australia?**
+A: Not directly recognised. TRA assessment required (12–18 months).
+
+**Q: Will glaziers be replaced by robots?**
+A: Extremely low. Precision installation and on-site leak detection judgement are craft skills with no mature automation solutions available.
+
+**Q: Is a university degree required?**
+A: No, Certificate III is sufficient. High school graduates can enter TAFE apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 333311 数据 |
-| Seek AU | Glazier 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-玻璃安装工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲玻璃安装工工资多少？**
-答：中级玻璃工年薪约 $80,000~$100,000（约$38~$45/hr）。高层幕墙专家可达 $100,000~$130,000，含绳索下降津贴。
-
-**问：澳洲玻璃工容易找工作吗？**
-答：容易。CBD幕墙和住宅翻新双驱动，Seek常年挂牌150~350个职位，JSA确认持续短缺。
-
-**问：国内门窗安装经验澳洲认可吗？**
-答：不直接认可。需通过TRA评估（12~18个月）。
-
-**问：玻璃工会被机器人替代吗？**
-答：极低。精密安装和现场防漏判断是手工艺技艺，无成熟自动化方案。
-
-**问：需要大学文凭吗？**
-答：不需要。Certificate III即可，高中毕业可入读TAFE学徒。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

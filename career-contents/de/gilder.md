@@ -1,60 +1,96 @@
-# Gilder（Gilder）职业分析 · DE
+# Gilder — career analysis · Germany
 
-**职业代码：9334 – Gilder。**
+**Occupation code: 9334 (KldB)**
 
-Gilders are skilled artisans who apply gold leaf or metallic coatings to surfaces like frames, furniture, and architectural details, often for restoration and heritage conservation.
+A gilder is a craft specialist who applies gold leaf or metallic coatings to surfaces such as picture frames, furniture, and architectural decorations, often used in restoration and historical preservation.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3年 | —（培训期间有津贴，学费由企业和国家承担） |
-| 大师培训 | 1-2年 | $2,000~$5,000（考试费及课程费用，部分可获资助） |
+| Dual system training | 3 years | $0~$500 (Stipend during training; tuition covered by employer and government) |
+| Master training | 1-2 years | $2,000~$5,000 (Examination and course fees, some partially subsidized) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 镀金师职业资格证书 | 德国工商会 | 必备 | 完成双元制培训后获得 |
-| 大师证书 | 德国手工业协会 | 可选 | 可选，用于自主创业或培训学徒 |
+| Gilder occupation qualification certificate | German Chamber of Commerce and Industry | Required | Obtained after completing dual system training |
+| Master certificate. | German Chamber of Crafts | Optional | Optional, for self-employment or training apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。德国传统手工艺需求稳定，尤其在文物修复和高端装饰领域。由于技术传承稀缺，熟练镀金师在文化保护项目中长期缺人。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Demand for traditional German crafts is stable, especially in heritage restoration and high-end decoration. Due to the scarcity of technical transmission, skilled gilders are in chronic shortage in cultural preservation projects.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，培训后起薪 |
-| 中级（3-7年） | $35,000~$45,000 | 含熟练工与修复专家 |
-| 高级（7年以上/大师） | $45,000~$60,000 | 含自主创业或管理职位 |
+| Median salary | $41,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, starting salary after training |
+| Mid-level (3–7 years) | $35,000~$45,000 | Includes skilled workers and restoration specialists |
+| Advanced (7+ years / Expert) | $45,000~$60,000 | Including self-employment or management positions |
+| average salary | $43,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从学徒（Ausbildung）到熟练工，可晋升为大师（Meister）并自主创业，或专注于艺术修复、博物馆工作等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gilders' work is highly manual and artistic; AI/automation can assist in precise coating and material handling, but core creativity and fine hand skills are hard to replace. Overall risk is medium; proactive adoption of digital tools is recommended.
+
+Career path: from apprentice (Ausbildung) to skilled worker, can advance to master (Meister) and start own business, or specialize in art restoration, museum work, etc.
+
+**Tasks most exposed to AI:**
+
+- Uniform spraying line operation for gold leaf/metal coating
+- Batch gold plating of standard-sized picture frames and furniture
+- Digital scanning and automatic transfer of patterns
+- Automated control of material mixing and proportioning
+- Environmental temperature and humidity monitoring and control
+
+**Where AI augments the role:**
+
+- Using AI design software for pattern ideation and preview
+- Laser positioning assists precise foil application and complex pattern cutting
+- Automated polishing and pretreatment to improve base flatness
+- Digital colour matching tools ensure consistency of gold leaf shades.
+- AR/VR Remote Collaboration for Fault Diagnosis and Process Guidance
+
+**Human moat:**
+
+- Historical style assessment and manual restoration in antique restoration
+- Fine silver leaf application on non-regular curved surfaces and irregular sculptures
+- Custom artistic creativity (e.g., color mixing, distressing)
+- Inheritance and innovation of traditional techniques (e.g., Japanese Kintsugi)
+- Flexibility in on-site construction (e.g., building decoration and restoration)
+
+**Skills to build:**
+
+- Digital modeling and texture mapping (Blender/ZBrush).
+- Programming and maintenance of automated painting equipment
+- Materials science knowledge (new metal coatings)
+- Client communication and customized proposal writing
+- Basic data analysis (quality control)
+- Sustainable techniques (environmentally friendly gold leaf alternatives)
+
+**Key growth areas:**
 
 - Heritage conservation
 - Art restoration
@@ -63,69 +99,68 @@ Gilders are skilled artisans who apply gold leaf or metallic coatings to surface
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高等教育学历，但镀金师通常无大学学位，仅当管理职位且薪资达标时可能适用 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需职业资质认证（Anerkennung），适合持有大师证书或同等学历的申请者 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许求职者入境寻找工作，适合有职业资格但无雇主担保者 |
+| Subclass EU Blue Card (EU Blue Card) | For higher education qualifications, but gilders typically do not have a university degree; only applicable for management roles with salary requirements met. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualification recognition (Anerkennung), suitable for applicants holding a master craftsman certificate or equivalent qualification |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to enter the country to find work, suitable for those with professional qualifications but no employer sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gilder？**
-- 对精细手工艺和艺术修复有热情的人
-- 耐心细致，注重细节
-- 愿意在传统行业长期发展
-
-**谁不适合学Gilder？**
-- 追求高薪或快速晋升的人
-- 对化学制品或长时间精细工作不适应
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about fine craftsmanship and art restoration
+- Patient, meticulous, and detail-oriented
+- Willing to develop long-term in traditional industries
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- Not suitable for chemical products or long periods of fine work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a gilder in Germany?**
+A: Entry-level annual income approx. €28,000-35,000, intermediate €35,000-45,000, senior or master €45,000-60,000. Income depends on region, experience, and employer.
+
+**Q: How can foreign goldsmiths immigrate to Germany?**
+A: Must pass qualification recognition (Anerkennung) to prove your skills are equivalent to German vocational qualifications. Then can apply for a Skilled Worker Visa or Opportunity Card (Chancenkarte). Language requirement is usually B1.
+
+**Q: What are the career development paths for a gilder?**
+A: After completing dual vocational training, one can become a skilled worker, gain experience, obtain a master craftsman certificate, open their own workshop, or take on restoration project supervision. Opportunities also exist in museums, churches, or high-end furniture companies for full-time restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Gilder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for gilders in Germany?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-45,000, and senior or master gilders can earn €45,000-60,000. Income varies by region, experience, and employer.
-
-**问：How can foreign gilders migrate to Germany?**
-答：You need to have your qualifications recognized (Anerkennung) as equivalent to German standards. Then you can apply for a Skilled Worker Visa or Opportunity Card. Language requirement is usually B1.
-
-**问：What are the career paths for gilders?**
-答：After completing dual vocational training, you can become a journeyman. With experience, you can obtain a master certificate, open your own workshop, or become a restoration project manager. Opportunities also exist in museums, churches, or high-end furniture companies.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

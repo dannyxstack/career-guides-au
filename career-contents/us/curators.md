@@ -1,61 +1,97 @@
-# Curators（Curators）职业分析 · 美国
+# Curators — career analysis · United States
 
-**职业代码：25-4012 – Curators。**
+**Occupation code: 25-4012 (SOC)**
 
-Administer collections such as artwork, collectibles, historic items, or scientific specimens for museums or other institutions, including instructional, research, or public service activities.
+Responsible for collection management, exhibition planning, and public education at museums, galleries, etc., covering collection, research, display, and preservation of artworks, historical artifacts, or scientific specimens.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（美国公立大学年均学费约1-3万美元，私立大学约4-6万美元） |
-| 硕士学位 | 2年 | $30,000~$80,000（博物馆学、艺术史或相关专业硕士，部分项目提供助学金） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Annual tuition at US public universities averages $10,000-30,000, and at private universities $40,000-60,000) |
+| Master's degree | 2 years | $30,000~$80,000 (Master's degree in museology, art history, or related field; some programs offer assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博物馆学或相关领域硕士 | 大学 | 必备 | 大多数职位要求硕士学历，尤其策展岗位 |
-| 博士 | 大学 | 可选 | 大型博物馆或研究机构偏好博士 |
-| 无特定执照 | 无 | 可选 | 策展人通常无需州执照，但需专业协会认证 |
+| Master's degree in Museum Studies or related field | University | Required | Most positions require a master's degree, especially curatorial roles |
+| Doctorate | University | Optional | Large museums or research institutions prefer a PhD. |
+| No specific license required | None | Optional | Curators typically do not need a state license but require professional association certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,800。美国策展人就业增长稳定，2023-2033年预计增长约11%，受博物馆扩张和文化消费需求推动。但职位竞争激烈，尤其在大城市知名机构。预算限制可能影响部分公共博物馆的招聘。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,800. US curator employment growth is stable, expected to grow about 11% from 2023-2033, driven by museum expansion and cultural consumption demand. But competition is fierce, especially at major institutions in big cities. Budget constraints may affect hiring at some public museums.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 助理策展人或策展助理，非营利机构起薪较低 |
-| 中级（4-9年） | $50,000~$75,000 | 独立策展人或副策展人，中型博物馆 |
-| 高级（10年以上） | $75,000~$120,000 | 首席策展人或大型博物馆部门主管 |
+| Median salary | $63,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$50,000 | Assistant curator or curatorial assistant, lower starting salary at non-profits |
+| Intermediate (4-9 years) | $50,000~$75,000 | Independent curator or associate curator, medium-sized museum |
+| Senior (10+ years) | $75,000~$120,000 | Chief curator or department head of a large museum |
+| average salary | $71,560 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级策展助理可晋升为助理策展人、副策展人，最终成为首席策展人或博物馆馆长。也可转向学术研究、艺术品鉴定或拍卖行工作。积累项目管理与公众教育经验有助于晋升到管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will disrupt curators' document sorting and digitization processes, but the core of curation—artistic judgment, narrative construction, and public interaction—is nearly impossible to automate and will instead be amplified by AI tools. Entry-level positions will narrow due to reduced repetitive tasks, but the value of experienced curators will increase.
+
+Junior curatorial assistants can advance to assistant curator, associate curator, and eventually chief curator or museum director. They may also transition to academic research, art appraisal, or auction house work. Accumulating experience in project management and public education helps in moving to management roles.
+
+**Tasks most exposed to AI:**
+
+- Digital cataloging of collections and metadata annotation
+- Draft generation for exhibition descriptive text
+- Exhibition information retrieval and literature review
+- Audience data statistics and visit pattern analysis
+- Producing basic copy for brand activities
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple exhibition theme proposals and compare them
+- Use AI to analyse historical correlations of exhibit combinations
+- Simulating exhibition space layout and visitor flow through AI
+- Use natural language processing to uncover cross-cultural connections in collections
+- Use AI tools to quickly create interactive guided tours and digital replicas
+
+**Human moat:**
+
+- Unique creativity in curatorial narrative and exhibition themes
+- Relationship management with artists, collectors, and sponsors
+- Subjective judgment of the authenticity/condition of cultural relics/artworks and restoration decisions
+- On-site interaction and emotional connection in public education events
+- Long-term management of cross-institutional cooperation and industry influence
+
+**Skills to build:**
+
+- Mastery of AI curation and exhibition design tools (e.g., MuseNet, LuminAi)
+- Learn basic data analysis and visualization skills
+- Enhance cross-media storytelling and digital content creation skills
+- Familiar with digital collectibles (NFTs) and virtual exhibition technologies
+- Enhance soft skills in project management and multi-party collaboration.
+- Learn ethics and legal knowledge to address copyright and compliance issues with AI-generated content
+
+**Key growth areas:**
 
 - Museum expansion
 - Cultural tourism
@@ -64,66 +100,68 @@ Administer collections such as artwork, collectibles, historic items, or scienti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于学位要求高的策展职位，但需雇主担保且配额紧张 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上学历+PERM劳工证，适合高级策展人 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在策展领域有杰出成就的人士，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for curation positions with high degree requirements, but requires employer sponsorship and quota is tight |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or higher + PERM labor certification, suitable for senior curators |
+| Subclass O-1 (O-1 Extraordinary Ability) | For those with outstanding achievements in curatorial field, no labor certification required |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Curators？**
-- 热爱艺术、历史或科学，对藏品有浓厚兴趣
-- 具备出色的组织、研究和写作能力
-- 能够应对预算限制和多项目并行的压力
+**Who is suited**
+- Passionate about art, history, or science, with strong interest in collections.
+- Excellent organizational, research, and writing skills
+- Able to cope with budget constraints and the pressure of multiple projects simultaneously
 
-**谁不适合学Curators？**
-- 不喜欢与人沟通或公众教育工作者
-- 追求高薪或快节奏职业发展
+**Who is not suited**
+- Not suitable for those who dislike communication or public education work
+- Pursuing high salary or fast-paced career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How does a curator's salary rank in the US?**
+A: The median salary for a curator is about $57,000, below the national average. Non-profit starting salaries are around $35,000-40,000, with senior positions at large museums reaching over $100,000. However, salaries are significantly influenced by institution size, location, and experience.
+
+**Q: Is it easy for curators to apply for US work visas?**
+A: Difficult. Curator positions require employer sponsorship for H-1B, with limited quotas and high competition. EB-2 green card requires PERM labor certification to prove no US worker available. O-1 visa for extraordinary ability is an alternative but requires internationally recognized achievements.
+
+**Q: What are the career development prospects for curators?**
+A: Clear promotion path from assistant to chief curator or museum director. However, mobility is low, and job vacancies are few. Digital transformation and community engagement create new opportunities, but competition for traditional roles remains intense.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Curators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of curators in the US?**
-答：Median salary around $57,000, below national average. Non-profit entry-level $35,000-$40,000, large museum senior roles over $100,000. Varies by institution size, location, and experience.
-
-**问：Is it easy for curators to get a US work visa?**
-答：Challenging. H-1B requires employer sponsorship with limited quotas. EB-2 green card needs PERM labor certification. O-1 visa for extraordinary ability candidates is an alternative but requires international recognition.
-
-**问：What is the career outlook for curators?**
-答：Clear promotion path from assistant to chief curator or director, but low turnover and few openings. Digital transformation and community engagement create new opportunities, but competition remains high.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

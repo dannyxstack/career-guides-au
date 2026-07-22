@@ -1,59 +1,95 @@
-# Heavy-duty equipment mechanics（Heavy-duty equipment mechanics）职业分析 · 加拿大
+# Heavy-duty equipment mechanics — career analysis · Canada
 
-**职业代码：72401 – Heavy-duty equipment mechanics。**
+**Occupation code: 72401 (NOC)**
 
-Heavy-duty equipment mechanics diagnose, repair, and maintain diesel-powered heavy equipment such as mining trucks, construction machinery, and farm equipment. High demand in Canada's mining, forestry, and construction sectors, with immigration via Express Entry and Provincial Nominee Programs.
+Heavy equipment mechanics diagnose, repair, and maintain diesel-powered heavy equipment such as mining trucks, construction machinery, and agricultural equipment. Canada's mining, forestry, and construction industries have high demand, and this occupation is eligible for immigration through federal and provincial nominee programs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（完成12年级通常是学徒前提） |
-| 学徒培训 | 4年 | $500~$3,000（学徒期收入逐渐增加，学费和工具费约500-3000加元） |
+| High school graduation | 0 years | $0~$0 (Completing grade 12 is usually a prerequisite for apprenticeship.) |
+| Apprenticeship training | 4 years | $500~$3,000 (Apprentice income gradually increases; tuition and tool costs approximately CAD 500-3,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 红印认证（Red Seal） | 加拿大各省技能贸易机构 | 可选 | 跨省执业标准认证，通过考试证明熟练度 |
-| 省学徒证书 | 各省学徒培训机构 | 必备 | 完成四年学徒计划后获得，是从事该职业的常见要求 |
-| 语言能力测试（IELTS/CLB） | IELTS/CELPIP | 可选 | 移民需CLB 5-7，技工类通常CLB 5 |
+| Provincial apprenticeship certificate | Provincial apprenticeship training institutions | Required | Obtained after completing a four-year apprenticeship, a common requirement for the occupation |
+| Red Seal certification | Provincial/territorial skilled trades bodies in Canada | Optional | Cross-provincial practice standard certification, demonstrating proficiency through exams. |
+| Language proficiency test (IELTS/CLB) | IELTS/CELPIP | Optional | Immigration requires CLB 5-7, trades usually CLB 5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 42,500。加拿大自然资源和基础设施项目持续推动重型设备技工需求，尤其是在阿尔伯塔、卑诗省和安大略省。未来十年就业增长率预计达中等水平，退休人员替换也将创造职位。
+**Job demand: high (★★★★☆).** National workforce approx. 42,500. Heavy equipment mechanic demand is driven by Canada's natural resources and infrastructure projects, especially in Alberta, BC and Ontario. Employment growth is expected to be moderate over the next decade, with retirements creating openings.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 时薪约$22-29 |
-| 中级（3-6年） | $60,000~$80,000 | 时薪约$29-38 |
-| 高级（6年+） | $80,000~$100,000 | 时薪约$38-48，主管可达$55+ |
+| Median salary | $77,210 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Hourly wage approximately $22-29 |
+| Mid-level (3–6 years) | $60,000~$80,000 | Hourly wage approximately $29-38 |
+| Senior (6+ years) | $80,000~$100,000 | Hourly wage about CAD 38-48, supervisors can reach CAD 55+ |
+| average salary | $81,120 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从业者可从初级技工升至高级技师、团队主管或设备经理。考取红印认证（Red Seal）可提升资质，便于跨省流动。部分资深技工可转向设备销售或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Heavy equipment mechanics face challenges from automated diagnostic tools, but AI also enhances predictive maintenance and remote repair capabilities; core manual operations and on-site decisions are hard to replace, so overall job demand remains stable.
+
+Practitioners can progress from junior technician to senior technician, team supervisor, or equipment manager. Obtaining Red Seal certification enhances qualifications and facilitates interprovincial mobility. Some senior technicians may move into equipment sales or training roles.
+
+**Tasks most exposed to AI:**
+
+- Routine parameter checks in fault diagnosis.
+- Automated recording of maintenance logs and report generation
+- Automatic inventory counting and ordering of parts
+- Standard commissioning procedures for basic hydraulic systems
+- Regular simple maintenance tasks
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to anticipate component failures in advance
+- Complete complex repairs through AR remote expert guidance
+- Use digital twins to simulate maintenance solutions for evaluation
+- Optimizing spare parts inventory and scheduling with AI
+- Use mobile diagnostic app to quickly locate faults.
+
+**Human moat:**
+
+- On-site flexible repairs in extreme environments (mines, underground)
+- Experience and tactile judgment for non-standard old equipment
+- Physical handling in complex machinery disassembly and reassembly
+- Emergency response and decision-making during client crises
+- On-site supervision of teamwork and safety procedures
+
+**Skills to build:**
+
+- Operation of predictive maintenance software (e.g., Uptake, FIIX)
+- Use of augmented reality (AR) repair assistance tools
+- Data analysis and basic programming (Python/R)
+- On-board diagnostic systems (CAN bus, J1939 protocol)
+- Automated diagnostic tools (e.g., JPRO, Noregon)
+- Digital modeling of hydraulic and electrical systems
+
+**Key growth areas:**
 
 - Red Seal
 - Provincial Nominee
@@ -62,68 +98,67 @@ Heavy-duty equipment mechanics diagnose, repair, and maintain diesel-powered hea
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦技术工人类或加拿大经验类移民，需要满足语言和教育要求，Skilled Trades 类别可获额外加分。 |
-| Subclass PNP（Provincial Nominee Program） | 各省如阿尔伯塔、卑诗省、安大略等有针对技工的省提名项目，通常需雇主担保或紧缺职业抽签。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省针对技工的雇主担保移民，要求大西洋省份雇主offer。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Immigrate through Federal Skilled Worker or Canadian Experience Class, meeting language and education requirements; the Skilled Trades category offers additional points. |
+| Subclass PNP (Provincial Nominee Program) | Provinces like Alberta, British Columbia, Ontario have trade-specific PNP streams, usually requiring employer sponsorship or occupation-specific draws. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for tradespersons requires a job offer from an employer in an Atlantic province. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Heavy-duty equipment mechanics？**
-- 喜欢动手修理机械、有耐心且注重细节的人
-- 能适应户外或车间环境、愿意接受体力劳动的人
-- 愿意通过学徒制积累经验、长期在技术领域发展的人
-
-**谁不适合学Heavy-duty equipment mechanics？**
-- 不擅长体力劳动或对机械不感兴趣的人
-- 希望快速获得高薪、不愿投入多年学徒期的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair, are patient, and detail-oriented
+- People who can adapt to outdoor or workshop environments and are willing to accept physical labor
+- People willing to gain experience through apprenticeships and develop long-term in technical fields
+
+**Who is not suited**
+- People not good at physical labor or not interested in machinery.
+- Those who want a high salary quickly and are unwilling to invest years in an apprenticeship
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for heavy equipment mechanics in Canada?**
+A: According to Canada's Job Bank, the median annual salary for heavy equipment mechanics is about CAD 66,000; experienced workers can earn over CAD 90,000, with higher pay in field or mining sites.
+
+**Q: How can heavy equipment mechanics immigrate to Canada?**
+A: Can apply via federal Express Entry (Skilled Trades) or provincial nominations (e.g., Alberta, BC, Ontario). Usually need at least CLB 5 language score, plus a job offer or provincial nomination.
+
+**Q: Do I need Canadian certification to work?**
+A: Although not mandatory, obtaining a Red Seal endorsement significantly improves job prospects and salary. Most provinces require completion of an apprenticeship or hold provincial certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Heavy-duty equipment mechanics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for heavy-duty equipment mechanics in Canada?**
-答：According to Canada's Job Bank, the median annual salary is around CAD 66,000, with experienced mechanics earning up to CAD 90,000 or more, especially in remote or mine sites.
-
-**问：How can heavy-duty equipment mechanics immigrate to Canada?**
-答：They can apply through Express Entry (Skilled Trades) or Provincial Nominee Programs (e.g., Alberta, BC, Ontario). Usually require at least CLB 5 language score, and a job offer from a Canadian employer or provincial nomination.
-
-**问：Is Canadian certification required to work?**
-答：While not mandatory, obtaining the Red Seal certification greatly improves job prospects and pay. Most provinces require completion of an apprenticeship program or provincial certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

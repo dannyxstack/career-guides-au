@@ -1,61 +1,95 @@
-# Local Development Officer（Local Development Officer）职业分析 · FR
+# Local Development Officer — career analysis · France
 
-**职业代码：K1802 – Local Development Officer。**
+**Occupation code: K1802 (ROME)**
 
-Local Development Officer coordinates and implements regional economic, social and environmental development projects, working with local governments, businesses and communities to promote sustainable growth and employment.
+Local development officers are responsible for coordinating and implementing regional economic, social, and environmental development projects, collaborating with local governments, businesses, and communities to promote sustainable growth and employment.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Licence） | 3年（Licence） | $3,000~$10,000（公立大学学费约300€/年，但专业课程管理类可能更高） |
-| 硕士（Master） | 2年（Master） | $5,000~$15,000（公立大学法国籍约250€/年，非欧盟约4000€/年，商学院更贵） |
-| 学徒（Apprentissage） | 1-2年 | —（学徒制免费且带薪，企业与学校合作） |
+| Licence | 3 years (Licence) | $3,000~$10,000 (Public university tuition is about €300 per year, but specialized courses in management may be even higher) |
+| Master's Degree (Master) | 2 years (Master) | $5,000~$15,000 (Public universities cost about €250 per year for French nationals, about €4,000 per year for non-EU citizens, and business schools are even more expensive) |
+| Apprentissage | 1-2 years | $0~$0 (Apprenticeships are free and paid, with cooperation between companies and schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 城市规划或地方发展硕士学位 | 公立大学或政治学院（IEP） | 可选 | 最常见的入门要求 |
-| 公务员考试（Concours） | 国家或地方政府 | 可选 | 如希望进入公共部门，需通过相关考试 |
+| Master's degree in Urban Planning or Local Development | Public University or School of Political Science (IEP) | Optional | The most common entry requirements |
+| Civil Service Examination (Concours) | National or local governments | Optional | If you wish to enter the public sector, you must pass the relevant exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国地方发展领域就业前景稳定，受政府支持公共投资和地域平等政策驱动。预计未来五年需求增长约8%，尤其在乡村和欠发达地区有更多机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Employment prospects in France's local development sector are stable, driven by government support for public investment and regional equality policies. Demand is expected to grow by about 8% over the next five years, especially with more opportunities in rural and underdeveloped areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 公立部门按公务员等级，私企略高 |
-| 中级（3-7年） | $32,000~$42,000 | 项目负责人或协调员 |
-| 高级（7年以上） | $42,000~$55,000 | 部门主管或高级顾问 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Public sector ranks are based on civil servant rank, with private enterprises slightly higher |
+| Mid-level (3–7 years) | $32,000~$42,000 | Project leader or coordinator |
+| Senior (7+ years) | $42,000~$55,000 | Department Head or Senior Consultant |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级职位可通过项目助理或协调员起步，积累经验后可晋升为项目负责人或部门主管。高级路径可转向政策咨询、区域规划或跨国发展项目。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Local development officials' macro planning and coordination abilities are even more valuable. AI mainly takes over data collection and report generation, allowing them to focus on strategy formulation and community engagement, with positions amplified rather than compressed by AI.
+
+Entry-level positions can start as project assistants or coordinators, and after gaining experience, can be promoted to project leaders or department heads. Advanced pathways can shift to policy consulting, regional planning, or transnational development projects.
+
+**Tasks most exposed to AI:**
+
+- Automatically collect economic, social, and environmental statistics and generate regular reports
+- Using AI models to predict regional development indicators and project impacts
+- Automated email replies and meeting scheduling
+- Generate project applications and progress reports based on templates
+
+**Where AI augments the role:**
+
+- Utilize GIS and data analysis platforms to assess regional resources and needs
+- Using AI to simulate the economic, social, and environmental benefits of projects
+- Analyze community feedback and extract public opinions with the help of natural language processing
+- Real-time monitoring of project progress and performance through smart dashboards
+- Forecasting models are used to optimize public fund allocation and investment strategies
+
+**Human moat:**
+
+- Building trust and negotiating with local stakeholders
+- Formulating inclusive development strategies in a complex political and social environment
+- In-depth understanding of local culture, history, and unstructured implicit needs
+- Rapid decision-making and on-site coordination in crisis situations (such as natural disasters and social conflicts).
+- Project ethics and judgment and defense of public values
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Tableau)
+- Geographic Information System (GIS) operation and spatial analysis
+- AI tool applications (such as automatic report generation, predictive models)
+- Project management and agile methods
+- Quantitative methods for public policy evaluation
+- Digital communication and community engagement platform management
+
+**Key growth areas:**
 
 - Territorial development
 - Sustainable development
@@ -64,65 +98,67 @@ Local Development Officer coordinates and implements regional economic, social a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 先获得法国雇主工作合同，申请工作许可和工作居留。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才或应届硕士毕业生，简化流程。 |
+| Subclass Salarié (Salarié (Employee)) | First, obtain a work contract from a French employer, then apply for a work permit and work residence permit. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals or recent master's graduates, streamlining the process. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Local Development Officer？**
-- 热衷公共事务和社区发展的人
-- 具备项目管理、沟通和协作能力的人
-- 愿意在地方或乡村地区工作的人
+**Who is suited**
+- People passionate about public affairs and community development
+- Individuals with project management, communication, and collaboration skills
+- People willing to work in local or rural areas
 
-**谁不适合学Local Development Officer？**
-- 追求高薪和快速晋升的人
-- 不喜欢与政府打交道或官僚程序的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike dealing with the government or bureaucratic procedures
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for local development officers?**
+A: Entry-level salaries are about €25,000-32,000, intermediate salaries €32,000-42,000, senior salaries €42,000-55,000. In the public sector, depending on civil servant level, private companies may earn even more.
+
+**Q: How can foreign professionals apply for local development officer positions?**
+A: You must first obtain an offer from a French employer and obtain a Salarié or Passeport Talent visa. French is highly proficient, usually requiring a C1 level.
+
+**Q: Is a specific academic background required to be qualified?**
+A: Usually requires a master's degree (urban planning, geography, public administration), but also accepts Licence plus relevant experience. Apprenticeship is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Local Development Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Local Development Officer?**
-答：Entry-level around €25,000-32,000, mid-level €32,000-42,000, senior €42,000-55,000; public sector follows civil service scales, private sector may be higher.
-
-**问：How can foreign professionals apply for Local Development Officer positions?**
-答：Must first obtain a job offer from a French employer, then apply for a Salarié or Passeport Talent visa. Strong French skills required, usually C1 level.
-
-**问：Is a specific degree required?**
-答：A Master's degree (urban planning, geography, public administration) is typical, but Licence with experience is accepted. Apprenticeship is common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

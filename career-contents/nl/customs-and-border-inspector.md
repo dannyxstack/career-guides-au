@@ -1,61 +1,97 @@
-# Customs and Border Inspector（Customs and Border Inspector）职业分析 · NL
+# Customs and Border Inspector — career analysis · Netherlands
 
-**职业代码：3351 – Customs and Border Inspector。**
+**Occupation code: 3351 (ISCO08)**
 
-Inspects persons, goods, and conveyances at border points (airports, seaports, land borders) to enforce customs, immigration, and agricultural quarantine regulations, preventing illegal entry of prohibited items.
+Responsible for inspecting inbound and outbound persons, goods, and vehicles at border crossings (airports, seaports, land borders), enforcing customs, immigration, and agricultural quarantine regulations, and preventing illegal items from entering.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育学士 | 4年 | —（荷兰公立大学学费约€2,300/年（欧盟学生），非欧盟学生€8,000-12,000/年） |
-| 应用型大学硕士（可选） | 1-2年 | —（非欧盟学生学费较高） |
+| Higher vocational education bachelor's degree | 4 years | $0~$2,500 (Dutch public university tuition is approximately €2,300/year for EU students, and €8,000-12,000/year for non-EU students) |
+| Master's degree from an applied university (optional) | 1-2 years | $0~$15,000 (Non-EU students face higher tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海关与边境管理专业学士学位 | Hogeschool / University of Applied Sciences | 必备 | 如海牙应用科技大学相关专业 |
-| 荷兰语流利（母语水平） | 没有官方证书要求 | 必备 | 工作中需与公众和文件打交道 |
-| 无犯罪记录证明 | 荷兰司法部 | 必备 | 背景调查 |
+| Bachelor's degree in Customs and Border Management | Hogeschool / University of Applied Sciences | Required | Such as related programs at The Hague University of Applied Sciences |
+| Fluent in Dutch (native level) | No official certification required | Required | Work involves dealing with the public and documents. |
+| Police clearance certificate | Ministry of Justice of the Netherlands | Required | Background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。荷兰作为欧盟物流枢纽，边境检查需求稳定。随着国际贸易增长和安检要求提升，预计未来5年职位微增，但预算限制可能影响招聘。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,500. As a logistics hub for the EU, the Netherlands has stable demand for border inspection. With international trade growth and increased security requirements, positions are expected to grow slightly over the next 5 years, but budget constraints may affect recruitment.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$65,000 | 税前年薪，含团队主管 |
+| Median salary | $60,268 | Median salary (official: CBS median hourly wage €30.5/hour × 1976h annualized, BRC group 0612 Overheidsambtenaren; P25–P75 €49,993–€69,358, CBS 2024) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$65,000 | Annual salary before tax, including team supervisor |
+| average salary | $46,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 新入职通常从检查员做起，积累经验后可晋升为高级检查员、团队主管或进入风险分析、情报等专业岗位。部分人员可转至海关政策或跨国协调职务。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly amplify the work efficiency of customs and border inspectors, especially in data analysis and risk screening, but will not fully replace core judgment and enforcement duties, leading to a positive career outlook.
+
+New recruits typically start as inspectors and, with experience, can advance to senior inspector, team leader, or specialized roles in risk analysis, intelligence, etc. Some may transition to customs policy or international coordination positions.
+
+**Tasks most exposed to AI:**
+
+- AI automated scanning and identification of prohibited items in X-ray images
+- AI automatically screens high-risk travelers and goods based on risk models
+- AI processes electronic declarations and checks data consistency
+- AI automatically generates standard inspection reports
+- AI monitors abnormal behavior patterns and sends alerts
+
+**Where AI augments the role:**
+
+- AI provides real-time multilingual translation assistance to improve communication efficiency with travelers
+- AI integrates multi-source data (criminal records, travel history) to generate risk scores, aiding human decision-making
+- AI automatically compares customs declarations with physical goods, reducing manual verification time
+- AI analyzes historical smuggling patterns to optimize random inspection strategies
+- AI enhances on-site inspectors' environmental perception through wearable devices (e.g., hazardous material identification)
+
+**Human moat:**
+
+- Legally authorized enforcement powers and arrest decisions
+- Human judgment in complex scenarios (e.g., intent assessment)
+- Ability to handle emergencies (e.g., conflicts among passengers) on the spot
+- Final decision involving national security and diplomatically sensitive information
+- Creative ability to search for unconventional concealment methods
+
+**Skills to build:**
+
+- Use of AI-assisted decision-making tools and result interpretation
+- Big data analysis and risk modeling fundamentals
+- Ability to collaborate within transnational crime intelligence networks.
+- Advanced communication and conflict resolution skills
+- Latest interpretations of laws and customs regulations
+- Basic programming skills (Python/SQL) for customizing automation tools
+
+**Key growth areas:**
 
 - Trade security
 - Digitalization
@@ -64,70 +100,69 @@ Inspects persons, goods, and conveyances at border points (airports, seaports, l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于非欧盟高技能人才，工资门槛约€5,000/月（30岁以上），雇主需为IND认可担保人。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高学历专业人士，工资门槛约€5,688/月（2023年），要求工作合同至少1年。 |
-| Subclass Orientation Year（Orientation Year (Search Year)） | 荷兰毕业的非欧盟学生可在1年内找工作，找到后转为工作签证。 |
-| Subclass EU Freedom of Moveme（EU Citizen Free Movement） | 欧盟/EEA/瑞士公民可自由在荷兰工作，无需签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to non-EU high-skilled talent, salary threshold approximately €5,000/month (for over 30 years old), employer must be an IND recognised sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated non-EU professionals, salary threshold approx. €5,688/month (2023), requires work contract of at least 1 year. |
+| Subclass Orientation Year (Orientation Year (Search Year)) | Non-EU students who graduated in the Netherlands can look for work for 1 year, then switch to a work visa upon finding a job. |
+| Subclass EU Freedom of Moveme (EU Citizen Free Movement) | EU/EEA/Swiss citizens can work freely in the Netherlands without a visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Customs and Border Inspector？**
-- 注重规则、细致严谨的人
-- 喜欢公共安全与执法工作
-- 能适应轮班和户外工作环境
-
-**谁不适合学Customs and Border Inspector？**
-- 抗拒重复性检查工作
-- 不擅长人际沟通与冲突处理
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who value rules, detail-oriented and meticulous
+- Enjoys public safety and law enforcement work
+- Able to adapt to shift work and outdoor work environments
+
+**Who is not suited**
+- Dislikes repetitive inspection work
+- Not good at interpersonal communication and conflict resolution
+
+---
+
+## 8. FAQ
+
+**Q: Is there room for salary growth for customs and border inspectors?**
+A: Yes. With experience and promotion, salary can rise from about €35,000 for entry-level to over €60,000 for senior roles. Income is higher for team leaders or specialist analysts.
+
+**Q: Can non-EU citizens become Dutch Customs and Border Control officers?**
+A: EU citizenship is usually required as the role involves national sovereignty and law enforcement. However, non-EU citizens may theoretically have opportunities if they can obtain a work visa and meet language requirements, but competition is fierce.
+
+**Q: What is the work environment like?**
+A: Mainly work at border checkpoints, including airports, seaports, and land borders. Shift work (including nights and weekends) required, some outdoor tasks. Mostly standing, with direct public contact.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Customs and Border Inspector为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth for Customs and Border Inspectors?**
-答：Yes. With experience and promotion, salary can increase from around €35,000 for junior to over €60,000 for senior roles, and even higher for team leaders or specialized analysts.
-
-**问：Can non-EU citizens become Customs and Border Inspectors in the Netherlands?**
-答：Generally, EU citizenship is required due to sovereignty and law enforcement nature. Non-EU citizens may theoretically qualify with a work visa and language skills, but competition is very high.
-
-**问：What is the work environment like?**
-答：Work is at border points: airports, seaports, and land borders. Shift work including nights and weekends, some outdoor duties. Mostly standing and direct public interaction.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

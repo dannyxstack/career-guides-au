@@ -1,59 +1,92 @@
-# Kennel Hand（Kennel Hand）职业分析 · 澳大利亚
+# Kennel Hand — career analysis · Australia
 
-**职业代码：361115 – Kennel Hand。**
+**Occupation code: 361115 (ANZSCO)**
 
-Responsible for caring for dogs in kennels, including feeding, cleaning, walking, basic health monitoring, and maintaining kennel hygiene. Typically works in breeding facilities, boarding centers, or working dog training organizations.
+Responsible for caring for dogs in kennels, including feeding, cleaning, walking, basic health monitoring, and maintaining kennel hygiene. This role typically works in pet breeding facilities, boarding centers, or working dog training institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期课程 | 6个月 | $2,000~$5,000（如Certificate II in Animal Studies） |
-| 职业证书 | 1年 | $5,000~$10,000（如Certificate III in Animal Care Services） |
+| Short-term courses | 6 months. | $2,000~$5,000 (Such as Certificate II in Animal Studies) |
+| Professional certificate | 1 year | $5,000~$10,000 (Such as Certificate III in Animal Care Services) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理三级证书 | TAFE或注册培训机构 | 可选 | 通常需完成，涵盖动物行为、健康与福利 |
-| 犬舍管理证书 | 专业犬业协会 | 可选 | 部分雇主优先考虑 |
-| 宠物急救证书 | 澳洲红十字会等 | 可选 | 建议持有 |
+| Certificate III in Animal Care | TAFE or registered training organizations | Optional | Usually requires completion, covering animal behavior, health, and welfare |
+| Kennel management certificate | Professional Dog Breeders Association | Optional | Some employers prioritize |
+| Pet first aid certificate | Australian Red Cross, etc. | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。澳洲宠物行业持续增长，犬舍服务需求稳定。偏远地区对大型犬舍管理员需求较高，但整体就业竞争中等。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Australia's pet industry continues to grow, with stable demand for kennel services. Remote areas have higher demand for large kennel managers, but overall employment competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 时薪约25-28澳元 |
-| 中级（3-5年） | $55,000~$65,000 | 含经验津贴 |
-| 高级（5年以上） | $65,000~$75,000 | 主管级别可达8万 |
+| Median salary | $66,352 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $48,000~$55,000 | Hourly wage around AUD 25-28 |
+| Mid-level (3–5 years) | $55,000~$65,000 | Includes experience allowance. |
+| Senior (5+ years) | $65,000~$75,000 | Manager level can reach $80,000 |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级犬舍管理员可晋升为高级管理员、犬舍主管或繁殖协调员。积累经验后可转向兽医护理或宠物行为训练领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
+
+From junior kennel attendant, can advance to senior attendant, kennel supervisor, or breeding coordinator. With experience, can move into veterinary care or pet behavior training.
+
+**Tasks most exposed to AI:**
+
+- Basic bathing and drying (fully automatic equipment)
+- Appointment scheduling and customer communication (chatbot)
+- Photography and editing (AI imaging tools)
+- Inventory and order management (automated systems)
+
+**Where AI augments the role:**
+
+- AI tools assist in designing pet styles (reference images and trend analysis)
+- Smart camera system records before-and-after comparison to enhance presentation
+- AI health monitoring devices warn about skin issues and guide care
+- Automated marketing and social media content generation to expand customer base
+
+**Human moat:**
+
+- Creativity and precision in manual pruning and shaping
+- Safe handling and calming of anxious/restless pets
+- Building Trust and Personalized Service with Pet Owners
+- On-site judgment for sudden health issues (e.g., wounds, allergies)
+
+**Skills to build:**
+
+- Advanced Trimming and Creative Styling (e.g., painting, complex carving)
+- Pet behavior science and positive reinforcement techniques
+- Basic veterinary knowledge (dermatology, first aid)
+- Using AI tools (image generation, social media automation)
+- Customer management and social media operations
+- Safety and hygiene compliance (Australian standards)
+
+**Key growth areas:**
 
 - Pet care boom
 - Regional demand
@@ -62,68 +95,67 @@ Responsible for caring for dogs in kennels, including feeding, cleaning, walking
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，适用于有相关学历或经验的海外申请人，需雇主提供担保。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保临时签证，可在指定偏远地区工作，后续可转191永居。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 特定地区协议下，部分DAMA包含动物护理职业，门槛较低。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa for overseas applicants with relevant qualifications or experience, requiring employer sponsorship. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional Employer Sponsored Provisional Visa, allows work in designated regional areas, with a pathway to 191 permanent residence. |
+| Subclass DAMA (Designated Area Migration Agreement) | Under certain regional agreements, some DAMA include animal care occupations with lower thresholds. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Kennel Hand？**
-- 热爱动物，有耐心和责任心
-- 能适应体力劳动和户外工作环境
-- 愿意在偏远地区工作的求职者
-
-**谁不适合学Kennel Hand？**
-- 对动物毛发或粪便过敏者
-- 追求高薪或快节奏白领环境的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves animals, patient and responsible
+- Able to handle physical labor and outdoor work environments
+- Job seekers willing to work in regional areas
+
+**Who is not suited**
+- Those allergic to animal hair or feces
+- Those seeking high salaries or fast-paced white-collar environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Kennel Managers?**
+A: Entry-level annual salary approx. AUD $48,000-55,000; senior supervisor can reach AUD $75,000. Salary below Australian average, but industry demand is stable.
+
+**Q: Can kennel managers migrate to Australia through skilled migration?**
+A: Can pursue employer sponsorship (482/494) or DAMA, but not independent skilled migration via 189/190, as it is not on the core occupation list.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can be promoted to kennel supervisor, breeding manager, or transition to pet grooming, veterinary nursing, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Kennel Hand的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for kennel hands?**
-答：Entry-level annual salary is about AUD 48,000-55,000, with senior supervisors reaching up to AUD 75,000. Below average but stable demand.
-
-**问：Can kennel hands migrate to Australia via skilled migration?**
-答：Eligible for employer-sponsored visas (482/494) or DAMA, but not for 189/190 due to absence from Core Skills Occupation List.
-
-**问：Are there career advancement opportunities?**
-答：Can advance to kennel supervisor, breeding manager, or transition into pet grooming, veterinary nursing, etc.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

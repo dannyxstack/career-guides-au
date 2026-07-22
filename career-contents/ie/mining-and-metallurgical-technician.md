@@ -1,60 +1,95 @@
-# Mining and Metallurgical Technician（Mining and Metallurgical Technician）职业分析 · IE
+# Mining and Metallurgical Technician — career analysis · Ireland
 
-**职业代码：3117 – Mining and Metallurgical Technician。**
+**Occupation code: 3117 (ISCO08)**
 
-Mining and metallurgical technicians assist engineers in mineral exploration, extraction, and metal refining, operating and monitoring equipment to ensure safety and efficiency.
+Mining and metallurgical technicians assist engineers in mineral exploration, extraction, and metal refining, operating and monitoring equipment to ensure production safety and efficiency.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级证书/文凭 | 2年 | $5,000~$10,000（继续教育与培训课程） |
-| 学士学位 | 3-4年 | $10,000~$25,000（爱尔兰大学学费（欧盟学生）） |
+| Advanced Certificate/Diploma | 2 years | $5,000~$10,000 (Continuing education and training courses) |
+| Bachelor's degree | 3-4 years | $10,000~$25,000 (Irish university tuition fees (EU students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学位或文凭 | 爱尔兰认可的高等教育机构 | 必备 | 如采矿工程、冶金工程或材料科学 |
-| 安全证书 | 健康与安全管理局 | 必备 | 如矿山安全培训证书 |
+| Relevant degree or diploma | Irish accredited higher education institutions | Required | Such as mining engineering, metallurgical engineering, or materials science |
+| Safety certificate | Health and Safety Authority | Required | Such as mine safety training certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。爱尔兰矿业规模较小，但冶金和材料领域因制药和科技产业需求而稳定。未来就业增长温和，主要依赖现有矿场和循环经济项目。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. Ireland's mining sector is relatively small, but metallurgy and materials are stable due to demand from pharmaceuticals and tech industries. Future employment growth is moderate, mainly relying on existing mines and recycling economy projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级技术员可积累经验后晋升为高级技术员或主管，进一步深造可成为采矿或冶金工程师，或转向环境管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Routine tasks for mining and metallurgical technicians (e.g., equipment monitoring, data recording, sample analysis) are gradually being replaced by AI and automation systems, especially in geological data analysis and process control. However, on-site supervision and physical operations remain, with fewer entry-level opportunities.
+
+Junior technicians can gain experience and advance to senior technician or supervisor roles; further study can lead to becoming a mining or metallurgical engineer, or transitioning to environmental management positions.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of mining and metallurgical equipment operating parameters; AI systems collect data directly via sensors and issue alerts without manual inspection.
+- Manual recording and organizing of geological sample data, AI can automatically generate reports and perform preliminary interpretations.
+- Operate control consoles to execute simple commands (e.g., start/stop conveyors), while AI autonomously schedules production processes based on algorithms.
+- Performing basic chemical analysis of ore grades; AI-driven high-throughput equipment can batch test automatically.
+- Track inventory and material flow, AI-integrated ERP system enables precise tracking and forecasting.
+
+**Where AI augments the role:**
+
+- Using AI geological modeling software to analyze complex ore body structures to improve exploration accuracy.
+- Simulating metallurgical processes using digital twin technology to optimise parameters such as temperature and pressure.
+- AI-assisted fault prediction systems guide preventive maintenance, reducing downtime.
+- Machine learning analyzes historical data to propose improvements to mining plans.
+- Integration of drone and autonomous vehicle data, AI-generated 3D mine maps.
+
+**Human moat:**
+
+- On-site safety management: identify unforeseen hazards and make emergency decisions, requiring human experience and intuition
+- Equipment maintenance and troubleshooting: Handling complex mechanical faults relies on hands-on skills and situational judgment.
+- Cross-team coordination and communication: communicating with engineers, operators, and regulators to resolve urgent issues.
+- Compliance and ethical responsibility: signing safety documents, assuming environmental responsibility, requires a human legal entity.
+
+**Skills to build:**
+
+- Geological data analysis and AI modeling tools (e.g. Deswik, Leapfrog)
+- Digital twin and process simulation software (e.g., Ansys, Aspen Plus)
+- Automation system fault diagnosis and maintenance (PLC, SCADA programming basics)
+- Python/R basics: used for automated report generation and data analysis.
+- Project management and communication (for cross-departmental coordination)
+- Latest standards for safety regulations and environmental compliance
+
+**Key growth areas:**
 
 - Mining
 - Metallurgy
@@ -63,65 +98,67 @@ Mining and metallurgical technicians assist engineers in mineral exploration, ex
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达到一定门槛（约40000欧元），需相关学位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary no less than €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a certain minimum annual salary (approx. €40,000) and a relevant degree. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mining and Metallurgical Technician？**
-- 对采矿和冶金有技术兴趣的人
-- 愿意在偏远地区工作的人
-- 喜欢实践操作和设备维护的人
+**Who is suited**
+- Those with a technical interest in mining and metallurgy
+- People willing to work in remote areas.
+- People who enjoy hands-on operations and equipment maintenance.
 
-**谁不适合学Mining and Metallurgical Technician？**
-- 不喜欢户外或地下工作环境的人
-- 对安全风险敏感的人
+**Who is not suited**
+- People who dislike outdoor or underground work environments
+- People sensitive to safety risks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for mining and metallurgical technicians?**
+A: Junior technician annual salary approx €28,000-35,000, mid-level €35,000-45,000, senior up to €45,000-60,000.
+
+**Q: How can non-EU citizens immigrate to Ireland to work in this occupation?**
+A: Requires employer sponsorship and meeting salary requirements, available via General Work Permit or EU Blue Card. This occupation is not on the shortage list, making immigration more difficult.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance to senior technician, supervisor, or become an engineer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Mining and Metallurgical Technician属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining and metallurgical technicians?**
-答：Entry-level technicians earn around €28,000-€35,000, mid-level €35,000-€45,000, and senior up to €45,000-€60,000 per year.
-
-**问：How can non-EU citizens immigrate to Ireland for this occupation?**
-答：Via General Employment Permit or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. The occupation is not on the shortage list, making immigration more difficult.
-
-**问：Are there career advancement opportunities?**
-答：Yes, you can advance to senior technician, supervisor, or become an engineer through further education.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

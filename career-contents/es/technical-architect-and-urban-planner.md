@@ -1,63 +1,99 @@
-# Technical Architect and Urban Planner（Technical Architect and Urban Planner）职业分析 · ES
+# Technical Architect and Urban Planner — career analysis · Spain
 
-**职业代码：2481 – Technical Architect and Urban Planner。**
+**Occupation code: 2481 (CNO)**
 
-Responsible for architectural technical design, construction supervision, and urban planning, ensuring projects comply with technical standards and regulations, coordinating with engineering teams and government approvals.
+Responsible for architectural technical design, construction supervision, and urban planning to ensure projects comply with technical standards and regulations, and coordinate engineering teams and government approvals.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费） |
-| 硕士（Máster） | 1-2年 | $1,500~$6,000（公立大学年学费） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立学校年学费） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities) |
+| Máster | 1-2 years | $1,500~$6,000 (Annual tuition at public universities) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Annual tuition fees for public schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑技术大学学位（Grado en Arquitectura Técnica） | 西班牙大学 | 必备 | 必修 |
-| 建筑工程师协会注册（COAAT） | 建筑师技术协会 | 必备 | 执业必需要求 |
-| 硕士学位（Máster en Urbanismo） | 西班牙大学 | 可选 | 城市规划方向可选 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证 |
+| Degree from the University of Architectural Technology (Grado en Arquitectura Técnica) | Spanish University | Required | Must be maintained |
+| Registered with the Institute of Building Engineers (COAAT) | Architects Technical Association | Required | Practice requirements |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign qualifications need accreditation |
+| Master's Degree (Máster en Urbanismo) | Spanish University | Optional | Urban planning directions are optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙住宅与商业建筑需求持续，绿色建筑和城市更新项目增加，就业稳定，但受经济波动影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Demand for residential and commercial buildings in Spain remains strong, with increases in green buildings and urban renewal projects, stable employment, but still affected by economic fluctuations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，中小企业 |
-| 中级（4-7年） | $32,000~$45,000 | 税前年薪，中型企业 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，大型公司或管理岗 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, small and medium-sized enterprises |
+| Mid-level (4-7 years) | $32,000~$45,000 | Annual pre-tax salary, medium-sized enterprise |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, large companies or management positions |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术建筑师晋升为项目总监或城市规划主管，也可通过攻读硕士转向大型项目或城市规划管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape the work of technical architects and urban planners. Some tasks such as drafting and compliance checks are automated, but the overall role is amplified, requiring mastery of AI tools to enhance design optimization and data analysis capabilities.
+
+You can advance from technical architect to project director or urban planning supervisor, or pursue a master's degree to transition to large-scale project or urban planning management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary architectural design plans that comply with standards
+- Quickly simulate building performance using AI (such as energy consumption and lighting)
+- Automated compliance checks to verify consistency between design drawings and regulations
+- Automatically generate urban planning reports based on historical data
+- Using machine learning to analyze satellite images and identify urban growth patterns
+
+**Where AI augments the role:**
+
+- AI-assisted generation of multiple design alternatives to help architects optimize decision-making
+- By analyzing big data such as traffic and population with AI, the quality of urban functional planning is improved
+- Generative design algorithms are used to explore non-traditional architectural forms
+- AI automates document work, allowing architects to focus on creative ideas and communicating with stakeholders
+- AR/VR combined with AI to display real-time completed results enhances customer collaboration efficiency
+
+**Human moat:**
+
+- Design decision-making ability to understand complex social, cultural, and environmental contexts
+- Coordination and negotiation with multiple stakeholders (government, community, developers).
+- Judgment to respond to unknown risks and urgent on-site issues
+- Creative solution design based on long-term sustainable development
+- Final assumption of legal and ethical responsibility (signing drawings, assuming responsibility)
+
+**Skills to build:**
+
+- Master generative architectural design software (such as DALL· E for architects、Autodesk Forma）
+- Learn urban planning simulation modeling and data visualization tools (such as CityEngine, GIS + machine learning)
+- Understand the interpretability of AI decisions and their application in compliance
+- Develop interdisciplinary collaboration skills, especially communication with data scientists
+- Familiar with the application of VR/AR technology in public participation presentations
+- Learn project management and agile methodologies to adapt to the pace of work accelerated by AI
+
+**Key growth areas:**
 
 - Green building
 - Urban renewal
@@ -66,69 +102,68 @@ Responsible for architectural technical design, construction supervision, and ur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed professionals） | 受雇工作居留，需西班牙公司担保，提供劳动合同 |
-| Subclass Altamente cualificad（Highly Qualified Professional Visa） | 高技能专业人才签证，适用于高薪或紧缺职业，需学历和合同 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，需高薪及学历，欧盟内流动便利 |
+| Subclass Cuenta ajena (Work permit for employed professionals) | For employment and residence, a Spanish company must provide a guarantee and a labor contract |
+| Subclass Altamente cualificad (Highly Qualified Professional Visa) | Highly skilled professional visa for high-salary or in-demand occupations; requires qualifications and a contract. |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card requires high salary and education, making it easy to move within the EU |
 
-**PR难度：中等偏难（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Architect and Urban Planner？**
-- 具有建筑技术背景，注重细节和规范的人
-- 希望在建筑与规划领域长期发展的人
-- 善于沟通协调，能处理多方需求的人
-
-**谁不适合学Technical Architect and Urban Planner？**
-- 厌恶重复性文书和审批流程的人
-- 追求高薪但短期回报不佳的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a background in architectural technology, attention to detail and standards
+- Those who wish to develop long-term careers in architecture and planning
+- Skilled in communication and coordination, able to handle the needs of multiple parties
+
+**Who is not suited**
+- People who dislike repetitive paperwork and approval processes
+- People who pursue high salaries but have poor short-term returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a technical architect in Spain?**
+A: Entry-level approx. €25,000-€32,000, mid-level approx. €32,000-€45,000, senior up to €60,000, salary varies by region and experience.
+
+**Q: How can foreigners become Spanish technical architects?**
+A: You must obtain a degree recognized by Spain and complete academic certification (Homologación), register with the COAAT association, and then immigrate through work residence or EU Blue Card immigration.
+
+**Q: What are the career development paths for technical architects?**
+A: You can be promoted from technician to project manager, urban planner, or open your own studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏难（★★★☆☆） |
-
-Technical Architect and Urban Planner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a technical architect in Spain?**
-答：Entry-level around €25,000-32,000, mid-level €32,000-45,000, senior up to €60,000, varies by region and experience.
-
-**问：How can a foreigner become a technical architect in Spain?**
-答：Obtain a recognized degree, complete homologación, register with COAAT, then migrate via work permit or EU Blue Card.
-
-**问：What are the career progression paths for a technical architect?**
-答：From technician to project manager, urban planner, or start own firm.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Geography Teachers, Postsecondary（Geography Teachers, Postsecondary）职业分析 · 美国
+# Geography Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1064 – Geography Teachers, Postsecondary。**
+**Occupation code: 25-1064 (SOC)**
 
-Teach geography courses at postsecondary institutions, often combining teaching with research.
+Teach geography courses at higher education institutions, typically combining teaching and research
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5年 | $100,000~$200,000（博士学费及生活费） |
-| 硕士 | 2年 | $50,000~$100,000（硕士学费及生活费） |
+| Doctorate | 5 years | $100,000~$200,000 (Doctoral tuition and living expenses) |
+| Master's degree | 2 years | $50,000~$100,000 (Master's tuition and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 通常要求地理或相关领域博士 |
-| 教学经验 | 大学 | 可选 | 博士期间助教或教学经历 |
+| Doctoral degree (PhD) | University | Required | Usually requires a doctorate in geography or a related field |
+| Teaching experience | University | Optional | Teaching assistant or teaching experience during PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 10,300。美国地理教师岗位需求稳定，受高等教育入学人数影响，岗位增长缓慢但持续。
+**Job demand: medium (★★★☆☆).** National workforce approx. 10,300. Demand for geography teachers in the US is stable, influenced by higher education enrollment numbers; job growth is slow but steady.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $56,000~$72,000 | 助理教授起薪 |
-| 中级（4-9年） | $72,000~$95,000 | 副教授薪资 |
-| 高级（10年以上） | $95,000~$130,000 | 教授薪资 |
+| Median salary | $97,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $56,000~$72,000 | Assistant professor starting salary |
+| Intermediate (4-9 years) | $72,000~$95,000 | Associate professor salary |
+| Senior (10+ years) | $95,000~$130,000 | Professor salary |
+| average salary | $102,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理教授晋升为副教授、教授，或转向研究机构、政府部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually advance from assistant professor to associate professor, professor, or move to research institutions or government departments.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - stable
 - postsecondary education
@@ -61,64 +97,63 @@ Teach geography courses at postsecondary institutions, often combining teaching 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学教师适用，需雇主担保，竞争激烈。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有高级学位的教师，需PERM。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过劳工证申请绿卡，大学职位通常可行。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to university teachers, requires employer sponsorship, highly competitive. |
+| Subclass EB-2 (Employment-Based Second Preference) | For teachers with advanced degrees, requires PERM. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Green card through labor certification; university positions are usually feasible. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geography Teachers, Postsecondary？**
-- 热爱地理学与教学研究的人
-- 具备良好沟通与学术写作能力的人
-
-**谁不适合学Geography Teachers, Postsecondary？**
-- 偏好动手实践而非学术研究的人
-- 不喜欢长时间独立研究的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for geography and teaching research
+- People with good communication and academic writing skills
+
+**Who is not suited**
+- People who prefer hands-on practice over academic research
+- People who dislike long periods of independent research
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geography teachers?**
+A: According to BLS data, in 2023 the average annual salary for US geography teachers (postsecondary) was about $86,000, entry-level about $56,000, senior professors up to $130,000.
+
+**Q: How can international students become geography teachers at US universities?**
+A: Usually need to complete a US PhD, apply for H-1B work visa through OPT internship, then apply for green card via EB-2 or PERM.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Geography Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geography teachers?**
-答：According to BLS, the average annual salary for postsecondary geography teachers in 2023 was about $86,000, with entry-level around $56,000 and senior professors up to $130,000.
-
-**问：How can international students become geography teachers at US universities?**
-答：Typically need a US PhD, then OPT, H-1B visa, and eventually EB-2 or PERM green card.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

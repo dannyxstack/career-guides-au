@@ -1,61 +1,93 @@
-# Manager - Higher Education Teaching and Research（Manager - Higher Education Teaching and Research）职业分析 · DE
+# Manager - Higher Education Teaching and Research — career analysis · Germany
 
-**职业代码：8439 – Manager - Higher Education Teaching and Research。**
+**Occupation code: 8439 (KldB)**
 
-Responsible for managing teaching, research, and administration at universities or research institutions, including department heads and institute directors.
+Responsible for teaching, research, and administrative management in universities or research institutions, including senior roles such as department heads and institute directors.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 博士（Promotion） | 3-5年 | —（通常无学费，仅学期费约300-400欧元/年） |
-| 教授资格（Habilitation） | 4-6年 | —（无直接费用，但需研究成果和教学经验） |
+| PhD (Promotion) | 3-5 years | $0~$30,000 (Usually no tuition fees, only semester fees of about 300–400 euros per year) |
+| Professorial qualification (Habilitation) | 4-6 years | $0~$0 (No direct fees, but requires research outcomes and teaching experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 德国大学 | 必备 | 必需 |
-| 教授资格（Habilitation） | 德国大学 | 必备 | 通常需完成教授资格论文 |
-| 管理培训 | 大学或第三方机构 | 可选 | 非强制但有助于晋升 |
+| Doctoral degree (PhD) | German university | Required | Required |
+| Professorial qualification (Habilitation) | German university | Required | Usually requires completion of habilitation thesis |
+| Management training | University or third-party institution | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 25,000。德国高等教育领域稳定增长，数字化和国际化带来新需求，但管理岗位竞争激烈，通常需要教授资格。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Stable growth in German higher education sector, digitalization and internationalization bring new demands, but management positions are highly competitive, typically requiring professorship qualifications.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（教授，W2等级） | $60,000~$75,000 | W2教授基本工资，不含绩效 |
-| 中级（资深教授，W3等级） | $75,000~$95,000 | W3教授基本工资，不含绩效 |
-| 高级（系主任/院长，W3+职务津贴） | $95,000~$130,000 | 含管理职务津贴 |
+| Median salary | $73,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Junior (Professor, W2 level) | $60,000~$75,000 | W2 professor base salary, excluding performance pay |
+| Mid-level (senior professor, W3 grade) | $75,000~$95,000 | W3 professor base salary, excluding performance bonuses |
+| Senior (Department Head/Dean, W3+ position allowance) | $95,000~$130,000 | Including Management Duty Allowance |
+| average salary | $79,440 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径：从教授或科研组长晋升为系主任、院长、副校长。需持续学术产出和管理能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance efficiency in data analysis and process management, but strategic decision-making, interpersonal coordination, and academic leadership remain core; overall, positions will see an 'enhancement but partial substitution' trend.
+
+Career path: from professor or research group leader to department head, dean, or vice-chancellor; requires sustained academic output and management skills.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling system for teaching schedules and course arrangements
+- Automation of research project data collation, report generation, and compliance checks
+- Standard clerical tasks (e.g., meeting minutes, notice distribution) handled by AI agents
+- Routine analysis of academic resource procurement and budgets shifts from manual to algorithmic.
+
+**Where AI augments the role:**
+
+- AI analyzes student performance and feedback data to support decision-making for teaching quality improvement
+- Intelligent research direction guidance based on bibliometrics and funding trends
+- AI-driven personalized career development advice and mentor matching system
+- Cross-departmental data integration and visual dashboard to enhance strategic planning
+
+**Human moat:**
+
+- Ultimate decision-making responsibility for academic ethics, personnel appointments, and resource allocation
+- Soft skills to build trust and consensus among professors, students, funders, and other stakeholders
+- Ability to handle sudden crises (e.g., academic misconduct investigations, major appeals)
+- Comprehensive judgment for long-term strategic planning (e.g., 5-year department roadmap)
+
+**Skills to build:**
+
+- Data literacy and basic programming (Python/R) for analyzing teaching and research indicators
+- AI tool applications (e.g., ChatGPT for report writing, Tableau for visualization)
+- Change management (leading teams to adapt to AI workflows)
+- Strategic thinking and system modeling (using simulations to predict policy effects)
+- Advanced communication and conflict mediation (for complex interpersonal scenarios AI struggles with)
+
+**Key growth areas:**
 
 - Digitalization
 - Internationalization
@@ -64,69 +96,68 @@ Responsible for managing teaching, research, and administration at universities 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历人士，年薪门槛约56,400欧元（2024年），可申请 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有认可大学学历的工作者，需雇主担保 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国6个月寻找工作，需学历认证 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated individuals; annual salary threshold approximately €56,400 (2024); can apply |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable for workers with recognized university degrees, requires employer sponsorship |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to find a job, requires degree recognition. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manager - Higher Education Teaching and Research？**
-- 拥有博士学位的科研人员
-- 热衷学术管理与领导力挑战者
-- 希望在德国高等教育系统长期发展者
-
-**谁不适合学Manager - Higher Education Teaching and Research？**
-- 不愿承担行政与教学双重压力者
-- 缺乏教授资格或管理经验者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research scientists with a PhD
+- Those passionate about academic management and leadership challenges
+- For those seeking long-term development in the German higher education system
+
+**Who is not suited**
+- For those unwilling to bear the dual pressures of administration and teaching
+- Lack teaching qualifications or management experience
+
+---
+
+## 8. FAQ
+
+**Q: Can non-EU PhD holders apply directly for such positions?**
+A: Yes, but requires qualification assessment and teaching certification, usually need to become a professor first before moving into management.
+
+**Q: Are management position salaries higher than those of pure teaching roles?**
+A: Usually includes position allowance, but base salary still determined by professor grade (W2/W3).
+
+**Q: Are there managers without an academic background?**
+A: Very rare; such positions typically require academic background and professorial qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Manager - Higher Education Teaching and Research为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can non-EU PhD holders apply for such positions directly?**
-答：Yes, but they need degree recognition and habilitation, usually becoming a professor first.
-
-**问：Is the salary for management positions higher than for professors?**
-答：Yes, there is usually an allowance, but base salary follows professor grades (W2/W3).
-
-**问：Are there managers without academic background?**
-答：Rarely; these positions typically require an academic background and habilitation.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

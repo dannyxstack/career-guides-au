@@ -1,60 +1,96 @@
-# Amusement and Recreation Attendants（Amusement and Recreation Attendants）职业分析 · FR
+# Amusement and Recreation Attendants — career analysis · France
 
-**职业代码：G1205 – Amusement and Recreation Attendants。**
+**Occupation code: G1205 (ROME)**
 
-Operate amusement rides, guide visitors, ensure safety, and maintain order in theme parks, amusement parks, and water parks.
+In theme parks, amusement parks, water parks, and similar venues, they are responsible for operating amusement facilities, guiding visitors, ensuring safety, and maintaining order.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需特定学历，通常接受在职培训 | 2周至1个月 | —（企业提供培训，部分需自费安全证书） |
-| CAP杂务服务或类似专业 | 2年（CAP） | —（公立学校免费，私立约2000欧元/年） |
+| No specific academic qualifications are required; on-the-job training is usually required | From 2 weeks to 1 month | $0~$500 (Companies provide training, some requiring safety certificates at their own expense) |
+| CAP miscellaneous services or similar specialties | 2 years (CAP) | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作安全认证（如法国游乐设备安全培训） | 企业或专业培训机构 | 必备 | 多数企业要求内部培训合格后上岗 |
-| 急救证书（PSC1） | 法国红十字会或认可机构 | 可选 | 推荐持有，非强制但增加竞争力 |
+| Operational safety certification (such as French amusement equipment safety training) | Enterprises or professional training institutions | Required | Most companies require passing internal training before starting work |
+| First Aid Certificate (PSC1) | The French Red Cross or an accredited institution | Optional | Recommended to hold; not mandatory but to increase competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。法国旅游业持续发展，主题公园游客量稳定增长，预计2024-2030年该岗位需求平稳，季节性强，全职岗位有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's tourism industry continues to develop, with theme park visitor numbers steadily increasing. It is expected that from 2024 to 2030, demand for this position will remain stable, with strong seasonality and limited full-time positions.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 税前年薪，通常按SMIC（法国最低工资）水平 |
-| 中级（3-7年） | $22,000~$26,000 | 含经验及固定奖金 |
-| 高级（团队主管/经理） | $26,000~$32,000 | 含管理职责及绩效奖金 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$22,000 | Pre-tax annual salary, usually at the SMIC (French Minimum Wage) level |
+| Mid-level (3–7 years) | $22,000~$26,000 | Includes experience and a fixed bonus |
+| Senior (Team Leader/Manager) | $26,000~$32,000 | Including management responsibilities and performance bonuses |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级操作员晋升为团队主管、安全协调员或设施经理；也可转向旅游接待或活动策划领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Entertainment and recreation service jobs will significantly decrease due to automation like self-service ticketing, virtual queuing, and AI customer service; entry-level tasks are compressed, but operation and maintenance tasks still rely on labor.
+
+Promotion from junior operator to team leader, safety coordinator, or facility manager; It can also be expanded into tourism reception or event planning.
+
+**Tasks most exposed to AI:**
+
+- Ticket sales and ticket checking: automated ticket vending machines and mobile scanning replace manual ticketing
+- Tourist guidance: AI guides and virtual queuing systems reduce need for on-site guidance
+- Phone inquiry: AI chatbot handles common questions
+- Amusement ride operation: automated operating systems reduce operator intervention
+- Simple cleaning and maintenance: automatic cleaning robots handle some floor cleaning
+
+**Where AI augments the role:**
+
+- Equipment maintenance: AI predicts failures, assists in planned maintenance
+- Crowd management: AI analyzes data to optimize staff scheduling and facility operations
+- Security monitoring: AI identifies abnormal behavior, improving emergency response efficiency
+- Personalized services: intelligently recommend experience items based on tourist data
+- Inventory management: AI predicts material demand, automated replenishment
+
+**Human moat:**
+
+- Complex interpersonal interaction and emotional support (e.g., calming upset tourists)
+- Flexible adaptation and on-site decision-making in unstructured environments
+- Human judgment and repair of emergency faults in amusement rides.
+- Understanding and assisting special needs of disabled tourists
+- Entertainment interaction requiring role-play or performance
+
+**Skills to build:**
+
+- Learn operation and basic maintenance skills for common amusement rides
+- Master basic customer service skills and conflict mediation
+- Familiar with self-service ticketing systems, mobile apps, and basic device troubleshooting
+- Understanding basic data analysis, able to interpret customer flow reports simply
+- Improve multilingual communication skills to accommodate international tourists
+- Take elective first aid and safety certifications to enhance career thickness
+
+**Key growth areas:**
 
 - Seasonal employment
 - Tourism growth
@@ -63,65 +99,67 @@ Operate amusement rides, guide visitors, ensure safety, and maintain order in th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (sponsored work permit)） | 需雇主担保，证明无法在欧盟内招到合适人选，通常不适用于低技能岗位。 |
-| Subclass Recherche emploi（Job search (post-study)） | 留学生在法国毕业后可申请一年求职签证，若找到工作可转为工作居留。 |
+| Subclass Salarié (Employee (sponsored work permit)) | Requires employer sponsorship, proof that suitable candidates cannot be recruited within the EU, generally not applicable to low-skilled positions. |
+| Subclass Recherche emploi (Job search (post-study)) | After graduating in France, international students can apply for a one-year job-seeking visa, and if they find a job, they can convert to working residence. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Amusement and Recreation Attendants？**
-- 喜欢户外工作、与人互动、有服务意识的人
-- 适应季节性或兼职工作模式
-- 具备耐心和责任心，注重安全细节
+**Who is suited**
+- People who enjoy working outdoors, interact with others, and have a service mindset
+- Adapt to seasonal or part-time work patterns
+- Be patient and responsible, and pay attention to safety details
 
-**谁不适合学Amusement and Recreation Attendants？**
-- 追求高薪或稳定全职岗位的人
-- 无法适应周末及节假日轮班制度
+**Who is not suited**
+- People seeking high salaries or stable full-time positions
+- Unable to adapt to weekend and holiday shift systems
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for amusement ride operators?**
+A: Typically, salaries start at SMIC (French minimum wage), with pre-tax annual salaries of about 19,000-22,000 euros, and those with experience or management roles can earn 26,000-32,000 euros.
+
+**Q: Can third-country citizens obtain a work visa to engage in this occupation?**
+A: These positions are low-skilled, non-urgently needed, and employers find it difficult to pass the labor market test, so the chances of obtaining a work visa (such as Salarié residence) are low.
+
+**Q: What are the career progression paths for this occupation?**
+A: You can be promoted from operator to team leader, safety coordinator, or facility manager, or move into tourism reception, event planning, and related fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Amusement and Recreation Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for amusement ride operators?**
-答：Starting salary is typically at SMIC (French minimum wage), around €19,000-€22,000 gross annually; experienced or supervisory roles can reach €26,000-€32,000.
-
-**问：Can third-country nationals obtain a work visa for this occupation?**
-答：This is a low-skilled, non-shortage occupation; employers face difficulty passing the labor market test, so obtaining a work visa (e.g., Salarié permit) is unlikely.
-
-**问：What are the career progression paths?**
-答：Promotion to team supervisor, safety coordinator, or facilities manager; also possible to transition into tourism reception or event planning.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Large Animal Veterinarian（Large Animal Veterinarian）职业分析 · DE
+# Large Animal Veterinarian — career analysis · Germany
 
-**职业代码：8151 – Large Animal Veterinarian。**
+**Occupation code: 8151 (KldB)**
 
-Large animal veterinarians diagnose, treat, and prevent diseases in livestock like cattle, horses, and pigs, ensuring animal health and public food safety.
+Large animal veterinarians specialize in diagnosing, treating, and preventing diseases in large livestock (e.g., cattle, horses, pigs), as well as public health supervision to ensure the health of the livestock industry.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 兽医学大学（Staatsexamen） | 5.5年 | —（公立大学学费低，但需生活费；私立大学费用高） |
+| Veterinary Medicine University (Staatsexamen) | 5.5 years | $0~$60,000 (Public universities have low tuition but require living expenses; private universities have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医学国家考试（Staatsexamen） | 德国各州兽医协会（Landestierärztekammer） | 必备 | 通过国家考试后可申请从业许可（Approbation），必须完成 |
-| 官方兽医资质（Amtstierarzt） | 联邦食品与农业部 | 可选 | 部分岗位需额外培训，用于公共兽医服务 |
-| 资质认证（Anerkennung） | 各州兽医协会 | 必备 | 第三国学历需通过资质认证，证明等同德国学历 |
+| National veterinary examination (Staatsexamen) | German State Veterinary Chambers (Landestierärztekammer) | Required | Must pass a national exam to apply for a practising license (Approbation); must be completed |
+| Qualification recognition (Anerkennung) | State veterinary associations | Required | Qualifications from third countries need to be accredited to prove equivalence to German qualifications. |
+| Official veterinary qualification (Amtstierarzt) | Federal Ministry of Food and Agriculture | Optional | Some positions require additional training for public veterinary service |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,800。德国畜牧业集中，兽医缺口持续存在，尤其在农村地区。联邦劳工局列为紧缺职业，就业稳定，薪资有保障。
+**Job demand: high (★★★★☆).** National workforce approx. 6,800. Livestock farming is concentrated in Germany; a veterinarian shortage persists, especially in rural areas. The Federal Labour Agency lists it as a shortage occupation, with stable employment and guaranteed salary.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 公立诊所或助理职位 |
-| 中级（4-7年） | $55,000~$70,000 | 有经验后薪资增长 |
-| 高级（8年以上） | $70,000~$90,000 | 专科兽医或管理层 |
+| Median salary | $64,224 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Public clinic or assistant positions |
+| Mid-level (4-7 years) | $55,000~$70,000 | Salary growth after gaining experience |
+| Senior (8+ years) | $70,000~$90,000 | Specialist veterinarian or management |
+| average salary | $71,628 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从诊所兽医起步，可晋升为专科兽医（如内科、外科），或进入政府部门（如官方兽医）、研究机构，也可开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
+
+Starting as a clinic veterinarian, can advance to specialist veterinarian (e.g., internal medicine, surgery), or enter government roles (e.g., official veterinarian), research institutions, or open a private practice.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and report generation of routine imaging (X-ray, ultrasound)
+- Data analysis for basic laboratory tests (blood, urine analysis)
+- Standardized administrative tasks like vaccination reminders and client follow-ups
+- Routine symptom recognition and classification in pet health monitoring.
+
+**Where AI augments the role:**
+
+- Using AI image analysis to improve diagnostic accuracy in complex cases
+- Remote monitoring and wearable devices enable continuous chronic disease management
+- Personalized treatment plans based on big data analysis (e.g., dose optimization)
+- AI-assisted surgical navigation and robotic operations improve surgical precision
+
+**Human moat:**
+
+- On-the-spot judgment and hand-eye coordination in complex surgeries
+- Cross-species clinical reasoning and comprehensive diagnosis of rare cases
+- Client communication requiring empathy, end-of-life care, and psychological support.
+- Practitioner responsibility: bear ultimate decision-making and legal consequences for treatment plans
+- Ergonomic adjustment and real-time titration of drugs and anesthetics.
+
+**Skills to build:**
+
+- Use and result verification of AI imaging diagnostic tools
+- Telehealth platform operation and data analysis
+- Basic data science (Python/R) integrated with clinical data
+- Animal welfare and ethical decision-making skills
+- Advanced cross-species pathophysiology knowledge
+- Customer relationship management (CRM) and digital communication skills
+
+**Key growth areas:**
 
 - Livestock Health
 - Food Safety
@@ -63,69 +97,68 @@ Large animal veterinarians diagnose, treat, and prevent diseases in livestock li
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪不低于43,800欧元（2024年）的合格专业人员，兽医通常满足条件。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于认证职业，需获得德国认可资质及工作合同。 |
-| Subclass Anerkennung（Recognition Visa） | 用于在德进行资质认证过程，可先行进入德国。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to qualified professionals with an annual salary of at least €43,800 (2024); veterinarians typically meet the conditions. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applies to certified occupations; requires German-recognized qualifications and an employment contract. |
+| Subclass Anerkennung (Recognition Visa) | Used to enter Germany in advance for the qualification recognition process. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Large Animal Veterinarian？**
-- 热爱动物且对大型家畜有耐心的人
-- 愿意在乡村地区工作的人
-- 具备较强动手能力和抗压能力的人
-
-**谁不适合学Large Animal Veterinarian？**
-- 厌恶出差或不适应户外工作环境的人
-- 对深夜急诊或节假日工作抵触的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals and have patience with large livestock
+- People willing to work in regional areas
+- People with strong hands-on skills and ability to work under pressure
+
+**Who is not suited**
+- People who dislike business trips or are not suited to outdoor work environments
+- Those who dislike late-night emergency shifts or holiday work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a large animal veterinarian in Germany?**
+A: Entry-level around €45,000-55,000, mid-level €55,000-70,000, senior up to €90,000+.
+
+**Q: How can foreign veterinarians immigrate to Germany?**
+A: Must obtain a work permit through qualification recognition (Anerkennung); afterwards, can apply for a work visa via the EU Blue Card or Skilled Immigration Act.
+
+**Q: What are the career development paths for a large animal veterinarian?**
+A: Can become a specialist veterinarian (e.g., large animal surgery), enter the official veterinary system, or start own practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Large Animal Veterinarian为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for large animal veterinarians in Germany?**
-答：Entry-level €45,000-55,000, mid-level €55,000-70,000, senior up to €90,000+.
-
-**问：How can foreign veterinarians immigrate to Germany?**
-答：You need recognition of your degree (Anerkennung) to obtain a license, then apply for an EU Blue Card or Skilled Worker visa.
-
-**问：What are the career paths for large animal veterinarians?**
-答：You can specialize (e.g., large animal surgery), work as an official veterinarian, or open your own practice.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Agricultural Engineers（Agricultural Engineers）职业分析 · 美国
+# Agricultural Engineers — career analysis · United States
 
-**职业代码：17-2021 – Agricultural Engineers。**
+**Occupation code: 17-2021 (SOC)**
 
-Agricultural engineers apply engineering technology and biological science to solve agricultural problems related to power, machinery, electrification, structures, soil and water conservation, and processing of agricultural products.
+Agricultural engineers apply engineering technology and biological knowledge to solve problems in agriculture related to power machinery, electrification, buildings, soil and water conservation, and agricultural product processing, designing and optimizing agricultural systems and equipment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位（农业工程或相关工程专业） | 4年 | $40,000~$150,000（公立大学年均学费约1-2万美元，私立大学约3-5万美元） |
-| 硕士学位（可选，提升竞争力） | 2年 | $30,000~$100,000（硕士课程费用因校而异） |
+| Bachelor's degree (Agricultural Engineering or related engineering field) | 4 years | $40,000~$150,000 (Average annual tuition at public universities is about USD 10,000-20,000, and at private universities about USD 30,000-50,000) |
+| Master's degree (optional, enhances competitiveness) | 2 years | $30,000~$100,000 (Master's program fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程基础考试（FE） | 全国工程与测量考试委员会（NCEES） | 必备 | 成为实习工程师（EIT）所需，通常毕业前后可考 |
-| 专业工程执照（PE） | 州工程许可委员会 | 可选 | 需4年相关工作经验并通过PE考试，从事公共项目或咨询通常强制 |
-| 学士学位（ABET认证的农业工程专业） | 美国大学 | 必备 | 大多数雇主要求ABET认证的工程学位 |
+| Fundamentals of Engineering (FE) exam | National Council of Examiners for Engineering and Surveying (NCEES) | Required | Required to become an Engineer in Training (EIT), typically can be taken around graduation. |
+| Bachelor's degree (ABET-accredited agricultural engineering program) | U.S. universities | Required | Most employers require an ABET-accredited engineering degree |
+| Professional Engineering License (PE) | State engineering licensing boards | Optional | Requires 4 years of relevant work experience and passing the PE exam; mandatory for public projects or consulting roles usually |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 2,200。根据美国劳工统计局（BLS）预测，2022-2032年农业工程师就业增长率约6%，与所有职业平均增速相当。随着可持续农业和自动化技术需求增加，就业机会稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,200. According to the US Bureau of Labor Statistics (BLS), employment of agricultural engineers is projected to grow about 6% from 2022 to 2032, about as fast as the average for all occupations. With increasing demand for sustainable agriculture and automation technology, job opportunities are stable.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | EIT或新手工程师薪资范围 |
-| 中级（4-7年） | $75,000~$100,000 | 获得PE执照后薪资显著提升 |
-| 高级（8年以上） | $100,000~$140,000 | 资深工程师、项目经理或管理层薪资 |
+| Median salary | $98,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | EIT or entry-level engineer salary range |
+| Mid-level (4-7 years) | $75,000~$100,000 | Obtaining a PE license significantly increases salary |
+| Senior (8+ years) | $100,000~$140,000 | Senior engineer, project manager, or management-level salary |
+| average salary | $108,230 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级农业工程师通常从设计或现场支持岗位起步，积累经验后可晋升为项目经理或高级工程师。部分人转向研发、咨询或创业，也可进入政府机构或高校从事研究与教学。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
+
+Junior agricultural engineers typically start in design or field support roles, and with experience can advance to project manager or senior engineer. Some move into R&D, consulting, or entrepreneurship, or enter government agencies or universities for research and teaching.
+
+**Tasks most exposed to AI:**
+
+- Manual drafting of mine design and construction drawings
+- Resource reserve estimation based on experience
+- Manually write routine mining plans and progress reports
+- Manual monitoring of equipment status and energy consumption
+- On-site Inspections for Hazard Identification
+
+**Where AI augments the role:**
+
+- Use AI for 3D modeling of ore deposits and resource assessment
+- Optimizing autonomous truck routes and blasting plans using AI
+- Using machine learning to predict rock mass stability and support requirements
+- Integrating digital twin technology for real-time monitoring and adjustment of mining operations
+- Quickly parse geological reports and compliance documents using natural language processing
+
+**Human moat:**
+
+- Decision-making under complex geological conditions
+- Communication and coordination with government/community/Indigenous peoples
+- Safety regulation enforcement and emergency incident command
+- Multidisciplinary team collaboration integrating AI recommendations
+- Comprehensive assessment of ethics and environmental impact
+
+**Skills to build:**
+
+- Geostatistics and machine learning applied to resource modeling
+- Operation and configuration of automated scheduling systems (e.g., Minestar)
+- Python/R data analysis and digital twin platform usage
+- Mine simulation software (e.g., Vulcan, Surpac) with AI plugins
+- Project Management and Cross-Departmental AI Solution Integration
+- Data visualization and report automation tools
+
+**Key growth areas:**
 
 - Precision Agriculture
 - Sustainable Farming
@@ -62,68 +98,67 @@ Agricultural engineers apply engineering technology and biological science to so
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于农业工程师等专业职业，需雇主担保，配额有限且抽签竞争激烈 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 适用于拥有硕士或以上学位或特殊才能的农业工程师，需PERM劳工认证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 适用于学士学位或同等技能的农业工程师，需PERM劳工认证，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to professional occupations such as agricultural engineers, requires employer sponsorship, limited quotas with competitive lottery |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Applicable to agricultural engineers with a master's degree or higher or exceptional ability, requiring PERM labor certification |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | Applicable to agricultural engineers with a bachelor's degree or equivalent skills; requires PERM labor certification, long queue |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Engineers？**
-- 对农业和工程交叉领域有浓厚兴趣的人
-- 喜欢户外和现场工作，也擅长数据分析与设计
-- 希望从事可持续发展、环境保护相关职业的人
-
-**谁不适合学Agricultural Engineers？**
-- 不喜欢在乡村或偏远地区工作的人
-- 期望快速晋升或极高薪资的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in the intersection of agriculture and engineering
+- Enjoys outdoor and fieldwork, also skilled in data analysis and design
+- Those wishing to pursue careers in sustainable development and environmental protection
+
+**Who is not suited**
+- Those who dislike working in rural or remote areas
+- Those expecting rapid promotion or extremely high salaries.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural engineers?**
+A: According to BLS 2022 data, the median annual salary for agricultural engineers is approximately $82,000, entry-level around $55,000-$75,000, and senior engineers can reach $100,000-$140,000. Salary is affected by experience, location, and industry.
+
+**Q: What are the common pathways for agricultural engineers to immigrate to the US?**
+A: Common pathways include the H-1B work visa (requires employer sponsorship and lottery) and employment-based green cards EB-2 or EB-3 (requires PERM labor certification, with long waiting periods). Agricultural engineers fall under STEM fields, and can gain experience during OPT.
+
+**Q: What licenses or certifications are required for agricultural engineers?**
+A: Not mandatory, but obtaining a Professional Engineering (PE) license greatly enhances career development. First, pass the Fundamentals of Engineering (FE) exam to become an Engineer in Training (EIT); after 4 years of experience, take the PE exam. Some government positions or consulting firms require a PE.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Agricultural Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural engineers?**
-答：According to BLS 2022 data, the median annual wage for agricultural engineers is about $82,000, entry-level ranges from $55,000 to $75,000, and senior engineers can earn $100,000 to $140,000. Salary varies by experience, location, and industry.
-
-**问：What are common immigration paths for agricultural engineers to the US?**
-答：Common paths include H-1B visa (employer-sponsored, lottery-based) and employment-based green cards EB-2 or EB-3 (with PERM labor certification, longer waiting periods). Being a STEM field, OPT provides initial work experience.
-
-**问：What licenses or certifications are needed for agricultural engineers?**
-答：Not mandatory, but obtaining a Professional Engineer (PE) license greatly enhances career prospects. First pass the Fundamentals of Engineering (FE) exam to become an Engineer-in-Training (EIT), then after 4 years of experience take the PE exam. Some government or consulting positions require PE.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

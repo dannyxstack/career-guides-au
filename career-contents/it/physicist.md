@@ -1,62 +1,97 @@
-# Physicist（Physicist）职业分析 · IT
+# Physicist — career analysis · Italy
 
-**职业代码：2111 – Physicist。**
+**Occupation code: 2111 (ISCO08)**
 
 Physicists in Italy work in research, teaching, or industrial applications, focusing on fundamental physics, astrophysics, or applied physics.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$3,000（公立大学学费因地区和家庭收入而异） |
-| 硕士 | 2年（硕士） | $1,500~$4,000（与本科类似，部分专业有额外费用） |
-| 博士 | 3-4年（博士） | —（通常有奖学金覆盖学费并提供生活津贴） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$3,000 (Public university tuition varies by region and family income) |
+| Master's degree | 2 years (Master's) | $1,500~$4,000 (Similar to bachelor's degree, some majors have additional fees) |
+| Doctorate | 3-4 years (PhD) | $0~$1,000 (Usually covered by scholarships including tuition fee waivers and living allowances) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 意大利大学 | 必备 | 研究职位通常需要 |
-| 国家科研资格认证（ASN） | 意大利教育部 | 必备 | 大学教授职位必备 |
-| 专业协会会员 | 意大利物理学会（SIF） | 可选 | 非强制但推荐 |
+| Doctoral degree (PhD) | Italian universities | Required | Research positions typically require |
+| National Scientific Qualification (ASN) | Italian Ministry of Education | Required | Essential for university professor positions |
+| Professional association member | Italian Physical Society (SIF) | Optional | Not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。意大利物理学家就业前景稳定，主要受大学和研究机构资助影响，近年有转向应用物理和跨学科研究的趋势。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Italian physicists have stable employment prospects, mainly influenced by university and research institution funding, with a recent trend toward applied physics and interdisciplinary research.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 博士后或初级研究员 |
-| 中级（3-10年） | $35,000~$50,000 | 大学研究员或工业研发 |
-| 高级（10年以上） | $50,000~$75,000 | 教授或高级科学家 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Postdoctoral or junior researcher |
+| Intermediate (3-10 years) | $35,000~$50,000 | University researcher or industrial R&D |
+| Senior (10+ years) | $50,000~$75,000 | Professor or Senior Scientist |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业路径通常从博士后研究员开始，晋升为研究员或教授，也可进入工业研发部门担任高级科学家。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core work of physicists relies heavily on theoretical innovation and experimental design, which AI can hardly replace, but it can significantly accelerate data analysis, simulation, and literature processing, allowing them to focus more on creative research.
+
+Career path typically starts from postdoctoral researcher, advancing to researcher or professor, or entering industrial R&D as a senior scientist.
+
+**Tasks most exposed to AI:**
+
+- Data processing and statistical analysis
+- Routine physical simulation calculations
+- Literature search and review writing
+- Automated collection and preliminary processing of experimental data
+
+**Where AI augments the role:**
+
+- Multi-scale simulation of complex physical systems
+- Efficient analysis of large-scale experimental data
+- Automated Verification and Optimization of Theoretical Models
+- Pattern recognition in interdisciplinary research
+- Assisted generation and polishing of academic papers
+
+**Human moat:**
+
+- Propose original theories and hypotheses
+- Design novel experimental plans
+- Interdisciplinary innovative thinking
+- Research ethics judgment and responsibility
+- Teaching and knowledge transfer
+
+**Skills to build:**
+
+- Proficiency in Python/R and physics-specific simulation libraries
+- Application of machine learning in physical analysis
+- High-performance computing and cloud platform usage
+- Data visualization and interactive display
+- application of AI tools in academic research
+- Interdisciplinary collaboration and communication skills
+
+**Key growth areas:**
 
 - research funding
 - astrophysics
@@ -65,66 +100,68 @@ Physicists in Italy work in research, teaching, or industrial applications, focu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位和符合薪资门槛的工作合同 |
-| Subclass Lavoro Autonomo（Self-Employment Visa） | 适用于作为自由职业者或自雇人士的物理学家，需商业计划 |
-| Subclass Ricerca（Research Visa） | 适用于在认可的意大利研究机构进行研究活动的人员 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a work contract meeting the salary threshold |
+| Subclass Lavoro Autonomo (Self-Employment Visa) | For physicists working as freelancers or self-employed, requires a business plan. |
+| Subclass Ricerca (Research Visa) | For persons conducting research activities at recognised Italian research institutions. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Physicist？**
-- 对基础研究有强烈热情
-- 具备数学和数据分析能力
-- 愿意从事学术或研发工作
+**Who is suited**
+- Strong passion for basic research
+- Possesses mathematical and data analysis skills
+- Willing to engage in academic or research work
 
-**谁不适合学Physicist？**
-- 追求高薪和快速职业发展
-- 偏好实践性而非理论性工作
+**Who is not suited**
+- Pursuing high salary and fast career development
+- Prefer practical over theoretical work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of Italian physicists?**
+A: Junior physicist salary around €28,000-35,000 per year; senior scientist can reach €50,000-75,000; academia pays less than industry.
+
+**Q: How can non-EU citizens immigrate to Italy to become physicists?**
+A: An EU Blue Card, research visa, or self-employment visa is available, requiring a doctoral degree and a work contract or research plan.
+
+**Q: What career paths are available for physicists in Italy?**
+A: Common path: Postdoc → Researcher → Professor, or transition to industrial R&D, data analysis, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Physicist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physicists in Italy?**
-答：Entry-level physicists earn around €28,000-35,000 per year, while senior scientists can earn €50,000-75,000, with academia paying less than industry.
-
-**问：How can non-EU citizens immigrate to Italy as physicists?**
-答：They can use the EU Blue Card, research visa, or self-employment visa, requiring a PhD and a job offer or research plan.
-
-**问：What are the career paths for physicists in Italy?**
-答：Common paths: postdoc → researcher → professor, or transition to industrial R&D, data analysis, etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

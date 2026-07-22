@@ -1,60 +1,96 @@
-# Bioengineers and Biomedical Engineers（Bioengineers and Biomedical Engineers）职业分析 · 美国
+# Bioengineers and Biomedical Engineers — career analysis · United States
 
-**职业代码：17-2031 – Bioengineers and Biomedical Engineers。**
+**Occupation code: 17-2031 (SOC)**
 
-Apply engineering, biology, chemistry, and computer science to design artificial organs, prosthetics, medical devices, and healthcare systems.
+Apply engineering, biology, chemistry, and computer science principles to design and develop artificial organs, prosthetics, medical instruments, and health management systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（美国公立/私立大学年均学费1-3万美元） |
-| 硕士 | 2年 | $30,000~$80,000（总学费，视学校而定） |
-| 博士 | 5年 | —（通常有全额奖学金） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (US public/private universities average annual tuition $10,000-$30,000) |
+| Master's degree | 2 years | $30,000~$80,000 (Total tuition, varies by school) |
+| Doctorate | 5 years | $0~$60,000 (Usually with full scholarship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | ABET认证大学 | 必备 | 通常需要生物医学工程或相关工程专业 |
-| 工程师执照（PE） | 州工程委员会 | 可选 | 对直接面向公众的服务或独立执业要求 |
-| 专业认证（如CBET） | 美国临床工程协会 | 可选 | 临床工程方向可选 |
+| Bachelor's degree in engineering | ABET-accredited university. | Required | Usually requires biomedical engineering or a related engineering field |
+| Professional Engineer (PE) license | State engineering board | Optional | Requirements for direct public-facing services or independent practice |
+| Professional certification (e.g., CBET) | American College of Clinical Engineering | Optional | Clinical engineering track available. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 21,000。美国劳工统计局预测2023-2033年就业增长7%，快于平均水平。老龄化人口和医疗技术进步推动需求，尤其在医疗器械和制药行业。
+**Job demand: high (★★★★☆).** National workforce approx. 21,000. US Bureau of Labor Statistics projects 7% employment growth from 2023 to 2033, faster than average. Aging population and medical technology advances drive demand, especially in medical devices and pharmaceuticals.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 起薪通常为年薪6-8万美元 |
-| 中级（4-7年） | $80,000~$110,000 | 具有经验的中级工程师 |
-| 高级（8年以上） | $110,000~$150,000 | 高级工程师或管理层可达更高 |
+| Median salary | $109,370 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Starting salary is usually $60,000-$80,000 per year. |
+| Mid-level (4-7 years) | $80,000~$110,000 | Experienced mid-level engineer |
+| Senior (8+ years) | $110,000~$150,000 | Senior engineers or management can earn more |
+| average salary | $116,890 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级研究员或设计工程师起步，积累经验后可晋升为高级工程师、项目经理或研发总监。博士学位有助于进入高校或顶级研发机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on biomedical engineers is mixed: data analysis and prototyping will be largely automated, but creative design involving human safety verification and clinical applications remains a human moat.
+
+Starting as a junior researcher or design engineer, one can advance to senior engineer, project manager, or R&D director with experience. A PhD helps in entering academia or top R&D institutions.
+
+**Tasks most exposed to AI:**
+
+- Preliminary analysis report generation for medical images (e.g., MRI)
+- Pattern recognition and anomaly detection in biosignal data (e.g., ECG)
+- Routine experimental design (e.g., PCR primer design)
+- Standardized writing of medical device compliance documents
+- Parameter optimization for simulating human physiological systems
+
+**Where AI augments the role:**
+
+- AI-assisted generation of novel biomaterial molecular structures
+- Use digital twin technology to rapidly iterate prosthetic mechanics design
+- Automatically screen clinical data to predict long-term device safety
+- AI-driven multiphysics simulation for optimizing implant design
+- Natural language processing accelerates systematic reviews of medical literature
+
+**Human moat:**
+
+- Managing clinical needs and human safety responsibilities
+- Interdisciplinary system integration (engineering + medicine + regulations)
+- Ethical judgment and stakeholder communication
+- Innovative conceptual design (e.g., breakthrough implants)
+- Regulatory approval strategies and clinical trial oversight
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., generative design, simulation optimization).
+- Medical data analysis and machine learning (Python/TensorFlow)
+- Digital twin and system modeling (e.g., Simulink)
+- Regulatory affairs and compliance processes (FDA, CE marking)
+- Human-computer interaction and wearable device design
+- Interdisciplinary collaboration and project management
+
+**Key growth areas:**
 
 - aging population
 - medical device innovation
@@ -63,69 +99,68 @@ Apply engineering, biology, chemistry, and computer science to design artificial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见的非移民工作签证，需本科以上学历，每年4月抽签，配额限制 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 职业移民第二优先，适合硕士以上学历或特殊能力者，通常需PERM劳工证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card (Skilled Worker)） | 职业移民第三优先，适合本科或以上学历，需PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在科学领域有杰出成就的个人，无需抽签，但标准较高 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common non-immigrant work visa, requires bachelor's degree or higher; annual April lottery with quota limits |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Employment-based second preference, suitable for those with a master's degree or higher, or those with exceptional ability, usually requiring PERM labor certification. |
+| Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Worker)) | Employment-Based Immigration: Third Preference, suitable for bachelor's or higher degree, requires PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | For individuals with outstanding achievements in science, no lottery, but high standards |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bioengineers and Biomedical Engineers？**
-- 对生物医学工程有强烈兴趣，具备扎实的数学和科学基础
-- 喜欢解决复杂的跨学科问题，注重细节和创新
-- 愿意持续学习新技术和法规，适应实验室和临床环境
-
-**谁不适合学Bioengineers and Biomedical Engineers？**
-- 不喜欢与生物系统或医疗设备打交道，对医学无兴趣
-- 不善于数据分析或编程，无法处理复杂工程问题
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in biomedical engineering with solid math and science foundation
+- Enjoy solving complex interdisciplinary problems, detail-oriented and innovative.
+- Willing to continuously learn new technologies and regulations, adaptable to laboratory and clinical environments
+
+**Who is not suited**
+- Dislikes working with biological systems or medical devices, no interest in medicine
+- Unable to handle data analysis or programming, cannot solve complex engineering problems
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for biomedical engineers?**
+A: According to the U.S. Bureau of Labor Statistics, median annual salary in 2023 about $100,000. Junior approx. $60,000-80,000, senior up to $150,000+, depending on experience, industry, and region.
+
+**Q: What are the pathways for biomedical engineers to immigrate to the US?**
+A: Common routes include H-1B work visa (with lottery) and EB-2/EB-3 employment-based green cards (with PERM). PhDs or outstanding talents may consider O-1 or EB-1A. STEM majors can benefit from OPT with 3-year practical training.
+
+**Q: What is the employment outlook for biomedical engineers in the US?**
+A: Good outlook. Aging population and medical technology advancements drive demand, especially in medical device R&D, pharmaceuticals, and clinical engineering. Expected 7% growth from 2023-2033, faster than average.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Bioengineers and Biomedical Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biomedical engineers?**
-答：According to BLS, median annual wage in 2023 was around $100,000. Entry-level $60k-$80k, senior $110k-$150k+, depending on experience, industry, and location.
-
-**问：What are the immigration pathways for biomedical engineers to the US?**
-答：Common routes: H-1B visa (lottery), EB-2/EB-3 green card (with PERM). PhD or extraordinary ability may qualify for O-1 or EB-1A. STEM OPT allows 3-year work authorization.
-
-**问：What is the job outlook for biomedical engineers in the US?**
-答：Positive. Aging population and tech advances drive demand, especially in medical devices, pharma, and clinical engineering. Projected 7% growth from 2023-2033, faster than average.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Fashion Designers（Fashion Designers）职业分析 · 美国
+# Fashion Designers — career analysis · United States
 
-**职业代码：27-1022 – Fashion Designers。**
+**Occupation code: 27-1022 (SOC)**
 
-Fashion designers design clothing and accessories, creating original designs or adapting fashion trends. They work for manufacturers, retailers, or as freelancers, blending artistic creativity with business acumen.
+Fashion designers design clothing and accessories, creating original designs or following fashion trends. They typically work for apparel manufacturers, retailers, or as freelancers, needing to combine artistic creativity with business acumen.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $20,000~$40,000（通常为时装设计或相关领域） |
-| 学士学位 | 4年 | $40,000~$120,000（时装设计或相关专业，如服装设计） |
+| Associate degree | 2 years | $20,000~$40,000 (Usually fashion design or a related field) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Fashion design or related major, e.g., apparel design) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 时装设计学士学位 | 认可大学或设计学院 | 可选 | 常见要求，但非强制 |
-| 作品集 | 个人 | 必备 | 展示设计能力的关键 |
-| 实习经历 | 设计公司 | 可选 | 有助于积累经验和人脉 |
+| Portfolio | Personal | Required | Key to demonstrating design capability |
+| Bachelor of Fashion Design | Accredited university or design school | Optional | Common requirement but not mandatory |
+| Internship experience | Design Company | Optional | Helps accumulate experience and build networks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 22,500。美国时装设计师就业预计增长约4%，低于平均水平。竞争激烈，尤其是高端市场。可持续时尚和运动休闲领域可能提供更多机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 22,500. Employment of US fashion designers is expected to grow about 4%, slower than average. Competition is intense, especially in the high-end market. Sustainable fashion and athleisure may offer more opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$55,000 | 助理设计师或入门职位 |
-| 中级（3-7年） | $55,000~$85,000 | 独立设计师 |
-| 高级（7年以上） | $85,000~$130,000 | 设计总监或首席设计师 |
+| Median salary | $80,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$55,000 | Assistant designer or entry-level position |
+| Mid-level (3–7 years) | $55,000~$85,000 | Independent designer |
+| Senior (7+ years) | $85,000~$130,000 | Design director or chief designer |
+| average salary | $91,230 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 入门级职位如助理设计师，可晋升为设计师、高级设计师、设计总监，或创立自有品牌。积累经验后也可转向造型师或买手。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
+
+Entry-level positions like assistant designer can advance to designer, senior designer, design director, or start one's own brand. With experience, one can also transition to stylist or buyer.
+
+**Tasks most exposed to AI:**
+
+- Trend data analysis and prediction using AI tools
+- Using AI to generate preliminary clothing sketches and pattern designs
+- Automated pattern resizing and sample garment simulation
+- Automates fabric color matching and inventory retrieval through AI
+- AI generates basic product descriptions and marketing copy
+
+**Where AI augments the role:**
+
+- Using AI to quickly generate hundreds of design variants for client selection
+- Use 3D simulation and virtual try-on technology to reduce physical sample production
+- Optimize design decisions by analyzing consumer feedback through AI
+- Use AI-assisted supply chain management and fabric sustainability assessment
+- Use generative AI to quickly create series of inspiration boards and visual narratives
+
+**Human moat:**
+
+- Unique artistic aesthetic and creative conceptual ability
+- Communication and relationship building with clients and manufacturers through meetings
+- Deep understanding of brand DNA and cultural trends
+- Tacit knowledge such as manual draping and haute couture
+- Cross-cultural design storytelling and original IP development.
+
+**Skills to build:**
+
+- Proficiency in AI design tools (e.g., Midjourney, CLO 3D, Stable Diffusion)
+- Data analysis and trend interpretation (Python/R basics)
+- Digital clothing modeling and virtual reality technology
+- Knowledge of sustainable fashion materials and supply chains
+- Brand strategy and visual marketing skills
+- Human-machine collaborative workflow design (Prompt engineering)
+
+**Key growth areas:**
 
 - sustainable fashion
 - athleisure
@@ -64,65 +100,67 @@ Fashion designers design clothing and accessories, creating original designs or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Extraordinary Ability） | 适合在时装设计领域具有杰出才能的设计师，需证明国际声誉 |
-| Subclass H-1B（H-1B Specialty Occupation） | 需雇主担保，且职位通常要求学士学位，但时装设计领域申请较难 |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for designers with outstanding talent in fashion design, must demonstrate international reputation |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires employer sponsorship, and the position typically requires a bachelor's degree, but applications in fashion design are more difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fashion Designers？**
-- 对时尚趋势敏感且创意丰富的人
-- 具备较强商业意识和沟通能力的人
-- 能适应高压和快速变化环境的人
+**Who is suited**
+- People sensitive to fashion trends with creative flair.
+- People with strong business acumen and communication skills
+- People who can adapt to high-pressure and fast-changing environments.
 
-**谁不适合学Fashion Designers？**
-- 不喜欢不确定性和频繁修改的人
-- 追求稳定工作时间和低压力的人
+**Who is not suited**
+- People who dislike uncertainty and frequent changes
+- People seeking stable work hours and low stress
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a fashion designer?**
+A: U.S. fashion designers' median annual salary is around $75,000, but entry-level positions can be as low as $35,000, while senior designers can earn over $130,000.
+
+**Q: Can fashion designers immigrate to the US via the H-1B visa?**
+A: Possible, but difficult, as it requires employer sponsorship and positions usually require a bachelor's degree. The O-1 visa for individuals with extraordinary ability is more suitable for designers with international reputation.
+
+**Q: What is the career progression path for a fashion designer?**
+A: Usually start as an assistant designer, then progress to designer, senior designer, design director, or start own brand. Can also transition to fashion buyer or stylist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fashion Designers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a fashion designer?**
-答：The median annual wage for fashion designers in the US is about $75,000, but entry-level positions can be as low as $35,000, while senior designers can earn over $130,000.
-
-**问：Can fashion designers immigrate to the US via H-1B visa?**
-答：Yes, but it is difficult as it requires employer sponsorship and the position typically needs a bachelor's degree. O-1 visa for extraordinary ability is more suitable for internationally recognized designers.
-
-**问：What is the career path for a fashion designer?**
-答：Typically starts as an assistant designer, then advances to designer, senior designer, design director, or launching own brand. Also possible to move into fashion buying or styling.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Tile, Slab and Mosaic Layers（Tile, Slab and Mosaic Layers）职业分析 · DE
+# Tile, Slab and Mosaic Layers — career analysis · Germany
 
-**职业代码：3311 – Tile, Slab and Mosaic Layers。**
+**Occupation code: 3311 (KldB)**
 
-Responsible for laying tiles, stone slabs, and mosaics on walls and floors in buildings, ensuring aesthetics, waterproofing, and durability. Involves measuring, cutting, mixing mortar, and installing.
+Responsible for laying tiles, stone, mosaics and other finishing materials on interior and exterior walls and floors to ensure aesthetics, waterproofing and durability. Involves measuring, cutting, mixing mortar and laying techniques.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，通常无需学费） |
-| 进修：建筑技术员 | 2年（全日制）或更长时间 | $1,000~$5,000（部分州有学费，可申请资助） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Further study: building technician | 2 years (full-time) or longer | $1,000~$5,000 (Some states have tuition fees; financial aid is available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 瓷砖铺设工职业资格证书 | 德国工商会 (IHK) | 必备 | 通过双元制培训并结业考试获得，是从业必备 |
-| 学历认证（海外资格） | 德国联邦职业教育与培训资质认证办公室 (BQFG) | 必备 | 海外学历需经认证，可能要求部分课程或考试补修 |
+| Tile layer occupational qualification certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained through dual vocational training and final examination; essential for the profession. |
+| Credential assessment (overseas qualifications) | German Federal Office for Vocational Education and Training Qualifications (BQFG) | Required | Overseas qualifications need to be assessed, and some courses or exams may need to be undertaken as supplementary. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。德国建筑业稳定发展，翻新和新建项目持续需求瓷砖工。由于技术工人短缺，该职业前景良好，熟练工尤其抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. With stable development in the German construction industry, renovation and new projects sustain demand for tilers. Due to a shortage of skilled workers, the career prospects are good, with experienced workers particularly sought after.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 培训后起薪，税前年薪 |
-| 中级（4-7年） | $33,000~$42,000 | 熟练工，税前年薪 |
-| 高级（8年以上/工头） | $43,000~$55,000 | 工头或自雇，税前年薪 |
+| Median salary | $40,992 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Starting salary after training, pre-tax annual salary |
+| Mid-level (4-7 years) | $33,000~$42,000 | Skilled worker, pre-tax annual salary |
+| Senior (8+ years/foreman) | $43,000~$55,000 | Foreman or self-employed, pre-tax annual salary |
+| average salary | $41,904 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从学徒可晋升为熟练工、工头，或通过进修成为建筑技术员、工长。也可自雇创业，承接装修项目。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
+
+Can progress from apprentice to journeyman, foreman, or further study to become building technician, site supervisor. Can also become self-employed, taking on renovation projects.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate laying patterns and layouts based on photos or 3D scans
+- AI-optimized tile cutting plans to reduce waste
+- Large-scale standardized paving using automatic brick-laying robots
+- AI-assisted defect detection (hollowing, flatness) replaces manual inspection
+
+**Where AI augments the role:**
+
+- Use AR glasses to preview paving effects and adjust layouts in real-time
+- Optimize scheduling and material dispatch through an AI construction management platform
+- Use BIM models to identify clashes with other trades early
+- Quickly learn new tile/adhesive techniques via online training platforms
+
+**Human moat:**
+
+- Manual cutting and fitting of complex curves and irregular spaces
+- On-site judgment of base treatments (waterproofing, leveling)
+- Detail handling and aesthetic control at the joins of different materials
+- Communicating design requirements with clients and providing personalized solutions
+
+**Skills to build:**
+
+- BIM and construction management software (e.g., Revit, Plannerly)
+- AR/VR-assisted design tools (e.g., Fologram)
+- Operation and maintenance of automated cutting equipment
+- Project management and communication skills
+- Knowledge of sustainable building materials (e.g., recycled tiles, low-carbon adhesives).
+
+**Key growth areas:**
 
 - Construction growth
 - Renovation boom
@@ -63,69 +95,68 @@ Responsible for laying tiles, stone slabs, and mosaics on walls and floors in bu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfte)） | 适用于持有德国认可的资质证书并获雇主担保的技术工人 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，可在德国寻找工作，适合未获雇主担保但有资质的求职者 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找相关工作的签证，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfte)) | Applicable to skilled workers holding a recognized German qualification and with employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, allows job seeking in Germany, suitable for qualified applicants without employer sponsorship |
+| Subclass Job Seeker (Job Seeker Visa) | A visa allowing a 6-month stay in Germany to seek employment; proof of financial means required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tile, Slab and Mosaic Layers？**
-- 喜欢动手操作、有耐心和细致的人
-- 愿意接受3年双元制培训并考取资格证书的年轻人
-- 希望从事稳定职业、有晋升空间的技术工人
-
-**谁不适合学Tile, Slab and Mosaic Layers？**
-- 对灰尘、噪音和体力劳动耐受度低的人
-- 希望快速高薪且不愿接受培训的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, are patient and meticulous
+- Young people willing to undergo 3-year dual training and obtain qualification certificates
+- Skilled workers seeking stable careers with advancement opportunities.
+
+**Who is not suited**
+- Those with low tolerance for dust, noise, and physical labor
+- People seeking quick high salaries and unwilling to undergo training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of a tile layer?**
+A: Junior approx. €26,000–32,000/year; skilled worker €33,000–42,000; foreman up to €55,000. Self-employed income higher but riskier.
+
+**Q: How can foreigners become German tile setters?**
+A: Must undergo qualification assessment to confirm overseas degree equivalent to German vocational training. Can find work via skilled worker visa or opportunity card, then complete bridging training.
+
+**Q: Are there promotion opportunities for tile layers?**
+A: Yes, can become a foreman, building technician, or self-employed running a renovation company. Can also further study for a construction management degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Tile, Slab and Mosaic Layers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for tile layers?**
-答：Entry-level: €26,000-32,000/year; skilled: €33,000-42,000; foreman: up to €55,000. Self-employed earn more but with higher risk.
-
-**问：How can foreigners become tile layers in Germany?**
-答：Require credential assessment to verify equivalent training. Use Skilled Worker Visa or Opportunity Card to find a job, then complete any necessary bridging training.
-
-**问：Are there career advancement opportunities for tile layers?**
-答：Yes, progression to foreman, construction technician, or self-employment. Further training can lead to construction management roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

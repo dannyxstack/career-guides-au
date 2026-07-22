@@ -1,58 +1,92 @@
-# Cashiers（Cashiers）职业分析 · 加拿大
+# Cashiers — career analysis · Canada
 
-**职业代码：65100 – Cashiers。**
+**Occupation code: 65100 (NOC)**
 
-Cashiers operate cash registers in retail stores, supermarkets, or gas stations, processing cash, credit card, or mobile payments and providing basic customer service.
+Cashiers operate cash registers in retail stores, supermarkets, gas stations, etc., handle cash, credit card, or mobile payment transactions, and provide basic customer service.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立高中免费） |
-| 短期培训 | 1-3个月 | $500~$2,000（在职培训或职业课程） |
+| High school graduation | 12 years | $0~$0 (Public high schools are free) |
+| Short-term training | 1-3 months. | $500~$2,000 (On-the-job training or vocational courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 省级教育部门 | 可选 | 基本要求 |
-| 在职培训 | 雇主 | 必备 | 通常为数天至数周 |
+| On-the-job training | Employer | Required | Usually a few days to a few weeks |
+| High school diploma or equivalent | Provincial education department | Optional | Basic requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 300,000。加拿大收银员就业前景一般，受自动化和自助结账影响，需求稳定但增长缓慢。主要替代需求来自离职人员，尤其在零售和食品服务行业。
+**Job demand: medium (★★½☆☆).** National workforce approx. 300,000. Employment prospects for cashiers in Canada are average, affected by automation and self-checkout; demand is stable but slow-growing. Main replacement demand comes from departures, especially in retail and food service.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$32,000 | 最低工资省份常见 |
-| 中级（3-6年） | $32,000~$38,000 | 包含全职工资及小费 |
-| 高级（6年以上） | $38,000~$45,000 | 主管级别或大型零售 |
+| Median salary | $33,280 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$32,000 | Common in minimum wage provinces |
+| Mid-level (3–6 years) | $32,000~$38,000 | Includes full-time wages and tips |
+| Senior (6+ years) | $38,000~$45,000 | Supervisor level or large-scale retail |
+| average salary | $35,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 收银员可晋升为部门主管、客户服务经理或零售店经理。积累经验后也可转向会计、库存管理或销售岗位，但需要额外培训。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Cashier roles are highly standardized; AI automated checkout and self-checkout technology will continue to replace human workers, entry-level positions are shrinking significantly, and transition pressure is high.
+
+Cashiers can be promoted to department supervisor, customer service manager, or retail store manager. With experience, they can also transition to accounting, inventory management, or sales positions, but additional training is required.
+
+**Tasks most exposed to AI:**
+
+- Scan product barcodes and calculate total price
+- Processes cash, credit card, and mobile payment transactions
+- Print receipt and give change
+- Count and reconcile daily cash income.
+- Handle simple returns, exchanges, and redemption operations
+
+**Where AI augments the role:**
+
+- Using AI to analyze sales data to optimize queue management and checkout allocation
+- Use AI-assisted customer relationship management systems to enhance personalized service
+- Reduce cash reconciliation time using automated reporting tools.
+- Use AI customer service tools to handle common inquiries, reducing repetitive work
+
+**Human moat:**
+
+- Handling abnormal transactions (e.g., machine malfunctions, refund disputes).
+- Provides emotional support and personalized customer service
+- Respond to emergencies (e.g., system crashes, security incidents)
+- Supervise and maintain order in the self-checkout area
+
+**Skills to build:**
+
+- Learning to maintain and troubleshoot self-checkout systems
+- Basic data analysis skills (e.g., Excel)
+- Improve customer complaint handling and communication skills
+- Familiar with advanced POS software functions (inventory, reports)
+- Learn retail industry regulations (e.g., tax, loss prevention)
+- Basic English skills to serve diverse customers
+
+**Key growth areas:**
 
 - Automation
 - Self-checkout
@@ -61,68 +95,67 @@ Cashiers operate cash registers in retail stores, supermarkets, or gas stations,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地员工 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份零售业省提名项目，需雇主支持 |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | TEER 4职业通常不符合，除非有管理经验晋升至TEER 0/1/2/3 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be found. |
+| Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs for Retail in Some Provinces, Requiring Employer Support |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | TEER 4 occupations are generally not eligible unless promoted to TEER 0/1/2/3 with management experience |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cashiers？**
-- 寻求入门级零售工作的人
-- 希望快速就业、不介意重复性劳动的人
-- 打算积累零售经验后晋升管理岗的人
-
-**谁不适合学Cashiers？**
-- 期望高薪或高技能工作的人
-- 厌恶自动化替代风险的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People seeking entry-level retail jobs
+- For those seeking quick employment and not minding repetitive work.
+- People who plan to accumulate retail experience and then move into management
+
+**Who is not suited**
+- People seeking high salary or high-skilled jobs
+- People who dislike the risk of automation replacement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a cashier in Canada?**
+A: Average annual salary for cashiers in Canada is approx. CAD 30,000–38,000, depending on province and employer. Ontario and BC are slightly higher but with minor differences.
+
+**Q: Can a cashier immigrate to Canada through skilled migration?**
+A: Cashiers are TEER 4 occupations, usually not meeting the requirements for Federal Skilled Worker (FSW/CEC) but may be eligible for LMIA work permits or some provincial PNP programs (e.g., retail pilot), though difficult.
+
+**Q: What are the advancement opportunities for a cashier?**
+A: Can advance to front office supervisor, department manager, or store manager, or move to purchasing, inventory, or accounting roles, usually requiring additional training or qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cashiers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cashiers in Canada?**
-答：The average annual salary for cashiers in Canada is around CAD 30,000 to 38,000, depending on province and employer. Ontario and BC tend to be slightly higher.
-
-**问：Can cashiers immigrate to Canada through skilled migration?**
-答：Cashiers are TEER 4 occupations and generally ineligible for federal Express Entry (FSW/CEC), but may qualify via LMIA work permits or some provincial PNP streams (e.g., retail pilot), though it is challenging.
-
-**问：What are the career advancement opportunities for cashiers?**
-答：Cashiers can advance to front-end supervisor, department manager, or store manager, or shift to purchasing, inventory, or accounting roles, usually requiring additional training or education.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

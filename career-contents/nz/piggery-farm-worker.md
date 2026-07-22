@@ -1,60 +1,92 @@
-# Piggery Farm Worker（Piggery Farm Worker）职业分析 · 新西兰
+# Piggery Farm Worker — career analysis · New Zealand
 
-**职业代码：842315 – Piggery Farm Worker。**
+**Occupation code: 842315 (ANZSCO)**
 
-Piggery farm workers care for pigs, including feeding, cleaning, health monitoring, and assisting with breeding and weaning. This role is eligible for Accredited Employer Work Visa (AEWV) but is not on the Green List or priority Skilled Migrant Category, with limited migration options.
+Pig farm workers are responsible for daily pig care, including feeding, cleaning pens, monitoring health, and assisting with breeding and weaning. This occupation can apply for an Accredited Employer Work Visa (AEWV) but is not on the Green List or priority lists for skilled migration, so immigration opportunities are limited.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 0-3个月 | —（通常雇主提供在职培训，无需先期教育费用） |
-| 新西兰农业证书（Level 3） | 1年 | $5,000~$10,000（可远程或兼职学习，部分课程有政府补贴） |
+| On-the-job training | 0-3 months | $0~$2,000 (Usually employers provide on-the-job training, no upfront education costs) |
+| New Zealand Certificate in Agriculture (Level 3) | 1 year | $5,000~$10,000 (Available for remote or part-time study; some courses have government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（动物护理方向）Level 3 | 新西兰多所理工学院和私立培训机构 | 可选 | 非强制，但有助于晋升主管职位 |
-| 英语语言能力（如雅思4.0） | 雅思/PTE等 | 必备 | 申请工签时需满足移民局基本英语要求 |
+| English language ability (e.g., IELTS 4.0) | IELTS/PTE etc. | Required | Must meet basic English requirements of the immigration department when applying for work visa |
+| New Zealand Certificate in Agriculture (Animal Care Strand) Level 3. | Several New Zealand institutes of technology and private training establishments | Optional | Not mandatory, but helpful for promotion to supervisory positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰养猪业规模较小，从业人数约500人。由于自动化程度低，劳动力需求稳定，但受进口肉类竞争影响，就业增长缓慢。主要分布在怀卡托、马纳瓦图-旺阿努伊等地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. NZ pig farming is small-scale, employing about 500 people. Due to low automation, labour demand is stable, but employment growth is slow due to competition from imported meat. Mainly concentrated in Waikato, Manawatu-Whanganui and other regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$45,000 | 新手起薪，通常在小规模农场 |
-| 中级（3-5年） | $45,000~$55,000 | 熟练工人，负责更多任务 |
-| 高级（5年以上/主管） | $55,000~$65,000 | 主管或大型农场高级工人 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$45,000 | Entry-level salary, typically on small farms. |
+| Mid-level (3–5 years) | $45,000~$55,000 | Skilled worker handling more tasks |
+| Senior (5+ years / supervisor) | $55,000~$65,000 | Supervisor or senior worker on a large farm |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级工人可积累经验后晋升为高级饲养员或农场主管，部分可转向兽医助理或农场经理。但行业晋升空间有限，需额外学习动物科学或农业管理本科课程方可进入管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pig farm workers: moderate-risk occupation; manual tasks hard to replace, but monitoring and recording jobs prone to AI takeover, balancing opportunities and threats.
+
+Junior workers can gain experience and be promoted to senior keeper or farm supervisor, and some may move to veterinary assistant or farm manager. However, career progression is limited; additional undergraduate studies in animal science or agricultural management are needed to enter management.
+
+**Tasks most exposed to AI:**
+
+- Daily health observation records (camera + image recognition automatically monitors pig body condition and activity)
+- Feed ratio and feeding amount calculation (AI optimizes based on stage and health data)
+- Environmental parameter monitoring (temperature, humidity, ammonia sensors auto-regulate)
+- Breeding cycle tracking and mating time prediction (AI algorithm recommendations)
+
+**Where AI augments the role:**
+
+- Precision health management: AI-assisted diagnosis, workers quickly identify and treat sick pigs
+- Automated feeding system monitoring: humans handle system maintenance and anomaly processing
+- Data-driven decision-making: AI generates reports, workers adjust feeding strategies
+- Remote monitoring: AI-assisted workers monitor multiple enclosures to improve efficiency
+
+**Human moat:**
+
+- Manual handling of emergencies like sudden illness or difficult births
+- Instinctive judgment and experience-based decision-making on pig behaviour
+- Complex equipment repair and safety management
+- Physical flexibility in human-animal interactions (e.g., calming, moving animals)
+
+**Skills to build:**
+
+- Basic digital literacy (using tablets/software to enter and view data)
+- Automated equipment operation and basic fault troubleshooting
+- Porcine behaviour and preliminary health diagnosis
+- Data interpretation skills (adjust decisions based on AI reports)
+- Manual emergency response in critical situations
+
+**Key growth areas:**
 
 - Limited Immigration
 - AEWV Only
@@ -63,65 +95,67 @@ Piggery farm workers care for pigs, including feeding, cleaning, health monitori
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需要雇主获得认证，工作满3年可申请居留，但需满足薪资中位数要求（2024年约$29.66/小时） |
-| Subclass SMC（Skilled Migrant Category） | 养猪场工人通常被视为低技能职位，难以满足SMC要求，除非升任管理岗位 |
+| Subclass AEWV (Accredited Employer Work Visa) | The employer must be accredited; after 3 years of work, residency can be applied for, but the median salary requirement must be met (approx. $29.66/hour in 2024) |
+| Subclass SMC (Skilled Migrant Category) | Pig farm workers are often considered low-skilled positions, making it hard to meet SMC requirements unless promoted to management. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Piggery Farm Worker？**
-- 喜欢户外体力劳动、与动物相处的人
-- 愿意在乡村地区长期工作和生活
-- 能接受脏乱工作环境，如清理猪舍粪便
+**Who is suited**
+- People who enjoy outdoor physical work and working with animals
+- Willing to work and live long-term in rural areas
+- Able to tolerate dirty work environments, such as cleaning pig pens
 
-**谁不适合学Piggery Farm Worker？**
-- 寻求高收入或快速职业晋升者
-- 对气味敏感或惧怕大型动物的人
+**Who is not suited**
+- Those seeking high income or rapid career advancement
+- People sensitive to odors or afraid of large animals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a pig farm worker?**
+A: Entry-level annual salary approximately NZD 40,000-45,000, intermediate NZD 45,000-55,000, supervisor NZD 55,000-65,000. The salary is below the New Zealand median wage requirement (about NZD 61,700/year), so immigration pathways are limited.
+
+**Q: Can a pig farm worker immigrate to New Zealand?**
+A: This occupation is not on the Green List, nor is it on the skills shortage list. It can work under an Accredited Employer Work Visa (AEWV) for 3 years with a valid employer. If the salary reaches the median (about $29.66/hour), residence can be applied for, but entry-level income usually cannot meet the threshold. Therefore, immigration is quite difficult.
+
+**Q: Are pig farm workers have career prospects?**
+A: New Zealand's pig farming industry is small; becoming a farm supervisor or manager requires additional agricultural diploma. In the long term, automation may reduce demand for entry-level positions, but experienced workers remain valuable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Piggery Farm Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for piggery farm workers?**
-答：Entry-level salary is around NZD 40,000-45,000 per year, mid-level NZD 45,000-55,000, and senior/supervisor NZD 55,000-65,000. This is below the median wage threshold (approx. NZD 61,700/year) required for most immigration pathways, limiting migration options.
-
-**问：Can piggery farm workers immigrate to New Zealand?**
-答：This occupation is not on the Green List nor the skill shortage list. You can work via the Accredited Employer Work Visa (AEWV) for 3 years, then apply for residence if your wage meets the median ($29.66/hour), but entry-level wages are typically below that. Thus, it is challenging to immigrate.
-
-**问：Are there career prospects for piggery farm workers?**
-答：The pig farming industry in NZ is small. Advancement to supervisor or manager requires additional agricultural qualifications. In the long term, automation may reduce demand for entry-level workers, but experienced workers remain valuable.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

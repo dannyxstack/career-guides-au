@@ -1,59 +1,95 @@
-# Podiatrist（Podiatrist）职业分析 · FR
+# Podiatrist — career analysis · France
 
-**职业代码：J1409 – Podiatrist。**
+**Occupation code: J1409 (ROME)**
 
-Podiatrists are healthcare professionals specializing in the diagnosis, treatment, and prevention of foot and lower limb disorders. In France, the profession is regulated, requiring a national diploma (DE de pédicure-podologue) to practice.
+Podiatrists are medical professionals specializing in the diagnosis, treatment, and prevention of foot and lower limb diseases. In France, this profession is regulated and requires a national diploma (DE de pédicure-podologue) to practice.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国家足病医生文凭（DE） | 3年 | $10,000~$15,000（公立大学费用较低，私立学校较高） |
+| National Podiatrist Diploma (DE) | 3 years | $10,000~$15,000 (Public universities have lower fees, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家足病医生文凭（DE de pédicure-podologue） | 教育部认可的高等教育机构 | 必备 | 必须持有此文凭方可执业 |
-| 法国足病医生协会注册 | Ordre des pédicures-podologues | 必备 | 执业强制注册 |
+| National Podiatrist Diploma (DE de pédicure-podologue) | Higher education institutions recognized by the Ministry of Education | Required | You must hold this diploma to practice |
+| Registered with the French Podiatrists Association | Ordre des pédicures-podologues | Required | Mandatory registration for practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。法国足病医生需求稳定，由于人口老龄化和糖尿病足等慢性病增加，就业前景良好。该职业持续紧缺，特别是在农村地区和老年护理领域。
+**Job demand: high (★★★★☆).** National workforce approx. 13,000. Demand for podiatrists in France remains stable, and employment prospects are good due to an aging population and the rise in chronic diseases such as diabetic foot. This profession remains in short supply, especially in rural areas and the field of aged care.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立医疗机构或受雇于诊所 |
-| 中级（4-10年） | $35,000~$45,000 | 经验丰富后，私人诊所收入更高 |
-| 高级（10年以上/自有诊所） | $50,000~$80,000 | 自雇且客户稳定 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Public medical institutions or employed by clinics |
+| Mid-level (4-10 years). | $35,000~$45,000 | With more experience, private clinics earn higher incomes |
+| Senior (over 10 years / own clinic) | $50,000~$80,000 | Self-employed with stable clients |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初期可在诊所或医院工作，积累经验后可开设私人诊所或从事专业领域（如运动足病、糖尿病足护理）。也可进入教育或研究领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on podiatrists is mixed: imaging diagnosis and paperwork will be automated, but skills like palpation, manual therapy, and patient communication will be hard to replace; Compliance and accountability requirements limit AI autonomy.
+
+Initially, you can work in clinics or hospitals, and after gaining experience, you can open a private clinic or engage in specialized fields (such as sports foot diseases or diabetic foot care). You can also enter the fields of education or research.
+
+**Tasks most exposed to AI:**
+
+- Preliminary screening of foot imaging and abnormal markers
+- Automated generation of patient medical records and reports
+- Collection and recording of routine foot examination data
+- Appointment management and administrative document processing
+- Recommended standardized foot care protocols
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex foot lesions improves accuracy
+- 3D scanning and AI modeling for custom orthopedic insoles
+- AI analyzes gait data to optimize treatment plans
+- Monitor patient rehabilitation progress remotely and adjust plans in a timely manner
+- AI-assisted patient education and self-management advice
+
+**Human moat:**
+
+- Tactile judgment in manual therapy and physical therapy
+- Build trust and empathetic communication with patients
+- Managing clinical decisions in cases of complex complications and comorbidities
+- Comply with French medical regulations and ethical responsibilities
+- Surgeries and procedures that require delicate hand manipulation
+
+**Skills to build:**
+
+- Use and validation of AI imaging diagnostic tools
+- Gait analysis and 3D printing technology
+- Digital health records and telemedicine platform operations
+- Data-driven clinical decision-making capabilities
+- Patient communication and health literacy education
+- Adaptability for continuous learning of new AI tools
+
+**Key growth areas:**
 
 - aging population
 - diabetic foot care
@@ -62,69 +98,68 @@ Podiatrists are healthcare professionals specializing in the diagnosis, treatmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，可凭学历和工作经验申请 |
-| Subclass Salarié（Salarié） | 受雇于法国医疗机构，需获得工作许可 |
-| Subclass Reconnaissance des q（Professional Qualifications Recognition） | 第三国文凭需通过资质认证才可执业 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, who can apply based on academic qualifications and work experience |
+| Subclass Salarié (Salarié) | Employed by a French medical institution, a work permit is required |
+| Subclass Reconnaissance des q (Professional Qualifications Recognition) | A third-country diploma requires certification to practice |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Podiatrist？**
-- 对医学和足部护理有浓厚兴趣的人
-- 愿意接受严格教育和资质认证的人
-- 希望拥有稳定职业生涯且利于自主创业的人
-
-**谁不适合学Podiatrist？**
-- 不喜欢与人体接触或不愿处理伤口的人
-- 不愿经历长期学习和高门槛认证的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in medicine and foot care
+- Those willing to undergo rigorous education and qualification certification
+- Those seeking a stable career with potential for self-employment
+
+**Who is not suited**
+- People who dislike contact with the human body or are unwilling to treat wounds
+- Those unwilling to undergo long-term study and high-level certifications
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for podiatrists in France?**
+A: Entry-level podiatrist salary around €24,000-30,000, mid-level €35,000-45,000, senior self-employed can reach €50,000-80,000.
+
+**Q: How can a third-country podiatrist immigrate to France?**
+A: You must first pass the reconnaissance des qualifications to obtain the equivalent validity of a French diploma. You can then apply for a Passeport Talent or Salarié visa.
+
+**Q: What education is required to become a podiatrist in France?**
+A: Requires completion of a 3-year national podiatry diploma (DE), usually studied at university or private school, tuition about €10,000-15,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 困难（★★★½☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Podiatrist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for podiatrists in France?**
-答：Entry-level podiatrists earn around €24,000-30,000, mid-level €35,000-45,000, and senior self-employed can earn €50,000-80,000 annually.
-
-**问：How can a third-country podiatrist immigrate to France?**
-答：First, obtain professional qualifications recognition (reconnaissance des qualifications). Then apply for a Talent Passport or Salarié visa.
-
-**问：What education is required to become a podiatrist in France?**
-答：A 3-year national diploma (DE de pédicure-podologue) is required, offered by universities or private schools with tuition around €10,000-15,000.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

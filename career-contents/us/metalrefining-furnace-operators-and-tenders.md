@@ -1,60 +1,94 @@
-# Metal-Refining Furnace Operators and Tenders（Metal-Refining Furnace Operators and Tenders）职业分析 · 美国
+# Metal-Refining Furnace Operators and Tenders — career analysis · United States
 
-**职业代码：51-4051 – Metal-Refining Furnace Operators and Tenders。**
+**Occupation code: 51-4051 (SOC)**
 
-Operate or tend furnaces (electric-arc, induction, etc.) to melt and refine metal before casting or produce specified steel types. Excludes heat treating equipment operators.
+Operate or tend metal refining furnaces (e.g., electric arc furnaces, induction furnaces) to melt, refine, and cast metals or produce specific steels. Excludes heat treatment equipment operators.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 高中毕业 | —（公立高中免费） |
-| 在职培训（1-12个月） | 1年以内 | —（雇主提供培训，可能自费安全认证） |
+| High school diploma or equivalent | High school graduation | $0~$0 (Public high schools are free) |
+| On-the-job training (1-12 months) | Less than 1 year | $0~$1,000 (Employer-provided training; may self-fund safety certifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育部 | 必备 | 通常要求 |
-| 职业技能证书（如焊接/冶金基础） | 社区学院或行业协会 | 可选 | 非强制但增加就业机会 |
+| High school diploma or equivalent | State Department of Education | Required | Usually required |
+| Vocational skills certificate (e.g., welding/metallurgy fundamentals) | Community colleges or industry associations | Optional | Not mandatory but increases employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 14,200。美国制造业回流趋势下，金属冶炼岗位需求稳定，但自动化替代风险中等。预计2023-2033年就业变化微小，年均开放约1,400个职位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 14,200. Under the trend of reshoring US manufacturing, demand for metal smelting jobs is stable, but automation substitution risk is moderate. Employment change is projected to be minimal from 2023-2033, with about 1,400 openings annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级薪资 |
-| 中级（3-7年） | $45,000~$56,000 | 经验丰富后 |
-| 高级（7年以上） | $56,000~$68,000 | 资深操作员或领班 |
+| Median salary | $54,430 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry-level salary |
+| Mid-level (3–7 years) | $45,000~$56,000 | After gaining experience. |
+| Senior (7+ years) | $56,000~$68,000 | Senior operator or team leader |
+| average salary | $55,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从炉前操作员起步，可晋升为班长、熔炼主管；积累经验后可转向冶金技师或质量控制岗位，需额外培训。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
+
+Starting as a furnace operator, can progress to team leader, smelting supervisor; with experience can move to metallurgical technician or quality control roles, requiring additional training.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating G-code and tool paths for simple workpieces
+- Online machining parameter optimisation based on sensor feedback
+- Quality inspection of standard parts and automatic defect labeling
+- Processing monitoring and abnormal alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted complex surface programming and simulation verification
+- Optimize fixtures and cutting parameters via digital twins
+- Integrate CAM with adaptive machining to improve efficiency
+- Use AI to predict tool life and optimize tool change timing
+- Remote collaboration and AR-assisted debugging of multi-axis machine tools
+
+**Human moat:**
+
+- Process design for difficult-to-machine materials like irregular and thin-walled parts
+- On-site judgment and manual intervention during processing anomalies
+- Jig and fixture design and non-standard part clamping solutions
+- Communicate with design and assembly teams to resolve tolerance issues
+
+**Skills to build:**
+
+- Multi-axis CNC programming and post-processing customization
+- Write automated macros using Python/Macro
+- Secondary development of CAM software (e.g., Fusion 360 API)
+- Industrial robot loading/unloading integration and commissioning
+- GD&T geometric tolerancing and precision measurement techniques
+- AI-assisted machining software (e.g., Mastercam AI Advisor)
+
+**Key growth areas:**
 
 - Manufacturing Reshoring
 - Automation
@@ -63,65 +97,67 @@ Operate or tend furnaces (electric-arc, induction, etc.) to melt and refine meta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 理论上可申请，但雇主需证明职位需要本科以上学历，实际困难。 |
-| Subclass Green Card (PERM)（EB-3 Skilled Worker） | 需PERM劳工证，但该职业不属于短缺职业，通过率低。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Theoretically possible, but employers need to prove the position requires a bachelor's degree or higher; practically difficult. |
+| Subclass Green Card (PERM) (EB-3 Skilled Worker) | Requires PERM labor certification, but this occupation is not a shortage occupation; low approval rate. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Metal-Refining Furnace Operators and Tenders？**
-- 动手能力强、适应高温环境
-- 愿意从事体力劳动和轮班
-- 对机械操作有耐心
+**Who is suited**
+- Hands-on and adaptable to high-temperature environments
+- Willing to engage in physical labor and shift work
+- Patience with mechanical operations.
 
-**谁不适合学Metal-Refining Furnace Operators and Tenders？**
-- 对高温、噪音敏感
-- 希望轻松的办公室工作
+**Who is not suited**
+- Sensitive to high temperature and noise
+- Desiring an easy office job
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for metal refining furnace operators?**
+A: According to BLS 2023 data, median annual salary is about $47,000, entry-level about $37,000, and senior up to $65,000.
+
+**Q: Is this occupation suitable for immigrating to the US via work visa?**
+A: Difficult. This occupation usually does not require a bachelor's degree or higher, H-1B approval risk is high, and PERM labor certification has a low approval rate due to non-shortage occupation.
+
+**Q: What is the future demand for this occupation?**
+A: BLS projects employment change from 2023-2033 of about -1% to 1%, little or no change. About 1,400 job openings each year.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Metal-Refining Furnace Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of metal-refining furnace operators?**
-答：As per BLS 2023, median annual wage ~$47,000; entry-level ~$37,000; experienced up to $65,000.
-
-**问：Is this occupation suitable for US work visa immigration?**
-答：Difficult. Typically no bachelor's requirement, making H-1B risky; PERM unlikely due to non-shortage status.
-
-**问：What is the future demand for this occupation?**
-答：BLS projects little change (0-1%) from 2023-2033; about 1,400 openings per year.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

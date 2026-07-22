@@ -1,60 +1,93 @@
-# Rolling Machine Setters, Operators, and Tenders, Metal and Plastic（Rolling Machine Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Rolling Machine Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4023 – Rolling Machine Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4023 (SOC)**
 
-Set up, operate, or tend rolling machines to form metal or plastic bends, beads, knurls, rolls, or plates, or to flatten, temper, or reduce gauge.
+Set up, operate, or tend metal or plastic rolling mills to perform shaping operations like bending, embossing, or rolling, or for flattening, tempering, or reducing material thickness.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 职业培训/学徒 | 1-2年 | $5,000~$20,000（社区学院或技术学校费用） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training/apprenticeship | 1-2 years | $5,000~$20,000 (Community college or technical school fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州教育部门 | 必备 | 通常要求 |
-| 在职培训 | 雇主 | 可选 | 通常为期数月 |
+| High school diploma or equivalent | State education department | Required | Usually required |
+| On-the-job training | Employer | Optional | Usually several months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 26,800。美国制造业就业整体平稳，但部分轧机岗位受自动化影响，预计2023-2033年就业变化为-1%至+1%，需具备机械技能。
+**Job demand: medium (★★½☆☆).** National workforce approx. 26,800. Overall manufacturing employment in the US is stable, but some mill positions are affected by automation; projected employment change from 2023-2033 is -1% to +1%, requiring mechanical skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 时薪约$15-20 |
-| 中级（3-7年） | $42,000~$54,000 | 时薪约$20-26 |
-| 高级（7年+） | $54,000~$68,000 | 时薪约$26-33 |
+| Median salary | $50,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Hourly wage about $15-20 |
+| Mid-level (3–7 years) | $42,000~$54,000 | Hourly wage approximately $20-26 |
+| Senior (7+ years) | $54,000~$68,000 | Hourly wage approximately $26-33 |
+| average salary | $53,220 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从操作员可晋升为高级操作员、班组长或质量检验员，进一步可成为生产主管或工艺工程师，需积累经验与机械知识。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive monitoring and adjustment tasks for rolling mill operators are easily replaced by AI and automation systems, but equipment maintenance and anomaly handling still require human experience; overall demand for positions will significantly shrink.
+
+Operators can advance to senior operator, team leader, or quality inspector, further to production supervisor or process engineer, requiring experience and mechanical knowledge.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of rolling parameters (temperature, speed, pressure) with automatic adjustment; AI systems can take over
+- Routine quality checks such as thickness and flatness; machine vision replaces manual inspection.
+- Set roller gap and pressure programs, and the automated system executes according to process parameters.
+- Record production data and generate reports; AI automates collection and analysis.
+
+**Where AI augments the role:**
+
+- AI predictive maintenance: early warning of equipment failure via sensor data, reducing downtime
+- Digital Twin Simulation: AI optimizes rolling process parameters to improve yield
+- Remote expert system: AI-assisted diagnosis of complex faults with solutions
+- Automated production scheduling: AI optimizes production sequence based on orders to improve efficiency
+
+**Human moat:**
+
+- Rapid diagnosis and repair of non-standard faults, relying on mechanical intuition and experience
+- Fine manual operations for roll changes and mold setup, requiring high dexterity
+- Flexible process adjustments for high-variety low-volume production cannot be fully pre-planned
+- On-site safety judgment and emergency stop decisions, involving personal safety responsibility
+
+**Skills to build:**
+
+- Industrial robot programming and maintenance (e.g., PLC, SCADA systems)
+- Data analysis basics: using Python/R to process sensor data
+- Knowledge of additive manufacturing/3D printing mold repair
+- Automatic control system integration and debugging skills
+- Quality management systems (e.g., ISO 9001) and statistical process control
+- Basic electrical and hydraulic principles to enhance cross-system maintenance capabilities
+
+**Key growth areas:**
 
 - Manufacturing
 - Metal Fabrication
@@ -63,65 +96,67 @@ Set up, operate, or tend rolling machines to form metal or plastic bends, beads,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求学士学位；少量可能用于技术岗位。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少用于该职业，需PERM劳工证证明劳工短缺。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable as this occupation does not require a bachelor's degree; a small number may be used for technical roles. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Rarely used for this occupation; requires a PERM labour certification to prove labour shortage. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Rolling Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机械的人
-- 能适应工厂噪音与体力劳动的人
-- 寻求稳定蓝领工作的人
+**Who is suited**
+- People who enjoy working with machinery
+- People who can adapt to factory noise and physical labor
+- People seeking stable blue-collar work
 
-**谁不适合学Rolling Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 希望高薪或快速晋升的人
-- 无法适应重复性体力劳动的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who cannot adapt to repetitive physical labor.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a mill operator?**
+A: According to BLS OEWS data, the median annual salary is about USD 46,000, entry-level around USD 37,000, and senior positions can exceed USD 60,000.
+
+**Q: Is it easy to immigrate to the US for this occupation?**
+A: Not easy. Generally does not meet H-1B educational requirements, and PERM labor certification for EB-3 green card is rare.
+
+**Q: What are the career advancement paths?**
+A: Can advance to senior operator, team leader, production supervisor, or quality inspector; a few may transfer to process technician roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Rolling Machine Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for rolling machine operators?**
-答：According to BLS OEWS, median annual wage is about $46,000, entry-level around $37,000, and experienced up to $60,000+.
-
-**问：Is this occupation easy for immigration to the US?**
-答：No. It typically does not meet H-1B degree requirements, and EB-3 green card via PERM is rare.
-
-**问：What are the career advancement paths?**
-答：Opportunities include senior operator, shift supervisor, production manager, or quality inspector; some move to process technician roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

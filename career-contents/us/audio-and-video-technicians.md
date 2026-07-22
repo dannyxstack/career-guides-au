@@ -1,59 +1,92 @@
-# Audio and Video Technicians（Audio and Video Technicians）职业分析 · 美国
+# Audio and Video Technicians — career analysis · United States
 
-**职业代码：27-4011 – Audio and Video Technicians。**
+**Occupation code: 27-4011 (SOC)**
 
-Set up, operate, and maintain audio and video equipment for live or recorded events such as concerts, meetings, and podcasts.
+Responsible for setting up, operating, and maintaining audio and video equipment (e.g., microphones, speakers, cameras, mixing consoles) for live or recorded events (e.g., concerts, conferences, podcasts).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位或同等经验 | 2年 | $10,000~$30,000（社区学院或技术学校学费） |
-| 职业认证课程 | 6个月至1年 | $2,000~$10,000（如Avid认证或SBE认证） |
+| Associate degree or equivalent experience | 2 years | $10,000~$30,000 (Community college or technical school tuition) |
+| Vocational certification courses | 6 months to 1 year | $2,000~$10,000 (e.g., Avid certification or SBE certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 持证广播工程师（CBT） | 广播工程师协会（SBE） | 可选 | 无强制性要求，但可提升竞争力 |
-| Avid Pro Tools认证 | Avid | 可选 | 常用于音频后期制作 |
-| 高空作业证书 | OSHA | 可选 | 安装悬挂设备时可能需要 |
+| Certified Broadcast Engineer (CBT) | Society of Broadcast Engineers (SBE) | Optional | No mandatory requirements, but can enhance competitiveness |
+| Avid Pro Tools certification | Avid | Optional | Commonly used in audio post-production |
+| Elevated work platform certificate | OSHA | Optional | May be required when installing hanging equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。美国劳工统计局预计2023-2033年就业增长约8%，快于平均水平。广播、流媒体和现场活动需求推动增长，竞争激烈但具备专业认证者更有优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. The US Bureau of Labor Statistics projects about 8% employment growth from 2023-2033, faster than average. Growth is driven by demand in broadcasting, streaming, and live events. Competition is strong, but those with professional certifications have an advantage.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 入门级职位，多为合同工 |
-| 中级（3-7年） | $45,000~$65,000 | 具备独立操作能力 |
-| 高级（7年以上） | $65,000~$85,000 | 主管或技术经理角色 |
+| Median salary | $58,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Entry-level positions, mostly contract work |
+| Mid-level (3–7 years) | $45,000~$65,000 | Capable of independent operation. |
+| Senior (7+ years) | $65,000~$85,000 | Supervisor or technical manager role |
+| average salary | $64,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 初级技术员可通过积累经验晋升为技术主管、项目经理或系统工程师。也可转向专业领域如广播工程、现场活动制作或影视后期。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is compressing basic equipment operation roles but enhancing creative mixing and remote production capabilities; entry-level narrows but advanced positions gain value.
+
+Junior technicians can advance to technical supervisor, project manager, or systems engineer through experience. They can also specialize in broadcast engineering, live event production, or post-production.
+
+**Tasks most exposed to AI:**
+
+- AI auto-tuning and mixing processing
+- Automated subtitle generation and speech-to-text
+- AI-driven video editing and scene transitions
+- Standardized equipment status monitoring and fault prediction
+
+**Where AI augments the role:**
+
+- AI real-time sound quality optimization and feedback suppression
+- AI-assisted multi-camera automatic tracking
+- AI generates personalised audio/video effect templates
+- AI automatically generates live captions and multilingual translations
+- AI analyzes audience emotions to adjust content pacing
+
+**Human moat:**
+
+- Complex sound field design and creative tuning aesthetic
+- On-site emergency response ability
+- Art coordination and multi-departmental collaboration communication
+- Emotional storytelling and director intent understanding
+
+**Skills to build:**
+
+- AI audio/video tool operation (e.g., Adobe Sensei, DaVinci Resolve AI)
+- Immersive audio technology (Dolby Atmos, spatial audio)
+- Real-time remote production and cloud collaboration platforms
+- Basic programming (Python, Max/MSP)
+- Data analysis and interpretation of audience feedback
+
+**Key growth areas:**
 
 - Live events
 - Streaming
@@ -62,69 +95,68 @@ Set up, operate, and maintain audio and video equipment for live or recorded eve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于需要学士学位或同等经验的职位，但竞争激烈，需抽签。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在音频/视频领域有杰出成就的技术人员，无配额限制。 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 需PERM劳工证，适合拥有硕士及以上学位或突出能力者。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-2/EB-3)） | 通过雇主担保申请绿卡，需证明劳工短缺。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to positions requiring a bachelor's degree or equivalent experience, but competitive and subject to lottery. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For technicians with outstanding achievements in audio/video fields, no quota limit. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | PERM labor certification required, suitable for those with master's degree or higher or outstanding abilities. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Sponsorship for a green card requires proving labor shortage. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Audio and Video Technicians？**
-- 喜欢技术操作和现场活动
-- 动手能力强，能处理高压环境
-- 愿意灵活排班，包括晚间和周末
-
-**谁不适合学Audio and Video Technicians？**
-- 不喜欢不规律的工作时间
-- 对物理体力要求敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy technical operations and live events
+- Strong hands-on ability, able to handle high-pressure environments
+- Willing to work flexible shifts, including evenings and weekends
+
+**Who is not suited**
+- Dislike irregular working hours
+- Sensitive to physical demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for audio and video technicians?**
+A: Junior salary around $30,000-$45,000 USD, mid-level $45,000-$65,000, senior can reach $85,000. Experience and high skills can significantly increase income.
+
+**Q: What visa do foreigners mainly use to work as audio and video technicians in the US?**
+A: Common pathways include the H-1B specialty occupation visa (subject to lottery), O-1 visa for individuals with extraordinary ability (no quota), and EB-2/EB-3 employment-based green cards.
+
+**Q: What education background is required to become an audio and video technician?**
+A: Typically requires an associate degree or equivalent work experience; technical school courses or certifications can also improve job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Audio and Video Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for audio and video technicians?**
-答：Entry-level salaries range from $30,000 to $45,000, mid-level from $45,000 to $65,000, and senior positions up to $85,000 annually.
-
-**问：What visas are common for foreign audio and video technicians in the US?**
-答：Common paths include H-1B specialty occupation visa (lottery-based), O-1 extraordinary ability visa (no cap), and EB-2/EB-3 employment-based green cards.
-
-**问：What education is required to become an audio and video technician?**
-答：Typically an associate degree or equivalent experience; vocational programs and certifications also help.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

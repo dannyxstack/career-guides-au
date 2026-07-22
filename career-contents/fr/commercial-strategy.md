@@ -1,60 +1,96 @@
-# Commercial Strategy（Commercial Strategy）职业分析 · FR
+# Commercial Strategy — career analysis · France
 
-**职业代码：M1707 – Commercial Strategy。**
+**Occupation code: M1707 (ROME)**
 
-Commercial strategy professionals develop and execute business growth plans, analyze market trends, optimize sales channels, and enhance competitiveness, working closely with sales, marketing, and product teams.
+Business strategy experts are responsible for formulating and executing a company's business development plan, analyzing market trends, optimizing sales channels, and enhancing the company's competitiveness. This position typically works closely with sales, marketing, and product teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（Licence） | $300~$8,000（公立大学学费约300-800欧元/年，商学院约8000欧元/年） |
-| 硕士 | 2年（Master） | $300~$15,000（公立大学约300-500欧元/年，商学院约15000欧元/年） |
-| 学徒制 | 1-2年（Apprentissage） | —（企业支付学费，学生获得工资） |
+| Bachelor's degree | 3 years (Licence) | $300~$8,000 (Public university tuition is about 300-800 euros per year, and business school tuition is about 8,000 euros per year) |
+| Master's degree | 2 years (Master) | $300~$15,000 (Public universities about €300-500/year, business schools about €15,000/year) |
+| Apprenticeship | 1-2 years (Apprentissage) | $0~$10,000 (Businesses pay tuition, and students receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业/管理学位 | 法国大学或商学院 | 必备 | Licence或Master在商业/管理领域 |
-| 项目管理认证 | PMI或PRINCE2 | 可选 | 非必须但有助于晋升 |
-| 数字营销认证 | Google或HubSpot | 可选 | 非必须，增强竞争力 |
+| Business/Management degree | French universities or business schools | Required | Licence or Master's in business/management |
+| Project management certification. | PMI or PRINCE2 | Optional | Not mandatory, but helpful for promotion |
+| Digital marketing certification | Google or HubSpot | Optional | Non-essential, enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国数字化转型推动商业策略岗位需求增长，尤其在电商、科技和咨询领域。预计2025年前就业机会增加约10%，受经济波动影响较小。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's digital transformation is driving growth in demand for business strategy positions, especially in e-commerce, technology, and consulting. Job opportunities are expected to increase by about 10% before 2025, with little impact from economic fluctuations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪 |
-| 高级（7年以上） | $75,000~$100,000 | 税前年薪 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$70,000 | Annual pre-tax salary |
+| Senior (7+ years) | $75,000~$100,000 | Annual pre-tax salary |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级商业分析师可晋升为商业策略经理，再至总监或副总裁。也可转向产品管理、业务开发或创业。积累跨行业经验有利于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
+
+Junior Business Analysts can be promoted to Business Strategy Manager, then to Director or Vice President. You can also shift to product management, business development, or entrepreneurship. Gaining cross-industry experience benefits career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting and cleaning business data from CRM/ERP systems
+- Generate visual dashboards and periodic reports
+- Drafting basic requirement documents and filling templates
+- Automated data scraping and comparative analysis of market competitors
+- Automated diagnosis of process bottlenecks (e.g., time-motion analysis)
+
+**Where AI augments the role:**
+
+- Use AI to simulate financial impacts of different business strategies, accelerating iteration
+- Rapid insights from unstructured data via natural language queries
+- AI-assisted sentiment and semantic analysis of complex stakeholder interviews
+- Automatically generate preliminary solution frameworks; analysts focus on key assumption validation
+- Using AI to monitor business indicator anomalies in real time, providing early warnings for opportunities and risks
+
+**Human moat:**
+
+- Cross-departmental interest coordination and change management skills
+- Unstructured problem definition skills for ambiguous business issues
+- Understanding organizational politics and implicit needs in negotiations
+- High-level strategic communication and persuasion
+- Ethical judgment and human verification responsibility for AI outputs
+
+**Skills to build:**
+
+- Data storytelling and visualization (Tableau/Power BI + business narrative)
+- AI toolchains (e.g., ChatGPT, Copilot, AutoML platforms)
+- Basic Python/R data cleaning and automation
+- Cloud collaboration and project management tools (Jira, Confluence, Miro)
+- Agile/lean methodology practices integrated with AI.
+- Domain knowledge (e.g., healthcare, government, finance)
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce
@@ -63,68 +99,67 @@ Commercial strategy professionals develop and execute business growth plans, ana
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需年薪≥53,955欧元（2023标准） |
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，工作许可与雇主绑定 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高技能人才，需年薪≥53,955欧元 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with an annual salary of ≥53,955 euros (2023 standard) |
+| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required, and the work permit is bound to the employer |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talent, with an annual salary of ≥53,955 euros |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commercial Strategy？**
-- 擅长数据分析和市场研究的人士
-- 有商业敏感度和战略思维者
-- 希望在跨国企业或咨询公司发展的人
-
-**谁不适合学Commercial Strategy？**
-- 不喜欢数字和分析工作的人
-- 缺乏主动性和创新能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals skilled in data analysis and market research
+- Business-savvy and strategic thinkers
+- People who wish to develop in multinational corporations or consulting firms
+
+**Who is not suited**
+- People who do not like numbers and analytical work
+- People who lack initiative and innovation
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for business strategists in France?**
+A: Entry-level salary is about 35,000-45,000 euros, intermediate 50,000-70,000 euros, and senior 75,000-100,000 euros (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to France through business strategy positions?**
+A: Can apply via Talent Passport or EU Blue Card, requiring annual salary ≥€53,955 and employer sponsorship.
+
+**Q: What is the career development path for business strategists?**
+A: You can rise from junior analyst to manager or director, or move into product management or business development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Commercial Strategy的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for commercial strategists in France?**
-答：Junior: €35,000-45,000; Mid-level: €50,000-70,000; Senior: €75,000-100,000 (gross annual).
-
-**问：How can non-EU citizens immigrate to France via a commercial strategy role?**
-答：Via Talent Passport or EU Blue Card, requiring annual salary ≥€53,955 and employer sponsorship.
-
-**问：What is the career progression for commercial strategists?**
-答：From junior analyst to manager, director, or pivot to product management or business development.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

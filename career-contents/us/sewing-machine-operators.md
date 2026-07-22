@@ -1,59 +1,93 @@
-# Sewing Machine Operators（Sewing Machine Operators）职业分析 · 美国
+# Sewing Machine Operators — career analysis · United States
 
-**职业代码：51-6031 – Sewing Machine Operators。**
+**Occupation code: 51-6031 (SOC)**
 
-Sewing machine operators operate or tend sewing machines to join, reinforce, decorate, or perform related sewing operations in the manufacture of garment or nongarment products. Typically work in manufacturing settings with repetitive precision tasks.
+Sewing machine operators operate or tend sewing machines to stitch, reinforce, decorate, or perform related sewing operations for manufacturing garments or non-garment products. Typically work in a manufacturing environment, requiring repetitive fine motor tasks.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立学校免费） |
-| 在职培训 | 3-6个月 | —（雇主提供，通常无费用） |
+| High school diploma | 4 years | $0~$0 (Free public schools.) |
+| On-the-job training | 3-6 months | $0~$500 (Provided by employer, usually no cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 教育机构 | 可选 | 通常要求，但非强制 |
+| High school diploma or equivalent | Educational institution | Optional | Usually required, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 86,000。美国劳工统计局预测，2022-2032年缝纫机操作员就业将下降6%，主要因自动化和海外生产转移。但定制服装和修复服务或提供少量机会。工资中位数约30,000美元/年。
+**Job demand: low (★½☆☆☆).** National workforce approx. 86,000. The US Bureau of Labor Statistics projects a 6% decline in sewing machine operator employment from 2022 to 2032, mainly due to automation and overseas production shifts. However, custom clothing and repair services may offer limited opportunities. Median wage is about $30,000 per year.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 时薪约11.5-14美元 |
-| 中级（3-7年） | $29,000~$35,000 | 时薪约14-17美元 |
-| 高级（7年以上） | $35,000~$42,000 | 时薪约17-20美元 |
+| Median salary | $36,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$29,000 | Hourly wage approximately $11.5-14 |
+| Mid-level (3–7 years) | $29,000~$35,000 | Hourly wage about $14-$17 |
+| Senior (7+ years) | $35,000~$42,000 | Hourly wage about $17-20 |
+| average salary | $37,600 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★☆☆☆☆）。** 职业晋升路径有限，可向缝纫主管、样板师或质量控制员发展。部分经验者可转向服装设计或设备维修。小规模定制工坊或提供更多自主空间。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Sewing machine operators face high automation risk; AI and robots will replace many repetitive sewing tasks. Entry-level roles will decrease significantly, but maintenance and programming jobs may increase.
+
+Limited career progression; can advance to sewing supervisor, pattern maker, or quality controller. Experienced individuals may shift to apparel design or equipment repair. Small custom workshops may offer more autonomy.
+
+**Tasks most exposed to AI:**
+
+- Repetitive straight-line suturing operations
+- Automatic sewing of simple patterns
+- Fabric cutting and alignment
+- Defect identification in quality inspection
+- Basic sewing machine maintenance
+
+**Where AI augments the role:**
+
+- Using AI sewing machines to program complex patterns
+- Optimising sewing processes using computer-aided design (CAD)
+- Monitors machine status through IoT for predictive maintenance
+- Use automated systems for material management
+
+**Human moat:**
+
+- Handle complex, delicate special fabrics
+- Custom, high-precision hand stitching
+- Machine fault diagnosis and advanced repair
+- Understand customer needs and provide creative solutions
+
+**Skills to build:**
+
+- Digital sewing machine programming and operation
+- CAD/CAM software applications
+- Automated system troubleshooting
+- IoT fundamentals and data analysis
+- Materials science knowledge
+- Project management and coordination
+
+**Key growth areas:**
 
 - Automation Impact
 - Offshore Manufacturing
@@ -62,62 +96,64 @@ Sewing machine operators operate or tend sewing machines to join, reinforce, dec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 理论上可行，但缝纫机操作通常不满足‘专业职业’要求，极少使用。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 雇主需证明无法招到美国工人，但该职业劳工证批准量极少。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Theoretically possible, but sewing machine operation usually does not meet 'professional occupation' requirements and is rarely used. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Employers must demonstrate inability to hire US workers, but labor certification approvals for this occupation are very low. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sewing Machine Operators？**
-- 注重细节、手巧且能适应重复性工作的人
-- 希望获得初始制造业工作经验的人
-- 对服装制作或修复有兴趣的人
+**Who is suited**
+- People who are detail-oriented, dexterous, and able to handle repetitive work
+- Those seeking initial manufacturing work experience
+- People interested in garment making or repair
 
-**谁不适合学Sewing Machine Operators？**
-- 追求高收入或职业晋升机会的人
-- 不喜欢久坐或单调任务的人
+**Who is not suited**
+- Those seeking high income or career advancement opportunities
+- Those who dislike sedentary or monotonous tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for sewing machine operators in the US?**
+A: Annual income typically ranges from USD 24,000 to USD 42,000, with a median of about USD 30,000. Salary is affected by region, experience, and industry.
+
+**Q: Can Sewing Machine Operators immigrate to the US through work?**
+A: Very difficult. This occupation typically does not meet H-1B 'specialty occupation' requirements, and EB-3 green cards require PERM labor certification, but employers struggle to prove labor shortage. Very few successful cases.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较差（★☆☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Sewing Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sewing machine operators in the US?**
-答：Annual income typically ranges from $24,000 to $42,000, with a median around $30,000. Salary varies by location, experience, and industry.
-
-**问：Can a sewing machine operator immigrate to the US through work?**
-答：Very difficult. The occupation usually does not qualify as a specialty occupation for H-1B, and EB-3 green card requires PERM labor certification, which is rarely approved due to lack of shortage evidence.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

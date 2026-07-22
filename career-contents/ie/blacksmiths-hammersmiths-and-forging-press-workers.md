@@ -1,60 +1,92 @@
-# Blacksmiths, Hammersmiths and Forging Press Workers（Blacksmiths, Hammersmiths and Forging Press Workers）职业分析 · IE
+# Blacksmiths, Hammersmiths and Forging Press Workers — career analysis · Ireland
 
-**职业代码：7221 – Blacksmiths, Hammersmiths and Forging Press Workers。**
+**Occupation code: 7221 (ISCO08)**
 
-Blacksmiths, hammersmiths and forging press workers shape and forge metal, serving traditional craft and industrial manufacturing sectors in Ireland.
+Blacksmiths, hammersmiths, and press operators perform metal forging and shaping work, with some demand in Ireland's manufacturing and construction industries; this is a traditional craft skill.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（学徒制） | —（学徒培训期间可获工资，部分课程由SOLAS资助） |
-| 高级证书/学士 | 2-4年 | $3,000~$12,000（部分理工学院提供金属加工或工程类课程） |
+| High school graduation | 4 years (apprenticeship) | $0~$5,000 (Apprentices may receive wages during training, with some courses funded by SOLAS) |
+| Advanced certificate/bachelor's degree | 2-4 years | $3,000~$12,000 (Some polytechnics offer metalworking or engineering courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属加工学徒证书 | SOLAS | 可选 | 完成注册学徒培训并通过考试 |
-| 国家高级证书（金属制造） | QQI | 可选 | 相关专业高等教育证书 |
+| Metal engineering apprenticeship certificate | SOLAS | Optional | Complete registered apprenticeship training and pass the exam. |
+| National Advanced Certificate (Metal Fabrication). | QQI | Optional | Higher education certificate in a related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。爱尔兰制造业和建筑业对锻造技能的需求稳定，但受自动化和外包影响，就业增长缓慢，主要集中在定制和修复领域。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The demand for forging skills in Ireland's manufacturing and construction sectors is stable, but employment growth is slow due to automation and outsourcing, mainly focused on custom and repair areas.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒或初级工 |
-| 中级（3-7年） | $32,000~$42,000 | 熟练锻造工 |
-| 高级（7年以上） | $42,000~$55,000 | 高级工匠或主管 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | apprentice or entry-level worker |
+| Mid-level (3–7 years) | $32,000~$42,000 | skilled forger |
+| Senior (7+ years) | $42,000~$55,000 | Senior craftsman or supervisor |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业晋升路径通常从学徒制开始，逐步晋升为高级工匠或车间主管，部分可向金属工艺设计或技术培训方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will partially replace repetitive forging and operational tasks for blacksmiths, but skills like handcrafting, creative design, and quality control are hard to replace, resulting in a mixed outlook.
+
+Career progression typically starts with an apprenticeship, advancing to senior technician or workshop supervisor, with some moving into metalwork design or technical training.
+
+**Tasks most exposed to AI:**
+
+- Repetitive press operation is automated by CNC forging presses.
+- Simple hammering and forming processes are replaced by robotic arms
+- Metal heating temperature monitoring, automatically adjusted by sensors and AI
+- Standardized parts batch production taken over by automated forging lines
+
+**Where AI augments the role:**
+
+- Simulation and optimization of complex forging processes, AI-assisted design of molds and procedures
+- Real-time quality inspection and defect prediction, AI analysis of forging parameters
+- Customized design, AI-generated personalized metal product solutions
+- Predictive maintenance of equipment; AI monitors machine status to reduce downtime
+
+**Human moat:**
+
+- Artistry and customisation creativity in manual forging
+- Ability to flexibly handle irregular and non-standard parts.
+- Deep experience and intuitive judgment in metal material properties
+- Cultural heritage and customer trust in traditional crafts
+
+**Skills to build:**
+
+- CNC forging press programming and operation
+- CAD/CAM Mold Design and Simulation
+- Knowledge of materials science and metallurgy
+- Robot collaboration and automation system maintenance.
+- Use of digital twin and process optimization software
+
+**Key growth areas:**
 
 - Metal Fabrication
 - Traditional Crafts
@@ -63,64 +95,66 @@ Blacksmiths, hammersmiths and forging press workers shape and forge metal, servi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达30000欧元以上 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/瑞士公民可自由工作，无需签证 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires employer sponsorship, annual salary must exceed 30,000 euros. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/Swiss citizens can work freely without a visa |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Blacksmiths, Hammersmiths and Forging Press Workers？**
-- 对金属锻造有浓厚兴趣的手工艺爱好者
-- 偏好动手操作、独立工作的人
+**Who is suited**
+- Handicraft enthusiasts passionate about metal forging.
+- Prefers hands-on, independent work
 
-**谁不适合学Blacksmiths, Hammersmiths and Forging Press Workers？**
-- 追求高薪和快速晋升的人
-- 无法适应体力劳动和工作环境的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Not suitable for those who cannot adapt to physical labor and work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in Ireland?**
+A: Junior: about 25,000-32,000 euros, intermediate: about 32,000-42,000 euros, senior: up to 55,000 euros.
+
+**Q: How can non-EU citizens immigrate to engage in this occupation?**
+A: This occupation is not on the shortage list; a General Employment Permit is usually required, with an annual salary not less than 30,000 euros.
+
+**Q: What training is needed to enter this industry?**
+A: Typically through a 4-year apprenticeship or completion of an advanced certificate in metal fabrication.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Blacksmiths, Hammersmiths and Forging Press Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Ireland?**
-答：Entry-level €25,000-€32,000, mid-level €32,000-€42,000, senior up to €55,000.
-
-**问：How can non-EU citizens immigrate for this occupation?**
-答：This occupation is not on the shortage list; apply for a General Employment Permit with minimum salary of €30,000.
-
-**问：What training is required to enter this field?**
-答：Typically a 4-year apprenticeship or a higher certificate in metal fabrication.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

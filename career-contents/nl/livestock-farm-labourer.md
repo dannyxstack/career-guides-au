@@ -1,60 +1,96 @@
-# Livestock Farm Labourer（Livestock Farm Labourer）职业分析 · NL
+# Livestock Farm Labourer — career analysis · Netherlands
 
-**职业代码：9212 – Livestock Farm Labourer。**
+**Occupation code: 9212 (ISCO08)**
 
-Performs basic tasks such as feeding, watering, cleaning, and caring for livestock on farms, including dairy, pig, and poultry operations.
+Farm laborers involved in livestock feeding, watering, cleaning, and basic care, typically working on dairy, pig, or poultry farms.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | $2,000~$6,000（学费因学校和课程而异，政府补贴后较低） |
-| 短期培训 | 6个月 | $500~$2,000（由农业培训中心提供，部分可获补贴） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $2,000~$6,000 (Tuition fees vary by school and course; government subsidies make them relatively low) |
+| Short-term training | 6 months. | $500~$2,000 (Offered by agricultural training centres, some with subsidies available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础动物护理证书 | Aequor | 可选 | 行业认可的基础培训证书，非强制但有用 |
-| 拖拉机驾驶执照 | CBR | 必备 | 操作农用车辆需持有，法律要求 |
+| Tractor Driving License | CBR | Required | Required for operating agricultural vehicles, legally mandated |
+| Certificate in Basic Animal Care | Aequor | Optional | Industry-recognised foundational training certificate, not mandatory but useful |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰农业高度机械化，但牲畜护理仍需人工。行业整体就业稳定，受出口需求影响。劳动力老龄化带来一定缺口，但移民需求有限。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Dutch agriculture is highly mechanized, but livestock care still requires manual labor. The industry overall has stable employment, influenced by export demand. An aging workforce creates some gaps, but immigration needs are limited.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $28,000~$33,000 | 税前年薪，取决于农场规模 |
-| 高级（7年以上） | $33,000~$38,000 | 税前年薪，含主管职责 |
+| Median salary | $30,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $28,000~$33,000 | Annual pre-tax salary, depends on the size of the farm |
+| Senior (7+ years) | $33,000~$38,000 | Annual salary before tax, including supervisory duties |
+| average salary | $30,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从普通工人晋升为高级饲养员或农场主管，少数可成为独立农场主或农业顾问。需积累经验并参加短期培训提升技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fruit farm workers will face mixed effects from AI and automation: repetitive tasks like picking and sorting may be replaced, but field management and quality assessment still require human experience, and emerging technologies like smart monitoring will improve efficiency.
+
+Starting as a general worker, you can advance to senior stockman or farm supervisor, a few may become independent farmers or agricultural consultants. Requires gaining experience and attending short training courses to improve skills.
+
+**Tasks most exposed to AI:**
+
+- Using machine vision and robotic arms for automated fruit picking
+- Automatic grading and sorting based on sensor data
+- Precision fertilization and spraying via drones or robots
+- Use automated irrigation systems to regulate water volume based on soil moisture
+- Data processing platform automatically records output and growth indicators
+
+**Where AI augments the role:**
+
+- AI-assisted pest and disease identification system helps workers make quick decisions
+- Smart wearable devices provide real-time feedback and guidance on picking efficiency
+- Data analysis platforms optimize harvesting routes and labor allocation
+- Augmented Reality (AR)-assisted pruning and shaping training
+- Market forecasting tools guide crop variety selection and market timing
+
+**Human moat:**
+
+- Subtle visual and tactile judgment of fruit ripeness
+- Ability to handle abnormal situations (e.g., sudden pest outbreaks, weather changes)
+- Interpersonal communication and negotiation with farmers and wholesalers
+- Long-term accumulated local farming and soil experience
+- Complex manual operations such as fine pruning and grafting
+
+**Skills to build:**
+
+- Operate and maintain agricultural drones and robots
+- Use agricultural management software and data analysis tools
+- Basic programming skills to adjust automated equipment
+- Data-driven precision agriculture decision-making methods
+- Awareness and ability to continuously learn new agricultural technologies
+- Cross-disciplinary knowledge (e.g., IoT, sensors)
+
+**Key growth areas:**
 
 - Sustainable livestock farming
 - Precision agriculture
@@ -63,62 +99,64 @@ Performs basic tasks such as feeding, watering, cleaning, and caring for livesto
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但本职业通常不符合薪资门槛，极少使用。 |
-| Subclass Seasonal Work Visa（Seasonal Work Permit） | 适用于短期季节性农场工作，最长6个月，需雇主担保。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration, but this occupation usually does not meet the salary threshold and is rarely used. |
+| Subclass Seasonal Work Visa (Seasonal Work Permit) | Suitable for short-term seasonal farm work, up to 6 months, requiring employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Livestock Farm Labourer？**
-- 吃苦耐劳，能从事户外体力劳动
-- 喜欢与动物打交道
-- 愿意居住在乡村地区
+**Who is suited**
+- Hardworking and able to perform outdoor physical labor
+- Enjoy working with animals
+- Willing to live in a rural area.
 
-**谁不适合学Livestock Farm Labourer？**
-- 不喜爱体力劳动或户外工作
-- 寻求高薪或快速晋升
+**Who is not suited**
+- Does not like physical labor or outdoor work.
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a livestock farm worker?**
+A: Junior workers earn about €24,000-28,000 annually, while senior workers can earn up to €38,000.
+
+**Q: How can non-EU citizens get a work visa for a livestock farm in the Netherlands?**
+A: Primarily through seasonal work visas (up to 6 months), or by negotiating with employers to apply for skilled migration (requires meeting salary threshold, usually not applicable).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Livestock Farm Labourer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for livestock farm labourers?**
-答：Entry-level workers earn around EUR 24,000-28,000 per year, while senior workers can earn up to EUR 38,000.
-
-**问：How can non-EU citizens obtain a visa for livestock farm work in the Netherlands?**
-答：Mostly via seasonal work permits (up to 6 months) or, rarely, through the Highly Skilled Migrant scheme if salary criteria are met.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

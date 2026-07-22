@@ -1,60 +1,94 @@
-# Coating, Painting, and Spraying Machine Setters, Operators, and Tenders（Coating, Painting, and Spraying Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Coating, Painting, and Spraying Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-9124 – Coating, Painting, and Spraying Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-9124 (SOC)**
 
-Set up, operate, or tend spraying or rolling machines to coat products with lacquer, paint, enamel, or rust-proofing materials. Includes auto body painters.
+Set up, operate, or monitor spraying or coating machines to apply paint, glaze, anti-rust materials, etc., on glass, ceramics, metal, plastic, and other products, including car body spray painters.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中或同等学历 | 无固定年限 | —（通常要求高中文凭，部分在岗培训） |
-| 职业培训/证书 | 6个月至1年 | $2,000~$8,000（社区学院或技校的喷涂技术课程） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Typically requires a high school diploma, some on-the-job training) |
+| Vocational training/certificate | 6 months to 1 year | $2,000~$8,000 (Spray painting technology courses at community colleges or technical schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 高中 | 必备 | 基本入职要求 |
-| 喷涂认证 | 如ASE或NACE | 可选 | 非强制但提升竞争力 |
+| High school diploma | High school | Required | Basic entry requirements |
+| Spray painting certification | Such as ASE or NACE | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 91,200。美国制造业温和复苏，但自动化替代风险中等。运输设备涂装领域需求稳定，整体就业增速略低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 91,200. U.S. manufacturing is moderately recovering, but automation replacement risk is moderate. Demand in transport equipment painting is stable, with overall employment growth slightly below average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,780~$35,000 | 时薪约13.8-16.8美元 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约16.8-21.6美元 |
-| 高级（7年以上） | $45,000~$58,000 | 时薪约21.6-27.9美元 |
+| Median salary | $48,250 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,780~$35,000 | Hourly wage approximately $13.8-16.8 |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage approx. $16.8-$21.6. |
+| Senior (7+ years) | $45,000~$58,000 | Hourly wage about $21.6-27.9 |
+| average salary | $52,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从操作员晋升为高级操作员、班组长或质量控制员。部分积累经验后转向自动化设备编程或维修岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Coating and spraying machine operators have mixed prospects: AI optimizes paths and defect detection to improve efficiency, but robot automation is gradually replacing routine operations; meanwhile, custom fine work and complex equipment maintenance still require human skills.
+
+Can advance from operator to senior operator, team leader, or quality controller. Some accumulate experience and transition to automation equipment programming or maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive spraying tasks: AI robots automatically spray standard workpieces according to preset programs
+- Quality inspection: computer vision real-time monitoring of coating thickness and defects, automatic adjustments
+- Material mixing and proportioning: automated systems precisely control pigments and solvents according to formulas
+- Production planning: AI optimizes batch size and sequence to reduce color change time
+
+**Where AI augments the role:**
+
+- Complex curved surface spray path planning: AI-assisted optimal trajectory design to improve uniformity
+- Fault prediction and maintenance: sensor data-driven prediction of mechanical failures to reduce downtime
+- Personalized customization: AI quickly generates customer-requested patterns and color schemes
+- Safety monitoring: AI identifies harmful gas leaks or fire risks, enhancing protection
+- Remote collaboration: AR glasses with AI guidance assist novices in complex setups
+
+**Human moat:**
+
+- Fine manual finishing: tactile control of spray distance and pressure—difficult for AI to replicate
+- Process innovation: develop new paint formulations and spraying processes, requiring materials science experience
+- Complex equipment integration: debugging multi-robot collaboration, resolving unexpected interruptions
+- On-site problem solving: immediate adjustments for substrate defects or environmental changes
+
+**Skills to build:**
+
+- Robot programming and maintenance (e.g., Fanuc, ABB robot systems)
+- Computer Vision Basics (for quality inspection and path planning)
+- Data analysis and predictive maintenance (Python, sensor logs)
+- AR/VR-assisted operation and training
+- New coating chemistry knowledge (UV curing, water-based coatings)
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,65 +97,67 @@ Set up, operate, or tend spraying or rolling machines to coat products with lacq
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求，极少申请 |
-| Subclass EB-3（EB-3 Skilled Workers/Other Workers） | 需要雇主担保PERM，但该职业通常被归为其他工人，名额极紧 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not meeting professional occupation requirements, rarely applied |
+| Subclass EB-3 (EB-3 Skilled Workers/Other Workers) | Requires employer-sponsored PERM, but the occupation is usually classified as 'other worker' with extremely tight quota. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coating, Painting, and Spraying Machine Setters, Operators, and Tenders？**
-- 细心、有耐心、能忍受重复性工作
-- 喜欢动手操作，不介意油漆气味和工作环境
-- 寻求稳定工作且不追求高薪者
+**Who is suited**
+- Detail-oriented, patient, and able to tolerate repetitive work
+- Enjoys hands-on work, not bothered by paint fumes or the work environment
+- Seeking stable work and not pursuing high salary
 
-**谁不适合学Coating, Painting, and Spraying Machine Setters, Operators, and Tenders？**
-- 希望快速移民美国者
-- 对化学气味敏感或追求创新性工作的人
+**Who is not suited**
+- Those hoping to immigrate to the US quickly
+- Those sensitive to chemical odors or seeking innovative work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a spray painting machine operator in the US?**
+A: According to BLS 2023 data, median annual salary is about $41,000 USD, entry-level below $30,000, senior can exceed $55,000.
+
+**Q: Can this occupation immigrate to the US through H-1B or green card?**
+A: Very difficult. This occupation is usually not considered a professional occupation, and H-1B approvals are rare. EB-3 green cards require PERM, but it falls under other worker categories with extremely long backlogs and require employer sponsorship.
+
+**Q: Are there advancement opportunities for spray painting operators?**
+A: Can advance to senior operator, team leader, or quality inspector. Can also transition to equipment maintenance or programming by learning automation programming.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Coating, Painting, and Spraying Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for coating machine operators in the US?**
-答：According to BLS 2023 data, median annual wage is about $41,000; entry-level below $30,000; experienced over $55,000.
-
-**问：Can this occupation lead to H-1B or green card immigration?**
-答：Highly unlikely. It does not qualify as a specialty occupation for H-1B. EB-3 green card requires PERM but is backlogged for other workers.
-
-**问：Is there career advancement for coating machine operators?**
-答：Yes, to senior operator, team lead, or quality inspector. With additional training, may move into automation programming or maintenance.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

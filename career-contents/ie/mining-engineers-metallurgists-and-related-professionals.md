@@ -1,60 +1,96 @@
-# Mining Engineers, Metallurgists and Related Professionals（Mining Engineers, Metallurgists and Related Professionals）职业分析 · IE
+# Mining Engineers, Metallurgists and Related Professionals — career analysis · Ireland
 
-**职业代码：2146 – Mining Engineers, Metallurgists and Related Professionals。**
+**Occupation code: 2146 (ISCO08)**
 
-Responsible for mineral exploration, mine design, metallurgical processes, and materials processing to ensure efficient and safe resource extraction while promoting sustainable mining practices.
+Responsible for mineral exploration, mine design, metallurgical processes, and materials processing, ensuring efficient and safe resource extraction, and promoting sustainable mining practices.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（工程学士） | $25,000~$45,000（每年学费，爱尔兰/欧盟生有补贴） |
-| 硕士 | 1-2年 | $15,000~$30,000（每年学费，国际生较高） |
+| Bachelor's degree | 4 years (Bachelor of Engineering) | $25,000~$45,000 (Annual tuition fees, with subsidies for Irish/EU students) |
+| Master's degree | 1-2 years | $15,000~$30,000 (Annual tuition fee, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师（CEng） | 爱尔兰工程师协会 | 可选 | 非强制但受雇主青睐 |
-| 采矿与矿物工程学位 | 爱尔兰国立大学等 | 必备 | 入门基本要求 |
+| Degree in Mining and Mineral Engineering | National University of Ireland, etc. | Required | Basic entry requirements |
+| Chartered Engineer (CEng) | Engineers Ireland | Optional | Not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 800。爱尔兰矿业规模较小，但锌/铅矿（如Navan矿）及未来锂/稀土勘探仍有需求。岗位有限，竞争中等，需结合国际项目经验。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 800. Ireland's mining sector is small, but there is still demand for zinc/lead mines (e.g., Navan Mine) and future lithium/rare earth exploration. Job opportunities are limited, competition is moderate, and international project experience is needed.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入职年薪，税前 |
-| 中级（3-7年） | $50,000~$65,000 | 含奖金，税前 |
-| 高级（7年以上） | $70,000~$90,000 | 项目经理或技术专家，税前 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual starting salary, pre-tax |
+| Mid-level (3–7 years) | $50,000~$65,000 | Including bonus, pre-tax |
+| Senior (7+ years) | $70,000~$90,000 | Project manager or technical specialist, pre-tax |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级工程师晋升为项目经理、技术总监或区域负责人。积累海外大型矿业经验可提升竞争力，部分人转向咨询或环保合规。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of mining and metallurgical engineers will not be completely replaced in the short term, but data analysis and report generation will be highly automated, with job responsibilities shifting to process optimization and sustainable development, and competition for entry-level positions intensifying.
+
+Can progress from junior engineer to project manager, technical director or regional head. Accumulating experience in large-scale overseas mining can boost competitiveness; some transition to consulting or environmental compliance.
+
+**Tasks most exposed to AI:**
+
+- Repetitive data processing in mineral resource estimation and geological modeling
+- Routine metallurgical test plan design and result analysis report generation
+- Equipment operation parameter monitoring and alarm response (replaced by automated control systems)
+- Format checking and compliance screening in mineral resources report preparation
+- Comparison of fixed-rule-based mineral processing optimization plans
+
+**Where AI augments the role:**
+
+- Use AI to simulate mining plans and quickly evaluate costs and risks of different mining methods.
+- Using machine learning to predict ore grade variations and dynamically adjust mineral processing parameters
+- Real-time optimization of mining transport and ventilation systems using digital twin technology
+- Use natural language processing technology to automatically extract applicable processes from technical literature
+- Uses computer vision for online ore particle size detection and feedback control
+
+**Human moat:**
+
+- Innovative mining plan design and safety decision-making under complex geological conditions
+- Interdisciplinary coordination (geology, mechanical, environmental, social) and stakeholder communication
+- Engineering scale-up experience for new metallurgical processes from laboratory to industrial application
+- Accident emergency response and establishment and maintenance of mine safety management system
+- Life-cycle environmental assessment of mines based on sustainable development principles
+
+**Skills to build:**
+
+- Python/R programming and data processing (for automated reporting and modeling)
+- Machine learning basics (predictive maintenance, grade prediction)
+- Digital twin and IoT platform operations (e.g., Azure Digital Twins)
+- Configuration and optimization of process control and automation systems (e.g., DCS, SCADA).
+- Knowledge of environmental regulations and ESG report preparation
+- Project management and cross-cultural collaboration skills (for international mining projects)
+
+**Key growth areas:**
 
 - Sustainable Mining
 - Automation
@@ -63,63 +99,65 @@ Responsible for mineral exploration, mine design, metallurgical processes, and m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超32000欧元且为紧缺职业列表上的岗位，可快速获得永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需进行劳动力市场测试，年薪一般不低于30000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪须达约60000欧元，可携带家属 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for positions with annual salary over 32,000 euros and on the shortage occupation list, allowing fast-track permanent residency |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in high demand, requires labor market testing; annual salary generally no less than 30,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, annual salary must reach approximately 60,000 euros, can bring family |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mining Engineers, Metallurgists and Related Professionals？**
-- 喜欢户外与实验室工作
-- 对地质和材料科学有强烈兴趣
-- 适应偏远地区工作环境
+**Who is suited**
+- Enjoys outdoor and laboratory work
+- Strong interest in geology and materials science
+- Adaptability to remote work environments.
 
-**谁不适合学Mining Engineers, Metallurgists and Related Professionals？**
-- 偏好城市办公环境
-- 对高风险工作环境敏感
+**Who is not suited**
+- Prefer urban office environment
+- Sensitive to high-risk work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for mining engineers in Ireland?**
+A: Junior engineer annual salary approximately 35,000-45,000 euros, senior can reach over 70,000, but the industry is small with limited salary growth.
+
+**Q: How can foreigners immigrate to Ireland through this occupation?**
+A: Mining engineers are usually not on the shortage occupation list; they need to apply for a General Employment Permit and pass the labor market test; if annual salary exceeds €60,000, they can apply for an EU Blue Card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mining Engineers, Metallurgists and Related Professionals属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for mining engineers in Ireland?**
-答：Entry-level engineers earn about €35,000-€45,000 annually, while senior roles can exceed €70,000, but the small industry limits growth.
-
-**问：How can foreigners immigrate to Ireland through this occupation?**
-答：Mining engineers are not typically on the critical skills list, so a General Employment Permit with a labor market test is required. EU Blue Card is possible for salaries above €60,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

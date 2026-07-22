@@ -1,60 +1,94 @@
-# Airline Pilot and Technical Air Navigation（Airline Pilot and Technical Air Navigation）职业分析 · FR
+# Airline Pilot and Technical Air Navigation — career analysis · France
 
-**职业代码：N2102 – Airline Pilot and Technical Air Navigation。**
+**Occupation code: N2102 (ROME)**
 
-Responsible for piloting aircraft, flight planning, and air navigation to ensure safety and efficiency.
+Responsible for piloting, route planning, and aerial navigation, ensuring flight safety and efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基础培训 | 2-3年（ATPL整合课程） | $60,000~$100,000（私立航校费用高，部分可通过学徒制降低） |
-| 本科 | 3年（Licence） | $5,000~$10,000（公立大学航空相关专业，学费较低） |
-| 硕士 | 2年（Master） | $8,000~$15,000（航空工程或航空管理硕士） |
+| Basic training | 2-3 years (ATPL integrated course) | $60,000~$100,000 (Private aviation schools have high fees, and some can be reduced through apprenticeships) |
+| Bachelor's degree | 3 years (Licence) | $5,000~$10,000 (Public universities offer aviation-related majors with relatively low tuition fees) |
+| Master's degree | 2 years (Master) | $8,000~$15,000 (Master's degree in Aeronautical Engineering or Aviation Management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航线运输驾驶员执照（ATPL） | DGAC（法国民航局） | 必备 | 商业航空公司机长必备 |
-| 仪表等级（IR） | DGAC | 必备 | 仪表飞行必备 |
-| 机型等级（Type Rating） | 航司或训练中心 | 必备 | 特定机型操作资格 |
+| Airline Transport Pilot License (ATPL) | DGAC (French Civil Aviation Authority) | Required | A must for commercial airline captains |
+| Instrument Rating (IR) | DGAC | Required | Instruments and flight are essential |
+| Type Rating | Airlines or training centers | Required | Specific aircraft model operation qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国航空业稳步发展，飞行员短缺，尤其机长和远程航线。退休潮带来缺口，但培训门槛高。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The French aviation industry is steadily developing, but there is a shortage of pilots, especially for captains and long-haul routes. The retirement wave has created a gap, but the training threshold is high.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（副驾驶，0-5年） | $40,000~$70,000 | 取决于航司和机型，支线航空较低 |
-| 中级（副驾驶/机长，5-15年） | $70,000~$120,000 | 大型航司机长收入更高 |
-| 高级（机长/教员，15年以上） | $120,000~$200,000 | 远程国际航线机长可达更高 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (Co-pilot, 0-5 years) | $40,000~$70,000 | Depending on the airline and aircraft type, regional airlines are lower |
+| Intermediate (First Officer/Captain, 5-15 years) | $70,000~$120,000 | Large airline captains earn higher incomes |
+| Senior (Captain/Instructor, over 15 years) | $120,000~$200,000 | Long-haul international route captains can reach even higher levels |
+| average salary | $114,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从副驾驶升任机长，再转为飞行教员或航空管理职位。部分转向无人机或航空咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+They can be promoted from co-pilot to captain, then transferred to flight instructors or aviation management positions. Some have shifted to drones or aviation consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Pilot shortage
 - Fleet expansion
@@ -63,68 +97,67 @@ Responsible for piloting aircraft, flight planning, and air navigation to ensure
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合高薪飞行员，年薪需达欧盟标准（约5.5万欧元以上） |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，航空领域紧缺职业可申请 |
-| Subclass Salarié（Salaried Worker Visa） | 航司担保的工作签证，需提供劳动合同 |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-income pilots; annual salary must meet EU standards (approximately €55,000 or more). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with scarce occupations in the aviation field available for application |
+| Subclass Salarié (Salaried Worker Visa) | For airline-sponsored work visas, a labor contract must be provided |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airline Pilot and Technical Air Navigation？**
-- 有良好心理素质和纪律性的人
-- 对航空有热情，能承受高压工作
-- 适应不规律作息和频繁出差
-
-**谁不适合学Airline Pilot and Technical Air Navigation？**
-- 有晕机或身体限制者
-- 不愿频繁离家或长时间异地工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good psychological qualities and discipline
+- Passionate about aviation and able to handle high-pressure work
+- Adapt to irregular routines and frequent business trips
+
+**Who is not suited**
+- Those with motion sickness or physical limitations
+- Unwilling to be away from home frequently or working away from home for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a French pilot?**
+A: Junior first officer: about EUR 40,000-70,000, captain can reach EUR 120,000-200,000, depending on airline and route.
+
+**Q: How do foreigners become French pilots?**
+A: You must obtain a French-recognized ATPL license and find an airline to sponsor a work visa, such as Passeport Talent or Carte bleue UE.
+
+**Q: What licenses do French pilots need?**
+A: Must hold ATPL, Instrument Rating (IR), Type Rating, and medical examination certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Airline Pilot and Technical Air Navigation的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a pilot in France?**
-答：Junior first officer earns €40k-70k, captain €120k-200k, depending on airline and route.
-
-**问：How can a foreigner become a pilot in France?**
-答：Obtain a DGAC-recognized ATPL, then find an airline sponsor for a work visa like Talent Passport or EU Blue Card.
-
-**问：What licenses are required for pilots in France?**
-答：ATPL, Instrument Rating (IR), Type Rating, and a valid medical certificate.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

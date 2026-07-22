@@ -1,60 +1,96 @@
-# Gender Equality Promoter（Gender Equality Promoter）职业分析 · ES
+# Gender Equality Promoter — career analysis · Spain
 
-**职业代码：3714 – Gender Equality Promoter。**
+**Occupation code: 3714 (CNO)**
 
-Responsible for promoting gender equality policies in public or private institutions, conducting awareness training, assessing gender impact, and designing interventions.
+Responsible for promoting gender equality policies in public and private institutions, conducting awareness training, assessing gender impacts, and designing interventions.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$2,000（公立大学学费） |
-| 硕士 | 1年（Máster） | $1,500~$4,000（公立大学学费，私立更高） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$2,000 (Public university tuition) |
+| Master's degree | Year 1 (Máster) | $1,500~$4,000 (Public university tuition; private is higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心理学/社会学/法律等学士学位 | 西班牙公立大学 | 必备 | 常见入门学历 |
-| 性别平等专业硕士 | 西班牙大学 | 可选 | 提升竞争力 |
+| Bachelor's degrees in psychology/sociology/law, etc | Public universities in Spain | Required | Common entry-level education |
+| Master's degree in Gender Equality | Spanish University | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。西班牙性别平等法律（如Ley Orgánica 3/2007）推动需求增长；公共部门和大型企业岗位增加，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,000. Spanish gender equality laws (such as Ley Orgánica 3/2007) have driven demand growth; Public sector and large enterprise positions are increasing, but competition is fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 公共部门薪资 |
-| 中级（3-7年） | $28,000~$35,000 | 公共或大型企业 |
-| 高级（7年以上） | $35,000~$45,000 | 项目主管或顾问 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$28,000 | Public sector salaries |
+| Mid-level (3–7 years) | $28,000~$35,000 | Public or large enterprises |
+| Senior (7+ years) | $35,000~$45,000 | Project supervisor or consultant |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术专员晋升为部门协调员或政策顾问；也可通过硕士或博士学历进入研究或高级管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance policy research and report writing efficiency, but the core value of the Gender Equality Promotion Commissioner lies in driving institutional change and raising awareness—relying on human emotional resonance, cultural sensitivity, and negotiation skills—which are difficult to replace in the short term.
+
+Promotion from Technical Specialist to Department Coordinator or Policy Advisor; You can also enter research or senior management positions through a master's or doctoral degree.
+
+**Tasks most exposed to AI:**
+
+- Automatically screen and analyze gender statistics to generate standardized reports
+- Use AI chatbots to answer common gender equality policy inquiries
+- Automatically drafting draft policy impact assessments and news briefings
+- Use AI for multilingual translation and localization of training materials
+- AI tools are used to monitor patterns of gender bias in online speech
+
+**Where AI augments the role:**
+
+- Using AI to analyze large-scale survey data to uncover hidden patterns of gender inequality
+- Use natural language processing to summarize policy documents and quickly extract key points
+- AI-assisted creation of personalized training and promotional content
+- Use data visualization tools to clearly show decision-makers the impact of gender
+- AI helps design more effective intervention evaluation frameworks
+
+**Human moat:**
+
+- The ability to build trust and engage in emotional communication on sensitive topics
+- Understanding and challenging deeply rooted cultural biases and social norms
+- Negotiation and consensus-building among multiple stakeholders
+- Ethical judgments and value considerations when formulating inclusive policies
+- Teamwork and leadership change across diverse backgrounds
+
+**Skills to build:**
+
+- Data analysis and statistical software (such as R, Python, SPSS)
+- Natural language processing tools (such as ChatGPT prompt engineering)
+- Social survey research methods and causal inference
+- Cross-cultural communication and sensitivity training
+- Policy advocacy and public speaking skills
+- Basic programming skills (automating repetitive tasks)
+
+**Key growth areas:**
 
 - Gender Equality
 - Social Policy
@@ -63,60 +99,62 @@ Responsible for promoting gender equality policies in public or private institut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit） | 需雇主担保，提供工作合同。若非紧缺，审批较难。 |
+| Subclass Cuenta ajena (Work Permit) | Requires employer sponsorship and a work contract. Approval may be difficult if not in a shortage occupation. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gender Equality Promoter？**
-- 对性别议题有热情的人文社科背景者
-- 希望从事公共政策或非营利事业的人
+**Who is suited**
+- Backgrounds in humanities and social sciences with a passion for gender issues
+- People who wish to work in public policy or nonprofit sectors
 
-**谁不适合学Gender Equality Promoter？**
-- 追求高薪者
-- 希望快速移民的人
+**Who is not suited**
+- Those seeking high salaries
+- For those hoping to immigrate quickly
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Gender Equality Promotion Officers?**
+A: Beginner is about 24,000-28,000 euros per year, intermediate 28,000-35,000 euros per year, and advanced 35,000-45,000 euros per year.
+
+**Q: Can third-country citizens immigrate to Spain through this occupation?**
+A: The likelihood is low. This occupation is not in short supply, requires employer sponsorship, and requires proficiency in Spanish.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Gender Equality Promoter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for gender equality promoters?**
-答：Entry level: €24,000-28,000 per year; mid-level: €28,000-35,000; senior: €35,000-45,000.
-
-**问：Can third-country nationals immigrate through this occupation?**
-答：Unlikely. It is not a shortage occupation, requires employer sponsorship, and fluent Spanish.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

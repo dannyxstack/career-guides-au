@@ -1,58 +1,90 @@
-# Public Relations Professional（Public Relations Professional）职业分析 · IT
+# Public Relations Professional — career analysis · Italy
 
-**职业代码：2432 – Public Relations Professional。**
+**Occupation code: 2432 (ISCO08)**
 
-Public Relations Professionals manage communication between organizations and the public, including media relations, brand image, and crisis communication.
+Public relations professionals are responsible for managing and maintaining communication between an organization and the public, including media relations, brand image building, and crisis communication.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $500~$3,000（公立大学学费） |
-| 硕士 | 2年（硕士） | $1,000~$4,000（公立大学学费） |
+| Bachelor's degree | 3 years (bachelor's) | $500~$3,000 (Public university tuition) |
+| Master's degree | 2 years (Master's) | $1,000~$4,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共关系专业学位 | 大学 | 可选 | 相关领域学位有优势 |
-| 意大利语流利 | 无特定机构 | 必备 | 工作语言要求 |
+| Fluent in Italian | No specific institution | Required | Language requirement for work |
+| Degree in Public Relations | University | Optional | A degree in a related field is advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利公共关系行业预计平稳增长，数字化和社交媒体管理成为关键技能，就业机会主要集中在大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Italy's public relations industry is expected to grow steadily, with digitalization and social media management becoming key skills. Job opportunities are mainly in large cities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $42,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 职业发展路径从专员到经理，再到大客户总监或传播总监，可能需要积累行业经验和人脉。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI is reshaping the public relations industry: tasks like media monitoring and drafting press releases will be automated, but core skills such as strategic communication and crisis management become even more important.
+
+Career progression path from specialist to manager, then to key account director or communications director, possibly requiring accumulation of industry experience and network.
+
+**Tasks most exposed to AI:**
+
+- Media monitoring and information collection (AI automatic capture of public opinion)
+- Drafting initial press releases (LLM-generated standard text)
+- Scheduled social media posts and basic replies (automation tools)
+- Data analysis report generation (AI auto-summarizes trends)
+
+**Where AI augments the role:**
+
+- Public Opinion Analysis and Emotion Recognition (AI real-time alerting)
+- Personalized media push (AI audience profiling).
+- Crisis Communication Simulation Drill (AI-generated Scenarios)
+- Rapid localization of multilingual content (translation tools)
+
+**Human moat:**
+
+- Strategic communication and narrative construction
+- Crisis management and complex decision-making
+- Senior relationship management and negotiation
+- Creative event planning and brand storytelling
+
+**Skills to build:**
+
+- AI social listening tools (e.g., Brandwatch)
+- Data interpretation and visualization
+- AI content generation prompt engineering
+- Digital PR and SEO
+- Video and multimedia content production
+
+**Key growth areas:**
 
 - Digital PR
 - Social Media Strategy
@@ -61,68 +93,67 @@ Public Relations Professionals manage communication between organizations and th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需年薪至少约€33,000（2024标准），合同至少1年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，需雇主担保，适用于非欧盟公民。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需申请劳动许可，证明无法在欧盟内招到合适人才。 |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, an annual salary of at least approximately €33,000 (2024 standard) and a contract of at least 1 year are required. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-EU citizens. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a labor permit, demonstrating that they cannot find suitable talent within the EU. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Relations Professional？**
-- 擅长沟通和写作
-- 对媒体和社交网络敏感
-- 具有危机处理能力
-
-**谁不适合学Public Relations Professional？**
-- 不愿与人打交道
-- 缺乏创意和策略思维
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and writing.
+- Sensitive to media and social networks
+- Crisis management skills.
+
+**Who is not suited**
+- Prefers not to interact with people
+- Lack of creativity and strategic thinking
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for the PR industry in Italy?**
+A: Entry-level annual salary approximately €24,000-€30,000, mid-level approximately €35,000-€45,000, senior up to €50,000-€70,000.
+
+**Q: How can non-EU citizens obtain an Italian public relations work visa?**
+A: Eligible via EU Blue Card (annual salary approx. €33,000+) or Decreto Flussi quota work visa, requires employer sponsorship.
+
+**Q: What are the career development paths in public relations?**
+A: From coordinator to manager, then to key account director or communications director, or transition to digital marketing or corporate communications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Public Relations Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level in the PR industry in Italy?**
-答：Entry-level annual salary is around €24,000-€30,000, mid-level €35,000-€45,000, senior up to €50,000-€70,000.
-
-**问：How can non-EU citizens get a work visa for PR in Italy?**
-答：Through EU Blue Card (annual salary above €33,000) or Decreto Flussi quota work visa, requiring employer sponsorship.
-
-**问：What are the career development paths for PR?**
-答：From specialist to manager, then to account director or communications director, also can move into digital marketing or corporate communications.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

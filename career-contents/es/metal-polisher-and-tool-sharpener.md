@@ -1,58 +1,94 @@
-# Metal Polisher and Tool Sharpener（Metal Polisher and Tool Sharpener）职业分析 · ES
+# Metal Polisher and Tool Sharpener — career analysis · Spain
 
-**职业代码：7324 – Metal Polisher and Tool Sharpener。**
+**Occupation code: 7324 (CNO)**
 
-Responsible for polishing metal surfaces and sharpening tools using electric or hand-operated equipment to improve finish and edge sharpness, commonly employed in machine manufacturing, mold processing, and repair workshops.
+Responsible for metal surface polishing, grinding, and tool sharpening, operating electric or manual equipment to improve workpiece finish and edge sharpness, commonly found in mechanical manufacturing, mold processing, and repair workshops.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约500-1500欧元/年） |
-| 职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约600-2000欧元/年） |
+| Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, private schools about 500-1500 EUR/year) |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, while private ones pay about 600-2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属加工职业培训证书 | 教育部或自治区政府 | 必备 | 完成FP Grado Medio/Superior相关专业后获得 |
-| 在职培训证书 | 企业或行业协会 | 可选 | 部分企业要求内部安全操作认证 |
+| Metalworking vocational training certificate | Ministry of Education or Autonomous Region Government | Required | Obtained after completing FP Grado Medio/Superior-related majors |
+| On-the-job training certificate | Enterprises or industry associations | Optional | Some companies require internal safety operation certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,200。西班牙制造业复苏缓慢，但高端模具和精密加工领域对熟练抛光工仍有稳定需求。自动化和数控设备普及降低入门岗位数量，经验丰富的技师更受青睐。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,200. Spain's manufacturing recovery is slow, but there is still steady demand for skilled polishers in high-end molds and precision machining. The widespread adoption of automation and CNC equipment reduces the number of entry-level positions, making experienced technicians more favored.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班和补贴 |
-| 中级（3-8年） | $22,000~$28,000 | 税前年薪，取决于技能水平和企业规模 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含高级技师津贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including overtime and subsidies |
+| Mid-level (3–8 years) | $22,000~$28,000 | Pre-tax annual salary depends on skill level and company size |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including senior technician allowance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或操作工起步，积累经验后晋升为高级抛光技师、质检员或工段长。部分人员可通过继续教育转型为数控机床操作员或模具工程师。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Metal polishers and tool sharpeners face moderate risks from AI automation; some tasks can be replaced by robots or AI, but skill demand is rising rather than decreasing, requiring the integration of CNC and intelligent tools to enhance competitiveness.
+
+You can start as an apprentice or operator, and after accumulating experience, be promoted to senior polishing technician, quality inspector, or section leader. Some personnel can transition through continuing education to become CNC machine operator or mold engineer.
+
+**Tasks most exposed to AI:**
+
+- Repetitive metal surface polishing is performed using a fixed-program robot
+- Simple tool sharpening is automatically performed by CNC sharpening machines
+- Surface quality visual inspection is being replaced by AI-based machine vision
+- Manual deburring and chamfering are replaced by robotic floating grinding units
+- Basic equipment maintenance alarm responses are handled by an AI predictive maintenance system
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of polishing paths and parameters improves efficiency and consistency
+- Use augmented reality glasses to obtain 3D models of workpieces and polishing instructions
+- AI analyzes grinding sparks and sounds, adjusting feed rate in real time
+- Tool life is predicted through digital twin simulation, optimizing tool change timing
+- The intelligent document system automatically records process parameters, facilitating traceability and improvement
+
+**Human moat:**
+
+- Artistic touch with intricate curved hand-polished surfaces and mirror finishes
+- Micro-level adjustments for sharpening ultra-precision tools (such as medical tools).
+- On-site fault diagnosis and flexible response under abnormal operating conditions
+- Communicate with customers about special surface requirements and provide customized solutions
+- Fast mold change and process adaptation in small-batch multi-variety production
+
+**Skills to build:**
+
+- CNC polishing/edge grinding machine programming and debugging
+- Fundamentals of computer-aided manufacturing (CAM) software
+- Industrial robot operation and simple teaching
+- Basic data analysis (such as process parameter optimization)
+- Understanding mechanical drawings and GD&T (Geometric Tolerances).
+- Quality control tools (such as roughness testers, optical measurements) are used
+
+**Key growth areas:**
 
 - precision manufacturing
 - automation
@@ -61,64 +97,63 @@ Responsible for polishing metal surfaces and sharpening tools using electric or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙雇主担保的工作居留，需证明职位无法在本地填补，适合有经验的技术工人。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，但本职业通常薪资不达门槛，极少使用。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled locally and is suitable for experienced skilled workers. |
+| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but this profession usually pays below the threshold and is rarely used. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Polisher and Tool Sharpener？**
-- 注重细节、动手能力强的人
-- 能适应噪音和粉尘环境的人
-- 愿意从学徒做起、学习传统手艺的人
-
-**谁不适合学Metal Polisher and Tool Sharpener？**
-- 对重复性体力劳动不耐受的人
-- 希望快速晋升到管理岗位的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on person
+- People who can adapt to noisy and dusty environments
+- Those willing to start as apprentices and learn traditional crafts
+
+**Who is not suited**
+- People intolerant of repetitive physical labor
+- People seeking rapid advancement to management positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal polishers in Spain?**
+A: Entry-level annual salary is about €18,000-22,000, mid-level €22,000-28,000, and senior up to €35,000. Salaries are influenced by region, company size, and skills, with Barcelona and the Basque Country offering higher pay.
+
+**Q: How can foreign metal polishers immigrate to Spain?**
+A: Mainly through employer-sponsored work residency (Cuenta ajena). A contract with a Spanish company must be obtained, and the position must prove that the position cannot be filled within the EU. EU Blue Card salary thresholds are usually not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metal Polisher and Tool Sharpener的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for metal polishers in Spain?**
-答：Entry-level annual salary is around €18,000-22,000, mid-level €22,000-28,000, and senior up to €35,000. Pay varies by region, company size, and skill level, with higher rates in Barcelona and Basque Country.
-
-**问：How can a foreign metal polisher immigrate to Spain?**
-答：Mainly through employer-sponsored work permit (Cuenta ajena). Requires a job offer from a Spanish company and proof that the position cannot be filled within the EU. EU Blue Card is rarely applicable due to salary thresholds.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

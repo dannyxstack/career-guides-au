@@ -1,59 +1,92 @@
-# Bungy Jump Master（Bungy Jump Master）职业分析 · 澳大利亚
+# Bungy Jump Master — career analysis · Australia
 
-**职业代码：452211 – Bungy Jump Master。**
+**Occupation code: 452211 (ANZSCO)**
 
-A Bungy Jump Master operates bungee jumping equipment, ensures participant safety, and guides the jump process as a specialist in adventure tourism.
+Bungee masters operate bungee equipment, ensure participant safety, and guide jump procedures. They are professional operators in extreme sports recreational activities.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 入职培训 | 2周 | $1,000~$3,000（公司提供培训或外部认证课程） |
+| Onboarding training | 2 weeks | $1,000~$3,000 (Company-provided training or external certification courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 蹦极操作认证 | 澳洲娱乐协会或相关培训机构 | 必备 | 必须持有有效认证才能上岗 |
-| 急救证书 | 澳洲红十字会或圣约翰救护 | 必备 | 通常要求持有急救资格 |
+| Bungee jumping operation certification | Australian entertainment associations or relevant training providers | Required | Must hold a valid certification to work |
+| First aid certificate | Australian Red Cross or St John Ambulance | Required | Typically required to hold first aid certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 300。蹦极作为旅游娱乐项目，受旅游业景气度影响较大。随着澳洲国内旅游和极限运动爱好者增加，需求保持稳定但岗位数量有限，预计增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 300. Bungee jumping, as a tourism and entertainment activity, is heavily influenced by the tourism industry's performance. With the increase in domestic tourism and extreme sports enthusiasts in Australia, demand remains stable but the number of positions is limited, with slow growth expected.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 时薪约22-27澳元 |
-| 中级（2-5年） | $55,000~$65,000 | 含经验津贴 |
-| 高级（5年以上/主管） | $65,000~$80,000 | 包含管理职责 |
+| Median salary | $67,496 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $45,000~$55,000 | Hourly wage approximately AUD 22-27 |
+| Intermediate (2-5 years) | $55,000~$65,000 | Includes experience allowance. |
+| Senior (5+ years / supervisor) | $65,000~$80,000 | Includes management responsibilities. |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业路径通常在蹦极公司内晋升为高级操作员或主管，部分转向运营管理或安全培训，少数在大型旅游集团拓展至管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bungee masters' core tasks involve high-intensity physical operations and safety supervision, which are hard to replace by AI. Entry-level positions are limited by venue and experience requirements, but the profession itself is stable, and AI will not significantly reduce employment.
+
+Career path usually advances to senior operator or supervisor within bungee companies, some move into operations management or safety training, a few expand to management in large tourism groups.
+
+**Tasks most exposed to AI:**
+
+- Online booking and customer information collection
+- Basic safety video briefing (can be AI-generated)
+- Automatic entry of client weight and height
+- Weather monitoring and automatic warning system
+
+**Where AI augments the role:**
+
+- AI-assisted safety data analysis (e.g., rope wear prediction).
+- AR simulation training to enhance coaching skills
+- Smart wearable devices monitor participants' physiological status in real time
+- Automated documentation and compliance record management
+
+**Human moat:**
+
+- On-site risk assessment and emergency decision-making
+- Personalized emotional reassurance and confidence building
+- In-depth equipment overhaul and manual adjustment.
+- Immediate judgment in complex environments (e.g., sudden wind changes)
+- Legal and insurance liability responsibility
+
+**Skills to build:**
+
+- First aid and emergency response certification
+- Equipment maintenance and mechanical engineering fundamentals
+- Client psychology and communication skills
+- Basic data analysis (security logs)
+- Use of AR/VR training tools
+
+**Key growth areas:**
 
 - niche
 - adventure tourism
@@ -62,65 +95,67 @@ A Bungy Jump Master operates bungee jumping equipment, ensures participant safet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时工作签证，需与雇主绑定 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久移民签证，需满足相关要求 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary work visa, tied to the employer |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent migration visa, must meet relevant requirements |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bungy Jump Master？**
-- 热爱极限运动和户外工作者
-- 具有良好沟通和安全意识者
-- 善于教导和服务游客者
+**Who is suited**
+- Loves extreme sports and outdoor work
+- Those with good communication skills and safety awareness
+- Skilled in teaching and serving tourists
 
-**谁不适合学Bungy Jump Master？**
-- 恐高或追求稳定收入者
-- 不愿接受季节性工作安排者
+**Who is not suited**
+- Those with fear of heights or seeking stable income
+- Those unwilling to accept seasonal work arrangements
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the career income ceiling for a bungee jumping master?**
+A: Most entry-level positions pay modestly, but if you advance to management or become an operations manager, annual salary can reach AUD 80,000-100,000.
+
+**Q: Can a bungee master migrate to Australia?**
+A: This occupation is usually not on the skilled migration list and can only immigrate via employer-sponsored visas, but employers are few and the process is difficult.
+
+**Q: How to become a bungee master without a relevant background?**
+A: Typically requires completing company-provided training and obtaining certification, along with a first aid certificate, good physical fitness, and communication skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Bungy Jump Master属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income ceiling for a Bungy Jump Master?**
-答：Most earn moderate wages, but with promotion to operations management, salary can reach AUD 80,000-100,000.
-
-**问：Can a Bungy Jump Master immigrate to Australia?**
-答：The occupation is generally not on the skilled occupation list; employer sponsorship is possible but rare and difficult.
-
-**问：How to become a Bungy Jump Master without background?**
-答：Usually requires company training, certification, first aid certificate, good fitness, and communication skills.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

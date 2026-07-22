@@ -1,59 +1,95 @@
-# Dietitian（Dietitian）职业分析 · 新西兰
+# Dietitian — career analysis · New Zealand
 
-**职业代码：251111 – Dietitian。**
+**Occupation code: 251111 (ANZSCO)**
 
-Dietitians provide clinical nutrition assessment, personalized dietary plans, and disease management in hospitals, community, and private clinics. Listed on Green List for skilled migration in New Zealand.
+Dietitians provide clinical nutrition assessment, personalized dietary plans, and disease management services in hospitals, communities, and private clinics. It is on New Zealand's Green List for skilled migration, with clear immigration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（新西兰大学营养学/饮食学学士学费，国际生每年约NZD 30,000-45,000） |
-| 硕士 | 2年 | $35,000~$50,000（硕士课程如奥塔哥大学应用科学硕士（饮食学），总学费约NZD 70,000-100,000） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (Bachelor's degree tuition in nutrition/dietetics at New Zealand universities, international students approx. NZD 30,000-45,000 per year) |
+| Master's degree | 2 years | $35,000~$50,000 (Master's programs such as the University of Otago's Master of Applied Science (Dietetics), total tuition approximately NZD 70,000-100,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营养师注册 | 新西兰营养师委员会 (Dietitians Board) | 必备 | 完成认证课程后必须注册，通过考试和实习 |
-| ANZSCO职业评估 | 新西兰移民局 | 必备 | 需通过ITP或NZQA评估，确保学历与注册要求匹配 |
-| 英语能力证明 | 移民局认可机构 | 必备 | 雅思总分7.0（单项不低于6.5）或等同 |
+| Dietitian registration | Dietitians Board of New Zealand | Required | Must register after completing accredited course, pass exam and internship |
+| ANZSCO skill assessment | New Zealand Immigration Service | Required | Must pass ITP or NZQA assessment to ensure qualifications match registration requirements |
+| English proficiency proof | Department of Home Affairs recognized body | Required | IELTS overall 7.0 (no band less than 6.5) or equivalent |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰人口老龄化及慢性病增加推动营养师需求增长，尤其在老年护理和社区卫生领域。预计未来5年就业增长强劲，薪资稳步提升。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's aging population and increasing chronic diseases are driving demand for dietitians, especially in aged care and community health. Strong employment growth and steady salary increases are expected over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $58,000~$72,000 | 公立医院或社区健康中心起薪，含应届毕业生 |
-| 中级（3-6年） | $75,000~$95,000 | 具备专科经验或管理职责，私立机构薪资更高 |
-| 高级（6年以上） | $100,000~$130,000 | 临床专家、管理层或自营执业者，顶尖可达NZD 150,000 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $58,000~$72,000 | Starting salary at public hospitals or community health centers, including new graduates |
+| Mid-level (3–6 years) | $75,000~$95,000 | With specialist experience or management responsibilities, higher salaries in private institutions |
+| Senior (6+ years) | $100,000~$130,000 | Clinical specialist, management, or self-practitioner; top salary up to NZD 150,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级营养师可在医院或社区积累经验；中级可专攻糖尿病、肾病等领域；高级可晋升为首席营养师或开设私人诊所，顾问角色发展潜力大。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+Entry-level nutritionists can gain experience in hospitals or communities; mid-level can specialize in areas like diabetes or kidney disease; senior can advance to chief nutritionist or open a private practice, with strong consultant role development potential.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,67 +98,66 @@ Dietitians provide clinical nutrition assessment, personalized dietary plans, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单Tier 1条件，可申请直接居留签证，无工作期要求 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制打分（学历+注册+工作经验），可申请技术移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 签证有效期3年，需认证雇主担保，后续可转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 criteria, eligible for a direct residence visa with no work period requirement |
+| Subclass SMC (Skilled Migrant Category) | Eligible for skilled migration via Six-Points System (qualifications + registration + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | Visa valid for 3 years, requires accredited employer sponsorship, with option to transition to residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitian？**
-- 对人类营养和健康干预有强烈兴趣，乐于帮助慢性病患者
-- 具备良好沟通能力，能向不同背景人群解释饮食方案
-
-**谁不适合学Dietitian？**
-- 不擅长与患者或医疗团队频繁沟通者
-- 希望快速低投入获得移民身份者（需4年本科+注册）
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in human nutrition and health interventions, willing to help chronic disease patients
+- Good communication skills to explain dietary plans to people from different backgrounds
+
+**Who is not suited**
+- Those not good at frequent communication with patients or medical teams
+- For those seeking quick and low-investment immigration (requires 4-year bachelor's degree plus registration)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a dietitian in New Zealand?**
+A: Entry-level annual salary around NZD 58,000-72,000, mid-level NZD 75,000-95,000, senior up to NZD 130,000+. Public hospitals offer stable salaries, while private or self-employment pays higher.
+
+**Q: How can dietitians migrate to New Zealand through skilled migration?**
+A: Dietitians are on the Green List Tier 1; meeting registration and qualification requirements allows direct residence application. They can also apply via SMC 6-point system (master's + registration + work experience) or after working on an AEWV.
+
+**Q: How can overseas qualifications become a registered dietitian in New Zealand?**
+A: Requires NZQA assessment of degree equivalence, completion of a conversion course or internship approved by the New Zealand Dietitians Board, and passing the registration exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dietitian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for dietitians in NZ?**
-答：Entry-level NZD 58,000-72,000; intermediate NZD 75,000-95,000; senior up to NZD 130,000+. Public hospital salaries are stable, while private practice may be higher.
-
-**问：How can dietitians migrate to NZ through skilled migration?**
-答：Dietitians on Green List Tier 1 can apply for Straight to Residence Visa with registration and NZQF qualification. Also via SMC 6-point system or AEWV to residence.
-
-**问：How to become a registered dietitian in NZ with overseas qualifications?**
-答：NZQA assessment of equivalence, complete a Dietitians Board-approved bridging program or internship, and pass registration exam.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Drycleaner（Drycleaner）职业分析 · 澳大利亚
+# Drycleaner — career analysis · Australia
 
-**职业代码：811512 – Drycleaner。**
+**Occupation code: 811512 (ANZSCO)**
 
-Drycleaners operate dry cleaning equipment to clean, remove stains, and finish garments and textiles, ensuring professional treatment of customers' items.
+Dry cleaners operate dry cleaning equipment to clean, decontaminate, and finish garments and textiles, ensuring professional treatment of customer items.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 在职培训 | 1-2年 | —（通常雇主提供在职培训，部分TAFE课程需少量费用） |
-| TAFE证书 | 6个月-1年 | $2,000~$8,000（Certificate II或III in Dry Cleaning Operations） |
+| On-the-job training | 1-2 years | $0~$2,000 (Employers usually provide on-the-job training; some TAFE courses require a small fee.) |
+| TAFE certificate | 6 months to 1 year | $2,000~$8,000 (Certificate II or III in Dry Cleaning Operations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 干洗操作证书 | TAFE或其他注册培训机构 | 可选 | Certificate II in Dry Cleaning Operations或类似课程 |
-| 在职技能评估 | 雇主 | 可选 | 通常通过在职培训获得技能认可 |
+| Dry cleaning certificate. | TAFE or other registered training organisation | Optional | Certificate II in Dry Cleaning Operations or similar course |
+| Skills Assessment for Migration | Employer | Optional | Skills recognized typically through on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。澳洲干洗行业需求稳定，受人口增长和消费习惯驱动，但自动化技术发展可能影响就业增长。未来五年就业规模预计保持平稳，部分岗位转向自助洗衣服务。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. Australia's dry cleaning industry has stable demand driven by population growth and consumption habits, but automation technology may impact job growth. Employment levels are expected to remain steady over the next five years, with some roles shifting to self-service laundry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 全职，包括奖励工资 |
-| 中级（3-5年） | $55,000~$65,000 | 含经验补贴 |
-| 高级（5年以上/主管） | $65,000~$75,000 | 门店主管或技术专家 |
+| Median salary | $60,008 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Full-time, including bonus pay |
+| Mid-level (3–5 years) | $55,000~$65,000 | Including experience allowance |
+| Senior (5+ years / supervisor) | $65,000~$75,000 | Store manager or technical specialist |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 干洗工通常从助手做起，逐步掌握设备操作和去污技术，可晋升为高级干洗工或门店主管，部分经验者可独立开店经营。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Dry cleaners face high automation risk, especially in centralized dry-cleaning plants, but in-store manual services remain partially irreplaceable. Entry-level positions will be significantly reduced by self-service equipment and AI scheduling systems.
+
+Dry cleaners usually start as assistants, gradually master equipment operation and stain removal techniques, and can be promoted to senior dry cleaners or store managers. Some experienced individuals can open their own shops.
+
+**Tasks most exposed to AI:**
+
+- Use an AI vision system to automatically identify fabric types and stain types
+- Automatic dry-cleaning machines follow preset procedures to complete the cleaning process.
+- Self-service collection cabinet with AI sorting for order processing
+- AI generates washing labels and care instructions, replacing manual labeling
+
+**Where AI augments the role:**
+
+- AI fault diagnosis system helps quickly identify equipment issues
+- Intelligent scheduling system optimizes order sequencing and machine load
+- AR/VR-assisted training systems reduce learning costs for newcomers
+
+**Human moat:**
+
+- Manual techniques for handling high-value, specialty fabrics (e.g., gowns, leather)
+- Ability to communicate complex care needs face-to-face with clients
+- On-site emergency repair of sudden equipment failures
+- Fine manual stain removal and restoration (e.g., oil stains, blood stains)
+
+**Skills to build:**
+
+- Operate and maintain automated dry cleaning equipment
+- Basic programming and PLC troubleshooting
+- AI system interface operation and data analysis
+- Advanced fabric care and hand restoration techniques
+- Customer service and communication skills
+- Knowledge of environmental and safety management.
+
+**Key growth areas:**
 
 - Stable
 - Aging population
@@ -63,61 +95,63 @@ Drycleaners operate dry cleaning equipment to clean, remove stains, and finish g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但干洗工不在核心职业清单上，申请难度大 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA可能包含干洗工，但路径有限 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, but dry cleaner is not on the core occupation list, making application difficult |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA may include Dry Cleaner, but pathways are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Drycleaner？**
-- 注重细节、有耐心的人
-- 偏好稳定、无需高学历的动手工作
+**Who is suited**
+- Detail-oriented, patient people
+- Prefer stable, hands-on work that doesn't require a high degree
 
-**谁不适合学Drycleaner？**
-- 寻求高薪或快速晋升的人
-- 对化学清洁剂敏感或不喜欢重复性工作的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who are sensitive to chemical cleaners or dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of dry cleaners in Australia?**
+A: Entry-level full-time salary about A$45,000-55,000/year, mid-level A$55,000-65,000, senior supervisor up to A$75,000/year.
+
+**Q: Can dry cleaners immigrate to Australia through skilled migration?**
+A: Dry cleaners are usually not on the skilled migration occupation list; skilled migration pathways are nearly impossible, only possibly through DAMA or specific employer sponsorship arrangements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Drycleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for drycleaners in Australia?**
-答：Entry-level full-time salary is around AUD 45,000-55,000 per year, mid-level AUD 55,000-65,000, and senior supervisors can earn up to AUD 75,000.
-
-**问：Can drycleaners migrate to Australia through skilled migration?**
-答：Drycleaners are generally not on the skilled occupation list, so skilled migration is almost impossible, only possible via DAMA or specific employer-sponsored arrangements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

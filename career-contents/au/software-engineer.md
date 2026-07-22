@@ -1,69 +1,99 @@
-# 软件工程师（Software Engineer）职业分析 · 澳大利亚
+# Software Engineer — career analysis · Australia
 
-**职业代码：261312 – Software Engineer。**
+**Occupation code: 261312 (ANZSCO)**
 
-软件工程师设计、开发和维护软件系统，覆盖Web、移动、云原生、AI/ML和企业级应用。澳大利亚IT行业持续扩张，联邦政府数字化转型和AUKUS国防科技投入驱动需求长期旺盛，是技术移民最受欢迎的职业之一。
+Software engineers design, develop and maintain software systems across web, mobile, cloud-native, AI/ML and enterprise applications. Australia's IT industry is expanding steadily, with long-term demand driven by the federal government's digital transformation agenda and AUKUS defence technology investment, making it one of the most sought-after occupations for skilled migrants.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Computer Science / Software Engineering（3~4年） | 3~4年（全日制） | $25,000~$160,000（澳洲国际生约 $35,000~$45,000/年；政府补贴名额约 $8,000~$10,000/年） |
-| 编程训练营 / 自学路径（可选替代） | 3~12个月 | $2,000~$20,000（非传统路径，适合有作品集的转行者；澳洲雇主对GitHub Portfolio认可度高） |
-| 技能移民评估（ACS，澳洲计算机学会） | 2~6个月 | $500~$1,500（海外IT学历的正式评估机构，约 $500 申请费，是189/190签证的必要评估） |
+| Bachelor of Computer Science / Software Engineering (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (International students in Australia approximately $35,000–$45,000/year; government-subsidised places approximately $8,000–$10,000/year) |
+| Coding bootcamp / self-taught pathway (optional alternative) | 3–12 months | $2,000~$20,000 (A non-traditional pathway suited to career changers with a portfolio; Australian employers place high value on GitHub portfolios) |
+| Skills assessment (ACS – Australian Computer Society) | 2–6 months | $500~$1,500 (The official assessment body for overseas IT qualifications, with an application fee of approximately $500; a mandatory assessment for the 189/190 visa) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Computer Science / Software Engineering | 认可大学 | 可选 | 行业通用基础学历，大多数雇主认可 |
-| ACS（Australian Computer Society）技能评估 | Australian Computer Society | 可选 | 189/190/491签证技术移民必须，学历互认的官方机构 |
-| AWS/Azure/GCP Cloud Certification | Amazon/Microsoft/Google | 可选 | 云认证显著提升薪资竞争力（$10k~$20k溢价） |
-| TOGAF / Software Architecture Certifications | The Open Group | 可选 | 高级架构师晋升路径，提升薪资天花板 |
+| Bachelor of Computer Science / Software Engineering | Recognised university | Optional | A foundational qualification recognised across the industry by most employers |
+| ACS (Australian Computer Society) skills assessment | Australian Computer Society | Optional | Mandatory for skilled migration via 189/190/491 visas; the official body for qualification recognition |
+| AWS/Azure/GCP Cloud Certification | Amazon/Microsoft/Google | Optional | Cloud certifications significantly boost salary competitiveness (a $10k–$20k premium) |
+| TOGAF / Software Architecture Certifications | The Open Group | Optional | Career path to Senior Architect, raising salary ceiling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 160,000。JSA 预测软件工程师至2035年就业增长约25%。AI工具辅助开发提高生产率的同时，也推高了对高级工程师（系统架构、AI集成、安全）的需求。
+**Job demand: very high (★★★★★).** National workforce approx. 160,000. JSA projects approximately 25% employment growth for software engineers by 2035. While AI-assisted development tools are boosting productivity, they are also increasing demand for senior engineers specialising in system architecture, AI integration and security.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 6,000~12,000 个 | 全国，含前端/后端/全栈/移动/嵌入式岗，是IT类挂牌量最大职业 |
-| Indeed | 4,000~8,000 个 | 含合同工、FIFO和远程岗 |
-| LinkedIn | 5,000~10,000 个 | 科技公司直招和猎头岗比例高 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生 / 初级工程师（0~2年） | $72,000~$88,000 | 应届毕业生起薪，悉尼/墨尔本通常高于平均 |
-| 中级工程师（2~5年） | $95,000~$125,000 | SEEK 区间 $105k~$125k；Indeed 平均 $109,692（2026） |
-| 高级工程师（5~10年） | $130,000~$170,000 | Indeed Senior 平均 $152,409；悉尼/墨尔本顶层约 $190k |
-| 首席/Principal工程师（10年+） | $170,000~$250,000 | Atlassian/Canva/WiseTech 等顶尖公司高端岗位薪资 |
-| 合同工（Daily Rate） | $120,000~$220,000 | 合同工日薪 $600~$1,200（年化约 $120k~$240k） |
+| Median salary | $131,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate / junior engineer (0–2 years) | $72,000~$88,000 | Graduate starting salary; typically higher than average in Sydney/Melbourne |
+| Mid-level engineer (2–5 years) | $95,000~$125,000 | SEEK range $105k–$125k; Indeed average $109,692 (2026) |
+| Senior Engineer (5–10 years) | $130,000~$170,000 | Indeed Senior average $152,409; Sydney/Melbourne top tier approximately $190k |
+| Principal/Lead Engineer (10+ years) | $170,000~$250,000 | Top-tier salaries at leading companies such as Atlassian, Canva, and WiseTech |
+| Contract (Daily Rate) | $120,000~$220,000 | Contract daily rate $600~$1,200 (annualised approx. $120k~$240k) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系统设计、代码审查和跨功能协作的需求持续增加。澳洲本地大科技公司（Atlassian、Canva、WiseTech）薪资与硅谷差距缩小。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+AI-assisted coding (GitHub Copilot/Cursor) is reshaping entry-level development roles, but demand for system design, code review, and cross-functional collaboration continues to grow. The salary gap between major Australian tech companies (Atlassian, Canva, WiseTech) and Silicon Valley is narrowing.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - AI/ML Application Development
 - Cloud-Native & Microservices
@@ -73,92 +103,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，IT为核心紧缺类别，处理速度快 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，ACS评估+EOI |
-| Subclass 190（Skilled Nominated） | 州提名，ACT/NSW/VIC科技移民通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; IT is a core shortage category with fast processing times |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required — invitation-based, ACS assessment + EOI |
+| Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
+| Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学软件工程师？**
-- 已有软件开发经验（2年以上），希望通过技术移民来澳
-- 英语能力达到 IELTS 6.0+ / PTE 50+（ACS评估和工作环境均需英语）
-- 有扎实的编程基础（Python/Java/TypeScript/Go等主流语言）
-- 有云平台（AWS/Azure/GCP）或AI/ML开发经验（薪资溢价高）
-- 目标是悉尼/墨尔本科技公司或远程工作（灵活度高）
-
-**谁不适合学软件工程师？**
-- 英语能力极弱，无法胜任英语工作环境
-- 仅有初级编程经验（无实际项目经验）
-- 不适应持续学习和快速技术迭代的工作节奏
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Existing software development experience (2+ years), seeking to migrate to Australia through a skilled visa
+- English proficiency of IELTS 6.0+ / PTE 50+ (required for both ACS assessment and the working environment)
+- Strong programming foundations in mainstream languages such as Python/Java/TypeScript/Go
+- Experience with cloud platforms (AWS/Azure/GCP) or AI/ML development (significant salary premium)
+- Targeting Sydney/Melbourne tech companies or remote work (high flexibility)
+
+**Who is not suited**
+- Very limited English proficiency, unable to function in an English-speaking work environment
+- Only entry-level coding experience (no real project experience)
+- Inability to adapt to a culture of continuous learning and rapid technological iteration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a software engineer in Australia?**
+A: Mid-level engineers earn approximately $95,000–$125,000 per year (Indeed average $109,692); senior engineers approximately $130,000–$170,000; top-tier companies such as Atlassian/Canva $170,000–$250,000+.
+
+**Q: Is it easy to find work as a software engineer in Australia?**
+A: Very easy for senior engineers; more competitive at the junior level. Seek lists approximately 6,000–12,000 positions, with federal digital transformation and AI industry expansion continuously driving up demand.
+
+**Q: Are Chinese CS/computer science degrees recognised in Australia?**
+A: Skills assessment through ACS (Australian Computer Society), approx. $500 application fee, processing time 2–6 months. A required step for the 189/190 visa, with a relatively high pass rate.
+
+**Q: Will software engineers be replaced by AI?**
+A: Basic coding (CRUD, repetitive templates) is being impacted by AI Copilot; however, demand for system architecture, complex business logic design, code review and cross-team coordination is actually increasing. AI tools are raising engineers' overall output.
+
+**Q: Is there an age limit for software engineers in Australia?**
+A: No legal restriction. Migration points scoring gives no bonus for applicants aged 45 and over; it is advisable to apply between ages 35–42. Age bias in the Australian IT industry is less pronounced than in US tech companies.
+
+**Q: Do software engineers in Australia need a university degree?**
+A: A skilled migration ACS assessment typically requires a relevant undergraduate degree; however, self-taught individuals with extensive project experience and a strong portfolio may also have the opportunity to secure employment through employer sponsorship (482 visa).
+
+**Q: Is it difficult to get certified or migrate to Australia as a software engineer?**
+A: Relatively straightforward compared to other skilled occupations. The ACS assessment is primarily an academic qualification review with no difficult exams; 189/190 visas are mainly based on EOI points, and highly skilled applicants can typically receive an invitation within 1–2 years.
+
+**Q: Which is better for migrating to Australia — software engineer or cybersecurity engineer?**
+A: Both are excellent migration occupations. Software engineers have far greater job availability (Seek ~10,000+) with slightly lower salaries; cybersecurity engineers command higher salaries ($127k–$148k vs $105k–$125k) but fewer positions. Those with a security background should choose cybersecurity; those with a development background should choose software engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 软件工程师薪资区间 $105k~$125k（2026） |
-| Indeed AU | 软件工程师平均薪资 $109,692（2026） |
-| Australian Computer Society (ACS) | 技能评估机构，189/190签证必须 |
-| Jobs and Skills Australia | ICT职业短缺清单和就业预测 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-软件工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲软件工程师工资多少？**
-答：中级工程师年薪约 $95,000~$125,000（Indeed平均$109,692）；高级工程师约 $130,000~$170,000；Atlassian/Canva等顶级公司 $170,000~$250,000+。
-
-**问：澳洲软件工程师容易找工作吗？**
-答：高级工程师极容易；初级竞争较激烈。Seek 挂牌约 6,000~12,000 个职位，联邦数字化转型和AI产业扩张持续推高需求。
-
-**问：中国CS/计算机学位澳洲认可吗？**
-答：通过 ACS（澳洲计算机学会）技能评估，约 $500 申请费，周期 2~6 个月。是189/190签证的必要步骤，通过率较高。
-
-**问：软件工程师会被AI替代吗？**
-答：初级编码（CRUD、重复模板）受AI Copilot冲击；但系统架构、复杂业务逻辑设计、代码审查和跨团队协调的需求反而增加。AI工具提高了工程师的整体产出。
-
-**问：澳洲软件工程师有年龄限制吗？**
-答：无法律限制。移民打分45岁以上无加分，建议35~42岁尽快申请。澳洲IT行业对年龄偏见少于美国科技公司。
-
-**问：澳洲软件工程师需要大学学历吗？**
-答：技术移民ACS评估通常需要相关本科学历，但有丰富项目经验+强作品集的自学者也有机会通过雇主担保（482签证）入职。
-
-**问：澳洲软件工程师认证/移民难吗？**
-答：相对其他技术类职业较简单。ACS评估主要是学历审核，无高难度考试；189/190签证主要看EOI分数，高技能者通常可在1~2年内获邀。
-
-**问：软件工程师和网络安全工程师哪个更适合移民澳洲？**
-答：两者均是极佳移民职业。软件工程师就业量更大（Seek ~10000+），薪资略低；网络安全工程师薪资更高（$127k~$148k vs $105k~$125k），但职位数量更少。有安全背景者选网络安全，有开发背景者选软件工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

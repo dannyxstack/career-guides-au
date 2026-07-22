@@ -1,129 +1,165 @@
-# Geotechnical Engineer（Geotechnical Engineer）职业分析 · 新西兰
+# Geotechnical Engineer — career analysis · New Zealand
 
-**职业代码：233212 – Geotechnical Engineer。**
+**Occupation code: 233215 (ANZSCO)**
 
-Geotechnical engineers in New Zealand analyze soil, rock, and groundwater for foundations, tunnels, and slopes. Listed on Green List Tier 1, offering a direct residence pathway with steady demand.
+Geotechnical engineers in New Zealand analyze soil, rock, and groundwater to provide design for foundations, roads, tunnels, slopes, etc. This occupation is on the New Zealand Green List Tier 1, allowing direct residence application, with excellent skilled migration opportunities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 土木工程本科 | 4年 | $30,000~$45,000（国际学生每年学费约3-4.5万NZD） |
-| 岩土工程硕士 | 1-2年 | $40,000~$55,000（国际学生每年学费约4-5.5万NZD） |
+| Bachelor's degree (Engineering) | 4 years | $30,000~$45,000 (Annual tuition) |
+| Master's (Master of Engineering) | 1-2 years | $35,000~$50,000 (Annual tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册工程师（CPEng） | Engineering New Zealand | 可选 | 必备注册，需工作经验和面试，非强制但雇主普遍要求 |
-| 华盛顿协议认证工程学位 | 新西兰大学或海外认可院校 | 必备 | 通常要求4年制工程本科，需经NZQA评估 |
-| 雅思总分6.5（单项不低于6） | IELTS | 必备 | 移民语言要求，如持有英语国家学历可豁免 |
+| New Zealand Registered Engineer (REA) | Engineering New Zealand | Required | Required for seal-design work; need CPEng foundation |
+| Washington Accord accredited engineering degree | Engineering New Zealand | Optional | Must complete an accredited 4-year engineering bachelor's degree |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Requires at least 3 years work experience and passing interview; not mandatory but improves competitiveness |
+| IELTS/PTE exam | IDP / British Council etc. | Optional | Skilled migration requires IELTS 6.5 or PTE 58 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。受基建投资和地震区建设需求推动，岩土工程师在新西兰持续短缺，特别是奥克兰、基督城等城市，未来五年就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 1,200. New Zealand’s infrastructure construction continues to grow, including Auckland Light Rail, road upgrades, and housing development, with strong demand for geotechnical engineers. Short to medium-term employment outlook is very strong.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 毕业生起薪约6-8万，需通过研究生培训计划 |
-| 中级（3-7年） | $85,000~$120,000 | 有注册和项目经验者可达10-12万 |
-| 高级（7年以上） | $120,000~$160,000 | 资深工程师或管理层年薪12-16万，可更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$80,000 | Graduate starting salary |
+| Mid-level (3–6 years) | $85,000~$110,000 | Increases with experience. |
+| Senior (6+ years) | $120,000~$160,000 | Including chief or registered engineers. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为高级岩土工程师、项目经理或技术总监，也可转向岩土咨询或地震工程专业领域，注册工程师（CPEng）将提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
+
+Junior geotechnical engineers can advance to senior engineer or project manager by accumulating project experience; after obtaining CPEng registration, they can become technical leads or independent consultants, with significantly higher salaries.
+
+**Tasks most exposed to AI:**
+
+- Automatic organization of geological exploration data and generation of preliminary layering reports
+- Standard calculations for geotechnical test results (e.g., bearing capacity, settlement)
+- Automatic layout and code compliance checking of common excavation support schemes
+- Geotechnical parameter sensitivity analysis and foundation recommendations
+- Automatic alerts and report generation from on-site monitoring data
+
+**Where AI augments the role:**
+
+- AI-assisted 3D geological modeling for rapid multi-scenario risk comparison
+- Use machine learning to predict slope failure probability and seepage paths
+- Automatically generate geotechnical parameter statistical distributions to optimize design value selection
+- Real-time integration of monitoring data and numerical simulation to dynamically adjust construction recommendations
+- Smart document assistant drafts geotechnical engineering reports, manually polished for compliance
+
+**Human moat:**
+
+- Engineering judgement and disposal decisions for complex site conditions (e.g. karst caves, faults)
+- Assume legal practice responsibility, sign design documents and risk identification
+- Cross-disciplinary (structural, geotechnical, construction) communication and field coordination
+- Understanding the physical mechanisms behind compliance standards and applying for exemptions
+- Emergency plan development for sudden incidents (e.g. pit collapse)
+
+**Skills to build:**
+
+- Proficient in PLAXIS/FLAC3D coupled with Python/Grasshopper simulation
+- Learn machine learning basics to build geotechnical parameter prediction models.
+- Proficient in using automated monitoring platforms (e.g., Geokon Data Visualization)
+- Understand digital twin concepts, able to participate in BIM geological model construction
+- Strengthening geotechnical risk management and preparing for registration exams (CPEng/RPEQ)
+- Learn GIS and remote sensing techniques for regional geological assessment
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
 - Infrastructure Boom
-- Seismic Resilience
+- Residence Pathway
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色名单Tier 1直接居留签证，满足薪资中位数要求即可申请，无需工作两年。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下可凭借学历和注册获取分数，目前持续开放。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于持认证雇主offer的申请人，作为过渡性工签，后续可转居留。 |
+| Subclass Green List T1 (Straight to Residence) | Those working in this occupation and meeting education/salary requirements can directly apply for residence without a waiting period |
+| Subclass SMC (Skilled Migrant Category) | 6-point system: qualification 3 points + experience 1-3 points; apply for residence if conditions are met |
+| Subclass AEWV (Accredited Employer Work Visa) | For applicants who do not directly apply for residency; first work on a work visa, then transition to residency later. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geotechnical Engineer？**
-- 喜欢户外和现场工作，具备地质/土木工程背景的毕业生
-- 有结构分析或岩土设计经验，愿意获取职业注册的工程师
-- 寻求快速移民新西兰并愿意长期从事工程行业的人士
-
-**谁不适合学Geotechnical Engineer？**
-- 不喜欢野外观测或出差，偏好纯室内办公者
-- 无法通过雅思6.5或工程注册考试者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who excel in mathematics and physics and have a strong interest in civil engineering
+- People willing to work outdoors and on construction sites, who enjoy solving practical problems
+- Engineers planning to settle in New Zealand through skilled migration
+
+**Who is not suited**
+- People who dislike outdoor work or frequent travel.
+- Those unable to adapt to long overtime hours or project pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geotechnical engineers in New Zealand?**
+A: Entry-level salary 60,000-80,000 NZD, mid-level 85,000-110,000 NZD, senior 120,000-160,000 NZD. Senior engineers with CPEng can earn over 180,000 NZD.
+
+**Q: Can geotechnical engineers immigrate directly via the Green List?**
+A: Yes. Geotechnical Engineers are on the Green List Tier 1 (Direct Residence). They can apply for residence immediately upon meeting qualifications, salary, and registration requirements, with no waiting period required.
+
+**Q: Is local New Zealand registration required to work?**
+A: To engage in design and signing work, registration as a Registered Engineering Associate (REA) in New Zealand is required. However, many entry-level positions do not require registration; having CPEng is more beneficial for career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Geotechnical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical annual salary for a geotechnical engineer in New Zealand?**
-答：Entry-level NZD 60k-80k, mid-level 85k-120k, senior 120k-160k, depending on experience and registration.
-
-**问：Is it easy for a geotechnical engineer to immigrate to New Zealand?**
-答：Relatively easy; it's on Green List Tier 1, allowing direct residence application without a two-year work requirement.
-
-**问：Do I need New Zealand professional registration?**
-答：Not mandatory but highly recommended; most employers require CPEng, and it adds points for immigration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

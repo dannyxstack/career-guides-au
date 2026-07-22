@@ -1,59 +1,95 @@
-# Contractors and supervisors, carpentry trades（Contractors and supervisors, carpentry trades）职业分析 · 加拿大
+# Contractors and supervisors, carpentry trades — career analysis · Canada
 
-**职业代码：72013 – Contractors and supervisors, carpentry trades。**
+**Occupation code: 72013 (NOC)**
 
-Contractors and supervisors in carpentry trades oversee carpentry projects, manage workers, coordinate schedules, ensure quality and safety, and participate in wood structure construction for residential, commercial, and industrial buildings.
+Contractors and supervisors overseeing carpentry projects, managing workers, coordinating schedules, ensuring quality and safety, involved in timber structure construction for residential, commercial, and industrial buildings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学徒制 | 4年 | $2,000~$8,000（省级注册学徒，通常需付费参加技术培训） |
-| 大专文凭 | 2年 | $10,000~$30,000（木工或建筑工程技术课程） |
+| Apprenticeship | 4 years | $2,000~$8,000 (Provincial registered apprentice, usually requires paid technical training) |
+| Diploma | 2 years | $10,000~$30,000 (Carpentry or building engineering technology courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省际红印章资格（Red Seal） | 加拿大学徒制系统 | 必备 | 通过考试后获得，全国认可 |
-| 省级或地区强制认证 | 各省学徒与行业认证机构 | 必备 | 在魁北克、卑诗省等多省强制要求 |
-| 安全教育证书 | 省级安全机构 | 可选 | 如卑诗省CSTS-09或安大略省WHMIS |
+| Interprovincial Red Seal endorsement (Red Seal) | Canadian apprenticeship system | Required | Obtained after passing the exam, nationally recognized |
+| Mandatory certification at provincial or territorial level | Provincial apprenticeship and trade certification bodies. | Required | Mandatory in multiple provinces including Quebec and British Columbia. |
+| Safety education certificate | Provincial safety authority | Optional | e.g., BC CSTS-09 or Ontario WHMIS |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。加拿大建筑业持续增长，木工主管需求稳定，尤其在住宅翻新和基础设施项目中。卑诗省、安大略省和阿尔伯塔省机会较多。预计未来十年职位空缺中等。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Canada's construction industry continues to grow, with steady demand for carpenter supervisors, especially in residential renovations and infrastructure projects. More opportunities in British Columbia, Ontario, and Alberta. Expected moderate job openings over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 通常从熟练木工起步逐步晋升 |
-| 中级（4-7年） | $65,000~$85,000 | 具备管理经验，可独立承包项目 |
-| 高级（8年以上） | $85,000~$110,000 | 资深承包商或大型项目主管，收入可更高 |
+| Median salary | $79,040 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Typically progress gradually from skilled carpentry |
+| Mid-level (4-7 years) | $65,000~$85,000 | With management experience, can independently contract projects. |
+| Senior (8+ years) | $85,000~$110,000 | Senior contractors or large project managers may earn higher income |
+| average salary | $81,120 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从熟练木工晋升为主管或承包商，可进一步成为项目经理或自营建筑公司。积累经验后，可承接更大项目并拓展业务。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+Progress from skilled carpenter to supervisor or contractor, further to project manager or self-employed construction company. With experience, can take on larger projects and expand business.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Construction boom
 - Housing demand
@@ -62,65 +98,67 @@ Contractors and supervisors in carpentry trades oversee carpentry projects, mana
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker / Canadian Experience Class） | 需有至少一年相关工作经验，语言CLB 7，通过综合排名系统(CRS)获邀 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名项目，如安大略省、卑诗省，有雇主offer或紧缺职业优先 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人，可支持工签申请，为移民铺垫 |
+| Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Requires at least one year of relevant work experience, language CLB 7, and invitation through the Comprehensive Ranking System (CRS) |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, prioritize candidates with employer offers or in-demand occupations |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer proves inability to hire locally, supporting work visa applications and paving the way for immigration. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Contractors and supervisors, carpentry trades？**
-- 有多年木工经验且渴望晋升管理岗位的技工
-- 善于协调团队、控制预算和进度的动手型人才
-- 愿意在户外和工地工作、适应体力劳动的人
-
-**谁不适合学Contractors and supervisors, carpentry trades？**
-- 希望完全避免体力劳动或户外工作的人
-- 不喜欢管理责任和人际协调的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled workers with years of carpentry experience aspiring to management roles
+- Hands-on talent skilled in coordinating teams, controlling budgets and timelines
+- People willing to work outdoors and on construction sites, suited to physical labor
+
+**Who is not suited**
+- People who want to completely avoid manual or outdoor work
+- People who dislike management responsibilities and interpersonal coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a carpenter supervisor?**
+A: Depending on experience, junior approx CAD 50,000-65,000, intermediate 65,000-85,000, senior 85,000-110,000, experienced contractors earn more.
+
+**Q: As an overseas carpentry supervisor, what are the main pathways to immigrate to Canada?**
+A: Mainly through Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Most provinces consider it a skilled occupation, with extra points for a job offer. Red Seal endorsement or provincial qualification assessment required.
+
+**Q: Is it mandatory to obtain certification in Canada to work?**
+A: Some provinces such as British Columbia and Quebec mandate certification; other provinces recommend obtaining the Red Seal to increase employment opportunities. Overseas experience can be partially assessed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Contractors and supervisors, carpentry trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for carpentry supervisors?**
-答：Entry-level earns around $50,000-$65,000 CAD, mid-level $65,000-$85,000, senior $85,000-$110,000, with experienced contractors earning more.
-
-**问：What are the main immigration pathways for overseas carpentry supervisors?**
-答：Mainly through Express Entry (FSW/CEC) or Provincial Nominee Programs (PNP). Most provinces consider it a skilled trade; employer offer and Red Seal certification help.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

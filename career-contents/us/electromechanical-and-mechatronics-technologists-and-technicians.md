@@ -1,58 +1,94 @@
-# Electro-Mechanical and Mechatronics Technologists and Technicians（Electro-Mechanical and Mechatronics Technologists and Technicians）职业分析 · 美国
+# Electro-Mechanical and Mechatronics Technologists and Technicians — career analysis · United States
 
-**职业代码：17-3024 – Electro-Mechanical and Mechatronics Technologists and Technicians。**
+**Occupation code: 17-3024 (SOC)**
 
-Operate, test, maintain, or adjust unmanned, automated, servomechanical, or electromechanical equipment; may assist engineers in testing and designing robotics.
+Operates, tests, maintains, or adjusts unmanned, automated, servo-mechanical, or electromechanical equipment; may assist engineers in testing and designing robotic systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$100,000（公立大学学费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机电技术员认证 | 国际自动化学会 | 可选 | 部分雇主偏好 |
-| 安全认证 | OSHA | 可选 | 工作中可能需要 |
+| Mechatronics technician certification | International Society of Automation | Optional | Preferred by some employers |
+| Safety certification | OSHA | Optional | May be required in work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,600。美国就业前景良好，受益于自动化和机器人技术在各行业的广泛采用，预计未来十年就业增长约6%。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 12,600. The job outlook in the US is good, benefiting from the widespread adoption of automation and robotics technology across industries, with expected employment growth of about 6% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$58,000 | 含奖金和津贴 |
-| 中级（3-7年） | $58,000~$78,000 | 有经验者 |
-| 高级（7年以上） | $78,000~$100,000 | 含管理职责 |
+| Median salary | $73,900 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $42,000~$58,000 | Including bonuses and allowances |
+| Mid-level (3–7 years) | $58,000~$78,000 | Experienced individuals |
+| Senior (7+ years) | $78,000~$100,000 | Includes management responsibilities |
+| average salary | $76,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术员起步，积累经验后晋升为高级技术员、团队主管，或通过进修成为机电工程师或自动化工程师。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI and automation will deeply change the work of electromechanical and mechatronic technicians, taking over repetitive testing and document generation while enhancing system design and data analysis capabilities, significantly altering job task structures.
+
+Can start as a technician, accumulate experience, and advance to senior technician, team supervisor, or through further study become a mechanical and electrical engineer or automation engineer.
+
+**Tasks most exposed to AI:**
+
+- Routine functional testing and parameter recording; AI can automate and generate reports
+- Fault diagnosis based on historical data; AI can quickly locate problems
+- Simple electromechanical device programming and debugging; AI can automatically optimize code
+- Parts list organization and document writing, AI can automatically generate
+- Repetitive calibration work can be automated by AI.
+
+**Where AI augments the role:**
+
+- Complex system design and integration, with AI offering simulation and optimization suggestions
+- Anomaly analysis and root cause investigation, AI-assisted data mining
+- Collaborate with engineers to develop new solutions, with AI providing feasibility simulations
+- Cross-disciplinary application of knowledge; AI rapidly provides cross-domain information
+- Project management and quality control, with AI real-time monitoring and alerts
+
+**Human moat:**
+
+- Hands-on experience solving non-standard mechanical/electrical issues
+- Innovative design and creative debugging ability
+- Cross-system integration thinking.
+- Effective communication with engineers and clients
+- On-site emergency response and safety judgment
+
+**Skills to build:**
+
+- Python/PLC programming and automation scripts
+- Digital twin and simulation tools (e.g., MATLAB/Simulink).
+- Machine learning fundamentals and data analysis
+- ROS (Robot Operating System) applications
+- IoT and industrial network protocols
+- System Integration and Project Management
+
+**Key growth areas:**
 
 - automation
 - robotics
@@ -61,65 +97,64 @@ Operate, test, maintain, or adjust unmanned, automated, servomechanical, or elec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于理论或技术应用专业人士，需学士学位或同等学历。 |
-| Subclass EB-3（Employment-Based Third Preference） | 技术工人类别，需PERM劳工证，排期较长。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的绿卡申请，需证明无合适美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | For theoretical or technical application professionals, requires bachelor's degree or equivalent. |
+| Subclass EB-3 (Employment-Based Third Preference) | Skilled Worker category, requires PERM labor certification, long waiting period. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card application, must demonstrate no suitable US workers available. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electro-Mechanical and Mechatronics Technologists and Technicians？**
-- 对机电一体化有浓厚兴趣
-- 喜欢动手操作和解决技术问题
-- 愿意在制造业或自动化领域发展
-
-**谁不适合学Electro-Mechanical and Mechatronics Technologists and Technicians？**
-- 不喜欢重复性工作
-- 对物理和电路知识缺乏兴趣
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in mechatronics
+- Enjoys hands-on work and solving technical problems
+- Willing to develop in manufacturing or automation fields
+
+**Who is not suited**
+- Dislikes repetitive work
+- Lack of interest in physics and circuit knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of electromechanical technicians in the United States?**
+A: Entry-level median annual salary is about $50,000 USD, senior can reach over $80,000, depending on industry and region.
+
+**Q: Is it likely for this occupation to immigrate to the US via an H-1B visa?**
+A: Possibility is medium; requires employer sponsorship and meeting educational requirements, but competition for slots is fierce; EB-3 green card allows long-term residence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Electro-Mechanical and Mechatronics Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for electro-mechanical technicians in the US?**
-答：Entry-level median salary is around $50,000, senior can exceed $80,000, varying by industry and location.
-
-**问：Is H-1B visa a viable option for this occupation?**
-答：Moderate; requires employer sponsorship and degree, but cap is competitive; EB-3 green card offers permanent residency.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Locomotive Engineers（Locomotive Engineers）职业分析 · 美国
+# Locomotive Engineers — career analysis · United States
 
-**职业代码：53-4011 – Locomotive Engineers。**
+**Occupation code: 53-4011 (SOC)**
 
-Drive electric, diesel-electric, steam, or gas-turbine-electric locomotives to transport passengers or freight, interpreting train orders, signals, and railroad rules.
+Drive electric, diesel-electric, steam, or gas turbine electric locomotives to transport passengers or freight; interpret train orders, electronic or manual signals, and railroad regulations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常不需要高等教育） |
-| 在职培训 | 3-6个月 | —（模拟器培训及实习） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually does not require higher education.) |
+| On-the-job training | 3-6 months | $0~$5,000 (Simulator training and internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 联邦铁路管理局（FRA）认证 | 美国联邦铁路管理局 | 必备 | 通过体检、背景调查和操作考试 |
-| 商业驾驶执照（CDL） | 各州机动车管理局 | 可选 | 某些雇主要求 |
-| 铁路操作证书 | 铁路公司 | 必备 | 完成公司培训项目后颁发 |
+| Federal Railroad Administration (FRA) certification | Federal Railroad Administration (USA) | Required | Pass medical exam, background check, and operational test |
+| Railway operation certificate. | Railway company | Required | Issued upon completion of company training program |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Some employer requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 18,500。美国铁路运输需求稳定，但自动化技术发展可能影响就业增长，预计2023-2033年就业增长率约1%，低于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 18,500. US railway transport demand is stable, but automation technology may affect job growth, with projected employment growth of about 1% from 2023-2033, below average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 助理工程师或新入职 |
-| 中级（3-10年） | $80,000~$110,000 | 经验丰富的机车工程师 |
-| 高级（10年以上） | $110,000~$140,000 | 资深工程师或培训师 |
+| Median salary | $81,410 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Assistant engineer or new graduate |
+| Intermediate (3-10 years) | $80,000~$110,000 | Experienced locomotive engineer |
+| Senior (10+ years) | $110,000~$140,000 | Senior Engineer or Trainer |
+| average salary | $85,900 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从助理工程师起步，积累经验后可晋升为机车工程师，之后可成为培训师或调度主管，部分人进入管理层。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Locomotive engineers face mixed impacts from AI/automation: some driving and monitoring tasks can be automated, but complex track judgment, safety responsibilities, and interpersonal communication still rely on humans; overall positions will not disappear but skills need upgrading.
+
+Starting as an assistant engineer, gain experience to become a locomotive engineer, then can become a trainer or dispatch supervisor, some move into management.
+
+**Tasks most exposed to AI:**
+
+- The automatic train operation system takes over routine acceleration, braking, and speed control on the line
+- AI monitoring system automatically detects track obstacles and triggers emergency braking
+- Automated scheduling and route optimization systems eliminate manual dispatching work.
+- Smart sensors monitor machinery status in real time and automatically report faults.
+- Automatic reception and interpretation of electronic signals and train commands
+
+**Where AI augments the role:**
+
+- AI-assisted decision-making system provides optimal fuel efficiency and punctuality recommendations
+- Augmented reality (AR) headset displays real-time road conditions and repair instructions
+- Automatic collision warning system improves reaction to emergencies
+- Big data analytics predict vehicle maintenance cycles, reducing unexpected downtime
+- Voice assistant handles routine dispatch communications, freeing hands to focus on driving
+
+**Human moat:**
+
+- Human judgment in abnormal situations like adverse weather or signal failures
+- Safety responsibility and ethical decision-making regarding passengers and emergencies
+- Flexible response in unstructured environments (e.g., construction zones, level crossings).
+- Efficient team collaboration and communication with dispatchers and maintenance personnel
+- Accurate interpretation and execution of complex and intersecting railway regulations
+
+**Skills to build:**
+
+- AI and Automation System Operation and Troubleshooting
+- Use of data analysis and predictive maintenance tools
+- Augmented reality driving interface and remote monitoring platform operation
+- Cybersecurity fundamentals to address threats to connected train systems
+- Cross-department communication and teamwork skills.
+- Continuous learning ability to adapt to rapidly updating regulations and technologies
+
+**Key growth areas:**
 
 - Declining employment
 - Automation impact
@@ -64,63 +100,65 @@ Drive electric, diesel-electric, steam, or gas-turbine-electric locomotives to t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为机车工程师不符合专业职位要求 |
-| Subclass EB-3（Employment-Based Third Preference） | 极少见，需雇主担保且劳工证困难 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 由于国内劳动力充足，移民路径极其狭窄 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable because locomotive engineers do not meet specialty occupation requirements |
+| Subclass EB-3 (Employment-Based Third Preference) | Very rare; requires employer sponsorship and difficult labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Due to abundant domestic labor, immigration pathways are extremely narrow |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Locomotive Engineers？**
-- 喜欢铁路工作环境
-- 能适应长时间离家和轮班
-- 注重安全和规则
+**Who is suited**
+- Like railway working environment
+- Can adapt to long periods away from home and shift work
+- Focus on safety and rules
 
-**谁不适合学Locomotive Engineers？**
-- 无法接受长时间户外工作
-- 不喜欢重复性操作
+**Who is not suited**
+- Unable to tolerate long outdoor work
+- Dislikes repetitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a locomotive engineer?**
+A: According to U.S. Bureau of Labor Statistics data, the 2023 median annual salary was about $75,000, but varies significantly by experience, region, and employer.
+
+**Q: Can foreign locomotive engineers immigrate to the US on a work visa?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and PERM labor certification is hard to obtain; immigration pathways are extremely narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Locomotive Engineers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for locomotive engineers?**
-答：According to BLS, the median annual wage was about $75,000 in 2023, varying by experience, location, and employer.
-
-**问：Can foreign locomotive engineers immigrate to the US via work visa?**
-答：Very difficult. The occupation rarely qualifies for H-1B, and PERM labor certification is challenging, making migration paths extremely limited.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

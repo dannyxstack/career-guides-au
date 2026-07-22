@@ -1,122 +1,163 @@
-# Musicians and singers（Musicians and singers）职业分析 · 加拿大
+# Musicians and singers — career analysis · Canada
 
-**职业代码：51122 – Musicians and singers。**
+**Occupation code: 51121 (NOC)**
 
-Musicians and singers perform, record, or teach music by singing or playing instruments, working in orchestras, bands, studios, or as independent artists across Canada.
+Instrumental musicians in Canada play one or more instruments, performing live, recording, composing, and teaching. Mostly freelancers, can immigrate via Express Entry or PNP.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 音乐学士学位 | 4年 | $20,000~$50,000（公立大学学费） |
-| 学院文凭 | 2-3年 | $10,000~$25,000（社区学院或音乐学院） |
-| 私人教学 | 不定 | $5,000~$20,000（私人课程和短期证书） |
+| Bachelor's degree (Music) | 4 years | $20,000~$30,000 (Annual tuition for international students at Canadian universities) |
+| Postgraduate (Music Performance) | 2 years | $15,000~$25,000 (One-year master's program tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-（暂无从业资质数据）
-
----
-
-## 3. 职位需求量 / 竞争度 / 工作强度
-
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。加拿大音乐家和歌手就业前景总体良好，但竞争激烈。受数字媒体和现场演出需求推动，大城市机会较多。兼职和自由职业比例高。
-
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+| Qualification | Issuer | Required | Note |
+|---|---|---|---|
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Non-Canadian degree requires ECA |
+| Music degree or diploma | University or conservatory. | Required | Typically requires a bachelor's degree or higher |
+| English/French test scores | IELTS/TEF | Required | CLB 7 or above |
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 3. Job demand / competition / intensity
 
-| 经验水平 | 年薪（CAD） | 备注 |
+**Job demand: medium (★★★☆☆).** National workforce approx. 16,000. Canada's music industry is concentrated in Toronto, Montreal, and Vancouver. Employment growth is expected to be stable over the next decade, but competition is fierce. Freelancers need to build personal brands and networks.
+
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $25,000~$45,000 | 兼职或自由职业收入 |
-| 中级（5-10年） | $40,000~$65,000 | 乐团成员或稳定演出者 |
-| 高级（10年以上） | $60,000~$100,000 | 知名音乐家或音乐总监 |
+| Median salary | $36,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$40,000 | Part-time or small performances |
+| Mid-level (4-7 years) | $40,000~$70,000 | Orchestra member or stable teaching position |
+| Senior (8+ years) | $70,000~$120,000 | Principal musician or renowned soloist |
+| average salary | $48,300 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从自由表演者起步，逐步进入专业乐团、剧院或录音室。资深音乐家可成为指挥、音乐总监或开设音乐学校。持续提升技艺和建立人脉是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
 
-- Live performance
-- Digital streaming
-- Music education
-- Recording industry
+Junior musicians can start with teaching, street performance, or small venues; mid-level can join orchestras, recording studios, or film scoring; senior can become principal musicians, music directors, or soloists.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates background music or simple scores
+- Basic music transcription and arrangement assistance
+- Basic practice accompaniment in music teaching
+- Automation in audio recording and mixing
+
+**Where AI augments the role:**
+
+- Using AI for music composition inspiration and melody generation
+- Analyzes performance and pitch using AI
+- Use AI tools for music marketing and track recommendation
+- AI-assisted ear training and music theory teaching
+- AI-generated dynamic lighting and visual effects synchronized with live performances
+
+**Human moat:**
+
+- Ability to perform live improvisation and interact with the audience.
+- Unique emotional expression and artistic interpretation
+- Personalized guidance and feedback in teaching.
+- Artistic director role for complex music projects
+- Build personal brand and fan community
+
+**Skills to build:**
+
+- AI Music Generation Tools (e.g., MuseNet, AIVA)
+- Digital audio workstation (DAW) and plugins
+- Basics of music data analysis and recommendation algorithms
+- Multimedia performance technology (lighting, projection, VR)
+- Online teaching platform and content creation
+- Copyright management and music marketing knowledge
+
+**Key growth areas:**
+
+- Creative industries
+- Self-employment
+- Digital media
+- Provincial Nominee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明找不到本地人，适合有雇主邀请的艺术家 |
-| Subclass C10（Self-Employed Persons Program） | 自雇移民，适合在文化领域有自雇经验的音乐家 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with Canadian work experience or a high level of education, requiring a Comprehensive Ranking System score. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like BC and Ontario have cultural nomination streams, requiring employer offer or in-province experience. |
+| Subclass SDS (Student Direct Stream) | Study abroad first, then accumulate experience through PGWP before immigrating. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Musicians and singers？**
-- 有音乐天赋和表演热情的人
-- 能承受不稳定收入和工作时间的人
-- 愿意不断学习和自我推广的人
+**Who is suited**
+- Holds a music degree or equivalent experience
+- Able to accept freelance income fluctuations
+- Willing to develop multifacetedly in the music industry (teaching, performance, recording)
 
-**谁不适合学Musicians and singers？**
-- 寻求稳定固定收入的人
-- 不愿面对激烈竞争和拒绝的人
+**Who is not suited**
+- Seeking stable fixed income
+- Unwillingness to continuously practice and improve skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an instrumental musician in Canada?**
+A: According to Canada's Job Bank, median annual salary is about C$50,000, but freelancer income varies widely; many musicians earn C$25,000 to C$70,000 per year.
+
+**Q: Can musicians immigrate to Canada through skilled migration?**
+A: Yes. NOC 51121 falls under TEER 2, eligible for Federal Express Entry (e.g., FSW) or Provincial Nominee Programs. Requires ECA and language test scores.
+
+**Q: Which Canadian cities have high demand for musicians?**
+A: Toronto, Montreal, and Vancouver have the highest demand, followed by Calgary and Ottawa. These cities offer more performance venues, recording studios, and teaching opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Musicians and singers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much do musicians and singers earn in Canada?**
-答：Income varies widely; entry-level may earn below $25,000, while top professionals can exceed $100,000, but many work part-time or freelance.
-
-**问：Can musicians and singers immigrate to Canada?**
-答：Possible through self-employed (C10) or LMIA work permit, but skilled migration is difficult as it usually doesn't meet Express Entry criteria. Self-employed stream requires proof of self-employment experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

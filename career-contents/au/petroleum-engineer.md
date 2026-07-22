@@ -1,61 +1,93 @@
-# Petroleum Engineer（Petroleum Engineer）职业分析 · 澳大利亚
+# Petroleum Engineer — career analysis · Australia
 
-**职业代码：233612 – Petroleum Engineer。**
+**Occupation code: 233612 (ANZSCO)**
 
-Petroleum engineers design and optimize exploration, drilling, production, and transportation of oil and gas resources, ensuring efficient, safe, and environmentally responsible extraction.
+Petroleum engineers design and optimise plans for oil and gas exploration, drilling, production, and transport, ensuring efficient, safe, and environmentally responsible extraction.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$45,000（国际生年均学费约30,000-45,000澳元） |
-| 硕士 | 1-2年 | $35,000~$50,000（国际生年均学费约35,000-50,000澳元） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (International student annual tuition approximately AUD 30,000-45,000.) |
+| Master's degree | 1-2 years | $35,000~$50,000 (International students' annual tuition fees approximately AUD 35,000-50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士（石油工程方向） | EA认证的澳大利亚大学 | 必备 | 完成EA认证课程是注册工程师的基础 |
-| 注册工程师（RPEQ） | 昆士兰州工程注册委员会 | 可选 | 在昆州从事油气工程需RPEQ，其他州过渡期后可互认 |
-| EA技能评估 | Engineers Australia | 必备 | 技术移民需通过EA职业评估（对应ANZSCO 233612） |
+| Bachelor of Engineering (Petroleum Engineering) | EA-accredited Australian universities | Required | Completing an EA-accredited course is the foundation for becoming a registered engineer. |
+| EA skills assessment | Engineers Australia | Required | Skilled migration requires a skills assessment from EA (corresponding to ANZSCO 233612) |
+| Registered Professional Engineer of Queensland (RPEQ) | Queensland Engineering Registration Board | Optional | RPEQ is required for oil and gas engineering in Queensland; mutual recognition possible after transition period in other states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 3,000。澳洲石油工程师需求受全球能源价格和本地资源项目影响较大，未来五年就业增长预计缓慢，但经验丰富的工程师仍有机会。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,000. Demand for petroleum engineers in Australia is significantly influenced by global energy prices and local resource projects. Employment growth is expected to be slow over the next five years, but experienced engineers still have opportunities.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$100,000 | 包括现场津贴 |
-| 中级（3-7年） | $110,000~$150,000 | 含项目奖金 |
-| 高级（7年以上） | $160,000~$220,000 | 高级工程师或管理岗 |
+| Median salary | $182,936 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $70,000~$100,000 | Including site allowance |
+| Mid-level (3–7 years) | $110,000~$150,000 | Including project bonuses |
+| Senior (7+ years) | $160,000~$220,000 | Senior engineer or management role. |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 入门可从现场工程师或钻井工程师做起，积累经验后可晋升为高级工程师、项目经理或技术主管，部分转向咨询或管理岗位。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI can easily replace data analysis and routine design tasks for petroleum engineers, but high-risk field decisions, complex geological modeling, and multidisciplinary coordination still rely on human experience.
+
+Entry can start as a field engineer or drilling engineer; with experience, one can advance to senior engineer, project manager, or technical director, and some may move into consulting or management roles.
+
+**Tasks most exposed to AI:**
+
+- Conventional parameter optimization for reservoir simulation
+- Automatic collation and report generation of drilling history data
+- Design of standard fracturing plans and production forecasting
+- Basic diagnosis and alarms for equipment operating status
+
+**Where AI augments the role:**
+
+- Accelerate 3D reservoir modeling and uncertainty analysis using machine learning
+- AI-assisted real-time drilling parameter optimization to increase drilling speed and reduce risk
+- Automatically generate multi-scenario production plans and evaluate economics
+
+**Human moat:**
+
+- On-site decision-making and accident handling for high-risk drilling operations
+- Manual interpretation and innovative design of complex geological structures
+- Ethical and compliance communication with regulators, communities, and partners
+- Coordination and leadership of interdisciplinary teams (geology, geophysics, drilling and completion)
+
+**Skills to build:**
+
+- Machine learning and data science (Python/TensorFlow)
+- Advanced scripting for reservoir simulation software (CMG, Eclipse)
+- Digital twin and IoT data analysis
+- Risk modeling and uncertainty quantification
+- Cross-cultural communication and project leadership
+- New energy technologies such as carbon capture and storage
+
+**Key growth areas:**
 
 - Energy Transition
 - Offshore Drilling
@@ -64,69 +96,68 @@ Petroleum engineers design and optimize exploration, drilling, production, and t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，需相关工作经验及雇主提名 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需通过职业评估及三年工作经验 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保，部分州可能担保该职业（需具体确认） |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, requires relevant work experience and employer nomination |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requires a skills assessment and three years of work experience. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Remote area state sponsorship, some states may sponsor this occupation (need to confirm) |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Petroleum Engineer？**
-- 喜欢户外和现场工作，能适应偏远或海上环境
-- 对数学、物理和工程原理有扎实基础
-- 愿意持续学习新技术以适应能源转型
-
-**谁不适合学Petroleum Engineer？**
-- 不喜欢频繁出差或移居偏远地区的人
-- 对能源行业周期性波动敏感的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and on-site work, able to adapt to remote or offshore environments
+- Have a solid foundation in mathematics, physics, and engineering principles
+- Willing to continuously learn new technologies to adapt to the energy transition
+
+**Who is not suited**
+- People who dislike frequent travel or relocating to remote areas
+- People sensitive to cyclical fluctuations in the energy industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for petroleum engineers?**
+A: Salary increases significantly with experience and position; senior engineers and management roles can reach over AUD 200,000 per year, but subject to oil and gas price fluctuations.
+
+**Q: Is it difficult for petroleum engineers to migrate to Australia?**
+A: Currently difficult. This occupation is not on the Core Skills Occupation List (CSOL); migration is only possible through employer sponsorship (e.g., 482/186) or some regional state sponsorship (491), and requires EA skills assessment and many years of experience.
+
+**Q: how does the energy transition affect petroleum engineers?**
+A: Energy transition is driving petroleum engineers' skills toward carbon capture and storage (CCS), geothermal energy, and hydrogen projects; traditional oil and gas roles are expected to slowly decline, but the transition brings new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Petroleum Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for petroleum engineers?**
-答：Salaries increase significantly with experience and position; senior engineers and management can earn over AUD 200,000 per year, but it is influenced by oil and gas price fluctuations.
-
-**问：Is it difficult for petroleum engineers to immigrate to Australia?**
-答：Currently quite difficult. The occupation is not on the Core Skills Occupation List (CSOL); only employer-sponsored visas (e.g., 482/186) or some regional state nominations (491) are possible, requiring EA skills assessment and several years of experience.
-
-**问：How does the energy transition affect petroleum engineers?**
-答：The energy transition drives skills transfer to carbon capture and storage (CCS), geothermal energy, and hydrogen projects; traditional oil and gas roles are expected to decline slowly, but new opportunities arise.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Other Arts Teachers（Other Arts Teachers）职业分析 · IE
+# Other Arts Teachers — career analysis · Ireland
 
-**职业代码：2355 – Other Arts Teachers。**
+**Occupation code: 2355 (ISCO08)**
 
-Other arts teachers instruct in visual or performing arts such as painting, sculpture, photography, dance, or drama in private studios, community centres, or vocational settings outside mainstream primary/secondary or higher education.
+Other art teachers teach visual or performing arts like painting, sculpture, photography, dance, drama in private or community institutions, not part of formal primary/secondary or university education, typically for hobbyists or vocational training.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（年均学费，欧盟学生较低约 €5,000-10,000） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（年均学费，部分课程可提升教学竞争力） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (Annual tuition fees, EU students lower at approximately €5,000-10,000.) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (Average annual tuition fee, some courses can enhance teaching competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 艺术或教育相关本科学位 | 爱尔兰大学 | 必备 | 通常需要至少一个相关领域学位 |
-| 教师培训证书 | Teaching Council of Ireland | 可选 | 若在学校任教则需，私立机构通常不强制 |
+| Bachelor's degree in art or education related field | Irish universities | Required | Usually requires at least one degree in a related field. |
+| Teaching training certificate | Teaching Council of Ireland | Optional | Required if teaching at a school, but private institutions usually do not enforce |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰创意产业持续增长，但艺术教师岗位竞争激烈，多为兼职或自雇形式。政府支持文化普及计划带来部分需求，但总体就业机会有限，且依赖经济景气程度。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. Ireland's creative industry is growing, but art teacher positions are highly competitive, often part-time or self-employed. Government support for cultural programs creates some demand, but overall job opportunities are limited and depend on economic conditions.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 兼职或按小时计酬，年收入较低 |
-| 中级（3-8年） | $30,000~$45,000 | 全职或稳定兼职，部分自雇收入更高 |
-| 高级（8年以上） | $45,000~$60,000 | 工作室负责人或知名教师，收入波动大 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Part-time or paid by the hour, with lower annual income |
+| Mid-level (3–8 years) | $30,000~$45,000 | Full-time or stable part-time; some self-employment yields higher income |
+| Senior (8+ years) | $45,000~$60,000 | Studio director or well-known teacher, income fluctuates significantly |
+| average salary | $38,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业路径可从独立艺术教师起步，积累经验后开设个人工作室或艺术学校；或转入社区艺术协调、文化项目管理等角色。少数可担任高等教育助理讲师，但通常需额外学术资格。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The outlook for other art teachers is mixed: AI can automate lesson material preparation and basic skill assessments, but personalized guidance, emotional support, and creative inspiration are hard to replace; entry-level roles may face increased competition due to abundant online resources.
+
+Career paths can start as an independent art teacher, then progress to opening a personal studio or art school after gaining experience; or transition into roles such as community arts coordinator or cultural project manager. A few may become assistant lecturers in higher education, but usually require additional academic qualifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate and grade standardized exercises and quizzes
+- Record and replay basic technique demonstration videos
+- Answer common technique questions via chatbot
+- Automatic course scheduling and academic management
+- AI-generated personalized learning reports
+
+**Where AI augments the role:**
+
+- Uses AI to analyze student work in real time and provide improvement suggestions
+- Using VR/AR simulated scenarios to enhance teaching immersion
+- Using AI recommendation systems to tailor advanced training plans for students.
+- Use AI tools to quickly gather teaching data to optimize course design
+- Using AIGC to Generate Creative Inspiration and Work Samples
+
+**Human moat:**
+
+- Unstructured, emotional teacher-student interaction and motivation
+- In-depth interpretation and guidance on students' creative intent
+- Live improvisation demonstration and error correction skills
+- Develop aesthetic judgment and creative thinking
+- Classroom atmosphere creation and community cohesion building
+
+**Skills to build:**
+
+- Proficient in using AI teaching assistant tools (e.g., ChatGPT, Midjourney)
+- Data analysis and learning management system operation
+- Course Design and Multimedia Content Production
+- Online community management and remote teaching techniques
+- Interdisciplinary application skills such as art therapy
+- Continuous learning and integration of emerging educational technologies
+
+**Key growth areas:**
 
 - part-time
 - self-employment
@@ -63,65 +99,67 @@ Other arts teachers instruct in visual or performing arts such as painting, scul
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于有雇主担保的全职教学职位，需满足工资门槛（一般年薪€30,000以上），艺术教师岗位较难满足条件。 |
-| Subclass Stamp 4 (EU Family M（Stamp 4 (EU Family Member)） | 通过欧盟公民家庭成员身份获得居留，可自由工作或自雇，适合作为艺术教师。 |
+| Subclass General Employment P (General Employment Permit) | Applies to full-time teaching positions with employer sponsorship; must meet the salary threshold (generally annual salary of €30,000 or more). Art teacher positions often struggle to meet this requirement. |
+| Subclass Stamp 4 (EU Family M (Stamp 4 (EU Family Member)) | Obtain residence through EU citizen family member status, can work or be self-employed freely, suitable as an art teacher. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Arts Teachers？**
-- 有艺术专长且热爱教学的人士
-- 善于自我营销和建立客户网络的独立工作者
-- 适应不稳定收入且享受灵活时间安排的自由职业者
+**Who is suited**
+- People with artistic expertise and a passion for teaching
+- Independent workers skilled at self-marketing and building client networks
+- Freelancers adapting to unstable income while enjoying flexible schedules
 
-**谁不适合学Other Arts Teachers？**
-- 追求稳定高收入和全职保障的人士
-- 不愿意从事销售和招生等行政辅助工作的人
+**Who is not suited**
+- For those seeking stable, high income and full-time job security
+- People unwilling to engage in sales and enrollment administrative support
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income for other art teachers in Ireland?**
+A: Income varies greatly; part-time or new teachers earn around €20,000-30,000 annually, while experienced full-time teachers with a stable student base can earn over €45,000, but most are self-employed with unstable income.
+
+**Q: Can other art teachers immigrate to Ireland on a work visa?**
+A: Extremely difficult. This occupation is not on the shortage list; employers must prove they cannot recruit locally, and the salary threshold is high. Typically only possible through a spousal visa or a family visa for EU citizens.
+
+**Q: Are there career advancement opportunities for this occupation in Ireland?**
+A: Limited promotion opportunities, often moving towards opening a personal studio or art school, or shifting to community art project coordination or cultural management roles. A few can work part-time as university lecturers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Other Arts Teachers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for other arts teachers in Ireland?**
-答：Income varies widely; part-time or entry-level teachers earn around €20,000-30,000 per year, while experienced full-time teachers with a steady student base can earn over €45,000, but most are self-employed with irregular income.
-
-**问：Can other arts teachers immigrate to Ireland via work visa?**
-答：Very difficult. The occupation is not on the shortage list; employers must demonstrate local recruitment efforts and meet salary thresholds. Typically, migration is only possible via spouse or EU family member visas.
-
-**问：Is there career progression for this occupation in Ireland?**
-答：Progression is limited, often towards opening a private studio or arts school, or moving into community arts coordination or cultural management. A few may work as part-time university lecturers.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

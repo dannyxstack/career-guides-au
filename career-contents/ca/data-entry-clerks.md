@@ -1,58 +1,94 @@
-# Data entry clerks（Data entry clerks）职业分析 · 加拿大
+# Data entry clerks — career analysis · Canada
 
-**职业代码：14111 – Data entry clerks。**
+**Occupation code: 14111 (NOC)**
 
-Responsible for accurately entering various data (e.g., text, numbers) into computer systems, often using keyboards or scanning devices, ensuring data integrity and accuracy. Work settings include offices, hospitals, government agencies.
+Responsible for accurately entering various data (such as text, numbers) into computer systems, typically using a keyboard or scanning device, ensuring data integrity and accuracy. Work settings include offices, hospitals, government agencies, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 不适用 | —（基本要求，通常需高中毕业） |
-| 大学文凭或证书 | 1年 | $5,000~$15,000（商业管理或办公室技能相关课程） |
+| High school diploma | Not applicable | $0~$0 (Basic requirements, usually high school diploma) |
+| University diploma or certificate | 1 year | $5,000~$15,000 (Business management or office skills related courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省级教育部门 | 必备 | 基本入学要求 |
-| 打字技能认证 | 私立培训机构 | 可选 | 非强制但有助于求职 |
+| High school diploma | Provincial education department | Required | Basic admission requirements |
+| Typing Skills Certification | Private training provider | Optional | not mandatory but helpful for job search |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。加拿大数据录入员就业前景中等，自动化趋势导致需求缓慢下降。主要集中在医疗、金融、物流等行业。大都市地区机会较多，但竞争也较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Job prospects for data entry clerks in Canada are moderate; automation trends are causing a slow decline in demand. Mainly concentrated in healthcare, finance, logistics, etc. More opportunities in metropolitan areas, but competition is also higher.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$37,000 | 每小时约14-18加元 |
-| 中级（3-6年） | $37,000~$45,000 | 经验丰富者薪资更高 |
-| 高级（6年以上） | $45,000~$52,000 | 可升为数据质检员或团队主管 |
+| Median salary | $48,880 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$37,000 | Approx. C$14–18 per hour |
+| Mid-level (3–6 years) | $37,000~$45,000 | Experienced professionals earn higher salaries |
+| Senior (6+ years) | $45,000~$52,000 | Can be promoted to data quality inspector or team supervisor |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级数据录入员可晋升为数据质量检查员、团队主管，或转向数据分析、行政助理等岗位。持续学习新软件和自动化工具可增强职业竞争力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Data entry clerk is a high-risk automation occupation. AI/OCR technology can already replace most manual entry tasks, with demand continuously shrinking and limited future survival space.
+
+Entry-level data entry clerks can advance to data quality checker, team supervisor, or transition to data analysis, administrative assistant, etc. Continuous learning of new software and automation tools enhances career competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Manually typing text and numbers from paper or digital documents
+- Use scanners and OCR software for batch data capture
+- Check and correct basic data entry errors
+- Copy data from one system to another.
+- Generate simple data reports and summaries
+
+**Where AI augments the role:**
+
+- Use AI tools to quickly verify data consistency and improve accuracy
+- Automate repetitive data entry using RPA software to free up human labor
+- AI-assisted recognition of blurred or handwritten text, expanding the types of data that can be processed
+- Combines natural language processing (NLP) for converting unstructured text into structured data.
+- Automatically monitors input quality and generates anomaly alerts
+
+**Human moat:**
+
+- Process complex, unusual or highly specialised data (e.g. medical records, legal documents)
+- Judging and interpreting data context (e.g., identifying ambiguities, correcting logic errors).
+- Communicate with clients or colleagues to clarify data sources and meanings
+- Manage data governance and privacy compliance requirements.
+- Design and optimize data entry processes to improve overall efficiency
+
+**Skills to build:**
+
+- Data analysis and visualization tools (e.g., advanced Excel functions, Tableau)
+- RPA tools (e.g., UiPath, Automation Anywhere)
+- Database query language (SQL)
+- Basic Programming (Python for Data Cleaning and Automation)
+- Data quality management and governance skills
+- Process optimisation and project management
+
+**Key growth areas:**
 
 - Data Entry
 - Administrative Support
@@ -61,68 +97,67 @@ Responsible for accurately entering various data (e.g., text, numbers) into comp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker） | 需满足联邦技术工人评分要求，通常需大专以上学历和1年工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可提名数据录入员，需雇主offer |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA担保工签，但该职业通常较难获批 |
+| Subclass Express Entry (Federal Skilled Worker) | Must meet Federal Skilled Worker scoring requirements, typically a post-secondary diploma and 1 year of work experience |
+| Subclass PNP (Provincial Nominee Program) | Some states can nominate data entry clerks, requiring employer offer |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA-supported work visa, but this occupation is usually difficult to obtain approval. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Data entry clerks？**
-- 耐心细致、注重准确性的人
-- 对基础计算机操作熟练的人
-- 愿意从事重复性工作的求职者
-
-**谁不适合学Data entry clerks？**
-- 追求高薪和快速晋升的人
-- 希望从事创造性或高社交互动工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, detail-oriented, and accuracy-focused individuals
+- People proficient in basic computer operations
+- Job seekers willing to do repetitive work
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who wish to engage in creative or highly social-interactive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a data entry clerk in Canada?**
+A: Junior approx. CAD 30,000-37,000, mid-level CAD 37,000-45,000, senior CAD 45,000-52,000, affected by region and industry.
+
+**Q: What immigration pathways can data entry operators use to come to Canada?**
+A: Mainly through Express Entry (FSW) or Provincial Nominee Program (PNP), but require employer offer or meet high score. LMIA work visa harder to obtain.
+
+**Q: Are there career advancement opportunities for data entry operators?**
+A: Yes, can advance to data quality inspector, team leader, or transition to data analysis, administrative assistant, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Data entry clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for data entry clerks in Canada?**
-答：Entry-level around CAD 30,000-37,000, mid-level CAD 37,000-45,000, senior CAD 45,000-52,000, varying by region and industry.
-
-**问：What immigration pathways are available for data entry clerks to Canada?**
-答：Mainly through Express Entry (FSW) or PNP, requiring job offer or high CRS score. LMIA work permits are harder to obtain.
-
-**问：Is there career advancement for data entry clerks?**
-答：Yes, can advance to data quality checker, team supervisor, or transition to data analyst, administrative assistant roles.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

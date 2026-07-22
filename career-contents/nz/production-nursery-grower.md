@@ -1,59 +1,91 @@
-# Production Nursery Grower（Production Nursery Grower）职业分析 · 新西兰
+# Production Nursery Grower — career analysis · New Zealand
 
-**职业代码：121614 – Production Nursery Grower。**
+**Occupation code: 121614 (ANZSCO)**
 
-Responsible for planning, planting, cultivating and harvesting plants in nurseries, managing production processes to ensure quality and yield. This occupation is eligible for Skilled Migrant Category or Green List residence pathways, subject to qualification or experience requirements.
+Responsible for planning, planting, cultivating, and harvesting plants in a nursery, managing production processes to ensure quality and yield. This occupation can apply for New Zealand residency through the Skilled Migrant Category or Green List pathway, but must meet educational or experience requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰园艺证书（Level 4） | 1年 | $6,000~$12,000（公立理工学院学费，国际生约1.5万-2万NZD） |
-| 园艺文凭（Level 5-6） | 2年 | $12,000~$20,000（国际生总费用约3万-4万NZD） |
+| New Zealand Certificate in Horticulture (Level 4) | 1 year | $6,000~$12,000 (Public polytechnic tuition fees for international students are approximately NZD 15,000-20,000 per year.) |
+| Diploma in Horticulture (Level 5-6) | 2 years | $12,000~$20,000 (International student total cost about 30,000-40,000 NZD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰园艺证书（Level 4） | 公立理工学院如Nelson Marlborough Institute of Technology | 可选 | 常见入门学历，部分雇主强制要求 |
-| GrowSafe证书 | 新西兰农业行业协会 | 可选 | 化学品安全使用证书，部分雇主要求 |
-| 英语语言成绩（雅思6.0或同等） | 移民局认可机构 | 可选 | 技术移民要求，非强制但有助就业 |
+| New Zealand Certificate in Horticulture (Level 4) | Public polytechnics such as Nelson Marlborough Institute of Technology. | Optional | Common entry-level qualification, mandatory for some employers |
+| GrowSafe certificate | New Zealand Agricultural Industry Association | Optional | Chemical safety certificate, required by some employers |
+| English language proficiency (IELTS 6.0 or equivalent) | Department of Home Affairs recognized body | Optional | Required for skilled migration, not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰园艺和林业持续增长，对苗圃种植者的需求稳定，尤其在坎特伯雷、丰盛湾等地区。预计未来5年岗位数量缓慢增长，但竞争适中。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,500. New Zealand's horticulture and forestry sectors are growing, with stable demand for nursery growers, especially in Canterbury, Bay of Plenty, and other regions. Job numbers are expected to grow slowly over the next 5 years, but competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26NZD |
-| 中级（3-6年） | $55,000~$70,000 | 时薪约26-34NZD |
-| 高级（6年以上） | $70,000~$90,000 | 时薪约34-43NZD，主管级可达10万+ NZD |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate approximately 22-26 NZD |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hourly wage approx. 26-34 NZD |
+| Senior (6+ years) | $70,000~$90,000 | Hourly rate approx. NZD 34-43, supervisor level can reach NZD 100k+ |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级种植者可在苗圃积累经验后晋升为生产主管或经理，也可向园艺顾问或自主经营苗圃发展。部分从业者通过进修获得园艺学位提升职业前景。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Production nursery growers face a mix of AI automation and enhancement. AI can optimize repetitive tasks like irrigation and pest monitoring, but cultivation judgment and manual operations still require human experience. Entry-level positions may be reduced due to automation, but demand for high-skilled roles increases.
+
+Junior growers can gain experience in nurseries before being promoted to production supervisors or managers, or moving into horticultural consulting or running their own nursery. Some pursue further study to obtain a horticulture degree to enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Automated irrigation systems automatically adjust water volume based on soil moisture data, eliminating the need for manual timed inspections.
+- AI visual recognition system replaces manual early detection and classification of pests and diseases
+- Drones autonomously inspect nurseries, generating real-time growth reports
+- Precision fertilisation based on sensors and algorithms, reducing manual calculation and operation
+
+**Where AI augments the role:**
+
+- AI analyzes historical data and climate models to help plan optimal planting times and crop combinations
+- Smart environmental control systems automatically regulate greenhouse temperature, light and humidity to optimize plant growth
+- AI-driven growth prediction models help formulate harvesting plans and inventory management in advance
+- Augmented reality (AR) devices assist in training new employees to identify plant diseases and follow operation standards
+
+**Human moat:**
+
+- Deep understanding of plant physiology and local ecology to handle non-standard abnormal situations
+- Precision manual skills such as grafting, pruning, and transplanting require fine operation and judgment.
+- Communicating with clients, designing customized production solutions, and building trust relationships
+- Strategic decision-making and resource allocation capability for cross-season production planning
+
+**Skills to build:**
+
+- Agricultural data analysis and use of AI tools (e.g., growth models, remote sensing platforms)
+- Automated equipment operation and maintenance (irrigation systems, robots, drones)
+- Ability to integrate knowledge of plant pathology and precision agriculture
+- Environmental monitoring system configuration and abnormal alarm response.
+- English communication and customized solution design for clients
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +94,67 @@ Responsible for planning, planting, cultivating and harvesting plants in nurseri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制下，可与学历、注册或收入组合满足6分要求；职业在ANZSCO 3级，需有相关学历或工作经验。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 职业在绿色清单第二梯队，从事2年后可申请居留；需满足薪资中位数（2024年约29.66NZD/小时）及以上。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 可由认证雇主担保工签，工作2年后可申请居留（需满足条件）。 |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, can combine with qualifications, registration, or income to meet the 6-point requirement; occupation is ANZSCO Level 3, requiring relevant qualifications or work experience. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Occupation is in Tier 2 of the Green List; eligible for residency after 2 years of work; must meet median wage (approx. 29.66 NZD/hour in 2024) or above. |
+| Subclass AEWV (Accredited Employer Work Visa) | Work visa sponsored by accredited employer; can apply for residence after 2 years of work (subject to conditions). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Nursery Grower？**
-- 热爱园艺、户外工作，动手能力强的人
-- 具备植物学或园艺知识，愿意在农场或苗圃工作的人
-- 寻求新西兰居留，愿意从基层积累经验的技术移民
-
-**谁不适合学Production Nursery Grower？**
-- 不喜欢体力劳动或户外环境的人
-- 偏好办公室工作或低强度工作节奏的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love gardening, outdoor work, and are hands-on
+- People with knowledge of botany or horticulture willing to work on farms or nurseries
+- Skilled migrants seeking New Zealand residency and willing to gain experience from grassroots level
+
+**Who is not suited**
+- People who do not like physical labour or outdoor environments
+- People who prefer office work or a low-intensity work pace
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for production nursery growers?**
+A: Entry-level annual salary approx. NZD 45k-55k, intermediate NZD 55k-70k, senior NZD 70k-90k, supervisor up to NZD 100k+. Salary varies by region and experience.
+
+**Q: How to immigrate to New Zealand through this occupation?**
+A: Eligible via Skilled Migrant Category (SMC 6-point system) or Green List Tier 2 work-to-residence pathway. Must meet ANZSCO Skill Level 3 requirements, relevant qualifications or work experience, and salary at median (approx. NZ$29.66/hour).
+
+**Q: is this occupation a shortage occupation in New Zealand?**
+A: Yes, this occupation is on the Green List Tier 2, indicating a skills shortage. Demand is especially high in horticulture and forestry regions such as Canterbury and Bay of Plenty.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Production Nursery Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a production nursery grower?**
-答：Entry-level salary is about NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000, and manager level can exceed NZD 100,000. Varies by region and experience.
-
-**问：How can I migrate to New Zealand through this occupation?**
-答：You can apply via Skilled Migrant Category (6-point system) or Green List Tier 2 (Work to Residence). You need to meet ANZSCO Skill Level 3, relevant qualifications or experience, and a salary at or above the median wage (approx. NZD 29.66/hr in 2024).
-
-**问：Is this occupation in shortage in New Zealand?**
-答：Yes, it is on the Green List Tier 2, indicating skill shortage. Demand is higher in horticulture and forestry regions like Canterbury and Bay of Plenty.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

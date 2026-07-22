@@ -1,58 +1,94 @@
-# Economist（Economist）职业分析 · ES
+# Economist — career analysis · Spain
 
-**职业代码：2810 – Economist。**
+**Occupation code: 2810 (CNO)**
 
-Economists analyze economic data, forecast trends, and advise governments, businesses, or financial institutions on policy and investment decisions. Requires strong math and statistics background.
+Economists analyze economic data and forecast trends, providing policy and investment advice to governments, businesses, or financial institutions. A solid background in mathematics and statistics is required.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$8,000（公立大学年均学费1,000-2,000€，私立3,000-8,000€） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（公立硕士约2,000-4,000€/年，私立5,000-12,000€/年） |
+| Undergraduate (Grado) | 4 years | $1,000~$8,000 (Public university average tuition €1,000-2,000 per year, private €3,000-8,000.) |
+| Máster | 1-2 years | $2,000~$12,000 (Public master's programs cost about €2,000-4,000 per year, private ones €5,000-12,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 经济学学士/硕士学位 | 西班牙教育部认可大学 | 必备 | 必备学历，需通过Homologación认证（非欧盟学历） |
-| 注册经济学家（Colegio de Economistas） | 官方经济学家协会 | 可选 | 非强制，但显著提升就业竞争力 |
+| Bachelor's/Master's degree in Economics | The Spanish Ministry of Education accredits the university | Required | Required qualifications: Must pass Homologación certification (non-EU qualification) |
+| Registered Economists (Colegio de Economistas) | Official Association of Economists | Optional | Not mandatory, but significantly enhances employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,000。西班牙经济复苏与数字化转型推动经济学家需求增长，尤其在能源、绿色经济和数据分析领域。公共部门（如央行、统计局）和大型咨询公司是主要雇主。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 18,000. Spain's economic recovery and digital transformation are driving growth in economist demand, especially in energy, green economy, and data analytics. The public sector (such as central banks and statistics bureaus) and large consulting firms are the main employers.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，公共部门略低，私营咨询公司略高 |
-| 中级（4-7年） | $35,000~$50,000 | 包括高级分析师、项目经理等职位 |
-| 高级（8年以上） | $50,000~$80,000 | 部门主管、首席经济学家等，大型金融机构可达100,000€以上 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salaries are slightly lower in the public sector and slightly higher in private consulting firms |
+| Mid-level (4-7 years) | $35,000~$50,000 | Including positions such as senior analyst and project manager |
+| Senior (8+ years) | $50,000~$80,000 | Department heads, chief economists, and large financial institutions can earn over €100,000 |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级分析师→中级经济学家→高级经济学家/部门主管。可向金融、咨询或学术领域纵向发展，或跨领域至政策研究、风险管理。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
+
+Junior analyst→ intermediate economist→ senior economist/department head. Vertical development can be in finance, consulting, or academia, or cross-disciplinary work into policy research and risk management.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., handling missing values, data merging)
+- Automated report generation for routine statistical tests (e.g., t-tests, chi-square tests)
+- Basic regression analysis and model diagnostics
+- Automated data visualization generation and chart selection
+- Repetitive sample size calculation and power analysis
+
+**Where AI augments the role:**
+
+- Advanced statistical model selection and parameter tuning (via AutoML and Bayesian optimization)
+- Causal inference and experimental design (combined with AI methods like causal forests)
+- Unstructured data analysis (text, image statistical embeddings)
+- Simulation and Monte Carlo method acceleration (using GPU and distributed computing)
+- Collaboration with domain experts for hypothesis generation and result interpretation
+
+**Human moat:**
+
+- Statistical consulting and cross-domain problem translation skills
+- Statistical method innovation and theoretical contributions (e.g., developing new estimators)
+- Regulatory compliance and ethical review (e.g., privacy-protected statistics)
+- Complex causal inference and confounding variable control
+- Educating and Training Non-Statistical Personnel to Understand Statistical Concepts
+
+**Skills to build:**
+
+- Causal inference methods (DAG, instrumental variables, difference-in-differences)
+- Bayesian statistics and probabilistic programming (e.g., PyMC, Stan)
+- AI-assisted modeling tools (AutoGluon, H2O AutoML)
+- Unstructured data analysis (natural language processing, image feature extraction)
+- Data engineering fundamentals (SQL, cloud platforms, data pipelines)
+- Communication and data storytelling (visual dashboards, interactive reports)
+
+**Key growth areas:**
 
 - Data Analytics
 - Green Economy
@@ -61,68 +97,67 @@ Economists analyze economic data, forecast trends, and advise governments, busin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，年薪门槛约33,908€（2023），需大学学历及工作合同。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 面向高管、专家等，需公司担保，年薪通常高于40,000€，审批较快。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 普通工作居留，需公司证明职位无法在本地填补，审批周期较长。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, with an annual salary threshold of about €33,908 (2023), requiring a university degree and a work contract. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For executives, experts, etc., company sponsorship is required, annual salary usually exceeds €40,000, and approval is relatively quick. |
+| Subclass Cuenta ajena (Work Permit (employed)) | For ordinary work residence, the company must prove that the position cannot be filled locally, resulting in a relatively long approval period. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economist？**
-- 数学与逻辑思维强，对宏观经济与政策敏感
-- 喜欢数据分析与建模，能从数据中提炼洞见
-- 愿意持续学习，关注全球经济和西班牙市场动态
-
-**谁不适合学Economist？**
-- 不擅长抽象数学和统计工具
-- 厌恶高强度报告撰写与截止日期压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong mathematical and logical thinking, sensitive to macroeconomics and policy
+- Enjoys data analysis and modeling, able to extract insights from data
+- Be willing to keep learning, keep an eye on global economic and Spanish market trends
+
+**Who is not suited**
+- Not skilled in abstract mathematics and statistical tools
+- Dislikes the pressure of high-intensity report writing and deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Spanish economists?**
+A: Entry-level is about €25,000-35,000, upper-intermediate €35,000-80,000, and the public sector is lower than private sector. In big cities (Madrid, Barcelona), salaries are higher.
+
+**Q: How do foreign economists immigrate to Spain?**
+A: You can obtain the EU Blue Card (annual salary ≥€33,908) or the High-Skilled Talent visa, which requires academic certification (Homologación) and a work contract. Spain is in short supply for economists, so applications are relatively convenient.
+
+**Q: What employment fields are available for economists in Spain?**
+A: Main fields: finance and banking, consulting firms, public administration (central bank, statistics bureau), academia, international organizations. Digital and green transformation bring new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Economist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for economists in Spain?**
-答：Entry-level: €25,000-35,000; mid-level: €35,000-50,000; senior: €50,000-80,000. Public sector pays less, Madrid/Barcelona pay more.
-
-**问：How can foreign economists immigrate to Spain?**
-答：Via EU Blue Card (salary ≥€33,908) or Highly Skilled Professional visa, requiring degree homologation and job offer. Economists are in shortage, so process is relatively smooth.
-
-**问：What are the major employment fields for economists in Spain?**
-答：Key sectors: finance/banking, consulting, public administration (Bank of Spain, INE), academia, international organizations. Digital and green transitions create new opportunities.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

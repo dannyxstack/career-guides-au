@@ -1,59 +1,92 @@
-# Occupational Therapy Assistants（Occupational Therapy Assistants）职业分析 · 美国
+# Occupational Therapy Assistants — career analysis · United States
 
-**职业代码：31-2011 – Occupational Therapy Assistants。**
+**Occupation code: 31-2011 (SOC)**
 
-Assist occupational therapists in providing treatments and procedures, including developing treatment plans, carrying out routine functions, directing activity programs, and documenting progress. Formal training generally required.
+Assist occupational therapists in providing treatment services, including developing treatment plans, implementing routine functions, guiding activity programs, and recording progress; usually requires formal training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院或技术学校，公立学费较低） |
-| 学士学位（可选） | 4年 | $40,000~$100,000（部分雇主偏好，但非必需） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college or technical school, lower public tuition) |
+| Bachelor's degree (optional) | 4 years | $40,000~$100,000 (Some employers prefer, but not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业治疗助理副学士学位 | 社区学院或技术学校 | 必备 | ACOTE认证项目，必修 |
-| NBCOT认证 | 国家职业治疗认证委员会 | 必备 | 通过考试获得认证，多数州要求 |
-| 州执照 | 各州职业治疗委员会 | 必备 | 各州要求不同，通常包括背景审查 |
+| Associate degree in Occupational Therapy Assistant | Community college or technical school | Required | ACOTE-accredited program, mandatory |
+| NBCOT certification | National Occupational Therapy Certification Board | Required | Certification obtained through exams, required in most states |
+| State license | State occupational therapy boards | Required | Requirements vary by state, usually include background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 39,200。随着老龄化人口和康复需求增加，职业治疗助理的就业前景良好。BLS预计2022-2032年增长约14%，远高于平均水平，每年约新增3300个职位。
+**Job demand: high (★★★★☆).** National workforce approx. 39,200. With an aging population and increasing rehabilitation needs, job prospects for occupational therapy assistants are good. BLS projects growth of about 14% from 2022-2032, much faster than average, with about 3,300 new jobs annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级薪资 |
-| 中级（3-7年） | $55,000~$70,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $70,000~$85,000 | 主管或特殊领域专家 |
+| Median salary | $72,300 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level salary |
+| Mid-level (3–7 years) | $55,000~$70,000 | Salary increases with experience |
+| Senior (7+ years) | $70,000~$85,000 | Supervisor or specialist in a specific area. |
+| average salary | $70,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级助理晋升为高级助理或主管，部分通过继续教育成为职业治疗师（需硕士学位）。也可转向康复管理或教学岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI as a powerful assistive tool will greatly enhance the efficiency of occupational therapy assistants, but will not replace core interpersonal interaction and clinical judgment; overall risk is low.
+
+Can advance from junior assistant to senior assistant or supervisor; some become occupational therapists through continuing education (requires master's degree). Also can transition to rehabilitation management or teaching roles.
+
+**Tasks most exposed to AI:**
+
+- Patient progress recording and report writing
+- Preliminary design of treatment activity plan (based on templates)
+- Inventory management of treatment equipment and materials
+- Entry and organization of basic patient data
+
+**Where AI augments the role:**
+
+- Use AI to analyze patient movement data to optimize personalized treatment plans
+- Generate visual treatment feedback via AI to enhance patient engagement
+- Use AI-assisted tools to quickly retrieve latest rehabilitation plans
+- Remote monitoring system AI abnormal warning, timely adjustment of treatment intensity
+
+**Human moat:**
+
+- Empathy and emotional support in one-on-one patient interactions.
+- Clinical intuition to adjust treatment techniques based on patient's immediate response
+- Ability to handle emergencies (e.g., patient emotional breakdowns)
+- Complex social coordination with therapists, family members, and other parties
+
+**Skills to build:**
+
+- Master basic AI tools (e.g., automated document generation, data visualization)
+- Learn to use motion capture and sensor data analysis platforms
+- Enhancing patient communication and motivation skills (which AI cannot replace)
+- Familiar with operation of remote rehabilitation platforms and AI-assisted diagnostic functions
+- Understanding advanced features of Electronic Health Record systems and AI integration
+- Participate in cutting-edge training or certification combining AI and rehabilitation
+
+**Key growth areas:**
 
 - Aging population
 - Rehabilitation demand
@@ -62,65 +95,64 @@ Assist occupational therapists in providing treatments and procedures, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，但副学士可能不符合要求，部分雇主可申请 |
-| Subclass EB-3（EB-3 Skilled Workers） | 通过PERM劳工证申请绿卡，需雇主支持 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大和墨西哥公民，职业治疗助理不在TN名单中，但可尝试 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, but an associate degree may not meet requirements; some employers can apply. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Apply for a green card through PERM labor certification, requires employer sponsorship |
+| Subclass TN (TN NAFTA Professional) | Applies only to Canadian and Mexican citizens; occupational therapy assistants are not on the TN list but may try |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Occupational Therapy Assistants？**
-- 有耐心和同理心的人
-- 喜欢帮助他人康复的人
-- 追求稳定医疗职业但不想读硕士的人
-
-**谁不适合学Occupational Therapy Assistants？**
-- 不喜欢重复性文书工作的人
-- 对医疗环境不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with patience and empathy
+- People who enjoy helping others recover
+- Individuals seeking stable medical careers but unwilling to pursue a master's degree
+
+**Who is not suited**
+- People who dislike repetitive clerical work
+- People who are uncomfortable with medical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an occupational therapy assistant?**
+A: According to the BLS, the average annual salary in 2023 is about USD 62,000, with an hourly wage of about USD 29.8. Salaries vary by experience and location.
+
+**Q: Can occupational therapy assistants work in the US on an H-1B visa?**
+A: Usually requires an associate's degree, but H-1B requires at least a bachelor's degree, so opportunities are limited. Some employers may apply with 'equivalent experience', but it's difficult. EB-3 green card is more common.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Occupational Therapy Assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for occupational therapy assistants?**
-答：According to BLS, the median annual wage was about $62,000 in 2023, or $29.8 per hour. Varies by experience and location.
-
-**问：Can occupational therapy assistants get an H-1B visa?**
-答：Typically requires a bachelor's degree, but an associate degree may not qualify. EB-3 green card is a more common pathway.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

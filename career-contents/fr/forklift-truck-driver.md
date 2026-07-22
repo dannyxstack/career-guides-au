@@ -1,60 +1,90 @@
-# Forklift Truck Driver（Forklift Truck Driver）职业分析 · FR
+# Forklift Truck Driver — career analysis · France
 
-**职业代码：N1101 – Forklift Truck Driver。**
+**Occupation code: N1101 (ROME)**
 
-Operates forklifts and other handling equipment to move, load, unload, and stack goods in warehouses, factories, or logistics centers.
+Operate forklifts, forklifts, and other engineering equipment to handle, load, unload, and stack goods in warehouses, factories, or logistics centers.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求，或短期培训 | 1-2周 | $500~$1,500（培训费用因机构而异，可通过法国就业局（France Travail）资助） |
-| CAP Conducteur d'engins | 2年（CAP） | —（可通过学徒制完成，企业承担部分费用） |
+| No educational requirements, or short-term training | 1-2 weeks | $500~$1,500 (Training fees vary by institution and can be funded through the French Employment Agency (France Travail).) |
+| CAP Conducteur d'engins | 2 years (CAP) | $0~$5,000 (It can be completed through apprenticeships, with enterprises covering part of the costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES（操作许可） | 法国劳动部授权的认证机构（如AFNOR） | 必备 | 分为不同类别（如CACES 1/3/5），企业通常要求持有有效CACES证书 |
-| CAP Conducteur d'engins | 法国教育部 | 可选 | 建议但非强制，可增加就业竞争力 |
+| CACES (Operating License) | Certification bodies authorized by the French Ministry of Labor (such as AFNOR) | Required | Divided into different categories (such as CACES 1/3/5), companies are usually required to hold a valid CACES certificate |
+| CAP Conducteur d'engins | French Ministry of Education | Optional | Recommended but not mandatory, it can increase employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 250,000。受电子商务和物流业持续增长推动，法国叉车驾驶员需求稳定。自动化仓储普及可能减少部分岗位，但人工操作仍不可或缺，尤其是灵活仓储场合。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Driven by continued growth in e-commerce and logistics, demand for forklift drivers in France remains stable. The widespread adoption of automated warehousing may reduce some jobs, but manual operations remain indispensable, especially in flexible warehousing scenarios.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含加班费 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，含团队主管职责 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual salary before tax, including overtime pay |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, including team supervisor responsibilities |
+| average salary | $32,832 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级操作员晋升为高级叉车驾驶员或团队主管。通过考取更高等级证书可操作特殊设备（如伸缩臂叉车），进而转向仓库管理或物流协调岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Forklift operator positions face the risk of automation shrinking, but AI technology can assist with route optimization and safety management, and will not be completely replaced in the short term.
+
+Promotion from junior operator to senior forklift driver or team leader. By obtaining higher-level certifications, you can operate specialized equipment (such as telescopic boom forklifts) and move on to warehouse management or logistics coordination roles.
+
+**Tasks most exposed to AI:**
+
+- Automated Cargo Handling and Palletizing (AGV/Automatic Forklift Replacement)
+- Inventory counting and data recording (AI vision and IoT automated completion)
+- Repetitive transport on fixed lines (unmanned forklift dispatch)
+
+**Where AI augments the role:**
+
+- AI path planning optimizes handling efficiency (real-time obstacle avoidance and shortest path recommendation)
+- Intelligent warning system assists safe driving (fatigue detection, collision warning)
+- Automatic data analysis and report generation (such as cargo turnover rate and energy consumption analysis)
+
+**Human moat:**
+
+- Flexible maneuvering and abnormal handling in complex environments (such as obstacle avoidance and handling of non-standard goods)
+- Multi-device collaboration and manual supervision responsibility (ensuring human-machine safety)
+- On-site decision-making and communication skills (responding to emergencies, coordinating loading and unloading sequences)
+
+**Skills to build:**
+
+- Operate automated warehousing systems (WMS, AGV scheduling)
+- Operation and maintenance of AI terminals mounted on forklifts
+- Basic data analysis and Excel skills
+- Understanding safety procedures and AI early warning systems
+- Multi-equipment collaborative operation skills
+- Knowledge of logistics process optimization
+
+**Key growth areas:**
 
 - E-commerce
 - Logistics
@@ -63,65 +93,67 @@ Operates forklifts and other handling equipment to move, load, unload, and stack
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需由法国雇主担保，证明岗位难以填补；通常要求至少Bac+2学历或同等经验 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或高薪酬岗位，但叉车驾驶员通常不符合条件 |
+| Subclass Salarié (Employee Work Permit) | Must be sponsored by a French employer proving the position is difficult to fill; Typically, at least Bac+2 degree or equivalent experience is required |
+| Subclass Passeport Talent (Talent Passport) | This applies to high-skilled or high-paying positions, but forklift drivers usually do not meet the requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forklift Truck Driver？**
-- 喜欢操作机械、动手能力强的人
-- 能适应倒班或体力劳动的人
-- 希望在物流行业入门并积累经验的人
+**Who is suited**
+- People who enjoy operating machines and have strong hands-on skills
+- People who can adapt to shift work or manual labor
+- For those who want to enter the logistics industry and gain experience
 
-**谁不适合学Forklift Truck Driver？**
-- 寻求高薪或快速晋升的人
-- 不喜重复性体力劳动或户外工作的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike repetitive physical labor or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for forklift drivers in France?**
+A: Entry-level salary is about 22-26k EUR, intermediate 26-32k, and senior 32-38k (pre-tax annual salary). Night shifts or overtime can add extra income.
+
+**Q: Can foreigners immigrate to France as forklift drivers?**
+A: It is quite challenging because this position is usually not in short supply and offers low salaries, making it difficult to meet work permit requirements. EU citizens can move freely.
+
+**Q: What certificates are required to be a forklift operator in France?**
+A: Must hold a CACES operating license (issued by a certification body) valid for 5 years. It is recommended to obtain a CAP diploma to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Forklift Truck Driver属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for forklift drivers in France?**
-答：Entry-level around 22-26k EUR, mid-level 26-32k, senior 32-38k (gross annual). Night shifts or overtime can increase earnings.
-
-**问：Can a foreigner immigrate to France as a forklift driver?**
-答：It is difficult as the occupation is not in shortage and salaries are low, making work permits hard to obtain. EU citizens can move freely.
-
-**问：What certification is needed to be a forklift driver in France?**
-答：A valid CACES certificate (issued by accredited bodies) is mandatory, valid for 5 years. A CAP diploma is recommended but not required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

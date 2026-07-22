@@ -1,61 +1,93 @@
-# Care escorts（Care escorts）职业分析 · UK
+# Care escorts — career analysis · United Kingdom
 
-**职业代码：6137 – Care escorts。**
+**Occupation code: 6137 (SOC)**
 
-Accompany and transport adults and children between their places of residence and other destinations, and act as chaperones for under-16s in theatrical, TV and film productions.
+Accompany and escort adults and children to and from residences and other locations, and provide supervision for individuals under 16 involved in drama, television, and film production.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 短期培训课程 | 3个月 | $500~$1,500（培训机构提供的护送与监护课程） |
-| 相关专业文凭 | 1年 | $3,000~$8,000（如健康与社会护理文凭） |
+| Short-term training course | 3 months | $500~$1,500 (Escort and supervision courses provided by training institutions) |
+| Relevant professional diploma | 1 year | $3,000~$8,000 (Such as Diploma in Health and Social Care) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| DBS背景审查 | 英国 Disclosure and Barring Service | 必备 | 必须通过无犯罪记录检查 |
-| 急救证书 | 认可培训机构 | 必备 | 如红十字会或圣约翰救护机构 |
-| 儿童监护培训 | 专业培训机构 | 可选 | 针对儿童演出监护的专门培训 |
+| DBS background check | Disclosure and Barring Service | Required | Must pass a criminal record check |
+| First aid certificate | Registered Training Organisation (RTO) | Required | Such as the Red Cross or St John Ambulance |
+| Child Supervision Training | Professional training institutions | Optional | Specialized training for supervising children's performances |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 2,500。随着英国社会对弱势群体保护意识的增强及儿童演出行业规范化，该职业需求稳定，但市场规模较小。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 2,500. With the UK society's increasing awareness of protecting vulnerable groups and the standardization of the children's performance industry, demand for this occupation is stable, but the market size is small.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$23,000 | 时薪约£9.50-£11.50 |
-| 中级（3-7年） | $23,000~$28,000 | 有经验者薪资略高 |
-| 高级（7年以上） | $28,000~$32,000 | 主管级别或特殊需求护送 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$23,000 | Hourly rate approximately £9.50-£11.50 |
+| Mid-level (3–7 years) | $23,000~$28,000 | Slightly higher salary for experienced candidates |
+| Senior (7+ years) | $28,000~$32,000 | Supervisory level or special needs escort |
+| average salary | $28,216 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但有限（★★☆☆☆）。** 可从初级护送员晋升为团队主管或特殊需求护送协调员，少数人可转向儿童保护或社会工作领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of an escort/attendant involves extensive human emotional interaction and on-site flexibility, making it difficult for AI to fully replace, but automated tools such as autonomous driving and scheduling systems will reduce some escort and record-keeping tasks - a mixed blessing.
+
+Can progress from junior escort to team supervisor or special needs escort coordinator, with a few transitioning to child protection or social work.
+
+**Tasks most exposed to AI:**
+
+- Using autonomous vehicles or robots for simple scheduled route escort
+- Automatically generates travel records and reports (e.g., time, location, personnel).
+- Automatically match caregivers with client needs through an AI scheduling system
+- Automatically verify escort process compliance based on sensors and video surveillance
+
+**Where AI augments the role:**
+
+- AI real-time translation tools assist communication with clients speaking different languages.
+- Smart wearable devices monitor client health status and automatically alert in case of abnormalities
+- AI-assisted planning of optimal escort routes to avoid congestion or dangerous areas
+- Virtual training system simulates emergency scenarios to improve new hires' response capabilities
+
+**Human moat:**
+
+- Provide emotional support and psychological comfort during escort
+- On-site judgment for emergencies (e.g., sudden illness, emotional outbursts of clients)
+- Building long-term trust relationships with clients and their families.
+- Exercising legal and ethical duty of care for minor clients
+
+**Skills to build:**
+
+- Using IoT health monitoring devices and early warning systems
+- Learn basic data entry and electronic reporting tools
+- Enhance cross-cultural communication and conflict resolution skills
+- Proficient in operating AI scheduling platforms
+- Learn basic emergency management knowledge (e.g., first aid)
+
+**Key growth areas:**
 
 - Social care
 - Child protection
@@ -64,65 +96,67 @@ Accompany and transport adults and children between their places of residence an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 理论上可申请，但该职业通常不满足技能等级要求，雇主担保极难。 |
-| Subclass Graduate（Graduate visa） | 毕业生可选择此路径临时工作，但需先获得学位。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Theoretically possible, but this occupation usually does not meet skill level requirements, making employer sponsorship extremely difficult. |
+| Subclass Graduate (Graduate visa) | Graduates may choose this pathway for temporary work but must first obtain a degree. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Care escorts？**
-- 有耐心和同理心，喜欢与人打交道
-- 注重安全与细节，能够在压力下保持冷静
-- 对儿童保护或社会关怀领域有兴趣
+**Who is suited**
+- Patient and empathetic, enjoys interacting with people.
+- Safety and detail-oriented, able to stay calm under pressure
+- Interest in child protection or social care fields
 
-**谁不适合学Care escorts？**
-- 寻求高薪资或快速职业晋升者
-- 无法应对突发状况或情绪不稳定者
+**Who is not suited**
+- Those seeking high salary or rapid career advancement
+- Those unable to handle emergencies or emotionally unstable
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary about £19,000-£23,000, senior up to £32,000, relatively low income.
+
+**Q: Can this occupation apply for a UK work visa?**
+A: Usually not, as this occupation does not meet the skill requirements for skilled worker visas, and employers can rarely provide sponsorship.
+
+**Q: What certifications are needed to work in this occupation?**
+A: Must pass DBS background check and have first aid certificate. Additional training is required for child performance supervision.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定但有限（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Care escorts属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Starting annual salary is around £19,000-£23,000, rising to £32,000 for senior roles, relatively low.
-
-**问：Can I apply for a UK work visa for this occupation?**
-答：Generally no, as it does not meet the skill level for Skilled Worker visa and employer sponsorship is rare.
-
-**问：What certifications are required for this occupation?**
-答：You must pass a DBS check and have a first aid certificate. Additional training is needed for chaperoning children in performances.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

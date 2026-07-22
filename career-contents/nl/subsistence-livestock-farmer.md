@@ -1,60 +1,94 @@
-# Subsistence Livestock Farmer（Subsistence Livestock Farmer）职业分析 · NL
+# Subsistence Livestock Farmer — career analysis · Netherlands
 
-**职业代码：6320 – Subsistence Livestock Farmer。**
+**Occupation code: 6320 (ISCO08)**
 
-Subsistence livestock farmers in the Netherlands operate small-scale farms primarily for family sustenance and local markets.
+Subsistence livestock farmers in the Netherlands mainly operate small-scale pasture farms to make a living, with products mostly used for household consumption or local markets.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 4年（MBO） | $2,000~$6,000（学费因学校而异，政府有补贴） |
-| 短期培训 | 1年 | $500~$1,500（如畜牧业基础课程） |
+| Secondary vocational education | 4 years (MBO) | $2,000~$6,000 (Tuition fees vary by school, with government subsidies available) |
+| Short-term training | 1 year | $500~$1,500 (e.g., basic animal husbandry courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 畜牧业操作证 | 荷兰食品和消费品安全局（NVWA） | 必备 | 涉及动物健康与食品安全 |
-| 农药使用许可证 | 荷兰农业、自然及食品质量部 | 可选 | 如需使用农药 |
+| Livestock Operations Certificate | Netherlands Food and Consumer Product Safety Authority (NVWA) | Required | Related to animal health and food safety |
+| Pesticide use permit | Ministry of Agriculture, Nature and Food Quality of the Netherlands | Optional | For using pesticides |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,000。荷兰农业高度集约化，自给畜牧农民面临大型商业农场的竞争压力，就业前景较为有限，从业人数呈下降趋势。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,000. Dutch agriculture is highly intensive, self-sufficient livestock farmers face competition from large commercial farms; employment prospects are limited and the workforce is declining.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪，收入受农场规模影响大 |
-| 中级（3-6年） | $28,000~$36,000 | 税前年薪 |
-| 高级（6年以上） | $36,000~$45,000 | 税前年薪，含自有农场利润 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Pre-tax annual salary; income is highly dependent on farm size. |
+| Mid-level (3–6 years) | $28,000~$36,000 | Annual pre-tax salary |
+| Senior (6+ years) | $36,000~$45,000 | Annual pre-tax salary, including profits from own farm |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 该职业发展路径有限，部分农民可能转向有机或特色养殖，或转型为农业旅游经营者，但整体晋升空间小。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Self-sufficient livestock farmers in the Netherlands rely heavily on physical labor and experience; AI and automation cannot fully replace them, but market demand for self-sufficient products is limited, economic feasibility is low, and career prospects continue to shrink.
+
+Career progression is limited for this occupation; some farmers may shift to organic or specialty farming, or transition to agritourism operators, but overall advancement opportunities are low.
+
+**Tasks most exposed to AI:**
+
+- Manual recording of livestock production data (e.g., milk yield, feed consumption)
+- Rule-based preliminary diagnosis of diseases
+- Simple physical labor (e.g., carrying feed, cleaning pens).
+- Traditional market information collection and price comparison
+
+**Where AI augments the role:**
+
+- Monitoring livestock health and abnormal behavior using sensors and IoT
+- Use AI to analyze soil and forage quality in pastures, optimizing grazing plans
+- Track market prices and supply-demand trends via mobile apps
+- Drones are used to inspect fences and water sources.
+- Using automated milking systems to increase efficiency
+
+**Human moat:**
+
+- Intuitive judgment and care experience for the health status of individual livestock
+- Trust relationships with local communities and clients
+- Decision-Making Skills for Complex Situations like Sudden Weather Events or Illness
+- Knowledge of maintaining traditional livestock breeds and ecological diversity
+
+**Skills to build:**
+
+- Animal health monitoring sensors and data analysis
+- Precision agriculture technology (e.g., GPS-guided grazing, soil sensors)
+- Small farm financial management and marketing
+- Sustainable agricultural practices (e.g., rotational grazing, composting)
+- Basic programming and automatic control system maintenance
+- Social media and local e-commerce promotion.
+
+**Key growth areas:**
 
 - subsistence farming
 - local food
@@ -63,65 +97,67 @@ Subsistence livestock farmers in the Netherlands operate small-scale farms prima
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于高技能工人，但自给农民通常不符合薪资门槛 |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | For highly skilled workers, but self-sufficient farmers typically do not meet the salary threshold |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Subsistence Livestock Farmer？**
-- 热爱户外和体力劳动
-- 能接受不稳定收入
-- 对传统农牧生活方式有热情
+**Who is suited**
+- Love outdoors and physical work
+- Can accept unstable income
+- Passion for traditional farming and pastoral lifestyles
 
-**谁不适合学Subsistence Livestock Farmer？**
-- 追求高收入和职业稳定性
-- 不喜欢农场工作环境
+**Who is not suited**
+- Pursuit of high income and career stability
+- Dislike of farm work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a self-sufficient livestock farmer in the Netherlands?**
+A: Entry-level annual salary approximately 20,000–28,000 euros, senior can reach 45,000 euros, but income fluctuates greatly depending on farm size and market prices.
+
+**Q: Can a non-EU citizen immigrate to the Netherlands as a self-sufficient livestock farmer?**
+A: Very difficult. Self-sufficient livestock farmers usually do not meet the salary requirements for high-skilled migration visas, and this occupation is not in shortage, so it is mostly only possible through EU free movement or investment migration paths.
+
+**Q: What are the advancement opportunities for self-sufficient livestock farmers?**
+A: Limited promotion prospects; a few may expand to become commercial farm owners or diversify into organic farming or agritourism.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Subsistence Livestock Farmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for subsistence livestock farmers in the Netherlands?**
-答：Entry-level annual salary is about EUR 20,000-28,000, while experienced farmers can earn up to EUR 45,000, but income varies greatly with farm size and market prices.
-
-**问：Can non-EU citizens migrate to the Netherlands as subsistence livestock farmers?**
-答：It is very difficult. This occupation typically does not meet the salary threshold for the Highly Skilled Migrant scheme and is not in shortage; migration is mainly possible via EU free movement or investment routes.
-
-**问：What are the career advancement opportunities for subsistence livestock farmers?**
-答：Advancement is limited; a few may scale up to commercial farming or diversify into organic farming or agritourism.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

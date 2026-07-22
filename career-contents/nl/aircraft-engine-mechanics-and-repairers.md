@@ -1,60 +1,96 @@
-# Aircraft Engine Mechanics and Repairers（Aircraft Engine Mechanics and Repairers）职业分析 · NL
+# Aircraft Engine Mechanics and Repairers — career analysis · Netherlands
 
-**职业代码：7232 – Aircraft Engine Mechanics and Repairers。**
+**Occupation code: 7232 (ISCO08)**
 
-Examine, maintain, and repair aircraft engines to ensure airworthiness and safety. Requires knowledge of mechanical, hydraulic, and pneumatic systems, and adherence to strict regulations.
+Responsible for inspecting, maintaining, and repairing aircraft engines to ensure airworthiness and safety. Requires knowledge of mechanical, hydraulic, and pneumatic systems, and compliance with strict regulations.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费低，每年约€1,000-2,000） |
-| 高等职业教育（HBO） | 4年 | —（每年学费约€2,000-2,500） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public school tuition is low, about €1,000-2,000 per year) |
+| Higher Vocational Education (HBO) | 4 years | $0~$2,500 (Annual tuition approximately €2,000-2,500) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| EASA Part-66 维修执照（B1.1） | EASA / IL&T | 必备 | 必须持有才能合法从事飞机发动机维修 |
-| NVQ/SVB 飞机维修认证 | 荷兰航空培训机构 | 可选 | 国内认可的资格，适合无EASA但希望本地就业者 |
+| EASA Part-66 Maintenance License (B1.1) | EASA / IL&T | Required | Must hold to legally work on aircraft engine maintenance |
+| NVQ/SVB Aircraft Maintenance Certification | Dutch aviation training institution | Optional | Nationally recognized qualification, suitable for those without EASA who wish to work locally |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。荷兰航空业稳步增长，史基浦机场扩建及可持续航空技术（如氢动力）带来新需求。技术人员持续紧缺，尤其是持有EASA执照者。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. The Dutch aviation industry is growing steadily, with Schiphol Airport expansion and sustainable aviation technologies (e.g., hydrogen power) creating new demand. Technicians remain in short supply, especially those with EASA licenses.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，含基本工资 |
-| 中级（3-7年） | $42,000~$55,000 | 持有执照者通常在此范围 |
-| 高级（7年以上） | $56,000~$72,000 | 主管或技术专家级别 |
+| Median salary | $47,819 | Median salary (official: CBS median employee hourly wage €24.2/hour × 1976h annualized, BRC group 0744 Machinemonteurs; P25–P75 €39,322–€57,699, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary, including base pay |
+| Mid-level (3–7 years) | $42,000~$55,000 | License holders are typically within this range |
+| Senior (7+ years) | $56,000~$72,000 | Supervisor or technical expert level |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒升至持证技师（EASA Part-66），进而担任团队主管、质量检查员或航空维修管理岗位。高级可转向工程或适航管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Can progress from apprentice to licensed technician (EASA Part-66), then to team leader, quality inspector, or aviation maintenance management roles. Senior staff can move into engineering or airworthiness management.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aviation growth
 - Sustainable aviation
@@ -63,65 +99,64 @@ Examine, maintain, and repair aircraft engines to ensure airworthiness and safet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工人，需工作合同且薪资达标（2025年约€5,600/月） |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 荷兰高技术移民计划，雇主担保，薪资门槛低（30岁以上约€5,008/月，30岁以下约€3,671/月） |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled workers, requires a work contract and salary threshold (approximately €5,600/month in 2025). |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Netherlands Highly Skilled Migrant Scheme, employer-sponsored, low salary threshold (over 30: approx. €5,008/month, under 30: approx. €3,671/month) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Engine Mechanics and Repairers？**
-- 动手能力强，喜欢机械维修
-- 注重细节，遵守安全规范
-- 愿意持续学习新技术
-
-**谁不适合学Aircraft Engine Mechanics and Repairers？**
-- 不喜体力劳动或高空作业
-- 无法适应轮班工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoys mechanical repair
+- Attention to detail, compliance with safety regulations
+- Willingness to continuously learn new technologies
+
+**Who is not suited**
+- Dislikes physical labor or work at heights
+- Unable to adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an aircraft engine mechanic in the Netherlands?**
+A: Entry-level approx. €30,000-€40,000, mid-level €42,000-€55,000, senior €56,000-€72,000 (annual pre-tax salary). Higher salaries with EASA license.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as aircraft engine mechanics?**
+A: Possible via EU Blue Card or high-skilled migration schemes. Requires employer sponsorship, meeting salary thresholds, and holding an EASA Part-66 licence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Engine Mechanics and Repairers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for aircraft engine mechanics in the Netherlands?**
-答：Entry-level: €30,000-€40,000; mid-level: €42,000-€55,000; senior: €56,000-€72,000 (gross annual). EASA licensed mechanics earn more.
-
-**问：How can non-EU citizens migrate to the Netherlands as an aircraft engine mechanic?**
-答：Via EU Blue Card or Highly Skilled Migrant scheme. Requires employer sponsorship, meeting salary thresholds, and holding an EASA Part-66 license.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Metal Production Plant Operator（Metal Production Plant Operator）职业分析 · FR
+# Metal Production Plant Operator — career analysis · France
 
-**职业代码：H2907 – Metal Production Plant Operator。**
+**Occupation code: H2907 (ROME)**
 
-Operates and monitors metal production equipment such as furnaces, rolling mills, and heat treatment units to ensure product quality and production efficiency. Essential in steel, aluminum, and other heavy industries.
+Responsible for monitoring and operating production equipment for metal smelting, rolling, heat treatment, and other fields to ensure the quality and production efficiency of metal products. This profession has stable demand in heavy industries such as steel and aluminum.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（CAP） | —（公立职业高中免费，私立培训约2000欧元） |
-| 高级技师文凭 | 2年（BTS） | —（公立院校免学费，私立院校约5000欧元/年） |
+| High school graduation + vocational training | 2 years (CAP) | $0~$2,000 (Public vocational high schools are free, while private training costs about 2,000 euros) |
+| Senior Technician Diploma | 2 Years (BTS) | $0~$5,000 (Public institutions: tuition-free; private institutions: approx. EUR 5,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Conducteur d'installations de production | 法国教育部 | 必备 | 基础职业资格证书，必修 |
-| BTS Conception et réalisation en chaudronnerie industrielle | 法国教育部 | 可选 | 高级文凭，非必需但有助于晋升 |
-| CACES（吊车/叉车操作证） | 法国劳工部授权机构 | 可选 | 如需操作起重设备则必须持有 |
+| CAP Conducteur d'installations de production | French Ministry of Education | Required | Basic Professional Qualification Certificate, compulsory |
+| BTS Conception et réalisation en chaudronnerie industrielle | French Ministry of Education | Optional | Higher diplomas, not required but helpful for promotion |
+| CACES (Crane/Forklift Operator Certificate) | Authorized by the French Ministry of Labor | Optional | If lifting equipment is needed, it must be carried out |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国金属工业面临现代化转型，自动化程度提高，但熟练操作员仍紧缺。未来十年岗位稳定，退休人员补充需求大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's metal industry is facing modernization and increased automation, but skilled operators remain in short supply. Positions will be stable over the next decade, and there will be a strong demand for retirees to fill the gap.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$35,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，含奖金，主管级别更高 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, including bonuses, with higher supervisor ranks |
+| average salary | $28,776 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级操作员可晋升为团队主管或工艺工程师，也可通过继续教育转向维护或质量控制岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Metal production equipment operator positions face automation compression, AI and robotics will take over repetitive monitoring and regulation tasks, but complex fault handling and process optimization still require human experience. Job demand is generally declining but skill requirements are upgrading.
+
+Junior operators can be promoted to team leaders or process engineers, or through continuing education, they can transition to maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of production parameters (temperature, pressure, speed) and making simple adjustments
+- Routine equipment inspections and status records
+- Product quality inspection and classification based on fixed thresholds
+- Standardized production report generation and data entry
+- Equipment start-stop and routine operation procedures
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance systems to analyze equipment vibration and temperature data to diagnose faults in advance
+- Optimizing smelting/rolling process parameters through digital twin simulation to improve yield rates
+- Using computer vision systems to assist in detecting product surface defects and improve accuracy
+- Integrated MES/ERP systems dynamically adjust production schedules to reduce energy consumption and raw material waste
+- Remotely receive expert guidance for complex repairs with AR glasses
+
+**Human moat:**
+
+- Quickly diagnose and respond to sudden equipment failures (such as broken strips or steel leaks).
+- Non-standardized debugging and parameter optimization for new alloys and new processes
+- Cross-process collaboration and on-site safety command (handling high-temperature and toxic environments)
+- Manual repair and modification of old equipment (when sensor data is lacking)
+- Team Management and New Employee Training (Tacit Knowledge Transmission)
+
+**Skills to build:**
+
+- Fundamentals of Industrial Automation and PLC Programming
+- Data analysis and statistical process control (SPC)
+- Applications of IoT and sensor technologies
+- Digital twin and simulation software operation (such as ANSYS, Abaqus)
+- Predictive maintenance systems (such as Siemens MindSphere)
+- Operation and collaboration of industrial robots
+
+**Key growth areas:**
 
 - Industrial automation
 - Energy transition
@@ -64,65 +100,67 @@ Operates and monitors metal production equipment such as furnaces, rolling mills
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同须获得法国劳工局批准，证明无法招到本地员工。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如高级工程师或主管，但基层操作员难以符合条件。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, and the employment contract must be approved by the French Labor Authority to prove that local employees cannot be recruited. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, such as senior engineers or supervisors, but it is difficult for frontline operators to meet the requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Metal Production Plant Operator？**
-- 喜欢动手操作机械设备，动手能力强
-- 适应轮班制和高温噪音环境
-- 希望在工业领域获得稳定就业
+**Who is suited**
+- Enjoys operating mechanical equipment by hand and has strong hands-on skills
+- Adapt to shift work and high-temperature, noisy environments
+- Looking for stable employment in the industrial sector.
 
-**谁不适合学Metal Production Plant Operator？**
-- 不喜体力劳动或工厂环境
-- 追求高薪或快速晋升
+**Who is not suited**
+- Dislikes physical labor or factory environments
+- Seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for metal production operators?**
+A: Entry-level annual salary is about €24,000-28,000, mid-level about €30,000-35,000, and senior up to €45,000 or more.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: It's harder. This occupation is not in short supply; employers must prove they cannot recruit local employees. Generally, it is only suitable for applicants who already have a job offer in France.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually, a CAP diploma (2 years of vocational training) or a BTS Senior Technician diploma is required. Apprenticeships are a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Metal Production Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of metal production operators?**
-答：Entry-level annual salary is about €24,000-€28,000, mid-level €30,000-€35,000, and senior can exceed €45,000.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：It's difficult. The occupation is not in shortage, and employers must prove inability to hire locally. Only suitable for those with a job offer.
-
-**问：What education is required for this occupation?**
-答：Typically a CAP (2-year vocational training) or BTS (advanced technician diploma). Apprenticeship is a common route.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

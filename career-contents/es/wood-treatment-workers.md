@@ -1,60 +1,92 @@
-# Wood Treatment Workers（Wood Treatment Workers）职业分析 · ES
+# Wood Treatment Workers — career analysis · Spain
 
-**职业代码：7811 – Wood Treatment Workers。**
+**Occupation code: 7811 (CNO)**
 
-Perform wood treatment operations such as preservation, drying, and impregnation to ensure wood quality and durability. Typically work in sawmills or construction sites, requiring knowledge of chemical agents and equipment operation.
+Engaged in wood preservation, drying, impregnation treatment, and other treatments to ensure wood quality and durability. Usually working in timber processing plants or construction sites, it is necessary to master the use of chemical treatment agents and equipment operation skills.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立学校学费低，约500-2000欧元/年；私立较高） |
-| 高级职业教育（FP Grado Superior） | 2年 | $600~$2,500（木材技术或生产相关专业，学费略高） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public school tuition is low, about 500-2000 euros per year; Private schools have higher rates) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $600~$2,500 (Majors related to wood technology or production have slightly higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP文凭（木材加工） | 西班牙教育部认可的职业学校 | 可选 | 完成FP Grado Medio或Superior课程 |
-| 职业安全与健康证书 | 西班牙劳动与社会经济部 | 必备 | 涉及化学品操作需通过安全培训 |
+| Occupational safety and health certificate | Spanish Ministry of Labor and Social Economy | Required | Chemical operations require safety training |
+| FP Diploma (Wood Processing) | Vocational schools recognized by the Spanish Ministry of Education | Optional | Complete FP Grado Medio or Superior courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,200。西班牙建筑业复苏带动木材需求，但自动化趋势可能减少低端岗位。环保法规趋严，需掌握绿色处理技术。总体就业平稳，预计年增长率约1%。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,200. The recovery of Spain's construction industry is driving demand for wood, but automation trends may reduce low-end positions. Environmental regulations are becoming stricter, requiring mastery of green treatment technologies. Overall employment remains stable, with an expected annual growth rate of about 1%.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含社保 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含社保，组长或技术员更高 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including social insurance, is higher for team leaders or technicians |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从操作员晋升为班组组长或质量控制技术员。通过FP深造可转向木材技术员或生产主管，或进入木材贸易、检测等关联领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Core tasks of wood processing workers, such as spraying preservatives and monitoring drying kilns, are being rapidly replaced by automated systems and AI visual inspection. Entry-level positions are decreasing, but high-risk chemical operations and equipment maintenance still require manpower.
+
+Operators can be promoted to team leader or quality control technician. Through advanced FP studies, students can transition to wood technicians or production supervisors, or enter related fields such as timber trading and inspection.
+
+**Tasks most exposed to AI:**
+
+- Automatic antiseptic spraying operation
+- Temperature and humidity monitoring of the drying kiln
+- Visual detection of wood defects
+- Automated control of treatment agent formulation
+
+**Where AI augments the role:**
+
+- AI predicts wood drying times and optimizes processes
+- Preventive maintenance of equipment using sensor data
+- Use AR glasses to assist with complex equipment maintenance
+- AI analyzes processing agent usage efficiency to reduce waste
+
+**Human moat:**
+
+- Manual emergency response for emergencies such as agent leaks
+- Customized treatment solutions for special wood or customer needs
+- Deep maintenance and troubleshooting of equipment
+- Cross-trade coordination and on-site safety management
+
+**Skills to build:**
+
+- PLC and automation control system operation
+- Industrial sensors and data acquisition
+- Fundamentals of AI Image Recognition (for wood defect detection)
+- Equipment maintenance and fault diagnosis
+- Basic programming (such as Python for data analysis)
+
+**Key growth areas:**
 
 - Construction recovery
 - Automation
@@ -63,64 +95,66 @@ Perform wood treatment operations such as preservation, drying, and impregnation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙雇主工作合同，且职位需符合最低工资要求，办理流程较常规。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | You need to obtain a Spanish employer work contract, and the position must meet minimum wage requirements; the process is relatively standard. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wood Treatment Workers？**
-- 喜欢动手操作、不怕体力劳动的人
-- 对木材加工和机械操作有兴趣
-- 能适应化学品工作环境并遵守安全规范
+**Who is suited**
+- People who enjoy hands-on work and are not afraid of physical labor
+- Interested in wood processing and mechanical operation
+- Able to adapt to chemical working environments and comply with safety regulations
 
-**谁不适合学Wood Treatment Workers？**
-- 对粉尘、化学气味敏感或体质较弱者
-- 寻求高薪或快速晋升通道者
+**Who is not suited**
+- Those sensitive to dust and chemical odors or with weak constitutions
+- Those seeking high salaries or rapid promotion paths
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the wage levels for wood processing workers?**
+A: Junior annual salary about €18,000-€22,000, with experience can reach €28,000-€35,000. Overtime and night shift allowances can add extra income.
+
+**Q: Can Chinese citizens become Spanish wood processing workers through skilled migration?**
+A: This occupation is not considered a scarce occupation and is generally not considered a high-skilled position, so the likelihood of skilled migration is low. You can apply through Employer-Sponsored Work Residence (Cuenta ajena), but you must prove that the position cannot be filled within the EU.
+
+**Q: What educational background is required?**
+A: Usually, higher education is not required; after completing FP Grado Medio (2 years), employment is possible. Holding an occupational safety certificate is a legal requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood Treatment Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for wood treatment workers?**
-答：Entry-level annual salary is about 18,000-22,000 EUR, rising to 28,000-35,000 EUR with experience. Overtime and night shifts provide additional income.
-
-**问：Can Chinese citizens become wood treatment workers in Spain through skilled migration?**
-答：This occupation is not in shortage and is not considered high-skilled, making skilled migration unlikely. It is possible via employer-sponsored work permit (Cuenta ajena), but must prove the position cannot be filled within the EU.
-
-**问：What education is required?**
-答：Higher education is not required; completing FP Grado Medio (2 years) is sufficient. A mandatory occupational safety certificate is required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

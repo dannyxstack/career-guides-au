@@ -1,59 +1,91 @@
-# Pest Control Worker（Pest Control Worker）职业分析 · FR
+# Pest Control Worker — career analysis · France
 
-**职业代码：K2305 – Pest Control Worker。**
+**Occupation code: K2305 (ROME)**
 
-Identify, prevent, and eliminate pests (insects, rodents, etc.) to protect public health and buildings. Use chemical/physical methods and ensure compliance with safety regulations.
+Responsible for identifying, preventing, and eliminating harmful organisms (such as insects, rodents, etc.), and protecting public health and the built environment. Use chemical/physical methods to treat pests and ensure compliance with safety regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP PEH（环境卫生与害虫防治） | 2年（CAP） | —（通常通过学徒制（apprentissage），学费由雇主承担或低学费） |
-| BTS SP3S（社会与卫生服务）或CQP认证 | 2年（BTS）或1年（CQP） | —（学徒制或短期培训，费用因地区而异） |
+| CAP PEH (Environmental Sanitation and Pest Control) | 2 years (CAP) | $0~$3,000 (Usually through apprenticeships, tuition is paid by the employer or at low tuition rates) |
+| BTS SP3S (Social and Health Services) or CQP certification | 2 years (BTS) or 1 year (CQP) | $0~$5,000 (Apprenticeships or short-term training costs vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certibiocide认证 | 法国环境与可持续发展部 | 必备 | 使用和销售杀虫剂必须持有，全国统一认证 |
-| CQP商业害虫防治技师 | 法国害虫防治专业协会（CSNPF） | 可选 | 自愿但行业推崇，有利于晋升 |
-| CAP PEH（环境卫生与害虫防治） | 法国教育部 | 可选 | 基础职业文凭，通常为入门要求 |
+| Certibiocide certification | French Ministry of Environment and Sustainable Development | Required | The use and sale of insecticides must be held and certified nationwide |
+| CQP Commercial Pest Control Technician | French Professional Pest Control Association (CSNPF) | Optional | Voluntary but highly regarded by the industry helps with promotion |
+| CAP PEH (Environmental Sanitation and Pest Control) | French Ministry of Education | Optional | Basic vocational diploma, usually an entry-level requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 25,000。法国对有害生物防治服务的需求稳定，受城市化、食品安全和卫生法规推动。气候变化增加虫害风险，行业持续增长。法国就业局认为该职业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. France's demand for pest control services is stable, driven by urbanization, food safety, and hygiene regulations. Climate change increases pest risks, and the industry continues to grow. The French employment agency considers the career to have good prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，通常包括绩效奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，有经验后提升 |
-| 高级（7年以上/主管） | $35,000~$45,000 | 税前年薪，含团队管理或自营 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, usually including performance bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, increased after gaining experience |
+| Senior (7+ years/supervisor) | $35,000~$45,000 | Pre-tax annual salary, including team management or self-employment |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可晋升为团队主管或质量控制专员；通过进修可获得资质认证，转向自营或加入大型专业公司；也可向环境卫生管理领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
+
+At the junior level, you can be promoted to team leader or quality control specialist; Through further study, students can obtain qualification certifications and transition to self-operated or join large professional companies; It can also develop into the field of environmental sanitation management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate pest activity reports and client communication records
+- Automatically plan routine inspection routes based on historical data
+- Use drones or IoT sensors for initial pest monitoring
+- Automatically calculate dosage and compatibility recommendations
+
+**Where AI augments the role:**
+
+- Using AI image recognition to quickly and accurately diagnose pest types and severity
+- Use intelligent scheduling systems to optimize service routes and improve work efficiency
+- Access real-time operation guides and equipment instructions through augmented reality
+- Using data analysis to predict high-incidence areas and proactively prevent pests
+
+**Human moat:**
+
+- Flexibly judge and adjust plans in complex work environments
+- Face-to-face communication with clients to build trust and explain safety hazards
+- Physical handling and emergency response for hazardous chemicals.
+- Making professional decisions for unconventional on-site situations
+
+**Skills to build:**
+
+- Proficiency in basic data analysis and reporting tools (e.g., Excel, simple BI)
+- Learn pest identification and biology knowledge to improve diagnostic skills
+- Familiar with operating drones or IoT monitoring devices
+- Enhance customer communication and safety training skills
+- Learn digital workflow management software
+
+**Key growth areas:**
 
 - Urbanization
 - Climate Change
@@ -62,65 +94,64 @@ Identify, prevent, and eliminate pests (insects, rodents, etc.) to protect publi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公司，需公司担保且通过劳工市场测试，适用于长期雇员 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或紧缺职业，免除劳工市场测试，捷径向专业人士 |
-| Subclass Carte bleue UE（EU Blue Card） | 高技能非欧盟移民，年薪需达门槛（约45k欧元），但该职业薪资偏低，可能不适用 |
+| Subclass Salarié (Employee Work Permit) | Employed by a French company, requiring company sponsorship and passing labor market testing, applicable to long-term employees |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or in-demand occupations, exempt from labor market tests, shortcut to professionals |
+| Subclass Carte bleue UE (EU Blue Card) | High-skilled non-EU immigrants must meet the annual salary threshold (about 45k euros), but the salary for this occupation is relatively low and may not be suitable |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pest Control Worker？**
-- 喜欢户外工作，动手能力强的人
-- 对卫生法规和环境保护有责任感的人
-- 愿意学习并使用化学产品安全知识的人
-
-**谁不适合学Pest Control Worker？**
-- 对昆虫或啮齿动物有恐惧或厌恶的人
-- 不擅长体力劳动或户外环境的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and have strong hands-on skills
+- People who have a sense of responsibility for health regulations and environmental protection
+- People willing to learn and use chemical product safety knowledge
+
+**Who is not suited**
+- People who have fear or aversion to insects or rodents
+- People who are not good at physical labor or outdoor environments
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary for this profession?**
+A: Entry-level annual salary is about EUR 24,000-28,000, mid-level EUR 28,000-35,000, and senior or supervisor level can reach EUR 35,000-45,000. Performance bonuses are often included.
+
+**Q: How can non-EU immigrants enter this profession?**
+A: Available through the Salarié work permit or Passeport Talent (in-demand occupation) pathway. Must be a French employer sponsor and hold Certibiocide certification. EU citizens can move freely and directly.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Pest Control Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for this occupation?**
-答：Entry-level annual salary is about €24,000-28,000, mid-level €28,000-35,000, senior/supervisor up to €35,000-45,000. Performance bonuses are common.
-
-**问：How can non-EU immigrants enter this occupation?**
-答：Via Salarié work permit or Passeport Talent (shortage occupation). Requires employer sponsorship and Certibiocide certification. EU citizens can freely move.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Crane Chaser（Crane Chaser）职业分析 · 新西兰
+# Crane Chaser — career analysis · New Zealand
 
-**职业代码：821911 – Crane Chaser。**
+**Occupation code: 821911 (ANZSCO)**
 
-Crane chasers direct crane operations at construction, mining, and logistics sites, ensuring safe and efficient lifting. In New Zealand, this role is eligible for AEWV but not on the Green List; skilled migration may be possible under the 6-point system.
+Crane signalers direct crane operations on construction, mining, and logistics sites to ensure safe and efficient lifting. This occupation is eligible for the AEWV work visa in New Zealand but is not on the Green List; skilled migration requires meeting the 6-point system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 岗前培训 | 2周 | $500~$1,500（短期课程，包括安全证书） |
-| 在职培训 | 3-6个月 | —（雇主提供，可能涉及内部认证） |
+| Pre-job training | 2 weeks | $500~$1,500 (Short-term course including safety certificate) |
+| On-the-job training | 3-6 months | $0~$2,000 (Provided by employer, may involve internal certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全证书（如Site Safe） | Site Safe New Zealand | 必备 | 基本安全培训，多数雇主要求 |
-| 信号员资格证书 | Infrastructure ITO / Waihanga Ara Rau | 可选 | 行业认可证书，提升求职竞争力 |
-| 雅思（移民用途） | IDP / British Council | 可选 | 技术移民需雅思总分6.5 |
+| Safety certificate (e.g. Site Safe) | Site Safe New Zealand | Required | Basic safety training, required by most employers |
+| Signaller qualification certificate | Infrastructure ITO / Waihanga Ara Rau | Optional | Industry-recognized certificates to enhance job competitiveness |
+| IELTS (for immigration purposes) | IDP / British Council | Optional | Skilled migration requires IELTS overall score of 6.5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰建筑业持续活跃，大型基础设施项目如奥克兰轻轨和基督城重建推动需求，但从业人数较少，竞争中等，就业前景稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. New Zealand's construction industry remains active, with large infrastructure projects like Auckland Light Rail and Christchurch reconstruction driving demand, but the workforce is small, competition is moderate, and employment prospects are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28纽元 |
-| 中级（3-6年） | $55,000~$70,000 | 时薪约28-36纽元 |
-| 高级（6年以上） | $70,000~$85,000 | 时薪约36-44纽元，含津贴 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approx NZD 23-28 |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hourly wage about NZ$28-36 |
+| Senior (6+ years) | $70,000~$85,000 | Hourly wage approximately 36-44 NZD, including allowances |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助手做起，积累经验后可晋升为高级信号员或起重机操作员，也可转向安全监督岗位。持续培训提升技能有助发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
+
+Typically starting as an assistant, with experience one can advance to senior signaler or crane operator, or transition to safety supervision roles. Continuous training to enhance skills supports career growth.
+
+**Tasks most exposed to AI:**
+
+- AI vision system automatically identifies obstacles around the crane boom and generates path planning
+- Automated load monitoring system adjusts lifting parameters in real-time to maintain balance
+- AI scheduling algorithms optimize task allocation and collision avoidance for multiple cranes.
+- Accident prevention system predicts metal fatigue using sensor data and triggers alarms
+
+**Where AI augments the role:**
+
+- AI-assisted load estimation: cameras and algorithms automatically calculate load weight and center of gravity, reducing human estimation errors
+- AR heads-up display overlays key data such as boom angle and wind speed onto the operator's field of view
+- Remote operation center: operators use VR/haptic feedback gloves to control high-risk scenarios from a safe area
+- Predictive maintenance: AI analyzes historical failure patterns, issuing maintenance reminders 30 days in advance
+
+**Human moat:**
+
+- Immediate judgment and manual correction of on-site anomalies (e.g. sudden strong wind changes, loose foundations)
+- Fine-tuning feel and experience intuition when lifting complex shaped components
+- Non-standard communication and collaboration with ground commanders and structural engineers
+- Assume legal responsibility for lifting accidents and final decision on safety regulations
+
+**Skills to build:**
+
+- Operate AI-based scheduling and monitoring software for cranes
+- Basic data analysis: interpreting equipment sensor logs and AI alert reports
+- Using and troubleshooting AR/VR remote operation platforms
+- Programming parameter settings and calibration for automatic lifting systems
+- Mobile digital repair manual and instant drawing app
+- Use of cross-trade digital collaboration platforms (e.g., BIM 360)
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,68 +95,67 @@ Crane chasers direct crane operations at construction, mining, and logistics sit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，适合有雇主offer的申请人，需满足薪资和技能要求。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需6分制（如学历+工作经验），职业非绿色清单但可申请。 |
-| Subclass Partnership（Partner of a New Zealander Residence Visa） | 如配偶是新西兰公民或居民，可通过伴侣类别申请居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for applicants with a job offer, requiring meeting salary and skill requirements. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, requires a 6-point system (e.g., qualifications + work experience); occupation not on the Green List but still eligible to apply. |
+| Subclass Partnership (Partner of a New Zealander Residence Visa) | If your spouse is a New Zealand citizen or resident, you can apply for residence through the partner category. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Crane Chaser？**
-- 注重安全、责任心强的人
-- 体力好、能在户外和嘈杂环境下工作
-- 有团队协作精神、沟通清晰
-
-**谁不适合学Crane Chaser？**
-- 不喜户外或高空作业者
-- 对紧急情况反应迟缓者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Safety-conscious and responsible individuals
+- Physically fit, able to work outdoors and in noisy environments
+- Team spirit, clear communication
+
+**Who is not suited**
+- Those who dislike outdoor or high-altitude work
+- Those who respond slowly to emergencies
+
+---
+
+## 8. FAQ
+
+**Q: Can a crane signaler immigrate to New Zealand via the Green List?**
+A: No. This occupation is not on the Green List; it must apply through the Skilled Migrant Category (SMC) six-point system or the Accredited Employer Work Visa (AEWV) pathway.
+
+**Q: What is the average hourly wage for a crane signaler in New Zealand?**
+A: Entry-level about NZD 23-28 per hour, intermediate 28-36, senior 36-44. Annual salary range about NZD 45,000 to 85,000.
+
+**Q: What necessary certificates are required to work in New Zealand?**
+A: Safety certificates (e.g., Site Safe) are required. It is also recommended to obtain a Signalperson qualification certificate (issued by Infrastructure ITO) to increase employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Crane Chaser的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can crane chasers migrate to New Zealand via the Green List?**
-答：No. This occupation is not on the Green List. Migration is possible through the Skilled Migrant Category (6-point system) or AEWV.
-
-**问：What is the average hourly wage for a crane chaser in New Zealand?**
-答：Entry-level: NZD 23-28, mid-level: NZD 28-36, senior: NZD 36-44. Annual salary ranges from NZD 45,000 to 85,000.
-
-**问：What certificates are required to work as a crane chaser in New Zealand?**
-答：A safety certificate (e.g., Site Safe) is mandatory. A signaler qualification (from Infrastructure ITO) is recommended to boost employability.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

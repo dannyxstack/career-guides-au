@@ -1,61 +1,97 @@
-# Finance and investment analysts and advisers（Finance and investment analysts and advisers）职业分析 · UK
+# Finance and investment analysts and advisers — career analysis · United Kingdom
 
-**职业代码：2422 – Finance and investment analysts and advisers。**
+**Occupation code: 2422 (SOC)**
 
-Finance and investment analysts and advisers advise clients on investments, insurance, mortgages, pensions, and other financial products, analyzing market trends and managing portfolios.
+Financial investment analysts and advisors provide advice on purchasing financial products and services such as investments, insurance, mortgages, and pensions for individuals, companies, or professional institutions, analyzing market trends and managing investment portfolios.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $9,000~$25,000（英国本地学生学费约9250英镑/年，国际学生约15000-25000英镑/年） |
-| 硕士学位 | 1年 | $12,000~$35,000（金融或相关领域硕士，学费因学校而异） |
+| Bachelor's degree | 3 years | $9,000~$25,000 (Tuition for local UK students is about £9,250/year, for international students about £15,000-25,000/year) |
+| Master's degree | 1 year | $12,000~$35,000 (Master's degree in finance or related field; tuition varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CFA特许金融分析师 | CFA Institute | 可选 | 全球认可，需通过三级考试和4年工作经验 |
-| CISI投资管理证书 | Chartered Institute for Securities & Investment | 可选 | 英国常见，适合入门 |
-| FCA监管资质 | Financial Conduct Authority | 必备 | 从事零售投资顾问需持有 |
+| FCA regulatory authorisation | Financial Conduct Authority | Required | Engaging in retail investment advisory requires holding |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Globally recognized, requires three exams and 4 years of work experience |
+| CISI Investment Management Certificate | Chartered Institute for Securities & Investment | Optional | Common in the UK, suitable for entry-level. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 48,000。英国金融服务业持续增长，ESG投资和数字化理财推动需求。但脱欧后部分业务转移至欧盟，竞争加剧。预计未来十年岗位增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 48,000. The UK financial services sector continues to grow, driven by ESG investing and digital wealth management. However, post-Brexit business transfers to the EU have intensified competition. Job growth is expected to be about 5% over the next decade.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$42,000 | 伦敦较高，其他地区略低 |
-| 中级（3-7年） | $45,000~$70,000 | 持有CFA或CISI证书可增加薪资 |
-| 高级（7年以上） | $75,000~$150,000 | 总监级或合伙人可达更高 |
+| Median salary | $50,330 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$42,000 | Higher in London, slightly lower in other regions |
+| Mid-level (3–7 years) | $45,000~$70,000 | Holding CFA or CISI certification can increase salary |
+| Senior (7+ years) | $75,000~$150,000 | Director-level or partner can reach higher |
+| average salary | $64,198 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级分析师可晋升为高级分析师或投资经理，再至部门主管或合伙人。持有CFA等证书可加速晋升。部分人转向私人银行或对冲基金。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior analysts can advance to senior analysts or investment managers, then to department heads or partners. Holding CFA or other certifications accelerates promotion. Some move to private banking or hedge funds.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - ESG Investing
 - Fintech
@@ -64,69 +100,68 @@ Finance and investment analysts and advisers advise clients on investments, insu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需要雇主担保，职业在可担保名单上，薪资门槛约26200英镑/年 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在金融领域有突出成就的人才，需获得背书 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请，允许工作2年（博士3年），无雇主担保要求 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, occupation on the eligible list, salary threshold approx. £26,200/year |
+| Subclass Global Talent (Global Talent Visa) | Applicable to talents with outstanding achievements in the financial sector, requires endorsement |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply, allowing work for 2 years (3 years for PhD) without employer sponsorship requirements. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Finance and investment analysts and advisers？**
-- 数学和统计分析能力强的应届毕业生
-- 有金融或经济学背景的转行者
-- 善于沟通和客户管理的职场人士
-
-**谁不适合学Finance and investment analysts and advisers？**
-- 厌恶高压和长时间工作者
-- 对数字和市场不敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fresh graduates with strong math and statistical analysis skills
+- Career changers with finance or economics background
+- Professionals with good communication and customer management skills
+
+**Who is not suited**
+- Those who dislike high-pressure and long-hour work
+- Those not sensitive to numbers and markets.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for financial investment analysts and advisors?**
+A: Junior annual salary around £28,000-42,000, mid-level £45,000-70,000, senior £75,000-150,000. London salaries are typically higher; holding CFA or similar certifications can boost income.
+
+**Q: Can this occupation immigrate to the UK through the Skilled Worker visa?**
+A: Yes, but requires employer sponsorship, and the salary must reach approximately £26,200/year. This occupation is not on the shortage occupation list, and competition is high. You may also consider the Global Talent or Graduate visa.
+
+**Q: How to advance from a junior analyst to a senior position?**
+A: Accumulate project experience, obtain CFA or CISI certification, expand client base, and aim for internal promotion or move to a larger financial institution. Usually 5-7 years to reach senior level.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Finance and investment analysts and advisers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for finance and investment analysts and advisers?**
-答：Entry-level salary ranges from £28,000 to £42,000, mid-level from £45,000 to £70,000, and senior from £75,000 to £150,000. London salaries are typically higher, and CFA certification can boost earnings.
-
-**问：Can this occupation immigrate to the UK via the Skilled Worker visa?**
-答：Yes, but requires employer sponsorship and a salary of around £26,200 per year. This occupation is not on the shortage list, so competition is high. Global Talent or Graduate visas are alternative paths.
-
-**问：How to advance from junior analyst to senior position?**
-答：Gain project experience, obtain CFA or CISI certifications, build client base, and seek internal promotion or move to larger firms. Typically 5-7 years to reach senior level.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

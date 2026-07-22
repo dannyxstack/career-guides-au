@@ -1,58 +1,94 @@
-# Area Studies Expert（Area Studies Expert）职业分析 · DE
+# Area Studies Expert — career analysis · Germany
 
-**职业代码：9125 – Area Studies Expert。**
+**Occupation code: 9125 (KldB)**
 
-Area studies experts analyze the political, economic, cultural, and social systems of specific geographic regions, providing professional insights for governments, international organizations, or academic institutions.
+Area studies experts analyse the political, economic, cultural, and social systems of specific geographic regions, providing professional insights for governments, international organisations, or academic institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（德国公立大学每学期仅需150-350欧元注册费） |
-| 硕士 | 2年 | —（大多数硕士课程免学费，仅注册费） |
+| Bachelor's degree | 3-4 years | $0~$1,500 (German public universities only charge 150-350 euros per semester in registration fees) |
+| Master's degree | 2 years | $0~$1,500 (Most master's courses are tuition-free, only registration fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 大学 | 必备 | 区域研究或相关学科（如政治学、经济学、历史学） |
-| 语言能力证明 | 歌德学院或同等机构 | 必备 | 德语C1水平，以及研究区域相关语言 |
+| Master's degree | University | Required | Regional studies or related disciplines (e.g., political science, economics, history) |
+| Language proficiency proof | Goethe-Institut or equivalent institution. | Required | German C1 level, plus language relevant to the research region |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 5,000。德国对区域研究专家的需求稳定，尤其是专门针对东欧、中东和亚洲的专家。由于全球化及国际关系复杂化，大学和研究机构、智库以及政府部门有持续招聘。但职位数量有限，竞争较激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Demand for regional studies experts in Germany is stable, especially for specialists focusing on Eastern Europe, the Middle East, and Asia. Due to globalization and complex international relations, universities, research institutes, think tanks, and government departments have ongoing recruitment. However, positions are limited, and competition is intense.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$45,000 | 研究助理或初级分析师 |
-| 中级（3-7年） | $45,000~$60,000 | 高级研究员或项目经理 |
-| 高级（7年以上） | $60,000~$80,000 | 部门主管或资深专家 |
+| Median salary | $62,088 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $36,000~$45,000 | Research assistant or junior analyst |
+| Mid-level (3–7 years) | $45,000~$60,000 | Senior researcher or project manager |
+| Senior (7+ years) | $60,000~$80,000 | Department head or senior expert |
+| average salary | $62,652 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业发展通常从研究助理或初级分析师开始，可晋升为高级研究员、项目负责人或部门主管。在学术界，可争取教授职位；在非学术界，可转向政策咨询、国际组织或企业战略部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Regional studies experts have dual prospects of being automated and augmented; data collection and analysis can be AI-driven, but deep fieldwork and cultural insight remain human strengths.
+
+Career development typically starts as a research assistant or junior analyst, progressing to senior researcher, project lead, or department head. In academia, one can aim for a professorship; in non-academia, one can move into policy consulting, international organizations, or corporate strategy departments.
+
+**Tasks most exposed to AI:**
+
+- Scrape and organize regional dynamic information from news, reports, and social media
+- Generate standardized country briefings and economic-political analysis drafts
+- Perform statistical analysis on structured data and create charts
+- Translate multilingual documents and perform basic interpreting work
+- Reviewing and verifying the accuracy of literature citations
+
+**Where AI augments the role:**
+
+- Using AI to quickly process massive unstructured text to identify trends
+- Assisting cross-cultural communication and semantic analysis through natural language understanding technology
+- Predicting regional political and economic risks using machine learning models
+- Using AI tools for visual storytelling and interactive report generation
+- Using speech transcription and translation technology for field recording analysis
+
+**Human moat:**
+
+- Trust and relationships built through long-term fieldwork.
+- Understanding of subtle cultural symbols and political nuances
+- Synthesise original strategic insights from fragmented information
+- Ethical judgment and adaptability in conducting research in conflict zones
+- Use first-hand observations to correct or challenge mainstream theories
+
+**Skills to build:**
+
+- Data cleaning and statistical analysis using Python or R
+- Natural Language Processing (NLP) tool usage.
+- Basic Operations of Geographic Information Systems (GIS)
+- Machine translation and corpus management
+- AI-assisted qualitative research (e.g., NVivo)
+- Visualization tools (e.g., Tableau, Power BI)
+
+**Key growth areas:**
 
 - Globalization
 - International Relations
@@ -61,68 +97,67 @@ Area studies experts analyze the political, economic, cultural, and social syste
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历且工资收入达阈值（2024年约43,130欧元）的申请人，可快速获得德国永居。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于拥有德国认可学历或职业资格，并获得工作合同的技术移民。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许尚未获得工作合同的求职者进入德国找工作一年。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with high education and salary reaching the threshold (approx. €43,130 in 2024), allowing fast-track permanent residency in Germany. |
+| Subclass Skilled Worker (Skilled Immigration Act) | For skilled migrants who have a German-recognized qualification or professional qualification and a job contract. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without an employment contract to enter Germany for up to one year to find work. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Area Studies Expert？**
-- 对国际政治、经济和文化有浓厚兴趣的人
-- 具备优秀外语能力和跨文化交流能力
-- 希望在学术或政策研究领域发展
-
-**谁不适合学Area Studies Expert？**
-- 不喜欢长期研究和文书工作
-- 希望快速获得高收入
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with a strong interest in international politics, economics, and culture
+- Excellent foreign language and cross-cultural communication skills
+- Aims to develop in academic or policy research fields
+
+**Who is not suited**
+- Dislike long-term research and paperwork
+- Seeking rapid high income
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for area studies specialists?**
+A: Entry-level positions earn approximately €36,000-45,000 per year, mid-level €45,000-60,000, and senior up to €80,000+, depending on the type of organization (academic institutions are typically lower than the private sector).
+
+**Q: Can foreigners work in regional studies in Germany?**
+A: Yes, but requires German C1 level and recognised qualifications. Work visa can be obtained via EU Blue Card or Skilled Immigration Act. Regional research is a non-shortage occupation requiring a fixed employer.
+
+**Q: What are the career development prospects for area studies experts in Germany?**
+A: Career development can be in universities, think tanks, government departments, or international organizations, advancing to senior researcher, project manager, or department head. It can also transition into corporate international strategy or consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★½☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Area Studies Expert的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for area studies experts?**
-答：Entry-level positions earn about 36,000-45,000 EUR annually, mid-level 45,000-60,000 EUR, and senior roles can exceed 80,000 EUR, depending on the type of institution (academic institutions usually pay less than private sector).
-
-**问：Can foreigners work as area studies experts in Germany?**
-答：Yes, but require German C1 proficiency and a recognized degree. Can obtain a work visa via EU Blue Card or Skilled Immigration Act. This is not a shortage occupation, so a job offer is necessary.
-
-**问：What are the career prospects for area studies experts in Germany?**
-答：Career paths include universities, think tanks, government agencies, or international organizations, advancing to senior researcher, project manager, or head of department. Also possible to move into corporate international strategy or consulting.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

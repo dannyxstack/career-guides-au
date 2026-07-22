@@ -1,58 +1,92 @@
-# Machine Tool Setters and Operators（Machine Tool Setters and Operators）职业分析 · ES
+# Machine Tool Setters and Operators — career analysis · Spain
 
-**职业代码：7323 – Machine Tool Setters and Operators。**
+**Occupation code: 7323 (CNO)**
 
-Set up, adjust, and operate various metal-cutting machine tools (lathes, milling machines, grinders) to produce precision metal parts per technical drawings, ensuring dimensional accuracy and surface finish.
+Responsible for setting up, adjusting, and operating various metal cutting machine tools (such as lathes, milling machines, grinders), machining precision metal parts according to technical drawings to ensure dimensional accuracy and surface quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费，专攻CNC编程） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools offer free or low tuition) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools offer free or low tuition, specializing in CNC programming) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械制造职业资格证书 | 各自治区教育部门 | 可选 | 完成FP Grado Medio或Superior后获得，非强制但雇主优先 |
-| CNC操作认证 | 机床制造商或培训机构 | 可选 | 如Heidenhain、Siemens、Fanuc认证，提升竞争力 |
+| Mechanical Manufacturing Professional Qualification Certificate | Education departments of all autonomous regions | Optional | Obtained after completing FP Grado Medio or Superior, not mandatory but employer priority |
+| CNC operation certification | Machine tool manufacturers or training institutions | Optional | Such as Heidenhain, Siemens, and Fanuc certifications to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙再工业化及汽车、航空航天等高端制造业回流带动需求，但岗位受自动化和数字化影响，传统操作员岗位增长平缓，复合型技能人才（CNC编程+操作）更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Spain's reindustrialization and the reshoring of high-end manufacturing sectors such as automotive and aerospace are driving demand, but positions are affected by automation and digitalization. Traditional operator positions are growing slowly, and versatile skilled professionals (CNC programming + operations) are more popular.
 
-**竞争度：适中（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$23,000 | 税前年薪，含加班可能更高 |
-| 中级（3-8年） | $24,000~$32,000 | 掌握多轴编程和调试技能 |
-| 高级（8年以上） | $33,000~$42,000 | 资深技师或编程员，含生产奖金 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$23,000 | Pre-tax annual salary, including overtime, may be higher |
+| Mid-level (3–8 years) | $24,000~$32,000 | Master multi-axis programming and debugging skills |
+| Senior (8+ years) | $33,000~$42,000 | Senior technicians or programmers, including production bonuses |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升为高级技师、编程员或生产主管；通过FP深造或企业内训转向CNC编程、工业机器人运维，或晋升为车间主任、技术顾问。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
+
+Promotion from junior operator to senior technician, programmer, or production supervisor; Transition to CNC programming or industrial robot operations and maintenance through FP advanced studies or corporate training, or be promoted to workshop director or technical consultant.
+
+**Tasks most exposed to AI:**
+
+- Use CAM software to automatically generate CNC machine code, replacing manual programming
+- Uses machine vision to automatically detect processing quality and adjust parameters, replacing manual measurement and adjustment.
+- Automated material handling and loading systems replace manual loading/unloading
+- Fully automated processing of standardized large-batch parts, reducing manual intervention
+
+**Where AI augments the role:**
+
+- AI-assisted process planning and tool path optimization, improving machining efficiency and accuracy
+- Predictive maintenance system analyzes machine tool operation data to provide early fault warnings
+- Augmented Reality (AR) overlays operational guidance, assisting complex assembly and debugging
+- AI-driven quality traceability system to quickly identify processing deviation causes
+- Digital twin technology simulates machining processes, optimizing parameters to reduce commissioning time
+
+**Human moat:**
+
+- Complex fault diagnosis and repair skills, relying on experience and sensory judgment
+- Manual fitting and adjustment of non-standard parts, involving unspoken skills
+- Customer communication and customized solution design, requiring understanding of needs and processes
+- Multi-device commissioning and production line integration require systemic thinking and adaptability
+
+**Skills to build:**
+
+- CNC programming and CAM software (e.g., Mastercam, Fusion 360)
+- Industrial robot operation and programming
+- IoT and sensor data analysis basics
+- Additive manufacturing (3D printing) and its post-processing
+- Basics of Electrical and PLC Control
+- Technical documentation and digital communication skills
+
+**Key growth areas:**
 
 - CNC automation
 - Industry 4.0
@@ -61,67 +95,66 @@ Set up, adjust, and operate various metal-cutting machine tools (lathes, milling
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需雇主担保，证明岗位无法在欧盟内招聘；通常要求相关工作经验或FP学历。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需3年以上相关经验或高等学历，年薪达最低门槛（约33,600欧元），适用于专业技术人员。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, proving the position cannot be recruited within the EU; Relevant work experience or FP degree is usually required. |
+| Subclass Tarjeta azul UE (EU Blue Card) | At least 3 years of relevant experience or higher education required, with an annual salary meeting the minimum threshold (about 33,600 euros), suitable for technical professionals. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine Tool Setters and Operators？**
-- 喜欢动手操作和机械加工的人
-- 注重细节、耐心且能接受重复性工作
-- 愿意学习CNC编程和自动化技术以提升竞争力
-
-**谁不适合学Machine Tool Setters and Operators？**
-- 对噪音、油污和长时间站立工作敏感者
-- 追求高薪或希望完全避免体力劳动的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and machining
+- Detail-oriented, patient, and able to accept repetitive tasks
+- Willing to learn CNC programming and automation technology to enhance competitiveness
+
+**Who is not suited**
+- Sensitive to noise, oil stains, and long hours of standing
+- Those who pursue high salaries or wish to completely avoid manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for machine tool operators in Spain?**
+A: Entry-level approx. €18,000–€23,000/year, intermediate €24,000–€32,000, senior €33,000–€42,000, usually includes overtime and bonuses. Salary varies significantly by region, industry, and individual skills.
+
+**Q: How can non-EU citizens immigrate to Spain as machine tool operators?**
+A: The most common pathway is through 'Cuenta ajena' employer-sponsored work residence, which requires proving that the position is difficult to fill within the EU. Having relevant experience or FP qualifications will be beneficial. The EU Blue Card requires a higher annual salary threshold and applies to fewer cases.
+
+**Q: What educational background is required to enter this industry?**
+A: Typically, you need to complete the 2-year FP Grado Medio (intermediate vocational training) or Grado Superior (advanced), with the latter focusing on CNC programming. Public schools are basically free. Some employers accept secondary vocational education plus apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 适中（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Machine Tool Setters and Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for machine tool operators in Spain?**
-答：Entry-level around €18,000-23,000/year, mid-level €24,000-32,000, senior €33,000-42,000, often including overtime and bonuses. Salary varies by region, industry, and individual skills.
-
-**问：How can non-EU citizens migrate to Spain as a machine tool operator?**
-答：The most common route is through a Cuenta ajena employer-sponsored work permit, requiring proof that the position cannot be filled within the EU. Relevant experience or FP degree helps. EU Blue Card has higher salary thresholds, applicable to fewer cases.
-
-**问：What educational background is required to enter this field?**
-答：Typically, a 2-year FP Grado Medio (intermediate vocational training) or Grado Superior (advanced) focusing on CNC programming. Public schools are mostly free. Some employers accept secondary school plus apprenticeship.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

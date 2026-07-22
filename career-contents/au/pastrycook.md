@@ -1,60 +1,96 @@
-# Pastrycook（Pastrycook）职业分析 · 澳大利亚
+# Pastrycook — career analysis · Australia
 
-**职业代码：351112 – Pastrycook。**
+**Occupation code: 351112 (ANZSCO)**
 
-Pastrycooks prepare and bake pastries, desserts, bread, and confectionery items like cakes, cookies, and tarts, working in bakeries, restaurants, or hotels with skills in baking techniques, ingredients, and decoration.
+A pastry chef prepares a variety of pastries, desserts, and breads, including cakes, cookies, and tarts, typically working in bakeries, restaurants, or hotels. Requires baking techniques, ingredient pairing, and decorating skills.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 证书III (Certificate III in Patisserie) | 1年 | $8,000~$15,000（TAFE 学费约AUD 8000-15000，国际生约AUD 15000-25000） |
-| 证书IV (Certificate IV in Patisserie) | 1年 | $9,000~$18,000（进阶课程，学费略高） |
+| Certificate III in Patisserie | 1 year | $8,000~$15,000 (TAFE tuition approx. AUD 8000-15000, international students approx. AUD 15000-25000) |
+| Certificate IV in Patisserie | 1 year | $9,000~$18,000 (Advanced courses, higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Patisserie | TAFE 或注册培训机构 | 必备 | 澳洲行业内基本资格要求 |
-| Certificate IV in Patisserie | TAFE 或注册培训机构 | 可选 | 有利于晋升管理职位 |
+| Certificate III in Patisserie | TAFE or registered training organization | Required | Minimum qualification requirement within the Australian industry |
+| Certificate IV in Patisserie | TAFE or registered training organization | Optional | Beneficial for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。澳洲餐饮业持续增长，对专业糕点师需求稳定。旅游区和城市中心尤其需要经验丰富的糕点师，未来五年就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. Australia's food and beverage industry continues to grow, with stable demand for professional pastry chefs. Tourist areas and city centers especially need experienced pastry chefs, with good employment prospects over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或初级工资较低 |
-| 中级（3-5年） | $55,000~$65,000 | 有经验后薪资提升 |
-| 高级（5年以上） | $65,000~$75,000 | 主管或行政糕点师可更高 |
+| Median salary | $73,684 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or entry-level wages are lower |
+| Mid-level (3–5 years) | $55,000~$65,000 | Salary increases with experience |
+| Senior (5+ years) | $65,000~$75,000 | Supervisors or executive pastry chefs can earn more |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级糕点师可在培训后晋升为高级糕点师或糕点主管，再至行政糕点师或烘焙部门经理。积累经验后也可创业开设烘焙店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pastry chefs face a dual impact of AI-assisted enhancement and partial automation replacement: standardized production can be replaced by AI, while creative design and customer experience still rely on human skill.
+
+Junior pastry chefs can advance to senior pastry chefs or pastry supervisors after training, and further to executive pastry chefs or baking department managers. With experience, they can also start their own bakeries.
+
+**Tasks most exposed to AI:**
+
+- Formula standardization calculation and adjustment (AI-optimized formula)
+- Basic batter mixing and baking time and temperature control (automated baking equipment)
+- Simple decoration pattern generation (AI drawing-assisted for printing candy wrappers)
+- Inventory management and raw material ordering (AI prediction system)
+- Online order processing and customer communication (chatbot)
+
+**Where AI augments the role:**
+
+- Complex recipe development and flavor pairing (AI provides data-driven innovation suggestions)
+- Personalized dessert customization (AI analyzes customer preferences to generate designs).
+- Cost control and waste reduction (AI real-time monitoring of production data)
+- Social media marketing and portfolio presentation (AI-generated content and trend analysis)
+- Skill training and knowledge base construction (AI instructional videos and interactive guides)
+
+**Human moat:**
+
+- Handicraft skills and artistic creativity (unique shapes and textures)
+- In-depth understanding of ingredient properties and techniques (e.g., fermentation, sugar work)
+- Live demonstration and customer interaction skills (baking performances, custom consultations)
+- Quickly respond to unexpected issues (equipment failure, material substitution)
+- Brand style and cultural heritage (preservation of traditional skills)
+
+**Skills to build:**
+
+- AI-assisted recipe development tools (e.g., Plant Jammer)
+- Digital marketing and social media management
+- Food science basics (food chemistry and nutrition)
+- 3D printing and edible printing technology
+- Data-driven cost and inventory management
+- Customer experience design and personalized service
+
+**Key growth areas:**
 
 - Bakery expansion
 - Patisserie demand
@@ -63,62 +99,64 @@ Pastrycooks prepare and bake pastries, desserts, bread, and confectionery items 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需要雇主支持且职业在短期清单上 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保签证，部分州可用 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requiring employer support and the occupation is on the short-term list |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, available in some states |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pastrycook？**
-- 热爱烘焙且手艺精细的人
-- 能在快节奏环境中早起工作的人
-- 有创造力并注重餐饮美学的人
+**Who is suited**
+- People passionate about baking with meticulous skills
+- People who can work early mornings in a fast-paced environment
+- Creative and focused on culinary aesthetics.
 
-**谁不适合学Pastrycook？**
-- 对重复性体力劳动不耐受的人
-- 追求高薪和快速晋升的人
+**Who is not suited**
+- People intolerant of repetitive physical labor
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of pastry chefs in Australia?**
+A: Junior pastry chef annual salary approximately AUD 45,000–55,000, intermediate AUD 55,000–65,000, senior can reach over AUD 75,000. Salary affected by region, experience, and workplace.
+
+**Q: Can pastry chefs apply for Australian skilled migration?**
+A: Pastrycook is not on the Core Skills Occupation List (CSOL) or Medium and Long-term Strategic Skills List (MLTSSL), so cannot directly apply for independent skilled migration (189/190). However, employer sponsorship (482/494) for a temporary visa is possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pastrycook属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pastrycooks in Australia?**
-答：Entry-level pastrycooks earn around AUD 45,000-55,000 per year, mid-level AUD 55,000-65,000, and senior up to AUD 75,000+. Salary varies by location, experience, and employer.
-
-**问：Can a pastrycook apply for skilled migration to Australia?**
-答：Pastrycook is not on the Core Skills Occupation List (CSOL) or MLTSSL, so direct skilled migration (189/190) is not possible. However, employer-sponsored visas (482/494) are available.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

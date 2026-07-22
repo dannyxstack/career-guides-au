@@ -1,60 +1,96 @@
-# Etchers and Engravers（Etchers and Engravers）职业分析 · 美国
+# Etchers and Engravers — career analysis · United States
 
-**职业代码：51-9194 – Etchers and Engravers。**
+**Occupation code: 51-9194 (SOC)**
 
-Engrave or etch metal, wood, rubber, or other materials, including etcher-circuit processors, pantograph engravers, and silk screen etchers.
+Engrave or etch patterns on metal, wood, rubber, or other materials, including circuit etching, scaler engraving, and screen etching.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立学校免费） |
-| 职业培训或学徒 | 1-2年 | $5,000~$15,000（社区大学或技术学校学费） |
+| High school diploma or equivalent | 12 years | $0~$0 (Free public schools.) |
+| Vocational training or apprenticeship | 1-2 years | $5,000~$15,000 (Community college or technical school tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 多数雇主要求 |
-| 在职培训 | 雇主 | 可选 | 通常为期数月 |
+| High school diploma or equivalent | High school | Required | Most employers require |
+| On-the-job training | Employer | Optional | Usually several months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 5,800。美国劳工统计局预测该职业就业增长缓慢，2023-2033年增长率约为2%，低于平均水平。自动化设备的普及可能减少部分手工岗位，但定制和修复需求仍提供一定机会。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 5,800. The US Bureau of Labor Statistics projects slow job growth for this occupation, with a growth rate of about 2% for 2023-2033, below average. Automation may reduce some manual positions, but customization and repair needs still provide some opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$35,000 | 入门级薪资较低 |
-| 中级（4-7年） | $35,000~$45,000 | 有经验后薪资提升 |
-| 高级（8年以上） | $45,000~$60,000 | 高级技工或自主创业者 |
+| Median salary | $43,310 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $27,000~$35,000 | Entry-level salary is relatively low |
+| Mid-level (4-7 years) | $35,000~$45,000 | Salary increases with experience |
+| Senior (8+ years) | $45,000~$60,000 | Advanced tradesperson or self-employed |
+| average salary | $46,320 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级工人可通过学徒或职业培训积累经验，晋升为高级雕刻师或制模师。部分从业者可转向珠宝设计、模具制造或质量控制岗位，或自主创业开设雕刻工作室。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Etchers and engravers face significant automation compression risk. High-precision CNC machines, laser engraving, and 3D printing are gradually replacing traditional manual tasks, sharply reducing entry-level positions, but certain high-skill niches like artistic design customization and fine manual restoration remain sheltered.
+
+Junior workers can gain experience through apprenticeships or vocational training and advance to senior engravers or mold makers. Some practitioners may transition to jewelry design, mold manufacturing, or quality control positions, or start their own engraving studios.
+
+**Tasks most exposed to AI:**
+
+- Using chemical etchants or hand tools for batch pattern etching
+- Repetitive text and symbol engraving based on preset templates
+- Manually scaling and transferring patterns onto different materials
+- Standard circuit board etching process
+- Simple screen printing frame production and etching
+
+**Where AI augments the role:**
+
+- Use AI design software to generate and optimize complex patterns
+- Precision 3D carving using digital scanning and modeling techniques
+- Detect etching accuracy through AI-driven quality control tools
+- Efficient mass production using AI-assisted multi-axis CNC
+- Using augmented reality (AR) to preview finished sculpture effects
+
+**Human moat:**
+
+- Design aesthetic and creativity of highly customized artistic carving
+- Skills in precision hand restoration of antiques or high-value items
+- Deep understanding of material properties (e.g., wood grain, metal brittleness)
+- Ability to provide unique design and material pairing advice to clients
+- Manual finishing and tactile experience for complex surfaces or small details
+
+**Skills to build:**
+
+- CNC programming and operation
+- Computer-aided design (CAD) and 3D modeling software
+- Laser engraving and cutting equipment calibration
+- AI image generation and design tools (e.g., DALL·E, Midjourney) applications
+- Innovation in materials science and chemical etching processes
+- Digital workflow management (from design to manufacturing)
+
+**Key growth areas:**
 
 - slow growth
 - automation impact
@@ -63,62 +99,64 @@ Engrave or etch metal, wood, rubber, or other materials, including etcher-circui
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适合，因学历要求较低且非专业职业。 |
-| Subclass EB-3（Employment-Based Third Preference） | 可能适用于技术工人，但需雇主担保且需求低。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not suitable, as it has low educational requirements and is not a professional occupation. |
+| Subclass EB-3 (Employment-Based Third Preference) | May apply to skilled workers, but requires employer sponsorship and low demand. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Etchers and Engravers？**
-- 喜欢精细手工和重复性工作的人
-- 有耐心和专注力的人
-- 希望从事传统手工艺或定制服务的人
+**Who is suited**
+- Those who enjoy fine manual work and repetitive tasks
+- Patient and focused individuals
+- Those hoping to engage in traditional handicrafts or custom services
 
-**谁不适合学Etchers and Engravers？**
-- 追求高薪和快速职业成长的人
-- 无法适应单调重复工作的人
+**Who is not suited**
+- Those seeking high salary and fast career growth
+- People who cannot adapt to monotonous repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for etchers and engravers?**
+A: According to the U.S. Bureau of Labor Statistics, the median annual salary in 2023 was approximately $35,000, with entry-level positions potentially below $30,000 and senior technicians reaching over $50,000.
+
+**Q: Is this occupation suitable for immigrating to the United States?**
+A: Not suitable. This occupation usually does not meet the specialty occupation requirements for H-1B, and demand for employer-sponsored green cards is low, with very limited immigration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Etchers and Engravers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for etchers and engravers?**
-答：According to BLS, the median annual wage in 2023 was about $35,000, with entry-level under $30,000 and experienced workers over $50,000.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：No. It generally does not qualify as a specialty occupation for H-1B, and employer sponsorship for green cards is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

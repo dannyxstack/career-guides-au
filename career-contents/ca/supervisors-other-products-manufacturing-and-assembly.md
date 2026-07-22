@@ -1,58 +1,91 @@
-# Supervisors, other products manufacturing and assembly（Supervisors, other products manufacturing and assembly）职业分析 · 加拿大
+# Supervisors, other products manufacturing and assembly — career analysis · Canada
 
-**职业代码：92024 – Supervisors, other products manufacturing and assembly。**
+**Occupation code: 92024 (NOC)**
 
-Supervise and coordinate the activities of workers in other products manufacturing and assembly, ensuring production targets are met on time with quality and safety.
+Supervise and coordinate the activities of other product manufacturing and assembly section workers to ensure production targets are met on time, product quality and production safety are assured.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 高中毕业 | —（加拿大公立高中免费） |
-| 职业培训或大专文凭 | 1-2年 | $5,000~$20,000（学院或技术学校学费） |
+| High school diploma | High school graduation | $0~$0 (Canadian public high schools are free) |
+| Vocational training or associate degree/diploma | 1-2 years | $5,000~$20,000 (College or technical school tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 制造业管理证书 | 各省学院或行业协会 | 可选 | 非强制但有利于职业发展 |
-| 职业健康与安全认证 | 各省劳工部门 | 可选 | 部分省份要求主管持有 |
+| Manufacturing management certificate | Provincial colleges or industry associations | Optional | Not mandatory but beneficial for career development |
+| Occupational health and safety certification | Provincial labour departments | Optional | Some provinces require supervisors to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。加拿大制造业持续发展，对主管岗位需求稳定。尤其在不列颠哥伦比亚省和安大略省，食品、木制品和金属制品制造领域就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Canada's manufacturing sector continues to grow, with stable demand for supervisor roles. Employment opportunities are particularly strong in British Columbia and Ontario, especially in food, wood product, and metal product manufacturing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 取决于地区和公司规模 |
-| 中级（3-7年） | $55,000~$70,000 | 安大略省和BC省较高 |
-| 高级（7年以上） | $70,000~$90,000 | 生产经理级别可达10万以上 |
+| Median salary | $64,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$55,000 | Depends on region and company size. |
+| Mid-level (3–7 years) | $55,000~$70,000 | Higher in Ontario and British Columbia |
+| Senior (7+ years) | $70,000~$90,000 | Production manager level can reach over $100k |
+| average salary | $66,560 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从生产线工人晋升为主管，再升至生产经理或工厂经理。积累经验后也可转向质量管理或供应链管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core of other products manufacturing and assembly supervisors—supervision, scheduling, and quality control—is gradually being infiltrated by AI and automation; however, on-site interpersonal coordination and troubleshooting of unexpected issues still heavily rely on human experience, a mixed blessing.
+
+Can advance from production line worker to supervisor, then to production manager or plant manager. With experience, can also move into quality management or supply chain management roles.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and progress tracking: AI systems can automatically calculate optimal schedules and make real-time adjustments
+- Quality inspection data entry and analysis: computer vision automatically records defects and generates statistical reports
+- Routine patrol inspections: IoT sensors and monitoring systems replace manual patrols
+- Material and inventory counting: RFID and automated counting robots reduce manual counting
+
+**Where AI augments the role:**
+
+- Anomaly warning and root cause analysis: AI analyzes historical data to predict equipment failures or quality fluctuations in advance
+- Employee task allocation optimization: algorithms recommend the best personnel combinations to improve production line efficiency
+- Performance data visualization: auto-generate dashboards to assist supervisors in quick decision-making
+- Personalized training content: AI pushes customized training modules based on workers' skill gaps
+
+**Human moat:**
+
+- Handling interpersonal conflicts and employee grievances: AI cannot replace empathy and on-site mediation skills
+- Emergency shutdown/safety incident handling: quickly assess and execute non-standard emergency procedures
+- Multi-product agile line changeover: experience and intuition to handle unknown issues during frequent changeovers
+- Ad hoc communication with suppliers and clients: requires negotiation skills and long-term relationship maintenance
+
+**Skills to build:**
+
+- Lean production and Six Sigma methodology
+- Industrial data visualization tools (such as Tableau, Power BI)
+- Operation and customization of Manufacturing Execution Systems (MES)
+- Basic Python scripting (for automated reporting)
+- Basic concepts of AI and manufacturing
+- Advanced team management and conflict resolution
+
+**Key growth areas:**
 
 - Manufacturing
 - Production Management
@@ -61,67 +94,66 @@ Supervise and coordinate the activities of workers in other products manufacturi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 如果满足工作经验要求，可通过联邦技术移民或加拿大经验类移民申请永久居民。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、BC省、曼尼托巴等有制造业相关省提名项目。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳工市场影响评估，支持工签进而申请移民。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | If work experience requirements are met, can apply for permanent residence through Federal Skilled Worker or Canadian Experience Class. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario, BC, and Manitoba have manufacturing-related provincial nomination programs. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa and subsequent immigration. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, other products manufacturing and assembly？**
-- 有制造业生产线经验并希望晋升管理岗位的人
-- 擅长团队协调和生产流程优化的人
-
-**谁不适合学Supervisors, other products manufacturing and assembly？**
-- 不喜欢在工厂环境中工作的人
-- 缺乏沟通和领导能力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with manufacturing production line experience seeking promotion to management positions
+- Someone skilled in team coordination and production process optimization
+
+**Who is not suited**
+- People who dislike working in a factory environment
+- People lacking communication and leadership skills.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a manufacturing supervisor?**
+A: Entry-level about CAD 45,000-55,000, mid-level 55,000-70,000, senior 70,000-90,000.
+
+**Q: Can manufacturing supervisors immigrate to Canada through Express Entry?**
+A: Yes, if work experience requirements are met, you can apply through FSW or CEC.
+
+**Q: What educational background is required?**
+A: Typically requires high school graduation, but a diploma or vocational certificate helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors, other products manufacturing and assembly的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a manufacturing supervisor?**
-答：Entry-level CAD 45,000-55,000, mid-level CAD 55,000-70,000, senior CAD 70,000-90,000.
-
-**问：Can a manufacturing supervisor immigrate through Express Entry?**
-答：Yes, if they meet work experience requirements, they can apply via FSW or CEC.
-
-**问：What education is required?**
-答：Usually high school diploma; college diploma or vocational certificate helps advancement.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

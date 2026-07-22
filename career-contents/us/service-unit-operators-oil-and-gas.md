@@ -1,59 +1,91 @@
-# Service Unit Operators, Oil and Gas（Service Unit Operators, Oil and Gas）职业分析 · 美国
+# Service Unit Operators, Oil and Gas — career analysis · United States
 
-**职业代码：47-5013 – Service Unit Operators, Oil and Gas。**
+**Occupation code: 47-5013 (SOC)**
 
-Operate equipment to increase oil flow from producing wells or remove obstructions like stuck pipe, casing, or tools from drilling wells; includes fishing-tool technicians.
+Operate equipment to increase oil well flow, or remove blockages in drilling (e.g., stuck pipe, casing, tools), including fishing tool technicians.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常不需要正式学位） |
-| 职业培训或学徒 | 1-2年 | $5,000~$20,000（社区学院或技术学校证书课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no formal degree required) |
+| Vocational training or apprenticeship | 1-2 years | $5,000~$20,000 (Certificate program from community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 高中或同等学历机构 | 必备 | 最低入学要求 |
-| 商业驾驶执照（CDL） | 州机动车辆管理局 | 可选 | 操作重型设备可能需要 |
-| 油气安全培训（如HAZWOPER） | OSHA认证培训机构 | 必备 | 40小时危险废物操作培训 |
+| High school diploma or GED | High school or equivalent institution | Required | Minimum entry requirements |
+| Oil and gas safety training (e.g., HAZWOPER) | OSHA-authorized training provider | Required | 40-hour hazardous waste operations training |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | May require operating heavy equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 15,000。美国油气行业受全球价格和能源政策影响波动大，2023-2033年就业预计下降2%，因自动化及转向可再生能源。但现有工人退休带来少量替代需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. The US oil and gas industry fluctuates with global prices and energy policy; employment expected to decline 2% from 2023-2033 due to automation and shift to renewables. But retirements create some replacement demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | 多为起薪，含加班 |
-| 中级（3-7年） | $48,000~$65,000 | 技术熟练后提升 |
-| 高级（7年以上） | $65,000~$85,000 | 含监督职责 |
+| Median salary | $58,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$48,000 | Mostly starting salary, including overtime. |
+| Mid-level (3–7 years) | $48,000~$65,000 | Improve after mastering skills |
+| Senior (7+ years) | $65,000~$85,000 | Includes supervisory duties |
+| average salary | $62,470 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从普通操作员晋升为高级操作员、班组长或监督员；部分转向油气田技术服务公司管理岗；需持续学习新设备和安全规范。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Oil and gas well service operators rely heavily on on-site physical operations and equipment judgment; AI partially substitutes remote monitoring and data analysis tasks, but key operational decisions and hands-on repairs remain hard to automate, overall mixed outlook.
+
+Can progress from operator to senior operator, team leader, or supervisor; some move into management roles in oil and gas service companies; requires continuous learning of new equipment and safety standards.
+
+**Tasks most exposed to AI:**
+
+- AI takes over well condition data analysis and preliminary fault diagnosis, replacing manual report review process
+- Optimization of automated salvage tool parameters, replacing operator trial and error based on experience
+- Remote monitoring systems replace some on-site inspections and routine recording
+- AI predictive maintenance alerts partially replace manual periodic inspections
+
+**Where AI augments the role:**
+
+- AI provides real-time 3D wellbore models to assist operators in precisely locating blockages
+- Augmented reality (AR) helmets overlay equipment status information to improve maintenance efficiency.
+- AI recommends optimal salvage plans and simulates results to support decision-making
+- Smart sensors combined with AI to detect equipment anomalies early, reducing downtime
+
+**Human moat:**
+
+- Intuitive judgment and emergency response skills in complex well conditions
+- Experience in safe operations in high-altitude/high-pressure/toxic environments
+- Collaborative communication and on-site leadership with drilling crews and engineers
+- Hands-on repair skills for non-standard aging equipment
+
+**Skills to build:**
+
+- Data analysis and AI tool usage (e.g., Python, machine learning basics)
+- Digital twin and remote monitoring platform operation.
+- Augmented reality/virtual reality (AR/VR) maintenance skills
+- Automated equipment programming and troubleshooting
+- Digital systems for safety procedures and emergency response
+
+**Key growth areas:**
 
 - Automation
 - Oil price volatility
@@ -62,68 +94,67 @@ Operate equipment to increase oil flow from producing wells or remove obstructio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，但此职业通常不满足专业职位要求，极少获批 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于极少数顶尖技术人员 |
-| Subclass Green Card (PERM)（EB-3 Skilled Worker） | 需雇主证明劳工短缺，但通常因本土劳动力充足而困难 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, but this occupation usually does not meet professional position requirements, rarely approved. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to a very small number of top technicians |
+| Subclass Green Card (PERM) (EB-3 Skilled Worker) | Requires employer to prove labor shortage, but difficult due to sufficient local labor |
 
-**PR难度：很高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Service Unit Operators, Oil and Gas？**
-- 喜欢户外和体力劳动，能适应极端天气和偏远地区工作
-- 愿意夜间和加班工作，能遵守严格安全规程
-- 有机械维修或操作重型设备背景者
-
-**谁不适合学Service Unit Operators, Oil and Gas？**
-- 不喜出差或长时间离家者
-- 对安全风险敏感或体力较差者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor and manual work, able to adapt to extreme weather and remote areas
+- Willing to work nights and overtime, and adhere to strict safety procedures
+- Those with a background in mechanical maintenance or operating heavy equipment
+
+**Who is not suited**
+- Those who dislike travel or being away from home for long periods
+- Those with high sensitivity to safety risks or poor physical fitness
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation?**
+A: According to 2023 US Bureau of Labor Statistics, the median annual salary for oil and gas well service operators is approximately $47,000, ranging from $35,000 to $85,000, with overtime potentially increasing income.
+
+**Q: Can foreigners work in this occupation via skilled migration to the United States?**
+A: Very difficult. This occupation usually does not meet H-1B specialty occupation requirements, and employers must prove inability to hire qualified US workers; green card success rate is low. Consider related engineering positions.
+
+**Q: What are the advancement pathways?**
+A: Can advance from junior operator to senior operator, team leader, field supervisor, or move into management positions in oilfield technical service companies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★☆） |
-
-Service Unit Operators, Oil and Gas的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary?**
-答：According to BLS 2023, median annual wage for service unit operators is around $47,000, with a range of $35,000 to $85,000; overtime can increase earnings.
-
-**问：Can foreigners immigrate for this job?**
-答：Very difficult. This occupation rarely meets H-1B specialty occupation criteria, and employers must demonstrate labor shortage. Green card success rate is low. Consider engineering roles instead.
-
-**问：What are the advancement paths?**
-答：From entry-level operator to senior operator, crew leader, field supervisor, or management roles in oilfield service companies.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

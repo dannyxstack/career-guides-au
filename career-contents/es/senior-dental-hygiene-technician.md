@@ -1,60 +1,92 @@
-# Senior Dental Hygiene Technician（Senior Dental Hygiene Technician）职业分析 · ES
+# Senior Dental Hygiene Technician — career analysis · Spain
 
-**职业代码：3321 – Senior Dental Hygiene Technician。**
+**Occupation code: 3321 (CNO)**
 
-Senior dental hygiene technicians perform preventive oral care including scaling, fluoride application, sealants, and patient education. They support dentists in periodontal therapy and post-operative care, playing a key role in public health services.
+Senior oral hygiene technicians are responsible for preventive oral care in dental clinics, including cleaning, fluoride application, fissure sealing, and oral health education. They work closely with dentists, supporting periodontal treatment and postoperative care, playing an important role in public health services.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $300~$800（公立学校学费约300-800欧元/年，私立约3000-6000欧元/年） |
-| 大学本科（Grado） | 4年 | $800~$2,000（公立大学学费约800-2000欧元/年，私立约6000-12000欧元/年） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $300~$800 (Public school tuition is about 300-800 euros per year, while private tuition is about 3000-6000 euros per year) |
+| Undergraduate (Grado) | 4 years | $800~$2,000 (Public university tuition is about 800-2000 euros per year, private tuition about 6000-12000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级口腔卫生技师学位（FP Grado Superior en Higiene Bucodental） | 西班牙教育部认可的职业教育机构 | 必备 | 完成2年FP课程并通过考核，必备资格 |
-| 专业认证（Registro Sanitario） | 各自治区卫生部门 | 必备 | 需在自治区卫生部门注册方可执业 |
+| Advanced Oral Hygiene Technician Degree (FP Grado Superior en Higiene Bucodental) | A vocational education institution recognized by the Spanish Ministry of Education | Required | Completing a 2-year FP course and passing the assessment is a required qualification |
+| Professional Certification (Registro Sanitario) | Health departments of all autonomous regions | Required | Practice requires registration with the Autonomous Region Health Department |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：良好（★★★★☆）。** 全国从业人数约 8,500。西班牙人口老龄化和口腔健康意识提升推动口腔护理需求持续增长。公共牙科卫生项目扩展为岗位创造稳定来源。预计未来五年就业增长约8%，主要集中在私立诊所和公共卫生机构。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Spain's aging population and increased oral health awareness are driving sustained growth in oral care demand. The expansion of public dental hygiene programs creates a stable source of jobs. Employment is expected to grow by about 8% over the next five years, mainly concentrated in private clinics and public health institutions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 私立诊所起步薪资，含公共社保 |
-| 中级（3-8年） | $24,000~$32,000 | 经验丰富者，可能含绩效奖金 |
-| 高级（8年以上） | $32,000~$42,000 | 资深技师或管理岗，公共卫生系统薪资略高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Private clinics begin with a starting salary, including public social insurance |
+| Mid-level (3–8 years) | $24,000~$32,000 | Experienced candidates may receive performance bonuses |
+| Senior (8+ years) | $32,000~$42,000 | Senior technicians or management positions have slightly higher salaries in the public health system |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级口腔卫生技师可通过积累临床经验和进修专科课程晋升为高级技师、诊所主管或口腔健康教育者。部分人通过继续教育和学历提升转向牙科治疗师或口腔卫生管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Preventive procedures for senior oral hygiene technicians face automation risks, but complex case handling, patient communication, and personalized care are difficult to replace; AI-assisted diagnostic tools will amplify their clinical decision-making efficiency, with an overall mixed trend.
+
+Junior oral health technicians can be promoted to senior technician, clinic supervisor, or oral health educator through accumulating clinical experience and continuing specialized courses. Some have shifted to dental therapist or oral hygiene management positions through continuing education and further education.
+
+**Tasks most exposed to AI:**
+
+- Routine Dental Cleaning (AI-Controlled Ultrasonic Scaler)
+- Fluoride application and pit and fissure sealing (robotic or AI-guided processes)
+- Oral health education (AI-generated personalized guidance)
+- Patient appointments and follow-up (AI customer service)
+
+**Where AI augments the role:**
+
+- AI analyzes oral scan images to identify early risks of caries or periodontal disease
+- AI-assisted personalized prevention plans (based on big data)
+- AI-driven virtual simulation tools improve patient education and communication
+- AI monitors cleaning intensity and effectiveness in real time, improving operational precision
+
+**Human moat:**
+
+- Complex periodontal pocket treatment and manual curettage techniques
+- Communication and comfort for patients with special needs (children, dental phobia).
+- Interdisciplinary collaboration (with dentists, orthodontists, etc.) to develop comprehensive plans
+- Legal Liability and Clinical Judgment (such as deciding whether to referral)
+
+**Skills to build:**
+
+- Operate AI-assisted diagnostic software (such as oral imaging analysis)
+- Fundamentals of digital oral scanning and CAD/CAM
+- Basic Data Analysis (Evaluating the Effectiveness of Prevention Programs)
+- Remote patient management and use of educational tools
+- Maintenance and supervision of dental robots
+
+**Key growth areas:**
 
 - aging population
 - preventive dentistry
@@ -63,68 +95,67 @@ Senior dental hygiene technicians perform preventive oral care including scaling
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或5年经验，年薪门槛约33,908欧元（2023年），需工作合同。 |
-| Subclass Cuenta ajena（Work Contract Visa） | 常规受雇工作居留，需雇主担保且证明职位无法在欧盟填补，审批周期较长。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 面向高级专业人才，需学历或经验，年薪门槛约40,000欧元，流程更快。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree or 5 years experience, salary threshold about 33,908 EUR (2023), needs employment contract. |
+| Subclass Cuenta ajena (Work Contract Visa) | Regular employment residence requires employer sponsorship and proof that the position cannot be filled in the EU, resulting in a longer approval process. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, education or experience is required, with an annual salary threshold of about 40,000 euros, and a faster process. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Senior Dental Hygiene Technician？**
-- 细心、动手能力强，喜欢与人交流
-- 对口腔健康有热情，愿意从事预防性医疗工作
-
-**谁不适合学Senior Dental Hygiene Technician？**
-- 对医疗环境或血液敏感
-- 不愿持续学习新设备与技术
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, strong hands-on skills, enjoys communicating with others
+- Passionate about oral health and willing to work in preventive medicine
+
+**Who is not suited**
+- Sensitive to medical environment or blood
+- Unwilling to continuously learn new equipment and technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for senior oral hygiene technicians in Spain?**
+A: Junior technicians earn about €18,000-24,000/year, mid-level €24,000-32,000, senior up to €32,000-42,000. Public system salaries are stable with better benefits, but private clinics may offer higher performance bonuses.
+
+**Q: Can third-country nationals immigrate to Spain through this employment?**
+A: Yes, but subject to academic credentials (homologación) and language requirements (Spanish B2). Common pathways include the EU Blue Card (annual salary ≥€33,908) and the Highly Skilled Professional Visa (annual salary ≥€40,000). This profession is not in short supply, but there are still channels.
+
+**Q: What educational qualifications are required to become a senior oral hygiene technician?**
+A: The minimum requirement is a 2-year Advanced Vocational Training (FP Grado Superior) degree, with some universities offering 4-year undergraduate programs. All must be registered with the health department to practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2年FP或4年本科）（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 良好（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Senior Dental Hygiene Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for senior dental hygiene technicians in Spain?**
-答：Entry-level annual salary ranges from €18,000-€24,000, mid-level €24,000-€32,000, and senior up to €32,000-€42,000. Public sector offers stability and benefits, while private clinics may offer performance bonuses.
-
-**问：Can third-country nationals migrate to Spain through this occupation?**
-答：Yes, but subject to degree homologation and Spanish language requirements (B2). Common pathways include EU Blue Card (salary ≥€33,908) and Highly Qualified Professional visa (salary ≥€40,000). The occupation is not in shortage but remains viable.
-
-**问：What education is needed to become a senior dental hygiene technician?**
-答：The minimum is a 2-year advanced vocational training (FP Grado Superior) diploma; some universities offer 4-year bachelor's degrees. Registration with the health authority is mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Lighting Technicians（Lighting Technicians）职业分析 · 美国
+# Lighting Technicians — career analysis · United States
 
-**职业代码：27-4015 – Lighting Technicians。**
+**Occupation code: 27-4015 (SOC)**
 
-Set up, maintain, and dismantle light fixtures, lighting control devices, and associated electrical and rigging equipment for photography, TV, film, video, and live productions. May focus or operate lights and attach color filters.
+Install, maintain, and remove lighting, lighting control equipment, and related electrical and rigging equipment for photography, television, film, video, and live performances. May focus or operate lights, or add accessories like color filters.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 职业培训或副学士学位 | 1-2年 | $5,000~$20,000（社区学院或技术学校的灯光技术课程） |
-| 在职学徒 | 3-4年 | —（通过工会或雇主提供的在职培训，可能低收入） |
+| Vocational training or associate degree | 1-2 years | $5,000~$20,000 (Lighting technology courses at community college or technical school) |
+| Apprentice on the job | 3-4 years | $0~$5,000 (On-the-job training provided through unions or employers, may have low income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行业认证 | ESTA (Entertainment Services and Technology Association) | 可选 | 如娱乐技术员认证(ETC)可增强竞争力 |
-| OSHA安全培训 | OSHA | 必备 | 工作场所安全认证，部分雇主强制要求 |
-| 驾照 | 州机动车辆管理局 | 必备 | 需驾驶设备车辆 |
+| OSHA Safety Training | OSHA | Required | Workplace safety certification, mandatory for some employers |
+| Driver's license | State motor vehicle department | Required | Need to operate equipment vehicles |
+| Industry certifications | ESTA (Entertainment Services and Technology Association) | Optional | Certifications such as Entertainment Technician Certification (ETC) can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。美国劳工统计局预计2023-2033年该职业就业增长约6%，与平均水平相当。影视和现场演出行业需求稳定，但受经济周期和流媒体平台发展影响，竞争较为激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. The US Bureau of Labor Statistics projects about 6% employment growth for this occupation from 2023 to 2033, about as fast as average. Demand in film and live performance industries is stable, but competition is intense due to economic cycles and streaming platform developments.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 自由职业者收入可能更低 |
-| 中级（3-7年） | $45,000~$65,000 | 工会成员或全职雇员收入更高 |
-| 高级（7年以上） | $65,000~$90,000 | 首席灯光师或主管级别 |
+| Median salary | $68,060 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Freelancers may have lower income |
+| Mid-level (3–7 years) | $45,000~$65,000 | Union members or full-time employees earn higher income |
+| Senior (7+ years) | $65,000~$90,000 | Chief Lighting Technician or Supervisor Level |
+| average salary | $78,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级灯光技术员可通过积累经验晋升为首席灯光师或灯光导演，也可转向灯光设计、系统集成或影视制作管理。部分技术人员可加入工会（如IATSE）以获更好待遇。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is reshaping the lighting technician role, but the job itself will not disappear. Automation improves efficiency in dimming, programming, and some installation/maintenance, while core skills like creative decision-making, complex lighting setups, and on-site collaboration still require humans. Entry-level jobs face pressure from automation, but senior technicians' value is amplified.
+
+Junior lighting technicians can advance to chief lighting technician or lighting director through experience, or transition to lighting design, system integration, or film/TV production management. Some technicians can join unions (e.g., IATSE) for better conditions.
+
+**Tasks most exposed to AI:**
+
+- Automatic lighting programming: AI can auto-generate lighting sequences based on scripts or music, reducing manual programming time.
+- Routine lighting maintenance: AI predictive maintenance system automatically diagnoses and reports faults, replacing some inspection work.
+- Basic lighting control: voice or preset scenes for automatic switching, replacing simple manual operations on-site.
+- Inventory management and logistics: AI optimizes tracking and outbound processes for lighting, wiring, and rigging stock.
+
+**Where AI augments the role:**
+
+- Complex lighting design: AI-assisted generation of multiple lighting options, allowing technicians to quickly evaluate and adjust creative directions.
+- Real-time troubleshooting: AI analyzes system logs and sensor data to pinpoint issues and suggest fixes.
+- Wireless control systems: AI optimizes wireless DMX and network control for more flexible lighting arrangements and remote adjustments.
+- Virtual pre-visualization: AI-driven 3D pre-visualization software previews lighting effects in advance, reducing on-site tuning time.
+- Energy efficiency optimization: AI automatically adjusts lighting power and modes to save energy while maintaining artistic effects.
+
+**Human moat:**
+
+- Artistic judgment and creative decision-making: understanding the director's vision and translating it into lighting language requires human aesthetic sense.
+- Complex on-site collaboration: real-time communication and coordination with directors, photographers, and actors during fast-paced shoots or performances.
+- Physical installation and rigging: lighting installation and wiring at heights or in hazardous environments, which robots cannot fully replace.
+- Emergency handling and non-standard scenarios: temporarily use creativity to solve problems such as sudden equipment failures or special effect needs.
+
+**Skills to build:**
+
+- AI lighting design software (e.g., Vectorworks Spotlight, MA Lighting grandMA3 onPC).
+- Basic programming (Python or Lua for automation scripts)
+- DMX and network control protocols (Art-Net, sACN)
+- Virtual pre-visualization tools (e.g., Unreal Engine for lighting)
+- Data analysis and sensor integration (for predictive maintenance)
+- Communication and teamwork (translating technical language for creative teams)
+
+**Key growth areas:**
 
 - Entertainment
 - Film Production
@@ -64,63 +98,65 @@ Set up, maintain, and dismantle light fixtures, lighting control devices, and as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等经验，但灯光技术员通常不满足专业职业要求，雇主赞助困难。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需证明杰出能力，如获得国际奖项、参与知名项目，适合顶尖人才。 |
-| Subclass EB-2/EB-3（Employment-Based Green Card） | 需PERM劳工证，但职业通常不是短缺职业，通过难度大。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree or equivalent experience, but lighting technicians usually do not meet professional occupation requirements, making employer sponsorship difficult. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate outstanding ability, such as receiving international awards, participating in renowned projects, suitable for top talent. |
+| Subclass EB-2/EB-3 (Employment-Based Green Card) | Requires PERM labor certification, but the occupation is usually not in shortage, making it difficult to pass. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Lighting Technicians？**
-- 对舞台灯光和影视照明有浓厚兴趣的人
-- 动手能力强、能适应长时间站立和体力劳动的人
-- 愿意接受灵活工作时间（包括夜晚和周末）的人
+**Who is suited**
+- People with a strong interest in stage lighting and film/TV lighting
+- People with strong hands-on skills and the ability to stand for long periods and perform physical labor
+- People willing to work flexible hours (including evenings and weekends)
 
-**谁不适合学Lighting Technicians？**
-- 希望稳定朝九晚五工作的人
-- 对高压、快节奏工作环境不适应的人
+**Who is not suited**
+- People who want stable 9-to-5 work
+- Those who are not suited to high-pressure, fast-paced work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of lighting technicians?**
+A: Entry-level about $30,000-45,000, mid-level $45,000-65,000, senior up to $90,000. Freelancers have volatile income.
+
+**Q: Can foreign lighting technicians move to the US through work visas?**
+A: Very difficult. H-1B requires a professional occupation; lighting technician is often not recognized; O-1 only for extraordinary ability; green card pathways are narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Lighting Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a lighting technician?**
-答：Entry-level $30k-$45k, mid-level $45k-$65k, senior up to $90k. Freelancers may have variable income.
-
-**问：Can foreign lighting technicians immigrate to the US via work visa?**
-答：Very difficult. H-1B requires specialty occupation, rarely approved; O-1 only for extraordinary ability; green card path is limited.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

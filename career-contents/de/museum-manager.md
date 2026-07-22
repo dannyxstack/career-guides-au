@@ -1,61 +1,97 @@
-# Museum Manager（Museum Manager）职业分析 · DE
+# Museum Manager — career analysis · Germany
 
-**职业代码：9479 – Museum Manager。**
+**Occupation code: 9479 (KldB)**
 
-Museum managers oversee the overall operations of museums, including curation, administration, financial management, staff leadership, and strategic planning to ensure sustainability and educational mission.
+Museum directors are responsible for the overall management of museums, including curation, operations, finance, personnel management, and strategic planning, ensuring sustainable development and public education missions.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士/博士 | 5-7年（硕士+博士） | —（公立大学学费低，仅学期费） |
-| 双元制培训（博物馆管理员） | 3年 | —（培训期间有津贴） |
+| Master's/PhD | 5-7 years (Master's + PhD) | $0~$5,000 (Public universities have low tuition, only semester fees) |
+| Dual training (museum curator) | 3 years | $0~$300 (Allowance during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博物馆学或相关领域硕士学位 | 大学 | 必备 | 通常为入职最低要求 |
-| 博士学位（大型博物馆） | 大学 | 可选 | 多数大型博物馆馆长要求博士 |
-| 管理经验证明 | 用人单位 | 必备 | 需多年管理经验 |
+| Master's degree in museology or a related field | University | Required | Usually the minimum requirement for entry |
+| Management experience proof | Employer | Required | Requires years of management experience |
+| Doctorate (large museums) | University | Optional | Most large museum directors require a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。德国博物馆行业稳定但竞争激烈，公共资金支持为主，数字化与观众参与带来新需求。预计岗位增长缓慢，但退休浪潮将创造机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,500. The German museum industry is stable but competitive, mainly supported by public funds; digitalization and audience participation bring new demands. Job growth is expected to be slow, but retirement waves will create opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 小型博物馆或助理岗位 |
-| 中级（3-7年） | $45,000~$60,000 | 中型博物馆部门主管 |
-| 高级（7年以上） | $60,000~$85,000 | 大型博物馆馆长 |
+| Median salary | $50,196 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Small museums or assistant positions. |
+| Mid-level (3–7 years) | $45,000~$60,000 | Medium museum department head |
+| Senior (7+ years) | $60,000~$85,000 | Large museum director |
+| average salary | $54,516 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升通常从部门主管（如策展、教育）到副馆长，再至馆长。大型博物馆馆长需具备博士学位和管理经验，小型博物馆则更注重多面手能力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI on museum curator roles is mixed: administrative and data analysis tasks can be automated, but curatorial creativity, community relations, and fiduciary responsibility remain human advantages.
+
+Career progression typically moves from department head (e.g., curatorial, education) to deputy director, then to director. Large museum directors need a PhD and management experience, while small museums value versatility.
+
+**Tasks most exposed to AI:**
+
+- Collection inventory records and data entry
+- Visitor traffic statistics and report generation
+- Routine administrative scheduling and correspondence
+- Generation of basic financial budget templates.
+- Drafting some initial exhibition descriptive text
+
+**Where AI augments the role:**
+
+- AI analyzing visitor behavior to optimize exhibition layout and flow
+- AI-assisted curation: uncovering storylines from vast historical archives
+- AI-enhanced digital guides and interactive experience design
+- AI predictive maintenance alerts improve heritage conservation efficiency
+- AI generates multilingual promotional materials drafts and assists in public relations
+
+**Human moat:**
+
+- Strategic judgment and long-term planning of museum mission
+- Relationship maintenance and negotiation with community, donors, and government
+- Deep appreciation and curatorial creativity in art, history, and culture
+- Responsibility for major decisions (e.g., collection acquisitions, exhibition themes)
+- Humanized motivation in team leadership and cross-department coordination
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R/Tableau)
+- AI tool applications (curation assistance, audience analysis)
+- Digital collection management and virtual exhibition technology
+- Social media and digital marketing strategies
+- Foundations of finance and project management
+- Cross-cultural communication and persuasion skills.
+
+**Key growth areas:**
 
 - Digital transformation
 - Audience engagement
@@ -64,69 +100,68 @@ Museum managers oversee the overall operations of museums, including curation, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历+年薪达标（2024年约43,800欧元，紧缺专业可放宽） |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需认可学历+雇主担保 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需学历认证+经济证明 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree plus meeting the annual salary threshold (approximately €43,800 in 2024, may be relaxed for in-demand professions) |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires recognized qualifications + employer sponsorship |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring qualification verification + financial proof |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Museum Manager？**
-- 热爱文化艺术，有管理才能
-- 擅长跨部门协调与公共沟通
-- 具备学术背景（历史、艺术史等）
-
-**谁不适合学Museum Manager？**
-- 追求高薪者
-- 偏好稳定8小时工作制者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about arts and culture, with management skills
+- Skilled in cross-departmental coordination and public communication
+- Academic background (e.g., history, art history)
+
+**Who is not suited**
+- Those seeking high salaries
+- For those preferring a stable 8-hour work schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for museum directors in Germany?**
+A: Junior: approx. €35,000-45,000; intermediate: €45,000-60,000; senior: €60,000-85,000 (annual pre-tax). Large institutions can pay higher for curators.
+
+**Q: How can foreigners become museum directors in Germany?**
+A: Requires a recognized relevant qualification (usually a master's) in Germany and completion of the qualification recognition procedure (Anerkennung). High language requirements (C1 German). Blue Card or skilled migration visas are possible but competitive.
+
+**Q: What is the career development path for a museum director?**
+A: Typically start as curator or head of education, progress to deputy director, and eventually become director. Large museums require a PhD, while smaller museums value comprehensive skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Museum Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a museum manager in Germany?**
-答：Entry-level: €35,000-45,000; mid-level: €45,000-60,000; senior: €60,000-85,000 (gross annual). Larger institutions may pay more.
-
-**问：How can a foreigner become a museum manager in Germany?**
-答：Requires a recognized degree (usually master's) and credential evaluation. High German proficiency (C1). EU Blue Card or skilled worker visa possible, but competition is strong.
-
-**问：What is the career path for a museum manager?**
-答：Typically starts as curator or department head, advances to deputy director, then director. Large museums require a PhD; smaller ones value versatility.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

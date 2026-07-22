@@ -1,61 +1,97 @@
-# Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)（Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)）职业分析 · 新西兰
+# Kaiāwhina Kohanga Reo (Māori Language Nest Assistant) — career analysis · New Zealand
 
-**职业代码：422113 – Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)。**
+**Occupation code: 422113 (ANZSCO)**
 
-Kaiāwhina Kohanga Reo (Māori Language Nest Assistant) supports Māori language revitalization in early childhood education, assisting teachers with cultural activities and helping children learn te reo Māori. This role is eligible for Accredited Employer Work Visa but not for Skilled Migrant Category.
+A Māori language nest assistant supports the revitalization of the Māori language in early childhood education settings, assists teachers in cultural activities, and helps children learn Māori. This occupation is eligible for the Accredited Employer Work Visa to enter New Zealand, but is not on the Skilled Migration List.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书或文凭 | 1年 | $5,000~$10,000（如早期儿童教育证书（Level 3）） |
-| 本科 | 3年 | $20,000~$35,000（如早期儿童教育学士） |
+| Certificate or diploma | 1 year | $5,000~$10,000 (Such as Early Childhood Education Certificate (Level 3)) |
+| Bachelor's degree | 3 years | $20,000~$35,000 (Such as a Bachelor of Early Childhood Education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 早期儿童教育证书（Level 3） | 新西兰资格认证局 | 可选 | 常见要求，非强制 |
-| 毛利语言能力证书 | 毛利语言委员会 | 可选 | 提升竞争力 |
-| 新西兰教师注册 | 教学委员会 | 可选 | 如需晋升为教师，则强制 |
+| Early Childhood Education Certificate (Level 3) | New Zealand Qualifications Authority | Optional | Common requirement, not mandatory |
+| Māori Language Proficiency Certificate | Maori Language Commission | Optional | Boosting competitiveness |
+| New Zealand teacher registration | Teaching committee | Optional | Mandatory for promotion to teacher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。随着毛利语言保护政策加强，就业需求稳定，但岗位数量有限，主要集中于毛利社区和部分早教机构。预计未来5年增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. With stronger Māori language protection policies, employment demand is stable but limited, mainly in Māori communities and some early childhood education institutions. Growth is expected to be slow over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 起薪约每小时20-25纽元 |
-| 中级（3-5年） | $50,000~$60,000 | 约每小时25-30纽元 |
-| 高级（5年以上） | $60,000~$70,000 | 或有管理职责 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Starting salary about 20-25 New Zealand dollars per hour |
+| Mid-level (3–5 years) | $50,000~$60,000 | Approximately NZD 25-30 per hour |
+| Senior (5+ years) | $60,000~$70,000 | Or with management responsibilities |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理晋升为主管教师或毛利语言顾问，需积累经验并取得高等教育资格。部分从业者转任小学毛利语言教师。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI will assist in generating Māori language teaching materials and correcting pronunciation, but the role of human teachers is irreplaceable in cultural transmission and emotional interaction; overall risks and opportunities coexist.
+
+Can progress from assistant to lead teacher or Māori language consultant, requiring experience and higher education qualifications. Some practitioners transition to primary school Māori language teacher.
+
+**Tasks most exposed to AI:**
+
+- Generating voice materials with standard Māori pronunciation via AI
+- Using AI to automatically record and evaluate children's language progress
+- Using AI to create digitized Māori cultural stories and songs
+- AI-assisted translation and production of teaching materials
+- Use AI to manage children's attendance and activity data
+
+**Where AI augments the role:**
+
+- Use AI voice tools to provide real-time Māori pronunciation guidance
+- Generate personalized learning games and activities through AI
+- Use AI to analyze children's language development and adjust teaching strategies
+- Communicate with families in multiple languages using AI translation tools
+- Create multimedia cultural immersion environments using AI
+
+**Human moat:**
+
+- Hosting and guiding in-person cultural activities and ceremonies.
+- Emotional support and child behavior management
+- Transmission of intergenerational Māori language and cultural practices
+- Building trust with families and communities
+- Flexibly respond to individual differences and unexpected situations in children
+
+**Skills to build:**
+
+- Proficiency in basic AI teaching tools (e.g., speech synthesis, translation software)
+- Analyzing learning data to track child development
+- Enhance in-depth knowledge of Māori language and culture
+- Obtain early childhood education or Māori language teaching certification
+- Practice multimedia content creation (videos, interactive stories)
+- Learn digital privacy and security standards
+
+**Key growth areas:**
 
 - Māori Language Revitalization
 - Early Childhood Education
@@ -64,62 +100,64 @@ Kaiāwhina Kohanga Reo (Māori Language Nest Assistant) supports Māori language
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 如获认证雇主担保，可申请工签，但移民难度较大。 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合技术移民要求，因ANZSCO等级较低。 |
+| Subclass AEWV (Accredited Employer Work Visa) | If sponsored by an accredited employer, can apply for a work visa, but immigration is more difficult. |
+| Subclass SMC (Skilled Migrant Category) | Usually does not meet skilled migration requirements due to low ANZSCO level. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)？**
-- 热爱毛利语言与文化的人士
-- 希望在早期儿童教育领域积累经验的人
-- 愿意在毛利社区或偏远地区工作的人
+**Who is suited**
+- People passionate about the Māori language and culture
+- Individuals looking to gain experience in early childhood education
+- Those willing to work in Māori communities or remote areas
 
-**谁不适合学Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)？**
-- 寻求高收入或快速移民的人
-- 缺乏毛利语基础或文化适应力的人
+**Who is not suited**
+- Those seeking high income or fast immigration
+- Those lacking Māori language basics or cultural adaptability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for this occupation?**
+A: Entry-level annual salary approx. NZ$40,000 to NZ$50,000, senior up to NZ$70,000.
+
+**Q: Can this occupation immigrate to New Zealand?**
+A: Difficult. This occupation is not on the skilled migration list or Green List; only an accredited employer work visa is possible, with poor immigration prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this role?**
-答：Entry-level annual salary is around NZD 40,000–50,000, senior up to NZD 70,000.
-
-**问：Can this role lead to New Zealand residency?**
-答：It is difficult. The occupation is not on the Skilled Migrant Category or Green List, only eligible for Accredited Employer Work Visa with poor residency prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

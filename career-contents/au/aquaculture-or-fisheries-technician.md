@@ -1,59 +1,94 @@
-# Aquaculture or Fisheries Technician（Aquaculture or Fisheries Technician）职业分析 · 澳大利亚
+# Aquaculture or Fisheries Technician — career analysis · Australia
 
-**职业代码：311114 – Aquaculture or Fisheries Technician。**
+**Occupation code: 311114 (ANZSCO)**
 
-Aquaculture or Fisheries Technicians assist in daily operations of fish farms, including water quality monitoring, feeding, disease control, harvesting, and record-keeping to ensure sustainable aquaculture practices.
+Aquaculture or fisheries technicians assist with the daily operations of fish farms, including water quality monitoring, feeding, disease control, harvesting, and record-keeping, ensuring the farming environment meets sustainability standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业培训证书（Certificate III/IV） | 1-2年 | $5,000~$15,000（TAFE院校学费） |
-| 大专文凭（Diploma） | 2年 | $15,000~$30,000（私立或TAFE院校学费） |
+| Certificate III/IV (Vocational Training Certificate) | 1-2 years | $5,000~$15,000 (TAFE tuition fees) |
+| Diploma (TAFE diploma). | 2 years | $15,000~$30,000 (Private or TAFE tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖三级证书（Certificate III in Aquaculture） | TAFE或注册培训机构 | 必备 | 入门级资格，涵盖基础操作 |
-| 水产养殖四级证书（Certificate IV in Aquaculture） | TAFE或注册培训机构 | 可选 | 进阶资格，涉及管理与技术 |
-| 水产养殖大专文凭（Diploma of Aquaculture） | TAFE或大学 | 可选 | 提升至管理或技术专家岗位 |
+| Certificate III in Aquaculture | TAFE or registered training organizations | Required | Entry-level qualification covering basic operations |
+| Certificate IV in Aquaculture | TAFE or registered training organizations | Optional | Advanced qualification involving management and technology |
+| Diploma of Aquaculture | TAFE or university | Optional | Promotion to management or technical expert positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。澳洲水产养殖业受可持续发展和食品安全需求推动，未来五年预计稳定增长，尤其在大西洋鲑鱼、牡蛎等品种养殖区域需求较强。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Driven by sustainable development and food safety demands, Australia's aquaculture industry is expected to grow steadily over the next five years, particularly in regions farming Atlantic salmon, oysters, and other species.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 全职，视地区与雇主 |
-| 中级（3-6年） | $65,000~$80,000 | 含经验与技能提升 |
-| 高级/主管（6年以上） | $80,000~$100,000 | 管理岗位或技术专家 |
+| Median salary | $94,016 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$65,000 | Full-time, depending on location and employer |
+| Mid-level (3–6 years) | $65,000~$80,000 | Including experience and skills enhancement |
+| Senior/Supervisor (6+ years) | $80,000~$100,000 | Management positions or technical experts |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技术员晋升为高级技术员或养殖场主管，进一步可发展为水产养殖经理、水产科学家或相关顾问，需积累实操经验及管理技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly compress junior tasks (e.g., data recording, basic water quality analysis) in this occupation, narrowing entry-level positions, but senior technical staff still have a moat in high-dimensional decision-making and emergency handling.
+
+Can progress from junior technician to senior technician or farm supervisor, and further to aquaculture manager, aquaculture scientist, or related consultant, requiring practical experience and management skills.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding systems replace manual scheduled feeding
+- AI image recognition replaces manual counting and initial visual disease screening
+- IoT sensors replace manual collection of water quality parameters (temperature, dissolved oxygen, pH)
+- Data recording and analysis are completed automatically by software and generate reports
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of stocking density and feeding strategies improves yield accuracy.
+- Machine learning models predict disease outbreak risks for early intervention
+- Drones and robots monitor large water areas, improving inspection efficiency
+- Digital twin technology simulates different farming scenarios to aid decision-making
+- AI-driven scheduling of live transport and harvest plans to reduce stress losses
+
+**Human moat:**
+
+- Emergency diagnosis and on-site handling of sudden fish diseases (requires manual dissection and clinical experience)
+- Human intervention in complex ecological balance (e.g., polyculture combinations, substrate improvement)
+- Communicate with biologists and senior environmental department staff for compliance justification
+- Rapid on-site repair of unforeseen equipment failures (mechanical/electrical)
+- Experimental management of new species domestication (lacking historical data to support AI models)
+
+**Skills to build:**
+
+- Data Analysis & Visualization (Python/R, Power BI)
+- Basics of IoT and smart sensor operations and maintenance.
+- Basic programming skills (Python scripting for processing monitoring data).
+- Understanding of AI tool applications (e.g., disease prediction models, drone inspection software)
+- In-depth knowledge of water chemistry and microbiology
+- Automatic control and simple robot maintenance
+
+**Key growth areas:**
 
 - Aquaculture
 - Sustainable seafood
@@ -62,68 +97,67 @@ Aquaculture or Fisheries Technicians assist in daily operations of fish farms, i
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage) Visa） | 适用于雇主担保，需有2年相关工作经验 |
-| Subclass 186（Employer Nomination Scheme (ENS) Visa） | 雇主提供永久担保，需职业评估与英语要求 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保，满足居住要求后可转191永居 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage) Visa) | Suitable for employer sponsorship; requires 2 years of relevant work experience |
+| Subclass 186 (Employer Nomination Scheme (ENS) Visa) | Employer offers permanent sponsorship; occupational assessment and English requirements needed |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state nomination, can transfer to 191 permanent residence after meeting residency requirements. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture or Fisheries Technician？**
-- 喜欢户外工作、对海洋或淡水生物感兴趣的人
-- 注重实践操作、愿意在偏远地区工作的人
-- 追求职业稳定、有意通过技术移民留在澳洲的人
-
-**谁不适合学Aquaculture or Fisheries Technician？**
-- 不喜欢体力劳动或户外环境的人
-- 希望快速晋升到高薪管理层而不愿从基层做起的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and are interested in marine or freshwater life
+- People who value hands-on practice and are willing to work in remote areas
+- People seeking career stability and intending to stay in Australia via skilled migration
+
+**Who is not suited**
+- People who do not like physical labour or outdoor environments
+- People who want rapid promotion to high-paying management positions but are unwilling to start from entry-level
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of aquaculture technicians?**
+A: Entry-level technicians earn approximately AUD 55,000-65,000 per year, those with intermediate experience can reach AUD 65,000-80,000, and senior or supervisory roles can reach AUD 80,000-100,000.
+
+**Q: Can aquaculture technicians migrate through skilled migration?**
+A: Yes. This occupation is on the CSOL and can lead to migration via state nomination 190/491 visas or employer-sponsored 482/186 visas, requiring a skills assessment and meeting English requirements.
+
+**Q: What are the career prospects for this occupation?**
+A: With the expansion of Australia's sustainable aquaculture industry, demand for technicians is growing; can progress to farm supervisor, aquaculture scientist, or consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Aquaculture or Fisheries Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Aquaculture Technician?**
-答：Entry-level technicians earn AUD 55,000–65,000, mid-level AUD 65,000–80,000, and senior/supervisory roles AUD 80,000–100,000 annually.
-
-**问：Can Aquaculture Technicians migrate to Australia via skilled visa?**
-答：Yes, it is on the CSOL. Pathways include state-nominated 190/491 visas or employer-sponsored 482/186 visas, subject to skills assessment and English requirements.
-
-**问：What is the career outlook for this occupation?**
-答：Growing demand due to sustainable aquaculture expansion; career progression to farm supervisor, aquaculture scientist, or consultant.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

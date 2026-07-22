@@ -1,60 +1,95 @@
-# Social and humanities scientists（Social and humanities scientists）职业分析 · UK
+# Social and humanities scientists — career analysis · United Kingdom
 
-**职业代码：2115 – Social and humanities scientists。**
+**Occupation code: 2115 (SOC)**
 
-Social and humanities scientists study human behaviour, social structures, language origins, and cultural phenomena, covering sociology, economics, politics, archaeology, history, philosophy, literature, and the arts, conducting both qualitative and quantitative research.
+Social and humanities scientists study human behaviour, social structures, language origins, and cultural phenomena, covering fields such as sociology, economics, political science, archaeology, history, philosophy, and literary arts, conducting qualitative and quantitative research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（学士） | 3年 | $9,250~$24,000（英国/国际生学费差异大） |
-| 硕士（硕士） | 1年 | $12,000~$30,000（授课型硕士，部分提供奖学金） |
-| 博士（博士） | 3-4年 | $15,000~$35,000（研究型学位，常需自费或申请资助） |
+| Bachelor's degree | 3 years | $9,250~$24,000 (Tuition fees vary greatly between UK and international students) |
+| Master's (Master) | 1 year | $12,000~$30,000 (Taught master's degree, some offer scholarships) |
+| PhD (Doctor of Philosophy) | 3-4 years | $15,000~$35,000 (Research degree, often requires self-funding or applying for grants) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关学科硕士或博士学位 | 英国大学 | 必备 | 通常需至少硕士学历，博士学位对学术职位更有利 |
-| 社会科学研究方法认证 | 英国经济社会研究委员会（ESRC） | 可选 | 部分研究岗位要求 |
-| 英国学术语言能力证明（如雅思） | 英国文化协会 | 必备 | 国际学生需满足英语要求 |
+| Master's or Doctoral degree in a relevant discipline. | UK universities | Required | Typically requires at least a master's degree; a PhD is advantageous for academic positions. |
+| Proof of academic English proficiency (e.g., IELTS) | British Council | Required | International students must meet English language requirements |
+| Social science research methodology certification | UK Economic and Social Research Council (ESRC) | Optional | Required for some research positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。英国社会和人文科学家就业前景稳定，受政府和研究机构资助影响较大。学术岗位竞争激烈，但政策研究、市场调研、文化遗产等领域的非学术岗位需求增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. UK social and human scientists have stable employment prospects, heavily influenced by government and research institution funding. Academic positions are competitive, but non-academic roles in policy research, market research, cultural heritage, etc., are growing.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 研究助理或初级研究员 |
-| 中级（4-7年） | $35,000~$50,000 | 高级研究员或讲师 |
-| 高级（8年以上） | $50,000~$70,000 | 教授或资深政策顾问 |
+| Median salary | $39,899 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Research assistant or junior researcher |
+| Mid-level (4-7 years) | $35,000~$50,000 | Senior Researcher or Lecturer |
+| Senior (8+ years) | $50,000~$70,000 | Professor or senior policy advisor. |
+| average salary | $42,385 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展通常从研究助理或初级研究员开始，晋升至高级研究员、项目负责人或教授。也可转向政府、非营利组织或私营部门的政策分析、咨询等角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
+
+Career development typically starts as a research assistant or junior researcher, advancing to senior researcher, project leader, or professor. May also transition to policy analysis, consulting, or other roles in government, non-profits, or the private sector.
+
+**Tasks most exposed to AI:**
+
+- Automated case recording and report writing
+- Preliminary client information collection and filing
+- Resource database query and matching
+- Distribution and collation of standardized assessment questionnaires
+- Appointment scheduling and reminder notifications
+
+**Where AI augments the role:**
+
+- AI provides real-time translation to assist communication with non-native speaking clients
+- Predictive analytics helps identify high-risk cases.
+- Emotion recognition tools assist remote psychological counseling
+- Automatically generate multilingual service guides and promotional materials
+- Virtual reality simulation for training crisis intervention skills
+
+**Human moat:**
+
+- Building Trust and Empathic Communication Face-to-Face
+- Handling complex ethical dilemmas and value conflicts
+- Cross-system coordination and advocacy
+- Make comprehensive judgments in dynamic, unpredictable environments
+
+**Skills to build:**
+
+- AI-assisted clinical decision support tool operation
+- Basics of data analysis and statistical modeling
+- Digital mental health platform usage
+- Ethics and privacy protection (especially in AI application scenarios)
+- Cross-cultural communication and diverse service capabilities
+- Project management and multi-agency collaboration
+
+**Key growth areas:**
 
 - Social Research
 - Policy Analysis
@@ -63,68 +98,67 @@ Social and humanities scientists study human behaviour, social structures, langu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的社会科学家职位，需满足薪资门槛（通常£26,200/年）和技能要求。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在社会科学领域有杰出成就或潜力的研究人员，无需雇主担保，但需获得认可。 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在毕业后留英工作2年（博士3年），可积累经验后转为技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to employer-sponsored social scientist positions, meeting salary thresholds (typically £26,200/year) and skill requirements. |
+| Subclass Global Talent (Global Talent visa) | Applicable to researchers with outstanding achievements or potential in the social sciences, no employer sponsorship required, but must be recognised. |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work for 2 years (3 for PhD) after graduation, gaining experience before switching to a Skilled Worker visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social and humanities scientists？**
-- 热爱学术研究与社会问题分析
-- 具备较强写作与批判性思维能力
-- 愿意从事跨学科合作
-
-**谁不适合学Social and humanities scientists？**
-- 追求高薪或快速职业晋升
-- 不喜欢长时间独立工作与数据收集
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and social issue analysis
+- Strong writing and critical thinking skills
+- Willingness to Engage in Interdisciplinary Collaboration
+
+**Who is not suited**
+- Pursuing high salary or rapid career advancement
+- Dislikes long periods of independent work and data collection
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of social and humanities scientists?**
+A: Entry-level salary around £25,000-£35,000 per year, mid-level around £35,000-£50,000, senior can reach £70,000+. Academic positions pay relatively less, but policy research or consulting roles may be higher.
+
+**Q: Is it easy to get a UK work visa for this occupation?**
+A: Can apply through Skilled Worker visa, but requires employer sponsorship and meeting salary requirements (usually £26,200/year). Global Talent visa is suitable for researchers with outstanding achievements. Graduate visa provides a transition period.
+
+**Q: What are the career prospects for this occupation?**
+A: Academic fields are competitive, but non-academic fields such as government policy, market research, and cultural heritage management have growth opportunities. Data analysis skills can enhance employability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Social and humanities scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for social and humanities scientists?**
-答：Entry-level positions pay around £25,000-£35,000, mid-level £35,000-£50,000, and senior roles up to £70,000 or more. Academic roles are lower, but policy or consultancy roles may pay higher.
-
-**问：Is it easy to get a UK work visa for this occupation?**
-答：Skilled Worker visa is possible with employer sponsorship and meeting salary thresholds (usually £26,200/year). Global Talent visa suits researchers with exceptional achievements. Graduate visa offers a transition period.
-
-**问：What are the career prospects for this occupation?**
-答：Academic roles are competitive, but non-academic fields like government policy, market research, and cultural heritage management are growing. Data analysis skills can enhance employability.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

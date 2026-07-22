@@ -1,60 +1,93 @@
-# Golfer（Golfer）职业分析 · 澳大利亚
+# Golfer — career analysis · Australia
 
-**职业代码：452412 – Golfer。**
+**Occupation code: 452412 (ANZSCO)**
 
-Professional golfers earn prize money and sponsorships by competing in tournaments, requiring elite skills, mental toughness, and event management.
+Professional golfers earn prize money and sponsorship income by participating in professional tournaments, requiring top-tier skills, mental toughness, and event management ability.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中及业余训练 | 12年 | —（自费业余比赛和教练费用） |
-| 职业资格认证 | 1-2年 | $10,000~$30,000（通过澳大利亚PGA职业认证考试） |
+| High school and amateur training | 12 years | $0~$50,000 (Self-funded amateur competitions and coaching fees) |
+| Professional certification | 1-2 years | $10,000~$30,000 (Passing the PGA professional certification exam in Australia) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 澳大利亚PGA职业会员资格 | 澳大利亚职业高尔夫协会(PGA of Australia) | 必备 | 通过资格考试和实际比赛表现获得 |
-| 高尔夫球技等级认证 | Golf Australia | 可选 | 业余高手可获认证，非强制 |
+| Australian PGA Professional Membership | Professional Golfers Association of Australia (PGA of Australia) | Required | Obtained through qualification exams and actual competition performance. |
+| Golf skill level certification | Golf Australia | Optional | Certification available for high-level amateurs, not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 900。澳洲高尔夫产业稳定，职业球手竞争激烈，收入两极分化，顶尖选手收入极高，多数选手依赖教练或俱乐部职位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 900. Australia's golf industry is stable, with intense competition for professional golfers and polarized income; top players earn very high incomes, while most rely on coaching or club positions.
 
-**竞争度：极高（★★★★★）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: very high (★★★★★).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$50,000 | 主要来自小型比赛奖金和兼职教练 |
-| 中级（3-10年） | $50,000~$150,000 | 稳定参赛并获赞助，部分赛事奖金 |
-| 高级（10年以上） | $150,000~$1,000,000 | 顶级赛事奖金和大型赞助 |
+| Median salary | $100,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$50,000 | Mainly from small competition prizes and part-time coaching |
+| Intermediate (3-10 years) | $50,000~$150,000 | Stable participation in competitions with sponsorships, some event prizes. |
+| Senior (10+ years) | $150,000~$1,000,000 | Top-tier competition prizes and major sponsorship |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从业余赛晋级职业赛，通过积累奖金和排名提升赞助机会，部分转向教练、球场管理或体育商业等职业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on golfers is mixed: data analysis and personalised training tools enhance skill development, but automation may reduce coaching and officiating roles, with high income relying on human-machine collaboration.
+
+Advances from amateur to professional tournaments, accumulating prize money and rankings to improve sponsorship opportunities; some transition to careers such as coaching, golf course management, or sports business.
+
+**Tasks most exposed to AI:**
+
+- Real-time analysis and correction of swing motions (AI video analysis replaces part of human coach work)
+- Sports event data analysis and tactical suggestion generation (AI algorithms replace manual analysis)
+- Scenario-based training in golf simulators (AI simulates different course conditions)
+- Junior referee or rule consultant (AI-assisted judging system)
+
+**Where AI augments the role:**
+
+- Use AI ball-tracking system to optimize training plans.
+- Using AI to analyze opponent data for game strategy development
+- Conducts psychological and tactical training through VR/AR simulators.
+- Monitor physical status using AI-driven wearable devices
+
+**Human moat:**
+
+- Psychological regulation and on-the-spot decision-making in high-pressure competitions
+- Creative shot-making strategies and court adaptability
+- Relationships and brand partnerships with sponsors and fans
+- Handling unpredictable weather and field conditions during events
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Python)
+- Knowledge of sport science and biomechanics
+- Digital media and personal brand management
+- Operate VR/AR training equipment
+- Sponsorship negotiation and business management
+- Psychological resilience training methods
+
+**Key growth areas:**
 
 - Tournament earnings
 - Sponsorship
@@ -63,65 +96,67 @@ Professional golfers earn prize money and sponsorships by competing in tournamen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 408（Temporary Activity Visa） | 适合受邀参加特定赛事或短期培训的高尔夫球手 |
-| Subclass 482（Temporary Skill Shortage Visa） | 仅适用于被澳洲俱乐部或学院聘请为高尔夫教练，而非纯球手角色 |
+| Subclass 408 (Temporary Activity Visa) | Golfers eligible for invitations to specific tournaments or short-term training |
+| Subclass 482 (Temporary Skill Shortage Visa) | Only applies to golf coaches hired by Australian clubs or academies, not pure player roles. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Golfer？**
-- 具备顶尖高尔夫球技和赛事经验的运动员
-- 能承受高竞争压力和收入波动的人士
-- 擅长自我营销和寻找赞助的个体
+**Who is suited**
+- Athletes with top golf skills and event experience
+- People who can withstand high competitive pressure and income fluctuations
+- Individuals skilled in self-marketing and finding sponsors
 
-**谁不适合学Golfer？**
-- 追求稳定收入和明确职业路径的人
-- 缺乏资金支持或赞助渠道的初学者
+**Who is not suited**
+- Those seeking stable income and clear career paths
+- Beginners lacking financial support or sponsorship channels
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual income of a professional golfer?**
+A: Income varies greatly; most players earn less than AUD $50k per year, top players can reach over AUD $1 million. Main income from prize money, sponsorships, and coaching.
+
+**Q: Can a golfer migrate to Australia?**
+A: Extremely difficult. Professional golfers are not on the skilled migration occupation list; they can only enter via short-term visas (e.g., 408) for events, or switch to coaching and apply for a 482 visa with a chance to transition to PR.
+
+**Q: What is the career path for a professional golfer?**
+A: Start from amateur tournaments, pass vocational qualification exams, compete in secondary tours to accumulate points, then progress to top tours (e.g., Australasian Tour, European Tour); may also work as a coach or run a golf business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★★） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Golfer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual income for a professional golfer?**
-答：Income varies widely; most earn under AUD 50,000, while top players can earn over AUD 1 million, primarily from prize money, sponsorships, and coaching.
-
-**问：Can professional golfers migrate to Australia?**
-答：Very difficult. Golfer is not on the skilled occupation list; possible via short-term visas (e.g., 408) for tournaments or as a coach under 482 visa leading to PR.
-
-**问：What is the career progression for a professional golfer?**
-答：Start in amateur tournaments, pass professional qualification, compete on minor tours for points, advance to major tours (e.g., Aus Tour, European Tour), and also coach or run golf businesses.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

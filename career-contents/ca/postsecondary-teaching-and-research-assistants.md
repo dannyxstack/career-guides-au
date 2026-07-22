@@ -1,59 +1,95 @@
-# Post-secondary teaching and research assistants（Post-secondary teaching and research assistants）职业分析 · 加拿大
+# Post-secondary teaching and research assistants — career analysis · Canada
 
-**职业代码：41201 – Post-secondary teaching and research assistants。**
+**Occupation code: 41201 (NOC)**
 
-Post-secondary teaching and research assistants support professors and researchers in teaching, grading, lab preparation, literature searches, and data analysis, often held by graduate students.
+Under the guidance of university professors or researchers, assist with teaching, grading, lab preparation, literature search, and data analysis; common in graduate assistant roles
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 硕士 | 2年 | $20,000~$60,000（国际学生学费，含生活费约每年3-5万加元） |
-| 博士 | 4-6年 | $20,000~$70,000（多数博士有全额奖学金覆盖学费和生活费） |
+| Master's degree | 2 years | $20,000~$60,000 (International student tuition, including living expenses, about CAD 30,000-50,000 per year) |
+| Doctorate | 4-6 years | $20,000~$70,000 (Most PhDs are covered by full scholarships covering tuition and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 研究生在读或毕业 | 大学 | 必备 | 必须已注册或完成硕士/博士项目 |
-| 相关学科背景 | 大学 | 必备 | 取决于所协助的课程或研究领域 |
-| 教学技能培训 | 大学教学中心 | 可选 | 部分大学要求完成助教培训课程 |
+| Currently enrolled in or graduated from postgraduate studies | University | Required | Must be registered or have completed a master's/doctoral program |
+| Related academic background | University | Required | Depends on the course or research area being assisted |
+| Teaching skills training | University teaching center | Optional | Some universities require completion of assistant teacher training courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。加拿大高等教育持续扩招，研究生数量增加推动该职位需求稳定增长。大学预算紧张可能限制全职岗位，但兼职和助学金岗位充足。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Canada's higher education continues to expand, with increasing graduate numbers driving steady demand for this role. University budget constraints may limit full-time positions, but part-time and assistantship roles are plentiful.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 按学期或小时计酬，兼职居多 |
-| 中级（3-6年） | $35,000~$55,000 | 博士阶段助理或资深助教 |
-| 高级（6年以上） | $45,000~$65,000 | 博士后或高级研究助理（全职） |
+| Median salary | $56,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$40,000 | Paid per semester or per hour, mostly part-time |
+| Mid-level (3–6 years) | $35,000~$55,000 | PhD-level assistant or senior teaching assistant |
+| Senior (6+ years) | $45,000~$65,000 | Postdoctoral or senior research assistant (full-time) |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常为临时或兼职职位，积累经验后可晋升为讲师、教授或转入企业研发部门。部分助理通过发表论文和教学评估获得永久教职。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will compress basic teaching and research assistant roles (e.g. literature search, data collation), but amplify their higher-level analysis, instructional design, and personalised tutoring capabilities. Need to shift to deeper research support and teaching innovation roles.
+
+Usually temporary or part-time positions; after gaining experience, can advance to lecturer, professor, or corporate R&D roles. Some assistants secure tenure through publications and teaching evaluations.
+
+**Tasks most exposed to AI:**
+
+- Basic literature retrieval and review summary: AI can quickly scan large volumes of literature and generate summaries.
+- Data cleaning and basic statistical analysis: automated tools can independently perform data preprocessing.
+- Standardised scoring and feedback generation: AI can grade assignments based on preset criteria and generate comments.
+- Experimental data recording and simple processing: automatic sensors and AI analysis replace manual recording.
+- Course material layout and distribution: AI can automatically generate formatted teaching materials and manage distribution.
+
+**Where AI augments the role:**
+
+- Personalized learning path design: AI analyzes student data, assistants can customize tutoring plans accordingly.
+- Advanced statistical analysis modeling: AI-assisted complex model building and result interpretation, assistant focuses on research design.
+- Multimedia teaching resource creation: using AI to generate interactive content such as animations and simulations to enhance teaching.
+- Cross-disciplinary literature integration: AI identifies field connections, assisting in knowledge synthesis and innovation discovery.
+- Real-time classroom interaction support: AI tool captures student responses, assistant adjusts teaching strategies in real time.
+
+**Human moat:**
+
+- Original scientific research hypothesis formulation and experimental design.
+- Deep communication and trust building between teachers/researchers.
+- Ethical judgment and academic integrity supervision.
+- Creative thinking and critical analysis in solving complex problems.
+- Ability to adapt flexibly through face-to-face teaching and immediate feedback adjustment.
+
+**Skills to build:**
+
+- AI-assisted research tools (e.g., literature management, automated data analysis platforms).
+- Basic programming and data science (Python, R, SQL).
+- Instructional design and learning analytics (using AI personalized learning systems).
+- Academic writing and project proposals (AI-assisted but requiring human coordination).
+- Cross-disciplinary collaboration and knowledge integration skills.
+- Critical thinking and complex problem-solving strategies.
+
+**Key growth areas:**
 
 - Education
 - Research
@@ -62,67 +98,66 @@ Post-secondary teaching and research assistants support professors and researche
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 大学需证明无法招到本地人，为外籍助理申请工签 |
-| Subclass PGWP（Post-Graduation Work Permit） | 留学生毕业后可获1-3年工签，从事助教等工作 |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 累积1年全职工作经验后可通过快速通道移民 |
+| Subclass LMIA (Labour Market Impact Assessment) | Universities must prove they cannot hire locally to apply for work visas for foreign assistants |
+| Subclass PGWP (Post-Graduation Work Permit) | International graduates can obtain a 1-3 year work visa to work as teaching assistants etc. |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | After accumulating 1 year of full-time work experience, you can apply for immigration through Express Entry |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Post-secondary teaching and research assistants？**
-- 正在攻读研究生并希望积累教学经验的学生
-- 有志于学术职业、愿意从基础助教做起的人
-
-**谁不适合学Post-secondary teaching and research assistants？**
-- 追求高薪和快速晋升的人
-- 不喜欢重复性教学辅助或实验室工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Students currently pursuing graduate studies and wishing to gain teaching experience.
+- People aspiring to an academic career and willing to start as a teaching assistant
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive teaching support or lab work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for assistant teachers in Canada?**
+A: Hourly wage approx. $15-$30 CAD; annual salary typically between $25,000 and $65,000 CAD, depending on hours worked and education.
+
+**Q: Is immigrating to Canada through a teaching assistant job feasible?**
+A: Possible, but requires obtaining a work visa (e.g., PGWP or LMIA) and gaining 1 year of Canadian experience before applying for Express Entry or Provincial Nominee Program.
+
+**Q: What can you do after being a teaching assistant?**
+A: Can advance to lecturer or professor, or transition to corporate R&D, data analysis, education management, and other fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Post-secondary teaching and research assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for teaching/research assistants in Canada?**
-答：Hourly wage ranges from CAD 15 to 30, annual salary typically between CAD 25,000 and 65,000 depending on hours and degree level.
-
-**问：Is it possible to immigrate to Canada as a teaching/research assistant?**
-答：Yes, obtain a work permit (e.g., PGWP or LMIA), gain 1 year of Canadian experience, then apply via Express Entry or PNP.
-
-**问：What career paths are available after being a teaching/research assistant?**
-答：Can become a lecturer, professor, or move into corporate R&D, data analysis, or education management.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

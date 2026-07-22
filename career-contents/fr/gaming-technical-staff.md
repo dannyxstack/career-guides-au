@@ -1,60 +1,96 @@
-# Gaming Technical Staff（Gaming Technical Staff）职业分析 · FR
+# Gaming Technical Staff — career analysis · France
 
-**职业代码：G1206 – Gaming Technical Staff。**
+**Occupation code: G1206 (ROME)**
 
-Responsible for installing, maintaining, repairing, and providing technical support for electronic gaming machines and slot machines in casinos and gaming establishments, ensuring operation and safety compliance.
+Responsible for the installation, maintenance, repair, and technical support of electronic game machines, slot machines, and other equipment within casinos or gambling venues to ensure normal operation and compliance with safety standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP电子维修 | 2年（CAP） | —（公立学校免费，私立约3000欧元/年） |
-| BTS电子技术 | 2年（BTS） | —（公立免费，私立约5000欧元/年，可学徒制） |
-| Licence专业电子 | 3年（Licence） | —（公立大学约180欧元注册费，私立约10000欧元/年） |
+| CAP electronic repair | 2 years (CAP) | $0~$3,000 (Public schools are free, private ones about 3,000 euros per year) |
+| BTS Electronics Technology | 2 Years (BTS) | $0~$5,000 (Public schools are free, private ones pay about 5,000 euros per year, and apprenticeships are available) |
+| Licence specializes in electronics | 3 years (Licence) | $0~$10,000 (The registration fee for public universities is about 180 euros, while private universities are about 10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP电子游戏技术员 | 法国博彩业协会 | 可选 | 行业认证，非强制但有利于就业 |
-| 赌场从业资格证 | 法国内政部 | 必备 | 在赌场工作必须持有，需无犯罪记录 |
-| 电子维修技师认证 | 法国教育部 | 可选 | CAP或BTS文凭即可，无需额外认证 |
+| Casino Practitioner Qualification Certificate | French Ministry of the Interior | Required | Working in casinos requires possession and no criminal record |
+| CQP Video Game Technician | French Gambling Industry Association | Optional | Industry certification, non-mandatory but beneficial for employment |
+| Electronic repair technician certification | French Ministry of Education | Optional | CAP or BTS diplomas are sufficient; no additional certification is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。法国赌场和博彩业稳定，但受经济波动和在线博彩影响，工作岗位增长平缓。技术更新快，需持续学习新机型。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. France's casino and gambling industry is stable, but job growth has been slow due to economic fluctuations and online gambling. Technology updates quickly, requiring continuous learning of new models.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常包含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，取决于技术水平和赌场规模 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含技术主管岗位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, usually including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary depends on skill level and casino size |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including technical supervisor positions |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为技术主管、维护经理，或转向博彩设备供应商的技术支持、销售工程师。也可通过考取更高级电子维修证书拓展职业空间。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gambling game technicians face the risk of digital automation being replaced by remote monitoring and self-healing technologies, reducing manual intervention and shrinking job demands.
+
+You can be promoted to Technical Supervisor, Maintenance Manager, or transition to Technical Support or Sales Engineer at gaming equipment suppliers. You can also expand your career opportunities by obtaining higher-level electronic maintenance certificates.
+
+**Tasks most exposed to AI:**
+
+- Remote diagnosis and reset of slot machine malfunctions
+- Regular software updates and patch deployment for consoles
+- Automatic monitoring and alarm of equipment operation data
+- Simple hot-swappable replacement of hardware modules
+- Standardized handling of player reported issues
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance to reduce downtime
+- Complex faults can be quickly located with AR assistance
+- Optimize gaming equipment layout based on data analysis
+- Automatically generate inspection reports and compliance documents
+- Leveraging digital twin analog device performance
+
+**Human moat:**
+
+- Regulatory responsibilities for the safety of cash and gambling funds
+- Complex debugging capabilities for cross-system integration
+- Compliance judgments communicated with regulators
+- Emergency on-site handling of non-standard machinery faults
+- Protecting player privacy and preventing cheating
+
+**Skills to build:**
+
+- Operation of IoT and remote monitoring systems
+- AI Fundamentals and Data Analysis Tools (Python, SQL)
+- Cybersecurity Fundamentals (Tamper-Resistant)
+- Augmented reality (AR) assists repair skills
+- Building no-code/low-code automated workflows
+- Compliance audits and reporting automation
+
+**Key growth areas:**
 
 - Casino technology
 - Slot machine maintenance
@@ -63,68 +99,67 @@ Responsible for installing, maintaining, repairing, and providing technical supp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 由雇主担保的工作居留，需公司证明无法在欧盟找到合适人选。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能人才，年薪不低于法国平均毛工资两倍（约5.4万欧元），但该职业薪资通常不达标。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪至少53,836.50欧元（2024年），本职业难以达到。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer-sponsored work residence, requiring company to prove inability to find suitable candidate in the EU. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled talent, annual salary not less than twice the French average gross salary (approx. EUR 54,000), but this occupation's salary usually does not meet that threshold. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary of at least 53,836.50 euros (2024), which is difficult for this profession. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gaming Technical Staff？**
-- 喜欢动手维修电子设备的人
-- 对博彩行业感兴趣且适应轮班工作
-- 有电子技术背景并希望快速就业
-
-**谁不适合学Gaming Technical Staff？**
-- 不愿在赌场环境工作的人
-- 对电子维修无兴趣或耐心不足
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys repairing electronic devices
+- Interested in the gambling industry and adapted to shift work
+- Having a background in electronics technology and hoping for a quick employment
+
+**Who is not suited**
+- People unwilling to work in a casino environment
+- No interest or lack of patience for electronic repairs
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for game tech staff?**
+A: Pre-tax annual salary approx. €22k–€45k; entry-level approx. €25k, senior can reach over €40k. Bonuses and overtime pay extra.
+
+**Q: What pathway can foreigners immigrate to France to work in this profession?**
+A: Usually, work residence through Salarié requires employer sponsorship. EU Blue Card or Talent Passport is difficult to apply due to high salary thresholds.
+
+**Q: What qualifications are required to work in French casinos?**
+A: Must hold a casino operator qualification certificate issued by the Ministry of the Interior and have no criminal record. A CAP or BTS diploma in electronic repair is a common academic requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Gaming Technical Staff的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for gaming technical staff?**
-答：Gross annual salary ranges from €22,000 to €45,000, with entry-level around €25,000 and senior positions exceeding €40,000. Bonuses and overtime extra.
-
-**问：What migration paths are available for foreigners to work in this occupation in France?**
-答：Typically via Salarié work permit with employer sponsorship. EU Blue Card or Talent Passport are less feasible due to salary thresholds.
-
-**问：What qualifications are needed to work in a French casino?**
-答：Must hold a casino work permit from the Ministry of Interior with no criminal record. A CAP or BTS in electronics is common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

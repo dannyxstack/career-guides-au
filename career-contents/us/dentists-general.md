@@ -1,60 +1,96 @@
-# Dentists, General（Dentists, General）职业分析 · 美国
+# Dentists, General — career analysis · United States
 
-**职业代码：29-1021 – Dentists, General。**
+**Occupation code: 29-1021 (SOC)**
 
-Dentists examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums, and may perform procedures on nerve, pulp, and other oral tissues, as well as fit dental appliances or provide preventive care.
+Dentists examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums, may handle nerve, pulp, and other oral tissues, and install dental appliances or provide preventive care.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（预牙科） | 4年 | $80,000~$120,000（通常为生物学或化学专业，学费因学校而异） |
-| 牙科博士（DDS/DMD） | 4年 | $200,000~$400,000（包括学费及生活费，公立与私立差异大） |
+| Undergraduate (Pre-Dental) | 4 years | $80,000~$120,000 (Typically a biology or chemistry major; tuition varies by school) |
+| Doctor of Dental Surgery (DDS/DMD) | 4 years | $200,000~$400,000 (Includes tuition and living expenses; significant differences between public and private institutions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科博士（DDS或DMD） | 美国牙科协会（ADA）认证的牙科学校 | 必备 | 必需学位，学习基础及临床牙科知识 |
-| 国家牙科委员会考试（NBDE） | 美国牙科联合委员会（JCNDE） | 必备 | 分两部分，通过后方可申请执照 |
-| 州牙科执照 | 各州牙科委员会 | 必备 | 通常包括笔试和临床操作考试 |
-| CPR/BLS认证 | 美国心脏协会等 | 必备 | 多数州要求持有有效的心肺复苏认证 |
+| Doctor of Dental Surgery (DDS or DMD) | Dental schools accredited by the American Dental Association (ADA) | Required | Required degree: learn basic and clinical dental knowledge |
+| National Board Dental Examination (NBDE) | Joint Commission on National Dental Examinations (JCNDE) | Required | Divided into two parts, and a license can be applied for after passing |
+| State dental license | State dental boards | Required | Typically includes written exam and clinical skills exam |
+| CPR/BLS certification | American Heart Association, etc. | Required | Most states require a valid CPR certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 146,100。美国牙医就业预计增长约8%，与平均水平相当。人口老龄化和口腔健康关注提升驱动需求，但竞争激烈。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 146,100. US dentist employment is projected to grow about 8%, about average. Driven by aging population and increased oral health awareness, but competition is intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $120,000~$160,000 | 受雇于诊所或医院的新晋牙医 |
-| 中级（4-9年） | $160,000~$220,000 | 有经验牙医或诊所合伙人 |
-| 高级（10年以上） | $200,000~$300,000 | 资深牙医、专科牙医或诊所拥有者 |
+| Median salary | $170,950 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $120,000~$160,000 | Newly graduated dentist employed at a clinic or hospital |
+| Intermediate (4-9 years) | $160,000~$220,000 | Experienced dentist or clinic partner |
+| Senior (10+ years) | $200,000~$300,000 | Senior dentists, specialist dentists, or clinic owners |
+| average salary | $191,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 牙医可晋升为合伙人或开设私人诊所，也可专攻正畸、口腔外科等亚专业。部分牙医进入学术界或公共卫生领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Dentists can advance to partners or open private practices, or specialize in subfields like orthodontics and oral surgery. Some enter academia or public health.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - aging population
 - increased awareness of oral health
@@ -63,69 +99,68 @@ Dentists examine, diagnose, and treat diseases, injuries, and malformations of t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于受雇于医疗机构或私人诊所的牙医，需有学士学位以上学历。年度配额限制，需抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于拥有高级学位（如DDS/DMD）或杰出能力的牙医，通常需通过PERM劳工认证。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于拥有学士学位的牙医，需雇主担保及PERM认证。排期较长。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在牙科领域有杰出成就的牙医（如研究、发表、奖项），无需劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applies to dentists employed by medical institutions or private clinics, requires bachelor's degree or higher. Annual quota limit, requires lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable to dentists with advanced degrees (e.g., DDS/DMD) or exceptional ability; usually requires PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to dentists with a bachelor's degree, requires employer sponsorship and PERM certification. Long waiting periods. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For dentists with outstanding achievements in dentistry (e.g., research, publications, awards), labour certification not required. |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentists, General？**
-- 细心且具有良好动手能力的人
-- 对口腔健康有热情并愿意持续学习的人
-- 能承受长时间站立和精细操作压力的人
-
-**谁不适合学Dentists, General？**
-- 不习惯长时间精细手工操作的人
-- 对血液和口腔异味敏感的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented people with good manual dexterity
+- People passionate about oral health and willing to continuously learn
+- People who can withstand long hours of standing and fine operation pressure
+
+**Who is not suited**
+- People not accustomed to long, precise manual work
+- People sensitive to blood and oral odors.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a US dentist?**
+A: According to BLS data, the median annual salary for general dentists in the US in 2023 was about $166,000, but the range varies from around $120,000 to over $210,000, depending on experience, location, and practice type.
+
+**Q: How can a foreign dentist immigrate to the US through a work visa?**
+A: Common pathways include H-1B visa (requires employer sponsorship, lottery system) and EB-2/EB-3 employment-based green cards (require PERM labor certification). Foreign dentists must first pass U.S. dental certification (e.g., NBDE and state license). Additionally, O-1 visa is for individuals with extraordinary ability.
+
+**Q: Is the US dentist occupation in shortage?**
+A: Although overall employment growth is about 8%, comparable to the average, shortages still exist in rural and remote areas. Urban areas are competitive, while federally designated Health Professional Shortage Areas (HPSA) have higher demand for dentists.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Dentists, General的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a general dentist in the US?**
-答：According to BLS data, the median annual wage for general dentists in the US in 2023 was approximately $166,000, with a range from about $120,000 to over $210,000 depending on experience, location, and practice type.
-
-**问：How can foreign dentists immigrate to the US via work visa?**
-答：Common paths include H-1B visa (employer-sponsored, lottery-based) and EB-2/EB-3 employment-based green cards (requiring PERM labor certification). Foreign dentists must first pass US dental certification (e.g., NBDE and state license). O-1 visa is available for individuals with extraordinary ability.
-
-**问：Is dentistry a shortage occupation in the US?**
-答：While overall employment growth is about 8% on par with average, shortages exist in rural and underserved areas. Urban areas are competitive, but demand is higher in federally designated Health Professional Shortage Areas (HPSAs).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

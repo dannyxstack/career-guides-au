@@ -1,68 +1,98 @@
-# 瓦工（Bricklayer）职业分析 · 澳大利亚
+# Bricklayer — career analysis · Australia
 
-**职业代码：331111 – Bricklayer。**
+**Occupation code: 331111 (ANZSCO)**
 
-瓦工（砖工/砌砖工）负责砌筑砖块、混凝土砌块、石材和瓷砖，用于住宅、商业建筑的墙体、地基和装饰结构。澳大利亚住宅建设热潮驱动持续旺盛的需求，瓦工长期列入技术短缺清单。
+Bricklayers are responsible for laying bricks, concrete blocks, stone, and tiles for walls, foundations, and decorative structures in residential and commercial construction. Australia's housing construction boom drives consistently strong demand, with bricklayers regularly listed on skills shortage lists.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 CPC33020 Certificate III in Bricklaying/Blocklaying） | 42~48个月 | —（各州补贴，WA 上限 $1,200，NSW 大部分免费） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含TRA评估费及实习期费用） |
+| Apprenticeship (including CPC33020 Certificate III in Bricklaying/Blocklaying) | 42–48 months | $0~$1,200 (State subsidies available; WA capped at $1,200, NSW mostly free) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees and internship costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Bricklaying/Blocklaying (CPC33020) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| White Card (CPCCWHS1001) | 认可RTO | 必备 | 建筑工地安全强制持卡 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Bricklaying/Blocklaying (CPC33020) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| White Card (CPCCWHS1001) | Approved RTO | Required | White card mandatory on construction sites |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 35,000。JSA 预测建筑类技工至2035年新增约195,800个岗位（+9.8%）。住宅建设扩张是瓦工需求的核心驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. JSA projects approximately 195,800 new construction trades jobs by 2035 (+9.8%). Residential construction expansion is the core driver of bricklayer demand.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,200 个 | 全国，含住宅和商业砌砖岗 |
-| Indeed | 400~800 个 | 含学徒岗 |
-| LinkedIn | 150~400 个 | 偏工程管理岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：很高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $21,000~$28,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $28,000~$46,000 | 约 $23~$30/hr |
-| 初级瓦工（持证后 1~3年） | $62,000~$78,000 | Indeed 25th percentile |
-| 中级瓦工（3~8年） | $78,000~$95,000 | SEEK 区间 $80k~$90k；Indeed $31.36~$43.36/hr |
-| 资深瓦工 / 承包商（8年+） | $95,000~$120,000 | 含承包商利润和工地管理职责 |
-| 矿业 / 大型基建 FIFO | $110,000~$150,000 | 轮班津贴 + FIFO 补贴 |
+| Median salary | $120,484 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $21,000~$28,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $28,000~$46,000 | Approx. $23–$30/hr |
+| Junior bricklayer (1–3 years post-qualification) | $62,000~$78,000 | Indeed 25th percentile |
+| Mid-level bricklayer (3–8 years) | $78,000~$95,000 | SEEK range $80k–$90k; Indeed $31.36–$43.36/hr |
+| Senior tiler / contractor (8+ years) | $95,000~$120,000 | Includes contractor margin and site management responsibilities |
+| Mining / large-scale infrastructure FIFO | $110,000~$150,000 | Shift allowance + FIFO allowance |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较佳（★★★★☆）。** 澳洲住宅短缺问题使建筑活动持续高位，瓦工供需缺口扩大。AI替代风险极低，砌砖和石工均高度依赖人工技能。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bricklaying tasks are highly dependent on physical labor and site conditions, making them difficult for AI/automation to directly replace. However, prefabrication and robotic bricklaying technology are gradually reducing demand for entry-level positions, and future automation in construction will decrease low-skilled bricklaying jobs.
+
+Australia's ongoing housing shortage is keeping construction activity at elevated levels, widening the supply–demand gap for bricklayers. The risk of AI substitution is extremely low, as bricklaying and stonemasonry are both highly dependent on manual skill.
+
+**Tasks most exposed to AI:**
+
+- Repetitive brick positioning and alignment (automated bricklaying robots can be programmed)
+- Mortar Mixing and Application (prefabricated parts and mechanical spraying reduce labor)
+- Basic wall elevation and verticality checks (laser measurement and AI vision replace manual measurement)
+- Material handling and stacking (autonomous mobile robots can transport bricks)
+- Laying of simple decorative patterns (replaced by CNC cutting and prefabricated pattern boards)
+
+**Where AI augments the role:**
+
+- Using AR glasses or tablets to view 3D models and construction drawings in real time
+- Using AI vision analysis tools for masonry quality inspection and correction suggestions
+- On-site layout and positioning using BIM software and laser scanners
+- Using inventory management apps to automatically track brick and mortar consumption
+- Use digital platforms to coordinate multi-trade construction sequences and schedules
+
+**Human moat:**
+
+- Handcrafted aesthetics and customization of complex curved walls, arches, and other fine masonry
+- Flexible judgment and adjustment under changing field conditions (e.g., bad weather, irregular foundations)
+- Ability to communicate directly with clients and designers to determine aesthetic and functional requirements
+- Multi-material (brick, stone, tile) comprehensive construction experience
+- Leadership responsibility for safety production and team collaboration
+
+**Skills to build:**
+
+- BIM modeling and on-site digital layout skills
+- Ability to operate automated bricklaying robots or auxiliary equipment
+- Using drones or laser scanning for construction site quality monitoring
+- Green building standards and energy-efficient masonry techniques
+- Project management and on-site coordination communication skills
+- Applying augmented reality (AR) for construction guidance
+
+**Key growth areas:**
 
 - Residential Construction
 - Commercial & Industrial Buildings
@@ -72,91 +102,86 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学瓦工？**
-- 有建筑/砌砖/泥瓦背景，希望技能移民来澳
-- 接受重体力劳动，不抵触户外施工和粉尘环境
-- 目标是积累经验后自建建筑承包公司
-- 年龄25~38岁，有体力优势完成学徒期或TRA评估
-
-**谁不适合学瓦工？**
-- 有背部或膝盖健康问题，不适合长期重体力砌砖
-- 期望高薪快速入职（瓦工起薪低于电工和水管工）
-- 完全无建筑或砌砖基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in construction/bricklaying/masonry, looking to migrate to Australia through a skills visa
+- Comfortable with heavy physical labour and outdoor construction and dusty environments
+- Goal is to build experience and then establish an independent building contracting company
+- Aged 25–38, with the physical capacity to complete an apprenticeship or TRA assessment
+
+**Who is not suited**
+- Back or knee health issues making prolonged heavy bricklaying unsuitable
+- Expecting high pay and fast placement (bricklayers' starting wages are lower than electricians' and plumbers')
+- Completely no construction or bricklaying background
+
+---
+
+## 8. FAQ
+
+**Q: How much do bricklayers earn in Australia?**
+A: Intermediate bricklayer annual salary around $78,000~$95,000, SEEK range $80k~$90k (2026). Contractors can reach $95k~$120k, apprentices about $21k~$46k.
+
+**Q: Is it easy to find work as a bricklayer in Australia?**
+A: Relatively easy. Listed on MLTSSL, with 600–1,200 active Seek listings driven by residential construction demand; licensed workers can typically secure roles quickly.
+
+**Q: Is bricklaying experience from overseas recognised in Australia?**
+A: Not directly recognised; assessment through the TRA Job Ready Program is required, with a process of approximately 12–18 months.
+
+**Q: Will bricklayers be replaced by robots?**
+A: Risk is very low in the short term. Automated bricklaying robots (e.g. SAM100) have been trialled on some sites, but costs are high and applications are limited; human bricklayers will remain the primary workforce before 2030.
+
+**Q: Is there an age limit for tilers in Australia?**
+A: No formal upper age limit, but the physically demanding nature of the work makes it better suited to those under 35. Those over 35 can pursue the TRA mutual recognition pathway, with career progression toward foreperson or quality inspection roles.
+
+**Q: Do bricklayers in Australia need a university degree?**
+A: No requirement. Completing a Certificate III (CPC33020) is sufficient to practise; school leavers can apply directly for an apprenticeship.
+
+**Q: Is bricklaying hard to learn in Australia?**
+A: Moderate difficulty. Basic bricklaying is relatively easy to pick up; stonework and decorative masonry require more training. Those with a construction background will adapt more quickly.
+
+**Q: Which is better for migrating to Australia — bricklaying or carpentry?**
+A: Both are on the MLTSSL. Carpentry has higher employment volume and slightly higher wages; bricklaying is more physically demanding but equally competitive, with the same PR pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 331111 职业档案与短缺清单 |
-| SEEK AU | 瓦工薪资区间 $80k~$90k（2026） |
-| Indeed AU | 瓦工薪资 $22.52~$43.36/hr（2026） |
-| TRA | 海外瓦工技能评估 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★★） |
-| 发展前景 | 较佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-瓦工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲瓦工工资多少？**
-答：中级瓦工年薪约 $78,000~$95,000，SEEK 区间 $80k~$90k（2026）。承包商可达 $95k~$120k，学徒约 $21k~$46k。
-
-**问：澳洲瓦工容易找工作吗？**
-答：较容易。MLTSSL在列，住宅建设热潮驱动Seek挂牌 600~1,200 个职位，持证后通常可快速入职。
-
-**问：中国砌砖经验澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。
-
-**问：瓦工会被机器人替代吗？**
-答：短期内风险极低。自动砌砖机器人（如 SAM100）已在部分工地测试，但成本高、适用范围窄，2030前人工瓦工仍是主力。
-
-**问：澳洲瓦工有年龄限制吗？**
-答：无法律上限，但重体力性质建议35岁以下从事。35岁以上可走TRA互认路径，偏向工头或质检岗位发展。
-
-**问：澳洲瓦工需要大学学历吗？**
-答：不需要。完成 Certificate III（CPC33020）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲瓦工难学吗？**
-答：难度中等。基础砌砖上手较快，石工和装饰砌筑需要更多训练，有国内建筑基础者适应较快。
-
-**问：瓦工和木工哪个更适合移民澳洲？**
-答：两者均在MLTSSL。木工就业量更大，薪资略高；瓦工体力要求更高，但竞争度相当，PR路径相同。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

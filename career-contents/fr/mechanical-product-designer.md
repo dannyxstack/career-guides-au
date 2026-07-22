@@ -1,58 +1,94 @@
-# Mechanical Product Designer（Mechanical Product Designer）职业分析 · FR
+# Mechanical Product Designer — career analysis · France
 
-**职业代码：H1203 – Mechanical Product Designer。**
+**Occupation code: H1203 (ROME)**
 
-Designs mechanical parts and products using CAD software, defines technical specifications, optimizes structural performance, and collaborates with manufacturing teams for feasibility analysis.
+Use CAD software to design mechanical parts and products, develop technical specifications, optimize structural performance, and collaborate with the manufacturing team for feasibility analysis.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2（BTS/DUT） | 2年 | —（公立学校学费低，可申请学徒制） |
-| BAC+5（工程师文凭） | 5年 | —（公立工程师学院学费约0-600€/年，私立可达8000€/年） |
+| BAC+2（BTS/DUT） | 2 years | $0~$1,000 (Public schools have low tuition fees and can apply for apprenticeships) |
+| BAC+5 (Diploma in Engineering) | 5 years | $0~$10,000 (Public engineering college tuition is about €0-600/year, private up to €8,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械产品设计工程师文凭（Diplôme d'ingénieur en conception mécanique） | CTI认证工程师学院 | 可选 | 受规管资格，部分企业要求 |
-| CAD软件认证（如SolidWorks CSWP） | Dassault Systèmes | 可选 | 非强制，但提升竞争力 |
+| Diploma in Mechanical Product Design Engineer (Diplôme d'ingénieur en conception mécanique) | CTI Certified Engineer Academy | Optional | Regulated qualifications, required by some enterprises |
+| CAD software certification (such as SolidWorks CSWP) | Dassault Systèmes | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。机械产品设计师在法国就业前景良好，工业制造、汽车、航空及机器人领域需求稳定。受益于工业4.0和能源转型，预计未来几年职位增长约8%。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Mechanical product designers have a promising employment outlook in France, with stable demand in industrial manufacturing, automotive, aerospace, and robotics sectors. Benefiting from Industry 4.0 and the energy transition, job growth of about 8% is expected in the coming years.
 
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $48,000~$65,000 | 税前年薪 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $48,000~$65,000 | Annual pre-tax salary |
+| average salary | $32,256 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从设计师可晋升为设计项目经理或产品开发主管，也可向仿真分析或产品工程专家发展。资深设计师可成为技术总监或独立顾问。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+You can advance from designer to design project manager or product development supervisor, or develop into a simulation analysis or product engineering expert. Senior designers can serve as technical directors or independent consultants.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - CAD Design
 - Industrial 4.0
@@ -61,68 +97,67 @@ Designs mechanical parts and products using CAD software, defines technical spec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如工程师，有效期4年，可带家属，需有法国雇主offer且年薪≥36,500€（2025标准）。 |
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，工作许可与雇主绑定，续签后可换雇主。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，适用于高技能人才，要求年薪≥56,683€（2025标准），有效期4年，可在欧盟内流动。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents such as engineers, valid for 4 years, allowing family members, requiring an offer from a French employer and an annual salary ≥ €36,500 (2025 standard). |
+| Subclass Salarié (Employee Work Permit) | Employment-based residence, requires employer sponsorship, work permit tied to employer, can change employer after renewal. |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to highly skilled talent, requires an annual salary ≥of €56,683 (2025 standard), is valid for 4 years, and allows mobility within the EU. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Product Designer？**
-- 具有机械工程或相关学历，擅长3D建模和制图
-- 注重细节，有良好空间想象力
-- 希望在工业领域发展的技术型人才
-
-**谁不适合学Mechanical Product Designer？**
-- 不喜欢重复性制图工作
-- 缺乏工程力学基础者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess a degree in mechanical engineering or related fields, and be skilled in 3D modeling and drafting
+- Attention to detail, good spatial imagination
+- Technical talents who wish to develop in the industrial sector
+
+**Who is not suited**
+- Dislikes repetitive drafting work
+- Those lacking a foundation in engineering mechanics
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for mechanical product designers in France?**
+A: Junior salaries are about 32k-38k euros, intermediate salaries 38k-48k, and seniors up to 65k euros. Salaries vary by industry (automotive/aviation is higher) and region (Paris is higher).
+
+**Q: How can foreigners obtain a French mechanical product designer work visa?**
+A: Applications can be made through Passeport Talent (annual salary ≥€36,500) or the EU Blue Card (annual salary ≥€56,683). An offer from a French employer is required; Engineer Qualification Certificate (RNE) can be a bonus.
+
+**Q: What is the career progression path for this occupation?**
+A: You can be promoted to design project manager, product development lead, or transition to simulation analysis or R&D specialist. Senior professionals become technical directors or independent consultants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Product Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical product designers in France?**
-答：Entry-level: €32k-38k, mid-level: €38k-48k, senior: up to €65k. Salaries vary by industry (aerospace/automotive higher) and region (Paris higher).
-
-**问：How can foreigners obtain a work visa for mechanical product designer in France?**
-答：Options: Talent Passport (salary ≥€36,500) or EU Blue Card (≥€56,683). Requires a job offer from a French employer; recognition of engineering degree (RNE) is beneficial.
-
-**问：What is the career progression?**
-答：Progression to design project manager, product development lead, or specialized roles in simulation and R&D. Senior roles include technical director or independent consultant.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

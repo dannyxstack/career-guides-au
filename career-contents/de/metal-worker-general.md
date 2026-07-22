@@ -1,59 +1,93 @@
-# Metal Worker (General)（Metal Worker (General)）职业分析 · DE
+# Metal Worker (General) — career analysis · Germany
 
-**职业代码：2420 – Metal Worker (General)。**
+**Occupation code: 2420 (KldB)**
 
-Performs metal cutting, shaping, welding, and assembly using hand tools or machinery, producing metal components for manufacturing, construction, and repair.
+Engaged in metal cutting, forming, welding, and assembly work, using hand tools or machinery to process metal parts, applied in manufacturing, construction, and maintenance industries
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3.5年 | —（培训期间有津贴，通常无需学费） |
-| 职业专科学校 | 2年 | $1,000~$5,000（部分州收取学费，可申请资助） |
+| Dual system training | 3.5 years | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Vocational school | 2 years | $1,000~$5,000 (Some states charge tuition fees, financial aid available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属加工技术员证书 | IHK（工商会） | 必备 | 通过双元制结业考试获得 |
-| 焊接证书 | DVS（德国焊接协会） | 可选 | 特定岗位需持有，如氩弧焊 |
-| 资质认证（国际） | 德国联邦劳动局 | 必备 | 非欧盟学历需通过Anerkennung程序 |
+| Metal processing technician certificate | IHK (Chamber of Commerce and Industry) | Required | obtained through passing the dual system final exam |
+| Qualification certification (international) | German Federal Employment Agency | Required | Non-EU qualifications require Anerkennung procedure |
+| Welding certificate | DVS (German Welding Society) | Optional | Required for specific positions, e.g., TIG welding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 200,000。德国制造业和建筑业持续需要金属加工工人，尤其是小型企业面临技术工人短缺。数字化和自动化虽改变部分工作内容，但手工技能仍受青睐。
+**Job demand: high (★★★★☆).** National workforce approx. 200,000. Germany's manufacturing and construction sectors continue to need metalworkers, especially small businesses facing skilled labor shortages. Digitization and automation are changing some job content, but manual skills remain valued.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，含加班 |
-| 中级（4-7年） | $34,000~$42,000 | 税前年薪，含津贴 |
-| 高级（8年以上） | $42,000~$52,000 | 税前年薪，含管理职责 |
+| Median salary | $43,728 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary, including overtime |
+| Mid-level (4-7 years) | $34,000~$42,000 | Annual pre-tax salary, including allowances |
+| Senior (8+ years) | $42,000~$52,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $45,516 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从助手起步，通过双元制培训成为熟练工，可晋升为工头或技师，也可进一步深造成为技术员或工程师。经验丰富的可自营。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will significantly change metalworking jobs, with repetitive tasks being replaced, but complex processes and on-site adaptability still require human intervention, presenting both risks and opportunities.
+
+Starting as an assistant, becoming a skilled worker through dual training, can advance to foreman or technician, or further study to become a technician or engineer. Experienced individuals can become self-employed.
+
+**Tasks most exposed to AI:**
+
+- Routine metal cutting and forming operations (e.g., manual shearing, bending)
+- Simple repetitive welding tasks (e.g., assembly line spot welding)
+- Basic quality checks (e.g., dimensional measurement, surface defect detection)
+- Material handling and loading/unloading tasks
+
+**Where AI augments the role:**
+
+- Use AI-assisted design software for complex part programming and simulation
+- High-precision quality control using machine vision systems
+- Guidance of complex assembly and repair using augmented reality (AR)
+- Monitors equipment status and predicts maintenance via IoT (Internet of Things).
+- Using collaborative robots for dangerous or high-intensity tasks
+
+**Human moat:**
+
+- Flexible manual skills for handling non-standard, small-batch custom metal parts
+- On-site fault diagnosis and emergency repair capability
+- Cross-process coordination and on-site safety management decision-making
+- Deep understanding of material properties and process innovation
+
+**Skills to build:**
+
+- CNC programming and operation (CNC)
+- Robotic Welding and Automation System Commissioning
+- 3D modeling and CAD/CAM software application
+- Data analysis and IoT device management.
+- Advanced welding techniques (e.g., laser welding, friction stir welding)
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Manufacturing demand
 - Infrastructure projects
@@ -62,68 +96,67 @@ Performs metal cutting, shaping, welding, and assembly using hand tools or machi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历或同等技能，年薪门槛约43,500欧元（2024年） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需双元制培训学历或资质认证，无年薪门槛 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合有培训经历但无雇主担保的申请人 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for university degree or equivalent skills, with an annual salary threshold of approximately €43,500 (2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires dual-system training qualification or credential assessment; no annual salary threshold |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for applicants with training experience but no employer sponsorship |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Worker (General)？**
-- 动手能力强、喜欢实际操作的人
-- 对机械和金属加工有兴趣的年轻人
-- 愿意接受双元制培训的求职者
-
-**谁不适合学Metal Worker (General)？**
-- 偏好办公室工作或理论分析的人
-- 对体力劳动或重复性工作反感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who like practical work
+- Young people interested in mechanics and metal processing
+- Job seekers willing to undergo dual-system training
+
+**Who is not suited**
+- People who prefer office work or theoretical analysis
+- People who dislike physical labour or repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of metal processing workers?**
+A: Junior salary approximately 28,000-34,000 euros, intermediate 34,000-42,000 euros, senior up to 52,000 euros. Income varies by region, industry, and whether certified.
+
+**Q: How can overseas applicants enter the metalworking industry in Germany?**
+A: Need to obtain qualification recognition (Anerkennung) or complete dual vocational training, then apply for a skilled worker visa. Shortage occupations may have lower thresholds.
+
+**Q: What educational background is needed to become a metal processing worker?**
+A: Typically requires completing 3.5 years of dual vocational training, or through vocational college path. Allowance provided during training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Metal Worker (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for metal workers?**
-答：Entry-level annual salary is about €28,000-34,000, mid-level €34,000-42,000, senior up to €52,000. Income varies by region, industry, and certifications.
-
-**问：How can overseas applicants work as metal workers in Germany?**
-答：They need to pass qualification recognition (Anerkennung) or complete dual training, then apply for a skilled worker visa. Shortage occupations may lower requirements.
-
-**问：What education is required to become a metal worker?**
-答：Typically a 3.5-year dual training program, or vocational school. Training includes a stipend.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

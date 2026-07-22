@@ -1,59 +1,95 @@
-# Survey Management and Administration（Survey Management and Administration）职业分析 · FR
+# Survey Management and Administration — career analysis · France
 
-**职业代码：M1404 – Survey Management and Administration。**
+**Occupation code: M1404 (ROME)**
 
-Designs, organizes, and oversees surveys (market, opinion, social science), including questionnaire design, data collection, team coordination, and quality control to ensure accurate and reliable results.
+Responsible for designing, organizing, and supervising various surveys (market, public opinion, social sciences, etc.), including questionnaire design, data collection, team coordination, and quality control to ensure the accuracy and reliability of survey results.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年 | 2年（BTS） | $5,000~$15,000（BTS在公立学校学费较低，私立学校较高） |
-| 本科3年 | 3年（Licence） | —（公立大学Licence学费约170欧元/年，私立商校较高） |
-| 硕士2年 | 2年（Master） | —（公立大学Master低学费，专业硕士或商校可能更高） |
+| Two years after high school | 2 Years (BTS) | $5,000~$15,000 (BTS tuition is lower at public schools and higher at private schools) |
+| Bachelor's degree is a 3-year course | 3 years (Licence) | $0~$10,000 (The tuition fee for a public university at Licence is about 170 euros per year, while private business schools are relatively expensive) |
+| Master's degree: 2 years | 2 years (Master) | $0~$15,000 (Public university Master's programs offer lower tuition, while professional master's or business schools may offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 统计或社会科学硕士学位 | 法国公立大学或商学院 | 可选 | 常见学历要求，非强制但大幅提升竞争力 |
-| 市场研究证书 | 法国市场研究协会（Syntec Conseil） | 可选 | 部分雇主认可的专业认证 |
+| Master's degree in Statistics or Social Sciences | French public universities or business schools | Optional | Common academic requirements, non-mandatory but significantly enhancing competitiveness |
+| Market Research Certificate | Syntec Conseil | Optional | Professional certifications recognized by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 12,000。法国对调查管理的需求稳定，尤其在市场研究、公共政策评估和社科领域。随着大数据和数字化转型，具备数据分析能力的调查管理者更受欢迎。就业机会集中于私营研究公司、政府机构及咨询公司。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's demand for survey management remains stable, especially in market research, public policy evaluation, and social sciences. With big data and digital transformation, survey managers with data analysis skills are becoming increasingly popular. Employment opportunities are concentrated among private research firms, government agencies, and consulting firms.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，视公司和地区而定 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪，包含项目管理职责 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，含高级管理或研究总监 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Pre-tax annual salary depends on the company and region |
+| Mid-level (3–7 years) | $38,000~$50,000 | Pre-tax annual salary, including project management responsibilities |
+| Senior (7+ years) | $50,000~$70,000 | Pre-tax annual salary, including senior management or research director |
+| average salary | $31,656 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级调查员/助理→调查项目经理→高级调查经理/研究总监。也可横向进入市场研究、数据分析或咨询领域。持有统计或社科类硕士学历者晋升更快。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Survey management and execution positions will be significantly assisted by AI, but core judgment, solution design, and complex coordination remain human advantages. Entry-level data collection and processing tasks carry high risk of being replaced, while the value of advanced analysis and strategic design roles actually rises.
+
+Junior investigator/assistant→ survey project manager→ senior survey manager/research director. You can also enter market research, data analysis, or consulting fields laterally. Those with master's degrees in statistics or social sciences advance faster.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation and distribution of standardized questionnaires
+- Data cleaning and basic statistical analysis
+- Repetitive phone calls or online surveys are conducted
+- Preliminary organization of survey feedback and report template generation
+- Routine quality control inspections (such as data integrity verification)
+
+**Where AI augments the role:**
+
+- Use AI to analyze large-scale survey data to uncover patterns and insights
+- Automatically encode open-ended answers through natural language processing
+- Optimize sample design and quota control based on historical data
+- AI-assisted personalized survey questionnaires to improve response rates
+- Real-time monitoring of the investigation process and automatic early warnings of abnormal data
+
+**Human moat:**
+
+- Top-level design of complex survey schemes and definition of research questions
+- Stakeholder communication, persuasion, and needs understanding
+- Cross-cultural and multilingual investigation coordination and ethical compliance assessment
+- Uncertainty Decision-Making and Result Interpretation Based on Business Context
+- Team management and cross-departmental collaboration capabilities
+
+**Skills to build:**
+
+- Python/R statistical analysis and data visualization
+- Fundamentals of Machine Learning (Clustering, Predictive Modeling)
+- AI tool integration and workflow automation (such as RPA)
+- Big Data Platform and Database Management (SQL)
+- Survey Design and Psychological Foundations (such as cognitive biases)
+- AI Ethics and Data Privacy Regulations (such as GDPR)
+
+**Key growth areas:**
 
 - Data-driven decision making
 - Digital survey tools
@@ -62,68 +98,67 @@ Designs, organizes, and oversees surveys (market, opinion, social science), incl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如硕士学历并有工作合同，可获4年居留 |
-| Subclass Salarié（Salarié (Employee work permit)） | 标准工作签证，需雇主担保，工作合同符合薪资要求 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪达到一定门槛（约53,000欧元），适合中级及以上职位 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree and a work contract, who can obtain a 4-year residence permit |
+| Subclass Salarié (Salarié (Employee work permit)) | Standard work visa, employer sponsorship required, and employment contract meeting salary requirements |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary threshold (about 53,000 euros) is required, suitable for intermediate and above positions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Survey Management and Administration？**
-- 善于分析和逻辑思维的人
-- 喜欢与数据打交道并注重细节
-- 具备良好沟通和项目协调能力
-
-**谁不适合学Survey Management and Administration？**
-- 不喜欢文书和重复性工作
-- 对数字不敏感或缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in analysis and logical thinking
+- Enjoy working with data and pay attention to detail
+- Possess good communication and project coordination skills
+
+**Who is not suited**
+- Dislikes paperwork and repetitive work
+- Not sensitive to numbers or lacking patience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for survey administrators in France?**
+A: Entry-level salaries are about 30,000-38,000 euros, intermediate salaries 38,000-50,000 euros, and senior salaries 50,000-70,000 euros, with pre-tax annual salaries.
+
+**Q: How can foreigners immigrate to France through investigation management positions?**
+A: Eligible for Talent Passport (requires master's + work contract) or EU Blue Card (meets salary threshold). Recommended to first obtain a French degree or be recruited by a French company.
+
+**Q: What promotion paths are available for survey managers?**
+A: You can advance from junior investigator to project manager, senior manager, or research director, or transition to market research or data analysis.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Survey Management and Administration的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for survey management in France?**
-答：Junior: €30,000-€38,000; Mid: €38,000-€50,000; Senior: €50,000-€70,000 gross annual.
-
-**问：How can a foreigner migrate to France through survey management?**
-答：Apply for Talent Passport (master's + job offer) or EU Blue Card (salary threshold). French degree or direct hiring by French company is recommended.
-
-**问：What are the career advancement paths for survey managers?**
-答：From junior surveyor to project manager, senior manager, or research director; also transferable to market research or data analysis.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

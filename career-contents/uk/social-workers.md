@@ -1,59 +1,95 @@
-# Social workers（Social workers）职业分析 · UK
+# Social workers — career analysis · United Kingdom
 
-**职业代码：2461 – Social workers。**
+**Occupation code: 2461 (SOC)**
 
-Social workers provide information, advice and support to those who are socially excluded or experiencing crisis, protecting vulnerable groups including children, young people, people with disabilities, elderly people, and those with mental or physical illness.
+Social workers provide information, advice and support to individuals who are socially excluded or in crisis, protecting the welfare of vulnerable groups including children, youth, people with disabilities, the elderly, and those with physical or mental illnesses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 社会工作学士学位 | 3年 | $9,250~$15,000（英格兰本科每年学费约£9,250，国际学生约£15,000+） |
-| 社会工作硕士学位 | 2年 | $10,000~$20,000（硕士课程学费通常£10,000-£20,000，国际学生更高） |
+| Bachelor of Social Work | 3 years | $9,250~$15,000 (Undergraduate tuition in England is about £9,250 per year for home students, and around £15,000+ for international students.) |
+| Master of Social Work degree. | 2 years | $10,000~$20,000 (Master's tuition fees typically £10,000-£20,000, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作学位（学士/硕士） | 英国大学 | 必备 | 需获得社会工作资格认证（如英格兰的Social Work England认证） |
-| 实习评估 | 课程提供方 | 必备 | 学位课程包含至少200天的实习 |
-| DBS检查 | 披露与限制服务（DBS） | 必备 | 从事与弱势群体工作前需通过无犯罪记录检查 |
+| Social work degree (Bachelor/Master) | UK universities | Required | Must obtain social work qualification (e.g., Social Work England certification) |
+| Internship evaluation | Course provider | Required | Degree program includes at least 200 days of internship. |
+| DBS check | Disclosure and Barring Service (DBS) | Required | Must pass a criminal record check before working with vulnerable groups |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 105,000。英国社会工作者需求持续增长，尤其是儿童服务和成人社会护理领域。政府资金投入增加，但招聘和留任仍是挑战，预计就业机会稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 105,000. Demand for social workers in the UK continues to grow, particularly in children's services and adult social care. Increased government funding is available, but recruitment and retention remain challenges, with job opportunities expected to rise steadily.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$32,000 | 新合格社会工作者（NQSW）通常起薪在£27,000-£32,000 |
-| 中级（3-8年） | $32,000~$42,000 | 有经验的社会工作者可升至£32,000-£42,000 |
-| 高级（8年以上） | $42,000~$55,000 | 高级从业者、团队经理或专家可超过£42,000，最高可达£55,000+ |
+| Median salary | $44,550 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $27,000~$32,000 | Newly Qualified Social Workers (NQSW) typically start at £27,000-£32,000 |
+| Mid-level (3–8 years) | $32,000~$42,000 | Experienced social worker can earn £32,000-£42,000 |
+| Senior (8+ years) | $42,000~$55,000 | Senior practitioners, team managers or specialists can exceed £42,000, up to £55,000+ |
+| average salary | $44,898 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级社会工作者通常在地方政府或慈善机构工作，积累经验后可晋升为高级从业者、团队领导或专家（如儿童保护、心理健康）。部分人转向政策制定或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core social worker tasks such as interviews, home visits, and interpersonal coordination are difficult to automate, but administrative tasks like documentation, data entry, and information retrieval will be efficiently taken over by AI; the overall outlook is mixed.
+
+Junior social workers typically work in local government or charities. With experience, they can advance to senior practitioner, team leader, or specialist (e.g., child protection, mental health). Some move into policy development or management roles.
+
+**Tasks most exposed to AI:**
+
+- Writing standardised documents such as case notes and assessment reports
+- Searching for government welfare policies, community resources, and other information
+- Organize and manage client files, appointment scheduling, and other administrative tasks
+- Data entry and basic report generation
+- Preliminary qualification screening and triage
+
+**Where AI augments the role:**
+
+- Using AI to analyze customer data, identify risk factors, and intervention timing
+- Quickly find best practices and intervention strategies using AI tools
+- Automatically generate personalized service plan drafts
+- Using AI-assisted communication tools (e.g., translation) to interact with non-English-speaking clients
+- Use AI to monitor service effectiveness and automatically suggest adjustment plans
+
+**Human moat:**
+
+- Building trust and empathetic communication
+- Complex crisis assessment and intervention decisions
+- Multi-stakeholder coordination and advocacy
+- Cultural sensitivity and ethical judgment
+- Creative problem-solving and case management
+
+**Skills to build:**
+
+- Data analysis and interpretation skills (e.g., using SQL, Excel)
+- AI collaboration tools (e.g., ChatGPT generating report drafts)
+- Digital record management systems (e.g., customer relationship management software)
+- Basic natural language processing concepts (understanding AI limitations)
+- Remote service and virtual communication skills
+- Ethics and privacy protection knowledge
+
+**Key growth areas:**
 
 - Child protection
 - Adult social care
@@ -62,68 +98,67 @@ Social workers provide information, advice and support to those who are socially
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 社会工作在可担保职业列表中，满足薪资要求（£26,200/年或SOC最低薪资）可申请 |
-| Subclass Health and Care Work（Health and Care Worker visa） | 社会工作属于医疗和护理领域，可享受优惠的签证费用和更快的处理 |
-| Subclass Graduate（Graduate visa） | 在英国完成社会工作要求学位的毕业生可申请2年毕业生签证（博士3年）积累工作经验 |
+| Subclass Skilled Worker (Skilled Worker visa) | Social work is on the eligible occupations list; meeting salary requirements (£26,200/year or SOC minimum wage) allows application. |
+| Subclass Health and Care Work (Health and Care Worker visa) | Social work belongs to medical and nursing fields, can enjoy reduced visa fees and faster processing |
+| Subclass Graduate (Graduate visa) | Graduates who complete a social work degree in the UK can apply for a 2-year graduate visa (3 years for PhD) to gain work experience |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social workers？**
-- 有同理心和沟通能力的人
-- 希望在公共部门或社区工作的人
-- 能承受高情绪压力并愿意帮助弱势群体的人
-
-**谁不适合学Social workers？**
-- 无法处理高压力和高情绪负担的人
-- 追求高薪或轻松工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and communication skills
+- Person who wants to work in the public sector or community
+- People who can handle high emotional pressure and are willing to help vulnerable groups
+
+**Who is not suited**
+- Those who cannot handle high stress and emotional burden
+- Those seeking high salary or easy work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social workers in the UK?**
+A: Entry level approximately £27,000-£32,000, mid-level £32,000-£42,000, senior £42,000-£55,000+. London may be higher, but public sector salary growth is limited.
+
+**Q: Can social workers immigrate to the UK on a work visa?**
+A: Yes. Social workers are on the shortage occupation list and can immigrate via the Skilled Worker or Health and Care Worker visa, the latter offering fee reductions and fast-track processing.
+
+**Q: What qualifications are needed to become a social worker in the UK?**
+A: Must obtain a social work degree (bachelor's or master's) accredited by the UK social work regulator (e.g., Social Work England) and include a placement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Social workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social workers in the UK?**
-答：Entry-level around £27,000-£32,000, mid-level £32,000-£42,000, senior £42,000-£55,000+. Higher in London, but public sector pay growth is limited.
-
-**问：Can social workers immigrate to the UK via work visa?**
-答：Yes. Social workers are on the shortage occupation list and can apply for Skilled Worker or Health and Care Worker visa, with fee reductions and faster processing.
-
-**问：What qualifications are needed to become a social worker in the UK?**
-答：A degree in social work (Bachelor's or Master's) accredited by the UK regulator (e.g., Social Work England) with integrated placements.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

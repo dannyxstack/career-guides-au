@@ -1,59 +1,94 @@
-# Legislator（Legislator）职业分析 · IT
+# Legislator — career analysis · Italy
 
-**职业代码：1111 – Legislator。**
+**Occupation code: 1111 (ISCO08)**
 
-Legislators are elected representatives in the Italian Parliament or regional councils, responsible for drafting, amending, and passing laws, overseeing government administration, and representing constituents.
+Legislators are elected representatives in the Italian Parliament or local councils, responsible for making, amending, and passing laws, overseeing government administration, and representing the interests of voters.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中 | 12年（基础教育） | —（公立教育免费） |
-| 本科（推荐） | 3年 | $1,000~$3,000（公立大学学费，视家庭收入） |
+| High school | 12 years (basic education) | $0~$0 (Public education is free) |
+| Bachelor's degree (recommended) | 3 years | $1,000~$3,000 (Public university tuition fees, depending on family income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定职业资格，但需符合选举法要求 | 意大利内政部及选举机构 | 必备 | 年满25岁（众议院）或40岁（参议院），意大利公民，无犯罪记录等 |
+| No specific professional qualification required, but must comply with electoral law | Italian Ministry of the Interior and Electoral Bodies | Required | Age 25 (Chamber of Deputies) or 40 (Senate), Italian citizen, no criminal record, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 2,000。意大利立法者职位取决于选举周期和政治环境，整体稳定但竞争激烈。近年来政治格局变化较快，新立法者需应对数字化转型、人口老龄化等议题。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 2,000. Legislator positions in Italy depend on election cycles and the political environment; overall stable but highly competitive. The political landscape has changed rapidly in recent years; new legislators need to address issues like digital transformation and an aging population.
 
-**竞争度：很高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（市镇议员） | —~$30,000 | 通常为兼职或补贴性质，根据市镇规模 |
-| 中级（国家众议员） | $80,000~$120,000 | 税前年薪，含津贴 |
-| 高级（部长/议长） | $150,000~$200,000 | 税前年薪 |
+| Median salary | $100,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (Municipal Councillor) | $0~$30,000 | Usually part-time or subsidized, depending on municipality size |
+| mid-level (Member of the House of Representatives) | $80,000~$120,000 | Annual pre-tax salary, including allowances |
+| Senior (Minister/Speaker) | $150,000~$200,000 | Annual pre-tax salary |
+| average salary | $96,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从地方议员起步，逐步晋升至国家众议院或参议院。资深议员可担任委员会主席、党团领袖或部长职位。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI has a mixed impact on legislators overall: tasks like report analysis and voting material screening can be automated, but core political negotiation, voter communication, and value judgment are difficult to replace; entry-level thresholds may rise.
+
+Usually start as a local councillor, gradually progress to the national House of Representatives or Senate. Senior members can become committee chairs, party leaders, or ministers.
+
+**Tasks most exposed to AI:**
+
+- Comparison and discrepancy analysis of legal provisions
+- Automatic classification and draft reply to voter letters
+- Transcription and summary generation of parliamentary speeches
+- Preliminary data statistics and visualization for policy impact reports
+- Automatic archiving and retrieval of hearing materials
+
+**Where AI augments the role:**
+
+- Use NLP to analyze large-scale public opinion to grasp sentiment trends
+- AI-assisted simulation of economic and social impacts of different legislation
+- Real-time public opinion monitoring and early warning system enhances decision-making timeliness
+- Optimize legislators' schedules and resource allocation through smart recommendation systems.
+- AI-assisted drafting of policy briefs and speech drafts
+
+**Human moat:**
+
+- Negotiation and compromise skills in complex conflicts of interest
+- Intuitive judgment representing constituency emotions and values
+- Ethical law-making in the face of ethical dilemmas
+- Cross-party consensus building and crisis leadership
+
+**Skills to build:**
+
+- Data literacy: interpreting statistical analysis reports generated by AI
+- Use of policy simulation tools (e.g., system dynamics modeling).
+- Natural language processing tools for public opinion analysis
+- Ability to identify AI ethics and algorithm bias
+- Digital Communication and Social Media Operations Skills
+- Cross-departmental collaboration experience in AI project management
+
+**Key growth areas:**
 
 - Political instability
 - Digital legislation
@@ -62,62 +97,64 @@ Legislators are elected representatives in the Italian Parliament or regional co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 不适用于立法者，该职位非受雇工作，而是政治职务。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 不适用，立法者非普通工作签证范畴。 |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable for legislators; this role is not employed work but a political position. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Not applicable; legislators are not under general work visa categories. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Legislator？**
-- 对政治有热情，具备领导力和公共演讲能力的人
-- 愿意服务公众，能承受高压工作环境
-- 有较强政策分析能力和团队协作精神
+**Who is suited**
+- For people passionate about politics with leadership and public speaking skills.
+- Willing to serve the public, able to work under high pressure
+- Strong policy analysis skills and team collaboration spirit
 
-**谁不适合学Legislator？**
-- 不喜欢公众关注和高强度社交
-- 希望稳定工作时间者
+**Who is not suited**
+- Dislikes public attention and high-intensity social interaction
+- For those seeking stable working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do Italian legislators earn?**
+A: Local council members may have lower incomes or be compensated as allowances, while national parliament members earn approximately €80,000-€120,000 per year, with ministers earning more.
+
+**Q: Can foreigners become legislators in Italy?**
+A: Generally requires Italian citizenship; non-citizens cannot stand for election. Long-term residents can participate after naturalization.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 很高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Legislator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of Italian legislators?**
-答：Local councilors receive low allowances or part-time pay, while national parliamentarians earn around €80,000-120,000 annually, with ministers earning more.
-
-**问：Can foreigners become Italian legislators?**
-答：Generally requires Italian citizenship; non-citizens cannot stand for election. Long-term residents can participate after naturalization.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Harvesting labourer（Harvesting labourer）职业分析 · 加拿大
+# Harvesting labourer — career analysis · Canada
 
-**职业代码：85101 – Harvesting labourer。**
+**Occupation code: 85101 (NOC)**
 
-Performs harvesting, planting, and initial processing of nuts and other crops on Canadian farms. Mostly seasonal with low skill requirements; immigration prospects are limited.
+Working on Canadian farms for nut harvesting, planting, and initial processing; mostly seasonal, low skill barrier, but immigration prospects are limited.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中 | 无需 | —（无正式学历要求） |
-| 短期培训 | 1-2周 | $200~$500（农场安全及机械操作培训） |
+| High school | None | $0~$0 (No formal education requirements) |
+| Short-term training | 1-2 weeks | $200~$500 (Farm safety and machinery operation training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 通常无需证书，雇主提供在岗培训。 |
+| No mandatory qualification | None | Optional | Usually no certification required; employers provide on-the-job training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 30,000。加拿大农业季节性劳动力需求稳定，但机械化程度提高可能影响低技能岗位。就业受气候和区域影响大，依赖临时外劳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 30,000. Demand for seasonal agricultural labor in Canada is stable, but increased mechanization may affect low-skilled positions. Employment is highly influenced by climate and region, relying on temporary foreign workers.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 按最低工资或计件 |
-| 中级（3-6年） | $35,000~$42,000 | 含少量经验加成 |
-| 高级（6年以上） | $42,000~$50,000 | 极少，多为主管或机械操作 |
+| Median salary | $37,440 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Paid minimum wage or piece rate |
+| Mid-level (3–6 years) | $35,000~$42,000 | Includes a small experience bonus |
+| Senior (6+ years) | $42,000~$50,000 | Very few, mostly supervisory or mechanical operations |
+| average salary | $41,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从普通收割工晋升为农场主管或机械设备操作员，但缺乏明确职业阶梯。多数从业者停留在入门级。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Harvesting work is significantly affected by automation; low-skilled repetitive tasks are easily replaced, reducing entry-level jobs, but on-site farm operations still require human presence.
+
+May advance from general harvest worker to farm supervisor or machinery operator, but lacks clear career ladder. Most workers remain at entry level.
+
+**Tasks most exposed to AI:**
+
+- Autonomous harvesters perform crop harvesting
+- AI vision system for maturity assessment and grading
+- Automated irrigation and fertilization system operation
+- Drones monitor crop growth status
+- Data-driven yield forecasting and scheduling
+
+**Where AI augments the role:**
+
+- AI navigation and obstacle detection enhance agricultural machinery operation efficiency
+- Precision agriculture software optimizes planting and harvesting plans
+- Wearable devices for monitoring worker health and safety
+- Mobile app enables real-time reporting and coordination
+- Image recognition aids early detection of pests and diseases.
+
+**Human moat:**
+
+- Flexible operation in complex terrain and extreme weather
+- Sensory evaluation of agricultural product quality (e.g., flavor, freshness)
+- On-site repair of sudden equipment failures
+- Direct communication and decision-making with farm managers
+- Compliant operations following food safety regulations
+
+**Skills to build:**
+
+- Operate and maintain automatic harvesters
+- Understand precision agriculture software and data analysis
+- Basic mechanical maintenance and fault handling
+- Food safety and quality management certification
+- Basic digital literacy (tablets, app usage)
+- Team collaboration and communication.
+
+**Key growth areas:**
 
 - Seasonal Agriculture
 - Temporary Foreign Worker
@@ -62,69 +98,68 @@ Performs harvesting, planting, and initial processing of nuts and other crops on
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass TFWP（Temporary Foreign Worker Program） | 临时外劳计划，需LMIA，雇主担保，工作许可，非移民通道。 |
-| Subclass SAWP（Seasonal Agricultural Worker Program） | 季节性农业工人计划，临时工签，不能直接移民。 |
-| Subclass PNP Rural（Provincial Nominee Program (rural streams)） | 少数省份偏远地区试点，但通常要求更高技能。 |
+| Subclass TFWP (Temporary Foreign Worker Program) | Temporary foreign worker program, requires LMIA, employer sponsorship, work permit, non-immigration pathway. |
+| Subclass SAWP (Seasonal Agricultural Worker Program) | Seasonal Agricultural Worker Program, temporary work visa, not directly leading to immigration. |
+| Subclass PNP Rural (Provincial Nominee Program (rural streams)) | Pilot programs in remote areas of a few provinces, but usually require higher skills |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Harvesting labourer？**
-- 能吃苦耐劳、适应户外体力劳动
-- 不介意季节性失业和低收入
-- 愿意通过短期工签积累加拿大经验
-
-**谁不适合学Harvesting labourer？**
-- 追求稳定高薪职业
-- 希望快速获得永久居民身份
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to endure hard work and adapt to outdoor physical labor.
+- Do not mind seasonal unemployment and low income
+- Willing to gain Canadian experience through a short-term work visa
+
+**Who is not suited**
+- Seeking a stable, high-salary career
+- Seeking to obtain permanent residency quickly.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a nut farm worker in Canada?**
+A: Annual salary is typically between C$28,000-42,000, based on minimum wage or piecework, with unstable income.
+
+**Q: Can nut farm workers immigrate to Canada?**
+A: Usually cannot directly migrate through skilled migration because NOC 85101 is TEER 5 (low-skilled); only possible through temporary foreign worker programs or a few provincial nominee pilot programs, but transitioning to permanent residence is difficult.
+
+**Q: What qualifications are needed to work as a nut farm worker in Canada?**
+A: Usually no education or certificate required; employer provides training. May require basic physical fitness, agricultural machinery operation skills, and simple English.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 极低（★★★★½） |
-| PR难度 | 高（★★★★½） |
-
-Harvesting labourer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a nut farm worker in Canada?**
-答：Average annual salary ranges from CAD 28,000 to CAD 42,000, often at minimum wage or piece rate, income unstable.
-
-**问：Can a nut farm worker immigrate to Canada?**
-答：Generally not directly via skilled immigration as NOC 85101 is TEER 5 (low-skilled). Only temporary worker programs or few provincial pilot streams, with limited PR pathways.
-
-**问：What qualifications are needed to work as a nut farm worker in Canada?**
-答：Typically no formal education or certification; on-the-job training provided. Basic physical fitness, ability to operate farm machinery, and simple English may be required.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

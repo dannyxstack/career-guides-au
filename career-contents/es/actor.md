@@ -1,60 +1,95 @@
-# Actor（Actor）职业分析 · ES
+# Actor — career analysis · Spain
 
-**职业代码：2935 – Actor。**
+**Occupation code: 2935 (CNO)**
 
-Actors portray roles in theater, film, television, or radio, interpreting scripts and conveying emotions through performance. Spain's audiovisual sector is growing, driven by streaming platforms, but competition is intense.
+Actors play roles in theater, film, television, or radio, interpreting scripts and conveying emotions through performance. The Spanish film and television industry continues to grow driven by streaming platforms, but competition for jobs is fierce.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 表演艺术高级职业培训（FP Grado Superior） | 2年 | $1,000~$3,000（公立学校学费低，私立较高） |
-| 戏剧艺术学士（Grado en Arte Dramático） | 4年 | $6,000~$12,000（公立大学年费约1500-3000欧元） |
+| Advanced Vocational Training in Performing Arts (FP Grado Superior) | 2 years | $1,000~$3,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Bachelor of Dramatic Arts (Grado en Arte Dramático) | 4 years | $6,000~$12,000 (The annual fee for public universities is about 1,500–3,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演学位或文凭 | 戏剧艺术大学或高等艺术学校 | 可选 | 非强制但雇主普遍要求 |
-| 专业演员注册（艺术家登记） | 西班牙社会保障部 | 必备 | 须登记为自雇或受雇演员，用于社会保险 |
+| Professional Actor Registration (Artist Registration) | Spanish Ministry of Social Security | Required | Must be registered as self-employed or employed actors for social insurance |
+| Performing arts degree or diploma | Dramatic Arts University or Higher Art School | Optional | Not mandatory but generally required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。西班牙影视娱乐业因Netflix、HBO等平台兴起而持续扩张，制作需求增加。但演员普遍面临项目不稳定、低薪初阶岗位多的局面，长期就业依赖网络与多元技能。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Spain's film and entertainment industry continues to expand due to the rise of platforms like Netflix and HBO, increasing production demand. However, actors generally face unstable projects and many low-paying entry-level positions, with long-term employment relying on networks and diverse skills.
 
-**竞争度：非常高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$18,000 | 常为项目制，多兼任其他工作 |
-| 中级（3-10年） | $20,000~$35,000 | 稳定配角或剧场主演 |
-| 高级（10年以上/成名） | $40,000~$100,000 | 顶级演员收入极高，此处取主流范围 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$18,000 | Often on a project-based basis, often taking on other duties |
+| Intermediate (3-10 years) | $20,000~$35,000 | Stable supporting roles or theater leads |
+| Senior (over 10 years / Famous) | $40,000~$100,000 | Top actors earn extremely high incomes, so this is the mainstream range |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 多数演员从剧场起步，积累作品后转向影视角色，少数晋升为主角或导演。部分演员兼配音、广告或教学以维持收入。持续培训与多重技能是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Most actors start out in theater, accumulate works, and then move on to film and television roles, with a few advancing to lead roles or directing. Some actors also work as voice actors, advertisers, or teach to maintain their income. Continuous training and multiskilling are key.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - Streaming content boom
 - Digital media
@@ -63,65 +98,67 @@ Actors portray roles in theater, film, television, or radio, interpreting script
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit employed (Cuenta ajena)） | 需西班牙影视公司提供受雇合同，证明职位无法由本地或欧盟公民填补，极难获批 |
-| Subclass Cuenta propia（Self-employed work permit (Cuenta propia)） | 演员以自雇形式申请，需证明有稳定项目和经济能力 |
+| Subclass Cuenta ajena (Work permit employed (Cuenta ajena)) | A Spanish film company must provide an employment contract proving that the position cannot be filled by local or EU citizens, making it extremely difficult to get approval |
+| Subclass Cuenta propia (Self-employed work permit (Cuenta propia)) | Actors applying on a self-employed basis must prove stable projects and financial capability |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Actor？**
-- 具有强烈表演热情和抗压能力的人
-- 愿意接受不稳定收入并积极自我营销的人
-- 具备多语言优势（尤其英语）的人
+**Who is suited**
+- People with strong passion for performance and stress resistance
+- People willing to accept unstable income and actively market themselves
+- People with multilingual strengths (especially English).
 
-**谁不适合学Actor？**
-- 追求稳定高薪和规律作息的人
-- 不善于社交和自我推销的人
+**Who is not suited**
+- People who pursue stable, high salaries and regular routines
+- People who are not good at socializing or self-promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of actors?**
+A: Actor salaries in Spain vary widely. Junior actors earn approx. €12k-€18k/year, often needing side jobs; established actors can earn €100k+. Most actors juggle multiple projects.
+
+**Q: Can foreign actors immigrate to Spain?**
+A: Extremely difficult. Actors must prove that the position cannot be held by an EU citizen for work residency, and the market is highly saturated. Unless you have achieved significant success in Spain or participated in international co-productions.
+
+**Q: What training do actors need?**
+A: Although there is no mandatory academic requirement, the industry generally expects formal training. Common pathways include 2 years of FP Advanced Vocational Training or 4 years of Bachelor of Dramatic Arts. Regular participation in workshops and masterclasses is also important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 非常高（★★★★½） |
-| 收入水平 | 低至中等（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Actor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for an actor?**
-答：Income varies widely. Entry-level actors earn around €12,000-18,000 per year, often requiring side jobs; established actors can exceed €100,000. Most actors juggle multiple projects.
-
-**问：Can foreign actors migrate to Spain?**
-答：Very difficult. Work permits require employers to prove no EU candidate is available, and the market is saturated. Only those with notable achievements or involved in international co-productions may succeed.
-
-**问：What training do actors need?**
-答：Formal training is not mandatory but strongly recommended. Common paths include a 2-year advanced vocational training (FP) or a 4-year bachelor's in dramatic arts. Ongoing workshops and masterclasses are vital.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

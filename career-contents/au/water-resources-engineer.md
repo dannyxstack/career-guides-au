@@ -1,66 +1,95 @@
-# 水资源工程师（Water Resources Engineer）职业分析 · 澳大利亚
+# Water Resources Engineer — career analysis · Australia
 
-**职业代码：233911 – Water Resources Engineer。**
+**Occupation code: 233911 (ANZSCO)**
 
-水资源工程师负责规划、设计和管理供水、排水、防洪及灌溉系统，是应对澳洲干旱与洪涝双重挑战的关键专业。随气候变化加剧，水利基础设施投资持续增加，该职业长期供不应求。
+Water resources engineers plan, design and manage water supply, drainage, flood mitigation and irrigation systems — a critical profession for addressing Australia's dual challenges of drought and flooding. As climate change intensifies, investment in water infrastructure continues to grow, making this occupation persistently in demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Civil/Environmental Engineering | 4年 | $32,000~$55,000（国际生约$160k总费） |
-| Engineers Australia Competency Assessment | 2~5年工作经验 | $500~$2,000（MIEAust/CPEng申请） |
-| Postgraduate in Water Engineering (可选) | 1~2年 | $30,000~$50,000（专攻水文水利） |
+| Bachelor of Civil/Environmental Engineering | 4 years | $32,000~$55,000 (Approximately $160k total cost for international students) |
+| Engineers Australia Competency Assessment | 2–5 years of work experience | $500~$2,000 (MIEAust/CPEng application) |
+| Postgraduate in Water Engineering (optional) | 1–2 years | $30,000~$50,000 (Specialising in hydrology and hydraulics) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Civil/Environmental Engineering | 认可大学 | 必备 | 入行基础 |
-| MIEAust / CPEng | Engineers Australia | 可选 | 专业执照 |
-| RPEQ / State Registration | 各州工程师委员会 | 可选 | 独立签章 |
+| Bachelor of Civil/Environmental Engineering | Recognised university | Required | Foundation for entering the industry |
+| MIEAust / CPEng | Engineers Australia | Optional | Professional licence |
+| RPEQ / State Registration | State engineering boards | Optional | Independent stamp and sign-off |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 6,000。联邦及各州政府2025-2030年投入超$200亿用于水利基础设施更新与气候适应项目，水资源工程师需求将保持强劲。城市水网老化更新和沿海海水淡化项目是主要增长点。
+**Job demand: very high (★★★★★).** National workforce approx. 6,000. Federal and state governments are investing over $20 billion between 2025 and 2030 in water infrastructure upgrades and climate adaptation projects, keeping demand for water resources engineers strong. Ageing urban water network renewal and coastal desalination projects are the main growth areas.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~180 个 | 2025年均值 |
-| Indeed | 60~110 个 | 2025年均值 |
-| LinkedIn | 80~140 个 | 2025年均值 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $72,000~$92,000 | Graduate Engineer |
-| 中级（3-8年） | $95,000~$135,000 | Project Engineer |
-| 高级（8年+） | $140,000~$190,000 | Principal Engineer |
+| Median salary | $137,748 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $72,000~$92,000 | Graduate Engineer |
+| Mid-level (3–8 years) | $95,000~$135,000 | Project Engineer |
+| Senior (8+ years) | $140,000~$190,000 | Principal Engineer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 水文模型软件（TUFLOW、MIKE）和GIS应用广泛，数字孪生水利系统成新趋势。气候风险评估能力成为差异化竞争优势，CPEng持证工程师优先获得大型项目机会。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will amplify the value of water resources engineers, not replace them. With machine learning for precise hydrological forecasting, optimized water allocation, and automated design, demand for this occupation grows with climate change.
+
+Hydrological modelling software (TUFLOW, MIKE) and GIS are widely used, with digital twin water systems emerging as a new trend. Climate risk assessment capability is becoming a key competitive differentiator, and CPEng-certified engineers are prioritised for major project opportunities.
+
+**Tasks most exposed to AI:**
+
+- Routine hydrological data collation and preliminary analysis
+- Repetitive calculations in standardized water facility design
+- Automatic recording and reporting of regular water quality monitoring data
+- Parameter tuning of basic flood models
+
+**Where AI augments the role:**
+
+- Use AI for high-precision flood and drought prediction
+- Optimising water supply network efficiency through digital twins
+- Real-time scheduling of irrigation systems based on machine learning
+- Automated review and compliance check of hydraulic engineering drawings
+- Using natural language processing to quickly interpret latest water regulations
+
+**Human moat:**
+
+- Innovative design and decision-making for complex water systems
+- Communicate and coordinate with multiple stakeholders such as government and community
+- Develop emergency response plans for extreme climate events
+- Environmental ethics and water resource sustainability trade-offs
+- Safety and quality control in on-site engineering implementation
+
+**Skills to build:**
+
+- Python programming and hydrological data analysis libraries (e.g., Pandas, NumPy).
+- Machine learning frameworks (TensorFlow, PyTorch) applied to hydrological modeling
+- Geographic Information Systems (GIS) and remote sensing analysis
+- Digital twin platforms (e.g., Autodesk InfraWorks)
+- Cross-cutting knowledge of AI ethics and water regulations
+- Interdisciplinary collaboration and systems thinking
+
+**Key growth areas:**
 
 - Desalination & Water Treatment
 - Flood Mitigation Infrastructure
@@ -69,66 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工程紧缺 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, engineering shortage |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR难度：较易（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学水资源工程师？**
-- 有土木/环境工程背景者
-- 关注气候变化与可持续发展者
-- 喜欢户外现场与建模结合工作者
-
-**谁不适合学水资源工程师？**
-- 不耐受出差与野外作业者
-- 偏好纯室内工作者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a civil or environmental engineering background
+- Those passionate about climate change and sustainability
+- Those who enjoy combining outdoor fieldwork with 3D modelling
+
+**Who is not suited**
+- Not suited to those who cannot tolerate travel and fieldwork
+- Prefers purely indoor work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for water resources engineers in Australia?**
+A: Entry-level: approximately AUD 72,000-92,000; mid-level: AUD 95,000-135,000; senior: AUD 140,000-190,000, with additional allowances in mining and large infrastructure projects.
+
+**Q: Is it easy to find work as a water resources engineer in Australia?**
+A: Demand remains consistently strong, with significant opportunities across state government water infrastructure upgrade projects and private mining companies — making this a long-term shortage occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 233911 水资源工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较难（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较易（★★☆☆☆） |
-
-水资源工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：水资源工程师澳洲薪资如何？**
-答：初级约AUD 7.2万~9.2万，中级9.5万~13.5万，高级14万~19万，矿业及大型基础设施项目有额外津贴。
-
-**问：水资源工程师在澳洲好找工作吗？**
-答：需求持续旺盛，各州政府水利更新项目及私营矿业公司均有大量需求，是长期紧缺职业之一。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Collector salespersons and credit agents（Collector salespersons and credit agents）职业分析 · UK
+# Collector salespersons and credit agents — career analysis · United Kingdom
 
-**职业代码：7121 – Collector salespersons and credit agents。**
+**Occupation code: 7121 (SOC)**
 
-These workers visit private households to obtain orders and collect payments for goods and services, typically on a commission basis, with low skill requirements.
+This occupation typically involves door-to-door visits to households to sell goods or services and collect payments, a low-skilled, face-to-face sales role usually compensated by commission or fee.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常无需正式学历） |
+| High school graduation | None | $0~$0 (Usually no formal qualifications required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶证 | DVLA | 必备 | 因需上门拜访，通常要求持有有效驾驶执照 |
+| Driving license | DVLA | Required | Due to the need for home visits, a valid driver's license is usually required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。随着数字支付和在线购物的普及，上门收取款项的需求持续下降，预计该职业就业人数将小幅减少，竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. With the popularity of digital payments and online shopping, demand for door-to-door collection is declining steadily, with a slight decrease in employment numbers and intense competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 基础工资加佣金 |
-| 中级（3-7年） | $22,000~$28,000 | 含提成 |
-| 高级（7年以上） | $28,000~$35,000 | 含提成及管理奖金 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including commission |
+| Senior (7+ years) | $28,000~$35,000 | Including commissions and management bonuses |
+| average salary | $46,222 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 入门门槛低，通常从初级销售员做起，可晋升为销售主管或区域经理，但晋升空间有限，部分人员转向电话销售或客服岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation is severely impacted by automation and AI; face-to-face sales and payment collection tasks are replaced by digital payments, automatic deductions, and remote customer service. Entry-level positions have significantly decreased, and the scale will shrink substantially in the future.
+
+Low entry barrier, usually starting as a junior salesperson, may advance to sales supervisor or regional manager, but promotion prospects are limited; some transition to telemarketing or customer service roles.
+
+**Tasks most exposed to AI:**
+
+- Door-to-door sales and cash-on-delivery are being replaced by online payment and automatic deduction
+- Manual recording of receipts and customer information is taken over by CRM and automatic reconciliation systems
+- Telephone debt collection replaced by AI voice bots and automated messages
+- Paper sales contracts and receipts processing is replaced by digital signatures and electronic invoices.
+- Simple customer follow-up tasks are covered by automated email and SMS systems
+
+**Where AI augments the role:**
+
+- AI analyzes customer data to assist in developing personalized sales strategies.
+- Automation tools improve collection process efficiency, reduce manual errors
+- AI chatbots handle basic inquiries, freeing up staff for complex issues
+- Predictive analytics helps identify high-value customers and optimal visit timing
+- Digital payment integration simplifies transaction processes and increases conversion rates
+
+**Human moat:**
+
+- Complex negotiation and handling client objections
+- Build long-term customer trust relationships
+- Communication skills for handling high-difficulty overdue accounts
+- Coordinate across departments to resolve payment disputes
+- Emotional judgment and on-the-spot adaptability
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Data analysis and Excel/Python basics
+- Use of digital payment tools and e-invoicing platforms
+- Basic AI tools (e.g., chatbot configuration) application
+- Advanced communication skills for negotiation and dispute resolution.
+- Sales psychology and customer behavior analysis
+
+**Key growth areas:**
 
 - declining demand
 - digital payments
@@ -61,61 +97,63 @@ These workers visit private households to obtain orders and collect payments for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业不在可担保职业清单上，无法申请Skilled Worker签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is not on the list of eligible occupations and cannot apply for a Skilled Worker visa. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Collector salespersons and credit agents？**
-- 善于与人沟通、有销售热情的人
-- 能接受户外工作和灵活工时的人
-- 有驾照并能独立驾驶的人
+**Who is suited**
+- People who are good at communication and have a passion for sales
+- Able to work outdoors and have flexible working hours.
+- People with a driver's license and the ability to drive independently
 
-**谁不适合学Collector salespersons and credit agents？**
-- 不喜销售性质工作的人
-- 偏好稳定办公室工作的人
+**Who is not suited**
+- People who dislike sales-oriented work
+- People who prefer stable office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is a debt collector’s salary structured?**
+A: Usually consists of low base salary plus high commission; junior annual salary about £18,000-22,000, senior can reach £28,000-35,000.
+
+**Q: Can this occupation apply for a UK work visa?**
+A: No. This occupation is not on the eligible occupation list for the Skilled Worker visa, so skilled migration pathways are very limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Collector salespersons and credit agents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is the salary of collector salespersons structured?**
-答：Typically a low base salary plus high commission; entry-level annual salary around £18,000-£22,000, senior up to £28,000-£35,000.
-
-**问：Can this occupation apply for a UK work visa?**
-答：No. It is not on the list of eligible occupations for the Skilled Worker visa, and migration pathways are very limited.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

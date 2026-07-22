@@ -1,62 +1,98 @@
-# Facade Technician And Restorer（Facade Technician And Restorer）职业分析 · FR
+# Facade Technician And Restorer — career analysis · France
 
-**职业代码：F1611 – Facade Technician And Restorer。**
+**Occupation code: F1611 (ROME)**
 
-Responsible for the construction, renovation, and restoration of building facades, working with brick, concrete, plaster, and other materials. A key technical role in the French construction industry.
+Responsible for the construction, renovation, and repair of building exterior walls, involving materials such as masonry, concrete, and plastering, making it a key technical position in the French construction industry.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP (职业能力证书) | 2年 | —（公立学校约500欧元/年，学徒制免费且带薪） |
-| Bac Pro (职业高中文凭) | 3年 | —（公立学校约1000欧元/年，可申请助学金） |
-| BTS (高级技师证书) | 2年 | —（公立学校约1500欧元/年，学费因校而异） |
+| CAP (Certificate of Professional Competence) | 2 years | $0~$1,000 (Public schools cost about 500 euros per year, and apprenticeships are free and paid) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$2,000 (Public school approx. €1,000/year, with financial aid available.) |
+| BTS (Senior Technician Certificate) | 2 years | $0~$3,000 (Public schools cost about 1500 euros per year, with tuition fees varying by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maçon (砌筑工职业能力证书) | 法国教育部 | 必备 | 从事砌体外墙施工必需的最低文凭 |
-| CQP (职业资格证书) 立面修复 | 建筑业职业资格委员会 | 可选 | 针对立面修复专项技能，非强制但受雇主青睐 |
-| CACES R386 (高空作业平台操作证书) | CNAMTS/INRS | 必备 | 操作升降设备时必须持有 |
+| CAP Masonry (Masonry Professional Competency Certificate) | French Ministry of Education | Required | The minimum diploma required for masonry exterior wall construction |
+| CACES R386 (Aerial Work Platform Operation Certificate) | CNAMTS/INRS | Required | It must be held when operating the lifting equipment |
+| CQP (Professional Qualification Certificate) facade restoration | Construction Industry Professional Qualifications Committee | Optional | Specialized skills for facade restoration are not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。法国政府推动建筑节能改造（如 Rénovation énergétique），外墙保温与修复需求持续增长。同时，历史建筑修复也需要大量专业人才，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The French government is promoting energy-efficient building renovations (such as the Rénovation énergétique), and the demand for exterior wall insulation and repair continues to grow. At the same time, restoration of historic buildings also requires a large number of professionals, with promising employment prospects.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，不含加班和津贴 |
-| 中级（4-10年） | $28,000~$36,000 | 税前年薪，含技能奖金 |
-| 高级（10年以上） | $36,000~$45,000 | 税前年薪，项目主管或自雇人士可达更高 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, excluding overtime and allowances |
+| Mid-level (4-10 years). | $28,000~$36,000 | Pre-tax annual salary, including skill bonuses |
+| Senior (10+ years) | $36,000~$45,000 | Pre-tax annual salaries can be higher for project supervisors or self-employed individuals |
+| average salary | $24,732 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可从学徒或初期施工人员起步，逐步晋升为团队负责人或项目主管。积累经验后可自营公司或专注于古建修复等高附加值领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on building facade construction and restoration specialists is mainly compressive: BIM/CAD automatically generates construction plans and material lists, drone inspections replace manual inspections, 3D scanning and printing reduce traditional manual repairs, but complex on-site operations and responsibility remain difficult to replace.
+
+You can start as an apprentice or a beginner construction worker and gradually advance to team leader or project supervisor. After accumulating experience, companies can operate their own companies or focus on high value-added fields such as ancient building restoration.
+
+**Tasks most exposed to AI:**
+
+- Using drones for automatic inspection of exterior wall defects and image recognition reports
+- Automatic generation of construction plans and optimization of material lists based on BIM
+- Digital models are built through 3D scanning to automatically match repair plans
+- Robots are used for high-altitude cleaning or spraying operations
+- AI-assisted construction quality inspection and compliance audits
+
+**Where AI augments the role:**
+
+- AI-enhanced process planning and material ratio optimization for complex facade restoration
+- Enhance texture matching and color analysis in the restoration of historic buildings
+- AI-assisted scaffolding safety warnings and construction route planning
+- Enhance process scheduling and resource allocation for multi-trade collaboration
+- Cost estimation and schedule forecasting based on historical data
+
+**Human moat:**
+
+- A deep understanding of handcrafted techniques and material characteristics in the restoration of historic buildings
+- Rapid diagnosis and emergency response capabilities for unforeseen issues on site
+- Responsibility assessment and compliance with regulations regarding building structural safety
+- Highly trusting communication and aesthetic co-creation with owners and architects
+- Physical adaptability and safety awareness for operations at high altitudes and in complex climates
+
+**Skills to build:**
+
+- BIM (such as Revit) modeling and construction simulation
+- Drone operation and inspection image analysis
+- 3D scanning and point cloud data processing
+- Basic Programming Automation (Script Processing Materials List)
+- Sustainable materials and green construction technologies
+- Project digital management (such as Procore)
+
+**Key growth areas:**
 
 - energy renovation
 - historic restoration
@@ -65,69 +101,68 @@ Responsible for the construction, renovation, and restoration of building facade
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié (受雇工作居留)（Salarié Work Permit） | 需获得法国雇主合同，通过劳工市场测试（Opposabilité），适用于长期雇员。 |
-| Subclass Passeport Talent (人才（Passeport Talent） | 针对高技能人才，若工资达一定门槛（约2倍SMIC），可快速获批，无需劳工市场测试。 |
-| Subclass Carte bleue européen（EU Blue Card） | 适用于年薪≥53,000欧元（2024年）的高技能岗位，但本职业薪资通常不达标准。 |
+| Subclass Salarié (Employed Work Residence) (Salarié Work Permit) | A French employer contract must be obtained, passing the labor market test (Opposabilité), applicable to long-term employees. |
+| Subclass Talent Passport (Passeport Talent) | For highly skilled talent, if the salary reaches a certain threshold (about twice the SMIC), approval can be quickly obtained without labor market testing. |
+| Subclass Carte bleue européen (EU Blue Card) | Applicable to high-skilled positions with an annual salary of ≥ 53,000 euros (2024), but salaries in this occupation usually fall below the standard. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Facade Technician And Restorer？**
-- 喜欢户外体力劳动、动手能力强的人
-- 对建筑历史与修复技术有热情的人
-- 愿意通过学徒制积累实践经验的人
-
-**谁不适合学Facade Technician And Restorer？**
-- 不习惯高空作业和恶劣天气的人
-- 偏好办公室工作或低体力强度的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are hands-on
+- People passionate about architectural history and restoration techniques
+- Those willing to gain practical experience through apprenticeships
+
+**Who is not suited**
+- People who are not used to working at heights or in harsh weather
+- People who prefer office work or low physical intensity
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for facade construction workers?**
+A: The junior salary is about 22,000-28,000 euros, the intermediate 28,000-36,000 euros, and the senior salary can exceed 45,000 euros. Self-employment or project contracting income is higher.
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: Usually, you must first obtain an offer from a French employer to apply for a Salarié work residence permit. If the salary meets the target (about twice the SMIC), Passeport Talent can be considered. EU citizens move freely.
+
+**Q: What key skills are needed?**
+A: They need to master skills such as masonry, plastering, coating, and waterproofing, understand the properties of different materials, have the ability to read drawings, and have safety awareness for working at heights.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Facade Technician And Restorer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for facade technicians?**
-答：Entry-level annual salary is around €22,000-€28,000, mid-level €28,000-€36,000, and senior can exceed €45,000. Self-employed or project-based work may yield higher income.
-
-**问：How can non-EU citizens immigrate through this occupation?**
-答：Usually need a job offer from a French employer and apply for a Salarié work permit. If salary meets threshold (about 2x SMIC), Passeport Talent is an option. EU citizens have free movement.
-
-**问：What key skills are required?**
-答：Proficiency in masonry, plastering, painting, waterproofing, knowledge of different materials, ability to read blueprints, and safety awareness for working at height.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

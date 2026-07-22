@@ -1,62 +1,98 @@
-# Archivist（Archivist）职业分析 · DE
+# Archivist — career analysis · Germany
 
-**职业代码：7331 – Archivist。**
+**Occupation code: 7331 (KldB)**
 
-Archivists collect, organize, preserve, and provide access to archival materials, including historical documents and electronic records, for research or administrative purposes. They work in archives, libraries, government agencies, or corporations.
+Archivists collect, organise, preserve and provide access to archival materials, including historical documents and electronic records, for research or administrative use. They work in archives, libraries, government agencies, or corporations.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学基本无学费，仅每学期注册费约150-300欧元） |
-| 硕士 | 2年 | —（部分硕士项目可能收取学费，但公立大学仍低） |
-| 双元制 Ausbildung | 3年 | —（双元制培训期间有津贴，无需学费） |
+| Bachelor's degree | 3-4 years | $0~$3,000 (Public universities have basically no tuition fees, only a semester registration fee of about 150-300 euros.) |
+| Master's degree | 2 years | $0~$3,000 (Some master's programs may charge tuition, but public universities still have low fees) |
+| Dual system Ausbildung (Vocational Training) | 3 years | $0~$0 (Allowance provided during the dual training; no tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 档案学或相关专业学士/硕士学位 | 德国大学 | 必备 | 通常要求档案学、图书馆学或历史学等专业学历 |
-| Volontariat（实习生培训） | 档案馆 | 可选 | 许多公共档案馆要求2年Volontariat作为资质认证 |
-| 资质认证（Anerkennung） | 德国联邦外交部或州主管部门 | 必备 | 对于非欧盟学历，需通过资质认证评估 |
+| Bachelor's or master's degree in archival science or related field | German university | Required | Usually requires a degree in archival science, library science, or history. |
+| Qualification recognition (Anerkennung) | German Federal Foreign Office or state authorities | Required | For non-EU qualifications, a qualification assessment is required |
+| Volontariat (internship training) | Archives | Optional | Many public archives require 2 years of Volontariat as a qualification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。德国档案管理岗位需求稳定，但竞争较大。数字化趋势增加对电子档案管理人才的需求，但总体岗位数量有限。多数职位在公共部门，受预算影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Job demand for archive management in Germany is stable but competitive. Digital trends increase demand for e-archive professionals, but overall positions are limited. Most roles are in the public sector, affected by budgets.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 通常为TVöD E9-E10级别 |
-| 中级（3-7年） | $40,000~$52,000 | TVöD E11-E12 |
-| 高级（7年以上） | $52,000~$65,000 | TVöD E13及以上或领导职位 |
+| Median salary | $52,500 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Typically TVöD E9-E10 level |
+| Mid-level (3–7 years) | $40,000~$52,000 | TVöD E11-E12 |
+| Senior (7+ years) | $52,000~$65,000 | TVöD E13 and above or leadership positions |
+| average salary | $56,916 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级档案管理员可晋升为部门主管或首席档案员，也可转向数字档案管理或文化遗产管理。需持续学习数字化技术及数据保护法规。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
+
+Junior file managers can advance to department heads or chief archivists, and can also transition to digital archive management or cultural heritage management. Continuous learning of digital technology and data protection regulations is required.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and indexing: AI automatically assigns metadata tags and classification numbers based on content
+- OCR text recognition and basic proofreading of digital archives
+- Simple keyword-based search and file retrieval
+- Automated monitoring and alerts for routine preservation status
+- Generating standardized descriptions and summaries
+
+**Where AI augments the role:**
+
+- Using AI tools for large-scale archival content mining and correlation analysis
+- Improve accuracy and semantic understanding of archival retrieval through natural language processing
+- Using machine learning to assist in appraising archival value and prioritizing preservation
+- Use automated workflows to accelerate digital restoration and format migration.
+- Uses AI to generate preliminary curation reports and exhibition suggestions
+
+**Human moat:**
+
+- High-level archival appraisal and value judgment (e.g., determining which materials are worth permanent preservation)
+- Handle ambiguous, damaged, or extremely unstructured physical archives.
+- Complex communication and ethical decision-making with donors and researchers.
+- Interdisciplinary knowledge integration and historical background interpretation.
+- Develop and oversee rules and quality assurance of AI systems
+
+**Skills to build:**
+
+- Python data analysis and AI tool integration (e.g., text classification with TensorFlow)
+- Digital curation and metadata standards (e.g., Dublin Core, EAD).
+- Database management and SQL queries
+- Basic statistics and data visualization (for analyzing usage patterns)
+- Project Management and AI Ethics Awareness
+- Familiar with cloud platforms and digital preservation technology
+
+**Key growth areas:**
 
 - Digital Archiving
 - Records Management
@@ -65,69 +101,68 @@ Archivists collect, organize, preserve, and provide access to archival materials
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历且年薪达门槛（2024年约43,800欧元，紧缺职业约39,683欧元）的申请人。档案管理非典型紧缺，需达标。可能需资质认证。 |
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于具备认可职业资格（如档案学学位）的技术工人。需获得德国雇主合同，并通过资质认证。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许持6个月签证在德找工作。需证明语言能力和足够生活资金。适合本科学历及以上申请人。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with high education and annual salary meeting the threshold (approx. €43,800 in 2024, approx. €39,683 for shortage occupations). File management is not typical shortage, must meet criteria. Qualification recognition may be required. |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled workers with recognized professional qualifications (e.g., a degree in archival science). Requires a German employer contract and qualification recognition. |
+| Subclass Job Seeker (Job Seeker Visa) | Permits holders to stay in Germany for up to 6 months to seek work. Must prove language proficiency and sufficient living funds. Suitable for applicants with at least a bachelor's degree. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Archivist？**
-- 喜欢历史与文献整理
-- 细心有条理，注重细节
-- 对数字化和数据保护有兴趣
-
-**谁不适合学Archivist？**
-- 追求高薪与快速晋升
-- 不喜欢办公室室内工作，偏好动手操作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes history and document organization
+- Meticulous and organized, with attention to detail
+- Interested in digitalization and data protection
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Dislikes indoor office work, prefers hands-on tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an archivist?**
+A: Entry-level approx. €32,000-40,000, mid-level €40,000-52,000, senior up to €65,000. Public sector salaries follow TVöD; private sector may be slightly higher.
+
+**Q: How to become an archives manager in Germany with a non-EU degree?**
+A: Requires qualification recognition (Anerkennung), usually involving comparison of qualifications with German archival science degrees. Significant differences may require supplementary courses or training. German proficiency must be C1.
+
+**Q: What are the career development pathways for an archivist?**
+A: Can be promoted from junior archivist to department head, chief archivist, or transition to digital archive management, cultural heritage protection, data management, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Archivist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for archivists?**
-答：Entry-level: €32,000-40,000; mid-level: €40,000-52,000; senior: up to €65,000. Public sector salaries follow TVöD; private sector may be slightly higher.
-
-**问：How can non-EU qualifications become an archivist in Germany?**
-答：Requires recognition (Anerkennung) of foreign qualifications, usually compared to a German degree in archival science. If gaps exist, additional courses or training may be needed. German language proficiency C1 required.
-
-**问：What are the career progression paths for archivists?**
-答：From junior archivist to department head, chief archivist, or transition to digital archiving, cultural heritage preservation, data management, etc.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

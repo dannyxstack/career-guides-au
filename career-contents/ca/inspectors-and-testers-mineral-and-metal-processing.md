@@ -1,59 +1,91 @@
-# Inspectors and testers, mineral and metal processing（Inspectors and testers, mineral and metal processing）职业分析 · 加拿大
+# Inspectors and testers, mineral and metal processing — career analysis · Canada
 
-**职业代码：94104 – Inspectors and testers, mineral and metal processing。**
+**Occupation code: 94104 (NOC)**
 
-Responsible for inspecting products, materials, and equipment in mineral and metal processing to ensure compliance with quality standards and safety regulations, typically performing sampling tests and defect detection on the production line.
+Responsible for inspecting products, materials, and equipment during mineral and metal processing to ensure compliance with quality standards and safety regulations, typically performing sampling tests and defect detection on the production line.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无固定时长 | —（通常要求高中文凭，必需） |
-| 职业培训或大专文凭 | 1-2年 | $5,000~$15,000（如工业或冶金技术相关课程，建议但非必需） |
+| High school graduation | No fixed duration | $0~$0 (High school diploma typically required, essential) |
+| Vocational training or associate degree/diploma | 1-2 years | $5,000~$15,000 (Courses related to industrial or metallurgical technology, recommended but not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 各省教育部 | 必备 | 最低学历要求 |
-| 在职培训 | 雇主 | 可选 | 通常需要几个月至一年的在职培训 |
-| 加拿大通用安全检查认证 | 各省安全机构 | 可选 | 如ISO或行业安全认证，有助于就业 |
+| High school diploma | Provincial education ministries. | Required | Minimum Education Requirement |
+| On-the-job training | Employer | Optional | Typically requires several months to one year of on-the-job training |
+| Canadian General Safety Inspection Certification | Provincial security agencies | Optional | certifications such as ISO or industry safety certifications are beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。加拿大矿业和金属加工业稳定，但自动化检测技术的普及可能影响初级岗位需求。熟练检验员仍受青睐，尤其是在资源大省如安大略、魁北克和不列颠哥伦比亚。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. Canada's mining and metal processing industry is stable, but the prevalence of automated inspection technology may affect demand for entry-level positions. Skilled inspectors are still sought after, especially in resource-rich provinces such as Ontario, Quebec, and British Columbia.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约$17-$22 |
-| 中级（3-7年） | $45,000~$60,000 | 时薪约$22-$30 |
-| 高级（7年以上） | $60,000~$75,000 | 时薪约$30-$38 |
+| Median salary | $54,579 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage approx. $17-$22 |
+| Mid-level (3–7 years) | $45,000~$60,000 | Hourly wage approx. $22-$30 |
+| Senior (7+ years) | $60,000~$75,000 | Hourly wage around $30-$38 |
+| average salary | $60,320 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级检验员可通过积累经验晋升为高级检验员或质量主管，部分可转岗至质量控制工程师或生产管理岗位。继续进修和考取认证有助于职业发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Mineral and metal processing inspectors and testers face high automation risk; AI vision and sensors will take over most repetitive quality inspection tasks, but complex interpretation and anomaly handling still require human judgment. Entry-level positions are significantly reduced.
+
+Junior inspectors can advance to senior inspectors or quality supervisors through experience, and some can transition to quality control engineer or production management roles. Further study and certification support career development.
+
+**Tasks most exposed to AI:**
+
+- Machine vision-based surface defect detection
+- Using automated gauges for dimensional and tolerance measurement.
+- Record and archive inspection data
+- Simple pass/fail assessment
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of defect patterns improves detection accuracy.
+- Automatically generate inspection reports, reducing paperwork
+- Integrating sensor data for real-time quality monitoring
+- Optimizing sampling plans using machine learning
+
+**Human moat:**
+
+- Judgment experience in handling non-standard, complex, or rare defects
+- Root cause analysis and troubleshooting of process anomalies
+- Communicate and coordinate with the production team to drive quality improvement
+- Understanding and flexible application of standards and regulations
+
+**Skills to build:**
+
+- Proficiency in operating and programming automated inspection systems (machine vision, sensors)
+- Data analysis and statistical process control (SPC)
+- understand AI/machine learning basics
+- Equipment maintenance and troubleshooting skills.
+- Cross-department communication and quality management tools (e.g., Six Sigma)
+
+**Key growth areas:**
 
 - Quality Control
 - Mineral Processing
@@ -62,68 +94,67 @@ Responsible for inspecting products, materials, and equipment in mineral and met
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 适合有相关工作经验且语言达标的申请人，通过综合评分系统（CRS）筛选。 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对矿业或制造业的省提名项目，如安大略、魁北克、BC省。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但该职业并非高需，LMIA获批难度中等。 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Suitable for applicants with relevant work experience and language proficiency, selected through the Comprehensive Ranking System (CRS). |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for mining or manufacturing, such as Ontario, Quebec, and BC. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but this occupation is not in high demand, making LMIA approval moderately difficult. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inspectors and testers, mineral and metal processing？**
-- 注重细节、有耐心的人士
-- 愿意在工业环境中工作（可能涉及噪音、高温）
-- 有机械或材料知识背景者
-
-**谁不适合学Inspectors and testers, mineral and metal processing？**
-- 对重复性工作缺乏耐心者
-- 不喜欢体力劳动或工厂环境者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and patient individuals
+- Willing to work in an industrial environment (may involve noise, high temperatures)
+- Those with a background in mechanical or materials knowledge
+
+**Who is not suited**
+- Impatient with repetitive work
+- Those who dislike manual labor or factory environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for this occupation?**
+A: Entry-level annual salary approx. CAD 35,000-45,000, senior up to CAD 60,000-75,000, but growth is limited; significant income increases typically require moving into management or technical roles.
+
+**Q: Is it easy for overseas applicants to immigrate to Canada?**
+A: This occupation can immigrate through EE or PNP, but it is not a high-demand occupation, and the CRS score requirement is high. Having a Canadian employer sponsor or provincial nomination makes it easier.
+
+**Q: Is this occupation easily replaced by automation?**
+A: Some inspection tasks can be replaced by automated vision systems, but complex judgments and sampling still require human input, so there is some risk but roles won't disappear entirely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Inspectors and testers, mineral and metal processing的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for this occupation?**
-答：Entry-level annual salary is about CAD 35,000-45,000, and senior level can reach CAD 60,000-75,000, but growth is limited; transitioning to management or technical roles is needed for significant increase.
-
-**问：Is it easy for overseas applicants to immigrate to Canada?**
-答：This occupation is eligible for EE or PNP, but it is not in high demand, requiring high CRS scores. Having a Canadian job offer or provincial nomination makes it easier.
-
-**问：Is this occupation at risk of automation?**
-答：Some inspection tasks can be replaced by automated vision systems, but complex judgment and sampling still require human input, so the risk is moderate but not total.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

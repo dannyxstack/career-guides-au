@@ -1,130 +1,164 @@
-# Natural and Physical Science Professionals nec（Natural and Physical Science Professionals nec）职业分析 · 新西兰
+# Natural and Physical Science Professionals nec — career analysis · New Zealand
 
-**职业代码：234999 – Natural and Physical Science Professionals nec。**
+**Occupation code: 234299 (ANZSCO)**
 
-New Zealand needs these scientists for research, environmental monitoring, and consulting. Skilled Migrant Category or Green List routes possible, but employer sponsorship or qualifications/salary thresholds apply.
+Food technologists work in food companies, research institutions, and government agencies, developing new products, improving processes, and ensuring food safety. The New Zealand food technology industry has stable demand, and residency can be obtained through skilled migration or Green List pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士 | 3年 | $35,000~$55,000（国际学生年学费） |
-| 硕士 | 1-2年 | $40,000~$65,000（国际学生年学费） |
-| 博士 | 3-4年 | $7,000~$9,000（博士学费低，约7000-9000纽元/年） |
+| Bachelor's degree | 3 years | $32,000~$45,000 (University of Auckland, Massey University, etc., international student tuition fees) |
+| Master's degree | 1-2 years | $40,000~$55,000 (Can accelerate career, has research projects) |
+| Doctoral degree (PhD) | 3-4 years | $6,500~$8,000 (New Zealand PhD tuition is low, same for international and domestic students, about NZD 6,500-8,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关科学学士学位 | 新西兰大学 | 必备 | 理学士，主修生物/化学/环境科学等 |
-| 硕士学位（推荐） | 新西兰大学 | 可选 | 硕士增加竞争力且满足技术移民要求 |
-| 雅思6.5（职业注册或移民） | IELTS | 必备 | 技术移民要求总分6.5 |
+| Bachelor's degree in Food Science/Technology | Massey University, University of Auckland, etc. | Required | Core qualifications, must include chemistry, microbiology, and engineering subjects |
+| Officially recognized by New Zealand Food Safety | New Zealand Ministry for Primary Industries (MPI) | Optional | May be required for exporting food products subject to regulation |
+| IELTS 6.5 (Academic) | IDP/British Council | Optional | Skilled migration requirements, no band less than 6.0 |
+| Member of the New Zealand Food Science and Technology Association (NZFST) | NZFST | Optional | Not mandatory but beneficial for employment and professional network |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,500。新西兰生物、化学、环境科学领域持续增长，因农业科技、环境保护和生物安全需求增加。但职位竞争中等，需硕士以上或丰富经验。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,500. New Zealand's food technology industry continues to grow, driven by export demand and product innovation. Job opportunities are concentrated in Auckland, Christchurch, and Wellington. Expected moderate employment growth over the next 5 years, but with fewer qualified applicants, competition is relatively manageable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 实验员或助理研究员 |
-| 中级（3-7年） | $75,000~$100,000 | 资深科学家或项目负责人 |
-| 高级（7年以上） | $100,000~$140,000 | 首席科学家或研究经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Entry-level positions in food factories or laboratories. |
+| Mid-level (3–6 years) | $65,000~$85,000 | Experienced technician or team leader |
+| Senior (6+ years) | $85,000~$110,000 | Senior positions such as R&D manager, quality manager |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级科学家多从事实验室或野外工作，可晋升高级科学家、研究组长或转入管理层。政府与私营部门均有发展空间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
+
+Junior food technologists typically start in laboratory or production support roles, and can advance to senior technologist, R&D manager, or quality assurance manager with experience. Those with a PhD or management experience are more likely to enter leadership positions or become independent consultants.
+
+**Tasks most exposed to AI:**
+
+- Repetitive physicochemical index testing and automated data analysis report generation
+- Template-based writing of regulatory compliance documents and tracking of standard updates
+- Parameter scanning and screening in simple recipe optimisation
+- Anomaly Monitoring and Early Warning of Sensor Data in Production Environments
+
+**Where AI augments the role:**
+
+- Use AI to assist in screening new materials and predicting formulations, accelerating R&D iteration
+- Analyzing consumer preference data via machine learning to guide product flavor design
+- AI-driven supply chain optimization ensures consistent raw material quality
+- Intelligent sensory analysis system aids subjective tasting, providing objective data support
+
+**Human moat:**
+
+- Food flavor tuning and subjective evaluation based on human senses
+- Creative product concept development and cross-departmental communication collaboration
+- On-site judgment and decision-making in food safety emergencies
+- Building trust relationships and business negotiations with clients and suppliers
+- Localization adjustments for understanding complex cultural dietary preferences
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning (e.g., scikit-learn)
+- AI-assisted formulation design tools (e.g., ChemAI, Intelligent Formulation)
+- Sensor data analysis and basic IoT knowledge
+- Digital management system operation for food regulations
+- Data visualisation tools (e.g., Tableau, Power BI).
+- Knowledge of sustainable packaging and clean label trends
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
-- Environmental Science
-- Biotechnology
+- Science & Innovation
+- Export Growth
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需6分制：学历（硕士5分/博士6分）+工作经验或薪资积分，岗位在ANZSCO Level 1-3 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事相关职业，连续工作2年后可申请居留，时薪需达中位数（2023年约$29.66） |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主offer，时薪达中位数，最长3年，可后续转居留 |
+| Subclass Green List T2 (Green List Work to Residence) | After working for 2 years, you can apply for residence, requiring an hourly wage of at least NZ$29.66 (2023 standard), and the employer must be accredited |
+| Subclass SMC (Skilled Migrant Category) | 6-point system, must achieve 6 points (e.g., 3 points for qualification + 3 points for work experience), require hourly wage at least $29.66 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, renewable, requires employer sponsorship |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Natural and Physical Science Professionals nec？**
-- 生物学/化学/环境科学硕士以上学历者
-- 有研究经验且适应实验室/野外工作
-- 愿意在新西兰长期发展并满足移民薪资要求
-
-**谁不适合学Natural and Physical Science Professionals nec？**
-- 仅本科学历且无工作经验
-- 不愿从事重复性实验或田间工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holding a degree in food science, chemistry, or biochemistry
+- Passionate about food production processes and food safety
+- Willing to work in food industry hubs such as Auckland and Christchurch
+
+**Who is not suited**
+- Dislike laboratory or factory environment
+- Lack of patience for meticulous and rigorous compliance work
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary growth potential for food technologists?**
+A: Starting salary approx. $50,000-$65,000 NZD, intermediate up to $65,000-$85,000, senior roles like R&D manager $85,000-$110,000. Higher with PhD or management experience.
+
+**Q: How can food technologists immigrate to New Zealand via the Green List?**
+A: Food Technologist is a Green List Tier 2 (Work to Residence) occupation. Requires a job offer from an accredited employer, an hourly wage of at least $29.66, and after working for 2 years, you can apply for residence.
+
+**Q: Which New Zealand cities have the highest demand for food technologists?**
+A: Auckland, Christchurch, and Wellington are main demand centers due to large food processing plants and R&D centers. However, some entry-level positions also appear in Dunedin and Hamilton.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Natural and Physical Science Professionals nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Natural and Physical Science Professionals nec in New Zealand?**
-答：Entry-level salary is around NZ$55,000-$75,000; mid-level NZ$75,000-$100,000; senior NZ$100,000-$140,000 per year.
-
-**问：What are the immigration pathways for this occupation?**
-答：Skilled Migrant Category (6-point system: Master's degree 5 points plus work or salary points) or Green List Tier 2 (work 2 years to residence). Requires job offer and hourly wage at median.
-
-**问：Is this occupation in shortage in New Zealand?**
-答：Yes, it is on the Green List, indicating long-term shortage, though specific roles may require a master's degree or higher.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

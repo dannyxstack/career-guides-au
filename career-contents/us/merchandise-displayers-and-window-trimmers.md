@@ -1,62 +1,98 @@
-# Merchandise Displayers and Window Trimmers（Merchandise Displayers and Window Trimmers）职业分析 · 美国
+# Merchandise Displayers and Window Trimmers — career analysis · United States
 
-**职业代码：27-1026 – Merchandise Displayers and Window Trimmers。**
+**Occupation code: 27-1026 (SOC)**
 
-Plan and erect commercial displays, such as those in windows and interiors of retail stores and at trade exhibitions, to attract customers and promote merchandise.
+Responsible for planning and building retail store windows and interior commercial displays, as well as trade show booths, to attract customers and promote merchandise, a key role in retail visual merchandising.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常最低要求） |
-| 副学士学位（视觉营销/零售设计） | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位（营销/设计） | 4年 | $40,000~$120,000（公立大学四年学费） |
+| High school diploma | 0 years | $0~$0 (Typically minimum requirements) |
+| Associate degree (Visual Merchandising/Retail Design) | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor degree (Marketing/Design) | 4 years | $40,000~$120,000 (Four-year tuition at a public university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 各州机动车辆管理局 | 可选 | 若需驾驶卡车运输大型陈列道具，可能需要；非普遍要求 |
-| 职业安全与健康培训（OSHA） | 美国劳工部 | 可选 | 工作涉及梯子、工具等安全操作，部分雇主强制要求 |
-| 零售视觉营销认证 | 零售行业组织如SMEI | 可选 | 自愿性认证，有助于提升竞争力 |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | May be required if driving a truck to transport large display props; not a general requirement |
+| Occupational Safety and Health training (OSHA) | U.S. Department of Labor | Optional | Work involves safe operation of ladders, tools, etc.; some employers mandate it. |
+| Retail visual merchandising certification | Retail industry organizations such as SMEI | Optional | Voluntary certification, helps enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 56,000。美国BLS预计2022-2032年该职业就业增长约5%，与所有职业平均增速持平。电商发展使实体店更注重沉浸式体验陈列，但预算限制可能抑制岗位数量。
+**Job demand: medium (★★★☆☆).** National workforce approx. 56,000. The US BLS projects employment growth of about 5% from 2022-2032 for this occupation, similar to the average for all occupations. E-commerce development makes physical stores focus more on immersive displays, but budget constraints may limit positions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$38,000 | 助理陈列师或零售店员转岗 |
-| 中级（3-7年） | $38,000~$52,000 | 独立陈列师 |
-| 高级（7年以上） | $52,000~$75,000 | 区域视觉经理或创意总监 |
+| Median salary | $39,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $27,000~$38,000 | Assistant visual merchandiser or retail staff transitioning |
+| Mid-level (3–7 years) | $38,000~$52,000 | Independent visual merchandiser |
+| Senior (7+ years) | $52,000~$75,000 | Regional visual manager or creative director |
+| average salary | $42,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从初级陈列助理或零售店员起步，积累经验后可晋升为高级陈列师、区域视觉经理，或转向会展设计、创意总监等职位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on visual merchandisers is mixed: automated design tools and virtual fitting rooms will compress basic layout and material processing, but the pursuit of 3D space, material lighting, and dreamlike experiences in physical stores makes human creativity and cross-sensory coordination irreplaceable.
+
+Usually start as junior display assistant or retail staff, gain experience to advance to senior display designer, regional visual manager, or transition to exhibition design, creative director, etc.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard display plans: AI outputs shelf layout based on product data and foot traffic heatmaps
+- Automates color matching and scale annotation: AI automatically matches from brand color library and outputs construction drawings
+- Virtual arrangement and modification: AI can quickly generate 3D renderings of different display effects, replacing manual model adjustments
+- List-based material management: AI automatically calculates required display item quantities and sizes and generates purchase lists.
+- Promotional display rotation: AI automatically generates seasonal display schedules based on inventory and sales data.
+
+**Where AI augments the role:**
+
+- Data-driven decision making enhanced: AI analyzes consumer eye movement, dwell time, and shopping paths to assist merchandisers in optimizing key display areas.
+- Inspiration acceleration: AI extracts moodboards from vast visual art images to quickly generate storyline options
+- Real-time experiment adjustment: AI combined with digital twin scenarios, visual merchandisers can quickly iterate different display combinations for crowd flow effects
+- Customized scenario design: AI generates differentiated display themes based on store customer profiles for display artists to fine-tune and implement.
+- Multi-dimensional collaborative creation: AI automatically generates prop structure diagrams and material suggestions, allowing display designers to focus more on creative expression.
+
+**Human moat:**
+
+- Cross-sensory experience design: comprehensive atmosphere creation combining scent, music, touch, lighting, and spatial rhythm
+- Brand story narrative ability: translating abstract brand concepts into concrete, tangible display narrative chains
+- Real material and light control: intuitive judgment of physical material texture, color temperature, reflection, and other details
+- Spontaneous creativity and on-the-spot adjustments: quickly make creative display changes based on visitor flow and product changes.
+- Emotional customer insights: understanding connotations, taboos, and emotional triggers of consumers across different cultures
+
+**Skills to build:**
+
+- AI-assisted design tools: mastering prompt and iterative tuning for Midjourney/Canva/3D space generators
+- Data visualization: ability to interpret retail heatmaps, conversion rate reports and convert them into display decisions
+- Digital twin spatial design: proficient in Unity/Unreal or SketchUp to build virtual stores and simulate customer flow
+- Cross-media storytelling: combining short videos, social media, and offline displays to create online-offline integrated experiences
+- Material and lighting engineering: in-depth study of optics, color psychology, and new environmentally friendly materials
+- Business strategy understanding: mastering retail P&L analysis, inventory turnover, and consumer shopping psychology models
+
+**Key growth areas:**
 
 - Visual Merchandising
 - Retail Experience
@@ -65,66 +101,68 @@ Plan and erect commercial displays, such as those in windows and interiors of re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要学士学位且与职位专业相关，但通常陈列师不满足专业职位要求，雇主极少支持。理论上可尝试，但成功率很低。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 需在零售设计领域有杰出成就，如获奖或媒体报道，极少数顶尖陈列师可能符合。 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大或墨西哥公民，且职业须在NAFTA清单内，陈列师不在列，不可用。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree related to the position, but visual merchandisers typically do not meet professional position requirements, and employers rarely sponsor. Theoretically possible but success rate is very low. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Requires outstanding achievements in retail design, such as awards or media coverage; only a very few top visual merchandisers may qualify. |
+| Subclass TN (TN NAFTA Professional) | Only applies to Canadian or Mexican citizens, and the occupation must be on the NAFTA list; display artists are not listed, so not eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Merchandise Displayers and Window Trimmers？**
-- 具有艺术和审美品味，擅长视觉构图与色彩搭配的人
-- 动手能力强，喜欢搭建布景和手工制作的人
-- 能适应快节奏零售环境，注重细节与创意执行的人
+**Who is suited**
+- People with artistic and aesthetic taste, good at visual composition and color matching
+- People with strong hands-on skills who enjoy building sets and crafts
+- Those who can adapt to a fast-paced retail environment, with attention to detail and creative execution
 
-**谁不适合学Merchandise Displayers and Window Trimmers？**
-- 极度追求高薪且希望快速晋升的人
-- 需要雇主担保移民美国的人
+**Who is not suited**
+- Those who highly pursue high salary and rapid promotion
+- People who need employer sponsorship to immigrate to the US.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for visual merchandisers?**
+A: Entry-level annual salary approx. USD 27,000–38,000, mid-level USD 38,000–52,000, senior USD 52,000–75,000. Below average in retail sector; management roles pay higher.
+
+**Q: Can a visual merchandiser immigrate to the US on a work visa?**
+A: Very difficult. This occupation usually does not meet the professional requirements for H-1B, and employers rarely provide sponsorship. Only a few exceptional individuals may qualify for O-1 visa, but the threshold is extremely high.
+
+**Q: What are the career development paths for a visual merchandiser?**
+A: Can advance from assistant visual merchandiser to senior visual merchandiser, then to regional visual manager or creative director; can also shift to retail management, event planning, or exhibition design.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Merchandise Displayers and Window Trimmers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for merchandise displayers?**
-答：Entry-level: $27k-$38k; mid-level: $38k-$52k; senior: $52k-$75k USD annually. Below average for retail, higher for managers.
-
-**问：Can merchandise displayers immigrate to the US via work visa?**
-答：Very difficult. It generally does not qualify as a specialty occupation for H-1B. Only exceptional individuals may use O-1 visa, which has high requirements.
-
-**问：What are the career advancement paths for merchandise displayers?**
-答：Progress from assistant to senior displayer, then to regional visual manager or creative director. Also possible to move into retail management, event planning, or exhibition design.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

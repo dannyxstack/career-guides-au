@@ -1,59 +1,94 @@
-# Building and Engineering Technicians nec（Building and Engineering Technicians nec）职业分析 · 新西兰
+# Building and Engineering Technicians nec — career analysis · New Zealand
 
-**职业代码：312999 – Building and Engineering Technicians nec。**
+**Occupation code: 312999 (ANZSCO)**
 
-Building and Engineering Technicians nec in New Zealand provide technical support in drafting, site supervision, material testing, and construction coordination, with residency pathways via Green List or Skilled Migrant Category.
+Technical support roles in New Zealand construction and engineering, responsible for drafting, site supervision, material testing, and construction coordination. Can apply for residency through the Green List or Skilled Migrant Category; employment demand is stable.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰文凭（6级） | 2年 | $20,000~$35,000（理工学院学费，国际生较高） |
-| 学士学位 | 3-4年 | $30,000~$45,000（大学学费，国际生约3-4万纽币/年） |
+| New Zealand Diploma (Level 6) | 2 years | $20,000~$35,000 (Polytechnic tuition fees, higher for international students) |
+| Bachelor's degree | 3-4 years | $30,000~$45,000 (University tuition fees: international students approx. NZD $30,000-$40,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程文凭（NZDE） | 理工学院 | 可选 | 常见入门资质 |
-| 注册工程技师（CPEng） | 新西兰工程局（Engineering New Zealand） | 可选 | 高级职位要求 |
-| 雅思6.5或同等英语 | IELTS等 | 必备 | 技术移民语言要求 |
+| IELTS 6.5 or equivalent English. | IELTS, etc. | Required | Language requirements for skilled migration |
+| New Zealand Diploma in Engineering (NZDE) | Polytechnic institute | Optional | Common entry-level qualification |
+| Registered Engineering Technologist (CPEng) | Engineering New Zealand | Optional | Senior position requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。新西兰建筑与基础设施行业持续增长，住房短缺和基建投资推动需求。预计未来5年就业增长稳定，尤其在奥克兰和基督城。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. New Zealand's construction and infrastructure industry continues to grow, with housing shortages and infrastructure investment driving demand. Employment growth is expected to be stable over the next five years, especially in Auckland and Christchurch.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 毕业生起薪约5.5-6万 |
-| 中级（3-7年） | $75,000~$95,000 | 有经验技术员薪资 |
-| 高级（7年以上） | $100,000~$130,000 | 高级或主管职位 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Graduate starting salary approx. 55,000-60,000 |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experienced technician salary |
+| Senior (7+ years) | $100,000~$130,000 | Senior or supervisor positions |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级技术员晋升为高级技术员或项目经理，需积累经验并取得注册资格。可转向建筑管理、工程监督或咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Routine drafting, materials testing, and documentation management for architectural and engineering technicians will be highly automated, but tasks requiring physical presence and decision-making, such as on-site supervision, construction coordination, and approval sign-offs, remain resilient. The role structure presents a mixed outlook of 'task diversion and role upgrade.'
+
+Advance from junior technician to senior technician or project manager by gaining experience and obtaining registration. Can transition into construction management, engineering supervision, or consulting.
+
+**Tasks most exposed to AI:**
+
+- Manually draw standard structural details and piping layouts using AutoCAD
+- Organize building material test reports and manually compare against specification parameters.
+- Manually recording daily progress on construction sites and filling paper forms
+- Extracting technical specifications from manufacturer manuals for procurement list creation
+- Manually number, distribute, and archive engineering change orders.
+
+**Where AI augments the role:**
+
+- Use AI generative design (e.g., Autodesk Revit's generative design) to quickly compare multiple structural options
+- Real-time monitoring of construction site safety and progress using drone imagery AI analysis
+- Automatically retrieve material lists and clash detection reports by querying the BIM model in natural language
+- Uses an AI-assisted cost estimation system to quickly provide budget deviation alerts based on historical data
+- Wearing AR glasses combined with AI voice assistant to instantly access drawings and maintenance records during inspections
+
+**Human moat:**
+
+- Temporarily resolve unstructured problems on complex construction sites (e.g., rerouting plans when encountering unknown underground utilities on site)
+- Cross-trade interest coordination and construction dispute mediation (requires trust and communication skills)
+- Responsible for engineering ethics review and final sign-off on AI-generated plans
+- Handling customer customization needs and design judgments within flexible specifications
+
+**Skills to build:**
+
+- Advanced BIM software operations (Revit, Navisworks) and parametric family creation
+- Use Python or Dynamo scripts for automated report generation and data cleaning
+- Drone aerial photography and AI image recognition for construction site progress monitoring
+- Operation and result verification of AI cost estimation tools (e.g., GenieBelt)
+- Use of AR/VR-assisted inspection and remote expert collaboration systems
+- Engineering data analysis and visualization (Power BI integrating BIM data)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Building and Engineering Technicians nec in New Zealand provide technical suppor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作2年后可申请居留，需相关学历和job offer |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，学历+工作经验+job offer可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，需匹配职业 |
+| Subclass Green List T2 (Green List Work to Residence) | Can apply for residency after 2 years of work, requires relevant qualifications and a job offer. |
+| Subclass SMC (Skilled Migrant Category) | Eligible under the 6-point system: qualification + work experience + job offer |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, requires matching occupation |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building and Engineering Technicians nec？**
-- 有工程或建筑背景的毕业生
-- 愿意从技术岗位积累经验再转向管理
-- 希望在基建行业长期发展的人
-
-**谁不适合学Building and Engineering Technicians nec？**
-- 厌恶现场工作或户外环境的人
-- 不愿考取执业注册或持续学习的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with engineering or architectural background
+- Willing to gain experience in technical roles before moving to management
+- People who wish to develop long-term in the infrastructure industry
+
+**Who is not suited**
+- People who dislike fieldwork or outdoor environments
+- Those unwilling to obtain professional registration or engage in continuous learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Architectural and Engineering Technicians in New Zealand?**
+A: Entry-level annual salary NZD 55,000-$70,000, mid-level NZD 75,000-$95,000, senior NZD 100,000-$130,000.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Listed under Green List Tier 2, eligible for residence after 2 years of work; also eligible for SMC 6-point system, requiring qualifications and work experience.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically requires a New Zealand engineering diploma (2 years) or a bachelor's degree in engineering (3-4 years).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building and Engineering Technicians nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Building and Engineering Technicians in NZ?**
-答：Entry-level NZD 55,000-70,000, mid NZD 75,000-95,000, senior NZD 100,000-130,000.
-
-**问：Is it easy to immigrate to NZ through this occupation?**
-答：It is on Green List Tier 2, eligible for work-to-residence after 2 years; also qualifies for SMC 6-point system.
-
-**问：What qualifications are required?**
-答：Typically a NZ Diploma in Engineering (2 years) or Bachelor of Engineering (3-4 years).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

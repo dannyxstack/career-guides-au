@@ -1,149 +1,176 @@
-# 电力系统工程师（Power Systems Engineer）职业分析 · 澳大利亚
+# Power Systems Engineer — career analysis · Australia
 
-**职业代码：233311 – Power Systems Engineer。**
+**Occupation code: 233311-PWR (ANZSCO)**
 
-电力系统工程师负责发电、输电、配电网络的规划、分析与运行，做潮流计算、短路与稳定性分析、保护整定和并网研究。澳洲能源转型（燃煤退役、风光储大规模并网）使该岗成为电力行业最紧缺的核心工程角色之一，广泛就业于电网公司、AEMO、可再生能源开发商和工程咨询公司。
+Power system engineers are responsible for planning, analyzing, and operating power generation, transmission, and distribution networks, conducting power flow calculations, short-circuit and stability analysis, protection setting, and grid connection research. Australia's energy transition (coal retirement, large-scale grid integration of wind, solar, and storage) has made this position one of the most in-demand core engineering roles in the power industry, widely employed by grid companies, AEMOs, renewable energy developers, and engineering consulting firms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Electrical/Power Engineering（电气/电力工程学士，4 年） | 4 年 | $40,000~$160,000（本地生 CSP 约 $40k；国际生约 $140k~$160k） |
-| 电力系统方向硕士 / 并网仿真专项培训（PSS/E、PowerFactory） | 1~2 年 | $30,000~$90,000（提升并网研究与稳定性分析竞争力） |
-| Engineers Australia 职业评估 / CPEng 特许工程师 | 3~6 个月评估；CPEng 数年 | $600~$3,000（技术移民职业评估必须；CPEng/NER 提升执业与薪资） |
+| Bachelor of Electrical/Power Engineering (4 years) | 4 years | $40,000~$160,000 (Local CSPs earn about $40k; International students pay about $140k~$160k) |
+| Master's degree in Power Systems / Specialized Training in Grid-Connected Simulation (PSS/E, PowerFactory) | 1~2 years | $30,000~$90,000 (Enhance competitiveness in grid connection research and stability analysis) |
+| Engineers Australia Career Assessment / CPEng Chartered Engineer | Assessment at 3~6 months; CPEng for several years | $600~$3,000 (Skilled migrant occupational assessment is required; CPEng/NER improves practice and salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可电气工程学位（Engineers Australia / 华盛顿协议） | Engineers Australia | 必备 | 执业与技术移民职业评估的基础 |
-| CPEng（Chartered Professional Engineer）/ NER 注册 | Engineers Australia | 可选 | 资深职位与咨询签字权常要求 |
-| 并网/稳定性仿真软件能力（PSS/E、DIgSILENT、PSCAD） | 厂商/项目实践 | 可选 | 并网研究岗的核心竞争力 |
+| Recognized Electrical Engineering Degree (Engineers Australia / Washington Agreement) | Engineers Australia | Required | The basis for professional and skilled migration career assessments |
+| CPEng (Chartered Professional Engineer) / NER registration | Engineers Australia | Optional | Senior positions and consulting signature rights are often required |
+| Grid-connected/stability simulation software capabilities (PSS/E, DIgSILENT, PSCAD) | Vendor/Project Practice | Optional | Core competitiveness of network-connected research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★½）。** 全国从业人数约 8,000。澳洲 2030 年可再生能源占比目标 82%，叠加燃煤机组退役与电网升级（Rewiring the Nation 200 亿澳元计划），Jobs and Skills Australia 将电气工程列为长期紧缺。电力系统工程师需求预计 2025-2035 保持两位数增长，资深并网/稳定性专家供不应求。
+**Job demand: very high (★★★★½).** National workforce approx. 8,000. Australia has set a 2030 target for 82% renewable energy, combined with coal-fired unit retirement and grid upgrades (Rewiring the Nation 20 billion AUD plan), with Jobs and Skills Australia listing electrical engineering as a long-term shortage. Demand for power system engineers is expected to maintain double-digit growth from 2025 to 2035, with senior grid-connected/stability experts in short supply.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~900 个 | 全国，含电力系统/并网/保护/电网规划工程师 |
-| Indeed | 200~600 个 | 含电网公司、AEMO、可再生能源开发商岗 |
-| LinkedIn | 400~1,000 个 | 咨询公司(AECOM/GHD/Aurecon)与开发商直招活跃 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业/初级（0~3 年） | $85,000~$110,000 | Glassdoor 均值约 $110k；起薪随电网/咨询公司 |
-| 中级（3~7 年） | $110,000~$150,000 | Jora/SEEK 广告均值约 $135k；墨尔本约 $140k |
-| 资深/主任（8 年+） | $150,000~$200,000 | ERI 均值约 $158k；Senior 约 $154k，专家可达 $194k+ |
+| Median salary | $132,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduation/Junior (0~3 years) | $85,000~$110,000 | Glassdoor averages about $110k; Starting salary varies with the grid/consulting company |
+| Intermediate Level (3~7 years) | $110,000~$150,000 | Jora/SEEK average ad value is about $135k; Melbourne is about $140k |
+| Senior/Director (8+) | $150,000~$200,000 | The average ERI is about $158k; Senior is about $154k, and experts can reach $194k+ |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★★）。** 2026 年风光储项目排队并网、电网调度复杂度激增，掌握 PSS/E、DIgSILENT PowerFactory、PSCAD 的并网研究工程师最抢手。AI 辅助潮流与故障分析，但电网安全稳定的责任判断仍由持证工程师承担，AI 替代风险低。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-driven simulation and automation tools will take over a large number of routine analytical tasks, but critical steps such as system planning, reliability decision-making, and grid connection approvals still rely on human experience and regulatory responsibility, resulting in a 'polarization' of positions: entry-level entry is squeezed, while high-end value is highlighted.
 
-- 可再生能源并网（风光大规模接入电网）
-- 输配电网规划与潮流/稳定性分析
-- 电网调度与 AEMO 市场建模
-- 储能与虚拟电厂(VPP)接入
-- 电网数字化与实时仿真(RTDS/DIgSILENT)
+In 2026, wind, solar, and storage projects will queue for grid connection and grid scheduling complexity will surge, making grid connection research engineers skilled in PSS/E, DIgSILENT PowerFactory, and PSCAD the most sought-after. AI assists in power flow and fault analysis, but the responsibility for grid safety and stability still falls on certified engineers, so AI replacement risks are low.
+
+**Tasks most exposed to AI:**
+
+- Conventional simulation calculations such as power flow, short circuit, and stability (AI automatically solves and generates reports)
+- Template report writing and data analysis in standard grid connection studies
+- Setting and verification of repeatability parameters in protection setting calculations
+- Manual cleaning, organization, and preliminary analysis of historical operational data
+- Reconstruction and reactive power optimization of distribution networks based on fixed rules
+
+**Where AI augments the role:**
+
+- Use AI surrogates to accelerate Monte Carlo simulations for millions of scenarios, improving risk assessment accuracy
+- Machine learning is used to predict new energy output and load, optimizing real-time scheduling and energy storage strategies
+- AI-assisted fault waveform analysis enables rapid identification of complex grid accident causes
+- Explore new protection schemes or control strategies under extreme operating modes based on reinforcement learning
+- AI-driven topology optimization tools help planners quickly screen high-value grid solutions
+
+**Human moat:**
+
+- The ultimate responsibility for the safe and reliable operation of power systems involves personal and grid safety
+- Complex engineering judgments and compromises—understanding the trade-offs between physical constraints, economics, policies, and interests
+- Communication and coordination capabilities among stakeholders (regulators, grid companies, developers).
+- A deep understanding of engineering ethics, compliance, standards, and accident lessons
+- Creative problem-solving ability when facing entirely new failure scenarios or extreme conditions
+
+**Skills to build:**
+
+- Python/data science: Proficient in using libraries such as PyPSA, Pandas, and Scikit-learn for grid data analysis and automation
+- AI/ML tools: Master the application of TensorFlow/PyTorch in grid prediction and anomaly detection
+- Electricity markets and policies: Learn about Australia's NEM rules, AEMO grid connection process, and renewable energy certificate mechanism
+- Advanced simulation skills: automation scripting and batch processing for PSS/E, PSCAD, and DIgSILENT PowerFactory
+- Systems Thinking and Decision-Making: Learning multi-objective optimization and uncertainty analysis (such as probability trends)
+- Soft skills: project management, technical writing, cross-team collaboration to lead complex integrated projects
+
+**Key growth areas:**
+
+- Renewable energy grid integration (large-scale wind and solar access)
+- Transmission & Distribution Grid Planning (Power Flow/Stability Analysis)
+- Grid Dispatch & AEMO Market Modeling
+- Energy Storage & Virtual Power Plant (VPP) Integration
+- Grid Digitalization & Real-Time Simulation (RTDS/DIgSILENT)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (SID)） | 雇主担保临居；能源/电网/数据中心/半导体企业担保紧缺工程师 |
-| Subclass 186（ENS 雇主提名） | 雇主担保永居（Direct Entry / TRT 通道） |
-| Subclass 189（技术独立） | 邀请制独立技术移民；需 Engineers Australia 职业评估（CDR 或认可学历） |
-| Subclass 190（州/领地提名） | 州提名加 5 分；工程类为多数州紧缺清单常客 |
-| Subclass 491（偏远地区担保） | 偏远地区州提名/亲属担保临居，满足条件后转 191 永居 |
+| Subclass 482 (Skills in Demand (SID)) | Employer-sponsored temporary residence; Energy/grid/data center/semiconductor companies guarantee urgently needed engineers |
+| Subclass 186 (ENS Employer Nomination) | Employer-Sponsored Permanent Residency (Direct Entry / TRT Pathway) |
+| Subclass 189 (Technical independence) | Independent skilled immigrants on an invitation-based basis; Requires Engineers Australia Professional Assessment (CDR or Recognized Qualification) |
+| Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
+| Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电力系统工程师？**
-- 电气/电力工程背景，愿深耕并网、稳定性或电网规划方向
-- 掌握或愿学 PSS/E、DIgSILENT PowerFactory、PSCAD 等仿真工具
-- 希望进入澳洲能源转型长期增长赛道并走技术移民
-- 细致、责任心强，能承担电网安全相关的工程判断
-
-**谁不适合学电力系统工程师？**
-- 数理/电路基础薄弱且不愿投入长期学习
-- 排斥法规、标准与安全合规为核心的工程工作
-- 期望短期速成高薪、不接受多年经验积累
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in electrical/power engineering, willing to focus on grid connection, stability, or grid planning directions
+- Master or be willing to learn simulation tools such as PSS/E, DIgSILENT PowerFactory, PSCAD, and others
+- Those hoping to enter Australia's long-term energy transition growth track and pursue skilled migration
+- Meticulous and highly responsible, able to undertake engineering judgments related to grid safety
+
+**Who is not suited**
+- Weak foundation in mathematics/circuits and unwilling to invest in long-term study
+- Engineering work centered on rejection regulations, standards and safety compliance
+- Expecting quick quick success and high salary without accepting years of accumulated experience
+
+---
+
+## 8. FAQ
+
+**Q: How much do power system engineers in Australia earn?**
+A: Entry-level is about $85k~$110k; Intermediate $110k~$150k (average ad value about $135k); Senior/Expert $150k~$200k+ (ERI average about $158k). Grid connection research and stability experts offer the highest premiums.
+
+**Q: Is this position easy to find in Australia?**
+A: Good. Energy transition (82% renewable target, coal-fired power plant retirement, Rewiring the Nation) makes electrical engineering long-term in demand. Seek has hundreds of relevant positions year-round; grid companies, AEMO, developers, and consulting firms continuously hire.
+
+**Q: Is an overseas electrical engineering degree recognized in Australia?**
+A: You must pass the Engineers Australia vocational assessment (degrees recognized by the Washington Agreement can be accredited through the accreditation pathway; otherwise, a CDR must be submitted). Once the assessment is passed, it can be used for 189/190 skilled migration and practice.
+
+**Q: Will power system engineers be replaced by AI?**
+A: Low risk. AI accelerates trends, faults, and scenario analysis, but the responsibility for grid safety and stability and grid connection compliance signatures still rest with certified engineers. AI is an enhancement, not a replacement.
+
+**Q: Can power system engineers perform skilled migration?**
+A: Yes. Electrical engineering (233311 family) in CSOL/MLTSSL can be achieved through 189 independent, 190 state nominations, or 482→186 employer sponsorship, making it a sought-after occupation with a clear pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Glassdoor AU | Power Systems Engineer 均值约 $110k；Senior 约 $154k |
-| Jora / SEEK AU | 广告薪资均值约 $135k；墨尔本约 $140k |
-| ERI SalaryExpert | 均值约 $158,869；区间 $109k~$194k |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★½） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极好（★★★★★） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-电力系统工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电力系统工程师工资多少？**
-答：初级约 $85k~$110k；中级 $110k~$150k（广告均值约 $135k）；资深/专家 $150k~$200k+（ERI 均值约 $158k）。并网研究与稳定性专家溢价最高。
-
-**问：这个岗位在澳洲好找工作吗？**
-答：很好。能源转型（82% 可再生目标、燃煤退役、Rewiring the Nation）使电气工程长期紧缺，SEEK 常年数百个相关岗位，电网公司、AEMO、开发商和咨询公司持续招聘。
-
-**问：海外电力工程学历澳洲认可吗？**
-答：需通过 Engineers Australia 职业评估（华盛顿协议认可学位可走认证通道，否则提交 CDR）。评估通过后即可用于 189/190 技术移民及执业。
-
-**问：电力系统工程师会被 AI 替代吗？**
-答：风险低。AI 加速潮流、故障和场景分析，但电网安全稳定的责任判断、并网合规签字仍由持证工程师承担，AI 是增强而非替代。
-
-**问：电力系统工程师能技术移民吗？**
-答：能。电气工程（233311 家族）在 CSOL/MLTSSL，可走 189 独立、190 州提名或 482→186 雇主担保，属紧缺职业，路径通畅。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

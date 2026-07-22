@@ -1,58 +1,94 @@
-# Electrical And Electronic Equipment Assembler（Electrical And Electronic Equipment Assembler）职业分析 · ES
+# Electrical And Electronic Equipment Assembler — career analysis · Spain
 
-**职业代码：8202 – Electrical And Electronic Equipment Assembler。**
+**Occupation code: 8202 (CNO)**
 
-Assembles electrical and electronic equipment such as circuit boards, control panels, and household appliances, working in manufacturing and production environments.
+Responsible for assembling electrical and electronic equipment such as circuit boards, control panels, and household appliances, working in manufacturing and production environments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约1500欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约2000欧元/年） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, private ones about 1500 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业培训文凭（Técnico en FP Grado Medio） | 西班牙教育部 | 可选 | 完成电气/电子装配相关专业 |
-| 电气安全认证 | 西班牙劳动与社会经济部 | 可选 | 从事高压或敏感设备组装可能需要 |
+| Diploma in Secondary Vocational Training (Técnico en FP Grado Medio) | Spanish Ministry of Education | Optional | Completed majors related to electrical/electronic assembly |
+| Electrical safety certification | Spanish Ministry of Labor and Social Economy | Optional | Engaging in assembly of high-voltage or sensitive equipment may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏高（★★★★☆）。** 全国从业人数约 45,210。西班牙工业4.0转型推动自动化需求，但低端装配岗位面临自动化替代风险；高端装配（如精密电子）需求稳定。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,210. Spain's Industry 4.0 transformation drives demand for automation, but low-end assembly positions face risks of automation substitution; demand for high-end assembly (such as precision electronics) remains stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 含组长津贴 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Includes the group leader allowance |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级装配工晋升为装配线组长或质检员；通过进修FP高级课程可转向工业电子维修或自动化技术员。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
+
+Promotion from junior assembler to assembly line leader or quality inspector; By completing advanced FP courses, you can transition to industrial electronics repair or automation technicians.
+
+**Tasks most exposed to AI:**
+
+- Manual soldering and component insertion of PCB boards
+- Repetitive wiring and bundling of harnesses
+- Fixed-rule-based circuit function testing
+- Visual inspection of product appearance
+- Material handling and simple sorting
+
+**Where AI augments the role:**
+
+- Use AI vision systems for high-precision component positioning and assembly guidance.
+- Use data analytics to predict equipment failures and optimise maintenance schedules
+- Simulates and tunes complex electronic systems using digital twins.
+- Use smart tools for real-time quality feedback and adjustments
+- AI-based production line scheduling optimization and resource allocation
+
+**Human moat:**
+
+- Flexible adjustments for non-standard or high-precision manual assembly
+- on-site diagnosis and creative resolution of complex faults
+- Team collaboration and cross-process communication coordination
+- Small-batch manual prototyping for new product trials
+- Comply with safety protocols and handle emergencies
+
+**Skills to build:**
+
+- Industrial robot programming and maintenance
+- Basic operation of PLC/SCADA systems
+- AI fundamentals and machine learning introduction
+- Data analysis tools (e.g., Python/Pandas)
+- IoT and integrated systems knowledge
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Industrial Automation
 - Electronics Manufacturing
@@ -61,64 +97,63 @@ Assembles electrical and electronic equipment such as circuit boards, control pa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇工作居留，由西班牙公司担保，需证明职位无法由本地人填补 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于高技能工人，需大学学历或同等经验，薪资门槛约33,908欧元（2024年） |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence, sponsored by a Spanish company, requires proof that the position cannot be filled by a local resident |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card is for highly skilled workers, requires a university degree or equivalent experience, with a salary threshold of approximately 33,908 euros (2024). |
 
-**PR难度：中等偏easy（★★☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical And Electronic Equipment Assembler？**
-- 动手能力强、注重细节的人
-- 愿意从事重复性流水线工作的人
-- 希望通过职业培训快速就业的人
-
-**谁不适合学Electrical And Electronic Equipment Assembler？**
-- 不喜欢重复劳动、追求创造力的人
-- 寻求高薪职业的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented people
+- Willing to work on repetitive assembly lines
+- Those who hope to find employment quickly through vocational training
+
+**Who is not suited**
+- People who dislike repetitive labor and pursue creativity
+- People seeking high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for electrical and electronic assemblers in Spain?**
+A: Entry-level is about 22,000-28,000 euros per year, intermediate 28,000-35,000 euros per year, and advanced up to 45,000 euros per year.
+
+**Q: How can foreigners immigrate to Spain as electrical and electronic assemblers?**
+A: You can apply for employment-based residence through company sponsorship, or apply for an EU Blue Card if you meet the salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等偏高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏easy（★★☆☆☆） |
-
-Electrical And Electronic Equipment Assembler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electrical and electronic equipment assemblers in Spain?**
-答：Entry-level: €22,000–€28,000/year, mid-level: €28,000–€35,000/year, senior: up to €45,000/year.
-
-**问：How can foreigners immigrate to Spain as electrical and electronic equipment assemblers?**
-答：Apply for a work permit with employer sponsorship or an EU Blue Card meeting salary thresholds.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

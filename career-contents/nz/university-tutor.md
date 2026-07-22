@@ -1,60 +1,96 @@
-# University Tutor（University Tutor）职业分析 · 新西兰
+# University Tutor — career analysis · New Zealand
 
-**职业代码：242112 – University Tutor。**
+**Occupation code: 242112 (ANZSCO)**
 
-Tutors in tertiary institutions teach small groups, mark assignments, and support professors. Limited permanent positions in NZ, but skilled migration possible via match to academic roles.
+Tutoring students, leading group discussions, and marking assignments in higher education institutions. University tutors in New Zealand are often on short-term contracts with limited immigration pathways, but can match skilled migration through academic skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $32,000~$45,000（年均学费，公立大学） |
-| 硕士学位 | 1-2年 | $40,000~$55,000（年均学费，研究型） |
-| 博士学位 | 3-4年 | $6,500~$8,000（博士学费较低，年均含津贴） |
+| Bachelor's degree | 3 years | $32,000~$45,000 (Average annual tuition, public university) |
+| Master's degree | 1-2 years | $40,000~$55,000 (Annual tuition fee, research-based) |
+| Doctoral degree (PhD) | 3-4 years | $6,500~$8,000 (Doctoral tuition fees are relatively low, with an average annual stipend) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位 | 新西兰大学 | 必备 | 通常要求硕士在读或完成，辅导本科课程 |
-| 博士学位 | 新西兰大学 | 可选 | 兼职导师可豁免，但全职需博士 |
-| 雅思7.0 (学术) | IELTS | 必备 | 非母语者需英语能力证明 |
+| Master's degree | New Zealand universities | Required | Typically requires current enrollment in or completion of a master’s degree, tutoring undergraduate courses. |
+| IELTS 7.0 (Academic) | IELTS | Required | Non-native speakers require proof of English proficiency. |
+| Doctoral degree (PhD) | New Zealand universities | Optional | Part-time tutors may be exempt, but full-time requires a PhD |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰大学导师职位多为临时兼职，全职常需博士学位。就业市场稳定但竞争激烈，留学生和博士后可获得短期工作，但长期居留难度大。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,500. University tutor positions in New Zealand are mostly temporary or part-time; full-time positions often require a PhD. The job market is stable but competitive; international students and postdocs can find short-term work, but long-term residency is difficult.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 兼职按比例折算 |
-| 中级（3-6年） | $70,000~$90,000 | 固定职位 |
-| 高级（6年以上） | $90,000~$110,000 | 高级导师或课程主任 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Part-time is prorated |
+| Mid-level (3–6 years) | $70,000~$90,000 | Fixed position |
+| Senior (6+ years) | $90,000~$110,000 | Senior mentor or course director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为高级导师、讲师或研究员。需积累教学经验和发表成果，部分转向高等教育管理。移民路径需雇主担保或博士学位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University tutor work is a mixed blessing: AI can automate assignment grading, basic Q&A, and course content generation, compressing traditional tasks; but core needs like personalized tutoring, academic writing guidance, and group interaction are amplified by AI, placing higher demands on tutors.
+
+Can be promoted to senior tutor, lecturer, or researcher. Need to accumulate teaching experience and publications, some move to higher education management. Immigration pathway requires employer sponsorship or a PhD.
+
+**Tasks most exposed to AI:**
+
+- Standardized assignment grading and scoring
+- Automatic FAQ responses
+- Create basic courseware and handouts
+- Initial generation of course outline
+- Statistical analysis of student grades
+
+**Where AI augments the role:**
+
+- Personalized learning path design and recommendation
+- Real-time Classroom Interaction and Discussion Facilitation
+- Guidance on critical thinking and research methods
+- AI-assisted academic writing and literature review
+- Precise intervention based on learning data.
+
+**Human moat:**
+
+- One-on-one in-depth tutoring and emotional support
+- Cross-disciplinary problem-solving skills
+- Academic integrity and ethical judgment.
+- Team collaboration and communication coordination
+- Curriculum Design and Teaching Innovation
+
+**Skills to build:**
+
+- Use and customization of AI educational tools (e.g., ChatGPT, Kahoot! AI)
+- Learning analytics and data-driven teaching
+- Online teaching platforms and blended learning methods
+- Interdisciplinary teaching skills (STEM/Humanities integration).
+- Academic writing and research methods guidance
+- Psychological counseling and learning motivation stimulation
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -63,65 +99,64 @@ Tutors in tertiary institutions teach small groups, mark assignments, and suppor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 通过6分制申请，需博士学位或高薪工作（中位数3倍） |
-| Subclass AEWV（Accredited Employer Work Visa） | 临时工签，适合聘用为大学导师的学术合同，最长3年 |
-| Subclass Post-study Work Visa（Post-study Work Visa） | 博士毕业后可获3年开放工签，从事导师职位 |
+| Subclass SMC (Skilled Migrant Category) | Application via the six-point system requires a PhD or high-salary job (3 times the median). |
+| Subclass AEWV (Accredited Employer Work Visa) | Temporary work visa, suitable for academic contracts as a university tutor, up to 3 years. |
+| Subclass Post-study Work Visa (Post-study Work Visa) | After PhD, you can get a 3-year open work permit and work as a supervisor/mentor |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学University Tutor？**
-- 学术背景扎实，追求教学与研究的平衡
-- 有博士学位或正在攻读，希望在新西兰积累经验
-- 能接受短期合同，适应高等教育体制的灵活用工
-
-**谁不适合学University Tutor？**
-- 寻求快速永久居留的申请人，导师职位非绿色清单
-- 偏好长期稳定全职工作的候选人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Solid academic background, seeking balance between teaching and research
+- Those with a PhD or currently pursuing one, looking to gain experience in New Zealand
+- Able to accept short-term contracts and adapt to flexible employment in higher education systems
+
+**Who is not suited**
+- Applicants seeking fast permanent residency, the supervisor position is not on the green list.
+- Candidates who prefer long-term stable full-time work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a university tutor?**
+A: Junior supervisor about NZD 55,000-70,000, full-time senior up to NZD 90,000-110,000, but most are part-time, so calculate proportionally.
+
+**Q: Can university lecturers immigrate to New Zealand?**
+A: Yes, but it's difficult. Tutor positions are usually not on the Green List, but you can apply via the Skilled Migrant Category (6-point system), requiring a PhD or high salary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-University Tutor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a university tutor?**
-答：Entry-level tutors earn NZD 55,000-70,000; senior tutors up to 90,000-110,000, but most are part-time.
-
-**问：Can a university tutor immigrate to New Zealand?**
-答：Yes, but it's not easy. The role is not on the Green List, but can qualify under Skilled Migrant Category (6-point system) with a PhD or high salary.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

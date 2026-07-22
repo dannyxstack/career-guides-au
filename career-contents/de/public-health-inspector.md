@@ -1,61 +1,97 @@
-# Public Health Inspector（Public Health Inspector）职业分析 · DE
+# Public Health Inspector — career analysis · Germany
 
-**职业代码：5332 – Public Health Inspector。**
+**Occupation code: 5332 (KldB)**
 
-Public health inspectors monitor and enforce public health standards, including food safety, drinking water quality, infectious disease prevention, and environmental hygiene. They conduct site inspections, sampling, and enforcement to protect public health.
+Public health inspectors monitor and enforce public health standards, including food safety, drinking water quality, infectious disease prevention, and environmental health. They conduct site inspections, sampling, and enforcement to protect public health.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 3-4年（大学） | —（公立大学仅收学期费） |
-| 高级专业培训（Aufstiegsfortbildung） | 1-2年 | $3,000~$10,000（如公共卫生监督员（Fachgesundheitsaufseher）证书） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,000 (Public universities charge only semester fees.) |
+| Advanced professional training (Aufstiegsfortbildung) | 1-2 years | $3,000~$10,000 (Such as the Public Health Supervisor (Fachgesundheitsaufseher) certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共卫生监督员资格证 | 德国各州卫生局 | 必备 | 完成双元制培训或相关学位后通过国家考试 |
-| 资质认证（Anerkennung） | 德国各州认可机构 | 必备 | 外国学历需通过等效性认证，可能要求语言B2或C1 |
-| 兽医或卫生工程学位 | 大学 | 可选 | 部分岗位要求相关学术背景 |
+| Public health supervisor qualification certificate | German state health authorities | Required | Complete dual system training or related degree and pass national exam |
+| Qualification recognition (Anerkennung) | Recognition authorities in German states | Required | Foreign qualifications require equivalency assessment, may require language B2 or C1 |
+| Degree in veterinary science or sanitary engineering | University | Optional | Some positions require relevant academic background |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。德国对公共卫生监督员的需求稳定，受政府监管和老龄化社会推动。岗位集中在卫生局、食品检验机构和环保部门。随着传染病防控意识增强和法规完善，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Demand for public health inspectors in Germany is stable, driven by government regulation and an ageing society. Jobs are concentrated in health departments, food inspection agencies, and environmental protection agencies. Employment prospects are good as infectious disease awareness and regulations improve.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 根据公务员工资表或Tarif |
-| 中级（3-7年） | $45,000~$55,000 | 含经验加成和职责扩大 |
-| 高级（7年以上） | $55,000~$70,000 | 部门主管或专家级 |
+| Median salary | $47,964 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | According to public service salary scale or Tarif |
+| Mid-level (3–7 years) | $45,000~$55,000 | Includes experience bonus and expanded responsibilities |
+| Senior (7+ years) | $55,000~$70,000 | Department head or expert level |
+| average salary | $51,528 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升路径包括从初级监督员到高级监督员、部门主管。可通过继续教育成为专业领域专家（如食品安全或水质管理）。部分人可晋升至地方卫生局管理层或进入联邦机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+On-site inspection and sampling by public health inspectors are easily replaced by automation, but regulatory judgment and community interaction are enhanced; overall mixed results.
+
+Career progression path includes from junior supervisor to senior supervisor, department head. Further education can lead to specialization in areas like food safety or water quality management. Some may advance to local health authority management or federal agencies.
+
+**Tasks most exposed to AI:**
+
+- Automated data analysis report generation
+- Temperature logging in routine food safety checks
+- Automatic water sampling and preliminary testing.
+- Automated document compliance review
+- Online training and certificate management
+
+**Where AI augments the role:**
+
+- Optimizing inspection routes and frequencies through AI early warning systems
+- Use image recognition to assist in identifying hygiene hazards
+- Real-time data dashboards improve decision-making efficiency
+- AI prediction models guide resource allocation for infectious disease prevention
+- On-site data entry via mobile devices and automatic report generation
+
+**Human moat:**
+
+- Comprehensive judgment in complex on-site environments
+- Communication and persuasion with owners and the public
+- Flexible interpretation and enforcement discretion of health regulations
+- Emergency coordination and leadership in crisis situations
+- Public health ethics and trust maintenance
+
+**Skills to build:**
+
+- Data analysis and visualization
+- Use of AI tools (e.g., image recognition, natural language processing)
+- Operation and maintenance of public health information systems
+- Digital on-site inspection technology
+- Cross-departmental communication and collaboration
+- Crisis Management and Emergency Response
+
+**Key growth areas:**
 
 - Public Health
 - Food Safety
@@ -64,69 +100,68 @@ Public health inspectors monitor and enforce public health standards, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于拥有大学学位且年薪达到门槛（2024年约43,800欧元，紧缺职业约40,000欧元）的申请人。公共卫生监督员通常可视为紧缺职业。 |
-| Subclass Skilled Worker (with（Skilled Worker Visa (Vocational Training)） | 适用于完成德国认可的双元制培训或外国同等资质，并经资质认证的申请人。需获得德国雇主的工作合同。 |
-| Subclass Chancenkarte (Opport（Opportunity Card） | 基于积分制的求职签证，允许在德国找工作时间一年。适合有一定资质和语言能力的人员。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with a university degree and an annual salary meeting the threshold (approx. €43,800 in 2024, €40,000 for shortage occupations). Public health inspectors are generally considered a shortage occupation. |
+| Subclass Skilled Worker (with (Skilled Worker Visa (Vocational Training)) | Applicable to those who have completed recognized German dual vocational training or equivalent foreign qualifications with credential recognition. A job contract with a German employer is required. |
+| Subclass Chancenkarte (Opport (Opportunity Card) | A points-based job-seeking visa allowing up to one year to find a job in Germany. Suitable for those with certain qualifications and language skills. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Health Inspector？**
-- 注重细节且责任心强的人
-- 对公共卫生和环境保护有热情的人
-- 喜欢实地工作和与人沟通的人
-
-**谁不适合学Public Health Inspector？**
-- 不愿接受频繁出差和现场检查的人
-- 对官僚程序和法规感到厌烦的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and responsible individuals
+- People passionate about public health and environmental protection
+- People who enjoy fieldwork and communicating with others
+
+**Who is not suited**
+- People unwilling to accept frequent travel and on-site inspections
+- People who are tired of bureaucratic procedures and regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a public health inspector?**
+A: Entry-level annual salary approx. €35,000-45,000, mid-level €45,000-55,000, senior €55,000-70,000. Salary is typically determined by public sector Tarif contracts or civil service pay scales and increases with experience.
+
+**Q: How can foreigners become public health supervisors in Germany?**
+A: You must first obtain a recognized German degree or dual training qualification and pass the credential assessment (Anerkennung). German B2/C1 level is usually required. You can then apply for an EU Blue Card or skilled migration visa to work in Germany.
+
+**Q: What educational background is needed to become a public health supervisor?**
+A: Typically requires completing a dual system training as a public health supervisor (3 years) or a relevant bachelor's degree (e.g., environmental health, food safety). Some positions also accept veterinary or engineering degrees. Foreign qualifications need to be certified.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Public Health Inspector为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for public health inspectors?**
-答：Entry-level annual salary is about €35,000-45,000, mid-level €45,000-55,000, senior €55,000-70,000. Salaries are typically based on public sector tariff contracts or civil service pay scales and increase with experience.
-
-**问：How can a foreigner become a public health inspector in Germany?**
-答：You need a German-recognized degree or vocational training qualification, and pass the equivalency assessment (Anerkennung). German at B2/C1 is usually required. Then apply for an EU Blue Card or skilled worker visa.
-
-**问：What education is needed to become a public health inspector?**
-答：Typically a 3-year dual training as a public health inspector or a bachelor's degree in related fields like environmental health or food safety. Some roles accept veterinary or engineering degrees. Foreign qualifications require recognition.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

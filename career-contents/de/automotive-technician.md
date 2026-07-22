@@ -1,133 +1,160 @@
-# Automotive Technician（Automotive Technician）职业分析 · DE
+# Automotive Technician — career analysis · Germany
 
-**职业代码：2521 – Automotive Technician。**
+**Occupation code: 2520 (KldB)**
 
-Automotive technicians diagnose, repair, and maintain passenger and commercial vehicles, including engines, electrical systems, and chassis. This trade offers stable demand and a well-established dual vocational training path in Germany.
+Automotive technicians diagnose, repair, and maintain mechanical, electrical, and electronic systems of passenger and commercial vehicles, including engines, transmissions, braking systems, and in-vehicle networks.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制学徒培训 | 3.5年 | —（学徒期间有津贴，通常无需学费） |
-| 进修：技术员学士 | 2年 | —（部分州免学费，考试费约500-3000欧元） |
+| Dual vocational education and training | 3.5 years | $0~$500 (Training companies cover tuition fees, and trainees receive a monthly allowance) |
+| Advanced training: Automotive Technology Master | 1-2 years (part-time) | $3,000~$6,000 (Can be funded by the Federal Employment Agency) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车技术专业培训毕业 | 德国工商总会 | 必备 | 双元制职业培训结业证书，必备 |
-| 资质认证（非欧盟） | 德国联邦职业资格认证机构 | 必备 | 海外学历需通过Anlaufstelle Anerkennung认证 |
-| 高级技师证书 | 德国工商总会 | 可选 | 可选，利于晋升管理岗 |
+| Automotive technician certification | German Chamber of Commerce and Industry (IHK) | Required | Qualifications from third countries require IHK certification; auxiliary exams may be exempted |
+| German B2 certificate | Goethe-Institut, etc. | Required | Required for work and professional qualification certification |
+| High voltage electrical safety training. | German Employer's Liability Insurance Association (BG) | Required | Essential for handling high-voltage systems in electric vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 385,000。德国汽车行业持续面临电动化和数字化转型，传统内燃机维修需求缓慢下降，但电动车和混合动力车辆维修技能需求上升。总体就业前景稳定，熟练技师尤其紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 340,000. The German automotive industry is undergoing an electric transformation, with declining demand for traditional internal combustion engine repairs but rising demand for high-voltage system maintenance technicians. Overall employment is stable, with high-skilled talent in particular shortage.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，入门级 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，有经验技师 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，含主管或技术专家 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on state and company size |
+| Mid-level (4-7 years) | $35,000~$45,000 | Includes professional experience and further study. |
+| Senior (8+ years / master) | $45,000~$60,000 | Including master positions or management responsibilities |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 学徒→熟练技师→工段主管/技术专家→服务经理或独立经营汽修店。也可通过继续教育成为汽车电气技师或技术诊断师。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
 
-- Electric Vehicle Repair
-- Digital Diagnostics
-- Mechatronics
-- Hybrid Systems
+Entry-level automotive technicians can advance to senior technician, workshop supervisor, or technical manager. With further study, they can become a Master Technician (Meister) or open their own repair shop.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
+
+- Electromobility
+- HV Battery Technology
+- Vehicle Diagnostics
+- Connected Cars
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 面向高等教育学历，年薪需达门槛，2024年约43,800欧元（短缺职业39,682欧元），汽车技师通常需认证学历 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于双元制职业培训或同等学历，需雇主担保和职业资格认证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德国找工，需证明语言能力和职业资格 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需德国学历或认证的职业资格 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Available to skilled workers holding German-recognized qualifications, requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows one-year entry for job seeking, suitable for those with professional qualifications or language advantages. |
+| Subclass EU Blue Card (EU Blue Card) | Only applicable when the position is recognized as expert/management level and the annual salary meets the threshold; usually not available for technicians. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automotive Technician？**
-- 喜欢动手操作和车辆机械维修的人
-- 有志成为技术专家或独立开店的人
-- 愿意接受持续技术培训（尤其电动化）的求职者
-
-**谁不适合学Automotive Technician？**
-- 对车辆维修无兴趣或不愿学习机械技术者
-- 不打算通过职业资格认证或学徒培训的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical problems.
+- Those interested in automotive technology and electrification
+- Young people or career changers willing to undergo dual vocational training
+
+**Who is not suited**
+- People who dislike physical labor or mechanical work
+- People who lack patience for precision measurement checks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for automotive technicians in Germany?**
+A: Pre-tax annual salary typically between €28,000 and €60,000; junior around €30,000, experienced technician up to €45,000, master technician or workshop supervisor up to €60,000.
+
+**Q: How can foreign automotive technicians obtain a German work visa?**
+A: Must first complete IHK professional qualification certification. Then can migrate through a skilled work visa (requires employer) or opportunity card (job-seeking year). Germany is in demand for this occupation, making visa approval easier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Automotive Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average starting salary for automotive technicians in Germany?**
-答：After dual vocational training, starting salary is around 28,000-35,000 EUR gross per year, depending on region and company size.
-
-**问：How can foreign qualifications become automotive technicians in Germany?**
-答：You need to go through the Anerkennung procedure (qualification assessment) by IHK. If incomplete, you may need adaptation training or exams. German language at B1-B2 level is typically required.
-
-**问：Are there career advancement opportunities for automotive technicians?**
-答：Yes, you can advance to workshop supervisor, diagnostic specialist, service advisor, or own a repair shop. Further training can lead to master craftsman certification.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

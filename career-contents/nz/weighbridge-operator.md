@@ -1,61 +1,95 @@
-# Weighbridge Operator（Weighbridge Operator）职业分析 · 新西兰
+# Weighbridge Operator — career analysis · New Zealand
 
-**职业代码：712922 – Weighbridge Operator。**
+**Occupation code: 712922 (ANZSCO)**
 
-Weighbridge Operators operate weighing equipment to measure cargo weight for trucks, trains, etc., record data and issue tickets, common in mining, agriculture, waste management and logistics. This occupation is not separately listed in ANZSCO, limiting skilled migration options.
+Weighbridge Operators operate weighing equipment to measure the weight of goods on vehicles such as trucks and trains, record data, and issue tickets, commonly found in mining, agriculture, waste management, and logistics industries. This occupation is not separately listed in ANZSCO and is typically classified under broader occupations, thus limited skilled migration opportunities.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（高中学历即可，通常不需要进一步教育） |
-| 在职培训 | 1-3个月 | —（雇主提供培训，可能需自费获叉车或卡车驾照） |
+| High school diploma | 3 years | $0~$0 (High school diploma is sufficient; usually no further education required.) |
+| On-the-job training | 1-3 months. | $0~$2,000 (Employer-provided training may require self-funded forklift or truck license) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作员证书 | 新西兰交通局 (NZTA) | 可选 | 非强制但有利 |
-| 危险货物证书 | WorkSafe NZ | 可选 | 若称重危险品需持有 |
-| 驾照（1类及以上） | NZTA | 必备 | 可能需驾驶卡车 |
+| Driver's license (Class 1 and above) | NZTA | Required | May need to drive a truck |
+| Forklift operator certificate | New Zealand Transport Agency (NZTA) | Optional | Not mandatory but advantageous |
+| Dangerous goods certificate | WorkSafe NZ | Optional | If weighing dangerous goods, must hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰物流和农业领域对地磅操作员需求稳定，但自动化趋势可能减缓就业增长。2024年Stats NZ数据显示约500人从业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. Demand for weighbridge operators is stable in New Zealand's logistics and agriculture sectors, but automation trends may slow job growth. In 2024, Stats NZ data shows about 500 people employed.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 新人，无经验 |
-| 中级（3-5年） | $50,000~$60,000 | 有经验 |
-| 高级（5年以上） | $60,000~$70,000 | 团队主管或兼做其他任务 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$50,000 | Newcomer, no experience |
+| Mid-level (3–5 years) | $50,000~$60,000 | Experienced |
+| Senior (5+ years) | $60,000~$70,000 | Team leader or combined with other tasks |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 通常从初级操作员做起，积累经验后可晋升为高级操作员或物流协调员。也可转向仓储管理或运输调度，需额外培训。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The core weighing and data recording tasks of weighbridge operators are easily replaced by automated systems, entry-level positions are significantly reduced, and future demand will shrink markedly.
+
+Usually start as a junior operator, gain experience to advance to senior operator or logistics coordinator. Can also move into warehouse management or transport scheduling with additional training.
+
+**Tasks most exposed to AI:**
+
+- Manually guide vehicles onto the weighbridge and read the weight
+- Record weighing data and input into system
+- Print/issue paper weight tickets
+- Checking consistency between goods and document information
+- Daily weighing equipment calibration and simple fault troubleshooting
+
+**Where AI augments the role:**
+
+- Use AI data analysis to optimize weighbridge scheduling, reducing vehicle waiting times.
+- Quickly identify weighing fraud or anomalies through remote monitoring systems combined with anomaly detection algorithms
+- Integrate ERP system for automatic reconciliation and report generation, improving data accuracy
+- Reducing equipment downtime using predictive maintenance tools
+
+**Human moat:**
+
+- Handling complex abnormal conditions (e.g., emergency manual operations during vehicle rollovers or system crashes)
+- Cross-departmental coordination and communication (liaising with drivers, warehouse, and logistics planners)
+- On-site safety management and compliance supervision (e.g., dangerous goods vehicle inspection)
+- Auditing and improvement feedback for automation systems
+
+**Skills to build:**
+
+- Remote monitoring and data management system operation for weighbridges
+- Basic data analysis (Excel, Power BI)
+- Equipment maintenance and basic fault diagnosis
+- Communication and customer service skills
+- Compliance and safety awareness (e.g., weighbridge regulations)
+- Learn to use AI-assisted tools (such as automated log analysis)
+
+**Key growth areas:**
 
 - Automation Impact
 - Stable Demand
@@ -64,65 +98,67 @@ Weighbridge Operators operate weighing equipment to measure cargo weight for tru
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，可在最低技能等级下工作 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，地磅操作员因ANZSCO不匹配通常不符合要求 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requires employer sponsorship, can work at minimum skill level |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category: weighbridge operators usually do not meet requirements due to ANZSCO mismatch |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Weighbridge Operator？**
-- 学历不高但希望稳定就业的人群
-- 喜欢户外和动手操作的人
-- 能适应轮班和重复性工作者
+**Who is suited**
+- People with low education but seeking stable employment
+- People who enjoy outdoor and hands-on work
+- Able to adapt to shift work and repetitive tasks.
 
-**谁不适合学Weighbridge Operator？**
-- 追求高收入和职业发展空间者
-- 不喜单调工作和恶劣天气条件者
+**Who is not suited**
+- Seek high income and career growth
+- Those who dislike monotonous work and harsh weather conditions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of weighbridge operators?**
+A: Entry-level is about 40,000-50,000 NZD, experienced workers can reach 60,000-70,000 NZD, but the ceiling is not high.
+
+**Q: Can a weighbridge operator immigrate to New Zealand?**
+A: Generally not, as this occupation is not on the ANZSCO skilled migration list; only AEWV work visa is available, making skilled migration status difficult.
+
+**Q: Does this career have growth prospects?**
+A: Automation may reduce demand for this role; transitioning to logistics coordinator or supervisor can broaden career paths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Weighbridge Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Weighbridge Operator?**
-答：Entry-level around 40,000-50,000 NZD, experienced up to 60,000-70,000 NZD, but limited growth.
-
-**问：Can a Weighbridge Operator immigrate to New Zealand?**
-答：Generally not, as it is not listed on the ANZSCO skilled migration list; only AEWV work visa possible, very hard to get residence.
-
-**问：Does this occupation have good career prospects?**
-答：Automation may reduce demand, transitioning to logistics coordinator or supervisor can broaden options.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

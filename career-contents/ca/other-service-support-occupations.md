@@ -1,59 +1,92 @@
-# Other service support occupations（Other service support occupations）职业分析 · 加拿大
+# Other service support occupations — career analysis · Canada
 
-**职业代码：65329 – Other service support occupations。**
+**Occupation code: 65329 (NOC)**
 
-Other service support occupations include various entry-level service roles such as cleaners, movers, and kitchen helpers, providing basic support in hospitality, retail, and tourism industries.
+Other service support occupations cover various service roles such as cleaners, movers, kitchen hands, providing basic support mainly in hospitality, catering, retail, and tourism industries.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 无正式教育要求 | 0 | —（通常在职培训） |
-| 高中文凭 | 0 | —（部分雇主偏好） |
+| No formal education requirements | 0 | $0~$0 (Usually on-the-job training) |
+| High school diploma | 0 | $0~$0 (Preferred by some employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质 | 无 | 可选 | 多数岗位无需正式证书 |
+| No mandatory qualifications | None | Optional | Most positions require no formal certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 450,000。加拿大该职业群体需求稳定，受人口老龄化和服务业持续扩张影响，预计未来几年岗位数量保持增长。但工作多为兼职或季节性，薪资较低。
+**Job demand: medium (★★½☆☆).** National workforce approx. 450,000. Demand for this occupation in Canada is stable, driven by an aging population and continued expansion of the services sector, with job numbers expected to grow in the coming years. However, many positions are part-time or seasonal, with relatively low wages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 部分兼职按小时计薪 |
-| 中级（2-5年） | $35,000~$42,000 | 全职岗位 |
-| 高级（5年以上） | $42,000~$50,000 | 含主管职位 |
+| Median salary | $36,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $28,000~$35,000 | Some part-time roles are paid hourly |
+| Intermediate (2-5 years) | $35,000~$42,000 | Full-time positions |
+| Senior (5+ years) | $42,000~$50,000 | Includes supervisory positions |
+| average salary | $39,520 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者通常从入门级岗位起步，积累经验后可晋升为组长或主管，部分人转向更专业的服务领域如家政管理或设施维护。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Other service support roles face significant automation risk; AI/robots replace repetitive tasks such as cleaning and handling, leading to a decline in entry-level positions.
+
+Practitioners typically start in entry-level positions and, with experience, advance to team leader or supervisor roles; some transition to specialized service areas such as household management or facility maintenance
+
+**Tasks most exposed to AI:**
+
+- Use automated cleaning robots to complete floor scrubbing and vacuuming
+- Use AI scheduling system to optimize transport routes and task allocation
+- Automated replenishment and inventory counting via smart inventory system
+- Dishwashing is done by an automatic dishwasher.
+- Use AI to monitor hygiene compliance and generate reports
+
+**Where AI augments the role:**
+
+- AI predicts passenger flow, helping to arrange cleaning and material preparation in advance
+- Smart devices provide real-time task priority suggestions to improve efficiency
+- Augmented reality (AR) assisted training for rapid onboarding of new employees
+- AI analysis of customer feedback to improve service quality
+
+**Human moat:**
+
+- Flexibility to adapt to unstructured environments (e.g., unexpected messiness)
+- Empathy and communication skills in interpersonal interactions
+- Fine hand processing of special stains or valuable items
+- On-site supervision and emergency decision-making
+
+**Skills to build:**
+
+- Operate and maintain automated cleaning equipment
+- Basic data analysis and use of AI tools
+- Customer service and communication skills
+- Time management and multitasking coordination
+- Basic fault finding and repair
+
+**Key growth areas:**
 
 - Moderate demand
 - High turnover
@@ -62,62 +95,64 @@ Other service support occupations include various entry-level service roles such
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA雇佣外国工人，但该职业通常不视为紧缺，获批难度较高。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份低技能类别可能接受，但要求严格且配额有限。 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to hire foreign workers, but this occupation is generally not considered in shortage, making approval difficult |
+| Subclass PNP (Provincial Nominee Program) | Some low-skilled categories in certain provinces may accept applications, but requirements are strict and quotas are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other service support occupations？**
-- 寻找临时入门工作的新移民或留学生
-- 身体健壮、能接受体力劳动的人
-- 希望快速就业不介意低薪的人
+**Who is suited**
+- New immigrants or international students seeking temporary entry-level jobs
+- Physically strong individuals capable of manual labor
+- People who want quick employment and do not mind low pay
 
-**谁不适合学Other service support occupations？**
-- 希望高薪或快速职业晋升的人
-- 不喜欢体力劳动或高强度重复工作的人
+**Who is not suited**
+- People seeking high salary or rapid career advancement
+- People who dislike physical labor or high-intensity repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for this occupation?**
+A: The average annual salary for full-time workers is about CAD 35,000, but part-time or seasonal workers earn less.
+
+**Q: Can I migrate to Canada through skilled migration for this occupation?**
+A: Extremely low possibility, as it is a low-skilled occupation and generally does not meet the requirements for federal skilled migration or Express Entry.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other service support occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for this occupation?**
-答：Full-time workers earn around CAD 35,000 on average, but part-time or seasonal workers earn less.
-
-**问：Is it possible to immigrate to Canada through this occupation?**
-答：Very unlikely, as it is a low-skilled occupation and typically does not meet federal skilled migration or Express Entry requirements.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

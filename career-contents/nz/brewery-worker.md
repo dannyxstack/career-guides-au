@@ -1,61 +1,97 @@
-# Brewery Worker（Brewery Worker）职业分析 · 新西兰
+# Brewery Worker — career analysis · New Zealand
 
-**职业代码：831112 – Brewery Worker。**
+**Occupation code: 831112 (ANZSCO)**
 
-Brewery workers handle raw materials, monitor fermentation, filter, package, and clean equipment. Typically require basic brewing skills and safety compliance. This role often relies on AEWV work visas; Skilled Migrant Category eligibility is limited due to ANZSCO skill level 4-5.
+In breweries, handle raw materials, monitor fermentation, filtration, packaging, and equipment cleaning/maintenance; must understand basic brewing processes and safety standards. This occupation typically requires an AEWV work visa, and skilled migration is difficult because ANZSCO skill levels are mostly 4-5, not meeting SMC requirements.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程/学徒 | 6个月 | $2,000~$8,000（如新西兰酿酒学院短期课程，线上+实践） |
-| 大专文凭 | 1-2年 | $15,000~$30,000（如Otago理工学院酿造与发酵课程） |
+| Short-term course/apprenticeship | 6 months. | $2,000~$8,000 (Such as short courses from New Zealand School of Viticulture, online plus practical) |
+| Diploma | 1-2 years | $15,000~$30,000 (E.g., Otago Polytechnic Brewing and Fermentation course.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰酿酒证书 (NZ Certificate in Brewing) | 新西兰酿造学院 (New Zealand Brewing Institute) | 可选 | 行业认可，非强制但利就业 |
-| 食品安全证书 | 新西兰食品安全局 (NZFS Authority) | 必备 | 部分酒厂要求 |
-| 叉车操作执照 | WorkSafe NZ | 可选 | 如需操作叉车搬运原料 |
+| Food safety certificate | New Zealand Food Safety Authority (NZFSA) | Required | Required by Some Distilleries |
+| New Zealand Certificate in Brewing | New Zealand Brewing Institute | Optional | Industry recognized, not mandatory but beneficial for employment |
+| Forklift license | WorkSafe NZ | Optional | For forklift operation to move raw materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 1,500。新西兰手工精酿啤酒市场持续增长，尤其在奥克兰、惠灵顿等城市，酿酒厂对工人的需求稳定。但自动化程度提高可能影响初级岗位。预计未来5年就业增长中等，主要替代需求来自人员流动。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. The craft beer market in New Zealand continues to grow, especially in cities like Auckland and Wellington, with steady demand for brewery workers. However, increased automation may affect entry-level positions. Moderate employment growth expected over the next 5 years, mainly replacement demand from turnover.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约$23-$27，含周末加班 |
-| 中级（3-5年） | $55,000~$65,000 | 可独立操作生产线 |
-| 高级（5年以上） | $65,000~$80,000 | 主管级或技术专家，时薪$31-$38 |
+| Median salary | $54,080 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approx. $23-$27, including weekend overtime |
+| Mid-level (3–5 years) | $55,000~$65,000 | Can independently operate the production line |
+| Senior (5+ years) | $65,000~$80,000 | Supervisor or technical specialist, hourly wage $31-$38 |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为高级酿酒工、酿酒主管或生产经理，需积累经验并考取酿造资格证书（如新西兰酿造学院课程）。部分大型酒厂提供内部培训，转行至葡萄酒或烈酒行业也常见。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of brewery workers like fermentation monitoring, filtration, and packaging will be optimized by AI systems but not fully replaced; entry-level jobs are reduced due to automation, but demand for technical and management roles grows.
+
+Can advance to senior brewer, brewing supervisor, or production manager by accumulating experience and obtaining brewing qualifications (e.g., New Zealand Brewing Institute courses). Some large breweries provide internal training; transitioning to the wine or spirits industry is also common.
+
+**Tasks most exposed to AI:**
+
+- Raw material weighing and feeding: automated batching system precisely controls ratios and records batches
+- Fermentation monitoring: sensors and AI algorithms analyze temperature, pH, and sugar levels in real time, replacing manual readings.
+- Filtration and filling: robotic systems perform repetitive packaging tasks, reducing manual labor
+- Equipment cleaning: automatic CIP system enables in-place cleaning, reducing manual disassembly and cleaning
+- Quality inspection pre-screening: computer vision checks for defects in bottle caps, labels, and liquid levels
+
+**Where AI augments the role:**
+
+- Formula R&D: AI analyses historical data to suggest new flavour combinations and optimise fermentation parameters.
+- Preventive equipment maintenance: AI predicts equipment failures and assists in developing maintenance plans
+- Supply chain management: AI predicts raw material demand, optimizes inventory and production scheduling.
+- Quality control: AI integrates multi-sensor data to assess beer quality in real time and alert anomalies
+- Training and safety: VR simulates dangerous scenarios, AI generates personalized training materials
+
+**Human moat:**
+
+- Sensory evaluation: Assess subtle differences in beer flavor and quality through taste and smell
+- Exception handling: When equipment or processes encounter unexpected issues, flexibly assess and take corrective actions.
+- Cross-departmental coordination: communicate with winemakers, packaging line, and warehouse teams to resolve operational issues
+- Innovative processes: developing specialty brewing methods or experimental formulas, requiring creativity and experience
+- Customer interaction: Explaining brewing process and product features directly to consumers in the tasting room
+
+**Skills to build:**
+
+- Data analysis fundamentals: analyze fermentation and equipment data using Python or BI tools
+- Automated industrial control system operation: familiar with PLC, SCADA or winemaking-specific software
+- Sensory analysis certification: obtain beer tasting certification (e.g., BJCP/Cicerone)
+- Food safety and regulations: master HACCP, GMP and export country labeling regulations
+- Equipment Maintenance Skills: Learn mechanical and electrical basics, assist with automated system repairs
+- Project and team management: from operator to management skills coordinating automation projects
+
+**Key growth areas:**
 
 - Craft beer market
 - Stable demand
@@ -64,66 +100,68 @@ Brewery workers handle raw materials, monitor fermentation, filter, package, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见途径，需找到认证雇主，工资达到中位数（$29.66/小时），可续签，但移民难度大 |
-| Subclass SMC（Skilled Migrant Category） | 通常不符合，因ANZSCO技能等级4-5，除非工资达到中位数的1.5倍（约$44.50/小时）或特别技能 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 酿酒厂工人不在绿色清单上，不可直接申请 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common route, need to find an accredited employer with salary at median ($29.66/hour), can be renewed but migration is difficult |
+| Subclass SMC (Skilled Migrant Category) | Typically does not qualify, as ANZSCO skill level 4-5, unless salary reaches 1.5 times the median (approx. $44.50/hour) or special skills. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Brewery workers are not on the Green List and cannot apply directly. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Brewery Worker？**
-- 热爱啤酒酿造，愿意从基层做起的人
-- 动手能力强，适应体力劳动和倒班
-- 愿意通过工签积累经验，后续转向其他移民路径
+**Who is suited**
+- People passionate about beer brewing and willing to start from entry-level
+- Hands-on ability, adaptable to physical labor and shift work
+- Willing to gain experience through a work visa and later transition to other immigration pathways
 
-**谁不适合学Brewery Worker？**
-- 寻求快速获得新西兰居留权的人
-- 对重复性体力工作或噪音环境敏感的人
+**Who is not suited**
+- People seeking fast New Zealand residency
+- Those sensitive to repetitive physical work or noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can a brewery worker's salary reach the New Zealand median wage?**
+A: Entry-level positions are typically around $23-$27/hour, below the median ($29.66/hour). Mid-level or above, or supervisory roles, may reach or exceed this.
+
+**Q: Can winery workers apply for skilled migration?**
+A: Generally not possible, because ANZSCO skill level is 4-5, requiring wage at 1.5 times median (approx. $44.50/hour) to be eligible, but rare in practice. Most people go through the AEWV work visa.
+
+**Q: Is there career advancement for brewery workers?**
+A: Can advance to brewing supervisor, production manager, or move into quality control, product development. Obtaining a brewing certificate (e.g., NZ Certificate in Brewing) aids promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Brewery Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a brewery worker earn the median wage in NZ?**
-答：Entry-level pays around $23-$27/hr, below median ($29.66/hr). Senior roles or supervisors may meet or exceed it.
-
-**问：Can a brewery worker apply for Skilled Migrant Category?**
-答：Usually not due to ANZSCO skill level 4-5. Requires 1.5x median wage (about $44.50/hr), which is rare. Most rely on AEWV.
-
-**问：Is there career progression for a brewery worker?**
-答：Yes, to supervisor, production manager, or into quality control. Earning a brewing certificate (e.g., NZ Certificate in Brewing) helps advancement.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

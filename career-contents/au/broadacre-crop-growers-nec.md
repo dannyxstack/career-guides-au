@@ -1,60 +1,96 @@
-# Broadacre Crop Growers nec（Broadacre Crop Growers nec）职业分析 · 澳大利亚
+# Broadacre Crop Growers nec — career analysis · Australia
 
-**职业代码：121599 – Broadacre Crop Growers nec。**
+**Occupation code: 121599 (ANZSCO)**
 
-Plan, plant, manage, and harvest broadacre crops such as wheat, barley, and canola, including agronomic decisions and resource allocation.
+Responsible for planning, planting, managing, and harvesting large-scale crops such as wheat, barley, and canola, covering agronomic decisions, resource allocation, and production optimization.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1-2年 | $5,000~$15,000（TAFE证书IV或文凭课程） |
-| 本科学位 | 3-4年 | $25,000~$45,000（农业科学或相关学士学位） |
-| 研究生学位 | 1-2年 | $30,000~$50,000（农业商业或作物科学硕士） |
+| Vocational education certificate | 1-2 years | $5,000~$15,000 (TAFE Certificate IV or Diploma course) |
+| Bachelor's degree | 3-4 years | $25,000~$45,000 (Bachelor's degree in agricultural science or related field) |
+| Postgraduate degree | 1-2 years | $30,000~$50,000 (Master's in Agribusiness or Crop Science.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业学士学位 | 澳大利亚大学 | 可选 | 通常要求 |
-| 农业四级证书 | TAFE | 可选 | 职业路径最低要求 |
-| VETASSESS技能评估 | VETASSESS | 必备 | 技术移民必需 |
+| VETASSESS skills assessment | VETASSESS | Required | Essential for skilled migration |
+| Bachelor of Agriculture | Australian university | Optional | Usually required |
+| Certificate IV in Agriculture | TAFE | Optional | Minimum requirements for career pathways |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。受全球粮食需求、气候变化及农业技术革新影响，澳大利亚阔田作物种植业预计保持稳定增长，但波动性较大。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Driven by global food demand, climate change, and agricultural technology innovation, Australia's broadacre crop farming is expected to grow steadily but with high volatility.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 农场助理或初级种植者 |
-| 中级（3-7年） | $75,000~$100,000 | 有经验的作物种植者或农场主管 |
-| 高级（7年以上） | $100,000~$130,000 | 农场经理或高级农艺师 |
+| Median salary | $87,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $55,000~$75,000 | Farm assistant or junior grower |
+| Mid-level (3–7 years) | $75,000~$100,000 | Experienced crop grower or farm supervisor |
+| Senior (7+ years) | $100,000~$130,000 | Farm manager or senior agronomist |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可晋升为农场经理或农业企业总经理，也可专攻农艺咨询或农业技术推广，或转向农业科研领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Practitioners can progress to farm manager or agribusiness general manager, specialise in agronomic consulting or agricultural technology extension, or move into agricultural research.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Precision agriculture
 - Climate adaptation
@@ -63,67 +99,66 @@ Plan, plant, manage, and harvest broadacre crops such as wheat, barley, and cano
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需有雇主支持，可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需482过渡或直接申请 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，3年后可转191永居 |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa requiring employer support, can transfer to 186 permanent residence |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires 482 transition or direct application |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional sponsored provisional visa, eligible for 191 permanent residence after 3 years. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Broadacre Crop Growers nec？**
-- 热爱户外农业工作，能适应季节性高强度劳动
-- 具备农学知识和管理能力，愿意长期在乡村地区发展
-
-**谁不适合学Broadacre Crop Growers nec？**
-- 偏好城市生活和固定工作时间者
-- 对农业风险（气候、市场波动）敏感者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor agricultural work, able to adapt to seasonal high-intensity labor
+- Possess agricultural knowledge and management skills, willing to develop long-term in rural areas
+
+**Who is not suited**
+- Those who prefer city life and fixed working hours.
+- Those sensitive to agricultural risks (climate, market fluctuations)
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for broadacre crop farmers?**
+A: Junior approx. AUD 55,000-75,000, mid-level 75,000-100,000, senior 100,000-130,000, depending on experience and scale.
+
+**Q: Can broad-acre crop farmers immigrate through skilled migration?**
+A: Yes. This occupation is on the CSOL list, eligible for 482/186 employer sponsorship or 491 regional state sponsorship; requires VETASSESS assessment.
+
+**Q: What qualifications are needed to become a broadacre crop grower?**
+A: Usually requires a bachelor's degree in agriculture, or a TAFE Certificate IV plus experience. VETASSESS assessment requires a degree or diploma plus years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Broadacre Crop Growers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for broadacre crop growers?**
-答：Entry-level AUD 55,000-75,000, mid-level AUD 75,000-100,000, senior AUD 100,000-130,000 per year.
-
-**问：Can broadacre crop growers migrate through skilled migration?**
-答：Yes. It is on the CSOL, eligible for 482/186 employer-sponsored visas and 491 regional visas, requiring VETASSESS assessment.
-
-**问：What qualifications are needed to become a broadacre crop grower?**
-答：Typically a bachelor's degree in agriculture, or a TAFE Certificate IV with experience. VETASSESS assessment requires a degree or diploma plus experience.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

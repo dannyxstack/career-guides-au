@@ -1,59 +1,95 @@
-# Upholsterer（Upholsterer）职业分析 · IT
+# Upholsterer — career analysis · Italy
 
-**职业代码：7534 – Upholsterer。**
+**Occupation code: 7534 (ISCO08)**
 
-Upholsterers install and maintain padding, springs, and fabric covers on furniture, vehicle seats, and other items, using cutting, sewing, and fitting techniques.
+Upholsterers install and maintain padding and decorative covers for furniture and vehicle seats, using cutting, sewing, and filling techniques.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年 | —（公立职业培训学校免费或低收费） |
-| 学徒制 | 3-4年 | —（带薪学徒，无学费） |
+| Secondary vocational education | 3 years | $0~$500 (Public vocational training schools free or low-cost) |
+| Apprenticeship | 3-4 years | $0~$0 (Paid apprenticeship, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证 | 大区职业培训中心 | 可选 | 证明技能水平，非强制但利于就业 |
+| Professional qualification certificate | Regional vocational training center | Optional | Proof of skill level, not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。意大利手工家具产业发达，软包工需求稳定，但整体就业增长缓慢。老龄化带来的替换需求为主，主要集中在伦巴第、威尼托等制造业大区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Italy's handmade furniture industry is well-developed, with stable demand for upholsterers, but overall employment growth is slow. Replacement demand due to aging workforce is the main driver, concentrated in Lombardy, Veneto, and other manufacturing regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，学徒期收入较低 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，经验丰富者收入更高 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，可包含计件或项目奖金 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, relatively low apprenticeship income |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual salary before tax, experienced earners earn more |
+| Senior (7+ years) | $32,000~$42,000 | Annual pre-tax salary, may include piecework or project bonuses |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级软包工可晋升为高级工匠或工头，也可转向家具修复或定制软包领域。部分经验者自主创业或进入高端奢侈品家具市场。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Soft packers face dual impacts from automation and AI: repetitive tasks like cutting and sewing are easily replaced by machines, but skills in custom design, complex fabric handling, and customer communication remain valuable, requiring proactive transition.
+
+Junior upholsterers can advance to senior craftsmen or foremen, or transition to furniture restoration or custom upholstery. Some experienced individuals start their own businesses or enter the high-end luxury furniture market.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for standardized layout and cutting
+- Sewing machine operation for simple straight stitching
+- Mechanical cutting and forming of foam and filling materials
+- Automated recording of inventory management and material ordering
+- Repetitive filling and fastening tasks.
+
+**Where AI augments the role:**
+
+- AI-assisted design software quickly generates and modifies soft package patterns
+- AR/VR tools visualize final results, reducing rework
+- Machine vision detects fabric defects, improving quality
+- Digital cutting beds improve material utilization rates
+- Smart supply chain systems optimize material procurement
+
+**Human moat:**
+
+- Customized complex patterns and hand-sewing techniques
+- The ability to communicate with clients and understand personalized needs
+- Experience handling special fabrics (e.g., antique textiles, leather)
+- Flexibility for on-site installation, adjustment, and repair
+- Comprehensive assessment of furniture structure and comfort
+
+**Skills to build:**
+
+- Learn CAD/3D modeling software (e.g., Rhino, SketchUp)
+- Proficient in operating digital cutting and sewing equipment
+- Familiar with AR/VR presentation tools
+- Develop project management and client communication skills
+- Knowledge of sustainable materials and eco-design trends
+- Learn basic programming to customize automated workflows
+
+**Key growth areas:**
 
 - Furniture restoration
 - Custom upholstery
@@ -62,66 +98,65 @@ Upholsterers install and maintain padding, springs, and fabric covers on furnitu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟工人，每年配额有限，需雇主担保，职业需在配额列表中 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能工人，要求最低年薪约3.3万欧元，软包工通常收入不足，较少适用 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 适合创业或自由职业者，需提供商业计划并满足投资额要求 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, annual quota limited, employer sponsorship required, occupation must be on quota list |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, with a minimum annual salary of around €33,000; soft packaging workers typically earn less, so it's rarely applicable. |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | Suitable for entrepreneurs or freelancers, require a business plan and meeting investment amount requirements |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Upholsterer？**
-- 喜欢手工制作和细节处理
-- 具备耐心和专注力
-- 愿意从学徒做起并逐步积累经验
-
-**谁不适合学Upholsterer？**
-- 对重复性手工工作感到枯燥
-- 不擅长使用缝纫和裁剪工具
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes handmade crafts and attention to detail
+- Possess patience and focus
+- Willing to start as an apprentice and gradually gain experience
+
+**Who is not suited**
+- Finds repetitive manual work tedious
+- Not proficient in using sewing and cutting tools.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a soft trimmer in Italy?**
+A: Entry-level: about EUR 18,000-24,000 per year, mid-level: EUR 24,000-32,000, senior: up to EUR 42,000. Income depends on region, experience, and employer.
+
+**Q: Can a soft trimmer apply for an Italian work visa?**
+A: Yes, but requires employer sponsorship through the Decreto Flussi quota, or eligibility for self-employment. This occupation is not in shortage, and visa competition is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Upholsterer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for upholsterers in Italy?**
-答：Entry-level: €18,000-€24,000; mid-level: €24,000-€32,000; senior: up to €42,000 per year, depending on experience and location.
-
-**问：Can upholsterers apply for a work visa for Italy?**
-答：Yes, via Decreto Flussi quota or self-employment visa, but employer sponsorship required and competition is high due to non-shortage status.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

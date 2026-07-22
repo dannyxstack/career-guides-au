@@ -1,58 +1,92 @@
-# Machine and Plant Operator（Machine and Plant Operator）职业分析 · DE
+# Machine and Plant Operator — career analysis · Germany
 
-**职业代码：2512 – Machine and Plant Operator。**
+**Occupation code: 2512 (KldB)**
 
-Operate and monitor industrial machinery and equipment, ensuring smooth production processes, performing basic maintenance and troubleshooting.
+Operate and monitor industrial machinery and equipment to ensure smooth production processes, perform basic maintenance and troubleshooting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年（双元制） | —（培训期间有薪资，一般无学费） |
-| 短期培训/上岗培训 | 6个月-1年 | $2,000~$5,000（部分企业提供内部培训） |
+| Dual vocational training (Ausbildung) | 3 years (dual system) | $0~$0 (Paid during training, generally no tuition fees) |
+| Short-term training/on-the-job training | 6 months to 1 year | $2,000~$5,000 (Some companies provide internal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机器与设备操作员职业资格证书 | 德国工商业行会（IHK） | 必备 | 完成双元制培训后获得 |
-| 技术员进修（Techniker） | 德国工程师协会（VDI）或相关学校 | 可选 | 可选，有助于晋升 |
+| Certificate for Machine and Equipment Operators | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Advanced training for technicians (Techniker) | German engineering association (VDI) or relevant schools | Optional | Optional, helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 250,000。德国工业4.0转型推动自动化需求，但传统操作岗位稳中有降。制造业仍是经济支柱，就业机会稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. Germany's Industry 4.0 transformation is driving automation demand, but traditional operator roles are stabilizing with slight decline. Manufacturing remains the economic backbone, offering stable job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，因行业和地区差异 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含班组长等职位 |
+| Median salary | $50,424 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, varies by industry and region |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual salary before tax, including team leader positions |
+| average salary | $54,108 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径包括：高级操作员、班组长、生产主管。通过进修可转向设备维护或生产技术岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
+
+Career progression includes: senior operator, team leader, production supervisor. Further training can lead to equipment maintenance or production technology roles.
+
+**Tasks most exposed to AI:**
+
+- Use CAM software to automatically generate CNC machine code, replacing manual programming
+- Uses machine vision to automatically detect processing quality and adjust parameters, replacing manual measurement and adjustment.
+- Automated material handling and loading systems replace manual loading/unloading
+- Fully automated processing of standardized large-batch parts, reducing manual intervention
+
+**Where AI augments the role:**
+
+- AI-assisted process planning and tool path optimization, improving machining efficiency and accuracy
+- Predictive maintenance system analyzes machine tool operation data to provide early fault warnings
+- Augmented Reality (AR) overlays operational guidance, assisting complex assembly and debugging
+- AI-driven quality traceability system to quickly identify processing deviation causes
+- Digital twin technology simulates machining processes, optimizing parameters to reduce commissioning time
+
+**Human moat:**
+
+- Complex fault diagnosis and repair skills, relying on experience and sensory judgment
+- Manual fitting and adjustment of non-standard parts, involving unspoken skills
+- Customer communication and customized solution design, requiring understanding of needs and processes
+- Multi-device commissioning and production line integration require systemic thinking and adaptability
+
+**Skills to build:**
+
+- CNC programming and CAM software (e.g., Mastercam, Fusion 360)
+- Industrial robot operation and programming
+- IoT and sensor data analysis basics
+- Additive manufacturing (3D printing) and its post-processing
+- Basics of Electrical and PLC Control
+- Technical documentation and digital communication skills
+
+**Key growth areas:**
 
 - Automation
 - Industrial 4.0
@@ -61,68 +95,67 @@ Operate and monitor industrial machinery and equipment, ensuring smooth producti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历，薪资门槛约43,800欧元（2024年），紧缺职业可放宽至39,683欧元。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于完成德国认可的职业培训（Ausbildung），无需学位，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许在德国找工作，需满足语言、年龄、资质等条件。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education degrees, salary threshold around €43,800 (2024), can be relaxed to €39,683 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those who have completed recognized vocational training in Germany (Ausbildung), no degree required, needs employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing job search in Germany, with requirements such as language, age, and qualifications. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine and Plant Operator？**
-- 喜欢动手操作和机器维护的人
-- 愿意接受双元制培训的年轻人
-- 寻求稳定制造业岗位的移民
-
-**谁不适合学Machine and Plant Operator？**
-- 对重复性工作感到厌倦的人
-- 追求高薪和快速晋升的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and machine maintenance
+- Young people willing to undergo dual-system training
+- Seeking stable manufacturing jobs for immigration
+
+**Who is not suited**
+- People who are tired of repetitive work
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for machine and equipment operators?**
+A: Annual salary for a junior operator in Germany is about 28,000-35,000 euros, senior can reach over 45,000 euros, salary increases with experience.
+
+**Q: How can foreigners become machine and equipment operators in Germany?**
+A: Must complete German recognized vocational training (Ausbildung) or pass qualification recognition (Anerkennung), then apply for a skilled migration visa.
+
+**Q: What education is needed to become a machine and equipment operator?**
+A: Typically requires completion of a 3-year dual vocational training program or short onboarding training provided by the company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Machine and Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for machine and plant operators?**
-答：Entry-level operators earn around €28,000-35,000 annually in Germany, with experienced operators reaching over €45,000.
-
-**问：How can foreigners become machine and plant operators in Germany?**
-答：They need to complete a recognized German vocational training (Ausbildung) or obtain qualification recognition (Anerkennung), then apply for a skilled worker visa.
-
-**问：What educational background is required to become a machine and plant operator?**
-答：Typically a 3-year dual vocational training (Ausbildung) or short-term on-the-job training provided by companies.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

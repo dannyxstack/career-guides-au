@@ -1,58 +1,94 @@
-# Cabinetmakers and related workers（Cabinetmakers and related workers）职业分析 · ES
+# Cabinetmakers and related workers — career analysis · Spain
 
-**职业代码：7820 – Cabinetmakers and related workers。**
+**Occupation code: 7820 (CNO)**
 
-Fabricate, assemble, install and repair furniture, cabinets and other wood products using wood or wood substitutes, involving handcraft and machine work.
+Manufacture, install, and repair furniture, cabinets, and other wood products using wood or wood substitutes, including handcrafted fine woodworking and machine processing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约500-1500欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约800-2000欧元/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, private schools about 500-1500 EUR/year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, while private ones pay about 800-2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 细木工职业资格证书（Título de Técnico en Carpintería y Mueble） | 教育、职业培训和体育部 | 可选 | 完成FP Grado Medio后可获得，非强制但优先 |
-| 橱柜安装与维修证书 | 行业协会（如ASEFAP）或私营培训机构 | 可选 | 部分雇主要求，提升竞争力 |
+| Carpenter Professional Qualification Certificate (Título de Técnico en Carpintería y Mueble) | Ministry of Education, Vocational Training, and Sports | Optional | Available after completing FP Grado Medio; not mandatory but prioritized |
+| Cabinet installation and maintenance certificate | Industry associations (such as ASEFAP) or private training institutions | Optional | Required by some employers to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。西班牙建筑与家具行业需求稳定，但受房地产市场波动影响。可再生能源和旧房翻新可能带来新机遇。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Demand in Spain's construction and furniture industry remains stable but is affected by fluctuations in the real estate market. Renewable energy and old home renovations may bring new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，受雇于小型作坊或装修公司 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，有经验的细木工或工头 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，自主创业或大型项目负责人 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, employed by small workshops or renovation companies |
+| Mid-level (3–7 years) | $24,000~$32,000 | Pre-tax annual salary, experienced joiner-woodman or foreman |
+| Senior (7+ years) | $32,000~$42,000 | Pre-tax annual salary, self-employed or large project leader |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从学徒或木工助手起步，可晋升为资深细木工、工头，或自主创业开设木工作坊。部分人转向室内装修或古家具修复。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
+
+Starting as an apprentice or carpenter assistant, you can advance to senior joiner, foreman, or start your own carpentry workshop. Some people turn to interior decoration or antique furniture restoration.
+
+**Tasks most exposed to AI:**
+
+- Use BIM software for formwork design optimization (AI replaces manual calculation)
+- Automatic inspection of template dimensions and position accuracy through AI image recognition
+- Use drones or laser scanning to automatically measure field data
+- AI-generated cutting lists and material optimization plans
+- Automated template layout linked with CNC cutting.
+
+**Where AI augments the role:**
+
+- AI-assisted augmented reality (AR) headsets provide real-time template installation guidance
+- AI-driven project management tools optimize processes and resource scheduling
+- Digital twin simulates template forces to improve safety and quality
+- AI voice assistant for on-site documentation and reporting
+- Automatically generate construction progress reports and cost estimates
+
+**Human moat:**
+
+- On-site adjustment and manual fabrication of complex irregular formwork
+- Multi-trade coordination and on-site problem-solving skills
+- Experiential judgment of material properties (wood defects, humidity, etc.)
+- Client communication and understanding of customized needs
+- Physical adaptability for working at heights and heavy manual labor
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- Use of AR/VR construction assistance tools
+- CNC woodworking equipment programming and operation.
+- Basic data analysis (e.g., material utilization optimization)
+- Sustainable materials and green building practices.
+- Communication and teamwork (with AI tool assistance)
+
+**Key growth areas:**
 
 - custom furniture
 - kitchen renovation
@@ -61,66 +97,65 @@ Fabricate, assemble, install and repair furniture, cabinets and other wood produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 由西班牙雇主担保的工作居留，需证明该职位无法由本地人填补。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙停留最多6个月寻找工作，适用于高学历或紧缺职业，细木工非紧缺但可尝试。 |
+| Subclass Cuenta ajena (Work permit (employed)) | For work residency sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local resident. |
+| Subclass Busqueda empleo (Job search visa) | Allows staying in Spain for up to 6 months to seek employment, applicable to highly educated or in-demand occupations; cabinet making is not in shortage but can be attempted. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cabinetmakers and related workers？**
-- 动手能力强、注重细节且喜欢手工制作的人
-- 追求稳定职业和自主创业机会的务实者
-
-**谁不适合学Cabinetmakers and related workers？**
-- 对粉尘和噪音敏感，或无法长时间站立工作的人
-- 希望快速致富或不从事体力劳动的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, attention to detail, and a love for handmade crafts
+- A pragmatist seeking stable careers and entrepreneurial opportunities
+
+**Who is not suited**
+- People sensitive to dust and noise, or who cannot stand for long periods at work
+- Those who want to get rich quickly or avoid manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for carpenters in Spain?**
+A: Entry-level annual salary about EUR 18,000-24,000, mid-level EUR 24,000-32,000, senior EUR 32,000-42,000; self-employment income may be higher.
+
+**Q: How can non-EU citizens immigrate to Spain through the carpentry profession?**
+A: Mainly through employer-sponsored work residence (Cuenta ajena), proof of job vacancy is required. This profession is not listed as in short supply and is of moderate difficulty.
+
+**Q: What educational background is required to become a joiner?**
+A: Usually completing 2-year intermediate vocational training (FP) in Spain is sufficient; some apprenticeships also provide entry. A university degree is not required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短期（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Cabinetmakers and related workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cabinetmakers in Spain?**
-答：Entry-level annual salary around €18,000-€24,000, mid-level €24,000-€32,000, senior €32,000-€42,000. Self-employed may earn more.
-
-**问：How can non-EU citizens migrate to Spain as a cabinetmaker?**
-答：Mainly through employer-sponsored work permit (Cuenta ajena), proving labor shortage. The occupation is not on shortage list, moderate difficulty.
-
-**问：What education is needed to become a cabinetmaker?**
-答：Usually complete a 2-year FP Grado Medio in carpentry, or apprenticeship. No university degree required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Cooks（Cooks）职业分析 · 加拿大
+# Cooks — career analysis · Canada
 
-**职业代码：63200 – Cooks。**
+**Occupation code: 63200 (NOC)**
 
-Cooks in Canada prepare meals, manage kitchen operations, and supervise staff in restaurants, hotels, and institutions. Due to the expanding food service sector, this occupation offers clear immigration routes through the Federal Skilled Trades Program and some Provincial Nominee Programs.
+Chefs in Canadian restaurants, hotels, and institutions are responsible for food preparation, kitchen operations, and team management. Due to the ongoing expansion of the food service industry, chefs are eligible under the Federal Skilled Trades Program (FSTP) and some Provincial Nominee Programs (PNP), providing clear immigration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 学院/大专文凭 | 2年 | $15,000~$35,000（如George Brown College厨艺文凭，学费加生活费） |
-| 学徒制 | 3年 | $5,000~$15,000（带薪学习，部分省份提供补助） |
-| 短期证书 | 6个月 | $3,000~$10,000（从社区学院或私立烹饪学校获得） |
+| College/diploma | 2 years | $15,000~$35,000 (For example, George Brown College culinary diploma, tuition plus living expenses) |
+| Apprenticeship | 3 years | $5,000~$15,000 (Paid study, with some provinces offering subsidies.) |
+| Short-term certificate | 6 months. | $3,000~$10,000 (Obtained from a community college or private culinary school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 红印章认证（Red Seal） | 加拿大红印章项目 | 可选 | 跨省就业的行业标准，非强制但推荐 |
-| 省级厨师证书 | 各省技能培训部门 | 必备 | 部分省份要求，如安大略省Trade Equivalency |
-| 食品安全认证 | 各省卫生部门 | 必备 | 如Food Handler Certificate，基本要求 |
-| IELTS 或 CELPIP | IRCC认可机构 | 可选 | 技术移民语言要求，CLB 5-7 |
+| Provincial chef certificate | Provincial skills training departments | Required | Some provinces require it, e.g., Ontario's Trade Equivalency |
+| Food safety certification | Provincial health departments | Required | e.g., Food Handler Certificate, basic requirement |
+| Red Seal certification | Red Seal Program | Optional | Industry standard for interprovincial employment, not mandatory but recommended |
+| IELTS or CELPIP | IRCC-recognized institution | Optional | Language requirements for skilled migration, CLB 5–7 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 147,000。预计2023-2031年加拿大厨师岗位增长较快，主要受人口增长和外出就餐需求驱动。偏远地区和高端餐饮市场尤其缺人。
+**Job demand: high (★★★★☆).** National workforce approx. 147,000. Projected fast growth for chef positions in Canada from 2023-2031, driven by population growth and out-of-home dining demand. Remote areas and high-end dining markets are especially short-staffed.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 快餐或连锁餐厅入门岗位 |
-| 中级（3-6年） | $40,000~$55,000 | 正式厨师，含小费 |
-| 高级（6年以上） | $55,000~$75,000 | 主厨/行政总厨，高端餐饮更高 |
+| Median salary | $37,440 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$40,000 | Entry-level positions in fast food or chain restaurants |
+| Mid-level (3–6 years) | $40,000~$55,000 | Formal chef, including tips |
+| Senior (6+ years) | $55,000~$75,000 | Head chef/executive chef, higher in fine dining. |
+| average salary | $39,520 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级厨师可晋升为主管或主厨，进而成为行政总厨或餐饮经理。持有红印章认证（Red Seal）可跨省就业，增加晋升机会。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on chef positions is mixed: routine food preparation and cooking processes are easily automated, but creative development, customer customization, and on-site adaptability remain hard to replace; entry-level positions may shrink due to automation.
+
+Junior chefs can advance to supervisor or head chef, then to executive chef or food service manager. Holding a Red Seal certification allows interprovincial work and increases promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- Accurately weigh ingredients according to standardized recipes
+- Repetitive cooking actions like timed flipping and stirring
+- Automatic calculation of dish calorie and nutrition data
+- Automatic inventory counting and restocking alerts for stocked ingredients.
+
+**Where AI augments the role:**
+
+- Develop new dishes using an AI recipe generator
+- Optimize food costs and menu combinations through data analysis
+- Use smart kitchen equipment to multitask
+- Using sensors to monitor cooking temperature and heat in real time
+
+**Human moat:**
+
+- Creative dish development and taste aesthetics
+- On-the-spot handling of emergencies (e.g., customer allergies, dish returns)
+- Team management and kitchen workflow coordination
+- Personalized customization and direct communication with customers.
+
+**Skills to build:**
+
+- Mastering smart kitchen equipment operation and maintenance
+- Understanding of food science and nutrition basics
+- Learn data analysis tools (e.g., Excel, Tableau) to optimize costs
+- Enhance creative dish design and fusion cuisine ability
+- Learn catering management software (e.g., POS systems, inventory management)
+- Cross-cultural cooking knowledge to suit diverse tastes
+
+**Key growth areas:**
 
 - Red Seal certification
 - Provincial Nominee
@@ -64,68 +97,67 @@ Cooks in Canada prepare meals, manage kitchen operations, and supervise staff in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSTP（Federal Skilled Trades Program） | 适用于有加拿大雇主offer或省证书的厨师，可通过Express Entry申请 |
-| Subclass PNP（Provincial Nominee Program） | 多个省份如安大略、BC、阿尔伯塔将厨师列为优先职业，雇主担保可获提名 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，无需LMIA，适合在该地区工作的厨师 |
+| Subclass FSTP (Federal Skilled Trades Program) | Applicable to chefs with a Canadian employer job offer or provincial certificate, can apply via Express Entry |
+| Subclass PNP (Provincial Nominee Program) | Multiple provinces such as Ontario, BC, and Alberta list cooks as priority occupations; employer sponsorship can lead to nomination |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, no LMIA required, suitable for chefs working in the region |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cooks？**
-- 有烹饪激情和体力耐力的人
-- 希望快速通过技术移民加拿大的人
-- 愿意在餐饮业从基层做起的人
-
-**谁不适合学Cooks？**
-- 不愿承受长时间站立和高压环境的人
-- 厌恶不规律作息（晚班、周末）的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for cooking and physical stamina
+- Those hoping to immigrate to Canada quickly through skilled migration
+- People willing to start at entry level in the restaurant industry
+
+**Who is not suited**
+- Those unwilling to endure long hours of standing and high-pressure environments.
+- Those who dislike irregular schedules (night shifts, weekends)
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary range for chefs in Canada?**
+A: Junior chef about 30,000-40,000 CAD, intermediate 40,000-55,000, senior chef up to 55,000-75,000 CAD, higher in fine dining or remote mining areas.
+
+**Q: Do chefs need employer sponsorship to immigrate to Canada?**
+A: Federal Skilled Trades Program (FSTP) requires a job offer or provincial certificate; Provincial Nominee Program (PNP) usually also requires employer sponsorship. However, some provinces like Saskatchewan may not.
+
+**Q: Is an overseas chef qualification recognized in Canada?**
+A: Educational credentials can be assessed via ECA (e.g., WES), but work experience certification is more important. Some provinces require passing the Red Seal exam or supplementary training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Cooks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for cooks in Canada?**
-答：Entry-level cooks earn CAD 30,000-40,000, mid-level CAD 40,000-55,000, and senior chefs CAD 55,000-75,000, with higher pay in upscale restaurants or remote mining camps.
-
-**问：Do cooks need a job offer for Canadian immigration?**
-答：The Federal Skilled Trades Program requires either a job offer or a provincial certificate; most PNPs also require employer sponsorship, except for some streams like Saskatchewan.
-
-**问：Is overseas cook education recognized in Canada?**
-答：Educational Credential Assessment (ECA) can evaluate degrees, but work experience matters more. Some provinces require Red Seal exam or additional training.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

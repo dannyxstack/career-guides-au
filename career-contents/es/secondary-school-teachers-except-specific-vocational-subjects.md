@@ -1,61 +1,97 @@
-# Secondary School Teachers (Except Specific Vocational Subjects)（Secondary School Teachers (Except Specific Vocational Subjects)）职业分析 · ES
+# Secondary School Teachers (Except Specific Vocational Subjects) — career analysis · Spain
 
-**职业代码：2230 – Secondary School Teachers (Except Specific Vocational Subjects)。**
+**Occupation code: 2230 (CNO)**
 
-Secondary school teachers educate students aged 12-18 in subjects like science, humanities, and languages, planning lessons, assessing progress, and participating in school activities.
+Secondary school teachers are responsible for teaching students aged 12-18, covering subjects such as science, humanities, and languages. They are required to develop teaching plans, assess academic performance, and participate in school activities.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学每年学费约1000-2000欧元，私立约4000欧元） |
-| 硕士（Máster） | 1年（Máster de Profesorado） | $1,500~$5,000（公立大学约1500-2500欧元，私立约5000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Annual tuition at public universities is about EUR 1,000-2,000, private about EUR 4,000.) |
+| Máster | 1 year (Máster de Profesorado) | $1,500~$5,000 (Public universities cost about 1500-2500 euros, private universities about 5000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学硕士（Máster de Profesorado） | 西班牙大学 | 必备 | 必须持有该硕士方可参加公立学校教师录用考试 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证，过程耗时1-2年 |
-| 西班牙语DELE B2/C1 | 塞万提斯学院 | 必备 | 教学语言为西班牙语，需高级水平 |
+| Master of Education (Máster de Profesorado) | Spanish University | Required | You must hold this master's degree to take the public school teacher recruitment exam |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require certification, and the process takes 1-2 years |
+| Spanish: DELE B2/C1 | Cervantes Institute | Required | The language of instruction is Spanish, requiring advanced proficiency |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 220,000。西班牙中学教师需求稳定，因退休潮和班级规模缩小，预计未来十年就业增长约5%。公共教育岗位竞争激烈，但特定学科（如数学、科学）教师短缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 220,000. Demand for secondary school teachers in Spain remains stable, and due to retirement waves and class size reductions, employment growth of about 5% over the next decade is expected. Public education positions are highly competitive, but there is a shortage of teachers in specific subjects (such as mathematics and science).
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等偏大（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 合同教师或新入职公务员，14个月工资 |
-| 中级（4-9年） | $30,000~$38,000 | 含工龄补贴和岗位津贴 |
-| 高级（10年以上） | $38,000~$45,000 | 包括额外职责补贴，如系主任等 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$30,000 | Contract teachers or newly hired civil servants, 14 months' salary |
+| Intermediate (4-9 years) | $30,000~$38,000 | Including seniority allowances and position allowances |
+| Senior (10+ years) | $38,000~$45,000 | Including additional responsibilities allowances, such as department heads |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业路径：从合同教师（interino）到终身制公务员（funcionario）需通过竞争考试（oposiciones）。可晋升为系主任、副校长或教育督导，或攻读硕士/博士进入大学教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+Career paths: From contract teacher (interino) to tenured civil servant (funcionario), you must pass competitive exams (oposiciones). Students can be promoted to department head, vice president, or education supervisor, or pursue master's/doctoral degrees to enter university education.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Teacher Shortage
 - STEM Education
@@ -64,69 +100,68 @@ Secondary school teachers educate students aged 12-18 in subjects like science, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需雇主担保，且职位需通过西班牙国家就业局（SEPE）的劳动力市场测试（优先欧盟公民）。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，需全日制合同且年薪至少达到门槛（约34,000欧元）。教师职位可能符合条件。 |
-| Subclass Ley 14/2013（Highly Skilled Professional Visa） | 适用于高学历或高管，教师若持有认可学历且合同达标可申请。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employer sponsorship is required, and the position must pass the Spanish National Employment Agency (SEPE) labor market test (preferably EU citizens). |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, requiring a full-time contract with an annual salary at least meeting the threshold (about 34,000 euros). Teaching positions may qualify. |
+| Subclass Ley 14/2013 (Highly Skilled Professional Visa) | Suitable for highly educated or senior executives; teachers with recognized academic qualifications and contract requirements may apply. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary School Teachers (Except Specific Vocational Subjects)？**
-- 热爱教学和青少年工作，具备耐心和沟通能力
-- 希望获得稳定公务员职位，愿意参加竞争激烈的oposiciones考试
-- 对特定学科（如数学、科学）有专长，愿填补紧缺岗位
-
-**谁不适合学Secondary School Teachers (Except Specific Vocational Subjects)？**
-- 不愿学习西班牙语至高级水平（教学语言为西语）
-- 寻求快速移民路径，无法接受1-2年学历认证及考试准备时间
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and youth work, with patience and communication skills
+- Those who hope to secure stable civil service positions and are willing to take the highly competitive oposiciones exams
+- Specializing in specific subjects (such as mathematics or science) and willing to fill shortage positions
+
+**Who is not suited**
+- Unwilling to learn Spanish to advanced level (Spanish is the medium of instruction)
+- Those seeking a fast-track immigration pathway cannot accept 1-2 years of academic certification and exam preparation time
+
+---
+
+## 8. FAQ
+
+**Q: How are Spanish secondary school teachers salary?**
+A: Public secondary school teachers start at about 25,000-30,000 euros per year (14 months' salary), with experience reaching 38,000-45,000 euros per year. Private schools are slightly lower.
+
+**Q: How can foreigners become Spanish secondary school teachers?**
+A: First, academic credentials (homologación) are required, followed by a master's degree in Spanish education (Máster de Profesorado), followed by passing the oposiciones exam. Non-EU citizens require an employer-sponsored work visa.
+
+**Q: Are secondary school teachers on Spain's list of in-demand occupations?**
+A: Yes, teachers of certain subjects (such as math, science, languages) are listed as in-demand professions that help with work permit applications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏大（★★★☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Secondary School Teachers (Except Specific Vocational Subjects)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a secondary school teacher in Spain?**
-答：Public school teachers earn €25,000-30,000 per year (14 payments) starting, rising to €38,000-45,000 with experience. Private school salaries are slightly lower.
-
-**问：How can a foreigner become a secondary school teacher in Spain?**
-答：You need to homologate your degree, complete a Spanish Master's in Education (Máster de Profesorado), then pass the oposiciones exam. Non-EU citizens require employer-sponsored work permits.
-
-**问：Is secondary teacher on Spain's shortage occupation list?**
-答：Yes, teachers in certain subjects (e.g., math, science, languages) are listed as difficult-to-cover occupations, facilitating work permit applications.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Floor Layers, Except Carpet, Wood, and Hard Tiles（Floor Layers, Except Carpet, Wood, and Hard Tiles）职业分析 · 美国
+# Floor Layers, Except Carpet, Wood, and Hard Tiles — career analysis · United States
 
-**职业代码：47-2042 – Floor Layers, Except Carpet, Wood, and Hard Tiles。**
+**Occupation code: 47-2042 (SOC)**
 
-Apply blocks, strips, or sheets of shock-absorbing, sound-deadening, or decorative coverings to floors, such as rubber, vinyl, or cork.
+Apply shock-absorbing, soundproof, or decorative blocks, strips, or sheets to cover floors, such as rubber, vinyl, cork, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制 | 3-4年 | $1,000~$5,000（包括工具和课程费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship | 3-4 years | $1,000~$5,000 (Includes tool and course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 州教育部门 | 必备 | 通常为入职最低要求 |
-| OSHA安全认证 | OSHA | 可选 | 许多雇主要求，提高安全意识 |
-| CFI认证 | CFI (Certified Floorcovering Installers) | 可选 | 自愿认证，提升专业地位 |
+| High school diploma or GED | State education department | Required | Usually the minimum requirement for entry |
+| OSHA safety certification | OSHA | Optional | Many employers require it to improve safety awareness |
+| CFI certification | CFI (Certified Floorcovering Installers) | Optional | Voluntary certification to enhance professional status. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 22,000。美国劳工统计局预计2022-2032年就业增长约4%，与所有职业平均水平相当。建筑活动增长推动需求，但自动化可能限制增速。
+**Job demand: medium (★★½☆☆).** National workforce approx. 22,000. The U.S. Bureau of Labor Statistics projects employment growth of about 4% from 2022 to 2032, similar to the average for all occupations. Growth in construction activity drives demand, but automation may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 学徒或助手薪资 |
-| 中级（3-7年） | $40,000~$55,000 | 熟练工薪资 |
-| 高级（7年以上） | $55,000~$75,000 | 领班或自主创业者薪资 |
+| Median salary | $56,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Apprentice or assistant salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Skilled worker salary |
+| Senior (7+ years) | $55,000~$75,000 | Salary for team leader or self-employed entrepreneur |
+| average salary | $61,760 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从学徒或助手开始，积累经验后可晋升为领班、项目经理或自主创业。获得认证（如CFI）可提升薪资和就业机会。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation poses low direct replacement threat to floor installers, but entry-level positions are compressed by smart measurement, automated cutting, and online design tools, reducing apprenticeship opportunities.
+
+Start as an apprentice or assistant, gain experience to advance to foreman, project manager, or start your own business. Certification (e.g., CFI) can increase salary and job opportunities.
+
+**Tasks most exposed to AI:**
+
+- Manual measurement using tape measure and level.
+- Manual cutting of floor materials (e.g., cutting carpet, sawing flooring)
+- calculate material quantities and waste
+- Generate simple installation plans and quotations
+
+**Where AI augments the role:**
+
+- Use AR or 3D scanning tools to quickly measure room dimensions
+- Generate floor laying patterns using AI design software
+- Use automatic cutting machines to improve material utilization
+- Use digital tools to present finished effects to clients
+- Manage project progress and material inventory via mobile app
+
+**Human moat:**
+
+- Installation in irregularly shaped rooms and complex corners
+- Fine manual skills for repairing old or damaged flooring.
+- Experience in assessing ground conditions and preparing base surfaces
+- Client communication and on-site problem-solving skills
+- Practical knowledge of material properties and installation techniques.
+
+**Skills to build:**
+
+- Using laser measurement and 3D scanning equipment
+- Operate CNC cutting machines and automatic cutting tools
+- Learn basic CAD or interior design software
+- Knowledge of floor material environmental and certification standards
+- Improving customer service and quotation skills
+- Understand basics of Building Information Modeling (BIM)
+
+**Key growth areas:**
 
 - Construction growth
 - Renovation projects
@@ -62,68 +97,67 @@ Apply blocks, strips, or sheets of shock-absorbing, sound-deadening, or decorati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业通常不要求学士学位，但若雇主能证明复杂性，可能申请。 |
-| Subclass EB-3（EB-3 Skilled Workers / Other Workers） | 可通过PERM劳工证申请，作为技术工人或其他工人类别。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人，可提交PERM申请。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable because the occupation typically does not require a bachelor's degree, but if the employer can demonstrate complexity, it may be possible to apply. |
+| Subclass EB-3 (EB-3 Skilled Workers / Other Workers) | Can apply through PERM labor certification as a skilled worker or other worker category. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified U.S. workers and may file a PERM application. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Layers, Except Carpet, Wood, and Hard Tiles？**
-- 喜欢动手操作和体力工作的人
-- 注重细节和精确度的人
-- 愿意通过学徒制学习技能的人
-
-**谁不适合学Floor Layers, Except Carpet, Wood, and Hard Tiles？**
-- 不喜欢重复性体力劳动的人
-- 对灰尘和化学粘合剂敏感的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and physical work
+- People who pay attention to detail and accuracy
+- People willing to learn skills through an apprenticeship
+
+**Who is not suited**
+- People who dislike repetitive physical labor
+- Individuals sensitive to dust and chemical adhesives
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for floor layers?**
+A: Entry-level about $30,000–40,000, mid-level $40,000–55,000, senior up to $75,000.
+
+**Q: Can floor layers come to work in the US on an H-1B visa?**
+A: Usually difficult because most positions do not require a bachelor's degree, but the EB-3 green card path is feasible.
+
+**Q: Is certification required to practice?**
+A: Not mandatory, but OSHA safety certification and CFI certification can increase job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Floor Layers, Except Carpet, Wood, and Hard Tiles的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for floor layers?**
-答：Entry level around $30,000-$40,000, mid-level $40,000-$55,000, senior up to $75,000.
-
-**问：Can floor layers come to the US on an H-1B visa?**
-答：Generally difficult as most positions don't require a bachelor's degree, but EB-3 green card path is possible.
-
-**问：Is certification required to practice?**
-答：Not mandatory, but OSHA safety certification and CFI certification can enhance job prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

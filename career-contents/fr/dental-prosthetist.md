@@ -1,60 +1,93 @@
-# Dental Prosthetist（Dental Prosthetist）职业分析 · FR
+# Dental Prosthetist — career analysis · France
 
-**职业代码：J1410 – Dental Prosthetist。**
+**Occupation code: J1410 (ROME)**
 
-Designs and fabricates dental prostheses such as dentures, crowns, and bridges, collaborating with dentists using CAD/CAM, casting, and ceramic techniques.
+Design and fabricate dental restorations such as dentures, crowns, and bridges, collaborating with dentists using CAD/CAM, casting, and ceramic technologies.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年专业培训（BTS/DUT） | 2年（BTS） | $3,000~$8,000（公立学校学费较低，私立约5000-8000欧元/年） |
-| 职业高中+3年学徒制 | 3年（CAP+互补） | —（学徒制通常免费且带薪） |
+| High school graduation + 2 years of professional training (BTS/DUT) | 2 Years (BTS) | $3,000~$8,000 (Public school tuition is relatively low, while private schools cost about 5,000-8,000 euros per year) |
+| Vocational high school + 3-year apprenticeship | 3 years (CAP+ complementary) | $0~$2,000 (Apprenticeships are usually free and paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科技师职业文凭（BTS Prothésiste dentaire） | 法国教育部 | 必备 | 从业必备，需通过国家考试 |
-| 牙科技师资格证书（CAP Prothésiste dentaire） | 法国教育部 | 可选 | 基础资格，可从事辅助工作 |
+| Dental Technician Professional Diploma (BTS Prothésiste dentaire) | French Ministry of Education | Required | Essential for employment, requires passing a national exam |
+| Dental Technician Qualification Certificate (CAP Prothésiste dentaire) | French Ministry of Education | Optional | Basic qualifications, able to engage in auxiliary work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。法国人口老龄化推动义齿需求稳定增长，数字化技术（CAD/CAM）提升效率，但行业竞争适度，就业机会主要集中在城市实验室。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. France's aging population is driving steady growth in denture demand, and digital technology (CAD/CAM) improves efficiency, but industry competition remains moderate, with most job opportunities concentrated in urban laboratories.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，受雇于实验室 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，可独立操作多数病例 |
-| 高级（8年+） | $40,000~$55,000 | 税前年薪，包括实验室主管或自由执业 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, employed in the laboratory |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, able to independently handle most cases |
+| Senior (8+ years) | $40,000~$55,000 | Pre-tax annual salary, including laboratory supervisors or freelance practice |
+| average salary | $29,718 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从初级技师晋升至资深技师或实验室主管，也可专攻数字化义齿设计。拥有BTS或DUT学历后，可通过经验积累或进修成为独立实验室负责人。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI is profoundly transforming the work of dental technicians, but it has not caused the job to disappear; CAD/CAM and digital design tools will replace some traditional craftsmanship, but will create new digital jobs, while demand for high-end customization and doctor-patient communication continues to grow.
+
+Career development can be advanced from junior technician to senior technician or laboratory supervisor, or focus on digital denture design. With a BTS or DUT degree, students can gain experience or further study to become independent laboratory leaders.
+
+**Tasks most exposed to AI:**
+
+- Use CAD/CAM software to design the digitization of dentures and restorations
+- Automated milling, 3D printed denture bases, and metal brackets
+- Digital impressions are obtained through intraoral scanners, replacing traditional mold picking
+- AI-assisted occlusal analysis and prosthesis morphology optimization
+
+**Where AI augments the role:**
+
+- Quickly create prototypes and final restorations using digital scanning, design software, and CAM/3D printing
+- AI tools for case diagnosis, remediation plan design, and material selection recommendations
+- Leverage digital workflows for remote collaboration, cloud design, and data sharing
+- Use virtual try-on and color-matching systems to enhance the aesthetic quality of restorations
+
+**Human moat:**
+
+- Clinical communication and collaborative decision-making with dentists and orthodontists
+- Personalized assessment of patients' oral conditions and design of restoration plans
+- Complex occlusal studies, occlusal reconstruction, and aesthetic design assessments
+- Creativity and clinical experience in handling special cases (such as maxillofacial defects and implant restorations).
+
+**Skills to build:**
+
+- Skills in operating CAD/CAM software (such as Exocad, 3Shape).
+- 3D printing and post-processing technologies (SLA, SLS, DLP)
+- Digital intraoral scanner usage and data processing
+- Materials science knowledge (ceramics, resins, metals, etc.)
+- Medical regulations, privacy protection, and quality control standards
+- Communication and teamwork skills, especially with dentists and laboratory technicians
+
+**Key growth areas:**
 
 - Aging population
 - Digital dentistry (CAD/CAM)
@@ -63,69 +96,68 @@ Designs and fabricates dental prostheses such as dentures, crowns, and bridges, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 需获得法国雇主工作合同，通过劳动局审批，适用于受雇于牙科技工所。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于具有高学历或特殊技能者，要求雇主承诺年薪不低于42,000欧元。 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求大学学历及至少年薪53,836.50欧元（2024年标准），适合资深技师或实验室负责人。 |
+| Subclass Salarié (Employee (Salarié)) | A work contract from a French employer must be obtained and approved by the labor bureau, applicable to employees at dental laboratories. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for those with high academic qualifications or special skills, employers are required to commit to an annual salary of no less than 42,000 euros. |
+| Subclass Carte bleue UE (EU Blue Card) | A university degree and a minimum annual salary of €53,836.50 (2024 standard) are required, suitable for senior technicians or laboratory heads. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Prosthetist？**
-- 注重细节、手工灵巧者
-- 对口腔医学和材料科学感兴趣者
-- 喜欢独立工作且有耐心者
-
-**谁不适合学Dental Prosthetist？**
-- 不擅长精细手工操作者
-- 对客户沟通和团队协作要求高的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Attention to detail and skillful craftsmanship
+- Those interested in oral medicine and materials science
+- Those who enjoy working independently and are patient
+
+**Who is not suited**
+- Not skilled in fine manual work
+- People with high demands for customer communication and team collaboration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of dental technicians?**
+A: Beginner is about 24,000-30,000 euros per year, intermediate 30,000-40,000 euros per year, and advanced 40,000-55,000 euros per year. Freelance earnings are higher but come with costs.
+
+**Q: How can non-EU individuals become dental technicians in France?**
+A: Must obtain a BTS diploma and register. Can apply for an employer-sponsored Salarié visa or Passeport Talent visa. EU citizens can freely move.
+
+**Q: What certifications do dental technicians need in France?**
+A: Must hold a nationally recognized BTS Prothésiste dentaire diploma. CAP qualification allows for assistance, but independent work requires BTS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dental Prosthetist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental prosthetists?**
-答：Entry-level: €24,000-30,000/yr; mid-level: €30,000-40,000/yr; senior: €40,000-55,000/yr. Self-employed can earn more.
-
-**问：How can non-EU nationals become dental prosthetists in France?**
-答：Require a BTS diploma and registration. Obtain an employer-sponsored Salarié visa or Talent Passport. EU citizens have free movement.
-
-**问：What certifications are required for dental prosthetists in France?**
-答：A state-recognized BTS Prothésiste dentaire is mandatory. CAP qualifies for assistant roles but BTS is needed for independent work.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

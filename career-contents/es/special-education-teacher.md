@@ -1,131 +1,164 @@
-# Special Education Teacher（Special Education Teacher）职业分析 · ES
+# Special Education Teacher — career analysis · Spain
 
-**职业代码：2312 – Special Education Teacher。**
+**Occupation code: 2311 (CNO)**
 
-Provide individualized instruction and support to students with special educational needs (e.g., disabilities, learning difficulties) in public or private special education centers in Spain.
+Special education teachers are responsible for providing personalized instruction and support to students with special needs (such as intellectual, sensory, emotional, or learning disabilities), often working at public or private special education centers.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado en Educación Primaria con mención en Peda | $1,000~$2,000（公立大学年学费约1000-2000€） |
-| 职业培训高级阶段 | 2年（FP Grado Superior en Integración Social o simil | $500~$1,500（公立FP年学费约500-1500€） |
+| Bachelor's family (Grado en Educación Primaria con Mención en Pedagogía Terapéutica) | 4 years | $1,000~$2,000 (Annual tuition fees for public universities vary by region) |
+| Master's (Máster en Educación Especial) | 1 year | $1,500~$3,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学资质（如Grado en Magisterio） | 西班牙大学 | 必备 | 必须为官方学位，需通过学历认证(homologación)才能任教 |
-| 特殊教育专项培训 | 大学或FP中心 | 可选 | 如硕士或专业课程，非强制但强烈推荐 |
+| Teacher Qualification (Master of Teacher Training, Máster de Profesorado) | Spanish University | Required | Non-education graduates need this master's degree to pursue a teaching career |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country education credentials must be certified, and the process may take 6-12 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。西班牙对特殊教育教师需求稳定，受政策支持，老龄化社会增加特殊需求学生数量，但公立岗位竞争激烈。预计未来几年缓慢增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Spain's demand for special education teachers is stable, driven by policies promoting inclusive education, but due to economic factors, public school positions are highly competitive. An aging society has also increased the long-term demand for special education professionals.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公立学校按薪资等级，税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 含各种补贴 |
-| 高级（7年以上） | $35,000~$45,000 | 有管理职责或特殊技能 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$30,000 | Public schools start at about 25,000-32,000 euros, while private schools offer slightly lower salaries |
+| Intermediate (3-10 years) | $30,000~$38,000 | With seniority, it can reach 35,000-40,000 euros |
+| Senior (10+ years) | $38,000~$45,000 | Senior teachers or coordinators can earn over 45,000 euros |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从普通特殊教育教师晋升为协调员、部门主管或教育心理学家。也可通过攻读硕士或博士进入大学研究或管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
 
-- Inclusive education
-- Disability support
-- Early intervention
-- Autism spectrum
+Career development paths include promotion from classroom teacher to special education coordinator, educational psychologist, or education management positions. You can also enter university research or training fields by pursuing a master's or doctoral degree.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
+
+- Inclusive Education
+- Special Needs Support
+- Rising Demand
+- Policy Driven
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit hired by a company） | 需先找到西班牙学校雇主，申请受雇工作居留。要求学历与工作经验。通过劳动力市场测试。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 如果作为大学教师或研究员可申请，但特殊教育通常不符合高管/研究员标准。 |
-| Subclass Homologación（Professional qualification recognition） | 海外学历需通过西班牙教育部学历认证(homologación)才能获得教师资质，过程复杂。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A job contract must be provided by a Spanish school and a labor market test must be passed (exemption for shortage occupations). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | This applies to highly educated or high-income individuals, but for teachers, employer support is usually required and salary thresholds are met. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Requires a higher education degree and a work contract meeting the threshold; teaching positions may be eligible, but salary requirements are high. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teacher？**
-- 有耐心、擅长与特殊需求学生沟通
-- 具备教育学或心理学背景
-- 希望稳定就业并有社会贡献感
-
-**谁不适合学Special Education Teacher？**
-- 抗压能力弱，无法应对行为问题
-- 不愿接受长时间学历认证过程
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and skilled communicators with students with special needs
+- People with a background in psychology or education who are willing to work long-term in the education industry
+- Able to adapt to the school's work pace and be able to accept the Spanish teaching environment
+
+**Who is not suited**
+- Those unwilling to undergo academic verification or unable to provide complete information
+- Those who want to earn a high salary quickly or are reluctant to work in education
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for special education teachers in Spain?**
+A: Junior teachers in public schools earn about 25,000-30,000 euros annually, intermediate teachers about 30,000-38,000 euros, senior teachers can earn over 45,000 euros, and private schools usually earn slightly less.
+
+**Q: How can Chinese teachers immigrate to Spain for special education?**
+A: A Spanish university degree or completion of academic qualification (homologación) is required, and a teaching qualification is obtained through the Máster de Profesorado (Master of Teacher Training). Then look for a school offering a work contract and apply for work residence (Cuenta ajena) or the EU Blue Card.
+
+**Q: What certifications do special education teachers need?**
+A: You must hold a Master of Teacher Training (Máster de Profesorado) and a corresponding undergraduate degree (such as in education or psychology). Foreign degrees must be certified by the Spanish Ministry of Education (homologación).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Special Education Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of special education teachers in Spain?**
-答：Entry-level about €22,000-28,000/year, mid-level €28,000-35,000/year, senior up to €45,000/year. Public schools follow fixed salary scales, private slightly lower.
-
-**问：How can overseas qualifications lead to becoming a special education teacher in Spain?**
-答：Foreign qualifications must be recognized via homologación by the Spanish Ministry of Education (1-2 years). Then apply for a work permit with employer sponsorship.
-
-**问：What is the career progression for special education teachers?**
-答：Can advance to coordinator, department head, specialize in areas like autism, or pursue a PhD for university roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

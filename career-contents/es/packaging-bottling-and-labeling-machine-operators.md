@@ -1,60 +1,93 @@
-# Packaging, Bottling and Labeling Machine Operators（Packaging, Bottling and Labeling Machine Operators）职业分析 · ES
+# Packaging, Bottling and Labeling Machine Operators — career analysis · Spain
 
-**职业代码：8193 – Packaging, Bottling and Labeling Machine Operators。**
+**Occupation code: 8193 (CNO)**
 
-Operate automatic packaging, filling and labeling machinery, responsible for product sealing, quality inspection and equipment maintenance, common in food, beverage, pharmaceutical and chemical industries.
+Operate automatic packaging, filling, and labeling machinery, responsible for product packaging, quality inspection, and equipment maintenance, commonly found in the food and beverage, pharmaceutical, and chemical industries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Básico） | 2年 | —（公立学校免费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费或低学费） |
+| Secondary Vocational Education (FP Básico) | 2 years | $0~$1,000 (Public schools are free, with only a registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训证书（FP Técnico） | 西班牙教育部 | 可选 | 非强制，但明显提升就业机会 |
-| 安全工作许可证（PRL） | 劳动与社会保障部 | 可选 | 部分企业要求 |
+| Vocational Training Certificate (FP Técnico) | Spanish Ministry of Education | Optional | Non-mandatory, but significantly increases employment opportunities |
+| Safe Work Permit (PRL) | Ministry of Labor and Social Security | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,000。西班牙包装行业稳定，受消费品需求驱动；自动化升级需要技能提升，但入门级岗位需求持续存在。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. Spain's packaging industry is stable, driven by consumer goods demand; Automation upgrades require skill enhancement, but the demand for entry-level positions persists.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-6年） | $22,000~$26,000 | 税前年薪 |
-| 高级（6年以上） | $26,000~$30,000 | 税前年薪，主管级 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (6+ years) | $26,000~$30,000 | Annual salary before tax, supervisor level |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为生产线主管或质量控制员，也可通过培训转为机械维护或自动化技术员。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Operators of packaging, bottling, and labeling machines are highly automated high-risk professions; traditional operational positions will be reduced, but demand for machine maintenance and process optimization is rising.
+
+You can be promoted from operator to production line supervisor or quality controller, or through training to become a mechanical maintenance or automation technician.
+
+**Tasks most exposed to AI:**
+
+- Manual loading and unloading: Replaced by automatic feeding systems and robotic palletizing
+- Real-time quality visual inspection: replaced by machine vision inspection systems
+- Simple reset operation during faults: replaced by remote diagnosis and automatic recovery
+- Production record entry: Automatically collected and replaced by the MES system
+
+**Where AI augments the role:**
+
+- Preventive equipment maintenance: AI analyzes vibration and temperature data to predict bearing and motor lifespan
+- Quick Mold Change: AI optimizes parameter settings and guides operators to change molds
+- Comprehensive Quality Analysis: AI integrates multi-sensor data to identify packaging sealing defects
+- Energy Consumption Optimization: AI scheduling start-stop sequence reduces standby energy consumption
+
+**Human moat:**
+
+- Equipment mechanical maintenance and circuit fault troubleshooting
+- Quick decision-making during production anomalies (such as handling sterile leaks)
+- Cross-machine joint debugging and production line rhythm balance
+- Root cause analysis of customer quality complaints
+
+**Skills to build:**
+
+- Basics of PLC and HMI programming
+- Machine vision system debugging (such as Cognex, Halcon)
+- Industrial robot teaching and collaborative programming
+- MES interfaces with industrial IoT interfaces
+- Lean production and TPM system knowledge
+- Food safety regulations and certifications (such as BRC, FSSC 22000)
+
+**Key growth areas:**
 
 - automation
 - packaging machinery
@@ -63,61 +96,63 @@ Operate automatic packaging, filling and labeling machinery, responsible for pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙雇主担保的工作居留，需证明岗位无法被欧盟公民填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6个月寻找工作，需有足够经济能力。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by an EU citizen. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, provided you have sufficient financial means. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Packaging, Bottling and Labeling Machine Operators？**
-- 动手能力强、注重细节的人
-- 愿意从事重复性、倒班工作的人
+**Who is suited**
+- Hands-on, detail-oriented people
+- People willing to do repetitive shift-based work
 
-**谁不适合学Packaging, Bottling and Labeling Machine Operators？**
-- 不喜欢体力劳动和机械环境的人
-- 寻求高收入和快速晋升的人
+**Who is not suited**
+- People who dislike physical labor and mechanical environments
+- People seeking high income and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for packaging operators?**
+A: Entry level approx EUR 18,000-22,000/year, mid-level EUR 22,000-26,000/year, senior up to EUR 30,000/year.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It is a challenging and non-scarce occupation, requiring employer sponsorship and proof that local workers cannot be recruited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Packaging, Bottling and Labeling Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a packaging operator?**
-答：Entry-level around EUR 18,000-22,000/year, mid-level EUR 22,000-26,000/year, senior up to EUR 30,000/year.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult; it is not a shortage occupation and requires employer sponsorship with labor market test.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

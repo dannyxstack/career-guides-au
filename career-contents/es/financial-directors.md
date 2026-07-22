@@ -1,59 +1,95 @@
-# Financial Directors（Financial Directors）职业分析 · ES
+# Financial Directors — career analysis · Spain
 
-**职业代码：1211 – Financial Directors。**
+**Occupation code: 1211 (CNO)**
 
-Financial Directors oversee financial strategy, budgeting, risk management, and reporting, leading finance teams to ensure compliance and profitability.
+The Chief Financial Officer is responsible for corporate financial strategic planning, budget control, risk management, and financial reporting, leading the finance team to ensure compliance and profitability goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$12,000（公立大学约1000-2500€/年，私立约6000-12000€/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$20,000（金融或MBA硕士，公立约2000-5000€/年，私立约8000-20000€/年） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$12,000 (Public universities about €1,000-2,500/year, private about €6,000-12,000/year) |
+| Máster | 1-2 years | $2,000~$20,000 (For a master's degree in finance or an MBA, public about €2,000-5,000 per year, and about €8,000-20,000 per year for private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 会计师认证（例如Censal） | 西班牙注册会计师协会（ICJCE） | 可选 | 非强制，但增强竞争力 |
-| 注册财务分析师（CFA） | CFA Institute | 可选 | 国际认可，非强制 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学历需认证方可执业，非强制但有助于就业 |
+| Certified accountants (e.g., Censal) | Spanish Institute of Certified Public Accountants (ICJCE) | Optional | Not mandatory, but enhances competitiveness |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Internationally recognized, not mandatory |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country diplomas must be certified to practice; it is not mandatory but helps with employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 32,000。西班牙财务总监需求稳定，尤其在跨国公司、大型企业及金融服务业。数字化转型和合规要求增加岗位机会。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Demand for financial directors in Spain is stable, especially among multinational corporations, large enterprises, and the financial services industry. Digital transformation and compliance requirements increase job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理财务经理或小型企业财务主管 |
-| 中级（3-7年） | $50,000~$80,000 | 中型企业财务总监或大型企业财务经理 |
-| 高级（7年以上） | $80,000~$150,000 | 大型企业或跨国公司财务总监 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant Finance Manager or Small Business Finance Supervisor |
+| Mid-level (3–7 years) | $50,000~$80,000 | Financial Director of a medium-sized enterprise or financial manager of a large enterprise |
+| Senior (7+ years) | $80,000~$150,000 | Chief Financial Officer of a large enterprise or multinational corporation |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可从财务经理晋升至财务总监，再至首席财务官（CFO）。具备国际财务报告准则（IFRS）经验及MBA学位有助晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+You can advance from financial manager to financial director, and then to Chief Financial Officer (CFO). Experience with International Financial Reporting Standards (IFRS) and an MBA degree can help with advancement.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Digital Finance
 - Corporate Governance
@@ -62,68 +98,67 @@ Financial Directors oversee financial strategy, budgeting, risk management, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高薪职位，年薪需超过西班牙平均工资1.5倍（约34,000€），财务总监通常满足条件。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高技能专业人才，需大学学历或以上，公司提供工作合同，审批较快。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需公司担保，无特别薪资要求，但需证明职位无法由本地人填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-paying positions, with an annual salary at least 1.5 times the Spanish average (about €34,000), and the financial director usually meets the requirements. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled professionals, a university degree or above is required. The company provides a work contract and approval is relatively fast. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires company sponsorship, no special salary requirements, but proof that the position cannot be filled by local residents. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Directors？**
-- 具备财务分析、战略规划和领导力的人
-- 希望在跨国公司或金融行业发展的人
-- 有国际财务报告准则（IFRS）经验者
-
-**谁不适合学Financial Directors？**
-- 偏好纯粹技术工作、不愿承担管理责任的人
-- 对数字不敏感、压力耐受度低的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with financial analysis, strategic planning, and leadership skills
+- People hoping to develop in multinational corporations or the financial industry
+- Experience with International Financial Reporting Standards (IFRS).
+
+**Who is not suited**
+- People who prefer purely technical work and are unwilling to take on management responsibilities
+- People who are numerically insensitive and have low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a CFO in Spain?**
+A: Entry-level salaries are about €35,000-50,000 per year, intermediate salaries €50,000-80,000 per year, and seniors up to €150,000 per year.
+
+**Q: How can a foreign CFO immigrate to Spain?**
+A: Applications can be made through the EU Blue Card (requiring high salary) or the Highly Skilled Professional Visa (requiring a university degree and work contract).
+
+**Q: What is the career development path for a CFO?**
+A: Typically, they start as financial analysts or accountants, advance to financial managers, then become financial directors, and finally become Chief Financial Officers (CFOs).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Financial Directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Financial Directors in Spain?**
-答：Entry-level around €35,000-50,000, mid-level €50,000-80,000, senior up to €150,000 per year.
-
-**问：How can a foreign Financial Director migrate to Spain?**
-答：Via EU Blue Card (high salary required) or Highly Skilled Professional visa (requires degree and job offer).
-
-**问：What is the career path for a Financial Director?**
-答：Typically starts as financial analyst or accountant, progresses to finance manager, then financial director, and eventually CFO.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

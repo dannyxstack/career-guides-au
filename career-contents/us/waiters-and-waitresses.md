@@ -1,61 +1,97 @@
-# Waiters and Waitresses（Waiters and Waitresses）职业分析 · 美国
+# Waiters and Waitresses — career analysis · United States
 
-**职业代码：35-3031 – Waiters and Waitresses。**
+**Occupation code: 35-3031 (SOC)**
 
-Take orders and serve food and beverages to patrons at tables in dining establishments, ensuring a pleasant dining experience. Excludes fast food and counter workers.
+Taking orders, serving food, and providing beverage service to customers in restaurants, bars, and other dining venues, ensuring a satisfactory dining experience. Excludes fast food and counter staff.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年（高中） | —（公立高中免费） |
-| 短期培训课程 | 数周至数月 | $500~$2,000（可选餐饮服务培训，非必需） |
+| High school diploma or equivalent | 12 years (high school). | $0~$0 (Public high schools are free) |
+| Short-term training course | A few weeks to several months | $500~$2,000 (Optional food service training, not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | 州卫生部或认证机构 | 可选 | 部分州要求通过食品安全培训考试 |
-| 酒精服务许可证 | 州酒精饮料管控局 | 可选 | 提供酒类的州要求，如RBS培训 |
-| 在职培训 | 雇主 | 必备 | 通常由餐厅提供短期在职培训 |
+| On-the-job training | Employer | Required | Typically provided through short-term on-the-job training at restaurants |
+| Food safety certification | State health department or accrediting body | Optional | Some states require passing a food safety training exam |
+| Alcohol Service Permit | State Alcohol Control Authority | Optional | State requirements for serving alcohol, such as RBS training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,300,000。美国劳工统计局预测2023-2033年该职业就业增长约2%，低于平均水平。受自动化点餐系统影响，但高端餐饮和体验式用餐需求仍提供机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,300,000. U.S. Bureau of Labor Statistics predicts about 2% employment growth for this occupation from 2023-2033, below average. Affected by automated ordering systems, but high-end dining and experiential dining still provide opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高压（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 含小费，时薪低州可能低于最低工资 |
-| 中级（3-7年） | $28,000~$38,000 | 包含小费，高档餐厅更高 |
-| 高级（7年以上） | $38,000~$50,000 | 包括主管级或高档餐饮，小费丰厚 |
+| Median salary | $35,230 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $20,000~$28,000 | Includes tips; hourly wage may be below minimum wage in some states. |
+| Mid-level (3–7 years) | $28,000~$38,000 | Includes tips, higher in upscale restaurants |
+| Senior (7+ years) | $38,000~$50,000 | Includes supervisory or fine dining roles with generous tips |
+| average salary | $40,060 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 晋升路径包括领位员、主管、餐厅经理或转向调酒、餐饮管理等领域。部分大型连锁酒店提供管理培训生项目。
-**AI替代风险：中风险（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Career progression includes host, supervisor, restaurant manager, or moving into bartending, hospitality management, etc. Some large hotel chains offer management trainee programs.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - low growth
 - limited advancement
@@ -64,65 +100,67 @@ Take orders and serve food and beverages to patrons at tables in dining establis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常不适用，因服务员岗位通常不满足专业职业要求 |
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性雇佣可能适用，但有年度配额限制 |
+| Subclass H-1B (Specialty Occupations) | Generally not applicable, as server positions usually do not meet professional occupation requirements |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal hiring may apply, but with annual quota limits |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Waiters and Waitresses？**
-- 善于沟通、有服务热情的人
-- 能承受快节奏和长时间站立
-- 追求灵活排班和兼职机会
+**Who is suited**
+- People who are good at communicating and have a passion for service
+- Able to handle fast-paced environments and long periods of standing
+- Pursuing flexible scheduling and part-time opportunities
 
-**谁不适合学Waiters and Waitresses？**
-- 不喜社交或对客人服务缺乏耐心
-- 需要稳定高收入及职业保障
+**Who is not suited**
+- Dislikes social interaction or lacks patience with customer service
+- Need stable high income and job security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the main source of income for waiters tips?**
+A: Yes, tips typically account for 50-70% of servers' total income; federal minimum wage may be as low as $2.13/hour (tipped wage credit), but employers must ensure total hourly wage reaches federal minimum ($7.25).
+
+**Q: Is it feasible for a foreigner to work as a waiter in the USA on a work visa?**
+A: Very difficult. Waitstaff typically do not meet H-1B professional occupation requirements, H-2B seasonal visas have caps and require employer sponsorship, and green card pathways are nearly nonexistent. Most workers are locals or green card holders.
+
+**Q: Is there a path to management for waitstaff?**
+A: Yes. Common path: Server → Head Server/Supervisor → Assistant Manager → Restaurant Manager. Large chain restaurant groups like Darden and Brinker offer management training programs, but require several years of experience and exceptional service skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高压（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中风险（★★★☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Waiters and Waitresses属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the primary income for waiters from tips?**
-答：Yes, tips typically account for 50-70% of a waiter's total income. Federal minimum cash wage is $2.13 per hour (tipped wage), but employers must ensure total hourly wage meets $7.25.
-
-**问：Is it possible for a foreigner to work as a waiter in the US via work visa?**
-答：Very difficult. Waiter does not qualify for H-1B specialty occupation. H-2B seasonal visa has quota and requires employer sponsorship. Green card pathway is almost non-existent. Most workers are locals or permanent residents.
-
-**问：Is there a career path from waiter to management?**
-答：Yes. Typical path: Waiter → Head Waiter/Supervisor → Assistant Manager → Restaurant Manager. Large chains like Darden and Brinker offer management training programs, but require years of experience and excellent service skills.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

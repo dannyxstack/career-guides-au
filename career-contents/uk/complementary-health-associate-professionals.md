@@ -1,59 +1,95 @@
-# Complementary health associate professionals（Complementary health associate professionals）职业分析 · UK
+# Complementary health associate professionals — career analysis · United Kingdom
 
-**职业代码：3214 – Complementary health associate professionals。**
+**Occupation code: 3214 (SOC)**
 
-Complementary health associate professionals use non-mainstream treatments such as acupuncture, massage, and herbal medicine in support of conventional medical treatments. They work in clinics, rehab centers, or self-employed settings to support patient health management.
+Complementary health associate professionals use non-mainstream treatment methods such as acupuncture, massage, herbal medicine, etc., to supplement conventional medicine. They work in clinics, rehabilitation centers, or self-employed settings, supporting patient health management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 大专/本科 | 3年 | $9,000~$25,000（学费因课程和院校而异） |
-| 认证课程 | 1-2年 | $3,000~$10,000（部分课程可在线学习） |
+| Diploma/Bachelor's degree | 3 years | $9,000~$25,000 (Tuition fees vary by course and institution) |
+| Certified courses | 1-2 years | $3,000~$10,000 (Some courses available online) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 补充健康疗法文凭 | 英国补充医学协会 | 必备 | 需完成认证课程 |
-| 专业注册 | 补充及自然医疗委员会 | 可选 | 非强制但提升信誉 |
-| 从业保险 | 保险机构 | 可选 | 自雇人士必需 |
+| Diploma in Complementary Health Therapies | Complementary Medical Association (UK) | Required | Must complete accredited courses. |
+| Professional registration | Complementary and Natural Healthcare Council | Optional | Not mandatory but enhances credibility |
+| Insurance Sales | Insurance institution | Optional | Mandatory for self-employed individuals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。英国对替代疗法的需求稳定增长，特别是老龄化人口和慢性病患者增加。政府支持整合医学，但缺乏统一监管。就业机会在私人诊所和健康中心较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Demand for alternative therapies in the UK is steadily growing, especially with an aging population and increasing chronic disease patients. Government supports integrative medicine but lacks unified regulation. Job opportunities are more common in private clinics and health centers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 受雇于诊所或健康中心 |
-| 中级（3-8年） | $28,000~$40,000 | 有经验且专精特定疗法 |
-| 高级（8年以上） | $40,000~$60,000 | 自雇或拥有私人诊所 |
+| Median salary | $27,888 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Employed by clinics or health centers |
+| Mid-level (3–8 years) | $28,000~$40,000 | Experienced and specialized in specific therapies |
+| Senior (8+ years) | $40,000~$60,000 | Self-employed or running a private clinic |
+| average salary | $26,320 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括：从助理级到高级治疗师，可专精特定疗法（如针灸、整骨），或开设私人诊所。部分人员可晋升为健康管理顾问或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
+
+Career development paths include: from assistant to senior therapist, specializing in specific therapies (e.g., acupuncture, osteopathy), or opening a private practice. Some may advance to health management consultants or trainers.
+
+**Tasks most exposed to AI:**
+
+- Preliminary symptom analysis and health history recording
+- Patient appointment scheduling, reminders, and basic follow-up email generation
+- Assisting pattern recognition for common therapies (e.g., acupoint localization).
+- Herbal formula dosage calculation and interaction checking
+- Standardized health questionnaire results are automatically parsed
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve assessment accuracy (e.g., tongue/pulse analysis)
+- Big data recommends personalized wellness plans (diet, schedule, exercise)
+- Digital therapy platform expands remote monitoring and interaction
+- Knowledge retrieval system for quick access to latest clinical research
+- Intelligent exercise guidance to assist patients in self-rehabilitation (e.g., qigong, meditation)
+
+**Human moat:**
+
+- Intuition and touch in body contact therapies (e.g., massage, acupuncture)
+- Empathetic communication and emotional support to build trust
+- Complex cross-system overall judgment and decision-making
+- Culturally sensitive personalized advice (considering life background)
+- Emergency response and real-time physical reaction adjustment
+
+**Skills to build:**
+
+- AI health analysis tool operation (e.g., symptom checker, digital tongue diagnosis)
+- Basic programming or data analysis (Python/R for patient data)
+- Digital therapeutics platform usage and remote health management skills
+- Ethics and data privacy management (GDPR related)
+- Enhanced communication and patient education skills (explaining AI recommendations)
+- Continuously track evidence-based medicine and AI integration research
+
+**Key growth areas:**
 
 - Integrative Medicine
 - Ageing Population
@@ -62,68 +98,67 @@ Complementary health associate professionals use non-mainstream treatments such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的合格职业，需满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适用于在替代医学领域有杰出成就或潜力的专家 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在毕业后工作2-3年，积累经验 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to eligible occupations for employer sponsorship; must meet salary and skill requirements. |
+| Subclass Global Talent (Global Talent visa) | Experts with outstanding achievements or potential in the field of alternative medicine |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2-3 years after graduation to gain experience |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Complementary health associate professionals？**
-- 对替代疗法有浓厚兴趣者
-- 善于沟通和倾听者
-- 希望灵活工作方式的人
-
-**谁不适合学Complementary health associate professionals？**
-- 对科学证据要求严格的人
-- 追求高薪和快速晋升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in alternative therapies
+- Good at communication and listening
+- For those seeking flexible working arrangements.
+
+**Who is not suited**
+- Someone who demands rigorous scientific evidence
+- Those pursuing high salary and rapid advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Allied Health Assistant professionals?**
+A: Junior annual salary around £20k–28k, mid-to-senior up to £40k–60k, self-employed income varies greatly.
+
+**Q: Can this occupation enter the UK via a skilled worker visa?**
+A: Yes, this occupation is on the list of eligible occupations for the Skilled Worker visa, but requires employer sponsorship and meeting the salary threshold.
+
+**Q: Is this occupation on the UK Shortage Occupation List?**
+A: Yes, this occupation is in shortage, making employer sponsorship relatively easy, with certain visa benefits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Complementary health associate professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for complementary health associate professionals?**
-答：Entry-level salary is around £20,000-£28,000, mid-level to senior can reach £40,000-£60,000, with self-employed income varying.
-
-**问：Can this occupation come to the UK via a skilled migration visa?**
-答：Yes, it is on the eligible occupations list for the Skilled Worker visa, but requires employer sponsorship and meeting salary thresholds.
-
-**问：Is this occupation on the UK shortage occupation list?**
-答：Yes, it is on the shortage list, making employer sponsorship easier and offering certain visa benefits.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

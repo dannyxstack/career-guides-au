@@ -1,60 +1,92 @@
-# Handicraft Worker in Textile, Leather and Related Materials（Handicraft Worker in Textile, Leather and Related Materials）职业分析 · IE
+# Handicraft Worker in Textile, Leather and Related Materials — career analysis · Ireland
 
-**职业代码：7318 – Handicraft Worker in Textile, Leather and Related Materials。**
+**Occupation code: 7318 (ISCO08)**
 
-Creates handmade textile, leather and related crafts, including weaving, embroidery and leather carving, serving local and tourist markets.
+Hand-made crafts from textiles, leather and other materials, including weaving, embroidery, leather carving, etc., serving local markets and the tourist souvenir industry.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育/培训 | 1-2年（职业培训） | $2,000~$6,000（部分课程可申请政府资助） |
-| 本科（艺术/设计相关） | 3-4年（本科） | $10,000~$20,000（年均学费，欧盟学生或有减免） |
+| Vocational education/training | 1-2 years (vocational training) | $2,000~$6,000 (Some courses may qualify for government funding.) |
+| Bachelor's degree (arts/design related) | 3-4 years (Bachelor's degree) | $10,000~$20,000 (Annual tuition fee, EU students may receive reduction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家手工艺资格证书 | 爱尔兰继续教育与培训管理局 (QQI) | 可选 | 可选，提升求职竞争力 |
-| 专业研讨会/工作坊证书 | 手工艺行业协会或培训机构 | 可选 | 非必须，但有助于掌握专项技能 |
+| National Craft Certificate | Quality and Qualifications Ireland (QQI) | Optional | Optional, enhances job competitiveness |
+| Professional seminar/workshop certificate | Handicraft industry associations or training institutions | Optional | Not mandatory but helps in developing specialized skills. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 500。爱尔兰手工艺行业规模较小但稳定，受旅游和本地文化消费支撑。就业机会有限，多为自雇或小型工作室，预计保持平稳。
+**Job demand: low (★½☆☆☆).** National workforce approx. 500. The craft industry in Ireland is small but stable, supported by tourism and local cultural consumption. Job opportunities are limited, mostly self-employment or small studios, and are expected to remain steady.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 多为兼职或自雇，收入不稳定 |
-| 中级（3-7年） | $25,000~$35,000 | 稳定接单或工作室雇员 |
-| 高级（7年以上） | $35,000~$50,000 | 知名手工艺人或工作室主理人 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Mostly part-time or self-employed, income unstable |
+| Mid-level (3–7 years) | $25,000~$35,000 | Stable orders or studio employee |
+| Senior (7+ years) | $35,000~$50,000 | Renowned artisan or studio head |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从学徒或助理起步，积累技术后可成为独立手工艺人，或开设个人工作室。少数优秀者可晋升为艺术总监或参加国际展览。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI impact on artisans is mixed: standardized design, pattern generation, and online sales are replaceable, but handcrafted quality, custom creativity, and material innovation form a moat.
+
+Start as an apprentice or assistant, accumulate skills to become an independent artisan, or open a personal studio. A few outstanding individuals can advance to art director or participate in international exhibitions.
+
+**Tasks most exposed to AI:**
+
+- Design pattern generation: AI can automatically generate textile and leather patterns based on keywords, reducing demand for hand-drawn designs
+- Online product description and marketing: AI writes product copy and generates promotional images, replacing some marketing tasks
+- Inventory and order management: automated systems handle raw material ordering, finished goods inventory, and customer orders
+- Repetitive manual production: automated equipment such as machine knitting and laser cutting produce basic styles.
+
+**Where AI augments the role:**
+
+- Creative design acceleration: using AI tools like Midjourney to rapidly iterate design concepts and spark inspiration
+- Personalized custom services: AI analyzes customer preferences to generate unique pattern plans, improving customization efficiency.
+- Materials innovation exploration: AI simulates the effects of different material combinations to optimize durability and aesthetics.
+- Digital twin display: preview effects via 3D modeling and AR virtual display without samples.
+
+**Human moat:**
+
+- Handcraft skills and touch: weaving tension, leather carving texture, and other fine handwork that AI cannot replicate
+- Client communication and story design: understand client needs, tell the cultural story behind the work
+- Material innovation and problem-solving: handling irregularities in natural materials, addressing process challenges on site
+- Brand loyalty and community building: build personal brand and fan base through workshops and exhibitions
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Stable Diffusion, Adobe Firefly)
+- E-commerce and social media marketing (Shopify, Instagram)
+- Basic digital modeling and 3D rendering
+- Knowledge and application of sustainable materials
+- Project management and custom service communication
+
+**Key growth areas:**
 
 - Niche market
 - tourism-driven
@@ -63,62 +95,64 @@ Creates handmade textile, leather and related crafts, including weaving, embroid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需雇主担保，年薪通常需达30000欧元以上，但手工艺行业薪资可能低于门槛，申请难度大。 |
-| Subclass Stamp 4 (EU Family P（EU Family Member Residence Card） | 欧盟公民家庭成员可自由工作，适合已有欧盟家属关系者。 |
+| Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, annual salary usually must be over 30,000 euros, but craft industry salaries may be below the threshold, making applications difficult. |
+| Subclass Stamp 4 (EU Family P (EU Family Member Residence Card) | Family members of EU citizens can work freely; suitable for those with existing EU family ties |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Handicraft Worker in Textile, Leather and Related Materials？**
-- 喜欢手工制作、有耐心和创造力的人
-- 追求工作自由度、不介意收入波动的人
-- 对手工艺文化有热情并愿意持续学习的人
+**Who is suited**
+- People who enjoy manual work, are patient, and creative
+- Those seeking work flexibility and not minding income fluctuations
+- People passionate about handicraft culture and willing to continuously learn
 
-**谁不适合学Handicraft Worker in Textile, Leather and Related Materials？**
-- 追求高薪和稳定职业的人
-- 对重复性手工操作缺乏耐心的人
+**Who is not suited**
+- Those seeking high salary and stable careers.
+- People who lack patience for repetitive manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the income prospects for artisans in Ireland?**
+A: Income is generally low: junior levels earn about 18,000-25,000 EUR, senior up to 50,000 EUR, but most are self-employed with unstable income.
+
+**Q: Can non-EU citizens immigrate to Ireland through craft occupations?**
+A: Extremely difficult, as this occupation is not in demand, and the salary usually does not meet the work permit threshold (annual salary must exceed 30,000 euros).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Handicraft Worker in Textile, Leather and Related Materials属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income outlook for handicraft workers in Ireland?**
-答：Income is generally low; entry-level around €18,000-25,000, senior up to €50,000, but mostly self-employed with unstable income.
-
-**问：Can non-EU citizens immigrate to Ireland as handicraft workers?**
-答：Very difficult as the occupation is not on shortage lists and salary often below the work permit threshold (€30,000+).
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

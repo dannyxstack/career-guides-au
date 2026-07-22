@@ -1,59 +1,88 @@
-# Media Producer (excluding Video)（Media Producer (excluding Video)）职业分析 · 澳大利亚
+# Media Producer (excluding Video) — career analysis · Australia
 
-**职业代码：212112 – Media Producer (excluding Video)。**
+**Occupation code: 212112 (ANZSCO)**
 
-Media Producer (excluding Video) plans, coordinates and oversees the production of audio, digital media content such as podcasts, radio programs and online media projects.
+Media producer (excluding video) plans, coordinates, and oversees production of audio, digital media, etc., including podcasts, radio programs, and online media projects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $25,000~$45,000（每年学费，国际生约$30,000-$45,000澳元；本地生$8,000-$11,000（CSP补贴后）） |
-| 副学士/文凭 | 2年 | $15,000~$30,000（每年学费，适用于TAFE或私立院校） |
+| Bachelor's degree | 3 years | $25,000~$45,000 (Annual tuition: international students approximately $30,000-$45,000 AUD; domestic students $8,000-$11,000 (after CSP subsidy)) |
+| Associate degree/diploma | 2 years | $15,000~$30,000 (Annual tuition fee, applicable to TAFE or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 媒体制作相关学士学位 | 澳洲大学（如RMIT、UTS、墨尔本大学） | 可选 | 传媒、广播或数字媒体专业 |
-| Skills Assessment | VETASSESS | 必备 | 技术移民需通过VETASSESS职业评估，属于Group B，需本科+相关经验或学历评估 |
-| 行业认证（可选） | Australian Film Television and Radio School (AFTRS) | 可选 | 短期课程或证书提升竞争力 |
+| Skills Assessment | VETASSESS | Required | Skilled migration requires a VETASSESS skills assessment, Group B, requiring a bachelor's degree plus relevant experience or qualification assessment |
+| Bachelor's degree in media production or related field | Australian universities (e.g., RMIT, UTS, University of Melbourne) | Optional | media, broadcasting, or digital media major |
+| Industry certification (optional) | Australian Film Television and Radio School (AFTRS) | Optional | Short-term courses or certificates to boost competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。澳洲媒体行业持续数字化转型，对播客和数字音频内容的需求增长，但行业竞争激烈。预计未来5年就业增长相对稳定，机会集中在城市地区。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Australia's media industry continues its digital transformation, with growing demand for podcasts and digital audio content, but intense industry competition. Employment growth is expected to be relatively stable over the next 5 years, with opportunities concentrated in urban areas.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理制作人或入门级制作人 |
-| 中级（3-7年） | $70,000~$95,000 | 独立管理项目的制作人 |
-| 高级（7年以上） | $95,000~$130,000 | 高级制作人、内容总监 |
+| Median salary | $113,308 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant producer or entry-level producer |
+| Mid-level (3–7 years) | $70,000~$95,000 | Producer managing independent projects |
+| Senior (7+ years) | $95,000~$130,000 | Senior producer, content director |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从助理制作人起步，晋升为制作人、高级制作人，再到内容总监或媒体经理。也可转向独立制作或创办制作公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Career progression can start as an Assistant Producer, advance to Producer, Senior Producer, then Content Director or Media Manager. Also possible to move into independent production or start a production company.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital Media
 - Podcasting
@@ -62,68 +91,67 @@ Media Producer (excluding Video) plans, coordinates and oversees the production 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa (Temporary)） | 雇主担保临时签证，需有雇主且职业在CSOL上 |
-| Subclass 186（Employer Nomination Scheme (Permanent)） | 雇主担保永居签证，需通过职业评估，有3年工作经验 |
-| Subclass 190（Skilled Nominated Visa (Permanent)） | 州担保技术移民，需满足州担保要求，职业在相关清单上 |
+| Subclass 482 (Skills in Demand Visa (Temporary)) | Employer-sponsored temporary visa, requires an employer and the occupation on the CSOL |
+| Subclass 186 (Employer Nomination Scheme (Permanent)) | Employer-sponsored permanent residence visa, requires skills assessment and 3 years of work experience |
+| Subclass 190 (Skilled Nominated Visa (Permanent)) | State-nominated skilled migration, requires meeting state nomination requirements, occupation on relevant list |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Media Producer (excluding Video)？**
-- 热爱媒体和内容创作，有创意和讲故事能力
-- 具备项目管理、时间管理和团队协作能力
-- 主动适应数字媒体趋势，学习技术工具（如音频编辑软件）
-
-**谁不适合学Media Producer (excluding Video)？**
-- 不喜欢快节奏、多任务和截止压力
-- 回避与人沟通或协调资源
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about media and content creation, with creativity and storytelling ability
+- Possessing project management, time management, and teamwork skills
+- Proactively adapt to digital media trends, learning technical tools (e.g., audio editing software)
+
+**Who is not suited**
+- Dislikes fast-paced, multitasking, and deadline pressure
+- Avoids communicating with people or coordinating resources
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a media producer (excluding video)?**
+A: Junior approx. AUD 55,000-70,000, intermediate 70,000-95,000, senior 95,000-130,000. Salary varies by region, experience, and employer type (e.g. public broadcaster, commercial company).
+
+**Q: Can media producers (excluding video) migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the CSOL and can lead to immigration via the 482 employer-sponsored temporary visa or the 186 permanent visa; some states (such as NSW and Victoria) may also offer 190 state-nominated visas, but require relevant work experience and state nomination conditions. The skills assessment is conducted by VETASSESS, classified as Group B, requiring a bachelor's degree.
+
+**Q: What are the career prospects for media producers (excluding video)?**
+A: Digital transformation brings new opportunities, with strong growth in podcasts and digital audio. However, competition is fierce, requiring continuous learning of new technologies and content strategies. Career progression includes senior producer, content director, or independent producer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Media Producer (excluding Video)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Media Producer (excluding Video)?**
-答：Entry-level around AUD$55,000-$70,000, mid-level $70,000-$95,000, senior $95,000-$130,000. Salary varies by location, experience and employer type (e.g. public broadcaster vs commercial).
-
-**问：Can a Media Producer (excluding Video) migrate to Australia via skilled visa?**
-答：Yes. The occupation is on the CSOL, eligible for 482 (employer sponsored) and 186 (permanent). Some states (e.g. NSW, VIC) may offer 190 nomination. Skills assessment by VETASSESS (Group B) requires bachelor degree.
-
-**问：What is the career outlook for a Media Producer (excluding Video)?**
-答：Digital transformation brings opportunities in podcasting and audio content. Competition is strong. Career progression to senior producer, content director or independent producer.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

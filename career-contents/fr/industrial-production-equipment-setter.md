@@ -1,58 +1,93 @@
-# Industrial Production Equipment Setter（Industrial Production Equipment Setter）职业分析 · FR
+# Industrial Production Equipment Setter — career analysis · France
 
-**职业代码：H2912 – Industrial Production Equipment Setter。**
+**Occupation code: H2912 (ROME)**
 
-Operates and adjusts industrial production equipment (e.g., CNC machines, robots) on production lines to ensure quality and efficiency. Works mainly in manufacturing plants.
+Operate and debug industrial equipment on the production line (such as CNC machines and robots) to ensure production quality and efficiency. Usually working in manufacturing factories.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中毕业会考 | 2年（Bac Pro） | —（公立学校免费，材料费约500欧元/年） |
-| 高级技师证书 | 2年（BTS） | —（公立学校免费，注册费约200-300欧元/年） |
+| Vocational high school graduation exam | 2 years (Bac Pro) | $0~$2,000 (Public schools are free, with material costs of about 500 euros per year) |
+| Advanced Technician Certificate | 2 Years (BTS) | $0~$3,000 (Public schools are free, with registration fees of about 200-300 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQPM 工业设备调试员 | 法国工业行业委员会（UIMM） | 可选 | 职业资格证书，非强制但企业认可 |
-| Bac Pro 工业设备维护 | 法国教育部 | 可选 | 常见教育背景，非强制 |
+| CQPM Industrial Equipment Debugging | French Industrial Industry Council (UIMM) | Optional | Professional qualification certificates, not mandatory but recognized by enterprises |
+| Bac Pro industrial equipment maintenance | French Ministry of Education | Optional | Common educational background, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。法国工业自动化和数字化转型推动对设备调试员的需求稳定增长，尤其在汽车、航空和电子行业。法国就业局（France Travail）列为中等紧缺职业，部分地区（如奥弗涅-罗讷-阿尔卑斯）短缺明显。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. France's industrial automation and digital transformation are driving steady growth in demand for equipment commissioners, especially in the automotive, aerospace, and electronics industries. France Travail lists occupations as moderately scarce, with significant shortages in some areas (such as Auvergne-Rhône-Alpes).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，包含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含管理职责或专项技能补贴 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including management duties or special skill subsidies |
+| average salary | $38,868 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从技术员晋升为团队主管或生产经理，或向自动化/机器人调试专家发展。通过继续教育（如CQPM）可转向工业维护或编程岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+You can be promoted from technician to team leader or production manager, or develop into an automation/robotics commissioning specialist. Continuing education (such as CQPM) can lead to industrial maintenance or programming positions.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Automation
 - Industry 4.0
@@ -61,67 +96,66 @@ Operates and adjusts industrial production equipment (e.g., CNC machines, robots
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 适用于有法国雇主担保的长期工作合同，需获得劳动许可（Autorisation de travail）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如持有硕士文凭或年薪≥39,000欧元，可获4年居留。 |
+| Subclass Salarié (Salarié (Employee)) | Applicable to long-term work contracts with French employer sponsorship; requires obtaining a work permit (Autorisation de travail). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents; holders of a master's degree or an annual salary of ≥39,000 euros can obtain a 4-year residence permit. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Production Equipment Setter？**
-- 喜欢动手操作、解决技术问题的人
-- 适应工厂环境和轮班制
-- 愿意学习自动化新技能
-
-**谁不适合学Industrial Production Equipment Setter？**
-- 不适应站立工作和噪音环境
-- 寻求办公室工作或低体力消耗岗位
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical problems
+- Adapt to factory environment and shift work
+- Willingness to learn new automation skills
+
+**Who is not suited**
+- Not suitable for standing work or noisy environments
+- Seek office work or low-energy positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for industrial equipment commissioners?**
+A: The entry-level annual salary is about 23,000-28,000 euros, with experience reaching 35,000-45,000 euros, depending on the industry, region, and company size.
+
+**Q: How can foreigners apply for a French work visa through this profession?**
+A: A French employer is required to provide a long-term employment contract and apply for a work permit. Meeting high-skill requirements (such as annual salary ≥ 39,000 euros and a master's degree) can apply for the Passeport Talent Passport or the EU Blue Card (Carte bleue UE).
+
+**Q: What training is required to become an industrial equipment commissioner?**
+A: Typically, a Bac Pro or BTS degree is required, and you can also obtain a CQPM certificate through apprenticeship. The training duration is generally 2 years, and public schools generally offer free admission.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Production Equipment Setter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for industrial production equipment setters?**
-答：Entry-level salary is around €23,000-€28,000 gross per year, rising to €35,000-€45,000 for experienced workers, depending on industry and region.
-
-**问：How can foreigners get a work visa for this occupation in France?**
-答：You need a long-term job offer from a French employer who obtains a work permit. High-skilled conditions (salary ≥€39,000, master's degree) allow applying for Passeport Talent or EU Blue Card.
-
-**问：What training is required to become an industrial production equipment setter?**
-答：Typically a Bac Pro or BTS in related fields, or a CQPM via apprenticeship. Training takes about 2 years and is mostly free at public institutions.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

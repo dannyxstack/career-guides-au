@@ -1,60 +1,96 @@
-# Sawing Machine Setters, Operators, and Tenders, Wood（Sawing Machine Setters, Operators, and Tenders, Wood）职业分析 · 美国
+# Sawing Machine Setters, Operators, and Tenders, Wood — career analysis · United States
 
-**职业代码：51-7041 – Sawing Machine Setters, Operators, and Tenders, Wood。**
+**Occupation code: 51-7041 (SOC)**
 
-Set up, operate, or tend wood sawing machines, including CNC equipment. Responsible for cutting logs or lumber to specified dimensions, serving as a fundamental role in wood processing and furniture manufacturing.
+Set up, operate, or tend wood sawing machines, including CNC equipment. Responsible for cutting logs or boards into specified sizes, a basic role in wood processing and furniture manufacturing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 6-12个月 | $500~$2,000（雇主提供培训或社区学院短期课程） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 6–12 months | $500~$2,000 (Employers provide training or short courses at community colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 多数雇主仅要求高中文凭，但持有锯切相关证书可提升竞争力 |
-| 安全培训（OSHA 10小时） | OSHA | 必备 | 部分雇主强制要求，费用约60-100美元 |
+| Safety training (OSHA 10-hour) | OSHA | Required | Required by some employers, costs about $60-100 |
+| No mandatory certification | None | Optional | Most employers only require a high school diploma, but a sawing-related certificate can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。受建筑和家具制造业需求影响，自动化可能减少部分岗位，但手工定制和复杂锯切仍需熟练工。未来十年就业预计略有下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Affected by demand from construction and furniture manufacturing, automation may reduce some positions, but handcrafted custom and complex sawing still require skilled workers. Employment expected to decline slightly over the next decade.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级操作员，时薪约13.5-17.3美元 |
-| 中级（3-7年） | $35,000~$46,000 | 熟练操作多种机器，时薪约16.8-22.1美元 |
-| 高级（7年以上） | $43,000~$56,000 | 高级锯工或班组长，时薪约20.7-26.9美元 |
+| Median salary | $42,770 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level operator, hourly wage approx. $13.5-$17.3 |
+| Mid-level (3–7 years) | $35,000~$46,000 | Proficient in operating multiple machines, hourly wage approximately $16.8-$22.1 |
+| Senior (7+ years) | $43,000~$56,000 | Senior saw operator or team leader, hourly wage approximately 20.7-26.9 USD |
+| average salary | $43,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 可从操作员晋升为高级锯工、班组长，或转向数控编程和机器维护。积累经验后有机会成为生产主管或质量控制员。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Timber sawing machine operators face mixed impacts: automation compresses repetitive tasks, but AI enhances complex custom machining and predictive maintenance, with demand diverging toward high-skilled operators.
+
+Can progress from operator to senior sawyer, team leader, or move into CNC programming and machine maintenance. With experience, opportunities arise as production supervisor or quality control inspector.
+
+**Tasks most exposed to AI:**
+
+- Repetitive material feeding and positioning
+- Manually set cutting parameters based on simple drawings
+- Monitor sawing process in real time and adjust manually
+- Jobs in quality inspection that involve identifying defects by eye
+- Writing routine maintenance and fault reports
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of cutting paths to reduce waste
+- Predictive maintenance: AI analyzes vibration and temperature data to warn of faults in advance
+- Smart vision system automatically detects wood defects and adjusts cutting
+- Digital twin simulation optimizes production processes
+- Collaborative robots assist with heavy object lifting, improving efficiency and safety
+
+**Human moat:**
+
+- Decision-making ability to resolve complex wood defects (e.g., knots, cracks)
+- Custom furniture creative processing and client communication
+- Troubleshoot and repair non-standard automated equipment
+- Multi-machine scheduling, process coordination, and team management
+- Work health and safety compliance management
+
+**Skills to build:**
+
+- Programming and operation of CNC woodworking equipment
+- AI and machine learning basics (for predictive maintenance and quality inspection)
+- Mechatronic maintenance skills
+- Use of CAD/CAM design software
+- Data analysis and production management
+- Collaborative robot programming and safe operation
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,62 +99,64 @@ Set up, operate, or tend wood sawing machines, including CNC equipment. Responsi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性临时工作签证，适用于木材加工等非农业岗位，需雇主担保，配额有限。 |
-| Subclass Green Card (PERM)（Employment-Based Permanent Residence） | 通过PERM劳工认证申请EB-3绿卡，但该职业证明劳工短缺较困难，通常需雇主特别支持。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal temporary work visa, applicable to non-agricultural roles like wood processing, requires employer sponsorship, limited quotas. |
+| Subclass Green Card (PERM) (Employment-Based Permanent Residence) | Applying for EB-3 green card through PERM labor certification, but proving labor shortage is difficult and typically requires special employer support. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sawing Machine Setters, Operators, and Tenders, Wood？**
-- 喜欢动手操作机器、注重安全规范的人
-- 能在嘈杂和粉尘环境中稳定工作的人
-- 愿意掌握数控技术以提升效率的务实者
+**Who is suited**
+- People who enjoy hands-on machine operation and prioritize safety regulations
+- Those who can work stably in noisy and dusty environments
+- Pragmatists willing to master CNC technology to improve efficiency.
 
-**谁不适合学Sawing Machine Setters, Operators, and Tenders, Wood？**
-- 不耐受重复性体力劳动和单调环境者
-- 追求高收入和高社会地位者
+**Who is not suited**
+- People intolerant of repetitive physical labor and monotonous environments
+- Those seeking high income and high social status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for wood sawing machine operators?**
+A: Median annual salary around $36,000. Entry-level: $28,000–$36,000; senior: $43,000–$56,000. Pay varies by region and factory size.
+
+**Q: Are there pathways for this occupation to immigrate to the US?**
+A: Very difficult. Generally requires employer sponsorship for H-2B temporary work visa (non-immigrant) or PERM green card, but labor certification is extremely hard to obtain because there is sufficient domestic labor for this occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 困难（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Sawing Machine Setters, Operators, and Tenders, Wood属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Sawing Machine Setters?**
-答：Median annual wage is around $36,000. Entry-level ranges $28,000-$36,000, senior can reach $43,000-$56,000, varying by location and plant size.
-
-**问：Are there immigration pathways to the US for this occupation?**
-答：Very difficult. Typically requires employer sponsorship for H-2B temporary visa or PERM green card, but labor certification is extremely hard to obtain due to sufficient domestic workforce.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Judges and Magistrates（Judges and Magistrates）职业分析 · ES
+# Judges and Magistrates — career analysis · Spain
 
-**职业代码：2513 – Judges and Magistrates。**
+**Occupation code: 2513 (CNO)**
 
-Judges and magistrates are the core of the judicial system, responsible for independently and impartially adjudicating cases, interpreting laws, and delivering verdicts. This is a highly regulated civil service profession requiring a rigorous national competitive exam (Oposición) and subsequent professional training.
+Judges and magistrates are the core of the judicial system, responsible for independently and impartially adjudicating cases, interpreting the law, and issuing judgments. This profession is part of a highly regulated civil service system, requiring a rigorous national judicial examination (Oposición) and subsequent professional training.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 法学学士（Grado en Derecho） | 4年 | $800~$12,000（公立大学每年约800-1500欧元，私立大学约5000-12000欧元） |
-| 司法学校高级培训（Escuela Judicial） | 1-2年 | —（通过Oposición后，由国家资助的带薪培训） |
+| Bachelor of Laws (Grado en Derecho) | 4 years | $800~$12,000 (Public universities: approx. 800-1500 euros/year; private universities: approx. 5000-12000 euros/year.) |
+| Advanced Training at Judicial School (Escuela Judicial) | 1-2 years | $0~$0 (After passing the Oposición, receive state-funded paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学学士或硕士学位（Licenciatura/Grado en Derecho） | 西班牙大学 | 必备 | 必须从西班牙或欧盟认可大学获得 |
-| 国家司法考试（Oposición a la Carrera Judicial） | 司法总委员会（CGPJ） | 必备 | 全国统一竞争性考试，通过率约1-2% |
-| 司法学校培训（Curso en la Escuela Judicial） | 司法学校（Escuela Judicial） | 必备 | 考试通过后必须完成的理论与实践培训 |
+| Bachelor or Master of Laws (Licenciatura/Grado en Derecho) | Spanish University | Required | It must be obtained from a university recognized in Spain or the EU |
+| National Judicial Examination (Oposición a la Carrera Judicial) | General Council of Justices (CGPJ) | Required | National unified competitive exam, pass rate about 1-2% |
+| Judicial School Training (Curso en la Escuela Judicial) | Escuela Judicial | Required | Theoretical and practical training that must be completed after passing the exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 5,500。西班牙司法系统持续需要法官以应对案件积压，但岗位受国家财政预算和公共部门招聘限制。数字化和专业化（如商事、家庭法）创造新机会，但竞争极为激烈，每年通过率极低。
+**Job demand: low (★½☆☆☆).** National workforce approx. 5,500. The Spanish judicial system continues to need judges to cope with case backlogs, but positions are limited by the national budget and public sector recruitment. Digitalization and specialization (such as business and family law) create new opportunities, but competition is extremely fierce and the annual pass rate is very low.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（治安法官，0-5年） | $45,000~$65,000 | 包括基本工资与补充津贴 |
-| 中级（初审法官/地方法官，5-15年） | $65,000~$95,000 | 视司法管辖区和年限 |
-| 高级（高等法院/最高法院法官，15年以上） | $95,000~$135,000 | 最高法院法官薪资接近最高公务员水平 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Junior (Magistrate, 0-5 years) | $45,000~$65,000 | Including base salary and supplementary allowances |
+| Intermediate (trial judge/magistrate, 5-15 years) | $65,000~$95,000 | Depending on jurisdiction and duration |
+| Senior (High Court/Supreme Court Judge, over 15 years) | $95,000~$135,000 | Supreme Court judges' salaries are close to the highest civil servant level |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 晋升路径通常从治安法官（Juez de Primera Instancia）逐步升至高等法院法官（Magistrado de Audiencia Provincial）或最高法院（Tribunal Supremo）。可转任司法行政职位或通过考试进入检察系统。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+The promotion path usually progresses from Juez de Primera Instancia to Judge of the Superior Court (Magistrado de Audiencia Provincial) or Supreme Court (Tribunal Supremo). They may transfer to judicial administrative positions or enter the procuratorial system through examinations.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - Judicial reform
 - Digitalization of justice
@@ -64,68 +100,67 @@ Judges and magistrates are the core of the judicial system, responsible for inde
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Permit） | 需西班牙司法机构作为雇主担保，但非欧盟申请人极难通过Oposición，欧盟公民可自由流动但需语言和考试准备。 |
-| Subclass Homologación（Degree Recognition） | 非欧盟法学学历需通过西班牙教育部学历认证（Homologación），认证后仍需参加Oposición，过程复杂且漫长。 |
+| Subclass Cuenta ajena (Employed Work Permit) | Spanish judicial authorities must act as employer sponsors, but non-EU applicants find it extremely difficult to pass the Oposición. EU citizens can move freely but require language and exam preparation. |
+| Subclass Homologación (Degree Recognition) | Non-EU law degrees require certification by the Spanish Ministry of Education (Homologación), and after certification, one must still participate in the Oposición, a complex and lengthy process. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Judges and Magistrates？**
-- 法律专业毕业生，有志于司法职业且能承受极高竞争压力者
-- 精通西班牙语及法律术语，愿意投入数年备考Oposición者
-- 追求职业稳定性与社会声望，不惧高强度工作节奏者
-
-**谁不适合学Judges and Magistrates？**
-- 不愿或无法通过长期高强度考试者
-- 希望快速移民或通过技术担保在西班牙工作的人士
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Law graduates who aspire to a judicial career and can withstand extremely high competition pressure
+- Proficient in Spanish and legal terminology, willing to spend several years preparing for the Oposición
+- Those who pursue career stability and social prestige and are not afraid of the high-intensity work pace
+
+**Who is not suited**
+- Those unwilling or unable to pass long-term, high-intensity exams
+- Those seeking quick immigration or working in Spain through skilled technical sponsorship
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a judge in Spain?**
+A: Junior judges earn an annual salary of about 45,000-65,000 euros, intermediate judges 65,000-95,000 euros, and senior judges up to 135,000 euros, excluding additional allowances.
+
+**Q: Can non-EU citizens become Spanish judges?**
+A: In theory, yes, but you must first pass the academic qualification certification (Homologación), then take the Spanish-language judicial exam (Oposición), which is highly competitive and requires Spanish nationality or, under certain conditions, long-term EU residency. In fact, it is very difficult.
+
+**Q: What educational qualifications and exams are required to become a judge?**
+A: A Bachelor of Laws degree recognized by Spain is usually required, passing the national judicial examination (Oposición), and completing 1-2 years of paid training at a judicial school. The entire process usually takes 7-10 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★½） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Judges and Magistrates为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a judge in Spain?**
-答：Entry-level judges earn around €45,000-65,000, mid-level €65,000-95,000, and senior judges up to €135,000, excluding allowances.
-
-**问：Can non-EU citizens become judges in Spain?**
-答：Theoretically yes, but you need degree homologation, pass the Spanish judicial exam (Oposición), and either have Spanish nationality or EU long-term residence. In practice, it is extremely difficult.
-
-**问：What education and exams are required to become a judge?**
-答：A recognized law degree, passing the national judicial exam (Oposición), and completing a 1-2 paid training at the Judicial School. The entire process takes 7-10 years.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

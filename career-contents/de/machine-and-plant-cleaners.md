@@ -1,59 +1,91 @@
-# Machine and Plant Cleaners（Machine and Plant Cleaners）职业分析 · DE
+# Machine and Plant Cleaners — career analysis · Germany
 
-**职业代码：5414 – Machine and Plant Cleaners。**
+**Occupation code: 5414 (KldB)**
 
-Machine and plant cleaners maintain cleanliness and hygiene of industrial machinery and facilities, ensuring safety and operational efficiency.
+Machine and equipment cleaners are responsible for cleaning and maintaining machines, equipment, and plant facilities in industrial and commercial premises, ensuring production safety and hygiene standards.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 无 | —（通常在职培训） |
-| 在职培训或短期课程 | 数周至数月 | $500~$3,000（由雇主或职业培训机构提供） |
+| No formal education requirements | None | $0~$0 (Usually on-the-job training) |
+| On-the-job training or short courses | A few weeks to several months | $500~$3,000 (Provided by the employer or vocational training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业清洁证书 | 德国工商业协会（IHK） | 可选 | 非强制，但有助于提升技能和就业机会 |
+| Industrial cleaning certificate | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but helps improve skills and job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。德国工业持续发展，对机器清洁工的需求稳定，尤其在制造业和食品加工业。自动化趋势可能减少部分岗位，但专业清洁服务需求仍存。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Germany's ongoing industrial development ensures steady demand for machine cleaners, especially in manufacturing and food processing. Automation trends may reduce some positions, but demand for professional cleaning services persists.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，基于行业和地区 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪，含主管职责 |
+| Median salary | $33,420 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, based on industry and region |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $36,000~$42,000 | Annual salary before tax, including supervisory duties |
+| average salary | $35,700 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从初级清洁工起步，通过经验积累可晋升为团队主管或转向设备维护技术岗位。部分人员通过进修获得工业清洁认证，提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of machine and equipment cleaners heavily relies on on-site physical operations, with limited AI automation, but some planning and monitoring tasks may be enhanced by AI, presenting both risks and opportunities.
+
+Usually start as junior cleaners, progress to team supervisors or equipment maintenance technicians through experience. Some obtain industrial cleaning certifications to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Using AI vision systems to automatically detect equipment contamination levels and plan cleaning paths
+- Trigger cleaning robots via IoT sensors for automated repetitive floor cleaning
+- Using AI algorithms to optimize the ratio and usage of cleaning chemicals
+- Predict equipment cleaning cycles based on historical data, reducing manual inspections.
+
+**Where AI augments the role:**
+
+- AI-assisted identification of equipment failure risks, improving pre-cleaning risk assessment
+- Receive cleaning step instructions and safety warnings through AR glasses
+- AI optimizes cleaning task scheduling to improve multi-device collaboration efficiency
+- Query equipment maintenance manuals and safety procedures using natural language interaction
+
+**Human moat:**
+
+- Adaptive cleaning operations in unstructured, messy environments
+- Post-cleaning manual inspection and quality assessment (e.g., odor, residues)
+- Communicates and coordinates with the production team, understands equipment downtime windows
+- Safe handling of emergencies such as spills and hazardous materials
+
+**Skills to build:**
+
+- Basic digital literacy and mobile device operation
+- Understanding IoT sensor data and alarm meanings
+- Record cleaning logs using a mobile app or PDA
+- Basic industrial safety and chemical knowledge updates
+- Teamwork and communication skills
+
+**Key growth areas:**
 
 - Industrial cleaning
 - Manufacturing
@@ -62,62 +94,64 @@ Machine and plant cleaners maintain cleanliness and hygiene of industrial machin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 若具有相关职业资质，可通过技术移民法获得工作签证，但此职业通常不要求资质认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 机会卡允许持有人在德国寻找工作，适合有经验但未获得具体工作offer者。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | If you have relevant professional qualifications, you can obtain a work visa through skilled migration laws, but this occupation usually does not require certification. |
+| Subclass Chancenkarte (Opportunity Card) | The Opportunity Card allows holders to search for a job in Germany, suitable for experienced individuals without a concrete job offer. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Machine and Plant Cleaners？**
-- 喜欢动手工作、注重细节的人
-- 愿意从事体力劳动和重复性工作
-- 寻求稳定就业且不追求高薪者
+**Who is suited**
+- People who enjoy hands-on work and pay attention to detail
+- Willing to engage in physical labor and repetitive tasks
+- Those seeking stable employment without pursuing high salary.
 
-**谁不适合学Machine and Plant Cleaners？**
-- 期望高收入和快速晋升的人
-- 对化学清洁剂敏感或不适应体力劳动
+**Who is not suited**
+- Those expecting high income and rapid promotion.
+- Sensitivity to chemical cleaners or inability to perform physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a robot cleaner in Germany?**
+A: Entry-level annual salary approximately EUR 24,000-30,000, increasing to EUR 36,000-42,000 with experience. Salary varies by region and industry.
+
+**Q: How can foreigners become machine cleaners in Germany?**
+A: Formal qualifications are typically not required, but a work visa is needed. Jobs can be found via skilled migration laws or opportunity cards; some employers provide training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Machine and Plant Cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for machine cleaners in Germany?**
-答：Entry-level salaries range from €24,000 to €30,000 annually, increasing to €36,000-€42,000 with experience, varying by region and industry.
-
-**问：How can foreigners become machine cleaners in Germany?**
-答：No formal qualification required, but a work visa is needed. Opportunities through Skilled Immigration Act or Opportunity Card; some employers offer training.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

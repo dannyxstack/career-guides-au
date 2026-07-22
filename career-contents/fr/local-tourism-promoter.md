@@ -1,60 +1,95 @@
-# Local Tourism Promoter（Local Tourism Promoter）职业分析 · FR
+# Local Tourism Promoter — career analysis · France
 
-**职业代码：G1102 – Local Tourism Promoter。**
+**Occupation code: G1102 (ROME)**
 
-Promotes local tourism resources, develops tourism products, coordinates attractions, accommodation, and dining services to enhance destination appeal.
+Responsible for promoting local tourism resources, developing tourism products, coordinating services for scenic spots, accommodation, dining, and other services to enhance the destination's appeal.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS旅游 | 2年（BTS） | $3,000~$8,000（公立学校学费较低，私立约3000-8000欧元/年） |
-| Licence专业旅游 | 3年（Licence） | $2,000~$5,000（公立大学学费约2000-5000欧元/年） |
-| Master旅游管理 | 2年（Master） | $4,000~$10,000（公立大学约4000欧元/年，高商更贵） |
+| BTS Tour | 2 Years (BTS) | $3,000~$8,000 (Public school tuition is relatively low, while private tuition is about 3,000-8,000 euros per year) |
+| Licence Professional Travel | 3 years (Licence) | $2,000~$5,000 (Tuition at public universities is about 2,000-5,000 euros per year) |
+| Master in Tourism Management | 2 years (Master) | $4,000~$10,000 (Public universities cost about 4,000 euros per year, while higher commercial schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Tourism | 法国教育部 | 必备 | 国家文凭，是入门必需 |
-| 导游证（Carte professionnelle d'guide） | Préfecture | 可选 | 若从事导游讲解需持有 |
-| TOEIC/TOEFL英语证书 | ETS | 可选 | 非强制，但提升竞争力 |
+| BTS Tourism | French Ministry of Education | Required | A national diploma is a requirement for entry |
+| Tour guide certificate (Carte professionnelle d'guide) | Préfecture | Optional | If you are engaged in guided tours, you need to hold one |
+| TOEIC/TOEFL English certificates | ETS | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。随着法国国内旅游和可持续旅游的兴起，该岗位需求稳定，尤其是在乡村和遗产地区。预计就业机会将小幅增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. With the rise of domestic and sustainable tourism in France, demand for this position remains stable, especially in rural and heritage areas. Job opportunities are expected to grow slightly.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常23k左右 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（8年以上） | $32,000~$40,000 | 税前年薪，管理岗可达45k |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary is usually around 23k |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (8+ years) | $32,000~$40,000 | Pre-tax annual salary, management positions can reach up to 45k |
+| average salary | $35,178 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级推广助理晋升为项目经理、区域旅游主管，或转向旅游规划、市场营销等方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
+
+You can be promoted from junior promotion assistant to project manager or regional tourism supervisor, or shift to tourism planning, marketing, and other directions.
+
+**Tasks most exposed to AI:**
+
+- Automated AI tour commentary: standard attraction information is replaced by AI voice guides or apps
+- Basic travel itinerary inquiries: standardized Q&A on dates, transportation, tickets, weather, etc., handled by AI chatbots
+- Online booking and order processing: automation of flight, hotel, and ticket reservation and confirmation processes
+- FAQ responses: routine questions (hours, routes) handled by AI customer service
+- Multilingual real-time translation: AI translation earphones reduce the need for language switching in human commentary
+
+**Where AI augments the role:**
+
+- Personalized itinerary customization: AI analyzes tourist preferences (interests, budget) to generate custom routes, consultant refines and finalizes
+- Real-time information enhancement: AI provides real-time updates on traffic, weather, and events, allowing guides to adjust arrangements
+- Multimodal interpretation assistance: AR/VR overlays historical images or 3D models to enhance on-site interpretation
+- Customer Relationship Management: AI analyzes customer feedback and historical data to help advisors make targeted recommendations and follow-ups
+- Content creation and promotion: AI-assisted writing of travelogues and social media content to enhance personal brand influence
+
+**Human moat:**
+
+- On-site emotional interaction and empathy: ability to handle tourist emotions and emergencies (e.g., lost persons, discomfort)
+- Cultural depth and storytelling interpretation: combining attractions with cultural context to create unique narrative experiences
+- Emergency decision-making and flexible adjustment: handling non-standard scenarios like weather changes, safety incidents
+- Local network and resource coordination: familiarity with local restaurants, drivers, and attractions to ensure service quality
+- The bridging role of language and culture: particularly Mandarin-speaking tour guides are irreplaceable in cross-cultural communication
+
+**Skills to build:**
+
+- AI tool application: Proficient in using ChatGPT, Copilot, etc. to generate itineraries and respond to customers
+- Digital content creation: shooting/editing short videos, writing travelogues, managing social media
+- Data analysis basics: use Excel or simple BI tools to analyze customer preferences and travel trends
+- Crisis management certifications: First aid, risk management, etc., enhance on-site value
+- Second foreign language: besides Chinese, learning Korean/Japanese can expand client base
+
+**Key growth areas:**
 
 - Sustainable tourism
 - Digital marketing
@@ -63,68 +98,67 @@ Promotes local tourism resources, develops tourism products, coordinates attract
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由法国雇主担保，工作合同至少1年，需申请工作许可 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，年薪需达到法国平均工资的1.5倍，约38k以上 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪至少43k（2023年标准），适合中高级职位 |
+| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, with a work contract of at least one year and a work permit required |
+| Subclass Passeport Talent (Talent Passport) | Applies to high-skilled talent; annual salary must reach 1.5 times the French average wage, around EUR 38k+. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary of at least €43k (2023 standard), suitable for mid-to-senior positions |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Local Tourism Promoter？**
-- 热爱旅游和文化交流的人
-- 具备良好沟通和销售能力的人
-- 希望在地方旅游机构或旅行社稳定工作的人
-
-**谁不适合学Local Tourism Promoter？**
-- 追求高薪的人
-- 不喜欢频繁与人打交道的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love travel and cultural exchange
+- Individuals with good communication and sales skills
+- People who wish to work stably at local tourism agencies or travel agencies
+
+**Who is not suited**
+- People seeking high income
+- People who dislike frequent interactions with others
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for local tourism promotion specialists?**
+A: Junior pre-tax annual salary approx EUR 22k-26k, mid-level approx EUR 26k-32k, senior up to EUR 40k+.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You can use a Salarié work permit or Passeport Talent Passport, which requires French language proficiency and employer sponsorship.
+
+**Q: What qualifications are required for this occupation?**
+A: Usually, you need BTS Tourism or a related license; if you are a guide, you need a tour guide certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Local Tourism Promoter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a local tourism promoter?**
-答：Entry-level gross annual salary is about €22k-26k, mid-level €26k-32k, senior up to €40k+.
-
-**问：How can foreigners immigrate through this occupation?**
-答：Via Salarié work permit or Passeport Talent, requiring French language skills and employer sponsorship.
-
-**问：What certifications are required?**
-答：BTS Tourism or related Licence is typical; guide certification required if acting as a tour guide.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

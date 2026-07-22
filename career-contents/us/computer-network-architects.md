@@ -1,60 +1,96 @@
-# Computer Network Architects（Computer Network Architects）职业分析 · 美国
+# Computer Network Architects — career analysis · United States
 
-**职业代码：15-1241 – Computer Network Architects。**
+**Occupation code: 15-1241 (SOC)**
 
-Design and implement computer networks such as LAN, WAN, intranets, extranets, and other data communications networks. Perform network modeling, analysis, and planning, including capacity needs analysis. May design network security measures.
+Design and implement computer networks, including LAN, WAN, intranet, extranet, and other data communication networks; perform network modeling, analysis, and planning to ensure network infrastructure capacity meets demand, and design network security measures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学年均学费约1万-3万美元） |
-| 硕士 | 2年 | $30,000~$80,000（MBA或计算机相关硕士） |
-| 证书 | 6-12个月 | $3,000~$15,000（思科CCNP/CCIE等认证） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities charge an average annual tuition of about $10,000-$30,000 USD.) |
+| Master's degree | 2 years | $30,000~$80,000 (MBA or master's degree in computer science or related field) |
+| Certificate | 6–12 months | $3,000~$15,000 (Cisco CCNP/CCIE certifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学士学位 | 大学 | 必备 | 通常要求 |
-| 思科CCNP认证 | Cisco | 可选 | 常见，非强制但强烈推荐 |
-| 网络安全认证（如CISSP） | ISC2 | 可选 | 加分项 |
+| Bachelor's degree in computer science or related field | University | Required | Usually required |
+| Cisco CCNP certification | Cisco | Optional | Common, not mandatory but strongly recommended |
+| Cybersecurity certification (e.g., CISSP) | ISC2 | Optional | Bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 165,100。美国劳工统计局预计2023-2033年就业增长4%，与平均水平相当。云技术和网络安全需求推动就业，但数据中心整合可能限制增长。
+**Job demand: high (★★★★☆).** National workforce approx. 165,100. The U.S. Bureau of Labor Statistics projects 4% employment growth from 2023-2033, about as fast as the average. Cloud technology and cybersecurity needs drive employment, but data center consolidation may limit growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 网络工程师/管理员晋升 |
-| 中级（3-7年） | $95,000~$130,000 | 独立负责网络设计 |
-| 高级（7年以上） | $130,000~$170,000 | 架构师或团队领导 |
+| Median salary | $134,050 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$95,000 | Network Engineer/Administrator advancement |
+| Mid-level (3–7 years) | $95,000~$130,000 | Independently responsible for network design |
+| Senior (7+ years) | $130,000~$170,000 | Architect or team leader |
+| average salary | $139,580 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 从网络工程师或管理员起步，积累经验后可晋升为高级架构师、IT经理或首席技术官。也可转向网络安全、云计算等专业领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Starting as a network engineer or administrator, can advance to senior architect, IT manager, or CTO with experience. Can also pivot to cybersecurity, cloud computing, etc.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Cloud Computing
 - Network Security
@@ -63,69 +99,68 @@ Design and implement computer networks such as LAN, WAN, intranets, extranets, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 最常见工作签证，需本科以上学历，有年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或本科+5年经验，可申请NIW |
-| Subclass EB-3（Employment-Based Third Preference） | 需本科或同等经验，通常需PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出人才，需证明成就 |
+| Subclass H-1B (H-1B Specialty Occupation) | Most common work visa, requires bachelor's degree or higher, subject to annual quota |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires Master's or Bachelor's + 5 years experience, eligible for NIW |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires bachelor's or equivalent experience, usually needs PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to outstanding talent; requires proof of achievements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Architects？**
-- 擅长逻辑分析和系统设计
-- 喜欢持续学习新技术
-- 具备团队协作和沟通能力
-
-**谁不适合学Computer Network Architects？**
-- 不喜欢技术细节和故障排除
-- 不愿更新知识体系
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at logical analysis and system design
+- Enjoys continuous learning of new technologies
+- Possess teamwork and communication skills
+
+**Who is not suited**
+- Dislikes technical details and troubleshooting
+- Unwilling to update knowledge systems
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for computer network architects?**
+A: According to US Bureau of Labor Statistics, 2023 median annual salary approx. 128,000 USD, entry-level approx. 70,000-90,000, senior up to 170,000+.
+
+**Q: As an international student, how can I immigrate to the US through this occupation?**
+A: Common path: F-1 → OPT → H-1B → EB-2/EB-3 green card. Requires employer sponsorship, H-1B lottery, STEM majors get 36-month OPT.
+
+**Q: What certifications are needed to work in this occupation?**
+A: Typically requires a bachelor's degree; Cisco CCNP/CCIE certifications can improve competitiveness but are not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Computer Network Architects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Computer Network Architects?**
-答：According to BLS, the median annual wage in 2023 was about $128,000, with entry-level around $70,000-$95,000 and senior up to $170,000.
-
-**问：How can international students immigrate through this occupation?**
-答：Typical path: F-1→OPT→H-1B→EB-2/EB-3 green card. Requires employer sponsorship, H-1B lottery, and STEM OPT up to 36 months.
-
-**问：What certifications are needed for this role?**
-答：A bachelor's degree is typically required; Cisco CCNP/CCIE certifications are beneficial but not mandatory.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

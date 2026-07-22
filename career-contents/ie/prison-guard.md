@@ -1,58 +1,94 @@
-# Prison Guard（Prison Guard）职业分析 · IE
+# Prison Guard — career analysis · Ireland
 
-**职业代码：5413 – Prison Guard。**
+**Occupation code: 5413 (ISCO08)**
 
-Prison guards supervise inmates, maintain security and order in correctional facilities, conduct patrols, searches, and emergency responses to ensure safe operations.
+Prison guards are responsible for supervising inmates, maintaining prison security and order, performing patrols, searches, and emergency responses to ensure the safe operation of correctional facilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无特定时长 | —（免费公立教育） |
-| 监狱服务培训课程 | 16周（包括实习） | —（雇主资助培训） |
+| High school graduation | No specific duration | $0~$0 (Free public education) |
+| Prison service training course | 16 weeks (including internship) | $0~$0 (employer-funded training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 背景调查及体检 | 爱尔兰监狱管理局 | 必备 | 需通过安全审查 |
-| 培训课程完成证明 | 爱尔兰监狱服务学院 | 必备 | 完成入职培训 |
+| Background check and medical examination | Irish Prison Service | Required | subject to security clearance |
+| Training Course Completion Certificate | Irish Prison Service College | Required | Complete induction training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 3,500。爱尔兰监狱警卫需求稳定，随着监狱人口增长和退休人员增加，预计未来几年有适度招聘，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Demand for prison guards in Ireland is stable, with moderate recruitment expected in the coming years due to a growing prison population and increasing retirements, though competition is high.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 税前年薪 |
-| 中级（4-10年） | $35,000~$45,000 | 税前年薪 |
-| 高级（10年以上） | $45,000~$55,000 | 包括主管职位 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Annual pre-tax salary |
+| Mid-level (4-10 years). | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (10+ years) | $45,000~$55,000 | Including supervisory positions. |
+| average salary | $40,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业晋升路径包括高级警卫、值班主管、监狱官员及管理职位，需通过内部考试和培训积累经验。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on prison guards is mixed: repetitive tasks like patrols and monitoring will be automated, but inmate management and crisis judgment still require humans. Overall jobs are stable, but entry-level opportunities may decrease due to technological substitution.
+
+Career progression paths include senior guard, shift supervisor, prison officer, and management positions, requiring internal exams and training to gain experience.
+
+**Tasks most exposed to AI:**
+
+- Scheduled physical patrols and area monitoring
+- Manual scanning and inspection of prisoner identity and belongings
+- Enter and organize daily reports and logs.
+- Rule-based threat detection and alarm response
+- Tracking and recording prisoner movement trajectories
+
+**Where AI augments the role:**
+
+- AI-assisted real-time risk analysis to enhance crisis early warning capabilities
+- Smart monitoring systems enhance detection of abnormal inmate behavior
+- Automated report generation frees up time for more complex tasks
+- AI-assisted visitor management and hazardous material identification
+- Virtual training system improves security guards' ability to respond to violent incidents
+
+**Human moat:**
+
+- On-site mediation skills to handle inmate conflicts and psychological issues
+- Quickly assess and take non-standard actions in emergencies
+- Interpersonal tactics to build prisoner trust and compliance
+- Intuitive perception of subtle power dynamics in prison
+- Physique to maintain authority and composure in high-pressure environments
+
+**Skills to build:**
+
+- Fundamentals of AI and data analytics (e.g., anomaly detection)
+- Operate intelligent security systems (drones, CCTV analysis).
+- Crisis communication and de-escalation techniques (psychological intervention)
+- Digital Evidence Collection and Reporting Automation
+- Cross-cultural Communication and Conflict Management
+- Basic programming and system maintenance (e.g., sensor maintenance)
+
+**Key growth areas:**
 
 - Stable demand
 - Aging workforce retirements
@@ -61,65 +97,64 @@ Prison guards supervise inmates, maintain security and order in correctional fac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪需达到一定门槛。监狱警卫通常不符紧缺，但可申请此类许可。 |
-| Subclass EU/EEA Freedom of Mo（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民无需工作许可，可自由在爱尔兰从事监狱警卫工作。 |
-| Subclass Single Permit（Single Permit for Work and Residence） | 适用于非欧盟公民，结合工作与居留，需雇主申请，薪资条件与一般就业许可相似。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in shortage, requires employer sponsorship and meeting a certain salary threshold. Prison guards are usually not in shortage but may apply for this type of visa. |
+| Subclass EU/EEA Freedom of Mo (EU/EEA Freedom of Movement) | EU/EEA citizens require no work permit and can freely work as prison guards in Ireland. |
+| Subclass Single Permit (Single Permit for Work and Residence) | For non-EU citizens, combines work and residence, requires employer application, salary conditions similar to General Employment Permit. |
 
-**PR难度：较高难（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Prison Guard？**
-- 纪律性强、冷静应对高压者
-- 有良好沟通与冲突处理能力
-- 身体体能达标、愿意轮班
-
-**谁不适合学Prison Guard？**
-- 不适应封闭工作环境
-- 无法接受暴力或冲突场景
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Disciplined, calm under pressure
+- Good communication and conflict resolution skills
+- Physically fit and willing to work shifts
+
+**Who is not suited**
+- Inability to adapt to confined work environments
+- Cannot tolerate violence or conflict scenes
+
+---
+
+## 8. FAQ
+
+**Q: How much do prison guards earn?**
+A: Entry-level salary around €30,000-35,000 per year, increasing to over €45,000 with experience.
+
+**Q: Can non-EU citizens apply?**
+A: Can apply for a General Employment Permit, but prison guard is not a shortage occupation; requires employer sponsorship and meeting the salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高难（★★★½☆） |
-
-Prison Guard的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a prison guard?**
-答：Entry-level salary is around EUR 30,000-35,000, rising to over EUR 45,000 with experience.
-
-**问：Can non-EU citizens apply?**
-答：Yes, via a General Employment Permit, but prison guard is not a shortage occupation; employer sponsorship and salary threshold required.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

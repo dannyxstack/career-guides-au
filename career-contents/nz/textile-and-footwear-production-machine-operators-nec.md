@@ -1,60 +1,93 @@
-# Textile and Footwear Production Machine Operators nec（Textile and Footwear Production Machine Operators nec）职业分析 · 新西兰
+# Textile and Footwear Production Machine Operators nec — career analysis · New Zealand
 
-**职业代码：711799 – Textile and Footwear Production Machine Operators nec。**
+**Occupation code: 711799 (ANZSCO)**
 
-Operate textile or footwear production machines such as knitting, stitching, cutting, and finishing equipment to ensure product quality. This occupation is not on the Green List, but residency can be sought via AEWV or Skilled Migrant Category with salary threshold.
+Operate textile or footwear production machines such as weaving, stitching, cutting, and finishing equipment to ensure product quality. This occupation is not on New Zealand's Green List, but residency can be applied for through the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), subject to salary requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（新西兰本地学生免费，国际生约NZD 15,000/年） |
-| 在职培训 | 6-12个月 | —（雇主提供培训，部分需自费考证） |
-| Level 4证书 | 1年 | $8,000~$15,000（如纺织制造或鞋类生产证书） |
+| High school diploma | 3 years | $0~$0 (Free for local New Zealand students, approx. NZD 15,000/year for international students) |
+| On-the-job training | 6–12 months | $0~$5,000 (Employer provides training; some certifications require self-funding.) |
+| Level 4 certificate | 1 year | $8,000~$15,000 (Such as textile manufacturing or footwear production certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家纺织制造证书 (Level 4) | 新西兰技能组织 | 可选 | 非强制，但有助于就业 |
-| 工地安全卡 (Site Safe) | Site Safe | 可选 | 部分工厂要求 |
-| 雅思6.0或同等英语成绩 | 移民局认可机构 | 可选 | 仅移民时需提供 |
+| National Certificate in Textile Manufacturing (Level 4) | Skills Organisation New Zealand | Optional | Not mandatory, but helpful for employment |
+| Site Safety card | Site Safe | Optional | Required by some factories |
+| IELTS 6.0 or equivalent English score. | Department of Home Affairs recognized body | Optional | Only required for immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。新西兰纺织与制鞋业规模较小，受进口影响大。就业机会主要集中在奥克兰、坎特伯雷等地区的制造企业。预计未来五年需求平稳，年均岗位约50个，移民竞争较低。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. New Zealand's textile and footwear industry is small and heavily impacted by imports. Employment opportunities are mainly in manufacturing companies in regions like Auckland and Canterbury. Demand is expected to be stable over the next five years, with about 50 positions annually and low migration competition.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$48,000 | 按行业协议，起薪较低 |
-| 中级（3-6年） | $48,000~$55,000 | 熟练操作员，需监管无经验者 |
-| 高级（7年以上） | $55,000~$65,000 | 含主管或技术员津贴 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$48,000 | Starting salary is low per industry agreements |
+| Mid-level (3–6 years) | $48,000~$55,000 | Skilled operator required to supervise inexperienced workers |
+| Senior (7+ years) | $55,000~$65,000 | Includes supervisor or technician allowance |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从操作员可晋升为高级机器操作员或生产主管。若学习纺织工程或管理课程，可转向质量控制或生产经理职位。市场需求有限，晋升空间相对狭窄。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation are reshaping textile and footwear production machine operator roles: repetitive tasks face reduction, but quality control, machine maintenance, and process optimization are AI-enabled, requiring workers to proactively adapt.
+
+Operators can advance to senior machine operator or production supervisor. With textile engineering or management courses, they can move to quality control or production manager roles. Market demand is limited, and promotion space is relatively narrow.
+
+**Tasks most exposed to AI:**
+
+- Simple repetitive sewing, cutting, and weaving tasks
+- Batch production operations based on fixed parameters
+- Unified quality inspection performed by vision systems
+- Automated logistics for material handling and semi-finished product flow
+
+**Where AI augments the role:**
+
+- Using AI visual inspection systems to identify fabric defects or size deviations in real time
+- Predictive maintenance algorithms analyze machine vibration and temperature data to predict faults
+- Use machine learning to optimize production parameters (e.g., tension, speed) to improve yield rate
+- Using digital twin simulation to plan production and debug new order processes, reducing trial costs
+
+**Human moat:**
+
+- Ability to judge processes when handling non-standard fabrics (e.g., elastic, very thin, multi-layer composites).
+- Hands-on ability to diagnose and quickly hard-repair (non-module replacement) complex machine faults
+- Communicate fabric characteristics with designers, participate in small-batch custom sample collaboration
+- On-site management of flexibly switching between different processes in mixed product lines while ensuring consistent quality
+
+**Skills to build:**
+
+- Basic industrial data analysis (reading sensor data, identifying abnormal patterns)
+- Basic operation and debugging of programmable logic controllers (PLCs) or embedded systems
+- Introduction to 3D modeling and digital twin software (e.g., SolidWorks, Unity)
+- Programming and safe operation of human-robot collaboration (cobot)
+- Lean Production and Six Sigma (for continuous process optimization)
+- Cross-cultural communication and plain English/Māori communication (adapting to diverse teams)
+
+**Key growth areas:**
 
 - Regional Workforce
 - Skilled Migrant Category
@@ -63,68 +96,67 @@ Operate textile or footwear production machines such as knitting, stitching, cut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工作签证，适用于有雇主offer的申请人 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足薪资中位数（2024年约NZD 59,320）和分数要求 |
-| Subclass Partnership Based（Partner of a New Zealander） | 如配偶为新西兰公民或居民，可申请配偶类签证 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for applicants with a job offer |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, must meet median wage (approx. NZD 59,320 in 2024) and points requirements |
+| Subclass Partnership Based (Partner of a New Zealander) | If your spouse is a New Zealand citizen or resident, you may apply for a partner visa. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Textile and Footwear Production Machine Operators nec？**
-- 愿意从事体力劳动且动手能力强的人
-- 对机械操作感兴趣，能适应重复性工作
-- 需要快速获得新西兰工作签证的申请人
-
-**谁不适合学Textile and Footwear Production Machine Operators nec？**
-- 追求高薪资和职业发展空间的求职者
-- 希望岗位自动化风险低的人员
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People willing to do manual labor with strong hands-on skills
+- Interested in mechanical operations, able to adapt to repetitive work
+- Applicants who need a New Zealand work visa quickly
+
+**Who is not suited**
+- Job seekers pursuing high salary and career growth
+- People seeking low automation risk roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation in New Zealand?**
+A: Salary is lower, with entry-level around 40,000-48,000 NZD, senior around 55,000-65,000 NZD. Median around 50,000 NZD, below national median. Overtime or night shifts may have allowances.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: Not easy. This occupation is not on the Green List; it needs to go through SMC or AEWV pathways. SMC requires salary to reach the median (approx. NZD 59,320) and meet the 6-point system, which is more difficult for applicants without New Zealand qualifications. AEWV requires employer sponsorship.
+
+**Q: What skills are needed to work in this occupation in New Zealand?**
+A: Basic mechanical operation skills, quality inspection, safety awareness. Employers usually provide training. English required at a basic level, but for migration, IELTS 6.0 or equivalent is needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile and Footwear Production Machine Operators nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for this occupation in New Zealand?**
-答：Salaries are low: entry-level NZD 40,000-48,000, senior NZD 55,000-65,000. Median around NZD 50,000, below national median. Overtime or night shifts may be compensated.
-
-**问：Is it easy to immigrate to New Zealand for this occupation?**
-答：Not easy. It's not on the Green List, so only SMC or AEWV options. SMC requires salary at median (approx NZD 59,320) and points system, challenging without NZ qualification. AEWV requires employer sponsorship.
-
-**问：What skills are needed for this occupation in New Zealand?**
-答：Basic machine operation, quality checks, safety awareness. Employers usually provide training. English must be functional; for immigration, IELTS 6.0 or equivalent is required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

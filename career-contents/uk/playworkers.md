@@ -1,61 +1,94 @@
-# Playworkers（Playworkers）职业分析 · UK
+# Playworkers — career analysis · United Kingdom
 
-**职业代码：6117 – Playworkers。**
+**Occupation code: 6117 (SOC)**
 
-Playworkers deliver and facilitate play opportunities for children in various formal and informal settings including play schemes, free play locations, and pre- and after-school activities. They ensure safe, inclusive, and creative play environments that support children's social, emotional, and cognitive development.
+Play workers provide and promote play opportunities for children in various formal and informal settings (e.g., play schemes, free play spaces, before and after school activities). They ensure play environments are safe, inclusive, and creative, supporting children's social, emotional, and cognitive development through play.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 职业培训 | 6个月至1年 | $500~$2,000（如儿童游戏工作资格证书） |
-| 高等教育 | 2年 | $9,000~$15,000（基础学位或HND相关课程） |
+| Vocational training | 6 months to 1 year | $500~$2,000 (Such as children's play work qualification certificate) |
+| Higher education | 2 years | $9,000~$15,000 (Foundation degree or HND related course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 游戏工作国家职业资格3级 | SkillsActive | 可选 | 行业标准资格，涵盖游戏理论、安全与实践 |
-| 儿童保育资格 | Ofsted认可机构 | 可选 | 通常要求持有至少2级儿童保育资格 |
-| 儿童工作背景调查 | 披露与禁止服务局 | 必备 | 所有儿童工作者必须通过增强背景调查 |
+| Working with Children Check | Disclosure and Barring Service | Required | All child workers must pass an enhanced background check |
+| Game Work National Vocational Qualification Level 3 | SkillsActive | Optional | Industry standard qualification covering game theory, safety and practice |
+| Childcare qualification. | Ofsted-recognised institution | Optional | Usually requires holding at least a level 2 childcare qualification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国对游戏工作者的需求保持稳定，尤其在课后托管和假期游戏计划领域。政府加大对儿童服务和早期教育的投资，预计未来五年就业人数小幅增长，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for play workers in the UK remains stable, especially in after-school care and holiday play schemes. Government investment in children's services and early education is increasing, with slight employment growth expected over the next five years. Competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 全职，伦敦可能略高 |
-| 中级（3-7年） | $22,000~$28,000 | 包括高级游戏工作者 |
-| 高级（7年以上） | $28,000~$35,000 | 如协调员或经理 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Full-time, slightly higher in London |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes senior game workers |
+| Senior (7+ years) | $28,000~$35,000 | Such as coordinator or manager |
+| average salary | $21,128 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径包括成为高级游戏工作者、游戏计划协调员或儿童服务经理。部分人通过进修获得教师或社会工作者资格，转向更广泛的儿童或社区工作角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Game workers face a mixed impact from AI: automation will handle administrative and security monitoring tasks, but core abilities in creative interaction, emotional support, and free play facilitation are hard to replace and may even be enhanced by AI assistance.
+
+Career advancement paths include becoming a senior playworker, play scheme coordinator, or children's service manager. Some pursue further qualifications to become teachers or social workers, transitioning to broader child or community work roles.
+
+**Tasks most exposed to AI:**
+
+- Safety patrol and anomaly monitoring of game venues (AI visual recognition)
+- Automated generation of children's participation records and basic development reports (document automation).
+- Preparation and adjustment of activity schedules (AI scheduling algorithm)
+- Standardized game rule explanation videos replace repetitive commentary
+
+**Where AI augments the role:**
+
+- Uses AI to analyse children's play behaviour patterns and customise personalised play support plans
+- Design more immersive game scenes using VR/AR tools
+- AI-assisted real-time translation, supporting children from multilingual backgrounds to integrate into games
+- Automated recording of child developmental milestones to assist professional assessments
+
+**Human moat:**
+
+- On-site perception and response to children's immediate emotional and social needs
+- Intuition and experience to build an inclusive and creative gaming atmosphere
+- Empathy and flexibility in handling unexpected behavioral issues
+- Professional judgement in coordinating with parents, schools and multiple parties
+
+**Skills to build:**
+
+- Basic use of AI tools (e.g., child behavior analysis platform)
+- Gamified design and creative programming (e.g., Scratch, AR/VR content creation).
+- Social-emotional learning (SEL) theory and intervention techniques
+- Knowledge of data privacy and child protection regulations
+- Cross-cultural communication and application of multilingual assistive technology
+- Project Design and Evaluation Methods (e.g., outcome-oriented activity design)
+
+**Key growth areas:**
 
 - Stable demand
 - After-school care expansion
@@ -64,66 +97,68 @@ Playworkers deliver and facilitate play opportunities for children in various fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 游戏工作者通常不符合技术工人签证的资格，因为该职业不在可担保职业清单上。 |
-| Subclass Graduate（Graduate Visa） | 持有相关学位者可申请毕业生签证，在英国工作2年。 |
-| Subclass Global Talent（Global Talent Visa） | 极少数情况，如对儿童游戏有突出贡献者可能适用。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Gig workers are generally not eligible for the Skilled Worker visa as the occupation is not on the list of eligible occupations. |
+| Subclass Graduate (Graduate Visa) | Graduates with a relevant degree can apply for a Graduate Visa to work in the UK for 2 years. |
+| Subclass Global Talent (Global Talent Visa) | Very rare cases, such as those with outstanding contributions to children's games may apply. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Playworkers？**
-- 热爱与儿童互动、有耐心和创造力的人
-- 喜欢户外和自由游戏环境的人
-- 寻求灵活兼职或季节性工作的人
+**Who is suited**
+- People who enjoy interacting with children and are patient and creative
+- People who enjoy outdoor and free play environments
+- People seeking flexible part-time or seasonal work
 
-**谁不适合学Playworkers？**
-- 期望高薪或快速晋升的人
-- 不适应非结构化、嘈杂环境的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People who are uncomfortable with unstructured, noisy environments.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for game workers?**
+A: Entry-level game worker salary approximately GBP 18,000-22,000; senior or management roles up to GBP 28,000-35,000. Salary is relatively low but work is flexible.
+
+**Q: Can gaming workers apply for a UK work visa?**
+A: Generally no. Game workers are not on the list of occupations eligible for skilled worker visa sponsorship, so employers cannot sponsor. Only a few paths like the Graduate Visa or Global Talent Visa are possible.
+
+**Q: What qualifications do you need to become a gaming worker?**
+A: Generally no degree required, but holding playwork qualifications (e.g., NQF Level 3) or childcare qualifications improve employment chances. All workers must pass a DBS background check.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不利（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Playworkers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for playworkers?**
-答：Entry-level playworkers earn around £18,000-£22,000 per year, while senior or managerial roles can earn £28,000-£35,000. Salaries are relatively low but offer flexible working.
-
-**问：Can playworkers apply for a UK work visa?**
-答：Generally no. Playworkers are not on the eligible occupations list for the Skilled Worker visa, so employers cannot sponsor. Only limited routes like the Graduate visa or Global Talent visa may apply.
-
-**问：What qualifications are needed to become a playworker?**
-答：A degree is not required, but holding a playwork qualification (e.g., NQF Level 3) or childcare qualification enhances employability. All workers must pass a DBS background check.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

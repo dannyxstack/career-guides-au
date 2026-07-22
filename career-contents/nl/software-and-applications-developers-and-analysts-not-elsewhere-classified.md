@@ -1,58 +1,94 @@
-# Software and Applications Developers and Analysts Not Elsewhere Classified（Software and Applications Developers and Analysts Not Elsewhere Classified）职业分析 · NL
+# Software and Applications Developers and Analysts Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：2519 – Software and Applications Developers and Analysts Not Elsewhere Classified。**
+**Occupation code: 2519 (ISCO08)**
 
-Covers software development, testing, deployment, and system analysis roles not elsewhere classified, with high demand in the Netherlands IT sector.
+Covers unclassified positions such as software development, testing, deployment, and system analysis, which are in high demand in the Dutch IT industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（欧盟学生学费约€2,200/年，非欧盟约€10,000-15,000/年） |
-| 硕士 | 1-2年（硕士） | $18,000~$25,000（非欧盟学生学费约€18,000-25,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (EU student tuition approx. €2,200/year, non-EU approx. €10,000-15,000/year.) |
+| Master's degree | 1-2 years (Master's) | $18,000~$25,000 (Non-EU tuition fees: approx. €18,000-25,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学位 | 荷兰认证大学或应用科学大学 | 可选 | 通常要求至少本科学位，相关经验可替代 |
-| 认证如Oracle Java、AWS、Azure | Oracle、Amazon、Microsoft等 | 可选 | 非强制但显著提升竞争力 |
+| Computer science or related degree | Dutch accredited university or university of applied sciences | Optional | Usually requires at least a bachelor's degree; relevant experience may be substituted |
+| Certifications like Oracle Java, AWS, Azure | Oracle, Amazon, Microsoft, etc. | Optional | Not mandatory but significantly boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 45,000。荷兰数字化转型持续推动就业增长，预计未来五年岗位增长5-10%，尤其在金融科技、医疗IT和绿色能源领域。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. The Netherlands' digital transformation continues to drive employment growth, with an expected 5-10% job growth over the next five years, especially in fintech, health IT, and green energy sectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含8%假期津贴 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪，含8%假期津贴 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪，含8%假期津贴 |
+| Median salary | $68,765 | Median salary (official: CBS median hourly wage €34.8/hour × 1,976 hours annualized, BRC group 0811 Software- en applicatieontwikkel...; P25–P75 €53,352–€85,758, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, including 8% holiday pay |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual salary before tax, including 8% holiday pay |
+| Senior (7+ years) | $70,000~$90,000 | Annual salary before tax, including 8% holiday pay |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★½）。** 典型路径：初级开发→高级工程师→技术主管或架构师；亦可转向项目管理或产品经理。持续学习新技术（如云、AI）是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Typical path: junior developer → senior engineer → technical lead or architect; can also shift to project management or product manager. Continuous learning of new technologies (e.g., cloud, AI) is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - FinTech
@@ -61,68 +97,67 @@ Covers software development, testing, deployment, and system analysis roles not 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 针对高技能非欧盟员工，雇主担保，需达到收入门槛（2024年€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历（本科及以上）非欧盟员工，收入门槛€6,245/月（2024），可携家属。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业的非欧盟学生可申请1年过渡签证，自由工作，之后可转高技术移民。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled non-EU employees, employer-sponsored, must meet income threshold (2024 €5,331/month). |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU employees with higher education (bachelor's degree or above), income threshold €6,245/month (2024); can bring family members. |
+| Subclass Orientation Year (Orientation Year) | Non-EU students who graduate in the Netherlands can apply for a 1-year orientation visa for free work, then switch to the highly skilled migrant scheme. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 有计算机或相关学位
-- 喜欢持续学习新技术
-- 适应团队协作和敏捷开发
-
-**谁不适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 不喜欢编程和解决技术问题
-- 无法承受项目截止期压力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have a degree in computer science or related field
+- Enjoys continuous learning of new technologies
+- Adapt to team collaboration and agile development
+
+**Who is not suited**
+- Dislike programming and solving technical problems
+- Cannot handle project deadline pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of software developers in the Netherlands?**
+A: Junior: approx €35k-45k, mid: €50k-65k, senior: €70k-90k, all inclusive of holiday allowance.
+
+**Q: How can non-EU citizens immigrate to the Netherlands for software development?**
+A: Common pathways: Skilled migration (employer sponsorship, income threshold €5,331/month) or EU Blue Card (€6,245/month).
+
+**Q: Is there a shortage of software developers in the Netherlands?**
+A: Yes, especially in FinTech, cloud, and AI fields, the shortage has persisted for years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Software and Applications Developers and Analysts Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for software developers in the Netherlands?**
-答：Junior: €35k-45k, Mid: €50k-65k, Senior: €70k-90k, including holiday allowance.
-
-**问：How can non-EU citizens immigrate to the Netherlands for software development?**
-答：Common paths: Highly Skilled Migrant (employer sponsor, €5,331/month) or EU Blue Card (€6,245/month).
-
-**问：Is there a shortage of software developers in the Netherlands?**
-答：Yes, especially in FinTech, cloud, and AI, with persistent shortages.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

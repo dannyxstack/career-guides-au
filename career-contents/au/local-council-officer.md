@@ -1,64 +1,95 @@
-# 地方议会职员（Local Council Officer）职业分析 · 澳大利亚
+# Local Council Officer — career analysis · Australia
 
-**职业代码：599613 – Local Council Officer。**
+**Occupation code: 599613 (ANZSCO)**
 
-地方议会职员在市/郡议会(Local Council)从事行政、规划、社区服务、合规与设施管理等，受 Local Government Award 或企业协议覆盖，是各地稳定的公共部门岗位，非技术移民职业。
+Local council officers work in city/shire councils in administration, planning, community services, compliance, and facility management. Covered by Local Government Awards or enterprise agreements, these are stable public sector roles, not skilled migration occupations.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / 相关本科或证书（视岗位） | 0~4年 | —（专业岗需学位） |
+| High school / relevant bachelor's or certificate (depending on role) | 0–4 years | $0~$40,000 (Professional roles require a degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关专业资质（按岗位） | 认可机构 | 可选 | 专业岗要求 |
-| National Police Check / Working with Children（部分岗） | 各州 | 可选 | 部分岗强制 |
+| Relevant professional qualifications (by position) | Recognised institution | Optional | Professional role requirements |
+| National Police Check / Working with Children (some roles) | All states | Optional | Mandatory for some positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 190,000。地方政府服务与基建项目支撑稳定需求，具备规划、合规或工程背景者岗位更多。
+**Job demand: high (★★★★☆).** National workforce approx. 190,000. Local government services and infrastructure projects support stable demand; those with planning, compliance, or engineering backgrounds have more opportunities.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~4,000 个 | 全国 |
-| council 官网 | 1,500~3,000 个 | 各议会 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $62,000~$75,000 | Entry |
-| 中级（3-8年） | $75,000~$92,000 | Experienced |
-| 资深 / 协调 | $92,000~$110,000 | Senior |
+| Median salary | $103,740 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $62,000~$75,000 | Entry |
+| Mid-level (3–8 years) | $75,000~$92,000 | Experienced |
+| Senior / Coordinator | $92,000~$110,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：officer→coordinator→manager；专业方向(规划/环境/工程)决定收入与晋升。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly improve administrative and data processing efficiency, but complex community decisions and compliance explanations still rely on human judgment; entry-level positions are somewhat reduced due to automation, but experienced staff are more valuable.
+
+Pathway: officer → coordinator → manager; specialisation (planning/environment/engineering) determines income and promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated meeting minutes and document summary generation
+- Document review and compliance checks in basic planning approvals
+- Community service data entry and preliminary query responses
+- Standard report writing and data collation
+- Preliminary form review for licence applications
+
+**Where AI augments the role:**
+
+- Use AI to analyze community feedback data, optimize service delivery
+- Efficiently handle resident inquiries with natural language processing tools
+- Assist local planning and resource allocation using predictive models
+- Using AI tools to automate compliance monitoring and alerts
+- Generate customized community development reports based on data analysis
+
+**Human moat:**
+
+- Mediation and decision-making in complex community interest conflicts
+- Reasonable explanation and flexible application of local policies
+- Interpersonal interaction to build trust with councilors and residents
+- On-the-spot judgment and emergency response during incidents
+- Deep understanding of the local political and social environment
+
+**Skills to build:**
+
+- Data analysis and visualization (Python, Power BI)
+- Application of AI tools (e.g., ChatGPT, Copilot) in document generation
+- Project Management (PMP or PRINCE2 certification)
+- Operation and process automation of digital government platforms
+- Communication and conflict mediation skills
+- Basic programming skills (RPA or low-code platforms)
+
+**Key growth areas:**
 
 - Local Government Services
 - Community Programs
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学地方议会职员？**
-- 想在本地稳定就业的公共部门求职者
-- 擅长行政、规划或社区服务者
-
-**谁不适合学地方议会职员？**
-- 追求高薪与快速晋升者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Public sector job seekers seeking stable local employment
+- Those skilled in administration, planning or community services
+
+**Who is not suited**
+- High salary and fast promotion seekers
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: How much do local council staff earn?**
+A: Approx AUD $62k~$110k, higher for professional roles (planning/engineering).
+
+**Q: Can parliamentary staff do skilled migration?**
+A: No, it is a local public sector role and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-地方议会职员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：地方议会职员薪资多少？**
-答：约 AUD $6.2万~$11万，专业岗(规划/工程)更高。
-
-**问：议会职员能技术移民吗？**
-答：不能，属于本地公共部门岗位，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

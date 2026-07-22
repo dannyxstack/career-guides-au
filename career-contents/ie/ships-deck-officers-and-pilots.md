@@ -1,61 +1,97 @@
-# Ships' Deck Officers and Pilots（Ships' Deck Officers and Pilots）职业分析 · IE
+# Ships' Deck Officers and Pilots — career analysis · Ireland
 
-**职业代码：3152 – Ships' Deck Officers and Pilots。**
+**Occupation code: 3152 (ISCO08)**
 
-Senior officers responsible for safe navigation, cargo operations, and ship management, including masters, deck officers, and marine pilots. Must hold STCW certifications for seagoing vessels.
+Senior officers responsible for vessel navigation safety, navigation, and cargo operations, including captain, chief mate, and pilot. Work on ocean-going, coastal, and inland vessels, requiring STCW certificates of competency.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 三年制本科（航海技术） | 3年（本科） | $10,000~$15,000（每年学费，爱尔兰国立海事学院等） |
-| STCW基本安全培训证书 | 6个月（短期课程） | $2,000~$4,000（额外费用，可能包含在学位课程中） |
+| Three-year bachelor's degree (Maritime Navigation) | 3 years (bachelor's) | $10,000~$15,000 (Annual tuition fees, National Maritime College of Ireland, etc.) |
+| STCW Basic Safety Training certificate | 6 months (short-term course) | $2,000~$4,000 (Additional fees, may be included in the degree program.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW 适任证书（甲板部） | 爱尔兰海事管理局 | 必备 | 完成认可培训并满足海上服务资历 |
-| 船长或大副适任证书 | 爱尔兰海事管理局 | 必备 | 需通过考试和海上服务年限 |
-| 无线电操作员证书 | 通讯监管机构 | 可选 | 部分船舶要求 |
+| STCW Certificate of Competency (Deck Department) | Irish Maritime Administration | Required | Complete accredited training and meet seagoing service requirements |
+| Ship captain or chief mate competency certificate | Irish Maritime Administration | Required | Requires passing exams and sea service years. |
+| Radio operator certificate | Telecommunications regulator | Optional | Required on some vessels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰作为岛国，海运业持续稳定，但职位数量有限，主要受国际贸易和航运需求影响。未来五年预计小幅增长，退休人员更替将创造少量就业机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. As an island nation, Ireland's maritime industry is consistently stable, but the number of positions is limited, mainly affected by international trade and shipping demand. A small increase is expected over the next five years, with retirements creating a few job openings.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 三副或甲板实习生，税前年薪 |
-| 中级（3-10年） | $50,000~$70,000 | 大副或二副，税前年薪 |
-| 高级（10年以上） | $70,000~$100,000 | 船长或引航员，税前年薪 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Annual pre-tax salary for Third Officer or Deck Cadet |
+| Intermediate (3-10 years) | $50,000~$70,000 | Chief officer or second officer, pre-tax annual salary. |
+| Senior (10+ years) | $70,000~$100,000 | Ship captain or pilot, pre-tax annual salary |
+| average salary | $62,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径通常从甲板实习生或三副开始，通过海上资历和考试晋升为二副、大副，最终成为船长或引航员。部分高级船员转向岸基管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Senior deck officers and marine pilots face the dual impact of AI-assisted enhancement and partial task automation; navigation, record-keeping, etc., can be automated, but complex decision-making, personnel management, and legal responsibility are hard to replace. The outlook for the profession is mixed.
+
+Career progression typically starts as deck cadet or third officer, advancing through sea time and exams to second officer, chief officer, and eventually captain or pilot. Some senior officers transition to shore-based management roles.
+
+**Tasks most exposed to AI:**
+
+- Electronic chart display information system automatically generates and optimises routes
+- Automatic collision avoidance achieved through fusion of Automatic Identification System (AIS) and radar data
+- Voyage Data Recorder (VDR) automatically records voyage data
+- Shore-based remote monitoring systems take over some navigation monitoring tasks.
+- Autopilot and dynamic positioning systems reduce the need for manual steering
+
+**Where AI augments the role:**
+
+- AI-assisted navigation system providing real-time collision risk assessment and recommended actions
+- Smart weather routing optimizes fuel efficiency and travel time
+- Augmented reality head-up displays overlay key information to enhance situational awareness
+- Automated mooring system assists mooring operations, reducing human error
+- Crew health monitoring and fatigue warning systems improve safety management
+
+**Human moat:**
+
+- Emergency decision-making and adaptability under complex sea conditions
+- In-depth experience and judgment of ship machinery and structures
+- Lead the crew team, maintain discipline and morale
+- Interpersonal coordination with port authorities, pilots, etc.
+- Professional license with legal and safety responsibilities
+
+**Skills to build:**
+
+- Smart Ship System Operation and Fault Troubleshooting
+- Use of data analysis and route optimization tools
+- Cybersecurity fundamentals to protect ship IT systems
+- Enhanced communication and leadership skills
+- Advanced understanding of interdisciplinary knowledge such as meteorology and oceanography
+- Ability to continuously learn to keep up with regulatory and technological changes.
+
+**Key growth areas:**
 
 - Stable
 - Retirement-driven demand
@@ -64,66 +100,68 @@ Senior officers responsible for safe navigation, cargo operations, and ship mana
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业的普通工作许可，需雇主担保。年薪通常需高于30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约50,000欧元，需有相关学历或经验。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 若在跨国航运公司内部调动，可申请此许可，需在海外公司工作至少6个月。 |
+| Subclass General Employment P (General Employment Permit) | Applies to general work permits for non-occupations in shortage, employer-sponsored. Annual salary typically above €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens with an annual salary threshold of approximately €50,000, requiring relevant qualifications or experience. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | If transferring within a multinational shipping company, you can apply for this permit, requiring at least 6 months of work in the overseas company. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ships' Deck Officers and Pilots？**
-- 喜欢航海和独立工作的人
-- 能够适应长时间离家、海上艰苦环境
-- 具备良好领导能力和应急决策能力
+**Who is suited**
+- People who enjoy sailing and independent work
+- Able to adapt to long periods away from home and harsh maritime environments
+- Possess good leadership skills and emergency decision-making abilities
 
-**谁不适合学Ships' Deck Officers and Pilots？**
-- 无法适应长期海上生活或晕船
-- 不喜欢严格规章制度和轮班工作
+**Who is not suited**
+- Unable to adapt to long-term offshore life or seasickness
+- Dislike strict rules and shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for senior ship officers in Ireland?**
+A: Depending on experience level, annual pre-tax salary ranges from approximately 35,000 to 100,000 euros. The captain's salary is highest, up to 100,000 euros or more. Salary is affected by vessel type, route, and personal qualifications.
+
+**Q: How can non-EU citizens immigrate to Ireland through this occupation?**
+A: This occupation is not on Ireland's shortage occupation list, so migration pathways are limited. You need a work permit from an Irish employer, such as a General Employment Permit or an EU Blue Card. It is recommended to first obtain an STCW certificate and gain experience in a third country.
+
+**Q: How long does it typically take to advance from Third Officer to Captain?**
+A: Typically 8-15 years, depending on individual effort, exam pass speed, and sea service. Promotion to chief mate takes about 5-8 years, followed by captain exams and competency assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较难（★★★½☆） |
-| 考证难度 | 难（★★★★☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 难（★★★★☆） |
-
-Ships' Deck Officers and Pilots属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for ships' deck officers in Ireland?**
-答：Salaries range from €35,000 to €100,000 per year before tax, depending on experience. Masters can earn over €100,000. Factors include vessel type, trade route, and qualifications.
-
-**问：How can non-EU citizens immigrate to Ireland as ships' deck officers?**
-答：This occupation is not on the Critical Skills list, so a General Employment Permit or EU Blue Card is needed. Employers must sponsor. Prior experience and STCW certification are essential.
-
-**问：How long does it take to progress from third officer to master?**
-答：Typically 8-15 years, depending on exams and sea service. Promotion to chief officer takes 5-8 years, then further experience and exams for master.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

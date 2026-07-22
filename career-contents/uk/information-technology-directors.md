@@ -1,58 +1,91 @@
-# Information technology directors（Information technology directors）职业分析 · UK
+# Information technology directors — career analysis · United Kingdom
 
-**职业代码：1137 – Information technology directors。**
+**Occupation code: 1137 (SOC)**
 
-Plan, organise, direct and co-ordinate IT infrastructure and services, including networks, devices, servers and software within an organisation.
+Responsible for planning, organising, directing, and coordinating the delivery and operation of IT infrastructure and services within an organisation, including networks, equipment, servers, and software.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（计算机科学/信息技术） | 3-4年 | $10,000~$35,000（英国学费因学校而异，国际生更高） |
-| 硕士（商业分析/IT管理） | 1年 | $15,000~$40,000（部分职位偏好硕士学历） |
+| Bachelor's degree (Computer Science/Information Technology) | 3-4 years | $10,000~$35,000 (UK tuition fees vary by institution, higher for international students) |
+| Master's degree (Business Analytics/IT Management) | 1 year | $15,000~$40,000 (Some positions prefer a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术学士学位 | 英国大学 | 必备 | 通常要求相关学位 |
-| 项目管理专业资格（PMP/PRINCE2） | PMI/APMG | 可选 | 高级职位常要求 |
+| Bachelor's degree in Information Technology | UK universities | Required | Usually requires a relevant degree |
+| Project management qualification (PMP/PRINCE2) | PMI/APMG | Optional | Senior roles often require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。随着数字化转型加速，企业对IT领导层的需求持续增长，预计未来5年就业增长约10%，网络安全和数据管理领域尤为突出。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. With accelerating digital transformation, demand for IT leadership continues to grow, with an estimated 10% employment increase over the next 5 years, particularly in cybersecurity and data management.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 通常为IT经理或助理总监 |
-| 中级（3-7年） | $55,000~$80,000 | 中等规模企业IT总监 |
-| 高级（7年以上） | $80,000~$130,000 | 大型企业或集团公司IT总监 |
+| Median salary | $91,671 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Typically IT Manager or Assistant Director |
+| Mid-level (3–7 years) | $55,000~$80,000 | IT Director at a medium-sized enterprise |
+| Senior (7+ years) | $80,000~$130,000 | IT Director in a large enterprise or group company |
+| average salary | $110,618 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从IT经理、系统架构师或高级项目经理晋升而来，可向首席信息官（CIO）或首席技术官（CTO）发展，或转向咨询、创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on IT director roles is mixed: routine operations and report writing will be replaced, but abilities in strategic decision-making and cross-departmental coordination are amplified. Overall risk is manageable, requiring proactive adoption of AI tools.
+
+Usually promoted from IT manager, system architect, or senior project manager, with progression to Chief Information Officer (CIO) or Chief Technology Officer (CTO), or transitioning to consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Automated network monitoring and fault response: AI can analyze logs in real-time and automatically fix common issues, reducing manual inspections.
+- Routine IT asset management and procurement report generation: AI system automatically tracks asset status and generates compliance reports.
+- Standardized software deployment and updates: automated scripts and container orchestration replace manual installation.
+- Preliminary analysis of basic cybersecurity incidents: AI models quickly screen massive alerts and provide handling recommendations.
+
+**Where AI augments the role:**
+
+- Strategic IT planning and budget optimization: AI prediction models assist in analyzing cost-effectiveness, supporting more precise resource allocation.
+- Complex system architecture design: AI provides alternatives and performance simulation to accelerate design iterations.
+- Cross-departmental needs communication and IT governance: AI real-time translation of technical language into business language, improving collaboration efficiency.
+- Digital transformation roadmap development: AI analyzes industry trends and internal data to propose personalized transformation paths.
+
+**Human moat:**
+
+- Strategic IT-business alignment: understanding organizational goals and designing long-term technology blueprints.
+- Senior stakeholder management and negotiation: building trust, handling conflicts.
+- Innovation and Change Leadership: Driving organizational adoption of emerging technologies and managing cultural transformation.
+- Complex decision-making and risk management: balancing technical, cost, and safety considerations under uncertainty.
+
+**Skills to build:**
+
+- Basic principles and tool applications of AI/machine learning (e.g., AutoML, LLM API)
+- Data-driven decision making and analysis (SQL, Python, data visualisation)
+- Cloud Architecture and DevOps (AWS/Azure/GCP, Kubernetes, CI/CD)
+- Cybersecurity strategy and compliance (ISO27001, zero trust architecture)
+- Digital Leadership and Change Management
+- Low-code/no-code platforms (e.g., Power Platform)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -61,65 +94,64 @@ Plan, organise, direct and co-ordinate IT infrastructure and services, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有雇主担保的IT总监职位，薪资需达到最低门槛（通常年薪£38,700以上）。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在数字技术领域有杰出成就或潜力的人才，无需雇主担保，但需通过背书。 |
-| Subclass Scale-up（Scale-up Visa） | 适用于快速成长企业（年增长率20%以上）招聘的高技能IT总监，需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applies to employer-sponsored IT director roles, salary must meet minimum threshold (typically annual salary above £38,700). |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in digital technology, no employer sponsorship required, but endorsement is needed. |
+| Subclass Scale-up (Scale-up Visa) | For highly skilled IT directors recruited by fast-growing enterprises (annual growth rate of 20% or more), requiring employer sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information technology directors？**
-- 具有战略思维和技术背景的资深IT专业人士
-- 擅长团队管理和跨部门沟通的领导者
-- 对数字化转型和新兴技术充满热情
-
-**谁不适合学Information technology directors？**
-- 偏好纯技术工作、不愿承担管理职责的人
-- 抗压能力弱、不适应快节奏决策环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Senior IT professionals with strategic thinking and technical background
+- A leader skilled in team management and cross-department communication
+- Passionate about digital transformation and emerging technologies
+
+**Who is not suited**
+- Those who prefer purely technical work and do not want management responsibilities
+- People with low stress tolerance and difficulty adapting to fast-paced decision-making environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an IT Director in London?**
+A: London salaries are typically higher, entry-level around £50,000-£65,000, senior up to £150,000+, but cost of living needs to be considered.
+
+**Q: How can overseas applicants find employer sponsorship for an ICT Director role?**
+A: You can submit applications via platforms like LinkedIn, or attend industry conferences to build networks. The UK Shortage Occupation List (IML) includes IT leaders, which facilitates sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information technology directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an IT director in London?**
-答：Salaries in London are typically higher: entry-level £50,000-£65,000, senior can exceed £150,000, but cost of living is higher.
-
-**问：How can overseas applicants find employer sponsorship for IT director roles?**
-答：Apply via LinkedIn or attend industry events to network. The Immigration Salary List includes IT leaders, which facilitates sponsorship.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

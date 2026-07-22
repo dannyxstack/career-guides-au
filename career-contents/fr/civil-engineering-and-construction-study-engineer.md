@@ -1,60 +1,96 @@
-# Civil Engineering and Construction Study Engineer（Civil Engineering and Construction Study Engineer）职业分析 · FR
+# Civil Engineering and Construction Study Engineer — career analysis · France
 
-**职业代码：F1106 – Civil Engineering and Construction Study Engineer。**
+**Occupation code: F1106 (ROME)**
 
-Responsible for the design, calculation, and construction studies of building projects, ensuring structural safety, economy, and compliance with regulations.
+Responsible for the design, calculation, and construction research of building projects to ensure structural safety, economy, and compliance with standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年 | 2年（BTS） | $500~$3,000（公立学校学费低，私立约3000-8000欧/年） |
-| 本科3年 | 3年（Licence） | $200~$5,000（公立大学约200欧/年，私立可达5000欧/年） |
-| 硕士2年 | 2年（Master） | $300~$10,000（公立大学约300欧/年，工程师学校约6000-10000欧/年） |
+| Two years after high school | 2 Years (BTS) | $500~$3,000 (Public schools have low tuition fees, while private ones cost about 3,000-8,000 euros per year) |
+| Bachelor's degree is a 3-year course | 3 years (Licence) | $200~$5,000 (Public universities cost about 200 euros per year, while private universities can pay up to 5,000 euros per year) |
+| Master's degree: 2 years | 2 years (Master) | $300~$10,000 (Public universities cost about 300 euros per year, and engineering schools about 6,000-10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程师文凭 | 工程师学校（CTI认证） | 必备 | 相当于硕士水平，受法国国家承认 |
-| BIM经理认证 | 建筑行业组织 | 可选 | 非强制，但提升竞争力 |
-| Habilitation Électrique | INRS | 可选 | 电气安全认证，部分岗位要求 |
+| Engineer diploma | Engineering School (CTI Accreditation) | Required | It is equivalent to a master's degree and is recognized by the French state |
+| BIM Manager certification | Construction industry organizations | Optional | Not mandatory, but enhances competitiveness |
+| Habilitation Électrique | INRS | Optional | Electrical safety certification, some job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国建筑行业持续增长，绿色建筑和可持续设计需求上升，BTP研究工程师就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The French construction industry continues to grow, with rising demand for green buildings and sustainable design, and job prospects for BTP research engineers are promising.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（4-7年） | $40,000~$50,000 | 税前年薪 |
-| 高级（8年以上） | $52,000~$65,000 | 税前年薪，项目经理级别更高 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $40,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $52,000~$65,000 | Pre-tax annual salary, and project manager levels are higher |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为项目经理、设计部门主管，或转向BIM专家、工程监理等高级职位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+You can be promoted to project manager, design department head, or move to senior positions such as BIM expert or engineering supervisor.
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Green Building
 - BIM
@@ -63,65 +99,64 @@ Responsible for the design, calculation, and construction studies of building pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能专业人士，包括工程师，有效期4年，可续签 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪高于法国平均工资1.5倍，约5.3万欧 |
-| Subclass Salarié（Employee Work Visa） | 受雇工作居留，需雇主担保，通常1-4年有效 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, including engineers, valid for 4 years with renewable options |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires salary above 1.5x French average wage, approx. €53,000. |
+| Subclass Salarié (Employee Work Visa) | Employed work residence requires employer sponsorship and is usually valid for 1-4 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering and Construction Study Engineer？**
-- 喜欢数学和物理，对结构和材料感兴趣
-- 注重细节，有较强分析能力
-- 希望从事具有实际建设成果的职业
-
-**谁不适合学Civil Engineering and Construction Study Engineer？**
-- 不擅长团队协作和沟通
-- 对户外现场工作不适应
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys mathematics and physics, and is interested in structures and materials
+- Attention to detail, strong analytical skills
+- Hope to pursue a career with tangible construction achievements
+
+**Who is not suited**
+- Not good at teamwork and communication
+- Not adapted to outdoor field work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for civil engineering and architectural research engineers?**
+A: Junior approximately 30,000-38,000 EUR annual pre-tax salary, intermediate 40,000-50,000 EUR, senior 52,000-65,000 EUR, project manager can reach over 70,000 EUR.
+
+**Q: How can foreigners obtain a residence permit for a French BTP engineer?**
+A: You can apply for Passeport Talent (talent passport) or Carte bleue UE (EU Blue Card), which requires employer sponsorship and meets salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（3年）（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Civil Engineering and Construction Study Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a civil engineering and study engineer?**
-答：Entry-level: €30,000-€38,000 gross/year; mid-level: €40,000-€50,000; senior: €52,000-€65,000; project manager can exceed €70,000.
-
-**问：How can a foreigner obtain a residence permit for a BTP engineer in France?**
-答：Apply for Passeport Talent (Talent Passport) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

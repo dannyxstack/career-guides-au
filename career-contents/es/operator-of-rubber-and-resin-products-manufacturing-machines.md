@@ -1,60 +1,89 @@
-# Operator of Rubber and Resin Products Manufacturing Machines（Operator of Rubber and Resin Products Manufacturing Machines）职业分析 · ES
+# Operator of Rubber and Resin Products Manufacturing Machines — career analysis · Spain
 
-**职业代码：8141 – Operator of Rubber and Resin Products Manufacturing Machines。**
+**Occupation code: 8141 (CNO)**
 
-Operate and maintain machinery for manufacturing rubber and natural resin products, including mixing, calendering, vulcanizing, and molding processes to ensure efficient and safe production.
+Responsible for operating and maintaining rubber and natural resin product manufacturing equipment, including mixing, calendering, vulcanization, molding, and other processes to ensure efficient and safe production processes.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$2,000（公立学校约500-1000欧元/年，私立1000-2000欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | $600~$2,500（可选塑料与橡胶成型专业，公立约600-1200欧元/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$2,000 (Public schools about €500-1,000/year, private €1,000-2,000/year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $600~$2,500 (Optional plastic and rubber molding specialty, public fees about 600-1200 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作员职业资格证书 | 西班牙教育与职业培训部 | 必备 | 通过FP Grado Medio或Grado Superior获得 |
-| 工作安全培训 | 公司或培训机构 | 必备 | 强制性的安全操作培训，通常由雇主提供 |
+| Operator professional qualification certificate | Spanish Ministry of Education and Vocational Training | Required | Available through FP Grado Medio or Grado Superior |
+| Work safety training | Companies or training institutions | Required | Mandatory safety operation training, usually provided by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。西班牙橡胶与塑料制造业稳定发展，但自动化趋势可能减少低技能岗位。环保法规推动再生材料应用，对熟练操作员需求持续。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Spain's rubber and plastics manufacturing industry is steadily developing, but the trend toward automation may reduce low-skilled jobs. Environmental regulations are driving the use of recycled materials, with a sustained demand for skilled operators.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，实习生或学徒略低 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含加班和轮班补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，主管或技术员级别 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, interns or apprentices are slightly lower |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, including overtime and shift allowances |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, supervisor or technician level |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级操作员起步，可晋升为生产线组长或质量检验员。通过培训可掌握自动化设备编程，向技术员或生产主管发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Operators of rubber and resin product machinery face high automation risks. AI and robots will take over core processes such as mixing, rolling, vulcanization, and molding, and job demand continues to shrink.
+
+Starting as a junior operator, you can be promoted to production line leader or quality inspector. Through training, students can master automation equipment programming and develop into technicians or production supervisors.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitors parameters such as temperature and pressure through machine vision and sensors, replacing manual patrol inspections
+- Robots automatically grasp and handle molds and finished products, replacing repetitive manual labor
+- AI algorithms optimize vulcanization time and formulation ratios, replacing experience-dependent decision-making
+
+**Where AI augments the role:**
+
+- AI quality inspection systems quickly identify defects and improve yield
+- Digital twin technology simulates production processes and optimizes process parameters
+- Predictive maintenance reduces equipment downtime.
+
+**Human moat:**
+
+- Complex fault diagnosis and on-site commissioning capabilities
+- Flexible adaptability in small-batch production of multiple varieties
+- Safety procedures and emergency handling experience
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Data analysis and SCADA system usage
+- Fundamentals of 3D Printing Mold Design
+- Maintenance of industrial IoT devices.
+- Lean production and quality management methods
+
+**Key growth areas:**
 
 - Automation
 - Recycling
@@ -63,61 +92,63 @@ Operate and maintain machinery for manufacturing rubber and natural resin produc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employee)） | 由西班牙公司担保的受雇工作居留，需证明职位无法由本地人填补。 |
+| Subclass Cuenta ajena (Work Permit (Employee)) | For employed work residence sponsored by a Spanish company, it must be proven that the position cannot be filled by a local resident. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Operator of Rubber and Resin Products Manufacturing Machines？**
-- 动手能力强、喜欢机械操作的人
-- 能接受轮班工作和重复性劳动的人
-- 愿意通过职业培训快速进入劳动力市场的人
+**Who is suited**
+- Strong hands-on skills and a fondness for mechanical operation
+- Someone who can accept shift work and repetitive tasks
+- Those willing to quickly enter the labor market through vocational training
 
-**谁不适合学Operator of Rubber and Resin Products Manufacturing Machines？**
-- 追求高薪和高社会地位的人
-- 不喜欢工厂环境和体力劳动的人
+**Who is not suited**
+- People seeking high salary and high social status
+- People who dislike factory environments and manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for rubber operators?**
+A: Entry level approximately 18,000-22,000 euros/year, intermediate 22,000-28,000 euros/year, senior up to 35,000 euros/year, including overtime allowances.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: This occupation is not in shortage; employers need to prove locals cannot fill the role, making immigration difficult. Consider Spain's shortage occupations or high-skilled positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Operator of Rubber and Resin Products Manufacturing Machines属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for rubber machine operators?**
-答：Entry-level around €18,000-€22,000/year, mid-level €22,000-€28,000, senior up to €35,000 including overtime.
-
-**问：Can non-EU citizens immigrate through this occupation?**
-答：This occupation is not in shortage; employers must prove no local candidates, making immigration difficult. Consider shortage or high-skilled roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

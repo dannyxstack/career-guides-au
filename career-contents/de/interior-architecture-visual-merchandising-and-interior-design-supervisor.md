@@ -1,61 +1,97 @@
-# Interior Architecture, Visual Merchandising, and Interior Design Supervisor（Interior Architecture, Visual Merchandising, and Interior Design Supervisor）职业分析 · DE
+# Interior Architecture, Visual Merchandising, and Interior Design Supervisor — career analysis · Germany
 
-**职业代码：9329 – Interior Architecture, Visual Merchandising, and Interior Design Supervisor。**
+**Occupation code: 9329 (KldB)**
 
-Supervises interior design projects, visual merchandising, and space decoration, coordinating teams to ensure designs meet client needs and industry standards.
+Responsible for overseeing interior design projects, visual merchandising, and spatial decoration, coordinating team work to ensure designs meet client needs and industry standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（室内设计助理） | 3年（双元制） | —（企业承担培训费用，学员获得津贴） |
-| 本科（室内设计/视觉营销） | 3-4年 | —（公立大学免学费，仅收学期杂费） |
+| Dual system training (interior design assistant). | 3 years (dual system) | $0~$500 (Companies cover training costs; trainees receive an allowance) |
+| Bachelor's degree (Interior Design/Visual Merchandising) | 3-4 years | $0~$1,500 (Public universities are tuition-free; only semester fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计或相关专业学位 | 德国大学或应用技术大学 | 可选 | 通常为本科学位，部分职位接受双元制培训 |
-| 职业培训证书（室内设计助理） | 德国工商会（IHK） | 必备 | 双元制培训后获得，证明专业基础 |
-| 资质认证（外国学历） | 德国认证机构（如Anabin） | 可选 | 非欧盟学历需认证，确认与德国学位等同 |
+| Vocational training certificate (Interior Design Assistant) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual-system training, certifying professional foundations. |
+| Interior design or related degree | German universities or universities of applied sciences | Optional | Usually a bachelor's degree; some positions accept dual-system training |
+| Qualification recognition (foreign qualifications) | German credential recognition bodies (e.g., Anabin) | Optional | Non-EU qualifications require assessment to confirm equivalence to German degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。德国零售和室内设计行业对视觉营销和空间优化的需求稳定，尤其在大型商场和品牌门店中。就业前景良好，但需具备相关资质和经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for visual merchandising and spatial optimization is stable in Germany's retail and interior design sectors, especially in large shopping malls and brand stores. Career prospects are good, but require relevant qualifications and experience.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视地区和公司规模而定 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，主管职位通常更高 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，包括资深主管或设计总监 |
+| Median salary | $42,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, typically higher for supervisory positions |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including senior supervisor or design director |
+| average salary | $46,068 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从室内设计师或视觉营销专员晋升为主管，进一步可成为设计总监或自营工作室。持续学习趋势如可持续设计和数字化展示技术是晋升关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Interior Design/Visual Merchandising Manager job has mixed prospects: AI can automate layout plans, color trend analysis, etc., but client communication, creative integration, and team coordination remain human strengths; proactively embrace AI tools to improve efficiency.
+
+Can advance from interior designer or visual merchandising specialist to supervisor, further to design director or own studio. Continuous learning of trends such as sustainable design and digital display technology is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Rapid generation of preliminary spatial layouts and 3D rendering plans
+- Statistical recommendations analyzing color trends and material combinations
+- Automatically generates standardized product placement and visual merchandising guidelines
+- Automated data organization for customer demand research reports
+- Automated design compliance checks (e.g., fire safety, accessibility standards)
+
+**Where AI augments the role:**
+
+- Use AI tools to rapidly iterate design solutions and improve client presentation efficiency.
+- Optimizing visual marketing strategies through AI analysis of consumer behavior data
+- AI-assisted generation of personalized material selection and cost estimation
+- Utilize AI-enhanced augmented reality (AR) for real-time spatial effect preview.
+- AI supports automatic generation of design task schedules and resource allocation recommendations
+
+**Human moat:**
+
+- Deeply understand client abstract aesthetic needs and translate into solutions
+- Cross-team (design, construction, marketing) communication and coordination
+- Artistic expression of creative inspiration and brand story
+- Assess cultural adaptability and human touch bias in AI solutions
+- Experiential grasp of construction techniques and material tactile qualities
+
+**Skills to build:**
+
+- Proficient in using AI design tools (e.g., Midjourney, DALL-E, SketchUp AI plugins)
+- Data foundations: consumer behavior analysis and A/B test design
+- Agile project management methods (Scrum/Kanban) and digital collaboration tools
+- Augmented Reality (AR) and Virtual Reality (VR) Design Applications
+- Knowledge of sustainable design principles and green materials
+- Advanced persuasive communication and client expectation management
+
+**Key growth areas:**
 
 - Visual Merchandising
 - Interior Design
@@ -64,70 +100,69 @@ Supervises interior design projects, visual merchandising, and space decoration,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于有大学学位且年薪达到蓝卡门槛的专业人士（2024年约43,800欧元），此职业可能不达标，但若在紧缺行业或更高职位可能符合。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 适用于有职业培训或大学学位的专业人士，需获得德国雇主offer，且职业资格被认可。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统的求职签证，允许来德国寻找工作，需证明语言能力和资质。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需有足够资金和学历认证。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to professionals with a university degree and annual salary meeting the Blue Card threshold (about €43,800 in 2024). This occupation may not meet the threshold, but may qualify if in a shortage industry or higher position. |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applies to professionals with vocational training or a university degree; requires a job offer from a German employer and recognition of professional qualifications. |
+| Subclass Chancenkarte (Opportunity Card) | Job search visa based on points system, allows coming to Germany to find work, requires proof of language skills and qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment, requires sufficient funds and qualification recognition. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Architecture, Visual Merchandising, and Interior Design Supervisor？**
-- 热爱设计、有创意和审美能力的人
-- 具备团队管理和沟通协调能力的人
-- 愿意持续学习新趋势和技术的人
-
-**谁不适合学Interior Architecture, Visual Merchandising, and Interior Design Supervisor？**
-- 不喜欢与人沟通和领导团队的人
-- 追求高薪且不愿意经历较长的职业成长周期的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love design, have creativity and aesthetic sense
+- People with team management and communication coordination skills.
+- People willing to continuously learn new trends and technologies
+
+**Who is not suited**
+- People who dislike communicating with others and leading teams
+- Those seeking high income and unwilling to endure a long career growth cycle
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an interior design director in Germany?**
+A: Entry level approximately €28,000-35,000, mid level €35,000-45,000, senior level €45,000-55,000 (pre-tax annual salary).
+
+**Q: What visa do foreigners need to work as an interior design supervisor in Germany?**
+A: Usually requires a Skilled Worker Visa, with a recognized German qualification or vocational training and a job offer. EU Blue Card may apply for high-salary positions.
+
+**Q: What are the career development prospects for an interior design supervisor?**
+A: Can advance to design director, creative director, or start own design studio. Industry trends include sustainable design and digital presentation to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior Architecture, Visual Merchandising, and Interior Design Supervisor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an interior design supervisor in Germany?**
-答：Entry-level: €28,000-€35,000, mid-level: €35,000-€45,000, senior: €45,000-€55,000 gross per year.
-
-**问：What visa is needed for a foreigner to work as an interior design supervisor in Germany?**
-答：Typically a Skilled Worker Visa, requiring a recognized degree or vocational training and a job offer. EU Blue Card may apply for higher salaries.
-
-**问：What are the career prospects for an interior design supervisor?**
-答：Can advance to design director, creative director, or start own studio. Trends include sustainable design and digital displays.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

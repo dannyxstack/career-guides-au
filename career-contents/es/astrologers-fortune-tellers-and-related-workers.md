@@ -1,58 +1,94 @@
-# Astrologers, Fortune Tellers and Related Workers（Astrologers, Fortune Tellers and Related Workers）职业分析 · ES
+# Astrologers, Fortune Tellers and Related Workers — career analysis · Spain
 
-**职业代码：5895 – Astrologers, Fortune Tellers and Related Workers。**
+**Occupation code: 5895 (CNO)**
 
-Astrologers and fortune tellers use astrology, tarot cards, or other divination methods to provide clients with horoscopes, personality analysis, and life advice. In Spain, this occupation is unregulated and practitioners are typically self-employed.
+Astrologers and fortune-tellers use astrology, tarot, or other divination methods to offer clients fortune predictions, personality analysis, and life advice. This profession is considered an informal industry in Spain, with practitioners usually self-employed.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 短期培训课程 | 6个月至1年 | $500~$3,000（私立学院或在线课程费用） |
+| Short-term training course | 6 months to 1 year | $500~$3,000 (Private academy or online course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 西班牙不要求占星师或算命师持有官方资格证，从业自由。 |
+| No mandatory certification | None | Optional | Spain does not require astrologers or fortune-tellers to hold official qualifications and is free to practice. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 800。西班牙占星和算命行业需求稳定但小众，受在线平台和自媒体兴起影响，从业者可扩大客户群。然而，该职业缺乏官方认证和监管，收入波动大，长期前景一般。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The demand for the Spanish astrology and fortune-telling industry is stable but niche, and with the rise of online platforms and self-media, practitioners can expand their customer base. However, the profession lacks official certification and regulation, with high income fluctuations and average long-term prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $6,000~$12,000 | 收入不稳定，多为兼职或少量客户 |
-| 中级（3-10年） | $12,000~$24,000 | 积累固定客户后收入提升 |
-| 高级（10年以上） | $24,000~$40,000 | 知名从业者或开设课程/出版书籍 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $6,000~$12,000 | Income is unstable, mostly part-time or with only a few clients |
+| Intermediate (3-10 years) | $12,000~$24,000 | Revenue increases after accumulating loyal customers |
+| Senior (10+ years) | $24,000~$40,000 | Renowned practitioners or those who offer courses or publish books |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从业者通常从自学或短期培训起步，积累口碑后开设个人咨询工作室或通过社交媒体提供付费服务。部分人可能转向心理咨询、神秘学培训或出版相关书籍。
-**AI替代风险：低（依赖人际信任）（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly automate tasks such as astrolabe interpretation and report generation, but clients' demand for 'humanized' consultations and mystical ritual experiences remains irreplaceable, requiring practitioners to shift toward emotional companionship and deeply customized services.
+
+Practitioners usually start with self-study or short-term training, build a reputation, then open personal consulting studios or offer paid services through social media. Some may turn to psychological counseling, occult training, or publishing related books.
+
+**Tasks most exposed to AI:**
+
+- Standardized personality descriptions and fortune predictions based on planetary positions
+- Write general astrology reports and daily/weekly horoscope articles
+- Answering common astrology questions (such as zodiac compatibility)
+- Generate a draft of the tarot card interpretation
+- Provides basic astrology consultation to customers through chatbots
+
+**Where AI augments the role:**
+
+- Personalized fortune analysis is provided by combining clients' star charts and historical data
+- Using AI to analyze big data trends and assist in forecasting (such as economic cycles and astrological correlations)
+- Generate visual astrolabes and animated explanations to enhance the customer experience
+- Quickly retrieve and integrate perspectives from different schools of astrology
+- Immersive divination experiences are achieved through voice interaction
+
+**Human moat:**
+
+- Build deep emotional connections and trusting relationships with clients
+- Offering unique mystical rituals, meditations, or energy interpretation experiences
+- Unconventional interpretations based on intuition and creativity
+- Handling consultations on sensitive topics such as death or illness
+- Integrate interdisciplinary knowledge such as psychology and philosophy to provide comprehensive advice
+
+**Skills to build:**
+
+- AI astrology tools (such as Co-star, algorithmic principles of The Pattern)
+- Data visualization and storytelling capabilities
+- Basic psychology and counseling skills
+- Social network marketing and personal brand building
+- Multimedia Content Creation (Short Videos, Podcasts)
+- Ethics and privacy protection knowledge
+
+**Key growth areas:**
 
 - Self-employment
 - Spiritual services
@@ -61,65 +97,67 @@ Astrologers and fortune tellers use astrology, tarot cards, or other divination 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇于占星或相关公司（极少见），需雇主担保，几乎不可行。 |
-| Subclass Cuenta propia（Self-Employment Work Permit） | 自雇居留，需证明西班牙业务可行性和经济能力，难度高。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Being employed by astrology or related companies (which is very rare), requiring employer sponsorship, is almost impossible. |
+| Subclass Cuenta propia (Self-Employment Work Permit) | Self-employment residency requires proof of business feasibility and financial capability in Spain, which is quite challenging. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Astrologers, Fortune Tellers and Related Workers？**
-- 对神秘学有浓厚兴趣且善于沟通的人
-- 能接受不稳定收入且擅长自我营销的人
-- 希望灵活安排工作时间的人
+**Who is suited**
+- People with a strong interest in mysticism and good communication skills
+- People who can accept unstable income and are good at self-marketing
+- For those who want flexible work hours
 
-**谁不适合学Astrologers, Fortune Tellers and Related Workers？**
-- 追求稳定职业和固定收入的人
-- 依赖官方认证和监管体系的人
+**Who is not suited**
+- People seeking stable careers and stable income
+- Those who rely on official certification and regulatory systems
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level for astrologers in Spain?**
+A: Income varies greatly: entry-level annual salary approx €6,000-12,000, senior can reach over €40,000, but most earn below average and have unstable income.
+
+**Q: Can foreign astrologers immigrate to work in Spain through skilled immigration?**
+A: Almost impossible. This occupation is not considered a high-skilled or scarce occupation and cannot be applied for an EU Blue Card or High-Skilled Talent residency. Self-employment residency requires high standards and proof of business viability.
+
+**Q: What skills do astrologers need?**
+A: You need to master astrology or tarot divination, possess good communication and consulting skills, as well as self-promotion and client management skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（依赖人际信任）（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Astrologers, Fortune Tellers and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for astrologers in Spain?**
-答：Income varies widely: entry-level earns around 6,000-12,000 EUR annually, while established practitioners can earn up to 40,000 EUR, but most earn below average with irregular income.
-
-**问：Can a foreign astrologer immigrate to Spain for work?**
-答：Highly unlikely. This occupation is not considered high-skilled or in shortage, so EU Blue Card or highly skilled visa is not applicable. Self-employment visa requires proof of viable business and is difficult.
-
-**问：What skills does an astrologer need?**
-答：Knowledge of astrology or tarot, strong communication and counseling skills, and ability to self-promote and manage clients.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Motorcycle Mechanic（Motorcycle Mechanic）职业分析 · 新西兰
+# Motorcycle Mechanic — career analysis · New Zealand
 
-**职业代码：321213 – Motorcycle Mechanic。**
+**Occupation code: 321213 (ANZSCO)**
 
-Motorcycle Mechanics repair and maintain motorcycles, scooters, and other two-wheeled vehicles. The occupation is on New Zealand's skills shortage list, offering residence via Green List or Skilled Migrant Category.
+Motorcycle mechanics repair and maintain motorcycles, scooters, and other two-wheeled motor vehicles. New Zealand has a high motorcycle ownership rate; this occupation is on the skills shortage list and can qualify for direct residence via the Green List or through skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家证书（4级） | 2年 | $10,000~$20,000（公立理工学院学费，不含工具材料费） |
-| 学徒制 | 3-4年 | —（在职培训，可能涉及少量课程费） |
+| New Zealand National Certificate (Level 4) | 2 years | $10,000~$20,000 (Public polytechnic tuition fees, excluding tool and material costs) |
+| Apprenticeship | 3-4 years | $0~$5,000 (On-the-job training, may involve minor course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家证书摩托车工程（4级） | 新西兰汽车工业协会 (VIA) | 可选 | 行业认可的核心资格 |
-| 注册摩托车技师（LVM） | 新西兰交通局 (NZTA) | 可选 | 从事特定车辆检查需注册 |
+| National Certificate in Motorcycle Engineering (Level 4) | New Zealand Automobile Industry Association (VIA) | Optional | Industry-recognised Core Qualification |
+| Registered Motorcycle Technician (LVM) | New Zealand Transport Agency (NZTA) | Optional | Registration required to perform specific vehicle inspections |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰摩托车注册量持续增长，支撑维修需求。偏远地区与主要城市均缺熟练技术工，就业机会稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Motorcycle registrations in New Zealand continue to grow, supporting repair demand. Both remote areas and major cities lack skilled technicians, so employment opportunities are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 培训期间，逐步增长 |
-| 中级（3-5年） | $55,000~$70,000 | 可独立工作，多数完整水平 |
-| 高级（5年以上） | $70,000~$90,000 | 包含资深技师、主管或自雇 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Gradually increases during training period |
+| Mid-level (3–5 years) | $55,000~$70,000 | Can work independently, mostly at a competent level |
+| Senior (5+ years) | $70,000~$90,000 | Includes senior technicians, supervisors, or self-employed |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可发展为高级技师、车间主管，或开办自己的维修店。积累经验后向赛车服务、定制改装等专项领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
+
+Can progress to senior technician, workshop supervisor, or start own repair shop. With experience, specialize in areas like racing services and custom modifications.
+
+**Tasks most exposed to AI:**
+
+- Using diagnostic software to identify motorcycle engine and electrical system faults
+- Reading fault codes via OBD interface and generating repair suggestions.
+- Automatically generates maintenance records and inventory management reports
+- Using AI vision to inspect tire wear and component condition
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis improves fault localization speed and accuracy
+- AI recommends optimal repair plans and parts replacement options
+- AI provides training videos and AR guidance for complex disassembly and assembly procedures.
+- AI predictive maintenance reminds customers for regular servicing
+- AI-optimized parts procurement and inventory management
+
+**Human moat:**
+
+- Experience in tuning special modified and high-performance motorcycles
+- Creative problem-solving for non-standard failures
+- Soft skills in building trust and reputation through communication with clients
+- Field operations and fine manual crafting skills
+
+**Skills to build:**
+
+- Diagnostic software and OBD tool usage skills.
+- Electric and hybrid motorcycle repair technology
+- Customer service and communication skills
+- Habit of continuously learning new vehicle models and digital systems
+- AR-assisted maintenance and remote collaboration tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,65 +94,64 @@ Motorcycle Mechanics repair and maintain motorcycles, scooters, and other two-wh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单一级职业，满足薪资与资格可直接申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制下凭资格与工作经验申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为过渡工签，后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation: eligible for direct residence if salary and qualification requirements are met |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, apply with qualifications and work experience under the 6-point system |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa, can be used as a bridging visa to transition to residency |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motorcycle Mechanic？**
-- 喜欢动手维修机械、有耐心解决问题的人
-- 有摩托车兴趣或机械背景，希望移民新西兰的人
-- 愿意在小型车间或偏远地区工作的人
-
-**谁不适合学Motorcycle Mechanic？**
-- 不喜欢体力活或脏乱环境的人
-- 希望快速晋升或高薪但不愿投入长期培训的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on mechanical repair and have patience to solve problems
+- People with motorcycle interest or mechanical background wishing to immigrate to New Zealand
+- People willing to work in small workshops or remote areas
+
+**Who is not suited**
+- People who dislike manual labor or dirty environments
+- People seeking rapid promotion or high salary but unwilling to invest in long-term training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for motorcycle mechanics in New Zealand?**
+A: Entry-level tradesperson annual salary approx. NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000. Self-employed may earn more but need a client base.
+
+**Q: How can motorcycle mechanics immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1; with relevant qualifications (e.g., NZQF Level 4 certificate) and hourly wage of around NZD 27 or more, you can directly apply for residency. Alternatively, you can use the Skilled Migrant 6-point system or first obtain an Accredited Employer Work Visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Motorcycle Mechanic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a motorcycle mechanic in NZ?**
-答：Entry-level $45k-55k NZD, mid-level $55k-70k, senior $70k-90k. Self-employed can earn more.
-
-**问：How can a motorcycle mechanic migrate to NZ?**
-答：On Green List Tier 1, with a relevant qualification and wage ~$27/hr, you can apply for Straight to Residence. Alternatively via SMC or AEWV.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

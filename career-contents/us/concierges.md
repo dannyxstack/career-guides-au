@@ -1,60 +1,96 @@
-# Concierges（Concierges）职业分析 · 美国
+# Concierges — career analysis · United States
 
-**职业代码：39-6012 – Concierges。**
+**Occupation code: 39-6012 (SOC)**
 
-Concierges assist patrons at hotels, apartments, or office buildings with personal services such as taking messages, arranging transportation, recommending entertainment, and monitoring housekeeping requests.
+Concierges provide personal services to guests in hotels, apartments, or office buildings, including taking messages, arranging transportation, recommending entertainment, and monitoring room service requests.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $8,000~$30,000（社区大学学费不等） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $8,000~$30,000 (Community college tuition varies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 美国高中 | 必备 | 基本入职要求 |
-| 客户服务经验 | 雇主 | 可选 | 通常需要1-2年相关经验 |
+| High school diploma or equivalent | US high school | Required | Basic entry requirements |
+| Customer service experience | Employer | Optional | Typically requires 1-2 years relevant experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 24,000。美国礼宾员就业前景稳定，增长与旅游业和酒店业复苏相关。预计2023-2033年岗位增长约10%，每年约5000个职位空缺，主要源于人员流动。
+**Job demand: medium (★★½☆☆).** National workforce approx. 24,000. Employment outlook for concierges in the US is stable, with growth related to the recovery of tourism and hospitality. Projected growth of about 10% from 2023-2033, with approximately 5,000 job openings per year mainly due to turnover.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 含小费 |
-| 中级（3-7年） | $35,000~$50,000 | 豪华酒店更高 |
-| 高级（7年以上） | $45,000~$70,000 | 含管理职责 |
+| Median salary | $38,950 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Includes tips |
+| Mid-level (3–7 years) | $35,000~$50,000 | Higher at luxury hotels |
+| Senior (7+ years) | $45,000~$70,000 | Includes management responsibilities |
+| average salary | $42,510 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 礼宾员可从初级岗位晋升至前台主管、礼宾部经理，甚至酒店总经理。积累客户服务经验和本地知识后，也可转向高端俱乐部或私人服务领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Concierges can advance from entry-level to front desk supervisor, concierge manager, or even hotel general manager. With customer service experience and local knowledge, they can also transition to high-end clubs or private service sectors.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Hospitality
 - Customer Service
@@ -63,63 +99,65 @@ Concierges assist patrons at hotels, apartments, or office buildings with person
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 礼宾员通常不符合专业职业要求，H-1B极少获批。 |
-| Subclass L-1（L-1 Intracompany Transfer） | 若为跨国酒店内部调动，可能适用。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需证明职位需要至少2年经验，但移民局可能质疑专业性质。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Concierges typically do not meet professional occupation requirements, and H-1B is rarely approved. |
+| Subclass L-1 (L-1 Intracompany Transfer) | May apply if internal transfer within a multinational hotel. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Must prove position requires at least 2 years experience, but immigration may question professional nature. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Concierges？**
-- 喜欢与人打交道、提供个性化服务的人
-- 具备多语言能力和本地知识的人
-- 适应轮班制、工作环境多变的人
+**Who is suited**
+- People who enjoy interacting with others and providing personalized services.
+- Individuals with multilingual skills and local knowledge
+- People who adapt to shift work and changing work environments
 
-**谁不适合学Concierges？**
-- 对客户服务缺乏耐心的人
-- 不擅长处理多任务和压力的人
+**Who is not suited**
+- Those lacking patience in customer service.
+- People not good at multitasking and handling pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a concierge?**
+A: Entry-level about 25,000-35,000 USD, mid-level 35,000-50,000, senior 45,000-70,000 USD, including tips. Higher salaries in luxury hotels.
+
+**Q: Can a concierge immigrate to the US on a work visa?**
+A: Difficult. Concierges usually do not meet H-1B specialty occupation requirements; EB-3 green card requires proving position needs 2 years experience, but approval rates are low. Internal L-1 transfer at multinational hotels is a possible path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Concierges属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for concierges?**
-答：Entry-level: $25k-$35k; mid-level: $35k-$50k; senior: $45k-$70k including tips. Luxury hotels pay more.
-
-**问：Can concierges immigrate to the US via work visa?**
-答：Difficult. Concierges rarely qualify for H-1B specialty occupation; EB-3 green card requires proof of 2 years experience but low approval. L-1 intracompany transfer possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

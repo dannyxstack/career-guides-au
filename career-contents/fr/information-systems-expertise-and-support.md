@@ -1,60 +1,96 @@
-# Information Systems Expertise and Support（Information Systems Expertise and Support）职业分析 · FR
+# Information Systems Expertise and Support — career analysis · France
 
-**职业代码：M1802 – Information Systems Expertise and Support。**
+**Occupation code: M1802 (ROME)**
 
-Design, deploy, maintain, and support information systems, ensuring stability and efficiency, covering networks, databases, security, and application support.
+Responsible for the design, deployment, maintenance, and user support of information systems to ensure stable and efficient operation, covering network, database, security, and application support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年 | 2年（BTS） | $500~$8,000（BTS SIO公立学校学费低，私立约3000-8000欧元/年。） |
-| 本科 | 3年（Licence） | $200~$10,000（Licence informatique公立大学学费约200-3000欧元/年，私立高商可达10000欧元/年。） |
-| 硕士 | 2年（Master） | $300~$15,000（Master en systèmes d'information公立约300-4000欧元/年，私立工程师学院或商学院约8000-15000欧元/年。） |
+| Two years after high school | 2 Years (BTS) | $500~$8,000 (BTS SIO public schools have low tuition, with private ones costing about 3,000-8,000 euros per year.) |
+| Bachelor's degree | 3 years (Licence) | $200~$10,000 (Licence informatique public universities charge about 200-3,000 euros per year, while private commercial schools can charge up to 10,000 euros per year.) |
+| Master's degree | 2 years (Master) | $300~$15,000 (Master en systèmes d'information public is about 300-4000 euros per year, while private engineering or business schools about 8000-15000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息系统管理员认证 | 法国国家信息与自动化研究所（INRIA） | 可选 | 推荐但非强制，有助于职业发展。 |
-| CISSP | (ISC)² | 可选 | 网络安全方向，国际认可，法国企业重视。 |
-| ITIL Foundation | AXELOS | 可选 | IT服务管理基础认证，广泛认可。 |
+| Information System Administrator Certification | French National Institute for Information and Automation (INRIA) | Optional | Recommended but not mandatory, it helps career development. |
+| CISSP | (ISC)² | Optional | The cybersecurity direction is internationally recognized and valued by French companies. |
+| ITIL Foundation | AXELOS | Optional | IT Service Management Foundation Certification, widely recognized. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。法国数字化转型持续推动IT人才需求，尤其网络安全、云计算及数据分析领域。2023-2030年就业增长率预计超过10%，属紧缺职业。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. France's digital transformation continues to drive demand for IT talent, especially in cybersecurity, cloud computing, and data analytics. From 2023 to 2030, the employment growth rate is expected to exceed 10%, making it a scarce occupation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含奖金。 |
-| 中级（4-7年） | $45,000~$65,000 | 税前年薪，视企业规模和行业。 |
-| 高级（8年以上） | $65,000~$90,000 | 税前年薪，包含管理职责。 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses. |
+| Mid-level (4-7 years) | $45,000~$65,000 | Pre-tax annual salary depends on the size of the company and the industry. |
+| Senior (8+ years) | $65,000~$90,000 | Pre-tax annual salary, including management responsibilities. |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从初级技术支持工程师可晋升为系统架构师、IT项目经理或首席信息官（CIO）。法国企业注重认证（如CISSP、PMP），经验积累是关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+You can advance from junior technical support engineer to system architect, IT project manager, or Chief Information Officer (CIO). French companies emphasize certifications (such as CISSP, PMP), with experience accumulation being key.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Cloud Computing
 - Cybersecurity
@@ -63,68 +99,67 @@ Design, deploy, maintain, and support information systems, ensuring stability an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需有硕士学历或至少5年经验，合同年薪≥40,000欧元。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求合同年薪≥53,400欧元（2024年标准），紧缺职业可降至47,584欧元。 |
-| Subclass Salarié（Salaried Employee） | 受雇工作居留，需获得法国公司工作合同，并经法国劳动部批准（通常公司需证明无法招到欧盟公民）。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree or at least 5 years of experience, with a contract annual salary of ≥ 40,000 euros. |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual contract salary of ≥ 53,400 euros (2024 standard), with shortage occupations available for 47,584 euros. |
+| Subclass Salarié (Salaried Employee) | For employment-based residence, you must obtain a work contract with a French company and be approved by the French Ministry of Labor (usually the company must prove it cannot recruit EU citizens). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Systems Expertise and Support？**
-- 对IT系统架构与运维有浓厚兴趣，喜欢解决技术问题。
-- 善于沟通，能支持非技术用户。
-- 愿意持续学习新技术，适应数字化转型。
-
-**谁不适合学Information Systems Expertise and Support？**
-- 不喜欢快节奏技术更新。
-- 不善于与用户沟通。
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in IT system architecture and operations, enjoys solving technical problems.
+- Good communication skills and able to support non-technical users.
+- Willing to continuously learn new technologies and adapt to digital transformation.
+
+**Who is not suited**
+- Dislikes fast-paced technological updates.
+- Poor communication with users.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for information systems support engineers in France?**
+A: Beginner is about 35,000-45,000 euros, intermediate is 45,000-65,000 euros, and advanced can exceed 90,000 euros. Wages in the Paris area are usually 15-20% higher.
+
+**Q: How can foreigners immigrate to France through information systems?**
+A: Applications can be made through Passeport Talent (annual salary ≥40k€) or EU Blue Card (annual salary ≥53.4k€). Company contract required, and educational or experience required.
+
+**Q: Is there a shortage of talent in France's information systems sector?**
+A: Yes, there is a shortage of talent in cybersecurity, cloud computing, and big data analytics. France Travail lists these as scarce professions, and companies are highly willing to recruit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information Systems Expertise and Support的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for information systems support engineers in France?**
-答：Entry level around €35,000-45,000, mid-level €45,000-65,000, senior up to €90,000+. Paris typically offers 15-20% higher.
-
-**问：How can foreigners immigrate to France through information systems work?**
-答：Via Talent Passport (salary ≥€40k) or EU Blue Card (≥€53.4k). Requires job offer and relevant degree/experience.
-
-**问：Is there a shortage of information systems professionals in France?**
-答：Yes, especially in cybersecurity, cloud, and big data; listed as a shortage occupation by France Travail with high employer demand.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

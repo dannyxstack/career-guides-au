@@ -1,62 +1,98 @@
-# Administrative and Financial Director（Administrative and Financial Director）职业分析 · FR
+# Administrative and Financial Director — career analysis · France
 
-**职业代码：M1205 – Administrative and Financial Director。**
+**Occupation code: M1205 (ROME)**
 
-Oversees administrative and financial operations, including budgeting, cash flow management, cost optimization, and strategic decision-making.
+Responsible for corporate administration and financial management, setting budgets, overseeing cash flow, optimizing costs, and providing strategic decision support.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（硕士） | $8,000~$15,000（公立大学费用低，高商费用高） |
-| 大学校（Grande école） | 5年（PGE） | $60,000~$100,000（顶尖商学院总学费） |
-| 学徒制（Apprentissage） | 2年（Master） | —（公司支付学费并发放工资） |
+| Master's (BAC+5) | 5 years (Master's) | $8,000~$15,000 (Public universities have low fees, while high commercial schools have high fees) |
+| Grande école | 5 years (PGE) | $60,000~$100,000 (Top business schools in total tuition) |
+| Apprentissage | 2 years (Master) | $0~$0 (The company pays tuition and pays salaries) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法国硕士文凭（Master） | 法国教育部认可的大学 | 必备 | 金融、会计或管理方向优先 |
-| CAC 认证（Commissaire aux comptes） | 法国审计师协会（CNCC） | 可选 | 审计方向必备 |
-| DSCG（高级会计与管理文凭） | 法国高等教育部 | 可选 | 会计管理方向高级文凭 |
+| French Master's Diploma | A university recognized by the French Ministry of Education | Required | Finance, accounting, or management directions are preferred |
+| CAC Certification (Commissaire aux comptes) | French Auditors Association (CNCC) | Optional | Auditing is essential |
+| DSCG (Advanced Diploma in Accounting and Management) | French Ministry of Higher Education | Optional | Advanced diploma in accounting management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 35,000。法国该职位需求稳定，尤其在中小企业数字化转型和并购活动增加的背景下。巴黎及大都市区机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand for this position in France remains stable, especially amid increased digital transformation and M&A activity among SMEs. Paris and the metropolitan area offer even more opportunities.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 中小企业或咨询公司 |
-| 中级（3-8年） | $60,000~$90,000 | 中型企业 |
-| 高级（8年以上） | $90,000~$150,000 | 大型企业或上市公司 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Small and medium-sized enterprises or consulting firms |
+| Mid-level (3–8 years) | $60,000~$90,000 | Medium-sized enterprises. |
+| Senior (8+ years) | $90,000~$150,000 | Large enterprises or listed companies |
+| average salary | $59,838 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从财务经理、会计主管晋升至行政财务总监，进一步可升至CFO或CEO。需持续学习税务法规和财务软件。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Many of the analysis and report generation tasks for executive and financial directors can be automated by AI, but core responsibilities such as strategic decision-making, cross-departmental coordination, and risk management are hard to replace. Instead, AI can enhance their decision-making support capabilities.
+
+You can be promoted from financial manager or accounting supervisor to executive financial director, and further to CFO or CEO. Continuous study of tax regulations and financial software is required.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized financial statements and budget analysis reports
+- Cash flow forecasting and risk warning based on historical data
+- Automatically aggregate and preliminarily screen administrative and financial data
+- Automated handling of invoice review and compliance checks
+- Generate routine financial and administrative KPI dashboards
+
+**Where AI augments the role:**
+
+- AI is used for multi-scenario financial modeling and hypothesis analysis
+- AI-driven anomaly detection assists in identifying financial risks and fraud
+- Quickly extract key contract and regulatory clauses using NLP
+- AI-optimized cash flow management strategy recommendations
+- Automated report generation frees up time for strategic planning
+
+**Human moat:**
+
+- High-level strategic decisions and judgments under uncertainty
+- Cross-departmental interest coordination and change management
+- Corporate ethics and the ultimate responsibility of regulations
+- Build trust and the ability to lead the team
+- Complex negotiations and stakeholder communication
+
+**Skills to build:**
+
+- AI tool applications (such as intelligent financial analysis platforms)
+- Data Science and Advanced Analytics (Python/SQL)
+- Strategic thinking and business modeling
+- Digital transformation leadership
+- Risk and compliance management
+- Cross-cultural communication and change management
+
+**Key growth areas:**
 
 - Digitalization
 - M&A activity
@@ -65,66 +101,68 @@ Oversees administrative and financial operations, including budgeting, cash flow
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪技术人才，要求年薪超53,936.50欧元（2024年标准），简化居留申请 |
-| Subclass Passeport Talent（Talent Passport） | 面向高技能人才，需有硕士学历或3年工作经验，快速获得多年居留 |
-| Subclass Salarié（Employee Work Permit） | 标准工作许可，需雇主动机信和法国劳工局审核 |
+| Subclass Carte bleue UE (EU Blue Card) | For high-skilled technical talent, requiring annual salary over €53,936.50 (2024 standard), simplified residence application. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, master's degree or 3 years of work experience is required to quickly obtain multi-year residency |
+| Subclass Salarié (Employee Work Permit) | Standard work permit, requiring an employer motivation letter and review by the French Labor Authority |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Administrative and Financial Director？**
-- 具有财务分析与战略思维的决策者
-- 能在压力下管理复杂预算与团队
-- 热衷于企业治理和合规管理
+**Who is suited**
+- Decision-makers with financial analysis and strategic thinking
+- Able to manage complex budgets and teams under pressure
+- Passionate about corporate governance and compliance management
 
-**谁不适合学Administrative and Financial Director？**
-- 不喜欢数字和数据分析的人
-- 厌恶高压工作环境与截止日期
+**Who is not suited**
+- People who dislike numbers and data analysis
+- Dislikes high-pressure work environments and deadlines
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an Executive Finance Director in France?**
+A: Based on experience: junior approximately EUR 45,000–60,000; mid-level EUR 60,000–90,000; senior EUR 90,000–150,000 (pre-tax annual salary)
+
+**Q: How can non-EU individuals immigrate to France to pursue this profession?**
+A: Applications can be made through the EU Blue Card (annual salary ≥€53,936.50) or the Talent Passport (Master's + Work Contract); French B2 level is helpful.
+
+**Q: What are the career prospects for this occupation?**
+A: You can be promoted to CFO or CEO, or you can switch to consulting or start your own financial advisory firm.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中（★★★½☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Administrative and Financial Director属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Administrative and Financial Director in France?**
-答：Entry-level: €45,000-60,000; mid-level: €60,000-90,000; senior: €90,000-150,000 (gross annual).
-
-**问：How can non-EU nationals migrate to France for this role?**
-答：Via EU Blue Card (salary ≥€53,936.50) or Talent Passport (master's degree + job offer); French B2 recommended.
-
-**问：What are the career prospects?**
-答：Advance to CFO or CEO, or move into consulting or start your own advisory firm.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,99 @@
-# Generalist medical practitioners（Generalist medical practitioners）职业分析 · UK
+# Generalist medical practitioners — career analysis · United Kingdom
 
-**职业代码：2211 – Generalist medical practitioners。**
+**Occupation code: 2211 (SOC)**
 
-Generalist medical practitioners diagnose mental and physical illnesses, prescribe treatments, and conduct medical education; they work in hospitals or general practice and refer patients to specialists when needed.
+General practitioners diagnose physical and mental illnesses, prescribe treatments, provide therapies, and conduct health education in hospitals or GP clinics, referring to specialists when necessary.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 医学本科 | 5年 | $9,000~$38,000（英国本土学生约9,250英镑/年，国际学生约38,000英镑/年） |
-| 基础培训（Foundation Programme） | 2年 | —（带薪培训，年薪约29,000-34,000英镑） |
-| 全科专业培训（GP Specialty Training） | 3年 | —（带薪培训，年薪约40,000-50,000英镑） |
+| Bachelor of Medicine (MBBS). | 5 years | $9,000~$38,000 (UK domestic students approx. £9,250/year; international students approx. £38,000/year) |
+| Foundation Programme | 2 years | $0~$0 (Paid training, annual salary approximately £29,000-34,000.) |
+| GP Specialty Training | 3 years | $0~$0 (Paid training, annual salary approximately £40,000-50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（MBBS或同等） | 英国医学总会（GMC）认可的医学院 | 必备 | 必须从认可医学院毕业 |
-| GMC注册医师执照 | 英国医学总会（GMC） | 必备 | 完成Foundation Programme后方可注册 |
-| 全科医生认证（MRCGP） | 皇家全科医生学院（RCGP） | 必备 | 完成GP Specialty Training后获得 |
-| 职业医师认证（Certificate of Completion of Training, CCT） | GMC | 必备 | 全科专业培训完成后获得 |
+| Medical degree (MBBS or equivalent) | Medical school recognised by the General Medical Council (GMC) | Required | Must graduate from a recognized medical school |
+| GMC registered medical licence | General Medical Council (GMC) | Required | Registration is possible only after completing the Foundation Programme. |
+| General Practitioner certification (MRCGP) | Royal College of General Practitioners (RCGP) | Required | Obtained after completing GP Specialty Training |
+| Certificate of Completion of Training (CCT) for medical professionals | GMC | Required | Obtained after completing general practice training. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 65,000。英国全科医生长期短缺，NHS持续招聘，预计未来十年岗位增长约10%。老龄化人口和医疗需求上升将推动需求。
+**Job demand: very high (★★★★½).** National workforce approx. 65,000. UK general practitioners are in long-term shortage, NHS continues recruiting, with an estimated 10% job growth over the next decade. Aging population and rising medical needs will drive demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | NHS全科医生起薪约60,000-80,000英镑 |
-| 中级（4-9年） | $80,000~$110,000 | 经验丰富的全科医生年薪约80,000-110,000英镑 |
-| 高级（10年以上） | $110,000~$150,000 | 高级合伙人或临床主任年薪可达110,000-150,000英镑，私营诊所更高 |
+| Median salary | $55,494 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $60,000~$80,000 | NHS GP starting salary approx £60,000-80,000 |
+| Intermediate (4-9 years) | $80,000~$110,000 | Experienced general practitioner annual salary approximately £80,000-110,000 |
+| Senior (10+ years) | $110,000~$150,000 | Senior partners or clinical directors can earn £110,000–150,000 per year, with higher earnings in private clinics. |
+| average salary | $58,674 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径：初级全科医生→全科医生合伙人→高级合伙人/临床主任，或专攻特定领域（如运动医学、老年医学），也可转向NHS管理层或学术研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
+
+Career progression path: Junior GP → GP Partner → Senior Partner/Clinical Director, or specialize in areas like sports medicine, geriatrics, or move into NHS management or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automated recording of medical records and prescriptions
+- Preliminary analysis of routine imaging (e.g., X-rays)
+- Rule-based health consultation and triage
+- Appointment management and patient follow-up reminders
+- Automatic summarization of follow-up data for some chronic diseases.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic suggestion systems improve diagnostic accuracy
+- AI-supported personalized treatment plan recommendations
+- Real-time analysis of patient health data to predict risks
+- Smart reminders for drug interactions and side effects
+- AI-assisted telemedicine consultation and documentation
+
+**Human moat:**
+
+- Complex clinical reasoning and decision-making under uncertainty
+- Empathy and trust building in doctor-patient consultations
+- Synthesizing multi-source information for comprehensive judgment
+- Intuition and Experience for Rare Diseases or Atypical Presentations
+- Ultimate assumption of ethics and legal responsibility
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic tools (e.g., large model-based clinical decision support systems)
+- Learning data analysis and basic statistics to interpret AI reports
+- Enhance digital health and telehealth platform operation skills
+- Enhancing Patient Communication Combined with Digital Tools
+- Familiarity with basic programming (e.g., Python) for custom analysis or automation
+- Learning medical AI ethics and data privacy regulations
+
+**Key growth areas:**
 
 - Ageing population
 - NHS demand
@@ -66,69 +102,68 @@ Generalist medical practitioners diagnose mental and physical illnesses, prescri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 适用于受NHS或独立医疗提供者雇佣的全科医生，满足薪资门槛（约29,000英镑/年） |
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于符合资格的申请人，需获得雇主担保，薪资不低于38,700英镑/年（2024年新政） |
-| Subclass Global Talent（Global Talent visa） | 适用于在医疗领域有突出成就的领袖级人才，无需雇主担保，但需通过同行评审 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | Applicable to general practitioners employed by the NHS or independent providers, meeting the salary threshold (approximately £29,000/year) |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to eligible applicants requiring employer sponsorship with a salary of at least £38,700/year (2024 new policy) |
+| Subclass Global Talent (Global Talent visa) | Applicable to top-tier talents with outstanding achievements in the medical field; no employer sponsorship required but must pass peer review |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Generalist medical practitioners？**
-- 立志从医、有强烈责任心和同理心的人
-- 抗压能力强、能应对快节奏工作的人
-- 乐于终身学习、不断更新医学知识的人
-
-**谁不适合学Generalist medical practitioners？**
-- 害怕血、手术或医疗环境的人
-- 不喜欢与患者直接沟通或团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strong determination to pursue medicine, high sense of responsibility, and empathy
+- People with strong stress tolerance and ability to handle fast-paced work
+- People who enjoy lifelong learning and continuously updating medical knowledge
+
+**Who is not suited**
+- People afraid of blood, surgery, or medical environments
+- Those who dislike direct communication with patients or teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for general practitioners?**
+A: NHS GPs: junior approx £60,000-80,000, mid-level £80,000-110,000, senior £110,000-150,000; private clinics earn more.
+
+**Q: How can overseas doctors migrate to the UK to become general practitioners?**
+A: Typically requires passing the PLAB exam to obtain GMC registration, completing the Foundation Programme and GP training, then applying for a Health & Care Worker visa.
+
+**Q: What qualifications are needed to become a general practitioner?**
+A: Requires a medical degree, GMC registration, completion of Foundation Programme and GP specialty training (3 years), and MRCGP certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Generalist medical practitioners为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for generalist medical practitioners?**
-答：NHS GPs earn £60k-£80k (entry), £80k-£110k (mid), £110k-£150k (senior); private practice can be higher.
-
-**问：How can overseas doctors migrate to the UK as GPs?**
-答：Typically pass PLAB exams for GMC registration, complete Foundation Programme and GP training, then apply for Health & Care Worker visa.
-
-**问：What qualifications are required to become a GP?**
-答：Medical degree, GMC registration, completion of Foundation Programme and GP specialty training (3 years), and MRCGP certification.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

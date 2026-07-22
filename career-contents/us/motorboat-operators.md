@@ -1,60 +1,96 @@
-# Motorboat Operators（Motorboat Operators）职业分析 · 美国
+# Motorboat Operators — career analysis · United States
 
-**职业代码：53-5022 – Motorboat Operators。**
+**Occupation code: 53-5022 (SOC)**
 
-Operate small motor-driven boats, may assist in navigational activities. Typically work in tourism, fishing transport, or short-distance passenger service, mainly on water.
+Operate small motor vessels, possibly assist with navigation activities. Typically engaged in tourism, fishery transport, or short-distance passenger services, with a work environment mainly on water.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 商船船员证书培训 | 4-6个月 | $2,000~$5,000（培训课程和考试费用） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Merchant navy crew certificate training | 4-6 months | $2,000~$5,000 (Training course and exam fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商船船员证书 | 美国海岸警卫队 | 必备 | 根据船舶吨位和用途分级，需通过考试和体检 |
-| 心肺复苏急救证书 | 美国红十字会等 | 可选 | 部分雇主要求 |
+| Merchant mariner credential | United States Coast Guard | Required | Classified by vessel tonnage and use; requires exams and medical checks |
+| CPR/first aid certificate | American Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 5,000。美国劳工统计局预计2023-2033年就业增长约4%，与平均水平持平。旅游和水上运输需求稳定，但自动化可能影响部分岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,000. US Bureau of Labor Statistics projects about 4% growth from 2023 to 2033, on par with average. Demand stable in tourism and water transport, but automation may affect some roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 小型旅游船或辅助岗位 |
-| 中级（3-7年） | $40,000~$55,000 | 有经验船长 |
-| 高级（7年以上） | $55,000~$75,000 | 大型船舶或管理职务 |
+| Median salary | $47,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Small tourist boat or support role |
+| Mid-level (3–7 years) | $40,000~$55,000 | Experienced ship captain |
+| Senior (7+ years) | $55,000~$75,000 | Large vessel or management position |
+| average salary | $56,270 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从初级船员逐步晋升为船长或领航员，部分积累经验后可转向海事管理或港口运营。需获取美国海岸警卫队商船船员证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Progress from junior crew to captain or navigator; some may move into maritime management or port operations after gaining experience. Requires a US Coast Guard Merchant Mariner Credential.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Maritime industry
 - Tourism and recreation
@@ -63,65 +99,67 @@ Operate small motor-driven boats, may assist in navigational activities. Typical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 适用于临时或季节性非农业工作，需雇主担保，有名额限制 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 理论上可行，但摩托艇操作员不符合高技能职业，且PERM广告要求严格，极少获批 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Applies to temporary or seasonal non-agricultural work, requires employer sponsorship, has quota limits |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Theoretically possible, but motorboat operator is not high-skilled, and PERM advertising requirements are strict; very few approvals |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motorboat Operators？**
-- 喜爱户外水上工作
-- 适应季节性就业
-- 愿意获得必要证书
+**Who is suited**
+- Enjoy outdoor water work
+- suitable for seasonal employment
+- Willing to obtain necessary certifications
 
-**谁不适合学Motorboat Operators？**
-- 追求高薪
-- 希望稳定城市办公
+**Who is not suited**
+- Pursuing high salary
+- Prefers stable city office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for motorboat operators?**
+A: Median annual salary around $45,000, entry-level lower at about $30,000, senior up to $75,000, influenced by region and season.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Very difficult. This occupation does not qualify as an H-1B specialty occupation; only possible through H-2B seasonal visa with limited quotas and non-immigrant intent; green card path is extremely narrow.
+
+**Q: What certifications are needed?**
+A: Must obtain a Merchant Mariner Credential issued by the U.S. Coast Guard, graded by vessel tonnage and use, and pass background checks and medical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 简单（★★☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motorboat Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for motorboat operators?**
-答：Median annual salary around $45,000, entry-level low about $30,000, experienced up to $75,000, varies by location and season.
-
-**问：Is immigration for this occupation to the US easy?**
-答：Very difficult. Not eligible for H-1B, only H-2B seasonal visa with limited cap and non-immigrant intent; green card path extremely narrow.
-
-**问：What certifications are required?**
-答：Must obtain a Merchant Mariner Credential from US Coast Guard, graded by vessel tonnage and use, plus background check and physical exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

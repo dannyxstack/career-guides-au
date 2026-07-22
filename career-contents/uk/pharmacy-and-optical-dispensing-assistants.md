@@ -1,58 +1,91 @@
-# Pharmacy and optical dispensing assistants（Pharmacy and optical dispensing assistants）职业分析 · UK
+# Pharmacy and optical dispensing assistants — career analysis · United Kingdom
 
-**职业代码：7114 – Pharmacy and optical dispensing assistants。**
+**Occupation code: 7114 (SOC)**
 
-Work under the supervision of pharmacists or opticians to dispense medicines, issue pre-packaged prescriptions, sell OTC medication, and dispense spectacles, contact lenses, and related products.
+Under the supervision of a pharmacist or optometrist, dispense medications, execute pre-packaged prescriptions, sell non-prescription drugs, and prepare glasses, contact lenses, and related products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育（A-Level） | 2年 | —（英国公立学校免费） |
-| BTEC 药学服务文凭（Level 3） | 1-2年 | $3,000~$6,000（学院学费） |
+| Secondary education (A-Level) | 2 years | $0~$0 (Free public schools in the UK) |
+| BTEC Diploma in Pharmaceutical Services (Level 3) | 1-2 years | $3,000~$6,000 (College tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药房服务学徒（Level 2/3） | Skills for Health | 可选 | 常见入职途径 |
-| 配药技师认证（BTEC） | General Pharmaceutical Council (GPhC) | 可选 | 非强制但雇主偏好 |
+| Pharmacy services apprentice (Level 2/3) | Skills for Health | Optional | Common entry pathways |
+| Dispensing technician certification (BTEC) | General Pharmaceutical Council (GPhC) | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 57,000。英国人口老龄化和医疗需求增长持续推动社区药房和光学服务需求，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 57,000. The UK's aging population and growing healthcare needs continue to drive demand for community pharmacy and optical services, with stable employment prospects.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或入门级 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验配药助理 |
-| 高级（7年以上） | $28,000~$35,000 | 管理或培训角色 |
+| Median salary | $23,783 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Experienced dispensing assistant |
+| Senior (7+ years) | $28,000~$35,000 | Managerial or training role |
+| average salary | $23,588 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为高级配药助理、药房技术员或继续深造成为药剂师/验光师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Automation will reduce entry-level dispensing roles, but AI enhances diagnostics and customer service. Meanwhile, licensing thresholds rise, over-the-counter sales become more self-service, and optician services increasingly rely on AI assistance. Overall, the outlook is mixed.
+
+Can advance to senior dispensing assistant, pharmacy technician, or pursue further studies to become a pharmacist/optometrist.
+
+**Tasks most exposed to AI:**
+
+- Check prescription information and print labels
+- Counting and packaging of pre-packaged medications
+- Handle over-the-counter medication sales and inventory counting
+- manage patient records and appointment schedules
+
+**Where AI augments the role:**
+
+- AI-assisted drug interaction checks to improve dispensing safety
+- Smart optometry systems speed up lens prescription adjustments
+- Chatbots handle common medication queries, assistants focus on complex cases
+- Automated inventory alerts and purchase suggestions to optimize supply chain
+
+**Human moat:**
+
+- Provide personalized medication guidance for special patients (e.g., children, elderly).
+- Manual adjustment of complex prescription glasses (e.g., multifocal, high astigmatism)
+- Handle emergency communication for adverse drug reactions, allergies, etc.
+- Pharmaceutical regulatory compliance assessment and professional ethical decision-making.
+
+**Skills to build:**
+
+- Digital health records and electronic prescription system operation
+- Basic data analysis (inventory, customer preferences)
+- AI-assisted diagnostic tools (e.g., eye OCT image interpretation)
+- Customer communication and health science communication skills
+- Supply chain management and automated equipment maintenance
+- Clinical pharmacy basics (knowledge of drug interactions)
+
+**Key growth areas:**
 
 - Retail pharmacy
 - Community healthcare
@@ -61,64 +94,63 @@ Work under the supervision of pharmacists or opticians to dispense medicines, is
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker Visa） | 适用于英国NHS或独立医疗提供商，薪资门槛低，紧缺职业可享受优惠。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保，该职业通常在可担保列表，但需满足薪资门槛。 |
+| Subclass Health & Care Worker (Health and Care Worker Visa) | Applicable to the UK NHS or independent healthcare providers, low salary threshold, concessions for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; this occupation is usually on the sponsorable list but must meet salary thresholds. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacy and optical dispensing assistants？**
-- 耐心细致、喜欢与人打交道的人
-- 对药学或光学感兴趣但不想长期学习的人
-- 希望在医疗领域快速就业的人
-
-**谁不适合学Pharmacy and optical dispensing assistants？**
-- 追求高薪或快速晋升的人
-- 无法适应轮班工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, meticulous, and people-oriented individuals
+- People interested in pharmacy or optics but who don't want to study long-term
+- People seeking quick employment in the healthcare field
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who cannot adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for pharmacy dispensing assistants?**
+A: Newcomer annual salary around GBP 18,000-22,000, mid-level around 22,000-28,000, senior up to 35,000.
+
+**Q: Is it easy to get a UK work visa for this occupation?**
+A: Occupied in medical shortage occupation, usually eligible for immigration via Health and Care Worker visa or Skilled Worker visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Pharmacy and optical dispensing assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pharmacy dispensing assistants?**
-答：Entry-level £18,000-£22,000, mid-level £22,000-£28,000, senior up to £35,000.
-
-**问：Is it easy to get a UK work visa for this occupation?**
-答：As a healthcare shortage occupation, it is eligible for Health and Care Worker or Skilled Worker visas.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

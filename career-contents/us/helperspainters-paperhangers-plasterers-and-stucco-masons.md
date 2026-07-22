@@ -1,60 +1,96 @@
-# Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons（Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons）职业分析 · 美国
+# Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons — career analysis · United States
 
-**职业代码：47-3014 – Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons。**
+**Occupation code: 47-3014 (SOC)**
 
-Help painters, paperhangers, plasterers, or stucco masons by performing duties requiring less skill, such as supplying or holding materials, cleaning work areas and equipment.
+Assist painters, paperhangers, plasterers, or stucco masons with low-skill tasks such as providing or holding materials and tools, cleaning work areas and equipment. Excludes construction workers primarily assisting other trades.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 短期 | $1,000~$5,000（雇主提供培训，可能产生少量工具费用） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | Short-term | $1,000~$5,000 (Employer provides training; may incur minor tool costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 高中 | 可选 | 多数雇主要求 |
-| OSHA安全认证 | OSHA | 可选 | 部分雇主要求 |
+| High school diploma | High school | Optional | Most employers require |
+| OSHA safety certification | OSHA | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,200。预计2023-2033年就业增长约4%，增速与所有职业平均水平相当。建筑活动整体需求支撑该岗位，但自动化风险较低。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 23,200. Projected employment growth of about 4% from 2023-2033, about as fast as average for all occupations. Overall construction activity supports this role, but automation risk is low.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 通常时薪14-17美元 |
-| 中级（3-6年） | $35,000~$43,000 | 经验丰富者时薪17-21美元 |
-| 高级（6年以上） | $43,000~$55,000 | 高级助手或晋升为熟练工 |
+| Median salary | $40,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Typically $14-17 per hour |
+| Mid-level (3–6 years) | $35,000~$43,000 | Experienced workers earn $17–$21 per hour |
+| Senior (6+ years) | $43,000~$55,000 | Senior assistant or promotion to skilled worker |
+| average salary | $42,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从基础助手做起，积累经验后可晋升为熟练油漆工、抹灰工等，或转向其他建筑工种。部分通过学徒项目获得正式技能认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation is an entry-level manual assistance role; automation tools (e.g., automatic spray painting robots, smart plastering machines) will gradually replace low-skilled tasks, significantly reducing entry-level positions, but demand for senior tradespeople remains stable.
+
+Usually starts as a basic assistant, gaining experience to become a skilled painter, plasterer, etc., or switch to other construction trades. Some obtain formal skill certifications through apprenticeship programs.
+
+**Tasks most exposed to AI:**
+
+- Automatic spray painting robots replace manual brush painting and roller coating
+- Automatic plastering machines replace manual plastering and leveling
+- AI automatic cutting machine replaces manual measurement and cutting by paperhangers
+- Smart cleaning robots replace cleaning tools and venues
+- Drone automatic spraying system replaces manual scaffolding spraying
+
+**Where AI augments the role:**
+
+- AI scheduling system optimizes task assignment and material transport
+- AR glasses provide real-time construction instructions and remote expert guidance
+- Spray robots assist with large-area base coating; manual finishing for detail work
+- Smart detection equipment provides real-time feedback on coating thickness and flatness.
+- AI construction management platform automatically records work hours and material consumption
+
+**Human moat:**
+
+- Fine manual handling of complex surfaces or irregular structures.
+- Flexibly handle unexpected issues on site (e.g., material defects, weather changes)
+- Communicates with clients on aesthetic needs like color and texture
+- Coordination and judgment skills in multi-trade collaboration
+- Ability to restore original craftsmanship in old building renovation.
+
+**Skills to build:**
+
+- Operate and debug automated spraying/plastering robots
+- Use AR-assisted construction and remote collaboration software
+- Digital construction management platforms (e.g., Procore).
+- Basic electrical and mechanical repair (maintaining automated equipment)
+- Quality inspection and data recording (e.g., coating thickness gauge).
+- Knowledge of safety regulations and eco-friendly materials
+
+**Key growth areas:**
 
 - Construction growth
 - Maintenance
@@ -63,65 +99,67 @@ Help painters, paperhangers, plasterers, or stucco masons by performing duties r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时非农业工人签证，适用于短期季节性建筑工作，但雇主需证明劳工短缺。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-3)） | 通过PERM劳工认证申请EB-3绿卡，但该职业低技能且非紧缺，雇主担保困难。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa for short-term seasonal construction work, but employers must prove labor shortage. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Apply for EB-3 green card through PERM labor certification, but this occupation is low-skilled and not in shortage, making employer sponsorship difficult. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons？**
-- 喜欢体力劳动、动手操作的人
-- 从基础学起、愿意接受在职培训的人
-- 寻求建筑行业入门路径的人
+**Who is suited**
+- People who enjoy physical labor and hands-on work
+- Individuals willing to start from basics and receive on-the-job training
+- Those seeking entry paths into the construction industry
 
-**谁不适合学Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons？**
-- 偏好室内办公环境的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who prefer an indoor office environment
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a painter's assistant?**
+A: According to BLS data, the 2023 median annual salary is approximately $37,000; entry-level $28,000–$35,000; senior up to $55,000.
+
+**Q: Are there skilled migration pathways for this occupation?**
+A: Almost no skilled migration pathways. This occupation typically only works via H-2B temporary visa, and employer-sponsored EB-3 green card is very difficult due to being a low-skilled non-shortage occupation.
+
+**Q: What are the career advancement opportunities?**
+A: Can advance to skilled painter, plasterer, or become a qualified tradesperson through apprenticeship, then to foreman or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for helpers--painters?**
-答：According to BLS, the median annual wage in 2023 is about $37,000; entry-level ranges from $28,000 to $35,000, and experienced can reach $55,000.
-
-**问：Is there a skilled migration pathway for this occupation?**
-答：Almost none. It is typically limited to H-2B temporary work visas, and employer-sponsored EB-3 green cards are very difficult due to low skill and non-shortage status.
-
-**问：What career advancement opportunities exist?**
-答：You can advance to skilled painter, plasterer, or through apprenticeships become a journeyman, then foreman or self-employed contractor.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

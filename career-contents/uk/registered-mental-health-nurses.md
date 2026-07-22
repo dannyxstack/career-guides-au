@@ -1,59 +1,93 @@
-# Registered mental health nurses（Registered mental health nurses）职业分析 · UK
+# Registered mental health nurses — career analysis · United Kingdom
 
-**职业代码：2235 – Registered mental health nurses。**
+**Occupation code: 2235 (SOC)**
 
-Support and care for people with a range of mental health conditions in hospitals and community settings, helping them towards recovery and management.
+Provide care and support to patients with various mental health conditions in inpatient and community settings, assisting their recovery and disease management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 护理学本科 | 3年 | $25,000~$45,000（英格兰大学年学费约9000-15000英镑，苏格兰免费） |
-| 护理学硕士（预注册） | 2年 | $30,000~$50,000（适用于已有其他本科学位者） |
+| Bachelor of Nursing | 3 years | $25,000~$45,000 (Annual tuition at English universities is about 9000-15000 GBP, free in Scotland) |
+| Master of Nursing (Pre-Registration) | 2 years | $30,000~$50,000 (Suitable for those who already hold another bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理学学位 | 英国护理与助产委员会（NMC）认证大学 | 必备 | 必须完成NMC认可的课程 |
-| NMC注册 | 英国护理与助产委员会 | 必备 | 通过考试和实习后注册 |
-| 健康与安全培训 | 雇主/NHS | 可选 | 包括手动操作、预防暴力等 |
+| Bachelor of Nursing | University accredited by the Nursing and Midwifery Council (NMC) in the UK | Required | Must complete a NMC-recognized course |
+| NMC registration | UK Nursing and Midwifery Council | Required | Registration after exams and internship |
+| Health and safety training | Employer/NHS | Optional | Includes manual handling, violence prevention, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 38,000。英国心理健康护理需求持续增长，NHS及私营机构均面临人手短缺，预计就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 38,000. Demand for mental health nursing in the UK continues to grow; both NHS and private institutions face staffing shortages, with good employment prospects expected.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$32,000 | NHS Band 5起薪 |
-| 中级（4-8年） | $33,000~$41,000 | NHS Band 6-7 |
-| 高级（8年以上） | $42,000~$55,000 | NHS Band 7-8a，临床专家或管理岗 |
+| Median salary | $42,692 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $27,000~$32,000 | NHS Band 5 starting salary |
+| Mid-level (4–8 years) | $33,000~$41,000 | NHS Band 6-7 |
+| Senior (8+ years) | $42,000~$55,000 | NHS Band 7-8a, clinical specialist or management role |
+| average salary | $42,834 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从注册护士晋升为高级护士、临床专家、护士顾问或护理管理岗位，也可转向心理治疗或教育领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Can progress from registered nurse to senior nurse, clinical specialist, nurse consultant, or nursing management, or move into psychotherapy or education.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Mental Health Demand
 - NHS Recruitment
@@ -62,68 +96,67 @@ Support and care for people with a range of mental health conditions in hospital
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 针对医疗和护理专业人员，满足薪资和英语要求，可带家属 |
-| Subclass Skilled Worker（Skilled Worker visa） | 如不属于Health & Care路径，可通过此签证担保，需满足通用要求 |
-| Subclass Graduate（Graduate visa） | 完成英国本科或硕士后可在英工作2年，积累经验 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | For medical and nursing professionals, meeting salary and English requirements, can bring family members |
+| Subclass Skilled Worker (Skilled Worker visa) | If not under the Health & Care pathway, can be sponsored via this visa, subject to general requirements. |
+| Subclass Graduate (Graduate visa) | After completing UK bachelor's or master's, can work in the UK for 2 years, gaining experience |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered mental health nurses？**
-- 具有同理心和沟通能力，愿意帮助他人
-- 能承受情绪压力，适应轮班工作
-- 对精神健康领域有浓厚兴趣
-
-**谁不适合学Registered mental health nurses？**
-- 无法应对高压力或情绪化场景
-- 不喜欢团队协作或频繁与人接触
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have empathy and communication skills, willingness to help others
+- Able to handle emotional stress and adapt to shift work
+- Have a strong interest in the mental health field
+
+**Who is not suited**
+- Unable to handle high-pressure or emotional situations
+- Dislikes teamwork or frequent interaction with people
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for registered mental health nurses?**
+A: NHS starting salary is about £27,000, and senior roles can exceed £55,000. Private sector may pay more, but work pressure is usually higher.
+
+**Q: How to work in the UK via a Health and Care Worker visa?**
+A: Obtain a job offer from the NHS or an approved employer, meet English requirements (e.g., IELTS 7.0), and a salary of at least £27,000 to apply for this visa; family can accompany.
+
+**Q: How can overseas nurses obtain NMC registration?**
+A: Must pass NMC CBT and OSCE exams, meet English requirements, and complete adaptation training. Some countries (e.g., Australia, USA) may have simplified processes.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中高（★★★½☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Registered mental health nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for registered mental health nurses?**
-答：Starting salary in NHS is around £27,000, rising to over £55,000 for senior roles. Private sectors may offer higher pay but with more pressure.
-
-**问：How to work in the UK via the Health and Care Worker visa?**
-答：Obtain a job offer from NHS or approved employer, meet English requirement (e.g., IELTS 7.0), salary at least £27,000, and you can apply with dependents.
-
-**问：How can overseas nurses get NMC registration?**
-答：Pass NMC's CBT and OSCE exams, meet English requirements, and complete adaptation training. Some countries (e.g., Australia, USA) have streamlined routes.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

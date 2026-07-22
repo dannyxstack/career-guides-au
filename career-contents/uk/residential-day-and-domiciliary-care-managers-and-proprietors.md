@@ -1,59 +1,94 @@
-# Residential, day and domiciliary care managers and proprietors（Residential, day and domiciliary care managers and proprietors）职业分析 · UK
+# Residential, day and domiciliary care managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1232 – Residential, day and domiciliary care managers and proprietors。**
+**Occupation code: 1232 (SOC)**
 
-Plan, organize, and oversee the operations of residential homes, day care centers, and domiciliary care services, ensuring care quality, compliance, and efficient resource use.
+Responsible for planning, organizing and supervising the operation of nursing homes, day care centers and home care services, ensuring care quality, compliance and efficient resource use.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 护理或管理相关学士学位 | 3年 | $20,000~$35,000（国内学费） |
-| 护理管理研究生文凭 | 1年 | $8,000~$15,000（可远程学习） |
+| Bachelor's degree in nursing or management related field | 3 years | $20,000~$35,000 (Domestic tuition fees) |
+| Graduate diploma in nursing management | 1 year | $8,000~$15,000 (Remote learning available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理管理资质（如NVQ/QCF Level 5） | Skills for Care | 必备 | 对管理注册服务为强制 |
-| 注册经理认证 | Care Quality Commission (CQC) | 必备 | 适用于注册的护理服务 |
-| 急救证书 | 红十字会 | 可选 | 推荐 |
+| Nursing management qualifications (e.g., NVQ/QCF Level 5) | Skills for Care | Required | Mandatory for managing registration service |
+| Registered manager certification | Care Quality Commission (CQC) | Required | Applicable to registered nursing services |
+| First aid certificate | Red Cross | Optional | Recommend |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。随着英国人口老龄化，对护理服务的需求持续增长，该职位就业前景良好，但面临资金和人员短缺的挑战。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. With the aging UK population, demand for nursing services continues to grow, offering good employment prospects for this role, but facing challenges of funding and staff shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 小型机构或助理经理 |
-| 中级（3-7年） | $32,000~$40,000 | 中型护理院经理 |
-| 高级（7年以上） | $42,000~$55,000 | 大型机构或区域经理 |
+| Median salary | $42,700 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$30,000 | Small institutions or assistant manager |
+| Mid-level (3–7 years) | $32,000~$40,000 | Medium-sized nursing home manager. |
+| Senior (7+ years) | $42,000~$55,000 | Senior institution or regional manager |
+| average salary | $45,881 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 通常从护理或管理岗位起步，可晋升为区域经理或运营总监，部分人转向护理咨询或政策制定领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Nursing management careers face automation augmentation rather than replacement, as core supervision and human care are difficult to replace by AI, but administration and scheduling will be highly automated.
+
+Usually start in nursing or management roles, can progress to regional manager or operations director; some transition to nursing consulting or policy development.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and human resource deployment: AI can optimize matching between carers and client timings
+- Compliance reports and regulatory document generation, AI auto-fills templates
+- Basic financial bookkeeping and bill processing, AI identifies patterns and categorises automatically
+- Customer needs initial screening questionnaire, AI chatbot collects information
+
+**Where AI augments the role:**
+
+- Personalized care plan development using AI to analyze health data and provide recommendations
+- Real-time risk alerts: AI monitors abnormal activity in the elderly and alerts caregivers
+- Training material generation and scenario simulation: AI creates interactive training modules
+- Automated generation of family communication reports, with AI summarizing care events and trends
+- Resource procurement and inventory forecasting, AI automatically replenishes based on historical consumption
+
+**Human moat:**
+
+- Quality of care accountability and ethical decision-making: AI cannot assume legal and moral responsibility.
+- Emotional support and empathetic communication—machines cannot replace genuine interpersonal relationships
+- Emergency crisis handling, such as on-site assessment and first aid after an elderly person falls.
+- Cross-team coordination and employee motivation, requiring leadership and humane management
+- Regulatory compliance interpretation and customised implementation rely on experience and local knowledge.
+
+**Skills to build:**
+
+- Data analysis basics: interpret nursing metrics using Excel/Tableau
+- Application of AI tools, such as Copilot for report generation or scheduling system operation
+- Proficient in digital health record systems
+- Basic project management, such as coordinating teams using agile methods
+- Communication and empathy skills, continuously strengthen interpersonal advantages
+- Basic programming awareness, understanding automation workflow logic
+
+**Key growth areas:**
 
 - Aging population
 - Care demand increase
@@ -62,64 +97,63 @@ Plan, organize, and oversee the operations of residential homes, day care center
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 满足技能和薪资要求，适用于护理经理岗位，属于短缺职业可降低薪资门槛。 |
-| Subclass Health & Care（Health and Care Worker Visa） | 适用于医疗和护理行业，享有快速通道和较低签证费，可带家属。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets skill and salary requirements; suitable for care manager positions, considered a shortage occupation can lower the salary threshold. |
+| Subclass Health & Care (Health and Care Worker Visa) | Applicable to the medical and nursing industries, with fast-track processing and lower visa fees, and can bring family members. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Residential, day and domiciliary care managers and proprietors？**
-- 有护理或管理背景的人
-- 有耐心和领导力的人
-- 愿意在社区工作的人
-
-**谁不适合学Residential, day and domiciliary care managers and proprietors？**
-- 不适应高压力环境的人
-- 不愿从事文书和合规工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with nursing or management background
+- Patient and with leadership qualities
+- People willing to work in the community
+
+**Who is not suited**
+- People who are not suited to high-stress environments
+- People who do not want to do clerical and compliance work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for nursing managers?**
+A: Entry-level around £25,000-30,000, mid-level £32,000-40,000, senior £42,000-55,000, depending on institution size and location.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, this occupation is on the skilled worker visa occupation list and is a shortage occupation, eligible for salary threshold concessions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Residential, day and domiciliary care managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for care managers?**
-答：Entry-level around £25,000-30,000, mid-level £32,000-40,000, senior £42,000-55,000, depending on size and location.
-
-**问：Can this occupation apply for a Skilled Worker visa?**
-答：Yes, it is on the eligible list and is on the shortage list, allowing reduced salary thresholds.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

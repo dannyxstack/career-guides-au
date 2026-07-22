@@ -1,59 +1,95 @@
-# Carpenter and Joiner（Carpenter and Joiner）职业分析 · NL
+# Carpenter and Joiner — career analysis · Netherlands
 
-**职业代码：7115 – Carpenter and Joiner。**
+**Occupation code: 7115 (ISCO08)**
 
 Carpenters and joiners construct, install, and repair wooden structures and furniture on construction sites or in workshops.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-3年（MBO level 2-3） | $1,000~$6,000（学费每年约€1,000-€2,000，另需教材工具） |
-| 学徒制 (BBL) | 3年（兼职学习+工作） | $1,000~$4,000（雇主通常承担学费，学徒期有工资） |
+| Secondary vocational education (MBO) | 2-3 years (MBO level 2-3) | $1,000~$6,000 (Tuition approx. €1,000–€2,000 per year, plus materials and tools) |
+| Apprenticeship (BBL) | 3 years (part-time study + work) | $1,000~$4,000 (Employers usually cover tuition fees, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO木工文凭 | ROC（地区教育中心） | 必备 | 完成MBO level 2-3木工课程 |
-| VCA安全证书 | NEN或SCC | 可选 | 基本职业安全认证，多数工地要求 |
-| SVIB经验证书 | SVIB | 可选 | 非强制，但有助于证明专业能力 |
+| MBO Woodworking Diploma | ROC (Regional Education Centre) | Required | Complete MBO level 2-3 carpentry course |
+| VCA safety certificate | NEN or SCC | Optional | Basic occupational safety certification, required on most construction sites |
+| SVIB experience certificate | SVIB | Optional | Not mandatory, but helps demonstrate professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。荷兰住房短缺和翻新需求推动建筑业持续增长，木匠需求稳定，但绿色转型需新技能。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Housing shortages and renovation needs in the Netherlands drive sustained growth in construction, with steady demand for carpenters, but the green transition requires new skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-8年） | $32,000~$42,000 | 税前年薪 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪，含自雇收入 |
+| Median salary | $47,622 | Median salary (official: CBS employee median hourly wage €24.1/hour × 1976h annualised, BRC group 0732 Timmerlieden; P25–P75 €39,322–€54,735, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary, including self-employment income |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从学徒成长为领班、项目经理或自雇。经验丰富者可成为技术专家或培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on carpenters and joiners is mixed: tasks like standard measurement and cutting are easily automated, but core skills such as on-site custom installation and creative design remain protected; overall results are a mixed blessing.
+
+Can progress from apprentice to team leader, project manager, or self-employed. Experienced individuals can become technical experts or trainers.
+
+**Tasks most exposed to AI:**
+
+- Automated cutting and polishing: AI-controlled CNC machines handle standard-size wood cutting
+- Initial measurement and marking: AI vision scanning automatically generates cutting lines
+- Inventory management and material optimization: AI algorithms optimize wood utilization
+- Repetitive frame assembly: robot-assisted simple tenon joint assembly
+- Design drawing generation: AI automatically creates structural drawings based on parameters
+
+**Where AI augments the role:**
+
+- Custom design: AI-assisted generation of 3D models and machining instructions for complex timber structures
+- Precision installation verification: AR overlay annotations guide on-site positioning and level calibration
+- Material selection and cost estimation: AI analyzes wood performance and supply chain data
+- Construction safety monitoring: AI cameras detect dangerous actions in real time and issue warnings
+- Remote collaboration: AI translation and projection assist cross-language team collaboration
+
+**Human moat:**
+
+- On-site adaptability: creative adjustments for irregular walls and older buildings
+- Manual finishing and aesthetic judgment: complex carvings, curved surfaces require aesthetic experience
+- Customer communication and understanding of custom requirements: communication on non-standard designs
+- Multi-trade coordination experience: resolving conflicts with electricians, plumbers, etc.
+- Safety and quality responsibility: decisions and inspections responsible for structural safety
+
+**Skills to build:**
+
+- 3D modeling software (e.g., SketchUp, Revit)
+- CNC programming and operation (G-code basics)
+- Use of AR/VR assisted construction tools
+- Digital measurement and setting out (laser scanner)
+- Sustainable materials and green building standards
+- Project management and communication skills
+
+**Key growth areas:**
 
 - Sustainable construction
 - Timber framing
@@ -62,68 +98,67 @@ Carpenters and joiners construct, install, and repair wooden structures and furn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于与雇主签约的高技能移民，需满足最低薪资门槛（2024年约€3,909/月） |
-| Subclass EU Blue Card（EU Blue Card） | 针对高等教育学历和高薪工作，要求年薪至少€5,800/月（2024年） |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业留学生可申请，可自由工作1年，后转其他居留 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled immigrants under an employer contract, must meet the minimum salary threshold (approx. €3,909/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | For higher education qualifications and high-paying jobs, requires an annual salary of at least €5,800/month (2024) |
+| Subclass Orientation Year (Orientation Year) | Available to Dutch graduate international students, allows 1 year of free work, then can switch to other residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Carpenter and Joiner？**
-- 喜欢手工操作和户外工作的人
-- 注重细节、有耐心的人
-- 愿意从事建筑行业并接受学徒培训的人
-
-**谁不适合学Carpenter and Joiner？**
-- 不偏好体力劳动和重复性工作的人
-- 对木屑或工地环境敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and outdoor activities
+- Detail-oriented, patient people
+- Those willing to work in construction and undertake apprenticeship training
+
+**Who is not suited**
+- People who are not inclined toward manual labor and repetitive tasks
+- People Sensitive to Wood Dust or Construction Environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a Dutch carpenter?**
+A: Entry-level: approx. €25,000–€32,000; mid-level: approx. €32,000–€42,000; senior: up to €55,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as carpenters?**
+A: Can be done through skilled migration (employer-sponsored) or EU Blue Card, or first study an MBO course and then apply for the Orientation Year.
+
+**Q: Is carpentry a shortage occupation in the Netherlands?**
+A: Yes, there is a labour shortage in the construction industry, with high demand for carpenters, especially in housing and renovation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等偏低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Carpenter and Joiner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a carpenter in the Netherlands?**
-答：Entry-level: €25,000-€32,000, mid-level: €32,000-€42,000, senior: up to €55,000.
-
-**问：How can non-EU citizens immigrate to the Netherlands as a carpenter?**
-答：Via the Highly Skilled Migrant scheme (employer sponsorship) or EU Blue Card, or by studying an MBO program and using the Orientation Year.
-
-**问：Is carpenter a shortage occupation in the Netherlands?**
-答：Yes, there is a high demand for carpenters due to housing shortage and renovation needs.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

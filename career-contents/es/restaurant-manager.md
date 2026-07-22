@@ -1,60 +1,96 @@
-# Restaurant Manager（Restaurant Manager）职业分析 · ES
+# Restaurant Manager — career analysis · Spain
 
-**职业代码：1421 – Restaurant Manager。**
+**Occupation code: 1421 (CNO)**
 
-Restaurant managers oversee daily operations including staff management, customer service, inventory control, and financial performance, ensuring profitability and high service standards.
+The restaurant manager oversees the restaurant's daily operations, including staff management, customer service, inventory control, and financial performance, ensuring profitability and maintaining high standards of service.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立FP学费低，私立约€2000/年） |
-| 大学本科（Grado） | 4年 | $800~$3,000（公立大学约€800-1500/年，私立约€2000-3000/年） |
-| 硕士（Máster） | 1年 | $1,000~$5,000（酒店管理或MBA相关硕士） |
+| Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Public FP tuition is low, with private schools about €2,000 per year) |
+| Undergraduate (Grado) | 4 years | $800~$3,000 (Public universities: approx €800-1,500/year, private: approx €2,000-3,000/year) |
+| Máster | 1 year | $1,000~$5,000 (A master's degree in hotel management or an MBA or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 餐饮管理学位或FP | 大学或FP中心 | 可选 | 通常要求酒店管理或相关学位 |
-| 食品安全认证 | 各自治区卫生部门 | 必备 | 需完成食品安全课程 |
-| 酒类服务许可 | 地方政府 | 可选 | 部分自治区要求 |
+| Food safety certification | Health departments of all autonomous regions | Required | Completion of a food safety course is required |
+| Degree in Restaurant Management or FP | Universities or FP centers | Optional | A degree in hotel management or related fields is usually required |
+| Alcohol service license | Local government | Optional | Some autonomous regions require this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。西班牙旅游业复苏带动餐饮业持续增长，预计2024-2029年餐厅经理岗位年均增长1.5%，马德里、巴塞罗那等旅游城市需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The recovery of Spain's tourism industry is driving sustained growth in the restaurant sector. It is expected that restaurant manager positions will grow at an average annual rate of 1.5% from 2024 to 2029, with strong demand in tourist cities like Madrid and Barcelona.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，小型餐厅或连锁店 |
-| 中级（3-7年） | $28,000~$36,000 | 中档餐厅或区域管理 |
-| 高级（7年以上） | $36,000~$50,000 | 高档餐厅、五星级酒店或集团管理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, small restaurants or chain stores |
+| Mid-level (3–7 years) | $28,000~$36,000 | Mid-range restaurants or regional management |
+| Senior (7+ years) | $36,000~$50,000 | High-end restaurants, five-star hotels, or group management |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 常见晋升路径：餐厅经理→区域经理→运营总监；或自主创业开设餐厅。通过进修MBA或酒店管理硕士可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Common promotion paths: Restaurant Manager→ Regional Manager→ Operations Director; or start their own restaurants. Further studies for an MBA or Master's in Hotel Management can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Tourism-driven demand
 - Casual dining expansion
@@ -63,68 +99,67 @@ Restaurant managers oversee daily operations including staff management, custome
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Employed Work Visa） | 受雇于西班牙公司的工作居留，需有雇主担保和劳动合同 |
-| Subclass Altamente cualificad（High-Skilled Professional Visa (Ley 14/2013)） | 适用于高薪（年薪≥€45,000）或特殊专业人才，快速通道 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，要求年薪≥西班牙平均工资1.5倍（约€45,000），需学历或工作经验 |
+| Subclass Cuenta ajena (Employed Work Visa) | Work residence for a Spanish company requires employer sponsorship and a labor contract |
+| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for high-paying (annual salary ≥€45,000) or special professionals, with fast track entry |
+| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card requires annual salary ≥ 1.5x Spanish average wage (approx. €45,000), with degree or work experience |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Restaurant Manager？**
-- 擅长多任务处理和服务导向的人
-- 有领导力及团队管理能力者
-- 对餐饮业充满热情并适应快节奏工作的人
-
-**谁不适合学Restaurant Manager？**
-- 不喜与顾客互动或处理投诉的人
-- 无法承受长时间站立和高强度压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in multitasking and service-oriented approaches
+- Leadership and team management skills
+- People passionate about the food and beverage industry and able to adapt to the fast-paced work
+
+**Who is not suited**
+- People who dislike interacting with customers or handling complaints
+- People who cannot withstand prolonged standing and high-intensity stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for restaurant managers?**
+A: Pre-tax annual salary for entry-level is about €22,000-28,000, intermediate €28,000-36,000, and senior salary €36,000-50,000. Peak seasons for high-end dining or tourism may be even higher.
+
+**Q: How can foreigners immigrate to Spain through a restaurant manager position?**
+A: Work-based residence permit (Cuenta ajena) is available, requiring employer sponsorship; If the annual salary ≥ €45,000, you can apply for the High-Skilled Talent visa (Ley 14/2013) or the EU Blue Card.
+
+**Q: What educational qualifications or experience are required to become a restaurant manager?**
+A: Promotion usually requires a degree in hotel management or related (university or FP), or years of experience in food and beverage. Food safety certification is a statutory requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Restaurant Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for restaurant managers?**
-答：Gross annual salary ranges from €22,000-28,000 for entry-level, €28,000-36,000 for mid-level, and €36,000-50,000 for senior positions, with higher potential in fine dining or tourism hotspots.
-
-**问：How can foreigners immigrate to Spain as restaurant managers?**
-答：Apply for a work visa (Cuenta ajena) with employer sponsorship; if salary ≥€45,000, eligible for High-Skilled Visa or EU Blue Card.
-
-**问：What qualifications or experience are needed to become a restaurant manager?**
-答：Typically a degree in hospitality management or FP, or promotion from within with experience. Food safety certification is mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

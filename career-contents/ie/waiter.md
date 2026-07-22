@@ -1,61 +1,96 @@
-# Waiter（Waiter）职业分析 · IE
+# Waiter — career analysis · Ireland
 
-**职业代码：5131 – Waiter。**
+**Occupation code: 5131 (ISCO08)**
 
-Waiters take orders, serve food and beverages, and ensure a pleasant dining experience in restaurants, bars, and other hospitality venues.
+Waitstaff are responsible for taking orders, serving food and drinks to customers in restaurants, bars and other dining venues, ensuring a pleasant dining experience.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式学历 | 无 | —（通常在职培训） |
-| 职业证书 | 3-6个月 | $500~$1,500（如QQI餐饮服务证书） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
+| Professional certificate | 3-6 months | $500~$1,500 (e.g. QQI Certificate in Food Service) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全培训 | HSE/FSAI | 必备 | 法律要求，所有餐饮从业人员需完成。 |
-| 酒类服务许可证 | Gardai/法院 | 必备 | 提供酒精饮品时需持有。 |
-| QI餐饮服务证书 | QQI | 可选 | 自愿性证书，增加就业机会。 |
+| Food safety training | HSE/FSAI | Required | Legal requirement that all food service workers must complete. |
+| Liquor Service License | Gardai/Court | Required | Required when serving alcoholic beverages. |
+| QI Certificate in Hospitality Services | QQI | Optional | Voluntary certification that increases employment opportunities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 38,000。爱尔兰餐饮业持续增长，旅游业繁荣带动服务员需求，但岗位流动性大，部分依赖非欧盟劳工。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 38,000. Ireland's hospitality industry continues to grow, with tourism driving demand for waitstaff, but high turnover and partial reliance on non-EU labor.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$25,000 | 含小费，通常时薪约€10-12。 |
-| 中级（2-5年） | $25,000~$30,000 | 经验丰富，可能获加薪及小费。 |
-| 高级（5年以上） | $30,000~$38,000 | 领班或主管级别。 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$25,000 | Including tips, typically hourly wage around €10-12. |
+| Intermediate (2-5 years) | $25,000~$30,000 | Experienced may receive salary increases and tips. |
+| Senior (5+ years) | $30,000~$38,000 | Foreman or supervisor level. |
+| average salary | $28,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级服务员可晋升为领班、主管或餐厅经理，也可转向高级餐饮或酒店管理领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI's impact on waitstaff is mixed: repetitive tasks like taking orders and billing will be automated, but AI can also enhance personalized service and efficiency; human emotional interaction and flexibility remain core strengths.
+
+Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, and can also move into fine dining or hotel management.
+
+**Tasks most exposed to AI:**
+
+- Place orders via self-service ordering systems or mobile apps
+- Process payments using mobile payment or self-checkout machines
+- Handle common customer inquiries via AI chatbot
+- Using electronic menus and recommendation algorithms to provide dish information
+
+**Where AI augments the role:**
+
+- AI analyzes customer preferences and allergy information to recommend personalized dishes
+- AI optimizes work schedules and serving times to improve service efficiency.
+- AI-assisted inventory management, automatically predicting ingredient demand and restocking
+- AI provides multilingual translation to assist in servicing international customers.
+- AI records customer history for personalized reception and follow-up
+
+**Human moat:**
+
+- Flexible problem-solving and creative adaptability in complex scenarios
+- Emotional connection and empathy in real human interactions
+- On-the-spot judgment in handling emergencies (e.g., complaints, allergic reactions)
+- The artistry of creating atmosphere and personalized service
+- Close trust-based relationships with customers and word-of-mouth recommendations
+
+**Skills to build:**
+
+- Learning to use AI ordering and POS systems
+- Mastery of basic customer data analysis tools
+- Improve cross-cultural communication and service skills
+- Learn emotional management and conflict resolution skills
+- Knowledge of catering hygiene regulations and food safety standards
+- Learning basic multilingual service phrases
+
+**Key growth areas:**
 
 - Tourism
 - Hospitality
@@ -64,66 +99,65 @@ Waiters take orders, serve food and beverages, and ensure a pleasant dining expe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用于服务员岗位，除非是高级管理职位。 |
-| Subclass General Employment P（General Employment Permit） | 可申请，但需通过劳动力市场测试，年薪需达€27,000以上。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用于此职业，因通常不满足高技能要求。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Usually not applicable to waiter positions, except for senior management roles. |
+| Subclass General Employment P (General Employment Permit) | Can apply, but must pass a labour market test, with an annual salary of at least €27,000. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable to this occupation as it generally does not meet high-skilled requirements. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Waiter？**
-- 善于沟通、服务意识强的人
-- 能承受快节奏和长时间站立工作的人
-- 希望在餐饮行业入门的人
-
-**谁不适合学Waiter？**
-- 不善于与人打交道的人
-- 无法适应轮班和加班的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication and strong service orientation
+- People who can handle fast paces and long hours of standing
+- People looking to start a career in the food and beverage industry
+
+**Who is not suited**
+- People who are not good with others
+- People unable to adapt to shift work and overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a waiter?**
+A: Entry-level approximately €20,000-€25,000, intermediate €25,000-€30,000, advanced up to €38,000 (all including tips).
+
+**Q: How can non-EU citizens immigrate to Ireland as waitstaff?**
+A: A General Employment Permit is required, with an annual salary of at least €27,000 and a labor market test; however, this position is usually highly competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Waiter为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for waiters?**
-答：Entry-level around €20,000-€25,000, mid-level €25,000-€30,000, senior up to €38,000 (including tips).
-
-**问：How can non-EU citizens immigrate as waiters to Ireland?**
-答：Apply for a General Employment Permit with a salary of at least €27,000 and pass a labor market test; however, positions are competitive.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

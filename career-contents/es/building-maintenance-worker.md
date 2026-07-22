@@ -1,60 +1,96 @@
-# Building Maintenance Worker（Building Maintenance Worker）职业分析 · ES
+# Building Maintenance Worker — career analysis · Spain
 
-**职业代码：7191 – Building Maintenance Worker。**
+**Occupation code: 7191 (CNO)**
 
-Performs routine maintenance, minor repairs, and cleaning of buildings, including plumbing, painting, and carpentry, to ensure safe and functional facilities.
+Responsible for daily maintenance, minor repairs, and cleaning of buildings, including plumbing and electrical work, painting, and carpentry, ensuring the safe operation of the facility.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初级职业培训（FP Básica） | 2年 | —（公立学校免费，仅教材和杂费） |
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立免费，私立约1000-1500欧/年） |
+| Primary Vocational Training (FP Básica) | 2 years | $0~$1,000 (Public schools are free, with only textbooks and miscellaneous fees) |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, private ones about 1000-1500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑维护中级培训证书 | 西班牙教育部认可的职业教育中心 | 可选 | FP Grado Medio en Mantenimiento de Edificios |
-| 高空作业安全认证 | 西班牙劳工部认可的培训机构 | 可选 | 如需要从事高空维护工作 |
+| Intermediate Training Certificate in Building Maintenance | A vocational education center recognized by the Spanish Ministry of Education | Optional | FP Grado Medio en Mantenimiento de Edificios |
+| Certification for working at heights | Training institutions recognized by the Spanish Ministry of Labor | Optional | If you need to perform high-altitude maintenance work, |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙建筑维护需求稳定，受房地产存量和节能改造政策推动。老龄化建筑增多，岗位持续存在，但竞争适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's demand for building maintenance is stable, driven by real estate stock and energy-saving renovation policies. Aging buildings are increasing, jobs persist, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（4-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含主管职位 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级维护工起步，可升为维护主管或设施经理。考取电工或水管工执照后可转向更专业领域，收入提升明显。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of building maintenance workers involves both manual operations and simple decision-making, which AI cannot fully replace, but intelligent diagnostic and scheduling tools will compress low-end positions while enhancing complex repair capabilities.
+
+Starting as a junior maintenance worker, you can be promoted to maintenance supervisor or facility manager. After obtaining electrician or plumber licenses, you can move into more specialized fields, with significant income increases.
+
+**Tasks most exposed to AI:**
+
+- Automated inspection robots replace routine building inspections
+- AI dispatch system automatically assigns maintenance work orders
+- Smart sensors autonomously monitor water and electricity faults and issue warnings
+- Standardized cleaning tasks are performed by automated cleaning robots
+- Inventory management is handled by AI to automatically place orders for replenishment
+
+**Where AI augments the role:**
+
+- Remotely guide complex repairs using AR glasses
+- AI diagnostic tools quickly pinpoint the cause of the fault
+- Digital twin simulated building systems optimize maintenance plans
+- The voice assistant records repair logs and reports
+- Predictive maintenance recommends reducing equipment downtime
+
+**Human moat:**
+
+- Hands-on maintenance capabilities in unstructured environments
+- Customer communication and on-site emergency assessment
+- Multi-trade comprehensive skills (electrical, electrical, carpentry, etc.)
+- Safety compliance operations and acceptance responsibilities
+- Special treatment for old buildings
+
+**Skills to build:**
+
+- Operation of intelligent building management systems
+- Basic fault diagnosis and data analysis
+- AR/VR-assisted repair tools are used
+- Updates and training of safety procedures
+- Customer service and communication skills
+- Knowledge of energy saving and sustainable construction
+
+**Key growth areas:**
 
 - Building maintenance
 - Energy efficiency retrofitting
@@ -63,62 +99,64 @@ Performs routine maintenance, minor repairs, and cleaning of buildings, includin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙雇主工作合同，劳工部审核通过后可申请工作居留。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6个月寻找工作，需证明经济能力。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | You must obtain a work contract from a Spanish employer, and after approval by the Ministry of Labor, you can apply for work residence. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove your financial capability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Maintenance Worker？**
-- 喜欢动手、实际工作的人
-- 不介意体力劳动和户外工作
-- 希望快速进入劳动力市场、无需长期学习
+**Who is suited**
+- People who enjoy hands-on work and hands-on work
+- He doesn't mind physical labor and outdoor work
+- Those who want to enter the labor market quickly without long-term study
 
-**谁不适合学Building Maintenance Worker？**
-- 追求高薪和高社会地位的人
-- 偏好办公桌工作或脑力劳动
+**Who is not suited**
+- People seeking high salary and high social status
+- Preference for desk work or mental labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for building maintenance workers in Spain?**
+A: Entry-level approx €18,000-22,000/year, mid-level €22,000-28,000, senior up to €35,000.
+
+**Q: Can Chinese citizens immigrate to Spain through building maintenance workers?**
+A: It's tough. This occupation is not considered in short supply and does not require higher education. Employer-sponsored work residency approval is strict, and immigration pathways are narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Building Maintenance Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for building maintenance workers in Spain?**
-答：Entry-level: €18,000-22,000/year; mid-level: €22,000-28,000; senior: up to €35,000.
-
-**问：Can Chinese citizens immigrate to Spain as building maintenance workers?**
-答：Very difficult. This occupation is not in shortage and requires no higher education; employer-sponsored work permits are hard to obtain.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

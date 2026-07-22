@@ -1,61 +1,93 @@
-# Administrative Law Judges, Adjudicators, and Hearing Officers（Administrative Law Judges, Adjudicators, and Hearing Officers）职业分析 · 美国
+# Administrative Law Judges, Adjudicators, and Hearing Officers — career analysis · United States
 
-**职业代码：23-1021 – Administrative Law Judges, Adjudicators, and Hearing Officers。**
+**Occupation code: 23-1021 (SOC)**
 
-Conduct hearings to recommend or decide on claims related to government programs or government matters, determining liability, sanctions, or penalties.
+Preside over hearings, make recommendations or decisions on claims regarding government programs or other government-related matters, including liability determination, sanctions, or penalty decisions.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 法学博士（JD） | 3年 | $100,000~$200,000（学费差异大，公立大学较低） |
-| 学士学位 | 4年 | $40,000~$150,000（本科法律预科或相关专业） |
+| Juris Doctor (JD) | 3 years | $100,000~$200,000 (Tuition varies widely; public universities are cheaper) |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Bachelor's degree in pre-law or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 律师执业资格 | 州律师协会 | 必备 | 必须通过州律师资格考试并在某州执业 |
-| 行政法法官认证 | 州或联邦政府 | 可选 | 部分机构要求额外培训或认证 |
-| 法学博士学位 | 美国律师协会认证法学院 | 必备 | 通常需要 |
+| Legal practice certification | State bar association | Required | Must pass the state bar exam and practice in a certain state |
+| Juris Doctor degree | American Bar Association (ABA)-accredited law school | Required | Typically required |
+| Administrative Law Judge Certification | State or federal government | Optional | Some institutions require additional training or certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,400。美国劳工统计局预计2022-2032年该职业就业增长约3%，与所有职业平均水平相近。政府预算压力和退休人员更替将驱动需求，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,400. The US Bureau of Labor Statistics projects about 3% employment growth for this occupation from 2022-2032, similar to the average for all occupations. Government budget pressures and retirement turnover will drive demand, but competition is intense.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$90,000 | 多为法律顾问或助理职位 |
-| 中级（3-10年） | $90,000~$130,000 | 听证官或初级行政法法官 |
-| 高级（10年以上） | $130,000~$180,000 | 资深行政法法官或首席法官 |
+| Median salary | $117,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$90,000 | Mostly legal counsel or assistant positions |
+| Intermediate (3-10 years) | $90,000~$130,000 | Hearing officer or junior administrative law judge |
+| Senior (10+ years) | $130,000~$180,000 | Senior Administrative Law Judge or Chief Judge |
+| average salary | $125,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从律师或法律顾问起步，积累经验后晋升为行政法法官或听证官。部分职位可通过联邦或州政府内部晋升，高级职位需多年司法或行政经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on administrative law judges is mixed: routine paperwork and evidence organization can be automated, but legal reasoning, discretion, and public hearings in rulings still require human input; jobs will not disappear, but entry barriers may rise.
+
+Usually start as a lawyer or legal advisor, gain experience to become an administrative law judge or hearing officer. Some positions can be promoted through federal or state government; senior roles require years of judicial or administrative experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically organize and annotate documents, evidence, and legal clauses in hearings
+- Use AI to generate initial fact-finding reports or draft ruling recommendations
+- Automatically generate hearing transcripts and summaries via speech recognition and natural language processing
+- Fast retrieval of similar cases from historical case database for sentencing reference via similarity matching
+
+**Where AI augments the role:**
+
+- AI-assisted cross-referencing and conflict analysis of complex regulations, enhancing legal argument quality.
+- Use predictive models to assess social impact and appeal probability of different ruling options to aid decision-making
+- Enhances communication efficiency for non-English speaking hearing participants through real-time translation and multilingual support
+- Automates scheduling of hearings, notifying parties, and managing case workflows to reduce administrative burden
+
+**Human moat:**
+
+- Assess witness credibility and emotional state during hearings, making human judgment calls
+- Weigh values and exercise discretion on new policies or gray-area cases.
+- Chair public hearings, uphold procedural justice and dignity of parties involved
+- Ethical review and ultimate responsibility for AI-generated adjudication recommendations
+
+**Skills to build:**
+
+- Proficiency in legal tech tools (e.g., CaseText, Ravel Law) for intelligent case retrieval
+- Learn to use R or Python for statistical analysis of adjudication results
+- Familiarity with AI evidence management platforms such as Everlaw and Relativity
+- Enhancing critical thinking and argumentation skills for complex legal logic
+- Attend a training course on human-machine collaborative decision-making in administrative law
+
+**Key growth areas:**
 
 - Government program oversight
 - Claims adjudication
@@ -64,66 +96,68 @@ Conduct hearings to recommend or decide on claims related to government programs
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需雇主担保，但政府职位通常不提供H-1B |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于极少数杰出法律人才 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Employment-Based） | PERM劳工认证困难，因为该职业通常要求美国法律背景 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires employer sponsorship, but government positions usually do not provide H-1B. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For very few outstanding legal talents |
+| Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based) | PERM labor certification is difficult because this occupation typically requires a U.S. legal background |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Administrative Law Judges, Adjudicators, and Hearing Officers？**
-- 具有法律背景且对公共政策感兴趣的人士
-- 擅长逻辑分析和口头辩论者
-- 希望在稳定政府环境中工作的律师
+**Who is suited**
+- Individuals with a legal background and an interest in public policy
+- Those skilled in logical analysis and oral debate
+- Lawyers who want to work in a stable government environment
 
-**谁不适合学Administrative Law Judges, Adjudicators, and Hearing Officers？**
-- 不熟悉美国法律体系的外国法律毕业生
-- 追求高薪私营领域职业者
+**Who is not suited**
+- Foreign law graduates unfamiliar with the US legal system
+- Career seekers in high-paying private sector
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an administrative law judge?**
+A: Depending on experience, entry-level approximately USD 60,000-90,000, mid-level USD 90,000-130,000, senior USD 130,000-180,000. Federal judges earn more, but state-level positions vary greatly.
+
+**Q: Can foreigners become US Administrative Law Judges via work visa?**
+A: Very difficult. This position typically requires US bar admission and deep knowledge of US law; employers are mostly government agencies and generally do not sponsor work visas.
+
+**Q: What educational background is needed to become an administrative law judge?**
+A: Typically requires a Juris Doctor (JD) degree and passing the state bar exam. Some positions may accept a Master of Laws, but JD is the standard.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Administrative Law Judges, Adjudicators, and Hearing Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for administrative law judges?**
-答：Entry-level $60k-$90k, mid-level $90k-$130k, senior $130k-$180k. Federal judges earn more, but state positions vary.
-
-**问：Can foreigners become U.S. administrative law judges via work visa?**
-答：Very difficult. Requires U.S. bar membership and legal knowledge; government employers rarely sponsor work visas.
-
-**问：What education is needed to become an administrative law judge?**
-答：Typically a Juris Doctor (JD) degree and passing the state bar exam. Some roles may accept LLM, but JD is standard.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

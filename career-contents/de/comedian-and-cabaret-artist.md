@@ -1,60 +1,96 @@
-# Comedian and Cabaret Artist（Comedian and Cabaret Artist）职业分析 · DE
+# Comedian and Cabaret Artist — career analysis · Germany
 
-**职业代码：9431 – Comedian and Cabaret Artist。**
+**Occupation code: 9431 (KldB)**
 
-Comedians and cabaret artists entertain audiences through humorous performances, including stand-up comedy, satirical skits, and musical acts. They typically perform in theaters, clubs, TV shows, or festivals, and some also work as writers or directors.
+Comedians and cabaret artists entertain audiences through humorous performances, including stand-up comedy, satire, and musical sketches. They typically perform in theaters, clubs, TV shows, or festivals, and some work as writers or directors.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业培训 | 2-3年（私立学校或工作室） | $5,000~$15,000（私立表演艺术学校或工作室课程，费用差异大） |
-| 双元制培训 | 3年（双元制） | —（极少数相关双元制培训，通常免学费） |
+| Professional training | 2-3 years (private schools or studios) | $5,000~$15,000 (Courses at private performing arts schools or studios, with significant fee variation) |
+| Dual system training | 3 years (dual system) | $0~$0 (Very few related dual vocational training programs, usually tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演艺术学位 | 德国大学或艺术学院 | 可选 | 非强制，但有助于提升技能和就业机会 |
-| 职业资格认证（如演艺工会） | 德国演艺工会（GDBA） | 可选 | 自愿认证，提供法律和职业支持 |
+| Performing arts degree | German university or art college | Optional | Not mandatory, but helps improve skills and job opportunities |
+| Professional certification (e.g., performers' union) | German Stage Association (GDBA) | Optional | Voluntary certification, providing legal and career support |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。德国娱乐产业稳步发展，现场表演需求因文化活动增多而上升。然而，喜剧行业竞争激烈，多数从业者为自由职业者，收入不稳定。数字化转型为线上喜剧提供了新机会，但总体从业岗位有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Germany's entertainment industry is steadily developing, with demand for live performances rising due to increased cultural events. However, the comedy industry is highly competitive, most practitioners are freelancers, and income is unstable. Digital transformation offers new opportunities for online comedy, but overall job positions are limited.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$30,000 | 自由职业者，收入不稳定，多依赖小型演出 |
-| 中级（4-10年） | $30,000~$60,000 | 稳定演出，涉及电视或中型剧院 |
-| 高级（10年以上） | $60,000~$120,000 | 知名艺术家，电视明星或大型巡演 |
+| Median salary | $50,832 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $15,000~$30,000 | Freelancers have unstable income, mostly relying on small gigs. |
+| Mid-level (4-10 years). | $30,000~$60,000 | Stable performances, involving television or mid-sized theaters |
+| Senior (10+ years) | $60,000~$120,000 | Renowned artist, TV celebrity, or major touring performer |
+| average salary | $55,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径通常从本地小型演出起步，逐步进入中型剧院或电视节目。资深喜剧演员可发展为导演、编剧或艺术总监，少数人成为媒体明星。部分从业者转向教学或企业娱乐培训。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core creativity of comedians and cabaret artists is hard to replace by AI, but AI assistance in copywriting, sound production, audience analysis, etc., will significantly enhance creative efficiency; meanwhile, AI may replace some standardized or data-driven comedy content, forcing practitioners to shift towards higher-level originality and live interaction.
+
+Career progression typically starts with small local performances, gradually moving to medium-sized theaters or TV programs. Senior comedians can become directors, writers, or artistic directors; a few become media stars. Some practitioners shift to teaching or corporate entertainment training.
+
+**Tasks most exposed to AI:**
+
+- Use generative AI to write standardised jokes, skits or improvised script drafts
+- Automatically generate royalty-free background music or sound effects to replace some composition work
+- Automatically adjust performance rhythm and interaction scripts based on audience data
+- Low-cost trial runs or preview effect evaluations using AI digital humans
+- Automated editing and publishing of short comedic video clips in post-production
+
+**Where AI augments the role:**
+
+- Using AI to analyze performance videos, accurately identify high-frequency audience laughter moments, optimize rhythm and punchline placement
+- Using AI to generate multilingual scripts or subtitles, expanding cross-border performances and online audiences
+- Use AI tools to quickly create satirical political animations or visual aids to enhance cabaret effects
+- Enhances live interactions through AI real-time emotion recognition, improving the relevance of improvisational comedy
+- AI-assisted creation of structured script frameworks and character relationship maps to improve creative efficiency
+
+**Human moat:**
+
+- Unpredictability of live improvisation and audience energy interaction
+- Original humor perspective based on personal unique experiences and cultural background
+- Complex teasing of sensitive social issues and ethical boundary judgment
+- The appeal of physical comedy and face-to-face performance.
+- Building deep emotional connections between long-term comedy characters and fans
+
+**Skills to build:**
+
+- Proficient in using AI comedy text generation tools (e.g., ChatGPT, JokeBuilder)
+- Basic video editing and AI post-production tools (e.g., Premiere Pro + auto-editing plugins)
+- Data analysis skills (audience feedback, performance data visualization)
+- Multilingual AI-assisted creation and localization adaptation
+- Understanding of digital marketing and social media algorithms (to boost online exposure)
+- Human-AI collaboration improvisation skills (live interactive performance with AI)
+
+**Key growth areas:**
 
 - Digital comedy
 - Live entertainment
@@ -63,62 +99,64 @@ Comedians and cabaret artists entertain audiences through humorous performances,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Freelancer Visa（Freiberufler Visum） | 适用于自由职业者，需证明作品与收入来源，获批后可在德自雇 |
-| Subclass Artist Visa（Künstler Visum） | 专为艺术家设计，需提供演出合同或作品集，有效期与项目绑定 |
+| Subclass Freelancer Visa (Freiberufler Visum) | Applicable to freelancers, need to prove work and income sources, can self-employ in Germany after approval |
+| Subclass Artist Visa (Künstler Visum) | Designed for artists; requires performance contracts or portfolios, validity tied to the project. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Comedian and Cabaret Artist？**
-- 具有极强幽默感和即兴能力的表演者
-- 能承受自由职业不稳定收入且善于自我推销的人
-- 对德国文化和语言有深刻理解的外籍人士
+**Who is suited**
+- Performers with a strong sense of humor and improvisation skills
+- Those who can handle the unstable income of freelancing and are good at self-promotion
+- Foreigners with a deep understanding of German culture and language
 
-**谁不适合学Comedian and Cabaret Artist？**
-- 追求稳定收入和固定工作时间的人
-- 对德语幽默和文化不熟悉的外籍人士
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- Foreigners unfamiliar with German humor and culture
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of comedians in Germany?**
+A: Entry-level comedians earn about EUR 15,000-30,000/year, mid-level about 30,000-60,000, famous actors can exceed 120,000, but most freelancers have fluctuating incomes.
+
+**Q: How can foreign comedians work in Germany?**
+A: Typically need to apply for a freelancer visa or artist visa, providing performance contracts, portfolios, and proof of income. German fluency is essential, and joining an actors' union for support is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Comedian and Cabaret Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for comedians in Germany?**
-答：Entry-level comedians earn around €15,000-30,000 annually, mid-level €30,000-60,000, and well-known artists can exceed €120,000, but most freelancers have fluctuating incomes.
-
-**问：How can foreign comedians work in Germany?**
-答：They usually apply for a Freelancer Visa or Artist Visa, providing performance contracts, portfolios, and proof of income. Fluent German is essential, and joining an artists' union is recommended.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

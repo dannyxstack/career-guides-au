@@ -1,60 +1,93 @@
-# Paper and Pulp Mill Operator（Paper and Pulp Mill Operator）职业分析 · 澳大利亚
+# Paper and Pulp Mill Operator — career analysis · Australia
 
-**职业代码：712916 – Paper and Pulp Mill Operator。**
+**Occupation code: 712916 (ANZSCO)**
 
-Paper and Pulp Mill Operators monitor and operate papermaking machinery to ensure efficient production of pulp and paper products.
+Pulp and paper mill operators monitor and operate papermaking equipment to ensure efficient pulp and paper production.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无固定时长 | —（通常要求完成12年级） |
-| 职业证书（二级/三级） | 6-12个月 | $3,000~$8,000（可在TAFE完成，如Pulp and Paper Manufacturing Operations） |
+| High school graduation | No fixed duration | $0~$0 (Usually requires completion of Grade 12) |
+| Vocational certificates (Level 2/Level 3) | 6–12 months | $3,000~$8,000 (Can be completed at TAFE, such as Pulp and Paper Manufacturing Operations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 岗位安全培训 | 雇主或培训机构 | 必备 | 如工作健康与安全培训 |
-| 叉车执照（如需要） | 各州工作安全局 | 可选 | 操作叉车需持证 |
+| Workplace Safety Training | Employer or training provider | Required | Such as work health and safety training. |
+| Forklift license (if required) | State work safety authorities | Optional | Operating a forklift requires a license. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 4,200。澳洲造纸业面临数字化转型与环保压力，就业需求整体稳定，但自动化可能影响低端岗位。预计未来5年就业人数小幅下降。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 4,200. Australia's paper industry faces digital transformation and environmental pressure, with overall stable employment demand, but automation may affect low-end positions. A slight decrease in employment numbers is expected over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 基础操作岗 |
-| 中级（3-7年） | $65,000~$80,000 | 熟练操作员 |
-| 高级（7年以上） | $80,000~$95,000 | 高级操作员或班组长 |
+| Median salary | $104,988 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Basic operational positions |
+| Mid-level (3–7 years) | $65,000~$80,000 | Skilled operator |
+| Senior (7+ years) | $80,000~$95,000 | Senior operator or shift supervisor |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从操作员晋升为高级操作员、班组长或生产主管，部分可转岗至质量控制或维修部门。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Pulp and paper mill operators face a high risk of automation replacement, especially in monitoring and repetitive operation tasks, but on-site troubleshooting and equipment maintenance still rely on human judgment.
+
+Can advance from operator to senior operator, team leader, or production supervisor; some can transfer to quality control or maintenance departments.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor pulp concentration, temperature, pressure and other parameters through sensors and AI systems, replacing manual inspections
+- Automatic control systems adjust valves, pump speeds, etc., based on preset algorithms, replacing manual operations.
+- Using machine vision to detect paper defects, replacing manual quality inspection.
+- Automated production data recording and report generation, replacing manual entry.
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems assist in equipment fault warning, improving maintenance efficiency
+- Digital twin simulations optimize production processes and assist operator decision-making
+- Smart scheduling system optimizes raw material feeding pace, reducing waste
+- Remote collaboration platforms support expert guidance for complex fault handling remotely
+
+**Human moat:**
+
+- Ability to diagnose and repair sudden mechanical failures (e.g., paper break, blockage) in equipment
+- Experience in adjusting processes for non-standard raw materials (e.g., fluctuations in recycled fiber quality)
+- Multidepartmental coordination and communication with teams such as maintenance, quality inspection, and scheduling.
+- On-site response and safety handling in noisy, high-temperature, and humid environments
+
+**Skills to build:**
+
+- Fundamentals of Industrial Automation and PLC Programming
+- Data analysis and production report interpretation skills
+- Use of predictive maintenance tools (e.g., vibration analysis, thermal imaging)
+- Safety procedures and emergency response skills.
+- Basic mechanical repair and fault diagnosis
+- Digital twin or simulation software operation
+
+**Key growth areas:**
 
 - Automation
 - Recycling
@@ -63,64 +96,66 @@ Paper and Pulp Mill Operators monitor and operate papermaking machinery to ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage) visa） | 若雇主担保且职业在CSOL上，可申请。但该职业通常不在技术职业清单上。 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage) visa) | If employer-sponsored and the occupation is on the CSOL, you can apply. However, this occupation is usually not on the skilled occupation list. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paper and Pulp Mill Operator？**
-- 动手能力强、愿意从事体力劳动的人
-- 适应倒班和工厂环境的人
-- 对造纸行业有兴趣，愿意从基层做起
+**Who is suited**
+- People with strong hands-on skills and willingness for physical labour
+- Suitable for shift work and factory environments.
+- Interest in the paper industry, willing to start from the ground up.
 
-**谁不适合学Paper and Pulp Mill Operator？**
-- 寻求高薪和高职业发展空间的人
-- 不喜欢重复性体力劳动且希望移民澳洲的人
+**Who is not suited**
+- Seeking high salary and career advancement opportunities
+- People who dislike repetitive physical labor and wish to migrate to Australia
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pulp and paper mill operators?**
+A: Entry-level annual salary about AUD 50,000-65,000, mid-level 65,000-80,000, senior up to 80,000-95,000.
+
+**Q: Can pulp and paper mill operators migrate to Australia through skilled migration?**
+A: This occupation is usually not on the skilled migration occupation list, so migration opportunities are very limited.
+
+**Q: What is the work environment like?**
+A: Usually in indoor factories, noisy, requires shift work, physically demanding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Paper and Pulp Mill Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Paper and Pulp Mill Operator?**
-答：Entry-level salary ranges from AUD 50,000 to 65,000, mid-level AUD 65,000 to 80,000, and senior up to AUD 80,000 to 95,000.
-
-**问：Can a Paper and Pulp Mill Operator migrate to Australia via skilled visa?**
-答：This occupation is generally not on the skilled occupation list, so migration opportunities are very limited.
-
-**问：What is the work environment like?**
-答：Indoor factory setting, noisy, shift work required, physically demanding.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

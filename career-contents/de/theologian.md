@@ -1,60 +1,94 @@
-# Theologian（Theologian）职业分析 · DE
+# Theologian — career analysis · Germany
 
-**职业代码：8331 – Theologian。**
+**Occupation code: 8331 (KldB)**
 
-Theologians research religious doctrines, teach, and provide pastoral care, working in churches, universities, or charities.
+Theologians research religious teachings, teach, and engage in pastoral work, can work in churches, universities, or charities.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（神学） | 3-4年 | —（公立大学几乎免费，仅学期费） |
-| 神学硕士（MTheol） | 2年 | —（公立大学硕士基本免学费） |
+| Bachelor's Degree (Theology) | 3-4 years | $0~$1,500 (Public universities are almost free, only semester fees.) |
+| Master of Theology (MTheol) | 2 years | $0~$1,500 (Public universities are mostly tuition-free for master's degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位（硕士或等同） | 大学 | 必备 | 受规管职业，需大学学历 |
-| 教会任命或认可 | 相关教会机构 | 必备 | 某些职位（如牧师）必须 |
+| Theology degree (master's or equivalent) | University | Required | Regulated occupation, requires a university degree |
+| Church appointment or recognition | Related religious organization | Required | Certain positions (e.g. pastor) must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 15,000。德国社会老龄化与世俗化并存，神学职位的需求主要来自教会学校和慈善机构，整体就业稳定但增长有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Germany's aging society coexists with secularization; demand for theological positions mainly comes from church schools and charitable institutions, with overall stable employment but limited growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 教会薪资等级 |
-| 中级（3-8年） | $45,000~$55,000 | 含教学或行政职责 |
-| 高级（8年以上） | $55,000~$70,000 | 如首席牧师或教授 |
+| Median salary | $67,416 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Church salary scale |
+| Mid-level (3–8 years) | $45,000~$55,000 | Including teaching or administrative duties |
+| Senior (8+ years) | $55,000~$70,000 | Such as a chief pastor or professor |
+| average salary | $65,376 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径：从助理牧师或研究助理起步，可晋升为首席牧师、神学教授或教会管理高层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
+
+Career path: Starting as an assistant pastor or research assistant, can advance to senior pastor, theology professor, or senior church management.
+
+**Tasks most exposed to AI:**
+
+- Generate routine sermon drafts and religious education materials
+- Manage donation records, event schedules, and email responses
+- Provide standardized online faith-based counseling or psychological support
+- Transcribe and translate religious texts and ritual content.
+
+**Where AI augments the role:**
+
+- Using AI to analyze community needs and tailor more relevant spiritual care programs
+- Using AI assistance to quickly write personalized eulogies, wedding vows, and teaching materials
+- Supports multilingual and cross-cultural pastoral care through AI translation and interfaith databases
+- Use AI tools to create multimedia preaching content (video, interactive Q&A)
+- Use AI to analyze church or temple operational data to optimize charitable resource allocation
+
+**Human moat:**
+
+- Provide genuine empathy and ritual that algorithms cannot replace during funerals and crisis intervention
+- Deep trust and spiritual guidance built through personal character and long-term relationships
+- Creative, non-formulaic interpretation of sacred texts in specific contexts
+- Lead offline collective rituals (worship, ceremonies, sacraments) with on-site spirituality and order
+
+**Skills to build:**
+
+- AI-assisted content generation tools (e.g., ChatGPT, image/video generation)
+- Community data analysis and CRM tool usage
+- Digital media production and online community management
+- Psychological counseling and crisis intervention skills.
+- Multilingual ability (proficient in at least one second language)
+- Cross-training on AI ethics and religious applications
+
+**Key growth areas:**
 
 - Stable
 - Niche
@@ -63,65 +97,64 @@ Theologians research religious doctrines, teach, and provide pastoral care, work
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于神学硕士及以上学历，年薪需达到门槛（2024年约43,800欧元） |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 适用于持有神学学位且获得教会雇佣合同者 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to Master of Theology or higher, annual salary must meet threshold (approx. €43,800 in 2024) |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to those holding a theology degree and obtaining a church employment contract |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Theologian？**
-- 对宗教和哲学有深厚兴趣的人
-- 希望从事非营利或教育事业的人
-- 善于沟通和辅导他人的人
-
-**谁不适合学Theologian？**
-- 追求高薪职业者
-- 不愿接受教会体制约束者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a deep interest in religion and philosophy
+- Those who wish to work in non-profit or education sectors
+- Good at communication and coaching others
+
+**Who is not suited**
+- Those seeking high-paying careers
+- Those unwilling to accept church institutional constraints.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for theologians?**
+A: Junior annual salary approximately 35,000-45,000 euros, senior up to 70,000 euros, but overall below the German average.
+
+**Q: How can foreign theologians immigrate to Germany?**
+A: Must obtain a church employment contract and pass credential evaluation to apply for an EU Blue Card or skilled migration visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Theologian为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for theologians?**
-答：Entry-level annual salary is about €35,000–45,000, senior up to €70,000, but generally below German average.
-
-**问：How can foreign theologians immigrate to Germany?**
-答：You need an employment contract from a church and degree recognition, then apply for EU Blue Card or skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

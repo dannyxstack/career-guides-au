@@ -1,59 +1,95 @@
-# Fashion Designer（Fashion Designer）职业分析 · 澳大利亚
+# Fashion Designer — career analysis · Australia
 
-**职业代码：232311 – Fashion Designer。**
+**Occupation code: 232311 (ANZSCO)**
 
-Fashion designers conceive and create clothing and accessory collections, including sketching designs, selecting fabrics, and overseeing sample production, while staying current with fashion trends. They work in design studios, fashion labels, or as independent designers, blending creativity with commercial awareness.
+Fashion designers are responsible for conceiving and creating clothing and accessory collections, including drawing designs, selecting fabrics, supervising sample production, and keeping up with fashion trends. They work in design studios, fashion brands, or their own labels, acting as both creative artists and business professionals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（时尚设计） | 3-4年 | $30,000~$50,000（总学费，公立大学较低，私立较高） |
-| TAFE 文凭（时尚设计） | 2年 | $10,000~$20,000（总学费，更侧重实践技能） |
+| Bachelor's degree (Fashion Design) | 3-4 years | $30,000~$50,000 (Total tuition fees are lower at public universities and higher at private ones.) |
+| TAFE Diploma (Fashion Design) | 2 years | $10,000~$20,000 (Total tuition fees, with a greater focus on practical skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 时尚设计学士学位 | RMIT、UTS、悉尼科技大学等 | 可选 | 行业普遍要求，部分雇主更看重作品集 |
-| 技能评估（VETASSESS） | VETASSESS | 必备 | 技术移民必须通过职业评估 |
-| 作品集 | 个人 | 可选 | 核心展示创意和技术能力 |
+| Skills assessment (VETASSESS) | VETASSESS | Required | Skilled migration must pass skills assessment |
+| Bachelor of Fashion Design | RMIT, UTS, University of Technology Sydney, etc. | Optional | Industry standard requirement, some employers value a portfolio more. |
+| Portfolio | Personal | Optional | Core showcase of creativity and technical skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 8,000。澳洲时装设计行业竞争激烈，就业增长缓慢。大型品牌和快时尚对设计岗位需求有限，但可持续时尚、科技服装和小众品牌领域有机会。悉尼和墨尔本是主要就业市场。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 8,000. The Australian fashion design industry is highly competitive with slow job growth. Demand for design roles is limited in large brands and fast fashion, but opportunities exist in sustainable fashion, tech apparel, and niche brands. Sydney and Melbourne are key employment markets.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 助理设计师或刚入行 |
-| 中级（3-6年） | $60,000~$85,000 | 独立设计师或高级助理 |
-| 高级（6年以上） | $85,000~$120,000 | 设计总监或首席设计师 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Assistant designer or entry-level |
+| Mid-level (3–6 years) | $60,000~$85,000 | Independent designer or senior assistant |
+| Senior (6+ years) | $85,000~$120,000 | Design director or chief designer |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级设计师可从助理岗位起步，积累经验后晋升为高级设计师或设计总监。部分设计师创立个人品牌或转向造型师、买手等关联领域。行业门槛较高，需持续学习趋势和技术。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
+
+Junior designers can start as assistants, gain experience, and advance to senior designer or design director. Some designers start their own brands or move into related fields such as stylist or buyer. The industry has high entry barriers, requiring continuous learning of trends and techniques.
+
+**Tasks most exposed to AI:**
+
+- Trend data analysis and prediction using AI tools
+- Using AI to generate preliminary clothing sketches and pattern designs
+- Automated pattern resizing and sample garment simulation
+- Automates fabric color matching and inventory retrieval through AI
+- AI generates basic product descriptions and marketing copy
+
+**Where AI augments the role:**
+
+- Using AI to quickly generate hundreds of design variants for client selection
+- Use 3D simulation and virtual try-on technology to reduce physical sample production
+- Optimize design decisions by analyzing consumer feedback through AI
+- Use AI-assisted supply chain management and fabric sustainability assessment
+- Use generative AI to quickly create series of inspiration boards and visual narratives
+
+**Human moat:**
+
+- Unique artistic aesthetic and creative conceptual ability
+- Communication and relationship building with clients and manufacturers through meetings
+- Deep understanding of brand DNA and cultural trends
+- Tacit knowledge such as manual draping and haute couture
+- Cross-cultural design storytelling and original IP development.
+
+**Skills to build:**
+
+- Proficiency in AI design tools (e.g., Midjourney, CLO 3D, Stable Diffusion)
+- Data analysis and trend interpretation (Python/R basics)
+- Digital clothing modeling and virtual reality technology
+- Knowledge of sustainable fashion materials and supply chains
+- Brand strategy and visual marketing skills
+- Human-machine collaborative workflow design (Prompt engineering)
+
+**Key growth areas:**
 
 - Sustainable Fashion
 - Technical Apparel
@@ -62,67 +98,66 @@ Fashion designers conceive and create clothing and accessory collections, includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated visa） | 需州担保，部分州如维州、新州可能提名该职业 |
-| Subclass 482（Skills in Demand visa） | 需雇主担保，适用于有经验的设计师 |
-| Subclass 491（Skilled Work Regional visa） | 偏远地区工作生活，需州或亲属担保 |
+| Subclass 190 (Skilled Nominated visa) | Requires state nomination; some states such as Victoria and New South Wales may nominate this occupation |
+| Subclass 482 (Skills in Demand visa) | Requires employer sponsorship, suitable for experienced designers |
+| Subclass 491 (Skilled Work Regional visa) | Work and live in regional areas, requires state or relative sponsorship. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fashion Designer？**
-- 有强烈时尚感和审美能力的人
-- 具备手绘和数字设计技能，并能吃苦耐劳
-
-**谁不适合学Fashion Designer？**
-- 缺乏创意或不能接受批评的人
-- 寻求稳定高薪且压力小的职业者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong sense of fashion and aesthetic ability
+- Possessing hand-drawing and digital design skills, and willing to work hard
+
+**Who is not suited**
+- People who lack creativity or cannot accept criticism
+- Those seeking a stable, high-paying and low-stress career
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a fashion designer in Australia?**
+A: Entry-level approx. AUD 45,000–60,000; mid-level AUD 60,000–85,000; senior AUD 85,000–120,000. Salary heavily influenced by region and brand; freelancers experience significant income fluctuation.
+
+**Q: How can fashion designers immigrate to Australia?**
+A: Can immigrate via 190 state sponsorship or 482 employer sponsorship. Must first pass VETASSESS skills assessment, have at least 3 years of work experience, and IELTS 4x6. Remote 491 is also an option.
+
+**Q: What are the employment prospects for fashion designers in Australia?**
+A: The job market is highly competitive with limited positions. Sydney and Melbourne offer more opportunities, with sustainable fashion and tech apparel as growth areas. It is recommended to build a strong portfolio and gain internships to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Fashion Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a fashion designer in Australia?**
-答：Entry-level about AUD 45k-60k, mid-level AUD 60k-85k, senior AUD 85k-120k. Salaries vary by location and brand; freelancers face income fluctuations.
-
-**问：How can a fashion designer migrate to Australia?**
-答：Via state-nominated (190) or employer-sponsored (482) visas. Requires VETASSESS skills assessment, at least 3 years experience, and IELTS 6.0 each band. Regional 491 is also possible.
-
-**问：What are the job prospects for fashion designers in Australia?**
-答：The job market is highly competitive with limited positions. Opportunities concentrate in Sydney and Melbourne, with growth in sustainable fashion and technical apparel. Building a strong portfolio and gaining internships are crucial.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

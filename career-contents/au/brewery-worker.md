@@ -1,60 +1,96 @@
-# Brewery Worker（Brewery Worker）职业分析 · 澳大利亚
+# Brewery Worker — career analysis · Australia
 
-**职业代码：831112 – Brewery Worker。**
+**Occupation code: 831112 (ANZSCO)**
 
-Brewery workers handle raw materials, monitor fermentation, operate filtration and packaging equipment, and clean production areas to ensure smooth brewing operations.
+Brewery workers are responsible for raw material handling, fermentation monitoring, filtration, packaging, and equipment cleaning and maintenance during the beer brewing process to ensure smooth production.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无要求 | —（雇主通常提供在职培训） |
-| 短期证书课程 | 6个月 | $2,000~$5,000（如TAFE酿造入门证书，非必需） |
+| High school graduation | No requirements | $0~$0 (Employers usually provide on-the-job training) |
+| Short-term certificate courses | 6 months. | $2,000~$5,000 (Such as TAFE brewing entry certificate, not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 澳大利亚各州食品安全机构 | 可选 | 部分雇主要求，培训约1天 |
-| 酿造短期课程证书 | TAFE或私人培训中心 | 可选 | 非必需，但有助于晋升 |
+| Food safety certificate | Food safety agencies in Australian states and territories | Optional | Required by some employers; training takes about 1 day |
+| Short brewing course certificate | TAFE or private training centre | Optional | Not mandatory, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。随着澳洲精酿啤酒市场持续增长，酿酒厂工人需求稳步上升。预计未来五年行业就业人数保持增长，尤其在维州、新州和昆州。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. As the Australian craft beer market continues to grow, the demand for brewery workers is steadily increasing. Employment in the industry is expected to grow over the next five years, especially in Victoria, New South Wales, and Queensland.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 根据企业规模和地区有所差异 |
-| 中级（2-5年） | $55,000~$65,000 | 包括经验丰富的操作员 |
-| 高级（5年以上） | $65,000~$75,000 | 含主管或高级操作员 |
+| Median salary | $85,644 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $45,000~$55,000 | Varies by company size and region |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including experienced operators |
+| Senior (5+ years) | $65,000~$75,000 | Including supervisor or senior operator |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级工人起步，可晋升为高级酿酒操作员、酿造主管，甚至酿酒师。部分员工通过在职培训和短期课程提升技能，进入质量控制或生产管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some tasks of brewery workers will be automated, but AI also enhances quality control and process optimization, leading to job transformation rather than complete disappearance.
+
+Start as a junior worker, can advance to senior brewing operator, brewing supervisor, or even brewmaster. Some staff improve skills through on-the-job training and short courses, moving into quality control or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Repeated weighing and recording of raw material inputs
+- Daily parameter recording of fermentation tanks
+- Simple Monitoring of Filtration and Filling Lines
+- Timing of the cleaning process
+- Mechanical inspection of packaging labels
+
+**Where AI augments the role:**
+
+- Optimize fermentation temperature curves using sensor data
+- AI vision-assisted inspection of bottle liquid levels and foreign objects
+- Predictive maintenance reminders for equipment service cycles
+- Real-time quality data dashboard assists decision-making
+- Simulation and recommendation of recipe adjustments
+
+**Human moat:**
+
+- Ability to conduct sensory evaluation of off-flavor issues
+- Manual emergency handling of sudden equipment failures
+- Communication and coordination with suppliers and sales teams
+- On-site judgment to comply with food safety regulations
+- Experience managing small teams
+
+**Skills to build:**
+
+- Basic Data Analysis (Excel/Tableau)
+- Basic operation of PLC or SCADA systems
+- Application of AI tools (e.g., visual inspection software)
+- Quality management system (ISO 22000)
+- Mechanical maintenance basics
+- Cross-departmental communication and collaboration
+
+**Key growth areas:**
 
 - Craft beer growth
 - Brewing expansion
@@ -63,64 +99,66 @@ Brewery workers handle raw materials, monitor fermentation, operate filtration a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，但该职业不在核心技能职业列表上，申请难度较大 |
-| Subclass 407（Training Visa） | 可用于在澳洲酒厂进行在职培训，不直接通向永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, but this occupation is not on the Core Skills Occupation List, making application difficult. |
+| Subclass 407 (Training Visa) | Can be used for on-the-job training at Australian wineries; does not lead directly to permanent residency |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Brewery Worker？**
-- 对酿造工艺有浓厚兴趣，愿意从基础操作做起的人
-- 喜欢动手操作、适应酒厂工作环境的人
+**Who is suited**
+- People with a strong interest in brewing who are willing to start from basic operations
+- People who enjoy hands-on work and adapting to a winery environment
 
-**谁不适合学Brewery Worker？**
-- 追求高薪或快速移民的人
-- 不适应体力劳动或重复性工作的人
+**Who is not suited**
+- Those seeking high salary or fast immigration.
+- People who are not suited to physical labour or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a brewery worker?**
+A: Entry-level workers earn about AUD 45,000-55,000, experienced workers can reach AUD 65,000-75,000, supervisor level higher.
+
+**Q: Can brewery workers apply for skilled migration?**
+A: This occupation is not on mainstream skilled migration occupation lists for 189/190/482 visas, so pathways to permanent residency via skilled migration are very limited.
+
+**Q: What career advancement opportunities are there for brewery workers?**
+A: Can advance to senior operator, brewing supervisor, brewer, or production manager, usually requiring accumulated experience and further brewing courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Brewery Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a brewery worker?**
-答：Entry-level workers earn AUD 45,000-55,000, experienced workers AUD 65,000-75,000, and supervisors earn more.
-
-**问：Can a brewery worker apply for skilled migration?**
-答：This occupation is not on the skilled occupation lists for 189/190/482, so skilled migration pathways are very limited.
-
-**问：What are the promotion opportunities for a brewery worker?**
-答：Promotion to senior operator, brewing supervisor, brewer, or production manager is possible with experience and further training.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

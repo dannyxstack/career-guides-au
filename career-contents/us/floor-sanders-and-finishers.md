@@ -1,61 +1,93 @@
-# Floor Sanders and Finishers（Floor Sanders and Finishers）职业分析 · 美国
+# Floor Sanders and Finishers — career analysis · United States
 
-**职业代码：47-2043 – Floor Sanders and Finishers。**
+**Occupation code: 47-2043 (SOC)**
 
-Operate floor sanding machines and scrapers to smooth wooden floors, then apply finishes. A skilled trade in construction finishing.
+Operate floor sanders and scrapers to level wooden floor surfaces, then apply protective coatings for a smooth and attractive finish. A specialized trade in building decoration.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（通常不需要大学教育） |
-| 在职培训（学徒制） | 1-2年 | —（雇主提供培训，可能需自费工具和证书） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (University education is typically not required) |
+| On-the-job training (apprenticeship) | 1-2 years | $0~$5,000 (Employer provides training; may need to self-fund tools and certifications) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证或GED | 教育部 | 必备 | 基本入职要求 |
-| OSHA安全证书 | 职业安全与健康管理局 | 可选 | 推荐持有，提高就业竞争力 |
-| 国家木地板协会（NWFA）认证 | 国家木地板协会 | 可选 | 专业认证，证明技能水平 |
+| High school diploma or GED | Ministry of Education | Required | Basic entry requirements |
+| OSHA safety certificate | Occupational Safety and Health Administration | Optional | Recommended to hold, improving employment competitiveness |
+| National Wood Flooring Association (NWFA) certification | National Wood Flooring Association | Optional | Professional certification proving skill level |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 24,500。美国建筑业持续增长带动地板装修需求，老旧房屋翻新市场旺盛。BLS预测2023-2033年该职业就业增长率约4%，与平均水平持平，年均约1300个岗位空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 24,500. US construction industry growth drives demand for flooring; strong home renovation market. BLS projects 2023-2033 job growth of about 4%, on par with average, with ~1,300 annual openings.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 学徒或助理级别 |
-| 中级（3-8年） | $38,000~$50,000 | 熟练技工 |
-| 高级（8年以上） | $50,000~$65,000 | 工头或自雇者 |
+| Median salary | $50,440 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$38,000 | Apprentice or assistant level |
+| Mid-level (3–8 years) | $38,000~$50,000 | Skilled tradesperson |
+| Senior (8+ years) | $50,000~$65,000 | Foreperson or self-employed |
+| average salary | $52,460 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从业者可晋升为装修工头、项目监理，或自主创业开设地板装修公司。积累经验后可考取总承包商执照，拓展业务范围。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
+
+Practitioners can be promoted to renovation foreman, project supervisor, or start their own floor covering company. With experience, they can obtain a general contractor license and expand their business scope.
+
+**Tasks most exposed to AI:**
+
+- Manual room measurement and material calculation (AI vision + software assistance)
+- Conventional grinding and cutting path planning (automated equipment)
+- Inventory management, order processing (replaced by ERP systems)
+
+**Where AI augments the role:**
+
+- Use AI to scan rooms to generate 3D models, optimising material cutting and layout
+- Real-time display of laying alignment and level calibration via AR glasses
+- AI predicts material waste and procurement needs to reduce waste
+- Smart tools automatically record construction data and generate quality inspection reports
+
+**Human moat:**
+
+- Manual custom installation on complex uneven floors
+- On-site flexible handling of uneven substrates and irregular corners
+- Client communication, aesthetic advice, and personalized design
+- Multi-material seam treatment and fine finishing techniques
+
+**Skills to build:**
+
+- Digital measurement and modeling software (e.g., Span, FARO)
+- AR/VR-assisted construction tool operation
+- Installation techniques for eco-friendly/new materials (LVT, cork)
+- Project management and client quotation software (e.g., Buildertrend).
+- Basic data analysis (material optimization, cost accounting)
+- Sustainable Construction Certification (e.g., Green Star)
+
+**Key growth areas:**
 
 - Residential remodeling
 - Hardwood flooring
@@ -64,65 +96,67 @@ Operate floor sanding machines and scrapers to smooth wooden floors, then apply 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 非农业临时工作签证，适用于季节性地板装修项目；雇主需通过劳工证测试。名额有限，每年上限66000个。 |
-| Subclass EB-3（EB-3 Skilled Workers, Professionals, and Unskilled Workers） | 职业移民第三优先，但地板工通常被归类为“无技能工人”，要求高且排期长，实际可行性低。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Non-agricultural temporary work visa, applicable to seasonal floor renovation projects; employer must pass labor certification test. Limited quota, annual cap of 66,000. |
+| Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Unskilled Workers) | Employment-based immigration third preference, but floor layers are usually classified as 'unskilled workers', requiring high qualifications and long waiting times; actually low feasibility. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Floor Sanders and Finishers？**
-- 动手能力强、注重细节的人
-- 愿从事体力劳动、不介意灰尘和噪音的人
-- 希望快速入行、不需要高学历的人
+**Who is suited**
+- Hands-on, detail-oriented people
+- People willing to do physical labor and not mind dust and noise.
+- Those looking to enter the field quickly without requiring high education.
 
-**谁不适合学Floor Sanders and Finishers？**
-- 对化学气味和粉尘敏感的人
-- 寻求高薪且快速晋升路径的人
+**Who is not suited**
+- People sensitive to chemical odors and dust
+- Individuals seeking high pay and fast career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do floor sanders earn in the US?**
+A: According to BLS data, 2023 median annual salary about $40,000; entry-level $30,000-$38,000; senior up to $65,000. Self-employed may earn more but must cover their own tools and insurance.
+
+**Q: Does this occupation have opportunities to immigrate to the US?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements and is not a priority for EB-2/EB-3 skilled immigration. A few employers may apply through H-2B (non-agricultural temporary) or EB-3 unskilled category, but quotas are minimal and wait times are long.
+
+**Q: How to advance to become a senior technician or foreman?**
+A: After accumulating 2-5 years of experience, you can obtain NWFA certification and learn commercial project management. Some advance to field supervisor or start their own flooring company through further training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Floor Sanders and Finishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for floor sanders and finishers in the US?**
-答：According to BLS, median annual wage in 2023 is about $40,000; entry-level $30,000-$38,000, experienced up to $65,000. Self-employed may earn more but cover expenses.
-
-**问：Are there immigration opportunities for floor sanders to the US?**
-答：Very limited. The occupation does not qualify for H-1B (specialty occupation) and is not preferred for EB-2/EB-3. Few employers may sponsor H-2B or EB-3 unskilled, but quotas are scarce and wait times long.
-
-**问：How to advance to senior or foreman?**
-答：After 2-5 years, obtain NWFA certification, learn commercial project management. Some advance to site supervisor or start own flooring business.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

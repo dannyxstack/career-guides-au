@@ -1,64 +1,95 @@
-# 牙科助理（Dental Assistant）职业分析 · 澳大利亚
+# Dental Assistant — career analysis · Australia
 
-**职业代码：423211 – Dental Assistant。**
+**Occupation code: 423211 (ANZSCO)**
 
-牙科助理在牙科诊所协助医生进行椅旁操作、器械消毒、患者管理和预约，门槛低、可在岗培训，非技术移民职业。
+Dental assistants support dentists in chairside procedures, instrument sterilisation, patient management and appointment scheduling at dental clinics. Low entry barriers with on-the-job training available; not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III/IV in Dental Assisting (HLT35021) | 1~2年 | —（部分州补贴/在岗） |
+| Certificate III/IV in Dental Assisting (HLT35021) | 1–2 years | $0~$8,000 (Partially subsidised / on-the-job (some states)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Dental Assisting | TAFE/RTO | 可选 | 非强制但常要求 |
-| Radiography 资质（加分） | 认可机构 | 可选 | X光操作 |
+| Certificate III in Dental Assisting | TAFE/RTO | Optional | Not mandatory but often required |
+| Radiography qualification (advantageous) | Recognised institution | Optional | X-ray Operation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 25,000。牙科服务需求稳定，持Cert III和放射资质者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Demand for dental services remains stable; those holding Cert III and radiography qualifications are in higher demand.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,200 个 | 全国 |
-| Indeed | 900~1,600 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门 | $50,000~$58,000 | 时薪约$26~$30 |
-| 有经验 | $58,000~$68,000 | — |
-| 资深/带放射资质 | $68,000~$78,000 | — |
+| Median salary | $62,972 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level | $50,000~$58,000 | Approx. $26–$30 per hour |
+| Experienced | $58,000~$68,000 | — |
+| Senior / with radiography qualifications | $68,000~$78,000 | — |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向资深牙助、诊所协调或Practice Manager发展。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
+
+Can progress to senior dental assistant, clinic coordinator, or Practice Manager roles.
+
+**Tasks most exposed to AI:**
+
+- Patient appointment and schedule management (AI scheduling system)
+- Dental imaging capture and basic analysis (AI-assisted imaging)
+- Instrument sterilization and inventory tracking (automated sterilization cabinets and IoT tags)
+- Patient billing and insurance claim processing (AI-automated form filling)
+- Routine Chairside Assistance (e.g., Suction, Tool Passing, Robot-Assisted)
+
+**Where AI augments the role:**
+
+- AI-assisted chairside operation support: real-time image annotation and surgical suggestions
+- Patient communication and education: AI generates personalized care plans, assistant explains
+- Infection control monitoring: AI analyzes environmental data, assistants optimize processes
+- Cross-clinic data sharing: AI integrates medical records, assistant coordinates referrals
+- Remote consultation support: AI-assisted video diagnosis, assistant prepares equipment
+
+**Human moat:**
+
+- Building Trust with Patients, Handling Anxiety and Emotions
+- Clinical judgment in handling medical emergencies (e.g., allergies, fainting)
+- Smooth coordination of fine hand operations and instrument transfer
+- Cross-team coordination (dentist, hygienist, lab)
+- Personalized patient education and behavior change guidance
+
+**Skills to build:**
+
+- Operation of AI dental software (e.g., Diagnocat, Planmeca Romexis)
+- Digital Dental Workflow (Intraoral Scanning, CAD/CAM Basics)
+- Advanced patient communication and behavior management skills
+- Basic data analysis (clinic operational metrics)
+- Infection control and compliance knowledge updates
+- Multitasking coordination and prioritization skills
+
+**Key growth areas:**
 
 - Chairside Assisting
 - Dental Radiography
@@ -66,57 +97,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学牙科助理？**
-- 细心、有同理心想进牙科者
-- 想低门槛进入医疗辅助者
-
-**谁不适合学牙科助理？**
-- 以技术移民为目标者
-- 不适应椅旁近距离操作者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, empathetic individuals interested in dentistry
+- Those seeking a low-barrier entry into healthcare support roles
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not suited to those who are uncomfortable with close chairside work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a dental assistant in Australia?**
+A: Approx. AUD $50,000–$78,000, higher with radiography qualifications.
+
+**Q: Can dental assistants migrate to Australia through skilled migration?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-牙科助理属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲牙科助理工资多少？**
-答：约AUD $5万~$7.8万，带放射资质更高。
-
-**问：牙科助理能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

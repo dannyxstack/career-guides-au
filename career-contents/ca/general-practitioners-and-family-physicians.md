@@ -1,59 +1,94 @@
-# General practitioners and family physicians（General practitioners and family physicians）职业分析 · 加拿大
+# General practitioners and family physicians — career analysis · Canada
 
-**职业代码：31102 – General practitioners and family physicians。**
+**Occupation code: 31102 (NOC)**
 
-General practitioners provide primary medical care, including diagnosis, treatment, and preventive care. This occupation is in persistent shortage in Canada, especially in rural and remote areas. Immigration via Express Entry or Provincial Nominee Programs is feasible but requires MCCQE certification and provincial licensure.
+General practitioners provide primary medical care in Canada, including diagnosis, treatment, and preventive care. This occupation is in chronic shortage in Canada, especially in rural and remote areas. Immigration success rates are high through Express Entry or Provincial Nominee Programs, but require certification from the Medical Council of Canada and provincial licensure.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 医学博士（MD） | 4年 | $60,000~$200,000（加拿大医学院学费，国际学生更高） |
-| 住院医师培训 | 2年 | —（带薪培训，但生活费用需自理） |
+| Doctor of Medicine (MD) | 4 years | $60,000~$200,000 (Medical school tuition in Canada is higher for international students) |
+| Residency training | 2 years | $0~$50,000 (Paid training, but living expenses are self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大医学委员会资格考试（MCCQE） | 加拿大医学委员会 | 必备 | 海外医生需通过MCCQE Part I和II |
-| 省医师执照 | 省级医师学院 | 必备 | 各省要求不同，需实习或住院医师培训 |
-| 语言成绩（IELTS/CELBAN） | IELTS/CELBAN | 必备 | 英语或法语能力证明 |
+| Medical Council of Canada Qualifying Examination (MCCQE) | Medical Council of Canada | Required | Overseas doctors must pass MCCQE Part I and II |
+| Provincial medical license | Provincial College of Physicians | Required | Requirements vary by province; need internship or residency training. |
+| Language test scores (IELTS/CELBAN) | IELTS/CELBAN | Required | Proof of English or French proficiency |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 45,000。加拿大全科医生需求强劲，人口老龄化和偏远地区医疗资源短缺推动持续增长。Job Bank预测未来10年就业前景良好，但职位竞争因海外医生涌入而中等。农村地区机会更多，城市竞争较大。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. Strong demand for general practitioners in Canada, driven by an aging population and medical resource shortages in remote areas. Job Bank forecasts good employment prospects over the next 10 years, but competition is moderate due to an influx of overseas doctors. More opportunities in rural areas, greater competition in cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $120,000~$200,000 | 省际差异大，农村补贴高 |
-| 中级（4-9年） | $200,000~$300,000 | 经验及患者数量直接影响 |
-| 高级（10年以上） | $300,000~$400,000 | 私人诊所或专家顾问收入更高 |
+| Median salary | $232,227 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $120,000~$200,000 | Large interprovincial differences, rural subsidies higher |
+| Intermediate (4-9 years) | $200,000~$300,000 | Experience and patient volume directly affect |
+| Senior (10+ years) | $300,000~$400,000 | Private clinics or expert consultants earn higher income |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径：初级全科医生可通过积累经验成为家庭医学专家或开设私人诊所。部分医生转向医院急诊或专科进修。此外，可参与学术研究或公共卫生管理。晋升取决于经验、附加认证和地理位置。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+GP's core diagnostic responsibilities in Canada are protected by regulation, hard for AI to replace; but administrative tasks and some diagnostic support will be automated. Short-term entry barriers due to credential assessment and licensing won't lower; long-term need to adapt to AI tools for efficiency.
+
+Career path: Junior GPs can become family medicine specialists or open private clinics through experience. Some move to hospital emergency or specialist training. Others may pursue academic research or public health management. Promotion depends on experience, additional certifications, and location.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate medical records and clinical notes
+- Guideline-based standard prescription recommendations and drug interaction checks
+- Preliminary screening of imaging reports (e.g., X-rays, skin photos)
+- Appointment management, patient reminders, and follow-up tracking
+- Remote triage and health consultation for simple cases.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems improve accuracy of rare disease identification
+- Use Clinical Decision Support Systems (CDSS) to optimize treatment plan selection
+- Predict patient risks (e.g., diabetes complications) through data analysis
+- Quickly retrieve latest medical literature and guidelines using NLP
+- Remote monitoring AI tools expand chronic disease management capabilities
+
+**Human moat:**
+
+- Clinical reasoning and comprehensive judgment of complex cases
+- Build trust and empathetic communication with patients
+- Managing multimorbidity and uncertain clinical scenarios.
+- Performing invasive procedures (e.g., suturing, joint injections)
+- Assume legal and ethical responsibilities (informed consent, reporting obligations)
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools (e.g., Ada, IBM Watson Health)
+- Integration and use of clinical decision support systems (CDSS)
+- Medical data analysis and statistics (e.g., Python/R basics)
+- Advanced features of telemedicine platforms and digital health records
+- Medical AI Ethics & Regulatory Knowledge
+- Patient communication and AI interpretation skills
+
+**Key growth areas:**
 
 - Healthcare shortage
 - Rural demand
@@ -62,68 +97,67 @@ General practitioners provide primary medical care, including diagnosis, treatme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Worker)） | 适合年轻、高语言成绩的医生，需学历认证及工作经历 |
-| Subclass PNP（Provincial Nominee Program） | 各省医疗紧缺通道，如BC省Health Authority、安省医师类 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省吸引医疗人才，雇主驱动 |
+| Subclass EE (Express Entry (Federal Skilled Worker)) | Suitable for young doctors with high language scores; requires credential assessment and work experience. |
+| Subclass PNP (Provincial Nominee Program) | Provincial medical shortage streams, such as BC Health Authority and Ontario physician category |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Canada attracts healthcare talent, employer-driven |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学General practitioners and family physicians？**
-- 具有海外医学学位并愿意接受再认证的医生
-- 愿意在偏远地区工作的医疗人才
-- 具备较高英语或法语能力的求职者
-
-**谁不适合学General practitioners and family physicians？**
-- 无法通过MCCQE考试者
-- 不愿从事基层初级医疗工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Doctors with overseas medical degrees willing to undergo re-certification
+- Medical professionals willing to work in remote areas.
+- Job seekers with high proficiency in English or French
+
+**Who is not suited**
+- Those unable to pass the MCCQE exam
+- People unwilling to engage in grassroots primary medical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for general practitioners in Canada?**
+A: According to the Canadian Medical Association, GPs average approx. CAD 280,000 per year; entry-level approx. CAD 120,000–180,000, senior over CAD 350,000. Income heavily influenced by province, practice model, and patient volume.
+
+**Q: What steps are needed for overseas family doctors to immigrate to Canada?**
+A: Main steps: 1) Pass MCCQE exams; 2) Complete Canadian residency or practice assessment; 3) Obtain provincial license; 4) Apply for permanent residence via Express Entry or PNP. Entire process takes 2-4 years.
+
+**Q: Do overseas doctors need to re-qualify for a Canadian medical license?**
+A: Yes, overseas doctors must pass the Medical Council of Canada (MCC) qualifying exams (MCCQE Part I and II) and complete specified internship or residency training to apply for a provincial medical license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-General practitioners and family physicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a general practitioner in Canada?**
-答：According to the Canadian Medical Association, the average annual salary is around CAD 280,000, ranging from CAD 120,000-180,000 for entry-level to over CAD 350,000 for experienced practitioners, depending on province, practice type, and patient volume.
-
-**问：What are the steps for an overseas GP to immigrate to Canada?**
-答：Key steps: 1) Pass MCCQE exams; 2) Complete Canadian residency training or practice assessment; 3) Obtain provincial licensure; 4) Apply for permanent residence via Express Entry or PNP. The process typically takes 2-4 years.
-
-**问：Do international doctors need to re-qualify for a Canadian medical license?**
-答：Yes, international medical graduates must pass the Medical Council of Canada qualifying exams (MCCQE Part I and II) and complete a residency or practice assessment program before applying for provincial licensure.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

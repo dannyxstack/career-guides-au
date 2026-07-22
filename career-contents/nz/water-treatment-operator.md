@@ -1,59 +1,95 @@
-# Water Treatment Operator（Water Treatment Operator）职业分析 · 新西兰
+# Water Treatment Operator — career analysis · New Zealand
 
-**职业代码：712914 – Water Treatment Operator。**
+**Occupation code: 712914 (ANZSCO)**
 
-Water Treatment Operators in New Zealand monitor and operate water treatment equipment to ensure safe water supply. This occupation is on the Green List, eligible for Tier 1 direct residence pathway, with stable employment prospects.
+Water treatment operators in New Zealand monitor and operate water treatment equipment to ensure safe water supply. This occupation is on the Green List and offers a direct residence pathway via Tier 1, with stable employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 国家证书（NZ Certificate in Water Treatment Operations） | 1年 | $3,000~$5,000（包含学费和材料费，可通过TTAF(行业培训基金)资助） |
-| 相关学历（如环境工程文凭） | 2-3年 | $15,000~$25,000（理工学院课程，国际学生费用更高） |
+| National Certificate (NZ Certificate in Water Treatment Operations) | 1 year | $3,000~$5,000 (Includes tuition and material fees, can be funded through TTAF (Industry Training Fund)) |
+| Relevant qualification (e.g., Diploma in Environmental Engineering) | 2-3 years | $15,000~$25,000 (Polytechnic courses, higher fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰水处理运营国家证书（Level 4） | 新西兰水与废物协会 (NZWWA) | 必备 | 行业认可，通常为雇主必备 |
-| 危险品操作执照 | WorkSafe NZ | 必备 | 处理化学品必需 |
-| 英语语言能力（如雅思6.0） | IELTS | 可选 | 移民要求，非强制性但建议 |
+| New Zealand National Certificate in Water Treatment Operations (Level 4) | Water New Zealand (NZWWA) | Required | Industry recognized, often required by employers |
+| Hazardous Materials Handling License | WorkSafe NZ | Required | Required when handling chemicals |
+| English language proficiency (e.g., IELTS 6.0) | IELTS | Optional | Immigration requirement, not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,000。新西兰水资源管理需求持续增长，水处理操作员就业前景良好。随着基础设施更新和环保法规加强，岗位需求稳步上升，尤其在奥克兰、基督城等主要城市。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,000. Water resource management demand continues to grow in New Zealand, offering good employment prospects for water treatment operators. With infrastructure upgrades and stricter environmental regulations, job demand is steadily rising, especially in major cities like Auckland and Christchurch.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 年薪约45,000-55,000纽元 |
-| 中级（4-7年） | $55,000~$70,000 | 年薪约55,000-70,000纽元，持有证书 |
-| 高级（8年以上） | $70,000~$90,000 | 年薪约70,000-90,000纽元，含管理职责 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual salary approx NZD 45,000-55,000 |
+| Mid-level (4-7 years) | $55,000~$70,000 | Annual salary approximately NZD 55,000-70,000, with certification |
+| Senior (8+ years) | $70,000~$90,000 | Annual salary about $70,000-90,000 NZD, including management responsibilities |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：从初级操作员晋升为高级操作员、团队主管，或转向水处理工程师。可考取新西兰水与废物协会(NZWWA)认证提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
+
+Career progression: from junior operator to senior operator, team supervisor, or transition to water treatment engineer. Obtain NZWWA certification to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated water quality data collection and report generation
+- Remote monitoring of routine equipment operating status
+- Automated chemical dosing based on preset parameters
+- Automatic recording and archiving of standard operation logs
+- AI initial alarm and classification of abnormal values
+
+**Where AI augments the role:**
+
+- Using data analysis to predict water quality trends and optimize treatment processes
+- Test process improvements through digital twin simulation
+- AI-assisted diagnosis of complex equipment fault causes
+- Human interpretation and decision-making after automated report generation
+- Remote collaboration platform for cross-site expert consultation
+
+**Human moat:**
+
+- On-site emergency response and complex fault troubleshooting
+- Manual review of regulatory compliance and emission standards
+- Communication and reporting with regulatory bodies and the public
+- Final decision-making responsibility involving public health safety
+- Manual operation of non-standard or legacy equipment
+
+**Skills to build:**
+
+- Digital twin and simulation software for water treatment processes.
+- Water quality data statistics and trend analysis (e.g., Python/R)
+- SCADA system and industrial IoT device operation
+- Environmental regulation interpretation and compliance report writing
+- Cross-departmental collaboration and project management skills
+- Basic knowledge of AI/machine learning model applications
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Infrastructure
@@ -62,68 +98,67 @@ Water Treatment Operators in New Zealand monitor and operate water treatment equ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 水处理操作员在绿色清单Tier 1，符合条件可直接申请居留，无需工作两年。 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（如学历+工作经验），可通过技术移民申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达直接居留，可先由认证雇主担保工作，再转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Water treatment operators on Green List Tier 1, eligible to apply for residence directly without working for two years. |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (e.g., qualifications + work experience) and apply through skilled migration. |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residency is not achieved, you can first work under a certified employer sponsorship and then transition to residency. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Water Treatment Operator？**
-- 对水处理技术感兴趣，动手能力强
-- 愿意在户外或工厂环境工作
-- 希望快速通过绿色清单移民新西兰
-
-**谁不适合学Water Treatment Operator？**
-- 不喜欢轮班或周末工作
-- 对化学药剂敏感或过敏
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Interested in water treatment technology, hands-on
+- Willing to work outdoors or in factory environments
+- Those who want to immigrate to New Zealand quickly via the Green List
+
+**Who is not suited**
+- Dislike shift work or weekend work
+- Sensitive or allergic to chemicals
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for water treatment operators in New Zealand?**
+A: Entry-level salary is around NZD 45,000–55,000, mid-level NZD 55,000–70,000, and senior NZD 70,000–90,000. Those with certification and extensive experience earn more.
+
+**Q: How can water treatment operators immigrate via the Green List?**
+A: This occupation is on the Green List Tier 1; meeting relevant qualifications and salary requirements allows direct application for Straight to Residence visa. No need to work for two years first.
+
+**Q: What certifications are needed to work in water treatment in New Zealand?**
+A: Must have New Zealand National Certificate in Water Treatment Operations (Level 4) and a dangerous goods handling license. NZWWA certification is recommended and often required by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Water Treatment Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Water Treatment Operators in New Zealand?**
-答：Entry-level salary is around NZ$45,000-55,000 per year, mid-level NZ$55,000-70,000, and senior NZ$70,000-90,000. Higher with certification and experience.
-
-**问：How can a Water Treatment Operator immigrate via the Green List?**
-答：This occupation is on Green List Tier 1. If you meet qualification and salary requirements, you can apply directly for a Straight to Residence Visa without needing to work for two years first.
-
-**问：What certifications are needed to work as a Water Treatment Operator in New Zealand?**
-答：You need the New Zealand Certificate in Water Treatment Operations (Level 4) and a dangerous goods handling license. The NZWWA certification is recommended and often required by employers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

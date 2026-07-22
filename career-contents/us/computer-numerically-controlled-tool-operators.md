@@ -1,61 +1,94 @@
-# Computer Numerically Controlled Tool Operators（Computer Numerically Controlled Tool Operators）职业分析 · 美国
+# Computer Numerically Controlled Tool Operators — career analysis · United States
 
-**职业代码：51-9161 – Computer Numerically Controlled Tool Operators。**
+**Occupation code: 51-9161 (SOC)**
 
-Operate computer-controlled tools, machines, or robots to machine or process parts made of metal, plastic, wood, etc.; also set up and maintain equipment.
+Operate computer-controlled tools, machines, or robots to process metal, plastic, wood, or other materials, or handle parts; also responsible for equipment setup and maintenance.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/GED | 无 | —（部分高中提供职业技术课程） |
-| 证书/副学士 | 6个月-2年 | $5,000~$20,000（社区学院或技术学校） |
+| High school diploma/GED | None | $0~$0 (Some high schools offer vocational technical courses) |
+| Certificate/Associate degree | 6 months to 2 years | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数控操作认证 | 美国国家金属加工技能协会 | 可选 | NIMS认证，提升就业竞争力 |
-| 安全认证 | 职业安全与健康管理局 | 可选 | OSHA 10小时或30小时 |
-| CNC程序员认证 | Mastercam或其他软件商 | 可选 | 可选，但利于晋升 |
+| CNC Operation Certification | National Institute for Metalworking Skills (NIMS) | Optional | NIMS certification enhances employment competitiveness |
+| Safety certification | Occupational Safety and Health Administration | Optional | OSHA 10-hour or 30-hour |
+| CNC programmer certification | Mastercam or other software vendors | Optional | Optional, but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 139,500。美国制造业回流和自动化升级推动需求，但部分岗位被更先进的CNC编程替代。预计2022-2032年就业增长约1%，略低于平均水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 139,500. Demand driven by US manufacturing reshoring and automation upgrades, but some roles are replaced by advanced CNC programming. Employment growth estimated at about 1% from 2022-2032, slightly below average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 学徒或培训期 |
-| 中级（3-7年） | $42,000~$56,000 | 熟练操作员 |
-| 高级（7年以上） | $56,000~$72,000 | 含编程与多轴操作 |
+| Median salary | $50,690 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Apprenticeship or training period |
+| Mid-level (3–7 years) | $42,000~$56,000 | Skilled operator |
+| Senior (7+ years) | $56,000~$72,000 | Includes programming and multi-axis operation |
+| average salary | $54,320 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从操作员可晋升为CNC程序员、工艺工程师或生产主管；积累经验后可转向质量控制和设备维护岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI and automation will profoundly impact CNC operators: programming and monitoring tasks are enhanced, but simple operation and inspection roles are reduced. Workers must shift to higher-value programming and anomaly handling to survive.
+
+Operators can advance to CNC programmers, process engineers, or production supervisors; with experience, they can move into quality control and equipment maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Automated loading and unloading of workpieces: replacing manual operations with robots or automatic feeding systems
+- Simple repetitive machining operations: automated tool path execution, no human intervention required.
+- Real-time status monitoring: AI system automatically monitors parameters like spindle load and tool wear
+- Basic quality inspection like surface roughness: visual inspection systems replace manual checks
+
+**Where AI augments the role:**
+
+- CNC programming: AI-assisted generation and optimization of G-code, automatic selection of tools and cutting parameters
+- Toolpath optimization: AI analyzes historical data to recommend optimal paths, reducing machining time
+- Preventive maintenance: AI predicts equipment failures and schedules maintenance in advance to reduce downtime
+- Production scheduling: AI automatically schedules based on order priority and equipment status
+
+**Human moat:**
+
+- Complex anomaly handling: emergencies that require on-site judgment, such as tool breakage or workpiece misalignment
+- Multi-process collaborative optimization: understand upstream and downstream processes, adjust parameters to balance quality and efficiency
+- Customer communication and customized service: understand non-standard requirements and convert into feasible processing solutions
+- Equipment debugging and maintenance: involves comprehensive fault diagnosis of mechanical structures and electrical systems.
+
+**Skills to build:**
+
+- G-code manual programming and debugging skills (Mastercam/Haas, etc.)
+- Python or VBA scripting for custom automation tasks
+- Advanced CAD/CAM software applications (e.g., SolidCAM, Fusion 360)
+- Industrial Internet of Things (IIoT) and MES system operation
+- In-depth understanding of cutting tools and cutting mechanisms (materials, coatings, coolants)
+- Data Analysis Basics: Using Excel or Python for Processing Quality Analysis
+
+**Key growth areas:**
 
 - Automation
 - Manufacturing Renaissance
@@ -64,65 +97,67 @@ Operate computer-controlled tools, machines, or robots to machine or process par
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，因学历通常不满足本科要求；除非有高级技能并匹配管理岗 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，但该职业通常被视为技能工人，名额有限 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, as qualifications typically do not meet bachelor's requirements; unless having advanced skills and matching management roles |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires a PERM labor certification, but this occupation is usually considered skilled worker with limited quotas |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Computer Numerically Controlled Tool Operators？**
-- 细心且注意安全者
-- 喜欢动手操作机器者
-- 愿意从基础做起并学习编程的人
+**Who is suited**
+- Detail-oriented and safety-conscious individuals
+- Those who enjoy working with machinery
+- People willing to start from the basics and learn programming
 
-**谁不适合学Computer Numerically Controlled Tool Operators？**
-- 厌恶重复性体力劳动的人
-- 不喜欢在嘈杂环境中工作的人
+**Who is not suited**
+- Those who dislike repetitive physical labor
+- People who dislike working in noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary growth potential for CNC operators?**
+A: From entry-level about $35,000 to senior about $70,000; if you learn programming or repair, can reach over $80,000.
+
+**Q: Can a CNC operator get a green card through occupational immigration?**
+A: Very difficult; this occupation typically requires less than a bachelor's degree, not meeting most skilled migration requirements. Employer-sponsored EB-3 has limited slots and low success rate.
+
+**Q: Will AI have a big impact on this occupation in the future?**
+A: Medium. Simple operations may be automated, but complex part programming and maintenance still require human input.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Computer Numerically Controlled Tool Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for CNC operators?**
-答：From around $35k for entry-level to $70k for senior; learning programming or maintenance can exceed $80k.
-
-**问：Can CNC operators obtain a green card through employment-based immigration?**
-答：Unlikely; the job typically requires less than a bachelor's degree, making it difficult for most skilled worker visas. EB-3 quotas are tight.
-
-**问：How much will AI impact this occupation?**
-答：Moderate. Simple operations may be automated, but complex programming and maintenance still require humans.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

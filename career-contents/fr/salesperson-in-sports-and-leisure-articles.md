@@ -1,60 +1,96 @@
-# Salesperson in Sports and Leisure Articles（Salesperson in Sports and Leisure Articles）职业分析 · FR
+# Salesperson in Sports and Leisure Articles — career analysis · France
 
-**职业代码：D1211 – Salesperson in Sports and Leisure Articles。**
+**Occupation code: D1211 (ROME)**
 
-Works in sports retail stores or outlets, responsible for customer reception, product demonstration, completing sales, and inventory management. Requires knowledge of sports equipment to provide expert advice.
+Working in a sporting goods store or counter, you are responsible for greeting customers, introducing product features, completing sales, and managing inventory. You need to understand sports equipment knowledge and provide professional advice.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+短期培训 | 1年（CAP） | —（可通过学徒制免费学习，或私立学校5000欧元） |
-| 大专水平 | 2年（BTS MCO） | —（公立学校免费，私立约8000欧元/年） |
+| High school graduation + short-term training | 1 year (CAP) | $0~$5,000 (You can study for free through apprenticeships or private schools for 5,000 euros) |
+| College level | 2 years (BTS MCO) | $0~$8,000 (Public schools are free, private ones about 8,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 雇主通常要求销售经验或体育相关背景，无国家强制证书 |
-| CCP Vendeur conseil | France Compétences | 可选 | 可选职业资格认证，提升竞争力 |
+| No mandatory certificate | None | Optional | Employers usually require sales experience or sports-related background, without a mandatory national certificate |
+| CCP Vendeur conseil | France Compétences | Optional | Optional professional qualification certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国体育产业持续增长，2024年巴黎奥运会带动零售需求，体育用品销售岗位稳定。但电商竞争加剧，实体店销售需强化体验服务。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. France's sports industry continues to grow, with the 2024 Paris Olympics driving retail demand and stable sports goods sales. However, as e-commerce competition intensifies, physical store sales need to strengthen experiential services.
 
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $26,000~$32,000 | 税前年薪 |
-| 高级（8年以上） | $32,000~$40,000 | 税前年薪，含管理职责 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (8+ years) | $32,000~$40,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $22,701 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级销售员晋升为高级销售/部门主管，或转向采购、品牌管理、体育营销等岗位。积累经验后可开店创业。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+You can be promoted from junior salesperson to senior sales/department head, or move into roles such as procurement, brand management, or sports marketing. After accumulating experience, you can open a store and start your own business.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - Sports retail growth
 - Omnichannel sales
@@ -63,65 +99,67 @@ Works in sports retail stores or outlets, responsible for customer reception, pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需找到法国雇主并申请工作许可，薪资需达到SMIC以上，非紧缺职业，获批难度中等。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 需证明杰出才能或高薪（年薪≥53,000欧元），销售岗位通常不适用。 |
+| Subclass Salarié (Salarié (Employee)) | Need to find a French employer and apply for a work permit. Salary must be above SMIC. Not a shortage occupation, moderate approval difficulty. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Outstanding talent or high salary (annual salary ≥ 53,000 euros) must be demonstrated; sales positions are usually not eligible. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salesperson in Sports and Leisure Articles？**
-- 对体育产品有热情，喜欢与人交流
-- 具备销售技巧和抗压能力
-- 愿意学习产品知识，提供专业服务
+**Who is suited**
+- Passionate about sports products and enjoys interacting with people
+- Possess sales skills and stress resistance
+- Willing to learn product knowledge and provide professional services
 
-**谁不适合学Salesperson in Sports and Leisure Articles？**
-- 不擅长主动推销或面对拒绝
-- 追求高薪或快速移民者
+**Who is not suited**
+- Not good at proactively selling or facing rejection
+- Those seeking high salary or fast immigration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for sporting goods salespeople?**
+A: Entry-level annual salaries are about 22,000-26,000 euros, with experience rising above 32,000 euros, and management salaries up to 40,000 euros. Bonuses and commissions are common.
+
+**Q: Is it easy for foreigners to immigrate to France through this profession?**
+A: This profession is not in short supply but is relatively difficult to immigrate. Employer-sponsored work visas (Salarié) are required, with low thresholds but fierce competition, making free movement of EU citizens more advantageous.
+
+**Q: Besides sales, what other development paths are there?**
+A: You can be promoted to store manager, regional manager, or move into procurement, brand agency, sports marketing, and more. You can also start a sports goods store.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salesperson in Sports and Leisure Articles属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a sports retail salesperson?**
-答：Junior annual salary is around €22,000-€26,000, experienced up to €32,000+, and management can reach €40,000. Bonuses and commissions are common.
-
-**问：Is it easy for foreigners to immigrate to France through this occupation?**
-答：This occupation is not in shortage, making immigration difficult. Requires employer sponsorship for a Salarié visa; EU citizens have free movement advantage.
-
-**问：Besides sales, what are other career paths?**
-答：Can advance to store manager, area manager, or move to purchasing, brand representation, sports marketing. Can also start your own sports retail business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

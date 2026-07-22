@@ -1,60 +1,94 @@
-# Social Affairs Control and Inspection Officer（Social Affairs Control and Inspection Officer）职业分析 · FR
+# Social Affairs Control and Inspection Officer — career analysis · France
 
-**职业代码：K1502 – Social Affairs Control and Inspection Officer。**
+**Occupation code: K1502 (ROME)**
 
-Responsible for monitoring and inspecting compliance in social welfare, labor law, and social security to ensure public policy implementation.
+Responsible for supervising and inspecting compliance in areas such as social welfare, labor laws, and social insurance, ensuring the implementation of public policies.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 5年（Master） | —（公立大学注册费约250欧元/年，私立高商约15000欧元/年） |
-| 学士 | 3年（Licence） | —（公立大学注册费约170欧元/年） |
+| Master's degree | 5 years (Master) | $0~$15,000 (The registration fee for public universities is about 250 euros per year, while private commercial schools are about 15,000 euros per year) |
+| Bachelor's degree | 3 years (Licence) | $0~$5,000 (The registration fee for public universities is about 170 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会事务检查员资格证书 | 法国社会事务部 | 必备 | 需通过竞争性考试（concours） |
-| 法律或社会学硕士学位 | 大学 | 可选 | 通常为入职门槛 |
+| Social Affairs Inspector Qualification Certificate | French Ministry of Social Affairs | Required | Passing competitive exams (concours) is required. |
+| A master's degree in law or sociology | University | Optional | Usually an entry-level requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。法国持续加强社会事务监管，岗位需求稳定，但竞争激烈。受数字化转型影响，需掌握数据分析工具。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. France continues to strengthen social affairs regulation, with stable job demand but fierce competition. Influenced by digital transformation, mastering data analysis tools is essential.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-8年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$55,000 | Annual pre-tax salary |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级检查员晋升至高级检查员或区域主管，部分转向政策制定或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some paperwork and data verification tasks, but in on-site investigations, complex compliance judgments, and human-machine collaborative supervision, it is amplified, resulting in mixed outcomes for the overall position.
+
+Candidates can be promoted from junior inspectors to senior inspectors or regional supervisors, with some shifting to policy-making or training positions.
+
+**Tasks most exposed to AI:**
+
+- Routine compliance data entry and comparison
+- Generating legal document templates and reviewing formats
+- Standard violations are automatically determined based on historical rules
+- Automatic verification of social security and welfare application information
+
+**Where AI augments the role:**
+
+- AI anomaly detection models are used to precisely identify high-risk enterprises
+- Quickly review large numbers of policy documents through natural language processing
+- AI-assisted on-site inspection evidence association and report generation
+- Real-time data dashboards support dynamic regulatory decision-making
+- Multi-source data fusion drives compliance prediction and early warning
+
+**Human moat:**
+
+- Complex compliance rulings involving multi-party interest coordination
+- Interpersonal communication and gaining trust during on-site investigations
+- Moral judgments on ambiguous policies and marginal cases
+- Flexible emergency response to sudden social incidents
+- Cross-departmental policy coordination and public opinion management
+
+**Skills to build:**
+
+- Data analysis and compliance data visualization
+- AI-assisted risk modeling and anomaly detection
+- Policy text mining and knowledge base construction
+- Human-machine collaborative investigation and electronic evidence collection
+- Public Policy Evaluation and Quantitative Methods
+- AI ethics and algorithmic compliance governance
+
+**Key growth areas:**
 
 - Public policy
 - Compliance
@@ -63,62 +97,64 @@ Responsible for monitoring and inspecting compliance in social welfare, labor la
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能职位，需年薪≥53,836欧元（2024标准） |
-| Subclass Salarié（Salarié） | 常规受雇工作居留，需雇主担保 |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, annual salary ≥ €53,836 (2024 standard) |
+| Subclass Salarié (Salarié) | Regular employment residency requires employer sponsorship |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Social Affairs Control and Inspection Officer？**
-- 具备法律或社会学背景
-- 喜欢公共事务与合规检查
-- 具备良好沟通与分析能力
+**Who is suited**
+- Legal or sociological background
+- Enjoys public affairs and compliance checks
+- Possess good communication and analytical skills
 
-**谁不适合学Social Affairs Control and Inspection Officer？**
-- 不愿面对复杂行政程序
-- 偏好高薪酬行业
+**Who is not suited**
+- Unwilling to face complex administrative procedures
+- Prefer high-paying industries
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level salaries range from about 28,000 to 35,000 euros annually, while seniors can earn up to 55,000 euros.
+
+**Q: Can foreigners engage in this profession?**
+A: It's very difficult. This position typically requires passing the French civil service exam (concours) and has very high language requirements. There are almost no paths for third-country immigrants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Social Affairs Control and Inspection Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salary is around €28,000-€35,000, and senior can reach €55,000.
-
-**问：Can foreigners work in this occupation?**
-答：Very difficult. The position usually requires passing the French civil service exam (concours) and high language proficiency. There is almost no migration path for third-country nationals.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

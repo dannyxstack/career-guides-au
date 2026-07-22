@@ -1,59 +1,92 @@
-# Manager - Building Planning and Supervision, Architecture（Manager - Building Planning and Supervision, Architecture）职业分析 · DE
+# Manager - Building Planning and Supervision, Architecture — career analysis · Germany
 
-**职业代码：3119 – Manager - Building Planning and Supervision, Architecture。**
+**Occupation code: 3119 (KldB)**
 
-Responsible for building project planning, design review, construction supervision, and team management, ensuring compliance with regulations, budget, and quality standards.
+Responsible for project planning, design review, construction supervision, and team management to ensure compliance with regulations, budget, and quality standards.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科/硕士 | 4-5年 | —（德国公立大学学费低，仅少量杂费） |
-| 双元制/进修 | 3-4年 | $500~$3,000（双元制大学半工半读，企业承担部分费用） |
+| Bachelor/Master | 4-5 years | $0~$5,000 (German public universities have low tuition fees, only small administrative fees) |
+| Dual Training/Further Education | 3-4 years | $500~$3,000 (Dual system university work-study program, with company covering part of the costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑师资格（Architektenzulassung） | 各州建筑师协会（Architektenkammer） | 必备 | 受规管职业，需认证学历及实践经验 |
-| 项目管理证书（如PMP） | PMI或GPM | 可选 | 非强制，但显著提升竞争力 |
-| 资质认证（Anerkennung） | 联邦及州主管部门 | 必备 | 海外学历需认证，通常需德语B2以上 |
+| Architect qualification (Architektenzulassung) | State Chambers of Architects (Architektenkammer) | Required | Regulated occupation, requiring certified qualifications and practical experience |
+| Qualification recognition (Anerkennung) | Federal and state competent authorities | Required | Overseas qualifications need assessment, usually German B2 or above |
+| Project Management Certification (e.g., PMP) | PMI or GPM | Optional | Not mandatory, but significantly enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 52,000。德国建筑业持续增长，尤其可再生能源、老旧建筑改造及数字化管理需求旺盛，该职位长期紧缺，就业稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 52,000. Germany's construction industry is growing steadily, especially in renewable energy, renovation of old buildings, and digital management. This profession has long been in high demand, offering stable employment.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 税前年薪，视公司规模与地区浮动 |
-| 中级（3-7年） | $55,000~$75,000 | 含项目管理职责 |
-| 高级（7年以上） | $75,000~$100,000 | 含部门领导或合伙人角色 |
+| Median salary | $62,184 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $42,000~$52,000 | Annual pre-tax salary, varies by company size and region |
+| Mid-level (3–7 years) | $55,000~$75,000 | Includes project management responsibilities |
+| Senior (7+ years) | $75,000~$100,000 | Includes department head or partner role |
+| average salary | $67,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从项目建筑师、施工监理晋升至部门主管或公司合伙人；通过继续教育可转向大型项目管理或建筑法规咨询，发展路径清晰。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Can progress from project architect, construction supervisor to department head or company partner; through continuing education, can move to large project management or building code consulting, clear career path.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Green Building
 - Digitalization
@@ -62,68 +95,67 @@ Responsible for building project planning, design review, construction supervisi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需年薪至少43,800欧元（2024年），紧缺职业可放宽至39,682欧元 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 需学历认证及雇主担保，德语B1或B2要求 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许在德找工作一年，需资格认证 |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €43,800 (2024), may be relaxed to €39,682 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Requires qualification assessment and employer sponsorship, German B1 or B2 requirement |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking in Germany for one year, requires qualification recognition |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manager - Building Planning and Supervision, Architecture？**
-- 有建筑学或土木工程背景的专业人士
-- 具备领导力与项目管理经验者
-- 德语流利、愿意通过资质认证者
-
-**谁不适合学Manager - Building Planning and Supervision, Architecture？**
-- 不擅长团队协调与压力应对者
-- 德语能力较弱且不愿提升者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with a background in architecture or civil engineering
+- Those with leadership and project management experience.
+- Those with fluent German and willingness to obtain professional certification
+
+**Who is not suited**
+- Those not adept at team coordination and stress management
+- Those with weak German skills and unwilling to improve
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for construction planning and supervision managers?**
+A: Entry level approx €42,000-52,000, mid level €55,000-75,000, senior up to €100,000, depending on region, company and experience.
+
+**Q: How can overseas individuals apply for this position?**
+A: Must first have academic qualification recognition (Anerkennung) and pass German B2 or C1. If salary requirements are met, can apply for EU Blue Card or skilled migration visa.
+
+**Q: What are the career advancement paths for this occupation?**
+A: Can progress from project architect to department manager, partner, or transition to senior management roles such as regulatory consultant or large project director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Manager - Building Planning and Supervision, Architecture的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for building planning and supervision managers?**
-答：Entry-level: €42,000-52,000; mid-level: €55,000-75,000; senior: up to €100,000, depending on region, company, and experience.
-
-**问：How can overseas professionals apply for this role?**
-答：You need degree recognition (Anerkennung) and German B2 or C1. If salary requirements are met, you can apply for EU Blue Card or Skilled Immigration Act visa.
-
-**问：What are the career progression paths?**
-答：From project architect to department manager, partner, or move to regulatory consulting, large project director, etc.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

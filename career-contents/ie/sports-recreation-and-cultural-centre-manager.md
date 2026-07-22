@@ -1,61 +1,97 @@
-# Sports, Recreation and Cultural Centre Manager（Sports, Recreation and Cultural Centre Manager）职业分析 · IE
+# Sports, Recreation and Cultural Centre Manager — career analysis · Ireland
 
-**职业代码：1431 – Sports, Recreation and Cultural Centre Manager。**
+**Occupation code: 1431 (ISCO08)**
 
-Manages daily operations of sports, recreation or cultural centres, including facility maintenance, event planning, staff management and budget control, ensuring customer satisfaction and profitability.
+Responsible for managing the daily operations of a sports, recreation or cultural center, including facility maintenance, event planning, staff management and budget control, ensuring customer satisfaction and center profitability.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（每年的学费（欧盟学生较低，非欧盟较高）） |
-| 硕士 | 1-2年（硕士） | $10,000~$20,000（每年的学费，有助于晋升高级管理职位） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (Annual tuition fees (lower for EU students, higher for non-EU students)) |
+| Master's degree | 1-2 years (Master's) | $10,000~$20,000 (annual tuition fees, helpful for advancing to senior management positions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ILAM娱乐管理文凭 | 爱尔兰休闲与娱乐管理协会（ILAM） | 可选 | 行业认可的资格证书，增强就业竞争力 |
-| 急救证书 | 红十字会或类似机构 | 可选 | 许多雇主要求持有有效的急救证书 |
-| 食品卫生证书 | FSAI或类似机构 | 可选 | 如果中心提供餐饮服务，可能需要此证书 |
+| ILAM Diploma in Entertainment Management | Irish Leisure and Recreation Management Association (ILAM) | Optional | Industry-recognised qualifications, enhancing employment competitiveness |
+| First aid certificate | Red Cross or similar organizations | Optional | Many employers require a valid first aid certificate |
+| Food hygiene certificate | FSAI or similar body | Optional | If the center provides catering services, this certificate may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。随着爱尔兰休闲和旅游业的持续增长，对体育、娱乐和文化中心经理的需求保持稳定。政府投资于体育基础设施和社区项目，带动了岗位增加。预计未来五年就业增长率为5-10%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. As Ireland's leisure and tourism sector continues to grow, demand for sports, recreation, and cultural centre managers remains stable. Government investment in sports infrastructure and community projects has driven job creation. Employment growth is projected at 5-10% over the next five years.
 
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，通常包括福利 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，取决于中心和地点 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪，包括大型中心或区域管理职位 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, usually including benefits |
+| Mid-level (3–7 years) | $35,000~$50,000 | Annual salary before tax, depending on center and location |
+| Senior (7+ years) | $50,000~$70,000 | Annual salary before tax, including positions in large centers or regional management |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级经理可通过积累经验和专业培训晋升为高级经理或区域总监。也可转向娱乐、旅游或活动管理等相关领域。获得行业认证如ILAM Diploma可加速职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sports, entertainment, and cultural center managers will face a mixed situation: administrative and scheduling tasks are automated, but AI can enhance marketing and event planning; human supervision, emergency handling, and community relationship maintenance remain core moats.
+
+Junior managers can advance to senior manager or regional director through experience and professional training. They can also transition to related fields such as entertainment, tourism, or event management. Obtaining industry certifications like the ILAM Diploma can accelerate career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate employee schedules using AI scheduling systems
+- Handle customer appointments, inquiries, and complaints via AI chatbots
+- Analyze historical data with AI to predict event attendance and revenue
+- Automatically generate facility maintenance reminders and routine reports
+- Using AI tools to optimize venue energy consumption and cleaning plans
+
+**Where AI augments the role:**
+
+- Analyze member data and preferences with AI to assist in planning personalized activities and courses
+- Using AI marketing tools to automate social media posts, ad placements, and performance analysis
+- AI simulates different pricing strategies to assist budget and revenue optimization decisions
+- Monitor customer feedback through AI sentiment analysis to identify service issues early
+- AI-assisted writing of promotional copy, event descriptions, and internal newsletters
+
+**Human moat:**
+
+- On-site decision-making skills for handling emergencies (such as equipment failure, customer conflicts)
+- Build long-term trust with communities, sponsors, artists, etc.
+- Non-quantifiable intuitive judgment on cultural sensitivity and venue atmosphere
+- Interpersonal leadership for team morale and cross-departmental collaboration
+- Human innovation for creatively planning unique event experiences
+
+**Skills to build:**
+
+- Learn to use AI event management software (e.g., Eventbrite integration) and scheduling tools
+- Basic data analysis and data visualization skills (e.g., Excel, Tableau)
+- Digital marketing strategy and AI advertising tool operation
+- Customer Relationship Management (CRM) system (e.g., Salesforce) configuration
+- First responder certification in emergencies (first aid, firefighting)
+- Agile project management or lean management methods
+
+**Key growth areas:**
 
 - Event Management
 - Health & Wellness
@@ -64,65 +100,67 @@ Manages daily operations of sports, recreation or cultural centres, including fa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主提供年薪至少30,000欧元的合同。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 此职业不在紧缺名单上，不适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, requires employer to provide contract with annual salary of at least €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is not on the shortage list and is not applicable. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports, Recreation and Cultural Centre Manager？**
-- 热爱体育和娱乐活动，具备领导力和组织能力者
-- 有客户服务和活动策划经验的人群
-- 希望在社区服务或休闲行业发展的人
+**Who is suited**
+- Passionate about sports and entertainment activities, with leadership and organizational skills.
+- People with customer service and event planning experience
+- People who want to develop in the community services or leisure industry
 
-**谁不适合学Sports, Recreation and Cultural Centre Manager？**
-- 不喜欢应对突发情况和解决客户投诉的人
-- 不擅长人员管理和预算控制的人
+**Who is not suited**
+- People who dislike handling emergencies and resolving customer complaints
+- People who are not good at personnel management and budget control
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for Managers of Sports, Recreation, and Cultural Centres in Ireland?**
+A: Entry-level managers earn approximately €28,000-35,000 per year, mid-level about €35,000-50,000, and senior up to €70,000.
+
+**Q: How can non-EU citizens obtain a visa for such jobs?**
+A: Can apply through a General Employment Permit, requiring an employer-sponsored contract with an annual salary of at least €30,000. This occupation is not on the Critical Skills Employment Permit list.
+
+**Q: What qualifications are needed to become a manager?**
+A: Typically requires a bachelor's or master's degree in sports management, leisure management, or a related field. Industry certifications such as ILAM diploma are also helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sports, Recreation and Cultural Centre Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Sports, Recreation and Cultural Centre Managers in Ireland?**
-答：Entry-level managers earn around €28,000-€35,000, mid-level €35,000-€50,000, and senior up to €70,000 annually.
-
-**问：How can non-EU citizens get a visa for this job?**
-答：Apply for a General Employment Permit with a job offer of at least €30,000. This occupation is not on the Critical Skills list.
-
-**问：What qualifications are needed to become a manager?**
-答：Typically a bachelor's or master's in sports management, leisure management or related field. Professional certifications like ILAM diploma are beneficial.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

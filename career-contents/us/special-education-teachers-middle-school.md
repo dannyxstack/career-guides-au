@@ -1,59 +1,93 @@
-# Special Education Teachers, Middle School（Special Education Teachers, Middle School）职业分析 · 美国
+# Special Education Teachers, Middle School — career analysis · United States
 
-**职业代码：25-2057 – Special Education Teachers, Middle School。**
+**Occupation code: 25-2057 (SOC)**
 
-Teach academic, social, and life skills to middle school students with learning, emotional, or physical disabilities, including those with visual/hearing impairments and intellectual disabilities.
+Teach academic, social, and life skills to secondary school students with learning, emotional, or physical disabilities. Includes teachers working with blind or visually impaired, deaf or hard of hearing, and intellectually disabled students.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学年均学费约1万美元，私立约3.5万） |
-| 硕士学位 | 2年 | $30,000~$60,000（许多州要求特殊教育硕士或完成教师资格认证） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition at public universities is about USD 10,000, private around USD 35,000.) |
+| Master's degree | 2 years | $30,000~$60,000 (Many states require a master's degree in special education or completion of teacher certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特殊教育教师资格证 | 州教育委员会 | 必备 | 各州要求通过Praxis考试及背景审查 |
-| 学士学位 | 认可大学 | 必备 | 特殊教育或相关领域 |
-| 硕士学历（可选） | 认可大学 | 可选 | 提升竞争力或满足某些州要求 |
+| Special education teaching certification | State Board of Education | Required | Each state requires passing the Praxis exams and a background check |
+| Bachelor's degree | Recognised university | Required | Special education or related field |
+| Master's degree (optional) | Recognised university | Optional | To boost competitiveness or meet certain state requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。美国特殊教育教师需求稳定，受联邦法律保障。由于特殊需要学生人数增加，预计就业增长4%（2019-2029），与平均水平相当。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. Demand for special education teachers in the US is stable, protected by federal law. Due to an increase in students with special needs, employment is projected to grow 4% (2019-2029), about average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 公立学校起薪 |
-| 中级（4-9年） | $55,000~$70,000 | 含额外培训和经验 |
-| 高级（10年以上） | $70,000~$90,000 | 含高级学位和行政职责 |
+| Median salary | $66,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary at public schools |
+| Intermediate (4-9 years) | $55,000~$70,000 | Includes additional training and experience |
+| Senior (10+ years) | $70,000~$90,000 | Includes advanced degree and administrative duties |
+| average salary | $73,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从普通教师晋升为特殊教育协调员、特殊教育主管或校长。也可通过进修获得博士学历后从事大学教师或研究员工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
+
+Can be promoted from regular teacher to special education coordinator, special education supervisor, or principal. Also, can pursue a doctoral degree to become a university teacher or researcher.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
 
 - Special Education Demand
 - Inclusive Education
@@ -62,68 +96,67 @@ Teach academic, social, and life skills to middle school students with learning,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于持学士以上学位、受雇于美国学校的申请人；需通过抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有硕士以上学位或特殊能力的教师；需PERM劳工认证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保的永久居留申请，需证明无法招聘到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to applicants with bachelor's or higher degree employed by U.S. schools; requires lottery |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to teachers with a master's degree or higher or special abilities; requires PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residence applications require proof that no qualified US workers can be recruited. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teachers, Middle School？**
-- 有耐心、同理心且善于沟通的人
-- 有特殊教育背景或对残障学生有热情的人
-- 追求稳定工作且适应学校环境的人
-
-**谁不适合学Special Education Teachers, Middle School？**
-- 不适应情绪化管理或高压环境的人
-- 寻求高薪职业或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and good communicators
+- People with special education background or passion for students with disabilities
+- People seeking stable work and suited to a school environment
+
+**Who is not suited**
+- People who are not comfortable with emotional management or high-pressure environments.
+- People seeking high-paying careers or rapid promotion.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a middle school special education teacher?**
+A: According to BLS, the average annual salary in 2022 was approximately USD 65,000, entry-level about USD 45,000, and senior about USD 90,000.
+
+**Q: What is the best visa pathway for international applicants to become special education teachers in the US?**
+A: Most commonly H-1B visa (with lottery), but schools can also apply for EB-2 green cards (PERM). Some schools are cap-exempt (e.g., university-affiliated schools).
+
+**Q: What certification is needed to become a special education teacher?**
+A: Must hold a state-issued special education teaching license, usually requiring a bachelor's degree and passing the Praxis exam. Some states require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Special Education Teachers, Middle School的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a middle school special education teacher?**
-答：According to BLS, the average annual wage was about $65,000 in 2022; entry-level around $45,000, senior up to $90,000.
-
-**问：What is the best visa path for an international applicant to become a US special education teacher?**
-答：Most common is H-1B (subject to lottery), but schools can sponsor EB-2 green card via PERM. Some schools are cap-exempt (e.g., university-affiliated).
-
-**问：What certification is required to become a special education teacher?**
-答：Must hold a state-issued special education teaching license, typically requiring a bachelor's degree and Praxis exams. Some states require a master's.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

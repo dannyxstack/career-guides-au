@@ -1,62 +1,96 @@
-# Watch and Clock Repairers（Watch and Clock Repairers）职业分析 · 美国
+# Watch and Clock Repairers — career analysis · United States
 
-**职业代码：49-9064 – Watch and Clock Repairers。**
+**Occupation code: 49-9064 (SOC)**
 
-Watch and clock repairers repair, clean, and adjust mechanisms of timing instruments such as watches and clocks, including watchmakers and mechanical timepiece repairers.
+Watch and clock repairers repair, clean, and adjust mechanical structures of watches, clocks, and other timepieces, including watchmakers, horology technicians, and mechanical timer servicers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/同等学历 | 4年 | —（公立高中免费） |
-| 职业培训或学徒制 | 2-4年 | $5,000~$20,000（技术学校学费或学徒期间工具费用） |
-| 认证课程（如AWCI） | 1-2年 | $3,000~$15,000（专业认证课程费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational training or apprenticeship. | 2-4 years | $5,000~$20,000 (technical school tuition or tool costs during apprenticeship) |
+| Certification courses (e.g., AWCI) | 1-2 years | $3,000~$15,000 (Cost of professional certification courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CW21认证 | 美国钟表学会(AWCI) | 可选 | Certified Watchmaker 21，行业标准认证 |
-| 高中文凭或同等学历 | 美国教育部认可学校 | 必备 | 基础入学要求 |
-| 在职培训或学徒结业 | 雇主或行业协会 | 可选 | 通常需2-4年实践培训 |
+| High school diploma or equivalent | Schools accredited by the US Department of Education | Required | Basic entry requirements |
+| CW21 certification | American Watchmakers-Clockmakers Institute (AWCI) | Optional | Certified Watchmaker 21, industry standard certification |
+| Completion of on-the-job training or apprenticeship | Employer or industry association | Optional | Usually requires 2-4 years of practical training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 6,800。美国劳工统计局预计2023-2033年该职业就业增长约4%，低于平均水平。受智能手表冲击，传统钟表维修需求下降，但高端机械表维修仍有市场。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 6,800. The US Bureau of Labor Statistics projects about 4% employment growth for this occupation from 2023-2033, below average. Impacted by smartwatches, traditional watch repair demand declines, but high-end mechanical watch repair still has market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 学徒或维修助手 |
-| 中级（3-8年） | $38,000~$55,000 | 有经验技师 |
-| 高级（8年以上） | $55,000~$80,000 | 资深技师或店主 |
+| Median salary | $67,230 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$38,000 | Apprentice or repair assistant |
+| Mid-level (3–8 years) | $38,000~$55,000 | Experienced technician |
+| Senior (8+ years) | $55,000~$80,000 | Senior technician or shop owner. |
+| average salary | $70,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 从学徒或维修助手起步，积累经验后可成为高级技师，部分人可开店自主经营。专业认证如CW21有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall risk for watch repairers is moderate to optimistic: AI/automation will replace some diagnostic and documentation work, but precision manual work and customer trust remain core moats. Entry-level roles narrow due to automation of low-end repairs, but high-end custom and complex restoration demand grows.
+
+Start as an apprentice or maintenance assistant, accumulate experience to become a senior technician, some may open their own business. Professional certifications like CW21 aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated inspection machines replace manual fault diagnosis (e.g., using acoustic/vibration sensors to analyze movement issues)
+- Smartwatch software updates and reset operations are done by users themselves
+- Automated standardized part replacement process (e.g., automatic movement disassembly)
+- Maintenance records and customer management systems automatically generate reports via AI
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex mechanical faults (e.g., comparing worn parts via 3D scanning)
+- Augmented reality overlays repair steps, reducing manual time flipping through manuals
+- Online appointment and client communication system improves service efficiency
+- 3D printing capability for spare parts makes rare components more accessible
+- Data analysis optimizes maintenance processes and inventory management.
+
+**Human moat:**
+
+- Manual precision adjustment (e.g., balance wheel balancing, escapement adjustment)
+- Specialized techniques and material knowledge for antique clock restoration
+- Build trust through face-to-face communication with clients, handle high-end custom requests
+- Deep understanding of mechanical principles and innovative repair solutions
+
+**Skills to build:**
+
+- Adjustment of complex mechanical watch functions (perpetual calendar, tourbillon)
+- 3D modeling and printing (for making replacement parts)
+- Smartwatch basic system diagnostics and firmware operations
+- Use of AR-assisted maintenance tools
+- Customer relationship management and digital marketing
+- Microelectronic soldering and circuit repair (for hybrid watches)
+
+**Key growth areas:**
 
 - Declining demand
 - Smartwatch impact
@@ -65,66 +99,68 @@ Watch and clock repairers repair, clean, and adjust mechanisms of timing instrum
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常不适用，因该职业通常不需本科学位，但特殊情况下可申请 |
-| Subclass O-1（Extraordinary Ability） | 仅对少数顶尖制表师开放，需证明非凡能力 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极难获得，因雇主需证明无法找到合格美国工人 |
+| Subclass H-1B (Specialty Occupations) | Usually not applicable as the occupation typically does not require a bachelor's degree, but may apply in special cases |
+| Subclass O-1 (Extraordinary Ability) | Only open to a few top watchmakers, requiring proof of extraordinary ability |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Extremely difficult to obtain, as employers must prove inability to find qualified U.S. workers |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Watch and Clock Repairers？**
-- 对精密机械有热情，耐心细致者
-- 喜欢独立工作、手工艺和传统技艺者
-- 愿意接受长期学徒制培训者
+**Who is suited**
+- Passionate about precision machinery, patient and detail-oriented
+- Those who like independent work, handicrafts and traditional skills
+- Those willing to accept long-term apprenticeship training
 
-**谁不适合学Watch and Clock Repairers？**
-- 追求高薪和快速晋升者
-- 不擅长手工精细操作者
+**Who is not suited**
+- Those pursuing high salary and rapid advancement
+- Those not skilled in fine manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for clock repairers?**
+A: According to BLS data, the median annual salary for watch repairers in the US in 2023 was about $42,000; entry-level around $30,000; senior can reach $80,000. However, due to the niche market, income growth potential is limited.
+
+**Q: Is it easy for watch repairers to immigrate to the US?**
+A: Very difficult. The occupation is not considered a professional role; H-1B visas are almost unavailable, green cards require PERM labor certification, and it is hard for employers to prove labor shortages; usually only through investment immigration or family reunification.
+
+**Q: How to become a qualified watch repairer?**
+A: Typically requires a high school diploma followed by vocational training or apprenticeship (2-4 years) and obtaining AWCI's CW21 certification. Continuous learning of new technologies aids career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Watch and Clock Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for watch and clock repairers?**
-答：According to BLS, the median annual wage in 2023 was about $42,000, with entry-level around $30,000 and experienced up to $80,000, but limited by a niche market.
-
-**问：Is it easy for watch repairers to immigrate to the US?**
-答：Very difficult. The occupation is not considered a specialty occupation; H-1B visa is rarely possible; green card via PERM is hard as employers cannot prove labor shortage. Usually only through investment or family-based immigration.
-
-**问：How to become a qualified watch and clock repairer?**
-答：Typically requires a high school diploma followed by vocational training or apprenticeship (2-4 years) and obtaining AWCI's CW21 certification. Continuous learning of new techniques helps career advancement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

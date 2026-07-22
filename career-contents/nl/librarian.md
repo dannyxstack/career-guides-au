@@ -1,60 +1,96 @@
-# Librarian（Librarian）职业分析 · NL
+# Librarian — career analysis · Netherlands
 
-**职业代码：2622 – Librarian。**
+**Occupation code: 2622 (ISCO08)**
 
-Manage library resources, organize and retrieve information, and provide user services to support learning and research.
+Responsible for the management, organization, and retrieval of library resources, providing information services and user support, promoting knowledge acquisition and reading culture.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 应用科学大学本科（HBO） | 4年（本科） | $2,000~$4,000（学费因学校和公民身份而异） |
-| 研究型大学硕士（WO） | 1-2年（硕士） | $2,200~$4,500（硕士项目学费） |
+| Bachelor's degree from a University of Applied Sciences (HBO) | 4 years (bachelor's degree) | $2,000~$4,000 (Tuition varies by school and citizenship status) |
+| Research university master's (WO) | 1-2 years (Master's) | $2,200~$4,500 (Master's program tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆学或信息科学学位 | 荷兰应用科学大学或研究型大学 | 必备 | 通常要求HBO或WO学历 |
-| 数字技能证书 | NBD/Biblion或行业协会 | 可选 | 如数字馆藏管理课程，非强制但加分 |
+| Library Science or Information Science degree | University of Applied Sciences or research university in the Netherlands | Required | Typically requires HBO or WO qualification |
+| Digital Skills Certificate | NBD/Biblion or industry association | Optional | Such as digital collection management courses, not mandatory but a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。荷兰图书馆行业相对稳定，数字化转型带来新需求，但公共预算压力可能限制岗位增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The Dutch library industry is relatively stable, with digital transformation bringing new demands, but public budget pressures may limit job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基层馆员晋升为部门主管或专业馆员（如数字馆藏、数据管理），也可向信息咨询或档案管理领域发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance librarians' capabilities in information retrieval, cataloguing, and advisory services, freeing them from repetitive tasks to focus on high-value user services, but job restructuring due to automation of some tasks needs attention.
+
+Can advance from entry-level librarian to department head or specialist librarian (e.g., digital collections, data management), or move into information consulting or archival management.
+
+**Tasks most exposed to AI:**
+
+- Basic cataloging and classification (automatic metadata generation)
+- General Reference Consultation (AI Chatbot)
+- Book reservation and circulation management (self-service system)
+- Document delivery and interlibrary loan (automated process)
+- Basic information retrieval services (semantic search alternative)
+
+**Where AI augments the role:**
+
+- Deep Information Retrieval and Analysis (AI-assisted precise searching)
+- User behavior analysis and personalized recommendations
+- Digital resource curation and knowledge graph construction.
+- Research support and data management (AI tool integration).
+- Information Literacy Training (AI-driven interactive learning)
+
+**Human moat:**
+
+- Understanding and empathy for complex user needs
+- Cross-domain information integration and critical evaluation
+- Ethical decision-making and privacy protection responsibilities.
+- Creative Planning for Reading Promotion and Cultural Activities
+- Collection Development Strategy and Budget Management
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R)
+- Application of AI tools (e.g., natural language processing, recommendation systems)
+- Metadata standards and digital curation
+- User research and experience design
+- Digital copyright law and ethics compliance
+- Project management and change leadership
+
+**Key growth areas:**
 
 - Digital transformation
 - Data management
@@ -63,62 +99,64 @@ Manage library resources, organize and retrieve information, and provide user se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟公民，需有工作合同且工资达到门槛 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业的留学生，毕业后一年内找工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU citizens; requires a work contract and meeting the salary threshold |
+| Subclass Orientation Year (Orientation Year) | For international students who graduated in the Netherlands, find a job within one year after graduation |
+
+**PR friendliness: medium-high (★★★½☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Librarian？**
-- 热爱阅读与知识分享
-- 善于与人沟通并提供帮助
-- 注重细节并有条理
+**Who is suited**
+- Passion for reading and knowledge sharing
+- Good at communicating with people and providing assistance
+- Detail-oriented and organized
 
-**谁不适合学Librarian？**
-- 不喜安静或规律性工作
-- 对数字技术不感兴趣
+**Who is not suited**
+- Dislikes quiet or routine work
+- Not interested in digital technology
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for librarians in the Netherlands?**
+A: Entry-level annual salary around 28,000-35,000 euros, mid-to-senior level up to 45,000-55,000 euros, with slight variations between public and academic libraries.
+
+**Q: How can non-EU citizens become librarians in the Netherlands?**
+A: Available through high-skilled migration visa (requiring employer sponsorship) or by pursuing the Netherlands' orientation year for graduates visa pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Librarian属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for librarians in the Netherlands?**
-答：Entry-level salary is around €28,000-€35,000, mid-career €35,000-€45,000, and senior €45,000-€55,000 per year.
-
-**问：How can non-EU citizens become librarians in the Netherlands?**
-答：Through the Highly Skilled Migrant visa (with employer sponsorship) or the Orientation Year visa for graduates.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

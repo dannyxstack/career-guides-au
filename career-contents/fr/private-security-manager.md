@@ -1,59 +1,95 @@
-# Private Security Manager（Private Security Manager）职业分析 · FR
+# Private Security Manager — career analysis · France
 
-**职业代码：K2502 – Private Security Manager。**
+**Occupation code: K2502 (ROME)**
 
-Private Security Manager designs, implements, and oversees security strategies, manages security teams, and ensures the safety of people and property.
+Private security managers are responsible for designing, implementing, and overseeing security strategies, managing security teams, and ensuring the safety of personnel and property.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年 | 2年（BTS） | $3,000~$8,000（公立学校BTS费用较低，私立约8000欧元） |
-| 本科 | 3年（Licence） | $5,000~$12,000（可申请学徒制，企业承担部分学费） |
+| High school graduation + 2 years | 2 Years (BTS) | $3,000~$8,000 (Public BTS schools have lower fees, while private ones cost about 8,000 euros) |
+| Bachelor's degree | 3 years (Licence) | $5,000~$12,000 (Apprenticeship programs can be applied, with companies covering part of the tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业保安资格证书（CNAPS认证） | 法国国家私人安保活动委员会（CNAPS） | 必备 | 必须持有CNAPS颁发的职业卡（carte professionnelle） |
-| BTS Management des unités commerciales 或类似学历 | 法国教育部 | 可选 | 通常要求BTS或Licence专业背景 |
-| SSIAP（消防与安全）资质 | APAVE等认证机构 | 可选 | 对管理大型设施安全有加分 |
+| Professional Security Qualification Certificate (CNAPS Certification) | French National Committee for Private Security Activities (CNAPS) | Required | Must hold a CNAPS profession card (carte professionnelle) |
+| BTS Management des unités commerciales or a similar degree | French Ministry of Education | Optional | Usually, a professional background in BTS or Licence is required |
+| SSIAP (Fire and Safety) qualification | APAVE and other certification bodies | Optional | Points are added for managing the safety of large facilities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。法国安保行业持续增长，受体育赛事、大型活动及企业安全需求推动，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. The French security industry continues to grow, driven by sporting events, large-scale events, and corporate security needs, with stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，含奖金及补贴 |
-| 中级（4-7年） | $36,000~$45,000 | 税前年薪，取决于公司规模 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，区域经理或总监级别 |
+| Median salary | $40,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$36,000 | Pre-tax annual salary, including bonuses and subsidies |
+| Mid-level (4-7 years) | $36,000~$45,000 | Pre-tax annual salary depends on the size of the company |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, regional manager or director level |
+| average salary | $26,460 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从保安员晋升至团队主管、区域经理，最终成为安全总监或企业安全顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some monitoring and reporting tasks for private security managers can be automated by AI, but decision-making, interpersonal coordination, and legal responsibility requirements make overall job risk controllable.
+
+You can advance from security guard to team leader, regional manager, and finally become a security director or corporate security consultant.
+
+**Tasks most exposed to AI:**
+
+- Real-time video surveillance analysis (AI automatically detects abnormal behavior)
+- Safety report generation and data aggregation
+- Basic Patrol Route Scheduling (Algorithm Optimization)
+- Visitor Identity Authentication Assistance (Facial Recognition System)
+- Routine initial process for security incident response (automatic notification and recording)
+
+**Where AI augments the role:**
+
+- Integration of intelligent monitoring systems and optimization of strategies
+- Data-driven forecasting in security risk assessment
+- Team Training Program Design (Using AI to Simulate Scenarios)
+- Emergency response coordination (AI provides real-time information)
+- Customized analysis of customer security requirements
+
+**Human moat:**
+
+- Formulation and adjustment of complex security strategies
+- On-site command and decision-making during times of crisis
+- Team management and personnel motivation
+- Communicate with clients and senior law enforcement officials
+- Legal compliance assessment and responsibility assumption
+
+**Skills to build:**
+
+- AI monitoring system operation and configuration
+- Data analysis and security intelligence interpretation
+- Cybersecurity Foundation
+- Crisis management and communication skills
+- Cross-departmental coordination capabilities
+- Privacy regulations and compliance knowledge
+
+**Key growth areas:**
 
 - Cybersecurity integration
 - Event security
@@ -62,68 +98,67 @@ Private Security Manager designs, implements, and oversees security strategies, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于紧缺行业的高技能人才，有效期4年，可续签。 |
-| Subclass Salarié（Employee (Work Permit)） | 需雇主担保，通常获得1年居留许可，可续签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 面向年薪达阈值的高技能非欧盟公民，有效期1-4年。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents in scarce industries, valid for 4 years, with renewable options. |
+| Subclass Salarié (Employee (Work Permit)) | Employer sponsorship is required; usually a one-year residence permit is granted, which can be renewed. |
+| Subclass Carte bleue UE (EU Blue Card) | For high-skilled non-EU citizens who meet the annual salary threshold, valid for 1-4 years. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Private Security Manager？**
-- 具有领导力和危机处理能力的人
-- 对安全管理有浓厚兴趣，善于协调与沟通
-- 愿意持续学习安保法规与技术的人
-
-**谁不适合学Private Security Manager？**
-- 缺乏团队管理经验的人
-- 无法承受夜间轮班或高压工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with leadership and crisis management skills
+- Strong interest in safety management, skilled in coordination and communication
+- People willing to continuously learn security regulations and technologies
+
+**Who is not suited**
+- People lacking team management experience
+- People who cannot endure night shifts or high-pressure work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for private security managers?**
+A: Junior manager annual salary approximately €30,000-36,000, mid to senior can reach over €60,000.
+
+**Q: How can foreigners immigrate to France through the Private Security Manager career?**
+A: You can apply for Passeport Talent or EU Blue Card, which requires employer sponsorship and meets academic and salary requirements. CNAPS certification is a mandatory condition.
+
+**Q: What qualification requirements does France have for private security managers?**
+A: You must hold a CNAPS professional card, usually a BTS or Licence academic background, with an SSIAP certificate as a bonus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Private Security Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Private Security Manager?**
-答：Entry-level managers earn around €30,000-36,000 annually, while senior roles can exceed €60,000.
-
-**问：How can a foreigner immigrate to France as a Private Security Manager?**
-答：Via Talent Passport or EU Blue Card with employer sponsorship, meeting education and salary thresholds, and mandatory CNAPS certification.
-
-**问：What qualifications are required for a Private Security Manager in France?**
-答：A CNAPS professional card is mandatory, usually with a BTS or Licence degree; SSIAP certification is a plus.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

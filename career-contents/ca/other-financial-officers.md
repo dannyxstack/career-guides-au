@@ -1,59 +1,95 @@
-# Other financial officers（Other financial officers）职业分析 · 加拿大
+# Other financial officers — career analysis · Canada
 
-**职业代码：11109 – Other financial officers。**
+**Occupation code: 11109 (NOC)**
 
-Trust Officer corresponds to 'Other financial officers' in Canada, managing trust accounts, estate planning, and trust fund operations. This occupation is eligible for Express Entry or PNP immigration, requiring ECA and language tests.
+Trust officers in Canada correspond to 'Other Financial Officers' and are responsible for managing trust accounts, handling estate planning, and trust fund operations. This occupation can lead to immigration through Express Entry or Provincial Nominee Programs (PNP), requiring an ECA credential assessment and language test results.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（商科、金融、法律专业，国际生学费较高） |
-| 硕士 | 2年 | $30,000~$60,000（金融或工商管理硕士(MBA)有竞争力） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Business, finance, law majors; higher international student tuition fees.) |
+| Master's degree | 2 years | $30,000~$60,000 (A master's degree in finance or business administration (MBA) is competitive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES等指定机构 | 必备 | 移民必备，评估海外学历 |
-| CSC证书 | 加拿大证券协会(CSI) | 可选 | 加拿大证券课程，部分雇主要求 |
-| IELTS/TEF | IELTS/TEF | 必备 | CLB 7+为Express Entry门槛 |
+| ECA (Educational Credential Assessment). | Designated bodies such as WES | Required | Essential for immigration, assess overseas qualifications |
+| IELTS/TEF | IELTS/TEF | Required | CLB 7+ is the threshold for Express Entry. |
+| CSC Certificate | Canadian Securities Institute (CSI) | Optional | Canadian Securities Course, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：温和（★★★½☆）。** 全国从业人数约 15,000。加拿大金融服务业稳定增长，信托相关岗位需求温和。人口老龄化推动遗产规划需求，但竞争激烈。安大略省和不列颠哥伦比亚省机会较多，预计未来十年就业增长率为5-10%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Canada's financial services sector is growing steadily, with moderate demand for trust-related roles. An aging population drives estate planning demand, but competition is intense. Opportunities are more abundant in Ontario and British Columbia, with an expected 5-10% employment growth over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 多伦多、温哥华略高 |
-| 中级（3-7年） | $60,000~$85,000 | 持有CSC等认证可提升薪资 |
-| 高级（7年以上） | $85,000~$120,000 | 管理岗位或私人银行可达更高 |
+| Median salary | $79,997 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Slightly higher in Toronto and Vancouver |
+| Mid-level (3–7 years) | $60,000~$85,000 | Holding certifications such as CSC can increase salary |
+| Senior (7+ years) | $85,000~$120,000 | Management roles or private banking can yield higher returns |
+| average salary | $89,440 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 信托专员可晋升为高级信托官员、信托部门经理或私人银行财富顾问。积累经验后，可转向家族办公室或高端财富管理，年薪可达10万加元以上。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on trust officers is mixed: automation will take over repetitive tasks such as document processing and compliance monitoring, but high-value work like complex estate planning and client emotional communication still requires humans; job roles are upgrading towards client advisory functions.
+
+Trust officers can advance to senior trust officer, trust department manager, or private bank wealth advisor. With experience, can move to family offices or high-end wealth management, with annual salary above CAD 100,000.
+
+**Tasks most exposed to AI:**
+
+- Trust account recording and transaction reconciliation
+- Compliance document review and report generation
+- Preliminary asset allocation calculations and tax impact simulations
+- Automatic replies to routine customer inquiries
+- Archiving and retrieval of heritage documents
+
+**Where AI augments the role:**
+
+- AI-assisted tax optimisation scheme design for complex estate planning
+- Use predictive models to assess investment risks and asset allocation recommendations
+- Automatically generate client financial summaries and visualisation reports
+- Intelligent matching of client needs with trust products
+- Monitor regulatory changes in real-time and prompt compliance adjustments
+
+**Human moat:**
+
+- Communication skills to build trust with clients and handle sensitive family matters
+- Comprehensive decision-making involving multiple areas such as law, tax, and investment
+- Flexible handling of unstructured, ambiguous family situations and special requirements
+- Accountability and ethical judgment under regulatory risk
+- Strategic planning for cross-generational wealth transfer
+
+**Skills to build:**
+
+- Trust and estate-related laws and regulations (e.g., Canadian tax law)
+- Fundamentals of financial planning and investment analysis
+- AI tool use (e.g., natural language processing, automated workflows)
+- Data analysis and visualization (Python, Tableau, etc.)
+- Advanced Communication and Customer Relationship Management
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Financial Services
 - Wealth Management
@@ -62,68 +98,67 @@ Trust Officer corresponds to 'Other financial officers' in Canada, managing trus
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合有加拿大工作经验或海外技术人才，需满足打分要求 |
-| Subclass PNP（Provincial Nominee Program） | 安省、BC省、阿省等有提名通道，要求雇主Job Offer |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，条件相对宽松 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for those with Canadian work experience or overseas skilled talent; must meet points requirements. |
+| Subclass PNP (Provincial Nominee Program) | Ontario, BC, Alberta, etc. have nomination streams requiring a job offer from an employer. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, relatively flexible conditions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other financial officers？**
-- 具备财务、法律或商科背景，希望在加拿大从事专业金融服务的人士
-- 拥有信托、遗产规划或财富管理工作经验，寻求国际发展机会
-- 语言能力强（雅思7+），能快速适应加拿大职场文化
-
-**谁不适合学Other financial officers？**
-- 不喜欢与人沟通、处理复杂法律文书的人
-- 追求快速移民，不愿投入时间考取加拿大本地证书的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a background in finance, law, or business, wishing to engage in professional financial services in Canada
+- Experience in trust, estate planning, or wealth management, seeking international opportunities
+- Strong language skills (IELTS 7+), able to quickly adapt to Canadian workplace culture
+
+**Who is not suited**
+- Those who dislike communicating with people or handling complex legal documents
+- People seeking fast immigration who are unwilling to spend time obtaining a Canadian local certificate
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for trust officers in Canada?**
+A: Entry-level salary around CAD 45,000-60,000, mid-level 60,000-85,000, senior 85,000-120,000. Higher with CSC certification or in private banking.
+
+**Q: How can a trust officer immigrate to Canada?**
+A: Can immigrate through Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., Ontario, BC). Requires ECA for education, language test (CLB 7+), local experience or employer offer advantageous.
+
+**Q: Is a Canadian local certificate required?**
+A: Not mandatory for immigration, but employers often require certifications such as CSC (Canadian Securities Course) after hiring; it is recommended to obtain them in advance to enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 温和（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other financial officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Trust Officers in Canada?**
-答：Entry-level salary is around CAD 45,000-60,000, mid-level CAD 60,000-85,000, and senior CAD 85,000-120,000. Certifications like CSC can increase earnings.
-
-**问：How can a Trust Officer immigrate to Canada?**
-答：Via Express Entry (FSW/CEC) or PNP (e.g., Ontario, BC). Requires ECA, language score (CLB 7+). Local experience or job offer helps.
-
-**问：Is a Canadian local certification required?**
-答：Not mandatory for immigration, but employers often require CSC (Canadian Securities Course). It's recommended to obtain it beforehand.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

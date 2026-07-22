@@ -1,60 +1,96 @@
-# Economics Teachers, Postsecondary（Economics Teachers, Postsecondary）职业分析 · 美国
+# Economics Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1063 – Economics Teachers, Postsecondary。**
+**Occupation code: 25-1063 (SOC)**
 
-Teach economics courses at postsecondary institutions, often combining teaching with research to develop students' economic analysis skills.
+Teaches economics courses in higher education institutions, typically combining teaching and research to develop students' economic analysis skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 经济学博士学位 | 5-6年 | $120,000~$200,000（含学费和生活费，公立大学较低） |
-| 硕士学位（过渡） | 2年 | $40,000~$80,000（部分博士项目直接录取硕士） |
-| 本科学位 | 4年 | $80,000~$160,000（经济学或相关领域） |
+| PhD in Economics | 5-6 years. | $120,000~$200,000 (Including tuition and living expenses, lower at public universities) |
+| Master's degree (transitional) | 2 years | $40,000~$80,000 (Some PhD programs directly admit master's graduates) |
+| Bachelor's degree | 4 years | $80,000~$160,000 (Economics or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认可大学 | 必备 | 经济学或密切相关领域，研究能力重要 |
-| 教学经验 | 高等教育机构 | 可选 | 助教或独立授课经历 |
-| 研究发表 | 学术期刊 | 可选 | 同行评审论文是晋升关键 |
+| Doctoral degree (PhD) | Recognised university | Required | Economics or closely related field, research ability important |
+| Teaching experience | Higher education institutions | Optional | Experience as a teaching assistant or independent teaching |
+| Research publications | Academic journals | Optional | Peer-reviewed papers are key to promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 14,500。美国就业增长稳定，年均约6%增长率，得益于高等教育需求持续。博士学位要求严格，但终身教职竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,500. US employment growth is stable, with an annual growth rate of about 6%, driven by sustained demand for higher education. PhD requirements are strict, but tenure-track competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$85,000 | 助理教授，通常9个月合同 |
-| 中级（4-10年） | $80,000~$120,000 | 副教授，含暑期研究补贴 |
-| 高级（10年以上） | $110,000~$180,000 | 正教授，名校可达更高 |
+| Median salary | $123,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$85,000 | Assistant professor, typically 9-month contract |
+| Mid-level (4-10 years). | $80,000~$120,000 | Associate professor, includes summer research stipend |
+| Senior (10+ years) | $110,000~$180,000 | Full professor, top universities can be higher |
+| average salary | $138,850 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从助理教授晋升副教授、教授，需发表研究论文和获得教学好评。部分转向行政职位或研究机构。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Economics professor's research and teaching partly enhanced by AI, but basic teaching and data analysis tasks face automation risk; overall outlook is mixed.
+
+Promoted from assistant professor to associate professor and professor, requiring published research and positive teaching evaluations. Some move to administrative roles or research institutions.
+
+**Tasks most exposed to AI:**
+
+- Basic statistical analysis (e.g. generating descriptive statistics using Stata/R)
+- Automated generation of courseware and exercise sets
+- Preliminary literature review organization and citation format checking
+- Standardised grading and feedback for online courses
+- Simple iterative calculation for economic model parameter calibration
+
+**Where AI augments the role:**
+
+- Causal inference using machine learning (e.g., DID, RDD optimization)
+- Using NLP to process unstructured data (e.g., policy texts, social media)
+- AI-assisted personalized teaching (dynamically adjusts content based on student performance)
+- Automated literature recommendation and knowledge graph construction
+- Simulate economic scenarios (e.g., using ABM to model economic policy effects)
+
+**Human moat:**
+
+- Propose original theoretical frameworks and hypotheses
+- Creative integration in instructional design and classroom interaction guidance
+- Critically review biases and limitations in AI analysis results
+- Humanistic care and values transmission in the mentorship system
+- Strategic judgment in interdisciplinary collaboration and research topic selection
+
+**Skills to build:**
+
+- Causal inference in machine learning (e.g., Python's DoWhy library)
+- Natural language processing and text analysis (e.g., BERT)
+- Data visualization and interactive teaching tools (e.g., Tableau, Jupyter)
+- Knowledge at the intersection of AI ethics and economics
+- Complex system modeling (surrogate-based modeling)
+- Python/R advanced programming and automation scripting
+
+**Key growth areas:**
 
 - Stable
 - Academic
@@ -63,65 +99,64 @@ Teach economics courses at postsecondary institutions, often combining teaching 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学为申请人提供免配额申请，适合助理教授职位。 |
-| Subclass EB-2（Employment-Based Second Preference） | 通过PERM或NIW申请绿卡，适用于有突出研究能力的教授。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在经济学领域有杰出成就的教授，如顶级期刊发表。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities offer quota-free applications for applicants, suitable for assistant professor positions. |
+| Subclass EB-2 (Employment-Based Second Preference) | Apply for a green card through PERM or NIW; suitable for professors with outstanding research capabilities. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding achievements in economics, such as publications in top-tier journals. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Economics Teachers, Postsecondary？**
-- 热爱学术研究和教学
-- 擅长定量分析和逻辑推理
-- 愿意接受长期学习和竞争压力
-
-**谁不适合学Economics Teachers, Postsecondary？**
-- 偏好稳定收入而非学术竞争
-- 不喜欢写作和发表压力
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and teaching
+- Proficient in quantitative analysis and logical reasoning
+- Willing to accept long-term learning and competitive pressure
+
+**Who is not suited**
+- Prefers stable income over academic competition
+- Dislike for writing and publication pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of economics professors?**
+A: US economics professor salary is about $60,000 to $180,000 per year, depending on title and school type. Top university full professors can earn over $200,000.
+
+**Q: Is it easy for economics professors to apply for a green card?**
+A: Through EB-2 NIW or PERM pathways, university-sponsored H-1Bs are cap-exempt, making it relatively feasible. However, publication records and citations are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Economics Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for economics professors?**
-答：US economics professors earn about $60k to $180k annually, depending on rank and institution. Full professors at top schools can exceed $200k.
-
-**问：Is it easy for economics professors to get a green card?**
-答：It's feasible via EB-2 NIW or PERM, with H-1B cap-exempt for universities. Requires publication record and citations.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

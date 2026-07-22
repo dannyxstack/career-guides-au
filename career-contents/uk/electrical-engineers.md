@@ -1,60 +1,95 @@
-# Electrical engineers（Electrical engineers）职业分析 · UK
+# Electrical engineers — career analysis · United Kingdom
 
-**职业代码：2123 – Electrical engineers。**
+**Occupation code: 2123 (SOC)**
 
-Electrical engineers undertake research and design, direct construction and manage the operation and maintenance of electrical equipment, power stations, building control systems and other electrical products and systems.
+Electrical engineers research, design, direct construction, and operate and maintain electrical equipment, power stations, building control systems, and other electrical products and systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $20,000~$35,000（学费因大学而异，国际学生更高） |
-| 硕士（可选） | 1-2年 | $15,000~$30,000（提升竞争力，部分专业方向） |
-| 博士（研究岗） | 3-5年 | —（通常有奖学金资助） |
+| Bachelor's degree (Engineering) | 4 years | $20,000~$35,000 (Tuition fees vary by university; higher for international students) |
+| Master's degree (optional) | 1-2 years | $15,000~$30,000 (Improve competitiveness, some specialized directions) |
+| PhD (research position) | 3-5 years | $0~$20,000 (Often scholarship-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士学位 | 英国大学 | 必备 | 通常需IET认证课程 |
-| 特许工程师（CEng） | 英国工程委员会（ECUK） | 可选 | 重要职业认证，通过IET申请 |
-| 研究生发展计划（IED） | IET | 可选 | 早期职业培训，非强制但有利 |
+| Bachelor's degree in engineering | UK universities | Required | Usually requires IET accredited course |
+| Chartered Engineer (CEng) | Engineering Council UK (ECUK) | Optional | Key professional certification, applied via IET |
+| Graduate Development Program (IED) | IET | Optional | Early career training, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 50,000。英国电气工程师需求稳定，受益于可再生能源、智能电网和电动交通等发展，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 50,000. Demand for electrical engineers in the UK is stable, benefiting from developments in renewable energy, smart grids, and electric transport, with good job prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 通常为研究生或早期职业 |
-| 中级（4-9年） | $40,000~$55,000 | 有经验且可能已取得CEng |
-| 高级（10年以上） | $55,000~$75,000 | 管理层或专业顾问 |
+| Median salary | $60,303 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$38,000 | Typically postgraduate or early career |
+| Intermediate (4-9 years) | $40,000~$55,000 | Experienced and may be a Chartered Engineer (CEng) |
+| Senior (10+ years) | $55,000~$75,000 | Management or professional consultant |
+| average salary | $61,559 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级设计工程师晋升为高级/首席工程师，进而转向项目管理或技术总监，部分人进入咨询或创业领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
+
+Can advance from junior design engineer to senior/chief engineer, then move into project management or technical director; some enter consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Circuit schematic drawing and PCB layout using standard libraries
+- Write electrical test cases and execute automated testing.
+- Generate repetitive technical documents and compliance reports.
+- Identifying common failure modes from historical data and recommending solutions.
+
+**Where AI augments the role:**
+
+- AI-assisted complex system-level circuit simulation and optimization
+- Use AI to analyze fault data and quickly locate root causes
+- AI-driven design recommendations and automatic bill of materials generation
+- Querying electrical standards and norms in natural language to improve research efficiency
+- AI in project management predicts schedule risks and suggests resource allocation
+
+**Human moat:**
+
+- Cross-system integration design (e.g., power, control, communication)
+- Failure analysis and compliance decisions for safety-critical systems.
+- Communication and negotiation with clients, contractors, and regulatory agencies
+- Innovative architectural design and patent creation
+- On-site commissioning and abnormal situation response handling
+
+**Skills to build:**
+
+- AI-enhanced use of electrical system simulation tools (e.g., MATLAB/Simulink, PSSE)
+- Python or VBA scripts for design automation
+- Knowledge of digital twin and Internet of Things (IoT) integration
+- Machine learning basics for fault prediction and anomaly detection
+- Project management (PMP or agile methods) and teamwork skills.
+- Expertise in power electronics or renewable energy system design
+
+**Key growth areas:**
 
 - Renewable Energy
 - Smart Grid
@@ -63,69 +98,68 @@ Electrical engineers undertake research and design, direct construction and mana
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于拥有雇主担保的技能工人，电气工程师在可担保职业清单上。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在电气工程领域有杰出成就或潜力的研究人员，无需雇主担保。 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长公司的高技能工人，需满足薪资要求。 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在完成学业后工作2-3年，积累经验后转换Skilled Worker。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled workers with employer sponsorship; electrical engineers are on the eligible occupation list. |
+| Subclass Global Talent (Global Talent visa) | For researchers with outstanding achievements or potential in electrical engineering, no employer sponsorship required. |
+| Subclass Scale-up (Scale-up visa) | For high-skilled workers at high-growth companies, must meet salary requirements |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2-3 years after completing their studies, gaining experience before switching to Skilled Worker. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical engineers？**
-- 对电力系统、可再生能源或自动化控制有浓厚兴趣的人
-- 具备扎实数学和物理基础，喜欢解决复杂问题的人
-- 希望在技术与管理结合方向长期发展的人
-
-**谁不适合学Electrical engineers？**
-- 不喜欢持续学习和更新技术知识的人
-- 对高压电或现场工作有严重安全顾虑的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a strong interest in electrical systems, renewable energy, or automation control
+- People with solid math and physics foundations who enjoy solving complex problems.
+- Those aiming for long-term development in a technology-management combination
+
+**Who is not suited**
+- Those who dislike continuous learning and updating technical knowledge
+- People with serious safety concerns about high-voltage electricity or fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a British electrical engineer?**
+A: Entry-level: approximately £28,000-38,000, mid-level: approximately £40,000-55,000, senior: up to £55,000-75,000 or more, depending on experience, industry, and region.
+
+**Q: How can electrical engineers immigrate to the UK through the Skilled Worker visa?**
+A: Need a job offer from a UK employer, and the position must be on the eligible occupation list. Salary typically needs to reach £26,200 per year or the industry-specific salary threshold. The employer must hold a sponsorship license.
+
+**Q: What are the main career paths for electrical engineers?**
+A: Can progress towards technical expert roles (e.g., power systems, control engineering), project management, or senior technical management; also possible to enter consulting, R&D, or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较难（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an electrical engineer in the UK?**
-答：Entry-level: £28,000-£38,000; mid-level: £40,000-£55,000; senior: £55,000-£75,000+, depending on experience, sector, and location.
-
-**问：How can an electrical engineer immigrate to the UK via the Skilled Worker visa?**
-答：You need a job offer from a UK employer for a role on the eligible occupations list. Salary typically must meet £26,200/year or the going rate. The employer must hold a sponsor licence.
-
-**问：What are the main career paths for electrical engineers?**
-答：You can progress to technical specialist roles (e.g., power systems, control engineering), project management, senior technical management, or move into consulting, R&D, or entrepreneurship.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

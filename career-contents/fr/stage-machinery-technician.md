@@ -1,58 +1,92 @@
-# Stage Machinery Technician（Stage Machinery Technician）职业分析 · FR
+# Stage Machinery Technician — career analysis · France
 
-**职业代码：L1506 – Stage Machinery Technician。**
+**Occupation code: L1506 (ROME)**
 
-Operates and maintains stage machinery (e.g., lifts, turntables, flying systems) to ensure safe and smooth performances.
+Operate and maintain stage machinery (such as lifts, turntables, flight systems) to ensure the safety of performances.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 舞台机械 | 2年（CAP） | —（公立学校免费，仅注册费） |
-| BTS 舞台技术 | 2年（BTS） | —（公立学校免费，私立学校费用较高） |
+| CAP stage machinery | 2 years (CAP) | $0~$1,500 (Public schools are free, with only a registration fee) |
+| BTS stage technology | 2 Years (BTS) | $0~$2,000 (Public schools are free, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 舞台机械师 | CPNEF-SV | 可选 | 行业认证，非强制但受雇主青睐 |
-| SSCT 安全培训 | INRS | 可选 | 健康与安全培训，部分雇主要求 |
+| CQP Stage Mechanic | CPNEF-SV | Optional | Industry certification, non-mandatory but favored by employers |
+| SSCT safety training | INRS | Optional | Health and safety training, required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 3,200。法国文化演出产业持续发展，舞台机械技师需求稳定，尤其在大型剧院、音乐节和巡演中。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,200. France's cultural performance industry continues to develop, with stable demand for stage mechanics, especially in large theaters, music festivals, and tours.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪（brut） |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪（brut） |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪（brut） |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary (brut) |
+| Mid-level (3–7 years) | $28,000~$36,000 | Pre-tax annual salary (brut) |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary (brut) |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级操作员晋升为首席机械师或技术总监，或转向舞台设计、设备销售等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stage mechanical technicians are experiencing mixed feelings due to AI: automated programming can optimize equipment scheduling and safety monitoring, but on-site emergency handling, precision machinery maintenance, and creative collaboration still rely on humans, with entry-level positions narrowing due to higher technical barriers.
+
+You can be promoted from junior operator to chief mechanic or technical director, or move into stage design, equipment sales, and other directions.
+
+**Tasks most exposed to AI:**
+
+- Routine operation programming and scheduling of stage equipment (such as lift platforms and turntables).
+- Real-time monitoring and automatic alarms of equipment status based on sensor data
+- Repetitive mechanical operations during performances (such as moving sets according to preset processes)
+- Automated load calculation and balance adjustment for flight systems
+
+**Where AI augments the role:**
+
+- AI-assisted risk prediction and safety plan generation
+- Uses digital twin technology to simulate equipment faults and solutions
+- Remote equipment commissioning and training are conducted through VR/AR
+- Automatically records and analyzes equipment usage data to optimize maintenance plans
+- Collaborative robots perform precise or high-intensity physical tasks
+
+**Human moat:**
+
+- On-site diagnosis and manual repair of emergency equipment failures
+- Creative communication and improvisational collaboration with directors and designers
+- Maintenance and modification of non-standardized and outdated equipment
+- Human judgment and responsibility for performance safety
+
+**Skills to build:**
+
+- Programmable logic controller (PLC) programming and debugging
+- Digital twins and simulation software (such as Unity Reflect)
+- Industrial Internet of Things (IIoT) and sensor data analysis
+- Robot collaboration safety standards and human-machine interaction design
+- Emergency response and troubleshooting of complex faults
+- Project management and multimedia technology foundation
+
+**Key growth areas:**
 
 - Live events
 - Technical theater
@@ -61,68 +95,67 @@ Operates and maintains stage machinery (e.g., lifts, turntables, flying systems)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或技术人员，需提供工作合同或项目证明 |
-| Subclass Salarié（Salaried Employee） | 由雇主担保的工作签证，适用于长期合同 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能岗位，年薪需达阈值（2025年约€56,000） |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists or technicians, requiring a work contract or project proof |
+| Subclass Salarié (Salaried Employee) | Employer-sponsored work visas are applicable to long-term contracts |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, annual salary must meet threshold (approximately €56,000 in 2025) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stage Machinery Technician？**
-- 对舞台机械和自动化技术有热情的人
-- 喜欢在演出环境中工作、能适应倒班和高压
-- 具备动手能力和安全意识的人
-
-**谁不适合学Stage Machinery Technician？**
-- 对体力劳动和户外工作不感兴趣的人
-- 不喜欢夜间和周末工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about stage machinery and automation technology
+- Enjoy working in performance environments, able to adapt to shifts and high pressure
+- Individuals with hands-on skills and safety awareness
+
+**Who is not suited**
+- People who are not interested in physical labor or outdoor work
+- People who dislike working at night or on weekends
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for stage machinery technicians?**
+A: Entry-level salaries are about €22k-28k, intermediate €28k-36k, seniors €36k-45k, with salaries increasing with experience.
+
+**Q: Can foreign stage mechanics immigrate to France?**
+A: Yes, through the Passeport Talent or Salarié visa, a contract from a French employer is required.
+
+**Q: What qualifications are required?**
+A: Non-mandatory, but CQP stage mechanic certification and SSCT safety training help with employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stage Machinery Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a stage machinery technician?**
-答：Entry-level: €22k-28k, mid-level: €28k-36k, senior: €36k-45k (gross annual).
-
-**问：Can foreign stage machinery technicians migrate to France?**
-答：Yes, via Talent Passport or Salarié visa with a French employer contract.
-
-**问：What certifications are required?**
-答：Not mandatory, but CQP Stage Mechanic and SSCT safety training are beneficial.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

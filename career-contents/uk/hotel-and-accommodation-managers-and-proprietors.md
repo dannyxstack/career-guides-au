@@ -1,59 +1,92 @@
-# Hotel and accommodation managers and proprietors（Hotel and accommodation managers and proprietors）职业分析 · UK
+# Hotel and accommodation managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1221 – Hotel and accommodation managers and proprietors。**
+**Occupation code: 1221 (SOC)**
 
-Hotel and accommodation managers and proprietors plan, organise, direct and coordinate the activities and resources of various accommodation establishments, including hotels, hostels, caravan parks, holiday camps, flats, and passenger ships.
+Hotel and accommodation managers plan, organize, direct, and coordinate the daily operations of accommodation facilities (such as hotels, motels, resorts, student residences, campgrounds, etc.), including housekeeping, food and beverage services, recreational activities, and customer service.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 3年 | —（英国公民通常免费就读公立学校，国际生学费约£10,000-£15,000/年） |
-| 酒店管理学士学位 | 3年 | $9,000~$15,000（英国大学学费，国际生约£15,000-£25,000/年） |
+| High school diploma or equivalent | 3 years | $0~$0 (UK citizens generally attend public schools for free; international student tuition fees are approximately £10,000-£15,000 per year.) |
+| Bachelor's degree in Hospitality Management | 3 years | $9,000~$15,000 (UK university tuition, international students approx £15,000-£25,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理学士学位 | 英国大学 | 可选 | 推荐但不强制，显著提升职业前景 |
-| 食品卫生与安全证书 | 英国食品标准局认可机构 | 必备 | 法律要求，确保餐饮服务合规 |
-| 酒类销售许可证（Personal Licence） | 地方当局 | 可选 | 若酒店销售酒精饮品则强制要求 |
+| Food hygiene and safety certificate | UK Food Standards Agency recognized body | Required | Legal requirement to ensure catering service compliance |
+| Bachelor's degree in Hospitality Management | UK universities | Optional | Recommended but not mandatory, significantly improves career prospects |
+| Personal Licence for alcohol sales | Local government | Optional | Mandatory if the hotel sells alcoholic beverages |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。英国酒店业在后疫情时期稳步复苏，国内旅游和商务出行需求回升，但面临劳动力短缺和运营成本上升的挑战。预计就业增长温和，高端酒店和精品住宿领域机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The UK hospitality industry is steadily recovering post-pandemic, with domestic tourism and business travel demand rebounding, but faces challenges of labor shortages and rising operating costs. Employment growth is expected to be moderate, with more opportunities in luxury hotels and boutique accommodation.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理经理或小型住宿设施经理 |
-| 中级（3-7年） | $28,000~$40,000 | 中等规模酒店或连锁酒店经理 |
-| 高级（7年以上） | $40,000~$60,000 | 大型酒店、豪华酒店或集团区域经理 |
+| Median salary | $36,419 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant manager or small accommodation facility manager |
+| Mid-level (3–7 years) | $28,000~$40,000 | Medium-sized hotel or chain hotel manager |
+| Senior (7+ years) | $40,000~$60,000 | Regional manager for large hotels, luxury hotels, or groups |
+| average salary | $40,981 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 常见晋升路径：从部门主管（如前厅经理、客房部经理）晋升为酒店经理，再至区域经理或集团运营总监。部分经理通过经营自有物业成为业主。需要积累跨部门管理经验和商业洞察力。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hotel and accommodation management careers are affected by AI with mixed results: routine tasks like booking and accounting are easily automated, while customer service and crisis management rely on humans; entry-level positions narrow due to automation tools, but advanced roles increase demand for interpersonal and emergency response skills, with both risks and opportunities.
+
+Common career progression: from department head (e.g., front office manager, housekeeping manager) to hotel manager, then to regional manager or group operations director. Some managers become owners by operating their own properties. Requires cross-departmental management experience and business insight.
+
+**Tasks most exposed to AI:**
+
+- Automated booking systems: AI manages online reservations, room allocation, and payment processing, reducing manual work.
+- Data entry and report generation: AI automatically processes occupancy rates, revenue statistics, and financial reports, replacing manual Excel and clerical work.
+- Smart room management: IoT sensors monitor inventory (e.g., towels, minibar), auto-replenish, and predict maintenance needs.
+- Standardized customer inquiries: chatbots answer common questions (e.g., WiFi password, checkout time), reducing phone calls and front desk inquiries.
+
+**Where AI augments the role:**
+
+- Dynamic pricing optimization: AI analyzes market trends, competition, and demand to assist managers in setting optimal room rates and increasing revenue.
+- Personalized customer experience: AI analyzes preferences to provide tailored recommendations (e.g., restaurants, events), enhancing customer loyalty.
+- Employee scheduling and collaboration: AI tools optimize shift planning, considering employee skills, shift preferences, and forecasted occupancy rates, improving efficiency.
+- Social media and reputation management: AI monitors comments, generates draft replies, and helps maintain brand image.
+
+**Human moat:**
+
+- Crisis management: Handling emergencies (e.g., guest disputes, power outages, medical emergencies) requires human judgment and empathy.
+- Complex interpersonal relationships: building trust and collaboration with teams, suppliers, and VIP clients, relying on emotional intelligence.
+- Creativity and quality control: plan themed events, design service processes, maintain brand consistency, requiring aesthetic sense and creativity.
+- Strategic decision-making: based on AI recommendations but not blindly, integrating market insights and local knowledge for long-term planning.
+
+**Skills to build:**
+
+- Basic data analysis and visualization (using Excel, Power BI or Tableau)
+- Hotel Property Management Systems (PMS) such as Opera or Oracle Hospitality Management
+- Digital marketing and OTA platform optimisation (e.g., Booking.com, TripAdvisor management)
+- Customer Relationship Management (CRM) system applications (e.g., Salesforce)
+- Ability to apply AI tools (e.g., pricing algorithms, chatbot configuration)
+- Leadership and change management: guiding teams to adapt to new technologies
+
+**Key growth areas:**
 
 - post-pandemic recovery
 - domestic tourism
@@ -62,69 +95,68 @@ Hotel and accommodation managers and proprietors plan, organise, direct and coor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，满足薪资门槛（可协商）。酒店经理通常符合条件。具备学位或同等经验。工作5年可申请永居。 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长企业的高技能员工，薪资门槛高。酒店业较少见，但大型连锁酒店可能符合。 |
-| Subclass Graduate（Graduate visa） | 适用于在英完成学士或硕士学位的学生，毕业后可留英工作2年。无需雇主担保，但可积累经验转为工签。 |
-| Subclass Global Talent（Global Talent visa） | 仅适用于在酒店业有杰出成就的高端人才，如知名酒店集团高管。需通过评审。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, meeting salary threshold (negotiable). Hotel managers usually qualify. Requires a degree or equivalent experience. Eligible for permanent residence after 5 years of work. |
+| Subclass Scale-up (Scale-up visa) | Targets highly skilled employees in fast-growing companies with a high salary threshold. Rare in the hospitality industry, but large hotel chains may qualify. |
+| Subclass Graduate (Graduate visa) | For students who have completed a bachelor's or master's degree in the UK, allowing them to work in the UK for 2 years after graduation. No employer sponsorship required, but experience can be accumulated to switch to a work visa. |
+| Subclass Global Talent (Global Talent visa) | Only for high-end talent with outstanding achievements in the hospitality industry, such as executives from well-known hotel groups. Requires assessment. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel and accommodation managers and proprietors？**
-- 热爱服务行业，善于与人沟通，具有客户服务导向
-- 具备组织协调和问题解决能力，能应对突发状况
-- 适应灵活工作时间，包括周末和节假日
-
-**谁不适合学Hotel and accommodation managers and proprietors？**
-- 不喜欢频繁社交或难以处理客户投诉
-- 无法承受高压力和高强度的工作节奏
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the service industry, good communication skills, customer service oriented
+- Possesses organisational coordination and problem-solving skills to handle emergencies
+- Adapt to flexible working hours, including weekends and holidays
+
+**Who is not suited**
+- Dislike frequent social interaction or struggle with handling customer complaints
+- Unable to handle high pressure and fast-paced work.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a hotel manager in the UK?**
+A: Depending on experience, junior manager approx. £22,000-£28,000, mid-level approx. £28,000-£40,000, senior up to £40,000-£60,000 or more. Salary affected by hotel size, location, and brand.
+
+**Q: How can overseas applicants come to the UK as hotel managers via the skilled worker visa?**
+A: Need a Skilled Worker visa sponsored by a UK employer. The role must meet the minimum salary requirement (typically £25,600-£38,700 depending on circumstances) and the employer must hold a sponsorship license. A degree in hotel management or equivalent experience is recognized.
+
+**Q: Can you become a hotel manager without a university degree?**
+A: Yes. Many hotel managers advance from entry-level positions (e.g., front desk, housekeeping), gaining experience before taking on management roles. Vocational training in hotel management or apprenticeships are also common pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Hotel and accommodation managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a hotel manager in the UK?**
-答：Salaries vary by experience: junior managers earn around £22,000-£28,000, mid-level £28,000-£40,000, and senior managers £40,000-£60,000 or more. Salary depends on hotel size, location, and brand.
-
-**问：How can overseas applicants come to the UK as a hotel manager via the Skilled Worker visa?**
-答：You need a job offer from a UK employer with a valid sponsorship license. The role must meet the minimum salary threshold (typically £25,600-£38,700 depending on circumstances), and you should hold a degree in hotel management or equivalent experience.
-
-**问：Can I become a hotel manager without a university degree?**
-答：Yes. Many managers start from entry-level positions such as reception or housekeeping and gain experience to be promoted. Vocational training or apprenticeships in hospitality management are also common pathways.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

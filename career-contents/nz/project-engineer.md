@@ -1,59 +1,95 @@
-# Project Engineer（Project Engineer）职业分析 · 新西兰
+# Project Engineer — career analysis · New Zealand
 
-**职业代码：233999 – Project Engineer。**
+**Occupation code: 233999 (ANZSCO)**
 
-Project engineers in New Zealand coordinate technical aspects, schedule, and quality control on engineering projects, bridging design and construction. Listed on Green List Tier 1, they can directly apply for residence, making immigration highly feasible.
+A Project Engineer in New Zealand is responsible for technical coordination, progress management, and quality control of engineering projects, serving as a core link between design and construction sites. This occupation is on the Green List Tier 1, allowing direct residence application with favourable immigration policy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $40,000~$60,000（新西兰大学工程本科学费，四年总计（国际生）） |
-| 硕士（工程管理） | 1-2年 | $30,000~$50,000（研究生学费，一年至两年总计（国际生）） |
+| Bachelor's degree (Engineering) | 4 years | $40,000~$60,000 (New Zealand university engineering undergraduate tuition, four-year total (international students)) |
+| Master's (Engineering Management) | 1-2 years | $30,000~$50,000 (Postgraduate tuition fees, one to two years total (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学学士（荣誉） | 新西兰工程协会（Engineering New Zealand）认证大学 | 必备 | 需完成华盛顿协议认可的4年制工程学位 |
-| 注册专业工程师（CPEng） | Engineering New Zealand | 可选 | 非强制但利于晋升和高薪 |
-| IELTS 6.5或同等英语 | IELTS/PTE/TOEFL | 必备 | 移民和注册的语言要求 |
+| Bachelor of Engineering (Honours) | Engineering New Zealand accredited universities | Required | Must complete a Washington Accord-accredited 4-year engineering degree |
+| IELTS 6.5 or equivalent English proficiency | IELTS/PTE/TOEFL | Required | Language requirements for immigration and registration |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Not mandatory but beneficial for promotion and high salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 3,500。新西兰基础设施投资持续增长，奥克兰轻轨、道路升级和可再生能源项目推动需求。未来五年预计就业增长10%以上，项目工程师短缺状态将持续。
+**Job demand: very high (★★★★½).** National workforce approx. 3,500. New Zealand's infrastructure investment continues to grow, driven by Auckland light rail, road upgrades, and renewable energy projects. Employment is expected to grow over 10% in the next five years, and the shortage of project engineers will persist.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | 起薪约7.5万，3年内可达9万以上 |
-| 中级（3-7年） | $95,000~$130,000 | 经验增长，年薪普遍在10-13万 |
-| 高级（7年以上） | $130,000~$170,000 | 高级/项目经理可达13-17万，不含绩效奖金 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $75,000~$95,000 | Starting salary approx. 75,000, reaching 90,000+ within 3 years |
+| Mid-level (3–7 years) | $95,000~$130,000 | With experience, annual salary typically AUD 100,000-130,000 |
+| Senior (7+ years) | $130,000~$170,000 | Senior/Project Manager up to $130,000-$170,000, excluding performance bonuses |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 初级项目工程师可晋升为高级项目工程师、项目经理或工程经理。积累经验后还可转为合同管理或咨询角色，年薪可达15万纽元以上。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core responsibilities of a project engineer (coordination, decision-making, on-site problem diagnosis) are difficult to replace by AI, but AI will deeply optimize document generation, conflict detection, and resource scheduling. The occupation overall shows AI amplification, but entry-level positions may shrink due to automation.
+
+Entry-level project engineers can advance to senior project engineer, project manager, or engineering manager. With experience, they can also move into contract management or consultancy roles, with salaries reaching over 150,000 NZD.
+
+**Tasks most exposed to AI:**
+
+- Generating project progress reports and meeting minutes
+- Automatic creation and verification of bill of materials (BOM)
+- Simple conflict detection based on design specifications
+- Template-based management of standardized project documents
+- Preliminary risk assessment report generation
+
+**Where AI augments the role:**
+
+- AI tools assist in multi-scheme simulation and optimization analysis
+- Automatically monitor project progress deviations and issue early warnings
+- Real-time recommendations for resource allocation adjustments
+- Cost and schedule forecasting based on historical data
+- Pre-construction problem rehearsals using digital twin models.
+
+**Human moat:**
+
+- Cross-team complex communication and interest coordination
+- Diagnosis and decision-making for unforeseen issues on construction sites
+- Comprehensive judgment on engineering ethics and public safety
+- Creative solutions integrating multidisciplinary constraints
+- Risk responsibility assumption within regulatory frameworks
+
+**Skills to build:**
+
+- Mastery of BIM and project management digital platforms (e.g., Procore, Aconex)
+- Learn Python or low-code tools for automated script writing
+- Familiarity with AI-assisted design/scheduling (e.g., Autodesk Forma, Oracle Primavera Cloud)
+- Enhancing data analysis and visualization skills (e.g., Power BI, Tableau)
+- Learn agile and lean project management methods
+- Master basic machine learning concepts to collaborate with data teams
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Infrastructure Investment
@@ -62,68 +98,67 @@ Project engineers in New Zealand coordinate technical aspects, schedule, and qua
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单Tier 1要求，可直接申请居留，无需先工作，需从认可雇主获得offer且薪资中位数以上 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，项目工程师通常可获学历分（3-5分）+工作经验分（1-3分），达标即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未直接满足居留条件，可通过认证雇主工签在新西兰工作2年后转为居留路径 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets Green List Tier 1 requirements, can directly apply for residence without working first, requires an offer from an accredited employer with salary above median |
+| Subclass SMC (Skilled Migrant Category) | Through the 6-point skilled migration system, project engineers can typically obtain degree points (3-5) + work experience points (1-3), and can apply once meeting the threshold. |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residency conditions are not met, may transition to residency after working in New Zealand for 2 years on an accredited employer work visa. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Project Engineer？**
-- 具备工程学位（土木、机械、电气等）且喜欢现场协调和解决问题的工程师
-- 有2年以上项目管理或施工协调经验，希望快速移民新西兰的人
-- 英语较好（IELTS 6.5+），能适应多元文化团队和户外工作环境
-
-**谁不适合学Project Engineer？**
-- 不喜欢频繁出差和工地环境，偏好纯办公室设计工作
-- 没有工程学位或相关资格，不愿花时间重新学习
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineers with an engineering degree (civil, mechanical, electrical, etc.) who enjoy on-site coordination and problem-solving
+- People with over 2 years of project management or construction coordination experience looking to immigrate to New Zealand quickly
+- Good English (IELTS 6.5+), able to adapt to multicultural teams and outdoor work environments
+
+**Who is not suited**
+- Dislike frequent travel and construction site environments, prefer pure office design work
+- No engineering degree or relevant qualification, unwilling to spend time relearning.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for project engineers in New Zealand?**
+A: Depending on experience: junior NZD 75,000-95,000, intermediate NZD 95,000-130,000, senior NZD 130,000-170,000. Chartered professional engineer and large project experience can significantly increase salary.
+
+**Q: What pathways are there for project engineers to immigrate to New Zealand?**
+A: Main pathways: Green List Tier 1 Direct Residence (requires certified employer offer), SMC 6-point skilled migration, or first hold an AEWV work visa then transfer to residence. Project engineer is on the shortage list, with priority processing.
+
+**Q: What are the career development paths for project engineers?**
+A: Can progress from junior project engineer to senior project engineer, project manager, then engineering manager or director. Can also move into contract management, consulting, or entrepreneurship, with annual salary up to NZD 150,000-200,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（4年以上）（★★★½☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常高（★★★★★） |
-| PR难度 | 低（★½☆☆☆） |
-
-Project Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for project engineers in New Zealand?**
-答：Entry-level: NZD 75,000-95,000; mid-level: NZD 95,000-130,000; senior: NZD 130,000-170,000. CPEng and large project experience boost earnings.
-
-**问：What are the immigration pathways for project engineers in New Zealand?**
-答：Main routes: Green List Tier 1 Straight to Residence (offer from accredited employer), SMC 6-point system, or AEWV to residence. The role is in shortage, so priority processing.
-
-**问：What are the career progression paths for project engineers?**
-答：From junior to senior project engineer, then project manager, engineering manager or director. Alternatively, move into contract management, consulting or entrepreneurship, with salaries up to NZD 150,000-200,000.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

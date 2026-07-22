@@ -1,61 +1,95 @@
-# Air Traffic Controllers（Air Traffic Controllers）职业分析 · 美国
+# Air Traffic Controllers — career analysis · United States
 
-**职业代码：53-2021 – Air Traffic Controllers。**
+**Occupation code: 53-2021 (SOC)**
 
-Control air traffic on and within vicinity of airports, ensuring safe and efficient movement of aircraft through clearances and instructions.
+Responsible for commanding takeoff, landing, and in-flight aircraft, ensuring flight safety and efficiency, requiring high concentration and quick decision-making.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学或FAA认可的航空院校） |
-| FAA空中交通管制学院培训 | 2-5个月 | —（通过申请后免费培训，带薪） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities or FAA-approved aviation schools) |
+| FAA Air Traffic Control Academy training | 2-5 months | $0~$0 (Free training after application approval, with pay) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FAA空中交通管制员认证 | 美国联邦航空管理局 | 必备 | 通过AT-SA考试、医疗检查及背景调查 |
-| 空中交通管制操作执照 | FAA | 必备 | 完成培训并取得，含雷达/塔台等专业等级 |
-| 学士学位（优先） | 认可高等教育机构 | 可选 | 非必需，但多数应聘者具备 |
+| FAA Air Traffic Control certification | US Federal Aviation Administration | Required | Pass AT-SA exam, medical check, and background check. |
+| Air Traffic Control Operator License | FAA | Required | Complete training and obtain, including radar/tower and other specialist endorsements |
+| Bachelor's degree (preferred) | Recognized higher education institution. | Optional | Not required, but most applicants have it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 24,000。美国劳工统计局预计2022-2032年就业增长约1%，但职位稳定，因航空旅行需求持续，且退休人员需补充。
+**Job demand: medium (★★½☆☆).** National workforce approx. 24,000. BLS projects about 1% employment growth from 2022-2032, but positions are stable due to sustained air travel demand and replacement of retirees.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $60,000~$90,000 | 如FAA等级4-7 |
-| 中级（5-10年） | $100,000~$140,000 | FAA等级11-12 |
-| 高级（10年以上） | $150,000~$180,000 | FAA等级14及以上，含主管 |
+| Median salary | $148,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $60,000~$90,000 | Such as FAA levels 4-7 |
+| Intermediate (5-10 years) | $100,000~$140,000 | FAA level 11-12 |
+| Senior (10+ years) | $150,000~$180,000 | FAA level 14 and above, including supervisors |
+| average salary | $146,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从管制员起步，可晋升至主管、经理或高级专家，也可转向航空管理或安全监管岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Start as a controller, then advance to supervisor, manager, or senior specialist, or transition to aviation management or safety regulation roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Stable demand
 - Aviation growth
@@ -64,65 +98,67 @@ Control air traffic on and within vicinity of airports, ensuring safe and effici
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少情况，因该职业通常要求美国公民或永久居民，但部分私营公司可能赞助 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极罕见，因多数岗位仅限美国公民 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rare, as this occupation typically requires US citizenship or permanent residency, but some private companies may sponsor |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Extremely rare, as most positions are limited to U.S. citizens |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air Traffic Controllers？**
-- 抗压能力强、能多任务处理
-- 反应迅速、决策果断
-- 对航空有热情、高度责任感
+**Who is suited**
+- Strong stress tolerance and multitasking ability
+- Quick response, decisive
+- Passionate about aviation with a strong sense of responsibility
 
-**谁不适合学Air Traffic Controllers？**
-- 无法承受高强度工作压力
-- 不善于集中精力或易分心
+**Who is not suited**
+- Unable to withstand high-intensity work pressure
+- Not good at focusing or easily distracted
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range?**
+A: Entry-level approx USD 60,000-90,000, mid-level 100,000-140,000, senior 150,000-180,000, depending on FAA level and facility type.
+
+**Q: Can foreigners become air traffic controllers?**
+A: Most air traffic controller jobs in the US require US citizenship, making it nearly impossible for foreigners to immigrate through work visas.
+
+**Q: What qualifications are required?**
+A: At least a high school diploma required, but a bachelor's degree is preferred. Must also pass FAA training and certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Air Traffic Controllers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range?**
-答：Entry-level around $60k-$90k, mid-level $100k-$140k, senior $150k-$180k.
-
-**问：Can non-citizens become air traffic controllers?**
-答：Most positions in the US require US citizenship, making migration extremely difficult.
-
-**问：What education is required?**
-答：At least a high school diploma, but a bachelor's degree is preferred. Also requires FAA training and certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

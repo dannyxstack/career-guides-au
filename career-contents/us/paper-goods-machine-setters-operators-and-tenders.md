@@ -1,60 +1,95 @@
-# Paper Goods Machine Setters, Operators, and Tenders（Paper Goods Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Paper Goods Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-9196 – Paper Goods Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-9196 (SOC)**
 
-Set up, operate, or tend paper goods machines to convert, saw, corrugate, band, wrap, box, stitch, form, or seal paper or paperboard sheets into products.
+Operating or tending to paper product processing machines, such as cutting, corrugating, packing, sewing, or sealing operations, to transform paper or paperboard into various finished products.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（高中毕业即可，通常无需学费） |
-| 在职培训 | 数月 | —（雇主提供，可能需自费少量材料费） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (High school diploma sufficient, usually no tuition fees) |
+| On-the-job training | Several months | $0~$1,000 (Provided by employer, may need to cover some material costs out of pocket) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 多数雇主仅要求高中文凭并提供在职培训 |
-| 职业或技术学校文凭（可选） | 社区学院或职业技术学校 | 可选 | 有助于提升竞争力，但非必须 |
+| No mandatory certificate | None | Optional | Most employers only require a high school diploma and provide on-the-job training |
+| Vocational or technical school diploma (optional) | Community college or vocational technical school | Optional | Helps improve competitiveness but is not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 102,400。该职业受自动化影响，就业增长缓慢，预计2023-2033年增速低于平均水平，每年约6000个岗位空缺主要来自离职替代。
+**Job demand: medium (★★½☆☆).** National workforce approx. 102,400. This occupation is affected by automation, with slow employment growth; 2023-2033 growth is expected to be below average, with about 6,000 job openings annually mainly from replacement needs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级薪资，取决于地区和雇主 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练操作员薪资中位数 |
-| 高级（7年以上） | $45,000~$56,000 | 包括领班、多机种熟练工 |
+| Median salary | $50,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level salary, depends on region and employer |
+| Mid-level (3–7 years) | $35,000~$45,000 | Median salary for skilled operators |
+| Senior (7+ years) | $45,000~$56,000 | Includes team leaders and operators skilled in multiple machine types |
+| average salary | $52,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从操作员起步，积累经验后可晋升为高级操作员、生产主管或质量控制员；部分可转向维修技师或生产调度岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The role of paper products machine operators will be mixed due to AI and automation: repetitive monitoring and simple adjustments are easily automated, but complex fault diagnosis, multi-process coordination, and quality control still require human judgment, shifting the role toward technical maintenance and process optimization.
+
+Start as an operator, gain experience to advance to senior operator, production supervisor, or quality controller; some may move to maintenance technician or production scheduling roles.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and automatic adjustment of machine operating parameters such as temperature, speed, tension
+- Identify and reject visibly defective products (e.g., size deviations, blurred printing)
+- Perform standardized equipment startup, shutdown, and reset procedures
+- Record production data and generate basic reports
+- Changing molds and blades according to preset procedures
+
+**Where AI augments the role:**
+
+- Use computer vision to assist in detecting subtle quality defects (e.g., micro-cracks on paper, color deviations)
+- Optimize production parameters through digital twin simulation (e.g., reduce scrap, improve energy efficiency)
+- AI predictive maintenance alerts, scheduling repairs in advance to reduce unplanned downtime
+- Real-time scheduling of multiple machines for collaborative operations based on order changes
+
+**Human moat:**
+
+- Creative troubleshooting skills for rare machine malfunctions or material anomalies
+- Process coordination and integration across multiple operations (e.g., cutting, pressing, sewing)
+- Flexible adjustments for non-standard orders (e.g., special cardboard, irregular structures)
+- Hands-on experience in equipment modification and process improvement.
+- Interpersonal communication and emergency decision-making with upstream and downstream processes (e.g., warehousing, quality inspection)
+
+**Skills to build:**
+
+- Basic programming skills (e.g., PLC programming, Python scripting) to adjust automated equipment
+- Data analysis and visualization (e.g., Tableau, advanced Excel functions)
+- Familiar with industrial IoT sensors and edge computing devices
+- Proficient in operating an AI quality inspection or predictive maintenance software
+- Lean production and Six Sigma methodology
+- Equipment maintenance and mechanical repair skills (electrical, pneumatic, hydraulic)
+
+**Key growth areas:**
 
 - Automation
 - Packaging
@@ -63,65 +98,67 @@ Set up, operate, or tend paper goods machines to convert, saw, corrugate, band, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常要求学士学位，此职业多为操作岗，申请困难 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled/Unskilled)） | 少数情况可通过EB-3其他工人（unskilled）申请，但需PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires bachelor's degree; this role is mostly operational, application difficult |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled/Unskilled)) | In rare cases, application through EB-3 Other Workers (unskilled) is possible, but requires a PERM labor certification. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paper Goods Machine Setters, Operators, and Tenders？**
-- 喜欢重复性机械操作、动手能力强的人
-- 能适应倒班和工厂环境的人
-- 希望快速入行、不需高等教育者
+**Who is suited**
+- People who enjoy repetitive mechanical tasks and have strong hands-on skills
+- Able to adapt to shift work and factory environment
+- Those wanting quick entry into the field without higher education
 
-**谁不适合学Paper Goods Machine Setters, Operators, and Tenders？**
-- 厌恶噪音和重复劳动的人
-- 寻求高薪或快速职业晋升者
+**Who is not suited**
+- People who dislike noise and repetitive work
+- Seekers of high salary or rapid career advancement.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Average annual salary is about $40,000, entry-level around $30,000, and senior up to $56,000, below the national average.
+
+**Q: Is it feasible to immigrate to the US through this occupation?**
+A: Extremely difficult, usually does not meet H-1B specialty occupation requirements; EB-3 other worker category has very few spots and long backlog.
+
+**Q: What is the future outlook for this occupation?**
+A: Employment growth is slow, with high risk of automation replacement, but there is still annual demand from retirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Paper Goods Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Average annual salary is about $40,000; entry-level around $30,000 and experienced up to $56,000, below the national average.
-
-**问：Is immigration through this occupation feasible?**
-答：Very difficult. It rarely qualifies for H-1B; EB-3 Other Workers category has limited visas and long backlogs.
-
-**问：What is the future outlook for this occupation?**
-答：Slow growth with high automation risk, but steady replacement openings due to retirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Beautician（Beautician）职业分析 · NL
+# Beautician — career analysis · Netherlands
 
-**职业代码：5142 – Beautician。**
+**Occupation code: 5142 (ISCO08)**
 
-Beauticians provide facial treatments, makeup, manicure, hairdressing and other personal care services, typically in salons and spas.
+Beauticians provide personal beauty services such as facial treatments, makeup, nail care, and hairdressing, commonly found in salons and spas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3年 | —（公立MBO学费每年约€1,200-€2,000，可能有补贴） |
-| 短期培训课程 | 6个月至1年 | $1,500~$5,000（私立美容学校费用不等） |
+| Intermediate Vocational Education (MBO) | 3 years | $0~$2,000 (Public MBO tuition is approximately €1,200–€2,000 per year, with possible subsidies) |
+| Short-term training course | 6 months to 1 year | $1,500~$5,000 (Costs vary at private beauty schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美容师执业资格 | 荷兰美容行业协会 (ANBOS) | 可选 | 常见从业证书，非强制但雇主偏好 |
-| 卫生与健康证书 | 当地卫生部门 | 可选 | 部分市镇要求，确保安全卫生 |
+| Beautician license | Dutch Association of Beauty Industry (ANBOS) | Optional | Common professional certificate, not mandatory but preferred by employers |
+| Health and hygiene certificate | Local health authority | Optional | Required by some municipalities to ensure safety and hygiene |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。荷兰美容行业需求稳定，但竞争激烈。消费者对专业护理需求增长，就业机会主要来自小型自营沙龙和连锁店。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The beauty industry in the Netherlands has stable demand but is highly competitive. Consumer demand for professional care is growing, and job opportunities mainly come from small self-run salons and chain stores.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含小型沙龙自雇收入 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪，经验丰富或管理岗位 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，含高级技师或店主 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including self-employment income from small salon |
+| Mid-level (3–7 years) | $28,000~$36,000 | Gross annual salary, experienced or management positions |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, including senior technicians or shop owners. |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级美容师可晋升为高级美容师或沙龙经理，部分选择自主创业开设工作室。持续学习新技术和获得认证有助于职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on beauticians is mixed: some repetitive tasks (e.g., skin analysis, inventory management) will be automated, but core tactile services, personalized creativity, and interpersonal trust cannot be replaced; instead, AI assists in improving efficiency and outcomes.
+
+Junior beauticians can advance to senior beauticians or salon managers; some choose to start their own studios. Continuous learning of new techniques and obtaining certifications aids career development.
+
+**Tasks most exposed to AI:**
+
+- Perform skin diagnosis and product recommendations using AI skin analyzers
+- Recommending personalised care plans for clients using AI algorithms
+- Administrative tasks managing appointments, customer records, and inventory
+- Generate standardized beauty reports and care logs
+- Teaching basic massage techniques using AI video tutorials
+
+**Where AI augments the role:**
+
+- Using AI augmented reality (AR) to let customers preview makeup or hairstyles
+- Provides more precise product and skincare advice with AI skin analysis
+- Enhance customer relationship management and repurchase rates through AI-driven CRM systems
+- Use AI tools to generate personalized marketing content and social media material
+- Adjusting skincare procedures using AI sensors for real-time monitoring of client skin condition.
+
+**Human moat:**
+
+- Manual massage, facial lifting, etc., rely on tactile feedback and fine motor skills
+- Empathy to adjust service processes based on client emotions and real-time responses
+- Creative makeup, hairstyling, and customized artistic expression
+- Building long-term customer trust relationships and reputation management
+- Professional judgment to handle sudden health and safety issues like allergic reactions
+
+**Skills to build:**
+
+- learn to use smart hardware like AI skin analyzers and AR makeup mirrors
+- Proficient in data analysis and customer management using CRM and online booking systems
+- Enhance personalized consultation and emotional communication skills
+- Learn basic beauty AI software operation and digital marketing
+- Obtain advanced therapist certifications such as CIDESCO or ITEC
+- Learning social media content creation and personal branding
+
+**Key growth areas:**
 
 - organic beauty
 - nail art
@@ -61,69 +97,68 @@ Beauticians provide facial treatments, makeup, manicure, hairdressing and other 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需年薪约€58,000以上，美容师通常不满足此门槛 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适用于非欧盟技术移民，需雇主担保且年薪达€41,000（30岁以上）或€31,000以下，美容师薪资通常不达标 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰毕业的留学生，可自由工作1年，从事美容行业无需高薪 |
-| Subclass Self-Employed（Self-Employed Residence Permit） | 自雇美容师可申请，需通过点数评估，证明对荷兰经济的贡献 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talents, requires an annual salary of approximately €58,000 or more; beauticians generally do not meet this threshold |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applicable to non-EU skilled migrants, requires employer sponsorship and annual salary of €41,000 (over 30) or below €31,000; beautician salaries typically do not meet the requirement |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to international graduates in the Netherlands, allowing one year of unrestricted work; working in the beauty industry does not require a high salary. |
+| Subclass Self-Employed (Self-Employed Residence Permit) | Self-employed beauticians can apply; must pass points assessment and prove contribution to the Dutch economy. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Beautician？**
-- 对美容护理有热情，动手能力强的人
-- 喜欢与人交流，具有服务意识的人
-- 有意自主创业、开设个人工作室的人
-
-**谁不适合学Beautician？**
-- 对化学产品过敏或对卫生要求不高的人
-- 追求高薪和快速移民的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for beauty care and strong hands-on skills
+- People who enjoy interacting with others and have a service-oriented mindset.
+- Individuals interested in starting their own business or opening a personal studio
+
+**Who is not suited**
+- People allergic to chemical products or with low hygiene requirements
+- Those seeking high salary and fast immigration
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of beauticians in the Netherlands?**
+A: Junior beautician gross annual salary approx. €22,000-€28,000, senior or salon owner up to €45,000. Self-employed income varies significantly.
+
+**Q: Can beauticians immigrate to the Netherlands through skilled migration?**
+A: Beautician salaries typically do not meet the EU Blue Card or high-skilled migration minimum salary requirements, but self-employment or orientation year visas may be an option.
+
+**Q: What educational background is needed to become a beautician in the Netherlands?**
+A: Usually requires completing a 3-year MBO beauty course or private training. A license is not a legal requirement but helps with employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Beautician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of beauticians in the Netherlands?**
-答：Entry-level beauticians earn around €22,000-€28,000 gross annually, while senior or salon owners can reach €45,000. Self-employed income varies.
-
-**问：Can beauticians immigrate to the Netherlands via skilled migration?**
-答：Beautician salaries usually do not meet the EU Blue Card or Highly Skilled Migrant thresholds, but self-employment or orientation year visa are options.
-
-**问：What education is needed to become a beautician in the Netherlands?**
-答：Typically a 3-year MBO program in beauty or private training courses. Certification is not mandatory but helpful.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

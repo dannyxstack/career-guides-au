@@ -1,58 +1,94 @@
-# Gastronomy Service Worker（Gastronomy Service Worker）职业分析 · DE
+# Gastronomy Service Worker — career analysis · Germany
 
-**职业代码：6330 – Gastronomy Service Worker。**
+**Occupation code: 6330 (KldB)**
 
-Provides food and beverage service in restaurants, bars, hotels, etc., including order taking, serving, drink service, and customer reception. No formal degree required, but good communication and teamwork skills are essential.
+Provide food and beverage services in restaurants, bars, hotels, etc., including order taking, serving, drinks service, and customer reception. No professional degree required but good communication and teamwork skills needed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无学费） |
-| 短期培训（Anlernberuf） | 3-6个月 | —（通常由雇主提供在职培训，部分短期课程需自费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Paid during training, usually no tuition fees) |
+| Short-term training (Anlernberuf) | 3-6 months | $0~$500 (Usually provided by employers through on-the-job training; some short courses may be self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生证书（Gesundheitszeugnis） | 当地卫生局 | 必备 | 从事食品接触工作所需，通常由雇主协助办理 |
-| IHK服务证书（可选） | 德国工商会（IHK） | 可选 | 非强制，但可提升职业前景 |
+| Health certificate (Gesundheitszeugnis) | Local health authority | Required | Required for food handling work, usually arranged by employer |
+| IHK Service Certificate (optional) | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but can enhance career prospects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。德国餐饮业长期面临劳动力短缺，尤其是服务人员。随着旅游和餐饮消费回升，就业机会稳定增长。但工作多为兼职或临时合同，全职岗位有限。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. Germany's hospitality industry has long faced labor shortages, especially for service staff. With the recovery of tourism and dining, job opportunities are steadily growing. However, most jobs are part-time or temporary contracts, with limited full-time positions.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，不含小费 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含部分小费 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含领班或主管津贴 |
+| Median salary | $33,552 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual salary before tax, excluding tips |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, including some tips |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including leading hand or supervisor allowance |
+| average salary | $35,868 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级服务员（Anlernberuf）起步，通过经验积累升为领班（Schichtführer）或主管（Restaurantleiter）。也可通过进修（如IHK认证）转向酒店管理或活动策划。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Can start as a junior service staff (Anlernberuf) and progress to shift supervisor (Schichtführer) or restaurant manager (Restaurantleiter) through experience. Further training (e.g., IHK certification) can lead to hotel management or event planning.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Gastronomy
 - Tourism
@@ -61,68 +97,67 @@ Provides food and beverage service in restaurants, bars, hotels, etc., including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 若持有德国认可的Ausbildung学历，可申请技术移民签证。餐饮服务培训可匹配。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 无需工作offer，基于积分制来德找工，适合有相关经验者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月找工签证，需证明语言能力和资金。适合无特定offer但有意在德从事餐饮服务者。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | If you hold a German-recognised Ausbildung qualification, you can apply for a skilled migration visa. Food and beverage service training may be matched. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | No job offer required; points-based job search in Germany, suitable for those with relevant experience. |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring proof of language skills and funds. Suitable for those without a specific job offer but interested in working in food service in Germany. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gastronomy Service Worker？**
-- 有服务意识、喜欢与人交流的人
-- 能接受轮班制（包括晚间、周末和节假日）的人
-- 对餐饮行业有热情，愿意从基层做起的人
-
-**谁不适合学Gastronomy Service Worker？**
-- 不善于应对高压和繁忙环境的人
-- 希望工作时间固定、周末休息的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a service mindset who enjoy interacting with others
+- People who can accept shift work (including evenings, weekends, and holidays)
+- People who are passionate about the hospitality industry and willing to start from the ground up
+
+**Who is not suited**
+- People who are not good at handling high-pressure and busy environments
+- Those who prefer fixed working hours and weekends off
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a food service attendant in Germany?**
+A: Entry-level annual salary approximately 20,000-26,000 euros pre-tax, with tips often reaching over 30,000 euros. Salary varies by region, restaurant level, and experience.
+
+**Q: What visas are needed for foreigners to work in food service in Germany?**
+A: If you hold a German-recognized vocational qualification, you can apply for a skilled migration visa; otherwise, try the Opportunity Card to find a job in Germany. German B1 level is usually necessary.
+
+**Q: Are there promotion opportunities for food service staff?**
+A: Yes. Through experience, can advance to team leader, supervisor, or restaurant manager. IHK training can also lead to hotel management or food and beverage operations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gastronomy Service Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for gastronomy service workers in Germany?**
-答：Entry-level annual gross salary is about €20,000-26,000, plus tips often bringing it above €30,000. Varies by region, restaurant type, and experience.
-
-**问：What visa do foreigners need for gastronomy service in Germany?**
-答：With a recognized German vocational qualification, you can apply for a skilled worker visa. Otherwise, the Opportunity Card allows job-seeking. German B1 level is usually required.
-
-**问：Are there promotion opportunities for gastronomy service workers?**
-答：Yes. With experience, you can advance to shift leader, supervisor, or restaurant manager. IHK certification can lead to hotel management or catering operations.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

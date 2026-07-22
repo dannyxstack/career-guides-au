@@ -1,58 +1,94 @@
-# Journalist（Journalist）职业分析 · IE
+# Journalist — career analysis · Ireland
 
-**职业代码：2642 – Journalist。**
+**Occupation code: 2642 (ISCO08)**
 
-Journalists gather, investigate, and report news events, writing articles and producing content for newspapers, television, radio, or digital media.
+Journalists gather, investigate, and report news events, writing articles and creating content for newspapers, television, radio, or digital media.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $15,000~$25,000（爱尔兰本科国际生学费，部分院校提供奖学金） |
-| 硕士 | 1-2年（硕士） | $15,000~$30,000（硕士课程学费，如都柏林城市大学） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $15,000~$25,000 (International undergraduate tuition fees in Ireland, with scholarships available at some institutions) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Master's program tuition fees, e.g., Dublin City University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新闻学学位 | 爱尔兰大学 | 可选 | 通常要求相关本科学位 |
-| 实习经验 | 媒体机构 | 可选 | 实习或工作经验通常必备 |
+| Journalism degree | Irish universities | Optional | Typically requires a relevant bachelor's degree |
+| Internship experience | Media organizations. | Optional | Internship or work experience usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,000。爱尔兰媒体行业受数字化转型影响，传统岗位减少，但数字内容、多媒体和数据新闻需求增长。预计就业增长平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,000. The Irish media industry is affected by digital transformation, with traditional roles declining but demand for digital content, multimedia, and data journalism growing. Employment growth is expected to be steady.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$80,000 | 税前年薪，资深编辑或主编更高 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$80,000 | Gross annual salary, higher for senior editors or editors-in-chief |
+| average salary | $50,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级记者可晋升为高级记者、编辑或专题记者；经验丰富者可转向管理岗位如新闻主编，或成为自由撰稿人。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will profoundly reshape the journalism profession: basic information gathering, data sorting, and content generation tasks become automated, but human core values such as investigative analysis, in-depth interviews, and narrative creativity are amplified, creating a bittersweet situation of 'low-end shrinking, high-end expanding.'
+
+Junior journalists can advance to senior journalists, editors, or feature writers; experienced ones can move into management roles such as news editor-in-chief or become freelance writers.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized news briefs (e.g., financial reports, weather, sports scores)
+- Extract and integrate information from structured data (e.g., database queries, statistical summaries)
+- Quickly translate multilingual news articles and perform initial rewriting
+- Basic fact-checking and duplication checking (cross-verifying public sources)
+- Automated distribution and personalized recommendations (curating articles based on user profiles)
+
+**Where AI augments the role:**
+
+- Using AI tools for large-scale data mining and pattern recognition (e.g., account relationship analysis in anti-corruption reporting)
+- Use generative AI to quickly produce multiple versions of copy, assisting with topic testing and narrative framework planning
+- Efficiently transcribe interview recordings and extract key information using AI voice assistants and automatic transcription tools
+- Using AI-assisted image/video generation tools to enrich the visual presentation of multimedia reports
+- With the help of AI translation and localization support, report global news more efficiently and serve diverse audiences.
+
+**Human moat:**
+
+- On-site first-hand observation and exclusive interview capabilities (e.g., war zones, disasters, political events)
+- Critical thinking and deep investigative skills (building trust, uncovering hidden truths)
+- ethical judgment and value trade-offs (such as privacy protection, fact-checking, emotional resonance)
+- Narrative creativity and human warmth (telling stories, evoking resonance, shaping public opinion)
+- Long-term tracking and professional interpretation of complex systems (political, economic, technological)
+
+**Skills to build:**
+
+- Data journalism and data visualization (Python/R + D3.js/Tableau)
+- Proficiency in AI tools and prompt engineering (e.g., ChatGPT, Claude + custom workflows)
+- Multimedia storytelling skills (short videos, podcasts, interactive web pages)
+- Investigative reporting techniques and information source management (OSINT, document analysis, data cleaning)
+- News ethics and AI policy awareness (informed consent, bias detection, explainability)
+- Cross-domain expertise (deep learning in policy, business, and technology fields)
+
+**Key growth areas:**
 
 - Digital media
 - Multimedia journalism
@@ -61,64 +97,63 @@ Journalists gather, investigate, and report news events, writing articles and pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于不紧缺职业，需雇主担保，年薪不低于30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪通常不低于欧洲平均水平（约33,000欧元），但记者职业不常见 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requires employer sponsorship, annual salary not less than €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, annual salary usually not less than the European average (around €33,000), but the journalist profession is uncommon |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalist？**
-- 对新闻有热情的人
-- 写作能力强的人
-- 适应快节奏环境的人
-
-**谁不适合学Journalist？**
-- 不喜欢严格截稿时间的人
-- 不擅长与人沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about news
+- People with strong writing skills
+- People who thrive in fast-paced environments
+
+**Who is not suited**
+- People who dislike strict deadlines
+- People who are not good at communicating with others
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of journalists?**
+A: Junior reporters earn around 30,000-40,000 euros annually, senior reporters can exceed 55,000 euros, but overall income is moderate.
+
+**Q: How can a journalist immigrate to Ireland?**
+A: Typically requires employer-sponsored General Employment Permit, meeting salary requirements and passing labor market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Journalist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for journalists?**
-答：Entry-level journalists earn around €30,000-€40,000 per year, while senior journalists can exceed €55,000, though overall income is moderate.
-
-**问：How can journalists migrate to Ireland?**
-答：Typically through a General Employment Permit with employer sponsorship, meeting salary requirements and labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

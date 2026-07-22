@@ -1,58 +1,94 @@
-# Train and tram drivers（Train and tram drivers）职业分析 · UK
+# Train and tram drivers — career analysis · United Kingdom
 
-**职业代码：8231 – Train and tram drivers。**
+**Occupation code: 8231 (SOC)**
 
-Train and tram drivers operate diesel, electric, or steam-powered locomotives to transport passengers or freight on mainline, underground, and tram networks.
+Train and tram drivers operate diesel, electric, or steam-powered trains to transport passengers or goods on intercity, subway, and tram lines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常无需高等教育） |
-| 培训项目 | 12-20周 | —（雇主提供带薪培训） |
+| High school graduation | 0 years | $0~$0 (Usually no higher education required) |
+| Training program | 12-20 weeks | $0~$0 (Employer-provided paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 火车司机执照 | 铁路管制办公室 (ORR) | 必备 | 必须通过医疗、心理和实操考试 |
-| 安全认证 | 雇主 | 必备 | 完成强制安全和操作培训 |
+| Train driver license | Office of Rail and Road (ORR) | Required | Must pass medical, psychological, and practical exams |
+| Safety certification | Employer | Required | Complete mandatory safety and operational training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 30,000。随着铁路网络扩展和现有司机退休，预计未来10年该职业需求稳定，年均约2,000个新岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. As the railway network expands and existing drivers retire, demand for this occupation is expected to be steady over the next 10 years, with an average of about 2,000 new jobs annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 培训后起薪 |
-| 中级（3-10年） | $40,000~$50,000 | 多数司机在此范围 |
-| 高级（10年以上） | $50,000~$60,000 | 含加班及津贴 |
+| Median salary | $76,327 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary after training |
+| Intermediate (3-10 years) | $40,000~$50,000 | Most drivers fall within this range |
+| Senior (10+ years) | $50,000~$60,000 | Including overtime and allowances |
+| average salary | $75,860 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从助理司机做起，考取执照后成为司机；可晋升为资深司机、司机导师、运营主管或调度员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Train drivers face mixed impacts from AI/automation: train control systems and autonomous driving technologies will replace some operational tasks, but safety responsibilities, complex route handling, and industry regulatory requirements still provide a moat for humans; mining and freight routes have strong demand, and entry-level positions may temporarily shrink then stabilize.
+
+Usually start as an assistant driver, obtain a license to become a driver; can advance to senior driver, driver mentor, operations supervisor, or dispatcher.
+
+**Tasks most exposed to AI:**
+
+- Automatic Train Operation (ATO) takes over normal driving, acceleration, and braking
+- AI monitoring systems replacing manual inspection of signals and track conditions
+- Remote dispatch center takes over route planning and dispatch instructions
+- Autonomous freight trains on closed routes replace human drivers
+- AI Fault Diagnosis Systems Replacing Some Mechanical Inspections and Reports
+
+**Where AI augments the role:**
+
+- AI-assisted driving systems providing real-time optimal speed and braking suggestions
+- Augmented reality (AR) dashboards merging track, weather, and signal information
+- AI predictive maintenance alerts reduce sudden failures and misjudgments
+- Smart scheduling systems optimise shifts and energy consumption, improving efficiency
+- Digital twin simulation of extreme scenarios to enhance emergency training effectiveness
+
+**Human moat:**
+
+- Independent judgment and safety responsibility in emergency situations (e.g., sudden derailment risk)
+- Experience-based intuition for multiple line types (heavy-haul, passenger, curved)
+- Non-standard communication and collaboration with dispatchers, signalers, and station staff
+- Mandatory certification of operator qualifications under legal and industry regulations
+- Accountability pressure from public safety expectations
+
+**Skills to build:**
+
+- Proficient in operating and monitoring Automatic Train Operation (ATO) systems
+- Learn to use predictive maintenance and remote diagnostic tools
+- Familiarity with in-car AI-assisted driving interfaces and data interpretation
+- AI simulation training for basic emergency decision-making.
+- Mastering railway communication protocols and automated dispatching interfaces
+- Understanding railway safety regulations and automated compliance standards
+
+**Key growth areas:**
 
 - Rail expansion
 - Driver retirement
@@ -61,64 +97,63 @@ Train and tram drivers operate diesel, electric, or steam-powered locomotives to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 符合资格，雇主需持有担保资质 |
-| Subclass Graduate（Graduate visa） | 适合应届生，但需先找到培训岗位 |
+| Subclass Skilled Worker (Skilled Worker visa) | Eligible, the employer must hold sponsorship approval |
+| Subclass Graduate (Graduate visa) | Suitable for graduates, but requires finding a training position first |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Train and tram drivers？**
-- 注重安全、责任心强的人
-- 能够适应轮班和不规律作息的人
-- 喜欢独立操作和稳定职业的人
-
-**谁不适合学Train and tram drivers？**
-- 无法忍受长时间单调工作的人
-- 对机械操作缺乏兴趣的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Safety-conscious and responsible individuals
+- People who can adapt to shift work and irregular schedules
+- Those who prefer independent work and stable careers
+
+**Who is not suited**
+- People who cannot tolerate long periods of monotonous work
+- People who lack interest in operating machinery
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a train driver?**
+A: Junior annual salary around £28,000-35,000, mid-level £40,000-50,000, senior up to £60,000 or more.
+
+**Q: Can overseas applicants apply for a UK train driver work visa?**
+A: Yes, the occupation is on the skilled worker visa list, but the employer must prove they cannot recruit local workers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Train and tram drivers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a train driver?**
-答：Entry-level salary is around £28,000-£35,000, mid-level £40,000-£50,000, and senior can exceed £60,000.
-
-**问：Can overseas workers get a Skilled Worker visa for train driving?**
-答：Yes, the occupation is eligible for Skilled Worker visa; employers must demonstrate difficulty recruiting locally.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

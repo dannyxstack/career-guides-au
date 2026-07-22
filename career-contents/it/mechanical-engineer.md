@@ -1,58 +1,94 @@
-# Mechanical Engineer（Mechanical Engineer）职业分析 · IT
+# Mechanical Engineer — career analysis · Italy
 
-**职业代码：2144 – Mechanical Engineer。**
+**Occupation code: 2144 (ISCO08)**
 
-Mechanical Engineers design, develop, test, and maintain mechanical systems and equipment, widely employed in manufacturing, automation, energy, and transportation sectors.
+Mechanical engineers design, develop, test, and maintain mechanical systems and equipment, widely used in manufacturing, automation, energy, and transportation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | $1,000~$3,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年 | $1,500~$4,000（公立大学学费，部分专业更高） |
+| Bachelor's degree | 3 years | $1,000~$3,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years | $1,500~$4,000 (Public university tuition fees, higher for some majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利工程师执业资格（Albo） | 意大利工程师协会 | 可选 | 从事独立设计或签字需注册 |
-| 欧盟工程师认证 | FEANI | 可选 | 有助于跨国执业 |
+| Italian engineer professional qualification (Albo) | Italian Order of Engineers | Optional | Independent design or signing requires registration |
+| EU engineer certification | FEANI | Optional | Helpful for cross-border practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。意大利机械工程行业稳定，受益于制造业复兴和能源转型需求。预计未来五年就业增长约5%，北部工业区机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. The Italian mechanical engineering industry is stable, benefiting from manufacturing revival and energy transition demand. Expected employment growth of about 5% in the next five years, with more opportunities in the northern industrial areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（4-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（8年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $46,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级机械工程师可晋升为项目经理、技术专家或研发主管，资深者可担任首席工程师或技术总监。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mechanical Engineers face mixed impacts from AI: routine design, simulation, and documentation tasks will be automated, but complex system integration, innovation, and on-site problem-solving remain highly valuable.
+
+Junior mechanical engineers can advance to project manager, technical expert, or R&D supervisor; senior engineers can become chief engineer or technical director.
+
+**Tasks most exposed to AI:**
+
+- CAD drafting and 2D drawing generation
+- Standard finite element analysis (FEA) and computational fluid dynamics (CFD) simulations
+- Generate Standard BOMs and Technical Documentation
+- Routine tolerance analysis and dimensional inspection
+- Predictive maintenance planning based on historical data
+
+**Where AI augments the role:**
+
+- AI-driven generative design (e.g., topology optimization)
+- Machine learning-based failure mode and effects analysis (FMEA)
+- Digital twin real-time simulation and optimization
+- Smart materials selection and supply chain optimization
+- Write automated test and verification scripts
+
+**Human moat:**
+
+- Cross-system physical intuition and innovative design
+- Complex nonlinear problem diagnosis and on-site debugging
+- Ethical and responsible decision-making for safety-critical systems
+- Unstructured communication with clients and suppliers
+- Multidisciplinary integration and system architecture decision-making
+
+**Skills to build:**
+
+- AI-enhanced design tools (e.g., Autodesk Fusion 360 generative design)
+- Python/R for data analysis and automation scripts
+- Digital Twin and IoT Integration Knowledge
+- Additive Manufacturing (3D Printing) Design Optimization
+- Machine Learning Basics and Fault Prediction
+- System modeling and simulation
+
+**Key growth areas:**
 
 - Automation
 - Renewable Energy
@@ -61,67 +97,66 @@ Mechanical Engineers design, develop, test, and maintain mechanical systems and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪不低于约25,000欧元（2024年标准），合同至少1年。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 受年度配额限制，适用于一般技术工人，需雇主担保。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring an annual salary of at least approximately €25,000 (2024 standard) and a contract of at least 1 year. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Subject to annual quota limits, applicable to general skilled workers, requiring employer sponsorship. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineer？**
-- 喜欢解决复杂工程问题，具备数学和物理基础
-- 注重细节，有良好的动手能力和团队协作精神
-- 愿意持续学习新技术，适应工业4.0趋势
-
-**谁不适合学Mechanical Engineer？**
-- 不擅长抽象思维或数学分析
-- 不喜欢办公室与现场结合的工作模式
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes solving complex engineering problems, has a foundation in math and physics
+- Detail-oriented, with good hands-on skills and team collaboration spirit
+- Willing to continuously learn new technologies and adapt to Industry 4.0 trends
+
+**Who is not suited**
+- Not good at abstract thinking or mathematical analysis
+- Dislike the combination of office and on-site work mode
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Italian mechanical engineers?**
+A: Entry-level approx. €30,000-38,000, mid-level €38,000-50,000, senior up to €70,000. Salary varies by region, industry, and company size, with higher pay in the north.
+
+**Q: How can foreign mechanical engineers obtain an Italian work visa?**
+A: Can apply via EU Blue Card (requires high salary) or Decreto Flussi quota work visa. Blue Card requires annual salary about €25,000 or more.
+
+**Q: Is it necessary to register as a professional engineer in Italy?**
+A: Not mandatory, but registration with the Albo Engineers Association is required for independent design or signing technical documents.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mechanical engineers in Italy?**
-答：Entry-level: €30,000-38,000; mid-level: €38,000-50,000; senior: up to €70,000. Varies by region, industry, and company size.
-
-**问：How can a foreign mechanical engineer obtain a work visa for Italy?**
-答：Via EU Blue Card (requires high salary) or Decreto Flussi quota work visa. Blue Card requires annual salary above €25,000.
-
-**问：Do I need to register as a professional engineer in Italy?**
-答：Not mandatory, but registration with Albo is required for independent design or signing technical documents.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

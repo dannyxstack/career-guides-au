@@ -1,61 +1,96 @@
-# Personal Care Worker in Health Services（Personal Care Worker in Health Services）职业分析 · IE
+# Personal Care Worker in Health Services — career analysis · Ireland
 
-**职业代码：5329 – Personal Care Worker in Health Services。**
+**Occupation code: 5329 (ISCO08)**
 
-Provide personal care support in health services, assisting elderly, disabled, or chronically ill individuals with daily activities such as hygiene, meals, and mobility.
+Provide personal care support in health services, assisting elderly, disabled, or chronically ill patients with daily activities such as personal hygiene, eating, and mobility.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式学位 | —（无学费，但需参加培训课程） |
-| 职业培训证书 | 6-12个月 | $1,000~$3,000（如QQI Level 5 Healthcare Support） |
+| High school graduation | No formal degree required | $0~$0 (No tuition fees, but training courses required) |
+| Vocational training certificate | 6–12 months | $1,000~$3,000 (e.g. QQI Level 5 Healthcare Support) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医疗支持证书 | QQI (Quality and Qualifications Ireland) | 必备 | 常见入门证书，涵盖护理基础 |
-| 患者搬运培训 | 雇主或培训机构 | 可选 | 部分雇主要求 |
-| 急救证书 | 爱尔兰红十字会或类似机构 | 必备 | 通常要求 |
+| Certificate in Medical Support | QQI (Quality and Qualifications Ireland) | Required | Common entry-level certification covering nursing fundamentals |
+| First aid certificate | Irish Red Cross or similar organization | Required | Usually required |
+| Patient handling training | Employer or training provider | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。爱尔兰因人口老龄化和护理需求增长，个人护理员就业前景强劲。预计至2028年岗位将增长15%以上，尤其家庭护理和养老院领域需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Strong employment prospects for personal care assistants due to aging population and growing care needs in Ireland. Expected job growth of over 15% by 2028, especially in home care and nursing homes.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 时薪约€12-14 |
-| 中级（3-7年） | $28,000~$34,000 | 含经验加薪及夜班补贴 |
-| 高级（7年以上） | $34,000~$40,000 | 团队主管或专家角色 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Hourly wage approximately €12-14 |
+| Mid-level (3–7 years) | $28,000~$34,000 | Salary loading for experience and night shift allowance |
+| Senior (7+ years) | $34,000~$40,000 | Team leader or specialist role |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括晋升为高级护理员、团队主管或护理协调员。通过继续教育可转型为护理助理或注册护士。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will amplify the capabilities of personal care workers, improving service efficiency and quality through smart scheduling, remote monitoring, and decision support, but core care tasks still require humans.
+
+Career progression paths include promotion to senior caregiver, team leader, or care coordinator. Through continuing education, can transition to nursing assistant or registered nurse.
+
+**Tasks most exposed to AI:**
+
+- Record nursing logs and reports (AI automatic transcription and data analysis)
+- Basic health monitoring (e.g., blood pressure, body temperature, automatically collected by AI sensors)
+- Medication reminders and simple scheduling (AI voice assistant alternative)
+- General Q&A and information inquiry (AI chatbot)
+
+**Where AI augments the role:**
+
+- Optimize daily visit routes and time allocation through intelligent scheduling
+- Real-time translation and summarization during remote doctor collaboration (AI speech-to-text)
+- Early warning of abnormal health indicators via wearable devices (AI analysis)
+- Personalized care plan suggestions (AI recommends based on big data)
+- Training and skill development (AI simulation-based learning)
+
+**Human moat:**
+
+- Emotional support and psychological comfort (empathy, trust relationships)
+- Flexible judgment and human empathy in complex situations.
+- Personal care (e.g., assistance with bathing, dressing)
+- On-site adaptability to handle emergencies
+- Cross-cultural communication and understanding personalized customer needs
+
+**Skills to build:**
+
+- Basic digital literacy (using nursing apps, electronic record systems)
+- Remote health monitoring device operation and data interpretation
+- Communication and Emotional Intelligence (Enhanced Human-Machine Collaboration)
+- Time management and prioritization (efficiency improved with AI assistance)
+- Continuous learning ability (tracking new nursing techniques)
+- Basic data analysis (understanding AI-generated reports)
+
+**Key growth areas:**
 
 - Aging population
 - Home care expansion
@@ -64,66 +99,68 @@ Provide personal care support in health services, assisting elderly, disabled, o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛通常€30,000以上 |
-| Subclass EU Free Movement（EU/EEA Freedom of Movement） | 欧盟/EEA公民无需工作许可，可自由工作 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 个人护理员通常不在紧缺职业列表，但部分护理岗位可能符合 |
+| Subclass General Employment P (General Employment Permit) | For non-occupation on the shortage list, requires employer sponsorship, annual salary threshold typically above €30,000 |
+| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU/EEA citizens do not need a work permit and can work freely |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Personal care attendants are usually not on the skilled occupation list, but some care roles may qualify |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Care Worker in Health Services？**
-- 有耐心和同理心的人
-- 喜欢稳定护理工作的人
-- 愿意从事轮班工作的人
+**Who is suited**
+- People with patience and empathy
+- People who prefer stable nursing jobs
+- People willing to work shifts
 
-**谁不适合学Personal Care Worker in Health Services？**
-- 无法承受体力劳动的人
-- 不擅长沟通的人
+**Who is not suited**
+- People unable to perform physical labor
+- People who are not good at communicating
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for personal care assistants in Ireland?**
+A: Entry-level approx €23,000-28,000, mid-level €28,000-34,000, senior up to €40,000. Salary includes night and weekend allowances.
+
+**Q: How can non-EU citizens immigrate to Ireland as personal care aides?**
+A: General Employment Permit requiring employer sponsorship, usually with an annual salary of €30,000 or more. Critical Skills Permits may be available for in-demand positions, but personal care workers are generally not eligible.
+
+**Q: What are the promotion opportunities for personal care aides?**
+A: You can progress to senior caregiver or team leader through experience, or continue studying to become an enrolled nurse or registered nurse.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Personal Care Worker in Health Services属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for personal care workers in Ireland?**
-答：Entry-level €23,000-28,000, mid-level €28,000-34,000, senior up to €40,000. Includes shift allowances.
-
-**问：How can non-EU citizens immigrate to Ireland as a personal care worker?**
-答：Need employer sponsorship for a General Employment Permit, salary typically above €30,000. Critical Skills permit is rarely applicable.
-
-**问：What are the career advancement opportunities for personal care workers?**
-答：Advance to senior carer, team leader, or pursue further education to become a nursing assistant or registered nurse.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

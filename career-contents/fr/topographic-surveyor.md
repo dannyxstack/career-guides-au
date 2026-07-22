@@ -1,62 +1,98 @@
-# Topographic Surveyor（Topographic Surveyor）职业分析 · FR
+# Topographic Surveyor — career analysis · France
 
-**职业代码：F1107 – Topographic Surveyor。**
+**Occupation code: F1107 (ROME)**
 
-Topographic surveyors use GPS, total stations, and other equipment to measure land surfaces, producing maps and data for construction and engineering projects. Tasks include data collection, processing, and report generation.
+Topographic surveyors are responsible for using GPS, total stations, and other equipment for ground measurement, mapping, or providing data needed for building and engineering projects. The work includes data collection, processing, and report preparation.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（法国高级技师证书） | 2年 | $1,000~$5,000（公立学校学费低，私立学校较高） |
-| Licence professionnelle | 3年（含BTS+1年） | $2,000~$8,000（大学学费，含学徒制可能免费） |
-| DUT（大学科技文凭） | 2年 | $1,000~$5,000（公立大学学费） |
+| BTS (French Senior Technician Certificate) | 2 years | $1,000~$5,000 (Public schools have lower tuition fees, while private schools have higher fees) |
+| Licence professionnelle | 3 years (including BTS + 1 year) | $2,000~$8,000 (University tuition, including apprenticeships, may be free) |
+| DUT (University Diploma in Technology) | 2 years | $1,000~$5,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Métiers du géomètre-topographe et de la modélisation numérique | 法国教育部 | 必备 | 行业基础文凭，多数雇主要求 |
-| Licence pro en topographie | 大学 | 可选 | 高级文凭，有利于晋升 |
-| Certificat de capacité de géomètre-topographe (除BTS外的职业证书) | 行业组织 | 可选 | 非强制，但增强竞争力 |
+| BTS Métiers du géomètre-topographe et de la modélisation numérique | French Ministry of Education | Required | Industry foundation diploma, required by most employers |
+| Licence pro en topographie | University | Optional | Advanced diplomas are beneficial for promotion |
+| Certificat de capacité de géomètre-topographe (Professional certificates other than BTS) | Industry organizations. | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 15,000。法国公共工程和城市规划持续发展，地形测量员需求稳定。但数字化和无人机技术可能改变工作方式，要求从业者不断学习新技能。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. Public works and urban planning in France continue to develop, and the demand for topographic surveyors remains stable. However, digitalization and drone technology may change the way we work, requiring practitioners to constantly learn new skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，公共部门略低 |
-| 中级（3-8年） | $32,000~$42,000 | 含经验和项目管理 |
-| 高级（8年以上） | $42,000~$55,000 | 高级测量师或项目经理 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary is slightly lower in the public sector |
+| Mid-level (3–8 years) | $32,000~$42,000 | Includes experience and project management |
+| Senior (8+ years) | $42,000~$55,000 | Senior surveyors or project managers |
+| average salary | $28,800 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从初级测量员起步，可晋升为项目负责人或专家测量师。通过经验积累和资质认证，有机会进入管理层或独立执业。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Topographic surveyors' work faces moderate to high automation risks. AI and automation tools will take over massive data collection and processing tasks, but human advantages such as judging complex field environments, regulatory compliance, and client coordination remain irreplaceable, and roles will shift toward technical consulting and data management.
+
+Starting as a junior surveyor, you can be promoted to project leader or expert surveyor. Through experience accumulation and qualification certification, you have the opportunity to enter management or practice independently.
+
+**Tasks most exposed to AI:**
+
+- Automated use of GPS and total stations for routine terrain point data collection
+- Data processing and preliminary map mapping
+- Repeat measurement records and report generation
+- Simple surface modeling based on historical data
+- Automatic registration of on-site photos and point cloud data
+
+**Where AI augments the role:**
+
+- AI-assisted high-precision terrain modeling and anomaly detection
+- Real-time data fusion and multi-source sensor integration
+- Immersive digital twin visualization and virtual patrol
+- Automated quality control and compliance checks
+- Intelligent field path planning and risk warning
+
+**Human moat:**
+
+- On-site judgment and decision-making under complex terrain and special working conditions
+- Cross-disciplinary Coordination (with engineers, architects, regulatory agencies)
+- Interpretation of measurement regulations and industry standard compliance
+- Understanding customer needs and communicating customized solutions
+- Emergency response and safety responsibilities in unforeseen circumstances
+
+**Skills to build:**
+
+- 3D modeling and point cloud processing (such as Revit, Civil 3D, Faroo, etc.)
+- Advanced Geographic Information System (GIS) Analysis and Programming (Python, SQL)
+- Drone aerial survey and LiDAR data processing
+- Fundamentals of machine learning and data science
+- Project management and digital twin platform operation
+- Internet of Things (IoT) sensor integration and data analysis
+
+**Key growth areas:**
 
 - Digital mapping
 - Drone surveying
@@ -65,69 +101,68 @@ Topographic surveyors use GPS, total stations, and other equipment to measure la
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié) Work Permit） | 需获得法国雇主工作合同，且职位需通过劳动力市场测试（如Pôle emploi确认无合适候选人）。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能岗位，年薪需达到1.5倍法国平均工资（约53800欧元），该职位薪资通常不达标。 |
-| Subclass Passeport Talent（Talent Passport (Qualified Employee)） | 需年薪至少约37000欧元，且合同与高技能职位匹配。可能性较低，除非担任高级管理职务。 |
+| Subclass Salarié (Employee (Salarié) Work Permit) | You must obtain a French employer employment contract, and the position must pass a labor market test (e.g., Pôle emploi confirms there are no suitable candidates). |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions, the annual salary must reach 1.5 times the French average (about 53,800 euros), which usually does not meet the salary standard. |
+| Subclass Passeport Talent (Talent Passport (Qualified Employee)) | An annual salary of at least about 37,000 euros is required, and the contract matches a high-skilled position. The likelihood is low, unless you hold a senior management position. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Topographic Surveyor？**
-- 喜欢户外工作，动手能力强
-- 注重细节，具备数学和空间思维能力
-- 愿意学习GPS和测绘新技术
-
-**谁不适合学Topographic Surveyor？**
-- 不习惯恶劣天气或野外环境
-- 对重复性数据采集工作感到厌倦
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys working outdoors and has strong hands-on skills
+- Attention to detail, with mathematical and spatial thinking skills
+- Willing to learn new GPS and surveying technologies
+
+**Who is not suited**
+- Not accustomed to harsh weather or outdoor environments
+- Tired of repetitive data collection work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for topographers in France?**
+A: Entry-level salaries are about 25,000-32,000 euros, intermediate salaries about 32,000-42,000 euros, and seniors up to 55,000 euros. The public sector is slightly lower than private enterprises.
+
+**Q: Can foreigners become French topographic surveyors through skilled migration?**
+A: This occupation is not in short supply, and immigration pathways are limited. Usually, a job contract and labor market testing are required, and employers must prove that there are no suitable EU candidates. EU citizens can move freely.
+
+**Q: What qualifications are required to conduct topographic surveying in France?**
+A: You must hold a BTS Métiers du géomètre-topographe or an equivalent diploma. Licence Pro helps with promotion. Foreigners must pass diploma equivalent certification (ENIC-NARIC).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Topographic Surveyor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for topographic surveyors in France?**
-答：Entry-level annual salary is around €25,000-€32,000, mid-level €32,000-€42,000, and senior up to €55,000. Public sector pays slightly less.
-
-**问：Can foreigners become topographic surveyors in France via skilled migration?**
-答：This occupation is not in shortage; migration options are limited. A job offer and labor market test are required. EU citizens have free movement.
-
-**问：What qualifications are needed to work as a topographic surveyor in France?**
-答：A BTS in surveying is mandatory. A licence pro is beneficial. Foreign qualifications must be recognized by ENIC-NARIC.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

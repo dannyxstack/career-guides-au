@@ -1,60 +1,95 @@
-# Engraver（Engraver）职业分析 · DE
+# Engraver — career analysis · Germany
 
-**职业代码：9353 – Engraver。**
+**Occupation code: 9353 (KldB)**
 
-Engravers use manual or CNC equipment to carve text or designs on materials like metal, glass, and stone, commonly for jewelry, trophies, and molds.
+Engravers use manual or CNC equipment to carve text or patterns on materials such as metal, glass, or stone, commonly used in jewelry, trophies, molds, etc.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（带薪培训，企业支付津贴） |
-| 进修（技师） | 1-2年 | $1,000~$5,000（部分资助） |
+| Vocational training (dual system) | 3 years | $0~$500 (Paid training with employer-paid allowances) |
+| Advanced training (technician) | 1-2 years | $1,000~$5,000 (Partial funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 雕刻师职业资格证书 | 德国工商会 (IHK) | 必备 | 完成双元制培训后获得 |
-| 技师证书 | IHK | 可选 | 晋升需要，非强制 |
+| Carver vocational qualification certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Technician certificate | IHK | Optional | Required for promotion, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。随着个性化定制需求增加，雕刻行业保持稳定。但自动化设备普及，纯手工雕刻岗位减少。德国市场对精密雕刻师有一定需求，尤其工业模具雕刻。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. With increasing demand for personalization, the engraving industry remains stable. However, automation reduces purely manual engraving roles. Germany has demand for precision engravers, especially in industrial mold engraving.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪 |
-| 高级（6年以上） | $38,000~$48,000 | 税前年薪 |
+| Median salary | $38,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years) | $38,000~$48,000 | Annual pre-tax salary |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 学徒期满后可晋升为资深雕刻师、车间主管，或通过进修成为模具制造技师。部分雕刻师自主创业开设工作室。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The carver occupation will undergo differentiation: low-end manual carving and simple CNC operations are replaced by AI, but high-end custom, artistic creation, and complex design gain value due to AI assistance.
+
+After completing the apprenticeship, one can advance to senior engraver, workshop supervisor, or further study to become a mold-making technician. Some engravers start their own studios.
+
+**Tasks most exposed to AI:**
+
+- Simple repetitive character carving and reproduction of common patterns
+- Basic CNC engraving programming and operation
+- Standard engraving of bulk jewelry and trophies
+- Manual sanding and mechanical polishing and other automatable steps
+
+**Where AI augments the role:**
+
+- AI generates personalised fonts and pattern designs to aid creative ideation
+- 3D scanning and AI auto-generation of carving paths improve precision and efficiency
+- Material properties database with AI recommending optimal engraving parameters
+- Augmented reality to preview carving effects, reducing trial-and-error costs
+- Automated quality inspection and AI error correction
+
+**Human moat:**
+
+- Ability for complex artistic creativity and original design
+- Refined touch and aesthetic judgment of high-end hand carving
+- Understanding customer communication and customising personalised needs
+- Experience in antique restoration and special material handling
+- Aesthetic appreciation and art history knowledge spanning traditional crafts
+
+**Skills to build:**
+
+- Proficiency in AI-assisted design software (e.g., Adobe Illustrator AI plugins, DALL·E prompt engineering)
+- Learn CNC engraving programming and CAD/CAM combined with AI optimization
+- Understand 3D scanning and reverse engineering skills
+- Enhance knowledge of materials science, especially properties of new materials.
+- Enhance digital marketing and personalized portfolio presentation
+- Learn AI-driven quality inspection and automation tools
+
+**Key growth areas:**
 
 - Artisan revival
 - Personalized products
@@ -63,66 +98,65 @@ Engravers use manual or CNC equipment to carve text or designs on materials like
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有大学学历且薪资达标者，但雕刻师通常不满足蓝卡学历要求。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Germany)） | 适用于完成德国职业培训或经资质认证的外国专业人员。 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分系统，允许未获得工作合同的求职者来德国找工作时间。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with a university degree and meeting salary requirements, but sculptors usually do not meet the Blue Card education requirements. |
+| Subclass Skilled Worker (Skilled Worker Visa (Germany)) | Applicable to foreign professionals who have completed German vocational training or are certified. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based system allowing job seekers without a job contract to come to Germany for job searching. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engraver？**
-- 有耐心和细致的手工能力者
-- 对艺术和工艺感兴趣者
-- 愿意接受职业培训者
-
-**谁不适合学Engraver？**
-- 追求高薪者
-- 不擅长重复精细工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for patient and detail-oriented individuals with manual skills.
+- For those interested in arts and crafts
+- Willing to undergo vocational training
+
+**Who is not suited**
+- Those seeking high salaries
+- People who are not good at repetitive fine work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a sculptor in Germany?**
+A: Entry-level carver annual salary approx. 24,000-30,000 euros, experienced can reach over 38,000 euros, but upper income limit is relatively low.
+
+**Q: How can a foreign sculptor immigrate to Germany?**
+A: Must first complete German-recognized qualification certification or participate in dual vocational training. Can apply for a skilled migration visa or opportunity card to find a job.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engraver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an engraver in Germany?**
-答：Entry-level engravers earn around €24,000-30,000 per year, experienced ones up to €38,000+, but income ceiling is relatively low.
-
-**问：How can foreign engravers immigrate to Germany?**
-答：They need recognition of qualifications or complete dual training. Can apply for Skilled Worker visa or Opportunity Card.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

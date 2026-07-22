@@ -1,60 +1,96 @@
-# Stock Clerk（Stock Clerk）职业分析 · 新西兰
+# Stock Clerk — career analysis · New Zealand
 
-**职业代码：591115 – Stock Clerk。**
+**Occupation code: 591115 (ANZSCO)**
 
-Stock Clerks manage inventory records, monitor goods in/out, conduct stocktakes, and ensure data accuracy in logistics, retail, and manufacturing. This occupation can lead to migration via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on Green List or long-term shortage lists.
+Inventory managers in logistics, retail, and manufacturing manage inventory records, monitor goods in/out, and conduct stocktakes to ensure data accuracy. This occupation can work in New Zealand via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on the Green List or long-term shortage list; immigration requires meeting SMC 6-point system requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中或同等学历 | 3年 | —（高中教育免费，但国际学生可能需要学费） |
-| 物流或商业文凭 | 1-2年 | $20,000~$35,000（私立院校或理工学院，国际学生学费） |
-| 本科(物流/供应链) | 3年 | $100,000~$120,000（大学本科学位，国际学生总学费） |
+| High school diploma or equivalent | 3 years | $0~$0 (High school education is free, but international students may need to pay tuition) |
+| Logistics or business diploma. | 1-2 years | $20,000~$35,000 (Private institutions or polytechnics; international student tuition) |
+| Bachelor's (Logistics/Supply Chain). | 3 years | $100,000~$120,000 (University bachelor's degree, total tuition fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰物流协会(CLA)认证 | Centre for Logistics and Supply Chain NZ | 可选 | 非强制，但有助于就业 |
-| 叉车执照 | 新西兰职业安全与健康机构(OSH) | 可选 | 操作叉车需要此执照 |
-| 有害物质处理证书 | 新西兰环境保护局 | 可选 | 处理危险品时需要 |
+| Certification by Conveyancing Lawyers Association (CLA) New Zealand | Centre for Logistics and Supply Chain NZ | Optional | Not mandatory, but helpful for employment |
+| Forklift licence | WorkSafe New Zealand (OSH) | Optional | This license is required to operate a forklift |
+| Hazardous materials handling certificate | New Zealand Environmental Protection Authority | Optional | Required when handling dangerous goods |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。新西兰物流与零售业持续增长，库存管理员需求稳定，尤其是奥克兰、基督城等大城市。目前从业人数约15,000人，未来五年预计年增长1-2%。就业机会集中于仓储、批发和零售企业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. New Zealand's logistics and retail sectors continue to grow, with stable demand for inventory managers, especially in major cities like Auckland and Christchurch. Current workforce is about 15,000, with an expected annual growth of 1-2% over the next five years. Employment opportunities are concentrated in warehousing, wholesale, and retail enterprises.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪约$45,000-$55,000 |
-| 中级（3-6年） | $55,000~$65,000 | 经验丰富后可达$55,000-$65,000 |
-| 高级（6年以上） | $65,000~$80,000 | 高级或主管级别可达$65,000-$80,000 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary approximately $45,000-$55,000. |
+| Mid-level (3–6 years) | $55,000~$65,000 | With experience, can reach $55,000-$65,000 |
+| Senior (6+ years) | $65,000~$80,000 | Senior or supervisory level can reach $65,000-$80,000 |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级库存管理员可晋升为高级库存管理员、仓库主管或物流协调员。积累经验后可转向供应链管理、采购或运营管理方向，薪资随之提升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Inventory clerk roles face high replacement risk due to AI and automation, as tasks like data entry and inventory tracking can be efficiently handled by systems, but physical counting and exception handling still require human input, with entry-level positions significantly shrinking.
+
+Junior inventory clerks can advance to senior inventory clerks, warehouse supervisors, or logistics coordinators. With experience, they can move into supply chain management, procurement, or operations, with corresponding salary increases.
+
+**Tasks most exposed to AI:**
+
+- Inventory data entry and updates
+- Inventory count data reconciliation and report generation
+- Scanning and recording goods in and out of warehouse
+- Automatic triggering of inventory alerts and replenishment notifications
+- Inventory ledger maintenance and variance analysis reports
+
+**Where AI augments the role:**
+
+- Optimize replenishment strategies using AI inventory forecasting systems
+- Use data analysis tools to identify inventory turnover issues
+- Manage multi-warehouse inventory using WMS system
+- Conduct in-depth analysis of abnormal inventory in collaboration with AI
+- Train AI models to identify patterns in inventory discrepancies.
+
+**Human moat:**
+
+- Manual spot checks and physical inventory in the warehouse
+- Interpersonal coordination and decision-making when handling inventory anomalies
+- Identification and classification of non-standard goods
+- Communication and negotiation with suppliers and logistics teams
+- Emergency manual replenishment scheduling.
+
+**Skills to build:**
+
+- Warehouse Management System (WMS) operation and configuration
+- Inventory data analysis (Advanced Excel features or Python/R)
+- RFID/barcode scanning equipment maintenance
+- Supply Chain Management Basics
+- Logic and decision-making for abnormal inventory handling
+- Teamwork and communication skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -63,68 +99,67 @@ Stock Clerks manage inventory records, monitor goods in/out, conduct stocktakes,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历+工作经验+新西兰工作offer），职业在ANZSCO技能等级4可申请，但需注意薪资门槛。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 通过认证雇主获得工作offer，可申请此工签，通常为期3年，可续签。 |
-| Subclass WTR（Work to Residence） | 部分雇主可提供工作转居留路径，但非普遍。 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system (qualifications + work experience + New Zealand job offer). Occupations at ANZSCO skill level 4 are eligible, but the salary threshold must be met. |
+| Subclass AEWV (Accredited Employer Work Visa) | With a job offer from an accredited employer, you can apply for this work visa, typically valid for 3 years and renewable. |
+| Subclass WTR (Work to Residence) | Some employers may offer a work-to-residence pathway, but this is not universal. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stock Clerk？**
-- 注重细节、有条理的人
-- 喜欢仓储和物流环境
-- 愿意从基层做起，逐步晋升
-
-**谁不适合学Stock Clerk？**
-- 不喜欢重复性工作
-- 对体力劳动（如搬运盘点）有抵触
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized person
+- Enjoys warehouse and logistics environments
+- Willing to start from entry-level and gradually advance
+
+**Who is not suited**
+- Dislikes repetitive work
+- Averse to physical labor (e.g., lifting, inventory taking)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an inventory clerk?**
+A: Entry-level approx $45,000-$55,000, mid-level $55,000-$65,000, senior $65,000-$80,000, slightly higher in major cities.
+
+**Q: Can an inventory manager immigrate to New Zealand through skilled migration?**
+A: Yes, but not on the Green List. Must pass SMC 6-point system, combining qualifications, work experience, and a job offer in New Zealand, with salary above the median.
+
+**Q: What qualifications are needed to work as an inventory manager?**
+A: High school diploma can get you started, but a logistics or business diploma/degree can enhance employment prospects and salary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stock Clerk的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Stock Clerk?**
-答：Entry-level: NZD 45,000-55,000; mid-level: NZD 55,000-65,000; senior: NZD 65,000-80,000. Higher in major cities.
-
-**问：Can a Stock Clerk migrate to New Zealand through skilled migration?**
-答：Yes, but not on Green List. Need SMC 6-point system with qualification, experience, and NZ job offer; salary above median.
-
-**问：What education is required to become a Stock Clerk?**
-答：High school is minimum; a diploma or degree in logistics/business improves prospects and salary.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

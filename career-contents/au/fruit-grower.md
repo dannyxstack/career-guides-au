@@ -1,59 +1,95 @@
-# Fruit Grower（Fruit Grower）职业分析 · 澳大利亚
+# Fruit Grower — career analysis · Australia
 
-**职业代码：121612 – Fruit Grower。**
+**Occupation code: 121612 (ANZSCO)**
 
-Fruit Growers plan, plant, cultivate and harvest various fruit crops, manage orchard operations, and ensure product quality and yield.
+Fruit growers plan, plant, cultivate and harvest various fruit crops, manage orchard operations, and ensure product quality and yield.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业证书 | 1年 | $5,000~$15,000（TAFE课程费用） |
-| 农业学士 | 3-4年 | $30,000~$45,000（大学年费） |
+| Professional certificate | 1 year | $5,000~$15,000 (TAFE course fees) |
+| Bachelor of Agriculture | 3-4 years | $30,000~$45,000 (University annual fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业三级证书 | TAFE | 可选 | 基础技能培训，非强制但有益 |
-| 农业学士学位 | 大学 | 可选 | 提升管理能力，大型农场偏好 |
-| 农药使用者执照 | 州政府 | 必备 | 使用化学药剂必需 |
+| Pesticide user license | State government | Required | Use of chemical agents is mandatory |
+| Certificate III in Agriculture | TAFE | Optional | Basic skills training, not mandatory but beneficial |
+| Bachelor of Agriculture | University | Optional | Enhance management skills, preferred by large farms |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。澳洲水果种植业需求稳定，受出口市场增长和本地消费支撑。技术现代化和可持续发展趋势为行业带来新机遇，但依赖季节性劳动力。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Australia's fruit growing industry has stable demand, supported by export market growth and local consumption. Technological modernisation and sustainability trends bring new opportunities, but it relies on seasonal labour.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 农场工人或助理 |
-| 中级（3-7年） | $65,000~$85,000 | 种植主管或农场经理 |
-| 高级（7年以上） | $85,000~$120,000 | 大型农场经理或企业顾问 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$65,000 | Farm Worker or Assistant |
+| Mid-level (3–7 years) | $65,000~$85,000 | Planting supervisor or farm manager |
+| Senior (7+ years) | $85,000~$120,000 | Large Farm Manager or Corporate Consultant |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从业者可从农场工人晋升至种植主管或农场经理，也可通过专业培训转向农业顾问或自主创业。大型商业化果园管理岗位需求增加。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Fruit growers are impacted by AI/automation in two ways: automation will take over repetitive manual labor and basic monitoring, while AI enhances decision-making, precision agriculture, and risk management. Overall, the outlook is mixed.
+
+Practitioners can progress from farm worker to cultivation supervisor or farm manager, or transition to agricultural consultant or self-employment through specialized training. Demand for management roles in large commercial orchards is increasing.
+
+**Tasks most exposed to AI:**
+
+- Manual assessment of fruit ripeness (replaced by AI vision systems)
+- Routine pruning and harvesting (mechanization + AI path planning)
+- Manual adjustment of irrigation valves (taken over by AI-controlled smart irrigation systems)
+- Visual inspection of pests and diseases (replaced by drones with AI image recognition)
+- Manual recording of yield and inventory (automatically collected by sensors and digital twins)
+
+**Where AI augments the role:**
+
+- Develop precision fertilization/pesticide plans based on weather, soil, and satellite data
+- Using AI to predict market demand and optimal harvesting windows
+- Optimizing orchard layout and variety selection through digital twin simulation
+- Use AI to analyse labour efficiency and coordinate worker/robot collaboration
+- Automated marketing and direct sales platform (AI-generated product descriptions and price comparisons).
+
+**Human moat:**
+
+- Complex emergency decision-making under sudden natural disasters
+- Build trust with local communities, tasters, etc.
+- Creative work in developing new varieties, flavor and texture improvement
+- Handle worker disputes, government compliance, and other soft communication.
+- Integrating multi-source unstructured experience (e.g., oral knowledge, neighborhood experience)
+
+**Skills to build:**
+
+- Precision agriculture technologies (variable rate fertilization, drone operations).
+- Agricultural data analysis (Python/R, GIS, remote sensing)
+- AI tool usage (crop disease identification models, yield prediction software)
+- Smart equipment maintenance and operation (autonomous picking robots, irrigation systems)
+- Digital marketing and e-commerce operations
+- Basic knowledge of sustainable agriculture certification and carbon accounting
+
+**Key growth areas:**
 
 - Orchard Expansion
 - Export Growth
@@ -62,65 +98,64 @@ Fruit Growers plan, plant, cultivate and harvest various fruit crops, manage orc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于有雇主担保的水果种植者，需在CSOL上 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需满足州担保要求 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区临时签证，转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable to fruit growers with employer sponsorship, must be on the CSOL. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence visa, requires meeting state sponsorship requirements |
+| Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa, transitioning to 191 permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fruit Grower？**
-- 喜欢户外工作和体力劳动
-- 对农业经营和植物科学感兴趣
-- 愿意在偏远地区工作
-
-**谁不适合学Fruit Grower？**
-- 不适应季节性工作压力
-- 不喜欢重复性体力劳动
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work and physical labor
+- Interested in agricultural operations and plant science
+- Willing to work in remote areas.
+
+**Who is not suited**
+- Not adaptable to seasonal work pressure
+- Dislikes repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the income potential for fruit growers?**
+A: Entry-level annual income about AUD 50,000-65,000; senior manager can earn AUD 85,000-120,000, but subject to seasonal and market fluctuations.
+
+**Q: Can fruit growers apply for skilled migration?**
+A: Yes. This occupation is on the CSOL and can apply for visas 482, 190, 491 etc., but must pass relevant skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fruit Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income potential for Fruit Growers?**
-答：Entry-level earns around AUD 50,000-65,000, senior managers can earn AUD 85,000-120,000, subject to seasonal and market fluctuations.
-
-**问：Can Fruit Growers apply for skilled migration?**
-答：Yes. The occupation is on CSOL, eligible for 482, 190, 491 visas, but requires relevant skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

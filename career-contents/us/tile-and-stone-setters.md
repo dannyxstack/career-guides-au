@@ -1,60 +1,92 @@
-# Tile and Stone Setters（Tile and Stone Setters）职业分析 · 美国
+# Tile and Stone Setters — career analysis · United States
 
-**职业代码：47-2044 – Tile and Stone Setters。**
+**Occupation code: 47-2044 (SOC)**
 
-Apply hard tile, stone, and comparable materials to walls, floors, ceilings, countertops, and roof decks.
+Install hard tiles, stone, and other materials on walls, floors, ceilings, countertops, and roof decks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制 | 3-4年 | $500~$5,000（通常带薪培训，工具和教材费用自付） |
-| 技术学校课程 | 1-2年 | $5,000~$20,000（社区学院或贸易学校可选） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship | 3-4 years | $500~$5,000 (Usually paid training, with own costs for tools and materials) |
+| Technical school courses | 1-2 years | $5,000~$20,000 (Community college or trade school is optional) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学徒制完成证书 | 美国劳工部或州学徒机构 | 可选 | 通常需要3-4年在职培训加课堂教学 |
-| OSHA安全认证 | 美国职业安全与健康管理局 | 可选 | 许多雇主要求 |
-| 州级承包商执照 | 州政府 | 必备 | 自主创业或承接大额合同时需要 |
+| State contractor license | State government | Required | Required when starting a business or securing large contracts |
+| Certificate of apprenticeship completion | US Department of Labor or state apprenticeship agencies | Optional | Typically requires 3-4 years of on-the-job training plus classroom instruction |
+| OSHA safety certification | U.S. Occupational Safety and Health Administration | Optional | Required by many employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。美国劳工统计局预计2023-2033年该职业就业增长约4%，与所有职业平均水平相当。住宅和商业建筑需求稳定，但受经济周期影响。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. The U.S. Bureau of Labor Statistics projects about 4% employment growth for this occupation from 2023 to 2033, similar to the average for all occupations. Demand for residential and commercial construction remains stable but is affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 学徒期或新手 |
-| 中级（3-7年） | $45,000~$60,000 | 熟练工 |
-| 高级（7年以上） | $60,000~$80,000 | 高级技工或承包商 |
+| Median salary | $55,690 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Apprentice or beginner |
+| Mid-level (3–7 years) | $45,000~$60,000 | Skilled worker |
+| Senior (7+ years) | $60,000~$80,000 | Advanced tradesperson or contractor. |
+| average salary | $59,250 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从学徒开始，逐步成为熟练工。可晋升为领班、项目经理，或自主创业成为承包商。经验丰富者可专攻高端石材或复杂图案铺设。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
+
+Typically starts as an apprentice, progressing to a skilled worker. Can advance to foreman, project manager, or start their own business as a contractor. Experienced workers can specialize in high-end stone or complex pattern laying.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate laying patterns and layouts based on photos or 3D scans
+- AI-optimized tile cutting plans to reduce waste
+- Large-scale standardized paving using automatic brick-laying robots
+- AI-assisted defect detection (hollowing, flatness) replaces manual inspection
+
+**Where AI augments the role:**
+
+- Use AR glasses to preview paving effects and adjust layouts in real-time
+- Optimize scheduling and material dispatch through an AI construction management platform
+- Use BIM models to identify clashes with other trades early
+- Quickly learn new tile/adhesive techniques via online training platforms
+
+**Human moat:**
+
+- Manual cutting and fitting of complex curves and irregular spaces
+- On-site judgment of base treatments (waterproofing, leveling)
+- Detail handling and aesthetic control at the joins of different materials
+- Communicating design requirements with clients and providing personalized solutions
+
+**Skills to build:**
+
+- BIM and construction management software (e.g., Revit, Plannerly)
+- AR/VR-assisted design tools (e.g., Fologram)
+- Operation and maintenance of automated cutting equipment
+- Project management and communication skills
+- Knowledge of sustainable building materials (e.g., recycled tiles, low-carbon adhesives).
+
+**Key growth areas:**
 
 - Construction
 - Renovation
@@ -63,68 +95,67 @@ Apply hard tile, stone, and comparable materials to walls, floors, ceilings, cou
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业通常不需要学士学位，但若雇主能证明职位复杂且需专业背景，可能申请。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适合有至少2年培训或经验的熟练工人，需PERM劳工证。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card through PERM） | 雇主需证明无法找到合格美国工人，然后提交I-140。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as the occupation typically does not require a bachelor's degree, but may apply if the employer can demonstrate the position is complex and requires a professional background. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Suitable for skilled workers with at least 2 years of training or experience; requires a PERM labor certification. |
+| Subclass Green Card (PERM) (Employment-Based Green Card through PERM) | Employer must prove inability to find qualified U.S. workers, then file I-140. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tile and Stone Setters？**
-- 喜欢动手操作和体力劳动的人
-- 注重细节和精确度的人
-- 愿意从事建筑行业并接受学徒培训的人
-
-**谁不适合学Tile and Stone Setters？**
-- 不喜欢体力劳动和灰尘环境的人
-- 希望快速获得高薪且不喜欢重复性工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and physical labor
+- People who pay attention to detail and accuracy
+- Those willing to work in construction and undertake apprenticeship training
+
+**Who is not suited**
+- Those who dislike physical labor and dusty environments
+- People seeking high pay quickly and disliking repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for tile and stone setters?**
+A: According to the US Bureau of Labor Statistics, the median annual salary in 2023 was about $48,000, but beginners may earn $30,000-40,000, and experienced ones can reach over $70,000.
+
+**Q: As a foreigner, how can I immigrate to the US through this occupation?**
+A: Employer sponsorship is usually required. The EB-3 skilled worker category is a common pathway, requiring a PERM labor certification. At least 2 years of training or experience needed. H-1B is uncommon as a bachelor's degree is typically not required.
+
+**Q: What education is required to become a tile and stone setter?**
+A: Usually requires a high school diploma, then complete a 3-4 year apprenticeship or trade school. Paid on-the-job training during apprenticeship is the mainstream route.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Tile and Stone Setters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for tile and stone setters?**
-答：According to BLS, the median annual wage in 2023 was about $48,000, with beginners earning $30,000-$40,000 and experienced workers over $70,000.
-
-**问：How can a foreigner immigrate to the US through this occupation?**
-答：Usually requires employer sponsorship. EB-3 Skilled Workers is common, requiring PERM labor certification. At least 2 years of training or experience needed. H-1B is rare as a bachelor's degree is not typical.
-
-**问：What education is needed to become a tile and stone setter?**
-答：Typically a high school diploma, then a 3-4 year apprenticeship or trade school program. Paid training during apprenticeship is the main route.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

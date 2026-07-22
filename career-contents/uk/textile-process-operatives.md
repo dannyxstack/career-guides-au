@@ -1,60 +1,93 @@
-# Textile process operatives（Textile process operatives）职业分析 · UK
+# Textile process operatives — career analysis · United Kingdom
 
-**职业代码：8112 – Textile process operatives。**
+**Occupation code: 8112 (SOC)**
 
-Operate machines to prepare and process natural and synthetic fibres, spin and twist into yarn, thread, twine, rope, and estimate colouring matter for printing and dyeing.
+Operate machines to pre-treat natural and synthetic fibers, spin, and twist to produce yarn, thread, rope, etc., and estimate the amount of pigment needed for dyeing.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（英国公立高中免费） |
-| 学徒制 | 2-3年 | —（带薪培训） |
+| High school diploma | 2 years | $0~$0 (Free UK public high school) |
+| Apprenticeship | 2-3 years | $0~$0 (paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织操作职业证书 | City & Guilds | 可选 | 可选的职业资格 |
-| NVQ 2/3级纺织生产 | Ofqual | 可选 | 国家职业资格，非强制但有利 |
+| Textile Operations Certificate | City & Guilds | Optional | Optional professional qualifications |
+| NVQ Level 2/3 in Textile Production | Ofqual | Optional | National vocational qualification, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。英国纺织业持续萎缩，自动化替代部分岗位，但技术性操作员仍有需求，尤其在高性能纤维和回收纺织领域。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. The UK textile industry continues to shrink, with automation replacing some roles, but demand persists for technical operators, especially in high-performance fibers and recycling textiles.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级薪资 |
-| 中级（3-5年） | $22,000~$26,000 | 有经验后 |
-| 高级（5年以上） | $26,000~$30,000 | 高级操作员或班组长 |
+| Median salary | $27,915 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level salary |
+| Mid-level (3–5 years) | $22,000~$26,000 | After gaining experience |
+| Senior (5+ years) | $26,000~$30,000 | Senior operator or shift supervisor |
+| average salary | $30,526 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从初级操作员晋升为高级操作员、班组长或质量控制员。部分可转行至纺织机械维修或技术销售。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Many repetitive tasks of textile processing operators will be replaced by AI and automation, but machine maintenance and quality judgment still require human experience and manual skills; the employment outlook is mixed.
+
+Can progress from entry-level operator to senior operator, team leader, or quality controller. Some may transition to textile machinery maintenance or technical sales.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring and adjustment of yarn tension and twist
+- Estimation of dye ratios and automated feeding
+- Manual control of temperature and humidity during fiber pretreatment.
+- Visual inspection and data recording for simple faults
+
+**Where AI augments the role:**
+
+- Assists in identifying fabric defects through AI vision systems, improving quality inspection efficiency
+- Use IoT data analysis to predict equipment maintenance cycles
+- Optimizing spinning process parameters using digital twins
+- Using AI color matching system to quickly match customer custom color samples
+
+**Human moat:**
+
+- Experience handling special materials (e.g., high-elasticity fibers)
+- On-site diagnosis and manual repair of complex machine faults
+- Flexible operations for small-batch, high-variety custom orders
+- Cross-process coordination and handling of unexpected issues.
+
+**Skills to build:**
+
+- Industrial robot operation and basic programming
+- Use of IoT platforms specific to the textile industry
+- Data analysis tools (e.g., Python, advanced Excel functions)
+- Smart colour matching software operation
+- Lean Production and Failure Prevention Maintenance
+- Cross-trade communication and teamwork skills
+
+**Key growth areas:**
 
 - declining
 - automation
@@ -63,61 +96,63 @@ Operate machines to prepare and process natural and synthetic fibres, spin and t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保且职业在 eligible list 上，但本职业通常不符合技能要求。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Employer sponsorship required and the occupation must be on the eligible list, but this occupation typically does not meet skill requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile process operatives？**
-- 喜欢重复性工作
-- 动手能力强
-- 对纺织品有兴趣
+**Who is suited**
+- Prefers repetitive work
+- Strong hands-on ability
+- Interest in textiles
 
-**谁不适合学Textile process operatives？**
-- 追求高薪
-- 希望快速晋升
+**Who is not suited**
+- Pursuing high salary
+- Looking for rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for textile processing operators?**
+A: Junior annual salary approx GBP 18,000-22,000, senior up to GBP 30,000.
+
+**Q: Is this occupation suitable for immigration?**
+A: Not suitable, this occupation is not on the skilled migration shortage list, employer sponsorship is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile process operatives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for textile process operatives?**
-答：Entry-level salary is around £18,000-£22,000, senior up to £30,000.
-
-**问：Is this occupation suitable for immigration?**
-答：No, it is not on the shortage list and employer sponsorship is rare.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

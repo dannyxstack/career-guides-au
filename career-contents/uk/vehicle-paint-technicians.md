@@ -1,58 +1,91 @@
-# Vehicle paint technicians（Vehicle paint technicians）职业分析 · UK
+# Vehicle paint technicians — career analysis · United Kingdom
 
-**职业代码：5233 – Vehicle paint technicians。**
+**Occupation code: 5233 (SOC)**
 
-Vehicle paint technicians apply paint, cellulose, vinyl stickers and wraps and other protective or decorative materials to the bodywork of motor vehicles, requiring fine manual skills and knowledge of coating techniques.
+Vehicle paint technicians apply paint, cellulose, vinyl decals, and wraps to motor vehicle bodies for protection or decoration. This role requires fine manual skills and knowledge of paint technology.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（通常由雇主资助，无学费） |
-| 职业课程（College） | 1-2年 | $3,000~$8,000（部分课程可申请政府贷款） |
+| Apprenticeship | 2-4 years | $0~$0 (Usually employer-funded, no tuition fees) |
+| Vocational college courses | 1-2 years | $3,000~$8,000 (Some courses can apply for government loans.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车车身维修与喷漆三级资格 | City & Guilds / IMI | 必备 | 行业标准资格 |
-| 健康与安全证书 | 雇主或培训机构 | 可选 | 必备，用于安全操作喷涂设备 |
+| Certificate III in Automotive Body Repair and Spray Painting | City & Guilds / IMI | Required | Industry standard qualifications |
+| Health and safety certificate | Employer or training provider | Optional | Mandatory for safe operation of spray equipment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。英国车辆油漆技师就业前景稳定，随着汽车保有量和事故修复需求持续存在。新能源车维修可能带来新技能要求，但整体岗位需求保持平稳。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. Employment prospects for vehicle paint technicians in the UK are stable, with ongoing demand due to vehicle ownership and accident repairs. New energy vehicle repairs may introduce new skill requirements, but overall job demand remains steady.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或初级技师 |
-| 中级（3-7年） | $25,000~$32,000 | 有经验的合格技师 |
-| 高级（7年以上） | $32,000~$40,000 | 高级技师或主管 |
+| Median salary | $34,531 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or junior technician |
+| Mid-level (3–7 years) | $25,000~$32,000 | Experienced qualified technicians |
+| Senior (7+ years) | $32,000~$40,000 | Senior technician or supervisor |
+| average salary | $37,070 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级技师可通过学徒制晋升为高级技师、车间主管或技术培训师。部分技师可转向汽车估损或车身修复管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vehicle paint technicians face a landscape interwoven with automation and AI enhancement: painting robots can replace basic spraying, but AI color matching, defect detection, and fine customization work enhance the value of human technicians, with entry-level positions slightly narrowed due to higher automation thresholds.
+
+Junior technicians can advance through apprenticeships to senior technician, workshop supervisor, or technical trainer. Some technicians may move into vehicle damage assessment or body repair management.
+
+**Tasks most exposed to AI:**
+
+- Automatically spray standard color paint according to formula (robot painting system takes over)
+- Visual identification and marking of car paint surface defects (orange peel, runs) via AI vision inspection replacing manual inspection.
+- Color matching formula recommendation (AI spectrum analyzer recommends precise formulas)
+- Coating workshop environment monitoring and parameter adjustment (IoT and AI automatically optimize temperature, humidity, air pressure)
+
+**Where AI augments the role:**
+
+- AI color matching system accelerates custom paint mixing, improving efficiency and accuracy
+- AI defect detection assists technicians in quickly locating repair areas, reducing respray
+- AR headset overlays construction guidance layers, step instructions, drying time reminders
+- Customer digital twin model previews painting effects, improving communication and customization services
+
+**Human moat:**
+
+- Manual Sanding and Paint Touch-Up for Complex Curved Surfaces (Arcs, Joints)
+- Client aesthetic communication and creative proposal design, non-standard customization capability
+- Fine control over paint texture, gloss, and thickness in high-quality repairs
+- Rapid diagnosis and repair of on-site temporary issues (abnormal paint, equipment failure)
+
+**Skills to build:**
+
+- Operate and maintain automated spraying robots and supporting systems
+- Use AI colour-matching software and spectral devices for precise colour adjustment.
+- Application of AR-assisted tools (e.g., Microsoft HoloLens) in construction
+- Basics of data analysis, interpreting AI quality reports to optimize processes
+- Flexibly adapting to digital twin preview and client negotiation process
+- Mastery of spraying characteristics of new materials (water-based paints, nano coatings)
+
+**Key growth areas:**
 
 - Automotive refinishing
 - Electric vehicle paint
@@ -61,67 +94,66 @@ Vehicle paint technicians apply paint, cellulose, vinyl stickers and wraps and o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业在可担保职业清单上，可申请技术工人签证 |
-| Subclass Graduate（Graduate Visa） | 完成学徒或相关学位后可申请毕业生签证留英工作 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible skilled occupation list and can apply for a skilled worker visa |
+| Subclass Graduate (Graduate Visa) | After completing an apprenticeship or relevant degree, can apply for a graduate visa to work in the UK |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vehicle paint technicians？**
-- 喜欢动手、注重细节的人
-- 对汽车颜色和表面处理有耐心的人
-- 愿意学习并保持手工技能的人
-
-**谁不适合学Vehicle paint technicians？**
-- 对油漆气味或化学品过敏的人
-- 无法适应站立工作和重复性任务的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Patient with car color and surface finishes
+- People willing to learn and maintain manual skills
+
+**Who is not suited**
+- People allergic to paint fumes or chemicals
+- People unable to handle standing work and repetitive tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a vehicle paint technician?**
+A: Junior annual salary approximately £18,000–£24,000; experienced can rise to £25,000–£32,000; senior technicians can reach over £40,000.
+
+**Q: Can a vehicle paint technician apply for a skilled worker visa?**
+A: Yes, this occupation is on the list of eligible occupations. After meeting salary and English language requirements, you can work in the UK via the Skilled Worker visa.
+
+**Q: What qualifications are required to become a vehicle paint technician?**
+A: Usually require completing an apprenticeship and obtaining a City & Guilds or IMI Level 3 qualification, along with a health and safety certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Vehicle paint technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for vehicle paint technicians?**
-答：Entry-level salary is around £18,000–£24,000, experienced technicians earn £25,000–£32,000, and senior technicians can earn over £40,000.
-
-**问：Can vehicle paint technicians apply for a Skilled Worker visa?**
-答：Yes, the occupation is on the eligible list. You can apply for a Skilled Worker visa if you meet the salary and English requirements.
-
-**问：What qualifications are needed to become a vehicle paint technician?**
-答：Typically, you need to complete an apprenticeship and obtain a Level 3 qualification from City & Guilds or IMI, plus a health and safety certificate.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

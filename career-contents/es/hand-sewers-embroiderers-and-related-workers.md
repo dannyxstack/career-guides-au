@@ -1,60 +1,93 @@
-# Hand Sewers, Embroiderers and Related Workers（Hand Sewers, Embroiderers and Related Workers）职业分析 · ES
+# Hand Sewers, Embroiderers and Related Workers — career analysis · Spain
 
-**职业代码：7834 – Hand Sewers, Embroiderers and Related Workers。**
+**Occupation code: 7834 (CNO)**
 
-Workers specializing in hand sewing, embroidery, and appliqué for garment customization, restoration, and decorative textiles.
+Professions engaged in fine textile processing such as hand sewing, embroidery, and touch-ups are commonly found in the clothing customization, restoration, and decoration industries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初等职业教育（FP Básica） | 2年（FP Básica） | $200~$500（公立学校学费极低，材料另计） |
-| 中等职业教育（FP Grado Medio） | 2年（FP Grado Medio） | $300~$800（公立学校费用，提供裁剪与缝纫专业） |
+| Primary Vocational Education (FP Básica) | 2 years (FP Básica) | $200~$500 (Public school tuition is extremely low, with additional fees for materials) |
+| Secondary Vocational Education (FP Grado Medio) | 2 years (FP Grado Medio) | $300~$800 (Public school fees are provided, with cutting and sewing programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 中等职业教育文凭（FP Grado Medio） | 西班牙教育暨职业培训部门 | 可选 | 可选专业：裁剪与缝纫 |
-| 职业资格证书（Certificado de Profesionalidad） | 西班牙国家就业局(SEPE) | 可选 | 例如：Confección de prendas de vestir（服装制作） |
+| Diploma in Secondary Vocational Education (FP Grado Medio) | Spanish Department of Education and Vocational Training | Optional | Optional majors: Cutting and Sewing |
+| Professional Qualification Certificate (Certificado de Profesionalidad) | Spanish National Employment Agency (SEPE) | Optional | For example: Confección de prendas de vestir (garment making) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,500。西班牙手工缝纫和刺绣岗位需求稳定，但受快时尚冲击，传统岗位减少；高端定制和修复领域有少量机会，整体就业前景平淡。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,500. Demand for hand-sewing and embroidery jobs in Spain remains stable, but traditional jobs have decreased due to the impact of fast fashion; There are few opportunities in high-end customization and restoration, and overall job prospects are subdued.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 学徒或辅助岗位，税前年薪 |
-| 中级（3-7年） | $18,000~$22,000 | 独立作业技工或小型工坊员工 |
-| 高级（7年以上） | $22,000~$28,000 | 高级技工、修复专家或工作室主管 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Apprenticeship or auxiliary positions, pre-tax annual salary |
+| Mid-level (3–7 years) | $18,000~$22,000 | Independent technicians or small workshop employees |
+| Senior (7+ years) | $22,000~$28,000 | Senior technicians, restoration experts, or studio supervisors |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 通常从学徒或技工做起，积累经验后可晋升为高级技工、工坊主管或自主创业开设裁缝/刺绣工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hand-sewing, embroidery, and related tasks face a high risk of being replaced by automation. AI-driven design and automation embroidery machines have replaced large amounts of manual labor in mass production, leaving only niche areas such as high-end customization and fine restoration to retain demand.
+
+Typically, you start as an apprentice or technician, and after gaining experience, you can be promoted to senior technician, workshop manager, or start your own tailor/embroidery studio.
+
+**Tasks most exposed to AI:**
+
+- Batch embroidery and sewing operations for standard patterns
+- Simple touch-ups and repetitive stitching techniques
+- Pattern design and replication based on preset templates
+- Routine visual inspection in quality inspection
+
+**Where AI augments the role:**
+
+- Use AI design software to generate complex embroidery patterns
+- Use AI color matching tools for color matching suggestions
+- Use 3D scanning and simulation to preview the finished product
+- Reproduction of artifacts is carried out through AI analysis of historical restoration data
+
+**Human moat:**
+
+- A unique aesthetic and creative design for high-end custom clothing and artworks
+- Experience in handling damaged fabrics during meticulous restoration, matching original materials and stitching techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Traditional handicrafts are passed down and industry connections are maintained
+
+**Skills to build:**
+
+- AI design tools (such as Adobe Illustrator + plugins, Stable Diffusion pattern generation)
+- Digital embroidery software (such as Wilcom, Tajima DG/ML)
+- 3D clothing simulation and virtual fitting technology
+- Multi-layered knowledge of color and material matching
+- Customer communication and personalized service marketing capabilities
+- Knowledge of historical textile restoration and cultural relic authentication
+
+**Key growth areas:**
 
 - declining
 - niche demand
@@ -63,65 +96,67 @@ Workers specializing in hand sewing, embroidery, and appliqué for garment custo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees (Cuenta Ajena)） | 由雇主担保的工作居留，需证明岗位无法在本地填补，手工缝纫非紧缺职业，获批难度高。 |
-| Subclass Busqueda empleo（Job Search Visa (Búsqueda de Empleo)） | 高学历者可在毕业后在西班牙寻找工作，但此行业通常不满足学历要求。 |
+| Subclass Cuenta ajena (Work Permit for Employees (Cuenta Ajena)) | For employer-sponsored work residence, it must be proven that the position cannot be filled locally. Hand-sewing is not a shortage occupation and is difficult to approve. |
+| Subclass Busqueda empleo (Job Search Visa (Búsqueda de Empleo)) | Highly educated individuals can look for jobs in Spain after graduation, but this industry usually does not meet the educational requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand Sewers, Embroiderers and Related Workers？**
-- 对手工针线活有耐心和热情的人
-- 追求艺术表达和传统工艺的人
-- 希望自主创业开设小工作室的人
+**Who is suited**
+- Someone who is patient and passionate about handmade needlework
+- Those who pursue artistic expression and traditional crafts
+- Those who want to start their own businesses and open small studios
 
-**谁不适合学Hand Sewers, Embroiderers and Related Workers？**
-- 追求高薪和快速职业成长的人
-- 对重复性手工操作缺乏耐心的人
+**Who is not suited**
+- Those seeking high salary and fast career growth
+- People who lack patience for repetitive manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hand sewers in Spain?**
+A: Entry-level positions earn about 14,000-18,000 euros annually, while senior technicians or restoration specialists can earn 22,000-28,000 euros, which is generally relatively low.
+
+**Q: Can third-nationality individuals immigrate to Spain through hand-sewing jobs?**
+A: Very difficult. This occupation is not on the shortage occupation list. Employer-sponsored immigration requires proving the position cannot be filled by workers in Spain and the EU, which is usually hard to obtain.
+
+**Q: What are the promotion paths in the hand-sewing industry?**
+A: Generally, you start as an apprentice, gain experience, and become a senior technician or restoration expert. You can also start your own tailoring or embroidery studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand Sewers, Embroiderers and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hand sewers in Spain?**
-答：Entry-level positions earn around €14,000-€18,000 annually, while senior craftsmen can reach €22,000-€28,000, generally low.
-
-**问：Can third-country nationals immigrate to Spain as hand sewers?**
-答：Very difficult. This occupation is not in shortage lists, and employer sponsorship requires proving no local or EU workers available, rarely approved.
-
-**问：What are the career advancement paths in hand sewing?**
-答：Typically start as an apprentice, progress to senior craftsman or restoration specialist, or start your own tailoring/embroidery workshop.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Fashion Model and Artistic Pose Model（Fashion Model and Artistic Pose Model）职业分析 · FR
+# Fashion Model and Artistic Pose Model — career analysis · France
 
-**职业代码：L1102 – Fashion Model and Artistic Pose Model。**
+**Occupation code: L1102 (ROME)**
 
-Works in fashion shows, photo shoots, and artistic settings to showcase products or convey artistic concepts through body language and expression.
+Engaged in fashion displays, advertising shoots, artistic styling, and other work, conveying product images or artistic concepts through body language and expressiveness.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需特定学历，但建议参加模特培训 | 短期培训（3-6个月） | $2,000~$8,000（私立模特学校或培训班费用） |
-| 时装表演或相关艺术文凭 | 2年（BTS） | $3,000~$12,000（公立或私立院校学费） |
+| No specific academic background is required, but it is recommended to attend modeling training | Short-term training (3-6 months) | $2,000~$8,000 (Private modeling schools or training course fees) |
+| Fashion show or related art diploma | 2 Years (BTS) | $3,000~$12,000 (Tuition fees for public or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 模特卡与专业作品集 | 个人或模特机构 | 可选 | 行业通行证，非强制但必须 |
-| 注册模特代理人 | 法国模特代理机构 | 可选 | 通过代理接单，非强制但常见 |
+| Model cards and professional portfolios | Individuals or modeling agencies | Optional | Industry pass, not mandatory but required |
+| Register as a model agent | French modeling agency | Optional | Taking orders through agents is not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 12,000。法国时尚产业发达，模特需求稳定但竞争激烈。数字化和社交媒体的发展增加了商业模特机会，但传统高端模特市场增长有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's fashion industry is highly developed, with stable but fierce competition among models. The development of digitalization and social media has increased opportunities for commercial models, but growth in the traditional high-end model market has been limited.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$25,000 | 税前年薪，收入波动大，按项目结算 |
-| 中级（3-7年） | $30,000~$60,000 | 含品牌合作及广告收入 |
-| 高级（7年以上） | $70,000~$150,000 | 知名模特或专属合约模特 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$25,000 | Pre-tax annual salary, with large fluctuations in income, settled by project |
+| Mid-level (3–7 years) | $30,000~$60,000 | Includes brand cooperation and advertising revenue |
+| Senior (7+ years) | $70,000~$150,000 | Famous models or exclusive contract models |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从初级模特起步，可发展为知名品牌专属模特、时尚博主或模特经纪人，部分转向表演艺术或时尚管理领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on fashion and art models is mixed: automation will compress low-end fitting and basic shooting tasks, but AI enhances creative expression and virtual fitting experiences, while the unique temperament and spontaneous expression of real models remain a moat.
+
+Starting as a junior model, you can develop into an exclusive model for well-known brands, a fashion blogger, or a model agent, with some shifting into performing arts or fashion management.
+
+**Tasks most exposed to AI:**
+
+- Basic clothing fitting and size calibration (AI virtual fitting replacement)
+- Standardized product catalog photography (AI-generated image replacement)
+- Simple pose advertising image shooting (AI image synthesis alternative)
+- Static modeling display (virtual models and digital rendering replacement)
+- Repetitive runway rehearsals (AI motion capture and simulation alternatives)
+
+**Where AI augments the role:**
+
+- Precise capture of creative concepts and emotional expression (AI-assisted video selection and action choreography)
+- Cross-cultural modeling and scene fusion (AI provides visual references and lighting simulations)
+- Personalized brand storytelling (AI analysis of audience preferences and optimized performance)
+- Virtual fashion shows and interactive live streams (integrating AI real-time effects and audience feedback)
+- Self-built digital avatars for multi-platform promotion (AI 3D modeling and drivers)
+
+**Human moat:**
+
+- An irreplaceable personal temperament, expression, and improvisational expressiveness
+- Real-time creative communication and collaboration with designers and photographers
+- Instinctive bodily perception of clothing dynamics and materials
+- On-the-spot adaptability and audience interaction skills during live events
+- Personal brand building and authentic connections with social media fans
+
+**Skills to build:**
+
+- Digital content creation (such as video editing, basic 3D modeling)
+- Personal social media operations and data analysis
+- AI-assisted photography and post-production tools are used
+- Cross-disciplinary collaboration (such as combining with virtual idols and interactive art)
+- Basic programming or automated workflows (such as automatic film selection scripts)
+- Multicultural literacy and language proficiency (expanding into international markets)
+
+**Key growth areas:**
 
 - Digital fashion
 - Diversity demand
@@ -63,63 +99,65 @@ Works in fashion shows, photo shoots, and artistic settings to showcase products
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需被法国模特机构或品牌雇佣，获得工作许可，适用于长期合约模特。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于具有国际声誉或高收入潜力的模特，需提供作品集和合约证明。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业生临时居留，允许在法国寻找模特工作。 |
+| Subclass Salarié (Salarié (Employee)) | Must be employed by a French modeling agency or brand, obtain a work permit, and be eligible for long-term contract models. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for models with international reputation or high earning potential, requiring portfolio and contract proof. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Temporary graduate residence, allows seeking modeling work in France. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fashion Model and Artistic Pose Model？**
-- 外形条件突出、表现力强的人群
-- 适应高强度竞争和频繁出差的人群
-- 对时尚行业有热情且能接受收入不稳定的人群
+**Who is suited**
+- People with outstanding physical attributes and strong expressiveness
+- Suitable for people who are highly competitive and travel frequently
+- People passionate about the fashion industry who can accept unstable incomes
 
-**谁不适合学Fashion Model and Artistic Pose Model？**
-- 缺乏自信或难以承受被拒绝的人群
-- 追求稳定收入和长期职业保障的人群
+**Who is not suited**
+- People who lack confidence or struggle with rejection
+- People seeking stable income and long-term career security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is income in the modeling industry stable?**
+A: Unstable; most models are paid per project with fluctuating income. Junior models may earn less than €15,000 per year, while well-known models can earn over €100,000.
+
+**Q: How can non-EU models obtain a French work visa?**
+A: You can use the Salarié work visa (employer sponsorship) or the Passeport Talent visa (requires proof of international reputation or high income). Competition is fierce, and the entry barrier is high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fashion Model and Artistic Pose Model属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is modeling income stable?**
-答：No, most models are paid per project, income fluctuates greatly. Entry-level models may earn below €15,000 annually, while top models can earn over €100,000.
-
-**问：How can non-EU models get a French work visa?**
-答：They can apply for a Salarié visa (employer sponsorship) or Passeport Talent (proof of international reputation or high income). Competition is fierce.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

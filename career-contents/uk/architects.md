@@ -1,59 +1,92 @@
-# Architects（Architects）职业分析 · UK
+# Architects — career analysis · United Kingdom
 
-**职业代码：2451 – Architects。**
+**Occupation code: 2451 (SOC)**
 
-Architects plan and design the construction and development of buildings and land areas, balancing functional and aesthetic requirements while complying with regulations, budgets, and client needs.
+Architects plan and design the construction and development of buildings and land areas, balancing functionality and aesthetic requirements, ensuring projects comply with regulations, budgets, and client needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$18,000（英国本地生学费约9,250英镑/年，国际生约15,000-18,000英镑/年） |
-| 硕士（RIBA Part 2） | 2年 | $10,000~$22,000（学费因院校而异，国际生更高） |
+| Bachelor's degree | 3 years | $9,250~$18,000 (Home student fees approx £9,250/year, international fees approx £15,000-£18,000/year) |
+| Master's degree (RIBA Part 2). | 2 years | $10,000~$22,000 (Tuition fees vary by institution, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国皇家建筑师协会（RIBA）资格 | RIBA | 必备 | 分为Part 1、Part 2和Part 3三个阶段，Part 3通过后可注册为建筑师 |
-| 建筑师注册委员会（ARB）注册 | ARB | 必备 | 在英国执业必须通过ARB注册，通常需完成RIBA认证课程 |
-| 建筑学学位 | 大学 | 必备 | 需为RIBA/ARB认证的学位课程 |
+| Royal Institute of British Architects (RIBA) qualification | RIBA | Required | Divided into Part 1, Part 2, and Part 3; after passing Part 3, you can register as an architect |
+| Architects Registration Board (ARB) registration | ARB | Required | To practice in the UK, must be registered with ARB, usually requiring completion of a RIBA-accredited course |
+| Architecture degree | University | Required | Must be a RIBA/ARB accredited degree program |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 34,000。英国建筑行业稳定增长，受绿色建筑和城市更新项目推动，预计未来5年就业机会增长约5%。伦敦和东南部需求最旺。
+**Job demand: high (★★★★☆).** National workforce approx. 34,000. The UK construction industry is growing steadily, driven by green building and urban renewal projects, with employment opportunities expected to grow by about 5% over the next five years. Demand is highest in London and the Southeast.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 毕业生或刚获得Part 2资格 |
-| 中级（4-7年） | $35,000~$50,000 | 已注册建筑师或高级设计师 |
-| 高级（8年以上） | $50,000~$80,000 | 合伙人、设计总监或资深专家 |
+| Median salary | $47,143 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Graduate or newly qualified for Part 2 |
+| Mid-level (4-7 years) | $35,000~$50,000 | Registered architect or senior designer |
+| Senior (8+ years) | $50,000~$80,000 | Partner, Design Director or Senior Expert |
+| average salary | $50,690 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级建筑师可通过积累项目经验、考取RIBA资格晋升为高级建筑师、设计总监或合伙人，也可转向城市规划或可持续设计等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior architects can advance to senior architect, design director, or partner by accumulating project experience and obtaining RIBA qualifications, and can also branch into niche areas such as urban planning or sustainable design.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Green building
 - Urban regeneration
@@ -62,68 +95,67 @@ Architects plan and design the construction and development of buildings and lan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 最常见路径，需雇主担保且职业在可担保职业清单上，年薪不低于£26,200或行业现行工资率 |
-| Subclass Global Talent（Global Talent Visa） | 适用于建筑领域有杰出成就或潜力的人才，无需雇主担保 |
-| Subclass Graduate（Graduate Visa） | 允许英国高校毕业生在英国工作2年（博士3年），可积累工作经验并转为Skilled Worker |
+| Subclass Skilled Worker (Skilled Worker Visa) | Most common pathway, requires employer sponsorship and occupation must be on the list of eligible occupations, annual salary not less than £26,200 or the going rate for the industry |
+| Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in the construction field, no employer sponsorship required |
+| Subclass Graduate (Graduate Visa) | Allows UK university graduates to work in the UK for 2 years (3 years for PhD), gaining work experience and transitioning to Skilled Worker |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architects？**
-- 对建筑设计和空间规划有浓厚兴趣，兼具艺术审美与工程思维
-- 注重细节，有良好沟通能力和团队协作精神
-- 愿意投入长时间学习和职业认证过程
-
-**谁不适合学Architects？**
-- 对高强度工作压力和严格截止日期难以适应
-- 不喜欢长时间教育和持续专业发展
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in architectural design and spatial planning, combining artistic aesthetics with engineering thinking
+- Attention to detail, good communication skills, and a collaborative team spirit
+- Willing to invest significant time in study and professional certification processes
+
+**Who is not suited**
+- Difficulty adapting to high work pressure and strict deadlines
+- Dislike long-term education and continuous professional development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for architects?**
+A: Junior architect annual salary about £25,000-£35,000; intermediate about £35,000-£50,000; senior up to £50,000-£80,000 or higher. London area is usually higher.
+
+**Q: How can overseas architects immigrate to the UK?**
+A: Common pathway is the Skilled Worker visa, requiring a UK employer sponsor and meeting salary requirements. Global Talent visa is also an option. ARB qualification assessment is required.
+
+**Q: What are the steps to become a UK architect?**
+A: Complete a RIBA-accredited architecture degree (Part 1 + Part 2), accumulate 24 months of practical experience, pass the Part 3 exam, and finally register with ARB.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 难（★★★★☆） |
-| 考证难度 | 难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Architects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for architects?**
-答：Entry-level architects earn around £25,000-£35,000 per year; mid-level £35,000-£50,000; senior can reach £50,000-£80,000 or more, with London typically paying higher.
-
-**问：How can overseas architects immigrate to the UK?**
-答：Common route is Skilled Worker visa with employer sponsorship meeting salary thresholds; alternatively Global Talent visa. Requires ARB qualification assessment.
-
-**问：What steps are required to become an architect in the UK?**
-答：Complete RIBA-accredited architecture degree (Part 1 + Part 2), gain 24 months of practical experience, pass the Part 3 exam, and register with ARB.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

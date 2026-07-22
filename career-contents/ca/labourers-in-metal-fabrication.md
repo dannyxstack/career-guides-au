@@ -1,57 +1,91 @@
-# Labourers in metal fabrication（Labourers in metal fabrication）职业分析 · 加拿大
+# Labourers in metal fabrication — career analysis · Canada
 
-**职业代码：95101 – Labourers in metal fabrication。**
+**Occupation code: 95101 (NOC)**
 
-Perform material handling, machine feeding, cleaning, and assisting tasks in metal fabrication plants to support production lines.
+Perform material handling, machine feeding, cleaning and support tasks in a metal manufacturing factory to support production line operations.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常仅需高中学历） |
-| 在职培训 | 短期 | —（雇主提供短期在岗培训） |
+| High school graduation | None | $0~$0 (Usually only requires a high school diploma) |
+| On-the-job training | Short-term | $0~$1,000 (Employer provides short-term on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-（暂无从业资质数据）
+(no data)
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大制造业稳定，金属制造工人需求中等，但职位受经济周期影响。预计未来十年岗位平稳，部分地区因制造业回流略有增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Canada's manufacturing sector is stable, with moderate demand for metal fabrication workers, but positions are affected by economic cycles. Expect steady job numbers over the next decade, with slight growth in some areas due to manufacturing reshoring.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 起薪约15-18加元/小时 |
-| 中级（3-6年） | $38,000~$45,000 | 约19-22加元/小时 |
-| 高级（6年以上） | $45,000~$52,000 | 约22-25加元/小时 |
+| Median salary | $49,920 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Starting salary approximately 15-18 CAD per hour |
+| Mid-level (3–6 years) | $38,000~$45,000 | Approx. 19-22 CAD/hour |
+| Senior (6+ years) | $45,000~$52,000 | Approximately $22-25 CAD/hour |
+| average salary | $52,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从普通工人晋升为机器操作员或生产线组长。积累经验后可通过学徒制转向焊工或钳工等技术职位，薪资明显提升。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Repetitive tasks such as cutting, bending, and inspection in metal manufacturing will be affected by AI and automation, but on-site installation, welding adjustments, and complex size adaptation rely on hand-eye coordination and experience, making the profession resilient; skilled workers with 3D modeling and CNC programming will benefit most.
+
+Can progress from general worker to machine operator or production line leader. With experience, can transition through apprenticeships to technical roles such as welder or fitter, with significantly higher pay.
+
+**Tasks most exposed to AI:**
+
+- Automated nesting and cutting path planning based on drawings; AI can generate optimal cutting plans in one click.
+- Standard-sized robotic welding and laser/plasma cutting operations, reducing manual monitoring
+- Automatically identify weld defects and dimensional deviations through visual inspection systems
+- Generate BOM lists and time estimates for cutting and welding, replacing manual calculations
+- Automatically generate CNC machining programs (G-code) for processes such as tube bending, punching, etc.
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling and virtual assembly to detect structural conflicts and installation errors in advance
+- Augmented Reality (AR) overlays drawings and tolerance information to assist on-site positioning and verification
+- Intelligent welding parameter recommendation system that automatically optimizes current/voltage based on material thickness and position
+- Real-time quality feedback system combined with sensors guides operators to adjust welding techniques or bending angles.
+
+**Human moat:**
+
+- Manual assembly and welding adjustment of complex steel structures (e.g., irregular beams, non-standard components)
+- Spatial awareness, temporary support, and lifting coordination decisions during on-site installation
+- Experiential adaptation and modification based on old drawings or incomplete information
+- Development of welding procedures and problem-solving for special materials (e.g., high-strength steel, aluminum alloys)
+
+**Skills to build:**
+
+- 3D modeling software (e.g., SolidWorks, Tekla Structures)
+- CNC programming (e.g., CNC plasma/laser cutting machine and tube bending machine programming)
+- Welding robot teaching and basic maintenance
+- AI nesting and manufacturing execution system (MES) operation
+- Augmented reality (AR) assisted assembly tool usage
+- Basic Python or scripting for automated data generation
+
+**Key growth areas:**
 
 - Stable demand
 - Manufacturing
@@ -60,68 +94,67 @@ Perform material handling, machine feeding, cleaning, and assisting tasks in met
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但需证明无法招到本地工人 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份PNP可能包含低技能工人，但机会有限 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, but must prove inability to recruit local workers |
+| Subclass PNP (Provincial Nominee Program) | Some provincial PNP streams may include lower-skilled workers, but opportunities are limited |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Labourers in metal fabrication？**
-- 愿意从事体力劳动、能接受倒班的工作者。
-- 希望快速进入职场、无需高等教育背景的求职者。
-- 有制造业经验、寻求稳定基础岗位的人。
-
-**谁不适合学Labourers in metal fabrication？**
-- 寻求白领工作或高薪资水平的人。
-- 对工作安全性和体力要求敏感的人。
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals willing to do physical labour and accept shift work.
+- Job seekers wanting to quickly enter the workforce without higher education background.
+- People with manufacturing experience seeking stable entry-level roles.
+
+**Who is not suited**
+- For those seeking white-collar jobs or high salary levels.
+- People sensitive to job safety and physical demands.
+
+---
+
+## 8. FAQ
+
+**Q: How much do metal fabrication workers earn?**
+A: Entry-level hourly wage is about CAD 15-18, annual income CAD 30,000-40,000; senior can reach CAD 22-25 per hour, annual income CAD 45,000-52,000.
+
+**Q: Is this occupation suitable for immigrating to Canada?**
+A: Not suitable for direct skilled migration as NOC TEER 5 does not meet Express Entry requirements. Can use LMIA work permit or a few PNP low-skilled programs, but it is difficult.
+
+**Q: What educational background is needed for this job?**
+A: Generally requires only high school graduation, with most skills acquired through short-term on-the-job training provided by the employer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Labourers in metal fabrication为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for labourers in metal fabrication?**
-答：Entry-level wages are about CAD 15-18 per hour, annual income CAD 30,000-38,000; experienced workers earn CAD 22-25 per hour, annual income up to CAD 52,000.
-
-**问：Is this occupation suitable for immigration to Canada?**
-答：Not suitable for direct skilled migration as NOC TEER 5 does not qualify for Express Entry. Options include LMIA work permit or limited PNP low-skilled streams, but it is challenging.
-
-**问：What education is needed for this job?**
-答：Typically only high school diploma is required; most skills are gained through short-term on-the-job training provided by employers.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

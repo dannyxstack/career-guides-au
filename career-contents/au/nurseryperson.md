@@ -1,59 +1,95 @@
-# Nurseryperson（Nurseryperson）职业分析 · 澳大利亚
+# Nurseryperson — career analysis · Australia
 
-**职业代码：362411 – Nurseryperson。**
+**Occupation code: 362411 (ANZSCO)**
 
-Nurserypersons cultivate, plant, care for, and sell plants including flowers, shrubs, and trees. Tasks include soil preparation, seeding, watering, fertilizing, pest control, and customer advice.
+Horticulturist (Nursery) responsible for cultivating, planting, maintaining, and selling plants, including flowers, shrubs, and trees. Work involves soil preparation, sowing, watering, fertilizing, pest and disease control, and customer consultation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书III | 1-2年 | $5,000~$15,000（公立TAFE学费） |
-| 职业教育证书IV | 1年 | $6,000~$18,000（强化管理技能） |
-| 园艺学文凭 | 2年 | $15,000~$30,000（私立学院费用较高） |
+| Certificate III in Vocational Education | 1-2 years | $5,000~$15,000 (Public TAFE tuition fees) |
+| Certificate IV in Vocational Education | 1 year | $6,000~$18,000 (Strengthen management skills) |
+| Diploma in Horticulture | 2 years | $15,000~$30,000 (Private colleges charge higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 园艺三级证书（AHC30721） | TAFE或注册培训机构 | 可选 | 入职基础资格，全国认可 |
-| 无强制注册 | N/A | 可选 | 雇主一般要求CIII，但无法律强制 |
+| Certificate III in Horticulture (AHC30721). | TAFE or registered training organizations | Optional | Entry-level qualification, nationally recognized |
+| No mandatory registration. | N/A | Optional | Employers generally require CIII, but it is not legally mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。澳洲园艺行业持续增长，受住房建设、景观美化和环保项目推动，苗圃工人需求稳定。未来五年预计就业增长中等，尤其在城市周边和偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Australia's horticulture industry continues to grow, driven by housing construction, landscaping, and environmental projects, with stable demand for nursery workers. Moderate employment growth is expected over the next five years, especially in urban fringe and remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 全职含养老金 |
-| 中级（3-6年） | $60,000~$72,000 | 有经验及证书 |
-| 高级（6年以上/主管） | $72,000~$85,000 | 包含管理职责 |
+| Median salary | $66,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$60,000 | Full-time including superannuation |
+| Mid-level (3–6 years) | $60,000~$72,000 | Experienced and certified |
+| Senior (6+ years/supervisor) | $72,000~$85,000 | Includes management responsibilities. |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级园艺工可通过积累经验晋升为高级园艺工或主管，也可专攻植物病虫害防治或苗圃管理。部分从业者创业开设苗圃或景观公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core manual operations (transplanting, pruning) of a horticulturist (nursery) are hard to replace in the short term, but AI has significantly improved efficiency in pest diagnosis, irrigation optimization, and inventory management; entry-level positions have narrowed slightly due to the spread of automation tools, but AI cannot replace intuitive judgment of plant health and customized advisory services for clients.
+
+Junior horticulturists can advance to senior horticulturist or supervisor through experience, or specialize in plant pest control or nursery management. Some start their own nurseries or landscaping companies.
+
+**Tasks most exposed to AI:**
+
+- Precise control of regular watering and fertilizing (AI sensors + automatic irrigation system take over)
+- Initial pest and disease identification and reporting (AI image recognition replaces manual inspections).
+- Inventory records and sales data entry (AI auto-collection and ERP integration)
+- Greenhouse environmental monitoring and alerts (IoT+AI automatically adjust temperature and humidity)
+- Simple customer FAQs (AI chatbot handling repetitive inquiries)
+
+**Where AI augments the role:**
+
+- AI pest and disease diagnosis system provides real-time advice, improving control accuracy
+- Growth prediction models assist in developing transplanting/pruning plans, improving yield and quality
+- AI analysis of customer data enables personalized plant recommendations, increasing sales
+- Drone/robot inspection supplements manual visual checks, reducing missed detection rate
+- AR tools assist in designing nursery layouts to optimize space utilization.
+
+**Human moat:**
+
+- Intuitive judgment of non-standard plant health (e.g. slight wilting, soil feel)
+- In-depth consultations to build trust with clients (e.g., custom garden design, emotional service)
+- Flexible response in complex operations (e.g., repairing damaged plants, handling abnormal weather)
+- Fine manual operations (e.g., rare plant grafting, artistic pruning)
+- Comprehensive decision-making based on cross-season long-term care experience (e.g., crop rotation, breeding plans).
+
+**Skills to build:**
+
+- Operation and calibration of AI pest/disease diagnostic tools (e.g., Plantix, Taranis)
+- Use and troubleshooting of greenhouse automation control systems (e.g., Priva, Argus)
+- Data analysis basics (Excel, Power BI) for growth trend reviews
+- Application of CRM and inventory management software (e.g., Lightspeed, ERPLY)
+- Sustainable cultivation techniques (e.g., vertical farming, hydroponics) combined with AI
+- Cross-disciplinary collaboration skills (communicating with agricultural technicians and environmental consultants)
+
+**Key growth areas:**
 
 - Landscaping boom
 - Sustainability
@@ -62,69 +98,68 @@ Nurserypersons cultivate, plant, care for, and sell plants including flowers, sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，要求相关学历和两年工作经验 |
-| Subclass 186（Employer Nomination Scheme Visa） | 雇主担保永久签证，需通过职业评估并获雇主提名 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永久签证，需在CSOL职业清单上并获得州提名 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保签证，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa requiring relevant qualifications and two years of work experience |
+| Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent visa, requires skills assessment and employer nomination |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent visa, requires occupation on the CSOL and state nomination |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, with pathway to 191 permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nurseryperson？**
-- 热爱户外工作、植物栽培和园艺
-- 动手能力强，能适应体力劳动
-- 有意愿在农业或环境领域长期发展
-
-**谁不适合学Nurseryperson？**
-- 对花粉或农药过敏者
-- 希望快节奏办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work, plant cultivation, and gardening.
+- Strong hands-on skills, able to adapt to physical work
+- Willingness to develop long-term in agriculture or environment
+
+**Who is not suited**
+- Allergic to pollen or pesticides
+- Those who want a fast-paced office job.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for horticulturists?**
+A: Entry-level annual salary about A$50,000-60,000, mid-level A$60,000-72,000, senior managers up to A$85,000. Remote areas may offer higher salaries or allowances.
+
+**Q: Can a gardener immigrate to Australia?**
+A: Yes. This occupation is on the CSOL occupation list and can be migrated through employer sponsorship 482, permanent residence 186, state nomination 190, or regional nomination 494 visas.
+
+**Q: Is there career progression for horticultural workers?**
+A: Yes. Can advance to nursery supervisor, horticultural consultant, landscape designer, or start own business. With higher qualifications, can enter research and education fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Nurseryperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Nurseryperson?**
-答：Entry-level annual salary is AUD 50,000-60,000, mid-level AUD 60,000-72,000, and senior/supervisor up to AUD 85,000. Regional areas may offer higher pay or allowances.
-
-**问：Can Nurserypersons migrate to Australia?**
-答：Yes, it is on the CSOL. Pathways include 482 Temporary Skill Shortage, 186 Employer Nomination, 190 Skilled Nominated, and 494 Regional Sponsored visas.
-
-**问：Are there career advancement opportunities for Nurserypersons?**
-答：Yes, they can become nursery supervisors, horticultural consultants, landscape designers, or start their own business. Further education can lead to research or education roles.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

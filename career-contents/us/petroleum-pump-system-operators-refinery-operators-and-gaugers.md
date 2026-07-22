@@ -1,59 +1,94 @@
-# Petroleum Pump System Operators, Refinery Operators, and Gaugers（Petroleum Pump System Operators, Refinery Operators, and Gaugers）职业分析 · 美国
+# Petroleum Pump System Operators, Refinery Operators, and Gaugers — career analysis · United States
 
-**职业代码：51-8093 – Petroleum Pump System Operators, Refinery Operators, and Gaugers。**
+**Occupation code: 51-8093 (SOC)**
 
-Operate or control petroleum refining or processing units, specializing in manifold and pumping systems, gauging or testing oil in storage tanks, or regulating oil flow into pipelines.
+Operate or control petroleum refining or processing units; may specialize in controlling manifolds and pumping systems, measuring or testing oil in storage tanks, or regulating oil flow into pipelines
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（高中毕业） |
-| 技术证书或副学士学位 | 1-2年 | $10,000~$30,000（社区学院或技术学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (High school graduation) |
+| Technical certificate or associate degree | 1-2 years | $10,000~$30,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 炼油操作员培训 | 雇主或行业协会 | 可选 | 通常在岗培训，持续6-12个月 |
-| HAZWOPER 认证 | OSHA | 必备 | 危险废物操作和应急响应标准 |
-| 安全证书 | 雇主或第三方 | 必备 | 如过程安全管理培训 |
+| HAZWOPER certification | OSHA | Required | Hazardous waste operations and emergency response standard |
+| Safety certificate | Employer or third party | Required | e.g., process safety management training |
+| Refinery operator training. | Employer or industry association | Optional | Typically on-the-job training, lasting 6-12 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 30,500。美国炼油行业就业预计缓慢下降，受能源转型和自动化影响，但现有设施维护和替代退休人员仍提供一定需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,500. Employment in the US refining industry is expected to slowly decline due to energy transition and automation, but ongoing maintenance of existing facilities and replacement of retirees still provide some demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 培训期工资较低 |
-| 中级（3-7年） | $70,000~$90,000 | 独立操作岗位 |
-| 高级（7年以上） | $90,000~$110,000 | 资深操作员或班组长 |
+| Median salary | $96,710 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Lower pay during training period |
+| Mid-level (3–7 years) | $70,000~$90,000 | Independent operator role. |
+| Senior (7+ years) | $90,000~$110,000 | Senior operator or team leader |
+| average salary | $90,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级操作员可晋升为高级操作员、班组长或控制室操作员；部分转向工艺工程或安全管理岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Positions like oil pump system operators face serious automation threats; AI and IoT can take over monitoring, reporting, and scheduling tasks. Entry-level positions shrink significantly, but on-site emergency response and compliance supervision still require humans.
+
+Junior operators can advance to senior operators, shift leaders, or control room operators; some transition to process engineering or safety management roles.
+
+**Tasks most exposed to AI:**
+
+- AI takes over real-time monitoring and alarming of oil tank liquid level, temperature, and pressure
+- Automated systems perform pump start/stop, valve switching, and flow adjustment.
+- AI generates inspection reports, inventory daily reports, and operation logs
+- Optimizing parameter settings and energy consumption in refining units using intelligent algorithms
+- Automated metering systems automatically complete measurement and calculation of oil volume and mass
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of abnormal data helps operators quickly locate fault causes
+- Augmented Reality (AR) overlays key parameters to improve on-site inspection efficiency
+- AI predictive maintenance alerts to reduce unplanned downtime
+- Simulation training systems accelerate new employees' emergency response capability development
+- AI dispatch coordinates multiple pump stations and pipelines, optimizing transport rhythm
+
+**Human moat:**
+
+- Unstructured decision-making and manual emergency operations in on-site incidents
+- Deep understanding and experiential judgment of complex refining processes
+- Multi-party communication and coordination with regulatory agencies, maintenance teams, and downstream clients
+- Process safety and compliance responsibilities, signing key operational confirmations.
+
+**Skills to build:**
+
+- Industrial IoT platform operation and data analysis (e.g., SCADA, PI System)
+- Basic programming and scripting skills (Python for report automation, anomaly detection).
+- AI/Machine learning fundamentals, understand predictive maintenance model principles
+- Digital twin and simulation software usage (e.g., Aspen HYSYS)
+- Emergency management and advanced safety standards (e.g., API, OSHA standards)
+- Cross-departmental communication and project management skills
+
+**Key growth areas:**
 
 - Automation
 - Energy Transition
@@ -62,68 +97,67 @@ Operate or control petroleum refining or processing units, specializing in manif
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需要专业知识的职位，但炼油操作员通常不符合专业职业要求，除非结合工程背景 |
-| Subclass EB-3（EB-3 Skilled Workers） | 技术工人绿卡，需要至少2年培训或经验，炼油操作员可申请 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的劳工证，证明没有合格美国工人，随后申请EB-2/EB-3绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Suitable for positions requiring specialized knowledge, but refinery operators typically do not meet professional occupation requirements unless combined with an engineering background. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers, requires at least 2 years training or experience; refinery operators can apply |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored labor certification proving no qualified US workers available, then applying for EB-2/EB-3 green card |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Petroleum Pump System Operators, Refinery Operators, and Gaugers？**
-- 注重安全规程、动手能力强
-- 适应轮班和户外工作
-- 有机械或化工背景
-
-**谁不适合学Petroleum Pump System Operators, Refinery Operators, and Gaugers？**
-- 不喜欢重复性操作
-- 对化学品过敏或敏感
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Safety-conscious, hands-on skills
+- Adapt to shift work and outdoor work
+- Has a mechanical or chemical engineering background
+
+**Who is not suited**
+- Dislikes repetitive tasks
+- Allergic or sensitive to chemicals.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for petroleum pump system operators?**
+A: Median US salary about $75,000; entry-level $50,000-$70,000; senior can reach $110,000.
+
+**Q: Is this occupation suitable for immigrating to the US via H-1B or green card?**
+A: Uncommon; usually requires combining an engineering degree to meet H-1B specialty occupation requirements, but EB-3 skilled worker green card may be possible, requiring employer sponsorship
+
+**Q: What is the future outlook for this occupation?**
+A: Expected employment decline due to automation and renewable energy, but maintenance of existing facilities still demands workers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Petroleum Pump System Operators, Refinery Operators, and Gaugers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for petroleum pump system operators?**
-答：Median salary in the US is about $75,000, with entry-level around $50,000-$70,000 and senior up to $110,000.
-
-**问：Is this occupation suitable for H-1B or green card immigration to the US?**
-答：Not common; typically requires an engineering degree for H-1B, but EB-3 skilled worker green card is possible with employer sponsorship.
-
-**问：What is the future outlook for this occupation?**
-答：Employment is expected to decline due to automation and renewable energy, but maintenance of existing facilities remains.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

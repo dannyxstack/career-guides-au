@@ -1,62 +1,98 @@
-# Animal Podology Practitioner（Animal Podology Practitioner）职业分析 · FR
+# Animal Podology Practitioner — career analysis · France
 
-**职业代码：A1502 – Animal Podology Practitioner。**
+**Occupation code: A1502 (ROME)**
 
-Animal podology practitioners diagnose and treat foot disorders in animals, mainly horses, dogs, and cattle, focusing on hoof care, orthopedics, and rehabilitation.
+Animal podiatrists specialize in diagnosing and treating foot diseases of animals (especially horses, dogs, and cattle), including hoof care, orthopedics, and rehabilitation.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 动物护理 | 2年（CAP） | —（公立学校免费，材料费约1千欧） |
-| BTS 动物健康与技术 | 2年（BTS） | —（公立免费，私立约2千欧） |
-| CNEAT 或兽医专科文凭 | 3-5年 | $2,000~$10,000（可能需要额外专科培训） |
+| CAP Animal Care | 2 years (CAP) | $0~$1,000 (Public schools are free, with material costs around 1,000 euros) |
+| BTS Animal Health and Technology | 2 Years (BTS) | $0~$2,000 (Public schools are free, private ones about 2,000 euros) |
+| CNEAT or Veterinary Diploma | 3-5 years | $2,000~$10,000 (Additional specialist training may be required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 动物护理资格 | 法国教育部 | 必备 | 基础从业门槛 |
-| BTS 动物健康与技术 | 法国教育部 | 必备 | 更高级别资质 |
-| 兽医或足科专科认证 | 法国兽医公会 | 可选 | 独立执业必需 |
+| CAP Animal Care Qualification | French Ministry of Education | Required | Basic entry threshold for employment |
+| BTS Animal Health and Technology | French Ministry of Education | Required | Higher-level qualifications |
+| Veterinary or podiatrian specialist certification | French Veterinary Association | Optional | Independent practice is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 300。法国动物足科需求稳定增长，宠物经济繁荣和赛马产业推动就业。目前全职从业者约300人，竞争较低。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 300. Demand for animal podiatry in France is steadily growing, with a thriving pet economy and the horse racing industry driving employment. Currently, there are about 300 full-time practitioners, and competition is relatively low.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$50,000 | 税前年薪 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$50,000 | Annual pre-tax salary |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从业者可从助理升至独立执业，或专攻马匹蹄铁疗法、犬类康复。积累经验后可开设诊所或担任大型养殖场顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Animal podiatrist faces the risk of AI being moderately substituted: diagnostic image analysis is easily automated, but fine hand operations and personalized rehabilitation services are hard to replace, resulting in mixed outcomes.
+
+Practitioners can advance from assistant to independent practice, or specialize in horseshoe therapy and canine rehabilitation. After gaining experience, you can open a clinic or serve as a consultant for large farms.
+
+**Tasks most exposed to AI:**
+
+- Preliminary recognition and report generation of X-ray/CT images
+- Automated diagnostic recommendations for common hoof diseases (such as laminitis).
+- Recording and basic analysis of rehabilitation progress data
+- Automatic responses to standardized questions in online consultations
+- Case management and appointment scheduling
+
+**Where AI augments the role:**
+
+- Using an AI gait analysis system to accurately assess the degree of limping
+- Machine learning is used to predict the risk of hoof ulcers and develop prevention plans
+- AR/VR assists in developing personalized orthotic design plans
+- Automatically organize medical records and research literature using natural language processing
+- Remotely monitor rehabilitation progress and provide real-time adjustment suggestions
+
+**Human moat:**
+
+- Hand surgical repair for complex trauma or rare foot diseases
+- Empathetic communication and behavioral training guidance with animal owners
+- Calming procedures and on-site emergency response for stressed animals
+- Customized adjustment and long-term follow-up of hoof orthotics
+- Decision-making with cross-species foot biomechanics knowledge
+
+**Skills to build:**
+
+- Operation of AI medical image analysis tools (such as Vetology).
+- Gait analysis software (such as GaitSmart) applications
+- 3D printed orthotic design and modeling
+- Data analysis and Python basics
+- Digital health record management
+- Ethology and soothing techniques
+
+**Key growth areas:**
 
 - Animal Health
 - Equine Care
@@ -65,69 +101,68 @@ Animal podology practitioners diagnose and treat foot disorders in animals, main
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合高等学历人才，需雇主担保，年薪门槛约5.3万欧 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能专业人士，需雇主担保或项目支持 |
-| Subclass Salarié（Employee Residence Permit） | 受雇工作居留，雇主需证明无法招到欧盟公民 |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated talent; requires employer sponsorship; annual salary threshold around €53,000 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals who require employer sponsorship or project support |
+| Subclass Salarié (Employee Residence Permit) | For employment-based residence, employers must prove they cannot recruit EU citizens |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Podology Practitioner？**
-- 热爱动物且对足科有强烈兴趣的人
-- 愿意接受实践培训和证书考核的人
-- 希望在竞争较低领域创业的人
-
-**谁不适合学Animal Podology Practitioner？**
-- 对动物气味或血液感到不适的人
-- 不愿投入时间获取专业认证的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who love animals and have a strong interest in podiatry.
+- Those willing to undergo practical training and certification assessments
+- Those hoping to start a business in a less competitive field
+
+**Who is not suited**
+- People who feel uncomfortable with animal odors or blood
+- Those unwilling to invest time in obtaining professional certification
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an animal podiatrist?**
+A: Junior: about €20,000-25,000/year, mid-level: €25,000-35,000/year, senior: up to €50,000/year (pre-tax).
+
+**Q: How can third-country citizens immigrate to France through zoopod?**
+A: You can obtain an EU Blue Card (requiring high education and high salary) or a talent passport, but employer sponsorship and qualification requirements must be met.
+
+**Q: What educational qualifications are required to become an animal podiatrist?**
+A: Typically requires CAP Animal Care or BTS Animal Health and Technology, with some specialist training provided by veterinary schools.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Animal Podology Practitioner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an animal podology practitioner?**
-答：Entry-level: €20,000-25,000/year; mid-career: €25,000-35,000/year; senior: up to €50,000/year (gross).
-
-**问：How can a third-country national migrate to France as an animal podology practitioner?**
-答：Via EU Blue Card (high education & salary) or Talent Passport, requiring employer sponsorship and qualification recognition.
-
-**问：What education is required to become an animal podology practitioner?**
-答：CAP in animal care or BTS in animal health and technology; specialized courses from veterinary schools.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

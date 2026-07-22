@@ -1,61 +1,97 @@
-# Steam Engine and Boiler Operator（Steam Engine and Boiler Operator）职业分析 · IE
+# Steam Engine and Boiler Operator — career analysis · Ireland
 
-**职业代码：8182 – Steam Engine and Boiler Operator。**
+**Occupation code: 8182 (ISCO08)**
 
-Operates and maintains steam boilers and engines to provide power for industrial facilities, heating systems, and more. In Ireland, mainly in power generation, manufacturing, and large heating plants.
+Operate and maintain steam boilers and engines to power industrial facilities, heating systems, etc. In Ireland, this occupation is primarily found in power generation, manufacturing, and large heating facilities.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒或职业培训 | 2-4年 | $2,000~$8,000（SOLAS等机构提供的学徒制，费用较低） |
-| 高等证书/文凭 | 1-2年 | $4,000~$12,000（理工学院或继续教育学院课程） |
+| Apprenticeship or vocational training | 2-4 years | $2,000~$8,000 (Apprenticeships offered by organisations such as SOLAS, with low costs) |
+| Advanced Certificate/Diploma | 1-2 years | $4,000~$12,000 (Polytechnic or further education college courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 蒸汽锅炉操作员证书 | 爱尔兰国家考试委员会（QQI） | 必备 | 强制性基础资格 |
-| 高压锅炉运行许可 | 健康与安全管理局（HSA） | 必备 | 涉及高压锅炉时强制要求 |
-| 工业安全培训 | SOLAS安全培训 | 可选 | 非强制但雇主普遍要求 |
+| Certificate for steam boiler operator | Quality and Qualifications Ireland (QQI) | Required | Mandatory basic qualifications |
+| High-pressure boiler operation permit | Health and Safety Authority (HSA) | Required | Mandatory when high-pressure boilers are involved |
+| Industrial safety training | SOLAS safety training | Optional | Not mandatory but generally required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 600。随着能源转型和工业升级，对锅炉操作员的需求保持稳定。传统火力发电岗位有所减少，但生物质能、废物能源化等新兴领域带来了新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 600. Demand for boiler operators remains stable due to the energy transition and industrial upgrades. While traditional thermal power plant roles have decreased, new opportunities in emerging fields such as biomass and waste-to-energy are arising.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，依地区和公司规模浮动 |
-| 中级（3-8年） | $38,000~$48,000 | 税前年薪，含加班费等 |
-| 高级（8年以上） | $50,000~$60,000 | 税前年薪，主管级别可达更高 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, varies by region and company size |
+| Mid-level (3–8 years) | $38,000~$48,000 | pre-tax annual salary, including overtime pay, etc. |
+| Senior (8+ years) | $50,000~$60,000 | Annual salary before tax, senior positions can be higher |
+| average salary | $43,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级操作员晋升为高级操作员或值班主管，考取更高等级证书后可担任技术员或能源管理岗位。部分人转向可再生能源领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Steam engine and boiler operators face significant automation compression risk. AI-driven predictive maintenance, smart sensors, and automated control systems will gradually take over most monitoring, adjustment, and fault diagnosis tasks, leading to reduced job demand.
+
+Can progress from entry-level operator to senior operator or shift supervisor; with higher-level certifications, can become technician or energy management role. Some transition to renewable energy sector.
+
+**Tasks most exposed to AI:**
+
+- Monitor boiler temperature, pressure, and liquid level 24/7 continuously
+- Manual adjustment of valves and burner settings to maintain operating conditions.
+- Preventive maintenance based on a fixed schedule
+- Record operation logs and generate standard reports
+- Identify and respond to common alarms (e.g., low pressure, high temperature)
+
+**Where AI augments the role:**
+
+- Using AI prediction models to optimize combustion efficiency and emission control
+- Training and safety drills using digital twin simulations
+- Use smart diagnostic tools to quickly locate complex faults
+- Analyze historical data to improve energy dispatch and load planning
+- Conduct high-risk area inspections using drones/robots
+
+**Human moat:**
+
+- Quick decision-making and manual emergency operations under urgent situations
+- Cross-system coordination dispatch responsibilities
+- Compliance and safety audits liaising with regulatory bodies
+- On-site repair and modification of old equipment (non-smart)
+- Training new staff and passing on tacit operational experience
+
+**Skills to build:**
+
+- Industrial Internet of Things (IIoT) and sensor data analysis
+- Operation of AI-based predictive maintenance software
+- Basics of programmable logic controllers (PLC) and SCADA systems
+- Use of digital twins and simulation tools
+- Energy management system (EMS) and energy efficiency optimization.
+- Relevant safety regulations and environmental standards (e.g., emission monitoring)
+
+**Key growth areas:**
 
 - Energy transition
 - Biomass energy
@@ -64,65 +100,67 @@ Operates and maintains steam boilers and engines to provide power for industrial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于多数职业，需雇主担保，年薪需达到法定门槛（约30,000欧元） |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调任，适合有经验的员工 |
+| Subclass General Employment P (General Employment Permit) | Applies to most occupations, requires employer sponsorship, and annual salary must meet the statutory threshold (approximately €30,000). |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer for experienced employees |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Steam Engine and Boiler Operator？**
-- 喜欢动手操作和维护机械设备的人
-- 愿意轮班和户外工作的人
-- 对能源和工业领域感兴趣的人
+**Who is suited**
+- People who enjoy hands-on operation and maintenance of machinery and equipment.
+- People willing to work shifts and outdoors
+- People interested in the energy and industrial sectors
 
-**谁不适合学Steam Engine and Boiler Operator？**
-- 不喜欢高温、噪音和体力劳动的人
-- 寻求高薪和快速晋升的人
+**Who is not suited**
+- People who dislike high temperatures, noise, and physical labor.
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for steam engine and boiler operators in Ireland?**
+A: Entry-level annual salary approximately €28,000-35,000, mid-level €38,000-48,000, senior up to €50,000+, depending on experience, certifications, and industry.
+
+**Q: Is this occupation on Ireland's shortage occupation list? Is immigration easy?**
+A: This occupation is not on the shortage list, but immigration is possible through a general work permit. Employer sponsorship and salary requirements apply. EU citizens can move freely.
+
+**Q: How to become a steam and boiler operator?**
+A: Usually requires completion of an apprenticeship or vocational training, obtaining a QQI certificate, and passing the HSA safety certification. Some employers may require experience in high-pressure boiler operation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Steam Engine and Boiler Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for steam engine and boiler operators in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, mid-level €38,000 to €48,000, and senior roles can exceed €50,000, depending on experience, certifications, and industry.
-
-**问：Is this occupation on Ireland's shortage list? Is immigration easy?**
-答：This occupation is not on the shortage list, but you can apply for a General Employment Permit with employer sponsorship and meeting salary thresholds. EU citizens have free movement.
-
-**问：How to become a steam engine and boiler operator?**
-答：Typically requires completing an apprenticeship or vocational training, obtaining a QQI certificate, and passing HSA safety certification. Some employers may require high-pressure boiler experience.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

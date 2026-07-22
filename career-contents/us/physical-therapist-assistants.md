@@ -1,61 +1,93 @@
-# Physical Therapist Assistants（Physical Therapist Assistants）职业分析 · 美国
+# Physical Therapist Assistants — career analysis · United States
 
-**职业代码：31-2021 – Physical Therapist Assistants。**
+**Occupation code: 31-2021 (SOC)**
 
-Assist physical therapists in providing treatments, developing plans, documenting progress, and modifying treatments under supervision.
+Assisting physiotherapists in executing treatment procedures, including developing treatment plans, recording progress, and adjusting plans, working under the guidance of the therapist.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院或技术学校） |
-| 学士学位 | 4年 | $40,000~$100,000（部分大学提供衔接课程） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college or technical school) |
+| Bachelor's degree | 4 years | $40,000~$100,000 (Some universities offer bridging courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家物理治疗助理考试（NPTE-PTA） | FSBPT | 必备 | 所有州要求通过该考试获得执照 |
-| CPR认证 | 美国心脏协会等 | 可选 | 多数雇主要求 |
-| 副学士学位 | CAPTE认证机构 | 必备 | 所有项目必须获得CAPTE认证 |
+| National Physical Therapy Assistant Exam (NPTE-PTA) | FSBPT | Required | All states require passing this exam for licensure |
+| Associate degree | CAPTE-accredited institution | Required | All programs must obtain CAPTE accreditation |
+| CPR certification | American Heart Association, etc. | Optional | Most employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 96,500。美国就业增长强劲，受人口老龄化和康复需求推动。BLS预测2022-2032年增长19%，远高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 96,500. Strong employment growth in the US, driven by aging population and rehabilitation demand. BLS predicts 19% growth from 2022-2032, well above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 新手常见 |
-| 中级（4-10年） | $55,000~$70,000 | 经验积累后提升 |
-| 高级（10年以上） | $70,000~$85,000 | 主管或专科领域 |
+| Median salary | $68,380 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Common for beginners |
+| Mid-level (4-10 years). | $55,000~$70,000 | Advancement through experience |
+| Senior (10+ years) | $70,000~$85,000 | Supervisor or specialist area |
+| average salary | $68,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 多数助理有资格晋升为物理治疗师（需博士学历），或进入管理、教育等岗位。持续教育可提升薪资与机会。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Physical therapist assistant job has mixed prospects: AI can handle administrative tasks like record-keeping and scheduling, but direct patient contact and treatment execution still require humans; overall demand is stable.
+
+Most assistants are eligible to become physical therapists (requiring a doctoral degree) or move into management, education, and other roles. Continuing education can increase salary and opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates treatment progress records and reports
+- Automated scheduling and patient appointment management.
+- Basic motion analysis (e.g., joint range of motion measurement)
+- Patient data entry and electronic health record updates
+
+**Where AI augments the role:**
+
+- AI-assisted development of personalized treatment plans, optimizing options based on data
+- Real-time biomechanical feedback to enhance movement training effectiveness
+- Virtual reality systems enhance immersion and engagement in rehabilitation training
+- AI analyzes patient progress trends to help adjust treatment intensity
+
+**Human moat:**
+
+- Build trust and emotional support with patients
+- Manual therapy techniques (e.g., massage, joint mobilization)
+- On-site assessment of patient pain and fatigue levels
+- Multitasking coordination and emergency response skills
+
+**Skills to build:**
+
+- AI rehabilitation tool operation (e.g., VR rehabilitation systems)
+- Basic data analysis and interpretation of treatment outcomes.
+- Patient education on digital tool use
+- Remote patient monitoring technology
+- Advanced Features of Electronic Health Record Systems
+
+**Key growth areas:**
 
 - Aging population
 - Rehabilitation demand
@@ -64,63 +96,65 @@ Assist physical therapists in providing treatments, developing plans, documentin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要学士学位，但PTA仅需副学士，雇主担保困难 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，要求至少2年培训或经验，PTA不符合通常标准 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人，PTA岗位竞争激烈，批准困难 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually requires a bachelor's degree, but PTA only needs an associate degree; employer sponsorship is difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, with at least 2 years of training or experience; PTA usually does not meet the standard |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified US workers; PTA positions are highly competitive and approvals are difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Physical Therapist Assistants？**
-- 喜欢帮助他人康复
-- 动手能力强且细心
-- 能接受重复性工作
+**Who is suited**
+- Like helping others recover
+- hands-on and detail-oriented
+- Able to tolerate repetitive work
 
-**谁不适合学Physical Therapist Assistants？**
-- 期望高薪资快速成长
-- 不愿长期在副学士级别工作
+**Who is not suited**
+- Expecting high salary and rapid growth
+- Unwilling to work long-term at associate level
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a physical therapist assistant?**
+A: According to BLS 2023 data, average annual salary about $61,000, range $45,000-$85,000.
+
+**Q: Can physical therapist assistants easily immigrate to the US through skilled migration?**
+A: Very difficult. This occupation is generally not considered a professional role, with limited H-1B and EB-3 green card pathways and high employer sponsorship thresholds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Physical Therapist Assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Physical Therapist Assistant?**
-答：According to BLS 2023 data, the average annual salary is about $61,000, ranging from $45,000 to $85,000.
-
-**问：Is it easy to immigrate to the US as a Physical Therapist Assistant?**
-答：Very difficult. The occupation is not typically considered a specialty occupation, limiting H-1B and EB-3 green card paths, and employer sponsorship is challenging.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

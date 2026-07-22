@@ -1,61 +1,96 @@
-# Baker and Confectionery Maker（Baker and Confectionery Maker）职业分析 · DE
+# Baker and Confectionery Maker — career analysis · Germany
 
-**职业代码：2922 – Baker and Confectionery Maker。**
+**Occupation code: 2922 (KldB)**
 
-Bakers and confectionery makers produce bread, cakes, pastries, and desserts, involving ingredient preparation, dough making, baking, and decoration. This classic German dual-training occupation is typically employed in bakeries, hotels, supermarkets, and central kitchens.
+Bakers and pastry chefs produce bread, cakes, cookies, desserts and other baked goods, covering ingredient preparation, dough making, baking and decoration. This occupation is a traditional dual training profession in Germany, with workplaces including bakeries, hotels, supermarkets and central kitchens.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间企业支付津贴，公立职业学校免学费） |
-| 烘焙大师（Meister） | 1-2年（全职） | $3,000~$10,000（考试及课程费用，部分州有补贴） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (During training, employers provide allowances; public vocational schools are tuition-free.) |
+| Baking Master (Meister). | 1-2 years (full-time) | $3,000~$10,000 (Exam and course fees, some states offer subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业培训毕业证书（IHK） | 德国工商会（IHK） | 必备 | 完成3年培训并通过结业考试，为从业基本要求 |
-| 烘焙大师证书（Meisterbrief） | 德国工商会（IHK） | 可选 | 高级资质，允许独立开店并带徒 |
-| 外国资质认证（Anerkennung） | 德国联邦或州主管机构 | 必备 | 非欧盟学历需通过等效性评估，可能需补修课程或考试 |
+| Dual vocational training certificate (IHK) | German Chamber of Commerce and Industry (IHK) | Required | Complete 3 years of training and pass the final exam as a basic requirement for practice. |
+| Foreign qualification recognition (Anerkennung) | German federal or state competent authority | Required | Non-EU qualifications require equivalence assessment, may need supplementary courses or exams |
+| Master Baker Certificate (Meisterbrief) | German Chamber of Commerce and Industry (IHK) | Optional | Advanced qualification, allows independent practice and mentoring |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 230,000。德国烘焙行业就业稳定，因面包文化深厚且日常消费量大。新冠疫情后手工面包店需求回升，但行业面临专业人才短缺。预计未来十年岗位持平或略增，有经验的烘焙师（尤其是能制作特色糕点者）就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 230,000. Employment in the German baking industry is stable due to a strong bread culture and high daily consumption. After the COVID-19 pandemic, demand for artisan bakeries has recovered, but the industry faces a shortage of skilled professionals. Job numbers are expected to remain stable or increase slightly over the next decade, with good prospects for experienced bakers, especially those skilled in specialty pastries.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 实习期或刚完成培训 |
-| 中级（3-8年） | $32,000~$40,000 | 熟练烘焙师 |
-| 高级（8年以上/大师） | $40,000~$55,000 | 大师级或生产主管 |
+| Median salary | $38,760 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Internship period or just completed training |
+| Mid-level (3–8 years) | $32,000~$40,000 | Skilled baker |
+| Senior (8+ years / master) | $40,000~$55,000 | Master or Production Supervisor |
+| average salary | $41,568 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级烘焙师可通过双元制培训成为熟练工（Geselle），之后可选择考取烘焙大师（Meister）资质，进而开设独立面包店或担任生产主管。部分从业者转向食品研发、培训学校或行业管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Junior bakers can become skilled workers (Geselle) through dual-system training, then pursue Master Baker (Meister) certification to open independent bakeries or become production supervisors. Some transition to food R&D, training schools, or management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - Artisan baking trend
 - Health-conscious products
@@ -64,69 +99,68 @@ Bakers and confectionery makers produce bread, cakes, pastries, and desserts, in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Employment Visa)） | 需获得德国雇主offer，且职业资格经德国认可（Anerkennung），可申请工作签证。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许未获工作offer的求职者入境寻找工作，有效期1年，需具备基本德语能力。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需证明经济能力及德语A1水平。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | must obtain a job offer from a German employer, and the occupational qualification must be recognized in Germany (Anerkennung), eligible for a work visa. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system allowing entry to seek work without a job offer, valid for 1 year, requires basic German language skills. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to find work, requires proof of financial means and German A1 level. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Baker and Confectionery Maker？**
-- 热爱烘焙，享受手工制作过程
-- 能适应早起和站立工作
-- 有志于在德国长期从事食品行业
-
-**谁不适合学Baker and Confectionery Maker？**
-- 对体力劳动和高温环境不耐受
-- 期望高薪且快速晋升
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love baking and enjoy the handmade process
+- Able to adapt to early starts and standing work
+- Aspiring to work long-term in the German food industry
+
+**Who is not suited**
+- Intolerance to physical labor and high temperatures
+- Expect high salary and fast promotion.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of German bakers?**
+A: Junior bakers (after training) earn approximately €25,000-32,000 per year, intermediate (3-8 years experience) up to €32,000-40,000, and senior masters or supervisors around €40,000-55,000. Salaries vary by region, company size, and individual skills.
+
+**Q: How can non-EU bakers immigrate to Germany?**
+A: Typical pathway: first obtain a recognised German vocational qualification (Anerkennung), then find a German employer and apply for a skilled migration work visa. If conditions are insufficient, you can first apply for an Opportunity Card (Chancenkarte) or a job seeker visa (6 months) to come to Germany to find work. German B1 level is required.
+
+**Q: How to become a certified baker in Germany?**
+A: Main pathway: complete 3-year dual vocational training (Ausbildung), studying theory at a vocational school and practising in a company, after which a certificate is issued by the IHK. Foreign qualifications require official recognition (Anerkennung); if the gap is large, supplementary studies may be needed. Additionally, obtaining the master craftsman qualification (Meister) can enhance credentials.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Baker and Confectionery Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bakers in Germany?**
-答：Entry-level bakers earn around €25,000-32,000 annually after training, mid-level (3-8 years) reach €32,000-40,000, and senior master bakers or supervisors make €40,000-55,000. Salaries vary by region, company size, and skills.
-
-**问：How can non-EU bakers immigrate to Germany?**
-答：Typical path: obtain recognition of your foreign qualification (Anerkennung), then secure a job offer and apply for a skilled worker visa. Alternatively, apply for the Opportunity Card or a 6-month Job Seeker Visa to find employment. German language at B1 level is recommended.
-
-**问：How to become a certified baker in Germany?**
-答：Main pathway: complete a 3-year dual vocational training (Ausbildung) combining vocational school and on-the-job training, culminating in an IHK certificate. Foreign qualifications require official recognition (Anerkennung), possibly with supplementary courses. Further advancement via Master craftsman (Meister) is possible.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

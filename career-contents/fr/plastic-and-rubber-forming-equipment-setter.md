@@ -1,58 +1,93 @@
-# Plastic and Rubber Forming Equipment Setter（Plastic and Rubber Forming Equipment Setter）职业分析 · FR
+# Plastic and Rubber Forming Equipment Setter — career analysis · France
 
-**职业代码：H3202 – Plastic and Rubber Forming Equipment Setter。**
+**Occupation code: H3202 (ROME)**
 
-Sets up and adjusts plastic and rubber forming machines to ensure efficient production. Plays a key role in French manufacturing, particularly in automotive and packaging industries.
+Responsible for adjusting and installing plastic and rubber molding equipment to ensure efficient production processes. This position is in stable demand in French manufacturing, especially in the automotive and packaging sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（CAP/Bac Pro） | —（可通过学徒制免费学习并领取津贴） |
-| 高级技术文凭 | 2年（BTS） | $1,000~$2,000（公立学校学费低，学徒制免学费） |
+| High school graduation + vocational training | 2 years (CAP/Bac Pro) | $0~$500 (Students can study for free through apprenticeships and receive subsidies) |
+| Advanced Technical Diploma | 2 Years (BTS) | $1,000~$2,000 (Public school tuition is low, and apprenticeships are free of charge) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQPI塑料加工证书 | 法国塑料工业联盟 | 可选 | 非强制，但可提升就业竞争力 |
-| 自动化设备安全认证 | INRS | 可选 | 部分企业要求，保障操作安全 |
+| CQPI Plastic Processing Certificate | French Plastics Industry Alliance | Optional | Not mandatory, but can enhance employment competitiveness |
+| Automation equipment safety certification | INRS | Optional | Some companies require ensuring operational safety |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。法国塑料橡胶行业面临技术工人短缺，自动化升级创造了对调试员的新需求。预计未来5年就业稳定，但需适应数字化设备。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. France's plastics and rubber industry faces a shortage of skilled workers, and automation upgrades have created new demand for commissioners. Employment is expected to remain stable over the next five years, but will need to adapt to digital devices.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，视企业规模 |
-| 高级（7年以上） | $35,000~$45,000 | 含团队管理职责 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, depending on company size |
+| Senior (7+ years) | $35,000~$45,000 | Including team management responsibilities |
+| average salary | $35,588 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级调试员晋升为生产主管或工艺工程师。通过学徒制获得BTS或职业学士学位，可转向工业维护或质量管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Plastic processing machine operators face moderate-to-high automation risk; AI and robots will gradually take over repetitive tasks like parameter adjustment and quality inspection, but on-site troubleshooting still requires human intervention.
+
+Candidates can be promoted from junior commissioner to production supervisor or process engineer. Obtaining a BTS or vocational bachelor's degree through apprenticeships can lead to positions in industrial maintenance or quality management.
+
+**Tasks most exposed to AI:**
+
+- Automatic adjustment of machine parameters (e.g., temperature, pressure, speed)
+- Visual appearance defect detection using machine vision
+- Production data recording and simple report generation
+- Basic fault code diagnosis and reset operations
+- Material handling and feeding (automated conveyors and robotic arms replacement)
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to analyze equipment vibration and temperature data to detect potential faults early
+- Optimize mold temperature and cooling time through digital twin simulation to improve yield
+- Use AR glasses for remote expert guidance to handle complex faults
+- AI-assisted process parameter optimization to shorten new product commissioning cycles
+
+**Human moat:**
+
+- Manual troubleshooting and emergency handling of on-site mechanical failures
+- Exploring forming processes for new plastic materials (e.g., bio-based, composites)
+- Manual alignment and fine-tuning during mold change and adjustment
+- Cross-process coordination and root cause analysis of quality issues
+- Manual post-processing and assembly of custom parts.
+
+**Skills to build:**
+
+- Industrial robot operation and programming (e.g., FANUC, ABB)
+- Basic PLC and HMI Programming
+- Data analysis and SPC statistical process control
+- 3D printing and additive manufacturing processes
+- Digital twin and simulation software (e.g., Moldex3D)
+- Industrial IoT and sensor applications
+
+**Key growth areas:**
 
 - Automation
 - Industry 4.0
@@ -61,68 +96,67 @@ Sets up and adjusts plastic and rubber forming machines to ensure efficient prod
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需提供工作合同，有效期4年，可带家属 |
-| Subclass Salarié（Employee Work Permit） | 需法国公司担保，由DIRECCTE审核，有效期1-4年，可续签 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求年薪不低于欧盟蓝卡门槛（约53k EUR），但塑料行业较低，通常不适用 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a work contract valid for 4 years, and family members may be brought along |
+| Subclass Salarié (Employee Work Permit) | Requires a French company guarantee, reviewed by DIRECCTE, valid for 1-4 years, and can be renewed |
+| Subclass Carte bleue UE (EU Blue Card) | The annual salary requirement is not lower than the EU Blue Card threshold (about 53k EUR), but the plastics industry has a lower salary and is usually not applicable |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plastic and Rubber Forming Equipment Setter？**
-- 偏好动手操作和机械维护的人
-- 愿意接受学徒培训的年轻人
-- 希望在法国制造业稳定就业者
-
-**谁不适合学Plastic and Rubber Forming Equipment Setter？**
-- 不适应工厂噪音和轮班制的人
-- 追求高薪且快速晋升的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prefer hands-on operation and mechanical maintenance
+- Young people willing to undergo apprenticeship training
+- Hope to maintain stable employment in France's manufacturing sector
+
+**Who is not suited**
+- People who are not used to factory noise and shift work
+- People seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for plastic molding equipment commissioners?**
+A: Entry-level pre-tax annual salary is about 24-28k euros, senior salary can reach 35-45,000 euros, including bonuses.
+
+**Q: How can foreigners obtain work permits for such positions in France?**
+A: Usually, the Salarié work visa requires a French company sponsorship. Passeport Talent is designed for highly skilled professionals.
+
+**Q: What qualifications are required?**
+A: Usually, professional training related to CAP or Bac Pro is required, and BTS is more favorable for promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Plastic and Rubber Forming Equipment Setter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this role?**
-答：Entry-level: €24k-€28k gross/year; senior: €35k-€45k.
-
-**问：How can a foreigner get a work permit for this job?**
-答：Mainly through the 'Salarié' work visa with employer sponsorship. Talent Passport may apply for highly skilled.
-
-**问：What education is required?**
-答：Typically a CAP or Bac Pro in plastics processing; BTS preferred for career advancement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

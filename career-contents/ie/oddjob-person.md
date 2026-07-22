@@ -1,59 +1,95 @@
-# Odd-job person（Odd-job person）职业分析 · IE
+# Odd-job person — career analysis · Ireland
 
-**职业代码：9622 – Odd-job person。**
+**Occupation code: 9622 (ISCO08)**
 
-Odd-job persons perform various temporary, unskilled or semi-skilled manual tasks such as moving, cleaning, and simple repairs, often in construction, warehousing, or domestic settings.
+Gig workers engage in various temporary, unskilled or semi-skilled manual labor such as moving, cleaning, simple repairs, etc., typically working in construction, warehousing, or domestic services.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常仅需在职培训） |
+| No formal education required | None | $0~$0 (Usually only on-the-job training required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全健康意识培训 | 爱尔兰健康与安全局 | 可选 | 基本安全证书，非强制但雇主常要求 |
-| 手动搬运培训 | 私人培训机构 | 可选 | 常见于仓储和建筑工地 |
+| Safety and health awareness training | Health and Safety Authority (Ireland) | Optional | Basic safety certificate, not mandatory but often required by employers |
+| Manual handling training | Private training institution | Optional | Common in warehouses and construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。爱尔兰建筑业和服务业持续增长，零工需求稳定但竞争较大。工作多为临时合同，受经济周期影响明显，未来增长温和。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Ireland's construction and services sectors continue to grow, with steady gig demand but high competition. Jobs are mostly temporary contracts, heavily influenced by economic cycles, with moderate future growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 按小时计酬，约12-15欧元/小时 |
-| 中级（3-6年） | $28,000~$35,000 | 有经验后可达15-18欧元/小时 |
-| 高级（6年以上） | $35,000~$42,000 | 包含加班或特殊技能 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Paid hourly, approximately 12-15 euros/hour |
+| Mid-level (3–6 years) | $28,000~$35,000 | With experience, can reach 15-18 euros/hour |
+| Senior (6+ years) | $35,000~$42,000 | Including overtime or special skills |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业晋升路径有限，通常可向特定技工（如木工、电工）或工地主管发展，需通过正式学徒或培训获得资质。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Gig workers face high risk of automation replacement; tasks like moving, cleaning, and simple repairs are easily replaced by robots or AI dispatch systems; entry-level positions significantly reduced.
+
+Career advancement paths are limited; typically can progress to specific trades (e.g., carpentry, electrical) or site supervisors, requiring formal apprenticeships or training for qualifications.
+
+**Tasks most exposed to AI:**
+
+- Replacing material handling with autonomous forklifts or AGVs
+- Use AI scheduling systems to automatically allocate tasks and dispatch orders
+- Use cleaning robots to perform basic cleaning tasks
+- Use smart devices to automatically complete simple repairs (such as detecting and replacing parts)
+- Replace manual inventory counting and recording with an AI inventory management system
+
+**Where AI augments the role:**
+
+- Using AI tools to improve task scheduling and route planning efficiency
+- Using AR glasses to obtain remote expert guidance for complex repairs
+- Optimizing customer communication and quoting through mobile apps
+- Use data analysis to predict tool demand and replenish inventory
+- Use automated equipment monitoring software to detect faults in advance.
+
+**Human moat:**
+
+- High flexibility and multi-skills to adapt to changing environments
+- Creative problem-solving in complex or non-standard repairs
+- Building trust and interpersonal communication with clients
+- Fine operations requiring coordination of physical strength and perception
+- Quick decision-making ability in unexpected situations
+
+**Skills to build:**
+
+- Learn to operate and maintain automated equipment (e.g., AGVs, cleaning robots)
+- Proficiency in basic data analysis tools (e.g. Excel, dashboards).
+- Obtain certifications such as forklift license or basic electrician certificate
+- Familiar with task management apps (e.g., Trello, Asana)
+- Learning online platform marketing and order-taking skills
+- Enhance communication and customer service skills
+
+**Key growth areas:**
 
 - Temporary work
 - Construction labor
@@ -62,65 +98,67 @@ Odd-job persons perform various temporary, unskilled or semi-skilled manual task
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3万欧元的非紧缺职业，需雇主担保。 |
-| Subclass Seasonal Employment （Seasonal Employment Permit） | 适用于短期季节性工作，最长9个月。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage with an annual salary below 30,000 euros, requiring employer sponsorship. |
+| Subclass Seasonal Employment  (Seasonal Employment Permit) | Applicable for short-term seasonal work, maximum 9 months. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Odd-job person？**
-- 体力好、适应灵活工作时间的人
-- 不介意临时合同和不稳定收入的人
-- 希望快速进入劳动力市场的人
+**Who is suited**
+- People with good physical fitness and flexibility in working hours
+- Those who do not mind temporary contracts and unstable income
+- Those seeking quick entry into the labor market
 
-**谁不适合学Odd-job person？**
-- 追求稳定职业和收入的人
-- 需要技能认证和晋升路径的人
+**Who is not suited**
+- People seeking stable careers and income
+- Those who require skills certification and career advancement pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of gig workers?**
+A: Junior positions earn around 22,000-28,000 euros annually, senior roles can reach 35,000-42,000 euros, usually paid hourly.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: Relatively difficult because this occupation is not a skills shortage area; a general work permit is required with lower salary thresholds and employer sponsorship.
+
+**Q: Do gig workers have room for career development?**
+A: Limited. Can transition to skilled trades (e.g., electrician, plumber) by learning skills, or advance to site supervisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Odd-job person属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for odd-job persons?**
-答：Entry-level positions earn around €22,000-€28,000 annually, while senior roles can reach €35,000-€42,000, typically paid hourly.
-
-**问：Can non-EU citizens immigrate to Ireland through this occupation?**
-答：It is difficult as the occupation is not on the critical skills list; a General Employment Permit is required with employer sponsorship.
-
-**问：Is there career progression for odd-job persons?**
-答：Limited. They can move into skilled trades (e.g., electrician, plumber) through apprenticeships or become site supervisors.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

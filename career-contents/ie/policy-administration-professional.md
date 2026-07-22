@@ -1,58 +1,91 @@
-# Policy Administration Professional（Policy Administration Professional）职业分析 · IE
+# Policy Administration Professional — career analysis · Ireland
 
-**职业代码：2422 – Policy Administration Professional。**
+**Occupation code: 2422 (ISCO08)**
 
-Analyze, develop, and implement public policies in government or public agencies, coordinating policy execution and evaluation to ensure compliance and optimize social benefits.
+Analyze, formulate, and implement public policies in government or public institutions, coordinate policy execution and evaluation, ensure regulatory compliance, and optimize social benefits.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $12,000~$25,000（爱尔兰/欧盟学生学费较低，非欧盟较高） |
-| 硕士 | 1-2年 | $15,000~$30,000（公共政策或相关领域硕士） |
+| Bachelor's degree | 4 years (bachelor's degree) | $12,000~$25,000 (Lower tuition fees for Irish/EU students, higher for non-EU.) |
+| Master's degree | 1-2 years | $15,000~$30,000 (Master's degree in public policy or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共政策硕士 | 都柏林大学等 | 可选 | 常见要求 |
-| 专业发展课程 | 爱尔兰公共行政学院 | 可选 | 可提升竞争力 |
+| Master of Public Policy | University College Dublin etc. | Optional | Common requirements |
+| Professional development courses | Irish Institute of Public Administration | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。随着爱尔兰公共部门数字化转型和政策复杂性增加，政策管理专员需求稳定，预计未来5年就业增长约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. With Ireland's public sector digital transformation and increasing policy complexity, demand for policy management specialists is stable, with expected employment growth of about 5% over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 公共部门起薪 |
-| 中级（3-7年） | $45,000~$60,000 | 有经验的政策官员 |
-| 高级（7年以上） | $65,000~$90,000 | 高级政策经理或顾问 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Public sector salaries |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced policy officer |
+| Senior (7+ years) | $65,000~$90,000 | Senior Policy Manager or Advisor. |
+| average salary | $55,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级政策助理起步，可晋升为政策顾问、高级政策经理，或转向公共事务与政府关系岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Policy management specialists face mixed impacts from AI and automation: data analysis and report generation can be automated, but value judgments, multi-stakeholder coordination, and public accountability in policy-making still require deep human involvement.
+
+Starting as a junior policy assistant, you can advance to policy advisor, senior policy manager, or transition into public affairs and government relations roles.
+
+**Tasks most exposed to AI:**
+
+- Drafting initial policy documents and generating template-based reports
+- Basic data analysis and trend forecasting (e.g., using statistical software)
+- Routine regulatory compliance checks and process tracking.
+- Standardized Information Distribution and Q&A in Public Consultation
+
+**Where AI augments the role:**
+
+- Using AI to simulate the long-term socioeconomic impacts of different policy scenarios
+- Quickly summarize large volumes of public opinion through natural language processing
+- AI-assisted drafting of policy documents and automatic checking of logical consistency
+- Uses machine learning to identify unusual patterns and risks in policy implementation
+
+**Human moat:**
+
+- Making value judgments and trade-offs in conflicts of interest among multiple parties
+- Public accountability and ethical decision-making for policy consequences
+- Build trust and negotiate with parliamentarians and stakeholders
+- Deep understanding of local social and cultural contexts to adjust policies
+
+**Skills to build:**
+
+- AI-assisted policy modeling tools (e.g., system dynamics software)
+- Data visualization and communication (e.g., Tableau)
+- Natural Language Processing fundamentals and text analysis
+- Ethical and public value-oriented AI governance knowledge
+- Stakeholder management and collaboration platforms (e.g., Slack)
+- Agile policy iteration and project management methods
+
+**Key growth areas:**
 
 - Policy Analysis
 - Digital Government
@@ -61,65 +94,64 @@ Analyze, develop, and implement public policies in government or public agencies
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对短缺技能职位，但政策管理非紧缺，通常不符合条件 |
-| Subclass General Employment P（General Employment Permit） | 需通过劳动力市场测试，雇主担保，年薪通常需≥30,000欧元 |
-| Subclass Stamp 4 (EU Family M（EU Family Member Residence Card） | 欧盟公民家庭成员可自由工作 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Targeted at shortage skill positions, but policy management for non-shortage occupations typically does not qualify |
+| Subclass General Employment P (General Employment Permit) | Must pass labor market testing, employer sponsorship, annual salary usually ≥€30,000 |
+| Subclass Stamp 4 (EU Family M (EU Family Member Residence Card) | Family members of EU citizens can work freely |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy Administration Professional？**
-- 喜欢分析政策和公共事务的人
-- 文字表达能力强的毕业生
-- 希望进入政府或非营利组织的人
-
-**谁不适合学Policy Administration Professional？**
-- 偏好高薪私人部门工作的人
-- 不喜欢官僚流程的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy analyzing policies and public affairs
+- Graduates with strong written expression skills
+- People hoping to enter government or non-profit organisations
+
+**Who is not suited**
+- People who prefer high-paying private sector jobs
+- People who dislike bureaucratic processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Policy Management Specialist in Ireland?**
+A: Entry-level around €30,000-40,000, mid-level €45,000-60,000, senior €65,000-90,000. Public sector salaries are more stable but lower than private sector.
+
+**Q: How can non-EU citizens immigrate to Ireland through policy management roles?**
+A: Typically requires a General Employment Permit, employer sponsorship, and a labor market test. Policy manages non-critical occupations; Critical Skills Permit not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Policy Administration Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Policy Administration Professionals in Ireland?**
-答：Entry-level: €30,000-€40,000; mid-level: €45,000-€60,000; senior: €65,000-€90,000. Public sector salaries are stable but lower than private sector.
-
-**问：How can non-EU citizens immigrate to Ireland through a policy administration role?**
-答：Typically requires a General Employment Permit with employer sponsorship and a labor market test. This occupation is not on the Critical Skills list.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

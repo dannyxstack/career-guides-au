@@ -1,59 +1,95 @@
-# Insurance Product Designer（Insurance Product Designer）职业分析 · FR
+# Insurance Product Designer — career analysis · France
 
-**职业代码：C1101 – Insurance Product Designer。**
+**Occupation code: C1101 (ROME)**
 
-Insurance product designers research, design, and develop insurance products including life, health, and property insurance. They analyze market needs, assess risks, set pricing, and ensure regulatory compliance, collaborating closely with actuaries, marketing, and legal teams.
+Insurance product designers are responsible for researching, designing, and developing insurance products, including life insurance, health insurance, property insurance, and more. Market demand must be analyzed, risks assessed, pricing, and compliance ensured. Work closely with actuaries, marketing teams, and legal advisors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+5 硕士（大学校项目或硕士） | 5年（硕士） | $5,000~$15,000（公立大学年均注册费约500-3000欧元；商学院或工程师学院年均8000-15000欧元） |
-| BAC+3 学士（保险专业） | 3年（学士） | $3,000~$8,000（公立大学年均约500-3000欧元；私立商科院校年均5000-8000欧元） |
+| BAC+5 Master's (University Program or Master's) | 5 years (Master's) | $5,000~$15,000 (The average annual registration fee for public universities is about 500-3000 euros; Business schools or engineering schools earn an average of 8,000-15,000 euros per year) |
+| BAC+3 Bachelor's Degree (Insurance) | 3 years (bachelor's degree) | $3,000~$8,000 (Public university average annual approx. EUR 500-3,000; private business schools average EUR 5,000-8,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师认证（认证精算师） | 法国精算师协会（Institut des Actuaires） | 可选 | 非强制但强烈推荐，提升竞争力 |
-| 保险经纪人/代理人资质（Carte d'agent général d'assurance） | 法国审慎监管与处置局（ACPR） | 可选 | 若需直接销售或管理保险合约则必须持有 |
-| 硕士文凭（Bac+5） | 公立大学或商学院 | 必备 | 多数雇主要求硕士水平，保险、金融、精算或统计专业 |
+| Master's Diploma (BAC+5) | Public universities or business schools | Required | Most employers require a master's degree in insurance, finance, actuarial, or statistics |
+| Actuary Certification (Certified Actuary) | French Association of Actuaries (Institut des Actuaires) | Optional | Not mandatory but highly recommended to enhance competitiveness |
+| Insurance Broker/Agent Qualification (Carte d'agent général d'assurance) | French Agency for Prudential Regulation and Disposal (ACPR) | Optional | If you need to sell or manage insurance contracts directly, you must hold them |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。法国保险业数字化转型和人口老龄化推动产品创新需求，就业前景稳定。金融科技和可持续保险（如绿色保险）带来新机会。岗位集中在巴黎和主要金融中心，竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 4,500. Digital transformation in France's insurance industry and population aging are driving demand for product innovation, with stable employment prospects. Fintech and sustainable insurance (such as green insurance) bring new opportunities. Positions are concentrated in Paris and major financial centers, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，巴黎地区略高 |
-| 中级（4-7年） | $45,000~$65,000 | 含绩效奖金 |
-| 高级（8年以上） | $65,000~$90,000 | 含产品总监或管理职 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary is slightly higher in the Paris area |
+| Mid-level (4-7 years) | $45,000~$65,000 | Includes performance bonuses |
+| Senior (8+ years) | $65,000~$90,000 | Including product directors or management positions |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 晋升路径从初级产品设计师到高级产品经理，再到产品总监或首席保险官。可横向转向精算、风险管理或保险科技咨询。法国大型保险公司（安盛、安联）和互保组织提供良好发展机会。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Promotion paths range from junior product designer to senior product manager, then to product director or chief insurance officer. You can pivot laterally to actuarial, risk management, or insurtech consulting. Major French insurers (AXA, Allianz) and mutual insurance organizations offer excellent development opportunities.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Insurtech
 - Digital transformation
@@ -62,68 +98,67 @@ Insurance product designers research, design, and develop insurance products inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 针对高技能员工，适用于年薪≥40,000欧元的工作，可快速获4年居留 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 标准工作签证，需雇主担保，适用于长期合同，年薪通常不低于法国最低工资1.5倍 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高级专业人才，年薪≥53,500欧元（2024标准），可携带家属 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled employees, suitable for jobs with an annual salary ≥ 40,000 euros, allowing quick access to 4-year residency |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A standard work visa, requiring employer sponsorship, applicable to long-term contracts, usually earns no less than 1.5 times the French minimum wage |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, annual salary ≥ 53,500 euros (2024 standard), and family members are allowed |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Product Designer？**
-- 具备数理分析能力，对保险和风险管理有热情
-- 喜欢跨部门协作，沟通能力强
-- 追求稳定职业发展，愿意在金融业深耕
-
-**谁不适合学Insurance Product Designer？**
-- 不擅长数据分析或严谨合规工作
-- 偏好快速回报或高风险创业环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess mathematical analytical skills and a passion for insurance and risk management
+- Enjoys cross-departmental collaboration and has strong communication skills
+- Pursuing stable career development and willing to deeply cultivate in the financial industry
+
+**Who is not suited**
+- Not good at data analysis or rigorous compliance
+- Prefer fast-return or high-risk startup environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for insurance product designers in France?**
+A: Entry-level salaries are about 35,000-45,000 euros, intermediate salaries 45,000-65,000 euros, and seniors can earn over 90,000 euros. The Paris area is higher, while the provinces are lower. Performance bonuses are usually 1-3 months' salary.
+
+**Q: How can non-EU citizens apply for the position of insurance product designer in France?**
+A: You can use the Passeport Talent visa (annual salary ≥40k€) or the Salarié work visa. Applicants with a master's degree and more than 2 years of experience are more likely to be approved. Employers must prove that they cannot find suitable candidates in the EU.
+
+**Q: What key skills are needed for this occupation?**
+A: Actuarial or statistical modeling skills, market analysis, product pricing, compliance knowledge, project management. Fluency in French is usually necessary, and large international companies may accept English.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Insurance Product Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for insurance product designers in France?**
-答：Entry-level annual salary ranges from €35,000 to €45,000, mid-level €45,000 to €65,000, and senior can exceed €90,000. Paris offers higher pay, with performance bonuses of 1-3 months' salary.
-
-**问：How can non-EU citizens apply for insurance product designer jobs in France?**
-答：Via Passeport Talent (salary ≥€40k) or Salarié work visa. A master's degree and 2+ years of experience improve chances. Employers must prove no suitable EU candidate is available.
-
-**问：What key skills are required for this profession?**
-答：Actuarial or statistical modeling, market analysis, product pricing, regulatory knowledge, project management. French fluency is often required; large international firms may accept English.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

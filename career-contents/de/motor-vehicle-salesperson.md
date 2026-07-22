@@ -1,63 +1,99 @@
-# Motor Vehicle Salesperson（Motor Vehicle Salesperson）职业分析 · DE
+# Motor Vehicle Salesperson — career analysis · Germany
 
-**职业代码：6227 – Motor Vehicle Salesperson。**
+**Occupation code: 6227 (KldB)**
 
-Sells new and used cars, motorcycles, and accessories at dealerships, providing consultation, test drives, financing, and after-sales service.
+Sell new and used cars, motorcycles, and parts in car dealerships or specialty stores, providing consultation, test drives, financing, and after-sales service.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（双元制培训期间有工资，无学费） |
-| 进修（Weiterbildung） | 1-2年 | $2,000~$8,000（如汽车销售专家（Geprüfter Automobilverkäufer）） |
-| 本科 | 3-4年 | —（企业经济学或汽车贸易管理，公立大学低学费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Dual system training includes a salary, no tuition fees) |
+| Advanced training (Weiterbildung) | 1-2 years | $2,000~$8,000 (E.g., Certified Automotive Sales Specialist (Geprüfter Automobilverkäufer)) |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Business economics or automotive trade management, low tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车销售员（Kaufmann im Einzelhandel - Automobilhandel） | 工商会（IHK） | 必备 | 双元制职业培训结业证书，必备 |
-| 汽车销售专家（Geprüfter Automobilverkäufer） | 工商会（IHK） | 可选 | 进修证书，非强制但有利于晋升 |
-| 汽车贸易大师（Geprüfter Automobilhandelsfachwirt） | 工商会（IHK） | 可选 | 高级管理职位需此认证 |
-| 驾照 B 类 | 德国交通管理局 | 必备 | 试驾必备 |
+| Car Salesperson (Kaufmann im Einzelhandel - Automobilhandel) | Chamber of Commerce and Industry (IHK) | Required | Dual vocational training certificate, essential |
+| Class B driver's licence | German Transport Authority | Required | Essential for test drives. |
+| Automotive Sales Expert (Geprüfter Automobilverkäufer) | Chamber of Commerce and Industry (IHK) | Optional | Further training certificate, not mandatory but beneficial for promotion. |
+| Automotive Trade Master (Geprüfter Automobilhandelsfachwirt) | Chamber of Commerce and Industry (IHK) | Optional | Senior management positions require this certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。受汽车电动化与数字化转型影响，传统销售岗位需求平稳，但具备新能源汽车和数字营销技能的销售员更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Affected by the electrification and digital transformation of the automotive industry, demand for traditional sales roles is stable, but salespeople with skills in new energy vehicles and digital marketing are more popular.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 通常包括固定底薪加销售提成 |
-| 中级（3-7年） | $36,000~$48,000 | 有经验销售人员，提成较高 |
-| 高级（7年以上） | $50,000~$70,000 | 销售经理或品牌经理（不含利润分成） |
+| Median salary | $39,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Usually includes a fixed base salary plus sales commission |
+| Mid-level (3–7 years) | $36,000~$48,000 | Experienced salespeople, with higher commission |
+| Senior (7+ years) | $50,000~$70,000 | Sales manager or brand manager (excluding profit sharing). |
+| average salary | $48,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从销售顾问晋升为销售经理、品牌经理或经销商总经理，也可转向汽车金融或售后管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Motor vehicle salesperson roles are mixed: AI can automate information queries and some communication, but test drives, price negotiations, and emotional connections still rely on humans; entry-level roles have narrowed due to online channels, but high-value sales skills are amplified.
+
+Can advance from sales consultant to sales manager, brand manager, or dealer general manager, or transition to auto finance or after-sales management.
+
+**Tasks most exposed to AI:**
+
+- Automates lead inquiry and vehicle comparison (AI chatbot)
+- Standardized product introduction and configuration recommendations (virtual showroom and smart guide)
+- Basic financial proposal calculation and loan pre-approval (automated credit system)
+- Post-sale follow-up and maintenance reminders (AI outbound system)
+- Inventory Management and Order Processing (ERP and IoT Integration)
+
+**Where AI augments the role:**
+
+- AI-assisted customer profiling and purchase intent prediction to improve follow-up efficiency
+- Augmented reality (AR) test drive experience, remotely display vehicle details
+- Smart CRM system automatically recommends the best follow-up timing and scripts
+- Real-time price optimisation and promotional strategies to boost conversion rates.
+- Virtual inventory display to quickly match customer needs with available vehicles
+
+**Human moat:**
+
+- Ability to build trust and emotional connection, especially in high-value transactions.
+- Complex multi-round negotiation and bargaining skills.
+- Cross-vehicle, cross-brand expertise and personalized advice
+- Safety guidance and experience optimisation during test drives
+- Interpersonal handling in sensitive situations such as complaints and vehicle returns/exchanges
+
+**Skills to build:**
+
+- AI customer relationship management (CRM) tool operation
+- Data analysis and customer behavior interpretation skills
+- Digital marketing and social media customer acquisition techniques
+- AR/VR technology used in sales presentations
+- Knowledge of financial and insurance products (with AI assistance)
+- Cross-channel communication and online negotiation strategies
+
+**Key growth areas:**
 
 - Electric vehicle sales
 - Digital sales platforms
@@ -66,66 +102,68 @@ Sells new and used cars, motorcycles, and accessories at dealerships, providing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需有德国认可的职业资格或大学学位，且获得雇主合同。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德逗留6个月寻找工作，需证明经济能力。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许未获工作合同者来德找工作，需满足语言、年龄等条件。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a recognized German vocational qualification or university degree, and an employer contract. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to seek employment; must prove financial capacity. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows those without a job offer to come to Germany for job seeking, subject to language, age and other conditions. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motor Vehicle Salesperson？**
-- 热爱汽车且具备销售热情的人
-- 善于沟通、谈判和客户关系管理
-- 能够适应灵活工作时间（含周末）
+**Who is suited**
+- People who love cars and have a passion for sales
+- Strong communication, negotiation, and customer relationship management skills
+- Able to adapt to flexible working hours (including weekends)
 
-**谁不适合学Motor Vehicle Salesperson？**
-- 不喜欢销售业绩压力
-- 不愿学习新能源汽车技术知识
+**Who is not suited**
+- Dislikes sales performance pressure
+- Unwilling to learn new energy vehicle technology knowledge
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does a car salesperson's income mainly come from base salary or commission?**
+A: Usually a low fixed base salary (approx. EUR 1,800-2,500/month), most income comes from sales commission; with good performance, annual salary can reach EUR 50,000-70,000.
+
+**Q: What immigration pathways exist for foreigners working in car sales in Germany?**
+A: Mainly need to meet skilled migration law, obtain a German-recognized automotive sales qualification (e.g. dual training) or relevant university degree, and find employer sponsorship.
+
+**Q: Is car salesperson a shortage occupation in Germany?**
+A: Not on the federal employment agency's shortage occupation list (Engpassberufe), but some regional dealers face hiring difficulties.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 简单（★★☆☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Motor Vehicle Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income mainly from base salary or commission?**
-答：The base salary is usually low (around 1,800-2,500 EUR/month), with most income from sales commission; top performers can earn 50,000-70,000 EUR annually.
-
-**问：What migration paths exist for foreigners to work as motor vehicle salespersons in Germany?**
-答：The main path is via the Skilled Immigration Act, requiring a German-recognized vocational qualification or relevant university degree and a job offer from an employer.
-
-**问：Is motor vehicle salesperson a shortage occupation in Germany?**
-答：No, it is not on the Federal Employment Agency's shortage occupation list, though some regional dealerships face recruitment challenges.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

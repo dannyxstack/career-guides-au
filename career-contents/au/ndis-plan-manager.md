@@ -1,65 +1,96 @@
-# NDIS 计划管理员（NDIS Plan Manager）职业分析 · 澳大利亚
+# NDIS Plan Manager — career analysis · Australia
 
-**职业代码：551113 – NDIS Plan Manager。**
+**Occupation code: 551113 (ANZSCO)**
 
-NDIS 计划管理员代参与者管理 NDIS 资金：审核发票、向 NDIA 报销、跟踪预算并出具报表，是 NDIS 三种资金管理方式之一，偏财务行政，门槛较低、入职快，非技术移民职业。
+NDIS Plan Administrators manage participants' NDIS funds: reviewing invoices, claiming from the NDIA, tracking budgets, and producing reports. This is one of three NDIS fund management methods, focusing on financial administration, with low entry barriers and quick onboarding. It is a non-skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate / 记账或商科背景（可选） | 0~1年 | —（在岗培训为主） |
-| NDIS 系统与报销流程培训 | 数周 | —（雇主提供） |
+| Certificate / accounting or business background (optional) | 0–1 year | $0~$8,000 (Primarily on-the-job training) |
+| NDIS system and reimbursement process training | Several weeks | $0~$1,500 (Provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 记账 / 商科证书（可选） | TAFE/RTO | 可选 | 非强制 |
-| NDIS Worker Screening Check | 各州核查机构 | 可选 | 部分岗位要求 |
+| Bookkeeping / Business certificate (optional) | TAFE/RTO | Optional | Not mandatory |
+| NDIS Worker Screening Check | State assessing authorities | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 15,000。选择计划管理的参与者比例上升，带动稳定需求；熟悉 NDIS 报销系统与记账软件者更稳。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Rising proportion of participants choosing plan management drives stable demand; familiarity with NDIS claiming systems and accounting software ensures stability.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~1,800 个 | 全国 |
-| Indeed | 600~1,400 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-2年） | $55,000~$65,000 | Entry |
-| 中级（2-5年） | $65,000~$80,000 | Experienced |
-| 资深 / 主管 | $80,000~$95,000 | Senior |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $55,000~$65,000 | Entry |
+| Intermediate (2-5 years) | $65,000~$80,000 | Experienced |
+| Senior / Supervisor | $80,000~$95,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：计划管理员→高级/团队主管；具备记账(BAS/Xero)与 NDIS 合规经验者更抢手。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+NDIS plan administrators are at high risk of automation. Smart invoice review, automatic budget tracking, and report generation will significantly reduce job demand; entry-level work will be replaced by AI, with fewer future positions and greater reliance on technical tools.
+
+Path: Planning Administrator → Senior/Team Leader; experience in bookkeeping (BAS/Xero) and NDIS compliance is highly valued.
+
+**Tasks most exposed to AI:**
+
+- Automatically review invoices and match NDIS categories with budget items
+- Automatically track budget usage and generate real-time reports
+- Automatically submit reimbursement claims and reconciliation to NDIA
+- Automated sorting and organizing of receipts and vouchers
+- Automatically generating monthly/quarterly fund reports
+
+**Where AI augments the role:**
+
+- AI-Assisted Abnormal Invoice Identification and Fraud Detection
+- AI-driven financial forecasting and budget optimization suggestions
+- AI-generated personalized fund usage reports and visualizations
+- AI automated email responses and customer inquiries
+- AI-assisted compliance checks and policy updates
+
+**Human moat:**
+
+- Handle complex or disputed reimbursement cases
+- Build trust and communicate with participants and caregivers
+- Interpret uncertain policies and provide personalised advice
+- Cross-agency coordination and problem solving
+- Managing sensitive financial information and ethical decision-making
+
+**Skills to build:**
+
+- Financial software and automation tools (e.g., Xero, QuickBooks)
+- Data analysis and visualization (Power BI, Tableau)
+- AI tool usage and basic prompt engineering
+- NDIS policy interpretation and compliance knowledge
+- Customer relationship management and communication skills
+- Basic programming (Python for financial automation)
+
+**Key growth areas:**
 
 - Plan Management Services
 - NDIS Claiming & Compliance
@@ -68,57 +99,58 @@ NDIS 计划管理员代参与者管理 NDIS 资金：审核发票、向 NDIA 报
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学NDIS 计划管理员？**
-- 细心、擅长财务与流程的人
-- 记账/行政背景想进入 NDIS 领域者
-
-**谁不适合学NDIS 计划管理员？**
-- 以技术移民为目标者
-- 不喜欢重复性对账与报销工作者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, skilled in finance and processes
+- Those with bookkeeping/administrative background wanting to enter the NDIS sector
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those who dislike repetitive reconciliation and reimbursement work
+
+---
+
+## 8. FAQ
+
+**Q: How much does an NDIS plan administrator earn in Australia?**
+A: Approx. AUD $55,000~$95,000, senior or supervisor higher.
+
+**Q: Can NDIS plan administrators migrate via skilled migration?**
+A: No, it is a local administrative/financial occupation and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-NDIS 计划管理员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：NDIS 计划管理员澳洲薪资多少？**
-答：约 AUD $5.5万~$9.5万，资深或主管更高。
-
-**问：NDIS 计划管理员能技术移民吗？**
-答：不能，属于本地行政财务型职业，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

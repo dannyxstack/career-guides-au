@@ -1,61 +1,97 @@
-# Farm labourer - fruit（Farm labourer - fruit）职业分析 · 加拿大
+# Farm labourer - fruit — career analysis · Canada
 
-**职业代码：85100 – Farm labourer - fruit。**
+**Occupation code: 85100 (NOC)**
 
-Fruit farm workers perform tasks such as picking, grading, packing fruits, pruning trees, and fertilizing. This seasonal occupation can lead to permanent residence through the Agri-Food Immigration Pilot or some PNP streams, but not directly via Express Entry.
+Fruit farm workers are responsible for picking, grading, packaging fruits, as well as field work such as pruning and fertilizing fruit trees. This occupation is seasonal labor and can apply through the Agri-Food Immigration Pilot (AFIP) or provincial nominations, but is not directly covered by Express Entry.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 初中毕业 | 0年 | —（无正式学历要求） |
-| 高中学历 | 3年 | —（本地学生免费，国际生约$15000/年） |
+| Junior high school graduation | 0 years | $0~$0 (No formal education requirements) |
+| high school diploma | 3 years | $0~$0 (Free for local students, approximately $15,000/year for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | — | 可选 | 多数岗位不要求职业证书 |
-| 语言成绩（CLB 4） | IELTS/CELPIP | 可选 | 部分移民项目要求CLB 4及以上 |
-| ECA学历认证 | WES/ICES/etc | 可选 | 如通过AFIP移民，通常不需要ECA |
+| No mandatory certificate | — | Optional | Most positions do not require professional certifications |
+| Language test scores (CLB 4) | IELTS/CELPIP | Optional | Some immigration programs require CLB 4 or higher |
+| ECA (Educational Credential Assessment). | WES/ICES/etc | Optional | If immigrating via AFIP, ECA is usually not required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 20,000。加拿大农业劳动力持续短缺，尤其在BC省、安省、魁省的果树产区。预计未来5年需求稳定，但受季节性影响。移民政策偏向保留有加拿大经验的工人，但整体竞争较低。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 20,000. Canada's agricultural labor shortage persists, especially in fruit-growing regions of BC, Ontario, and Quebec. Demand is expected to remain stable over the next 5 years, but is seasonal. Immigration policies favor retaining workers with Canadian experience, but overall competition is low.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 按最低工资时薪$16.55计算，全年全职 |
-| 中级（3-6年） | $32,000~$40,000 | 可能含奖金或计件工资 |
-| 高级（6年以上） | $35,000~$45,000 | 含领班或特殊技能岗位 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Calculated at minimum wage of $16.55 per hour, full-time annual |
+| Mid-level (3–6 years) | $32,000~$40,000 | May include bonuses or piecework wages. |
+| Senior (6+ years) | $35,000~$45,000 | Including supervisor or special skill positions |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 晋升路径有限，可晋升为农场领班（supervisor）或转向农业设备操作（NOC 84120）。但通常需多年经验或在农场主业积累后，转向农场管理或农业技术岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fruit farm workers will face mixed effects from AI and automation: repetitive tasks like picking and sorting may be replaced, but field management and quality assessment still require human experience, and emerging technologies like smart monitoring will improve efficiency.
+
+Limited career path; can advance to farm supervisor or shift to agricultural equipment operation (NOC 84120). However, it often requires years of experience or accumulation in the main farm business before moving into farm management or agricultural technology roles.
+
+**Tasks most exposed to AI:**
+
+- Using machine vision and robotic arms for automated fruit picking
+- Automatic grading and sorting based on sensor data
+- Precision fertilization and spraying via drones or robots
+- Use automated irrigation systems to regulate water volume based on soil moisture
+- Data processing platform automatically records output and growth indicators
+
+**Where AI augments the role:**
+
+- AI-assisted pest and disease identification system helps workers make quick decisions
+- Smart wearable devices provide real-time feedback and guidance on picking efficiency
+- Data analysis platforms optimize harvesting routes and labor allocation
+- Augmented Reality (AR)-assisted pruning and shaping training
+- Market forecasting tools guide crop variety selection and market timing
+
+**Human moat:**
+
+- Subtle visual and tactile judgment of fruit ripeness
+- Ability to handle abnormal situations (e.g., sudden pest outbreaks, weather changes)
+- Interpersonal communication and negotiation with farmers and wholesalers
+- Long-term accumulated local farming and soil experience
+- Complex manual operations such as fine pruning and grafting
+
+**Skills to build:**
+
+- Operate and maintain agricultural drones and robots
+- Use agricultural management software and data analysis tools
+- Basic programming skills to adjust automated equipment
+- Data-driven precision agriculture decision-making methods
+- Awareness and ability to continuously learn new agricultural technologies
+- Cross-disciplinary knowledge (e.g., IoT, sensors)
+
+**Key growth areas:**
 
 - Agri-Food Immigration Pilot
 - Seasonal Agricultural Worker
@@ -64,70 +100,69 @@ Fruit farm workers perform tasks such as picking, grading, packing fruits, pruni
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AFIP（Agri-Food Immigration Pilot） | 针对农业食品行业工人的永久居民通道，要求加拿大农场12个月全职工作经验，语言CLB 4 |
-| Subclass SAWP（Seasonal Agricultural Worker Program） | 临时工签项目，可续签，但不可直接移民；需雇主担保 |
-| Subclass BC PNP PwT（BC Provincial Nominee Program: Processing and Technology (PwT) for Agri-food） | BC省提名项目中农业工人通道，需雇主offer，语言要求较低 |
-| Subclass TFWP Low-wage（Temporary Foreign Worker Program (Low-wage)） | 临时工签，需劳动力市场影响评估（LMIA），可积累加拿大经验后转其他移民项目 |
+| Subclass AFIP (Agri-Food Immigration Pilot) | Permanent residence pathway for agricultural food industry workers requiring 12 months full-time farm experience in Canada and CLB 4 language proficiency |
+| Subclass SAWP (Seasonal Agricultural Worker Program) | Temporary work visa program, renewable but not directly leading to permanent residency; requires employer sponsorship |
+| Subclass BC PNP PwT (BC Provincial Nominee Program: Processing and Technology (PwT) for Agri-food) | BC PNP Agricultural Worker stream requires a job offer and has lower language requirements |
+| Subclass TFWP Low-wage (Temporary Foreign Worker Program (Low-wage)) | Temporary work visa requiring Labour Market Impact Assessment (LMIA); can accumulate Canadian experience and later transfer to other immigration programs. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Farm labourer - fruit？**
-- 体力充沛、适应户外工作
-- 愿意从事季节性、不稳定的工作
-- 有意通过农业移民项目获得加拿大身份
-
-**谁不适合学Farm labourer - fruit？**
-- 不耐高温或重复性体力劳动
-- 追求高薪资或快速职业晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically robust, suited for outdoor work
+- Willing to engage in seasonal, unstable work
+- Intend to obtain Canadian status through agricultural immigration programs
+
+**Who is not suited**
+- Not resistant to high temperatures or repetitive physical labor
+- Seeking high salary or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for fruit farm workers?**
+A: Junior worker annual income approximately $28,000-$35,000 CAD, calculated at $16.55 per hour (Canadian minimum wage); may be higher with overtime or piecework during peak seasons.
+
+**Q: How can fruit farm workers immigrate to Canada?**
+A: The main pathway is the Agri-Food Immigration Pilot (AFIP), requiring 12 months of Canadian farm experience. Other options include provincial nomination (e.g., BC PNP agriculture stream) or temporary work permit transition.
+
+**Q: What qualifications or certificates are required for this occupation?**
+A: Usually no professional certificate required, but migration programs may require language scores (CLB 4) and educational credential assessment (ECA), varies by program.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Farm labourer - fruit为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for fruit farm workers?**
-答：Entry-level workers earn about CAD 28,000-35,000 annually at minimum wage ($16.55/hour); overtime or piecework can increase earnings.
-
-**问：How can fruit farm workers immigrate to Canada?**
-答：Main pathway is the Agri-Food Immigration Pilot (AFIP), requiring 12 months of Canadian farm experience. Provincial programs (e.g., BC PNP Agri-food) and temporary work permits are also options.
-
-**问：What qualifications or certifications are required for this occupation?**
-答：Usually no certificate required, but immigration programs may ask for language test (CLB 4) and ECA; varies by program.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

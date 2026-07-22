@@ -1,160 +1,190 @@
-# 警察（Police Officer）职业分析 · 澳大利亚
+# Police Officer — career analysis · Australia
 
-**职业代码：441111 – Police Officer。**
+**Occupation code: 441111 (ANZSCO)**
 
-警察维护社会秩序、预防和调查犯罪、应急响应和社区安全管理。澳洲警察体系包括各州/领地警察（NSW Police、Victoria Police等）和联邦警察（AFP），是公务员体系中最大的执法机构。华裔警察在社区联络、多文化警务和华语犯罪案件翻译/联络方面具有独特价值。
+Police officers maintain public order, prevent and investigate crime, manage emergency response and community safety. The Australian police system includes state/territory forces (NSW Police, Victoria Police, etc.) and the Australian Federal Police (AFP), making it the largest law enforcement body in the public service. Officers with multilingual skills bring unique value in community liaison, multicultural policing, and translation or liaison roles in relevant cases.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业（Year 12，必须） | — | —（各州警察局基本学历要求；大学学历优先（部分州要求）） |
-| 警察学院（Police Academy）培训 | 6~12个月（含实习） | —（录取后由警察局提供全免费培训，期间领取学员薪资） |
-| 大学学历（Law/Criminology/Social Work，加分） | 3年 | $20,000~$50,000（非硬性要求但有助于加速晋升（侦探/管理岗）） |
-| 语言能力（普通话/粤语/其他） | — | —（多文化社区联络方向的竞争优势，部分岗位专招双语警察） |
+| Year 12 completion (mandatory) | — | $0~$0 (Basic educational requirements set by each state's police service; a university degree is preferred (required in some states)) |
+| Police Academy training | 6–12 months (including internship) | $0~$0 (Full funded training provided by the police service upon admission, with a trainee salary paid throughout) |
+| University degree (Law / Criminology / Social Work – advantageous) | 3 years | $20,000~$50,000 (Not a hard requirement but helps accelerate promotion (detective/management roles)) |
+| Language skills (Mandarin / Cantonese / other) | — | $0~$0 (Competitive advantage in multicultural community liaison roles; some positions specifically recruit bilingual officers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警察学院培训证书（Police Recruit Training Program） | 各州警察局 | 必备 | 录取后由各州警察局或AFP提供，是正式上岗的法定资质 |
-| 驾驶执照（C类或以上） | 各州道路交通局 | 必备 | 基本操作要求，申请前需持有效驾照 |
-| 急救证书（First Aid） | St John Ambulance等认可机构 | 可选 | 申请前取得可提升竞争力 |
-| 无犯罪记录及完整背景调查 | 各州警察局 | 必备 | 严格背景审查（含家庭关系/财务记录/社交媒体） |
+| Police Recruit Training Program certificate | State police departments | Required | Provided by state police services or the AFP upon acceptance; a statutory qualification required for formal deployment |
+| Driver's licence (Class C or above) | State road and traffic authorities | Required | Basic operational requirement; a valid driver's licence must be held prior to applying |
+| No criminal record and full background check required | State police departments | Required | Rigorous background checks (including personal relationships, financial records and social media) |
+| First Aid Certificate | St John Ambulance and other recognised providers | Optional | Obtaining this before applying will improve your competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。JSA预测警察就业至2030年稳定增长约4%。各州人口增长、城市扩张和网络犯罪率上升推动警察编制持续扩张。联邦警察（AFP）在跨国执法和网络犯罪调查方向招募需求显著增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. JSA forecasts steady police employment growth of approximately 4% to 2030. Population growth, urban expansion and rising cybercrime rates across states are driving continued expansion of police numbers. The Australian Federal Police (AFP) has seen significantly increased recruitment in transnational law enforcement and cybercrime investigation.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 各州警察局官网 | 200~1,000 个 | NSW/VIC/QLD/WA/SA各州警察局定期开放招募批次 |
-| Seek | 300~800 个 | 含警察学员/社区联络官/警察辅助人员岗 |
-| AFP Careers | 100~400 个 | 联邦警察（AFP）各类执法和分析岗 |
-
-**竞争度：较高（★★★★☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 警察学员（培训期） | $52,000~$62,000 | 各州警察学院学员培训期薪资（含津贴） |
-| 初级/正式警察（1~5年） | $70,000~$90,000 | SEEK区间 $55k~$75k基本薪；含轮班加班津贴约 $70k~$90k |
-| 资深警察/侦探（5~15年） | $90,000~$130,000 | Indeed均值 $94,327；Glassdoor均值 $110,000（含所有津贴，2026） |
-| 警察中高级管理（15年+） | $120,000~$200,000 | Inspector及以上管理岗，AFP高级管理岗可超过 $150k |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Police Recruit (during training) | $52,000~$62,000 | Salary during recruit training at state police academies (including allowances) |
+| Probationary/Constable (1–5 years) | $70,000~$90,000 | SEEK range $55k–$75k base salary; approximately $70k–$90k including shift and overtime allowances |
+| Senior Police Officer / Detective (5–15 years) | $90,000~$130,000 | Indeed average $94,327; Glassdoor average $110,000 (including all allowances, 2026) |
+| Senior police management (15+ years) | $120,000~$200,000 | Inspector and above management roles; senior AFP management positions can exceed $150k |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲各州警察局面临网络犯罪、家庭暴力和有组织犯罪的新挑战，持续扩大编制。华裔社区联络警察（CALD警务）在多元文化大城市（悉尼/墨尔本）需求旺盛。AFP（澳联邦警察）在国际执法合作（澳中边境犯罪/洗钱）方向华语能力是显著竞争优势。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
 
-- 网络犯罪侦查（Cyber Crime Unit）
-- 金融犯罪调查（AFP经济犯罪）
-- 社区联络警察（Community Liaison）
-- 警察翻译/跨文化联络官（华语需求）
-- AFP（澳联邦警察）国际执法合作
+Police forces across Australian states face new challenges in cybercrime, domestic violence and organised crime, and are continually expanding their ranks. Officers with multicultural community liaison skills (CALD policing) are in strong demand in diverse cities such as Sydney and Melbourne. For the AFP (Australian Federal Police), proficiency in Mandarin is a significant competitive advantage in international law enforcement cooperation (cross-border crime and money laundering).
+
+**Tasks most exposed to AI:**
+
+- Automatic Generation of Incident Reports and Paperwork
+- Traffic violation monitoring and automatic ticket issuance
+- Crime data analysis and pattern prediction
+- Routine patrol route optimization and scheduling
+- Automatic review of surveillance video and evidence marking
+
+**Where AI augments the role:**
+
+- AI-assisted real-time translation and community communication
+- Predictive policing helps optimize police deployment
+- Digital forensics tools expedite investigations
+- Virtual reality simulation training improves tactical decision-making
+- Public opinion analysis to enhance community relationship management
+
+**Human moat:**
+
+- On-site physical intervention and use of force
+- Complex interpersonal communication and crisis negotiation
+- Law enforcement discretion and ethical judgment
+- Community trust building and multicultural understanding
+- Court testimony and legal liability
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R)
+- Digital forensics and electronic evidence handling
+- AI ethics and algorithmic bias identification
+- Cross-cultural communication and community policing
+- Fundamentals of cybercrime investigation
+- Use of VR/AR Training Tools
+
+**Key growth areas:**
+
+- Cybercrime Investigation (Cyber Crime Unit)
+- Financial Crime Investigation (AFP Economic Crime)
+- Community Liaison Police
+- Police Translator/Cross-Cultural Liaison (Chinese Demand)
+- AFP International Law Enforcement Cooperation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 公民/PR要求（政府服务限制） | 各州警察局和AFP要求澳洲公民（部分岗位接受PR） |
-| Subclass 189/190（技术移民后申请） | 建议先获得澳洲公民/PR身份再申请警察岗位 |
-| Subclass AFP国际招募（特殊通道） | AFP部分国际合作岗位可能对持特定签证的申请人开放 |
+| Subclass Citizen/PR Requirement (Government service restrictions) | State police and AFP require Australian citizenship (some positions accept PR) |
+| Subclass 189/190 (Apply after skilled migration) | It is advisable to obtain Australian citizenship or PR before applying for police positions |
+| Subclass AFP International Recruitment (Special pathway) | Some AFP international cooperation roles may be open to applicants holding certain visa types |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学警察？**
-- 澳洲公民或永久居民（PR），英语沟通流利，无犯罪记录，背景清白
-- 普通话/粤语流利，有意向加入华语社区联络警务项目（CALD或双语警察计划）
-- 体能良好，心理素质稳定，能承受高压执法环境和偶发暴力风险
-- 有法律/犯罪学/社会工作学历背景，有助于加速晋升侦探或管理岗
-- 有在澳洲定居并从事长期职业发展的明确计划
+**Who is suited**
+- Australian citizen or permanent resident (PR), fluent English communication, no criminal record, clear background
+- Fluent in Mandarin/Cantonese, interested in joining a community liaison policing programme (CALD or bilingual police officer initiative)
+- Good physical fitness, psychological resilience, and ability to handle high-pressure law enforcement environments and occasional risk of violence
+- A background in law, criminology, or social work can help accelerate promotion to detective or management roles
+- A clear plan to settle in Australia and pursue long-term career development
 
-**谁不适合学警察？**
-- 尚未获得澳洲公民或PR身份（政府警察局的硬性要求）
-- 有犯罪记录或重大财务问题（严格背景审查无法通过）
-- 期望通过警察职业直接移民（非MLTSSL移民路径，需先获PR）
+**Who is not suited**
+- Has not yet obtained Australian citizenship or PR (a mandatory requirement for government police roles)
+- Criminal record or significant financial issues (unable to pass a strict background check)
+- Expecting to migrate directly through a police career (not an MLTSSL migration pathway — PR must be obtained first)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a police officer in Australia?**
+A: Junior sworn officer approx. $70,000–$90,000 (incl. shift allowances); Senior officer/detective approx. $90k–$130k (Indeed $94,327; Glassdoor $110,000); Senior police management approx. $120k–$200k.
+
+**Q: Is it easy to find work as a police officer in Australia?**
+A: State police services run periodic recruitment intakes, though competition is strong (acceptance rate approx. 10–20%). Bilingual applicants (Mandarin/Cantonese) have a notable advantage for CALD community liaison roles. Australian citizenship or PR is required.
+
+**Q: Is Chinese police experience recognised in Australia?**
+A: Chinese law enforcement experience may serve as background reference, but Australian police departments will not directly waive training. All new recruits must complete police academy training (6–12 months). Mandarin language proficiency is a substantial competitive advantage in multicultural policing roles.
+
+**Q: Will police officers be replaced by AI?**
+A: Risk is extremely low. Law enforcement powers, on-site crisis response, witness interviews and community trust-building are legally mandated duties that require human judgement. AI assists with crime data analysis and surveillance, but actual enforcement powers can only be exercised by licensed police officers.
+
+**Q: Is there an age limit for police officers in Australia?**
+A: State police services generally require applicants for entry-level positions to be aged 17–35 (with some states extending this to 45). Applicants with a university degree or specialist skills (IT/languages/finance) are subject to relatively relaxed age limits.
+
+**Q: What qualifications do Australian police officers need?**
+A: Year 12 is the basic requirement; a university degree is not mandatory but aids career progression. Candidates with law or criminology qualifications have a competitive advantage for detective roles, while those with IT qualifications have an advantage in cybercrime units. Bilingual ability is an important asset for multicultural policing positions.
+
+**Q: Is it difficult to join the police or migrate as a police officer?**
+A: Government police services require citizenship or PR and cannot serve as a primary immigration pathway. It is recommended to first obtain PR through skilled migration (189/190) or another route before applying to state police forces. Competition is intense; early preparation is essential (fitness testing / written exam / psychological assessment / background check).
+
+**Q: Which has better career prospects in Australia: police officer or firefighter?**
+A: Similar salaries (both around $80k-$130k including allowances); police have broader promotion paths (detective/management/AFP federal), more career diversity; firefighters have more varied work (emergency/rescue/HAZMAT). Both require citizenship/PR, choose based on interest—police if interested in law enforcement and crime investigation; firefighter if passionate about emergency rescue and medical aid.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 警察薪资 $55k~$75k基本薪（2026） |
-| Indeed AU | 警察均值 $94,327（含津贴，2026） |
-| Glassdoor AU | 警察均值 $110,000（含所有津贴，2026） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-警察属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲警察工资多少？**
-答：初级正式警察约 $70,000~$90,000（含轮班津贴）；资深警察/侦探约 $90k~$130k（Indeed $94,327；Glassdoor $110,000）；警察中高级管理约 $120k~$200k。
-
-**问：澳洲警察容易找工作吗？**
-答：各州警察局定期开放招募批次，但竞争较激烈（录取率约10~20%）。双语（普通话/粤语）申请者在CALD社区联络岗位具有显著优势。需要澳洲公民或PR资格。
-
-**问：中国警察经验澳洲认可吗？**
-答：中国执法经验可作为背景参考，但澳洲警察局不会直接豁免培训。所有新进警察都需要完成警察学院培训（6~12个月）。中文普通话能力在多元文化警务岗位是实质性竞争优势。
-
-**问：警察会被AI替代吗？**
-答：风险极低。执法权力、现场危机处置、证人访谈和社区信任建立是需要人类判断的法律授权职责。AI辅助犯罪数据分析和监控，但实际执法权力只能由持牌警察行使。
-
-**问：澳洲警察有年龄限制吗？**
-答：各州警察局通常要求17~35岁（部分州放宽至45岁）申请初级警察岗位。有大学学历或特殊专业技能（IT/语言/财务）的申请者年龄限制相对宽松。
-
-**问：澳洲警察需要什么学历？**
-答：Year 12是基本要求，大学学历不是硬性要求但有助于晋升。有法律/犯罪学学历者在侦探岗位有竞争优势；有IT学历者在网络犯罪部门有优势。双语能力（普通话/粤语）是多文化警务岗位的重要资质。
-
-**问：警察入职/移民难吗？**
-答：政府警察局需要公民或PR，不能作为首选移民路径。建议先通过技术移民（189/190）或其他途径获得PR，再申请各州警察局。竞争激烈，需提前准备（体能/笔试/心理评估/背景调查）。
-
-**问：警察和消防员哪个澳洲发展更好？**
-答：薪资相近（含津贴后均在 $80k~$130k）；警察晋升通道更宽（侦探/管理/AFP联邦），职业多元性更高；消防员工作内容更多元（急救/救援/HAZMAT）。两者都需公民/PR，建议根据个人志趣选择——有执法和犯罪调查兴趣选警察；有应急救援和医疗急救热情选消防员。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

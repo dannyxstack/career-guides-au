@@ -1,60 +1,93 @@
-# Architectural Draftsperson（Architectural Draftsperson）职业分析 · 新西兰
+# Architectural Draftsperson — career analysis · New Zealand
 
-**职业代码：312111 – Architectural Draftsperson。**
+**Occupation code: 312111 (ANZSCO)**
 
-Architectural Draftspersons in New Zealand use CAD/BIM software to create building drawings. With sustained construction demand and Green List support, migration pathways are clear.
+Architectural draftspersons in New Zealand use CAD/BIM software to create architectural drawings. Due to the ongoing construction boom and Green List support, immigration pathways are clear and demand is stable.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学历框架6级文凭 | 2年 | $15,000~$30,000（年均学费约$15,000-$30,000） |
-| 本科学位（建筑学或工程绘图） | 3-4年 | $30,000~$50,000（年均学费约$30,000-$50,000） |
+| NZQF Level 6 diploma | 2 years | $15,000~$30,000 (Average annual tuition about $15,000-$30,000) |
+| Bachelor's degree (Architecture or Engineering Drawing) | 3-4 years | $30,000~$50,000 (Average annual tuition about $30,000-$50,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家建筑绘图师认证 | 新西兰建筑绘图师协会 | 可选 | 非强制但提升竞争力 |
-| LEED认证 | 美国绿色建筑委员会 | 可选 | 可持续设计加分 |
-| 英语考试（雅思6.5） | IDP/BC | 必备 | 技术移民语言要求 |
-| 新西兰注册建筑师委员会注册 | NZRAB | 可选 | 仅对高级职位必要 |
+| English test (IELTS 6.5) | IDP/BC | Required | Language requirements for skilled migration |
+| National architectural drafting certification. | New Zealand Institute of Building Surveyors | Optional | Not mandatory but enhances competitiveness |
+| LEED certification | U.S. Green Building Council | Optional | Sustainable design is a plus |
+| Registration with the New Zealand Registered Architects Board | NZRAB | Optional | Necessary only for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 5,000。新西兰住宅和商业建筑市场活跃，基督城和奥克兰重建项目持续，BIM技能需求增长。预计未来5年就业增长中等，但竞争集中在高薪岗位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 5,000. New Zealand's residential and commercial construction market is active, with ongoing rebuild projects in Christchurch and Auckland, and growing demand for BIM skills. Moderate employment growth expected over the next 5 years, but competition is concentrated in high-paying roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 基础薪资，随经验增长 |
-| 中级（3-6年） | $70,000~$95,000 | 常见范围 |
-| 高级（6年以上） | $95,000~$120,000 | 高级绘图师或BIM经理 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Base salary, increases with experience |
+| Mid-level (3–6 years) | $70,000~$95,000 | Common range |
+| Senior (6+ years) | $95,000~$120,000 | Senior drafter or BIM manager |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级绘图员可晋升为高级绘图师、BIM协调员或项目经理。积累经验后易转向建筑设计管理或专业领域如可持续设计。
-**AI替代风险：中偏高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Architectural drafters face mixed impacts from AI: simple drafting tasks are replaced by automation tools, but BIM, parametric design, and sustainability needs actually increase demand for creative, collaborative senior drafters.
+
+Junior drafters can advance to senior drafters, BIM coordinators, or project managers. With experience, it's easy to transition to architectural design management or specialized areas like sustainable design.
+
+**Tasks most exposed to AI:**
+
+- Generate standard architectural construction drawings (plans, elevations, sections)
+- Automatic dimensioning and bill of materials
+- Compliance checking and correction of 2D drawings
+- Automatically extracting drawings and quantities from BIM models
+
+**Where AI augments the role:**
+
+- Using generative AI to quickly create design drafts and iterate solutions
+- Clash detection and automatic coordination in BIM models
+- AI-assisted energy analysis, daylight analysis, and other performance optimizations
+- Machine learning-based material selection and cost estimation
+
+**Human moat:**
+
+- Collaboration skills to communicate design intent with architects and engineers
+- Deep understanding of building codes and local regulations
+- Creative problem-solving in complex spatial design
+- On-site inspection and flexible adaptation to actual conditions
+
+**Skills to build:**
+
+- Proficient use of advanced BIM software (Revit, ArchiCAD)
+- Parametric design (Grasshopper, Dynamo)
+- Applying AI tools (e.g., Midjourney for concept design assistance)
+- Sustainable building design and analysis
+- Interdisciplinary collaboration and project management
+- Programming basics (Python automation scripts)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -63,68 +96,67 @@ Architectural Draftspersons in New Zealand use CAD/BIM software to create buildi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下凭学历和工作经验申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，最长3年 |
+| Subclass Green List T2 (Green List Work to Residence) | Eligible to apply for residence after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | Apply under the 6-point system with qualifications and work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architectural Draftsperson？**
-- 喜欢用CAD/BIM软件进行细致制图的人
-- 追求稳定就业且愿意在建筑行业发展的技术人才
-- 计划通过技术移民新西兰并看重绿色清单便捷路径的人
-
-**谁不适合学Architectural Draftsperson？**
-- 偏向创意设计而非技术制图的建筑师
-- 不愿学习BIM或持续更新软件技能的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys detailed drafting using CAD/BIM software
+- Skilled workers seeking stable employment and willing to develop in the construction industry
+- Those planning skilled migration to New Zealand and valuing the Green List fast track
+
+**Who is not suited**
+- Architects leaning towards creative design rather than technical drafting
+- People unwilling to learn BIM or continuously update software skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of architectural drafters in New Zealand?**
+A: Annual salary approx. NZD 55,000-120,000; entry-level NZD 55k-70k, senior up to NZD 120k, BIM skills may increase salary.
+
+**Q: Can architectural drafters immigrate via the Green List?**
+A: Yes, it is on the Green List Tier 2; after 2 years of work you can apply for residency. Also qualifies for SMC 6-point system.
+
+**Q: Is registration required to work?**
+A: No mandatory registration required, but NZAD certification can enhance job competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中偏高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Architectural Draftsperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an Architectural Draftsperson in NZ?**
-答：Annual salary ranges from NZD 55,000 to 120,000; junior $55k-$70k, senior up to $120k, BIM skills boost pay.
-
-**问：Can Architectural Draftspersons migrate via Green List?**
-答：Yes, it's on Green List Tier 2 (work 2 years then residence) and qualifies for SMC 6-point system.
-
-**问：Is registration required to work?**
-答：No, but ADNZ certification boosts employability.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Religious Professional（Religious Professional）职业分析 · IT
+# Religious Professional — career analysis · Italy
 
-**职业代码：2636 – Religious Professional。**
+**Occupation code: 2636 (ISCO08)**
 
-Religious professionals in Italy conduct religious services, provide spiritual guidance, and engage in religious education, primarily within the Catholic Church and other faith communities.
+Religious professionals in Italy engage in the dissemination of religious teachings, conducting religious ceremonies, religious education, and spiritual guidance, serving Catholic and other religious groups.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 神学学士 | 3年（本科） | $1,000~$5,000（公立大学神学系学费较低，私立神学院较高） |
-| 神学硕士或修士培训 | 2年（硕士） | $2,000~$8,000（修士培训通常由教会资助） |
+| Bachelor of Theology | 3 years (bachelor's) | $1,000~$5,000 (Tuition lower at public university theology departments, higher at private seminaries) |
+| Master of Theology or ministerial training | 2 years (Master's) | $2,000~$8,000 (Theological training is usually funded by the church.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 神学学位 | 大学或神学院 | 必备 | 多数宗教团体要求神学或相关学位 |
-| 教会任命/圣职 | 主教或宗教团体 | 必备 | 天主教神父需主教任命，其他宗教有类似程序 |
-| 牧灵培训 | 教区或宗教机构 | 可选 | 提供实际牧灵技能 |
+| Theology degree | University or seminary | Required | Most religious groups require a theology or related degree |
+| Church appointment/ordination. | Bishop or Religious Group | Required | Catholic priests require appointment by a bishop; other religions have similar procedures |
+| Pastoral Training | Parish or religious institution | Optional | Provide practical pastoral care skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 50,000。意大利宗教专业人士需求稳定，主要受人口老龄化和宗教机构持续运营影响。天主教神职人员数量下降，但其他宗教群体需求有所增加。
+**Job demand: low (★½☆☆☆).** National workforce approx. 50,000. Demand for religious professionals in Italy is stable, driven by an aging population and ongoing operation of religious institutions. The number of Catholic clergy is declining, but demand from other religious groups is increasing.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 包括住房和膳食津贴 |
-| 中级（3-10年） | $20,000~$30,000 | 取决于教区规模和职责 |
-| 高级（10年以上） | $30,000~$50,000 | 主教或高级宗教职位 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Includes housing and meal allowances. |
+| Intermediate (3-10 years) | $20,000~$30,000 | Depends on parish size and responsibilities |
+| Senior (10+ years) | $30,000~$50,000 | Bishop or Senior Religious Position |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径包括从助理神职人员到主教或宗教领袖，部分可进入梵蒂冈或国际宗教组织。晋升通常需要长期服务、深造神学及教会内部选拔。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
+
+Career development paths include from assistant clergy to bishop or religious leader, some may enter the Vatican or international religious organizations. Promotion usually requires long-term service, further theological study, and internal selection by the church.
+
+**Tasks most exposed to AI:**
+
+- Generate routine sermon drafts and religious education materials
+- Manage donation records, event schedules, and email responses
+- Provide standardized online faith-based counseling or psychological support
+- Transcribe and translate religious texts and ritual content.
+
+**Where AI augments the role:**
+
+- Using AI to analyze community needs and tailor more relevant spiritual care programs
+- Using AI assistance to quickly write personalized eulogies, wedding vows, and teaching materials
+- Supports multilingual and cross-cultural pastoral care through AI translation and interfaith databases
+- Use AI tools to create multimedia preaching content (video, interactive Q&A)
+- Use AI to analyze church or temple operational data to optimize charitable resource allocation
+
+**Human moat:**
+
+- Provide genuine empathy and ritual that algorithms cannot replace during funerals and crisis intervention
+- Deep trust and spiritual guidance built through personal character and long-term relationships
+- Creative, non-formulaic interpretation of sacred texts in specific contexts
+- Lead offline collective rituals (worship, ceremonies, sacraments) with on-site spirituality and order
+
+**Skills to build:**
+
+- AI-assisted content generation tools (e.g., ChatGPT, image/video generation)
+- Community data analysis and CRM tool usage
+- Digital media production and online community management
+- Psychological counseling and crisis intervention skills.
+- Multilingual ability (proficient in at least one second language)
+- Cross-training on AI ethics and religious applications
+
+**Key growth areas:**
 
 - Aging population
 - Multiculturalism
@@ -64,65 +98,67 @@ Religious professionals in Italy conduct religious services, provide spiritual g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 工作签证（Lavoro Subordin（Work Visa (subordinate employment)） | 适用于被意大利宗教机构雇佣的外籍宗教人士，需雇主申请Nulla Osta。 |
-| Subclass 宗教人士签证（Visto per Rel（Visa for Religious Workers） | 针对神职人员、修会成员等，需宗教团体担保，可申请居留许可。 |
+| Subclass Work Visa (Work Visa (subordinate employment)) | Applicable to foreign religious workers employed by Italian religious institutions, requiring the employer to apply for Nulla Osta. |
+| Subclass Religious Worker Visa (Visa for Religious Workers) | For clergy, religious order members, etc., a religious organization guarantee is required to apply for a residence permit. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Religious Professional？**
-- 有强烈宗教信仰和奉献精神的人
-- 喜欢从事精神辅导和社区服务的人
-- 愿意长期学习神学并接受教会纪律的人
+**Who is suited**
+- People with strong religious beliefs and dedication
+- People who enjoy providing mental counselling and community service
+- People willing to study theology long-term and accept church discipline
 
-**谁不适合学Religious Professional？**
-- 追求高薪和物质回报的人
-- 不认同宗教教义或不愿遵守宗教规范的人
+**Who is not suited**
+- People pursuing high salary and material rewards.
+- People who do not agree with religious doctrines or are unwilling to follow religious norms
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of religious professionals in Italy?**
+A: Salary is low, entry-level about €15,000-20,000/year, but usually includes meals and accommodation. Senior positions can reach €50,000/year.
+
+**Q: How can foreign religious workers obtain an Italian work visa?**
+A: Requires sponsorship from an Italian religious institution, applying for a work visa (Lavoro Subordinato) or religious worker visa, and meeting residency requirements.
+
+**Q: What are the career paths for religious professionals?**
+A: From assistant clergy to bishop or religious leader, also possible to enter the Vatican or international organizations. Requires long-term service, theological study, and church recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Religious Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for religious professionals in Italy?**
-答：Salaries are modest; entry-level around 15,000-20,000 EUR/year, often with accommodation. Senior roles can reach 50,000 EUR/year.
-
-**问：How can foreign religious workers obtain a work visa for Italy?**
-答：They need sponsorship from an Italian religious institution, apply for a work visa (Lavoro Subordinato) or religious worker visa, and meet residency requirements.
-
-**问：What are the career progression paths for religious professionals?**
-答：From assistant clergy to bishop or religious leader, or roles in the Vatican or international organizations. Requires long service, advanced theology studies, and church recognition.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

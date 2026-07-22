@@ -1,58 +1,94 @@
-# Upholsterer（Upholsterer）职业分析 · NL
+# Upholsterer — career analysis · Netherlands
 
-**职业代码：7534 – Upholsterer。**
+**Occupation code: 7534 (ISCO08)**
 
-Upholsterers repair and reupholster furniture, including installing springs, padding, and cover fabrics, playing a key role in furniture manufacturing and restoration.
+Furniture upholsterers repair and reupholster furniture, including installing springs, padding, and coverings; a key trade in furniture manufacturing and restoration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（MBO） | 3-4年 | $1,000~$2,000（每年学费约1000-2000欧元） |
-| 学徒制 | 2-3年 | $500~$1,500（学徒期间部分费用由雇主承担） |
+| Vocational education (MBO) | 3-4 years | $1,000~$2,000 (Annual tuition fees approximately 1000-2000 euros) |
+| Apprenticeship | 2-3 years | $500~$1,500 (Some costs during the apprenticeship are covered by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 家具装饰工文凭 | 荷兰职业教育机构（ROC） | 可选 | 完成MBO课程后获得 |
-| VCA安全证书 | VCA Foundation | 必备 | 工作场所安全必备 |
+| VCA safety certificate | VCA Foundation | Required | Workplace safety essentials |
+| Diploma of Furniture Finishing | Netherlands vocational education institutions (ROC) | Optional | Obtained after completing MBO course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,000。荷兰家具装饰工的就业前景稳定，受益于对定制和修复家具的持续需求。行业增长温和，但熟练工人短缺为求职者提供了良好机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,000. The employment outlook for furniture upholsterers in the Netherlands is stable, benefiting from ongoing demand for custom and restored furniture. Industry growth is moderate, but a shortage of skilled workers offers good opportunities for job seekers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪 |
-| 高级（6年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $34,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展可从学徒晋升为熟练工，进而成为工头或自营工匠。也可以通过进修学习古董家具修复等高级技能，提升收入潜力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Furniture upholsterers face a mixed impact from AI and automation: repetitive cutting, sewing, and filling tasks can be automated, but creative aspects like custom restoration, fabric matching, and handcraft are enhanced by AI design tools and precision measurement technology.
+
+Career progression can go from apprentice to skilled worker, then to foreman or self-employed tradesperson. Further study in skills like antique furniture restoration can boost income potential.
+
+**Tasks most exposed to AI:**
+
+- Use CNC cutting machine to automatically cut fabrics and foams.
+- Automated spring installation and filler filling
+- Standardized sewing processes are performed by robots
+- Inventory management and order processing taken over by AI systems
+- Fabric defect detection replaced by computer vision
+
+**Where AI augments the role:**
+
+- AI-assisted design software: automatically generate decoration plans based on customer images
+- Augmented Reality (AR) Customer Preview: Real-time display of fabric change effects
+- Precision measuring tools: laser scanning furniture contours to reduce rework
+- AI recommends fabric combinations: optimizes choices based on style and durability data
+- Automated project management system: real-time tracking of repair progress and material consumption
+
+**Human moat:**
+
+- Handcraft skills in haute couture restoration (e.g., hand carving, complex embroidery).
+- Historical research and material matching skills for antique furniture restoration
+- Human insight in client communication and customized design
+- On-site flexible response (e.g., handling irregular furniture)
+- Intuitive judgment of fabric feel and color aesthetics
+
+**Skills to build:**
+
+- Proficiency in CAD/CAM software and CNC cutting machine operation
+- Learning AI design tools (e.g., Adobe Sensei) for fabric matching
+- Enhance skills in applying AR/VR technology in client presentations
+- Proficient in antique furniture restoration techniques (e.g., traditional mortise and tenon joints, hand-painting)
+- Build personal brand and social media marketing skills
+- Learn sustainable materials knowledge (e.g., recycled fabrics, eco-friendly foam)
+
+**Key growth areas:**
 
 - Furniture Restoration
 - Custom Upholstery
@@ -61,69 +97,68 @@ Upholsterers repair and reupholster furniture, including installing springs, pad
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于达到收入门槛的技术移民，但家具装饰工通常难以满足薪资要求。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业的国际学生可在毕业后一年内在荷兰求职，找到相关工作后可转为工作签证。 |
-| Subclass Work Permit (GVVA)（Work Permit for Regular Employment） | 欧洲经济区以外的劳动者需雇主担保，通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 需要高学历和高薪资，家具装饰工通常不符合条件。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled migration meeting the income threshold, but cabinetmakers typically struggle to meet salary requirements. |
+| Subclass Orientation Year (Orientation Year) | International students who graduated in the Netherlands can seek jobs in the Netherlands within one year after graduation, and can switch to a work visa after finding a relevant job. |
+| Subclass Work Permit (GVVA) (Work Permit for Regular Employment) | Workers from outside the European Economic Area need employer sponsorship and must pass a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | High education and high salary requirements usually disqualify furniture finishers. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Upholsterer？**
-- 喜欢动手和精细工作的人
-- 对家具修复和设计有兴趣
-- 愿意通过学徒制学习技能
-
-**谁不适合学Upholsterer？**
-- 不愿意接受较长的学徒期
-- 对体力劳动敏感
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and detailed work
+- Interest in furniture restoration and design
+- Willing to learn skills through apprenticeships
+
+**Who is not suited**
+- Unwilling to accept a long apprenticeship
+- Physically demanding work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of furniture decorators in the Netherlands?**
+A: Starting salary approximately €25,000-30,000 per year, senior up to €45,000. Salary affected by experience and skills.
+
+**Q: Can a furniture upholsterer immigrate to the Netherlands?**
+A: This occupation is not in demand, making immigration difficult. Typically requires obtaining employer sponsorship or a targeted job-seeking visa.
+
+**Q: How to become a furniture upholsterer?**
+A: Typically entry into the industry requires 3-4 years of study through MBO vocational courses or apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Upholsterer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of an upholsterer in the Netherlands?**
-答：Entry-level salary is around €25,000-€30,000 per year, while experienced professionals can earn up to €45,000.
-
-**问：Can an upholsterer immigrate to the Netherlands?**
-答：This occupation is not on the shortage list; immigration typically requires employer sponsorship or an orientation year visa.
-
-**问：How to become an upholsterer in the Netherlands?**
-答：Usually through MBO vocational training or apprenticeships lasting 3-4 years.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

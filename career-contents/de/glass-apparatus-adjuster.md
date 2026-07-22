@@ -1,60 +1,93 @@
-# Glass Apparatus Adjuster（Glass Apparatus Adjuster）职业分析 · DE
+# Glass Apparatus Adjuster — career analysis · Germany
 
-**职业代码：2135 – Glass Apparatus Adjuster。**
+**Occupation code: 2135 (KldB)**
 
-Specializes in precision adjustment, calibration, and finishing of glass apparatus (e.g., laboratory glassware, industrial glass equipment) to ensure dimensional accuracy and functionality, typically in glass manufacturing or processing companies.
+Perform precision adjustment, calibration, and finishing of glass instruments (such as laboratory glassware, industrial glass equipment) to ensure dimensional accuracy and functionality meet standards. Work is often in glass manufacturing or processing companies.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（培训期间有津贴，无学费，仅需少量学习材料费） |
-| 进阶培训（技师） | 1-2年 | $2,000~$5,000（可自费或由雇主资助，考取玻璃仪器校准技师证书） |
+| Vocational training (dual system) | 3 years | $0~$500 (Allowance during training, no tuition fee, only a small cost for learning materials) |
+| Advanced training (Technician) | 1-2 years | $2,000~$5,000 (Can be self-funded or employer-sponsored to obtain glass instrument calibration technician certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃仪器校准工（Ausbildung） | 德国工商业行会（IHK） | 必备 | 完成3年双元制培训并通过结业考试 |
-| 职业资格证书（Gesellenbrief） | IHK | 必备 | 培训后获得，证明专业能力 |
+| Glass Apparatus Calibrator (Ausbildung) | German Chamber of Commerce and Industry (IHK) | Required | Completion of a 3-year dual-system training and passing the final exam |
+| Vocational qualification certificate (Gesellenbrief) | IHK | Required | Obtained after training, certifies professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,200。德国玻璃制造业稳定，但对标准化产品的自动化生产导致对纯手工校准岗位需求减少。高精度特种玻璃领域仍有需求，但整体就业机会有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. The German glass manufacturing industry is stable, but automation of standardized products has reduced demand for purely manual calibration positions. High-precision specialty glass still has demand, but overall job opportunities are limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，取决于地区和公司规模 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，经验增加后薪资上升 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪，含技师或工长职位 |
+| Median salary | $40,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual salary before tax, increases with experience |
+| Senior (7+ years) | $38,000~$48,000 | Annual salary before tax, includes technician or foreman positions |
+| average salary | $43,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初期从学徒做起，积累经验后成为熟练工。可晋升为工长或转向质量检测、技术销售。需持续学习新校准技术，但晋升空间相对窄。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Part of the glass instrument calibrator's work can be automated with AI + robotics (e.g., geometric measurement), but high-precision manual calibration and complex problem-solving still rely on human experience, overall impact mixed.
+
+Start as an apprentice, gain experience to become a skilled worker. Can be promoted to foreman or move into quality inspection or technical sales. Continuous learning of new calibration techniques is required, but advancement opportunities are relatively limited.
+
+**Tasks most exposed to AI:**
+
+- Performing repetitive dimensional measurements using manual tools such as calipers and micrometers.
+- Perform routine form and tolerance checks according to standard specifications
+- Record and archive calibration data, generate standard reports
+- Identify simple visual defects like surface cracks, bubbles, etc.
+
+**Where AI augments the role:**
+
+- High-precision, non-contact 3D scanning and dimensional analysis using AI vision systems
+- Predict calibration parameters using machine learning models to optimize adjustment processes.
+- Use digital twins to simulate thermal stress deformation and guide repair solutions
+- Use AR glasses for real-time calibration guidance and remote expert support
+
+**Human moat:**
+
+- Manual fine adjustment and finishing of complex, non-standard glass instruments
+- Ability to assess hidden quality issues such as internal stress and thermal history in materials.
+- Flexible operation under high-pressure or special environments (e.g., sterile laboratories)
+- Communicate with clients about special customization needs and translate into actionable solutions
+
+**Skills to build:**
+
+- Operate 3D scanners and smart measurement equipment
+- Basic Python or scripting for automated data processing
+- Understand the application of machine learning in defect detection
+- Data analysis and statistical process control (SPC)
+- Basics of digital twin simulation software (e.g., ANSYS)
+- Use of AR-assisted Operation Tools
+
+**Key growth areas:**
 
 - Precision Manufacturing
 - Laboratory Equipment
@@ -63,65 +96,67 @@ Specializes in precision adjustment, calibration, and finishing of glass apparat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的求职签证，适合有职业资格但无工作合同者，可在德寻找工作一年 |
-| Subclass Skilled Worker（Skilled Worker Visa for Vocational Training） | 需获得德国雇主合同，且职业资格被认可，可申请技术工人签证 |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job-seeking visa, suitable for those with professional qualifications but no job offer; allows job searching in Germany for one year. |
+| Subclass Skilled Worker (Skilled Worker Visa for Vocational Training) | Must obtain a job contract from a German employer and have professional qualifications recognized to apply for a skilled worker visa. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Glass Apparatus Adjuster？**
-- 对手工精密操作有耐心和兴趣的人
-- 愿意接受3年双元制培训的年轻人
-- 对玻璃材料特性有好奇心的人
+**Who is suited**
+- Patient and interested in manual precision work
+- Young people willing to undergo a 3-year dual training program
+- People curious about the properties of glass materials
 
-**谁不适合学Glass Apparatus Adjuster？**
-- 期望高薪和快速晋升的人
-- 不喜欢重复性精细工作的人
+**Who is not suited**
+- People seeking high salary and rapid promotion
+- Those who dislike repetitive fine work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for glass instrument calibrators?**
+A: Salaries are relatively low, with entry-level around €25,000–32,000 and senior up to €48,000, well below the German average.
+
+**Q: Is this occupation suitable for immigrating to Germany?**
+A: Not very suitable. This occupation is not a shortage occupation and requires completing German dual-system training. Overseas qualification recognition is difficult, and there is almost no direct immigration pathway.
+
+**Q: How to become a glass instrument calibrator?**
+A: Typically completed through a 3-year dual training system, working while studying. Training is conducted jointly by companies and vocational schools, culminating in an IHK certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Glass Apparatus Adjuster属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a glass apparatus adjuster?**
-答：Salaries are relatively low: entry-level €25,000-32,000, senior up to €48,000, well below German average.
-
-**问：Is this occupation suitable for immigration to Germany?**
-答：Not really. It's not a shortage occupation, requires German vocational training, and overseas qualification recognition is difficult; few direct immigration routes.
-
-**问：How to become a glass apparatus adjuster?**
-答：Typically through a 3-year dual vocational training (Ausbildung) combining work and school, ending with an IHK certificate.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

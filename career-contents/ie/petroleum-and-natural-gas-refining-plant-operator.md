@@ -1,58 +1,93 @@
-# Petroleum and Natural Gas Refining Plant Operator（Petroleum and Natural Gas Refining Plant Operator）职业分析 · IE
+# Petroleum and Natural Gas Refining Plant Operator — career analysis · Ireland
 
-**职业代码：3134 – Petroleum and Natural Gas Refining Plant Operator。**
+**Occupation code: 3134 (ISCO08)**
 
-Monitor and operate refinery equipment to ensure safe and efficient petroleum and natural gas processing, including distillation and cracking units.
+Responsible for monitoring and operating refinery equipment, ensuring safe and efficient oil and gas refining processes, including distillation, cracking units, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职高 | 2年（职业教育） | —（部分课程免费或低学费） |
-| 专科/高级文凭 | 2-3年 | $3,000~$10,000（年学费，欧盟学生有补贴） |
+| High school / vocational high school | 2 years (vocational education) | $0~$1,000 (Some courses are free or low tuition) |
+| Diploma/Advanced Diploma | 2-3 years | $3,000~$10,000 (Annual tuition fee, with subsidies for EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作员基础培训 | 企业内部或FETAC | 必备 | 上岗必需 |
-| 健康与安全证书 | 爱尔兰健康与安全局 | 必备 | 行业通用 |
+| Operator basic training. | In-house or FETAC | Required | Mandatory for employment |
+| Health and safety certificate | Health and Safety Authority (Ireland) | Required | Industry-wide |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 500。爱尔兰依赖进口能源，炼油行业规模有限，但科克和白gate等炼厂需稳定操作人员。未来随能源转型，职位可能减少，但维护和升级需求仍存。
+**Job demand: medium (★★½☆☆).** National workforce approx. 500. Ireland relies on imported energy, and its refinery industry is limited in scale, but refineries such as Cork and Whitegate require stable operators. Future job numbers may decrease with the energy transition, but maintenance and upgrade needs will persist.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 含轮班补贴 |
-| 中级（3-7年） | $40,000~$55,000 | 含加班 |
-| 高级（7年以上） | $55,000~$70,000 | 主操作员或班组长 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Includes shift allowances |
+| Mid-level (3–7 years) | $40,000~$55,000 | Including overtime |
+| Senior (7+ years) | $55,000~$70,000 | Lead operator or shift supervisor |
+| average salary | $48,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从操作员晋升为高级操作员、班组长，或转向工艺工程、安全监管岗位。需积累经验并获取相关认证。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Positions like oil pump system operators face serious automation threats; AI and IoT can take over monitoring, reporting, and scheduling tasks. Entry-level positions shrink significantly, but on-site emergency response and compliance supervision still require humans.
+
+Can progress from operator to senior operator, team leader, or move to process engineering, safety supervision. Requires experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- AI takes over real-time monitoring and alarming of oil tank liquid level, temperature, and pressure
+- Automated systems perform pump start/stop, valve switching, and flow adjustment.
+- AI generates inspection reports, inventory daily reports, and operation logs
+- Optimizing parameter settings and energy consumption in refining units using intelligent algorithms
+- Automated metering systems automatically complete measurement and calculation of oil volume and mass
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of abnormal data helps operators quickly locate fault causes
+- Augmented Reality (AR) overlays key parameters to improve on-site inspection efficiency
+- AI predictive maintenance alerts to reduce unplanned downtime
+- Simulation training systems accelerate new employees' emergency response capability development
+- AI dispatch coordinates multiple pump stations and pipelines, optimizing transport rhythm
+
+**Human moat:**
+
+- Unstructured decision-making and manual emergency operations in on-site incidents
+- Deep understanding and experiential judgment of complex refining processes
+- Multi-party communication and coordination with regulatory agencies, maintenance teams, and downstream clients
+- Process safety and compliance responsibilities, signing key operational confirmations.
+
+**Skills to build:**
+
+- Industrial IoT platform operation and data analysis (e.g., SCADA, PI System)
+- Basic programming and scripting skills (Python for report automation, anomaly detection).
+- AI/Machine learning fundamentals, understand predictive maintenance model principles
+- Digital twin and simulation software usage (e.g., Aspen HYSYS)
+- Emergency management and advanced safety standards (e.g., API, OSHA standards)
+- Cross-departmental communication and project management skills
+
+**Key growth areas:**
 
 - Stable operation
 - Process optimization
@@ -61,63 +96,62 @@ Monitor and operate refinery equipment to ensure safe and efficient petroleum an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪至少30000欧元，雇主担保。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国企业内部调动，需管理层或专业技术岗位。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requiring an annual salary of at least 30,000 euros and employer sponsorship. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer in multinational corporations, requiring management or professional technical positions. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Petroleum and Natural Gas Refining Plant Operator？**
-- 注重安全规程、动手能力强的人
-- 适应轮班和高压环境的人
-
-**谁不适合学Petroleum and Natural Gas Refining Plant Operator？**
-- 不喜欢重复性工作的人
-- 对化学气味敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prioritize safety protocols and have strong hands-on skills.
+- People who can adapt to shift work and high-pressure environments
+
+**Who is not suited**
+- People who dislike repetitive work
+- Those sensitive to chemical odors
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Ireland?**
+A: Junior annual salary approximately €30,000-40,000, mid-level up to €55,000, senior operators or team leaders up to €70,000, usually including shift allowances.
+
+**Q: How can overseas individuals immigrate to Ireland through this occupation?**
+A: This occupation is not on the critical skills occupation list; a General Employment Permit is required, with a minimum annual salary of €30,000 and employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Petroleum and Natural Gas Refining Plant Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Ireland?**
-答：Entry-level salaries range from €30,000 to €40,000, mid-level up to €55,000, and senior operators or shift supervisors up to €70,000, typically including shift allowances.
-
-**问：How can overseas workers immigrate to Ireland through this occupation?**
-答：This occupation is not on the Critical Skills list; apply for a General Employment Permit requiring a minimum salary of €30,000 and employer sponsorship.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

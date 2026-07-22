@@ -1,60 +1,96 @@
-# Medical and Sanitary Supplies Salesperson（Medical and Sanitary Supplies Salesperson）职业分析 · DE
+# Medical and Sanitary Supplies Salesperson — career analysis · Germany
 
-**职业代码：6242 – Medical and Sanitary Supplies Salesperson。**
+**Occupation code: 6242 (KldB)**
 
-Sells medical and sanitary supplies to healthcare institutions, rehabilitation centers, and individual clients, including wheelchairs, hospital beds, and nursing products. Requires product knowledge, customer consultation, and after-sales service.
+Responsible for selling medical and hygiene products (e.g., wheelchairs, hospital beds, nursing supplies) to medical institutions, rehabilitation centers, and individual clients. Requires product knowledge, customer consultation, and after-sales service.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，通常无需学费） |
-| 进修（技术顾问） | 1-2年（部分时间） | $2,000~$8,000（费用视课程和机构而定） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Allowance provided during training, usually no tuition fees) |
+| Further study (technical consultant) | 1-2 years (part-time) | $2,000~$8,000 (Fees vary depending on the course and institution.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制培训毕业证书 | 德国工商会（IHK） | 必备 | 完成3年双元制培训并通过结业考试 |
-| 医疗产品知识认证 | 相关专业机构 | 可选 | 部分雇主要求，非强制 |
+| Dual system training certificate | German Chamber of Commerce and Industry (IHK) | Required | Completion of a 3-year dual-system training and passing the final exam |
+| Medical product knowledge certification | Relevant professional bodies | Optional | Required by some employers, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。德国老龄化加剧推动医疗用品需求持续增长，该职业就业前景稳定。数字化和远程医疗带来新销售渠道，但需适应技术变化。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. Germany's aging population drives sustained growth in demand for medical supplies, offering stable employment prospects. Digitalization and telemedicine bring new sales channels but require adaptation to technological changes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，取决于公司规模和经验 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含绩效奖金 |
+| Median salary | $37,284 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $35,000~$45,000 | Gross annual salary, depending on company size and experience. |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary, including performance bonuses. |
+| average salary | $40,608 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从基层销售员晋升为区域经理或产品专家；通过进修考取医疗技术顾问认证可转向技术销售或采购管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Can advance from entry-level salesperson to regional manager or product specialist; by pursuing further education and obtaining medical technology consultant certification, can transition to technical sales or procurement management.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare expansion
@@ -63,66 +99,68 @@ Sells medical and sanitary supplies to healthcare institutions, rehabilitation c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国寻找工作6个月，需证明经济能力 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得德国雇主合同，职业培训认证通过 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的找工作签证，2024年新政策 |
+| Subclass Job Seeker (Job Seeker Visa) | Allows job search in Germany for 6 months, requires proof of financial means |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German employer contract and have vocational training certification recognized |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, new policy in 2024 |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Medical and Sanitary Supplies Salesperson？**
-- 有销售热情和沟通能力的人
-- 对医疗产品感兴趣，乐于学习专业知识
-- 希望在稳定行业工作，不追求极高薪资
+**Who is suited**
+- People with sales passion and communication skills
+- Interested in medical products and keen to learn professional knowledge
+- Prefer to work in a stable industry, not seeking extremely high pay
 
-**谁不适合学Medical and Sanitary Supplies Salesperson？**
-- 厌恶销售业绩压力的人
-- 希望快速致富或从事高端技术岗位的人
+**Who is not suited**
+- People who dislike sales performance pressure
+- People hoping to get rich quickly or pursue high-end technical roles
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a medical sales representative?**
+A: Entry-level annual salary approx. €28,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000. Performance bonuses have significant impact.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Low likelihood. This occupation is not in shortage and requires a German-recognized vocational background. Can try the Opportunity Card or complete German dual vocational training first.
+
+**Q: What career advancement opportunities exist for this occupation?**
+A: Can advance to regional sales manager, product specialist, or move into procurement management. Further study as a medical technology consultant can lead to technical sales.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Medical and Sanitary Supplies Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for medical supplies salespersons?**
-答：Entry-level annual salary ranges from €28,000 to €35,000, mid-level €35,000-€45,000, senior up to €55,000. Performance bonuses have significant impact.
-
-**问：Can foreigners immigrate to Germany through this occupation?**
-答：Possibility is low. It is not a shortage occupation and requires German-recognized vocational training. Could try Opportunity Card or complete German dual education first.
-
-**问：What are the career advancement opportunities?**
-答：Can advance to regional sales manager, product specialist, or procurement management. Further training as medical technology consultant leads to technical sales.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

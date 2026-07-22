@@ -1,59 +1,94 @@
-# Chemists（Chemists）职业分析 · 加拿大
+# Chemists — career analysis · Canada
 
-**职业代码：21101 – Chemists。**
+**Occupation code: 21101 (NOC)**
 
-Chemists study the properties, composition, and reactions of chemicals, working in analysis, R&D, and quality control across pharmaceuticals, food, and environmental sectors. Eligible for Express Entry or PNP with sufficient education and language scores.
+Chemists study the properties, composition, and changes of chemical substances, engaging in analysis, R&D, quality control, etc., widely used in pharmaceuticals, food, environment, and other fields. Can immigrate via Express Entry or Provincial Nominee Program if qualifications and language proficiency are met.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（国际生学费，依学校而异） |
-| 硕士 | 2年 | $15,000~$40,000（研究型可能有资助） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (international student tuition, varies by school) |
+| Master's degree | 2 years | $15,000~$40,000 (Research-type may have funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证 | WES/ICES | 必备 | ECA必备 |
-| 雅思或思培 | IELTS/CELPIP | 必备 | CLB 7以上 |
-| 专业认证 | Canadian Society for Chemistry | 可选 | 非强制但有益 |
+| Qualification recognition | WES/ICES | Required | ECA required |
+| IELTS or CELPIP | IELTS/CELPIP | Required | CLB 7 or above |
+| Professional certification | Canadian Society for Chemistry | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 14,900。加拿大对化学家需求稳定，尤其在制药、绿色化工和环境监测领域。BC省、安省和阿尔伯塔省岗位较多。预计就业增长率接近平均水平，竞争适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,900. Demand for chemists in Canada is stable, especially in pharmaceuticals, green chemistry, and environmental monitoring. More positions in BC, Ontario, and Alberta. Projected employment growth near average, competition moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 大多在安省、BC省 |
-| 中级（3-7年） | $60,000~$80,000 | 含实验室主管 |
-| 高级（7年以上） | $80,000~$110,000 | 研发经理级别 |
+| Median salary | $79,997 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Mostly in Ontario and BC |
+| Mid-level (3–7 years) | $60,000~$80,000 | Includes Laboratory Supervisor |
+| Senior (7+ years) | $80,000~$110,000 | R&D manager level |
+| average salary | $87,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级分析员起步，可晋升至高级化学家、实验室主管或研发经理。积累经验后转向项目管理或监管事务，也可通过认证成为特许化学家。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is reshaping the work of chemists; analysis tasks are increasingly automated, but experimental design and innovative research still rely on human intelligence, presenting both opportunities and challenges.
+
+Starting as a junior analyst, can advance to senior chemist, laboratory supervisor, or R&D manager. With experience, move into project management or regulatory affairs, or become a chartered chemist through certification.
+
+**Tasks most exposed to AI:**
+
+- Routine chromatography and spectroscopy data analysis
+- Standardized compound synthesis and purification
+- Experimental documentation generation and literature search
+- Repetitive testing in quality control
+
+**Where AI augments the role:**
+
+- High-throughput virtual screening and molecular simulation.
+- AI-assisted synthesis route planning.
+- Experimental data mining and pattern discovery
+- Automated report generation and anomaly detection
+- Interdisciplinary collaboration (e.g., bioinformatics)
+
+**Human moat:**
+
+- Innovative experimental design and hypothesis generation
+- Intuitive judgment of complex reaction mechanisms
+- Laboratory safety and ethical decision-making
+- Cross-disciplinary problem solving
+- Original scientific discoveries
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Machine learning (scikit-learn, PyTorch)
+- Computational chemistry (DFT, MD simulations)
+- Laboratory Automation (Robotics)
+- Science communication and project management
+- AI Ethics and Data Privacy Knowledge
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
@@ -62,68 +97,67 @@ Chemists study the properties, composition, and reactions of chemicals, working 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合学历语言分数高的申请人，通过技能转移获得永久居留 |
-| Subclass PNP（Provincial Nominee Program） | 如安省、BC省提名，针对STEM职业，通常需雇主担保或本省学历 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，名额有限 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with high academic and language scores, obtaining permanent residence through skills transfer. |
+| Subclass PNP (Provincial Nominee Program) | e.g., Ontario, BC PNP targeting STEM occupations, usually requiring employer sponsorship or in-province study. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, limited spots |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemists？**
-- 化学、化工、材料等相关专业本科或以上
-- 希望在实验室或研发领域长期发展
-- 愿意在制药、环境或能源行业就职
-
-**谁不适合学Chemists？**
-- 不喜欢重复性实验操作
-- 对化学安全有顾虑
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor's degree or above in Chemistry, Chemical Engineering, Materials Science, or related fields
+- Wishing to develop long-term in a laboratory or R&D field
+- People willing to work in the pharmaceutical, environmental, or energy sectors
+
+**Who is not suited**
+- Dislikes repetitive experimental operations
+- Concerned about chemical safety
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for chemists in Canada?**
+A: Junior approximately CAD 45,000-60,000, intermediate CAD 60,000-80,000, senior CAD 80,000-110,000. Region, industry, and experience have significant impact.
+
+**Q: Is it easy for chemists to immigrate to Canada?**
+A: This is a STEM occupation; Express Entry and Provincial Nominee Program are both viable options. ECA credential assessment and language test scores are required. Having a Canadian employer or education will add points.
+
+**Q: Do you need a license to work as a chemist in Canada?**
+A: Generally no mandatory license is required, but joining the Chemical Institute of Canada (CSC) can enhance competitiveness. Some regulated areas may require registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Chemists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for chemists in Canada?**
-答：Entry-level: CAD 45k-60k, mid-level: 60k-80k, senior: 80k-110k. Varies by region, industry, and experience.
-
-**问：Is it easy for chemists to immigrate to Canada?**
-答：Yes, as a STEM occupation, it's eligible for Express Entry and PNP. Requires ECA and language test. Canadian job offer or education boosts scores.
-
-**问：Do chemists need a license in Canada?**
-答：Typically not mandatory, but membership with the Canadian Society for Chemistry (CSC) helps. Certain regulated fields may require registration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

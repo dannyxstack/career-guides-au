@@ -1,58 +1,92 @@
-# Window Cleaner（Window Cleaner）职业分析 · FR
+# Window Cleaner — career analysis · France
 
-**职业代码：K2202 – Window Cleaner。**
+**Occupation code: K2202 (ROME)**
 
-Window cleaners wash glass surfaces inside and outside buildings, including windows, curtain walls, and skylights, using professional tools and safety equipment such as harnesses, scaffolding, or access platforms to ensure cleanliness and safety.
+Glass cleaners are responsible for cleaning glass surfaces inside and outside buildings, including windows, curtain walls, skylights, etc., using professional tools and safety equipment (such as seat belts, lifting platforms, or scaffolding) to ensure cleaning results and safe operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 入职培训/无学历要求 | 无固定学制 | —（多数公司提供在职培训，无学历门槛） |
-| CAP 清洁技术员 | 2年（CAP） | —（可通过学徒制完成，学费由企业承担） |
+| Onboarding training / No educational requirements | There is no fixed academic system | $0~$500 (Most companies offer on-the-job training with no educational requirements) |
+| CAP cleaning technician | 2 years (CAP) | $0~$3,000 (It can be completed through an apprenticeship system, with tuition fees covered by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业安全认证（CACES R386） | 法国国家职业安全研究所（INRS） | 必备 | 从事高空玻璃清洁必备，分为不同等级 |
-| 电工执照（授权牌） | 法国劳动部 | 可选 | 若涉及电动升降平台操作，需此认证 |
+| High-altitude Work Safety Certification (CACES R386) | French National Institute for Occupational Safety (INRS) | Required | Essential for high-altitude glass cleaning and divided into different grades |
+| Electrician license (authorized plate) | French Ministry of Labor | Optional | If electric lifting platform operation is involved, this certification is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国玻璃清洁行业需求稳定，与建筑业和商业地产维护密切相关。巴黎等大城市对高层建筑清洁服务需求较高，但受经济周期影响较小。就业机会主要集中于清洁公司，自雇从业者也有发展空间。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Demand for the French glass cleaning industry is stable, closely linked to construction and commercial real estate maintenance. Large cities like Paris have high demand for cleaning services for high-rise buildings, but are less affected by economic cycles. Employment opportunities are mainly concentrated in cleaning companies, and self-employed workers also have room for growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$25,000 | 税前年薪，常以SMIC为基准 |
-| 中级（3-10年） | $26,000~$32,000 | 税前年薪，含业绩奖金 |
-| 高级（10年以上/高塔专家） | $33,000~$45,000 | 税前年薪，高层幕墙清洁等高难度岗位薪资更高 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$25,000 | Pre-tax annual salary is often benchmarked by SMIC |
+| Intermediate (3-10 years) | $26,000~$32,000 | Pre-tax annual salary, including performance bonuses |
+| Senior (over 10 years / tower expert) | $33,000~$45,000 | Pre-tax annual salary, with higher pay for high-difficulty positions such as high-rise curtain wall cleaning |
+| average salary | $20,586 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级玻璃清洁工可通过积累经验晋升为团队领导或项目经理，也可专攻高层建筑清洁（如蜘蛛人）或特殊表面清洁技术。部分从业者选择创办清洁公司，实现自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Outdoor high-altitude work tasks for glass cleaners are difficult to replace with AI, but AI vision and drone technologies will replace some inspections, safety monitoring, and primary cleaning tasks, while enhancing efficiency evaluation and training scenarios.
+
+Junior glass cleaners can be promoted to team leader or project manager through accumulated experience, or specialize in high-rise building cleaning (such as Spider-Man) or specialized surface cleaning techniques. Some practitioners choose to start cleaning companies and achieve independent entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition automatically detects glass stains and records their location
+- Standard cleaning of lower-level windows is completed through drones and automated cleaning robots
+- The AI scheduling system automatically plans cleaning routes and priorities
+- AI safety monitoring system provides real-time warnings for risks associated with working at heights
+
+**Where AI augments the role:**
+
+- AI-enhanced high-altitude cleaning plan planning (such as wind and weather forecasts to optimize work schedules)
+- AI-assisted real-time feedback on cleaning quality, guiding repeated wiping
+- AR glasses provide safe construction guidance and operational steps
+- AI analyzes historical cleaning data of buildings to predict maintenance cycles
+- AI generates customer reports and automated cleaning records
+
+**Human moat:**
+
+- Flexible operation capability to handle non-standard structures, obstacles, and unexpected situations in complex high-altitude environments
+- On-site safety judgment and emergency response (such as equipment failures and sudden weather changes)
+- Communicate with customers about customized cleaning plans and special requirements
+- Experience in hand-treating fine decorations and surfaces of ancient buildings
+
+**Skills to build:**
+
+- Drone Operation and Maintenance (for High-altitude Detection and Assisted Cleaning)
+- Automatic cleaning robot debugging and troubleshooting
+- Use and data analysis of AI inspection software
+- Compliance with safety regulations and new technologies for working at heights
+- Customer relationship management and digital quotation tools
+- Basic programming (for custom cleaning scripts and device integration)
+
+**Key growth areas:**
 
 - building maintenance
 - high-rise cleaning
@@ -61,68 +95,67 @@ Window cleaners wash glass surfaces inside and outside buildings, including wind
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 适用于获得法国雇主聘用合同的第三国申请人，需申请工作许可，学历要求低。 |
-| Subclass Passeport Talent（Talent Passport） | 若具备专业技能或创业计划，可申请人才护照，有效期4年，可携带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 通常要求高等教育学历，玻璃清洁工较少适用，但若担任管理岗位或具备特殊资质可尝试。 |
+| Subclass Salarié (Employee Work Permit) | Suitable for third-country applicants who have obtained a French employer employment contract, requiring a work permit and low educational requirements. |
+| Subclass Passeport Talent (Talent Passport) | If you have professional skills or entrepreneurial plans, you can apply for a talent passport valid for 4 years, and you may bring your family members. |
+| Subclass Carte bleue UE (EU Blue Card) | Higher education qualifications are typically required; less relevant for window cleaners, but may be considered for management roles or with special certifications. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Window Cleaner？**
-- 不惧高、体力良好的人群
-- 偏好户外和灵活工作安排的人
-- 希望快速就业、无高学历要求者
-
-**谁不适合学Window Cleaner？**
-- 恐高或对高空作业有心理障碍者
-- 偏好室内稳定办公环境者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are not afraid of heights and have good physical fitness
+- People who prefer outdoor activities and flexible work arrangements
+- Those seeking quick employment and no high education requirements
+
+**Who is not suited**
+- Fear of heights or psychological difficulties with working at heights
+- Those who prefer a stable indoor working environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for glass cleaners in France?**
+A: Pre-tax annual salary about EUR 25,000-35,000, senior technicians can reach EUR 45,000.
+
+**Q: How can foreign glass cleaners immigrate to France?**
+A: You can apply for Salarié residency by obtaining a work contract with a French employer, or apply for Passeport Talent if you have high skills or a business plan.
+
+**Q: What certifications are required for glass cleaning in France?**
+A: Working at heights requires CACES R386 or a similar safety certificate; some positions require an electrician authorization badge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Window Cleaner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a window cleaner in France?**
-答：Gross annual salary ranges from €25,000 to €35,000, with senior specialists earning up to €45,000.
-
-**问：How can a foreign window cleaner immigrate to France?**
-答：By obtaining a job offer from a French employer and applying for a Salarié work permit, or through the Talent Passport for skilled professionals or entrepreneurs.
-
-**问：What certifications are required for window cleaning in France?**
-答：High-altitude work requires a CACES R386 or similar safety certificate; some positions may need an electrical authorization card.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

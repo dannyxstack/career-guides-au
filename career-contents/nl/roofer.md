@@ -1,59 +1,93 @@
-# Roofer（Roofer）职业分析 · NL
+# Roofer — career analysis · Netherlands
 
-**职业代码：7121 – Roofer。**
+**Occupation code: 7121 (ISCO08)**
 
-Roofers install, repair, and replace roofs on buildings using materials such as tiles, metal sheets, and waterproof membranes to ensure waterproofing, insulation, and structural integrity.
+Roofers install, repair, and replace building roofs, including tiles, metal sheets, waterproof membranes, etc., ensuring waterproofing, insulation, and structural safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | $2,000~$6,000（学费每年约2000-6000欧元，因学校和课程而异） |
-| 学徒制 | 2-4年 | —（在职培训，通常免费且有薪水） |
+| Secondary vocational education (MBO) | 3-4 years | $2,000~$6,000 (Tuition fees approximately €2,000–€6,000 per year, depending on the school and program) |
+| Apprenticeship | 2-4 years | $0~$1,000 (On-the-job training, usually free and with salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 屋顶工证书 | 荷兰建筑行业协会 (Bouwend Nederland) 或相关机构 | 必备 | 完成MBO课程或学徒项目后获得 |
-| VCA安全证书 | VCA Foundation | 必备 | 基本安全证书，许多雇主强制要求 |
-| 工作许可证 (如适用) | 荷兰移民局 (IND) | 必备 | 非欧盟公民需工作许可 |
+| Roofing certificate | Bouwend Nederland or related organizations | Required | Obtained after completing MBO courses or apprenticeship programs |
+| VCA safety certificate | VCA Foundation | Required | Basic security certificate, mandatory for many employers |
+| Work permit (if applicable) | Immigration and Naturalisation Service (IND) of the Netherlands | Required | Non-EU citizens need a work permit |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。荷兰建筑业持续增长，老旧建筑翻新需求旺盛，屋顶工就业前景良好。预计年均增长约1.5%，且劳动力短缺明显。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The Dutch construction industry continues to grow, with strong demand for renovation of old buildings, and good job prospects for roofers. Expected annual growth of about 1.5% and a significant labor shortage.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，包括基本工资和津贴 |
-| 中级（3-7年） | $35,000~$45,000 | 经验丰富，可带团队 |
-| 高级/工头（7年以上） | $45,000~$55,000 | 含管理职责或自雇收入更高 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including base salary and allowances |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced, able to lead a team |
+| Senior/ foreman (7+ years) | $45,000~$55,000 | Higher with management duties or self-employment income |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从学徒或助手起步，积累经验后可晋升为工头或自雇承包商，也可专攻绿色屋顶、太阳能屋顶等高附加值领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofers' core physical tasks and complex environmental adaptability are hard to be replaced by AI in the short term, but AI-driven automatic laying robots and intelligent detection tools will reduce simple labor positions; caution needed against replacement of tool-based work.
+
+Starting as an apprentice or assistant, you can gain experience and advance to foreman or self-employed contractor, or specialize in high-value-added areas such as green roofs and solar roofs.
+
+**Tasks most exposed to AI:**
+
+- Use AI vision systems to automatically detect roof defects and generate reports
+- AI planning tools automatically generate material cutting lists and layout plans.
+- Semi-automatic roof-laying robot installs standard tiles
+- Drone automatic inspection of roof construction progress and quality
+
+**Where AI augments the role:**
+
+- AI-assisted roof leak diagnostic system improves inspection efficiency
+- AR glasses overlay construction drawings with real-time markers, reducing misreading
+- Smart climate data AI optimizes construction window scheduling
+- AI inventory management system automatically orders and delivers materials per project
+- Voice-controlled AI assistant for handling on-site documentation and reporting
+
+**Human moat:**
+
+- Handcrafted customisation and finishing techniques for complex irregular roofs
+- physical stamina and experience for safe operation in severe weather
+- Repair assessment for special structures of old buildings (such as chimneys, skylights)
+- On-site mobility coordination and decision-making skills when colleagues encounter faults
+
+**Skills to build:**
+
+- Learn to operate semi-automatic roof-laying robots
+- Proficient in drone inspection and thermal imaging analysis
+- Interact with drawings using AR-assisted maintenance tools
+- Basic AI diagnostic software operation and data interpretation
+- Knowledge of smart materials (self-sealing membranes, photovoltaic tiles) installation
+- Digital project management and on-site collaboration tools
+
+**Key growth areas:**
 
 - Green roofs
 - Solar integrated roofs
@@ -62,68 +96,67 @@ Roofers install, repair, and replace roofs on buildings using materials such as 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需工作合同（年薪门槛约56,000欧元，短缺职业可降低）。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 针对非欧盟高技能工人，需担保雇主，年薪门槛约5,000欧元/月（30岁以上更高）。 |
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟/EEA公民无需签证即可在荷兰工作。 |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requires a work contract (annual salary threshold approx. €56,000, lower for shortage occupations). |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | For non-EU high-skilled workers, requires a sponsoring employer, annual salary threshold approximately €5,000/month (higher for those over 30). |
+| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens do not need a visa to work in the Netherlands. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roofer？**
-- 喜欢户外体力工作
-- 不惧高空作业
-- 注重细节和质量
-
-**谁不适合学Roofer？**
-- 恐高或身体条件差者
-- 偏好办公室和固定工时
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work
+- Not afraid of working at heights
+- Attention to detail and quality
+
+**Who is not suited**
+- Those with acrophobia or poor physical condition
+- Preference for office-based and fixed-hour work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a roofer in the Netherlands?**
+A: Junior roofers earn around €28,000-35,000 per year, intermediate €35,000-45,000, senior foremen up to €45,000-55,000. Self-employed earn more.
+
+**Q: How can non-EU citizens migrate to the Netherlands to work as roofers?**
+A: Can be done via Highly Skilled Migrant (Kennismigrant) or EU Blue Card, requires a work contract and employer sponsorship. Roofers are in shortage, so requirements may be relaxed.
+
+**Q: What certificates are required to work as a roofer in the Netherlands?**
+A: Requires completion of MBO roofers course or apprenticeship, and holding a VCA safety certificate. Non-EU citizens also need a work permit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Roofer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a roofer in the Netherlands?**
-答：Entry-level roofers earn €28,000-€35,000 per year, mid-level €35,000-€45,000, and senior/foremen up to €55,000. Self-employed can earn more.
-
-**问：How can non-EU citizens immigrate to work as a roofer in the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring a job offer and employer sponsorship. As a shortage occupation, lower salary thresholds may apply.
-
-**问：What qualifications are needed to be a roofer in the Netherlands?**
-答：Completion of an MBO program or apprenticeship in roofing, plus a VCA safety certificate. Non-EU nationals also need a work permit.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

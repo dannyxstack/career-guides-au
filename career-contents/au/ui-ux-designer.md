@@ -1,68 +1,96 @@
-# UI/UX设计师（Web Designer）职业分析 · 澳大利亚
+# UI/UX Designer — career analysis · Australia
 
-**职业代码：232412 – Web Designer。**
+**Occupation code: 232412 (ANZSCO)**
 
-UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS产品和政府数字服务。澳洲科技产业（Atlassian/Canva/WiseTech）对产品设计师的需求持续旺盛，Canva等公司将设计驱动的产品理念推向全球，是最适合创意型技术人才的职业之一。
+UI/UX designers create user interfaces and interactive experiences across web, mobile apps, SaaS products and government digital services. Australia's tech industry (Atlassian/Canva/WiseTech) maintains strong demand for product designers, and companies like Canva are taking design-driven product philosophy global — making this one of the most suitable careers for creative technical talent.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Design (Interaction/UX) / Computer Science（3~4年） | 3~4年（全日制） | $25,000~$160,000（或相关学位+自学UX设计课程；作品集（Portfolio）的权重高于学位） |
-| Google UX Design Certificate / Nielsen Norman UX Certification | 3~12个月 | $500~$3,000（Google UX Certificate（Coursera，约 $50/月）是转行路径的入门认证） |
-| ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须，232412按Web Designer类别评估） |
+| Bachelor of Design (Interaction/UX) / Computer Science (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (Or a related degree plus self-taught UX design courses; portfolio weight is higher than degree credentials) |
+| Google UX Design Certificate / Nielsen Norman UX Certification | 3–12 months | $500~$3,000 (Google UX Certificate (Coursera, approx. $50/month) is an entry-level certification for career changers) |
+| ACS skills assessment (189/190 visa) | 2–6 months | $500~$1,500 (Required for skilled migration; ANZSCO 232412 is assessed under the Web Designer category) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Design (Interaction/Digital) | 认可大学 | 可选 | UX岗位最直接相关的学历，ACS评估认可 |
-| Google UX Design Certificate | Google / Coursera | 可选 | 广泛认可的UX入门认证，适合转行者 |
-| Nielsen Norman Group UX Certification | Nielsen Norman Group | 可选 | 业界最权威的UX研究和设计认证，高级岗位的强烈推荐 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| Bachelor of Design (Interaction/Digital) | Recognised university | Optional | The most directly relevant qualification for UX roles; recognised by ACS assessments |
+| Google UX Design Certificate | Google / Coursera | Optional | A widely recognised entry-level UX certification, ideal for career changers |
+| Nielsen Norman Group UX Certification | Nielsen Norman Group | Optional | The most authoritative UX research and design certification in the industry; strongly recommended for senior roles |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 48,000。JSA 预测网页和数字设计师至2035年就业增长约15%。AI设计工具（Figma AI/Adobe Firefly）提高生产率，但策略性设计思维和用户研究的价值反而提升。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. JSA forecasts approximately 15% employment growth for web and digital designers by 2035. AI design tools (Figma AI/Adobe Firefly) boost productivity, but the value of strategic design thinking and user research has actually increased.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 800~2,000 个 | 全国，含UX设计师、产品设计师、UI工程师和设计研究员岗 |
-| Indeed | 600~1,500 个 | 含合同工和远程设计岗 |
-| LinkedIn | 1,200~3,000 个 | 科技公司直招，产品设计岗比例高 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级UX/UI设计师（0~2年） | $65,000~$85,000 | 含毕业生和转行者，悉尼/墨尔本科技公司高于均值 |
-| 中级UX/UI设计师（2~5年） | $85,000~$120,000 | SEEK UX区间 $100k~$120k；Indeed 平均 $103,812（2026） |
-| 高级/产品设计师（5~10年） | $120,000~$160,000 | 含设计系统负责人和设计Lead |
-| 设计总监 / Head of Design（10年+） | $160,000~$250,000 | Canva/Atlassian等顶尖公司设计总监薪资可超 $200k |
+| Median salary | $96,200 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior UX/UI designer (0–2 years) | $65,000~$85,000 | Includes graduates and career changers; Sydney/Melbourne tech companies pay above average |
+| Mid-level UX/UI Designer (2–5 years) | $85,000~$120,000 | SEEK UX range $100k–$120k; Indeed average $103,812 (2026) |
+| Senior / Product Designer (5–10 years) | $120,000~$160,000 | Includes design system leads and design leads |
+| Design Director / Head of Design (10+ years) | $160,000~$250,000 | Design Directors at top companies like Canva/Atlassian can earn over $200k |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系统（Design System）管理是2025-2026年薪资溢价最高的细分技能。AI生成式设计加速了产品迭代，但提升了对高级设计师的需求。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
+
+Figma has become the definitive UI/UX design tool in Australia. Design Tokens and Design System management are the highest-premium specialist skills for 2025–2026. Generative AI design is accelerating product iteration while increasing demand for senior designers.
+
+**Tasks most exposed to AI:**
+
+- Low-risk hand-drawn wireframes and high-fidelity UI generation (e.g., AI automatically producing multiple interface versions from text)
+- Automatic slicing and annotation output for developers (AI tools like Figma plugins generate code specifications with one click)
+- Design basic A/B test variants (AI automatically generates and tests multiple layouts)
+- Simple icon and illustration creation (AI image generation tools quickly provide alternative materials)
+
+**Where AI augments the role:**
+
+- Quickly Generate Design Prototypes and Systems, Reducing Time from Concept to Clickable Prototype by 70%
+- Optimize Information Architecture and Interaction Flow Using AI Analysis of User Behavior Data
+- Using AI tools for automated recording and pattern recognition in usability testing (e.g., recording user actions and highlighting pain points)
+- Generate design specification documents and component libraries to maintain design consistency across products
+
+**Human moat:**
+
+- User empathy and real needs insight (in-depth interviews, field research, empathy maps)
+- Brand tone and emotional design decisions (meaning behind colors, fonts, animations)
+- Cross-Departmental Communication and Design Proposal Persuasion (Explaining Design Rationale to Non-Designers)
+- Design of complex logic and error states (e.g., exception handling in bank transfer processes)
+- Creative direction and visual storytelling (defining design language from 0 to 1)
+
+**Skills to build:**
+
+- Practical use of AI design tools (e.g., Figma AI, Uizard, Galileo AI, Midjourney prompt engineering)
+- User Research Methods (in-depth interviews, usability testing, statistical analysis)
+- Design system construction and component-based thinking (atomic design methodology)
+- Basic front-end knowledge (HTML/CSS/React component development)
+- Data visualization and A/B testing analysis (Google Analytics, Amplitude)
+- Cross-role collaboration (working with PM, development, marketing)
+
+**Key growth areas:**
 
 - AI-Augmented UX Design
 - Product Design for SaaS & Fintech
@@ -72,90 +100,86 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，科技公司UX岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，ACS技能评估+EOI |
-| Subclass 190（Skilled Nominated） | 州提名，NSW/VIC科技通道 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored UX roles at technology companies |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based, ACS skills assessment + EOI |
+| Subclass 190 (Skilled Nominated) | State nomination — NSW/VIC technology stream |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学UI/UX设计师？**
-- 有Figma/Sketch/Adobe XD实际项目经验（2年以上）
-- 有强设计作品集（Portfolio），能展示设计思维和用户研究过程
-- 有用户研究（User Research）和可用性测试经验
-- 英语能力达到 IELTS 6.5+（设计汇报和跨团队沟通要求）
-- 目标是悉尼/墨尔本科技公司（Atlassian/Canva生态）
-
-**谁不适合学UI/UX设计师？**
-- 没有设计作品集（Portfolio），无法展示实际设计项目
-- 英语沟通能力较弱，无法进行设计评审和用户访谈
-- 对用户体验研究不感兴趣，仅关注视觉美观
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Practical project experience with Figma/Sketch/Adobe XD (2+ years)
+- Holds a strong design portfolio demonstrating design thinking and user research processes
+- Experience in user research and usability testing
+- English proficiency at IELTS 6.5+ (required for design presentations and cross-team communication)
+- Targeting tech companies in Sydney/Melbourne (Atlassian/Canva ecosystem)
+
+**Who is not suited**
+- No design portfolio; unable to demonstrate actual design projects
+- Weak English communication skills, unable to participate in design reviews or user interviews
+- Not interested in user experience research and focused solely on visual aesthetics
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a UI/UX designer in Australia?**
+A: Mid-level UX designer salary is approximately $85,000–$120,000 (Indeed average $103,812); senior product designer approximately $120k–$160k; design director roles at companies such as Canva or Atlassian can exceed $200k.
+
+**Q: Is it easy to find work as a UX designer in Australia?**
+A: Moderate difficulty. Seek lists approximately 800–2,000 positions; competition for junior roles is relatively strong and a solid portfolio is essential; senior product designers with design system experience are in very short supply.
+
+**Q: Is Chinese UX design experience recognised in Australia?**
+A: Through ACS skills assessment (recommended using CS/digital design related qualification assessment), a design portfolio is the most important proof of ability. Importantly, the portfolio must include an explanation of the design thinking process in English.
+
+**Q: Will UX designers be replaced by AI?**
+A: AI tools are disrupting UI asset creation (icons, colour schemes, basic layouts), but user research, design strategy, design system architecture, and collaboration with PMs and engineers remain irreplaceable. AI is actually enabling designers to take on more strategic work.
+
+**Q: Is there an age limit for UX designers in Australia?**
+A: None. Designers with deep domain expertise (e.g. healthcare UX, finance UX) remain highly valued well past 40.
+
+**Q: What qualifications do UX designers need in Australia?**
+A: A design or CS-related degree is the mainstream route, but career changers with a strong portfolio and a Google UX Certificate also have opportunities to enter the field. ACS skill assessments have a relatively narrow scope of recognition for design qualifications — it is advisable to consult ACS directly for your specific situation.
+
+**Q: Is it hard to get UX Designer certification in Australia as a migrant?**
+A: Moderate difficulty. ACS assessment is stricter for designers without an IT background; portfolio quality is critical; fewer job openings than development roles, so employer-sponsored 482 may be faster.
+
+**Q: Which is more suitable for migrating to Australia — UX designer or software engineer?**
+A: The migration pathway for software engineers is clearer (with roughly 5–10 times more job openings and a simpler ACS assessment); UX designers face less competition (a better supply-to-demand ratio) but have a smaller total job pool. Those with a design background should consider UX; those with a technical background should consider software engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | UX设计师薪资 $100k~$120k（2026） |
-| Indeed AU | UI/UX设计师平均薪资 $103,812（2026） |
-| ACS | 技能评估机构 |
-| Department of Home Affairs | 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-UI/UX设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲UI/UX设计师工资多少？**
-答：中级UX设计师约 $85,000~$120,000（Indeed均值 $103,812）；高级产品设计师约 $120k~$160k；Canva/Atlassian设计总监可超 $200k。
-
-**问：澳洲UX设计师容易找工作吗？**
-答：中等难度。Seek 挂牌约 800~2000 个职位，初级岗竞争较激烈，需要强作品集；有设计系统经验的高级产品设计师极为稀缺。
-
-**问：中国UX设计经验澳洲认可吗？**
-答：通过 ACS 技能评估（建议用CS/数字设计相关学历评估），设计作品集（Portfolio）是最重要的能力证明。重要的是作品集中需包含英文的设计思维过程说明。
-
-**问：UX设计师会被AI替代吗？**
-答：UI资产生成（图标/配色/基础布局）受AI工具冲击，但用户研究、设计策略、设计系统架构和与PM/工程师的协作不可替代。AI反而让设计师能做更多战略性工作。
-
-**问：澳洲UX设计师有年龄限制吗？**
-答：无。具有深厚行业领域知识的设计师（如医疗UX、金融UX）在40岁以上仍然极具价值。
-
-**问：澳洲UX设计师需要什么学历？**
-答：设计/CS相关学位是主流，但强作品集+Google UX Certificate的转行者也有入职机会。ACS技能评估对设计学历的认可范围相对较窄，建议咨询ACS具体情况。
-
-**问：澳洲UX设计师认证（移民）难吗？**
-答：难度中等。ACS评估对非IT学历设计师较严格；作品集质量是关键；职位数量少于开发岗位，雇主担保482可能更快。
-
-**问：UX设计师和软件工程师哪个更适合移民澳洲？**
-答：软件工程师移民路径更清晰（职位数多约5~10倍，ACS评估更简单）；UX设计师竞争压力较小（供需比更好），但职位总量少。有设计背景者选UX，有技术背景者选软件工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Ships' Engineer（Ships' Engineer）职业分析 · NL
+# Ships' Engineer — career analysis · Netherlands
 
-**职业代码：3151 – Ships' Engineer。**
+**Occupation code: 3151 (ISCO08)**
 
-Ships' engineers operate, maintain, and repair mechanical and electrical systems on vessels, ensuring safe and efficient navigation. They work on merchant ships, ferries, offshore rigs, etc., requiring certification and adaptability to sea life.
+Marine engineers operate, maintain, and repair mechanical and electrical systems on ships to ensure safe and efficient navigation. They work on merchant vessels, ferries, drilling rigs, etc., and typically need certification and adapt to life at sea.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | $2,000~$6,000（公立MBO年学费约2000-6000欧元，另有生活费） |
-| 应用科学大学（HBO） | 4年（本科） | $10,000~$15,000（本科年学费约10000-15000欧元，非欧盟学生更高） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $2,000~$6,000 (Public MBO annual tuition fees around 2000-6000 euros, plus living expenses) |
+| University of Applied Sciences (HBO) | 4 years (bachelor's degree) | $10,000~$15,000 (Undergraduate tuition about 10,000-15,000 EUR/year, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW基本安全培训 | 荷兰海事管理局 | 必备 | 国际公约要求，所有海员必备 |
-| 轮机员适任证书（III/1或III/2） | 荷兰人类环境与运输监察局 | 必备 | 根据等级对应管理级或操作级 |
-| 荷兰语能力（B1或以上） | 荷兰移民局 | 可选 | 高技能移民通常要求，部分岗位可放宽 |
+| STCW Basic Safety Training | Netherlands Maritime Authority | Required | Required by international conventions, essential for all seafarers. |
+| Marine Engineer Certificate of Competency (III/1 or III/2) | Human Environment and Transport Inspectorate of the Netherlands | Required | Corresponds to management or operational level based on grade |
+| Dutch language proficiency (B1 or above) | Immigration Netherlands | Optional | Often required for skilled migration, some positions may relax this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。荷兰作为航运强国，拥有鹿特丹港等世界级港口，对船舶工程师需求稳定。随着绿色航运和自动化技术发展，具备环保系统维护能力的人才更受欢迎。就业前景良好，但需持有STCW等国际证书。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. As a maritime power, the Netherlands has world-class ports like Rotterdam, creating steady demand for marine engineers. With the development of green shipping and automation technology, talents capable of maintaining eco-friendly systems are more popular. Job prospects are good, but international certificates like STCW are required.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理轮机员或实习工程师，税前年薪 |
-| 中级（4-10年） | $50,000~$70,000 | 二管轮或大管轮，税前年薪 |
-| 高级（10年以上） | $70,000~$95,000 | 轮机长，税前年薪，远洋航线可能更高 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant engineer or trainee engineer, pre-tax annual salary |
+| Mid-level (4-10 years). | $50,000~$70,000 | Second or chief engineer, annual salary before tax |
+| Senior (10+ years) | $70,000~$95,000 | Chief Engineer, pre-tax annual salary, may be higher on deep-sea routes |
+| average salary | $61,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级工程师可从助理岗位起步，积累海上资历后可晋升为二管轮、大管轮，最终成为轮机长。部分人转向岸基管理职位，如船舶监造、海事检验或技术管理。持续学习和考取高级证书是晋升关键。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Junior engineers can start as assistants, accumulate sea time to advance to second engineer, first engineer, and eventually chief engineer. Some transition to shore-based management roles such as ship supervision, marine survey, or technical management. Continuous learning and obtaining advanced certifications are key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Green shipping
 - Automation
@@ -62,68 +98,67 @@ Ships' engineers operate, maintain, and repair mechanical and electrical systems
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于认可担保雇主的高技能移民，需满足薪资门槛（2025年约€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高等教育和较高薪资（≥€5,798/月），持有者可在欧盟内流动工作。 |
-| Subclass Orientation Year（Orientation Year） | 针对在荷兰毕业或全球排名前200高校的硕士/博士，给予一年求职期。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled migrants employed by an approved sponsor employer, subject to salary threshold (approx. €5,331/month in 2025). |
+| Subclass EU Blue Card (EU Blue Card) | For higher education and higher salaries (≥€5,798/month), holders can move and work within the EU. |
+| Subclass Orientation Year (Orientation Year) | Offers a one-year job search period for master's/PhD graduates from Dutch or top 200 global universities. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ships' Engineer？**
-- 适应长时间海上工作，能忍受孤独与封闭环境
-- 动手能力强，擅长机械和电气系统维修
-- 愿意考取国际证书并持续学习新技术
-
-**谁不适合学Ships' Engineer？**
-- 晕船或无法适应海上颠簸生活
-- 希望每天回家、生活规律固定
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to endure long periods of work at sea, and tolerate isolation and confined environments
+- Strong hands-on skills, proficient in mechanical and electrical system maintenance
+- Willing to obtain international certifications and continuously learn new technologies
+
+**Who is not suited**
+- Seasickness or inability to adapt to life at sea
+- Prefer to go home every day and have a fixed routine
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of marine engineers in the Netherlands?**
+A: Entry-level approx. €35k–50k, mid-level €50k–70k, senior chief engineer up to €70k–95k or more; deep-sea routes often have additional allowances.
+
+**Q: How can overseas marine engineers immigrate to the Netherlands?**
+A: Can apply via Highly Skilled Migrant (needs recognized employer) or EU Blue Card (requires high salary). Usually requires STCW certificate and at least B1 Dutch.
+
+**Q: What certificates are needed to work in the Netherlands?**
+A: Must hold STCW Basic Safety Training and corresponding Marine Engineer Officer certificates (e.g., III/1 Operational Level or III/2 Management Level). Dutch language ability is not mandatory but recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Ships' Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for ships' engineers in the Netherlands?**
-答：Entry-level around €35k-50k, mid-level €50k-70k, senior chief engineer up to €70k-95k or more, with additional allowances for deep-sea voyages.
-
-**问：How can foreign ships' engineers immigrate to the Netherlands?**
-答：Via Highly Skilled Migrant (with recognized sponsor) or EU Blue Card (high salary). Requires STCW certification and at least B1 Dutch.
-
-**问：What certifications are needed to work in the Netherlands?**
-答：Mandatory STCW basic safety training and engineer officer certificate (e.g., III/1 operational or III/2 management level). Dutch language ability is recommended but not mandatory.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

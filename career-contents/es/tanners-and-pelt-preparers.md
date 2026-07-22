@@ -1,60 +1,93 @@
-# Tanners And Pelt Preparers（Tanners And Pelt Preparers）职业分析 · ES
+# Tanners And Pelt Preparers — career analysis · Spain
 
-**职业代码：7836 – Tanners And Pelt Preparers。**
+**Occupation code: 7836 (CNO)**
 
-Tanners convert raw animal hides into durable leather through chemical and mechanical processes such as liming, unhairing, tanning, dyeing and finishing.
+Tanners are responsible for transforming raw animal hides into durable leather through chemical and mechanical processes, including steps such as soaking, dehairing, tanning, dyeing, and finishing.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $600~$1,500（公立FP学费每学期约300-750欧元） |
-| 高级职业教育（FP Grado Superior） | 2年 | $700~$2,000（公立FP Grado Superior学费每年约350-1000欧元） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $600~$1,500 (Public FP tuition is about 300-750 euros per semester) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $700~$2,000 (The tuition fee for the public FP Grado Superior is about 350-1000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP中等职业教育（皮料加工） | 西班牙教育部授权学校 | 必备 | 必备学历，涵盖鞣制、染色等基础技能 |
-| 职业卫生安全认证 | 劳工部认可的培训机构 | 必备 | 操作化学品的法定要求 |
+| FP Secondary Vocational Education (Leather Processing) | Authorized by the Spanish Ministry of Education | Required | Required academic qualifications, covering basic skills such as tanning and dyeing |
+| Occupational health and safety certification | Training institutions recognized by the Department of Labor | Required | Statutory requirements for handling chemicals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,200。西班牙皮革加工业历史悠久，但受环保法规和合成材料竞争影响，从业人数持续下降。预计未来5年岗位减少约10%，主要集中在小型传统作坊。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,200. Spain's leather processing industry has a long history, but due to environmental regulations and competition from synthetic materials, the number of practitioners has been steadily declining. It is expected that job positions will decrease by about 10% over the next five years, mainly concentrated in small traditional workshops.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 学徒或助手岗位 |
-| 中级（3-8年） | $20,000~$26,000 | 熟练工 |
-| 高级（8年以上） | $26,000~$32,000 | 工头或技术员 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Apprenticeship or assistant positions |
+| Mid-level (3–8 years) | $20,000~$26,000 | Skilled worker |
+| Senior (8+ years) | $26,000~$32,000 | foreman or technician |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级鞣革工可通过积累经验晋升为工头或质量控制员，部分进入化工供应商做技术支持。但行业萎缩导致晋升空间有限，多数岗位为终身职位。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The core manual and sensory experience of tanners is difficult to fully replace by AI, but AI can significantly improve efficiency in quality control, process optimization, and document processing. Entry-level positions have narrowed slightly due to the widespread adoption of automated inspection systems.
+
+Junior tanners can be promoted to foreman or quality controller through accumulated experience, and some join chemical suppliers for technical support. However, the shrinking industry has limited room for promotion, and most positions are lifetime positions.
+
+**Tasks most exposed to AI:**
+
+- Uses an AI vision system to automatically detect leather surface defects, replacing manual visual inspection
+- Sensors and algorithms automatically control the chemical dosage and time of processes such as soaking and tanning
+- Using AI to analyze leather inventory data and automatically generate procurement and scheduling reports
+- Robots are used to perform repetitive manual tasks such as leather handling and sorting
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of leather pH, humidity, and other parameters helps workers precisely adjust the tanning process
+- Predict dyeing formulas based on historical data, reducing trial-and-error costs and waste
+- Using augmented reality (AR) to guide beginners through complex cutting and splicing operations
+- AI recommends the optimal leather cutting path to improve the skin yield
+- Automated quality report generation allows workers to focus on decision-making and problem-solving
+
+**Human moat:**
+
+- Judgment and intuitive experience for the texture and imperfections of the leather by hand
+- Flexible strain and fine repair for non-standard leather materials (such as scars and texture variations).
+- Artistic dyeing and texture design tailored to customer customization needs
+- Cross-process coordination and on-site decision-making for unexpected issues (such as equipment failures or raw material variations).
+
+**Skills to build:**
+
+- Basic data analysis and visualization (such as Python, Tableau)
+- Operation and parameter optimization of the AI quality inspection system
+- Digital twin simulation software (such as leather process simulation)
+- Sustainable leather craftsmanship and environmental compliance knowledge
+- Cross-disciplinary communication and supply chain collaboration capabilities
+
+**Key growth areas:**
 
 - leather processing
 - artisan craftsmanship
@@ -63,64 +96,63 @@ Tanners convert raw animal hides into durable leather through chemical and mecha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，工作合同需证明无法在欧盟内招聘到合适工人。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙停留6-12个月找工作，但通常适用于高技能职业，鞣革工不符合要求。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Requires employer sponsorship; work contract must prove inability to recruit suitable workers within the EU. |
+| Subclass Busqueda empleo (Job search visa) | You are allowed to stay in Spain for 6-12 months looking for work, but this usually applies to high-skilled occupations; tanners do not meet the requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tanners And Pelt Preparers？**
-- 喜欢动手操作、对传统手工艺有热情的人
-- 愿意在中小型工厂或作坊工作，接受较低薪资
-
-**谁不适合学Tanners And Pelt Preparers？**
-- 期望高收入或快速晋升的人
-- 对化学气味和体力劳动敏感的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are passionate about traditional crafts
+- Willing to work in small or medium-sized factories or workshops, accepting lower wages
+
+**Who is not suited**
+- Those who expect high income or rapid promotion
+- People sensitive to chemical odors and physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the wage level for tanners in Spain?**
+A: Starting salary is about 16,000-20,000 euros per year, senior can reach 32,000 euros per year, but the overall industry salary is low with slow growth.
+
+**Q: Can non-EU immigrants obtain Spanish residency through this occupation?**
+A: It is very difficult; this occupation is not considered high-skilled or in short supply, the immigration pathway only includes ordinary job sponsorship, and applicants must prove they cannot recruit in the EU.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tanners And Pelt Preparers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of tanners in Spain?**
-答：Entry-level salary ranges from €16,000 to €20,000 per year, while senior workers can earn up to €32,000, but overall pay is low with slow growth.
-
-**问：Can non-EU immigrants obtain residency through this occupation in Spain?**
-答：Very difficult. This occupation is not high-skilled or in shortage. The only route is employer sponsorship, requiring proof that no EU workers are available.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

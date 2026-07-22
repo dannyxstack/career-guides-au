@@ -1,63 +1,94 @@
-# 心理咨询师（Counsellor）职业分析 · 澳大利亚
+# Counsellor — career analysis · Australia
 
-**职业代码：272199 – Counsellor。**
+**Occupation code: 272199 (ANZSCO)**
 
-心理咨询师为个人、家庭提供情绪、心理健康、成瘾等咨询支持，澳洲心理健康需求上升，部分州可技术移民（需相关学位与评估）。
+Counsellors provide emotional, mental health, and addiction support to individuals and families. With rising demand for mental health services in Australia, some states offer skilled migration pathways (a relevant degree and assessment are required).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Counselling/Psychology | 3年 | $25,000~$42,000（—） |
-| Master of Counselling | 1.5~2年 | $28,000~$50,000（专业方向） |
+| Bachelor of Counselling/Psychology | 3 years | $25,000~$42,000 (—) |
+| Master of Counselling | 1.5–2 years | $28,000~$50,000 (Specialisation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ACA / PACFA 注册 | 行业协会 | 可选 | 执业与移民加分 |
-| 相关本科及以上 | 认可大学 | 可选 | 入行基础 |
+| ACA / PACFA registration | Industry association | Optional | Professional practice and migration points |
+| Relevant bachelor's degree or above | Recognised university | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 40,000。心理健康投入持续增加，远程咨询与专科方向需求快速上升。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. Investment in mental health continues to grow, with rapid increases in demand for telehealth and specialist services.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~2,600 个 | 全国 |
-| Indeed | 1,000~1,900 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $70,000~$85,000 | — |
-| 中级 | $85,000~$105,000 | — |
-| 资深/专科 | $105,000~$125,000 | 私人执业更高 |
+| Median salary | $112,008 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $70,000~$85,000 | — |
+| Intermediate | $85,000~$105,000 | — |
+| Senior / Specialist | $105,000~$125,000 | Higher in private practice |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需相关本科/硕士+注册（如ACA/PACFA）；可向临床、专科方向发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
+
+Requires a relevant bachelor's or master's degree plus registration (e.g. ACA/PACFA); career progression into clinical or specialist areas is possible.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and analysis of initial psychological assessment and diagnostic questionnaires
+- AI-assisted writing of treatment notes, progress reports, treatment plans, and other documents
+- Symptom-based initial information retrieval and standardized advice provision
+- Automated reminders and cognitive behavioral training programs based on preset plans
+- Online programs for self-help interventions for common mental health issues (e.g., mild anxiety, depression)
+
+**Where AI augments the role:**
+
+- Real-time tone and emotion analysis to help counselors identify potential issues
+- Data-driven personalized treatment recommendations and outcome prediction
+- AI-simulated client role-play for skill training and supervision
+- Automatically compile meeting minutes and extract key topics and progress indicators
+- Multimodal data analysis (facial expressions, voice) to enhance diagnostic accuracy
+
+**Human moat:**
+
+- Building a safe and trusting therapeutic alliance with deep empathy
+- Clinical judgment and ethical decision-making in complex situations (e.g., suicide risk assessment)
+- Handling unstructured, emotionally complex interviews and crisis intervention
+- Cultural sensitivity and personalized treatment adjustments
+- Immediate intuition and creative intervention during treatment
+
+**Skills to build:**
+
+- Application and integration of AI-assisted tools (e.g., intelligent diagnostics, document automation)
+- Data analysis and interpretation skills (using AI to process structured assessment data)
+- Operation and personalized adjustment of digital therapy platforms
+- Remote consultation and digital communication skills
+- Ethics and privacy management (compliant use of AI and client data)
+- Continuous learning ability (track cutting-edge AI applications in mental health)
+
+**Key growth areas:**
 
 - Mental Health
 - Family/Relationship
@@ -66,66 +97,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated） | 部分州提名 |
-| Subclass 491（Skilled Work Regional） | 偏远加分 |
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居 |
+| Subclass 190 (Skilled Nominated) | Partial state nomination |
+| Subclass 491 (Skilled Work Regional) | Regional Sponsored |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent Residency |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学心理咨询师？**
-- 有同理心、愿助人者
-- 关注心理健康领域并愿读相关学位者
-
-**谁不适合学心理咨询师？**
-- 不愿处理情绪压力者
-- 期望快速高薪者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Empathetic and willing to help others
+- Interested in the mental health sector and willing to undertake a relevant degree
+
+**Who is not suited**
+- Those unwilling to manage emotional stress
+- Those seeking fast and high-paying outcomes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a counselling psychologist in Australia?**
+A: Approximately AUD $70,000-$125,000, with private practice and specialties commanding higher rates.
+
+**Q: Can a counsellor migrate to Australia on a skilled visa?**
+A: Possible, but varies by state. Counsellor (272199) appears on some state nomination lists, requiring a relevant degree and professional association registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-心理咨询师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲心理咨询师工资多少？**
-答：约AUD $7万~$12.5万，私人执业与专科更高。
-
-**问：心理咨询师能技术移民吗？**
-答：可以但视州而定。Counsellor（272199）在部分州提名清单上，需相关学位与协会注册。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

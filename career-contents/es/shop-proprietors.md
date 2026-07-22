@@ -1,59 +1,95 @@
-# Shop Proprietors（Shop Proprietors）职业分析 · ES
+# Shop Proprietors — career analysis · Spain
 
-**职业代码：5300 – Shop Proprietors。**
+**Occupation code: 5300 (CNO)**
 
-Manage day-to-day operations of retail stores, including purchasing, inventory management, sales, and customer service.
+Responsible for the daily operations of retail stores, including merchandise procurement, inventory management, sales, and customer service.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Superior） | 2年 | —（公立学校免学费，仅少量注册费） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学年均学费，商科类） |
+| Vocational Education (FP Grado Superior) | 2 years | $0~$1,000 (Public schools are free of tuition, with only a small registration fee) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Annual tuition at public universities, business majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | - | 可选 | 开店无需特定学历，但商业知识有帮助 |
+| No mandatory requirements | - | Optional | No specific education is required to open a store, but business knowledge can help |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙零售业竞争激烈，但小型店铺和特色商店仍有生存空间。电商冲击下，实体店需提升体验式服务。就业增长平稳，主要受消费支出和旅游业影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Spain's retail industry is highly competitive, but small shops and specialty stores still have room to survive. Under the impact of e-commerce, physical stores need to enhance experiential services. Employment growth was steady, mainly influenced by consumer spending and tourism.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，视店铺规模和利润 |
-| 中级（3-10年） | $24,000~$40,000 | 经验丰富后利润分成或自营收入 |
-| 高级（10年以上/大型店铺） | $40,000~$70,000 | 大型店铺或连锁店主收入更高 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary depends on store size and profit |
+| Intermediate (3-10 years) | $24,000~$40,000 | Profit-sharing or proprietary income after extensive experience |
+| Premium (over 10 years / large store) | $40,000~$70,000 | Large stores or chain owners earn higher incomes |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从个体店铺起步，逐步扩大经营规模或开设连锁店。也可向零售管理、区域经理或自有品牌发展。部分店主转向电商或线上线下结合模式。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+You can start with individual stores, gradually expand your operations, or open chain stores. You can also develop into retail management, regional managers, or private labels. Some store owners have shifted to e-commerce or a combination of online and offline models.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - Retail Trade
 - Entrepreneurship
@@ -62,65 +98,67 @@ Manage day-to-day operations of retail stores, including purchasing, inventory m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (employed)） | 受雇于零售公司作为店铺经理可申请工作居留，需雇主担保。 |
-| Subclass Autónomo（Self-Employment Visa） | 作为个体户开店需申请自雇居留，需提交商业计划书和资金证明。 |
+| Subclass Cuenta ajena (Work Permit (employed)) | Employees employed by retail companies as store managers can apply for work-based residence with employer sponsorship. |
+| Subclass Autónomo (Self-Employment Visa) | To open a store as an individual business, you need to apply for self-employment residence and submit a business plan and proof of funds. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shop Proprietors？**
-- 有创业精神和风险承受能力的人
-- 善于沟通和客户服务的人
-- 愿意长时间工作并处理多任务的人
+**Who is suited**
+- People with entrepreneurial spirit and risk tolerance
+- People who are good communicators and customer service
+- People willing to work long hours and handle multiple tasks
 
-**谁不适合学Shop Proprietors？**
-- 追求稳定工作和固定作息的人
-- 不擅长财务管理或库存管理的人
+**Who is not suited**
+- People who pursue stable jobs and a regular schedule
+- People who are not good at financial or inventory management
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much does a small store in Spain typically earn per year?**
+A: Small shop owners' after-tax profit usually ranges between EUR 18,000 and 30,000, depending on shop type, location, and operations.
+
+**Q: Can non-EU citizens obtain Spanish residency by opening a shop?**
+A: You can apply for self-employment residence (Autónomo), but you must submit a detailed business plan, proof of funds, and meet the investment requirements. It is generally recommended to seek professional immigration consultants.
+
+**Q: Does the shop owner have room for promotion?**
+A: You can develop from a single store to multi-store operations or franchise chains, or transform into a regional manager or wholesaler, but promotion depends more on personal development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shop Proprietors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income for a small shop owner in Spain?**
-答：Small shop owners typically earn between €18,000 and €30,000 after tax, depending on store type, location, and performance.
-
-**问：Can non-EU citizens obtain residency by opening a shop in Spain?**
-答：Yes, through the self-employment visa (Autónomo), which requires a business plan, proof of funds, and minimum investment. Professional advice is recommended.
-
-**问：Are there promotion opportunities for shop proprietors?**
-答：Yes, from single store to multiple stores or franchising, or transitioning to regional manager or wholesaler, though career progression depends on personal expansion.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

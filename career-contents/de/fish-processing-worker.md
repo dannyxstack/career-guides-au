@@ -1,58 +1,94 @@
-# Fish Processing Worker（Fish Processing Worker）职业分析 · DE
+# Fish Processing Worker — career analysis · Germany
 
-**职业代码：2924 – Fish Processing Worker。**
+**Occupation code: 2924 (KldB)**
 
-Performs slaughtering, cutting, deboning, freezing, and packaging of fish to ensure hygiene and quality standards. Works in food processing plants or fishing ports.
+Performs slaughtering, cutting, deboning, freezing, packaging, and other processing work on fish, ensuring products meet hygiene and quality standards. Typically works in food processing plants or fishing ports.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年（双元制） | —（培训期间有津贴，企业承担学费，个人仅需少量杂费。） |
-| 短期培训/入职培训 | 3-6个月 | —（部分岗位提供在职培训，费用由雇主承担。） |
+| Dual vocational training (Ausbildung) | 3 years (dual system) | $0~$500 (Trainees receive an allowance, tuition covered by the company, individuals only need to pay a small incidental fee.) |
+| Short-term training/onboarding | 3-6 months | $0~$2,000 (Some positions offer on-the-job training, with costs covered by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书（Lebensmittelhygiene-Bescheinigung） | 当地卫生局（Gesundheitsamt） | 必备 | 从事食品加工必需，通过简单培训获得。 |
-| 职业培训证书（Fachkraft für Fischerei- und Verarbeitungswirtschaft） | 工商会（IHK） | 可选 | 完成双元制培训后获得，提升就业竞争力。 |
+| Food hygiene certificate (Lebensmittelhygiene-Bescheinigung) | Local health authority (Gesundheitsamt). | Required | Necessary for food processing; obtained through simple training. |
+| Vocational Training Certificate (Fachkraft für Fischerei- und Verarbeitungswirtschaft) | Chamber of Commerce and Industry (IHK) | Optional | Awarded upon completion of dual system training, enhancing employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国渔业加工行业稳定，受国内消费和出口需求支撑。自动化程度提高，但手工岗位仍有需求。沿海地区（如石荷州、梅前州）就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The German fishery processing industry is stable, supported by domestic consumption and export demand. Automation is increasing, but manual positions are still in demand. Coastal regions (e.g., Schleswig-Holstein, Mecklenburg-Vorpommern) have more job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 培训后起薪约2.4万欧元，随经验增长。 |
-| 中级（3-7年） | $30,000~$36,000 | 熟练工年薪可达3.6万欧元。 |
-| 高级（7年以上） | $36,000~$42,000 | 主管或技术专家年薪可达4.2万欧元。 |
+| Median salary | $38,760 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary after training is approx. €24,000, increasing with experience. |
+| Mid-level (3–7 years) | $30,000~$36,000 | Skilled workers can earn an annual salary of up to €36,000. |
+| Senior (7+ years) | $36,000~$42,000 | Supervisor or technical specialist annual salary up to €42,000. |
+| average salary | $41,568 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★★☆☆☆）。** 可晋升为生产线主管、质量控制员或技术员。通过进修可转向食品技术或管理岗位。部分工人可成立小型加工企业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Fish processing workers face high automation substitution risk, especially in repetitive physical tasks like processing, deboning, freezing and packaging, but quality inspection and complex manual operations still require human judgment.
+
+Can advance to production line supervisor, quality controller, or technician. Further study can lead to food technology or management roles. Some workers can start small processing businesses.
+
+**Tasks most exposed to AI:**
+
+- Automatic deboning machine removes fish bones
+- Machine vision systems for size grading and defect detection
+- Automated freezing and packaging assembly line operations
+- Digital systems for inventory management and order printing
+- Robots perform repetitive cutting and slitting operations
+
+**Where AI augments the role:**
+
+- AI-assisted quality inspection systems improve defect recognition accuracy
+- Predictive maintenance software optimizes equipment repair schedules.
+- Image recognition technology used for fish species identification and freshness assessment
+- Digital scheduling systems improve production scheduling efficiency
+- Sensor data analysis to improve processing parameter settings
+
+**Human moat:**
+
+- Fine manual handling of fragile or special fish
+- Experience in handling rare or non-standard fish species
+- Compliance responsibilities and on-site decision-making in food safety regulation
+- Teamwork and emergency response capabilities
+- Tacit knowledge of equipment debugging and process optimisation
+
+**Skills to build:**
+
+- Automated equipment operation and basic maintenance
+- Data collection and analysis (e.g., Excel, statistical tools)
+- Basic programming (e.g., Python for equipment monitoring)
+- Food safety and quality control systems (e.g., HACCP)
+- Use of digital tools (e.g., ERP systems)
+- Human-machine collaboration and multi-skilling
+
+**Key growth areas:**
 
 - Food processing
 - Seafood industry
@@ -61,68 +97,67 @@ Performs slaughtering, cutting, deboning, freezing, and packaging of fish to ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需完成德国认可的职业教育（双元制）并获得工作合同。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许来德国找工作，适合有职业资格者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需有足够资金。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must complete a recognized German vocational education (dual system) and obtain a work contract. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allows job search in Germany, suitable for those with professional qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to search for work; sufficient funds required. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fish Processing Worker？**
-- 愿意从事体力劳动、适应低温潮湿环境的人
-- 对食品加工有兴趣、注重卫生和安全的人
-- 希望在德国快速就业、接受职业培训的人
-
-**谁不适合学Fish Processing Worker？**
-- 对鱼类过敏或不喜欢处理生鲜产品的人
-- 寻求高薪或高社会地位职业的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Willing to do physical work and adapt to cold, damp environments.
+- For those interested in food processing, with a focus on hygiene and safety
+- Those who want to quickly find employment and receive vocational training in Germany
+
+**Who is not suited**
+- People allergic to fish or who dislike handling fresh seafood
+- Those seeking high salary or high social status careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of fish processing workers?**
+A: Entry-level positions pay approx. €24,000-€30,000 per year; senior roles up to €42,000. Salary below German average, but training allowances are provided.
+
+**Q: How can foreign nationals immigrate to Germany through fish processing occupations?**
+A: Must complete German dual vocational training (Ausbildung) and find a job to apply for a skilled migration visa. The opportunity card also applies, but professional qualifications or language skills are required.
+
+**Q: Are there promotion opportunities for fish processing workers?**
+A: Can advance to production supervisor, quality controller, or technician. Further study can lead to food technology or management roles, or even starting a business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Fish Processing Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fish processing workers?**
-答：Entry-level annual salary is about 24,000-30,000 EUR, and senior positions can reach 42,000 EUR. Salaries are below German average, but trainees receive allowances.
-
-**问：How can foreigners immigrate to Germany through fish processing?**
-答：Complete a German dual vocational training (Ausbildung) and obtain a job offer to apply for a skilled worker visa. Opportunity Card is also possible with qualifications or language skills.
-
-**问：Is there career advancement for fish processing workers?**
-答：Can advance to production supervisor, quality controller, or technician. Further training leads to food technology or management roles, or starting own business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

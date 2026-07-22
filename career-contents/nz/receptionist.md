@@ -1,60 +1,96 @@
-# Receptionist（Receptionist）职业分析 · 新西兰
+# Receptionist — career analysis · New Zealand
 
-**职业代码：542111 – Receptionist。**
+**Occupation code: 542111 (ANZSCO)**
 
-Receptionists handle visitor reception, phone calls, appointments, and basic administrative tasks, serving as the face of the business. This occupation is not on New Zealand's skilled migration list and typically only qualifies for non-migration visas such as Accredited Employer Work Visa (AEWV) or Working Holiday visa, with very limited immigration prospects.
+Receptionists greet visitors, answer phones, schedule appointments, and handle basic administrative tasks; they are the face of the company. This occupation is not on New Zealand's skilled migration list; typically only non-migration pathways like Accredited Employer Work Visa (AEWV) or working holiday visas are available, migration feasibility is extremely low.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中 | 无 | —（通常无学历要求，但需具备基本英语和办公技能） |
-| 短期培训/证书 | 3-6个月 | $1,000~$5,000（如新西兰国家商务证书(NZ Certificate in Business Administration and Technology) L3） |
+| High school | None | $0~$0 (Usually no educational requirements, but basic English and office skills are needed.) |
+| Short-term training/certificate | 3-6 months | $1,000~$5,000 (Such as New Zealand Certificate in Business Administration and Technology (Level 3)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | N/A | 可选 | 雇主通常提供在岗培训 |
-| 新西兰国家商务证书(NZ Certificate in Business Administration and Technology) L3 | 新西兰学历认证局(NZQA)认可院校 | 可选 | 有助于提升竞争力，非强制 |
+| No mandatory qualification requirements | N/A | Optional | Employers usually provide on-the-job training |
+| New Zealand Certificate in Business Administration and Technology (Level 3) | Institutions recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Helps improve competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。新西兰前台岗位需求稳定，但竞争较大，尤其在奥克兰等大城市。数字化和自助服务趋势可能减少前台岗位，但酒店、医疗、专业服务业仍有较多空缺。预计未来5年增长率约为中等水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Front desk roles in New Zealand have stable demand but are competitive, especially in larger cities like Auckland. Digital and self-service trends may reduce positions, but hospitality, healthcare, and professional services still have many vacancies. Expected growth over the next 5 years is moderate.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $43,000~$51,000 | 根据2024年Stats NZ数据，前台中位年薪约$49,000 |
-| 中级（3-6年） | $51,000~$59,000 | 经验丰富者可获得更高薪资 |
-| 高级（6年以上） | $59,000~$68,000 | 高级前台或行政主管可达$68,000以上 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $43,000~$51,000 | According to 2024 Stats NZ data, median annual salary for front desk is about $49,000 |
+| Mid-level (3–6 years) | $51,000~$59,000 | Experienced workers can earn higher salaries |
+| Senior (6+ years) | $59,000~$68,000 | Senior front desk or administrative supervisor can reach over $68,000 |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 前台可晋升为行政助理、办公室经理或客服主管。积累经验后，可转向人力资源、市场营销或物业管理等领域。部分前台通过进修获得商务或管理学位，实现职业转型。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI voice assistants and automation systems will replace most front desk phone answering, appointment scheduling, and visitor registration tasks. Traditional entry-level receptionist positions will shrink significantly, but a few remaining roles will need to combine administrative and technical support skills.
+
+Front desk can advance to administrative assistant, office manager, or customer service supervisor. With experience, can move to HR, marketing, or property management. Some front desk staff pursue business or management degrees for career transformation.
+
+**Tasks most exposed to AI:**
+
+- Answering routine calls and routing to the correct department (AI voice agents handle automatically)
+- Use electronic calendar systems to schedule meetings (AI automatically coordinates times)
+- Visitor manual registration and temporary access card issuance (self-service registration and QR code verification)
+- Handling common inquiries such as addresses and business hours (AI chatbot provides 24/7 service)
+- Printing and organizing basic documents (replaced by automated document management systems)
+
+**Where AI augments the role:**
+
+- Use CRM and AI analytics tools to manage customer relationships and prioritize service
+- Use smart voice-to-text software to generate meeting minutes.
+- Optimize office resource allocation through AI scheduling systems
+- Using natural language processing tools for multilingual guest communication
+- Use data analysis tools to generate visitor traffic reports for management decision-making
+
+**Human moat:**
+
+- Handling complex or emotionally sensitive customer complaints (requiring empathy and interpersonal skills)
+- Respond to emergencies (e.g., fire evacuation, first aid response)
+- Providing personalized concierge services for VIP or senior managers
+- Coordinating cross-departmental non-standard tasks (e.g., urgent cross-departmental coordination)
+- Maintaining corporate image and organisational culture (unstructured tasks)
+
+**Skills to build:**
+
+- Proficient in CRM systems (e.g., Salesforce, HubSpot)
+- Basic data analysis skills (Excel, Power BI)
+- Multilingual communication skills (enhance practicality of AI collaboration)
+- Social media management and content creation (e.g. LinkedIn company page maintenance)
+- Project coordination and time management (certifications such as CAPM)
+- Learn low-code automation tools (e.g., Zapier, Make)
+
+**Key growth areas:**
 
 - Stable demand
 - Low-skilled
@@ -63,65 +99,67 @@ Receptionists handle visitor reception, phone calls, appointments, and basic adm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有认证雇主提供的前台岗位，通常为临时工作签证，无直接移民路径。 |
-| Subclass Working Holiday（Working Holiday Visa） | 打工度假签证，适合年轻人在新西兰短期工作，但无法长期居留。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, applicable for front desk roles with an accredited employer. Usually a temporary work visa with no direct immigration pathway. |
+| Subclass Working Holiday (Working Holiday Visa) | Working holiday visa, suitable for young people to work short-term in New Zealand, but cannot lead to long-term residency. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Receptionist？**
-- 沟通能力强、耐心细致、喜欢与人打交道
-- 寻求新西兰短期工作经历或打工度假者
-- 不需要高薪资且对移民无要求的求职者
+**Who is suited**
+- Strong communication skills, patient and attentive, enjoys interacting with people
+- Those seeking short-term work experience or working holiday in New Zealand
+- Job seekers who do not require high salary and have no immigration requirements
 
-**谁不适合学Receptionist？**
-- 以移民新西兰为首要目标的人群
-- 追求高薪或快速职业发展的人士
+**Who is not suited**
+- People who aim primarily to immigrate to New Zealand
+- Individuals seeking high salaries or rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for front desk positions in New Zealand?**
+A: Stats NZ data for 2024 shows median annual salary for receptionists is about $49,000; junior: $43,000-$51,000; senior: $59,000-$68,000.
+
+**Q: Can a front desk worker immigrate to New Zealand?**
+A: The front desk occupation is not on the Skilled Migration List or Green List, so cannot immigrate through skilled migration or Green List pathways. Usually only can work short-term on an Accredited Employer Work Visa (AEWV) or Working Holiday Visa.
+
+**Q: What are the career development opportunities for front desk?**
+A: Front desk can advance to administrative assistant, office manager, or customer service supervisor, or transition to fields like HR or marketing through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Receptionist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for receptionists in New Zealand?**
-答：According to 2024 Stats NZ data, the median annual salary for receptionists is around $49,000, with entry-level ranging from $43,000 to $51,000 and senior positions up to $59,000-$68,000.
-
-**问：Can receptionists immigrate to New Zealand?**
-答：Receptionist is not on the skilled migration or Green List, so immigration through those pathways is not possible. Typically only short-term work via AEWV or Working Holiday visa is available.
-
-**问：What career advancement opportunities exist for receptionists?**
-答：Receptionists can advance to administrative assistant, office manager, or customer service supervisor roles, or pivot into HR, marketing, etc. through further education.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

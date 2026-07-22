@@ -1,58 +1,94 @@
-# Cashiers（Cashiers）职业分析 · 美国
+# Cashiers — career analysis · United States
 
-**职业代码：41-2011 – Cashiers。**
+**Occupation code: 41-2011 (SOC)**
 
-Receive and disburse money in establishments other than financial institutions, using electronic scanners, cash registers, or related equipment; may process credit/debit card transactions and validate checks. Excludes gambling change persons and booth cashiers.
+Receive and pay money in non-financial institution settings, possibly using electronic scanners, cash registers, or related devices, process credit or debit card transactions and verify checks. Excludes gambling change persons and ticket booth cashiers (41-2012).
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 12年 | —（公立高中免费） |
+| High school diploma or equivalent | 12 years | $0~$0 (Public high schools are free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常提供短期在岗培训，学习收银系统和客户服务 |
+| On-the-job training | Employer | Required | Usually provides short-term on-the-job training in cash register systems and customer service |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,357,000。美国劳工统计局预测2023-2033年收银员就业人数将下降10%，主要受自助结账和自动化技术普及影响。零售业仍是最大雇主，但岗位数量持续减少。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,357,000. The US Bureau of Labor Statistics projects a 10% decline in cashier employment from 2023 to 2033, mainly due to self-checkout and automation technology. Retail remains the largest employer, but job numbers continue to decrease.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 时薪约11.54-13.94美元 |
-| 中级（3-5年） | $29,000~$34,000 | 时薪约13.94-16.35美元 |
-| 高级（5年以上） | $34,000~$40,000 | 时薪约16.35-19.23美元 |
+| Median salary | $32,880 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$29,000 | Hourly wage approximately USD 11.54-13.94 |
+| Mid-level (3–5 years) | $29,000~$34,000 | Hourly wage approx. US$13.94-16.35 |
+| Senior (5+ years) | $34,000~$40,000 | Hourly wage approx. $16.35-$19.23 |
+| average salary | $33,180 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 收银员通常缺乏明确晋升路径，可转向零售主管、客户服务代表或销售助理。部分人通过内部培训进入库存管理或收银员管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Cashiers face significant automation compression; AI and self-service devices can handle most transactions, but human interaction, exception handling, and complex service scenarios still require humans, overall risk medium to high.
+
+Cashiers typically lack clear promotion paths but can shift to retail supervisor, customer service representative, or sales assistant. Some enter inventory management or cashier management roles through internal training.
+
+**Tasks most exposed to AI:**
+
+- Scan product barcodes and calculate total price
+- Process credit/debit card payments
+- Verifying check authenticity
+- Print and provide receipts
+- Handle simple returns and exchanges
+
+**Where AI augments the role:**
+
+- Provide personalized recommendations by analyzing customer purchase behavior with AI
+- Use AI to optimize cashier layout and queue management
+- Using voice assistants to quickly look up product information
+- Using AI tools for fraud detection and abnormal transaction handling
+- Engage customers through mobile apps to enhance loyalty
+
+**Human moat:**
+
+- Handle complex customer complaints and disputes
+- Handling emergencies (e.g., system failures, robberies)
+- Provide personalized service and emotional interaction.
+- Manage non-electronic payment processes such as cash and change
+- Maintain safety and order in the checkout area.
+
+**Skills to build:**
+
+- Customer service and communication skills
+- Basic cash management and counting skills
+- Use self-checkout systems and mobile payment devices
+- Data analysis and sales insights
+- Multitasking ability.
+- Ability to learn new technologies
+
+**Key growth areas:**
 
 - Automation Impact
 - Self-checkout
@@ -61,62 +97,64 @@ Receive and disburse money in establishments other than financial institutions, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 收银员通常不符合H-1B专业职业要求，极少获得赞助 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 因属于低技能职业，PERM劳工证申请极困难，几乎无绿卡路径 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Cashiers generally do not meet H-1B specialty occupation requirements and rarely receive sponsorship |
+| Subclass Green Card (PERM) (PERM Labor Certification) | As a low-skilled occupation, PERM labor certification application is extremely difficult; almost no green card path |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashiers？**
-- 寻求入门级或兼职工作的求职者
-- 喜欢与人互动、处理现金交易的应届生
-- 希望灵活排班的学生或退休人员
+**Who is suited**
+- Job seekers looking for entry-level or part-time positions
+- Recent graduates who enjoy interacting with people and handling cash transactions
+- Students or retirees seeking flexible scheduling
 
-**谁不适合学Cashiers？**
-- 追求高收入和职业晋升空间的人士
-- 不愿从事重复性、高自动化风险岗位的人
+**Who is not suited**
+- Those seeking high income and career advancement opportunities
+- Individuals unwilling to engage in repetitive, high-automation-risk jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a cashier in the United States?**
+A: According to BLS data, the median annual salary for cashiers in 2023 was about $28,000, hourly wage about $13.50.
+
+**Q: Can cashiers immigrate to the US via work visa?**
+A: Nearly impossible. Cashier is a low-skilled occupation not meeting H-1B specialty occupation requirements, and employers struggle to prove inability to hire U.S. workers via PERM.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Cashiers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for cashiers in the US?**
-答：According to BLS, the median annual wage for cashiers was about $28,000 in 2023, equivalent to $13.50 per hour.
-
-**问：Can cashiers immigrate to the US through work visas?**
-答：Extremely unlikely. Cashier is a low-skilled occupation, does not meet H-1B specialty occupation criteria, and PERM certification is nearly impossible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Dietician and Nutritionist（Dietician and Nutritionist）职业分析 · IT
+# Dietician and Nutritionist — career analysis · Italy
 
-**职业代码：2265 – Dietician and Nutritionist。**
+**Occupation code: 2265 (ISCO08)**
 
-Dieticians and nutritionists in Italy assess nutritional needs, develop dietary plans to promote health or manage diseases, working in hospitals, private practices, public health, and sports organizations.
+Dietitians and nutritionists in Italy assess individual nutritional status and develop dietary plans to promote health or manage diseases. They work in hospitals, private clinics, public health institutions, and sports organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 3年 | $1,000~$3,000（公立大学年学费约1000-3000欧元，私立较高） |
-| 硕士（专业学位） | 2年 | $1,500~$4,000（临床营养或公共卫生营养方向） |
+| Bachelor's degree | 3 years | $1,000~$3,000 (Annual tuition at public universities is approximately 1000-3000 euros, higher at private ones) |
+| Master's (Professional Degree) | 2 years | $1,500~$4,000 (Clinical Nutrition or Public Health Nutrition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家执业考试（Esame di Stato） | 意大利卫生部 | 必备 | 通过后注册为营养师（Dietista）或生物学家（Biologo）营养方向 |
-| 注册（Albo Professionale） | 相应专业协会 | 必备 | 营养师注册于TSRM-PSTRP，生物学家注册于Ordine Nazionale dei Biologi |
-| 硕士后专科认证 | 大学或专业机构 | 可选 | 如临床营养、运动营养等，提升竞争力 |
+| National licensing exam (Esame di Stato) | Italian Ministry of Health | Required | Registered as a Dietitian or Biologist (nutritional direction) after passing |
+| Registration (Albo Professionale) | Relevant professional associations | Required | Dietitians are registered with TSRM-PSTRP; biologists with the Ordine Nazionale dei Biologi |
+| Post-Master's Specialist Certification | Universities or professional institutions | Optional | Such as clinical nutrition, sports nutrition, etc., to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。意大利人口老龄化加剧，慢性病如糖尿病、肥胖症发病率上升，对营养师的需求持续增长。2020-2025年预计岗位增长约5-10%，尤其北部经济发达地区需求更旺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Italy's aging population and rising incidence of chronic diseases such as diabetes and obesity are driving sustained demand for dietitians. Job growth of about 5-10% is expected from 2020-2025, with stronger demand in the economically developed northern regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公立医院或诊所 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验的专业人士 |
-| 高级（7年以上） | $35,000~$45,000 | 主管或私人执业 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Public hospitals or clinics |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced professionals |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor or private practice |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级营养师通常在医疗机构或公共卫生部门积累经验，之后可晋升为高级临床营养师、营养部门主管或开设私人诊所。部分专业人士转向食品工业研发或学术研究方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+Junior nutritionists typically gain experience in healthcare facilities or public health departments, then can advance to senior clinical nutritionist, nutrition department head, or open a private practice. Some professionals move into food industry R&D or academic research.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - aging population
 - chronic disease management
@@ -62,68 +98,67 @@ Dieticians and nutritionists in Italy assess nutritional needs, develop dietary 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card - Italy） | 适用于高技能非欧盟公民，需大学学历和至少一年工作合同，年薪门槛约25000欧元。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非高技能岗位，需雇主担保，配额有限。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，通常与工作签证捆绑，由意大利劳工部和移民局审批。 |
+| Subclass EU Blue Card (EU Blue Card - Italy) | For highly skilled non-EU citizens, requires a university degree and at least one year of work contract, with an annual salary threshold around €25,000. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-high-skilled positions, requires employer sponsorship, limited quota. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, usually tied to work visa, approved by Italian Ministry of Labor and Immigration Authority. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietician and Nutritionist？**
-- 对健康和营养有热情的人
-- 具备良好沟通和教育能力的人
-- 愿在医疗环境中工作的人
-
-**谁不适合学Dietician and Nutritionist？**
-- 不善于与人沟通的人
-- 对细节缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about health and nutrition.
+- People with good communication and teaching skills
+- People willing to work in a medical environment
+
+**Who is not suited**
+- People who are not good at communicating with others
+- Those impatient with details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of dietitians in Italy?**
+A: Junior nutritionist annual salary approximately €22,000-28,000, intermediate €28,000-35,000, senior €35,000-45,000. Income for private practice may vary significantly.
+
+**Q: How can non-EU citizens obtain a work visa for a dietitian in Italy?**
+A: Common pathways include: through EU Blue Card (requiring high skills and higher salary), or via Decreto Flussi quota work visa (requiring employer sponsorship). Must complete qualification verification and national exam.
+
+**Q: What are the educational steps to become a registered dietitian in Italy?**
+A: Requires a three-year undergraduate degree (e.g., in Nutrition), passing a national exam to register as a dietitian. Those wishing to specialize can pursue a 2-year master's degree. Annual tuition at public universities is approximately 1000-3000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Dietician and Nutritionist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dieticians in Italy?**
-答：Entry-level dieticians earn around €22,000-€28,000 per year, mid-level €28,000-€35,000, and senior €35,000-€45,000. Private practice income can vary significantly.
-
-**问：How can non-EU citizens get a work visa as a dietician in Italy?**
-答：Common pathways include the EU Blue Card (for high-skilled and higher salary) or the Decreto Flussi quota work visa (employer-sponsored). You must complete credential evaluation and state exam.
-
-**问：What educational steps are required to become a registered dietician in Italy?**
-答：You need a 3-year bachelor's degree (e.g., in Dietetics), then pass the state exam to register. For specialization, a 2-year master is available. Public university tuition is around €1,000-€3,000 per year.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

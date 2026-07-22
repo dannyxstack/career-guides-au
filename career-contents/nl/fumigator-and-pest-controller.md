@@ -1,60 +1,92 @@
-# Fumigator and Pest Controller（Fumigator and Pest Controller）职业分析 · NL
+# Fumigator and Pest Controller — career analysis · Netherlands
 
-**职业代码：7544 – Fumigator and Pest Controller。**
+**Occupation code: 7544 (ISCO08)**
 
-Professionals in the Netherlands who control pests and weeds using chemical or biological methods through fumigation and extermination, ensuring public health and environmental hygiene.
+Professionals in the Netherlands engaged in pest and weed control, using chemical or biological methods for fumigation and disinfestation to ensure public health and environmental hygiene.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | $2,000~$6,000（每年学费，国际生较高） |
-| 在职培训 | 1-2年 | $1,000~$3,000（公司资助或自费） |
+| Secondary vocational education (MBO) | 3-4 years | $2,000~$6,000 (Annual tuition fee, higher for international students) |
+| On-the-job training | 1-2 years | $1,000~$3,000 (Company-sponsored or self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 害虫防治认证 (Bestrijdingstechnicus) | Stichting Erkenningsregeling voor de Plaagdierbestrijding | 必备 | 荷兰官方认可的专业资格 |
-| 安全使用农药证书 | Nederlandse Voedsel- en Warenautoriteit (NVWA) | 必备 | 允许操作化学药剂的必要证书 |
+| Pest control certification (Bestrijdingstechnicus) | Stichting Erkenningsregeling voor de Plaagdierbestrijding | Required | Dutch officially recognized professional qualifications |
+| Safe use of pesticides certificate | Nederlandse Voedsel- en Warenautoriteit (NVWA) | Required | Required certification for handling chemical agents |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。荷兰对害虫防治服务需求稳定，受法规和环保要求影响，就业前景平稳。城市化与气候变化可能增加需求，但自动化有一定替代风险。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. The demand for pest control services in the Netherlands is stable, influenced by regulations and environmental requirements, with steady employment prospects. Urbanization and climate change may increase demand, but automation poses a certain risk of replacement.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径包括从初级技术员晋升为高级防治师或团队主管，也可转向环境咨询或自主创业。持续培训与认证是晋升关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
+
+Career progression includes advancement from junior technician to senior pest control specialist or team supervisor, as well as transitioning to environmental consulting or self-employment. Continuous training and certification are key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate pest activity reports and client communication records
+- Automatically plan routine inspection routes based on historical data
+- Use drones or IoT sensors for initial pest monitoring
+- Automatically calculate dosage and compatibility recommendations
+
+**Where AI augments the role:**
+
+- Using AI image recognition to quickly and accurately diagnose pest types and severity
+- Use intelligent scheduling systems to optimize service routes and improve work efficiency
+- Access real-time operation guides and equipment instructions through augmented reality
+- Using data analysis to predict high-incidence areas and proactively prevent pests
+
+**Human moat:**
+
+- Flexibly judge and adjust plans in complex work environments
+- Face-to-face communication with clients to build trust and explain safety hazards
+- Physical handling and emergency response for hazardous chemicals.
+- Making professional decisions for unconventional on-site situations
+
+**Skills to build:**
+
+- Proficiency in basic data analysis and reporting tools (e.g., Excel, simple BI)
+- Learn pest identification and biology knowledge to improve diagnostic skills
+- Familiar with operating drones or IoT monitoring devices
+- Enhance customer communication and safety training skills
+- Learn digital workflow management software
+
+**Key growth areas:**
 
 - Integrated pest management
 - Biological control
@@ -63,69 +95,68 @@ Professionals in the Netherlands who control pests and weeds using chemical or b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于达到薪资门槛的技术移民，可受雇于认可担保机构 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，要求高等教育和高于平均的薪资 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业的国际学生可在一年内自由找工作，找到工作后可转工作签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled migration meeting a salary threshold, may be employed by an approved sponsor |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring higher education and above-average salary |
+| Subclass Orientation Year (Orientation Year) | International students who graduate in the Netherlands can freely seek employment for one year, and can switch to a work visa upon finding a job |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fumigator and Pest Controller？**
-- 喜欢户外工作且注重细节的人
-- 对化学和生物防治方法感兴趣
-- 愿意接受持续培训和认证
-
-**谁不适合学Fumigator and Pest Controller？**
-- 对化学药剂敏感或过敏者
-- 不擅长独立工作与客户沟通者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and pay attention to detail
+- Interested in chemical and biological control methods
+- Willingness to undergo continuous training and certification
+
+**Who is not suited**
+- Sensitive or allergic to chemical agents
+- Those not good at independent work and customer communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of pest controllers in the Netherlands?**
+A: Entry-level annual salary about €25,000-32,000, mid-level €32,000-40,000, senior up to €50,000.
+
+**Q: How can non-EU citizens immigrate to the Netherlands for pest control work?**
+A: Can apply through the high-skilled migrant visa (kennismigrant) or EU Blue Card, requiring a sponsoring employer and meeting salary requirements.
+
+**Q: What certifications are needed for pest control in the Netherlands?**
+A: Must hold pest control technician certification issued by the Stichting Erkenningsregeling and a certificate for the safe use of pesticides.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fumigator and Pest Controller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pest controllers in the Netherlands?**
-答：Entry-level salary is around €25,000-32,000, mid-level €32,000-40,000, and senior up to €50,000 per year.
-
-**问：How can non-EU citizens immigrate to the Netherlands for pest control work?**
-答：Via Highly Skilled Migrant visa (kennismigrant) or EU Blue Card, requiring a job offer from a recognized sponsor and meeting salary thresholds.
-
-**问：What certifications are required for pest control in the Netherlands?**
-答：Mandatory certification from Stichting Erkenningsregeling as pest control technician and a safe use of pesticides certificate.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Telecommunications Network Studies and Development（Telecommunications Network Studies and Development）职业分析 · FR
+# Telecommunications Network Studies and Development — career analysis · France
 
-**职业代码：M1804 – Telecommunications Network Studies and Development。**
+**Occupation code: M1804 (ROME)**
 
-Designs, plans, and optimizes telecom networks (fiber, 5G, satellite) to ensure performance, reliability, and scalability.
+Responsible for the planning, design, optimization and upgrade, and technical solution formulation of telecom networks (fiber optics, 5G, satellites, etc.) to ensure network performance and reliability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT | 2年（BTS） | —（公立学校低学费，学徒制可获薪） |
-| Licence professionnelle | 3年（Licence） | —（公立大学学费低，可申请奖学金） |
-| Master / Diplôme d'ingénieur | 5年（Master/工程师） | —（工程师学院学费较高，但就业率高） |
+| BTS/DUT | 2 Years (BTS) | $0~$5,000 (Public schools offer low tuition fees, and apprenticeships can be paid) |
+| Licence professionnelle | 3 years (Licence) | $0~$8,000 (Public universities have low tuition fees and scholarships are available) |
+| Master / Diplôme d'ingénieur | 5 years (Master/Engineer) | $0~$15,000 (Engineering colleges have relatively high tuition fees but high employment rates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电信工程师文凭 | 工程师学院（CTI认证） | 必备 | 大多数企业要求，等同于硕士水平 |
-| Cisco/华为认证 | 思科/华为 | 可选 | 加分项，非强制 |
-| 专业经验认证（VAE） | 法国劳工部 | 可选 | 通过工作经验获取文凭 |
+| Telecommunications Engineer Diploma | College of Engineering (CTI Accredited) | Required | Most companies require it to be equivalent to a master's degree |
+| Cisco/Huawei certification | Cisco/Huawei | Optional | Bonus points, not mandatory |
+| Professional Experience Certification (VAE) | French Ministry of Labor | Optional | Earn diplomas through work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。随着5G/6G部署、光纤到户普及及物联网发展，法国电信网络工程师需求持续增长。France Travail列为中长期紧缺职业，尤其在Orange、SFR等运营商及设备商。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. With the deployment of 5G/6G, the widespread adoption of fiber-to-the-home, and the development of the Internet of Things, the demand for network engineers at France's telecom network continues to grow. France Travail is listed as a medium- to long-term shortage occupation, especially among operators and equipment vendors such as Orange and SFR.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 含奖金 |
-| 中级（4-8年） | $40,000~$50,000 | 视项目复杂度 |
-| 高级（9年以上） | $55,000~$70,000 | 管理职可更高 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$38,000 | Including bonus |
+| Mid-level (4–8 years) | $40,000~$50,000 | Depending on the complexity of the project |
+| Senior (9+ years) | $55,000~$70,000 | Management positions can be even higher |
+| average salary | $52,500 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从网络工程师晋升为项目经理、技术专家或架构师。积累经验后可转向咨询、创业或运营商高管岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI tools will significantly enhance the capabilities of telecom network planners, enabling faster analysis of massive data, traffic prediction, and layout optimization, while complex decisions and cross-departmental coordination still rely on human experience, thereby increasing overall job value.
+
+You can advance from network engineer to project manager, technical expert, or architect. After gaining experience, you can move on to consulting, entrepreneurship, or executive roles in telecom operators.
+
+**Tasks most exposed to AI:**
+
+- Manual data collection and consolidation (merging network traffic data from multiple sources)
+- Regularly generate standard network performance reports (AI auto-generates visual reports)
+- Basic capacity forecasting (AI model automatically predicts traffic growth)
+- Repetitive parameter tuning (e.g., automated optimization of base station power and frequency configurations)
+
+**Where AI augments the role:**
+
+- Using AI models for high-precision capacity prediction and network bottleneck identification
+- Quickly evaluate cost-effectiveness of multiple planning options via AI simulation tools
+- Real-time optimisation of network resource allocation (e.g., dynamic spectrum management)
+- Automatically generate network optimization recommendations and collaborate with stakeholders to make decisions
+
+**Human moat:**
+
+- Develop long-term network strategies and investment decisions (e.g., 5G/6G deployment)
+- Cross-departmental communication and coordination (negotiating with operators, government, clients)
+- Handle unstructured, high-risk problems (e.g., emergency planning for extreme events)
+- Regulatory compliance and safety design (e.g., privacy, redundancy, disaster recovery)
+
+**Skills to build:**
+
+- Machine learning and data science (e.g., time series forecasting, cluster analysis)
+- Network automation tools (e.g. Cisco NSO, Ansible)
+- Cloud computing and SDN (e.g., AWS, OpenStack).
+- Python/R programming (data processing and automation)
+- Project management and stakeholder communication
+
+**Key growth areas:**
 
 - 5G
 - Fiber optics
@@ -63,68 +95,67 @@ Designs, plans, and optimizes telecom networks (fiber, 5G, satellite) to ensure 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 面向高技能非欧盟公民，要求年薪≥53,400欧元（2023），合同至少1年，学历匹配。 |
-| Subclass Passeport Talent（Talent Passport） | 适合硕士以上学历或高薪（年薪≥36,500欧元），有效期4年，可续签，家属可随行。 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，受地域和劳动力市场测试限制，但电信工程师属紧缺，通过率较高。 |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, the annual salary requirement is ≥53,400 euros (2023), with a contract of at least 1 year and matching academic qualifications. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for those with a master's degree or higher or high salary (annual salary ≥ €36,500), valid for 4 years, renewable visa, family members can accompany the visa. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, limited by geography and labor market testing, but telecom engineers are in short supply and have a high pass rate. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Telecommunications Network Studies and Development？**
-- 喜欢逻辑分析、解决网络技术难题的人
-- 对5G、光纤等前沿技术有热情
-- 愿意持续学习新标准与协议
-
-**谁不适合学Telecommunications Network Studies and Development？**
-- 不喜欢频繁学习新技术的保守者
-- 对高强度项目压力（如网络故障）敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy logical analysis and solving network technical problems
+- Passionate about cutting-edge technologies such as 5G and fiber optics
+- Willingness to continuously learn new standards and protocols
+
+**Who is not suited**
+- Conservatives who dislike frequently learning new technologies
+- Sensitive to high-intensity project pressures (such as network failures).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for telecom network engineers in France?**
+A: Entry-level salaries are about €32k-38k, intermediate salaries €40k-50k, seniors 55k-70k, and management salaries can reach over 80k.
+
+**Q: How can non-EU citizens immigrate to France to work as a telecommunications network engineer?**
+A: You can apply for the EU Blue Card (annual salary ≥€53,400) or a talent passport (annual salary ≥€36,500), requiring employer sponsorship and academic qualification matching. Shortage occupations simplify processes.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually, an engineering diploma or master's degree is required, but BTS+ experience is also acceptable. Cisco/Huawei certification is a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Telecommunications Network Studies and Development的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for telecom network engineers in France?**
-答：Entry-level: €32k-38k; mid-level: €40k-50k; senior: €55k-70k; management can exceed €80k.
-
-**问：How can non-EU citizens migrate to France as telecom network engineers?**
-答：Apply for EU Blue Card (salary ≥€53,400) or Talent Passport (≥€36,500) with employer sponsorship and relevant degree. Shortage occupation eases process.
-
-**问：What education is required for this occupation?**
-答：Typically an engineering degree or Master's; BTS with experience is possible. Cisco/Huawei certifications are a plus.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

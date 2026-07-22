@@ -1,60 +1,96 @@
-# Parking and civil enforcement occupations（Parking and civil enforcement occupations）职业分析 · UK
+# Parking and civil enforcement occupations — career analysis · United Kingdom
 
-**职业代码：6312 – Parking and civil enforcement occupations。**
+**Occupation code: 6312 (SOC)**
 
-Parking and civil enforcement occupations patrol assigned areas to detect and prevent infringements of local parking regulations and control the parking of vehicles in public and private car parks.
+Parking and civil enforcement officers patrol designated areas to detect and prevent violations of local parking regulations, and manage vehicle parking in public and private car parks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学教育 | 无 | —（通常要求GCSE英语和数学C/4以上，无需正式学历） |
-| 在职培训 | 1-3个月 | —（雇主提供岗前培训，包括法规学习和现场实践） |
+| Secondary Education | None | $0~$0 (Usually requires GCSE English and Maths at grade C/4 or above, no formal education needed.) |
+| On-the-job training | 1-3 months. | $0~$500 (Employers provide pre-employment training, including regulatory study and hands-on practice.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 不需要特定执照，但雇主偏好有相关工作经验者 |
-| 急救证书 | 圣约翰救护机构等 | 可选 | 部分雇主要求持有急救证 |
+| No mandatory certification | None | Optional | No specific license required, but employers prefer candidates with relevant work experience |
+| First aid certificate | St John Ambulance etc. | Optional | Some employers require a first aid certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 42,000。随着城市车辆保有量增加和停车管理需求上升，该职业就业稳定。地方议会持续招聘执法员以维持交通秩序，但自动化收费系统可能减缓需求增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 42,000. As urban vehicle ownership increases and parking management demand rises, employment in this occupation is stable. Local councils continue to hire enforcement officers to maintain traffic order, but automated payment systems may slow demand growth.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 实习或培训期薪资 |
-| 中级（3-10年） | $22,000~$28,000 | 正式执法员薪资，含绩效奖金 |
-| 高级（10年以上） | $28,000~$35,000 | 团队主管或高级职位 |
+| Median salary | $29,559 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Internship or training period salary |
+| Intermediate (3-10 years) | $22,000~$28,000 | Formal enforcement officer salary, including performance bonuses |
+| Senior (10+ years) | $28,000~$35,000 | Team leader or senior position. |
+| average salary | $29,469 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从初级执法员起步，可晋升为高级执法员、团队主管或区域协调员。部分人转向交通规划或市政管理岗位。内部晋升依赖经验和培训。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Parking and civil enforcement roles rely heavily on on-site patrols and physical enforcement; AI/automation (e.g., automatic number plate recognition, online payments) will significantly reduce manpower needs, narrowing entry-level positions, though complex violations still require human intervention.
+
+Start as a junior enforcement officer and advance to senior enforcement officer, team supervisor, or regional coordinator. Some transition to transport planning or municipal management roles. Internal promotion relies on experience and training.
+
+**Tasks most exposed to AI:**
+
+- Automatically detect illegal parking and generate tickets using AI cameras
+- Online payment system automatically handles fine payments, no manual counter needed.
+- Data analysis automatically optimizes patrol routes and parking space allocation
+- AI chatbot answers common parking queries and complaints
+- Electronic evidence system automatically organizes law enforcement records and reports
+
+**Where AI augments the role:**
+
+- Use mobile enforcement app to access violation records and vehicle owner information in real time
+- Use handheld AI devices to assist in judging complex violations (e.g., authenticity of disabled parking permits)
+- Identify high-violation areas through data analysis tools to optimize work priorities
+- Use a tablet to collaborate with back office to handle disputed tickets
+- Use drones or panoramic cameras to assist large-scale area inspections
+
+**Human moat:**
+
+- Handling interpersonal relationships and on-site conflict mediation
+- Judging enforcement discretion in complex situations (e.g., temporary parking needs)
+- Keeping Updated with and Interpreting Local Regulations and Policy Changes
+- Handles complaints and appeals requiring human intervention
+- On-site command for special events (traffic accidents, construction)
+
+**Skills to build:**
+
+- Learn to use mobile enforcement software and electronic evidence management platforms
+- Master basic data analysis skills to optimize patrol plans.
+- Communication and conflict resolution skills to handle complaints after intelligent transformation.
+- Understand the output of AI-assisted decision systems and make final judgments
+- Familiarity with data protection regulations to ensure law enforcement compliance
+- Continuously learn the basics of urban smart transportation systems
+
+**Key growth areas:**
 
 - urban enforcement
 - traffic management
@@ -63,65 +99,67 @@ Parking and civil enforcement occupations patrol assigned areas to detect and pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业通常不在技术工人签证担保列表中，雇主难以担保。 |
-| Subclass Graduate（Graduate Visa） | 适用于在英国完成学位的毕业生，但该职业薪资水平可能不满足签证要求。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is typically not on the skilled worker visa sponsorship list, making employer sponsorship difficult. |
+| Subclass Graduate (Graduate Visa) | Applicable to graduates who completed their degree in the UK, but the occupation's salary level may not meet visa requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Parking and civil enforcement occupations？**
-- 喜欢户外巡逻工作、善于与人沟通、处理冲突
-- 工作细心，能准确判断违规情况并记录证据
-- 愿意从事重复性工作，适应轮班
+**Who is suited**
+- Enjoying outdoor patrol work, good at communication and conflict resolution
+- Detail-oriented work, able to accurately assess violations and record evidence
+- Willing to perform repetitive tasks and adapt to shift work.
 
-**谁不适合学Parking and civil enforcement occupations？**
-- 希望高收入和快速职业晋升者
-- 不擅长处理冲突或对抗性情境者
+**Who is not suited**
+- Those seeking high income and rapid career advancement
+- Not suitable for those who are not good at handling conflict or confrontational situations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for parking enforcement officers?**
+A: Entry-level annual salary about £18,000-22,000, mid-level £22,000-28,000, senior supervisor up to £28,000-35,000. Salary is affected by region and employer.
+
+**Q: Can parking enforcement officers come to the UK to work on a skilled migration visa?**
+A: This occupation is currently not on the skilled worker visa sponsorship list, making employer sponsorship difficult. Graduate visas are also an option, but salary may not meet requirements.
+
+**Q: What are the career progression paths for this occupation?**
+A: Can progress from entry-level enforcement officer to senior officer, team supervisor, or regional coordinator, and may also transition to transport planning or municipal management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Parking and civil enforcement occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for parking enforcement officers?**
-答：Entry-level salary is around £18,000-£22,000, mid-level £22,000-£28,000, and senior supervisors £28,000-£35,000, depending on location and employer.
-
-**问：Can parking enforcement officers come to the UK through a skilled worker visa?**
-答：Currently, this occupation is not on the eligible occupations list for the Skilled Worker visa, making employer sponsorship unlikely. The Graduate visa is an option but salary may not meet requirements.
-
-**问：What are the career progression paths for this occupation?**
-答：Progression from entry-level to senior officer, team supervisor, or area coordinator, and possible transition to traffic planning or municipal management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

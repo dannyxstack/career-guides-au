@@ -1,59 +1,94 @@
-# Science Technicians nec（Science Technicians nec）职业分析 · 澳大利亚
+# Science Technicians nec — career analysis · Australia
 
-**职业代码：311499 – Science Technicians nec。**
+**Occupation code: 311499 (ANZSCO)**
 
-Science Technicians nec provide technical support in labs, research facilities, or industrial settings, assisting scientists with experiments, data analysis, equipment maintenance, and sample preparation.
+Other science and technology professionals provide technical support in labs, research institutions, or industrial settings, assisting scientists with experiments, data analysis, equipment maintenance, and sample processing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Diploma (科学或相关领域) | 2年 | $20,000~$40,000（TAFE或私立学院费用） |
-| 相关学士学位 | 3-4年 | $30,000~$50,000（大学学费（澳洲本地学生）） |
+| Diploma (Science or related field) | 2 years | $20,000~$40,000 (TAFE or private college fees) |
+| Relevant bachelor's degree | 3-4 years | $30,000~$50,000 (University tuition fees (for Australian domestic students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 科学或实验室技术Diploma | TAFE或认证机构 | 必备 | 通常为入行最低要求 |
-| VETASSESS技能评估 | VETASSESS | 可选 | 技术移民必需 |
-| 白卡（White Card） | SafeWork NSW等 | 可选 | 部分实验室工作场所要求 |
+| Diploma in Science or Laboratory Technology | TAFE or accredited institution | Required | Typically the minimum entry requirement |
+| VETASSESS skills assessment | VETASSESS | Optional | Essential for skilled migration |
+| White Card | SafeWork NSW, etc. | Optional | Some laboratory workplace requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。澳洲对科学技术人员需求稳定，尤其在医疗诊断、环境监测和食品科学领域。随着技术发展，自动化可能影响部分任务，但复杂分析和质控岗位仍需专业人员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Australia has stable demand for science and technology workers, especially in medical diagnostics, environmental monitoring, and food science. Automation may affect some tasks, but complex analysis and quality control roles still need professionals.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 全职，含super |
-| 中级（3-6年） | $65,000~$80,000 | 全职，含super |
-| 高级（6年以上） | $80,000~$100,000 | 全职，含super |
+| Median salary | $93,288 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Full-time, including superannuation |
+| Mid-level (3–6 years) | $65,000~$80,000 | Full-time, including superannuation |
+| Senior (6+ years) | $80,000~$100,000 | Full-time, including superannuation |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级技术人员可从实验室助理起步，积累经验后可晋升为高级技术员或实验室主管，也可转向质量控制、研发或技术销售等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+This occupation is mixed under AI influence: many repetitive experimental operations and data analysis will be automated, but complex sample handling, anomaly diagnosis, and equipment maintenance still require human judgment; overall jobs won't disappear but content will deeply transform.
+
+Junior technicians can start as lab assistants, gain experience and advance to senior technician or lab supervisor, or move into quality control, R&D, or technical sales.
+
+**Tasks most exposed to AI:**
+
+- Repetitive sample preparation (weighing, dilution, centrifugation, etc.) completed by automated workstations
+- Standardized experiment data recording, organization, and preliminary analysis are automatically generated into reports by AI software.
+- Routine instrument calibration and quality control testing are performed by intelligent sensors and automated verification systems.
+- Literature search and initial experimental design assisted by AI generation
+
+**Where AI augments the role:**
+
+- AI data analysis tools improve experimental data processing efficiency, quickly identify abnormal patterns
+- Natural language processing systems assist in writing experiment reports and documents, reducing administrative time
+- Machine learning models predict optimal experimental parameters, shortening optimization cycles
+- AI image recognition technology assists in analyzing microscope and electron microscope images, improving accuracy
+- Automated workflow management platform coordinates multi-device collaborative experiments to increase throughput
+
+**Human moat:**
+
+- Design of pretreatment methods and troubleshooting for complex samples
+- On-the-spot judgment and solution adjustment in non-standard experimental scenarios
+- Cross-disciplinary problem-solving skills (e.g., combining chemistry, biology, engineering)
+- In-depth maintenance, repair, and custom modification of experimental equipment
+- Scientific innovation mindset: proposing new hypotheses, designing original experiments
+
+**Skills to build:**
+
+- Python/R data analysis and automated scripting
+- Operation and programming of laboratory automation equipment (e.g., liquid handling workstations)
+- Machine learning basics and applications (anomaly detection, parameter optimization)
+- Data visualization and reporting automation tools (Tableau, Power BI)
+- AI-assisted literature mining and experimental design tools (e.g., DeepChem)
+- Cross-disciplinary communication skills (collaborating with data scientists and engineers)
+
+**Key growth areas:**
 
 - Healthcare diagnostics
 - Environmental monitoring
@@ -62,66 +97,65 @@ Science Technicians nec provide technical support in labs, research facilities, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 基于职业清单，可通过EOI获得邀请 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，部分州要求当地工作offer |
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，可转186 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区州担保，需在指定地区生活工作 |
+| Subclass 189 (Skilled Independent Visa) | Based on occupation list, invitation via EOI |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination; some states require a local job offer |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, can transition to 186 |
+| Subclass 491 (Skilled Work Regional Visa) | Regional state sponsorship, requiring living and working in a designated area |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Science Technicians nec？**
-- 注重细节，喜欢动手操作仪器和实验
-- 对科学原理有基本理解，愿意在实验室环境中工作
-- 具备良好的记录和沟通能力，能协助团队任务
-
-**谁不适合学Science Technicians nec？**
-- 不喜欢重复性工作或长期站立
-- 对化学或生物样品有过敏或心理不适
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, enjoys hands-on work with instruments and experiments
+- Basic understanding of scientific principles, willing to work in a laboratory environment
+- Good record-keeping and communication skills, able to assist with team tasks
+
+**Who is not suited**
+- Dislikes repetitive work or prolonged standing
+- Allergic or psychological discomfort with chemical or biological samples
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for scientific and technical personnel?**
+A: Junior annual salary around AUD 50,000-65,000, mid-level AUD 65,000-80,000, senior AUD 80,000-100,000, depending on industry and region.
+
+**Q: How can science and technology professionals migrate to Australia?**
+A: Typically via skilled migration (189/190) or employer sponsorship (482/186), requires VETASSESS assessment and meeting English requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Science Technicians nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for science technicians?**
-答：Entry-level salary is around AUD 50,000-65,000, mid-level AUD 65,000-80,000, and senior AUD 80,000-100,000 annually, depending on industry and location.
-
-**问：How can science technicians migrate to Australia?**
-答：Typically via skilled migration (189/190) or employer sponsorship (482/186), requiring VETASSESS assessment and meeting English language requirements.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Audiologist and Speech Therapist（Audiologist and Speech Therapist）职业分析 · IE
+# Audiologist and Speech Therapist — career analysis · Ireland
 
-**职业代码：2266 – Audiologist and Speech Therapist。**
+**Occupation code: 2266 (ISCO08)**
 
-In Ireland, audiologists and speech therapists are essential healthcare professionals who assess, diagnose, and treat patients with hearing and speech disorders. They work in hospitals, clinics, schools, and community settings.
+In Ireland, audiologists and speech therapists are essential professionals in healthcare teams, responsible for assessing, diagnosing, and treating patients with hearing and speech disorders. This career has stable demand in medical, educational, and community service settings.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（欧盟学生学费约€6,000/年，非欧盟学生约€15,000-€25,000/年） |
-| 硕士 | 2年 | $15,000~$30,000（硕士课程学费约€15,000-€30,000/年（非欧盟）） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (EU student tuition approx. €6,000/year, non-EU students approx. €15,000-€25,000/year) |
+| Master's degree | 2 years | $15,000~$30,000 (Master's degree tuition: approximately €15,000-€30,000/year (non-EU)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CORU注册 | CORU (Health and Social Care Professionals Council) | 必备 | 所有从业者必须在CORU注册，获得资格认证 |
-| 临床实习证明 | 认可大学或医院 | 必备 | 完成至少300小时临床实习 |
-| CPD持续教育 | CORU或专业协会 | 必备 | 每年需完成规定时数的持续专业发展 |
+| CORU registration | CORU (Health and Social Care Professionals Council) | Required | All practitioners must register with CORU and obtain qualification certification |
+| Proof of clinical internship | Recognized university or hospital | Required | Complete at least 300 hours of clinical placement |
+| CPD continuing education | CORU or professional association | Required | Must complete a specified number of hours of continuing professional development each year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。随着人口老龄化和对早期干预服务的重视，爱尔兰对听力学家和言语治疗师的需求持续增长。公共和私营医疗部门均存在职位空缺，毕业生就业率较高。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. With an aging population and increasing emphasis on early intervention services, demand for audiologists and speech therapists continues to grow in Ireland. Vacancies exist in both public and private healthcare sectors, and graduate employment rates are high.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公共部门起薪约€35,000，私营稍高 |
-| 中级（3-7年） | $45,000~$60,000 | 经验丰富者可获€45,000-€60,000 |
-| 高级（7年以上） | $60,000~$80,000 | 高级或管理岗位可达€80,000以上 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Public sector starting salary approx. €35,000, private slightly higher |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced professionals can earn €45,000-€60,000 |
+| Senior (7+ years) | $60,000~$80,000 | Senior or management roles can reach €80,000+ |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级从业者通常从临床岗位起步，积累经验后可晋升为高级治疗师或专业领域专家（如儿童或成人方向）。部分人转向管理岗位或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
+
+Junior practitioners typically start in clinical roles and, after gaining experience, can advance to senior therapists or specialists in areas like children or adults. Some move into management or open private practices.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and automated report generation for standard hearing tests
+- Preliminary analysis of voice recordings and marking of abnormal patterns
+- Automatic scoring and preliminary suggestions for dysphagia screening questionnaires.
+- Standardized speech recognition and feedback for speech therapy exercises
+- Basic content generation and customization of patient education materials
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: using deep learning models to analyze audiograms, speech spectra, and images to improve diagnostic accuracy
+- Enhanced remote therapy: AI-driven real-time voice feedback system improves patient self-training at home
+- Personalized treatment plan design: generate customized rehabilitation plans based on patient data (e.g., voice samples, hearing loss patterns)
+- Data-Driven Prognostic Assessment: Analyze large clinical datasets to predict treatment responses and optimize treatment pathways
+- Multilingual support: AI real-time translation and accent adaptation expand coverage to multicultural populations
+
+**Human moat:**
+
+- Clinical judgment and human empathy for complex communication barriers.
+- Empathy for building trust with patients and their families
+- Collaborative decision-making and case management in multidisciplinary teams
+- Clinical reasoning skills for rare or comorbid conditions
+- Ethical decision-making and privacy protection (involving sensitive health data)
+
+**Skills to build:**
+
+- AI/machine learning basics (how to explain model outputs for clinical diagnosis)
+- Remote health assessment and treatment technology (platform usage, data security)
+- Biomedical signal processing (speech and hearing-related data analysis)
+- Patient data privacy and ethics (HIPAA/PIPEDA compliance)
+- Multilingual and cross-cultural communication (adapted to Canada's multicultural patient population).
+- Human-machine collaborative treatment design (integrating AI tools into traditional therapies)
+
+**Key growth areas:**
 
 - Aging population
 - Early intervention
@@ -64,66 +100,68 @@ In Ireland, audiologists and speech therapists are essential healthcare professi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，申请者需有年薪≥€32,000（本科）或≥€64,000（高级），可携带家属，2年后可转永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪≥€30,000的职位，需通过劳动力市场测试，可续签，5年后可申请永居 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人士，年薪需≥€64,000（紧缺职业可降至€32,000），可自由在欧盟工作 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to in-demand occupations; applicants need annual salary ≥ €32,000 (bachelor's) or ≥ €64,000 (senior), can bring family, eligible for permanent residency after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Applicable for positions with annual salary ≥ €30,000, requires passing labor market test, renewable, eligible for permanent residence after 5 years |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU nationals, annual salary ≥€64,000 (reduced to €32,000 for shortage occupations), free to work in the EU. |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Audiologist and Speech Therapist？**
-- 对医学和人类沟通有浓厚兴趣的人
-- 具备耐心、细心和良好沟通能力的人
-- 愿意持续学习和适应新技术的人
+**Who is suited**
+- People with strong interest in medicine and human communication
+- People with patience, attention to detail, and good communication skills
+- People willing to continuously learn and adapt to new technologies
 
-**谁不适合学Audiologist and Speech Therapist？**
-- 不喜欢与患者直接互动的人
-- 对听力或言语障碍敏感或缺乏同情心的人
+**Who is not suited**
+- People who dislike direct interaction with patients
+- People who are insensitive or lack empathy towards hearing or speech impairments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for audiologists and speech therapists in Ireland?**
+A: Entry-level annual salary approximately €35,000-€45,000, mid-level €45,000-€60,000, senior can reach over €80,000. Public sector salaries follow HSE standards, private may be higher.
+
+**Q: How can overseas audiologists or speech-language therapists immigrate to Ireland?**
+A: Eligible via the Critical Skills Employment Permit, requires CORU-accredited qualifications. English must meet IELTS 7.0 (no band below 6.5). Work experience proof required.
+
+**Q: What qualifications are needed to become an audiologist or speech therapist in Ireland?**
+A: Must complete a CORU-accredited undergraduate or postgraduate program and register with CORU. Non-EU qualifications require credential assessment and may require supplementary courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Audiologist and Speech Therapist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for audiologists and speech therapists in Ireland?**
-答：Entry-level salaries range from €35,000 to €45,000, mid-level from €45,000 to €60,000, and senior positions can exceed €80,000. Public sector follows HSE scales, while private practice may offer higher pay.
-
-**问：How can overseas audiologists or speech therapists migrate to Ireland?**
-答：Apply for a Critical Skills Employment Permit after obtaining CORU recognition. English proficiency required (IELTS 7.0, no band below 6.5). Proof of work experience is needed.
-
-**问：What qualifications are needed to become an audiologist or speech therapist in Ireland?**
-答：A CORU-approved bachelor's or master's degree is required, along with CORU registration. Non-EU qualifications need a recognition process, possibly requiring bridging courses.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

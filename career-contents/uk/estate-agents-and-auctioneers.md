@@ -1,61 +1,97 @@
-# Estate agents and auctioneers（Estate agents and auctioneers）职业分析 · UK
+# Estate agents and auctioneers — career analysis · United Kingdom
 
-**职业代码：3555 – Estate agents and auctioneers。**
+**Occupation code: 3555 (SOC)**
 
-Estate agents and auctioneers arrange for the valuation, sale, purchase, rental and leasing of property on behalf of clients, as well as the auction of livestock and antiques.
+Arranges valuation, sale, purchase, and leasing of properties on behalf of clients, as well as auctions of livestock and antiques.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中或同等学历 | 无固定年限 | —（通常无需正式学历，在职培训为主） |
-| 大学预科或相关证书 | 1年 | $1,000~$5,000（如CIEH或NASU认证的房地产课程） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Usually no formal qualifications required; on-the-job training is primary) |
+| University foundation studies or related certificate | 1 year | $1,000~$5,000 (e.g., CIEH or NASU accredited real estate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产从业资格证（如NFoPP） | National Federation of Property Professionals | 可选 | 非强制但雇主青睐 |
-| 拍卖师认证 | Royal Institution of Chartered Surveyors (RICS) | 可选 | 拍卖行业建议持有 |
-| 房产经纪执照（如有） | 当地政府 | 可选 | 苏格兰需注册，英格兰和威尔士非法定 |
+| Real estate qualification (e.g., NFoPP) | National Federation of Property Professionals | Optional | Not mandatory but preferred by employers |
+| Auctioneer certification | Royal Institution of Chartered Surveyors (RICS) | Optional | Recommended to hold for auction industry |
+| Real estate agent license (if any) | Local government | Optional | Registration required in Scotland, non-statutory in England and Wales |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 55,000。英国房地产市场波动较大，但房产交易仍为刚需，预计就业需求保持稳定。数字化和在线拍卖平台的发展可能改变工作方式，但核心服务需求不变。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. The UK real estate market is volatile, but property transactions remain a necessity; employment demand is expected to stay stable. Digitalization and online auction platforms may change work methods, but core service demand remains unchanged.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 含佣金 |
-| 中级（4-7年） | $25,000~$40,000 | 含佣金 |
-| 高级（8年以上） | $40,000~$60,000 | 含佣金，高级职位可达更高 |
+| Median salary | $30,648 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Including commission |
+| Mid-level (4-7 years) | $25,000~$40,000 | Including commission |
+| Senior (8+ years) | $40,000~$60,000 | Includes commission, senior positions can earn more |
+| average salary | $35,990 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级职位如房产助理或拍卖助理起步，积累客户资源和经验后可晋升为高级经纪人、拍卖师、团队主管，甚至开设自己的中介公司。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+Junior roles such as property assistant or auction assistant, accumulating client resources and experience to advance to senior agent, auctioneer, team leader, or even starting one's own agency.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - Property Market
 - Auction
@@ -64,62 +100,64 @@ Estate agents and auctioneers arrange for the valuation, sale, purchase, rental 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业不在短缺职业清单上，但若有雇主担保且满足薪资要求（通常不低于£26,200）可申请 |
-| Subclass Graduate（Graduate visa） | 适合英国高校毕业生，可留英工作2年（博士生3年），无需雇主担保 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长企业，需达到薪资门槛（不低于£33,000），但该职业通常薪资较低 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the shortage list, but can apply if employer-sponsored and salary requirements are met (usually no less than £26,200) |
+| Subclass Graduate (Graduate visa) | Suitable for UK university graduates, allows working in the UK for 2 years (3 years for doctoral graduates) without employer sponsorship |
+| Subclass Scale-up (Scale-up visa) | Suitable for fast-growing companies, must meet salary threshold (not less than £33,000), but this occupation typically has low pay |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Estate agents and auctioneers？**
-- 喜欢与人打交道，具备良好沟通技巧的人
-- 对房地产市场有热情，擅长谈判和销售的人
+**Who is suited**
+- People who enjoy interacting with others and have good communication skills
+- People who are passionate about the real estate market and skilled in negotiation and sales
 
-**谁不适合学Estate agents and auctioneers？**
-- 不喜欢业绩压力和不稳定收入的人
-- 对频繁外出和周末工作感到厌倦的人
+**Who is not suited**
+- People who dislike performance pressure and unstable income
+- For those tired of frequent travel and weekend work.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does a real estate agent's income primarily come from base salary or commission?**
+A: Base salary is usually low, with main income from sales commissions, leading to significant income volatility.
+
+**Q: Can overseas applicants become real estate agents in the UK through skilled migration?**
+A: Possible but difficult, requires employer sponsorship and meeting salary requirements, but this occupation is not on the shortage list, competition is fierce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Estate agents and auctioneers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do estate agents earn mainly from base salary or commission?**
-答：Usually base salary is low, and main income comes from sales commission, so income can be volatile.
-
-**问：Can overseas nationals migrate to the UK as estate agents via skilled worker visa?**
-答：It is possible but difficult; requires employer sponsorship and meeting salary thresholds, but the occupation is not on the shortage list and competition is high.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

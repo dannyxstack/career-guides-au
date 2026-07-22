@@ -1,59 +1,94 @@
-# Fitter-Welder（Fitter-Welder）职业分析 · 澳大利亚
+# Fitter-Welder — career analysis · Australia
 
-**职业代码：323213 – Fitter-Welder。**
+**Occupation code: 323213 (ANZSCO)**
 
-Fitter-Welders fabricate, assemble, and repair metal parts and structures using welding and fitting techniques, commonly employed in manufacturing, construction, and mining industries.
+Welder-Fitter responsible for manufacturing and repairing metal parts and structures using welding and assembly techniques, widely used in manufacturing, construction, and mining.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| VET三级证书 | 2-3年 | $10,000~$30,000（公立TAFE费用，含学徒制补贴） |
-| VET四级证书 | 1年 | $8,000~$20,000（进阶技能，如高级焊接技术） |
+| VET Certificate III | 2-3 years | $10,000~$30,000 (Public TAFE fees, including apprenticeship subsidies) |
+| VET Certificate IV | 1 year | $8,000~$20,000 (Advanced skills, such as advanced welding techniques) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 三级证书 in Engineering - Fabrication Trade | TAFE或注册培训机构 | 必备 | 核心学历，含学徒制 |
-| 安全工作执照（White Card） | SafeWork NSW等 | 必备 | 建筑工地必备 |
-| 焊接认证（如AS 1796） | 澳大利亚焊接协会（WIA） | 可选 | 特定行业要求 |
+| Certificate III in Engineering - Fabrication Trade | TAFE or registered training organizations | Required | Core qualification, including apprenticeships |
+| White Card (Construction Safety Induction Card) | SafeWork NSW, etc. | Required | Essential for construction sites |
+| Welding certifications (e.g., AS 1796) | Welding Institute of Australia (WIA) | Optional | Specific industry requirements. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。澳洲持续的基础设施建设和资源行业需求强劲，焊工-装配工就业前景稳定。技能短缺推高薪资，但工作机会受经济周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Australia's ongoing infrastructure construction and strong resource industry demand ensure stable employment prospects for welder-fitters. Skill shortages drive up wages, but job opportunities are affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒完成后起薪 |
-| 中级（3-5年） | $75,000~$95,000 | 熟练工水平 |
-| 高级（5年以上） | $100,000~$130,000 | 含加班和偏远地区津贴 |
+| Median salary | $135,512 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary after apprenticeship completion. |
+| Mid-level (3–5 years) | $75,000~$95,000 | Skilled worker level |
+| Senior (5+ years) | $100,000~$130,000 | Including overtime and remote area allowance |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定向好（★★★½☆）。** 可从学徒晋升为熟练工，积累经验后成为领班、主管或专门从事高技能焊接（如管道焊接）。部分人转向检验、培训或自雇。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+May progress from apprentice to qualified tradesperson, then to foreman, supervisor, or specialize in high-skill welding (e.g. pipe welding). Some move into inspection, training, or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - Infrastructure boom
 - Resource sector demand
@@ -62,69 +97,68 @@ Fitter-Welders fabricate, assemble, and repair metal parts and structures using 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需在CSOL上，有工作经验要求。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久签证，需通过技能评估和职业评估。 |
-| Subclass 189（Skilled Independent Visa） | 技术独立移民，需在MLTSSL上，通过EOI打分。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府担保。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, must be on CSOL, with work experience requirements. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa requires skills assessment and occupational assessment. |
+| Subclass 189 (Skilled Independent Visa) | Skilled independent migration, must be on MLTSSL, scoring through EOI. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requiring state government nomination. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fitter-Welder？**
-- 动手能力强，喜欢物理工作
-- 愿意从事体力劳动并适应户外或车间环境
-- 愿意通过学徒制积累经验
-
-**谁不适合学Fitter-Welder？**
-- 不能适应高温、噪音和体力劳动
-- 对重复性工作缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability, enjoys physical work.
+- Willing to perform physical labor and adapt to outdoor or workshop environments
+- Willing to gain experience through an apprenticeship.
+
+**Who is not suited**
+- Unable to adapt to high temperatures, noise, and physical labor
+- Impatient with repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a welder-assembler?**
+A: Entry-level approximately AUD 55,000-70,000, mid-level AUD 75,000-95,000, senior can reach AUD 100,000-130,000, higher in regional areas or with overtime.
+
+**Q: Can a welder-fitter migrate to Australia?**
+A: Yes, this occupation is on the CSOL/MLTSSL and can lead to migration via visas 482, 186, 189, 190, subject to skills assessment and English requirements.
+
+**Q: What are the career advancement paths for a Welder-Fitter?**
+A: Can be promoted to foreman, supervisor, inspector, or specialize in high-skill welding such as pipe welding and underwater welding, and can also train others or be self-employed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定向好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fitter-Welder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Fitter-Welders?**
-答：Entry-level around AUD 55,000-70,000, mid-level 75,000-95,000, senior 100,000-130,000; higher in remote areas or with overtime.
-
-**问：Can Fitter-Welders migrate to Australia?**
-答：Yes, the occupation is on CSOL/MLTSSL, eligible for visas 482, 186, 189, 190, subject to skills assessment and English requirements.
-
-**问：What are the career progression paths for Fitter-Welders?**
-答：Advance to supervisor, inspector, specialist welder (e.g., pipe welding, underwater), trainer, or self-employed.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

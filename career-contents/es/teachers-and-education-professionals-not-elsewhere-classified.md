@@ -1,60 +1,96 @@
-# Teachers and Education Professionals Not Elsewhere Classified（Teachers and Education Professionals Not Elsewhere Classified）职业分析 · ES
+# Teachers and Education Professionals Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2329 – Teachers and Education Professionals Not Elsewhere Classified。**
+**Occupation code: 2329 (CNO)**
 
-This occupation covers educators not classified elsewhere, including vocational trainers, adult education instructors, and educational advisors. They work in schools, training centers, or community settings, focusing on teaching, curriculum development, and educational support.
+This profession includes educators not classified under other categories, such as vocational training teachers, adult education lecturers, educational consultants, and others. They engage in teaching, curriculum development, and educational support in schools, training institutions, or community settings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$2,000（公立大学学费，每年约1000-2000欧元） |
-| 职业培训高级（FP Grado Superior） | 2年 | $500~$1,500（公立FP中心学费，每年约500-1500欧元） |
-| 教育硕士（Máster） | 1年 | $2,000~$4,000（部分岗位要求硕士学位，如教育顾问） |
+| Undergraduate (Grado) | 4 years | $1,000~$2,000 (Tuition at public universities is about 1,000–2,000 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$1,500 (Tuition at public FP centers is about 500-1500 euros per year) |
+| Master of Education (Máster) | 1 year | $2,000~$4,000 (Some positions require a master's degree, such as educational consulting) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado）或FP高级证书 | 西班牙大学或FP中心 | 必备 | 教学岗位通常要求相关领域学位或高级职业培训 |
-| 教育硕士（Máster en Educación） | 西班牙大学 | 可选 | 对于中小学教师，需完成教育硕士并参加国家教师资格考试 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行官方认证，尤其对于公立教育岗位 |
+| University degree (Grado) or advanced FP certificate | Spanish universities or FP centers | Required | Teaching positions usually require a degree in a relevant field or advanced vocational training |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require official recognition, especially for public education positions |
+| Master of Education (Máster en Educación) | Spanish University | Optional | For primary and secondary school teachers, they must complete a Master of Education and take the national teacher qualification exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙教育行业受人口老龄化和技能更新需求驱动，对继续教育和职业培训教师需求稳定。数字化教学转型创造新岗位，但公共部门预算限制可能影响招聘节奏。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Spain's education sector is driven by an aging population and the need for skill upgrades, with stable demand for continuing education and vocational training teachers. Digital teaching transformation creates new positions, but public sector budget constraints may disrupt recruitment rhythm.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 私立培训或兼职岗位较低，公立学校实习期约24,000欧元 |
-| 中级（3-10年） | $28,000~$35,000 | 公立学校教师工资随工龄增长，私立机构视资历而定 |
-| 高级（10年以上） | $35,000~$45,000 | 教育管理者或资深顾问可达40,000欧元以上 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Private training or part-time positions are relatively low, with public school internships costing about 24,000 euros |
+| Intermediate (3-10 years) | $28,000~$35,000 | Public school teachers' salaries increase with years of service, while private institutions are determined by seniority |
+| Senior (10+ years) | $35,000~$45,000 | Education administrators or senior consultants can earn over 40,000 euros |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从兼职教师或助教起步，积累经验后晋升为课程负责人或培训主管。考取教育管理硕士学位可进入学校管理层或教育政策制定岗位。部分人员转向企业培训或在线教育领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+You can start as a part-time teacher or teaching assistant, and after gaining experience, be promoted to course leader or training supervisor. Obtaining a master's degree in educational management allows entry into school management or positions in education policy-making. Some people have shifted to corporate training or online education.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Lifelong learning
 - Digital education
@@ -63,68 +99,67 @@ This occupation covers educators not classified elsewhere, including vocational 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (employed)） | 由西班牙雇主担保的工作居留，适用于有工作合同的教育专业人士。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人才，要求大学学历和高于平均薪资（约33,908欧元/年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于高级教育管理者或研究型教师，需满足特定条件。 |
+| Subclass Cuenta ajena (Work Permit (employed)) | Work residency sponsored by Spanish employers, applicable to education professionals with employment contracts. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, university degrees and salaries above the average (about 33,908 euros/year) are required. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for senior education administrators or research-oriented teachers, with specific conditions required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teachers and Education Professionals Not Elsewhere Classified？**
-- 热爱教学、有耐心和沟通能力的人
-- 希望在教育领域长期发展并持续学习的人
-- 愿意接受学历认证和可能语言要求的人
-
-**谁不适合学Teachers and Education Professionals Not Elsewhere Classified？**
-- 追求高薪和快速晋升的人
-- 不喜欢与不同背景学习者打交道的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching, have patience, and communication skills.
+- Those who wish to develop long-term and continue learning in the field of education
+- Willing to accept academic credentials and possible language requirements
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those who dislike working with learners from diverse backgrounds
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual salary for Spanish teachers?**
+A: There are significant differences between stages: junior teachers earn about 22,000-28,000 euros, experienced teachers can earn up to 35,000 euros, and education administrators or university professors can earn over 45,000 euros.
+
+**Q: How can a non-EU degree become a teacher in Spain?**
+A: First, the academic qualification must be officially certified (Homologación), followed by completion of the Master of Education or teacher qualification exam according to the job requirements. Work residency requires employer sponsorship.
+
+**Q: What visa options are available for the Spanish education sector?**
+A: Common pathways include Employed Work Residence (Cuenta ajena), EU Blue Card (Tarjeta azul UE), and Highly Skilled Professional Visa (Altamente cualificado), all of which require meeting educational and salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Teachers and Education Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for teachers in Spain?**
-答：It varies widely: entry-level teachers earn around €22,000-28,000, experienced teachers up to €35,000, and education managers or university professors can exceed €45,000.
-
-**问：How can non-EU qualifications lead to teaching jobs in Spain?**
-答：First, obtain official recognition of your degree (Homologación), then complete a Master's in Education or pass teacher exams if required. A work permit needs employer sponsorship.
-
-**问：What visa options exist for educators in Spain?**
-答：Common paths include the standard work permit (Cuenta ajena), EU Blue Card (Tarjeta azul UE), and Highly Skilled Professional visa (Altamente cualificado), each requiring specific education and salary thresholds.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

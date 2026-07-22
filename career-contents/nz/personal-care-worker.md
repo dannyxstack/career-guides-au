@@ -1,59 +1,94 @@
-# Personal Care Worker（Personal Care Worker）职业分析 · 新西兰
+# Personal Care Worker — career analysis · New Zealand
 
-**职业代码：423311 – Personal Care Worker。**
+**Occupation code: 423311 (ANZSCO)**
 
-Personal Care Workers are in high demand in New Zealand's healthcare sector, driven by an aging population. This role offers migration pathways via AEWV or Green List Tier 2, suitable for those with relevant qualifications and experience.
+Personal care workers are in high demand in New Zealand's health services sector, especially as the population ages. This occupation allows immigration via the Accredited Employer Work Visa or Green List Tier 2 pathway, suitable for those with relevant qualifications and work experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 三级证书 | 6个月 | $5,000~$10,000（如新西兰健康与福利证书（三级）） |
-| 四级证书 | 1年 | $10,000~$15,000（提升至高级护理员） |
+| Certificate III | 6 months. | $5,000~$10,000 (Such as the New Zealand Certificate in Health and Wellbeing (Level 3)) |
+| Certificate IV | 1 year | $10,000~$15,000 (Advance to Senior Care Worker) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰健康与福利证书（三级） | 培训机构 | 必备 | 基本从业资质 |
-| 急救证书 | 新西兰红十字会 | 可选 | 常见要求 |
-| 雅思/移民英语考试 | IELTS等 | 必备 | 移民语言要求 |
+| New Zealand Certificate in Health and Wellbeing (Level 3) | Training institution | Required | Basic professional qualification. |
+| IELTS/migration English test | IELTS, etc. | Required | Immigration language requirement |
+| First aid certificate | New Zealand Red Cross | Optional | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰个人护理员就业前景良好，因人口老龄化和政府健康支出增加，岗位需求持续上升。劳动统计局预计未来5年增长约15%，主要机会在家居护理和养老院。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Personal care aides in New Zealand have good employment prospects due to an aging population and increased government health spending, with job demand rising. The labor bureau projects about 15% growth over the next 5 years, with main opportunities in home care and nursing homes.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 行业最低工资以上 |
-| 中级（3-6年） | $55,000~$65,000 | 有经验后提升 |
-| 高级（6年以上） | $65,000~$80,000 | 包含团队领导等角色 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Above industry minimum wage |
+| Mid-level (3–6 years) | $55,000~$65,000 | Improvement after gaining experience |
+| Senior (6+ years) | $65,000~$80,000 | Includes roles such as team leader |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径包括从初级护理员晋升为高级护理员、团队领导或护理协调员。也可通过深造转向注册护士或健康管理岗位，薪资随经验和资历提升显著。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
+
+Career progression paths include advancing from junior caregiver to senior caregiver, team leader, or care coordinator. Further study can lead to registered nurse or healthcare management roles, with salary increasing significantly with experience and qualifications.
+
+**Tasks most exposed to AI:**
+
+- Record daily care logs via AI voice assistants
+- Automated scheduling and route optimization to reduce manual dispatch
+- Using AI chatbots to handle basic customer inquiries
+- Automatically generating care plan templates to reduce paperwork
+
+**Where AI augments the role:**
+
+- Use wearable devices and AI analysis to monitor elderly activity and fall risk in real time
+- Using NLP tools to assist in recording client preferences and needs
+- AI-assisted medication reminders and dose tracking to improve accuracy
+- Using virtual reality (VR) training to enhance communication and emergency skills
+- AI-driven personalized nutrition and activity recommendations
+
+**Human moat:**
+
+- Physical assistance (e.g., moving, bathing, dressing) requires physical contact and strength
+- Emotional support and psychological comfort require empathy and trust
+- Intuitive judgment and on-the-spot adaptation in emergencies
+- Multi-Party Coordination and Communication with Families and Medical Teams
+- Cultural sensitivity and personalized care (non-standardized behaviors)
+
+**Skills to build:**
+
+- Operation and data interpretation of basic health monitoring equipment
+- Use of remote care platforms and electronic health record systems
+- Application of AI-assisted decision-making tools (e.g., risk assessment dashboards)
+- Enhanced communication and empathy skills with technological assistance
+- Basic data analysis: extracting key trends from AI reports
+- Digital literacy: learning new nursing software and wearable devices
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Aging Population
@@ -62,65 +97,64 @@ Personal Care Workers are in high demand in New Zealand's healthcare sector, dri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于有认证雇主的工作，可转居留 |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 若薪资达标或配偶加分亦可 |
+| Subclass AEWV (Accredited Employer Work Visa) | Applicable for work with an accredited employer, can lead to residence |
+| Subclass Green List T2 (Green List Tier 2) | Eligible to apply for residence after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | If salary meets requirements or spouse adds points, it may be possible |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Personal Care Worker？**
-- 有耐心、爱心，愿意照顾老人或残疾人士
-- 寻求稳定就业且不介意体力劳动
-- 希望通过技术移民路径获得新西兰居留权
-
-**谁不适合学Personal Care Worker？**
-- 对护理工作有心理抵触或体力不足
-- 期望高薪或快速晋升
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, caring, and willing to look after the elderly or people with disabilities
+- Seeking stable employment and not minding physical labor
+- Aiming to obtain New Zealand residency through skilled migration pathways
+
+**Who is not suited**
+- Those with psychological resistance or insufficient physical strength for care work
+- Expecting high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for personal care assistants in New Zealand?**
+A: Entry-level annual salary about NZ$48,000-55,000, experienced up to NZ$65,000-80,000.
+
+**Q: How can personal care aides immigrate to New Zealand?**
+A: Eligible via Green List Tier 2 pathway, apply for residence after 2 years of work; or via Accredited Employer Work Visa to skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Personal Care Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Personal Care Worker in New Zealand?**
-答：Entry-level salary is around NZ$48,000-55,000 per year, experienced up to NZ$65,000-80,000.
-
-**问：How can a Personal Care Worker migrate to New Zealand?**
-答：Via Green List Tier 2 (work 2 years then residence) or AEWV leading to SMC.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

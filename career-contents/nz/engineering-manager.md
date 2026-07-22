@@ -1,59 +1,95 @@
-# Engineering Manager（Engineering Manager）职业分析 · 新西兰
+# Engineering Manager — career analysis · New Zealand
 
-**职业代码：133211 – Engineering Manager。**
+**Occupation code: 133211 (ANZSCO)**
 
-Engineering managers lead project teams, manage budgets, schedules, and technical solutions. In New Zealand, demand is strong especially in infrastructure and energy. This role qualifies for Green List Tier 1 direct residence and Skilled Migrant Category 6-point system.
+Engineering managers lead engineering project teams, managing budgets, schedules, and technical solutions. This position is in high demand in New Zealand, especially in infrastructure and energy sectors. Can apply for residency directly via Green List Tier 1, or through the Skilled Migrant Category 6-point system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$50,000（新西兰大学工程本科每年学费约NZD 30,000-50,000） |
-| 硕士 | 1-2年 | $40,000~$65,000（硕士每年学费约NZD 40,000-65,000） |
+| Bachelor's degree | 4 years | $30,000~$50,000 (New Zealand university engineering undergraduate tuition is about NZD 30,000-50,000 per year) |
+| Master's degree | 1-2 years | $40,000~$65,000 (Master's tuition approximately NZD 40,000–65,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程学士（荣誉） | 新西兰大学 | 必备 | 通常需要华盛顿协议认可的工程学位 |
-| 特许专业工程师（CPEng） | 新西兰工程局（Engineering NZ） | 可选 | 建议取得，利于就业和移民 |
-| 雅思6.5（各单项不低于6.0） | IELTS | 必备 | 技术移民英语要求 |
+| Bachelor of Engineering (Honours) | New Zealand universities | Required | Typically requires an engineering degree accredited by the Washington Accord |
+| IELTS 6.5 (no band lower than 6.0) | IELTS | Required | English language requirements for skilled migration |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Recommended to obtain, beneficial for employment and immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰基建投资和可再生能源项目持续增长，工程经理需求预计未来5年保持强劲。惠灵顿、奥克兰和基督城机会最多，部分地区存在人才短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's infrastructure investment and renewable energy projects continue to grow; demand for engineering managers is expected to remain strong over the next 5 years. Opportunities are most abundant in Wellington, Auckland, and Christchurch, with talent shortages in some regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 通常需先有工程背景 |
-| 中级（3-7年） | $110,000~$150,000 | 具备管理经验 |
-| 高级（7年以上） | $150,000~$200,000 | 资深或大型项目经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $80,000~$110,000 | Usually requires an engineering background first |
+| Mid-level (3–7 years) | $110,000~$150,000 | Possess management experience |
+| Senior (7+ years) | $150,000~$200,000 | Senior or large project manager |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从高级工程师晋升为工程经理，后可发展为高级项目经理、工程总监或首席技术官。积累大型项目经验和PMP认证有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI automation risk for engineering managers is moderate: repetitive reporting, resource scheduling, and compliance checks will be taken over by AI, but strategic decision-making, cross-team coordination, and emergency management needs will actually increase. Overall job numbers are stable, but core responsibilities shift to higher value-add.
+
+Typically progress from senior engineer to engineering manager, then to senior project manager, engineering director, or CTO. Accumulating large project experience and PMP certification aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating project progress reports and KPI dashboards
+- AI-optimized resource allocation and budget forecasting
+- Standardized compliance documents (e.g., safety audit forms)
+- Automated screening for preliminary risk assessment
+- Routine meeting minutes and task tracking
+
+**Where AI augments the role:**
+
+- AI-assisted complex schedule simulation and bottleneck prediction
+- Real-time cost-schedule variance analysis and corrective suggestions
+- Automated supplier performance evaluation reports
+- Visualization and conflict detection of cross-project dependencies
+- AI-driven team sentiment analysis and conflict early warning
+
+**Human moat:**
+
+- Strategic decision-making and priority trade-offs under uncertainty
+- Conflict mediation and motivation in cross-cultural, cross-functional teams
+- Handling on-site accidents and customer crisis public relations
+- Intuitive judgment of project hidden risks (e.g., political, interpersonal)
+- Integrate AI outputs into actionable plans through tacit knowledge
+
+**Skills to build:**
+
+- Project management AI tools (e.g., Asana Smart, MS Project Copilot)
+- Basic Python/R for customized data analysis
+- Lean/Agile and AI integration methodology
+- Data-driven decision-making and KPI system design
+- Digital twin and BIM platform management
+- AI ethics and AI tool acceptance evaluation
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Engineering managers lead project teams, manage budgets, schedules, and technica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 工程经理在绿色清单第一梯队，可直接申请居留，无需先工作 |
-| Subclass SMC（Skilled Migrant Category） | 可用6分制申请，通常需要学士学位加3年经验或更高学历加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达移民条件，可用认证雇主工签先工作，再转永居 |
+| Subclass Green List T1 (Straight to Residence Visa) | Engineering Manager is on Green List Tier 1, can directly apply for residence without prior work |
+| Subclass SMC (Skilled Migrant Category) | Can apply using the 6-point system, usually requires a bachelor's degree plus 3 years of experience or a higher degree for extra points. |
+| Subclass AEWV (Accredited Employer Work Visa) | If immigration conditions are not met, you can first work on a sponsored employer visa, then transition to permanent residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Manager？**
-- 具有工程背景和项目管理经验的人
-- 希望快速通过Green List移民新西兰的人
-- 愿意在基建、能源、建筑行业长期发展的人
-
-**谁不适合学Engineering Manager？**
-- 不喜欢现场管理和频繁出差的人
-- 寻求完全远程工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with engineering background and project management experience
+- Those hoping to immigrate quickly via New Zealand's Green List
+- Those willing to develop long-term careers in infrastructure, energy, and construction industries
+
+**Who is not suited**
+- People who dislike on-site management and frequent travel
+- People seeking fully remote work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for an engineering manager in New Zealand?**
+A: Based on experience: entry-level approx. NZ$80,000–110,000, mid-level NZ$110,000–150,000, senior NZ$150,000–200,000. Positions above NZ$200,000 are rare, typically in large projects or director level.
+
+**Q: How can an engineering manager immigrate to New Zealand?**
+A: Engineering manager is on the Green List Tier 1 and can directly apply for Straight to Residence Visa. Also eligible for 6-point SMC, usually requiring a bachelor's degree plus 3 years' experience or a master's degree. No need to find a job first.
+
+**Q: What qualifications are needed to become an engineering manager?**
+A: Typically requires a bachelor's degree in engineering (accredited under the Washington Accord), plus at least 5 years of engineering experience, including 2 years in management. CPEng certification is not mandatory but beneficial for employment. English language requirement: IELTS 6.5.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Engineering Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for an engineering manager in New Zealand?**
-答：Entry-level: NZD 80,000-110,000; mid-level: NZD 110,000-150,000; senior: NZD 150,000-200,000. Salaries above NZD 200,000 are rare and usually for director roles.
-
-**问：How can an engineering manager immigrate to New Zealand?**
-答：Engineering manager is on Green List Tier 1, eligible for Straight to Residence Visa. Also qualifies for Skilled Migrant Category 6-point system with a bachelor's degree plus 3 years experience or a master's degree. No job offer required.
-
-**问：What qualifications are needed to become an engineering manager?**
-答：Typically a bachelor's degree in engineering (Washington Accord accredited), plus 5+ years of engineering experience with 2 years in management. CPEng certification is not mandatory but helpful. IELTS 6.5 overall.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

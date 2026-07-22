@@ -1,61 +1,96 @@
-# Supervisor - Artistic Metal Design（Supervisor - Artistic Metal Design）职业分析 · DE
+# Supervisor - Artistic Metal Design — career analysis · Germany
 
-**职业代码：9359 – Supervisor - Artistic Metal Design。**
+**Occupation code: 9359 (KldB)**
 
-Supervisors in artistic metal design oversee the production of metal artworks in workshops or manufacturing companies, guiding techniques such as forging, casting, and welding, ensuring quality and managing teams.
+An art metal design supervisor oversees and guides the production of metal artworks in metal craft workshops or manufacturing companies, including processes like forging, casting, and welding, ensuring quality and managing the team.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间有工资，通常无需学费） |
-| 手工业大师培训（Meister） | 1-2年（兼职） | $3,000~$8,000（需自费，可申请联邦资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Paid during training, usually no tuition fees) |
+| Master Craftsman Training (Meister) | 1-2 years (part-time) | $3,000~$8,000 (Must be self-funded; eligible for federal funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属设计师证书（Gesellenbrief） | 德国手工业协会（HWK） | 必备 | 完成双元制培训后获得，必备 |
-| 手工业大师证书（Meisterbrief） | 德国手工业协会（HWK） | 必备 | 晋升主管或自营的必备条件 |
-| 国外学历认证（Anerkennung） | 德国认证机构 | 必备 | 对第三国申请人，需认证职业资格 |
+| Metal Designer Certificate (Gesellenbrief) | German Chamber of Crafts (HWK) | Required | Required after completing dual-system training |
+| Master Craftsman Certificate (Meisterbrief) | German Chamber of Crafts (HWK) | Required | Prerequisite for promotion to supervisor or self-employment |
+| Foreign qualification recognition (Anerkennung) | German certification body | Required | For third-country applicants, professional qualifications must be certified. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。德国手工业领域长期面临技术人才短缺，艺术金属设计主管岗位需求稳定。随着高端定制和修复项目增加，该职业前景良好，尤其在巴伐利亚和北威州等传统金属加工区。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. The German skilled trades sector has long faced a shortage of technical talent, with stable demand for art metal design supervisors. With the increase in high-end custom and restoration projects, career prospects are good, especially in traditional metalworking areas like Bavaria and North Rhine-Westphalia.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于联邦州和企业规模 |
-| 中级（4-7年） | $35,000~$45,000 | 取得大师证书后薪资显著提升 |
-| 高级（8年以上） | $45,000~$60,000 | 主管或自营工匠收入更高 |
+| Median salary | $38,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, depending on federal state and company size. |
+| Mid-level (4-7 years) | $35,000~$45,000 | Salary significantly increases after obtaining the master certificate |
+| Senior (8+ years) | $45,000~$60,000 | Supervisors or self-employed craftspeople earn higher incomes |
+| average salary | $42,252 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从金属设计学徒起步，积累经验后晋升为主管。可进一步考取大师证书（Meisterbrief），成为独立工匠或企业管理者，也可向文物修复或工业设计方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of art metal design director involves creative design, manual craftsmanship, team management; AI can assist with design optimisation, production scheduling, and quality monitoring, but core artistic judgment and manual operations are hard to replace. It is a high-skill, low-automation-risk position.
+
+Typically start as a metal design apprentice and advance to supervisor after gaining experience. Can further obtain a Master Craftsman certificate (Meisterbrief) to become an independent artisan or business manager, or move toward heritage restoration or industrial design.
+
+**Tasks most exposed to AI:**
+
+- Basic welding and cutting path programming and execution
+- Repetitive forging operations
+- Automatic identification of dimensions and surface defects in quality inspection
+- Automation of production scheduling and inventory management
+- Automatic matching of technical parameters for customer orders
+
+**Where AI augments the role:**
+
+- Use AI to generate diverse metal art design solutions.
+- predict metal material forming effects using simulation software
+- Use AI to optimize production cycle times and resource allocation
+- Use AR/VR for remote collaboration and client previews
+- Real-time adjustment of process parameters based on AI quality feedback
+
+**Human moat:**
+
+- Deep understanding of metal material properties and artistic aesthetics
+- Hand forging and finishing techniques for complex shapes
+- Cross-occupation coordination and project creative decision-making
+- Communication skills to convert client needs into unique artwork
+- Ability to protect and innovatively integrate traditional crafts
+
+**Skills to build:**
+
+- 3D modeling and parametric design (e.g., Rhino, Grasshopper)
+- Programming of CNC metalworking equipment (e.g., CNC, laser cutting)
+- AI-assisted design tools (e.g., Midjourney for idea generation)
+- Project management and Agile scheduling skills
+- Knowledge of new materials and surface treatment technologies
+
+**Key growth areas:**
 
 - Artisan metalwork
 - Heritage restoration
@@ -64,69 +99,68 @@ Supervisors in artistic metal design oversee the production of metal artworks in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于具备德国认可职业资格的技术工人，需雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 若年薪达标（2024年约43000欧元），可申请，但该职业通常薪资较低，需确认 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 针对有资质的求职者，允许在德寻找工作，积分制 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | For skilled workers with a recognized German vocational qualification, requiring employer sponsorship |
+| Subclass EU Blue Card (EU Blue Card) | If annual salary meets the threshold (approx. EUR 43,000 in 2024), you can apply, but this occupation typically has lower pay, so check carefully. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | For qualified job seekers, allows job searching in Germany, points-based system |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Artistic Metal Design？**
-- 热爱手工艺术和金属加工的人
-- 有领导能力和团队管理经验者
-- 愿意在德国完成职业资格认证或双元制培训者
-
-**谁不适合学Supervisor - Artistic Metal Design？**
-- 不喜欢体力劳动和车间环境的人
-- 无法接受较长的学徒期和认证过程的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about handicraft and metalworking
+- Those with leadership skills and team management experience
+- Willing to complete vocational qualification certification or dual-system training in Germany
+
+**Who is not suited**
+- People who dislike physical labor and workshop environments
+- Those who cannot accept long apprenticeship periods and certification processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of an Art Metal Design Supervisor?**
+A: Junior supervisor pre-tax annual income approx. €28,000-35,000; with a master certificate, it can reach €45,000-60,000. Income varies by region and company size.
+
+**Q: How can a third-country national immigrate to Germany as an art metal design supervisor?**
+A: Must first have professional qualifications recognized by a German certification body (e.g., HWK), then apply for a skilled migration visa (Fachkräfteeinwanderungsgesetz). If direct recognition is not possible, you can enter Germany with an opportunity card (Chancenkarte) to seek employment and complete supplementary training.
+
+**Q: Does this career have growth prospects?**
+A: Yes, Germany faces a shortage of skilled tradespeople, with steady demand for advanced craftsmen and supervisors. After obtaining a master craftsman certificate, you can work independently or move into management, or transition to high-end fields like heritage restoration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisor - Artistic Metal Design为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a supervisor in artistic metal design?**
-答：Entry-level supervisors earn around €28,000-€35,000 gross annually; with a master craftsman certificate, it can reach €45,000-€60,000. Income varies by region and company size.
-
-**问：How can a third-country national immigrate to Germany as a supervisor in artistic metal design?**
-答：They must first have their professional qualifications recognized by a German agency (e.g., HWK), then apply for a skilled worker visa. If recognition is not immediate, they can come with an Opportunity Card to find a job and complete additional training.
-
-**问：Are there career prospects in this profession?**
-答：Yes, Germany faces a shortage of skilled craftspeople, creating stable demand for supervisors. Obtaining a master craftsman certificate allows self-employment or management roles, and opportunities exist in heritage restoration.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

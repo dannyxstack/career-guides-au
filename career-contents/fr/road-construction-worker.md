@@ -1,59 +1,95 @@
-# Road Construction Worker（Road Construction Worker）职业分析 · FR
+# Road Construction Worker — career analysis · France
 
-**职业代码：F1702 – Road Construction Worker。**
+**Occupation code: F1702 (ROME)**
 
-Responsible for constructing, repairing, and maintaining roads, highways, and airport runways, including asphalt paving, compaction, grading, and auxiliary tasks.
+Engaged in the paving, maintenance, and upkeep of infrastructure such as roads, expressways, and airport runways, including paving, compaction, leveling, and auxiliary construction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 道路施工 | 2年（CAP） | —（公立学校免费，材料费约500-1500欧元；可通过学徒制带薪学习） |
-| Bac Pro 道路施工 | 3年（Bac Pro） | —（公立学校免费，材料及注册费约1000-2000欧元） |
+| CAP road construction | 2 years (CAP) | $0~$1,500 (Public schools are free, with material costs of about 500-1500 euros; Paid apprenticeship learning is available) |
+| Bac Pro road construction | 3 years (Bac Pro) | $0~$2,000 (Public schools are free, with materials and registration fees of about 1000-2000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CACES 工程机械操作证 | CNAM或认证培训机构 | 必备 | 操作压路机、摊铺机等必需，建议持有R482类别 |
-| SST 急救培训 | INRS或认证机构 | 必备 | 施工现场安全必备，通常由雇主提供 |
-| CAP 道路施工文凭 | 法国教育部 | 可选 | 基础从业资格，多数雇主要求 |
+| CACES construction machinery operation certificate | CNAM or certified training institutions | Required | Operating rollers, pavers, etc. is required; holding R482 class is recommended |
+| SST first aid training | INRS or certification bodies | Required | Construction site safety essentials are usually provided by employers |
+| CAP Road Construction Diploma | French Ministry of Education | Optional | Basic professional qualifications, required by most employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 68,000。法国政府持续投资交通基础设施（如Grand Plan d'Investissement），道路建设与维护需求稳定。老龄化导致技术工人退休潮，新进入者机会较多，但就业受公共预算周期影响。
+**Job demand: high (★★★★☆).** National workforce approx. 68,000. The French government continues to invest in transportation infrastructure (such as the Grand Plan d'Investissement), with stable demand for road construction and maintenance. Aging has led to a wave of retirements for skilled workers, with more opportunities for new entrants, but employment is affected by public budget cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含加班和津贴 |
-| 中级（3-7年） | $27,000~$33,000 | 税前年薪，视技能和证书 |
-| 高级（7年以上/领班） | $34,000~$40,000 | 税前年薪，含管理职责 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including overtime and allowances |
+| Mid-level (3–7 years) | $27,000~$33,000 | Pre-tax annual salary, depending on skills and certifications |
+| Senior (7+ years/team leader) | $34,000~$40,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $28,370 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径：从普通道路工起步，可晋升为团队领班（Chef d'équipe），再至工地主管（Conducteur de travaux）。部分人通过继续教育成为道路施工技术员或项目经理。
-**AI替代风险：可能部分替代（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Core physical tasks for road construction workers (paving and compaction) will be replaced by automated machinery, but on-site decision-making and fine adjustments will still require manpower, and entry-level positions will be significantly reduced.
+
+Career path: Start as an ordinary road worker, advance to team leader (Chef d'équipe), and then to site supervisor (Conducteur de travaux). Some become road construction technicians or project managers through continuing education.
+
+**Tasks most exposed to AI:**
+
+- The automated paver evenly lays the pavement material
+- The autonomous road roller completes the compaction operation
+- GPS-guided leveling robots perform elevation control
+- Drone patrols replace manual road inspections
+- Automated material mixing and conveying systems replace manual handling
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize construction processes and equipment collaboration
+- Real-time data analysis assists in judging compaction and flatness
+- AR headsets provide overlay and navigation for construction drawings
+- The remote monitoring platform manages multiple automated devices
+- Predictive maintenance alerts reduce equipment downtime
+
+**Human moat:**
+
+- Emergency judgment in complex on-site environments
+- Communication and coordination with supervisors and designers
+- Fine-tuning of detailed processes (such as seam treatment)
+- Safety supervision and handling of emergencies
+- Manually repair irregular areas
+
+**Skills to build:**
+
+- Operation and maintenance of automated construction equipment
+- BIM and digital construction management
+- Basic programming and robot troubleshooting
+- Safety and compliance management
+- Data interpretation and quality monitoring
+- Communication, coordination, and team management
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Green roads
@@ -62,68 +98,67 @@ Responsible for constructing, repairing, and maintaining roads, highways, and ai
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主提供工作合同，并通过法国劳动局（France Travail）审核招聘困难证明，适合有经验的道路施工人员。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才或创新项目，但道路施工岗位通常不适用，除非涉及高级工程管理。 |
-| Subclass Recherche emploi（Job Search Visa） | 完成法国学位后可申请，在法寻工1年，找到工作后转为工作居留。 |
+| Subclass Salarié (Employee Work Permit) | Requires employer-provided work contract and a recruitment difficulty certificate verified by France Travail, suitable for experienced road construction workers. |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent or innovative projects, but road construction positions are generally not suitable unless advanced engineering management is involved. |
+| Subclass Recherche emploi (Job Search Visa) | After completing a French degree, you can apply to work in France for one year, and after finding a job, you can switch to working residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Road Construction Worker？**
-- 喜欢户外体力工作，适应天气变化
-- 动手能力强，注重安全规范
-- 愿意接受职业培训和考取操作证书
-
-**谁不适合学Road Construction Worker？**
-- 偏好室内办公或数字化工作环境
-- 体力不佳或对高强度劳动不适应
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy outdoor physical work and adapt to changing weather
+- Strong hands-on skills with focus on safety regulations
+- Willing to receive vocational training and obtain operational certificates
+
+**Who is not suited**
+- Preference for indoor office or digital work environments
+- Poor physical fitness or inability to adapt to high-intensity labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of road workers in France?**
+A: Entry-level salary about €22,000-26,000, intermediate €27,000-33,000, senior or foreman up to €34,000-40,000. Allowances and overtime extra.
+
+**Q: Can foreign road workers immigrate to France?**
+A: Yes, France's labor market is short of such workers. Employers can sponsor such workers through the Salarié work visa, which must prove that there is no suitable candidate within the EU. It is recommended to have a CAP diploma or CACES certificate.
+
+**Q: What certificates are required for road construction in France?**
+A: Must hold the CACES Construction Machinery Operation Certificate (R482 category) and SST first aid training. Although the CAP Road Construction Diploma is not mandatory, it can significantly enhance your competitiveness in the job market.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 可能部分替代（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Road Construction Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for road construction workers in France?**
-答：Junior: €22k-26k, mid-level: €27k-33k, senior/foreman: €34k-40k per year before tax. Overtime and allowances extra.
-
-**问：Can foreign road construction workers immigrate to France?**
-答：Yes, it's a shortage occupation. Employers can sponsor a Salarié work permit after proving no suitable EU candidate. CAP diploma or CACES certificate is recommended.
-
-**问：What certifications are required for road construction in France?**
-答：Mandatory: CACES machinery license (R482) and SST first aid training. CAP in road construction is not mandatory but highly valued.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,93 @@
-# Physical and Chemical Science Technicians（Physical and Chemical Science Technicians）职业分析 · ES
+# Physical and Chemical Science Technicians — career analysis · Spain
 
-**职业代码：3121 – Physical and Chemical Science Technicians。**
+**Occupation code: 3121 (CNO)**
 
-Assist physicists and chemists in experiments, testing, and analysis; operate and maintain lab instruments; record and process data; widely employed in industry, research institutions, and environmental monitoring.
+It assists physicists and chemists in conducting experiments, testing, and analysis, operating and maintaining laboratory instruments, recording and processing data, and is widely used in industry, research institutions, and environmental monitoring fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $1,000~$3,000（公立学校每年约300-1000欧元，私立较高。） |
-| 本科（Grado） | 4年 | $1,200~$4,000（公立大学每年约1200-2500欧元，私立可达4000欧元。） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $1,000~$3,000 (Public schools: approximately €300-1,000 per year; private schools are higher.) |
+| Undergraduate (Grado) | 4 years | $1,200~$4,000 (Public universities approx €1,200-2,500 per year, private up to €4,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学或化学相关高级职业培训（FP Grado Superior） | 西班牙教育部认可的培训机构 | 必备 | 例如'Laboratorio de Análisis y Control de Calidad'专业。 |
-| 相关本科学位（Grado） | 西班牙大学 | 可选 | 如'Ciencia y Tecnología de los Alimentos'或'Química'等专业优先。 |
+| Advanced Vocational Training in Physics or Chemistry (FP Grado Superior) | A training institution recognized by the Spanish Ministry of Education | Required | For example, the 'Laboratorio de Análisis y Control de Calidad' specialty. |
+| Related Undergraduate Degrees (Grado) | Spanish University | Optional | Majors such as 'Ciencia y Tecnología de los Alimentos' or 'Química' are preferred. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙在可再生能源、环境监测和材料科学领域投资增加，带动对物理和化学技术员的需求。但职位多集中于大型企业或研究机构，竞争中等。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. Spain's increased investment in renewable energy, environmental monitoring, and materials science is driving demand for physical and chemical technicians. However, the positions are mostly concentrated in large enterprises or research institutions, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视地区和公司规模而定。 |
-| 中级（3-7年） | $28,000~$38,000 | 税前年薪，含经验和技术专长。 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪，含管理职责或特殊技能。 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, depending on region and company size. |
+| Mid-level (3–7 years) | $28,000~$38,000 | Pre-tax annual salary, including experience and technical expertise. |
+| Senior (7+ years) | $38,000~$48,000 | Pre-tax annual salary, including management responsibilities or special skills. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 初级技术员可晋升为高级技术员或实验室主管；通过攻读硕士学位（Máster）可转向研发工程师或质量控制经理；部分人转向技术销售或产品管理。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+The roles of physical and chemical science technicians will be significantly reshaped by AI: routine experimental operations and data processing tasks face automation, but AI's enhanced data analysis and instrument management capabilities will require a shift toward higher-level experimental design and interpretation.
+
+Junior technicians can be promoted to senior technicians or laboratory supervisors; By pursuing a master's degree (Máster), you can transition to R&D engineering or quality control manager; Some have shifted to technology sales or product management.
+
+**Tasks most exposed to AI:**
+
+- Repetitive experimental operations, such as sample preparation, standard titration, pH measurement, etc
+- Data recording and preliminary processing, such as manually entering experimental data into tables
+- Routine instrument calibration and maintenance log recording
+- Generate standard reports and charts
+
+**Where AI augments the role:**
+
+- Use AI to analyze complex experimental data and identify hidden patterns
+- Optimize the experimental plan through AI simulation of experimental conditions
+- AI-assisted instrument fault diagnosis and predictive maintenance
+- Automated data analysis report generation to improve efficiency
+- AI literature retrieval and knowledge graph assisting experimental design
+
+**Human moat:**
+
+- Creative design and optimization of experimental schemes
+- Analysis of causes and comprehensive judgment of abnormal results
+- Interdisciplinary collaboration and communication
+- Laboratory safety and compliance management
+- New method development and validation
+
+**Skills to build:**
+
+- Python/R data analysis and automated scripting
+- Fundamentals of machine learning and its applications in chemical/physical data analysis
+- Operation of AI tools (such as laboratory information systems like LIMS).
+- Statistical Process Control (SPC) and quality control methods
+- Use of digital twin and simulation software
+- Interdisciplinary communication and project management
+
+**Key growth areas:**
 
 - Renewable Energy
 - Environmental Analysis
@@ -61,68 +96,67 @@ Assist physicists and chemists in experiments, testing, and analysis; operate an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 面向高技能专业人士，需大学学历和至少一年合同，工资门槛约33,908欧元（2023年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高技能专业人员，满足学历和工资要求，可快速获得居留。 |
-| Subclass Cuenta ajena（Employed Work Permit） | 由雇主申请，需证明职位无法在欧盟内填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Targets highly skilled professionals; requires a university degree and at least one-year contract; salary threshold approx. €33,908 (2023). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly skilled professionals, meeting educational and salary requirements, allowing quick residency acquisition. |
+| Subclass Cuenta ajena (Employed Work Permit) | Employers must apply and prove that the position cannot be filled within the EU. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physical and Chemical Science Technicians？**
-- 对物理和化学实验操作有浓厚兴趣，注重细节和精确度
-- 希望在工业研发或环境监测领域获得稳定技术岗位
-- 愿意通过FP或本科学历进入，并接受两年制职业培训
-
-**谁不适合学Physical and Chemical Science Technicians？**
-- 不喜欢重复性实验和数据处理
-- 希望在学术研究或纯科学领域成为独立研究者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in physics and chemistry experimental operations, with attention to detail and precision
+- Those seeking stable technical positions in industrial R&D or environmental monitoring
+- Willing to enter through an FP or bachelor's degree and undergo two-year vocational training
+
+**Who is not suited**
+- Dislikes repetitive experiments and data processing
+- Hope to become an independent researcher in academic research or pure scientific fields
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for physical and chemical technicians?**
+A: The pre-tax annual salary for junior technicians is about 22,000-28,000 euros, depending on the region and company.
+
+**Q: As a non-EU citizen, how can you obtain such a work visa in Spain?**
+A: You can obtain the EU Blue Card (Tarjeta azul UE) or the Highly Skilled Professional visa (Ley 14/2013), which requires an employer offer and meeting the salary threshold.
+
+**Q: What key skills are required for this position?**
+A: Requires laboratory instrument operation skills, data recording and analysis abilities, basic knowledge of chemistry and physics, and teamwork spirit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Physical and Chemical Science Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for physical and chemical science technicians?**
-答：Entry-level technicians earn approximately €22,000-€28,000 gross annually, depending on location and company.
-
-**问：How can non-EU citizens obtain a work visa for this occupation in Spain?**
-答：Through the EU Blue Card or the Highly Skilled Professional visa (Ley 14/2013), requiring a job offer and meeting salary thresholds.
-
-**问：What key skills are required for this role?**
-答：Skills in lab instrument operation, data recording and analysis, basic chemistry and physics knowledge, and teamwork.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

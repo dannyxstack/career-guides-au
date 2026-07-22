@@ -1,60 +1,96 @@
-# Dance Teacher（Dance Teacher）职业分析 · DE
+# Dance Teacher — career analysis · Germany
 
-**职业代码：8453 – Dance Teacher。**
+**Occupation code: 8453 (KldB)**
 
-Dance teachers instruct various dance styles such as ballet, modern, and Latin for children, teens, or adults, typically working in private dance schools, fitness centers, or cultural institutions.
+Dance teachers teach different styles of dance, such as ballet, contemporary, and Latin, to children, teenagers, or adults, often working in private dance schools, fitness centres, or cultural institutions.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有津贴，部分需自付材料费） |
-| 本科学位（舞蹈教育） | 4年 | —（公立大学免学费，仅收学期注册费） |
+| Dual vocational training | 3 years | $0~$500 (Allowances during training; some may need to pay for materials themselves) |
+| Bachelor's degree (Dance Education) | 4 years | $0~$1,500 (Public universities are tuition-free; only semester registration fees are charged.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈教师资格认证 | 德国舞蹈教师协会 (ADTV) 或类似机构 | 可选 | 非强制但显著提升就业机会 |
-| 舞蹈教育学士学位 | 德国公立艺术/体育大学 | 可选 | 部分学校要求，尤其公立学校职位 |
+| Dance teacher certification | German Dance Teachers Association (ADTV) or similar body | Optional | Not mandatory but significantly improves job opportunities |
+| Bachelor's degree in Dance Education | German public art/sports universities | Optional | Required by some schools, especially public school positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。德国舞蹈教育市场稳定，但全职岗位有限，多与健身、文化休闲结合。数字化教学趋势带来新机会，但竞争较激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The dance education market in Germany is stable, but full-time positions are limited, often combined with fitness and cultural leisure. Digital teaching trends bring new opportunities, but competition is fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 多为兼职或课时费，年收入波动大 |
-| 中级（3-7年） | $30,000~$45,000 | 全职或稳定课时，含公立学校合同 |
-| 高级（7年以上） | $40,000~$55,000 | 工作室负责人或知名教师 |
+| Median salary | $45,360 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$30,000 | Mostly part-time or hourly rates, annual income fluctuates significantly |
+| Mid-level (3–7 years) | $30,000~$45,000 | Full-time or stable teaching hours, including public school contracts |
+| Senior (7+ years) | $40,000~$55,000 | Studio head or well-known teacher. |
+| average salary | $50,052 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从舞蹈教师晋升为资深教师、舞蹈学校负责人或独立开办工作室。通过继续教育可涉足舞蹈治疗、编舞等交叉领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Teaching and creative work for dance teachers is relatively safe, but AI tools can assist with choreography, music selection, and virtual teaching, replacing some repetitive tasks. Entry-level positions have narrowed slightly due to competition from online courses and AI tools, but demand remains stable for high-emotion in-person classes.
+
+Can progress from dance teacher to senior teacher, dance school director, or independent studio owner. Through continuing education, can branch into cross-disciplinary areas such as dance therapy or choreography.
+
+**Tasks most exposed to AI:**
+
+- Recording and distribution of standardized video tutorials for basic dance moves
+- Music rhythm analysis and synchronized practice with dance
+- Automatic recording of student progress data and basic report generation.
+- Initial movement sequence generation for choreography (based on style library)
+- Automated replies to common questions during online course Q&A.
+
+**Where AI augments the role:**
+
+- Use AI motion capture technology to analyse student postures in real time and provide corrective feedback
+- Personalize training plans for students using AI recommendation systems
+- Using AI choreography tools to gain creative inspiration and movement variations
+- Automatically generates dance teaching descriptions and course outlines through natural language generation.
+- Use AI to analyze classroom participation and effects to optimize course design
+
+**Human moat:**
+
+- Emotional interaction and motivational skills in on-site teaching
+- Immediate judgment and adjustment for student physical safety
+- The artistic aesthetic and expression of original choreography
+- Ability to handle unexpected situations (e.g., injuries, emotional issues)
+- Building and maintaining trust in long-term teacher-student relationships
+
+**Skills to build:**
+
+- Use of AI choreography tools (e.g., OpenAI Dance)
+- Motion capture technology and data analysis
+- Designing personalized teaching strategies
+- Multimedia content production (videos, interactive courses)
+- Interdisciplinary integration (music, psychology, sports science)
+- Digital marketing and personal branding
+
+**Key growth areas:**
 
 - Freelance Economy
 - Wellness Trend
@@ -63,66 +99,65 @@ Dance teachers instruct various dance styles such as ballet, modern, and Latin f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪达标，舞蹈教师通常不满足薪资要求 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需雇主担保，职位需认证，非紧缺 |
-| Subclass Chancenkarte（Opportunity Card） | 2024年起可凭积分来德找工，适合自由职业者 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree and annual salary threshold; dance teachers usually do not meet salary requirements |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, position must be certified, not in shortage |
+| Subclass Chancenkarte (Opportunity Card) | From 2024, you can look for work in Germany using a points-based system, suitable for freelancers |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dance Teacher？**
-- 热爱舞蹈与教学
-- 有较强表演或教学经验
-- 能适应灵活工作时间
-
-**谁不适合学Dance Teacher？**
-- 追求稳定高薪
-- 不擅长与人沟通
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about dance and teaching
+- Has strong performance or teaching experience
+- Able to adapt to flexible working hours.
+
+**Who is not suited**
+- Seeking stable high income
+- Poor communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate annual income of a dance teacher?**
+A: Entry-level about EUR 20,000-30,000, intermediate EUR 30,000-45,000, senior EUR 40,000-55,000, mostly paid by teaching hours, income unstable.
+
+**Q: How can non-EU citizens work as dance teachers in Germany?**
+A: Can apply via the opportunity card (Chancenkarte) or employer-sponsored skilled migration visa, but dance teachers are not in a shortage occupation and require credential recognition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dance Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income for dance teachers?**
-答：Entry-level around €20,000-30,000, mid-level €30,000-45,000, senior €40,000-55,000, often paid per lesson.
-
-**问：How can non-EU citizens work as dance teachers in Germany?**
-答：Via the Opportunity Card or employer-sponsored skilled worker visa; dance teaching is not a shortage occupation and requires credential recognition.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Building Architect（Building Architect）职业分析 · NL
+# Building Architect — career analysis · Netherlands
 
-**职业代码：2161 – Building Architect。**
+**Occupation code: 2161 (ISCO08)**
 
-Building architects design architectural plans, coordinate construction drawings, and ensure compliance with regulations and sustainability standards. In the Netherlands, architects must register with the Bureau Architectenregister.
+An architectural designer is responsible for designing building plans, coordinating construction drawings, and ensuring projects comply with regulations and sustainability standards. In the Netherlands, architects must register with the Bureau Architectenregister.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $10,000~$15,000（荷兰本科建筑课程年均学费约€10,000-15,000（非欧盟学生）） |
-| 硕士 | 2年 | $15,000~$20,000（建筑学硕士课程年均学费约€15,000-20,000（非欧盟学生）） |
+| Bachelor's degree | 4 years | $10,000~$15,000 (Annual tuition for undergraduate architecture programs in the Netherlands is approximately €10,000-15,000 (non-EU students)) |
+| Master's degree | 2 years | $15,000~$20,000 (Master of Architecture program annual tuition approximately €15,000–20,000 (non-EU students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 荷兰建筑师注册 | Bureau Architectenregister | 必备 | 完成建筑硕士学历并通过资格评估后方可注册 |
-| 欧盟建筑师注册 | 欧盟各国注册机构 | 可选 | 持有欧盟建筑师资格可在荷兰直接认可 |
+| Dutch architect registration | Bureau Architectenregister | Required | Registration requires completion of a Master's in Architecture and passing a qualification assessment. |
+| EU Architect Registration | Registration bodies in EU countries | Optional | Holding EU architect qualification can be directly recognized in the Netherlands |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★½☆）。** 全国从业人数约 25,000。荷兰建筑行业需求稳定，受可持续建筑和城市更新项目驱动。政府推动绿色建筑与节能改造，为建筑师创造持续机会，但竞争仍较为激烈。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. The Dutch construction industry has stable demand, driven by sustainable building and urban renewal projects. Government promotion of green buildings and energy-efficient retrofits creates ongoing opportunities for architects, but competition remains fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，不含假期津贴和OT |
-| 中级（4-8年） | $50,000~$65,000 | 税前年薪，含假期津贴 |
-| 高级（9年以上） | $70,000~$90,000 | 税前年薪，可能含利润分成 |
+| Median salary | $65,406 | Median salary (official: CBS employee median hourly wage €33.1/hour × 1976h annualized, BRC group 0714 Architecten; P25–P75 €51,178–€84,178, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, excluding holiday allowances and overtime pay. |
+| Mid-level (4–8 years) | $50,000~$65,000 | Pre-tax annual salary, including holiday allowance |
+| Senior (9+ years) | $70,000~$90,000 | Pre-tax annual salary, may include profit sharing |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 初级建筑师可晋升为项目负责人或设计总监，也可成立个人事务所。积累经验后可在大型国际建筑公司担任高级职位，或专攻可持续设计等细分领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Junior architects can advance to project director or design director, or start their own practice. With experience, they can take senior roles in large international architecture firms or specialize in fields like sustainable design.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Sustainable Design
 - BIM
@@ -61,68 +94,67 @@ Building architects design architectural plans, coordinate construction drawings
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 适用于有荷兰雇主担保的专业人士，年薪需达到门槛（2024年€4,500+/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，要求高等教育及job offer，年薪门槛约€5,300/月。 |
-| Subclass Orientation Year（Orientation Year (Search Year)） | 在荷兰毕业后的留学生可申请一年找工作居留，找到工作后可转换工作签证。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to professionals with a Dutch employer sponsor, with a salary threshold (€4,500+/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled talents, requiring higher education and a job offer, with a salary threshold of approx. €5,300/month. |
+| Subclass Orientation Year (Orientation Year (Search Year)) | Graduates in the Netherlands can apply for a one-year job search residence permit, then switch to a work visa once employed. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Architect？**
-- 创意与技术结合，注重细节与空间感的人群
-- 具备良好沟通能力，能协调多方利益的人
-- 对可持续设计、城市发展有热情的人
-
-**谁不适合学Building Architect？**
-- 不喜欢严格图纸和法规约束的人
-- 对长时间面对电脑设计工作感到厌倦的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who combine creativity with technology and pay attention to detail and spatial awareness
+- Someone with good communication skills who can coordinate the interests of multiple parties
+- For those passionate about sustainable design and urban development
+
+**Who is not suited**
+- People who dislike strict blueprints and regulatory constraints
+- People who are tired of long hours in front of a computer doing design work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of architects in the Netherlands?**
+A: Entry-level architect salary is approximately €35,000-45,000 per year, with mid-to-senior levels reaching €50,000-90,000. Salaries are affected by experience, city, and company size.
+
+**Q: How can non-EU architects immigrate to the Netherlands?**
+A: Can be via Highly Skilled Migrant or EU Blue Card, requires Dutch employer sponsorship. It is recommended to first apply for the Orientation Year to seek job opportunities.
+
+**Q: Is registration required to practice in the Netherlands?**
+A: Yes, must be registered with Bureau Architectenregister. Holding registration in another EU country can simplify the process.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★★½☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Building Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for architects in the Netherlands?**
-答：Entry-level architects earn around €35,000-45,000, while senior architects can earn €70,000-90,000 depending on experience and location.
-
-**问：How can non-EU architects immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant or EU Blue Card schemes with a Dutch employer sponsor. Consider the Orientation Year visa first.
-
-**问：Is registration required to practice in the Netherlands?**
-答：Yes, you must register with the Bureau Architectenregister. EU registration can simplify the process.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,99 @@
-# Prison Guard（Prison Guard）职业分析 · IT
+# Prison Guard — career analysis · Italy
 
-**职业代码：5413 – Prison Guard。**
+**Occupation code: 5413 (ISCO08)**
 
-Responsible for supervising prisoners, maintaining order and security in Italian prisons, and enforcing prison regulations.
+Responsible for supervising prisoners, maintaining order and security, and enforcing prison regulations in Italian prisons.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 狱警培训课程 | 6个月 | —（部分费用由监狱系统承担） |
-| 在职培训 | 1年 | —（雇主提供） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Prison officer training course | 6 months. | $0~$500 (Some costs are covered by the prison system) |
+| On-the-job training | 1 year | $0~$0 (Provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利国籍 | 意大利政府 | 必备 | 必须为意大利公民 |
-| 高中毕业证 | 意大利教育部 | 必备 | 需提供文凭 |
-| 体能测试 | 监狱管理局 | 必备 | 通过体能考核 |
-| 无犯罪记录 | 司法部 | 必备 | 需提供证明 |
+| Italian citizenship | Italian government | Required | Must be an Italian citizen |
+| High school diploma | Italian Ministry of Education | Required | Diploma required |
+| Physical fitness test | Department of Corrections | Required | Pass physical fitness assessment. |
+| No criminal record | Department of Justice. | Required | Need to provide proof |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 48,000。意大利监狱系统人员老化，未来5年预计有10%退休，需补充年轻警力。政府计划增员以满足欧盟标准。
+**Job demand: medium (★★½☆☆).** National workforce approx. 48,000. Aging staff in Italy's prison system: an estimated 10% will retire in the next 5 years, requiring younger police reinforcements. The government plans to increase staffing to meet EU standards.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含津贴 |
-| 中级（4-10年） | $30,000~$36,000 | 税前年薪，含津贴 |
-| 高级（10年以上） | $38,000~$45,000 | 税前年薪，含津贴 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including allowances |
+| Mid-level (4-10 years). | $30,000~$36,000 | Annual pre-tax salary, including allowances |
+| Senior (10+ years) | $38,000~$45,000 | Annual pre-tax salary, including allowances |
+| average salary | $33,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基层狱警升至主管（Sovrintendente）再升至副监狱长（Vicedirettore），需通过内部考试和培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on the prison officer profession is mixed: automation will take over routine tasks like monitoring and data entry, but core responsibilities such as security supervision, emergency intervention, and interpersonal control rely heavily on human judgment and are hard to replace in the short term.
+
+Can advance from entry-level prison officer to Supervisor (Sovrintendente) and then to Deputy Prison Director (Vicedirettore), requires internal exams and training.
+
+**Tasks most exposed to AI:**
+
+- Surveillance systems automatically analyze abnormal behavior, replacing manual monitoring
+- AI-generated standardized patrol reports and prisoner files, replacing paperwork
+- Smart access control and positioning systems automatically control prisoner movement range, reducing manual opening and closing
+- AI-assisted prohibited item detection (e.g., X-ray image recognition) reduces manual inspection.
+- Voice recognition and natural language processing automatically record summaries of inmate calls, replacing dictation.
+
+**Where AI augments the role:**
+
+- AI risk scoring system assists in identifying prisoners with high violence potential, enhancing early warning capability
+- Smart sensor monitoring devices track inmate health status in real time, enhancing emergency response speed
+- VR simulation training enhances prison officers' ability to handle emergencies such as riots and negotiations.
+- AI schedule optimization tool automatically arranges shifts, reducing administrative burden
+- Multilingual AI translation helps prison officers communicate with non-local inmates, reducing cultural conflicts
+
+**Human moat:**
+
+- Physical intervention and tactical decision-making in crisis situations (e.g., subduing riots)
+- Experience-based human communication and prisoner psychological counseling
+- Discretion and judgment under the legal framework (e.g., granting privileges or penalties)
+- Mediation and emotional management of complex interpersonal conflicts
+- Quick response to unstructured emergencies in a prison environment.
+
+**Skills to build:**
+
+- Operation and interpretation of AI monitoring systems and data analysis tools
+- Digital forensics and electronic evidence collection basics
+- Conflict resolution and negotiation skills enhancement (combined with VR training)
+- Basic data privacy and cybersecurity knowledge
+- Decision-making ability in human-machine collaboration mode
+- AI-assisted decision-making applications in emergency management
+
+**Key growth areas:**
 
 - Retirement-driven hiring
 - Prison reform
@@ -66,65 +102,67 @@ Responsible for supervising prisoners, maintaining order and security in Italian
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 欧盟公民自由流动（EU Freedom of Movement） | 欧盟公民可自由在意大利工作，无需额外签证。 |
-| Subclass 工作签证（Lavoro Subordin（Work Visa (Subordinate Employment)） | 非欧盟公民需雇主担保，通过Decreto Flussi配额申请。 |
+| Subclass EU Citizens Free Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without additional visas. |
+| Subclass Work Visa (Work Visa (Subordinate Employment)) | Non-EU citizens need employer sponsorship and apply through the Decreto Flussi quota. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Prison Guard？**
-- 纪律性强且能承受高压环境的人
-- 具有良好沟通和冲突解决能力的人
-- 身体健壮且能适应轮班工作的人
+**Who is suited**
+- Individuals with strong discipline and ability to work under high pressure
+- People with strong communication and conflict resolution skills
+- Physically robust individuals able to adapt to shift work.
 
-**谁不适合学Prison Guard？**
-- 无法忍受封闭环境的人
-- 缺乏耐心且易冲动的人
+**Who is not suited**
+- Those who cannot tolerate confined spaces
+- People lacking patience and prone to impulsivity.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of prison officers?**
+A: Junior annual salary approximately €24,000-28,000, mid-level €30,000-36,000, senior €38,000-45,000, all including allowances.
+
+**Q: Can non-EU citizens become prison guards in Italy?**
+A: Typically requires Italian citizenship; non-EU citizens can hardly apply directly but may become eligible after long-term residence and naturalisation.
+
+**Q: What are the promotion opportunities for prison officers?**
+A: Can be promoted through internal exams to positions such as Supervisor (Sovrintendente) or Deputy Prison Director (Vicedirettore).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Prison Guard属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of prison guards?**
-答：Entry-level annual salary is about €24,000-€28,000, mid-level €30,000-€36,000, senior €38,000-€45,000, including allowances.
-
-**问：Can non-EU citizens become prison guards in Italy?**
-答：Usually requires Italian citizenship; non-EU citizens can hardly apply directly but may naturalize after long-term residence.
-
-**问：What promotion opportunities do prison guards have?**
-答：Internal exams allow promotion to supervisor (Sovrintendente), deputy warden (Vicedirettore), etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

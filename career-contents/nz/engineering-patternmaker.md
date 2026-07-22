@@ -1,59 +1,95 @@
-# Engineering Patternmaker（Engineering Patternmaker）职业分析 · 新西兰
+# Engineering Patternmaker — career analysis · New Zealand
 
-**职业代码：323411 – Engineering Patternmaker。**
+**Occupation code: 323411 (ANZSCO)**
 
-Engineering Patternmakers are in steady demand in Auckland and Canterbury manufacturing hubs; while not on the Green List, they can migrate via Skilled Migrant Category (6-point system) or Accredited Employer Work Visa (AEWV), suitable for skilled precision tradespeople.
+Engineering patternmakers have stable demand in the Auckland and Canterbury manufacturing regions. Although not on the Green List, they can come to New Zealand for employment through the Skilled Migrant Category (SMC 6-point system) or an Accredited Employer Work Visa (AEWV), suitable for craftsmen with precision machining experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰工程制模证书（Level 4） | 2年 | $8,000~$15,000（公立理工学院学费，国际生约2.5万-3.5万） |
-| 模具制造学徒制 | 4年 | —（雇主资助培训，可能仅收材料及考试费，约$500-5000） |
+| New Zealand Certificate in Engineering Patternmaking (Level 4) | 2 years | $8,000~$15,000 (Public polytechnic tuition fees: international students approx NZD 25,000-35,000) |
+| Mold making apprenticeship | 4 years | $0~$5,000 (Employer-funded training, may only charge materials and exam fees, approx. $500-5000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家工程制模证书（Level 4） | 新西兰资格认证局（NZQA） | 必备 | 通常包含在学徒制中完成 |
-| 机械行业注册 | 新西兰工程、科学与技术协会（ENZ） | 可选 | 非强制，但有助于雇主担保工签 |
-| 职场英语（IELTS 6.0或同等） | 认可测试机构 | 可选 | 技术移民需总分6.5以上 |
+| New Zealand National Certificate in Engineering Fabrication (Level 4) | New Zealand Qualifications Authority (NZQA) | Required | Usually completed as part of an apprenticeship |
+| Mechanical industry registration | Engineering New Zealand (ENZ) | Optional | Not mandatory, but helps with employer-sponsored work visas |
+| Workplace English (IELTS 6.0 or equivalent) | Recognised assessment authority | Optional | Skilled migration requires overall score of 6.5 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 280。随着新西兰制造业向高精度定制件转型，制模师需求平稳。奥克兰和怀卡托的铸造厂、塑料厂是主要雇主，但岗位数量有限，竞争中等。数字建模和CAM技术普及要求从业者不断更新技能。
+**Job demand: medium (★★★☆☆).** National workforce approx. 280. As New Zealand's manufacturing sector shifts towards high-precision custom parts, demand for patternmakers remains stable. Foundries and plastic factories in Auckland and Waikato are the main employers, but job numbers are limited with moderate competition. The rise of digital modeling and CAM technology requires practitioners to continuously update skills.
 
-**竞争度：中等偏低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$58,000 | 学徒或刚完成证书的新手 |
-| 中级（3-6年） | $58,000~$72,000 | 独立操作模具制作的常见薪资 |
-| 高级（6年以上） | $72,000~$95,000 | 资深技师、主管或特殊模具专家 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$58,000 | Apprentice or recent certificate graduate |
+| Mid-level (3–6 years) | $58,000~$72,000 | Common salary for independent mold making |
+| Senior (6+ years) | $72,000~$95,000 | Senior technician, supervisor, or special mold specialist |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级制模师需5年左右磨炼至独立操作，而后可向CNC编程、模具设计或生产主管发展。部分资深技师进入质检或技术培训岗位，或自主创业开设小批量模具作坊。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for engineering patternmakers is mixed: repetitive manual patternmaking (e.g., wood patterns, foam patterns) is easily replaced by CNC and AI optimization, but high-end roles involving complex casting processes, customer communication, and on-site commissioning are enhanced by AI. Overall demand is shifting towards digitalization and comprehensive skills.
+
+Junior mold makers need about 5 years to refine their skills to work independently, then can progress to CNC programming, mold design, or production supervisor. Some senior technicians move into quality inspection or technical training, or start their own small batch mold workshops.
+
+**Tasks most exposed to AI:**
+
+- Handcraft wooden molds, foam molds, and other prototypes using traditional methods
+- manually calculating shrinkage, machining allowances, and other process parameters
+- Hand mark, saw, grind, and shape according to drawings
+- Repeated inspection and correction of standardized mold dimensions
+- Maintain paper-based process documentation and records
+
+**Where AI augments the role:**
+
+- Use AI generative design to quickly optimize mold structures.
+- Use AI-driven CAM software to automatically generate efficient CNC tool paths
+- Use AI simulation to predict casting defects and adjust process parameters
+- Real-time mold quality monitoring and feedback correction based on AI vision inspection system
+- Use AI knowledge base for quick retrieval of material properties, processing techniques and troubleshooting solutions.
+
+**Human moat:**
+
+- Experience-based judgment in complex casting process design (e.g., gating system, riser design)
+- on-site communication and problem-solving skills with foundries and engineers
+- Manual finishing and adjustment skills for non-standard, high-precision molds
+- Mastery of tacit knowledge such as material properties and thermal deformation
+- Ability to understand customer needs and design customized solutions
+
+**Skills to build:**
+
+- Advanced CAD/CAM software (e.g., SolidWorks, Fusion 360, Mastercam)
+- Operation of AI generative design tools (e.g., Autodesk Generative Design)
+- CNC programming and operation
+- 3D printing and additive manufacturing processes
+- Basic data analysis (Python or Excel) for process optimization
+- Use of AI-assisted inspection tools (e.g. AI vision inspection systems)
+
+**Key growth areas:**
 
 - SMC 6-point
 - AEWV
@@ -62,68 +98,67 @@ Engineering Patternmakers are in steady demand in Auckland and Canterbury manufa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 需满足6分制：学历+工作经验+本地工作offer，或直接对应NZQF Level 4-6配合新西兰工作 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主需为认证雇主，提供至少中位数薪资的工作合同，最长3年 |
-| Subclass Green List T2（Work to Residence (Green List Tier 2)） | 制模师不在T1直接居留列表，但如从事某些特定制造业岗位且薪资达中位数1.5倍，可能符合T2工作2年后转居留 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Must meet the six-point system: qualifications + work experience + local job offer, or directly correspond to NZQF Level 4-6 with a New Zealand job. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employers must be accredited, offer a contract with at least median salary, and a maximum duration of 3 years |
+| Subclass Green List T2 (Work to Residence (Green List Tier 2)) | Die maker is not on the T1 direct residence list, but if working in certain manufacturing roles and earning 1.5 times the median salary, may qualify for residence after 2 years on a T2 visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Patternmaker？**
-- 喜欢动手操作精密机械、注重细节的人
-- 有金属或塑料模具制造经验、愿意接受新西兰认证的技工
-- 寻求中等收入、稳定职业、非高竞争行业的移民候选人
-
-**谁不适合学Engineering Patternmaker？**
-- 追求高薪或快速晋升的人
-- 不适应车间噪音、粉尘及长时间站立工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work with precision machinery and pay attention to detail
+- Experience in metal or plastic mold manufacturing, willing to obtain New Zealand certification as a skilled tradesperson.
+- Seek immigration candidates with medium income, stable occupation, and non-highly competitive industries
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who cannot adapt to workshop noise, dust, and prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a tooling engineer in New Zealand?**
+A: According to 2024 data, intermediate die makers earn about 58,000-72,000 NZD per year; senior supervisors can earn up to 95,000 NZD. This is below the national median salary (about 70,000 NZD).
+
+**Q: Can engineering pattern makers immigrate directly through the Green List?**
+A: No. This occupation is not on the Green List T1 or T2. But you can apply for residence via Skilled Migrant Category (SMC 6-point system) or gain experience on an Accredited Employer Work Visa (AEWV) then apply for a resident visa.
+
+**Q: How long does it take to become a certified engineering patternmaker in New Zealand?**
+A: Typically requires completing a 4-year apprenticeship and obtaining a Level 4 certificate. If overseas experience exists, NZQA assessment and bridging modules may be needed, about 6 months to 1 year.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏低（★★☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Engineering Patternmaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for Engineering Patternmakers in New Zealand?**
-答：For intermediate patternmakers (3-6 years), annual salary ranges NZ$58,000-72,000; senior roles up to NZ$95,000, below the national median of about NZ$70,000.
-
-**问：Can Engineering Patternmakers emigrate via the Green List?**
-答：No, it is not on Green List Tier 1 or 2. However, they can apply for residence via SMC (6-point system) or gain experience on an AEWV and then apply for residence.
-
-**问：How long to become a qualified Engineering Patternmaker in New Zealand?**
-答：Typically a 4-year apprenticeship leading to Level 4 certificate. For experienced overseas workers, NZQA assessment and bridging modules may take 6 months to 1 year.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

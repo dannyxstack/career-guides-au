@@ -1,60 +1,95 @@
-# Industrial Mechanical Maintenance Technician（Industrial Mechanical Maintenance Technician）职业分析 · FR
+# Industrial Mechanical Maintenance Technician — career analysis · France
 
-**职业代码：I1310 – Industrial Mechanical Maintenance Technician。**
+**Occupation code: I1310 (ROME)**
 
-Responsible for installing, commissioning, preventive maintenance and troubleshooting of industrial machinery (production lines, pumps, compressors, machine tools) to ensure operational reliability.
+Responsible for the installation, commissioning, preventive maintenance, and fault repair of industrial machinery and equipment (such as production lines, pumps, compressors, machine tools) to ensure normal operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中证书（CAP）或职业业士文凭（Bac Pro） | 2-3年 | —（公立学校免费，仅注册费，学徒制有工资） |
-| 高级技师文凭（BTS）维护工业系统 | 2年 | —（公立院校免费，私立约3000-6000欧/年） |
-| 职业学士（Licence Pro）工业维护 | 1年 | —（公立大学约200-500欧注册费） |
+| Vocational High School Certificate (CAP) or Bac Pro Diploma | 2-3 years | $0~$1,500 (Public schools are free, with only a registration fee, and apprenticeships are paid) |
+| Advanced Technician Diploma (BTS) in maintaining industrial systems | 2 years | $0~$2,000 (Public institutions free, private approximately 3,000-6,000 euros/year) |
+| Bachelor of Vocational Studies (Licence Pro) in Industrial Maintenance | 1 year | $0~$3,000 (The registration fee for public universities is about 200-500 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 预防性维护/故障诊断能力 | 企业培训或AFPA | 可选 | 非强制，但雇主重视实践经验，常需CACES（工厂设备操作证书） |
-| 焊接资格证 | 法国标准化协会（AFNOR）或企业 | 可选 | 部分岗位要求焊接技能认证 |
-| 电气安全认证（Habilitation électrique） | 雇主或培训机构 | 必备 | 从事电气维护必需，安全法规要求 |
+| Electrical Safety Certification (Habilitation Électrique) | Employer or training provider | Required | Essential for electrical maintenance, as required by safety regulations |
+| Preventive maintenance/fault diagnosis capabilities | Corporate training or AFPA | Optional | Non-mandatory, but employers value practical experience and often require CACES (Factory Equipment Operation Certificate) |
+| Welding qualification certificate | The French Association for Standardization (AFNOR) or enterprises | Optional | Some positions require welding skill certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。法国工业4.0转型推动自动化设备维护需求增长，尤其在汽车、航空、食品加工领域。2023-2030年预计岗位稳定增加，但面临老员工退休潮，需新血补充。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. France's Industry 4.0 transformation is driving increased demand for automated equipment maintenance, especially in the automotive, aerospace, and food processing sectors. From 2023 to 2030, the number of positions is expected to steadily increase, but facing a wave of retirements from veteran employees, new talent is needed.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $30,000~$40,000 | 税前年薪，普通技工平均水平 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，团队主管或专家级别 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $30,000~$40,000 | Pre-tax annual salary, average level for ordinary technicians |
+| Senior (8+ years) | $40,000~$50,000 | Pre-tax annual salary, team leader or expert level |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从技术员升为团队主管或维护经理，也可专攻自动化或数控系统。获得BTS或Licence后，可向维护工程师或生产经理方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+You can advance from technician to team leader or maintenance manager, or specialize in automation or CNC systems. After obtaining a BTS or Licence, you can move on to become a maintenance engineer or production manager.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industry 4.0
 - Predictive Maintenance
@@ -63,67 +98,66 @@ Responsible for installing, commissioning, preventive maintenance and troublesho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 需雇主担保，合同符合法国最低工资标准，法国劳动局（France Travail）审核是否紧缺职业，机械维护属紧缺，通过率高。 |
-| Subclass Passeport Talent（Passeport Talent - Qualified Employee） | 若持有硕士或同等学历，或具备高技能（如自动维护），可申请人才护照，简化流程，直接获得4年居留。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | Employer sponsorship required, contracts meet France's minimum wage standards, the French Labour Bureau (France Travail) reviews whether the occupation is in short supply, machinery maintenance is in short supply, and the acceptance rate is high. |
+| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | If you hold a Master's degree or equivalent, or have high skills (such as automation maintenance), you can apply for a Talent Passport, simplifying the process and directly obtaining 4-year residence. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Mechanical Maintenance Technician？**
-- 喜欢动手实操、维修机械的人
-- 具备一定电气和机械知识，愿意从事工业环境工作
-- 希望获得稳定就业和技术移民机会的人
-
-**谁不适合学Industrial Mechanical Maintenance Technician？**
-- 不喜欢体力劳动或现场维修环境
-- 对机械原理不感兴趣，偏好办公桌工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and mechanical maintenance
+- Possess certain electrical and mechanical knowledge and be willing to work in industrial environments
+- Those seeking stable employment and skilled migration opportunities
+
+**Who is not suited**
+- Dislikes physical labor or on-site maintenance environments
+- Not interested in mechanical principles, prefers desk work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for industrial machinery maintenance technicians in France?**
+A: Entry-level approx. €24,000–30,000/year, mid-level €30,000–40,000, senior €40,000–50,000 (pre-tax annual salary, including bonuses). Overtime and night shifts may attract extra allowances.
+
+**Q: As a third-country citizen, how can you immigrate to France through this employment?**
+A: The most commonly used is the Salarié employment visa, which requires a French employer to provide a work contract and prove that the position cannot be recruited within the EU (reviewed by the French Employment Agency). Mechanical maintenance is a scarce profession with a relatively high pass rate. You can also try the Passeport Talent Passport if you hold a master's degree.
+
+**Q: Does this profession require specific certification in France?**
+A: No specific diploma is required, but BTS or Licence Pro significantly increase employment opportunities. Electrical safety certification (Habilitation électrique) is an essential requirement for engaging in electrical maintenance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Industrial Mechanical Maintenance Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for industrial mechanical maintenance technicians in France?**
-答：Entry-level around €24,000-€30,000/year, mid-level €30,000-€40,000, senior €40,000-€50,000 (gross annual, including bonuses). Overtime and night shifts may provide extra allowances.
-
-**问：As a third-country national, how can I immigrate to France through this occupation?**
-答：The most common route is the Salarié (employee) work permit, requiring a job offer from a French employer and demonstrating that the position cannot be filled locally (verified by France Travail). Industrial maintenance is a shortage occupation, so approval rates are higher. Alternatively, the Passeport Talent may be suitable if you hold a master's degree or higher.
-
-**问：Does this occupation require specific certifications in France?**
-答：No specific diploma is mandatory, but a BTS or Licence Pro significantly boosts employability. An electrical safety certification (Habilitation électrique) is required for any electrical maintenance work.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

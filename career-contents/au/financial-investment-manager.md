@@ -1,59 +1,95 @@
-# Financial Investment Manager（Financial Investment Manager）职业分析 · 澳大利亚
+# Financial Investment Manager — career analysis · Australia
 
-**职业代码：222312 – Financial Investment Manager。**
+**Occupation code: 222312 (ANZSCO)**
 
-Financial Investment Managers manage investment portfolios, develop strategies, and grow assets for clients or institutions by analyzing markets and assessing risks.
+A financial investment manager is responsible for managing investment portfolios, formulating investment strategies, and achieving asset growth for clients or institutions. They analyze market trends, assess risks, and oversee investment decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（商科学位，如金融或经济学） |
-| 硕士 | 2年 | $40,000~$70,000（金融硕士或MBA可增强竞争力） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Business degree, such as in finance or economics) |
+| Master's degree | 2 years | $40,000~$70,000 (A Master's in Finance or MBA can boost competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融学士学位 | 澳洲大学 | 必备 | 相关领域如金融、经济学 |
-| CFA认证 | CFA协会 | 可选 | 特许金融分析师，非强制但高度推荐 |
-| RG146合规 | ASIC | 必备 | 提供金融产品建议所需 |
+| Bachelor's degree in Finance | Australian universities | Required | Related fields such as finance, economics |
+| RG146 compliance | ASIC | Required | Required to provide financial product advice |
+| CFA certification | CFA Institute | Optional | Chartered Financial Analyst, not mandatory but highly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,500。澳洲金融投资经理需求稳定，受养老金行业增长和财富管理需求驱动。预计未来五年就业增长中等，但竞争激烈。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Demand for financial investment managers in Australia is stable, driven by growth in the superannuation industry and wealth management needs. Employment growth is expected to be moderate over the next five years, but competition is strong.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$100,000 | 分析师或助理经理 |
-| 中级（3-7年） | $110,000~$150,000 | 投资经理 |
-| 高级（7年以上） | $160,000~$250,000 | 高级经理或总监 |
+| Median salary | $134,264 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $75,000~$100,000 | Analyst or Assistant Manager |
+| Mid-level (3–7 years) | $110,000~$150,000 | Investment manager |
+| Senior (7+ years) | $160,000~$250,000 | Senior manager or director |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径可从分析师或顾问起步，逐步晋升为投资经理、高级经理，最终成为投资总监或首席投资官。也可向私募股权或对冲基金等专业领域发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Career path can start as an analyst or advisor, progressing to investment manager, senior manager, and eventually investment director or chief investment officer. May also specialize in private equity or hedge funds.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Wealth Management
 - ESG Investing
@@ -62,69 +98,68 @@ Financial Investment Managers manage investment portfolios, develop strategies, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent visa） | 适用于MLTSSL职业，无需担保，直接永久居留。 |
-| Subclass 190（Skilled Nominated visa） | 需州担保，可获得额外加分，永久居留。 |
-| Subclass 482（Temporary Skill Shortage visa） | 雇主担保，短期或中期，可转186永久居留。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永久居留，需482过渡或直接申请。 |
+| Subclass 189 (Skilled Independent visa) | Applicable to MLTSSL occupations, no sponsorship required, direct permanent residence. |
+| Subclass 190 (Skilled Nominated visa) | Requires state nomination, can get extra points, permanent residency. |
+| Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored, short-term or medium-term, can transition to 186 permanent residence. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requires 482 transition or direct application. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Investment Manager？**
-- 拥有金融、经济学或数学背景的分析型人才
-- 对投资市场和资产管理有浓厚兴趣
-- 具备较强的沟通能力和决策能力
-
-**谁不适合学Financial Investment Manager？**
-- 对数字和市场波动不敏感的人
-- 不喜欢高压和长时间工作环境的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Analytical talent with a background in finance, economics, or mathematics
+- Strong interest in investment markets and asset management
+- Strong communication and decision-making skills.
+
+**Who is not suited**
+- Those insensitive to numbers and market fluctuations
+- People who dislike high-pressure and long-hour work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a financial investment manager?**
+A: Entry-level about AUD 75,000-100,000, mid-level 110,000-150,000, senior 160,000-250,000+, plus bonuses.
+
+**Q: How can financial investment managers immigrate to Australia?**
+A: Can apply via 189 Skilled Independent visa (on MLTSSL), 190 State Nomination, or 482/186 Employer Sponsorship pathways.
+
+**Q: What certifications do financial investment managers need?**
+A: Typically requires a bachelor's degree in finance, with CFA highly recommended, and must meet ASIC's RG146 compliance requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Financial Investment Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Financial Investment Manager?**
-答：Entry-level AUD 75,000-100,000, mid-level AUD 110,000-150,000, senior AUD 160,000-250,000+, plus bonuses.
-
-**问：How can a Financial Investment Manager migrate to Australia?**
-答：Via 189 Skilled Independent visa (on MLTSSL), 190 State Nominated, or 482/186 employer-sponsored visas.
-
-**问：What certifications are needed for a Financial Investment Manager?**
-答：A finance bachelor's degree is required; CFA is highly recommended; RG146 compliance is mandatory for giving advice.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

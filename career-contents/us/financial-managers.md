@@ -1,59 +1,95 @@
-# Financial Managers（Financial Managers）职业分析 · 美国
+# Financial Managers — career analysis · United States
 
-**职业代码：11-3031 – Financial Managers。**
+**Occupation code: 11-3031 (SOC)**
 
-Plan, direct, or coordinate accounting, investing, banking, insurance, securities, and other financial activities of a branch, office, or department.
+responsible for planning, directing, or coordinating financial activities such as accounting, investment, banking, insurance, and securities, managing the financial operations of branches or departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均1万-3万美元，私立大学更高） |
-| 硕士学位（MBA） | 2年 | $60,000~$150,000（顶尖商学院费用更高，但可获奖学金） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities: $10,000-30,000 USD per year; private universities higher.) |
+| Master's degree (MBA) | 2 years | $60,000~$150,000 (Top business schools cost more but scholarships available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册会计师（CPA） | 美国各州会计委员会 | 可选 | 非强制但高度推荐，提升竞争力 |
-| 注册金融分析师（CFA） | CFA协会 | 可选 | 投资领域常见资格 |
-| 财务风险管理师（FRM） | 全球风险专业人士协会 | 可选 | 风险管理方向 |
+| Certified Public Accountant (CPA) | State Boards of Accountancy (US) | Optional | Not mandatory but highly recommended to enhance competitiveness |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Common qualifications in investment |
+| Financial Risk Manager (FRM) | Global Association of Risk Professionals | Optional | Risk management direction |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 776,600。美国劳工统计局预计2023-2033年就业增长16%，远快于平均水平。全球化与监管复杂性推动需求，金融科技转型创造新机会。
+**Job demand: high (★★★★☆).** National workforce approx. 776,600. U.S. Bureau of Labor Statistics projects 16% employment growth from 2023-2033, much faster than average. Globalization and regulatory complexity drive demand, fintech transformation creates new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$100,000 | 助理财务经理或财务分析师晋升 |
-| 中级（3-7年） | $100,000~$150,000 | 完整财务经理职责 |
-| 高级（7年以上） | $150,000~$250,000 | 大型公司或金融行业财务总监 |
+| Median salary | $166,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $75,000~$100,000 | Promotion from assistant financial manager or financial analyst |
+| Mid-level (3–7 years) | $100,000~$150,000 | Full Financial Manager Responsibilities |
+| Senior (7+ years) | $150,000~$250,000 | Financial controller in large corporations or finance industry |
+| average salary | $186,910 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从财务分析师升为财务经理，再晋升为财务总监（CFO）或首席财务官。也可转向咨询、私募或创业。需持续学习会计准则与金融技术。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Advance from financial analyst to finance manager, then to finance director (CFO) or chief financial officer. Could also move into consulting, private equity, or entrepreneurship. Requires continuous learning of accounting standards and financial technology.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - Financial Technology
 - Globalization
@@ -62,69 +98,68 @@ Plan, direct, or coordinate accounting, investing, banking, insurance, securitie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大型公司，需学士学位以上，配额竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士学位或学士加5年经验，PERM劳工证后申请 |
-| Subclass EB-3（Employment-Based Third Preference） | 学士学位即可，但排期较长 |
-| Subclass L-1A（Intracompany Transferee Executive or Manager） | 跨国公司内部经理调派，可转绿卡 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in large companies, requires at least a bachelor's degree, competitive quotas |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or a bachelor's plus 5 years of experience, apply after PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree sufficient, but longer wait times |
+| Subclass L-1A (Intracompany Transferee Executive or Manager) | Intra-company transfer for managers, can lead to green card. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Managers？**
-- 喜欢数字和数据分析，擅长策略规划
-- 有领导力，能管理团队并协调部门
-- 抗压能力强，适应快节奏工作环境
-
-**谁不适合学Financial Managers？**
-- 对细节不敏感，不擅长数字运算
-- 不喜欢与人沟通或承担财务责任
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes numbers and data analysis, skilled in strategic planning
+- Possess leadership, able to manage teams and coordinate departments
+- Strong ability to work under pressure and adapt to fast-paced work environment
+
+**Who is not suited**
+- Not detail-oriented, not good with numbers
+- Dislikes communication with others or taking financial responsibility
+
+---
+
+## 8. FAQ
+
+**Q: Which state pays the highest salary for financial managers?**
+A: New York, California, and Massachusetts typically have the highest salaries, with median above USD 150,000, but cost of living is also higher.
+
+**Q: Is it difficult for financial managers to apply for a US green card?**
+A: Applying for a green card through EB-2 or EB-3 is common, requiring employer sponsorship and completion of PERM. H-1B lottery rates are low, but the L-1 visa is an effective path for multinational company managers
+
+**Q: What skills do financial managers need?**
+A: Core skills include financial analysis, budget management, leadership, communication, and understanding of regulations (e.g., SEC reporting). Proficiency in Excel and ERP systems is also important.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Financial Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Which state has the highest salary for financial managers?**
-答：New York, California, and Massachusetts typically offer the highest median salaries, often above $150,000, but cost of living is also higher.
-
-**问：Is it difficult for financial managers to apply for a US green card?**
-答：EB-2 or EB-3 with PERM is common but requires employer sponsorship. H-1B lottery is uncertain, but L-1 for intracompany transferees is a viable route.
-
-**问：What skills do financial managers need?**
-答：Core skills include financial analysis, budgeting, leadership, communication, and understanding regulations like SEC reporting. Proficiency in Excel and ERP systems is also important.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

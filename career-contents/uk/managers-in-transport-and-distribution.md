@@ -1,59 +1,95 @@
-# Managers in transport and distribution（Managers in transport and distribution）职业分析 · UK
+# Managers in transport and distribution — career analysis · United Kingdom
 
-**职业代码：1241 – Managers in transport and distribution。**
+**Occupation code: 1241 (SOC)**
 
-Managers in transport and distribution plan, organise, and co-ordinate the activities and resources necessary for the safe, efficient and economic movement of passengers and freight by road, rail, sea and air transport.
+Transport and distribution managers plan, organize, and coordinate passenger and freight transport activities and resources by road, rail, sea, and air, ensuring safe, efficient, and cost-effective transport operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $9,250~$15,000（英国本科国际生学费） |
-| 物流与供应链管理硕士 | 1年 | $15,000~$25,000（部分院校提供1年制硕士） |
+| Bachelor's degree | 3 years | $9,250~$15,000 (International student tuition fees for UK undergraduate programs) |
+| Master of Logistics and Supply Chain Management | 1 year | $15,000~$25,000 (Some institutions offer 1-year master's programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运输管理证书（CPC） | 英国交通部 | 必备 | 管理商用车辆运营必需 |
-| 物流与运输学会（CILT）会员 | CILT | 可选 | 非强制但提升职业竞争力 |
-| 项目管理认证（如PRINCE2） | AXELOS | 可选 | 有助于项目管理和晋升 |
+| Transport Manager Certificate of Professional Competence (CPC) | UK Department for Transport | Required | Essential for managing commercial vehicle operations |
+| Member of the Chartered Institute of Logistics and Transport (CILT) | CILT | Optional | Not mandatory but enhances career competitiveness |
+| Project management certification (e.g., PRINCE2) | AXELOS | Optional | Useful for project management and promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。英国物流与运输行业持续发展，电子商务增长推动配送需求，绿色物流转型创造新岗位，预计未来十年就业人数稳步增长。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. The UK logistics and transport industry continues to grow, e-commerce growth driving delivery demand, green logistics transformation creating new jobs, with steady employment growth expected over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助理经理或调度员晋升 |
-| 中级（3-8年） | $35,000~$55,000 | 管理中型车队或仓库 |
-| 高级（8年以上） | $55,000~$80,000 | 区域或全国运输经理 |
+| Median salary | $47,504 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Promotion to assistant manager or dispatcher |
+| Mid-level (3–8 years) | $35,000~$55,000 | Manage medium-sized fleet or warehouse |
+| Senior (8+ years) | $55,000~$80,000 | Regional or national transport manager |
+| average salary | $52,572 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可晋升为运营总监或供应链副总裁，也可转向咨询或自主创业，需积累管理经验并考取物流或运输管理相关认证。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Transport and distribution manager roles will undergo significant transformation: AI optimizes planning and documentation processing to improve efficiency, but tasks such as fleet scheduling and route optimization are gradually automated, while interpersonal coordination and emergency decision-making skills become more valuable.
+
+Can advance to operations director or supply chain VP; also possible to move into consulting or entrepreneurship, requiring management experience and logistics/transport management certifications.
+
+**Tasks most exposed to AI:**
+
+- Transport route and schedule optimization (AI algorithm automatically generates optimal solutions)
+- Real-time traffic and weather data monitoring with automatically adjusted scheduling
+- Regular report generation and automated compliance document filling
+- Inventory level monitoring and automatic replenishment alerts
+- Automatic collection and analysis of driver performance data
+
+**Where AI augments the role:**
+
+- Strategic planning: AI simulates the cost and efficiency of different transport strategies to aid decision-making
+- Risk management: AI predicts delays and accident risks, enabling proactive responses
+- Customer communication: AI provides real-time tracking information, increasing transparency
+- Cost control: AI analyzes energy consumption and maintenance cycles to optimize budget allocation.
+- Team collaboration: AI platforms integrate driver, warehousing and customer information, reducing information silos
+
+**Human moat:**
+
+- Complex crisis management (e.g., multi-vehicle accidents, emergency coordination)
+- High-level negotiations and relationship management with clients and regulatory bodies
+- Team motivation and human resource management (employee satisfaction, culture building)
+- Cross-departmental strategic integration (alignment of logistics, procurement, and sales goals)
+- Intuitive decision-making on unstructured problems (e.g., judging whether to cancel transport due to bad weather)
+
+**Skills to build:**
+
+- Use of AI scheduling and optimization tools (e.g., OR-Tools, Llamasoft)
+- Data analysis and visualization (Python, Power BI)
+- Upgrade supply chain management software (SAP, Oracle SCM)
+- Automated process design (RPA basics)
+- Human-machine collaboration leadership (managing AI-assisted teams)
+- Sustainable transport regulations and carbon emissions management
+
+**Key growth areas:**
 
 - e-commerce growth
 - green logistics
@@ -62,68 +98,67 @@ Managers in transport and distribution plan, organise, and co-ordinate the activ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的运输经理，需满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适用于在物流领域有杰出成就或领导力的申请人 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可在毕业后工作2年，积累经验后转工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to transport managers with employer sponsorship, meeting salary and skill requirements. |
+| Subclass Global Talent (Global Talent visa) | For applicants with outstanding achievements or leadership in the logistics field. |
+| Subclass Graduate (Graduate visa) | UK graduates can work for 2 years after graduation, then switch to a work visa after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in transport and distribution？**
-- 擅长计划和协调的人
-- 有物流或运输背景的人
-- 喜欢快节奏和解决问题的人
-
-**谁不适合学Managers in transport and distribution？**
-- 不喜欢应对突发状况的人
-- 不擅长团队管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Person good at planning and coordinating
+- People with logistics or transportation background
+- People who enjoy fast-paced environments and problem-solving
+
+**Who is not suited**
+- People who don't like dealing with unexpected situations
+- People not skilled in team management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Transport and Distribution Managers?**
+A: Entry-level annual salary approx £28,000-35,000, mid-level £35,000-55,000, senior up to £55,000-80,000. More experienced earn higher salaries.
+
+**Q: Which visa pathways are suitable for transport and distribution managers immigrating to the UK?**
+A: The Skilled Worker visa is the main route, requiring employer sponsorship; the Global Talent visa is suitable for outstanding individuals; graduates can first obtain a Graduate visa to work and then switch to a work visa.
+
+**Q: Is this occupation currently in high demand in the UK?**
+A: Demand is stable and growing, driven by e-commerce and green logistics, but it is not on the shortage occupation list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Managers in transport and distribution的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for managers in transport and distribution?**
-答：Entry-level positions earn around £28,000-£35,000, mid-level £35,000-£55,000, and senior roles can reach £55,000-£80,000. Experienced professionals may earn more.
-
-**问：What visa routes are available for transport and distribution managers to immigrate to the UK?**
-答：The Skilled Worker visa is the main route requiring employer sponsorship; the Global Talent visa is for exceptional talents; graduates can work on a Graduate visa and later switch to a work visa.
-
-**问：Is this occupation in high demand in the UK?**
-答：Demand is stable and growing due to e-commerce and green logistics, but it is not on the shortage occupation list.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Command and Control Center Officers（Command and Control Center Officers）职业分析 · 美国
+# Command and Control Center Officers — career analysis · United States
 
-**职业代码：55-1015 – Command and Control Center Officers。**
+**Occupation code: 55-1015 (SOC)**
 
-Manage communication, detection, and weapons systems for military operations; coordinate emergency response teams and agencies.
+Manage and operate communication, detection, and weapon systems, coordinate air, ground, and naval operations, develop emergency plans, and command emergency response teams.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $100,000~$200,000（军事院校或大学ROTC项目） |
-| 军官训练学校 | 3-6个月 | —（由军方资助） |
+| Bachelor's degree | 4 years | $100,000~$200,000 (Military academies or university ROTC programs) |
+| Officer Training School | 3-6 months | $0~$0 (Funded by the military) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军官委任 | 美国国防部 | 必备 | 必须通过军官训练项目获得委任 |
-| 安全许可 | 美国国防部 | 必备 | 需要机密或绝密安全许可 |
+| Officer appointment | U.S. Department of Defense | Required | Must be commissioned through officer training programs |
+| Safety clearance | U.S. Department of Defense | Required | Requires confidential or top secret security clearance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 12,000。美国军方对指挥与控制人员的需求稳定，但随着技术升级，对数字化和网络安全技能的需求增加。预计岗位数量保持平稳，竞争激烈。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 12,000. Demand for command and control personnel in the US military is stable, but with technology upgrades, demand for digital and cybersecurity skills is increasing. Job numbers are expected to remain stable with intense competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 根据军衔和地区调整 |
-| 中级（4-10年） | $65,000~$95,000 | 包括基本薪资和津贴 |
-| 高级（10年以上） | $95,000~$130,000 | 高级军衔或文职岗位 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$65,000 | Varies by rank and region |
+| Mid-level (4-10 years). | $65,000~$95,000 | Includes base salary and allowances |
+| Senior (10+ years) | $95,000~$130,000 | Senior military rank or civilian position |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径通常从初级军官到高级指挥官，需积累作战经验和领导能力。可转向国防部文职岗位或私营部门的应急管理职位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core decision-making responsibilities and unpredictable battlefield environment of command and control centre officers form a strong moat, but AI will take over tasks such as data fusion and threat assessment, and entry-level positions may be reduced due to AI-assisted systems.
+
+Career progression typically goes from junior officer to senior commander, requiring accumulated combat experience and leadership skills. Can transition to civilian roles in the Department of Defence or emergency management positions in the private sector.
+
+**Tasks most exposed to AI:**
+
+- Multi-source sensor data fusion and initial threat identification
+- Routine communication dispatch and resource allocation
+- Automatic generation of battlefield situation reports
+- Repetitive command transmission in standard operating procedures
+
+**Where AI augments the role:**
+
+- AI recommends action plans, human commander makes quick decisions
+- Real-time prediction of enemy actions, optimizing force deployment
+- Automatically generate emergency plans and simulate drills
+- Enhance multi-domain situational awareness, reduce cognitive load.
+
+**Human moat:**
+
+- Make final decisions under high-pressure, uncertain environments
+- Understanding political and human contexts, weighing ethics and rules
+- Cross-team coordination and leadership, building trust
+- Handling unstructured, ambiguous information and responding innovatively
+
+**Skills to build:**
+
+- Military operations research and AI decision-making explanation
+- Human-machine collaboration and automated command systems operation
+- Data visualization and advanced situational analysis
+- Cross-domain joint command knowledge
+- Ethical decision-making framework and rule application
+- Simulation training and AI-assisted drill design
+
+**Key growth areas:**
 
 - Military
 - Command & Control
@@ -63,65 +95,67 @@ Manage communication, detection, and weapons systems for military operations; co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，仅限文职国防承包商岗位 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 通常不适用，军方岗位多要求公民身份 |
-| Subclass Green Card (PERM)（Green Card via PERM） | 几乎不可能，因公民身份要求 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, only for civilian defense contractor positions |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Generally not applicable, as military roles often require citizenship |
+| Subclass Green Card (PERM) (Green Card via PERM) | Almost impossible due to citizenship requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Command and Control Center Officers？**
-- 有志于军旅生涯并愿意服从调派
-- 具备领导力、决策力和抗压能力
+**Who is suited**
+- Aspires to a military career and willing to accept reassignment
+- Possess leadership, decision-making, and stress tolerance
 
-**谁不适合学Command and Control Center Officers？**
-- 不愿搬迁或长期部署
-- 无法通过严格安全审查
+**Who is not suited**
+- Unwilling to relocate or deploy long-term
+- Unable to pass strict security clearance
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for command and control center officers?**
+A: Salary depends on rank and years of service; junior officer approx. USD 45,000-65,000, senior officer up to USD 95,000-130,000.
+
+**Q: Does this occupation have a pathway to immigrate to the US?**
+A: Typically no, as most positions require US citizenship. Only a few civilian contractor roles may qualify for H-1B or green card.
+
+**Q: What are the requirements to become a command and control center officer?**
+A: Usually requires a bachelor's degree and completion of an officer training program, plus a security clearance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Command and Control Center Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Command and Control Center Officers?**
-答：Salary depends on rank and years of service; junior officers earn ~$45k-65k, senior officers up to $95k-130k.
-
-**问：Are there immigration pathways for this occupation?**
-答：Generally no, as most positions require U.S. citizenship. Only rare civilian contractor roles may qualify for H-1B or green card.
-
-**问：What are the requirements to become a Command and Control Center Officer?**
-答：Typically a bachelor's degree and officer training program, plus a security clearance.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

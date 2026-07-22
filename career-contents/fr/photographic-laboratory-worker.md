@@ -1,60 +1,96 @@
-# Photographic Laboratory Worker（Photographic Laboratory Worker）职业分析 · FR
+# Photographic Laboratory Worker — career analysis · France
 
-**职业代码：E1203 – Photographic Laboratory Worker。**
+**Occupation code: E1203 (ROME)**
 
-Operates automatic or semi-automatic equipment to develop, print, enlarge, and digitize photographic images in a laboratory setting, ensuring quality standards.
+Responsible for film development, printing, upscaling, and digitization in the photography laboratory, operating automatic or semi-automatic equipment to ensure image quality.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年 | $3,000~$5,000（公立学校学费低，私立约3000-5000欧元/年） |
-| 高级技术员证书（BTS） | 2年 | $3,000~$6,000（公立BTS免费，私立约3000-6000欧元/年） |
+| Certificate of Professional Competency (CAP) | 2 years | $3,000~$5,000 (Public schools have low tuition fees, while private ones cost about 3,000-5,000 euros per year) |
+| Advanced Technician Certificate (BTS) | 2 years | $3,000~$6,000 (Public BTS is free, private is about 3000-6000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Photographie | 法国教育部 | 可选 | 基础职业文凭，从事摄影实验室工作的最低要求 |
-| BTS Photographie | 法国教育部 | 可选 | 高级文凭，更受雇主青睐 |
+| CAP Photographie | French Ministry of Education | Optional | Basic vocational diploma, minimum requirements for working in a photography laboratory |
+| BTS Photographie | French Ministry of Education | Optional | Higher diplomas are more favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 1,200。随着数码摄影普及，传统胶片实验室需求持续下降，但专业/艺术摄影领域仍有小众需求。就业机会有限，且多集中在专业冲印店或博物馆。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 1,200. With the widespread adoption of digital photography, demand for traditional film labs continues to decline, but there is still niche demand in the professional and art photography fields. Job opportunities are limited and mostly concentrated in professional print shops or museums.
 
-**竞争度：竞争中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，根据地区和公司规模略有差异 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，通常为实验室主管或质量控制职位 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary varies slightly depending on region and company size |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, usually for laboratory supervisors or quality control positions |
+| average salary | $26,742 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从初级技术员晋升为实验室主管或质量控制专员；也可转向数码后期/图像处理领域。但晋升空间小，行业萎缩趋势明显。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Photo processing workers and machine operators face high automation risk; AI-driven editing software and automatic printing systems will significantly replace routine tasks, leading to notable job decline.
+
+Promotion from junior technician to laboratory supervisor or quality control specialist; It can also be expanded into digital post-processing/image processing fields. However, there is little room for advancement, and the industry is clearly shrinking.
+
+**Tasks most exposed to AI:**
+
+- Batch photo color correction and exposure adjustment
+- Standard size cropping and scaling
+- Film scanning and digital file organization
+- Simple flaw fixes like stain removal and red-eye reduction
+- Photo printing and chemical processing processes
+
+**Where AI augments the role:**
+
+- Advanced color management and stylized color grading
+- Creative restoration such as old photo restoration
+- Custom artistic effect applications
+- AI-assisted batch strategy development
+- Anomaly detection in quality audits
+
+**Human moat:**
+
+- Complex creative decisions such as artistic style judgment
+- Client communication and understanding of custom needs
+- Unpredictable physical media handling
+- Fine manual restoration skills
+- Ethical judgment and copyright compliance
+
+**Skills to build:**
+
+- Advanced digital color management (e.g., DaVinci Resolve)
+- AI image processing tools (e.g., Adobe Sensei)
+- Post-production creative skills in photography
+- Quality management and anomaly handling.
+- Client communication and project coordination
+- Knowledge of sustainable materials and eco-friendly processes.
+
+**Key growth areas:**
 
 - Declining demand
 - Digital photography
@@ -63,64 +99,66 @@ Operates automatic or semi-automatic equipment to develop, print, enlarge, and d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee (Salarié)） | 适用于有法国雇主提供工作合同的情况，需获得法国劳动局批准。 |
+| Subclass Salarié (Employee (Salarié)) | This applies to cases where a work contract is provided by a French employer, and approval from the French Labor Bureau is required. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographic Laboratory Worker？**
-- 热爱传统摄影工艺的人
-- 注重细节和质量控制的人
-- 愿意接受行业萎缩现实，坚守小众市场的人
+**Who is suited**
+- People who love traditional photographic crafts
+- Detail-oriented and quality-focused individuals
+- Those willing to accept the reality of industry decline and stick to niche markets
 
-**谁不适合学Photographic Laboratory Worker？**
-- 希望高薪或快速晋升的人
-- 偏好稳定需求和广阔前景行业的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People who prefer industries with stable demand and broad prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Are the salaries for photography lab technicians competitive?**
+A: Salary levels are relatively low, with entry-level workers around €22,000–€26,000 per year, below the average wage in France. Industry growth is slow, and there is limited room for salary increases.
+
+**Q: Are there opportunities for skilled migration for foreigners?**
+A: Almost zero. This occupation is not in urgent demand and requires high employer sponsorship. It is recommended to consider other digital or creative careers related to photography.
+
+**Q: What does the future hold for this profession?**
+A: Traditional photography laboratories continue to shrink, with digital replacement becoming more apparent. There is only a small demand in the high-end art/restoration sector. Transitioning to digital post-production or imaging management is the way forward.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 竞争中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Photographic Laboratory Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary competitive for photographic laboratory workers?**
-答：Salaries are relatively low, with entry-level around 22k-26k EUR/year, below the national average. Limited growth and raises.
-
-**问：Are there technical migration opportunities for foreigners?**
-答：Almost none. The occupation is not in shortage and employer sponsorship is rare. Consider other digital or creative photography roles.
-
-**问：What is the future of this career?**
-答：Traditional photo labs are shrinking due to digitalization. Demand remains only in high-end art/restoration. Transition to digital post-processing or image management is advised.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

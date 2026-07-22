@@ -1,60 +1,93 @@
-# Animal Groomer（Animal Groomer）职业分析 · FR
+# Animal Groomer — career analysis · France
 
-**职业代码：A1503 – Animal Groomer。**
+**Occupation code: A1503 (ROME)**
 
-Animal groomers provide bathing, coat trimming, styling, nail clipping, and ear cleaning for pets (mainly dogs and cats), ensuring hygiene and appearance.
+Pet groomers are responsible for grooming, trimming, styling, nail trimming, ear canal cleaning, and other services for pets (mainly cats and dogs) to ensure hygiene and tidy appearance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 宠物美容 | 2年（CAP） | $1,500~$8,000（公立学校免费，私立学校费用较高；可学徒制带薪） |
-| Bac Pro 宠物护理 | 3年（Bac Pro） | —（公立学校免费，部分私立收费） |
+| CAP pet grooming | 2 years (CAP) | $1,500~$8,000 (Public schools are free, while private schools are more expensive; Paid apprenticeship is available) |
+| Bac Pro Pet Care | 3 years (Bac Pro) | $0~$5,000 (Public schools are free, while some private schools charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Toilettage Canin et Félin | 法国教育部 | 必备 | 宠物美容国家文凭，行业入门必需 |
-| CCP（职业能力证书） | France Compétences | 可选 | 针对成人的职业培训证书，可替代CAP |
+| CAP Toilettage Canin et Félin | French Ministry of Education | Required | National diploma in pet grooming, essential for industry entry |
+| CCP (Certificate of Professional Competence) | France Compétences | Optional | Vocational training certificates for adults can replace CAP |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国宠物数量持续增长，宠物美容需求旺盛。该职业就业前景良好，尤其在巴黎等大城市。但受经济波动影响较小，属稳定行业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. The number of pets in France continues to grow, and demand for pet grooming is strong. This profession has good employment prospects, especially in major cities like Paris. However, it is less affected by economic fluctuations and is considered a stable industry.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，学徒期更低 |
-| 中级（3-7年） | $22,000~$28,000 | 含业绩提成 |
-| 高级/主理人（7年以上） | $28,000~$45,000 | 主理人收入更高，取决于营业额 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, even lower apprenticeship periods |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including performance commission |
+| Senior/Manager (over 7 years) | $28,000~$45,000 | The principal's income is higher, depending on turnover |
+| average salary | $26,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从小型宠物店学徒起步，积累经验后成为独立美容师，或晋升为店铺主管、开设自己的宠物美容沙龙。也可通过培训向宠物护理（如宠物营养、训练）拓展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers face mixed prospects for AI and automation: standardized grooming processes can be replaced by automated devices, but the unpredictability of pet behavior and personalized styling needs form a moat, so overall risk is moderate.
+
+You can start as an apprentice in a small pet shop, gain experience, become an independent groomer, or be promoted to store manager and open your own pet grooming salon. Training can also be extended to pet care (such as pet nutrition and training).
+
+**Tasks most exposed to AI:**
+
+- Automated washing and care equipment takes over standardized bathing and drying processes
+- The AI appointment system automatically handles customer reservations and reminders
+- Automated tools complete routine nail trimming and ear canal cleaning
+- The AI basic health monitoring system records pet vital sign data
+
+**Where AI augments the role:**
+
+- AI styling design software offers personalized trimming plan recommendations
+- AR tools assist in previewing different styling effects, improving customer communication efficiency
+- AI behavior analysis cameras warn of pet stress responses to ensure operational safety
+- The database records pet preferences and allergy histories, optimizing the service experience
+
+**Human moat:**
+
+- The ability to handle sudden stress behaviors and complex interactions in pets
+- Customizing unique aesthetics and craftsmanship based on individual pets
+- Build trust and emotional communication with pet owners
+- Experience in flexibly operating hand tools in confined spaces
+
+**Skills to build:**
+
+- Pet Behavior and Stress Management
+- AI-assisted styling design software operation
+- Basic data management and customer relationship management tools
+- Social media marketing and personal brand management
+- Advanced pet first aid and health knowledge
+- Application of AR/VR in customer presentations
+
+**Key growth areas:**
 
 - Pet ownership growth
 - Pet humanization
@@ -63,65 +96,67 @@ Animal groomers provide bathing, coat trimming, styling, nail clipping, and ear 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié） | 受雇于法国宠物店或美容沙龙，由雇主担保工作许可 |
-| Subclass Passeport Talent（Passeport Talent） | 适合有创业计划者，可申请人才护照开设宠物美容店 |
+| Subclass Salarié (Salarié) | Employed by a French pet shop or grooming salon, with an employer-sponsored work permit |
+| Subclass Passeport Talent (Passeport Talent) | Suitable for those planning to start a business, and can apply for a talent passport to open a pet grooming shop |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Groomer？**
-- 热爱动物，有耐心和爱心
-- 动手能力强，注重细节
-- 愿意自主创业或在小团队工作
+**Who is suited**
+- Passionate about animals, patient and compassionate
+- Hands-on, detail-oriented.
+- Willing to start your own business or work in a small team
 
-**谁不适合学Animal Groomer？**
-- 对动物过敏或害怕
-- 不擅长手工操作
+**Who is not suited**
+- Allergic or fearful of animals
+- Not skilled in manual operations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a pet groomer?**
+A: Junior approx. €18k–22k, intermediate €22k–28k, senior or shop owner up to €45k+.
+
+**Q: Can foreign pet groomers immigrate to France?**
+A: Immigration is more difficult; the occupation is not in short supply and usually requires an employer-sponsored work visa. Entrepreneurship can consider a talent passport.
+
+**Q: What qualifications are required to become a pet groomer?**
+A: A CAP Pet Grooming Diploma or equivalent professional certificate is usually required, which can be obtained through apprenticeships or schools.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 困难（★★★½☆） |
-
-Animal Groomer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an animal groomer?**
-答：Entry-level: €18-22k; mid-level: €22-28k; senior/owner: up to €45k+.
-
-**问：Can foreign animal groomers immigrate to France?**
-答：Difficult; not a shortage occupation. Work visa requires employer sponsorship. Entrepreneurship possible via Talent Passport.
-
-**问：What qualifications are needed to become an animal groomer?**
-答：A CAP certificat in animal grooming or equivalent professional certification, often via apprenticeship or school.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Inland and Coastal Waters Fishery Worker（Inland and Coastal Waters Fishery Worker）职业分析 · IE
+# Inland and Coastal Waters Fishery Worker — career analysis · Ireland
 
-**职业代码：6222 – Inland and Coastal Waters Fishery Worker。**
+**Occupation code: 6222 (ISCO08)**
 
-Workers engaged in fishing, aquaculture, and maintenance in inland and coastal waters.
+Workers engaged in fishing, aquaculture, and fishery maintenance in inland waters or coastal areas.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 2年（职业培训） | —（部分课程由国家资助） |
-| 职业证书 | 1年 | $2,000~$5,000（例如FETAC证书） |
+| Secondary Education | 2 years (vocational training) | $0~$5,000 (Some courses are government-funded) |
+| Professional certificate | 1 year | $2,000~$5,000 (e.g., FETAC certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康与安全证书 | 健康与安全局 | 必备 | 基本要求 |
-| 航海技能证书 | 爱尔兰海岸警卫队 | 可选 | 特定岗位需要 |
+| Health and safety certificate | Health and Safety Authority | Required | Basic requirements |
+| Maritime skills certificate | Irish Coast Guard | Optional | Specific job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。爱尔兰渔业面临欧盟配额限制和资源减少，就业机会有限。沿海社区有少量需求，但整体稳定。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Ireland's fishing industry faces EU quota limits and resource decline, with limited job opportunities. There is some demand in coastal communities, but overall stability.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪，取决于渔获量 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 船长或经理级别 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Pre-tax annual salary depends on catch volume |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Captain or Manager level |
+| average salary | $31,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从普通工人晋升为船长或水产养殖经理，需要积累海上经验和相关证书。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fishing workers' harvesting operations are easily replaced by automated vessels, but farming decisions and ecological management become high-value with AI involvement, overall job numbers stable but demand shifts to technical-composite roles.
+
+Can advance from general worker to captain or aquaculture manager, requires accumulating sea experience and relevant certifications.
+
+**Tasks most exposed to AI:**
+
+- Automatically plan optimal fishing routes using satellite/drone data
+- Real-time monitoring of fish positions via sensors and automatic adjustment of fishing nets
+- Automated feeding system precisely feeds based on water parameters
+- Automatic collection of water quality monitoring data and anomaly alerts
+- Predictive maintenance for fishing vessel machinery (AI diagnosis)
+
+**Where AI augments the role:**
+
+- Uses AI to analyze satellite imagery and historical catch data to predict fish movement
+- AI-assisted optimization of stocking density and water change cycles to reduce mortality
+- Diagnose aquatic diseases and recommend treatment plans using machine learning models
+- Automatically record catch data and generate sustainable fisheries reports
+- Combine weather models and ocean data to plan safe departure windows
+
+**Human moat:**
+
+- On-site emergency repair and diagnosis during sudden mechanical failures.
+- Trust relationships and negotiations with local fishing communities and regulatory bodies
+- Intuition and empirical judgment of multi-factor complex systems in aquatic ecology
+- Liability and decision-making under high legal risk (e.g., illegal fishing)
+- Human safety control and team collaboration in adverse weather
+
+**Skills to build:**
+
+- Basic programming and data analysis (Python/R)
+- GIS and remote sensing image processing
+- Automated farming system operation and maintenance
+- Fisheries regulations and sustainable certification standards
+- Reading English Scientific Literature (International Equipment Manuals)
+- Emergency management and risk management
+
+**Key growth areas:**
 
 - Sustainable fishing
 - Aquaculture expansion
@@ -63,62 +99,64 @@ Workers engaged in fishing, aquaculture, and maintenance in inland and coastal w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需要雇主担保和市场劳动力测试。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动，不适用于个人求职者。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand, requiring employer sponsorship and labor market testing. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable to intra-company transfers within multinational corporations, not applicable to individual job seekers. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Inland and Coastal Waters Fishery Worker？**
-- 热爱户外和海上工作
-- 适应体力劳动
-- 居住在沿海地区的人
+**Who is suited**
+- Enjoys outdoor and maritime work
+- Adaptability to physical labor
+- People living in coastal areas
 
-**谁不适合学Inland and Coastal Waters Fishery Worker？**
-- 不喜不规律作息
-- 不习惯体力劳动
+**Who is not suited**
+- irregular schedule tolerance
+- Not accustomed to physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Are fishery workers' incomes stable?**
+A: Income is typically unstable, affected by season and catch size; entry-level annual average about €20,000-28,000.
+
+**Q: Is it easy for non-EU citizens to obtain work permits?**
+A: Difficult: fishing is not a skill shortage occupation; requires employer sponsorship and passing a labor market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Inland and Coastal Waters Fishery Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income stable for fishery workers?**
-答：Income is often unstable, affected by seasons and catches; entry-level annual salary is around €20,000-€28,000.
-
-**问：Is it easy for non-EU citizens to get a work permit?**
-答：Difficult; fishing is not a shortage occupation, requiring employer sponsorship and labor market test.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

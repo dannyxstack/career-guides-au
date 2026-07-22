@@ -1,59 +1,95 @@
-# Coffee shop workers（Coffee shop workers）职业分析 · UK
+# Coffee shop workers — career analysis · United Kingdom
 
-**职业代码：9266 – Coffee shop workers。**
+**Occupation code: 9266 (SOC)**
 
-Coffee shop workers make and serve coffee, food and other beverages in coffee shops and cafés, and perform various cleaning, fetching and carrying tasks.
+Coffee shop staff are responsible for preparing and serving coffee, food, and other beverages, typically working in coffee shops and cafes, and performing various cleaning, stocking, and carrying tasks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 2年（A-Level） | —（公立学校免费） |
+| High school diploma | 2 years (A-Level) | $0~$0 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无强制认证（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 咖啡师证书 | Specialty Coffee Association | 可选 | 非强制，但有助于就业 |
-| 食品安全证书 | Chartered Institute of Environmental Health | 必备 | 从业通常需要基础培训 |
+| Food safety certificate | Chartered Institute of Environmental Health | Required | Basic training is usually required for practice |
+| Barista certificate | Specialty Coffee Association | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 145,000。随着咖啡文化在英国持续流行，咖啡店员工需求稳定。但受自动化和自助服务影响，就业增长缓慢，预计2020-2030年增长约2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 145,000. With coffee culture remaining popular in the UK, demand for coffee shop staff is stable. However, due to automation and self-service, employment growth is slow, with an estimated 2% growth from 2020-2030.
 
-**竞争度：较大（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $17,000~$20,000 | 按最低工资计算 |
-| 中级（2-5年） | $20,000~$24,000 | 含小费 |
-| 高级/主管（5年以上） | $24,000~$30,000 | 含管理职责 |
+| Median salary | $21,598 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–2 years) | $17,000~$20,000 | Calculated based on minimum wage |
+| Intermediate (2-5 years) | $20,000~$24,000 | Includes tips |
+| Senior/Supervisor (5+ years) | $24,000~$30,000 | Includes management responsibilities |
+| average salary | $20,617 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级咖啡师可晋升为高级咖啡师或店长，少数进入区域管理或培训岗位。部分员工转向餐饮管理或创业开设独立咖啡店。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
+
+Junior baristas can advance to senior barista or store manager, with a few moving into regional management or training roles. Some employees transition to food and beverage management or start their own independent coffee shops.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and work-hour optimization: AI generates shift schedules based on foot traffic forecasts
+- Inventory management and purchasing suggestions: system auto-orders based on sales forecasts
+- Financial reporting and sales analysis: AI automates daily/weekly reports and analyzes trends
+- Online review monitoring and response: NLP tools automatically classify and reply to common reviews
+- Base training content recording: AI generates standardized training videos and Q&A materials
+
+**Where AI augments the role:**
+
+- Customer experience personalization: AI analyzes preferences to recommend dishes, seat arrangements
+- Marketing campaign optimization: AI tests different promotion combinations to boost ROI
+- Food safety monitoring: AI cameras automatically identify violations and alert
+- Employee performance support: AI provides real-time feedback and skill improvement suggestions
+- Supply chain resilience management: AI simulates supply-demand fluctuations to aid procurement decisions
+
+**Human moat:**
+
+- Handle sudden complaints, intoxicated customers, and other complex interpersonal conflicts
+- Cultivate a unique restaurant culture, team cohesion, and staff morale.
+- Creative menu planning, themed events, and local community relationships.
+- Legal responsibility and final decision-making authority on food safety
+- Real-time flexible coordination of the physical rhythm between kitchen and front-of-house
+
+**Skills to build:**
+
+- Restaurant data analysis and report interpretation
+- AI scheduling and inventory system operation
+- Digital marketing (social media, SEO)
+- Emotional intelligence and conflict mediation skills
+- Basic financial modelling and cost control
+- Digital food safety monitoring tools
+
+**Key growth areas:**
 
 - Stable
 - Low automation
@@ -62,65 +98,67 @@ Coffee shop workers make and serve coffee, food and other beverages in coffee sh
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 通常不符合技能水平要求，但连锁咖啡店高级主管或培训师可能符合。 |
-| Subclass Graduate（Graduate visa） | 毕业生可用2年签证在英国从事任何工作，包括咖啡店。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Usually does not meet skill level requirements, but senior supervisors or trainers at chain coffee shops may qualify. |
+| Subclass Graduate (Graduate visa) | Graduates can work in any job in the UK for 2 years, including coffee shops. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coffee shop workers？**
-- 喜欢与人交流和服务的工作
-- 对咖啡制作有热情
-- 能适应快节奏和站立工作
+**Who is suited**
+- enjoys jobs that involve interacting with and serving people
+- Passion for coffee making
+- Able to adapt to fast-paced and standing work
 
-**谁不适合学Coffee shop workers？**
-- 追求高收入和职业晋升空间
-- 不喜欢处理多任务和高峰时段压力
+**Who is not suited**
+- Pursuing high income and career advancement opportunities
+- Dislike handling multitasking and peak-hour pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do coffee shop employees earn?**
+A: Junior barista annual salary approx. £17,000-20,000, intermediate £20,000-24,000, supervisor up to £30,000. Income affected by tips.
+
+**Q: Can coffee shop workers apply for a UK work visa?**
+A: Generally not, as the occupation does not meet the RQF3 requirement for skilled work visas. However, senior management positions or internal transfers within chain stores may qualify.
+
+**Q: Do coffee shop employees have career development opportunities?**
+A: Can advance to senior barista, store manager, regional manager, or move into food service management and training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 无强制认证（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较大（★★★½☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极难（★★★★★） |
-
-Coffee shop workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for coffee shop workers?**
-答：Entry-level baristas earn £17,000-20,000, mid-level £20,000-24,000, supervisors up to £30,000. Tips can increase earnings.
-
-**问：Can coffee shop workers get a UK work visa?**
-答：Generally no, as it does not meet the RQF3 skill level. However, senior management or intra-company transfers may qualify.
-
-**问：Are there career progression opportunities?**
-答：Yes, to senior barista, store manager, area manager, or roles in training and hospitality management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Glass Production Machine Operator（Glass Production Machine Operator）职业分析 · 新西兰
+# Glass Production Machine Operator — career analysis · New Zealand
 
-**职业代码：711113 – Glass Production Machine Operator。**
+**Occupation code: 711113 (ANZSCO)**
 
-Operate machines for batching, melting, forming, and annealing in glass manufacturing to produce glass products to specification. This occupation is eligible for migration via Accredited Employer Work Visa (AEWV) in New Zealand, but not on the Green List or shortage list.
+Operate batching, melting, forming, annealing machines in a glass manufacturing factory to ensure glass products meet specifications. This occupation can immigrate to New Zealand through an Accredited Employer Work Visa (AEWV), but is not on the Green List or shortage lists.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 2年 | —（雇主提供，可能需自费安全证书） |
-| 证书课程 | 1年 | $5,000~$8,000（NZQF Level 2-4，如制造基础技能证书） |
+| On-the-job training | 2 years | $0~$1,000 (Provided by employer; safety certificate may need to be self-funded) |
+| Certificate course | 1 year | $5,000~$8,000 (NZQF Level 2-4, such as Manufacturing Foundation Skills Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰制造基础技能证书 | 新西兰资格认证局（NZQA） | 可选 | 非强制，有助于就业 |
-| 职业安全与健康证书 | Worksafe NZ | 必备 | 多数雇主要求 |
+| Occupational safety and health certificate | Worksafe NZ | Required | Most employers require |
+| New Zealand Certificate in Manufacturing Foundation Skills | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but helpful for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 300。新西兰玻璃制造行业规模较小，受建筑和包装需求驱动。未来五年就业增长平稳，年均约需10名新操作员。自动化可能减少部分岗位，但经验丰富的操作员仍受青睐。
+**Job demand: low (★½☆☆☆).** National workforce approx. 300. The glass manufacturing industry in New Zealand is relatively small, driven by construction and packaging demand. Employment growth is steady over the next five years, requiring about 10 new operators annually. Automation may reduce some positions, but experienced operators remain in demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽元 |
-| 中级（3-6年） | $55,000~$65,000 | 时薪约26-31纽元 |
-| 高级（6年以上） | $65,000~$75,000 | 时薪约31-36纽元 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately 22-26 NZD |
+| Mid-level (3–6 years) | $55,000~$65,000 | Hourly wage approximately 26-31 NZD |
+| Senior (6+ years) | $65,000~$75,000 | Hourly wage approximately NZD 31-36 |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 初级操作员通过在职培训晋升为高级操作员或班组长。部分可转向质量控制或生产管理。获取新西兰资格证书（如NZQF Level 4证书）有助于晋升。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Glass production machine operators face high automation risk, as machine vision and sensors can replace most manual monitoring and adjustment tasks, and automated production lines are already widespread in the industry.
+
+Junior operators advance to senior operators or team leaders through on-the-job training. Some can move into quality control or production management. Gaining a New Zealand qualification (such as NZQF Level 4 certificate) helps with promotion.
+
+**Tasks most exposed to AI:**
+
+- Use machine vision and sensors to monitor glass thickness, temperature, color and other parameters in real time, replacing manual visual inspection
+- Automatically adjust process parameters such as melting furnace temperature and forming speed, replacing manual adjustment of knobs
+- Auto-record production data and generate reports, replacing manual recording and paper reports
+- Automatically identify and reject defective products, replacing manual sorting
+- Automatic batching and feeding according to preset formulas, replacing manual weighing and dispensing
+
+**Where AI augments the role:**
+
+- Use digital twin systems to simulate melting and molding processes, assisting operators in quickly adjusting parameters.
+- Use AI predictive maintenance systems to warn of equipment failures in advance, reducing downtime
+- AI-assisted quality traceability system quickly identifies defect batch causes, improving yield rate
+- Augmented reality (AR) headsets display operational instructions and real-time data, reducing training costs
+- AI scheduling system optimizes changeover sequences to improve efficiency in high-mix, low-volume production
+
+**Human moat:**
+
+- Handling non-standard raw materials or sudden process deviations requires human experience and intuition
+- Emergency repair and safe shutdown decisions during equipment breakdowns
+- Customer communication and on-site commissioning for customized glass products
+- Coordination management and personnel scheduling across multiple production lines
+- Experimental design and debugging during the trial production phase of new processes
+
+**Skills to build:**
+
+- Basic Programming (PLC, HMI)
+- Data analysis and statistical process control (SPC)
+- Electrical and Mechanical Maintenance (Industrial Automation)
+- Industrial robot operation and maintenance
+- Augmented reality/virtual reality (AR/VR) assisted operations
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Moderate growth
 - Automation
@@ -63,68 +99,67 @@ Operate machines for batching, melting, forming, and annealing in glass manufact
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，工资至少达中位数（时薪29.66纽元），可申请最长3年工签，可担保家人。 |
-| Subclass SMC（Skilled Migrant Category） | 如工资达中位数1.5倍（时薪44.49纽元）且获6分，可申请居留。但操作员通常难达此薪资。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have an offer from an accredited employer, salary at least at the median wage (NZ$29.66/hour), can apply for a visa up to 3 years, can sponsor family. |
+| Subclass SMC (Skilled Migrant Category) | If salary reaches 1.5 times the median (hourly NZ$44.49) and achieve 6 points, can apply for residency. However, operators rarely reach this salary level. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass Production Machine Operator？**
-- 动手能力强、能适应工厂环境者
-- 愿意轮班工作（含夜班）者
-- 寻求通过工签移民，对薪资要求不高者
-
-**谁不适合学Glass Production Machine Operator？**
-- 不喜重复性体力劳动或高温环境者
-- 追求快速移民或高薪职业者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong hands-on skills and ability to adapt to factory environments.
+- Those willing to work shifts (including night shifts)
+- Seeking immigration through work visas, with low salary expectations
+
+**Who is not suited**
+- Those who dislike repetitive physical labour or hot environments
+- Those pursuing fast immigration or high-paying careers
+
+---
+
+## 8. FAQ
+
+**Q: Can glass production machine operators immigrate via the Green List?**
+A: No. This occupation is not on the Green List; it can only be accessed via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but SMC requires high salary points.
+
+**Q: What is the average salary for a glass production machine operator in New Zealand?**
+A: Average annual salary around NZ$55,000, hourly rate around NZ$26. Entry-level approx. NZ$45,000-55,000, senior up to NZ$75,000.
+
+**Q: Does this occupation have growth prospects in New Zealand?**
+A: Limited. Advancement to senior operator or team leader is possible, but the manufacturing industry is small with few management positions. Shifting to quality control or equipment maintenance is an alternative path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Glass Production Machine Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a Glass Production Machine Operator immigrate via the Green List?**
-答：No. This occupation is not on the Green List. Migration is only possible via AEWV or SMC, but SMC requires high wage points.
-
-**问：What is the average salary for a Glass Production Machine Operator in New Zealand?**
-答：Average salary is around NZ$55,000 per year (NZ$26 per hour). Entry-level: NZ$45,000-55,000; senior: up to NZ$75,000.
-
-**问：Are there career prospects for this occupation in New Zealand?**
-答：Limited. You can advance to senior operator or team leader, but the manufacturing sector is small. Transition to quality control or maintenance is possible.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

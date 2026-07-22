@@ -1,59 +1,93 @@
-# Bar Useful or Busser（Bar Useful or Busser）职业分析 · 澳大利亚
+# Bar Useful or Busser — career analysis · Australia
 
-**职业代码：431911 – Bar Useful or Busser。**
+**Occupation code: 431911 (ANZSCO)**
 
-Responsible for cleaning, restocking, clearing tables, and assisting bartenders and waitstaff in bars, restaurants, and clubs to ensure smooth operations.
+A support role in bars, restaurants, or clubs responsible for cleaning, restocking, clearing tables, and assisting bartenders and waitstaff to ensure smooth operations.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无需正规教育 | 0 | —（通常在岗培训） |
+| No formal education required | 0 | $0~$0 (Typically on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Responsible Service of Alcohol (RSA) 证书 | 各州酒类监管机构 | 必备 | 在澳大利亚从事酒精服务必须持有 |
-| 食品安全证书 | 认可培训机构 | 可选 | 部分雇主要求 |
+| Responsible Service of Alcohol (RSA) certificate | State alcohol regulatory agencies | Required | You must hold to serve alcohol in Australia |
+| Food safety certificate | Registered Training Organisation (RTO) | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 48,000。澳大利亚餐饮业持续增长，尤其在旅游城市和晚间经济区，该岗位需求稳定。但因移民门槛低，本地劳动力充足，竞争较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 48,000. Australia's hospitality industry continues to grow, especially in tourist cities and night-time economy zones, with stable demand for this role. However, due to low immigration thresholds and sufficient local labour, competition is high.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $42,000~$48,000 | 按餐饮行业薪资标准 |
-| 中级（2-5年） | $48,000~$55,000 | 可能包括小费 |
-| 高级（5年以上） | $55,000~$62,000 | 通常晋升至领班或主管 |
+| Median salary | $81,848 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $42,000~$48,000 | Salary according to hospitality industry standards |
+| Intermediate (2-5 years) | $48,000~$55,000 | May include tips |
+| Senior (5+ years) | $55,000~$62,000 | Usually promoted to team leader or supervisor |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：有限（★½☆☆☆）。** 通常从杂工起步，积累经验后可晋升为侍者、调酒师或领班。部分从业者转向餐饮管理或创业开设小型酒吧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bar attendants (general workers) face high risk of automation, especially for repetitive tasks like cleaning, moving, and simple inventory management, but interpersonal skills and adaptability remain short-term moats.
+
+Usually start as a bar back, gain experience and advance to server, bartender, or head waiter. Some move into restaurant management or start their own small bars.
+
+**Tasks most exposed to AI:**
+
+- Using automatic dishwashers and cleaning robots instead of manual cleaning and wiping tables
+- Use inventory management system to automatically track and replenish common consumables
+- Reducing manual ordering and checkout through self-service ordering and mobile payments
+- Using automatic conveyor belts or robots to return dirty dishes to the kitchen
+- Use barcode or RFID scanning for automated stocktaking
+
+**Where AI augments the role:**
+
+- Receive real-time dirt or inventory alerts via mobile terminals to improve inspection efficiency
+- Use simple language translation apps or devices to communicate with customers in different languages
+- Use task management software to optimize workflows and reduce wait times
+- Use electronic notepads to record regular customer preferences and provide personalized service
+
+**Human moat:**
+
+- Ability to handle unexpected incidents on-site (e.g., customer sudden vomiting, equipment failure)
+- Informal, emotional interactions with customers and colleagues (e.g., small talk, appeasing dissatisfaction)
+- Make autonomous decisions when no clear instructions are given (e.g., temporarily adjusting cleaning order)
+- Understanding and execution of complex, ad-hoc requirements (e.g., special cleaning requests)
+
+**Skills to build:**
+
+- Basic digital literacy: use of inventory management software, mobile terminals
+- Basic spoken English: handle simple inquiries from ordinary customers (international settings)
+- Learn to operate cleaning robots or automated equipment
+- Time management and multitasking skills
+- basic data recording: track inventory consumption using spreadsheets
+- Customer service basics: keep smiling and be polite
+
+**Key growth areas:**
 
 - Low-skilled
 - Entry-level
@@ -62,65 +96,67 @@ Responsible for cleaning, restocking, clearing tables, and assisting bartenders 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 通常不符合，因职业不在技术职业清单上 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 除非有特殊DAMA协议，否则不适用 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Usually not eligible as the occupation is not on the skilled occupation list. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Not applicable unless special DAMA agreement in place. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bar Useful or Busser？**
-- 寻求临时或兼职工作的学生及背包客
-- 希望进入餐饮行业积累经验的新人
-- 适应快节奏体力劳动且具备良好服务意识的人
+**Who is suited**
+- Students and backpackers seeking casual or part-time work
+- Newcomers hoping to gain experience in the hospitality industry
+- Individuals who adapt well to fast-paced physical work and have good service awareness
 
-**谁不适合学Bar Useful or Busser？**
-- 寻求高收入或长期职业发展者
-- 不喜体力劳动或晚班、周末工作的人
+**Who is not suited**
+- Those seeking high income or long-term career development
+- People who dislike physical labor or late-night/weekend work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much is the tip income for a barback?**
+A: Tips are usually low but can be significant in upscale venues or during holidays, generally accounting for 5-10% of total income.
+
+**Q: Can this occupation apply for skilled migration?**
+A: Almost impossible, because this occupation is not on any skilled migration occupation list and is a low-skilled position.
+
+**Q: How to progress from barback to bartender?**
+A: Must obtain an RSA certificate, actively learn bartending skills, accumulate experience, then apply internally or switch jobs to become a bartender.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 有限（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Bar Useful or Busser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How much tip income can a bar useful earn?**
-答：Tips are usually low, but can be substantial in upscale venues or during holidays, typically 5-10% of total income.
-
-**问：Can this occupation lead to skilled migration?**
-答：Almost impossible, as it is not on any skilled occupation list and is classified as low-skilled.
-
-**问：How to advance from bar useful to bartender?**
-答：Obtain RSA certificate, learn bartending skills, gain experience, and apply internally or move to another venue.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

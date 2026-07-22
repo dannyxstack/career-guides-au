@@ -1,69 +1,98 @@
-# DevOps工程师（ICT Developers and Programmers nec）职业分析 · 澳大利亚
+# DevOps Engineer — career analysis · Australia
 
-**职业代码：261399 – ICT Developers and Programmers nec。**
+**Occupation code: 261399 (ANZSCO)**
 
-DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生部署平台，通过Kubernetes、Terraform、GitHub Actions等工具加速软件交付。澳洲企业大规模迁移云端推动DevOps需求持续增长，是IT类薪资最高的职业之一。
+DevOps engineers build and maintain CI/CD pipelines, infrastructure automation, and cloud-native deployment platforms, accelerating software delivery through tools such as Kubernetes, Terraform, and GitHub Actions. Large-scale cloud migration by Australian enterprises is driving sustained growth in DevOps demand, making it one of the highest-paying roles in IT.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Computer Science / Software Engineering（3~4年） | 3~4年（全日制） | $25,000~$160,000（基础学历，实际工作中认证+工具熟练度权重高于学位） |
-| DevOps认证（CKA / Terraform Associate / AWS DevOps Professional） | 2~6个月备考 | $1,000~$4,000（CKA（$395）、Terraform Associate（$70）是市场最认可的DevOps认证） |
-| ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须） |
+| Bachelor of Computer Science / Software Engineering (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (Basic educational requirements; in practice, certifications and tool proficiency carry more weight than a degree) |
+| DevOps certifications (CKA / Terraform Associate / AWS DevOps Professional) | 2–6 months of exam preparation | $1,000~$4,000 (CKA ($395) and Terraform Associate ($70) are the most market-recognised DevOps certifications) |
+| ACS skills assessment (189/190 visa) | 2–6 months | $500~$1,500 (Required for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certified Kubernetes Administrator (CKA) | CNCF | 可选 | DevOps/平台工程最重要的认证，持有者薪资溢价明显 |
-| HashiCorp Terraform Associate / Professional | HashiCorp | 可选 | IaC（基础设施即代码）领域最广泛使用的认证 |
-| AWS DevOps Engineer Professional | Amazon Web Services | 可选 | AWS生态DevOps方向的高级认证 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| Certified Kubernetes Administrator (CKA) | CNCF | Optional | The most important certification in DevOps/platform engineering; holders command a clear salary premium |
+| HashiCorp Terraform Associate / Professional | HashiCorp | Optional | The most widely used certification in the Infrastructure as Code (IaC) space |
+| AWS DevOps Engineer Professional | Amazon Web Services | Optional | AWS ecosystem DevOps advanced certification |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000。JSA 预测DevOps/平台工程师至2035年就业增长约20%。平台工程（Platform Engineering）是2025-2026年演进方向，提升内部开发者体验（IDP）。
+**Job demand: very high (★★★★★).** National workforce approx. 45,000. JSA forecasts approximately 20% employment growth for DevOps/Platform Engineers by 2035. Platform Engineering is the evolving direction for 2025–2026, focused on improving the Internal Developer Platform (IDP) experience.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国，含DevOps工程师、平台工程师、SRE和CI/CD工程师岗 |
-| Indeed | 1,000~2,000 个 | 含合同工和远程岗 |
-| LinkedIn | 2,000~4,000 个 | 企业直招和猎头 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级DevOps工程师（0~3年） | $80,000~$105,000 | 含基础CI/CD和云运维经验 |
-| 中级DevOps工程师（3~6年） | $110,000~$140,000 | SEEK 平均 $120k~$140k；Indeed 平均 $123,052（2026） |
-| 高级/平台工程师（6~10年） | $140,000~$185,000 | 平台工程负责人和SRE高级岗，含Kubernetes架构经验 |
-| DevSecOps / 安全专精（5年+） | $145,000~$195,000 | 安全集成CI/CD是薪资溢价最高的DevOps子领域 |
-| 合同工（Daily Rate） | $120,000~$220,000 | 日薪 $650~$1,150（年化约 $130k~$230k） |
+| Median salary | $131,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior DevOps engineer (0–3 years) | $80,000~$105,000 | Including foundational CI/CD and cloud operations experience |
+| Mid-level DevOps engineer (3–6 years) | $110,000~$140,000 | SEEK average $120k–$140k; Indeed average $123,052 (2026) |
+| Senior/Platform Engineer (6–10 years) | $140,000~$185,000 | Platform engineering leads and senior SRE roles, including Kubernetes architecture experience |
+| DevSecOps / Security Specialist (5+ years) | $145,000~$195,000 | Secure CI/CD integration is the highest-premium sub-discipline within DevOps |
+| Contract (Daily Rate) | $120,000~$220,000 | Daily rate $650–$1,150 (annualised approximately $130k–$230k) |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 平台工程正在取代传统DevOps模式，专注于构建内部开发者平台（IDP）。DevSecOps（安全集成CI/CD）是最紧缺的子领域，薪资溢价 $15k~$25k。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+DevOps engineer core skills (CI/CD, container orchestration, infrastructure as code) face AI automation risks, but AI also greatly improves configuration troubleshooting efficiency; low-end ops roles shrink, demand for senior architects surges, requiring evolution toward platform engineering or AI ops.
+
+Platform engineering is replacing traditional DevOps models, with a focus on building Internal Developer Platforms (IDPs). DevSecOps (security-integrated CI/CD) is the most in-demand sub-discipline, commanding a salary premium of $15k–$25k.
+
+**Tasks most exposed to AI:**
+
+- Routine CI/CD pipeline configuration and maintenance (AI automatically generates YAML/Workflow)
+- Infrastructure monitoring alerts and log analysis (AI anomaly detection and root cause localisation)
+- Basic scripting and parameter tuning (LLM generates and tests Shell/CLI scripts)
+- Repetitive change management and release coordination (AI auto-approves changes)
+
+**Where AI augments the role:**
+
+- Complex Troubleshooting and Performance Tuning (AI-assisted analysis of traces/metrics with repair suggestions)
+- Multi-cloud/hybrid cloud resource orchestration and cost optimization (AI recommends resource allocation strategies)
+- Automated Security Compliance Scanning and Remediation (AI continuously monitors and generates hardening plans)
+- Capacity planning and elastic scaling design (AI predicts traffic and dynamically adjusts)
+- Platform engineering and internal developer portal construction (AI generates blueprints based on patterns)
+
+**Human moat:**
+
+- System architecture design: understand the full chain of distributed systems, networking, storage, and security
+- Root cause analysis: combine business logic to troubleshoot non-standard issues in complex environments
+- Cross-team collaboration and change advocacy: explaining technical trade-offs to dev, security, and business teams
+- High availability/disaster recovery strategies: designing redundancy and recovery plans for unknown risks
+- Cost governance and SLA negotiation: balancing performance, reliability, security, and cost
+
+**Skills to build:**
+
+- Platform engineering and internal developer portal (IDP) design
+- Advanced Kubernetes scheduling and fault domain management
+- GitOps and progressive delivery (ArgoCD/Flux + Canary/Rollback)
+- AI/ML basics: model deployment (Kserve) and MLOps tools
+- Observability system construction (OpenTelemetry + eBPF)
+- Multi-cluster/multi-region networking and security policies (Cilium/Calico)
+
+**Key growth areas:**
 
 - Platform Engineering & Internal Developer Platforms
 - GitOps & Infrastructure as Code
@@ -73,91 +102,87 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，DevOps为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，ACT/NSW/VIC科技移民通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; DevOps is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
+| Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学DevOps工程师？**
-- 有Linux/Docker/Kubernetes实际工作经验（2年以上）
-- 熟悉CI/CD工具（GitHub Actions/Jenkins/ArgoCD），有云平台经验
-- 英语能力达到 IELTS 6.5+
-- 有CKA或Terraform认证，或正在备考
-- 目标是大型企业平台工程团队或DevSecOps方向
-
-**谁不适合学DevOps工程师？**
-- 无Linux/Shell脚本基础，无法处理生产环境故障
-- 不适应on-call值班和深夜故障响应
-- 仅有开发经验，对基础设施和网络知识空白
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Practical work experience with Linux/Docker/Kubernetes (2+ years)
+- Familiar with CI/CD tools (GitHub Actions/Jenkins/ArgoCD) with cloud platform experience
+- English proficiency of IELTS 6.5+
+- Holds a CKA or Terraform certification, or currently studying for one
+- Target large enterprise platform engineering teams or a DevSecOps pathway
+
+**Who is not suited**
+- No Linux/shell scripting foundation; unable to handle production environment incidents
+- Not suited to on-call duties and late-night incident response
+- Only has development experience, with no knowledge of infrastructure or networking
+
+---
+
+## 8. FAQ
+
+**Q: How much do DevOps engineers earn in Australia?**
+A: Mid-level DevOps engineers earn approximately $110,000–$140,000 (Indeed average $123,052); senior engineers earn around $140k–$185k; DevSecOps specialists earn approximately $145k–$195k. Contract day rates range from $650–$1,150.
+
+**Q: Is it easy for DevOps engineers to find work in Australia?**
+A: Easy. Seek lists approximately 1,500–3,000 positions; ongoing enterprise cloud adoption continues to drive demand, and those holding CKA + Terraform certifications are proactively headhunted.
+
+**Q: Is Chinese DevOps experience recognised in Australia?**
+A: Skills assessed through ACS (academic qualification review); certifications such as CKA/Terraform/AWS are internationally recognised and fully accepted in Australia. Open-source contributions on GitHub are also a valid demonstration of capability.
+
+**Q: Will DevOps engineers be replaced by AI?**
+A: Risk is low. AI tools assist with script generation and configuration, but production environment architecture decisions, root cause analysis and cross-team coordination still require human judgement. AI is actually increasing demand for platform engineers who manage AI workload infrastructure.
+
+**Q: Is there an age limit for DevOps engineers in Australia?**
+A: No. The Site Reliability Engineering (SRE) field places particular value on senior engineers with large-scale production environment experience; candidates aged 40+ with relevant experience are competitive in the market.
+
+**Q: What qualifications do DevOps engineers need in Australia?**
+A: A CS/IT-related degree is the mainstream pathway, but engineers with strong hands-on experience plus CKA/Terraform/AWS certifications can bypass the degree requirement through employer sponsorship (482 visa).
+
+**Q: Is it difficult to get certified as a DevOps Engineer for migration to Australia?**
+A: Moderate difficulty. The ACS assessment is straightforward; CKA is a challenging hands-on exam — thorough practical preparation is recommended; 189/190 EOI scores are favourable for highly skilled applicants.
+
+**Q: Which is more suitable for migrating to Australia — a DevOps engineer or a cloud engineer?**
+A: Cloud engineers command slightly higher salaries ($125k–$145k vs $120k–$140k); the two roles have highly overlapping skill sets. DevOps focuses more on pipelines and automation; cloud engineers focus more on infrastructure architecture. Both support PR pathways — choose based on your own skill set.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | DevOps工程师薪资 $120k~$140k（2026） |
-| Indeed AU | DevOps工程师平均薪资 $123,052（2026） |
-| ACS | 技能评估机构 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-DevOps工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲DevOps工程师工资多少？**
-答：中级DevOps工程师约 $110,000~$140,000（Indeed均值 $123,052）；高级工程师约 $140k~$185k；DevSecOps专精约 $145k~$195k。合同工日薪 $650~$1,150。
-
-**问：澳洲DevOps工程师容易找工作吗？**
-答：容易。Seek 挂牌约 1500~3000 个职位，企业云化持续推高需求，持CKA+Terraform认证者主动被猎头联系。
-
-**问：中国DevOps经验澳洲认可吗？**
-答：通过 ACS 技能评估（学历审核），CKA/Terraform/AWS等认证是国际通用的，在澳洲完全认可。GitHub上的开源贡献也是有效的能力证明。
-
-**问：DevOps工程师会被AI替代吗？**
-答：风险较低。AI工具辅助脚本生成和配置，但生产环境架构决策、故障根因分析和跨团队协调仍需人工。AI反而增加了对平台工程师（管理AI工作负载基础设施）的需求。
-
-**问：澳洲DevOps工程师有年龄限制吗？**
-答：无。系统可靠性工程（SRE）领域特别重视有大规模生产环境经验的资深工程师，40岁以上有经验者在市场上具有竞争力。
-
-**问：澳洲DevOps工程师需要什么学历？**
-答：CS/IT相关学位是主流，但具有丰富实战经验+CKA/Terraform/AWS认证的工程师可通过雇主担保（482签证）绕过学历门槛。
-
-**问：澳洲DevOps工程师认证（移民）难吗？**
-答：难度中等。ACS评估不难；CKA是有难度的实操考试，建议充分实战练习；189/190 EOI分数对高技能者友好。
-
-**问：DevOps工程师和云工程师哪个更适合移民澳洲？**
-答：云工程师薪资略高（$125k~$145k vs $120k~$140k），两者技能高度重叠。DevOps更偏流水线和自动化；云工程师更偏基础设施架构。两者均可PR，建议结合自身技能方向选择。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Fruit or Vineyard Farm Worker（Fruit or Vineyard Farm Worker）职业分析 · FR
+# Fruit or Vineyard Farm Worker — career analysis · France
 
-**职业代码：A1401 – Fruit or Vineyard Farm Worker。**
+**Occupation code: A1401 (ROME)**
 
-Performs tasks such as planting, pruning, harvesting fruits or grapes, and may operate agricultural machinery.
+Engaged in field work such as fruit or grape planting, pruning, and harvesting, possibly using agricultural machinery.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需文凭（可培训上岗） | 短期培训 | —（通常企业提供在岗培训） |
-| CAP agricole（农业职业证书） | 2年 | —（可走学徒制（apprentissage），免学费并领取工资） |
-| BTS agricole（农业技术高级文凭） | 2年 | —（同样可通过学徒制进行） |
+| No diploma required (training available) | Short-term training | $0~$500 (Typically, companies provide on-the-job training) |
+| CAP Agricole (Agricultural Vocational Certificate) | 2 years | $0~$1,500 (You can take an apprenticeship (apprentissage), which is free of tuition and you receive a salary) |
+| BTS Agricole (Advanced Diploma in Agricultural Technology) | 2 years | $0~$2,000 (It can also be done through an apprenticeship system) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP agricole 文凭 | 法国教育部 | 可选 | 非强制，但有助晋升 |
-| BTSA 技术文凭 | 法国教育部 | 可选 | 非强制，可从事技术管理岗位 |
-| 驾驶执照（拖拉机和农用机械） | 法国驾照许可 | 可选 | 部分岗位要求持证驾驶农机 |
+| CAP agricole diploma | French Ministry of Education | Optional | Not mandatory, but it helps with promotion |
+| BTSA Technical Diploma | French Ministry of Education | Optional | Non-mandatory, may engage in technical management positions |
+| Driver's license (tractor and agricultural machinery) | French driver's license | Optional | Some positions require licensed drivers of agricultural machinery |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 230,000。法国农业劳动力老龄化严重，季节性用工需求大，尤其葡萄园采收季。虽非高薪职业，但就业机会稳定。自动化和机械化可能减少部分岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 230,000. France's agricultural workforce is seriously aging, with high seasonal labor demand, especially during vineyard harvest season. Although not a high-paying job, employment opportunities are stable. Automation and mechanization may reduce some jobs.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 通常根据SMIC（最低工资标准）计算，约1800欧/月 |
-| 中级（3-10年） | $22,000~$26,000 | 有经验后可能获得更高津贴或绩效奖金 |
-| 高级（10年以上/团队负责人） | $26,000~$30,000 | 晋升为团队负责人或技术员后薪资提升 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,000~$22,000 | Usually calculated based on SMIC (Minimum Wage Standard), about 1800 euros per month |
+| Intermediate (3-10 years) | $22,000~$26,000 | Gaining experience may lead to higher allowances or performance bonuses |
+| Senior (Over 10 years / Team Leader) | $26,000~$30,000 | Salary increases after promotion to team leader or technician |
+| average salary | $23,916 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可晋升为团队负责人（chef d'équipe），或通过农业职业教育（CAP/BTS）成为农业技术员、农场经理，甚至自主经营农场。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Fruit or vineyard agricultural workers face a mixed future for AI: automated irrigation and monitoring systems can reduce some manual labor, but harvest identification and decision-making still require humans.
+
+You can be promoted to team leader (chef d'équipe), or become an agricultural technician, farm manager, or even run your own farm through agricultural vocational education (CAP/BTS).
+
+**Tasks most exposed to AI:**
+
+- Fixed-route pesticide spraying and fertilization have been replaced by autonomous tractors
+- The foundation irrigation system switches are automatically controlled by soil sensors
+- Fruit ripening is simple, and visual sorting is taken over by machine vision systems
+- Repetitive pruning is performed by algorithms guided by robots
+- Field data records are automatically collected by drones
+
+**Where AI augments the role:**
+
+- AI disease diagnosis assists in identifying early infections and improving prevention and control efficiency
+- Precision agriculture platforms optimize water and fertilizer usage, improving yield and quality
+- Harvest prediction models help plan the timing and quantity of manual picking
+- Wearable devices monitor worker health and fatigue, enhancing safety
+- Voice assistants and AR glasses provide real-time operation guidance
+
+**Human moat:**
+
+- Delicate assessment of individual growth of grapes or fruit trees (such as pruning and selection)
+- Strain and problem-solving in complex terrain or harsh weather
+- Intuition and experience in natural farming and ecological management
+- Sensory decisions about quality differences in handmade harvesting (such as ripeness)
+- Interpersonal communication and team coordination with farm owners and cooperatives
+
+**Skills to build:**
+
+- Master basic precision agriculture software (such as FarmOS, Cropio)
+- Learn to operate agricultural drones and analyze remote sensing data
+- Understand IoT sensors and automatic irrigation system setup
+- Obtain sustainable agriculture certificates (such as organic/biodynamic)
+- Improve basic English to read international agricultural technology documents
+- Participate in digital literacy training organized by local partner organizations
+
+**Key growth areas:**
 
 - seasonal labor
 - organic farming
@@ -65,65 +101,67 @@ Performs tasks such as planting, pruning, harvesting fruits or grapes, and may o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 通常需要雇主担保，但农业季节性岗位移民可能性较低。 |
-| Subclass Travailleur saisonni（Seasonal Worker Visa） | 适合短期季节性工作，非长期居留路径。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is usually required, but the likelihood of seasonal agricultural job immigration is low. |
+| Subclass Travailleur saisonni (Seasonal Worker Visa) | Suitable for short-term seasonal work and non-long-term residence paths. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fruit or Vineyard Farm Worker？**
-- 愿意从事户外体力劳动，适应季节性强的工作节奏
-- 对农业种植或酿酒感兴趣，希望从基础岗位积累经验
-- 接受较低薪资，以获取法国工作经验和居留机会
+**Who is suited**
+- Willing to engage in outdoor physical labor and adapt to a highly seasonal work rhythm
+- Interested in agricultural cultivation or winemaking, hoping to gain experience from basic positions
+- Accept lower salaries to gain work experience and residency opportunities in France
 
-**谁不适合学Fruit or Vineyard Farm Worker？**
-- 追求高薪或办公室工作环境
-- 期望快速获得法国长期居留或技术移民
+**Who is not suited**
+- Pursue high salaries or office work environments
+- Those seeking to quickly obtain long-term residence or skilled immigration in France
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How is the salary of grape harvesters calculated?**
+A: Usually charged at SMIC (pre-tax about 1800 EUR/month) or hourly, with harvest season possible commissions based on production. Monthly salary is about 1,900-2,500 euros.
+
+**Q: Can agricultural workers apply for French skilled migration?**
+A: Difficult. This occupation is considered low-skilled and usually does not meet the salary requirements for skilled migration. Seasonal visas cannot be converted to long-term residence.
+
+**Q: What are the career development paths for agricultural workers?**
+A: You can be promoted from a regular worker to a team leader (chef d'équipe), become an agricultural technician through CAP or BTS, and then serve as a farm manager or run independently.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Fruit or Vineyard Farm Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：How is the salary for grape harvest workers calculated?**
-答：Generally based on SMIC (approx. €1,800/month gross) or hourly wage; piece rates possible during harvest. Monthly salary ranges €1,900-€2,500.
-
-**问：Can farm workers apply for French skilled migration?**
-答：Difficult. It's a low-skilled occupation that often doesn't meet the salary threshold for skilled visas. Seasonal work visas do not lead to permanent residency.
-
-**问：What is the career progression for farm workers?**
-答：From worker to team leader; with CAP/BTS, become agricultural technician or farm manager, eventually self-employed.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Radiotherapy Technologist（Radiotherapy Technologist）职业分析 · ES
+# Radiotherapy Technologist — career analysis · Spain
 
-**职业代码：3311 – Radiotherapy Technologist。**
+**Occupation code: 3311 (CNO)**
 
-Radiotherapy technologists operate radiation therapy equipment to deliver precise treatments to cancer patients, ensuring radiation safety and treatment accuracy.
+Radiation therapists operate radiation therapy equipment to deliver precise radiotherapy plans for cancer patients and ensure radiation safety.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $200~$1,500（公立FP每年约200-600欧元，私立约1500欧元） |
-| 本科学位（Grado） | 4年（Grado） | $1,000~$6,000（公立大学每年约1000-3000欧元，私立约6000欧元） |
+| Higher Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $200~$1,500 (Public FPs pay about 200-600 euros per year, private schools about 1,500 euros) |
+| Bachelor's degree (Grado) | 4 years (Grado) | $1,000~$6,000 (Public universities approx. EUR 1,000-3,000 per year, private approx. EUR 6,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 放射治疗技师学历认证 | 西班牙教育部 | 必备 | 非欧盟学历需通过homologación认证，耗时6-12个月 |
-| 执业执照（如果适用） | 自治区卫生部门 | 必备 | 部分自治区要求额外注册 |
+| Radiotherapy Technologist Certification | Spanish Ministry of Education | Required | Non-EU degrees require homologación certification, which takes 6-12 months |
+| Practice license (if applicable) | Autonomous region health department | Required | Some autonomous regions require additional registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。西班牙癌症发病率上升，放疗需求增加，岗位稳步增长。公立医院编制竞争激烈，私立机构机会增多。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. Cancer incidence in Spain is rising, demand for radiotherapy is increasing, and job openings are steadily growing. Public hospital staffing competition is fierce, and opportunities for private institutions are increasing.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 公立医院起薪约25000欧元，私立略低 |
-| 中级（4-9年） | $30,000~$36,000 | 含夜班补贴和专科奖金 |
-| 高级（10年以上） | $37,000~$45,000 | 主管或部门经理可达45000欧元 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$29,000 | Public hospitals have a starting salary of about 25,000 euros, while private hospitals have a slightly lower salary |
+| Intermediate (4-9 years) | $30,000~$36,000 | Includes night shift subsidies and college bonuses |
+| Senior (10+ years) | $37,000~$45,000 | Supervisors or department managers can earn up to 45,000 euros |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可晋升为主管放疗师、放射物理师或部门经理；通过继续教育学获更多临床责任。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
+
+Promotion possible to lead radiotherapist, radiation physicist, or department manager; Gain more clinical responsibility through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating radiotherapy treatment plan image fusion and contour delineation
+- AI-based dose calculation and optimization recommendations
+- Automated generation and archiving of treatment records
+- Automated analysis of routine QA data
+
+**Where AI augments the role:**
+
+- AI-assisted image registration and target delineation, improving accuracy and consistency
+- Using AI to predict optimal radiation dose distribution and optimize treatment plans
+- Analyze patient historical data via AI to detect potential complications early
+- AI-driven automatic positioning verification system to reduce human error
+- Using chatbots for patient education to alleviate repetitive questions
+
+**Human moat:**
+
+- Direct operation of radiotherapy equipment (accelerator), requires certification
+- During treatment, adjust positioning in real time based on subtle patient movements
+- Handle emergency radiation safety incidents requiring quick judgment and manual intervention.
+- Empathetic communication with patients and families to alleviate treatment anxiety
+- Multidisciplinary team collaboration, participating in clinical decision-making for complex cases
+
+**Skills to build:**
+
+- AI-assisted treatment planning software (e.g., Eclipse AI, RayStation)
+- Basic Python or scripting for custom analysis tools
+- Principles and evaluation of machine learning models related to radiation therapy
+- Advanced Patient Positioning Techniques (e.g., SGRT Surface Guidance)
+- Operating AI monitoring systems for radiation protection and safety management
+- Cross-disciplinary expertise: intersection of imaging, anatomy, and AI
+
+**Key growth areas:**
 
 - Oncology demand
 - Aging population
@@ -63,66 +98,65 @@ Radiotherapy technologists operate radiation therapy equipment to deliver precis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 获得西班牙医院工作合同后申请受雇工作居留，需雇主证明无法在欧盟内招聘。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 年薪达标（约34000欧元）可申请高技能专业人才签证，审批更快。 |
-| Subclass Busqueda empleo（Job Search Visa） | 硕士毕业后可申请12个月求职居留，寻找放疗技师岗位。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Apply for employment work permit after obtaining a work contract from a Spanish hospital; employer must prove they cannot hire within the EU. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | If the annual salary meets the threshold (about 34,000 euros), a skilled professional visa application is possible, with faster approval. |
+| Subclass Busqueda empleo (Job Search Visa) | After master's degree holders, you can apply for a 12-month job-seeking residence permit to find positions as radiotherapy technicians. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiotherapy Technologist？**
-- 有耐心、细致、具备良好沟通能力的医疗从业者
-- 对放射物理和癌症治疗有浓厚兴趣者
-- 愿意接受严格培训并遵守安全规程者
-
-**谁不适合学Radiotherapy Technologist？**
-- 对辐射暴露有过度担忧者
-- 不喜欢重复性精密操作者
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and meticulous medical professionals with good communication skills
+- Those with a strong interest in radiophysics and cancer treatment
+- Those willing to undergo rigorous training and comply with safety protocols
+
+**Who is not suited**
+- Those with excessive concerns about radiation exposure
+- Those who dislike repetitive precision operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for radiotherapy technicians in Spain?**
+A: Entry-level pre-tax salaries are about 24,000-29,000 euros, intermediate salaries 30,000-36,000 euros, and senior salaries 37,000-45,000 euros, with better treatment at public hospitals.
+
+**Q: Can a non-EU degree be practiced as a radiotherapy technician in Spain?**
+A: Homologación is required, which takes 6-12 months. After certification, immigration can be made through employment-based residence or highly skilled talent visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Radiotherapy Technologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for radiotherapy technologists in Spain?**
-答：Entry-level gross annual salary is around €24,000-29,000, mid-level €30,000-36,000, and senior €37,000-45,000, with public hospitals offering higher packages.
-
-**问：Can non-EU qualifications work as a radiotherapy technologist in Spain?**
-答：Requires homologación (credential recognition), taking 6-12 months. After recognition, one can apply for a work permit or highly qualified professional visa.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

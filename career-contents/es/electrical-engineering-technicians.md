@@ -1,58 +1,94 @@
-# Electrical Engineering Technicians（Electrical Engineering Technicians）职业分析 · ES
+# Electrical Engineering Technicians — career analysis · Spain
 
-**职业代码：3123 – Electrical Engineering Technicians。**
+**Occupation code: 3123 (CNO)**
 
-Electrical engineering technicians design, install, maintain, and troubleshoot electrical systems, working in industrial, construction, and energy sectors.
+Electrical technicians are responsible for the design, installation, maintenance, and troubleshooting of electrical systems, working in the industrial, construction, and energy sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立学校免费或低学费） |
-| 大学本科（Grado） | 4年 | $800~$6,000（公立大学学费较低） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public schools offer free or low tuition) |
+| Undergraduate (Grado) | 4 years | $800~$6,000 (Public universities have lower tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气技术员职业证书 | 劳动与社会经济部 | 必备 | 通过FP或认证课程获得 |
-| 低电压电工授权 | 工业、贸易与旅游部 | 必备 | 从事低压电气安装需持有 |
+| Electrical Technician Professional Certificate | Ministry of Labor and Social Economy | Required | Obtained through FP or certification courses |
+| Low-voltage electrical authorization | Ministry of Industry, Trade and Tourism | Required | Applicants engaged in low-voltage electrical installation must hold this certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。西班牙可再生能源和智能电网投资推动电气技术员需求增长，预计未来十年就业增长约8%。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Investments in renewable energy and smart grids in Spain are driving demand for electrical technicians, with employment expected to grow by about 8% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$48,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术员晋升为高级技术员、项目主管或电气工程师，需持续学习新技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
+
+You can be promoted from technician to senior technician, project supervisor, or electrical engineer, with ongoing learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Automated test script generation and execution; AI can automatically analyse circuit board fault modes and output test reports
+- Documentation and archiving of standard repair procedures; AI can auto-generate repair logs
+- Circuit parameter debugging based on preset rules; AI quickly determines optimal parameters through simulation
+- Diagnosis of common faults; AI quickly locates issues by matching historical data
+- Repetitive operations in equipment calibration, AI-controlled automated calibration system
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AI provides a data-driven list of potential causes; technicians quickly verify.
+- Design improvement suggestions: AI analyzes historical equipment failure data to propose circuit optimization solutions
+- Remote technical support: AI-enhanced reality glasses overlay circuit diagrams and operating instructions in real time
+- Predictive maintenance: AI predicts equipment failure, technicians intervene early.
+- Training and knowledge base: AI generates personalized learning paths and instant query assistants
+
+**Human moat:**
+
+- Fine manual operations like on-site installation and wiring
+- Creative troubleshooting for non-standard faults
+- Communicating with clients to understand needs and provide customized solutions
+- Overall debugging and coordination during cross-system integration.
+- Safety compliance responsibility and emergency response
+
+**Skills to build:**
+
+- AI-assisted diagnostic tools (e.g., ML-based fault prediction systems)
+- Programmable Automation Controller (PAC) programming.
+- IoT device configuration and data analysis
+- Augmented reality (AR) repair assistance operations
+- Python script for automating test data organization
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Renewable Energy
 - Smart Grids
@@ -61,68 +97,67 @@ Electrical engineering technicians design, install, maintain, and troubleshoot e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人士，需大学学历或5年以上经验，合同薪资满足门槛。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历或紧缺职业，流程快速。 |
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 基于工作合同，需雇主担保，适用于技术员岗位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, a university degree or more than 5 years of experience is required, with contract salaries meeting the threshold. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or in-demand professions, with a fast process. |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Based on the employment contract, employer sponsorship is required, applicable to technician positions. |
 
-**PR难度：中等（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical Engineering Technicians？**
-- 喜欢动手解决实际问题的人
-- 对电气系统和自动化技术感兴趣的人
-- 愿意不断学习新技术的人
-
-**谁不适合学Electrical Engineering Technicians？**
-- 不擅长团队协作的人
-- 对安全规范不敏感的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like to solve practical problems by hand
+- For those interested in electrical systems and automation technology
+- People who are willing to constantly learn new technologies
+
+**Who is not suited**
+- People who are not good at teamwork
+- People insensitive to safety regulations.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for electrical technicians in Spain?**
+A: With experience, salary can increase by over 60%; senior technicians or project managers can earn up to €48,000 per year.
+
+**Q: How can non-EU citizens immigrate to Spain to work as an electrical technician?**
+A: You can obtain an EU Blue Card or a highly skilled professional visa, which requires a work contract and meeting educational or experience requirements.
+
+**Q: How is a foreign degree certified as a Spanish electrical technician?**
+A: Homologación or competency assessment is required, and in some cases, applications can be made based on work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★☆☆☆） |
-
-Electrical Engineering Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for electrical technicians in Spain?**
-答：With experience, salary can increase over 60%, with senior technicians or project managers earning up to €48,000 annually.
-
-**问：How can non-EU citizens immigrate to Spain as electrical technicians?**
-答：Via EU Blue Card or Highly Skilled Professional visa, requiring a job offer and meeting education or experience requirements.
-
-**问：How can foreign qualifications be recognized for electrical technician in Spain?**
-答：Through credential evaluation (homologación) or competency assessment; work experience may suffice in some cases.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

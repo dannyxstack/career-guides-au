@@ -1,60 +1,96 @@
-# Primary Care Nursing Assistant（Primary Care Nursing Assistant）职业分析 · ES
+# Primary Care Nursing Assistant — career analysis · Spain
 
-**职业代码：5612 – Primary Care Nursing Assistant。**
+**Occupation code: 5612 (CNO)**
 
-Assist registered nurses in primary care settings with basic patient care, including vital sign measurement, wound dressing, hygiene assistance, and medical record keeping.
+Assisting registered nurses in primary care centers with basic care, such as measuring vital signs, changing dressings, patient hygiene care, and organizing medical documents.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $1,000~$3,000（公立学校学费低，私立约2000-6000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | $1,500~$4,000（可进阶为高级技师，薪资更高） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $1,000~$3,000 (Public schools have low tuition, while private ones cost about 2000-6000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $1,500~$4,000 (Promotion to senior technician with higher salaries) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Técnico en Cuidados Auxiliares de Enfermería (TCAE)证书 | 西班牙教育部认可的FP中心 | 必备 | 必须持有该官方职业资格证书 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行认证，过程耗时6个月至1年 |
+| Técnico en Cuidados Auxiliares de Enfermería (TCAE) certificate | An FP center recognized by the Spanish Ministry of Education | Required | You must hold the official professional qualification certificate |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require certification, and the process takes from 6 months to 1 year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 80,000。西班牙老龄化加剧，初级护理需求持续增长。公共医疗系统稳定招聘，但预算限制影响岗位增速。
+**Job demand: high (★★★★☆).** National workforce approx. 80,000. Spain's aging population is intensifying, and the demand for primary care continues to grow. The public healthcare system has stable recruitment, but budget constraints have affected job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 公共医疗系统起薪约1.6万-1.8万欧元 |
-| 中级（4-7年） | $20,000~$25,000 | 包含夜班和节假日补贴 |
-| 高级（8年以上） | $25,000~$30,000 | 管理岗或专科护理可达更高 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Starting salary in the public healthcare system is about €16,000-18,000 |
+| Mid-level (4-7 years) | $20,000~$25,000 | Includes night shift and holiday subsidies |
+| Senior (8+ years) | $25,000~$30,000 | Management positions or specialist nursing positions can reach even higher |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级护理助理晋升为注册护士（需完成Grado或FP Superior），或转向专科护理、老年护理管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of junior nursing assistants will be partially replaced by AI (such as document organization), but core nursing tasks are difficult to automate due to the need for interpersonal contact and clinical judgment, resulting in an overall mixed pattern.
+
+You can be promoted from junior care assistant to registered nurse (requiring completion of Grado or FP Superior), or transition to specialist nursing or aged care management positions.
+
+**Tasks most exposed to AI:**
+
+- Use the electronic medical record system to organize and enter medical documents
+- Automatic measurement and recording of basic vital signs (such as AI wearable devices)
+- Automated management of patient appointments and schedules
+- Standardized process for simple dressing changes (assisted by robots)
+- Preliminary screening of basic health data and anomaly alerts (AI triage)
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools enable more accurate identification of patients' abnormal signs
+- Using natural language processing tools to automatically generate nursing records, improving document processing efficiency
+- Quickly access medication interactions and care guidelines with intelligent voice assistants
+- Manage data for multiple chronic disease patients simultaneously through a remote monitoring platform
+- Use data analysis tools to identify patient risk trends and intervene early
+
+**Human moat:**
+
+- Direct patient care and emotional support (such as soothing and communication)
+- Determining when to report to nurses or doctors in complex clinical situations
+- Sterile procedures and delicate manual skills in wound care
+- The ability to build trusting relationships with patients and their families
+- Adapting to the individual needs of different patients and providing humanistic care
+
+**Skills to build:**
+
+- Basic data entry and electronic health record system operation
+- Communication and empathy skills (coping with patient anxiety)
+- Infection control and sterile technology
+- Time management and multitasking coordination skills
+- Basic life support and first aid skills
+- Teamwork and interdisciplinary communication
+
+**Key growth areas:**
 
 - Aging population
 - Primary care expansion
@@ -63,65 +99,64 @@ Assist registered nurses in primary care settings with basic patient care, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit as Employee） | 需雇主担保，证明职位难以在本国招聘，适合有TCAE证书者 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高薪岗位（年薪通常>3.4万欧），初级护理助理较难达到门槛 |
+| Subclass Cuenta ajena (Work Permit as Employee) | Employer sponsorship required, proof that the position is difficult to recruit in the country, suitable for those with TCAE certificates |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to high-paying roles (annual salary usually >€34,000), entry-level care assistants may struggle to meet the threshold. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary Care Nursing Assistant？**
-- 有耐心、细心的人
-- 希望快速进入医疗行业的人
-- 喜欢稳定工作环境的人
-
-**谁不适合学Primary Care Nursing Assistant？**
-- 追求高薪者
-- 无法适应轮班和体力劳动的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and attentive people
+- Individuals looking to quickly enter the healthcare industry
+- People who like a stable work environment
+
+**Who is not suited**
+- Those seeking high salaries
+- People who cannot adapt to shift work and manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for primary care assistants in Spain?**
+A: Junior annual salary about €16,000-20,000, senior up to €25,000-30,000; public healthcare offers stable but limited growth.
+
+**Q: How can third-country citizens immigrate to Spain to work as a primary care assistant?**
+A: The main pathway is employer-sponsored work residency (Cuenta ajena), which requires obtaining a TCAE certificate and completing academic credential verification. EU Blue Card salary thresholds are usually not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Primary Care Nursing Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for nursing assistants in Spain?**
-答：Entry-level annual salary ranges from €16,000 to €20,000, experienced up to €25,000-30,000, with limited growth in public sector.
-
-**问：How can third-country nationals immigrate to Spain as nursing assistants?**
-答：Main route is employer-sponsored work permit (Cuenta ajena), requiring TCAE certification and homologation. EU Blue Card usually not feasible due to salary threshold.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

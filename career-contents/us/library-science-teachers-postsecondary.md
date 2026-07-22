@@ -1,59 +1,95 @@
-# Library Science Teachers, Postsecondary（Library Science Teachers, Postsecondary）职业分析 · 美国
+# Library Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1082 – Library Science Teachers, Postsecondary。**
+**Occupation code: 25-1082 (SOC)**
 
-Teach courses in library science at postsecondary institutions, combining instruction and research to prepare students for careers in libraries and information science.
+Teaching library science courses at higher education institutions, including teaching and research activities, to train students to become library and information professionals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士研究生 | 2年 | $30,000~$60,000（公立大学学费年均约3万美元，私立更高） |
-| 博士研究生 | 5年 | $60,000~$120,000（通常有助学金或奖学金覆盖学费） |
+| Master's Degree | 2 years | $30,000~$60,000 (Average public university tuition about USD 30,000 per year, private higher) |
+| Doctoral student. | 5 years | $60,000~$120,000 (Usually tuition covered by grants or scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国图书馆协会认证硕士学位 | 美国图书馆协会 | 必备 | 多数高校图书馆学教师持有ALA认证的MLIS学位 |
-| 博士学位 | 大学 | 必备 | 终身教职路径通常要求博士学位 |
-| 教学经验 | 高校 | 可选 | 有教学或研究经验者优先 |
+| American Library Association-accredited master's degree | American Library Association | Required | Most academic librarians hold an ALA-accredited MLIS degree |
+| Doctoral degree (PhD) | University | Required | Tenure-track path typically requires a doctoral degree |
+| Teaching experience | Higher education institutions. | Optional | Teaching or research experience preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。2022-2032年就业增长率约8%（平均），数字化和在线资源管理需求推动岗位增长。高校扩招与退休教师更替带来稳定机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Employment growth of about 8% from 2022-2032 (average), driven by digital and online resource management demand. University expansion and teacher retirement turnover provide stable opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理教授或讲师起始薪资 |
-| 中级（4-9年） | $70,000~$90,000 | 有经验的助理教授或副教授 |
-| 高级（10年以上） | $90,000~$130,000 | 正教授或资深教师，含科研收入 |
+| Median salary | $80,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary for assistant professor or lecturer |
+| Intermediate (4-9 years) | $70,000~$90,000 | Experienced assistant or associate professor |
+| Senior (10+ years) | $90,000~$130,000 | Full professor or senior teacher, including research income |
+| average salary | $88,110 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理教授起步，晋升为副教授、教授；部分转向图书馆行政或信息科学管理岗位。终身教职路径竞争激烈。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of librarians is being profoundly changed by AI: traditional tasks like cataloging and retrieval are rapidly automating, but jobs requiring interpersonal insight, such as user consultation and information literacy education, are expanding. Entry-level positions are narrowing due to reduced basic operations, but the librarian role is upgrading to data analysis and knowledge management, with mixed overall prospects.
+
+Typically start as Assistant Professor, progress to Associate Professor and Professor; some move to library administration or information science management. The tenure track is highly competitive.
+
+**Tasks most exposed to AI:**
+
+- Cataloging and classification: AI automatically generates metadata, reducing manual work
+- Literature search and delivery: users directly use AI search, diminishing the intermediary role of librarians
+- Basic reference inquiries: chatbots handle common questions, replacing junior librarians
+- Book lending, returning, and shelving: RFID and self-service equipment enable unmanned operations
+- Collection statistics and reporting: AI automatically generates data reports, reducing manual aggregation
+
+**Where AI augments the role:**
+
+- In-depth reference consultation: after AI provides preliminary results, librarians give precise interpretation and recommendations
+- Information literacy education: design interactive courses using AI tools to improve teaching effectiveness
+- Digital collection management: AI-assisted image recognition, OCR; librarians handle strategy and quality control
+- Research data management: using AI tools to analyze data and provide customized support for researchers
+- Community needs analysis: use AI to mine user behavior data, optimize collection and service design
+
+**Human moat:**
+
+- Complex client inquiries: involve privacy, emotions, cross-cultural issues, requiring empathy and judgment
+- Information Literacy Instruction Design: Requires Understanding of Cognitive Processes, Not Just Technical Operations
+- Collection strategic planning: making value judgments based on community development goals
+- Copyright and license management: requires legal knowledge and ethical decision-making
+- Cross-departmental collaboration and innovation: coordinating resources, driving open knowledge projects.
+
+**Skills to build:**
+
+- Data analysis (Python/SQL) and data visualization
+- AI prompt engineering and generative AI tool application
+- Digital asset management (including metadata standards)
+- Instructional design for information literacy and critical thinking
+- Project management and cross-team communication skills
+- Basic programming and system administration (e.g., ILS, Voyager)
+
+**Key growth areas:**
 
 - Digital Librarianship
 - Data Curation
@@ -62,68 +98,67 @@ Teach courses in library science at postsecondary institutions, combining instru
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于高校教师，需雇主担保。高校通常申请名额豁免，不受年度配额限制。 |
-| Subclass EB-2（EB-2 Advanced Degree Professionals） | 拥有硕士或博士学位，可由高校或机构担保申请绿卡。需PERM劳工证或国家利益豁免。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于具备本科或以上学位的教师，需PERM劳工证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to university faculty, requires employer sponsorship. Universities usually apply for exemption from quota, not subject to annual cap. |
+| Subclass EB-2 (EB-2 Advanced Degree Professionals) | Having a master's or doctoral degree, can be sponsored by a university or institution for a green card. Requires PERM labor certification or national interest waiver. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applicable to teachers with a bachelor's degree or higher, requiring a PERM labor certification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Library Science Teachers, Postsecondary？**
-- 热爱图书馆学与信息科学教学与研究
-- 拥有或愿意攻读硕士/博士学位
-- 具备良好的沟通与学术写作能力
-
-**谁不适合学Library Science Teachers, Postsecondary？**
-- 不喜欢学术研究与论文发表
-- 希望快速进入高薪职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about library science and information science teaching and research
+- Have or willing to pursue a master's/doctoral degree
+- Good communication and academic writing skills
+
+**Who is not suited**
+- Dislikes academic research and paper publishing
+- Looking to quickly enter a high-paying career
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of library science higher education teachers?**
+A: Junior assistant professors earn about USD 55,000-70,000 annually, while senior professors can earn up to USD 130,000. Salaries vary by institution type (research universities typically pay more) and region.
+
+**Q: How can international applicants become library science teachers in the US via work visas?**
+A: Typically first apply for H-1B visa (universities cap-exempt), then green card via EB-2 (master's/PhD + NIW) or EB-3 (bachelor's + PERM). Must find employer sponsorship.
+
+**Q: What educational background is needed for this occupation?**
+A: Typically requires an ALA-accredited Master of Library and Information Science (MLIS); tenure-track positions require a PhD.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Library Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for library science teachers?**
-答：Entry-level assistant professors earn $55,000-$70,000, while senior professors can reach $130,000. Salaries vary by institution type (research universities higher) and region.
-
-**问：How can international applicants become library science teachers in the US?**
-答：Typically apply for H-1B (cap-exempt for universities), then EB-2 (master's/PhD+NIW) or EB-3 (bachelor's+PERM) green card. Requires employer sponsorship.
-
-**问：What education is needed for this career?**
-答：Typically requires an ALA-accredited MLIS degree; tenure-track positions require a PhD.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Dental Prosthesis Technician（Dental Prosthesis Technician）职业分析 · ES
+# Dental Prosthesis Technician — career analysis · Spain
 
-**职业代码：3316 – Dental Prosthesis Technician。**
+**Occupation code: 3316 (CNO)**
 
-Dental prosthesis technicians design, manufacture, and repair dentures, bridges, crowns, and other dental prostheses, playing a key technical role in dental care.
+Denture technicians are responsible for designing, manufacturing, and repairing dentures, bridges, crowns, and other dental restorations, serving as the technical core of the dental team.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立FP免学费，仅注册费；私立约2000-4000€/年） |
-| 大学本科（Grado） | 4年 | $1,200~$8,000（口腔健康相关专业；公立约1200€/年，私立约8000€/年） |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$1,500 (Public FPs are free of tuition, only the registration fee is required; Private ones pay about €2000-4000 per year) |
+| Undergraduate (Grado) | 4 years | $1,200~$8,000 (Oral health-related majors; Public about €1,200/year, private about €8,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 假牙技术高级职业教育文凭 | 西班牙教育部认可的FP中心 | 必备 | 完成FP Grado Superior in Prótesis Dentales |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需经homologación方可从事规管职业 |
+| Advanced Vocational Education Diploma in Denturistic Technology | An FP center recognized by the Spanish Ministry of Education | Required | Completed FP Grado Superior in Prótesis Dentales |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require homologación before one can enter the regulatory profession |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。受老龄化与口腔健康意识提升推动，西班牙假牙技师需求稳定；数字化（CAD/CAM）技术正在改变行业，掌握数字化技能者就业前景更好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Driven by aging populations and increased oral health awareness, demand for dental technicians in Spain remains stable; Digital (CAD/CAM) technology is transforming industries, and those who master digital skills have better employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 实验室助理或初级技师 |
-| 中级（4-10年） | $24,000~$30,000 | 独立技师，掌握数字化技术者更高 |
-| 高级（10年以上） | $32,000~$40,000 | 实验室主管或自有工作室 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Laboratory assistant or junior technician |
+| Mid-level (4-10 years). | $24,000~$30,000 | Independent technicians and those skilled in digital technology have higher status |
+| Senior (10+ years) | $32,000~$40,000 | Laboratory supervisor or own studio |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级技师晋升为高级技师、实验室主管，或开设自有假牙加工室；也可转向数字化牙科设计、种植体修复等细分领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
+
+Candidates can be promoted from junior technician to senior technician or laboratory supervisor, or open their own denture processing room; It can also shift to digital dental design, implant restoration, and other niche areas.
+
+**Tasks most exposed to AI:**
+
+- Caries detection and basic X-ray interpretation
+- Basic Treatment Plan Generation (e.g., filling plans)
+- Patient Appointment Scheduling and Medical Record Organization
+- Drug dosage calculation and side effect alerts
+
+**Where AI augments the role:**
+
+- AI-assisted image analysis improves diagnostic accuracy
+- Digital treatment planning to improve filling/restoration outcomes
+- Smart patient management system optimizes appointments and follow-ups
+- Virtual assistant provides personalized oral health education
+
+**Human moat:**
+
+- Clinical operation skills (e.g., fillings, sealants)
+- Ability to build trust and communicate with patients
+- Clinical judgment for handling complex cases
+- Fine hand movements and hand-eye coordination
+- Techniques for soothing children and anxious patients
+
+**Skills to build:**
+
+- Master AI-assisted diagnostic software (e.g., DEXIS, Pearl)
+- Digital impressions and CAD/CAM operation
+- Data analysis to interpret oral health trends in patient populations
+- Remote dental consultation and collaboration skills
+- Interdisciplinary collaboration (with dentists, hygienists)
+- Lifelong learning and adaptability to new technologies
+
+**Key growth areas:**
 
 - Digital dentistry
 - CAD/CAM
@@ -63,69 +97,68 @@ Dental prosthesis technicians design, manufacture, and repair dentures, bridges,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 由西班牙雇主担保的工作居留，适用于假牙技师岗位。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历或同等资质，且薪资达标。假牙技师通常工资较低，不易满足门槛。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历或紧缺技术人才，但假牙技师不属典型高技能，需个案评估。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Work residency sponsored by Spanish employers applies to denture technician positions. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals requiring a university degree or equivalent, meeting salary thresholds. Dental prosthetists typically earn lower wages, making it harder to meet thresholds. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or urgently needed technical talents, but denture technicians are not typical high-skilled and require case evaluation. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental Prosthesis Technician？**
-- 细心、有手工操作能力的人
-- 对口腔医学和美学感兴趣的人
-- 愿意学习数字化牙科技术的人
-
-**谁不适合学Dental Prosthesis Technician？**
-- 不喜欢重复性手工工作的人
-- 对血液/口腔环境敏感的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful people with manual skills
+- For those interested in oral medicine and aesthetics
+- Those willing to learn digital dental technology
+
+**Who is not suited**
+- People who dislike repetitive manual work
+- People sensitive to blood/oral environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for denture technicians in Spain?**
+A: Entry-level technician salary approx. EUR 18,000-22,000 per year, mid-level 24,000-30,000, senior up to EUR 40,000. Technicians with digital skills earn more.
+
+**Q: How can Chinese denture technicians immigrate to Spain?**
+A: You need Spanish employer-sponsored work residency (Cuenta ajena) and complete a homologación diploma. Since this occupation is not in short supply and offers low wages, the EU Blue Card path is more difficult. It is recommended to first obtain an FP diploma in Spain.
+
+**Q: What educational qualifications are required to become a Spanish denture technician?**
+A: The minimum requirement is the Higher Vocational Education Diploma (FP Grado Superior en Prótesis Dentales), which lasts for 2 years. University-related majors are also acceptable, but FP is more direct.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Dental Prosthesis Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dental prosthesis technicians in Spain?**
-答：Entry-level technicians earn around €18,000-22,000 per year, mid-level €24,000-30,000, and senior up to €40,000. Those with digital skills earn more.
-
-**问：How can a Chinese dental prosthesis technician immigrate to Spain?**
-答：You need a Spanish employer-sponsored work permit (Cuenta ajena) and homologation of your foreign qualifications. Since it's not a shortage occupation and salaries are moderate, the EU Blue Card route is difficult. It's advisable to obtain an FP diploma in Spain first.
-
-**问：What education is required to become a dental prosthesis technician in Spain?**
-答：The minimum is a Higher Vocational Training Diploma (FP Grado Superior en Prótesis Dentales), which takes 2 years. A university degree is also possible but FP is more direct.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Directors and Managers of Recreational, Cultural and Sports Activities Enterprises（Directors and Managers of Recreational, Cultural and Sports Activities Enterprises）职业分析 · ES
+# Directors and Managers of Recreational, Cultural and Sports Activities Enterprises — career analysis · Spain
 
-**职业代码：1501 – Directors and Managers of Recreational, Cultural and Sports Activities Enterprises。**
+**Occupation code: 1501 (CNO)**
 
-Responsible for managing and directing enterprises in recreational, cultural and sports sectors, including strategic planning, operations, finance, and personnel coordination to achieve organizational goals.
+Responsible for managing and guiding leisure, culture, and sports-related enterprises or institutions, including strategic planning, operations management, financial management, and personnel coordination to ensure efficient organizational operations and achievement of goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $2,500~$4,000（公立大学年均学费，不含生活费） |
-| 硕士（Máster） | 1-2年（Máster） | $3,000~$6,000（公立大学硕士学费，私立更高） |
-| 职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$1,500（公立FP中心年均学费） |
+| Undergraduate (Grado) | 4 years (Grado) | $2,500~$4,000 (Average annual tuition at public universities, excluding living expenses) |
+| Máster | 1-2 years (Máster) | $3,000~$6,000 (Master's tuition at public universities is higher at private universities) |
+| Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$1,500 (Annual tuition for public FP centers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 企业管理或相关领域本科学位 | 西班牙大学 | 可选 | 通常要求商业管理、旅游管理或体育管理等相关学位 |
-| 硕士或MBA | 西班牙大学或商学院 | 可选 | 有助于提升竞争力，尤其大型企业 |
-| 语言能力（英语、其他外语） | 语言学校或认证机构 | 可选 | 国际化企业看重英语，尤其是旅游和体育行业 |
-| 行业认证（如项目管理PMP） | 国际项目管理协会（PMI）等 | 可选 | 非强制但加分 |
+| Bachelor's degree in business management or related fields | Spanish University | Optional | Degrees in business management, tourism management, or sports management are usually required |
+| Master's or MBA | Spanish universities or business schools | Optional | It helps enhance competitiveness, especially for large enterprises |
+| Language proficiency (English, other foreign languages) | Language schools or accreditation bodies | Optional | International companies value English, especially in the tourism and sports industries |
+| Industry certifications (such as Project Management PMP) | and the International Project Management Institute (PMI). | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。受旅游业和文化消费增长推动，西班牙休闲、文化和体育管理岗位需求稳定。数字转型和可持续旅游趋势增加了对懂技术和管理的人才需求。疫情期间受冲击较大，但复苏强劲，尤其大型活动和体育赛事复苏带来机会。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Driven by growth in tourism and cultural consumption, demand for leisure, culture, and sports management positions in Spain remains stable. Digital transformation and sustainable tourism trends have increased the demand for talent who understand technology and management. Although the pandemic was hit hard, the recovery was strong, especially with opportunities brought by the rebound of major events and sporting events.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，中小型机构 |
-| 中级（3-7年） | $35,000~$50,000 | 税前年薪，中型企业或部门经理 |
-| 高级（7年以上） | $50,000~$80,000 | 税前年薪，大型企业或总经理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, small to medium-sized institutions |
+| Mid-level (3–7 years) | $35,000~$50,000 | Pre-tax annual salary, medium-sized enterprise or department manager |
+| Senior (7+ years) | $50,000~$80,000 | Pre-tax annual salary, large enterprises or general managers |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径通常从部门主管或项目经理起步，晋升至企业总经理或区域总监。积累行业经验和商业网络后，可转向更大规模组织或自主创业。持续学习数字化营销、活动策划和财务管理有助晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
+
+Career paths typically start as department heads or project managers, and are promoted to general managers or regional directors. After accumulating industry experience and business networks, you can move on to larger organizations or start your own business. Continuous learning in digital marketing, event planning, and financial management can help with promotions.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and booking system that reduces manual scheduling work.
+- AI-driven customer service chatbots handle common inquiries and complaints
+- AI report generation based on historical data, replacing some data analysis tasks.
+- Smart ticketing and inventory management system to optimize ticket sales and merchandise replenishment
+- Automation of standard activity workflows, such as email notifications and form distribution
+
+**Where AI augments the role:**
+
+- Use AI to analyze visitor traffic and preferences to optimize event timing and venue layout.
+- Provide immersive previews via AI virtual reality tools to enhance event marketing
+- AI-assisted creative generation for quickly developing multiple event themes and decoration plans
+- Real-time monitoring of AI system feedback, dynamically adjusting field service and resource allocation
+- AI-driven employee training simulator to enhance team emergency response
+
+**Human moat:**
+
+- Handle sudden security incidents and customer conflicts, requiring emotional judgment and immediate decision-making
+- Maintain key client relationships and build trust in community partnerships
+- Creative direction control to ensure event uniqueness and brand consistency
+- Lead diverse teams, fostering an inclusive and efficient work culture.
+- Compliance and risk management, especially involving minors and special activities
+
+**Skills to build:**
+
+- Data analysis and AI collaboration: use Python or low-code tools to analyze operational data
+- Application of AI content generation tools (e.g., ChatGPT, Midjourney)
+- Digital marketing and social media management, combined with AI for personalized promotion
+- Basic VR/AR technology applications for event preview and remote collaboration.
+- Cross-cultural communication and crisis management to enhance handling of complex interpersonal scenarios
+- Agile project management and automation workflow tools (e.g., Trello, Zapier)
+
+**Key growth areas:**
 
 - digital transformation
 - sustainable tourism
@@ -64,68 +100,67 @@ Responsible for managing and directing enterprises in recreational, cultural and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历或5年相关经验，工作合同满足薪资门槛（通常不低于西班牙平均工资1.5倍） |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高级管理或技术人员，需大学学历或3年管理经验，薪资较高，可快速获得居留 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需雇主担保，审核包括公司规模和职位匹配，适合有工作offer者 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of relevant experience, with a work contract meeting the salary threshold (usually not less than 1.5 times the Spanish average salary) |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For senior management or technical personnel, a university degree or three years of management experience is required, with a relatively high salary and quick residency availability |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship, review includes company size and job matching, suitable for those with job offers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Directors and Managers of Recreational, Cultural and Sports Activities Enterprises？**
-- 拥有商业管理或相关学位，且对文化、体育或娱乐行业有热情的人
-- 具备领导力、沟通能力和战略思维，善于处理多任务和团队协作
-- 西班牙语流利，且英语良好，愿意在旅游或大型活动领域发展
-
-**谁不适合学Directors and Managers of Recreational, Cultural and Sports Activities Enterprises？**
-- 不喜欢频繁社交和对外联络，难以在压力下工作
-- 缺乏商业敏感度和财务管理能力，对数字和预算无兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with a degree in business management or related fields who are passionate about the cultural, sports, or entertainment industries
+- Possess leadership, communication skills, and strategic thinking, and excel at multitasking and teamwork
+- Fluent in Spanish and good English, willing to develop in tourism or large-scale events
+
+**Who is not suited**
+- Dislikes frequent socializing and external contact, making it difficult to work under pressure
+- Lack of business acumen and financial management skills, with no interest in numbers and budgets
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for managers of leisure culture and sports companies in Spain?**
+A: Entry-level annual salary approx. EUR 28,000-35,000; mid-level EUR 35,000-50,000; senior up to EUR 50,000-80,000, depending on company size, region, and experience. Madrid and Barcelona are higher.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: If you have a university degree or relevant management experience, you can apply through the EU Blue Card or the Highly Skilled Talent Visa (Ley 14/2013), and you must first obtain a work contract. You can also use ordinary employment residency, sponsored by your employer.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually requires a bachelor's degree or higher, preferably in business management, tourism management, sports management, etc. FP advanced vocational education also possible, but promotion may be limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Directors and Managers of Recreational, Cultural and Sports Activities Enterprises的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for recreational, cultural and sports enterprise managers in Spain?**
-答：Entry-level annual salary is around €28k-€35k, mid-level €35k-€50k, senior €50k-€80k, depending on company size, region and experience. Madrid and Barcelona offer higher pay.
-
-**问：How can foreigners migrate to Spain through this occupation?**
-答：If you have a university degree or relevant management experience, you can apply via the EU Blue Card or Highly Skilled Professional visa (Law 14/2013) with a job offer. Regular work permit (employer-sponsored) is also possible.
-
-**问：What education is required for this occupation?**
-答：A university degree (Bachelor's or higher) is typically required, preferably in business administration, tourism management or sports management. Advanced vocational training (FP) may also qualify but career progression may be limited.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Sales and Marketing Manager（Sales and Marketing Manager）职业分析 · NL
+# Sales and Marketing Manager — career analysis · Netherlands
 
-**职业代码：1221 – Sales and Marketing Manager。**
+**Occupation code: 1221 (ISCO08)**
 
-Responsible for developing and executing sales and marketing strategies, managing teams, and driving business growth. Common in retail, tech, and manufacturing in the Netherlands, requiring data analysis and market insight.
+Responsible for developing and executing sales and marketing strategies, managing teams, and driving business growth. In the Netherlands, this role is common in retail, technology, and manufacturing, requiring a combination of data analysis and market insights.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $8,000~$15,000（年学费，欧盟学生约€2,200，非欧盟较高） |
-| 硕士 | 1-2年（硕士） | $15,000~$25,000（商学院硕士学费更高，非欧盟可达€30,000） |
+| Bachelor's degree | 4 years (bachelor's degree) | $8,000~$15,000 (Annual tuition, EU students approx. €2,200, non-EU higher) |
+| Master's degree | 1-2 years (Master's) | $15,000~$25,000 (Business school master's tuition is higher, up to €30,000 for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销或工商管理学士/硕士 | 荷兰大学 | 必备 | 相关领域学位通常强制要求 |
-| NIMA营销证书 | NIMA | 可选 | 荷兰本土认可，非强制但加分 |
-| MBA | 国际商学院 | 可选 | 高级职位偏好 |
+| Bachelor's/Master's in Marketing or Business Administration | Netherlands universities | Required | A degree in a related field is usually mandatory. |
+| NIMA Marketing Certificate | NIMA | Optional | Recognised in the Netherlands, not mandatory but advantageous |
+| MBA | International business school. | Optional | Preference for senior roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。荷兰销售与市场经理就业前景稳定，数字化转型和可持续发展趋势带来新机遇。预计未来几年需求温和增长，尤其侧重数字营销和客户体验。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Employment prospects for Sales and Marketing Managers in the Netherlands are stable, with digital transformation and sustainability trends creating new opportunities. Demand is expected to grow moderately in the coming years, especially in digital marketing and customer experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 税前年薪，包括奖金 |
-| 中级（3-7年） | $60,000~$85,000 | 税前年薪，包括奖金 |
-| 高级（7年以上） | $85,000~$120,000 | 税前年薪，包括奖金，总监级别可达€150,000+ |
+| Median salary | $91,686 | Median salary (Official: CBS median hourly wage €46.4/hour × 1976h annualised, BRC group 0522 Managers verkoop en marketing; P25–P75 €65,801–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $45,000~$60,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $60,000~$85,000 | Pre-tax annual salary, including bonuses |
+| Senior (7+ years) | $85,000~$120,000 | Pre-tax annual salary including bonuses, up to €150,000+ at director level |
+| average salary | $75,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径：从销售经理或市场专家起步，可晋升为高级经理、总监，最终至首席营销官（CMO）或商业副总裁。跨部门经验和国际化视野有助于晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI on Sales and Marketing Manager roles is mixed: data analysis and report generation tasks are automated, reducing some work, but core interpersonal skills like strategic decision-making, client relationship maintenance, and team leadership are amplified by AI, creating new value.
+
+Career path: Start as a Sales Manager or Marketing Specialist, advance to Senior Manager, Director, and ultimately Chief Marketing Officer (CMO) or Vice President of Business. Cross-departmental experience and international perspective aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Generate sales reports and market analysis (AI automatically aggregates data and generates visual reports)
+- Manage email marketing campaigns (AI automated sending, A/B testing and optimisation)
+- Initial screening of customer leads (AI scoring and priority assignment)
+- Social media scheduling and basic content publishing (AI tool generation, timing adjustments)
+- Monitor competitor activity (AI scrapes public info and summarizes changes)
+
+**Where AI augments the role:**
+
+- Data analysis and insights: AI rapidly processes customer datasets to discover hidden trends and aid strategy formulation
+- Personalized customer interactions: AI recommendation engines generate customized content for different customers, boosting conversion rates
+- Marketing campaign optimization: AI tests and adjusts ad placements in real time to improve marketing ROI
+- Predict market changes: AI models predict demand based on historical data to assist inventory and pricing decisions
+- Automate routine processes: free up managers' time to focus on high-value tasks such as negotiation and team coaching
+
+**Human moat:**
+
+- Strategic decision-making ability: develop long-term sales and marketing strategies, integrating market insights with company goals.
+- Interpersonal skills and negotiation: building client trust, managing key client relationships, unpredictable complex negotiations
+- Team leadership and motivation: guiding, training sales teams, resolving interpersonal conflicts, driving cultural change
+- Creative marketing planning: brand stories, creative copy, emotional resonance and other human creativity that cannot be replicated by AI
+- Cross-departmental collaboration: Coordinate R&D, finance, operations, etc., to drive complex projects to completion.
+
+**Skills to build:**
+
+- Application of AI and machine learning tools (e.g., AI features in CRM, ChatGPT, Tableau AI plugins)
+- Data Visualization & Interpretation (Python/R Basics, Tableau, Power BI)
+- Digital marketing automation (HubSpot, Marketo, Google Ads advanced features)
+- Strategic data analysis and business insights
+- Leadership and change management (promoting AI implementation in teams)
+- Ethics and compliance awareness (data privacy, bias prevention in AI use)
+
+**Key growth areas:**
 
 - Digital transformation
 - Data-driven marketing
@@ -64,69 +100,68 @@ Responsible for developing and executing sales and marketing strategies, managin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Permit） | 适用于高薪职位，雇主担保，薪资门槛€5,331/月（2024年30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育+高薪，最低薪资€5,900/月（2024年），快速居留 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于荷兰毕业留学生，一年内寻找工作，薪资要求较低 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to high-paying positions, employer sponsorship, salary threshold €5,331/month (2024, age 30+) |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education + high salary, minimum salary €5,900/month (2024), fast residency |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For Dutch graduate international students, one year to find a job, lower salary requirement |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales and Marketing Manager？**
-- 具备领导力与沟通能力的商业导向型人才
-- 擅长数据分析和战略规划者
-- 适应国际化环境，英语流利
-
-**谁不适合学Sales and Marketing Manager？**
-- 不喜欢社交或团队管理的人
-- 压力耐受度低，难以应对业绩目标
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Business-oriented talent with leadership and communication skills
+- Proficient in data analysis and strategic planning
+- Adaptable to an international environment, fluent in English
+
+**Who is not suited**
+- People who dislike socializing or team management
+- Low tolerance for pressure, difficulty meeting performance targets
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sales and marketing managers in the Netherlands?**
+A: Entry-level annual salary approximately €45,000-€60,000, mid-level €60,000-€85,000, senior €85,000-€120,000 (pre-tax). Bonuses tied to performance; director level can exceed €150,000.
+
+**Q: How can foreigners obtain a work visa for Sales and Marketing Manager in the Netherlands?**
+A: Main route is Highly Skilled Migrant visa, requiring employer sponsorship and meeting salary threshold (€5,331/month for age 30+). Or apply for EU Blue Card (€5,900/month). Dutch graduates can use Orientation Year visa.
+
+**Q: What are the career prospects for a Sales and Marketing Manager?**
+A: Trends in digital transformation and sustainability in the Netherlands drive demand, especially in tech and retail. Opportunities for promotion to senior management or CMO are abundant but competitive, requiring continuous digital skills learning.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sales and Marketing Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Sales and Marketing Managers in the Netherlands?**
-答：Entry-level: €45,000-60,000, mid-level: €60,000-85,000, senior: €85,000-120,000 (pre-tax). Bonuses included; director-level can exceed €150,000.
-
-**问：How can foreigners get a work visa for Sales and Marketing Manager in the Netherlands?**
-答：Main route is Highly Skilled Migrant visa with employer sponsorship and salary threshold (€5,331/month for 30+). EU Blue Card (€5,900/month) is another option. Graduates of NL universities can use Orientation Year visa.
-
-**问：What are the career prospects for Sales and Marketing Managers?**
-答：Digital transformation and sustainability drive demand, especially in tech and retail. Opportunities to advance to senior management or CMO exist, but competition is high; continuous learning of digital skills is essential.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

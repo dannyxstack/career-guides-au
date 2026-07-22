@@ -1,61 +1,97 @@
-# Livestock Farmers nec（Livestock Farmers nec）职业分析 · 澳大利亚
+# Livestock Farmers nec — career analysis · Australia
 
-**职业代码：121399 – Livestock Farmers nec。**
+**Occupation code: 121399 (ANZSCO)**
 
-Livestock Farmers nec manage livestock on farms, including feeding, health monitoring, breeding, and pasture management to ensure animal welfare and productivity.
+Livestock Farmer (not elsewhere classified) manages livestock on farms, including feeding, health monitoring, breeding, and pasture management, ensuring animal welfare and production efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业资格证书（Certificate III / IV） | 1-2年 | $5,000~$15,000（学费，取决于课程和TAFE机构） |
-| 农业或相关领域学士学位 | 3-4年 | $30,000~$45,000（每年学费，国际学生较高） |
+| Vocational certificate (Certificate III / IV) | 1-2 years | $5,000~$15,000 (Tuition fees, depending on the course and TAFE institution) |
+| Bachelor's degree in agriculture or related field | 3-4 years | $30,000~$45,000 (Annual tuition fees, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业三级证书（畜牧业） | TAFE或RTO | 可选 | 常见入门资格，非强制但受雇主青睐 |
-| 农业学士学位 | 大学 | 可选 | 提升晋升机会和管理职位 |
-| 牲畜管理相关短期课程 | 行业机构 | 可选 | 如动物健康、牧场管理等 |
+| Certificate III in Agriculture (Livestock) | TAFE or RTO | Optional | Common entry qualification, not mandatory but preferred by employers |
+| Bachelor of Agriculture | University | Optional | improving promotion opportunities and management positions |
+| Short-term courses related to livestock management | Industry bodies | Optional | Such as animal health, pasture management, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。澳洲畜牧业受益于全球食品需求增长和出口市场（如红肉和活畜），但面临干旱、劳动力短缺和监管压力。预计长期需求稳定，但就业机会主要替代现有劳动力。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The Australian livestock industry benefits from global food demand growth and export markets (e.g., red meat and live animals), but faces drought, labor shortages, and regulatory pressures. Long-term demand is expected to be stable, but job opportunities mainly replace existing labor.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 时薪约25-33澳元 |
-| 中级（3-7年） | $65,000~$85,000 | 取决于农场规模和职责 |
-| 高级（7年以上） | $85,000~$110,000 | 农场经理或大型牧场主管 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$65,000 | Hourly rate approximately 25-33 Australian dollars |
+| Mid-level (3–7 years) | $65,000~$85,000 | Depends on farm size and responsibilities |
+| Senior (7+ years) | $85,000~$110,000 | Farm manager or large ranch supervisor |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级畜牧助手晋升至农场管理者或自有农场主，需积累管理经验和行业知识；也可向畜牧顾问或农业企业经理发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed effects on livestock farmers: automated tools can take over data recording, environmental monitoring, etc., but animal health assessment and farm management experience remain hard to replace. Entry-level competition slightly intensifies.
+
+Can progress from entry-level livestock assistant to farm manager or self-employed farmer by accumulating management experience and industry knowledge; can also develop into livestock consultant or agricultural business manager.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems replace manual feeding and mixing.
+- Smart sensors replace manual inspection of livestock body temperature and activity
+- ERP software replaces manual recording of breeding and veterinary logs
+- Drones replace manual inspection of pastures and fences
+- Online health monitoring platform replaces basic symptom assessment
+
+**Where AI augments the role:**
+
+- AI disease prediction models assist in early identification of sick livestock, improving treatment efficiency
+- Gene data analysis tools optimize breeding plans and increase litter rates
+- Precision grazing system dynamically plans rotational grazing based on pasture data
+- Automated slaughter line data feedback improves meat yield
+- Blockchain traceability systems enhance supply chain transparency and brand value
+
+**Human moat:**
+
+- Judgment and emergency handling of abnormal complex animal behavior
+- Overall ranch business decisions and financial planning
+- Interpersonal communication with stakeholders such as veterinarians and dealers
+- Animal welfare ethical judgment and legal compliance responsibilities
+- Creative response to extreme weather (e.g., relocating livestock during floods)
+
+**Skills to build:**
+
+- Smart Agricultural and Livestock Equipment Operation and Maintenance
+- Data analysis (Python/R and livestock software)
+- Foundations of precision animal nutrition and genomics.
+- Digital management of agricultural supply chains
+- Environmentally sustainable aquaculture techniques
+- Asynchronous collaboration and remote monitoring tool usage
+
+**Key growth areas:**
 
 - Animal husbandry
 - Sustainable farming
@@ -64,69 +100,68 @@ Livestock Farmers nec manage livestock on farms, including feeding, health monit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，适用于有经验的畜牧农民，需雇主提名 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，需在偏远地区工作 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保临时签证，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa for experienced livestock farmers, requiring employer nomination |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Provisional visa for regional state sponsorship, requiring work in a regional area |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Livestock Farmers nec？**
-- 热爱户外工作和动物，能承受体力劳动
-- 愿意在偏远地区生活和工作
-- 具备基本商业管理能力和学习意愿
-
-**谁不适合学Livestock Farmers nec？**
-- 不适应孤独和偏远环境的人
-- 厌恶体力劳动和不规律工作时间的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves outdoor work and animals, can handle physical labor
+- Willing to live and work in regional areas
+- Possess basic business management skills and willingness to learn
+
+**Who is not suited**
+- Those who are not suited to isolated and remote environments
+- People who dislike physical labor and irregular working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for livestock farmers?**
+A: Entry-level approximately AUD 50,000-65,000, mid-level AUD 65,000-85,000, senior (farm manager) AUD 85,000-110,000.
+
+**Q: How Can Livestock Farmers Migrate to Australia?**
+A: Primarily through employer sponsorship (482/494) or regional state nomination (491), requiring relevant work experience and the occupation on the CSOL.
+
+**Q: What is the career progression path for a livestock farmer?**
+A: Start as an assistant or breeder, advance to farm supervisor, manager, and eventually own or co-own a farm.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Livestock Farmers nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Livestock Farmers?**
-答：Entry-level around AUD 50,000-65,000, mid-level AUD 65,000-85,000, senior (farm manager) AUD 85,000-110,000.
-
-**问：How can Livestock Farmers migrate to Australia?**
-答：Mainly via employer sponsorship (482/494) or regional state nomination (491), requiring relevant experience and occupation on CSOL.
-
-**问：What is the career progression for Livestock Farmers?**
-答：Start as assistant or stockperson, progress to supervisor, farm manager, and eventually farm ownership or partnership.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

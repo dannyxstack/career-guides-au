@@ -1,60 +1,95 @@
-# Biologist（Biologist）职业分析 · IE
+# Biologist — career analysis · Ireland
 
-**职业代码：2131 – Biologist。**
+**Occupation code: 2131 (ISCO08)**
 
-Study living organisms and their relationship to the environment, conducting research in ecology, genetics, microbiology, and related fields.
+Study organisms and their relationship with the environment, conduct research in ecology, genetics, microbiology, etc., requiring lab and fieldwork.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $20,000~$30,000（每年学费，欧盟学生约€4,000） |
-| 硕士 | 1-2年 | $15,000~$25,000（每年学费，可减免） |
-| 博士 | 3-4年 | $10,000~$15,000（通常有奖学金覆盖） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $20,000~$30,000 (Annual tuition fee, approximately €4,000 for EU students) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Annual tuition fee, may be reduced) |
+| Doctorate | 3-4 years | $10,000~$15,000 (Usually covered by scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（生物科学） | 爱尔兰高校 | 必备 | 通常要求生物学相关专业 |
-| 食品安全或环境科学认证 | 爱尔兰科学基金会 | 可选 | 部分岗位要求 |
-| 博士或同等研究经验 | 高校或研究机构 | 可选 | 研发岗位通常需要 |
+| Bachelor's degree (Biological Sciences) | Irish universities | Required | Usually requires a degree in biology or related field |
+| Food safety or environmental science certification | Science Foundation Ireland | Optional | Some positions require |
+| PhD or equivalent research experience | Universities or research institutions | Optional | R&D positions typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。爱尔兰生物技术产业快速发展，制药和农业科技领域需求增长，但学术职位竞争激烈。政府投资研发带动就业机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Ireland's biotechnology industry is growing rapidly, with increasing demand in pharmaceuticals and agritech, but academic positions are competitive. Government investment in R&D drives job opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 研究助理或初级分析师 |
-| 中级（4-7年） | $45,000~$60,000 | 高级研究员或项目负责人 |
-| 高级（8年以上） | $65,000~$90,000 | 首席科学家或研发经理 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$42,000 | Research assistant or junior analyst |
+| Mid-level (4-7 years) | $45,000~$60,000 | Senior researcher or project lead |
+| Senior (8+ years) | $65,000~$90,000 | Chief Scientist or R&D Manager |
+| average salary | $55,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级研究助理晋升为高级科学家、团队负责人或项目主管。博士学位有助于进入学术界或研发管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance biologists' abilities in data analysis, pattern recognition, and experimental design, but low-level repetitive experiment roles may shrink; overall opportunities outweigh threats.
+
+Can advance from junior research assistant to senior scientist, team leader, or project manager. A PhD helps in entering academia or R&D management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine DNA/RNA sequence alignment and annotation
+- Cell counting and classification in microscope images
+- Manual entry and preliminary sorting of experimental data
+- Standardized colony/clone screening and recording
+
+**Where AI augments the role:**
+
+- Using machine learning to predict gene function from genomic data
+- AI-assisted design of protein structure simulation experiments
+- Automated analysis of high-throughput screening data to identify drug candidates
+- Rapid literature retrieval and review through natural language processing
+- Optimize experimental design parameters with Bayesian statistics
+
+**Human moat:**
+
+- Propose innovative scientific hypotheses and experimental designs
+- Interdisciplinary comprehensive analysis and critical thinking
+- Identifying new discoveries in unexpected experimental phenomena
+- Ethical judgment, regulatory compliance, and public communication
+- Flexibility in field ecological surveys.
+
+**Skills to build:**
+
+- Python/R programming and bioinformatics tools (such as Biopython)
+- Machine learning/deep learning basics and applications (e.g., TensorFlow)
+- Statistical modeling and experimental design (e.g., Bayesian methods)
+- Database management and data analysis (SQL, Tableau)
+- AI ethics and biosafety knowledge
+- Operation of automated laboratory equipment and digital recording systems
+
+**Key growth areas:**
 
 - Biotechnology
 - Pharmaceutical R&D
@@ -63,68 +98,67 @@ Study living organisms and their relationship to the environment, conducting res
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适合年薪不低于€32,000的科研岗位，可快速申请居留 |
-| Subclass General Employment P（General Employment Permit） | 适用于€30,000以上年薪，需劳动力市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 要求高技能，年薪不低于€32,000（一般职业）或€27,000（科研） |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Suitable for research positions with an annual salary of at least €32,000, eligible for fast-track residency application |
+| Subclass General Employment P (General Employment Permit) | Applicable for salaries above €30,000 per year, requires labor market test |
+| Subclass EU Blue Card (EU Blue Card) | Requires high skills, annual salary at least €32,000 (general occupations) or €27,000 (research) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologist？**
-- 对生命科学有强烈好奇心的人
-- 具备实验室技能和数据分析能力
-- 愿意从事跨学科研究
-
-**谁不适合学Biologist？**
-- 不喜欢长时间实验和野外工作
-- 追求高薪和快速晋升
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong curiosity about life sciences
+- Possess laboratory skills and data analysis ability
+- Willing to engage in interdisciplinary research
+
+**Who is not suited**
+- Does not enjoy long hours of experiments and fieldwork
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: How much do biologists earn in Ireland?**
+A: Entry-level annual salary about €32,000-42,000, mid-level €45,000-60,000, senior €65,000-90,000. Slightly lower in academic institutions, higher in pharmaceutical industry.
+
+**Q: How can biologists immigrate to Ireland?**
+A: Can be applied for via the Critical Skills Employment Permit (annual salary €32,000+) or General Employment Permit (€30,000+). R&D roles are often on the shortage list.
+
+**Q: Career development path for a biologist in Ireland?**
+A: Start as a research assistant, gain experience, and advance to senior researcher, project manager, or chief scientist. A PhD helps in entering management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Biologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biologists in Ireland?**
-答：Entry-level salary is around €32,000-42,000, mid-level €45,000-60,000, senior €65,000-90,000. Academia pays lower, pharma higher.
-
-**问：How can biologists immigrate to Ireland?**
-答：Apply for Critical Skills Employment Permit (salary €32,000+) or General Employment Permit (€30,000+). R&D roles often on shortage list.
-
-**问：What is the career progression for biologists in Ireland?**
-答：Start as research assistant, progress to senior researcher, project manager, or principal scientist. PhD helps for management roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

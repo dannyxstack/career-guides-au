@@ -1,61 +1,93 @@
-# Ironworkers（Ironworkers）职业分析 · 加拿大
+# Ironworkers — career analysis · Canada
 
-**职业代码：72105 – Ironworkers。**
+**Occupation code: 72105 (NOC)**
 
-Ironworkers install, assemble, and reinforce steel bars, frames, and other metal components in building structures, playing an essential role in construction projects.
+Steel fixers are responsible for installing, assembling, and reinforcing steel bars, steel frames, and other metal components in building structures, making them an essential trade in construction projects.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒培训 | 3-4年 | $1,000~$5,000（含课堂和在职培训，部分省份有补贴） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training | 3-4 years | $1,000~$5,000 (Includes classroom and on-the-job training, with subsidies available in some provinces) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级学徒注册 | 各省学徒培训机构 | 必备 | 完成学徒期并参加考试 |
-| 行业证书 | 省级技能认证部门 | 可选 | 红印认证可跨省工作 |
-| 高空作业安全培训 | 雇主或培训机构 | 必备 | 部分项目要求 |
+| Provincial apprenticeship registration | Provincial apprenticeship training institutions | Required | Complete apprenticeship and pass examinations |
+| Safety training for working at heights | Employer or training provider | Required | Some project requirements |
+| Industry certifications | Provincial skills certification authority | Optional | Red Seal certification allows interprovincial work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 28,000。加拿大基础设施投资和住宅建设持续增长，铁工需求稳定。新移民和退休人员更替带来就业机会，但受经济周期影响。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 28,000. Infrastructure investment and residential construction continue to grow in Canada, with stable demand for ironworkers. Job opportunities arise from new immigrants and retiree replacement, but are affected by the economic cycle.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒工资约为熟练工的60% |
-| 中级（3-6年） | $60,000~$80,000 | 取得认证后薪资上涨 |
-| 高级（6年以上） | $80,000~$100,000 | 含加班和项目奖金 |
+| Median salary | $89,440 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentice wages are about 60% of skilled worker wages |
+| Mid-level (3–6 years) | $60,000~$80,000 | Salary increases after certification |
+| Senior (6+ years) | $80,000~$100,000 | Including overtime and project bonuses |
+| average salary | $85,280 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 铁工可从学徒成长为熟练工，进而晋升为工头、监工或项目经理。也可通过考取额外认证（如焊接）拓展技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+Ironworkers can progress from apprentice to skilled worker, then to foreman, supervisor, or project manager. They can also expand skills through additional certifications (e.g., welding).
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Infrastructure boom
 - Residential construction
@@ -64,68 +96,67 @@ Ironworkers install, assemble, and reinforce steel bars, frames, and other metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC、安省）将铁工列为优先职业，可通过省提名移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，工作一年后可能符合Express Entry经验类别。 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario) list ironworkers as priority occupations, eligible for immigration through provincial nomination. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas; after one year of work, may qualify for Express Entry experience category. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ironworkers？**
-- 喜欢体力劳动和户外工作
-- 不恐高，能适应高空作业
-- 注重安全，团队协作能力强
-
-**谁不适合学Ironworkers？**
-- 有眩晕症或恐高症
-- 不愿从事高强度体力劳动
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys physical labor and outdoor work
+- Not afraid of heights; able to work at heights
+- Safety-focused with strong teamwork skills
+
+**Who is not suited**
+- Suffers from vertigo or acrophobia
+- Unwilling to engage in high-intensity physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average hourly wage for ironworkers?**
+A: Hourly wage for ironworkers in Canada is approximately CAD 30-45, depending on the province and experience.
+
+**Q: Can ironworkers immigrate through the Express Entry system?**
+A: Ironworkers are not typically on the direct invitation list for Federal Express Entry, but can apply through Provincial Nominee or LMIA work permit followed by the Canadian Experience Class.
+
+**Q: What certifications do ironworkers need?**
+A: Generally, you need to complete a provincial apprenticeship program and obtain industry certification; the Red Seal endorsement allows working across provinces.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Ironworkers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for ironworkers?**
-答：Ironworkers in Canada earn approximately CAD 30-45 per hour, depending on province and experience.
-
-**问：Can ironworkers immigrate through Express Entry?**
-答：Ironworkers are typically not directly invited under Express Entry, but may qualify via PNP or after LMIA work experience through CEC.
-
-**问：What certifications are required for ironworkers?**
-答：Completion of provincial apprenticeship and trade certification is required; Red Seal allows interprovincial mobility.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

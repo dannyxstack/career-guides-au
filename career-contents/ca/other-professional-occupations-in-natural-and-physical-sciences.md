@@ -1,60 +1,94 @@
-# Other Professional Occupations in Natural and Physical Sciences（Other Professional Occupations in Natural and Physical Sciences）职业分析 · 加拿大
+# Other Professional Occupations in Natural and Physical Sciences — career analysis · Canada
 
-**职业代码：21299 – Other Professional Occupations in Natural and Physical Sciences。**
+**Occupation code: 21299 (NOC)**
 
-Includes biologists, chemists, environmental scientists, etc., performing research, experiments and consultancy. Eligible for immigration via EE (STEM draws) or PNP, with ECA required; suitable for work in labs, government or private sector.
+Covers biologists, chemists, environmental scientists, etc., engaged in research, experiments, and consulting. Eligible for immigration via EE (STEM category) or PNP; suitable for employment in labs, government, or private sector after credential assessment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$40,000（学费因大学而异） |
-| 硕士 | 2年 | $15,000~$30,000（研究型可能获资助） |
-| 博士 | 5年 | $15,000~$30,000（通常有奖学金/助教） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Tuition fees vary by university) |
+| Master's degree | 2 years | $15,000~$30,000 (Research-based may receive funding) |
+| Doctorate | 5 years | $15,000~$30,000 (Usually includes scholarships/teaching assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证 | WES/ICES等 | 必备 | ECA用于移民，需英文翻译 |
-| 语言考试 | IELTS/CELPIP | 必备 | 需CLB7及以上 |
-| 专业执照 | 加拿大科学认证委员会 | 可选 | 部分省份要求注册为专业科学家 |
+| Qualification recognition | WES/ICES etc. | Required | ECA used for immigration, requires English translation |
+| Language test | IELTS/CELPIP | Required | Requires CLB 7 or higher |
+| Professional licence | Canadian Scientific Certification Council | Optional | Some provinces require registration as a professional scientist |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 25,000。加拿大自然与物理科学领域需求稳定，尤其在环境科技、生物技术、制药等行业。政府加大科研投入，岗位预计增长，但需匹配雇主或省提名。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Demand in Canada's natural and physical sciences sector is stable, especially in environmental technology, biotechnology, and pharmaceuticals. Increased government research investment is expected to drive job growth, but requires employer matching or provincial nomination.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 实验室助理或初级研究员 |
-| 中级（4-7年） | $58,000~$75,000 | 独立研究员或项目主管 |
-| 高级（8年以上） | $80,000~$100,000 | 高级科学家或部门经理 |
+| Median salary | $66,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Laboratory assistant or junior researcher |
+| Mid-level (4-7 years) | $58,000~$75,000 | Independent researcher or project supervisor |
+| Senior (8+ years) | $80,000~$100,000 | Senior Scientist or Department Manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径可从助理研究员或技术员起步，晋升至高级科学家、项目主管或实验室经理。部分转向政策分析或销售，需持续进修以保持竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on this occupation is mixed: basic data collection and report generation tasks are threatened by automation, but AI enhances complex modeling and interdisciplinary analysis capabilities; experimental design and regulatory compliance still require human judgment.
+
+Career paths can start as assistant researcher or technician, progressing to senior scientist, project supervisor, or lab manager. Some transition to policy analysis or sales, requiring ongoing study to stay competitive.
+
+**Tasks most exposed to AI:**
+
+- Automatically record experimental data and generate standard reports
+- Basic chemical/biological sample analysis and classification
+- Routine statistics and trend analysis of environmental monitoring data.
+- Literature search and summary compilation
+
+**Where AI augments the role:**
+
+- Using AI models to accelerate drug molecule design and screening.
+- Using machine learning to analyze complex environmental data (e.g., climate models)
+- High-throughput experimental design and outcome prediction with AI assistance
+- Automatically generate initial research paper drafts and charts
+- Integrating multi-source data for ecosystem simulation
+
+**Human moat:**
+
+- Design novel experimental protocols and hypothesis testing
+- Interpret abnormal patterns in unstructured, heterogeneous data
+- Interdisciplinary problem definition and project leadership
+- Ethical review and public communication
+- Regulatory compliance judgment (e.g., EPA, CFIA standards)
+
+**Skills to build:**
+
+- Python/R and machine learning libraries (e.g., scikit-learn, TensorFlow)
+- Data visualization and interactive reporting tools (e.g., Tableau, Plotly).
+- Operation and customization of laboratory automation systems (e.g., LIMS)
+- Statistical Modelling and Design of Experiments (DOE)
+- AI ethics and scientific explainability
+- Cloud Computing and Big Data Processing (AWS/Azure)
+
+**Key growth areas:**
 
 - STEM draws
 - Provincial Nominee
@@ -63,68 +97,67 @@ Includes biologists, chemists, environmental scientists, etc., performing resear
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC/STEM draws)） | 通过快速通道，尤其STEM类别抽签，适合高学历、语言佳的申请人。 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如BC PNP Tech Pilot、安省Human Capital，需雇主担保或学历。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省试点，适合有雇主offer的申请人。 |
+| Subclass EE (Express Entry (FSW/CEC/STEM draws)) | Through fast-track, especially STEM category draws, suitable for applicants with higher education and strong language skills. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations such as BC PNP Tech Pilot, Ontario Human Capital, requiring employer sponsorship or education. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, suitable for applicants with a job offer from an employer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Professional Occupations in Natural and Physical Sciences？**
-- 有自然/物理科学本科及以上学历
-- 愿意在实验室或野外工作
-- 英语CLB7或法语NCLC7以上
-
-**谁不适合学Other Professional Occupations in Natural and Physical Sciences？**
-- 抗拒继续教育和考证
-- 寻求高薪快节奏行业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor's degree or higher in natural/physical sciences
+- Willing to work in a laboratory or field setting
+- English CLB7 or French NCLC7 or above
+
+**Who is not suited**
+- Resistance to continuing education and obtaining certifications
+- Seeking high-paying, fast-paced industries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for natural and physical sciences professionals in Canada?**
+A: Junior: approx. CAD 45,000-55,000, mid-level: CAD 58,000-75,000, senior: CAD 80,000-100,000. Varies by region, industry (e.g., biotech, environmental consulting), and experience.
+
+**Q: what steps are needed to immigrate to Canada as a natural and physical science professional?**
+A: Step 1: ECA credential assessment; Step 2: Achieve language test score (IELTS CLB7+); Step 3: Submit application via EE or PNP; Step 4: Apply for permanent residence after receiving nomination or ITA.
+
+**Q: What are the career prospects for this occupation in Canada?**
+A: Outlook is stable, with growing demand in environmental and biotechnology sectors. However, attention should be paid to provincial nominee programs due to strong regionality of the role. Continuous education supports advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other Professional Occupations in Natural and Physical Sciences的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Natural and Physical Science Professionals in Canada?**
-答：Entry-level approximately CAD 45,000-55,000; mid-level 58,000-75,000; senior 80,000-100,000. Varies by region, industry (e.g., biotech, environmental consulting) and experience.
-
-**问：What steps are needed to immigrate to Canada as a Natural and Physical Science Professional?**
-答：Step 1: Get ECA for your degree; Step 2: Take language test (IELTS CLB7+); Step 3: Apply via EE or PNP; Step 4: After nomination or ITA, apply for permanent residence.
-
-**问：What are the career prospects for this occupation in Canada?**
-答：Prospects are stable, with growth in environmental and biotech fields. Provincial nominations are key as positions are region-specific. Continuing education aids advancement.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

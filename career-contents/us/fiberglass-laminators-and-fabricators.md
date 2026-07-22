@@ -1,60 +1,95 @@
-# Fiberglass Laminators and Fabricators（Fiberglass Laminators and Fabricators）职业分析 · 美国
+# Fiberglass Laminators and Fabricators — career analysis · United States
 
-**职业代码：51-2051 – Fiberglass Laminators and Fabricators。**
+**Occupation code: 51-2051 (SOC)**
 
-Laminate layers of fiberglass on molds to form boat decks, hulls, and bodies for golf carts, automobiles, or other products.
+Lay fibreglass layers on moulds to manufacture boat decks, hulls, golf cart bodies, car bodies, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常要求高中文凭或同等学历） |
-| 在职培训 | 1年 | —（雇主提供在职培训，可能需自费工具） |
+| High school diploma | 0 years | $0~$0 (Usually requires high school diploma or equivalent) |
+| On-the-job training | 1 year | $0~$1,000 (Employers provide on-the-job training; tools may need to be purchased at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入学要求 |
-| 在职培训 | 雇主 | 必备 | 通常为期1年 |
+| High school diploma or equivalent | High school | Required | Basic admission requirements |
+| On-the-job training | Employer | Required | Typically 1 year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 17,000。美国就业前景稳定，受制造业和船舶维修需求支撑，但自动化可能减少部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 17,000. US job outlook is stable, supported by manufacturing and ship repair demand, but automation may reduce some positions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约13-17美元 |
-| 中级（3-7年） | $35,000~$45,000 | 时薪约17-22美元 |
-| 高级（7年以上） | $45,000~$55,000 | 时薪约22-26美元 |
+| Median salary | $46,880 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage approximately $13–17 USD |
+| Mid-level (3–7 years) | $35,000~$45,000 | Hourly wage about USD 17-22 |
+| Senior (7+ years) | $45,000~$55,000 | Hourly rate approximately $22-26 USD |
+| average salary | $49,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从助手晋升为高级层压工、工头或质检员，进一步可转向复合材料技术员或生产主管。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Fibreglass laminators face high automation risk; AI and robots will take over many repetitive layup and cutting tasks, significantly reducing entry-level roles, but manual finishing and on-site troubleshooting still require humans.
+
+Can progress from assistant to senior laminator, foreman, or quality inspector, then further to composite technician or production supervisor.
+
+**Tasks most exposed to AI:**
+
+- Repetitive hand lay-up of fiberglass fabric and resin application
+- Cutting and trimming operations based on preset dies
+- Basic visual inspection and thickness measurement
+- Simple trimming and deburring
+- Routine mold cleaning and maintenance
+
+**Where AI augments the role:**
+
+- Using AI vision systems for real-time ply quality inspection and defect detection
+- Optimizing layup sequence and resin usage through digital twin simulations
+- Use collaborative robots to assist in moving heavy objects and automatically spray resin
+- AI-driven predictive maintenance reduces equipment downtime
+- Augmented reality (AR) systems provide layered process step guidance
+
+**Human moat:**
+
+- Hand lay-up experience and feel for complex curved and irregular molds
+- Process adjustment ability to solve on-site anomalies such as bubbles and wrinkles
+- Selection and layup design for multi-material systems (e.g., carbon fiber hybrids)
+- Communication and implementation of creative layup solutions for custom products
+
+**Skills to build:**
+
+- Collaborative robot programming and operation (e.g., FANUC, UR)
+- CAD/CAM software and digital twin tools (e.g., SolidWorks, Abaqus)
+- Composite material process knowledge (RTM, vacuum bagging, etc.)
+- Using AI vision inspection tools (e.g., Cognex, Halcon)
+- Basic PLC and automation equipment troubleshooting
+- Augmented reality-assisted operation devices (e.g., Microsoft HoloLens)
+
+**Key growth areas:**
 
 - Manufacturing
 - Marine industry
@@ -63,60 +98,62 @@ Laminate layers of fiberglass on molds to form boat decks, hulls, and bodies for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职位通常不要求学士学位 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-3)） | 需通过劳工证，但雇主赞助较少见 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this position typically does not require a bachelor's degree |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Requires labor certification, but employer sponsorship is rare. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fiberglass Laminators and Fabricators？**
-- 动手能力强，注重细节
+**Who is suited**
+- Hands-on, detail-oriented.
 
-**谁不适合学Fiberglass Laminators and Fabricators？**
-- 不喜重复性体力劳动
-- 对树脂气味敏感
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Sensitive to resin odor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a Fiberglass Laminator?**
+A: US median annual salary around $37,000, entry-level $28,000-$35,000, senior up to $55,000.
+
+**Q: Are there pathways for this occupation to immigrate to the US?**
+A: Almost no skilled migration pathways. H-1B typically requires a bachelor's degree, and EB-3 green cards also require employer sponsorship, but positions are scarce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Fiberglass Laminators and Fabricators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a fiberglass laminator?**
-答：Median annual wage in the US is about $37,000, entry-level $28,000-$35,000, experienced up to $55,000.
-
-**问：Are there immigration pathways to the US for this occupation?**
-答：Almost none. H-1B usually requires a bachelor's degree, and EB-3 green card requires employer sponsorship, which is rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

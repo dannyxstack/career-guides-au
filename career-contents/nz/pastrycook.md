@@ -1,59 +1,95 @@
-# Pastrycook（Pastrycook）职业分析 · 新西兰
+# Pastrycook — career analysis · New Zealand
 
-**职业代码：351112 – Pastrycook。**
+**Occupation code: 351112 (ANZSCO)**
 
-Pastrycooks are in steady demand in New Zealand, eligible for Skilled Migrant Category and Green List direct residence pathways, subject to median wage and qualification requirements.
+Pastry chefs have stable demand in New Zealand and can migrate via Skilled Migration (SMC) or Green List direct residence pathway, but must meet median wage and qualification requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书（Level 4） | 1年 | $8,000~$15,000（公立理工学院或私立培训机构） |
-| 文凭（Level 5-6） | 2年 | $20,000~$35,000（包括实习） |
+| Certificate (Level 4) | 1 year | $8,000~$15,000 (Public polytechnics or private training institutions) |
+| Diploma (Level 5-6) | 2 years | $20,000~$35,000 (Includes internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰烘焙证书（Level 4） | 新西兰学历认证局（NZQA） | 可选 | 行业认可的基础资格 |
-| 食品处理证书 | 初级产业部（MPI） | 必备 | 从事食品行业必需 |
-| 雅思学术类6.5分 | IELTS | 可选 | 技术移民英语要求 |
+| Food handling certificate | Ministry for Primary Industries (MPI) | Required | Mandatory for working in the food industry |
+| New Zealand Certificate in Baking (Level 4) | New Zealand Qualifications Authority (NZQA) | Optional | Industry-recognized basic qualification |
+| IELTS Academic score of 6.5 | IELTS | Optional | English language requirements for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 4,500。新西兰烘焙食品消费持续增长，旅游和餐饮业推动糕点师需求。奥克兰、基督城等城市岗位较多，但地区紧缺岗位有限。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. New Zealand's bakery product consumption continues to grow, with tourism and food service driving demand for pastry chefs. Cities like Auckland and Christchurch have more positions, but regional shortages are limited.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 可能接近最低工资 |
-| 中级（3-7年） | $53,000~$65,000 | 达到中位数薪资约5.8万 |
-| 高级（7年以上） | $66,000~$80,000 | 主管或特殊技能岗位 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $42,000~$52,000 | May be close to minimum wage |
+| Mid-level (3–7 years) | $53,000~$65,000 | Median salary approximately AUD 58,000 |
+| Senior (7+ years) | $66,000~$80,000 | Supervisor or special skill position |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从助理糕点师晋升至高级糕点师、主管或自己开店。积累经验后也可转向食品研发或教学岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pastry chefs have high creativity, difficult for AI to fully replicate, but standardized production and ingredient optimization are already impacted by AI tools; entry-level roles like process-based baking operations face replacement risk, overall a mixed outlook.
+
+Can advance from assistant pastry chef to senior pastry chef, supervisor, or start your own business. With experience, you can also shift to food R&D or teaching roles.
+
+**Tasks most exposed to AI:**
+
+- AI recipe software automatically generates standard pastry recipes and optimizes ingredient ratios
+- Automated ovens and robotic arms can handle dough mixing, shaping, and baking time control
+- AI inventory management system predicts raw material demand and auto-orders
+- Smart egg beater and decoration robot replace manual piping and decorating
+- AI visual inspection systems identify product defects and reject non-conforming items
+
+**Where AI augments the role:**
+
+- AI provides flavor pairing suggestions and consumer preference data analysis to aid innovative product development.
+- AR glasses guide complex decoration steps, improving accuracy and efficiency
+- AI temperature and humidity sensors optimize the baking environment to ensure consistent quality
+- Digital recipes and online tutorials allow pastry chefs to quickly learn new techniques and styles.
+- Social media AI analyzes trends to empower personalized marketing and customized services.
+
+**Human moat:**
+
+- Ability to create innovative flavors and designs for high-end custom orders
+- Complex multi-step manual skills like sugar pulling and fondant art
+- Intuitive judgment of local ingredient flavors and cultural integration
+- Interact with customers to provide personalized experiences and emotional value
+- Food hygiene safety responsibility and on-site problem decision-making
+
+**Skills to build:**
+
+- AI formula optimization and data analysis tools (e.g., Zhipu, Python)
+- 3D printing and CNC engraving used for creative decoration
+- Online brand management and social media content creation
+- Immersive experience design (e.g., AR/VR baking instruction)
+- Knowledge of sustainable food supply chain management
+- Multilingual services and cross-cultural pastry customization
+
+**Key growth areas:**
 
 - Steady demand
 - Hospitality sector
@@ -62,68 +98,67 @@ Pastrycooks are in steady demand in New Zealand, eligible for Skilled Migrant Ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制标准，薪资达到中位数每周29.66小时，并有认可雇主担保。 |
-| Subclass Green List T1（Green List Tier 1 - Straight to Residence） | 该职业不在绿色清单上，无法通过直接居留路径。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 可由认证雇主担保，工作满2年后可申请居留，但需满足薪资和资格要求。 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system with salary reaching the median for 29.66 hours per week, and have an accredited employer sponsor. |
+| Subclass Green List T1 (Green List Tier 1 - Straight to Residence) | This occupation is not on the Green List and is not eligible for the direct residence pathway. |
+| Subclass AEWV (Accredited Employer Work Visa) | Can be sponsored by an accredited employer, and apply for residency after 2 years of work, subject to salary and qualification requirements. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pastrycook？**
-- 喜欢创造性手工制作、对烘焙有热情的人
-- 愿意在清晨或周末工作、适应快节奏环境
-- 希望获得技能型移民机会，愿意提升英语和资格
-
-**谁不适合学Pastrycook？**
-- 对重复性体力工作难以接受的人
-- 不喜欢站立工作或高温环境
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy creative handmade work and have a passion for baking
+- Willing to work early mornings or weekends, adaptable to fast-paced environments
+- Hope to gain skilled migration opportunities, willing to improve English and qualifications
+
+**Who is not suited**
+- People who find repetitive physical work difficult to endure
+- Dislikes standing work or high-temperature environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a pastry chef in New Zealand?**
+A: A mid-level pastry chef earns approx. NZD 53,000-65,000 per year; reaching the median salary (NZD 58,000) can meet the skilled migration salary threshold.
+
+**Q: What are the main pathways for pastry chefs to migrate to New Zealand?**
+A: Main pathway is to apply for residence after 2 years on an Accredited Employer Work Visa (AEWV), or via Skilled Migrant Category (SMC) 6-point system, but must meet median wage and qualification requirements. This occupation is not on the Green List.
+
+**Q: What qualifications are needed to become a pastry chef?**
+A: Typically requires completion of the New Zealand Certificate in Baking (Level 4) or higher diploma, with training lasting 1-2 years and costing approximately 8,000-35,000 NZD. Apprenticeships are also available to gain experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Pastrycook的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a pastry cook in New Zealand?**
-答：A mid-level pastry cook earns NZD 53,000-65,000 per year. Meeting the median wage (about NZD 58,000) can satisfy the Skilled Migrant Category income threshold.
-
-**问：What are the main migration pathways for pastry cooks in New Zealand?**
-答：Main pathways include the Accredited Employer Work Visa (AEWV) leading to residence after 2 years, or the Skilled Migrant Category (6-point system) if meeting median wage and qualification requirements. This occupation is not on the Green List.
-
-**问：What education is needed to become a pastry cook?**
-答：Typically a New Zealand Certificate in Baking (Level 4) or higher diploma, lasting 1-2 years and costing NZD 8,000-35,000. Apprenticeships also provide hands-on experience.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

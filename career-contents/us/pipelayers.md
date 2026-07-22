@@ -1,60 +1,93 @@
-# Pipelayers（Pipelayers）职业分析 · 美国
+# Pipelayers — career analysis · United States
 
-**职业代码：47-2151 – Pipelayers。**
+**Occupation code: 47-2151 (SOC)**
 
-Lay pipe for storm or sanitation sewers, drains, and water mains. Grade trenches, position pipe, and seal joints.
+Lays stormwater, sewer, drainage, and water mains, including trench sloping, pipe positioning, and sealing joints.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒制 | 4年 | $1,000~$5,000（在职培训与课堂学习结合） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship | 4 years | $1,000~$5,000 (Combination of on-the-job training and classroom learning) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 管道铺设工证书 | 各州劳工部门或行业协会 | 必备 | 部分州要求持证上岗 |
-| OSHA安全认证 | 美国职业安全与健康管理局 | 可选 | 基本安全培训推荐 |
+| Pipe layer certificate | State labor departments or industry associations. | Required | Some states require licensing |
+| OSHA safety certification | U.S. Occupational Safety and Health Administration | Optional | Basic safety training recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 48,000。美国基建投资和城市更新推动管道铺设需求，未来十年就业增长率约6%，高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. U.S. infrastructure investment and urban renewal drive demand for pipe laying, with a projected employment growth rate of about 6% over the next decade, above average.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期或入门岗位 |
-| 中级（3-5年） | $45,000~$60,000 | 熟练管道铺设工 |
-| 高级（5年以上） | $60,000~$80,000 | 领班或独立承包商 |
+| Median salary | $49,000 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprenticeship or entry-level position |
+| Mid-level (3–5 years) | $45,000~$60,000 | Skilled pipe layer |
+| Senior (5+ years) | $60,000~$80,000 | Foreman or independent contractor |
+| average salary | $54,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒做起，晋升为管道工领班、监理或独立承包商；积累经验后可转向管道系统设计或项目管理。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
+
+Can start as an apprentice, advance to plumber foreman, supervisor, or independent contractor; with experience, can shift to plumbing system design or project management.
+
+**Tasks most exposed to AI:**
+
+- Standard pipe layout design: AI automatically generates optimized pipe routes based on building blueprints
+- Document and compliance checks: AI reviews drawings and specs, auto-generates compliance reports
+- Inventory and logistics scheduling: AI predicts parts demand and arranges delivery
+- Remote fault preliminary diagnosis: AI identifies common blockages or leaks via sensor data
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AR overlays AI analysis of thermal imaging/sonic data to pinpoint hidden leaks
+- Construction planning and collaboration: real-time update of pipe conflict detection and process optimization using AI+BIM models
+- Customer communication and quoting: AI chatbots record requirements and generate 3D visual quotes
+- Continuous learning and compliance: AI personalizes recommendations for new regulations and training videos
+
+**Human moat:**
+
+- On-site manual operations: performing fine physical work like welding and cutting in confined spaces
+- Safety and compliance responsibility: Legally liable for statutory safety acceptance of water and gas pipelines
+- Non-standard problem solving: improvisational modification skills for old houses and non-standard materials
+- On-site customer trust: direct communication with clients, calming emotions, providing reliable service
+
+**Skills to build:**
+
+- BIM and building modeling software operation (e.g., Revit)
+- Use and data interpretation of AR-assisted maintenance equipment
+- Pipeline intelligent monitoring system debugging and maintenance
+- Basic data analysis and collaboration with AI tools
+- Cross-functional communication and project coordination skills
+- Installation of renewable energy plumbing systems (e.g., solar hot water, heat pumps)
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Urban Renewal
@@ -63,62 +96,64 @@ Lay pipe for storm or sanitation sewers, drains, and water mains. Grade trenches
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性非农业工人签证，管道铺设可能适用，但配额有限。雇主需证明本地劳工不足。 |
-| Subclass Green Card (PERM)（Employment-Based Immigrant Visa） | 需要通过PERM劳工认证证明无合格美国工人，对于管道铺设工难度较大，通常仅高级职位有希望。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal non-agricultural worker visa; pipe laying may be applicable, but quotas are limited. Employers must demonstrate local labor shortage. |
+| Subclass Green Card (PERM) (Employment-Based Immigrant Visa) | Requires PERM labor certification to prove no qualified US workers; difficult for pipe layers, usually only senior positions have a chance. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pipelayers？**
-- 喜欢户外体力劳动
-- 注重实际技能而非学术
-- 愿意接受在职培训与学徒
+**Who is suited**
+- Enjoys outdoor physical work
+- Focus on practical skills rather than academics
+- Willing to undergo on-the-job training and apprenticeship
 
-**谁不适合学Pipelayers？**
-- 寻求办公室工作
-- 不愿从事体力负荷大的工作
+**Who is not suited**
+- Seeking office work
+- Unwilling to engage in physically demanding work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for pipe layers?**
+A: US pipe layer median annual salary approx $47,000, beginner about $35,000, experienced can reach $60,000-80,000.
+
+**Q: Can a pipe layer immigrate to the US for work?**
+A: Very difficult. This occupation typically does not meet high-skilled immigration criteria and is generally only available through H-2B temporary work visas with tight quotas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Pipelayers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pipelayers?**
-答：The median annual wage for pipelayers in the U.S. is around $47,000, with entry-level at $35,000 and experienced up to $80,000.
-
-**问：Can pipelayers immigrate to the U.S. through skill-based visas?**
-答：Very difficult. This occupation typically does not meet high-skill criteria; only H-2B temporary visa may apply, with tight quotas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

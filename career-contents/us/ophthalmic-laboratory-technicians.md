@@ -1,60 +1,96 @@
-# Ophthalmic Laboratory Technicians（Ophthalmic Laboratory Technicians）职业分析 · 美国
+# Ophthalmic Laboratory Technicians — career analysis · United States
 
-**职业代码：51-9083 – Ophthalmic Laboratory Technicians。**
+**Occupation code: 51-9083 (SOC)**
 
-Cut, grind, and polish eyeglasses, contact lenses, or other precision optical elements. Assemble and mount lenses into frames or process other optical elements. Excludes dispensing opticians.
+Cutting, grinding, and polishing eyeglasses, contact lenses, or other precision optical components; assembling lenses into frames or processing other optical elements, including precision lens polishing, centering, edging machines, and lens assembly workers
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常要求高中毕业） |
-| 在职培训 | 1-2年 | —（雇主提供培训，无需额外学费） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually requires high school graduation) |
+| On-the-job training | 1-2 years | $0~$2,000 (Employer provides training, no additional tuition costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国光学协会认证（可选） | 美国光学协会 | 可选 | 非强制，但有助于就业 |
-| 雇主认证 | 雇主 | 必备 | 部分雇主要求内部技能考核 |
+| employer sponsorship | Employer | Required | Some employers require internal skills assessment |
+| American Optical Society certification (optional) | Optical Society of America | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。美国就业增长预计稳定，受老龄化人口对视力矫正需求增加驱动，但自动化可能限制增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. US employment growth is expected to be stable, driven by demand for vision correction from an aging population, but automation may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级岗位 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验技师 |
-| 高级（7年以上） | $45,000~$55,000 | 高级技师或主管 |
+| Median salary | $39,460 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level roles |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced technician |
+| Senior (7+ years) | $45,000~$55,000 | Senior technician or supervisor |
+| average salary | $43,190 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级技师逐步晋升为高级技师、主管或质量检验员，也可转向验光或光学设备销售。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Ophthalmic laboratory technician's repetitive manual tasks (e.g., cutting, grinding, polishing optical components) are easily automated, but customized lens processing from growing demand for optometrists still supports some positions.
+
+Progress from junior technician to senior technician, supervisor, or quality inspector, or transition to optometry or optical equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Automatic edging machines replace manual cutting and grinding of lenses
+- AI visual inspection system replaces manual quality inspection
+- Robots automatically polish lenses, reducing manual polishing.
+- CAD/CAM systems directly generate lens processing paths, eliminating manual marking
+- Automated assembly line for mounting lenses into frames
+
+**Where AI augments the role:**
+
+- AI-assisted design of personalized lens curves to improve customization efficiency
+- Digital twin simulates polishing process to optimize process parameters
+- Auto-focus system helps quickly locate lens center
+- Augmented reality (AR) guides assembly steps, reducing errors
+- Real-time sensor monitoring of equipment status to prevent failures.
+
+**Human moat:**
+
+- Processing high-precision, complex curved non-standard lenses still relies on technician feel
+- Collaborate with optometrists to understand patients' special needs and adjust processing parameters
+- Equipment maintenance and troubleshooting require experience-based judgment
+- Fine polishing of small-batch, high-value lenses.
+- On-site problem-solving skills, e.g., frame fitting adjustments
+
+**Skills to build:**
+
+- CNC grinding programming and operation
+- 3D printed lens repair and rapid prototyping
+- Basic Python or C# for equipment automation scripts
+- Quality management certification (e.g., ASQ)
+- Use of augmented reality (AR) assisted assembly systems
+- Digital management of supply chain and inventory
+
+**Key growth areas:**
 
 - Aging population
 - Vision care demand
@@ -63,62 +99,64 @@ Cut, grind, and polish eyeglasses, contact lenses, or other precision optical el
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位 |
-| Subclass EB-3（Employment-Based Immigration: Third Preference (EB-3)） | 可能适用于有经验的技师，但雇主赞助困难 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | May be applicable for experienced technicians, but employer sponsorship is difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ophthalmic Laboratory Technicians？**
-- 喜欢动手操作和精密工作的人
-- 注重细节和耐心的人
-- 寻求稳定蓝领工作的人
+**Who is suited**
+- People who enjoy hands-on and precision work
+- Detail-oriented and patient people
+- People seeking stable blue-collar work
 
-**谁不适合学Ophthalmic Laboratory Technicians？**
-- 不喜欢重复性工作的人
-- 寻求高收入和快速晋升的人
+**Who is not suited**
+- People who dislike repetitive work
+- People seeking high income and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for this occupation?**
+A: Annual salary typically ranges from USD 28,000 to 55,000, depending on experience and location.
+
+**Q: Is there a pathway for skilled migration to the US for this occupation?**
+A: Very limited, as a bachelor's degree is usually not required, making it hard to meet H-1B requirements. EB-3 green card may apply but employer sponsorship is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ophthalmic Laboratory Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Annual salary typically ranges from $28,000 to $55,000, depending on experience and location.
-
-**问：Are there migration pathways to the US for this occupation?**
-答：Very limited, as it typically does not require a bachelor's degree for H-1B. EB-3 green card may apply but employer sponsorship is difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Software Analysts and Designers（Software Analysts and Designers）职业分析 · ES
+# Software Analysts and Designers — career analysis · Spain
 
-**职业代码：2712 – Software Analysts and Designers。**
+**Occupation code: 2712 (CNO)**
 
-Software analysts and designers analyze user needs, design software architecture and system solutions, and coordinate development teams to deliver high-quality software products.
+Software analysts and designers are responsible for analyzing user needs, designing software architectures and system solutions, and coordinating development teams to deliver high-quality software products.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学学费，私立更高） |
-| FP高级（Grado Superior） | 2年 | $500~$2,000（公立FP学费） |
-| 硕士（Máster） | 1年 | $2,000~$8,000（含专业方向，如软件开发或数据科学） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public university tuition; private is higher) |
+| FP Advanced (Grado Superior) | 2 years | $500~$2,000 (Public FP tuition) |
+| Máster | 1 year | $2,000~$8,000 (Including specialized areas such as software development or data science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学士学位 | 西班牙大学 | 可选 | 普遍要求 |
-| 软件工程认证（如ISTQB） | 国际软件测试资格委员会 | 可选 | 非强制，但增加竞争力 |
-| 学位认证（Homologación） | 西班牙教育部 | 必备 | 外籍学位需认证 |
+| Degree Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees must be certified |
+| Bachelor's degree in Computer Science or a related field | Spanish University | Optional | Commonly required |
+| Software engineering certification (such as ISTQB) | International Software Testing Qualifications Board (ISTQB). | Optional | Not mandatory, but adds competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 45,000。西班牙数字化转型加速，企业对软件分析师与设计师需求旺盛。预计2023-2027年岗位增长15%，尤其在金融科技、电子商务和公共数字化领域。
+**Job demand: very high (★★★★½).** National workforce approx. 45,000. Spain's digital transformation is accelerating, and companies are in high demand for software analysts and designers. Job growth is expected to reach 15% from 2023 to 2027, especially in fintech, e-commerce, and public digitalization.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪 |
-| 中级（3-6年） | $35,000~$50,000 | 税前年薪 |
-| 高级（6年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (6+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可晋升为高级分析师、架构师或项目经理；也可转向数据科学、人工智能或网络安全等方向，具备多语言能力者更有竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Junior level can be promoted to senior analyst, architect, or project manager; They can also shift to areas such as data science, artificial intelligence, or cybersecurity, where those with multilingual abilities are more competitive.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Fintech
@@ -63,68 +99,67 @@ Software analysts and designers analyze user needs, design software architecture
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 高技能人才，需工作合同且薪资达门槛（约33,908欧元/年） |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高学历专业人士，流程较快 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 普通工作居留，需雇主担保 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Highly skilled talents requiring a work contract and salary meeting the threshold (approximately €33,908/year) |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated professionals, with a relatively fast process |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary work residence requires employer sponsorship |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Analysts and Designers？**
-- 喜欢逻辑分析与问题解决、有耐心、注重细节的人
-- 具备团队协作精神，愿意持续学习新技术的人
-- 有编程基础且对软件开发生命周期感兴趣的人
-
-**谁不适合学Software Analysts and Designers？**
-- 不喜欢长时间面对屏幕和编码工作的人
-- 抗拒频繁学习新框架或语言的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- They enjoy logical analysis and problem-solving, are patient, and pay attention to detail
+- Individuals with a strong team spirit who are willing to continuously learn new technologies
+- Someone with a programming background and an interest in the software development lifecycle
+
+**Who is not suited**
+- People who don't like spending long hours in front of screens and coding jobs
+- People who resist frequently learning new frameworks or languages
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for software analysts and designers in Spain?**
+A: Entry-level is about 25,000-35,000 euros per year, intermediate is 35,000-50,000 euros, and senior can reach up to 70,000 euros per year. Madrid and Barcelona offer higher salaries.
+
+**Q: How can foreign software analysts immigrate to Spain?**
+A: Applications can be made through the EU Blue Card (requiring a work contract and a qualified salary) or the Highly Skilled Professional Visa (Ley 14/2013). Degree authentication (homologación) is required.
+
+**Q: What are the future career directions for this career?**
+A: You can be promoted to software architect, technical manager, or move into fields such as data science, artificial intelligence, or cybersecurity.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Software Analysts and Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for software analysts and designers in Spain?**
-答：Entry-level: €25,000-€35,000/year; mid-level: €35,000-€50,000/year; senior: up to €70,000/year or more. Higher in Madrid and Barcelona.
-
-**问：How can a foreign software analyst immigrate to Spain?**
-答：Via EU Blue Card (job contract and salary threshold) or Highly Qualified Professional visa (Ley 14/2013). Requires degree homologation.
-
-**问：What are the career development directions for this occupation?**
-答：Can advance to software architect, technical manager, or pivot to data science, AI, cybersecurity, etc.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

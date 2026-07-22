@@ -1,60 +1,96 @@
-# Mixed Crop and Animal Farmer（Mixed Crop and Animal Farmer）职业分析 · FR
+# Mixed Crop and Animal Farmer — career analysis · France
 
-**职业代码：A1416 – Mixed Crop and Animal Farmer。**
+**Occupation code: A1416 (ROME)**
 
-Operates a diversified farm combining crop cultivation and livestock breeding, managing production, reproduction, feeding, and marketing to ensure sustainable and profitable operations.
+Responsible for operating diversified farms that combine crop cultivation and livestock breeding, managing production, breeding, feeding, and marketing to ensure sustainable operations and economic efficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 农业职业教育文凭（CAP/BEP） | 2年 | —（公立学校免费，学徒制有工资） |
-| 农业高级技师文凭（BTSA） | 2年（BTS） | —（公立学校免费，私立约2000欧元/年） |
-| 农业工程师或 Licence Pro | 3-5年 | —（公立大学学费低，工程师学校约5000欧元/年） |
+| Diploma in Agricultural Vocational Education (CAP/BEP) | 2 years | $0~$1,000 (Public schools are free, and apprenticeships are paid) |
+| Advanced Diploma in Agricultural Technician (BTSA) | 2 Years (BTS) | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
+| Agricultural Engineer or Licence Pro | 3-5 years | $0~$5,000 (Public universities have low tuition, with engineering schools costing about 5,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业能力证书（CAPA） | 法国教育部 | 可选 | 基础从业资格，非强制但普遍要求 |
-| 农业经营者文凭（BP REA） | 法国农业部 | 必备 | 开办或接管农场必备，强制要求 |
-| 欧盟共同农业政策（PAC）合规知识 | 非正式 | 可选 | 申请欧盟补贴需了解相关法规 |
+| Diploma of Agricultural Managers (BP REA) | French Ministry of Agriculture | Required | Essential for starting or taking over a farm, mandatory requirement |
+| Certificate of Agricultural Competence (CAPA) | French Ministry of Education | Optional | Basic professional qualifications, not mandatory but generally required |
+| EU Common Agricultural Policy (PAC) compliance knowledge | Informal | Optional | To apply for EU subsidies, you need to understand the relevant regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。法国农业面临人口老龄化和接班人短缺，但有机农业和短供应链需求上升。职位稳定性高，但收入受天气和欧盟补贴政策影响。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. French agriculture faces an aging population and a shortage of successors, but demand for organic farming and short supply chains is rising. Job stability is high, but income is affected by weather and EU subsidy policies.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪，含农业补贴 |
-| 中级（3-10年） | $25,000~$40,000 | 视农场规模和盈利情况 |
-| 高级（10年以上/农场主） | $35,000~$60,000 | 自有农场主收入波动大 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Pre-tax annual salary, including agricultural subsidies |
+| Intermediate (3-10 years) | $25,000~$40,000 | Depending on the farm's size and profitability |
+| Senior (over 10 years / Farm owner) | $35,000~$60,000 | Income for owner-owned farmers fluctuates greatly |
+| average salary | $30,520 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从农业学徒或工人起步，晋升为农场经理或独立农场主。可转向农业咨询、合作社管理或农业技术推广。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of mixed farming operators is mixed: automation and AI will significantly optimize daily operations in planting and breeding, but decision-making coordination, animal welfare, and ecological management are difficult to replace, requiring proactive adoption of digital tools.
+
+Typically, they start as agricultural apprentices or workers and are promoted to farm managers or independent farm owners. You can switch to agricultural consulting, cooperative management, or agricultural technology promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding, milking, and cleaning systems take over routine livestock management
+- GPS- and drone-guided automatic seeding, fertilization, and harvesting
+- Monitoring crop health and growth using IoT and computer vision
+- Algorithm optimization of feed formulation and nutrition calculation
+- Sales forecasting and inventory management automation
+
+**Where AI augments the role:**
+
+- The AI precision agriculture platform provides real-time decision support for irrigation and fertilization
+- Animal health early warning and disease prediction based on sensor data
+- Market data analysis guides variety selection and crop rotation planning
+- Blockchain traceability systems enhance product authentication and brand value
+- Digital twin simulates farm ecology and economic performance
+
+**Human moat:**
+
+- On-site judgment to respond to complex climates and emergencies
+- Ability to observe animal behavior and provide emotional care
+- Long-term planning for overall ecosystem balance
+- Trust relationships with communities, dealers, and certification bodies
+- Intuitive decision-making that combines traditional experience with innovative technology
+
+**Skills to build:**
+
+- Operation of precision agriculture tools (such as intelligent irrigation and drone inspections).
+- Use of agricultural data analysis and decision support systems
+- Knowledge of sustainable agriculture and regenerative practices
+- Basic programming (such as Python) and IoT device management
+- Digital marketing and farm brand building
+- Knowledge related to agricultural regulations and carbon accounting
+
+**Key growth areas:**
 
 - Organic farming
 - Short supply chain
@@ -63,68 +99,67 @@ Operates a diversified farm combining crop cultivation and livestock breeding, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能农业人才或创办农业企业，需提供项目计划，有效期4年 |
-| Subclass Salarié（Salaried Employee Visa） | 受雇于法国农场或农业企业，需获得工作许可，有效期1年可续 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历且薪酬达1.5倍平均工资的农业经理，但农业薪资通常偏低 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled agricultural talent or starting an agricultural enterprise, requiring a project plan, valid for 4 years |
+| Subclass Salarié (Salaried Employee Visa) | Employment with French farms or agricultural enterprises requires a work permit, valid for one year |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated agricultural managers with salaries up to 1.5 times the average salary, but agricultural salaries are usually low |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mixed Crop and Animal Farmer？**
-- 热爱户外体力劳动，适应农场作息和季节变化
-- 具备基础商业意识，乐于学习农业技术和补贴政策
-- 希望在法国乡村长期定居，接受收入波动
-
-**谁不适合学Mixed Crop and Animal Farmer？**
-- 偏好城市生活和固定工作时间者
-- 对体力劳动和不确定性风险（天气、市场）耐受度低者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor physical labor, adapting to farm routines and seasonal changes
+- Possess basic business awareness, enjoy learning agricultural technology and subsidy policies
+- Those who hope to settle long-term in rural France and accept income fluctuations
+
+**Who is not suited**
+- Those who prefer city life and fixed working hours.
+- Those with low tolerance for physical labor and uncertain risks (weather, market).
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for mixed farming operators?**
+A: Junior annual salary approx. €18k-25k, intermediate €25k-40k, farm owner income varies widely, median around €30k.
+
+**Q: How can non-EU foreigners immigrate to France to engage in mixed farming and animal husbandry operations?**
+A: May apply for the Talent Passport (Passeport Talent) to start or take over a farm, or obtain a work permit through employment. Requires a BP REA diploma or equivalent, and French proficiency is important.
+
+**Q: What career development paths are available for mixed farming and pastoral operators?**
+A: You can start as an agricultural worker or apprentice, advance to farm manager, and eventually become an independent farm owner. You can also turn to agricultural technology consultants, cooperative managers, or trainers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mixed Crop and Animal Farmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mixed crop and animal farmer?**
-答：Entry-level annual salary is about €18,000-25,000, mid-level €25,000-40,000, and farm owners' income varies widely with a median around €30,000.
-
-**问：How can a non-EU foreigner immigrate to France for mixed farming?**
-答：Apply for a Talent Passport to create or take over a farm, or obtain a salaried visa. A BP REA diploma or equivalent is required, and French language skills are important.
-
-**问：What career paths are available for mixed farmers?**
-答：Start as a farm worker or apprentice, progress to farm manager, and eventually become an independent farmer. Alternatively, move into agricultural consulting, cooperative management, or training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

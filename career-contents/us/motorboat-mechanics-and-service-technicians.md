@@ -1,60 +1,96 @@
-# Motorboat Mechanics and Service Technicians（Motorboat Mechanics and Service Technicians）职业分析 · 美国
+# Motorboat Mechanics and Service Technicians — career analysis · United States
 
-**职业代码：49-3051 – Motorboat Mechanics and Service Technicians。**
+**Occupation code: 49-3051 (SOC)**
 
-Repair and adjust electrical and mechanical equipment of inboard or inboard-outboard boat engines to ensure safe operation.
+Responsible for troubleshooting and repairing electrical and mechanical equipment of inboard or stern drive engines, ensuring safe operation of the vessel's propulsion system.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常需高中或同等学历） |
-| 在职培训 | 1-2年 | —（学徒或技校短期课程） |
+| High school diploma | 0 years | $0~$0 (Usually requires high school diploma or equivalent) |
+| On-the-job training | 1-2 years | $0~$5,000 (Short course at an apprenticeship or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托艇技师认证 | 美国船舶制造商协会 (NMMA) | 可选 | 可提升就业竞争力 |
-| EPA 609认证 | 美国环境保护署 (EPA) | 必备 | 操作制冷剂所需 |
+| EPA 609 certification | U.S. Environmental Protection Agency (EPA) | Required | Required for handling refrigerants |
+| Motorboat mechanic certification | National Marine Manufacturers Association (NMMA) | Optional | Can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 21,000。美国休闲船艇市场稳定，沿海地区需求持续；但行业规模较小，就业增长相对缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 21,000. The US recreational boat market is stable with sustained demand in coastal areas; however, the industry is small, and employment growth is relatively slow.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 包含学徒期间 |
-| 中级（3-6年） | $42,000~$55,000 | 有经验且持有认证 |
-| 高级（6年以上） | $55,000~$70,000 | 含主管或技师 |
+| Median salary | $57,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Includes apprenticeship period |
+| Mid-level (3–6 years) | $42,000~$55,000 | Experienced and certified |
+| Senior (6+ years) | $55,000~$70,000 | Including supervisor or technician |
+| average salary | $58,070 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级技工晋升为高级技师、服务经理或开设独立修理厂，需持续学习电子诊断和新型动力系统技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on motorboat mechanics is mixed: diagnosis and troubleshooting will be enhanced by AI tools, but actual repair work still heavily relies on humans. Automation risk for routine maintenance tasks is moderate, while problem-solving skills for complex issues become a key moat.
+
+Can advance from junior technician to senior technician, service manager, or open an independent repair shop, requiring continuous learning in electronic diagnostics and new powertrain technologies.
+
+**Tasks most exposed to AI:**
+
+- Using diagnostic equipment for standardized fault code reading and preliminary analysis
+- Perform routine maintenance according to preset procedures (e.g., oil change, filter replacement)
+- Read and interpret engine performance data reports
+- Use voice or text interface to query repair manuals.
+- generating maintenance records and reports
+
+**Where AI augments the role:**
+
+- Quickly locate complex electrical faults using AI-assisted diagnostic systems
+- Use AR glasses to overlay repair steps and diagrams for maintenance
+- Use predictive analysis tools to identify potential faults early
+- Using natural language to query knowledge bases for solutions to difficult problems.
+- Receive real-time guidance via remote expert systems
+
+**Human moat:**
+
+- Performing fine manual operations and replacing parts within the confined space of an aircraft cabin.
+- Handle customization issues for non-standard, old, or modified boats
+- Combine auditory, tactile, and olfactory senses for intuitive fault diagnosis.
+- Repair based on experience in urgent on-site situations without electronic documents
+- Communicate with boat owners, explain technical issues, and provide personalized advice
+
+**Skills to build:**
+
+- Proficient in using AI diagnostic software and data analysis tools
+- Master hybrid and electric propulsion system maintenance
+- Learn to operate augmented reality (AR) maintenance assistance systems
+- Enhance troubleshooting abilities for complex electrical and electronic systems.
+- Familiarity with IoT sensor deployment and basic data analysis
+- Proficiency in digital work orders and cloud collaboration tools
+
+**Key growth areas:**
 
 - Marine Technology
 - Engine Diagnostics
@@ -63,65 +99,67 @@ Repair and adjust electrical and mechanical equipment of inboard or inboard-outb
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位职位，但此职业通常不满足专业职位要求 |
-| Subclass EB-3（Employment-Based Third Preference） | 需PERM劳工证，但雇主倾向本地招聘 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree, but this occupation usually does not meet professional position requirements |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, but employers prefer local hiring |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Motorboat Mechanics and Service Technicians？**
-- 喜欢动手修理机械
-- 热爱船舶或水上运动
-- 愿意在沿海地区工作
+**Who is suited**
+- Enjoys hands-on mechanical repair
+- Passion for ships or water sports.
+- Willing to work in coastal areas
 
-**谁不适合学Motorboat Mechanics and Service Technicians？**
-- 不擅长电气诊断
-- 反感户外或车间工作
+**Who is not suited**
+- Not skilled in electrical diagnostics
+- Dislikes outdoor or workshop work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for motorboat mechanics?**
+A: Entry-level approx. USD 32,000–42,000; senior up to USD 55,000–70,000; experienced professionals earn higher.
+
+**Q: Is it easy for this occupation to immigrate to the U.S. via H-1B?**
+A: Very difficult, as this occupation typically does not require a bachelor's degree and employers rarely support H-1B or green card applications.
+
+**Q: What education or training is required?**
+A: Usually high school diploma, through on-the-job apprenticeship or technical school courses for 1-2 years, holding EPA 609 certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Motorboat Mechanics and Service Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a motorboat mechanic?**
-答：Entry-level salaries range from $32,000 to $42,000, while experienced mechanics earn $55,000 to $70,000.
-
-**问：Is it easy to immigrate to the US as a motorboat mechanic via H-1B?**
-答：Very difficult, as the occupation typically does not require a bachelor's degree and employers rarely sponsor H-1B or green cards.
-
-**问：What education or training is required?**
-答：High school diploma, on-the-job training or vocational courses for 1-2 years, and EPA 609 certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

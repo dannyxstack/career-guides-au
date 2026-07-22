@@ -1,58 +1,94 @@
-# Database Architects（Database Architects）职业分析 · 美国
+# Database Architects — career analysis · United States
 
-**职业代码：15-1243 – Database Architects。**
+**Occupation code: 15-1243 (SOC)**
 
-Design strategies for enterprise databases, data warehouse systems, and multidimensional networks. Set standards for database operations, programming, queries, and security. Model and construct large relational databases or data warehouses.
+Responsible for designing enterprise databases, data warehouses, and multidimensional network strategies, establishing database operations, programming, query, and security standards, building and optimizing large relational databases or data warehouses.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学约4万，私立大学约12万USD/年） |
-| 硕士学位 | 2年 | $30,000~$80,000（学费每年约3-8万USD） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities: approx. $40,000; private universities: approx. $120,000 USD/year) |
+| Master's degree | 2 years | $30,000~$80,000 (Tuition about $30,000-$80,000 USD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学士学位 | 大学 | 必备 | 通常要求 |
-| 数据库认证 | Oracle/Microsoft/AWS | 可选 | 如Oracle Certified Master, Microsoft MCSE: Data Management and Analytics |
+| Bachelor's degree in computer science or related field | University | Required | Usually required |
+| Database certification | Oracle/Microsoft/AWS | Optional | Such as Oracle Certified Master, Microsoft MCSE: Data Management and Analytics |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 60,000。预计2023-2033年就业增长约9%，快于平均水平。数据驱动决策需求持续推动岗位增长，云计算和大数据技术发展带来新机遇。
+**Job demand: very high (★★★★½).** National workforce approx. 60,000. Projected employment growth of about 9% from 2023-2033, faster than average. Data-driven decision-making continues to drive job growth, with cloud computing and big data technologies creating new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 入门级薪资 |
-| 中级（3-7年） | $110,000~$150,000 | 中位薪资 |
-| 高级（7年以上） | $150,000~$200,000 | 高级职位薪资 |
+| Median salary | $139,500 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$110,000 | Entry-level salary |
+| Mid-level (3–7 years) | $110,000~$150,000 | Median salary |
+| Senior (7+ years) | $150,000~$200,000 | Senior-level salary |
+| average salary | $144,440 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从数据库管理员或数据工程师晋升为高级架构师或数据平台负责人，积累经验后可转型为首席数据官或技术总监。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Can progress from database administrator or data engineer to senior architect or data platform lead; after gaining experience can transition to chief data officer or technical director.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Cloud Computing
 - Big Data
@@ -61,68 +97,67 @@ Design strategies for enterprise databases, data warehouse systems, and multidim
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需学士学位，每年配额限制 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士或本科+5年经验，通常需PERM |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 需学士学位，流程类似EB-2但排期更长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires bachelor's degree, annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's + 5 years experience, typically needs PERM |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Requires a bachelor's degree; process similar to EB-2 but with longer waiting times |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Database Architects？**
-- 对数据建模和数据库设计有浓厚兴趣的人
-- 具备逻辑思维和问题解决能力的人
-- 愿意持续学习新技术的人
-
-**谁不适合学Database Architects？**
-- 不喜欢处理复杂数据关系的人
-- 对细节和精确性要求不高的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a strong interest in data modeling and database design
+- Those with logical thinking and problem-solving skills
+- People willing to continuously learn new technologies.
+
+**Who is not suited**
+- Dislikes handling complex data relationships
+- People who are not highly detail-oriented or precise
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a database architect?**
+A: US database architect median annual salary approx. $130,000, junior $80,000-110,000, senior $150,000-200,000.
+
+**Q: What are the main routes for a Database Architect to immigrate to the US?**
+A: Common pathways include H-1B work visa (subject to lottery) and EB-2/EB-3 employment-based green cards (requiring employer sponsorship and PERM).
+
+**Q: What is the career development outlook for a database architect?**
+A: Rapid job growth, can advance to data platform lead or chief data officer; big data and cloud computing skills will enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Database Architects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Database Architect?**
-答：The median annual salary for Database Architects in the US is around $130,000, with entry-level at $80,000-$110,000 and senior up to $200,000.
-
-**问：What are the main immigration pathways for Database Architects to the US?**
-答：Common pathways include H-1B visa (lottery-based) and EB-2/EB-3 employment-based green cards (requiring employer sponsorship and PERM).
-
-**问：What is the career growth outlook for Database Architects?**
-答：Fast-growing occupation, can advance to data platform lead or Chief Data Officer; big data and cloud skills enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

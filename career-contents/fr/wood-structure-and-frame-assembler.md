@@ -1,62 +1,95 @@
-# Wood Structure and Frame Assembler（Wood Structure and Frame Assembler）职业分析 · FR
+# Wood Structure and Frame Assembler — career analysis · France
 
-**职业代码：F1501 – Wood Structure and Frame Assembler。**
+**Occupation code: F1501 (ROME)**
 
-Assembles and installs wooden frames, roof trusses, and structural components on construction sites, using power tools and lifting equipment to ensure stability per blueprints.
+Responsible for on-site assembly and installation of wooden components such as wooden houses, frames, and roof trusses, using power tools and lifting equipment to ensure structural stability and compliance with drawing specifications.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 木工 | 2年（CAP Menuisier） | —（公立学徒培训中心免费，注册费约€200；私立年费约€1500） |
-| BP 木工 | 2年（BP Menuisier） | —（多数通过学徒制，免费） |
-| BTS 木结构与建造 | 2年（BTS Charpente-Couverture） | —（公立大学免学费，注册费约€300/年；私立年费€3000） |
+| CAP Woodworking | 2 years (CAP Menuisier) | $0~$1,500 (Public apprenticeship training centers are free, with registration fees of about €200; private ones pay about €1,500 per year) |
+| BP Woodworking | 2 years (BP Menuisier) | $0~$1,500 (Most are apprenticeships, which are free) |
+| BTS Timber Structure and Construction | 2 years (BTS Charpente-Couverture) | $0~$3,000 (Public universities offer tuition-free tuition, with registration fees about €300 per year; Private annual fee is €3000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 木工 | 法国教育部 | 必备 | 国家文凭，必备基础资格 |
-| 高空作业认证 | INRS / CNAM | 必备 | 必须持有，有效期5年 |
-| CACES 起重设备操作证 | CNAM | 可选 | 操作叉车/起重机需持证 |
+| CAP Woodworking | French Ministry of Education | Required | A national diploma is a mandatory foundational qualification |
+| Aerial work certification | INRS / CNAM | Required | Must be held, valid for 5 years |
+| CACES Lifting Equipment Operation Certificate | CNAM | Optional | Operating forklifts/cranes requires certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。法国推动绿色建筑和木结构住宅，木结构安装需求增长。2023-2025年预计岗位增加约10%，尤其在生态区和自然灾害重建区域。但受经济周期影响，就业机会地区差异大。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. France promotes green buildings and timber housing, with growing demand for timber installations. From 2023 to 2025, the number of jobs is expected to increase by about 10%, especially in ecological zones and disaster reconstruction areas. However, due to economic cycles, job opportunities vary greatly by region.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | 按SMIC起步，含加班可达€24k |
-| 中级（4-7年） | $26,000~$30,000 | 有经验后薪资提升快 |
-| 高级（8年以上） | $32,000~$38,000 | 团队主管或熟练技师 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | Starting at SMIC, including overtime, you can reach €24k |
+| Mid-level (4-7 years) | $26,000~$30,000 | With experience, salaries increase quickly |
+| Senior (8+ years) | $32,000~$38,000 | Team leader or skilled technician |
+| average salary | $25,284 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从学徒或CAP起步，逐步晋升为团队负责人或项目主管。积累经验后可转向木结构工程计算或质量控制，或自主创业承接分包项目。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Due to the significant impact of AI and automation, conventional timber structure installation tasks are easily replaced, but on-site adaptability and high-precision operations still require humans, causing overall job shortages.
+
+You can start as an apprentice or CAP, and gradually advance to team leader or project supervisor. After accumulating experience, they can shift to timber engineering calculations or quality control, or start their own business to undertake subcontracted projects.
+
+**Tasks most exposed to AI:**
+
+- BIM software is used to automatically generate installation drawings and material lists, replacing manual drawing reading
+- Drones automatically measure and scan roof trusses, replacing manual climbing surveys
+- AI optimizes lifting and hoisting schemes, automatically calculates safety parameters, and reduces manual calculations
+- AR glasses provide real-time installation instructions, replacing paper manuals and technician guidance
+
+**Where AI augments the role:**
+
+- AI-Assisted Quality Inspection: Uses computer vision to automatically detect wood defects and installation deviations
+- Automated tools (such as automatic saws and CNC assembly machines) improve cutting and pre-assembly efficiency
+- Digital twin simulates installation sequences, optimizing construction processes and reducing rework rates
+- Remote expert systems use AR to guide complex node installations, improving the success rate on the first attempt
+
+**Human moat:**
+
+- Flexible adaptability to unforeseen changes on construction sites
+- Intuitive experience and tactile feel regarding wood characteristics (moisture content, stress, etc.).
+- Safety awareness and emergency response capabilities for working at heights
+- Interpersonal skills for coordinating and communicating with clients, designers, and other job types
+
+**Skills to build:**
+
+- Operation of BIM software (e.g., Revit, Tekla)
+- AR/VR-assisted construction equipment is used
+- Drone mapping and point cloud data processing
+- Collaborative robot (cobot) operation and maintenance
+- Intelligent measurement tools (such as laser scanning and infrared detection)
+- Basic data analysis and digital project management
+
+**Key growth areas:**
 
 - Green building
 - Eco-construction
@@ -65,65 +98,67 @@ Assembles and installs wooden frames, roof trusses, and structural components on
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 由雇主担保的工作居留，需证明法国本地无合适人选 |
-| Subclass Passeport Talent（Talent Passport） | 若年薪达€36,500以上可申请，但木工通常难达标 |
+| Subclass Salarié (Employee Work Permit) | For employer-sponsored work residence, it must prove that there is no suitable candidate locally in France |
+| Subclass Passeport Talent (Talent Passport) | If your annual salary exceeds €36,500, you can apply, but carpentry usually finds it difficult to meet the requirements |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wood Structure and Frame Assembler？**
-- 喜欢户外体力劳动、动手能力强的人
-- 追求实用技能、不愿长期坐办公室的人
-- 能适应高空作业和团队协作的人
+**Who is suited**
+- People who enjoy outdoor physical labor and are hands-on
+- People who pursue practical skills and are unwilling to sit in the office for long periods
+- People who can adapt to working at heights and collaborating in teams
 
-**谁不适合学Wood Structure and Frame Assembler？**
-- 对物理强度和高空环境不适应者
-- 追求高薪资、快晋升者
+**Who is not suited**
+- Those not adapted to physical strength and high-altitude environments
+- Those seeking high salaries and rapid promotions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for timber installers?**
+A: Beginner is about €21k-24k, intermediate €26k-30k, and advanced €32k-38k. Overtime pay can be increased by an additional 15-20%.
+
+**Q: Can foreign carpenters immigrate to France for work?**
+A: It is more difficult because the occupation is not highly skilled, and employers must prove they cannot recruit local workers. EU citizens can move freely. Non-EU individuals usually need an employer-sponsored Salarié visa, and the French language requirement is high.
+
+**Q: What are the career development prospects?**
+A: You can be promoted to site supervisor, project leader, or start your own business as a subcontractor. You can also switch to timber structure design or engineering calculations, which requires supplementing the BTS degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood Structure and Frame Assembler属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a wood structure assembler?**
-答：Entry level €21k-24k, mid-level €26k-30k, senior €32k-38k. Overtime can add 15-20%.
-
-**问：Can foreign wood structure assemblers immigrate to France?**
-答：Difficult, as the trade is not highly skilled. EU citizens have free movement. Non-EU need employer sponsorship for Salarié visa, with high French language requirement.
-
-**问：What is the career progression?**
-答：Promotion to site supervisor, project manager, or self-employed subcontractor. Can also move to timber design/engineering with additional BTS.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

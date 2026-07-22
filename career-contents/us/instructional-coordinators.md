@@ -1,59 +1,95 @@
-# Instructional Coordinators（Instructional Coordinators）职业分析 · 美国
+# Instructional Coordinators — career analysis · United States
 
-**职业代码：25-9031 – Instructional Coordinators。**
+**Occupation code: 25-9031 (SOC)**
 
-Instructional coordinators develop instructional material, coordinate educational content, and integrate technology into instruction to guide educators in curriculum development and teaching methods.
+Instructional coordinators develop teaching materials, coordinate educational content, integrate modern technology into teaching, and provide curriculum design and teaching guidance to teachers, including educational consultants and curriculum specialists.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士学位 | 2年 | $30,000~$60,000（公立大学学费较低，私立较高） |
-| 学士学位 | 4年 | $40,000~$120,000（本科教育相关专业） |
+| Master's degree | 2 years | $30,000~$60,000 (Public universities have lower tuition, private universities higher) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Bachelor's degree in education or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教学协调员执照（部分州要求） | 州教育委员会 | 必备 | 通常需要教学经验并通过考试 |
-| 教师执照 | 州教育委员会 | 可选 | 多数州要求先有教学执照 |
-| 硕士学位 | 大学 | 可选 | 课程与教学或教育领导专业 |
+| Instructional coordinator license (required in some states) | State Board of Education | Required | Usually requires teaching experience and passing exams |
+| Teaching license | State Board of Education | Optional | Most states require a teaching license first |
+| Master's degree | University | Optional | Curriculum and Instruction or Educational Leadership |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 179,000。美国教学协调员岗位预计2023-2033年增长约5%，与平均水平相当。随着教育技术发展和课程改革需求，K-12和高等教育领域需求稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 179,000. US teaching coordinator positions are projected to grow about 5% from 2023-2033, similar to the average. Demand remains stable in K-12 and higher education due to educational technology development and curriculum reform needs.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 基于BLS数据 |
-| 中级（4-7年） | $60,000~$80,000 | 中位薪资约69,000美元 |
-| 高级（8年以上） | $80,000~$105,000 | 高级职位或学区主管收入更高 |
+| Median salary | $77,440 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Based on BLS data |
+| Mid-level (4-7 years) | $60,000~$80,000 | Median salary approximately US$69,000 |
+| Senior (8+ years) | $80,000~$105,000 | Senior positions or district administrators earn more |
+| average salary | $80,920 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径通常从教师或教育专员起步，积累经验后可晋升为高级协调员、课程主管或教育项目经理，部分进入学区管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of teaching coordinator is mixed: AI can automate course material generation and data analysis, but also amplifies the value of personalized instructional design and teacher training guidance; core decision-making and human interaction remain irreplaceable.
+
+Career path typically starts as a teacher or education specialist, progresses to senior coordinator, curriculum supervisor, or education project manager; some move into district management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft syllabi and course materials
+- Analyze student performance data to identify learning patterns
+- Manage course updates and version control
+- Handle scheduling and records for teacher training
+- Maintenance and updating of standardized test item banks
+
+**Where AI augments the role:**
+
+- Using AI to analyze learning data and design differentiated instruction plans
+- Quickly assess the teaching suitability of new technologies using AI tools
+- Use natural language processing to optimize the match between course content and student comprehension.
+- Use intelligent tutoring systems to monitor teaching implementation and adjust in real-time
+- AI-based recommendation system providing personalized professional development paths for teachers
+
+**Human moat:**
+
+- Build trust and conduct in-depth communication with teachers and school administrators
+- Make complex judgments on education policies and teaching ethics
+- Design interdisciplinary creative courses and stimulate learning interest
+- Handling individualized plans for students with special educational needs
+- Making value trade-offs in controversial educational issues
+
+**Skills to build:**
+
+- Learn data analysis and visualization (Python, Tableau)
+- Master AI education tools (e.g., adaptive learning platforms)
+- Enhance skills in educational psychology and interpersonal communication
+- Study course design methodologies (e.g., UBD, backward design)
+- Developing project management and change leadership skills
+- Understanding education technology ethics and privacy regulations
+
+**Key growth areas:**
 
 - Education technology
 - Curriculum reform
@@ -62,68 +98,67 @@ Instructional coordinators develop instructional material, coordinate educationa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于持有硕士学位的教学协调员，需雇主担保，配额有限。 |
-| Subclass EB-2（EB-2 Advanced Degree Professionals） | 硕士学位及以上，需PERM劳工证，适合长期移民。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM申请职业移民绿卡，需证明无合格美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to teaching coordinators with a master's degree, requires employer sponsorship, quota limited. |
+| Subclass EB-2 (EB-2 Advanced Degree Professionals) | Master's degree or higher, requires PERM labor certification; suitable for long-term immigration. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Applying for an employment-based green card through PERM requires proving no qualified U.S. workers are available. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Instructional Coordinators？**
-- 喜欢教育课程设计，有教学经验者
-- 善于沟通和培训教师
-- 关注教育技术趋势
-
-**谁不适合学Instructional Coordinators？**
-- 不喜欢行政和协调工作
-- 缺乏耐心或教学经验
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those interested in educational curriculum design with teaching experience
+- Skilled in communication and training teachers
+- Stay updated on education technology trends
+
+**Who is not suited**
+- Dislike administrative and coordination work
+- Lacks patience or teaching experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an Instructional Coordinator?**
+A: According to BLS data, the 2023 median annual salary for instructional coordinators in the US was about $69,000, with entry-level around $45,000–$60,000 and senior positions reaching $105,000.
+
+**Q: Is it easy for instructional coordinators to apply for a US green card?**
+A: Instructional coordinators can apply for a green card through EB-2 or EB-3, requiring PERM labor certification. Due to stable demand in the education sector, but need employer support, overall difficulty is moderate.
+
+**Q: What is the career development path for a teaching coordinator?**
+A: Usually starts as a teacher or education specialist, advancing to senior coordinator, curriculum director, or even district education superintendent.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Instructional Coordinators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for instructional coordinators?**
-答：According to BLS data, the median annual salary for instructional coordinators in the US is about $69,000, with entry-level ranging $45,000-$60,000 and senior roles up to $105,000.
-
-**问：Is it easy for instructional coordinators to get a US green card?**
-答：Instructional coordinators can apply for green cards via EB-2 or EB-3 with PERM labor certification. Demand is stable, but employer sponsorship is required, making it moderately difficult.
-
-**问：What is the career progression for instructional coordinators?**
-答：Typically start as teachers or education specialists, then advance to senior coordinator, curriculum director, or district education superintendent.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

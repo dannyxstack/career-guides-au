@@ -1,61 +1,97 @@
-# Armed Forces Occupations, Other Ranks（Armed Forces Occupations, Other Ranks）职业分析 · IE
+# Armed Forces Occupations, Other Ranks — career analysis · Ireland
 
-**职业代码：0310 – Armed Forces Occupations, Other Ranks。**
+**Occupation code: 0310 (ISCO08)**
 
-Serve as soldiers, non-commissioned officers in the Irish Defence Forces, responsible for military operations and national security.
+Serve as soldiers, non-commissioned officers and other non-officer roles in the Irish Defence Forces, responsible for performing military duties and maintaining national security.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 不需要高等教育 | —（军队提供带薪培训） |
-| 军事训练 | 约6个月 | —（由政府资助） |
+| High school graduation | No higher education required. | $0~$0 (Military offers paid training) |
+| Military training | About 6 months | $0~$0 (Government-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰公民或居留身份 | 移民部 | 必备 | 通常要求爱尔兰或EEA国籍 |
-| 体检与体能测试 | 国防军 | 必备 | 通过医疗和体能评估 |
-| 背景调查 | 国防军 | 必备 | 无犯罪记录 |
+| Irish citizenship or residency status | Department of Home Affairs | Required | Usually requires Irish or EEA nationality |
+| Medical check and physical fitness test | Defence Forces | Required | Passing medical and fitness assessments |
+| Background check | Defence Forces | Required | No criminal record |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 7,500。爱尔兰武装部队规模稳定，招聘受国防预算和防务政策影响，长期需求平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 7,500. The Irish Armed Forces are stable in size; recruitment is influenced by defence budget and policy, with steady long-term demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 税前列兵工资 |
-| 中级（4-10年） | $35,000~$45,000 | 士官工资 |
-| 高级（10年以上） | $45,000~$55,000 | 高级士官或准尉 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Pre-tax base pay salary |
+| Mid-level (4-10 years). | $35,000~$45,000 | Non-commissioned officer salary |
+| Senior (10+ years) | $45,000~$55,000 | Senior Non-Commissioned Officer or Warrant Officer |
+| average salary | $40,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 晋升路径从列兵到准尉，需通过军事训练、考核和资历积累，军官晋升需更高教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI and automation on other ranks in the armed forces is mixed: backend administrative and intelligence analysis tasks face replacement risk, but core combat, leadership, and field decision-making tasks are difficult to automate, keeping the overall job structure stable.
+
+Promotion path from private to warrant officer requires military training, assessments, and seniority; officer promotion requires higher education.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted patrol and surveillance tasks, such as drones automatically identifying abnormal targets
+- Automated system operation for logistics supply and inventory management
+- Battlefield data sorting and basic intelligence report generation
+- AI scoring and feedback in standard training simulations.
+- Administrative document processing, such as scheduling and filing
+
+**Where AI augments the role:**
+
+- AI-enhanced situational awareness: integrates multi-sensor data to assist battlefield decision-making.
+- Intelligent training system providing personalised skill development paths
+- AI-assisted weapon targeting and fire coordination systems, improving hit rates
+- Predictive maintenance: AI analyses equipment condition to reduce failures
+- Real-time language translation and cultural exchange support in joint operations
+
+**Human moat:**
+
+- Intuitive judgment and adaptability in complex battlefield environments
+- Leadership and team cohesion, calming the troops in critical moments
+- Close-quarters combat and unarmed fighting skills
+- Ethical decision-making under high pressure, such as distinguishing civilians from combatants
+- Cross-cultural communication and trust building
+
+**Skills to build:**
+
+- AI and data analysis fundamentals, understanding algorithm logic and limitations
+- Drone operation and countermeasure technology
+- Basics of networking and electronic warfare.
+- Mental resilience and stress management training
+- Human-machine teaming practices
+- Basic programming and automation tool application (e.g., Python scripts)
+
+**Key growth areas:**
 
 - Stable
 - Defence
@@ -64,62 +100,64 @@ Serve as soldiers, non-commissioned officers in the Irish Defence Forces, respon
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 仅对非EEA公民开放，但武装部队岗位通常只招爱尔兰/EEA公民。此路径不适用。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不适用，武装部队不属紧缺技能列表。 |
+| Subclass General Employment P (General Employment Permit) | Open only to non-EEA citizens, but armed forces positions typically only recruit Irish/EEA citizens. This pathway is not applicable. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, armed forces are not on the skills shortage list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armed Forces Occupations, Other Ranks？**
-- 寻求稳定职业和军事生涯者
-- 身体健康、纪律性强的人
-- 愿意接受严格训练和纪律的人
+**Who is suited**
+- Those seeking stable careers and military roles
+- Physically fit and disciplined individuals
+- People willing to undergo rigorous training and discipline
 
-**谁不适合学Armed Forces Occupations, Other Ranks？**
-- 不愿服从严格命令和军事纪律者
-- 寻求高收入或灵活工作环境者
+**Who is not suited**
+- Those unwilling to follow strict orders and military discipline
+- Those seeking high income or flexible work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for other ranks in the Irish Defence Forces?**
+A: Entry-level about €30,000-35,000, mid to senior level up to €55,000.
+
+**Q: Can non-EEA citizens apply for the Irish Defence Forces?**
+A: Usually requires Irish or EEA nationality; non-EEA citizens find it difficult to enter via work permit pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Armed Forces Occupations, Other Ranks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Armed Forces Other Ranks in Ireland?**
-答：Entry-level around €30,000-€35,000, senior ranks up to €55,000.
-
-**问：Can non-EEA citizens apply for the Irish Armed Forces?**
-答：Typically requires Irish or EEA citizenship; non-EEA citizens face barriers.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

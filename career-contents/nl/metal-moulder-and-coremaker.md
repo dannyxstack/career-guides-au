@@ -1,58 +1,93 @@
-# Metal Moulder and Coremaker（Metal Moulder and Coremaker）职业分析 · NL
+# Metal Moulder and Coremaker — career analysis · Netherlands
 
-**职业代码：7211 – Metal Moulder and Coremaker。**
+**Occupation code: 7211 (ISCO08)**
 
-Metal moulders and coremakers create sand molds and cores for metal casting, essential in manufacturing.
+Metal moulders and coremakers are responsible for creating sand moulds and cores for metal casting, making them indispensable skilled trades in manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 4年（MBO 3级） | —（荷兰居民学费由政府资助，每年约200欧元；非欧盟学生费用更高。） |
-| 学徒制（BBL） | 3-4年 | —（学徒期间受薪，学费由雇主和学校分担。） |
+| Intermediate Vocational Education (MBO) | 4 years (MBO level 3) | $0~$2,000 (Tuition for Dutch residents is government-subsidised, around €200 per year; non-EU students pay higher fees.) |
+| Apprenticeship (BBL) | 3-4 years | $0~$500 (Apprentices receive a salary, and tuition is shared between the employer and school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO金属铸造技师文凭 | 荷兰职业院校（ROC） | 必备 | 完成4年MBO课程并获得资格认证 |
-| VCA安全证书 | VCA Foundation | 可选 | 基础安全证书，许多铸造厂要求持有 |
+| MBO Metal Casting Technician Diploma | Dutch vocational college (ROC) | Required | Complete a 4-year MBO course and obtain qualification |
+| VCA safety certificate | VCA Foundation | Optional | Basic safety certificate, required by many foundries. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。荷兰制造业，特别是机械工程和汽车零部件制造，对铸模工有稳定需求，但自动化可能影响就业增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Dutch manufacturing, particularly mechanical engineering and automotive parts, has stable demand for mould makers, but automation may impact employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常包含假期津贴。 |
-| 中级（3-7年） | $30,000~$38,000 | 熟练铸模工，可独立操作。 |
-| 高级（7年以上） | $38,000~$45,000 | 主管或特种铸造专家。 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, usually includes holiday allowance. |
+| Mid-level (3–7 years) | $30,000~$38,000 | Skilled mold maker, can operate independently. |
+| Senior (7+ years) | $38,000~$45,000 | Supervisor or specialist foundry worker. |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为熟练工，进而成为铸造主管或工艺工程师，部分人可开设小型铸造厂。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on metal mold makers and core makers is mixed: automation is gradually taking over mold design optimization and process monitoring, but core skills like manual mold making and quality control still rely on human experience; opportunities lie in AI-assisted efficiency and precision, but low-end jobs may decrease.
+
+Can progress from apprentice to skilled worker, then to foundry supervisor or process engineer; some may start small-scale foundries.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates mold design and gating system optimization plans
+- Real-time monitoring of sand mold quality and temperature via sensors and AI, automatic alarm
+- AI-driven robots complete automatic preparation of standard sand molds and cores
+- AI system automatically analyzes casting defects and adjusts process parameters
+
+**Where AI augments the role:**
+
+- AI-assisted design of complex molds, improving efficiency and reducing trial and error.
+- AI optimizes casting processes in real-time using data to improve yield rates
+- AI predicts mold wear and intelligently schedules maintenance cycles.
+- AI simulates the casting process to train new employees and reduce onboarding time
+- AI combined with wearable devices to enhance on-site safety monitoring
+
+**Human moat:**
+
+- Tactile experience and craft intuition for manual mould repair and adjustment
+- Fine manual skills for handling sand mold micro-defects
+- Ability to flexibly solve non-standard issues with complex castings
+- Cross-process Collaboration and Quick On-site Problem-solving Skills
+- Practical experience in learning and adapting to new materials
+
+**Skills to build:**
+
+- 3D Modeling and CAD/CAM Software Operation (e.g., SolidWorks)
+- Additive manufacturing (3D sand printing) technology
+- Basic programming and automated production line monitoring skills
+- Data analysis and AI tool application (e.g., Python)
+- Materials science knowledge (particularly new alloys and binders)
+- Safety production and digital twin system operation
+
+**Key growth areas:**
 
 - Manufacturing
 - Precision Casting
@@ -61,68 +96,67 @@ Metal moulders and coremakers create sand molds and cores for metal casting, ess
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于年薪达到门槛的技术工人，需雇主担保。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 允许在荷兰毕业的外国学生在1年内寻找工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，有最低薪资要求。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to skilled workers meeting the salary threshold, requiring employer sponsorship. |
+| Subclass Orientation Year (Zo (Orientation Year) | Allows international graduates who studied in the Netherlands to look for work within one year. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens with a minimum salary requirement. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Moulder and Coremaker？**
-- 喜欢动手操作、注重细节的人
-- 能承受高温、灰尘等铸造环境的人
-- 愿意通过学徒制学习技能的人
-
-**谁不适合学Metal Moulder and Coremaker？**
-- 对体力劳动和脏乱环境敏感的人
-- 不愿接受安全培训或遵守严格安全规程的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People who can tolerate high temperatures, dust, and other foundry environments
+- People willing to learn skills through an apprenticeship
+
+**Who is not suited**
+- Those sensitive to physical labour and dirty environments
+- People unwilling to undergo safety training or follow strict safety protocols
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal mold makers in the Netherlands?**
+A: Entry-level mold maker annual pre-tax salary approximately €24,000-30,000; intermediate to senior level can reach €38,000-45,000. Usually includes 8% holiday allowance.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as a moulder?**
+A: Eligible via the Highly Skilled Migrant (kennismigrant) visa, requiring employer sponsorship and meeting salary threshold; or complete a Dutch MBO course and apply for the Orientation Year visa.
+
+**Q: What are the career prospects for this occupation?**
+A: Mold makers can advance from operator positions to supervisors or process engineers, or transition to casting process design or quality control; new technologies like 3D printed sand molds bring new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Metal Moulder and Coremaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for metal moulders in the Netherlands?**
-答：Entry-level moulders earn €24,000-€30,000 gross annually, while experienced workers can earn €38,000-€45,000. Holiday allowance of 8% is typically included.
-
-**问：How can non-EU citizens immigrate to the Netherlands as a moulder?**
-答：Via the Highly Skilled Migrant (kennismigrant) visa with employer sponsorship and salary threshold, or by completing a Dutch MBO program and using the Orientation Year visa.
-
-**问：What are the career prospects for a metal moulder?**
-答：Moulders can advance to supervisor or process engineer, or move into casting design or quality control; new technologies like 3D-printed sand molds offer growth opportunities.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

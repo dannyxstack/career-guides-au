@@ -1,60 +1,94 @@
-# Makeup Artists, Theatrical and Performance（Makeup Artists, Theatrical and Performance）职业分析 · 美国
+# Makeup Artists, Theatrical and Performance — career analysis · United States
 
-**职业代码：39-5091 – Makeup Artists, Theatrical and Performance。**
+**Occupation code: 39-5091 (SOC)**
 
-Apply makeup to performers to reflect period, setting, and situation of their role.
+Apply makeup for stage, film, or television performers to reflect the era, environment, and context of their character.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 专业培训课程 | 6个月至2年 | $5,000~$20,000（私立美容学校或专门化妆学校费用） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院相关专业（如化妆艺术）） |
+| Professional training courses | 6 months to 2 years | $5,000~$20,000 (Costs for private beauty schools or specialized makeup schools) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college related majors (e.g., makeup artistry)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化妆师执照 | 各州美容委员会 | 必备 | 多数州要求持证执业，需完成培训并通过考试 |
-| 血源性病原体培训 | OSHA认证机构 | 必备 | 确保安全使用与清洁工具 |
+| Cosmetology license | State cosmetology boards | Required | Most states require licensure, completed training and exam |
+| Bloodborne pathogens training | OSHA-accredited organization | Required | Ensure safe use and cleaning of tools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 13,200。美国劳工统计局预计2023-2033年该职业就业增长约8%，与所有职业平均水平相当。电影与戏剧产业稳定需求，但岗位竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 13,200. The U.S. Bureau of Labor Statistics projects employment growth of about 8% from 2023 to 2033 for this occupation, about average. Stable demand from film and theater industries, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 入门级或助理化妆师 |
-| 中级（3-6年） | $45,000~$65,000 | 独立工作的化妆师 |
-| 高级（6年以上） | $65,000~$100,000 | 知名作品集或好莱坞项目 |
+| Median salary | $97,150 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Entry-level or assistant makeup artist |
+| Mid-level (3–6 years) | $45,000~$65,000 | Freelance makeup artist. |
+| Senior (6+ years) | $65,000~$100,000 | Notable portfolio or Hollywood projects |
+| average salary | $102,240 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从学徒或助理做起，积累经验后可晋升为首席化妆师或特效化妆师，部分人可走向好莱坞电影制作或高端舞台剧。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI’s impact on theatre and performance makeup artists is mixed: automation tools can handle basic tasks, but creativity, communication, and manual skills remain essential.
+
+Start as an apprentice or assistant, gain experience, and advance to lead makeup artist or special effects makeup artist; some may move into Hollywood film production or high-end stage theater.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate preliminary makeup design plans from photos or reference images
+- Using AI for skin tone analysis and product shade matching
+- Using virtual reality to preview different makeup effects for clients, reducing repeated trials
+- Automatically record and organize makeup material inventory and purchase lists
+
+**Where AI augments the role:**
+
+- AI-assisted design of complex special effects makeup (e.g., age spots, wounds), improving precision
+- Utilize generative AI to quickly explore makeup possibilities for various eras and character styles
+- Use AI to analyze script character emotions and provide makeup color and texture recommendations
+- Rehearsing makeup procedures in advance via digital twins to optimize time and material use
+
+**Human moat:**
+
+- Create original art designs based on facial features of directors and actors.
+- Adjust makeup on the spot according to stage lighting, actors' sweating, and other unexpected conditions
+- Deep communication with actors and directors to understand character inner world, non-standardized creativity
+- Craftsmanship in manually making prosthetics, hair, and other special props
+- Manage an assistant team and teach traditional makeup techniques
+
+**Skills to build:**
+
+- Proficient in AI makeup simulation and design software (e.g., Procreate, Modiface)
+- Master 3D modeling and digital sculpting tools (e.g., ZBrush) for prosthetic design.
+- Learn basic programming or script automation to customize workflows
+- Enhance color theory and lighting knowledge, combined with AI-assisted decision-making.
+- Strengthen communication and project management skills to adapt to digital collaboration environments
+- Understand the impact of virtual production and LED walls on makeup
+
+**Key growth areas:**
 
 - Film & TV production
 - Live theater
@@ -63,62 +97,64 @@ Apply makeup to performers to reflect period, setting, and situation of their ro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（Extraordinary Ability Visa） | 适用于在领域内有杰出成就的化妆师，需提供获奖或知名作品证明。 |
-| Subclass H-1B（Specialty Occupation Visa） | 通常不适用，因化妆师通常不满足专业职业要求，但大型制作公司可担保。 |
+| Subclass O-1 (Extraordinary Ability Visa) | Applies to makeup artists with outstanding achievements in the field, requiring proof of awards or well-known works. |
+| Subclass H-1B (Specialty Occupation Visa) | Usually not applicable, as makeup artists typically do not meet professional occupation requirements, but large production companies may sponsor. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Makeup Artists, Theatrical and Performance？**
-- 对化妆有热情且具备艺术创造力的人
-- 适应不规律工作时间和高压环境的人
-- 愿意持续学习新技术（如特效化妆）的人
+**Who is suited**
+- people passionate about makeup with artistic creativity
+- Those who can adapt to irregular working hours and high-pressure environments
+- Those willing to continuously learn new technologies (e.g., special effects makeup)
 
-**谁不适合学Makeup Artists, Theatrical and Performance？**
-- 追求稳定朝九晚五工作的人
-- 不擅长人际沟通或团队合作的人
+**Who is not suited**
+- People who pursue a stable 9-to-5 job
+- People who are not good at interpersonal communication or teamwork
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of theatrical makeup artists?**
+A: According to BLS, the 2023 median annual salary for US makeup artists (all types) was about $42,000, but theater and performance fields vary greatly by project; entry-level about $30,000-$45,000, senior can reach $100,000+
+
+**Q: How can a makeup artist immigrate to the US?**
+A: Immigration pathways are limited, typically requiring O-1 extraordinary ability visa, demonstrating exceptional talent (e.g., extensive notable works). H-1B only applies to large production companies for roles requiring a professional bachelor's degree, and is extremely rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Makeup Artists, Theatrical and Performance属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for theatrical makeup artists?**
-答：According to BLS, the median annual wage for all makeup artists in 2023 was about $42,000, but theatrical and performance fields vary widely by project, with entry-level around $30,000-$45,000 and senior artists up to $100,000+.
-
-**问：How can makeup artists immigrate to the US?**
-答：Immigration pathways are limited, typically via O-1 extraordinary ability visa requiring proven exceptional skills (e.g., notable credits). H-1B only applies for large studios and requires a bachelor's degree in a specialty, very rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

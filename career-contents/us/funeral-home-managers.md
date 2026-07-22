@@ -1,60 +1,96 @@
-# Funeral Home Managers（Funeral Home Managers）职业分析 · 美国
+# Funeral Home Managers — career analysis · United States
 
-**职业代码：11-9171 – Funeral Home Managers。**
+**Occupation code: 11-9171 (SOC)**
 
-Plan, direct, or coordinate services or resources of funeral homes, including pricing and facility management.
+Plan, direct, or coordinate funeral home services or resources, including pricing, facility management, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院或职业学校的殡葬科学副学士） |
-| 学士学位 | 4年 | $30,000~$80,000（殡葬科学或相关领域学士学位） |
+| Associate degree | 2 years | $10,000~$30,000 (Associate degree in funeral science from community college or vocational school) |
+| Bachelor's degree | 4 years | $30,000~$80,000 (Bachelor's degree in mortuary science or related field.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬师执照 | 各州殡葬管理委员会 | 必备 | 多数州要求通过国家会议考试并完成实习 |
-| 经理许可 | 州监管机构 | 必备 | 部分州额外要求经理执照或经营许可 |
+| Funeral director license | State funeral boards | Required | Most states require passing the national conference exam and completing an internship |
+| Manager permission | State regulatory agency | Required | Some states additionally require a manager license or business permit |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国殡葬服务需求稳定，老龄化人口推动行业增长，预计就业机会稳步增加。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. US funeral service demand is stable, aging population drives industry growth, employment opportunities expected to steadily increase.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 助理经理或小型殡仪馆 |
-| 中级（3-7年） | $60,000~$85,000 | 中型殡仪馆经理 |
-| 高级（7年以上） | $85,000~$120,000 | 大型殡仪馆或连锁机构经理 |
+| Median salary | $78,790 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Assistant manager or small funeral home |
+| Mid-level (3–7 years) | $60,000~$85,000 | Medium-sized funeral home manager |
+| Senior (7+ years) | $85,000~$120,000 | Manager at large funeral homes or chains |
+| average salary | $92,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从殡葬师或助理起步，积累经验后晋升为经理，也可向区域总监或自有殡仪馆发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
+
+Typically start as a funeral director or assistant, gain experience and advance to manager, or develop into a regional director or own funeral home.
+
+**Tasks most exposed to AI:**
+
+- Write and edit draft eulogies and obituaries
+- Administrative tasks for scheduling funerals, booking venues, and coordinating suppliers
+- Creating and managing digital memorial pages or videos for the deceased
+- Basic customer inquiries and FAQ responses
+- Filing and records management
+
+**Where AI augments the role:**
+
+- Personalise funeral ceremonies with AI tools (e.g., music, image generation)
+- Optimize communication strategies with families using sentiment analysis
+- Utilizing VR/AR technology to create immersive farewell experiences
+- Automatically generate compliance documents and reports, reducing paperwork burden
+- Data-driven prediction of service demand to optimize resource scheduling
+
+**Human moat:**
+
+- In-person emotional support and empathetic communication
+- On-the-spot adaptability to handle emergencies
+- Deep understanding of cultural, religious, and family traditions
+- Authority in leading ceremonies and organizing on-site processes
+- Ability to build long-term trust relationships
+
+**Skills to build:**
+
+- Learn to use AI-assisted writing and design tools (e.g., ChatGPT, Canva)
+- Master basic data analysis (e.g., Excel, Power BI) to optimize operations
+- Enhance digital marketing skills (social media, SEO)
+- Learning VR/AR content creation tools
+- Enhanced qualifications in psychological counseling and grief therapy
+- Familiarity with Australian funeral regulations and compliance automation software
+
+**Key growth areas:**
 
 - Stable demand
 - Aging population
@@ -63,65 +99,67 @@ Plan, direct, or coordinate services or resources of funeral homes, including pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需本科以上学历，但殡仪馆经理岗位可能不符合专业职业要求，申请难度大。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可通过PERM劳工认证申请，但需证明美国工人不足，且岗位属于技能型。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or higher, but funeral home manager positions may not meet professional occupation requirements, making applications difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Can apply through PERM labor certification, but must prove insufficient US workers, and the position is skill-based. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Funeral Home Managers？**
-- 具备同情心和沟通能力的人
-- 有管理能力及商业头脑的人
-- 能处理高压和情感负担的人
+**Who is suited**
+- Compassionate and communicative individuals
+- People with management ability and business acumen
+- People who can handle high pressure and emotional burden
 
-**谁不适合学Funeral Home Managers？**
-- 对死亡及哀悼场合感到不适的人
-- 不善于处理行政及财务细节的人
+**Who is not suited**
+- Those uncomfortable with death and mourning situations
+- Those not good at handling administrative and financial details
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the typical salary for a funeral home manager?**
+A: Entry-level about $45,000-60,000 USD, mid-level $60,000-85,000, senior up to $120,000.
+
+**Q: Can foreigners become funeral home managers in the US via H-1B visa?**
+A: Difficult because the position usually does not meet H-1B specialty occupation requirements; EB-3 green card is possible but requires PERM.
+
+**Q: What is the career outlook for a funeral home manager?**
+A: Demand stable, growth from aging, but limited promotion opportunities, mostly internal promotion or self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Funeral Home Managers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a funeral home manager?**
-答：Entry-level: $45,000-$60,000; mid-level: $60,000-$85,000; senior: up to $120,000.
-
-**问：Can a foreigner become a funeral home manager in the US via H-1B visa?**
-答：Unlikely, as the role may not meet specialty occupation criteria; EB-3 via PERM is possible but difficult.
-
-**问：What are the career prospects for a funeral home manager?**
-答：Stable demand with aging population, but limited advancement; often internal promotion or owning a funeral home.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

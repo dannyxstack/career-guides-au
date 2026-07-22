@@ -1,60 +1,96 @@
-# Web Technicians（Web Technicians）职业分析 · ES
+# Web Technicians — career analysis · Spain
 
-**职业代码：3814 – Web Technicians。**
+**Occupation code: 3814 (CNO)**
 
-Responsible for web development, maintenance and technical support, including front-end and back-end programming, server management, database configuration and performance optimization.
+Responsible for website development, maintenance, and technical support, including front-end and back-end programming, server management, database configuration, and performance optimization.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费或低学费，私立约1500欧元/年） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年，私立约4000-6000欧元/年） |
-| 硕士（Máster） | 1年 | $2,000~$12,000（公立大学约2000-4000欧元/年，私立约8000-12000欧元/年） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,500 (Public schools are free or low tuition, private about €1,500/year) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public universities approx. EUR 1,000-2,000/year, private approx. EUR 4,000-6,000/year.) |
+| Máster | 1 year | $2,000~$12,000 (Public universities: about €2,000-4,000/year; private: about €8,000-12,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学位 | 西班牙大学或FP中心 | 可选 | 通常需要Grado或FP Superior学历 |
-| 行业认证（如AWS、Cisco、Oracle） | 各认证机构 | 可选 | 非强制但显著提升就业竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证，耗时6-12个月 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees require verification and take 6-12 months |
+| Computer science or related degree | Spanish universities or FP centers | Optional | Grado or FP Superior degrees are usually required |
+| Industry certifications (such as AWS, Cisco, Oracle) | Each certifying body | Optional | Not mandatory but significantly enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。西班牙数字经济持续增长，企业数字化转型推动对Web技术人员的需求。预计未来五年就业增长15-20%，尤其在电子商务和SaaS领域。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Spain's digital economy continues to grow, and the digital transformation of enterprises is driving demand for web technicians. Employment is expected to grow by 15-20% over the next five years, especially in e-commerce and SaaS sectors.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，马德里/巴塞罗那较高 |
-| 中级（3-7年） | $32,000~$45,000 | 具备全栈或云能力者可达上限 |
-| 高级（7年以上） | $45,000~$65,000 | 架构师或技术主管级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary: Madrid/Barcelona is higher |
+| Mid-level (3–7 years) | $32,000~$45,000 | Those with full-stack or cloud capabilities can reach the upper limit |
+| Senior (7+ years) | $45,000~$65,000 | Architect or technical executive level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级Web开发人员晋升为高级工程师、技术主管或架构师。也可转向全栈开发、DevOps或项目管理岗位，或创业成为自由职业者。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+You can advance from junior web developer to senior engineer, technical director, or architect. You can also switch to full-stack development, DevOps, or project management roles, or start a freelancer.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce Boom
@@ -63,69 +99,68 @@ Responsible for web development, maintenance and technical support, including fr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能人才，需大学学历或5年经验，年薪≥约34,000欧元（2024标准），快速获得居留。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高学历/高收入专业人士，企业担保，流程较快，可带家属。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 标准工作居留，需工作合同且岗位证明难以招募本国人。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许毕业后在西班牙居留1年寻找工作，适用于毕业生。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled talents, requiring a university degree or 5 years of experience, annual salary ≥ about 34,000 euros (2024 standard), allowing quick residency. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly educated/high-income professionals, corporate guarantees, the process is relatively fast, and family members can be brought along. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Standard work residence requires a work contract and the position proof makes it difficult to recruit local nationals. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows graduates to stay in Spain for one year after graduation and look for work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web Technicians？**
-- 热爱编程和技术，愿意持续学习新框架和语言
-- 有解决问题能力和逻辑思维，适应项目驱动的工作
-- 希望进入数字行业，享受灵活办公和远程工作机会
-
-**谁不适合学Web Technicians？**
-- 不喜欢频繁切换技术栈或面对快速迭代
-- 偏好稳定、重复性工作，不适应高压赶工
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about programming and technology, willing to continuously learn new frameworks and languages
+- Problem-solving skills and logical thinking, adaptable to project-driven work
+- Those who want to enter the digital industry and enjoy flexible and remote work opportunities
+
+**Who is not suited**
+- Dislikes frequent switching of technology stacks or facing rapid iterations
+- They prefer stable, repetitive work and are not suited to high-pressure rush work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for web technicians in Spain?**
+A: Junior about 24,000-32,000 euros, intermediate 32,000-45,000, senior 45,000-65,000. Salaries are higher in Madrid/Barcelona.
+
+**Q: As a citizen of a third country, how can you obtain a Spanish Web Technician work visa?**
+A: Can apply via the EU Blue Card (requires annual salary ≥ €34k and a bachelor's degree) or a Highly Skilled Worker visa (company sponsorship), or first obtain a job-seeking visa (Búsqueda de empleo).
+
+**Q: What educational qualifications are required to become a web technician?**
+A: Typically, advanced computer-related vocational training (FP Superior) or a bachelor's degree is required, while foreign degrees require certification (Homologación).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（2-4年）（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Web Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a web technician in Spain?**
-答：Junior: €24k-€32k, Mid: €32k-€45k, Senior: €45k-€65k; higher in Madrid/Barcelona.
-
-**问：How can a third-country national obtain a work visa for a web technician in Spain?**
-答：Via EU Blue Card (salary ≥€34k + degree) or Highly Skilled Professional visa (employer sponsorship), or Job Search visa first.
-
-**问：What education is needed to become a web technician?**
-答：Typically a higher vocational training (FP Superior) or university degree in IT; foreign qualifications must be homologated.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,70 +1,97 @@
-# 水管工（Plumber (General)）职业分析 · 澳大利亚
+# Plumber — career analysis · Australia
 
-**职业代码：334111 – Plumber (General)。**
+**Occupation code: 334111 (ANZSCO)**
 
-水管工负责安装、维护和修缮供水、排水、煤气和消防管道系统，广泛服务于住宅、商业和工业领域。在澳大利亚，水管工属于持牌强制行业，长期位居技术短缺清单，是技术移民的高频职业之一。
+Plumbers install, maintain and repair water supply, drainage, gas and fire protection pipe systems, serving residential, commercial and industrial sectors. In Australia, plumbing is a mandatory licensed trade that has consistently appeared on skills shortage lists and is one of the most common trades used for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 Certificate III in Plumbing CPC32420） | 42~48个月（约3.5~4年） | —（各州补贴差异：NSW Smart & Skilled 补贴大部分学费；WA 约上限 $1,200；QLD 约 $1.60/课时） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含 TRA 评估费、补考费及行政费） |
-| 各州持牌考试（Plumbing Licence） | 1~3个月 | $300~$800（各州独立持牌，跨州需重新申请） |
+| Apprenticeship (including Certificate III in Plumbing CPC32420) | 42–48 months (approximately 3.5–4 years) | $0~$1,500 (State subsidy variations: NSW Smart & Skilled covers most tuition fees; WA approx. up to $1,200; QLD approx. $1.60 per hour of training) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fees, re-examination fees and administrative fees) |
+| State-based licensing exam (Plumbing Licence) | 1–3 months | $300~$800 (Independently licensed in each state; relicensing required when moving interstate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Plumbing (CPC32420) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质 |
-| Plumber Licence（各州） | 各州 Fair Trading / Building Commission | 必备 | 合法施工强制持牌 |
-| Gas Fitting Endorsement（可选） | 各州 | 可选 | 煤气接管额外资质，薪资溢价明显 |
-| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
+| Certificate III in Plumbing (CPC32420) | TAFE / RTO | Required | Nationally consistent curriculum, foundational qualification for practice |
+| Plumber Licence (each state) | State Fair Trading / Building Commission | Required | Licensed certification is mandatory for legal construction work |
+| Gas Fitting Endorsement (optional) | All states | Optional | Additional qualification for gas connections, with a notable salary premium |
+| TRA Skills Assessment | Trades Recognition Australia | Optional | Overseas-qualified migrants must |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 85,000。Jobs and Skills Australia 预测技工类至2035年新增就业约195,800人（+9.8%）。水管工技工填补率持续低位，全澳建筑业扩张驱动需求旺盛。
+**Job demand: very high (★★★★★).** National workforce approx. 85,000. Jobs and Skills Australia projects approximately 195,800 new jobs in the trades sector by 2035 (+9.8%). Plumber vacancy fill rates remain persistently low, with demand driven by nationwide construction industry expansion.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,800~3,000 个 | 全国，含学徒岗、住宅及商业管道岗 |
-| Indeed | 1,000~1,800 个 | 含兼职、合同工 |
-| LinkedIn | 400~900 个 | 偏企业直招及项目管理岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $22,000~$30,000 | Fair Work Award 最低工资 |
-| 学徒 2~4年级 | $30,000~$50,000 | 约 $27~$33/hr |
-| 初级水管工（持牌后 1~3年） | $72,000~$88,000 | Indeed 25th percentile |
-| 中级水管工（3~8年） | $88,000~$108,000 | SEEK 区间 $85k~$105k；ERI 平均 $99,866；Indeed $47.19/hr |
-| 资深水管工 / 承包商（8年+） | $108,000~$135,000 | 含煤气资质及承包利润 |
-| 矿业 FIFO 水管工（WA/QLD） | $130,000~$180,000 | 轮班津贴 + FIFO 补贴 |
+| Median salary | $103,480 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $22,000~$30,000 | Fair Work Award minimum wage |
+| Apprentice Years 2–4 | $30,000~$50,000 | Approx. $27–$33/hr |
+| Junior plumber (1–3 years post-licence) | $72,000~$88,000 | Indeed 25th percentile |
+| Intermediate plumber (3–8 years) | $88,000~$108,000 | Seek range $85k–$105k; ERI average $99,866; Indeed $47.19/hr |
+| Senior Plumber / Contractor (8+ years) | $108,000~$135,000 | Includes gas licence and contracting profit |
+| Mining FIFO plumber (WA/QLD) | $130,000~$180,000 | Shift allowance + FIFO allowance |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 住宅建设热潮、老旧基础设施更新和绿色能源（热泵热水系统、氢气管道）持续拉动需求，AI替代风险极低。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
+
+The residential construction boom, ageing infrastructure upgrades, and green energy initiatives (heat pump hot water systems, hydrogen pipelines) continue to drive demand, with very low risk of AI replacement.
+
+**Tasks most exposed to AI:**
+
+- Standard pipe layout design: AI automatically generates optimized pipe routes based on building blueprints
+- Document and compliance checks: AI reviews drawings and specs, auto-generates compliance reports
+- Inventory and logistics scheduling: AI predicts parts demand and arranges delivery
+- Remote fault preliminary diagnosis: AI identifies common blockages or leaks via sensor data
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis: AR overlays AI analysis of thermal imaging/sonic data to pinpoint hidden leaks
+- Construction planning and collaboration: real-time update of pipe conflict detection and process optimization using AI+BIM models
+- Customer communication and quoting: AI chatbots record requirements and generate 3D visual quotes
+- Continuous learning and compliance: AI personalizes recommendations for new regulations and training videos
+
+**Human moat:**
+
+- On-site manual operations: performing fine physical work like welding and cutting in confined spaces
+- Safety and compliance responsibility: Legally liable for statutory safety acceptance of water and gas pipelines
+- Non-standard problem solving: improvisational modification skills for old houses and non-standard materials
+- On-site customer trust: direct communication with clients, calming emotions, providing reliable service
+
+**Skills to build:**
+
+- BIM and building modeling software operation (e.g., Revit)
+- Use and data interpretation of AR-assisted maintenance equipment
+- Pipeline intelligent monitoring system debugging and maintenance
+- Basic data analysis and collaboration with AI tools
+- Cross-functional communication and project coordination skills
+- Installation of renewable energy plumbing systems (e.g., solar hot water, heat pumps)
+
+**Key growth areas:**
 
 - Residential & Commercial Construction
 - Water Infrastructure Upgrades
@@ -74,95 +101,88 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永居，TRT流需持482满2年 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名加5分，永居，首选路线 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, up to 4 years, can transfer to 186 after 2 years |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; the TRT stream requires holding a 482 visa for 2 years |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency — preferred pathway |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学水管工？**
-- 有给排水/管道/水暖背景（国内职校或工作经验），希望技能移民来澳
-- 接受体力劳动和密闭空间作业，不抵触水、污水和煤气管道环境
-- 目标是矿业高薪（FIFO）或自建管道承包公司
-- 年龄30~42岁，有时间完成TRA评估并积累澳洲经验
-- 希望走职业技能移民而非学历路线
-
-**谁不适合学水管工？**
-- 对密闭空间或污水管道作业有明显生理抵触
-- 期望1~2年内快速取得资质
-- 英语能力极弱且无改善计划
-- 完全无管道或水暖基础，且不愿从学徒期开始
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a background in plumbing/pipefitting/hydraulics (vocational training or work experience) and is looking to migrate to Australia through a skills visa
+- Comfortable with physical labour and confined space work, with no aversion to water, sewage, and gas pipe environments
+- Goal is mining high pay (FIFO) or starting own pipe contracting company
+- Aged 30–42, with time to complete the TRA assessment and gain Australian experience
+- Seeking skilled migration rather than an academic qualification pathway
+
+**Who is not suited**
+- Strong physical aversion to working in confined spaces or sewage pipelines
+- Expecting to obtain qualifications quickly within 1–2 years
+- Very limited English proficiency with no plans to improve
+- No plumbing or pipefitting background and unwilling to start from an apprenticeship
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a plumber in Australia?**
+A: Mid-level licensed plumber annual salary approx. $88,000–$108,000; SEEK range $85k–$105k; ERI average $99,866 (2026). Mining FIFO roles can reach $130k–$180k; apprentices approx. $22k–$50k.
+
+**Q: Is it easy for plumbers to find work in Australia?**
+A: Easy. Consistently listed on the MLTSSL, with 1,800–3,000 positions advertised on Seek year-round; licensed candidates typically secure employment within a few weeks.
+
+**Q: Are Chinese plumbing qualifications recognised in Australia?**
+A: Not directly recognised; assessment must be completed through the TRA Job Ready Program, which takes approximately 12–18 months. After completion, a state Plumbing Licence must be obtained before practising.
+
+**Q: Will plumbers be replaced by AI?**
+A: Replacement risk is very low. On-site pipeline installation and confined-space operations are highly reliant on manual labour, with no mature automation solutions available.
+
+**Q: Is there an age limit for plumbers in Australia?**
+A: There is no legal age limit. Those aged 35 and above can use the TRA mutual recognition pathway to bypass the 4-year apprenticeship; migration points scoring offers no bonus for applicants aged 45 and above.
+
+**Q: Do plumbers in Australia need a university degree?**
+A: Not required. Completing Certificate III (CPC32420) is sufficient to practise; school leavers can apply directly for an apprenticeship.
+
+**Q: Is plumbing hard to learn in Australia?**
+A: Moderate to high difficulty. Theory involves plumbing codes, gas and sewage systems; those with domestic water supply/drainage or plumbing background adapt faster.
+
+**Q: Which is better for migrating to Australia — plumber or electrician?**
+A: Both are on the MLTSSL with similar pathways. Electricians earn slightly more (median ~$94k vs plumbers ~$88k) with comparable difficulty; plumbers have a slightly shorter training period, and demand in mining and construction is equally strong.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 334111 职业档案、短缺清单、就业预测 |
-| training.gov.au | CPC32420 Certificate III in Plumbing 课程标准 |
-| ERI SalaryExpert | 水管工平均年薪 $99,866（2026） |
-| SEEK AU | 水管工薪资区间 $85,000~$105,000（2026） |
-| Indeed AU | 水管工平均时薪 $47.19（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
-| TRA | 海外水管工技能评估流程 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-水管工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲水管工工资多少？**
-答：中级持牌水管工年薪约 $88,000~$108,000，SEEK 区间 $85k~$105k，ERI 平均 $99,866（2026）。矿业FIFO可达 $130k~$180k，学徒约 $22k~$50k。
-
-**问：澳洲水管工容易找工作吗？**
-答：容易。MLTSSL长期在列，Seek 常年挂牌 1,800~3,000 个职位，持牌后通常数周内可入职。
-
-**问：中国水管工证澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 评估，周期约12~18个月。完成后须申请各州 Plumbing Licence 方可执业。
-
-**问：水管工会被AI替代吗？**
-答：替代风险极低。现场管道施工、密闭空间操作高度依赖人工，无成熟自动化方案。
-
-**问：澳洲水管工有年龄限制吗？**
-答：无法律上限。35岁以上可走TRA互认路径跳过4年学徒期，移民打分45岁以上无加分。
-
-**问：澳洲水管工需要大学学历吗？**
-答：不需要。完成 Certificate III（CPC32420）即可执业，高中毕业可直接申请学徒。
-
-**问：澳洲水管工难学吗？**
-答：难度中高。理论涉及管道规范、煤气和污水系统；有国内给排水或水暖基础者适应较快。
-
-**问：水管工和电工哪个更适合移民澳洲？**
-答：两者均在MLTSSL，路径相近。电工薪资略高（中位~$94k vs 水管工~$88k），难度相仿；水管工学习周期略短，矿业和建筑需求同样旺盛。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

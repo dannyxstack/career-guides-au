@@ -1,60 +1,96 @@
-# Technical Director（Technical Director）职业分析 · 澳大利亚
+# Technical Director — career analysis · Australia
 
-**职业代码：212317 – Technical Director。**
+**Occupation code: 212317 (ANZSCO)**
 
-Oversees technical production for film, theatre, or broadcast projects, managing lighting, sound, and set teams to ensure the artistic vision is technically realized.
+Responsible for overseeing technical production in film, stage, or broadcast projects, managing lighting, sound, set, and other technical teams to ensure the artistic vision is realized technically.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（澳洲大学本科每年学费） |
-| TAFE文凭 | 2年 | $15,000~$25,000（公立TAFE课程总学费） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Annual tuition fees at Australian universities (undergraduate)) |
+| TAFE diploma | 2 years | $15,000~$25,000 (Total tuition fees for public TAFE courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域学士学位 | 大学 | 必备 | 如影视制作、戏剧、媒体技术等 |
-| VET资格 | TAFE | 可选 | 如Certificate IV in Screen and Media |
-| 技能评估 | VETASSESS | 必备 | 技术移民需通过VETASSESS评估 |
-| 白卡（White Card） | SafeWork NSW | 可选 | 部分雇主强制要求 |
+| Bachelor's degree in a related field | University | Required | Such as film and television production, drama, media technology, etc. |
+| Skills assessment | VETASSESS | Required | Skilled migration requires VETASSESS assessment |
+| VET qualification | TAFE | Optional | e.g. Certificate IV in Screen and Media |
+| White Card | SafeWork NSW | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。澳洲影视及现场娱乐产业持续增长，尤其悉尼、墨尔本市场需求旺盛，预计未来五年就业增长稳健。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. The Australian film and live entertainment industry continues to grow, with strong demand particularly in Sydney and Melbourne markets; employment growth is expected to be steady over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 助理技术总监或小型制作公司 |
-| 中级（3-7年） | $80,000~$110,000 | 大多数技术总监 |
-| 高级（7年以上） | $120,000~$160,000 | 大型制作公司或自由职业者 |
+| Median salary | $102,700 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Assistant technical director or small production company |
+| Mid-level (3–7 years) | $80,000~$110,000 | Most technical directors |
+| Senior (7+ years) | $120,000~$160,000 | Large production companies or freelancers |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从灯光、音响等技术岗位起步，积累经验后晋升为技术总监，可进一步升任制作经理或创意总监。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of arts officers, producers, and directors will undergo profound AI-driven changes: low-level coordination and simple editing are automated, but core skills like creative decision-making, resource integration, and actor direction become more valuable due to AI tools. Entry pathways narrow; existing professionals need to transition into AI curators.
+
+Typically start from technical positions like lighting and sound, accumulate experience, then advance to technical director, and further to production manager or creative director.
+
+**Tasks most exposed to AI:**
+
+- Automated meeting scheduling, budget summarization, and itinerary coordination
+- AI generates rough cut drafts and low-level visual effects
+- Data-based casting suggestions and audience analysis reports
+- Standardized contract review and licence applications
+- Automatic camera switching during live broadcasts
+
+**Where AI augments the role:**
+
+- AI-assisted real-time color correction and scene previsualization
+- Machine learning analyzes audience feedback to optimize narrative pacing
+- Digital actors/scene compositing reduces location shooting costs
+- Smart scheduling tools free up energy for creative focus
+- AI generates storyboard drafts to speed up iteration
+
+**Human moat:**
+
+- Guidance for Emotional Expression and Character Inner Drama
+- Cross-cultural, cross-generational narrative insight
+- Improvised decision-making in on-site crises
+- Negotiation and relationship maintenance with sponsors and investors
+- Definition of original artistic concepts and avant-garde aesthetics
+
+**Skills to build:**
+
+- AI video editing tools (e.g., DaVinci Resolve AI)
+- Big data audience analysis and content recommendation algorithms
+- Virtual production (Unreal Engine, etc.)
+- Fundamentals of digital asset management and NFT minting
+- Cross-media storytelling ability
+- AI ethics and copyright law knowledge
+
+**Key growth areas:**
 
 - Film Production
 - Live Events
@@ -63,69 +99,68 @@ Oversees technical production for film, theatre, or broadcast projects, managing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，职业在CSOL上，可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主提名永居，需482后转或直接申请 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，转191永居 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，需在州职业清单上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, occupation on CSOL, can transition to 186 |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence, requiring transition from a 482 visa or direct application |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Temporary visa with regional state sponsorship, transfer to 191 permanent visa. |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence, needs to be on the state occupation list |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Director？**
-- 热爱影视/舞台技术，有创造力与解决问题能力
-- 善于领导和协调技术团队，抗压能力强
-- 愿意在不同项目间灵活工作，接受不固定工时
-
-**谁不适合学Technical Director？**
-- 不喜欢多变工作环境或高强度项目压力
-- 对技术细节缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about film/stage technology, creative and problem-solving
+- Skilled at leading and coordinating technical teams, with strong ability to work under pressure.
+- Willing to work flexibly across different projects and accept irregular working hours
+
+**Who is not suited**
+- Dislikes changing work environments or high-intensity project pressure
+- Lack of patience for technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Technical Director in Australia?**
+A: Full-time average annual salary approximately AUD 80,000-110,000, senior roles can reach over AUD 160,000.
+
+**Q: How can a Technical Director migrate to Australia via skilled migration?**
+A: Can transition to 186 via employer-sponsored 482, or state-sponsored 190/491 (if on state occupation list). Requires VETASSESS assessment.
+
+**Q: How many years of experience are needed to become a technical director?**
+A: Typically requires 5-7 years of experience in relevant technical roles, such as lighting, sound, or set assistant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a Technical Director in Australia?**
-答：Full-time average salary is around AUD 80,000-110,000, senior can exceed AUD 160,000.
-
-**问：How can a Technical Director migrate to Australia?**
-答：Via employer-sponsored 482 to 186, or state-nominated 190/491 if on state list. Requires VETASSESS assessment.
-
-**问：How many years of experience are needed to become a Technical Director?**
-答：Typically 5-7 years in technical roles like lighting, sound, or scenic assistant.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

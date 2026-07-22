@@ -1,61 +1,95 @@
-# Actors（Actors）职业分析 · 美国
+# Actors — career analysis · United States
 
-**职业代码：27-2011 – Actors。**
+**Occupation code: 27-2011 (SOC)**
 
-Perform roles in stage, television, radio, video, or film productions, interpreting characters through speech, gesture, and movement to entertain or inform audiences.
+Performs roles in stage, television, radio, video, or film productions, interpreting characters through speech, gestures, and body movements to entertain or educate audiences.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位（戏剧/表演） | 4年 | $40,000~$150,000（学费差异大，公立大学较低，私立艺术院校较高） |
-| 表演/戏剧培训项目 | 1-3年 | $10,000~$50,000（包括表演学校、工作室或音乐学院培训） |
+| Bachelor's degree (Drama/Performance) | 4 years | $40,000~$150,000 (Tuition fees vary widely; public universities are lower, private art schools are higher) |
+| Performing/theatre training programs | 1-3 years | $10,000~$50,000 (Includes training at performing arts schools, studios, or conservatories) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 表演经验 | 无特定机构 | 可选 | 通常通过试镜和作品集证明，无正式学历要求但实践经历至关重要 |
-| 演员公会会员 | 美国演员工会（SAG-AFTRA） | 可选 | 许多专业制作要求演员加入公会，但需累积一定表演天数或项目经验 |
-| 试镜技巧 | 无 | 可选 | 非正式但关键技能，常通过培训或经验获得 |
+| Performance experience | No specific institution | Optional | Usually proven through auditions and portfolios; no formal qualification required but practical experience is crucial |
+| Actor's Guild member | Screen Actors Guild‐American Federation of Television and Radio Artists (SAG-AFTRA) | Optional | Many professional productions require actors to join a union, but a certain number of performance days or project experience is needed. |
+| Audition techniques | None | Optional | Informal but critical skills, often acquired through training or experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 51,000。根据美国劳工统计局数据，演员的就业增长较为缓慢，预计2022-2032年增长率约3%，低于平均水平。竞争非常激烈，多数演员面临不稳定的工作机会和收入。
+**Job demand: low (★½☆☆☆).** National workforce approx. 51,000. According to US Bureau of Labor Statistics, actor employment growth is slow, with projected 3% growth from 2022-2032, below average. Competition is very intense, and most actors face unstable job opportunities and income.
 
-**竞争度：极高（★★★★★）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★★).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$40,000 | 多数演员收入不稳定，很多兼职或失业，此为年收入估算 |
-| 中级（3-10年） | $40,000~$70,000 | 有稳定角色和地区剧院或电视角色，但仍有不确定性 |
-| 高级（10年以上） | $70,000~$200,000 | 百老汇、电影或电视主要角色，少数顶级演员收入极高 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$40,000 | Most actors have unstable income, many work part-time or are unemployed; this is an annual income estimate |
+| Intermediate (3-10 years) | $40,000~$70,000 | There are stable roles in regional theatre or television, but uncertainty remains |
+| Senior (10+ years) | $70,000~$200,000 | Broadway, film, or TV leading roles; only a few top actors earn very high incomes |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径通常从非百老汇、地区剧院或小角色开始，逐步积累经验后可能进入百老汇、电影或电视剧主要角色。少数顶尖演员可转型导演、制片人或编剧。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
+
+Career progression typically starts with off-Broadway, regional theater, or minor roles, gradually gaining experience to enter Broadway, film, or TV lead roles. A few top actors may transition to directors, producers, or screenwriters.
+
+**Tasks most exposed to AI:**
+
+- Extras and background actors replaced by AI-generated digital doubles
+- Some simple dialogue is synthesized by AI
+- Motion capture automation for animated characters and virtual actors
+- Standardized dubbing and lip-sync automatically matched by AI
+
+**Where AI augments the role:**
+
+- AI-assisted audition analysis helps actors refine subtleties in performance
+- AI-generated virtual scenes allow actors to perform opposite digital counterparts in advance
+- AI tools analyze audience feedback in real time to adjust performance pace
+- AI-assisted script analysis revealing character emotional arcs and dialogue patterns
+- AI-driven special effects makeup and digital makeup preview
+
+**Human moat:**
+
+- Deep emotional interpretation and improvisational performance skills
+- Irreplaceable personal charisma and stage presence
+- Psychological depth and creative interpretation of complex roles.
+- Establish genuine empathy and interactive connection with the audience
+- Originality in cross-cultural narrative and artistic expression
+
+**Skills to build:**
+
+- Learn to use AI-assisted performance tools (e.g., virtual scene partner software)
+- Mastery of motion capture and digital performance techniques
+- Enhance improvisation and in-depth character analysis skills.
+- Familiar with AI script analysis and character emotion mapping tools
+- Strengthen adaptability in live streaming and interactive performances
+- Learning video editing and effects basics to enhance digital presentation
+
+**Key growth areas:**
 
 - slow growth
 - high competition
@@ -64,66 +98,68 @@ Perform roles in stage, television, radio, video, or film productions, interpret
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Visa for Individuals with Extraordinary Ability or Achievement） | 适用于在演艺领域有杰出成就的演员，需证明国际公认的卓越能力，如重要奖项、媒体报道等 |
-| Subclass P-1（P-1 Visa for Internationally Recognized Athletes or Entertainment Groups） | 适用于国际知名的演艺团体或个别表演者，需有国际认可且参与特定演出项目 |
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 理论上适用于特殊职业，但演员通常不满足专业职业要求，极少使用 |
+| Subclass O-1 (O-1 Visa for Individuals with Extraordinary Ability or Achievement) | Applicable to actors with outstanding achievements in the performing arts, requiring proof of internationally recognized excellence, such as major awards, media coverage, etc. |
+| Subclass P-1 (P-1 Visa for Internationally Recognized Athletes or Entertainment Groups) | Applicable to internationally renowned performing groups or individual performers, requires international recognition and participation in specific performance projects |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Theoretically applicable for special occupations, but actors typically do not meet professional occupation requirements, rarely used |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Actors？**
-- 极具表演天赋和创造力的人
-- 能承受不稳定的工作和收入，有强烈自我驱动力
-- 适应频繁试镜和被拒绝的心理素质
+**Who is suited**
+- Highly talented and creative individuals with performance aptitude
+- Able to withstand unstable work and income, strong self-motivation
+- Adaptability to frequent auditions and rejection
 
-**谁不适合学Actors？**
-- 追求稳定工作和可预测收入的人
-- 不善于应对竞争和拒绝的人
+**Who is not suited**
+- People seeking stable work and predictable income.
+- People who struggle with competition and rejection
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for actors?**
+A: According to BLS, the median annual income for actors in 2022 was about $43,830, but most actors earn far less and have unstable employment.
+
+**Q: Can actors immigrate to the US via work visas?**
+A: Very few. Actors usually do not meet H-1B professional occupation requirements, but outstanding artists can apply for O-1 visas, and internationally renowned groups can apply for P-1 visas, but the thresholds are extremely high.
+
+**Q: What education is needed to become an actor?**
+A: No mandatory requirement, but many actors hold a bachelor's degree in drama or performing arts, or train at professional acting schools. Experience is more important than education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★★) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★★） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Actors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for actors?**
-答：According to BLS, the median annual wage for actors was about $43,830 in 2022, but many earn less due to irregular work.
-
-**问：Can actors immigrate to the US via work visa?**
-答：Rarely. Most actors don't qualify for H-1B, but extraordinary artists may use O-1 visa or internationally recognized groups may use P-1 visa, both with high standards.
-
-**问：What education is needed to become an actor?**
-答：No mandatory requirements, but many have a bachelor's degree in drama or attend professional acting schools. Experience is more important than education.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

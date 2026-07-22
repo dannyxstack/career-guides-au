@@ -1,59 +1,95 @@
-# Marine Transport Professionals nec（Marine Transport Professionals nec）职业分析 · 新西兰
+# Marine Transport Professionals nec — career analysis · New Zealand
 
-**职业代码：231299 – Marine Transport Professionals nec。**
+**Occupation code: 231299 (ANZSCO)**
 
-Marine transport professionals manage ship operations, cargo logistics, and port coordination. This role is on New Zealand's Green List, offering direct residence pathways via Skilled Migrant Category or Tier 1 Green List.
+Shipping professionals are responsible for vessel operations, cargo management, and port coordination; this is a skilled shortage occupation in New Zealand, eligible for residency via the Green List or Skilled Migrant Category.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（海事研究或航海科学） | 3-4年 | $30,000~$50,000（新西兰理工学院如NMIT或Unitec） |
-| 大专或文凭（海事运营） | 1-2年 | $15,000~$25,000（如MITO或NZMA短期课程） |
+| Bachelor's (Maritime Studies or Nautical Science) | 3-4 years | $30,000~$50,000 (New Zealand polytechnics such as NMIT or Unitec) |
+| Diploma or degree (Maritime Operations) | 1-2 years | $15,000~$25,000 (Short courses like MITO or NZMA) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海事官员资格证书（MOSS） | 新西兰海事局（Maritime NZ） | 必备 | 从事甲板或轮机工作必需 |
-| 船长或大副适任证书（STCW认证） | 新西兰海事局 | 必备 | 高级职位要求 |
-| 雅思6.5分（各单项不低于6.0） | IELTS | 可选 | 技术移民语言要求 |
+| Marine Officer Certification (MOSS) | Maritime New Zealand | Required | Required for deck or engine room work |
+| Certificate of Competency as Master or Chief Mate (STCW certified) | Maritime New Zealand | Required | Senior position requirements |
+| IELTS 6.5 (no band below 6.0) | IELTS | Optional | Language requirements for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。新西兰海运业因贸易增长和船员短缺，需求稳定，预计未来5年岗位年增约2%。沿海及远洋运输、港口管理领域就业机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. New Zealand's maritime industry is experiencing stable demand due to trade growth and a shortage of seafarers, with jobs expected to grow by about 2% annually over the next five years. Opportunities are mainly in coastal and deep-sea shipping, and port management.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 港口调度员或助理 |
-| 中级（3-7年） | $70,000~$90,000 | 大副或航运主管 |
-| 高级（7年以上） | $100,000~$140,000 | 船长或港口运营经理 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Port dispatcher or assistant |
+| Mid-level (3–7 years) | $70,000~$90,000 | Chief Mate or Shipping Supervisor |
+| Senior (7+ years) | $100,000~$140,000 | Ship Captain or Port Operations Manager. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级船员或港口调度员起步，可晋升为船长、航运经理或港口运营总监，积累经验后转向海事咨询或培训岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Starting as a junior crew member or port dispatcher, can advance to captain, shipping manager, or port operations director; after gaining experience, move to maritime consulting or training roles.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Marine transport professionals manage ship operations, cargo logistics, and port
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 如满足绿色清单职业要求，可直接申请居留，无需工作经历累积。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 积分制技术移民，职业属ANZSCO技能等级1-3，需达到6分门槛。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未满足绿色清单要求，可通过认证雇主担保获得工签，工作2年后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | If meeting Green List occupation requirements, can directly apply for residency without needing work experience accumulation. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Points-based skilled migration, occupation in ANZSCO Skill Level 1-3, must achieve 6-point threshold. |
+| Subclass AEWV (Accredited Employer Work Visa) | If Green List requirements are not met, a work visa can be obtained through accredited employer sponsorship, with residence after 2 years of work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine Transport Professionals nec？**
-- 具备海事相关学历或海员经验者
-- 适应海上或港口高压环境
-- 愿意接受偏远地区工作机会
-
-**谁不适合学Marine Transport Professionals nec？**
-- 晕船或无法长期离家者
-- 缺乏团队协作和应急处理能力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Applicants with maritime-related education or seafarer experience
+- Adapt to high-pressure environments at sea or in ports
+- Willing to accept job opportunities in remote areas
+
+**Who is not suited**
+- Those prone to seasickness or unable to be away from home for long periods
+- Lack of teamwork and emergency response capabilities.
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for entry-level maritime professionals in New Zealand?**
+A: Entry-level roles like port dispatcher earn approx. NZD 50,000-65,000 per year, with experience mid-level can reach NZD 70,000-90,000.
+
+**Q: How to immigrate to New Zealand through this occupation?**
+A: If the occupation meets Green List Tier 1 criteria (e.g., ship captain or chief mate), you can apply directly for a Straight to Residence Visa; otherwise, you can transition to residence after working for 2 years via AEWV, or go through SMC skilled migration
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Marine Transport Professionals nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for junior marine transport professionals in NZ?**
-答：Entry-level roles like port dispatcher earn NZ$50,000-$65,000 annually; with experience, mid-level roles pay NZ$70,000-$90,000.
-
-**问：How can I immigrate to NZ through this occupation?**
-答：If your role (e.g., ship captain or chief officer) meets Green List Tier 1 criteria, apply for a Straight to Residence Visa; otherwise, work on an AEWV for 2 years then apply for residence, or use the Skilled Migrant Category.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Building Concierge（Building Concierge）职业分析 · ES
+# Building Concierge — career analysis · Spain
 
-**职业代码：5833 – Building Concierge。**
+**Occupation code: 5833 (CNO)**
 
-Responsible for daily maintenance, cleaning, security, and reception of buildings, ensuring facilities operate smoothly and handling inquiries or complaints from residents and visitors.
+Responsible for daily maintenance, cleaning, safety, and reception of buildings, ensuring normal operation of facilities, and handling inquiries and complaints from residents or visitors.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无需正式学历，在职培训 | —（通常由雇主提供培训） |
-| FP 中级（Técnico en Gestión Administrativa） | 2年 | $500~$3,000（公立学校免费，私立学校费用不等） |
+| Junior high school graduation | No formal qualifications required, on-the-job training | $0~$0 (Usually provided by the employer) |
+| FP Intermediate (Técnico en Gestión Administrativa) | 2 years | $500~$3,000 (Public schools are free, while private schools charge different fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 通常需要基本读写和客户服务技能 |
+| No mandatory requirements | None | Optional | Basic literacy and customer service skills are usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。随着西班牙城市化和旅游业发展，对大楼管理员的需求稳定，尤其在住宅区和商业楼宇。就业机会主要来自物业管理和服务外包公司。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. With the development of urbanization and tourism in Spain, the demand for building managers has remained steady, especially in residential areas and commercial buildings. Employment opportunities mainly come from property management and service outsourcing companies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，含加班和补贴 |
-| 中级（4-7年） | $20,000~$25,000 | 税前年薪 |
-| 高级（8年以上） | $25,000~$30,000 | 税前年薪，含管理职责 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, including overtime and subsidies |
+| Mid-level (4-7 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Senior (8+ years) | $25,000~$30,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从初级管理员晋升为高级管理员或物业主管，也可通过培训转向设施管理或安保等专业领域。经验丰富者可自营物业管理服务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of building administrators is experiencing mixed results: AI will automate a large number of recording, scheduling, and monitoring tasks, but physical operations and interpersonal services still rely on humans, with the value of high-end property butler positions potentially rising.
+
+Managers can be promoted from junior managers to senior managers or property supervisors, or transition to specialized fields such as facility management or security through training. Experienced candidates may self-manage property management services.
+
+**Tasks most exposed to AI:**
+
+- Visitor Registration and Identity Verification (AI Front Desk and Self-Service Machines Replacement)
+- Call forwarding and FAQ answering (chatbot replacement)
+- Inspection sign-in and record filling (IoT automatic recording)
+- Mail Parcel Collection Notification (System Automation)
+- Basic Security Monitoring (AI video analysis replaces manual screen monitoring)
+
+**Where AI augments the role:**
+
+- Intelligent Access Control and Security System Management (AI-Assisted Exception Warning)
+- Personalized resident needs service (AI-recommended upgrade plan)
+- Facility Preventive Maintenance Scheduling (AI Failure Prediction)
+- Multilingual customer communication (AI real-time translation)
+- Energy Consumption Optimization and Green Management (AI Data Analysis)
+
+**Human moat:**
+
+- On-site judgment and handling in emergencies
+- Emotional communication and personalized humanistic care
+- Mediation and arbitration of complex complaints
+- Planning and on-site coordination of major events
+- Sensitive sense of safety hazards
+
+**Skills to build:**
+
+- Operation and maintenance of intelligent building systems (BAS).
+- Use of Customer Relationship Management (CRM) software
+- Basic data analysis and report preparation
+- Multilingual communication skills (especially English)
+- Emergency management and first response training
+- Minor maintenance skills
+
+**Key growth areas:**
 
 - stable demand
 - urbanization
@@ -62,64 +98,66 @@ Responsible for daily maintenance, cleaning, security, and reception of building
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 基于受雇工作合同，需雇主担保，适用于非欧盟申请人。 |
+| Subclass Cuenta ajena (Work Contract) | Based on employment contracts, employer sponsorship is required, applicable to non-EU applicants. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Building Concierge？**
-- 喜欢稳定工作不需高学历的人
-- 擅长沟通和服务的人员
-- 对体力活动不反感的人
+**Who is suited**
+- People who prefer stable jobs and do not require high education
+- Skilled in communication and service
+- People who are not averse to physical activity
 
-**谁不适合学Building Concierge？**
-- 追求高薪和高晋升空间的人
-- 希望快速移民的人
+**Who is not suited**
+- People who pursue high salaries and high promotion opportunities
+- For those hoping to immigrate quickly
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for building managers?**
+A: The pre-tax annual salary for building managers in Spain ranges from 16,000 to 30,000 euros, with entry-level salaries around 18,000 euros and experienced managers earning over 25,000 euros.
+
+**Q: Can foreigners immigrate to Spain through this employment?**
+A: It's tough. This occupation is not considered a high-skilled occupation and is usually only available for residency through a work contract (Cuenta ajena), and employers must prove that suitable candidates cannot be found in the EU market.
+
+**Q: What educational qualifications are required to become a building administrator?**
+A: There are usually no educational requirements, and employers provide on-the-job training. Holding an FP Intermediate Executive Assistant degree can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 难（★★★★½） |
-
-Building Concierge属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for building concierges?**
-答：In Spain, building concierges earn between €16,000 and €30,000 gross annually, with beginners around €18,000 and experienced workers over €25,000.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult. This occupation is not considered high-skilled, so mainly only work contract (Cuenta ajena) applies, requiring employer proof of labor market shortage.
-
-**问：What education is needed to become a building concierge?**
-答：Generally no formal education required; on-the-job training provided. An FP intermediate degree in administrative management can be advantageous.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Tool Technician（Tool Technician）职业分析 · DE
+# Tool Technician — career analysis · Germany
 
-**职业代码：2452 – Tool Technician。**
+**Occupation code: 2452 (KldB)**
 
-Tool technicians manufacture, maintain, and repair tools, dies, and stamping parts from metal and plastic. They are essential skilled workers in manufacturing sectors like mechanical engineering and automotive.
+Tool and Die Makers manufacture, maintain, and repair tools, dies, and stampings from materials like metal and plastic. They are key skilled trades in manufacturing, often employed in mechanical engineering, automotive, and related industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3.5年 | —（培训期间有工资，通常无学费，仅需少量教材费） |
-| 技术员进修（Weiterbildung zum Techniker） | 2年（全日制） | $3,000~$8,000（部分州可申请教育补贴（Aufstiegs-BAföG）） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$500 (Paid during training, usually no tuition, only small fee for materials.) |
+| Technician Weiterbildung (Advanced training to become a technician) | 2 years (full-time) | $3,000~$8,000 (Some states offer education subsidies (Aufstiegs-BAföG)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工具机械师职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试获得 |
-| 资质认证（Anerkennung） | 德国主管机构（如IHK） | 可选 | 海外学历需经认证，证明与德国职业资格等效 |
+| Tool Mechanic Vocational Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training and passing the final exam |
+| Qualification recognition (Anerkennung) | German authorities (e.g., IHK) | Optional | Overseas qualifications must be certified as equivalent to German vocational qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 80,000。德国制造业对工具机械师需求稳定，尤其在汽车和机械工程领域。数字化和自动化趋势要求从业者具备CNC编程等新技能，但整体就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 80,000. Demand for tool mechanics in Germany is stable, especially in the automotive and mechanical engineering fields. Digitalization and automation require new skills like CNC programming, but overall employment prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，视地区和公司规模浮动 |
-| 中级（4-7年） | $38,000~$46,000 | 通过额外培训或考取技师证书可提升 |
-| 高级（8年以上） | $48,000~$58,000 | 担任工段长或技术员，年薪可达6万欧元以上 |
+| Median salary | $48,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Annual salary before tax, varies by region and company size |
+| Mid-level (4-7 years) | $38,000~$46,000 | Can be improved through additional training or obtaining technician certification |
+| Senior (8+ years) | $48,000~$58,000 | As section head or technician, annual salary can exceed €60,000. |
+| average salary | $50,856 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展可从熟练工晋升为工段长或技术员，也可通过继续教育成为模具设计工程师或生产经理。双元制大学深造可拓宽晋升通道。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+Career progression can advance from skilled worker to shift supervisor or technician, or become a mould design engineer or production manager through further education. Dual-system university studies can broaden promotion paths.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - CNC
 - Precision manufacturing
@@ -61,68 +97,67 @@ Tool technicians manufacture, maintain, and repair tools, dies, and stamping par
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于有大学学位或等同资格的技术移民，年薪门槛通常为48,300欧元（2025年），紧缺职业可降低至43,470欧元。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Visa） | 适用于有职业资格认证的技术工人，无需蓝卡高薪门槛，但需雇主担保且职业资格被认可。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许申请人在德国找工一年，适合有职业资格但尚未获得工作合同的申请人。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to skilled migrants with a university degree or equivalent; the annual salary threshold is typically EUR 48,300 (2025), reduced to EUR 43,470 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to skilled workers with professional certification, requiring no Blue Card high salary threshold, but need employer sponsorship and recognized qualifications. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allowing applicants to stay in Germany for one year to find work, suitable for those with professional qualifications but no job offer yet. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tool Technician？**
-- 喜欢动手、注重精度和细节的人
-- 对机械制造和金属加工有技术兴趣的人
-- 愿意接受双元制培训并长期在技术岗位发展的人
-
-**谁不适合学Tool Technician？**
-- 不适应体力劳动和车间环境的人
-- 对重复性操作或严格公差感到枯燥的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work, precision and attention to detail
+- People with technical interest in mechanical manufacturing and metal processing
+- People willing to undergo dual vocational training and develop long-term in technical roles
+
+**Who is not suited**
+- Those who are not suited to physical labor and workshop environments
+- Those who find repetitive operations or strict tolerances tedious
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a tool machinist in Germany?**
+A: Average annual salary about €42,000, entry-level about €32,000, senior up to €58,000+, depending on region, company size, and experience.
+
+**Q: How can an overseas tool and machinery mechanic immigrate to Germany?**
+A: Must first pass qualification recognition (Anerkennung) to prove professional qualifications are equivalent to German standards, then find an employer to sponsor a work visa (Skilled Immigration Act) or meet the Blue Card high salary requirement.
+
+**Q: What advancement opportunities exist for tool and die makers?**
+A: Can advance through further study to become technician or technologist, or be promoted to production supervisor, mold design engineer, or further pursue an engineering degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tool Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a tool technician in Germany?**
-答：Average annual salary is around €42,000, with entry-level at €32,000 and senior roles exceeding €58,000, depending on region, company size, and experience.
-
-**问：How can overseas tool technicians immigrate to Germany?**
-答：First, obtain recognition (Anerkennung) of your vocational qualification as equivalent to German standards, then find an employer to sponsor a Skilled Worker visa or meet the EU Blue Card salary threshold.
-
-**问：What are the career advancement opportunities for tool technicians?**
-答：You can become a technician or master craftsman through further training, or advance to production supervisor, mold design engineer, or pursue an engineering degree.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

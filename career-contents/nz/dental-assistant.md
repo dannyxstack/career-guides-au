@@ -1,62 +1,98 @@
-# Dental Assistant（Dental Assistant）职业分析 · 新西兰
+# Dental Assistant — career analysis · New Zealand
 
-**职业代码：423211 – Dental Assistant。**
+**Occupation code: 423211 (ANZSCO)**
 
-Dental assistants support dentists in clinical procedures, patient care, instrument sterilization, and appointment management. The role has low entry barriers, with on-the-job training common, but is generally not eligible for skilled migration.
+Dental assistants assist dentists with clinical procedures, patient care, instrument sterilization, and appointment management. This occupation has low entry barriers, mostly on-the-job training, but usually does not meet skilled migration requirements.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 证书课程 | 6个月 | $3,000~$8,000（私立院校费用不等，部分提供在线课程） |
-| 大专文凭 | 1-2年 | $10,000~$20,000（理工学院如Ara、Otago Polytechnic提供） |
-| 在岗培训 | 3-6个月 | —（雇主提供培训，可能涉及少量资源费） |
+| Certificate course | 6 months. | $3,000~$8,000 (Private institution fees vary, some offer online courses) |
+| Diploma | 1-2 years | $10,000~$20,000 (Offered by polytechnics such as Ara and Otago Polytechnic) |
+| On-the-job training | 3-6 months | $0~$2,000 (Employer-provided training, may involve a small resource fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科助理国家证书（National Certificate in Dental Assisting） | 新西兰牙科协会（NZDA） | 可选 | 虽非法定强制，雇主偏好持有者 |
-| CPR/急救证书 | St John或红十字会 | 必备 | 多数诊所要求 |
-| 辐射安全培训（X光操作） | 培训机构 | 必备 | 若需拍摄X光必须完成 |
+| CPR/first aid certificate | St John or Red Cross | Required | Required by most clinics |
+| Radiation safety training (X-ray operation) | Training institution | Required | Must be completed if X-ray imaging is required |
+| National Certificate in Dental Assisting | New Zealand Dental Association (NZDA) | Optional | Although not legally required, employers prefer holders |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 3,500。新西兰牙科助理需求稳定，口腔健康意识提升推动就业增长。主要就业于私立诊所，部分公立口腔服务也提供岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Demand for dental assistants in New Zealand is stable, with oral health awareness driving job growth. Mainly employed in private clinics, some public dental services also offer positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$48,000 | 通常最低工资之上 |
-| 中级（3-6年） | $48,000~$55,000 | 包括经验和证书加成 |
-| 高级（6年以上） | $55,000~$65,000 | 包括管理职责或特殊技能 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $42,000~$48,000 | Usually above minimum wage |
+| Mid-level (3–6 years) | $48,000~$55,000 | Includes experience and certification bonuses |
+| Senior (6+ years) | $55,000~$65,000 | Includes management responsibilities or specialised skills |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 职业发展路径有限，可晋升为高级牙科助理、诊所管理或转向口腔健康治疗师（需额外培训）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
+
+Limited career progression: can advance to senior dental assistant, clinic management, or transition to oral health therapist (requires additional training).
+
+**Tasks most exposed to AI:**
+
+- Patient appointment and schedule management (AI scheduling system)
+- Dental imaging capture and basic analysis (AI-assisted imaging)
+- Instrument sterilization and inventory tracking (automated sterilization cabinets and IoT tags)
+- Patient billing and insurance claim processing (AI-automated form filling)
+- Routine Chairside Assistance (e.g., Suction, Tool Passing, Robot-Assisted)
+
+**Where AI augments the role:**
+
+- AI-assisted chairside operation support: real-time image annotation and surgical suggestions
+- Patient communication and education: AI generates personalized care plans, assistant explains
+- Infection control monitoring: AI analyzes environmental data, assistants optimize processes
+- Cross-clinic data sharing: AI integrates medical records, assistant coordinates referrals
+- Remote consultation support: AI-assisted video diagnosis, assistant prepares equipment
+
+**Human moat:**
+
+- Building Trust with Patients, Handling Anxiety and Emotions
+- Clinical judgment in handling medical emergencies (e.g., allergies, fainting)
+- Smooth coordination of fine hand operations and instrument transfer
+- Cross-team coordination (dentist, hygienist, lab)
+- Personalized patient education and behavior change guidance
+
+**Skills to build:**
+
+- Operation of AI dental software (e.g., Diagnocat, Planmeca Romexis)
+- Digital Dental Workflow (Intraoral Scanning, CAD/CAM Basics)
+- Advanced patient communication and behavior management skills
+- Basic data analysis (clinic operational metrics)
+- Infection control and compliance knowledge updates
+- Multitasking coordination and prioritization skills
+
+**Key growth areas:**
 
 - On-the-job training
 - High turnover
@@ -65,66 +101,68 @@ Dental assistants support dentists in clinical procedures, patient care, instrum
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，满足薪资要求（至少中位数），学历或经验匹配，非技术移民途径 |
-| Subclass Working Holiday Visa（Working Holiday Visa） | 符合条件的年轻人可获临时签证，从事牙科助理工作 |
-| Subclass Visitor Visa（Visitor Visa） | 不得工作，仅短期访学或考察 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires employer sponsorship, meet salary requirements (at least median), matching qualification or experience, non-skilled migration pathway |
+| Subclass Working Holiday Visa (Working Holiday Visa) | Eligible young people may obtain a temporary visa to work as a dental assistant |
+| Subclass Visitor Visa (Visitor Visa) | No work permitted; only short-term study visits or inspections |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dental Assistant？**
-- 细心、耐心、动手能力强的人
-- 希望快速进入医疗行业且不介意低门槛入门的人
-- 对移民需求不高，注重稳定本地工作的人
+**Who is suited**
+- People who are careful, patient, and hands-on
+- People who want to quickly enter the medical industry and are not bothered by low entry barriers
+- People with low migration needs, focusing on stable local jobs
 
-**谁不适合学Dental Assistant？**
-- 希望通过技术移民快速获得新西兰居留权的人
-- 期望高薪资和快速职业晋升的人
+**Who is not suited**
+- People seeking fast-track residence through skilled migration to New Zealand
+- People expecting high salary and rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for dental assistants in New Zealand?**
+A: Junior annual salary approx. NZ$42,000-48,000, mid-level NZ$48,000-55,000, senior NZ$55,000-65,000. Usually no bonus, but some clinics offer benefits.
+
+**Q: Can dental assistants apply for New Zealand residence through skilled migration?**
+A: No. This occupation is not on the skilled migration occupation list nor on the Green List. You can only work under an Accredited Employer Work Visa (AEWV) and gain experience, but cannot directly apply for residence.
+
+**Q: What qualifications are needed to become a dental assistant?**
+A: Typically complete a certificate or diploma course of 6 months to 1 year, or receive on-the-job training. Qualifications are not mandatory, but holding a national certificate can increase employment opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Dental Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental assistants in New Zealand?**
-答：Entry-level salary is around NZD 42,000-48,000, mid-level NZD 48,000-55,000, and senior NZD 55,000-65,000 per year. Bonuses are rare, but some clinics offer benefits.
-
-**问：Can dental assistants apply for New Zealand residency through skilled migration?**
-答：No. This occupation is not on the skilled migration list or the Green List. Only an Accredited Employer Work Visa (AEWV) is possible, with no direct pathway to residency.
-
-**问：What qualifications are needed to become a dental assistant?**
-答：Typically a 6-month to 1-year certificate or diploma, or on-the-job training. Formal qualifications are not mandatory, but a national certificate improves job prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

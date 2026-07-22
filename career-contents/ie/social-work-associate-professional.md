@@ -1,58 +1,90 @@
-# Social Work Associate Professional（Social Work Associate Professional）职业分析 · IE
+# Social Work Associate Professional — career analysis · Ireland
 
-**职业代码：3412 – Social Work Associate Professional。**
+**Occupation code: 3412 (ISCO08)**
 
-Social work associate professionals support social workers in service delivery, assisting individuals, families, and communities to access welfare and counseling services, and managing case records and administrative tasks.
+Social work assistant professionals support social workers in social service settings, assisting individuals, families, and communities in accessing welfare and counseling services, and handling case records and administrative tasks.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等教育文凭/高级证书 | 1-2年 | $5,000~$10,000（爱尔兰技术文凭课程） |
-| 本科（社会科学相关） | 3-4年 | $12,000~$25,000（大学学费，欧盟/非欧盟有差异） |
+| Higher Education Diploma/Advanced Certificate | 1-2 years | $5,000~$10,000 (Irish Technical Skills Certificate) |
+| Bachelor's degree (social sciences related) | 3-4 years | $12,000~$25,000 (University tuition fees differ between EU and non-EU students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作学位或相关文凭 | 爱尔兰高等教育机构 | 必备 | 通常要求相关学历 |
-| 爱尔兰社会工作者注册 | CORU | 可选 | 在CORU注册为社会护理工作者 |
+| Degree in social work or related diploma | Irish higher education institutions | Required | Usually requires relevant qualifications |
+| Irish social worker registration | CORU | Optional | Register as a social care worker with CORU |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰社会服务需求持续增长，人口老龄化和移民融入需求推动就业增长。预计未来十年就业增长约10-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Social service demand in Ireland continues to grow, driven by population aging and immigrant integration needs. Employment is expected to grow by about 10-15% over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级，通常持文凭或学位 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验，可能监督初级员工 |
-| 高级（7年以上） | $45,000~$55,000 | 高级角色或管理职责 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level, typically holding a diploma or degree |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced, may supervise junior staff |
+| Senior (7+ years) | $45,000~$55,000 | Senior role or management responsibilities |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理晋升为注册社会工作者，或转向儿童保护、心理健康等专业领域；也可进入管理或政策制定岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is a double-edged sword for Social Work Assistants: automation of administrative and record-keeping tasks will shrink traditional roles, but data analysis and service planning demand are growing, requiring mastery of new tools to improve efficiency.
+
+Can progress from assistant to registered social worker, or specialise in areas like child protection and mental health; can also move into management or policy roles.
+
+**Tasks most exposed to AI:**
+
+- Automated case recording and report generation
+- Routine benefits eligibility checks and paperwork processing
+- Client appointment scheduling and reminders
+- Basic consulting information retrieval and push
+
+**Where AI augments the role:**
+
+- Using data analysis to identify high-risk families.
+- AI-assisted assessment of service demand and resource matching
+- Real-time translation tools support multilingual services.
+- Chatbots handle routine inquiries, freeing up manpower
+
+**Human moat:**
+
+- Complex emotional support and crisis intervention
+- Cross-departmental coordination and case management judgement
+- Cultural sensitivity assessment and trust building
+- Ethical decision-making and privacy protection
+
+**Skills to build:**
+
+- Data Analysis and Visualization (Python, Tableau)
+- Application of AI tools (ChatGPT, automation platforms)
+- Digital recording systems (CRM, EHR)
+- Basic programming and workflow automation
+- Ethics and Data Privacy Management
+
+**Key growth areas:**
 
 - Aging population
 - Immigration integration
@@ -61,67 +93,66 @@ Social work associate professionals support social workers in service delivery, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪30,000欧元以上岗位，需劳工市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若岗位在紧缺职业列表，年薪32,000欧元以上，可快速转永居 |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary above €30,000, requiring labor market testing |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the occupation shortage list, with an annual salary above €32,000, it can qualify for fast-track permanent residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Work Associate Professional？**
-- 有同情心和耐心的人
-- 喜欢帮助他人并希望对社会产生积极影响的人
-- 善于沟通和解决问题的人
-
-**谁不适合学Social Work Associate Professional？**
-- 对压力和情绪挑战敏感的人
-- 不喜欢文书工作和行政任务的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Compassionate and patient people
+- People who enjoy helping others and want to make a positive impact on society
+- People who are good at communication and problem-solving
+
+**Who is not suited**
+- People sensitive to stress and emotional challenges
+- People who dislike paperwork and administrative tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social work associate professionals in Ireland?**
+A: Entry-level annual salary approx. €28,000-35,000, mid-level €35,000-45,000, senior €45,000-55,000.
+
+**Q: How can overseas applicants obtain work permits for social worker assistant positions in Ireland?**
+A: Can apply via General Employment Permit (annual salary over €30,000) or Critical Skills Employment Permit (if on shortage list and annual salary over €32,000).
+
+**Q: What are the career advancement paths for social work assistant professionals?**
+A: Can advance to social worker, team leader, or specialize in child protection, mental health, etc., or enter policy-making or management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Social Work Associate Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for social work associate professionals in Ireland?**
-答：Entry-level salaries range from €28,000 to €35,000, mid-level from €35,000 to €45,000, and senior roles from €45,000 to €55,000 per year.
-
-**问：How can overseas applicants obtain a work permit for social work associate professional roles in Ireland?**
-答：Applicants can apply for a General Employment Permit (salary above €30,000) or a Critical Skills Employment Permit (if on shortage list and salary above €32,000).
-
-**问：What are the career progression opportunities for social work associate professionals?**
-答：They can progress to social worker roles, team leaders, specialize in child protection or mental health, or move into policy or management positions.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

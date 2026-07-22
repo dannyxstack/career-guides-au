@@ -1,59 +1,92 @@
-# Crane, Hoist or Lift Operator（Crane, Hoist or Lift Operator）职业分析 · 新西兰
+# Crane, Hoist or Lift Operator — career analysis · New Zealand
 
-**职业代码：712111 – Crane, Hoist or Lift Operator。**
+**Occupation code: 712111 (ANZSCO)**
 
-Operate cranes, hoists, or lifts to move heavy loads in construction, manufacturing, mining, and transport. Strict safety compliance required. In New Zealand, this occupation can lead to residency via AEWV or Skilled Migrant Category, with some roles on the Green List.
+Operate cranes, hoisting equipment, or lifts to move heavy loads in construction, manufacturing, mining, and transport, strictly following safety regulations. In New Zealand, this occupation can obtain residency through the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), with some roles on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒培训 | 3-4年 | $5,000~$15,000（学徒期间可边工作边学习，学费部分由雇主或政府资助） |
-| 证书课程 | 6-12个月 | $2,000~$5,000（新西兰起重机协会(NZCA)认可的短期课程，适合已有经验者） |
+| Apprenticeship training | 3-4 years | $5,000~$15,000 (Apprentices can work and study simultaneously, with tuition fees partially funded by employers or the government) |
+| Certificate course | 6–12 months | $2,000~$5,000 (Short courses recognized by the New Zealand Crane Association (NZCA), suitable for those with experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰起重机操作员注册证书 | 新西兰起重机协会 (NZCA) | 必备 | 操作特定类型起重机（如塔吊、移动式）必须持有对应注册证书 |
-| 工地安全卡 (Site Safety Card) | 安全工程培训组织 (Site Safe) | 必备 | 进入建筑工地必备，证明基本安全意识 |
-| 新西兰驾照 (Class 1 或更高级别) | 新西兰交通局 (NZTA) | 可选 | 如需驾驶移动式起重机到工地，需相应驾照 |
+| New Zealand Crane Operator Registration Certificate | New Zealand Crane Association (NZCA) | Required | Operating specific crane types (e.g., tower crane, mobile crane) requires holding the corresponding registration certificate. |
+| Site Safety Card | Construction Safety Training Organization (Site Safe) | Required | Essential for entering construction sites, certifies basic safety awareness |
+| New Zealand Driver's License (Class 1 or higher) | New Zealand Transport Agency (NZTA) | Optional | If driving a mobile crane to the worksite, need appropriate license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。新西兰建筑业持续增长，大型基础设施项目（如奥克兰轻轨、基督城重建）带动起重机操作员需求。预计未来5年就业增长稳定，但受经济周期影响，熟练操作员仍供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. New Zealand's construction industry continues to grow, with large infrastructure projects (e.g., Auckland light rail, Christchurch rebuild) driving demand for crane operators. Employment growth is expected to be stable over the next 5 years, but affected by economic cycles, skilled operators remain in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 多为助理操作员，在指导下操作小型起重机 |
-| 中级（3-5年） | $70,000~$85,000 | 已取得注册证书，独立操作常见起重机 |
-| 高级（5年以上） | $90,000~$110,000 | 持有多种起重机牌照，可操作大型塔吊或移动式起重机，或担任主管 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$65,000 | Mostly assistant operators operating small cranes under supervision |
+| Mid-level (3–5 years) | $70,000~$85,000 | Holds a licence to independently operate common cranes |
+| Senior (5+ years) | $90,000~$110,000 | Holds multiple crane licenses, can operate large tower cranes or mobile cranes, or work as a supervisor |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：向好（★★★★☆）。** 从助理操作员开始，考取新西兰起重机注册证书后晋升为独立操作员。积累经验后可成为主管、培训师或考取更高级别起重机牌照（如塔吊、移动式起重机），薪资随之显著提升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Crane operators face automation threats: unmanned tower cranes and remote control systems are replacing traditional roles, with entry-level opportunities significantly reduced; certified veterans still have short-term demand.
+
+Start as an assistant operator, obtain a New Zealand crane registration certificate to become an independent operator. With experience, advance to supervisor, trainer, or higher-level crane license (e.g., tower crane, mobile crane), with significant salary increases.
+
+**Tasks most exposed to AI:**
+
+- AI dispatch system automatically plans lifting paths and sequences
+- Unmanned tower cranes autonomously perform repetitive lifting using sensors and algorithms
+- Remote monitoring center centrally manages multiple devices, reducing on-site operators
+- Automated load calculation and stability analysis replace manual judgment
+
+**Where AI augments the role:**
+
+- AI-assisted real-time monitoring of equipment status and predictive fault maintenance
+- Augmented reality (AR) overlays safety boundaries and load information to improve precision.
+- Automatically records operation logs and analyzes efficiency to optimize workflow
+- Collaborative robots handle light cargo transport, while operators focus on complex lifting tasks.
+
+**Human moat:**
+
+- Performing precise lifting judgments in complex environments (e.g., dense urban areas)
+- Emergency decision-making for handling security incidents and non-standard loads.
+- Effective communication and coordination with ground signalers and installation teams
+- Experience in retrofitting and maintaining old or non-automated equipment
+
+**Skills to build:**
+
+- Proficient in remote control systems and automated control console operation
+- Learn basics of AI scheduling software and data analysis
+- Obtain advanced lifting certification (e.g., mobile crane operator license)
+- Attend safety management and emergency response training
+- Learn basic programming to debug automated equipment
+- Enhance multitasking coordination and team leadership skills
+
+**Key growth areas:**
 
 - Construction Boom
 - Infrastructure Projects
@@ -62,68 +95,67 @@ Operate cranes, hoists, or lifts to move heavy loads in construction, manufactur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需获得新西兰认证雇主的工作offer，通常为3年，可续签，满足条件后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制要求（如学历、工作经验、新西兰工作），职业在ANZSCO Skill Level 3或以上 |
-| Subclass Green List T2（Green List Tier 2） | 绿色清单第二梯队，工作2年后可申请居留，需满足特定薪资和职位要求（如高级操作员） |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires a job offer from a New Zealand accredited employer, usually 3 years, renewable, eligible for residence after meeting conditions. |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, requiring meeting the 6-point system criteria (e.g., qualifications, work experience, New Zealand employment), occupation at ANZSCO Skill Level 3 or above |
+| Subclass Green List T2 (Green List Tier 2) | Green List Tier 2, eligible for residence after 2 years of work, subject to specific salary and position requirements (e.g., senior operator) |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Crane, Hoist or Lift Operator？**
-- 喜欢操控重型机械、注重安全细节的人
-- 愿意接受户外、高空及工地环境工作
-- 有耐心且具备团队协作精神的人
-
-**谁不适合学Crane, Hoist or Lift Operator？**
-- 恐高或对噪声粉尘敏感者
-- 追求朝九晚五固定作息的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy operating heavy machinery and are detail-oriented about safety.
+- Willing to work outdoors, at heights, and on construction sites
+- Patient and team-oriented individuals
+
+**Who is not suited**
+- Those with fear of heights or sensitive to noise and dust
+- People seeking a fixed 9-to-5 routine
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for crane operators in New Zealand?**
+A: Junior salary approx. NZD 55,000-65,000/year, intermediate NZD 70,000-85,000, senior NZD 90,000-110,000. Varies by region, crane type and experience; higher in construction hubs like Auckland and Christchurch.
+
+**Q: What pathways exist for crane operators to migrate to New Zealand?**
+A: Main pathway: Accredited Employer Work Visa (AEWV) then residence; if meet 6-point system, apply via Skilled Migrant Category (SMC); some senior roles on Green List Tier 2, apply for residence after 2 years.
+
+**Q: What certificates are needed to operate a crane in New Zealand?**
+A: Must hold a relevant crane type registration certificate issued by the New Zealand Crane Association (NZCA) and a Site Safety card (Site Safe). Mobile crane drivers also need a corresponding driver's license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 向好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Crane, Hoist or Lift Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for crane operators in New Zealand?**
-答：Entry-level: NZD 55,000-65,000; intermediate: NZD 70,000-85,000; senior: NZD 90,000-110,000. Salaries vary by region, crane type, and experience, with higher pay in construction hotspots like Auckland and Christchurch.
-
-**问：What are the migration pathways for crane operators to New Zealand?**
-答：Main pathways: Accredited Employer Work Visa (AEWV) leading to residence; Skilled Migrant Category (SMC) under the 6-point system; some senior roles under Green List Tier 2 eligible for residence after 2 years.
-
-**问：What certifications are required to operate cranes in New Zealand?**
-答：Must hold a registration certificate from the New Zealand Crane Association (NZCA) for the specific crane type, plus a Site Safety Card from Site Safe. Mobile crane drivers also need a relevant driver's license.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

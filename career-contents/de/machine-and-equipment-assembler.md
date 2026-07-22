@@ -1,60 +1,96 @@
-# Machine And Equipment Assembler（Machine And Equipment Assembler）职业分析 · DE
+# Machine And Equipment Assembler — career analysis · Germany
 
-**职业代码：2511 – Machine And Equipment Assembler。**
+**Occupation code: 2511 (KldB)**
 
-Assemble mechanical and electrical components into complete machines and equipment according to technical drawings and procedures, including functional testing and adjustment.
+Responsible for assembling mechanical parts, electrical components, etc., into complete machines or equipment based on technical drawings and processes, and conducting functional testing and debugging.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3.5年 | —（培训期间企业支付津贴，学校免费） |
-| 短期职业培训（转行） | 6-12个月 | $3,000~$8,000（私人培训机构费用，部分可获政府补贴） |
+| Dual vocational training | 3.5 years | $0~$500 (Employers pay an allowance during training; school is free.) |
+| Short-term vocational training (career change) | 6–12 months | $3,000~$8,000 (Private training institution fees, some may receive government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业机械工（IHK认证） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 职业资格认证（Anerkennung） | 德国联邦职业教育研究所（BIBB） | 必备 | 外国学历需通过等效性评估，可能要求补修课程 |
+| Industrial Mechanic (IHK certified) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Professional qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) | Required | Overseas qualifications must undergo equivalence assessment; supplementary courses may be required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 120,000。德国工业4.0推动制造业自动化升级，对熟练装配工需求稳定。但部分简单组装可能被自动化替代，复合技能（电气+机械）更受欢迎。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 120,000. Germany's Industry 4.0 drives automation in manufacturing, maintaining stable demand for skilled assemblers. However, some simple assembly tasks may be automated, making compound skills (electrical + mechanical) more sought after.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（4-7年） | $35,000~$42,000 | 税前年薪 |
-| 高级（8年以上/组长） | $43,000~$52,000 | 税前年薪 |
+| Median salary | $50,424 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $35,000~$42,000 | Annual pre-tax salary |
+| Senior (8+ years / team leader) | $43,000~$52,000 | Annual pre-tax salary |
+| average salary | $54,108 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级装配工起步，积累经验后可晋升为团队组长、调试技术员，或通过进修成为机械/电气技师。部分企业提供内部培训转向技术销售或质量管理。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Core manual assembly work of fitters is threatened by automation, but AI-enhanced fault diagnosis and process optimization create both risks and opportunities for the role, requiring upskilling.
+
+Start as a junior assembler, gain experience and advance to team leader, commissioning technician, or through further study become a mechanical/electrical technician. Some companies offer internal training for technical sales or quality management.
+
+**Tasks most exposed to AI:**
+
+- Repetitive mechanical parts assembly based on fixed procedures
+- Standardized bolting using tools such as torque wrenches
+- Simple functional tests (e.g., power-on, rotation checks)
+- Sorting and placing standard parts from a conveyor belt.
+- Recording assembly data and generating quality reports
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay assembly instructions in real time, reducing manual reference time
+- AI anomaly detection system assists debugging, quickly locating faults and suggesting repair steps.
+- Use machine vision to automatically check assembly quality, reducing manual inspection fatigue.
+- Simulate assembly process using digital twin to optimize operation sequence
+- Smart collaborative robots (cobots) assist in moving heavy parts, reducing physical strain
+
+**Human moat:**
+
+- Handling assembly of non-standard, flexible, or custom parts
+- Fine adjustments in space-constrained or high-pressure environments
+- Cross-system integration (mechanical, electrical, software) fault diagnosis
+- Communicate with clients to understand needs and make on-site adjustments
+- Process innovation: Propose creative solutions to improve assembly efficiency
+
+**Skills to build:**
+
+- Operating and programming collaborative robots (cobots)
+- Using augmented reality (AR) aids
+- Basic data analysis, understanding production line sensor data
+- Study Industrial Automation Systems (PLC Basics)
+- Human-machine collaboration interface and digital twin software
+- Proficient in precision assembly techniques (e.g., vision-guided positioning)
+
+**Key growth areas:**
 
 - Automation
 - Industry 4.0
@@ -63,69 +99,68 @@ Assemble mechanical and electrical components into complete machines and equipme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（EU Blue Card） | 需大学学历或等同资格，年薪门槛约39,000欧元（2023年） |
-| Subclass Skilled Worker（Work Visa for Qualified Professionals） | 需德国认可的职业技能资质，雇主担保，无薪资硬性门槛 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许未找到工作前入境寻找机会，需证明语言能力和资金 |
+| Subclass Skilled Worker (EU Blue Card) | Requires university degree or equivalent qualification, with salary threshold around €39,000 (2023) |
+| Subclass Skilled Worker (Work Visa for Qualified Professionals) | Requires German-recognized vocational qualifications, employer sponsorship, no salary threshold |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, allows entry to seek opportunities before finding a job; requires proof of language ability and funds |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine And Equipment Assembler？**
-- 动手能力强，喜欢机械组装与调试的人
-- 注重细节，能遵循技术规范与安全操作
-- 愿意接受双元制培训或已有机械/电气类学历背景
-
-**谁不适合学Machine And Equipment Assembler？**
-- 不喜欢重复性体力工作或车间环境
-- 缺乏耐心，无法精确按图纸操作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy mechanical assembly and debugging
+- Attention to detail, ability to follow technical specifications and safety procedures
+- Willing to undergo dual vocational training or already have a mechanical/electrical educational background
+
+**Who is not suited**
+- Dislikes repetitive physical work or workshop environment
+- Lack of patience and inability to accurately follow drawings
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for this occupation in Germany?**
+A: Junior assembler annual salary approx €28,000-34,000 before tax, varies by region and company size.
+
+**Q: How can foreign qualifications obtain professional certification?**
+A: Need to submit materials to BIBB or IHK in Germany for equivalence assessment, usually requiring vocational education in mechanical/electrical fields, and may need to complete supplementary courses or pass practical exams.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can be promoted to team leader, commissioning technician, or through further education become an industrial master (Meister), with a salary of over €50,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Machine And Equipment Assembler为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for this occupation in Germany?**
-答：The entry-level annual gross salary is approximately 28,000-34,000 EUR, varying by region and company size.
-
-**问：How can foreign qualifications be recognized?**
-答：Submit documents to BIBB or IHK for equivalence assessment. A vocational degree in mechanics/electronics is required; additional courses or practical exams may be necessary.
-
-**问：Are there career advancement opportunities?**
-答：Yes, to team leader, commissioning technician, or industrial master craftsman (Meister) with salary above 50,000 EUR.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

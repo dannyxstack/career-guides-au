@@ -1,59 +1,95 @@
-# Librarians（Librarians）职业分析 · 加拿大
+# Librarians — career analysis · Canada
 
-**职业代码：51100 – Librarians。**
+**Occupation code: 51100 (NOC)**
 
-Librarians in Canada have stable demand, eligible for skilled migration via Express Entry or PNP, especially for those with a Canadian-recognized MLIS degree and language proficiency.
+Librarians have stable demand in Canada, and most provinces can apply through skilled migration pathways, especially suitable for applicants with a Canadian-recognized MLIS degree and language scores.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 硕士（MLIS） | 2年 | $30,000~$60,000（加拿大大学硕士学费，国际生较高） |
-| 本科 | 4年 | $80,000~$160,000（任何本科可申请MLIS，但推荐相关专业） |
+| Master's degree (MLIS) | 2 years | $30,000~$60,000 (Master's tuition at Canadian universities is higher for international students) |
+| Bachelor's degree | 4 years | $80,000~$160,000 (Any bachelor's degree is acceptable for MLIS, but related majors are recommended.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆学硕士（MLIS） | ALA认证的加拿大大学 | 必备 | 几乎所有公共和研究图书馆职位强制要求 |
-| ECA学历认证 | WES或ICES等 | 必备 | 海外学历需认证，用于Express Entry |
-| IELTS或CELPIP | IDP或Paragon | 必备 | CLB 7以上，建议CLB 9 |
+| Master of Library and Information Science (MLIS) | ALA-accredited Canadian universities | Required | Mandatory for almost all public and research library positions |
+| ECA (Educational Credential Assessment). | WES or ICES, etc. | Required | Overseas degree needs assessment for Express Entry |
+| IELTS or CELPIP | IDP or Paragon | Required | CLB 7 or higher, recommended CLB 9 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 19,500。随着数字化转型和社区图书馆服务扩展，加拿大图书馆员岗位预计缓慢增长，但退休人员多，新人替换需求稳定。大都市机会更多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 19,500. With digital transformation and expansion of community library services, Canadian librarian positions are expected to grow slowly, but due to many retirements, replacement demand is stable. More opportunities in metropolitan areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 公共图书馆或小型机构 |
-| 中级（3-7年） | $65,000~$85,000 | 学术或政府图书馆 |
-| 高级（7年以上） | $85,000~$110,000 | 管理职位或大型图书馆馆长 |
+| Median salary | $85,717 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Public libraries or small institutions |
+| Mid-level (3–7 years) | $65,000~$85,000 | Academic or government libraries |
+| Senior (7+ years) | $85,000~$110,000 | Managerial positions or head librarian at large libraries. |
+| average salary | $87,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从助理馆员起步，积累经验后可晋升为部门主管、馆长或专业领域（如数字馆藏、研究支持）专家。具备管理技能可向信息总监发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Starting as assistant librarian, can progress to department head, curator, or specialist domain (e.g., digital collections, research support). Management skills can lead to information director.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Professional Services
 - Education Sector
@@ -62,68 +98,67 @@ Librarians in Canada have stable demand, eligible for skilled migration via Expr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合年轻、高学历、高语言分的申请人，需一年相关工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 如安省、BC省、阿省等均有针对图书馆员的分项，获省提名加600分 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省若获得雇主offer可申请 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for young applicants with high education and language scores, requiring one year of relevant work experience |
+| Subclass PNP (Provincial Nominee Program) | For example, Ontario, BC, Alberta, etc., have sub-categories for librarians, adding 600 points with a provincial nomination. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces: can apply if a job offer is obtained |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Librarians？**
-- 拥有图书馆学或信息学硕士学历者
-- 英语流利（CLB 8+）且愿意在中小城市工作
-- 热爱知识服务和社区教育的人士
-
-**谁不适合学Librarians？**
-- 嫌薪资增长缓慢者
-- 英语能力不足（CLB 7以下）者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a master's degree in library or information science
+- Fluent in English (CLB 8+) and willing to work in small to medium-sized cities
+- People passionate about knowledge services and community education
+
+**Who is not suited**
+- Those dissatisfied with slow salary growth
+- Those with insufficient English ability (below CLB 7)
+
+---
+
+## 8. FAQ
+
+**Q: What is the real salary of a librarian in Canada?**
+A: Depending on province and institution, junior 50,000-65,000 CAD, mid-level 65,000-85,000, senior up to 110,000+ CAD. Academic libraries typically higher than public.
+
+**Q: How can overseas librarians immigrate to Canada?**
+A: Common pathways: obtain ECA and language scores, then apply for Express Entry, or through a Provincial Nominee Program (PNP). Note that most positions require a Canadian-recognized MLIS degree; a second degree may be needed.
+
+**Q: Do librarians in Canada require local licensure?**
+A: Public libraries typically require an ALA-accredited MLIS; some provinces like Ontario and Quebec have additional requirements, but most do not require a provincial license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Librarians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the actual salary for librarians in Canada?**
-答：Entry-level $50k-$65k CAD, mid-level $65k-$85k, senior up to $110k+. Academic libraries pay more than public ones.
-
-**问：How can overseas librarians immigrate to Canada?**
-答：Common pathways: Express Entry after ECA and language test, or Provincial Nominee. Most jobs require a Canadian-recognized MLIS degree; consider studying a second master's.
-
-**问：Do librarians in Canada need a local license?**
-答：Public libraries typically require an ALA-accredited MLIS; some provinces like Ontario and Quebec have additional requirements, but most do not require a license.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

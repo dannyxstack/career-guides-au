@@ -1,58 +1,90 @@
-# Motor Vehicle Mechanics and Repairers（Motor Vehicle Mechanics and Repairers）职业分析 · ES
+# Motor Vehicle Mechanics and Repairers — career analysis · Spain
 
-**职业代码：7401 – Motor Vehicle Mechanics and Repairers。**
+**Occupation code: 7401 (CNO)**
 
-Diagnose, repair, and maintain mechanical and electrical systems of cars, motorcycles, and other motor vehicles; an essential trade in Spain's transport sector.
+Responsible for diagnosing, repairing, and servicing the mechanical and electrical systems of motor vehicles such as cars and motorcycles, this is an indispensable technical position in Spain's transportation industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费或低学费，私立年均500-800欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费或低学费，部分私立课程1000欧元/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$800 (Public schools offer free or low tuition, while private schools average 500-800 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,000 (Public tuition is free or low, while some private courses cost 1000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 车辆机械维修职业资格证书（FP Grado Medio） | 西班牙教育部或自治区教育部门 | 必备 | 从事该职业的基本学历要求，也可通过职业经验认证获取 |
-| 制冷剂气体操作认证 | 西班牙工业、贸易与旅游部 | 必备 | 维修空调系统需持有，通常通过短期课程获得 |
+| Vehicle Mechanical Maintenance Professional Qualification Certificate (FP Grado Medio) | The Spanish Ministry of Education or the autonomous education department | Required | The basic educational requirements for this profession can also be obtained through professional experience certification |
+| Refrigerant gas operation certification | Spanish Ministry of Industry, Trade and Tourism | Required | Repairing air conditioning systems requires a license, usually obtained through short courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 95,000。西班牙汽车保有量高，电动化转型带来维修技术更新，但新能源车维修需求增长缓慢。预计就业稳定，年轻技工有较好机会。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 95,000. Spain has a high number of cars, and the electrification transition has brought updates in repair technology, but the demand for new energy vehicle repairs is growing slowly. Employment is expected to be stable, with good opportunities for young technicians.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 起薪约€18,000-€22,000，受雇于小型修理厂 |
-| 中级（3-7年） | $22,000~$30,000 | 有经验技工，可升至€22,000-€30,000 |
-| 高级（7年以上） | $30,000~$40,000 | 主技师或车间主管，年薪可达€30,000-€40,000 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salary is about €18,000–€22,000, employed at small repair shops |
+| Mid-level (3–7 years) | $22,000~$30,000 | Experienced technicians can earn up to €22,000–€30,000 |
+| Senior (7+ years) | $30,000~$40,000 | Chief technicians or workshop supervisors can earn an annual salary of €30,000-€40,000 |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒或FP中级毕业起步，积累经验后升任主技师或车间主管，也可考取官方认证开设独立修理厂。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
+
+You can start as an apprentice or intermediate FP graduate, gain experience, and be promoted to chief technician or workshop supervisor, or obtain official certification to open an independent repair shop.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic tools to read standard fault codes and provide common solutions
+- Automatically generate standard maintenance work orders and parts lists from repair database.
+- Automatically generate routine maintenance reminder reports from vehicle sensor data
+
+**Where AI augments the role:**
+
+- Use AI diagnostic systems to quickly locate complex electrical or mechanical faults
+- Overlay maintenance steps and component disassembly instructions via AR glasses
+- Use predictive maintenance algorithms to detect potential vehicle issues early
+- Using natural language processing tools to automatically record maintenance logs
+
+**Human moat:**
+
+- Creative troubleshooting and on-site debugging of non-standard faults
+- Fine disassembly and calibration requiring tactile feedback
+- Comprehensive vehicle condition assessment and repair plan decision-making
+- Customer trust communication and personalized service.
+
+**Skills to build:**
+
+- Mastery of AI diagnostic tools (e.g., Dealer-Fix, TEXA IDC5)
+- Learning hybrid/electric vehicle high-voltage system repair
+- Familiar with in-vehicle network diagnostics and software update processes
+- Practice using AR-assisted maintenance equipment
+- Improve customer service and communication skills
+- Learn the basics of data analysis and predictive maintenance
+
+**Key growth areas:**
 
 - Electric vehicle repair
 - Diagnostic electronics
@@ -61,67 +93,66 @@ Diagnose, repair, and maintain mechanical and electrical systems of cars, motorc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa (Employed)） | 由西班牙雇主提供工作合同，受雇于企业，是常见的居留路径。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 若具备FP Grado Superior或同等学历，可申请欧盟蓝卡，需合同薪资达一定门槛（约€33,000）。 |
+| Subclass Cuenta ajena (Work Contract Visa (Employed)) | Having an employment contract from a Spanish employer and working for a company is a common residency pathway. |
+| Subclass Tarjeta azul UE (EU Blue Card) | If you have an FP Grado Superior or equivalent qualification, you can apply for an EU Blue Card, which requires a contract salary threshold (about €33,000). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motor Vehicle Mechanics and Repairers？**
-- 喜欢动手操作、对汽车机械和电子系统有热情的人
-- 愿意接受持续培训以适应新能源技术的人
-- 希望在西班牙稳定就业且愿意从事体力劳动的人
-
-**谁不适合学Motor Vehicle Mechanics and Repairers？**
-- 不喜欢油污环境或站立工作的人
-- 对技术更新学习缺乏动力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and are passionate about automotive mechanics and electronic systems
+- Those willing to undergo ongoing training to adapt to new energy technologies
+- Those who want stable employment in Spain and are willing to engage in manual labor
+
+**Who is not suited**
+- Not suitable for those who dislike greasy environments or standing work.
+- People who lack motivation to learn about technological updates
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for automotive mechanics in Spain?**
+A: Junior annual salary approx €18,000-€22,000, can rise to over €30,000 with experience, depending on qualifications and employer.
+
+**Q: What are the pathways for foreign automotive mechanics to immigrate to Spain?**
+A: Usually, residency is required through a work contract (Cuenta ajena). If you hold an Advanced Vocational Training (FP Grado Superior) and meet the salary requirements, you can apply for the EU Blue Card.
+
+**Q: What educational background is required to become an automotive mechanic in Spain?**
+A: At least 2 years of intermediate vocational training (FP Grado Medio) or study at a private school and obtain certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Motor Vehicle Mechanics and Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for motor vehicle mechanics in Spain?**
-答：Entry-level annual salary is around €18,000-€22,000, rising to over €30,000 with experience, depending on qualifications and employer.
-
-**问：What are the migration pathways for foreign motor vehicle mechanics to Spain?**
-答：Usually via a work contract (Cuenta ajena) for residency. With higher vocational training (FP Grado Superior) and sufficient salary, EU Blue Card is possible.
-
-**问：What educational background is required to become a motor vehicle mechanic in Spain?**
-答：At least a 2-year intermediate vocational training (FP Grado Medio) or equivalent private certification.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

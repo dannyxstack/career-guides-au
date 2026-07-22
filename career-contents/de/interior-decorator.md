@@ -1,60 +1,96 @@
-# Interior Decorator（Interior Decorator）职业分析 · DE
+# Interior Decorator — career analysis · Germany
 
-**职业代码：9323 – Interior Decorator。**
+**Occupation code: 9323 (KldB)**
 
-Interior decorators design and implement interior space decoration, including selection and installation of wall coverings, flooring, curtains, and furniture, combining aesthetics with functionality.
+Interior decorators are responsible for the decorative design and implementation of interior spaces, including selection and installation of walls, floors, curtains, furniture, etc., focusing on aesthetics and functionality.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 (Ausbildung) | 3年 | —（双元制培训期间有工资，学校可能收取少量材料费） |
-| 专科学校 (Fachschule) | 2年（全日制） | $500~$3,000（部分州免学费，需自付生活费和教材费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Dual system training includes a salary; schools may charge a small material fee) |
+| Fachschule (specialist school) | 2 years (full-time) | $500~$3,000 (Some states offer tuition-free programs; students need to cover living expenses and textbook costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内装饰师职业资格证书 (Gesellenbrief) | 德国手工业协会 (HWK) | 必备 | 完成双元制培训并通过结业考试，是从事该职业的基本资格 |
-| 室内装饰大师证书 (Meister) | 德国手工业协会 (HWK) | 可选 | 允许独立经营和带学徒，提升晋升机会 |
+| Gesellenbrief (Certificate of Competence as Interior Decorator) | German Chamber of Crafts (HWK) | Required | Completing dual system training and passing the final exam is the basic qualification for this occupation |
+| Interior Decoration Master Certificate (Meister) | German Chamber of Crafts (HWK) | Optional | Allows independent operation and taking on apprentices, enhancing promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。德国建筑与翻新市场稳定，室内装饰需求持续。数字化与可持续材料趋势带来新机遇。行业受经济周期影响小，就业前景中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Germany's construction and renovation market is stable, with sustained demand for interior decoration. Digitalization and sustainable materials bring new opportunities. The industry is less affected by economic cycles, with moderate employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，因地区和公司规模差异 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪，可至项目经理或自营 |
+| Median salary | $42,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, varies by region and company size |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $38,000~$48,000 | Pre-tax annual salary, can progress to project manager or self-employment |
+| average salary | $46,068 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级装饰师可晋升为高级装饰师或项目经理，也可向室内设计师、展示设计师等方向发展。经验丰富者可自营工作室或担任设计总监。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+Junior decorators can advance to senior decorator or project manager, and may also move into interior design, display design, and other fields. Experienced decorators can run their own studio or serve as design director.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - Sustainable materials
 - Digital planning
@@ -63,69 +99,68 @@ Interior decorators design and implement interior space decoration, including se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资质，年薪门槛约43,800欧元（2024年），此职业通常不满足，除非在IT或管理岗位 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需德国认可的职业资格（如Ausbildung证书），且雇主提供工作合同 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统，允许来德找工一年，需德语B1或相关资质 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree or equivalent, salary threshold approx €43,800 (2024), this occupation usually does not meet it unless in IT or management roles. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a recognized German vocational qualification (e.g., Ausbildung certificate) and a job offer from an employer |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job-seeking in Germany for one year, requires German B1 or relevant qualifications. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Decorator？**
-- 喜欢创意设计和手工操作的人
-- 注重细节，有审美眼光的人
-- 愿意在德国完成双元制培训的人
-
-**谁不适合学Interior Decorator？**
-- 希望快速高薪的人
-- 不喜欢与客户沟通的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy creative design and hands-on work
+- Detail-oriented person with an eye for aesthetics.
+- Individuals willing to complete dual-system training in Germany
+
+**Who is not suited**
+- Those seeking fast and high pay
+- People who dislike communicating with clients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of interior decorators?**
+A: In Germany, the pre-tax annual salary for interior decorators is about 24,000-48,000 euros, with entry-level around 24,000-30,000 euros, mid-level around 30,000-38,000 euros, and senior up to 48,000 euros. Self-employed income fluctuates greatly.
+
+**Q: How can third-country nationals immigrate to Germany as interior decorators?**
+A: Usually requires completing a recognized dual training program (Ausbildung) in Germany, after which occupational qualifications allow work via skilled migration visas. Non-EU qualifications require credential recognition (Anerkennung). The Opportunity Card allows job searching first.
+
+**Q: What are the career development paths for interior decorators?**
+A: Can progress from junior decorator to senior decorator, project manager, or obtain a Master Craftsman certificate (Meister) to operate independently. Can also transition to interior design, exhibition design, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Interior Decorator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for interior decorators?**
-答：In Germany, interior decorators earn a gross annual salary of approximately €24,000-48,000: entry-level €24,000-30,000, mid-level €30,000-38,000, senior up to €48,000. Self-employed income varies.
-
-**问：How can third-country nationals immigrate to Germany as interior decorators?**
-答：Typically, you need to complete a German recognized vocational training (Ausbildung) and obtain a qualification, then apply for a skilled worker visa. Non-EU qualifications require recognition (Anerkennung). The Opportunity Card allows job searching first.
-
-**问：What are the career development paths for interior decorators?**
-答：You can progress from junior to senior decorator, project manager, or obtain a master craftsman certificate (Meister) to become self-employed. Transitions to interior design or exhibition design are also possible.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

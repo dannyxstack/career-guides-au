@@ -1,63 +1,94 @@
-# 薪资文员（Payroll Clerk）职业分析 · 澳大利亚
+# Payroll Clerk — career analysis · Australia
 
-**职业代码：551112 – Payroll Clerk。**
+**Occupation code: 551112 (ANZSCO)**
 
-薪资文员负责工资核算、考勤、单点报税（STP）、Award解读与合规，是企业薪酬运营的关键支持岗，非技术移民职业。
+A payroll officer handles payroll calculation, timekeeping, Single Touch Payroll (STP) reporting, Award interpretation and compliance. This is a key operational support role in payroll administration, not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV in Accounting/Payroll（常见） | 6~12个月 | $2,000~$6,000（或在岗培训） |
+| Certificate IV in Accounting/Payroll (common) | 6–12 months | $2,000~$6,000 (or on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Payroll 系统认证（MYOB/Xero/SAP） | 厂商 | 可选 | 实用加分 |
+| Payroll system certification (MYOB/Xero/SAP) | Manufacturer/vendor | Optional | Practical bonus points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 40,000。薪酬合规复杂化使熟悉Award与系统的薪资专员需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 40,000. The complexity of payroll compliance has driven steady demand for payroll specialists familiar with Awards and payroll systems.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~2,800 个 | 全国 |
-| Indeed | 1,000~1,900 个 | — |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门 | $58,000~$68,000 | — |
-| 有经验 | $68,000~$82,000 | — |
-| 资深/薪酬主管 | $82,000~$98,000 | — |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level | $58,000~$68,000 | — |
+| Experienced | $68,000~$82,000 | — |
+| Senior / Compensation Manager | $82,000~$98,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向薪酬主管、HR运营发展。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
+
+Can progress into compensation management and HR operations roles.
+
+**Tasks most exposed to AI:**
+
+- Attendance data entry and work hour calculation
+- Single Touch Payroll (STP) data auto-reporting
+- Automatic generation and distribution of payroll
+- Automatically calculate overtime, deductions, and withholdings per preset rules
+- Basic award clause matching and compliance checks
+
+**Where AI augments the role:**
+
+- Leveraging data sets and AI prompts to quickly interpret complex Award clauses
+- Using RPA tools to automatically consolidate multi-channel attendance data
+- Rapid generation of multi-scenario compensation reports and anomaly alerts via AI assistance
+- Use chatbots to handle common employee payroll inquiries
+- Optimize payroll processes and costs using big data analytics
+
+**Human moat:**
+
+- Complex award interpretation and human judgment (e.g., overtime rule disputes)
+- Communicate sensitive topics such as salary adjustments and deductions with employees and management
+- Handling non-standard exceptions (e.g., one-time bonuses, back pay, tax incentives)
+- Final manual review to ensure payroll system and legal compliance
+- Cross-departmental coordination (with HR, finance, legal)
+
+**Skills to build:**
+
+- Proficient in payroll software (e.g., Xero, MYOB, ADP) and RPA tools
+- Master Award interpretation skills and Fair Work regulation updates
+- Data analysis skills (using advanced Excel functions or Python)
+- Applying AI tools (e.g., ChatGPT for clause interpretation, report generation)
+- Communication and conflict resolution skills
+- Basic accounting and tax knowledge (e.g., PAYG, Superannuation)
+
+**Key growth areas:**
 
 - Payroll Systems (MYOB/Xero/SAP)
 - Award Interpretation
@@ -65,57 +96,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学薪资文员？**
-- 细心、熟悉系统与合规者
-- 想进入薪酬/HR运营者
-
-**谁不适合学薪资文员？**
-- 以技术移民为目标者
-- 不喜欢精确重复核算者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals familiar with systems and compliance
+- Those looking to enter payroll/HR operations
+
+**Who is not suited**
+- Those targeting skilled migration
+- Not suited to those who dislike precise, repetitive accounting work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a payroll clerk in Australia?**
+A: Approximately AUD 58,000-98,000, salary managers earn more.
+
+**Q: Can payroll clerks apply for skilled migration?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-薪资文员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲薪资文员工资多少？**
-答：约AUD $5.8万~$9.8万，薪酬主管更高。
-
-**问：薪资文员能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

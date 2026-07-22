@@ -1,61 +1,97 @@
-# Stockers and Order Fillers（Stockers and Order Fillers）职业分析 · 美国
+# Stockers and Order Fillers — career analysis · United States
 
-**职业代码：53-7065 – Stockers and Order Fillers。**
+**Occupation code: 53-7065 (SOC)**
 
-Receive, store, and issue merchandise, materials, equipment, and other items from stockroom or warehouse to fill shelves, racks, tables, or customers' orders; may operate power equipment and mark prices.
+Responsible for receiving, storing, and distributing goods, materials, and equipment; removing stock from storage to replenish shelves, counters, or fulfill customer orders; sometimes operating powered equipment to complete orders; may also mark prices and set up sales displays.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 高中毕业 | —（通常不需要高等教育，高中毕业即可） |
-| 在职培训 | 1个月 | —（短期在职培训，可能涉及设备和安全培训） |
+| High school diploma | High school graduation | $0~$0 (Usually no higher education required; high school diploma is sufficient.) |
+| On-the-job training | 1 month | $0~$500 (Short on-the-job training, possibly involving equipment and safety training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业或同等学历 | 美国各州教育部 | 必备 | 多数雇主要求 |
-| 叉车操作证书 | 职业安全与健康管理局（OSHA） | 可选 | 操作叉车等设备时需持证 |
-| 危险品处理培训 | 雇主或第三方机构 | 可选 | 处理危险材料时可能需要 |
+| High school graduation or equivalent | U.S. State Education Departments | Required | Most employers require |
+| Forklift operator certificate | Occupational Safety and Health Administration (OSHA) | Optional | Requires a license when operating equipment like forklifts |
+| Dangerous goods handling training | Employer or third-party agency | Optional | May be required when handling hazardous materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 1,600,000。随着电子商务持续增长，仓库和配送中心对库存管理员和订单拣货员的需求保持稳定。预计2023-2033年就业增长约4%，与所有职业平均水平相当。自动化仓储系统可能影响部分岗位，但人工操作仍需。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,600,000. With continued e-commerce growth, demand for inventory clerks and order pickers in warehouses and distribution centers remains stable. Estimated 4% job growth from 2023-2033, similar to average for all occupations. Automated warehousing systems may affect some roles, but manual operations still needed.
 
-**竞争度：一般（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$34,000 | 包括订单拣货员、仓库助理 |
-| 中级（3-7年） | $34,000~$42,000 | 经验丰富的库存管理员或团队领导 |
-| 高级（7年以上） | $42,000~$50,000 | 仓库主管或高级库存协调员 |
+| Median salary | $37,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$34,000 | Includes order pickers, warehouse assistants |
+| Mid-level (3–7 years) | $34,000~$42,000 | Experienced inventory supervisor or team leader |
+| Senior (7+ years) | $42,000~$50,000 | Warehouse Supervisor or Senior Inventory Coordinator |
+| average salary | $39,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从订单拣货员或仓库助理起步，可晋升为仓库主管、库存控制专员或物流协调员。积累经验后有机会进入供应链管理或运营管理岗位。大型零售或配送公司提供内部晋升路径。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Inventory managers and order pickers face high risk of automation; AI and robots will significantly replace repetitive picking, counting, etc., reducing entry-level positions, but technical maintenance and exception handling roles remain in demand.
+
+Typically start as order picker or warehouse assistant, can advance to warehouse supervisor, inventory control specialist, or logistics coordinator. Experience can lead to supply chain or operations management. Large retail or distribution companies offer internal advancement paths.
+
+**Tasks most exposed to AI:**
+
+- Pick order items using handheld scanners or voice systems
+- Manually counting inventory and updating records
+- Moving goods using forklifts or pallet jacks
+- Restocking shelves or picking locations
+- Pack and label items according to orders
+
+**Where AI augments the role:**
+
+- Use AI to optimize picking paths and order allocation plans
+- Real-time inventory monitoring and automatic replenishment using IoT sensors and predictive algorithms
+- Managing automated warehousing systems (e.g., robot cluster coordination).
+- Identify inventory anomalies and develop countermeasures through data analysis.
+- Training operators on AI-assisted picking equipment.
+
+**Human moat:**
+
+- Handle exceptions (e.g., damage, misplacement, system failures)
+- Optimizing warehouse layout and process design
+- Cross-departmental coordination and client communication
+- Flexible adaptation to complex physical environments (e.g., irregular cargo)
+- Safety supervision and compliance management
+
+**Skills to build:**
+
+- Advanced operation of Warehouse Management Systems (WMS)
+- Robotic Process Automation (RPA) basics
+- Data analysis and inventory forecasting
+- Automated equipment maintenance (e.g., AGVs, sorters)
+- Supply Chain Management Basics
+- AI tool integration (e.g., recommendation systems, visual recognition)
+
+**Key growth areas:**
 
 - E-commerce growth
 - Warehouse automation
@@ -64,63 +100,65 @@ Receive, store, and issue merchandise, materials, equipment, and other items fro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用于此职业，但特定管理或技术岗位可能符合，极其罕见。 |
-| Subclass EB-3（EB-3 Skilled/Unskilled Worker） | 理论上可以申请劳工证（PERM），但通常需要雇主证明无法招到美国工人，难度大。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 可通过EB-3 Non-skilled类别申请，但排期长且雇主支持困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable for this occupation, but certain management or technical roles may qualify, extremely rare |
+| Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Theoretically, can apply for a labor certification (PERM), but usually requires the employer to prove inability to hire U.S. workers; difficult. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Can apply via EB-3 Non-skilled category, but with long waiting periods and employer sponsorship challenges. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stockers and Order Fillers？**
-- 喜欢体力劳动和动作重复的人
-- 追求快速入职和无需高学历的人
-- 适应仓库环境（如搬运、站立）的人
+**Who is suited**
+- People who enjoy physical labor and repetitive tasks
+- For those seeking quick employment and no high academic requirements
+- People who adapt to warehouse environments (e.g., lifting, standing)
 
-**谁不适合学Stockers and Order Fillers？**
-- 希望高收入和职业晋升快的人
-- 不适应体力劳动或长时间站立的人
+**Who is not suited**
+- Those seeking high income and fast career advancement
+- Those not suited to physical labor or prolonged standing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: This occupation falls into a low salary category, with a median annual salary of about US$35,000 (approximately 2023 data). Entry-level employees earn less, but with experience, there are opportunities to move into management roles with higher pay.
+
+**Q: Is this occupation suitable for immigrating to the United States?**
+A: Not suitable. This occupation typically does not meet H-1B professional requirements; EB-3 unskilled immigration has long wait times (possibly over 10 years) and employer sponsorship is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 一般（★★½☆☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Stockers and Order Fillers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：This is a low-paying occupation with a median annual wage around $35,000 (2023 data). Entry-level workers earn less, but experienced workers in supervisory roles may earn higher.
-
-**问：Is this occupation suitable for immigration to the US?**
-答：No. It typically does not qualify for H-1B specialty occupations. EB-3 unskilled worker green card has extremely long backlogs (10+ years) and employer sponsorship is difficult.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

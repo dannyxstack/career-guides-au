@@ -1,60 +1,96 @@
-# Qualified Workers in Beekeeping and Sericulture（Qualified Workers in Beekeeping and Sericulture）职业分析 · ES
+# Qualified Workers in Beekeeping and Sericulture — career analysis · Spain
 
-**职业代码：6204 – Qualified Workers in Beekeeping and Sericulture。**
+**Occupation code: 6204 (CNO)**
 
-Responsible for raising bees and silkworms, producing honey and other hive products, collecting silk, controlling diseases and pests, and maintaining hives and silkworm facilities to ensure quality and yield.
+Responsible for bee and silkworm breeding, bee product production, silk collection, and pest and disease control, maintaining beehives and silkworm room environments to ensure product quality and output.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 (CFGM) | —（公立学校免费或低学费） |
-| 高级职业教育（FP Grado Superior） | 2年 (CFGS) | —（公立学校免费或低学费） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years (CFGM) | $0~$1,500 (Public schools offer free or low tuition) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years (CFGS) | $0~$2,000 (Public schools offer free or low tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业技术员（Técnico en Producción Agropecuaria） | 教育部 | 必备 | 中等职业教育毕业证书 |
-| 养殖经验或短期培训证书 | 农业协会或职业培训机构 | 可选 | 非强制，但雇主优先考虑 |
+| Agricultural Technician (Técnico en Producción Agropecuaria) | Ministry of Education | Required | Secondary vocational education diploma |
+| Breeding experience or short-term training certificate | Agricultural associations or vocational training institutions | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。西班牙养蜂业受益于有机农业趋势和生态旅游需求，但养蚕规模较小。行业老龄化严重，年轻劳动力缺乏，未来需技术升级和可持续实践。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,200. Spain's beekeeping industry benefits from the trend of organic farming and ecotourism demand, but sericulture is relatively small. The industry is facing severe aging and a shortage of young labor, requiring technological upgrades and sustainable practices in the future.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$35,000 | 税前年薪，含主管或自主经营 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$35,000 | Pre-tax annual salary, including supervisor or self-operated management |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为养蜂场/蚕场主管，或自主创业。进一步深造可从事农业技术顾问、质量控制或研究与开发。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Beekeeping and sericulture rely heavily on field operations, organism assessment, and meticulous manual work, making it difficult for AI to fully replace them. However, AI can significantly improve efficiency in monitoring, prediction, and document management, presenting both risks and opportunities.
+
+You can advance from apprenticeship to beekeeper/silkworm farm supervisor, or start your own business. Further studies can lead to agricultural technology consulting, quality control, or research and development.
+
+**Tasks most exposed to AI:**
+
+- Manually record data such as hive temperature, humidity, and honey yield, and switch to sensors for automatic collection
+- Traditional visual identification of sericulture pests and diseases has been replaced by AI image recognition
+- Repetitive beehive cleaning and simple maintenance tasks are gradually taken over by robots
+- Yield prediction for honey/cocoon production, AI models replace empirical calculations
+- The organization of regulatory reports and certification documents has been replaced by automated office software
+
+**Where AI augments the role:**
+
+- The AI disease early warning system improves the accuracy of early diagnosis of pests and diseases
+- Drones or cameras assist inspections of large-scale apiaries and mulberry gardens
+- The intelligent beehive automatically regulates temperature and humidity, optimizing the bees' living environment
+- Big data analysis guides the optimal bee release routes and honey collection times
+- AI market analysis helps formulate sales strategies and manage inventory
+
+**Human moat:**
+
+- Rapid on-site decision-making for sudden swarm behaviors (such as swarming or escaping).
+- Tasks like queen breeding and silkworm seed selection require years of manual experience
+- Interaction perception with bees/silkworms (such as judging colony sentiment) cannot be quantified
+- Organic certification and other steps that require manual on-site verification
+- Personalized customer relationships and brand stories for smallholders
+
+**Skills to build:**
+
+- IoT equipment operation and maintenance and data analysis
+- Basic programming (Python) is used for custom automation scripts
+- Use of AI image recognition tools (such as disease diagnosis apps)
+- Drone operation and aerial inspection skills
+- Digital Marketing and E-commerce Operations (Direct to Consumer)
+- Biostatistics foundations are used to understand AI predictive models
+
+**Key growth areas:**
 
 - Organic farming
 - Ecotourism
@@ -63,69 +99,68 @@ Responsible for raising bees and silkworms, producing honey and other hive produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由西班牙雇主担保的工作居留，需要工作合同和符合最低工资要求。 |
-| Subclass Cuenta propia（Self-Employment Work Permit） | 适用于自主创业，需提供商业计划并证明经济能力。 |
-| Subclass Ley 14/2013（Highly Skilled Professional Visa） | 针对高技能专业人才，但本职业通常不符合高技术要求，除非有管理或研发岗位。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires a work contract and meeting minimum wage requirements. |
+| Subclass Cuenta propia (Self-Employment Work Permit) | Suitable for independent entrepreneurship, requiring a business plan and proof of financial capability. |
+| Subclass Ley 14/2013 (Highly Skilled Professional Visa) | Targeted at highly skilled professionals, but this profession usually does not meet the requirements for high technical skills, unless there are management or R&D positions. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Qualified Workers in Beekeeping and Sericulture？**
-- 热爱户外工作和动植物
-- 愿意在乡村地区生活
-- 有耐心和细心，注重细节
-
-**谁不适合学Qualified Workers in Beekeeping and Sericulture？**
-- 对昆虫过敏或不适应户外环境
-- 寻求高收入和高社会地位
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoor work and flora and fauna
+- Willing to live in rural areas
+- Be patient and attentive, paying attention to details
+
+**Who is not suited**
+- Allergic to insects or not adapted to outdoor environments
+- Seeking high income and high social status
+
+---
+
+## 8. FAQ
+
+**Q: How do beekeepers and silkworm workers earn?**
+A: Junior workers earn about 18,000-22,000 euros annually, intermediate workers about 22,000-28,000 euros, and senior workers up to 35,000 euros. Income is greatly affected by seasons and output.
+
+**Q: As a non-EU citizen, can you immigrate to Spain through beekeeping work?**
+A: Yes, but it's harder. You must obtain an employer-sponsored work residence (Cuenta ajena) and prove that the position is difficult to fill locally. Entrepreneurship (Cuenta propia) is also an option.
+
+**Q: What kind of educational background is needed?**
+A: Typically, a diploma related to secondary vocational education (FP Grado Medio), such as agricultural technician, is required. You can also start as an apprentice, but formal certificates are more favored by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Qualified Workers in Beekeeping and Sericulture为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of beekeeping and sericulture workers?**
-答：Entry-level workers earn around €18,000-22,000 per year, mid-level €22,000-28,000, and senior up to €35,000. Income is seasonal and depends on production.
-
-**问：Can non-EU citizens migrate to Spain through beekeeping work?**
-答：Yes, but difficult. You need a job offer with employer sponsorship (Cuenta ajena) and proof that the position cannot be filled locally. Self-employment (Cuenta propia) is an alternative.
-
-**问：What education is required?**
-答：Typically, a vocational training degree (FP Grado Medio) in agriculture, such as Agricultural Technician. Apprenticeships are possible, but formal certification is preferred.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

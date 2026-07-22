@@ -1,58 +1,91 @@
-# Education policy researchers, consultants and program officers（Education policy researchers, consultants and program officers）职业分析 · 加拿大
+# Education policy researchers, consultants and program officers — career analysis · Canada
 
-**职业代码：41405 – Education policy researchers, consultants and program officers。**
+**Occupation code: 41405 (NOC)**
 
-Education policy researchers, consultants and program officers analyze education policies, evaluate program effectiveness, provide advisory recommendations, and coordinate the implementation and improvement of education programs.
+Education policy researchers, advisors, and program officers analyze education policies, evaluate program effectiveness, provide advisory recommendations, and coordinate the implementation and improvement of education programs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（学费因省份和学校而异，国际学生更高） |
-| 硕士 | 1-2年 | $15,000~$50,000（教育政策、公共政策或相关领域） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Tuition fees vary by province and school, with higher costs for international students) |
+| Master's degree | 1-2 years | $15,000~$50,000 (Education policy, public policy, or related fields.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域学士学位 | 认可大学 | 必备 | 教育学、公共政策、社会科学等 |
-| 省级教师资格证（如在学校工作） | 省级教师学院 | 可选 | 若在公立教育系统任职可能需要 |
+| Bachelor's degree in a related field | Recognised university | Required | Education, public policy, social sciences, etc. |
+| Provincial teaching qualification (if working in schools) | Provincial teachers' college | Optional | May be required if working in the public education system |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 24,000。加拿大教育政策领域就业前景稳定，政府及教育机构持续需要政策研究与评估人才。预计未来几年岗位数量保持平稳，退休替代需求带来一定机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 24,000. Employment prospects in Canada's education policy field are stable, with government and educational institutions continuing to need policy research and evaluation talent. Job numbers are expected to remain stable in the coming years, with retirement replacement needs offering some opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 入门级职位，政府或非营利组织 |
-| 中级（3-7年） | $60,000~$80,000 | 有经验的顾问或项目官员 |
-| 高级（7年以上） | $80,000~$110,000 | 高级政策研究员或经理 |
+| Median salary | $86,362 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Entry-level positions, government or non-profit organizations |
+| Mid-level (3–7 years) | $60,000~$80,000 | Experienced consultant or project officer |
+| Senior (7+ years) | $80,000~$110,000 | senior policy researcher or manager |
+| average salary | $89,440 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径通常从政策分析或项目协调起步，积累经验后可晋升为高级顾问、政策经理或部门主管。部分人员可转向学术研究或国际教育组织。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Educational policy researchers, advisors, and project officers face mixed impacts from AI: routine data compilation and report generation will be automated, but human skills like policy analysis and stakeholder coordination remain irreplaceable.
+
+Career progression typically starts with policy analysis or project coordination, and with experience, one can advance to senior consultant, policy manager, or department head. Some may transition to academic research or international education organizations.
+
+**Tasks most exposed to AI:**
+
+- Data sorting and basic statistical analysis (e.g., computing education indicators)
+- Draft standardized policy briefs and initial project reports
+- Automated generation of literature reviews and policy document summaries
+- Meeting minutes and project document filing
+
+**Where AI augments the role:**
+
+- Using AI to analyze large-scale educational data to identify policy impact patterns
+- Quickly extract policy document key points using natural language processing
+- Use AI simulation tools to predict the effects of policy interventions.
+- Generate data visualizations using AI for stakeholder communication
+
+**Human moat:**
+
+- Understanding the Cultural and Political Context of Complex Education Systems
+- Build trust and consensus with multiple stakeholders (schools, government, parents)
+- Conduct value judgments and policy ethics trade-offs
+- Design and drive the implementation of innovative education projects
+
+**Skills to build:**
+
+- Data science and machine learning fundamentals (Python/R, statistical modeling)
+- Natural language processing tools (for literature analysis)
+- Data visualization and communication (Tableau, D3.js).
+- AI project management methodology
+- Policy simulation and predictive analysis skills.
+- Ethics and fairness assessment skills
+
+**Key growth areas:**
 
 - Policy Analysis
 - Program Evaluation
@@ -61,64 +94,63 @@ Education policy researchers, consultants and program officers analyze education
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 通过联邦技术移民或加拿大经验类移民，需满足教育和工作经验要求 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份对教育政策相关职业有省提名项目 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Through federal skilled migration or Canadian Experience Class, must meet education and work experience requirements |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have provincial nominee programs for education policy-related occupations |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Education policy researchers, consultants and program officers？**
-- 对教育政策有浓厚兴趣，善于分析数据
-- 具备良好的书面和口头沟通能力
-- 希望从事公共政策或教育管理相关工作
-
-**谁不适合学Education policy researchers, consultants and program officers？**
-- 不喜欢文书工作和研究分析
-- 追求高收入且快速晋升的职业
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in education policy, adept at data analysis
+- Strong written and verbal communication skills
+- Interested in public policy or education management roles
+
+**Who is not suited**
+- Dislike paperwork and research analysis
+- Pursue a career with high income and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of education policy researchers in Canada?**
+A: Junior annual salary approx. CAD 45,000-60,000, Mid-level 60,000-80,000, Senior 80,000-110,000, depending on employer, province, and experience.
+
+**Q: Is this occupation easy to immigrate to Canada through skilled migration?**
+A: This occupation meets Express Entry requirements but is not in shortage, with average competition. Provincial nomination may increase opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Education policy researchers, consultants and program officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for education policy researchers in Canada?**
-答：Entry-level positions earn around CAD 45,000-60,000 per year, mid-level CAD 60,000-80,000, and senior roles CAD 80,000-110,000, depending on employer, province, and experience.
-
-**问：Is this occupation easy to immigrate to Canada through skilled migration?**
-答：This occupation is eligible for Express Entry, but it is not in high demand; competition is moderate. Provincial nomination programs may improve chances.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

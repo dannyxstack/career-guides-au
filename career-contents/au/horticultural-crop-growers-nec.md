@@ -1,61 +1,94 @@
-# Horticultural Crop Growers nec（Horticultural Crop Growers nec）职业分析 · 澳大利亚
+# Horticultural Crop Growers nec — career analysis · Australia
 
-**职业代码：121699 – Horticultural Crop Growers nec。**
+**Occupation code: 121699 (ANZSCO)**
 
-Plan, manage and harvest horticultural crops such as flowers, nursery stock, vegetables and fruit. Duties include crop planning, irrigation, fertilisation and pest control.
+Responsible for planting, managing and harvesting various horticultural crops, including flowers, seedlings, vegetables and fruits. Need to plan planting schedules, manage irrigation and fertilization, and control pests and diseases to ensure crop quality and yield.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育文凭 | 1-2年 | $10,000~$20,000（公立TAFE学费约每年1-2万澳元） |
-| 学士学位（农业科学） | 3-4年 | $30,000~$45,000（大学学费每年约3-4.5万澳元） |
+| Vocational education diploma | 1-2 years | $10,000~$20,000 (Public TAFE tuition approx AUD$10,000-20,000 per year) |
+| Bachelor's degree (Agricultural Science) | 3-4 years | $30,000~$45,000 (University tuition is about 30,000-45,000 AUD per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业科学学士 | 澳洲大学 | 可选 | 相关学位广泛认可 |
-| 三级园艺证书 | TAFE或其他注册培训机构 | 可选 | 入门要求 |
-| 农药施用执照 | 各州农业部门 | 可选 | 若涉及农药使用需持有 |
+| Bachelor of Agricultural Science | Australian universities | Optional | Relevant degrees widely recognised |
+| Certificate III in Horticulture | TAFE or other registered training organisation | Optional | Entry Requirements |
+| Pesticide Application License | State departments of agriculture | Optional | Required if involving pesticide use |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,000。澳洲园艺业受国内外市场需求推动，专业化与出口导向带动就业增长。但受气候、水资源及劳动力短缺影响，从业者需具备技术与商业管理能力。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Australia's horticulture industry is driven by domestic and international market demand, with specialization and export orientation boosting employment growth. However, affected by climate, water resources, and labor shortages, practitioners need technical and business management skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 基础种植工人或助理岗位 |
-| 中级（3-7年） | $60,000~$80,000 | 种植主管或技术员 |
-| 高级（7年以上） | $80,000~$120,000 | 农场经理或业主 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Basic planting worker or assistant position |
+| Mid-level (3–7 years) | $60,000~$80,000 | Planting supervisor or technician |
+| Senior (7+ years) | $80,000~$120,000 | Farm manager or owner |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级劳动者可晋升为种植主管或农场经理，亦可创业成为独立种植者或农场主。具备农业科学背景者可进入技术管理岗位，参与研发与出口业务。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure of horticultural crop growers is being reshaped by AI: repetitive physical labor (e.g., weeding, picking) is more easily automated, but tasks involving fine decision-making, customer communication, and variety innovation are enhanced by AI. Entry barriers may increase; replaceability and augmentation coexist.
+
+Entry-level workers can progress to planting supervisor or farm manager, or start their own business as independent growers or farm owners. Those with agricultural science backgrounds can move into technical management roles, involved in R&D and export operations.
+
+**Tasks most exposed to AI:**
+
+- Routine irrigation and fertilization operations: AI system automatically adjusts water and fertilizer based on soil sensor data.
+- Pest and disease monitoring and identification: AI image recognition automatically scans crops and provides early warnings
+- Simple weeding and trimming: robots use visual navigation to automatically complete field weeding
+- Yield prediction and planting planning: AI models predict yields based on historical data and recommend planting plans.
+
+**Where AI augments the role:**
+
+- Fine variety breeding: AI accelerates phenotype analysis, assists hybrid breeding scheme design
+- Smart field decisions: AI integrates weather and market data to recommend optimal harvest times.
+- Customized planting for customers: AI analyzes customer preferences to plan small-batch diversified planting.
+- Agronomy knowledge query: conversational AI provides real-time pest control and fertilization advice
+
+**Human moat:**
+
+- Creative variety development: understanding consumer trends and designing new varieties
+- Complex field problem solving: disease diagnosis and emergency response in non-standardized environments.
+- Customer Relations and Customized Services: Personalized communication in B2B or high-end markets
+- Ecological and sustainable planting design: management strategies integrating biodiversity and soil health
+
+**Skills to build:**
+
+- Use of AI-assisted crop diagnosis tools (e.g., Plantix, AJO)
+- Smart irrigation and drone inspection system operation
+- Data analysis basics: interpreting sensor data and yield reports
+- Hands-on experience with precision agriculture software (e.g., Trimble Ag Software)
+- Knowledge of sustainable cultivation and certification standards (e.g., organic, GLOBALG.A.P.)
+- Business acumen: market trend analysis and cost-benefit calculation
+
+**Key growth areas:**
 
 - export-driven
 - specialisation
@@ -64,66 +97,65 @@ Plan, manage and harvest horticultural crops such as flowers, nursery stock, veg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保临时签证，可转191永居 |
-| Subclass 491（Skilled Work Regional (Provisional)） | 州担保偏远地区技术移民临时签证，满足条件可转191 |
-| Subclass DAMA（Designated Area Migration Agreement） | 指定地区移民协议，部分偏远地区有优惠条件 |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
+| Subclass 491 (Skilled Work Regional (Provisional)) | State-sponsored skilled migration temporary visa for regional areas, with pathway to 191 permanent visa upon meeting conditions |
+| Subclass DAMA (Designated Area Migration Agreement) | Designated Area Migration Agreements, with concessions in some remote areas. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horticultural Crop Growers nec？**
-- 热爱户外工作与农业实践，对植物生长有浓厚兴趣
-- 愿意在偏远或乡村地区工作，接受季节性劳作
-- 具备基础商业和管理能力，有志自主创业
-
-**谁不适合学Horticultural Crop Growers nec？**
-- 无法忍受体力劳动、户外烈日或潮湿环境
-- 偏好固定城市生活、稳定办公室工作节奏
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor work and agricultural practices, with a strong interest in plant growth
+- Willing to work in remote or rural areas, accepting seasonal labor
+- Possess basic business and management skills and have the ambition to start a business.
+
+**Who is not suited**
+- Unable to tolerate physical labor, outdoor heat, or humid environments
+- Prefer a fixed city lifestyle and stable office work rhythm
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of horticultural crop growers?**
+A: Entry-level annual salary approx. AUD 45,000-60,000, mid-level 60,000-80,000, senior or farm manager up to 80,000-120,000; owner income varies by scale.
+
+**Q: Can horticultural crop growers migrate to Australia through skilled migration?**
+A: This occupation is not on the MLTSSL or CSOL core list, so usually only regional sponsorship (491/494) or DAMA is possible, limiting skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Horticultural Crop Growers nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for horticultural crop growers?**
-答：Entry-level: AUD 45,000-60,000; mid-level: AUD 60,000-80,000; senior/farm manager: AUD 80,000-120,000. Owner earnings vary by scale.
-
-**问：Can horticultural crop growers obtain skilled migration to Australia?**
-答：This occupation is not on the MLTSSL or Core Skills Occupation List, so skilled migration is limited to regional sponsorship (491/494) or DAMA.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

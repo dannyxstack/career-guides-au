@@ -1,61 +1,97 @@
-# Graphic and Multimedia Designer（Graphic and Multimedia Designer）职业分析 · IE
+# Graphic and Multimedia Designer — career analysis · Ireland
 
-**职业代码：2166 – Graphic and Multimedia Designer。**
+**Occupation code: 2166 (ISCO08)**
 
-Graphic and multimedia designers in Ireland create visual concepts, branding, digital media, and interactive designs for advertising, publishing, and tech industries.
+Graphic and multimedia designers in Ireland work in visual design, branding, digital media, and interaction design, serving industries like advertising, publishing, and technology.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（本科） | $10,000~$25,000（学费因院校与欧盟身份而异） |
-| 硕士 | 1-2年（硕士） | $12,000~$30,000（部分院校提供奖学金） |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $10,000~$25,000 (Tuition fees vary by institution and EU citizenship status) |
+| Master's degree | 1-2 years (Master's) | $12,000~$30,000 (Some institutions offer scholarships.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 平面设计学士 | 爱尔兰高等教育机构 | 可选 | 常见学历要求 |
-| Adobe认证专家 | Adobe | 可选 | 非强制但加分 |
-| 作品集 | 自我准备 | 必备 | 求职关键 |
+| Portfolio | Self-preparation | Required | Key Points for Job Seeking |
+| Bachelor of Graphic Design | Irish higher education institutions | Optional | Common educational requirements |
+| Adobe Certified Expert | Adobe | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,800。爱尔兰数字媒体与创意产业持续增长，平面与多媒体设计师需求稳定。都柏林等城市科技公司集中，提供较多机会，但竞争也较激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,800. Ireland's digital media and creative industries are growing steadily, with stable demand for graphic and multimedia designers. Cities like Dublin have a high concentration of tech companies, offering many opportunities but also intense competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-6年） | $38,000~$50,000 | 税前年薪 |
-| 高级（6年以上） | $50,000~$70,000 | 税前年薪，艺术总监可达更高 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (6+ years) | $50,000~$70,000 | Pre-tax Annual Salary: Art Directors Can Earn Higher |
+| average salary | $45,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从初级设计师晋升至高级设计师、艺术总监或创意总监。积累经验后可转向用户体验设计或品牌策略等方向。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Graphic and multimedia designers face a dual impact from AI: repetitive tasks like drafting and simple layouts will be automated, but core skills like creative strategy, brand narrative, and user interaction design are amplified by AI tools, requiring designers to shift to higher-value areas.
+
+Career progression can move from junior designer to senior designer, art director, or creative director. With experience, you can move into UX design or brand strategy.
+
+**Tasks most exposed to AI:**
+
+- Basic image editing and color correction (e.g., batch retouching, background removal)
+- Standard layout design and template application (e.g., posters, PPT templates)
+- Simple dynamic graphic generation (e.g., text animation, basic motion graphics)
+- Bulk social media image generation (auto-match images based on copy)
+- Drawing icons and repetitive UI elements (such as buttons, form input fields)
+
+**Where AI augments the role:**
+
+- Creative concept generation: using AI for brainstorming, style exploration, and visual reference collection
+- User testing and feedback analysis: AI quickly simulates user preferences and usability for designs
+- Personalized design: automatically generate multiple versions based on user data and test effectiveness
+- Multi-format adaptation: AI automatically adapts designs to different sizes, screens, and output formats
+- Collaboration and Communication: AI-assisted generation of design specifications, presentation documents, and client proposals
+
+**Human moat:**
+
+- Brand strategy and narrative ability: translating abstract business goals into visual language
+- Cross-media creative integration: coordinating multiple modalities such as graphics, motion, interaction, and sound.
+- Human emotional resonance and design ethics: understanding cultural context, sensitive topics, and moral boundaries
+- Originality and artistic judgment: breaking conventions to create unique visual symbols
+- Client communication and project management: managing expectations, negotiation, and team collaboration.
+
+**Skills to build:**
+
+- Deep use and prompt engineering of AI design tools (Midjourney, DALL·E, Adobe Firefly)
+- Data analysis basics (user behavior, A/B testing) to drive design decisions
+- Interaction and user experience prototyping (Figma, Axure, Webflow)
+- Motion and 3D design (After Effects, Blender, Spline)
+- Programming basics (HTML/CSS/JavaScript or Python automation scripts)
+- Multimedia narrative and creative direction skills
+
+**Key growth areas:**
 
 - Digital Media
 - User Experience
@@ -64,66 +100,68 @@ Graphic and multimedia designers in Ireland create visual concepts, branding, di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于€30,000 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪需达到€33,594（2019年标准），需相关学历 |
-| Subclass Stamp 1G（Third Level Graduate Scheme） | 毕业生可在毕业后留爱12个月找工作 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations, requires employer sponsorship, annual salary no less than €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions, annual salary must reach €33,594 (2019 standard), requires relevant qualifications. |
+| Subclass Stamp 1G (Third Level Graduate Scheme) | Graduates can stay in Ireland for 12 months after graduation to look for work |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Graphic and Multimedia Designer？**
-- 具有创意与审美能力的人
-- 熟练掌握设计软件的人
-- 适应项目制工作节奏的人
+**Who is suited**
+- People with creativity and aesthetic ability
+- People proficient in design software
+- People who adapt well to project-based work rhythms
 
-**谁不适合学Graphic and Multimedia Designer？**
-- 不喜接受反馈与修改的人
-- 不愿持续学习新技术的人
+**Who is not suited**
+- Those who dislike receiving feedback and modifications
+- People unwilling to continuously learn new technologies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for graphic design in Ireland?**
+A: Entry level approx €28k-€35k, mid-level €38k-€50k, senior €50k-€70k.
+
+**Q: Can a graphic designer immigrate to Ireland for work?**
+A: Applicable for General Employment Permit or EU Blue Card, but requires employer sponsorship and meeting salary requirements.
+
+**Q: What is the career progression for a graphic designer in Ireland?**
+A: Can progress from designer to senior designer, art director, or move into UX design, brand strategy, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Graphic and Multimedia Designer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for graphic designers in Ireland?**
-答：Entry-level €28k-€35k, mid-level €38k-€50k, senior €50k-€70k.
-
-**问：Can graphic designers immigrate to Ireland for work?**
-答：Yes, via General Employment Permit or EU Blue Card, requiring employer sponsorship and salary thresholds.
-
-**问：What is the career progression for graphic designers in Ireland?**
-答：From designer to senior designer, art director, or pivot to UX design, brand strategy.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

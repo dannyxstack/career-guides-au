@@ -1,60 +1,93 @@
-# Woodworking Machine Setters and Operators（Woodworking Machine Setters and Operators）职业分析 · ES
+# Woodworking Machine Setters and Operators — career analysis · Spain
 
-**职业代码：7812 – Woodworking Machine Setters and Operators。**
+**Occupation code: 7812 (CNO)**
 
-Set up, operate and maintain woodworking machines such as saws, planers and routers to produce furniture, panels and other wood products. Steady demand in Spain's wood processing sector.
+Responsible for installing, operating, and maintaining wood processing machinery such as saws, planers, milling machines, and producing furniture, boards, and other wood products. There is stable demand in Spain's wood processing industry.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $300~$2,000（公立学校低学费，私立较高） |
-| 高等职业教育（FP Grado Superior） | 2年 | $400~$2,500（更侧重数控与自动化技术） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $300~$2,000 (Public schools have lower tuition fees, while private ones offer higher fees) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $400~$2,500 (Greater emphasis on CNC and automation technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材加工技术员（FP Técnico en Carpintería y Mueble） | 西班牙教育文化体育部 | 可选 | 官方职业教育学历，非强制但优先 |
-| 职业安全与健康培训 | 劳工部认可机构 | 必备 | 从事该职业需完成基本安全培训 |
+| Occupational safety and health training | Recognized by the Department of Labor | Required | Completing basic safety training in this profession is required |
+| Wood Processing Technician (FP Técnico en Carpintería y Mueble) | Spanish Ministry of Education, Culture and Sports | Optional | Official vocational education diploma, not mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,600。西班牙建筑与家具制造业复苏带动木材加工需求。数字化和自动化趋势要求工人掌握数控操作技能。劳动力老化，年轻替代者不足，就业前景稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,600. The recovery of Spain's construction and furniture manufacturing industry is driving demand for wood processing. Trends in digitalization and automation require workers to master CNC operation skills. The workforce is aging, there are not enough young replacements, and employment prospects are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含社保 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含社保 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including social insurance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从操作员晋升为组长或数控编程员。积累经验后可转向质量控制、生产管理或自主创业开设木材加工作坊。持续学习新机器技术是关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
+
+Operators can be promoted from operator to team leader or CNC programmer. After gaining experience, you can shift to quality control, production management, or start your own wood processing workshop. Continuous learning of new machine technologies is key.
+
+**Tasks most exposed to AI:**
+
+- AI automatically adjusts cutting parameters and paths, reducing manual setup.
+- Machine vision automatically detects wood defects, replacing manual visual inspection.
+- AI optimizes layout and cutting plans, reducing manual planning
+- Automatic tool changing and loading systems, replacing repetitive operations.
+
+**Where AI augments the role:**
+
+- AI-assisted generation of CNC machining programs to reduce programming time
+- Real-time monitoring of tool wear with alerts, improving machining quality and lifespan
+- AI simulates machining processes to optimise cutting parameters and reduce waste
+- Predictive maintenance analysis to reduce downtime
+
+**Human moat:**
+
+- Process non-standard wood components or complex custom machining
+- On-site debugging and troubleshooting of sudden mechanical failures
+- Experienced judgment of wood texture and performance
+- Implementation of safety procedures and emergency response
+
+**Skills to build:**
+
+- CNC programming and operation (e.g., G-code)
+- Computer-aided manufacturing (CAM) software
+- Basic Python or scripting language
+- Mechanical maintenance and fault diagnosis
+- Quality inspection and data analysis
+- Digital twin and simulation software
+
+**Key growth areas:**
 
 - CNC operation
 - automation
@@ -63,62 +96,64 @@ Set up, operate and maintain woodworking machines such as saws, planers and rout
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙雇主提供工作合同，并证明该职位无法由本地人填补。通常需满足最低工资要求。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，但需证明经济能力，且获批率较低。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer proving that the position cannot be filled by a local employee. Usually, minimum wage requirements must be met. |
+| Subclass Busqueda empleo (Job Search Visa) | Allowed to stay in Spain for 6 months to seek employment, but must prove financial capacity, and approval rates are low. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Woodworking Machine Setters and Operators？**
-- 喜欢动手操作机器、对木工技术有兴趣的人
-- 愿意在生产车间环境中工作，注重安全规范
-- 希望学习数控技术，并接受职业培训即可就业的人
+**Who is suited**
+- People who enjoy operating machines manually and are interested in woodworking techniques
+- Willing to work in a production workshop environment, with a focus on safety regulations
+- Those who hope to learn CNC technology and receive vocational training to find employment
 
-**谁不适合学Woodworking Machine Setters and Operators？**
-- 追求高薪或办公室工作环境的人
-- 对体力劳动或重复性工作不适应的人
+**Who is not suited**
+- People seeking high salaries or office environments.
+- For those who are not suited to physical labour or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is there room for salary growth for wood processing operators?**
+A: Yes. Entry-level annual salary €18,000-22,000; with experience and CNC skills, mid-level up to €28,000; senior or management up to €35,000.
+
+**Q: Can foreigners work in this profession through Spanish skilled migration?**
+A: Difficult. This occupation is not in short supply and requires employer sponsorship. EU citizens enjoy free movement, but it is more difficult for third-country citizens to obtain work permits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Woodworking Machine Setters and Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there room for salary growth for woodworking machine operators?**
-答：Yes. Entry-level salaries range from €18k-22k per year. With experience and CNC skills, mid-level can reach €28k, and senior or management roles up to €35k.
-
-**问：Can foreigners work in this occupation via Spanish skilled migration?**
-答：It's difficult. This occupation is not in shortage and requires employer sponsorship. EU citizens have free movement, but third-country nationals face challenges obtaining work permits.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

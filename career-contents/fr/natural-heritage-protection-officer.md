@@ -1,62 +1,96 @@
-# Natural Heritage Protection Officer（Natural Heritage Protection Officer）职业分析 · FR
+# Natural Heritage Protection Officer — career analysis · France
 
-**职业代码：A1204 – Natural Heritage Protection Officer。**
+**Occupation code: A1204 (ROME)**
 
-Responsible for protecting and managing France's natural heritage, including nature reserves, national parks, and marine parks, implementing biodiversity conservation plans, coordinating ecological restoration projects, and enforcing environmental regulations.
+It is responsible for the protection and management of France's natural heritage, including nature reserves, national parks, and marine parks, implementing biodiversity conservation programs, coordinating ecological restoration projects, and overseeing the enforcement of environmental regulations.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTSA 环境管理 | 2年（BTSA） | $500~$2,500（公立学校学费极低，部分通过学徒制(apprentissage)免费） |
-| Licence 生物学/环境科学 | 3年（Licence） | $170~$5,000（公立大学学费约170欧/年，部分私立高商环境课程可达5000欧/年） |
-| Master 生态学/自然遗产管理 | 2年（Master） | $240~$8,000（公立大学约240欧/年；私立或工程师学院项目费用较高） |
+| BTSA Environmental Management | 2 years (BTSA) | $500~$2,500 (Public school tuition is extremely low, with some apprenticeships offered free of charge) |
+| Licence Biology/Environmental Science | 3 years (Licence) | $170~$5,000 (Tuition at public universities is about 170 euros per year, while some private higher commercial environmental courses can cost up to 5,000 euros per year) |
+| Master's in Ecology/Natural Heritage Management | 2 years (Master) | $240~$8,000 (Public universities: approx. 240€/year; private or engineering school programs cost more.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家级自然遗产保护资格认证 | 法国生态转型部 | 可选 | 通过公务员考试(concours)或特定培训获得，部分岗位强制要求 |
-| 环境类硕士学历 | 法国公立大学 | 可选 | 多数岗位要求硕士或同等学历 |
-| 认证生态学家 | 法国生态学会 | 可选 | 专业认可，非强制但有助于职业发展 |
+| National-level natural heritage protection qualification certification | French Ministry of Ecological Transition | Optional | Obtained through the civil service exam (concours) or specific training, with some positions requiring mandatory requirements |
+| Master's degree in environmental studies | A public university in France | Optional | Most positions require a master's degree or equivalent |
+| Certified Ecologist | French Ecological Society | Optional | Professional recognition, non-mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,200。法国政府持续加大对生物多样性和自然遗产保护的投入，未来十年该领域就业岗位预计增长15%。受欧盟绿色新政和法国国家生物多样性战略推动，自然遗产保护专员需求稳定，尤其在保护区管理、生态咨询和环境执法方面。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,200. The French government continues to increase investment in biodiversity and natural heritage protection, with jobs in this sector expected to grow by 15% over the next decade. Driven by the EU's Green New Deal and France's national biodiversity strategy, the demand for natural heritage conservation commissioners remains stable, especially in reserve management, ecological consulting, and environmental enforcement.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公立机构起步，税前年薪 |
-| 中级（4-7年） | $30,000~$40,000 | 含项目协调或保护区副主管角色 |
-| 高级（8年以上） | $40,000~$55,000 | 区域主管或高级专家 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting at a public institution, pre-tax annual salary |
+| Mid-level (4-7 years) | $30,000~$40,000 | Including project coordination or deputy supervisor roles in protected areas |
+| Senior (8+ years) | $40,000~$55,000 | Regional Supervisors or Senior Experts |
+| average salary | $48,330 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★½☆）。** 初级岗位（如保护助理）可晋升为项目协调员或保护区管理员，积累经验后成为高级专家或区域负责人。部分人员转向咨询公司、环保非政府组织或国际机构。公立机构内部晋升需参加公务员考试(concours)。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of natural heritage protection specialists combines on-site and office tasks. AI can automate data analysis and report writing, but on-site ecological monitoring, policy coordination, and community communication still require human judgment. The overall risk is moderate and AI tools must be proactively adapted.
+
+Junior positions (such as protection assistants) can be promoted to project coordinator or protected area manager, and after gaining experience, become a senior expert or regional leader. Some people turned to consulting firms, environmental NGOs, or international organizations. Internal promotions in public institutions require taking the civil service examination (Concours).
+
+**Tasks most exposed to AI:**
+
+- Automatically generate biodiversity monitoring reports and compliance documentation
+- Using AI to analyze satellite images to identify habitat changes
+- Automated species identification and counting (based on image recognition)
+- Predictive models evaluate the effectiveness of protection strategies
+
+**Where AI augments the role:**
+
+- AI-assisted ecological restoration planning (optimizing planting sites and species selection)
+- Real-time sensor data integration and abnormal warning enhance patrol efficiency
+- Risk assessment of invasive species transmission based on big data
+- VR/AR simulations are used for public education and stakeholder communication
+- Multilingual AI tools support cross-border protection cooperation
+
+**Human moat:**
+
+- On-site ecological assessment and emergency decision-making (such as wildlife rescue and disaster response)
+- Negotiate and mediate conflicts with local communities, governments, and businesses
+- Intuitive judgment of ecosystem complexity and uncertainty
+- Ethical dilemma judgments (such as weighing the priority of protecting a species)
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and remote sensing analysis
+- Python/R data analysis and machine learning basics
+- drone operation and ecological monitoring technology
+- Interpretation of environmental policies and regulations
+- Cross-cultural communication and project management
+- AI tool applications (such as automatic recognition software, predictive models)
+
+**Key growth areas:**
 
 - Biodiversity
 - Conservation
@@ -65,66 +99,68 @@ Responsible for protecting and managing France's natural heritage, including nat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Visa） | 需雇主提供工作合同，且通过法国劳动局对岗位本土招募测试，适合在法找到工作的申请人 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才、曾在法留学或特殊贡献者，对自然保护领域专家可能适用，但需要证明特殊才能 |
-| Subclass Recherche emploi（Job Seeking Visa） | 适用于在法完成硕士及以上学历的毕业生，可寻找工作，找到后换为Salarié或Passeport Talent |
+| Subclass Salarié (Employee Visa) | Applicants must provide a work contract from the employer and pass the local recruitment test by the French labor bureau, making them suitable for finding work in France |
+| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled individuals, those who have studied in France or made special contributions, and may apply to experts in the field of nature conservation, but special talent must be demonstrated |
+| Subclass Recherche emploi (Job Seeking Visa) | Suitable for graduates who have completed a master's degree or above in France, who can look for jobs and then switch to Salarié or Passeport Talent after finding one |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Natural Heritage Protection Officer？**
-- 热爱自然和野外工作，重视环保事业
-- 具备生物学、生态学背景，乐于从事跨学科项目
-- 善于沟通协调，能处理与政府、社区的合作
+**Who is suited**
+- Passionate about nature and working outdoors, and values environmental protection
+- Background in biology and ecology, and a passion for interdisciplinary projects
+- Skilled in communication and coordination, able to handle cooperation with governments and communities
 
-**谁不适合学Natural Heritage Protection Officer？**
-- 倾向高薪或快速晋升者
-- 偏好室内办公或城市生活者
+**Who is not suited**
+- Those who prefer high salaries or rapid promotions
+- Those who prefer indoor office work or urban living
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for natural heritage conservation officers in France?**
+A: Entry-level salaries are about 24,000-30,000 euros per year (before tax), intermediate salaries about 30,000-40,000 euros, and seniors up to 55,000 euros. Public institutions have fixed salaries, while private consulting firms may offer higher but fierce competition.
+
+**Q: Are jobs related to French natural heritage conservation friendly to third-country immigrants?**
+A: This profession is not in short demand in France, and positions in public institutions usually require French nationality or EU citizenship. Private consulting firms or NGOs may hire foreigners, but employer-supported work visas are required, making competition fierce. Therefore, opportunities for third-country immigrants are limited.
+
+**Q: What are the career advancement paths for this occupation?**
+A: Typically, they start as conservation assistants or technicians and are promoted to project coordinator, deputy conservation officer, or supervisor after gaining experience. It can also be developed into ecological consulting, environmental policy, or international conservation organizations. Promotion within the public system requires passing an internal exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Natural Heritage Protection Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Natural Heritage Protection Officers in France?**
-答：Entry-level salary is around €24,000-30,000 gross annually, mid-career €30,000-40,000, and senior up to €55,000. Public sector salaries are fixed; private consulting may offer higher pay with more competition.
-
-**问：Is the natural heritage protection profession migration-friendly for third-country nationals?**
-答：This profession is not in shortage in France, and public sector positions often require French or EU citizenship. Private consultancies or NGOs may hire foreigners but need employer sponsorship; competition is high. Opportunities for third-country nationals are limited.
-
-**问：What are the career progression paths for this profession?**
-答：Start as a conservation assistant or technician, then move to project coordinator, deputy manager, or manager of a protected area. Alternatively, transition to ecological consulting, environmental policy, or international conservation organizations. Advancement in the public sector requires passing internal exams.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Commercial and Industrial Designers（Commercial and Industrial Designers）职业分析 · 美国
+# Commercial and Industrial Designers — career analysis · United States
 
-**职业代码：27-1021 – Commercial and Industrial Designers。**
+**Occupation code: 27-1021 (SOC)**
 
-Design and develop manufactured products such as cars, home appliances, and toys, combining artistic talent with research on product use, marketing, and materials to create functional and appealing designs.
+Design and develop manufacturing products for cars, home appliances, toys, etc., combining artistic talent with market and materials research to create designs with both function and appearance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$80,000（公立大学年均学费约1万-2万美元，私立约3万-5万美元） |
-| 硕士学位（可选） | 2年 | $50,000~$100,000（顶级设计学院学费更高） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Public universities average annual tuition about USD 10,000-20,000, private about USD 30,000-50,000) |
+| Master's degree (optional) | 2 years | $50,000~$100,000 (Top design schools have higher tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业设计学士学位 | 大学或设计学院 | 必备 | 通常要求，核心课程包括素描、CAD、材料学、人机工程学 |
-| 专业认证（自愿） | 工业设计师协会 | 可选 | 如IDSA认证可增强竞争力 |
+| Bachelor's degree in Industrial Design | University or design school | Required | Typically required; core courses include sketching, CAD, materials science, ergonomics |
+| Professional certification (voluntary) | Industrial Designers Society | Optional | Certifications like IDSA can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 27,000。美国劳工统计局预计2023-2033年就业增长约5%，与所有职业平均水平相当。制造业回流和消费电子产品需求推动岗位增长，但海外外包可能限制部分机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 27,000. The U.S. Bureau of Labor Statistics projects about 5% employment growth from 2023-2033, about average for all occupations. Nearshoring and consumer electronics demand boost jobs, but offshore outsourcing may limit opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 入门级薪资，取决于地区和公司规模 |
-| 中级（4-7年） | $60,000~$85,000 | 有经验的设计师，可独立负责项目 |
-| 高级（8年以上） | $85,000~$120,000 | 高级设计师或设计经理薪资 |
+| Median salary | $83,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Entry-level salary, depending on region and company size |
+| Mid-level (4-7 years) | $60,000~$85,000 | Experienced designer who can independently manage projects |
+| Senior (8+ years) | $85,000~$120,000 | Salary for senior designers or design managers |
+| average salary | $93,260 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级设计师可从助理或设计技术员起步，积累经验后升任高级设计师或设计总监。部分设计师转入产品管理或创业，或专精于可持续设计、人机工程学等细分领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The creative core and user research skills of commercial and industrial designers are hard to replace, but AI will significantly accelerate concept generation, sketching, and initial rendering, automating repetitive design tasks; overall workload reduced but quality demands higher.
+
+Junior designers can start as assistants or design technicians, gain experience, and advance to senior designer or design director. Some designers move into product management or entrepreneurship, or specialize in sustainable design, ergonomics, etc.
+
+**Tasks most exposed to AI:**
+
+- Generating initial iterations of product concept sketches and design alternatives
+- Create basic 3D models and renderings.
+- Automated market trend analysis and competitor data compilation
+- Standardized writing of material specification sheets
+
+**Where AI augments the role:**
+
+- AI generates multiple design options for designers to evaluate and optimize, enhancing creative efficiency
+- Real-time user testing feedback analysis using AI to guide design improvements
+- AI-driven simulation software accelerates product function verification and human-computer interaction testing
+- AI-assisted manufacturing feasibility analysis shortens design-to-production cycle
+
+**Human moat:**
+
+- Deep user empathy and needs insight (uncovering unexpressed needs through observation and interviews)
+- Cross-boundary creative thinking and unique aesthetic judgment (combining art, culture, function).
+- Complex system design coordination (balancing aesthetics, engineering, cost, branding)
+- Ethics and sustainability decisions (material selection, social impact assessment)
+
+**Skills to build:**
+
+- Proficient in using AI design tools (such as Midjourney, Adobe Firefly, Autodesk Generative Design)
+- Human-machine collaborative workflow design (integrating AI outputs into design processes)
+- User research and data interpretation skills (translating AI analysis into design insights)
+- Rapid prototyping and iteration skills (combining 3D printing, CNC, and other digital manufacturing)
+- Interdisciplinary collaboration (with engineers, marketers, data scientists)
+
+**Key growth areas:**
 
 - Product Design
 - Sustainable Design
@@ -61,69 +93,68 @@ Design and develop manufactured products such as cars, home appliances, and toys
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需雇主担保，本科及以上学历，配额竞争激烈，可申请延期至6年 |
-| Subclass EB-2（EB-2 Advanced Degree） | 需硕士以上或学士加5年经验，通过PERM劳工认证，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合在工业设计领域有杰出成就者，如获奖、媒体报道等，无需劳工证 |
-| Subclass Green Card (PERM)（EB-3 Skilled Worker） | 雇主赞助的PERM劳工证流程，需学士学位或2年经验，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires employer sponsorship, bachelor's degree or higher, highly competitive quota, can apply for extension up to 6 years |
+| Subclass EB-2 (EB-2 Advanced Degree) | Requires a master's or higher, or a bachelor's with 5 years of experience, undergoes PERM labor certification, long wait times |
+| Subclass O-1 (O-1 Extraordinary Ability) | Suitable for those with outstanding achievements in industrial design, such as awards or media coverage, no labor certification needed. |
+| Subclass Green Card (PERM) (EB-3 Skilled Worker) | Employer-sponsored PERM labor certification process, requires bachelor's degree or 2 years experience, long waiting period |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Commercial and Industrial Designers？**
-- 具有艺术与工程双重兴趣的人
-- 善于观察用户需求并转化为产品功能的人
-- 喜欢动手制作模型和使用CAD软件的人
-
-**谁不适合学Commercial and Industrial Designers？**
-- 对细节敏感度低、缺乏创造力的人
-- 不喜欢团队协作和客户沟通的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with dual interests in art and engineering
+- People good at observing user needs and translating them into product features.
+- People who enjoy hands-on building models and using CAD software
+
+**Who is not suited**
+- People with low attention to detail and lack of creativity.
+- Those who dislike teamwork and client communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for commercial and industrial designers?**
+A: Junior designer annual salary approx. USD 45,000–60,000, mid-level approx. USD 60,000–85,000, senior design manager can reach USD 85,000–120,000. Salary varies significantly by experience, region, and industry.
+
+**Q: What US work visas can commercial and industrial designers use for immigration?**
+A: Common paths include H-1B (requires employer sponsorship, quota competition), EB-2/EB-3 green card (PERM labor certification, long wait times), O-1 for extraordinary talent.
+
+**Q: What qualifications are needed to become an industrial and product designer?**
+A: Usually requires a bachelor's degree in industrial design or a related field; some positions prefer a master's. Courses include sketching, CAD, materials science, ergonomics, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Commercial and Industrial Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for commercial and industrial designers?**
-答：Entry-level designers earn about $45,000-$60,000, mid-level $60,000-$85,000, senior/manager $85,000-$120,000. Salaries vary by experience, location, and industry.
-
-**问：What US work visas are available for commercial and industrial designers?**
-答：Common paths include H-1B (employer-sponsored, lottery), EB-2/EB-3 green card (PERM labor certification, long queue), O-1 for extraordinary ability.
-
-**问：What education is required to become a commercial and industrial designer?**
-答：Typically a bachelor's degree in industrial design or related field; some prefer a master's. Coursework includes sketching, CAD, materials science, and ergonomics.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

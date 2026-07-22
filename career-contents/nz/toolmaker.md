@@ -1,59 +1,95 @@
-# Toolmaker（Toolmaker）职业分析 · 新西兰
+# Toolmaker — career analysis · New Zealand
 
-**职业代码：323211 – Toolmaker。**
+**Occupation code: 323211 (ANZSCO)**
 
-Toolmaker is a high-skilled trade in New Zealand's manufacturing sector, with stable demand in precision engineering and processing. Listed on Green List Tier 1, it offers a direct pathway to residence, making it a top choice for skilled migration.
+Tool and die makers are highly skilled tradespeople in New Zealand's manufacturing sector. Due to stable demand from local precision manufacturing and machining industries, and the occupation's inclusion on the Green List Tier 1, it offers a direct pathway to residency, making it a preferred occupation for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制（New Zealand Apprenticeship） | 4年 | $5,000~$20,000（学徒期间雇主承担部分费用，个人学费约每年1250-5000 NZD） |
-| 市场营销5级证书（New Zealand Certificate in Engineering Fabrication - Toolmaking strand） | 2年 | $6,000~$15,000（理工学院全日制课程，国际学生费用更高） |
+| New Zealand Apprenticeship | 4 years | $5,000~$20,000 (Employer covers part of the cost during apprenticeship, personal tuition approximately NZD 1,250-5,000 per year) |
+| New Zealand Certificate in Engineering Fabrication - Toolmaking strand (Level 5) | 2 years | $6,000~$15,000 (Polytechnic full-time programs, higher fees for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家工程制造证书（模具制造方向）Level 4 | 新西兰资格认证局 (NZQA) | 必备 | 完成学徒制后获得，行业标准资格 |
-| CNC编程证书 | 理工学院或私立培训机构 | 可选 | 非强制，但提升就业竞争力 |
-| 新西兰工程注册（可选） | 新西兰工程师协会 (Engineering NZ) | 可选 | 高级职位可能有要求 |
+| National Certificate in Engineering and Manufacturing (Toolmaking strand) Level 4 | New Zealand Qualifications Authority (NZQA) | Required | Obtained after completing an apprenticeship; industry standard qualification |
+| CNC programming certificate | Polytechnics or private training institutions | Optional | Not mandatory, but enhances employment competitiveness |
+| Engineering registration in New Zealand (optional) | Engineering New Zealand (Engineering NZ) | Optional | May be required for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰精密制造和医疗设备行业持续增长，模具制造工需求稳定。未来五年，随着制造业自动化升级，高技能技工更显紧缺。奥克兰和坎特伯雷地区岗位集中，年均增长率约2%。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's precision manufacturing and medical device industries continue to grow, with steady demand for toolmakers. Over the next five years, high-skilled technicians will be in greater shortage as manufacturing automation upgrades. Jobs are concentrated in Auckland and Canterbury, with an annual growth rate of about 2%.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒毕业后起薪约45000 NZD |
-| 中级（3-7年） | $60,000~$80,000 | 熟练技工，通常持有完整资格证书 |
-| 高级（7年以上） | $80,000~$110,000 | 主管或专家级，可能涉及模具设计 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentice starting salary about 45,000 NZD after graduation |
+| Mid-level (3–7 years) | $60,000~$80,000 | Skilled tradesperson, usually holding full qualifications |
+| Senior (7+ years) | $80,000~$110,000 | Supervisor or expert level, may involve mold design |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级模具制造工可晋升为高级技工、团队主管，或专攻CNC编程、模具设计。积累经验后可转向工程经理或自主创业。持续学习CAD/CAM技能是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+Entry-level mold makers can advance to senior technician, team supervisor, or specialize in CNC programming or mold design. With experience, can transition to engineering manager or start own business. Continuous learning of CAD/CAM skills is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Toolmaker is a high-skilled trade in New Zealand's manufacturing sector, with st
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 可直接申请居留，无需工作满2年，需满足职业清单和薪资中位数要求 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，需积累足够分数（学位+工作经验），绿色清单职业有加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为过渡路径，之后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Can apply for residency directly without working for 2 years, subject to occupation list and median salary requirements |
+| Subclass SMC (Skilled Migrant Category) | 6-point technical migration, need to accumulate enough points (degree + work experience), Green List occupations get bonus |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can be a transitional pathway to residence. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Toolmaker？**
-- 动手能力强、细致耐心的人
-- 愿意从事制造业体力与精密劳动的人
-- 希望移民新西兰且职业需求稳定的人
-
-**谁不适合学Toolmaker？**
-- 不喜欢车间环境、油污和噪音的人
-- 追求快速晋升或高薪白领工作的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are hands-on, meticulous, and patient
+- People willing to work in manufacturing involving physical and precision labor
+- People who wish to immigrate to New Zealand and have stable occupational demand
+
+**Who is not suited**
+- People who dislike workshop environments, oil stains, and noise
+- People seeking rapid promotion or high-paying white-collar jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a tool and die maker in New Zealand?**
+A: The salary range for tool and die makers in New Zealand is roughly NZ$45,000-110,000 per year, with a median around NZ$65,000. Entry-level about NZ$45,000-60,000, mid-level NZ$60,000-80,000, senior or supervisor up to NZ$80,000-110,000.
+
+**Q: Can a toolmaker migrate to New Zealand through the Green List?**
+A: Yes, the mould making trade is on the Green List Tier 1, eligible for direct Straight to Residence Visa without requiring two years of work. Main requirements: hold relevant qualifications (NZ Level 4 certificate or equivalent), meet median wage (approx. 29.66 NZD/hour), and have a job offer from an accredited employer.
+
+**Q: How to become a toolmaker in New Zealand?**
+A: Typically through a 4-year apprenticeship (NZ Apprenticeship) and obtaining the New Zealand Certificate in Engineering Fabrication (Toolmaking strand) Level 4. Alternatively, complete a 2-year full-time certificate at a polytechnic, then find a job. International students must check student visa requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-Toolmaker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Toolmaker in New Zealand?**
-答：The salary for a Toolmaker in New Zealand ranges from 45,000 to 110,000 NZD per annum, with a median around 65,000 NZD. Entry-level earns 45,000-60,000, mid-level 60,000-80,000, and senior/lead roles 80,000-110,000 NZD.
-
-**问：Can a Toolmaker migrate to New Zealand via the Green List?**
-答：Yes, Toolmaker is on the Green List Tier 1, eligible for Straight to Residence Visa without a 2-year work period. Key requirements: relevant qualification (NZ Level 4 or equivalent), meeting median wage (approx. 29.66 NZD/hr), and a job offer from an accredited employer.
-
-**问：How to become a Toolmaker in New Zealand?**
-答：Typically through a 4-year New Zealand Apprenticeship leading to the National Certificate in Engineering Fabrication (Toolmaking) Level 4. Alternatively, a 2-year full-time NZ Certificate at a polytechnic. International students must meet visa requirements.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Osteopath（Osteopath）职业分析 · 澳大利亚
+# Osteopath — career analysis · Australia
 
-**职业代码：252112 – Osteopath。**
+**Occupation code: 252112 (ANZSCO)**
 
-Osteopaths diagnose and treat musculoskeletal disorders using manual therapy, muscle energy techniques, and rehabilitation exercises. This role is steadily growing in Australia, particularly valued for sports injuries and chronic pain management.
+Osteopaths diagnose and treat musculoskeletal disorders through manual therapy, muscle energy techniques, and rehabilitation exercises. This profession is steadily growing in the Australian health industry, particularly favored by patients with sports injuries and chronic pain.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科（Bachelor of Osteopathy） | 5年 | $40,000~$60,000（学费总计约AUD 40,000-60,000） |
-| 硕士（Master of Osteopathy） | 2年 | $30,000~$50,000（仅适用于已有相关本科学位者） |
-| 实习/临床要求 | 1年 | —（完成注册前需至少1年督导实习） |
+| Bachelor of Osteopathy | 5 years | $40,000~$60,000 (Total tuition approximately AUD 40,000-60,000) |
+| Master of Osteopathy | 2 years | $30,000~$50,000 (Only suitable for those who already have a relevant bachelor's degree) |
+| Internship/clinical requirements | 1 year | $0~$0 (Completion of at least 1 year of supervised internship before registration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证学位（AHPRA认可） | 澳洲健康从业者监管局（AHPRA） | 必备 | 必须从AHPRA认可课程毕业 |
-| 注册整骨医师 | 澳大利亚整骨医学委员会（Osteopathy Board of Australia） | 必备 | 通过AHPRA完成注册 |
-| 技能评估（移民用） | 澳大利亚整骨医师认证与注册协会（AOA） | 可选 | 用于技术移民签证评估 |
+| Accredited Degree (AHPRA approved) | Australian Health Practitioner Regulation Agency (AHPRA) | Required | Must graduate from an AHPRA-accredited course |
+| Registered Osteopath | Osteopathy Board of Australia | Required | Complete registration through AHPRA |
+| Skills assessment (for immigration) | Australian Osteopathic Accreditation and Registration Authority (AOA) | Optional | Used for skilled migration visa assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。澳洲人口老龄化及公众对非侵入性治疗的需求增加，整骨医师就业前景良好。预计未来5年职位增长约为10-15%，在维州、新州和昆州需求尤为旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Australia's ageing population and increasing public demand for non-invasive treatments create good employment prospects for osteopaths. Job growth is expected at 10-15% over the next 5 years, with particularly strong demand in VIC, NSW and QLD.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 受雇于诊所或体育机构 |
-| 中级（3-8年） | $80,000~$110,000 | 经验丰富可独立接诊 |
-| 高级（8年以上） | $110,000~$150,000 | 拥有私人诊所或合伙人 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $65,000~$80,000 | Employed by clinics or sports organizations |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced and able to see patients independently |
+| Senior (8+ years) | $110,000~$150,000 | Owning a private practice or partnership |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级整骨医师通常在私诊或体育诊所积累经验，随后可晋升为高级医师、诊所经理或合伙人。部分从业者转向教学、研究或开设私人诊所，收入随经验显著提高。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Osteopaths face a mixed outlook: AI/automation supports diagnostic and imaging analysis, boosting individual efficiency, but tasks like documentation, appointment management, and basic rehab guidance face high replacement risk. Entry-level competition increases, while advanced clinical judgment and manual therapy remain strong defenses.
+
+Junior osteopaths typically gain experience in private practice or sports clinics, then advance to senior practitioner, clinic manager, or partner. Some move into teaching, research, or open their own practice, with income increasing significantly with experience.
+
+**Tasks most exposed to AI:**
+
+- Patient history collection and initial screening (structured interviews can be done by AI chatbots)
+- Routine exercise prescription and progress tracking (AI adjusts plan based on data)
+- Appointment management and paperwork (voice-to-text + automated scheduling system)
+- Basic preliminary image interpretation (AI flags abnormal areas for physician review)
+- Insurance claim form completion and coding (auto-generated via natural language processing)
+
+**Where AI augments the role:**
+
+- AI-assisted musculoskeletal ultrasound/MRI image analysis (improving lesion detection rate)
+- Pressure distribution report based on AI gait analysis (to optimise manual therapy strategies)
+- Patient Recovery Prediction Model (Personalized Prognosis and Treatment Duration Estimation)
+- AI-driven remote follow-up and patient education (expanding service coverage)
+- Clinical decision support systems (e.g., differential diagnosis suggestions and real-time literature retrieval)
+
+**Human moat:**
+
+- Fine tactile feedback and real-time adjustment ability in manual palpation and manual therapy
+- Clinical reasoning and multidisciplinary collaboration for complex cases (with comorbid psychological, metabolic diseases, etc.)
+- Ability to build long-term doctor-patient trust and handle patient emotional needs
+- Assuming ultimate responsibility for diagnosis and treatment within legal and ethical frameworks
+- Pattern recognition and innovative treatment design for rare or atypical musculoskeletal diseases
+
+**Skills to build:**
+
+- AI medical image analysis tool operation and result verification (e.g., BoneView, Radiology AI)
+- Use of telehealth platforms (e.g., Physitrack, Curogram)
+- Basics of health data analysis (Python/R for patient follow-up studies)
+- Advanced applications of electronic health record systems (Practice Hub, Cliniko)
+- Communication and patient education skills (to meet empathy demands under AI assistance)
+- Musculoskeletal ultrasound operation and AI-assisted interpretation skills
+
+**Key growth areas:**
 
 - Aging population
 - Sports injuries
@@ -65,70 +101,69 @@ Osteopaths diagnose and treat musculoskeletal disorders using manual therapy, mu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage)） | 雇主担保，需提名职位（ANZSCO 252112），适用短期职业清单，可转186。 |
-| Subclass 186（Employer Nomination Scheme (Permanent)） | 雇主担保永居，需职业评估且满足英语等要求。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，可转191永居。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA项目涵盖整骨医师，条件较宽松。 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage)) | Employer-sponsored, requires nominated occupation (ANZSCO 252112), applicable to Short-term Skilled Occupation List, can transition to 186. |
+| Subclass 186 (Employer Nomination Scheme (Permanent)) | Employer-sponsored permanent residency, requiring a skills assessment and meeting English and other requirements. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship, with pathway to 191 permanent residency. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA projects include Osteopaths, with more relaxed conditions. |
 
-**PR难度：中等偏高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Osteopath？**
-- 擅长手法治疗且对解剖学有浓厚兴趣的人
-- 希望拥有临床自主性和良好职业前景的人
-- 适应灵活工作安排（如自雇或诊所）的人
-
-**谁不适合学Osteopath？**
-- 对长时间站立、体力要求高工作有顾虑的人
-- 不喜欢持续学习和接触复杂病例的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone skilled in manual therapy with a strong interest in anatomy
+- Those seeking clinical autonomy and good career prospects
+- People adaptable to flexible work arrangements (e.g., self-employment or clinic)
+
+**Who is not suited**
+- People concerned about jobs requiring long periods of standing or high physical demands
+- Dislike continuous learning and handling complex cases
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an osteopath in Australia?**
+A: According to Seek data, the average annual salary for osteopaths in Australia is approximately AUD 85,000-100,000. Entry-level around AUD 65,000-80,000, while senior private practitioners can reach AUD 110,000-150,000.
+
+**Q: What are the pathways for osteopaths to immigrate to Australia?**
+A: Main pathways include: 482 employer sponsorship (Short-term Skilled Occupation List), 186 Employer Sponsored Permanent, 494 Skilled Employer Sponsored Regional, and DAMA programs. Requires AOA skills assessment and meeting English language requirements.
+
+**Q: Is osteopath a shortage occupation in Australia?**
+A: Yes. The JSA Skills Priority List lists osteopaths as a regional shortage occupation, especially in remote areas. Competition is moderate in metropolitan areas of Victoria and New South Wales.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等偏高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等偏高（★★★½☆） |
-
-Osteopath为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an osteopath in Australia?**
-答：According to Seek, the average salary ranges from AUD 85,000 to 100,000. Entry-level osteopaths earn around AUD 65,000-80,000, while senior practitioners in private practice can earn AUD 110,000-150,000.
-
-**问：What are the migration pathways for osteopaths to Australia?**
-答：Main pathways include the 482 TSS visa, 186 employer nomination, 494 regional visa, and DAMA. Applicants need a skills assessment from AOA and meet English requirements.
-
-**问：Is osteopath a shortage occupation in Australia?**
-答：Yes. JSA Skills Priority List lists it as a regional shortage occupation, with higher demand in remote areas. Competition is moderate in metropolitan areas of VIC and NSW.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,68 +1,98 @@
-# 职业治疗师（Occupational Therapist）职业分析 · 澳大利亚
+# Occupational Therapist — career analysis · Australia
 
-**职业代码：252411 – Occupational Therapist。**
+**Occupation code: 252411 (ANZSCO)**
 
-职业治疗师帮助残障人士、老年人和伤病患者恢复日常生活和工作能力，服务于NDIS残障支持计划、老年护理、医院、学校和社区健康机构。NDIS改革是近5年最大需求驱动力。
+Occupational therapists help people with disabilities, older adults and those recovering from illness or injury to regain the ability to perform daily activities and return to work. They work across NDIS disability support, aged care, hospitals, schools and community health settings. NDIS reforms have been the biggest demand driver over the past five years.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor/Master of Occupational Therapy（4年） | 4年（全日制） | $25,000~$160,000（澳洲国际生约 $37,000~$42,000/年；政府补贴名额约 $7,000~$9,000/年） |
-| 海外资历评估（OTC + AHPRA注册） | 6~12个月 | $1,500~$5,000（含 Occupational Therapy Council 评估和AHPRA注册费） |
+| Bachelor/Master of Occupational Therapy (4 years) | 4 years (full-time) | $25,000~$160,000 (International students in Australia: approximately $37,000–$42,000/year; government-subsidised places: approximately $7,000–$9,000/year) |
+| Overseas qualification assessment (OTC + AHPRA registration) | 6–12 months | $1,500~$5,000 (Includes Occupational Therapy Council assessment and AHPRA registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor/Master of Occupational Therapy | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Occupational Therapy Registration | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
-| OTC（Occupational Therapy Council）评估 | Occupational Therapy Council of Australia | 可选 | 海外OT学历评估 |
-| NDIS Provider Registration | NDIS Quality and Safeguards Commission | 可选 | 独立NDIS服务提供商必须注册 |
+| Bachelor/Master of Occupational Therapy | Recognised university | Required | Baseline qualification for AHPRA registration |
+| AHPRA Occupational Therapy Registration | AHPRA | Required | Nationally unified registration; practice is not permitted without this registration |
+| OTC (Occupational Therapy Council) assessment | Occupational Therapy Council of Australia | Optional | Overseas OT qualification assessment |
+| NDIS Provider Registration | NDIS Quality and Safeguards Commission | Optional | Independent NDIS service providers must be registered |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 25,000。JSA 预测职业治疗师至2035年就业增长约25%（医疗类增速最快之一）。NDIS计划（约100万参与者）和老年护理改革是主要驱动力。
+**Job demand: very high (★★★★★).** National workforce approx. 25,000. JSA projects employment growth for occupational therapists at approx. 25% by 2035 (one of the fastest among medical roles). The NDIS (approx. 1 million participants) and aged care reforms are key drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,500 个 | 全国，含NDIS、老年护理、儿童和医院岗 |
-| Indeed | 700~1,500 个 | 含兼职和合同工 |
-| LinkedIn | 300~700 个 | 偏管理、专科和NDIS服务商岗 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册OT（0~2年） | $68,000~$82,000 | 公立医院或初级NDIS，含奖励调整 |
-| 中级OT（2~8年） | $82,000~$105,000 | Indeed 平均 $97,965；SEEK 区间 $80k~$110k（2026） |
-| 资深/专科OT（8年+） | $105,000~$140,000 | 儿童早期干预和精神健康OT薪资溢价明显 |
-| NDIS自营服务商（5年+） | $120,000~$200,000 | 注册为NDIS服务提供商，自主接案可大幅提升收入 |
-| 农村/偏远地区OT | $90,000~$125,000 | 农村医疗津贴和签约奖金，实际待遇高于城市 |
+| Median salary | $99,476 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered OT (0–2 years) | $68,000~$82,000 | Public hospital or entry-level NDIS, including award adjustments |
+| Intermediate OT (2–8 years) | $82,000~$105,000 | Indeed average $97,965; SEEK range $80k–$110k (2026) |
+| Senior/Specialist OT (8+ years) | $105,000~$140,000 | Salary premium is notable for early childhood intervention and mental health OT roles |
+| NDIS self-employed service provider (5+ years) | $120,000~$200,000 | Register as an NDIS service provider — taking on independent clients can significantly boost income |
+| Rural/remote OT | $90,000~$125,000 | Rural health allowances and sign-on bonuses mean actual remuneration exceeds metropolitan rates |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持续增长。儿童早期干预和心理健康OT是薪资溢价最高的专科方向。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
+
+NDIS is the biggest employment growth engine for occupational therapists, with over 1 million participants and growing. Early childhood intervention and mental health OT are the specialisations with the highest salary premiums.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating standardized assessment scales and score statistics
+- Use NLP to analyze patient diaries and generate rehabilitation progress summaries.
+- AI voice assistants record therapy sessions and summarize key points
+- Robot-assisted completion of repetitive limb training exercises
+- Automated scheduling and medical record archiving
+
+**Where AI augments the role:**
+
+- AI provides personalized activity recommendations and adaptive rehabilitation plans
+- Wearable device data analysis aids in identifying patient fatigue and risks
+- Virtual reality (VR) simulations of daily scenarios for desensitization training
+- Generative AI creating visual teaching aids and home practice guides
+- Predictive models for early warning of functional decline and intervention strategy adjustment
+
+**Human moat:**
+
+- Building and maintaining therapeutic relationships face-to-face
+- Unstructured activity analysis, improvisation, and creative adaptation
+- Assessing real-world engagement in complex social contexts
+- Human-Centered Communication and Decision-Making in Interdisciplinary Team Collaboration
+- Emotional guidance and motivation for patients/family members
+
+**Skills to build:**
+
+- Use and tuning of AI rehabilitation plan generation tools
+- Wearable device data analysis and visual interpretation
+- VR/AR therapy content design and basic programming
+- Human-robot collaborative therapy process design and ethical evaluation
+- Application of digital health records and intelligent reporting systems
+- AI-based remote rehabilitation monitoring and intervention
+
+**Key growth areas:**
 
 - NDIS Disability Support Services
 - Aged Care OT
@@ -72,92 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，OT为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，NDIS和农村OT享优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区OT，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; OT is a core shortage role |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; NDIS and rural OT applicants receive priority |
+| Subclass 491 (Skilled Work Regional) | Remote areas OT, nomination adds 15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学职业治疗师？**
-- 已持有国内职业治疗/康复医学学位（4年制以上）
-- 英语能力达到 OET B / IELTS 7.0
-- 有耐心、同理心和良好的沟通能力
-- 对NDIS残障支持或儿童早期干预有兴趣
-- 目标是NDIS自营服务商（高收入路径）
-
-**谁不适合学职业治疗师？**
-- 英语能力较弱，OTC评估困难
-- 不适应社区走访和高度多样化的工作场景
-- 缺乏耐心，难以应对长期慢性康复工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds a domestic degree in Occupational Therapy/Rehabilitation Medicine (4+ years).
+- English proficiency at OET B / IELTS 7.0
+- Patient, empathetic, and possesses strong communication skills
+- Interest in NDIS disability support or early childhood intervention
+- Goal is to become an NDIS self-employed service provider (high-income pathway)
+
+**Who is not suited**
+- Low English proficiency, OTC assessment difficult
+- Unable to adapt to community outreach and highly diverse working environments
+- Lack of patience, making it difficult to manage long-term chronic rehabilitation work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an occupational therapist in Australia?**
+A: Mid-level OT annual salary approximately $82,000–$105,000 (Indeed average $97,965); senior specialist OT approximately $105k–$140k; NDIS self-employed providers can reach $150k–$200k+.
+
+**Q: Is it easy to find work as an OT in Australia?**
+A: Extremely easy. Over 1 million NDIS participants and growing; after certification, almost immediate employment, with NDIS agencies actively recruiting and often offering sign-on bonuses.
+
+**Q: Is a Chinese occupational therapy degree recognised in Australia?**
+A: Complete an academic assessment through OTC (Occupational Therapy Council of Australia), confirm the requirements, then apply for AHPRA registration. The main barrier is English proficiency (OET B / IELTS 7.0+). The total process takes approximately 6–12 months.
+
+**Q: Will occupational therapists be replaced by AI?**
+A: The risk of automation is extremely low. Personalised functional assessments, NDIS goal-setting, and patient interaction are core services that AI cannot replace. AI-assisted assessment tools serve as aids, not replacements.
+
+**Q: Is there an age limit for OTs in Australia?**
+A: No upper age limit for practice. OT work is diverse, spanning community to aged care settings, with moderate physical demands.
+
+**Q: What qualifications are required to become an OT in Australia?**
+A: A degree in occupational therapy (Bachelor/Master, typically 4 years) is required. Those who completed an OT or rehabilitation medicine degree in their home country (4 years) may apply for an OTC assessment.
+
+**Q: Is it difficult to become a certified OT in Australia?**
+A: Moderate difficulty. The OTC assessment is primarily an academic qualification review with no demanding clinical examinations. English proficiency is the main barrier, with OET B requiring satisfactory scores in speaking and listening.
+
+**Q: Which is more suitable for skilled migration to Australia — OT or physiotherapy?**
+A: Both have similar PR pathways and salaries. OT's unique advantage is the NDIS market (millions of participants), with higher earning potential for self-employed providers; physiotherapists have unique opportunities in sports and rehabilitation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA | OT注册要求 |
-| Occupational Therapy Council | 海外OT学历评估 |
-| Indeed AU | OT平均薪资 $97,965（2026） |
-| NDIS | NDIS参与者和服务商信息 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-职业治疗师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲职业治疗师工资多少？**
-答：中级OT年薪约 $82,000~$105,000（Indeed平均$97,965）；资深专科OT约 $105k~$140k；NDIS自营服务商可达 $150k~$200k+。
-
-**问：澳洲OT容易找工作吗？**
-答：极容易。NDIS参与者超100万且持续增长，持证后几乎立即入职，NDIS机构主动招募且常提供签约奖金。
-
-**问：中国职业治疗学位澳洲认可吗？**
-答：通过 OTC（澳洲职业治疗委员会）学历评估，确认标准后申请AHPRA注册。主要门槛是英语成绩（OET B/IELTS 7.0+）。总周期约6~12个月。
-
-**问：职业治疗师会被AI替代吗？**
-答：替代风险极低。个性化功能评估、NDIS目标制定和患者互动是AI无法替代的核心服务。AI辅助评估工具是助手，不是替代品。
-
-**问：澳洲OT有年龄限制吗？**
-答：无执业年龄上限。OT工作多样化，从社区到老年护理均有，体力要求适中。
-
-**问：澳洲OT需要什么学历？**
-答：需要职业治疗学位（Bachelor/Master，通常4年制）。国内OT或康复医学本科（4年制）可申请OTC评估。
-
-**问：澳洲OT认证难吗？**
-答：难度中等。OTC评估主要是学历审核，不需要高难度临床考试。英语是最主要门槛，OET B要求口语和听力达标。
-
-**问：OT和物理治疗师哪个更适合技术移民澳洲？**
-答：两者PR路径和薪资相近。OT的独特优势是NDIS市场（百万参与者），自营服务商收入潜力更高；物理治疗师在体育和运动康复方向有独特机会。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

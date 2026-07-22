@@ -1,58 +1,91 @@
-# Team Leader in Processing Industry（Team Leader in Processing Industry）职业分析 · FR
+# Team Leader in Processing Industry — career analysis · France
 
-**职业代码：H2504 – Team Leader in Processing Industry。**
+**Occupation code: H2504 (ROME)**
 
-Oversees and manages teams on production lines in the processing industry, ensuring efficient, safe, and quality-compliant operations. Coordinates staffing, production scheduling, and problem-solving.
+Responsible for supervising and managing teams on processing industrial production lines to ensure production processes are efficient, safe, and meet quality standards. Coordinate personnel arrangements, production scheduling, and problem-solving.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭+专业培训 | 2年（BTS） | —（公立学校低学费，学徒制免费且有工资） |
-| 大学技术学士 | 3年（Licence professionnelle） | $500~$12,000（公立大学学费约500€/年，私立高商更高） |
+| High school diploma + professional training | 2 Years (BTS) | $0~$10,000 (Public schools offer low tuition, apprenticeships are free and paid) |
+| Bachelor of Technology from the university | 3 years (Licence professionnelle) | $500~$12,000 (Public university tuition is about €500 per year, while private commercial schools offer even higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 团队主管 | 法国工业联盟（UIMM）等 | 可选 | 行业认证，非强制但受雇主青睐 |
-| BAC+2 工业管理文凭 | 教育部认可院校 | 可选 | 如BTS或DUT，常见入职要求 |
+| CQP Team Leader | and the French Union of Industrial Industries (UIMM), among others | Optional | Industry certification, non-mandatory but favored by employers |
+| BAC+2 Diploma in Industrial Management | Institutions recognized by the Ministry of Education | Optional | Such as BTS or DUT, common entry requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国加工工业（如食品、化工、冶金）面临技术升级和数字化转型，对能管理多技能团队的主管需求稳定。预计未来5年岗位数量小幅增长，尤其在自动化和精益生产领域。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France's processing industries (such as food, chemical, and metallurgy) face technological upgrades and digital transformation, with stable demand for supervisors capable of managing multi-skilled teams. The number of job openings is expected to grow slightly over the next five years, especially in the fields of automation and lean production.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | 税前年薪，不含奖金 |
-| 中级（4-7年） | $33,000~$40,000 | 有经验，可能包含绩效奖金 |
-| 高级（8年以上） | $40,000~$50,000 | 管理大型团队或复杂生产线 |
+| Median salary | $36,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$33,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (4-7 years) | $33,000~$40,000 | Experience required, which may include performance bonuses |
+| Senior (8+ years) | $40,000~$50,000 | Managing large teams or complex production lines |
+| average salary | $38,952 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从生产线操作员晋升为团队主管，进而晋升为生产经理或工厂经理。通过参加管理培训（如CQP）或获得工程师文凭可加速晋升。也可转向质量、物流或项目管理等平行岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of processing industry team leaders will undergo a moderate degree of automation reshaping: AI optimizes production scheduling and monitoring, but interpersonal coordination, on-site decision-making, and safety management remain central, with mixed benefits.
+
+You can be promoted from production line operator to team supervisor, and then to production manager or plant manager. Accelerated promotion can be achieved by attending management training (such as CQP) or obtaining an engineering diploma. You can also switch to parallel roles such as quality, logistics, or project management.
+
+**Tasks most exposed to AI:**
+
+- Automated production scheduling and scheduling: AI can automatically generate production plans based on real-time data, replacing manual coordination.
+- Quality Abnormality Reporting: AI visual inspection automatically identifies defects and generates reports, reducing supervisor on-site inspections.
+- Performance data aggregation: AI automatically collects KPIs such as output and downtime, replacing manual statistics.
+- Standard Operating Procedure Instruction Distribution: The AI system can push standardized processes to workers without requiring verbal communication from supervisors.
+
+**Where AI augments the role:**
+
+- Anomaly root cause analysis: AI provides historical data correlation analysis to help supervisors quickly pinpoint causes of downtime or quality issues.
+- Employee Skill Matching: AI recommends training or task assignments based on performance data, optimizing team efficiency.
+- Safety Alert: AI analyzes sensor data to predict equipment faults or safety hazards, assisting supervisors in preventive intervention.
+- Multidimensional Report Interpretation: AI-generated visual dashboards enable supervisors to quickly grasp the overall status of the production line.
+
+**Human moat:**
+
+- Team management and conflict mediation: Handling interpersonal conflicts, boosting morale, and personalized communication cannot be replaced by AI.
+- On-site emergency decision-making: Facing sudden accidents, equipment failures, and other complex situations, immediate judgment and responsibility are required.
+- Cross-departmental coordination: Negotiate resources and priorities with other supervisors, quality, maintenance, and other departments, relying on interpersonal relationships and trust.
+- Process Improvement Insights: Combining experience and frontline feedback to propose non-standard improvement solutions that go beyond data-driven approaches.
+
+**Skills to build:**
+
+- Data interpretation and visualization tools (such as Tableau)
+- Operation of AI production scheduling and monitoring systems (such as SAP APO)
+- Basic machine learning concepts (such as anomaly detection principles)
+- Lean production and Six Sigma methods
+- Cross-cultural team management skills
+- Use of digital security management systems
+
+**Key growth areas:**
 
 - Industry 4.0
 - Lean Manufacturing
@@ -61,67 +94,66 @@ Oversees and manages teams on production lines in the processing industry, ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Visa） | 法国公司担保的工作居留，需证明职位无法由欧盟公民担任，适用于长期雇佣合同（CDI）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适合高技能人才或紧缺职业，要求年薪至少2倍SMIC（约42,000€起），快速通道。 |
+| Subclass Salarié (Salarié (Employee) Visa) | Work residence sponsored by a French company requires proof that the position cannot be held by an EU citizen, and is subject to long-term employment contracts (CDI). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled workers or shortage occupations, requires annual salary at least 2 times the SMIC (approx. EUR 42,000+), fast-track. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Team Leader in Processing Industry？**
-- 有工业生产线或制造业经验，希望晋升管理岗位的人
-- 具备组织协调能力和问题解决能力，能承受工作压力
-- 对精益生产和工业4.0有兴趣，愿意学习新技术
-
-**谁不适合学Team Leader in Processing Industry？**
-- 不擅长管理团队和处理人际关系冲突的人
-- 偏好稳定办公环境而非快节奏工厂的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with experience in industrial production lines or manufacturing who wish to be promoted to management positions
+- Possess organizational and coordination skills and problem-solving abilities, and be able to handle work pressure
+- Interested in lean production and Industry 4.0, and willing to learn new technologies
+
+**Who is not suited**
+- People who are not good at managing teams or handling interpersonal conflicts
+- People who prefer stable office environments over fast-paced factories
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for team leaders in the processing industry?**
+A: Junior: approximately €28,000–33,000; mid-level: €33,000–40,000; senior: up to €50,000. Salary varies by industry, region, and company size; lower in food, higher in chemical and metallurgy.
+
+**Q: How can foreign applicants obtain a work visa for a team supervisor in the French processing industry?**
+A: You can use the Salarié work visa (employer sponsorship required, proving the job cannot be filled by an EU citizen) or Passeport Talent (requiring an annual salary ≥of €42,000 and in a high-demand occupation). The French government encourages recruiting talent for the industrial sector, but French language proficiency (B2 level) is required.
+
+**Q: What career promotion paths are available for team leaders in the processing industry?**
+A: You can be promoted to Production Manager, Plant Manager, or transition to quality, logistics, or project management. Attending management training or obtaining an engineering diploma can accelerate promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Team Leader in Processing Industry的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a team leader in processing industry?**
-答：Junior: €28,000-33,000, mid-level: €33,000-40,000, senior: up to €50,000. Salaries vary by industry, region, and company size, with food processing lower and chemicals/metallurgy higher.
-
-**问：How can a foreign applicant obtain a work visa for team leader in processing industry in France?**
-答：Via Salarié visa (employer sponsorship, labor market test) or Passeport Talent (salary ≥ €42,000, shortage occupation). French government encourages industrial recruitment, but French proficiency (B2) is required.
-
-**问：What are the career advancement paths for a team leader in processing industry?**
-答：Can advance to production manager, plant manager, or transition to quality, logistics, project management. Management training or an engineering degree accelerates promotion.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Family and Consumer Sciences Teachers, Postsecondary（Family and Consumer Sciences Teachers, Postsecondary）职业分析 · 美国
+# Family and Consumer Sciences Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1192 – Family and Consumer Sciences Teachers, Postsecondary。**
+**Occupation code: 25-1192 (SOC)**
 
-Teach courses in childcare, family relations, finance, nutrition, and home management at postsecondary level, combining teaching and research.
+Teach courses in childcare, family relationships, finance, nutrition, and home management, combining teaching and research.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-7年 | $100,000~$200,000（学费因院校和奖学金而异，私立大学较高） |
-| 硕士 | 2年 | $40,000~$80,000（学费因院校和地区而异） |
+| Doctorate | 5-7 years | $100,000~$200,000 (Tuition varies by institution and scholarships, higher at private universities) |
+| Master's degree | 2 years | $40,000~$80,000 (Tuition fees vary by institution and region.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认可大学 | 必备 | 家庭消费科学或相关领域博士是教授职位的标准要求 |
-| 教师资格证 | 州教育委员会 | 可选 | 部分社区学院可能要求 |
+| Doctoral degree (PhD) | Recognised university | Required | A PhD in family consumer science or a related field is the standard requirement for professor positions |
+| Teaching license/certificate | State Board of Education | Optional | May be required by some community colleges |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,300。预计2022-2032年就业增长约2%，增速低于平均水平。高等教育入学率波动及预算限制影响岗位需求，但退休更替可提供一定机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,300. Projected employment growth of about 2% from 2022 to 2032, slower than average. Fluctuations in higher education enrolment and budget constraints affect demand, but replacement needs from retirements may provide some opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 助理教授起薪 |
-| 中级（4-9年） | $65,000~$85,000 | 副教授或资深助理教授 |
-| 高级（10年以上） | $85,000~$120,000 | 正教授 |
+| Median salary | $75,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$65,000 | Assistant professor starting salary |
+| Intermediate (4-9 years) | $65,000~$85,000 | Associate professor or senior assistant professor |
+| Senior (10+ years) | $85,000~$120,000 | Full professor |
+| average salary | $81,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从助理教授晋升副教授、正教授，可通过科研产出和教学评估获得终身教职。也可转向系主任、学术项目总监等管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Promotion from assistant professor to associate and full professor; tenure possible through research output and teaching evaluations. May also move into administrative roles like department head or academic program director.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Postsecondary Education
 - Family Studies
@@ -63,66 +99,65 @@ Teach courses in childcare, family relations, finance, nutrition, and home manag
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于大学教师，需有博士或同等学位，大学作为雇主申请，名额有限 |
-| Subclass EB-2（EB-2 Advanced Degree） | 基于高级学位的职业移民，需PERM劳工证，适合副教授及以上 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于有杰出研究或教学成果的教授，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to university lecturers, requiring a PhD or equivalent degree; the university applies as the employer; limited quotas |
+| Subclass EB-2 (EB-2 Advanced Degree) | Advanced degree-based occupational immigration, requires PERM labor certification, suitable for associate professors and above |
+| Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding research or teaching achievements, no labor certification required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Family and Consumer Sciences Teachers, Postsecondary？**
-- 对家庭科学、营养学、消费者行为有研究热情的人
-- 擅长教学和指导学生的学者
-- 愿意攻读博士学位并从事学术研究的人
-
-**谁不适合学Family and Consumer Sciences Teachers, Postsecondary？**
-- 无法投入5-7年博士学习的人
-- 希望高薪且快速升职的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for researching family science, nutrition, and consumer behavior
+- Scholar skilled in teaching and guiding students
+- People willing to pursue a PhD and engage in academic research
+
+**Who is not suited**
+- People who cannot commit to 5-7 years of PhD study
+- Those seeking high pay and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for family and consumer science teachers?**
+A: Junior assistant professor annual salary approximately USD 50,000-65,000, full professor up to USD 85,000-120,000, but overall lower than engineering professors.
+
+**Q: Is it difficult for foreigners to become home and consumer science teachers in the US?**
+A: High, requires a PhD and high competitiveness, H-1B visa cap tight, EB-2 green card requires PERM, and university funding is limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Family and Consumer Sciences Teachers, Postsecondary为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for family and consumer sciences teachers?**
-答：Entry-level assistant professors earn about $50,000–$65,000, while full professors can earn $85,000–$120,000, generally lower than engineering professors.
-
-**问：Is it difficult for foreigners to immigrate as family and consumer sciences teachers in the US?**
-答：Very difficult, requiring a PhD, high competition, limited H-1B caps, and EB-2 green card requiring PERM, with limited employer sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

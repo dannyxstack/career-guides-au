@@ -1,61 +1,97 @@
-# Social Security Assessor（Social Security Assessor）职业分析 · 澳大利亚
+# Social Security Assessor — career analysis · Australia
 
-**职业代码：599515 – Social Security Assessor。**
+**Occupation code: 599515 (ANZSCO)**
 
-Social Security Assessors evaluate eligibility for social security benefits, collect medical, employment and financial information, make impartial decisions under regulations, and guide applicants through the process.
+Social security assessors evaluate individuals' eligibility for social security benefits, collecting medical, employment, and financial information, making fair decisions based on regulations, and providing guidance on the application process.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（社会科学、法律或相关领域学费） |
-| 职业培训（Diploma） | 1-2年 | $10,000~$20,000（社区服务或政府行政管理课程） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Social sciences, law, or related field tuition fees) |
+| Vocational training (Diploma) | 1-2 years | $10,000~$20,000 (Community service or government administration courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（社会科学/法律/公共管理） | 澳大利亚大学 | 可选 | 非强制但普遍要求 |
-| 澳大利亚联邦警察背景调查 | 澳大利亚联邦警察 | 必备 | 部分岗位要求 |
-| 技能评估（VETASSESS） | VETASSESS | 可选 | 用于移民申请的职业评估 |
+| Australian Federal Police background check | Australian Federal Police | Required | Some positions require |
+| Bachelor's degree (Social Sciences/Law/Public Administration) | Australian university | Optional | Not mandatory but commonly required |
+| Skills assessment (VETASSESS) | VETASSESS | Optional | Skills assessment for immigration applications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。澳大利亚人口老龄化及社会保障体系持续扩展，支撑该职业稳定需求。政府服务外包趋势可能增加岗位，但移民配额有限。预计未来5年就业缓慢增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Australia's aging population and expansion of the social security system support stable demand for this occupation. Government service outsourcing trends may increase jobs, but migration quotas are limited. Slow employment growth expected over next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 政府APS 3-4级 |
-| 中级（3-7年） | $70,000~$90,000 | 政府APS 5-6级 |
-| 高级（7年以上） | $90,000~$110,000 | 政府EL1级或以上 |
+| Median salary | $96,824 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Government APS 3-4 levels |
+| Mid-level (3–7 years) | $70,000~$90,000 | Government APS 5-6 level |
+| Senior (7+ years) | $90,000~$110,000 | Government EL1 level or above |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级评估员可晋升为高级评估员、团队主管或政策官员。积累经验后可转向项目管理、合规审计或培训岗位。部分评估员通过继续教育进入法律或社会工作领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Compliance officer tasks are polarizing: rule checking and document sorting will be efficiently replaced by AI, but risk judgment and regulatory negotiation skills are amplified by AI. Entry-level competition intensifies, while senior officer value increases
+
+Junior assessors can advance to senior assessor, team leader, or policy officer. With experience, they can move into project management, compliance auditing, or training roles. Some assessors enter law or social work through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automated compliance review: AI scans contracts and regulations, flags non-compliant clauses
+- Anti-money laundering transaction monitoring: machine learning automatically identifies suspicious transaction patterns
+- Regulatory report generation: AI auto-fills and submits statutory reports from data sources
+- Policy document management: NLP-based classification, updating, and archiving of compliance documents
+- Preliminary due diligence: AI batch-searches public records and negative news.
+
+**Where AI augments the role:**
+
+- High-level risk analysis: AI provides data insights to help identify emerging compliance risks
+- Personalized compliance training: AI generates cases and simulation scenarios to improve training effectiveness
+- Regulatory trend monitoring: AI tracks global regulatory changes in real time and automatically summarizes
+- Compliance audit efficiency: AI pre-reviews samples, focuses on high-suspicion areas
+- Cross-departmental collaboration: AI platform integrates compliance data across business lines to accelerate decisions
+
+**Human moat:**
+
+- Complex regulation interpretation: legal interpretation combining precedents and commercial intent
+- Regulatory negotiation and relationship management: communicate with regulatory agencies, coordinate settlement plans
+- Ethical judgment: balancing compliance requirements and commercial interests in gray areas
+- Project management: designing corporate compliance frameworks and driving cross-departmental implementation
+- Leadership and training: fostering team compliance awareness and culture
+
+**Skills to build:**
+
+- AI compliance tools: e.g., Thomson Reuters ONESOURCE, Compliance.ai
+- Data analysis and visualization: Python/SQL + Tableau to extract compliance insights
+- Legal tech basics: mastering eDiscovery, smart contracts, etc.
+- Regulatory technology applications: RegTech platform configuration and auditing
+- Critical thinking: combine AI results to make risk decisions
+- Communication and negotiation: effectively reporting to boards and regulators
+
+**Key growth areas:**
 
 - Government services
 - Aging population
@@ -64,63 +100,65 @@ Social Security Assessors evaluate eligibility for social security benefits, col
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保，但该职业不在中长期职业清单上，仅限特定雇主或地区。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 偏远地区雇主担保，需在指定偏远地区工作。 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分DAMA协议可能包含该职业，需与具体地区协商。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored, but the occupation is not on the MLTSSL, restricted to specific employers or regions. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, requiring work in a designated regional area. |
+| Subclass DAMA (Designated Area Migration Agreement) | Some DAMA agreements may include this occupation; negotiate with specific regions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Social Security Assessor？**
-- 对公共政策和社会福利有热情的人
-- 具备细致分析能力和良好沟通技巧的人
-- 寻求稳定政府工作、注重工作生活平衡的人
+**Who is suited**
+- People passionate about public policy and social welfare
+- People with strong analytical skills and good communication skills
+- People seeking stable government jobs who value work-life balance
 
-**谁不适合学Social Security Assessor？**
-- 不喜繁琐行政流程和严格规定的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- Those who dislike cumbersome administrative processes and strict regulations
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of social security assessors?**
+A: Entry-level annual salary about AUD 55,000-70,000, mid-level AUD 70,000-90,000, senior level up to AUD 90,000-110,000. Salary depends on government level and region.
+
+**Q: Can Social Security Assessors apply for skilled migration?**
+A: This occupation is not on the MLTSSL or CSOL, so it cannot apply for the 189 or 190 visa. However, employer sponsorship (482/494) or specific DAMA agreements are possible, albeit with limited pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Social Security Assessor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Social Security Assessor?**
-答：Entry-level salary is about AUD 55,000-70,000, mid-level AUD 70,000-90,000, and senior AUD 90,000-110,000, depending on government classification and location.
-
-**问：Can a Social Security Assessor apply for skilled migration?**
-答：This occupation is not on the MLTSSL or CSOL, so 189/190 visas are not available. However, employer sponsorship (482/494) or specific DAMA agreements may offer limited pathways.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

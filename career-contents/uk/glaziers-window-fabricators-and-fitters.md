@@ -1,58 +1,91 @@
-# Glaziers, window fabricators and fitters（Glaziers, window fabricators and fitters）职业分析 · UK
+# Glaziers, window fabricators and fitters — career analysis · United Kingdom
 
-**职业代码：5317 – Glaziers, window fabricators and fitters。**
+**Occupation code: 5317 (SOC)**
 
-Glaziers, window fabricators and fitters make and install pre-glazed wooden, metal or PVC framework, and cut, fit and set glass in windows, doors, shop fronts, and other structural frames.
+Specialist technician for glass installation and window/door frame manufacturing and installation, responsible for cutting and fitting glass into windows, doors, shopfronts, and other structures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（学徒期间带薪学习，无学费） |
-| 职业培训证书 | 6个月-1年 | $1,000~$3,000（如City & Guilds证书） |
+| Apprenticeship | 2-4 years | $0~$0 (Paid learning during apprenticeship, no tuition fees) |
+| Vocational training certificate | 6 months to 1 year | $1,000~$3,000 (Such as City & Guilds certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| City & Guilds 玻璃安装二级证书 | City & Guilds | 必备 | 行业认可的基础资格 |
-| NVQ 二级/三级 玻璃安装 | 授予机构 | 可选 | 实际工作能力认证 |
+| City & Guilds Level 2 Certificate in Glazing | City & Guilds | Required | Industry-recognized basic qualification |
+| NVQ Level 2/3 Glass Installation | Awarding institution | Optional | Recognition of practical work ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。英国建筑业持续发展，老旧建筑节能改造及新住宅项目推动需求，预计未来5年就业增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The UK construction industry continues to develop, driven by energy-efficient renovations of old buildings and new housing projects, with expected employment growth of about 5% over the next 5 years.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 学徒或新入行 |
-| 中级（3-7年） | $27,000~$35,000 | 经验技工 |
-| 高级（7年以上） | $36,000~$48,000 | 高级技工或工长 |
+| Median salary | $29,436 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Apprentice or new entrant |
+| Mid-level (3–7 years) | $27,000~$35,000 | Experienced tradesperson. |
+| Senior (7+ years) | $36,000~$48,000 | Senior technician or foreman |
+| average salary | $31,146 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从学徒起步，晋升为高级技工、工长或自主创业开设玻璃安装公司。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+can start as an apprentice and advance to senior technician, foreman, or start your own glass installation business.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Construction
 - Energy Efficiency
@@ -61,67 +94,66 @@ Glaziers, window fabricators and fitters make and install pre-glazed wooden, met
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于受雇于英国雇主的技术工人，需满足薪资和语言要求，玻璃安装工在可担保职业列表中。 |
-| Subclass Graduate（Graduate visa） | 允许毕业生在英国工作2年，但该职业通常要求学徒经验而非学位。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled workers employed by a UK employer; requires meeting salary and language requirements; glass installers are on the eligible occupation list. |
+| Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2 years, but this occupation typically requires apprenticeship experience rather than a degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glaziers, window fabricators and fitters？**
-- 动手能力强、细心精准的人
-- 喜欢户外和现场工作、不介意体力劳动
-- 希望掌握实用技能并自主创业的人
-
-**谁不适合学Glaziers, window fabricators and fitters？**
-- 不喜欢体力劳动或高空作业的人
-- 希望办公室工作或高度团队协作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills, precision, and attention to detail
+- Enjoy outdoor and site work, not minding physical labour
+- Those who want to acquire practical skills and start their own business
+
+**Who is not suited**
+- People who dislike physical labour or working at heights
+- Those who prefer office work or highly collaborative teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of glass installers?**
+A: Entry-level annual salary about £20,000–26,000, mid-level £27,000–35,000, senior up to £36,000–48,000. Overtime or self-employment can be higher.
+
+**Q: Can a glazier apply for a UK work visa?**
+A: Can apply for Skilled Worker visa—this occupation is on the eligible occupation list, classified as shortage, and may qualify for salary concessions.
+
+**Q: What is the career path for a glazier?**
+A: Starting as an apprentice, becoming a skilled tradesperson, then advancing to foreman, project manager, or starting your own glass installation company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Glaziers, window fabricators and fitters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glaziers?**
-答：Entry-level salary ranges from £20,000 to £26,000, experienced from £27,000 to £35,000, and senior up to £48,000.
-
-**问：Can glaziers apply for a UK work visa?**
-答：Yes, eligible for Skilled Worker visa as the occupation is on the eligible list and may benefit from lower salary thresholds due to being on the Immigration Salary List.
-
-**问：What is the career progression for glaziers?**
-答：Start as an apprentice, become a qualified glazier, then advance to supervisor, project manager, or self-employed business owner.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Finance Broker（Finance Broker）职业分析 · 新西兰
+# Finance Broker — career analysis · New Zealand
 
-**职业代码：222311 – Finance Broker。**
+**Occupation code: 222311 (ANZSCO)**
 
-Mortgage brokers in New Zealand arrange home loans, commercial loans, and refinancing by comparing products from multiple banks. This role features strong migration viability under the Skilled Migrant Category and Green List pathways, requiring FSPR registration and compliance certification.
+Finance brokers (mortgage brokers) negotiate with multiple banks and lending institutions on behalf of clients to match suitable home loans, commercial loans, or refinancing packages. New Zealand's mortgage broking industry is mature, and immigration pathways include the Skilled Migrant Category and the Green List for relevant roles. You need to hold a New Zealand Financial Service Providers Register (FSPR) registration and compliance qualifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 金融或商科本科 | 3年 | $30,000~$45,000（国际生学费，含书本及杂费） |
-| NZ Certificate in Financial Services (Level 5) | 6个月 | $3,000~$6,000（在线或兼职学习，适用于持证要求） |
+| Bachelor's degree in finance or business | 3 years | $30,000~$45,000 (International student tuition, including books and fees) |
+| NZ Certificate in Financial Services (Level 5) | 6 months. | $3,000~$6,000 (Online or part-time study, applicable for certification requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰金融服务提供商注册（FSPR） | 新西兰公司注册处 | 必备 | 必须注册为金融服务提供商 |
-| NZ Certificate in Financial Services (Level 5) | 认可培训机构 | 必备 | 需完成合规与道德模块 |
-| 信贷提供者（如适用）额外认证 | 新西兰金融市场监管机构 | 可选 | 若直接提供信贷需额外批准 |
+| New Zealand Financial Service Providers Register (FSPR) | New Zealand Companies Office | Required | Must register as a financial service provider |
+| NZ Certificate in Financial Services (Level 5) | Registered Training Organisation (RTO) | Required | Must complete compliance and ethics modules |
+| Additional certification as a credit provider (if applicable) | New Zealand Financial Markets Authority | Optional | Additional approval needed if providing credit directly. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,800。新西兰持续低利率与住房需求旺盛推动房贷经纪需求稳定。奥克兰及主要城市房市活跃，独立经纪公司增长。预计未来五年岗位增长约5-10%，与信贷政策关联紧密。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,800. New Zealand's sustained low interest rates and strong housing demand drive stable demand for mortgage brokers. Active housing markets in Auckland and major cities, with independent brokerage firms growing. Expected job growth of about 5-10% over the next five years, closely linked to credit policy.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 包含佣金部分，固定底薪较低 |
-| 中级（3-7年） | $70,000~$120,000 | 佣金占比提升，经验丰富者收入更高 |
-| 高级（7年以上） | $100,000~$200,000 | 含团队管理或自有客户源，上限可达250k |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$70,000 | Includes commission component; fixed base salary is low |
+| Mid-level (3–7 years) | $70,000~$120,000 | Commission share increases, experienced earn more |
+| Senior (7+ years) | $100,000~$200,000 | Includes team management or own client base, up to 250k. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级经纪助理→持证经纪人→资深顾问→团队主管或开设独立经纪公司。也可转向商业贷款、设备融资等细分领域，或进入银行担任客户关系经理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Mortgage brokers' workflows are highly suited for AI enhancement, not replacement. AI tools can greatly improve efficiency in client matching, document processing, and market analysis, but key trust-building, negotiation, and regulatory compliance still rely on human judgment. Overall, AI amplifies rather than diminishes their professional value.
+
+Junior brokerage assistant → Licensed broker → Senior advisor → Team manager or start own brokerage. Alternatively, move into commercial lending, equipment finance, or become a relationship manager at a bank.
+
+**Tasks most exposed to AI:**
+
+- Loan product comparison and interest rate calculation; AI can instantly screen thousands of options
+- Initial client information gathering and credit pre-assessment, which can be automated by AI chatbots
+- Loan application form filling and document pre-screening, AI automatically extracts key data
+- Regulatory compliance screening, AI checks document completeness
+
+**Where AI augments the role:**
+
+- Customer needs analysis and product matching, with AI recommendation engines providing precise solutions
+- Market trends and interest rate forecasting, AI analyzing historical data to assist decisions
+- Customer relationship management, AI automated follow-up reminders and personalized communication
+- Application progress tracking and anomaly alerts: AI real-time monitoring and push updates
+- Compliance risk assessment, AI-assisted identification of potential violations
+
+**Human moat:**
+
+- Customer trust and relationship maintenance, irreplaceable by AI
+- Innovative design of complex loan structures, requiring human creativity
+- Negotiation skills with banks and lenders, relying on experience and emotional intelligence
+- Moral judgment and compliance responsibility; final decisions require human accountability
+
+**Skills to build:**
+
+- Proficient in using AI loan comparison platforms (e.g. Lendi, Loanable)
+- Data analysis and interpretation skills (Python/SQL basics)
+- AI-driven CRM system operation skills (e.g., Salesforce Einstein)
+- Digital marketing and social media customer acquisition skills
+- Knowledge of regulatory technology (RegTech) tools
+- Emotional intelligence and negotiation skills in customer communication
+
+**Key growth areas:**
 
 - Steady demand
 - Low interest rate environment
@@ -62,68 +96,67 @@ Mortgage brokers in New Zealand arrange home loans, commercial loans, and refina
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足ANZSCO 222199金融经纪职业评估，薪资达中位数(2025年约$33/小时)且总分6分 |
-| Subclass Green List T2（Green List Tier 2） | 若岗位在绿色清单二级（如金融经理），工作2年可转居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，需广告证明无本地候选人，薪资达标 |
+| Subclass SMC (Skilled Migrant Category) | Must meet ANZSCO 222199 Financial Broker skills assessment, salary at median ($33/hour in 2025) and total score of 6 |
+| Subclass Green List T2 (Green List Tier 2) | If the role is on Green List Tier 2 (e.g., Finance Manager), you can transition to residence after 2 years of work. |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, requires evidence that no local candidate is available, and salary meets requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Finance Broker？**
-- 具备销售和谈判能力，擅长建立客户关系
-- 对房产市场和金融产品有浓厚兴趣
-- 有独立工作能力，能承受业绩压力
-
-**谁不适合学Finance Broker？**
-- 不喜欢与客户高频沟通或业绩考核
-- 对数字和合规细节缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possesses sales and negotiation skills, good at building client relationships
+- Strong interest in the real estate market and financial products
+- Ability to work independently and handle performance pressure
+
+**Who is not suited**
+- Dislikes high-frequency customer communication or performance reviews
+- Lacks patience for numbers and compliance details
+
+---
+
+## 8. FAQ
+
+**Q: How is a mortgage broker's income in New Zealand?**
+A: Base salary plus commission; junior: about $50,000-$70,000 NZD, intermediate: $70,000-$120,000, senior: $100,000-$200,000+; top performers earn well above average.
+
+**Q: Can mortgage brokers immigrate to New Zealand through skilled migration?**
+A: Yes. ANZSCO 222199 Finance Broker is Skill Level 2, meeting SMC requirements (median salary, total 6 points). Can also go via the AEWV work visa to residency.
+
+**Q: What license does a mortgage broker in New Zealand need?**
+A: Must register as a Financial Service Provider (FSPR) and complete the New Zealand Certificate in Financial Services Level 5. Strongly recommended to obtain additional certification as a credit provider.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Finance Broker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a mortgage broker in New Zealand?**
-答：Base plus commission; junior NZD 50k-70k, mid NZD 70k-120k, senior NZD 100k-200k+; top performers earn well above average.
-
-**问：Can a mortgage broker migrate to New Zealand via skilled migration?**
-答：Yes. ANZSCO 222199 Finance Broker is skill level 2. It qualifies for SMC if salary meets median wage and 6-points threshold, or via AEWV pathway.
-
-**问：What licenses are required for a mortgage broker in New Zealand?**
-答：Must be registered as a Financial Service Provider (FSPR) and hold NZ Certificate in Financial Services Level 5. Additional credit provider certification is strongly recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,68 +1,98 @@
-# 物理治疗师（Physiotherapist）职业分析 · 澳大利亚
+# Physiotherapist — career analysis · Australia
 
-**职业代码：252511 – Physiotherapist。**
+**Occupation code: 252511 (ANZSCO)**
 
-物理治疗师通过运动、手法和康复训练治疗肌肉骨骼、神经和心肺疾病，服务于医院、诊所、老年护理、体育俱乐部和社区健康机构。MLTSSL在列，需求稳定且持续增长。
+Physiotherapists treat musculoskeletal, neurological and cardiopulmonary conditions through exercise, manual therapy and rehabilitation, serving hospitals, clinics, aged care, sports clubs and community health organisations. Listed on the MLTSSL, with stable and growing demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Physiotherapy / Master of Physiotherapy（4年） | 4年（全日制） | $25,000~$160,000（澳洲国际生约 $37,000~$42,000/年；政府补贴名额约 $7,000~$9,000/年） |
-| 海外资历评估（APC + AHPRA注册） | 6~12个月 | $1,500~$5,000（含 Australian Physiotherapy Council 评估、OET/IELTS和AHPRA注册费） |
+| Bachelor of Physiotherapy / Master of Physiotherapy (4 years) | 4 years (full-time) | $25,000~$160,000 (International students in Australia: approximately $37,000–$42,000/year; government-subsidised places: approximately $7,000–$9,000/year) |
+| Overseas credential assessment (APC + AHPRA registration) | 6–12 months | $1,500~$5,000 (Includes Australian Physiotherapy Council assessment, OET/IELTS and AHPRA registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor/Master of Physiotherapy | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Physiotherapy Registration | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
-| APC（Australian Physiotherapy Council）评估 | Australian Physiotherapy Council | 可选 | 海外物理治疗师学历评估 |
-| Sports Physiotherapy 专科资质 | Sports Medicine Australia / APA | 可选 | 晋升运动物理治疗师的进阶资质 |
+| Bachelor/Master of Physiotherapy | Recognised university | Required | Baseline qualification for AHPRA registration |
+| AHPRA Physiotherapy Registration | AHPRA | Required | Nationally unified registration; practice is not permitted without this registration |
+| APC (Australian Physiotherapy Council) assessment | Australian Physiotherapy Council | Optional | Overseas physiotherapy qualification assessment |
+| Sports Physiotherapy specialist qualification | Sports Medicine Australia / APA | Optional | Advanced qualifications for career progression to sports physiotherapist |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 36,000。JSA 预测物理治疗师至2035年就业增长约15%。老龄化人口（骨关节疾病增加）、运动健康意识提升和老年护理改革是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 36,000. JSA projects physiotherapy employment growth of approximately 15% by 2035. Key drivers include an ageing population (increased musculoskeletal conditions), growing awareness of sports health, and aged care reforms.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国，含医院、诊所、老年护理和运动机构岗 |
-| Indeed | 900~1,800 个 | 含兼职和合同工 |
-| LinkedIn | 400~900 个 | 偏管理、教育和专科岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册物理治疗师（0~2年） | $70,000~$85,000 | 公立医院或初级诊所，含奖励调整 |
-| 中级物理治疗师（2~8年） | $85,000~$110,000 | Indeed 平均 $93,920；SEEK 区间 $85k~$110k（2026） |
-| 资深/专科物理治疗师（8年+） | $110,000~$145,000 | 运动物理治疗和专科诊所薪资较高 |
-| 私人诊所自营（5年+） | $120,000~$200,000 | 自营诊所收益可超雇员2倍，视患者量而定 |
-| 农村/偏远地区物理治疗师 | $95,000~$130,000 | 偏远地区津贴和签约奖金显著提升总收入 |
+| Median salary | $98,176 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered physiotherapist (0–2 years) | $70,000~$85,000 | Public hospital or primary care clinic, including incentive adjustments |
+| Mid-level physiotherapist (2–8 years) | $85,000~$110,000 | Indeed average $93,920; Seek range $85k–$110k (2026) |
+| Senior / Specialist Physiotherapist (8+ years) | $110,000~$145,000 | Sports physiotherapy and specialist clinic roles attract higher salaries |
+| Self-employed in private practice (5+ years) | $120,000~$200,000 | Owner-operated clinic revenue can be more than double that of an employee, depending on patient volume |
+| Rural/remote physiotherapist | $95,000~$130,000 | Remote area allowances and sign-on bonuses significantly increase total earnings |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★☆）。** 运动物理治疗（NRL/AFL/NBL等职业联赛）和老年护理物理治疗是增长最快的方向。Telehealth物理治疗在COVID后迅速普及，创造新就业模式。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
+
+Sports physiotherapy (NRL/AFL/NBL and other professional leagues) and aged care physiotherapy are the fastest-growing areas. Telehealth physiotherapy expanded rapidly after COVID, creating new employment models.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating patient assessment reports and progress records
+- AI-based initial screening and anomaly marking of images (e.g., X-ray, MRI)
+- Use rehabilitation robots and VR systems to perform standardized repetitive training movements
+- Collecting and analyzing patient activity data automatically via wearable devices
+- AI front desk system handling administrative tasks like insurance and appointments
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient movement pattern data to optimize personalized treatment plans
+- Expanding service coverage through remote rehabilitation platforms and AI real-time feedback
+- AI-assisted diagnostic tools improve clinical reasoning accuracy and speed
+- Using natural language processing to quickly retrieve latest research and treatment plans
+- Using VR/AR devices to create immersive rehabilitation training environments
+
+**Human moat:**
+
+- Clinical comprehensive judgment and multi-system interaction assessment for complex cases
+- Face-to-face communication and empathy skills for building trust
+- Fine tactile sense and feel in manual therapy
+- Professional advice and team leadership in interdisciplinary collaboration
+- Motivational techniques for addressing patient fear, motivation, and other psychological factors
+
+**Skills to build:**
+
+- Using AI-assisted diagnostic tools (e.g., musculoskeletal ultrasound AI)
+- Remote rehabilitation platform operation and data analysis
+- Integration of digital health records with clinical decision support systems
+- Sports biomechanics and sensor data analysis
+- Basic Python or R programming for rehabilitation data analysis
+- Human-computer interaction and VR rehabilitation content design
+
+**Key growth areas:**
 
 - Aged Care Physiotherapy
 - Sports & Exercise Rehabilitation
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，物理治疗师为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，农村医疗机构享优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区医疗，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; physiotherapist is a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, with priority for rural healthcare facilities |
+| Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学物理治疗师？**
-- 已持有国内物理治疗/康复医学学位（4年制以上）
-- 英语能力达到 OET B / IELTS 7.0
-- 有运动健康或老年护理从业兴趣
-- 接受农村派驻以快速获取PR
-- 目标是自营私人诊所或运动物理治疗师
-
-**谁不适合学物理治疗师？**
-- 英语能力较弱，APC评估困难
-- 体力较差（手法操作有一定体力要求）
-- 不适应高强度的患者管理节奏
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a domestic degree in physiotherapy/rehabilitation medicine (4 years or more)
+- English proficiency at OET B / IELTS 7.0
+- Interested in working in sports health or aged care
+- Willing to accept rural postings to fast-track PR
+- Aiming for a private practice or sports physiotherapy role
+
+**Who is not suited**
+- Weaker English proficiency makes the APC assessment more difficult
+- Lower physical fitness (manual techniques have moderate physical demands)
+- Unable to adapt to the high-intensity pace of patient management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a physiotherapist in Australia?**
+A: Mid-level physiotherapists earn approximately $85,000–$110,000 per year (Indeed average $93,920); senior specialist physiotherapists approximately $110k–$145k; private practice owners can earn $150k–$200k+.
+
+**Q: Is it easy for physiotherapists to find work in Australia?**
+A: Easy. Seek lists 1,500–3,000 positions, with ageing population trends and sports/health awareness continuing to drive demand; rural areas offer near-immediate employment with additional allowances.
+
+**Q: Is a Chinese physiotherapy degree recognised in Australia?**
+A: Complete an academic assessment through APC (the Australian Physiotherapy Council) and, once standards are confirmed, apply for AHPRA registration. The main hurdle is English proficiency (OET B / IELTS 7.0+). Total timeline is approximately 6–12 months.
+
+**Q: Will physiotherapists be replaced by AI?**
+A: Automation risk is very low. Personalised manual therapy, dynamic movement assessment and patient motivation are core services that AI cannot replace. AI serves as a supportive tool for assessment assistance and remote monitoring.
+
+**Q: Is there an age limit for physiotherapists in Australia?**
+A: No upper age limit for practice. Manual techniques require a degree of physical fitness, but aged care and clinics focused on older patients tend to be less physically demanding.
+
+**Q: What qualifications do physiotherapists need in Australia?**
+A: A physiotherapy degree is required (Bachelor/Master, typically 4 years). An undergraduate degree in physiotherapy or rehabilitation medicine from overseas (4-year program) is eligible for APC assessment.
+
+**Q: Is it difficult to get certified as a physiotherapist in Australia?**
+A: Moderate difficulty. The APC assessment is primarily an academic review with no high-stakes clinical exams like the AMC or ADC; English proficiency is the main barrier.
+
+**Q: Which is more suitable for skilled migration to Australia — physiotherapist or registered nurse?**
+A: Nursing has higher job volume (Seek ~10,000+ vs physiotherapy ~2,500), and PR pathways are similar for both. Physiotherapists have more regular hours (no night shifts) with comparable salaries; nursing has greater demand and faster entry into the workforce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| AHPRA | 物理治疗师注册要求 |
-| Australian Physiotherapy Council (APC) | 海外物理治疗师学历评估 |
-| Indeed AU | 物理治疗师平均薪资 $93,920（2026） |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-物理治疗师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲物理治疗师工资多少？**
-答：中级物理治疗师年薪约 $85,000~$110,000（Indeed平均$93,920）；资深专科物理治疗师约 $110k~$145k；自营诊所可达 $150k~$200k+。
-
-**问：澳洲物理治疗师容易找工作吗？**
-答：容易。Seek 挂牌 1,500~3,000 个职位，老龄化和运动健康持续推高需求，农村地区几乎可立即入职并享有额外津贴。
-
-**问：中国物理治疗学位澳洲认可吗？**
-答：通过 APC（澳洲物理治疗委员会）学历评估，确认标准后申请AHPRA注册。主要门槛是英语成绩（OET B/IELTS 7.0+）。总周期约6~12个月。
-
-**问：物理治疗师会被AI替代吗？**
-答：替代风险极低。个性化手法治疗、动态运动评估和患者激励是AI无法替代的核心服务。AI在评估辅助和远程监控上是辅助工具。
-
-**问：澳洲物理治疗师有年龄限制吗？**
-答：无执业年龄上限。手法操作要求一定体力，但老年护理和老年患者为主的诊所环境强度适中。
-
-**问：澳洲物理治疗师需要什么学历？**
-答：需要物理治疗学位（Bachelor/Master，通常4年制）。国内物理治疗或康复医学本科（4年制）可申请APC评估。
-
-**问：澳洲物理治疗师认证难吗？**
-答：难度中等。APC评估主要是学历审核，不需要像AMC/ADC那样的高难度临床考试，英语是最主要门槛。
-
-**问：物理治疗师和注册护士哪个更适合技术移民澳洲？**
-答：护士就业量更大（Seek ~10,000+ vs 物理治疗师 ~2,500），两者PR路径相近。物理治疗师工作节奏更规律（无夜班），薪资相近；护士需求量更大，入职更快。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

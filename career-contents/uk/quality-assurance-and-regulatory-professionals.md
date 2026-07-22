@@ -1,59 +1,95 @@
-# Quality assurance and regulatory professionals（Quality assurance and regulatory professionals）职业分析 · UK
+# Quality assurance and regulatory professionals — career analysis · United Kingdom
 
-**职业代码：2482 – Quality assurance and regulatory professionals。**
+**Occupation code: 2482 (SOC)**
 
-Plan, organise, coordinate and direct the measurement, monitoring and reporting on quality and regulatory compliance of tangible products or intangible services.
+Responsible for planning, organizing, and coordinating the measurement, monitoring, and reporting of quality and compliance of specific products or services, ensuring adherence to industry standards and regulatory requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $15,000~$25,000（国际学生学费，英格兰地区） |
-| 硕士学位 | 1年 | $18,000~$30,000（国际学生学费，英格兰地区） |
+| Bachelor's degree | 3 years | $15,000~$25,000 (International student tuition fees, England region) |
+| Master's degree | 1 year | $18,000~$30,000 (International student tuition fees, England region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 质量保证相关学士学位 | 英国大学 | 可选 | 如质量管理、工程、生命科学等 |
-| 注册质量工程师（CQE） | 美国质量学会（ASQ） | 可选 | 全球认可，非必需但有利 |
-| 良好生产规范（GMP）认证 | 英国药品和健康产品管理局（MHRA） | 必备 | 制药行业必备 |
+| Good Manufacturing Practice (GMP) certification | UK Medicines and Healthcare products Regulatory Agency (MHRA) | Required | Essential for the pharmaceutical industry |
+| Bachelor's degree in quality assurance or related field | UK universities | Optional | Such as quality management, engineering, life sciences, etc. |
+| Certified Quality Engineer (CQE) | American Society for Quality (ASQ) | Optional | Globally recognized, not required but beneficial. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 48,000。随着英国脱欧后独立监管体系建立和行业合规要求提升，该职业需求稳步增长。制药、医疗器械、食品等行业尤其紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. With the establishment of an independent regulatory system after Brexit and increased industry compliance requirements, demand for this occupation is steadily growing. It is especially in short supply in industries such as pharmaceuticals, medical devices, and food.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 伦敦地区略高 |
-| 中级（3-7年） | $35,000~$50,000 | 含专业认证者更高 |
-| 高级（7年以上） | $50,000~$75,000 | 经理级可达80000+ |
+| Median salary | $50,083 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Slightly higher in London area |
+| Mid-level (3–7 years) | $35,000~$50,000 | Higher with professional certifications |
+| Senior (7+ years) | $50,000~$75,000 | Managerial level can reach 80,000+ |
+| average salary | $58,472 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级质量审核员起步，积累经验后晋升为质量经理、法规事务经理，最终可担任质量总监或法规事务总监。部分人转向咨询或合规管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
+
+Can start as a junior quality auditor, progress to quality manager or regulatory affairs manager, and eventually become quality director or regulatory affairs director. Some move into consulting or compliance management.
+
+**Tasks most exposed to AI:**
+
+- Repeated dimensional measurement and tolerance checks using precision instruments
+- Identify and classify visual defects on standardized products
+- Weigh and sample raw materials or components according to fixed specifications.
+- Record and fill out paper inspection reports and labels
+- Performing simple pass/fail tests (e.g., hardness, tensile strength)
+
+**Where AI augments the role:**
+
+- Using AI vision systems to assist in identifying complex or minor defects and providing judgment suggestions
+- Optimize sampling frequency and sample size through data analysis models to improve inspection efficiency
+- Use augmented reality (AR) glasses to display inspection standards and historical data in real time
+- Auto-generate statistical process control (SPC) reports and warn of abnormal trends
+- Combine IoT sensor data for predictive quality maintenance
+
+**Human moat:**
+
+- Temporary judgment and problem-solving for novel or non-standard defects
+- Final release responsibility for safety-critical components (e.g., aviation, medical)
+- Cross-department coordination and abnormal quality handling in client communication
+- Ability to design inspection plans and sampling schemes
+- Review and handle anomalies in outputs from automated systems
+
+**Skills to build:**
+
+- Statistical process control (SPC) and basic data analysis
+- AI vision system operation and result validation
+- Python or SQL for automated data processing in inspections
+- Using quality management system (QMS) software
+- Lean Six Sigma methodology
+- Industrial Internet of Things (IIoT) sensor data interpretation
+
+**Key growth areas:**
 
 - Regulatory Compliance
 - Pharmaceutical Quality
@@ -62,68 +98,67 @@ Plan, organise, coordinate and direct the measurement, monitoring and reporting 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适合获得雇主担保的质量保证与法规事务专员，需满足薪资门槛（通常£26,200/年） |
-| Subclass Global Talent（Global Talent Visa） | 适用于在质量保证与法规领域有杰出成就或潜力的专业人士，需获得认可 |
-| Subclass Scale-up（Scale-up Visa） | 适合在快速增长企业任职的质量保证专家，需满足薪资要求£33,000/年 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for Quality Assurance and Regulatory Affairs Specialists with employer sponsorship, must meet salary threshold (typically £26,200/year). |
+| Subclass Global Talent (Global Talent Visa) | Applicable to professionals with outstanding achievements or potential in quality assurance and regulatory fields, subject to recognition |
+| Subclass Scale-up (Scale-up Visa) | Quality assurance specialist suitable for fast-growing companies, must meet salary requirement of £33,000/year |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Quality assurance and regulatory professionals？**
-- 注重细节、有分析能力的人
-- 熟悉法规和标准，愿意持续学习
-- 沟通能力强，能协调跨部门工作
-
-**谁不适合学Quality assurance and regulatory professionals？**
-- 不喜欢重复性文档工作
-- 难以应对严格合规压力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented people with analytical skills
+- Familiar with regulations and standards, willing to learn continuously.
+- Strong communication skills to coordinate cross-departmental work.
+
+**Who is not suited**
+- People who dislike repetitive documentation work
+- Difficulty coping with strict compliance pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a Quality Assurance and Regulatory Affairs Specialist?**
+A: Entry-level approximately £25,000-35,000, mid-level £35,000-50,000, senior up to £75,000+. London salaries are higher.
+
+**Q: How can this occupation stay in the UK via a skilled migration pathway?**
+A: The main pathway is the Skilled Worker visa, which requires employer sponsorship and meeting salary requirements. The pharmaceutical and medical device industries have high demand, making it easier to find sponsorship.
+
+**Q: What qualifications are needed to enter the industry?**
+A: Usually requires a bachelor's degree in quality, engineering, life sciences, etc. Master's or professional certification (e.g., CQE) aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Quality assurance and regulatory professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for quality assurance and regulatory professionals?**
-答：Entry-level around £25,000-£35,000, mid-level £35,000-£50,000, senior up to £75,000+; London premiums apply.
-
-**问：What are the migration pathways for this role?**
-答：The main route is the Skilled Worker visa with employer sponsorship meeting salary thresholds. High demand in pharma and medical devices sectors.
-
-**问：What education is required to enter this field?**
-答：A bachelor's degree in quality, engineering, or life sciences is typical; a master's or certifications like CQE aid career progression.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

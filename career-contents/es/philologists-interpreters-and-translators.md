@@ -1,59 +1,94 @@
-# Philologists, Interpreters and Translators（Philologists, Interpreters and Translators）职业分析 · ES
+# Philologists, Interpreters and Translators — career analysis · Spain
 
-**职业代码：2923 – Philologists, Interpreters and Translators。**
+**Occupation code: 2923 (CNO)**
 
-Philologists, interpreters and translators study language, translate texts, and interpret spoken communication for international organizations, businesses, legal and medical settings.
+Linguists, interpreters, and translators work in language research, text translation, and oral interpretation, serving international organizations, businesses, judiciary, and healthcare.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学学费，根据自治区不同） |
-| 官方硕士（Máster） | 1-2年 | $2,000~$6,000（翻译或口译硕士（Máster en Traducción e Interpretación）） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Tuition fees for public universities vary by region) |
+| Official Máster | 1-2 years | $2,000~$6,000 (Master of Translation or Interpretation (Máster en Traducción e Interpretación)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 翻译/口译学士或硕士学位 | 西班牙公立或私立大学 | 可选 | 通常需完成Grado或Máster相关学位 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 非欧盟学历需认证，但非强制性 |
-| 官方翻译资格（Sworn Translation） | 西班牙外交部 | 可选 | 需通过考试成为司法宣誓翻译 |
+| Bachelor's or Master's degree in Translation/Interpretation | Public or private universities in Spain | Optional | Usually, a degree related to Grado or Máster is required |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Non-EU degrees require certification, but are not mandatory |
+| Official Translation Qualification (Sworn Translation) | Spanish Ministry of Foreign Affairs | Optional | You must pass an exam to become a judicial oath interpreter |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。西班牙语言服务需求稳定增长，尤其在与欧盟机构、跨国公司和旅游相关的翻译领域。口译员竞争激烈，而技术翻译（如法律、医学）因专业性强而更受青睐。远程工作机会增多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for Spanish language services is steadily growing, especially in the translation sector related to EU institutions, multinational corporations, and tourism. Interpreters are highly competitive, while technical translations (such as law and medicine) are favored due to their strong specialization. Remote work opportunities are on the rise.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 自由职业或入门级全职 |
-| 中级（3-7年） | $25,000~$35,000 | 企业或机构专职翻译 |
-| 高级（7年以上） | $35,000~$50,000 | 同声传译或高级项目经理 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Freelance or entry-level full-time |
+| Mid-level (3–7 years) | $25,000~$35,000 | Full-time translator for enterprises or institutions |
+| Senior (7+ years) | $35,000~$50,000 | Simultaneous interpretation or senior project manager |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级翻译可发展为专业领域（如法律、医学）高级译员或项目经理，口译员可晋升为同声传译专家或会议口译员。语言学家可在高校从事教学研究或进入出版行业。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Junior translators can develop into senior translators or project managers in specialized fields (such as law or medicine), while interpreters can be promoted to expert interpreters or conference interpreters. Linguists can engage in teaching and research at universities or enter the publishing industry.
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Translation technology
 - Remote interpreting
@@ -62,68 +97,67 @@ Philologists, interpreters and translators study language, translate texts, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能移民，要求大学学历或5年经验，合同年薪不低于西班牙平均工资的1.5倍（约33,000欧元）。 |
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，且职位需在《全国职业目录》中，但翻译不在紧缺职业列表，需证明招聘困难。 |
-| Subclass Altamente cualificad（Highly Skilled Professional visa (Ley 14/2013)） | 适用于跨国公司内部调动或高技能职位，年薪通常需高于40,000欧元。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled immigrants, requiring a university degree or 5 years of experience, with a contract annual salary of no less than 1.5 times the Spanish average salary (about 33,000 euros). |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship required, and the occupation must be on the National Occupation List, but translation is not on the shortage list, so need to prove recruitment difficulties. |
+| Subclass Altamente cualificad (Highly Skilled Professional visa (Ley 14/2013)) | Applicable to internal transfers within multinational companies or high-skilled positions, with an annual salary usually above 40,000 euros. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Philologists, Interpreters and Translators？**
-- 拥有优秀双语或多语能力并热爱语言研究的人
-- 能够适应高强度集中注意力的口译工作
-- 希望结合技术与语言服务（如本地化、翻译工具）者
-
-**谁不适合学Philologists, Interpreters and Translators？**
-- 不习惯与不同文化背景客户频繁沟通的人
-- 难以承受截止日期压力和不确定收入自由职业者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with excellent bilingual or multilingual abilities and a passion for language studies
+- Able to adapt to high-intensity, focused interpreting work
+- Those who wish to combine technology and language services (such as localization and translation tools).
+
+**Who is not suited**
+- People who are not accustomed to frequent communication with clients from different cultural backgrounds
+- Freelancers who struggle to cope with deadline pressure and uncertain income
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for Spanish translators?**
+A: Junior translators earn about €19,000–24,000 per year; Intermediate is about 25,000-35,000 euros; Senior simultaneous interpreters or project managers can earn over 50,000 euros.
+
+**Q: How can non-EU nationals obtain a Spanish translator work visa?**
+A: You can obtain the EU Blue Card (university degree and contract annual salary ≥ €33,000) or the Highly Skilled Professional Visa (annual salary ≥ €40,000). For non-urgently needed occupations, employers must demonstrate difficulty in recruitment.
+
+**Q: What educational qualifications are required to become a translator in Spain?**
+A: Typically, a four-year Grado undergraduate (such as translation and interpreting) or a one-year master's degree in Máster are required. Non-EU degrees require Homologación certification, but it is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Philologists, Interpreters and Translators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for translators in Spain?**
-答：Entry-level translators earn around €19,000-€24,000 annually; mid-level €25,000-€35,000; senior interpreters or project managers can exceed €50,000.
-
-**问：How can non-EU nationals obtain a translation work visa for Spain?**
-答：Via the EU Blue Card (university degree and contract salary ≥€33,000) or the Highly Skilled Professional visa (salary ≥€40,000). Since it's not a shortage occupation, employers must prove recruitment difficulty.
-
-**问：What education is needed to become a translator in Spain?**
-答：A four-year Grado (bachelor's) in Translation and Interpreting or a one-year Máster (master's) is typical. Non-EU degrees may need Homologación but it's not mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

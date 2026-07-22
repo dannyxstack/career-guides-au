@@ -1,57 +1,91 @@
-# Other small engine and small equipment repairers（Other small engine and small equipment repairers）职业分析 · 加拿大
+# Other small engine and small equipment repairers — career analysis · Canada
 
-**职业代码：72429 – Other small engine and small equipment repairers。**
+**Occupation code: 72429 (NOC)**
 
-Repair and maintain small engine equipment such as lawnmowers, chainsaws, and snowblowers to ensure proper operation.
+Responsible for repairing and maintaining small engine equipment such as lawn mowers, chainsaws, snow blowers, etc., ensuring their proper operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学徒培训 | 2-3年 | $1,000~$5,000（包含课堂和在职培训） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training | 2-3 years | $1,000~$5,000 (Includes classroom and on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性认证，但雇主青睐学徒经历 | 省级学徒机构 | 可选 | 自愿认证可提升就业机会 |
+| No compulsory certification, but employers favor apprenticeship experience | Provincial apprenticeship authority. | Optional | Voluntary certification can enhance job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,200。加拿大对小型发动机维修技能的需求稳定，尤其在农村和郊区。随着户外动力设备保有量增加，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 5,200. Demand for small engine repair skills is stable in Canada, especially in rural and suburban areas. With increasing outdoor power equipment ownership, job prospects are good.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 时薪约18-22加元 |
-| 中级（3-7年） | $42,000~$55,000 | 时薪约22-28加元 |
-| 高级（7年以上） | $55,000~$70,000 | 时薪约28-36加元 |
+| Median salary | $49,920 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$42,000 | Hourly wage approximately 18–22 Canadian dollars |
+| Mid-level (3–7 years) | $42,000~$55,000 | Hourly wage approximately 22-28 Canadian dollars |
+| Senior (7+ years) | $55,000~$70,000 | Hourly wage approximately CAD 28–36 |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 经验丰富后可晋升为高级技师或开设自己的维修店。也可学习大型发动机维修以拓宽职业路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Motorcycle mechanics face moderate automation risk: diagnosis and documentation can be simplified by AI, but core skills like physical repairs and custom modifications are hard to replace. Entry-level positions may narrow slightly due to AI-assisted learning tools, but demand for experienced mechanics remains stable.
+
+After gaining experience, can advance to senior technician or open own repair shop. Can also learn large engine repair to broaden career path.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic software to read fault codes and generate repair suggestions.
+- Record and organize maintenance logs, customer information, and inventory data
+- Online lookup of parts manuals and specifications
+- Provide standardized repair quotes and labor estimates
+
+**Where AI augments the role:**
+
+- Use AI diagnostic tools to quickly identify complex circuit and fuel system issues
+- Use AR glasses to overlay repair steps, improving repair efficiency
+- Predicting part lifespan through AI analysis of historical data to optimise maintenance schedules
+- Use AI-driven training simulators to practice high-end model repairs
+- Use 3D scanning and AI to generate customized modification plans
+
+**Human moat:**
+
+- Ability to disassemble, assemble, and debug physical engines and frames hands-on.
+- Creative solutions for handling non-standard modifications and client personalization requests
+- Intuitive judgment and test driving of overall motorcycle performance
+- Skills in communicating with clients to build trust and explaining the necessity of repairs.
+
+**Skills to build:**
+
+- Learning AI diagnostic tools (such as motorcycle-specific OBD software)
+- Master maintenance techniques for high-voltage systems in electric motorcycles
+- Obtain brand certifications (e.g., Harley-Davidson, Honda) to enhance bargaining power
+- Learn 3D printing part repair and custom part design
+- Improve customer communication and digital marketing skills
+- Attend hybrid/electric motorcycle repair training
+
+**Key growth areas:**
 
 - Small engine repair
 - Outdoor power equipment
@@ -60,65 +94,64 @@ Repair and maintain small engine equipment such as lawnmowers, chainsaws, and sn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 通过省提名项目申请，部分省份将技工列为优先职业 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场影响评估支持工签 |
-| Subclass Express Entry（Express Entry） | 需满足联邦技术移民或加拿大经验类要求 |
+| Subclass PNP (Provincial Nominee Program) | Through provincial nomination programs, some provinces list skilled trades as priority occupations |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa |
+| Subclass Express Entry (Express Entry) | Must meet federal skilled migration or Canadian experience class requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other small engine and small equipment repairers？**
-- 喜欢动手维修的人
-- 对户外动力设备感兴趣者
-- 寻求稳定蓝领职业的人
-
-**谁不适合学Other small engine and small equipment repairers？**
-- 对机械不感兴趣者
-- 偏好室内办公环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repair work
+- For those interested in outdoor power equipment
+- People seeking stable blue-collar careers
+
+**Who is not suited**
+- Those not interested in machinery
+- People who prefer an indoor office environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for small engine mechanics?**
+A: Junior annual salary approx. CAD 32,000-42,000, senior up to CAD 55,000-70,000.
+
+**Q: Is there a skilled migration pathway for this occupation?**
+A: Eligible for immigration via Provincial Nominee Program (PNP) or LMIA work visa, listed as an occupation in demand in some provinces.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Other small engine and small equipment repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for small engine repairers?**
-答：Entry-level annual salary is about CAD 32,000-42,000, while experienced workers can earn CAD 55,000-70,000.
-
-**问：Are there skilled migration pathways for this occupation?**
-答：Yes, through PNP or LMIA work permits; some provinces list it as a priority trade.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

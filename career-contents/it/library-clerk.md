@@ -1,60 +1,96 @@
-# Library Clerk（Library Clerk）职业分析 · IT
+# Library Clerk — career analysis · Italy
 
-**职业代码：4411 – Library Clerk。**
+**Occupation code: 4411 (ISCO08)**
 
-Library clerks handle book check-in/check-out, shelving, and reader assistance, supporting daily library operations.
+Library clerks handle book borrowing, returning, shelving, and reader services, providing essential support for daily library operations.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 3年 | —（公立高中免费） |
-| 图书馆学短期课程 | 6个月 | $500~$2,000（由地区或图书馆协会提供） |
+| High school diploma or equivalent | 3 years | $0~$0 (Public high schools are free) |
+| Short course in library studies | 6 months. | $500~$2,000 (Provided by regional or library associations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆助理证书 | 意大利图书馆协会 | 可选 | 非强制但有助于就业 |
-| 高中毕业证 | 教育部 | 必备 | 基本要求 |
+| High school diploma | Ministry of Education | Required | Basic requirements |
+| Library assistant certificate | Italian Library Association | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。意大利公共图书馆和学校图书馆对办事员需求稳定，但数字化导致传统岗位缓慢减少，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The demand for clerks in Italian public and school libraries is stable, but digitization is slowly reducing traditional roles, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，小型图书馆可能偏低 |
-| 中级（3-7年） | $22,000~$28,000 | 含公共图书馆和大学图书馆 |
-| 高级（7年以上） | $28,000~$35,000 | 含管理职责或特殊技能 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, may be low for small libraries |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes public libraries and university libraries |
+| Senior (7+ years) | $28,000~$35,000 | Includes management duties or special skills |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可由办事员晋升为图书馆技术员或助理，需积累经验并考取相关证书，或转向数字资源管理方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Can be promoted from clerk to library technician or assistant by accumulating experience and obtaining relevant certificates, or transition to digital resource management.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Stable
 - Digitalization
@@ -63,65 +99,67 @@ Library clerks handle book check-in/check-out, shelving, and reader assistance, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，但图书馆办事员通常不满足高技能要求 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟公民通过年度配额申请，但该职业不在紧缺列表，机会有限 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU citizens, but library clerks usually do not meet high-skilled requirements |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through annual quotas, but the occupation is not on the shortage list, so opportunities are limited. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Library Clerk？**
-- 喜欢安静工作环境的人
-- 注重细节和组织能力的人
-- 对图书馆服务有热情的人
+**Who is suited**
+- People who prefer a quiet work environment
+- Detail-oriented and organized individuals.
+- People passionate about library services
 
-**谁不适合学Library Clerk？**
-- 寻求高收入和快速晋升的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- People seeking high income and rapid promotion
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a library clerk in Italy?**
+A: Average annual salary about €22,000-28,000, entry-level about €18,000-22,000, senior up to €35,000.
+
+**Q: Can non-EU citizens become library clerks in Italy via work visa?**
+A: Low possibility because the occupation is not in shortage, and the EU Blue Card requires high skills. Must go through Decreto Flussi quota, but places are limited.
+
+**Q: What is the career progression path for a library assistant?**
+A: Can progress to library technician, assistant, or department head; requires relevant certification or further study in library science.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Library Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for library clerks in Italy?**
-答：Average annual salary is around €22,000-€28,000, entry-level €18,000-€22,000, senior up to €35,000.
-
-**问：Can non-EU citizens work as library clerks in Italy via work visa?**
-答：Low probability as the occupation is not in shortage. EU Blue Card requires high skills; Decreto Flussi quota is limited.
-
-**问：What is the career progression for library clerks?**
-答：Can advance to library technician, assistant, or department head, requiring certifications or further library science study.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

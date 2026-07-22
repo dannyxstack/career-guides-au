@@ -1,58 +1,90 @@
-# Street and Related Services Worker（Street and Related Services Worker）职业分析 · NL
+# Street and Related Services Worker — career analysis · Netherlands
 
-**职业代码：9510 – Street and Related Services Worker。**
+**Occupation code: 9510 (ISCO08)**
 
-Perform street cleaning, waste collection, and public facility maintenance to keep urban areas clean and hygienic.
+Engages in municipal services such as street cleaning, garbage collection, and public toilet maintenance to ensure urban environmental hygiene.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无正式学历要求 | —（通常在职培训） |
+| Junior high school graduation | No formal education requirements | $0~$0 (Usually on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 雇主通常提供在职培训，无需特定证书 |
+| No mandatory certificate | None | Optional | Employers typically provide on-the-job training, no specific certification required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰市政服务需求稳定，人口增长和环保政策推动岗位缓慢增长，但自动化可能影响部分低技能岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Municipal service demand in the Netherlands is stable, with population growth and environmental policies driving slow job growth, but automation may affect some low-skilled positions.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，含夜班补贴 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪，含主管职责补贴 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $30,000~$36,000 | Pre-tax annual salary, including night shift allowance |
+| Senior (7+ years) | $36,000~$42,000 | Annual salary before tax, including supervisor responsibilities allowance |
+| average salary | $33,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 通常从基层清洁工做起，可晋升为团队主管或市政监督员，需积累经验并参加内部培训。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Repetitive physical labor such as street cleaning and garbage collection will largely be replaced by automated sweepers and smart bins, leading to a significant reduction in positions, though demand remains for emergency pollution handling and equipment maintenance.
+
+Usually starting from entry-level cleaner, can advance to team supervisor or municipal inspector, requiring experience accumulation and internal training.
+
+**Tasks most exposed to AI:**
+
+- Daily street sweeping: carried out by autonomous sweepers
+- Waste collection and route planning: smart bin signals trigger optimized collection routes
+- Timed public toilet cleaning: sensor monitoring triggers automated cleaning robots
+- Simple sorting and recycling: AI identifies waste types and automatically sorts them
+
+**Where AI augments the role:**
+
+- Emergency pollution response: AI monitors anomalies and promptly notifies for manual handling
+- Equipment maintenance and fault diagnosis: AI-assisted remote diagnosis of sweepers/garbage compactors
+- Citizen complaint response: AI analysis of complaint hotspots to optimize work priorities
+- Job quality monitoring: AI assesses cleaning effectiveness via camera and generates reports
+
+**Human moat:**
+
+- handle emergency safety incidents such as chemical spills and hazardous waste
+- Maintain and repair automated equipment (mechanical fault diagnosis and on-site restoration)
+- Communicate with the public, resolve sanitation disputes and special needs
+- Work in unstructured environments such as narrow alleys and temporary events
+
+**Skills to build:**
+
+- Operation and monitoring of autonomous street sweepers
+- Basic maintenance of smart devices (e.g., sensor calibration, battery replacement)
+- Data management: use mobile apps to receive tasks and feedback
+- Environmental Safety Knowledge: Hazardous Materials Identification and Initial Handling
+- Basic English communication (for device interfaces and maintenance manuals)
+
+**Key growth areas:**
 
 - stable demand
 - automation impact
@@ -61,62 +93,64 @@ Perform street cleaning, waste collection, and public facility maintenance to ke
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 荷兰高技术移民签证，适用于年收入高于门槛的专业人士，但该职业通常不满足收入要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 欧盟蓝卡，要求高学历和高薪，该职业通常不符合条件。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Netherlands Highly Skilled Migrant visa, applicable to professionals with income above the threshold, but this occupation usually does not meet the income requirement. |
+| Subclass EU Blue Card (EU Blue Card) | EU Blue Card requires high education and high salary; this occupation typically does not qualify. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street and Related Services Worker？**
-- 喜欢户外体力工作、不介意脏活累活的人
-- 寻求稳定低技能工作、无需高学历者
-- 愿意接受轮班和早起工作的人
+**Who is suited**
+- People who enjoy outdoor physical work and don't mind getting dirty
+- Seeking stable low-skilled jobs, no high education required
+- People willing to work shifts and start early
 
-**谁不适合学Street and Related Services Worker？**
-- 追求高薪和职业发展空间的人
-- 对工作环境整洁度有较高要求者
+**Who is not suited**
+- People pursuing high salary and career development opportunities.
+- Those with high demands for workplace cleanliness
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of street service workers?**
+A: Entry-level salary around €25,000-30,000 per year, senior up to €42,000, including allowances.
+
+**Q: Can foreigners apply for a work visa for this occupation?**
+A: This occupation typically does not meet the income threshold for highly skilled migration or EU Blue Card, making migration unlikely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Street and Related Services Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for street services workers?**
-答：Entry-level annual salary is around €25,000-€30,000, senior up to €42,000 including allowances.
-
-**问：Can foreign workers apply for a work visa for this occupation?**
-答：This occupation typically does not meet the income threshold for Highly Skilled Migrant or EU Blue Card, making migration unlikely.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

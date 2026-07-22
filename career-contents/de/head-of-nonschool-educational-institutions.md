@@ -1,59 +1,95 @@
-# Head of Non-School Educational Institutions（Head of Non-School Educational Institutions）职业分析 · DE
+# Head of Non-School Educational Institutions — career analysis · Germany
 
-**职业代码：8449 – Head of Non-School Educational Institutions。**
+**Occupation code: 8449 (KldB)**
 
-Manages operations and strategy of non-school educational institutions such as adult education centers, vocational training schools, and continuing education facilities.
+Responsible for managing the operations and strategy of non-school educational institutions, such as adult education centers, vocational training schools, and continuing education organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（教育学或相关专业） | 4-5年 | $10,000~$30,000（德国公立大学学费低，仅少量杂费，但需生活费约1万欧元/年） |
-| 双元制培训+进修 | 3年（双元制）+ 2年进修 | —（双元制培训期间有薪资，进修费用部分由企业或机构承担） |
+| Master's degree (Education or related field) | 4-5 years | $10,000~$30,000 (German public universities have low tuition fees, only small administrative charges, but living costs around €10,000 per year.) |
+| Dual vocational training + further education | 3 years (dual system) + 2 years further training | $0~$5,000 (Remuneration during dual training, with some training costs covered by the company or institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士学位（教育学或管理） | 德国大学 | 必备 | 通常要求教育学、教育管理或相关专业硕士 |
-| 管理经验证明 | 前雇主 | 必备 | 至少3年教育机构管理经验 |
-| 德语C1证书 | 歌德学院等 | 必备 | 非母语者需证明德语能力 |
+| Master's degree (Education or Management) | German university | Required | Usually requires a master's degree in education, educational management, or related field |
+| Management experience proof | Previous employer | Required | At least 3 years of management experience in educational institutions |
+| German C1 certificate | Goethe-Institut, etc. | Required | Non-native speakers must provide proof of German language proficiency |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国对继续教育和职业培训的需求持续增长，尤其是在数字化转型和人口老龄化背景下，该岗位就业前景稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Germany's demand for continuing education and vocational training continues to grow, especially against the backdrop of digital transformation and population aging, ensuring stable employment prospects for this role.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪，因机构类型和地区而异 |
-| 中级（3-6年） | $55,000~$75,000 | 税前年薪，随着经验和管理规模增加 |
-| 高级（6年以上） | $75,000~$100,000 | 税前年薪，大型机构或区域管理职位 |
+| Median salary | $51,780 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual pre-tax salary, varies by institution type and region |
+| Mid-level (3–6 years) | $55,000~$75,000 | Annual pre-tax salary, increasing with experience and management scale |
+| Senior (6+ years) | $75,000~$100,000 | Annual salary before tax, for large institutions or regional management positions |
+| average salary | $57,192 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从教育项目经理晋升为机构负责人，再向区域或全国教育管理岗位发展，也可转入企业培训或教育咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on heads of out-of-school educational institutions is mixed: administrative and operational management tasks are automated, but core responsibilities like strategic decision-making, curriculum innovation, and teacher supervision are amplified by AI tools.
+
+Can progress from education program manager to head of institution, then to regional or national education management roles, or transition to corporate training or education consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate class schedules and teacher assignments
+- Automated Financial Statement and Budget Tracking
+- Automatic generation of student progress reports based on learning data.
+- AI customer service replies for common admissions inquiries
+- Automated filling of compliance documents and government report templates.
+
+**Where AI augments the role:**
+
+- Use AI to analyze market trends and student needs, optimize course product lines
+- Quickly generate personalized marketing content and admissions copy through natural language processing
+- Uses predictive models to identify student attrition risk and intervene early
+- AI-assisted evaluation and feedback for teacher teaching quality
+- Optimizing institutional operating costs and resource allocation based on big data
+
+**Human moat:**
+
+- Government and corporate communication and compliance negotiations with education departments and industry associations
+- Handle parent/student complaints and crisis public relations decisions
+- Soft leadership skills such as fostering organizational culture and motivating teaching teams
+- Judgment and balancing of social values such as educational equity and ethics
+- Innovative education program design and cross-sector collaboration resource integration
+
+**Skills to build:**
+
+- Educational data analytics and learning analytics tools (e.g., Python, Tableau)
+- AI marketing automation and CRM system operation (e.g., HubSpot)
+- Project management and agile methodologies (e.g., Scrum, PMI)
+- Digital transformation strategy and education technology evaluation.
+- Basic AI/ML Concept Understanding and Supplier Evaluation Skills
+- Knowledge of ethics and data privacy regulations (e.g., GDPR)
+
+**Key growth areas:**
 
 - Digitalization
 - Lifelong Learning
@@ -62,68 +98,67 @@ Manages operations and strategy of non-school educational institutions such as a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有硕士学历且年薪达标者，可快速获得长期居留。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有资质认证和雇主担保的技术工人，需德语B1以上。 |
-| Subclass Chancenkarte（Opportunity Card） | 2024年新政策，基于积分制，允许求职者来德国寻找工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with a master's degree and annual salary meeting criteria, can quickly obtain permanent residence. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for skilled workers with qualification recognition and employer sponsorship, requires German B1 or above |
+| Subclass Chancenkarte (Opportunity Card) | New policy in 2024, points-based, allows job seekers to come to Germany to find work. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Head of Non-School Educational Institutions？**
-- 有教育管理背景的资深教师或培训师
-- 具备成人教育或职业教育经验的管理者
-- 希望在德国从事非学校教育管理的跨文化人才
-
-**谁不适合学Head of Non-School Educational Institutions？**
-- 缺乏德语沟通能力者
-- 偏好纯教学而非管理岗位者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experienced teachers or trainers with educational management background
+- Managers with experience in adult education or vocational education
+- Cross-cultural talents who want to work in non-school education management in Germany.
+
+**Who is not suited**
+- Those lacking German communication skills
+- Those who prefer pure teaching over management roles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an off-campus education institution director?**
+A: Junior about €40,000-55,000, intermediate €55,000-75,000, senior €75,000-100,000; public institutions may pay more.
+
+**Q: As a third-country national, how can I immigrate to Germany through this occupation?**
+A: Immigration is possible via the EU Blue Card (requires a master's degree) or a skilled migration visa (requires qualification assessment and employer sponsorship).
+
+**Q: What certifications are required?**
+A: Typically requires a master's degree in education or management, at least 3 years of management experience, and a German C1 certificate. Overseas qualifications require recognition in Germany.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Head of Non-School Educational Institutions的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for heads of non-school educational institutions?**
-答：Entry-level around €40,000-55,000, mid-level €55,000-75,000, senior €75,000-100,000, potentially higher in public institutions.
-
-**问：How can a third-country national immigrate to Germany through this profession?**
-答：Via EU Blue Card (requires master's degree) or Skilled Worker Visa (requires recognition and employer sponsorship).
-
-**问：What qualifications are required?**
-答：Typically a master's degree in education or management, at least 3 years of management experience, and German C1 certificate. Foreign degrees need recognition.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

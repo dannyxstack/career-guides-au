@@ -1,61 +1,97 @@
-# Recreation and Fitness Studies Teachers, Postsecondary（Recreation and Fitness Studies Teachers, Postsecondary）职业分析 · 美国
+# Recreation and Fitness Studies Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1193 – Recreation and Fitness Studies Teachers, Postsecondary。**
+**Occupation code: 25-1193 (SOC)**
 
-Postsecondary Recreation and Fitness Studies Teachers instruct courses in recreation, leisure, fitness, exercise physiology, and facilities management at colleges and universities, combining teaching and research.
+University leisure and fitness studies lecturers teach leisure, fitness, exercise physiology, and facility management courses at colleges or universities, combining teaching with research.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位 | 5-7年 | $20,000~$60,000（博士学费因校而异，公立大学年均$20k-$40k，私立$40k-$60k；含生活费总成本更高。） |
-| 硕士学位 | 2年 | $30,000~$70,000（硕士学费范围$30k-$70k，部分社区学院或州立大学较低。） |
+| Doctoral degree (PhD) | 5-7 years | $20,000~$60,000 (PhD tuition varies by institution; public universities average $20k-$40k per year, private $40k-$60k; total cost including living expenses is higher.) |
+| Master's degree | 2 years | $30,000~$70,000 (Master's tuition ranges $30k–$70k, lower at some community colleges or state universities.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 通常要求相关领域博士（如体育科学、休闲研究），对于研究型大学是必要条件。 |
-| 教学经验 | 高校 | 可选 | 助教或讲师经验有助于获得教职，非强制性但重要。 |
-| 专业认证 | 如ACSM、NSCA等 | 可选 | 如美国运动医学会认证，可提升竞争力，非强制。 |
+| Doctoral degree (PhD) | University | Required | Usually requires a PhD in a relevant field (e.g., sports science, leisure studies), essential for research universities. |
+| Teaching experience | Higher education institutions. | Optional | Teaching assistant or lecturer experience helps in obtaining faculty positions, non-mandatory but important. |
+| Professional certification | Such as ACSM, NSCA, etc. | Optional | e.g., American College of Sports Medicine certification, can enhance competitiveness, not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 48,000。随着健康意识提升和体育产业发展，该职业需求稳定增长。预计2023-2033年就业增长约8%，与平均水平持平。但高校教职竞争激烈，终身教职岗位有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 48,000. With rising health awareness and growth of the sports industry, demand for this occupation is steadily increasing. Employment is projected to grow about 8% from 2023-2033, on par with average. However, competition for academic positions is intense, with limited tenure-track roles.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-6年） | $55,000~$75,000 | 社区学院或教学型大学较低，研究型大学较高。 |
-| 中级（副教授，6-12年） | $65,000~$95,000 | 随 tenure 和科研成果提升。 |
-| 高级（教授，12年以上） | $80,000~$140,000 | 资深教授及系主任可达更高。 |
+| Median salary | $77,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (Assistant Professor, 0-6 years) | $55,000~$75,000 | Lower at community colleges or teaching universities, higher at research universities. |
+| Mid-level (Associate Professor, 6-12 years) | $65,000~$95,000 | Increases with tenure and research output. |
+| Senior (professor, 12+ years) | $80,000~$140,000 | Senior professors and department heads can earn more. |
+| average salary | $86,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从助理教授起步，晋升副教授、教授，或进入系主任、副院长等行政岗位。也可转向体育管理、健身行业管理或社区休闲规划等应用领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Usually start as assistant professor, advance to associate professor, professor, or into administrative roles like department chair, associate dean. Alternatively, transition to applied fields like sports management, fitness industry management, or community recreation planning
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Aging population
 - Wellness trends
@@ -64,69 +100,68 @@ Postsecondary Recreation and Fitness Studies Teachers instruct courses in recrea
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 高校通常为教师申请H-1B，配额占用但豁免部分限额，属于常见路径。 |
-| Subclass EB-2（EB-2 Advanced Degree Professional） | 博士学位可申请EB-2，需PERM或国家利益豁免（NIW），学术成果强可走NIW。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 在领域内取得突出成就（如发表顶级论文、获奖）可申请O-1，高校支持。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Universities often file H-1B petitions for faculty; quotas are used but some exemptions apply, making it a common path. |
+| Subclass EB-2 (EB-2 Advanced Degree Professional) | Doctorate can apply for EB-2, requires PERM or National Interest Waiver (NIW); strong academic record can pursue NIW. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Outstanding achievements in the field (e.g., top publications, awards) can apply for O-1, with university support. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Recreation and Fitness Studies Teachers, Postsecondary？**
-- 热爱学术研究和教学，愿意攻读博士并承受科研压力
-- 对健身、休闲、运动科学有浓厚兴趣，并希望传授知识
-- 追求稳定教职和长期职业发展，能接受较低起薪
-
-**谁不适合学Recreation and Fitness Studies Teachers, Postsecondary？**
-- 偏好快速高薪或应用实践，不愿投入多年博士学习
-- 不擅长公开演讲、学术写作或长期竞争
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about academic research and teaching, willing to pursue a PhD and endure research pressure
+- Strong interest in fitness, leisure, sports science, and desire to impart knowledge
+- Seeking stable teaching positions and long-term career development, willing to accept lower starting salary
+
+**Who is not suited**
+- Prefers fast high pay or practical work, unwilling to invest years in PhD study
+- Not good at public speaking, academic writing, or long-term competition
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for university recreation and fitness instructors?**
+A: Assistant professor annual salary approx $55k-$75k, associate professor $65k-$95k, professor $80k-$140k. Slightly higher at research universities, lower at community colleges.
+
+**Q: what are the pathways to immigrate to the US for this occupation?**
+A: Common H-1B (with sufficient university quota), EB-2/NIW (requires PhD and research results). O-1 suitable for outstanding talents. Employer sponsorship required, competition is fierce.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually requires a PhD in a relevant field (e.g., sports science, leisure studies); a master's may suffice at community colleges or teaching-focused universities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Recreation and Fitness Studies Teachers, Postsecondary为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for postsecondary recreation and fitness teachers?**
-答：Assistant professors earn $55k-$75k, associate professors $65k-$95k, and full professors $80k-$140k annually. Research universities pay higher; community colleges pay less.
-
-**问：What immigration pathways are available for this occupation?**
-答：Common pathways include H-1B (abundant for universities), EB-2/NIW (requires PhD and research), and O-1 for outstanding individuals. Employer sponsorship needed; competition is high.
-
-**问：What education is required to become a postsecondary recreation and fitness teacher?**
-答：A PhD in a related field (e.g., exercise science, leisure studies) is typically required; a master's may suffice at community colleges or teaching-oriented institutions.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

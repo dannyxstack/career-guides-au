@@ -1,61 +1,95 @@
-# Public Treasury Controller and Inspector（Public Treasury Controller and Inspector）职业分析 · FR
+# Public Treasury Controller and Inspector — career analysis · France
 
-**职业代码：K1504 – Public Treasury Controller and Inspector。**
+**Occupation code: K1504 (ROME)**
 
-Responsible for supervising and inspecting French public finances, budget execution, and treasury fund flows to ensure financial compliance and state asset security.
+Responsible for supervising and inspecting France's public finances, budget execution, and treasury fund flows to ensure financial compliance and the security of state-owned assets.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $3,000~$15,000（公立大学约3000欧元/年，高商约15000欧元/年） |
-| 学士+硕士 | 5年（Licence+Master） | $5,000~$25,000（公立大学总费用约5000-15000欧元，含生活成本） |
+| Master's degree | 2 years (Master) | $3,000~$15,000 (Public universities about 3,000 EUR/year, business schools about 15,000 EUR/year) |
+| Bachelor's + Master's degree | 5 years (Licence+Master) | $5,000~$25,000 (The total cost of public universities is about 5,000–15,000 euros, including living costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公务员考试（Concours） | 法国公职部 | 必备 | 进入国库检查员岗位必须通过A类公务员考试 |
-| 国家财政学院（ENFIP）培训 | 法国财政部 | 必备 | 录取后需在财政学院完成18个月培训 |
-| 注册会计师（DEC）或审计师认证 | 法国会计师协会（CNCC） | 可选 | 非强制但有助于晋升高级岗位 |
+| Civil Service Examination (Concours) | French Ministry of Public Service | Required | To enter the Treasury Inspector position, one must pass the Class A civil service exam |
+| National Finance Institute (ENFIP) training | French Ministry of Finance | Required | After admission, students must complete 18 months of training at the School of Finance |
+| Certified Certified Public Accountant (DEC) or auditor | French Institute of Certified Public Accountants (CNCC) | Optional | Non-mandatory but helpful for promotion to senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 15,000。法国财政监管岗位需求稳定，受公共部门招聘政策影响。数字化审计技能需求上升，但整体编制增长缓慢。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. Demand for fiscal regulatory positions in France remains stable, influenced by public sector recruitment policies. Demand for digital audit skills is rising, but overall staffing growth has been slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $30,000~$42,000 | 税前年薪，含津贴 |
-| 中级（5-15年） | $42,000~$58,000 | 税前年薪，含绩效奖金 |
-| 高级（15年以上） | $58,000~$80,000 | 税前年薪，含管理津贴 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry-level (0-5 years) | $30,000~$42,000 | Annual pre-tax salary, including allowances |
+| Intermediate (5-15 years) | $42,000~$58,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (15+ years) | $58,000~$80,000 | Pre-tax annual salary, including management allowance |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业路径从区域检查员起步，可晋升至中央级督导或管理层，也可转向公共审计或财政政策分析岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate financial data verification and compliance checks, but policy decisions, accountability, and on-site audits still require human oversight; Entry-level positions have been reduced, but senior regulatory roles have increased.
+
+Career paths start as regional inspectors, can be promoted to central-level supervisors or management, or move to public audit or fiscal policy analysis roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically verifies treasury revenue and expenditure data and budget execution records
+- Generation and archiving of standardized compliance inspection reports
+- Automatically detects abnormal transactions and generates alerts
+- Basic regulatory inquiries and preliminary compliance assessments
+
+**Where AI augments the role:**
+
+- AI assists in analyzing massive fiscal data to identify hidden patterns of corruption or waste
+- Use natural language processing to quickly interpret new regulations and compare existing processes
+- Assess the potential impact of policy adjustments on Treasury cash flows through forecasting models
+- Automated audit working paper generation allows inspectors to focus on high-risk areas
+- AI-driven visual dashboards display fiscal health indicators in real time
+
+**Human moat:**
+
+- Subjective judgment and responsibility determination for complex violations
+- Provide professional testimony and explanations in court or at hearings
+- Handling sensitive financial information related to national security
+- Design and optimize inspection processes and internal control frameworks
+- Informal communication and negotiations with civil servants and politicians
+
+**Skills to build:**
+
+- Data Analysis and Visualization (Python, SQL, Power BI)
+- Application and customization of AI audit tools (such as ML anomaly detection)
+- In-depth interpretation and critical thinking of public finance regulations
+- Cross-departmental communication and negotiation skills
+- Information security and data privacy protection knowledge
+- The ability to continuously learn new technologies on their own
+
+**Key growth areas:**
 
 - Digital audit
 - Public finance transparency
@@ -64,65 +98,67 @@ Responsible for supervising and inspecting French public finances, budget execut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salaried Worker） | 需由法国公共部门雇主担保，因岗位常为公务员身份，外籍申请较难 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能专业人士，但公共财政岗位通常不对第三国开放 |
+| Subclass Salarié (Salaried Worker) | Requires sponsorship by a French public sector employer; as positions are often civil service roles, applications by foreigners are difficult. |
+| Subclass Passeport Talent (Talent Passport) | This is for highly skilled professionals, but public finance positions are usually not open to third countries |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Treasury Controller and Inspector？**
-- 公共财政或审计专业背景
-- 愿意长期在法国公职体系发展
-- 具备法语C1以上水平
+**Who is suited**
+- Background in public finance or auditing
+- Willing to develop long-term career in the French public service system
+- Possess at least C1 in French
 
-**谁不适合学Public Treasury Controller and Inspector？**
-- 追求高薪快速回报
-- 不愿参加严格公务员考试
+**Who is not suited**
+- Pursuing high salary and quick returns
+- Unwilling to take the strict civil service exam
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Treasury inspectors?**
+A: Junior annual salary approx. €30,000-€42,000, senior can reach €80,000 (pre-tax), including various allowances, but lower than the private sector.
+
+**Q: Can citizens of third countries apply for the position of French Treasury Inspector?**
+A: Almost impossible, because this position is part of the French civil service system, requiring EU nationality or passing a rigorous civil service exam, and the French language requirements are extremely high.
+
+**Q: What is the career development path for this profession?**
+A: Starting as a regional inspector, one can be promoted to central-level management positions or shift to auditing, fiscal policy analysis, and other directions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Public Treasury Controller and Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a Treasury controller?**
-答：Entry-level annual salary ranges from €30,000 to €42,000 gross, senior up to €80,000, including allowances, but lower than private sector.
-
-**问：Can third-country nationals apply for French Treasury controller positions?**
-答：Almost impossible, as it is a French civil service position requiring EU citizenship or passing a competitive exam with very high French proficiency.
-
-**问：What is the career progression for this profession?**
-答：Starts as regional inspector, can advance to central management roles, or move into auditing or fiscal policy analysis.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Computer Science Teachers, Postsecondary（Computer Science Teachers, Postsecondary）职业分析 · 美国
+# Computer Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1021 – Computer Science Teachers, Postsecondary。**
+**Occupation code: 25-1021 (SOC)**
 
-Teach computer science courses at postsecondary level, specializing in areas like computer design, function, or operations research. Includes both teaching and research.
+Teach computer science courses at colleges and universities, specializing in computer design, function, or operations research analysis. Work includes teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-6年 | $40,000~$80,000（公立大学年均学费约2-4万美元，含生活费） |
-| 硕士 | 2年 | $30,000~$60,000（硕士可作为助理讲师，但教授职位通常要求博士） |
+| Doctorate | 5-6 years. | $40,000~$80,000 (Public university annual tuition is about $20,000-$40,000 USD, including living costs) |
+| Master's degree | 2 years | $30,000~$60,000 (A master's degree can qualify as an assistant lecturer, but professor positions usually require a PhD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学博士 | 美国大学 | 必备 | 绝大多数教授职位要求博士学位 |
-| 教学经验 | 院校 | 可选 | 担任助教或讲师的经验优先 |
+| PhD in Computer Science | U.S. universities | Required | The vast majority of professor positions require a PhD |
+| Teaching experience | Institution | Optional | Experience as a teaching assistant or lecturer preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 38,000。美国计算机科学教授岗位需求稳定，预计2023-2033年增长约12%，快于平均水平。得益于科技行业扩张和在线教育发展，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 38,000. Demand for US computer science professor positions is stable, with projected growth of about 12% from 2023 to 2033, faster than average. Driven by tech industry expansion and online education, but competition is fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 助理教授年薪 |
-| 中级（4-7年） | $75,000~$100,000 | 副教授年薪 |
-| 高级（8年以上） | $100,000~$150,000 | 正教授年薪，含研究经费 |
+| Median salary | $96,980 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Annual salary for Assistant Professor |
+| Mid-level (4-7 years) | $75,000~$100,000 | Associate professor annual salary |
+| Senior (8+ years) | $100,000~$150,000 | Annual salary for a full professor, including research funding |
+| average salary | $104,420 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业发展路径通常从助理教授晋升至副教授、正教授，部分转入研究型大学或工业界高级研发岗位。需持续发表论文并争取终身教职。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Career progression typically moves from assistant professor to associate professor to full professor, with some transitioning to research universities or senior R&D roles in industry. Requires continuous publication and pursuit of tenure.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - postsecondary education
 - computer science boom
@@ -61,67 +97,66 @@ Teach computer science courses at postsecondary level, specializing in areas lik
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 大学属于H-1B豁免名额机构，无需抽签，可直接申请 |
-| Subclass EB-2（EB-2 (Advanced Degree)） | 基于博士学位和学术成就申请职业移民绿卡，可申请国家利益豁免(NIW) |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出教授或研究人员可用O-1签证，要求国际认可 |
+| Subclass H-1B (H-1B Specialty Occupation) | Universities are H-1B cap-exempt institutions, no lottery needed, direct application possible |
+| Subclass EB-2 (EB-2 (Advanced Degree)) | Apply for employment-based green card based on PhD and academic achievements, may apply for National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Extraordinary Ability) | Distinguished professors or researchers can use O-1 visa, requires international recognition. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Science Teachers, Postsecondary？**
-- 热爱科研与教学并重的人
-- 有强烈学术发表意愿的博士
-
-**谁不适合学Computer Science Teachers, Postsecondary？**
-- 追求高薪工业界工作的人
-- 不愿长期学术竞争的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love both research and teaching
+- PhD with strong desire for academic publication
+
+**Who is not suited**
+- People seeking high-paying industry jobs
+- People who do not want long-term academic competition.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a computer science professor?**
+A: According to BLS data, average annual salary in 2023 was about USD 100,000; assistant professors start at around USD 55,000-75,000; full professors can reach USD 100,000-150,000.
+
+**Q: Main pathways for computer science professors to immigrate to the US?**
+A: Primarily through H-1B (university exempt from lottery) or O-1 visa to work, then apply for EB-2/EB-3 green card, or directly apply for green card through National Interest Waiver (NIW).
+
+**Q: Does a computer science professor need PERM for a green card?**
+A: Usually not required, as university applicants can use EB-2 NIW category to waive PERM, or apply directly via EB-1B outstanding professor category.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for computer science professors?**
-答：According to BLS, the average annual salary is about $100,000 in 2023, with assistant professors starting at $55,000-$75,000 and full professors earning $100,000-$150,000.
-
-**问：What are the main immigration pathways for computer science professors to the US?**
-答：Mainly through H-1B (cap-exempt for universities) or O-1 visa, then apply for EB-2/EB-3 green card, or direct green card via National Interest Waiver (NIW).
-
-**问：Do computer science professors need PERM for green card?**
-答：Typically no, as they can use EB-2 NIW to bypass PERM, or EB-1B Outstanding Professor category directly.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

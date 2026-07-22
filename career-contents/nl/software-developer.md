@@ -1,58 +1,94 @@
-# Software Developer（Software Developer）职业分析 · NL
+# Software Developer — career analysis · Netherlands
 
-**职业代码：2512 – Software Developer。**
+**Occupation code: 2512 (ISCO08)**
 
-Software developers design, develop, test, and maintain software applications. In the Netherlands, demand is high, especially in tech hubs like Amsterdam and Rotterdam.
+Software developers design, develop, test, and maintain software applications. In the Netherlands, this occupation is in high demand, especially in tech hubs like Amsterdam and Rotterdam.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $8,000~$15,000（公立大学每年学费，EU学生约€2,000-€4,000） |
-| 硕士 | 1-2年 | $15,000~$25,000（公立大学每年学费，非EU学生约€15,000-€25,000） |
+| Bachelor's degree | 4 years | $8,000~$15,000 (Annual tuition fees at public universities, approximately €2,000-€4,000 for EU students) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Public university annual tuition for non-EU students: approximately €15,000-€25,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学位 | 大学 | 可选 | 学士学位是入门常见要求 |
-| 软件工程认证 | 专业机构 | 可选 | 如ISTQB，非强制但有利于就业 |
+| Degree in computer science or related field | University | Optional | Bachelor's degree is a common entry requirement |
+| Software engineering certification | Professional body | Optional | Such as ISTQB, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 120,000。荷兰数字化转型加速，软件开发人员需求持续增长，预计未来十年就业增长约10%。科技公司、金融服务业和政府机构是主要雇主。
+**Job demand: very high (★★★★½).** National workforce approx. 120,000. Digital transformation in the Netherlands is accelerating, and demand for software developers continues to grow, with employment expected to increase by about 10% over the next decade. Tech companies, financial services, and government agencies are the main employers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $50,000~$70,000 | 税前年薪，含假期津贴 |
-| 高级（7年以上） | $75,000~$100,000 | 税前年薪，含假期津贴 |
+| Median salary | $68,765 | Median salary (official: CBS median hourly wage €34.8/hour × 1,976 hours annualized, BRC group 0811 Software- en applicatieontwikkel...; P25–P75 €53,352–€85,758, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $50,000~$70,000 | Pre-tax annual salary, including holiday allowance |
+| Senior (7+ years) | $75,000~$100,000 | Pre-tax annual salary, including holiday allowance |
+| average salary | $62,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级开发者可通过积累项目经验晋升为高级开发者或技术主管，进而转向架构师或技术经理。也可选择成为自由职业者或创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Junior developers can advance to senior developers or tech leads through project experience, then transition to architects or technical managers. They may also choose freelancing or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Cloud Computing
 - AI
@@ -61,68 +97,67 @@ Software developers design, develop, test, and maintain software applications. I
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能工作人员，要求工作offer且薪资达门槛。30%税收优惠也可能适用。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，要求工作offer和薪资水平。可通往永久居留。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰或特定国家毕业的留学生，允许一年内寻找工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers, requires a job offer and meeting the salary threshold. The 30% tax ruling may also apply. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated professionals, requiring a job offer and salary level. Can lead to permanent residency. |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates from the Netherlands or specific countries, allowing one year to find a job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Developer？**
-- 喜欢逻辑思考和技术挑战的人
-- 希望获得高薪和国际环境的人
-- 具备英语沟通能力的人
-
-**谁不适合学Software Developer？**
-- 不喜欢持续学习和更新技能的人
-- 偏好稳定工作时间的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy logical thinking and technical challenges
+- Those seeking high salary and international environment
+- People with English communication skills
+
+**Who is not suited**
+- Those who dislike continuous learning and skill updating
+- People who prefer stable working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a software developer in the Netherlands?**
+A: Junior developer pre-tax annual salary approx. €35,000-€45,000, mid-level approx. €50,000-€70,000, senior up to €75,000-€100,000+.
+
+**Q: How can software developers immigrate to the Netherlands?**
+A: Common pathways include: obtaining a work visa as a highly skilled migrant (kennismigrant), or through the EU Blue Card. The Orientation Year visa after study is also feasible.
+
+**Q: Which cities in the Netherlands have more software development job opportunities?**
+A: Amsterdam, Rotterdam, Utrecht, Eindhoven, and The Hague are major tech hubs, hosting numerous startups, multinationals, and financial institutions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Software Developer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for software developers in the Netherlands?**
-答：Junior developers earn €35,000-€45,000, mid-level €50,000-€70,000, and senior €75,000-€100,000+ per year before tax.
-
-**问：How can software developers immigrate to the Netherlands?**
-答：Common paths include the Highly Skilled Migrant (kennismigrant) visa, EU Blue Card, or the Orientation Year visa after studying.
-
-**问：Which Dutch cities have many software development job opportunities?**
-答：Amsterdam, Rotterdam, Utrecht, Eindhoven, and The Hague are major tech hubs with startups, multinationals, and financial institutions.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

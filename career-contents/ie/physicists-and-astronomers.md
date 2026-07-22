@@ -1,60 +1,96 @@
-# Physicists and Astronomers（Physicists and Astronomers）职业分析 · IE
+# Physicists and Astronomers — career analysis · Ireland
 
-**职业代码：2111 – Physicists and Astronomers。**
+**Occupation code: 2111 (ISCO08)**
 
-Physicists and astronomers study the fundamental laws of the universe, including matter, energy, space, and time, advancing knowledge through experiments, theories, and observations.
+Physicists and astronomers study the fundamental laws of the universe, including matter, energy, space, and time, advancing knowledge through experiments, theory, and observation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$25,000（欧盟学生学费约€10,000-€25,000/年，非欧盟学生更高） |
-| 硕士 | 1-2年（硕士） | $15,000~$30,000（学费因大学而异） |
-| 博士 | 3-4年（博士） | —（通常有奖学金覆盖学费） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$25,000 (EU student tuition about €10,000-€25,000/year, higher for non-EU students) |
+| Master's degree | 1-2 years (Master's) | $15,000~$30,000 (Tuition fees vary by university) |
+| Doctorate | 3-4 years (PhD) | $0~$15,000 (Tuition fees are typically covered by scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学博士学位 | 爱尔兰高等教育机构 | 必备 | 通常要求博士学位 |
-| 研究经验 | 博士后职位 | 可选 | 博士后经历对学术职位很重要 |
-| 特许物理学家（CPhys） | 物理学会（IOP） | 可选 | 专业认证，非强制 |
+| PhD in Physics | Irish higher education institutions | Required | Usually requires a doctoral degree |
+| Research experience | Postdoctoral position | Optional | Postdoctoral experience is important for academic positions. |
+| Chartered Physicist (CPhys) | Institute of Physics (IOP) | Optional | Professional certification, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800。爱尔兰在物理和天文学领域的就业前景稳定，主要集中在学术研究、高等教育和技术咨询领域。政府投资于研发和创新，为相关岗位提供支持。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800. Employment prospects in physics and astronomy in Ireland are stable, primarily in academic research, higher education, and technical consulting. Government investment in R&D and innovation supports related positions.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 博士后或研究助理薪资 |
-| 中级（3-7年） | $45,000~$70,000 | 讲师或高级研究员 |
-| 高级（7年以上） | $70,000~$100,000 | 教授或研究团队负责人 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Postdoctoral or Research Assistant Salary |
+| Mid-level (3–7 years) | $45,000~$70,000 | Lecturer or senior researcher |
+| Senior (7+ years) | $70,000~$100,000 | Professor or research team leader |
+| average salary | $60,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径通常从博士后研究员开始，晋升为讲师、高级讲师、教授或研究团队负责人。也可转向数据科学、金融或技术咨询等行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
+
+Career path typically starts as postdoctoral researcher, progressing to lecturer, senior lecturer, professor, or research team leader. Also possible to move into data science, finance, or technical consulting industries.
+
+**Tasks most exposed to AI:**
+
+- Automated parameter scanning and optimization for physical simulations
+- Automated preprocessing and statistical inference of experimental data.
+- Automatically generate standard physics reports and literature reviews
+- Repetitive numerical calculations and symbolic algebraic derivation
+- Automatically detect device anomalies and trigger calibration processes
+
+**Where AI augments the role:**
+
+- Use AI to accelerate theoretical derivation and hypothesis testing
+- AI-assisted design of complex experiments and optimisation of measurement plans
+- Automatically discovering new physical patterns from massive data
+- AI-driven high-dimensional parameter space exploration and visualization
+- Improve the accuracy of physical models through machine learning
+
+**Human moat:**
+
+- Propose original physical theories and hypotheses
+- Design breakthrough experiments and explain unexpected results
+- Comprehensive judgment and innovation in interdisciplinary physics problems
+- Physical intuition and simplification in complex system modeling
+- Teaching, science communication, and ethical decision-making
+
+**Skills to build:**
+
+- Machine learning frameworks (TensorFlow/PyTorch)
+- Integration of scientific computing with AI tools (e.g., PyTorch for physics simulations)
+- Data science and statistical programming (Python/R)
+- Quantum computing fundamentals and AI cross-applications
+- Automatic differentiation and symbolic AI (e.g., Mathematica automation)
+- AI model interpretability and physical consistency verification
+
+**Key growth areas:**
 
 - Data analysis
 - Quantum technology
@@ -63,68 +99,67 @@ Physicists and astronomers study the fundamental laws of the universe, including
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过€34,000（一般职业）或€27,000（紧缺职业）的高技能非欧盟工人。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业清单上的职业，年薪至少€32,000，可快速获得永居。 |
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业，年薪至少€30,000，需劳动力市场测试。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU workers earning over €34,000 (general occupations) or €27,000 (shortage occupations). |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to occupations on the shortage occupation list, annual salary at least €32,000, can obtain permanent residency quickly. |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, with an annual salary of at least €30,000 and requires a labour market test. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicists and Astronomers？**
-- 对物理和天文有强烈好奇心和研究热情
-- 数学基础扎实，善于分析和解决复杂问题
-- 愿意长期投入学术研究
-
-**谁不适合学Physicists and Astronomers？**
-- 不喜欢长时间独立工作和理论研究
-- 追求快速职业回报或高薪
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong curiosity and research passion for physics and astronomy
+- Strong foundation in mathematics, skilled in analyzing and solving complex problems.
+- Willing to commit to long-term academic research
+
+**Who is not suited**
+- Do not enjoy long periods of independent work and theoretical research
+- Seeking quick career returns or high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physicists and astronomers in Ireland?**
+A: Entry-level salary approximately €35,000-€45,000, mid-level €45,000-€70,000, and senior €70,000-€100,000. Academic salaries are relatively stable but lower than industry.
+
+**Q: How can physicists and astronomers immigrate to Ireland?**
+A: Can apply through the Critical Skills Employment Permit (if the occupation is on the shortage list) or the EU Blue Card. Usually requires a job offer and a PhD.
+
+**Q: What is the career progression path for physicists and astronomers?**
+A: Typical path: postdoctoral researcher → lecturer → senior lecturer → professor. May also transition to industry fields such as data science, finance, or technical consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physicists and Astronomers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physicists and astronomers in Ireland?**
-答：Entry-level salaries range from €35,000-€45,000, mid-level €45,000-€70,000, and senior €70,000-€100,000. Academic salaries are stable but lower than industry.
-
-**问：How can physicists and astronomers migrate to Ireland?**
-答：Apply for a Critical Skills Employment Permit (if on shortage list) or EU Blue Card. Typically requires a job offer and PhD.
-
-**问：What is the career progression for physicists and astronomers?**
-答：Typical path: postdoc → lecturer → senior lecturer → professor. Also can transition to data science, finance, or tech consulting.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

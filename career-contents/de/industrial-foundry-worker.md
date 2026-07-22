@@ -1,62 +1,98 @@
-# Industrial Foundry Worker（Industrial Foundry Worker）职业分析 · DE
+# Industrial Foundry Worker — career analysis · Germany
 
-**职业代码：2413 – Industrial Foundry Worker。**
+**Occupation code: 2413 (KldB)**
 
-Industrial foundry workers operate casting equipment to produce metal castings, including mold preparation, melting, pouring, and finishing. The profession is vital in German manufacturing, especially in automotive and mechanical engineering.
+Industrial foundry workers operate casting equipment to manufacture metal castings, including mold preparation, melting, pouring, and cleaning. This occupation plays a significant role in German manufacturing, especially in the automotive and mechanical engineering sectors.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3.5年 | —（培训期间有津贴，通常免学费） |
-| 技术员进修 | 2年（全日制） | —（部分州免学费，需自付材料费） |
-| 本科（机械工程） | 3-4年 | —（公立大学基本免学费，仅注册费） |
+| Dual system training | 3.5 years | $0~$500 (Training includes a stipend, usually tuition-free.) |
+| Technician further training | 2 years (full-time) | $0~$1,000 (Some states have tuition-free, but need to pay material fees) |
+| Bachelor's degree (Mechanical Engineering) | 3-4 years | $0~$1,500 (Public universities are basically tuition-free, only registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业培训证书 | 德国工商业联合会 (IHK) | 必备 | 从事该职业的法定资格 |
-| 铸造技术员 | 德国工程师协会 (VDI) | 可选 | 可晋升管理岗位，非强制 |
-| 资质认证（移民） | 德国联邦职业教育研究所 (BIBB) | 必备 | 外国学历需认证，可能需部分培训 |
+| Dual vocational training certificate. | German Chamber of Commerce and Industry (IHK) | Required | Statutory qualifications to work in this occupation |
+| Qualification Assessment (Migration) | German Federal Institute for Vocational Education and Training (BIBB) | Required | Foreign qualifications need assessment; may require additional training |
+| Foundry Technician | German Association of Engineers (VDI) | Optional | Opportunity to advance to management roles, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国铸造业面临技术工人短缺，就业前景稳定。随着自动化和数字化升级，对熟练铸造工的需求持续，但需具备现代技术知识。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Germany's foundry industry faces a skilled worker shortage with stable employment prospects. As automation and digitalization advance, demand for skilled foundry workers continues, but modern technical knowledge is required.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，取决于地区和公司 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪，含加班和轮班津贴 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，工头或技术员岗位 |
+| Median salary | $49,032 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual salary before tax, including overtime and shift allowances |
+| Senior (7+ years) | $45,000~$55,000 | Annual salary before tax, for foreman or technician positions. |
+| average salary | $49,956 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 职业发展可从操作工晋升为工头或技术员，也可通过进修成为铸造技术工程师或生产经理。双元制培训后还可专攻模具制造或材料科学。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial foundry workers face mixed prospects with AI automation: monitoring and quality inspection tasks in the casting process are at high risk of AI replacement, but complex manual tasks such as mold adjustment and defect handling still rely on human experience. Meanwhile, AI can significantly improve melting parameter optimization and defect prediction capabilities.
+
+Career development can progress from operator to foreman or technician, or through further study become a foundry technology engineer or production manager. After dual training, you can also specialize in mold making or materials science.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of smelting processes and automatic parameter adjustment via sensors and AI
+- Machine vision-based detection and classification of casting surface defects
+- Sprue cup level control and pouring rhythm management in automatic casting systems
+- Online automatic detection of compaction and permeability during sand mold preparation
+- Automatic deburring of flash and burrs in the cleaning process after casting cooling
+
+**Where AI augments the role:**
+
+- Using digital twin simulation to optimize gating system design and reduce trial costs.
+- AI-assisted analysis of casting defect root causes (e.g., shrinkage, porosity) and provision of process improvement suggestions
+- Train models on historical data to predict mold life and enable preventive maintenance
+- AI-driven optimization of sprue cup and riser sizes to improve casting yield
+- Machine vision-based mold assembly verification and real-time adjustment guidance
+
+**Human moat:**
+
+- Handling complex casting defects (e.g., internal shrinkage) requires experience-based repair solutions
+- Manual repair and fine adjustment of molds and sand molds (e.g., wax filling, mold finishing)
+- Adjusting melting recipes for high-strength alloys or special castings (e.g., inoculation treatment of ductile iron)
+- Non-standard fault handling in emergencies (e.g., breakout, casting interruption)
+- Communicate with designers about the feasibility of casting processes and develop manual modification plans
+
+**Skills to build:**
+
+- Industrial robot and automation line programming (e.g., FANUC, KUKA)
+- MES system operation and data analysis fundamentals
+- Casting simulation software usage (e.g., AnyCasting, MagmaSoft)
+- Additive manufacturing (3D printing sand molds/wax patterns) operation and post-processing
+- Quality Management System and SPC Statistical Process Control
+- Basic concepts of digital twins and industrial IoT
+
+**Key growth areas:**
 
 - Automation
 - Digitalization
@@ -65,69 +101,68 @@ Industrial foundry workers operate casting equipment to produce metal castings, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资格，年薪门槛约43,800欧元（2024），紧缺职业可降低门槛 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkraft)） | 需认可的职业资格，雇主担保，无薪资上限要求 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许求职者入境找工作，需基本德语和资格认可 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree or equivalent, salary threshold approx. €43,800 (2024), lower for shortage occupations |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Requires recognized professional qualifications, employer sponsorship, no salary cap. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to enter the country to find work, requires basic German and qualification recognition |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Foundry Worker？**
-- 动手能力强，喜欢技术操作
-- 适应高温和体力工作
-- 愿意接受双元制培训
-
-**谁不适合学Industrial Foundry Worker？**
-- 对高温环境敏感
-- 不喜体力劳动或轮班工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on ability and likes technical operations
+- Able to adapt to high temperatures and physical work
+- Willing to undertake dual vocational training
+
+**Who is not suited**
+- Sensitive to high-temperature environments
+- Dislike physical labor or shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an industrial moulder in Germany?**
+A: Junior annual income approx €30,000-36,000, experienced can reach €45,000-55,000, depending on region and company size.
+
+**Q: How can foreigners immigrate to Germany as foundry workers?**
+A: Requires a recognised vocational qualification or certification in Germany. Immigration is possible via the EU Blue Card (requires a degree) or the Skilled Worker visa (requires a vocational qualification); the Opportunity Card can also be used for job seeking.
+
+**Q: What are the promotion opportunities for foundry workers?**
+A: Can be promoted to foreman, casting technician, or production manager, and can become an engineer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Foundry Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an industrial foundry worker in Germany?**
-答：Entry-level annual income is about €30,000-36,000, rising to €45,000-55,000 with experience, depending on region and company size.
-
-**问：How can a foreigner migrate to Germany as a foundry worker?**
-答：Requires recognized vocational skills or qualification recognition. Possible via EU Blue Card (requires degree) or Skilled Worker Visa (requires qualification); Opportunity Card also allows job search.
-
-**问：What advancement opportunities are there for foundry workers?**
-答：Can advance to foreman, casting technician, or production manager; further training can lead to engineer roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

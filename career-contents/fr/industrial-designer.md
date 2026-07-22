@@ -1,59 +1,92 @@
-# Industrial Designer（Industrial Designer）职业分析 · FR
+# Industrial Designer — career analysis · France
 
-**职业代码：H1204 – Industrial Designer。**
+**Occupation code: H1204 (ROME)**
 
-Industrial designers create product aesthetics, functionality, and user experience, collaborating with engineers and marketing teams from concept sketches to 3D models and prototypes.
+Industrial designers are responsible for designing the product's appearance, functionality, and user experience, often collaborating with engineers and marketing teams to create 3D models and prototypes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级技师文凭（BTS） | 2年 | $500~$7,000（公立院校低学费，私立设计学院学费较高；含学徒制（apprentissage）免学费且有工资。） |
-| 专业学士（Licence Pro） | 3年 | —（公立大学Licence Pro学费低，私立院校费用高；部分可通过alternance完成。） |
-| 硕士（Master/Diplôme d'école） | 5年 | —（公立大学Master免学费（仅注册费），私立设计学院（如Strate, ENSCI）年学费约8k-12k EUR。） |
+| Advanced Technician Diploma (BTS) | 2 years | $500~$7,000 (Public institutions offer lower tuition, while private design colleges charge higher tuition; Includes apprenticeship, tuition-free with salary.) |
+| Bachelor of Professional Studies (Licence Pro) | 3 years | $0~$8,000 (Public universities with Licence Pro have low tuition fees, while private institutions have high fees; Some can be done through alternance.) |
+| Master (Master/Diplôme d'école) | 5 years | $0~$12,000 (Public university Master's tuition is waived (only registration fee), while private design schools (such as Strate, ENSCI) pay about 8k-12k EUR per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家设计文凭（DNMADE） | 法国高等教育部 | 可选 | 相当于学士水平，是工业设计常用资格认证。 |
-| 硕士或同等文凭 | 公立大学或私立设计学院 | 可选 | 大部分雇主要求Bac+5（硕士）水平，尤其是高级职位。 |
+| National Diploma in Design (DNMADE) | French Ministry of Higher Education | Optional | It is equivalent to a bachelor's degree and is a commonly used qualification certification for industrial design. |
+| Master's degree or equivalent diploma | Public universities or private design schools | Optional | Most employers require a Bac+5 (Master's) level, especially for senior positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国工业设计岗位需求稳定，随着可持续设计与数字化制造兴起，企业更注重产品创新与品牌差异化，就业前景良好，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for industrial design positions in France is stable. With the rise of sustainable design and digital manufacturing, companies are focusing more on product innovation and brand differentiation. Job prospects are promising, but competition is fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，通常起步约30k EUR。 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，视公司规模和项目经验。 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，设计主管或创意总监可达60k+ EUR。 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | The pre-tax annual salary usually starts at around 30k EUR. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, depending on company size and project experience. |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary: Design Supervisor or Creative Director can reach 60k+ EUR. |
+| average salary | $30,264 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业起点通常是初级设计师或设计助理，积累经验后可晋升为高级设计师、设计主管或创意总监，也可向用户体验设计或战略设计方向发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
+
+Career starts usually as junior designers or design assistants, and after gaining experience, they can be promoted to senior designer, design supervisor, or creative director, or may also develop into user experience design or strategic design.
+
+**Tasks most exposed to AI:**
+
+- Multi-plan concept generation and rapid rendering
+- Parameter-based repetitive 3D modeling and modification
+- Standardized writing of product specification sheets
+- Initial classification and report generation from user research data
+
+**Where AI augments the role:**
+
+- Use AI generative design to explore innovative forms and structures
+- AI-driven user behaviour simulation and usability testing
+- Real-time AI rendering and design review accelerate iteration
+- AI-assisted material performance prediction and sustainable design
+
+**Human moat:**
+
+- Interdisciplinary innovative thinking and design strategy formulation
+- Deep understanding of user emotions, culture, and social motivations.
+- Qualitative insights from complex user research and usability testing
+- Strategic communication and coordination with engineers, marketing, and clients
+
+**Skills to build:**
+
+- Generative AI tools (e.g., DALL·E, Midjourney) for concept design
+- Parametric and algorithmic design (e.g., Grasshopper, Fusion 360 generative design)
+- User research and data-driven design decisions (including foundational AI data analysis).
+- VR/AR prototype design and interactive experience
+- Knowledge of Sustainable Design and Life Cycle Assessment
+- Project management design and cross-team leadership
+
+**Key growth areas:**
 
 - Sustainable Design
 - Digital Manufacturing
@@ -62,68 +95,67 @@ Industrial designers create product aesthetics, functionality, and user experien
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于具有高级资质的设计师，持有硕士文凭或至少5年工作经验，可获4年居留。 |
-| Subclass Salarié（Employee (Work Permit)） | 受雇于法国公司，提供工作合同并获得工作许可，通常需要公司证明无法找到合适欧盟候选人。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高薪岗位（年薪>53k EUR），快速通道，可携带家属。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for designers with senior qualifications, holding a master's degree or at least 5 years of work experience, eligible for 4 years of residence. |
+| Subclass Salarié (Employee (Work Permit)) | Employed by a French company, offering a work contract and obtaining a work permit, it usually requires the company to prove that it cannot find suitable EU candidates. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary > 53k EUR), fast track, and family members allowed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Industrial Designer？**
-- 对产品设计和用户需求有强烈兴趣，具备审美和工程思维
-- 熟练使用3D建模和渲染软件（如SolidWorks, Rhino, Keyshot）
-- 能够与多学科团队（工程师、市场营销）高效协作
-
-**谁不适合学Industrial Designer？**
-- 不喜欢频繁修改方案或应对客户/市场反馈
-- 对数字化工具和新技术学习持排斥态度
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in product design and user needs, with aesthetic and engineering thinking
+- Proficient in 3D modeling and rendering software (such as SolidWorks, Rhino, Keyshot)
+- Able to collaborate efficiently with multidisciplinary teams (engineers, marketing).
+
+**Who is not suited**
+- Dislikes frequent plan revisions or responding to customer/market feedback
+- There is an aversion to learning digital tools and new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for industrial designers in France?**
+A: Junior designers earn about 28k-35k EUR per year, intermediate designers 35k-45k, and senior designers 45k-60k. Large enterprises or consulting firms offer higher salaries, but competition is fierce.
+
+**Q: How can third-country citizens immigrate to France as industrial designers?**
+A: Usually, you need to obtain a work contract with a French company and apply for a Salarié or Passeport Talent visa. A master's degree or five years of experience is key; Passeport Talent streamlines the process and enables entrepreneurship.
+
+**Q: Does industrial design require French professional certification?**
+A: Non-mandatory, but having a DNMADE or master's degree is more recognized by employers. Some high-end projects may require specific software certifications (such as SolidWorks certification).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Industrial Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for industrial designers in France?**
-答：Entry-level designers earn around 28k-35k EUR gross annually, mid-level 35k-45k, and senior 45k-60k. Salaries are higher at large firms or consultancies but competition is intense.
-
-**问：How can a third-country national migrate to France as an industrial designer?**
-答：Generally, you need a job offer from a French company and apply for a Salarié or Passeport Talent visa. A Master's degree or 5 years of experience is key; Passeport Talent streamlines the process and allows self-employment.
-
-**问：Is professional certification required for industrial design in France?**
-答：Not mandatory, but a DNMADE or Master's degree is highly regarded. Some high-end projects may require specific software certifications like SolidWorks.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

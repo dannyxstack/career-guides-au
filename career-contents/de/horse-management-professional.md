@@ -1,60 +1,94 @@
-# Horse Management Professional（Horse Management Professional）职业分析 · DE
+# Horse Management Professional — career analysis · Germany
 
-**职业代码：1130 – Horse Management Professional。**
+**Occupation code: 1130 (KldB)**
 
-Horse management professionals handle horse breeding, training, care, and facility management, including stable management, riding lessons, and event organization. They need animal science knowledge and practical skills.
+Equine management careers cover horse breeding, training, care, and equestrian facility management, including stable management, riding lessons, and event organization. Practitioners need animal science knowledge and practical skills.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（双元制培训期间有企业津贴，通常无学费） |
-| 在职进修（专业马术或管理） | 2年 | $3,000~$8,000（如Meister或Fachwirt课程，费用因地区而异） |
+| Dual vocational training | 3 years | $0~$0 (Dual system training includes company allowance, usually no tuition fees) |
+| In-service training (specialized equestrian or management) | 2 years | $3,000~$8,000 (E.g., Meister or Fachwirt courses, fees vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 马业管理培训证书 | 德国联邦经济与能源部 | 必备 | 双元制培训（Berufsausbildung zum Pferdewirt） |
-| 马术教练执照 | 德国马术协会 | 可选 | 高级教练需额外认证 |
+| Horse management training certificate | German Federal Ministry for Economic Affairs and Energy | Required | Dual vocational training (Berufsausbildung zum Pferdewirt) |
+| Equestrian coach license | German Equestrian Federation | Optional | Advanced coaches require additional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 15,000。德国马业就业前景稳定，但集中在下萨克森、北威等传统马术区。需求主要来自马术俱乐部和农场，增长平稳，竞争不激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Employment prospects in the German equestrian industry are stable, concentrated in traditional horse-riding regions like Lower Saxony and North Rhine-Westphalia. Demand mainly comes from riding clubs and farms, with steady growth and low competition.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，培训完成后起薪 |
-| 中级（3-8年） | $30,000~$38,000 | 含专业资质及管理职责 |
-| 高级（8年以上） | $38,000~$50,000 | 如农场主或高级教练 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, starting salary after training completion |
+| Mid-level (3–8 years) | $30,000~$38,000 | Includes professional qualifications and management duties |
+| Senior (8+ years) | $38,000~$50,000 | Such as farm owners or senior instructors |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径可从马厩助手晋升至马术教练或马场经理。部分通过进修成为兽医或动物技术员。独立经营马场或提供马术治疗服务是升迁方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Equine management combines traditional farming and management; AI can optimise data recording, health monitoring, etc., but core tasks like horse training, care, and event organisation rely on human intuition and emotion, making them less replaceable.
+
+Career progression can go from stable hand to horse riding instructor or stable manager. Some advance to become veterinarians or animal technicians through further study. Running an independent stable or offering equine therapy services are advancement paths.
+
+**Tasks most exposed to AI:**
+
+- Electronic recording of horse health, feed consumption, and other data
+- Monitor stable environment parameters such as temperature and humidity, and adjust automatically.
+- Initial diagnosis of common horse disease symptoms
+- Automates mixing of feed ingredient ratios
+
+**Where AI augments the role:**
+
+- Using AI to analyze horse movement data to optimize training plans
+- Real-time monitoring of horse physiological indicators via wearable devices to warn of health risks
+- Using AI simulation to model race routes or obstacle setups
+- Managing equestrian facility bookings and scheduling via automated systems
+
+**Human moat:**
+
+- Deep understanding and intuitive judgment of horse behavior and emotions.
+- Adjust feeding and training plans flexibly based on each horse's condition
+- On-site decision-making skills for handling emergency veterinary situations
+- High emotional intelligence communication and collaboration with customers, couriers, and other personnel
+- Equestrian cultural heritage and manual skills (e.g., saddling, hoof care)
+
+**Skills to build:**
+
+- Learn livestock management software (e.g., HerdWatch, Timeless)
+- Master basic data analysis (Excel, Python for analyzing horse health data)
+- Use equine wearable devices (e.g., Heart Rate Monitor)
+- AI tools assist breeding decisions (e.g., predicting pedigree advantages).
+- Social media and digital marketing skills (promoting equestrian events)
+- Equipment repair / drone inspection of horse farm infrastructure
+
+**Key growth areas:**
 
 - Horse Breeding
 - Equestrian Tourism
@@ -63,62 +97,64 @@ Horse management professionals handle horse breeding, training, care, and facili
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需德国认可的职业资质，如双元制培训证书 |
-| Subclass Chancenkarte（Opportunity Card） | 需达到积分制要求，德语B1以上 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Need German-recognised professional qualifications, such as dual system training certificates |
+| Subclass Chancenkarte (Opportunity Card) | Must meet points-based requirements, German B1 or above |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Horse Management Professional？**
-- 热爱马匹和户外工作
-- 愿意接受职业培训
-- 有耐心和体力
+**Who is suited**
+- Passionate about horses and outdoor work
+- Willing to undergo vocational training
+- Requires patience and physical strength
 
-**谁不适合学Horse Management Professional？**
-- 不喜体力劳动和恶劣天气
-- 追求高薪
+**Who is not suited**
+- Dislikes physical labor and bad weather
+- Pursuing high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for horse management professionals in Germany?**
+A: Junior annual salary approx. €25,000-30,000, senior up to €50,000, but overall below German average.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Difficult. Must complete German dual-system training, and the occupation is not in shortage; employer sponsorship is very difficult. The opportunity card path may be possible but requires high points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Horse Management Professional属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horse management professionals in Germany?**
-答：Entry-level annual salary is about €25,000-30,000, experienced up to €50,000, but generally below German average.
-
-**问：Can foreigners immigrate to Germany through this occupation?**
-答：Difficult. Requires German dual training; occupation not in shortage, employer sponsorship is challenging. Opportunity Card possible but needs high points.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Mixed Production Farmers nec（Mixed Production Farmers nec）职业分析 · 新西兰
+# Mixed Production Farmers nec — career analysis · New Zealand
 
-**职业代码：121799 – Mixed Production Farmers nec。**
+**Occupation code: 121799 (ANZSCO)**
 
-Manage mixed crop and livestock farms, including grains, vegetables, and cattle. Highly feasible for skilled migration via Green List or SMC.
+Manage crop cultivation and livestock rearing on a mixed farm, including grains, vegetables, cattle, and sheep. Feasibility for New Zealand skilled migration is high, with options through the Green List or SMC for residency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| NZ证书（3级） | 1年 | $5,000~$15,000（公立理工学院约5000-10000 NZD） |
-| 大专文凭（6级） | 2年 | $15,000~$25,000（如林肯大学农学大专） |
+| NZ certificate (Level 3) | 1 year | $5,000~$15,000 (Public polytechnics about 5000-10000 NZD) |
+| Advanced Diploma (Level 6) | 2 years | $15,000~$25,000 (e.g., Lincoln University's agricultural diploma) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家农学证书（3级） | NZQA认可机构 | 可选 | 常见入门资格，非强制 |
-| 农学大专文凭 | 林肯大学或理工学院 | 可选 | 有利求职和移民加分 |
-| 全驾照 | NZTA | 必备 | 农场工作通常要求, 手动挡优先 |
+| Full driver's license | NZTA | Required | Farm work usually requires manual transmission preferred |
+| National Certificate in Agriculture (Level 3) | NZQA-recognised institution | Optional | Common entry qualification, not mandatory |
+| Diploma of Agriculture | Lincoln University or polytechnic | Optional | Beneficial for job seeking and migration points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。新西兰农业持续增长，尤其是乳制品和园艺。预计就业稳定，但受气候和市场价格波动影响。初级职位易找，但晋升需经验。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. New Zealand's agriculture continues to grow, especially dairy and horticulture. Employment is expected to be stable but affected by climate and market price fluctuations. Entry-level positions are easy to find, but advancement requires experience.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 农场工人或助理 |
-| 中级（3-7年） | $55,000~$70,000 | 高级农民或主管 |
-| 高级（7年以上） | $70,000~$90,000 | 农场经理或持有股份 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Farm Worker or Assistant |
+| Mid-level (3–7 years) | $55,000~$70,000 | Senior farmer or supervisor |
+| Senior (7+ years) | $70,000~$90,000 | Farm manager or holding shares |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从农场助手或初级农民起步，积累经验后可晋升为农场经理或农场主。也可转向农业咨询或供应链管理。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Start as a farm assistant or junior farmer, gain experience, and advance to farm manager or farm owner. Can also transition to agricultural consulting or supply chain management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Manage mixed crop and livestock farms, including grains, vegetables, and cattle.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 工作经验2年后可申请居留，需时薪达到中位数 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，学历+工作经验可积分，年薪达中位数门槛 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，最长3年，后续可转其他路径 |
+| Subclass Green List T2 (Green List Work to Residence) | After 2 years of work experience, you can apply for residency, with hourly wage reaching the median. |
+| Subclass SMC (Skilled Migrant Category) | 6-point system; points from qualifications + work experience, meeting median wage threshold. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, up to 3 years, with option to switch to other pathways later |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mixed Production Farmers nec？**
-- 喜欢户外体力劳动和动物
-- 有农业背景或乡村生活意愿
-- 愿意学习生产管理技能
-
-**谁不适合学Mixed Production Farmers nec？**
-- 拒绝脏活累活或不规律作息
-- 喜欢城市环境或高收入行业
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical labor and animals
+- Have an agricultural background or willingness to live in rural areas
+- Willing to learn production management skills
+
+**Who is not suited**
+- Refuse dirty, hard, or irregular schedule jobs
+- Prefer urban environments or high-income industries
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a mixed crop and livestock farmer in New Zealand?**
+A: Junior: about 45k-55k NZD/year, mid-level: 55k-70k, manager: 70k-90k, depending on farm type and region.
+
+**Q: How can mixed farmers immigrate to New Zealand?**
+A: Can be done via Green List T2 (work 2 years then residence) or SMC 6-point system. Must have hourly wage at median (approx NZD 29.66/hr) and relevant qualification or experience.
+
+**Q: How difficult is it to find employment as a mixed crop and livestock farmer in New Zealand?**
+A: Agricultural labor shortages, especially in remote areas, but competition is low. Requires adaptability to outdoor work and physical labor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Mixed Production Farmers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a mixed farmer in NZ?**
-答：Entry-level: NZD 45,000-55,000; Mid: 55,000-70,000; Manager: 70,000-90,000, depending on farm type and region.
-
-**问：How can a mixed farmer immigrate to NZ?**
-答：Via Green List Tier 2 (2-year work-to-residence) or SMC 6-point system. Requires wage at median (NZD 29.66/hr) and relevant qualification/experience.
-
-**问：How is the job market for mixed farmers in NZ?**
-答：Labor shortage, especially in rural areas, low competition. Must adapt to outdoor and physical work.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

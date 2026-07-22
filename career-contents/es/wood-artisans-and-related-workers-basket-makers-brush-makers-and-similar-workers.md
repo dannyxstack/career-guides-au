@@ -1,60 +1,96 @@
-# Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers（Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers）职业分析 · ES
+# Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers — career analysis · Spain
 
-**职业代码：7617 – Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers。**
+**Occupation code: 7617 (CNO)**
 
-This occupation covers artisans who handcraft wood products, baskets, brushes, and similar items from natural materials, preserving traditional skills while adapting to modern market demands.
+This profession includes craftsmen who handcraft wooden products, baskets, brushes, and other natural materials, preserving traditional techniques while adapting to modern market demands.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$1,500（公立学校学费，不含材料） |
-| 高等职业教育（FP Grado Superior） | 2年 | $800~$2,000（公立学校学费） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$1,500 (Public school tuition fees do not include materials) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $800~$2,000 (Public school tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工与家具技术员（FP Grado Medio） | 西班牙教育部 | 可选 | 相关职业教育文凭 |
-| 手工艺大师认证 | 地区政府或行业协会 | 可选 | 非强制，但提升专业信誉 |
+| Woodworking and Furniture Technician (FP Grado Medio) | Spanish Ministry of Education | Optional | Relevant vocational education diplomas |
+| Certified as a master craftsman | Regional governments or industry associations | Optional | Non-mandatory, but it enhances professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。西班牙手工制品市场稳定，但受自动化影响，就业增长缓慢。旅游区和手工艺市集提供部分机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. The Spanish handicraft market is stable, but employment growth is slow due to automation. Tourist areas and handicraft markets offer some opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪 |
-| 中级（3-8年） | $20,000~$28,000 | 税前年薪 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含自主创业 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including self-employment |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 从业者可沿学徒、熟练工匠、工坊主管或自主创业发展，部分可向家具修复、定制木工等细分领域转型。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Manual occupations such as woodworking artisans carry moderate risks in automation. AI tools can assist with design and optimize material utilization, but core craftsmanship and aesthetic judgment are difficult to replace; Entry-level positions have been somewhat reduced, but there is still demand for high-skilled customized directions.
+
+Practitioners can develop their careers as apprentices, skilled craftsmen, workshop supervisors, or start their own businesses, with some transitioning into niche fields such as furniture restoration and custom woodworking.
+
+**Tasks most exposed to AI:**
+
+- Repetitive physical labor, such as standard-sized wood cutting and basic basket weaving patterns
+- Monitoring and recording of processes such as wood drying and material inventory management
+- Quality inspection of simple products (such as dimensions and surface smoothness)
+- Low-skill assembly processes such as bristle arrangement and fixing
+- Drawing basic design drawings and generating bills of materials
+
+**Where AI augments the role:**
+
+- AI generates complex wood carving and inlay pattern design schemes
+- AI simulates material stress and structural strength to optimize product durability
+- AI-assisted rapid prototyping of customized orders and communication with customers
+- Intelligent tools (such as CNC machine tools) improve the precision of complex surface machining
+- Use AI to analyze market trends and guide product development and inventory management
+
+**Human moat:**
+
+- Techniques such as hand carving and fine polishing that require tactile feedback
+- Intuitive judgment of natural material properties (such as wood grain and willow flexibility).
+- Empathy in customer aesthetic communication and personalized customization
+- The inheritance and innovation of traditional craftsmanship
+- Flexible adaptability for on-site repairs and temporary adjustments
+
+**Skills to build:**
+
+- 3D modeling and CAD design software (such as Fusion 360)
+- CNC machine operation and programming
+- Materials Science (such as wood modification, composite material applications)
+- Digital marketing and e-commerce platform operations (such as Etsy, own websites)
+- Project management and client communication skills
+- Knowledge of sustainable materials and production processes
+
+**Key growth areas:**
 
 - Artisan
 - Handcraft
@@ -63,64 +99,66 @@ This occupation covers artisans who handcraft wood products, baskets, brushes, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需西班牙雇主担保工作合同，但工匠类岗位通常不易获得 |
+| Subclass Cuenta ajena (Work Contract Visa) | A Spanish employer-sponsored work contract is required, but artisan positions are usually hard to obtain |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers？**
-- 热爱手工制作与传统文化的人
-- 具备耐心和精细动手能力的人
-- 愿意在小众领域深耕的人
+**Who is suited**
+- People who love handicrafts and traditional culture
+- People with patience and meticulous hands-on skills
+- Those willing to deeply cultivate niche fields
 
-**谁不适合学Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers？**
-- 追求高薪与快速晋升的人
-- 对重复性手工工作缺乏耐心的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Those impatient with repetitive manual work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a woodworker in Spain?**
+A: Entry-level approximately €16,000-20,000, mid-level €20,000-28,000, senior €28,000-35,000 (pre-tax).
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: Difficult; this occupation is not in demand and employer sponsorship is hard to obtain. Usually requires own funds or investment migration.
+
+**Q: What are the career progression paths for this occupation?**
+A: You can grow into a skilled craftsman, workshop manager, or start a business to open a handicraft shop or furniture restoration studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood Artisans and Related Workers; Basket Makers, Brush Makers and Similar Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for wood artisans in Spain?**
-答：Junior: €16k-20k, mid-level: €20k-28k, senior: €28k-35k (gross).
-
-**问：Can non-EU citizens immigrate to Spain through this occupation?**
-答：Unlikely; not a shortage occupation; employer sponsorship is rare.
-
-**问：What are the career paths for this occupation?**
-答：Progress to master artisan, workshop supervisor, or self-employed in craft shops or furniture restoration.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

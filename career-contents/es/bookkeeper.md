@@ -1,58 +1,94 @@
-# Bookkeeper（Bookkeeper）职业分析 · ES
+# Bookkeeper — career analysis · Spain
 
-**职业代码：3403 – Bookkeeper。**
+**Occupation code: 3403 (CNO)**
 
-Records daily financial transactions, maintains general ledgers and sub-ledgers, prepares financial statements, and reconciles bank accounts, playing a key role in SMEs.
+Responsible for recording daily financial transactions, maintaining the general ledger and ledgers, preparing financial statements, and reconciling bank accounts, playing a key role in SMEs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $300~$2,000（公立学校学费低，私立较高） |
-| 高级职业培训（FP Grado Superior） | 2年 | $400~$3,000（更受雇主青睐，部分课程含实习） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $300~$2,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $400~$3,000 (Favored by employers, some courses include internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 会计软件认证（如ContaSol、SAGE） | 软件开发商或授权培训中心 | 可选 | 非强制，但显著提升就业机会 |
-| FP Grado Superior en Administración y Finanzas | 教育部认可的职业教育中心 | 可选 | 最相关的学历路径 |
+| Accounting software certification (such as ContaSol, SAGE) | Software developers or authorized training centers | Optional | Non-mandatory, but significantly increases employment opportunities |
+| FP Grado Superior en Administración y Finanzas | A vocational education center recognized by the Ministry of Education | Optional | The most relevant academic paths |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 80,000。西班牙中小企业数量庞大，簿记需求稳定。数字化转型推动对熟练使用会计软件人才的需求，但基础岗位可能面临自动化压力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 80,000. Spain has a large number of small and medium-sized enterprises and stable bookkeeping demand. Digital transformation has driven demand for skilled accounting software professionals, but foundational positions may face pressure on automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，主管级更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$42,000 | Pre-tax annual salary, higher supervisor level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级簿记员晋升为高级簿记员、会计主管或财务经理；考取注册会计师（Contador Público）或认证课程可提升竞争力。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Bookkeeper roles face significant automation pressure: AI can already handle core tasks like invoice entry, reconciliation, and BAS reporting, reducing demand for entry-level positions. Need to transition to financial advisor
+
+Promotion from junior bookkeeper to senior bookkeeper, accounting supervisor, or financial manager; Obtaining the CPA (Contador Público) or certification courses can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Invoice scanning and data entry
+- Automated bank reconciliation
+- BAS and GST return generation
+- Basic payroll calculation and disbursement.
+- Accounts receivable and payable reconciliation
+
+**Where AI augments the role:**
+
+- Anomaly transaction identification and alerts (manual review after AI flagging)
+- Cash flow forecasting and budget analysis
+- Client bill explanation and tax optimisation advice
+- Multi-entity consolidated report analysis
+- Internal Process Automation Scripting
+
+**Human moat:**
+
+- Face-to-face financial advice communication with clients
+- Complex tax dispute resolution and compliance judgment
+- Financial impact assessment of unstructured data (e.g., contracts)
+- Management decision support and strategic advice
+- Ethical and legal risk judgment
+
+**Skills to build:**
+
+- Master Xero/MYOB advanced functions and API integration
+- Learn Python or R for financial data analysis.
+- Master Power BI/Tableau data visualization
+- Obtain CPA/CA certification
+- In-depth knowledge of tax law (GST/Payroll Tax)
+- Develop client consultation and communication skills
+
+**Key growth areas:**
 
 - Digitalization
 - SME demand
@@ -61,65 +97,64 @@ Records daily financial transactions, maintains general ledgers and sub-ledgers,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 由西班牙雇主提供工作合同并申请工作居留，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于年薪超40,000欧元的高技能职位，簿记员通常不满足薪资门槛，除非任职大型企业。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留一年寻找工作，需提供经济能力证明。 |
+| Subclass Cuenta ajena (Work Contract) | A Spanish employer must provide a work contract and apply for work residence, proving that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | For high-skilled positions with annual salaries exceeding 40,000 euros, bookkeepers usually do not meet the salary threshold unless employed by large companies. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for one year to look for work, and you must provide proof of financial capability. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bookkeeper？**
-- 细心、有条理、对数字敏感的人
-- 寻求稳定办公室工作、不需高等学历者
-- 愿意提升会计软件技能以增强竞争力者
-
-**谁不适合学Bookkeeper？**
-- 厌恶重复性工作或希望高薪者
-- 不擅长使用财务软件或抗拒学习新技术者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized, and sensitive to numbers
+- Those seeking stable office jobs without higher education required
+- Willing to improve accounting software skills to enhance competitiveness
+
+**Who is not suited**
+- Those who dislike repetitive work or hope for high salaries
+- Those who are not good at using financial software or resist learning new technologies
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bookkeepers?**
+A: Junior bookkeepers earn about €18,000–24,000 per year, intermediate salaries €24,000–€32,000, and seniors up to €42,000. Salaries vary depending on the city, company size, and experience.
+
+**Q: How can foreign bookkeepers immigrate to Spain?**
+A: The most common route is to apply for work residency (Cuenta ajena) through a work contract offered by a Spanish employer. Since this occupation is not in urgent demand, it must be proven that the position cannot be held by a national. High-skilled visas are generally not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Bookkeeper的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for bookkeepers?**
-答：Entry-level bookkeepers earn around €18,000-€24,000 gross annually, mid-level €24,000-€32,000, and senior up to €42,000, varying by city, company size, and experience.
-
-**问：How can foreign bookkeepers migrate to Spain?**
-答：The most common path is securing a job offer and applying for a work permit (Cuenta ajena). Since the occupation is not in shortage, employers must justify hiring a non-EU worker. The highly qualified professional visa rarely applies.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

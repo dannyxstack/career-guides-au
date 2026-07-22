@@ -1,58 +1,94 @@
-# Funeral Director（Funeral Director）职业分析 · FR
+# Funeral Director — career analysis · France
 
-**职业代码：K2601 – Funeral Director。**
+**Occupation code: K2601 (ROME)**
 
-Coordinate and manage funeral services, including body preparation, casket selection, ceremony arrangement, family communication, and administrative procedures.
+Responsible for organizing and coordinating funeral ceremonies, including body handling, selection of coffins, ceremony arrangements, communication with families, and administrative procedures.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 殡葬服务 | 2年（CAP） | —（公立学校免费，私立学校约3000-10000欧元） |
-| Bac Pro 殡葬业 | 3年（Bac Pro） | —（公立学校免费，私立学校约4000-12000欧元） |
+| CAP Funeral Services | 2 years (CAP) | $0~$10,000 (Public schools are free, while private schools cost about 3,000–10,000 euros) |
+| Bac Pro funeral industry | 3 years (Bac Pro) | $0~$12,000 (Public schools are free, while private schools cost about 4,000–12,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家殡葬文凭（DNM） | 法国劳动部 | 必备 | 从事殡葬业务必备资质，需通过理论及实践考试 |
-| 遗体防腐证书 | 法国卫生与预防部 | 必备 | 从事遗体防腐处理需额外获得此证书 |
+| National Funeral Diploma (DNM) | French Ministry of Labor | Required | Essential qualifications for funeral business operations, requiring passing both theoretical and practical exams |
+| Body preservation certificate | French Ministry of Health and Prevention | Required | Engaging in body embalming requires obtaining this certificate separately |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 18,000。随着老龄化加剧，法国殡葬服务业需求稳定增长，年均新增岗位约500个。行业受法规严格监管，但就业竞争适中。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 18,000. With the intensifying aging population, demand for French funeral services has steadily increased, with about 500 new jobs added annually. The industry is strictly regulated by regulations, but employment competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，含奖金，管理岗更高 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, including bonuses, with higher management positions |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级殡仪助理晋升为殡仪顾问、部门主管，或独立经营殡仪馆。需持续学习法规与礼仪，部分从业者转向临终关怀或纪念品设计。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of funeral service supervisors combines high-emotional interaction with administrative processes; AI can optimize paperwork and resource management, but core rituals and empathetic communication are hard to replace.
+
+You can be promoted from junior funeral assistant to funeral consultant, department head, or run a funeral home independently. Ongoing study of regulations and etiquette is necessary, with some practitioners turning to hospice care or souvenir design.
+
+**Tasks most exposed to AI:**
+
+- Document processing: Generate legal documents such as death certificates and cremation permits
+- Scheduling: Automatically coordinate ceremony times, vehicles, and personnel
+- Customer information management: automatically updates and retrieves family preference records
+- Inventory management: Automatic ordering and tracking of coffins, flowers, and other materials
+- Financial settlement: generate bills, process payments, and handle insurance claims
+
+**Where AI augments the role:**
+
+- Personalized Ceremony Planning: AI analyzes family preferences, recommends music, and sets of decorations
+- Multilingual communication: Real-time translation to communicate with families
+- Document compliance checks: AI-assisted review of legal document integrity
+- Emotional support: AI provides grief counseling resources and advice
+- Virtual memorials: Create online memorial pages and videos
+
+**Human moat:**
+
+- Empathy and emotional support: Providing humane care during grief
+- Ceremony hosting and flexibility: Adjust ceremony details according to cultural customs
+- Complex Decision-Making: Handling Emergencies (such as body damage)
+- Building trust: Establish long-term relationships of trust with family members
+- Creative planning: Design unique and meaningful farewell ceremonies
+
+**Skills to build:**
+
+- Digital funeral management software (such as FuneralCMS)
+- Basic data analysis: used for resource planning
+- Emotional communication and crisis intervention training
+- Multilingual service capabilities
+- Use of AI tools (such as ChatGPT to assist documents)
+- Project Management: Coordinating multiple suppliers
+
+**Key growth areas:**
 
 - Aging population
 - Increasing cremation rate
@@ -61,65 +97,64 @@ Coordinate and manage funeral services, including body preparation, casket selec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国殡仪公司，需获得工作许可（劳动力市场审核） |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 可申请人才护照，需证明高技能或经济贡献，但殡葬服务行业非典型 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪高于法国平均工资1.5倍（约53,000欧元），此职业一般达不到 |
+| Subclass Salarié (Salarié (Employee)) | Employed by a French funeral company and required to obtain a work permit (labor market audit) |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | You can apply for a talent passport, which requires proof of high skill or economic contribution, but the funeral service industry is not typical |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary must be 1.5 times the French average (about 53,000 euros), which is generally not available for this profession |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Funeral Director？**
-- 具有同理心与沟通能力的人
-- 能够承受情绪压力、处理悲伤场景的人
-- 注重细节与组织协调能力的人
-
-**谁不适合学Funeral Director？**
-- 对死亡或遗体处理感到极度不适的人
-- 不善于在高压环境下稳定工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and communication skills
+- People who can withstand emotional stress and handle sad scenes
+- People who pay attention to detail and have organizational coordination skills
+
+**Who is not suited**
+- People who feel extremely uncomfortable about death or body disposal
+- People who are not good at stable work under high pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a funeral service supervisor in France?**
+A: Entry-level salaries are about 24,000-30,000 euros per year, intermediate salaries 30,000-40,000 euros per year, and seniors up to 55,000 euros per year (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to France through the funeral industry?**
+A: The most feasible approach is to apply for the Salarié visa after obtaining a work contract with a French employer. Passeport Talent or EU Blue Card requires high salaries or specialized skills, which are difficult to meet in this industry. EU citizens move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Funeral Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Funeral Director in France?**
-答：Entry-level: €24,000-30,000; mid-level: €30,000-40,000; senior: up to €55,000 per year (gross).
-
-**问：How can a foreigner immigrate to France through the funeral industry?**
-答：The most feasible route is to secure a job offer and apply for a Salarié visa. Passeport Talent or EU Blue Card require high salary or special skills, which are uncommon in this field. EU citizens have free movement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

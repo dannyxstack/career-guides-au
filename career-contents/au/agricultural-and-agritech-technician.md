@@ -1,61 +1,95 @@
-# Agricultural and Agritech Technician（Agricultural and Agritech Technician）职业分析 · 澳大利亚
+# Agricultural and Agritech Technician — career analysis · Australia
 
-**职业代码：311112 – Agricultural and Agritech Technician。**
+**Occupation code: 311112 (ANZSCO)**
 
-Agricultural and Agritech Technicians assist agricultural research, conduct soil, crop, and livestock experiments, and apply precision farming techniques to improve productivity.
+Agricultural and agricultural technicians assist in agricultural science research, conduct experiments and analyses on soil, crops, and livestock, and apply precision agriculture technologies to improve productivity.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书（Certificate III/IV） | 1-2年 | $8,000~$15,000（公立TAFE学费） |
-| 大专文凭（Diploma） | 2年 | $15,000~$30,000（公立TAFE或私立学院） |
-| 学士学位（Bachelor） | 3-4年 | $30,000~$45,000（大学年均学费） |
+| Vocational Education Certificate (Certificate III/IV) | 1-2 years | $8,000~$15,000 (Public TAFE tuition fees) |
+| Diploma (TAFE diploma). | 2 years | $15,000~$30,000 (Public TAFE or private colleges) |
+| Bachelor's degree | 3-4 years | $30,000~$45,000 (Average annual university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业三级证书（Certificate III in Agriculture） | TAFE或注册培训机构 | 可选 | 基础入门资格 |
-| 农业四级证书（Certificate IV in Agriculture） | TAFE或注册培训机构 | 可选 | 常见雇主学历要求 |
-| 农业大专（Diploma of Agriculture） | TAFE | 可选 | 高级技术员岗位常见要求 |
-| 职业评估（VETASSESS） | VETASSESS | 必备 | 技术移民所需 |
+| Skills assessment (VETASSESS). | VETASSESS | Required | Required for skilled migration. |
+| Certificate III in Agriculture | TAFE or registered training organizations | Optional | Basic entry-level qualification |
+| Certificate IV in Agriculture | TAFE or registered training organizations | Optional | Common employer education requirements |
+| Diploma of Agriculture | TAFE | Optional | Common requirements for senior technician positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。澳洲农业科技化进程加速，精准农业、自动化灌溉、基因育种等技术广泛应用，推动该职业需求稳定增长。预计未来5年岗位增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The acceleration of agricultural technology in Australia, with widespread application of precision agriculture, automated irrigation, and genetic breeding, is driving steady demand for this occupation. Job growth of about 10% is expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 含super |
-| 中级（3-8年） | $65,000~$85,000 | 含super |
-| 高级（8年以上） | $85,000~$110,000 | 高级技术员或主管 |
+| Median salary | $94,016 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $50,000~$65,000 | Including super |
+| Mid-level (3–8 years) | $65,000~$85,000 | Including super |
+| Senior (8+ years) | $85,000~$110,000 | Senior technician or supervisor |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级技术员晋升为高级技术员、实验室主管或农场经理；也可转向农业咨询、农技推广或农业科技公司研发岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Agriculture and agricultural technician roles are positively amplified by AI; automation improves precision farming efficiency, but on-site operations and complex decisions still require humans, resulting in overall increased opportunities.
+
+Can progress from junior technician to senior technician, laboratory supervisor, or farm manager; can also transition into agricultural consulting, agronomy extension, or R&D roles in agricultural technology companies.
+
+**Tasks most exposed to AI:**
+
+- Routine laboratory analysis of soil and crop samples
+- Manual recording and organising of field observation data
+- Basic irrigation and fertilisation planning and execution
+- Basic interpretation of drone or remote sensing images
+
+**Where AI augments the role:**
+
+- Using AI sensors to monitor crop health in real time and provide early warnings for pests and diseases
+- Optimize irrigation and fertilization plans using precision agriculture platforms
+- Analyzing production data through machine learning to guide planting decisions
+- Use AI-powered drones for precision spraying and inspection
+- Predicting crop growth cycles and harvest times based on historical data
+
+**Human moat:**
+
+- On-site equipment fault diagnosis and emergency repair
+- Communication and negotiation with farm owners and suppliers
+- Comprehensive judgment and emergency response in complex environments
+- Ethical supervision of biosecurity and animal welfare
+
+**Skills to build:**
+
+- Precision agriculture software operation (e.g., Climate FieldView).
+- Drone operation and image analysis.
+- Basic data analysis using Python or R
+- IoT device maintenance and data integration
+- Basic machine learning modeling and parameter tuning
+- Agricultural robot operation and maintenance
+
+**Key growth areas:**
 
 - Precision Agriculture
 - AgriTech
@@ -64,66 +98,68 @@ Agricultural and Agritech Technicians assist agricultural research, conduct soil
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa (Temporary)） | 雇主担保临时工作签证，需2年工作经验及雇主担保 |
-| Subclass 190（Skilled Nominated Visa (Permanent)） | 州担保永居签证，需在CSOL上且获得州政府提名 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保临时签证，转191永居需满足居住与收入要求 |
+| Subclass 482 (Skills in Demand Visa (Temporary)) | Employer-sponsored temporary work visa, requiring 2 years of work experience and employer sponsorship |
+| Subclass 190 (Skilled Nominated Visa (Permanent)) | State-sponsored permanent residence visa, requires occupation on the CSOL and state government nomination. |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional Skilled Work Visa (subclass 491), transitioning to 191 permanent residency requires meeting residence and income requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Agritech Technician？**
-- 对农业科技感兴趣，善于动手操作和数据分析的人
-- 喜欢户外工作，能适应农场或实验室环境
-- 希望在农业领域长远发展，有移民意向
-
-**谁不适合学Agricultural and Agritech Technician？**
-- 不喜户外工作或偏远地区
-- 追求高薪且工作节奏缓慢
-- 对农业行业缺乏兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those interested in agricultural technology and skilled in hands-on operations and data analysis
+- Enjoys outdoor work and can adapt to farm or laboratory environments
+- Desire for long-term development in agriculture with immigration intention
+
+**Who is not suited**
+- Dislikes outdoor work or remote areas
+- Seeking high salary and slow-paced work.
+- Lack of interest in the agriculture industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for an agricultural technician?**
+A: With increasing experience, salary can rise from AUD 50,000 to over AUD 110,000. If promoted to farm management or agricultural consulting, salary can reach AUD 120,000-150,000.
+
+**Q: Can agricultural technicians migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the CSOL and can lead to migration through the 482 employer nomination scheme, 190 state nomination, or 491 regional state nomination. It requires a VETASSESS skills assessment and meeting the English language requirements.
+
+**Q: Which states have the highest demand for this occupation?**
+A: Agricultural regions in New South Wales, Victoria, Queensland and Western Australia have high demand. South Australia and Tasmania also have many opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural and Agritech Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for Agricultural Technicians?**
-答：With experience, salary can increase from AUD 50,000 to over AUD 110,000. Promotion to farm management or agri-consulting can reach AUD 120,000–150,000.
-
-**问：Can Agricultural Technicians migrate to Australia via skilled migration?**
-答：Yes, the occupation is on CSOL, eligible for 482 employer sponsorship, 190 state nomination, or 491 regional visa. VETASSESS skills assessment and English requirement apply.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,89 @@
-# Credit and Banking Risk Analyst（Credit and Banking Risk Analyst）职业分析 · FR
+# Credit and Banking Risk Analyst — career analysis · France
 
-**职业代码：C1202 – Credit and Banking Risk Analyst。**
+**Occupation code: C1202 (ROME)**
 
-Responsible for assessing credit risk of loan applicants, analyzing financial data, and developing risk management strategies to ensure bank asset safety and regulatory compliance.
+Responsible for assessing the credit risk of loan applicants, analyzing financial data, and formulating risk control strategies to ensure the bank's asset safety and compliance with regulatory requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年 | $500~$10,000（公立大学约500欧/年，高商约10000欧/年） |
-| 本科（Bac+3） | 3年 | $500~$4,000（公立大学约500欧/年，私立约4000欧/年） |
+| Master's (BAC+5) | 5 years | $500~$10,000 (Public universities cost about 500 euros per year, and higher commercial schools about 10,000 euros per year) |
+| Undergraduate (Bac+3) | 3 years | $500~$4,000 (Public universities cost about 500 euros per year, private universities about 4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融风险管理师（FRM） | 全球风险专业人士协会（GARP） | 可选 | 国际认可，非强制但提升竞争力 |
-| 金融硕士（Master en Finance） | 法国公立大学或高等商学院 | 必备 | 通常为入职门槛 |
-| 银行专业认证（Certificat de Banque） | 法国银行职业协会（AFB） | 可选 | 部分银行要求内部认证 |
+| Master in Finance | French public universities or business schools | Required | Usually an entry-level requirement |
+| Financial Risk Manager (FRM) | Global Association of Risk Professionals (GARP) | Optional | Internationally recognized, not mandatory, but enhancing competitiveness |
+| Banking Professional Certification (Certificat de Banque) | Association of Banking Professionals (AFB) | Optional | Some banks require internal certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。法国银行业数字化转型推动风控岗位需求稳定增长，尤其在大数据与合规领域，但初级岗位竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Digital transformation in the French banking sector has driven steady growth in demand for risk control positions, especially in big data and compliance, but competition for entry-level positions is fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$90,000 | 税前年薪 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$90,000 | Annual pre-tax salary |
+| average salary | $79,569 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级分析师晋升至高级风险经理或风险总监，也可转向金融科技、咨询或内部审计领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Credit and banking risk analysts face mixed feelings from AI: automation will take over data collection, credit scoring calculations, and report generation, but strategic risk control decisions, regulatory compliance, and complex loan reviews still require human professional judgment, while AI can enhance scenario simulation and stress testing efficiency.
+
+You can advance from junior analyst to senior risk manager or risk director, or transition to fintech, consulting, or internal audit.
+
+**Tasks most exposed to AI:**
+
+- Automatically collect and integrate customer financial data and credit reports
+- Run a credit scoring model to generate preliminary approval recommendations
+- Generate standardized risk reports and regulatory statements
+
+**Where AI augments the role:**
+
+- Large-scale stress testing and scenario simulations using AI
+- Identify complex fraud patterns and abnormal transactions through machine learning
+- Use natural language processing to analyze unstructured text (such as news and financial reports) to warn of risks
+
+**Human moat:**
+
+- Design and calibrate the assumptions and parameters of risk control models
+- Interpreting regulatory policies and adjusting internal risk control frameworks
+- Conduct manual due diligence on complex or high-net-worth loan cases
+- Cross-departmental communication and coordination to achieve a risk-reward balance
+
+**Skills to build:**
+
+- Machine Learning and Statistical Modeling (Python/R)
+- RegTech tool applications
+- Big Data Processing (SQL, Hadoop)
+- Explainable AI and model governance
+- Updates on financial products and risk management knowledge
+
+**Key growth areas:**
 
 - Risk Management
 - Big Data Analytics
@@ -62,68 +92,67 @@ Responsible for assessing credit risk of loan applicants, analyzing financial da
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需硕士学历+年薪不低于约46,000欧元，有效期4年。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高技能人才，年薪需达到法定门槛（2024年约53,000欧元），有效期4年。 |
-| Subclass Salarié（Salaried Employee） | 传统工作签证，需雇主担保，年薪无严格下限，但通常要求不低于最低工资1.5倍。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree + annual salary of about 46,000 euros, valid for 4 years. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents, with an annual salary threshold of about €53,000 in 2024, valid for four years. |
+| Subclass Salarié (Salaried Employee) | Traditional work visas require employer sponsorship, with no strict annual salary minimum, but usually require no less than 1.5 times the minimum wage. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Credit and Banking Risk Analyst？**
-- 数学与统计学背景的毕业生
-- 对金融市场有浓厚兴趣者
-- 注重细节与逻辑分析能力者
-
-**谁不适合学Credit and Banking Risk Analyst？**
-- 厌恶数字和数据分析者
-- 偏好高压销售岗位者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with a background in mathematics and statistics
+- Those with a strong interest in financial markets
+- Attention to detail and logical analysis skills
+
+**Who is not suited**
+- Those who dislike numbers and data analysis.
+- Those who prefer high-pressure sales positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a credit risk analyst in France?**
+A: Entry-level salaries are about 35,000-45,000 euros, intermediate salaries 45,000-65,000 euros, and senior salaries 65,000-90,000 euros (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: You can apply for the Passeport Talent Passport or EU Blue Card, which requires a master's degree and employer sponsorship, with an annual salary meeting the requirements.
+
+**Q: What is the future career development prospect of this occupation?**
+A: With the application of fintech and big data, the demand for risk analysis is rising, allowing one to be promoted to management or shift to Fintech, consulting, and other fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Credit and Banking Risk Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a credit risk analyst in France?**
-答：Entry-level: €35,000-45,000; mid-level: €45,000-65,000; senior: €65,000-90,000 (gross annual).
-
-**问：How can non-EU citizens migrate to France through this occupation?**
-答：Apply for a Talent Passport or EU Blue Card, requiring a master's degree, employer sponsorship, and meeting salary thresholds.
-
-**问：What is the career outlook for this occupation?**
-答：With growth in fintech and big data, demand for risk analysts is rising. Advancement to management or transition to Fintech, consulting is possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

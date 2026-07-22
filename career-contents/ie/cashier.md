@@ -1,58 +1,94 @@
-# Cashier（Cashier）职业分析 · IE
+# Cashier — career analysis · Ireland
 
-**职业代码：5230 – Cashier。**
+**Occupation code: 5230 (ISCO08)**
 
-Cashiers handle cash, credit, and electronic payment transactions in retail stores, supermarkets, ticket offices, and other settings, providing customer service and may perform basic sales and cash handling duties.
+Cashiers handle cash, credit card, and electronic payment transactions in retail stores, supermarkets, ticket offices, etc., provide customer service, and may be responsible for basic sales and cashiering duties.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无正式学历要求 | 通常不需要 | —（大多数雇主提供在职培训） |
+| No formal education requirements | Usually not required. | $0~$0 (Most employers provide on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主可能要求基础教育，但无特定证书 |
+| No mandatory qualification requirements | None | Optional | Employers may require basic education, but no specific certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。爱尔兰收银员就业前景稳定但增长缓慢，受自动化影响，部分岗位减少，但零售和旅游业仍提供一定需求。预计未来十年就业变化不大，更注重多技能员工。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Cashier employment prospects in Ireland are stable but growth is slow, affected by automation with some roles declining, though retail and tourism still provide certain demand. Employment is expected to change little over the next decade, with more emphasis on multi-skilled workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$24,000 | 税前年薪，通常按小时计薪，约€11-€13/小时 |
-| 中级（3-5年） | $24,000~$28,000 | 税前年薪，包含经验加薪 |
-| 高级（5年以上） | $28,000~$32,000 | 税前年薪，如主管或高级收银员 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$24,000 | Annual pre-tax salary, usually paid hourly, approximately €11-€13 per hour |
+| Mid-level (3–5 years) | $24,000~$28,000 | Pre-tax annual salary, includes experience-based raises |
+| Senior (5+ years) | $28,000~$32,000 | Annual pre-tax salary, e.g., for supervisors or senior cashiers |
+| average salary | $26,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低迷（★☆☆☆☆）。** 职业发展路径有限，可从收银员晋升为高级收银员、收银主管或零售主管。部分人转向客户服务、销售或库存管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Cashiers face significant automation compression; AI and self-service devices can handle most transactions, but human interaction, exception handling, and complex service scenarios still require humans, overall risk medium to high.
+
+Career progression is limited, from cashier to senior cashier, head cashier, or retail supervisor. Some move to customer service, sales, or inventory management roles.
+
+**Tasks most exposed to AI:**
+
+- Scan product barcodes and calculate total price
+- Process credit/debit card payments
+- Verifying check authenticity
+- Print and provide receipts
+- Handle simple returns and exchanges
+
+**Where AI augments the role:**
+
+- Provide personalized recommendations by analyzing customer purchase behavior with AI
+- Use AI to optimize cashier layout and queue management
+- Using voice assistants to quickly look up product information
+- Using AI tools for fraud detection and abnormal transaction handling
+- Engage customers through mobile apps to enhance loyalty
+
+**Human moat:**
+
+- Handle complex customer complaints and disputes
+- Handling emergencies (e.g., system failures, robberies)
+- Provide personalized service and emotional interaction.
+- Manage non-electronic payment processes such as cash and change
+- Maintain safety and order in the checkout area.
+
+**Skills to build:**
+
+- Customer service and communication skills
+- Basic cash management and counting skills
+- Use self-checkout systems and mobile payment devices
+- Data analysis and sales insights
+- Multitasking ability.
+- Ability to learn new technologies
+
+**Key growth areas:**
 
 - Automation
 - E-commerce
@@ -61,64 +97,66 @@ Cashiers handle cash, credit, and electronic payment transactions in retail stor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪€30,000以上的非紧缺职业，但收银员通常不符合条件，因薪资较低且非紧缺。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand with an annual salary above €30,000, but cashiers usually do not qualify due to lower pay and non-occupation in demand status. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashier？**
-- 细心且具备基本数学能力的人
-- 喜欢与人交流并具备耐心
-- 寻求入门级零售或服务业工作的人
+**Who is suited**
+- Detail-oriented with basic math skills
+- Enjoys interacting with people and has patience
+- Individuals seeking entry-level retail or service industry jobs
 
-**谁不适合学Cashier？**
-- 不适应长时间站立工作的人
-- 寻求高薪或快速晋升机会的人
+**Who is not suited**
+- People who are not suited for long periods of standing.
+- People seeking high salary or rapid promotion opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of cashiers in Ireland?**
+A: Cashier annual salary about €20,000-€32,000, entry-level around €20,000-€24,000, depending on experience and employer. Hourly wage is usually above the Irish minimum wage.
+
+**Q: Can cashiers immigrate to Ireland through work visas?**
+A: Cashier is not a skilled occupation in Ireland, and income often falls below the general employment permit salary threshold (€30,000), making it difficult to obtain a work visa. Migration pathways are very limited.
+
+**Q: What career development opportunities are available for cashiers?**
+A: Cashiers can advance to senior cashier, supervisor, retail manager, or move to customer service, sales roles. However, overall promotion opportunities are limited; proactive skill development is needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（½☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低迷（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 难（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cashier属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cashiers in Ireland?**
-答：Cashiers earn an annual salary of about €20,000-€32,000, with entry-level positions around €20,000-€24,000, depending on experience and employer. Hourly wages are typically above the national minimum wage.
-
-**问：Can cashiers immigrate to Ireland via a work visa?**
-答：Cashiers are not on the critical skills list, and salaries usually fall below the General Employment Permit threshold (€30,000), making it very difficult to obtain a work visa. Migration pathways are extremely limited.
-
-**问：What are the career progression opportunities for cashiers?**
-答：Cashiers can advance to senior cashier, supervisor, retail manager, or move into customer service and sales roles. However, overall advancement is limited and requires proactive skill development.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,129 +1,161 @@
-# 驾驶教练（Driving Instructor）职业分析 · 澳大利亚
+# Driving Instructor — career analysis · Australia
 
-**职业代码：451511 – Driving Instructor。**
+**Occupation code: 451511 (ANZSCO)**
 
-驾驶教练教授学员驾驶技能并辅导路考，涵盖普通汽车（C 类）与重型货车（HR/HC/MC，即卡车驾照）培训。需持各州驾驶教练执照，多为自雇/自营，收入与课时量和驾校经营相关，重型车教练单价更高。
+Driving instructors teach driving skills and coach for road tests, covering regular cars (Class C) and heavy trucks (HR/HC/MC, i.e., truck licenses). Requires state driving instructor license; mostly self-employed; income depends on lesson volume and school operation; heavy vehicle instructors charge higher rates.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 各州驾驶教练执照（Driving Instructor Authority） | 数周~数月 | $2,000~$6,000（含 Certificate IV in Driving Instruction 等要求，按州不同） |
-| 重型车驾照与重型车教练资质（可选，单价更高） | 数周 | $1,500~$6,000（教授 HR/HC/MC 需相应等级驾照与认证） |
+| State driving instructor license (Driving Instructor Authority) | A few weeks to several months | $2,000~$6,000 (Includes Certificate IV in Driving Instruction and other requirements, varies by state) |
+| Heavy vehicle license and heavy vehicle instructor qualification (optional, higher rate) | Several weeks | $1,500~$6,000 (Teaching HR/HC/MC requires corresponding licence and certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶教练执照（各州主管交通部门） | 各州交通主管部门 | 必备 | 合法教学的法定资质；含背景审查 |
-| Certificate IV in Driving Instruction（TLI41222 等） | 认可 RTO | 必备 | 多数州的执照前置要求 |
+| Driving instructor licence (state transport authority) | State transport authorities | Required | Legal teaching qualification; includes background check |
+| Certificate IV in Driving Instruction (e.g., TLI41222) | Registered training organisation (RTO) | Required | Pre-license requirements in most states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★☆☆）。** 全国从业人数约 —。人口增长与持续的考照需求支撑稳定市场；重型车（卡车）驾照培训因物流业司机短缺需求旺盛、单价高。岗位以自雇/自营为主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Population growth and sustained license demand support a stable market; heavy vehicle (truck) license training has strong demand due to logistics driver shortage and higher rates. Jobs are mainly self-employed.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 兼职/初级教练 | $50,000~$65,000 | 按课时；自雇起步 |
-| 全职驾驶教练 | $65,000~$85,000 | 稳定课表/自营 |
-| 重型车教练/驾校经营 | $85,000~$130,000 | 卡车驾照培训单价高+经营收入 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Part-time/junior coach | $50,000~$65,000 | Per session; self-employed starting out |
+| Full-time driving instructor | $65,000~$85,000 | Stable Schedule/Self-Employment |
+| Heavy vehicle instructor/driving school operation | $85,000~$130,000 | Truck driving licence training: high unit price + operating income |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 重型车驾照（HR/HC/MC）培训需求随物流业司机短缺上升；自营驾校与挂靠并存。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
 
-- 普通汽车（C 类）教练
-- 重型车（HR/HC/MC）驾照教练
-- 考前路考辅导
-- 自营驾校
+Heavy vehicle license (HR/HC/MC) training demand rising with logistics driver shortage; self-operated driving schools coexist with affiliated ones.
+
+**Tasks most exposed to AI:**
+
+- Basic traffic rules explanation and question bank practice
+- Simple driving operation demonstrations (AI simulators can fully replace)
+- Lesson booking and schedule management
+- Student progress tracking and report generation
+- Road test route memorization and standard demonstration
+
+**Where AI augments the role:**
+
+- Using AI Simulators to Teach High-Risk Scenarios in a Safe Environment (e.g. Emergency Braking, Wet Roads)
+- Use student error data analysis to personalize training plans
+- Real-time feedback via cameras and sensors to precisely correct student movements
+- Use VR/AR technology to provide immersive traffic simulation, improving judgment
+- AI-assisted marketing and client management to enhance self-employed coach business efficiency
+
+**Human moat:**
+
+- Real-time judgment and teaching adjustment in dangerous situations (e.g., student sudden panic)
+- Calming students' nerves, building trust and confidence
+- Personalized teaching style and communication skills
+- Tacit knowledge of local driving culture and examiner preferences
+- Legal liability and safety monitoring (instructors responsible for vehicle and student safety)
+
+**Skills to build:**
+
+- Operation and course design of AI driving simulators
+- Data analysis basics (interpreting student performance data and optimizing training)
+- Digital marketing and social media client acquisition skills
+- Application and development of VR/AR teaching tools
+- Emotional intelligence and risk communication enhancement
+- Small business management (finance, scheduling software)
+
+**Key growth areas:**
+
+- Regular Car (Class C) Instructor
+- Heavy Vehicle (HR/HC/MC) Driving Instructor
+- Driving Test Preparation
+- Self-Run Driving School
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学驾驶教练？**
-- 有耐心、善于教学且驾驶经验丰富
-- 愿意自雇/自营经营
-- 可考取重型车驾照拓展卡车培训业务
-
-**谁不适合学驾驶教练？**
-- 不喜欢长时间在车内陪驾
-- 以移民为主要目标
-- 不愿做自营客户经营
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, good at teaching, and experienced in driving
+- Willingness to be self-employed/run own business
+- Can obtain heavy vehicle license to expand truck training business
+
+**Who is not suited**
+- Dislike spending long hours in the car accompanying driving lessons
+- Primarily targeting immigration
+- Unwilling to do self-employment client management
+
+---
+
+## 8. FAQ
+
+**Q: How much do driving instructors earn in Australia?**
+A: Part-time/junior approx $50k~$65k; full-time approx $65k~$85k; heavy vehicle (truck license) instructors or driving school operators approx $85k~$130k (truck training has higher rates).
+
+**Q: What qualifications are needed to become a driving instructor?**
+A: Must obtain a driving instructor license in the state (usually with a Certificate IV in Driving Instruction as prerequisite) and pass a background check. Teaching heavy vehicles (HR/HC/MC) requires corresponding license and certification.
+
+**Q: Can driving instructors migrate through skilled migration?**
+A: Cannot directly immigrate via skilled migration. Driving Instructor (451511) is not on the CSOL or GSM skilled occupation list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| 各州交通主管部门 | 驾驶教练执照要求 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★½☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中高（★★★☆☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-驾驶教练属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲驾驶教练收入多少？**
-答：兼职/初级约 $50k~$65k；全职约 $65k~$85k；重型车（卡车驾照）教练或驾校经营者约 $85k~$130k（卡车培训单价更高）。
-
-**问：当驾驶教练需要什么资质？**
-答：需取得所在州的驾驶教练执照（通常以 Certificate IV in Driving Instruction 为前置），并通过背景审查。教授重型车（HR/HC/MC）需相应等级驾照与认证。
-
-**问：驾驶教练能技术移民吗？**
-答：不能直接技术移民。Driving Instructor (451511) 不在 CSOL 或 GSM 技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

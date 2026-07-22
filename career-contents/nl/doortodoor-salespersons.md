@@ -1,60 +1,96 @@
-# Door-to-door Salespersons（Door-to-door Salespersons）职业分析 · NL
+# Door-to-door Salespersons — career analysis · Netherlands
 
-**职业代码：5243 – Door-to-door Salespersons。**
+**Occupation code: 5243 (ISCO08)**
 
-In the Netherlands, door-to-door salespersons promote and sell products (e.g., energy contracts, magazines, insurance) by directly visiting homes or businesses. Income is largely commission-based, offering flexibility but income instability.
+In the Netherlands, door-to-door salespeople visit homes or businesses to promote and sell products (e.g., energy contracts, magazines, insurance). This occupation typically earns mainly through commission, offering flexibility but unstable income.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（中学） | —（公立中学免费，但需完成中等教育） |
-| 职业培训（MBO 1级） | 1年 | $500~$2,000（部分职业学校收费，但可通过政府补贴减免） |
+| High school graduation | 4 years (secondary school) | $0~$0 (Public secondary schools are free, but completion of secondary education is required) |
+| Vocational training (MBO level 1) | 1 year | $500~$2,000 (Some vocational schools charge fees, but can be reduced through government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | 无 | 可选 | 雇主通常提供在职培训，无需预先认证 |
-| 销售技能证书 | 荷兰商会（KVK）或私立培训机构 | 可选 | 非强制，但有助于提升竞争力 |
+| No specific mandatory qualifications | None | Optional | Employers usually provide on-the-job training; no prior certification required |
+| Sales Skills Certificate | Netherlands Chamber of Commerce (KVK) or private training institutions | Optional | Not mandatory, but helps improve competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。荷兰上门推销员就业前景平稳偏弱。数字化营销和消费者隐私法规（如GDPR）限制未经请求的销售访问，预计岗位增长缓慢，人员更替率较高。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. The employment outlook for door-to-door salespersons in the Netherlands is stable but weak. Digital marketing and consumer privacy regulations (e.g., GDPR) restrict unsolicited sales visits, leading to slow job growth and high turnover rates.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 底薪+佣金，收入波动大 |
-| 中级（3-6年） | $28,000~$40,000 | 经验丰富者佣金更高 |
-| 高级（6年以上） | $40,000~$55,000 | 含团队主管津贴 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Base salary + commission, income fluctuates significantly |
+| Mid-level (3–6 years) | $28,000~$40,000 | Higher commission for experienced individuals |
+| Senior (6+ years) | $40,000~$55,000 | Including team leader allowance |
+| average salary | $35,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业晋升路径有限。表现优异者可晋升为销售团队主管或区域经理，负责培训和监督推销员团队。部分人可转型为电话销售或客户关系管理岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI and automation will significantly change the work of door-to-door salespeople, with some tasks being replaced but core sales skills still requiring humans; the outlook for the profession is mixed.
+
+Limited career progression paths. High performers can advance to sales team supervisor or regional manager, responsible for training and overseeing sales teams. Some may transition to telemarketing or customer relationship management roles.
+
+**Tasks most exposed to AI:**
+
+- Client list screening and potential client scoring
+- Product introduction and FAQ (performed by chatbot)
+- Order entry and contract management
+- Sales data analysis and report generation
+- Initial client contact and appointment scheduling.
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer data and precisely target high-potential clients
+- Personalize sales pitches using AI recommendation engines
+- Use CRM and AI assistants to optimize visit routes and time management
+- Using AI tools for sales script simulation and training
+- Adjust sales strategies through real-time feedback analyzed by AI
+
+**Human moat:**
+
+- Ability to build trust and emotional connection
+- Handling complex objections and negotiation skills
+- On-site observation and flexibility skills
+- Long-term client relationship maintenance
+- Cross-cultural communication and empathy
+
+**Skills to build:**
+
+- Customer Relationship Management (CRM) system operation
+- Data analysis and customer profiling basics
+- AI-assisted sales tool usage
+- Digital communication and social media sales
+- Proactive Learning & Adaptability
+- Time and route optimization management
+
+**Key growth areas:**
 
 - Low Demand
 - Digital Shift
@@ -63,65 +99,67 @@ In the Netherlands, door-to-door salespersons promote and sell products (e.g., e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 高技能移民签证，通常要求月薪至少€3,672（2025年标准）。虽可申请，但上门推销员通常难以达到该薪资门槛。 |
-| Subclass EU Freedom of Moveme（EU Free Movement） | 欧盟公民可自由在荷兰工作，无需签证。非欧盟公民机会有限。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Highly skilled migrant visa typically requires a monthly salary of at least €3,672 (2025 standard). Although you can apply, door-to-door salespeople usually find it difficult to meet this salary threshold. |
+| Subclass EU Freedom of Moveme (EU Free Movement) | EU citizens can work freely in the Netherlands without a visa. Opportunities for non-EU citizens are limited. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Door-to-door Salespersons？**
-- 善于沟通、有说服力的人
-- 能接受佣金制、乐于挑战高收入者
-- 学生或兼职工作者，寻求灵活时间
+**Who is suited**
+- Good communicator, persuasive
+- Able to accept commission-based pay and keen to pursue high income
+- Student or part-time worker seeking flexible hours
 
-**谁不适合学Door-to-door Salespersons？**
-- 偏好稳定收入和安全感的求职者
-- 不擅长拒绝或面对频繁被挂断电话的人
+**Who is not suited**
+- Job seekers who prefer stable income and security
+- People who are not good at rejection or dealing with frequent hang-ups
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for door-to-door salespeople?**
+A: Junior salary around €20,000-€28,000 (including commission), intermediate up to €40,000, senior supervisor about €55,000. Income heavily depends on performance.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Very difficult. This occupation usually does not meet the salary requirements for skilled migration (€3,672/month) and is not on the shortage list. The only possibilities are marriage to a Dutch citizen or through the EU Blue Card (requiring a higher salary).
+
+**Q: Is this occupation currently in high demand in the Netherlands?**
+A: Demand is low and declining. Digital marketing and consumer protection regulations have weakened the traditional door-to-door sales model; most positions are replacement hires.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Door-to-door Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a door-to-door salesperson?**
-答：Entry-level annual salary ranges from €20,000 to €28,000 (including commission), mid-level up to €40,000, and senior supervisors around €55,000. Income heavily depends on performance.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Very difficult. This occupation typically does not meet the Highly Skilled Migrant salary threshold (€3,672/month) and is not a shortage occupation. The only possibility is via marriage to a Dutch citizen or an EU Blue Card (higher salary required).
-
-**问：Is there high demand for this occupation in the Netherlands?**
-答：Demand is low and declining. Digital marketing and consumer protection regulations have weakened the traditional door-to-door model; most openings are replacement hires.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,68 +1,98 @@
-# 制冷与空调技师（Refrigeration and Air Conditioning Mechanic）职业分析 · 澳大利亚
+# Refrigeration and Air Conditioning Mechanic — career analysis · Australia
 
-**职业代码：342112 – Refrigeration and Air Conditioning Mechanic。**
+**Occupation code: 342112 (ANZSCO)**
 
-制冷与空调技师（Refrigeration and Air Conditioning Mechanic）安装、维修和保养商用空调、冷藏和工业制冷系统。澳洲气候极端高温使HVAC-R成为强需求行业，数据中心冷却和冷链物流进一步拉动需求。CSOL短缺职业，各州持续招聘。
+Refrigeration and Air Conditioning Mechanics install, service and maintain commercial air conditioning, refrigeration and industrial cooling systems. Australia's extreme heat makes HVAC-R a high-demand industry, with data centre cooling and cold-chain logistics driving further demand. It is a CSOL shortage occupation with ongoing recruitment across all states.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Air Conditioning and Refrigeration | 42~48个月（学徒） | —（各州TAFE） |
-| ARCTick Refrigerant Handling Licence | 1~2个月 | $500~$1,500（制冷剂操作执照，行业强制） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Air Conditioning and Refrigeration | 42–48 months (apprenticeship) | $0~$3,000 (State TAFE institutions) |
+| ARCTick Refrigerant Handling Licence | 1–2 months | $500~$1,500 (Refrigerant handling licence — industry mandatory) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Air Conditioning and Refrigeration | TAFE/RTO | 必备 | 执业核心资质 |
-| ARCTick Refrigerant Handling Licence | ARC (Australian Refrigeration Council) | 必备 | 法规强制要求 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
-| Electrical Licence (Restricted) | 各州 | 可选 | 部分州要求 |
+| Certificate III in Air Conditioning and Refrigeration | TAFE/RTO | Required | Core practising qualifications |
+| ARCTick Refrigerant Handling Licence | ARC (Australian Refrigeration Council) | Required | Regulatory requirement |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
+| Electrical Licence (Restricted) | All states | Optional | Required in some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 30,000。数据中心制冷（AI算力驱动）快速扩张，冷链物流（食品/医药）持续增长，热泵节能改造国家政策扶持，三条线同时驱动制冷技师需求大增。
+**Job demand: very high (★★★★★).** National workforce approx. 30,000. Data centre cooling (driven by AI compute demand) is expanding rapidly, cold chain logistics (food/pharmaceuticals) continues to grow, and national policy supports heat pump energy-efficiency retrofits — three simultaneous drivers are sharply increasing demand for refrigeration technicians.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,200 个 | 全国，各州普遍旺盛 |
-| Indeed | 250~600 个 | 商用HVAC方向 |
-| LinkedIn | 100~250 个 | 数据中心和工业冷链 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$65,000 | Air Conditioning Award |
-| 初级HVAC-R（1~3年） | $75,000~$95,000 | 商用基础 |
-| 中级（3~8年） | $95,000~$130,000 | Seek均值约$47~$62/hr（2026） |
-| 高级/数据中心专家（8年+） | $120,000~$160,000 | 数据中心冷却系统 |
+| Median salary | $109,200 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $30,000~$65,000 | Air Conditioning Award |
+| Junior HVAC-R (1–3 years) | $75,000~$95,000 | Commercial fundamentals |
+| Mid-level (3–8 years) | $95,000~$130,000 | Seek average approximately $47–$62/hr (2026) |
+| Senior/Data Centre Specialist (8+ years) | $120,000~$160,000 | Data centre cooling systems |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 新型制冷剂（低GWP）转型需要持证技师持续更新知识。自动化监控介入但现场安装和维修不可替代。全澳最高需求技工之一，尤其是有商用HVAC经验者。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Tasks of refrigeration and air conditioning technicians heavily rely on physical operations and on-site judgment, so AI's direct replacement is limited. However, AI's penetration in fault diagnosis, energy efficiency optimization, and knowledge retrieval will compress junior positions, with automation exposure concentrated on cognitive parts.
+
+The transition to new low-GWP refrigerants requires licensed technicians to continuously update their knowledge. Automated monitoring is being introduced, but on-site installation and maintenance cannot be replaced. HVAC technicians are among the most in-demand tradespeople across Australia, particularly those with commercial HVAC experience.
+
+**Tasks most exposed to AI:**
+
+- Sensor-based data collection and basic fault code reading
+- Remote diagnosis and reset of simple faults
+- Routine inspection records and report generation
+- Basic energy efficiency calculations and system tuning
+- Parts inventory lookup and ordering
+
+**Where AI augments the role:**
+
+- AI-assisted complex fault tree analysis to speed up troubleshooting
+- Machine learning models predicting system aging and maintenance cycles
+- AR glasses overlaying repair instructions to reduce manual flipping through manuals
+- Real-time energy efficiency optimization suggestions supporting commissioning decisions
+- Customer needs analysis and system selection plan generation
+
+**Human moat:**
+
+- Hands-on ability to dismantle/install refrigeration pipes in confined spaces
+- On-the-spot intuition to detect system anomalies (e.g., unusual smells, vibrations)
+- Flexible repair of legacy or non-standard equipment
+- Ability to communicate directly with clients, explain solutions, and earn trust
+- High-pressure decision-making and multi-trade coordination in emergency repairs
+
+**Skills to build:**
+
+- HVAC-R specific software and BMS system operation
+- Refrigeration system modeling and simulation (e.g., EnergyPlus)
+- Python/data processing basics for energy efficiency analysis
+- Use of digital twins and AR-assisted maintenance tools
+- Remote monitoring platform configuration and alarm rule optimization
+- Cross-trade communication and project management basics
+
+**Key growth areas:**
 
 - Commercial HVAC-R Systems
 - Data Centre Cooling
@@ -71,75 +101,71 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | +15 points for regional areas |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学制冷与空调技师？**
-- 有空调、制冷或HVAC经验，目标技能移民澳洲
-- 愿意持续更新制冷剂技术知识，追求数据中心高薪方向
-- 喜欢多样化工作场所（商用楼宇/工业/冷链）
-
-**谁不适合学制冷与空调技师？**
-- 不接受需要在屋顶和狭小机房工作的环境
-- 无任何机械或电气基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have experience in air conditioning, refrigeration or HVAC and are targeting skilled migration to Australia
+- Willingness to continuously update knowledge of refrigerant technologies and pursue high-paying data centre roles
+- Enjoys varied work environments (commercial buildings / industrial / cold chain)
+
+**Who is not suited**
+- Not comfortable working on rooftops or in confined equipment rooms
+- No mechanical or electrical background whatsoever
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a refrigeration mechanic in Australia?**
+A: Mid-level refrigeration technicians earn approximately $95,000–$130,000 per year ($47–$62/hr). Data centre cooling specialists can earn $120,000–$160,000.
+
+**Q: Is it easy to find work as a refrigeration technician in Australia?**
+A: Very easy — one of the most in-demand tradespeople across Australia. Seek lists 500–1,200 vacancies at any given time, with strong demand across all states.
+
+**Q: Is overseas HVAC/refrigeration experience recognised in Australia?**
+A: A TRA skills assessment is required (12–18 months). After arriving in Australia, you must also obtain an ARCTick refrigerant handling licence (legally mandatory).
+
+**Q: Why are salaries higher in the data centre sector?**
+A: The AI computing-driven surge in data centre cooling demand places extremely high requirements on 24×7 uninterrupted system maintenance, resulting in a notable salary premium.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 342112 数据 |
-| Seek AU | Refrigeration Mechanic 薪资及岗位量（2026） |
-| ARC | ARCTick 制冷剂执照 |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-制冷与空调技师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲制冷技师工资多少？**
-答：中级制冷技师年薪约 $95,000~$130,000（$47~$62/hr）。数据中心冷却专家可达 $120,000~$160,000。
-
-**问：制冷技师在澳洲好找工作吗？**
-答：非常容易，全澳最紧缺技工之一。Seek挂牌500~1200个职位，各州普遍旺盛。
-
-**问：国内空调制冷经验澳洲认可吗？**
-答：需TRA技能评估（12~18个月）。到澳后还需取得ARCTick制冷剂操作执照（法规强制）。
-
-**问：为什么数据中心方向薪资更高？**
-答：AI算力驱动数据中心制冷需求爆发，对24×7不停机系统维护要求极高，薪资溢价明显。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

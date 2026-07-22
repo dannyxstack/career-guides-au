@@ -1,58 +1,93 @@
-# Translator（Translator）职业分析 · NL
+# Translator — career analysis · Netherlands
 
-**职业代码：2643 – Translator。**
+**Occupation code: 2643 (ISCO08)**
 
-Translators, interpreters and other linguists convert written or spoken information from one language to another, ensuring accurate meaning and cultural context.
+Translators, interpreters, and other linguists convert written or spoken information from one language to another, ensuring accurate conveyance of the original meaning.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $8,000~$15,000（荷兰学费欧盟学生约€2,200，非欧盟约€8,000-15,000） |
-| 硕士 | 1-2年（硕士） | $10,000~$20,000（翻译硕士项目学费非欧盟约€10,000-20,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $8,000~$15,000 (Tuition fees in the Netherlands: around €2,200 for EU students, €8,000-15,000 for non-EU) |
+| Master's degree | 1-2 years (Master's) | $10,000~$20,000 (Master's in Translation tuition for non-EU students: approx. €10,000-20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 翻译学位或同等学历 | 荷兰大学 | 必备 | 通常要求翻译或语言学相关学士/硕士学位 |
-| 认证翻译资格 | 荷兰翻译协会 (NGTV) | 可选 | 非强制但对求职有利 |
+| Translation degree or equivalent qualification | Netherlands universities | Required | A bachelor's/master's degree in translation or linguistics is usually required |
+| Certified translation qualifications | Netherlands Association of Interpreters and Translators (NGTV) | Optional | Not mandatory but beneficial for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰作为国际化程度高的国家，对翻译需求稳定，尤其在法律、医疗、技术领域。欧盟自由流动带来多语言服务需求，但机器翻译发展可能影响简单翻译岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. As a highly internationalised country, the Netherlands has a stable demand for translators, especially in legal, medical, and technical fields. Free movement within the EU drives demand for multilingual services, but machine translation development may affect simple translation roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，通常为全职雇员 |
-| 中级（3-7年） | $35,000~$45,000 | 有一定经验，可能专攻某一领域 |
-| 高级（7年以上） | $45,000~$60,000 | 资深译员或项目经理 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, usually for full-time employees |
+| Mid-level (3–7 years) | $35,000~$45,000 | Some experience, possibly specializing in a specific field |
+| Senior (7+ years) | $45,000~$60,000 | Senior translator or project manager |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级翻译可从事文件翻译或陪同口译，积累经验后可晋升为高级翻译、项目经理或专业领域（如法律、医学）译员，也可成为自由职业者或成立翻译公司。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
+
+Junior translators can work on document translation or escort interpreting, and with experience can advance to senior translator, project manager, or specialist in fields like law or medicine, or become freelancers or start a translation company.
+
+**Tasks most exposed to AI:**
+
+- Standard conference interpreting (e.g., business negotiations)
+- Simple telephone interpreting or community interpreting
+- Basic subtitling/transcription proofreading
+- Standardized oral exam scoring
+
+**Where AI augments the role:**
+
+- Real-time captioning assisting interpretation (AI providing background information)
+- Term base management (AI automatically extracts terms)
+- AI speech-to-text note-taking assistance during simultaneous interpretation
+- Remote interpreting platforms (AI optimizes audio/video).
+- Quality self-check (AI playback comparison against standard translation)
+
+**Human moat:**
+
+- Cultural context understanding and emotional conveyance
+- Rapid decision-making under high pressure
+- Confidentiality and ethical judgment
+- Interpretation of Non-Verbal Signals (Tone, Body Language)
+- Transcreation and rhetorical refinement
+
+**Skills to build:**
+
+- Specialized domain knowledge (legal, medical, financial)
+- AI-assisted translation tools (e.g., Otter.ai, SDL Trados)
+- Remote interpreting platform operations
+- Terminology management and data annotation
+- On-site equipment commissioning and troubleshooting
+- Advanced cross-cultural communication skills
+
+**Key growth areas:**
 
 - Language Services
 - Globalization
@@ -61,65 +96,64 @@ Translators, interpreters and other linguists convert written or spoken informat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，雇主担保，满足薪资门槛（2023年约€5,008/月）。翻译岗位可能需证明专业水平。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工作者，要求高等教育合同及薪资门槛（约€5,667/月）。翻译职业通常不符合高技术标准。 |
-| Subclass Orientation Year（Orientation Year） | 在荷兰毕业的非欧盟学生可申请为期一年的求职签证，用于寻找工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled migrants, employer-sponsored, meeting a salary threshold (~€5,008/month in 2023). Translation roles may require proof of professional level. |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requiring a higher education contract and salary threshold (approx. €5,667/month). The translation profession typically does not meet high-skilled criteria. |
+| Subclass Orientation Year (Orientation Year) | Non-EU students who graduate in the Netherlands can apply for a one-year job-seeking visa to find employment. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Translator？**
-- 多语言能力者
-- 文化敏感度高的人
-- 喜欢持续学习新知识的人
-
-**谁不适合学Translator？**
-- 对细节不敏感的人
-- 不喜欢独立工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Multilingual individuals
+- People with high cultural sensitivity
+- People who enjoy continuously learning new knowledge
+
+**Who is not suited**
+- People not sensitive to detail
+- People who do not like working independently
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for translators in the Netherlands?**
+A: Junior translators earn around €28,000-35,000 annually, senior translators up to €45,000-60,000. Freelancer income varies greatly.
+
+**Q: How can foreign translators immigrate to the Netherlands?**
+A: Eligible for Highly Skilled Migrant (Kennismigrant) visa, requiring employer sponsorship and meeting salary threshold. EU citizens have free movement rights.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Translator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for translators in the Netherlands?**
-答：Entry-level translators earn €28,000-35,000 annually, while senior translators can earn €45,000-60,000. Freelance income varies.
-
-**问：How can foreign translators migrate to the Netherlands?**
-答：Through the Highly Skilled Migrant visa, requiring employer sponsorship and meeting salary thresholds. EU citizens have free movement rights.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

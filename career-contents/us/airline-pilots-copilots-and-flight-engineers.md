@@ -1,63 +1,97 @@
-# Airline Pilots, Copilots, and Flight Engineers（Airline Pilots, Copilots, and Flight Engineers）职业分析 · 美国
+# Airline Pilots, Copilots, and Flight Engineers — career analysis · United States
 
-**职业代码：53-2011 – Airline Pilots, Copilots, and Flight Engineers。**
+**Occupation code: 53-2011 (SOC)**
 
-Pilot and navigate fixed-wing aircraft for passenger/cargo transport, requiring Federal Air Transport certificate and type rating, including regional, national, and international airline pilots and instructors.
+Operate fixed-wing aircraft to transport passengers or cargo, requiring a federal air transport certificate and specific type ratings, including regional, domestic, and international airline pilots and instructors.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $100,000~$200,000（航空相关专业学费差异大） |
-| 飞行训练（模块化） | 2年 | $70,000~$120,000（商业飞行员证书及额外评级） |
-| 飞行训练（大学综合） | 4年 | $150,000~$250,000（包含学位与飞行训练） |
+| Bachelor's degree | 4 years | $100,000~$200,000 (Tuition varies widely for aviation-related programs) |
+| Flight training (modular) | 2 years | $70,000~$120,000 (Commercial pilot certificate and additional ratings) |
+| Flight training (university integrated) | 4 years | $150,000~$250,000 (Includes degree and flight training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 联邦航空运输驾驶员执照 | 美国联邦航空管理局（FAA） | 必备 | 要求1500小时飞行经验、23岁以上 |
-| 一级体检合格证 | FAA指定航空体检医师 | 必备 | 每年更新一次 |
-| 机型等级签注 | FAA | 必备 | 特定机型（如波音737、空客320） |
-| 飞行教官证书 | FAA | 可选 | 非强制但常见，帮助积累飞行小时 |
+| Federal Air Transport Pilot License | Federal Aviation Administration (FAA) | Required | Requires 1,500 hours of flight experience and age over 23. |
+| First-class medical certificate | FAA-designated aviation medical examiner | Required | Updated annually |
+| Aircraft type rating endorsement | FAA | Required | Specific aircraft models (e.g., Boeing 737, Airbus 320) |
+| Flight instructor certificate | FAA | Optional | Not mandatory but common, helps accumulate flight hours |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 126,600。2023-2033年预计就业增长4%，与所有职业平均水平相当。未来十年每年约产生16200个岗位空缺，主要来自退休和职业转换。
+**Job demand: high (★★★★☆).** National workforce approx. 126,600. Projected employment growth of 4% from 2023 to 2033, similar to the average for all occupations. Approximately 16,200 job openings per year over the decade, primarily from retirements and career changes.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（副驾驶，0-3年） | $60,000~$90,000 | 区域航空公司普遍较低 |
-| 中级（机长，4-10年） | $120,000~$180,000 | 大型航空公司机长薪资更高 |
-| 高级（资深机长/训练机长，10年以上） | $200,000~$350,000 | 国际航线机长可达30万+美元 |
+| Median salary | $232,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (Co-pilot, 0-3 years) | $60,000~$90,000 | Generally low at regional airlines |
+| Intermediate (Captain, 4-10 years) | $120,000~$180,000 | Captains at large airlines earn higher salaries |
+| Senior (Senior Captain/Training Captain, 10+ years) | $200,000~$350,000 | International airline captains can earn 300,000+ USD |
+| average salary | $288,650 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径通常从副驾驶开始，积累飞行小时数后晋升机长，再晋升为训练机长或管理岗位（如航务经理）。部分飞行员转至企业航空或飞行培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Career path usually starts as co-pilot, accumulates flight hours, then progresses to captain, then to training captain or management roles (e.g., flight operations manager). Some pilots move to corporate aviation or flight training
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Aviation expansion
 - Retirement replacement
@@ -66,70 +100,69 @@ Pilot and navigate fixed-wing aircraft for passenger/cargo transport, requiring 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于航空管理或技术岗位，但飞行员通常不通过此途径 |
-| Subclass EB-2/EB-3（EB-2/EB-3 Green Card） | 需PERM劳工证，飞行员岗位需证明美国劳动力短缺 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于顶尖飞行员（如安全记录、飞行成就） |
-| Subclass L-1（L-1 Intracompany Transfer） | 航空公司在美分支机构间调动 |
+| Subclass H-1B (H-1B Specialty Occupation) | Suitable for aviation management or technical roles, but pilots typically do not use this pathway |
+| Subclass EB-2/EB-3 (EB-2/EB-3 Green Card) | Requires PERM labour certification; pilot positions must demonstrate a US labour shortage |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only for top pilots (e.g., safety record, flight achievements) |
+| Subclass L-1 (L-1 Intracompany Transfer) | Intra-company transfers between US branches of an airline |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airline Pilots, Copilots, and Flight Engineers？**
-- 适应高强度工作、不规律作息
-- 热爱飞行、技术能力强
-- 能承受心理压力和安全责任
-
-**谁不适合学Airline Pilots, Copilots, and Flight Engineers？**
-- 有重大健康问题（如色盲、听力障碍）
-- 无法接受频繁出差和异地工作
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Adapt to high-intensity work and irregular schedules
+- Passion for flying, strong technical skills
+- Able to withstand psychological stress and safety responsibilities
+
+**Who is not suited**
+- Significant health issues (e.g., color blindness, hearing impairment)
+- Unable to accept frequent travel and remote work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for US airline pilots?**
+A: Entry level first officer annual salary approx US$60,000-90,000, captain US$120,000-180,000, senior captain up to US$200,000-350,000. Salaries vary by airline type (regional vs major), aircraft, and route experience.
+
+**Q: Can Chinese pilots work in the US on work visas?**
+A: Extremely difficult. H-1B visa is generally not applicable for pilot positions, and requires US FAA-certified license conversion. US immigration policy has strict restrictions on non-US citizens serving as commercial airline captains.
+
+**Q: How many flight hours are needed to become a pilot in the US?**
+A: Commercial pilot license requires at least 250 hours, airline transport pilot requires 1,500 hours. Must pass written, oral, and practical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 很高（★★★★★） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Airline Pilots, Copilots, and Flight Engineers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for airline pilots in the US?**
-答：Entry-level first officers earn $60,000-$90,000, captains $120,000-$180,000, and senior captains $200,000-$350,000, varying by airline type, aircraft, and experience.
-
-**问：Can Chinese pilots work in the US via work visa?**
-答：Extremely difficult. H-1B typically not applicable, and FAA license conversion is required. US immigration restricts non-citizens from serving as captains on commercial flights.
-
-**问：How many flight hours are required to become an airline pilot in the US?**
-答：250 hours for commercial license, 1500 hours for ATP certificate. Must pass written, oral, and practical exams.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,64 +1,95 @@
-# 人力资源经理（Human Resource Manager）职业分析 · 澳大利亚
+# Human Resource Manager — career analysis · Australia
 
-**职业代码：132311 – Human Resource Manager。**
+**Occupation code: 132311 (ANZSCO)**
 
-人力资源经理负责招聘、薪酬、绩效、员工关系与组织发展，是高薪管理职业，在STSOL上（需VETASSESS评估）。
+HR Managers oversee recruitment, compensation, performance, employee relations and organisational development — a well-paid management career listed on STSOL (VETASSESS assessment required).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Business (HR) / Commerce | 3年 | $25,000~$45,000（—） |
-| AHRI 认证（加分） | 数月 | $2,000~$6,000（行业认可） |
+| Bachelor of Business (HR) / Commerce | 3 years | $25,000~$45,000 (—) |
+| AHRI certification (advantageous) | Several months | $2,000~$6,000 (Industry recognised) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关本科及以上 | 认可大学 | 可选 | 入行基础 |
-| AHRI Certification（可选） | AHRI | 可选 | 行业认可 |
-| VETASSESS Skills Assessment | VETASSESS | 可选 | 移民评估 |
+| Relevant bachelor's degree or above | Recognised university | Optional | Foundation for entering the industry |
+| AHRI Certification (optional) | AHRI | Optional | Industry recognised |
+| VETASSESS Skills Assessment | VETASSESS | Optional | Migration Assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 60,000。组织对人才与文化投入增加，HR数据化与员工体验方向需求上升。
+**Job demand: high (★★★★☆).** National workforce approx. 60,000. Organisations are increasing investment in talent and culture, driving growing demand for HR analytics and employee experience roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,200 个 | 全国 |
-| LinkedIn | 1,500~2,600 个 | — |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级HR经理 | $95,000~$120,000 | — |
-| 中级 | $120,000~$150,000 | — |
-| 资深/HR总监 | $150,000~$200,000 | Director |
+| Median salary | $143,936 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior HR Manager | $95,000~$120,000 | — |
+| Intermediate | $120,000~$150,000 | — |
+| Senior / HR Director | $150,000~$200,000 | Director |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需HR或商科背景+经验；路径向HR总监、首席人事官发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+HR managers' tasks like recruitment screening, document processing, and data reporting are easily automated by AI, but core responsibilities like strategic planning, employee relations, and complex negotiations are amplified by AI; overall mixed impact.
+
+HR or business background plus experience required; career path leads toward HR Director and Chief People Officer roles.
+
+**Tasks most exposed to AI:**
+
+- Resume screening and candidate matching (AI tools automatically parse and score resumes)
+- Interview schedule coordination and standardized interview questions (AI scheduling and virtual interviewers)
+- Common employee HR policy Q&A (replaced by AI chatbots)
+- Salary data collection and basic report generation (automated analysis tools)
+- Onboarding document processing and form validation (auto-fill and OCR)
+
+**Where AI augments the role:**
+
+- Talent data analysis and prediction (AI provides insights on attrition risk, performance forecasts, etc.)
+- Employee engagement survey and analysis (AI natural language processing to analyze open-ended feedback)
+- Personalised training path design (AI-recommended learning resources)
+- Diversity and inclusion audits (AI identifying bias in language and processes)
+- Workforce planning and scenario simulation (AI modeling effects of different recruitment strategies)
+
+**Human moat:**
+
+- Strategic talent planning and organizational design (requires business acumen)
+- Deep negotiation and conflict resolution in employee relations (involving emotions and trust)
+- Corporate culture shaping and change leadership (requires interpersonal influence)
+- Legal compliance decisions and high-risk employee matters (high responsibility)
+- Senior talent assessment and succession planning (relies on intuition and long-term observation)
+
+**Skills to build:**
+
+- HR Data Analytics and Data Visualization (e.g., Power BI, Tableau)
+- AI tool application (e.g., recruitment AI, chatbot configuration, HRIS systems)
+- Employee Experience Design and Design Thinking
+- Change management and leadership coaching
+- Organizational psychology and behavioral economics
+- Digital ethics and AI compliance knowledge
+
+**Key growth areas:**
 
 - HR Analytics
 - Talent Acquisition
@@ -67,65 +98,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保（旧称TSS），按具体职责匹配ANZSCO |
-| Subclass 186（ENS） | 雇主担保永居，需相关评估 |
-| Subclass 190（Skilled Nominated） | 州提名，按各州清单 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (formerly TSS), matched to ANZSCO based on specific duties |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学人力资源经理？**
-- 擅长沟通与组织管理者
-- 想走高薪管理+州担保移民者
-
-**谁不适合学人力资源经理？**
-- 不愿处理员工冲突与合规者
-- 排斥行政与数据工作者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong communicators and organisational managers
+- Those seeking high-salary management roles with state nomination for migration
+
+**Who is not suited**
+- Those who are unwilling to handle employee conflicts and compliance.
+- Excludes administrative and data workers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an HR Manager in Australia?**
+A: About AUD $95,000–$150,000; HR Director can reach $200,000+.
+
+**Q: Can HR Managers migrate to Australia through skilled migration?**
+A: Possible but limited. HR Manager (132311) is on the STSOL; most applicants pursue state nomination or employer sponsorship and require a VETASSESS skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-人力资源经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲HR经理工资多少？**
-答：约AUD $9.5万~$15万，HR总监可达$20万+。
-
-**问：HR经理能技术移民吗？**
-答：可以但有限。HR Manager（132311）在STSOL上，多走州提名或雇主担保，需VETASSESS评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

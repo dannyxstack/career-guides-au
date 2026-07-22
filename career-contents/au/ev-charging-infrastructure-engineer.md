@@ -1,149 +1,176 @@
-# 电动车充电基础设施工程师（EV Charging Infrastructure Engineer）职业分析 · 澳大利亚
+# EV Charging Infrastructure Engineer — career analysis · Australia
 
-**职业代码：233311 – EV Charging Infrastructure Engineer。**
+**Occupation code: 233311-EVCI (ANZSCO)**
 
-电动车充电基础设施工程师负责公共/商用充电站的电气设计、配电接入、并网与合规，涵盖直流快充(DCFC)、负荷管理、OCPP 通信与场站储能集成。随着澳洲 EV 保有量快速上升与充电网络铺设，该岗从电气工程中快速分化、需求上行。
+The EV charging infrastructure engineer is responsible for electrical design, distribution access, grid connection, and compliance at public/commercial charging stations, covering DC fast charging (DCFC), load management, OCPP communication, and station energy storage integration. With the rapid increase in EV ownership and the rollout of charging networks in Australia, this position has quickly diverged from electrical engineering and seen rising demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 电气工程学士（4 年） | 4 年 | $40,000~$160,000（本地生 CSP 约 $40k；国际生约 $140k~$160k） |
-| 充电/配电与并网专项（OCPP、AS/NZS 3000） | 3~12 个月 | $2,000~$20,000（充电标准与配电接入实操能力） |
-| Engineers Australia 职业评估 | 3~6 个月 | $600~$3,000（技术移民必须） |
+| Bachelor of Electrical Engineering (4 years) | 4 years | $40,000~$160,000 (Local CSPs earn about $40k; International students pay about $140k~$160k) |
+| Charging/Distribution and Grid Connection Special (OCPP, AS/NZS 3000) | 3~12 months | $2,000~$20,000 (Practical capability for charging standards and power distribution access) |
+| Engineers Australia Career Assessment | 3~6 months | $600~$3,000 (Required for skilled migration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可电气工程学位 | Engineers Australia | 必备 | 执业与移民评估基础 |
-| 充电与配电标准（AS/NZS 3000、OCPP、EVSE 规范） | 标准机构/厂商 | 可选 | 充电站设计合规核心 |
-| CPEng / 电工执照（视职责） | Engineers Australia / 各州 | 可选 | 现场与资深岗常要求 |
+| Recognized degrees in electrical engineering | Engineers Australia | Required | Practice and Immigration Assessment Basics |
+| Charging and Power Distribution Standards (AS/NZS 3000, OCPP, EVSE Standards) | Standard Organizations/Manufacturers | Optional | Core of charging station design compliance |
+| CPEng / Electrician License (depending on duties) | Engineers Australia / State | Optional | On-site and senior job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。澳洲联邦与各州充电网络资助持续投入，EV 渗透率上升推动公共快充与车队充电大规模建设，电气工程整体紧缺使充电基础设施方向招聘活跃，中长期前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Ongoing funding for charging networks by the Australian federal and state sectors, rising EV penetration driving large-scale public fast charging and fleet charging, and an overall shortage of electrical engineering driving active recruitment for charging infrastructure, with a promising medium- to long-term outlook.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~500 个 | EV/充电/电气岗，含充电网络运营商与 EPC |
-| Indeed | 100~300 个 | 含 EV 充电与电气基础设施岗 |
-| LinkedIn | 150~400 个 | 充电网络(Evie/Chargefox/BP Pulse 等)与工程咨询直招 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $80,000~$105,000 | 电气工程起薪，参考电子/电气工程均值 |
-| 中级（3~7 年） | $105,000~$140,000 | 电气工程师中级区间 |
-| 资深/项目（8 年+） | $140,000~$175,000 | 充电网络/电气项目经理 $130k~$175k |
+| Median salary | $132,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Beginner (0~3 years) | $80,000~$105,000 | Starting salary for electrical engineering, based on the average for electronic/electrical engineering |
+| Intermediate Level (3~7 years) | $105,000~$140,000 | Intermediate Electrical Engineer Range |
+| Senior / Project (8+ years) | $140,000~$175,000 | Charging Network/Electrical Project Manager $130k~$175K |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 2026 年超充站(350kW+)与车队充电成为热点，站点常需配电升级与储能削峰，懂并网与负荷管理的工程师最吃香。AI 辅助选址与负荷预测，核心电气设计与合规仍由工程师完成。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
 
-- 公共快充/超充站(DCFC)电气设计与并网
-- 充电网络负荷管理与配电升级
-- 充电桩标准与合规(AS/NZS 3000、OCPP)
-- 车网互动(V2G)与站点储能集成
-- 车队与商用充电基础设施规划
+By 2026, supercharging stations (350kW+) and fleet charging will become hotspots, with stations often needing power distribution upgrades and energy storage peak shaving. Engineers who understand grid connection and load management are the most favored. AI-assisted site selection and load forecasting, while core electrical design and compliance are still handled by engineers.
+
+**Tasks most exposed to AI:**
+
+- Preliminary electrical load calculation and cable selection report generation
+- OCPP communication message debugging and log analysis
+- Templated completion of compliance documents (such as grid access applications).
+- Automatic aggregation of charging station performance data and anomaly detection
+- Preliminary analysis of charging station site selection based on historical data
+
+**Where AI augments the role:**
+
+- Using AI simulation tools to optimize load allocation and energy storage strategies for DC fast charging stations (DCFC).
+- Quickly generate multiple power distribution schemes and compare costs and efficiencies using AI-assisted design tools
+- Use an AI-driven grid interaction platform to predict connection times and capacity costs
+- With AI visual inspection, safety hazards at the installation site are automatically identified
+- Use LLMs to automatically analyze new regulations (such as updates to Australia's EV charging standards) and extract key requirements
+
+**Human moat:**
+
+- Coordination and negotiations with grid operators, electrical contractors, and government departments
+- On-site installation supervision, commissioning, and troubleshooting hands-on skills
+- In-depth understanding of grid access regulations and compliance reviews across Australian states
+- Practical experience and certification in high-voltage electrical safety (HV Safety).
+- The ability to communicate with clients and stakeholders and customize non-standard solutions
+
+**Skills to build:**
+
+- Proficient in using AI-assisted electrical design tools (such as ETAP AI plugins or similar platforms)
+- Proficient in OCPP and ISO 15118 protocols, as well as AI log analysis tools
+- Learn the basics of data science (Python, Pandas) to customize charging data analysis scripts
+- Understand Battery Energy Storage Systems (BESS) and participate in AI optimized scheduling training
+- Familiar with the Australian National Electricity Market (NEM) and AI forecasting tools
+- Learn how to operate the on-site augmented reality (AR) maintenance assistance system
+
+**Key growth areas:**
+
+- Public Fast/Ultra-Fast Charging (DCFC) Electrical Design & Grid Integration
+- Charging Network Load Management & Distribution Upgrades
+- Charging Standards & Compliance (AS/NZS 3000, OCPP)
+- Vehicle-to-Grid (V2G) & Site Storage Integration
+- Fleet & Commercial Charging Infrastructure Planning
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (SID)） | 雇主担保临居；能源/电网/数据中心/半导体企业担保紧缺工程师 |
-| Subclass 186（ENS 雇主提名） | 雇主担保永居（Direct Entry / TRT 通道） |
-| Subclass 189（技术独立） | 邀请制独立技术移民；需 Engineers Australia 职业评估（CDR 或认可学历） |
-| Subclass 190（州/领地提名） | 州提名加 5 分；工程类为多数州紧缺清单常客 |
-| Subclass 491（偏远地区担保） | 偏远地区州提名/亲属担保临居，满足条件后转 191 永居 |
+| Subclass 482 (Skills in Demand (SID)) | Employer-sponsored temporary residence; Energy/grid/data center/semiconductor companies guarantee urgently needed engineers |
+| Subclass 186 (ENS Employer Nomination) | Employer-Sponsored Permanent Residency (Direct Entry / TRT Pathway) |
+| Subclass 189 (Technical independence) | Independent skilled immigrants on an invitation-based basis; Requires Engineers Australia Professional Assessment (CDR or Recognized Qualification) |
+| Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
+| Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR难度：中低（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电动车充电基础设施工程师？**
-- 电气工程背景，想切入 EV 与充电基础设施新赛道
-- 对配电接入、负荷管理、充电标准(OCPP/AS-NZS)感兴趣
-- 愿意做现场勘查与并网调试
-- 看重 EV 长期增长趋势并考虑技术移民
-
-**谁不适合学电动车充电基础设施工程师？**
-- 不愿接触现场与配电工程、只想纯软件
-- 排斥标准合规与安全规范工作
-- 电气基础薄弱且无补强计划
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- With an electrical engineering background, I want to enter the new track of EVs and charging infrastructure
+- Interested in distribution access, load management, and charging standards (OCPP/AS-NZS).
+- Willing to conduct on-site surveys and grid connection commissioning
+- Value the long-term growth trend of EVs and consider skilled migration
+
+**Who is not suited**
+- Unwilling to engage with on-site or power distribution projects, only wanting pure software
+- Exclude standard compliance and safety regulation work
+- Weak electrical foundation and no reinforcement plan
+
+---
+
+## 8. FAQ
+
+**Q: How much do electric vehicle charging infrastructure engineers in Australia earn?**
+A: Entry-level is about $80k~$105k; Intermediate $105k~$140k; Senior/Project Manager $140k~$175K. Binding the electrical engineering salary system, charging networks and fast-charging projects offer good premiums.
+
+**Q: Is it easy to find a job as a charging infrastructure engineer?**
+A: Better and upward. Rising EV penetration, large-scale deployment of charging networks and fleets, combined with an overall shortage of electrical engineering, and ongoing hiring by charging operators, EPCs, and consulting firms.
+
+**Q: Is overseas electrical/charging experience recognized in Australia?**
+A: Electrical studies are assessed by Engineers Australia; Charging station design, power distribution access, and OCPP and AS/NZS compliance experience are direct bonuses.
+
+**Q: Will this position be replaced by AI?**
+A: Low risk. AI-assisted site selection and load forecasting, but electrical design, grid connection, and safety compliance of charging stations are handled by engineers, making it an enhanced role.
+
+**Q: Is skilled immigration possible?**
+A: Yes. Falls under Electrical Engineering (233311 family) as an occupation in demand; 189/190/482 → 186 all possible. Specialized experience in charging enhances employer sponsorship willingness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Pathway to Aus | EV 相关工程岗薪资指南（2026），充电/电气方向 |
-| SEEK AU | EV 类目在招充电与电气基础设施岗 |
-| CDR for Australia | 电子/电气工程师均值 $95k+，随专业与经验上升 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★½☆☆） |
-
-电动车充电基础设施工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电动车充电基础设施工程师工资多少？**
-答：初级约 $80k~$105k；中级 $105k~$140k；资深/项目经理 $140k~$175k。绑定电气工程薪酬体系，充电网络与快充项目溢价较好。
-
-**问：充电基础设施工程师好找工作吗？**
-答：较好且上行。EV 渗透率上升、充电网络与车队充电大规模铺设，叠加电气工程整体短缺，充电运营商、EPC 和咨询公司持续招聘。
-
-**问：海外电气/充电经验澳洲认可吗？**
-答：电气学历经 Engineers Australia 评估；充电站设计、配电接入、OCPP 与 AS/NZS 合规经验是直接加分项。
-
-**问：这个岗会被 AI 替代吗？**
-答：风险低。AI 辅助选址与负荷预测，但充电站电气设计、并网与安全合规由工程师负责，属增强型岗位。
-
-**问：能技术移民吗？**
-答：能。归入电气工程(233311 家族)紧缺职业，189/190/482→186 均可，充电专业经验增强雇主担保意愿。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

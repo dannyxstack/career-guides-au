@@ -1,60 +1,95 @@
-# Machine fitters（Machine fitters）职业分析 · 加拿大
+# Machine fitters — career analysis · Canada
 
-**职业代码：72405 – Machine fitters。**
+**Occupation code: 72405 (NOC)**
 
-Machine fitters assemble mechanical components into complete machinery, such as engines, pumps, and compressors, ensuring proper operation. They read blueprints, use tools, and test equipment in manufacturing or repair shops.
+A mechanical assembler puts together parts to form complete mechanical equipment such as engines, pumps, and compressors, ensuring proper operation. Requires reading blueprints, using tools and testing equipment, working in manufacturing plants or repair workshops.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无固定年限 | —（高中毕业即可，但推荐相关课程） |
-| 学徒培训 | 4年 | $1,000~$5,000（省级学徒计划，学费+工具费） |
-| 社区学院证书 | 1-2年 | $3,000~$15,000（机械装配或工业维修相关课程） |
+| High school diploma | No fixed duration | $0~$0 (High school completion required, but relevant courses recommended) |
+| Apprenticeship training | 4 years | $1,000~$5,000 (Provincial apprenticeship program, tuition + tool costs) |
+| Community college certificate | 1-2 years | $3,000~$15,000 (Courses related to mechanical assembly or industrial maintenance) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 省级学徒注册 | 各省学徒机构 | 必备 | 完成学徒期需注册 |
-| 行业认证(如Red Seal) | 加拿大红印项目 | 可选 | 可跨省工作，非强制但增强就业 |
-| 焊接或液压证书 | 技术学院 | 可选 | 部分雇主青睐额外技能 |
+| Provincial apprenticeship registration | Provincial apprenticeship authorities | Required | Registration required upon completing apprenticeship |
+| Industry certification (e.g., Red Seal) | Canadian Red Seal program | Optional | Can work across provinces—not mandatory, but enhances employability. |
+| Welding or hydraulic certificate | Technical college | Optional | Some employers value additional skills. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,000。根据加拿大Job Bank，机械装配工需求中等，受制造业和资源行业影响。人口增长和基础设施维护推动稳定需求，但自动化可能挑战部分岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 23,000. According to Canada's Job Bank, demand for mechanical assemblers is moderate, affected by manufacturing and resource industries. Population growth and infrastructure maintenance drive stable demand, but automation may challenge some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒期或入门级 |
-| 中级（3-8年） | $45,000~$65,000 | 已获资格或经验 |
-| 高级（8年以上） | $65,000~$85,000 | 含主管或专家角色 |
+| Median salary | $73,611 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Apprenticeship or entry-level |
+| Mid-level (3–8 years) | $45,000~$65,000 | Qualification or experience already obtained |
+| Senior (8+ years) | $65,000~$85,000 | Includes supervisor or specialist roles |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或装配助手起步，积累经验后可晋升为高级机械装配工、生产线主管或质检员。部分人员通过继续教育转向机械工程技术或管理岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Mechanical assemblers face automation risks; repetitive assembly tasks are easily replaced by intelligent robots, but debugging and troubleshooting still rely on human experience.
+
+Typically starting as an apprentice or assembly assistant, one can progress to senior mechanical assembler, production line supervisor, or quality inspector with experience. Some transition to mechanical engineering technology or management roles through further education.
+
+**Tasks most exposed to AI:**
+
+- Use a torque wrench to tighten bolts to a specified torque
+- Assemble standard parts onto the machine frame according to drawing sequence
+- Operate pneumatic tools for high-volume repetitive assembly
+- Read 2D drawings and verify part labels and quantities
+- Perform simple functional tests (e.g., power-on trial run)
+
+**Where AI augments the role:**
+
+- Overlaying operation instructions via AR glasses for visual assembly steps
+- Using digital twin simulations to optimise assembly sequence and workstation layout
+- Record tightening data and provide real-time feedback via a smart torque system.
+- Using AI visual inspection systems to assist in identifying installation defects
+- AI analysis based on vibration sensors to predict bearing noise faults
+
+**Human moat:**
+
+- Diagnosis and creative repair of abnormal assembly issues.
+- Fine adjustments of fit gaps and other tasks requiring tactile experience
+- Communicate non-standard custom requirements with design and customers
+- On-site emergency troubleshooting and debugging of complex systems
+- Understand mechanical/hydraulic/pneumatic coupling between components during cross-system integration
+
+**Skills to build:**
+
+- PLC and robot programming basics
+- Digital twin simulation software operation
+- Industrial Internet of Things and sensor data processing
+- Collaborative Robot (Cobot) Safe Operation
+- Use of AR-assisted maintenance tools
+- Basic data analysis and visualization
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,68 +98,67 @@ Machine fitters assemble mechanical components into complete machinery, such as 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 需满足工作经验和语言要求，职业在TEER 2类别，可算分 |
-| Subclass PNP（Provincial Nominee Program） | 各省可能针对技工类有优先申请通道 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地员工 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Must meet work experience and language requirements, occupation in TEER 2 category, points-based |
+| Subclass PNP (Provincial Nominee Program) | Each province may have priority application streams for skilled trades. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be found. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Machine fitters？**
-- 喜欢动手操作、注重细节的人
-- 有机械维修或装配兴趣，愿意完成学徒培训
-- 适应车间环境，能承受体力劳动
-
-**谁不适合学Machine fitters？**
-- 不擅长阅读技术图纸或使用测量工具
-- 回避体力劳动或长期站立工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Interest in mechanical repair or assembly, willing to complete apprenticeship training
+- Able to adapt to workshop environment and perform physical labor.
+
+**Who is not suited**
+- Not good at reading technical drawings or using measurement tools
+- Avoid physically demanding work or prolonged standing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a mechanical assembler in Canada?**
+A: According to Job Bank, the average annual salary is about 50,000 CAD; entry-level 35,000-45,000; senior 65,000-85,000.
+
+**Q: Is it easy for mechanical assemblers to immigrate to Canada?**
+A: This is a TEER 2 occupation and can apply via Express Entry or Provincial Nominee Program. However, it is not a shortage occupation, so a comprehensive score must be met. Employer sponsorship (LMIA) can add points.
+
+**Q: What are the career prospects for a mechanical assembler?**
+A: Can be promoted to assembly supervisor, mechanical technician, or quality inspector. Through further study, can transition to mechanical engineering technology or project management, but affected by manufacturing automation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Machine fitters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for machine fitters in Canada?**
-答：According to Job Bank, the average salary is around CAD 50,000 per year, with entry-level earning CAD 35,000-45,000 and experienced up to CAD 65,000-85,000.
-
-**问：Is it easy for machine fitters to immigrate to Canada?**
-答：This TEER 2 occupation can apply via Express Entry or PNP. It's not in shortage, so comprehensive score matters. Employer sponsorship (LMIA) can boost points.
-
-**问：What is the career outlook for machine fitters?**
-答：You can advance to assembly supervisor, mechanical technician, or quality inspector. Further education may lead to engineering tech or project management, though automation poses risks.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

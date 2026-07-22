@@ -1,59 +1,94 @@
-# Professional occupations in advertising, marketing and public relations（Professional occupations in advertising, marketing and public relations）职业分析 · 加拿大
+# Professional occupations in advertising, marketing and public relations — career analysis · Canada
 
-**职业代码：11202 – Professional occupations in advertising, marketing and public relations。**
+**Occupation code: 11202 (NOC)**
 
-Public relations managers plan, direct and evaluate public communication strategies, manage media relations, brand image and crisis communications to enhance organizational reputation. This occupation is eligible for immigration via Express Entry or Provincial Nominee Programs.
+Public relations managers plan, direct, and evaluate an organization's public communication strategies, manage media relations, brand image, and crisis PR to enhance organizational reputation. This occupation may be eligible for immigration through Express Entry or Provincial Nominee Programs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$40,000（加拿大大学本科学费，如UBC、多伦多大学） |
-| 硕士 | 2年 | $15,000~$30,000（硕士课程学费，如公共关系或传播学硕士） |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Canadian university undergraduate tuition fees, e.g., UBC, University of Toronto) |
+| Master's degree | 2 years | $15,000~$30,000 (Master's course tuition fees, e.g., Master of Public Relations or Communication) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 用于移民申请，评估海外教育等效性 |
-| 英语语言考试 | IELTS/CELPIP | 必备 | CLB 7或以上，移民最低要求 |
-| 加拿大公共关系学会(CPRS)认证 | CPRS | 可选 | 自愿但有利于就业 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Used for immigration applications to assess overseas education equivalency |
+| English language test | IELTS/CELPIP | Required | CLB 7 or above, minimum immigration requirement |
+| Canadian Public Relations Society (CPRS) certification. | CPRS | Optional | Voluntary but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。加拿大对公共关系专业人员的需求稳定，未来十年预计增长5-10%，主要集中在企业、非营利组织和政府机构。数字媒体和社交平台的兴起创造了新的职位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Demand for public relations professionals is stable in Canada, with projected growth of 5-10% over the next decade, mainly in corporations, non-profits and government agencies. The rise of digital media and social platforms has created new positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 公关助理或协调员 |
-| 中级（4-7年） | $60,000~$85,000 | 公关经理 |
-| 高级（8年以上） | $85,000~$120,000 | 总监或副总裁 |
+| Median salary | $74,006 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | PR Assistant or Coordinator |
+| Mid-level (4-7 years) | $60,000~$85,000 | Public Relations Manager |
+| Senior (8+ years) | $85,000~$120,000 | Director or Vice President |
+| average salary | $79,040 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级职位如公关助理或媒体关系专员，积累经验后可晋升为公关经理、总监。高级可担任副总裁或首席传播官，也可转向咨询或创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance efficiency in advertising, marketing, and public relations, but will also automate content generation and basic data analysis, requiring practitioners to shift towards strategy and creativity.
+
+Entry-level roles such as PR assistant or media relations specialist; with experience, can advance to PR manager or director. Senior roles include Vice President or Chief Communications Officer, or transition to consulting or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- AI automatically writes press releases, social media posts, and ad copy.
+- AI performs media monitoring, sentiment analysis, and basic report generation
+- AI automatically optimizes ad placement and audience targeting based on data
+- AI generates lead lists and preliminary market research
+
+**Where AI augments the role:**
+
+- AI provides real-time market insights and consumer behavior predictions to aid strategy formulation.
+- AI tools accelerate creative concept testing and A/B experiment design
+- AI assist in managing multi-channel marketing campaigns with automatic budget allocation
+- AI-driven personalized content recommendations to enhance customer engagement
+- AI simulates crisis scenarios to assist with public relations drill preparation
+
+**Human moat:**
+
+- Build and maintain brand trust and emotional connection
+- Handles highly sensitive crisis communication and media relations
+- Create disruptive ideas and strategic narratives
+- Cross-cultural communication and stakeholder management
+- Ethical judgment and compliance decisions (e.g., data privacy)
+
+**Skills to build:**
+
+- AI marketing tool operation and prompt engineering (e.g., ChatGPT, Jasper)
+- Data analysis and visualization (Python, SQL, Tableau)
+- Automated marketing platform management (HubSpot, Marketo)
+- Content strategy and AI review supervision
+- Advanced algorithm optimization for digital advertising platforms
+- Project management and agile marketing methods
+
+**Key growth areas:**
 
 - Digital Media
 - Corporate Communications
@@ -62,68 +97,67 @@ Public relations managers plan, direct and evaluate public communication strateg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过联邦快速通道，满足工作经验、语言和教育要求，获得CRS分数并入池。 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份有技术移民类别，如安省、BC省、阿省，可额外加分。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保，适合有工作offer的申请人。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Via Express Entry, meeting work experience, language, and education requirements, obtain CRS score and enter pool. |
+| Subclass PNP (Provincial Nominee Program) | Most provinces have skilled migration streams, such as Ontario, BC, Alberta, which can provide additional points. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Professional occupations in advertising, marketing and public relations？**
-- 具有优秀的写作和口头沟通能力的人
-- 在危机处理和多任务管理方面有经验的人
-- 熟悉数字媒体和社交平台营销的人
-
-**谁不适合学Professional occupations in advertising, marketing and public relations？**
-- 不喜欢频繁与人沟通和公开演讲的人
-- 无法承受高压和紧迫截止日期的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent writing and verbal communication skills
+- People with experience in crisis management and multi-tasking
+- People familiar with digital media and social platform marketing
+
+**Who is not suited**
+- People who dislike frequent communication with others and public speaking
+- Those who cannot handle high pressure and tight deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Public Relations Manager in Canada?**
+A: According to Job Bank, median salary approx. CAD 75,000/year, entry-level around 50,000, senior up to 100,000+.
+
+**Q: How can a Public Relations Manager immigrate to Canada through Express Entry?**
+A: Requires 1 year of continuous NOC TEER 0/1/2/3 work experience, meet language requirements (CLB 7), obtain ECA credential assessment, and CRS score meeting the invitation threshold.
+
+**Q: What qualifications are needed to become a Public Relations Manager?**
+A: Typically requires a bachelor's degree in public relations, communications, or a related field, along with relevant work experience. CPRS certification can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Professional occupations in advertising, marketing and public relations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Public Relations Manager in Canada?**
-答：According to Job Bank, the median salary is around CAD 75,000 per year, entry-level around CAD 50,000, senior can exceed CAD 100,000.
-
-**问：How can a Public Relations Manager immigrate to Canada through Express Entry?**
-答：Requires 1 year continuous work experience in NOC TEER 0/1/2/3, language proficiency (CLB 7), ECA for education, and sufficient CRS score.
-
-**问：What qualifications are needed to become a Public Relations Manager?**
-答：Typically a bachelor's degree in public relations, communications or related field, plus relevant work experience. CPRS certification is advantageous.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

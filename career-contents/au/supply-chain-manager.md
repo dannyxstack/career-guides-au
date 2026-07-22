@@ -1,68 +1,98 @@
-# 供应链经理（Supply and Distribution Manager）职业分析 · 澳大利亚
+# Supply Chain Manager — career analysis · Australia
 
-**职业代码：133611 – Supply and Distribution Manager。**
+**Occupation code: 133611 (ANZSCO)**
 
-供应链经理统筹采购、仓储、物流和配送网络，确保产品从生产端高效流通至终端客户。后疫情时代澳洲供应链韧性建设需求和电商物流爆发推动对供应链专业人才的持续需求，是理工科背景跨入商业管理领域的高薪通道。
+A Supply Chain Manager oversees procurement, warehousing, logistics, and distribution networks to ensure products flow efficiently from production to end customers. Post-pandemic demand for supply chain resilience in Australia, combined with the boom in e-commerce logistics, drives continued demand for supply chain professionals — offering a high-salary pathway for those with science or engineering backgrounds transitioning into business management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Supply Chain / Logistics / Business（3年） | 3年（全日制） | $25,000~$155,000（或工程/商科相关学位；供应链是跨学科领域） |
-| APICS CSCP / CPIM 认证 | 3~12个月备考 | $1,500~$5,000（CSCP（供应链专业认证）考试费约 $700~$1,000；是全球最认可的供应链认证） |
-| VETASSESS 技能评估（189/190签证） | 2~6个月 | $600~$2,000（技术移民必须，约 $650 申请费） |
+| Bachelor of Supply Chain / Logistics / Business (3 years) | 3 years (full-time) | $25,000~$155,000 (Or a degree in engineering or business; supply chain is an interdisciplinary field) |
+| APICS CSCP / CPIM certification | 3–12 months of exam preparation | $1,500~$5,000 (CSCP (Certified Supply Chain Professional) exam fee approx. $700–$1,000; it is the most globally recognised supply chain certification) |
+| VETASSESS skills assessment (189/190 visa) | 2–6 months | $600~$2,000 (Mandatory for skilled migration, application fee approximately $650) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CSCP（Certified Supply Chain Professional） | APICS（美国生产和库存管理协会） | 可选 | 全球最认可的供应链专业认证，持有者薪资溢价显著 |
-| CPIM（Certified in Planning and Inventory Management） | APICS | 可选 | 库存和生产计划专精认证 |
-| CLTD（Certified in Logistics Transportation and Distribution） | APICS | 可选 | 物流和配送专精认证 |
-| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
+| CSCP（Certified Supply Chain Professional） | APICS (Association for Supply Chain Management) | Optional | The most globally recognised supply chain professional certification, with significant salary premiums for holders |
+| CPIM（Certified in Planning and Inventory Management） | APICS | Optional | Inventory and production planning specialist certification |
+| CLTD（Certified in Logistics Transportation and Distribution） | APICS | Optional | Logistics and distribution specialist certification |
+| VETASSESS skills assessment | VETASSESS | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 48,000。JSA预测供应链经理至2035年就业增长约11%。关键矿产战略储备、国防供应链本地化和ESG供应链合规是2025-2030年增长最快的政策驱动方向。
+**Job demand: high (★★★★☆).** National workforce approx. 48,000. JSA forecasts approximately 11% employment growth for supply chain managers by 2035. Critical minerals strategic reserves, localisation of defence supply chains, and ESG supply chain compliance are the fastest-growing policy-driven areas from 2025 to 2030.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~4,000 个 | 全国，含供应链经理、物流经理、S&OP经理和采购运营经理岗 |
-| Indeed | 1,000~3,000 个 | 含零售、制造、医疗和政府供应链岗 |
-| LinkedIn | 2,000~5,000 个 | 大型零售商（Woolworths/Coles）和制造企业直招 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 供应链分析师 / 协调员（0~3年） | $65,000~$85,000 | 供应链入门岗位起薪 |
-| 供应链经理（3~8年） | $100,000~$140,000 | SEEK 区间 $125k~$145k；Indeed 均值 $106,104（2026） |
-| 高级供应链经理 / S&OP总监（8~15年） | $140,000~$200,000 | 大型零售/制造企业供应链总监，含奖金 |
-| VP Supply Chain / Chief Supply Chain Officer（15年+） | $200,000~$400,000 | 上市公司首席供应链官，含奖金和股权激励 |
+| Median salary | $147,368 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Supply Chain Analyst / Coordinator (0–3 years) | $65,000~$85,000 | Entry-level salary for supply chain positions |
+| Supply Chain Manager (3–8 years) | $100,000~$140,000 | SEEK range $125k–$145k; Indeed average $106,104 (2026) |
+| Senior Supply Chain Manager / S&OP Director (8–15 years) | $140,000~$200,000 | Supply chain director at a large retail or manufacturing company, including bonuses |
+| VP Supply Chain / Chief Supply Chain Officer (15+ years) | $200,000~$400,000 | Chief Supply Chain Officer of a listed company, including bonuses and equity incentives |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 供应链数字化（Digital Supply Chain）是2025年行业核心转型，SAP S/4HANA和Oracle Supply Chain Management的专精人才需求急增。ESG供应链（可持续采购+碳足迹追踪）是上市公司供应链合规的强制方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The supply chain manager role presents a mixed outlook: routine scheduling and document verification tasks are automated away, but core capabilities like strategic planning, complex negotiation, and resilience design are amplified by AI, shifting value toward higher-level decision-making.
+
+Digital Supply Chain is the core industry transformation in 2025, with rapidly increasing demand for specialists in SAP S/4HANA and Oracle Supply Chain Management. ESG supply chains (sustainable procurement + carbon footprint tracking) are a mandatory compliance direction for listed companies.
+
+**Tasks most exposed to AI:**
+
+- Inventory demand forecasting and auto-replenishment calculation
+- Transportation route optimization and logistics cost calculation
+- Standardized Purchase Order Processing and Supplier Reconciliation
+- Supply chain performance dashboard generation and anomaly alerts
+- Compliance Document Review and Pre-Filling of Customs Clearance Documents
+
+**Where AI augments the role:**
+
+- AI-based supply chain resilience scenario modeling and contingency plan generation
+- Analyzing supplier risk sentiment and contract clause negotiation via NLP
+- AI-driven real-time demand sensing and dynamic inventory allocation
+- Intelligent evaluation and recommendation of multi-channel order fulfillment strategies
+- Using machine vision and IoT for digital twin monitoring of warehouse logistics
+
+**Human moat:**
+
+- Cross-departmental strategic coordination and long-term partnership maintenance
+- Make trade-off decisions under uncertainty (cost, service, risk)
+- Handle unstructured crises like single-supplier disruptions
+- Build organizational resilience and change management (e.g., drive automation implementation)
+- High-level business negotiation and procurement strategy innovation
+
+**Skills to build:**
+
+- Supply chain data analysis and Python/SQL scripting
+- AI/ML predictive modeling (e.g., time series forecasting, classification models)
+- Supply chain digital twin and simulation tools (AnyLogic, FlexSim, etc.)
+- Supplier risk management platform operation and AI warning interpretation
+- Agile supply chain and lean management methodologies
+- Cross-cultural communication and team leadership
+
+**Key growth areas:**
 
 - Supply Chain Technology & Digital Twin
 - ESG & Sustainable Supply Chain
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，供应链经理为短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，VETASSESS评估 |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区制造/物流中心，加15分 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored; supply chain manager is a shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; on MLTSSL; VETASSESS assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
+| Subclass 491 (Skilled Work Regional) | Regional manufacturing/logistics centre, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学供应链经理？**
-- 持有供应链/物流/工程/商科相关学位，有3年以上供应链工作经验
-- 熟悉ERP系统（SAP/Oracle）和供应链分析工具
-- 英语能力达到 IELTS 6.5+
-- 持有或正在备考CSCP/CPIM认证
-- 有ESG供应链、数字化转型或关键矿产/国防供应链经验（溢价最高方向）
-
-**谁不适合学供应链经理？**
-- 无供应链/物流/运营相关工作经验，仅有纯财务背景
-- 不熟悉ERP系统，无意愿学习供应链技术工具
-- 不适应跨部门协调和供应商关系管理的高压环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a degree in supply chain/logistics/engineering/business with 3+ years of supply chain work experience
+- Proficient in ERP systems (SAP/Oracle) and supply chain analytics tools
+- English proficiency of IELTS 6.5+
+- Holds or is currently studying towards CSCP/CPIM certification
+- Experience in ESG supply chains, digital transformation, or critical minerals/defence supply chains (highest-premium specialisations)
+
+**Who is not suited**
+- No supply chain/logistics/operations work experience; purely financial background only
+- Unfamiliar with ERP systems and unwilling to learn supply chain technology tools
+- Unable to adapt to the high-pressure environment of cross-departmental coordination and supplier relationship management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a supply chain manager in Australia?**
+A: Supply chain managers earn approximately $100,000–$140,000 (SEEK average $125k–$145k; Indeed $106,104); senior S&OP directors approximately $140k–$200k; Chief Supply Chain Officers (CSCO) approximately $200k–$400k.
+
+**Q: Is it easy to find work as a Supply Chain Manager in Australia?**
+A: Straightforward. Seek lists approximately 1,500–4,000 positions, and it is on the MLTSSL shortage occupation list. Senior supply chain managers holding CSCP and SAP/Oracle Tech certifications are in short supply, with critical minerals and defence supply chain roles representing emerging high-demand areas.
+
+**Q: Is Chinese supply chain experience recognised in Australia?**
+A: Skills assessed through VETASSESS; experience in manufacturing or large-retailer supply chains is recognised. CSCP is an internationally recognised certification and is fully recognised in Australia. It is advisable to highlight quantifiable supply chain improvements (e.g. inventory turnover rates, logistics cost reduction percentages).
+
+**Q: Will supply chain managers be replaced by AI?**
+A: Lower risk. AI optimises route planning, demand forecasting and inventory management, but supply chain strategy design, supplier risk management, crisis response and sustainable supply chain planning require deep judgement and relationship skills that cannot be replaced.
+
+**Q: Is there an age limit for supply chain managers in Australia?**
+A: None. Senior supply chain directors (aged 40–55) are highly valued in large retail and manufacturing companies, particularly those with global supply chain integration and crisis management experience.
+
+**Q: What qualifications do supply chain managers need in Australia?**
+A: A supply chain/logistics/engineering/business-related bachelor's degree is the foundation for VETASSESS assessment. CSCP certification can offset qualification gaps. SAP supply chain module certification adds additional value for technical supply chain roles.
+
+**Q: Is it hard to get certified as a supply chain manager in Australia (for migration purposes)?**
+A: Moderate difficulty. VETASSESS assessment pathway is straightforward; CSCP exam is moderately difficult with a pass rate of around 70%. Employer-sponsored 482 is a fast-track route, with major retailers (Woolworths/Coles) and manufacturing companies frequently sponsoring supply chain specialists.
+
+**Q: Which is better for migrating to Australia — supply chain manager or procurement manager?**
+A: Both are MLTSSL shortage occupations; Supply Chain Managers have a slightly lower average salary ($106k vs Procurement Manager $115k) but greater total job volume and broader industry coverage; Procurement Managers earn more and are more specialised. Those with end-to-end operations experience should choose Supply Chain Manager; those with strong specialised procurement experience should choose Procurement Manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 供应链经理薪资 $125k~$145k（2026） |
-| Indeed AU | 供应链经理平均薪资 $106,104（2026） |
-| APICS | CSCP和CPIM认证信息 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-供应链经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲供应链经理工资多少？**
-答：供应链经理约 $100,000~$140,000（SEEK均值 $125k~$145k；Indeed $106,104）；高级S&OP总监约 $140k~$200k；首席供应链官（CSCO）约 $200k~$400k。
-
-**问：澳洲供应链经理容易找工作吗？**
-答：容易。Seek 挂牌约 1,500~4,000 个职位，MLTSSL短缺职业。持CSCP+SAP/Oracle Tech的高级供应链经理供不应求，关键矿产和国防供应链方向更是新兴高需求领域。
-
-**问：中国供应链经验澳洲认可吗？**
-答：通过VETASSESS技能评估，中国制造业或大型零售商供应链经验可以认可。CSCP是国际通用认证，在澳洲完全认可。建议强调可量化的供应链改进成果（如库存周转率、物流成本降低比例等）。
-
-**问：供应链经理会被AI替代吗？**
-答：风险较低。AI优化路线规划、需求预测和库存管理，但供应链战略设计、供应商风险管理、危机应对和可持续供应链规划需要深度判断和关系能力，不可替代。
-
-**问：澳洲供应链经理有年龄限制吗？**
-答：无。资深供应链总监（40~55岁）在大型零售/制造企业中备受重视，特别是有全球供应链整合和危机管理经验者。
-
-**问：澳洲供应链经理需要什么学历？**
-答：供应链/物流/工程/商科相关本科学历是VETASSESS评估基础。CSCP认证可弥补学历差异。SAP供应链模块认证对技术类供应链岗位有额外价值。
-
-**问：澳洲供应链经理认证（移民）难吗？**
-答：难度中等。VETASSESS评估路径清晰；CSCP考试难度中等，通过率约70%。雇主担保482是快速路径，大型零售商（Woolworths/Coles）和制造企业常对供应链专家提供担保。
-
-**问：供应链经理和采购经理哪个更适合移民澳洲？**
-答：两者均为MLTSSL短缺职业；供应链经理薪资均值略低（$106k vs 采购经理 $115k），但职位总量更大、行业覆盖更广；采购经理薪资更高、专精化更强。有全链条运营经验者选供应链经理，有强专项采购经验者选采购经理。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

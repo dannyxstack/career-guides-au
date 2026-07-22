@@ -1,58 +1,93 @@
-# Forestry and Conservation Science Teachers, Postsecondary（Forestry and Conservation Science Teachers, Postsecondary）职业分析 · 美国
+# Forestry and Conservation Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1043 – Forestry and Conservation Science Teachers, Postsecondary。**
+**Occupation code: 25-1043 (SOC)**
 
-Teach courses in forestry and conservation science at postsecondary level, including both teaching and research.
+Teaches forestry and conservation science courses at higher education institutions, including faculty focusing on both teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 6年 | $120,000~$180,000（公立大学博士学杂费及生活费，含助学金后净成本可能更低） |
-| 硕士 | 2年 | $40,000~$80,000（硕士学杂费，公立大学费用较低） |
+| Doctorate | 6 years | $120,000~$180,000 (Tuition and living expenses for public university PhD programs; net cost may be lower after including assistantships) |
+| Master's degree | 2 years | $40,000~$80,000 (Master's tuition and fees; public university costs are lower) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 认证大学 | 必备 | 林业、森林生态或相关领域博士 |
-| 发表研究论文 | 学术期刊 | 可选 | 同行评审论文对晋升和终身教职至关重要 |
+| Doctoral degree (PhD) | Accredited university | Required | PhD in forestry, forest ecology, or a related field. |
+| Publish research papers | Academic journals | Optional | Peer-reviewed publications are crucial for promotion and tenure |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 7,500。受高校财政紧缩影响，增长缓慢。但公众对气候变化和自然资源管理的重视可能推动需求，预计2023-2033年就业增长约2%至4%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 7,500. Slow growth due to university budget constraints. However, public focus on climate change and natural resource management may boost demand, with employment expected to grow about 2% to 4% from 2023 to 2033.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理教授或讲师 |
-| 中级（4-9年） | $70,000~$95,000 | 副教授或已获终身教职 |
-| 高级（10年以上） | $95,000~$130,000 | 正教授或院系主任 |
+| Median salary | $101,420 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant professor or lecturer |
+| Intermediate (4-9 years) | $70,000~$95,000 | Associate professor or tenured |
+| Senior (10+ years) | $95,000~$130,000 | Full professor or department head |
+| average salary | $102,450 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从助理教授起步，经过6-7年获得终身教职（副教授），再晋升至正教授。部分转向研究管理或行政岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI’s impact on forestry and conservation science professors is mixed: automation will streamline literature reviews, data analysis, and course management, but fieldwork, interdisciplinary teaching, and ethical decision-making still require deep human involvement.
+
+Usually start as assistant professor, after 6-7 years gain tenure (associate professor), then advance to full professor. Some move to research management or administrative roles.
+
+**Tasks most exposed to AI:**
+
+- Literature review and data organization: AI automatically searches, summarizes academic papers, and extracts key data
+- Basic statistical analysis and chart generation: AI tools quickly perform regression, spatial analysis, and generate reports.
+- Course management and evaluation: AI automatically generates exercises, grades standard-answer assignments, and manages scores.
+- General advisory services: AI chatbot answers common student questions about courses and careers
+- Research grant application first draft: AI generates initial draft of grant applications from templates.
+
+**Where AI augments the role:**
+
+- Course design: AI-assisted creation of interactive simulations, virtual field trips, and other immersive learning materials
+- Personalized teaching: AI analyzes student performance, providing customized learning paths and real-time feedback
+- Scientific innovation: AI accelerates data processing and pattern discovery, aiding hypothesis generation and experimental design
+- Academic collaboration: AI translation tools facilitate international team cooperation and barrier-free reading of multilingual literature
+- Citizen science: AI platforms support data collection and analysis for citizen science projects, expanding research scale
+
+**Human moat:**
+
+- Field surveys and sample collection: designing and executing field experiments in complex natural environments
+- Interdisciplinary synthesis: integrating ecological and socio-economic factors for policy recommendations and ethical decision-making
+- Mentoring students through fieldwork and lab operations to impart tacit knowledge
+- Defining key research questions: identifying critical scientific and societal challenges in forest conservation
+
+**Skills to build:**
+
+- Advanced remote sensing and GIS analysis (e.g., Google Earth Engine, deep learning image recognition)
+- Python/R programming and machine learning (random forest, neural networks for ecological modeling)
+- Educational technology tools (learning management systems, MOOC design, virtual reality development)
+- Data Ethics and Explainable AI (ensuring model transparency and fairness)
+- Interdisciplinary communication (ability to collaborate with computer science and social sciences)
+- AI integration in experimental design (active learning, Bayesian optimization).
+
+**Key growth areas:**
 
 - climate change
 - sustainability
@@ -61,68 +96,67 @@ Teach courses in forestry and conservation science at postsecondary level, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 高校申请H-1B不受配额限制，可随时提交 |
-| Subclass EB-2（Employment-Based Second Preference） | 通过PERM或国家利益豁免(NIW)申请永久居留 |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出教授或研究员可申请 |
+| Subclass H-1B (H-1B Specialty Occupations) | University H-1B applications are exempt from the cap and can be submitted at any time |
+| Subclass EB-2 (Employment-Based Second Preference) | Apply for permanent residency via PERM or National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Extraordinary Ability) | Outstanding professors or researchers may apply. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry and Conservation Science Teachers, Postsecondary？**
-- 热爱研究和教学
-- 对环境科学有热情
-- 能适应高校学术文化
-
-**谁不适合学Forestry and Conservation Science Teachers, Postsecondary？**
-- 追求高薪快速回报
-- 不愿从事长期学术训练
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about research and teaching
+- Passionate about environmental science
+- Able to adapt to academic culture at universities
+
+**Who is not suited**
+- Pursuing high salary and quick returns
+- Unwilling to pursue long-term academic training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation?**
+A: BLS statistics show 2023 median salary approx. USD 80,000, but varies significantly by institution and title.
+
+**Q: Is it easy for foreigners to obtain a green card?**
+A: University employer sponsorship is a common path; H-1B is cap-exempt, and EB-2 can be accelerated through NIW, but academic achievements must be demonstrated.
+
+**Q: Can I teach without a PhD?**
+A: Community college or part-time instructors may accept a master's degree, but four-year universities typically require a doctorate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★½） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forestry and Conservation Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation?**
-答：BLS reports median annual wage around $80,000 in 2023, but varies by institution and rank.
-
-**问：Is it easy for foreigners to get a green card?**
-答：University sponsors are common; H-1B cap-exempt, EB-2 NIW possible, but requires academic credentials.
-
-**问：Can I teach without a PhD?**
-答：Community colleges or adjunct roles may accept a master's, but 4-year universities typically require a PhD.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

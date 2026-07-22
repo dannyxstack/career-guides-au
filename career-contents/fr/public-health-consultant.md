@@ -1,59 +1,92 @@
-# Public Health Consultant（Public Health Consultant）职业分析 · FR
+# Public Health Consultant — career analysis · France
 
-**职业代码：K1402 – Public Health Consultant。**
+**Occupation code: K1402 (ROME)**
 
-Public health consultants advise governments, healthcare organizations, and businesses on public health policies, epidemiological analysis, and health promotion strategies to improve population health.
+Public health consultants provide governments, medical institutions, or businesses with public health policies, epidemiological analyses, and health promotion programs aimed at improving population health.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $5,000~$15,000（公立大学学费约5000欧元/年，私立商学院可达15000欧元/年） |
-| 博士 | 3-4年（Doctorat） | $3,000~$5,000（公立大学博士学费约3000欧元/年，可申请奖学金） |
+| Master's degree | 2 years (Master) | $5,000~$15,000 (Public university tuition is about 5,000 euros per year, while private business schools can pay up to 15,000 euros per year) |
+| Doctorate | 3-4 years (Doctorat) | $3,000~$5,000 (The tuition for a PhD at public universities is about 3,000 euros per year, and scholarships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共卫生硕士 | 法国大学（如EHESP） | 必备 | 专业硕士是主要资质要求 |
-| 流行病学认证 | 法国公共卫生协会（SFSP） | 可选 | 非强制但提升竞争力 |
-| 欧盟资格认证 | 法国国家卫生资格认证中心（CNG） | 必备 | 若学历非欧盟获得，需通过资质认证 |
+| Master of Public Health | French universities (such as EHESP) | Required | A professional master's degree is the main qualification requirement |
+| EU qualification certification | French National Center for Health Certification (CNG) | Required | If the degree is not obtained in the EU, it must pass qualification certification |
+| Epidemiological certification | French Society of Public Health (SFSP) | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,500。法国公共卫生领域受疫情后政策推动，就业需求持续增长。政府与地区卫生局（ARS）及医保机构（Assurance Maladie）需要顾问参与健康战略规划、疾病预防项目管理，尤其在老龄化与慢性病防控领域。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. The public health sector in France has been driven by post-pandemic policies, with employment demand continuing to grow. Governments and regional health offices (ARS) and healthcare providers (Assurance Maladie) need consultants to participate in health strategy planning and disease prevention project management, especially in the fields of aging and chronic disease control.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（4-7年） | $45,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $45,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $85,500 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从初级分析师或政策顾问起步，晋升至项目经理或高级顾问，再至部门主管或独立专家。可进入卫生局、医疗机构、咨询公司或国际组织（如WHO），也可转型为公共卫生教授或研究员。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of public health advisors will be significantly augmented, rather than replaced, by AI; Automating data analysis and report generation will improve efficiency, but human judgment in policy-making and cross-departmental coordination remains central.
+
+Career paths typically start as junior analysts or policy consultants, advance to project managers or senior consultants, and then to department heads or independent experts. They can enter health bureaus, medical institutions, consulting firms, or international organizations (such as WHO), and can also transition to public health professors or researchers.
+
+**Tasks most exposed to AI:**
+
+- Generate standardized epidemiological reports and trend maps
+- Retrieve and summarize literature reviews from databases
+- Prepare presentations and meeting minutes
+- Automatically monitor public health news alerts
+
+**Where AI augments the role:**
+
+- AI modeling is used to predict disease transmission paths
+- Quickly analyze policy documents with natural language processing
+- Use automated tools to generate multiple intervention programs
+- Complex data is displayed through AI-assisted visualization
+
+**Human moat:**
+
+- Develop locally adapted public health policies
+- Coordinate the interests of the government, hospitals, and communities
+- Make decisions based on ethical and value considerations
+- Rapid on-site response and communication during crisis moments
+
+**Skills to build:**
+
+- Advanced epidemiological modeling (such as SEIR)
+- Application of Python/R in public health data analysis
+- AI tools (such as natural language processing) are used for policy analysis
+- Data visualization and interactive dashboard creation
+- Cross-cultural communication and policy advocacy skills
+- Public Health Ethics and Project Management
+
+**Key growth areas:**
 
 - Public Health Policy
 - Epidemiology
@@ -62,68 +95,67 @@ Public health consultants advise governments, healthcare organizations, and busi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于拥有硕士以上学历且获得法国雇主offer的专业人才，有效期4年 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达法国平均工资的1.5倍（约5.3万欧元） |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国雇主，需取得工作许可，通常有效期1年可续 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to professionals with a master's degree or above who have received an offer from a French employer, valid for 4 years |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, annual salary must reach 1.5 times the French average wage (approx. 53,000 euros). |
+| Subclass Salarié (Employee Work Permit) | Employed by a French employer requires a work permit, which is usually valid for one year and can be renewed |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Public Health Consultant？**
-- 拥有公共卫生或医学硕士学历者
-- 具备数据分析与政策研究能力者
-- 对健康促进与疾病预防有热情者
-
-**谁不适合学Public Health Consultant？**
-- 不愿持续学习与更新知识者
-- 抗拒多部门协调与沟通者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a master's degree in public health or medicine
+- Candidates with data analysis and policy research capabilities
+- Those passionate about health promotion and disease prevention
+
+**Who is not suited**
+- Those unwilling to continuously learn and update their knowledge
+- Resists multi-department coordination and communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for public health consultants?**
+A: Junior salary approx. €35,000–€45,000; mid €45,000–€60,000; senior €60,000–€80,000, depending on employer and experience.
+
+**Q: How can non-EU citizens immigrate to France to work as a public health consultant?**
+A: You can use Passeport Talent or the EU Blue Card, which requires a master's degree + an offer from a French employer. Academic qualifications must be certified by CNG.
+
+**Q: Is French proficiency certification required?**
+A: Yes, French is usually required at least B2 (such as DELF B2), and some positions require C1.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Public Health Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a public health consultant?**
-答：Entry-level: €35,000–€45,000; mid-level: €45,000–€60,000; senior: €60,000–€80,000 gross per year.
-
-**问：How can non-EU citizens immigrate to France as a public health consultant?**
-答：Via Talent Passport or EU Blue Card, requiring a master's degree and a job offer. Qualifications must be recognized by CNG.
-
-**问：Is French language certification required?**
-答：Yes, typically DELF B2 or higher, with C1 for some positions.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

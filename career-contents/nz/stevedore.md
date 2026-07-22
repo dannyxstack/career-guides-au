@@ -1,61 +1,95 @@
-# Stevedore（Stevedore）职业分析 · 新西兰
+# Stevedore — career analysis · New Zealand
 
-**职业代码：741212 – Stevedore。**
+**Occupation code: 741212 (ANZSCO)**
 
-Stevedores in New Zealand handle cargo loading/unloading and operate port equipment, playing a key role in the logistics chain. This occupation is eligible for the Accredited Employer Work Visa (AEWV) but not on the Green List, making Skilled Migrant Category residence challenging.
+Port operators in New Zealand handle loading and unloading of cargo and operate port equipment, playing a key role in the logistics chain. This occupation can apply for an Accredited Employer Work Visa (AEWV), but is not on the Green List, making skilled migration somewhat difficult.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 1-3个月 | $1,000~$3,000（包括基本安全与操作证书） |
-| 在职培训 | 6-12个月 | —（雇主提供，无学费） |
+| Short-term training | 1-3 months. | $1,000~$3,000 (Includes basic safety and operation certificates) |
+| On-the-job training | 6–12 months | $0~$0 (Provided by employer, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰港口安全证书 | 新西兰海事局 (Maritime NZ) | 必备 | 基本安全培训，强制要求 |
-| 危险货物操作证书 | 新西兰海事局 (Maritime NZ) | 可选 | 操作危险货物时需持有 |
-| 叉车操作证书 | 新西兰劳动安全局 (WorkSafe NZ) | 可选 | 推荐持有，提升就业机会 |
+| New Zealand Port Safety Certificate | Maritime New Zealand (Maritime NZ) | Required | Basic safety training, mandatory requirement |
+| Dangerous goods handling certificate | Maritime New Zealand (Maritime NZ) | Optional | Required when handling dangerous goods |
+| Forklift operator certificate | WorkSafe New Zealand | Optional | Recommended to hold, enhances employment opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰港口操作员需求稳定，受国际贸易和航运活动影响。未来5年预计保持温和增长，但自动化可能影响部分岗位。奥克兰、陶朗加等主要港口就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Demand for port operators in New Zealand is stable, influenced by international trade and shipping activity. Expected to grow moderately over the next 5 years, but automation may impact some roles. More job opportunities in major ports like Auckland and Tauranga.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-26纽元 |
-| 中级（3-7年） | $55,000~$70,000 | 时薪约26-34纽元 |
-| 高级（7年以上） | $70,000~$90,000 | 包括主管或设备操作员 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately 22-26 NZD |
+| Mid-level (3–7 years) | $55,000~$70,000 | Hourly wage about 26-34 NZD |
+| Senior (7+ years) | $70,000~$90,000 | Includes supervisors or equipment operators |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从初级工人开始，可晋升为设备操作员（如起重机司机）、班组长或码头主管。积累经验后，可转向物流协调或港务管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Stevedores face moderate automation risk; physical and coordination tasks will be partially replaced by equipment, but safety supervision and emergency judgment rely on human experience, with AI mostly assisting and augmenting.
+
+Starting as a general worker, can advance to equipment operator (e.g., crane operator), team leader, or dock supervisor. With experience, can transition to logistics coordination or port management roles.
+
+**Tasks most exposed to AI:**
+
+- Container lashing and securing operations (automated lashing system)
+- Cargo location recording and scanning (AI vision + RPA)
+- Ship Stowage Plan Tabulation and Verification (Algorithm Optimization)
+- Routine inspection of spreaders and equipment (sensors + AI prediction)
+
+**Where AI augments the role:**
+
+- Real-time lifting path planning (AI-assisted obstacle avoidance)
+- Yard efficiency optimization (machine learning scheduling recommendations)
+- Security Monitoring and Early Warning (Image Recognition of Abnormal Behavior)
+- Predictive maintenance of equipment (data analysis)
+- Multilingual communication translation (real-time speech transcription)
+
+**Human moat:**
+
+- Safety decision-making and emergency response in complex environments
+- Non-Standard Communication and Coordination with Ship Owners, Port Controllers, Barges, etc.
+- Adaptability under abnormal conditions such as bad weather and equipment failures
+- Intuitive judgment of hidden risks (e.g., unstable cargo in containers)
+
+**Skills to build:**
+
+- Port automation equipment operation and basic programming
+- Use of AI scheduling and data analysis tools
+- Safety information management (e.g. CMMS system)
+- Basic English communication (for dealing with multinational crew).
+- Drone inspection operations.
+- Troubleshooting and remote collaboration skills
+
+**Key growth areas:**
 
 - AEWV eligible
 - Moderate growth
@@ -64,68 +98,67 @@ Stevedores in New Zealand handle cargo loading/unloading and operate port equipm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | ANZSCO 4-5级职业，分数要求高，需雇主担保或工作经验加分，难度大 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsored job with an approved employer; after 3 years of work, can apply for residency. |
+| Subclass SMC (Skilled Migrant Category) | ANZSCO 4-5 level occupation, high score requirements, needs employer sponsorship or work experience points, difficult |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stevedore？**
-- 体力好、适应户外作业的人
-- 注重安全、团队协作能力强的人
-- 愿意通过AEWV积累经验再寻求居留的人
-
-**谁不适合学Stevedore？**
-- 不喜体力劳动或夜班的人
-- 希望快速获得新西兰永居的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are physically fit and adaptable to outdoor work
+- People who prioritize safety and have strong teamwork skills
+- those willing to gain experience via AEWV before seeking residence
+
+**Who is not suited**
+- Those who dislike physical labor or night shifts
+- People seeking fast New Zealand permanent residency
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for port operators in New Zealand?**
+A: Entry-level port operator annual salary about NZD 45,000-55,000, hourly rate NZD 22-26; experienced workers can earn NZD 55,000-70,000; supervisors or equipment operators can earn over NZD 70,000.
+
+**Q: Can port operators immigrate to New Zealand through skilled migration?**
+A: This occupation is ANZSCO Skill Level 4; direct skilled migration points requirement is high, but can obtain residence after working for 3 years on an Accredited Employer Work Visa (AEWV), or improve immigration success by gaining experience and moving to management.
+
+**Q: What certifications are required for port operators in New Zealand?**
+A: The basic requirement is a port safety certificate issued by Maritime New Zealand; additional certification is needed to handle dangerous goods; a forklift license can increase competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stevedore为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stevedores in New Zealand?**
-答：Entry-level stevedores earn NZD 45,000-55,000 per year (hourly NZD 22-26); experienced workers NZD 55,000-70,000; supervisors or equipment operators can exceed NZD 70,000.
-
-**问：Can stevedores migrate to New Zealand through the Skilled Migrant Category?**
-答：This ANZSCO Skill Level 4 occupation has high points requirements under SMC, but you can work via AEWV for 3 years then apply for residence, or move into management to improve chances.
-
-**问：What certifications are required to work as a stevedore in New Zealand?**
-答：Basic requirement: Port Safety Certificate from Maritime NZ. Additional: Dangerous Goods Certificate for hazardous cargo. Forklift certificate is recommended for better job prospects.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

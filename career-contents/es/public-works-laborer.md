@@ -1,60 +1,96 @@
-# Public Works Laborer（Public Works Laborer）职业分析 · ES
+# Public Works Laborer — career analysis · Spain
 
-**职业代码：9601 – Public Works Laborer。**
+**Occupation code: 9601 (CNO)**
 
-Public works laborers perform manual tasks in infrastructure construction such as roads, bridges, and pipelines, including digging, lifting, and site cleaning.
+Public works manual laborers engage in physical labor for infrastructure construction such as roads, bridges, and pipelines, including excavation, transport, and site cleaning.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中学义务教育 | 4年（ESO） | —（公立教育免费） |
-| 职业教育（FP Básico） | 2年 | —（公立FP低费用） |
+| Compulsory secondary education | 4 years (ESO) | $0~$0 (Public education is free) |
+| Vocational Education (FP Básico) | 2 years | $0~$1,000 (Public FP is low-cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制要求 | 无 | 可选 | 通常仅需中学学历，在职培训即可 |
-| 建筑安全卡（Tarjeta Profesional de la Construcción） | Fundación Laboral de la Construcción | 可选 | 需参加基础安全课程，非强制但常见要求 |
+| There are no specific mandatory requirements | None | Optional | Usually, only a secondary school diploma and on-the-job training are sufficient |
+| Construction Safety Card (Tarjeta Profesional de la Construcción) | Fundación Laboral de la Construcción | Optional | Attendance at basic safety courses is required; not mandatory but commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。西班牙基础设施投资持续，公共工程体力工人需求稳定，但受季节性影响，失业率波动大。适合寻求稳定体力工作者。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Infrastructure investment in Spain continues, and demand for public works manual workers remains stable, but unemployment rates fluctuate greatly due to seasonal factors. Suitable for those seeking stable manual labor.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，按14个月薪计算 |
-| 中级（4-7年） | $22,000~$26,000 | 含加班和奖金 |
-| 高级（8年以上） | $26,000~$30,000 | 工头或特殊技能岗位 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary is calculated as 14 months' salary |
+| Mid-level (4-7 years) | $22,000~$26,000 | Including overtime and bonuses |
+| Senior (8+ years) | $26,000~$30,000 | foreman or special skill positions |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为工头或操作重型机械，但需额外培训。经验丰富者可转向小型承包或自主就业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Public works manual laborers face the dual risk of automation and AI: repetitive physical tasks (such as digging and handling) are replaced by automated machinery, on-site scheduling and monitoring are optimized by AI, entry-level positions are drastically reduced, and only a few complex environment and precision control positions remain.
+
+Promotion to foreman or operating heavy machinery is possible, but additional training is required. Experienced individuals can turn to small-scale contracting or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Manual excavation and earth handling: intelligent machinery such as automatic excavators and bulldozers can perform tasks independently without the need for manual labor.
+- Simple material transport and stacking: AGVs (automated guided vehicles) and drones enable unmanned handling and stacking.
+- Basic site cleaning and leveling: robots and automated cleaning equipment replace manual labor.
+- Repetitive tool operations (such as tamping and cutting): AI-controlled automated tools execute according to program.
+- Inspection and recording along fixed routes: sensors + AI vision system automatically inspect and generate reports.
+
+**Where AI augments the role:**
+
+- Precision operations in complex terrain and confined spaces: AI-assisted remote-controlled robotic arms enhance operational accuracy and safety.
+- Equipment fault diagnosis and maintenance: AI predictive maintenance systems guide workers to quickly locate issues.
+- On-site safety monitoring and hazard warning: AI visually identifies risk areas, and workers use VR/AR feedback to avoid risks.
+- Multi-trade collaborative scheduling: AI optimizes personnel and machinery allocation, with workers managing processes as operators.
+- Quality Control and Acceptance: AI analyzes construction data, and workers perform final confirmation and adjustments.
+
+**Human moat:**
+
+- Adaptive decisions in unstructured environments (such as abnormal climates and irregular terrain).
+- Multi-skill integration (such as operating different devices simultaneously and coordinating teams).
+- On-the-spot response capability for high-risk scenarios (such as sudden collapses or equipment failures).
+- Communication, coordination, and on-site conflict resolution.
+- In-depth understanding and enforcement of local construction codes and safety regulations.
+
+**Skills to build:**
+
+- Intelligent machinery operation and remote control technologies (such as excavator remote control systems).
+- Basic programming and use of digital tools (such as scheduling tablets and project management software).
+- AI-assisted diagnosis and maintenance (learning and predicting maintenance system operations).
+- Advanced training in safety regulations and emergency response.
+- Data recording and basic analysis (for quality reporting).
+- Communication and team management skills (transitioning to a skilled worker).
+
+**Key growth areas:**
 
 - Infrastructure
 - Construction
@@ -63,64 +99,66 @@ Public works laborers perform manual tasks in infrastructure construction such a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙公司担保，证明职位无法由本地人填补，通常适用于紧缺职业，但公共工程体力工人非紧缺，难度大。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A Spanish company sponsorship is required, proving that the position cannot be filled by a local resident. This usually applies to scarce occupations, but public works manual laborers are not in short supply and are more challenging. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Works Laborer？**
-- 喜欢户外体力劳动、不介意天气影响
-- 寻求快速入职、无需高学历者
-- 适应团队合作和简单指令者
+**Who is suited**
+- They enjoy outdoor physical labor and don't mind the weather
+- Seeking quick employment without requiring a high degree
+- Adapted to teamwork and simple commands
 
-**谁不适合学Public Works Laborer？**
-- 期望高收入和职业发展者
-- 无法承受高强度重复劳动或不稳定工作者
+**Who is not suited**
+- Those seeking high income and career development
+- Those who cannot endure high-intensity, repetitive labor or unstable jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the wage levels for public works manual laborers?**
+A: Entry-level annual salary is about €18,000-22,000, senior can reach €30,000, but fluctuates greatly due to season and project.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: It's tough. This profession is not in short supply, employer-sponsored immigration is almost impossible, and is usually limited to the free movement of EU citizens.
+
+**Q: Is there room for career advancement in this occupation?**
+A: They can be promoted to foreman or operate heavy machinery, but additional training and certification are required, and most people have long engaged in manual labor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Public Works Laborer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for public works laborers?**
-答：Entry-level annual salary is around €18,000-€22,000, up to €30,000 for senior roles, but fluctuates with seasons and projects.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. It is not a shortage occupation, employer sponsorship is nearly impossible, and it is generally limited to EU citizens.
-
-**问：Is there career progression?**
-答：Possible to advance to foreman or heavy machinery operator with extra training, but most remain in manual labor long-term.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

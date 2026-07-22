@@ -1,61 +1,96 @@
-# Subsistence Fisher（Subsistence Fisher）职业分析 · IE
+# Subsistence Fisher — career analysis · Ireland
 
-**职业代码：6340 – Subsistence Fisher。**
+**Occupation code: 6340 (ISCO08)**
 
-This occupation involves fishing, hunting, trapping, and gathering for subsistence purposes, with a very small presence in Ireland, mainly in remote coastal and rural areas.
+This occupation refers to fishing, hunting, trapping and gathering for subsistence purposes; it is very small-scale in Ireland, mostly in remote coastal and rural areas.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式教育 | 无 | —（通常通过家族或社区传承） |
-| 短期技能培训 | 数周 | $500~$2,000（可能参加渔业安全或可持续捕捞课程） |
+| No formal education required | None | $0~$0 (Usually passed down through family or community) |
+| Short-term skills training | Several weeks | $500~$2,000 (May attend fisheries safety or sustainable fishing courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔船安全证书 | 爱尔兰海事局 | 必备 | 驾驶小型渔船可能需要 |
-| 狩猎许可证 | 爱尔兰国家公园和野生动物服务处 | 必备 | 狩猎需持有 |
-| 水产养殖培训 | Bord Iascaigh Mhara | 可选 | 转型时可选 |
+| Fishing vessel safety certificate | Irish Maritime Administration | Required | May require driving small fishing vessels |
+| Hunting license. | Ireland's National Parks and Wildlife Service | Required | Hunting requires a license |
+| Aquaculture training | Bord Iascaigh Mhara | Optional | Optional during transition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 100。爱尔兰自给性渔民等职业就业前景有限，受海洋资源保护和旅游业影响，传统生计方式逐渐减少，政府鼓励转型至可持续渔业或旅游服务。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. 100. Employment prospects for occupations like self-sufficient fishers in Ireland are limited due to marine resource protection and tourism. Traditional livelihoods are gradually declining, with the government encouraging a transition to sustainable fisheries or tourism services.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $10,000~$15,000 | 收入极不稳定，多为自给自足 |
-| 中级（3-7年） | $15,000~$25,000 | 可能通过销售部分渔获获得少量现金收入 |
-| 高级（7年以上） | $20,000~$35,000 | 经验丰富者可能兼营旅游或加工 |
+| Median salary | $20,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $10,000~$15,000 | Income is highly unstable, mostly self-sufficient |
+| Mid-level (3–7 years) | $15,000~$25,000 | May earn small cash income from selling part of the catch |
+| Senior (7+ years) | $20,000~$35,000 | Experienced individuals may also operate tourism or processing businesses |
+| average salary | $20,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极差（½☆☆☆☆）。** 该职业通常无固定晋升路径，部分从业者可能转向商业渔业、生态旅游向导或社区支持农业等方向。技能可迁移至水产养殖或环境监测领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: very low (½☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Subsistence fishers, hunters, trappers and gatherers face a high risk of automation replacement in Ireland; AI-driven monitoring, prediction and automated fishing technologies will significantly compress their living space, leading to further contraction of jobs.
+
+This occupation typically has no fixed career progression; some practitioners may move into commercial fishing, ecotourism guiding, or community-supported agriculture. Skills can transfer to aquaculture or environmental monitoring.
+
+**Tasks most exposed to AI:**
+
+- Using AI image recognition and drones to monitor fish schools and prey distribution, replacing visual observation and traditional empirical tracking
+- Automatic fishing equipment sets fishing parameters and executes operations autonomously based on meteorological and oceanographic data
+- AI prediction systems analyze historical data and environmental changes to optimize hunting/gathering routes and timing, replacing manual judgment
+- Automatic trapping devices are triggered by sensors, requiring no manual attendance or operation.
+- AI-driven inventory and resource management software replaces manual record-keeping and planning
+
+**Where AI augments the role:**
+
+- AI-assisted wearable devices monitor environmental conditions and physiological status, improving safety in field work.
+- Real-time translation and voice assistants help communicate with fisheries management or researchers.
+- Social media and e-commerce platforms recommend local handmade products, but this scenario is rare.
+- AI analyzes sustainable catch volumes to assist in developing legal and compliant fishing plans
+- Low-power edge computing devices for offline maps and navigation enhancement
+
+**Human moat:**
+
+- Emergency decision-making and manual operations in remote environments without network access.
+- Deep integration with local community traditional knowledge, understanding subtle changes in ecology and culture
+- Physical endurance and resilience to maintain basic survival capabilities under extreme weather.
+- Interpersonal trust in manual processing and distribution of products
+
+**Skills to build:**
+
+- Basic digital literacy (using offline navigation and communication tools)
+- Ecological monitoring and sustainable practice certification
+- Emergency survival and first aid skills.
+- Small vessel or equipment maintenance skills
+- Understand basic AI principles to assess tool risks.
+- Advanced Training in Native Plant and Animal Identification
+
+**Key growth areas:**
 
 - declining
 - traditional
@@ -64,65 +99,67 @@ This occupation involves fishing, hunting, trapping, and gathering for subsisten
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 通常不适合，因该职业不满足技能要求 |
-| Subclass EU Freedom of Moveme（EU/EEA/Swiss Citizen Free Movement） | 仅欧盟公民可在爱尔兰从事自给性职业 |
+| Subclass General Employment P (General Employment Permit) | Generally not suitable, as the occupation does not meet skill requirements |
+| Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizen Free Movement) | Only EU citizens can work in self-employment in Ireland |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Subsistence Fisher？**
-- 偏好传统生活方式者
-- 居住于偏远沿海或农村地区者
-- 家族从事该行业者
+**Who is suited**
+- Those who prefer a traditional lifestyle
+- Those living in remote coastal or rural areas
+- Those whose families are in the industry
 
-**谁不适合学Subsistence Fisher？**
-- 寻求稳定高收入者
-- 希望在城市工作的人
+**Who is not suited**
+- Seeking stable high-income earners
+- A person who wishes to work in a city
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of subsistence fishermen?**
+A: Income is very low and unstable, mainly relying on self-sufficiency, with little cash income; annual income is usually between €10,000 and €35,000, depending on catch and market conditions.
+
+**Q: Can non-EU citizens immigrate to Ireland through this occupation?**
+A: No. This occupation does not meet the skill requirements for any work permit; Irish immigration policy only allows free movement for EU citizens.
+
+**Q: What is the future outlook for this occupation?**
+A: Poor prospects: traditional livelihoods are impacted by environmental regulations and commercialization, with employment numbers continuously declining.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very low (½☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极差（½☆☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Subsistence Fisher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of subsistence fishers?**
-答：Income is very low and unstable, primarily subsistence-based with little cash revenue, typically between €10,000 and €35,000 per year depending on catch and market.
-
-**问：Can non-EU citizens immigrate through this occupation?**
-答：No. This occupation does not meet the skill requirements for any work permit; Ireland's immigration policy only allows free movement for EU citizens.
-
-**问：What is the future prospect of this occupation?**
-答：Poor; traditional livelihoods are declining due to environmental regulations and commercialization, with a continuous drop in workforce numbers.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

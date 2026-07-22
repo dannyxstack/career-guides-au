@@ -1,60 +1,90 @@
-# Street Sweepers and Related Workers（Street Sweepers and Related Workers）职业分析 · ES
+# Street Sweepers and Related Workers — career analysis · Spain
 
-**职业代码：9443 – Street Sweepers and Related Workers。**
+**Occupation code: 9443 (CNO)**
 
-Responsible for sweeping streets, parks, squares and other public areas to maintain urban cleanliness. Usually employed by municipalities or contracted companies, tasks include litter collection, leaf removal and winter de-icing.
+Responsible for cleaning streets, parks, squares, and other public areas to maintain urban environmental sanitation. Usually employed by the city government or outsourced companies, the work includes garbage collection, leaf clearing, and winter snow removal.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无需正规学历 | —（无学历成本，仅需基本识字能力） |
-| 初级职业培训（FP Básica） | 2年 | —（公共FP免费，材料费约500欧元） |
+| Compulsory education | No formal education required | $0~$0 (No educational requirements, only basic literacy is required) |
+| Primary Vocational Training (FP Básica) | 2 years | $0~$500 (Public FP is free, with material costs around 500 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | 无 | 可选 | 通常不要求正式资格，雇主提供上岗培训 |
-| 驾驶执照（如需驾驶清洁车辆） | 交通总局（DGT） | 可选 | 若操作清扫车或垃圾车，需B类驾照 |
+| No mandatory qualification | None | Optional | Usually, formal qualifications are not required; employers provide onboarding training |
+| Driver's license (if needed to drive a cleaning vehicle) | Directorate General of Transportation (DGT) | Optional | If operating a sweeper or garbage truck, a Class B driver's license is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 85,000。西班牙市政清洁服务需求稳定，因人口老龄化和环保法规趋严，职位空缺持续存在，但替代率低，就业前景一般。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Demand for municipal cleaning services in Spain remains stable, but due to an aging population and stricter environmental regulations, job vacancies persist, but replacement rates are low and employment prospects are average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 按集体协议，起薪约15,000-18,000欧元 |
-| 中级（3-10年） | $18,000~$22,000 | 工龄增长后可达18,000-22,000欧元 |
-| 高级（10年以上或小组长） | $22,000~$26,000 | 监督岗位或资深工人约22,000-26,000欧元 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | According to collective agreements, the starting salary is about 15,000–18,000 euros |
+| Intermediate (3-10 years) | $18,000~$22,000 | With increased years of service, the salary can reach 18,000–22,000 euros |
+| Senior (over 10 years or group leader) | $22,000~$26,000 | Supervisory positions or senior workers earn about 22,000-26,000 euros |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从无经验工人做起，可晋升为小组长或监督员，少数有机会进入市政管理岗位。职业发展空间有限，多依赖工龄积累。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly replace the heavy repetitive work of street cleaners, but fully autonomous robots are not yet mature and will still require human supervision and supplementation in the short term, leading to an overall decline in job demand.
+
+Usually, starting from inexperienced workers, they can be promoted to group leader or supervisor, with a few opportunities to enter municipal management positions. Career development space is limited and mostly relies on accumulated years of service.
+
+**Tasks most exposed to AI:**
+
+- Autonomous sweepers using computer vision perform routine street cleaning
+- The AI waste sorting system automatically identifies and sorts and collects waste
+- Robots or drones perform leaf litter and winter snow removal operations in parks
+
+**Where AI augments the role:**
+
+- AI scheduling systems optimize cleaning routes and frequency, improving efficiency
+- Real-time sensor data analysis monitors street cleanliness to assist precise cleaning
+- AI tools automatically generate work reports and task records, reducing paperwork
+
+**Human moat:**
+
+- Decision-making and adaptability in complex environments (such as temporary traffic control)
+- Interpersonal Communication and Public Service (Responding to Citizen Complaints)
+- Handling emergency hygiene incidents (such as liquid spills and hazardous materials)
+- Machine maintenance and troubleshooting
+
+**Skills to build:**
+
+- Basic robot operation and maintenance
+- AI monitoring system usage and data analysis
+- Digital literacy and troubleshooting of smart devices
+- Operation of urban sanitation management software
+- Safety regulations and emergency response training
+
+**Key growth areas:**
 
 - Stable demand
 - Urban sanitation
@@ -63,61 +93,63 @@ Responsible for sweeping streets, parks, squares and other public areas to maint
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需雇主担保，但该职业通常不被视为高技能，获批难度大。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, but this occupation is usually not considered high-skilled and is difficult to approve. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Street Sweepers and Related Workers？**
-- 喜欢户外体力工作、不介意风吹日晒的人
-- 寻求稳定低技能工作、对职业晋升期望不高的人
-- 希望进入公共部门或大型外包公司获得稳定合同的人
+**Who is suited**
+- People who enjoy outdoor physical work and don't mind exposure to the elements
+- Those seeking stable, low-skilled jobs with low expectations for career advancement
+- People hoping to enter the public sector or large outsourcing companies to secure stable contracts
 
-**谁不适合学Street Sweepers and Related Workers？**
-- 寻求高收入和职业快速发展的人
-- 对工作环境（灰尘、天气）敏感或体力较弱的人
+**Who is not suited**
+- People seeking high income and rapid career advancement
+- People sensitive to work environments (dust, weather) or physically weak
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the approximate annual salary for street cleaners in Spain?**
+A: Entry-level salaries are about 15,000-18,000 euros, with experienced players earning over 22,000 euros, depending on city and collective agreements.
+
+**Q: Can foreigners become street cleaners in Spain through a work visa?**
+A: It's very difficult. This occupation is classified as low-skill, does not meet the high-skilled immigration requirements, and Spain prioritizes hiring local or EU citizens.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Street Sweepers and Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary of a street sweeper in Spain?**
-答：Entry-level around €15,000-18,000, experienced up to €22,000+, depending on city and collective agreement.
-
-**问：Can a foreigner get a work visa to become a street sweeper in Spain?**
-答：Very difficult. The occupation is low-skilled, not eligible for high-skilled visas, and employers prefer local/EU workers.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

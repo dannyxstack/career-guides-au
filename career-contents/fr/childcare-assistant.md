@@ -1,124 +1,165 @@
-# Childcare Assistant（Childcare Assistant）职业分析 · FR
+# Childcare Assistant — career analysis · France
 
-**职业代码：K1303 – Childcare Assistant。**
+**Occupation code: J1304 (ROME)**
 
-Assist professional educators in caring for children aged 0-6, handling daily care, hygiene, play activities, and basic meal supervision.
+Childcare assistants assist professional educators in kindergartens or nurseries, responsible for daily care, hygiene, feeding accompaniment, basic safety supervision, and participation in early childhood activities for infants aged 0-3.
+
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育证书（CAP AEPE） | 2年 | —（公立学校免费，注册费约100-200欧元；学徒制有工资） |
-| 职业高中文凭（Bac Pro ASSP） | 3年 | —（公立学校免费，材料费约500-1500欧元） |
+| CAP Accompagnant Éducatif Petite Enfance (AEPE) | 2 years (CAP) | $0~$5,000 (Public schools are free or less than 1000 euros, private schools about 3000-5000 euros; Compensation can be obtained through apprenticeships) |
+| Bac Pro Services aux Personnes et Animation dans les Territoires (SPAT) | 3 years (Bac Pro) | $0~$4,000 (Public high schools are free, and apprenticeships are paid) |
+| DEAP (Diplôme d'État d'Auxiliaire de Puériculture) | 1 year (DEAP) | $1,000~$8,000 (Public schools cost about 1000-3000 euros, private schools about 5000-8000 euros; Regional scholarships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Accompagnant Éducatif Petite Enfance (AEPE) | 法国教育部 | 必备 | 从事儿童看护的必要文凭 |
-| 幼儿教育能力证书（Agrément） | 省议会（Conseil Départemental） | 可选 | 家庭托儿所需认证 |
+| CAP AEPE (Early Childhood Education Companion Certificate) | French Ministry of Education | Required | The most basic qualification is commonly required in nurseries and kindergartens |
+| DEAP (National Diploma in Early Childhood Nursing Assistance) | French Ministry of Education/Ministry of Health | Optional | More professional, allowing work in medical institutions and special care facilities |
+| License to Practice in the Care of Minors (Certificat d'aptitude à la garde d'enfants) | French Departmental Parliament (Conseil départemental) | Optional | A family nanny (assistante maternelle) is required, requiring training and family review |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。法国对儿童看护人员需求稳定增长，受政府扩大托儿名额政策推动，就业机会持续增加。
+**Job demand: high (★★★★☆).** National workforce approx. 200,000. With the increase in dual-income families and government policies encouraging childbirth, the demand for childcare for children aged 0-3 in France continues to grow. It is expected that job openings will increase by about 10% from 2023 to 2030, but most contracts are for basic CDI or temporary workers, while public childcare centers are more stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$21,000 | 税前年薪，公立或私立托儿所 |
-| 中级（3-7年） | $21,000~$25,000 | 包括经验和额外资格 |
-| 高级（7年以上） | $25,000~$30,000 | 管理职位或高资质者 |
+| Median salary | $23,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $19,500~$22,000 | Based on the 15-level SMIC (monthly salary about 1600 euros), public institutions are slightly higher |
+| Mid-level (3–7 years) | $22,000~$25,000 | Including qualification allowances, public institutions: approximately €23,000–€25,000 |
+| Senior (7+ years) | $25,000~$29,000 | Senior childcare assistants or part-time team coordinators, with public schools earning up to about 29,000 euros |
+| average salary | $23,583 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从助理晋升为幼儿教育助理（CAP AEPE）或幼儿教育专业人员（EJE），也可转向家庭托儿管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of childcare assistants is affected by AI in mixed ways: administrative records and basic monitoring are easily automated, but the emotional comfort, safety monitoring, and creative interactions of infants and young children depend on humans and are difficult to replace in the short term.
 
-- Early childhood care
-- Creche expansion
-- Family policy
-- Child development
+Students can be promoted from Childcare Assistant (CAP AEPE) to Early Childhood Education Assistant (ATSEM), and through further training to become an Early Childhood Education Supervisor (éducateur de jeunes enfants). Some people turn to home childcare or private nannies.
+
+**Tasks most exposed to AI:**
+
+- Electronic check-in and attendance records are replaced by AI facial recognition/clock-in systems
+- Basic data recording of sleep and eating times is automatically collected by IoT sensors
+- Simple Q&A and information queries (such as weather and event arrangements) are handled by voice assistants
+- The basic cleaning and disinfection process is carried out with robotic assistance
+
+**Where AI augments the role:**
+
+- AI-assisted observation and recording of infant behavior patterns generate personalized development reports
+- Smart sensors monitor health indicators such as sleep, body temperature, and activity levels with real-time warnings
+- AI recommends age-appropriate enlightenment activities and educational games for children
+- Automatically generates daily parent communication reports, highlighting key points and progress performance
+
+**Human moat:**
+
+- Emotional comfort and physical contact for infants aged 0-3 (such as hugs and soothing)
+- Unstructured, immediate responses during sudden crying, conflict, or emotional breakdowns
+- Personalized creative interactions (such as impromptu stories, crafts, music)
+- The continuous, consistent, and warm care needed to build trust
+- Sensitive interpretation of nonverbal cues (eye contact, movements, voices).
+
+**Skills to build:**
+
+- AI-assisted analysis tools for child development and early education
+- Operation and data interpretation of intelligent monitoring and health monitoring systems
+- Personalized enlightenment activity design in collaboration with AI
+- Crisis management and nonviolent communication skills
+- Basic knowledge of infant first aid and health epidemic prevention
+- Parent communication and team digital collaboration skills
+
+**Key growth areas:**
+
+- Early childhood
+- Daycare expansion
+- Family support policy
+- Nursery staff
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 适用于获得法国雇主工作合同，且职位符合劳动力市场需求。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若具备高级资质或特殊技能，可申请人才护照。 |
+| Subclass Salarié (Salarié (Employee residence permit)) | The employer must provide a work contract (CDI), with wages not less than 1.5 times the SMIC, and be approved by the French Labour Agency (France Travail). |
+| Subclass Passeport Talent (Passeport Talent (Talent passport)) | Suitable for highly skilled talents, with a bachelor's degree or higher and an annual salary ≥ 1.5 times SMIC (about 28,000 euros), but childcare assistant positions usually do not qualify. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Childcare Assistant？**
-- 喜欢与幼儿互动，有耐心和责任感
-- 愿意接受职业教育或培训
-- 寻求稳定且社会需求大的职业
-
-**谁不适合学Childcare Assistant？**
-- 对体力消耗大、薪资水平低敏感
-- 不喜欢与家长沟通或处理儿童行为问题
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with infants and young children and are patient and responsible
+- People seeking quick employment without requiring a high degree
+- People interested in early childhood development and willing to start from the basics
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who are not good at handling crying, messiness, or high-intensity, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for childcare assistants in France?**
+A: Based on experience, the pre-tax annual salary is about 19,500 to 29,000 euros. Public institutions usually offer more stable salaries, while private institutions may offer slightly lower wages.
+
+**Q: Can third-country citizens become childcare assistants in France through skilled immigration?**
+A: It's very difficult. This occupation has a low entry threshold but low salary, often failing to meet the 1.5 times SMIC visa requirement. EU citizens can work directly, but non-EU applicants require strong employer sponsorship and sufficient local market training.
+
+**Q: What French diplomas are required to become a childcare assistant?**
+A: The most basic is the CAP AEPE (National Certificate), but you can also choose DEAP (National Diploma in Early Childhood Nursing Assistance). Both require training at French institutions, and overseas qualifications must be assessed by ENIC-NARIC.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Childcare Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a childcare assistant in France?**
-答：Entry-level annual salary is about €18,000-21,000 (gross), rising to €25,000-30,000 with experience.
-
-**问：How can a foreign childcare assistant migrate to France?**
-答：Usually requires employer sponsorship for a Salarié work visa; holding a CAP AEPE diploma or equivalent improves chances.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

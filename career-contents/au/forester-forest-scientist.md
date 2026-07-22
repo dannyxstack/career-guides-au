@@ -1,60 +1,96 @@
-# Forester / Forest Scientist（Forester / Forest Scientist）职业分析 · 澳大利亚
+# Forester / Forest Scientist — career analysis · Australia
 
-**职业代码：234113 – Forester / Forest Scientist。**
+**Occupation code: 234113 (ANZSCO)**
 
-Foresters manage and conserve forest resources through ecological surveys, reforestation planning, pest control, and sustainable timber production.
+Forest scientists are responsible for sustainable management, conservation, and restoration of forest resources, involving ecological surveys, afforestation planning, pest control, and timber production optimization.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 4年 | $30,000~$50,000（澳洲国立大学、墨尔本大学等年均学费AUD 30,000–50,000） |
-| 硕士学位 | 1-2年 | $35,000~$55,000（研究型硕士或课程硕士，适合转专业学生） |
-| 博士学位 | 3-4年 | $35,000~$45,000（科研岗位或大学教职通常需PhD） |
+| Bachelor's degree | 4 years | $30,000~$50,000 (Average annual tuition at Australian National University, University of Melbourne etc. AUD 30,000–50,000) |
+| Master's degree | 1-2 years | $35,000~$55,000 (Research master's or coursework master's, suitable for students changing majors) |
+| Doctoral degree (PhD) | 3-4 years | $35,000~$45,000 (Research positions or university faculty roles usually require a PhD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林学或相关科学学士 | 澳洲大学 | 必备 | 通常需农业、环境科学、林业专业 |
-| 技能评估 | Vetassess | 必备 | 技术移民需通过Vetassess林务员职业评估 |
-| Working with Children Check | 州政府 | 可选 | 若涉及公共教育或志愿者活动可能需要 |
+| Bachelor's degree in forestry or related science. | Australian universities | Required | Usually requires a degree in agriculture, environmental science, or forestry |
+| Skills assessment | Vetassess | Required | Skilled migration requires Vetassess Forester occupation assessment |
+| Working with Children Check | State government | Optional | May be required if public education or volunteer activities are involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。受净零排放目标、碳汇市场扩大及林火管理需求推动，澳洲林务职位未来5年预计增长10%，尤其在新州、维州及塔州。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Driven by net-zero targets, carbon market expansion, and forest fire management needs, forestry positions in Australia are projected to grow 10% over the next 5 years, especially in NSW, Victoria, and Tasmania.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 政府或私营机构助理林务员 |
-| 中级（3-8年） | $80,000~$100,000 | 注册林务员/项目经理 |
-| 高级（8年以上） | $110,000~$140,000 | 高级林务经理/区域主管/顾问 |
+| Median salary | $107,848 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$75,000 | Government or private sector assistant forester |
+| Mid-level (3–8 years) | $80,000~$100,000 | Registered Forester / Project Manager |
+| Senior (8+ years) | $110,000~$140,000 | Senior Forestry Manager/Regional Supervisor/Consultant |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级岗位通常从实地技术员或助理林务员开始，积累经验后可晋升为高级林务员、森林经理或区域主管，部分转向咨询或研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
+
+Entry-level positions usually start as field technician or assistant forester, with experience can advance to senior forester, forest manager, or regional supervisor, some move to consulting or research roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic sensor data collection and recording (e.g., weather, water quality data)
+- Routine patrol route planning and electronic logging
+- Automatic image recognition counting of wildlife populations
+- Legal knowledge base query and standardized report generation
+- Chatbot interaction for visitor registration and basic information inquiries
+
+**Where AI augments the role:**
+
+- Using drones and remote sensing imagery for large-scale forest health assessment
+- AI models predict fire risk and pest/disease spread paths to support management decisions.
+- Real-time data analyzers assist in monitoring environmental indicators like water quality and air pollution
+- Smart wearable devices enhance field patrol safety monitoring and emergency response efficiency
+- Virtual reality simulation training for public environmental education courses
+
+**Human moat:**
+
+- On-site diagnosis and comprehensive judgment ability for complex ecosystems
+- Deep communication and consultation with local communities, Indigenous peoples, and other stakeholders
+- On-site decision-making and command in emergency events (e.g., forest fires, illegal logging)
+- Long-term ecological restoration planning and execution based on local knowledge
+- Delivering emotionally engaging and trustworthy environmental education to the public
+
+**Skills to build:**
+
+- Proficient in GIS and remote sensing data analysis tools (e.g., ArcGIS, QGIS)
+- Learn Python or R for basic environmental data statistics and visualization
+- Familiarity with drone operation and aerial data processing workflows
+- Learn basic applications of AI/ML models in ecological monitoring
+- Enhance project management and cross-departmental collaboration skills
+- Master environmental regulation interpretation and automated report generation tools
+
+**Key growth areas:**
 
 - Carbon forestry
 - Bushfire management
@@ -63,69 +99,68 @@ Foresters manage and conserve forest resources through ecological surveys, refor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL清单，无需雇主担保，独立技术移民永居签证 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保（如塔州、西澳），各州政策不同，获邀后永居 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区州担保或亲属担保，转191永居 |
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，工作3年可转186永居 |
+| Subclass 189 (Skilled Independent Visa) | Applicable to the MLTSSL, no employer sponsorship required, independent skilled migration permanent visa |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination (e.g., Tasmania, Western Australia), policies vary by state, permanent residency after invitation |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state sponsorship or family sponsorship, transition to 191 permanent residence. |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; after 3 years of work, can transfer to 186 permanent residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forester / Forest Scientist？**
-- 热爱户外与自然环境的人
-- 对可持续资源管理有热情的人
-- 具备科学分析能力的人
-
-**谁不适合学Forester / Forest Scientist？**
-- 偏好办公室固定工作的人
-- 对野外工作不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love the outdoors and natural environments
+- People passionate about sustainable resource management.
+- Someone with scientific analysis skills
+
+**Who is not suited**
+- People who prefer fixed office work
+- People not suited to fieldwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for forestry scientists in Australia?**
+A: Entry-level about $60,000–75,000 AUD, mid-level $80,000–100,000, senior up to $110,000–140,000. Government positions usually have stable salaries and extra benefits.
+
+**Q: How can a forest scientist immigrate to Australia through skilled migration?**
+A: Available via 189 Skilled Independent visa (MLTSSL list), 190 State Nominated visa, or 491 Skilled Work Regional visa. Requires Vetassess skills assessment, usually a degree plus at least one year of work experience.
+
+**Q: What are the career development paths for a forest scientist?**
+A: Start as an assistant forester, then progress to forester, senior forester, forest manager, or move into carbon offset consulting, bushfire management, or academia.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Forester / Forest Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for foresters in Australia?**
-答：Entry-level AUD 60,000–75,000; mid-level AUD 80,000–100,000; senior AUD 110,000–140,000. Government roles offer stability and benefits.
-
-**问：How can foresters migrate to Australia via skilled visa?**
-答：Via Subclass 189 (independent), 190 (state nomination) or 491 (regional). Must pass Vetassess skills assessment, typically requiring a degree and at least 1 year work experience.
-
-**问：What are the career progression paths for foresters?**
-答：Start as assistant forester, advance to forester, senior forester, forest manager, or pivot into carbon consulting, bushfire management, or academia.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

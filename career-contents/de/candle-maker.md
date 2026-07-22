@@ -1,60 +1,94 @@
-# Candle Maker（Candle Maker）职业分析 · DE
+# Candle Maker — career analysis · Germany
 
-**职业代码：9335 – Candle Maker。**
+**Occupation code: 9335 (KldB)**
 
-Candle makers produce candles from wax, dyes, and fragrances using techniques such as pouring, extruding, or dipping. This traditional craft is typically found in small workshops or businesses in Germany.
+A candle maker uses raw materials such as wax, dyes, and fragrances to produce various candles through processes like pouring, extrusion, or dipping. This is a traditional craft, mostly found in small workshops or businesses in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（双元制培训期间通常有津贴，无需学费，仅需少量教材费。） |
-| 入职培训 | 1-2年 | —（部分企业提供在职培训，费用由企业承担。） |
+| Vocational training (dual system) | 3 years | $0~$500 (Dual training typically includes a stipend, no tuition fees, only minimal textbook costs.) |
+| Onboarding training | 1-2 years | $0~$1,000 (Some companies offer on-the-job training, with costs covered by the employer.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 蜡烛制造工职业资格 | 德国工商会 (IHK) 或手工业协会 (HWK) | 必备 | 需完成3年双元制培训并结业考试。 |
-| 资质认证（针对外国资格） | 德国联邦职业教育与培训研究所 (BIBB) | 必备 | 外国资质需通过认证程序，确认等效性。 |
+| Candle making trade qualification | German Chamber of Commerce (IHK) or Crafts Association (HWK) | Required | Must complete 3 years of dual training and pass the final exam. |
+| Credential recognition (for foreign qualifications) | Federal Institute for Vocational Education and Training (BIBB) in Germany | Required | Foreign qualifications must go through a recognition process to confirm equivalence. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 1,200。德国蜡烛制造业规模较小，但手工蜡烛和定制蜡烛需求稳定，尤其是节日期间。自动化程度较低，因此熟练工仍有一定就业机会，但整体岗位数量有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Germany's candle manufacturing industry is relatively small, but demand for handmade and custom candles is stable, especially during holidays. Automation is low, so skilled workers still have some job opportunities, but overall positions are limited.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，取决于企业规模和地区。 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪，具有丰富经验者可达上限。 |
-| 高级（8年以上） | $35,000~$42,000 | 税前年薪，含工坊主管或自主创业收入。 |
+| Median salary | $41,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, depending on company size and location. |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary, top end for those with extensive experience. |
+| Senior (8+ years) | $35,000~$42,000 | Pre-tax annual salary, including workshop supervisor or self-employment income. |
+| average salary | $43,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从业者可从助手晋升为熟练蜡烛制造工，随后可担任工坊主管或开设自己的蜡烛工坊。进一步可拓展至蜡烛设计、香氛调配等创意领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Repetitive pouring, color mixing, and packaging tasks for candle makers will be highly automated, but artistic customization and workshop operations still rely on manual labor, leading to overall job reductions.
+
+Practitioners can advance from assistant to skilled candle maker, then to workshop supervisor or start their own candle workshop. Further expansion into creative fields like candle design and fragrance blending is possible.
+
+**Tasks most exposed to AI:**
+
+- Wax material weighing, mixing, and casting into moulds
+- Basic color mixing and spice addition
+- Candle demolding and surface finishing
+- Labeling, packaging, and inventory recording
+- Temperature monitoring and basic quality control
+
+**Where AI augments the role:**
+
+- Art & Design: Use generative AI to quickly prototype complex patterns and shapes
+- Formula optimization: AI analyses optimal wax/dye/perfume ratios and burning performance
+- E-commerce operations: analyzing customer preferences through AI, personalizing product recommendations
+- Environmental compliance: using AI to monitor carbon emissions and sustainable raw material sourcing
+
+**Human moat:**
+
+- Unique handcraft techniques and artistic creativity (e.g., carving, gradient coloring)
+- Customer communication and personalized service experience
+- Small-batch rapid trial-and-error and craftsman experience-based judgment
+- Workshop operations management and network maintenance
+
+**Skills to build:**
+
+- 3D modeling and CNC candle mold design
+- Color theory and use of AI color-matching tools
+- E-commerce platform operations and SEO basics
+- Programming and maintenance of small automated equipment (e.g., wax injection machines)
+- Knowledge of Sustainable Materials and Compliance Standards
+- Creative marketing and social media content production
+
+**Key growth areas:**
 
 - Stable demand
 - Handcrafted products
@@ -63,69 +97,68 @@ Candle makers produce candles from wax, dyes, and fragrances using techniques su
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于已完成德国认可的职业培训或具有等效外国资格的申请人，需获得雇主工作合同。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德国寻找工作，需证明语言能力和资格。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明经济自足和相关学历或培训。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to candidates who have completed a recognized vocational training in Germany or hold an equivalent foreign qualification, and must have an employment contract with an employer. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa for coming to Germany to find work; requires proof of language skills and qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to seek work, requiring proof of financial self-sufficiency and relevant degree or training. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Candle Maker？**
-- 喜欢手工制作和创造性工作的人
-- 对传统手工艺有热情的人
-- 愿意在小企业或自雇环境中工作的人
-
-**谁不适合学Candle Maker？**
-- 追求高薪和快速职业发展的人
-- 希望在大型企业或高自动化行业工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual crafting and creative work
+- People passionate about traditional handicrafts
+- Those willing to work in small businesses or self-employment
+
+**Who is not suited**
+- People pursuing high salary and fast career development
+- For those who wish to work in large enterprises or highly automated industries.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a candle maker?**
+A: Entry-level candle makers earn approximately €22,000-28,000 per year, mid-level €28,000-35,000, and senior up to €42,000, depending on experience, location, and employer.
+
+**Q: How can foreign candle makers immigrate to Germany?**
+A: Can apply through the Skilled Immigration Act, requiring a German recognized qualification certification and an employer contract. Alternatively, can come to Germany to find a job via the Opportunity Card (Chancenkarte) or job seeker visa.
+
+**Q: How can foreign qualifications be recognized in Germany?**
+A: Must apply for qualification recognition to the German Federal Institute for Vocational Education and Training (BIBB) or relevant industry associations, to assess equivalence of foreign training with German standards.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Candle Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for candle makers?**
-答：Entry-level candle makers earn €22,000-€28,000 annually, mid-level €28,000-€35,000, and senior up to €42,000, depending on experience, region, and employer.
-
-**问：How can foreign candle makers immigrate to Germany?**
-答：They can apply via the Skilled Immigration Act, requiring recognition of qualifications and a job offer. Alternatively, the Opportunity Card or Job Seeker Visa allows job searching in Germany.
-
-**问：How can foreign qualifications be recognized in Germany?**
-答：Apply to the Federal Institute for Vocational Education and Training (BIBB) or relevant trade association for an equivalency assessment of foreign training against German standards.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

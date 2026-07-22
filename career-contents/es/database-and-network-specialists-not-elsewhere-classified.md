@@ -1,60 +1,96 @@
-# Database and Network Specialists Not Elsewhere Classified（Database and Network Specialists Not Elsewhere Classified）职业分析 · ES
+# Database and Network Specialists Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2729 – Database and Network Specialists Not Elsewhere Classified。**
+**Occupation code: 2729 (CNO)**
 
-These specialists design, implement, and maintain database and network systems, including data architecture, cybersecurity, and network optimization, ensuring efficient and stable IT operations.
+These experts are responsible for designing, implementing, and maintaining database and computer network systems, including data architecture, network security, and network optimization, ensuring the efficient and stable operation of information systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$6,000（公立大学学费约1000-2000欧元/年，私立约6000欧元/年） |
-| 高级职业培训 | 2年（FP Grado Superior） | $500~$1,500（公立FP学费约500欧元/年） |
-| 硕士 | 1年（Máster） | $2,000~$8,000（公立硕士约2000-4000欧元，私立可高达8000欧元） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$6,000 (Tuition at public universities is about 1000-2000 euros per year, while private tuition is about 6000 euros per year) |
+| Advanced vocational training | 2 years (FP Grado Superior) | $500~$1,500 (Public FP tuition is about 500 euros per year) |
+| Master's degree | Year 1 (Máster) | $2,000~$8,000 (Public master's degrees cost about 2,000-4,000 euros, while private master's can go up to 8,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学位 | 西班牙大学 | 必备 | 通常要求Grado或Máster |
-| 思科CCNA认证 | Cisco | 可选 | 网络方向常见认证，非强制但有利 |
-| Oracle数据库认证 | Oracle | 可选 | 数据库方向认证，提升竞争力 |
+| Degree in computer science or related field | Spanish University | Required | Usually, Grado or Máster are required |
+| Cisco CCNA certification | Cisco | Optional | Common certifications in the online field are not mandatory but beneficial |
+| Oracle database certification | Oracle | Optional | Database direction certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙数字化转型加速，企业对数据管理和网络安全需求持续增长。2024年该领域岗位预计增长15%，尤其在马德里、巴塞罗那等科技中心。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's digital transformation is accelerating, with enterprises' demand for data management and cybersecurity continuing to grow. In 2024, positions in this field are expected to grow by 15%, especially in technology centers like Madrid and Barcelona.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，架构师或经理可达更高 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$50,000 | Annual pre-tax salary |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salaries, architects or managers can reach even higher |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级数据库/网络管理员可晋升为高级工程师、架构师或IT经理。积累经验后也可转向大数据、云计算或网络安全专家方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Junior database/network administrators can be promoted to senior engineers, architects, or IT managers. After gaining experience, you can also move towards big data, cloud computing, or cybersecurity specialists.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Big Data
 - Cloud Computing
@@ -63,68 +99,67 @@ These specialists design, implement, and maintain database and network systems, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及工作合同，薪资门槛约33000欧元/年 |
-| Subclass Altamente cualificad（High-Skilled Professional (Ley 14/2013)） | 针对高技能专业人才，薪资门槛约40000欧元/年，流程较快 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 普通受雇工作居留，需雇主担保，无特定薪资门槛但需满足最低工资 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a work contract, with a salary threshold of about 33,000 euros per year |
+| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | For highly skilled professionals, the salary threshold is about 40,000 euros per year, making the process relatively fast |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary employed work residency requires employer sponsorship, no fixed salary threshold, but minimum wage must be met |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Database and Network Specialists Not Elsewhere Classified？**
-- 对数据库和网络技术有浓厚兴趣，喜欢解决技术问题
-- 具备分析能力和系统思维，注重细节
-- 愿意不断学习新技术，适应快速变化的IT领域
-
-**谁不适合学Database and Network Specialists Not Elsewhere Classified？**
-- 不喜欢长时间面对电脑工作
-- 不善于团队协作和沟通
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in database and network technology, enjoys solving technical problems
+- Possess analytical skills and systematic thinking, with attention to detail
+- Willing to continuously learn new technologies and adapt to the rapidly changing IT landscape
+
+**Who is not suited**
+- Dislikes spending long hours working on a computer
+- Poor at teamwork and communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for database and network specialists?**
+A: Junior database and network specialists in Spain earn about €28,000-35,000 annually, mid-level €38,000-50,000, senior up to €55,000-75,000, depending on city, experience, and company size.
+
+**Q: How can non-EU citizens immigrate to Spain through this occupation?**
+A: Accessible via EU Blue Card (requires work contract and university degree) or High-Skilled Professional Residence (Law 14/2013), or applying for a regular work permit. Spain's IT talent shortage makes success rates relatively high.
+
+**Q: What educational background is needed for this occupation?**
+A: Typically, a bachelor's degree in computer science, telecommunications, or related fields such as undergraduate (Grado) or advanced vocational training (FP Grado Superior) is required. A master's degree can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Database and Network Specialists Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for database and network specialists?**
-答：In Spain, entry-level specialists earn around €28,000-35,000, mid-level €38,000-50,000, and senior up to €55,000-75,000 annually, depending on location and experience.
-
-**问：How can non-EU citizens immigrate through this profession?**
-答：Via EU Blue Card (job offer and degree) or High-Skilled Professional residence (Ley 14/2013), or a regular work permit. IT talent is in shortage, so success rate is high.
-
-**问：What education is required for this profession?**
-答：A university degree (Grado) in computer science or related field, or higher vocational training (FP Grado Superior). A master's degree can be beneficial.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

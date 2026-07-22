@@ -1,59 +1,95 @@
-# Veterinarians（Veterinarians）职业分析 · 美国
+# Veterinarians — career analysis · United States
 
-**职业代码：29-1131 – Veterinarians。**
+**Occupation code: 29-1131 (SOC)**
 
-Diagnose, treat, and research diseases and injuries in animals. Includes veterinarians caring for pets, livestock, and wildlife, as well as those in research, inspection, and public health.
+Diagnose and treat animal diseases and injuries, including pets, livestock, and wildlife. Some veterinarians conduct research, testing, or public health work.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$200,000（学费因校而异，公立大学较低，私立较高） |
-| 兽医博士（DVM） | 4年 | $120,000~$300,000（兽医学院学费高昂，公立州内约每年2万，私立约5万） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (Tuition varies by school; public universities are lower, private ones are higher) |
+| Doctor of Veterinary Medicine (DVM) | 4 years | $120,000~$300,000 (Veterinary school tuition is high, public in-state about $20,000 per year, private about $50,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医学博士（DVM） | 认证兽医学院 | 必备 | 需从AVMA认证的兽医学院毕业 |
-| 州兽医执照 | 各州兽医委员会 | 必备 | 通过北美兽医执照考试（NAVLE）并满足州要求 |
-| 美国兽医协会（AVMA）会员 | 美国兽医协会 | 可选 | 非强制，但有助于职业发展 |
+| Doctor of Veterinary Medicine (DVM) | Accredited veterinary school | Required | Must graduate from an AVMA-accredited veterinary school |
+| State veterinary license | State veterinary boards | Required | Pass the North American Veterinary Licensing Examination (NAVLE) and meet state requirements. |
+| Member of the American Veterinary Medical Association (AVMA) | American Veterinary Medical Association | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 93,000。美国劳工统计局预测2023-2033年兽医就业增长约19%，远高于所有职业平均水平。宠物支出增加和动物健康意识提升推动需求。
+**Job demand: very high (★★★★½).** National workforce approx. 93,000. The U.S. Bureau of Labor Statistics projects veterinary employment growth of about 19% from 2023 to 2033, much faster than the average for all occupations. Increased pet spending and animal health awareness drive demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 刚毕业进入诊所或动物医院 |
-| 中级（4-10年） | $95,000~$130,000 | 有经验后可能成为主治兽医或合伙人 |
-| 高级（10年以上） | $130,000~$180,000 | 专科认证、诊所所有者或行业高管 |
+| Median salary | $130,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$95,000 | New graduates entering clinics or animal hospitals |
+| Mid-level (4-10 years). | $95,000~$130,000 | With experience, may become a lead veterinarian or partner |
+| Senior (10+ years) | $130,000~$180,000 | Specialist certification, clinic owner, or industry executive |
+| average salary | $142,680 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级兽医通常从助理兽医做起，积累经验后可晋升为主治兽医或专科医生。部分兽医转向研究、教学或开设私人诊所，也可进入政府或制药行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
+
+Junior vets usually start as assistant vets, gain experience to become attending vets or specialists. Some vets move into research, teaching, or open private clinics, or enter government or pharmaceutical industry.
+
+**Tasks most exposed to AI:**
+
+- Initial screening of imaging (X-ray/ultrasound) assisted by AI
+- Standardized medical record entry and prescription generation
+- Automated appointment management for routine vaccinations and deworming
+- Automated interpretation of lab sample analysis (blood count/chemistry)
+- Simple symptom consultation in telemedicine
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide reference for rare case identification
+- Robot-assisted surgery improves precision in minimally invasive procedures
+- Continuous monitoring of patient rehabilitation data via smart wearable devices
+- Big data analytics to predict disease outbreaks and medication trends
+- Personalized medical plan generation (based on genetics and medical history)
+
+**Human moat:**
+
+- Manual dexterity and adaptability in complex surgeries
+- Empathetic communication and trust-building with pet owners.
+- Cross-species clinical judgment (especially for large animals)
+- Ethical decisions (e.g., timing of euthanasia)
+- On-site handling ability in emergency situations
+
+**Skills to build:**
+
+- Operating AI diagnostic imaging tools and verifying results
+- Telemedicine platform usage and data analysis
+- Genomics and precision medicine knowledge
+- Basics of animal behavior and psychology
+- Advanced management of digital health records (EHR)
+- Surgical Robot Collaboration Skills
+
+**Key growth areas:**
 
 - Pet spending increase
 - Advancements in veterinary medicine
@@ -62,69 +98,68 @@ Diagnose, treat, and research diseases and injuries in animals. Includes veterin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 兽医符合专业职业要求，雇主可申请H-1B，但名额有限需抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 拥有高级学位或特殊能力的兽医可通过PERM申请绿卡，排期较长 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适合持有DVM学位的兽医，同样需PERM和排期 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可作为兽医申请TN签证，无配额限制 |
+| Subclass H-1B (H-1B Specialty Occupations) | Veterinarians meet specialty occupation requirements; employers can apply for H-1B, but caps and lottery apply |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Veterinarians with advanced degrees or special skills can apply for a green card through PERM, with a long wait time |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for veterinarians with a DVM degree, also requires PERM and priority date waiting |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens can apply as veterinarians for TN visas with no quota limit |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarians？**
-- 热爱动物并有强烈同理心
-- 具备科学和医学学习能力
-- 能承受情感压力和工作负荷
-
-**谁不适合学Veterinarians？**
-- 对动物毛发或血液过敏
-- 无法接受动物安乐死等伦理决策
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Animal-loving with strong empathy
+- Ability to learn science and medicine
+- Able to withstand emotional pressure and workload
+
+**Who is not suited**
+- Allergy to animal hair or blood
+- Unable to accept ethical decisions like animal euthanasia
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a veterinarian in the US?**
+A: According to the BLS, the median annual salary for veterinarians in the US in 2023 was approximately $109,000, but salaries vary by experience, location, and specialty.
+
+**Q: How can a foreigner become a veterinarian in the US?**
+A: Usually requires completion of a US or equivalent veterinary degree, passing the NAVLE exam for state licensure, then employer sponsorship for H-1B or EB green card.
+
+**Q: How many years of education to become a veterinarian?**
+A: Typically requires 4 years of undergraduate pre-vet plus 4 years of veterinary school, totaling 8 years, followed by 1-3 years of internship or residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Veterinarians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in the US?**
-答：According to BLS, the median annual wage for veterinarians in 2023 was about $109,000, varying by experience, location, and specialization.
-
-**问：How can a foreigner become a veterinarian in the US?**
-答：Typically, you need a DVM from an accredited school or equivalent, pass NAVLE and state licensing, then obtain H-1B or EB-based green card via employer sponsorship.
-
-**问：How many years of education are needed to become a veterinarian?**
-答：Typically 4 years of undergraduate pre-vet plus 4 years of veterinary school (DVM), totaling 8 years. Optional internship or residency adds 1-3 years.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

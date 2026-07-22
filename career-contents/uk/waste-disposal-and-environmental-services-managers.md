@@ -1,60 +1,92 @@
-# Waste disposal and environmental services managers（Waste disposal and environmental services managers）职业分析 · UK
+# Waste disposal and environmental services managers — career analysis · United Kingdom
 
-**职业代码：1254 – Waste disposal and environmental services managers。**
+**Occupation code: 1254 (SOC)**
 
-Waste disposal and environmental services managers plan, organise, direct and co-ordinate the operations and development of waste disposal and related environmental services facilities within private firms or public authorities.
+Waste disposal and environmental services managers plan, organize, direct, coordinate, and develop the operations of waste disposal and related environmental services facilities for private companies or public institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$12,000（英国本科年均学费，国际学生更高） |
-| 硕士 | 1年 | $10,000~$15,000（环境管理或相关专业硕士） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (UK undergraduate annual tuition fees, higher for international students.) |
+| Master's degree | 1 year | $10,000~$15,000 (Master's degree in Environmental Management or a related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境管理学位 | 英国大学 | 可选 | 通常要求相关领域学士或硕士学位 |
-| CIWM特许资格 | 特许废物管理学会（CIWM） | 可选 | 专业认证，提升竞争力 |
-| NEBOSH环境证书 | NEBOSH | 可选 | 环境管理健康安全认证 |
-| IEMA环境管理证书 | 环境管理与评估协会（IEMA） | 可选 | 环境管理实践认证 |
+| Degree in Environmental Management | UK universities | Optional | Typically requires a bachelor's or master's degree in a related field |
+| CIWM Chartered Status | Chartered Institution of Wastes Management (CIWM) | Optional | Professional certification to enhance competitiveness |
+| NEBOSH Environmental Certificate | NEBOSH | Optional | Environmental management health and safety certification |
+| IEMA Environmental Management Certificate | Institute of Environmental Management and Assessment (IEMA) | Optional | Environmental management practice certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。英国废物业预计持续增长，受政府净零排放目标和循环经济政策推动，相关管理岗位需求稳定。就业机会主要在地方当局、废物管理公司及环保咨询机构。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. The UK waste industry is expected to continue growing, driven by the government's net-zero emissions targets and circular economy policies, with stable demand for relevant management positions. Employment opportunities are mainly in local authorities, waste management companies, and environmental consulting firms.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助理经理或小规模运营 |
-| 中级（3-7年） | $35,000~$50,000 | 独立管理中型设施 |
-| 高级（7年以上） | $50,000~$70,000 | 区域经理或大型项目主管 |
+| Median salary | $49,763 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Assistant Manager or Small-Scale Operations |
+| Mid-level (3–7 years) | $35,000~$50,000 | Independently manage medium-sized facilities |
+| Senior (7+ years) | $50,000~$70,000 | Regional manager or large project supervisor |
+| average salary | $51,701 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从废物管理或环境科学领域起步，积累运营管理经验后晋升。可向区域运营总监、环境政策顾问或可持续发展总监发展，部分进入高层管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+In waste disposal and environmental services manager roles, administrative and compliance reporting parts are easily compressed by AI, but tasks requiring human judgment—such as on-site decisions, regulatory interpretation, and stakeholder coordination—are enhanced by AI tools.
+
+Usually starts in waste management or environmental science, gaining operational management experience before promotion. Can progress to regional operations director, environmental policy advisor, or sustainability director, with some moving into senior management.
+
+**Tasks most exposed to AI:**
+
+- Waste classification and tracking: AI vision recognition and automatic weighing systems replace manual sorting.
+- Compliance report generation: AI automatically generates environmental compliance reports from sensor data.
+- Scheduling and route planning: AI optimizes collection vehicle routes and staff scheduling.
+- Inventory and resource management: AI predicts waste volume and automatically orders processing materials.
+
+**Where AI augments the role:**
+
+- Environmental risk assessment: AI analyzes historical data and weather information to help predict pollution events.
+- Regulatory interpretation and compliance strategy: AI quickly retrieves the latest regulations and suggests adjustment plans.
+- Public communication and community relations: AI generates multilingual promotional materials, supporting manager-customized communication.
+- Emergency response: AI real-time monitoring of abnormal emissions, assisting managers in decision-making and resource allocation.
+
+**Human moat:**
+
+- Command and decision-making in on-site emergencies (e.g., spills, fires).
+- Complex stakeholder negotiations (community, government, environmental groups).
+- Interpretation of regulatory changes and internal organizational training.
+- Long-term environmental strategy planning (e.g., zero-waste plan, carbon neutrality roadmap).
+
+**Skills to build:**
+
+- Environmental data analysis and AI tool application (e.g., Python, Power BI).
+- Operation of digital monitoring systems for waste treatment processes.
+- Knowledge of carbon emission accounting and carbon trading.
+- Stakeholder management and conflict mediation skills.
+- Circular economy and resource recovery business model design.
+
+**Key growth areas:**
 
 - Waste Management
 - Circular Economy
@@ -63,69 +95,68 @@ Waste disposal and environmental services managers plan, organise, direct and co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的合格职位，满足薪资门槛（一般不低于£26,200） |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业的技术人才，需满足薪资要求 |
-| Subclass Global Talent（Global Talent visa） | 适用于环境科学领域杰出人才，无需雇主担保 |
-| Subclass Graduate（Graduate visa） | 适用于英国高校毕业生，可工作2年（博士3年），积累经验后转工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to eligible positions that obtain employer sponsorship, meeting the salary threshold (generally not less than £26,200) |
+| Subclass Scale-up (Scale-up visa) | For technical talents in high-growth enterprises, must meet salary requirements |
+| Subclass Global Talent (Global Talent visa) | Suitable for outstanding talents in environmental science; no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Applicable to UK graduates, can work for 2 years (3 years for PhD), then switch to work visa after gaining experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Waste disposal and environmental services managers？**
-- 关注环境保护与可持续发展，希望从事管理岗位的人士
-- 具备工程、环境科学或运营管理背景，善于协调各方资源
-- 希望在公共部门或私营企业承担环境责任的管理者
-
-**谁不适合学Waste disposal and environmental services managers？**
-- 对行政文书和法规合规工作缺乏耐心的人
-- 倾向于纯粹技术研发而非运营管理的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals interested in environmental protection and sustainable development who wish to pursue management roles.
+- Background in engineering, environmental science, or operations management, with strong ability to coordinate resources.
+- Managers seeking environmental responsibility in the public sector or private enterprises
+
+**Who is not suited**
+- People lacking patience with administrative paperwork and regulatory compliance.
+- Those inclined towards pure technical R&D rather than operations management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for waste disposal and environmental services managers?**
+A: Entry-level annual salary approximately £28,000-35,000, mid-level £35,000-50,000, senior up to £50,000-70,000. Region and institution type significantly affect salary.
+
+**Q: Can overseas individuals become Waste Disposal and Environmental Services Managers through skilled migration?**
+A: Yes, this occupation is on the list of eligible occupations for the Skilled Worker visa and is on the shortage occupation list; it can be applied for as long as the salary requirements are met.
+
+**Q: What are the promotion prospects?**
+A: Can advance from operations manager to regional director, environmental policy advisor, or sustainability director. With experience, transition into consulting or senior management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Waste disposal and environmental services managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for waste disposal and environmental services managers?**
-答：Entry-level salary is around £28,000-£35,000, mid-level £35,000-£50,000, and senior £50,000-£70,000. Varies by region and organisation.
-
-**问：Can overseas workers migrate as waste disposal and environmental services managers?**
-答：Yes, it is on the eligible occupations list for Skilled Worker visa and also on the Immigration Salary List. Applicants need to meet salary thresholds.
-
-**问：What are the promotion prospects?**
-答：Can progress from operations manager to regional director, environmental policy advisor, or sustainability director. Experienced managers may move into consultancy or senior leadership.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

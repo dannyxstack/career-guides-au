@@ -1,62 +1,96 @@
-# Police officers (sergeant and below)（Police officers (sergeant and below)）职业分析 · UK
+# Police officers (sergeant and below) — career analysis · United Kingdom
 
-**职业代码：3312 – Police officers (sergeant and below)。**
+**Occupation code: 3312 (SOC)**
 
-Police officers investigate crimes, patrol public areas, arrest offenders, and enforce law and order. British Transport Police serve the railway network across Britain.
+Police officers handle criminal investigations, patrol public areas, arrest offenders, and maintain law and order. The British Transport Police specifically serve the national rail network.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 无需 | —（最低学历要求，通常5门GCSE 4级及以上） |
-| 学徒制/在职培训 | 2-3年 | —（受薪培训，无学费） |
-| 警察专业学位/预科 | 3年 | $9,000~$9,000（可选，通过大学或警察合作项目） |
+| High school diploma or equivalent | None | $0~$0 (Minimum educational requirement, typically 5 GCSEs at grade 4 or above.) |
+| Apprenticeship/On-the-job training | 2-3 years | $0~$0 (Paid training, no tuition fees) |
+| Police degree/diploma or foundation program | 3 years | $9,000~$9,000 (Optional, through university or police cooperation programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国国籍/无限期居留 | 英国内政部 | 必备 | 多数警察部门要求 |
-| 驾驶执照 | DVLA | 必备 | 全驾照，手动挡优先 |
-| 警察行为标准评估 | College of Policing | 必备 | 包括体能测试、面试、背景审查 |
+| British citizenship/indefinite leave to remain | Department of Home Affairs | Required | Most police departments require |
+| Driver's license | DVLA | Required | Full driver's license, manual transmission preferred |
+| Police Conduct Standards Assessment | College of Policing | Required | Includes physical tests, interviews, background checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★½☆☆）。** 全国从业人数约 135,000。英国警察岗位保持稳定，因公共安全需求持续。受政府预算影响，招聘可能放缓，但退休人员补充仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 135,000. UK police positions remain stable due to ongoing public safety needs. Affected by government budgets, hiring may slow, but there is still demand for replacing retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 起薪约£24,000，伦敦地区更高 |
-| 中级（3-10年） | $38,000~$45,000 | 晋升至警督后薪资提升 |
-| 高级（10年以上） | $50,000~$70,000 | 督察及以上级别 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Starting salary around £24,000, higher in London |
+| Intermediate (3-10 years) | $38,000~$45,000 | Salary increases upon promotion to police inspector |
+| Senior (10+ years) | $50,000~$70,000 | Inspector and above levels |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从警员起步，可晋升为警督、督察、警司等。也可专攻刑事调查、交通、反恐等领域，或转向文职管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Police (inspector and below) roles are complex regarding AI impact: administrative tasks can be automated, but frontline law enforcement, community interaction, and discretion are hard to replace; entry-level jobs see increased competition due to automation, but core duties demand remains stable.
+
+Starting as a police constable, one can be promoted to sergeant, inspector, chief inspector, etc. Specialize in criminal investigation, traffic, counter-terrorism, or move to administrative management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated analysis of traffic surveillance videos (e.g., license plate recognition, violation detection)
+- Automation of routine reports and paperwork (e.g., incident report generation)
+- AI-assisted decision-making in dispatch centers (optimizing resource allocation)
+- Machine learning assistance for evidence classification and preliminary analysis
+
+**Where AI augments the role:**
+
+- Real-time data (crime hotspots, social media) assists in patrol strategy formulation
+- AI prediction models for preventive policing and resource deployment
+- Smart wearable devices (cameras, sensors) enhance on-site evidence collection and action recording
+- Natural Language Processing (NLP) is used to quickly summarize case files and reports.
+- Virtual reality (VR) training simulations enhance crisis response skills
+
+**Human moat:**
+
+- Situational judgment and discretion (e.g., use of force decisions)
+- Community relations and trust building (interpersonal communication and mediation)
+- Personal safety and physical intervention (arrest, self-defense)
+- Moral and legal responsibility (cannot be delegated to AI).
+- Ability to adapt flexibly in unstructured environments
+
+**Skills to build:**
+
+- AI Tool Use: data analysis software, predictive policing platforms, evidence management AI
+- Digital Forensics and Cybersecurity Basics
+- Conflict resolution and community policing techniques
+- Knowledge of data privacy and AI ethics regulations
+- Mental resilience training and stress management
+- Basic programming (Python) for automated reporting.
+
+**Key growth areas:**
 
 - public safety
 - counter-terrorism
@@ -65,67 +99,69 @@ Police officers investigate crimes, patrol public areas, arrest offenders, and e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 通常不适用于警察岗位，因国籍和居留要求 |
-| Subclass Global Talent（Global Talent Visa） | 不适用，警察非艺术/科学领域 |
-| Subclass Graduate（Graduate Visa） | 仅临时工作，无法转为永久警察 |
-| Subclass Youth Mobility（Youth Mobility Scheme） | 可临时工作，但通常不用于警察职位 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Generally not applicable for police positions due to citizenship and residency requirements |
+| Subclass Global Talent (Global Talent Visa) | Not applicable, police not in arts/science fields |
+| Subclass Graduate (Graduate Visa) | Temporary work only, cannot transition to permanent police. |
+| Subclass Youth Mobility (Youth Mobility Scheme) | Causal work is possible, but typically not used for police positions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Police officers (sergeant and below)？**
-- 有强烈正义感和责任心的人
-- 喜欢团队合作和处理突发事件的人
-- 能接受轮班和高压环境的人
+**Who is suited**
+- Person with a strong sense of justice and responsibility
+- People who enjoy teamwork and handling emergencies
+- People who can tolerate shift work and high-pressure environments
 
-**谁不适合学Police officers (sergeant and below)？**
-- 不喜欢纪律约束的人
-- 无法适应频繁加班和危险工作的人
+**Who is not suited**
+- People who do not like discipline and constraints
+- Unable to adapt to frequent overtime and dangerous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much room is there for salary growth for police officers?**
+A: Starting salary around £24,000, rising to £45,000 as police inspector, and over £70,000 for senior inspector roles.
+
+**Q: Can non-UK citizens become police officers in the UK?**
+A: Typically requires UK citizenship or indefinite leave to remain; Commonwealth citizens may meet some conditions, but skilled migration visas do not apply.
+
+**Q: Do you need a university degree to become a police officer?**
+A: Not required; minimum is GCSEs. Can enhance competitiveness through apprenticeships or a professional policing degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 稳定（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Police officers (sergeant and below)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary progression for police officers?**
-答：Starting salary around £24,000, rising to £45,000 as sergeant, and over £70,000 for senior ranks like inspector.
-
-**问：Can non-UK citizens become police officers in the UK?**
-答：Usually requires UK citizenship or indefinite leave to remain; Commonwealth citizens may qualify, but skilled work visas are not available.
-
-**问：Is a university degree required to become a police officer?**
-答：No, minimum requirement is GCSEs. Apprenticeships or a policing degree can enhance competitiveness.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Zoologist（Zoologist）职业分析 · 澳大利亚
+# Zoologist — career analysis · Australia
 
-**职业代码：234522 – Zoologist。**
+**Occupation code: 234522 (ANZSCO)**
 
-Zoologists study animal behavior, physiology, genetics, and ecology through fieldwork and lab analysis, providing scientific evidence for biodiversity conservation, pest management, and animal welfare.
+Zoologists study animal behavior, physiology, genetics, and ecology through fieldwork and laboratory analysis to provide scientific evidence for biodiversity conservation, pest management, and animal welfare.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$45,000（澳洲大学本科国际生学费） |
-| 硕士 | 1-2年 | $35,000~$50,000（研究型硕士学费） |
-| 博士 | 3-4年 | $40,000~$55,000（博士通常有奖学金机会） |
+| Bachelor's degree | 3-4 years | $30,000~$45,000 (International undergraduate tuition fees at Australian universities) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Research master's tuition fees) |
+| Doctorate | 3-4 years | $40,000~$55,000 (PhD often has scholarship opportunities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物学或相关学科学士/硕士 | 澳洲大学 | 必备 | 需完成含动物行为、生态学、生物学核心课程 |
-| 技能评估（生态学家） | VETASSESS | 必备 | 用于技术移民，需相关学历+1年工作经验 |
-| 研究人员身份（可选） | CSIRO/大学 | 可选 | 博士学历可提升研究岗位竞争力 |
+| Bachelor's/Master's in Zoology or related field | Australian universities | Required | Must complete core courses in animal behaviour, ecology, and biology |
+| Skills Assessment (Ecologist) | VETASSESS | Required | For skilled migration, requires relevant degree + 1 year work experience |
+| Researcher status (optional) | CSIRO/university | Optional | A doctoral degree can enhance competitiveness for research positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。澳洲对动物学家的需求稳定，主要集中在政府环保部门、科研机构、动物园和矿业环境咨询公司。预计未来5年就业增长中等，受政府环境保护政策及矿业复垦需求驱动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. Demand for zoologists in Australia is stable, mainly in government environmental departments, research institutions, zoos, and mining environmental consulting firms. Employment growth is expected to be moderate over the next five years, driven by government environmental policies and mining reclamation needs.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 研究助理或初级顾问 |
-| 中级（3-7年） | $70,000~$95,000 | 资深研究科学家或项目经理 |
-| 高级（7年以上） | $95,000~$130,000 | 首席科学家或部门主管 |
+| Median salary | $80,288 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Research Assistant or Junior Consultant |
+| Mid-level (3–7 years) | $70,000~$95,000 | Senior research scientist or project manager |
+| Senior (7+ years) | $95,000~$130,000 | Chief scientist or department head |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级动物学家（研究助理）可晋升为高级科学家或项目经理，或转向专科领域如海洋生物学或野生动物管理。博士学位和丰富野外经验是晋升关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
+
+Junior zoologist (research assistant) can advance to senior scientist or project manager, or specialize in areas like marine biology or wildlife management. A PhD and extensive field experience are key to promotion.
+
+**Tasks most exposed to AI:**
+
+- Automated classification and preliminary analysis of large-scale wildlife monitoring data (e.g., camera trap image recognition)
+- Automated recording and organization of basic experimental data (e.g., behavioral observations, gene sequencing)
+- Literature review and information extraction; AI can quickly summarize relevant research findings.
+- Model building and statistical analysis, such as automatic fitting of population dynamics models
+- Generation of draft reports, AI can produce standardized descriptions from data
+
+**Where AI augments the role:**
+
+- Improve habitat assessment efficiency and accuracy through AI-driven remote sensing image analysis
+- Uses machine learning models to predict disease transmission pathways and assist in formulating intervention strategies.
+- Using natural language processing technology to quickly retrieve and integrate interdisciplinary literature
+- Using AI to simulate the impact of different management plans on populations to optimize decisions
+- Achieving more efficient field data collection through voice recognition and sensor technology
+
+**Human moat:**
+
+- Adaptive judgment and emergency response capabilities in field research
+- Communicate and coordinate conservation actions with local communities, policymakers, and other stakeholders
+- Intuitive understanding of complex ecosystem dynamics and interdisciplinary comprehensive insights
+- Subtle observation and interpretation in animal behavior research requiring long-term experience accumulation
+- Ethical decision-making and trade-offs in animal welfare (e.g., pros and cons of interventions)
+
+**Skills to build:**
+
+- Remote sensing and GIS spatial analysis (e.g., rasterio/geopandas in Python)
+- Machine learning and statistical modeling (e.g., caret in R or scikit-learn in Python)
+- Application of AI image/audio recognition tools (e.g., Wildbook, BirdNET)
+- Data visualization and communication (e.g., R Shiny, Tableau)
+- Field techniques (e.g., drone operation, biosensor deployment)
+- Scientific Writing and Interdisciplinary Collaboration Skills
+
+**Key growth areas:**
 
 - Conservation Biology
 - Wildlife Management
@@ -65,70 +101,69 @@ Zoologists study animal behavior, physiology, genetics, and ecology through fiel
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 需在MLTSSL上，但Zoologist不在MLTSSL，通常不可行 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，部分州（如昆州、西澳）可能担保生态学家 |
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，适用于研究机构或环境咨询公司 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保，适合在偏远地区政府或研究机构工作 |
+| Subclass 189 (Skilled Independent Visa) | Must be on MLTSSL, but Zoologist is not on MLTSSL, so usually not feasible. |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination; some states (e.g., Queensland, Western Australia) may nominate ecologists. |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, applicable to research institutions or environmental consulting firms |
+| Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, suitable for working in regional government or research institutions |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Zoologist？**
-- 热爱野外工作和自然观察
-- 具备扎实的生物学和统计分析背景
-- 能适应不固定工作时间和偏远地区工作
-
-**谁不适合学Zoologist？**
-- 偏好朝九晚五办公室工作
-- 对动物实验或标本采集敏感
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for fieldwork and nature observation
+- Possess a solid background in biology and statistical analysis
+- Able to adapt to irregular working hours and remote area work
+
+**Who is not suited**
+- Prefer 9-to-5 office work
+- Sensitive to animal experimentation or specimen collection
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for zoologists in Australia?**
+A: Entry-level: approximately AUD 55,000-70,000, mid-level AUD 70,000-95,000, senior can reach over AUD 130,000. Government positions offer relatively stable salaries, while private consulting firms have greater bonus potential.
+
+**Q: Can zoologists immigrate to Australia through skilled migration?**
+A: Zoologist is not on the MLTSSL and cannot apply for a 189 visa. However, Environmental Scientist (ANZSCO 2345) can more easily obtain state sponsorship 190/491 or employer sponsorship 482, and must pass VETASSESS assessment.
+
+**Q: What are the main employers of zoologists?**
+A: Federal and state environmental agencies (e.g., CSIRO, National Parks), university research institutions, mining consulting firms, zoos, and wildlife conservation organizations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Zoologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of zoologists in Australia?**
-答：Entry-level AUD 55k-70k, mid-level 70k-95k, senior up to 130k+. Government jobs are stable, while private consulting may offer bonuses.
-
-**问：Can zoologists migrate to Australia via skilled migration?**
-答：Zoologist is not on MLTSSL, so 189 is not possible. However, as Environmental Scientist (2345), state nomination 190/491 or employer sponsorship 482 is possible via VETASSESS assessment.
-
-**问：Who are the main employers of zoologists?**
-答：Federal/state environment departments (e.g., CSIRO, national parks), universities, mining consulting firms, zoos, and wildlife conservation organizations.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

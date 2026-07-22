@@ -1,59 +1,94 @@
-# Aquaculture Supervisor（Aquaculture Supervisor）职业分析 · 新西兰
+# Aquaculture Supervisor — career analysis · New Zealand
 
-**职业代码：363111 – Aquaculture Supervisor。**
+**Occupation code: 363111 (ANZSCO)**
 
-Oversees daily operations of New Zealand aquaculture farms, including breeding, feeding, and harvesting fish, shellfish, or aquatic plants, ensuring productivity and biosecurity. This role qualifies for residence via Green List or Skilled Migrant Category with good job prospects.
+Supervise daily operations of New Zealand aquaculture farms, including breeding, feeding, and harvesting of fish, shellfish, and aquatic plants, ensuring production efficiency and biosecurity. This occupation may qualify for residence through the Green List or Skilled Migrant Category, with good employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 四级证书（水产养殖） | 1年 | $5,000~$15,000（通过理工学院（如NMIT、Tai Poutini）或行业培训机构获取） |
-| 本科学位（水产科学或相关领域） | 3年 | $25,000~$40,000（大学（如奥克兰大学、坎特伯雷大学）年学费） |
+| Certificate IV (Aquaculture) | 1 year | $5,000~$15,000 (Obtained through polytechnics (e.g., NMIT, Tai Poutini) or industry training providers) |
+| Bachelor's degree (aquatic science or related field) | 3 years | $25,000~$40,000 (Annual tuition fees for a university (e.g., University of Auckland, University of Canterbury)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖四级证书（NZQA） | 新西兰资格认证局认可的培训机构 | 可选 | 非强制性但雇主普遍要求，涵盖渔业管理、生物安全等 |
-| 危险货物处理证书 | WorkSafe NZ | 可选 | 如需处理化学品或饲料添加剂，需此证书 |
-| 英语语言能力（IELTS 6.5） | IELTS | 必备 | 移民要求，若海外学历则需证明 |
+| English language proficiency (IELTS 6.5). | IELTS | Required | For migration requirements, overseas qualifications need to be verified |
+| Aquaculture Level 4 certificate (NZQA). | Training providers accredited by the New Zealand Qualifications Authority | Optional | Not mandatory but commonly required by employers, covering fishery management, biosecurity, etc. |
+| Dangerous goods handling certificate | WorkSafe NZ | Optional | Required if handling chemicals or feed additives. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 1,500。新西兰水产养殖业持续增长，受出口需求（如三文鱼、青口贝）和可持续发展政策推动。沿海地区（如马尔堡、斯图尔特岛）岗位需求旺盛，初级岗位竞争较低，但偏远地区可能面临劳动力短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's aquaculture industry continues to grow, driven by export demand (e.g., salmon, green-lipped mussels) and sustainability policies. Coastal regions (e.g., Marlborough, Stewart Island) have strong demand for positions, with low competition for entry-level roles, but remote areas may face labor shortages.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$60,000 | 包括学徒或助理主管岗位 |
-| 中级（3-7年） | $60,000~$75,000 | 独立管理小型养殖场或部门 |
-| 高级（7年以上） | $75,000~$95,000 | 大型养殖场场长或区域经理 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$60,000 | Includes apprentice or assistant supervisor positions |
+| Mid-level (3–7 years) | $60,000~$75,000 | Independently manage a small farm or department |
+| Senior (7+ years) | $75,000~$95,000 | Large farm manager or regional manager |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级水产养殖主管可晋升至高级主管或场长，积累经验后可转向水产养殖技术顾问、质量控制经理或企业运营管理。部分人员通过考取水产科学或管理学位进入研发或政府监管岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
+
+Junior aquaculture supervisor can progress to senior supervisor or farm manager, and with experience can move into roles such as aquaculture technical consultant, quality control manager, or business operations management. Some individuals pursue degrees in aquaculture science or management to enter R&D or government regulatory positions.
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems take over scheduled and quantitative feeding tasks
+- Water quality sensors automatically monitor and record parameters like pH and dissolved oxygen.
+- Drones or underwater robots automatically inspect fish cages, replacing manual visual inspection
+- AI video analysis automatically counts fish schools and detects diseases or abnormal behavior
+- Environmental control systems (e.g., aerators) automatically start/stop based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted water quality data analysis to predict algal blooms or disease outbreaks, guiding preventive measures
+- Automated feeding systems optimize feeding strategies based on fish activity data to improve feed conversion rates
+- Digital twin models simulate different breeding scenarios to assist production planning
+- Wearable devices monitor worker health to prevent heatstroke or fatigue
+- AI document assistant automatically generates farming logs and compliance reports
+
+**Human moat:**
+
+- On-site response capability for sudden equipment failures, extreme weather, and other abnormal conditions
+- Manual experience-based judgement of fish and shrimp behaviour and health (e.g., abnormal swimming, colour changes)
+- Interpersonal and negotiation skills in coordinating with suppliers, veterinarians, and regulatory bodies
+- On-site safety judgment and emergency rescue (e.g., drowning, electric shock)
+
+**Skills to build:**
+
+- Learn to use mainstream smart aquaculture platforms (e.g., AquaManager, eFishery)
+- Basic data processing and analysis skills (Excel or simple BI tools)
+- Basic skills in operating and maintaining automatic feeding systems, drones, and ROVs.
+- Understand working principles of aquaculture Internet of Things (IoT) sensors
+- Sustainable farming principles (e.g., antibiotic reduction, carbon footprint accounting)
+- English communication skills to suit international companies or export requirements
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Oversees daily operations of New Zealand aquaculture farms, including breeding, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 水产养殖主管在绿色清单一级职业中，可直接申请居留，无需先工作两年。需满足薪资中位数（约29.66纽币/小时）及雇主认证要求。 |
-| Subclass SMC（Skilled Migrant Category） | 适用6分制，如本科（3分）+新西兰技能工作（3分）可获居留。需薪资至少中位数。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 临时工签，适合未达移民标准者。需雇主认证，薪资达中位数，可积累经验后转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Aquaculture supervisor is on the Green List Tier 1 occupation, eligible for direct residency application without two years of work. Must meet median wage (approx. NZD 29.66/hour) and employer accreditation requirements. |
+| Subclass SMC (Skilled Migrant Category) | Applies the 6-point system: Bachelor's degree (3 points) + Skilled employment in New Zealand (3 points) may lead to residency. Salary must be at least the median wage. |
+| Subclass AEWV (Accredited Employer Work Visa) | Temporary work visa for those not meeting immigration criteria. Requires employer accreditation, salary at median, can gain experience and later apply for residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aquaculture Supervisor？**
-- 热爱户外和水产动物，愿意在沿海或偏远地区工作
-- 动手能力强，有团队管理和解决运营问题的能力
-- 具备生物安全和环境意识，关注可持续发展
-
-**谁不适合学Aquaculture Supervisor？**
-- 无法适应季节性高强度工作或偏远地区生活
-- 对渔业或水质管理缺乏兴趣，倾向办公室文职
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about outdoors and aquatic animals, willing to work in coastal or remote areas
+- Hands-on ability, team management, and operational problem-solving skills
+- Biosafety and environmentally conscious, with a focus on sustainability.
+
+**Who is not suited**
+- Unable to adapt to seasonal high-intensity work or remote area living.
+- Lack of interest in fisheries or water quality management, preferring office-based clerical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for aquaculture supervisors in New Zealand?**
+A: Junior supervisor annual salary about $50,000-$60,000 NZD, intermediate $60,000-$75,000, senior $75,000-$95,000. Salary influenced by experience, species farmed, and farm size; salmon farms typically higher.
+
+**Q: How can aquaculture supervisors migrate through the Green List?**
+A: This occupation is on Green List Tier 1, eligible for Straight to Residence Visa directly without prior work. Requirements: employer accreditation, salary at median (approx. NZD 29.66/hour), relevant qualification or experience.
+
+**Q: What career advancement opportunities exist for this occupation in New Zealand?**
+A: Can progress from supervisor to senior farm manager, regional operations manager, or transition to aquaculture consultant, R&D technician. With ten years of experience, can become general manager or start a business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Aquaculture Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for an Aquaculture Supervisor in New Zealand?**
-答：Entry-level supervisors earn NZD 50,000-60,000; mid-level NZD 60,000-75,000; senior NZD 75,000-95,000. Salary varies based on experience, species (e.g., salmon pays higher), and farm size.
-
-**问：How can an Aquaculture Supervisor migrate via the Green List?**
-答：This role is on Green List Tier 1, eligible for a Straight to Residence Visa. Requirements: accredited employer, salary at median (approx. NZD 29.66/hour), and relevant qualification or experience.
-
-**问：What are the career advancement opportunities for this role in New Zealand?**
-答：Promotion paths include senior farm manager, regional operations manager, or transition to aquaculture consultant, R&D technician. With 10+ years, become general manager or start your own farm.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

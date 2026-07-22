@@ -1,60 +1,93 @@
-# Food Preparation Workers（Food Preparation Workers）职业分析 · 美国
+# Food Preparation Workers — career analysis · United States
 
-**职业代码：35-2021 – Food Preparation Workers。**
+**Occupation code: 35-2021 (SOC)**
 
-Food Preparation Workers perform a variety of non-cooking tasks like preparing cold foods, slicing meat, and brewing beverages, ensuring kitchen supplies are stocked.
+Food preparation workers handle various food preparation tasks besides cooking, such as making cold dishes, cutting meat, brewing coffee or tea, ensuring kitchen supplies are sufficient.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常不需要正式教育） |
-| 短期职业培训 | 1-6个月 | $500~$2,000（社区学院或职业学校提供食品卫生课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually no formal education required) |
+| Short-term vocational training | 1-6 months | $500~$2,000 (Community colleges or vocational schools offer food hygiene courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品处理者证 | 各州卫生部门 | 必备 | 很多州要求食品服务人员持有此证，证明食品安全知识 |
-| 高中文凭 | 高中 | 可选 | 通常雇主偏好但非必需 |
+| Food handler's certificate | State health departments | Required | Many states require food service workers to hold this certification, proving food safety knowledge |
+| High school diploma | High school | Optional | Usually preferred by employers but not required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,400,000。美国劳工统计局预测2022-2032年该职业增长约8%，快于平均水平，主要受餐饮业持续需求推动，入门门槛低但薪资偏低。
+**Job demand: high (★★★★☆).** National workforce approx. 1,400,000. US Bureau of Labor Statistics projects about 8% growth for this occupation from 2022-2032, faster than average, mainly driven by continued demand in food service industry; low entry barriers but low pay.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 每小时约12-14美元 |
-| 中级（3-5年） | $30,000~$36,000 | 每小时约15-17美元 |
-| 高级（5年以上） | $36,000~$42,000 | 可能晋升为厨师或主管 |
+| Median salary | $35,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Approximately 12-14 USD per hour |
+| Mid-level (3–5 years) | $30,000~$36,000 | Approximately $15-17 per hour |
+| Senior (5+ years) | $36,000~$42,000 | May advance to chef or supervisor |
+| average salary | $35,290 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径有限，通常从食物准备工晋升为厨师或厨房主管，也可转向餐饮管理或专业烹饪领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Food preparation workers face a high risk of automation replacement; pre-made foods, automatic vegetable cutters, and smart meal preparation systems will significantly reduce demand for simple repetitive ingredient handling positions.
+
+Career progression is limited, typically from food preparation worker to chef or kitchen supervisor, can also transition to restaurant management or specialty culinary fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic vegetable cutting machines replace manual cutting, peeling, and other initial food preparation
+- Smart cooking robots take over simple salad and cold dish assembly
+- Automated dishwashing and kitchenware cleaning systems reduce labor
+- Automatic coffee and tea machines replace manual brewing
+
+**Where AI augments the role:**
+
+- Uses AI inventory management systems to predict ingredient demand, reducing waste
+- Optimize menus and ingredient combinations through AI recipe recommendations
+- Use smart devices to monitor food temperature and safety, improving quality
+- Use digital ordering systems to coordinate with other kitchen staff.
+
+**Human moat:**
+
+- Handcrafted fine plating and creative decoration
+- Flexibly adjust food according to customer special needs (e.g., allergies, tastes)
+- Handle unexpected kitchen issues (equipment failure, peak coordination)
+- Identification of complex ingredients and advanced knife skills
+
+**Skills to build:**
+
+- Operation and maintenance of automated kitchen equipment
+- Food safety management and HACCP certification.
+- Use of inventory management and AI prediction software
+- Basic cooking skills (hot and cold dish preparation)
+- Communication and teamwork skills
+- Basics of data recording and analysis
+
+**Key growth areas:**
 
 - Food service
 - Quick-service restaurants
@@ -63,65 +96,67 @@ Food Preparation Workers perform a variety of non-cooking tasks like preparing c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 适用于季节性临时工作，雇主需证明劳工短缺 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极少使用，因职业普遍非技术性且劳工证困难 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Suitable for seasonal temporary work; employer must prove labor shortage |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Rarely used, as the occupation is generally unskilled and labor certification is difficult |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Preparation Workers？**
-- 喜欢动手操作、能在快节奏环境中工作的人
-- 不介意站立工作和体力劳动的人
-- 寻求入门级工作、无需高学历的人
+**Who is suited**
+- People who enjoy hands-on work and can thrive in a fast-paced environment
+- People who don't mind standing work and physical labor
+- People seeking entry-level jobs that do not require a high degree
 
-**谁不适合学Food Preparation Workers？**
-- 厌恶厨房油腻环境或高温工作的人
-- 希望高收入或快速职业晋升的人
+**Who is not suited**
+- People who dislike greasy kitchen environments or high-temperature work
+- People seeking high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for a food preparation worker?**
+A: According to BLS 2023 data, average annual salary about $29,000 USD, hourly wage about $14, range $24,000-$42,000.
+
+**Q: Can food preparation workers immigrate to the US through H-1B visa?**
+A: Usually not; H-1B requires at least a bachelor's degree, while this occupation generally does not require one. More likely through H-2B temporary worker visa, but green card application is difficult.
+
+**Q: What are the advancement opportunities for a food preparation worker?**
+A: Can advance through experience to chef, kitchen supervisor, or restaurant manager, or earn a culinary arts degree to move to higher-level positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（½☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 困难（★★★★½） |
-
-Food Preparation Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for Food Preparation Workers?**
-答：According to BLS 2023 data, median annual wage is about $29,000, around $14 per hour, ranging from $24,000 to $42,000.
-
-**问：Can Food Preparation Workers immigrate to the US via H-1B visa?**
-答：Generally no, as H-1B requires at least a bachelor's degree, which is not typical for this occupation. H-2B temporary visa is possible, but green card sponsorship is rare.
-
-**问：What advancement opportunities exist for Food Preparation Workers?**
-答：With experience, can advance to cook, kitchen supervisor, or restaurant manager, or pursue a culinary arts degree for higher-level roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

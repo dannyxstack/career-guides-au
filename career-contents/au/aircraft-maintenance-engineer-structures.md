@@ -1,58 +1,94 @@
-# Aircraft Maintenance Engineer (Structures)（Aircraft Maintenance Engineer (Structures)）职业分析 · 澳大利亚
+# Aircraft Maintenance Engineer (Structures) — career analysis · Australia
 
-**职业代码：323113 – Aircraft Maintenance Engineer (Structures)。**
+**Occupation code: 323113 (ANZSCO)**
 
-Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies aircraft metal and composite structures to ensure airworthiness. Essential in aviation maintenance, requiring skills in riveting, welding, and composite repair.
+Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies aircraft metal and composite structures to ensure flight safety. This role is essential in aviation maintenance, requiring skills in riveting, welding, and composite repair.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate IV in Aeroskills (Structures)或Diploma of Engineering | 2年 | $15,000~$25,000（TAFE课程学费） |
-| 学徒制（Apprenticeship） | 4年 | $5,000~$10,000（学徒期间部分培训费由雇主承担） |
+| Certificate IV in Aeroskills (Structures) or Diploma of Engineering | 2 years | $15,000~$25,000 (TAFE course tuition fees) |
+| Apprenticeship | 4 years | $5,000~$10,000 (During the apprenticeship, some training costs are covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Aeroskills (Structures) | TAFE或注册培训机构 | 必备 | 核心资格证书，覆盖飞机结构维修 |
-| 飞机维修工程师执照（LAME） | CASA（澳洲民用航空安全局） | 必备 | 2年以上工作经验后可申请，需通过考试 |
+| Certificate IV in Aeroskills (Structures) | TAFE or registered training organizations | Required | Core qualification covering aircraft structure maintenance |
+| Licensed Aircraft Maintenance Engineer (LAME) License. | CASA (Civil Aviation Safety Authority) | Required | Application possible after 2+ years of work experience, exam required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 6,300。澳洲航空运输业持续复苏，飞行员和机队扩张带动维修需求上升。预计未来五年职位增长稳健，尤其在偏远地区和国防项目中有较多机会。
+**Job demand: high (★★★★☆).** National workforce approx. 6,300. Australia's air transport industry continues to recover, with pilot and fleet expansion driving maintenance demand. Steady job growth is expected over the next five years, with significant opportunities in remote areas and defense projects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 含学徒及刚获得证书者 |
-| 中级（3-7年） | $75,000~$95,000 | 持LAME者更高 |
-| 高级（7年以上） | $100,000~$130,000 | 含主管或专家角色 |
+| Median salary | $102,960 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Including apprentices and those who have just obtained certification |
+| Mid-level (3–7 years) | $75,000~$95,000 | Higher for those with LAME |
+| Senior (7+ years) | $100,000~$130,000 | Includes supervisor or specialist roles |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级结构工程师可升至持证LAME（Licensed Aircraft Maintenance Engineer），再晋升为团队主管或质量检验员。部分人转向工程管理或航空安全领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Junior structural engineers can advance to licensed LAME (Licensed Aircraft Maintenance Engineer), then to team supervisor or quality inspector. Some transition to engineering management or aviation safety.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aviation Growth
 - Defence Contracts
@@ -61,69 +97,68 @@ Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies aircr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (Temporary Skill Shortage)） | 雇主担保临时签证，适用于有2年以上经验者；可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 直接永居签证，需雇主担保及职业评估 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，职业在MLTSSL上，需EOI打分 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州提名 |
+| Subclass 482 (Skills in Demand (Temporary Skill Shortage)) | Employer-sponsored temporary visa, suitable for those with over 2 years of experience; can transfer to 186 permanent residency |
+| Subclass 186 (Employer Nomination Scheme) | Direct permanent residence visa, requires employer sponsorship and skills assessment |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration, occupation on MLTSSL, requires EOI points |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Maintenance Engineer (Structures)？**
-- 喜欢动手操作、注重细节和安全的机械爱好者
-- 愿意在航空维修车间或停机坪工作，能适应轮班
-- 有长期职业规划，愿意持续学习和考取执照
-
-**谁不适合学Aircraft Maintenance Engineer (Structures)？**
-- 不愿高空或密闭空间作业者
-- 追求办公室白领工作，不喜体力或环境嘈杂
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Mechanical enthusiasts who enjoy hands-on work, attention to detail, and safety
+- Willing to work in aircraft maintenance workshops or on the tarmac, able to adapt to shift work
+- Has long-term career plans, willing to continuously learn and obtain licenses
+
+**Who is not suited**
+- Those unwilling to work at heights or in confined spaces
+- Seeking office white-collar work, not fond of physical labor or noisy environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for an Aircraft Structure Repair Engineer?**
+A: After obtaining an LAME license, salary significantly increases; senior engineers or managers can earn AUD 120,000-130,000 per year. Defence and remote area projects often offer higher wages.
+
+**Q: What are the common pathways for this occupation to immigrate to Australia?**
+A: Most common is employer sponsorship (482→186), as employers are usually willing to sponsor experienced engineers. 189/190 are also possible but require being on CSOL/MLTSSL and passing a skills assessment.
+
+**Q: What is the daily work environment like?**
+A: Mainly works in aircraft hangar or apron, often requiring climbing and bending. Exposure to metal shavings, composite dust, and noise. Strict safety protocols must be followed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Aircraft Maintenance Engineer (Structures)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for aircraft structures maintenance engineers?**
-答：After obtaining a LAME license, salary increases significantly. Senior engineers or supervisors can earn AUD 120,000-130,000. Defence and remote area projects often offer higher pay.
-
-**问：What are the common migration pathways for this occupation?**
-答：Employer sponsorship (482 to 186) is most common as employers often sponsor experienced engineers. 189/190 are also possible if on the CSOL/MLTSSL and after skills assessment.
-
-**问：What is the daily work environment like?**
-答：Work is mainly in aircraft hangars or on tarmac, often requiring climbing and bending. Exposure to metal shavings, composite dust, and noise. Strict safety regulations.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

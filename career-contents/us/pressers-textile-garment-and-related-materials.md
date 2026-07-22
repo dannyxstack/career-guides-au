@@ -1,59 +1,93 @@
-# Pressers, Textile, Garment, and Related Materials（Pressers, Textile, Garment, and Related Materials）职业分析 · 美国
+# Pressers, Textile, Garment, and Related Materials — career analysis · United States
 
-**职业代码：51-6021 – Pressers, Textile, Garment, and Related Materials。**
+**Occupation code: 51-6021 (SOC)**
 
-Press or shape textile, garment and related materials by hand or machine, typically in dry-cleaning plants or apparel manufacturing.
+Press or shape textile materials by hand or machine, responsible for ironing clothes and finishing appearance, commonly found in dry cleaners and garment factories.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 短期在职培训 | 1个月 | —（雇主提供岗前培训） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Short-term on-the-job training | 1 month | $0~$500 (Employer provides pre-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照要求 | N/A | 可选 | 大多数雇主仅要求高中学历和在岗培训 |
+| No mandatory license required | N/A | Optional | Most employers only require a high school diploma and on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 16,500。该职业就业前景稳定但增长缓慢，受自动化影响较大，预计未来十年岗位数量略有下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 16,500. Job prospects are stable but growth is slow, heavily affected by automation; the number of positions is expected to decrease slightly over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 通常为最低工资或略高 |
-| 中级（3-7年） | $28,000~$34,000 | 技能熟练后可获得更高时薪 |
-| 高级（7年以上） | $34,000~$40,000 | 包括主管或特种熨烫岗位 |
+| Median salary | $35,060 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $23,000~$28,000 | Usually minimum wage or slightly higher |
+| Mid-level (3–7 years) | $28,000~$34,000 | Higher hourly wage after skill proficiency |
+| Senior (7+ years) | $34,000~$40,000 | Includes supervisor or specialty ironing positions |
+| average salary | $34,640 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 从学徒或初级熨烫工起步，可晋升为高级熨烫技师或车间主管，部分转向干洗店管理或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile, clothing and related material ironers face high automation risk as ironing tasks are highly repetitive and can be optimized by machines and AI vision systems; entry-level demand will shrink significantly.
+
+Start as apprentice or junior presser, advance to senior pressing technician or workshop supervisor, some move to dry-cleaning management or quality control.
+
+**Tasks most exposed to AI:**
+
+- Garment wrinkle removal and shaping operations
+- Operate steam irons or presses according to set procedures
+- Check garment smoothness and appearance.
+- Sorting and folding ironed clothes
+- Simple clothing repair and folding
+
+**Where AI augments the role:**
+
+- AI vision system assists in detecting clothing defects and crease locations
+- Smart ironing robot adjusts temperature and pressure automatically based on fabric
+- Data-driven process optimization reduces rework
+- Remotely monitor the operation status of multiple ironing machines
+
+**Human moat:**
+
+- Handling high-value, fine fabrics or complex draping
+- Communication and execution of customised ironing requirements
+- Combine manual skills for special finishing (e.g., wedding gowns, costumes)
+- Equipment fault diagnosis and manual repair.
+
+**Skills to build:**
+
+- Operate and program automated ironing equipment.
+- Use and Maintenance of AI Quality Inspection Systems
+- Fabric characteristics and process parameter optimization
+- Basic mechanical and electrical repair
+- Full-process management of dry cleaning and ironing
+- Customer service and customized handling
+
+**Key growth areas:**
 
 - Stable
 - Slow decline
@@ -62,62 +96,64 @@ Press or shape textile, garment and related materials by hand or machine, typica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常不符合H-1B要求，因该职业通常不要求学士学位。 |
-| Subclass EB-3（Employment-Based Immigrant Visa (Skilled Workers/Professionals)） | 仅极少数情况下赞助绿卡，且需证明无法招聘到美国工人。 |
+| Subclass H-1B (Specialty Occupations) | Typically does not meet H-1B requirements as the occupation usually does not require a bachelor's degree. |
+| Subclass EB-3 (Employment-Based Immigrant Visa (Skilled Workers/Professionals)) | Green card sponsorship only in very rare cases, and must prove inability to recruit US workers. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pressers, Textile, Garment, and Related Materials？**
-- 喜欢动手操作、注重细节的人
-- 能接受重复性站立工作的人
-- 希望快速入职且不要求高学历的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People who can tolerate repetitive standing work
+- People who want quick entry into the workforce and do not require high education
 
-**谁不适合学Pressers, Textile, Garment, and Related Materials？**
-- 追求高薪或职业发展空间的人
-- 不喜欢体力劳动或高温环境的人
+**Who is not suited**
+- Those pursuing high salary or career advancement opportunities
+- People who dislike physical labor or hot environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a textile ironer?**
+A: According to BLS data, the average annual salary in 2023 was about $29,000, with an hourly wage of about $14.
+
+**Q: Can this occupation apply for a US work visa?**
+A: Usually not. This occupation does not meet H-1B specialty occupation requirements, and green card approval is extremely difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Pressers, Textile, Garment, and Related Materials属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pressers?**
-答：According to BLS, the median annual wage was about $29,000 in 2023, around $14 per hour.
-
-**问：Can this occupation get a US work visa?**
-答：Generally not. It doesn't qualify for H-1B specialty occupation and green card sponsorship is very rare.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

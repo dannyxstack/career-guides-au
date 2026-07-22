@@ -1,58 +1,92 @@
-# Service Station Attendants（Service Station Attendants）职业分析 · NL
+# Service Station Attendants — career analysis · Netherlands
 
-**职业代码：5245 – Service Station Attendants。**
+**Occupation code: 5245 (ISCO08)**
 
-Serve customers at petrol stations by refueling vehicles, processing payments, providing basic vehicle services, and maintaining station cleanliness.
+Pumping fuel, handling payments, providing basic vehicle maintenance, and keeping the station clean.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 学习收银、安全规程和基本车辆维护 |
+| On-the-job training | Employer | Required | Learn cashiering, safety procedures, and basic vehicle maintenance. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。随着电动汽车普及和自助加油增多，传统服务站服务员需求预计平稳下降，但便利店服务岗位仍稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. With the rise of electric vehicles and self-service refueling, demand for traditional service station attendants is expected to decline steadily, but convenience store service roles remain stable.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$27,000 | 税前年薪, 含兼职转全职 |
-| 中级（2-5年） | $27,000~$32,000 | 税前年薪 |
-| 高级（5年以上/主管） | $32,000~$38,000 | 税前年薪, 含主管津贴 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$27,000 | Annual pre-tax salary, including part-time to full-time transition |
+| Intermediate (2-5 years) | $27,000~$32,000 | Annual pre-tax salary |
+| Senior (5+ years / supervisor) | $32,000~$38,000 | Annual salary before tax, including supervisor allowance |
+| average salary | $29,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从兼职收银员晋升为全职服务站主管，或转向便利店零售管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly reduce demand for service station attendants; unmanned fuel dispensers, self-checkout and AI customer service will replace many basic tasks, leading to a notable decrease in job opportunities.
+
+Can progress from part-time cashier to full-time service station supervisor, or transition to retail management in convenience stores.
+
+**Tasks most exposed to AI:**
+
+- Automated fuel dispensers replace manual fueling operations
+- Self-checkout systems replacing cashier work
+- AI customer service systems handle simple customer inquiries
+- Automatic car wash machines replacing manual car washing
+- Inventory management software automatically records and orders goods
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of peak fueling times to optimize scheduling
+- Data analysis tools help identify customer preferences and recommend additional services
+- Remote monitoring system enhances equipment fault warning capability
+- AI security cameras enhance site security monitoring efficiency
+
+**Human moat:**
+
+- Manual repair of complex equipment failures
+- Handle customer complaints and emergencies (e.g., spills, fires)
+- Provide personalized customer service and advice
+- Overall site operations management and personnel coordination
+
+**Skills to build:**
+
+- Basic electrical and mechanical repair skills
+- Customer relationship management and communication skills
+- Data analysis and report interpretation skills
+- Automated system operation and monitoring
+- Emergency response and safety protocol training
+- Small team management and scheduling
+
+**Key growth areas:**
 
 - stable demand
 - EV transition impact
@@ -61,64 +95,66 @@ Serve customers at petrol stations by refueling vehicles, processing payments, p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Free Movement） | 欧盟公民可自由在荷兰工作，无需额外工作许可。 |
+| Subclass EU free movement (EU Free Movement) | EU citizens can work freely in the Netherlands without additional work permits. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Service Station Attendants？**
-- 寻求灵活兼职或临时工作的学生
-- 希望在零售/服务业入门的人群
-- 具备基本客户服务技能者
+**Who is suited**
+- Students seeking flexible part-time or casual work
+- People looking to enter retail/service industries
+- Those with basic customer service skills
 
-**谁不适合学Service Station Attendants？**
-- 追求高收入和职业发展的人
-- 担心自动化取代的求职者
+**Who is not suited**
+- Those seeking high income and career development.
+- Job seekers worried about automation replacing jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of service station attendants in the Netherlands?**
+A: Annual pre-tax salary ranges from approximately €22,000 to €38,000; entry-level positions usually pay minimum wage.
+
+**Q: Can non-EU citizens work as service station attendants in the Netherlands?**
+A: This occupation does not meet the requirements for a Skilled Migration visa or EU Blue Card; non-EU citizens typically cannot obtain a work permit.
+
+**Q: Will the popularity of electric vehicles reduce the number of service station attendants?**
+A: Yes, self-service charging and automated payment will reduce demand for traditional fuel station jobs, but convenience store service positions will still exist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Service Station Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for service station attendants in the Netherlands?**
-答：Annual gross salary ranges from €22,000 to €38,000, with entry-level positions typically paid at minimum wage.
-
-**问：Can non-EU citizens work as service station attendants in the Netherlands?**
-答：This occupation does not qualify for the Highly Skilled Migrant scheme or EU Blue Card; non-EU citizens generally cannot obtain a work permit.
-
-**问：Will the rise of electric vehicles reduce jobs for service station attendants?**
-答：Yes, self-service charging and automated payment will reduce demand for traditional refueling roles, but convenience store positions remain.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

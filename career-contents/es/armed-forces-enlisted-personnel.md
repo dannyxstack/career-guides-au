@@ -1,60 +1,95 @@
-# Armed Forces Enlisted Personnel（Armed Forces Enlisted Personnel）职业分析 · ES
+# Armed Forces Enlisted Personnel — career analysis · Spain
 
-**职业代码：0020 – Armed Forces Enlisted Personnel。**
+**Occupation code: 0020 (CNO)**
 
-Armed Forces enlisted personnel are the backbone of the Spanish military, responsible for executing military missions, national defense, and international peacekeeping. The role demands rigorous physical training and discipline, typically accessed through military academies or conscription.
+Armed Forces soldiers are grassroots members of the Spanish military, responsible for carrying out military missions, maintaining national security, and participating in international peacekeeping operations. This profession demands rigorous physical training and discipline, and is usually joined through military academies or conscription channels.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基础军事训练 | 约3个月 | —（由军队出资培训） |
-| 士官学校（FP Grado Superior） | 2年 | —（公费教育） |
+| Basic military training | Approximately 3 months | $0~$0 (Training funded by the military) |
+| Officer School (FP Grado Superior) | 2 years | $0~$0 (Publicly funded education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 军人身份卡 | 西班牙国防部 | 必备 | 经入伍程序后获得，具有法律效力 |
-| 专业军事技能证书 | 各军种训练中心 | 可选 | 如通信、机械等专业领域 |
+| Military ID card | The Spanish Ministry of Defense | Required | Obtained after enlistment procedures and legally valid |
+| Professional military skills certificate | Training centers of various military branches | Optional | Such as professional fields such as communications and machinery |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 70,000。西班牙军队实行职业化，需求相对稳定，但受国防预算和国内外安全形势影响。近年强调技术化转型，对信息技术、无人机操作等新型技能的需求增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 70,000. The Spanish military is professionalized, with relatively stable demand, but is affected by defense budgets and domestic and international security situations. In recent years, there has been an emphasis on technological transformation, increasing demand for new skills such as information technology and drone operation.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 新兵（0-3年） | $19,000~$22,000 | 税前年薪，含基本津贴 |
-| 士官（4-10年） | $24,000~$30,000 | 税前年薪，含军衔补贴 |
-| 高级士官（10年以上） | $32,000~$40,000 | 税前年薪，含特殊职务津贴 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Rookie (0-3 years) | $19,000~$22,000 | Pre-tax annual salary, including basic allowance |
+| Non-commissioned officer (4-10 years) | $24,000~$30,000 | Pre-tax annual salary, including military rank allowance |
+| Senior Non-Commissioned Officer (over 10 years) | $32,000~$40,000 | Pre-tax annual salary, including special position allowances |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径从士兵到士官，再到准尉，需通过内部考试和服役年限。高级士官可担任技术或管理职位。部分人员可转入国民警卫队或安全部门。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tasks for armed forces soldiers (such as patrols, surveillance, data entry) will gradually be replaced by drones, AI surveillance, and automation systems, leading to reduced job demand, but close combat and complex decision-making still rely on humans.
+
+Promotion paths range from soldier to non-commissioned officer, and then to warrant officer, requiring internal exams and years of service. Senior NCOs can hold technical or managerial positions. Some personnel may transfer to the National Guard or security departments.
+
+**Tasks most exposed to AI:**
+
+- Base security patrol and surveillance (replacing AI surveillance cameras and drones)
+- Manual organization and reporting of intelligence data (AI analysis tools take over)
+- Conventional weapon loading and aiming assist (automated aiming system)
+- Logistics Supply Route Planning (AI Optimization Algorithm)
+- Simulated Enemy in Training Scenarios (AI-generated virtual enemies)
+
+**Where AI augments the role:**
+
+- AI-assisted tactical decision-making (real-time battlefield situation analysis)
+- Drone formation operation and coordination (enhancing reconnaissance and strike capabilities)
+- Automatic translation and summarization of multilingual intelligence (speeding up response times)
+- Simulating AI-generated adversarial scenarios during training (improving training efficiency)
+- Equipment Fault Prediction and Maintenance (AI Predictive Maintenance)
+
+**Human moat:**
+
+- Melee combat and direct fire suppression
+- Survival and adaptability in complex terrain
+- Judgment on the handling of civilians and non-combatants on site
+- Maintain discipline and teamwork under extreme pressure
+- Non-programming decisions that violate ethics or international law
+
+**Skills to build:**
+
+- Drone operation and countermeasure technology
+- AI intelligence analysis tools (such as Palantir)
+- Fundamentals of cyber warfare and electronic warfare
+- Advanced tactical communication system operation
+- Cross-branch collaborative command capability
+- Maintenance of robot/automation systems
+
+**Key growth areas:**
 
 - Military modernization
 - Cybersecurity
@@ -63,65 +98,67 @@ Armed Forces enlisted personnel are the backbone of the Spanish military, respon
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 非欧盟公民须先获得工作合同，但军队通常仅招募西班牙或欧盟公民，移民路径极为有限。 |
-| Subclass Busqueda empleo | 需找到军事相关岗位，但极少向非欧盟公民开放。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Non-EU citizens must first obtain a work contract, but the military usually only recruits Spanish or EU citizens, with very limited immigration pathways. |
+| Subclass Busqueda empleo | Military-related positions are very limited and rarely open to non-EU citizens. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armed Forces Enlisted Personnel？**
-- 有强烈爱国情怀和纪律意识的人
-- 体能优秀且适应军事化生活的人
-- 愿意从事稳定、长期职业的人
+**Who is suited**
+- People with strong patriotism and a sense of discipline
+- Physically strong individuals who are adapted to militarized life
+- People willing to pursue stable, long-term careers
 
-**谁不适合学Armed Forces Enlisted Personnel？**
-- 追求高薪或灵活工作方式的人
-- 无法接受严格等级制度和体力要求的人
+**Who is not suited**
+- People seeking high salaries or flexible working styles
+- People who cannot accept strict hierarchies and physical demands
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for soldiers in the armed forces?**
+A: New recruits about €19,000-22,000/year, NCOs about €24,000-30,000, senior NCOs about €32,000-40,000, all including allowances. Military provides accommodation, medical and other benefits.
+
+**Q: Can non-Spanish citizens pass this employment-based immigration program?**
+A: extremely difficult. The Spanish military typically recruits only its own or EU citizens. Non-EU citizens can hardly obtain work residency through this pathway.
+
+**Q: What career development opportunities are available after service?**
+A: You can be promoted to non-commissioned officer or officer through internal exams, or transfer to the National Guard, local police, or security companies. Military technical training (such as mechanics and communications) also has value in the civilian market.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Armed Forces Enlisted Personnel属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for armed forces enlisted personnel?**
-答：Entry-level soldiers earn around €19,000-€22,000 per year, non-commissioned officers €24,000-€30,000, and senior NCOs €32,000-€40,000, including allowances. Benefits include housing and healthcare.
-
-**问：Can non-Spanish citizens immigrate through this profession?**
-答：Very difficult. The Spanish Armed Forces generally recruit only Spanish or EU citizens. Non-EU citizens have almost no possibility of obtaining a work permit through this path.
-
-**问：What career development options exist after service?**
-答：You can advance through internal exams to become a non-commissioned or commissioned officer, or transfer to the Civil Guard, local police, or security companies. Military technical training (e.g., mechanics, communications) is also valued in the civilian sector.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,163 +1,188 @@
-# 中小学教师（Secondary School Teacher）职业分析 · 澳大利亚
+# School Teacher (Primary/Secondary) — career analysis · Australia
 
-**职业代码：241411 – Secondary School Teacher。**
+**Occupation code: 241411 (ANZSCO)**
 
-中小学教师（Primary/Secondary School Teacher）在澳洲公立和私立学校教授学生，是澳洲就业量最大的职业之一。全国性教师短缺（特别是STEM和偏远地区）使教师成为最稳定的移民友好职业，政府积极吸引海外教师填补空缺，是技术移民门槛最清晰的教育类职业。
+Primary and Secondary School Teachers educate students in public and private schools across Australia, making teaching one of the country's largest employment occupations. A nationwide teacher shortage — particularly in STEM and regional areas — makes teaching one of the most stable and migration-friendly careers, with the government actively recruiting overseas teachers to fill vacancies. It is the education occupation with the clearest skilled migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Education（B.Ed，4年）或相关学位+研究生教育文凭（Grad Dip Ed，1年） | 4年（B.Ed）或 3年学位+1年GDE | $25,000~$180,000（国际生费用约 $28,000~$38,000/年；GDE约 $20,000~$35,000/年） |
-| NESA/VIT/QCT 等州教师注册（Teacher Registration） | 1~3个月申请 | $100~$500（各州教师注册机构注册费约 $100~$500；是合法在州内任教的法律要求） |
-| AITSL 海外教师资格认证（OTES 评估） | 3~6个月 | $500~$2,000（澳洲教师教育学会（AITSL）对海外教师资格的专项评估，约 $500~$800 申请费） |
+| Bachelor of Education (B.Ed, 4 years) or a related degree plus a postgraduate teaching qualification (Graduate Diploma in Education, 1 year) | 4 years (B.Ed) or 3-year degree + 1-year GDE | $25,000~$180,000 (International student fees approximately $28,000–$38,000/year; GDE approximately $20,000–$35,000/year) |
+| NESA/VIT/QCT and equivalent state Teacher Registration | 1–3 months to apply | $100~$500 (Teacher registration fees vary by state, approximately $100–$500; this is a legal requirement to teach lawfully within a state) |
+| AITSL Overseas Trained Educator Skills Assessment (OTES assessment) | 3–6 months | $500~$2,000 (AITSL overseas qualification assessment specifically for teachers, application fee approx. $500–$800) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 澳洲州教师注册（Teacher Registration） | 各州注册机构（NESA/VIT/QCT/TRB等） | 必备 | 在澳洲合法任教的法律要求，每州注册机构不同 |
-| AITSL海外教师资格认证（OTES） | AITSL（澳洲教师教育学会） | 可选 | 海外教师资格评估，是189/190签证和雇主担保的必要步骤 |
-| 英语水平要求（IELTS 7.5+ 或 OET） | 各州教师注册机构 | 必备 | 非英语国家背景的教师需要提供英语能力证明，通常 IELTS 7.5/8.0 各单项 |
-| 工作背景调查（Working With Children Check） | 各州政府 | 必备 | 所有在职任教者法律必须，费用约免费~$110 |
+| Australian state Teacher Registration | State registration bodies (NESA/VIT/QCT/TRB, etc.) | Required | Legal requirement to teach in Australia; registration bodies differ by state |
+| English proficiency requirement (IELTS 7.5+ or OET) | State/Territory Teacher Registration Authorities | Required | Teachers from non-English-speaking backgrounds are required to provide proof of English proficiency, typically IELTS 7.5/8.0 in each band |
+| Working With Children Check | State governments | Required | Legally required for all practising teachers; cost approximately free–$110 |
+| AITSL Overseas Teacher Education Standards (OTES) | AITSL (Australian Institute for Teaching and School Leadership) | Optional | Overseas teacher qualification assessment — a required step for the 189/190 visa and employer sponsorship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 290,000。JSA预测中小学教师至2035年需求净增约25,000人。STEM教师（数学/物理/信息技术）是最紧缺的细分方向，全澳各州均有明显缺口；偏远地区教师短缺更为严重，491签证加分明显。
+**Job demand: very high (★★★★★).** National workforce approx. 290,000. JSA projects a net increase of approximately 25,000 primary and secondary school teachers by 2035. STEM teachers (mathematics, physics, and IT) are the most in-demand specialisation, with clear shortages across all states; teacher shortages in regional and remote areas are even more acute, and the 491 visa offers notable points advantages.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 5,000~12,000 个 | 全国，含小学/中学/特殊教育/ESL教师岗，公立/私立均有 |
-| Indeed | 3,000~8,000 个 | 含各州教育部直聘和私立学校岗 |
-| LinkedIn | 2,000~6,000 个 | 私立学校直招比例较高 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业教师（0~2年） | $75,000~$95,000 | 各州毕业教师薪酬有差异；NSW约 $84,724，NT最高约 $96,180（2026） |
-| 有经验教师（3~10年） | $95,000~$115,000 | SEEK 区间 $100k~$105k；大多数州有固定薪资阶梯 |
-| 资深教师 / 主任教师（10年+） | $115,000~$140,000 | NT顶端课堂教师 $136,997（2026）；NSW主任教师 $113,497~$120,000 |
-| 校长 / 副校长 | $140,000~$230,000 | 大型公立学校校长薪酬含绩效奖金 |
+| Median salary | $120,744 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate teacher (0–2 years) | $75,000~$95,000 | Graduate teacher salaries vary by state; NSW approximately $84,724, NT the highest at approximately $96,180 (2026) |
+| Experienced teacher (3–10 years) | $95,000~$115,000 | SEEK range $100k–$105k; most states have fixed salary scales |
+| Senior Teacher / Lead Teacher (10+ years) | $115,000~$140,000 | NT Top of the Range classroom teacher $136,997 (2026); NSW Lead Teacher $113,497–$120,000 |
+| Principal / Deputy Principal | $140,000~$230,000 | Large public school principal salary including performance bonus |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 澳洲正经历1970年代以来最严重的教师短缺，各州政府大幅提升教师薪资（NSW 2024年涨幅约4%）并积极开展海外教师招募。数字化教学工具和AI辅助教学成为课堂标配，但教师核心工作不可替代。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
 
-- STEM教师（数学/科学/信息技术）
-- 英语作为第二语言教师（ESL/EAL）
-- 特殊教育需求教师（SEN）
-- 职业教育与培训（VET in Schools）
-- 偏远地区/农村学校教师
+Australia is experiencing its most severe teacher shortage since the 1970s. State governments have significantly increased teacher salaries (NSW saw an approximately 4% rise in 2024) and are actively recruiting teachers from overseas. Digital teaching tools and AI-assisted instruction are becoming standard in classrooms, but the core role of the teacher remains irreplaceable.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
+
+- STEM Teacher (Math/Science/IT)
+- ESL/EAL Teacher
+- Special Educational Needs Teacher (SEN)
+- Vocational Education & Training (VET in Schools)
+- Remote/Rural School Teachers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，各州教育部和私立学校常直接担保海外教师 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，AITSL评估 |
-| Subclass 190（Skilled Nominated） | 州提名，各州均有通道，STEM教师优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区学校极度短缺，加15分，多州积极提名 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; state education departments and private schools frequently sponsor overseas teachers directly |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; MLTSSL listed; AITSL assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, pathways available in all states, STEM teachers prioritised |
+| Subclass 491 (Skilled Work Regional) | Extreme shortage in remote-area schools; adds 15 points; actively nominated by multiple states |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学中小学教师？**
-- 持有教育学/学科相关学位+教育资格（如中国师范学院毕业），有任教经验
-- 英语能力强（IELTS 7.5 各单项，是澳洲教师注册的硬性要求）
-- STEM学科背景（数学/物理/信息技术/化学）——全澳最紧缺的方向
-- 有特殊教育需求（SEN）或ESL教学经验（溢价最高）
-- 愿意接受偏远地区任教（薪资更高+491签证加分+安置补贴）
-
-**谁不适合学中小学教师？**
-- 英语能力不足 IELTS 7.5 各单项（是硬性门槛，无例外）
-- 无正规教育学历和教学法培训，无法通过AITSL评估
-- 仅愿意在悉尼/墨尔本市区任教（竞争最激烈，491加分也无效）
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds an education or subject-area degree plus a teaching qualification (e.g. graduate of a teacher education programme), with teaching experience
+- Strong English proficiency (IELTS 7.5 in each band, a mandatory requirement for teacher registration in Australia)
+- STEM subject background (mathematics/physics/IT/chemistry) — the most in-demand specialisation across Australia
+- Experience teaching students with Special Educational Needs (SEN) or English as a Second Language (ESL) (highest salary premium)
+- Willing to teach in regional or remote areas (higher salary + 491 visa points + relocation allowance)
+
+**Who is not suited**
+- English proficiency below IELTS 7.5 in each band (a strict threshold with no exceptions)
+- No formal education qualifications or pedagogical training; unable to pass AITSL assessment
+- Only willing to teach in central Sydney/Melbourne (the most competitive areas — 491 points incentives do not apply)
+
+---
+
+## 8. FAQ
+
+**Q: What are the salaries for primary and secondary school teachers in Australia?**
+A: Experienced teachers approximately $95,000–$115,000 (Seek $100k–$105k); graduate teachers approximately $75,000–$95,000 (NT up to approximately $96,180); senior/lead teachers approximately $115k–$140k; principals can exceed $140k–$230k.
+
+**Q: Is it easy for primary and secondary school teachers to find work in Australia?**
+A: Very easily. Australia is experiencing a severe teacher shortage, with STEM teachers (mathematics, physics, and information technology) in extreme demand across all states and territories. Seek lists approximately 5,000–12,000 vacancies, and state education departments are even proactively offering placement support and relocation allowances for overseas teachers.
+
+**Q: Is Chinese teaching qualifications/experience recognised in Australia?**
+A: Overseas teaching qualifications can be assessed through AITSL (Australian Institute for Teaching and School Leadership) via the Overseas Trained Teacher (OTES) pathway, and qualifications with teaching experience can be recognised. The main challenge is English proficiency (IELTS 7.5 in each band), not qualification recognition. After assessment, applicants must apply for teacher registration with the relevant state registration body (e.g. NESA in NSW).
+
+**Q: Will teachers be replaced by AI?**
+A: No. Teaching is one of the least at-risk professions from AI replacement. AI assists with lesson planning and differentiated content generation, but classroom management, student emotional support, differentiated teaching judgement and parent communication are completely irreplaceable. Australian curriculum standards explicitly require human teachers.
+
+**Q: Is there an age limit for teachers in Australia?**
+A: None. Australia is very welcoming of experienced mid-career teachers (aged 35–55), particularly in STEM subjects and special education. Schools value teaching experience over age, and senior teachers are highly regarded.
+
+**Q: What qualifications do teachers need in Australia?**
+A: An AITSL-recognised teaching qualification is required (equivalent to an Australian 4-year B.Ed or a relevant discipline degree plus a graduate diploma of education). A bachelor's degree from a teacher training university plus a teaching licence typically passes AITSL assessment (depending on the subject and course content).
+
+**Q: Is teacher registration in Australia difficult for migrants?**
+A: Difficulty is relatively low (compared to other professions). The main barrier is English proficiency (IELTS 7.5 in each band). The AITSL assessment pathway is straightforward, state education departments are very welcoming of overseas-trained teachers, and the 491 regional visa pathway significantly lowers the migration threshold.
+
+**Q: Which is a better pathway to migrate to Australia — teaching or nursing?**
+A: Both are MLTSSL shortage occupations with well-established migration pathways. Teaching has higher English requirements (IELTS 7.5 vs nursing 7.0), but offers more stable income and regular working hours. The shortage of STEM teachers may exceed that of general nurses. Those with a teaching background are strongly encouraged to pursue the teacher pathway, particularly in mathematics and science.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 中学教师薪资 $100k~$105k（2026） |
-| NSW Department of Education | NSW教师薪资阶梯（2026） |
-| AITSL | 海外教师资格认证（OTES） |
-| TeachBuySell | 澳洲各州教师薪资2026对比 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-中小学教师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲中小学教师工资多少？**
-答：有经验教师约 $95,000~$115,000（SEEK $100k~$105k）；毕业教师约 $75,000~$95,000（NT最高约 $96,180）；资深/主任教师约 $115k~$140k；校长可超 $140k~$230k。
-
-**问：澳洲中小学教师容易找工作吗？**
-答：极容易。澳洲正经历严重教师短缺，STEM教师（数学/物理/信息技术）全国各州极度紧缺。SEEK 挂牌约 5,000~12,000 个职位，各州教育部甚至主动为海外教师提供安置支持和搬家补贴。
-
-**问：中国教师资格/经验澳洲认可吗？**
-答：通过 AITSL（澳洲教师教育学会）海外教师资格评估（OTES），中国师范学历和教学经验可以认可。主要挑战是英语能力（IELTS 7.5 各单项），而非学历认可。通过评估后需要向各州注册机构（如NSW的NESA）申请教师注册。
-
-**问：教师会被AI替代吗？**
-答：不会。教学是AI替代风险最低的职业之一。AI辅助备课和差异化教学内容生成，但课堂管理、学生情感支持、差异化教学判断和家长沟通完全不可替代。澳洲课程标准明确要求人类教师。
-
-**问：澳洲教师有年龄限制吗？**
-答：无。澳洲非常欢迎有经验的中年教师（35~55岁），特别是STEM学科和特殊教育方向。学校更重视教学经验而非年龄，资深教师更受学校欢迎。
-
-**问：澳洲教师需要什么学历？**
-答：需要AITSL认可的教育资格（等同于澳洲B.Ed 4年或相关学科学位+研究生教育文凭）。中国师范院校本科+教师资格证通常可以通过AITSL评估（具体取决于学科和课程内容）。
-
-**问：澳洲教师认证（移民）难吗？**
-答：难度较低（与其他专业相比）。主要门槛是英语能力（IELTS 7.5 各单项）。AITSL评估路径清晰，各州教育部对海外教师非常欢迎，491偏远地区路径大幅降低移民门槛。
-
-**问：教师和护士哪个更适合移民澳洲？**
-答：两者都是MLTSSL短缺职业，移民路径成熟。教师英语要求更高（IELTS 7.5 vs 护士 7.0），但收入更稳定、工作节奏更规律。STEM教师短缺程度可能超过一般护士。有教学背景者强烈推荐教师路径，特别是数学/科学教师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

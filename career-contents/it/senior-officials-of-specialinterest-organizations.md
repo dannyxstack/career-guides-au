@@ -1,59 +1,95 @@
-# Senior Officials of Special-interest Organizations（Senior Officials of Special-interest Organizations）职业分析 · IT
+# Senior Officials of Special-interest Organizations — career analysis · Italy
 
-**职业代码：1114 – Senior Officials of Special-interest Organizations。**
+**Occupation code: 1114 (ISCO08)**
 
-Lead special-interest organizations (e.g., trade unions, professional associations, NGOs), setting strategic direction and advocating for members' interests in policy-making.
+Lead special interest organizations (e.g., unions, professional associations, NGOs), set strategic direction, and advocate for members' interests in policy.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | —（公立大学学费低，约0-2000欧元/年） |
-| 硕士 | 2年（硕士） | —（公立大学硕士学费约0-4000欧元/年） |
+| Bachelor's degree | 3 years (bachelor's) | $0~$2,000 (Public university tuition is low, around 0–2,000 EUR per year) |
+| Master's degree | 2 years (Master's) | $0~$4,000 (Master's tuition at public universities is approximately €0-4,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | 无 | 可选 | 通常要求相关领域学位和管理经验 |
+| No specific mandatory qualifications | None | Optional | Typically requires a relevant degree and management experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。意大利该类职位需求稳定，受政策和社会议题影响。数字化转型和绿色转型推动组织改革，但预算压力可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Demand for such positions in Italy is stable, influenced by policies and social issues. Digital transformation and green transition drive organisational reform, but budget pressures may limit growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 小组织或初级职位 |
-| 中级（4-7年） | $45,000~$65,000 | 中型组织部门主管 |
-| 高级（8年以上） | $65,000~$90,000 | 大型组织首席执行官 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$45,000 | Small organizations or entry-level positions |
+| Mid-level (4-7 years) | $45,000~$65,000 | Head of department in medium-sized organisation |
+| Senior (8+ years) | $65,000~$90,000 | Chief Executive Officer of a large organization |
+| average salary | $56,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从组织内部中层管理或公共事务专家晋升，需积累政策影响力与领导经验。少数可转向政府或企业高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI mainly enhances policy analysis, communication, and resource allocation efficiency, but core strategic decisions, political negotiations, and member trust maintenance are hard to automate; overall risk is moderate.
+
+Usually promoted from middle management within the organization or from public affairs experts, requiring accumulation of policy influence and leadership experience. A few may transition to senior government or corporate positions.
+
+**Tasks most exposed to AI:**
+
+- Data collection and preliminary analysis report writing
+- Automated generation of periodic policy briefs
+- Meeting schedule coordination and minutes recording
+- Standardized response handling for member inquiries
+- Routine verification of budget and financial data
+
+**Where AI augments the role:**
+
+- Use AI prediction models to assess the impact and risk of policy proposals
+- Monitor public opinion and legislative developments in real-time through natural language processing
+- AI-assisted personalized membership communication strategies and activity planning
+- Use data visualization tools to present complex evidence to decision-makers.
+- Automatically generate multilingual policy position papers
+
+**Human moat:**
+
+- Establish and maintain relationships with key government and business figures
+- Judging concession timing and strategies in sensitive negotiations
+- Understand internal and external power dynamics within organizations and develop game strategies
+- Intuitive decision-making with incomplete or contradictory information
+- Moral advocacy and mobilization representing members' values.
+
+**Skills to build:**
+
+- AI tool applications: Python/R for data analysis, LLMs for text generation
+- Data visualization: Tableau, Power BI
+- Digital communication: social media analytics, targeted information delivery
+- Complex negotiation and conflict resolution techniques
+- Analytical ability at the intersection of ethics and public policy
+- Project management and agile methodologies
+
+**Key growth areas:**
 
 - Digital Transformation
 - Green Transition
@@ -62,63 +98,65 @@ Lead special-interest organizations (e.g., trade unions, professional associatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需年薪≥30,000欧元（2025年门槛），合同至少1年。 |
-| Subclass Nulla Osta（Nulla Osta (Work Visa)） | 雇主需申请工作许可，适用于配额内职业，需雇主担保。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi (Quota Work Visa)） | 年度配额，适用于非欧盟公民，由雇主申请。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires an annual salary of at least €30,000 (2025 threshold), with a contract of at least 1 year. |
+| Subclass Nulla Osta (Nulla Osta (Work Visa)) | Employers must apply for a work permit; applies to quota-based occupations and requires employer sponsorship. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi (Quota Work Visa)) | Annual quota, applicable to non-EU citizens, applied for by employers. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Senior Officials of Special-interest Organizations？**
-- 具备公共政策或组织管理背景者
-- 有较强领导力和沟通能力的人
-- 对社会议题有热情的人
+**Who is suited**
+- Those with a background in public policy or organizational management
+- People with strong leadership and communication skills
+- People passionate about social issues
 
-**谁不适合学Senior Officials of Special-interest Organizations？**
-- 不喜欢政策倡导和公众事务者
-- 不适应高压力工作环境者
+**Who is not suited**
+- Not suitable for those who dislike policy advocacy and public affairs
+- Not suitable for high-pressure work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for senior officials of special interest organizations in Italy?**
+A: Junior approx 30,000-45,000 euros, mid-level 45,000-65,000 euros, senior 65,000-90,000 euros, depending on organization size and type.
+
+**Q: How can non-EU citizens obtain a work visa for this position?**
+A: Apply via EU Blue Card (annual salary ≥30,000 euros) or employer-sponsored Nulla Osta/Decreto Flussi quota work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Senior Officials of Special-interest Organizations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for senior officials of special-interest organizations in Italy?**
-答：Entry-level around €30,000-45,000, mid-level €45,000-65,000, senior €65,000-90,000, depending on organization size and type.
-
-**问：How can non-EU citizens obtain a work visa for this role?**
-答：Via EU Blue Card (salary ≥€30,000) or employer-sponsored Nulla Osta/Decreto Flussi quota work visa.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

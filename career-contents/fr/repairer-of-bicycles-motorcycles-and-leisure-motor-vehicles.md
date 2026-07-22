@@ -1,60 +1,93 @@
-# Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles（Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles）职业分析 · FR
+# Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles — career analysis · France
 
-**职业代码：I1607 – Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles。**
+**Occupation code: I1607 (ROME)**
 
-Repairs and maintains bicycles, motorcycles, mopeds, and leisure vehicles (e.g., ATVs, snowmobiles), including mechanical, electrical, and bodywork.
+Responsible for the repair and maintenance of bicycles, motorcycles, small motorcycles, and recreational vehicles (such as ATVs and snowmobiles), including mechanical, electrical, and body repairs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立学校免费，学徒制有补贴） |
-| Bac Pro（职业高中文凭） | 3年 | —（公立学校免费，私立每年约1000欧元） |
-| BTS（高级技术员证书） | 2年（高中后） | —（公立学校免费，私立每年约1500欧元） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$500 (Public schools are free, and apprenticeships are subsidized) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$1,000 (Public schools are free, private schools cost around €1,000 per year) |
+| BTS (Senior Technician Certificate) | 2nd year (after high school) | $0~$1,500 (Public schools are free; private schools cost around €1,500 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Réparation des carrosseries（车身修理证书） | 法国教育部 | 可选 | 非强制但雇主偏好持有者 |
-| Bac Pro Maintenance des véhicules option motocycles（车辆维护职业高中文凭，摩托车方向） | 法国教育部 | 可选 | 行业认可度高 |
-| BTS Maintenance des véhicules option motocycles（车辆维护高级技术员证书，摩托车方向） | 法国教育部 | 可选 | 高级职位所需 |
+| CAP Translation of the Carroll Series (Body Repair Certificate) | French Ministry of Education | Optional | Non-mandatory but employer-preferred holders |
+| Bac Pro Maintenance des Véhicules option motorcycles (Vehicle Maintenance Professional High School Diploma, Motorcycle Direction) | French Ministry of Education | Optional | It has high industry recognition |
+| BTS Maintenance des Véhicules option Motorcycles (Senior Vehicle Maintenance Technician Certificate, motorcycle direction) | French Ministry of Education | Optional | Required for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。法国自行车和摩托车使用率持续增长，电动自行车市场扩大，维修需求旺盛。但行业竞争中等，需不断更新技术以适应新型车辆。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. The usage of bicycles and motorcycles in France continues to grow, the electric bicycle market is expanding, and maintenance demand is strong. However, industry competition is moderate, requiring continuous technological updates to accommodate new vehicles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（4-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（8年以上） | $32,000~$40,000 | 税前年薪，含主管级别 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (8+ years) | $32,000~$40,000 | Pre-tax annual salary, including supervisor level |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级技工升至维修主管或开店创业，也可专攻某一品牌或车辆类型（如电动自行车）。持有高级认证（如BTS）有助于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
+
+You can rise from junior technician to maintenance supervisor, start a business, or specialize in a specific brand or vehicle type (such as electric bicycles). Holding advanced certifications (such as BTS) helps with promotion.
+
+**Tasks most exposed to AI:**
+
+- Using diagnostic software to identify motorcycle engine and electrical system faults
+- Reading fault codes via OBD interface and generating repair suggestions.
+- Automatically generates maintenance records and inventory management reports
+- Using AI vision to inspect tire wear and component condition
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis improves fault localization speed and accuracy
+- AI recommends optimal repair plans and parts replacement options
+- AI provides training videos and AR guidance for complex disassembly and assembly procedures.
+- AI predictive maintenance reminds customers for regular servicing
+- AI-optimized parts procurement and inventory management
+
+**Human moat:**
+
+- Experience in tuning special modified and high-performance motorcycles
+- Creative problem-solving for non-standard failures
+- Soft skills in building trust and reputation through communication with clients
+- Field operations and fine manual crafting skills
+
+**Skills to build:**
+
+- Diagnostic software and OBD tool usage skills.
+- Electric and hybrid motorcycle repair technology
+- Customer service and communication skills
+- Habit of continuously learning new vehicle models and digital systems
+- AR-assisted maintenance and remote collaboration tools
+
+**Key growth areas:**
 
 - Electric bicycle repair
 - Motorcycle market growth
@@ -63,68 +96,67 @@ Repairs and maintains bicycles, motorcycles, mopeds, and leisure vehicles (e.g.,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需提供工作合同和资质证明，有效期4年，可续签。 |
-| Subclass Salarié（Employee） | 适用于受雇于法国企业的外籍员工，需工作许可，先申请临时居留，可转长期。 |
-| Subclass Recherche emploi（Job Search） | 学生毕业后可申请该居留，有效期1年，可工作或创业。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring a work contract and qualification certificate, valid for 4 years, renewable with the right to renew. |
+| Subclass Salarié (Employee) | This applies to foreign employees employed by French companies, who need a work permit and apply for temporary residence first, which can be converted to long-term status. |
+| Subclass Recherche emploi (Job Search) | After graduation, students can apply for this residence permit, valid for one year, and may work or start a business. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles？**
-- 喜欢动手修理机械和电气系统的人
-- 对摩托车、自行车有热情，愿意持续学习新技术的爱好者
-- 希望在法国从事技术蓝领工作，并考虑创业的人
-
-**谁不适合学Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles？**
-- 不喜欢体力劳动或长时间站立工作的人
-- 对机械维修没有兴趣，仅将此视为过渡工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manually repairing mechanical and electrical systems
+- Enthusiasts passionate about motorcycles and bicycles, and willing to continuously learn new technologies
+- Those who want to work in blue-collar technology in France and are considering entrepreneurship
+
+**Who is not suited**
+- Those who dislike physical labor or long periods of standing work
+- People who have no interest in mechanical maintenance and only see it as a transitional job
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for bicycle and motorcycle mechanics in France?**
+A: Entry-level is about 22,000-26,000 euros, intermediate 26,000-32,000 euros, and senior or supervisor salaries can exceed 40,000 euros. Salaries vary by region, experience, and expertise.
+
+**Q: As a foreigner, how can you become a repair worker in France through skilled migration?**
+A: You can apply for the Passeport Talent or Salarié visa, which requires a work contract from a French employer and proof of relevant qualifications (such as CAP/Bac Pro). Employers must demonstrate difficulties in recruitment.
+
+**Q: What are the promotion paths for maintenance workers?**
+A: You can advance from junior technician to senior technician or supervisor, or specialize in electric bicycle or high-performance motorcycle maintenance. After accumulating experience, you can open a store to start a business or become a brand-authorized repair center.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Repairer of Bicycles, Motorcycles and Leisure Motor Vehicles的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a bicycle/motorcycle repairer in France?**
-答：Entry-level around €22,000-26,000, mid-level €26,000-32,000, senior or supervisor up to €40,000+ per year, varying by region, experience, and specialization.
-
-**问：How can a foreigner immigrate to France as a repairer?**
-答：Apply for a Talent Passport or Employee visa, requiring a job offer from a French employer and proof of qualifications (e.g., CAP/Bac Pro). The employer must demonstrate recruitment difficulty.
-
-**问：What are the career advancement paths for repairers?**
-答：Progress from junior to senior technician or supervisor, specialize in e-bikes or high-performance motorcycles, or open a repair shop as a business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

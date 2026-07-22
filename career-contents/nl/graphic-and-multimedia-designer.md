@@ -1,60 +1,96 @@
-# Graphic and Multimedia Designer（Graphic and Multimedia Designer）职业分析 · NL
+# Graphic and Multimedia Designer — career analysis · Netherlands
 
-**职业代码：2166 – Graphic and Multimedia Designer。**
+**Occupation code: 2166 (ISCO08)**
 
-Graphic and multimedia designers create visual content for digital and print media. In the Netherlands, demand is steady, with specialization in UX design and digital marketing.
+Graphic and multimedia designers are responsible for conveying information using visual elements, creating digital and print media content. In the Netherlands, the demand for this occupation is stable, especially in user experience design and digital marketing.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $10,000~$20,000（学费每年约2,000-4,000欧元（欧盟学生），非欧盟学生8,000-15,000欧元） |
-| 职业培训 | 2-3年 | $5,000~$15,000（MBO或HBO课程，学费较低） |
+| Bachelor's degree | 4 years | $10,000~$20,000 (Tuition fees approximately 2,000-4,000 euros per year (EU students), 8,000-15,000 euros for non-EU students) |
+| Vocational training | 2-3 years | $5,000~$15,000 (MBO or HBO courses, low tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 平面设计学士 | 应用科学大学（HBO） | 可选 | 常见学历要求 |
-| 多媒体设计职业培训 | 中等职业教育（MBO） | 可选 | 实践导向的培训 |
+| Bachelor of Graphic Design | University of Applied Sciences (HBO) | Optional | Common educational requirements |
+| Multimedia design vocational training | Intermediate Vocational Education (MBO) | Optional | Practice-oriented training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰创意产业持续增长，数字化转型推动对多媒体设计师的需求，特别是在阿姆斯特丹和乌得勒支等科技中心。初级岗位竞争激烈，但高级设计师和拥有技术技能者机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Netherlands' creative sector is growing, with digital transformation driving demand for multimedia designers, especially in tech hubs like Amsterdam and Utrecht. Entry-level roles are competitive, but senior designers and those with technical skills have more opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $50,981 | Median salary (official: CBS employee hourly median €25.8/hour × 1976h annualized, BRC group 0221 Graphic designers and product...; P25–P75 €39,322–€67,579, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $39,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业晋升路径包括从初级设计师到高级设计师、艺术总监或创意总监。也可专攻UI/UX设计、动态图形或品牌策略。自由职业和创业也是常见发展路径。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The work of graphic and multimedia designers will be mixed: AI can quickly generate drafts and materials, but creative strategy, brand narrative, and cross-media integration still require human judgment. Entry-level positions face compression, but senior designers can improve output efficiency with AI.
+
+Career advancement pathways include progression from junior designer to senior designer, art director, or creative director. Specialization in UI/UX design, motion graphics, or brand strategy is also possible. Freelancing and entrepreneurship are common development paths.
+
+**Tasks most exposed to AI:**
+
+- Batch generate standardized visual assets like social media images and ad banners
+- Automated image matting, color correction, image restoration, and other repetitive image processing tasks
+- Quickly generate layouts and basic animations from templates.
+- Automatically generate multi-size adaptive versions of materials
+- Drawing basic icons, illustrations, and background textures
+
+**Where AI augments the role:**
+
+- Using AI to generate diverse design concepts and inspirational drafts, accelerating creative exploration
+- Personalize visual strategies through AI analysis of user data to boost conversion rates
+- Using AI tools to quickly generate 3D models, motion graphics, and interactive prototypes
+- Automatically optimize technical parameters of design files for different media platforms
+- Conducting A/B testing and design effect prediction with AI
+
+**Human moat:**
+
+- Design of brand core visual strategy and long-term narrative
+- Cross-media (print, digital, spatial) holistic visual system design
+- In-depth communication with clients to understand ambiguous requirements and translate them into creative concepts
+- Aesthetic judgment, cultural sensitivity, and unique artistic style
+- User experience and usability testing in complex interaction design
+
+**Skills to build:**
+
+- Proficient in using AI design tools (such as Midjourney, DALL-E, Runway)
+- Master user research and data analysis methods
+- Proficient in interactive prototyping design (Figma, Sketch) and motion design
+- Basic knowledge of HTML/CSS front-end development
+- Enhance brand strategy and storytelling skills
+- Learn to use AI for A/B testing and performance optimization
+
+**Key growth areas:**
 
 - UX design
 - digital marketing
@@ -63,66 +99,68 @@ Graphic and multimedia designers create visual content for digital and print med
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于工资达到门槛的高技能移民，需雇主担保。2025年门槛约为5,000欧元/月（30岁以上）或3,666欧元/月（30岁以下）。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历专业人士，薪资门槛约为58,000欧元/年（2025年）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰高校毕业生或全球前200大学毕业生可在毕业后一年内申请，用于寻找工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigrants meeting the salary threshold, requiring employer sponsorship. The 2025 threshold will be approximately €5,000/month (over 30) or €3,666/month (under 30). |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, the salary threshold is approximately €58,000/year (2025). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply within one year after graduation for job seeking. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Graphic and Multimedia Designer？**
-- 有创造力且注重细节的人
-- 喜欢数字技术和视觉艺术的人
-- 能适应快速变化的行业趋势
+**Who is suited**
+- Creative and detail-oriented individuals
+- People who enjoy digital technology and visual arts
+- Able to adapt to rapidly changing industry trends
 
-**谁不适合学Graphic and Multimedia Designer？**
-- 不喜欢接受客户反馈和修改的人
-- 追求稳定、低压力工作环境的人
+**Who is not suited**
+- People who dislike receiving client feedback and making revisions
+- People seeking a stable, low-stress work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a Graphic and Multimedia Designer in the Netherlands?**
+A: Junior designer annual salary approx. €25,000-32,000, mid-level €32,000-45,000, senior €45,000-60,000. Freelancers may earn more but with less stability.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as graphic designers?**
+A: Available through the Highly Skilled Migrant (kennismigrant) scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Alternatively, study at a Dutch design institution and use the Orientation Year visa for job searching after graduation.
+
+**Q: What are the career prospects for graphic designers in the Netherlands?**
+A: Digital transformation and digital marketing demand continue to drive the market, but entry-level positions are competitive. Specializing in UX/UI design, motion graphics, or video editing can improve competitiveness. Freelancing and entrepreneurship are also common paths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Graphic and Multimedia Designer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for graphic and multimedia designers in the Netherlands?**
-答：Junior designers earn €25,000-€32,000, mid-level €32,000-€45,000, senior €45,000-€60,000 annually. Freelancers may earn more but with less stability.
-
-**问：How can non-EU citizens immigrate to the Netherlands as a graphic designer?**
-答：Through the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Alternatively, study at a Dutch design school and use the Orientation Year visa to find a job.
-
-**问：What are the career prospects for graphic designers in the Netherlands?**
-答：Digital transformation and marketing drive demand, but competition is high for junior roles. Specializing in UX/UI, motion graphics, or video editing enhances prospects. Freelancing and entrepreneurship are also common.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

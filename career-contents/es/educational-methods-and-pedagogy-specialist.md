@@ -1,60 +1,96 @@
-# Educational Methods and Pedagogy Specialist（Educational Methods and Pedagogy Specialist）职业分析 · ES
+# Educational Methods and Pedagogy Specialist — career analysis · Spain
 
-**职业代码：2321 – Educational Methods and Pedagogy Specialist。**
+**Occupation code: 2321 (CNO)**
 
-Designs, evaluates, and improves teaching methods and curricula, providing training and support to teachers to enhance educational quality.
+Responsible for designing, evaluating, and improving teaching methods and curricula, providing training and support for teachers to enhance education quality.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学学费） |
-| 硕士（Máster） | 1年（Máster） | $2,000~$8,000（教育心理学或教学法方向） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Public university tuition) |
+| Máster | Year 1 (Máster) | $2,000~$8,000 (Educational psychology or pedagogy direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教育学学士学位 | 西班牙大学 | 必备 | 需包含教学法或课程设计方向 |
-| 教师资格证（CAP/Máster de Profesorado） | 西班牙教育部门 | 必备 | 在公立学校工作必需 |
+| Bachelor of Education degree | Spanish University | Required | It must include teaching methods or curriculum design directions |
+| Teacher Qualification Certificate (CAP/Máster de Profesorado) | Spanish education sector | Required | Required to work in public schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 12,000。西班牙教育改革和数字化转型推动了对该职业的需求，尤其在初等和中等教育领域。预计就业稳定，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Education reform and digital transformation in Spain have driven demand for this profession, especially in primary and secondary education. Employment is expected to be stable but highly competitive.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 私立教育机构起薪 |
-| 中级（4-7年） | $32,000~$42,000 | 公立学校或教育咨询 |
-| 高级（8年以上） | $42,000~$55,000 | 教育部门主管或资深顾问 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $25,000~$32,000 | Private educational institutions start at salaries |
+| Mid-level (4-7 years) | $32,000~$42,000 | Public schools or educational consulting |
+| Senior (8+ years) | $42,000~$55,000 | Education department heads or senior consultants |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从教育机构的教学顾问晋升为教育部门主管或政策制定者，也可进入教育科技公司担任课程设计专家。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance instructional design and personalized learning, but will also replace some routine content development and evaluation tasks, requiring experts to shift to advanced strategy and interpersonal training tasks.
+
+You can advance from teaching consultant at educational institutions to head of education departments or policymaker, or join an edtech company as a curriculum design specialist.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates basic course syllabi and lesson plans
+- Analyze student performance data and generate reports
+- Providing standardized recommendations for common teaching issues
+- Manage the basic content updates of the online learning platform
+- Create and distribute teaching material templates
+
+**Where AI augments the role:**
+
+- AI is used to analyze learning behavior data and design personalized learning paths
+- Develop adaptive assessment and intelligent tutoring systems with AI tools
+- Using AI to simulate classroom scenarios and optimize teaching interaction design
+- Quickly retrieve the latest educational research using natural language processing
+- Utilize AI to generate multilingual teaching resources and expand coverage
+
+**Human moat:**
+
+- Understand complex educational theories and interdisciplinary integration
+- Design innovative teaching methods and address unstructured issues
+- Provide emotional support and encouragement
+- Build trust relationships with teachers, students, and parents
+- Addresses ethics, cultural sensitivity, and values education
+
+**Skills to build:**
+
+- Educational data analysis and visualization
+- Development and application of AI teaching tools (such as adaptive learning platforms)
+- Learning Experience Design (LX Design)
+- Educational technology project management
+- Critical Thinking and Innovative Instructional Design
+- Remote collaboration and digital training skills
+
+**Key growth areas:**
 
 - Education reform
 - Digital learning
@@ -63,65 +99,67 @@ Designs, evaluates, and improves teaching methods and curricula, providing train
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需西班牙雇主提供工作合同，并证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（EU Blue Card (High-Skilled)） | 适用于高薪职位（年薪约3.4万欧元以上），需相关学历。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (EU Blue Card (High-Skilled)) | Applies to high-salary positions (annual salary roughly 34,000+ EUR), requires relevant degree. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Educational Methods and Pedagogy Specialist？**
-- 对教育理论和实践有浓厚兴趣的人
-- 善于沟通和团队协作的教育工作者
-- 希望在教育领域深耕并影响教学政策的人
+**Who is suited**
+- People with a strong interest in educational theory and practice
+- Educators skilled in communication and teamwork
+- Those who wish to deeply cultivate education and influence teaching policies
 
-**谁不适合学Educational Methods and Pedagogy Specialist？**
-- 不喜欢学术研究和写作的人
-- 希望快速获得高收入的人
+**Who is not suited**
+- People who dislike academic research and writing
+- People looking to quickly achieve high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Spanish pedagogy experts?**
+A: Junior annual salary approx. EUR 25,000-32,000, mid-level EUR 32,000-42,000, senior EUR 42,000-55,000. Public schools offer stable pay, private institutions have additional bonuses.
+
+**Q: How can third-country citizens obtain a work visa for Spanish pedagogical experts?**
+A: Main pathway is employed residence (Cuenta ajena), requiring employer sponsorship. If annual salary exceeds EUR 34,000, you can apply for the EU Blue Card (Altamente cualificado). Working in public schools requires academic qualification recognition (homologación).
+
+**Q: What is the career progression path for this occupation?**
+A: You can advance from junior teaching consultant to education department head, join an edtech company as a curriculum design specialist, or pursue a PhD to become a university professor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Educational Methods and Pedagogy Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for educational methods specialists in Spain?**
-答：Entry-level annual salary ranges from €25,000 to €32,000, mid-level €32,000 to €42,000, and senior €42,000 to €55,000. Public schools offer stable pay, while private institutions may include bonuses.
-
-**问：How can third-country nationals obtain a work visa as an educational methods specialist in Spain?**
-答：The main route is an employer-sponsored work permit (Cuenta ajena). If the salary exceeds €34,000, an EU Blue Card (Altamente cualificado) is possible. Working in public schools requires academic credential recognition (homologación).
-
-**问：What is the career progression for this occupation?**
-答：Starting as a junior instructional consultant, one can advance to education department head, curriculum designer in edtech firms, or pursue a PhD to become a university professor.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

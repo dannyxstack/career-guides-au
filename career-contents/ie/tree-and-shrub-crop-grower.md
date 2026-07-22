@@ -1,60 +1,96 @@
-# Tree and Shrub Crop Grower（Tree and Shrub Crop Grower）职业分析 · IE
+# Tree and Shrub Crop Grower — career analysis · Ireland
 
-**职业代码：6112 – Tree and Shrub Crop Grower。**
+**Occupation code: 6112 (ISCO08)**
 
-Responsible for planting, cultivating, and harvesting tree and shrub crops such as fruit trees and Christmas trees, managing orchards or nurseries to ensure healthy growth and yield.
+Responsible for planting, cultivating and harvesting trees and shrub crops (such as fruit trees, Christmas trees, etc.), managing orchards or nurseries, ensuring healthy crop growth and yield.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（免费公立教育） |
-| 农业职业教育 | 1-2年 | $1,000~$5,000（部分政府补贴） |
+| High school graduation | 4 years | $0~$0 (Free public education) |
+| Vocational education in agriculture | 1-2 years | $1,000~$5,000 (Partial government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 拖拉机驾驶执照 | 爱尔兰交通部 | 必备 | 操作农业机械需要 |
-| 农药使用证书 | 农业部 | 必备 | 使用农药必须持有 |
+| Tractor Driving License | Irish Department of Transport | Required | Operating agricultural machinery requires |
+| Pesticide use certificate | Ministry of Agriculture | Required | Pesticides must be used |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。爱尔兰农业部门稳定，但树木种植业受季节影响较大。劳动力老龄化带来一定需求，但增长缓慢，竞争一般。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. Ireland's agricultural sector is stable, but forestry is more affected by seasonality. An aging workforce creates some demand, but growth is slow and competition is moderate.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，季节性工作或全职 |
-| 中级（3-7年） | $28,000~$35,000 | 包括主管职位 |
-| 高级（7年以上） | $35,000~$45,000 | 农场经理或自有种植园 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, seasonal or full-time work |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including supervisory positions. |
+| Senior (7+ years) | $35,000~$45,000 | Farm manager or own plantation |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从普通工人晋升为种植主管或农场经理，或通过专业培训成为作物顾问。自主创业经营果园或苗圃也是常见路径。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI automation will significantly reduce job demand for tree and shrub crop growers, especially in routine monitoring and documentation, but on-site physical work and complex decision-making remain.
+
+Can advance from general worker to planting supervisor or farm manager, or become a crop consultant through specialist training. Self-employment running an orchard or nursery is also common.
+
+**Tasks most exposed to AI:**
+
+- Crop health monitoring and data recording via drones and sensors
+- Scheduling and operation of automated irrigation and fertilization systems
+- Generation and organization of documentation records (e.g., growth logs, yield statistics).
+- Output prediction and risk assessment based on historical data.
+- Pest and disease identification and preliminary diagnosis (AI visual recognition)
+
+**Where AI augments the role:**
+
+- Using AI to analyze soil and meteorological data to optimize planting plans
+- Develop precise pruning and harvesting strategies using smart devices
+- Choose optimal sales timing using AI-driven market predictions
+- Using AI tools to train employees in operating new agricultural machinery
+- Improving practices by simulating orchard management through digital twins
+
+**Human moat:**
+
+- Dexterity and judgment in on-site manual operations (e.g., grafting, pruning)
+- Emergency decision-making for local weather or pest outbreaks
+- Customer relationship maintenance and customized services (e.g., Christmas tree quality negotiation)
+- Long-term ecological management and sustainable development planning
+- Communicate compliance matters with regulatory agencies (e.g., pesticide usage records)
+
+**Skills to build:**
+
+- Operate and perform basic maintenance on IoT devices such as drones and sensors
+- Basic data analysis and visualization (Excel/Python/R)
+- Use of precision agriculture software (e.g., FarmLogs, CropX)
+- Programming and debugging of smart irrigation and fertilization systems
+- Environmental monitoring and automation equipment fault diagnosis
+- Basics of sustainable agriculture certification and carbon credit trading
+
+**Key growth areas:**
 
 - Sustainable agriculture
 - Organic farming
@@ -63,65 +99,67 @@ Responsible for planting, cultivating, and harvesting tree and shrub crops such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/EEA公民可自由工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary no less than €30,000. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tree and Shrub Crop Grower？**
-- 喜欢户外体力劳动的人
-- 对农业种植有热情的人
-- 愿意接受季节性工作节奏的人
+**Who is suited**
+- People who enjoy outdoor physical labor
+- People passionate about agricultural planting
+- Those willing to accept seasonal work rhythms
 
-**谁不适合学Tree and Shrub Crop Grower？**
-- 不喜欢户外和体力劳动的人
-- 寻求高薪和稳定办公室工作的人
+**Who is not suited**
+- People who dislike outdoor and physical work
+- People seeking high salary and stable office jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of tree planters?**
+A: Entry-level workers earn about €22,000-28,000 per year, while experienced supervisors can earn €35,000-45,000. Income is affected by season and production volume.
+
+**Q: How can non-EU citizens immigrate to Ireland to work in tree planting?**
+A: Need to obtain an employer-sponsored work permit (General Employment Permit), with an annual salary typically reaching 30,000 euros. This occupation is not on the shortage list, so the immigration threshold is relatively high.
+
+**Q: What career development opportunities are available for tree planters?**
+A: Can progress from general worker to planting supervisor or farm manager, or become a plant health consultant or run an orchard through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tree and Shrub Crop Grower属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for tree and shrub crop growers?**
-答：Entry-level workers earn around €22,000-€28,000 per year, while experienced supervisors can earn €35,000-€45,000. Income is affected by season and yield.
-
-**问：How can non-EU citizens immigrate to Ireland for tree and shrub crop growing?**
-答：They need a General Employment Permit with employer sponsorship, typically requiring a salary of €30,000. The occupation is not on the critical skills list, making immigration more difficult.
-
-**问：What career advancement opportunities exist for tree and shrub crop growers?**
-答：Workers can advance to supervisors or farm managers, or become plant health consultants through training, or start their own orchards.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

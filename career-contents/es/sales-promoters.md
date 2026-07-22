@@ -1,60 +1,96 @@
-# Sales Promoters（Sales Promoters）职业分析 · ES
+# Sales Promoters — career analysis · Spain
 
-**职业代码：5492 – Sales Promoters。**
+**Occupation code: 5492 (CNO)**
 
-Sales promoters promote products or services to customers in retail, trade shows, and events, using demonstrations, samples, and promotions to boost sales. This entry-level role requires strong communication and sales skills.
+Sales promoters promote products or services to customers at retail, exhibitions, and events, increasing sales through demonstrations, sample distribution, and promotional activities. This profession is an entry-level position in the service industry; no high education is required, but good communication and sales skills are required.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无需高等教育 | —（通常只需高中文凭，企业提供在职培训。） |
-| FP Grado Medio（中级职业培训） | 2年 | $5,000~$10,000（商业或市场营销相关专业可提升竞争力，公立院校费用较低。） |
+| High school graduation or equivalent | No higher education required | $0~$0 (Usually, only a high school diploma is required, and companies provide on-the-job training.) |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years | $5,000~$10,000 (Majors related to business or marketing can enhance competitiveness, and public institutions have lower fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | N/A | 可选 | 通常无需特定执照或认证，企业面试通过后即可入职。 |
-| 销售技巧培训证书（可选） | 私人培训机构或行业协会 | 可选 | 如AEAP（西班牙促销协会）提供的培训，可增加就业机会。 |
+| No mandatory requirements | N/A | Optional | Usually, no specific license or certification is required; companies can start after passing the interview. |
+| Sales Skills Training Certificate (Optional) | Private training institutions or industry associations | Optional | Training provided by AEAP (Spanish Promotion Association) can increase employment opportunities. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙零售业和展会经济持续发展，销售推广员需求稳定，尤其是快消品和电子产品领域。但该职位竞争激烈，兼职和临时岗位较多，全职机会相对有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spain's retail and exhibition economy continues to develop, with stable demand for sales promoters, especially in the fast-moving consumer goods and electronics sectors. However, the position is highly competitive, with many part-time and temporary positions and relatively limited full-time opportunities.
 
-**竞争度：中高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 包含基本工资和绩效奖金，兼职岗位按小时计薪。 |
-| 中级（3-6年） | $18,000~$24,000 | 经验丰富者可获得更高提成和固定岗位。 |
-| 高级（6年以上或主管） | $24,000~$32,000 | 销售主管或区域经理职位，收入与团队业绩挂钩。 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Includes base salary and performance bonuses, with part-time positions paid by the hour. |
+| Mid-level (3–6 years) | $18,000~$24,000 | Experienced candidates can earn higher commissions and secure fixed positions. |
+| Senior (6+ years or supervisory) | $24,000~$32,000 | Sales supervisor or regional manager positions, with income linked to team performance. |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 职业发展路径：从初级销售推广员晋升为高级促销员或销售主管，进而转向品牌经理、区域销售经理等管理岗位。积累经验后可进入市场营销或客户关系管理领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks for sales promoters, such as product demonstrations and sample distribution, are gradually automated, but parts requiring real human interaction and persuasion skills are hard to replace, resulting in mixed overall impacts.
+
+Career development path: Advance from junior sales promoter to senior promoter or sales supervisor, then transition to management roles such as brand manager and regional sales manager. After gaining experience, you can move into marketing or customer relationship management.
+
+**Tasks most exposed to AI:**
+
+- Standardized product demonstrations are conducted via digital screens or robots
+- Automatically distributing samples and coupons (such as drones or self-service terminals)
+- Use AI voice bots for initial customer communication and invitations
+- Automated data entry and performance report generation
+- Introduction to the intelligent recommendation system replacing basic products
+
+**Where AI augments the role:**
+
+- AI-assisted customer analysis enables precise targeting of high-potential clients and customized promotion strategies
+- Immersive product experience displays using AR/VR tools
+- AI real-time translation and dialect recognition expand cross-language customer coverage
+- Chatbots filter and preset frequently asked questions, enhancing the efficiency of deep communication
+- Sales data dashboards help optimize event times and locations
+
+**Human moat:**
+
+- The ability to build interpersonal trust and emotional connections
+- Handling complex customer objections and personalized demands
+- Creative planning and on-site adaptability
+- Comprehensive coordination of multi-sensory and multi-task scenarios
+- Narrative power for identity and brand communication
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation and data analysis
+- Social media and short video marketing planning
+- Basic AI tool usage (such as ChatGPT assisting with script optimization)
+- Cross-cultural communication and multilingual ability
+- Event planning and integrated marketing thinking
+- Stress resistance and the ability to quickly learn new technologies
+
+**Key growth areas:**
 
 - Retail
 - Trade Shows
@@ -63,65 +99,67 @@ Sales promoters promote products or services to customers in retail, trade shows
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需由西班牙雇主担保，申请工作居留。由于该职业非高技能，难度较大，通常要求雇主证明无法在本地招聘到合适人选。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 不适用，销售推广员不符合高技能专业人才（Ley 14/2013）的学历或薪资门槛（年薪需≥40,000欧元）。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Requires a job offer from a Spanish employer to apply for a work residence permit. As this occupation is not highly skilled, it is more difficult; employers must prove they cannot find suitable candidates locally. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Not applicable; sales promoters do not meet the education or salary threshold for highly skilled professionals (Ley 14/2013) (annual salary ≥ 40,000 euros). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Promoters？**
-- 喜欢与人沟通、有销售热情的人
-- 寻求灵活工作时间和兼职机会的人
-- 希望进入零售或市场营销行业、积累经验的人
+**Who is suited**
+- People who enjoy communicating with others and have a passion for sales
+- People seeking flexible working hours and part-time opportunities
+- People who wish to enter the retail or marketing industry and gain experience
 
-**谁不适合学Sales Promoters？**
-- 对收入稳定性要求高、厌恶绩效压力的人
-- 希望获得高技术移民身份或长期职业发展的人
+**Who is not suited**
+- People who demand high income stability and dislike performance pressure
+- Those seeking high-skilled immigration status or long-term career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for sales promoters?**
+A: Junior salaries range from about 14,000 to 18,000 euros, intermediate salaries from 18,000 to 24,000 euros, and senior or supervisor salaries up to 24,000 to 32,000 euros. Income includes base salary and performance bonuses.
+
+**Q: Can foreigners immigrate to Spain through sales promoter positions?**
+A: It's very difficult. This position is not classified as a high-skilled occupation and cannot apply for the EU Blue Card or the Highly Skilled Professional visa. An employer sponsor is required to apply for ordinary work residence, but the employer must prove that suitable personnel cannot be recruited within the EU.
+
+**Q: What promotion paths are available for sales promoters?**
+A: You can be promoted to senior promoter, sales supervisor, and then transition to brand manager, regional sales manager, or marketing roles. After gaining experience, you can start your own business or become a sales consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sales Promoters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sales promoters?**
-答：Entry-level annual salary ranges from €14,000 to €18,000, mid-level from €18,000 to €24,000, and senior or supervisor level from €24,000 to €32,000. Compensation includes base pay and performance bonuses.
-
-**问：Can foreigners immigrate to Spain as a sales promoter?**
-答：It's very difficult. This occupation is not classified as highly skilled, so the EU Blue Card or Highly Qualified Professional visa (Ley 14/2013) is not applicable. The employer must sponsor a regular work permit, proving that no suitable candidate is available within the EU.
-
-**问：What are the career advancement paths for sales promoters?**
-答：Promotion opportunities include senior promoter, sales supervisor, and then brand manager, regional sales manager, or marketing roles. With experience, one can also start their own business or become a sales consultant.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

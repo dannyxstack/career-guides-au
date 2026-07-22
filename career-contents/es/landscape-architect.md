@@ -1,60 +1,93 @@
-# Landscape Architect（Landscape Architect）职业分析 · ES
+# Landscape Architect — career analysis · Spain
 
-**职业代码：2452 – Landscape Architect。**
+**Occupation code: 2452 (CNO)**
 
-Landscape architects design and plan outdoor spaces such as parks, gardens, urban plazas, and green infrastructure, ensuring environmental sustainability and aesthetic quality.
+Landscape architects are responsible for the design and planning of public and private spaces, including parks, gardens, city squares, and green infrastructure, ensuring environmental sustainability and aesthetic quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学每年学费约1000-2000欧元，私立大学更高。） |
-| 硕士（Máster） | 1-2年 | $2,000~$8,000（公立大学硕士学费约2000-4000欧元/年，私立大学可达8000欧元。） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立职业培训中心免费或仅收少量注册费。） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public universities charge about 1,000-2,000 euros per year, while private universities charge even more.) |
+| Máster | 1-2 years | $2,000~$8,000 (Master's tuition at public universities is about 2,000-4,000 euros per year, while private universities can reach up to 8,000 euros.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,500 (Public vocational training centers are free or charge only a small registration fee.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑或景观设计学士学位 | 西班牙教育部认可的大学 | 必备 | 需完成Grado en Arquitectura或Paisajismo课程。 |
-| 行业协会注册（COAG/COA） | 建筑师协会（Colegio de Arquitectos） | 可选 | 非强制但有助于执业和投标，部分项目要求。 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需认证为同等西班牙学位，过程约6-12个月。 |
+| Bachelor's degree in architecture or landscape design | A university recognized by the Spanish Ministry of Education | Required | Completion of Grado en Arquitectura or Paisajismo courses is required. |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country diplomas must be recognized as equivalent to a Spanish degree, and the process takes about 6-12 months. |
+| Industry Association Registration (COAG/COA) | Architects Association (Colegio de Arquitectos) | Optional | Non-mandatory but helpful for practice and bidding, as required by some projects. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。西班牙对绿色城市和可持续旅游的重视推动了对景观建筑师的需求，特别是在城市更新和沿海开发项目中。公共部门与私营事务所均有招聘，就业前景稳步增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Spain's emphasis on green cities and sustainable tourism has driven demand for landscape architects, especially in urban renewal and coastal development projects. Both the public sector and private firms are hiring, with employment prospects steadily growing.
 
-**竞争度：中等偏高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，中小型事务所或公共部门初级职位。 |
-| 中级（4-7年） | $32,000~$45,000 | 有项目管理经验，大型事务所或高级技术职位。 |
-| 高级（8年以上） | $45,000~$60,000 | 合伙人、项目经理或自由顾问。 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary, entry-level positions in small and medium-sized firms or public sector positions. |
+| Mid-level (4-7 years) | $32,000~$45,000 | Experience in project management, large firms, or senior technical positions. |
+| Senior (8+ years) | $45,000~$60,000 | Partners, project managers, or freelance consultants. |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径通常从初级设计师起步，积累项目经验后晋升为项目经理或合伙人，也可专攻可持续设计或城市生态方向。部分人通过攻读硕士或博士学位进入学术研究领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Career paths typically start as junior designers, and after gaining project experience, they can be promoted to project managers or partners, or specialize in sustainable design or urban ecology. Some enter academic research fields by pursuing master's or doctoral degrees.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Urban green infrastructure
 - Sustainable urbanism
@@ -63,65 +96,64 @@ Landscape architects design and plan outdoor spaces such as parks, gardens, urba
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历专业人士，需工作合同且薪资高于西班牙平均工资1.5倍，快速获得居留权。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 针对高技能专业人士（Ley 14/2013），无需劳工市场测试，流程简化。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 一般受雇工作居留，需雇主担保通过劳工市场测试，适用于非紧缺职业。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated professionals, requiring a work contract and earning a salary 1.5 times the Spanish average wage, allowing quick residency eligibility. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled professionals (Ley 14/2013), no labor market testing is required, and the process is simplified. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | General employed residence, requires employer sponsorship and labor market testing, applicable to non-occupations in demand. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Architect？**
-- 对自然环境与城市设计有浓厚兴趣，具备创造力和审美能力
-- 擅长团队合作与沟通，有项目管理潜力
-- 愿意持续学习新法规与技术，如GIS、BIM等软件
-
-**谁不适合学Landscape Architect？**
-- 偏好重复性工作或不愿接触多变项目
-- 对长时间站立、现场勘查及户外工作不适应
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in natural environments and urban design, with creativity and aesthetic ability
+- Skilled in teamwork and communication, with project management potential
+- Willing to continuously learn new regulations and technologies, such as GIS, BIM, and other software
+
+**Who is not suited**
+- Preferring repetitive work or unwilling to engage in variable projects
+- Not suitable for long periods of standing, site surveys, or outdoor work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for landscape architects in Spain? Is there overtime pay?**
+A: Entry-level salaries are about 24,000-32,000 euros per year, and seniors can reach up to 60,000 euros. There is usually no fixed overtime pay, but some companies pay overtime compensation or flexible time off.
+
+**Q: What steps do third-country landscape architects need to take to immigrate to Spain?**
+A: You first need to complete academic qualification verification (Homologación), then find a job contract and apply for a highly skilled worker visa or EU Blue Card. The certification process takes about 6-12 months.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Landscape Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for landscape architects in Spain? Is overtime paid?**
-答：Entry-level salaries range from €24,000 to €32,000 annually; senior positions can reach €60,000. Overtime pay is not standard, but some firms offer compensation or flex time.
-
-**问：What steps are required for a third-country landscape architect to immigrate to Spain?**
-答：First, obtain homologación (degree recognition), then secure a job offer to apply for a highly qualified professional visa or EU Blue Card. Homologación takes 6-12 months.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

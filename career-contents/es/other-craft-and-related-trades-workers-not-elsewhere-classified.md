@@ -1,60 +1,96 @@
-# Other Craft and Related Trades Workers Not Elsewhere Classified（Other Craft and Related Trades Workers Not Elsewhere Classified）职业分析 · ES
+# Other Craft and Related Trades Workers Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：7899 – Other Craft and Related Trades Workers Not Elsewhere Classified。**
+**Occupation code: 7899 (CNO)**
 
-This occupation covers craft, operative and artisan workers in various trades not classified elsewhere, including small-scale manufacturing, repair, assembly and manual tasks.
+This profession includes craftsmen, operators, and craftsmen not explicitly classified in other categories, including various manual or semi-mechanized tasks such as small-scale manufacturing, repair, and assembly.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基础教育或职业培训（FP Básico） | 2年 | —（公立学校免费或少量注册费） |
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立免费，私立约每年1,500欧元） |
+| Basic Education or Vocational Training (FP Básico) | 2 years | $0~$2,000 (Public schools offer free or a small registration fee) |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$3,000 (Public schools are free, while private ones pay about 1,500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训证书 | 西班牙教育部或自治区 | 可选 | 通常通过FP获得，非强制但有利于就业 |
-| 工作经验 | 雇主或行业协会 | 可选 | 许多岗位认可实际工作经验代替正式证书 |
+| Vocational training certificate | The Spanish Ministry of Education or the autonomous community | Optional | Usually obtained through FP, not mandatory but beneficial for employment |
+| Work experience | Employer or industry association | Optional | Many positions recognize practical work experience in place of formal certificates |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。西班牙该类职业就业前景稳定但增长缓慢，受自动化和进口替代影响，低技能岗位需求下降，但多技能手工艺人在本地市场仍有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Employment prospects for this type of occupation in Spain are stable but grow slowly. Due to automation and import substitution, demand for low-skilled jobs has declined, but multi-skilled artisans remain in demand in the local market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，通常为最低工资或略高 |
-| 中级（3-7年） | $20,000~$26,000 | 税前年薪，视技能和地区而定 |
-| 高级（7年以上） | $26,000~$32,000 | 税前年薪，高级技工或班组长 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, usually the minimum wage or slightly higher |
+| Mid-level (3–7 years) | $20,000~$26,000 | Pre-tax annual salary, depending on skill and region |
+| Senior (7+ years) | $26,000~$32,000 | Pre-tax annual salary, senior technician or team leader |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业发展路径有限，通常从学徒或初级工开始，可晋升为高级技工或班组长，部分人可独立创业或转向相关行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This profession encompasses a large number of manual and semi-mechanized tasks; structural and repetitive jobs are more easily replaced by automation, but customized and restorative jobs still rely on human skills in the short term.
+
+Career development paths are limited, usually starting as apprentices or junior workers, and can be promoted to senior technicians or team leaders; some can start their own businesses or transition to related industries.
+
+**Tasks most exposed to AI:**
+
+- Repetitive manual assembly and sorting
+- Simple welding and cutting
+- Basic woodworking cutting and forming
+- Conventional stone cutting and carving
+- Basic printing and binding operations
+
+**Where AI augments the role:**
+
+- Use AI design software to optimize craft patterns
+- Machine vision is used to assist precision assembly and quality inspection
+- Repair solutions are simulated through digital twins
+- Get assembly and maintenance guidance with AR glasses
+- Reduce equipment failures with predictive maintenance tools
+
+**Human moat:**
+
+- Complex fault diagnosis and repair decisions
+- Customized handicraft techniques for customers
+- Cross-material integration of craftsmanship and creativity
+- Adapting to the on-site environment and solving problems
+- Safety risk assessment and emergency response
+
+**Skills to build:**
+
+- Basic programming and PLC operation
+- Use of CAD/CAM software
+- Basics of additive manufacturing (3D printing).
+- Data analysis and equipment monitoring
+- Digital communication and collaboration tools
+- Lean production and automation management
+
+**Key growth areas:**
 
 - Stable demand
 - Manual skills
@@ -63,65 +99,67 @@ This occupation covers craft, operative and artisan workers in various trades no
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 受雇工作居留，需雇主担保，证明无法在欧盟招聘到合适人选。 |
-| Subclass Busqueda empleo（Job search visa） | 求职签证，允许在西班牙停留6个月寻找工作，需学历或培训背景。 |
+| Subclass Cuenta ajena (Work permit (employed)) | Employed work residence requires employer sponsorship to prove that suitable candidates cannot be recruited in the EU. |
+| Subclass Busqueda empleo (Job search visa) | Job seeker visa, allowing you to stay in Spain for 6 months to look for work, requiring academic or training background. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Craft and Related Trades Workers Not Elsewhere Classified？**
-- 喜欢动手操作、从事多样化手工工作的人
-- 希望快速进入劳动力市场、不需要长期学历的人
-- 愿意学习多种技能并适应不同任务的人
+**Who is suited**
+- People who enjoy hands-on work and engage in diverse handicrafts
+- Those who want to enter the labor market quickly and do not need long-term academic qualifications
+- People willing to learn multiple skills and adapt to different tasks
 
-**谁不适合学Other Craft and Related Trades Workers Not Elsewhere Classified？**
-- 追求高薪和高社会认可度的人
-- 希望从事高度专业化或技术性职业的人
+**Who is not suited**
+- People who pursue high salaries and high social recognition
+- Those who wish to pursue highly specialized or technical careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Salary is relatively low; entry-level approx. EUR 16,000-20,000, senior up to EUR 32,000, influenced by region and industry.
+
+**Q: Is it easy for foreigners to immigrate to Spain through this profession?**
+A: It is more difficult, as this occupation is not in urgent demand, requires employer sponsorship and proof of no EU candidates, and immigration pathways are limited.
+
+**Q: What are the career advancement opportunities?**
+A: You can be promoted to senior technician, team leader, or start your own business through accumulated experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other Craft and Related Trades Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Salaries are relatively low, entry-level around €16,000-20,000, senior up to €32,000, varying by region and sector.
-
-**问：Is it easy for foreigners to immigrate to Spain through this occupation?**
-答：Difficult; it is not a shortage occupation, requires employer sponsorship and proof of no EU candidates, limited migration paths.
-
-**问：What are the promotion opportunities?**
-答：Can advance to senior technician, team leader, or start own business through experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

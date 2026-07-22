@@ -1,60 +1,96 @@
-# Conference and Event Planner（Conference and Event Planner）职业分析 · IE
+# Conference and Event Planner — career analysis · Ireland
 
-**职业代码：3332 – Conference and Event Planner。**
+**Occupation code: 3332 (ISCO08)**
 
-Coordinate and execute conferences, exhibitions, corporate events, and social gatherings, ensuring seamless delivery and client satisfaction.
+Responsible for planning, coordinating, and executing various meetings, exhibitions, corporate events, and social activities, ensuring smooth operation and meeting client needs.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $10,000~$15,000（每年学费，如都柏林理工学院） |
-| 硕士 | 1年（硕士） | $12,000~$20,000（每年学费，如都柏林大学） |
+| Bachelor's degree | 3 years (bachelor's) | $10,000~$15,000 (Annual tuition fees, e.g., Dublin Institute of Technology) |
+| Master's degree | 1 year (Master's) | $12,000~$20,000 (Annual tuition fees, e.g., University College Dublin) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 活动管理专业证书 | Event Management Ireland | 可选 | 非必需，但有助于就业 |
-| 客户服务技能证书 | Quality and Qualifications Ireland | 可选 | 可提升竞争力 |
+| Professional Certificate in Event Management | Event Management Ireland | Optional | Not required, but helpful for employment. |
+| Customer service skills certificate | Quality and Qualifications Ireland | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。爱尔兰活动策划行业随旅游业和商业会议增长而稳步发展，就业机会主要集中在都柏林等城市，疫情后需求复苏明显。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. Ireland's event planning industry is steadily growing with tourism and business conferences, with job opportunities mainly in Dublin and other cities; post-COVID demand recovery is evident.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $42,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从活动协调员晋升为高级策划师、活动经理，或转向专业领域如体育赛事、婚礼策划。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
+
+Can progress from event coordinator to senior planner, event manager, or move into specialised areas such as sports events and wedding planning.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate templated copy such as event invitations and schedules
+- Automatically collect participant information from forms and generate check-in lists
+- Use AI Budget Tools to Automatically Track and Adjust Budget Items
+- Automatically answering common attendee inquiries via chatbots
+- Basic data statistics for automatically generating post-event satisfaction reports
+
+**Where AI augments the role:**
+
+- AI analyzes historical data to recommend optimal event dates, venues, and agendas
+- Using AI tools to monitor social media sentiment in real time and adjust campaign promotion strategies
+- Use AI to quickly generate multiple creative theme proposals for client selection
+- AI-assisted real-time translation and speech recognition enhances multilingual hybrid event experience
+- AI predicting on-site foot traffic and optimizing check-in and booth layout
+
+**Human moat:**
+
+- Complex supplier negotiations and relationship management (involving trust and emotion)
+- Event idea generation and thematic storytelling
+- On-site crisis management (e.g., audio failures, guest delays)
+- Cross-cultural communication and customized services for high-end clients
+- Team leadership and volunteer on-site coordination (non-standardized decisions)
+
+**Skills to build:**
+
+- Advanced operation of hybrid event platforms (e.g., Hopin, Zoom Webinar)
+- Data analysis and visualization (Excel, Tableau, Power BI)
+- AI prompt engineering and automation tools (ChatGPT, Zapier integration)
+- Crisis management and improvisation skills
+- Cross-cultural communication and content creative planning
+- Basic budgeting and project management software (e.g., Asana, Monday.com)
+
+**Key growth areas:**
 
 - conference tourism
 - corporate events
@@ -63,66 +99,65 @@ Coordinate and execute conferences, exhibitions, corporate events, and social ga
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30,000欧元的职位，需广告证明劳动力市场短缺。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用于会议策划师，除非年薪超过60,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过全国平均工资1.5倍的高技能岗位，会议策划师通常不满足。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary not less than 30,000 euros, requiring advertising to prove labor market shortage. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not usually applicable for meeting planners unless annual salary exceeds 60,000 euros. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with salary ≥1.5 times national average; conference planners typically do not qualify. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conference and Event Planner？**
-- 擅长细节管理和多任务协调的人
-- 有创造力和客户服务意识的人
-- 抗压能力强、适应灵活工作时间的求职者
-
-**谁不适合学Conference and Event Planner？**
-- 不喜欢频繁出差和周末工作的人
-- 无法承受高压和紧迫截止日期的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those skilled in detail management and multi-task coordination
+- People with creativity and customer service skills
+- Job seekers with strong stress tolerance and adaptability to flexible working hours
+
+**Who is not suited**
+- People who dislike frequent travel and weekend work
+- Those who cannot handle high pressure and tight deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a conference planner in Ireland?**
+A: Junior positions: approx. €25,000-32,000 annually, mid-level: €35,000-45,000, senior: up to €70,000.
+
+**Q: Can a meeting planner immigrate to Ireland on a work visa?**
+A: Usually requires a general work permit, an annual salary threshold of 30,000 euros, and the employer must prove a local market shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Conference and Event Planner为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for conference planners in Ireland?**
-答：Entry-level salaries range from €25,000 to €32,000, mid-level from €35,000 to €45,000, and senior roles can reach €70,000.
-
-**问：Can conference planners immigrate to Ireland via work visa?**
-答：Generally a General Employment Permit is needed, with a salary threshold of €30,000 and evidence of labor market shortage.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

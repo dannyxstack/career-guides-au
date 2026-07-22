@@ -1,61 +1,97 @@
-# Delivery operatives（Delivery operatives）职业分析 · UK
+# Delivery operatives — career analysis · United Kingdom
 
-**职业代码：9253 – Delivery operatives。**
+**Occupation code: 9253 (SOC)**
 
-Load and unload goods from delivery vehicles, convey furniture and equipment, accompany drivers, and perform elementary goods handling tasks.
+Responsible for loading and unloading goods, moving furniture and items, accompanying drivers, and performing other basic cargo handling tasks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 无需 | —（一般无学历要求，雇主提供在职培训） |
-| 职业资格证书（如物流操作） | 1-3个月 | $200~$800（可选，但有助于晋升） |
+| High school diploma or equivalent | None | $0~$0 (Generally no degree requirements, employers provide on-the-job training) |
+| Vocational qualification certificates (e.g., logistics operations) | 1-3 months. | $200~$800 (Optional, but helpful for promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾照（B类及以上） | DVLA | 可选 | 部分岗位要求驾驶送货车 |
-| 货物搬运安全培训 | 雇主或培训机构 | 可选 | 常在入职时提供 |
-| 叉车操作证 | RTITB/ITSSAR | 可选 | 有助于从事仓库搬运工作 |
+| Driver's license (Class B or above) | DVLA | Optional | Some positions require driving a delivery vehicle |
+| Cargo handling safety training | Employer or training provider | Optional | Often provided upon onboarding |
+| Forklift operation certificate | RTITB/ITSSAR | Optional | Useful for warehouse handling work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 180,000。随着电商和快递行业持续增长，配送操作员需求稳定，但自动化仓储技术可能影响部分岗位。预计未来几年就业机会保持中等水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,000. With the continued growth of e-commerce and express delivery, the demand for delivery operators is stable, but automated warehousing technology may affect some positions. Employment opportunities are expected to remain moderate in the coming years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 起薪通常接近最低工资 |
-| 中级（3-6年） | $22,000~$26,000 | 经验丰富后薪资略有提升 |
-| 高级（6年以上） | $26,000~$30,000 | 含班组长或特种货物操作 |
+| Median salary | $28,749 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Starting salary is often close to minimum wage |
+| Mid-level (3–6 years) | $22,000~$26,000 | Slight salary increase with experience |
+| Senior (6+ years) | $26,000~$30,000 | Including team leader or dangerous goods handling |
+| average salary | $29,220 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 通常从操作员起步，可晋升为高级操作员、车队主管或配送经理。部分人员通过培训转岗至叉车司机或物流协调员。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation will significantly reduce demand for delivery operators, especially basic loading/unloading and sorting tasks, but coordination with drivers and warehouses still requires human input in the short term.
+
+Typically start as an operator, with potential advancement to senior operator, fleet supervisor, or distribution manager. Some transition to forklift driver or logistics coordinator through training.
+
+**Tasks most exposed to AI:**
+
+- Use AI scheduling system to automatically assign loading and unloading tasks
+- replace manual goods sorting with intelligent sorting robots
+- Use autonomous vehicles for long-distance transport, reducing the need for accompanying personnel
+- AI-driven route optimisation replaces manual route planning
+- Automated warehousing systems (e.g., AGVs) replacing manual handling
+
+**Where AI augments the role:**
+
+- Efficiently verifying goods using AI-assisted inventory management systems
+- Improve loading efficiency using augmented reality (AR) navigation prompts.
+- AI anomaly detection tools help quickly identify damaged or misplaced goods
+- Real-time data analysis tools optimize logistics node connections
+- Using digital twin simulation to optimize warehouse layout and improve space utilization
+
+**Human moat:**
+
+- On-site emergency response (e.g., cargo damage, equipment failure)
+- Face-to-face communication and coordination with customers and drivers
+- Precision handling of high-value or fragile items
+- Safety management and compliance oversight (e.g., dangerous goods inspection)
+- Multitasking and adaptability (e.g., changing routes on short notice)
+
+**Skills to build:**
+
+- Basic digital literacy (using warehouse management system WMS)
+- Operate automated equipment (e.g., AGVs, sorting robots)
+- Data entry and analysis (e.g., Excel or lightweight BI tools)
+- Basic customer service skills
+- safety and compliance certificates (e.g., dangerous goods transport)
+- Learn to use AI scheduling software
+
+**Key growth areas:**
 
 - E-commerce growth
 - Last-mile delivery
@@ -64,65 +100,67 @@ Load and unload goods from delivery vehicles, convey furniture and equipment, ac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 一般不适用，因该职业不符合技术移民薪资和技能要求 |
-| Subclass Graduate（Graduate visa） | 可从事该工作，但非长期移民路径 |
+| Subclass Skilled Worker (Skilled Worker visa) | Generally not applicable, as the occupation does not meet skilled migration salary and skill requirements |
+| Subclass Graduate (Graduate visa) | Work is possible, but not a long-term migration pathway |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Delivery operatives？**
-- 体力好、喜欢户外工作的人
-- 不介意重复性劳动、追求稳定就业的人
-- 希望快速入职、无需高学历的人
+**Who is suited**
+- Physically fit and enjoy outdoor work
+- People who don't mind repetitive work and seek stable employment
+- Those seeking quick employment without requiring high education
 
-**谁不适合学Delivery operatives？**
-- 希望高收入或快速晋升的人
-- 不能适应体力劳动或恶劣天气的人
+**Who is not suited**
+- Those seeking high income or rapid promotion
+- Those unable to adapt to physical labor or harsh weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a delivery operator?**
+A: Average annual salary approximately £22,000-£28,000, depending on experience, employer, and location.
+
+**Q: Can this occupation apply for a work visa?**
+A: Generally not possible, as the salary and skill levels do not meet Skilled Worker visa requirements.
+
+**Q: What are the promotion opportunities?**
+A: Can advance to senior operator, fleet supervisor, or logistics manager, or transfer to fork lift driver or warehouse supervisor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Delivery operatives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for delivery operatives?**
-答：Average salary is around £22,000-£28,000 per year, depending on experience, employer, and location.
-
-**问：Can this occupation qualify for a work visa?**
-答：Generally no, as salary and skill level are below Skilled Worker visa requirements.
-
-**问：What are the promotion opportunities?**
-答：Can advance to senior operative, fleet supervisor, or logistics manager, or transfer to forklift driver or warehouse supervisor.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Crane Chaser（Crane Chaser）职业分析 · 澳大利亚
+# Crane Chaser — career analysis · Australia
 
-**职业代码：821911 – Crane Chaser。**
+**Occupation code: 821911 (ANZSCO)**
 
-Crane Chasers direct crane operations on construction, mining, and logistics sites, ensuring safe and efficient lifting. They communicate with crane operators via hand signals, radios, or flags.
+A Crane Chaser is responsible for directing crane operations at construction, mining, and logistics sites to ensure safe and efficient lifting, typically working with crane operators and communicating using hand signals, two-way radios, or signal flags.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期培训 | 2-4周 | $2,000~$5,000（TAFE或私立机构提供的信号员培训课程） |
-| 在职培训 | 3-6个月 | $1,000~$3,000（雇主提供的上岗培训及安全认证） |
+| Short-term training | 2-4 weeks | $2,000~$5,000 (Signal operative training courses offered by TAFE or private institutions) |
+| On-the-job training | 3-6 months | $1,000~$3,000 (Onboarding training and safety certification provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基本技能证书 | SafeWork NSW等州监管机构 | 必备 | 包括工作安全培训（如White Card） |
-| 信号员资格认证 | RTO（注册培训机构） | 必备 | 如Nationally Accredited Crane Signalling Course |
+| Basic skills certificate | State regulators such as SafeWork NSW | Required | Includes work safety training (e.g., White Card) |
+| Signalperson certification | RTO (Registered Training Organisation) | Required | e.g., Nationally Accredited Crane Signalling Course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。随着澳洲基建和矿业持续发展，起重机信号员需求稳定。未来五年就业预计保持增长，尤其在偏远矿业项目和城市高层建筑领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. With the continued development of Australian infrastructure and mining, demand for crane signalers remains stable. Employment is expected to grow over the next five years, especially in remote mining projects and urban high-rise construction.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $55,000~$70,000 | 入门级，通常包含加班费 |
-| 中级（2-5年） | $70,000~$90,000 | 具备一定经验，可处理复杂吊装 |
-| 高级（5年以上） | $90,000~$120,000 | 资深或主管级别，可能涉及培训职责 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $55,000~$70,000 | Entry level, usually includes overtime pay. |
+| Intermediate (2-5 years) | $70,000~$90,000 | With some experience, can handle complex lifting |
+| Senior (5+ years) | $90,000~$120,000 | Senior or supervisory level, may involve training responsibilities |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从信号员晋升至起重机操作员或吊装主管。积累经验后可考取高级操作执照或转向项目管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
+
+Can progress from signalman to crane operator or lifting supervisor. With experience, can obtain advanced operation licenses or move into project management roles.
+
+**Tasks most exposed to AI:**
+
+- AI vision system automatically identifies obstacles around the crane boom and generates path planning
+- Automated load monitoring system adjusts lifting parameters in real-time to maintain balance
+- AI scheduling algorithms optimize task allocation and collision avoidance for multiple cranes.
+- Accident prevention system predicts metal fatigue using sensor data and triggers alarms
+
+**Where AI augments the role:**
+
+- AI-assisted load estimation: cameras and algorithms automatically calculate load weight and center of gravity, reducing human estimation errors
+- AR heads-up display overlays key data such as boom angle and wind speed onto the operator's field of view
+- Remote operation center: operators use VR/haptic feedback gloves to control high-risk scenarios from a safe area
+- Predictive maintenance: AI analyzes historical failure patterns, issuing maintenance reminders 30 days in advance
+
+**Human moat:**
+
+- Immediate judgment and manual correction of on-site anomalies (e.g. sudden strong wind changes, loose foundations)
+- Fine-tuning feel and experience intuition when lifting complex shaped components
+- Non-standard communication and collaboration with ground commanders and structural engineers
+- Assume legal responsibility for lifting accidents and final decision on safety regulations
+
+**Skills to build:**
+
+- Operate AI-based scheduling and monitoring software for cranes
+- Basic data analysis: interpreting equipment sensor logs and AI alert reports
+- Using and troubleshooting AR/VR remote operation platforms
+- Programming parameter settings and calibration for automatic lifting systems
+- Mobile digital repair manual and instant drawing app
+- Use of cross-trade digital collaboration platforms (e.g., BIM 360)
+
+**Key growth areas:**
 
 - Infrastructure Boom
 - Mining Investment
@@ -63,65 +96,67 @@ Crane Chasers direct crane operations on construction, mining, and logistics sit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保且职业在CSOL上，但Crane Chaser通常不在技术职业清单中，仅适用于特定DAMA协议 |
-| Subclass DAMA（Designated Area Migration Agreement） | 部分偏远地区DAMA可能涵盖该职业，允许雇主担保，但路径有限 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship and occupation on CSOL, but Crane Chaser is usually not on the skilled occupation list, only applicable under specific DAMA agreements |
+| Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA agreements may cover this occupation, allowing employer sponsorship, but pathways are limited. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crane Chaser？**
-- 喜欢户外体力工作，注重安全
-- 具备良好沟通和团队协作能力
-- 愿意在建筑或矿业现场工作
+**Who is suited**
+- Enjoys outdoor physical work, safety-conscious
+- Good communication and teamwork skills required.
+- Willing to work on construction or mining sites
 
-**谁不适合学Crane Chaser？**
-- 不愿意在恶劣天气或高空环境中工作
-- 对体能要求高且不适应轮班制
+**Who is not suited**
+- Unwilling to work in bad weather or at heights
+- High physical demands and not suitable for shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a crane signaler?**
+A: Junior annual salary approximately A$55,000-70,000, intermediate A$70,000-90,000, senior A$90,000-120,000, may be higher in remote mining projects.
+
+**Q: Can a crane signalman immigrate to Australia?**
+A: This occupation is usually not on the regular skilled migration list, only covered by a few DAMA agreements, with very limited migration pathways.
+
+**Q: How to become a crane signaler?**
+A: Requires completing training courses and obtaining relevant safety certificates (e.g., White Card and signaler qualification), typically offered by TAFE or private training providers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★★） |
-
-Crane Chaser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Crane Chaser?**
-答：Entry-level: AUD 55,000-70,000; mid-level: AUD 70,000-90,000; senior: AUD 90,000-120,000. Remote mining projects may pay more.
-
-**问：Can a Crane Chaser migrate to Australia?**
-答：This occupation is generally not on the skilled occupation list; only a few DAMAs may include it, making migration very difficult.
-
-**问：How to become a Crane Chaser?**
-答：Complete training courses and obtain safety certifications such as White Card and crane signalling qualification from TAFE or private providers.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

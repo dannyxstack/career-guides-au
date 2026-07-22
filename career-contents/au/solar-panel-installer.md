@@ -1,69 +1,97 @@
-# 太阳能安装工（Solar Panel Installer）职业分析 · 澳大利亚
+# Solar Panel Installer — career analysis · Australia
 
-**职业代码：342113 – Solar Panel Installer。**
+**Occupation code: 342113 (ANZSCO)**
 
-太阳能安装工（Solar PV Installer）负责住宅和商业屋顶光伏系统的安装、接线和调试。澳大利亚是全球人均太阳能安装量最高的国家，联邦政府清洁能源目标（2030年82%可再生）带动持续强劲的装机需求，持证安装工供不应求。
+A solar PV installer installs, wires, and commissions residential and commercial rooftop photovoltaic systems. Australia has the highest per-capita solar installation rate in the world, and the federal government's clean energy target (82% renewables by 2030) is driving consistently strong installation demand, with a shortage of licensed installers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Electrotechnology Electrician + Solar PV | 42~48个月（学徒） | —（电工学徒路径；工具费约$1,000~$2,000） |
-| Grid-Connect PV Design & Install (GSES短课程) | 3~5天 | $1,500~$3,000（已持证电工转型路径；CEC认可） |
-| Clean Energy Council (CEC) 太阳能安装工认证 | 1~3个月（线上+考试） | $500~$1,500（CEC认证费；澳洲STC补贴强制要求） |
-| Battery Storage Accreditation（储能附加证） | 1~2天 | $300~$800（VIC/QLD补贴强制） |
+| Certificate III in Electrotechnology Electrician + Solar PV | 42–48 months (apprenticeship) | $0~$3,000 (Electrical apprenticeship pathway; tool costs approximately $1,000–$2,000) |
+| Grid-Connect PV Design & Install (GSES short course) | 3–5 days | $1,500~$3,000 (Transition pathway for licensed electricians; CEC accredited) |
+| Clean Energy Council (CEC) solar installer accreditation | 1–3 months (online + exam) | $500~$1,500 (CEC certification fee; mandatory under Australia's STC rebate scheme) |
+| Battery Storage Accreditation | 1–2 days | $300~$800 (VIC/QLD subsidised and mandatory) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Electrical Licence (A Grade) | 各州电气监管机构 | 必备 | 太阳能接线强制要求 |
-| CEC Solar PV Installer Accreditation | Clean Energy Council | 必备 | 澳洲STC补贴强制要求 |
-| CEC Battery Storage Accreditation | Clean Energy Council | 可选 | 储能方向必备 |
-| Working at Heights | 各州 | 必备 | 屋顶作业必备 |
+| Electrical Licence (A Grade) | State electrical regulators | Required | Solar wiring is a mandatory requirement |
+| CEC Solar PV Installer Accreditation | Clean Energy Council | Required | Mandatory STC subsidy requirements in Australia |
+| Working at Heights | All states | Required | Essential for roof work |
+| CEC Battery Storage Accreditation | Clean Energy Council | Optional | Essential for energy storage specialisation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 30,000。联邦「可再生能源目标」（2030年82%）和家庭电池补贴大幅推动装机量。各州政府屋顶光伏补贴（VIC/QLD/SA）维持旺盛需求。Seek太阳能职位挂牌量2025年同比增长35%。
+**Job demand: very high (★★★★★).** National workforce approx. 30,000. The federal Renewable Energy Target (82% by 2030) and household battery subsidies have significantly boosted installations. State government rooftop solar rebates (VIC/QLD/SA) sustain strong demand. Seek solar job listings grew 35% year-on-year in 2025.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~1,200 个 | 全国，住宅和商业均有 |
-| Indeed | 300~700 个 | 含储能方向 |
-| LinkedIn | 150~400 个 | 偏C&I和大型项目 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级安装工（0~2年） | $60,000~$80,000 | 住宅屋顶太阳能 |
-| 中级安装工（2~5年） | $80,000~$105,000 | Seek均值约$38~$50/hr（2026） |
-| 资深 / C&I项目（5年+） | $100,000~$135,000 | 商业工业项目+储能溢价 |
-| 太阳能技术主管 / 项目经理 | $120,000~$160,000 | 大型公用事业项目 |
+| Median salary | $109,200 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Installer (0–2 years) | $60,000~$80,000 | Residential rooftop solar |
+| Mid-level Installer (2–5 years) | $80,000~$105,000 | Seek average approx. $38–$50/hr (2026) |
+| Senior / C&I projects (5+ years) | $100,000~$135,000 | Commercial and industrial projects plus battery storage premium |
+| Solar Technology Supervisor / Project Manager | $120,000~$160,000 | Large utility projects |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 太阳能+储能（Solar+Battery）组合安装成为主流，要求双证（太阳能+储能）技术员。商业和工业大型项目（C&I Solar）快速增长，薪资高于住宅方向。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Solar installers face mixed AI impact: design optimization and customer communication are enhanced by AI, but core tasks like on-site installation, wiring, and commissioning are hard to automate due to physical and regulatory requirements.
+
+Solar-plus-battery combination installations are becoming mainstream, requiring dual-certified (solar + battery storage) technicians. Commercial and industrial large-scale projects (C&I Solar) are growing rapidly, with salaries higher than the residential sector.
+
+**Tasks most exposed to AI:**
+
+- Using AI to automatically generate rooftop solar layout designs and tilt optimization
+- Handle customer inquiries and preliminary quotes via AI chatbots
+- Use AI to predict weather and power generation, plan installation schedules
+- Automatically generating acceptance reports and compliance documents
+
+**Where AI augments the role:**
+
+- AI-driven drones for rapid roof structure survey and shading analysis, improving pre-installation assessment efficiency
+- AI-assisted real-time detection of electrical wiring errors to improve safety and first-pass yield
+- AI tools providing personalized training (e.g., AR simulation for wiring), accelerating novice learning
+- AI-Optimized Inventory Management and Logistics Scheduling to Reduce Material Wait Times
+
+**Human moat:**
+
+- Manual handling and positioning of solar panels on roofs (fine physical labor)
+- On-site electrical wiring and fault troubleshooting (requires hands-on skills and experience)
+- Face-to-face client communication, persuasion, and customized solutions (interpersonal trust)
+- Compliance judgment and safe operation in accordance with Australian electrical regulations (AS/NZS 3000)
+- Safety supervision and emergency response for high-altitude work
+
+**Skills to build:**
+
+- Operation of photovoltaic design software (such as Helioscope, PVsyst)
+- Basics of drone operation and image analysis
+- Updated knowledge of electrical safety and compliance (AS/NZS 3000)
+- Basic data analysis (power generation forecasting, system monitoring)
+- Client communication and project management (using online tools)
+- AR/VR assisted maintenance skills
+
+**Key growth areas:**
 
 - Residential Rooftop Solar
 - Commercial & Industrial Solar
@@ -72,79 +100,75 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
+| Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学太阳能安装工？**
-- 已持澳洲电工执照（A Grade），目标快速转型可再生能源
-- 有光伏安装或电气施工背景，目标技能移民来澳
-- 追求增长型行业，愿意随技术升级持续学习（储能/V2G）
-
-**谁不适合学太阳能安装工？**
-- 恐高或不适应屋顶作业（夏季高温）
-- 没有电工执照且不愿意完成4年学徒
-- 期望完全稳定规律的室内工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds an Australian electrical licence (A Grade) and aiming to transition quickly into renewable energy
+- Background in solar PV installation or electrical construction, aiming to migrate to Australia through skilled migration
+- Seeking a growth industry and willing to continuously upskill as technology evolves (battery storage / V2G)
+
+**Who is not suited**
+- Fear of heights or discomfort working on rooftops (especially in summer heat)
+- No electrical licence and unwilling to complete a 4-year apprenticeship
+- Expects a completely stable and regular indoor work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a solar installer in Australia?**
+A: Mid-level installers earn approximately $80,000–$105,000 per year (approx. $38–$50/hr). Senior commercial and industrial installers can earn $100,000–$135,000.
+
+**Q: Is it easy to find work as a solar installer in Australia?**
+A: Very easy. Driven by clean energy targets, Seek lists 600–1,200 positions with 35%+ year-on-year growth; CEC certificate holders secure roles quickly.
+
+**Q: Is domestic solar installation experience recognised in Australia?**
+A: Not directly recognised. You must first obtain an Australian electrical licence (or TRA assessment), then complete CEC solar installer accreditation.
+
+**Q: Will solar installers be replaced by robots?**
+A: Extremely low. Roof installation, wiring and system commissioning are hands-on on-site tasks with no mature automation solutions available.
+
+**Q: Can you do solar panel installation without an electrician's licence?**
+A: Not recommended. Australian regulations require solar system electrical connections by licensed electricians. Without license, complete 4-year apprenticeship then CEC certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 342113 数据 |
-| Clean Energy Council | CEC太阳能安装工认证 |
-| Seek AU | Solar Installer 薪资及挂牌量（2026） |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-太阳能安装工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲太阳能安装工工资多少？**
-答：中级安装工年薪约 $80,000~$105,000（约$38~$50/hr）。商业工业方向资深安装工可达 $100,000~$135,000。
-
-**问：澳洲太阳能安装工容易找工作吗？**
-答：非常容易。清洁能源目标驱动，Seek挂牌600~1,200个职位，同比增长35%+，持CEC证者快速入职。
-
-**问：国内光伏安装经验澳洲认可吗？**
-答：不直接认可。需先获取澳洲电气执照（或TRA评估），再通过CEC太阳能安装工认证。
-
-**问：太阳能安装工会被机器人替代吗？**
-答：极低。屋顶安装、接线和系统调试是现场手工操作，无成熟自动化方案。
-
-**问：没有电工证可以做太阳能安装吗？**
-答：不建议。澳洲法规要求太阳能系统的电气接线必须由持证电工完成。没有电工证需先完成4年学徒取证，再考CEC认证。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

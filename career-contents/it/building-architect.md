@@ -1,59 +1,92 @@
-# Building Architect（Building Architect）职业分析 · IT
+# Building Architect — career analysis · Italy
 
-**职业代码：2161 – Building Architect。**
+**Occupation code: 2161 (ISCO08)**
 
-Building architects design architectural projects, ensuring functionality, safety, and aesthetics, while coordinating construction processes.
+Architectural designers are responsible for designing building plans, ensuring functionality, safety, and aesthetic value, and coordinating the construction process.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 5年（本硕连读） | $1,000~$4,000（公立大学学费因收入而异） |
-| 硕士 | 2年 | $1,500~$6,000（部分大学提供专业硕士） |
+| Bachelor's degree | 5 years (integrated bachelor's and master's) | $1,000~$4,000 (Public university tuition fees vary by income) |
+| Master's degree | 2 years | $1,500~$6,000 (Some universities offer professional master's degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑师执业资格（Esame di Stato） | 意大利教育部 | 必备 | 通过国家考试后注册 |
-| 注册建筑师（Ordine degli Architetti） | 建筑师协会 | 必备 | 执业必需 |
-| 硕士学历（Laurea Magistrale） | 大学 | 必备 | 建筑学硕士为基本要求 |
+| Architect Licensure (Esame di Stato) | Italian Ministry of Education | Required | Register after passing national exams |
+| Registered Architect (Ordine degli Architetti) | Architects' association | Required | Mandatory for practice |
+| Master's degree (Laurea Magistrale) | University | Required | Master of Architecture is a basic requirement. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。意大利建筑行业在可持续建筑和翻新领域需求稳定，绿色建筑和节能改造成为增长点。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. Italy's construction industry has stable demand in sustainable building and renovation, with green building and energy-efficient retrofitting as growth areas.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，视公司规模 |
-| 中级（4-7年） | $35,000~$50,000 | 税前年薪，含项目奖金 |
-| 高级（8年以上） | $50,000~$75,000 | 税前年薪，合伙人级别更高 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salary, depending on company size |
+| Mid-level (4-7 years) | $35,000~$50,000 | Pre-tax annual salary, including project bonuses |
+| Senior (8+ years) | $50,000~$75,000 | Annual pre-tax salary, partner level is higher |
+| average salary | $45,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业路径从初级设计师到项目经理、首席建筑师，可通过积累经验与获得认证晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
+
+Career path from junior designer to project manager, chief architect, can advance through experience and certification.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary concept sketches
+- Construction drawings and standardized documentation
+- Standard inspection and clash detection
+- Engineering quantity estimation and preliminary cost calculation
+
+**Where AI augments the role:**
+
+- Solution iteration and parametric design optimization
+- Structural/Energy Simulation and Performance Analysis
+- Automated compliance review and report generation
+- Client needs analysis and design recommendations
+
+**Human moat:**
+
+- Creative ideation and aesthetic judgment
+- Cross-disciplinary coordination and multi-party communication
+- Regulation interpretation and role responsibility
+- On-site problem-solving and design adjustments
+
+**Skills to build:**
+
+- Advanced BIM modeling and collaboration (Revit, ArchiCAD)
+- Parametric Design (Grasshopper, Dynamo)
+- Sustainable design analysis (energy simulation, daylight analysis)
+- AI design tools (e.g., Midjourney, DALL-E for concept design)
+- Project Management and Contract Management
+- Customer Relationship and Negotiation Skills
+
+**Key growth areas:**
 
 - Green Building
 - Sustainable Design
@@ -62,65 +95,64 @@ Building architects design architectural projects, ensuring functionality, safet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 高技能工人，需工作合同及学历，年薪不低于€24,789 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟国家，需雇主担保，配额限制 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可，由雇主申请，需满足当地劳动力市场测试 |
+| Subclass EU Blue Card (EU Blue Card) | High-skilled workers, requiring work contract and qualifications, with annual salary not less than €24,789 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU countries, requires employer sponsorship, quota restrictions |
+| Subclass Nulla Osta (Nulla Osta) | Work permit, applied for by the employer, subject to the local labour market test |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Architect？**
-- 有创意且注重细节
-- 具备工程与艺术双重思维
-- 喜欢团队合作与沟通
-
-**谁不适合学Building Architect？**
-- 不喜欢严格规范与流程
-- 抗压能力弱
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and detail-oriented
+- Possessing a dual mindset of engineering and art
+- Enjoys teamwork and communication
+
+**Who is not suited**
+- Dislikes strict rules and processes
+- Low stress tolerance
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian architect?**
+A: Entry-level approximately €25,000-35,000, mid-level €35,000-50,000, senior €50,000-75,000.
+
+**Q: How can non-EU architects obtain an Italian work visa?**
+A: Must obtain a contract from an employer and apply for an EU Blue Card or a Decreto Flussi quota work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Architect的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an architect in Italy?**
-答：Entry-level around €25,000-35,000, mid-level €35,000-50,000, senior €50,000-75,000.
-
-**问：How can non-EU architects get a work visa for Italy?**
-答：You need a job offer and apply for the EU Blue Card or Decreto Flussi work visa.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

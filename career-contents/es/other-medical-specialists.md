@@ -1,61 +1,94 @@
-# Other Medical Specialists（Other Medical Specialists）职业分析 · ES
+# Other Medical Specialists — career analysis · Spain
 
-**职业代码：2112 – Other Medical Specialists。**
+**Occupation code: 2112 (CNO)**
 
-Other medical specialists include cardiologists, gastroenterologists, neurologists, and similar non-surgical specialists who diagnose and treat diseases of specific organ systems. They work in public and private hospitals in Spain, requiring residency training and board certification.
+Other medical specialists include non-surgical specialists in cardiology, gastroenterology, neurology, and other fields, responsible for diagnosing and treating diseases of specific systems. Working in both public and private hospitals in Spain requires completion of residency training and specialist certification.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学学士（Grado en Medicina） | 6年 | $1,000~$15,000（公立大学年学费约1000-2000欧元，私立可达15000欧元。） |
-| 住院医师培训（MIR） | 4-5年 | —（MIR期间为带薪工作，无需学费，年收入约18000-25000欧元。） |
+| Bachelor of Medicine (Grado en Medicina) | 6 years | $1,000~$15,000 (Annual tuition at public universities is about 1,000-2,000 euros, while private tuition can reach up to 15,000 euros.) |
+| Residency Training (MIR) | 4-5 years | $0~$0 (During MIR, you work for a pay without tuition fees, with an annual income of about 18,000–25,000 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（Grado en Medicina） | 西班牙大学 | 必备 | 完成6年医学本科，需通过MIR考试进入专科培训。 |
-| MIR结业及专科认证 | 卫生部和各专科委员会 | 必备 | 通过MIR考试并完成住院医师培训后获得专科医生资格。 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟医学学历需进行官方认证，流程复杂，需1-3年。 |
+| Degree in Medicine (Grado en Medicina) | Spanish University | Required | After completing a 6-year medical undergraduate program, you must pass the MIR exam to enter specialist training. |
+| MIR completion and specialist certification | The Ministry of Health and the specialized committees | Required | Obtain specialist qualification after passing the MIR exam and completing residency training. |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU medical degrees require official certification, a complex process, and may take 1-3 years. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。西班牙人口老龄化和慢性病增加推动专科医生需求持续增长。公立系统招聘稳定，但竞争集中在热门城市和大医院。偏远地区岗位更容易获得，且薪资有额外补贴。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Spain's aging population and rising chronic diseases are driving the continued growth in demand for specialists. Public system recruitment is stable, but competition is concentrated in popular cities and large hospitals. Positions in remote areas are easier to obtain and come with additional salary subsidies.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $35,000~$45,000 | 公立医院初级专科医生税前年薪。 |
-| 中级（5-15年） | $55,000~$75,000 | 含夜班、急诊补贴，私立医院更高。 |
-| 高级（15年以上/科室主任） | $90,000~$130,000 | 含管理津贴和私立执业收入。 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $35,000~$45,000 | Pre-tax annual salary for junior specialist doctors in public hospitals. |
+| Intermediate (5-15 years) | $55,000~$75,000 | Including night shift and emergency subsidies, private hospitals offer higher rates. |
+| Senior (over 15 years / Department Director) | $90,000~$130,000 | Including management allowances and private practice income. |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 晋升路径为住院医师（MIR）完成后成为专科医生，之后可升任科室主任（Jefe de Servicio）或医院管理职位。部分医生转向科研或私人诊所执业，收入更高。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's rapid improvement in imaging diagnosis, report generation, and data analysis will compress the employment opportunities for non-surgical specialists, especially the risk of replacing routine image interpretation and standardized diagnostic tasks.
+
+The promotion path is to become a specialist after completing the residency (MIR), and then advance to department head (Jefe de Servicio) or hospital management positions. Some doctors have shifted to research or private practice with higher incomes.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation of routine ECG, EEG, and other imaging
+- Writing standardized clinical reports (such as echocardiography).
+- Analysis of population health trends based on big data
+- Drug dosage calculation and cross-examination
+
+**Where AI augments the role:**
+
+- AI-assisted high-precision image analysis (such as cardiac MRI segmentation)
+- Real-time clinical decision support systems provide rare disease differential diagnosis
+- Automatically tracks patients' long-term health indicators and generates personalized treatment recommendations
+- Surgical planning simulation and prognosis prediction
+
+**Human moat:**
+
+- Complex clinical reasoning and integrated diagnosis of multi-system diseases
+- Doctor-patient communication, empathy, and establishment of long-term care relationships
+- Fine manual skills in interventional procedures (such as cardiac catheterization).
+- Ethical decision-making and medical responsibility
+
+**Skills to build:**
+
+- Operation and validation of AI image analysis tools (such as CAD systems).
+- Fundamentals of Statistical Machine Learning (Python/R)
+- Advanced applications of clinical data management and electronic health records
+- AI ethics and medical regulations
+- Multidisciplinary collaboration and communication skills
+- Continuously learning meta-skills for new technologies
+
+**Key growth areas:**
 
 - aging population
 - chronic disease management
@@ -64,69 +97,68 @@ Other medical specialists include cardiologists, gastroenterologists, neurologis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（High-Skilled Professional Visa (Ley 14/2013)） | 适用于有工作合同的高技能专业人士，需学历认证和西班牙公司担保。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通受雇工作居留，需劳工市场测试，但医生属于紧缺职业，可简化流程。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，适用于高学历人才。 |
+| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals with employment contracts, requiring academic credentials and a Spanish company guarantee. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary employed work residency requires labor market testing, but doctors are in high demand and can simplify the process. |
+| Subclass Busqueda empleo (Job Search Visa) | Allows for a 6-month stay in Spain to look for work, applicable to highly educated talents. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Medical Specialists？**
-- 热爱医学且愿意长期投入学习的人
-- 希望在稳定医疗体系内工作并服务公共健康的人
-- 愿意在西班牙偏远地区工作以换取更容易入职机会的人
-
-**谁不适合学Other Medical Specialists？**
-- 无法承受高强度学习和工作压力的人
-- 不愿接受西班牙语工作环境和学历认证繁琐流程的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love medicine and are willing to dedicate themselves to learning over the long term
+- People who wish to work within a stable healthcare system and serve public health
+- People willing to work in remote areas of Spain in exchange for easier job opportunities
+
+**Who is not suited**
+- People who cannot withstand intense study and work pressure
+- Those unwilling to work in a Spanish-speaking environment or go through a cumbersome qualification recognition process.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for specialist doctors in Spain?**
+A: Entry-level specialist doctor pre-tax annual salary approximately €35,000-45,000, mid-level €55,000-75,000, senior up to €90,000-130,000. Private hospitals and overtime allowances can be higher.
+
+**Q: How can non-EU doctors immigrate to Spain?**
+A: You must first pass the academic qualification certification (Homologación), then pass the MIR exam or apply for a highly skilled worker visa by signing a work contract directly with the hospital. Short-demand jobs can simplify processes, but language and certification remain key challenges.
+
+**Q: Is a Chinese medical degree recognized in Spain?**
+A: You need to apply for official certification (Homologación) from the Spanish Ministry of Education, a complex process that takes 1-3 years. After certification, you must also pass the MIR exam to obtain specialist training qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常长（★★★★½） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other Medical Specialists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for medical specialists in Spain?**
-答：Entry-level specialists earn €35,000-€45,000 gross annually; mid-level €55,000-€75,000; senior level €90,000-€130,000. Private practice and overtime increase earnings.
-
-**问：How can non-EU doctors immigrate to Spain?**
-答：You need to complete degree homologation, pass the MIR exam or secure a hospital employment contract, then apply for a high-skilled visa. Shortage occupation may simplify process, but language and credential evaluation are key hurdles.
-
-**问：Is a Chinese medical degree recognized in Spain?**
-答：You must apply for official homologation with the Spanish Ministry of Education, a lengthy process (1-3 years). After that, you must pass the MIR exam to access specialty training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

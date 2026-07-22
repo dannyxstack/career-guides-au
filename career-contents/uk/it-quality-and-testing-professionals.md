@@ -1,58 +1,93 @@
-# IT quality and testing professionals（IT quality and testing professionals）职业分析 · UK
+# IT quality and testing professionals — career analysis · United Kingdom
 
-**职业代码：2136 – IT quality and testing professionals。**
+**Occupation code: 2136 (SOC)**
 
-Test the quality of IT software, systems and computer games, identify problems and recommend solutions.
+Responsible for testing the quality of IT software, systems, and computer games, identifying issues and suggesting improvements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$18,000（英国本科学费，国际生更高） |
-| 硕士 | 1年 | $12,000~$25,000（相关硕士学费，国际生更高） |
+| Bachelor's degree | 3 years | $9,000~$18,000 (UK undergraduate tuition fees, higher for international students) |
+| Master's degree | 1 year | $12,000~$25,000 (Related master's tuition fees are higher for international students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ISTQB认证 | ISTQB | 可选 | 国际软件测试资格认证，行业认可 |
-| 计算机科学学位 | 大学 | 可选 | 相关本科学位，常见要求 |
+| ISTQB certification | ISTQB | Optional | International software testing certification, industry recognized |
+| Computer science degree | University | Optional | Relevant bachelor's degree, common requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 45,000。英国数字化转型加速，软件质量需求持续增长，预计未来5年岗位增长15%，尤其金融科技和游戏行业。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. The UK's digital transformation is accelerating, with demand for software quality continuing to grow. Jobs are expected to increase by 15% in the next five years, especially in fintech and gaming.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 伦敦地区较高 |
-| 中级（3-7年） | $35,000~$55,000 | 自动化测试技能提升薪资 |
-| 高级（7年以上） | $55,000~$80,000 | 测试经理或架构师水平 |
+| Median salary | $47,118 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Higher in London area |
+| Mid-level (3–7 years) | $35,000~$55,000 | Automation testing skills increase salary |
+| Senior (7+ years) | $55,000~$80,000 | Test manager or architect level |
+| average salary | $48,610 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 从初级测试员可晋升为高级测试分析师、测试经理，或转向自动化测试、DevOps工程师等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly reduce traditional manual testing roles for IT quality and testing professionals. Automated testing tools and AI-generated test cases will replace most repetitive testing tasks, but advanced analysis and strategic testing planning roles will remain human-led.
+
+Can progress from junior tester to senior test analyst, test manager, or transition to automation testing, DevOps engineer, etc.
+
+**Tasks most exposed to AI:**
+
+- Write and execute repetitive manual test cases
+- Fully manual execution of regression testing
+- Basic defect reporting and verification
+- Simple manual operation for performance load testing
+
+**Where AI augments the role:**
+
+- Generate test cases and test data using AI
+- Using AI to analyze test results and predict defects
+- Optimise test automation script maintenance through AI.
+- Combine AI for intelligent defect classification and prioritization
+- Using AI-driven tools for visual testing and UI validation
+
+**Human moat:**
+
+- Test strategy design for complex business scenarios
+- In-depth testing of non-functional requirements (e.g., security, usability)
+- Test planning for cross-team collaboration with development, product, etc.
+- Quality assessment of emerging technologies (e.g., AI itself)
+- Test process improvement and metric system establishment
+
+**Skills to build:**
+
+- Automated testing frameworks like Selenium and Cypress
+- Proficiency in Python or Java programming
+- CI/CD pipeline integration and DevOps practices
+- AI/ML fundamentals and use of AI testing tools (e.g., Testim, Applitools)
+- Performance testing tools (JMeter, LoadRunner)
+- Data analysis and visualization skills
+
+**Key growth areas:**
 
 - Software Testing
 - Automation
@@ -61,65 +96,64 @@ Test the quality of IT software, systems and computer games, identify problems a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 主要工作签证，需雇主担保，符合技术工人薪资要求 |
-| Subclass Scale-up（Scale-up visa） | 适合高增长公司，需年薪至少33,000英镑 |
-| Subclass Graduate（Graduate visa） | 毕业生工作签证，允许在英工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Main work visa requiring employer sponsorship, meeting skilled worker salary requirements. |
+| Subclass Scale-up (Scale-up visa) | Suitable for high-growth companies, requires annual salary of at least £33,000 |
+| Subclass Graduate (Graduate visa) | Graduate work visa, allows working in the UK for 2 years (3 years for PhD) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT quality and testing professionals？**
-- 注重细节，有耐心
-- 喜欢逻辑分析和问题解决
-- 对软件质量有热情
-
-**谁不适合学IT quality and testing professionals？**
-- 不擅长重复性工作
-- 缺乏沟通能力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient
+- Enjoys logical analysis and problem-solving
+- Passionate about software quality
+
+**Who is not suited**
+- Not good at repetitive tasks
+- Lack of communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for IT testers?**
+A: Entry-level about £25,000-35,000, mid-level £35,000-55,000, senior up to £80,000.
+
+**Q: What are the immigration pathways for IT testers?**
+A: Main route is the Skilled Worker visa, requiring employer sponsorship. Scale-up visa suits high-growth companies. Graduates can apply for the Graduate visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-IT quality and testing professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for IT testers?**
-答：Entry-level around £25,000-£35,000, mid-level £35,000-£55,000, senior up to £80,000.
-
-**问：What migration routes are available for IT testers?**
-答：Main route is Skilled Worker visa with employer sponsorship. Scale-up visa for high-growth companies. Graduates can use Graduate visa.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

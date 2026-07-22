@@ -1,60 +1,94 @@
-# Orthotist or Prosthetist（Orthotist or Prosthetist）职业分析 · 新西兰
+# Orthotist or Prosthetist — career analysis · New Zealand
 
-**职业代码：251912 – Orthotist or Prosthetist。**
+**Occupation code: 251912 (ANZSCO)**
 
-Orthotists or Prosthetists design, fabricate, and fit orthoses or prostheses to help patients regain function. This occupation is on New Zealand's Green List Tier 1, eligible for direct residence, with steady demand.
+Orthotists or prosthetists design, manufacture, and fit orthoses or prostheses to help patients restore function. This occupation is on New Zealand's Green List Tier 1, eligible for direct residence application, with stable employment demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $30,000~$40,000（国际学生学费，本地学生约1.2万NZD/年） |
-| 硕士 | 1-2年 | $40,000~$50,000（部分院校提供研究生文凭或硕士课程，学费较高） |
+| Bachelor's degree | 4 years | $30,000~$40,000 (International student fees, domestic students about NZD 12,000/year) |
+| Master's degree | 1-2 years | $40,000~$50,000 (Some institutions offer postgraduate diplomas or master's programs, with higher tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矫形器/假肢学学士学位 | 奥克兰理工大学或奥塔哥大学 | 必备 | 新西兰仅两所大学提供认证课程 |
-| 新西兰矫形器和假肢委员会注册 | 新西兰矫形器与假肢委员会 | 必备 | 执业必需 |
-| APC (年度执业证书) | 新西兰矫形器与假肢委员会 | 必备 | 每年更新，证明持续专业发展 |
-| 雅思学术类总分7.0 | 雅思考试 | 必备 | 注册要求，单项不低于6.5 |
+| Bachelor's degree in Orthotics/Prosthetics | Auckland University of Technology or University of Otago | Required | Only two universities in New Zealand offer accredited courses |
+| Registration with the New Zealand Orthotist and Prosthetist Board | Orthotics and Prosthetics Council of New Zealand. | Required | Mandatory for practice |
+| APC (Annual Practicing Certificate) | Orthotics and Prosthetics Council of New Zealand. | Required | Updated annually to demonstrate continuing professional development |
+| IELTS Academic overall band 7.0 | IELTS test | Required | Registration requirement, no band below 6.5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 300。新西兰老龄化人口和慢性病（如糖尿病）导致对矫形器师和假肢师的需求持续增长。医院、康复中心和私人诊所均有招聘，尤其在奥克兰和基督城等城市。未来5年就业增长稳健。
+**Job demand: high (★★★★☆).** National workforce approx. 300. Growing demand for orthotists and prosthetists in New Zealand due to an aging population and chronic diseases (e.g., diabetes). Jobs are available in hospitals, rehabilitation centers, and private clinics, especially in cities like Auckland and Christchurch. Stable employment growth over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 刚毕业或实习阶段 |
-| 中级（3-8年） | $75,000~$95,000 | 有经验且可能已获得更高资格 |
-| 高级（8年以上） | $95,000~$120,000 | 高级技师、团队领导或私人执业 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$75,000 | Fresh graduates or in internship stage |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced and may have obtained higher qualifications |
+| Senior (8+ years) | $95,000~$120,000 | Senior technician, team leader, or private practice. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级矫形器师或假肢师可积累经验后晋升为高级技师或团队领导，也可专攻特定领域（如儿童假肢或运动矫形）。部分从业者转向销售或管理岗位，或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
+
+Junior orthotists or prosthetists can gain experience and advance to senior technician or team leader roles, or specialize in areas like pediatric prosthetics or sports orthotics. Some move into sales or management, or open private practices.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate initial design drafts for standard orthoses/prostheses.
+- Automatically parse 3D scan data and output preliminary measurement reports
+- Automatically manages patient records, insurance coding, and document organisation
+- Handle routine inquiries and appointment scheduling via chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of dynamic prosthetic fitting parameters to improve comfort and functionality
+- Using machine learning to analyze gait data to assist in personalized adjustment plans
+- Combined with VR simulation to preview adaptation effects, reducing trial and error
+- AI provides the latest material and component recommendations, improving production efficiency.
+- Real-time adjustment of orthosis pressure distribution via remote monitoring
+
+**Human moat:**
+
+- Clinical palpation and dynamic assessment to determine patient-specific needs
+- Hand carving and custom shaping skills
+- Build trust and empathy with patients, handle complex psychological needs.
+- Interdisciplinary team collaboration and treatment plan integration decisions
+
+**Skills to build:**
+
+- Proficient in CAD/CAM and 3D printing technologies for prosthetic design
+- Learn sports analysis software and pressure sensor data analysis
+- Enhancing telemedicine and digital patient management tool application
+- Enhance knowledge of materials science (e.g., carbon fiber composites)
+- Learn basic programming and AI tools (e.g., generative design software)
+- Enhancing soft skills: communication, counseling, and patient education
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +97,67 @@ Orthotists or Prosthetists design, fabricate, and fit orthoses or prostheses to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，无需工作转居留，满足薪资（中位数工资1.5倍或更高）和注册要求即可申请。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，基于6分制，该职业可获学历加分，满足薪资和注册要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工作签证，适用于未直接居留的申请人，可作为过渡路径。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, no need to convert from work to residence; meets salary (1.5x or more of median wage) and registration requirements to apply. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, based on a 6-point system; this occupation can receive points for education, meeting salary and registration requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa, for applicants without direct residence, can serve as a transitional pathway. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthotist or Prosthetist？**
-- 动手能力强且注重细节的人
-- 有医疗健康背景或对人体力学感兴趣的人
-- 希望获得新西兰快速居留的移民申请人
-
-**谁不适合学Orthotist or Prosthetist？**
-- 不善于与患者和医疗团队沟通的人
-- 对长时间站立和手工操作感到吃力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and attention to detail.
+- Individuals with a healthcare background or an interest in human mechanics.
+- Immigration applicants seeking fast-track New Zealand residency
+
+**Who is not suited**
+- People who are not good at communicating with patients and medical teams
+- For those who find prolonged standing and manual handling physically demanding
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for orthotists or prosthetists in New Zealand?**
+A: Entry-level approx. NZD 65,000-75,000, mid-level NZD 75,000-95,000, senior up to NZD 120,000+. Salary varies by experience, location, and employer; differences between public health and private practice.
+
+**Q: How can an Orthotist or Prosthetist immigrate to New Zealand through skilled migration?**
+A: This occupation is on the Green List Tier 1, eligible for direct Straight to Residence Visa. You must obtain New Zealand registration (complete an accredited course) and meet 1.5 times the median wage. It also applies to SMC (6-point system).
+
+**Q: How to get registered as an orthotist or prosthetist in New Zealand with an overseas qualification?**
+A: Requires assessment by the New Zealand Board of Orthotists and Prosthetists, possibly needing supplementary courses or completing an internship in New Zealand. English requirement: IELTS Academic 7.0 in all bands.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Orthotist or Prosthetist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for orthotists/prosthetists in New Zealand?**
-答：Entry level NZD 65,000-75,000, mid-level NZD 75,000-95,000, senior up to 120,000+ NZD. Pay varies by experience, location, and employer.
-
-**问：How can an orthotist/prosthetist immigrate to New Zealand?**
-答：This occupation is on Green List Tier 1, eligible for Straight to Residence Visa. Requires NZ registration (accredited degree) and salary at 1.5x median wage. Also qualifies for SMC (6-point system).
-
-**问：How can overseas qualifications be registered for orthotists/prosthetists in New Zealand?**
-答：Assessment by the Board of Orthotists and Prosthetists; may require bridging courses or internship. English requirement: IELTS academic 7.0 (no band less than 6.5).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

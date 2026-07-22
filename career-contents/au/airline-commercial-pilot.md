@@ -1,161 +1,186 @@
-# 飞行员（Airline Pilot）职业分析 · 澳大利亚
+# Airline / Commercial Pilot — career analysis · Australia
 
-**职业代码：231111 – Airline Pilot。**
+**Occupation code: 231111 (ANZSCO)**
 
-飞行员负责驾驶商业、货运或私人航空器执行飞行任务，是高技术高准入门槛的专业职业。澳洲飞行员长期短缺，亚太地区航空市场快速扩张（波音预测2043年前需新增28万名飞行员）推动全球和澳洲本地飞行员需求持续旺盛。机长（Captain）薪资超过 $200,000 是常见水平。
+Pilots operate commercial, cargo, or private aircraft; a high-skill, high-barrier profession. Australia faces long-term pilot shortage, and Asia-Pacific aviation market is expanding rapidly (Boeing predicts 280,000 new pilots needed by 2043), driving global and local demand. Captain salaries commonly exceed $200,000.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Integrated ATPL（Airline Transport Pilot Licence）培训 | 18~36个月 | $80,000~$150,000（商业飞行员培训总费用（含CPL/IR/MCC/ATPL理论）；澳洲飞行学院约 $90k~$150k） |
-| 商用飞行员执照（CPL）+仪表等级（IR） | 12~24个月 | $60,000~$100,000（核心执照；需积累200小时+飞行时数） |
-| 多机组配合（MCC/JOC）课程 | 2~4周 | $5,000~$15,000（商业航空公司招募飞行员的实际前提条件） |
-| 飞行时数积累（1500小时+） | 3~5年 | —（ATPL申请需1500小时总飞行时数；通常通过飞行教官或支线飞行积累） |
+| Integrated ATPL (Airline Transport Pilot Licence) training | 18–36 months | $80,000~$150,000 (Total cost of commercial pilot training (including CPL/IR/MCC/ATPL theory); Australian flight academies approximately $90k–$150k) |
+| Commercial Pilot Licence (CPL) + Instrument Rating (IR) | 12–24 months | $60,000~$100,000 (Core licence; requires accumulation of 200+ flight hours) |
+| Multi-crew coordination (MCC/JOC) courses | 2–4 weeks | $5,000~$15,000 (Practical prerequisites for recruitment as a pilot by a commercial airline) |
+| Flight hours accumulation (1,500 hours+) | 3–5 years | $0~$0 (ATPL application requires 1,500 total flight hours; typically accumulated through flight instruction or regional airline flying) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ATPL（Airline Transport Pilot Licence） | 民用航空安全局（CASA） | 必备 | 担任机长的法定资质要求，也是技术移民评估的核心资质 |
-| CPL（Commercial Pilot Licence） | CASA | 可选 | 副驾驶或担保飞行员资质（200小时+） |
-| Class 1 Aviation Medical Certificate | CASA 认可航空医疗体检官 | 必备 | 所有商业飞行员的硬性健康要求（每年或两年更新） |
-| 型别等级（Type Rating） | 航空公司/CASA认可模拟机 | 可选 | 特定机型（B737/A320等）驾驶资质，由航空公司提供培训 |
+| ATPL（Airline Transport Pilot Licence） | Civil Aviation Safety Authority (CASA) | Required | The statutory qualification required to serve as a captain, and the core credential for skilled migration assessment |
+| Class 1 Aviation Medical Certificate | CASA-approved aviation medical examiner | Required | Mandatory medical requirements for all commercial pilots (renewed annually or biennially) |
+| CPL（Commercial Pilot Licence） | CASA | Optional | Co-pilot or verified pilot qualification (200+ hours) |
+| Type Rating | Airline/CASA-approved simulator | Optional | Type-specific endorsement (B737/A320 etc.), with training provided by the airline |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 6,000。JSA预测澳洲飞行员就业至2030年增长约10%。Qantas、Virgin Australia、Regional Express等持续补充飞行员缺口。亚太地区（中国/印度/东南亚）航空扩张进一步扩大全球澳籍飞行员需求。
+**Job demand: very high (★★★★★).** National workforce approx. 6,000. JSA projects pilot employment in Australia to grow by approximately 10% to 2030. Qantas, Virgin Australia, Regional Express and others are continuously filling pilot shortages. Aviation expansion across the Asia-Pacific region is further increasing global demand for Australia-based pilots.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国，含干线/支线/货机/直升机飞行员岗 |
-| Indeed | 80~300 个 | 含航空公司、包机公司和直升机运营商 |
-| LinkedIn | 100~350 个 | Qantas/Virgin Australia/FlyPelican等航空公司直招 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级副驾驶/支线飞行员（0~3年） | $70,000~$90,000 | 支线航空（Regional Express/QantasLink）起步薪资 |
-| 干线副驾驶/有经验飞行员（3~8年） | $110,000~$140,000 | SEEK 干线飞行员 $110k~$130k（2026）；Glassdoor 均值 $153,500 |
-| 机长（Captain，8~15年） | $160,000~$250,000 | Qantas/Virgin Australia机长薪资 $160k~$238k+（2026） |
-| 资深/宽体机机长（15年+） | $220,000~$350,000 | Qantas A380/B787长途机长可达 $238k~$300k+ |
+| Median salary | $137,852 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior First Officer / Regional Pilot (0–3 years) | $70,000~$90,000 | Starting salary for regional aviation (Regional Express/QantasLink) |
+| First Officer / Experienced Pilot (3–8 years) | $110,000~$140,000 | SEEK trunk route pilot $110k–$130k (2026); Glassdoor average $153,500 |
+| Captain (8–15 years) | $160,000~$250,000 | Qantas/Virgin Australia captain salary $160k–$238k+ (2026) |
+| Senior/Wide-body Captain (15+ years) | $220,000~$350,000 | Qantas A380/B787 long-haul captains can earn $238k–$300k+ |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★★）。** 全球飞行员短缺是结构性问题（COVID期间大量飞行员提前退休），澳洲尤为突出。商业飞行员培训成本高（约 $100k~$150k）制约供给，推动薪资持续增长。货机飞行员需求因电商快递航空增长而大幅提升。ATPL（航线飞行员执照）持有者在澳洲就业率接近100%。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
 
-- 商业航空飞行员（干线/支线）
-- 货机飞行员（电商航空货运增长）
-- 直升机飞行员（矿业/医疗/海上作业）
-- 无人机（UAV）飞行操控与监管
-- 飞行训练教官（飞行学院）
+The global pilot shortage is a structural issue (large numbers of pilots took early retirement during COVID), which is particularly pronounced in Australia. High commercial pilot training costs (approximately $100k–$150k) constrain supply and drive ongoing salary growth. Demand for freight pilots has surged due to growth in e-commerce air freight. ATPL holders have an employment rate approaching 100% in Australia.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
+
+- Commercial airline pilot (mainline/regional)
+- Cargo Pilot (E-commerce Air Freight Growth)
+- Helicopter Pilot (Mining/Medical/Offshore Operations)
+- UAV Flight Operations & Regulation
+- Flight Instructor (Flight Academy)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，MLTSSL在列；Qantas/Virgin等大型航空公司担保活跃 |
-| Subclass 186（ENS） | 雇主担保永居，满3年后申请 |
-| Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列；ATPL持有者邀请分数优先 |
-| Subclass 190（Skilled Nominated） | 州提名通道（QLD/NT/WA等偏远航空需求州） |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; listed on the MLTSSL; active sponsorship from major airlines such as Qantas and Virgin |
+| Subclass 186 (ENS) | Employer-sponsored permanent residence, apply after 3 years |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; MLTSSL listed; ATPL holders given priority invitation scores |
+| Subclass 190 (Skilled Nominated) | State nomination pathways (QLD/NT/WA etc. remote aviation demand states) |
 
-**PR难度：很低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学飞行员？**
-- 已持有或正在考取ATPL/CPL及仪表等级（IR），有500小时以上总飞行时数
-- 身体健康，通过CASA Class 1航空体检；英语能力达到ICAO Level 4以上
-- 有在澳洲或海外商业航空公司飞行经验（B737/A320等常见机型型别等级优先）
-- 愿意从支线航空积累时数，长期发展干线机长职业路径
-- 愿意在偏远地区（NT/QLD/WA）或货运航空工作以快速积累时数
-
-**谁不适合学飞行员？**
-- 仅有私人执照（PPL）而无商用执照（CPL）或ATPL
-- 不满足CASA Class 1医疗体检的健康条件
-- 不能接受不规律作息、长途飞行和持续高强度注意力要求
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Currently holds or is obtaining an ATPL/CPL and Instrument Rating (IR), with 500+ total flight hours
+- Physically fit and holding a CASA Class 1 aviation medical certificate; English proficiency at ICAO Level 4 or above
+- Commercial airline flying experience in Australia or overseas (type ratings on common aircraft such as the B737/A320 preferred)
+- Willing to build flight hours through regional aviation, with a long-term goal of becoming a mainline captain
+- Willing to work in remote areas (NT/QLD/WA) or in freight aviation to accumulate flight hours quickly
+
+**Who is not suited**
+- Holds only a Private Pilot Licence (PPL) with no Commercial Pilot Licence (CPL) or ATPL
+- Does not meet CASA Class 1 medical examination health requirements
+- Unable to accept irregular hours, long-haul flights, and sustained high-concentration demands
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a pilot in Australia?**
+A: First officers earn approximately $70k–$90k (regional starting); mainline first officers approximately $110k–$140k; captains approximately $160k–$250k; senior wide-body captains approximately $220k–$350k. Glassdoor average is $153,500; SEEK range is $110k–$130k (2026).
+
+**Q: Is it easy for pilots to find work in Australia?**
+A: Very straightforward. A global structural pilot shortage means ATPL holders achieve close to 100% employment rates. Qantas and Virgin Australia actively recruit internationally, while regional carriers (Regional Express/QantasLink) have lower entry requirements. Australian pilot salaries are highly competitive on a global scale.
+
+**Q: Is a Chinese pilot licence recognised in Australia?**
+A: A Chinese ATPL can be converted to an Australian licence through CASA's overseas licence validation pathway, but you must pass CASA's English language test (ICAO Level 4) and certain flight proficiency checks. It is strongly recommended that you contact CASA to confirm specific requirements before applying.
+
+**Q: Will pilots be replaced by AI?**
+A: Not in the short to medium term. CASA and ICAO regulations require dual-pilot operations on commercial flights; automation is an assistive tool, not a replacement. Emergency response, weather decision-making, and passenger safety management require human pilot judgement. Single-pilot operations on some cargo aircraft may be possible after 2040, but demand for passenger aircraft pilots is expected to remain stable for at least another 20 years.
+
+**Q: Are there age restrictions for pilots in Australia?**
+A: ICAO regulations set the mandatory retirement age for airline captains on scheduled services at 65, with no specified upper age limit for first officers. Given training timelines (5–8 years) and career progression, it is advisable to obtain an ATPL before age 35 to ensure a sufficiently long career. Starting flight training after age 45 offers a relatively low financial return on investment.
+
+**Q: What qualifications do pilots need in Australia?**
+A: No strict university degree requirement — an ATPL licence is the core qualification. Some airlines (notably Qantas) have a preference for degree holders, but CPL/ATPL holders with extensive flight hours face relatively relaxed degree expectations. The ATPL licence, type ratings, and flight experience are what matter most.
+
+**Q: Is obtaining a pilot licence in Australia (for migration) difficult?**
+A: Difficulty is relatively low. Pilots are on the MLTSSL and are among the most sought-after occupations in Australia's skilled migration programme. The employer-sponsored 482 pathway is very active (Qantas, Virgin and other major airlines); the 189/190 independent skilled migration pathway is also straightforward. The main challenges are ATPL conversion and the English ICAO Level 4+ requirement.
+
+**Q: Which has better career prospects in Australia — pilot or engineer?**
+A: Pilot salaries (Captain $160k–$250k) are significantly higher than those of most engineering roles ($90k–$150k), employment rates are higher (near-zero unemployment), and the path to PR is more straightforward. However, training costs are extremely high ($100k–$150k) and the barrier to entry is very demanding; engineering has lower entry costs and more diverse career pathways. Those with a clear passion for flying and the funds to cover training should choose the pilot route; those who prefer greater technical diversity should choose engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 飞行员薪资 $110k~$130k（2026） |
-| Glassdoor AU | 飞行员均值 $153,500（2026） |
-| Qantas Careers | Qantas机长薪资信息（2026） |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 极好（★★★★★） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 很低（★☆☆☆☆） |
-
-飞行员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲飞行员工资多少？**
-答：副驾驶约 $70k~$90k（支线起步）；干线副驾驶约 $110k~$140k；机长约 $160k~$250k；资深宽体机机长约 $220k~$350k。Glassdoor均值 $153,500，SEEK区间 $110k~$130k（2026）。
-
-**问：澳洲飞行员容易找工作吗？**
-答：极易。全球结构性飞行员短缺，ATPL持有者就业率接近100%。Qantas和Virgin Australia主动全球招募，支线航空（Regional Express/QantasLink）门槛较低。澳洲飞行员薪资在全球范围内竞争力强。
-
-**问：中国飞行员执照澳洲认可吗？**
-答：中国ATPL可通过CASA的overseas licence validation路径转换为澳洲执照，但需要通过CASA英语测试（ICAO Level 4）和部分飞行技术考核。强烈建议在申请前联系CASA确认具体要求。
-
-**问：飞行员会被AI替代吗？**
-答：短中期内不会。CASA和国际民航组织（ICAO）法规要求商业航班双人驾驶制；自动驾驶是辅助工具而非替代品。紧急情况处置、天气决策和乘客安全管理需要人类飞行员判断力。预计2040年后部分货机可能采用单人制，但客机飞行员至少还有20年以上的稳定需求期。
-
-**问：澳洲飞行员有年龄限制吗？**
-答：ICAO规定定期航班机长退休年龄上限65岁，副驾驶无明确年龄上限。考虑培训时间（5~8年）和职业发展，建议35岁前完成ATPL获取以保证足够的职业生涯长度。45岁以后开始飞行培训经济回报率较低。
-
-**问：澳洲飞行员需要什么学历？**
-答：无严格大学学历要求，ATPL执照是核心资质。部分航空公司（特别是Qantas）有大学学历偏好，但有丰富飞行时数的CPL/ATPL持有者学历要求相对宽松。最重要的是ATPL执照、类型等级和飞行经验。
-
-**问：澳洲飞行员认证（移民）难吗？**
-答：难度较低。飞行员在MLTSSL，是澳洲技术移民中最受欢迎的职业之一。雇主担保482路径非常活跃（Qantas/Virgin等大型航空公司）；189/190独立技术移民路径也顺畅。主要挑战是ATPL转换和英语ICAO Level 4+要求。
-
-**问：飞行员和工程师哪个澳洲发展更好？**
-答：飞行员薪资（机长 $160k~$250k）显著高于多数工程师职业（$90k~$150k），就业率更高（几乎零失业），PR难度更低。但培训成本极高（$100k~$150k）且职业门槛极高；工程师入行成本低、职业路径更多元。有清晰飞行热情和培训资金的人选飞行员；偏好技术多元化的选工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

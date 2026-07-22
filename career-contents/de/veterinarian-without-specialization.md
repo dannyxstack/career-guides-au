@@ -1,59 +1,93 @@
-# Veterinarian (without specialization)（Veterinarian (without specialization)）职业分析 · DE
+# Veterinarian (without specialization) — career analysis · Germany
 
-**职业代码：8150 – Veterinarian (without specialization)。**
+**Occupation code: 8150 (KldB)**
 
-Veterinarians diagnose and treat animal diseases, perform surgeries, prescribe medication, and provide preventive healthcare. This is a regulated healthcare profession in Germany.
+Veterinarians diagnose and treat animal diseases, perform surgeries, prescribe medications, and provide preventive care. This occupation is a regulated health profession in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 兽医学本科/硕士（国家考试） | 6年（含实习） | —（公立大学学费低，仅少量注册费，生活成本另计） |
+| Bachelor's/Master's in veterinary medicine (state examination). | 6 years (including internship) | $0~$50,000 (Low tuition fees at public universities, only small registration fees; living costs are separate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医执照（Approbation） | 各州兽医协会 | 必备 | 需通过国家考试并完成实习，是执业必需 |
-| 资质认证（Anerkennung） | 各州主管机构 | 必备 | 非欧盟学位需认证，过程包括学历审查和可能的补充考试 |
+| Veterinary license (Approbation) | State veterinary associations | Required | Must pass national exams and complete an internship; mandatory for practice |
+| Qualification recognition (Anerkennung) | State regulating authorities | Required | Non-EU degrees require accreditation, including qualification review and possible supplementary exams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。德国兽医需求稳定，尤其是小动物诊所和食品动物领域。由于宠物数量增加和食品安全法规加强，就业前景良好，偏远地区需求更高。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Demand for veterinarians in Germany is stable, especially in small animal clinics and food animal sectors. Due to increasing pet numbers and stricter food safety regulations, job prospects are good, with higher demand in remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 公立机构或小型诊所 |
-| 中级（4-9年） | $50,000~$70,000 | 经验丰富或专科化 |
-| 高级（10年以上） | $70,000~$100,000 | 诊所主管或私人执业 |
+| Median salary | $64,224 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Public institutions or small clinics |
+| Intermediate (4-9 years) | $50,000~$70,000 | Experienced or specialized |
+| Senior (10+ years) | $70,000~$100,000 | Clinic manager or private practice |
+| average salary | $71,628 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括开设私人诊所、晋升为诊所主管、或进入制药/食品行业担任顾问。也可向专科兽医（如外科、内科）深造发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
+
+Career paths include opening a private practice, advancing to clinic supervisor, or becoming a consultant in the pharmaceutical/food industry. One can also specialize further in veterinary specialties (e.g., surgery, internal medicine).
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation and report generation of routine imaging (X-ray, ultrasound)
+- Data analysis for basic laboratory tests (blood, urine analysis)
+- Standardized administrative tasks like vaccination reminders and client follow-ups
+- Routine symptom recognition and classification in pet health monitoring.
+
+**Where AI augments the role:**
+
+- Using AI image analysis to improve diagnostic accuracy in complex cases
+- Remote monitoring and wearable devices enable continuous chronic disease management
+- Personalized treatment plans based on big data analysis (e.g., dose optimization)
+- AI-assisted surgical navigation and robotic operations improve surgical precision
+
+**Human moat:**
+
+- On-the-spot judgment and hand-eye coordination in complex surgeries
+- Cross-species clinical reasoning and comprehensive diagnosis of rare cases
+- Client communication requiring empathy, end-of-life care, and psychological support.
+- Practitioner responsibility: bear ultimate decision-making and legal consequences for treatment plans
+- Ergonomic adjustment and real-time titration of drugs and anesthetics.
+
+**Skills to build:**
+
+- Use and result verification of AI imaging diagnostic tools
+- Telehealth platform operation and data analysis
+- Basic data science (Python/R) integrated with clinical data
+- Animal welfare and ethical decision-making skills
+- Advanced cross-species pathophysiology knowledge
+- Customer relationship management (CRM) and digital communication skills
+
+**Key growth areas:**
 
 - Pet care boom
 - Food safety
@@ -62,66 +96,65 @@ Veterinarians diagnose and treat animal diseases, perform surgeries, prescribe m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪工作，年薪门槛约58,400欧元（2025年），紧缺职业可降低至45,552欧元 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得雇主担保，学历需符合要求，年薪无硬性门槛 |
-| Subclass Recognition Partners（Recognition Partnership） | 在资质认证过程中即可来德工作，雇主需支持 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-salary jobs, annual threshold approximately 58,400 Euros (2025); for shortage occupations it can be reduced to 45,552 Euros |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, academic qualifications must meet requirements, no hard annual salary threshold |
+| Subclass Recognition Partners (Recognition Partnership) | Can work in Germany during qualification recognition process, employer must support |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinarian (without specialization)？**
-- 热爱动物且有强烈同情心
-- 具备科学思维和较强的抗压能力
-- 愿意在偏远地区工作以获取更好机会
-
-**谁不适合学Veterinarian (without specialization)？**
-- 对动物血液或手术感到不适
-- 不愿接受耗时且严格的资质认证流程
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for animals and strong empathy
+- Possess scientific thinking and strong resilience to pressure
+- Willing to work in remote areas for better opportunities
+
+**Who is not suited**
+- Discomfort with animal blood or surgery
+- Unwilling to undergo time-consuming and strict qualification accreditation processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level of veterinarians in Germany?**
+A: Entry-level veterinarians earn about €40,000-50,000 per year, senior or self-employed can reach €70,000-100,000. Salaries in public institutions are relatively fixed.
+
+**Q: How can non-EU veterinarians obtain a license to practice in Germany?**
+A: You need to submit your foreign degree to a German qualification recognition authority, pass a credential assessment and possibly a supplementary exam (Kenntnisprüfung), to obtain the Approbation license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Veterinarian (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for veterinarians in Germany?**
-答：Entry-level veterinarians earn around 40,000-50,000 EUR annually, while experienced or self-employed can earn 70,000-100,000 EUR.
-
-**问：How can non-EU veterinarians obtain a license in Germany?**
-答：They must have their foreign degree evaluated by the German recognition authority, pass a knowledge exam if needed, and obtain the Approbation license.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

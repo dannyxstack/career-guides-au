@@ -1,60 +1,95 @@
-# Tourism Product Designer（Tourism Product Designer）职业分析 · FR
+# Tourism Product Designer — career analysis · France
 
-**职业代码：G1301 – Tourism Product Designer。**
+**Occupation code: G1301 (ROME)**
 
-Design, develop and optimize tourism products (e.g., travel itineraries, themed packages), integrating market trends and client needs, coordinating suppliers to ensure competitiveness and profitability.
+Responsible for designing, developing, and optimizing travel products (such as travel routes and themed packages), coordinating supplier resources based on market trends and customer needs to ensure product competitiveness and profitability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（硕士） | $6,000~$12,000（公立大学约6000€/年，高商约12000€/年） |
-| 本科（Bac+3） | 3年（学士） | $3,000~$8,000（公立大学约3000€/年，私立学院约8000€/年） |
-| BTS旅游（Bac+2） | 2年（BTS） | $2,000~$5,000（公立学校约2000€/年，私立约5000€/年） |
+| Master's (BAC+5) | 5 years (Master's) | $6,000~$12,000 (Public universities approx. 6,000 EUR/year, business schools (Grandes Écoles) approx. 12,000 EUR/year.) |
+| Undergraduate (Bac+3) | 3 years (bachelor's degree) | $3,000~$8,000 (Public universities: approximately €3,000/year, private colleges: approximately €8,000/year.) |
+| BTS Travel (Bac+2) | 2 Years (BTS) | $2,000~$5,000 (Public school: approximately €2,000/year; private: approximately €5,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 旅游与休闲管理硕士 | 公立大学或高商 | 可选 | 多数雇主偏好Bac+5学历，非强制但有利 |
-| 旅游产品设计认证 | AFNOR或其他专业机构 | 可选 | 非强制，可提升竞争力 |
-| 旅行社从业资格证 | 法国旅游部 | 可选 | 若直接涉及销售和客户预订，需持有 |
+| Master's in Tourism and Leisure Management | Public universities or commercial high schools | Optional | Most employers prefer Bac+5 degrees, which are not mandatory but beneficial |
+| Tourism product design certification | AFNOR or other professional organizations | Optional | Not mandatory, but can enhance competitiveness |
+| Travel Agency Professional Qualification Certificate | French Ministry of Tourism | Optional | If it directly involves sales and customer bookings, it must be held |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 12,500。法国旅游业复苏强劲，数字化转型推动旅游产品创新需求。France Travail预测该职业未来5年岗位增长约8%，尤其在定制化、可持续旅游领域。大巴黎和奥克西塔尼大区机会较多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,500. France's tourism industry is recovering strongly, and digital transformation is driving demand for innovative tourism products. France Travail predicts that this profession will grow by about 8% over the next five years, especially in the customized and sustainable tourism sector. Greater Paris and the Occitanie region have more opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视公司规模和地点 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验后薪资上升 |
-| 高级（7年以上） | $45,000~$60,000 | 产品经理或负责人级别 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary depends on company size and location |
+| Mid-level (3–7 years) | $35,000~$45,000 | Salary increases with experience |
+| Senior (7+ years) | $45,000~$60,000 | Product manager or person in charge |
+| average salary | $35,178 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初期从产品助理或销售支持入手，积累市场经验后可晋升为产品经理或区域产品负责人；也可转向创业，开设旅行社或成为独立旅游顾问。数字化技能（如数据分析、CRM）是晋升关键。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
+
+Start as a product assistant or sales support, and after gaining market experience, can be promoted to product manager or regional product lead; You can also start a business, open a travel agency, or become an independent travel consultant. Digital skills (such as data analysis and CRM) are key to promotion.
+
+**Tasks most exposed to AI:**
+
+- Handle price comparison and booking for transportation (airline tickets, train tickets) and accommodation
+- Generate standard travel itineraries and quotes
+- Answering common travel policy questions (e.g., visas, baggage rules)
+- Maintain client travel files and preference records
+- Sell standardized tourism packages
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and proactively recommend personalized destinations and experiences
+- Using real-time exchange rates and price prediction tools to optimize client travel budgets
+- Providing immersive travel advice through AI translation and local information aggregation platforms
+- Use virtual reality (VR) preview tools to sell high-end travel products
+- Automates generation of alternative solutions for emergencies (e.g., flight cancellations)
+
+**Human moat:**
+
+- Ability to handle complex emergencies involving multi-country visas, special routes, health risks, etc.
+- Build high-trust relationships with clients, understand their unspoken preferences
+- Sales skills to deliver compelling travel narratives and value propositions
+- Negotiation skills for coordinating multiple suppliers and local resources to address non-standard needs
+
+**Skills to build:**
+
+- Proficiency in mainstream AI travel tools (e.g., Hopper, Tripadvisor integration platforms)
+- Learn the basics of data analysis (e.g., Python/pandas) to interpret customer insights
+- Strengthen high-end customer service and crisis management communication skills
+- Familiarity with VR/AR travel demonstration tools.
+- Learn social media marketing and content creation (e.g., Xiaohongshu, Instagram) to attract clients.
+- Obtain professional travel certifications (e.g., CTC, Certified Travel Counselor)
+
+**Key growth areas:**
 
 - sustainable tourism
 - digitalization
@@ -63,65 +98,67 @@ Design, develop and optimize tourism products (e.g., travel itineraries, themed 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，薪资需达法国平均年薪1.5倍（约42000€），可获4年居留 |
-| Subclass Salarié（Salarié (Employee)） | 常规工作居留，需雇主担保，适用于获得CDI合同且薪资符合行业标准 |
-| Subclass Recherche emploi（Job Search Visa） | 允许毕业后在法求职1年，找到相关工作后可转为工作居留 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with a salary at 1.5 times the French average annual salary (about €42,000), eligible for 4-year residency |
+| Subclass Salarié (Salarié (Employee)) | Regular work residence requires employer sponsorship, applicable to obtaining a CDI contract with salary meeting industry standards |
+| Subclass Recherche emploi (Job Search Visa) | Allow you to seek employment in France for one year after graduation, and once you find a relevant job, you can convert to work-based residence |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tourism Product Designer？**
-- 对旅游市场敏锐、有创意和策划能力的人
-- 善于沟通协调，能与供应商和客户建立良好关系
-- 有数据分析或数字营销背景者更具优势
-
-**谁不适合学Tourism Product Designer？**
-- 不喜频繁出差或应对旺季高压节奏的人
-- 缺乏市场敏感度和商业思维的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with sharp insight into the tourism market, creativity, and planning skills.
+- Skilled in communication and coordination, able to establish good relationships with suppliers and customers
+- Those with a background in data analysis or digital marketing have an advantage
+
+**Who is not suited**
+- People who dislike frequent business trips or dealing with the high-pressure pace of peak seasons
+- People who lack market sensitivity and business acumen
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a travel product designer in France?**
+A: Entry-level approx. €30,000, mid-level approx. €40,000, senior up to €50,000-60,000. Paris and large companies pay more.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: Can apply for the Talent Passport (Passeport Talent), requiring a salary of around €42,000 or more; or apply for a work permit after obtaining a CDI contract. French B2 or above is helpful.
+
+**Q: What is the career progression path for this occupation?**
+A: You can upgrade from product assistant to product manager or regional head, or start a business as a travel consultant. Digital skills are the focus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tourism Product Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Tourism Product Designer in France?**
-答：Entry-level around €30,000, mid-level €40,000, senior €50,000-60,000. Paris and large companies offer higher.
-
-**问：How can foreigners migrate to France through this occupation?**
-答：Apply for a Talent Passport requiring salary above €42,000, or obtain a CDI and apply for a work permit. French B2+ helps.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

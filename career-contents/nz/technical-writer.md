@@ -1,58 +1,94 @@
-# Technical Writer（Technical Writer）职业分析 · 新西兰
+# Technical Writer — career analysis · New Zealand
 
-**职业代码：212415 – Technical Writer。**
+**Occupation code: 212415 (ANZSCO)**
 
-Technical Writers create technical documents like user manuals and operational guides, translating complex information into clear content. Stable demand in New Zealand with options for Skilled Migrant or Green List pathways.
+Technical writers create technical documents (e.g., user manuals, operating guides), translating complex technical information into easy-to-understand content. Demand is stable in New Zealand, with pathways via skilled migration or Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学位 | 3年 | $30,000~$45,000（每年学费，如奥克兰大学） |
-| 硕士研究生 | 1-2年 | $40,000~$55,000（每年学费，如惠灵顿维多利亚大学） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition fees, e.g., at the University of Auckland) |
+| Master's Degree | 1-2 years | $40,000~$55,000 (Annual tuition, e.g., Victoria University of Wellington) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英语能力（如IELTS 6.5） | IELTS或PTE | 必备 | 技术移民或工签要求 |
-| 相关学位（通信、英语、计算机） | 新西兰学历认证局（NZQA） | 可选 | 学历需评估，通常要求Level 7以上 |
+| English proficiency (e.g., IELTS 6.5) | IELTS or PTE | Required | Skilled migration or work visa requirements |
+| Relevant degree (Communication, English, Computer Science) | New Zealand Qualifications Authority (NZQA) | Optional | Qualifications need assessment, typically requiring Level 7 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰IT行业持续增长，技术撰稿人需求在科技、工程和医疗领域稳定。预计未来5年就业增长10%，尤其奥克兰和惠灵顿机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's IT industry continues to grow; demand for technical writers is stable in tech, engineering, and medical fields. Employment growth of 10% is expected over the next 5 years, with more opportunities in Auckland and Wellington.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 根据Stats NZ数据 |
-| 中级（3-7年） | $75,000~$95,000 | 有经验者薪资较高 |
-| 高级（7年以上） | $95,000~$120,000 | 资深或管理岗位 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | According to Stats NZ data |
+| Mid-level (3–7 years) | $75,000~$95,000 | Experienced workers earn higher salaries |
+| Senior (7+ years) | $95,000~$120,000 | Senior or management positions |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技术撰稿人可晋升为高级撰稿人或内容策略师，积累经验后可转向项目管理或技术培训。新西兰IT公司重视跨界能力，双语人才有优势。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
+
+Junior technical writers can advance to senior writers or content strategists; with experience, they can move into project management or technical training. New Zealand IT companies value cross-disciplinary skills, and bilingual talent has an advantage.
+
+**Tasks most exposed to AI:**
+
+- Draft generation for standardized product manuals
+- Formatting and publishing simple technical documents
+- Basic terminology explanation and FAQ writing
+- Basic proofreading of machine-translated multilingual documents.
+- Updating maintenance operation guides repeatedly
+
+**Where AI augments the role:**
+
+- Use AI assistance to quickly gather technical information and generate document drafts
+- Use natural language processing tools to automatically check document consistency and accuracy
+- Analyzing user feedback through AI to optimize document structure and content
+- Use AI to generate interactive help systems and personalized guides
+- Manage document versions and cross-department collaboration with automation tools
+
+**Human moat:**
+
+- Deep understanding of complex technical products and user needs analysis
+- Write strategically valuable white papers and solutions
+- Cross-team communication coordination and stakeholder management
+- Advanced review and quality control of AI-generated content
+- Creative content planning and knowledge system design
+
+**Skills to build:**
+
+- Proficient in using AI-assisted writing tools (e.g., GPT API, Grammarly)
+- Proficient in structured writing and content management systems (e.g., DITA, XML)
+- Learn information architecture and user experience design fundamentals
+- Enhance domain expertise (e.g., software, medical devices)
+- Develop skills in data analysis and user feedback handling
+- Enhance project management and cross-team collaboration skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -61,68 +97,67 @@ Technical Writers create technical documents like user manuals and operational g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制要求，需有技术工作offer，工资至少中位数。 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 工作2年后可申请居留，需有认证雇主且工资至少1.5倍中位数。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主job offer，工资不低于中位数，有效期3年。 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meet the six-point system requirements; must have a skilled job offer with at least median salary. |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | Can apply for residence after 2 years of work, must have an approved employer and salary at least 1.5 times the median. |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer, salary not below the median, valid for 3 years. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Writer？**
-- 有优秀写作和沟通能力的人
-- 对技术有浓厚兴趣，能快速学习新工具
-- 寻求稳定办公环境、避免体力劳动的人
-
-**谁不适合学Technical Writer？**
-- 厌恶文字工作或细节导向的人
-- 不喜欢与工程师/产品团队频繁沟通的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong writing and communication skills
+- Has a strong interest in technology and can quickly learn new tools
+- People seeking stable office environment, avoiding manual labor
+
+**Who is not suited**
+- People who dislike paperwork or detail-oriented tasks
+- People who dislike frequent communication with engineering/product teams
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for technical writers in New Zealand?**
+A: Junior approx. NZ$55,000-75,000, mid-level NZ$75,000-95,000, senior NZ$95,000-120,000 per year.
+
+**Q: How can a technical writer migrate to New Zealand through skilled migration?**
+A: Can apply through SMC (6-point system) or Green List Tier 2 (work 2 years then residency), requiring a job offer and meeting salary requirements.
+
+**Q: Will AI replace technical writers?**
+A: AI tools (such as ChatGPT) can assist in generating drafts, but complex documents still require human review and customization; they will not be completely replaced in the short term.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Writer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for technical writers in New Zealand?**
-答：Entry level NZD 55k-75k, mid-level NZD 75k-95k, senior NZD 95k-120k per year.
-
-**问：How can a technical writer immigrate to New Zealand?**
-答：Through Skilled Migrant Category (6-point system) or Green List Tier 2 (work 2 years then residence), requiring a job offer and meeting salary thresholds.
-
-**问：Will AI replace technical writers?**
-答：AI tools can assist drafting, but complex documentation still requires human review and customization, so not fully replaceable in the short term.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

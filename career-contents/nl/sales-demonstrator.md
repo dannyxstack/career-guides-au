@@ -1,58 +1,92 @@
-# Sales Demonstrator（Sales Demonstrator）职业分析 · NL
+# Sales Demonstrator — career analysis · Netherlands
 
-**职业代码：5242 – Sales Demonstrator。**
+**Occupation code: 5242 (ISCO08)**
 
-Sales Demonstrators present product features, functions, and usage to consumers at retail stores or exhibitions to boost sales. Requires strong communication and demonstration skills.
+Sales demonstrators showcase product features, functions, and usage methods to consumers at retail or exhibition venues to promote sales. Requires good communication and presentation skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 2-3年 | $1,000~$6,000（学费每年约1,000-2,000欧元） |
-| 短期培训课程 | 3-6个月 | $500~$2,000（私立培训机构费用） |
+| Intermediate Vocational Education (MBO) | 2-3 years | $1,000~$6,000 (Annual tuition approximately 1,000-2,000 euros) |
+| Short-term training course | 3-6 months | $500~$2,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 通常雇主提供在职培训 |
-| 销售或市场营销相关证书 | NIMA等 | 可选 | 有利于职业发展 |
+| No mandatory qualification requirements | None | Optional | Usually employer provides on-the-job training. |
+| Sales or marketing related certification | NIMA etc. | Optional | Beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 8,000。荷兰零售业持续发展，促销活动需求稳定，但受电商影响，传统线下演示岗位增长缓慢。预计就业机会保持平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. The Dutch retail sector continues to develop with stable demand for promotional activities, but traditional in-store demonstration roles grow slowly due to e-commerce. Employment opportunities expected to remain steady.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$28,000 | 税前年薪 |
-| 中级（2-5年） | $28,000~$35,000 | 税前年薪 |
-| 高级（5年以上） | $35,000~$42,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Intermediate (2-5 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (5+ years) | $35,000~$42,000 | Annual pre-tax salary |
+| average salary | $31,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级演示员可晋升为高级演示员或区域销售代表，也可转向市场营销、品牌推广等岗位。积累经验后可担任销售主管。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Sales demonstrators have a moderate level of automation in demonstration and communication tasks, but AI-driven virtual assistants and self-service demonstration tools may replace some presentation parts, while the value of customer interaction and personalized experience will continue to grow.
+
+Junior demonstrators can advance to senior demonstrators or regional sales representatives, or transition to marketing, branding, etc. With experience, they can become sales supervisors.
+
+**Tasks most exposed to AI:**
+
+- Standardized explanation of product specifications and functions
+- Repetitive product demonstrations (e.g., playing demonstration videos on loop in stores)
+- Automated Q&A for common questions (handled by chatbots)
+- Recording and preliminary analysis of demonstration data
+
+**Where AI augments the role:**
+
+- AI-assisted generation of personalized presentation scripts (customized scripts based on client profiles)
+- Real-time emotion recognition and feedback adjustment of presentation pace
+- AR/VR augmented reality demonstration (overlaying product mockups)
+- Automated follow-up emails and CRM after demos
+
+**Human moat:**
+
+- Build emotional connection and trust
+- Flexibly respond to unexpected issues and personalized needs
+- Conveying enthusiasm through non-verbal communication (expressions, tone)
+- Ability to improvise presentation strategies on the fly
+- Handle in-depth explanations for complex or technical products
+
+**Skills to build:**
+
+- Proficiency in AI scripting tools (e.g., ChatGPT custom scripts)
+- Learn the basics of AR/VR content production
+- Data analysis and CRM system operation
+- Social media and short video presentation skills
+- Cross-cultural communication and multilingual presentation skills
+- Emotional intelligence and sales psychology
+
+**Key growth areas:**
 
 - Retail promotions
 - Brand activation
@@ -61,65 +95,64 @@ Sales Demonstrators present product features, functions, and usage to consumers 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪高于门槛的技术移民，需雇主担保。2025年门槛约为5,688欧元/月（30岁以上）。 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰毕业或全球排名前200高校硕士/博士毕业生，可在1年内自由找工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，需年薪高于门槛（约6,000欧元/月）。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migration with annual salary above the threshold, requiring employer sponsorship. The 2025 threshold is approximately €5,688/month (for those aged 30+). |
+| Subclass Orientation Year (Orientation Year) | Applicable to graduates in the Netherlands or master's/doctoral graduates from the top 200 global universities, allowing them to freely seek jobs within 1 year. |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires annual salary above threshold (approx. €6,000/month). |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Demonstrator？**
-- 性格外向、善于沟通的人
-- 有销售热情和说服力的人
-- 喜欢与顾客互动、乐于展示产品的人
-
-**谁不适合学Sales Demonstrator？**
-- 不喜欢频繁与人接触或公众演讲的人
-- 不适应灵活工作时间和站立工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are outgoing and good at communicating
+- Someone with sales passion and persuasiveness
+- Someone who enjoys interacting with customers and is keen to showcase products.
+
+**Who is not suited**
+- Dislikes frequent interaction with people or public speaking
+- Those unable to adapt to flexible working hours and standing work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a sales demonstrator?**
+A: Entry-level annual salary approximately €22,000-28,000, mid-level €28,000-35,000, senior €35,000-42,000, depending on experience and employer.
+
+**Q: What visa do foreigners need for a sales demonstrator job in the Netherlands?**
+A: Typically requires a Highly Skilled Migrant visa or EU Blue Card, needing employer sponsorship and meeting salary thresholds. Opportunities for non-EU citizens are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Sales Demonstrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Sales Demonstrators?**
-答：Entry-level annual salary ranges from 22,000 to 28,000 EUR, mid-level 28,000 to 35,000 EUR, senior 35,000 to 42,000 EUR, depending on experience and employer.
-
-**问：What visa is needed for foreign Sales Demonstrators in the Netherlands?**
-答：Typically a Highly Skilled Migrant visa or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Limited opportunities for non-EU citizens.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

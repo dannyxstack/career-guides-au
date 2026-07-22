@@ -1,59 +1,95 @@
-# Leisure and sports managers and proprietors（Leisure and sports managers and proprietors）职业分析 · UK
+# Leisure and sports managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1224 – Leisure and sports managers and proprietors。**
+**Occupation code: 1224 (SOC)**
 
-Organise, direct and coordinate activities and resources for sporting, artistic, theatrical and other recreational and amenity services.
+Responsible for organizing, directing, and coordinating activities and resources for sports, arts, drama, and other leisure and recreation services; managing facilities, staff, and budgets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/A-Level | 2年 | —（公立学校免费） |
-| 本科学位（如体育管理、休闲管理） | 3年 | $9,250~$15,000（年学费（英格兰）） |
+| High School / A-Level | 2 years | $0~$0 (Free public schools.) |
+| Bachelor's degree (e.g., Sports Management, Leisure Management) | 3 years | $9,250~$15,000 (Annual tuition fee (England)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育管理或休闲管理学士学位 | 英国大学 | 可选 | 非强制但受雇主青睐 |
-| 急救证书 | 圣约翰救护机构等 | 可选 | 部分岗位要求 |
-| 管理类职业资格（如ILM） | 管理与领导力学院 | 可选 | 有助于晋升 |
+| Bachelor's degree in Sports Management or Leisure Management. | UK universities | Optional | Not mandatory but favored by employers |
+| First aid certificate | St John Ambulance etc. | Optional | Some positions require |
+| Management qualification (e.g., ILM) | Institute of Management and Leadership | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 51,000。随着英国休闲健身产业持续增长，该岗位需求稳定。疫情后人们对健康休闲的重视提升，预计就业规模缓慢增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 51,000. As the UK leisure and fitness industry continues to grow, demand for this role remains stable. Post-pandemic, people's focus on health and leisure has increased, and employment is expected to grow slowly.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 助理或主管岗位 |
-| 中级（3-7年） | $25,000~$40,000 | 中心经理 |
-| 高级（7年以上） | $40,000~$65,000 | 区域经理或总监 |
+| Median salary | $36,026 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Assistant or supervisor roles |
+| Mid-level (3–7 years) | $25,000~$40,000 | Centre manager |
+| Senior (7+ years) | $40,000~$65,000 | Regional Manager or Director |
+| average salary | $37,538 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从业者可从基层主管升至中心经理、区域总监，或自营休闲设施。积累经验后可转向大型体育场馆、连锁健身集团等高级管理岗位。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on Leisure & Sports Managers and Owners is mixed: automation replaces administrative tasks like venue booking and inventory management, but AI enhances marketing analysis and customer experience; the moat lies in on-site management, interpersonal interaction, and creative planning.
+
+Practitioners can progress from frontline supervisor to centre manager, regional director, or self-operated leisure facilities. With experience, they can move to senior management roles in large sports venues or chain fitness groups.
+
+**Tasks most exposed to AI:**
+
+- Manual shift scheduling and personnel allocation
+- Tracking inventory and equipment usage records
+- Venue booking and schedule management
+- Basic financial bookkeeping and billing processing
+- Common FAQs in customer service
+
+**Where AI augments the role:**
+
+- AI analyzes member data to tailor personalized fitness/activity plans.
+- AI-generated marketing copy and social media content
+- AI predicts peak crowds to optimise pricing and promotion strategies.
+- AI monitors equipment status and issues maintenance alerts
+- AI provides virtual coaching assistance or augmented reality experiences
+
+**Human moat:**
+
+- On-site crisis management and safety decision-making
+- Build local community relationships and customer loyalty
+- Creative planning and event theme design.
+- Team morale and conflict management
+- Empathy and personalized care for client needs
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Data analysis and visualization (e.g., Excel, Power BI)
+- Digital marketing tools (SEO, social media advertising)
+- AI tool applications (e.g., using ChatGPT to draft event copy)
+- Financial management and budgeting software
+- Agile project management methodology
+
+**Key growth areas:**
 
 - Leisure management
 - Sports facility
@@ -62,65 +98,64 @@ Organise, direct and coordinate activities and resources for sporting, artistic,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 若获得雇主担保且职业在可担保清单上，可申请此签证，适用薪资门槛（通常£25,600+）。 |
-| Subclass Scale-up（Scale-up visa） | 适合在快速成长企业担任管理职务的申请人，需满足薪资条件。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可在毕业后留英工作2年（博士3年），积累经验后转技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | If you have employer sponsorship and the occupation is on the eligible list, you can apply for this visa, subject to the salary threshold (usually £25,600+). |
+| Subclass Scale-up (Scale-up visa) | Suitable for applicants taking on management roles in fast-growing companies, subject to salary conditions. |
+| Subclass Graduate (Graduate visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhD) after graduation, then switch to a Skilled Worker visa after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Leisure and sports managers and proprietors？**
-- 热爱体育和休闲活动，善于组织协调
-- 具备管理能力和商业意识
-- 能够应对不规则工作时间和周末工作
-
-**谁不适合学Leisure and sports managers and proprietors？**
-- 不喜好与人打交道或团队协作
-- 难以承受快节奏和压力环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and leisure activities, good at organizing and coordinating
+- Possesses management skills and business acumen
+- Able to handle irregular working hours and weekend work
+
+**Who is not suited**
+- Dislikes interacting with people or teamwork
+- Cannot tolerate fast-paced and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of recreation and sports managers?**
+A: Entry-level around £18,000-25,000, mid-level manager £25,000-40,000, senior regional manager up to £65,000, depending on experience and scale.
+
+**Q: Can this occupation immigrate to the UK via the Skilled Worker visa?**
+A: Yes. This occupation is on the eligible occupation list, requiring employer sponsorship and meeting the salary threshold (usually £25,600/year).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Leisure and sports managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for leisure and sports managers?**
-答：Entry-level: £18,000-£25,000; middle manager: £25,000-£40,000; senior regional manager: up to £65,000, depending on experience and organisation size.
-
-**问：Can this occupation qualify for a Skilled Worker visa?**
-答：Yes, it is on the eligible occupations list. You need a sponsor and to meet the salary threshold (typically £25,600/year).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

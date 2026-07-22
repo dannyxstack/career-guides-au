@@ -1,61 +1,94 @@
-# Financial Adviser（Financial Adviser）职业分析 · 新西兰
+# Financial Adviser — career analysis · New Zealand
 
-**职业代码：222313 – Financial Adviser。**
+**Occupation code: 222313 (ANZSCO)**
 
-Provide personal finance, retirement, insurance, and investment advice under FMA regulation with an Authorised Financial Adviser (AFA) license. Not on Green List or long-term shortage list, migration is challenging, primarily via AEWV or partner work visa.
+Provide clients with personal finance, retirement, insurance, and investment advice; must hold an Authorised Financial Adviser (AFA) license regulated by the New Zealand Financial Markets Authority (FMA). This occupation is not on the Green List or long-term shortage list, making immigration difficult, primarily relying on the Accredited Employer Work Visa (AEWV) or partner visa.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（金融、会计等） | 3年 | $30,000~$60,000（新西兰大学本科国际生学费） |
-| 研究生文凭或硕士（金融规划） | 1-2年 | $35,000~$55,000（如梅西大学金融规划硕士） |
+| Bachelor's degree (Finance, Accounting, etc.) | 3 years | $30,000~$60,000 (Tuition fees for international undergraduate students at New Zealand universities) |
+| Graduate diploma or master's (financial planning) | 1-2 years | $35,000~$55,000 (Such as Massey University's Master of Financial Planning) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融顾问证书（Level 5 Certificate） | 理工学院等 | 可选 | 入门基础资格 |
-| 授权金融顾问（AFA）牌照 | 新西兰金融市场管理局(FMA) | 必备 | 须满足NZQA学历和考试，提供建议必须持有 |
-| 雅思成绩（总分7.0） | IDP等 | 可选 | 移民要求，非执业必需 |
+| Authorized Financial Adviser (AFA) license | Financial Markets Authority (FMA) | Required | Must meet NZQA qualifications and exams, must hold to provide advice |
+| Financial Adviser Certificate (Level 5 Certificate) | Polytechnics, etc. | Optional | Entry-level foundational qualification |
+| IELTS score (overall 7.0) | IDP, etc. | Optional | Immigration requirements, not mandatory for practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。新西兰理财顾问需求稳定，受人口老龄化和金融产品复杂化推动，但行业竞争激烈，本土认证要求严格。未来几年就业增长温和，约1-2%，主要在奥克兰、惠灵顿等城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Demand for financial advisors in New Zealand is stable, driven by an aging population and complex financial products, but the industry is competitive with strict local certification requirements. Moderate job growth over the next few years, about 1-2%, mainly in cities like Auckland and Wellington.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 含佣金，底薪约5-6万 |
-| 中级（3-6年） | $75,000~$110,000 | 有AFA牌照，基础薪+佣金 |
-| 高级（6年以上） | $110,000~$200,000 | 高级顾问或合伙人，佣金占比高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Including commission; base salary about 50,000-60,000. |
+| Mid-level (3–6 years) | $75,000~$110,000 | Has AFA license; base salary + commission |
+| Senior (6+ years) | $110,000~$200,000 | Senior consultant or partner, high commission share |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳健（★★★☆☆）。** 从初级顾问积累客户，考取AFA牌照后晋升为高级顾问或团队主管，可转向私人银行或财富管理机构。部分资深顾问独立执业或创立精品理财事务所。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Licensed Financial Advisors Will Not Be Replaced by AI; Instead, AI Enhances Data Processing and Compliance Efficiency, but Entry-Level Roles Have Significantly Narrowed Due to Regulatory and Qualification Requirements.
+
+Start as junior advisor building clients, obtain AFA license to advance to senior advisor or team leader, possibly move to private banking or wealth management. Some experienced advisors practice independently or start boutique firms.
+
+**Tasks most exposed to AI:**
+
+- Basic data collection and organization (client income, assets, liabilities, etc.)
+- Preliminary review and archiving of compliance documents
+- Standardized superannuation balance inquiries and retirement income projection calculations
+- Portfolio rebalancing trade execution
+
+**Where AI augments the role:**
+
+- AI generates first drafts of personalized financial plans, allowing advisors to focus on strategy optimization
+- AI analyzes customer behavior data to provide cross-selling and risk warnings
+- Automated compliance checks to reduce violation risk
+- Market research and investment trend analysis acceleration
+
+**Human moat:**
+
+- Legal and fiduciary duties (e.g., Fiduciary Duty)
+- Building and maintaining complex client relationships
+- Non-standard financial decisions (e.g., estate planning, tax optimization)
+- Final judgment and sign-off responsibility for regulatory compliance.
+
+**Skills to build:**
+
+- Operation of AI financial planning tools (e.g., Vise, Betterment platforms)
+- Data analysis and basic Python/R programming
+- Behavioral Finance and Customer Psychological Insight
+- Advanced compliance and regulatory knowledge (new ASIC regulations)
+- Digital customer relationship management (CRM) systems
+- Cross-selling and wealth management comprehensive skills
+
+**Key growth areas:**
 
 - Moderate growth
 - Licensed advisor required
@@ -64,66 +97,68 @@ Provide personal finance, retirement, insurance, and investment advice under FMA
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，非移民直通，但可积累经验 |
-| Subclass SMC（Skilled Migrant Category） | 如满足6分制（学历+工作经验），但ANZSCO非长期短缺，竞争大 |
-| Subclass Partner（Partner Work Visa） | 如配偶为新西兰居民/公民，可获开放工签 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires employer sponsorship, not a direct immigration path, but can accumulate experience |
+| Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system (qualification + work experience), but the ANZSCO occupation is not on the long-term shortage list, competition is high. |
+| Subclass Partner (Partner Work Visa) | If spouse is a New Zealand resident/citizen, eligible for an open work visa |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Financial Adviser？**
-- 具备金融、会计等背景，善于沟通和建立客户关系者
-- 希望在合规框架下提供专业理财建议，独立工作能力强
-- 愿意投入时间考取AFA牌照并持续进修
+**Who is suited**
+- Those with finance, accounting, etc. backgrounds, good at communication and building client relationships
+- Wishes to provide professional financial advice within a compliant framework, strong ability to work independently.
+- Willing to invest time in obtaining the AFA license and continuous professional development
 
-**谁不适合学Financial Adviser？**
-- 不擅长人际交往或销售，缺乏耐心建立信任
-- 无法接受几年内薪资不高且无移民直通路径
+**Who is not suited**
+- Not good at interpersonal communication or sales, lacks patience to build trust
+- Cannot accept low salary for several years with no direct immigration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of licensed financial advisors in New Zealand?**
+A: Entry-level consultant annual salary approx NZD 55,000-75,000 including commission; senior consultant can reach NZD 110,000-200,000, income highly dependent on clients and commission structure.
+
+**Q: Can licensed financial advisors immigrate to New Zealand?**
+A: This occupation is not on the Green List or long-term shortage list, making direct immigration difficult. The main pathway is to find an accredited employer for an AEWV work visa, then apply for residence through SMC points-based immigration, but requirements for education and income are high.
+
+**Q: What licenses are needed to practice in New Zealand?**
+A: Must hold an Authorised Financial Adviser (AFA) license issued by the FMA, requiring completion of a NZQA-recognised relevant qualification (e.g., Level 5 certificate) and passing exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳健（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Financial Adviser属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a licensed financial adviser in New Zealand?**
-答：Entry-level earns NZ$55,000-75,000 including commissions; senior advisers can earn NZ$110,000-200,000, heavily reliant on client base and commission structure.
-
-**问：Can a licensed financial adviser migrate to New Zealand?**
-答：This occupation is not on the Green List or long-term shortage list, making direct migration difficult. Main pathway is through an AEWV with an accredited employer, then apply for SMC points-based residence, requiring high qualifications and income.
-
-**问：What license is needed to practice in New Zealand?**
-答：An Authorised Financial Adviser (AFA) license from the FMA is mandatory, requiring completion of NZQA-approved qualifications (e.g., Level 5 Certificate) and passing exams.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

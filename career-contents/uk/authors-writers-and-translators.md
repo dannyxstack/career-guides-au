@@ -1,57 +1,90 @@
-# Authors, writers and translators（Authors, writers and translators）职业分析 · UK
+# Authors, writers and translators — career analysis · United Kingdom
 
-**职业代码：3412 – Authors, writers and translators。**
+**Occupation code: 3412 (SOC)**
 
-Authors, writers and translators create, edit and evaluate literary works including books, scripts for film/TV/radio/games, and translate spoken or written content between languages.
+Authors, writers, and translators create, edit, and evaluate literary works, including books, scripts, TV and film scripts, game and animation narratives, and translate spoken and written statements into different languages.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $9,250~$38,500（英国本土学生学费上限，国际学生更高） |
+| Bachelor's degree | 3 years | $9,250~$38,500 (Fee cap for UK domestic students; international students pay higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国文学或创意写作学位 | 英国大学 | 可选 | 多数雇主偏好相关学位，但非强制 |
-| 翻译硕士（如需要） | 英国大学或特许语言学家学会 | 可选 | 专业翻译岗位通常要求翻译硕士或CIOL认证 |
+| Degree in English literature or creative writing. | UK universities | Optional | Most employers prefer a relevant degree, but it is not mandatory. |
+| Master of Translation (if required) | UK universities or the Chartered Institute of Linguists | Optional | Professional translation roles typically require a master's in translation or CIOL certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。英国出版和媒体行业竞争激烈，但数字内容、游戏和影视产业持续增长，自由职业机会增多。预计未来几年岗位增长稳定，但兼职和自雇比例高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. The UK publishing and media industry is highly competitive, but digital content, gaming, and film/TV sectors continue to grow, with increasing freelance opportunities. Job growth is expected to be stable in the coming years, but part-time and self-employment rates are high.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 自由职业收入不稳定，此数字为全职预估 |
-| 中级（3-7年） | $28,000~$45,000 | 包括资深撰稿人、编辑或翻译 |
-| 高级（7年以上） | $45,000~$70,000 | 出版总监、首席翻译或知名作家收入更高 |
+| Median salary | $39,459 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Freelance income is unstable; this figure is a full-time estimate |
+| Mid-level (3–7 years) | $28,000~$45,000 | Including senior copywriters, editors, or translators |
+| Senior (7+ years) | $45,000~$70,000 | Publishing directors, chief translators, or well-known authors earn higher incomes |
+| average salary | $47,931 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从自由撰稿人、编辑助理或翻译员起步；积累作品后可晋升为高级编辑、内容总监或专职作家。部分人转向出版管理、文学代理或创意总监职位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on writers, copywriters, and translators is mixed: automated translation and content generation tools have increased efficiency but also reduced demand for low-end translation and template-based writing jobs; high-creativity narrative and literary work requiring deep human insight still have a strong moat.
+
+Usually start as freelance writer, editorial assistant, or translator; with experience, can advance to senior editor, content director, or full-time writer. Some move into publishing management, literary agency, or creative director roles.
+
+**Tasks most exposed to AI:**
+
+- Translation of standardised contracts and technical documents
+- Writing simple news briefs and product descriptions
+- Basic dialogue generation for line/script drafts
+- Machine translation of multilingual website content requires only minimal human review
+
+**Where AI augments the role:**
+
+- Use AI-assisted generation of story outlines, character settings, and plot branches
+- Use AI translation tools for a quick first draft, then refine the style.
+- Use AI to analyze reader data and adjust narrative pacing and language style
+- Comparing faithfulness and fluency of different translation versions using AI
+
+**Human moat:**
+
+- Literary creation with unique cultural metaphors, puns, and emotional depth
+- Narrative structure and character arc design requiring human judgment
+- Contextualization of sensitive historical, political, and social topics.
+- Long-term maintenance and creative strategy for brand tone consistency
+
+**Skills to build:**
+
+- Proficiency in AI-assisted writing tools (e.g., GPT-4, Claude)
+- Learn prompt engineering and content optimization strategies
+- Enhance cross-cultural communication and contextual analysis skills
+- Proficient in multilingual localization tools (e.g., Trados, MateCat)
+- Learn basic data analysis to understand reader preferences
+- Enhancing original storytelling and brand narrative building skills
+
+**Key growth areas:**
 
 - Digital content
 - Self-publishing
@@ -60,68 +93,67 @@ Authors, writers and translators create, edit and evaluate literary works includ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的作家、编辑或翻译岗位，需满足薪资和技能要求。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在文学、翻译领域有杰出成就或潜力的申请人，无需雇主担保。 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可留英工作2年（博士3年），为积累经验提供过渡。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to writer, editor or translator roles with employer sponsorship, meeting salary and skill requirements. |
+| Subclass Global Talent (Global Talent visa) | For applicants with outstanding achievements or potential in literature and translation, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Graduates from UK universities can stay and work for 2 years (3 years for PhDs), providing a transition period to gain experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Authors, writers and translators？**
-- 热爱写作和语言，有创意和讲故事能力
-- 具备跨文化沟通技巧，适应自由职业模式
-- 有自律性和时间管理能力，能独立完成项目
-
-**谁不适合学Authors, writers and translators？**
-- 寻求稳定高薪和固定工作时间的职业
-- 不喜欢持续学习新技术和适应市场变化
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about writing and language, with creativity and storytelling ability
+- Possess cross-cultural communication skills and adapt to a freelance model
+- Self-disciplined with time management skills, able to independently complete projects
+
+**Who is not suited**
+- Seeking stable, high-paying career with fixed work hours
+- Dislikes continuously learning new technology and adapting to market changes
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for writers and translators?**
+A: Entry-level full-time annual salary is around £20,000-28,000, senior staff can reach £45,000-70,000. Freelancers' income fluctuates greatly and they need to manage their own taxes.
+
+**Q: How can foreigners immigrate to the UK through the writer/translator occupation?**
+A: Can obtain employer sponsorship via Skilled Worker visa, or apply through Global Talent visa based on outstanding achievements. Graduates can also use Graduate visa to gain experience.
+
+**Q: What are the career development paths for writers?**
+A: Start as freelance writer or editorial assistant, can advance to senior editor, content director, or publishing manager. Some move into literary agency, scriptwriting, or digital content strategy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Authors, writers and translators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for authors and translators?**
-答：Entry-level full-time roles earn around £20,000-£28,000, while senior positions can reach £45,000-£70,000. Freelancers have variable incomes and must manage their own taxes.
-
-**问：How can foreigners immigrate to the UK as authors or translators?**
-答：You can apply for a Skilled Worker visa with employer sponsorship, or a Global Talent visa based on exceptional talent. Graduates can use the Graduate visa to gain experience.
-
-**问：What are the career progression paths for writers?**
-答：Start as a freelance writer or editorial assistant, then progress to senior editor, content director, or publishing manager. Some move into literary agency, scriptwriting, or digital content strategy.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

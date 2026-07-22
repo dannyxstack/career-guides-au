@@ -1,59 +1,94 @@
-# Orthotists and Prosthetists（Orthotists and Prosthetists）职业分析 · 加拿大
+# Orthotists and Prosthetists — career analysis · Canada
 
-**职业代码：32110 – Orthotists and Prosthetists。**
+**Occupation code: 32110 (NOC)**
 
-Design, fabricate and fit orthoses and prostheses to help patients regain mobility. Work in hospitals or rehab centers in Canada; eligible for EE/PNP skilled immigration; in demand.
+Design, manufacture and fit orthoses and prostheses to help patients regain mobility. Work in Canadian hospitals or rehabilitation centers, eligible for EE/PNP skilled migration, an occupation in demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大学本科 | 4年 | $40,000~$80,000（学费因学校而异） |
-| 硕士（临床矫形/假肢） | 2年 | $30,000~$60,000（需完成认证课程） |
+| University bachelor's degree | 4 years | $40,000~$80,000 (Tuition varies by school) |
+| Master's degree (Clinical Orthopaedics/Prosthetics) | 2 years | $30,000~$60,000 (Must complete accredited courses.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行业执业资格认证 | 加拿大矫形器师与假肢师协会(CBCP) | 必备 | 需通过考试 |
-| 学历认证(ECA) | IQAS等指定机构 | 必备 | 海外学历需ECA |
-| 语言考试(IELTS/CLB) | IELTS/CELPIP等 | 必备 | 移民要求CLB 7或更高 |
+| Industry practice certification | Canadian Board for Certification of Prosthetists and Orthotists (CBCP) | Required | Requires passing an exam |
+| Educational Credential Assessment (ECA) | Designated bodies such as IQAS | Required | Overseas qualifications require ECA |
+| Language tests (IELTS/CLB) | IELTS/CELPIP, etc. | Required | Immigration requires CLB 7 or higher |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。加拿大人口老龄化及慢性病增加推动需求，BC省等地区明显短缺。预计就业增长稳定，NOC 2021归为技术职业，适合移民。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Canada's aging population and increase in chronic diseases drive demand, with notable shortages in regions like BC. Employment growth is expected to be stable, classified under NOC 2021 as a skilled occupation, suitable for immigration.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 包括实习期 |
-| 中级（4-9年） | $65,000~$85,000 | 有经验者 |
-| 高级（10年以上） | $85,000~$110,000 | 包括主管或私人诊所 |
+| Median salary | $54,000 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Including internship period |
+| Intermediate (4-9 years) | $65,000~$85,000 | Experienced individuals |
+| Senior (10+ years) | $85,000~$110,000 | Including supervisory or private clinics |
+| average salary | $67,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级技术员或助理做起，积累经验后可晋升为高级矫形/假肢师、部门主管或开设私人诊所。继续教育可转向研发或教学岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some design and documentation tasks for orthotists/prosthetists, but clinical assessment, manual crafting, and patient interaction are hard to automate; overall mixed impact.
+
+Start as a junior technician or assistant, gain experience, and can advance to senior orthotist/prosthetist, department head, or open a private practice. Continuing education can lead to R&D or teaching roles.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for initial digital design of orthoses/prostheses
+- Generate routine clinical assessment reports and fitting records
+- Analyse gait data via AI and automatically generate adjustment recommendations
+- Managing repetitive clerical tasks in inventory and ordering processes
+
+**Where AI augments the role:**
+
+- Using AI to simulate and optimize mechanical properties of orthoses/prostheses, improving design precision
+- Using 3D scanning and printing technology to accelerate customised production processes
+- Predicting patient recovery trends through machine learning to assist in developing personalised treatment plans
+- Using AI tools for remote patient follow-up and fitting effect tracking
+- Learn best practices from a large number of cases to provide reference solutions for complex cases.
+
+**Human moat:**
+
+- Tactile sense and experience in manual crafting and fine-tuning of orthoses/prostheses
+- Clinical judgment and empathetic communication in face-to-face patient assessments
+- Comprehensive decision-making considering patient individual differences and complex multimorbidity
+- Liable for the safety and compatibility of medical devices
+- Coordination skills in cross-disciplinary team collaboration (doctors, therapists)
+
+**Skills to build:**
+
+- 3D modeling and printing technologies (e.g., SolidWorks, MeshMixer).
+- AI/machine learning basics (for gait analysis, design optimization).
+- Telemedicine and digital health tool usage
+- Data Analysis and Statistics (e.g., Python, R)
+- Materials science knowledge (new lightweight, flexible materials)
+- Project management and interdisciplinary collaboration skills.
+
+**Key growth areas:**
 
 - Express Entry
 - Provincial Nominee
@@ -62,65 +97,67 @@ Design, fabricate and fit orthoses and prostheses to help patients regain mobili
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry（FSW/CEC）） | 联邦技术移民，需1年加拿大经验或境外符合条件 |
-| Subclass PNP（Provincial Nominee Program） | 省提名，如BC PNP优先保健行业 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋移民试点计划，雇主要求 |
+| Subclass EE (Express Entry（FSW/CEC）) | Federal skilled immigration, requiring 1 year of Canadian experience or eligible overseas |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination, e.g., BC PNP prioritizes healthcare occupations |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, employer requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthotists and Prosthetists？**
-- 有医学或工程背景，对帮助残疾人恢复功能有热情者
-- 动手能力强，注重细节，有耐心和同理心者
-- 愿意接受进一步教育及认证考试者
-
-**谁不适合学Orthotists and Prosthetists？**
-- 对医学和生物力学不感兴趣者
-- 不喜欢直接面对患者、解决复杂问题者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a medical or engineering background and a passion for helping disabled individuals regain function
+- Hands-on and detail-oriented, with patience and empathy
+- Those willing to pursue further education and certification exams
+
+**Who is not suited**
+- For those not interested in medicine and biomechanics
+- Those who dislike direct patient interaction or solving complex problems
+
+---
+
+## 8. FAQ
+
+**Q: What is the income for orthotists or prosthetists in Canada?**
+A: Entry-level annual salary about CAD 50,000-65,000, mid-level 65,000-85,000, senior up to CAD 110,000. Higher in large hospitals or private practice.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: This is a skilled occupation eligible for Express Entry or provincial nomination, such as BC PNP priority. Requires credential assessment, language CLB 7 or higher, and industry certification.
+
+**Q: How to obtain certification as an orthotist/prosthetist in Canada?**
+A: Must complete accredited educational program (bachelor's + master's), pass the CBCP exam, and some provinces require provincial registration. Overseas qualifications need ECA assessment first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Orthotists and Prosthetists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of orthotists and prosthetists in Canada?**
-答：Entry-level CAD 50k-65k, mid-level CAD 65k-85k, senior up to CAD 110k. Higher in hospitals or private practice.
-
-**问：Is this occupation easy for immigration to Canada?**
-答：It's in demand; eligible for EE or PNP (e.g., BC PNP priority). Requires ECA, CLB 7+, and professional certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,90 @@
-# Lumber graders and other wood processing inspectors and graders（Lumber graders and other wood processing inspectors and graders）职业分析 · 加拿大
+# Lumber graders and other wood processing inspectors and graders — career analysis · Canada
 
-**职业代码：94123 – Lumber graders and other wood processing inspectors and graders。**
+**Occupation code: 94123 (NOC)**
 
-Inspect, grade, and mark lumber and wood products for quality, ensuring they meet production standards and customer specifications. Typically employed in sawmills and wood processing plants.
+Responsible for inspecting, grading, and marking the quality of timber and wood products to ensure compliance with production standards and customer requirements. Typically employed in sawmills, wood processing plants, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（基本要求） |
-| 职业培训或学徒 | 1-2年 | $3,000~$8,000（木材分级或相关课程） |
+| High school diploma | 0 years | $0~$0 (Basic requirements) |
+| Vocational training or apprenticeship | 1-2 years | $3,000~$8,000 (Timber Grading or related course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材分级证书 | 加拿大木材分级局（CLSAB） | 可选 | 部分省份要求，提升竞争力 |
-| 省级工匠证书（可选） | 省级学徒机构 | 可选 | 通过学徒项目获得，非强制 |
-| 高中毕业 | 省级教育局 | 必备 | 基本入学要求 |
+| High school graduation | Provincial Education Bureau | Required | Basic admission requirements |
+| Timber grading certificate | Canadian Lumber Standards Accreditation Board (CLSAB) | Optional | Required in some provinces to enhance competitiveness |
+| Provincial Craft Certificate (optional) | Provincial apprenticeship authority. | Optional | Obtained through apprenticeship programs, not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,000。受住房建设和家具需求影响，就业前景稳定。BC省、魁省和安省为主要就业区域。自动化和技术进步可能影响部分岗位，但经验丰富的分级员仍有需求。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,000. Driven by housing construction and furniture demand, employment outlook is stable. BC, Quebec, and Ontario are main employment regions. Automation and technological advances may affect some roles, but experienced graders are still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 实习或入门岗位 |
-| 中级（3-6年） | $46,000~$55,000 | 独立工作 |
-| 高级（6年以上） | $56,000~$70,000 | 主管或专家角色 |
+| Median salary | $57,200 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Internship or entry-level positions |
+| Mid-level (3–6 years) | $46,000~$55,000 | Independent work |
+| Senior (6+ years) | $56,000~$70,000 | Supervisor or Specialist Role |
+| average salary | $60,320 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从木材加工工人起步，积累经验后晋升为分级员。可向质量控制主管、生产经理或技术专家发展，或通过认证成为高级检验员。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will significantly replace visual inspection and manual grading tasks for agricultural product graders and sorters, but will also create new demands for quality traceability, supply chain coordination, etc. Entry-level positions face compression, but technical upgrade paths are clear
+
+Usually start as a wood processing worker, gain experience and advance to grader. Can progress to quality control supervisor, production manager, or technical expert, or become a senior inspector through certification.
+
+**Tasks most exposed to AI:**
+
+- Automated grading of agricultural products by size, color, and defects using computer vision
+- Using automated sorting lines to replace manual sorting.
+- AI replaces manual judgment with sensor-based weight and ripeness detection
+
+**Where AI augments the role:**
+
+- using AI to analyze grading data to optimize supply chain decisions
+- Uses computer vision to assist humans in complex defect identification
+- Use predictive models to warn of quality anomalies in advance
+- Leveraging blockchain and AI to enhance quality traceability transparency
+
+**Human moat:**
+
+- Judgment for non-standard shapes or extreme environment samples
+- Communicate and negotiate grading standards with buyers and growers
+- Subtle discrimination in sensory quality control (e.g., flavor, texture)
+- Handle automation system faults and anomalies
+
+**Skills to build:**
+
+- Basics of machine learning and computer vision
+- Data analysis and statistical modeling
+- Operation and maintenance of automated sorting equipment
+- Supply chain management and coordination
+- Knowledge of food safety and quality control systems
+
+**Key growth areas:**
 
 - Moderate growth
 - Apprenticeship opportunities
@@ -62,68 +93,67 @@ Inspect, grade, and mark lumber and wood products for quality, ensuring they mee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法在本地招聘，获LMIA后可申请工签 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如BC、安省）针对技工类工人有省提名项目 |
-| Subclass Rural and Northern I（RNIP） | 参与社区的雇主担保移民，适用于木材加工行业 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must prove inability to hire locally; can apply for work visa after obtaining LMIA |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario) have provincial nomination programs for skilled trades workers. |
+| Subclass Rural and Northern I (RNIP) | Community-based employer-sponsored immigration for the timber processing industry |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Lumber graders and other wood processing inspectors and graders？**
-- 动手能力强、注重细节的人
-- 愿意在偏远或工业环境工作的人
-- 有木材加工背景或兴趣者
-
-**谁不适合学Lumber graders and other wood processing inspectors and graders？**
-- 不喜欢重复性体力劳动的人
-- 希望办公室工作或高自由度的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented people
+- Those willing to work in remote or industrial environments
+- Those with a background or interest in wood processing.
+
+**Who is not suited**
+- People who dislike repetitive physical labor
+- Those who prefer office work or high flexibility.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for timber graders?**
+A: Entry-level annual salary about CAD 35,000–45,000, senior up to CAD 56,000–70,000. Overtime and bonuses can increase income.
+
+**Q: How to become a timber grader in Canada through skilled migration?**
+A: Can migrate via LMIA work permit or provincial nomination (e.g., BC and Ontario skilled migration programs). Requires employer sponsorship and relevant industry experience.
+
+**Q: Is a specific certificate required?**
+A: Not mandatory, but certification from the Canadian Lumber Standards Accreditation Board (CLSAB) can enhance job opportunities. Some provinces offer voluntary skills certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Lumber graders and other wood processing inspectors and graders的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for lumber graders?**
-答：Entry-level annual salary is around CAD 35,000-45,000, while experienced workers can earn CAD 56,000-70,000. Overtime and bonuses may increase income.
-
-**问：How to immigrate as a lumber grader via skilled migration?**
-答：Options include LMIA work permit or provincial nomination (e.g., BC and Ontario skilled trades streams). Employer sponsorship and relevant experience are required.
-
-**问：Are specific certifications required?**
-答：Not mandatory, but a certificate from CLSAB can improve job prospects. Some provinces offer voluntary skill certifications.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

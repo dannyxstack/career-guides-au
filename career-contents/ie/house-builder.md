@@ -1,61 +1,94 @@
-# House Builder（House Builder）职业分析 · IE
+# House Builder — career analysis · Ireland
 
-**职业代码：7111 – House Builder。**
+**Occupation code: 7111 (ISCO08)**
 
-House builders construct, maintain, and repair residential buildings, performing tasks such as bricklaying, carpentry, and concreting, forming the backbone of Ireland's construction sector.
+Construction workers build, maintain, and repair residential buildings, involving bricklaying, carpentry, concrete and other foundational tasks, forming the core workforce of Ireland's construction industry.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（工资制，政府补贴，低学费） |
-| 高职证书 | 2年 | $3,000~$8,000（部分课程免学费） |
+| Apprenticeship | 4 years | $0~$1,000 (Salary system, government subsidies, low tuition.) |
+| Vocational certificate | 2 years | $3,000~$8,000 (Some courses are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 砌砖工国家认证 | SOLAS | 必备 | 完成学徒制后自动获得 |
-| Safe Pass 安全卡 | SOLAS | 必备 | 所有建筑工人必须持有 |
-| CSCS 技能卡 | Construction Industry Federation | 可选 | 部分工地要求 |
+| National certification for bricklayers | SOLAS | Required | Automatically obtained after completing the apprenticeship |
+| Safe Pass Safety Card | SOLAS | Required | All construction workers must hold |
+| CSCS Skill Card | Construction Industry Federation | Optional | Some worksites require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。爱尔兰住房短缺推动建筑业持续增长，预计2025年前年均新增住宅3.5万套，房屋建造工需求旺盛，尤其在城市更新和郊区扩建项目中。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Ireland's housing shortage drives continued growth in construction, with an expected average of 35,000 new homes annually by 2025; high demand for building workers, especially in urban renewal and suburban expansion projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，自雇收入更高 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary; self-employment income is higher. |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：乐观（★★★★☆）。** 从普通劳工晋升为高级工匠或工头，积累经验后可成为自雇承包商或项目经理，部分人通过进修转为建筑技术员或现场经理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core manual tasks for house builders are hard to replace in the short term, but AI will gradually take over cognitive tasks like design planning and quality inspection; entry-level positions may decrease due to prefabrication technology.
+
+Progress from general labourer to senior tradesperson or foreman, then to self-employed contractor or project manager with experience; some transition to construction technician or site manager through further study.
+
+**Tasks most exposed to AI:**
+
+- Using AI to generate building blueprints and construction plans
+- Using computer vision for construction site safety monitoring and defect detection
+- Optimize material cutting and inventory management through AI.
+- Automated concrete mix design and strength test report generation
+
+**Where AI augments the role:**
+
+- Using AR helmets to assist in precise bricklaying and pipe installation positioning
+- Using AI predictive maintenance tools to schedule repairs
+- Real-time project progress and resource allocation updates via BIM collaboration platforms
+- Using drones and AI for roof and facade inspections
+
+**Human moat:**
+
+- Flexible manual adjustment skills for complex non-standard structures
+- On-site experience in dealing with changing weather and unexpected issues
+- Communication and negotiation with human roles such as clients and supervisors
+- Traditional craft aesthetics (e.g., hand plastering, custom woodworking)
+
+**Skills to build:**
+
+- Operating BIM modeling software (such as Revit, Tekla)
+- Drone operation and image analysis certificate.
+- Ability to install prefabricated components and read CAD drawings
+- Basic programming (Python for automation scripts)
+- Knowledge of sustainable building materials and energy-saving technologies.
+- Use of smart tools (AR glasses, laser measuring devices)
+
+**Key growth areas:**
 
 - Housing shortage
 - Urban renewal
@@ -64,69 +97,68 @@ House builders construct, maintain, and repair residential buildings, performing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用非紧缺职业，需雇主担保，年薪不低于30,000欧元。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若职业在紧缺列表上，年薪达64,000欧元可申请，家属可随行。 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪不低于45,000欧元，特定条件下适用。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary no less than €30,000. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list, an annual salary of €64,000 qualifies for application, and family members can accompany. |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary no less than 45,000 euros, applicable under specific conditions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学House Builder？**
-- 喜欢体力劳动和户外工作的人
-- 希望快速就业且不需要高学历的人
-- 有动手能力和团队合作精神的人
-
-**谁不适合学House Builder？**
-- 不喜欢体力劳动或天气变化的人
-- 追求高薪白领工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy physical labor and outdoor work
+- People who want quick employment and do not require a high level of education
+- People with hands-on ability and teamwork spirit
+
+**Who is not suited**
+- Those who dislike manual labor or weather changes
+- People pursuing high-paying white-collar jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for house construction workers?**
+A: Entry-level annual salary around €28,000-35,000, mid-level €35,000-45,000, senior €45,000-60,000; self-employed income is higher.
+
+**Q: What visa is needed for a construction builder to immigrate to Ireland?**
+A: Common pathway: General Employment Permit (requires employer sponsorship, annual salary ≥€30,000); if the occupation is on the shortage list, a Critical Skills Employment Permit can be applied for.
+
+**Q: What is the career development for a building construction worker?**
+A: Can advance from apprentice to senior tradesperson, then to foreperson, project manager, or self-employed contractor; some move into construction technology or site management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 乐观（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-House Builder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a house builder?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-45,000, and senior €45,000-60,000, with self-employed earning more.
-
-**问：What visa does a house builder need to migrate to Ireland?**
-答：Common path: General Employment Permit (employer-sponsored, salary ≥€30,000); if on shortage list, Critical Skills Employment Permit.
-
-**问：What is the career progression for a house builder?**
-答：From apprentice to senior craftsperson, then to foreman, project manager, or self-employed contractor, with some transitioning to building technology or site management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

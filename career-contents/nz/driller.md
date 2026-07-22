@@ -1,61 +1,93 @@
-# Driller（Driller）职业分析 · 新西兰
+# Driller — career analysis · New Zealand
 
-**职业代码：712212 – Driller。**
+**Occupation code: 712212 (ANZSCO)**
 
-Drillers operate rigs for mineral, geothermal and water well drilling in New Zealand. The mining sector is modest, but geothermal and infrastructure projects offer stable jobs; employer-sponsored work visas (AEWV) are possible.
+Drilling operators run rigs for mineral exploration, geothermal and water well projects. New Zealand's mining sector is small, but geothermal and infrastructure projects provide stable jobs for licensed drillers, accessible via Accredited Employer Work Visa.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制/在职培训 | 2年 | $2,000~$6,000（雇主提供培训，可能需自付部分课程费） |
-| 新西兰国家证书（Level 4） | 1年 | $5,000~$12,000（部分理工学院提供，含实习） |
+| Apprenticeship/On-the-job training | 2 years | $2,000~$6,000 (Employer provides training; may need to pay some course fees) |
+| New Zealand National Certificate (Level 4) | 1 year | $5,000~$12,000 (Offered by some polytechnics, including internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较难（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰钻探证书（NZ Certificate in Drilling Level 4） | 新西兰资格认证局（NZQA）认可的培训机构 | 可选 | 建议持有，部分雇主要求 |
-| 危险货物驾驶员执照（Dangerous Goods Driver Licence） | 新西兰交通局（NZTA） | 可选 | 运输燃油或化学品必备 |
-| 新西兰驾照（Class 1及以上） | 新西兰交通局（NZTA） | 可选 | 雇主通常要求 |
+| New Zealand Certificate in Drilling Level 4 | Training providers recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Recommended, some employers require it |
+| Dangerous Goods Driver Licence | New Zealand Transport Agency (NZTA) | Optional | Required for transporting fuel or chemicals |
+| New Zealand driver's license (Class 1 or higher) | New Zealand Transport Agency (NZTA) | Optional | Employers typically require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 400。新西兰钻探岗位数量有限，主要集中在北岛地热和南岛金矿项目。规模<500人，年均岗位空缺约20-30个，需持新西兰证书或等效经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 400. Drilling jobs in New Zealand are limited, mainly in geothermal in the North Island and gold mines in the South Island. Scale <500 people, average annual vacancies about 20-30, require NZ certificate or equivalent experience.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 多为学徒或助理岗 |
-| 中级（3-5年） | $55,000~$75,000 | 持证独立操作钻机 |
-| 高级（5年以上） | $75,000~$95,000 | 含主管或偏远项目津贴 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $45,000~$55,000 | Mostly apprentice or assistant positions |
+| Mid-level (3–5 years) | $55,000~$75,000 | Operate drilling rig independently with certification |
+| Senior (5+ years) | $75,000~$95,000 | Including supervisor or remote project allowance |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级岗可学徒制或2年经验，晋升高级钻工、钻探主管需考取新西兰国家证书（NZ Certificate in Drilling），部分转向地热项目经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
+
+Entry-level via apprenticeship or 2 years of experience. Promotion to senior driller or drilling supervisor requires NZ Certificate in Drilling; some move to geothermal project management.
+
+**Tasks most exposed to AI:**
+
+- Drill start-stop and feed pressure etc. repetitive operations taken over by automation control system
+- Drill pipe connection/disconnection tasks replaced by remote-controlled robotic arms
+- Manual recording of basic data such as hole depth and rotation speed replaced by automatic sensor uploads
+- Preliminary identification of standard geological profiles completed by AI lithology recognition algorithms
+
+**Where AI augments the role:**
+
+- AI geological modeling assists in optimizing drill hole layouts and drilling parameters
+- Real-time vibration/torque data analysis to predict drill bit wear and downhole incidents
+- AR glasses overlay geological cross-sections to enhance core sample accuracy
+- Digital twin simulation of different drilling strategies in various strata to aid decisions
+
+**Human moat:**
+
+- On-site emergency judgment and handling of complex strata (fracture zones, water-bearing layers)
+- Team safety supervision and emergency communication coordination
+- Flexible repair and spare parts management for drilling rig mechanical failures
+- Experiential intuition in cross-trade collaboration (e.g., drill bit selection and cost trade-offs)
+
+**Skills to build:**
+
+- Fault diagnosis of hydraulic and electrical control systems
+- Basic sensor data interpretation and visualization
+- Remote operation and use of digital twin platforms
+- Rock and mineral identification and well log interpretation
+- WHS risk management (for automation collaborative safety)
+
+**Key growth areas:**
 
 - AEWV
 - On-site Work
@@ -64,68 +96,67 @@ Drillers operate rigs for mineral, geothermal and water well drilling in New Zea
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，满足中位工资（时薪$29.66），可申请工签。非绿色清单，移民路径有限。 |
-| Subclass SMC（Skilled Migrant Category） | 若收入达到中位数1.5倍（时薪$44.49）且职位评估为ANZSCO Skill Level 3，可申请。需积累足够分数。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need a job offer from an accredited employer, meet median wage (hourly $29.66), can apply for a work visa. Not on Green List; limited immigration pathways. |
+| Subclass SMC (Skilled Migrant Category) | If income reaches 1.5 times the median (hourly wage $44.49) and the occupation is assessed as ANZSCO Skill Level 3, application is possible. Need to accumulate sufficient points. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Driller？**
-- 偏好户外体力工作、适应偏远项目
-- 有机械或重工经验、愿意考取新西兰证书
-- 有志于地热或基建行业
-
-**谁不适合学Driller？**
-- 不喜频繁出差或野外艰苦环境
-- 无驾照或体能欠佳
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Prefers outdoor physical work and adapting to remote projects
+- Mechanical or heavy equipment experience, willing to obtain New Zealand certification
+- Aspiring to work in geothermal or infrastructure industries
+
+**Who is not suited**
+- Not fond of frequent travel or harsh outdoor environments
+- No driver's license or poor physical fitness
+
+---
+
+## 8. FAQ
+
+**Q: Can drilling operators immigrate to New Zealand via the Green List?**
+A: No, drilling operators are not on the Green List. The main pathway is the Accredited Employer Work Visa (AEWV); if income is high or you hold relevant certifications, you can try Skilled Migrant Category (SMC), but thresholds are high.
+
+**Q: What is the average annual salary for a Drilling Operator in New Zealand?**
+A: Junior approximately NZD 45,000-55,000, intermediate NZD 55,000-75,000, senior NZD 75,000-95,000. Geothermal projects or remote area allowances can reach over NZD 100,000, but positions are limited.
+
+**Q: What certificates are needed to work as a drilling operator in New Zealand?**
+A: Not mandatory but NZ Certificate in Drilling (Level 4) recommended; employers often require dangerous goods driving license and driver's license. Overseas experience may be recognized but needs NZQA assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较难（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Driller为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can a driller immigrate to New Zealand via the Green List?**
-答：No, driller is not on the Green List. Main path is the Accredited Employer Work Visa (AEWV); with high income or relevant qualifications, Skilled Migrant Category (SMC) may be possible, but requirements are strict.
-
-**问：What is the average annual salary for a driller in New Zealand?**
-答：Entry-level NZD 45,000-55,000; mid-level NZD 55,000-75,000; senior NZD 75,000-95,000. Geothermal or remote projects may exceed NZD 100k, but positions are limited.
-
-**问：What certifications are required to work as a driller in New Zealand?**
-答：Not mandatory but NZ Certificate in Drilling (Level 4) is recommended. Employers often require a Dangerous Goods Driver Licence and a driver's license. Overseas experience may be recognised via NZQA assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

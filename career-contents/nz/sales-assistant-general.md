@@ -1,61 +1,97 @@
-# Sales Assistant (General)（Sales Assistant (General)）职业分析 · 新西兰
+# Sales Assistant (General) — career analysis · New Zealand
 
-**职业代码：621111 – Sales Assistant (General)。**
+**Occupation code: 621111 (ANZSCO)**
 
-Sales Assistants in New Zealand provide product information, sales and checkout services in retail stores, supermarkets and specialty shops. Entry is easy, but skilled migration opportunities are limited, typically via Accredited Employer Work Visa (AEWV), with potential for supervisory or small business ownership.
+Retail salespersons in New Zealand retail stores, supermarkets, and specialty stores provide product introductions, sales, and cashier services. This occupation is easy to enter but has limited skilled migration opportunities; typically, they work through an Accredited Employer Work Visa (AEWV), gain experience, and may later become small business owners or move into management.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无学历要求 | 0年 | —（入职通常无学历要求，培训由雇主提供） |
-| 零售证书（NZQA 2-4级） | 6个月至1年 | $1,500~$5,000（部分院校提供在线或兼职课程，费用不等） |
+| No education requirement | 0 years | $0~$0 (No degree required for entry; training provided by employer.) |
+| Retail certificate (NZQA Level 2-4) | 6 months to 1 year | $1,500~$5,000 (Some institutions offer online or part-time courses with varying fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售业国家证书（2-4级） | 新西兰资格认证局（NZQA） | 可选 | 非强制，但提升就业竞争力 |
-| 急救证书 | 新西兰红十字会等 | 可选 | 部分雇主要求，尤其大型商场 |
-| 酒类销售执照（LCQ） | 新西兰酒类监管机构 | 必备 | 销售酒类商品时必须持有 |
+| Licence Controller Qualification (LCQ). | New Zealand alcohol regulatory agency | Required | Must hold when selling alcohol products |
+| National Certificate in Retail (Levels 2-4) | New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but enhances employment competitiveness |
+| First aid certificate | New Zealand Red Cross, etc. | Optional | Required by some employers, especially in large shopping malls |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。新西兰零售业就业人数约15万，受旅游业和本地消费驱动。预计未来5年增长率中等，但兼职和季节性工作较多。奥克兰等大城市机会更多，偏远地区需求较低。自动收银可能减少初级岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. New Zealand retail industry employs about 150,000 people, driven by tourism and local consumption. Growth rate expected to be moderate over next 5 years, but many part-time and seasonal jobs. More opportunities in cities like Auckland; lower demand in remote areas. Self-checkout may reduce entry-level positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约18-23纽币，多为兼职 |
-| 中级（3-5年） | $45,000~$55,000 | 全职，含奖金或佣金 |
-| 高级/主管（5年以上） | $55,000~$70,000 | 含管理职责，店经理可达8万+ |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage about 18-23 NZD, mostly part-time |
+| Mid-level (3–5 years) | $45,000~$55,000 | Full-time, including bonus or commission |
+| Senior/Supervisor (5+ years) | $55,000~$70,000 | Including management duties, store manager can reach $80,000+ |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级销售员可晋升高级销售员、组长或部门经理，再至店经理。部分人转向采购、营销或创业开设零售店。需积累客户服务与销售经验，新西兰本地零售证书有助晋升。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+Junior sales staff can advance to senior salesperson, team leader, or department manager, then to store manager. Some transition to purchasing, marketing, or entrepreneurship by opening retail stores. Accumulating customer service and sales experience is needed, and New Zealand local retail certifications aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - Low demand
 - Seasonal
@@ -64,65 +100,67 @@ Sales Assistants in New Zealand provide product information, sales and checkout 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有新西兰雇主担保，零售岗位需满足薪资中位数（目前约29.66纽币/时），但初级销售员常低于此标准，难度较高。 |
-| Subclass WHS（Working Holiday Scheme） | 打工度假签，适用于18-30岁（部分国家35岁）青年，可从事零售短期工作，但不可转为移民路径。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires New Zealand employer sponsorship. Retail roles must meet median wage (currently ~NZD 29.66/hour), but entry-level sales often fall below this, making it difficult. |
+| Subclass WHS (Working Holiday Scheme) | Working holiday visa, for ages 18-30 (35 in some countries), allows short-term retail work but no migration pathway. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sales Assistant (General)？**
-- 寻求临时工作或兼职的学生和背包客
-- 希望以零售为跳板转向销售管理或创业的人
-- 无需高学历、注重人际沟通的求职者
+**Who is suited**
+- Students and backpackers seeking temporary or part-time work
+- Those who want to use retail as a springboard into sales management or entrepreneurship
+- Job seekers without high educational requirements who value interpersonal communication
 
-**谁不适合学Sales Assistant (General)？**
-- 希望快速技术移民的人（PR路径极窄）
-- 期望高收入或稳定全职职业发展的人
+**Who is not suited**
+- Those seeking fast-track skilled migration (very narrow PR pathways)
+- Those seeking high income or stable full-time career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average hourly wage for a retail salesperson in New Zealand?**
+A: Entry-level: about $18-$23 NZD/hour, mid-level: $23-$26, supervisor: $26-$30; most positions are part-time, annual income typically $30,000-$50,000 NZD.
+
+**Q: Can a retail salesperson obtain New Zealand residency through skilled migration?**
+A: Extremely difficult. This occupation is not on the Green List and does not meet SMC skill occupation requirements (usually require ANZSCO 1-3). The only route is on AEWV at median wage, but entry-level salaries often fall short, and requires employer support for long-term residence; success rate is low.
+
+**Q: Is there room for advancement as a retail salesperson in New Zealand?**
+A: Yes, can advance to senior salesperson, department head, or store manager. Large retailers offer training programs, but advancement requires experience and sales performance. Later can also move into procurement, marketing, or starting own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Sales Assistant (General)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average hourly wage for a Sales Assistant in New Zealand?**
-答：Entry-level roles pay around NZD 18-23/hr, intermediate NZD 23-26, and supervisory roles up to NZD 26-30/hr. Most jobs are part-time, with annual earnings between NZD 30,000-50,000.
-
-**问：Can a Sales Assistant obtain New Zealand residency through skilled migration?**
-答：Very difficult. The occupation is not on the Green List and does not meet SMC skill requirements (ANZSCO level 1-3). The only possible route is via AEWV with median wage, but entry-level salaries are often below threshold and employer support is hard to secure.
-
-**问：Is there career progression for a Sales Assistant in New Zealand?**
-答：Yes, you can advance to senior sales, team leader, or store manager. Larger retailers offer training programs, but progression requires experience and sales performance. Later, you may move into purchasing, marketing, or own a retail business.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

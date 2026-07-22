@@ -1,60 +1,96 @@
-# NDIS Plan Manager（NDIS Plan Manager）职业分析 · 新西兰
+# NDIS Plan Manager — career analysis · New Zealand
 
-**职业代码：551113 – NDIS Plan Manager。**
+**Occupation code: 551113 (ANZSCO)**
 
-NDIS Plan Managers manage NDIS funds on behalf of participants, reviewing invoices, processing reimbursements, tracking budgets, and generating reports. This role is not on New Zealand's immigration skill list, suitable only for local employment or existing work visa holders.
+NDIS plan administrators manage NDIS funds on behalf of participants in non-profit or private organizations, reviewing invoices, processing reimbursements, tracking budgets, and generating reports, with a focus on financial administration. This role is not on the New Zealand immigration skill shortage list and is only suitable for local employment or those holding a work visa.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭 | 1-2年 | $15,000~$30,000（例如新西兰商科或会计大专） |
-| 本科学位 | 3年 | $30,000~$50,000（商科或相关专业） |
+| Diploma | 1-2 years | $15,000~$30,000 (e.g., a New Zealand business or accounting diploma) |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Business or related major.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰财务证书（如New Zealand Certificate in Financial Services） | 新西兰学历认证局（NZQA） | 可选 | 有助于提升竞争力，非强制要求 |
-| 会计从业资格（如CAANZ） | 新西兰会计师协会（CAANZ） | 可选 | 如需晋升高级岗位可考虑 |
+| New Zealand Certificate in Financial Services | New Zealand Qualifications Authority (NZQA) | Optional | Helps improve competitiveness, not mandatory |
+| Accounting professional qualification (e.g., CAANZ) | Chartered Accountants Australia and New Zealand (CAANZ) | Optional | Consider if aiming for senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。新西兰NDIS相关服务需求随残疾支持服务增长，但职位集中在已有签证的申请人中，竞争中等。薪资偏低，就业机会主要在大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. Demand for New Zealand NDIS-related services grows with disability support services, but roles are concentrated among applicants with existing visas, with moderate competition. Salaries are low, and job opportunities are mainly in major cities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 对应行政或财务助理 |
-| 中级（3-6年） | $55,000~$70,000 | 经验丰富的计划管理员 |
-| 高级（6年以上） | $70,000~$85,000 | 含管理职责或特殊技能 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Corresponds to administrative or financial assistant |
+| Mid-level (3–6 years) | $55,000~$70,000 | Experienced plan administrator |
+| Senior (6+ years) | $70,000~$85,000 | Includes management duties or special skills |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初期可积累财务行政经验，后期转向更专业的财务职位（如持证会计师）或NDIS高级管理岗，需额外考取新西兰财务资格认证。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+NDIS plan administrators are at high risk of automation. Smart invoice review, automatic budget tracking, and report generation will significantly reduce job demand; entry-level work will be replaced by AI, with fewer future positions and greater reliance on technical tools.
+
+Initially gain financial administrative experience, later transition to more specialized financial roles (e.g., certified accountant) or NDIS senior management, requiring additional New Zealand financial qualification certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically review invoices and match NDIS categories with budget items
+- Automatically track budget usage and generate real-time reports
+- Automatically submit reimbursement claims and reconciliation to NDIA
+- Automated sorting and organizing of receipts and vouchers
+- Automatically generating monthly/quarterly fund reports
+
+**Where AI augments the role:**
+
+- AI-Assisted Abnormal Invoice Identification and Fraud Detection
+- AI-driven financial forecasting and budget optimization suggestions
+- AI-generated personalized fund usage reports and visualizations
+- AI automated email responses and customer inquiries
+- AI-assisted compliance checks and policy updates
+
+**Human moat:**
+
+- Handle complex or disputed reimbursement cases
+- Build trust and communicate with participants and caregivers
+- Interpret uncertain policies and provide personalised advice
+- Cross-agency coordination and problem solving
+- Managing sensitive financial information and ethical decision-making
+
+**Skills to build:**
+
+- Financial software and automation tools (e.g., Xero, QuickBooks)
+- Data analysis and visualization (Power BI, Tableau)
+- AI tool usage and basic prompt engineering
+- NDIS policy interpretation and compliance knowledge
+- Customer relationship management and communication skills
+- Basic programming (Python for financial automation)
+
+**Key growth areas:**
 
 - Non-migration eligible
 - No Green List
@@ -63,61 +99,63 @@ NDIS Plan Managers manage NDIS funds on behalf of participants, reviewing invoic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需找到新西兰认证雇主，该职位可能符合低技能工签要求，但移民局不将其列为技术移民职业。 |
-| Subclass Visitor Visa（Visitor Visa） | 通常不允许工作，但可短期商务活动。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need to find a New Zealand accredited employer; this position may meet requirements for a low-skilled work visa, but immigration does not list it as a skilled migration occupation. |
+| Subclass Visitor Visa (Visitor Visa) | Generally not permitted to work, but short-term business activities allowed. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学NDIS Plan Manager？**
-- 已持有新西兰工作签证或居民签证，且具备基础财务行政技能者
-- 希望快速入职护理相关行政岗位、不寻求技术移民的人士
+**Who is suited**
+- Already holding a New Zealand work visa or resident visa and having basic financial administrative skills
+- Individuals seeking quick entry into nursing-related administrative roles, not pursuing skilled migration
 
-**谁不适合学NDIS Plan Manager？**
-- 计划通过技术移民获得新西兰居民身份的人士
-- 追求高薪或长期职业发展的人群
+**Who is not suited**
+- People planning to obtain New Zealand residency through skilled migration.
+- For those seeking high pay or long-term career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for NDIS Plan Administrators in New Zealand?**
+A: Salary lower: junior approx NZD 45k-55k, mid-level 55k-70k, senior 70k-85k.
+
+**Q: Can an NDIS plan administrator immigrate to New Zealand via skilled migration?**
+A: No. This occupation is not on the New Zealand Skilled Migrant Occupation List or Green List, so you cannot apply for a resident visa under the skilled migration pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-NDIS Plan Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for NDIS Plan Managers in New Zealand?**
-答：Salaries are relatively low: entry-level NZ$45k-55k, mid-level NZ$55k-70k, senior NZ$70k-85k.
-
-**问：Can NDIS Plan Managers migrate to New Zealand through skilled migration?**
-答：No. This occupation is not on New Zealand's skilled migration list or Green List, so it is ineligible for residence via skilled pathways.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

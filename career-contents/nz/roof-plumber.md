@@ -1,59 +1,91 @@
-# Roof Plumber（Roof Plumber）职业分析 · 新西兰
+# Roof Plumber — career analysis · New Zealand
 
-**职业代码：334113 – Roof Plumber。**
+**Occupation code: 334113 (ANZSCO)**
 
-Roof plumbers install and maintain metal roofs, gutters, downpipes, and waterproofing systems. This Green List Tier 1 occupation offers a direct pathway to residence under the Skilled Migrant Category.
+Roof plumbers install and maintain metal roofs, gutters, downpipes and waterproofing systems, with stable demand in residential and commercial buildings. This is a Tier 1 occupation on New Zealand's Green List for skilled migration, eligible for direct residence.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（雇主资助，可能需支付工具和材料费） |
-| 预培训课程 | 6个月 | $3,000~$8,000（私立院校提供，如MIT或WelTec） |
+| Apprenticeship | 3-4 years | $0~$2,000 (Employer-funded; may require payment for tools and materials) |
+| Pre-training course | 6 months. | $3,000~$8,000 (Offered by private institutions such as MIT or WelTec.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰屋顶管工证书（L4） | 新西兰技能组织 | 必备 | 需完成学徒制并通过评估 |
-| 驾驶执照（Class 1） | NZTA | 必备 | 用于驾驶公司车辆 |
-| 工作安全证书 | Site Safe | 可选 | 基本安全培训 |
+| New Zealand Roof Plumber Certificate (L4) | Skills Organisation New Zealand | Required | Must complete an apprenticeship and pass assessment |
+| Driver's License (Class 1) | NZTA | Required | For driving company vehicles |
+| Work safety certificate | Site Safe | Optional | Basic safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰建筑行业持续增长，住房短缺和基础设施重建推动屋顶管工需求。预计未来5年就业人数增长约10%，尤其在奥克兰和基督城等城市。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's construction industry is growing steadily; housing shortages and infrastructure reconstruction drive demand for roof plumbers. Employment is expected to grow by about 10% over the next 5 years, especially in cities like Auckland and Christchurch
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒或新手阶段 |
-| 中级（3-5年） | $60,000~$75,000 | 熟练持证屋顶管工 |
-| 高级（5年以上） | $80,000~$100,000 | 资深工头或自雇承包商 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or beginner stage |
+| Mid-level (3–5 years) | $60,000~$75,000 | Skilled licensed roof plumber |
+| Senior (5+ years) | $80,000~$100,000 | Senior foreman or self-employed contractor |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级屋顶管工可通过学徒制晋升为熟练工，积累经验后可担任项目经理或自营承包商。持有相关证书和经验者有机会晋升为建筑监督或技术顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofing work is a skilled physical occupation that AI/automation cannot fully replace, but it will optimize design, measurement, and material ordering to increase efficiency, while non-technical tasks like paperwork may be taken over.
+
+Junior roof plumbers can advance to tradespersons through apprenticeships, then move up to project managers or self-employed contractors. With relevant certificates and experience, there are opportunities for promotion to construction supervisor or technical consultant.
+
+**Tasks most exposed to AI:**
+
+- Use AI for automatic calculation of roof slope and drainage volume
+- Automatically generate 3D roof models and measurement reports via drones
+- AI automatically generates material lists and purchase orders
+- AI automatically checks compliance documents and code
+
+**Where AI augments the role:**
+
+- AI providing real-time safety risk alerts (e.g., high-altitude work environments)
+- AI-assisted troubleshooting (e.g. leak point analysis)
+- Improve installation accuracy by superimposing design drawings through AR
+- AI optimizes solar integration solutions, improving energy efficiency
+
+**Human moat:**
+
+- Physical Installation and Adjustment in Complex Environments
+- Experiential judgment in handling unexpected structural and material issues
+- Safety awareness and emergency response for working at heights
+- Face-to-face communication and coordination skills with clients and supervisors
+
+**Skills to build:**
+
+- Master BIM (Building Information Modeling) software operations
+- Learning drone operation and 3D modeling
+- Familiar with AI-driven engineering diagnostic tools
+- Enhance knowledge of solar system integration
+- Enhance safety protocols and emergency response training
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +94,67 @@ Roof plumbers install and maintain metal roofs, gutters, downpipes, and waterpro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 无需工作转居留，符合条件可立即申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，注册职业加6分，满足薪资和年龄可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达Green List要求，可通过认证雇主工作转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | No work-to-residence requirement; eligible to apply for residence immediately upon meeting conditions |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation adds 6 points; meeting salary and age requirements allows application. |
+| Subclass AEWV (Accredited Employer Work Visa) | If Green List requirements are not met, transition to residence via accredited employer work is possible |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roof Plumber？**
-- 喜欢户外体力工作，不惧高空作业
-- 有建筑或装修经验，愿意学习技术
-- 有意通过技术移民新西兰
-
-**谁不适合学Roof Plumber？**
-- 恐高或对天气敏感
-- 希望办公室或低体力工作
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work, not afraid of working at heights
+- Experience in construction or renovation, willing to learn technology
+- Interested in immigrating to New Zealand via skilled migration
+
+**Who is not suited**
+- Fear of heights or sensitivity to weather
+- Prefers office or low-physical-work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for roof plumbers?**
+A: Entry-level around $45,000-$55,000, mid-level $60,000-$75,000, senior $80,000-$100,000. Self-employed income higher.
+
+**Q: How can a roof plumber immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1; eligible for direct residence if requirements met. Also can apply through SMC 6-point system (registered occupation +6 points) or AEWV work visa then residence.
+
+**Q: Is a New Zealand certificate required?**
+A: Yes, must complete an apprenticeship and obtain a New Zealand Certificate in Roof Plumbing (L4). Overseas qualifications require assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Roof Plumber的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a roof plumber?**
-答：Entry-level: $45,000-$55,000, intermediate: $60,000-$75,000, senior: $80,000-$100,000. Self-employed earn more.
-
-**问：How can a roof plumber immigrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, eligible for direct residence. Also via SMC (6 points for registration) or AEWV to residence.
-
-**问：Is NZ certification required?**
-答：Yes, completion of apprenticeship and obtaining NZ Certificate in Roof Plumbing (L4) is mandatory. Overseas qualifications need assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

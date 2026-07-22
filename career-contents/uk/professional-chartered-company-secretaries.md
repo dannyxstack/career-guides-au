@@ -1,58 +1,90 @@
-# Professional/chartered company secretaries（Professional/chartered company secretaries）职业分析 · UK
+# Professional/chartered company secretaries — career analysis · United Kingdom
 
-**职业代码：2435 – Professional/chartered company secretaries。**
+**Occupation code: 2435 (SOC)**
 
-Ensure companies comply with legal, statutory and financial requirements, monitor corporate governance standards, and provide board secretarial services.
+Ensure the company complies with legal, regulatory, and financial requirements, oversee corporate governance standards, and provide board secretarial services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$9,250（英格兰本科年均学费） |
-| 硕士 | 1年 | $10,000~$20,000（相关硕士课程费用） |
+| Bachelor's degree | 3 years | $9,000~$9,250 (Average annual tuition fee for undergraduate studies in England) |
+| Master's degree | 1 year | $10,000~$20,000 (Cost of relevant master's courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许公司秘书资格（Chartered Secretary） | 特许公司秘书与行政人员协会（ICSA） | 必备 | 通过专业考试获得，是入行关键 |
-| 法律或商务相关学位 | 大学 | 可选 | 通常要求法律、会计或管理学位 |
+| Chartered Secretary qualification | Chartered Institute of Secretaries and Administrators (ICSA) | Required | Obtained through professional exams; key to entering the industry |
+| Degree in law or business | University | Optional | Typically requires a degree in law, accounting, or management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。随着企业治理要求日益严格，该职业需求稳定增长，尤其在上市公司和大型组织中。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. With increasingly stringent corporate governance requirements, demand for this occupation is growing steadily, especially in listed companies and large organizations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 助理公司秘书 |
-| 中级（3-7年） | $40,000~$60,000 | 公司秘书 |
-| 高级（7年以上） | $70,000~$120,000 | 集团秘书或治理总监 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Assistant Company Secretary |
+| Mid-level (3–7 years) | $40,000~$60,000 | Company Secretary |
+| Senior (7+ years) | $70,000~$120,000 | Company Secretary or Governance Director |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理公司秘书晋升为公司秘书，进而担任治理总监或首席治理官，也可转向法律或合规领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate tasks such as governance monitoring and compliance document generation, but human accountability and strategic decision-making remain essential; roles transition to AI-augmented governance analysts, with increased competition for entry-level positions.
+
+Can progress from assistant company secretary to company secretary, then to governance director or chief governance officer, or transition to legal or compliance fields.
+
+**Tasks most exposed to AI:**
+
+- automatically generate meeting minutes and draft resolutions for shareholders' general meetings
+- Real-time monitoring of regulatory changes and generating compliance checklists
+- Automated board meeting scheduling and document distribution.
+- Basic governance data collation and preliminary analysis
+
+**Where AI augments the role:**
+
+- Using AI for governance risk assessment and trend prediction
+- AI-assisted ESG report data analysis and benchmarking.
+- Optimizing board information briefs through intelligent systems
+- AI-driven stakeholder communication analysis and recommendations
+
+**Human moat:**
+
+- Professional judgment on complex corporate governance issues
+- Assume legal and fiduciary responsibilities
+- Strategic communication with board and senior management
+- Confidentiality and ethical decision-making when handling sensitive information
+
+**Skills to build:**
+
+- ESG (Environmental, Social, Governance) reporting and analysis
+- AI governance tools (e.g. Diligent, BoardIntel)
+- Data visualization (Tableau, Power BI).
+- Risk Management and Regulatory Technology (RegTech)
+- Advanced business analysis and critical thinking
+- Stakeholder management communication skills
+
+**Key growth areas:**
 
 - Corporate governance
 - Regulatory compliance
@@ -61,67 +93,66 @@ Ensure companies comply with legal, statutory and financial requirements, monito
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证条件，需雇主担保且薪资达到一般门槛（通常£26,200/年） |
-| Subclass Global Talent（Global Talent Visa） | 如果申请人证明是治理领域杰出人才，可申请 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Eligible for Skilled Worker visa, requires employer sponsorship and salary meeting general threshold (usually £26,200/year) |
+| Subclass Global Talent (Global Talent Visa) | If the applicant proves to be an outstanding talent in the field of governance, they may apply |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Professional/chartered company secretaries？**
-- 注重细节、有法律合规意识的人
-- 喜欢在董事会层面工作、具有优秀沟通能力的人
-- 有会计、法律或管理背景的人
-
-**谁不适合学Professional/chartered company secretaries？**
-- 不喜欢文书工作和合规流程的人
-- 难以应对高压和严格截止日期的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals with legal compliance awareness
+- People who enjoy working at the board level and have excellent communication skills
+- People with an accounting, legal, or management background
+
+**Who is not suited**
+- People who dislike paperwork and compliance processes
+- Those who struggle with high pressure and strict deadlines
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a chartered company secretary?**
+A: Junior approximately £25,000-35,000, mid-level £40,000-60,000, senior up to £120,000+.
+
+**Q: Can this occupation immigrate to the UK via the Skilled Worker visa?**
+A: Yes, as long as you obtain employer sponsorship and meet the salary requirement (typically £26,200/year).
+
+**Q: Is this occupation on the shortage occupation list?**
+A: Not eligible, thus cannot access the preferential salary threshold for in-demand occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Professional/chartered company secretaries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a chartered company secretary?**
-答：Entry-level around £25,000-£35,000, mid-level £40,000-£60,000, senior up to £120,000+.
-
-**问：Can this occupation immigrate to the UK via Skilled Worker visa?**
-答：Yes, with employer sponsorship and meeting salary threshold (usually £26,200/year).
-
-**问：Is this occupation on the shortage occupation list?**
-答：No, so it does not benefit from the lower salary threshold for shortage occupations.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Blacksmith（Blacksmith）职业分析 · IT
+# Blacksmith — career analysis · Italy
 
-**职业代码：7221 – Blacksmith。**
+**Occupation code: 7221 (ISCO08)**
 
-Blacksmiths shape and repair iron and steel by forging, welding, and heat treatment, producing items like tools, horseshoes, and decorative metalwork, using hammers, presses, and anvils in workshops or industrial settings.
+Blacksmiths manufacture and repair metal items such as tools, horseshoes, and decorative ironwork through forging, welding, and heat treatment processes. They use hammers, presses, and other equipment, working in traditional forges or modern factories.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3-4年（学徒制） | —（学徒期间带薪培训） |
-| 职业高中 | 2-3年 | —（公立学校免费或低费） |
+| Vocational training | 3-4 years (apprenticeship). | $0~$5,000 (Paid training during apprenticeship) |
+| Vocational high school | 2-3 years | $0~$2,000 (Public schools free or low-cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 铁匠职业资格证书 | 各地区手工业协会 | 必备 | 通常通过学徒期满考核获得 |
+| Blacksmith qualification certificate | Regional Handicraft Associations | Required | Usually obtained upon completion of an apprenticeship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。意大利铁匠需求稳定，但受工业化影响，传统手工艺岗位减少。不过，修复文化遗产和定制金属制品领域仍有需求，尤其在旅游区和历史建筑修复项目中。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. Demand for Italian blacksmiths is stable, but traditional craftsmanship roles have declined due to industrialization. However, there is still demand in restoring cultural heritage and custom metalwork, especially in tourist areas and historical building restoration projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒/助手薪资 |
-| 中级（3-8年） | $24,000~$32,000 | 熟练铁匠 |
-| 高级（8年以上） | $32,000~$45,000 | 高级工匠或自雇 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice/assistant salary |
+| Mid-level (3–8 years) | $24,000~$32,000 | Skilled blacksmith. |
+| Senior (8+ years) | $32,000~$45,000 | Senior artisan or self-employed. |
+| average salary | $29,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级铁匠可晋升为高级工匠或工头，也可专攻艺术铁艺或古法锻造。部分经验者开设独立作坊或转向文物修复。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not completely replace blacksmiths, but automation will compress mass-produced metal product jobs; high-end custom, restoration, and artistic ironwork will be enhanced by AI-assisted design, creating a 'polarized' labor market.
+
+Junior blacksmiths can advance to senior craftsmen or foremen, or specialize in artistic ironwork or traditional forging. Some experienced ones open independent workshops or shift to artifact restoration.
+
+**Tasks most exposed to AI:**
+
+- Repetitive forging (e.g., standard bolts, batch agricultural tools) is automatically completed by CNC forging machines.
+- Welding path planning (simple right-angle welding) is performed automatically by the robot
+- Heat treatment temperature and time control managed by AI closed-loop system.
+- Metal surface polishing, burr removal, and other finishing steps are replaced by robotic arms
+- Inventory management and order processing automated by ERP+AI predictive systems
+
+**Where AI augments the role:**
+
+- AI-assisted design of intricate wrought iron patterns (generative design creates structurally optimized Crystal Grain iron doors)
+- AR glasses overlay welding guidance lines to improve precision in complex curved surface welding
+- AI quality inspection system (visual inspection + acoustic analysis) for real-time monitoring of internal defects in forgings
+- Digital twin simulation of forging stress distribution reduces trial-and-error costs
+- Online customization platforms allow customers to preview ironwork effects via AI visualizers, shortening communication cycles
+
+**Human moat:**
+
+- The subtle feel of manual hammer forging and the artistic effect of hammer marks cannot be replicated by machines
+- Judgment for on-site restoration of antique ironwork or special historical building components
+- The craftsmanship of understanding artistic intent in custom projects and translating it into executable plans
+- Intuition and experience in heat treatment of special metals (such as old iron with abnormal carbon content).
+- Trust and creative integration in face-to-face communication with architects and designers
+
+**Skills to build:**
+
+- Learn CAD/CAM (e.g. Fusion 360) and parametric design
+- Master operation and debugging of AR-assisted welding/assembly equipment
+- Learning metal 3D printing (powder bed fusion, directed energy deposition)
+- Basic Python scripting for custom AI tools or data analysis
+- Materials science and metallurgy (especially high-performance alloys, composite metals)
+- Digital marketing and e-commerce operations (showcasing custom wrought iron works, securing global orders)
+
+**Key growth areas:**
 
 - Heritage restoration
 - Custom metalwork
@@ -62,62 +98,64 @@ Blacksmiths shape and repair iron and steel by forging, welding, and heat treatm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 通常要求大学学历，不适用于铁匠职业 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 仅当列入年度配额时可用，铁匠极少被纳入 |
+| Subclass EU Blue Card (EU Blue Card) | Usually requires a university degree, not applicable to the blacksmith occupation |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Available only when included in the annual quota; blacksmiths are rarely included |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Blacksmith？**
-- 喜欢手工制作和体力劳动的人
-- 对传统工艺和金属锻造有热情的人
-- 愿意长期学徒并掌握专业技能的人
+**Who is suited**
+- People who enjoy manual crafting and physical labor
+- People passionate about traditional crafts and metal forging
+- People willing to commit to long-term apprenticeships and acquire specialized skills
 
-**谁不适合学Blacksmith？**
-- 不喜欢高强度体力劳动和高温环境的人
-- 寻求高薪或快速晋升的人
+**Who is not suited**
+- Those who dislike high-intensity physical labor and high-temperature environments
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a blacksmith in Italy?**
+A: Annual salary for Italian blacksmiths ranges from €18,000 to €45,000, with entry-level around €18,000-€24,000 and senior reaching €45,000. Self-employed income can vary significantly.
+
+**Q: Can a foreign blacksmith immigrate to Italy?**
+A: Blacksmith is not a shortage occupation in Italy; immigration pathways are limited. Only available through the annual Decreto Flussi quota for work visas, but slots are very scarce. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Blacksmith属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a blacksmith in Italy?**
-答：The annual salary for a blacksmith in Italy ranges from €18,000 to €45,000, with entry-level around €18,000-€24,000 and experienced up to €45,000. Self-employed income varies.
-
-**问：Can a foreign blacksmith immigrate to Italy?**
-答：Blacksmiths are not in shortage in Italy, so immigration options are limited. Only the annual Decreto Flussi quota work visa may apply, but slots are scarce. EU citizens have free movement.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

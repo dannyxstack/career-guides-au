@@ -1,61 +1,97 @@
-# Car, Taxi and Van Drivers（Car, Taxi and Van Drivers）职业分析 · IT
+# Car, Taxi and Van Drivers — career analysis · Italy
 
-**职业代码：8322 – Car, Taxi and Van Drivers。**
+**Occupation code: 8322 (ISCO08)**
 
-Car, taxi and van drivers operate vehicles to transport passengers or goods, covering short urban trips and long-distance routes, forming a fundamental occupation in Italy's transport sector.
+Car, taxi, and truck drivers operate vehicles to transport passengers or goods, covering short-distance city trips and long-distance transport, forming a foundational occupation in Italy's transport sector.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 驾照培训 | 3-6个月 | $1,500~$3,000（含理论考试与实践培训，私立驾校费用） |
-| 职业高中课程 | 2年（职业证书） | —（公立职业高中免费，私人课程约2000欧元） |
+| Driving license training | 3-6 months | $1,500~$3,000 (Includes theory exam and practical training, private driving school fees) |
+| Vocational high school courses | 2 years (vocational certificate) | $0~$2,000 (Public vocational high schools are free; private courses cost about 2000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| B类驾照 | 意大利交通部 (Ministero delle Infrastrutture e dei Trasporti) | 必备 | 驾驶普通轿车和货车的法定要求 |
-| 出租车驾驶执照 | 当地市政府 (Comune) | 必备 | 需通过考试并满足居住要求，部分城市有名额限制 |
-| CPC证书 (职业能力证书) | 意大利交通部 | 必备 | 货车和客车司机法定要求，包括35小时定期培训 |
+| Class B driver's license | Italian Ministry of Infrastructure and Transport (Ministero delle Infrastrutture e dei Trasporti) | Required | Legal requirements for driving standard cars and vans |
+| Taxi driving license | Local municipality (Comune) | Required | Must pass an exam and meet residency requirements; some cities have quotas. |
+| CPC certificate (Vocational Competence Certificate) | Italian Ministry of Transport | Required | Legal requirements for truck and bus drivers, including 35 hours of periodic training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。意大利出租车和货运需求稳定，旅游业恢复推动出租车需求，电商增长促进货车司机需求，但行业面临老龄化与年轻劳动力短缺，未来5年就业机会中等偏上。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. Taxi and freight demand in Italy is stable, with tourism recovery boosting taxi demand and e-commerce growth increasing truck driver demand, but the industry faces aging and shortage of young workers, with moderate to high job opportunities over the next 5 years.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 多为自雇或按日计酬，年收入波动大 |
-| 中级（4-8年） | $25,000~$35,000 | 受雇于运输公司或车队，含奖金 |
-| 高级（8年以上） | $35,000~$50,000 | 资深司机或车队主管，含额外津贴 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Mostly self-employed or paid daily, annual income fluctuates greatly |
+| Mid-level (4–8 years) | $25,000~$35,000 | Employed by transport company or fleet, including bonuses |
+| Senior (8+ years) | $35,000~$50,000 | Senior driver or fleet supervisor, including additional allowances |
+| average salary | $31,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从自雇或小型车队开始，积累经验后可晋升为车队主管、调度员，或成立自己的运输公司；部分司机转向物流管理或客运经理岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Usually start as self-employed or with a small fleet, gain experience to become fleet supervisor, dispatcher, or start own transport company; some drivers move into logistics management or passenger transport manager roles.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Urban mobility
 - E-commerce delivery
@@ -64,69 +100,68 @@ Car, taxi and van drivers operate vehicles to transport passengers or goods, cov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi (Work Quota Visa)） | 意大利年度配额工作签证，适用于运输行业非欧盟工人，需雇主担保并满足配额要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但司机通常不符合薪资门槛（年薪需约3万欧元以上），极少使用。 |
-| Subclass 自雇签证（Self-Employment Visa (Lavoro Autonomo)） | 适用于计划在意大利独立运营出租车或货运业务的非欧盟公民，需提交商业计划并满足资金要求。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi (Work Quota Visa)) | Italian annual quota work visa for non-EU workers in the transport industry, requiring employer sponsorship and meeting quota requirements. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but drivers usually do not meet the salary threshold (annual salary needs to be about 30,000 euros or more), rarely used. |
+| Subclass Self-employed Visa (Self-Employment Visa (Lavoro Autonomo)) | For non-EU citizens planning to operate a taxi or freight business independently in Italy, requiring a business plan and meeting financial requirements. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Car, Taxi and Van Drivers？**
-- 喜欢驾驶、适应灵活工作时间的人
-- 愿意自雇、自主安排收入的人
-- 具备基本车辆维修技能者
-
-**谁不适合学Car, Taxi and Van Drivers？**
-- 不适应长时间久坐和不规律作息者
-- 对交通拥堵和客户服务缺乏耐心者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and can adapt to flexible working hours
+- People willing to work self-employed and manage their own income
+- Individuals with basic vehicle maintenance skills
+
+**Who is not suited**
+- Unsuitable for those who cannot tolerate prolonged sitting and irregular schedules.
+- Those with low patience for traffic congestion and customer service
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual income of taxi drivers in Italy?**
+A: Taxi drivers are mostly self-employed, with annual income around €18,000 to €35,000, varying by city, working hours, and tourist season; incomes are higher in major cities like Milan and Rome.
+
+**Q: How can non-EU citizens become taxi drivers in Italy?**
+A: Must first obtain a Decreto Flussi work visa or self-employment visa, then obtain a Class B driver's license and local taxi license; some cities require a certain number of years of residence.
+
+**Q: Are there promotion opportunities for truck drivers?**
+A: Yes, can progress from driver to fleet supervisor, dispatcher, or logistics manager, or start your own transport company; income significantly increases after building a client base.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Car, Taxi and Van Drivers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual income of a taxi driver in Italy?**
-答：Taxi drivers are mostly self-employed with annual earnings between €18,000 and €35,000, depending on city, hours, and tourism season; higher in Milan and Rome.
-
-**问：How can non-EU citizens become taxi drivers in Italy?**
-答：First obtain a Decreto Flussi work visa or self-employment visa, then acquire a category B driving license and local taxi license; some cities require residency for a certain period.
-
-**问：Are there promotion opportunities for truck drivers?**
-答：Yes, drivers can advance to fleet supervisor, dispatcher, or logistics manager, or start their own transport company, significantly increasing earnings with client base.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

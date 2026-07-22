@@ -1,60 +1,96 @@
-# Construction Works Manager and Landscaping Works Manager（Construction Works Manager and Landscaping Works Manager）职业分析 · FR
+# Construction Works Manager and Landscaping Works Manager — career analysis · France
 
-**职业代码：F1201 – Construction Works Manager and Landscaping Works Manager。**
+**Occupation code: F1201 (ROME)**
 
-Responsible for organizing, coordinating, and supervising construction or landscaping works to ensure projects are completed within budget, schedule, and quality standards.
+Responsible for organizing, coordinating, and supervising the construction of buildings or landscape works to ensure the project is completed within budget, schedule, and quality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 2年（BTS） | —（公立学校学费低，可通过学徒制免学费） |
-| 本科 | 3年（Licence professionnelle） | —（公立大学学费约170欧/年，私立校更高） |
-| 硕士 | 2年（Master ingénieur） | —（工程师学校学费约3000-10000欧/年） |
+| High school graduation + professional training | 2 Years (BTS) | $0~$3,000 (Public schools have low tuition fees and can be exempted through apprenticeships) |
+| Bachelor's degree | 3 years (Licence professionnelle) | $0~$4,000 (Tuition at public universities is about 170 euros per year, while private schools are even higher) |
+| Master's degree | 2 years (Master ingénieur) | $0~$10,000 (Tuition for engineering schools is about 3,000-10,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程管理硕士学位 | 法国工程师学校或大学 | 可选 | 非强制但常见，有助于晋升 |
-| 安全证书（CACES） | CNAM或授权机构 | 必备 | 部分工地要求持有 |
-| 项目经理认证（PMP） | PMI | 可选 | 国际认证，提升竞争力 |
+| Safety Certificate (CACES) | CNAM or authorized institutions | Required | Some construction sites require ownership |
+| Master's degree in Engineering Management | French engineering schools or universities | Optional | Not mandatory but common, helps with promotion |
+| Project Manager Certification (PMP) | PMI | Optional | International certification enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国建筑行业持续增长，绿色建筑和城市绿化项目推动需求，预计未来几年对工程管理人员的需求保持高位。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. The French construction industry continues to grow, driven by green building and urban greening projects, with demand for engineering managers expected to remain high in the coming years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，含奖金 |
-| 中级（4-7年） | $40,000~$55,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $60,000~$80,000 | 税前年薪，含奖金 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4-7 years) | $40,000~$55,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $60,000~$80,000 | Annual pre-tax salary, including bonuses |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为项目经理、项目总监或创办自己的工程公司，也可向可持续建筑或大型基础设施项目管理方向发展。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
+
+You can be promoted to project manager, project director, or start your own engineering company, or develop into sustainable construction or large-scale infrastructure project management.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate progress reports and meeting minutes
+- Preliminary Review and Price Comparison of Standardized Bid Documents
+- Budget estimation and cost forecasting based on historical data
+- Automated identification and alerting of on-site safety violations
+- Automated compliance document filing and checking
+
+**Where AI augments the role:**
+
+- AI-supported multi-scheme construction simulation and optimization
+- Deep learning-driven defect identification and prediction in construction
+- Natural language interaction for quick retrieval of construction specifications
+- Real-time supply chain risk alerts and alternative solution recommendations
+- AI-assisted subcontractor performance analysis and selection
+
+**Human moat:**
+
+- Coordination and negotiation with complex stakeholders (owners, designers, subcontractors)
+- Quick decision-making for unforeseen field issues (e.g., changes in geological conditions)
+- Humanitarian care and crisis communication for security incidents
+- Design and implementation leadership of innovative construction methods
+- Understanding and balancing overall strategic goals of a project
+
+**Skills to build:**
+
+- BIM (e.g., Revit) advanced modeling and data management
+- Python/VBA scripting automation for reports and data cleaning
+- PMP and Agile project management certifications (with digital tools)
+- Construction simulation and digital twins (Synchro, etc.).
+- Data analytics (SQL/Tableau) for KPI monitoring
+- Using AI tools (e.g., ChatGPT) to quickly generate documents
+
+**Key growth areas:**
 
 - Green construction
 - Urban landscaping
@@ -63,68 +99,67 @@ Responsible for organizing, coordinating, and supervising construction or landsc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需达到一定薪资水平（约41,000欧/年），直接获得4年居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求薪资至少53,940.75欧/年（2024标准），可带家属，4年后可转永居。 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作许可有效期与合同一致，通常为1-4年。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, requiring a certain salary level (approximately €41,000/year), granting direct 4-year residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Requires a minimum salary of €53,940.75 per year (2024 standard), can bring family, eligible for permanent residency after 4 years. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, and the work permit is valid for the same period as the contract, usually 1-4 years. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Works Manager and Landscaping Works Manager？**
-- 善于组织协调、喜欢户外工作的人
-- 有工程或建筑背景，希望从事管理岗位的人
-- 追求稳定职业前景和较高收入的人
-
-**谁不适合学Construction Works Manager and Landscaping Works Manager？**
-- 不耐受高压和频繁沟通的人
-- 希望完全室内办公、朝九晚五的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at organizing and coordinating and enjoy working outdoors
+- People with engineering or construction backgrounds who wish to work in management positions
+- Those seeking stable career prospects and higher incomes
+
+**Who is not suited**
+- People who are intolerant of high pressure and frequent communication
+- Those who want to work entirely indoors and work from nine to five
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for architectural and landscape engineering management in France?**
+A: Junior approximately €30,000-38,000, mid-level €40,000-55,000, senior €60,000-80,000 (pre-tax annual).
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: You can apply for a Passeport Talent passport or EU Blue Card, which requires employer sponsorship and meets salary requirements.
+
+**Q: What qualifications are needed for this occupation?**
+A: Typically requires BTS or Licence professionnelle, with engineering school graduates having an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Construction Works Manager and Landscaping Works Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for construction and landscaping works managers in France?**
-答：Entry-level: €30k-38k, mid-level: €40k-55k, senior: €60k-80k (gross annual).
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Apply for a Talent Passport or EU Blue Card with employer sponsorship and salary threshold.
-
-**问：What education is needed for this occupation?**
-答：Typically BTS or Licence professionnelle; engineering school is beneficial.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

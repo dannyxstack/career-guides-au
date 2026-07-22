@@ -1,63 +1,91 @@
-# 普通厨师（Cook）职业分析 · 澳大利亚
+# Cook — career analysis · Australia
 
-**职业代码：351411 – Cook。**
+**Occupation code: 351411 (ANZSCO)**
 
-厨师在餐厅、酒店、咖啡馆备餐烹饪，澳洲长期短缺，是STSOL上的技术移民职业（需TRA技能评估），偏远地区机会更多。
+Cooks prepare and cook food in restaurants, hotels and cafés. Australia has a long-term shortage of cooks; the occupation appears on STSOL as a skilled migration pathway (TRA skills assessment required), with more opportunities in regional areas.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Commercial Cookery (SIT30821) | 1~2年 | $4,000~$18,000（学徒制常见） |
-| Certificate IV in Kitchen Management | 0.5~1年 | $4,000~$12,000（晋升/移民加分） |
+| Certificate III in Commercial Cookery (SIT30821) | 1–2 years | $4,000~$18,000 (Apprenticeships are common) |
+| Certificate IV in Kitchen Management | 0.5–1 year | $4,000~$12,000 (Promotion / Migration points) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III/IV in Commercial Cookery | TAFE/RTO | 必备 | 移民与执业基础 |
-| TRA Skills Assessment | Trades Recognition Australia | 必备 | 技术移民必备 |
+| Certificate III/IV in Commercial Cookery | TAFE/RTO | Required | Migration and Licensing Essentials |
+| TRA Skills Assessment | Trades Recognition Australia | Required | Essential for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 110,000。餐饮复苏与偏远地区用工短缺支撑需求，持证厨师移民路径清晰。
+**Job demand: high (★★★★☆).** National workforce approx. 110,000. Hospitality recovery and labour shortages in regional areas support demand; skilled chef migration pathways are clearly defined.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 4,000~7,000 个 | 全国，含偏远 |
-| Indeed | 3,000~5,000 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $55,000~$65,000 | Cert III 起 |
-| 中级（3-6年） | $65,000~$78,000 | — |
-| 资深/厨师长 | $78,000~$95,000 | Chef de Partie+ |
+| Median salary | $74,464 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $55,000~$65,000 | From Cert III onwards |
+| Mid-level (3–6 years) | $65,000~$78,000 | — |
+| Senior Chef / Head Chef | $78,000~$95,000 | Chef de Partie+ |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 需Certificate III/IV in Commercial Cookery + TRA评估；可向Chef、厨师长发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
+
+Requires Certificate III/IV in Commercial Cookery and a TRA assessment; career can progress to Chef and Head Chef roles.
+
+**Tasks most exposed to AI:**
+
+- Standard repetitive cooking tasks such as frying, stir-frying, and other fixed-procedure dishes can be completed by AI-controlled robots.
+- Recipe and ingredient management: AI systems can automatically optimise recipes, calculate ingredient ratios, and generate purchase lists.
+- Inventory counting and ordering: AI vision and barcode scanning systems monitor stock in real time and place orders automatically.
+- Customer ordering and order transmission: self-service kiosks and AI voice systems replace waitstaff taking and passing orders to kitchen.
+
+**Where AI augments the role:**
+
+- Menu innovation and dish development: AI analyzes dietary trends, ingredient pairings, and nutritional data to assist chefs in designing new dishes.
+- Cost control and food procurement: AI systems forecast demand, optimize purchase volumes, reduce waste, and increase profits
+- Quality control and consistency: AI vision systems monitor the color, size, and plating of each dish to ensure standard output.
+- Kitchen scheduling and workflow optimization: AI automatically schedules based on customer flow predictions and coordinates equipment usage to improve efficiency.
+
+**Human moat:**
+
+- Fine manual skills like knife work and heat control: AI cannot replicate a chef's intuition for ingredient texture and craftsmanship.
+- Creativity and personalized customization: improvise flavors and plating based on guest needs, showcasing artistry and human touch
+- Tasting and flavor assessment: human perception of subtle flavors (e.g., acidity, umami) far surpasses any sensor.
+- Kitchen leadership and team collaboration: managing kitchen staff, handling emergencies (e.g., excessive heat, customer complaints), requiring interpersonal coordination.
+
+**Skills to build:**
+
+- Learn to use AI kitchen management systems: e.g., inventory, purchasing, scheduling software such as Mozza or KitchenCUT.
+- Master food science and nutrition analysis: use AI tools to design healthy menus meeting special dietary needs.
+- Data interpretation and cost modeling: adjusting menu pricing and supply strategies based on sales data.
+- Enhance creative cooking and fusion cuisine skills: personalize services beyond standard dishes.
+- Learn to operate and maintain robotic equipment: such as automatic stir-fryers, smart ovens, etc.
+- Enhance leadership and communication skills: manage teams, train new chefs on AI tools.
+
+**Key growth areas:**
 
 - Commercial Cookery
 - Regional Hospitality
@@ -65,66 +93,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，需TRA评估 |
-| Subclass 190（Skilled Nominated） | 州提名 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加分，机会多 |
-| Subclass 186（ENS） | 永居通道 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, TRA assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination |
+| Subclass 491 (Skilled Work Regional) | Regional area bonus points, more opportunities |
+| Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学普通厨师？**
-- 热爱烹饪、能扛高强度厨房者
-- 愿去偏远地区积累移民分者
-
-**谁不适合学普通厨师？**
-- 不适应长时间站立与高温者
-- 追求高起薪者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for cooking and ability to handle the demands of a high-intensity kitchen environment
+- Willing to work in regional areas to accumulate migration points
+
+**Who is not suited**
+- Not suited to those who cannot tolerate prolonged standing or high-heat environments
+- Those seeking a high starting salary
+
+---
+
+## 8. FAQ
+
+**Q: How much do chefs earn in Australia?**
+A: Entry-level approximately AUD $55,000-$65,000, senior/head chef $78,000-$95,000.
+
+**Q: Can chefs migrate to Australia on a skilled visa?**
+A: Yes. Cook (351411) is on the STSOL; Cert III/IV plus a TRA assessment is required, and there are more 491 opportunities in regional areas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-普通厨师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲厨师工资多少？**
-答：初级约AUD $5.5万~$6.5万，资深/厨师长$7.8万~$9.5万。
-
-**问：厨师能技术移民吗？**
-答：可以。Cook（351411）在STSOL上，需Cert III/IV + TRA评估，偏远地区491机会较多。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

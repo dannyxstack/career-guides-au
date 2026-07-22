@@ -1,61 +1,97 @@
-# Supervisors of Plastics, Rubber and Natural Resins Processing Industries（Supervisors of Plastics, Rubber and Natural Resins Processing Industries）职业分析 · ES
+# Supervisors of Plastics, Rubber and Natural Resins Processing Industries — career analysis · Spain
 
-**职业代码：3205 – Supervisors of Plastics, Rubber and Natural Resins Processing Industries。**
+**Occupation code: 3205 (CNO)**
 
-Oversees processing lines for plastics, rubber and natural resins, ensuring efficient and safe production, managing teams, and controlling quality and output.
+Responsible for overseeing the processing lines for plastics, rubber, and natural resins, ensuring efficient and safe production processes, managing teams, and controlling quality and output.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立院校免费或低学费） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public institutions offer free or low tuition) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化工或工业工程学士 | 西班牙大学 | 可选 | 相关学位可替代工作经验 |
-| 职业健康与安全认证 | 西班牙劳动与社会保障部 | 可选 | 部分企业要求 |
-| 生产管理培训 | 行业协会或私立机构 | 可选 | 提升管理技能 |
+| Bachelor of Chemical or Industrial Engineering | Spanish University | Optional | Relevant degrees can substitute for work experience |
+| Occupational health and safety certification | Spanish Ministry of Labor and Social Security | Optional | Some employers require |
+| Production management training | Industry associations or private organizations | Optional | Improve management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 9,400。西班牙塑料与橡胶行业稳步发展，尤其在汽车、包装和建筑领域需求稳定。绿色转型和循环经济推动对可持续材料加工主管的需求，但自动化可能影响部分岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 9,400. Spain's plastics and rubber industry is steadily developing, with particularly stable demand in the automotive, packaging, and construction sectors. Green transformation and the circular economy are driving demand for sustainable material processing supervisors, but automation may affect some positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，含管理职责 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从生产线操作员晋升为主管，进一步发展为生产经理或工厂经理。掌握新技术（如生物塑料加工）可提升竞争力。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly shrink the job space for plastic, rubber, and natural resin processing supervisors. Core tasks such as production scheduling, quality inspection, and equipment monitoring can be automated, but team management and safety supervision still require humans.
+
+You can be promoted from production line operator to supervisor, and further develop into production manager or plant manager. Mastering new technologies (such as bioplastic processing) can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Production Planning and Scheduling: AI optimization algorithms automatically generate the optimal machining sequence and parameters
+- Quality inspection: Computer vision identifies defects in real time, replacing manual spot checks
+- Equipment status monitoring: IoT sensors and AI-driven predictive maintenance replace inspections
+- Yield and Efficiency Reporting: AI automatically aggregates data and generates analytical reports
+- Inventory Management: AI predicts raw material demand and triggers procurement
+
+**Where AI augments the role:**
+
+- Exception Handling: After AI alerts, supervisors can quickly identify root causes and decide to intervene
+- Process optimization: AI simulates different parameter combinations, and supervisors select the best solution
+- Compliance records: AI tracks changes in environmental regulations and assists with document completion
+- Training new employees: AR and AI mentors guide operations, supervisors focus on difficult points
+- Energy efficiency management: AI analyzes energy consumption patterns, and supervisors drive energy-saving improvements
+
+**Human moat:**
+
+- Cross-departmental coordination: resolving conflicts among mold makers, operators, and maintenance workers
+- Safety and Emergency: Command evacuation and emergency response in case of leaks or fire
+- Employee motivation: Identify employee emotions and address small team morale issues
+- Supplier relationships: Negotiate raw material prices and delivery schedules to establish long-term cooperation
+- Process innovation: Driving new material trial production by combining experience and market trends
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python/Tableau)
+- AI tool applications (such as production scheduling AI, computer vision systems)
+- Industrial IoT and Edge Computing fundamentals
+- Lean manufacturing and Six Sigma methods
+- Cross-cultural team management
+- Sustainable production and ESG reporting
+
+**Key growth areas:**
 
 - Plastics processing
 - Rubber manufacturing
@@ -64,65 +100,67 @@ Oversees processing lines for plastics, rubber and natural resins, ensuring effi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需获得西班牙雇主担保，证明职位无法在本地填补，适用于非欧盟技术工人。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，需具备高等教育或职业培训背景。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsorship is required, proving that the position cannot be filled locally, applicable to non-EU skilled workers. |
+| Subclass Busqueda empleo (Job Search Visa) | Allow a 6-month stay in Spain to look for work, requiring a background in higher education or vocational training. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Supervisors of Plastics, Rubber and Natural Resins Processing Industries？**
-- 喜欢动手操作和管理生产流程的人
-- 具备团队领导和问题解决能力
-- 对塑料和橡胶加工技术感兴趣
+**Who is suited**
+- People who enjoy hands-on operations and managing production processes
+- Possess team leadership and problem-solving skills
+- Interested in plastic and rubber processing technologies
 
-**谁不适合学Supervisors of Plastics, Rubber and Natural Resins Processing Industries？**
-- 不适应工厂环境和轮班工作
-- 不喜欢重复性监管任务
+**Who is not suited**
+- Cannot adapt to factory environments and shift work
+- Dislikes repetitive supervisory tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a plastic processing supervisor in Spain?**
+A: Entry level approximately 20,000-25,000 euros, intermediate 25,000-35,000 euros, senior up to 45,000 euros+.
+
+**Q: How can non-EU individuals immigrate to Spain to pursue this profession?**
+A: A work contract (Cuenta ajena) from a Spanish employer is required, proving that the position cannot be filled by a local employee; Or first apply for a job-seeking visa (Búsqueda de empleo).
+
+**Q: What educational qualifications are required to become a plastic processing supervisor?**
+A: Typically, a bachelor's degree in Chemistry or Industrial Engineering (Grado), or completion of higher vocational education (FP Grado Superior) and gaining experience, are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisors of Plastics, Rubber and Natural Resins Processing Industries属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plastics processing supervisor in Spain?**
-答：Entry-level around 20,000-25,000 EUR, mid-level 25,000-35,000 EUR, senior up to 45,000 EUR or more.
-
-**问：How can non-EU nationals immigrate to Spain for this occupation?**
-答：Require a job offer from a Spanish employer (Cuenta ajena) proving the position cannot be filled locally, or apply for a job search visa (Búsqueda de empleo).
-
-**问：What education is needed to become a plastics processing supervisor?**
-答：Typically a bachelor's degree (Grado) in chemical or industrial engineering, or completion of higher vocational training (FP Grado Superior) with experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

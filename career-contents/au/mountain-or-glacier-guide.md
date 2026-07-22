@@ -1,60 +1,96 @@
-# Mountain or Glacier Guide（Mountain or Glacier Guide）职业分析 · 澳大利亚
+# Mountain or Glacier Guide — career analysis · Australia
 
-**职业代码：452214 – Mountain or Glacier Guide。**
+**Occupation code: 452214 (ANZSCO)**
 
-Lead tourists or adventurers in mountain or glacier environments for hiking, climbing, or skiing, ensuring safety and providing natural history interpretation.
+Lead tourists or adventurers in hiking, climbing, or skiing activities in mountain or glacier environments, ensuring safety and providing natural environment interpretation.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无需正式学历） |
+| High school graduation | 0 years | $0~$0 (No formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 如St John Ambulance | 必备 | 必须持有野外急救证书 |
-| 野外生存技能认证 | 相关培训机构 | 可选 | 推荐完成，提升竞争力 |
-| 登山或冰川向导认证 | 澳大利亚登山协会或其他国际机构 | 可选 | 行业认可证书有助于就业 |
+| First aid certificate | Such as St John Ambulance. | Required | Must hold wilderness first aid certificate |
+| Wilderness Survival Skills Certification | Relevant training institutions | Optional | Recommended to complete to enhance competitiveness |
+| Mountain or glacier guide certification | Australian Climbing Association or other international bodies | Optional | Industry-recognized certifications help with employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 500。澳大利亚山地和冰川旅游需求稳定，尤其塔斯马尼亚和阿尔卑斯地区，但季节性较强，受天气和旅游业波动影响。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 500. Demand for mountain and glacier tourism in Australia is stable, especially in Tasmania and the Alpine region, but is highly seasonal and affected by weather and tourism fluctuations.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 季节性兼职收入为主 |
-| 中级（3-7年） | $55,000~$75,000 | 含小费和额外向导收入 |
-| 高级（7年以上） | $75,000~$95,000 | 资深向导或团队主管 |
+| Median salary | $67,496 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $40,000~$55,000 | Mainly seasonal part-time income |
+| Mid-level (3–7 years) | $55,000~$75,000 | Including tips and additional guide income |
+| Senior (7+ years) | $75,000~$95,000 | Senior Guide or Team Leader |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级向导晋升为高级向导、团队主管或培训师，部分人转型为探险旅游经理或开设自己的向导公司。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Impact of AI on mountain or glacier guides is mixed: route planning and information queries can be automated, but on-site safety decisions, emotional interaction, and real-time adaptability remain human strengths, with overall risk manageable.
+
+Can progress from junior guide to senior guide, team leader, or trainer; some transition to adventure tourism manager or start their own guiding company.
+
+**Tasks most exposed to AI:**
+
+- Weather and snow condition data collection and preliminary analysis (AI automatically obtains from sensors and satellites)
+- Common route navigation and basic commentary (AI voice guide or AR overlay information)
+- Booking and itinerary scheduling (AI dispatch system optimizes timelines and resources)
+- Standard safety briefings and procedural checks (AI-generated checklists and videos)
+- Real-time location monitoring and emergency signal forwarding (AI automatic alert and positioning)
+
+**Where AI augments the role:**
+
+- Real-time display of hidden dangers (e.g., crevasses) and optimal paths via AR glasses
+- Monitor team members' physical condition via wearable devices to provide early warnings for altitude sickness or fatigue
+- Using AI to analyze historical accident data, optimize risk assessments and emergency plans
+- Using natural language processing tools to automatically generate multilingual commentary and reports
+- Combined with drones for aerial reconnaissance to pre-assess glacier stability
+
+**Human moat:**
+
+- Quick on-site judgment and response to sudden dangers (e.g., avalanches, ice avalanches).
+- Leading by example and providing emotional support (calming fears, boosting morale)
+- Route fine-tuning based on experience and intuition (subtle signs not covered by AI data)
+- Building trust and deep personal connections with clients (e.g., sharing personal experiences)
+- Deep understanding and storytelling of local culture and ecology (narrative, personalized)
+
+**Skills to build:**
+
+- Master AI risk assessment tools and basic operations of Geographic Information System (GIS)
+- Learn to use and troubleshoot AR/VR devices.
+- Advance certification in wilderness first aid and advanced rescue techniques
+- Enhanced communication and cross-cultural service skills (especially multilingual)
+- Basic data analysis and visualization skills (e.g., organizing customer feedback, weather data)
+- Knowledge of sustainable tourism and ecological conservation (catering to high-end market).
+
+**Key growth areas:**
 
 - Outdoor Recreation
 - Adventure Tourism
@@ -63,62 +99,64 @@ Lead tourists or adventurers in mountain or glacier environments for hiking, cli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保，但该职业通常不在职业列表上 |
-| Subclass 462（Working Holiday Visa） | 常见途径，可从事季节性向导工作 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship, but this occupation is usually not on the occupation list. |
+| Subclass 462 (Working Holiday Visa) | Common path; can work as a seasonal guide |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mountain or Glacier Guide？**
-- 热爱户外运动和自然环境
-- 具备良好体能和风险管理能力
-- 喜欢与不同背景的人交流
+**Who is suited**
+- Love for outdoor sports and natural environment
+- Good physical fitness and risk management skills
+- Enjoys interacting with people from different backgrounds
 
-**谁不适合学Mountain or Glacier Guide？**
-- 对危险环境不适应或恐高
-- 追求稳定高薪和办公室工作
+**Who is not suited**
+- People uncomfortable with hazardous environments or who have a fear of heights
+- Those seeking stable high salary and office work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of mountain or glacier guides?**
+A: Entry-level guide annual income approx. A$40,000-55,000, senior up to A$75,000-95,000, but work is often seasonal with unstable income.
+
+**Q: Can mountain or glacier guides immigrate to Australia?**
+A: This occupation is usually not on the skilled migration occupation list; the main pathway is through a Working Holiday Visa (462) or employer sponsorship, which is difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Mountain or Glacier Guide属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a mountain or glacier guide?**
-答：Entry-level guides earn around AUD 40,000–55,000 annually, while senior guides can earn AUD 75,000–95,000, but work is often seasonal and income varies.
-
-**问：Can a mountain or glacier guide migrate to Australia?**
-答：This occupation is generally not on the skilled occupation list. Common pathway is through Working Holiday Visa (462) or employer sponsorship, but it's challenging.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

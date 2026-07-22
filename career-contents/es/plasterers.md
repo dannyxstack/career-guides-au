@@ -1,59 +1,95 @@
-# Plasterers（Plasterers）职业分析 · ES
+# Plasterers — career analysis · Spain
 
-**职业代码：7211 – Plasterers。**
+**Occupation code: 7211 (CNO)**
 
-Plasterers apply plaster, stucco, and similar materials to interior and exterior walls and ceilings to create smooth or decorative finishes, essential in construction and renovation.
+Plasterers are responsible for applying plaster to surfaces such as interior and exterior walls and ceilings to form smooth or decorative coatings. They are an indispensable technical skill in building renovation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Medio） | 2年 | —（公立FP学费低，约0-2000欧元/年） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（边工作边学习，企业承担部分费用） |
+| Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public FP tuition is low, about 0-2000 euros per year) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$500 (Work and learn at the same time, with the company covering part of the cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 教育部 | 必备 | 基本入学要求 |
-| FP Grado Medio 建筑装修学位 | 自治大区教育部门 | 可选 | 推荐，非强制但利于就业 |
-| 高空作业安全认证 | 劳工部认可机构 | 可选 | 部分高空作业需要 |
+| High school diploma or equivalent | Ministry of Education | Required | Basic admission requirements |
+| FP Grado Medio Degree in Architectural Renovation | Education Department of the Autonomous Region | Optional | Recommended, not mandatory, but beneficial for employment |
+| Certification for working at heights | Recognized by the Department of Labor | Optional | Some aerial operations are required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。受建筑业复苏和翻新需求推动，抹灰工在西班牙就业稳定，尤其在马德里、巴塞罗那等大城市及旅游区。新房建设及旧房改造项目提供持续岗位，但季节性波动存在。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Driven by the recovery of the construction industry and demand for renovations, plasterer employment in Spain has remained stable, especially in major cities and tourist areas such as Madrid and Barcelona. New home construction and old home renovation projects provide ongoing jobs, but seasonal fluctuations exist.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，受地区及公司规模影响 |
-| 中级（3-8年） | $24,000~$32,000 | 熟练工，可能包括加班费 |
-| 高级（8年以上/工头） | $32,000~$40,000 | 含管理职责或自主创业收入 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary depends on region and company size |
+| Mid-level (3–8 years) | $24,000~$32,000 | Skilled workers, which may include overtime pay |
+| Senior (8+ years/foreman) | $32,000~$40,000 | Including income from management duties or independent entrepreneurship |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 学徒或FP毕业后可从抹灰工助手做起，逐步晋升为熟练抹灰工、工头，或自主创业承接分包工程。积累经验后可转向装饰性抹灰、修复古建筑等专业领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on plasterers is complex. Automated tools (such as plastering robots) can replace some basic plastering tasks, but AI-enhanced project management and quality inspection tools can improve efficiency and accuracy, while customized and restorative tasks still rely on human skill.
+
+After graduating as an apprentice or FP, you can start as a plasterer assistant and gradually advance to skilled plasterer, foreman, or start your own business to undertake subcontracted projects. After gaining experience, they can move into specialized fields such as decorative plastering and restoration of ancient buildings.
+
+**Tasks most exposed to AI:**
+
+- For large-scale wall leveling, automated plastering robots replace manual painting and leveling
+- The AI vision system automatically detects wall flatness and cracks, reducing manual inspections
+- Material ratios are optimized by AI, automatically adjusting the plaster composition based on temperature and humidity
+- The BIM model directly generates plastering paths, reducing manual layout measurement
+- Basic repair work (such as small-area repairs) is replaced by spraying robots
+
+**Where AI augments the role:**
+
+- AI-assisted layout and measurement: quickly generate 3D wall models using LiDAR + AI to guide plaster thickness
+- Real-time quality monitoring: AI cameras detect bubbles and hollows, prompting workers to make local adjustments
+- Material management: AI predicts the required amount of plaster, reducing waste
+- Construction planning: AI optimizes process sequences to avoid interference from overlapping construction
+- Training and guidance: AR glasses combined with plastering paths help beginners get started quickly
+
+**Human moat:**
+
+- Handcrafted techniques and artistic judgment for complex curved surfaces and decorative plastering
+- Understanding the original materials and craftsmanship in the restoration of old buildings
+- Flexible handling of unexpected situations on-site (such as uneven grassroots or pipeline conflicts).
+- Customer communication and meeting customized needs
+- Teamwork and on-site safety supervision
+
+**Skills to build:**
+
+- Operation and maintenance of automatic plastering robots
+- Using AI measurement and positioning tools (such as LiDAR, BIM)
+- Understand BIM models and digital construction drawings
+- Basic data analysis and equipment debugging capabilities
+- Applications of augmented reality (AR) assisted construction
+- Green materials and sustainable construction knowledge
+
+**Key growth areas:**
 
 - Construction Boom
 - Renovation Demand
@@ -62,65 +98,64 @@ Plasterers apply plaster, stucco, and similar materials to interior and exterior
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需获得西班牙雇主担保，提供工作合同，证明该职位无法由欧盟公民填补。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于高技能专业人才，需满足学历或经验要求，抹灰工通常不适用。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，之后转换为工作居留。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsorship is required, along with a work contract proving that the position cannot be filled by an EU citizen. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for highly skilled professionals who must meet educational or experience requirements; plasterers are usually not eligible. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, after which you can convert to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plasterers？**
-- 动手能力强、注重细节的人
-- 能适应户外及高空作业
-- 希望进入西班牙建筑业的技术移民
-
-**谁不适合学Plasterers？**
-- 对灰尘和体力劳动敏感者
-- 寻求高薪白领工作者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hands-on, detail-oriented people
+- Able to work outdoors and at heights
+- Skilled immigrants hoping to enter Spain's construction industry
+
+**Who is not suited**
+- Sensitive to dust and physical labor
+- Looking for high-paying white-collar workers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of plasterers in Spain?**
+A: Junior: approx €18,000-24,000/year, mid: €24,000-32,000, senior: €32,000-40,000; overtime and subcontracting can increase earnings.
+
+**Q: Can non-EU citizens immigrate to Spain through plastering?**
+A: Yes, but employer-sponsored work residence (Cuenta ajena) is required. This profession is in short supply in some provinces, but the difficulty of immigration is moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Plasterers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for plasterers in Spain?**
-答：Entry-level: €18,000-€24,000; mid-level: €24,000-€32,000; senior: €32,000-€40,000 per year (gross).
-
-**问：Can non-EU citizens migrate to Spain as a plasterer?**
-答：Yes, via employer-sponsored work permit (Cuenta ajena). The occupation is in shortage in some regions, but migration is moderately difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

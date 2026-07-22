@@ -1,61 +1,96 @@
-# Protective Services Workers Not Elsewhere Classified（Protective Services Workers Not Elsewhere Classified）职业分析 · IE
+# Protective Services Workers Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：5419 – Protective Services Workers Not Elsewhere Classified。**
+**Occupation code: 5419 (ISCO08)**
 
-Protective services workers include security guards, traffic wardens, and related roles responsible for public safety, order maintenance, and emergency response.
+Protective service workers include security guards, patrol officers, traffic controllers, and similar roles responsible for public safety, order maintenance, and emergency response.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 不需要高等教育 | —（通常仅需中等教育，入职培训自费约500欧元） |
-| 职业证书 | 3-6个月 | $500~$2,000（保安执照（PSA license）培训费用） |
+| High school diploma | No higher education required. | $0~$0 (Usually only requires secondary education; on-the-job training costs about 500 euros out of pocket.) |
+| Professional certificate | 3-6 months | $500~$2,000 (Training costs for a security guard license (PSA license)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PSA保安执照 | 爱尔兰私人保安管理局 (PSA) | 必备 | 从事保安工作必须持有 |
-| 急救证书 | 爱尔兰红十字会或同等机构 | 可选 | 部分岗位要求基本急救技能 |
-| 清洁驾驶执照 | 爱尔兰交通管理局 | 可选 | 巡逻或驾驶岗位可能需要 |
+| PSA Security Licence | Private Security Authority (PSA) Ireland | Required | Must hold for security work |
+| First aid certificate | Irish Red Cross or equivalent body | Optional | Some positions require basic first aid skills |
+| Clean driving license | Irish Transport Authority | Optional | Patrol or driving positions may require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 8,000。爱尔兰公共安全需求稳定，城市化与旅游增长推动岗位持续开放，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Demand for public safety in Ireland is stable, with urbanization and tourism growth driving continuous job openings, but competition is moderate.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 入门级保安或交通管理员 |
-| 中级（3-7年） | $28,000~$35,000 | 有经验保安或团队领导 |
-| 高级（7年以上） | $35,000~$45,000 | 安全主管或运营经理 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Entry-level security guard or traffic controller |
+| Mid-level (3–7 years) | $28,000~$35,000 | Experienced security guard or team leader |
+| Senior (7+ years) | $35,000~$45,000 | Safety supervisor or operations manager |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从保安晋升为安全主管、运营经理，或转向私人安保、执法辅助岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The task structure for protective service workers is at a mixed turning point: basic patrol and recording tasks face AI automation risk, but AI-assisted monitoring, data analysis, and emergency response capabilities also create new value, with the core need for human judgment and physical intervention not decreasing but increasing.
+
+Can be promoted from security guard to safety supervisor, operations manager, or transition to private security, law enforcement support roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically patrol fixed points using AI cameras and abnormal behavior detection systems.
+- AI automatically generates and distributes standardized safety reports and log backups
+- Automated parking fee collection and violation recording based on AI license plate recognition and traffic flow algorithms
+- AI chatbot automates visitor registration and initial inquiries
+- Using AI fire and smoke detectors to automatically trigger early alarms and notify the control center
+
+**Where AI augments the role:**
+
+- AI-assisted real-time threat analysis: systems analyze surveillance video and flag suspicious behavior, enhancing security guards' early warning capabilities
+- AI-optimized patrol route planning: dynamically adjust patrol areas and frequency based on historical event data
+- AI-driven emergency response decision tree: provides step-by-step action suggestions for complex incidents (e.g., shootings, hostage situations)
+- AI multilingual translation and speech-to-text: helping security personnel quickly handle communication with foreign nationals and incident recording
+- AI behavior risk assessment: dynamically calculates individual threat probability through personnel database and on-site characteristics
+
+**Human moat:**
+
+- High-risk physical intervention: irreplaceable direct physical control of violent individuals, fire scenes, etc.
+- On-site comprehensive judgment ability: relies on experience and intuition to make decisions when information is incomplete or AI misreports
+- Humanitarian and psychological support: providing emotional guidance and humane care to trapped individuals and victims
+- Legal and ethical responsibility: ultimately responsible for the legal consequences of coercive measures, searches, arrests, etc.
+
+**Skills to build:**
+
+- AI monitoring system operation and anomaly identification
+- Data analysis and automated reporting tool usage
+- AI decision support system operations in emergency response
+- Digital security awareness and basic network protection
+- Human-machine collaboration communication skills
+- Basic programming/scripting skills (e.g., Python for automated reporting)
+
+**Key growth areas:**
 
 - security services
 - public safety
@@ -64,66 +99,68 @@ Protective services workers include security guards, traffic wardens, and relate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺技能，但保护服务工作者通常不在此列，仅高级管理岗可能符合 |
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且通过劳动力市场测试 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，仅适用于高级职员 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to skills in demand, but protective service workers are usually not included; only senior management roles may qualify |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in demand, requires employer sponsorship and a labour market test |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer for multinational corporations, only applicable to senior employees |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Protective Services Workers Not Elsewhere Classified？**
-- 注重公共安全与秩序者
-- 希望快速进入劳动力市场者
-- 适应轮班工作制度者
+**Who is suited**
+- Those who prioritize public safety and order
+- Those looking to enter the workforce quickly
+- Those able to adapt to shift work
 
-**谁不适合学Protective Services Workers Not Elsewhere Classified？**
-- 渴望高薪与快速晋升者
-- 不适应不稳定工作时间者
+**Who is not suited**
+- Those eager for high salary and rapid promotion.
+- Not suitable for those who cannot adapt to unstable working hours
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a protection services worker?**
+A: Junior security guard annual salary approx. €22,000-€28,000, can rise to over €35,000 with experience.
+
+**Q: Can foreigners immigrate to Ireland through this occupation?**
+A: Protective service workers are usually not in shortage, generally need to apply through a General Employment Permit, and require employer sponsorship and labor market testing.
+
+**Q: What licenses are needed to work as a security guard?**
+A: Must hold a security license issued by the Private Security Authority (PSA), usually requiring completion of a training course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Protective Services Workers Not Elsewhere Classified属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for protective services workers?**
-答：Entry-level security guards earn around €22,000-€28,000 per year, rising to over €35,000 with experience.
-
-**问：Can foreigners immigrate to Ireland through this occupation?**
-答：This occupation is generally not on the critical skills list; a General Employment Permit is required, with employer sponsorship and labor market test.
-
-**问：What licenses are needed for security work?**
-答：A security license from the Private Security Authority (PSA) is mandatory, usually requiring completion of a training course.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

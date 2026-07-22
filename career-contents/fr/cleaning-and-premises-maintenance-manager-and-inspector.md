@@ -1,60 +1,96 @@
-# Cleaning and Premises Maintenance Manager and Inspector（Cleaning and Premises Maintenance Manager and Inspector）职业分析 · FR
+# Cleaning and Premises Maintenance Manager and Inspector — career analysis · France
 
-**职业代码：K2203 – Cleaning and Premises Maintenance Manager and Inspector。**
+**Occupation code: K2203 (ROME)**
 
-Responsible for supervising cleaning teams, managing cleaning contracts, and inspecting premises hygiene quality to ensure compliance with industry standards.
+Responsible for supervising the cleaning team, managing cleaning contracts, and inspecting the hygiene quality of the premises to ensure compliance with industry standards.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 2年（CAP） | —（公立学校免费，注册费约100-500欧元） |
-| 高中毕业或职业培训 | 1-2年（职业资格认证） | $2,000~$8,000（培训费用因机构而异，可通过学徒制减免） |
+| Secondary Education | 2 years (CAP) | $0~$1,000 (Public schools are free, with registration fees of about 100-500 euros) |
+| High school graduation or vocational training | 1-2 years (professional qualification certification) | $2,000~$8,000 (Training fees vary by institution and can be waived through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 清洁与卫生职业证书（CAP Propreté） | 法国教育部 | 可选 | 入门级文凭，非强制但有助于就业 |
-| 清洁管理职业资格证书（CQP Manager de la Propreté） | 法国清洁行业职业认证委员会 | 可选 | 管理层岗位常要求 |
+| Cleaning and Sanitation Vocational Certificate (CAP Propreté) | French Ministry of Education | Optional | An entry-level diploma, not mandatory, but helpful for employment |
+| Cleaning Management Professional Qualification Certificate (CQP Manager de la Propreté) | French Cleaning Industry Professional Certification Commission | Optional | Management positions are often required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 200,000。法国清洁服务市场需求稳定，受健康与环保法规推动，预计就业保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 200,000. Demand in the French cleaning services market remains stable, driven by health and environmental regulations, and employment is expected to remain steady.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $33,000~$45,000 | 税前年薪，含奖金 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $33,000~$45,000 | Annual pre-tax salary, including bonuses |
+| average salary | $20,586 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从清洁工晋升为团队主管，再升至区域经理或质量检查员，也可转向设施管理。
-**AI替代风险：中（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+You can be promoted from cleaner to team leader, then to regional manager or quality inspector, or transition to facility management.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - Commercial cleaning
 - Hygiene standards
@@ -63,65 +99,67 @@ Responsible for supervising cleaning teams, managing cleaning contracts, and ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明岗位无法由欧盟公民填补 |
-| Subclass Passeport Talent（Talent Passport） | 符合高级管理岗位要求，可申请 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position cannot be filled by an EU citizen |
+| Subclass Passeport Talent (Talent Passport) | Eligible to apply if you meet the requirements for senior management positions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cleaning and Premises Maintenance Manager and Inspector？**
-- 注重细节和卫生标准的人
-- 具有团队管理和沟通能力的人
-- 愿意从事实际现场监督工作的人
+**Who is suited**
+- People who pay attention to detail and hygiene standards
+- People with team management and communication skills
+- Willing to engage in actual on-site supervision work
 
-**谁不适合学Cleaning and Premises Maintenance Manager and Inspector？**
-- 对重复性工作感到厌倦的人
-- 无法适应清洁化学品环境的人
+**Who is not suited**
+- People who are tired of repetitive work
+- Those unable to tolerate cleaning chemical environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary around €20,000-25,000, senior up to €45,000, including bonuses.
+
+**Q: Can non-EU citizens immigrate to France to work in this profession?**
+A: It is more difficult because the occupation is not in short supply, employers must prove they cannot recruit locals, and the income threshold is relatively low.
+
+**Q: What are the career development prospects?**
+A: They can be promoted from cleaners to management positions, or move into areas such as facility management and quality inspection.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cleaning and Premises Maintenance Manager and Inspector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about 20,000 to 25,000 euros, senior can reach 45,000 euros including bonuses.
-
-**问：Can non-EU citizens immigrate to France for this occupation?**
-答：It is difficult, as the occupation is not in shortage, employers must prove inability to hire locally, and income threshold is low.
-
-**问：What are the career prospects?**
-答：You can advance from cleaner to management roles, or switch to facility management, quality inspection, etc.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

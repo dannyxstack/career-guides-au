@@ -1,60 +1,93 @@
-# Systems and Network Administrator（Systems and Network Administrator）职业分析 · ES
+# Systems and Network Administrator — career analysis · Spain
 
-**职业代码：2722 – Systems and Network Administrator。**
+**Occupation code: 2722 (CNO)**
 
-Responsible for planning, deploying, monitoring and maintaining IT infrastructure, ensuring stable operation of servers, network devices and systems, troubleshooting and optimizing performance.
+Responsible for planning, deploying, monitoring, and maintaining enterprise IT infrastructure to ensure stable operation of servers, network equipment, and systems, handle faults, and optimize performance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | —（公立FP学费低，每年约500-1000欧元） |
-| 本科（Grado） | 4年 | $1,000~$9,000（公立大学每年约1000-3000欧元，私立更高） |
-| 硕士（Máster） | 1年 | $2,000~$12,000（专业硕士如网络安全或云计算方向） |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public FP tuition is low, about 500-1000 euros per year) |
+| Undergraduate (Grado) | 4 years | $1,000~$9,000 (Public universities around €1,000-3,000 per year, private higher.) |
+| Máster | 1 year | $2,000~$12,000 (Professional master's degree in cybersecurity or cloud computing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 系统与网络管理FP学位 | 西班牙教育部 | 可选 | 职业培训（FP Grado Superior）学历，非强制但常见 |
-| CCNA认证 | Cisco | 可选 | 网络管理常用认证，增加就业竞争力 |
-| 同等学历认证（Homologación） | 西班牙教育部 | 可选 | 非欧盟学历需认证，但非强制，企业可接受 |
+| FP degree in Systems and Network Management | Spanish Ministry of Education | Optional | Vocational training (FP Grado Superior) qualification, not mandatory but common |
+| CCNA Certification | Cisco | Optional | Common certifications for online management increase employment competitiveness |
+| Homologación | Spanish Ministry of Education | Optional | Non-EU degrees require certification but are not mandatory, and companies can accept them |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 42,000。西班牙数字化转型加速，企业对系统与网络管理员需求持续增长，尤其是云计算、网络安全领域。该职业在就业局（SEPE）列为紧缺，未来5年预计增长15%。
+**Job demand: high (★★★★☆).** National workforce approx. 42,000. Spain's digital transformation is accelerating, and enterprises' demand for system and network administrators continues to grow, especially in the fields of cloud computing and cybersecurity. This occupation is listed as in short supply by the Employment Agency (SEPE) and is expected to grow by 15% over the next five years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，马德里/巴塞罗那偏高 |
-| 中级（3-6年） | $32,000~$42,000 | 含云计算或网络安全技能可更高 |
-| 高级（6年以上） | $44,000~$55,000 | 管理岗或专家岗可达60k以上 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary: Madrid/Barcelona are relatively high |
+| Mid-level (3–6 years) | $32,000~$42,000 | Qualifications with cloud computing or cybersecurity skills may be higher |
+| Senior (6+ years) | $44,000~$55,000 | Management or expert positions can earn over 60k |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级工程师晋升为高级管理员、IT基础设施经理或IT经理。通过考取AWS、Cisco等认证可提升竞争力，也可转向DevOps或网络安全专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
+
+You can be promoted from junior engineer to senior administrator, IT infrastructure manager, or IT manager. Obtaining certifications from AWS and Cisco can enhance competitiveness, and you can also become a DevOps or cybersecurity expert.
+
+**Tasks most exposed to AI:**
+
+- Routine network device configuration changes (e.g., VLAN, ACL additions)
+- Template-based network monitoring alarm analysis and preliminary diagnosis
+- Automatic detection of network faults and execution of standard recovery procedures
+- Compliance baseline checks and configuration audit report generation
+
+**Where AI augments the role:**
+
+- Using AI to predict network traffic peaks and automatically adjust bandwidth strategies
+- Designing multi-layer cloud network architectures and optimizing costs with AI assistance
+- Quickly identify abnormal traffic and threats using AI-driven security analysis tools
+- Using large language models to accelerate technical documentation and knowledge base building
+
+**Human moat:**
+
+- Ability to design hybrid networking architectures spanning internal networks and public cloud across regions
+- Customized network solutions based on deep understanding of business needs
+- Emergency decision-making and coordination/public relations skills during large network failures
+- Network audit responsibility under regulatory compliance (e.g., APRA, ISO 27001)
+
+**Skills to build:**
+
+- Python network automation (Netmiko/Nornir)
+- Cloud network certifications (AWS Advanced Networking / Azure Network Engineer)
+- AI/ML fundamentals and network data analysis
+- DevOps-related tools (Ansible, Terraform)
+- Cybersecurity situational awareness and zero-trust architecture
+- Use of AI-assisted network diagnostic tools.
+
+**Key growth areas:**
 
 - Cloud Computing
 - Network Security
@@ -63,68 +96,67 @@ Responsible for planning, deploying, monitoring and maintaining IT infrastructur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高学历（本科以上）且年薪达标（2023年约33,908欧元）的技术人才，快速获得工作居留。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人才，年薪门槛约38,000欧元（IT类可放宽），审批快速，可带家属。 |
-| Subclass Cuenta ajena（Work Contract (employed)） | 标准受雇工作居留，需企业担保，无硬性年薪门槛，但需证明岗位真实性。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for technical professionals with high academic qualifications (bachelor's degree or above) who meet annual salary targets (approximately €33,908 in 2023), enabling rapid acquisition of work residency. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, salary threshold about €38,000/year (IT may be lower), fast processing, family can accompany. |
+| Subclass Cuenta ajena (Work Contract (employed)) | Standard employed work residence requires company sponsorship, no strict annual salary threshold, but the authenticity of the position must be proven. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Systems and Network Administrator？**
-- 喜欢动手解决技术问题，对网络和系统有浓厚兴趣
-- 有耐心，能承受压力（夜间维护或故障处理）
-- 愿意持续学习新技术，如云平台、自动化工具
-
-**谁不适合学Systems and Network Administrator？**
-- 讨厌重复性监控任务，偏好创造性工作
-- 不喜欢在高压下快速响应故障
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys solving technical problems hands-on and has a strong interest in networks and systems
+- Patient and able to handle pressure (nighttime maintenance or troubleshooting)
+- Willing to continuously learn new technologies, such as cloud platforms and automation tools
+
+**Who is not suited**
+- Dislikes repetitive monitoring tasks and prefers creative work
+- Dislike responding quickly to faults under high pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for systems and network administrators in Spain?**
+A: Entry-level approximately €24,000-€30,000, mid-level €32,000-€42,000, senior €44,000-€55,000 (pre-tax annual salary).
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: You can obtain the EU Blue Card (Bachelor's degree + annual salary qualification) or the High-Skilled Talent Visa (Ley 14/2013), with company sponsorship required. This occupation is in short supply, and the salary threshold is somewhat flexible.
+
+**Q: What educational qualifications are required to become a system and network administrator?**
+A: Typically, an FP Grado Superior (2 years) or a bachelor's degree (4 years) is required, but you can also enter the field through certifications (such as CCNA) and practical experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Systems and Network Administrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Systems and Network Administrator in Spain?**
-答：Junior: €24,000-€30,000; Mid-level: €32,000-€42,000; Senior: €44,000-€55,000 (gross annual).
-
-**问：How can non-EU citizens migrate to Spain through this occupation?**
-答：Via EU Blue Card (degree + minimum salary) or Highly Qualified Professional visa, with employer sponsorship. It's a shortage occupation, offering some flexibility in salary thresholds.
-
-**问：What education is needed to become a Systems and Network Administrator?**
-答：Typically a 2-year vocational degree (FP Grado Superior) or a 4-year bachelor's degree; certifications (e.g., CCNA) and experience also valued.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

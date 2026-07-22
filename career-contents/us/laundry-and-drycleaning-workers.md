@@ -1,60 +1,94 @@
-# Laundry and Dry-Cleaning Workers（Laundry and Dry-Cleaning Workers）职业分析 · 美国
+# Laundry and Dry-Cleaning Workers — career analysis · United States
 
-**职业代码：51-6011 – Laundry and Dry-Cleaning Workers。**
+**Occupation code: 51-6011 (SOC)**
 
-Operate or tend washing or dry-cleaning machines to wash or dry-clean industrial or household articles such as garments, suede, leather, furs, blankets, draperies, linens, rugs, and carpets, including spotters and dyers.
+Operate or tend washing or dry-cleaning machines to clean or dry-clean items such as clothing, leather, blankets, etc., including stain removers and dyers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（多数雇主要求高中文凭，但非必需） |
-| 在职培训 | 1-3个月 | —（通常由雇主提供短期培训） |
+| High school diploma or equivalent | 0 years | $0~$0 (Most employers require a high school diploma, but not mandatory) |
+| On-the-job training | 1-3 months. | $0~$500 (Usually provided by employer as short-term training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 可选 | 多数雇主偏好，但非强制 |
-| 在职培训 | 雇主 | 必备 | 学习设备操作、化学品安全等 |
+| On-the-job training | Employer | Required | Learn equipment operation, chemical safety, etc. |
+| High school diploma or equivalent | High school | Optional | Preferred by most employers, but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 131,000。美国劳工统计局预计2023-2033年该职业就业将基本持平或略有下降，年均约3700个职位空缺，主要因自动化替代简单洗涤任务，但高端干洗和定制服务仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 131,000. The U.S. Bureau of Labor Statistics projects little or no change in employment for this occupation from 2023 to 2033, with about 3,700 job openings annually, mainly due to automation replacing simple washing tasks, but demand remains for high-end dry cleaning and custom services.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 时薪约11-13美元 |
-| 中级（3-7年） | $28,000~$35,000 | 含经验和技术提升 |
-| 高级（7年以上） | $35,000~$45,000 | 主管或技术专家 |
+| Median salary | $34,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $22,000~$28,000 | Hourly wage about $11-13 USD |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including experience and skill enhancement |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor or technical specialist |
+| average salary | $34,920 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 通常从初级操作工起步，积累经验后可能晋升为领班或主管，也可转向设备维修或创业开设小型洗衣店。需要持续学习新型洗涤技术和环保法规。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Laundry and dry-cleaning workers face medium-to-high automation risk; routine tasks (sorting, adding chemicals, loading/unloading) are easily replaced by robots/smart equipment, but fine work like stain treatment still relies on humans; entry-level positions will shrink significantly.
+
+Usually start as entry-level operators, gain experience and may advance to team leader or supervisor, or transition to equipment maintenance or start a small laundry business. Requires continuous learning of new washing techniques and environmental regulations.
+
+**Tasks most exposed to AI:**
+
+- Sorting clothes by color/fabric (achievable with AI vision + robotic arm)
+- Load clothes into washing/dry-cleaning machines and add detergent (automatic dosing + robotic arm)
+- Start machine and monitor process (PLC/IoT automatic control)
+- Remove clothing from machines and check for cleanliness (visual inspection)
+- Manage inventory and tags (RFID + software systems)
+
+**Where AI augments the role:**
+
+- AI-assisted stain identification and specialized treatment recommendations
+- Smart scheduling system optimizes laundry/dry cleaning process order
+- Machine predictive maintenance alerts reduce downtime
+- Customer self-service kiosks reduce front desk workload
+
+**Human moat:**
+
+- Experience with physical/chemical treatment of special stains (blood, ink, red wine, etc.)
+- Judgment on hand-care of delicate fabrics (silk, cashmere, etc.)
+- Communicate special requirements with customers and adjust processes
+- Rapid troubleshooting and manual repair when handling mechanical faults
+
+**Skills to build:**
+
+- Mastering AI-assisted stain recognition software (e.g., SpotClean AI)
+- Learn basic maintenance and programming of robots and automation equipment
+- Enhance knowledge of advanced fabric care and dyeing
+- Learn customer service and communication skills (transition to account management)
+- Familiar with smart laundry management systems (e.g., LaundryHub)
+- Learn business data analysis (to optimize operational efficiency)
+
+**Key growth areas:**
 
 - Moderate decline
 - Automation impact
@@ -63,66 +97,68 @@ Operate or tend washing or dry-cleaning machines to wash or dry-clean industrial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不要求本科学位，H-1B获批可能性极低。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 仅当雇主能证明无法招到美国工人且职位要求至少2年培训/经验时可能申请，但实操困难。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 需进行劳工证测试，但该职业通常劳动力充裕，获批难度大。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation does not require a bachelor's degree, H-1B approval is extremely unlikely. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Only possible if employer can prove inability to hire US workers and position requires at least 2 years training/experience, but practically difficult. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Requires a labor market test, but the occupation usually has sufficient labor, making approval difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Laundry and Dry-Cleaning Workers？**
-- 喜欢动手操作、能接受重复性工作的人
-- 对化学清洁剂不过敏且注重细节的人
-- 希望在短期培训后快速就业的求职者
+**Who is suited**
+- Those who enjoy hands-on work and can accept repetitive tasks
+- Those not allergic to chemical cleaners and detail-oriented
+- Job seekers hoping to gain employment quickly after short-term training
 
-**谁不适合学Laundry and Dry-Cleaning Workers？**
-- 追求高薪和职业晋升机会的人
-- 对化学品敏感或厌恶枯燥工作的人
+**Who is not suited**
+- Those seeking high salary and career advancement opportunities
+- People sensitive to chemicals or who dislike monotonous work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a laundry worker?**
+A: According to BLS data, the 2023 median hourly wage was about $12.81, and median annual wage about $26,650. Experienced or supervisory roles can reach $35,000-$45,000.
+
+**Q: Can laundry workers immigrate to the US via work visa?**
+A: extremely unlikely. this occupation typically does not meet H-1B degree requirements; EB-3 green card requires labour certification and employer proof of inability to hire US workers, with fierce competition, not recommended as a migration path.
+
+**Q: What career development opportunities are there for Laundry Workers?**
+A: Can advance to laundry supervisor, equipment maintenance technician, or start a small dry-cleaning business. Mastering eco-friendly technologies or custom services can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Laundry and Dry-Cleaning Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for laundry workers?**
-答：According to BLS 2023 data, median hourly wage is $12.81, annual median about $26,650. Experienced or supervisors can earn $35,000-$45,000.
-
-**问：Can laundry workers immigrate to the US via work visa?**
-答：Very unlikely. The job does not meet H-1B education requirements. EB-3 requires labor certification proving no US workers available; high competition. Not recommended as immigration route.
-
-**问：What career advancement opportunities exist for laundry workers?**
-答：Can advance to supervisor, equipment repair technician, or start own dry-cleaning business. Eco-friendly techniques or custom services enhance competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

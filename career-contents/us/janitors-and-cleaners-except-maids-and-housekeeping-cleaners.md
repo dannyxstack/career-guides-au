@@ -1,60 +1,96 @@
-# Janitors and Cleaners, Except Maids and Housekeeping Cleaners（Janitors and Cleaners, Except Maids and Housekeeping Cleaners）职业分析 · 美国
+# Janitors and Cleaners, Except Maids and Housekeeping Cleaners — career analysis · United States
 
-**职业代码：37-2011 – Janitors and Cleaners, Except Maids and Housekeeping Cleaners。**
+**Occupation code: 37-2011 (SOC)**
 
-Keep buildings in clean and orderly condition by performing heavy cleaning duties such as cleaning floors, shampooing rugs, washing walls and glass, and removing rubbish. May also perform routine maintenance and snow removal.
+Maintain cleanliness of buildings, including floor cleaning, carpet cleaning, wall and glass wiping, trash removal, etc.; may also perform simple maintenance and snow removal.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无 | 0 | —（通常无需正式教育） |
-| 高中文凭或同等学历 | 0 | —（多数雇主无要求） |
+| None | 0 | $0~$0 (Usually no formal education required) |
+| High school diploma or equivalent | 0 | $0~$0 (No requirements for most employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定执照 | 无 | 可选 | 通常无需许可证 |
-| 在职培训 | 雇主 | 可选 | 多数雇主提供短期培训 |
+| No specific license required | None | Optional | Usually no license required |
+| On-the-job training | Employer | Optional | Most employers provide short-term training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,360,000。美国劳工统计局预测2023-2033年该职业就业增长约4%，每年新增约15万个职位，需求稳定且持续。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,360,000. The US Bureau of Labor Statistics projects employment growth of about 4% from 2023 to 2033, with approximately 150,000 new positions each year, indicating stable and sustained demand.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 时薪约12-14美元 |
-| 中级（3-5年） | $30,000~$38,000 | 时薪约14-18美元 |
-| 高级（5年以上） | $38,000~$45,000 | 时薪约18-22美元，含管理岗 |
+| Median salary | $36,840 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$30,000 | Hourly wage approx. 12-14 USD |
+| Mid-level (3–5 years) | $30,000~$38,000 | Hourly wage around USD 14-18 |
+| Senior (5+ years) | $38,000~$45,000 | Hourly wage about $18-$22, including management positions |
+| average salary | $38,760 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径有限，通常从清洁工起步，经验丰富后可晋升为清洁主管、设施管理员或运营经理，部分人可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cleaner positions will be significantly reduced by AI automation, especially repetitive floor cleaning, trash removal, and basic maintenance tasks, but complex cleaning, disinfection, and customer interaction still require humans; job numbers will decrease, skill requirements will increase.
+
+Limited promotion path, usually starting as cleaner, then advancing to cleaning supervisor, facility manager, or operations manager with experience; some may start own business.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuuming and floor cleaning
+- Scheduled garbage collection and sorting
+- Basic cleaning of windows and glass
+- Simple surface wiping and disinfection
+- Clean corridors and common areas according to preset routes.
+
+**Where AI augments the role:**
+
+- Use smart cleaning maps and scheduling software to optimize work routes
+- Operate and monitor automatic cleaning robots.
+- Use sensor data to identify high-pollution areas for targeted cleaning
+- Receive real-time tasks and feedback via mobile app
+- Use smart disinfection equipment for precise sanitization
+
+**Human moat:**
+
+- Handle instant stains, spills, and complex cleaning needs
+- Communication and service with clients and colleagues
+- Deep cleaning and infection control in sensitive areas (e.g., healthcare)
+- Identify and resolve equipment faults or safety hazards
+- Adapt flexibly in customized or unstructured environments
+
+**Skills to build:**
+
+- Operate and maintain automatic cleaning robots
+- Use digital scheduling and reporting software
+- Basic data analysis and problem-solving
+- Knowledge of infection control and hygiene standards
+- Customer service and communication skills
+- Equipment repair and basic mechanical skills
+
+**Key growth areas:**
 
 - Stable demand
 - Low turnover
@@ -63,65 +99,67 @@ Keep buildings in clean and orderly condition by performing heavy cleaning dutie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 季节性临时工作签证，适用于非农业临时工人，雇主需证明劳工短缺。 |
-| Subclass H-2A（H-2A Temporary Agricultural Workers） | 用于农业临时工，但清洁工通常不适用，除非在农场清洁。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Seasonal temporary work visa for non-agricultural temporary workers; employers must demonstrate labor shortage. |
+| Subclass H-2A (H-2A Temporary Agricultural Workers) | Used for agricultural temporary workers, but generally not applicable for cleaners unless working on a farm. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Janitors and Cleaners, Except Maids and Housekeeping Cleaners？**
-- 愿意从事体力劳动
-- 不介意低收入
-- 需要灵活工作时间的兼职人员
+**Who is suited**
+- Willing to perform physical labor
+- Those who don't mind low income
+- Part-time workers needing flexible hours
 
-**谁不适合学Janitors and Cleaners, Except Maids and Housekeeping Cleaners？**
-- 希望高收入或快速晋升
-- 对工作环境清洁度要求高
+**Who is not suited**
+- Those seeking high income or rapid promotion
+- High requirement for cleanliness of work environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a cleaner in the US?**
+A: According to BLS data, the average annual salary in 2023 was approx. $35,000, with an hourly wage of about $17. Entry-level hourly wage is about $12-14.
+
+**Q: Is there a pathway for cleaners to immigrate to the US?**
+A: It is generally difficult to obtain permanent residency through skilled migration because the occupation is considered low-skilled. However, short-term work is possible via the H-2B temporary work visa or family sponsorship.
+
+**Q: What career development opportunities are there for cleaners?**
+A: Can advance to cleaning supervisor, facilities manager, or join a professional cleaning company in operations management, or start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（½☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Janitors and Cleaners, Except Maids and Housekeeping Cleaners属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for janitors and cleaners in the US?**
-答：According to BLS, the median annual wage is about $35,000, with hourly wage around $17. Entry-level positions pay $12-14 per hour.
-
-**问：Are there immigration pathways for janitors and cleaners to the US?**
-答：It is generally difficult to obtain a green card through skilled migration as it is considered low-skilled. However, H-2B temporary work visas are available for seasonal work, or family sponsorship could be an option.
-
-**问：What are the career advancement opportunities for janitors and cleaners?**
-答：Advancement opportunities include becoming a cleaning supervisor, facilities manager, or operations manager in a professional cleaning company; self-employment is also possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

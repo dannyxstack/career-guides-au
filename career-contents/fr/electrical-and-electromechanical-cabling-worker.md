@@ -1,60 +1,96 @@
-# Electrical and Electromechanical Cabling Worker（Electrical and Electromechanical Cabling Worker）职业分析 · FR
+# Electrical and Electromechanical Cabling Worker — career analysis · France
 
-**职业代码：H2602 – Electrical and Electromechanical Cabling Worker。**
+**Occupation code: H2602 (ROME)**
 
-Responsible for cabling, connecting, and testing electrical and electromechanical equipment to ensure safe circuit operation.
+Responsible for wiring, connecting, and testing electrical and electromechanical equipment to ensure the safe operation of circuit systems.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年 | —（公立职业学校免费，注册费约100-500欧元/年） |
-| 技师文凭（BTS） | 2年（BTS） | —（公立院校免费，私立院校约3000-8000欧元/年） |
+| Certificate of Professional Competency (CAP) | 2 years | $0~$1,500 (Public vocational schools are free, with registration fees of about 100-500 euros per year) |
+| Technician Diploma (BTS) | 2 Years (BTS) | $0~$2,000 (Public institutions are free; private institutions about €3,000-8,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气安全认证（Habilitation électrique） | 法国劳动部认可的培训中心 | 必备 | 必须持有才能从事带电作业，分不同电压等级 |
-| BAC Pro MELEC（电气及其连接职业） | 法国教育部 | 可选 | 高中学历级职业文凭，行业普遍要求 |
+| Electrical Safety Certification (Habilitation Électrique) | Training centers recognized by the French Ministry of Labor | Required | It must be held to carry out live operation, with different voltage levels |
+| BAC Pro MELEC (Electrical and Connected Professions) | French Ministry of Education | Optional | High school diploma-level vocational diploma, commonly required by the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 95,000。法国能源转型和工业自动化推动该职业需求增长，尤其在可再生能源和电动汽车领域。学徒培训普及，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 95,000. France's energy transition and industrial automation are driving demand growth in this profession, especially in renewable energy and electric vehicles. Apprenticeship training is widespread, and employment prospects are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视行业和企业规模 |
-| 中级（3-7年） | $28,000~$35,000 | 含加班和补贴 |
-| 高级（7年以上） | $35,000~$45,000 | 含团队管理或技术专家角色 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary depends on industry and company size |
+| Mid-level (3–7 years) | $28,000~$35,000 | Including overtime and subsidies |
+| Senior (7+ years) | $35,000~$45,000 | Including team management or technical expert roles |
+| average salary | $27,252 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从初级布线工晋升为团队负责人或技术专家，也可通过继续教育转向电气工程或自动化领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Electrical and MEP wiring workers are affected by AI automation, which has mixed effects: conventional wiring tasks are facing automation replacement, but AI-assisted tools can improve the efficiency of complex system diagnosis and testing, and human professional judgment and on-site adaptability remain the moat.
+
+You can advance from a junior cabber to team leader or technical expert, or transition to electrical engineering or automation through further education.
+
+**Tasks most exposed to AI:**
+
+- Standard joint fabrication is completed using automated wire stripping machines and crimping machines
+- Execute repetitive wiring path fixing based on CAD drawings (such as cable trays and cable tray installations)
+- Automatically check cable connection quality (such as solder joints and plug-ins) using AI vision systems
+- Automatically generates wiring harness layout schemes through electrical simulation software, reducing manual planning
+- AGVs (automated guided vehicles) handle the handling and laying of heavy cable reels
+
+**Where AI augments the role:**
+
+- Using AR headsets to overlay circuit diagrams improves on-site wiring accuracy and efficiency
+- Use AI diagnostic tools to quickly locate complex faults (such as intermittent short circuits and electromagnetic interference)
+- Remote collaboration with digital twin models optimizes cabling schemes and reduces rework
+- AI-assisted generation of wiring test reports and maintenance logs improves document quality
+- Predictive maintenance plans based on historical data extend equipment lifespan
+
+**Human moat:**
+
+- On-site identification of strain capability for conflicts between non-standard installation conditions and structures
+- Comprehensive experience in safety regulations and emergency plan decision-making
+- Customer communication, teamwork, and on-site problem-solving negotiations
+- Compliance assessment for special environments (such as explosion-proof and cleanrooms).
+- Flexibly handle compatibility issues in retrofitting old equipment
+
+**Skills to build:**
+
+- Master BIM (Building Information Modeling) and digital electrical cabling design tools
+- Learn the basics of PLC (Programmable Logic Controller) and automation system debugging
+- Enhance understanding of fault diagnosis algorithms and the operation of AI-assisted diagnostic tools
+- Familiar with interface standards for smart grids and renewable energy electrical systems
+- Strengthen safety standards (such as IEC 62368) and emergency response training
+- Learn collaborative robot (Cobot) integrated protective wiring skills
+
+**Key growth areas:**
 
 - renewable energy
 - electric vehicle
@@ -63,62 +99,64 @@ Responsible for cabling, connecting, and testing electrical and electromechanica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需要法国公司提供工作合同和劳动许可，适合普通员工 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，需年薪达约2倍SMIC（约38,000欧元） |
+| Subclass Salarié (Salarié (Employee)) | A French company is required to provide a work contract and labor permit, suitable for ordinary employees |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requiring an annual salary of about twice the SMIC (approximately 38,000 euros) |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Electrical and Electromechanical Cabling Worker？**
-- 动手能力强，喜欢实际操作的人
-- 对电气系统和自动化感兴趣的技术人员
-- 愿意通过学徒制学习并获得实践经验的人
+**Who is suited**
+- Strong hands-on skills and someone who enjoys hands-on operations
+- Technicians interested in electrical systems and automation
+- Those willing to learn through apprenticeships and gain practical experience
 
-**谁不适合学Electrical and Electromechanical Cabling Worker？**
-- 对技术细节和安全性要求不敏感的人
-- 偏好办公室工作和理论分析的人
+**Who is not suited**
+- People who are not sensitive to technical details and safety requirements
+- People who prefer office work and theoretical analysis
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for electrical wiring workers?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, intermediate salaries 28,000-35,000 euros, and senior salaries 35,000-45,000 euros, depending on experience and industry.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: Usually, a French company is required to provide an employment contract (Salarié). If the annual salary is higher, you can apply for the Passeport Talent Passport. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Electrical and Electromechanical Cabling Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for cabling workers?**
-答：Entry-level annual salary is about €22,000-€28,000, mid-level €28,000-€35,000, and senior €35,000-€45,000, depending on experience and industry.
-
-**问：How can foreigners immigrate through this occupation?**
-答：Typically requires a work contract (Salarié) from a French company. High earners may qualify for a Talent Passport. EU citizens have free movement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

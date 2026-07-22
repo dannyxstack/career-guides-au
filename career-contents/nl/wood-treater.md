@@ -1,59 +1,95 @@
-# Wood Treater（Wood Treater）职业分析 · NL
+# Wood Treater — career analysis · Netherlands
 
-**职业代码：7521 – Wood Treater。**
+**Occupation code: 7521 (ISCO08)**
 
-Wood treaters apply chemical preservatives, fire retardants, and insecticides to wood to protect it from decay, pests, and fire, ensuring durability for construction and industrial use.
+Timber treatment workers apply chemical treatments such as preservatives, fire retardants, and insecticides to timber to extend its service life and meet construction and industrial requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | $2,000~$6,000（学费每年约 €2,000-€6,000） |
-| 在职培训 | 1-2年 | —（雇主提供培训，可能需自费证书） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $2,000~$6,000 (Tuition approx. €2,000-€6,000 per year) |
+| On-the-job training | 1-2 years | $0~$1,000 (Employer provides training; self-funded certification may be required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材处理操作证书 | 荷兰木材协会（NBVT） | 必备 | 证明掌握化学处理流程和安全规范 |
-| VCA 安全证书 | SSVV | 可选 | 基础安全证书，许多雇主强制要求 |
-| 化学品操作许可证 | 荷兰劳动监察局 | 必备 | 处理危险化学品时必需 |
+| Timber Treatment Operator Certificate | Dutch Timber Association (NBVT) | Required | Demonstrates knowledge of chemical processing procedures and safety standards. |
+| Chemical handling license | Dutch Labour Inspectorate. | Required | Essential when handling hazardous chemicals |
+| VCA safety certificate | SSVV | Optional | Basic safety certificate, mandatory for many employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,000。荷兰建筑业稳定，对经过处理的木材需求持续，但自动化可能减少低技能岗位。总体就业平稳，绿建趋势可能带来新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,000. The Dutch construction industry is stable with sustained demand for treated timber, but automation may reduce low-skilled jobs. Overall employment is steady, and green building trends may bring new opportunities.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含津贴 |
-| 中级（3-8年） | $32,000~$40,000 | 税前年薪，经验增加薪资 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，主管或技师级别 |
+| Median salary | $47,622 | Median salary (official: CBS employee median hourly wage €24.1/hour × 1976h annualised, BRC group 0732 Timmerlieden; P25–P75 €39,322–€54,735, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–8 years) | $32,000~$40,000 | Annual salary before tax; pay increases with experience |
+| Senior (8+ years) | $40,000~$50,000 | Pre-tax annual salary, supervisor or technician level |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从操作工可晋升为高级处理技师、生产主管或质量控制员。积累经验后可转向木材防腐技术研发或环保合规岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Timber treatment workers face a mixed impact from automation and AI: automated equipment can take over chemical treatment processes, but tasks such as on-site inspections and recipe adjustments still require human judgment. Entry-level positions may shrink due to automation, but AI-enhanced monitoring and maintenance capabilities create new opportunities.
+
+Operators can advance to senior processing technicians, production supervisors, or quality controllers. With experience, they can transition to wood preservative R&D or environmental compliance roles.
+
+**Tasks most exposed to AI:**
+
+- Automated wood preservation/fire-retardant chemical mixing and injection
+- Automated monitoring of processing parameters (temperature, pressure, time)
+- Automatically records processing batches and data
+- Simple quality testing (e.g., moisture content, chemical penetration depth)
+- Automated maintenance warning system
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of processing formulas and process parameters
+- Intelligent quality inspection and defect prediction
+- Remote monitoring and equipment fault diagnosis
+- Automated generation and traceability of compliance reports
+- Energy efficiency and chemical usage optimization recommendations
+
+**Human moat:**
+
+- Judgment and adjustment under complex site conditions
+- Process development for special wood or non-standard treatments.
+- Chemical safety and environmental compliance responsibilities
+- Communicate with clients about customized processing needs
+- Emergency repair of equipment malfunctions
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Programming and maintenance of automated processing equipment
+- Chemical management and environmental regulations
+- Wood Performance Testing and Quality Management
+- Digital Twin and Industrial IoT Fundamentals
+- Communication and customer service skills
+
+**Key growth areas:**
 
 - Green building
 - Automation
@@ -62,68 +98,67 @@ Wood treaters apply chemical preservatives, fire retardants, and insecticides to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有雇主担保的技术移民，满足收入门槛（2025年约 €5,578/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育背景且工资达标（约 €6,293/月）的技术移民 |
-| Subclass Orientation Year（Orientation Year） | 荷兰高校毕业生或全球前200高校毕业生的求职年签证，可工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for employer-sponsored skilled migration, meeting income threshold (approx. €5,578/month in 2025) |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled migrants with tertiary education and meeting salary threshold (approx. €6,293/month) |
+| Subclass Orientation Year (Orientation Year) | Orientation year visa for graduates of Dutch higher education institutions or the world's top 200 universities; allows work |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Treater？**
-- 喜欢动手操作、注重安全规范的人
-- 适应室内外环境，能处理化学药剂的人
-- 对木制品和建筑行业感兴趣的人
-
-**谁不适合学Wood Treater？**
-- 对化学品敏感或过敏的人
-- 希望从事高薪或快速晋升职业的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and pay attention to safety and regulations
+- Someone who can adapt to indoor and outdoor environments and handle chemical agents.
+- People interested in woodworking and the construction industry
+
+**Who is not suited**
+- People sensitive or allergic to chemicals
+- Those seeking high-paying or fast-track promotion careers.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a wood treatment worker?**
+A: Entry-level about €25,000-€32,000, mid-level €32,000-€40,000, senior up to €50,000, all pre-tax annual salary.
+
+**Q: How to immigrate to the Netherlands for work as a wood processing worker?**
+A: You can apply through skilled migration (requiring employer sponsorship) or the EU Blue Card (requiring higher education and a higher salary). The orientation year visa is suitable for graduates.
+
+**Q: What certificates are needed?**
+A: A Timber Processing Operations Certificate (NBVT) and a Chemical Operations Licence are mandatory; a VCA Safety Certificate is also commonly required by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Wood Treater的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a wood treater in the Netherlands?**
-答：Entry-level: €25,000-€32,000, mid-level: €32,000-€40,000, senior: up to €50,000 (gross annual).
-
-**问：How to migrate to the Netherlands as a wood treater?**
-答：Via Highly Skilled Migrant (employer sponsorship) or EU Blue Card (higher education and salary). Orientation Year visa for graduates.
-
-**问：What certifications are required?**
-答：Mandatory: Wood treatment certificate (NBVT) and chemical handling license. VCA safety certificate is often required by employers.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

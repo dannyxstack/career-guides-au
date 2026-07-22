@@ -1,67 +1,97 @@
-# 营养师（Dietitian）职业分析 · 澳大利亚
+# Dietitian — career analysis · Australia
 
-**职业代码：251111 – Dietitian。**
+**Occupation code: 251111 (ANZSCO)**
 
-营养师（Dietitian）提供临床营养评估、个性化饮食方案和疾病管理服务，服务于医院、老年护理、NDIS、癌症中心和社区健康机构。MLTSSL在列，是医疗辅助职业中增长最快的方向之一。
+Dietitians provide clinical nutrition assessments, personalised dietary plans and disease management services, working in hospitals, aged care, NDIS, cancer centres and community health settings. Listed on the MLTSSL, this is one of the fastest-growing allied health professions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor/Master of Nutrition and Dietetics（4年） | 4年（全日制） | $25,000~$160,000（澳洲国际生约 $37,000~$42,000/年；政府补贴名额约 $7,000~$9,000/年） |
-| 海外资历评估（DAA + APD注册） | 6~18个月 | $1,000~$5,000（含 Dietitians Australia 评估和 Accredited Practising Dietitian (APD) 注册费） |
+| Bachelor/Master of Nutrition and Dietetics (4 years) | 4 years (full-time) | $25,000~$160,000 (International students in Australia: approximately $37,000–$42,000/year; government-subsidised places: approximately $7,000–$9,000/year) |
+| Overseas qualification assessment (DAA + APD registration) | 6–18 months | $1,000~$5,000 (Includes Dietitians Australia assessment and Accredited Practising Dietitian (APD) registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor/Master of Nutrition and Dietetics | 认可大学 | 必备 | APD认证基础学历 |
-| APD（Accredited Practising Dietitian）认证 | Dietitians Australia | 必备 | 行业认证，NDIS和Medicare报销强制要求 |
-| 海外资历评估 | Dietitians Australia | 可选 | 海外营养师学历评估，确认是否达到澳洲标准 |
+| Bachelor/Master of Nutrition and Dietetics | Recognised university | Required | Foundational qualification for APD certification |
+| APD (Accredited Practising Dietitian) certification | Dietitians Australia | Required | Industry certification, mandatory for NDIS and Medicare billing |
+| Overseas qualification assessment | Dietitians Australia | Optional | Overseas dietitian qualification assessment to confirm whether Australian standards are met |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 10,000。JSA 预测营养师至2035年就业增长约20%。NDIS营养支持需求、老年护理改革（强制营养管理）和慢性病（糖尿病/肥胖）流行是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 10,000. JSA projects approximately 20% employment growth for dietitians by 2035. Key drivers include NDIS nutrition support demand, aged care reform (mandatory nutrition management), and the prevalence of chronic conditions such as diabetes and obesity.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,000 个 | 全国，含医院、老年护理、NDIS、社区和运动营养岗 |
-| Indeed | 300~700 个 | 含兼职和合同工 |
-| LinkedIn | 150~400 个 | 偏管理、研究和专科岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 新注册营养师（0~2年） | $65,000~$80,000 | 医院或社区健康，含基本薪 |
-| 中级营养师（2~8年） | $80,000~$105,000 | Indeed 平均 $94,475；SEEK 区间 $75k~$105k（2026） |
-| 资深/专科营养师（8年+） | $105,000~$140,000 | 癌症、重症监护和肾脏营养专科薪资较高 |
-| 私人执业/NDIS自营（5年+） | $100,000~$180,000 | NDIS自营服务商可大幅提升收入 |
-| 农村/偏远地区营养师 | $88,000~$120,000 | 农村医疗津贴和签约奖金，实际待遇好于城市 |
+| Median salary | $86,684 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Newly registered dietitian (0–2 years) | $65,000~$80,000 | Hospital or community health setting, including base salary |
+| Mid-level Dietitian (2–8 years) | $80,000~$105,000 | Indeed average $94,475; SEEK range $75k–$105k (2026) |
+| Senior/specialist dietitian (8+ years) | $105,000~$140,000 | Higher salaries in oncology, intensive care and renal nutrition specialisations |
+| Private practice / NDIS self-employment (5+ years) | $100,000~$180,000 | Self-employed NDIS service providers can significantly increase their income |
+| Rural/remote area dietitian | $88,000~$120,000 | Rural health allowances and sign-on bonuses; overall remuneration is generally better than in metropolitan areas |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★☆）。** NDIS将营养服务纳入可报销范畴，为营养师创造大量新就业机会。体育营养和癌症营养是薪资溢价最高的专科方向。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+NDIS has included nutrition services in reimbursable categories, creating significant new employment opportunities for dietitians. Sports nutrition and oncology nutrition are the specialty areas commanding the highest salary premiums.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - NDIS Nutrition Support
 - Aged Care Nutrition Management
@@ -71,91 +101,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，营养师为核心短缺岗位 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，NDIS和农村营养服务优先 |
-| Subclass 491（Skilled Work Regional） | 偏远地区医疗，提名加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship available; dietitians are a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination; NDIS and rural nutrition services are prioritised |
+| Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学营养师？**
-- 已持有国内营养学/临床营养学位（4年制以上）
-- 英语能力达到 OET B / IELTS 7.0
-- 对慢性病管理和NDIS残障营养有兴趣
-- 接受农村派驻以快速获取PR
-- 目标是NDIS自营服务商或体育营养师
-
-**谁不适合学营养师？**
-- 英语能力较弱，DAA评估困难
-- 只有营养学理论背景（无临床营养实践），APD认证有实习要求
-- 期望立即高薪（入门薪资相对其他医疗类较低）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Already holds a domestic nutrition/clinical nutrition degree (4-year programme or above)
+- English proficiency at OET B / IELTS 7.0
+- Interested in chronic disease management and NDIS disability nutrition
+- Willing to accept rural postings to fast-track PR
+- Targeting NDIS sole traders or sports nutritionists
+
+**Who is not suited**
+- Limited English proficiency makes DAA assessment difficult.
+- Only has a theoretical nutrition background (no clinical nutrition practice) — APD certification requires a supervised placement
+- Expecting high immediate pay (entry-level salary is relatively low compared to other medical fields).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a dietitian in Australia?**
+A: Mid-level dietitians earn approximately $80,000–$105,000 per year (Indeed average $94,475); NDIS self-employed and specialist dietitians can earn $100k–$180k; rural positions with allowances average approximately $88k–$120k.
+
+**Q: Is it easy for a nutritionist/dietitian to find work in Australia?**
+A: Easy. The inclusion of nutrition services under NDIS funding has created a large number of new roles; Seek lists 500–1,000 positions, the occupation is on the MLTSSL, and qualified candidates typically find employment relatively quickly.
+
+**Q: Is a nutrition degree from China recognised in Australia?**
+A: Complete an academic assessment through Dietitians Australia (DAA), confirm the requirements, then apply for APD accreditation. The main hurdles are English proficiency (OET B / IELTS 7.0+) and clinical practice hour requirements.
+
+**Q: Will dietitians be replaced by AI?**
+A: Replacement risk is low. AI nutrition apps provide basic dietary advice, but clinical nutritional assessment (e.g. for cancer, kidney disease, or critical illness), NDIS personalised support planning, and Medicare-claimable services all require a registered dietitian.
+
+**Q: Is there an age limit for dietitians in Australia?**
+A: No upper age limit for practice. Diverse work environments, no night shifts, and no significant age restrictions make this career suitable for career changers of all ages.
+
+**Q: What qualifications do you need to become a dietitian in Australia?**
+A: A degree in Nutrition and Dietetics (Bachelor/Master, 4-year program) is required. An overseas undergraduate degree in clinical or public nutrition (4-year program) may be eligible for a DAA assessment, though additional coursework may be required in some cases.
+
+**Q: Is it difficult to become a qualified dietitian in Australia?**
+A: Moderate difficulty. DAA assessment is primarily a qualification review with no demanding clinical exams. APD certification requires continuing education (maintained annually), and English is the main barrier.
+
+**Q: Which is more suitable for skilled migration to Australia: dietitian or physiotherapist?**
+A: The PR pathway and credential assessment difficulty are similar for both. Physiotherapists have a larger job market (Seek ~2,500 vs dietitians ~800) and slightly higher salaries; dietitians have greater potential for NDIS self-employment, making the role more suitable for those with a business mindset.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Dietitians Australia (DAA) | 营养师APD认证和海外评估 |
-| Indeed AU | 营养师平均薪资 $94,475（2026） |
-| NDIS | NDIS营养支持服务报销政策 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 极佳（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-营养师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲营养师工资多少？**
-答：中级营养师年薪约 $80,000~$105,000（Indeed平均$94,475）；NDIS自营和专科营养师可达 $100k~$180k；农村地区含补贴约 $88k~$120k。
-
-**问：澳洲营养师容易找工作吗？**
-答：容易。NDIS纳入营养服务报销后创造大量新岗位，Seek 挂牌 500~1,000 个职位，MLTSSL在列，持证后较快入职。
-
-**问：中国营养学学位澳洲认可吗？**
-答：通过 Dietitians Australia（DAA）学历评估，确认标准后申请APD认证。主要门槛是英语成绩（OET B/IELTS 7.0+）和临床实践时间要求。
-
-**问：营养师会被AI替代吗？**
-答：替代风险较低。AI营养App提供基础饮食建议，但临床营养评估（如癌症/肾病/重症）、NDIS个性化支持计划和Medicare报销服务均需持证营养师。
-
-**问：澳洲营养师有年龄限制吗？**
-答：无执业年龄上限。工作环境多样、无夜班，对年龄无明显限制，适合各年龄段转行。
-
-**问：澳洲营养师需要什么学历？**
-答：需要营养与饮食学学位（Bachelor/Master，4年制）。国内临床营养学或公共营养学本科（4年制）可申请DAA评估，但部分情况需补修学分。
-
-**问：澳洲营养师认证难吗？**
-答：难度中等。DAA评估主要是学历审核，不需要高难度临床考试。APD认证有继续教育要求（每年维持），英语是最主要门槛。
-
-**问：营养师和物理治疗师哪个更适合技术移民澳洲？**
-答：两者PR路径和认证难度相近。物理治疗师就业量更大（Seek ~2,500 vs 营养师 ~800），薪资略高；营养师NDIS自营潜力更高，适合有商业意愿的从业者。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

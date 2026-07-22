@@ -1,58 +1,93 @@
-# Agricultural Machinery Technician（Agricultural Machinery Technician）职业分析 · DE
+# Agricultural Machinery Technician — career analysis · Germany
 
-**职业代码：1111 – Agricultural Machinery Technician。**
+**Occupation code: 1111 (KldB)**
 
-Agricultural machinery technicians install, maintain, repair, and diagnose faults in farm equipment like tractors and harvesters to ensure efficient agricultural operations.
+Agricultural machinery mechanics are responsible for installation, maintenance, repair, and fault diagnosis of agricultural machinery (e.g., tractors, harvesters) to ensure efficient farming operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3.5年 | —（双元制培训期间有工资，学校通常免费，仅需少量教材费） |
-| 进修：农业机械技师大师（Meister） | 1年（全日制）或2年（在职） | $2,000~$6,000（多为在职进修，费用部分由联邦就业局资助） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$500 (Paid during dual system training, school is usually free, only minimal textbook fees) |
+| Further training: Agricultural Machinery Technician Master (Meister) | 1 year (full-time) or 2 years (part-time) | $2,000~$6,000 (Mostly in-service training, partially funded by the Federal Employment Agency) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业机械技师职业培训结业证书 | 德国工商业协会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 农业机械技师大师证书 | 德国工商业协会（IHK） | 可选 | 可选，晋升管理层或自主创业所需 |
+| Agricultural Machinery Technician Vocational Training Certificate | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Master certificate for agricultural machinery technician | German Chamber of Commerce and Industry (IHK) | Optional | Optional, required for advancement to management or starting own business |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。德国农业机械化程度高，现代农业对高效机械依赖强，但从业人员老龄化严重，年轻后备力量不足，预计未来十年将出现明显人才缺口，就业前景稳定向好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Germany's agriculture has a high degree of mechanization, with modern farming heavily reliant on efficient machinery. However, the workforce is aging severely with insufficient young replacements, leading to an expected talent gap in the next decade and stable employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，东德略低 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，视地区和公司规模 |
-| 高级（7年以上或大师） | $45,000~$55,000 | 税前年薪，含大师津贴或管理岗位 |
+| Median salary | $34,380 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, slightly lower in East Germany |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, varies by region and company size |
+| Advanced (7+ years or master level) | $45,000~$55,000 | Annual pre-tax salary including master allowance or management position |
+| average salary | $37,956 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业晋升路径包括：资深技师、车间主管、技术培训师、农业机械销售或服务经理。也可通过进修成为农业工程技师或自主创业开设维修站。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural machinery technicians face pressure from automated diagnostics and predictive maintenance systems; routine fault-finding and maintenance tasks are gradually taken over by AI, but on-site complex repairs and customer communication still have a moat.
+
+Career progression paths include: senior technician, workshop supervisor, technical trainer, agricultural machinery sales or service manager. Further study can lead to becoming an agricultural engineering technician or starting your own repair shop.
+
+**Tasks most exposed to AI:**
+
+- Standard Diagnostic Trouble Code Reading and Diagnosis (AI Automated OBD Data Analysis)
+- Manual-based standardized maintenance process (AI-generated maintenance plan)
+- Parts inventory counting and ordering (AI predicts demand and places orders automatically)
+- Writing written repair reports (AI-generated records)
+
+**Where AI augments the role:**
+
+- AI-assisted remote expert systems for complex fault diagnosis
+- Predictive maintenance recommendations based on historical data
+- AR glasses overlay maintenance instructions to improve on-site efficiency
+- AI-Optimized Scheduling and Route Planning
+- Drone-assisted preliminary farmland surveys to assist with machinery fault location
+
+**Human moat:**
+
+- Creative and flexible repair of non-standard onsite faults
+- Trust-based communication and personalized service with farmers
+- High-value machinery overhaul and precision adjustment
+- Final inspection and responsibility involving safety regulations
+- Comprehensive diagnostics across mechanical, electronic, and hydraulic systems
+
+**Skills to build:**
+
+- Mechatronics and CAN Bus Diagnostics
+- Operation and data interpretation of AI-assisted diagnostic tools
+- Use of Augmented Reality (AR) maintenance assistance systems
+- Basic programming and IoT device configuration
+- Client communication and agricultural knowledge consultation
+- Basic operation of drones and robots
+
+**Key growth areas:**
 
 - Precision farming
 - Automation
@@ -61,68 +96,67 @@ Agricultural machinery technicians install, maintain, repair, and diagnose fault
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可职业资格（或经资质认证）的技术工人，需获得德国雇主合同。 |
-| Subclass EU Blue Card（EU Blue Card） | 如年薪达到蓝卡门槛（2024年约43,800欧元），可申请，但该职业通常薪资较低，较少达到门槛。 |
-| Subclass Job Seeker Visa（Job Seeker Visa） | 允许在德居留6个月寻找工作，需证明有足够经济能力。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers holding German-recognised professional qualifications (or those with credential assessment) and a job offer from a German employer. |
+| Subclass EU Blue Card (EU Blue Card) | If annual salary meets the Blue Card threshold (approx. €43,800 in 2024), you may apply, but this occupation typically has lower salaries and rarely reaches the threshold. |
+| Subclass Job Seeker Visa (Job Seeker Visa) | Allows stay in Germany for 6 months to look for work; proof of sufficient financial means required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Machinery Technician？**
-- 喜欢动手操作、修理机械的人
-- 对农业和农业技术感兴趣的人
-- 愿意在乡村或郊区工作的人
-
-**谁不适合学Agricultural Machinery Technician？**
-- 不愿从事体力劳动或户外工作的人
-- 对机械维修没有耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and repairing machinery
+- People interested in agriculture and agricultural technology.
+- People willing to work in rural or regional areas
+
+**Who is not suited**
+- People unwilling to do physical labour or outdoor work
+- People who lack patience for mechanical maintenance
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural machinery technicians?**
+A: Annual pre-tax salary for junior technicians is about 28,000-35,000 euros, intermediate 35,000-45,000 euros, and senior technicians or masters can reach 45,000-55,000 euros.
+
+**Q: As a third-country national, how to immigrate to Germany for this occupation?**
+A: Usually requires completion of a German-recognized dual system training or qualification certification (Anerkennung), then apply for a skilled migration visa. Shortage occupations may have lower thresholds.
+
+**Q: What are the training pathways for this occupation?**
+A: The main pathway is a 3.5-year dual vocational training alternating between school and company. Alternatively, one can complete other mechanical training before switching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural Machinery Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for agricultural machinery technicians?**
-答：Entry-level technicians earn around €28,000-35,000 gross annually, mid-level €35,000-45,000, and senior or master technicians €45,000-55,000.
-
-**问：How can a third-country national immigrate to Germany for this occupation?**
-答：Typically requires completing German-recognized vocational training or obtaining recognition (Anerkennung), then applying for a skilled worker visa. Shortage occupation status eases requirements.
-
-**问：What are the training pathways for this occupation?**
-答：The main pathway is a 3.5-year dual vocational training (Ausbildung) alternating between school and company. Career changers with other mechanical training can also enter.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

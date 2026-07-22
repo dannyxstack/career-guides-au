@@ -1,161 +1,188 @@
-# 活动策划师/活动经理（Conference and Event Organiser）职业分析 · 澳大利亚
+# Event Planner / Event Manager — career analysis · Australia
 
-**职业代码：149211 – Conference and Event Organiser。**
+**Occupation code: 149211 (ANZSCO)**
 
-活动策划师和活动经理负责企业会议、展览、婚礼、音乐节和体育赛事的全流程策划、预算管理、供应商协调和现场执行。澳洲MICE（会议/奖励/会议/展览）市场（$360亿/年）全面复苏，推动对专业活动管理人才的旺盛需求。有大型活动经验和数字化活动技能（混合活动平台）的策划师竞争力最强。
+Event planners and event managers are responsible for the end-to-end planning, budget management, vendor coordination and on-site delivery of corporate conferences, exhibitions, weddings, music festivals and sporting events. The full recovery of Australia's MICE (Meetings/Incentives/Conferences/Exhibitions) market ($36 billion per year) is driving strong demand for professional event management talent. Planners with large-scale event experience and digital event skills (hybrid event platforms) are the most competitive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Event Management / Hospitality（3年） | 3年（全日制） | $20,000~$110,000（多所澳洲大学提供活动管理专业；国际生约 $25,000~$35,000/年） |
-| Diploma of Event Management（TAFE/私立，1~2年） | 1~2年 | $5,000~$25,000（实践型活动管理文凭，许多活动经理的实际入门路径） |
-| Project Management 认证（PMP/Prince2） | 1~3个月 | $1,000~$5,000（大型活动项目管理能力认证，提升竞争力和薪资） |
-| 数字活动平台技能（Hopin/Cvent/EventBrite） | 自主学习 | —（混合活动时代的事实标准工具技能） |
+| Bachelor of Event Management / Hospitality (3 years) | 3 years (full-time) | $20,000~$110,000 (Several Australian universities offer event management programmes; approximately $25,000–$35,000 per year for international students) |
+| Diploma of Event Management (TAFE/private college, 1–2 years) | 1–2 years | $5,000~$25,000 (Practical diploma in event management — a common real-world entry pathway for event managers) |
+| Project Management certification (PMP/Prince2) | 1–3 months | $1,000~$5,000 (Large-scale event project management certification, boosting competitiveness and salary) |
+| Digital event platform skills (Hopin / Cvent / Eventbrite) | Self-directed learning | $0~$1,000 (The de facto standard tool skill for the hybrid events era) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV/Diploma of Event Management | TAFE / 认可私立机构 | 可选 | 技术移民评估的核心学历要求 |
-| PMP（Project Management Professional） | Project Management Institute | 可选 | 大型活动和会议项目管理的国际认可证书 |
-| Meetings & Events Australia (MEA) 会员 | Meetings & Events Australia | 可选 | 澳洲活动管理行业协会会员资格，提升专业信誉 |
-| RSA（Responsible Service of Alcohol） | 各州认可机构 | 可选 | 涉及酒精服务活动的法律要求 |
+| Certificate IV/Diploma of Event Management | TAFE / Registered Private Institution | Optional | Core academic qualification requirements for skilled migration assessment |
+| PMP（Project Management Professional） | Project Management Institute | Optional | Internationally recognised certificate in large events and conference project management |
+| Meetings & Events Australia (MEA) membership | Meetings & Events Australia | Optional | Membership of the Australian events management industry association, enhancing professional credibility |
+| RSA（Responsible Service of Alcohol） | State-recognised assessment bodies | Optional | Legal requirement for activities involving alcohol service |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 28,000。JSA预测活动策划就业至2030年增长约10%。企业MICE活动是最大增长方向，音乐节和大型体育赛事（2032年布里斯班奥运会）提供额外就业机会。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. JSA projects approximately 10% employment growth for event planners to 2030. Corporate MICE events represent the largest growth area, with music festivals and major sporting events (2032 Brisbane Olympics) providing additional opportunities.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 600~2,000 个 | 全国，含活动策划/活动经理/会议协调员岗 |
-| Indeed | 500~1,500 个 | 含企业活动部门、酒店宴会部和活动公司岗 |
-| LinkedIn | 800~2,500 个 | 企业内部活动团队和MICE专业活动公司直招 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：很高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 活动协调员（0~2年） | $58,000~$72,000 | 活动助理或协调员起薪 |
-| 活动策划师（2~6年） | $70,000~$85,000 | SEEK 活动策划 $75k~$80k；Indeed 均值 $75,646（2026） |
-| 活动经理（4~10年） | $83,000~$108,000 | SEEK 活动经理 $85k~$105k；Indeed 均值 $80,122（2026） |
-| 活动总监 / MICE总监（10年+） | $110,000~$180,000 | 大型活动公司总监或五星酒店宴会总监 |
+| Median salary | $114,712 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Events Coordinator (0–2 years) | $58,000~$72,000 | Starting salary for activities assistant or coordinator |
+| Event Coordinator (2–6 years) | $70,000~$85,000 | SEEK Event Coordinator $75k–$80k; Indeed average $75,646 (2026) |
+| Events Manager (4–10 years) | $83,000~$108,000 | SEEK Event Manager $85k–$105k; Indeed average $80,122 (2026) |
+| Events Director / MICE Director (10+ years) | $110,000~$180,000 | Director at a large events company or Banquet Director at a five-star hotel |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★★☆）。** 澳洲MICE市场COVID后全面反弹，企业活动预算大幅增加。混合（线下+线上）活动已成为行业新标准，有虚拟活动平台（Hopin/Whova/Teams Live）操作经验的策划师需求旺盛。布里斯班2032奥运会将在未来6年内创造大量活动管理岗位。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
 
-- 企业会议和奖励旅游（MICE）
-- 混合（线下+线上）活动策划
-- 音乐节和大型体育赛事
-- 婚礼策划和高端庆典
-- 可持续绿色活动（Green Events）
+Australia's MICE market has fully rebounded post-COVID, with corporate event budgets increasing significantly. Hybrid (in-person + online) events have become the new industry standard, and planners with experience on virtual event platforms (Hopin/Whova/Teams Live) are in high demand. The Brisbane 2032 Olympics will generate a large number of event management roles over the next six years.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate templated copy such as event invitations and schedules
+- Automatically collect participant information from forms and generate check-in lists
+- Use AI Budget Tools to Automatically Track and Adjust Budget Items
+- Automatically answering common attendee inquiries via chatbots
+- Basic data statistics for automatically generating post-event satisfaction reports
+
+**Where AI augments the role:**
+
+- AI analyzes historical data to recommend optimal event dates, venues, and agendas
+- Using AI tools to monitor social media sentiment in real time and adjust campaign promotion strategies
+- Use AI to quickly generate multiple creative theme proposals for client selection
+- AI-assisted real-time translation and speech recognition enhances multilingual hybrid event experience
+- AI predicting on-site foot traffic and optimizing check-in and booth layout
+
+**Human moat:**
+
+- Complex supplier negotiations and relationship management (involving trust and emotion)
+- Event idea generation and thematic storytelling
+- On-site crisis management (e.g., audio failures, guest delays)
+- Cross-cultural communication and customized services for high-end clients
+- Team leadership and volunteer on-site coordination (non-standardized decisions)
+
+**Skills to build:**
+
+- Advanced operation of hybrid event platforms (e.g., Hopin, Zoom Webinar)
+- Data analysis and visualization (Excel, Tableau, Power BI)
+- AI prompt engineering and automation tools (ChatGPT, Zapier integration)
+- Crisis management and improvisation skills
+- Cross-cultural communication and content creative planning
+- Basic budgeting and project management software (e.g., Asana, Monday.com)
+
+**Key growth areas:**
+
+- Corporate Meetings & Incentive Travel (MICE)
+- Blended Event Planning (Offline+Online)
+- Music Festival & Large Sports Event
+- Wedding Planning and High-End Celebrations
+- Sustainable Green Events
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，大型活动公司和酒店宴会部可担保 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要Vetassess技能评估 |
-| Subclass 190（Skilled Nominated） | 州提名通道（QLD奥运相关岗位可能有特别通道） |
+| Subclass 482 (Skills in Demand) | Employer sponsorship available; large event companies and hotel banquet departments can sponsor |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; Vetassess skills assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway (QLD may offer a special pathway for Olympics-related roles) |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学活动策划师/活动经理？**
-- 持有活动管理/酒店管理学历，有3年以上活动策划和执行工作经验
-- 有大型MICE活动（企业年会/展览/会议）或婚礼策划完整项目经验
-- 有混合活动平台（Hopin/Cvent/Teams Live/Zoom Webinars）操作经验
-- 英语沟通流利（与供应商、客户和场地的谈判是核心工作）
-- 有意向在布里斯班（奥运相关活动机会最多）或悉尼/墨尔本就业
-
-**谁不适合学活动策划师/活动经理？**
-- 仅有婚庆策划小型活动经验，无企业MICE或大型活动项目经验
-- 不耐高压和长时间工作（活动执行期极高强度）
-- 期望通过活动策划快速获得技术移民（非短缺职业，需要雇主担保）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a qualification in event management or hospitality management, with 3+ years of event planning and delivery experience
+- Experience with large MICE events (corporate annual meetings/exhibitions/conferences) or full-cycle wedding planning projects
+- Experience operating hybrid event platforms (Hopin/Cvent/Teams Live/Zoom Webinars)
+- Fluent English communication (negotiating with suppliers, clients and venues is a core part of the role)
+- Intending to work in Brisbane (most opportunities related to the Olympics) or Sydney/Melbourne
+
+**Who is not suited**
+- Experience limited to small-scale wedding event planning with no corporate MICE or large-scale event project experience
+- Not suited to those who cannot handle high pressure and long hours during event delivery
+- Expects to gain skilled migration quickly through event planning (not a shortage occupation, requires employer sponsorship).
+
+---
+
+## 8. FAQ
+
+**Q: How much do event planners/event managers earn in Australia?**
+A: Event Coordinator: approx. $70,000–$85,000 (SEEK $75k–$80k; Indeed $75,646); Event Manager: approx. $83,000–$108,000 (SEEK $85k–$105k; Indeed $80,122); Event Director: approx. $110k–$180k.
+
+**Q: Is it easy to find work as an event planner in Australia?**
+A: Moderate difficulty. The full recovery of the MICE market is driving demand growth, with Seek listing approximately 600–2,000 positions. Managers with large corporate events and MICE experience are in short supply; Brisbane 2032 Olympics-related roles will continue to increase over the next six years.
+
+**Q: Is event planning experience from overseas recognised in Australia?**
+A: Skills assessed through Vetassess — experience in large-scale event planning and MICE from overseas can be recognised. You will need to provide English-language evidence of project experience (event scale, budget, attendance). Consider supplementing your qualifications with an industry-recognised certificate in Australian event management (MEA membership or Diploma).
+
+**Q: Will event planners be replaced by AI?**
+A: Low risk. AI is optimising vendor matching, budget management and event scheduling automation; however, on-site coordination, client relationship management and crisis response are core areas of value that AI cannot replace. Progressing toward large-scale event director or MICE specialist roles can effectively reduce AI-related risk.
+
+**Q: Is there an age limit for event planners in Australia?**
+A: None required. Experienced event directors (aged 40–55) with extensive industry supplier networks and large-event experience are highly competitive. The events industry relies heavily on professional networks and accumulated experience — the more senior, the more valuable.
+
+**Q: What qualifications do you need to become an event planner in Australia?**
+A: Large event companies and hotel banquet departments typically require a qualification in event management or hospitality; small-to-medium event companies place greater emphasis on project experience and a portfolio (event case studies). PMP certification provides a notable advantage for large-scale project management event roles.
+
+**Q: Is it difficult to obtain event planner certification in Australia (for migration purposes)?**
+A: Not on the MLTSSL; migration difficulty is moderate to high. Employer-sponsored 482 is the most viable pathway — large events companies and five-star hotel banquet departments have the capacity to sponsor. It is recommended to first enrol in an event management or hospitality management course on a student visa, build a local supplier network, and then apply for sponsorship.
+
+**Q: Which offers better career prospects in Australia — event planner or marketing manager?**
+A: Marketing managers earn slightly more ($95k–$125k vs events managers $83k–$108k) and the job market is larger; event planners have more varied work (every event is different) with additional opportunities related to major events like the Olympics. Those with a brand marketing background should choose the marketing manager path; those passionate about event execution should choose the events manager path (the two skill sets are highly complementary).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 活动策划 $75k~$80k；活动经理 $85k~$105k（2026） |
-| Indeed AU | 活动策划均值 $75,646；活动经理均值 $80,122（2026） |
-| SEEK AU | 活动协调员薪资（2026） |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 很高（★★★★☆） |
-| 发展前景 | 中高（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-活动策划师/活动经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲活动策划/活动经理工资多少？**
-答：活动策划师约 $70,000~$85,000（SEEK $75k~$80k；Indeed $75,646）；活动经理约 $83,000~$108,000（SEEK $85k~$105k；Indeed $80,122）；活动总监约 $110k~$180k。
-
-**问：澳洲活动策划师容易找工作吗？**
-答：中等难度。MICE市场全面复苏推动需求增长，SEEK 挂牌约600~2,000个职位。有大型企业活动和MICE经验的经理供不应求；布里斯班2032奥运相关岗位在未来6年内持续增加。
-
-**问：中国活动策划经验澳洲认可吗？**
-答：通过Vetassess技能评估，中国大型活动策划和MICE经验可以认可。需要提供英文项目经历证明（活动规模/预算/参与人数）。建议补充澳洲活动管理行业认可的证书（MEA会员或Diploma）。
-
-**问：活动策划师会被AI替代吗？**
-答：风险较低。AI优化供应商匹配、预算管理和活动日程自动化；但现场协调、客户关系管理和突发危机处理是AI无法替代的核心价值。向大型活动总监和MICE专家方向发展可有效规避AI风险。
-
-**问：澳洲活动策划师有年龄限制吗？**
-答：无。有丰富行业供应商网络和大型活动经验的资深活动总监（40~55岁）非常有竞争力。活动行业高度依赖人脉和经验积累，资历越深越有价值。
-
-**问：澳洲活动策划师需要什么学历？**
-答：大型活动公司和酒店宴会部通常要求活动管理或酒店管理相关学历；中小型活动公司更注重项目经验和作品集（活动案例）。PMP认证在大型项目管理类活动岗位有显著加分。
-
-**问：澳洲活动策划师认证（移民）难吗？**
-答：不在MLTSSL，移民难度中等偏高。雇主担保482是最可行路径，大型活动公司和五星酒店宴会部有担保能力。建议先通过学生签证就读活动管理或酒店管理课程，积累本地供应商网络后申请担保。
-
-**问：活动策划师和营销经理哪个澳洲发展更好？**
-答：营销经理薪资略高（$95k~$125k vs 活动经理 $83k~$108k），就业市场更大；活动策划师工作内容更多元（每个活动都不同），有奥运相关额外机会。有品牌推广背景者选营销经理；有活动执行热情的选活动经理（两者技能高度互补）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

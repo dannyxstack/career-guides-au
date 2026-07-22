@@ -1,58 +1,94 @@
-# Portfolio Manager（Portfolio Manager）职业分析 · FR
+# Portfolio Manager — career analysis · France
 
-**职业代码：C1303 – Portfolio Manager。**
+**Occupation code: C1303 (ROME)**
 
-Manages financial investment portfolios, develops investment strategies, analyzes market trends, and optimizes asset allocation to achieve client or institutional investment objectives. Requires expertise in financial instruments, risk management, and regulatory compliance.
+Responsible for managing financial investment portfolios, formulating investment strategies, analyzing market trends, and optimizing asset allocation to achieve clients' or institutional investment goals. You need to master financial instruments, risk management, and compliance requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士学位（Bac+5） | 5年 | $5,000~$20,000（公立大学约500€/年，商学院高商约10000-20000€/年） |
-| 工程师文凭（Bac+5） | 5年 | $600~$3,500（公立工程师学院约600€/年，私立约3000-3500€/年） |
+| Master's Degree (BAC+5) | 5 years | $5,000~$20,000 (Public universities about 500€/year, business schools about 10,000-20,000€/year) |
+| Engineering Diploma (BAC+5) | 5 years | $600~$3,500 (Public engineering college about €600/year, private about €3,000-3,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融市场监管认证（AMF） | Autorité des Marchés Financiers | 必备 | 从事资产管理、投资建议等受规管活动所需 |
-| CFA特许金融分析师 | CFA Institute | 可选 | 非强制但高认可度，提升就业竞争力 |
+| Financial Market Regulatory Certification (AMF) | Autorité des Marchés Financiers | Required | Required for regulated activities such as asset management and investment advice |
+| CFA Chartered Financial Analyst | CFA Institute | Optional | Non-mandatory but highly recognized to enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国金融市场持续发展，资产管理行业需求稳定。大银行和资产管理公司是主要雇主。数字化转型和可持续投资（ESG）创造新机会，但竞争激烈，市场波动可能影响就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The French financial market continues to develop, and demand in the asset management industry remains stable. Large banks and asset management firms are the main employers. Digital transformation and sustainable investment (ESG) create new opportunities, but competition is fierce and market volatility may affect employment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪，视公司和规模而定 |
-| 中级（4-8年） | $60,000~$90,000 | 包括奖金，资产管理公司高于银行 |
-| 高级（8年以上） | $120,000~$200,000 | 含业绩奖金，顶级机构更高 |
+| Median salary | $75,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$55,000 | Pre-tax annual salary depends on the company and size |
+| Mid-level (4–8 years) | $60,000~$90,000 | Including bonuses, asset management companies are higher than banks |
+| Senior (8+ years) | $120,000~$200,000 | Including performance bonuses, top-tier institutions offer even higher prices |
+| average salary | $79,569 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径：分析师 → 投资组合经理 → 高级投资组合经理/投资总监。可转向另类投资、私募股权或风险管理领域。CFA等认证和量化技能有助于晋升。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
+
+Career paths: Analyst → Portfolio Manager → Senior Portfolio Manager/Investment Director. Options can be shifted to alternative investments, private equity, or risk management. Certification and quantitative skills such as CFA help with promotion.
+
+**Tasks most exposed to AI:**
+
+- Invoice recognition and three-way matching (AI OCR automation)
+- Bank Reconciliation and Automatic Classification (RPA and AI Bookkeeping)
+- Standard tax return generation (ATO online system with AI assistance)
+- Draft initial financial reports (AI auto-generates from system)
+- Large-sample sampling in substantive audit testing (AI performs full testing).
+
+**Where AI augments the role:**
+
+- Abnormal transaction detection and fraud identification (AI flags suspicious patterns).
+- Tax planning scenario simulation (AI quickly calculates multiple scenarios)
+- Cash flow forecasting and rolling budgets (machine learning modeling)
+- Audit risk assessment (AI analyzes historical data to identify anomalies)
+- NLP-based compliance review of contract clauses
+
+**Human moat:**
+
+- Structured judgment of complex business transactions (e.g., accounting for M&A)
+- Stakeholder communication and business consulting (trust and emotional intelligence)
+- Professional judgment in accounting standards (principle-based grey areas)
+- Cross-department collaboration and process design (understanding business essence)
+- Legal liability and professional ethics (signing authority + compliance responsibility)
+
+**Skills to build:**
+
+- Data analysis and visualization (Power BI/Tableau+SQL)
+- Python/R automation scripts (for processing unstructured data)
+- AI Tool Applications (Xero AI, Audit Command Language)
+- Advanced Excel modeling (VBA/Power Query)
+- Specialised industry knowledge (e.g., Fintech, healthcare, aged care)
+- Business communication and consulting methodologies (e.g. MECE framework)
+
+**Key growth areas:**
 
 - ESG investing
 - Fintech
@@ -61,68 +97,67 @@ Manages financial investment portfolios, develops investment strategies, analyze
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如金融专家，需工作合同或项目计划，有效期4年，可携带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高学历且年薪超过53,694.75€（2024年标准）的专业人士，有效期1-4年，可转永居。 |
-| Subclass Salarié（Employee Residence Permit） | 适用于有法国雇主提供长期合同，需工作许可，年薪通常不低于SMIC。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as financial experts, who require a work contract or project plan, valid for 4 years, and can bring family members. |
+| Subclass Carte bleue UE (EU Blue Card) | For highly educated professionals with an annual salary exceeding €53,694.75 (2024 standard), valid for 1-4 years, eligible for permanent residency. |
+| Subclass Salarié (Employee Residence Permit) | Applicable to those with long-term contracts offered by French employers, requiring work permits, and annual salaries usually not lower than SMIC. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Portfolio Manager？**
-- 具有金融、经济学或数学背景，对市场分析有浓厚兴趣的人
-- 抗压能力强，能在快节奏环境中做出理性决策的人
-- 追求高薪且愿意持续学习认证（如CFA）的人
-
-**谁不适合学Portfolio Manager？**
-- 不喜欢数字分析和高压工作的人
-- 对市场波动感到焦虑、无法接受不确定风险的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with backgrounds in finance, economics, or mathematics and a strong interest in market analysis
+- People with strong stress tolerance and the ability to make rational decisions in fast-paced environments
+- People who pursue high salaries and are willing to continue learning certifications (such as CFA).
+
+**Who is not suited**
+- People who dislike digital analysis and high-pressure work
+- People who feel anxious about market volatility and cannot accept uncertain risks
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for portfolio managers in France?**
+A: Junior approx. €45,000-55,000, mid-level €60,000-90,000, senior €120,000-200,000+, with a large bonus component.
+
+**Q: How can foreigners immigrate to France through portfolio manager positions?**
+A: You can apply for Passeport Talent (with a work contract required) or an EU Blue Card (annual salary ≥€53,694.75), with the process including work permit and residence application.
+
+**Q: Is AMF certification required? How to obtain it?**
+A: If engaged in regulated activities, it is mandatory to pass the AMF exam and complete training modules.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Portfolio Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for portfolio managers in France?**
-答：Entry-level around €45,000-55,000, mid-level €60,000-90,000, senior €120,000-200,000+, with significant bonuses.
-
-**问：How can foreigners immigrate to France as a portfolio manager?**
-答：Apply for a Talent Passport (with work contract) or EU Blue Card (salary ≥€53,694.75), involving work permit and residence permit procedures.
-
-**问：Is AMF certification required? How to obtain it?**
-答：Mandatory for regulated activities; obtain by passing the AMF exam and completing training modules.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

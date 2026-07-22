@@ -1,59 +1,95 @@
-# Chartered architectural technologists, planning officers and consultants（Chartered architectural technologists, planning officers and consultants）职业分析 · UK
+# Chartered architectural technologists, planning officers and consultants — career analysis · United Kingdom
 
-**职业代码：2452 – Chartered architectural technologists, planning officers and consultants。**
+**Occupation code: 2452 (SOC)**
 
-Direct or undertake planning of urban/rural layout, coordinate development plans, provide architectural design services, and manage construction projects from conception to completion.
+Responsible for urban and rural development layout planning, architectural design service coordination, managing building projects from concept to completion, and providing technical solutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $9,250~$12,000（英格兰本科年学费上限） |
-| 硕士 | 1年 | $10,000~$15,000（一年制硕士学费） |
+| Bachelor's degree | 3-4 years | $9,250~$12,000 (England undergraduate annual tuition fee cap) |
+| Master's degree | 1 year | $10,000~$15,000 (Tuition fees for one-year master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许建筑技术专家资格 (MCIAT) | CIAT | 可选 | 需通过专业评估和面试 |
-| 皇家城市规划学会会员 (MRTPI) | RTPI | 可选 | 规划类职位必备 |
-| 建筑学或规划相关学位 | 认证大学 | 必备 | RTPI/CIAT认可课程 |
+| Degree in architecture or planning-related field | Accredited university | Required | RTPI/CIAT accredited course |
+| Chartered Architectural Technologist (MCIAT) | CIAT | Optional | Must pass professional assessment and interview. |
+| Royal Town Planning Institute Member (MRTPI) | RTPI | Optional | Essential for Planning Positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 18,500。英国住房短缺和基础设施投资推动需求，预计就业增长稳定，尤其在可持续设计和数字建造领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 18,500. Housing shortage and infrastructure investment in the UK drive demand, with stable employment growth expected, especially in sustainable design and digital construction.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 助理规划师/技术员 |
-| 中级（3-7年） | $30,000~$42,000 | 规划官员/技术专家 |
-| 高级（8年以上） | $42,000~$55,000 | 首席技术专家/规划经理 |
+| Median salary | $36,457 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Assistant planner/technician. |
+| Mid-level (3–7 years) | $30,000~$42,000 | Planning Officer/Technical Expert |
+| Senior (8+ years) | $42,000~$55,000 | Chief technical expert/planning manager |
+| average salary | $44,122 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理规划师/技术员晋升为高级规划官/首席技术专家，或转向项目管理、城市规划领导岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
+
+Can progress from assistant planner/technician to senior planning officer/chief technical expert, or transition to project management, urban planning leadership roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary land use analysis report
+- Performing standardized traffic flow simulations.
+- Batch process geospatial data and create basic maps
+- Compile routine regulatory compliance checklists
+- Automatically generate meeting minutes and preliminary public opinion summaries
+
+**Where AI augments the role:**
+
+- Use AI to simulate multiple planning scenarios and assess environmental impacts.
+- Analyzing public opinion and extracting key demands using natural language processing
+- Predict urban growth trends and infrastructure needs based on machine learning
+- Automatically identify land use changes in satellite imagery
+- Optimize transport network design to reduce commute time and carbon emissions
+
+**Human moat:**
+
+- Political judgment and negotiation skills to balance multiple stakeholders' interests
+- Handling conflicting public opinions and reaching consensus
+- Deep understanding and intuition of local socioeconomic context
+- planning decisions bearing legal and ethical responsibilities
+- Creative ability to design unique community spaces
+
+**Skills to build:**
+
+- Master advanced GIS analysis and automation (ArcPy, QGIS)
+- Learn machine learning fundamentals and urban analysis applications (Scikit-learn, TensorFlow)
+- Improve data visualization and communication skills (Tableau, D3.js)
+- Keep up with updates to urban planning related laws and regulations
+- Develops public participation and conflict mediation skills
+- Learn sustainable infrastructure design principles
+
+**Key growth areas:**
 
 - Sustainable design
 - Digital construction (BIM)
@@ -62,65 +98,64 @@ Direct or undertake planning of urban/rural layout, coordinate development plans
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合技术工人签证要求，需雇主担保，年薪至少£26,200或行业标准 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可申请2年留英工作 |
-| Subclass Scale-up（Scale-up Visa） | 适合高增长企业担保，需年薪£33,000以上 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Meets Skilled Worker visa requirements, requires employer sponsorship, annual salary of at least £26,200 or industry standard |
+| Subclass Graduate (Graduate Visa) | UK graduates can apply for a 2-year work visa to stay in the UK |
+| Subclass Scale-up (Scale-up Visa) | Suitable for high-growth company sponsorship, requires annual salary above £33,000 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chartered architectural technologists, planning officers and consultants？**
-- 对城市规划和建筑设计有浓厚兴趣
-- 注重细节，具备良好沟通协调能力
-- 愿意持续学习新技术和政策
-
-**谁不适合学Chartered architectural technologists, planning officers and consultants？**
-- 不喜欢团队协作和多方沟通
-- 无法适应政策法规频繁变化
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in urban planning and architectural design
+- Detail-oriented, with strong communication and coordination skills
+- Willingness to continuously learn new technologies and policies
+
+**Who is not suited**
+- Dislikes teamwork and multi-party communication
+- Unable to adapt to frequent policy and regulation changes
+
+---
+
+## 8. FAQ
+
+**Q: Does the salary for this occupation in London differ significantly from other parts of the UK?**
+A: Salaries in London are typically 10-15% higher, but the cost of living is also higher. Entry-level roles in London start at around £28,000.
+
+**Q: Is it easy for overseas applicants to obtain a Skilled Worker visa sponsorship?**
+A: This occupation is on the sponsorship list, but employer sponsorship is required to prove the position cannot be filled by the local labour force. Shortage level is moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Chartered architectural technologists, planning officers and consultants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is there a big salary difference between London and other UK regions?**
-答：London salaries are typically 10-15% higher, but cost of living is also higher. Entry-level in London starts around £28,000.
-
-**问：Is it easy for overseas applicants to get Skilled Worker visa sponsorship?**
-答：The occupation is eligible for sponsorship, but employers must demonstrate the role cannot be filled locally. Not on the shortage list.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

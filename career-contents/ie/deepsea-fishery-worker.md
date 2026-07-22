@@ -1,58 +1,94 @@
-# Deep-sea Fishery Worker（Deep-sea Fishery Worker）职业分析 · IE
+# Deep-sea Fishery Worker — career analysis · Ireland
 
-**职业代码：6223 – Deep-sea Fishery Worker。**
+**Occupation code: 6223 (ISCO08)**
 
-Deep-sea fishery workers engage in commercial fishing operations off the Irish coast, handling nets, processing catches, and maintaining vessels. The work is seasonal, physically demanding, and subject to harsh weather conditions.
+Deep-sea fishery workers engage in commercial fishing operations along the Irish coast, including operating fishing nets, handling catches, and maintaining vessels. This occupation is often subject to seasonal and weather conditions, with a harsh and risky working environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无正式学历要求 | —（通常通过在职培训入门） |
-| 职业培训证书 | 6个月至1年 | $2,000~$5,000（如海事培训课程） |
+| High school graduation | No formal education requirements | $0~$0 (Typically entry through on-the-job training) |
+| Vocational training certificate | 6 months to 1 year | $2,000~$5,000 (Such as maritime training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基本海员安全培训 | 爱尔兰海事局 | 必备 | 必须持有STCW基础安全证书 |
-| 渔船甲板工证书 | Bord Iascaigh Mhara (BIM) | 可选 | 适用于特定渔区作业 |
+| Basic seafarer safety training | Irish Maritime Administration | Required | Must hold a STCW Basic Safety Certificate |
+| Fishing vessel deckhand certificate | Bord Iascaigh Mhara (BIM) | Optional | Applicable to specific fishing zones |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰深海渔业面临资源减少和配额限制，就业机会有限。预计未来十年从业人数将缓慢下降，但本地熟练工人仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. Ireland's deep-sea fisheries face resource depletion and quota restrictions, with limited job opportunities. The workforce is expected to decline slowly over the next decade, but local skilled workers are still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：很高（★★★★½）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 取决于渔获量和船只规模 |
-| 中级（3-7年） | $35,000~$50,000 | 含提成 |
-| 高级（7年以上） | $50,000~$70,000 | 通常为船长或主管 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Depends on catch volume and vessel size |
+| Mid-level (3–7 years) | $35,000~$50,000 | Including commission |
+| Senior (7+ years) | $50,000~$70,000 | Typically captain or supervisor |
+| average salary | $44,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 从业者可从甲板工人晋升为渔船长或渔获加工主管，需积累海量经验并通过相关海事证书考核。部分人转向水产养殖或渔业管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
+
+Workers can progress from deckhand to fishing vessel master or catch processing supervisor, accumulating extensive experience and passing relevant maritime certification exams. Some transition to aquaculture or fisheries management.
+
+**Tasks most exposed to AI:**
+
+- Manual operation using fishing nets, traps, etc.
+- Assist with repetitive tasks such as hauling nets and handling catches on a fishing vessel
+- Monitor fish migration activities by visual observation or simple instruments
+- Manual data recording of catch species, quantity, and size
+- Routine tasks in aquaculture farms such as feeding and cleaning
+
+**Where AI augments the role:**
+
+- Uses AI to predict fish migration paths and densities, optimizing fishing locations and times
+- Remotely monitor fish farms and equipment using drones or underwater robots
+- Optimize fish processing through data analysis and machine learning to reduce waste
+- Improve catch grading and packaging efficiency with automated sorting systems.
+- Using AI for resource sustainability assessment and compliance report generation.
+
+**Human moat:**
+
+- Handle emergencies in adverse weather or breakdowns (e.g., equipment repair, rescue)
+- Intuitive judgment and response to complex marine environments (e.g., tides, reefs)
+- Perform fine manual operations, such as live capture to avoid injury
+- Decision-making responsibility for complying with environmental regulations, such as releasing protected species.
+- Communication and collaboration with fishing communities and regulatory agencies
+
+**Skills to build:**
+
+- Unmanned vessel/underwater robot operation and maintenance
+- Fisheries IoT and sensor data analysis
+- Use of AI-assisted decision-making systems (e.g., fish school prediction software)
+- Basic programming and automation equipment debugging
+- Knowledge of environmental regulations and sustainable fisheries certification.
+- Multi-skilled (e.g., mechanical repair + data analysis)
+
+**Key growth areas:**
 
 - Sustainable Fishing
 - Aquaculture Transition
@@ -61,64 +97,63 @@ Deep-sea fishery workers engage in commercial fishing operations off the Irish c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，薪资需符合最低门槛。 |
-| Subclass Seasonal Employment （Seasonal Employment Permit） | 允许短期（最多9个月）在渔业季节工作，适用于非EEA工人。 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟/EEA公民可自由在爱尔兰从事该职业，无需工作许可。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, salary must meet minimum threshold. |
+| Subclass Seasonal Employment  (Seasonal Employment Permit) | Allows short-term (up to 9 months) work in the fishing season, applicable to non-EEA workers. |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can freely work in this occupation in Ireland without a work permit. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Deep-sea Fishery Worker？**
-- 适应海上艰苦环境者
-- 愿意从事体力劳动、不怕风浪者
-
-**谁不适合学Deep-sea Fishery Worker？**
-- 易晕船或身体欠佳者
-- 追求稳定陆上生活者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those adaptable to harsh maritime conditions
+- Willing to do physical labor, not afraid of rough seas
+
+**Who is not suited**
+- Those prone to seasickness or in poor health
+- Those seeking stable onshore life
+
+---
+
+## 8. FAQ
+
+**Q: Is the income of deep-sea fishery workers stable?**
+A: Income fluctuates significantly, mainly depending on catch volume and market prices. Entry-level workers earn about €25,000-35,000 per year.
+
+**Q: How Non-EEA Citizens Can Get an Irish Fisheries Work Visa?**
+A: Available through general employment permit or seasonal employment permit, requiring employer sponsorship and meeting salary and skill requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 很高（★★★★½） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Deep-sea Fishery Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income stable for deep-sea fishery workers?**
-答：Income is variable, depending on catch volume and market prices. Entry-level workers earn around €25,000-€35,000 annually.
-
-**问：How can non-EEA citizens obtain a work visa for fisheries in Ireland?**
-答：They can apply for a General Employment Permit or Seasonal Employment Permit with employer sponsorship, meeting salary and skill requirements.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

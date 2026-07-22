@@ -1,65 +1,96 @@
-# 零售销售员（Sales Assistant (General)）职业分析 · 澳大利亚
+# Sales Assistant (General) — career analysis · Australia
 
-**职业代码：621111 – Sales Assistant (General)。**
+**Occupation code: 621111 (ANZSCO)**
 
-零售销售员在商店、超市和专卖店为顾客提供商品介绍、销售和结账服务，是澳洲就业人数最多的职业之一。门槛低、入职快，多为时薪制，适合学生、新移民和兼职人群作为过渡或长期工作。
+Retail sales assistants provide product information, sales, and checkout services in stores, supermarkets, and specialty shops. It is one of the most common occupations in Australia by employment volume — with a low entry barrier, fast hiring, and typically hourly pay, making it suitable for students, new migrants, and part-time workers as a transitional or long-term role.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无强制学历（在职培训） | 即时~数周 | —（雇主提供在岗培训） |
-| Certificate II/III in Retail Services（可选） | 3~12个月 | —（TAFE，部分州补贴） |
+| No mandatory qualification (on-the-job training) | Immediate to a few weeks | $0~$0 (Employer-provided on-the-job training) |
+| Certificate II/III in Retail Services (optional) | 3–12 months | $0~$3,000 (TAFE, partially subsidised in some states) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Retail (SIR30216) | TAFE / RTO | 可选 | 非强制，利于晋升 |
-| RSA（售酒场所需要） | 各州主管部门 | 可选 | 在售酒零售点为强制 |
+| Certificate III in Retail (SIR30216) | TAFE / RTO | Optional | Not mandatory, but beneficial for career advancement |
+| RSA (required for licensed venues) | State regulatory authorities | Optional | Mandatory at licensed liquor retail outlets |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 680,000。澳洲零售业整体就业稳定但增长平缓，电商和自助结账对基础岗位有一定挤压；同时全渠道零售、客户体验和视觉营销方向出现更高附加值的岗位。
+**Job demand: very high (★★★★★).** National workforce approx. 680,000. Overall employment in Australian retail is stable but growing slowly; e-commerce and self-checkout are displacing some entry-level roles, while omnichannel retail, customer experience, and visual merchandising are creating higher-value positions.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 8,000~14,000 个 | 全国，含兼职/casual |
-| Indeed | 6,000~11,000 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门（casual/兼职） | $45,000~$55,000 | 时薪约$25~$30含casual补贴 |
-| 全职（1~3年） | $55,000~$62,000 | Retail Award 全职 |
-| 资深 / 专卖店 | $62,000~$72,000 | 资深或高价值品类销售 |
+| Median salary | $64,532 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level (casual/part-time) | $45,000~$55,000 | Hourly rate approximately $25–$30 including casual loading |
+| Full-time (1–3 years) | $55,000~$62,000 | Retail Award full-time |
+| Senior / Specialist Retailer | $62,000~$72,000 | Senior or high-value category sales |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 时薪受 Retail Award 与最低工资保护，周末和公共假期有加班费（penalty rates）。晋升路径为资深销售→主管→店长。具备客户服务、库存和 POS 系统经验者更易转向零售管理。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+Hourly rates are protected by the Retail Award and minimum wage provisions, with penalty rates applying on weekends and public holidays. The career progression path is senior sales → supervisor → store manager. Those with customer service, inventory and POS system experience have an advantage when transitioning into retail management.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - Omnichannel & Click-and-Collect Retail
 - Customer Experience Specialist
@@ -68,62 +99,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学零售销售员？**
-- 喜欢与人打交道、服务意识强的人
-- 学生、兼职及希望灵活排班者
-- 想进入零售管理路径的入门者
-
-**谁不适合学零售销售员？**
-- 以技术移民为主要目标者
-- 不愿久站或不适应周末轮班者
-- 追求高起薪的求职者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with others and have a strong service orientation
+- Students, part-time workers and those seeking flexible scheduling
+- Entry-level candidates looking to enter a retail management pathway
+
+**Who is not suited**
+- Targeting skilled migration
+- Those unwilling to stand for long periods or unable to adapt to weekend shift work
+- Job seekers aiming for a high starting salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a retail sales assistant in Australia?**
+A: Casual hourly rate approx. AUD $25–$30 (including allowances); full-time annual salary approx. $55,000–$62,000; experienced staff or those in specialty stores can reach $70,000+. Penalty rates apply on weekends and public holidays.
+
+**Q: Can retail sales assistants migrate to Australia through skilled migration?**
+A: No. Retail sales assistants are not on Australia's skilled migration occupation list and are classified as a non-skilled migration occupation. If migration is your goal, consider related occupations that appear on the list.
+
+**Q: Is it easy to find work as a retail sales assistant in Australia?**
+A: Very easy to find – it's one of the largest occupations nationally, with thousands of positions on Seek year-round, especially casual and part-time opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 6211 销售员就业与人数 |
-| Seek AU | 薪资与岗位量 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-零售销售员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲零售销售员工资多少？**
-答：casual时薪约AUD $25~$30（含补贴），全职年薪约$5.5万~$6.2万，资深或专卖店可达$7万+。周末和公共假期有penalty rates。
-
-**问：零售销售员能技术移民吗？**
-答：不能。零售销售员不在澳洲技术移民职业清单上，属于非技术移民职业；如以移民为目标，建议考虑清单上的相关职业。
-
-**问：澳洲零售销售员好找工作吗？**
-答：非常好找，是全国岗位量最大的职业之一，Seek常年有上万个职位，casual和兼职机会尤其多。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Geologists and Geophysicists（Geologists and Geophysicists）职业分析 · IE
+# Geologists and Geophysicists — career analysis · Ireland
 
-**职业代码：2114 – Geologists and Geophysicists。**
+**Occupation code: 2114 (ISCO08)**
 
-In Ireland, geologists and geophysicists work primarily in mineral, energy (including renewables) exploration, and environmental assessment. The role demands high technical skills, with fieldwork and laboratory settings.
+In Ireland, geologists and geophysicists primarily work in mineral, energy (including renewable energy) exploration, and environmental assessment. The profession requires high technical skills and involves fieldwork and lab work.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（欧盟学生学费约10,000-15,000欧元/年，非欧盟更高） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（硕士学费约12,000-20,000欧元/年，部分专业有奖学金） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (EU student tuition approximately €10,000-15,000/year, higher for non-EU) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (Master's tuition fees are approximately €12,000-20,000 per year, with scholarships available for some programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 地质学/地球物理学学位 | 爱尔兰高等教育机构 | 必备 | 需获得认可的地质科学学位，通常为4年制本科 |
-| 专业认证（可能） | 国际或爱尔兰专业机构 | 可选 | 部分雇主偏爱或要求持有特许地质学家（CGeol）认证 |
-| 安全培训 | 雇主或指定培训机构 | 可选 | 涉及野外作业需完成安全培训课程 |
+| Geology/Geophysics degree | Irish higher education institutions | Required | Require a recognized geoscience degree, typically a 4-year undergraduate program. |
+| Professional certification (possible) | International or Irish professional bodies | Optional | Some employers prefer or require Chartered Geologist (CGeol) certification |
+| Safety training | Employer or designated training provider | Optional | Fieldwork may require completing safety training courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。受全球能源转型和爱尔兰近海风能开发推动，地质学家和地球物理学家需求持续增长。矿业活动和环境咨询项目为国内提供稳定就业机会，预计未来几年岗位年增长约5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. Driven by the global energy transition and Ireland's offshore wind development, demand for geologists and geophysicists continues to grow. Mining activities and environmental consulting projects provide stable domestic employment opportunities, with job growth expected at about 5-10% per year in the coming years.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 初级地质学家年薪约32,000-40,000欧元 |
-| 中级（3-7年） | $45,000~$60,000 | 有经验的地质学家年薪45,000-60,000欧元 |
-| 高级（7年以上） | $65,000~$90,000 | 高级或首席地质学家年薪65,000-90,000欧元，项目经理可达更高 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Entry-level geologist annual salary approximately €32,000-€40,000 |
+| Mid-level (3–7 years) | $45,000~$60,000 | Experienced geologist annual salary EUR 45,000-60,000 |
+| Senior (7+ years) | $65,000~$90,000 | Senior or chief geologist: annual salary €65,000–90,000; project managers can earn higher. |
+| average salary | $55,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从初级野外地质学家起步，积累经验后晋升为项目地质学家或高级专家，最终可担任首席地质学家、勘探经理或技术总监。跨学科技能（如数据科学）有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Career paths typically start from junior field geologist, progressing to project geologist or senior specialist after gaining experience, and eventually to chief geologist, exploration manager, or technical director. Cross-disciplinary skills (e.g., data science) aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Offshore Wind
 - Minerals Exploration
@@ -62,68 +95,67 @@ In Ireland, geologists and geophysicists work primarily in mineral, energy (incl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对紧缺技能，职业在关键技能职业列表中，年薪门槛约32,000欧元，可带家属，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于不在关键技能列表中的职位，但需劳动力市场测试，年薪门槛约30,000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛高于全国平均工资的1.5倍（约45,000欧元），可快速获永居 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For in-demand skills, occupations on the critical skills occupation list, annual salary threshold around €32,000, can bring family, eligible for permanent residence after 2 years |
+| Subclass General Employment P (General Employment Permit) | For positions not on the Critical Skills List, but with Labour Market Testing required, annual salary threshold approximately €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary threshold 1.5 times national average wage (approx. €45,000), fast-track to permanent residency |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geologists and Geophysicists？**
-- 喜欢户外工作和实地考察的人
-- 对地球科学有强烈兴趣且具备分析能力的人
-- 愿意在偏远地区工作并能适应不定时工作的人
-
-**谁不适合学Geologists and Geophysicists？**
-- 偏好稳定室内办公环境的人
-- 对物理/化学知识掌握不扎实的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and field investigation
+- Individuals with a strong interest in earth sciences and analytical skills
+- Willingness to work in remote areas and adapt to irregular hours.
+
+**Who is not suited**
+- Individuals who prefer a stable indoor office environment
+- People who do not have a solid grasp of physics/chemistry knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geologists?**
+A: Entry-level geologists earn approximately €32,000-40,000 per year, mid-level €45,000-60,000, and senior €65,000-90,000. Project management and consulting roles are higher.
+
+**Q: How can foreign geologists immigrate to Ireland?**
+A: If the position is on the Critical Skills Occupation List, you can apply for a Critical Skills Employment Permit, with an annual salary threshold of approximately €32,000, and can transition to permanent residency after 2 years. Otherwise, a General Employment Permit is required.
+
+**Q: Are geologists a shortage occupation in Ireland?**
+A: Yes, geologists and geophysicists are included on Ireland's Critical Skills Occupation List, indicating a shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Geologists and Geophysicists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geologists?**
-答：Entry-level geologists earn about €32,000-€40,000, mid-level €45,000-€60,000, senior €65,000-€90,000. Project management and consulting roles are higher.
-
-**问：How can foreign geologists migrate to Ireland?**
-答：If the occupation is on the Critical Skills list, apply for a Critical Skills Employment Permit (salary threshold ~€32,000), leading to permanent residency after 2 years. Otherwise, a General Employment Permit is needed.
-
-**问：Is geologist a shortage occupation in Ireland?**
-答：Yes, geologists and geophysicists are on Ireland's Critical Skills Occupations List, indicating a shortage.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,93 @@
-# Aircraft Pilot（Aircraft Pilot）职业分析 · NL
+# Aircraft Pilot — career analysis · Netherlands
 
-**职业代码：3153 – Aircraft Pilot。**
+**Occupation code: 3153 (ISCO08)**
 
-Operate aircraft to transport passengers or cargo, ensuring safety and punctuality. Typically employed by airlines, freight companies, or private operators.
+Fly aircraft to transport passengers or cargo, ensuring flight safety and punctuality. Typically employed by airlines, cargo companies, or private operators.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 航空运输飞行员执照（ATPL）理论 | 18-24个月 | $80,000~$120,000（含飞行训练及执照考试） |
-| 大学航空管理学士 | 4年（本科） | $40,000~$60,000（荷兰学费约€10,000-15,000/年） |
+| Airline Transport Pilot License (ATPL) theory | 18-24 months | $80,000~$120,000 (Includes flight training and license exams.) |
+| Bachelor of Aviation Management | 4 years (bachelor's degree) | $40,000~$60,000 (Tuition in the Netherlands is approximately €10,000–15,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航线运输驾驶员执照（ATPL） | 荷兰民航局（ILT） | 必备 | 需通过理论、模拟机及飞行考试 |
-| Class 1 体检合格证 | 航空医师 | 必备 | 每年更新 |
-| 机型型别等级 | 航空公司或训练中心 | 可选 | 如B737、A320等 |
+| Airline Transport Pilot License (ATPL) | Netherlands Ministry of Infrastructure and Water Management (ILT) | Required | Must pass theory, simulator, and flight exams |
+| Class 1 Medical Examination Certificate | Aviation Medical Officer | Required | Updated annually |
+| Aircraft type rating | Airline or training center | Optional | e.g., B737, A320 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。荷兰航空业稳步增长，飞行员需求稳定，尤其是机长和远程航线。受退休潮影响，未来十年招聘活跃。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. The Dutch aviation industry is steadily growing, with stable demand for pilots, especially captains and long-haul routes. Affected by the retirement wave, recruitment will be active in the next decade.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（副驾驶，0-3年） | $40,000~$60,000 | 根据航空公司规模不同 |
-| 中级（副驾驶/机长，4-9年） | $70,000~$110,000 | 包括飞行小时补贴 |
-| 高级（机长，10年以上） | $120,000~$200,000 | 长途及高级机长可达更高 |
+| Median salary | $90,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (Co-pilot, 0-3 years) | $40,000~$60,000 | Depending on the size of the airline |
+| Intermediate (Co-Pilot/Captain, 4-9 years) | $70,000~$110,000 | Includes flight hour subsidies |
+| Senior (Captain, over 10 years) | $120,000~$200,000 | Long-haul and senior captains can earn more. |
+| average salary | $100,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业路径：副驾驶→机长→机长教员或管理岗位。部分飞行员转向航空管理或飞行训练。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Career path: First Officer → Captain → Captain Instructor or management role. Some pilots transition to aviation management or flight training.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Retirement wave
 - Airline expansion
@@ -62,68 +96,67 @@ Operate aircraft to transport passengers or cargo, ensuring safety and punctuali
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于获得有认可担保人聘用的飞行员，需满足工资门槛（2025年约€5,008/月）。可携带家属。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能飞行员，需合同至少1年且薪资达荷兰平均工资1.5倍（约€6,000/月）。 |
-| Subclass Single Permit（Single Permit (GVVA)） | 适用于所有工作类型，由雇主担保，可同时工作居留。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to pilots with a recognized sponsor job offer, must meet salary threshold (2025: approx. €5,008/month). Can bring family. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled pilots, requiring a contract of at least 1 year and a salary of 1.5 times the Dutch average wage (approximately €6,000/month). |
+| Subclass Single Permit (Single Permit (GVVA)) | Applicable to all job types, employer-sponsored, allows simultaneous work and residence. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft Pilot？**
-- 热爱飞行、能承受高压
-- 纪律性强、善于团队协作
-- 愿意接受不规律作息和频繁出差
-
-**谁不适合学Aircraft Pilot？**
-- 恐高或易晕机
-- 无法接受长时间离家
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about flying, able to handle high pressure
+- Highly disciplined and good at teamwork.
+- Willing to accept irregular schedules and frequent travel
+
+**Who is not suited**
+- Fear of heights or prone to motion sickness
+- Unable to accept long periods away from home
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for pilots in the Netherlands?**
+A: Junior co-pilot salary approximately €40,000-60,000 per year, senior captain can reach €200,000. Salary is affected by airline, aircraft type, and route.
+
+**Q: How can non-EU pilots work in the Netherlands?**
+A: Accessible via the highly skilled migrant (kennismigrant) or EU Blue Card route, requiring employer sponsorship and meeting the salary threshold. The ATPL license must be converted to a Dutch-recognized EASA license.
+
+**Q: How long does it take to become a pilot?**
+A: Self-funded training takes about 18–24 months full-time to obtain a commercial license; advancing from co-pilot to captain usually takes 5–10 years.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Aircraft Pilot的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pilots in the Netherlands?**
-答：Junior first officers earn around €40,000-60,000 annually, while senior captains can reach €200,000. Salary depends on airline, aircraft type, and routes.
-
-**问：How can non-EU pilots work in the Netherlands?**
-答：Via the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. ATPL must be converted to an EASA license recognized in the Netherlands.
-
-**问：How long does it take to become a pilot?**
-答：Full-time self-funded training takes 18-24 months for a commercial license; advancing from first officer to captain typically takes 5-10 years.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

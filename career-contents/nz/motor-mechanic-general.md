@@ -1,59 +1,94 @@
-# Motor Mechanic (General)（Motor Mechanic (General)）职业分析 · 新西兰
+# Motor Mechanic (General) — career analysis · New Zealand
 
-**职业代码：321211 – Motor Mechanic (General)。**
+**Occupation code: 321211 (ANZSCO)**
 
-Motor Mechanics in New Zealand diagnose, repair, and maintain motor vehicles, with skills in EVs and hybrids. Listed on the Green List (Tier 2), eligible for residence after 2 years' work; high migration feasibility.
+Automotive technicians in New Zealand diagnose, repair, and maintain motor vehicles, especially skilled in fuel and electric vehicle repairs. This occupation is on the Green List (Tier 2); after two years of work, can apply for residency, and it's in long-term shortage, making immigration highly feasible.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制/预科培训 | 1年 | $3,000~$8,000（新西兰汽车贸易协会（MTA）认可的预科课程） |
-| 证书课程（Level 4） | 2年 | $12,000~$25,000（理工学院或私立机构，如Unitec的National Certificate in Automotive Engineering） |
+| Apprenticeship/pre-vocational training | 1 year | $3,000~$8,000 (Pre-foundation course accredited by the Motor Trade Association (MTA) of New Zealand) |
+| Certificate course (Level 4) | 2 years | $12,000~$25,000 (Polytechnic or private institutions, such as Unitec's National Certificate in Automotive Engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰汽车贸易协会（MTA）认证 | MTA | 可选 | 雇主通常要求，证明技能达标 |
-| National Certificate in Automotive Engineering (Level 4) | NZQA认可机构 | 必备 | 核心资格，许多雇主强制要求 |
-| 电工/混动认证 | e.g., MTA | 可选 | 维修电动车必备，非强制但强烈建议 |
+| National Certificate in Automotive Engineering (Level 4) | NZQA-recognised institution | Required | Core qualification, mandatory for many employers |
+| New Zealand Motor Trade Association (MTA) certification | MTA | Optional | Employers typically require proof of skill attainment |
+| Electrician/hybrid certification | e.g., MTA | Optional | Essential for repairing electric vehicles, not mandatory but strongly recommended. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。新西兰汽车保有量高，电动车普及加速，但合格技工短缺，尤其是处理高压电气系统的人才。预计未来五年需求持续增长，就业率高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. High car ownership in New Zealand, accelerating EV adoption, but shortage of qualified technicians, especially those handling high-voltage electrical systems. Demand expected to continue growing over the next five years, with above-average employment rates.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 见习或学徒期，通常25-28纽币/小时 |
-| 中级（3-7年） | $55,000~$75,000 | 独立维修，28-38纽币/小时 |
-| 高级（7年+） | $75,000~$95,000 | 含主管或专家级，时薪38-45纽币，可能更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Trainee or apprenticeship period, usually NZD 25-28 per hour |
+| Mid-level (3–7 years) | $55,000~$75,000 | Independent maintenance, NZ$28-38 per hour |
+| Senior (7+ years) | $75,000~$95,000 | Includes supervisor or specialist level, hourly wage NZ$38-45, possibly higher |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级技工可升至高级技师或车间主管，获得WOF授权后独立经营。电车认证（如EV Certificate）可提升竞争力，薪资涨幅显著。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Auto mechanics face mixed impact from automation: diagnostics enhanced by AI, but routine maintenance and documentation may be reduced; EV transition creates new demand but requires learning new skills like high-voltage, otherwise risk of replacement.
+
+Junior technicians can advance to senior technicians or workshop supervisors, and operate independently after obtaining WOF authorization. EV certification (e.g., EV Certificate) boosts competitiveness and salary growth.
+
+**Tasks most exposed to AI:**
+
+- Routine maintenance (e.g., oil and filter changes) replaced by automated equipment or mobile services
+- Standard diagnostic procedure (read OBD-II fault codes and use AI recommendations)
+- Parts inventory management and ordering (AI prediction system)
+- Customer communication and repair report generation (AI chatbots and text generation)
+
+**Where AI augments the role:**
+
+- Complex fault diagnosis (AI analyzes sensor data and provides troubleshooting paths)
+- EV/hybrid system repair (AI-assisted battery testing and thermal management)
+- Remote diagnostics and predictive maintenance (AI analysis of vehicle data)
+- Maintenance training and knowledge retrieval (AR + AI real-time guidance)
+- Client explanation and quotation (AI-generated visual reports assist explanation)
+
+**Human moat:**
+
+- Non-standard physical repairs (e.g., welding, sheet metal repair, complex mechanical disassembly and assembly)
+- On-site diagnosis and test runs (sensory judgment of vibration, noise and other non-data issues)
+- High-voltage electrical system safety operation and certification (regulatory requirements)
+- Build trust with clients and communicate complex repair solutions
+- Unique techniques and experience for handling older vehicle models
+
+**Skills to build:**
+
+- High-voltage electrical safety and EV/hybrid system certifications (e.g., EVT in Australia)
+- ADAS calibration and sensor alignment technology
+- Use of digital diagnostic tools and data analytics software
+- Knowledge of new energy vehicle thermal management systems
+- IoT and IoV (Internet of Vehicles) fundamentals and applications.
+- Basic programming and script automation (e.g. Python)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Motor Mechanics in New Zealand diagnose, repair, and maintain motor vehicles, wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence - Green List） | 从事汽车技工工作满2年，时薪至少29.66纽币（2024年标准），可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制，如学历+工作经验，且时薪达标。但绿色清单路径更直接 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主认证，时薪达标，最长3年，可续签 |
+| Subclass Green List T2 (Work to Residence - Green List) | Work as a motor mechanic for 2 years, earning at least NZ$29.66 per hour (2024 rate), eligible to apply for residence |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system, e.g., qualification + work experience, and hourly wage meets requirements. But the Green List path is more direct. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer sponsorship, hourly wage threshold met, maximum 3 years, renewable |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motor Mechanic (General)？**
-- 动手能力强，喜欢机械修理的人
-- 愿意持续学习电动汽车技术的人
-- 追求稳定就业和长期移民机会的人
-
-**谁不适合学Motor Mechanic (General)？**
-- 厌恶油污、体力强度高的工作环境的人
-- 不打算长期从事技术工作，仅想快速移民的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and a liking for mechanical repair
+- People willing to continuously learn about electric vehicle technology
+- Those seeking stable employment and long-term immigration opportunities.
+
+**Who is not suited**
+- Those who dislike greasy, physically demanding work environments
+- People who do not intend to work long-term in technical roles and only want to immigrate quickly
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for an automotive mechanic in New Zealand?**
+A: According to Career NZ, median annual salary is approximately NZD 65,000; entry-level around NZD 45,000, senior up to NZD 95,000+. Hourly rate typically NZD 25-45.
+
+**Q: How can auto mechanics immigrate to New Zealand through the Green List?**
+A: You must obtain a job offer from an accredited employer, with an hourly wage no less than NZD $29.66 (2024 rate), and after working for 2 years, you can apply for WTR residence. No need to enter the EOI pool.
+
+**Q: How are overseas qualifications assessed? Is an English test required?**
+A: The Motor Trade Association (MTA) New Zealand can assess overseas qualifications. IELTS overall 6.0 is typically required (immigration visa requires 6.5). Some employers may require additional tests.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Motor Mechanic (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a motor mechanic in NZ?**
-答：According to Careers NZ, median annual salary is around NZD 65,000; entry-level about NZD 45,000, experienced up to NZD 95,000+. Hourly rate NZD 25-45.
-
-**问：How can a motor mechanic migrate to NZ via the Green List?**
-答：You need a job offer from an accredited employer with a wage at least NZD 29.66/hr (2024). After 2 years, you can apply for Work to Residence. No EOI pool needed.
-
-**问：How are overseas qualifications recognized? Is an English test needed?**
-答：MTA can assess overseas qualifications. IELTS 6.0 generally required; for residence visa, 6.5. Some employers may require additional tests.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

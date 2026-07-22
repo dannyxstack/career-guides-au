@@ -1,60 +1,93 @@
-# Store shelf stockers, clerks and order fillers（Store shelf stockers, clerks and order fillers）职业分析 · 加拿大
+# Store shelf stockers, clerks and order fillers — career analysis · Canada
 
-**职业代码：65102 – Store shelf stockers, clerks and order fillers。**
+**Occupation code: 65102 (NOC)**
 
-Responsible for restocking shelves, organizing merchandise, filling orders, and assisting customers in retail stores and warehouses to ensure inventory availability and store tidiness.
+Responsible for restocking shelves, arranging displays, processing orders, and assisting customers in locating products in retail stores, warehouses, etc., ensuring sufficient inventory and store tidiness.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立中学免费） |
-| 短期职业培训 | 3-6个月 | $1,000~$5,000（零售或仓库管理课程） |
+| High school diploma | 4 years | $0~$0 (Free public secondary school) |
+| Short-term vocational training | 3-6 months | $1,000~$5,000 (Retail or warehouse management course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省级教育部 | 必备 | 基本学历要求 |
-| 急救证书 | 红十字会等 | 可选 | 部分雇主要求 |
+| High school diploma | Provincial Department of Education | Required | Basic education requirements |
+| First aid certificate | Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 250,000。加拿大零售业持续发展，电子商务增长带动仓储与补货需求，但该职位易受自动化影响，就业机会总体稳定，部分地区存在季节性波动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 250,000. The Canadian retail sector continues to develop, with e-commerce growth driving demand for warehousing and restocking, but this role is susceptible to automation. Employment opportunities are generally stable with seasonal fluctuations in some regions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 按最低工资上浮 |
-| 中级（3-7年） | $34,000~$42,000 | 含少量加班 |
-| 高级（7年以上或主管） | $42,000~$52,000 | 管理职责 |
+| Median salary | $34,424 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$34,000 | premium over minimum wage |
+| Mid-level (3–7 years) | $34,000~$42,000 | Includes some overtime. |
+| Senior (7+ years or supervisor) | $42,000~$52,000 | Management responsibilities |
+| average salary | $37,440 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级店员晋升为货架主管、库存管理员或部门经理，部分可过渡至物流协调或供应链职位；积累经验后可转向批发或电商领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The core tasks of shelf restocking and order picking can be highly replaced by automation and robotics; AI can optimize inventory management and route planning, but the number of jobs requiring physical labor and flexibility will be significantly reduced, decreasing low-skilled entry opportunities.
+
+Can advance from junior clerk to shelf supervisor, inventory manager, or department manager; some transition to logistics coordination or supply chain roles; with experience, move to wholesale or e-commerce.
+
+**Tasks most exposed to AI:**
+
+- Regularly check inventory and manually restock shelves (replaced by AI prediction and auto-replenishment systems)
+- Picking items from warehouse shelves based on orders (replaced by robotic picking systems)
+- Manual inventory data recording and system entry (AI + IoT sensors update automatically)
+- Handles the restocking process for returned goods (completed by automated sorting line).
+
+**Where AI augments the role:**
+
+- Receiving replenishment instructions via handheld terminals or AR glasses to improve accuracy
+- Uses AI to analyze historical sales data, optimizing shelf placement and inventory levels
+- Using mobile robots to move heavy loads, reducing physical strain, focusing on anomaly handling
+- AI customer service handles product location queries, allowing staff to focus on high-value interactions
+
+**Human moat:**
+
+- Handle anomalies on shelves (e.g., damage, misplacement, special customer requests)
+- Personalised interaction and problem-solving with customers
+- Maintain physical security of equipment and work areas
+- Flexibly adapt to different store layouts and temporary promotional adjustments
+- Team collaboration and on-site communication skills
+
+**Skills to build:**
+
+- Operate automated inventory management systems (e.g. SAP EWM, Oracle WMS)
+- Use mobile data terminals with AR/VR assistance tools
+- Basic data analysis and Excel skills
+- Safe operation of forklifts and automated guided vehicles (AGVs)
+- Equipment maintenance and simple troubleshooting
+
+**Key growth areas:**
 
 - E-commerce growth
 - Warehouse automation
@@ -63,61 +96,63 @@ Responsible for restocking shelves, organizing merchandise, filling orders, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，适合有雇主担保的零售或仓储岗位 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must prove inability to hire locals; suitable for retail or warehouse roles with employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Store shelf stockers, clerks and order fillers？**
-- 身体健壮、能长时间站立和搬运货物者
-- 注重细节、有条理的人
-- 希望快速进入劳动力市场、无需高学历者
+**Who is suited**
+- Physically fit, able to stand for long periods and handle goods
+- Detail-oriented, organized person
+- Seeking quick entry into the labor market without requiring high education
 
-**谁不适合学Store shelf stockers, clerks and order fillers？**
-- 不喜欢体力劳动或重复性工作者
-- 追求高薪或快速晋升者
+**Who is not suited**
+- Those who dislike manual labor or repetitive work
+- Those seeking high salaries or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this job?**
+A: Entry-level staff earn about CAD $28,000-34,000 per year, supervisors up to CAD $42,000-52,000, typically with minimum wage guarantees.
+
+**Q: Is this occupation easy to immigrate to Canada?**
+A: Difficult. This occupation typically does not meet skilled migration requirements; only a work visa via LMIA employer sponsorship is possible. Gaining experience and transitioning to management may help with immigration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Store shelf stockers, clerks and order fillers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this job?**
-答：Entry-level staff earn about CAD 28,000-34,000 annually, while supervisors can earn CAD 42,000-52,000; often minimum wage guaranteed.
-
-**问：Is it easy to immigrate to Canada through this occupation?**
-答：Difficult. This occupation typically does not qualify for skilled immigration; only possible via LMIA employer sponsorship switch to management roles may help later.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

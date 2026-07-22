@@ -1,62 +1,98 @@
-# Ambulance Driver（Ambulance Driver）职业分析 · FR
+# Ambulance Driver — career analysis · France
 
-**职业代码：J1305 – Ambulance Driver。**
+**Occupation code: J1305 (ROME)**
 
-Drives ambulances to transport patients to medical facilities safely and quickly, providing basic life support en route.
+Responsible for driving ambulances, safely and quickly transporting patients to medical facilities, and providing basic life support en route.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 急救运输 | 2年 | —（可通过学徒制免费学习，公立学校低学费） |
-| DEA 国家急救员文凭 | 8个月 | $3,000~$8,000（需支付培训费用，部分区域可获资助） |
+| CAP emergency transport | 2 years | $0~$5,000 (Free apprenticeship programs are available, and public schools offer low tuition fees) |
+| DEA National First Responder Diploma | 8 months | $3,000~$8,000 (Training fees must be paid, and some regions may receive funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| DEA (Diplôme d'État d'Ambulancier) | 法国卫生部 | 必备 | 国家急救员文凭，从事急救车驾驶的强制证书 |
-| CFA (Certificat de Formation d'Ambulancier) | 法国卫生部 | 必备 | 急救员培训证书，DEA的组成部分 |
-| CATT (Certificat d'Aptitude à la Conduite de Véhicules Sanitaires) | Préfecture | 必备 | 急救车驾驶资质，需通过体检和考试 |
-| PSC1 (Prévention et Secours Civiques de niveau 1) | 法国红十字会/民防 | 必备 | 公民急救证书，DEA入学前提 |
+| DEA (Diplôme d'État d'Ambulancier) | French Ministry of Health | Required | National First Aid Diploma, a mandatory certificate for driving ambulances |
+| CFA (Certificat de Formation d'Ambulancier) | French Ministry of Health | Required | First Responder Training Certificate, a component of the DEA |
+| CATT (Certificat d'Aptitude à la Conduite de Véhicules Sanitaires) | Préfecture | Required | Emergency vehicle driving qualifications require a medical examination and exam |
+| PSC1 (Prévention et Secours Civiques de niveau 1) | French Red Cross / Civil Defense | Required | Citizen First Aid Certificate, DEA admission prerequisite |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国人口老龄化导致紧急医疗需求持续增长，急救车驾驶员岗位保持稳定需求。France Travail 列为中等紧缺职业，尤其在 rural 地区。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France's aging population has led to a continuous increase in emergency medical needs, and ambulance driver positions maintain stable demand. France Travail lists it as a medium-scarce occupation, especially in rural areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 公立SAMU或私立救护公司，税前年收入 |
-| 中级（4-10年） | $26,000~$33,000 | 含夜班和周末补贴 |
-| 高级（10年以上） | $33,000~$40,000 | 团队管理或高空救援资质加成 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$26,000 | Public SAMU or private ambulance companies, pre-tax annual income |
+| Mid-level (4-10 years). | $26,000~$33,000 | Includes night and weekend shift allowances |
+| Senior (10+ years) | $33,000~$40,000 | Team management or high-altitude rescue qualifications granted |
+| average salary | $22,852 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从急救车驾驶员晋升为高级急救员（Ambulancier Diplômé d'État），或通过培训成为消防员、护理人员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of ambulance drivers is polarized: route planning and recording will be automated by AI, but patient monitoring and emergency decision-making, due to complex environments and legal responsibilities, rely more on human experience, shifting the nature of the job from "transport" to "mobile first aid."
+
+You can be promoted from ambulance driver to senior paramedic (Ambulancier Diplômé d'État), or become a firefighter or paramedic through training.
+
+**Tasks most exposed to AI:**
+
+- Manually plan the optimal route using paper maps or GPS
+- Manually fill in the driving log, mileage, and fuel level records
+- Basic vehicle fault diagnosis and basic maintenance arrangements
+- Routine location reporting is conducted via radio and dispatch center
+- Manually control vehicle cruising in non-emergency situations
+
+**Where AI augments the role:**
+
+- AI optimizes multi-task emergency routes in real time, avoiding traffic congestion and construction
+- In-vehicle sensors continuously monitor patients' vital signs and warn of abnormalities
+- Automatically records medical intervention timestamps to assist in generating patient transfer reports
+- The AI-assisted decision support system provides recommendations for pre-hospital emergency protocols
+- Patient data is sent to hospitals in advance through a networked system, optimizing patient reception preparations
+
+**Human moat:**
+
+- Physical judgment to ensure safe driving under complex road conditions and harsh weather
+- On-site stabilization treatment for the patient (such as cardiopulmonary resuscitation and hemostasis)
+- Immediate communication and reassurance with families, witnesses, and emergency teams
+- Rapid decision-making based on limited information in dynamic crises
+- Bear legal responsibilities and ethical judgments during medical transfer
+
+**Skills to build:**
+
+- Basic Life Support (BLS) or Advanced Life Support certification
+- AI dispatching and navigation system operation (such as real-time traffic condition integration platforms)
+- Medical data entry and telemedicine device usage
+- Fundamentals of vehicle electronic systems and sensor maintenance
+- Conflict resolution and crisis communication skills
+- Basic data analysis and report writing skills
+
+**Key growth areas:**
 
 - aging population
 - increasing emergency calls
@@ -65,65 +101,64 @@ Drives ambulances to transport patients to medical facilities safely and quickly
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，职业受配额限制，但急救车驾驶员属紧缺职业 |
-| Subclass Passeport Talent（Talent Passport） | 若拥有DEA文凭且被公立医院雇用，可申请人才护照 |
+| Subclass Salarié (Employee Work Permit) | Requires a French employer sponsorship, occupations are subject to quota restrictions, but ambulance driving is a highly sought-after profession |
+| Subclass Passeport Talent (Talent Passport) | If you hold a DEA diploma and are employed by a public hospital, you can apply for a talent passport |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance Driver？**
-- 具备快速反应能力和心理抗压能力者
-- 有急救知识并乐于帮助他人的候选人
-- 适应轮班制和不规律工作时间的人
-
-**谁不适合学Ambulance Driver？**
-- 不擅长应对紧急情况和医疗创伤的人
-- 无法承受倒班和体力消耗的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess quick reaction skills and psychological resilience
+- Candidates with first aid knowledge and a willingness to help others
+- People who adapt to shift work and irregular working hours
+
+**Who is not suited**
+- People who are not adept at handling emergencies and medical trauma
+- People who cannot endure shifts and physical exertion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an ambulance driver?**
+A: The entry-level is about 22k-26k euros per year, and after subsidies it can go up to over 30k euros.
+
+**Q: How can non-EU citizens become ambulance drivers in France?**
+A: You must first obtain a DEA diploma (training within France) and apply for a Salarié work visa or talent passport sponsored by an employer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Ambulance Driver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of an ambulance driver?**
-答：Entry-level around €22k-€26k annually, with allowances up to €30k+.
-
-**问：How can non-EU citizens become ambulance drivers in France?**
-答：Obtain DEA diploma (training in France), then employer-sponsored work permit (Salarié) or Talent Passport.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

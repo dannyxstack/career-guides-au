@@ -1,59 +1,94 @@
-# Computer User Support Specialists（Computer User Support Specialists）职业分析 · 美国
+# Computer User Support Specialists — career analysis · United States
 
-**职业代码：15-1232 – Computer User Support Specialists。**
+**Occupation code: 15-1232 (SOC)**
 
-Provide technical assistance to computer users, resolving hardware, software, and network issues via phone, online, or on-site.
+Provide technical assistance to computer users via phone, online, or on-site to resolve hardware, software, and network issues.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$25,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学州内学费） |
+| Associate degree | 2 years | $10,000~$25,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (In-state tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA A+认证 | CompTIA | 可选 | 入门级硬件和软件支持 |
-| Microsoft 365认证 | Microsoft | 可选 | 桌面支持技能 |
-| ITIL基础认证 | AXELOS | 可选 | IT服务管理 |
+| CompTIA A+ certification | CompTIA | Optional | Entry-level hardware and software support |
+| Microsoft 365 certification | Microsoft | Optional | Desktop support skills |
+| ITIL Foundation certification | AXELOS | Optional | IT service management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 400,000。美国就业增长稳定，预计2023-2033年岗位增长约5%，主要受技术普及和远程办公需求驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 400,000. US employment growth is stable, with an estimated 5% job growth from 2023 to 2033, mainly driven by technology adoption and remote work demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$55,000 | 基于BLS OEWS 2023数据 |
-| 中级（4-7年） | $50,000~$75,000 | 含认证持有者 |
-| 高级（8年+） | $65,000~$95,000 | 含管理或专精角色 |
+| Median salary | $61,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$55,000 | Based on BLS OEWS 2023 data |
+| Mid-level (4-7 years) | $50,000~$75,000 | Including certification holders |
+| Senior (8+ years) | $65,000~$95,000 | Includes management or specialist roles |
+| average salary | $67,330 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为高级支持专家、IT经理或系统管理员，通过认证（如CompTIA A+）提升竞争力。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
+
+Can advance to senior support specialist, IT manager, or systems administrator; enhance competitiveness through certifications (e.g., CompTIA A+).
+
+**Tasks most exposed to AI:**
+
+- Automate common IT issues (e.g., password resets, network connection resets) via AI chatbots
+- AI auto-diagnosing hardware faults and recommending replacement parts
+- Automated script writing and execution (e.g., system log analysis, patch installation)
+- Knowledge base retrieval and answer delivery (AI replaces manual document searching)
+
+**Where AI augments the role:**
+
+- AI-assisted root cause analysis for complex problems (providing fault trees, log correlation suggestions)
+- AI-driven monitoring and early warning system to proactively detect potential system failures
+- Automatically generate customer reports and technical documents to improve communication efficiency
+- AI tools accelerate new employee training (simulating fault scenarios)
+- Real-time multilingual translation support to expand service scope
+
+**Human moat:**
+
+- Diagnosis and debugging of cross-system integration issues (involving legacy systems, cloud services, etc.).
+- Empathetic communication and conflict resolution with clients under high pressure
+- Creative problem-solving for non-standard, undocumented faults
+- Decision-making in safety-sensitive scenarios (e.g., disconnecting network vs. restoring data)
+- Deep adaptation and optimization of software and hardware for specific business scenarios
+
+**Skills to build:**
+
+- Cloud infrastructure (AWS/Azure/GCP) management and troubleshooting
+- Automation operation tools (Ansible, Terraform, PowerShell)
+- AI/ML fundamentals (able to understand model outputs, fine-tune prompts)
+- Cybersecurity basics (e.g., vulnerability patching, auditing)
+- Data analysis and visualization (SQL, Python, Power BI)
+- Advanced client management and project management certifications (ITIL, PMP)
+
+**Key growth areas:**
 
 - Help Desk
 - Technical Support
@@ -62,65 +97,64 @@ Provide technical assistance to computer users, resolving hardware, software, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等学历，配额有限 |
-| Subclass EB-3（Employment-Based Third Preference） | PERM劳工证，漫长排期 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大/墨西哥公民，计算机相关专业 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent, limited quota |
+| Subclass EB-3 (Employment-Based Third Preference) | PERM labor certification, long waiting period |
+| Subclass TN (TN NAFTA Professional) | Open only to Canadian/Mexican citizens, computer-related majors. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer User Support Specialists？**
-- 耐心细致，喜欢帮助他人解决技术问题
-- 善于沟通，能用通俗语言解释技术概念
-- 愿意持续学习新技术和系统
-
-**谁不适合学Computer User Support Specialists？**
-- 不喜欢频繁处理重复性问题
-- 对高压工作环境不适应者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and detail-oriented, enjoys helping others solve technical problems
+- Good communication skills to explain technical concepts in plain language
+- Willing to continuously learn new technologies and systems
+
+**Who is not suited**
+- Dislikes frequently handling repetitive questions
+- Those not suited to high-pressure work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the maximum salary for this occupation?**
+A: Senior specialist or management salary can reach USD 85,000-95,000, but generally lower than other IT fields.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Possible via H-1B or EB-3 green card, but highly competitive, requires employer sponsorship and long wait times.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Computer User Support Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the maximum salary for this occupation?**
-答：Senior specialists or managers can earn up to $85,000-$95,000 USD, but typically lower than other IT roles.
-
-**问：Is it easy to immigrate to the US for this occupation?**
-答：Possible via H-1B or EB-3 green card, but competitive with long waiting periods and employer sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

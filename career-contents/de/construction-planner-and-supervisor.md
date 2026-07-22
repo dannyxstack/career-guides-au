@@ -1,60 +1,96 @@
-# Construction Planner and Supervisor（Construction Planner and Supervisor）职业分析 · DE
+# Construction Planner and Supervisor — career analysis · Germany
 
-**职业代码：3110 – Construction Planner and Supervisor。**
+**Occupation code: 3110 (KldB)**
 
-Responsible for planning, coordinating, and supervising construction projects, ensuring compliance with regulations, budget, and schedule. Works in construction firms, engineering offices, or public agencies.
+Responsible for planning, coordinating, and supervising construction projects to ensure compliance with regulations, budget, and schedule. Often works in construction companies, engineering firms, or public agencies.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年 | —（公立大学基本无学费，仅学期费约300欧元/年） |
-| 双元制大学学习 | 3-4年 | —（带薪学习，企业承担学费） |
+| Bachelor's degree | 3-4 years | $0~$1,500 (Public universities have basically no tuition fees, only a semester fee of about 300 EUR per year) |
+| Dual study program at a university | 3-4 years | $0~$500 (Paid learning, with the employer covering tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 土木工程或建筑学学士/硕士 | 德国大学 | 必备 | 需通过认证（Anerkennung）若海外学历 |
-| 建筑监理认证 | 工程师协会 | 可选 | 部分岗位要求 |
+| Bachelor's/Master's in Civil Engineering or Architecture | German university | Required | Requires recognition (Anerkennung) if overseas qualification |
+| Building supervision certification | Engineers Australia | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。德国建筑业持续增长，住房短缺与基础设施更新需求强劲，该职业就业前景良好。数字化与可持续建筑趋势带来新机会。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. Sustained growth in the German construction industry, with strong demand due to housing shortages and infrastructure renewal; this occupation has good employment prospects. Digitalization and sustainable building trends create new opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 税前年薪 |
-| 中级（3-7年） | $48,000~$60,000 | 税前年薪 |
-| 高级（7年以上） | $60,000~$80,000 | 税前年薪 |
+| Median salary | $62,184 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $48,000~$60,000 | Annual pre-tax salary |
+| Senior (7+ years) | $60,000~$80,000 | Annual pre-tax salary |
+| average salary | $67,572 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为项目负责人、技术主管或部门经理。通过继续教育可成为注册建筑师或高级工程师，也可转向项目管理或城市规划。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate compliance checks and document generation, but on-site coordination and judgment of responsibility remain core human tasks. Jobs overall are magnified, but entry-level positions face competitive pressure.
+
+Can progress to project leader, technical supervisor, or department manager. Further education can lead to becoming a registered architect or senior engineer, or transition to project management or urban planning.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate compliance check reports and progress summaries.
+- Collision detection and optimization based on BIM models
+- Drafting and Reviewing Standardized Construction Documents
+- Preliminary estimation of material usage and costs.
+- Automated monitoring of construction progress deviations and early warning
+
+**Where AI augments the role:**
+
+- AI-assisted plan comparison and optimisation suggestions
+- Real-time risk alerts and resource scheduling optimization
+- Augmented reality-assisted on-site inspection and handover
+- Intelligent monitoring system improves quality and safety control
+- Data-driven decision support improves planning accuracy
+
+**Human moat:**
+
+- Multi-stakeholder coordination and conflict resolution.
+- On-site decision-making under unforeseen circumstances
+- Ultimate assumption of legal and compliance responsibilities
+- Customer relationship management and trust building
+- Cross-team collaboration and communication leadership
+
+**Skills to build:**
+
+- Advanced BIM applications and parametric modeling
+- AI tools (e.g. compliance GPT, predictive analytics)
+- Project management software and agile methodologies
+- Knowledge of sustainable construction and green certification
+- Data visualization and report automation
+- Augmented Reality/Virtual Reality Field Application
+
+**Key growth areas:**
 
 - Infrastructure
 - Digitalization
@@ -63,68 +99,67 @@ Responsible for planning, coordinating, and supervising construction projects, e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪不低于45300欧元（2025年）的技术人才，该职业属紧缺专业，门槛可降低至41041欧元。 |
-| Subclass Skilled Worker（Skilled Immigration Act Visa） | 适用于具有德国认可学历或通过资质认证的申请人，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许未获得工作机会的求职者来德国寻找工作，适合具有建筑背景的申请者。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to skilled workers with an annual salary of no less than €45,300 (2025); for occupations in shortage, the threshold can be reduced to €41,041. |
+| Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable for applicants with a recognized German qualification or those who have completed qualification recognition, requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a job offer to come to Germany to find work, suitable for applicants with a construction background. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Construction Planner and Supervisor？**
-- 具有土木工程或建筑学背景的应届生或经验人士
-- 喜欢户外工作与现场协调，能承受一定项目压力
-
-**谁不适合学Construction Planner and Supervisor？**
-- 不擅长与人沟通或冲突处理
-- 无法接受频繁出差或工地环境
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates or experienced individuals with a background in civil engineering or architecture
+- Enjoys outdoor work and site coordination, can handle project pressure
+
+**Who is not suited**
+- Not skilled in communication or conflict resolution.
+- Cannot accept frequent travel or work sites
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Entry-level approx. €38,000-48,000, mid-level approx. €48,000-60,000, senior can reach over €80,000.
+
+**Q: How to get overseas qualifications recognized in Germany?**
+A: Qualifications must be checked via the Anabin database or apply for German recognition (Anerkennung); some professions may require additional courses.
+
+**Q: Will this occupation be replaced by AI in the future?**
+A: Low replacement risk; on-site coordination and decision-making require human judgment, but the use of digital tools like BIM will increase.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Construction Planner and Supervisor为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Germany?**
-答：Junior: €38,000-48,000, mid-level: €48,000-60,000, senior: up to €80,000+ per year.
-
-**问：How can foreign qualifications be recognized in Germany?**
-答：Check Anabin database or apply for recognition (Anerkennung); some may require additional courses.
-
-**问：Will this job be replaced by AI?**
-答：Low risk; on-site coordination and decisions require human judgment, but digital tools like BIM will increase.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

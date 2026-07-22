@@ -1,58 +1,92 @@
-# Orthoptist（Orthoptist）职业分析 · 新西兰
+# Orthoptist — career analysis · New Zealand
 
-**职业代码：251412 – Orthoptist。**
+**Occupation code: 251412 (ANZSCO)**
 
-Orthoptists diagnose and treat visual disorders like strabismus and amblyopia using non-surgical methods. This occupation is on New Zealand's Green List Tier 1, enabling direct pathway to residence for qualified professionals.
+Orthoptists diagnose and treat visual disorders such as strabismus and amblyopia, improving visual quality through non-surgical methods. This occupation is on the New Zealand Green List Tier 1, allowing direct residence application with excellent immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 4年 | $30,000~$45,000（新西兰学费，国际生约3-4.5万纽元/年） |
+| Bachelor's degree | 4 years | $30,000~$45,000 (New Zealand tuition for international students is approx NZD 30,000-45,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视轴矫正学学士 | 奥克兰大学 | 必备 | 唯一提供该学位的大学，需完成4年课程 |
-| 新西兰视轴矫正师注册 | 新西兰医学委员会 | 必备 | 通过考试后注册方可执业 |
-| 雅思7.0或同等英语成绩 | IELTS/OET | 必备 | 注册和移民要求 |
+| Bachelor of Orthoptics | University of Auckland | Required | The only university offering this degree; requires completion of a 4-year course |
+| New Zealand Orthoptist Registration | Medical Council of New Zealand | Required | Must register to practice after passing the exam |
+| IELTS 7.0 or equivalent English language score | IELTS/OET | Required | Registration and immigration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 120。新西兰人口老龄化及儿童视力筛查需求增加，视轴矫正师持续短缺。预计未来5年就业增长强劲，公立医院和私立诊所均有大量职位空缺。
+**Job demand: very high (★★★★½).** National workforce approx. 120. With New Zealand's aging population and increased demand for children's vision screening, orthoptists remain in short supply. Strong employment growth is expected over the next 5 years, with many vacancies in public hospitals and private clinics.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 公立医院起薪，含津贴 |
-| 中级（3-8年） | $75,000~$95,000 | 有经验的专科医师 |
-| 高级（8年以上） | $95,000~$120,000 | 主管或私人执业 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$75,000 | Starting salary in public hospitals, including allowances |
+| Mid-level (3–8 years) | $75,000~$95,000 | Experienced Specialist Physician |
+| Senior (8+ years) | $95,000~$120,000 | Supervisor or private practice |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 初级视轴矫正师可从医院眼科部门或诊所起步，积累经验后可升任高级专科医师、科室主管或进入学术研究领域，也可自主开设诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The diagnostic and training parts of orthoptists can be enhanced by AI, but direct clinical operations, patient communication, and personalized plans rely on human judgment. Overall, AI impact is moderate.
+
+Junior orthoptists can start in hospital eye departments or clinics, and with experience can progress to senior specialist, department head, or enter academic research, or open their own clinic.
+
+**Tasks most exposed to AI:**
+
+- Automated vision screening and strabismus angle measurement
+- Generate standardized visual axis training reports
+- Remote monitoring of patient training compliance
+- Routine medical record data entry and organization.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of strabismus type and severity
+- Virtual reality automated amblyopia training games
+- Predict surgical or training outcomes based on big data
+- AI real-time analysis of eye movement data in teleconsultation
+- automatically generate personalized training plan drafts
+
+**Human moat:**
+
+- Face-to-face patient communication and trust building
+- Surgical decision-making and non-surgical design for complex strabismus.
+- Behavior management and cooperation guidance for pediatric patients
+- Clinical intuition and judgment of abnormal conditions
+
+**Skills to build:**
+
+- AI-assisted diagnostic tools (e.g., eye-tracking software)
+- Virtual reality/augmented reality training equipment operation
+- data analysis and clinical decision support systems
+- Telemedicine platforms and electronic medical records
+- Communication and patient education skills
+- Machine learning fundamentals to understand algorithm outputs
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +95,67 @@ Orthoptists diagnose and treat visual disorders like strabismus and amblyopia us
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单T1职业，满足注册和薪资要求可直接申请居留，无工作年限限制。 |
-| Subclass SMC（Skilled Migrant Category） | 可走技术移民6分制，注册后获6分，需满足年龄、英语、健康等要求。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为工签过渡路径，需有认证雇主担保，可后续转居民。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List T1 occupation, meeting registration and salary requirements allows direct residence application with no work experience limit. |
+| Subclass SMC (Skilled Migrant Category) | Can use the 6-point skilled migration system, with 6 points after registration, need to meet age, English, health and other requirements. |
+| Subclass AEWV (Accredited Employer Work Visa) | As a transition pathway to a work visa, requires accredited employer sponsorship, can later convert to residency. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Orthoptist？**
-- 对视觉科学有浓厚兴趣，细心耐心的医疗从业者
-- 希望在海外获得稳定高需求职业，快速移民的人士
-- 具备良好沟通能力，善于与儿童及老年患者交流
-
-**谁不适合学Orthoptist？**
-- 不愿接受长时间学术培训和严格注册流程的人
-- 对重复性检查和临床工作缺乏耐心者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Healthcare professional with strong interest in vision science, detail-oriented and patient
+- Those who wish to obtain a stable, high-demand occupation overseas and immigrate quickly
+- Good communication skills and adept at interacting with children and elderly patients
+
+**Who is not suited**
+- People unwilling to undergo long academic training and strict registration processes
+- Those who lack patience for repetitive inspections and clinical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for orthoptists in New Zealand?**
+A: Entry level about NZD 65,000-75,000, mid-level 75,000-95,000, senior up to 120,000, available in public hospitals and private practice. Salary is lower than doctors but higher than general medical technicians.
+
+**Q: Is it easy for orthoptists to immigrate to New Zealand?**
+A: Relatively easy. The occupation is on the Green List Tier 1, eligible for direct residence; skilled migration also gets high points. Requires completing a University of Auckland degree and registration, with no work experience required.
+
+**Q: How to become a registered orthoptist in New Zealand?**
+A: The only pathway is to complete the 4-year Bachelor of Orthoptics at the University of Auckland, register with the Medical Council of New Zealand after passing exams, with IELTS 7.0. Currently, this is the only course in New Zealand.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏难（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★★） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Orthoptist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for orthoptists in New Zealand?**
-答：Entry-level: NZD 65,000-75,000; intermediate: NZD 75,000-95,000; senior up to NZD 120,000. Salaries are lower than doctors but higher than general health technicians.
-
-**问：Is it easy for orthoptists to immigrate to New Zealand?**
-答：Relatively easy. The profession is on Green List Tier 1 for direct residence, and also qualifies for Skilled Migrant Category points. Requires a degree from the University of Auckland and registration, with no prior work experience needed.
-
-**问：How to become a registered orthoptist in New Zealand?**
-答：Complete the 4-year Bachelor of Orthoptics at the University of Auckland, pass the NZ Medical Council exam for registration, and achieve IELTS 7.0. This is the only accredited program in New Zealand.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Technical Cable Jointer（Technical Cable Jointer）职业分析 · 新西兰
+# Technical Cable Jointer — career analysis · New Zealand
 
-**职业代码：342212 – Technical Cable Jointer。**
+**Occupation code: 342212 (ANZSCO)**
 
-Technical Cable Jointers install, maintain, and repair underground and overhead power cables, including joints, terminations, and testing. This occupation is on the Green List Tier 1, enabling direct residence visa applications, with favorable migration prospects.
+Technical cable joiners install, maintain, and repair underground and overhead power cables, including joints, terminals, and testing. This occupation is on New Zealand's Green List Tier 1, allowing direct residence visa application with good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $10,000~$20,000（学徒期间工资覆盖部分费用） |
-| 大专文凭 | 2年 | $15,000~$25,000（新西兰理工学院课程，如电力工程） |
+| Apprenticeship | 3-4 years | $10,000~$20,000 (Apprentice wages cover part of the costs) |
+| Diploma | 2 years | $15,000~$25,000 (New Zealand Institute of Technology courses, e.g., electrical engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册电工执照 | Electrical Workers Registration Board (EWRB) | 必备 | 必须持有才能独立工作 |
-| NZ Certificate in Electrical Engineering (Level 4) | 新西兰学历认证局 | 必备 | 常见入门资格 |
-| Cable Jointer专业认证 | 行业培训组织 | 可选 | 部分雇主要求 |
-| 雅思6.5分 | 移民局 | 必备 | 技术移民英语要求 |
+| New Zealand registered electrician license | Electrical Workers Registration Board (EWRB) | Required | Must hold to work independently |
+| NZ Certificate in Electrical Engineering (Level 4) | New Zealand Qualifications Authority | Required | Common entry qualifications |
+| IELTS 6.5 | Immigration department | Required | English language requirements for skilled migration |
+| Cable Jointer professional certification. | Industry training organization | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰电力基础设施持续升级，可再生能源项目（如风能和太阳能）推动电缆接线员需求。预计未来5年就业增长强劲，尤其在城市和工业区。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's electricity infrastructure is continuously upgrading, with renewable energy projects (e.g., wind and solar) driving demand for cable splicers. Strong employment growth expected over the next 5 years, especially in urban and industrial areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒或助理阶段 |
-| 中级（3-7年） | $70,000~$90,000 | 持证独立工作 |
-| 高级（7年以上） | $90,000~$120,000 | 主管或专家技术员 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Apprentice or assistant stage |
+| Mid-level (3–7 years) | $70,000~$90,000 | Work independently with certification. |
+| Senior (7+ years) | $90,000~$120,000 | Supervisor or Specialist Technician |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从学徒或初级技术员起步，通过积累经验和考取高级证书（如新西兰注册电工执照）可晋升为高级技术员或主管，也可转向项目管理和培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
+
+Typically start as an apprentice or junior technician; by gaining experience and obtaining advanced certifications (such as a New Zealand registered electrician license), you can advance to senior technician or supervisor, or move into project management and training roles.
+
+**Tasks most exposed to AI:**
+
+- Use drones for automatic inspection of overhead lines, replacing manual visual checks
+- AI analyzes historical data to predict equipment failures, replacing periodic manual inspections
+- GIS system automatically generates optimal maintenance routes, reducing manual route planning
+- Online monitoring sensors transmit data in real time, no need for manual periodic recording
+
+**Where AI augments the role:**
+
+- AR glasses overlaying circuit diagrams and real-time parameters to enhance live-line work safety and efficiency
+- AI fault diagnosis system assists in identifying abnormal signals, speeding up troubleshooting
+- Use digital twin simulations for grid load to optimize construction and maintenance plans
+- Wearable Devices Monitor Vital Signs to Warn of Fatigue or Hazardous Conditions
+- UAV and Robot-Assisted High-Altitude Cable Connection to Reduce Fall Risk
+
+**Human moat:**
+
+- Comprehensive assessment of physical environment (weather, terrain, load) during live-line repairs
+- Practical ability to flexibly adjust construction steps in complex wiring scenarios
+- Creative problem-solving for non-standard faults (e.g., lightning strikes, animal damage)
+- Physical coordination and risk management for working at heights or in confined spaces
+- Responsibility for real-time communication and coordination with dispatch centers and field teams
+
+**Skills to build:**
+
+- Drone operation and flight planning (CASA certified)
+- GIS and digital grid platforms (e.g., ArcGIS) application
+- Basic Python scripts for data organization
+- Operation and maintenance of AR/VR-assisted tools
+- Interpreting Smart Sensor Data Dashboards
+- Human-machine collaboration communication and safety procedures in high-pressure environments
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +98,67 @@ Technical Cable Jointers install, maintain, and repair underground and overhead 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 符合绿色名单直接居留要求，可立即申请居民签证，无需工作满两年 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，工作满3年可得3分，加上学历或年龄分，可能达到要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，工作2年后可申请居留，适用于未达直接居留标准者 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Meets Green List direct residence requirements; can apply for a resident visa immediately without needing to work for two years |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, 3 years of work gives 3 points; plus education or age points, may meet the requirement. |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, can apply for residency after 2 years of work, suitable for those who do not meet direct residency requirements |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Cable Jointer？**
-- 动手能力强、喜欢户外和体力工作
-- 注重安全规范，有耐心和细致态度
-- 愿意持续学习新技术，如高压电缆维修
-
-**谁不适合学Technical Cable Jointer？**
-- 畏惧高空作业或密闭空间
-- 不习惯户外恶劣天气工作
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills, enjoy outdoor and physical work
+- Focus on safety regulations, with patience and attention to detail
+- Willingness to continuously learn new skills, such as high-voltage cable maintenance
+
+**Who is not suited**
+- Fear of working at heights or in confined spaces
+- Not accustomed to working in harsh outdoor weather conditions.
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate hourly wage for a technical cable splicer?**
+A: According to Statistics New Zealand data, hourly rates range from 26 to 50 NZD depending on experience, annual salary about 55,000 to 120,000 NZD.
+
+**Q: How can a technical cable jointer migrate to New Zealand?**
+A: This occupation is on the Green List Tier 1, eligible for direct residence visa. Also applies to the 6-point skilled migration system; 3 points after 3 years of work.
+
+**Q: Is it mandatory to hold a New Zealand local license?**
+A: Yes, registration with EWRB and an electrician's license are required, typically after completing accredited training courses and exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Technical Cable Jointer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the hourly wage for a Technical Cable Jointer?**
-答：According to Stats NZ, hourly rates range from NZD 26 to NZD 50 depending on experience, with annual salaries between NZD 55,000 and NZD 120,000.
-
-**问：How can a Technical Cable Jointer migrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, allowing direct residence applications. It also qualifies for the Skilled Migrant Category 6-point system, with 3 points after 3 years of work.
-
-**问：Is a New Zealand local license mandatory?**
-答：Yes, you must be registered with the EWRB and hold an electrician license, which usually requires completing accredited training and exams.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

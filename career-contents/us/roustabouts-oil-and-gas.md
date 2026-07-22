@@ -1,61 +1,96 @@
-# Roustabouts, Oil and Gas（Roustabouts, Oil and Gas）职业分析 · 美国
+# Roustabouts, Oil and Gas — career analysis · United States
 
-**职业代码：47-5071 – Roustabouts, Oil and Gas。**
+**Occupation code: 47-5071 (SOC)**
 
-Assemble or repair oil field equipment using hand and power tools, and perform other tasks as needed.
+Assemble or repair oilfield equipment using manual and power tools, and perform other necessary tasks.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 3-12个月 | —（雇主提供在职培训） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 3-12 months | $0~$0 (Employer provides on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或GED | 美国各州教育部门 | 必备 | 基本入职要求 |
-| 商业驾驶执照（CDL） | 各州机动车管理局 | 可选 | 部分岗位需要驾驶重型卡车 |
-| 安全培训（如H2S、急救） | 雇主或培训机构 | 必备 | 油田安全要求 |
+| High school diploma or GED | State education departments in the US | Required | Basic entry requirements |
+| safety training (e.g. H2S, first aid) | Employer or training provider | Required | Oilfield safety requirements |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Some positions require driving heavy trucks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 23,000。美国石油和天然气行业受全球油价波动影响，就业增长不稳定。BLS预计2023-2033年就业下降约2%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 23,000. The US oil and gas industry is affected by global oil price fluctuations, leading to unstable employment growth. BLS projects a decline of about 2% from 2023-2033.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $35,000~$45,000 | 常见起薪范围 |
-| 中级（3-5年） | $45,000~$55,000 | 有经验工人 |
-| 高级（5年以上） | $55,000~$75,000 | 资深技工或工头 |
+| Median salary | $46,960 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–2 years) | $35,000~$45,000 | Common starting salary range. |
+| Mid-level (3–5 years) | $45,000~$55,000 | Experienced workers |
+| Senior (5+ years) | $55,000~$75,000 | Senior technician or foreman |
+| average salary | $49,200 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 井口工人可晋升为高级技工、工头或设备操作员，部分转岗至钻井平台或管道维护。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive manual tasks of oil and gas wellhead workers (e.g., pipe cleaning, equipment handling) are easily automated, but on-site equipment maintenance and emergency response still require human judgment. Overall job risk is high; entry-level positions are shrinking.
+
+Wellhead workers can advance to senior technicians, foremen, or equipment operators, with some transitioning to drilling rigs or pipeline maintenance.
+
+**Tasks most exposed to AI:**
+
+- Disassemble and assemble pipes and equipment using wrenches, pipe wrenches, and other tools
+- Clean wellsite oil spills, debris, and maintain environmental hygiene
+- Handling and storing pipes, chemicals, and other materials
+- Operate manual winches, hoists, and other simple lifting equipment for material handling.
+- Performing basic maintenance like rust removal and painting on equipment surfaces
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to monitor equipment status, identifying abnormal vibrations or temperatures early.
+- Receive remote expert guidance via AR glasses or tablets to complete complex repairs
+- Use drones or robots for inspections of high-altitude or hazardous areas, analyze data
+- Use digital twin models to simulate maintenance plans, optimizing operational processes
+
+**Human moat:**
+
+- Ability to make quick decisions and perform emergency repairs in blowout or leak situations
+- Manual diagnosis and repair of non-standardized faults in old equipment
+- On-site safety monitoring and coordination communication responsibilities with other personnel
+- Mental and physical adaptability to harsh environments (high pressure, high noise, field work)
+- Complying with strict safety regulations and bearing legal responsibility
+
+**Skills to build:**
+
+- Basic mechanical repair and hydraulic system knowledge
+- Operate drones for well site inspections
+- Use digital tools (tablets, AR devices) to obtain remote assistance
+- Basic data analysis (understanding predictive maintenance reports)
+- Safety awareness training and emergency response drills
+- Learn basic operation of automation and robotic systems
+
+**Key growth areas:**
 
 - Oil and Gas Extraction
 - Field Operations
@@ -64,66 +99,68 @@ Assemble or repair oil field equipment using hand and power tools, and perform o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（Temporary Agricultural Workers） | 适用于临时农业工人，但油田工作通常不符合条件。 |
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 可用于非农业临时工人，但需证明劳动力短缺，申请复杂。 |
-| Subclass TN（Trade NAFTA (USMCA) Professional） | 仅适用于特定专业职业，此岗位不符合。 |
+| Subclass H-2A (Temporary Agricultural Workers) | Applicable to temporary agricultural workers, but oil field work usually does not qualify. |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Available for non-agricultural temporary workers, but requires proof of labor shortage, complex application. |
+| Subclass TN (Trade NAFTA (USMCA) Professional) | Only applicable to specific professional occupations; this position does not qualify. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Roustabouts, Oil and Gas？**
-- 体力好、能适应户外和恶劣天气者
-- 愿意在偏远地区油田工作并接受轮班者
-- 注重安全、动手能力强且不在意重复性劳动的人
+**Who is suited**
+- Candidates who are physically fit and can adapt to outdoor and harsh weather conditions.
+- Willing to work in remote oil fields and accept shift work
+- People who value safety, have strong hands-on skills, and don't mind repetitive work
 
-**谁不适合学Roustabouts, Oil and Gas？**
-- 希望稳定白班或办公室工作的人
-- 对体力要求高、环境危险敏感者
+**Who is not suited**
+- People who prefer stable day shifts or office work
+- Those sensitive to high physical demands and hazardous environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for wellhead workers?**
+A: Entry-level annual salary is about 35,000-45,000 USD, experienced can reach 55,000-75,000 USD, but fluctuates with oil prices.
+
+**Q: Can foreigners immigrate to the US through the wellhead worker occupation?**
+A: Extremely difficult. This occupation usually does not meet H-1B professional occupation requirements; employers must use H-2B temporary worker visas, and obtaining a green card is nearly impossible.
+
+**Q: What education is required to become a wellhead worker?**
+A: Only requires high school diploma or GED, then on-the-job training provided by employer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Roustabouts, Oil and Gas属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for roustabouts?**
-答：Entry-level annual salary is about $35,000-$45,000; experienced workers can earn $55,000-$75,000, but it fluctuates with oil prices.
-
-**问：Can a foreigner immigrate to the US as a roustabout?**
-答：Extremely difficult. The occupation does not qualify for H-1B, and H-2B is temporary; permanent residency is nearly impossible.
-
-**问：What education is required to become a roustabout?**
-答：Only a high school diploma or GED, then on-the-job training provided by the employer.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

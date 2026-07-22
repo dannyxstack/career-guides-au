@@ -1,59 +1,86 @@
-# Textile Fiber Preparation, Spinning and Winding Machine Operators（Textile Fiber Preparation, Spinning and Winding Machine Operators）职业分析 · ES
+# Textile Fiber Preparation, Spinning and Winding Machine Operators — career analysis · Spain
 
-**职业代码：8151 – Textile Fiber Preparation, Spinning and Winding Machine Operators。**
+**Occupation code: 8151 (CNO)**
 
-Operate machines to prepare fibers, spin yarn, and wind thread; a foundational role in textile manufacturing with repetitive tasks and basic mechanical skills required.
+Operating textile machinery to prepare fibers, spinning, and winding is a fundamental occupation in textile manufacturing, with high repetitive work and a certain level of mechanical operation skills.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育或FP Básico | 2年（FP Básico） | —（公立免费或低学费） |
-| FP Grado Medio (纺织生产) | 2年（FP Grado Medio） | —（公立免费，私立约2000-3000欧元） |
+| Secondary education or FP Básico | 2nd year (FP Básico) | $0~$2,000 (Public schools offer free or low tuition) |
+| FP Grado Medio (Textile Production) | 2 years (FP Grado Medio) | $0~$3,000 (Public schools are free, private ones about 2000-3000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | 无 | 可选 | 通常由企业提供在职培训，无国家强制执照 |
+| No mandatory certificate | None | Optional | On-the-job training is usually provided by companies, without a mandatory national license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。西班牙纺织业规模有限，受全球化竞争和自动化影响，就业岗位缓慢减少。但高端及特殊纺织品领域仍存少量需求，整体前景一般。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. Spain's textile industry is limited in scale and, affected by global competition and automation, is slowly reducing jobs. However, there is still limited demand in the high-end and specialty textile sectors, and the overall outlook is average.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪（含组长或技术岗） |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Pre-tax annual salary (including team leader or technical positions) |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级操作员可晋升为班组组长或设备维护技术员，少数通过培训转为质量检验员或生产调度，发展路径较窄。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This profession is highly repetitive, with clear rules; AI and automation will significantly reduce job demand, reducing entry-level positions and requiring existing operators to transform rapidly.
+
+Junior operators can be promoted to team leader or equipment maintenance technician, while a few can be transferred through training to become quality inspectors or production dispatchers, with narrower development paths.
+
+**Tasks most exposed to AI:**
+
+- Routine manual tasks such as connecting fiber strips and changing yarn tubes
+- Monitor repeated operations of yarn tension and speed
+- Yarn breakage detection and joints based on manual experience
+- Material handling and finished product packaging assembly line operations
+
+**Where AI augments the role:**
+
+- Using AI vision systems to detect yarn defects in real time and adjust parameters
+- Optimize spinning processes and machine settings through data analysis
+- Remote monitoring of the operating status of multiple devices
+- Simulating production processes with digital twins
+
+**Human moat:**
+
+- Mechanical repair capabilities for handling complex yarn breakages and machine failures
+- Hands-on experience with different fiber properties (such as wool and synthetic fibers).
+- Quickly adapt to flexible operations for small batches and multi-variety orders
+
+**Skills to build:**
+
+- Industrial robot programming and automation system maintenance
+
+**Key growth areas:**
 
 - Automation impact
 - Declining employment
@@ -62,61 +89,63 @@ Operate machines to prepare fibers, spin yarn, and wind thread; a foundational r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta ajena)） | 需获得西班牙雇主工作合同，且证明岗位无法由欧盟公民填补，难度大。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta ajena)) | You must obtain a work contract from a Spanish employer and prove that the position cannot be filled by an EU citizen, which is quite challenging. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Fiber Preparation, Spinning and Winding Machine Operators？**
-- 希望快速进入劳动力市场、无需高学历者
-- 能接受重复性体力工作的人
-- 对纺织工艺感兴趣且愿意在制造业环境中工作的人
+**Who is suited**
+- Seeking quick entry into the labor market without requiring high education
+- Someone who can accept repetitive physical work
+- People interested in textile craftsmanship and willing to work in manufacturing environments
 
-**谁不适合学Textile Fiber Preparation, Spinning and Winding Machine Operators？**
-- 寻求高薪和良好职业前景的人
-- 不喜欢重复性、单调工作环境的人
+**Who is not suited**
+- People seeking high salaries and good career prospects
+- People who dislike repetitive and monotonous work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a textile machine operator?**
+A: Annual salary for this occupation in Spain is approx. EUR 18,000-30,000, below the national average, with limited growth potential.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: Almost impossible. This occupation is not on the shortlist of in-demand occupations, and Spanish employers must prove they cannot recruit locals, making the skilled migration pathway extremely narrow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Textile Fiber Preparation, Spinning and Winding Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for textile machine operators?**
-答：Annual salary in Spain ranges from €18,000 to €30,000, below national average with limited growth.
-
-**问：Can non-EU citizens immigrate to Spain through this occupation?**
-答：Highly unlikely. It is not a shortage occupation and employers must prove no local candidates, making work visa sponsorship very difficult.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

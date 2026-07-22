@@ -1,58 +1,94 @@
-# Medical and Health Services Managers（Medical and Health Services Managers）职业分析 · 美国
+# Medical and Health Services Managers — career analysis · United States
 
-**职业代码：11-9111 – Medical and Health Services Managers。**
+**Occupation code: 11-9111 (SOC)**
 
-Plan, direct, or coordinate medical and health services in hospitals, clinics, managed care organizations, public health agencies, or similar organizations.
+Responsible for planning, directing, or coordinating medical and health services in hospitals, clinics, managed care organizations, public health agencies, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$60,000（学费因校而异） |
-| 硕士学位（推荐） | 2-3年 | $30,000~$80,000（MHA或MBA，全职或在线） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Tuition varies by school) |
+| Master's degree (recommended) | 2-3 years | $30,000~$80,000 (MHA or MBA, full-time or online) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医疗与健康服务管理师认证 | 美国医疗管理学会（ACHE） | 可选 | FACHE认证，非强制但有助于职业发展 |
-| 州级执照 | 各州卫生部门 | 可选 | 部分州要求特定执照，如养老院管理人员 |
+| Certification in Healthcare Management | American College of Healthcare Executives (ACHE) | Optional | FACHE certification, not mandatory but beneficial for career development |
+| State-level license | State health departments | Optional | Some states require specific licenses, such as for nursing home administrators |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 516,570。美国劳工统计局预计2022-2032年该职业就业增长28%，远高于所有职业平均水平，主要受老龄化人口和医疗需求增加驱动。
+**Job demand: very high (★★★★½).** National workforce approx. 516,570. The U.S. Bureau of Labor Statistics projects 28% employment growth for this occupation from 2022-2032, much faster than the average for all occupations, driven by an aging population and increased healthcare demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$85,000 | 助理或小规模机构 |
-| 中级（3-7年） | $85,000~$120,000 | 部门经理或中型机构 |
-| 高级（7年以上） | $120,000~$200,000 | 高层管理或大型医疗机构 |
+| Median salary | $123,860 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$85,000 | Assistant or small-scale institutions |
+| Mid-level (3–7 years) | $85,000~$120,000 | Department manager or medium-sized institution |
+| Senior (7+ years) | $120,000~$200,000 | Senior management or large medical institution |
+| average salary | $140,970 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★½）。** 通常从临床或行政岗位起步，积累经验后晋升为部门经理、助理主管，最终可成为医疗与健康服务经理。拥有硕士学历（如MHA或MBA）可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
+
+Typically start in clinical or administrative roles, gain experience, then advance to department manager, assistant director, and eventually become a medical and health services manager. A master's degree (e.g., MHA or MBA) can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine scheduling and shift optimization based on historical data
+- Preliminary review and reminders for medical regulatory compliance documents.
+- Automatic generation and anomaly annotation of budgets and financial reports
+- Automated analysis and summarization of patient satisfaction surveys
+- Automated processing of simple HR processes (e.g. leave requests, training records)
+
+**Where AI augments the role:**
+
+- Using AI to analyze operational data to optimize resource allocation and process efficiency
+- Use NLP tools to quickly review policy documents and compliance requirements.
+- Assess population health trends via predictive models to guide service planning
+- Using AI-assisted decision support systems for strategic investment and cost control
+- Using AI communication tools to improve cross-departmental collaboration and information flow
+
+**Human moat:**
+
+- Balancing clinical quality, patient experience, and financial goals in complex decisions
+- Leadership and team motivation, handling interpersonal conflict and change management
+- Emergency response and resource coordination for public health incidents
+- interprofessional communication and negotiation with physicians, nurses, and administrative staff
+- Ethical judgment: balancing AI recommendations with actual circumstances
+
+**Skills to build:**
+
+- Medical data analysis and business intelligence tools (e.g., Tableau, Power BI)
+- Basic AI/machine learning concepts and applications in medical operations
+- Advanced configuration and optimization of electronic health record (EHR) systems
+- Change management and digital transformation leadership
+- Healthcare policy and compliance knowledge (e.g., HIPAA, provincial health regulations)
+- Basic financial management and predictive modeling
+
+**Key growth areas:**
 
 - Aging population
 - Healthcare demand
@@ -61,68 +97,67 @@ Plan, direct, or coordinate medical and health services in hospitals, clinics, m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于获得学士及以上学位，受名额限制，需抽签。 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于拥有硕士或学士+5年经验，需PERM劳工证。 |
-| Subclass Green Card (PERM)（Permanent Residence via PERM） | 雇主担保永久移民，需证明劳工短缺。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to those with bachelor's degree or higher; subject to quota and lottery. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to those with a master's or bachelor's + 5 years experience, requires PERM labor certification. |
+| Subclass Green Card (PERM) (Permanent Residence via PERM) | Employer-sponsored permanent migration, must demonstrate labor shortage. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical and Health Services Managers？**
-- 有医疗或健康管理背景的专业人士
-- 具备领导力和沟通能力，希望从事管理岗位
-- 对改善医疗服务和患者体验有热情
-
-**谁不适合学Medical and Health Services Managers？**
-- 缺乏处理多任务和高压环境能力的人
-- 不喜欢频繁与人沟通和解决复杂问题的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with medical or health management background
+- Possesses leadership and communication skills, seeks management role
+- Passionate about improving healthcare services and patient experience
+
+**Who is not suited**
+- People lacking multitasking and high-pressure environment handling skills.
+- People who do not enjoy frequent communication and solving complex problems
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for medical and health services managers?**
+A: Salary varies by experience and organization size: entry-level approx. $60,000-$85,000, mid-level $85,000-$120,000, senior $120,000-$200,000. Higher in big cities and large hospitals.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Common for H-1B and EB-2/PERM green card pathways, shortage occupation, but PERM requires proof of labour shortage, and H-1B has quota limits.
+
+**Q: What education is needed to become a medical and health services manager?**
+A: Usually requires a bachelor's degree, but employers prefer a master's (MHA, MBA, or related field). Some positions require clinical background (e.g., nurse).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 极好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Medical and Health Services Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Medical and Health Services Managers?**
-答：Salaries vary by experience and organization size: entry-level $60,000-85,000, mid-level $85,000-120,000, senior $120,000-200,000. Higher in large cities and hospitals.
-
-**问：Is it easy to immigrate to the US as a Medical and Health Services Manager?**
-答：It is a common path via H-1B and EB-2/PERM. It is a shortage occupation, but PERM requires labor certification and H-1B has quota limits.
-
-**问：What education is required to become a Medical and Health Services Manager?**
-答：Typically a bachelor's degree, but employers prefer a master's (MHA, MBA, or related). Some roles require clinical background (e.g., nurse).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

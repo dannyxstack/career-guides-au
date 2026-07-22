@@ -1,58 +1,91 @@
-# Supervisors - Precision Engineering and Tool Technology（Supervisors - Precision Engineering and Tool Technology）职业分析 · DE
+# Supervisors - Precision Engineering and Tool Technology — career analysis · Germany
 
-**职业代码：2459 – Supervisors - Precision Engineering and Tool Technology。**
+**Occupation code: 2459 (KldB)**
 
-Oversees and coordinates skilled workers in precision engineering and tool technology, ensuring efficient production processes, quality standards, and daily team management.
+Responsible for supervising and coordinating skilled workers in precision engineering and toolmaking, ensuring efficient production processes, quality standards, and managing daily team operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间有工资，通常无学费） |
-| 技术员进修（Techniker） | 2年（全日制）或4年（在职） | $5,000~$15,000（公立学校费用低，部分州免费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Paid during training, usually no tuition fees) |
+| Advanced training for technicians (Techniker) | 2 years (full-time) or 4 years (part-time) | $5,000~$15,000 (Public schools have low fees, and some states offer free education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精密机械或工具技术领域双元制职业培训证书 | 德国工商会（IHK） | 必备 | 基础准入资格，通常需3年培训并通过结业考试 |
-| 主管资质（Ausbildereignungsprüfung） | 德国工商会（IHK） | 可选 | 担任主管通常需要此证书，可培训新员工 |
+| Dual vocational training certificate in precision mechanics or tool technology | German Chamber of Commerce and Industry (IHK) | Required | Basic entry qualification, typically requires 3 years of training and passing a final exam |
+| Trainer qualification (Ausbildereignungsprüfung) | German Chamber of Commerce and Industry (IHK) | Optional | This certificate is usually required to serve as a supervisor, can train new employees |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★½☆）。** 全国从业人数约 25,000。德国制造业持续依赖精密工程与工具技术，数字化转型带来新岗位需求，但就业稳定，受经济周期影响较小。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. Germany's manufacturing sector continues to rely on precision engineering and tool technology; digital transformation creates new job demand, but employment remains stable and less affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，取决于地区和企业规模 |
-| 中级（4-7年） | $44,000~$52,000 | 税前年薪，含绩效奖金 |
-| 高级（8年以上） | $52,000~$62,000 | 税前年薪，经验丰富者可更高 |
+| Median salary | $48,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary, depending on region and company size |
+| Mid-level (4-7 years) | $44,000~$52,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (8+ years) | $52,000~$62,000 | Pre-tax annual salary, higher for experienced candidates |
+| average salary | $50,856 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从技术工人晋升为主管，再至生产经理或技术总监，需积累经验并进修管理课程。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation oversees precision manufacturing; AI will enhance efficiency in automated scheduling and quality inspection, but human judgment in team management and anomaly handling remains irreplaceable, with overall impact mixed.
+
+Can progress from skilled worker to supervisor, then to production manager or technical director, requiring experience and management courses.
+
+**Tasks most exposed to AI:**
+
+- Use AI to automatically generate CNC machining programs and tool paths
+- Automatic detection and classification of workpiece surface defects using computer vision
+- Use machine learning to predict equipment failures and trigger maintenance work orders
+- Automatically generate production reports and quality statistical charts
+
+**Where AI augments the role:**
+
+- AI provides real-time production line data dashboards and anomaly alerts, aiding quick decision-making
+- Optimize machining parameters and scheduling based on historical data
+- Simulate new processes through digital twins, reducing trial-and-error costs
+- Smart assistant summarises meeting minutes and assigns tasks, boosting team management efficiency
+
+**Human moat:**
+
+- Practical experience in handling complex tolerance fits and multi-process coordination
+- On-site decision-making skills when facing sudden equipment failures or personnel conflicts
+- Deep understanding and enforcement supervision of industry standards and safety regulations
+- Efficient communication and negotiation with customers, suppliers, and design departments
+
+**Skills to build:**
+
+- Fundamentals of Industrial AI Applications (e.g., Machine Learning in Quality Inspection)
+- Digital twin and simulation software operation (e.g., Siemens NX, Arena)
+- Data analysis and visualization (Python/Power BI)
+- Deployment management of MES systems and Industrial Internet of Things (IIoT)
+- Human-machine collaboration process design and team digital training
+- Cross-domain technology integration and project management (e.g., Lean Six Sigma)
+
+**Key growth areas:**
 
 - Industry 4.0
 - Precision manufacturing
@@ -61,68 +94,67 @@ Oversees and coordinates skilled workers in precision engineering and tool techn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合高等教育背景，年薪门槛约43,800欧元（2024年），紧缺职业可降低 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适合完成德国认可的职业培训（双元制），需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，可在德国找一年工作 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education background; annual salary threshold approx. 43,800 euros (2024); may be lower for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for completing German recognized vocational training (dual system), requires employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing one year of job search in Germany |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors - Precision Engineering and Tool Technology？**
-- 喜欢动手操作和精密工作的人
-- 有领导潜力且愿意从技术岗位晋升的人
-- 愿意在制造业长期发展的人
-
-**谁不适合学Supervisors - Precision Engineering and Tool Technology？**
-- 对重复性工作缺乏耐心的人
-- 不喜欢在工业环境中工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and precision work
+- Those with leadership potential and willing to transition from technical roles
+- Those willing to develop long-term in manufacturing.
+
+**Who is not suited**
+- Those who lack patience for repetitive work
+- People who dislike working in industrial environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for a Precision Engineering and Tool Technology Manager in Germany?**
+A: Entry-level starting salary is about 35,000–42,000 euros/year (pre-tax), growing to over 52,000 euros with experience.
+
+**Q: How can foreigners become senior precision engineering supervisors in Germany through skilled migration?**
+A: Usually requires completing a recognized vocational training program (dual system) in Germany or having an equivalent overseas qualification and certification, then working via a Skilled Worker visa or EU Blue Card.
+
+**Q: What training is required to become a precision engineering supervisor?**
+A: Requires completion of a 3-year dual-system vocational training (e.g., precision machining or tool technology), then accumulate experience and obtain supervisor qualification (IHK).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors - Precision Engineering and Tool Technology的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for a supervisor in precision engineering and tool technology in Germany?**
-答：The starting salary is around €35,000-42,000 per year (gross), increasing to over €52,000 with experience.
-
-**问：How can foreigners migrate to Germany as a supervisor in precision engineering?**
-答：Typically, you need to complete a recognized German vocational training (dual system) or have equivalent overseas qualifications recognized, then apply for a Skilled Worker visa or EU Blue Card.
-
-**问：What training is required to become a supervisor in precision engineering?**
-答：You need to complete a 3-year dual vocational training in precision mechanics or tool technology, then gain experience and obtain a supervisor qualification (IHK).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

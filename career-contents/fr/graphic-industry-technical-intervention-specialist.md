@@ -1,60 +1,95 @@
-# Graphic Industry Technical Intervention Specialist（Graphic Industry Technical Intervention Specialist）职业分析 · FR
+# Graphic Industry Technical Intervention Specialist — career analysis · France
 
-**职业代码：E1308 – Graphic Industry Technical Intervention Specialist。**
+**Occupation code: E1308 (ROME)**
 
-Responsible for installation, maintenance, troubleshooting and repair of printing and graphic industry equipment. Requires mechanical and electrical knowledge of printing presses, cutters, binders, and related machinery.
+Responsible for installation, maintenance, commissioning, and troubleshooting of printing and imaging industrial equipment to ensure efficient production processes. It is necessary to master mechanical and electrical knowledge of equipment such as printing machines, paper cutters, and binding machines.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年技术文凭（BTS） | 2年（BTS） | $500~$3,000（公立学校学费低，私立约3000€/年） |
-| 职业高中文凭（CAP/Bac Pro） | 2-3年（CAP/Bac Pro） | —（公立学校免费，仅注册费） |
-| 学徒制（Alternance） | 1-2年 | —（学徒期间有工资，学费由企业承担） |
+| High school graduation + 2-year technical diploma (BTS) | 2 Years (BTS) | $500~$3,000 (Public school tuition is low, with private tuition around €3000 per year) |
+| Vocational High School Diploma (CAP/Bac Pro) | 2-3 years (CAP/Bac Pro) | $0~$1,000 (Public schools are free, with only a registration fee) |
+| Apprenticeship (Alternance) | 1-2 years | $0~$0 (During the apprenticeship, there is a salary, and tuition is covered by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印刷技术员职业认证（CQP） | 法国印刷工业协会（UNIIC） | 可选 | 可选认证，提升就业竞争力 |
-| 电气安全认证（Habilitation électrique） | 法国劳动部认可机构 | 必备 | 进行电气维护时必需 |
-| 高空作业证书（CACES R386） | 法国职业安全机构 | 可选 | 操作高空设备时需要 |
+| Electrical Safety Certification (Habilitation Électrique) | Recognized by the French Ministry of Labor | Required | Essential for electrical maintenance |
+| Printing Technician Professional Certification (CQP) | French Printing Industry Association (UNIIC) | Optional | Optional certifications to enhance employment competitiveness |
+| Aerial Work Certificate (CACES R386) | French occupational safety agency | Optional | Required when operating high-altitude equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国印刷行业持续数字化，传统印刷岗位趋于减少，但包装印刷、数字印刷领域仍有需求。持有多技能（机械+电气）的技术员更受欢迎。行业转型期，维护老旧设备与新技术兼容成为关键。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The French printing industry continues to digitize, with traditional printing positions decreasing, but demand remains in packaging printing and digital printing. Technicians with multiple skills (mechanical + electrical) are more popular. During industry transformation, maintaining compatibility between old equipment and new technologies has become key.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $23,000~$28,000 | 税前年薪，含奖金 |
-| 中级（4-8年） | $30,000~$36,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $38,000~$45,000 | 税前年薪，含奖金 |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $23,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4–8 years) | $30,000~$36,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $38,000~$45,000 | Annual pre-tax salary, including bonuses |
+| average salary | $31,784 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级技术员可通过学徒或BTS后入职，积累经验后晋升为团队主管或设备专家。部分转向数字印刷技术支持或设备销售。也可通过资质认证（如CQPM）提升专业度。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+Junior technicians can join after apprenticeship or BTS status, gaining experience and being promoted to team leader or equipment specialist. Some have shifted to digital printing technology support or equipment sales. You can also enhance your professionalism through qualification certifications (such as CQPM).
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Industrial maintenance
 - Digital printing
@@ -63,68 +98,67 @@ Responsible for installation, maintenance, troubleshooting and repair of printin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Work Permit (Salarié)） | 受雇工作居留，需法国雇主提供工作合同，并符合薪资和资质要求。 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适用于高技能人才或企业内调，需硕士以上学历或年薪超过40,000€。 |
-| Subclass Recherche emploi（Job Search Visa (Recherche d'emploi)） | 毕业生求职签证，允许在法停留1年找工作，找到后可转Salarié。 |
+| Subclass Salarié (Work Permit (Salarié)) | For employed work residence, a work contract must be provided by a French employer and meet salary and qualification requirements. |
+| Subclass Passeport Talent (Talent Passport) | Talent Passport, suitable for highly skilled professionals or internal transfers within companies, requires a master's degree or above, or an annual salary of over €40,000. |
+| Subclass Recherche emploi (Job Search Visa (Recherche d'emploi)) | Graduate job seeker visas allow you to stay in France for one year to look for work, and after finding one, you can transfer to Salarié. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Graphic Industry Technical Intervention Specialist？**
-- 偏好动手操作、喜欢技术维修工作的人
-- 对机械和电气都有兴趣，愿意学习多技能
-- 能适应倒班和现场工作环境
-
-**谁不适合学Graphic Industry Technical Intervention Specialist？**
-- 不喜欢体力劳动和油污环境的人
-- 希望完全远离一线车间、纯办公室工作的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prefer hands-on work and enjoy technical maintenance work
+- Interested in both mechanics and electrical engineering, willing to learn multiple skills
+- Able to adapt to shift and on-site work environments
+
+**Who is not suited**
+- People who dislike physical labor and greasy environments
+- Those who want to completely escape frontline workshops and pure office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for printing technicians in France?**
+A: Entry-level salary is about €23,000-28,000, intermediate salary €30,000-36,000, and senior salary €38,000-45,000 (pre-tax annual salary), with slight differences depending on company size and region.
+
+**Q: Can foreign technicians work in France through skilled immigration?**
+A: Yes. With a BTS or equivalent, find a French employer and apply via Salarié residence or Passeport Talent (annual salary above €40,000). EU citizens need no visa.
+
+**Q: Does France recognize foreign printing technology certificates?**
+A: Qualifications must be accredited (reconnaissance des qualifications), assessed by the French Academic Credentials Center (ENIC-NARIC). Some companies may require additional training or CQP certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Graphic Industry Technical Intervention Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a graphic industry technician in France?**
-答：Entry-level: €23,000-28,000, mid-level: €30,000-36,000, senior: €38,000-45,000 (gross annual). Varies by company size and region.
-
-**问：Can foreign technicians immigrate to France for this job?**
-答：Yes. With a BTS or equivalent, you can obtain a Salarié work permit or Talent Passport (salary >€40k). EU citizens have free movement.
-
-**问：Are foreign printing technician certificates recognized in France?**
-答：Requires qualification recognition via ENIC-NARIC. Some employers may require additional training or CQP certification.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

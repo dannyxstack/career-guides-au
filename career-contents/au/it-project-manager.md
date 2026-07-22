@@ -1,69 +1,99 @@
-# IT项目经理（ICT Managers）职业分析 · 澳大利亚
+# IT Project Manager — career analysis · Australia
 
-**职业代码：135111 – ICT Managers。**
+**Occupation code: 135111 (ANZSCO)**
 
-IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发、云迁移、数字化转型和政府IT系统。澳洲联邦数字化政府计划（Digital Government Strategy）和AUKUS国防IT项目推动持续高需求，是IT类职场晋升路径最宽广的岗位之一。
+IT project managers lead the planning, execution and delivery of technology projects, spanning software development, cloud migration, digital transformation and government IT systems. The Australian Government's Digital Government Strategy and AUKUS defence IT projects are driving sustained high demand, making this one of the broadest career advancement roles in IT.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science / Business（3~4年） | 3~4年（全日制） | $25,000~$160,000（IT背景学历是首选，MBA有助于晋升程序级PM） |
-| PMP（Project Management Professional）认证 | 3~6个月备考（需35小时培训+经验） | $800~$3,000（PMP考试费 $405（PMI会员）/ $555（非会员）；是IT PM的黄金认证） |
-| ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须，以ICT Manager类别评估） |
+| Bachelor of IT / Computer Science / Business (3–4 years) | 3–4 years (full-time) | $25,000~$160,000 (An IT background is preferred; an MBA helps when advancing to programme-level PM) |
+| PMP (Project Management Professional) certification | 3–6 months of exam preparation (requires 35 hours of training plus experience) | $800~$3,000 (PMP exam fee $405 (PMI member) / $555 (non-member); the gold-standard certification for IT project managers) |
+| ACS skills assessment (189/190 visa) | 2–6 months | $500~$1,500 (Required for skilled migration, assessed under the ICT Manager category) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PMP（Project Management Professional） | Project Management Institute (PMI) | 可选 | 全球最广泛认可的PM认证，澳洲IT PM岗位中约70%优先要求 |
-| PRINCE2 Practitioner | AXELOS/PeopleCert | 可选 | 政府IT项目广泛使用的项目管理框架认证 |
-| Certified SAFe Agilist / SAFe Program Consultant | Scaled Agile Inc. | 可选 | 大型企业Agile转型的核心认证，溢价明显 |
-| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| PMP（Project Management Professional） | Project Management Institute (PMI) | Optional | The most widely recognised PM certification globally, preferred by approximately 70% of IT PM roles in Australia |
+| PRINCE2 Practitioner | AXELOS/PeopleCert | Optional | Project management framework certification widely used in government IT projects |
+| Certified SAFe Agilist / SAFe Program Consultant | Scaled Agile Inc. | Optional | Core certification for Agile transformation in large enterprises, with a notable salary premium |
+| ACS Skills Assessment | Australian Computer Society | Optional | Required for skilled migration via 189/190 visa |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 75,000。JSA 预测ICT经理至2035年就业增长约18%。大型云迁移项目和联邦政府数字服务转型是主要驱动力，PMP/PRINCE2持有者供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. JSA forecasts approximately 18% employment growth for ICT Managers to 2035. Large-scale cloud migration projects and federal government digital services transformation are the main drivers; PMP/PRINCE2 holders are in short supply.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~4,500 个 | 全国，含IT PM、技术项目经理、Scrum Master和产品负责人岗 |
-| Indeed | 1,500~3,000 个 | 含政府、银行和大型企业IT项目岗 |
-| LinkedIn | 3,000~6,000 个 | 企业直招和猎头，合同岗比例高 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级IT PM / Scrum Master（0~3年） | $85,000~$105,000 | 含初级产品负责人和数字项目协调员 |
-| 中级IT PM（3~8年，PMP持有） | $110,000~$145,000 | SEEK 区间 $120k~$140k；Indeed 平均 $128,069（2026） |
-| 高级IT PM / 项目总监（8~15年） | $145,000~$190,000 | 大型程序交付和多项目组合管理，Glassdoor均值 $134,500 |
-| 程序总监 / CIO路径（15年+） | $190,000~$300,000 | 国防/联邦政府/大型银行CIO和程序总监级别 |
-| 合同IT PM（Day Rate） | $130,000~$260,000 | 合同IT PM日薪 $700~$1,100（年化约 $140k~$220k） |
+| Median salary | $172,120 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior IT PM / Scrum Master (0–3 years) | $85,000~$105,000 | Includes junior product owner and digital project coordinator roles |
+| Mid-level IT PM (3–8 years, PMP holder) | $110,000~$145,000 | SEEK range $120k–$140k; Indeed average $128,069 (2026) |
+| Senior IT PM / Project Director (8–15 years) | $145,000~$190,000 | Large-scale programme delivery and multi-project portfolio management, Glassdoor average $134,500 |
+| Programme Director / CIO Pathway (15+ years) | $190,000~$300,000 | Defence / Federal Government / Major Bank CIO and Programme Director Level |
+| Contract IT PM (Day Rate) | $130,000~$260,000 | Contract IT PM daily rate $700–$1,100 (annualised approx. $140k–$220k) |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角色与IT PM高度融合，混合型IT PM（技术背景+Agile认证）薪资溢价 $15k~$25k。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Core tasks of IT project managers (communication, decision-making, stakeholder management) are hard to replace by AI, but AI tools significantly boost efficiency in execution tasks like progress tracking, document generation, and risk prediction, potentially reducing demand for junior PM roles while senior roles require AI tool proficiency.
+
+Agile/SAFe frameworks have become the standard for IT projects in Australia. The Product Owner and Scrum Master roles are highly integrated with IT PM functions, and hybrid IT PMs (technical background + Agile certification) command a salary premium of $15k–$25k.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate project status reports and meeting minutes
+- Use AI for resource allocation conflict detection and give optimisation suggestions
+- Use machine learning to predict project delay risks and trigger automatic alerts.
+- Automatically organize JIRA/Asana tasks and generate burn-down charts
+- Basic question-answering project data queries (e.g., budget consumption, milestone completion rates)
+
+**Where AI augments the role:**
+
+- Using AI prediction models to quickly assess risk-return of different decision paths
+- Real-time cross-team key indicators via natural language query dashboards
+- Use AI meeting assistants to automatically transcribe and sync action items to kanban boards
+- Use generative AI to draft requirements documents, user stories, and acceptance criteria
+- Stakeholder communication rehearsal through simulated AI avatars
+
+**Human moat:**
+
+- Cross-department communication and conflict mediation skills.
+- Strategic priority judgment in uncertain environments
+- Intuitive insight into project vision and user value
+- Legal compliance and ethical responsibility
+- Team morale boosting and change management
+
+**Skills to build:**
+
+- Master AI project management tools (e.g., Asana AI, Jira AI extensions)
+- Learn basic prompt engineering to efficiently use Copilot/Claude for document generation
+- Understand machine learning model evaluation metrics (precision, recall, AUC) for risk prediction
+- Combine data visualization (Tableau/Power BI) with natural language query
+- Integration of Agile/DevOps with AI Continuous Integration/Continuous Delivery (CI/CD) processes
+- Trust building and ethical decision-making in stakeholder+AI interactions
+
+**Key growth areas:**
 
 - Digital Transformation Program Delivery
 - Agile & SAFe at Enterprise Scale
@@ -73,92 +103,87 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，IT PM/ICT Manager为短缺类别 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，ACT政府IT项目多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区IT PM岗，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; IT PM/ICT Manager is a shortage occupation category |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, ACT government has many IT projects |
+| Subclass 491 (Skilled Work Regional) | Regional IT PM roles — 15 bonus points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT项目经理？**
-- 有IT项目管理经验（3年以上），熟悉Agile/Scrum方法论
-- 持有PMP或PRINCE2认证，或正在备考
-- 英语沟通能力强（IELTS 7.0+ / PTE 65+，管理岗对英语要求高）
-- 有跨职能团队管理和stakeholder沟通经验
-- 目标是政府IT项目（稳定）或银行/金融数字化转型岗（高薪）
-
-**谁不适合学IT项目经理？**
-- 无实际IT项目交付经验（仅有开发背景，无管理经验）
-- 英语沟通能力较弱，无法主持会议和汇报
-- 不适应高压截止期和多方利益冲突的工作环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- 3+ years of IT project management experience, familiar with Agile/Scrum methodologies
+- Holds PMP or PRINCE2 certification, or currently preparing for it
+- Strong English communication skills (IELTS 7.0+ / PTE 65+; management roles have higher English requirements)
+- Experience managing cross-functional teams and stakeholder communication
+- Targeting government IT projects (stability) or banking/financial digital transformation roles (high salary)
+
+**Who is not suited**
+- No actual IT project delivery experience (development background only, no management experience)
+- Weak English communication skills; unable to chair meetings or deliver presentations
+- Not suited to those who struggle with high-pressure deadlines and competing stakeholder interests
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an IT project manager in Australia?**
+A: Mid-level IT PM approx. $110,000–$145,000 (Indeed average $128,069; Glassdoor average $134,500); Senior Project Director approx. $145k–$190k; Contract PM day rate $700–$1,100, annualised approx. $140k–$220k.
+
+**Q: Is it easy to find work as an IT Project Manager in Australia?**
+A: Easy (for those with PMP + Agile certification). Seek lists approx 2000-4500 positions, federal digital government plan and enterprise cloud migration projects continue to drive demand.
+
+**Q: Is IT project management experience from overseas recognised in Australia?**
+A: ACS skills assessment (managerial category) plus PMP/PRINCE2 international certification are fully recognised in Australia. It is important to demonstrate actual project delivery experience (using the STAR method to describe project scope, budget and outcomes).
+
+**Q: Will IT project managers be replaced by AI?**
+A: Low risk. AI tools assist with project schedule generation and risk identification, but stakeholder relationship management, political decision-making and cross-cultural team coordination are core value areas where AI cannot compete.
+
+**Q: Is there an age limit for IT project managers in Australia?**
+A: None. Extensive large-project delivery experience (10+ years) commands a significant market premium; senior PMs aged 40–55 are highly sought after by government agencies and large enterprises.
+
+**Q: What qualifications do IT project managers need in Australia?**
+A: An IT/CS/business-related bachelor's degree is standard; PMP certification carries significant weight for IT PM roles. ACS skills assessment requires relevant management qualifications or experience.
+
+**Q: Is it difficult to become a certified IT project manager in Australia (for migration purposes)?**
+A: Moderate difficulty. PMP exam requires approximately 3 months of preparation; ACS assessment has requirements for management experience; 189/190 EOI scores are favourable for experienced applicants. It is recommended to obtain PMP certification before applying for migration.
+
+**Q: Which is better for migrating to Australia — IT Project Manager or Software Engineer?**
+A: IT PMs earn slightly more (average $128k vs $110k), but have higher English language requirements; software engineers have a larger job market (approximately 2–3 times more positions) with a clearer migration pathway for technically skilled candidates. Those with management experience and an IT background should choose IT PM; those with a purely technical background should start with software engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | IT项目经理薪资 $120k~$140k（2026） |
-| Indeed AU | IT项目经理平均薪资 $128,069（2026） |
-| Glassdoor AU | IT项目经理平均薪资 $134,500（2026） |
-| ACS | 技能评估机构 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 很高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-IT项目经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲IT项目经理工资多少？**
-答：中级IT PM约 $110,000~$145,000（Indeed均值 $128,069；Glassdoor均值 $134,500）；高级项目总监约 $145k~$190k；合同PM日薪 $700~$1,100，年化约 $140k~$220k。
-
-**问：澳洲IT项目经理容易找工作吗？**
-答：容易（有PMP+Agile认证者）。Seek 挂牌约 2000~4500 个职位，联邦数字化政府计划和企业云迁移项目持续推高需求。
-
-**问：中国IT项目管理经验澳洲认可吗？**
-答：通过 ACS 技能评估（管理类）+ PMP/PRINCE2国际认证，在澳洲完全认可。重要的是要能证明有实际项目交付经验（用STAR方法描述项目规模、预算和成果）。
-
-**问：IT项目经理会被AI替代吗？**
-答：风险较低。AI工具辅助项目计划生成和风险识别，但stakeholder关系管理、政治决策和跨文化团队协调是AI无法胜任的核心价值。
-
-**问：澳洲IT项目经理有年龄限制吗？**
-答：无。丰富的大型项目交付经验（10年以上）在市场上具有高溢价，40~55岁的资深PM受政府和大企业青睐。
-
-**问：澳洲IT项目经理需要什么学历？**
-答：IT/CS/商科相关本科学历是主流，PMP认证对IT PM岗位权重非常高。ACS技能评估要求有管理类相关学历或经验。
-
-**问：澳洲IT项目经理认证（移民）难吗？**
-答：难度中等。PMP考试需要备考约3个月；ACS评估对管理类经验有要求；189/190 EOI分数对有经验者友好。建议先获取PMP再申请移民。
-
-**问：IT项目经理和软件工程师哪个更适合移民澳洲？**
-答：IT PM薪资略高（$128k vs $110k均值），英语要求更高；软件工程师就业量更大（职位数多约2~3倍），技术背景移民路径更清晰。有管理经验+IT背景者选IT PM，纯技术背景者先选软件工程师。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

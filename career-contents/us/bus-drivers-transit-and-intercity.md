@@ -1,61 +1,97 @@
-# Bus Drivers, Transit and Intercity（Bus Drivers, Transit and Intercity）职业分析 · 美国
+# Bus Drivers, Transit and Intercity — career analysis · United States
 
-**职业代码：53-3052 – Bus Drivers, Transit and Intercity。**
+**Occupation code: 53-3052 (SOC)**
 
-Drive bus or motor coach, including regular route operations, charters, and private carriage. May assist passengers with baggage or collect fares.
+Driving buses or long-distance coaches, including fixed-route operations, charters, and private transport, possibly assisting passengers with luggage or collecting fares.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 商业驾驶执照（CDL）培训 | 3-8周 | $3,000~$10,000（包含理论及实操培训） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Commercial Driver's License (CDL) training | 3-8 weeks | $3,000~$10,000 (Includes theoretical and practical training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业驾驶执照（CDL） | 州机动车管理局（DMV） | 必备 | 需通过笔试和路考，部分需要乘客（P）和空气制动（S）背书 |
-| 药物与酒精测试 | 美国交通部（DOT） | 必备 | 上岗前及随机检测 |
-| 背景调查 | 雇主 | 必备 | 包括犯罪记录和驾驶记录审查 |
+| Commercial Driver's License (CDL) | State Department of Motor Vehicles (DMV) | Required | Requires written and practical driving tests; some need passenger (P) and air brake (S) endorsements |
+| Drug and alcohol testing | US Department of Transportation (DOT) | Required | Pre-employment and random testing |
+| Background check | Employer | Required | Includes criminal record and driving record checks |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 202,300。美国公交司机需求稳定，受公共交通投资和人口老龄化影响，就业增长约6%（2022-2032），但自动化和远程办公可能抑制需求。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 202,300. US bus driver demand is stable, influenced by public transit investment and an aging population, with employment growth of about 6% (2022-2032), but automation and remote work may dampen demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 取决于地区和雇主 |
-| 中级（3-10年） | $42,000~$55,000 | 含加班和福利 |
-| 高级（10年以上） | $55,000~$70,000 | 含主管或特殊路线津贴 |
+| Median salary | $59,050 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Depends on region and employer |
+| Intermediate (3-10 years) | $42,000~$55,000 | Including overtime and benefits |
+| Senior (10+ years) | $55,000~$70,000 | Including supervisor or special route allowances |
+| average salary | $60,280 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级司机晋升为路线调度员、培训师或车队主管，部分州要求通过CDL考试和入职培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Can advance from entry-level driver to route scheduler, trainer, or fleet supervisor; some states require passing CDL exam and onboarding training.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Stable demand
 - Public transit investment
@@ -64,65 +100,67 @@ Drive bus or motor coach, including regular route operations, charters, and priv
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 适用于季节性公交司机，但名额限制且需雇主担保，非移民类常见路径。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-3)） | 理论上可申请EB-3，但需证明劳工短缺，实际很少用于公交司机。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Applicable to seasonal bus drivers, but with limited quotas and requires employer sponsorship; not a common immigration path. |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Theoretically eligible for EB-3, but must prove labor shortage; rarely used for bus drivers in practice. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bus Drivers, Transit and Intercity？**
-- 喜欢驾驶且责任心强的人
-- 能够适应不规律作息和长时间坐姿
-- 具备良好沟通和客户服务能力
+**Who is suited**
+- Those who enjoy driving and have a strong sense of responsibility
+- Able to adapt to irregular hours and long periods of sitting
+- Strong communication and customer service skills
 
-**谁不适合学Bus Drivers, Transit and Intercity？**
-- 无法承受久坐或不规则工作时间
-- 寻求高收入或快速职业晋升者
+**Who is not suited**
+- Cannot tolerate prolonged sitting or irregular working hours
+- Those seeking high income or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a bus driver?**
+A: Depending on experience, annual salary is approximately $32,000-$70,000 USD, with overtime increasing income and significant regional variation.
+
+**Q: Can bus drivers apply for a US green card?**
+A: Very difficult. This occupation usually does not meet H-1B requirements, EB-3 green cards require PERM but are rarely approved, H-2B is limited to seasonal positions.
+
+**Q: What education is required to become a bus driver?**
+A: Usually high school diploma plus commercial driver's license (CDL) training, training duration 3-8 weeks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
-
-Bus Drivers, Transit and Intercity属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for bus drivers?**
-答：Annual salary ranges from $32,000 to $70,000 depending on experience and location; overtime can increase earnings.
-
-**问：Can bus drivers obtain a US green card?**
-答：Very difficult. This occupation rarely qualifies for H-1B, EB-3 green card via PERM is uncommon, and H-2B is only for seasonal positions.
-
-**问：What education is required to become a bus driver?**
-答：Typically a high school diploma plus CDL training (3-8 weeks).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# First-Line Supervisors of Non-Retail Sales Workers（First-Line Supervisors of Non-Retail Sales Workers）职业分析 · 美国
+# First-Line Supervisors of Non-Retail Sales Workers — career analysis · United States
 
-**职业代码：41-1012 – First-Line Supervisors of Non-Retail Sales Workers。**
+**Occupation code: 41-1012 (SOC)**
 
-Directly supervise and coordinate activities of sales workers other than retail sales workers. May perform duties such as budgeting, accounting, and personnel work, in addition to supervisory duties.
+Directly supervise and coordinate activities of non-retail sales workers; in addition to supervisory duties, may perform budgeting, accounting, and personnel work.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 学士学位（商业/市场营销等） | 4年 | $20,000~$80,000（公立大学年均学费约$10,000-$20,000；私立更高） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Bachelor's degree (business/marketing, etc.) | 4 years | $20,000~$80,000 (Average annual tuition at public universities is about $10,000-$20,000; private is higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 最低要求 |
-| 相关工作经验 | 雇主 | 必备 | 通常需要多年销售经验 |
+| High school diploma or equivalent | High school | Required | Minimum requirements |
+| Relevant work experience | Employer | Required | Typically requires years of sales experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 172,600。美国劳工统计局预计2022-2032年该职业就业增长约4%，与所有职业平均水平相当。商业服务、批发贸易等行业需求稳定，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 172,600. The US Bureau of Labor Statistics projects employment growth for this occupation at about 4% from 2022 to 2032, about as fast as the average for all occupations. Demand is stable in business services, wholesale trade, etc., but competition is strong.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 包括入门级主管 |
-| 中级（4-9年） | $65,000~$90,000 | 有经验的主管 |
-| 高级（10年以上） | $90,000~$130,000 | 资深或大区主管 |
+| Median salary | $87,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Includes entry-level supervisor |
+| Intermediate (4-9 years) | $65,000~$90,000 | Experienced supervisor |
+| Senior (10+ years) | $90,000~$130,000 | Senior or regional supervisor |
+| average salary | $99,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级销售代表可晋升为主管，进而晋升为区域销售经理、销售总监等高级管理职位。通常需要多年销售经验和管理能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Retail and wholesale trade managers' decision-making and relationship management are hard to replace, but tasks like data analysis and inventory monitoring are easily optimized by AI; the role has mixed impacts.
+
+Junior sales reps can advance to supervisor, then to Regional Sales Manager, Sales Director, and other senior management roles. Usually requires years of sales experience and management skills.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate sales reports and inventory forecasts
+- Standardized order processing and vendor communication
+- Basic financial reconciliation and performance analysis
+- Regular employee scheduling and task allocation
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer behaviour and optimize pricing strategies
+- Improve customer relationship management efficiency through AI-driven CRM
+- Managing supply chain risks using predictive analytics
+- Leverage automation tools for personalized marketing
+
+**Human moat:**
+
+- Handling complex negotiations and supplier relationship building
+- On-site decision-making ability to handle emergencies
+- Team motivation and talent development
+- Cross-departmental coordination and strategic planning
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., advanced Excel, Power BI)
+- Supply chain management software (e.g., SAP, Oracle)
+- AI tool application (e.g., predictive analytics, ChatGPT)
+- Digital Marketing and Customer Analytics
+- Agile management and change leadership
+- Basic programming (e.g., Python for automated reporting)
+
+**Key growth areas:**
 
 - moderate growth
 - sales management
@@ -63,66 +96,68 @@ Directly supervise and coordinate activities of sales workers other than retail 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学士学位，雇主担保，有配额限制和抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需高级学位或特殊能力，通过PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或同等经验，通过PERM劳工认证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree, employer sponsorship, with quota limits and lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires advanced degree or exceptional ability, via PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to a bachelor's degree or equivalent experience, through PERM labor certification |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Non-Retail Sales Workers？**
-- 有销售经验并希望进入管理层的人
-- 擅长团队激励和业绩管理的人
-- 具备较强沟通协调能力的人
+**Who is suited**
+- People with sales experience looking to move into management
+- People skilled in team motivation and performance management
+- Those with strong communication and coordination skills
 
-**谁不适合学First-Line Supervisors of Non-Retail Sales Workers？**
-- 不喜欢监督他人或处理人事问题的人
-- 偏好独立工作不愿承担管理责任的人
+**Who is not suited**
+- Those who dislike supervising others or dealing with personnel issues
+- People who prefer independent work and do not want to take on management responsibilities.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for non-retail sales supervisors?**
+A: According to BLS data, median annual salary in 2022 was about $69,000, entry-level about $45,000-$65,000, experienced can exceed $100,000.
+
+**Q: Can non-retail sales supervisors apply for a US work visa?**
+A: Theoretically possible via H-1B or EB-3 green card, but the occupation is not a professional specialty, and employers must prove inability to find qualified US workers, making applications difficult. Usually requires a bachelor's degree.
+
+**Q: What is the career progression path for a non-retail sales supervisor?**
+A: Common career progression: Sales Representative -> Sales Supervisor -> Regional Sales Manager -> Sales Director. Requires accumulating sales performance and management experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-First-Line Supervisors of Non-Retail Sales Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for First-Line Supervisors of Non-Retail Sales Workers?**
-答：According to BLS, the median annual wage in 2022 was about $69,000; entry-level salaries range $45,000-$65,000, and experienced supervisors can earn over $100,000.
-
-**问：Can First-Line Supervisors of Non-Retail Sales Workers get a US work visa?**
-答：Theoretically possible via H-1B or EB-3 green card, but the occupation is not a specialty occupation, and employers must prove no qualified US workers are available. A bachelor's degree is typically required.
-
-**问：What is the career progression for First-Line Supervisors of Non-Retail Sales Workers?**
-答：Typical path: sales representative -> sales supervisor -> regional sales manager -> sales director. Requires sales performance and management experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

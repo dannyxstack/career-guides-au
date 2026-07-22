@@ -1,59 +1,94 @@
-# Building Frame and Related Trades Workers Not Elsewhere Classified（Building Frame and Related Trades Workers Not Elsewhere Classified）职业分析 · NL
+# Building Frame and Related Trades Workers Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：7119 – Building Frame and Related Trades Workers Not Elsewhere Classified。**
+**Occupation code: 7119 (ISCO08)**
 
-This occupation covers workers engaged in building frame construction, scaffolding, formwork installation, and related trades not elsewhere classified. They work on residential, commercial, and industrial construction sites.
+This occupation covers workers engaged in building framework construction, scaffolding erection, formwork installation, etc., not elsewhere classified. They work on residential, commercial, and industrial construction sites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（荷兰公立学校学费低，部分课程免费） |
-| 在职培训/学徒制 | 2-4年 | —（学徒期间有工资，学费补贴） |
+| Secondary vocational education | 2-3 years | $0~$2,000 (Public schools in the Netherlands have low tuition fees, and some courses are free) |
+| On-the-job training/apprenticeship | 2-4 years | $0~$500 (Apprentices receive wages and tuition subsidies during the apprenticeship.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑职业资格证书 | 荷兰建筑行业委员会 | 可选 | 证明达到国家职业标准 |
-| VCA安全证书 | 荷兰安全机构 | 必备 | 基本安全培训证书，许多工地强制要求 |
-| 脚手架操作证 | 认证培训机构 | 可选 | 特定脚手架工作需持有 |
+| VCA safety certificate | Dutch Security Agency | Required | Basic safety training certificate, mandatory on many construction sites |
+| Building professional qualification certificate | Netherlands Building Industry Council | Optional | Demonstrate achievement of national occupational standards |
+| Scaffolding operation certificate | Accredited training organization | Optional | Requires holding a specific scaffolding license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。荷兰建筑业持续增长，尤其是住宅和基础设施项目，导致对建筑框架工人的需求稳定。预计未来几年就业机会保持良好。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The Dutch construction industry continues to grow, especially in residential and infrastructure projects, leading to stable demand for building frame workers. Job opportunities are expected to remain good in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $34,000~$42,000 | 税前年薪，取决于证书和技能 |
-| 高级（7年以上） | $42,000~$52,000 | 税前年薪，含工头或专家职位 |
+| Median salary | $44,855 | Median salary (official: CBS median hourly wage €22.7/hour × 1,976h annualized, BRC group 0731 Bouwarbeiders ruwbouw; P25–P75 €35,568–€55,328, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $34,000~$42,000 | Pre-tax annual salary, depends on certifications and skills |
+| Senior (7+ years) | $42,000~$52,000 | Pre-tax annual salary, includes foreman or specialist positions |
+| average salary | $38,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 工人可通过积累经验晋升为工头或监督员，或进一步培训成为建筑技师、项目经理。也可专注于特定技能如脚手架专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Other workers in building framework and related industries high risk: automated tools will gradually take over structured tasks such as measuring, cutting, and template design, reducing entry-level positions.
+
+Workers can advance to foreman or supervisor through experience, or further train to become building technician or project manager. They can also specialize in skills like scaffolding expertise.
+
+**Tasks most exposed to AI:**
+
+- Use laser distance meters and total stations for on-site measurement and setting out
+- Manual calculation of material sizes and quantities from drawings
+- Operating single-function equipment like saws and rebar benders for repetitive cutting
+- Standardized connector installation in scaffolding construction (e.g., fastener tightening)
+- Dismantling and simple repair of construction formwork
+
+**Where AI augments the role:**
+
+- Use BIM software for 3D modeling and clash detection
+- Operate intelligent equipment such as CNC rebar benders and automatic formwork systems
+- Use drones and scanners for construction progress monitoring and measurement verification
+- Coordinate prefabricated component delivery and installation sequence via project management platforms.
+
+**Human moat:**
+
+- On-site safety judgment and emergency handling
+- Custom installation and adjustment of complex irregular components
+- Communication and coordination when multiple trades work together
+- Intuitive judgment of structural stability and construction quality
+- Flexible adaptability in harsh or unstable environments
+
+**Skills to build:**
+
+- BIM (Building Information Modeling) basic operations
+- CNC equipment programming and operation (e.g., rebar processing robots)
+- Drone aerial photography and 3D modeling data analysis
+- Use of smart safety monitoring systems (e.g., wearable devices)
+- Use of project management software (e.g., Procore, PlanGrid)
+- Basic data analysis and report writing skills
+
+**Key growth areas:**
 
 - Construction Boom
 - Infrastructure Projects
@@ -62,69 +97,68 @@ This occupation covers workers engaged in building frame construction, scaffoldi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，年薪门槛约€5万，需雇主担保 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (Kennismigrant)） | 适用于高技术移民，年薪门槛约€4万（30岁以下）或€5.6万，需雇主担保 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于荷兰毕业或世界前200高校毕业生，可自由工作一年 |
-| Subclass EU自由流动（EU/EEA Freedom of Movement） | 欧盟公民无需签证，可自由在荷兰工作 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, annual salary threshold around EUR 50,000, requires employer sponsorship |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applicable for skilled migrants, with an annual salary threshold of approx. €40,000 (under 30) or €56,000, requiring employer sponsorship |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to graduates from Dutch or world top 200 universities, allowing one year of free work. |
+| Subclass EU free movement (EU/EEA Freedom of Movement) | EU citizens do not need a visa and can work freely in the Netherlands |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Frame and Related Trades Workers Not Elsewhere Classified？**
-- 喜欢户外体力工作、动手能力强的人
-- 有建筑行业经验或学徒背景的人
-- 愿意通过培训提升技能的人
-
-**谁不适合学Building Frame and Related Trades Workers Not Elsewhere Classified？**
-- 偏好办公室工作、不喜欢体力劳动的人
-- 对高空作业或危险环境感到不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor physical work and has strong hands-on skills
+- People with construction industry experience or an apprenticeship background
+- People willing to upgrade skills through training
+
+**Who is not suited**
+- Those who prefer office work and dislike physical labor
+- People who are uncomfortable with working at heights or in hazardous environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a construction framer?**
+A: Annual salary for junior workers is approximately €28,000-34,000, intermediate €34,000-42,000, and senior up to €52,000. Overtime and allowances can increase income.
+
+**Q: How can non-EU citizens immigrate to the Netherlands as construction workers?**
+A: Can apply via the Highly Skilled Migrant (kennismigrant) or EU Blue Card, but requires employer sponsorship and meeting the salary threshold. Alternatively, study first and then apply for the orientation year. EU citizens have free movement.
+
+**Q: What are the career progression paths for construction frame workers?**
+A: Can advance to foreman, supervisor, or further train to become construction technician, project manager. May also specialize in scaffolding, formwork and other subfields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Building Frame and Related Trades Workers Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for building frame workers?**
-答：Entry-level workers earn €28,000-34,000, mid-level €34,000-42,000, and senior up to €52,000 per year before tax. Overtime and allowances can increase income.
-
-**问：How can non-EU citizens immigrate as building workers?**
-答：Via Highly Skilled Migrant or EU Blue Card with employer sponsorship and salary threshold. Alternatively, study in NL then Orientation Year. EU citizens have free movement.
-
-**问：What is the career progression for building frame workers?**
-答：Advance to foreman, supervisor, or through further training to building technician or project manager. Specialization in scaffolding or formwork is also possible.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Brass Musical Instrument Maker（Brass Musical Instrument Maker）职业分析 · DE
+# Brass Musical Instrument Maker — career analysis · Germany
 
-**职业代码：9363 – Brass Musical Instrument Maker。**
+**Occupation code: 9363 (KldB)**
 
-Brass musical instrument makers handcraft, repair, and tune brass instruments like trumpets and trombones, involving metalwork, soldering, polishing, and acoustic adjustments.
+A brass instrument maker handcrafts, repairs, and tunes brass instruments such as trumpets and trombones, involving metalworking, welding, polishing, and acoustic tuning.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育 | 3年（双元制） | —（企业承担学费，每月津贴约800-1200欧元） |
-| 师傅学位（Meister） | 2年（兼读） | $2,000~$5,000（课程费用，部分由政府补贴） |
+| Dual vocational education and training | 3 years (dual system) | $0~$500 (Employer covers tuition; monthly allowance approx. €800-1,200.) |
+| Master craftsman qualification (Meister) | 2 years (part-time) | $2,000~$5,000 (Course fees, partially subsidized by government) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 铜管乐器制造师职业资格 | 德国工商业行会（IHK） | 必备 | 通过Ausbildung毕业考试获得 |
-| 师傅证书（Meisterbrief） | 德国手工业协会（HWK） | 可选 | 可独立开业和带徒 |
+| Brass instrument maker qualification | German Chamber of Commerce and Industry (IHK) | Required | Obtained by passing the Ausbildung final examination |
+| Master craftsman certificate (Meisterbrief) | German Chamber of Crafts (HWK) | Optional | Can independently practice and take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。德国传统手工艺行业对高质量铜管乐器需求稳定，但从业人数少，老龄化严重，未来10年约40%技师退休，人才缺口大。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. Demand for high-quality brass instruments in Germany's traditional handicraft industry is stable, but the workforce is small and aging. About 40% of technicians will retire in 10 years, creating a large talent gap.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，培训后起薪 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练技师 |
-| 高级（7年以上） | $45,000~$60,000 | 师傅或工作室主理人 |
+| Median salary | $33,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, starting salary after training |
+| Mid-level (3–7 years) | $35,000~$45,000 | Skilled Technician |
+| Senior (7+ years) | $45,000~$60,000 | Master or Studio Owner |
+| average salary | $37,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从助理技师起步，通过3年双元制培训（Ausbildung）成为熟练工，之后可升任师傅（Meister）或自营工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Copper wind instrument makers face a mixed impact from AI and automation: standardised manufacturing will be compressed, but high-end customisation, acoustic tuning, and repair—which rely on experience and hand skills—will be enhanced by AI, raising the career threshold and concentrating opportunities for tech-savvy talent.
+
+Start as an assistant technician, become a skilled worker through a 3-year dual vocational training program (Ausbildung), then advance to master craftsman (Meister) or run your own workshop.
+
+**Tasks most exposed to AI:**
+
+- CNC cutting and forming of standard-sized pipes
+- Batch welding and brazing operations
+- Surface polishing and grinding (polishing robot)
+- Basic pitch test (automated acoustic detection)
+- Material inventory and order management (ERP system)
+
+**Where AI augments the role:**
+
+- Acoustic tuning and timbre optimization (AI-assisted acoustic simulation)
+- 3D modeling and printing of complex curves and custom parts
+- Repair diagnosis (AI spectrum analysis + expert system)
+- Database query for instrument history and restoration proposals
+- AI-generated prototype design for customer customization needs.
+
+**Human moat:**
+
+- Intuition and feel for the acoustic physics of musical instruments
+- Skill and patience in manual adjustment and fine-tuning
+- Empathy to communicate aesthetic needs with musician clients
+- Creativity in custom non-standard instrument making and art-level restoration
+- Flexibility and problem-solving skills in on-site repairs
+
+**Skills to build:**
+
+- 3D CAD modeling (e.g., Fusion 360).
+- CNC machine operation and programming
+- Use of acoustic measurement and simulation software
+- Laser welding and precision welding techniques
+- Additive manufacturing (metal 3D printing)
+- Fundamentals of vibration and acoustic physics
+
+**Key growth areas:**
 
 - artisan craftsmanship
 - specialized manufacturing
@@ -63,66 +99,65 @@ Brass musical instrument makers handcraft, repair, and tune brass instruments li
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act Employment Visa） | 适用于具有德国认可职业资格的技术工人，需获得雇主合同 |
-| Subclass Recognition of Quali（Qualification Recognition Visa） | 用于资质认证，可先入境找雇主 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用，因薪资可能未达门槛 |
+| Subclass Skilled Worker (Skilled Immigration Act Employment Visa) | Applicable to skilled workers with a recognized German vocational qualification, requiring an employer contract |
+| Subclass Recognition of Quali (Qualification Recognition Visa) | For qualification certification, can enter the country first to find an employer. |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as salary may not meet the threshold |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Brass Musical Instrument Maker？**
-- 对手工技艺有热情的人
-- 注重细节和耐心的人
-- 有音乐背景并想从事制造业的人
-
-**谁不适合学Brass Musical Instrument Maker？**
-- 寻求快速高薪的人
-- 不擅长精细手工或重复性工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a passion for handcrafts
+- Detail-oriented and patient people
+- Someone with a music background who wants to work in manufacturing
+
+**Who is not suited**
+- Those seeking quick money and high pay
+- Not suitable for those who are not good at fine manual or repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for brass instrument makers?**
+A: Annual salary: junior approx. €28,000–35,000, mid-level approx. €35,000–45,000, senior (master level) up to €45,000–60,000, varying by region and studio size.
+
+**Q: How to get foreign qualifications certified in Germany?**
+A: Must apply for qualification recognition (Anerkennung) from the German Chamber of Crafts (HWK), typically requiring submission of training certificates, work experience, and passing a skills test or supplementary courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Brass Musical Instrument Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for brass instrument makers?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €35,000-45,000, and senior (master level) can reach €45,000-60,000, varying by region and workshop size.
-
-**问：How can foreign qualifications be recognized in Germany?**
-答：You need to apply for recognition (Anerkennung) from the German Chamber of Crafts (HWK), typically submitting training certificates, work experience, and passing a skills test or remedial courses.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

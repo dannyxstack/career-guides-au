@@ -1,61 +1,96 @@
-# Artillery and Missile Officers（Artillery and Missile Officers）职业分析 · 美国
+# Artillery and Missile Officers — career analysis · United States
 
-**职业代码：55-1014 – Artillery and Missile Officers。**
+**Occupation code: 55-1014 (SOC)**
 
-Manage personnel and weapons operations to destroy enemy positions, aircraft, and vessels through planning, targeting, and coordination.
+Command and manage artillery and missile units, responsible for tactical deployment, target engagement, and fire coordination.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：Mild（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 军官培训项目 | 4年 | —（ROTC或军校通常免费或提供奖学金） |
-| 军事专业课程 | 1年 | —（军方提供培训，无需自费） |
+| Officer training program | 4 years | $0~$50,000 (ROTC or military academies are typically free or offer scholarships) |
+| Military specialized courses | 1 year | $0~$0 (Military provides training, no self-funding required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：Moderate（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 大学或军事院校 | 必备 | 通常要求，军事研究或相关领域 |
-| 军官任命 | 美国陆军 | 必备 | 完成ROTC或军官候选人学校 |
-| 安全审查 | 国防部 | 必备 | 需最高机密级别安全许可 |
+| Bachelor's degree | University or military academy | Required | Usually required, military research or related field |
+| Officer appointment | United States Army | Required | Complete ROTC or Officer Candidate School |
+| Security clearance | Department of Defense | Required | Requires Top Secret security clearance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：Stable（★★½☆☆）。** 全国从业人数约 15,000。受国防预算和军事战略影响，就业稳定但需求适中。军队精简可能限制增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Affected by defense budgets and military strategy, employment is stable but demand is moderate. Military downsizing may limit growth.
 
-**竞争度：Moderate（★★½☆☆）。**
-**工作强度：High（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（O-1至O-2，0-3年） | $40,000~$65,000 | 基础工资加津贴 |
-| 中级（O-3至O-4，4-10年） | $70,000~$100,000 | 含住房和特殊津贴 |
-| 高级（O-5以上，10+年） | $110,000~$160,000 | 含各种津贴和福利 |
+| Median salary | $85,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (O-1 to O-2, 0-3 years) | $40,000~$65,000 | Base salary plus allowances |
+| Mid-level (O-3 to O-4, 4–10 years) | $70,000~$100,000 | Includes housing and special allowances |
+| Senior (O-5 and above, 10+ years) | $110,000~$160,000 | Includes various allowances and benefits |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：Average（★★½☆☆）。** 晋升路径：从排长到连、营级指挥官，可升至高级参谋或将军。需军事院校培训和服役经验。
-**AI替代风险：Low（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance artillery and missile officers' decision support and data processing capabilities (target identification, fire planning), but core command, safety, and tactical decision responsibilities are hard to replace; entry-level roles may be reduced due to automated simulation training, but real-world experience requirements remain.
+
+Career progression: from platoon leader to company/regimental commander, up to senior staff officer or general. Requires military academy training and service experience.
+
+**Tasks most exposed to AI:**
+
+- Manual target coordinate calculation and ballistic solution (AI automated)
+- Routine fire planning (AI generates plans, human confirms)
+- Preliminary screening and classification of battlefield sensor data (AI automated processing)
+- Standardized firing data setting and adjustment (automated fire control system)
+- Daily documentation and report generation (AI-assisted writing)
+
+**Where AI augments the role:**
+
+- Real-time battlefield situation fusion and intelligent threat assessment (AI aggregating multi-source data)
+- Dynamic fire allocation and rapid strike plan optimization (AI simulation)
+- Automatic target recognition and tracking (AI vision and radar analysis)
+- Logistics and ammunition supply forecasting (AI inventory and logistics models).
+- AI opponent simulation for training and exercises (enhancing tactical decision-making)
+
+**Human moat:**
+
+- Command decision-making responsibility (tactical judgment, rules of engagement, civilian protection)
+- Battlefield leadership and team morale maintenance (human emotion and trust)
+- Complex ethical and legal decisions (authorization to fire, collateral damage assessment)
+- adaptability in unpredictable environments (grey decisions during communication failures)
+- Strategic communication with superiors, allies, and political levels
+
+**Skills to build:**
+
+- AI decision support system operation and battlefield data interpretation
+- Coordinated command of automated fire control and unmanned platforms
+- Cybersecurity and electronic warfare fundamentals (defending against AI disruption)
+- Advanced combined arms tactics analysis and command
+- Data-driven intelligence analysis and situational understanding
+- Human-computer interaction and AI trust management
+
+**Key growth areas:**
 
 - Military Leadership
 - Artillery Systems
@@ -64,65 +99,67 @@ Manage personnel and weapons operations to destroy enemy positions, aircraft, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少适用，仅少数民事岗位可能申请 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 通常不对外国军官开放，需特别豁免 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable, only a few civil positions may apply |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Usually not open to foreign military officers; special exemptions required |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artillery and Missile Officers？**
-- 有领导力和决策能力
-- 能承受高压和军事纪律
-- 服役意愿强
+**Who is suited**
+- Possess leadership and decision-making skills
+- Able to withstand high pressure and military discipline
+- Strong willingness to serve
 
-**谁不适合学Artillery and Missile Officers？**
-- 不愿接受严格军事管理
-- 无法适应移动和危险环境
+**Who is not suited**
+- Unwilling to accept strict military discipline
+- Cannot adapt to mobile and hazardous environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for an artillery and missile officer?**
+A: Entry-level approximately USD 40,000-65,000, mid-level USD 70,000-100,000, senior USD 110,000-160,000, plus allowances.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: Almost impossible. Generally only U.S. citizens can hold this position; in rare cases, non-citizens may use H-1B but it is extremely uncommon.
+
+**Q: What are the career progression paths for a artillery officer?**
+A: From platoon leader to company, battalion commander, up to brigade or higher staff positions; requires completion of military education and service.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | High（★★★★☆） |
-| 学习难度 | Mild（★★☆☆☆） |
-| 考证难度 | Moderate（★★½☆☆） |
-| 职位需求量 | Stable（★★½☆☆） |
-| 竞争度 | Moderate（★★½☆☆） |
-| 收入水平 | Moderate（★★½☆☆） |
-| 工作强度 | High（★★★★☆） |
-| 发展前景 | Average（★★½☆☆） |
-| AI替代风险 | Low（★☆☆☆☆） |
-| PR友好度 | Very Low（½☆☆☆☆） |
-| PR难度 | Extremely High（★★★★★） |
-
-Artillery and Missile Officers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for artillery and missile officers?**
-答：Entry-level: $40k-$65k; mid-level: $70k-$100k; senior: $110k-$160k plus allowances.
-
-**问：Can foreigners immigrate to the US through this occupation?**
-答：Almost impossible. Typically requires US citizenship; rare exceptions via H-1B for civilian roles.
-
-**问：What are the promotion paths for artillery officers?**
-答：From platoon leader to company, battalion commander; up to brigade or senior staff, requiring military education and service.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

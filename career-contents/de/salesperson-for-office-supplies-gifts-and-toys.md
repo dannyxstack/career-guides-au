@@ -1,60 +1,96 @@
-# Salesperson for Office Supplies, Gifts and Toys（Salesperson for Office Supplies, Gifts and Toys）职业分析 · DE
+# Salesperson for Office Supplies, Gifts and Toys — career analysis · Germany
 
-**职业代码：6223 – Salesperson for Office Supplies, Gifts and Toys。**
+**Occupation code: 6223 (KldB)**
 
-Sells office supplies, gifts, and toys in retail or wholesale settings, handling customer advice, product display, and cashier duties.
+Sells office supplies, gifts, and toys in retail stores or wholesale markets, including product display, customer consultation, and cashier duties.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2-3年 | —（双元制培训期间有工资，通常无需学费） |
-| 短期上岗培训 | 1-3个月 | —（部分雇主提供内部培训，无培训费） |
+| Vocational training (dual system) | 2-3 years | $0~$500 (Dual-system training provides a salary, usually no tuition fees) |
+| Short-term on-the-job training | 1-3 months. | $0~$200 (Some employers provide in-house training at no cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 此职业不受监管，无需官方认证 |
-| 零售销售员资格证书 | 德国工商会(IHK) | 可选 | 完成双元制培训后获得，提升就业竞争力 |
+| No mandatory requirements | None | Optional | This occupation is unregulated and does not require official certification |
+| Retail salesperson qualification | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing dual training; enhances employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 30,000。德国零售业受电商冲击，但礼品和玩具店在旅游区维持需求。就业岗位稳定，晋升有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 30,000. The German retail industry is impacted by e-commerce, but gift and toy stores maintain demand in tourist areas. Jobs are stable, with limited promotion.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，通常按小时计薪 |
-| 中级（3-7年） | $28,000~$33,000 | 有经验的销售员 |
-| 高级（7年以上） | $33,000~$40,000 | 部门主管或店长级别 |
+| Median salary | $39,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual salary before tax, usually paid hourly |
+| Mid-level (3–7 years) | $28,000~$33,000 | Experienced salesperson |
+| Senior (7+ years) | $33,000~$40,000 | Department manager or store manager level |
+| average salary | $48,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从销售员起步，可晋升为部门主管或店长。也可转向采购或商品管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+Usually start as salespersons and can advance to department heads or store managers. They can also shift to purchasing or merchandise management.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - retail
 - gift shops
@@ -63,66 +99,68 @@ Sells office supplies, gifts, and toys in retail or wholesale settings, handling
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月在德找工作，需证明经济能力，但该职业非紧缺，就业难度大 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需取得德国认可的职业资格（如双元制培训），且雇主提供合约，但竞争激烈 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的找工作签证，适合有职业培训背景的申请者 |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months to find a job in Germany, requiring proof of financial means, but the occupation is not in shortage, making employment difficult |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires German-recognized vocational qualification (e.g., dual training) and employer contract, but competition is intense |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job search visa, suitable for applicants with vocational training background |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salesperson for Office Supplies, Gifts and Toys？**
-- 喜欢与人交流、有耐心和销售热情的人
-- 对办公用品、礼品或玩具感兴趣，愿意学习产品知识
-- 希望在零售行业稳定就业，不追求高薪
+**Who is suited**
+- People who enjoy interacting with others, have patience and sales enthusiasm
+- Interested in office supplies, gifts, or toys, and willing to learn product knowledge.
+- Looking for stable employment in the retail industry, not pursuing high salary
 
-**谁不适合学Salesperson for Office Supplies, Gifts and Toys？**
-- 追求高收入和快速晋升的人
-- 不擅长客户服务或不愿从事站姿工作的人
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- People not good at customer service or unwilling to stand while working
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Annual pre-tax salary approximately 24,000-40,000 EUR, junior approximately 24,000-28,000, senior such as store manager can reach 40,000.
+
+**Q: Is it easy for foreigners to immigrate to Germany through this occupation?**
+A: Quite difficult. This occupation is not in shortage; you must first obtain German dual-system training qualification or a work contract, and the salary threshold is low, making it difficult to apply for a Blue Card.
+
+**Q: What are the advancement pathways?**
+A: Can be promoted from salesperson to department head, store manager, or transition to procurement, merchandise management, and other roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salesperson for Office Supplies, Gifts and Toys属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Annual gross salary around EUR 24,000-40,000; entry-level EUR 24,000-28,000; senior store manager up to EUR 40,000.
-
-**问：Is it easy for foreigners to immigrate through this occupation?**
-答：It is difficult. The occupation is not in shortage; one needs a recognized vocational qualification or job contract, but low salary makes Blue Card hard.
-
-**问：What are the career advancement opportunities?**
-答：Salesperson can advance to department supervisor, store manager, or move to purchasing and merchandise management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

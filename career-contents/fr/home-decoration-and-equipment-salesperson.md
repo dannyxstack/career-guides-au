@@ -1,60 +1,96 @@
-# Home Decoration and Equipment Salesperson（Home Decoration and Equipment Salesperson）职业分析 · FR
+# Home Decoration and Equipment Salesperson — career analysis · France
 
-**职业代码：D1212 – Home Decoration and Equipment Salesperson。**
+**Occupation code: D1212 (ROME)**
 
-Advises and sells home decoration and equipment products in retail stores or specialized outlets, covering kitchens, bathrooms, lighting, and furniture.
+Providing sales consulting for decoration and equipment products to clients in home furnishing and building materials stores or specialty retail stores, covering categories such as kitchen, bathroom, lighting, and furniture.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS管理或销售类文凭 | 2年（BTS） | $5,000~$15,000（公立学校费用较低，私立可达15000欧元/年） |
-| Licence专业销售 | 3年（Licence） | $5,000~$12,000（公立大学费用约5000欧元/年） |
-| 学徒制（ alternance） | 1-2年 | —（企业承担学费，学徒获得工资） |
+| BTS Management or Sales diploma | 2 Years (BTS) | $5,000~$15,000 (Public school fees are relatively low, with private schools costing up to 15,000 euros per year) |
+| Licence specializes in sales | 3 years (Licence) | $5,000~$12,000 (Public university fees are about 5,000 euros per year) |
+| Apprenticeship (Alternance) | 1-2 years | $0~$0 (Enterprises cover tuition fees, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售能力证明 | 企业或培训机构 | 可选 | 非强制，但有助于求职 |
+| Proof of sales capability | Enterprises or training institutions | Optional | Not mandatory, but helpful for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。法国住房翻新市场持续增长，带动家居零售就业需求稳定。但受线上竞争影响，传统门店销售岗位增速放缓，需具备多品类顾问能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. The French home renovation market continues to grow, driving stable employment demand in home retail housing. However, due to online competition, the growth rate of traditional store sales positions has slowed, requiring multi-category consulting capabilities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 含奖金，税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 通常含提成 |
-| 高级（7年以上） | $35,000~$45,000 | 主管级别，含绩效奖金 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Including bonuses and pre-tax annual salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Usually includes commissions |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor level, including performance bonuses |
+| average salary | $23,592 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从初级销售顾问晋升为品类专家、门店主管，或转向采购、商品陈列等岗位。行业经验积累后可向区域经理发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The role of home decor and equipment salespeople will be reshaped by AI, with mixed benefits: standardized product knowledge queries and inventory management can be automated, but personalized design advice and customer trust building remain human strengths, requiring proactive transformation to retain their positions.
+
+They can be promoted from junior sales consultant to category specialist or store supervisor, or move to positions such as procurement or product display. After accumulating industry experience, you can develop into a regional manager.
+
+**Tasks most exposed to AI:**
+
+- Product specification inquiry and comparison (AI chatbot can respond in real time to size, price, etc.)
+- Inventory availability check (AI system automatically updates and notifies customers)
+- Standard order processing (self-service order system replaces manual entry)
+- FAQ (FAQ automatically replied to by AI)
+- Simple appointment management (AI scheduling tools optimize scheduling)
+
+**Where AI augments the role:**
+
+- 3D Virtual Showroom Tour and Product Visualization (AI-generated personalized design solutions)
+- Customer preference analysis and precise recommendations (AI recommendations based on historical data)
+- Real-time multilingual translation support (AI assistance for foreign language clients)
+- Dynamic pricing and promotional strategy generation (AI optimizes profits and inventory turnover)
+- After-sales tracking and satisfaction surveys (AI automatically initiates and analyzes feedback)
+
+**Human moat:**
+
+- Complex spatial design and personalized styling creativity (requires aesthetic and client understanding)
+- Building long-term customer relationships and trust (emotional communication, on-site measurement, etc.)
+- Handling disputes and communicating returns and exchanges (requires empathy and negotiation skills)
+- Construction and installation coordination and project management (cross-trade on-site communication)
+- High-priced customized solution sales (requiring persuasiveness and professional authority)
+
+**Skills to build:**
+
+- Operation of 3D design software (such as SketchUp, AutoCAD).
+- Use of AI tools (such as virtual showrooms, customer analysis platforms)
+- Digital Customer Relationship Management (CRM System)
+- Knowledge of spatial aesthetics and color coordination
+- Project management and communication skills
+- Basic data analysis and business insights
+
+**Key growth areas:**
 
 - home renovation
 - retail sales
@@ -63,65 +99,67 @@ Advises and sells home decoration and equipment products in retail stores or spe
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供工作合同，符合薪资门槛，申请劳工许可。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或高薪资职位，通常需年薪≥53,655欧元。 |
+| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract that meets the salary threshold and apply for a labor permit. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to high-skilled or high-paying positions, typically requiring an annual salary of ≥ 53,655 euros. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Home Decoration and Equipment Salesperson？**
-- 喜欢与人沟通，有销售热情的人
-- 对家居装饰产品感兴趣，具备审美能力
-- 能适应零售业灵活排班
+**Who is suited**
+- People who enjoy communicating and have a passion for sales
+- Interested in home decoration products and possessing aesthetic ability
+- Flexible scheduling adaptable to retail industries
 
-**谁不适合学Home Decoration and Equipment Salesperson？**
-- 不善于面对客户拒绝的人
-- 偏好固定办公室工作的人
+**Who is not suited**
+- People who are not good at handling customer rejections
+- People who prefer fixed office jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for home furnishing salespeople?**
+A: Junior salary is about 22,000-28,000 euros, intermediate salary 28,000-35,000 euros, and senior salary up to 45,000 euros, generally including commissions.
+
+**Q: Is it easy for foreigners to engage in home sales in France?**
+A: High difficulty, non-scarce occupations, employers must prove they cannot recruit locals, and French is a high requirement.
+
+**Q: What diploma is required?**
+A: Usually requires a BTS or Licence in sales or business, but experience can substitute.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Home Decoration and Equipment Salesperson属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a home decoration salesperson?**
-答：Junior: €22,000-€28,000, mid-level: €28,000-€35,000, senior up to €45,000, often with commission.
-
-**问：Is it easy for foreigners to work as home decoration salespersons in France?**
-答：Difficult, as it's not a shortage occupation; employers must prove no local candidate available, and high French proficiency is required.
-
-**问：What qualifications are needed?**
-答：Usually a BTS or Licence in sales/commerce, but experience can substitute.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

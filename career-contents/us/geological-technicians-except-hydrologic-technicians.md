@@ -1,59 +1,92 @@
-# Geological Technicians, Except Hydrologic Technicians（Geological Technicians, Except Hydrologic Technicians）职业分析 · 美国
+# Geological Technicians, Except Hydrologic Technicians — career analysis · United States
 
-**职业代码：19-4043 – Geological Technicians, Except Hydrologic Technicians。**
+**Occupation code: 19-4043 (SOC)**
 
-Assist scientists or engineers using electronic, sonic, or nuclear measuring instruments in lab, exploration, and production to obtain data on metallic ore, minerals, gas, coal, or petroleum; analyze mud and drill cuttings.
+Assist scientists or engineers using electronic, acoustic, or nuclear measurement instruments to obtain data on metal ores, minerals, natural gas, coal, or oil in laboratories, exploration, and production activities, and analyze mud and cuttings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$20,000（社区学院年均学费） |
-| 学士学位 | 4年 | $20,000~$40,000（公立大学年均学费） |
+| Associate degree | 2 years | $10,000~$20,000 (Average annual tuition at community college) |
+| Bachelor's degree | 4 years | $20,000~$40,000 (Average annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位或学士学位 | 认证高校 | 必备 | 地质学、地球科学或相关领域 |
-| 危险品操作培训 | OSHA | 可选 | 如Hazwoper，部分雇主强制要求 |
-| 专业认证 | 国家专业工程师协会（NSPE）或类似机构 | 可选 | 如注册地质技师，非强制但提升竞争力 |
+| Associate degree or bachelor's degree | Accredited tertiary institution. | Required | Geology, earth science, or related field |
+| Hazardous materials handling training | OSHA | Optional | e.g., Hazwoper, mandatory for some employers |
+| Professional certification | National Society of Professional Engineers (NSPE) or similar | Optional | Such as Registered Geological Technician, not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。美国地质技师就业预计增长约5%（2022-2032），受能源和矿产资源需求驱动。职位机会集中在油气开采和矿产勘探领域，但自动化可能限制部分岗位增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. US geological technician employment projected to grow about 5% (2022-2032), driven by energy and mineral resource demand. Opportunities concentrated in oil and gas extraction and mineral exploration, but automation may limit some job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 私营企业初级岗位 |
-| 中级（4-7年） | $55,000~$75,000 | 油气行业中等经验 |
-| 高级（8年以上） | $75,000~$95,000 | 主管或项目领导角色 |
+| Median salary | $53,350 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Entry-level positions in private companies |
+| Mid-level (4-7 years) | $55,000~$75,000 | Mid-level experience in the oil and gas industry. |
+| Senior (8+ years) | $75,000~$95,000 | Supervisor or project leadership role |
+| average salary | $61,870 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级技师可晋升为高级技师或项目主管，部分转岗为地质工程师。需积累现场经验和专业认证，持有许可证或学位可提升管理职位的竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+From junior technician can advance to senior technician or project supervisor; some transition to geological engineer. Requires on-site experience and professional certification; holding a license or degree boosts competitiveness for management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Oil & Gas Exploration
 - Mining
@@ -62,68 +95,67 @@ Assist scientists or engineers using electronic, sonic, or nuclear measuring ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需要学士学位的技师岗位，但需雇主担保 |
-| Subclass EB-3（EB-3 Skilled Workers） | 持PERM劳工证，适合有2年以上经验或学位的技师 |
-| Subclass TN（TN NAFTA Professionals） | 墨西哥或加拿大公民从事地质技师需符合NAFTA职业列表 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to technician roles that require a bachelor's degree, but need employer sponsorship |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, suitable for technicians with 2+ years experience or a degree. |
+| Subclass TN (TN NAFTA Professionals) | Mexican or Canadian citizens working as geological technicians must meet NAFTA occupational list requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Geological Technicians, Except Hydrologic Technicians？**
-- 喜欢户外和现场工作，能适应偏远地区
-- 对地质勘探和资源开采有浓厚兴趣
-- 注重细节，擅长操作仪器和分析数据
-
-**谁不适合学Geological Technicians, Except Hydrologic Technicians？**
-- 不喜欢体力劳动和恶劣环境
-- 追求高薪且期望高晋升速度
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoy outdoor and field work, able to adapt to remote areas
+- Strong interest in geological exploration and resource extraction.
+- Detail-oriented, adept at operating instruments and analyzing data
+
+**Who is not suited**
+- Dislikes physical labor and harsh environments
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for geological technicians?**
+A: According to BLS data, the average annual salary for US geological technicians in 2022 was about US$65,000, entry-level around US$40,000-50,000, senior up to US$90,000+. Oil and gas industry pays higher.
+
+**Q: Is it easy for geological technicians to immigrate to the US via H-1B or green card?**
+A: Path exists but competitive. H-1B requires employer sponsorship and must meet professional position requirements; EB-3 green card requires PERM labor certification; overall difficulty is moderate.
+
+**Q: What is the career progression path for a Geological Technician?**
+A: Can advance to senior technician, project supervisor, or geological engineer. Gaining experience and obtaining registered geological technician certification aids advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 2-4年（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Geological Technicians, Except Hydrologic Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for geological technicians?**
-答：According to BLS, median annual wage in 2022 was about $65,000; entry-level $40-50k, senior up to $90k+. Oil & gas sector pays higher.
-
-**问：Is it easy for geological technicians to immigrate via H-1B or green card?**
-答：Paths exist but competitive. H-1B requires employer sponsorship and specialty occupation; EB-3 green card needs PERM; moderate difficulty.
-
-**问：What is the career progression for geological technicians?**
-答：Promotion to senior technician, project supervisor, or geological engineer; registration certification helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Secretaries and Administrative Assistants, Except Legal, Medical, and Executive（Secretaries and Administrative Assistants, Except Legal, Medical, and Executive）职业分析 · 美国
+# Secretaries and Administrative Assistants, Except Legal, Medical, and Executive — career analysis · United States
 
-**职业代码：43-6014 – Secretaries and Administrative Assistants, Except Legal, Medical, and Executive。**
+**Occupation code: 43-6014 (SOC)**
 
-Perform routine administrative functions such as drafting correspondence, scheduling appointments, organizing and maintaining paper and electronic files, or providing information to callers.
+Perform routine administrative duties such as drafting correspondence, scheduling meetings, organizing and maintaining paper and electronic files, answering phone calls, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年（高中） | —（公立高中免费） |
-| 副学士学位或职业证书 | 1-2年 | $4,500~$18,000（社区学院或职业培训项目费用） |
+| High school diploma | 4 years (high school) | $0~$0 (Public high schools are free) |
+| Associate degree or vocational certificate | 1-2 years | $4,500~$18,000 (Cost of community college or vocational training programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中或GED | 必备 | 通常最低要求 |
-| 认证行政管理专家（CAP） | 国际行政专业人员协会（IAAP） | 可选 | 提升竞争力 |
+| High school diploma or equivalent | High school diploma or GED | Required | Typically minimum requirements |
+| Certified Administrative Professional (CAP) | International Association of Administrative Professionals (IAAP) | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,898,400。美国劳工统计局预计该职位2023-2033年就业增长约5%，与所有职业平均增速持平。办公自动化可能抑制需求，但各行业仍需行政支持人员。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,898,400. The U.S. Bureau of Labor Statistics projects about 5% employment growth for this occupation from 2023 to 2033, about as fast as the average for all occupations. Office automation may slow demand, but all industries still need administrative support workers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级别薪资范围 |
-| 中级（3-7年） | $36,000~$48,000 | 有经验者薪资 |
-| 高级（7年以上） | $48,000~$62,000 | 资深或高级秘书薪资 |
+| Median salary | $47,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary range |
+| Mid-level (3–7 years) | $36,000~$48,000 | Salary for experienced professionals |
+| Senior (7+ years) | $48,000~$62,000 | Senior or executive secretary salary |
+| average salary | $49,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从初级行政助理起步，通过积累经验可晋升为高级行政助理、办公室主管或行政经理。部分转向人力资源、财务或项目管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
+
+Usually start as a junior administrative assistant, progress to senior administrative assistant, office supervisor, or administrative manager with experience. Some transition to human resources, finance, or project management roles.
+
+**Tasks most exposed to AI:**
+
+- Draft standardized letters and meeting minutes (AI-generated templates)
+- Schedule and manage calendars and reminders (smart scheduling tools)
+- Answer and transfer routine calls (AI voice customer service)
+- Maintain and retrieve paper/electronic files (document management system)
+- Data entry and organization (RPA and OCR automation)
+
+**Where AI augments the role:**
+
+- Responsible for complex or sensitive business communication (requiring empathy and strategy)
+- Coordinating multiple conflicting agendas and making trade-offs (interpersonal negotiation)
+- Training or supervising AI tool output quality (human-machine collaboration)
+- Handling sudden administrative crises (adaptability)
+- Manage confidential or high-level affairs (trust and confidentiality)
+
+**Human moat:**
+
+- Situations requiring empathy and nuanced communication
+- Confidentiality and high-trust working relationships
+- Unstructured problem-solving and handling unexpected situations
+- Cross-department coordination and power dynamics assessment
+
+**Skills to build:**
+
+- AI office tool usage and process optimization
+- Basic data analysis and report making
+- Project coordination and stakeholder management
+- Social media and digital content management
+- Advanced communication and writing skills
+- Ability to quickly learn new software
+
+**Key growth areas:**
 
 - Administrative support
 - Office automation
@@ -63,62 +98,64 @@ Perform routine administrative functions such as drafting correspondence, schedu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职业要求，极少用于此职位。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 可能适用于技能型工人，但雇主担保困难，需证明无合适美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically does not meet professional occupation requirements, rarely used for this role. |
+| Subclass EB-3 (EB-3 Skilled Worker) | May be applicable for skilled workers, but employer sponsorship is difficult; must prove no suitable US workers. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Secretaries and Administrative Assistants, Except Legal, Medical, and Executive？**
-- 做事有条理、细心的人
-- 喜欢稳定办公环境的人
-- 沟通能力强、乐于助人的人
+**Who is suited**
+- Organized and detail-oriented person
+- Someone who likes a stable office environment
+- People with strong communication skills and a willingness to help others
 
-**谁不适合学Secretaries and Administrative Assistants, Except Legal, Medical, and Executive？**
-- 追求高薪高挑战的人
-- 不愿处理琐碎事务的人
+**Who is not suited**
+- People seeking high salary and high challenge
+- Those who dislike dealing with trivial matters
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this occupation in the United States?**
+A: Approximately $41,000 USD in 2024, but varies greatly by region, industry, and experience.
+
+**Q: Is it easy to obtain a US work visa for secretaries and administrative assistants?**
+A: Very difficult. This position typically does not meet H-1B specialty occupation requirements and rarely receives employer green card sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Secretaries and Administrative Assistants, Except Legal, Medical, and Executive属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in the US?**
-答：Around $41,000 in 2024, varying by location, industry, and experience.
-
-**问：Is it easy to get a US work visa for secretaries and administrative assistants?**
-答：Very difficult. The role typically does not meet H-1B specialty occupation criteria and rarely receives employer-sponsored green cards.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,98 @@
-# Explosives Workers, Ordnance Handling Experts, and Blasters（Explosives Workers, Ordnance Handling Experts, and Blasters）职业分析 · 美国
+# Explosives Workers, Ordnance Handling Experts, and Blasters — career analysis · United States
 
-**职业代码：47-5032 – Explosives Workers, Ordnance Handling Experts, and Blasters。**
+**Occupation code: 47-5032 (SOC)**
 
-Place and detonate explosives to demolish structures or to loosen, remove, or displace earth, rock, or other materials. Perform specialized handling, storage, and accounting procedures.
+Responsible for placing and detonating explosives to demolish buildings or loosen and remove earth/rock, and perform specialized storage, transport, and accounting procedures.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒培训 | 2-4年 | $1,000~$5,000（学徒期间有工资，培训费用较低） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship training | 2-4 years | $1,000~$5,000 (Apprentices receive wages and training costs are low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爆破许可证 | 美国烟酒枪炮及爆炸物管理局（ATF） | 必备 | 联邦许可证，需背景调查和培训 |
-| 州爆破执照 | 各州相关机构 | 必备 | 多数州要求，通常需考试 |
-| 商业驾驶执照（CDL） | 州机动车管理局 | 可选 | 运输爆炸物可能需要 |
-| 安全证书 | 职业安全与健康管理局（OSHA） | 可选 | 例如OSHA 30小时建筑安全培训 |
+| Blasting License | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) | Required | Federal license requires background check and training |
+| State blasting license | Relevant state agencies | Required | Required by most states, usually need to pass an exam |
+| Commercial Driver's License (CDL) | State motor vehicle department | Optional | May be required for transporting explosives |
+| Safety certificate | Occupational Safety and Health Administration (OSHA) | Optional | For example, OSHA 30-hour construction safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,200。美国劳工统计局预计2023-2033年就业增长约4%，与平均水平持平。基建项目和采矿活动将推动需求，但自动化可能限制增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,200. The U.S. Bureau of Labor Statistics projects about 4% employment growth from 2023 to 2033, on par with the average. Infrastructure projects and mining activities will drive demand, but automation may limit growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 小时工资约$22-$26 |
-| 中级（3-8年） | $55,000~$75,000 | 小时工资约$26-$36 |
-| 高级（8年以上） | $75,000~$100,000 | 小时工资约$36-$48，含主管职 |
+| Median salary | $61,390 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage about $22-$26 |
+| Mid-level (3–8 years) | $55,000~$75,000 | Hourly wage approximately $26-$36 |
+| Senior (8+ years) | $75,000~$100,000 | Hourly wage approximately $36-$48, including supervisory roles. |
+| average salary | $66,640 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或助手做起，积累经验后可晋升为领班或主管，部分人进入爆破设计或安全管理岗位。持有州认证和联邦许可证是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
+
+Usually start as an apprentice or assistant, gain experience and can advance to supervisor or manager; some move into blasting design or safety management. State certification and federal license are key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Blasting design parameter calculation and modeling (AI-optimized blasting patterns)
+- Conventional Drilling Positioning & Depth Control (Automated Rigs)
+- Explosive charging and wiring operations (robotic charging equipment)
+- Blast vibration and fly rock monitoring (AI sensor network)
+- Daily safety inspection records and report generation (automated documentation)
+
+**Where AI augments the role:**
+
+- Real-time geological data analysis and blast plan adjustment (AI decision support)
+- Remote monitoring and coordination of multiple blasting faces (AI-assisted scheduling)
+- Safety risk assessment and emergency plan generation (AI scenario simulation)
+- Blasting effect evaluation and optimization recommendations (AI analysis feedback)
+- Automated client communication and compliance reporting (AI-generated materials)
+
+**Human moat:**
+
+- On-site safety supervision and abnormal situation handling (legal liability non-transferable)
+- Intuitive judgment of blasting schemes under complex geological conditions
+- Trust communication with regulators, contractors, and the public
+- Rapid decision-making and personal safety protection in emergencies
+- Statutory duties and ethical constraints for license holders.
+
+**Skills to build:**
+
+- Operation and maintenance of automated blasting equipment
+- Geological data analysis and modeling software (e.g., Dassault Systèmes)
+- Knowledge of digital twin and remote monitoring platforms
+- Automation tools for project management and compliance documentation
+- Python/basic programming for blasting simulation.
+- Application of drone surveying and 3D scanning technology
+
+**Key growth areas:**
 
 - Infrastructure
 - Mining
@@ -65,65 +101,67 @@ Place and detonate explosives to demolish structures or to loosen, remove, or di
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 适用于临时性非农业工人，但爆破工通常要求长期经验，申请较少 |
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因为爆破工不属于专业职业 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applicable to temporary non-agricultural workers, but blasters usually require long-term experience, few applications |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as blaster is not a professional occupation |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Explosives Workers, Ordnance Handling Experts, and Blasters？**
-- 注重安全、细心严谨的人
-- 喜欢户外体力劳动、不惧危险环境
-- 愿意接受严格培训和背景调查
+**Who is suited**
+- Safety-conscious, meticulous, and rigorous individuals
+- Enjoy outdoor physical labour and not afraid of dangerous environments
+- Willing to undergo rigorous training and background checks
 
-**谁不适合学Explosives Workers, Ordnance Handling Experts, and Blasters？**
-- 排斥危险工作、恐高或对噪音敏感
-- 希望快速获得美国移民身份
+**Who is not suited**
+- Dislike of dangerous work, fear of heights, or sensitivity to noise
+- Desire to quickly obtain US immigrant status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for blasters?**
+A: According to BLS, 2023 median annual salary about $56,000; entry-level about $45,000; senior up to $100,000.
+
+**Q: Can blasters apply for US skilled migration?**
+A: Very difficult. Blaster does not meet H-1B specialty occupation requirements; typically only eligible for H-2B temporary worker visa, but quota limited and requires employer sponsorship. EB-3 green card requires labor certification, but this occupation lacks a regular immigration pathway.
+
+**Q: What are the career development prospects for a blaster?**
+A: Can be promoted from assistant to foreman, supervisor, or transition to blasting design, safety management, etc. Additional certifications (such as CDL) can increase opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Explosives Workers, Ordnance Handling Experts, and Blasters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for blasters?**
-答：According to BLS, median annual wage is about $56,000, entry-level around $45,000, senior up to $100,000.
-
-**问：Can blasters apply for US skilled migration?**
-答：Very difficult. Blasters do not meet H-1B specialty occupation criteria; H-2B is limited. EB-3 green card requires PERM, but no standard path exists.
-
-**问：What is the career progression for blasters?**
-答：From assistant to supervisor, or into blasting design, safety management. Additional certifications like CDL can enhance opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

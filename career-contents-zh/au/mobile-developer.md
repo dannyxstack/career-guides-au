@@ -1,0 +1,160 @@
+# Mobile Developer 职业分析 · 澳大利亚
+
+**职业代码: 261319 (ANZSCO)**
+
+移动应用开发工程师为iOS和Android平台设计和构建移动应用程序，是澳洲数字经济的重要组成部分。金融科技、医疗健康和政府数字服务领域的移动化需求持续增长，React Native和Flutter跨平台技能尤为受到雇主青睐。
+
+
+---
+
+## 1. 教育路径 / 周期 / 费用
+
+| 阶段 | 周期 | 费用 (AUD) |
+|---|---|---:|
+| Bachelor of IT / Computer Science / Software Eng | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
+| iOS / Android Developer Portfolio Projects | 6~12个月自学 | $0~$2,000（开源项目和App Store上架经验） |
+| Google Associate Android Dev / Apple Dev Cert | 2~3个月 | $200~$1,000（平台认证加分） |
+
+---
+
+## 2. 考证难度 / 从业资质
+
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor of IT / Software Engineering | 认可大学 | 可选 | 入行基础 |
+| Google Associate Android Developer | Google | 可选 | Android认证 |
+| Apple Developer Program Certification | Apple | 可选 | iOS开发账号+上架经验 |
+
+---
+
+## 3. 职位需求量 / 竞争度 / 工作强度
+
+**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. 澳洲移动支付、数字健康管理和政府服务App化趋势2025-2030年持续推进，跨平台开发（React Native/Flutter）技能使单人开发者效率倍增，推动对高质量移动开发人才的需求持续增长。
+
+**竞争度: 中高（★★★☆☆）.**
+**工作强度: 中高（★★★☆☆）.**
+
+---
+
+## 4. 收入范围
+
+| 经验水平 | 年薪 (AUD) | 备注 |
+|---|---:|---|
+| 薪资中位数 | $131,924 | 全职周中位收入×52 年化（来源：ABS EEH May 2025，ANZSCO 4位） |
+| 初级（0–3年） | $70,000~$92,000 | Junior Mobile Developer |
+| 中级（3~8年） | $95,000~$140,000 | Mobile Developer |
+| 高级（8年+） | $145,000~$200,000 | Senior / Lead Mobile Dev |
+| 平均薪资 | $106,600 | 全体雇员周均总现金×52 年化（来源：ABS EEH May 2025，ANZSCO 大类） |
+
+---
+
+## 5. 未来趋势 / AI替代概率
+
+**发展前景: 较高（★★★★☆）.**
+**AI替代风险: 中高（★★★☆☆）.**
+
+移动应用开发工程师受AI影响喜忧参半：常规UI编码和测试任务自动化程度高，但AI辅助增强了个性化设计、跨平台优化和用户行为分析能力，整体岗位需求稳定上升。
+
+原生iOS（Swift）和Android（Kotlin）开发仍是高薪方向，但React Native和Flutter正在快速获得市场份额。AI功能集成（机器学习SDK、LLM API调用）成为高级移动开发工程师的新差异化技能。
+
+**最易被 AI 替代的任务:**
+
+- 基于模板的UI布局和样式代码生成
+- 单元测试和回归测试的自动化执行
+- 基础API调用和数据绑定
+- 简单的Bug修复和性能调优
+
+**AI 增强的环节:**
+
+- AI辅助生成组件库，加速UI开发
+- 利用大模型进行用户行为分析和个性化推荐
+- AI驱动的跨平台代码转换与优化
+- 智能调试助手定位复杂问题
+- 自动生成文档和代码注释
+
+**人类护城河:**
+
+- 跨平台架构设计与性能优化能力
+- 对业务需求的理解与创新性设计
+- 安全合规与敏感数据处理的意识
+- 复杂用户交互的体验设计
+
+**需构建的技能:**
+
+- React Native / Flutter跨平台开发
+- AI/ML模型集成（TensorFlow Lite等）
+- 云原生开发（AWS Amplify, Firebase）
+- 低代码平台（Mendix, OutSystems）
+- 用户行为分析工具（Mixpanel, Amplitude）
+- 数据隐私与合规（GDPR, HIPAA）
+
+**主要增长方向:**
+
+- React Native Cross-Platform Apps
+- Flutter Development
+- Health & Fintech Mobile Apps
+- Government Digital Services
+
+---
+
+## 6. 移民路径 / PR难度
+
+
+| 签证类别 | 说明 |
+|---|---|
+| Subclass 482 (Skills in Demand) | 雇主担保，IT紧缺 |
+| Subclass 186 (ENS) | 永居通道 |
+| Subclass 190 (Skilled Nominated) | 州提名 |
+
+**PR友好度: 较高（★★★★☆）.**
+
+**PR难度: 中高（★★★☆☆）.**
+
+---
+
+## 7. 适合人群 / 不适合人群
+
+**谁适合**
+- 热爱移动产品开发，有强烈的产品感者
+- 希望在金融科技或数字健康领域发展者
+- 能同时掌握iOS和Android跨平台开发者
+
+**谁不适合**
+- 偏好后端或基础设施开发者
+- 不喜欢频繁适配不同设备和系统版本者
+
+---
+
+## 8. FAQ 常见问题
+
+**问：移动应用开发工程师在澳洲薪资如何？**
+答：初级约AUD 7万~9.2万，中级9.5万~14万，高级/Lead开发工程师14.5万~20万，金融科技公司薪资溢价明显。
+
+**问：澳洲移动开发岗位好找吗？**
+答：需求持续旺盛，Seek常年有150~280个活跃职位，React Native和Flutter跨平台技能最受欢迎，悉尼和墨尔本金融科技集群需求最旺。
+
+
+---
+
+## 快速结论
+
+| 维度 | 评级 |
+|---|---|
+| 学习周期 | 中高（★★★☆☆） |
+| 学习难度 | 中高（★★★☆☆） |
+| 考证难度 | 中低（★★☆☆☆） |
+| 职位需求量 | 较高（★★★★☆） |
+| 竞争度 | 中高（★★★☆☆） |
+| 收入水平 | 较高（★★★★☆） |
+| 工作强度 | 中高（★★★☆☆） |
+| 发展前景 | 较高（★★★★☆） |
+| AI替代风险 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
+| PR难度 | 中高（★★★☆☆） |
+
+---
+
+## 数据来源
+
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

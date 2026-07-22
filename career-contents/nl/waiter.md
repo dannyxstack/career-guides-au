@@ -1,60 +1,93 @@
-# Waiter（Waiter）职业分析 · NL
+# Waiter — career analysis · Netherlands
 
-**职业代码：5131 – Waiter。**
+**Occupation code: 5131 (ISCO08)**
 
-Waiters in the Netherlands serve food and beverages in hotels, restaurants, and cafes, providing customer service and taking orders.
+Waiters in Dutch hotels, restaurants, and cafes take orders, serve food and drinks to customers, forming the foundation of the hospitality industry.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年 | —（MBO 课程学费低，通常每年约 1000-2000 欧元） |
-| 在职培训 | 3-6个月 | —（雇主提供基础培训，无需费用） |
+| Secondary vocational education (MBO) | 2-4 years | $0~$2,000 (MBO course tuition is low, typically around €1,000-2,000 per year) |
+| On-the-job training | 3-6 months | $0~$0 (Employer provides basic training at no cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 (SVH) | SVH (Stichting Vakbekwaamheid Horeca) | 可选 | 荷兰 hospitality 行业常见要求，证明食品安全知识 |
-| 社交技能证书 | 行业培训机构 | 可选 | 部分雇主偏好，非强制 |
+| Food hygiene certificate (SVH) | SVH (Stichting Vakbekwaamheid Horeca) | Optional | Common requirement in the Dutch hospitality industry, demonstrating food safety knowledge. |
+| Social Skills Certificate | Industry training providers | Optional | Preferred by some employers, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 80,000。荷兰 hospitality 行业持续增长，尤其在阿姆斯特丹等旅游城市对服务员需求稳定，但受季节性影响。
+**Job demand: high (★★★★☆).** National workforce approx. 80,000. The Dutch hospitality industry continues to grow, with steady demand for service staff especially in tourist cities like Amsterdam, though affected by seasonality.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含小费收入 |
-| 中级（3-7年） | $28,000~$35,000 | 有一定经验，可能包括小费 |
-| 高级（7年以上） | $35,000~$45,000 | 含主管或高级服务员岗位 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, including tips |
+| Mid-level (3–7 years) | $28,000~$35,000 | Some experience required, may include tips |
+| Senior (7+ years) | $35,000~$45,000 | Including supervisor or senior service staff positions |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 服务员可晋升为领班、餐厅主管或餐厅经理，也可转向调酒师或餐厅运营管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of waitstaff (taking orders, serving dishes, billing) are facing rapid replacement by AI self-ordering, robot delivery, and mobile payments; entry-level roles are decreasing, but interpersonal service and on-the-spot responsiveness remain human advantages.
+
+Waiters can advance to head waiter, restaurant supervisor, or restaurant manager, or transition to bartender or restaurant operations management.
+
+**Tasks most exposed to AI:**
+
+- Receiving customer orders (replaced by self-service kiosks and QR codes)
+- Checkout and cashiering (mobile payments and self-checkout systems)
+- Deliver dishes and drinks (some scenarios replaced by food delivery robots)
+- Reservation and waitlist management (online booking systems and queuing software)
+
+**Where AI augments the role:**
+
+- Analyze customer preferences through AI to provide personalized recommendations (e.g., food and beverage pairings)
+- Use voice assistants to quickly query menu information (e.g., allergens, preparation methods)
+- Optimize working hours using intelligent scheduling systems
+- Using mobile terminals to update table status and order progress in real-time
+
+**Human moat:**
+
+- On-site adaptability (handling customer complaints, emergencies)
+- Non-verbal communication skills (smile, eye contact, service tone)
+- Complex people skills handling (VIP customer relations, personalized care)
+- In-depth understanding of local Dutch food culture and language (Dutch)
+
+**Skills to build:**
+
+- Operate self-order kiosks and mobile payment terminals
+- Advanced communication skills in Dutch or English
+- Master basic data analysis: adjust service pace based on customer flow
+- Learn hospitality management software (e.g., advanced POS system features).
+- Develop crisis handling and emotional management skills
+- Obtain Dutch hospitality management certificates (e.g., SVH waiter certificate)
+
+**Key growth areas:**
 
 - Hospitality
 - Customer Service
@@ -63,62 +96,64 @@ Waiters in the Netherlands serve food and beverages in hotels, restaurants, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，但服务员通常不符合薪资门槛（需年薪约 5.6 万欧元） |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 要求年薪约 5,000 欧元/月以上，服务员岗位难以达到 |
-| Subclass Orientation Year (Zo（Orientation Year (Zoekjaar)） | 荷兰毕业或全球前200高校毕业生可申请一年求职签证，可从事任何工作包括服务员 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, but waiters usually do not meet the salary threshold (requires annual salary of approx. €56,000) |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Required annual salary above approximately €5,000/month, difficult for service positions to achieve |
+| Subclass Orientation Year (Zo (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, allowing any work including service roles. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Waiter？**
-- 喜欢与人打交道、善于沟通的人
-- 适应快节奏和灵活工作时间的人
+**Who is suited**
+- People who enjoy interacting with others and are good at communication
+- People who thrive in fast-paced and flexible work hours
 
-**谁不适合学Waiter？**
-- 不善于应对顾客压力的人
-- 希望有高薪和稳定晋升路径的人
+**Who is not suited**
+- People who are not good at dealing with customer pressure
+- Those seeking high salary and stable career progression
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for waiters in the Netherlands?**
+A: Annual pre-tax salary approximately 22,000-45,000 euros, depending on experience and employer; tips are an important supplement.
+
+**Q: Can non-EU citizens immigrate to the Netherlands as a waiter?**
+A: Usually difficult, as waiters do not meet salary requirements for high-skilled migration or EU Blue Card. However, can seek employment via Orientation Year visa first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Waiter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for waiters in the Netherlands?**
-答：Gross annual salary ranges from €22,000 to €45,000 depending on experience and employer, with tips supplementing income.
-
-**问：Can non-EU citizens migrate to the Netherlands as a waiter?**
-答：Generally difficult as waiter positions do not meet salary thresholds for highly skilled migrant or EU Blue Card. The Orientation Year visa is a possible pathway.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

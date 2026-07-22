@@ -1,60 +1,96 @@
-# Judges, Magistrate Judges, and Magistrates（Judges, Magistrate Judges, and Magistrates）职业分析 · 美国
+# Judges, Magistrate Judges, and Magistrates — career analysis · United States
 
-**职业代码：23-1023 – Judges, Magistrate Judges, and Magistrates。**
+**Occupation code: 23-1023 (SOC)**
 
-Arbitrate, advise, adjudicate, or administer justice in a court of law; handle criminal and civil cases; sentence defendants; may perform wedding ceremonies.
+Arbitrate, advise, adjudicate, or execute judicial trials in court, handle criminal and civil cases, decide defendant liability or penalties, and officiate ceremonies such as weddings.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 法学学士（JD） | 7年（含4年本科+3年法学院） | $200,000~$350,000（含学费、书本费和生活费，公立和私立不等） |
-| 法学本科或其它本科学位+法学院 | 7年 | $150,000~$300,000（部分法官先获法学学士（LLB），但美国主流为JD） |
+| Bachelor of Laws (JD) | 7 years (including 4-year undergraduate + 3-year law school) | $200,000~$350,000 (Includes tuition, books, and living expenses; varies between public and private institutions) |
+| Bachelor of Laws or other bachelor's degree plus law school | 7 years | $150,000~$300,000 (Some judges first earn a Bachelor of Laws (LLB), but the US norm is a JD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 律师执业资格 | 州律师协会 | 必备 | 必须持有有效律师执照，通过州律师资格考试 |
-| 法学博士学位（JD） | 美国律师协会认证法学院 | 必备 | 通常需从顶尖法学院毕业 |
+| Legal practice certification | State bar association | Required | Must hold a valid lawyer's license and pass the state bar exam. |
+| Juris Doctor (JD) degree | American Bar Association (ABA)-accredited law school | Required | Usually need to graduate from a top law school |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 32,400。美国法官职业预计增速较慢，受政府预算和司法系统稳定性影响，岗位竞争激烈。但退休和晋升将产生少量空缺，长期需求稳定。
+**Job demand: low (★½☆☆☆).** National workforce approx. 32,400. US judge career projected to grow slowly due to government budgets and judicial system stability, with fierce competition. But retirements and promotions will create occasional openings, with stable long-term demand.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$120,000 | 多为初任治安法官或低级法院法官 |
-| 中级（3-10年） | $120,000~$180,000 | 州法院法官典型薪资 |
-| 高级（10年以上） | $180,000~$250,000 | 联邦法官或高级州法官，如最高法院大法官 |
+| Median salary | $153,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$120,000 | Mostly for entry-level magistrates or lower court judges |
+| Intermediate (3-10 years) | $120,000~$180,000 | Typical salary for a state court judge |
+| Senior (10+ years) | $180,000~$250,000 | Federal judge or senior state judge, such as a Supreme Court justice |
+| average salary | $143,830 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从律师起步，积累多年法律经验后通过任命或选举成为法官。可晋升至更高层级法院，如从州法院升任联邦法院。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
+
+Usually start as a lawyer, accumulate years of legal experience, then become a judge through appointment or election. Can advance to higher courts, such as from state court to federal court.
+
+**Tasks most exposed to AI:**
+
+- Automated review and keyword extraction of contracts and legal documents
+- Automatic generation of legal case search and precedent summaries.
+- Drafting standardized legal documents (e.g., wills, contract templates)
+- Classification and initial analysis of large volumes of electronic documents during the forensic phase.
+- Automatic summarization of factual sections in legal memos
+
+**Where AI augments the role:**
+
+- AI-based case prediction and litigation strategy optimization
+- Intelligent contract review system assists in identifying hidden risk clauses
+- AI-driven mock court and debate training
+- Legal knowledge graph assists in quickly cross-referencing regulations across fields
+- AI chatbot screening initial legal needs in customer service
+
+**Human moat:**
+
+- On-the-spot adaptability and persuasion skills in courtroom argument and negotiation
+- Comprehensive judgment and ethical decision-making for complex cross-disciplinary legal issues
+- Empathy to build trust with clients and understand deep needs
+- Maintaining lawyer-client privilege in the public interest
+- Unstructured, high-uncertainty exploration of emerging legal fields.
+
+**Skills to build:**
+
+- AI legal tools (e.g., Relativity, Kira Systems) operation
+- Data analysis and visualization (for predictive legal analysis)
+- Algorithm bias identification and compliance review
+- Human-machine collaborative workflow design (legal tech project management)
+- Knowledge of cybersecurity and privacy regulations
+- Advanced negotiation and complex dispute resolution
+
+**Key growth areas:**
 
 - Stable
 - Retirement-driven
@@ -63,62 +99,64 @@ Arbitrate, advise, adjudicate, or administer justice in a court of law; handle c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因法官职位大多需美国公民身份 |
-| Subclass EB-2（Employment-Based Second Preference） | 罕见，仅极少数特殊人才可能适用，但典型路径不开放 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as judge positions mostly require U.S. citizenship |
+| Subclass EB-2 (Employment-Based Second Preference) | Rare, only applicable to a very few special talents, but typical pathway not open |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Judges, Magistrate Judges, and Magistrates？**
-- 已在美国取得律师资格并拥有多年执业经验的法律专业人士
-- 对司法公正有强烈使命感且能承受高压
-- 愿意投身公共服务的资深法律人
+**Who is suited**
+- Legal professionals who have already obtained a US law license and have many years of practice experience
+- Strong sense of justice and ability to work under high pressure
+- Senior legal professionals willing to serve in public service
 
-**谁不适合学Judges, Magistrate Judges, and Magistrates？**
-- 非美国公民或无绿卡者（通常要求公民）
-- 无法承受长期法律教育成本者
+**Who is not suited**
+- For non-US citizens or those without a Green Card (usually requiring citizenship)
+- Those who cannot afford long-term legal education costs.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for US judges?**
+A: Salary varies greatly by court level: junior magistrate annual salary about 80,000-120,000, state court judge 120,000-180,000, federal judge can reach over 200,000.
+
+**Q: Can foreign lawyers become US judges through work visas?**
+A: Almost impossible. Most judge positions require US citizenship, and work visas do not apply. Only very rare exceptions like specially hired experts, but no universal path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★½） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Judges, Magistrate Judges, and Magistrates属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of US judges?**
-答：Salaries vary by court level: low-level magistrates earn $80k-$120k, state judges $120k-$180k, federal judges over $200k.
-
-**问：Can foreign lawyers become US judges via work visa?**
-答：Almost impossible. Most judge positions require US citizenship, and work visas are not applicable. Only rare exceptions exist.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

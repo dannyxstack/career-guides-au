@@ -1,60 +1,96 @@
-# Physicist（Physicist）职业分析 · 澳大利亚
+# Physicist — career analysis · Australia
 
-**职业代码：234914 – Physicist。**
+**Occupation code: 234914 (ANZSCO)**
 
-Physicists study the fundamental laws of matter, energy, time, and space through experimental and theoretical research, with applications in education, scientific research, healthcare, and industry.
+Physicists study fundamental laws of matter, energy, time, and space, conducting experiments and theoretical research, applied in education, research, healthcare, and industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$50,000（澳洲大学学费每年约AUD 30,000-50,000） |
-| 硕士 | 1.5-2年 | $35,000~$55,000（研究型硕士学费类似本科） |
-| 博士 | 3-4年 | $35,000~$55,000（博士通常有奖学金覆盖学费） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (Australian university tuition fees are approximately AUD 30,000-50,000 per year) |
+| Master's degree | 1.5-2 years | $35,000~$55,000 (Research master's tuition fees are similar to bachelor's degrees) |
+| Doctorate | 3-4 years | $35,000~$55,000 (PhD programs usually have scholarships covering tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理学或相关学科博士学位 | 大学 | 必备 | 研究岗位通常要求PhD |
-| 技能评估（VETASSESS或ACS） | VETASSESS | 必备 | 技术移民需要 |
-| 医学物理师认证（ACPSEM） | Australasian College of Physical Scientists and Engineers in Medicine | 可选 | 仅适用于医学物理岗位 |
+| PhD in Physics or related discipline. | University | Required | Research positions typically require a PhD |
+| Skills assessment (VETASSESS or ACS) | VETASSESS | Required | Required for skilled migration |
+| Medical Physicist Certification (ACPSEM) | Australasian College of Physical Scientists and Engineers in Medicine | Optional | Only applicable to medical physics positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,600。澳洲物理学家就业前景稳定，主要集中在大学、政府研究机构和医疗物理领域。随着可再生能源和量子技术发展，相关岗位需求预计略有增长，但竞争较为激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,600. The employment outlook for physicists in Australia is stable, mainly in universities, government research institutions, and medical physics. With the development of renewable energy and quantum technology, related job demand is expected to grow slightly, but competition is relatively intense.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 研究助理或博士后岗位 |
-| 中级（3-8年） | $85,000~$110,000 | 大学讲师或研究科学家 |
-| 高级（8年以上） | $110,000~$150,000 | 高级研究员或教授 |
+| Median salary | $96,096 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$85,000 | Research assistant or postdoctoral positions |
+| Mid-level (3–8 years) | $85,000~$110,000 | University lecturer or research scientist |
+| Senior (8+ years) | $110,000~$150,000 | Senior researcher or professor |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级物理学家通常从研究助理或博士后开始，积累经验后晋升为研究员或高级物理学家，部分转向工业研发或教育管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
+
+Junior physicists typically start as research assistants or postdocs, gain experience, and advance to researcher or senior physicist roles; some transition to industrial R&D or education management.
+
+**Tasks most exposed to AI:**
+
+- Automated parameter scanning and optimization for physical simulations
+- Automated preprocessing and statistical inference of experimental data.
+- Automatically generate standard physics reports and literature reviews
+- Repetitive numerical calculations and symbolic algebraic derivation
+- Automatically detect device anomalies and trigger calibration processes
+
+**Where AI augments the role:**
+
+- Use AI to accelerate theoretical derivation and hypothesis testing
+- AI-assisted design of complex experiments and optimisation of measurement plans
+- Automatically discovering new physical patterns from massive data
+- AI-driven high-dimensional parameter space exploration and visualization
+- Improve the accuracy of physical models through machine learning
+
+**Human moat:**
+
+- Propose original physical theories and hypotheses
+- Design breakthrough experiments and explain unexpected results
+- Comprehensive judgment and innovation in interdisciplinary physics problems
+- Physical intuition and simplification in complex system modeling
+- Teaching, science communication, and ethical decision-making
+
+**Skills to build:**
+
+- Machine learning frameworks (TensorFlow/PyTorch)
+- Integration of scientific computing with AI tools (e.g., PyTorch for physics simulations)
+- Data science and statistical programming (Python/R)
+- Quantum computing fundamentals and AI cross-applications
+- Automatic differentiation and symbolic AI (e.g., Mathematica automation)
+- AI model interpretability and physical consistency verification
+
+**Key growth areas:**
 
 - Renewable Energy
 - Quantum Technology
@@ -63,69 +99,68 @@ Physicists study the fundamental laws of matter, energy, time, and space through
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于MLTSSL上的职业，可独立移民澳洲 |
-| Subclass 190（Skilled Nominated Visa） | 需获得州担保，有额外加分 |
-| Subclass 482（Temporary Skills Shortage Visa） | 雇主担保临时工作签证，后可转186 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需雇主提名 |
+| Subclass 189 (Skilled Independent Visa) | Applicable to occupations on the MLTSSL, can independently migrate to Australia |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination, with additional points |
+| Subclass 482 (Temporary Skills Shortage Visa) | Employer-sponsored temporary work visa, can later transfer to 186 |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicist？**
-- 对物理学有强烈兴趣并愿意长期学习的人
-- 具备出色数学和逻辑分析能力的人
-- 希望在科研或教育领域发展的人
-
-**谁不适合学Physicist？**
-- 不喜欢理论推导和实验操作的人
-- 追求高薪和快速职业回报的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in physics and willing to study long-term
+- People with excellent mathematical and logical analysis skills
+- Those who wish to develop in research or education
+
+**Who is not suited**
+- People who dislike theoretical derivation and experimental operations
+- Those seeking high salary and fast career returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a physicist in Australia?**
+A: The average annual salary of a physicist in Australia is about AUD 90,000 - AUD 110,000, depending on experience and industry.
+
+**Q: Can physicists immigrate to Australia through skilled migration?**
+A: Physicists are on the MLTSSL and can migrate via 189, 190, 482, and 186 visas, but need a VETASSESS skills assessment and usually a PhD.
+
+**Q: What are the main employment areas for physicists in Australia?**
+A: Main employment areas include universities and research institutions (teaching and research), medical physics (radiation therapy and nuclear medicine), and industrial R&D (energy, materials, quantum technology).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Physicist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a physicist in Australia?**
-答：The average annual salary for physicists in Australia ranges from AUD 90,000 to AUD 110,000, depending on experience and sector.
-
-**问：Can physicists migrate to Australia through skilled migration?**
-答：Physicists are on the MLTSSL and can apply for visas such as 189, 190, 482 and 186, but need a positive skills assessment from VETASSESS and typically a PhD.
-
-**问：What are the main employment sectors for physicists in Australia?**
-答：Key sectors include universities and research institutes (teaching and research), medical physics (radiotherapy and nuclear medicine), and industrial R&D (energy, materials, quantum technology).
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

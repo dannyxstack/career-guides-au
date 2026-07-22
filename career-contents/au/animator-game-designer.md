@@ -1,161 +1,186 @@
-# 动画师/游戏设计师（Animator）职业分析 · 澳大利亚
+# Animator / Game Designer — career analysis · Australia
 
-**职业代码：212411 – Animator。**
+**Occupation code: 212411 (ANZSCO)**
 
-动画师为影视、游戏、广告和数字媒体创作2D/3D动画内容；游戏设计师负责游戏关卡、系统和玩法机制的设计。澳洲VFX行业（电影后期制作）和独立游戏开发圈在全球具有一定影响力，设计师需要掌握专业动画软件（Maya/Blender/Unreal Engine）和扎实的艺术基础。
+Animators create 2D/3D animation content for film, games, advertising and digital media; game designers are responsible for designing levels, systems and gameplay mechanics. Australia's VFX industry (film post-production) and independent game development scene carry notable global influence, and designers are expected to be proficient in professional animation software (Maya/Blender/Unreal Engine) with a strong artistic foundation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Animation / Game Design（3年） | 3年（全日制） | $20,000~$110,000（RMIT、Swinburne、AIE等顶尖动画/游戏设计院校；国际生约 $25,000~$38,000/年） |
-| Diploma of Screen and Media（Animation）（TAFE，1~2年） | 1~2年 | $5,000~$25,000（实践型动画技术文凭） |
-| Academy of Interactive Entertainment（AIE）专项课程 | 1~2年 | $15,000~$40,000（澳洲最具影响力的游戏和VFX专业培训机构，行业对接活跃） |
-| 专业软件技能（Maya/Blender/Unity/Unreal Engine/After Effects） | 自主学习+课程 | —（Unreal Engine 5是游戏/VFX行业的新一代标准工具） |
+| Bachelor of Animation / Game Design (3 years) | 3 years (full-time) | $20,000~$110,000 (Top animation/game design schools such as RMIT, Swinburne and AIE; international student fees approximately $25,000–$38,000 per year) |
+| Diploma of Screen and Media (Animation) (TAFE, 1–2 years) | 1–2 years | $5,000~$25,000 (Practical animation technology diploma) |
+| Academy of Interactive Entertainment (AIE) specialised courses | 1–2 years | $15,000~$40,000 (Australia's most influential professional training institution for games and VFX, with active industry connections) |
+| Specialist software skills (Maya/Blender/Unity/Unreal Engine/After Effects) | Self-study + coursework | $0~$3,000 (Unreal Engine 5 is the next-generation standard tool in the games/VFX industry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Autodesk Maya Certified User | Autodesk | 可选 | 3D动画行业标准软件认证 |
-| Unreal Engine Certification | Epic Games | 可选 | 游戏开发和实时渲染行业标准工具认证 |
-| Adobe After Effects 认证 | Adobe | 可选 | 动态图形和合成特效的行业标准工具认证 |
+| Autodesk Maya Certified User | Autodesk | Optional | 3D animation industry-standard software certification |
+| Unreal Engine Certification | Epic Games | Optional | Industry-standard tool certification for game development and real-time rendering |
+| Adobe After Effects Certification | Adobe | Optional | Industry-standard tool certification for motion graphics and compositing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。JSA预测动画和游戏设计就业至2030年保持稳定至略微增长。流媒体平台（Netflix在澳洲动画内容投资增加）和游戏产业扩张是主要增长驱动力；AI动画工具改变部分基础工作流程。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. JSA projects employment in animation and game design to remain stable to slightly growing through to 2030. Streaming platforms (Netflix increasing investment in Australian animation content) and the expanding games industry are the main growth drivers; AI animation tools are changing parts of the foundational workflow.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~600 个 | 全国，含2D/3D动画师、VFX艺术家、游戏设计师岗 |
-| Indeed | 150~500 个 | 含独立游戏工作室、VFX公司和广告动画岗 |
-| LinkedIn | 300~800 个 | 游戏工作室和VFX公司直招活跃 |
-
-**竞争度：较高（★★★★☆）。**
-**工作强度：高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级动画师 / 游戏设计师（0~2年） | $52,000~$68,000 | 入门级VFX艺术家或初级游戏设计师 |
-| 动画师（2~7年） | $72,000~$92,000 | SEEK 动画师区间 $80k~$90k；PayScale 均值 $60,594（2026） |
-| 游戏设计师（2~8年） | $85,000~$118,000 | SEEK 游戏设计师 $100k~$115k；Indeed 均值 $95,251（2026） |
-| 高级VFX/动画总监（8年+） | $115,000~$200,000 | 大型VFX公司（Animal Logic等）或AAA游戏工作室高级岗 |
+| Median salary | $89,544 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior animator / game designer (0–2 years) | $52,000~$68,000 | Entry-level VFX artist or junior game designer |
+| Animator (2–7 years) | $72,000~$92,000 | SEEK animator salary range $80k–$90k; PayScale average $60,594 (2026) |
+| Game Designer (2–8 years) | $85,000~$118,000 | SEEK Game Designer $100k–$115k; Indeed average $95,251 (2026) |
+| Senior VFX / Animation Director (8+ years) | $115,000~$200,000 | Senior roles at major VFX studios (Animal Logic, etc.) or AAA game studios |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲Screen Australia持续资助本地动画和VFX制作，维持稳定的产业就业。澳洲独立游戏（Indie Game）开发圈活跃（如House House、League of Geeks等悉尼/墨尔本工作室）。AI动画工具（Runway Gen-2、Adobe Firefly）正在改变内容创作流程，但人工动画师在创意质量控制上仍不可替代。
-**AI替代风险：中高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Animators/game designers face mixed prospects: AI can efficiently generate drafts, basic animations, and procedural content, but creative decision-making, artistic style control, and complex narrative design remain human moats; industry entry barriers will slightly rise due to automation.
 
-- 3D动画与视觉特效（VFX）
-- 游戏开发（独立游戏+AAA工作室）
-- AR/VR沉浸式体验动画
-- 企业动态图形与营销动画
-- AI辅助动画制作（Adobe Firefly/Runway Gen-2）
+Screen Australia continues to fund local animation and VFX production, sustaining stable industry employment. Australia's indie game development scene is active (e.g. studios such as House House and League of Geeks in Sydney/Melbourne). AI animation tools (Runway Gen-2, Adobe Firefly) are changing content creation workflows, but human animators remain irreplaceable for creative quality control.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate basic character animations (walking, running cycles), which can be replaced by AI tools like Rokoko, DeepMotion
+- Procedural generation of game scenes, terrain, and vegetation, reducing manual modeling workload
+- Automated video editing and rotoscoping; AI can quickly extract motion data from video
+- Batch generation of basic UI animations and particle effects using AI preset templates
+- Simple dialogue animation and facial expression rigging; AI can auto-generate lip sync from audio
+
+**Where AI augments the role:**
+
+- AI-assisted concept design: quickly generate visual style explorations using text-to-image (Midjourney/Stable Diffusion) to accelerate early creative iterations
+- AI-enhanced animation refinement: use AI interpolation (e.g., Cascadeur) to improve transition naturalness between keyframes, saving manual adjustment time
+- Procedural level design assistance: AI analyses player data to automatically generate level layout suggestions and difficulty curve optimisation
+- AI-driven testing and debugging: automatically conduct game balance tests, identify bugs and gameplay flaws
+- Personalized content generation: AI adjusts game difficulty dynamically based on player behavior or generates customized animation clips
+
+**Human moat:**
+
+- Originality of artistic style: unique aesthetic style, emotional expression, and cultural narrative ability cannot be replicated by AI
+- Complex interaction design and game mechanism innovation: requires system design that understands player psychology and the essence of fun
+- Project creative leadership and artistic direction: decision-making ability to determine overall visual tone and story core
+- Cross-team collaboration communication: close cooperation with planning, programming, sound effects, and other departments, and creative implementation under technical constraints
+
+**Skills to build:**
+
+- Proficient in using AI animation tools (e.g., DeepMotion, Rokoko, Cascadeur) to improve output efficiency
+- Learning procedural generation techniques (Houdini, Unreal Engine Blueprint) combined with AI-based automated modeling
+- Master machine learning basics (Python/TensorFlow) to train custom game AI agents
+- Enhancing narrative design and creative writing skills, focusing on story-driven and emotionally engaging content
+- Strengthen project management and team leadership to adapt to AI-assisted agile development processes
+- Analyzing learning games (user behavior data) to optimize AI-driven personalized experiences
+
+**Key growth areas:**
+
+- 3D Animation & Visual Effects (VFX)
+- Game Development (Indie + AAA Studio)
+- AR/VR Immersive Animation
+- Corporate Motion Graphics & Marketing Animation
+- AI-Assisted Animation (Adobe Firefly/Runway Gen-2)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，VFX公司和游戏工作室可担保 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要VETASSESS技能评估 |
-| Subclass 190（Skilled Nominated） | 州提名通道（NSW/VIC有科技创意产业提名） |
+| Subclass 482 (Skills in Demand) | Employer sponsorship; VFX studios and game studios can sponsor |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway (NSW/VIC offer nominations for the tech and creative industries) |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学动画师/游戏设计师？**
-- 持有动画/游戏设计学位，有工业级作品集（Demo Reel/游戏Demo）
-- 掌握专业3D软件（Maya/Blender/Unreal Engine 5），技能水平可对标国际标准
-- 有VFX公司或游戏工作室工作经验，可以提供雇主担保参考
-- 有独立游戏发布或参与商业VFX项目的实际经验
-- 愿意先以自由职业或合同制方式进入澳洲市场，积累本地项目经验
-
-**谁不适合学动画师/游戏设计师？**
-- 仅有业余/个人创作动画经验，无商业项目或工作室实习经历
-- 期望通过动画/游戏设计职业快速获得技术移民（岗位数量有限，非短缺职业）
-- 不能接受游戏发布前极高强度的Crunch Time工作文化
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a degree in animation/game design with an industry-standard portfolio (Demo Reel/game demo)
+- Proficient in professional 3D software (Maya/Blender/Unreal Engine 5) to an internationally competitive standard
+- Work experience at a VFX studio or game studio can support an employer sponsorship application
+- Practical experience with independently released games or involvement in commercial VFX projects
+- Willing to enter the Australian market initially as a freelancer or on a contract basis to build local project experience
+
+**Who is not suited**
+- Only hobbyist or personal animation experience, with no commercial projects or studio internship history
+- Expecting to obtain a skilled migration visa quickly through an animation or game design career (limited positions available; not a shortage occupation)
+- Unable to accept the extreme-intensity Crunch Time work culture before game releases
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for animators/game designers in Australia?**
+A: Animators earn approximately $72,000–$92,000 (Seek $80k–$90k); game designers approximately $85,000–$118,000 (Seek $100k–$115k; Indeed $95,251); senior VFX/animation directors approximately $115k–$200k. PayScale reports an average of $60,594 for animators, reflecting the large volume of freelance and part-time income in the sector.
+
+**Q: Is it easy to find work as an animator/game designer in Australia?**
+A: Full-time positions are limited (approximately 200–600 on Seek), and competition is intense. VFX studios such as Animal Logic, Framestore, and Rising Sun Pictures, along with game studios in Melbourne and Sydney, have consistent hiring needs but set very high skill standards. Freelancing (advertising animation, corporate motion graphics) provides an additional source of income.
+
+**Q: Is Chinese animation/game industry experience recognised in Australia?**
+A: Through a VETASSESS skills assessment, work experience at animation and game studios can be recognised. The key is to produce an English-language Demo Reel (animation) or game demo (game design) that meets international standards. Experience at major VFX/game companies (NetEase, miHoYo, Tencent, etc.) carries some recognition in Australia.
+
+**Q: Will animators/game designers be replaced by AI?**
+A: Moderate-to-high risk. AI tools (Runway Gen-2, Adobe Firefly animation) are automating some basic animation tasks (background animation, in-betweening); however, character animation, emotional expression and creative direction remain irreplaceable. Gameplay innovation and level design in game development are also difficult for AI to replicate. Moving into technical director, VFX director or lead game designer roles increases resilience to AI disruption.
+
+**Q: Is there an age limit for animators in Australia?**
+A: Not applicable. Senior animation directors (aged 40–55) with extensive studio experience and project management skills are highly valued in large VFX projects. The game design industry also welcomes senior designers with a strong design portfolio.
+
+**Q: What qualifications do animators/game designers need in Australia?**
+A: Large VFX companies (such as Animal Logic) typically require a relevant undergraduate degree; game studios and small-to-mid-sized production companies place greater emphasis on Demo Reels and skill level. Diplomas from specialist training institutions such as AIE (Academy of Interactive Entertainment) are widely recognised in the industry.
+
+**Q: Is it difficult to get certified as an animator in Australia (for migration purposes)?**
+A: Difficulty is relatively high. The role is not on the MLTSSL and full-time positions are limited. It is advisable to first enrol at institutions such as AIE or RMIT on a student visa, gain local Australian studio work experience, and pursue employer-sponsored 482 visas through VFX/game companies, which is the most viable pathway.
+
+**Q: Which has better career prospects in Australia — animator or game designer?**
+A: Game designers earn slightly more ($85k–$118k vs animators at $72k–$92k) and the gaming industry is growing faster (global games market continues to expand); animators have opportunities across VFX, advertising, and corporate animation, offering more flexibility. Those with programming or technical backgrounds should choose game design; those with artistic or illustration backgrounds should choose animation. Both paths can converge (many studios value combined animation and game skills).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 动画师薪资 $80k~$90k；游戏设计师 $100k~$115k（2026） |
-| Indeed AU | 视频游戏设计师平均薪资 $95,251（2026） |
-| PayScale AU | 动画师平均薪资 $60,594（2026） |
-| Screen Australia | 澳洲动画和VFX产业就业数据 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★★） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-动画师/游戏设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲动画师/游戏设计师工资多少？**
-答：动画师约 $72,000~$92,000（SEEK $80k~$90k）；游戏设计师约 $85,000~$118,000（SEEK $100k~$115k；Indeed $95,251）；高级VFX/动画总监约 $115k~$200k。PayScale动画师均值 $60,594，反映了大量自由职业兼职收入。
-
-**问：澳洲动画师/游戏设计师容易找工作吗？**
-答：全职岗位数量有限（SEEK约200~600个），竞争激烈。Animal Logic、Framestore、Rising Sun Pictures等VFX工作室和墨尔本/悉尼游戏工作室有固定招聘需求，但对技能水平要求很高。自由职业（广告动画、企业动态图形）提供额外收入来源。
-
-**问：中国动画/游戏经验澳洲认可吗？**
-答：通过VETASSESS技能评估，中国动画和游戏工作室工作经验可以认可。关键是制作一份英语Demo Reel（动画）或游戏Demo（游戏设计），技能水平必须达到国际标准。中国主要VFX/游戏公司（网易/米哈游/腾讯等）的工作经验在澳洲有一定认可度。
-
-**问：动画师/游戏设计师会被AI替代吗？**
-答：中高风险。AI工具（Runway Gen-2、Adobe Firefly动画）正在自动化部分基础动画任务（背景动画、中间帧）；但角色动画、情感表达和创意方向决策不可替代。游戏设计中玩法创新和关卡设计也难以被AI替代。向技术总监、VFX总监和游戏主策划方向发展可提升AI抗性。
-
-**问：澳洲动画师有年龄限制吗？**
-答：无。有丰富工作室经验和项目管理能力的资深动画总监（40~55岁）在大型VFX项目中非常有价值。游戏设计行业也欢迎有丰富设计积累的资深设计师。
-
-**问：澳洲动画师/游戏设计师需要什么学历？**
-答：大型VFX公司（Animal Logic等）通常要求相关本科学历；游戏工作室和中小型制作公司更注重Demo Reel和技能水平。AIE（Academy of Interactive Entertainment）等专业培训机构的文凭被行业广泛认可。
-
-**问：澳洲动画师认证（移民）难吗？**
-答：难度较高。不在MLTSSL，全职岗位有限。建议先通过学生签证就读AIE或RMIT等院校，积累澳洲本地工作室实习经验，通过VFX/游戏公司雇主担保482是最可行路径。
-
-**问：动画师和游戏设计师哪个澳洲发展更好？**
-答：游戏设计师薪资略高（$85k~$118k vs 动画师 $72k~$92k），游戏产业增长更快（全球游戏市场持续扩张）；动画师在VFX/广告/企业动画等多领域有就业机会，更灵活。有编程/技术背景者选游戏设计；有艺术/手绘基础者选动画。两者都可以在同一路径上发展（许多工作室需要动画+游戏双技能）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

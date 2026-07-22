@@ -1,61 +1,93 @@
-# Fish and Game Wardens（Fish and Game Wardens）职业分析 · 美国
+# Fish and Game Wardens — career analysis · United States
 
-**职业代码：33-3031 – Fish and Game Wardens。**
+**Occupation code: 33-3031 (SOC)**
 
-Patrol assigned areas to prevent fish and game law violations; investigate wildlife damage to crops or property; compile biological data and enforce conservation laws.
+Patrol designated areas to prevent violations of fish and wildlife laws; investigate reports of wildlife damage to crops or property; compile biological data and enforce environmental protection regulations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $5,000~$20,000（州内社区学院学费） |
-| 学士学位 | 4年 | $20,000~$60,000（公立大学年学费） |
+| Associate degree | 2 years | $5,000~$20,000 (In-state community college tuition) |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士或学士学位（刑事司法/野生动物管理） | 认证大学 | 必备 | 多数州要求 |
-| 执法培训认证 | 州警察学院 | 必备 | 完成基础执法培训 |
-| 枪支使用认证 | 州执法机构 | 必备 | 通过射击测试 |
+| Associate or bachelor's degree (Criminal Justice/Wildlife Management) | Accredited university | Required | Required in most states |
+| Law enforcement training certification | State Police Academy | Required | Complete basic law enforcement training |
+| Firearm use certification | State law enforcement agency | Required | Pass shooting test |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 6,500。美国渔猎警官就业前景稳定，受公共安全和环境保护需求驱动。预计未来十年就业增长约5%，略低于平均水平。职位多由州政府资助，竞争中等，但流动性低。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,500. U.S. fish and game officer employment outlook is stable, driven by public safety and environmental protection needs. Expected job growth of about 5% over the next decade, slightly below average. Positions are mostly state-funded, competition is moderate, but turnover is low.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 根据州和地区差异 |
-| 中级（3-10年） | $55,000~$70,000 | 含经验与晋升 |
-| 高级（10年以上） | $70,000~$90,000 | 含主管或特殊职务 |
+| Median salary | $74,060 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Varies by state and territory |
+| Intermediate (3-10 years) | $55,000~$70,000 | Including experience and promotion |
+| Senior (10+ years) | $70,000~$90,000 | Includes supervisory or special duties |
+| average salary | $74,950 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：通常从巡逻员起步，可晋升为高级警官、区域主管或调查员。部分人转入执法管理、政策制定或野生动物生物学研究。需持续培训更新法规知识。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Game warden jobs will undergo mixed changes due to AI and automation: data collection and patrol monitoring automation reduce some traditional tasks, but core duties like law enforcement discretion and community relations remain stable, even enhanced by new tools.
+
+Career path: Usually starts as patrol officer, can advance to senior officer, area supervisor, or investigator. Some move into law enforcement management, policy-making, or wildlife biology research. Requires ongoing training to update regulatory knowledge.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring systems replace some patrol tasks
+- AI data analysis replaces manual report compilation
+- Electronic licensing and registration systems replace paperwork
+- Drone patrols replace some field inspections
+
+**Where AI augments the role:**
+
+- AI analyzes wildlife activity patterns to enhance targeted law enforcement patrols
+- Mobile apps and databases enhance case reporting efficiency
+- Real-time data sharing enhances cross-department collaboration
+- Predictive models enhance anticipation of illegal poaching areas
+
+**Human moat:**
+
+- Legal interpretation and law enforcement discretion
+- Safety judgment in human-wildlife interactions
+- Community trust and conflict mediation
+- On-site response in complex field environments
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- GIS and data analysis tools
+- Understanding AI-assisted decision systems
+- Cross-agency data collaboration skills
+- public communication and conflict resolution
+
+**Key growth areas:**
 
 - Law Enforcement
 - Conservation
@@ -64,63 +96,65 @@ Patrol assigned areas to prevent fish and game law violations; investigate wildl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常要求美国公民身份 |
-| Subclass EB-2（Employment-Based Second Preference） | 极少，仅高级专业职位可能 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通常不适用，因政府职位多要求公民 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable as this occupation usually requires US citizenship |
+| Subclass EB-2 (Employment-Based Second Preference) | Very few, only possible for senior professional positions |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Usually not applicable, as government positions often require citizenship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fish and Game Wardens？**
-- 热爱户外与野生动物保护
-- 具备执法和沟通能力
-- 能适应偏远地区工作
+**Who is suited**
+- Love for outdoor and wildlife conservation
+- Possess law enforcement and communication skills
+- Able to adapt to remote area work
 
-**谁不适合学Fish and Game Wardens？**
-- 不满足公民身份要求
-- 不喜物理巡逻和危险环境
+**Who is not suited**
+- Does not meet citizenship requirements
+- Dislike physical patrols and dangerous environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for fish and game officers?**
+A: Entry-level around $45,000-55,000 USD, mid-level $55,000-70,000, senior $70,000-90,000, depending on state and experience.
+
+**Q: Can fish and game wardens apply for a US work visa?**
+A: Extremely difficult. Most states require US citizenship, and government positions typically do not sponsor H-1B or green cards. Only very few research or management roles may be exceptions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Fish and Game Wardens属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for fish and game wardens?**
-答：Entry-level: $45,000-$55,000; mid-level: $55,000-$70,000; senior: $70,000-$90,000, varying by state and experience.
-
-**问：Can fish and game wardens get a US work visa?**
-答：Extremely difficult. Most states require US citizenship, and government positions rarely sponsor H-1B or green cards.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

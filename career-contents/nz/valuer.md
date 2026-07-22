@@ -1,59 +1,93 @@
-# Valuer（Valuer）职业分析 · 新西兰
+# Valuer — career analysis · New Zealand
 
-**职业代码：224512 – Valuer。**
+**Occupation code: 224512 (ANZSCO)**
 
-Valuers assess market values of real estate, commercial assets, and equipment for loans, insurance, taxation, and transactions. In New Zealand, the profession has steady demand, with Skilled Migrant and Green List pathways available for registered valuers.
+Valuers provide professional valuations in real estate and commercial asset sectors, serving loans, insurance, taxation, etc. The New Zealand market has ongoing demand for this occupation, with smooth technical migration pathways; those holding a registered license find it easier to obtain direct residence on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（估价/房地产） | 3年 | $25,000~$40,000（新西兰大学如梅西大学、奥克兰大学） |
-| 硕士（房地产/估价） | 1-2年 | $30,000~$50,000（适合跨专业申请人） |
+| Bachelor's degree (Valuation/Real Estate) | 3 years | $25,000~$40,000 (New Zealand universities such as Massey University and University of Auckland) |
+| Master's (Real Estate/Valuation) | 1-2 years | $30,000~$50,000 (Suitable for applicants from different academic backgrounds) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册估价师（Registered Valuer） | 新西兰估价师协会（NZIV） | 必备 | 通过实践经验和考试，ANZSCO 224512要求注册 |
-| 新西兰估价师执照 | 新西兰土地测量局（LINZ） | 必备 | 法律要求进行公共估值及特定工作 |
-| 雅思6.5分 | IELTS | 可选 | 技术移民英语要求 |
+| Registered Valuer. | New Zealand Institute of Valuers (NZIV) | Required | Requires registration through practical experience and exams, ANZSCO 224512 |
+| New Zealand Valuer License | Land Information New Zealand (LINZ) | Required | Legal requirement for public valuation and specific work |
+| IELTS 6.5 | IELTS | Optional | English language requirements for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。预计未来5年就业增长稳定，因建筑活动和房产交易活跃，且估值报告为银行和税务必需。拥有土地测量局（LINZ）认可资质者就业前景更佳，尤其在奥克兰和基督城。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 1,500. Employment growth is expected to be stable over the next 5 years, driven by active construction and property transactions, as valuation reports are essential for banks and tax authorities. Those with qualifications recognized by Land Information New Zealand (LINZ) have better job prospects, especially in Auckland and Christchurch.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 需在注册估价师监督下工作 |
-| 中级（3-6年） | $75,000~$95,000 | 具备独立估值能力 |
-| 高级（6年以上） | $95,000~$130,000 | 注册估价师或团队负责人 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Must work under the supervision of a registered valuer |
+| Mid-level (3–6 years) | $75,000~$95,000 | With independent valuation ability |
+| Senior (6+ years) | $95,000~$130,000 | Registered Valuer or Team Leader |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 晋升路径：从初级估价师升为高级估价师或团队主管，积累经验后可成为独立注册估价师或开设事务所，部分转入商业地产投资分析或资产管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
+
+Career path: from junior valuer to senior valuer or team supervisor; with experience can become independent registered valuer or open own firm; some move into commercial property investment analysis or asset management.
+
+**Tasks most exposed to AI:**
+
+- Automatically collects comparable sales data from public databases and listing websites
+- Generate standardized initial valuation report text and tables
+- Quantitative value adjustment calculations based on historical data and market trends
+- Check calculation errors and formatting consistency in appraisal reports
+
+**Where AI augments the role:**
+
+- Use AI models to quickly analyze large volumes of transaction data, identifying market trends and anomalies
+- Automatically assess location and surrounding environment using Geographic Information Systems (GIS) and street-view imagery
+- Uses parametric models to test the sensitivity of results to different valuation assumptions.
+- Automatically generate client presentation materials with data visualizations and interactive maps
+- Using natural language processing to extract key information from lease contracts and planning documents
+
+**Human moat:**
+
+- Subjective judgment and experience valuation for unique properties (e.g., historic buildings, industrial sites)
+- Handle complex appraisals involving rare property issues, legal restrictions, or environmental risks
+- Communicate and negotiate with clients, lawyers, and developers in person and explain valuation logic
+- Provides expert testimony in litigation or tax disputes
+
+**Skills to build:**
+
+- Proficiency in SQL and Python for automated data scraping and cleaning
+- Learning to use AI tools specialized for real estate appraisal (e.g., HouseCanary, Geophy)
+- Improve GIS and spatial data analysis skills for site assessment
+- Strengthen communication and negotiation skills for complex client scenarios.
+- Learn basic machine learning concepts to understand AI model bias and limitations
+- Obtain advanced certifications (e.g., AACI, P.App) to strengthen qualifications
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Valuers assess market values of real estate, commercial assets, and equipment fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 估价师在绿色清单二级职业中，工作2年后可申请居留，需注册执照 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需有雇主offer和满足6分制，注册估价师加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的临时工作，之后可转居留 |
+| Subclass Green List T2 (Green List Work to Residence) | Valuers are on the Green List Tier 2 occupation; after 2 years of work, they can apply for residence, requiring a registered license |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, requires employer offer and meeting the 6-point system, registered valuer bonus points |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for temporary work with a sponsoring employer, later convertible to residence |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Valuer？**
-- 具有房地产、金融或经济学背景者
-- 注重细节、分析能力强的人
-- 愿意考取专业注册并长期在纽发展的人
-
-**谁不适合学Valuer？**
-- 不喜欢现场考察和频繁出差者
-- 不愿意接受持续教育和考试者
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with background in real estate, finance, or economics
+- Detail-oriented and strong analytical skills
+- Individuals willing to obtain professional registration and develop long-term in New Zealand
+
+**Who is not suited**
+- Those who do not like site visits and frequent business trips
+- Those unwilling to engage in continuous education and examinations.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for valuers in New Zealand?**
+A: Entry-level valuer annual salary around NZD 55,000-75,000, mid-level NZD 75,000-95,000, senior NZD 95,000-130,000. Registered valuers earn more; commercial valuation experts can earn over NZD 150,000.
+
+**Q: Is it easy for valuers to immigrate to New Zealand?**
+A: Relatively easy. This occupation is on the Green List Tier 2; after working for 2 years, you can apply for residency; also eligible for skilled migration. The key is to obtain New Zealand Registered Valuer qualification.
+
+**Q: How to become a valuer without a New Zealand qualification?**
+A: Must have overseas qualifications and experience assessed by the New Zealand Institute of Valuers (NZIV), complete bridging courses and pass exams to obtain registration. It is recommended to first apply for an AEWV work visa to gain local experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Valuer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for valuers in New Zealand?**
-答：Entry-level valuers earn NZD 55,000-75,000, intermediate 75,000-95,000, senior 95,000-130,000. Registered valuers and commercial specialists can earn over 150,000.
-
-**问：Is it easy for valuers to migrate to New Zealand?**
-答：Relatively easy. The occupation is on Green List Tier 2, allowing residence after 2 years of work. Skilled Migrant Category is also an option. Key is obtaining New Zealand Registered Valuer status.
-
-**问：How to become a valuer without a New Zealand qualification?**
-答：Have overseas qualifications assessed by NZIV, complete any bridging courses, pass exams for registration. Consider AEWV visa first to gain local experience.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

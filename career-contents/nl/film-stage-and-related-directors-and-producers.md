@@ -1,60 +1,94 @@
-# Film, Stage and Related Directors and Producers（Film, Stage and Related Directors and Producers）职业分析 · NL
+# Film, Stage and Related Directors and Producers — career analysis · Netherlands
 
-**职业代码：2654 – Film, Stage and Related Directors and Producers。**
+**Occupation code: 2654 (ISCO08)**
 
-Responsible for creative and production management of film, stage, and TV projects, including directors and producers who coordinate teams, budgets, and schedules.
+Responsible for creative and production management of film, stage, television and other projects, including director and producer roles, coordinating teams, budgets, and schedules.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 4年 | $10,000~$20,000（公立大学学费（EU学生约€2,200，非EU约€10,000-20,000）） |
-| 职业培训/文凭 | 2-3年 | $5,000~$15,000（如荷兰电影学院等，非EU学生较高） |
+| Bachelor's degree | 4 years | $10,000~$20,000 (Public university tuition fees (EU students approx. €2,200, non-EU approx. €10,000-20,000)) |
+| Vocational training/diploma | 2-3 years | $5,000~$15,000 (e.g., Netherlands Film Academy, higher fees for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执业资格 | N/A | 可选 | 业内看重作品集和人脉，非学历硬性要求 |
-| 荷兰电影基金制作人资格 | Netherlands Film Fund | 可选 | 申请公共资金资助时需要 |
+| No mandatory practicing qualification required | N/A | Optional | Industry values portfolio and network over formal education requirements |
+| Netherlands Film Fund Producer Qualification | Netherlands Film Fund | Optional | Required when applying for public funding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。荷兰影视产业稳定发展，流媒体需求增长带来机会，但竞争激烈，自由职业者居多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. The Dutch film and television industry is developing steadily, with growing demand from streaming services creating opportunities, but competition is intense and freelancers are common.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 自由职业者收入波动大 |
-| 中级（4-9年） | $40,000~$60,000 | 有稳定项目经验的导演/制片人 |
-| 高级（10年以上） | $65,000~$100,000 | 知名导演/制片人或大型项目负责人 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Freelancers have fluctuating income |
+| Intermediate (4-9 years) | $40,000~$60,000 | Director / Producer with stable project experience |
+| Senior (10+ years) | $65,000~$100,000 | Well-known director/producer or large project lead |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★½☆）。** 可从助理或制作协调员起步，逐步晋升为制片人或导演，也可转向跨媒体制作或开设独立工作室。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
+
+Can start as assistant or production coordinator, gradually advance to producer or director, or transition to cross-media production or start own studio.
+
+**Tasks most exposed to AI:**
+
+- Use AI for script sentiment analysis, scene matching, and automatic shooting plan generation
+- AI-assisted budget preparation, scheduling optimisation, and cost forecasting.
+- Automatically generate shooting permit applications, contract drafts, and other paperwork
+- AI editing tools automatically select best shots, rough cut, and color correction
+- AI-generated temporary visual effects and background music demos
+
+**Where AI augments the role:**
+
+- AI tools quickly generate multiple script variants, aiding creative decision-making.
+- AI audience analysis tools help predict market response to different casting choices and endings
+- AI monitors footage in real time, automatically flagging technical issues (e.g., focus, exposure).
+- Tedious tasks like automatic rotoscoping and face replacement in AI-assisted post-production.
+- AI-driven virtual production (real-time rendering on LED walls), reducing location costs
+
+**Human moat:**
+
+- team leadership and cross-departmental communication skills
+- Artistic intuition and original creative decision-making
+- Flexible handling of on-site emergencies (e.g., weather, actor emotions)
+- Interpretation of deep emotional and social connotations of scripts
+
+**Skills to build:**
+
+- AI script analysis and screenwriting tools (e.g., ChatGPT, Final Draft AI plugins)
+- Virtual production technology (Unreal Engine, real-time rendering)
+- Data analysis basics (audience preferences, box office prediction models)
+- AI video editing software (e.g., DaVinci Resolve AI features, Adobe Premiere Pro Sensei)
+- Project management and remote collaboration tools (Asana, Frame.io)
+
+**Key growth areas:**
 
 - Streaming boom
 - International co-productions
@@ -63,66 +97,68 @@ Responsible for creative and production management of film, stage, and TV projec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非EU劳动力，需工作合同，雇主需为IND认可机构 |
-| Subclass Orientation Year（Orientation Year for Graduates） | 荷兰高校毕业生或全球前200大学毕业生可在1年内寻找工作 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技术人才，需工作合同且薪资门槛较高（2024年约€5,900/月） |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled non-EU workers, requires a work contract, and the employer must be an IND-recognised institution |
+| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from Dutch universities or top 200 global universities can seek employment within 1 year |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled talent, requires work contract and relatively high salary threshold (approx. €5,900/month in 2024) |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Film, Stage and Related Directors and Producers？**
-- 有创意和领导力
-- 善于沟通和项目管理
-- 能承受高压和不规律工时
+**Who is suited**
+- Creativity and leadership
+- Strong communication and project management skills
+- Able to handle high pressure and irregular hours
 
-**谁不适合学Film, Stage and Related Directors and Producers？**
-- 追求稳定工作和固定收入
-- 不喜欢团队协作和不确定环境
+**Who is not suited**
+- Seeking stable job and fixed income
+- Dislikes teamwork and uncertain environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a Dutch director/producer?**
+A: Entry-level approximately €25,000-35,000/year, mid-level €40,000-60,000/year, senior €65,000-100,000/year. Freelancers have fluctuating income.
+
+**Q: How can non-EU citizens obtain a Dutch film industry work visa?**
+A: Eligible via highly skilled migrant (kennismigrant) or EU Blue Card, requiring a work contract and relevant salary. Dutch graduates can apply for the orientation year visa.
+
+**Q: What is the career progression path for this occupation?**
+A: Start as an assistant or production coordinator, progress to producer or director, or transition to cross-media production or studio founding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等偏上（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Film, Stage and Related Directors and Producers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for film directors/producers in the Netherlands?**
-答：Junior: €25,000-35,000, mid: €40,000-60,000, senior: €65,000-100,000 per year. Freelancers have variable income.
-
-**问：How can non-EU citizens get a work visa for the Dutch film industry?**
-答：Via Highly Skilled Migrant or EU Blue Card with a job offer and required salary. Graduates can use the Orientation Year visa.
-
-**问：What is the career progression for this occupation?**
-答：Start as assistant or production coordinator, progress to producer or director, or move to cross-media production or start own studio.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

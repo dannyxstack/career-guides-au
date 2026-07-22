@@ -1,59 +1,94 @@
-# Motorcycle Driver（Motorcycle Driver）职业分析 · IE
+# Motorcycle Driver — career analysis · Ireland
 
-**职业代码：8321 – Motorcycle Driver。**
+**Occupation code: 8321 (ISCO08)**
 
-Motorcycle drivers primarily perform courier, food delivery, and passenger transport services within urban areas. The role is driven by the gig economy and logistics sectors, offering flexibility but variable income.
+Motorcycle drivers primarily deliver courier, food delivery, and passenger and freight transport services within cities, using motorcycles to complete short-distance delivery tasks. This occupation is mainly driven by the food delivery and logistics industries in Ireland, offering flexible work but unstable income.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基础教育 | 无强制要求 | —（只需完成义务教育） |
-| 摩托车驾驶培训 | 2-6个月 | $500~$2,000（包括理论考试和实践课程，费用因驾校而异） |
+| Basic education. | No mandatory requirements | $0~$0 (Only need to complete compulsory education.) |
+| Motorcycle riding training | 2-6 months | $500~$2,000 (Includes theory exams and practical courses; fees vary by driving school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 摩托车驾驶执照（类别A或A1） | Road Safety Authority | 必备 | 必须持有有效驾照，A1适用于轻便摩托车，A适用于大排量摩托车 |
-| 基本安全培训证书 | RSA认可培训机构 | 可选 | 推荐完成强制性基本培训（IBT）以提高安全性 |
-| 出租车或送货服务许可证 | 地方当局 | 可选 | 从事商业客运或货运可能需要额外许可证 |
+| Motorcycle driving license (Class A or A1) | Road Safety Authority | Required | Must hold a valid driver's license; A1 for light motorcycles, A for large motorcycles |
+| Basic safety training certificate | RSA recognized training provider | Optional | Recommended completion of mandatory basic training (IBT) to improve safety |
+| Taxi or delivery service license | Local government | Optional | Commercial passenger or freight transport may require additional licences. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。随着电子商务和外卖服务持续增长，摩托车司机需求预计稳步上升。然而，自动化和无人机配送可能在中长期影响就业。交通法规和安全要求日益严格。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. With the continued growth of e-commerce and food delivery services, demand for motorcycle drivers is expected to rise steadily. However, automation and drone delivery may impact employment in the medium to long term. Traffic regulations and safety requirements are becoming increasingly stringent.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 基于兼职或按单付费模式 |
-| 中级（3-5年） | $28,000~$36,000 | 全职且经验丰富，包括小费或奖金 |
-| 高级（5年以上） | $36,000~$45,000 | 含管理或自营业务收入 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Based on part-time or per-job payment model |
+| Mid-level (3–5 years) | $28,000~$36,000 | Full-time and experienced, including tips or bonuses |
+| Senior (5+ years) | $36,000~$45,000 | Including income from management or self-operated business |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 典型晋升路径包括车队主管或物流调度员。有经验的司机可转为两轮车教练或自营运输业务。部分人转向快递公司管理岗位。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Motorcycle drivers face high risk of automation replacement, especially in navigation, dispatching, and payment processes. Entry barriers are extremely low, and job numbers will be significantly reduced by AI-optimized unmanned delivery vehicles and drones, leading to a marked decline in income over the next 5-10 years.
+
+Typical career progression includes fleet supervisor or logistics dispatcher. Experienced drivers can become courier trainers or start their own transport business. Some move into management roles at courier companies.
+
+**Tasks most exposed to AI:**
+
+- Route navigation and optimization (replaced by navigation AI)
+- Order Receiving and Scheduling (replaced by automated dispatch system)
+- Payment and collection (replaced by mobile payments and automatic settlement)
+- Simple delivery tasks (replaced by drones/autonomous vehicles)
+- Customer communication and scoring (replaced by chatbots and automated evaluation systems)
+
+**Where AI augments the role:**
+
+- Optimize delivery routes using AI navigation to reduce time
+- Use AI to predict peak areas and order density, pre-position
+- Use real-time traffic data to avoid congestion and improve efficiency
+- Reduce cash handling time with automated payment systems
+- Improve personal service ratings through platform data analysis
+
+**Human moat:**
+
+- ability to adapt flexibly in complex traffic conditions
+- Trust relationships built through face-to-face client interaction
+- Ability to handle exceptions (e.g., address errors, user complaints)
+- Knowledge of informal information in local communities
+
+**Skills to build:**
+
+- Basic data analysis and understanding of platform operations
+- Basic understanding of multi-modal sensors (for maintaining delivery equipment)
+- Customer service and conflict resolution skills
+- Basic digital tool use (e.g. mobile payments, navigation apps)
+- Self-management and time planning skills
+- Cross-skill learning (e.g., moving into logistics management or maintenance)
+
+**Key growth areas:**
 
 - Last-mile delivery
 - Gig economy
@@ -62,68 +97,67 @@ Motorcycle drivers primarily perform courier, food delivery, and passenger trans
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，但摩托车司机通常不符合工签标准，需雇主证明劳动力短缺。 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由在爱尔兰从事该职业，无需签证。 |
-| Subclass Stamp 4 (Long Term R（Stamp 4） | 已持有其他签证的非欧盟居民，可申请长期居留后工作。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation-in-demand roles, but motorcycle drivers typically do not meet work visa criteria and require employer proof of labour shortage. |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can freely work in this occupation in Ireland without a visa. |
+| Subclass Stamp 4 (Long Term R (Stamp 4) | Non-EU residents holding other visas may apply for long-term residence after working. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Motorcycle Driver？**
-- 适应灵活工作时间者
-- 喜欢户外骑行和独立工作
-- 对收入波动有心理准备的人
-
-**谁不适合学Motorcycle Driver？**
-- 寻求稳定高收入者
-- 对天气敏感或安全顾虑较重的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those with flexible working hours.
+- Enjoys outdoor cycling and independent work.
+- People mentally prepared for income fluctuations
+
+**Who is not suited**
+- Seeking stable high-income earners
+- People who are sensitive to weather or have significant safety concerns
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income for a motorcycle driver in Ireland?**
+A: The average annual income for full-time motorcycle couriers is approximately €28,000 to €36,000, but most workers are paid per delivery, leading to significant income fluctuations.
+
+**Q: Can non-EU citizens immigrate to Ireland as motorcycle couriers?**
+A: Generally not. This occupation is not in demand and has high work permit barriers. EU citizens have free movement rights and can work freely.
+
+**Q: What business licenses are needed to operate a motorcycle transport service?**
+A: A taxi license is required for passenger transport services, while freight services may need a road transport permit. Requirements depend on service type and local regulations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★☆☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Motorcycle Driver的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a motorcycle driver in Ireland?**
-答：Full-time motorcycle drivers earn around €28,000 to €36,000 annually, but most are paid per delivery, leading to fluctuating income.
-
-**问：Can non-EU citizens immigrate to Ireland as a motorcycle driver?**
-答：Generally no. This occupation is not on the shortage list, and work permit requirements are stringent. EU citizens have free movement.
-
-**问：What business licenses are required for motorcycle transport services?**
-答：For passenger services, a taxi license is needed; for freight, a road transport permit may apply. Requirements vary by service type and local regulations.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

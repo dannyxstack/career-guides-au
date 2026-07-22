@@ -1,59 +1,95 @@
-# Insurance Risk Expert（Insurance Risk Expert）职业分析 · FR
+# Insurance Risk Expert — career analysis · France
 
-**职业代码：C1106 – Insurance Risk Expert。**
+**Occupation code: C1106 (ROME)**
 
-Insurance risk experts assess and price insurance risks, analyze data to develop underwriting strategies, ensuring profitability and risk control for insurers.
+Insurance risk experts are responsible for assessing and pricing insurance risks, analyzing data to develop underwriting strategies, ensuring insurance companies are profitable, and controlling risk exposure.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Master） | 5年（Bac+5） | $10,000~$20,000（公立大学学费约250欧元/年，私立商学院或IAE约8000-15000欧元/年） |
-| 专业硕士（Master spécialisé） | 6年（Bac+6） | $15,000~$25,000（多由商学院提供，含学徒制可能降低费用） |
+| Master's Degree (Master) | 5 years (Bac+5) | $10,000~$20,000 (Public university tuition is about 250 euros per year, while private business schools or IAE pay about 8,000-15,000 euros per year) |
+| Master of Professional Studies (Master spécialisé) | 6 years (Bac+6) | $15,000~$25,000 (Most are provided by business schools, and including apprenticeships may reduce costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险风险证书（CAPA） | 法国保险学院（ENASS） | 可选 | 从事保险中介必须持有，但风险专家通常已具备 |
-| 精算师认证 | 法国精算师协会（IA） | 可选 | 对风险建模有帮助，非强制但受青睐 |
-| 硕士文凭（Bac+5） | 大学或商学院 | 必备 | 金融、保险、精算、统计等专业 |
+| Master's Diploma (BAC+5) | University or business school | Required | Majors in finance, insurance, actuarial science, statistics, and related fields |
+| Insurance Risk Certificate (CAPA) | French Insurance Academy (ENASS) | Optional | Insurance brokers must hold it, but risk experts usually already have it |
+| Actuary certification | French Association of Actuaries (IA) | Optional | It helps with risk modeling, is non-mandatory but favored |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。法国保险业持续增长，气候变化、网络风险等新兴风险增加对专业风险专家的需求。预计就业前景稳定，大型保险公司和再保险公司需求尤旺。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. The French insurance industry continues to grow, and emerging risks such as climate change and cyber risks increase the demand for professional risk experts. Employment prospects are expected to be stable, with particularly strong demand from large insurance companies and reinsurers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 税前年薪，视公司规模和地点 |
-| 中级（3-8年） | $45,000~$60,000 | 含奖金，巴黎地区更高 |
-| 高级（8年以上） | $65,000~$90,000 | 含奖金，首席风险官可达12万以上 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$42,000 | Pre-tax annual salary depends on company size and location |
+| Mid-level (3–8 years) | $45,000~$60,000 | Including prize money, the Paris area is even higher |
+| Senior (8+ years) | $65,000~$90,000 | Including bonuses, the Chief Risk Officer can earn over 120,000. |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级分析师可晋升为高级风险专家、团队负责人，再至首席风险官（CRO）。也可转向精算、合规或再保险领域，路径清晰。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance insurance risk experts' data analysis and forecasting capabilities, making risk assessment more accurate, but core decision-making and regulatory responsibilities still need human leadership.
+
+Junior analysts can be promoted to senior risk specialists, team leaders, and eventually Chief Risk Officers (CROs). You can also pivot to actuarial, compliance, or reinsurance fields, with a clear path.
+
+**Tasks most exposed to AI:**
+
+- Preliminary risk scoring and classification of bulk policies
+- Standardized data cleaning and feature engineering
+- Draft a routine risk report
+- Monitor price changes and generate alerts
+- Check the regulatory compliance checklist
+
+**Where AI augments the role:**
+
+- Machine learning models are used to identify high-dimensional risk factors
+- Real-time dynamic pricing optimization and simulation
+- Automated abnormal claims mode detection
+- Generate personalized reinsurance strategy recommendations
+- Build interpretable AI to assist underwriting decisions
+
+**Human moat:**
+
+- Qualitative assessments of emerging risks (such as climate change and cybersecurity).
+- Manual final approval responsibility under regulatory compliance
+- Risk communication and negotiation with brokers and clients
+- Strategic setting of the company's overall risk appetite
+- Handling unstructured, small-sample, or extreme events
+
+**Skills to build:**
+
+- Python/R programming and statistical modeling
+- Machine learning (gradient lifting, neural networks) applications
+- Explanation of AI (SHAP, LIME) technologies
+- Natural Language Processing (Contract Clause Analysis)
+- Practical use of insurtech tools (such as RiskGenius)
+- RegTech understands
+
+**Key growth areas:**
 
 - Climate risk modeling
 - Cyber insurance
@@ -62,68 +98,67 @@ Insurance risk experts assess and price insurance risks, analyze data to develop
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 面向高技能人才，适用于工程师或专家，需硕士学历及工作合同，有效期4年，可续签，配偶可工作。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需至少3年经验及高薪（2025年门槛约46,000欧元/年），有效期4年，可带家属。 |
-| Subclass Salarié（Employee Residence Permit） | 基于工作合同，需获得法国劳动局（France Travail）批准，通常与雇主绑定，首期1年，可续。 |
+| Subclass Passeport Talent (Talent Passport) | Targeting highly skilled talents, suitable for engineers or experts, requiring a master's degree and a work contract, valid for 4 years, renewable and allowed for spouses to work. |
+| Subclass Carte bleue UE (EU Blue Card) | At least 3 years of experience and high salary (2025 threshold is about 46,000 euros/year), valid for 4 years, and can bring family members. |
+| Subclass Salarié (Employee Residence Permit) | Based on the employment contract, approval from the French Labour Bureau (France Travail) is required, usually tied to the employer, with a 1-year initial installment and renewable options. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Risk Expert？**
-- 具备扎实的数学和统计背景，喜欢分析数据
-- 对风险管理有热情，愿意持续学习
-- 希望在金融保险业发展职业，追求稳定高薪
-
-**谁不适合学Insurance Risk Expert？**
-- 不喜欢数字和数据分析
-- 抗压能力弱，不愿处理复杂风险模型
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Solid background in mathematics and statistics, enjoys analyzing data
+- Passionate about risk management and willing to keep learning
+- They hope to develop a career in finance and insurance, pursuing stable and high salaries
+
+**Who is not suited**
+- Dislikes numbers and data analysis
+- Weak stress tolerance and reluctance to handle complex risk models
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of insurance risk specialists in France?**
+A: Entry-level around EUR 35,000-42,000, mid-level EUR 45,000-60,000, senior EUR 65,000-90,000, and Chief Risk Officer can exceed EUR 120,000 (pre-tax).
+
+**Q: How can foreigners immigrate to France as insurance risk experts?**
+A: Available through Passeport Talent or EU Blue Card. Master's degree or above, work contract, French B2 or above. Shortage positions can accelerate work permit approval.
+
+**Q: What certifications are required?**
+A: A master's diploma in finance/insurance/actuarial actuaries is usually required. CAPA and actuary certifications are not mandatory but beneficial.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Insurance Risk Expert的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for an Insurance Risk Expert in France?**
-答：Entry-level: €35,000–€42,000, mid-level: €45,000–€60,000, senior: €65,000–€90,000, CRO can exceed €120,000 (gross).
-
-**问：How can a foreigner migrate to France as an Insurance Risk Expert?**
-答：Via Passeport Talent or EU Blue Card. Requires at least a Master's degree, job offer, and B2 French. Shortage occupation may expedite work permits.
-
-**问：What qualifications are needed?**
-答：Typically a Master's degree in finance/insurance/actuarial science. CAPA and actuary certification are advantageous but not mandatory.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

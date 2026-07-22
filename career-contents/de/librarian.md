@@ -1,60 +1,95 @@
-# Librarian（Librarian）职业分析 · DE
+# Librarian — career analysis · Germany
 
-**职业代码：7332 – Librarian。**
+**Occupation code: 7332 (KldB)**
 
-Librarians manage and organize books, periodicals, and digital resources, provide information retrieval and reference services, and develop strategic plans for library development.
+Librarians manage and organize books, journals, digital resources, provide information retrieval and consultation services for users, and develop strategic plans for library development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 (Fachangestellter für Medien- und Informationsdienste) | 3年 | —（双元制培训通常由企业或公共机构资助，无学费，且每月有津贴约800-1200欧元） |
-| 本科 (Bachelor of Arts in Bibliotheks- und Informationswissenschaft) | 3-4年 | —（德国公立大学本科通常无学费，仅每学期少量注册费（约150-350欧元）） |
-| 硕士 (Master of Arts in Bibliotheks- und Informationswissenschaft) | 2年 | —（硕士阶段也基本免学费，部分继续教育项目可能有费用） |
+| Dual system training (Fachangestellter für Medien- und Informationsdienste) | 3 years | $0~$0 (Dual system training is usually funded by companies or public institutions, with no tuition fees and a monthly allowance of approximately €800-1,200) |
+| Bachelor (Bachelor of Arts in Library and Information Science) | 3-4 years | $0~$1,500 (German public universities typically have no tuition fees for undergraduate programs, only a small semester fee (approx. EUR 150-350)) |
+| Master of Arts in Library and Information Science | 2 years | $0~$1,500 (Master's programs are also largely tuition-free; some continuing education programs may have fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 本科或硕士学位（图书馆学/信息学） | 德国高校 | 必备 | 学术型图书馆员通常要求硕士学历；双元制培训毕业生可从事技术性工作 |
-| 资质认证（Anerkennung） | 德国联邦州的主管机构 | 必备 | 非欧盟学历需通过认证，证明与德国学历等价 |
-| 公务员资格（可选） | 德国联邦或州政府 | 可选 | 公共图书馆中的高级职位通常要求成为公务员（Beamter），需通过专门考试 |
+| Bachelor's or Master's degree (Library Science/Information Science) | German universities | Required | Academic librarians typically require a master's degree; graduates of dual-system training can pursue technical roles. |
+| Qualification recognition (Anerkennung) | Competent authority of the German federal state | Required | Non-EU qualifications must be certified as equivalent to German qualifications |
+| Civil service qualification (optional) | German federal or state government. | Optional | Senior positions in public libraries usually require becoming a civil servant (Beamter), passing a specialized examination |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,000。随着数字化发展，德国图书馆员需求稳定，尤其是在公共图书馆和学术图书馆领域。数字化转型带来新的工作机会，但竞争来自信息专业人士。预计未来十年就业增长约5%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. With digitalization, demand for librarians in Germany is stable, especially in public and academic libraries. Digital transformation brings new job opportunities, but competition from information professionals exists. Employment is expected to grow about 5% over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 德国公共图书馆TVöD级别E9起薪约33000欧元 |
-| 中级（3-7年） | $38,000~$48,000 | 经验馆员可达TVöD E9-E11，年薪约40000-47000欧元 |
-| 高级（7年以上） | $48,000~$60,000 | 图书馆主任或高级专家可达TVöD E12-E13，年薪50000-60000欧元 |
+| Median salary | $52,500 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$38,000 | German public libraries: starting salary around €33,000 at TVöD level E9 |
+| Mid-level (3–7 years) | $38,000~$48,000 | Experienced librarians can reach TVöD E9-E11, annual salary approximately €40,000-47,000 |
+| Senior (7+ years) | $48,000~$60,000 | Library directors or senior specialists can earn TVöD E12-E13, annual salary €50,000-€60,000 |
+| average salary | $56,916 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级图书馆员可通过进修成为专业馆员或部门主管，晋升路径包括图书馆主任、高级咨询师。继续教育（如信息科学硕士）有助于向数据管理或数字图书馆方向发展。
-**AI替代风险：中等偏低（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: basic search and cataloging will be automated, but complex reference, information literacy education, and resource strategic planning are enhanced by AI; the moat lies in interpersonal service and decision-making skills.
+
+entry-level librarians can advance to professional librarians or department heads through further training, with career progression including library director and senior consultant. Continuing education (e.g., Master's in Information Science) helps move towards data management or digital library roles.
+
+**Tasks most exposed to AI:**
+
+- Automated book cataloging and classification (based on AI metadata extraction)
+- Basic information retrieval and FAQ Q&A (chatbots)
+- Book returns, inventory, and shelf management (RFID + robots)
+- Routine document delivery and appointment processing
+
+**Where AI augments the role:**
+
+- Complex research topic strategy development (AI-assisted analysis of user needs)
+- Digital resource procurement evaluation (AI-predicted usage trends)
+- Information literacy course development (AI-generated personalized learning materials)
+- Digitization of collection resources and metadata quality control (AI auto-proofreading)
+- Reader behavior analysis to optimize service layout (AI data visualization)
+
+**Human moat:**
+
+- In-depth reference consultation and critical information evaluation
+- Personalized service design for specific communities (e.g., children, elderly)
+- Decision-making and budget allocation for collection development strategy
+- Specialized domain knowledge in academic research support (e.g., special collections)
+- Handling intellectual property and privacy ethics issues
+
+**Skills to build:**
+
+- Advanced use of AI information retrieval tools (e.g., Perplexity, Semantic Scholar)
+- Data analysis and visualization (Python/R)
+- Digital asset management (DAM system operation)
+- User Research and Human-Centered Design Methods
+- Understanding of privacy and data ethics regulations (e.g., GDPR)
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Digitalization
 - Open Access
@@ -63,69 +98,68 @@ Librarians manage and organize books, periodicals, and digital resources, provid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于拥有德国认可大学学历且年薪不低于43300欧元（2024年标准）的申请人。图书馆员通常达到此标准。 |
-| Subclass Skilled Worker（Skilled Immigration Act - Work Visa） | 适用于拥有德国认可职业资格的申请人，无需蓝卡最低薪资要求，但需有具体工作合同。 |
-| Subclass Chancenkarte（Opportunity Card） | 2024年起实施，基于积分制，允许尚未找到工作的求职者进入德国找工一年。适合有图书馆学背景者。 |
-| Subclass Job Seeker Visa（Job Seeker Visa） | 允许高学历人士在德国停留6个月寻找工作，需证明足够经济能力。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with a German-recognized university degree and annual salary of at least €43,300 (2024 standard). Librarians typically meet this threshold. |
+| Subclass Skilled Worker (Skilled Immigration Act - Work Visa) | For applicants with recognized German professional qualifications, no minimum salary requirement of the Blue Card, but a specific employment contract is needed. |
+| Subclass Chancenkarte (Opportunity Card) | Implemented from 2024, based on a points system, allowing job seekers who have not yet found a job to enter Germany for one year to search for work. Suitable for those with a library science background. |
+| Subclass Job Seeker Visa (Job Seeker Visa) | Allows highly qualified individuals to stay in Germany for 6 months to find work; must prove sufficient financial means. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Librarian？**
-- 喜欢安静工作环境、热爱阅读和信息组织的人士
-- 具备良好沟通能力和服务意识，乐于帮助他人获取信息
-- 对数字技术和信息管理感兴趣，愿意持续学习新工具
-
-**谁不适合学Librarian？**
-- 不喜欢重复性事务和案头工作的人
-- 对薪资有较高期望，追求高收入职业的求职者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those who prefer a quiet work environment, enjoy reading, and organizing information
+- Possess good communication skills and a service-oriented attitude, willing to help others obtain information
+- Those interested in digital technology and information management, willing to continuously learn new tools
+
+**Who is not suited**
+- For those who dislike repetitive tasks and desk work
+- Job seekers with high salary expectations pursuing high-income careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of librarians in Germany?**
+A: German librarians: pre-tax annual salary entry-level approx. EUR 30,000-38,000, mid-level approx. EUR 38,000-48,000, senior up to EUR 50,000-60,000. Public libraries follow TVöD standards; academic libraries pay slightly higher.
+
+**Q: Can I, as a librarian from a non-EU country, immigrate to Germany for work?**
+A: Yes. If you have a German-recognized library science degree or have passed qualification certification, you can obtain a work visa or EU Blue Card under the Skilled Immigration Act. Public library positions usually require good German language skills (C1).
+
+**Q: What qualifications are needed to become a librarian in Germany?**
+A: There are two main paths: one is to complete a 3-year dual training program (Fachangestellter für Medien- und Informationsdienste), and the other is to pursue a bachelor's or master's degree in library science. Academic libraries typically require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等偏低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Librarian的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for librarians in Germany?**
-答：Gross annual salary for librarians in Germany ranges from €30,000-€38,000 for entry-level, €38,000-€48,000 for mid-level, and up to €50,000-€60,000 for senior positions, based on public sector collective agreements.
-
-**问：Can I immigrate to Germany as a librarian from a non-EU country?**
-答：Yes, with a recognized degree in library science or equivalence, you can get a work visa or EU Blue Card. Public library positions typically require good German (C1).
-
-**问：What education is needed to become a librarian in Germany?**
-答：Two main paths: a 3-year dual education (Fachangestellter für Medien- und Informationsdienste) or a bachelor's or master's degree in library science. Academic libraries usually require a master's degree.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

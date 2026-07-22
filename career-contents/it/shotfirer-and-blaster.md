@@ -1,61 +1,95 @@
-# Shotfirer and Blaster（Shotfirer and Blaster）职业分析 · IT
+# Shotfirer and Blaster — career analysis · Italy
 
-**职业代码：7542 – Shotfirer and Blaster。**
+**Occupation code: 7542 (ISCO08)**
 
-Specialized technician in charge of charging, detonating explosives and safety monitoring in quarries, mines and construction sites in Italy, requiring a national blasting license.
+Specialised trade in Italian quarries, mines and construction sites responsible for explosive charging, detonation and safety monitoring; requires national blasting license.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业学校 | 5年（中学+2年职校） | —（公立教育免费，职校少量材料费） |
-| 爆破技术培训 | 200小时 | $3,000~$5,000（由授权机构提供，含理论和实操） |
+| High school/vocational school | 5 years (secondary school + 2 years vocational school) | $0~$2,000 (Public education is free; vocational schools charge a small fee for materials.) |
+| Blasting technology training | 200 hours | $3,000~$5,000 (Provided by an authorized institution, including theory and practical sessions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家爆破许可证 | 意大利劳动与社会政策部 | 必备 | 必须通过理论和实践考试，每5年更新 |
-| 急救证书 | 意大利红十字会或认证机构 | 可选 | 建议持有，部分雇主要求 |
-| 健康体检证明 | 职业健康医生 | 必备 | 每年一次，证明无禁忌症 |
+| National blasting permit | Italian Ministry of Labor and Social Policies | Required | Must pass theory and practical exams, renewed every 5 years |
+| Health certificate | Occupational health doctor | Required | Once a year, proof of no contraindications |
+| First aid certificate | Italian Red Cross or accredited organizations | Optional | Recommended, some employers require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。意大利北部采石场和南部基建项目对爆破工需求稳定，但岗位总量有限。未来5年就业增长约5%，受基础设施投资和矿山更新驱动。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,500. Demand for blasters is stable in Northern Italian quarries and Southern infrastructure projects, but total positions are limited. Employment growth of about 5% over the next 5 years, driven by infrastructure investment and mine upgrades.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含加班补贴 |
-| 中级（3-8年） | $32,000~$40,000 | 税前年薪，含危险津贴 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，主管级额外奖金 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual salary before tax, including overtime allowances |
+| Mid-level (3–8 years) | $32,000~$40,000 | Pre-tax annual salary, including hazard allowance |
+| Senior (8+ years) | $40,000~$50,000 | Pre-tax annual salary, with additional bonuses for supervisor level |
+| average salary | $36,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从爆破助理起步，考取高级爆破证后可升任爆破主管或安全顾问，部分转向爆破培训或爆破器材销售。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+A blaster's work combines high-risk manual operations and fixed processes; although AI/automation can optimize blasting design and remote monitoring, it cannot replace core physical tasks such as on-site charging and wiring, so the outlook is mixed.
+
+Start as a blasting assistant, obtain advanced blasting certificate to become blasting supervisor or safety consultant, some transition to blasting training or blasting equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Blasting design calculations: AI can automatically calculate charge weight, hole spacing, and other parameters to generate blasting plans.
+- Safety monitoring and early warning: real-time detection of hazardous gases, vibrations, and alerts using sensors and visual AI
+- Blast records and reports: automatically generate blasting logs and compliance reports
+- Inventory management: AI optimizes inventory and usage records of explosives and detonators
+
+**Where AI augments the role:**
+
+- Geological analysis and blast optimization: AI-assisted analysis of rock structure to improve blast efficiency
+- Remote monitoring and drone inspection: use drones and AI to identify unexploded ordnance and slope stability
+- Safety training and simulations: VR/AI simulated blasting accidents to improve emergency response
+- Equipment maintenance prediction: AI predicts failures of drilling machines and other equipment, reducing downtime
+
+**Human moat:**
+
+- Decision-making and adaptability in hazardous on-site environments
+- Fine motor skills such as handheld charging and wiring
+- Intuitive judgment of dynamic field conditions, such as geology and weather
+- Statutory licensing responsibilities and enforcement of safety regulations
+- Team coordination and leadership in emergency situations
+
+**Skills to build:**
+
+- Basic Programming and Data Management: Python/Excel for handling blasting data
+- Drone operation and image analysis: used for site inspection before and after blasting
+- Digital geological modeling: learn software such as Surpac, Datamine
+- Basics of Sensors and IoT: Understanding deployment and troubleshooting
+- Safety regulation updates: continuously learn automated blasting safety standards
+- Collaboration software: such as BIM, project management tools
+
+**Key growth areas:**
 
 - Infrastructure
 - Quarry
@@ -64,66 +98,68 @@ Specialized technician in charge of charging, detonating explosives and safety m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合非欧盟高技能工人，需年薪≥€28,000（2025年阈值），爆破工通常达标 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额内雇主担保，适合非欧盟工人，爆破工属于建筑类有时在配额名单中 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主向移民局申请工作许可，审核通过后可申请工作签证 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for non-EU high-skilled workers, requires annual salary ≥ €28,000 (2025 threshold); blasters typically meet this |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Employer-sponsored with annual quota, suitable for non-EU workers, blaster is in construction and sometimes on the quota list |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply for work permission from the Department of Home Affairs; after approval, a work visa can be applied for. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shotfirer and Blaster？**
-- 喜欢户外体力工作、不惧危险、注重安全规范的人
-- 愿意接受严格培训和定期考核的人
-- 愿意在偏远地区采石场或矿山工作的人
+**Who is suited**
+- People who enjoy outdoor physical work, are not afraid of danger, and prioritize safety regulations
+- Willing to undergo strict training and regular assessments.
+- People willing to work in remote quarries or mines
 
-**谁不适合学Shotfirer and Blaster？**
-- 对噪音、粉尘敏感或害怕爆炸的人
-- 追求办公室工作和固定周末休息的人
+**Who is not suited**
+- People sensitive to noise, dust, or afraid of explosions
+- People who seek office work and fixed weekends off
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary range for a blaster in Italy?**
+A: Junior approx. 25,000-30,000 EUR, intermediate to senior up to 40,000-50,000 EUR (pre-tax), including danger pay and overtime.
+
+**Q: How can non-EU citizens obtain an Italian blaster work visa?**
+A: The employer must first apply for a Nulla Osta work permit, then apply for a Decreto Flussi quota work visa or EU Blue Card (annual salary ≥€28,000). Blaster is not on the official shortage occupation list, but construction sometimes has quotas.
+
+**Q: What licenses and permits are needed for blasters in Italy?**
+A: Must hold a national blasting license (renewed every 5 years) and pass a health check. Holding a first aid certificate is recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shotfirer and Blaster属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for shotfirers in Italy?**
-答：Entry-level around €25,000-€30,000, senior up to €40,000-€50,000 (pre-tax), including hazard pay and overtime.
-
-**问：How can a non-EU citizen obtain a work visa for shotfirer in Italy?**
-答：Employer must apply for Nulla Osta, then apply for Decreto Flussi work visa or EU Blue Card (salary ≥€28,000). Not on shortage list, but construction quotas may apply.
-
-**问：What certifications are required for shotfirers in Italy?**
-答：Mandatory national blasting license (renewed every 5 years) and annual health check. First aid certificate recommended.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

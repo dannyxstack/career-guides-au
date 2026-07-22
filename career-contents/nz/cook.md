@@ -1,59 +1,92 @@
-# Cook（Cook）职业分析 · 新西兰
+# Cook — career analysis · New Zealand
 
-**职业代码：351411 – Cook。**
+**Occupation code: 351411 (ANZSCO)**
 
-Cook is steadily in demand in New Zealand's hospitality industry, but skilled migration is challenging; typically requires gaining experience via Accredited Employer Work Visa before applying for residence, with Green List only for senior roles.
+Chef demand in New Zealand's hospitality industry is stable, but skilled migration is difficult; need to gain experience through accredited employer work visa before applying for residency, Green List only for senior positions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家证书（烹饪）4级 | 1年 | $15,000~$25,000（公立理工学院或私立培训机构） |
-| 新西兰烹饪文凭5级 | 2年 | $30,000~$45,000（更高职位要求） |
+| New Zealand National Certificate (Cookery) Level 4 | 1 year | $15,000~$25,000 (Public polytechnics or private training institutions) |
+| New Zealand Diploma in Cookery Level 5 | 2 years | $30,000~$45,000 (Higher position requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家烹饪证书4级 | NZQA认可机构 | 必备 | 基本入行要求 |
-| 食品安全证书 | 地方议会 | 可选 | 部分雇主必需要求 |
-| 雅思6.0（移民要求） | IELTS | 可选 | 技术移民语言门槛 |
+| New Zealand Certificate in Cookery Level 4. | NZQA-recognised institution | Required | Basic entry requirements |
+| Food safety certificate | Local council | Optional | Required by some employers |
+| IELTS 6.0 (immigration requirement) | IELTS | Optional | Language threshold for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 35,000。新西兰旅游业复苏带动餐饮需求，厨师岗位预计未来5年增长中速，但竞争激烈，偏远地区机会更多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 35,000. New Zealand's tourism recovery boosts food demand; chef positions expected to grow at a moderate rate over the next 5 years, but competition is fierce, with more opportunities in remote areas.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约22-27纽币 |
-| 中级（3-5年） | $55,000~$65,000 | 时薪约27-32纽币 |
-| 高级（5年以上） | $65,000~$80,000 | 时薪约32-40纽币，主厨更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately 22-27 NZD |
+| Mid-level (3–5 years) | $55,000~$65,000 | Hourly wage approx. NZD 27-32 |
+| Senior (5+ years) | $65,000~$80,000 | hourly rate approx. NZD 32-40, higher for head chefs |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级厨师可晋升至高级厨师、副主厨或酒店餐饮管理，需持续学习新菜系及食品安全知识。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
+
+Junior chefs can advance to senior chef, sous chef, or hotel food and beverage management, requiring continuous learning of new cuisines and food safety knowledge.
+
+**Tasks most exposed to AI:**
+
+- Standard repetitive cooking tasks such as frying, stir-frying, and other fixed-procedure dishes can be completed by AI-controlled robots.
+- Recipe and ingredient management: AI systems can automatically optimise recipes, calculate ingredient ratios, and generate purchase lists.
+- Inventory counting and ordering: AI vision and barcode scanning systems monitor stock in real time and place orders automatically.
+- Customer ordering and order transmission: self-service kiosks and AI voice systems replace waitstaff taking and passing orders to kitchen.
+
+**Where AI augments the role:**
+
+- Menu innovation and dish development: AI analyzes dietary trends, ingredient pairings, and nutritional data to assist chefs in designing new dishes.
+- Cost control and food procurement: AI systems forecast demand, optimize purchase volumes, reduce waste, and increase profits
+- Quality control and consistency: AI vision systems monitor the color, size, and plating of each dish to ensure standard output.
+- Kitchen scheduling and workflow optimization: AI automatically schedules based on customer flow predictions and coordinates equipment usage to improve efficiency.
+
+**Human moat:**
+
+- Fine manual skills like knife work and heat control: AI cannot replicate a chef's intuition for ingredient texture and craftsmanship.
+- Creativity and personalized customization: improvise flavors and plating based on guest needs, showcasing artistry and human touch
+- Tasting and flavor assessment: human perception of subtle flavors (e.g., acidity, umami) far surpasses any sensor.
+- Kitchen leadership and team collaboration: managing kitchen staff, handling emergencies (e.g., excessive heat, customer complaints), requiring interpersonal coordination.
+
+**Skills to build:**
+
+- Learn to use AI kitchen management systems: e.g., inventory, purchasing, scheduling software such as Mozza or KitchenCUT.
+- Master food science and nutrition analysis: use AI tools to design healthy menus meeting special dietary needs.
+- Data interpretation and cost modeling: adjusting menu pricing and supply strategies based on sales data.
+- Enhance creative cooking and fusion cuisine skills: personalize services beyond standard dishes.
+- Learn to operate and maintain robotic equipment: such as automatic stir-fryers, smart ovens, etc.
+- Enhance leadership and communication skills: manage teams, train new chefs on AI tools.
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -62,68 +95,67 @@ Cook is steadily in demand in New Zealand's hospitality industry, but skilled mi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见工签路径，需认证雇主担保，工作满3年可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 需6分制，厨师通常需学历+经验组合，薪资达标可加分 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 仅限高级厨师（Chef de Partie以上），工作2年后申请居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Most common work visa path, requires accredited employer sponsorship, eligible for residence after 3 years of work |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system; chefs usually need a combination of qualifications and experience, and meeting salary requirements can add points |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Only for senior chefs (Chef de Partie and above), apply for residency after 2 years of work |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cook？**
-- 热爱烹饪并有实际厨房经验的人
-- 愿意在偏远地区或旅游热点工作的人
-- 能承受高强度、高压工作环境的人
-
-**谁不适合学Cook？**
-- 追求高薪或快速移民的人
-- 不习惯轮班制及周末工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love cooking and have practical kitchen experience
+- Willing to work in remote areas or tourist hotspots
+- People who can handle high-intensity, high-pressure work environments
+
+**Who is not suited**
+- Those seeking high salary or fast immigration.
+- Those not accustomed to shift work or weekend work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a chef in New Zealand?**
+A: Entry-level chefs earn about NZ$45,000-55,000, mid-level NZ$55,000-65,000, senior chefs up to NZ$80,000+, requiring experience and certification.
+
+**Q: Is it easy for chefs to immigrate to New Zealand?**
+A: Not easy. Chefs are not on the Green List fast track; need to apply for residence after 3 years on AEWV, or meet SMC points, usually requiring employer sponsorship.
+
+**Q: Which regions have high demand for chefs?**
+A: High demand in tourist areas like Queenstown, Christchurch, and Wellington, but cost of living is high; competition is fierce in Auckland.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Cook的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cook in New Zealand?**
-答：Entry-level cooks earn NZD 45,000-55,000, mid-level 55,000-65,000, senior up to 80,000+ with experience and qualifications.
-
-**问：Is it easy for a cook to immigrate to New Zealand?**
-答：Not easy. Cook is not on the Green List fast track; typically requires AEWV for 3 years before residence, or SMC points, often requiring employer sponsorship.
-
-**问：Which regions have high demand for cooks?**
-答：Tourist areas like Queenstown, Christchurch, Wellington have strong demand but high cost of living; Auckland is competitive.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

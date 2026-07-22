@@ -1,58 +1,94 @@
-# Environmental Scientists nec（Environmental Scientists nec）职业分析 · 新西兰
+# Environmental Scientists nec — career analysis · New Zealand
 
-**职业代码：234399 – Environmental Scientists nec。**
+**Occupation code: 234399 (ANZSCO)**
 
-Environmental scientists study pollution control, resource management, and ecological conservation, providing sustainability advice. In NZ, this occupation is eligible for Green List Tier 1 direct residence or Skilled Migrant Category 6-point system, offering favorable immigration pathways.
+Environmental scientists study pollution control, resource management, and ecological protection, providing sustainable development advice to governments and businesses. This occupation can apply for residence directly via New Zealand's Green List T1 or through the Skilled Migrant Category SMC 6-point system, with good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（新西兰大学学费，国际生每年约3-4.5万NZD） |
-| 硕士学位 | 1-2年 | $35,000~$50,000（硕士课程学费，每年约3.5-5万NZD） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (New Zealand university tuition for international students: approx. NZD 30,000–45,000 per year) |
+| Master's degree | 1-2 years | $35,000~$50,000 (Master's program tuition fees, approximately NZD 35,000 to 50,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学学位 | 新西兰大学 | 必备 | 需获得认可学历，通常为科学或工程相关学位 |
-| IELTS总分6.5 | IDP或British Council | 必备 | 技术移民需英语能力，雅思各单项不低于6.0 |
+| Environmental science degree | New Zealand universities | Required | Must have a recognized qualification, usually a degree in science or engineering. |
+| IELTS overall score 6.5. | IDP or British Council | Required | Skilled migration requires English proficiency, with no band below 6.0 in IELTS |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 1,200。新西兰对环境科学家的需求持续增长，特别是在水资源质量、气候变化适应和可再生能源领域。政府环保法规趋严，推动相关职位增加。未来5年预计增长15%，大城市和区域中心均有就业机会。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. Demand for environmental scientists in New Zealand continues to grow, particularly in water quality, climate change adaptation, and renewable energy. Stricter government environmental regulations are driving job creation. Expected 15% growth over the next 5 years, with opportunities in major cities and regional centers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 毕业生或入门级职位 |
-| 中级（3-7年） | $75,000~$100,000 | 有经验的科学家 |
-| 高级（7年以上） | $100,000~$130,000 | 高级科学家或团队领导 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Graduate or entry-level positions |
+| Mid-level (3–7 years) | $75,000~$100,000 | Experienced scientist |
+| Senior (7+ years) | $100,000~$130,000 | Senior scientist or team leader |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级分析师可晋升为高级科学家或团队领导，进而转向政策顾问或项目经理。具备10年以上经验者可担任首席科学家或环境总监，部分人进入学术界或自主创业。
-**AI替代风险：低风险（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Junior analysts can advance to senior scientists or team leaders, then move to policy advisors or project managers. Those with over 10 years of experience can become chief scientists or environmental directors, with some entering academia or starting their own businesses.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,64 +97,63 @@ Environmental scientists study pollution control, resource management, and ecolo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 直接居留路径，满足绿色清单职业要求即可申请，无需先工作，需有认证雇主offer且薪资达标。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据学历、工作经验和薪资等打分，满6分即可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合先工作后移民的路径，需认证雇主offer。 |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence pathway, apply if you meet Green List occupation requirements, no need to work first, must have a job offer from an accredited employer and meet salary threshold. |
+| Subclass SMC (Skilled Migrant Category) | Six-point skilled migration: score points based on qualifications, work experience, and salary; apply once you reach 6 points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer-sponsored visa, suitable for work-then-migrate pathway, requires approved employer offer. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Scientists nec？**
-- 对环境科学有热情，愿意长期从事环保工作的人
-- 具备数据分析能力和跨学科背景，善于沟通协作的人
-
-**谁不适合学Environmental Scientists nec？**
-- 不喜欢户外工作或频繁出差的人
-- 缺乏耐心，不愿处理复杂环境法规和报告的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about environmental science and willing to engage in long-term environmental protection work
+- Those with data analysis skills, interdisciplinary background, and strong communication and collaboration abilities
+
+**Who is not suited**
+- People who dislike outdoor work or frequent travel
+- Those lacking patience and unwilling to deal with complex environmental regulations and reports
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an environmental scientist?**
+A: Junior NZD 55,000-75,000, mid-level NZD 75,000-100,000, senior NZD 100,000-130,000. Salaries increase with experience and qualifications. Government positions are usually stable but slightly lower; private sector is more competitive.
+
+**Q: How can environmental scientists migrate to New Zealand through skilled migration?**
+A: This occupation is eligible for immigration under the Green List T1 (Direct Residence) and the SMC 6-point system. Requires a job offer from an accredited employer, matching qualifications, and a salary not below the median (approx. NZD 29.66 per hour). No work experience required if applying via the 6-point system using qualification points (e.g., PhD 6 points).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低风险（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Environmental Scientists nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for environmental scientists?**
-答：Entry-level: NZD 55,000-75,000; mid-level: NZD 75,000-100,000; senior: NZD 100,000-130,000. Government roles offer stability, private sector may pay higher.
-
-**问：How can environmental scientists immigrate to New Zealand?**
-答：This occupation is on Green List Tier 1 (direct residence) and SMC 6-point system. Requires accredited employer offer, relevant degree, and salary above median (approx. NZD 29.66/hr). PhD holders can directly reach 6 points.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

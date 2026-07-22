@@ -1,61 +1,94 @@
-# Pesticide Handlers, Sprayers, and Applicators, Vegetation（Pesticide Handlers, Sprayers, and Applicators, Vegetation）职业分析 · 美国
+# Pesticide Handlers, Sprayers, and Applicators, Vegetation — career analysis · United States
 
-**职业代码：37-3012 – Pesticide Handlers, Sprayers, and Applicators, Vegetation。**
+**Occupation code: 37-3012 (SOC)**
 
-Mix or apply pesticides, herbicides, fungicides, or insecticides through sprays, dusts, vapors, soil incorporation, or chemical application on trees, shrubs, lawns, or crops. Usually requires specific training and state or federal certification.
+Responsible for mixing or spraying chemicals such as pesticides, herbicides, fungicides on trees, shrubs, lawns, or crops. Usually requires specific training and state or federal certification.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 短期培训课程 | 数周至数月 | $500~$2,000（认证培训课程费用） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| Short-term training course | A few weeks to several months | $500~$2,000 (Certification training course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农药施用者认证 | 各州农业部门 | 必备 | 强制性认证，需通过考试 |
-| 商业农药施用者执照 | 州政府 | 可选 | 适用于商业施用，需额外培训 |
-| 驾驶执照 | 州机动车管理局 | 必备 | 通常需要有效驾驶执照 |
+| Pesticide Applicator Certification | State departments of agriculture | Required | Mandatory certification, requires passing an exam |
+| Driver's license | State motor vehicle department | Required | Usually requires a valid driver's license |
+| Commercial pesticide applicator license. | State government | Optional | Applicable for commercial application, requires additional training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 31,000。美国就业前景稳定，预计增长3%-5%。农业和园林绿化需求持续，但自动化可能影响部分岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 31,000. US employment outlook is stable, with expected growth of 3%-5%. Agriculture and landscaping demand continues, but automation may affect some roles.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,000~$36,000 | 入门级薪资 |
-| 中级（4-7年） | $36,000~$46,000 | 经验丰富者 |
-| 高级（8年以上） | $46,000~$58,000 | 高级技师或主管 |
+| Median salary | $46,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $29,000~$36,000 | Entry-level salary |
+| Mid-level (4-7 years) | $36,000~$46,000 | Experienced individuals |
+| Senior (8+ years) | $46,000~$58,000 | Senior technician or supervisor |
+| average salary | $47,070 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从初级工人晋升为高级技师、主管或认证农药施用顾问。经验丰富者可转向农业咨询或病虫害管理专家。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
+
+Can advance from entry-level worker to senior technician, supervisor, or certified pesticide applicator advisor. Experienced workers can transition to agricultural consulting or pest management specialist.
+
+**Tasks most exposed to AI:**
+
+- Automated collection of soil moisture and nutrient data with report generation
+- Optimizing fertilization/irrigation plans based on historical yield and weather data.
+- Use drones to patrol fields and automatically identify pest and disease areas
+- Automated agricultural machinery scheduling and path planning
+
+**Where AI augments the role:**
+
+- AI-assisted precision fertilization decisions to increase crop yield
+- Uses computer vision to monitor livestock health in real time and warn of disease.
+- Smart sensor network optimizes irrigation and energy consumption
+- Machine learning predicts market demand to guide production planning
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Unstructured communication and coordination with farm workers and contractors
+- Ethical judgment of animal welfare and herd health management
+- Comprehensive production decisions across seasons and sites
+
+**Skills to build:**
+
+- Precision agriculture software (e.g., Climate FieldView)
+- UAV operation and remote sensing data analysis
+- Python/R basics and agricultural data analysis
+- IoT device configuration and maintenance
+- Project management and team management skills
+- Biosecurity protocols and animal health management
+
+**Key growth areas:**
 
 - Pesticide Application
 - Crop Protection
@@ -64,65 +97,67 @@ Mix or apply pesticides, herbicides, fungicides, or insecticides through sprays,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Workers） | 季节性农业工人签证，雇主需证明美国工人不足 |
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 非农业季节性工作，但农药施用通常归为农业 |
+| Subclass H-2A (H-2A Temporary Agricultural Workers) | Seasonal agricultural worker visa, employers must prove insufficient US workers |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Non-agricultural seasonal work, but pesticide application is usually classified as agricultural |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pesticide Handlers, Sprayers, and Applicators, Vegetation？**
-- 喜欢户外工作的人
-- 对农业和植物保护感兴趣的人
-- 能接受体力劳动和化学品暴露的人
+**Who is suited**
+- Those who enjoy outdoor work
+- People interested in agriculture and plant protection
+- People who can accept physical labor and chemical exposure
 
-**谁不适合学Pesticide Handlers, Sprayers, and Applicators, Vegetation？**
-- 对化学品过敏或敏感的人
-- 不喜欢户外或体力劳动的人
+**Who is not suited**
+- Those with allergies or sensitivity to chemicals
+- People who dislike outdoor or manual labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a pesticide applicator?**
+A: According to BLS data, 2023 average annual salary approx. $37,000, senior level up to $58,000.
+
+**Q: What visa can foreign nationals use for this occupation?**
+A: Primarily H-2A seasonal agricultural worker visa, requiring employer sponsorship. Green card path is difficult.
+
+**Q: What certifications are required?**
+A: Must obtain state pesticide applicator certification, typically through training and exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pesticide Handlers, Sprayers, and Applicators, Vegetation属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pesticide handlers?**
-答：According to BLS, the median annual wage was about $37,000 in 2023, with experienced workers earning up to $58,000.
-
-**问：What visa can foreigners use for this occupation?**
-答：Primarily H-2A temporary agricultural worker visa, requiring employer sponsorship. Green card pathways are limited.
-
-**问：What certifications are required?**
-答：State pesticide applicator certification is mandatory, typically obtained through training and exams.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

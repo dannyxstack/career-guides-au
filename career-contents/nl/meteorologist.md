@@ -1,60 +1,96 @@
-# Meteorologist（Meteorologist）职业分析 · NL
+# Meteorologist — career analysis · Netherlands
 
-**职业代码：2112 – Meteorologist。**
+**Occupation code: 2112 (ISCO08)**
 
-Meteorologists study atmospheric phenomena, provide weather forecasts and climate analysis, offering critical data support for agriculture, transport, energy and other sectors.
+Meteorologists study atmospheric phenomena, conduct weather forecasting and climate analysis, providing crucial data support for agriculture, transportation, energy, and other sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（理学士） | 3年（本科） | $2,200~$15,000（欧盟学生约€2,200/年，非欧盟约€10,000–15,000/年） |
-| 硕士（理科硕士） | 1-2年 | $2,500~$18,000（非欧盟学生通常€15,000–18,000/年） |
-| 博士 | 4年 | —（博士受雇于大学，通常免税且有薪资） |
+| Bachelor of Science | 3 years (bachelor's) | $2,200~$15,000 (EU students approx. €2,200/year, non-EU approx. €10,000–15,000/year.) |
+| Master's (Master of Science) | 1-2 years | $2,500~$18,000 (non-EU students typically €15,000–18,000/year) |
+| Doctorate | 4 years | $0~$0 (PhD employed by a university, usually tax-exempt with salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 气象学学士学位 | 荷兰大学（如瓦赫宁根大学） | 必备 | 核心学位，必须 |
-| WMO基本气象学课程 | 世界气象组织（WMO） | 可选 | 推荐，提升国际认可度 |
-| KNMI内部培训 | 荷兰皇家气象研究所 | 必备 | 入职后培训，针对数值预报等 |
+| Bachelor's Degree in Meteorology | Dutch universities (e.g., Wageningen University) | Required | Core degree, mandatory |
+| KNMI internal training | Royal Netherlands Meteorological Institute | Required | On-the-job training for numerical weather prediction, etc. |
+| WMO Basic Meteorology Course | World Meteorological Organization (WMO) | Optional | Recommended, to enhance international recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。荷兰受北大西洋暖流影响，天气多变，气象服务需求稳定。政府与私营机构均需专业人才，就业前景保持平稳。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,000. The Netherlands is influenced by the North Atlantic Drift, resulting in variable weather and stable demand for meteorological services. Both government and private institutions require professionals, with steady employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 税前年薪 |
-| 中级（3-7年） | $42,000~$55,000 | 税前年薪 |
-| 高级（8年以上） | $55,000~$75,000 | 税前年薪，主管或研究员可达更高 |
+| Median salary | $62,639 | Median salary (official: CBS employee median hourly wage €31.7/hour × 1976h annualized, BRC group 0711 Biologen en natuurwetenschappers; P25–P75 €48,807–€81,806, CBS 2024) |
+| Entry level (0–3 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $42,000~$55,000 | Annual pre-tax salary |
+| Senior (8+ years) | $55,000~$75,000 | Pre-tax annual salary, higher for supervisors or researchers |
+| average salary | $50,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 初级气象员可晋升为高级预报员或气候研究员；部分转向数据科学或环境咨询；博士学位可进入大学或研究机构（如KNMI）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of meteorologists is a mixed bag: AI substantially replaces human effort in numerical forecasting and data processing, but tasks requiring human experience and judgment—such as extreme weather analysis and public communication—are amplified.
+
+Junior meteorologists can advance to senior forecasters or climate researchers; some pivot to data science or environmental consulting; a PhD can lead to university or research institutions (e.g., KNMI).
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of routine weather forecast text
+- Automatic recognition and classification of meteorological satellite and radar imagery
+- Automated statistics and trend analysis of historical climate data
+- Automatic operation and preliminary post-processing of numerical weather prediction models
+- Public standardised weather information push
+
+**Where AI augments the role:**
+
+- Leveraging machine learning to improve accuracy in warnings for extreme weather events such as hurricanes and tornadoes
+- Integrate multi-source data (social media, IoT) for high-resolution local forecasting
+- Quickly generate climate impact assessment reports (e.g., quantitative impacts on agriculture, energy) via AI
+- use natural language processing to automatically generate customized industry weather reports (e.g., aviation, shipping)
+- Use AI to simulate long-term climate change under different emission scenarios
+
+**Human moat:**
+
+- Creative judgment and emergency decisions for extreme weather events (e.g., whether to issue a red alert)
+- Risk communication and explanation to government, businesses, and the public (requires trust and authority)
+- Climate change countermeasure formulation involving law, policy, and ethics
+- Cross-disciplinary comprehensive assessment (coupling meteorology, hydrology, agriculture, and health)
+- Innovation and model development in basic meteorological theory (e.g., parameterization scheme improvement)
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning (PyTorch, TensorFlow)
+- GIS and remote sensing data processing (e.g., Google Earth Engine)
+- AI modeling with a background in atmospheric science (e.g., spatiotemporal sequence prediction).
+- Data visualization and interactive dashboards (Tableau, D3.js)
+- Domain-specific natural language processing for meteorology (e.g., report generation and review)
+- Climate change adaptation and risk management basics
+
+**Key growth areas:**
 
 - Climate Change
 - Data Science
@@ -63,69 +99,68 @@ Meteorologists study atmospheric phenomena, provide weather forecasts and climat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪高于门槛（2024年约€5,331/月）的受雇专业人士，雇主需为IND认可担保人。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪高于€5,331/月的高技能非欧盟公民，可更快获得长期居留。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰或世界Top200高校毕业生可获一年求职签证，找到工作后转为工作居留。 |
-| Subclass EU自由流动（EU/EEA Freedom of Movement） | 欧盟/EEA公民无需签证即可在荷工作，注册后享有平等就业权。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to employed professionals earning above the threshold (approx. €5,331/month in 2024), with employers being IND-recognized sponsors. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens with an annual salary above €5,331/month, allowing faster access to long-term residency. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from top 200 Dutch or world universities can obtain a one-year job-seeking visa, which can be converted to a work permit upon finding a job. |
+| Subclass EU free movement (EU/EEA Freedom of Movement) | EU/EEA citizens do not need a visa to work in the Netherlands; after registration, they have equal employment rights. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Meteorologist？**
-- 对大气科学和数据分析有浓厚兴趣的人
-- 注重细节、逻辑思维强的分析型人才
-- 愿意为公共服务或环保事业贡献的人
-
-**谁不适合学Meteorologist？**
-- 不喜欢数值模型和编程的人
-- 追求高压快节奏行业的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in atmospheric science and data analysis
+- Analytical talent with attention to detail and logical thinking
+- Willing to contribute to public service or environmental protection
+
+**Who is not suited**
+- People who dislike numerical models and programming
+- People seeking high-pressure, fast-paced industries
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a meteorologist in the Netherlands?**
+A: Entry-level around €32,000–42,000, mid-level €42,000–55,000, senior up to €75,000+ (pre-tax annual).
+
+**Q: How can non-EU citizens immigrate to the Netherlands as meteorologists?**
+A: Must obtain a job offer from a Dutch employer with a salary meeting the Highly Skilled Migrant threshold (approx. €5,331/month), and the employer must be an IND-recognized sponsor.
+
+**Q: What qualifications are needed to become a meteorologist in the Netherlands?**
+A: At least a bachelor's degree in meteorology or a related field; a master's or PhD is preferred, especially for research roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Meteorologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a meteorologist in the Netherlands?**
-答：Entry-level: €32,000–42,000; Mid-level: €42,000–55,000; Senior: up to €75,000+ (gross annual).
-
-**问：How can a non-EU citizen migrate to the Netherlands as a meteorologist?**
-答：You need a job offer from a Dutch employer with salary meeting the Highly Skilled Migrant threshold (approx. €5,331/month). The employer must be an IND recognized sponsor.
-
-**问：What education is required to become a meteorologist in the Netherlands?**
-答：At least a Bachelor's degree in meteorology or a related field; a Master's or PhD is preferred, especially for research positions.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

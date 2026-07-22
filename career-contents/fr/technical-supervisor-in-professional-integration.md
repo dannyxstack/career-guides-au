@@ -1,60 +1,94 @@
-# Technical Supervisor in Professional Integration（Technical Supervisor in Professional Integration）职业分析 · FR
+# Technical Supervisor in Professional Integration — career analysis · France
 
-**职业代码：K1203 – Technical Supervisor in Professional Integration。**
+**Occupation code: K1203 (ROME)**
 
-Coordinates and supervises professional integration programs, helping disadvantaged individuals re-enter the job market through skills assessment, personalized coaching, and employment support.
+Responsible for coordinating and overseeing career integration programs, helping vulnerable groups re-enter the job market, and providing skills assessment, personalized coaching, and employment support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（Master） | $8,000~$15,000（公立大学学费约243欧元/年，私立项目8000-15000欧元） |
-| 学士 | 3年（Licence） | $200~$5,000（公立大学学费低，私立学校3000-5000欧元/年） |
-| 社会工作者国家文凭 | 3年（DEASS） | $200~$500（公立机构学费低，可通过学徒制） |
+| Master's degree | 2 years (Master) | $8,000~$15,000 (Tuition at public universities is about 243 euros per year, while private programs cost 8,000-15,000 euros) |
+| Bachelor's degree | 3 years (Licence) | $200~$5,000 (Low tuition at public universities, private schools €3,000-5,000/year) |
+| National Diploma in Social Worker | 3 years (DEASS) | $200~$500 (Public institutions offer low tuition fees and can be completed through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会服务国家文凭（DEASS） | 法国社会事务部 | 必备 | 从事社会工作者必需 |
-| 职业融入顾问认证 | France Travail | 可选 | 部分岗位要求，非强制 |
-| 人力资源或社会干预硕士 | 大学 | 可选 | 提升竞争力 |
+| National Diploma in Social Service (DEASS) | French Ministry of Social Affairs | Required | Essential for social workers |
+| Professional Integration Consultant Certification | France Travail | Optional | Some positions require it, not mandatory |
+| Master's in Human Resources or Social Intervention | University | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。法国政府持续推动社会包容和就业扶持，该职业需求稳定，尤其在优先社区和公共部门。受社会政策影响，预计未来五年就业岗位小幅增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. The French government continues to promote social inclusion and employment support, with stable demand for this profession, especially in priority communities and the public sector. Influenced by social policies, employment is expected to grow slightly over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$30,000 | 税前年薪，公立机构按公务员等级 |
-| 中级（4-8年） | $30,000~$38,000 | 含项目协调职责 |
-| 高级（9年以上） | $38,000~$45,000 | 区域经理或专家角色 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$30,000 | Pre-tax annual salary, public institutions are based on civil servant grade |
+| Mid-level (4–8 years) | $30,000~$38,000 | Including project coordination responsibilities |
+| Senior (9+ years) | $38,000~$45,000 | Regional manager or expert roles |
+| average salary | $28,111 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从项目协调员晋升为区域融入经理，或转向公共政策、人力资源培训领域。需积累督导经验并修读相关硕士。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This profession is not easily replaced, and AI will amplify its capabilities by improving efficiency through automated administration and data analysis, enabling it to focus on high-value human interaction and personalized guidance.
+
+You can be promoted from project coordinator to regional integration manager, or move into public policy or human resources training. Supervisory experience and relevant master's degree must be pursued.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized skills assessment reports
+- Automated tracking and reminders of learners' progress and tasks
+- Basic employment market information retrieval and matching
+- Automatically record and organize meeting minutes
+
+**Where AI augments the role:**
+
+- Use AI to analyze learner skill gaps and recommend personalized training paths
+- Assisting in writing personalized employment support plans using natural language processing technology
+- Use AI forecasting tools to identify job market trends and optimize guidance strategies
+- Chatbots provide 24/7 FAQs, freeing up manpower
+
+**Human moat:**
+
+- Deep empathy and emotional support
+- Complex multi-stakeholder coordination (employer, trainee, government)
+- Handling unstructured, sensitive interpersonal conflicts
+- Designing creative employment programs tailored to individuals' unique backgrounds
+- Legal and ethical judgments (such as privacy and bias)
+
+**Skills to build:**
+
+- Data analysis and visualization (Python, Tableau)
+- AI Tool Application (e.g. ChatGPT, Copilot)
+- Digital ethics and privacy protection knowledge
+- Cross-cultural communication and conflict mediation
+- Project management and coordination skills
+- Basic programming and automation scripts
+
+**Key growth areas:**
 
 - Social Inclusion
 - Active Labor Market Policies
@@ -63,65 +97,67 @@ Coordinates and supervises professional integration programs, helping disadvanta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport (Employee on Mission / Qualified Employee)） | 适用于高技能人才，需有硕士以上学历及年薪≥36,512欧元（2024标准），可续签并带家属。 |
-| Subclass Salarié（Employee Residence Permit） | 适用于已获法国雇主offer，需申请工作许可，属于公共部门职业，需证明职位无法由欧盟劳动者填补。 |
-| Subclass Recherche emploi（Job Search / Business Creation Permit） | 毕业后可申请一年居留寻找工作或创业，适用于法国学位持有者。 |
+| Subclass Passeport Talent (Talent Passport (Employee on Mission / Qualified Employee)) | Applicable to highly skilled talents, requiring a master's degree or above and an annual salary ≥of €36,512 (2024 standard), with visa renewal and family members available. |
+| Subclass Salarié (Employee Residence Permit) | Applicable to those who have received an offer from a French employer and need to apply for a work permit, which are public sector occupations requiring proof that the position cannot be filled by EU workers. |
+| Subclass Recherche emploi (Job Search / Business Creation Permit) | After graduation, you can apply for a one-year residence to find work or start a business, which is suitable for holders of French degrees. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Supervisor in Professional Integration？**
-- 具有社会工作和人类服务背景的人
-- 善于沟通、组织协调和解决复杂社会问题的人
-- 希望在非营利或公共部门发展职业的人
-
-**谁不适合学Technical Supervisor in Professional Integration？**
-- 追求高薪或快节奏商业环境的人
-- 不适应行政和监管框架的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with backgrounds in social work and human services
+- People skilled in communication, organization, coordination, and solving complex social problems
+- Those hoping to develop a career in the nonprofit or public sector
+
+**Who is not suited**
+- People seeking high pay or a fast-paced business environment
+- People who do not fit into administrative and regulatory frameworks
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this occupation?**
+A: The junior salary is about 26,000-30,000 euros, the intermediate 30,000-38,000 euros, and the senior 38,000-45,000 euros (before tax). In public institutions, salaries are based on civil service grade, and after promotion, they can reach up to 45,000 euros.
+
+**Q: How can non-EU immigrants obtain work visas for this occupation?**
+A: Apply via Passeport Talent (annual salary ≥€36,512) or Salarié residence (employer sponsorship required). French Master's graduates can apply for a job-seeking residence. This occupation is in the social field; French usually requires C1 level.
+
+**Q: What certifications are required?**
+A: At least a National Diploma in Social Service (DEASS) or a relevant master's degree is required. Some positions require professional integration consultant certification. Non-mandatory qualifications include a Master of Human Resources.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Supervisor in Professional Integration的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Entry-level annual salary is approximately €26,000-€30,000, mid-level €30,000-€38,000, senior €38,000-€45,000 (gross). Public sector salaries follow civil service grades, up to €45,000 with advancement.
-
-**问：How can non-EU immigrants obtain a work visa for this occupation?**
-答：Through the Talent Passport (requires annual salary ≥€36,512) or Employee residence permit (employer sponsorship). French master's graduates can apply for a job search permit. This social field usually requires French C1.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

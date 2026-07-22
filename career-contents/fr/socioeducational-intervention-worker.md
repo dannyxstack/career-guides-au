@@ -1,59 +1,95 @@
-# Socio-Educational Intervention Worker（Socio-Educational Intervention Worker）职业分析 · FR
+# Socio-Educational Intervention Worker — career analysis · France
 
-**职业代码：K1207 – Socio-Educational Intervention Worker。**
+**Occupation code: K1207 (ROME)**
 
-Provides socio-educational support to children, youth, and vulnerable populations, fostering social integration and personal development in community, school, or social welfare settings.
+Engaged in social education interventions, providing educational support and social integration services to children, adolescents, or vulnerable groups, often working in communities, schools, or social welfare institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中专/职业文凭 | 2年（BTS） | —（公立学校免费，注册费约200欧元/年） |
-| 本科 | 3年（Licence） | —（公立大学学费约170欧元/年，私立较高） |
-| 国家文凭（DEES） | 3年 | $500~$3,000（社会教育干预国家文凭，可通过学徒制免费） |
+| Secondary vocational/vocational diploma | 2 Years (BTS) | $0~$1,500 (Public schools are free, with registration fees of about 200 euros per year) |
+| Bachelor's degree | 3 years (Licence) | $0~$3,000 (Public university tuition is about 170 euros per year, while private universities are higher) |
+| National Diploma (DEES) | 3 years | $500~$3,000 (The National Diploma in Social Education Intervention is free through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会教育干预国家文凭（DEES） | 法国社会事务部 | 必备 | 从事该职业的主要文凭，必须持有 |
-| 社会服务从业者认证 | 地区卫生和社会事务局（ARS） | 可选 | 部分岗位要求注册 |
+| National Diploma in Social Educational Intervention (DEES) | French Ministry of Social Affairs | Required | A major diploma in the profession is required |
+| Social service practitioner certification | Regional Health and Social Affairs (ARS) | Optional | Some positions require registration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国面临社会工作者短缺，尤其在青少年保护和残疾人领域，就业需求稳定增长。政府投资社会服务，岗位受公共预算影响但前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France faces a shortage of social workers, especially in youth protection and the fields of people with disabilities, where employment demand is steadily increasing. Government investment in social services, positions influenced by public budgets but with promising prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常按公务员或协会薪资标准 |
-| 中级（4-10年） | $30,000~$38,000 | 税前年薪，含经验补贴 |
-| 高级（10年以上） | $38,000~$45,000 | 税前年薪，可担任管理职务 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, usually based on civil servant or association salary standards |
+| Mid-level (4-10 years). | $30,000~$38,000 | Annual salary before tax, including experience allowance |
+| Senior (10+ years) | $38,000~$45,000 | Pre-tax annual salary, available for management positions |
+| average salary | $28,111 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从社会教育干预员晋升为团队负责人或项目协调员，也可通过继续教育成为社会工作者或教育顾问，部分转入管理或政策岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some document and assessment tasks for social education intervention workers can be automated by AI, but core interpersonal interaction and emotional support are difficult to replace, resulting in mixed overall impacts.
+
+Students can be promoted from social education interveners to team leaders or project coordinators, or become social workers or education consultants through continuing education, with some transferring to management or policy positions.
+
+**Tasks most exposed to AI:**
+
+- Automated case reports and intervention logs
+- AI is used to analyze service object behavior data and generate preliminary assessments
+- Automatically matches community resources with policy information
+- Generate standardized education program templates
+- Preliminary online screening and questionnaire processing
+
+**Where AI augments the role:**
+
+- Role-playing training is conducted using AI to simulate social scenarios
+- Emotional computing tools are used to assist in identifying the emotional state of service recipients
+- AI recommends personalized intervention strategies and activity plans
+- Automatically generates multilingual communication support materials
+- Data analysis identifies group trends to optimize project design
+
+**Human moat:**
+
+- The ability to build deep trust relationships
+- On-site real-time judgment and crisis intervention
+- Cross-cultural family communication and community mobilization
+- Ethical decision-making and privacy boundary control
+- Creatively design unstructured educational activities
+
+**Skills to build:**
+
+- Use of AI-assisted data tools (such as basic Excel, Tableau, Python)
+- Knowledge of digital ethics and privacy regulations
+- Advanced Social-Emotional Learning (SEL) Method
+- Cross-agency collaboration platform operations
+- Basic psychological counseling techniques
+- Project evaluation and impact measurement
+
+**Key growth areas:**
 
 - social inclusion
 - youth protection
@@ -62,68 +98,67 @@ Provides socio-educational support to children, youth, and vulnerable population
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才或紧缺职业，有效期4年，可续签，配偶可随行工作。 |
-| Subclass Salarié（Employee Work Permit） | 基于雇主担保的工作居留，需获得法国工作合同，一般有效期1年，可续签。 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高技能非欧盟公民，要求年薪至少约53,000欧元，但社会教育领域通常达不到此门槛。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents or in urgently needed occupations, valid for 4 years, renewable visa, spouse can accompany to work. |
+| Subclass Salarié (Employee Work Permit) | For employer-sponsored work residence, you must obtain a French work contract, which is generally valid for one year and can be renewed. |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, an annual salary of at least about 53,000 euros is required, but social education usually does not meet this threshold. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Socio-Educational Intervention Worker？**
-- 有耐心且善于倾听，愿意帮助弱势群体
-- 具备教育或心理学背景，希望在社区服务领域发展
-- 能承受情感压力，热爱团队合作
-
-**谁不适合学Socio-Educational Intervention Worker？**
-- 对高压力缺乏承受力，容易情绪耗竭
-- 期望高薪或快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and good listeners, willing to help vulnerable groups
+- Background in education or psychology, hoping to develop in community service
+- Able to handle emotional pressure and passionate about teamwork
+
+**Who is not suited**
+- They lack the ability to handle high pressure and are easily emotionally drained
+- Expecting high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social education intervention workers?**
+A: Junior annual salary approx. EUR 25,000-30,000, intermediate to senior up to EUR 38,000-45,000, but public sector salary growth is slow.
+
+**Q: What visas can non-EU citizens use to engage in this profession?**
+A: Usually, you can use the Salarié work residence or Passeport Talent passport, but employer sponsorship is required; This profession is in high demand in some regions and is favorable for applications.
+
+**Q: How are foreign diplomas recognized?**
+A: Requires French academic credential recognition through ENIC-NARIC, and may require completing additional courses or obtaining a DEES diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Socio-Educational Intervention Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for socio-educational intervention workers?**
-答：Entry-level annual salary is around €25,000-30,000 gross, mid-senior level up to €38,000-45,000, but public sector increases are slow.
-
-**问：What visas can non-EU citizens use to work in this occupation?**
-答：Typically Salarié work permit or Passeport Talent, requiring employer sponsorship; shortage status in some regions helps applications.
-
-**问：How are foreign qualifications recognized?**
-答：Requires ENIC-NARIC diploma recognition; may need to complete supplementary courses or obtain the DEES diploma.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

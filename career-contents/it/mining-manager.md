@@ -1,61 +1,95 @@
-# Mining Manager（Mining Manager）职业分析 · IT
+# Mining Manager — career analysis · Italy
 
-**职业代码：1322 – Mining Manager。**
+**Occupation code: 1322 (ISCO08)**
 
-Mining Managers plan, direct and coordinate mining operations, including safety management, production targets and resource optimization.
+Mine managers plan, direct, and coordinate mining operations, including safety management, production targets, and resource optimization.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学年学费，因校而异） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（硕士课程年学费） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Annual tuition fees at public universities vary by institution.) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Annual tuition for master's program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采矿工程或地质学学位 | 意大利大学 | 必备 | 必备资格 |
-| 安全经理认证 | 意大利劳动部 | 必备 | 矿山安全法律要求 |
-| 项目经理认证 | PMI或其他 | 可选 | 提升竞争力 |
+| Mining engineering or geology degree | Italian universities | Required | Essential qualifications |
+| Safety Manager Certification | Italian Ministry of Labour | Required | Mine safety legal requirements |
+| Project manager certification | PMI or other | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 1,200。意大利矿业部门规模较小，但能源转型推动关键矿产需求，预计未来十年就业缓慢增长，年均约0.5%。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,200. Italy's mining sector is small, but the energy transition drives demand for critical minerals; employment is expected to grow slowly over the next decade, at an average of about 0.5% per year.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪 |
-| 中级（4-7年） | $50,000~$65,000 | 税前年薪 |
-| 高级（8年以上） | $70,000~$90,000 | 税前年薪 |
+| Median salary | $57,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $50,000~$65,000 | Annual pre-tax salary |
+| Senior (8+ years) | $70,000~$90,000 | Annual pre-tax salary |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 通常从采矿工程师或地质学家晋升，可升任区域运营总监或企业高管，也可转向咨询或国际项目。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+A mining manager's decision-making, safety and compliance responsibilities are not easily automated, but AI can optimise data analysis and monitoring, with both risks and opportunities.
+
+Typically promoted from mining engineer or geologist, can advance to regional operations director or corporate executive, or transition to consulting or international projects.
+
+**Tasks most exposed to AI:**
+
+- Automated data collection and report generation (e.g., output, equipment status)
+- Basic scheduling and task assignment (AI-optimized scheduling)
+- Routine safety monitoring and alarm filtering (AI anomaly detection)
+- Standard document generation and initial compliance checks
+
+**Where AI augments the role:**
+
+- Geological modeling and ore body prediction (AI-accelerated analysis)
+- Real-time equipment health monitoring and predictive maintenance
+- Optimize mining plans and resource allocation (operations research AI)
+- Automated analysis and early warning of environmental compliance data
+- Virtual training and AR-assisted on-site guidance
+
+**Human moat:**
+
+- Complex decision-making (e.g., responding to sudden geological disasters)
+- Stakeholder communication and team leadership
+- Final judgment on safety and responsibility (legal, ethical)
+- Long-term strategic planning and capital investment decisions
+
+**Skills to build:**
+
+- Data analysis and Python programming
+- AI/machine learning fundamentals and applications.
+- Digital Twin and Simulation Tools
+- Remote operation and automated system management
+- Environmental, Social and Governance (ESG) reporting capabilities
+- Project management and change leadership
+
+**Key growth areas:**
 
 - Energy transition
 - Critical minerals
@@ -64,69 +98,68 @@ Mining Managers plan, direct and coordinate mining operations, including safety 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约4万欧元，需大学学历和聘用合同 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额制，雇主需证明无法在欧盟内招聘 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 由雇主申请的工作许可，需提交合同和资格证明 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary threshold of approximately 40,000 euros, requires university degree and employment contract |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, employers must prove they cannot recruit within the EU |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer-sponsored work permit requiring submission of contract and qualification proof |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Manager？**
-- 具有采矿工程或地质学背景的专业人士
-- 能适应偏远矿区工作环境
-- 具备安全管理经验者
-
-**谁不适合学Mining Manager？**
-- 不愿从事高风险行业者
-- 对偏远地区工作生活方式不适应者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with backgrounds in mining engineering or geology
+- Able to adapt to remote mining work environments
+- Those with safety management experience
+
+**Who is not suited**
+- Those unwilling to work in high-risk industries
+- Those who are not suited to remote area work and lifestyle
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mining managers in Italy?**
+A: Junior annual salary approximately €35,000-45,000, mid-senior can reach €50,000-90,000, depending on experience and company size.
+
+**Q: How can non-EU citizens immigrate to Italy as a mining manager?**
+A: Available via EU Blue Card, requiring a university degree and an annual salary contract of around €40,000; or via Decreto Flussi quota work visa.
+
+**Q: What are the career development paths for mine managers?**
+A: Can be promoted from engineer to manager, then to regional director or corporate executive, or transition to international projects or consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Mining Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Mining Managers in Italy?**
-答：Entry-level salary is around 35,000-45,000 EUR, mid to senior level can reach 50,000-90,000 EUR, depending on experience and company size.
-
-**问：How can non-EU citizens immigrate as Mining Managers to Italy?**
-答：Via EU Blue Card requiring a degree and contract with salary around 40,000 EUR, or through Decreto Flussi quota work visa.
-
-**问：What are the career progression paths for Mining Managers?**
-答：From engineer to manager, then to regional director or executive, or transition to international projects or consulting.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

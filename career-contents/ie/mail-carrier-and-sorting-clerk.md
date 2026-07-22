@@ -1,60 +1,96 @@
-# Mail Carrier and Sorting Clerk（Mail Carrier and Sorting Clerk）职业分析 · IE
+# Mail Carrier and Sorting Clerk — career analysis · Ireland
 
-**职业代码：4412 – Mail Carrier and Sorting Clerk。**
+**Occupation code: 4412 (ISCO08)**
 
-Sort, deliver, and collect mail and parcels; a key role in the postal system, handling letters, packages, and registered items to ensure timely and accurate delivery.
+Responsible for sorting, delivering, and collecting mail and parcels; a key role in the postal system, involving handling letters, parcels, and registered mail to ensure timely and accurate delivery.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 2年（高中） | —（公立教育免费） |
-| 职业培训 | 6个月 | $500~$1,500（短期课程，部分雇主提供） |
+| High school graduation | 2 years (high school) | $0~$0 (Public education is free) |
+| Vocational training | 6 months. | $500~$1,500 (Short-term courses, offered by some employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | Road Safety Authority | 必备 | 必要，需B类驾照 |
-| 急救证书 | Irish Red Cross | 可选 | 部分雇主要求 |
+| Driver's license | Road Safety Authority | Required | Required, needs Class B driver's license |
+| First aid certificate | Irish Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 6,500。随着电子商务增长，包裹投递需求稳定，但传统信件量下降。就业前景平稳，自动化分拣可能减少部分岗位，但投递岗位仍有人力需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 6,500. With e-commerce growth, parcel delivery demand is stable, but traditional mail volume is declining. Employment prospects are stable; automated sorting may reduce some positions, but delivery roles still require manual labor.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$42,000 | 税前年薪，含主管岗位 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$29,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$42,000 | Annual salary before tax, including supervisor positions |
+| average salary | $32,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从邮件分拣员晋升为高级投递员或主管，部分人转向物流仓储管理。需熟悉路线和客户服务技能，长期可发展至运营管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Mail delivery and sorting tasks are highly repetitive; AI and automation will significantly replace manual sorting and route planning, leading to a sharp reduction in positions, leaving only a few complex handling and supervisory roles.
+
+Can advance from mail sorter to senior delivery officer or supervisor; some transition to logistics and warehouse management. Requires route familiarity and customer service skills, with long-term potential to develop into operations management.
+
+**Tasks most exposed to AI:**
+
+- Automatic sorting of letters and parcels
+- Delivery route optimization and navigation
+- Automated delivery of standard mail and parcels
+- Email tracking and status updates
+- Automated responses to basic customer inquiries
+
+**Where AI augments the role:**
+
+- Manual handling and judgment of abnormal packages (damaged, unclear addresses)
+- Resolution of complex customer complaints and special requests
+- Automated System Maintenance and Troubleshooting
+- Planning and optimization of new postal routes or service strategies
+- Coordination and integration with other logistics systems
+
+**Human moat:**
+
+- Physical handling and judgment for irregular, fragile, or high-value items.
+- Face-to-face communication with clients and handling emotional complaints
+- Flexible adaptation to complex addresses and temporary changes
+- Multi-task coordination and emergency decision-making
+- Local community trust and relationship maintenance
+
+**Skills to build:**
+
+- Operation and monitoring of automated sorting systems.
+- Use of logistics information management systems
+- Basic troubleshooting and repair skills
+- Customer service and communication skills
+- Data annotation and AI training data preparation
+- Traffic safety and regulations knowledge
+
+**Key growth areas:**
 
 - e-commerce
 - parcel delivery
@@ -63,66 +99,68 @@ Sort, deliver, and collect mail and parcels; a key role in the postal system, ha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，适用于大型邮政物流企业 |
-| Subclass Stamp 1G（Stamp 1G (Third Level Graduate Scheme)） | 毕业生可工作2年，但需找到雇主支持工作许可 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires employer sponsorship, annual salary threshold approximately 30,000 euros |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-corporate transfer for large postal logistics companies. |
+| Subclass Stamp 1G (Stamp 1G (Third Level Graduate Scheme)) | Graduates can work for 2 years, but need to find an employer to support a work permit |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mail Carrier and Sorting Clerk？**
-- 喜欢户外工作、体力活动
-- 具备良好时间管理和客户服务意识
-- 对工作稳定性要求高，不追求高薪
+**Who is suited**
+- Enjoys outdoor work and physical activity
+- Good time management and customer service awareness
+- High demand for job stability, not pursuing high salary
 
-**谁不适合学Mail Carrier and Sorting Clerk？**
-- 偏好办公室环境，避免风雨天气
-- 追求高薪和快速晋升
+**Who is not suited**
+- Prefer office environments, avoid weather exposure
+- Seeking high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a mail carrier?**
+A: Entry-level annual salary approximately €24,000-29,000, mid-level €30,000-35,000, senior can reach €42,000.
+
+**Q: How can foreigners obtain a work visa for a mail delivery job?**
+A: Requires a General Employment Permit, which requires employer sponsorship and an annual salary of €30,000. This occupation is not in shortage and competition is relatively high.
+
+**Q: What are the career prospects for this occupation?**
+A: Can be promoted to supervisor or transition to logistics management, but traditional mail is declining, requiring adaptation to automated sorting and parcel delivery growth.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mail Carrier and Sorting Clerk属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mail carriers?**
-答：Entry-level annual salary is around €24,000-€29,000, mid-level €30,000-€35,000, and senior up to €42,000.
-
-**问：How can foreigners obtain a work visa for mail carrier?**
-答：Apply for a General Employment Permit with employer sponsorship and a salary of at least €30,000; not a shortage occupation, so competition is higher.
-
-**问：What are the career prospects?**
-答：Can advance to supervisor or logistics management, but declining letter volumes require adaptation to automation and parcel delivery growth.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

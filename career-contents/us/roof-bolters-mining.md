@@ -1,60 +1,96 @@
-# Roof Bolters, Mining（Roof Bolters, Mining）职业分析 · 美国
+# Roof Bolters, Mining — career analysis · United States
 
-**职业代码：47-5043 – Roof Bolters, Mining。**
+**Occupation code: 47-5043 (SOC)**
 
-Operate machinery to install roof support bolts in underground mines to reinforce rock layers and prevent collapses, ensuring mining safety.
+Operate mechanical equipment to install roof bolts in underground mines to reinforce rock layers and prevent collapse, ensuring mining safety.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（美国公立高中免费） |
-| 职业培训/学徒制 | 1-2年 | $5,000~$15,000（社区学院或矿山培训项目费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools in the US are free) |
+| Vocational training / apprenticeship | 1-2 years | $5,000~$15,000 (Cost of community college or mining training programs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MSHA矿工培训证书 | 美国矿山安全与健康管理局 | 必备 | 所有矿工必须完成的强制性安全培训 |
-| 商业驾照（CDL） | 各州机动车管理局 | 可选 | 部分岗位需驾驶重型设备，非强制但有利于就业 |
+| MSHA Miner Training Certificate | U.S. Mine Safety and Health Administration | Required | Mandatory safety training required for all miners |
+| Commercial Driver's License (CDL) | State motor vehicle departments | Optional | Some positions require operating heavy equipment, not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,600。美国煤矿产量受能源政策影响而波动，但金属与非金属矿需求稳定，锚杆支护工属于核心岗位，未来十年就业人数预计小幅下降约4%，年均新增约300个职位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,600. U.S. coal mine output fluctuates due to energy policies, but demand for metal and nonmetal mines is stable; roof bolters are core positions. Employment is expected to decline slightly by about 4% over the next decade, with about 300 new positions annually on average.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$52,000 | 起薪约20美元/小时，含加班费 |
-| 中级（3-7年） | $52,000~$65,000 | 平均时薪约27美元 |
-| 高级（7年以上） | $65,000~$80,000 | 经验丰富或担任班长角色可达更高 |
+| Median salary | $78,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$52,000 | Starting salary about $20 per hour, including overtime pay |
+| Mid-level (3–7 years) | $52,000~$65,000 | Average hourly wage is about 27 USD. |
+| Senior (7+ years) | $65,000~$80,000 | Experienced or as class leader can earn higher |
+| average salary | $78,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从矿工或支护助手起步，积累经验后可晋升为支护班长或采矿主管，部分转岗至爆破或设备操作岗位。需持续培训安全规程与新型支护技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The physical tasks and simple judgments of mine roof bolters can be replaced by automated equipment, demand is expected to decline, making it a shrinking occupation.
+
+Typically starting as a miner or support assistant, one can advance to support captain or mining supervisor with experience; some transfer to blasting or equipment operation. Requires ongoing training in safety procedures and new support technologies.
+
+**Tasks most exposed to AI:**
+
+- Drill and install rock bolts using a bolting machine
+- Manually adjust anchor rod angle and depth
+- Inspect the quality of anchor bolt installation and record results
+- Operate equipment for roof support
+- Moving bolts and materials to the work face
+
+**Where AI augments the role:**
+
+- Real-time analysis of roof stability via AI monitoring systems.
+- Use AI to plan optimal bolt layout and spacing
+- Using AR glasses to receive drilling position and depth guidance
+- Remotely monitor multiple automated rock bolting machines.
+- Prevent equipment failures using predictive maintenance systems
+
+**Human moat:**
+
+- Quick decision-making and handling abnormal situations in high-risk environments
+- On-site judgment of complex geological conditions
+- Coordinate and communicate with underground team and execute safety procedures
+- Handle sudden malfunctions of automated equipment
+- Ensure compliance with regulations and safety production standards
+
+**Skills to build:**
+
+- Automated bolter operation and programming
+- AI-assisted geological monitoring data analysis
+- Remote monitoring and control system usage
+- Predictive maintenance and fault diagnosis
+- Safety regulations and emergency response
+- IoT device maintenance
+
+**Key growth areas:**
 
 - Mining Support
 - Underground Construction
@@ -63,69 +99,68 @@ Operate machinery to install roof support bolts in underground mines to reinforc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：不友好（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupations） | 通常要求学士学位，该职业通常不符合专业职位要求，极少使用H-1B。 |
-| Subclass EB-3（Employment-Based Green Card (Skilled Workers)） | 可能通过PERM劳工证申请，但需证明美国工人短缺，获批难度大。 |
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性矿山可能使用H-2B临时工签，但配额紧张且雇主需证明无合适美国工人。 |
+| Subclass H-1B (Specialty Occupations) | Usually requires a bachelor's degree; this occupation typically does not meet professional position requirements, H-1B rarely used. |
+| Subclass EB-3 (Employment-Based Green Card (Skilled Workers)) | Possible through PERM labour certification, but must prove shortage of US workers, difficult to obtain approval. |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal mines may use H-2B temporary work visas, but caps are tight and employers must prove no suitable US workers available. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Roof Bolters, Mining？**
-- 体力充沛、适应井下环境者
-- 注重安全规范、动手能力强的人
-- 愿意在偏远矿区工作、追求稳定收入者
-
-**谁不适合学Roof Bolters, Mining？**
-- 有幽闭恐惧症或对粉尘敏感者
-- 希望城市通勤、追求高学历发展路径者
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit and able to adapt to underground environments
+- People who value safety standards and have strong hands-on abilities
+- Those willing to work in remote mining areas and seeking stable income
+
+**Who is not suited**
+- Those with claustrophobia or sensitivity to dust
+- Those preferring urban commuting and pursuing high-education career paths
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a mine roof bolter?**
+A: Entry-level annual salary approx. USD 40,000–52,000, mid-level USD 52,000–65,000, senior up to USD 80,000. Overtime pay and bonuses common.
+
+**Q: Can foreigners become mine roof bolters in the US through skilled migration?**
+A: Very difficult. This occupation usually does not meet H-1B professional requirements; EB-3 green card requires PERM and employers struggle to prove labor shortage, with almost no immigration pathway.
+
+**Q: What career advancement opportunities exist for this occupation?**
+A: Can be promoted from support worker to shift supervisor, mining supervisor, or transfer to blasting, equipment operation, etc. Requires accumulated experience and safety training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Roof Bolters, Mining为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for roof bolters?**
-答：Entry-level annual salary ranges from $40,000 to $52,000, mid-level $52,000 to $65,000, and senior up to $80,000, plus overtime and bonuses.
-
-**问：Can foreigners immigrate to the US as roof bolters?**
-答：Very difficult. The occupation rarely qualifies for H-1B, and EB-3 green card requires PERM with employer proving labor shortage, which is nearly impossible.
-
-**问：What are the career advancement opportunities?**
-答：Promotion to shift supervisor, mining foreman, or transfer to blasting or equipment operation roles. Requires experience and safety training.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

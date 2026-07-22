@@ -1,66 +1,96 @@
-# 政府行政官员（公务员）（Public Servant / Government Administration Officer）职业分析 · 澳大利亚
+# Public Servant / Government Administration Officer — career analysis · Australia
 
-**职业代码：531112 – Public Servant / Government Administration Officer。**
+**Occupation code: 531112 (ANZSCO)**
 
-政府行政官员是澳洲公共服务体系(APS 联邦/各州公务员)的通用岗位，按 APS1–6 等级承担行政、协调、政策执行与服务交付，工作稳定、福利好(15.4% 退休金)，类似国内公务员，非技术移民职业。
+Government administrative officers are general roles in the Australian Public Service (APS Commonwealth/state public servants), working at APS1–6 levels in administration, coordination, policy implementation and service delivery. They offer job stability and good benefits (15.4% superannuation), similar to Chinese civil servants but are not skilled migration occupations.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / 相关本科（视等级） | 0~4年 | —（高等级岗多需学位） |
-| Australian Citizenship + Security Clearance | 数周~数月 | —（多数岗位强制） |
+| High school / relevant bachelor's (depending on level) | 0–4 years | $0~$45,000 (Senior roles often require a degree) |
+| Australian Citizenship + Security Clearance | A few weeks to several months | $0~$0 (Mandatory for most roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Australian Citizenship | — | 必备 | 多数岗位强制 |
-| 相关学历（按等级） | 认可机构 | 可选 | 高等级要求 |
+| Australian Citizenship | — | Required | Mandatory for most roles |
+| Related qualification (by level) | Recognised institution | Optional | High level requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 200,000。政府数字化与服务交付改革带动稳定招聘，具备数据、项目与政策执行能力者晋升更快。
+**Job demand: high (★★★★☆).** National workforce approx. 200,000. Government digitalisation and service delivery reforms are driving stable recruitment. Those with data, project, and policy implementation skills advance faster.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| APSjobs | 3,000~6,000 个 | 联邦 |
-| I work for NSW / 各州 | 2,500~5,000 个 | 州政府 |
-| Seek | 2,000~4,000 个 | 全国 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| APS3 / 初级 | $60,000~$72,000 | Entry |
-| APS4 / 中级 | $73,000~$86,000 | Experienced |
-| APS5–6 / 资深 | $89,000~$110,000 | +15.4% super |
+| Median salary | $74,776 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| APS3 / Entry-level | $60,000~$72,000 | Entry |
+| APS4 / Intermediate | $73,000~$86,000 | Experienced |
+| APS5–6 / Senior | $89,000~$110,000 | +15.4% super |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：APS3/4→APS5/6→EL1/EL2；公民身份(多数岗位要求)与安全审查是关键门槛。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
+
+Path: APS3/4 → APS5/6 → EL1/EL2; citizenship (required for most roles) and security clearance are key barriers.
+
+**Tasks most exposed to AI:**
+
+- Data entry and file archiving
+- Standard email replies and customer inquiries
+- Report generation and basic document drafting
+- Policy document information retrieval and summarization
+- Simple compliance checks and data comparison
+
+**Where AI augments the role:**
+
+- Using AI tools for policy impact simulation and predictive analysis
+- Quick drafting of policy proposals using natural language processing
+- AI-assisted decision support systems improve efficiency in complex judgments
+- Real-time tracking of project progress and risks using automated monitoring systems
+- Data analysis tools to optimize public service allocation and budgets
+
+**Human moat:**
+
+- Multi-stakeholder negotiation and consensus building
+- Final decision-making involving ethical, legal, or political implications
+- Handling ambiguous, unstructured problems and crisis response
+- Building public trust and face-to-face service delivery
+- Institutional innovation and complex policy design
+
+**Skills to build:**
+
+- Basic data analysis and visualization
+- Application of AI tools in public administration
+- Project management methodologies (Agile, Lean)
+- Basic programming (Python/R) and automation scripts
+- Knowledge of ethical and compliant AI use
+- Digital transformation leadership
+
+**Key growth areas:**
 
 - APS Workforce
 - Policy Implementation
@@ -69,59 +99,60 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学政府行政官员（公务员）？**
-- 有澳洲公民身份、求稳定与福利者
-- 擅长行政、协调与流程的人
-- 认同公共服务价值者
-
-**谁不适合学政府行政官员（公务员）？**
-- 非公民/无法通过安全审查者
-- 追求高薪或快速晋升者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with Australian citizenship, seeking stability and benefits
+- People good at administration, coordination, and processes
+- Those who value public service
+
+**Who is not suited**
+- Non-citizens / those unable to pass security checks
+- Those seeking high salaries or rapid career advancement
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for Australian government administrative officers?**
+A: APS3 about A$60,000 starting, APS5–6 about A$90,000~A$110,000, plus 15.4% superannuation, state government similar.
+
+**Q: Can public service jobs lead to skilled migration?**
+A: No, and most roles require Australian citizenship and are not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-政府行政官员（公务员）属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲政府行政官员薪资多少？**
-答：APS3 约 $6万起，APS5–6 约 $9万~$11万，外加 15.4% 退休金，州政府类似。
-
-**问：公务员岗位能技术移民吗？**
-答：不能，且多数岗位要求澳洲公民身份，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

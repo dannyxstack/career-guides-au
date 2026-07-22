@@ -1,58 +1,92 @@
-# Chef（Chef）职业分析 · NL
+# Chef — career analysis · Netherlands
 
-**职业代码：3434 – Chef。**
+**Occupation code: 3434 (ISCO08)**
 
-Chefs prepare, season, and cook food in restaurants, hotels, and other dining establishments, requiring skills in kitchen management, menu design, and food hygiene.
+Chefs are responsible for preparing, seasoning, and cooking food in restaurants, hotels, and other food service venues; they need knowledge of kitchen management, menu design, and food hygiene.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费低，每年约2000欧元，可能有补贴） |
-| 高等职业教育（HBO） | 4年 | $2,000~$8,000（学费约2000-8000欧元/年，视课程和学校而定） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public schools have low tuition fees, about 2,000 euros per year, possibly with subsidies) |
+| Higher Vocational Education (HBO) | 4 years | $2,000~$8,000 (Tuition fees around €2,000-€8,000 per year, depending on course and school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 厨师职业资格证书（MBO文凭） | 荷兰教育、文化和科学部 | 必备 | 完成MBO课程后获得，是进入行业的基本凭证 |
-| 食品卫生证书（HACCP） | 荷兰食品和消费品安全局（NVWA） | 可选 | 食品安全培训，通常由雇主提供或在线课程获得 |
+| Chef's vocational qualification (MBO diploma) | Ministry of Education, Culture and Science of the Netherlands | Required | Obtained after completing an MBO course; it is the basic credential for entering the industry. |
+| Food hygiene certificate (HACCP) | Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | Food safety training, typically provided by employers or obtained through online courses. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。荷兰餐饮业持续增长，厨师需求稳定，尤其在阿姆斯特丹等大城市。由于旅游业和外卖市场发展，预计未来五年就业机会增加约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. The Dutch hospitality industry is growing continuously, with stable demand for chefs, especially in large cities like Amsterdam. Due to tourism and the food delivery market, job opportunities are expected to increase by about 5% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，不含小费 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪，部分含小费 |
-| 高级（7年以上） | $42,000~$55,000 | 行政主厨薪资可达60000欧元以上 |
+| Median salary | $35,173 | Median salary (official: CBS median hourly wage €17.8/hour × 1976h annualized, BRC group 1112 Koks; P25–P75 €31,221–€41,891, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual salary before tax, excluding tips |
+| Mid-level (3–7 years) | $32,000~$42,000 | Pre-tax annual salary, some include tips |
+| Senior (7+ years) | $42,000~$55,000 | Executive chef salary can reach over 60,000 euros |
+| average salary | $38,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级厨师可晋升为部门主管、副主厨、行政主厨，或转向食品研发、餐饮管理等职位。积累经验后也可自主创业开餐厅。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
+
+Junior chefs can advance to department head, sous chef, executive chef, or transition to food R&D, catering management, and other positions. With accumulated experience, they can also start their own restaurant.
+
+**Tasks most exposed to AI:**
+
+- Standardized dish preparation (e.g., grilling, frying, and other repetitive cooking)
+- Basic food preparation (chopping, washing, sorting)
+- Inventory management and order generation (automated systems replace manual counting)
+- Precision operations like temperature monitoring and timing (sensor and AI control)
+
+**Where AI augments the role:**
+
+- Menu development: AI analyzes diner preferences and health trends to assist innovative recipes
+- Cost control: AI optimises ingredient procurement and reduces waste
+- Kitchen coordination: AI schedules multiple orders to improve meal delivery efficiency
+- Quality monitoring: Computer vision inspects dish appearance and plating consistency
+
+**Human moat:**
+
+- Creative menu development and personalization
+- Sensory evaluation of ingredient quality (smell, taste)
+- Team management and on-site decision-making under high pressure
+- Dining experience design for customer interaction
+- Cultural Heritage and Preservation of Regional Flavors
+
+**Skills to build:**
+
+- AI recipe development and data analysis tools (e.g., IBM Chef Watson)
+- Operating and maintaining smart kitchen equipment
+- Cost management software and supply chain optimization
+- Social media and digital marketing (for personal brand promotion)
+- Sustainability and zero-waste cooking philosophy
+- Cross-cultural dietary knowledge (to meet diverse customer needs)
+
+**Key growth areas:**
 
 - Culinary Tourism
 - Farm-to-Table
@@ -61,67 +95,66 @@ Chefs prepare, season, and cook food in restaurants, hotels, and other dining es
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达标的高技能厨师，需雇主担保，2024年门槛约€5,331/月（30岁以上） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，年薪门槛约€58,900，厨师通常难以达到 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰或世界前200高校毕业生可申请，有效期1年，允许自由求职 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled chefs meeting the salary threshold, requiring employer sponsorship; 2024 threshold approx. €5,331/month (for ages 30+) |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talent; annual salary threshold approximately €58,900, which chefs generally find difficult to meet |
+| Subclass Orientation Year (Zo (Orientation Year) | Graduates of Dutch or world top 200 universities can apply; valid for 1 year, allows free job seeking. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chef？**
-- 热爱烹饪、有创造力和团队协作精神的人
-- 愿意在快节奏环境工作并承受压力的人
-
-**谁不适合学Chef？**
-- 不喜欢站立工作或无法接受周末/节假日工作的人
-- 对食品卫生要求不敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love cooking, have creativity, and a collaborative spirit.
+- People willing to work in a fast-paced environment and handle pressure
+
+**Who is not suited**
+- Not suitable for those who dislike standing work or cannot work on weekends/public holidays.
+- People not sensitive to food hygiene requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chefs in the Netherlands?**
+A: Dutch chefs earn pre-tax annual salaries of approximately €26,000-€55,000, depending on experience and restaurant level. Senior executive chefs can reach over €60,000. Tips are usually additional income.
+
+**Q: How can non-EU chefs immigrate to the Netherlands?**
+A: Eligible via the highly skilled migrant (kennismigrant) pathway, requiring employer sponsorship and meeting salary thresholds. Chefs typically need secondary vocational education, and employers can assist with work permit applications.
+
+**Q: What are the career development paths for chefs in the Netherlands?**
+A: Can progress from junior chef to section head, sous chef, executive chef, or move into food R&D, catering management, or starting your own restaurant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Chef的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chefs in the Netherlands?**
-答：Annual gross salary ranges from €26,000 to €55,000, depending on experience and restaurant level. Executive chefs can earn over €60,000. Tips are additional.
-
-**问：How can non-EU chefs immigrate to the Netherlands?**
-答：Through the Highly Skilled Migrant scheme, requiring employer sponsorship and meeting salary thresholds. Chefs usually need MBO level education, and employers can assist with work permits.
-
-**问：What are the career development paths for chefs in the Netherlands?**
-答：Advance from junior chef to section head, sous chef, executive chef, or move into food development, restaurant management, or entrepreneurship.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

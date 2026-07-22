@@ -1,60 +1,91 @@
-# Models（Models）职业分析 · 美国
+# Models — career analysis · United States
 
-**职业代码：41-9012 – Models。**
+**Occupation code: 41-9012 (SOC)**
 
-Models display garments and accessories at fashion shows, private showings, or retail stores, pose for photos for magazines or advertisements, and may serve as subjects for artistic works.
+Models display clothing and accessories at fashion shows, private presentations, or retail stores, or pose for magazines, advertisements, or for artistic works such as paintings and sculptures.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（多数模特仅需高中文凭） |
-| 职业培训/模特课程 | 数月至1年 | $2,000~$10,000（模特学校或培训班） |
+| High school diploma | 4 years | $0~$0 (Most models only need a high school diploma) |
+| Vocational training/modeling courses | Several months to 1 year | $2,000~$10,000 (Modeling school or training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 模特作品集 | 摄影师或模特经纪公司 | 可选 | 展示个人形象和表现力的作品集 |
-| 经纪公司合约 | 模特经纪公司 | 可选 | 签约经纪公司有助于获得工作机会 |
+| Model portfolio | Photographer or model agent | Optional | Portfolio showcasing personal image and expressiveness |
+| Brokerage contract | Modeling agencies | Optional | Signing with an agency helps secure job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。美国模特行业预计未来十年就业增长缓慢，竞争激烈。数字化和社交媒体创造了新机会，但传统模特需求有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. The US modeling industry is expected to see slow employment growth over the next decade, with intense competition. Digitalization and social media have created new opportunities, but demand for traditional models is limited.
 
-**竞争度：极高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$40,000 | 多为兼职或零散工作 |
-| 中级（3-7年） | $40,000~$70,000 | 有一定经验，参与商业广告或时装秀 |
-| 高级（7年以上） | $70,000~$150,000 | 知名模特或跻身高端市场 |
+| Median salary | $48,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $20,000~$40,000 | Mostly part-time or casual work |
+| Mid-level (3–7 years) | $40,000~$70,000 | Some experience, involved in commercial ads or fashion shows |
+| Senior (7+ years) | $70,000~$150,000 | Famous model or enter high-end market |
+| average salary | $72,800 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 模特通常从本地市场起步，逐渐积累作品和经验后进入大型时装周或商业广告。部分模特转型为品牌代言人、社交媒体影响者或开设模特经纪公司。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Modeling faces mixed AI impacts: automation will reduce basic fitting and template-based shooting jobs, but digital avatars and AI creative tools create new high-premium opportunities, making personal brand and expressiveness of top models even scarcer.
+
+Models typically start in local markets, gradually building portfolios and experience before entering major fashion weeks or commercial ads. Some transition to brand ambassadors, social media influencers, or start modeling agencies.
+
+**Tasks most exposed to AI:**
+
+- Basic fitting and size verification (replaced by AI virtual try-on and 3D body scanning)
+- Standard angle flat-lay photography for e-commerce platforms (AI-generated model wearing images)
+- Simple product catalog photography (AI generates high-fidelity images from descriptions)
+
+**Where AI augments the role:**
+
+- Creative fashion shoots and advertisements (AI-assisted scene generation, lighting optimization, models focus on emotional expression)
+- Digital twin authorization and collaboration (models create personal AI digital twins for multi-scenario reuse)
+- Live fashion show effects (AI tracks runway dynamics in real time, analyzes audience reactions, and adjusts performances)
+- Social media content creation (AI analyzes trends to help models plan personal brand content).
+
+**Human moat:**
+
+- Unique physical expressiveness and emotional conveyance (authentic impact that cannot be replicated by algorithms)
+- Strong trust and network with designers, photographers, and brands
+- Improvisation skills to handle unexpected situations during live runway shows (wardrobe malfunctions, stage accidents)
+- Uniqueness of personal brand and fan loyalty (cultural symbolic value)
+
+**Skills to build:**
+
+- Learn digital modeling and 3D scanning technology (for creating personal digital assets)
+- Mastering short video shooting and live-streaming interaction skills (to boost personal IP operations)
+- Familiarity with AI image/video generation tools (e.g., writing Midjourney prompts for collaboration with creative teams)
+- Develop cross-disciplinary performance skills (e.g., theater, dance) to enhance competitiveness in narrative-driven filming
+- Basic data analysis skills (for interpreting social media trends and brand collaboration ROI)
+
+**Key growth areas:**
 
 - digital modeling
 - social media influence
@@ -63,65 +94,67 @@ Models display garments and accessories at fashion shows, private showings, or r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于在模特领域具有杰出能力的模特，需证明获得重大成就。 |
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 极少数情况，模特需证明其工作具有特殊性和高技术性。 |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | For models with outstanding ability in the field of modeling, must demonstrate significant achievements. |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | In rare cases, the model must prove the work is specialized and highly skilled. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Models？**
-- 外貌出众、身材符合行业标准
-- 善于展示和表现，镜头感强
-- 能适应频繁旅行和不规律工作时间
+**Who is suited**
+- Attractive appearance, body type meeting industry standards
+- Good at presenting and performing, strong camera presence
+- Able to adapt to frequent travel and irregular work hours
 
-**谁不适合学Models？**
-- 不喜欢被频繁评价外表
-- 追求稳定工作和固定收入
+**Who is not suited**
+- Dislikes being frequently evaluated on appearance
+- Seeking stable job and fixed income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income for models?**
+A: Model income varies greatly; beginners may earn as little as US$20,000-40,000 per year, while well-known models can earn over US$150,000, but most models have unstable income.
+
+**Q: Can models apply for US work visas?**
+A: Possible but difficult. Outstanding models can apply for O-1 visa, requiring proof of major reputation or achievement. H-1B visa rarely applicable.
+
+**Q: What are the career development paths for models?**
+A: Models can transition to brand ambassadors, social media influencers, actors, or start modeling agencies.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 极高（★★★★½） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Models属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for models?**
-答：Model income varies widely: beginners may earn $20,000-$40,000, while top models can exceed $150,000, but most have unstable earnings.
-
-**问：Can models apply for a US work visa?**
-答：Yes, but it's difficult. Top models may qualify for O-1 visa with evidence of extraordinary ability. H-1B is rarely applicable.
-
-**问：What are the career paths for models?**
-答：Models can transition to brand ambassadors, social media influencers, actors, or start their own modeling agencies.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

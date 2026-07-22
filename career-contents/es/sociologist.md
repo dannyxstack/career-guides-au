@@ -1,58 +1,93 @@
-# Sociologist（Sociologist）职业分析 · ES
+# Sociologist — career analysis · Spain
 
-**职业代码：2821 – Sociologist。**
+**Occupation code: 2821 (CNO)**
 
-Sociologists study human society, social behavior, and structures using quantitative and qualitative methods to analyze social issues and inform policy, community development, and market research.
+Sociologists study human social behavior, structure, and development trends, analyzing social issues through both quantitative and qualitative methods, providing expert insights for policy-making, community development, and market research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费） |
-| 硕士（Máster） | 1-2年 | $1,500~$6,000（公立大学年学费） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities) |
+| Máster | 1-2 years | $1,500~$6,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会学学士学位 | 西班牙大学 | 必备 | 必需，Grado en Sociología |
-| 学历认证（homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Bachelor's degree in Sociology | Spanish University | Required | Essential, Grado en Sociología |
+| Homologación | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。西班牙社会学就业前景稳定但竞争激烈，主要需求来自学术机构、市场研究公司和公共管理部门。数字化和数据分析技能成为加分项，岗位增长缓慢但持续。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. Employment prospects in sociology in Spain are stable but highly competitive, with the main demand coming from academic institutions, market research firms, and public administration. Skills in digitalization and data analysis have become a plus, with job growth slow but steady.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从研究助理或数据分析师起步，积累经验后可晋升为项目经理或高级研究员，最终成为学术教授或咨询公司合伙人。部分转向公共政策或企业战略岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on sociologists is dual: junior data processing roles are reduced, but in-depth analysis and theory-building roles are amplified; overall career risk is manageable.
+
+Typically, you start as a research assistant or data analyst, and after gaining experience, you can be promoted to project manager or senior researcher, eventually becoming an academic professor or a partner in a consulting firm. Some shifted to public policy or corporate strategy positions.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and basic statistical analysis
+- Literature search and preliminary review.
+- Automatic coding and initial screening of structured survey questionnaires
+- Generate standardized report drafts and visualization charts
+
+**Where AI augments the role:**
+
+- Leverage NLP to analyze large-scale text data (e.g., social media, interview transcripts)
+- Identifying complex patterns in social networks through machine learning
+- Using AI to simulate social phenomena (e.g., ABM models)
+- AI-assisted qualitative data coding (topic modeling)
+- Automatically generate data visualizations for academic papers and policy briefs
+
+**Human moat:**
+
+- Research design (posing meaningful sociological questions)
+- Theory building and critical thinking
+- Ethical judgment and human context understanding
+- In-depth qualitative analysis and ethnographic research
+- Communicating research findings to the public and policymakers
+
+**Skills to build:**
+
+- Python/R data science (pandas, scikit-learn)
+- Natural Language Processing (NLTK, spaCy)
+- Machine learning and causal inference
+- AI ethics and social impact analysis
+- Network analysis and visualization (NetworkX).
+- Human-computer interaction and collaboration software
+
+**Key growth areas:**
 
 - Data Analysis
 - Social Research
@@ -61,68 +96,67 @@ Sociologists study human society, social behavior, and structures using quantita
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，需大学学历及工作合同，年薪门槛约33,908欧元（2024年） |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需雇主担保，适合有工作offer的申请者 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留寻找工作，适用于毕业生或高技能人才 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions requiring a university degree and work contract; annual salary threshold approximately EUR 33,908 (2024). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship, suitable for applicants with job offers |
+| Subclass Busqueda empleo (Job Search Visa) | Allowing residency in Spain to seek work, applicable to graduates or highly skilled talents |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sociologist？**
-- 对社会问题和数据分析有浓厚兴趣
-- 具备批判性思维和沟通能力
-- 愿意在学术或公共部门发展
-
-**谁不适合学Sociologist？**
-- 追求高薪和快速晋升
-- 不适应以研究为导向的工作节奏
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in social issues and data analysis
+- Possess critical thinking and communication skills
+- Willingness to develop in academia or the public sector
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Not adapting to a research-oriented work rhythm
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of sociologists?**
+A: Entry-level salaries are about 22,000-28,000 euros, intermediate salaries about 30,000-40,000 euros, and seniors up to 55,000 euros, but salary growth is slower for most positions.
+
+**Q: How can non-EU citizens immigrate to Spain to become sociologists?**
+A: You need to obtain a degree from a Spanish university or pass academic certification, apply for work residence (Cuenta ajena) through employer-sponsorship, or apply for an EU Blue Card if you meet the high-salary requirements.
+
+**Q: Is sociology a sought-after profession in Spain?**
+A: Currently, it is not classified as a scarce profession, but demand in data analysis and market research remains stable and competition is fierce.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sociologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for sociologists?**
-答：Entry-level salaries range from €22,000 to €28,000, mid-level from €30,000 to €40,000, and senior positions up to €55,000, though growth is slow.
-
-**问：How can non-EU citizens migrate to Spain as sociologists?**
-答：They need a recognized degree, a job offer from a Spanish employer for a work permit, or meet salary thresholds for an EU Blue Card.
-
-**问：Is sociology a shortage occupation in Spain?**
-答：It is not currently listed as a shortage occupation, but demand exists in data analysis and market research, albeit competitive.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

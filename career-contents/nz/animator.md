@@ -1,58 +1,93 @@
-# Animator（Animator）职业分析 · 新西兰
+# Animator — career analysis · New Zealand
 
-**职业代码：212411 – Animator。**
+**Occupation code: 212411 (ANZSCO)**
 
-The animation and game design industry in New Zealand is small but viable for skilled migration. Green List Tier 2 requires 2 years of employment with an accredited employer before applying for residence, with salary at or above median (≈55,000 NZD). Main opportunities in Wellington (Weta Digital) and Auckland indie game studios.
+New Zealand's animation and gaming industry is small, but skilled migration is possible. Green List Tier 2 requires employer sponsorship and 2 years of work before applying for residency, with salary at or above median (approx. NZ$55,000). Main job opportunities are at post-production companies like Weta Digital in Wellington and small game studios in Auckland.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $50,000~$120,000（大学本科（如奥克兰大学、惠灵顿维多利亚大学）动画/游戏设计专业） |
-| 专科或证书 | 1-2年 | $20,000~$60,000（理工学院或私立培训（如Yoobee College、Media Design School）短期课程） |
+| Bachelor's degree | 3 years | $50,000~$120,000 (Bachelor's degree (e.g., from University of Auckland, Victoria University of Wellington) in Animation/Game Design) |
+| Specialist degree or certificate | 1-2 years | $20,000~$60,000 (Short-term courses at polytechnics or private training providers (e.g., Yoobee College, Media Design School)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动画/游戏设计相关学位 | 新西兰学历认证局（NZQA）认可院校 | 可选 | 通常为本科学位，雇主看重作品集而非学历 |
-| 英语语言能力（IELTS） | 雅思考试中心 | 必备 | 技术移民要求总分6.5，单项不低于6.0 |
+| English language proficiency (IELTS) | IELTS test center | Required | Skilled migration requires overall band 6.5, no band below 6.0 |
+| Animation/Game Design related degree | NZQA-recognized institutions | Optional | Typically a bachelor's degree, but employers value portfolios over qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰影视后期制作（如Weta FX）及数字媒体行业稳定，但全行业规模有限，竞争激烈。游戏开发领域尚处萌芽期，本地职位较少，远程工作机会较多。未来增长依赖于国际项目外包和本地创意产业政策扶持。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. New Zealand's film post-production (e.g., Weta FX) and digital media industries are stable, but the overall industry scale is limited and competition is fierce. The game development field is still emerging with few local positions and more remote work opportunities. Future growth depends on international project outsourcing and local creative industry policy support.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 起薪较低，取决于公司规模和项目经验 |
-| 中级（3-6年） | $60,000~$85,000 | 大型工作室（如Weta）可达中位数以上 |
-| 高级（6年以上） | $85,000~$120,000 | 资深岗位含技术美术或主管职责 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | Starting salary is low, depending on company size and project experience |
+| Mid-level (3–6 years) | $60,000~$85,000 | In large studios (e.g., Weta), can exceed the median |
+| Senior (6+ years) | $85,000~$120,000 | Senior roles include technical art or supervisory duties |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 从初级动画师/游戏测试员起步，积累作品后可晋升为高级动画师/系统设计师，或转向技术美术（TA）、美术总监等岗位。在新西兰，行业人脉和品牌工作室经验至关重要，部分人最终独立组建小型工作室或从事自由职业。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Animators/game designers face mixed prospects: AI can efficiently generate drafts, basic animations, and procedural content, but creative decision-making, artistic style control, and complex narrative design remain human moats; industry entry barriers will slightly rise due to automation.
+
+Start as junior animator/game tester, build portfolio to advance to senior animator/system designer, or transition to technical artist (TA), art director, etc. In New Zealand, industry connections and branded studio experience are crucial; some eventually form small studios or freelance.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate basic character animations (walking, running cycles), which can be replaced by AI tools like Rokoko, DeepMotion
+- Procedural generation of game scenes, terrain, and vegetation, reducing manual modeling workload
+- Automated video editing and rotoscoping; AI can quickly extract motion data from video
+- Batch generation of basic UI animations and particle effects using AI preset templates
+- Simple dialogue animation and facial expression rigging; AI can auto-generate lip sync from audio
+
+**Where AI augments the role:**
+
+- AI-assisted concept design: quickly generate visual style explorations using text-to-image (Midjourney/Stable Diffusion) to accelerate early creative iterations
+- AI-enhanced animation refinement: use AI interpolation (e.g., Cascadeur) to improve transition naturalness between keyframes, saving manual adjustment time
+- Procedural level design assistance: AI analyses player data to automatically generate level layout suggestions and difficulty curve optimisation
+- AI-driven testing and debugging: automatically conduct game balance tests, identify bugs and gameplay flaws
+- Personalized content generation: AI adjusts game difficulty dynamically based on player behavior or generates customized animation clips
+
+**Human moat:**
+
+- Originality of artistic style: unique aesthetic style, emotional expression, and cultural narrative ability cannot be replicated by AI
+- Complex interaction design and game mechanism innovation: requires system design that understands player psychology and the essence of fun
+- Project creative leadership and artistic direction: decision-making ability to determine overall visual tone and story core
+- Cross-team collaboration communication: close cooperation with planning, programming, sound effects, and other departments, and creative implementation under technical constraints
+
+**Skills to build:**
+
+- Proficient in using AI animation tools (e.g., DeepMotion, Rokoko, Cascadeur) to improve output efficiency
+- Learning procedural generation techniques (Houdini, Unreal Engine Blueprint) combined with AI-based automated modeling
+- Master machine learning basics (Python/TensorFlow) to train custom game AI agents
+- Enhancing narrative design and creative writing skills, focusing on story-driven and emotionally engaging content
+- Strengthen project management and team leadership to adapt to AI-assisted agile development processes
+- Analyzing learning games (user behavior data) to optimize AI-driven personalized experiences
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -61,68 +96,67 @@ The animation and game design industry in New Zealand is small but viable for sk
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence (Tier 2)） | 从事绿名单Tier 2职业，持认证雇主工作签证（AEWV）工作2年后可申请居留，工资需达中位数（约55,000 NZD/年） |
-| Subclass SMC（Skilled Migrant Category） | 分数制技术移民，需满足6分制要求（学历+工作经验+新西兰工作offer等），当前抽取分数门槛较高 |
-| Subclass AEWV（Accredited Employer Work Visa） | 受雇于认证雇主，工资需达中位数或行业标准，最长可居留3年，是累积经验转居留的常用途径 |
+| Subclass Green List T2 (Green List Work to Residence (Tier 2)) | Working in a Green List Tier 2 occupation, holding an Accredited Employer Work Visa (AEWV) for 2 years allows application for residence, salary must meet the median wage (about NZD 55,000/year) |
+| Subclass SMC (Skilled Migrant Category) | Points-based skilled migration, needs to meet 6-point system requirements (education + work experience + NZ job offer, etc.); current selection score threshold is high |
+| Subclass AEWV (Accredited Employer Work Visa) | Employed by an approved employer, salary must meet median or industry standard, maximum stay of 3 years; common pathway to gain experience and transition to residency. |
 
-**PR难度：适中（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animator？**
-- 具备扎实艺术基础和Maya/Blender/Unreal Engine技能的人
-- 愿意接受初期低薪并专注积累作品集的长期主义者
-- 对影视后期或独立游戏开发有强烈热情，能适应远程协作
-
-**谁不适合学Animator？**
-- 追求高薪且希望快速移民者
-- 缺乏创意耐心、对行业竞争敏感的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with solid art foundation and skills in Maya/Blender/Unreal Engine
+- Long-term oriented individuals willing to accept low initial pay and focus on building a portfolio
+- Strong passion for film post-production or indie game development, able to adapt to remote collaboration
+
+**Who is not suited**
+- High salary seekers who wish to immigrate quickly
+- Those lacking creative patience or sensitive to industry competition.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for animators/game designers in New Zealand? Does it meet immigration wage requirements?**
+A: Entry-level annual salary approximately NZD 45,000-60,000, mid-level NZD 60,000-85,000, senior up to NZD 85,000-120,000. Green List Tier 2 work-to-residence requires salary at the median (approx. NZD 55,000/year), which most mid-level and above positions can meet.
+
+**Q: What are the immigration pathways for animators/game designers in New Zealand?**
+A: Main pathways: 1) Green List Tier 2: work in an occupation on the list, apply for residence after 2 years of work with an accredited employer; 2) Skilled Migrant Category (SMC): score based on qualifications, experience, age, currently need 6 points (e.g., master's + 3 years experience + job offer outside Auckland); 3) Accredited Employer Work Visa (AEWV) as a transition.
+
+**Q: Is the animation/game design industry competitive in New Zealand?**
+A: Overall industry small (about 1,200 people), but competition for senior positions is intense. Junior positions require standout portfolios and internship experience, and adapting to instability from project cycles. Increased remote work opportunities have also intensified global competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 适中（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 适中（★★★☆☆） |
-
-Animator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for animators/game designers in New Zealand? Does it meet immigration requirements?**
-答：Entry-level: NZD 45,000-60,000; Mid-level: NZD 60,000-85,000; Senior: NZD 85,000-120,000. Green List Tier 2 requires median wage (≈NZD 55,000/year), which is achievable for most mid-level roles.
-
-**问：What are the immigration pathways for animators/game designers in New Zealand?**
-答：Main pathways: 1) Green List Tier 2: work for 2 years with an accredited employer, then apply for residence; 2) Skilled Migrant Category: points-based (e.g., master's degree + 3 years experience + job offer outside Auckland = 6 points); 3) AEWV as a bridging work visa.
-
-**问：Is the animation/game design industry in New Zealand competitive?**
-答：The industry is small (about 1,200 people), but senior roles face high competition. Entry-level candidates need standout portfolios and internships, and must adapt to project-based instability. Remote work has also intensified global competition.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

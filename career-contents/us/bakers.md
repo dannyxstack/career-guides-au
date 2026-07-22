@@ -1,60 +1,93 @@
-# Bakers（Bakers）职业分析 · 美国
+# Bakers — career analysis · United States
 
-**职业代码：51-3011 – Bakers。**
+**Occupation code: 51-3011 (SOC)**
 
-Bakers mix and bake ingredients to produce breads, pastries, cakes, and other baked goods. They work in retail bakeries, supermarkets, and food manufacturing plants.
+Bakers mix and bake ingredients to produce bread, pastries, cakes, etc. Work in retail bakeries, supermarkets, and food production factories.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常最低要求） |
-| 烘焙证书或副学士学位 | 1-2年 | $5,000~$20,000（职业技术学校或社区学院） |
+| High school diploma or equivalent | 0 years | $0~$0 (Typically minimum requirements) |
+| Baking certificate or associate degree | 1-2 years | $5,000~$20,000 (Vocational technical school or community college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品处理者证书 | 州或地方卫生部门 | 必备 | 许多州要求 |
-| 烘焙艺术证书 | 烹饪学校 | 可选 | 非强制但提升就业竞争力 |
+| Food handler certificate | State or local health department | Required | Required in many states |
+| Baking Arts Certificate | Cooking school | Optional | Not mandatory but enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 196,200。美国劳工统计局预计2022-2032年面包师就业增长约8%，与所有职业平均水平接近。增长受人口增长和餐饮服务需求驱动，但自动化可能减缓增速。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 196,200. The US Bureau of Labor Statistics projects baker employment growth of about 8% from 2022-2032, close to the average for all occupations. Growth is driven by population growth and demand for food services, but automation may slow it.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 小时工资约12-15美元 |
-| 中级（3-7年） | $30,000~$38,000 | 小时工资约15-19美元 |
-| 高级（7年以上） | $38,000~$48,000 | 主管或糕点主厨 |
+| Median salary | $37,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Hourly wage approximately $12-15. |
+| Mid-level (3–7 years) | $30,000~$38,000 | Hourly wage about $15-19 |
+| Senior (7+ years) | $38,000~$48,000 | Supervisor or Pastry Chef |
+| average salary | $38,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级面包师可晋升为领班或主管，优秀者可能成为烘焙经理或开设自己的面包店。高级面包师可在酒店或高端餐厅担任糕点主厨。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
+
+Junior bakers can advance to shift leader or supervisor; outstanding ones may become baking managers or open their own bakeries. Senior bakers can work as pastry chefs in hotels or high-end restaurants.
+
+**Tasks most exposed to AI:**
+
+- Automated batching and weighing systems replace manual weighing.
+- Smart oven auto-control of temperature and time replaces manual monitoring
+- Standardized bread shaping machines replace manual shaping
+- Inventory management software automates replenishment, replacing manual stocktaking
+
+**Where AI augments the role:**
+
+- AI recipe optimization tool helps develop new flavors
+- Smart fermentation monitoring improves product consistency
+- Machine vision assisted decoration quality control
+- Data analytics predicts sales to reduce waste
+
+**Human moat:**
+
+- Complex manual styling and artistic decoration
+- on-site fermentation perception and adjustment experience
+- Customized Creative Design
+- Food safety compliance and manual texture control.
+
+**Skills to build:**
+
+- AI-assisted recipe development tools (e.g., Flavorstar)
+- Data-driven operations (demand forecasting, cost analysis)
+- Refining Handcrafted Art Sugar/ Pulled Sugar
+- Knowledge of sustainable raw material sourcing
+- Short video marketing and brand storytelling
+- Food safety management (HACCP)
+
+**Key growth areas:**
 
 - Food Manufacturing
 - Artisan Baking
@@ -63,65 +96,67 @@ Bakers mix and bake ingredients to produce breads, pastries, cakes, and other ba
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因面包师通常不需要学士学位 |
-| Subclass EB-3（EB-3 Skilled/Unskilled） | 可能通过EB-3其他工人类别，但需劳工证且配额有限 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable, as bakers usually do not need a bachelor's degree |
+| Subclass EB-3 (EB-3 Skilled/Unskilled) | Possible through EB-3 other worker category, but requires labor certification and has limited quotas. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bakers？**
-- 喜欢早起工作
-- 享受手工制作
-- 注重细节
+**Who is suited**
+- Enjoys working early mornings
+- Enjoys manual crafting
+- Attention to detail
 
-**谁不适合学Bakers？**
-- 不适应长时间站立
-- 不喜欢重复劳动
+**Who is not suited**
+- Cannot tolerate prolonged standing
+- Dislikes repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a Baker?**
+A: US baker median annual salary about $32,000, entry-level around $25,000, senior up to $48,000. Salary varies significantly by region and employer type.
+
+**Q: Can bakers obtain a US green card through employment-based immigration?**
+A: Baker is a low-skilled occupation; EB-3 Other Workers category has very few visas and long backlogs, typically only possible with employer sponsorship proving inability to hire local workers.
+
+**Q: What are the career development paths for bakers?**
+A: Can advance from junior baker to supervisor or bakery manager, or develop into a pastry chef, or open their own bakery.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Bakers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bakers?**
-答：Median annual wage for bakers in the US is about $32,000, with entry-level around $25,000 and experienced up to $48,000. Varies by location and employer.
-
-**问：Can bakers obtain a US green card through employment?**
-答：Bakers are considered low-skilled; EB-3 Other Workers category has limited visas and long backlogs. Possible only with employer sponsorship and labor certification.
-
-**问：What are the career advancement paths for bakers?**
-答：Bakers can advance to supervisor or bakery manager, specialize as a pastry chef, or start their own bakery business.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

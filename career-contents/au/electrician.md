@@ -1,71 +1,98 @@
-# 电工（Electrician (General)）职业分析 · 澳大利亚
+# Electrician — career analysis · Australia
 
-**职业代码：341111 – Electrician (General)。**
+**Occupation code: 341111 (ANZSCO)**
 
-电工负责安装、维护和修缮电气系统，广泛服务于住宅、商业、工业和矿业领域。在澳大利亚，电工属于持牌强制行业，长期位居技术短缺清单，是技术移民的热门路径之一。
+Electricians install, maintain, and repair electrical systems across residential, commercial, industrial, and mining sectors. In Australia, electricians are a licensed trade, consistently listed on skills shortage lists, and one of the most popular pathways for skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 TAFE 课程） | 48个月（约3.5~4年） | —（各州差异大：NSW 免费；WA 上限 $1,200；QLD 约 $1.60/课时。另需书本/资源费约 $300~$600） |
-| 海外资质互认（TRA Job Ready Program） | 12~18个月 | $2,000~$5,000（含 TRA 评估费、补考费、实习期行政费） |
-| 各州持牌考试（Electrical Licence） | 1~3个月 | $300~$800（各州独立考试，跨州执业需重新申请） |
+| Apprenticeship (including TAFE coursework) | 48 months (approx. 3.5–4 years) | $0~$1,200 (Significant variation by state: NSW — free; WA — capped at $1,200; QLD — approx. $1.60 per class hour. Additional book/resource fees of approx. $300–$600 apply.) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–18 months | $2,000~$5,000 (Includes TRA assessment fee, re-examination fee and traineeship administrative costs) |
+| State licensing examination (Electrical Licence) | 1–3 months | $300~$800 (Each state has its own independent examination; interstate practice requires a new application) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Electrotechnology Electrician (UEE30820) | TAFE / RTO | 必备 | 全国统一课程，3826学时，执业基础资质 |
-| Electrical Worker Licence（A级） | 各州 Fair Trading / Energy Safety 部门 | 必备 | 合法施工的强制持牌要求，无证操作违法 |
-| Electrical Contractor Licence | 各州独立颁发 | 可选 | 独立承接合同必须，雇主电工可豁免 |
-| Restricted Licence（如 Solar Grid Connect） | Clean Energy Council / 各州 | 可选 | 太阳能安装、EV充电桩等专项工种额外资质 |
-| TRA Skills Assessment | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，国内学历豁免 |
+| Certificate III in Electrotechnology Electrician (UEE30820) | TAFE / RTO | Required | Nationally consistent curriculum, 3,826 hours, foundational practice qualification |
+| Electrical Worker Licence (Class A) | State Fair Trading / Energy Safety authorities | Required | Mandatory licensing requirement for lawful construction work; operating without a licence is illegal |
+| Electrical Contractor Licence | Issued independently by each state | Optional | Mandatory for independent contracting; employees working under an employer may be exempt |
+| Restricted Licence (e.g. Solar Grid Connect) | Clean Energy Council / states | Optional | Additional qualifications for specialist trades such as solar installation and EV charging |
+| TRA Skills Assessment | Trades Recognition Australia (TRA) | Optional | Required for overseas-qualified applicants; exempt for those with domestic qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 128,000。Jobs and Skills Australia 预计2025~2035年技工类（含电工）新增就业约195,800人（+9.8%）。技工类（Skill Level 3）岗位填补率仅54.3%，是全澳最难招聘的工种之一。
+**Job demand: very high (★★★★★).** National workforce approx. 128,000. Jobs and Skills Australia projects approximately 195,800 new trade jobs (including electricians) between 2025 and 2035 (+9.8%). Trade-level (Skill Level 3) roles have a vacancy fill rate of only 54.3%, making them among the hardest to recruit for in Australia.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,500~4,000 个 | 全国，含学徒岗及承包商招聘 |
-| Indeed | 1,500~2,500 个 | 含兼职、合同工，实际去重后略低 |
-| LinkedIn | 600~1,200 个 | 偏企业直招、工程管理类电工岗 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $24,000~$32,000 | Fair Work Award 最低工资，按年级递增 |
-| 学徒 2~4年级 | $32,000~$50,000 | 约 $27.32/hr（成人学徒），政府补贴另计 |
-| 初级电工（持牌后 1~3年） | $73,000~$88,000 | Glassdoor/Indeed 25th percentile，住宅施工为主 |
-| 中级电工（3~8年） | $88,000~$115,000 | Indeed 全国中位数 $53.11/hr；Glassdoor 平均 $94,000 |
-| 资深电工 / 承包商（8年+） | $115,000~$140,000 | ERI SalaryExpert 高端 $114,126~$125,000+，含加班及承包利润 |
-| 矿业 FIFO 电工（WA/QLD） | $140,000~$220,000 | 包含轮班津贴、FIFO 补贴，部分岗位超 $200,000 |
+| Median salary | $113,932 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $24,000~$32,000 | Fair Work Award minimum wage, increasing incrementally by classification level |
+| Apprentice Years 2–4 | $32,000~$50,000 | Approx. $27.32/hr (adult apprentice), government subsidies additional |
+| Junior Electrician (1–3 years post-licence) | $73,000~$88,000 | Glassdoor/Indeed 25th percentile, primarily residential construction |
+| Intermediate electrician (3–8 years) | $88,000~$115,000 | Indeed national median $53.11/hr; Glassdoor average $94,000 |
+| Senior Electrician / Contractor (8+ years) | $115,000~$140,000 | ERI SalaryExpert high end $114,126–$125,000+, including overtime and contracting profit |
+| Mining FIFO Electrician (WA/QLD) | $140,000~$220,000 | Includes shift allowances and FIFO allowances; some roles exceed $200,000 |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 可再生能源转型（Solar、Battery Storage、EV Chargers）持续拉动需求，预计2030年前供需缺口进一步扩大。AI与自动化替代率极低，现场操作无法远程化。
-**AI替代风险：极低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
+
+The renewable energy transition (solar, battery storage, EV chargers) continues to drive demand, with the supply–demand gap expected to widen further before 2030. AI and automation substitution risk is extremely low, and on-site work cannot be performed remotely.
+
+**Tasks most exposed to AI:**
+
+- Manual preparation of wiring plans and material lists (AI can automatically optimize generation)
+- Basic electrical safety calculations (e.g., load calculations, wire sizing)
+- Standardized test recording and report writing
+- Remote diagnosis of simple faults (via AI vision and sensor data)
+
+**Where AI augments the role:**
+
+- Using AI tools to assist in designing complex electrical systems (e.g., PV array layout)
+- Using AI-enhanced augmented reality (AR) for concealed line location and installation guidance
+- Improve preventive maintenance efficiency with AI failure prediction systems
+- Automatic translation of technical documents and compliance requirements using AI for cross-language tasks
+
+**Human moat:**
+
+- On-site operational safety responsibilities and licensing legal requirements
+- Human judgment and emergency handling for complex fault diagnosis
+- Communication and compliance sign-offs with clients, contractors, and regulators
+- Practical hands-on ability in harsh environments (heights, confined spaces)
+
+**Skills to build:**
+
+- Integration of smart building systems (BMS, IoT)
+- Renewable energy system design (photovoltaic, energy storage)
+- Electrical Automation and PLC Programming Basics
+- Data analysis/fault prediction software use
+- Project management and cost estimation
+- Digital work platforms (e.g., SimPRO, ServiceM8)
+
+**Key growth areas:**
 
 - Solar Installation & Battery Storage
 - EV Charger Infrastructure
@@ -75,97 +102,88 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，中期技能流最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永久居留，TRT流需持482满2年，直接流需3年相关工作经验 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，当前EOI分数线约65~75分（竞争激烈） |
-| Subclass 190（Skilled Nominated） | 州政府提名，加5分，永居，建议首选路线 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，临居5年转PR，适合189分数不够者 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, mid-term skilled stream, up to 4 years, eligible to transition to 186 after 2 years |
+| Subclass 186 (ENS) | Permanent residency via employer sponsorship; TRT stream requires 2 years on a 482 visa, direct stream requires 3 years of relevant work experience |
+| Subclass 189 (SkillSelect Independent) | No employer required; invitation-based; current EOI cut-off score approximately 65–75 (highly competitive) |
+| Subclass 190 (Skilled Nominated) | State government nomination, 5 bonus points, permanent residency – recommended as the first-choice pathway |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residence pathway to PR after 5 years; suitable for those with insufficient points for subclass 189 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学电工？**
-- 有电气背景（国内电工证/相关职校学历），希望通过技能移民路径来澳
-- 接受体力劳动和户外工作，不抵触高空、密闭空间和高温环境
-- 目标是矿业高薪（FIFO）或自建电气承包公司
-- 希望走职业技能移民，而非纯学历/英语路线
-- 年龄30~40岁，有足够时间完成TRA评估并积累澳洲工作经验
-
-**谁不适合学电工？**
-- 不愿意做体力劳动，或无法接受FIFO轮班工作模式
-- 期望1~2年内快速取得正式资质（学徒至少4年）
-- 对高空、密闭空间、高温环境有明显生理或心理抵触
-- 英语能力极弱且无改善计划（持牌考试和工地沟通均需英语）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in electrical work (trade certificate or relevant vocational qualification from home country), looking to migrate to Australia via a skilled migration pathway
+- Be comfortable with physical labour and outdoor work, with no objections to working at heights, in confined spaces, or in high-temperature environments
+- Targeting high-paying mining roles (FIFO) or starting your own electrical contracting business
+- Those seeking skilled migration rather than a purely academic/English-language pathway
+- Aged 30–40, with sufficient time to complete the TRA assessment and accumulate Australian work experience
+
+**Who is not suited**
+- Not willing to perform physical labour, or unable to accept FIFO roster work arrangements
+- Expecting to obtain formal qualifications within 1–2 years (apprenticeships take at least 4 years)
+- Has a notable physical or psychological aversion to working at heights, in confined spaces or in high-temperature environments
+- Very poor English proficiency with no improvement plan (licensing exams and on-site communication both require English)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of an electrician in Australia?**
+A: Mid-level licensed electrician annual salary (AUD) approx. $88,000–$115,000, national median approx. $94,000 (Glassdoor 2026). Mining FIFO electricians can reach $140,000–$220,000+. Apprentice wages approx. $24,000–$50,000 (increasing by year level).
+
+**Q: Is it easy for electricians to find work in Australia?**
+A: Easy. Electricians have been in long-term shortage; trade vacancy fill rates are only 54.3% (JSA 2025). Seek consistently lists 2,500–4,000 positions, and licensed tradespeople typically find work within weeks.
+
+**Q: Is a Chinese electrician licence recognised in Australia?**
+A: Not directly recognised, but mutual recognition is possible through the TRA Job Ready Program, which takes approximately 12–18 months. After completing the assessment, an Electrical Licence must be obtained from the relevant state authority before legally practising.
+
+**Q: Will electricians be replaced by AI?**
+A: Replacement risk is extremely low. Electricians rely heavily on on-site judgement, manual wiring and safety compliance, and there is currently no mature automation solution that can replace on-site operations; legal safety requirements also mandate human sign-off.
+
+**Q: Is there an age limit for electricians in Australia?**
+A: There is no strict legal upper age limit. Apprenticeship recruitment generally prefers candidates under 35, but those over 40 can pursue the TRA mutual recognition pathway, bypassing the 4-year apprenticeship to apply directly for a licence. In skilled migration points tests, applicants aged 45 and over receive no age points.
+
+**Q: Are there qualification requirements to become an electrician in Australia?**
+A: No university degree required. Completing a Certificate III is sufficient to practise, equivalent to a vocational college level — TAFE apprenticeship courses can be entered directly upon completing secondary school.
+
+**Q: Is it difficult to become an electrician in Australia?**
+A: Moderate to high difficulty. Theory covers electrical principles, AS/NZS 3000 Australian wiring standards and safety regulations; practical skills require extensive on-site training. Those with an electrical background will adapt more quickly, while those starting from scratch typically need around 6–12 months to get up to speed.
+
+**Q: Which is better for migrating to Australia — electrician or plumber?**
+A: Both are on the MLTSSL with similar PR pathways. Electricians generally earn slightly higher salaries (median $94k vs plumbers ~$85k) and are in greater overall demand; plumbing has a similar training duration with equally strong demand in mining and construction. See the 'Electrician vs Plumber' career comparison section (coming soon).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 341111 职业档案、短缺清单、2025~2035就业预测 |
-| Training.gov.au | UEE30820 课程标准，3826学时，48个月 |
-| Department of Home Affairs | MLTSSL / 签证子类 482、186、189、190、491 条件 |
-| TRA (Trades Recognition Australia) | 海外电工技能评估流程、Job Ready Program |
-| Glassdoor AU | 电工平均年薪 $94,000（May 2026） |
-| Indeed AU | 电工平均时薪 $53.11（May 2026） |
-| ERI SalaryExpert | 电工平均年薪 $101,332；高端 $125,000+（2026） |
-| Fair Work Commission | 学徒 Award 最低工资标准，成人学徒 $27.32/hr |
-| TAFE NSW / TAFE SA / WA TAFE | UEE30820 各州学费及免费/补贴政策（2025） |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-电工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲电工工资多少？**
-答：中级持牌电工年薪（AUD）约 $88,000~$115,000，全国中位数约 $94,000（Glassdoor 2026）。矿业FIFO电工可达 $140,000~$220,000+。学徒期间约 $24,000~$50,000（按年级递增）。
-
-**问：澳洲电工容易找工作吗？**
-答：容易。电工长期供不应求，技工类岗位填补率仅54.3%（JSA 2025）。Seek 常年挂牌 2,500~4,000 个职位，持牌后通常数周内可入职。
-
-**问：中国电工证澳洲认可吗？**
-答：不直接认可，但可通过 TRA Job Ready Program 互认，周期约12~18个月。完成评估后须申请各州 Electrical Licence 方可合法执业。
-
-**问：电工会被AI替代吗？**
-答：替代风险极低。电工高度依赖现场判断、手工接线和安全规范执行，目前无成熟自动化方案可替代现场操作，且安全责任法律要求人工签核。
-
-**问：澳洲电工有年龄限制吗？**
-答：法律上无明确年龄上限。学徒制招募偏好35岁以下，但40岁以上可走TRA互认路径，跳过4年学徒期直接申请持牌。技术移民打分中年龄45岁以上无加分。
-
-**问：澳洲电工有学历限制吗？**
-答：无大学学历要求。完成 Certificate III（职业技能证书）即可执业，相当于国内中专/技校水平，高中毕业即可直接入读 TAFE 学徒课程。
-
-**问：澳洲电工难学吗？**
-答：难度中高。理论涉及电气原理、AS/NZS 3000 澳洲电气标准和安全法规；实操需大量现场训练。有国内电气基础者适应较快，零基础需约6~12个月入门。
-
-**问：电工和水管工（Plumber）哪个更适合移民澳洲？**
-答：两者均在 MLTSSL，PR路径相近。电工整体薪资略高（中位 $94k vs 水管工 ~$85k），需求量更大；水管工学习周期相似，矿业和建筑需求同样旺盛。详见「电工 vs 水管工」职业比较板块（即将上线）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

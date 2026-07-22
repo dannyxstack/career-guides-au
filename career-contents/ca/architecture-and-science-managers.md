@@ -1,59 +1,94 @@
-# Architecture and science managers（Architecture and science managers）职业分析 · 加拿大
+# Architecture and science managers — career analysis · Canada
 
-**职业代码：20011 – Architecture and science managers。**
+**Occupation code: 20011 (NOC)**
 
-Architecture and science managers plan, organize, direct, and evaluate activities in architecture, engineering, science, and related fields. They typically hold senior management positions in construction, engineering, research, or government organizations.
+Construction and science managers plan, organize, direct, and evaluate activities in construction, engineering, science, and related fields. They typically hold senior management positions in construction, engineering, research, or government agencies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（学费因大学和专业而异，国际学生更高。） |
-| 硕士 | 2年 | $15,000~$40,000（管理类硕士（如MBA）或工程管理硕士。） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Tuition fees vary by university and program, higher for international students.) |
+| Master's degree | 2 years | $15,000~$40,000 (Master's in Management (e.g., MBA) or Master's in Engineering Management.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业工程师执照（P.Eng.） | 各省工程师协会 | 必备 | 若背景为工程，需P.Eng.执照。 |
-| 项目管理专业（PMP）认证 | 项目管理协会（PMI） | 可选 | 虽非强制，但雇主普遍看重。 |
-| 建筑或工程学士学位 | 认可大学 | 必备 | 通常需要相关专业本科。 |
+| Professional Engineer license (P.Eng.) | Provincial engineering associations | Required | If the background is engineering, a P.Eng. license is required. |
+| Bachelor's degree in architecture or engineering | Recognised university | Required | A relevant bachelor's degree is usually required. |
+| Project Management Professional (PMP) certification | Project Management Institute (PMI) | Optional | While not mandatory, employers generally value it. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,500。随着加拿大基础设施投资增加和科技创新发展，该职业需求保持稳定。大型项目和绿色建筑趋势将进一步推动就业，但竞争激烈，需要丰富经验和高级资质。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,500. As Canada's infrastructure investment and technological innovation grow, demand for this occupation remains stable. Large projects and green building trends will further drive employment, but competition is fierce, requiring extensive experience and advanced qualifications.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $75,000~$100,000 | 通常从技术岗位转管理初期。 |
-| 中级（5-10年） | $100,000~$140,000 | 具有丰富项目管理经验。 |
-| 高级（10年以上） | $140,000~$200,000 | 总监或副总裁级别。 |
+| Median salary | $130,125 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry-level (0-5 years) | $75,000~$100,000 | Usually transitioning from technical roles to management early stage. |
+| Intermediate (5-10 years) | $100,000~$140,000 | Has extensive project management experience. |
+| Senior (10+ years) | $140,000~$200,000 | Director or Vice President level. |
+| average salary | $139,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从技术岗位（如建筑师、工程师）晋升而来，积累项目管理经验后可担任部门主管、项目总监，最终晋升为副总裁或首席技术官。持续学习新技术和管理技能是晋升关键。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
+
+Usually promoted from technical roles (e.g., architect, engineer). After gaining project management experience, can become department head, project director, and eventually vice president or CTO. Continuous learning of new technologies and management skills is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Using AI to automatically generate project progress reports and status updates
+- Use AI for preliminary budget estimation and cost risk assessment
+- Automated assignment of routine tasks and resource scheduling (e.g., AI-based project management tools)
+- Use AI to screen resumes and conduct preliminary interview scheduling
+- Automatically monitor key performance indicators and trigger alerts
+
+**Where AI augments the role:**
+
+- AI provides project risk predictions and decision support, improving complex decision quality
+- Using AI to analyze historical data to optimize project planning and resource allocation
+- Use NLP tools to automatically generate meeting minutes and action items.
+- Accelerate feasibility analysis by simulating different project outcomes with AI
+- Using AI-driven collaboration tools to enhance team communication efficiency
+
+**Human moat:**
+
+- Interpersonal management skills like cross-team conflict resolution and staff motivation
+- Strategic decision-making and trade-offs under uncertainty and high risk
+- Deep understanding of and responsibility for engineering ethics and safety regulations
+- Building trust and long-term collaboration with senior management and clients
+
+**Skills to build:**
+
+- Mastering AI project management tools (e.g., Jira Automation, Asana Intelligence)
+- Learn data analysis basics, able to interpret AI-generated reports
+- Enhance personnel management and change leadership skills
+- Familiar with AI ethics and compliance applications
+- Learn soft skills for integrating AI tools across teams
+- Continuously follow the latest AI applications in engineering
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Green building
@@ -62,65 +97,64 @@ Architecture and science managers plan, organize, direct, and evaluate activitie
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 适合有管理经验的申请人，通过FSW或CEC类别申请。 |
-| Subclass PNP（Provincial Nominee Program） | 各省有针对高技能管理人才的提名项目。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，之后可申请经验类移民。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Suitable for applicants with management experience, applying through the FSW or CEC streams. |
+| Subclass PNP (Provincial Nominee Program) | Each province has nomination programs for highly skilled management talent. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, after which you can apply for experience-class immigration. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architecture and science managers？**
-- 具有建筑、工程或科学背景，希望转向管理岗位的人
-- 具备优秀领导力和沟通能力，能协调多学科团队
-- 喜欢挑战性工作，能承受项目压力
-
-**谁不适合学Architecture and science managers？**
-- 偏好纯技术工作，不愿承担管理责任的人
-- 缺乏项目管理或团队领导经验的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a background in construction, engineering, or science looking to transition into management roles
+- Possesses excellent leadership and communication skills, able to coordinate multidisciplinary teams
+- Enjoys challenging work and can handle project pressure
+
+**Who is not suited**
+- People who prefer purely technical work and do not want to take on management responsibilities
+- Those lacking project management or team leadership experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of construction and science managers?**
+A: According to Canada's Job Bank, average annual salary is about CAD 120,000, entry-level around CAD 75,000, senior can exceed CAD 200,000, depending on industry and location.
+
+**Q: How can overseas applicants immigrate to Canada for this occupation?**
+A: Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Requires relevant management experience, bachelor's degree, and language test. Employer sponsorship (LMIA) can also add points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Architecture and science managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for architecture and science managers?**
-答：According to Job Bank Canada, the average annual salary is around CAD 120,000, with entry-level at CAD 75,000 and senior roles exceeding CAD 200,000, depending on industry and location.
-
-**问：How can overseas applicants immigrate to Canada for this occupation?**
-答：They can apply through Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Requirements include relevant management experience, a bachelor's degree, and language test scores. Employer sponsorship (LMIA) can also provide additional points.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

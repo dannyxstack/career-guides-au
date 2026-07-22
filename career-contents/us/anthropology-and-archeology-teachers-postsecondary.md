@@ -1,56 +1,88 @@
-# Anthropology and Archeology Teachers, Postsecondary（Anthropology and Archeology Teachers, Postsecondary）职业分析 · 美国
+# Anthropology and Archeology Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1061 – Anthropology and Archeology Teachers, Postsecondary。**
+**Occupation code: 25-1061 (SOC)**
 
-Teach courses in anthropology or archeology at postsecondary institutions, combining teaching with research.
+Teaching anthropology or archaeology courses at universities or colleges, balancing teaching and research, cultivating the next generation of scholars.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位（Ph.D.） | 5年 | $100,000~$200,000（含学费和生活费，因学校和奖学金而异） |
+| Doctorate (Ph.D.) | 5 years | $100,000~$200,000 (Includes tuition and living expenses, varies by school and scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 人类学或考古学博士，研究方向需与教学匹配 |
+| Doctoral degree (PhD) | University | Required | PhD in anthropology or archaeology, research direction must match teaching |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,000。未来十年就业增长约7%，与平均水平持平。博士学历竞争激烈，终身教职岗位有限，但兼职和客座职位增多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,000. Employment growth of about 7% over the next decade, on par with the average. PhD positions are competitive, with limited tenure-track roles but an increase in adjunct and visiting positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 助理教授 | $50,000~$75,000 | 通常为9个月合同 |
-| 副教授 | $65,000~$95,000 | 可能含暑期工资 |
-| 正教授 | $85,000~$130,000 | 终身教职后薪资更高 |
+| Median salary | $99,650 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Assistant professor | $50,000~$75,000 | Typically a 9-month contract |
+| associate professor | $65,000~$95,000 | May include summer pay |
+| Full professor | $85,000~$130,000 | Salary higher after tenure |
+| average salary | $106,880 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从助理教授晋升副教授、正教授，需发表高质量论文并获得终身教职。也可转向博物馆、文化遗产机构或政府研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Anthropology and archaeology professors' teaching and admin tasks will be largely automated by AI, but original research and fieldwork rely on human insight; job numbers may decrease with increased competition.
+
+Progress from assistant professor to associate professor and full professor, requiring high-quality publications and tenure. Alternatively, transition to museums, cultural heritage institutions, or government research roles.
+
+**Tasks most exposed to AI:**
+
+- Batch test scoring and standardized test assessment
+- Recording of basic course lectures and automated Q&A (based on LLM)
+- Literature review and data organization (AI automatic extraction)
+- Administrative tasks (course scheduling, student grade statistics)
+
+**Where AI augments the role:**
+
+- Use AI to analyze archaeological data (e.g., identify sites from satellite imagery)
+- Use AI to generate 3D models or virtual reality reconstructions of ancient scenes
+- Use natural language processing to accelerate ethnographic text coding
+- AI-assisted design of personalized learning paths and interactive courseware
+
+**Human moat:**
+
+- Fieldwork judgment and interpersonal communication
+- Propose innovative theories and explain cultural phenomena
+- Ethical decision-making and research integrity review
+- Supervise graduate students in original research.
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and remote sensing analysis
+- Programming (Python/R) and machine learning basics
+- Application of AI tools in field research (e.g., voice transcription)
+- Data Visualization and Digital Humanities Methods
+- Academic project management and interdisciplinary collaboration
+
+**Key growth areas:**
 
 - stable demand
 - tenure track decline
@@ -59,65 +91,64 @@ Teach courses in anthropology or archeology at postsecondary institutions, combi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 大学可申请，不占年度配额上限。需博士学位 |
-| Subclass EB-2（Employment-Based Second Preference） | 通过PERM或国家利益豁免（NIW）申请绿卡 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出学者，需证明国际声誉 |
+| Subclass H-1B (H-1B Specialty Occupations) | Universities can apply, not subject to annual quota cap. Requires a doctoral degree. |
+| Subclass EB-2 (Employment-Based Second Preference) | Apply for a green card through PERM or National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to outstanding scholars, requires proof of international reputation |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Anthropology and Archeology Teachers, Postsecondary？**
-- 对学术研究有强烈热情，喜欢教学
-- 能承受多年博士学习和兼职工作压力
-- 愿意在流动性较强的学术就业市场中竞争
-
-**谁不适合学Anthropology and Archeology Teachers, Postsecondary？**
-- 追求高薪和快速职业回报
-- 不喜欢长时间独立研究和写作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion for academic research and enjoy teaching
+- Able to withstand years of doctoral study and part-time work pressure
+- Willing to compete in a mobile academic job market
+
+**Who is not suited**
+- Pursuing high salary and fast career returns
+- Dislike long periods of independent research and writing
+
+---
+
+## 8. FAQ
+
+**Q: Are anthropology/archaeology professor salaries high?**
+A: In the US, assistant professors earn about $50,000-$75,000 per year, associate professors $65,000-$95,000, and full professors $85,000-$130,000. Salaries are lower than many engineering or business professors.
+
+**Q: Is it easy for foreign scholars to become professors in the US on H-1B visas?**
+A: University H-1B applications are not subject to the cap, making it easier. However, a PhD is required, and obtaining a green card through tenure takes a long time.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Anthropology and Archeology Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Are salaries for anthropology/archeology professors high?**
-答：In the U.S., assistant professors earn $50k-$75k, associate professors $65k-$95k, and full professors $85k-$130k, lower than many engineering or business professors.
-
-**问：Is it easy for foreign scholars to work as professors in the U.S. via H-1B?**
-答：Universities are cap-exempt for H-1B, making it easier. However, a Ph.D. is required, and getting a tenure-track green card takes time.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

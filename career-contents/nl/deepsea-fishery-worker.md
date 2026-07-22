@@ -1,60 +1,96 @@
-# Deep-sea Fishery Worker（Deep-sea Fishery Worker）职业分析 · NL
+# Deep-sea Fishery Worker — career analysis · Netherlands
 
-**职业代码：6223 – Deep-sea Fishery Worker。**
+**Occupation code: 6223 (ISCO08)**
 
-Deep-sea fishery workers operate commercial fishing vessels in the Dutch North Sea and other waters, handling nets, processing catches, and maintaining ship equipment.
+Deep-sea fishery workers engage in commercial fishing in the Dutch North Sea and other waters, including operating fishing nets, handling catches, and maintaining ship equipment.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业学校 (MBO) | 3年 | —（荷兰政府资助，学费极低） |
-| 短期职业培训 | 6个月 | $500~$3,000（私立培训课程） |
+| Secondary Vocational School (MBO) | 3 years | $0~$2,000 (Dutch government funded, very low tuition fees) |
+| Short-term vocational training | 6 months. | $500~$3,000 (Private training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔业船员证书 | 荷兰运输、公共工程和水管理部 | 必备 | 基本安全培训和渔业操作证书 |
-| 船长证书 | 荷兰运输、公共工程和水管理部 | 可选 | 需多年海上经验 |
+| Fisheries Crew Certificate | Netherlands Ministry of Transport, Public Works and Water Management | Required | Basic safety training and fishing operations certificate |
+| Ship captain certificate | Netherlands Ministry of Transport, Public Works and Water Management | Optional | Requires many years of sea experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。荷兰渔业面临配额减少、燃油成本上升和欧盟共同渔业政策限制，从业人数呈下降趋势。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. The Dutch fishing industry faces quota reductions, rising fuel costs, and restrictions from the EU Common Fisheries Policy, resulting in a declining workforce.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，基于平均月薪€2500 |
-| 中级（3-10年） | $32,000~$40,000 | 税前年薪 |
-| 高级（10年以上） | $40,000~$50,000 | 包括船长或资深渔捞长 |
+| Median salary | $37,346 | Median salary (official: CBS median hourly wage €18.9/hour × 1976 h annualized, BRC group 1311 Beroepsgroep overig; P25–P75 €30,628–€49,400, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual pre-tax salary, based on average monthly salary of €2500. |
+| Intermediate (3-10 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (10+ years) | $40,000~$50,000 | Including a ship captain or senior fishing master |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 初级船员可升任甲板长或渔捞长，少数人通过船长考试成为渔船船长，或转向渔业监管、水产养殖。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation will have mixed impacts on deep-sea fishing workers: automated gear and data analysis will boost catch efficiency, but autonomous navigation and smart monitoring systems may replace some navigation and fish-finding tasks; meanwhile, human experience is still needed for areas like care and compliance decision-making.
+
+Junior crew can advance to deckhand or fishing master; a few pass the captain exam to become fishing vessel captains, or move into fisheries regulation or aquaculture.
+
+**Tasks most exposed to AI:**
+
+- Fish detection and navigation: AI systems based on sonar and satellite data can autonomously plan routes and locate fish schools, reducing reliance on manual labor.
+- Fishing net operation and monitoring: automatic net retraction systems and smart monitoring enable real-time adjustment of net depth and tension, partially replacing manual operations.
+- Initial catch sorting: computer vision sorting equipment can automatically grade by species and size, replacing manual sorting.
+- Voyage log recording: sensors automatically collect and log environmental and fishing data, replacing manual recording.
+- Weather and sea condition warnings: AI models predict severe weather and automatically suggest evasive actions, reducing human judgment.
+
+**Where AI augments the role:**
+
+- Fishing strategy optimization: AI analyses historical data and real-time environment to suggest optimal fishing times and areas, aiding decision-making.
+- Catch quality monitoring: using image recognition to continuously assess fish freshness and guide preservation.
+- Compliance and sustainability: automatic recording and reporting of catch data to ensure quota and environmental regulation adherence.
+- Ship maintenance prediction: sensors monitor equipment status, AI warns of faults in advance, reducing downtime.
+- Remote Collaboration and Training: AR/VR-assisted remote expert guidance for complex repairs, improving skill transfer efficiency.
+
+**Human moat:**
+
+- Emergency response and complex decision-making: in offshore accidents (e.g., mechanical failure, man overboard), on-the-spot judgment requires human intuition and experience that cannot be replaced.
+- Manual precision operations: fishing net repair, high deck work requiring flexibility and tactile feedback.
+- Legal and ethical responsibilities: The captain's ultimate responsibility for crew safety, fishing quotas, and environmental protection.
+- Team management and communication: soft skills like coordinating multinational crews and maintaining morale.
+- Adaptation to unstructured environments: adaptive capabilities to cope with extreme weather, sudden current changes, etc.
+
+**Skills to build:**
+
+- Smart fishing equipment operation and maintenance (sonar, AIS, autopilot).
+- Data analysis and interpretation (fishery statistics, environmental sensor data).
+- Fisheries regulations and sustainable practices (quota management, responsible fishing).
+- Basic programming and AI tool applications (Python, dashboard usage).
+- Remote communication and collaboration tools (satellite network, AR assistance systems).
+- Emergency management and medical rescue (upgrade of maritime first aid certificate).
+
+**Key growth areas:**
 
 - Sustainable fishing
 - Automation
@@ -63,66 +99,68 @@ Deep-sea fishery workers operate commercial fishing vessels in the Dutch North S
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Permit for Labour (G（Regular Employment Permit） | 由雇主担保，需证明非欧盟公民优先；渔业属季节性行业 |
-| Subclass EU Blue Card（EU Blue Card） | 通常不适用于低技能渔业工人 |
-| Subclass Orientation Year（Orientation Year） | 仅适用于在荷兰毕业的留学生，与渔业无关 |
+| Subclass Permit for Labour (G (Regular Employment Permit) | Requires employer sponsorship, must prove non-EU citizen priority; fishing is a seasonal industry |
+| Subclass EU Blue Card (EU Blue Card) | Generally not applicable to low-skilled fishery workers |
+| Subclass Orientation Year (Orientation Year) | Only applicable to international students who graduated in the Netherlands, not related to fisheries |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Deep-sea Fishery Worker？**
-- 热爱海洋和户外工作
-- 体力充沛，能适应长期海上生活
-- 不介意危险和艰苦环境
+**Who is suited**
+- Passion for the ocean and outdoor work
+- Physically robust and able to adapt to long-term life at sea.
+- Not afraid of dangerous and harsh environments
 
-**谁不适合学Deep-sea Fishery Worker？**
-- 向往稳定陆地生活
-- 晕船或无法适应海上颠簸
+**Who is not suited**
+- Desiring a stable land-based life
+- Seasickness or inability to adapt to sea motion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for deep-sea fishery workers?**
+A: Entry-level annual salary about €26,000-€32,000, senior up to €50,000, but fluctuates greatly depending on catch volume.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Difficult because fishing is not a shortage occupation; employers need to prioritize hiring EU citizens and the work permit threshold is high.
+
+**Q: What are the future prospects for this occupation?**
+A: Due to quota and environmental policy restrictions, employment opportunities are decreasing, but sustainable fisheries and automation may bring transformation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Deep-sea Fishery Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for deep-sea fishery workers?**
-答：Entry-level salary is around €26,000-€32,000, with experienced workers earning up to €50,000, but income fluctuates with catch.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Difficult, as fishing is not a shortage occupation and employers must prioritize EU citizens.
-
-**问：What is the future outlook for this occupation?**
-答：Job opportunities are declining due to quotas and environmental policies, though sustainable fishing and automation may bring changes.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

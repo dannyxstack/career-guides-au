@@ -1,58 +1,94 @@
-# Officers of non-governmental organisations（Officers of non-governmental organisations）职业分析 · UK
+# Officers of non-governmental organisations — career analysis · United Kingdom
 
-**职业代码：4113 – Officers of non-governmental organisations。**
+**Occupation code: 4113 (SOC)**
 
-Officers of non-governmental organisations perform a variety of administrative and clerical tasks in the running of trade associations, employers’ associations, learned societies, trade unions, charitable organisations and similar bodies.
+NGO officers perform administrative and clerical work in industry associations, employer associations, academic societies, trade unions, charitable organizations, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中 | 2年 | —（无需高等教育，但相关工作经验更有利） |
-| 学士学位 | 3年 | $9,250~$38,000（社会科学、公共政策、国际关系等专业） |
+| High school | 2 years | $0~$0 (Higher education not required, but relevant work experience is advantageous) |
+| Bachelor's degree | 3 years | $9,250~$38,000 (Majors in social sciences, public policy, international relations, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会科学或相关领域学士学位 | 英国大学 | 可选 | 通常不强制，但雇主偏好 |
-| 项目管理认证（如PRINCE2） | AXELOS | 可选 | 有助于晋升 |
+| Bachelor's degree in social sciences or a related field. | UK universities | Optional | Usually not mandatory, but preferred by employers |
+| Project management certification (e.g., PRINCE2) | AXELOS | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。英国非政府组织行业就业稳定，受公共政策和社会需求影响较大。随着慈善和社会企业的发展，该职业需求预计温和增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Employment in the UK non-governmental organization sector is stable, heavily influenced by public policy and social needs. Demand for this occupation is expected to grow moderately with the development of charities and social enterprises.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 行政或助理角色 |
-| 中级（3-7年） | $28,000~$40,000 | 项目官员或协调员 |
-| 高级（7年以上） | $40,000~$60,000 | 部门主管或政策负责人 |
+| Median salary | $31,008 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Administrative or assistant roles |
+| Mid-level (3–7 years) | $28,000~$40,000 | Project officer or coordinator |
+| Senior (7+ years) | $40,000~$60,000 | Department head or policy director |
+| average salary | $35,507 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径从初级行政官员到高级政策官员或部门经理，也可以横向转移到公共部门或私营企业的社会责任岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will amplify NGO officials' analytical, communication, and project management skills, enabling more efficient data processing, report writing, and volunteer coordination, but core social missions and interpersonal trust still require humans.
+
+Career progression from junior administrative officer to senior policy officer or department manager, with lateral moves to public sector or private sector social responsibility roles.
+
+**Tasks most exposed to AI:**
+
+- Entry-level clerical work: such as file archiving, email sorting, data entry
+- Basic report generation: automatically summarize activity data, generate financial summaries
+- Routine communication: respond to common inquiries, send templated newsletters
+- Meeting minutes and schedule management: AI voice transcription and auto-scheduling
+- Compliance screening: automatically check if grant applications meet basic criteria
+
+**Where AI augments the role:**
+
+- Data analysis: Use AI tools to identify donation trends and project impact indicators
+- Report writing: AI-assisted generation of insightful narratives and visual reports
+- Volunteer coordination: smart matching of skills with tasks, optimizing scheduling
+- Fundraising strategy: predictive analytics to identify high-potential donors
+- Policy Monitoring: NLP Fast-Tracking Relevant Regulations and Policy Changes
+
+**Human moat:**
+
+- Building relationships and trust with communities, donors, and governments
+- Empathy and Ethical Judgment When Handling Sensitive Cases
+- Balancing organizational mission with resource constraints in strategic decision-making
+- Advocacy, lobbying, and public speaking on behalf of an organization
+- Crisis management: soothing stakeholders in uncertain environments
+
+**Skills to build:**
+
+- Data analysis and visualisation (e.g., Python/Pandas, Tableau)
+- Digital marketing tools (CRM system, email automation platform)
+- Project management software (e.g., Asana, Trello, MS Project)
+- AI tool usage (ChatGPT, Zapier automation)
+- Public speaking and advocacy skills
+- Basic Financial Modeling and Budget Forecasting
+
+**Key growth areas:**
 
 - NGO
 - Charity
@@ -61,68 +97,67 @@ Officers of non-governmental organisations perform a variety of administrative a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 如果获得雇主担保，可申请技术工人签证，该职业在可担保职业列表上 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可申请两年（博士三年）毕业生签证，积累工作经验 |
-| Subclass Scale-up（Scale-up visa） | 适合在快速成长的NGO工作，满足薪资和雇主条件 |
+| Subclass Skilled Worker (Skilled Worker visa) | If employer-sponsored, you can apply for a skilled worker visa; this occupation is on the list of eligible occupations for sponsorship. |
+| Subclass Graduate (Graduate visa) | UK graduates can apply for a two-year (doctoral three-year) graduate visa to accumulate work experience |
+| Subclass Scale-up (Scale-up visa) | Suitable for working in a fast-growing NGO, meeting salary and employer conditions |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Officers of non-governmental organisations？**
-- 对社会公益有热情
-- 具备良好组织和沟通能力
-- 愿意在多变环境中工作
-
-**谁不适合学Officers of non-governmental organisations？**
-- 追求高薪
-- 不愿处理行政文书
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about social welfare
+- Good organizational and communication skills
+- Willing to work in changing environments
+
+**Who is not suited**
+- Pursuing high salary
+- Unwilling to handle administrative paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of NGO officers?**
+A: Entry-level annual salary approximately £22,000-28,000, mid-level £28,000-40,000, senior up to £40,000-60,000.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, this occupation is on the Skilled Worker visa occupation list and requires employer sponsorship.
+
+**Q: How to become a senior official?**
+A: Gain project management experience, obtain relevant certifications (e.g., PRINCE2), and expand industry network.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Officers of non-governmental organisations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for NGO officers?**
-答：Entry-level salary is around £22,000-£28,000, mid-level £28,000-£40,000, and senior level £40,000-£60,000.
-
-**问：Can this occupation apply for a Skilled Worker visa?**
-答：Yes, it is on the eligible occupations list for the Skilled Worker visa, requiring employer sponsorship.
-
-**问：How to advance to a senior officer role?**
-答：Gain project management experience, obtain relevant certifications (e.g., PRINCE2), and expand your professional network.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

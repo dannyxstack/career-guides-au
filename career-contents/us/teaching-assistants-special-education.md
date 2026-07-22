@@ -1,62 +1,97 @@
-# Teaching Assistants, Special Education（Teaching Assistants, Special Education）职业分析 · 美国
+# Teaching Assistants, Special Education — career analysis · United States
 
-**职业代码：25-9043 – Teaching Assistants, Special Education。**
+**Occupation code: 25-9043 (SOC)**
 
-Assist preschool, elementary, middle, or secondary teachers to provide academic, social, or life skills to students with learning, emotional, or physical disabilities. Teachers have primary responsibility for design and implementation of educational programs.
+Assist preschool, primary, secondary or senior secondary teachers in providing academic, social or life skills support to students with learning, emotional or physical disabilities. Teachers have primary responsibility for educational program design and implementation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
-| 本科学位（晋升教师必需） | 4年 | $40,000~$120,000（公立大学州内学费） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree (required for promotion to teacher) | 4 years | $40,000~$120,000 (In-state tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位或同等学分 | 美国教育部认可机构 | 必备 | 许多州要求完成至少2年大学课程或获得副学士学位 |
-| 急救与心肺复苏认证 | 美国红十字会或类似机构 | 可选 | 部分学区要求 |
-| 背景调查（无犯罪记录） | 州执法部门 | 必备 | 所有州公立学校必需 |
+| Associate degree or equivalent credits | Accredited by the U.S. Department of Education | Required | Many states require completion of at least 2 years of college coursework or an associate degree |
+| Background check (no criminal record) | State law enforcement agencies | Required | Mandatory for all state public schools |
+| First aid and CPR certification | American Red Cross or similar organization | Optional | Some school districts require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 550,000。美国特殊教育教学助理需求稳定，因特殊教育学生人数增加及对包容性教育的重视。预计2022-2032年就业增长约4%，与所有职业平均持平。公立学校为主要雇主。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 550,000. Demand for special education teaching assistants in the US is stable, driven by an increase in special education students and emphasis on inclusive education. Employment is projected to grow about 4% from 2022-2032, about as fast as the average for all occupations. Public schools are the main employers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 兼职或临时职位 |
-| 中级（3-7年） | $32,000~$40,000 | 全职，可能包括额外职责 |
-| 高级（7年以上） | $40,000~$50,000 | 资深或履行额外领导职责 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$32,000 | Part-time or temporary positions |
+| Mid-level (3–7 years) | $32,000~$40,000 | Full-time, may include additional duties |
+| Senior (7+ years) | $40,000~$50,000 | Senior or performing additional leadership duties |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从兼职或临时职位起步，积累经验后可转为全职。晋升路径包括成为首席教学助理或通过进修成为特殊教育教师。部分学区提供额外培训以提升资质。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of teaching assistants (document processing, scheduling, record-keeping) are easily replaced by AI, but demand for emotional labor like face-to-face student support and behavior management remains; the role is evolving overall.
+
+Usually start as part-time or temporary positions, can transition to full-time after gaining experience. Advancement paths include becoming lead teaching assistant or pursuing further education to become special education teacher. Some districts offer additional training to enhance qualifications.
+
+**Tasks most exposed to AI:**
+
+- Using AI to generate class notes, student attendance reports, and transcripts
+- Automated scheduling and classroom resource allocation
+- Answer common parent questions (e.g., school calendar, policies) via chatbot
+- Automatically Organize Student Files and IEP (Individualized Education Program) Data
+- Recording meeting minutes using voice-to-text tools
+
+**Where AI augments the role:**
+
+- Using AI to Analyze Student Academic Data to Precisely Identify Students Needing Extra Tutoring
+- Assist non-English speaking students and parents using AI translation tools
+- Generate personalized learning materials via AI (e.g., differentiated exercises)
+- Using AI to simulate classroom management scenarios to enhance behavioral intervention strategies
+- Using AI to optimize teacher workflows, freeing up more time for instructional support
+
+**Human moat:**
+
+- Empathy and real-time adaptability in handling student emotional and behavioral issues
+- One-on-one physical assistance and emotional connection with students with special needs
+- Interpersonal communication in unstructured situations (e.g., sudden conflicts, parent meetings)
+- Coordination work requiring flexible judgment in cross-departmental collaboration
+- Recognition and response to non-verbal signals in classroom management
+
+**Skills to build:**
+
+- Operation and data interpretation of AI education tools (e.g., Classcraft, Knewton)
+- Basic data analysis (intermediate+ Excel/Google Sheets)
+- Digital content creation (Canva/Adobe Express to produce learning materials)
+- AI-assisted communication tools (e.g., ChatGPT generating parent letter templates)
+- Classroom behavior management techniques (positive discipline, trauma-informed practices)
+- Project management tools (Asana/Trello) for tracking student support plans
+
+**Key growth areas:**
 
 - Special Education
 - Inclusive Education
@@ -65,66 +100,68 @@ Assist preschool, elementary, middle, or secondary teachers to provide academic,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因最低学历要求通常仅为副学士学位，但若雇主以特殊教育教师职位担保（需本科）则可能。 |
-| Subclass EB-3（Employment-Based Third Preference） | 极少见，需PERM劳工证且雇主证明无法找到合格美国工人。教学助理职位通常不满足技能要求。 |
-| Subclass J-1（J-1 Exchange Visitor） | 部分学校可通过文化交流项目聘用外国教学助理，但有限期。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the minimum education requirement is typically only an associate degree, but possible if the employer sponsors a special education teacher position (requiring a bachelor's degree). |
+| Subclass EB-3 (Employment-Based Third Preference) | Very rare, requires PERM labor certification and employer proof of inability to find qualified US workers. Teaching assistant positions usually do not meet skill requirements. |
+| Subclass J-1 (J-1 Exchange Visitor) | Some schools can hire foreign teaching assistants through cultural exchange programs, but with limited duration. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Teaching Assistants, Special Education？**
-- 有耐心和同理心的人
-- 喜欢帮助有特殊需要学生的人
-- 寻求稳定且有成就感教育工作的人
+**Who is suited**
+- People with patience and empathy
+- People who enjoy helping students with special needs
+- People seeking stable and fulfilling careers in education
 
-**谁不适合学Teaching Assistants, Special Education？**
-- 追求高薪职业的人
-- 无法应对学生行为挑战的人
+**Who is not suited**
+- People pursuing high-paying careers
+- People who cannot handle student behavior challenges
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a special education teaching assistant?**
+A: According to BLS data, the median annual salary for special education teaching assistants in 2023 was approximately $34,000, with entry-level around $26,000 and senior up to $50,000, depending on location and experience.
+
+**Q: Can a special education teaching assistant obtain a US green card through occupational immigration?**
+A: Very difficult. This occupation is generally seen as a non-professional technical role and does not meet H-1B or EB-3 green card standards. Unless the employer can prove the position requires a bachelor's degree or higher, there is almost no immigration pathway.
+
+**Q: Can special education teaching assistants become teachers?**
+A: Yes. Many teaching assistants advance to become special education teachers by earning a bachelor's degree and teaching certification. Some districts offer tuition assistance or internship programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Teaching Assistants, Special Education属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a special education teaching assistant?**
-答：According to BLS, the median annual wage for special education teaching assistants in 2023 was about $34,000, with entry-level around $26,000 and experienced up to $50,000, depending on location and experience.
-
-**问：Can a special education teaching assistant obtain a US green card through employment-based immigration?**
-答：Very difficult. This occupation is usually considered a non-skilled position and does not meet H-1B or EB-3 requirements. Unless the employer can demonstrate a bachelor's degree requirement, there is almost no immigration pathway.
-
-**问：Can a special education teaching assistant become a teacher?**
-答：Yes. Many teaching assistants advance to become special education teachers by obtaining a bachelor's degree and teaching certification. Some school districts offer tuition assistance or internship programs.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

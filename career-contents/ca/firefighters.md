@@ -1,63 +1,99 @@
-# Firefighters（Firefighters）职业分析 · 加拿大
+# Firefighters — career analysis · Canada
 
-**职业代码：42101 – Firefighters。**
+**Occupation code: 42101 (NOC)**
 
-Canadian firefighters perform fire suppression, emergency rescue, medical first response, and fire prevention education, employed by municipal departments and volunteer services. Skilled migration is feasible but requires Canadian experience or provincial nomination, with high competition.
+Canadian firefighters handle fire suppression, emergency rescue, medical first response, and fire prevention education. Employers include municipal fire departments and volunteer fire brigades. Skilled migration is possible but requires prior Canadian work experience or a provincial nomination, and competition is intense.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 消防学院培训 | 12-16周 | $5,000~$12,000（各省消防学院如Ontario Fire College，费用含住宿） |
-| 大专文凭（可选） | 2年 | $15,000~$30,000（如Fire Protection Technology等专业，需自费） |
-| NAIT等证书课程 | 6个月 | $3,000~$8,000（补充技能如急救、危险品处理） |
+| Fire academy training | 12-16 weeks | $5,000~$12,000 (Provincial fire colleges such as Ontario Fire College, fees including accommodation) |
+| Diploma (optional) | 2 years | $15,000~$30,000 (Majors such as Fire Protection Technology, must be self-funded) |
+| Certificate programs like NAIT | 6 months. | $3,000~$8,000 (Supplementary skills such as first aid, dangerous goods handling.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/IQAS | 可选 | 用于评估海外学历，非强制但移民时需 |
-| NFPA一级消防员认证 | NFPA (National Fire Protection Association) | 必备 | 多数省份要求，需通过理论与实操考试 |
-| 急救证书（如EMR/FR） | 各省级急救监管机构 | 必备 | 通常需要，如急救医疗反应级别 |
-| 语言考试（CLB 7+） | IELTS/CELPIP | 必备 | 移民及部分省份执照要求，推荐CLB 8 |
+| NFPA Firefighter I certification | NFPA (National Fire Protection Association) | Required | Most provinces require passing theoretical and practical exams |
+| First aid certification (e.g., EMR/FR). | Provincial emergency medical regulatory bodies | Required | Usually required, e.g., emergency medical response level |
+| Language test (CLB 7+). | IELTS/CELPIP | Required | Immigration and some provincial license requirements recommend CLB 8 |
+| ECA (Educational Credential Assessment). | WES/IQAS | Optional | Used to assess overseas qualifications, not mandatory but needed for immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。加拿大消防员就业前景稳定，受人口增长和基础设施扩建推动，年均空缺约500个。但岗位主要靠退休补充，新入职需通过严格体能测试和培训，偏远地区需求更大。
+**Job demand: medium (★★★☆☆).** National workforce approx. 32,000. Employment prospects for firefighters in Canada are stable, driven by population growth and infrastructure expansion, with about 500 annual vacancies. However, positions are mainly filled through retirement replacement, new recruits must pass rigorous physical tests and training, with greater demand in remote areas.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$72,000 | 以安省为例，年薪约6万 |
-| 中级（3-8年） | $75,000~$95,000 | 含加班津贴，高级可达10万以上 |
-| 高级（8年+） | $90,000~$110,000 | 队长级别，部分省份有养老金计划 |
+| Median salary | $95,243 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$72,000 | Using Ontario as an example, annual salary about $60,000. |
+| Mid-level (3–8 years) | $75,000~$95,000 | Including overtime allowances, senior can reach over 100,000 |
+| Senior (8+ years) | $90,000~$110,000 | Captain level, some provinces have pension plans |
+| average salary | $95,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升路径：消防员 → 高级消防员 → 队长 → 分区主管 → 消防总长。需取得加拿大消防教官协会（NFPA）认证，部分省份要求大专学历。竞争激烈，建议先积累本地志愿者经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on firefighters is mixed: daily reports and training simulations can be automated, but core tasks like firefighting and on-site decisions rely on human judgment and physical ability, hard to replace short-term.
+
+Career progression path: firefighter → senior firefighter → captain → division supervisor → fire chief. Need NFPA certification, some provinces require college diploma. Competitive; recommend gaining local volunteer experience first.
+
+**Tasks most exposed to AI:**
+
+- Accident reporting and documentation: use natural language processing to automatically generate preliminary reports.
+- Equipment inventory management and scheduling: AI-optimized resource allocation
+- Basic fire prediction and risk assessment: data model-based warning systems
+- Routine training and assessment: VR simulations reduce need for human instructors
+- Monitoring and alarm system response: automatic identification of fire signals and dispatch
+
+**Where AI augments the role:**
+
+- Fire scene situational awareness: AI-assisted thermal imaging and smoke recognition for real-time decision support
+- Rescue path planning: AI suggests fastest entry routes and evacuation plans
+- Physical monitoring and fatigue warning: wearable devices track vital signs
+- Community fire safety education: AI generates personalized promotional materials and analyzes risks
+- Training simulations: VR/AR create low-cost, high-fidelity fire scenarios
+
+**Human moat:**
+
+- Quick decision-making and emergency judgment in complex fire scenes
+- Physical and courageous actions involving life rescue
+- Direct communication and psychological support with injured individuals
+- Adaptation to unstructured environments and creative problem-solving
+- Trust building for teamwork and onsite coordination.
+
+**Skills to build:**
+
+- Master data analysis and visualization tools (e.g., Python, Tableau) to process fire alarm data
+- Learns to use VR/AR equipment for simulation training and command
+- Drone operation certificate (for fire reconnaissance)
+- Basic AI and machine learning concepts (understanding predictive models)
+- Crisis communication and psychological first aid skills
+- Project management and cross-department coordination skills
+
+**Key growth areas:**
 
 - Municipal Fire
 - Emergency Services
@@ -66,69 +102,68 @@ Canadian firefighters perform fire suppression, emergency rescue, medical first 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安省、BC省有紧缺职业提名，需获得雇主offer或已有工作许可。竞争激烈，但可为海外申请人提供LMIA豁免。 |
-| Subclass EE（Express Entry (Federal Skilled Worker)） | 消防员属于NOC TEER 2类别，可申请FSW，但需CRS分数高（470+），若无加拿大经验建议先积累LMIA工作或PNP加分。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省指定雇主担保，适合有雇主offer的消防员，流程较快，无CRS评分竞争。 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and BC have targeted occupation streams requiring a job offer or work permit. Competitive but may offer LMIA exemption for overseas applicants. |
+| Subclass EE (Express Entry (Federal Skilled Worker)) | Firefighters fall under NOC TEER 2 category, eligible for FSW, but need high CRS score (470+). Without Canadian experience, it's advisable to first accumulate LMIA work or PNP points. |
+| Subclass AIP (Atlantic Immigration Program) | Designated employer sponsorship in Atlantic Canada, suitable for firefighters with a job offer, faster process, no CRS score competition. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Firefighters？**
-- 身体素质出色，能通过严格的体能测试（如CPAT）
-- 具有紧急救援、急救或消防相关经验者优先
-- 愿意在偏远省份或志愿消防队积累经验
-
-**谁不适合学Firefighters？**
-- 不习惯高强度体力劳动和不可预测的排班制度
-- 缺乏英语沟通能力（CLB低于7）或无法通过背景调查
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent physical fitness, able to pass rigorous physical tests (e.g., CPAT).
+- experience in emergency rescue, first aid, or firefighting preferred
+- Willing to gain experience in remote provinces or volunteer fire departments
+
+**Who is not suited**
+- Not accustomed to high-intensity physical labor and unpredictable shift schedules
+- Lack of English communication skills (CLB below 7) or inability to pass background check
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a firefighter in Canada?**
+A: According to Canada's Job Bank, the median annual salary for firefighters is about CAD 78,000, entry-level around CAD 55,000-72,000, and senior can exceed CAD 100,000, depending on city and overtime.
+
+**Q: Can overseas firefighters directly immigrate to Canada via Express Entry?**
+A: Yes, but very difficult. Firefighters are TEER 2, require a high CRS score (usually 470+). It is recommended to first obtain provincial nomination or a Canadian employer offer (with LMIA) for extra points, or apply for the Atlantic Immigration Program.
+
+**Q: What Canadian certifications are needed for overseas firefighters?**
+A: Must obtain NFPA Firefighter I certification (recognized by each province), as well as a first aid certificate (EMR or higher). Overseas experience may be partially recognized, but theory and practical exams are usually required to be retaken. Some provinces require a physical fitness test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Firefighters为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for firefighters in Canada?**
-答：According to Job Bank, the median annual salary is around CAD 78,000, with entry-level earning CAD 55,000-72,000 and senior roles exceeding CAD 100,000, depending on city and overtime.
-
-**问：Can foreign firefighters immigrate through Express Entry directly?**
-答：Yes, but it is challenging. As TEER 2, a high CRS score (≥470) is needed; it is advisable to first secure a provincial nomination or a Canadian job offer with LMIA, or apply via the Atlantic Immigration Program.
-
-**问：What certifications do foreign firefighters need in Canada?**
-答：They must obtain NFPA Firefighter I certification (recognized provincially) and a first aid certificate (e.g., EMR). Overseas experience may be partially credited but usually requires retesting theory and practicals, plus physical fitness tests in some provinces.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

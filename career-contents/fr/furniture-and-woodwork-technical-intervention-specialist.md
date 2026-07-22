@@ -1,62 +1,96 @@
-# Furniture and Woodwork Technical Intervention Specialist（Furniture and Woodwork Technical Intervention Specialist）职业分析 · FR
+# Furniture and Woodwork Technical Intervention Specialist — career analysis · France
 
-**职业代码：H2209 – Furniture and Woodwork Technical Intervention Specialist。**
+**Occupation code: H2209 (ROME)**
 
-Responsible for on-site repair, installation, renovation, and technical support for furniture and wood products, ensuring quality and customer satisfaction.
+Responsible for on-site repair, installation, refurbishment, and technical support for furniture and wood products to ensure product quality and customer satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP | 2年 | —（公立学校免费，私立约5000欧元/年） |
-| Bac Pro | 3年 | —（公立学校免费，私立约8000欧元/年，可学徒制） |
-| BTS | 2年 | —（公立学校免费，私立约10000欧元/年） |
+| CAP | 2 years | $0~$5,000 (Public schools are free; private schools around €5,000 per year.) |
+| Bac Pro | 3 years | $0~$8,000 (Public schools are free; private schools around €8,000/year; apprenticeship possible.) |
+| BTS | 2 years | $0~$10,000 (Public schools are free, private approx. €10,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Menuisier | 法国教育部 | 可选 | 基础证书，适合入门 |
-| Bac Pro Technicien de fabrication bois et ameublement | 法国教育部 | 可选 | 中级证书，常见要求 |
-| CQP (Certificat de Qualification Professionnelle) | 行业委员会 | 可选 | 专业技能认证，部分职位需要 |
+| CAP Menuisier | French Ministry of Education | Optional | Basic certificate, suitable for beginners |
+| Bac Pro Technicien de fabrication bois et ameublement | French Ministry of Education | Optional | Intermediate certificate, common requirements |
+| CQP (Certificat de Qualification Professionnelle) | Industry committee | Optional | Professional skills certification, required for some positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国家具与木制品行业稳定，受房地产和装修市场驱动，对技术干预人员的需求持续，但竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's furniture and wood products industry is stable, driven by the real estate and renovation markets, with ongoing demand for technical interventionists but moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $31,784 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从技术工人晋升为团队主管、技术培训师，或自主创业开设维修公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+It is difficult to fully automate on-site physical tasks such as maintenance and installation for furniture and wood product technical intervention specialists, but AI will significantly improve efficiency in cognitive areas like diagnosis, inventory management, and customer communication, resulting in an overall "medium risk, high enhancement potential" trend.
+
+You can be promoted from a skilled worker to a team leader, technical trainer, or start your own repair company.
+
+**Tasks most exposed to AI:**
+
+- Frequently Asked Questions in Customer Consultations (AI Chatbot Takeover)
+- Parts inventory counting and ordering (replaced by automated inventory systems)
+- Preliminary diagnosis of repair plans (AI image recognition assisted judgment)
+- Automatic assignment and scheduling of service work orders (algorithm optimization)
+
+**Where AI augments the role:**
+
+- Use AI-enhanced inspection tools (such as thermal imaging and acoustic diagnostics) to quickly locate hidden defects
+- Receive remote expert guidance through AR glasses to improve the efficiency of complex repairs
+- Using AI historical data to predict common furniture faults and develop preventive maintenance plans
+- Generate precise renovation plans using 3D scanning and modeling software
+- AI analysis based on customer feedback optimizes service processes and quality
+
+**Human moat:**
+
+- Exquisite handcrafted restoration and woodworking skills (such as carving and patchwork)
+- On-site safety judgment and flexible handling of emergencies
+- Communicate directly with customers to build trust and personalized service
+- Creative problem-solving in non-standardized, ever-changing environments
+
+**Skills to build:**
+
+- AI-assisted diagnostic and repair tool operation (such as smart detectors)
+- Applications of augmented reality (AR) remote collaboration technology
+- Basic data analytics and CRM system usage
+- 3D modeling and digital twin software (such as SketchUp, Revit)
+- Sustainable materials and green renovation technologies
+- Basic knowledge of Internet of Things (IoT) furniture systems
+
+**Key growth areas:**
 
 - Furniture repair
 - Wood restoration
@@ -65,65 +99,67 @@ Responsible for on-site repair, installation, renovation, and technical support 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇工作居留，需雇主担保，适合有经验的技师 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 人才护照，适合高技能人才，如高级技师或管理岗 |
+| Subclass Salarié (Salarié (Employee)) | Employed work residence requires employer sponsorship, suitable for experienced technicians |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport, suitable for highly skilled professionals such as senior technicians or management positions |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Furniture and Woodwork Technical Intervention Specialist？**
-- 喜欢动手、注重细节的人
-- 对木工和家具维修有热情者
-- 愿意从事技术性服务工作
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Those passionate about carpentry and furniture repair
+- Willing to work in technical services
 
-**谁不适合学Furniture and Woodwork Technical Intervention Specialist？**
-- 不喜欢体力劳动的人
-- 不善于与客户沟通者
+**Who is not suited**
+- People who dislike physical labor.
+- Those who are not good at communicating with customers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary: approx. 22,000-28,000 euros; senior: up to 35,000-45,000 euros, pre-tax.
+
+**Q: How can non-EU individuals immigrate to France to pursue this profession?**
+A: This occupation is not considered in short supply, and immigration pathways are limited. You can try the Salarié Work Residency or Passeport Talent, but employer sponsorship is required and competition is fierce.
+
+**Q: What qualifications are required?**
+A: Typically, a CAP or Bac Pro degree is required, and BTS helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Furniture and Woodwork Technical Intervention Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is about 22,000-28,000 EUR, senior up to 35,000-45,000 EUR, gross.
-
-**问：How can non-EU nationals immigrate to France for this occupation?**
-答：This occupation is not in shortage, migration paths are limited. You can try Salarié or Passeport Talent visa with employer sponsorship, but competition is high.
-
-**问：What education is required?**
-答：Typically CAP or Bac Pro in relevant fields, BTS helps career advancement.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

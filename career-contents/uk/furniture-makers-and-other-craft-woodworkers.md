@@ -1,59 +1,93 @@
-# Furniture makers and other craft woodworkers（Furniture makers and other craft woodworkers）职业分析 · UK
+# Furniture makers and other craft woodworkers — career analysis · United Kingdom
 
-**职业代码：5442 – Furniture makers and other craft woodworkers。**
+**Occupation code: 5442 (SOC)**
 
-Furniture makers and other craft woodworkers make, repair and restore wooden furniture, decorative objects and other crafted pieces of woodwork, combining traditional hand skills with modern machinery.
+Furniture manufacturing and woodworking craftspeople make, repair, and restore wooden furniture, decorative items, and other wood products, typically combining traditional hand techniques with modern machinery.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育（GCSE/A-Level） | 2年 | —（公立学校免费，材料费约200-500英镑） |
-| 学徒制（Advanced Apprenticeship） | 3年 | —（学徒期间薪金覆盖，无学费） |
-| 高等国家文凭（HND）或学位 | 2-3年 | $9,000~$27,000（每年学费约9000英镑，视学校而定） |
+| Secondary education (GCSE/A-Level) | 2 years | $0~$1,000 (Public schools are free, material fees about 200-500 GBP) |
+| Advanced Apprenticeship | 3 years | $0~$0 (Salary covered during apprenticeship, no tuition fees) |
+| Higher National Diploma (HND) or degree | 2-3 years | $9,000~$27,000 (Annual tuition approx. £9,000, depending on school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木工技能证书（City & Guilds Level 2/3） | City & Guilds | 可选 | 最常见的行业入门证书，涵盖手工与机械技能 |
-| 家具制造文凭（BTEC Diploma in Furniture Making） | Pearson | 可选 | 部分雇主优先考虑 |
+| Carpentry skills certificate (City & Guilds Level 2/3) | City & Guilds | Optional | Most common industry entry-level certificate, covering manual and mechanical skills. |
+| BTEC Diploma in Furniture Making. | Pearson | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。预计2023-2033年该职业就业增长较为平稳，年增长率约1-2%。定制家具和修复服务需求稳定，但自动化生产可能影响低端制造岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. Employment growth in this occupation is expected to be steady from 2023 to 2033, with an annual growth rate of approximately 1-2%. Demand for custom furniture and restoration services is stable, but automated production may impact low-end manufacturing jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 通常为学徒或入门级薪资 |
-| 中级（3-5年） | $24,000~$32,000 | 熟练工匠薪资 |
-| 高级/资深（5年以上） | $32,000~$45,000 | 主管、定制工匠或自雇者可能更高 |
+| Median salary | $33,078 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$24,000 | Typically apprentice or entry-level salary |
+| Mid-level (3–5 years) | $24,000~$32,000 | Skilled tradesperson salary |
+| Advanced/Senior (5+ years) | $32,000~$45,000 | Supervisors, custom craftsmen, or self-employed individuals may earn higher |
+| average salary | $35,836 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工匠可晋升为高级工匠或主管，也可转向定制家具设计、维修或自我创业。部分工匠通过进修成为教师或评估师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Furniture making and woodworking artisans have mixed fortunes from AI: CNC and other automated machinery have replaced some repetitive processing tasks, but customization, restoration, design communication, etc., have instead improved efficiency and creativity with AI tools, upgrading the overall job profile rather than eliminating it.
+
+Junior craftsmen can advance to senior craftsmen or supervisors, or transition to custom furniture design, repair, or self-employment. Some become teachers or assessors through further training.
+
+**Tasks most exposed to AI:**
+
+- Automate batch cutting and rough machining through 3D scanning and CNC programming
+- Use AI-generated design drawings to replace manual drafting of mortise and tenon joints and structural diagrams
+- Uses robotic automatic sanding machines and coating lines for surface finishing
+- Intelligent nesting software calculates optimal panel cutting plans, reducing manual calculation
+
+**Where AI augments the role:**
+
+- AI-assisted design tools quickly generate multiple furniture design options for craftsmen to select and adjust
+- Augmented reality (AR) guides precise assembly of complex wooden structures, reducing rework
+- Uses digital twins to simulate wood shrinkage and swelling due to moisture, optimizing structural reliability.
+- AI quality inspection systems analyse machining errors in real time to assist manual adjustment of process parameters
+
+**Human moat:**
+
+- Artistic processes such as hand carving and joining of high-end custom furniture
+- Understanding of wood age characteristics and original techniques in antique furniture restoration
+- Comprehensive judgment of building structure and environmental humidity during on-site installation
+- Ability to deeply communicate with clients about aesthetic needs and translate them into feasible solutions
+- Fine manual finishing and repair of complex irregular components
+
+**Skills to build:**
+
+- CNC woodworking equipment programming and operation (e.g., 5-axis machining center)
+- CAD/CAM software (e.g., Fusion 360, SolidWorks)
+- AI-assisted design tools (e.g., Midjourney for concept generation)
+- Digital twin and simulation analysis skills
+- Ability in intelligent quality inspection and sensor data interpretation
+- Knowledge of sustainable materials and green manufacturing
+
+**Key growth areas:**
 
 - Craftsmanship revival
 - Custom furniture demand
@@ -62,64 +96,63 @@ Furniture makers and other craft woodworkers make, repair and restore wooden fur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获得雇主担保，该职业属于可担保职业清单，薪资需达到一般门槛或新 entrant 标准。 |
-| Subclass Graduate（Graduate Visa） | 适合在英国完成学位的国际毕业生，可在毕业后停留2年寻找工作。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Employer sponsorship required; this occupation is on the eligible occupation list, and salary must meet the general threshold or new entrant standard. |
+| Subclass Graduate (Graduate Visa) | Suitable for international graduates who have completed a degree in the UK, allowing them to stay for 2 years after graduation to find work. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Furniture makers and other craft woodworkers？**
-- 对木工和手工艺有浓厚兴趣，注重细节
-- 喜欢动手制作，具备耐心和创造力
-- 愿意接受学徒训练，从基础做起
-
-**谁不适合学Furniture makers and other craft woodworkers？**
-- 偏好快节奏、高薪资的办公环境
-- 对物理劳动和木尘过敏或不适应
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in woodworking and craftsmanship, attention to detail
+- Enjoy hands-on work, with patience and creativity
+- Willing to undergo apprenticeship training and start from the basics
+
+**Who is not suited**
+- Prefers fast-paced, high-paying office environments
+- Allergic or not suited to physical labor and wood dust
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a furniture craftsman?**
+A: Junior: approximately £18,000–£24,000; mid-level: £24,000–£32,000; senior up to £45,000+. Self-employed income varies significantly.
+
+**Q: Can furniture makers apply for a UK work visa?**
+A: Can apply for a Skilled Worker visa, but requires employer sponsorship and meeting salary requirements (generally not less than £26,200/year). This occupation is not on the shortage occupation list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Furniture makers and other craft woodworkers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for furniture makers?**
-答：Entry-level: £18,000-£24,000; experienced: £24,000-£32,000; senior: up to £45,000+. Self-employed income varies.
-
-**问：Can furniture makers apply for a UK work visa?**
-答：Yes, via Skilled Worker visa with employer sponsorship and salary requirement (usually min £26,200/year). Not on shortage list.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

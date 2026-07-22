@@ -1,60 +1,95 @@
-# Pre-press Technician（Pre-press Technician）职业分析 · IT
+# Pre-press Technician — career analysis · Italy
 
-**职业代码：7321 – Pre-press Technician。**
+**Occupation code: 7321 (ISCO08)**
 
-Pre-press technicians prepare print materials, including layout, image processing, color correction, and plate making. They are a key link between digital and traditional printing processes.
+Prepress technicians prepare printing materials, including layout, image processing, color correction, and plate making. They are a key link between digital and traditional printing processes.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（ITS） | 2年 | —（公立ITS学费极低，部分免费） |
-| 本科学位 | 3年 | $1,000~$4,000（公立大学学费因收入而异） |
+| Vocational Education (ITS) | 2 years | $0~$2,000 (Public ITS tuition is very low, some free) |
+| Bachelor's degree | 3 years | $1,000~$4,000 (Public university tuition fees vary by income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印前技师职业资格 | 各地区职业培训中心 | 可选 | 非强制但有利于就业 |
-| Adobe认证专家（ACE） | Adobe | 可选 | 行业认可，非强制 |
+| Pre-press technician qualification | Regional vocational training centers | Optional | Not mandatory but beneficial for employment |
+| Adobe Certified Expert (ACE) | Adobe | Optional | Industry-recognized, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 18,000。意大利印刷业持续萎缩，数字媒体冲击下就业岗位减少。预计2023-2033年就业下降约5-10%。但包装印刷和数码印刷领域仍有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 18,000. Italy's printing industry continues to shrink, with employment declining under the impact of digital media. Employment is expected to fall by about 5-10% between 2023 and 2033. However, there is still stable demand in packaging printing and digital printing.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Annual pre-tax salary |
+| average salary | $29,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级印前技师可晋升为高级技师或印前主管，也可转向数字印刷或平面设计领域。学习数码印刷和自动化工作流程可提升竞争力。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Prepress technicians face a dual impact from AI automation and enhancement: repetitive layout and basic color correction will be replaced, but creative decision-making and complex quality control still require humans; skills need to be proactively upgraded.
+
+Junior pre-press technicians can advance to senior technicians or pre-press supervisors, or transition into digital printing or graphic design. Learning digital printing and automated workflows can improve competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated image preprocessing: AI-based auto-cropping, color adjustment, descreening, replacing manual basic operations.
+- Template-based layout: AI automatically generates standard layouts based on content, reducing manual adjustment time.
+- Basic color correction: AI color gamut matching and automatic ICC conversion, replacing repetitive color calibration.
+- Automated film output and plate making: digital process AI monitoring reduces manual inspection.
+
+**Where AI augments the role:**
+
+- Advanced color management: AI analyzes color shifts in special materials, assisting technicians in optimizing LUTs to improve color accuracy.
+- Complex layout creativity: AI provides various layout options, while technicians incorporate artistic judgment and client needs.
+- Defect detection and quality inspection: AI vision identifies printing defects, technicians focus on complex cases.
+- Workflow routing: AI prioritises tasks, technicians focus on high-value projects.
+- Client communication and customization: AI generates drafts, technicians provide creative explanations and personalized adjustments.
+
+**Human moat:**
+
+- Creative decision-making and aesthetic judgement: selecting fonts and designing layouts requires understanding the brand and audience.
+- Complex problem solving: handling special materials and irregular originals that machines cannot fully cover.
+- Client communication and requirement analysis: understand clients' vague requirements and translate them into technical solutions.
+- Multi-process integration capability: combining digital printing, traditional printing, post-processing, etc., with cross-domain coordination.
+- Responsibility for quality control: ultimately accountable for the final product, with machines only aiding judgement.
+
+**Skills to build:**
+
+- AI layout and image processing tools (Adobe Firefly, AI automatic color correction plugins).
+- Automated print workflow platform (e.g., Enfocus PitStop, Esko Automation Engine)
+- Advanced Color Management (Spectrophotometry, ICCProfiler)
+- Basic programming/scripting (Python for automated batch processing)
+- Digital printing and variable data printing (VDP) technologies
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Declining
 - Digitalization
@@ -63,64 +98,66 @@ Pre-press technicians prepare print materials, including layout, image processin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，薪资门槛约3.4万欧元，但印前技师通常达不到 |
-| Subclass Decreto Flussi（Decreto Flussi quota work visa） | 适用于非欧盟低技能工人，但印前技师不在此类配额内 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with a salary threshold of around €34,000, but pre-press technicians usually do not meet this |
+| Subclass Decreto Flussi (Decreto Flussi quota work visa) | Applies to non-EU low-skilled workers, but pre-press technicians are not included in this quota |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pre-press Technician？**
-- 注重细节的人
-- 对印刷和设计感兴趣的人
+**Who is suited**
+- Detail-oriented people
+- People interested in printing and design
 
-**谁不适合学Pre-press Technician？**
-- 寻求高薪或高增长职业的人
-- 不愿适应技术变化的人
+**Who is not suited**
+- People seeking high-salary or high-growth careers
+- People unwilling to adapt to technological changes
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pre-press technicians?**
+A: Junior: about 20,000–25,000 euros; intermediate: 25,000–32,000 euros; senior: 32,000–40,000 euros. Salary is affected by region and company size.
+
+**Q: Can non-EU citizens immigrate to Italy through the pre-press technician occupation?**
+A: Very difficult. This occupation is not on the priority list for high-skilled Blue Card or quota work visas, and local labour is sufficient.
+
+**Q: What are the career prospects for a prepress technician?**
+A: The industry as a whole is shrinking, but packaging printing and digital printing still have demand. It is recommended to learn automated workflows and digital design to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Pre-press Technician属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pre-press technicians?**
-答：Entry-level around €20,000-25,000, mid-level €25,000-32,000, senior €32,000-40,000 per year. Salaries vary by region and company size.
-
-**问：Can non-EU citizens immigrate to Italy as pre-press technicians?**
-答：Very difficult. This occupation is not prioritized under the EU Blue Card or Decreto Flussi quota schemes, with sufficient local labor.
-
-**问：What are the career prospects for pre-press technicians?**
-答：The industry is declining, but packaging and digital printing offer some demand. Learning automated workflows and digital design is advised.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

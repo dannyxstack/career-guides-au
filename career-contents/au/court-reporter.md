@@ -1,66 +1,93 @@
-# 法庭速记员（Court Reporter）职业分析 · 澳大利亚
+# Court Reporter — career analysis · Australia
 
-**职业代码：591113 – Court Reporter。**
+**Occupation code: 591113 (ANZSCO)**
 
-法庭速记员是澳洲专业服务行业的重要职业，需求稳定，具备相关资质即可入行。澳洲专业服务行业持续扩张，为专业人员提供良好的职业发展机会。
+Court reporters are an important profession in Australia's professional services sector, with stable demand – relevant qualifications are sufficient to enter the field. Australia's professional services sector continues to expand, offering strong career development opportunities for qualified professionals.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| Relevant degree or certificate qualification | 1–4 years | $5,000~$50,000 (Depends on the specific course) |
+| Industry registration or licensing | Depends on circumstances | $200~$2,000 (Industry registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Relevant qualification for Court Reporter | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Relevant qualification for Court Reporter | Recognised institution | Required | Foundation for entering the industry |
+| Professional membership / registration | Industry association | Optional | Professional Member |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 2,000。2025-2030年澳洲专业服务行业持续扩张，法庭速记员需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. Australia's professional services sector will continue to expand from 2025 to 2030, with steady growth in demand for court reporters; those with relevant certifications and experience have strong employment prospects.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| Median salary | $80,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $58,000~$78,000 | Entry Level |
+| Mid-level (3–8 years) | $80,000~$110,000 | Experienced |
+| Senior (8+ years) | $112,000~$150,000 | Senior / Specialist |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，法庭速记员须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
+
+Requirements for digital technology and professional certification continue to rise, and court reporters must continually update their skills to keep pace with industry changes.
+
+**Tasks most exposed to AI:**
+
+- Use stenotype machines or voice transcription devices to generate real-time court transcripts
+- Proofreading and editing repetitive legal language in routine court proceedings
+- Generate standardized court summaries with timestamps
+- Processing records for uncontested informal hearings
+
+**Where AI augments the role:**
+
+- Using AI transcription drafts to accelerate final record generation, focusing on verifying legal terminology accuracy
+- AI marks key contradictions in witness testimony in real-time to improve court efficiency
+- Using AI to automatically organize indexes and timecodes, freeing time for contract review
+- Assisted identification of speakers via AI voice analysis and managing multi-person conversation records
+
+**Human moat:**
+
+- Deep understanding of legal procedures, evidence rules, and adjudication standards
+- Precise hearing and manual correction in noisy or slurred speech scenarios
+- Declassification of sensitive information (e.g., trade secrets, minors involved in cases)
+- On-site rapid response and subtitle synchronisation (e.g., sudden interruptions, judge instructions)
+- Troubleshooting court technology systems (stenography equipment, real-time captioning software)
+
+**Skills to build:**
+
+- Master the parameter tuning of AI real-time transcription tools (e.g., Otter.ai, Nuance Dragon)
+- Learning Python or low-code platforms for automatic formatting of transcribed text
+- Improve Typing Speed for Legal Terminology in English (especially Latin terms common in Australian case law)
+- Obtaining court process management certification (e.g., APEC hearing coordinator qualification)
+- Develop courtroom data analysis skills (e.g., counting frequency of witness testimony citations)
+
+**Key growth areas:**
 
 - Australia Wide Growth
 - Regional Demand
@@ -69,64 +96,65 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored |
+| Subclass 186 (ENS) | Permanent residency pathway |
+| Subclass 190 (Skilled Nominated) | State nomination |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学法庭速记员？**
-- 对专业服务行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
+**Who is suited**
+- Passionate about the professional services industry
+- Those seeking stable employment in Australia
+- Candidates with relevant academic qualifications
 
-**谁不适合学法庭速记员？**
-- 不了解澳洲专业服务行业规范者
-- 不愿持续学习更新技能者
+**Who is not suited**
+- Not familiar with Australian professional services industry standards
+- Those unwilling to continuously learn and update their skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for court stenographers in Australia?**
+A: Junior approx. AUD 58,000~78,000, mid-level 80,000~110,000, senior/specialist 112,000~150,000, varies by city and employer.
+
+**Q: Is it easy to find work as a court stenographer in Australia?**
+A: Demand is stable with positions available across Australia; employment prospects are strong for those with relevant certifications and experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 591113 法庭速记员数据 |
-| Seek AU | 薪资及岗位量 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-法庭速记员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：法庭速记员在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
-
-**问：澳洲法庭速记员好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

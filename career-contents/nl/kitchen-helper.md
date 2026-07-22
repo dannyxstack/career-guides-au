@@ -1,60 +1,95 @@
-# Kitchen Helper（Kitchen Helper）职业分析 · NL
+# Kitchen Helper — career analysis · Netherlands
 
-**职业代码：9412 – Kitchen Helper。**
+**Occupation code: 9412 (ISCO08)**
 
-Kitchen helpers assist chefs by preparing ingredients, cleaning utensils, and maintaining kitchen hygiene. This entry-level role is commonly found in restaurants, hotels, and canteens in the Netherlands.
+Kitchen assistants help chefs prepare ingredients, clean utensils, and maintain kitchen hygiene; they are basic positions in the catering industry. In the Netherlands, this job is typically entry-level, often in restaurants, hotels, and canteens.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 无 | —（通常在职培训即可） |
-| 中等职业教育（MBO） | 2-3年 | $1,000~$5,000（某些职业学校提供厨房相关课程，费用因学校而异） |
+| No education requirement | None | $0~$0 (Usually on-the-job training is sufficient) |
+| Intermediate Vocational Education (MBO) | 2-3 years | $1,000~$5,000 (Some vocational schools offer kitchen-related courses, fees vary by school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书（Hygiënecode） | 荷兰食品安全局（NVWA） | 可选 | 部分雇主要求，确保基本食品安全知识 |
-| 在职培训 | 雇主 | 必备 | 通常雇主提供岗位培训，无正式证书 |
+| On-the-job training | Employer | Required | Employers usually provide on-the-job training; no formal certification required |
+| Food Safety Certificate (Hygiënecode) | Netherlands Food and Consumer Product Safety Authority (NVWA) | Optional | Ensure basic food safety knowledge as required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 25,000。荷兰餐饮业持续增长，但厨房帮工岗位流动性大，就业机会较多。技能要求低，适合初次就业者或兼职，但工资水平较低，晋升空间有限。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 25,000. The Dutch catering industry continues to grow, but kitchen hand positions have high turnover, offering many job opportunities. Low skill requirements make it suitable for first-time job seekers or part-time workers, but wages are low and promotion prospects limited.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$25,000 | 税前年薪，通常按最低工资或略高 |
-| 中级（2-5年） | $25,000~$30,000 | 税前年薪，经验积累后略有提升 |
-| 高级（5年以上） | $28,000~$35,000 | 税前年薪，可能包括主管职责 |
+| Median salary | $22,329 | Median salary (official: CBS employee hourly median €11.3/hr × 1976h annualized, BRC group 1122 Keukenhulpen; P25–P75 €15,808–€31,418, CBS 2024) |
+| Entry level (0–2 years) | $20,000~$25,000 | Pre-tax annual salary, usually at the minimum wage or slightly higher |
+| Intermediate (2-5 years) | $25,000~$30,000 | Annual salary before tax, increases slightly with experience |
+| Senior (5+ years) | $28,000~$35,000 | Annual salary before tax, may include supervisory duties |
+| average salary | $27,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业发展路径有限，通常可晋升为厨师助理或专门岗位（如沙拉准备）。部分人通过职业培训成为正式厨师，但多数岗位缺乏长期晋升阶梯。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce kitchen hand positions, especially repetitive tasks like food preparation and cleaning, but hotels and high-end dining still retain some opportunities due to on-site flexibility needs.
+
+Career progression is limited; typically, one can advance to a chef's assistant or a specialized role (e.g., salad preparation). Some become full-fledged chefs through vocational training, but most positions lack long-term advancement opportunities.
+
+**Tasks most exposed to AI:**
+
+- Food preparation (e.g., chopping, peeling) replaced by automatic vegetable cutting machines
+- Dishwashing and disinfection are done by an automated dishwashing system
+- Kitchen hygiene cleaning performed by robotic sweeping/disinfection equipment
+- Inventory counting and food ordering are automatically handled by AI prediction systems
+- Basic cooking (e.g., boiling noodles, frying chips) performed by automated cooking equipment
+
+**Where AI augments the role:**
+
+- AI recipe recommendation system helps quickly match ingredients and menus
+- Intelligent scheduling systems optimize personnel allocation, improving efficiency
+- Real-time inventory management system reduces waste and aids procurement decisions
+- Digital Training Tools (AR/VR) Accelerating Skill Learning
+
+**Human moat:**
+
+- Flexibility to handle unexpected situations (e.g., last-minute banquet changes)
+- Sensory evaluation of ingredient freshness and quality (smell, touch)
+- Complex manual operations (e.g., fine plating, customized requirements)
+- Efficient communication and collaboration with chef teams
+- Service attitude and friendliness in customer interactions
+
+**Skills to build:**
+
+- Basic Digital Literacy (operating tablet for ordering, inventory systems)
+- Operation and maintenance of multifunctional cooking equipment
+- Basics of food safety and hygiene management
+- Basic English communication skills (adaptable to diverse teams)
+- Team collaboration and stress management
+- Learn to use AI-assisted meal planning and material management tools
+
+**Key growth areas:**
 
 - High turnover
 - Entry-level
@@ -63,65 +98,67 @@ Kitchen helpers assist chefs by preparing ingredients, cleaning utensils, and ma
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU自由流动（EU Freedom of Movement） | 欧盟公民可自由在荷兰工作，无需额外签证 |
-| Subclass 普通工作许可（GVVA）（Regular Work Permit (GVVA)） | 非欧盟公民需雇主担保，且需证明岗位无法由本地或欧盟公民填补 |
+| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
+| Subclass Work Permit (GVVA) (Regular Work Permit (GVVA)) | Non-EU citizens require employer sponsorship and must prove the position cannot be filled by local or EU citizens. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kitchen Helper？**
-- 无特殊技能但寻求快速就业者
-- 学生或兼职工作者
-- 临时过渡性工作的人
+**Who is suited**
+- Those with no special skills but seeking rapid employment.
+- Students or part-time workers.
+- People in temporary transitional jobs
 
-**谁不适合学Kitchen Helper？**
-- 寻求高收入或长期职业发展者
-- 对体力劳动敏感或不耐高压环境者
+**Who is not suited**
+- Those seeking high income or long-term career development
+- Those sensitive to manual labor or intolerant of high-pressure environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a kitchen assistant in the Netherlands?**
+A: Annual pre-tax salary: approximately 20,000-25,000 EUR for junior kitchen assistant, around 25,000-30,000 EUR for mid-level, and about 28,000-35,000 EUR for senior. Salaries are typically paid at the minimum wage rate.
+
+**Q: How can non-EU citizens work as kitchen hands in the Netherlands?**
+A: Non-EU citizens require their employer to apply for a general work permit (GVVA) and prove that the position cannot be filled by local or EU citizens. This role does not qualify as highly skilled migration, so it cannot be accessed via the EU Blue Card or highly skilled migrant pathways.
+
+**Q: What career development opportunities are there for kitchen hands?**
+A: Usually can advance to chef assistant or specialist roles, some becoming full chefs through MBO training. However, overall career progression is limited, with most positions lacking long-term development pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Kitchen Helper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a kitchen helper in the Netherlands?**
-答：Entry-level kitchen helpers earn around €20,000-€25,000 gross annually, mid-level €25,000-€30,000, and senior €28,000-€35,000. Pay is often at or slightly above minimum wage.
-
-**问：How can a non-EU citizen work as a kitchen helper in the Netherlands?**
-答：Non-EU citizens need an employer to apply for a regular work permit (GVVA), proving the job cannot be filled by local or EU workers. This role is not eligible for EU Blue Card or Highly Skilled Migrant schemes.
-
-**问：What career advancement opportunities exist for kitchen helpers?**
-答：Promotion to assistant cook or specialized roles is possible, and some pursue MBO training to become chefs. However, advancement is generally limited with few long-term career ladders.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

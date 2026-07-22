@@ -1,59 +1,91 @@
-# Stonemasons and related trades（Stonemasons and related trades）职业分析 · UK
+# Stonemasons and related trades — career analysis · United Kingdom
 
-**职业代码：5312 – Stonemasons and related trades。**
+**Occupation code: 5312 (SOC)**
 
-Stonemasons erect and repair structures of stone and similar materials, and cut, shape and polish granite, marble, slate and other stone for building, ornamental and other purposes.
+Stone masons construct and restore stone structures, cutting, shaping, and polishing granite, marble, slate, and other stone for building, decoration, and other purposes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（英国学徒制通常免费，雇主资助培训） |
-| 高等国家文凭（HND）或基础学位 | 2年 | $6,000~$9,000（全日制学习，年学费约6000-9000英镑） |
+| Apprenticeship | 3-4 years | $0~$0 (UK apprenticeships are usually free, funded by employers) |
+| Higher National Diploma (HND) or foundation degree | 2 years | $6,000~$9,000 (Full-time study, annual tuition approx. £6,000-9,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ 遗产技能（石匠）三级 | 英国文化遗产技能组织（Historic Environment Scotland 等） | 可选 | 针对历史建筑修复的专项认证 |
-| CSCS 卡 | 建筑业技能认证计划（CSCS） | 必备 | 建筑工地必备的安全认证 |
-| 石匠 NVQ 二级/三级 | 城市与行会（City & Guilds） | 可选 | 基础及高级石匠技能认证 |
+| CSCS card | Construction Skills Certification Scheme (CSCS) | Required | Mandatory safety certification for construction sites |
+| NVQ Heritage Skills (Masonry) Level 3 | UK heritage skills organizations (e.g., Historic Environment Scotland). | Optional | Specialist certification for historic building restoration |
+| Stone Mason NVQ Level 2/3 | City & Guilds | Optional | Basic and advanced stonemasonry skills certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。英国建筑行业持续发展，历史建筑修复和高端住宅项目对石匠需求稳定。受新建项目减少影响，但专业石匠仍短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. UK construction industry continues to develop; restoration of historic buildings and high-end residential projects create stable demand for stonemasons. Despite reduced new builds, skilled stonemasons remain in short supply.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 学徒或新入职 |
-| 中级（3-7年） | $25,000~$35,000 | 经验丰富的石匠 |
-| 高级（7年以上） | $35,000~$50,000 | 工头、专家或自雇 |
+| Median salary | $33,938 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Apprentice or new hire |
+| Mid-level (3–7 years) | $25,000~$35,000 | Experienced stonemason |
+| Senior (7+ years) | $35,000~$50,000 | Foreman, specialist, or self-employed |
+| average salary | $35,061 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从学徒起步，可晋升为高级石匠、工头，或专攻石刻修复、纪念碑制造等领域，也可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
+
+Starting as an apprentice, can advance to senior stonemason, foreman, or specialize in stone carving restoration, monument manufacturing, etc., or start your own business.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for stone cutting and layout design
+- Operating automatic stone cutting machines and CNC engraving machines
+- Material quantity calculation and layout using BIM models
+- Use robots for repetitive stone handling and laying
+
+**Where AI augments the role:**
+
+- Using 3D scanning and digital twins for precise stone structure installation
+- Use AR glasses to overlay design drawings on construction sites, reducing errors
+- Using AI to optimize stone splicing plans, improving aesthetics and strength
+- Conduct drone inspections of large stone structures and remotely monitor maintenance needs.
+
+**Human moat:**
+
+- Artistic judgment for complex stone carving and hand modeling
+- Adaptive skills for integrated on-site stone and structure installation
+- Empirical judgment of stone texture, color, and physical properties
+- Ability to communicate customized design solutions with clients
+
+**Skills to build:**
+
+- CAD/BIM software operation (e.g., AutoCAD, Revit)
+- CNC stone processing equipment programming and operation
+- 3D scanning and digital modeling skills
+- Engineering surveying and precision installation technology
+- Drone operation and image analysis basics
+
+**Key growth areas:**
 
 - Restoration
 - Heritage
@@ -62,68 +94,67 @@ Stonemasons erect and repair structures of stone and similar materials, and cut,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 石匠在技术工人签证职业列表中，需满足薪资门槛（通常£26,200/年或行业标准）并获雇主担保。 |
-| Subclass Scale-up（Scale-up visa） | 适合高增长企业雇佣，但石匠行业较少适用，需雇主满足条件。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许在英国完成学位后工作2年，但需找到担保雇主才能转为技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Stone masons are on the skilled worker visa occupation list; must meet the salary threshold (typically £26,200/year or industry standard) and obtain employer sponsorship. |
+| Subclass Scale-up (Scale-up visa) | Suitable for high-growth companies hiring, but less applicable to the stonemasonry industry—employers must meet conditions. |
+| Subclass Graduate (Graduate visa) | The graduate visa allows working in the UK for 2 years after completing a degree, but a sponsoring employer is needed to switch to a skilled worker visa. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stonemasons and related trades？**
-- 喜欢户外和体力工作的人
-- 注重细节和手工技艺的人
-- 对建筑和修复有兴趣的人
-
-**谁不适合学Stonemasons and related trades？**
-- 不喜欢灰尘和噪音环境的人
-- 偏好办公室工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy outdoor and physical work
+- People with attention to detail and manual skills.
+- People interested in construction and restoration
+
+**Who is not suited**
+- People who dislike dust and noise environments.
+- Those who prefer office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a stonemason in the UK?**
+A: Entry-level stonemason annual salary approximately £18,000-25,000, mid-level £25,000-35,000, senior up to £50,000.
+
+**Q: Can a stonemason immigrate to the UK on a skilled worker visa?**
+A: Yes, stonemasons are on the skilled worker visa list, requiring employer sponsorship and meeting salary requirements.
+
+**Q: What certifications do stonemasons in the UK need?**
+A: Typically requires NVQ Level 3 stonemasonry qualification and CSCS card; restoration work may also require heritage skills certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Stonemasons and related trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for stonemasons in the UK?**
-答：Entry-level stonemasons earn £18,000-£25,000, experienced £25,000-£35,000, and senior up to £50,000.
-
-**问：Can stonemasons immigrate to the UK via the Skilled Worker visa?**
-答：Yes, stonemasons are eligible for the Skilled Worker visa with employer sponsorship and meeting salary thresholds.
-
-**问：What qualifications are required for stonemasons in the UK?**
-答：Commonly NVQ Level 3 in Stonemasonry and a CSCS card; heritage skills certification may be needed for restoration.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

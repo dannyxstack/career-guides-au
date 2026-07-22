@@ -1,65 +1,93 @@
-# 买方代理（Buyer's Agent）职业分析 · 澳大利亚
+# Buyer's Agent — career analysis · Australia
 
-**职业代码：612114 – Buyer's Agent。**
+**Occupation code: 612114 (ANZSCO)**
 
-买方代理(Buyer's Agent/Advocate)代表购房者寻找、评估并议价购入房产，受各州 fair trading 监管并需房地产从业牌照，近年随房产投资热兴起，收入与成交挂钩、上限高，非技术移民职业。
+Buyer's agents/advocates represent homebuyers in finding, evaluating, and negotiating property purchases. They are regulated by each state's fair trading body and require a real estate licence. This role has grown with the property investment boom, with income tied to transactions and high upside; not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 各州房地产从业证书 / 牌照 | 数周~数月 | $1,000~$5,000（强制持牌） |
-| 房产投资 / 估价相关培训（可选） | 持续 | —（加分） |
+| State real estate practice certificate / licence | A few weeks to several months | $1,000~$5,000 (Mandatory licensing) |
+| Property investment / valuation training (optional) | Ongoing | $0~$8,000 (Bonus) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Real Estate Agent / Buyer's Agent Licence | 各州 Fair Trading | 必备 | 强制持牌 |
-| 房地产从业证书 | RTO | 可选 | 入行基础 |
+| Real Estate Agent / Buyer's Agent Licence | Fair Trading (each state) | Required | Mandatory licensing |
+| Real estate certificate | RTO | Optional | Foundation for entering the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。房产投资与议价服务需求上升带动增长，自带客源、擅长议价与数据选房者收入可观但波动大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Demand driven by rising property investment and negotiation services; those with own client base and strong negotiation and data-driven property selection skills have good but volatile income.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 400~900 个 | 全国 |
-| LinkedIn | 500~1,100 个 | 全国 |
-
-**竞争度：中高（★★★★☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-2年） | $75,000~$100,000 | 底薪+少量佣金 |
-| 中级（2-6年） | $120,000~$160,000 | 佣金为主 |
-| 资深 / 自营 | $200,000~$300,000 | 含佣金，波动大 |
+| Median salary | $78,208 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $75,000~$100,000 | Base salary plus commission |
+| Mid-level (2–6 years) | $120,000~$160,000 | Commission-based |
+| Senior / self-employed | $200,000~$300,000 | Includes commission, highly variable |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：助理→买方代理→自营/合伙；客户口碑、成交量与佣金结构决定收入上限。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
+
+Pathway: Assistant → Buyer's Agent → Self-employed / Partnership; client reputation, transaction volume and commission structure determine income ceiling.
+
+**Tasks most exposed to AI:**
+
+- Automatically Analyze Public Property Data, Generate Market Reports and Comparable Sales Analysis
+- Automatically filtering property listings that match client criteria.
+- Basic clerical work, such as contract drafting and document filing
+- Initial customer inquiries and communication via chatbots
+
+**Where AI augments the role:**
+
+- Using AI tools for in-depth data analysis to quickly identify investment opportunities and market trends
+- Using AI to generate personalized property valuation models and investment reports
+- Enhance client communication efficiency and follow-up automation through CRM systems and AI chatbots
+- Virtual property tours and remote assessments to expand service coverage
+
+**Human moat:**
+
+- Build long-term client trust and reputation through relationship-based referral business
+- Complex negotiation strategies and psychological tactics, especially in multi-party bidding or difficult deals
+- On-site property inspection and detail insights (structure, community factors)
+- Experience-based judgment for non-standard properties (such as inherited properties, auction properties)
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python, Tableau, Power BI)
+- AI tool applications (AI-driven valuation models, chatbots)
+- Customer relationship management (CRM systems and automated marketing)
+- Advanced negotiation skills and conflict resolution
+- Legal and compliance knowledge (state conveyancing regulations)
+- Digital marketing and social media customer acquisition skills
+
+**Key growth areas:**
 
 - Buyers Advocacy
 - Property Investment
@@ -68,57 +96,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学买方代理？**
-- 擅长议价、销售与客户关系的人
-- 对房产市场敏感、能承受收入波动者
-
-**谁不适合学买方代理？**
-- 排斥业绩/佣金压力者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in negotiation, sales, and client relations
+- For those sensitive to the property market and able to handle income fluctuations
+
+**Who is not suited**
+- Those who dislike performance/commission pressure
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of a buyer's agent in Australia?**
+A: Approximately AUD $75k~$300k, largely commission-based; senior self-employed can earn high but variable.
+
+**Q: Can a Buyer's Agent migrate via skilled visa?**
+A: No, it is a local licensed sales occupation not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★★☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-买方代理属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：买方代理澳洲收入多少？**
-答：约 AUD $7.5万~$30万，多与成交佣金挂钩，资深自营上限很高但波动大。
-
-**问：买方代理能技术移民吗？**
-答：不能，属于本地持牌销售型职业，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

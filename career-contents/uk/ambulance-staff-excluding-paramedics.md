@@ -1,60 +1,93 @@
-# Ambulance staff (excluding paramedics)（Ambulance staff (excluding paramedics)）职业分析 · UK
+# Ambulance staff (excluding paramedics) — career analysis · United Kingdom
 
-**职业代码：6132 – Ambulance staff (excluding paramedics)。**
+**Occupation code: 6132 (SOC)**
 
-Transport sick, injured and convalescent persons, provide first aid in emergencies, and ensure ambulance vehicles are roadworthy, cleaned and equipped.
+Responsible for transporting patients and convalescents, providing first aid in emergencies, and checking ambulance airworthiness, cleanliness, and equipment readiness.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无直接费用，需完成雇主培训） |
-| 急救资格培训 | 6个月 | $1,000~$2,000（如FREC3证书课程费用） |
-| 学徒制 | 18个月 | —（雇主资助，无学费） |
+| High school graduation | 0 years | $0~$0 (No direct costs; must complete employer training) |
+| First aid qualification training | 6 months. | $1,000~$2,000 (e.g., FREC3 certificate course fee) |
+| Apprenticeship | 18 months | $0~$0 (Employer-sponsored, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书（FREC3） | Qualsafe Awards等 | 必备 | 入门必备 |
-| C1驾驶执照 | DVSA | 必备 | 驾驶救护车所需 |
-| 犯罪记录审查（DBS） | Disclosure and Barring Service | 必备 | 无障碍证明 |
+| First Response Emergency Care Certificate (FREC3) | Qualsafe Awards, etc. | Required | Essential for entry |
+| C1 driver's license | DVSA | Required | Required to drive an ambulance |
+| Criminal record check (DBS) | Disclosure and Barring Service | Required | Accessibility certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 15,700。英国NHS持续投入急救服务，老龄化社会增加非紧急转运需求，岗位稳定增长。
+**Job demand: very high (★★★★½).** National workforce approx. 15,700. UK NHS continues to invest in emergency services; aging society increases non-emergency transport demand, ensuring stable job growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,500~$24,000 | NHS Band 3起薪 |
-| 中级（3-5年） | $24,000~$28,000 | NHS Band 4 |
-| 高级（5年以上） | $28,000~$33,000 | 含管理职责或班次津贴 |
+| Median salary | $33,465 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $21,500~$24,000 | Starting pay at NHS Band 3 |
+| Mid-level (3–5 years) | $24,000~$28,000 | NHS Band 4 |
+| Senior (5+ years) | $28,000~$33,000 | Including management duties or shift allowances |
+| average salary | $35,058 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从救护车助理晋升为高级救护人员或团队领导，部分可进一步进修成为护理人员（paramedic）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI scheduling and automation technology will significantly reduce paramedic positions; emergency response dispatch, vehicle self-checks, and basic triage can be replaced by AI, but on-site complex emergency care still requires human judgment.
+
+Can advance from ambulance assistant to senior ambulance officer or team leader; some can further study to become paramedics.
+
+**Tasks most exposed to AI:**
+
+- Receive emergency calls and automatically triage and dispatch
+- Check ambulance equipment integrity and supply inventory
+- Basic life support instruction (e.g., CPR phone guidance)
+- Generate electronic medical records and transport records
+
+**Where AI augments the role:**
+
+- Real-time traffic conditions and optimal route planning.
+- AI-assisted on-site injury assessment via vehicle diagnostics
+- Remote specialist consultation video streaming
+- Automatically generate incident reports and data statistics
+
+**Human moat:**
+
+- Clinical judgment and decision-making in emergencies
+- Complex trauma scene first aid skills (hemostasis, airway management).
+- Communicate with patients and families to calm emotions
+- Cross-agency coordination and on-site command
+
+**Skills to build:**
+
+- Advanced Trauma Life Support (ATLS)
+- Use of data-driven clinical decision support tools.
+- Drone/Robot-Assisted On-Site First Aid Operations
+- Basic multilingual communication skills
+- Ability to lead a team under pressure
+- Electronic health record system management
+
+**Key growth areas:**
 
 - Healthcare demand
 - NHS expansion
@@ -63,68 +96,67 @@ Transport sick, injured and convalescent persons, provide first aid in emergenci
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker visa） | 适用于NHS及独立医疗雇主担保，较低薪资门槛（£26,200） |
-| Subclass Skilled Worker（Skilled Worker visa） | 若雇主非NHS，但职业在可担保清单上，需满足一般工资要求 |
-| Subclass Graduate（Graduate visa） | 毕业后可在英工作2年，无需担保，积累经验后转换工签 |
+| Subclass Health & Care Worker (Health and Care Worker visa) | Applicable for NHS and independent medical employer sponsorship, lower salary threshold (£26,200) |
+| Subclass Skilled Worker (Skilled Worker visa) | If the employer is not the NHS, but the occupation is on the eligible sponsorship list, general salary requirements must be met. |
+| Subclass Graduate (Graduate visa) | After graduation, can work in the UK for 2 years without sponsorship, gain experience then switch to work visa |
 
-**PR难度：中等偏低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ambulance staff (excluding paramedics)？**
-- 有急救技能且乐于服务他人者
-- 能适应轮班和高压力环境者
-- 希望在NHS体系内稳定就业者
-
-**谁不适合学Ambulance staff (excluding paramedics)？**
-- 无法承受血腥或紧急场景者
-- 不擅长时间管理及多任务者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with first aid skills and a willingness to serve others
+- Suitable for those who can adapt to shift work and high-pressure environments
+- Those seeking stable employment within the NHS system
+
+**Who is not suited**
+- Those who cannot tolerate bloody or emergency scenes
+- Those who are not good at time management and multitasking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for ambulance personnel?**
+A: Entry level: approximately £21,500-£24,000 (NHS Band 3), with experience up to £28,000-£33,000. Night/weekend shifts attract additional allowances.
+
+**Q: What are the migration pathways for this occupation?**
+A: Mainly through the Health and Care Worker visa (NHS sponsorship) or Skilled Worker visa (other employers). NHS sponsorship generally exempts some fees.
+
+**Q: Is a university degree required?**
+A: Not required. Usually only needs a first aid certificate and C1 driver's license; employer provides on-the-job training. Apprenticeship routes also exist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等偏低（★½☆☆☆） |
-
-Ambulance staff (excluding paramedics)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for ambulance staff?**
-答：Entry-level around £21,500-£24,000 (NHS Band 3), experienced up to £28,000-£33,000, plus shift allowances.
-
-**问：What migration paths are available?**
-答：Mainly via Health and Care Worker visa (NHS sponsorship) or Skilled Worker visa. NHS sponsorship may waive certain fees.
-
-**问：Is a university degree required?**
-答：No. Usually only a first aid certificate and C1 driving licence, with on-the-job training. Apprenticeships available.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

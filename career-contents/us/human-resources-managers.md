@@ -1,59 +1,92 @@
-# Human Resources Managers（Human Resources Managers）职业分析 · 美国
+# Human Resources Managers — career analysis · United States
 
-**职业代码：11-3121 – Human Resources Managers。**
+**Occupation code: 11-3121 (SOC)**
 
-Plan, direct, or coordinate human resources activities and staff of an organization. Excludes managers primarily in compensation & benefits or training & development.
+Plans, directs, or coordinates human resources activities and staff of an organisation. Excludes managers focused primarily on remuneration and benefits, or training and development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$160,000（公立大学年均学费约$10,000-$40,000） |
-| 硕士学位 | 2年 | $30,000~$100,000（MBA或HR硕士，总学费约$30,000-$100,000） |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Public university annual tuition approx. $10,000-$40,000) |
+| Master's degree | 2 years | $30,000~$100,000 (MBA or Master's in HR, total tuition about $30,000-$100,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| HR专业人员认证（PHR） | HR认证协会（HRCI） | 可选 | 需2年经验或HR学位 |
-| 高级HR专业人员认证（SPHR） | HR认证协会（HRCI） | 可选 | 需4年以上经验 |
-| SHRM认证（SHRM-CP/SCP） | 人力资源管理协会（SHRM） | 可选 | 行业认可 |
+| Professional in Human Resources (PHR) certification | HR Certification Institute (HRCI) | Optional | Requires 2 years of experience or an HR degree |
+| Senior Professional in Human Resources (SPHR) certification | HR Certification Institute (HRCI) | Optional | Requires 4+ years experience |
+| SHRM certification (SHRM-CP/SCP) | Society for Human Resource Management (SHRM) | Optional | Industry recognised |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。预计2023-2033年就业增长约6%，快于平均水平，受企业持续需求推动。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. Projected 6% employment growth 2023-2033, faster than average, driven by ongoing business demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 副经理或小型企业 |
-| 中级（3-7年） | $80,000~$120,000 | 中型企业经历 |
-| 高级（7年以上） | $120,000~$180,000 | 大型企业或总监级 |
+| Median salary | $149,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $60,000~$80,000 | Deputy manager or small business |
+| Mid-level (3–7 years) | $80,000~$120,000 | Mid-sized company experience |
+| Senior (7+ years) | $120,000~$180,000 | Large enterprises or director level. |
+| average salary | $164,230 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从专员晋升为经理，再到高级总监或HR副总裁；也可转向咨询或专项领域如人才分析。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
+
+Progress from specialist to manager, then to senior director or VP of HR; may switch to consulting or specialized areas like talent analytics.
+
+**Tasks most exposed to AI:**
+
+- Automatically screen large volumes of resumes and pre-schedule interview candidates
+- Automatically generate compensation reports and performance data analysis
+- Handle basic employee inquiries (e.g., leave balances, policy questions)
+- Automate attendance and shift management
+
+**Where AI augments the role:**
+
+- Use AI for talent profile matching and candidate recommendations
+- Use sentiment analysis tools to assist employee satisfaction surveys
+- Use AI to generate personalised training plans and learning paths
+- Predict employee turnover risk based on data analysis and intervene early
+
+**Human moat:**
+
+- Complex Employee Relations Mediation and Conflict Resolution
+- Corporate culture and values building
+- Labor law compliance judgment and risk decisions
+- Strategic talent planning and leadership development
+
+**Skills to build:**
+
+- HR data analysis and visualization (Power BI/Tableau)
+- AI recruitment tools (e.g., HireVue, Pymetrics)
+- Employee experience platform design (e.g., Workday, SAP SuccessFactors)
+- Labour law compliance and risk management
+- Change management and project leadership
+- Digital human resource management knowledge
+
+**Key growth areas:**
 
 - Talent Management
 - HR Analytics
@@ -62,69 +95,68 @@ Plan, direct, or coordinate human resources activities and staff of an organizat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 要求学士学位，常见于跨国公司 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士以上或特殊能力，PERM劳工证 |
-| Subclass L-1（Intracompany Transferee） | 跨国公司内部调动，经理职位 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 雇主担保绿卡常规路径 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, common in multinational companies |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or above or special abilities, PERM labor certification |
+| Subclass L-1 (Intracompany Transferee) | Intra-company transfer in multinational corporations, manager position |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Standard employer-sponsored green card pathway |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Human Resources Managers？**
-- 擅长沟通协调与解决问题的人
-- 对人力资源各模块有浓厚兴趣
-- 有领导力与战略思维
-
-**谁不适合学Human Resources Managers？**
-- 不喜欢与人打交道
-- 无法承受压力或处理冲突
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication, coordination, and problem-solving
+- Strong interest in all HR modules
+- Has leadership and strategic thinking
+
+**Who is not suited**
+- Does not like dealing with people
+- Unable to handle stress or conflict
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Human Resources Manager?**
+A: Median annual salary in the US approx. $130,000; entry-level around $60,000-$80,000; senior up to $180,000
+
+**Q: How can a human resources manager immigrate to the USA?**
+A: Commonly through H-1B work visa, then apply for EB-2/EB-3 green card. Requires bachelor's degree or higher and employer sponsorship.
+
+**Q: What educational background is needed to become an HR manager?**
+A: Usually requires a bachelor's degree in HR, business, or a related field; a master's or certification can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Human Resources Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for HR Managers?**
-答：Median annual wage in US is ~$130,000, entry-level $60,000-$80,000, senior up to $180,000.
-
-**问：How can HR Managers immigrate to the US?**
-答：Commonly via H-1B visa then EB-2/EB-3 green card. Requires bachelor's degree and employer sponsorship.
-
-**问：What education is needed to become an HR Manager?**
-答：Typically a bachelor's in HR, business or related field; master's or certifications boost competitiveness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Fishery and Aquaculture Production Managers（Fishery and Aquaculture Production Managers）职业分析 · ES
+# Fishery and Aquaculture Production Managers — career analysis · Spain
 
-**职业代码：1312 – Fishery and Aquaculture Production Managers。**
+**Occupation code: 1312 (CNO)**
 
-Manage daily production operations in fishing and aquaculture farms, including resource planning, staff scheduling, quality control, and regulatory compliance.
+Responsible for managing the daily production and operations of fishery fishing and aquaculture farms, including resource planning, personnel scheduling, quality control, and compliance management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（FP Grado Superior） | 2年 | $300~$2,000（公立学校费用较低，私立稍高） |
-| 大学本科（Grado） | 4年 | $800~$3,000（多为海洋科学、渔业资源等相关专业） |
-| 硕士（Máster） | 1-2年 | $1,500~$5,000（水产养殖管理或渔业管理方向） |
+| Vocational Training (FP Grado Superior) | 2 years | $300~$2,000 (Public schools have lower fees, while private ones are slightly higher) |
+| Undergraduate (Grado) | 4 years | $800~$3,000 (Most majors include marine science, fishery resources, and related fields) |
+| Máster | 1-2 years | $1,500~$5,000 (Aquaculture management or fisheries management direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado） | 西班牙公立或私立大学 | 必备 | 海洋科学、渔业资源、水产养殖等专业更受青睐 |
-| 船长或养殖场操作证书 | 西班牙海事局或渔业协会 | 可选 | 如从事渔业捕捞需持有相应船舶驾驶证书 |
-| 食品安全与质量管理认证 | ISO或行业机构 | 可选 | 提升竞争力，非强制 |
+| University Degree (Grado) | Public or private universities in Spain | Required | Majors such as marine science, fishery resources, and aquaculture are more favored |
+| Captain or farm operator certificate | Spanish Maritime Authority or Fisheries Association | Optional | If engaged in fishing, a relevant vessel operation certificate is required |
+| Food safety and quality management certification | ISO or industry organizations | Optional | Increases competitiveness, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,500。西班牙是欧洲最大渔业国之一，受可持续捕捞政策与水产养殖扩张驱动，该职业需求稳定。但行业面临资源枯竭与环境法规挑战，需不断提升管理能力。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,500. Spain is one of Europe's largest fishing countries, driven by sustainable fishing policies and the expansion of aquaculture, with stable demand for this profession. However, the industry faces resource depletion and environmental regulatory challenges, requiring continuous improvement in management capabilities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 通常从助理或技术员做起 |
-| 中级（4-7年） | $32,000~$42,000 | 担任生产经理或场长 |
-| 高级（8年以上） | $45,000~$60,000 | 大型企业区域经理或自主经营者 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Usually, they start as assistants or technicians |
+| Mid-level (4-7 years) | $32,000~$42,000 | Serve as production manager or farm manager |
+| Senior (8+ years) | $45,000~$60,000 | Regional managers or self-employed individuals in large enterprises |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从养殖技术员或渔船大副升至生产经理，再晋升至区域运营总监或独立经营养殖场。需积累行业经验并掌握可持续发展技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fisheries and aquaculture production managers face a situation where AI automation and enhancement coexist: tasks like data monitoring and resource planning can be replaced by AI, but on-site decision-making, emergency response, and compliance responsibilities still require humans, resulting in moderate overall risk.
+
+You can advance from aquaculture technician or fishing boat chief mate to production manager, then to regional operations director or independent nutrition farm. It is necessary to accumulate industry experience and master sustainable development technologies.
+
+**Tasks most exposed to AI:**
+
+- Data collection and basic analysis of water quality monitoring and automatic feeding systems
+- Optimization of fishing vessel navigation routes and execution of AI algorithms for fishing ground prediction
+- Production report generation and automated inventory management
+- Automatic control of routine environmental parameters (such as temperature and dissolved oxygen).
+
+**Where AI augments the role:**
+
+- AI prediction models are used to optimize stocking density and feed formulations
+- Using computer vision to monitor fish health and early disease warning
+- Develop long-term resource management strategies through big data analysis
+- Combining IoT and AI to enable remote monitoring and precise operations
+
+**Human moat:**
+
+- Respond to on-site emergency decisions such as sudden diseases and extreme weather
+- Complex communication and compliance responsibilities with regulators, communities, and supply chains
+- Interdisciplinary Integration Skills (Biology, Engineering, Management)
+- Long-term sustainable fisheries strategic planning and ethical judgment
+
+**Skills to build:**
+
+- IoT and sensor data interpretation
+- AI model applications (such as predictive maintenance, growth simulation)
+- Fault diagnosis and maintenance of automation systems
+- Knowledge of environmental regulations and sustainability certifications
+- Data Analysis Tools (Python/R/BI)
+- Remote collaboration and digital management platform operation
+
+**Key growth areas:**
 
 - Aquaculture expansion
 - Sustainable fisheries
@@ -63,68 +96,67 @@ Manage daily production operations in fishing and aquaculture farms, including r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于持有大学学位且工作合同年薪达到门槛（约33,908欧元）的高技能人才。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 由西班牙雇主担保的工作居留，需证明职位难以在当地招聘。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 针对高学历或紧缺职业，简化手续，可快速获得居留。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | This is for highly skilled professionals holding university degrees whose annual salary under a contract meets the threshold (approximately 33,908 euros). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof that the position is difficult to recruit locally. |
+| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or in-demand occupations, simplify procedures and quickly obtain residency. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fishery and Aquaculture Production Managers？**
-- 热爱海洋与户外工作，适应偏远地区
-- 具备组织协调与团队管理能力
-- 对可持续渔业和水产养殖有热情
-
-**谁不适合学Fishery and Aquaculture Production Managers？**
-- 无法忍受海鲜过敏或海上颠簸
-- 偏好城市固定作息者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the ocean and outdoor work, adapting to remote areas
+- Possess organizational coordination and team management skills
+- Passionate about sustainable fisheries and aquaculture
+
+**Who is not suited**
+- Can't stand seafood allergies or the bumps at sea
+- Those who prefer a fixed urban schedule
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for fishery production managers?**
+A: Entry-level is about 24,000-30,000 euros, intermediate is 32,000-42,000 euros, and senior can reach 45,000-60,000 euros. Large companies or self-operated companies have higher incomes.
+
+**Q: How can foreigners immigrate to Spain through this employment?**
+A: Eligible for the EU Blue Card (requires a university degree and a contract meeting the salary threshold) or employer-sponsored work residency. This occupation is in shortage, facilitating quick visa approval.
+
+**Q: Is a university degree required?**
+A: A university degree (Grado) is usually required, but Advanced Vocational Training (FP) combined with extensive experience is also suitable. A master's degree can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Fishery and Aquaculture Production Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fishery production managers?**
-答：Entry-level around €24,000-30,000, mid-level €32,000-42,000, senior €45,000-60,000, with higher earnings in large companies or self-employment.
-
-**问：How can foreigners immigrate to Spain through this occupation?**
-答：Apply for an EU Blue Card (requires a degree and contract salary meeting threshold) or an employer-sponsored work permit. This occupation is in shortage, facilitating visa approval.
-
-**问：Is a university degree required?**
-答：Typically a university degree (Grado) is preferred, but advanced vocational training (FP) with extensive experience may suffice. A master's degree enhances competitiveness.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Dietitians and Nutritionists（Dietitians and Nutritionists）职业分析 · ES
+# Dietitians and Nutritionists — career analysis · Spain
 
-**职业代码：2153 – Dietitians and Nutritionists。**
+**Occupation code: 2153 (CNO)**
 
-Dietitians and nutritionists assess nutritional needs, develop personalized dietary plans, prevent and treat nutrition-related diseases, and provide expert consultation in clinical, community, sports, and food industry settings.
+Nutritionists and dietary experts are responsible for assessing the nutritional status of individuals and groups, developing personalized meal plans, preventing and treating nutrition-related diseases, and providing professional consultation in clinical, community, sports, and food industry fields.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学学费；私立大学高达12000欧元/年） |
-| 硕士研究生（Máster） | 1-2年 | $2,000~$8,000（专业方向如临床营养、公共卫生营养等） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Public university tuition; Private universities can pay up to 12,000 euros per year) |
+| Máster | 1-2 years | $2,000~$8,000 (Specializations include clinical nutrition, public health nutrition, etc) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（Grado en Nutrición Humana y Dietética） | 西班牙大学 | 必备 | 法定最低要求，课程涵盖生物化学、生理学、营养学等 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学位需认证，过程耗时1-2年 |
-| 注册营养师执照（Colegiación） | 自治区的官方营养师协会 | 必备 | 从业必须注册，费用约100-300欧元/年 |
+| University Degree (Grado en Nutrición Humana y Dietética) | Spanish University | Required | Legal minimum requirements, with courses covering biochemistry, physiology, nutrition, and more |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require certification, and the process takes 1-2 years |
+| Registered Nutritionist License (Colegiación) | The official nutritionist association of the autonomous region | Required | Registration is required for practitioners, with fees of about 100-300 euros per year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙对营养师的需求因老龄化、慢性病增多及健康意识提升而稳步增长。公共医疗系统、私人诊所、体育机构和食品企业均需此类人才。未来十年预计就业增长约10%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The demand for nutritionists in Spain has steadily increased due to aging, increasing chronic diseases, and heightened health awareness. Public healthcare systems, private clinics, sports organizations, and food companies all need such talent. Employment is expected to grow by about 10% over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 公共医院或初级保健中心 |
-| 中级（3-8年） | $28,000~$38,000 | 私立诊所或健康管理公司 |
-| 高级（8年以上） | $38,000~$55,000 | 私人执业或食品研发管理 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$28,000 | Public hospitals or primary care centers |
+| Mid-level (3–8 years) | $28,000~$38,000 | Private clinics or health management companies |
+| Senior (8+ years) | $38,000~$55,000 | Private practice or food research and development management |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级营养师可在医院、社区健康中心或私立诊所积累经验；中级可担任临床营养主管或公共卫生项目协调员；高级可成为研究员、大学讲师或开设私人诊所，或转型为食品行业研发顾问。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+Junior dietitians can gain experience in hospitals, community health centers, or private clinics; Intermediate level can serve as clinical nutrition supervisor or public health project coordinator; Senior positions include becoming researchers, university lecturers, opening private clinics, or transitioning to R&D consultants in the food industry.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - Chronic disease prevention
 - Aging population
@@ -64,69 +100,68 @@ Dietitians and nutritionists assess nutritional needs, develop personalized diet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主担保，且学历经认证（Homologación）。属于受规管职业，需注册协会。 |
-| Subclass Altamente cualificad（High-Skilled Professional (Ley 14/2013)） | 适用于年薪超过约40,000欧元的高技能岗位，可加速处理，但同样需学历认证。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6-12个月寻找工作，但需证明学历认证流程已启动。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Must be sponsored by a Spanish employer, and the degree must be certified (Homologación). It is a regulated profession and requires association registration. |
+| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Applicable to high-skilled positions with an annual salary exceeding approximately 40,000 euros, accelerated processing available, but academic qualification assessment is still required. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find a job, but you must prove that the qualification verification process has started. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitians and Nutritionists？**
-- 热爱健康与食品科学的人
-- 具备良好沟通能力者
-- 希望在医疗或健康行业稳定就业者
-
-**谁不适合学Dietitians and Nutritionists？**
-- 对血、体液等临床工作不适应者
-- 不擅长自主学习以跟上最新营养学研究者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about health and food science
+- Possess good communication skills
+- Those seeking stable employment in the medical or health industry
+
+**Who is not suited**
+- Those unsuitable for clinical work involving blood or body fluids
+- Not good at self-directed learning to keep up with the latest nutrition researchers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for nutritionists in Spain?**
+A: New graduate dietitian salary about 20,000-28,000 EUR per year. Mid-level (public hospital or experienced private practice) about 28,000-38,000 EUR. Senior or private practice up to 55,000+ EUR.
+
+**Q: As a non-EU nutritionist, do you need extra steps to work in Spain?**
+A: Yes, first, you need to complete the academic certification (Homologación), then register as a member of the local nutritionist association. Certification usually takes 1-2 years, after which immigration can be made through work visas (employer-sponsored) or highly skilled talent visas.
+
+**Q: Which regions in Spain have the highest demand for nutritionists?**
+A: Demand is concentrated in major cities such as Madrid, Barcelona, and Valencia, but coastal tourist areas and aging rural areas (such as Galicia) are also increasing. Positions in the public healthcare system are highly competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Dietitians and Nutritionists为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dietitians in Spain?**
-答：Entry-level dietitians earn around €20,000-€28,000 per year. Mid-level (public hospitals or experienced private practitioners) earn €28,000-€38,000. Senior positions or private practice can exceed €55,000.
-
-**问：As a non-EU dietitian, are there extra steps to work in Spain?**
-答：Yes, you need to complete degree homologation and then register with the local dietitian association. Homologation takes 1-2 years, after which you can apply for a work permit or a high-skilled visa.
-
-**问：Which regions in Spain have the highest demand for dietitians?**
-答：Major cities like Madrid, Barcelona, and Valencia have high demand, while coastal tourist areas and aging rural regions (e.g., Galicia) also show growth. Public healthcare positions are competitive.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

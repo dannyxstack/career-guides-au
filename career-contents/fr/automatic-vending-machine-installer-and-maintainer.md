@@ -1,61 +1,96 @@
-# Automatic Vending Machine Installer and Maintainer（Automatic Vending Machine Installer and Maintainer）职业分析 · FR
+# Automatic Vending Machine Installer and Maintainer — career analysis · France
 
-**职业代码：I1303 – Automatic Vending Machine Installer and Maintainer。**
+**Occupation code: I1303 (ROME)**
 
-Responsible for installing, commissioning, maintaining and repairing automatic vending machines. Requires mechanical, electrical and electronic skills, as well as customer service orientation.
+Responsible for installation, commissioning, daily maintenance, and fault repair of vending machines to ensure normal operation. It requires mastery of mechanical, electrical, and electronic knowledge, along with a customer service mindset.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP/BEP 机械电气方向 | 2年（CAP） | —（公立学校免费，学徒制带薪） |
-| BTS 工业维护或电子技术 | 2年（BTS） | —（公立学校免费，学徒制带薪） |
+| CAP/BEP Mechanical and Electrical Direction | 2 years (CAP) | $0~$0 (Public schools are free, and apprenticeships are paid) |
+| BTS Industrial Maintenance or Electronics Technology | 2 Years (BTS) | $0~$0 (Public schools are free, and apprenticeships are paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maintenance des matériels | 法国教育部 | 可选 | 设备维护CAP，对口职业 |
-| BTS Maintenance des systèmes | 法国教育部 | 可选 | 系统维护BTS，更高起点 |
-| CACES 认证（若操作升降设备） | CNAM/认证机构 | 可选 | 若涉及叉车等设备，需CACES证书 |
+| CAP Maintenance des matériels | French Ministry of Education | Optional | Equipment maintenance CAP, relevant occupations |
+| BTS Maintenance des systèmes | French Ministry of Education | Optional | System maintenance BTS from a higher starting point |
+| CACES certification (if operating lifting equipment) | CNAM/Accreditation Body | Optional | If forklifts and other equipment are involved, a CACES certificate is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。随着自动售货机在法国校园、车站和办公楼普及，该职业需求稳定。法国就业局数据显示，该岗位每年约招聘数百人，但合格技工供应不足。学徒制是主要入门途径。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. With vending machines becoming widespread in French campuses, stations, and office buildings, demand for this profession has remained stable. According to data from the French Employment Agency, this position recruits about several hundred people annually, but there is a shortage of qualified skilled workers. Apprenticeships are the main entry point.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含学徒期；转正后通常23k起 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，熟练技工，可能含津贴 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，团队负责人或区域维护技师 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, including apprenticeship; After becoming a regular employee, the starting price is usually 23k |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, skilled technicians, possibly including allowances |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, team leader or regional maintenance technician |
+| average salary | $29,730 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：从初级安装维修技工起步，可晋升为高级技工、团队负责人或区域经理。也可转向自助服务设备（如咖啡机、售票机）的维护。部分经验者可创业开设维修公司。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vending machine installers and maintenance workers are affected by AI: AI can optimize fault diagnosis and inventory management, but on-site installation, mechanical repairs, and customer interaction still require human skills, presenting both risks and opportunities.
+
+Career path: Start as a junior installation and maintenance technician, and can be promoted to senior technician, team leader, or regional manager. You can also switch to maintaining self-service devices (such as coffee machines and ticket machines). Some experienced individuals can start a repair company.
+
+**Tasks most exposed to AI:**
+
+- Remote monitoring and automatic alarm systems replace manual inspections
+- AI-driven predictive maintenance reduces routine inspection workload
+- Automatic diagnostic software replaces manual troubleshooting
+- Cashless payment systems reduce the handling of coins/banknotes
+
+**Where AI augments the role:**
+
+- AI-assisted rapid fault diagnosis (e.g., through database comparison)
+- Machine learning optimizes maintenance routes and spare parts inventory management
+- AR remote guidance for complex repairs, improving one-time repair rates
+- Data analysis predicts equipment failures to assist in developing maintenance plans
+- The customer self-service repair AI chatbot reduces the communication burden
+
+**Human moat:**
+
+- On-site installation and commissioning (involving physical space adaptation)
+- Manual repair of complex mechanical and electrical faults
+- Communication with owners/property management and maintaining customer relationships
+- Emergency response and ad hoc decision-making capabilities
+- Manual maintenance of outdated equipment models
+
+**Skills to build:**
+
+- Learn basic IoT and remote monitoring system operations
+- Master AI diagnostic tools and data analysis fundamentals
+- Strengthen electrical and electronic maintenance capabilities (such as circuit board level)
+- Learn how to troubleshoot mobile payment and networking systems
+- Improve customer service and communication skills
+- Obtain safety certifications (such as electrical safety, working at heights)
+
+**Key growth areas:**
 
 - vending machine
 - self-service equipment
@@ -64,65 +99,67 @@ Responsible for installing, commissioning, maintaining and repairing automatic v
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国公司工作合同，并申请工作许可（Autorisation de Travail），对非欧盟居民门槛较高 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 如具备高技能或企业内调动，可申请，但该职业通常不符合紧缺人才标准 |
+| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract with a French company and apply for a work permit (Autorisation de Travail), which has a relatively high threshold for non-EU residents |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you have high skills or are transferred within the company, you may apply, but this occupation usually does not meet the criteria for urgently needed talent |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Automatic Vending Machine Installer and Maintainer？**
-- 喜欢动手操作、维修机械和电子设备的人
-- 愿意接受学徒培训、注重实践技能的人
-- 能接受一定户外工作和出差的人
+**Who is suited**
+- People who enjoy hands-on operations and repairing mechanical and electronic devices
+- Those willing to undergo apprenticeship training and who value practical skills
+- Someone who can accept some outdoor work and business trips
 
-**谁不适合学Automatic Vending Machine Installer and Maintainer？**
-- 希望高薪且快速晋升的人
-- 不擅长处理细微电子故障的人
+**Who is not suited**
+- People seeking high pay and fast promotion
+- People who are not good at handling minor electronic faults
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for vending machine installers and maintenance workers in France?**
+A: Entry-level annual salary approx. €22k–€26k (pre-tax), mid-level approx. €26k–€32k, senior up to €38k. Income may vary slightly by region and company size.
+
+**Q: As a non-EU resident, can I become a vending machine installer and maintenance worker in France through skilled migration?**
+A: The difficulty is quite high. This profession is not included in France's métiers en tension list and cannot benefit from simplified processes. Usually, you need to first obtain a work contract (Contrat de travail) from a French company, then apply for a work permit (Salarié) or a talent passport (Passeport Talent), but the success rate is relatively low.
+
+**Q: What education is required to become a vending machine installer and maintenance worker in France?**
+A: The most common paths are CAP (2 years) or BTS (2 years) related majors, such as equipment maintenance or system maintenance. Apprentissage is a recommended pathway that allows paid learning and experience accumulation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Automatic Vending Machine Installer and Maintainer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for automatic vending machine installers and maintainers in France?**
-答：Entry-level annual salary is around €22k-€26k (gross), mid-level €26k-€32k, and senior up to €38k. Income varies by region and company size.
-
-**问：As a non-EU resident, can I immigrate to France as an automatic vending machine installer and maintainer?**
-答：It is difficult. This occupation is not on the shortage list (métiers en tension), so no simplified process. You generally need a job contract from a French company and apply for a work permit (Salarié) or Talent Passport, but success rates are low.
-
-**问：What education is required to become an automatic vending machine installer and maintainer in France?**
-答：The most common paths are a CAP (2 years) or BTS (2 years) in equipment maintenance or system maintenance. Apprenticeship is recommended, offering paid on-the-job training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

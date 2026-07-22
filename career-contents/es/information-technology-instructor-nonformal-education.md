@@ -1,60 +1,96 @@
-# Information Technology Instructor (Non-Formal Education)（Information Technology Instructor (Non-Formal Education)）职业分析 · ES
+# Information Technology Instructor (Non-Formal Education) — career analysis · Spain
 
-**职业代码：2325 – Information Technology Instructor (Non-Formal Education)。**
+**Occupation code: 2325 (CNO)**
 
-Teaches information technology courses in non-formal settings such as training centers, corporate training, and online platforms, covering programming, networking, databases, etc., without awarding official degrees.
+Teaching information technology courses in informal educational institutions (such as training centers, corporate in-house training, online platforms), covering fields such as programming, networking, and databases, does not award official degrees.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位（Grado） | 4年 | $1,000~$2,000（公立大学每年学费约1000-2000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立职业教育中心几乎免费，仅少量注册费） |
-| 硕士学位（Máster） | 1-2年 | $1,500~$4,000（公立大学硕士学费约1500-4000欧元/年） |
+| Bachelor's Degree (Grado) | 4 years | $1,000~$2,000 (The annual tuition fee for public universities is about 1,000–2,000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$500 (Public vocational education centers are almost free, with only a small registration fee) |
+| Master's Degree (Máster) | 1-2 years | $1,500~$4,000 (The tuition for a master's degree at a public university is about 1500-4000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 信息技术教学能力证书 | 西班牙教育与职业培训部 | 可选 | 非强制，但有助于求职 |
-| 行业认证（如CompTIA、Cisco、Microsoft） | 各认证机构 | 可选 | 提升专业认可度，非强制 |
-| 相关专业大学学位 | 西班牙大学 | 必备 | 通常要求计算机科学或相关领域学位 |
+| Relevant major university degree | Spanish University | Required | A degree in computer science or a related field is usually required |
+| Information Technology Teaching Competency Certificate | Spanish Ministry of Education and Vocational Training | Optional | Not mandatory, but helpful for job hunting |
+| Industry certifications (such as CompTIA, Cisco, Microsoft) | Each certifying body | Optional | Enhancing professional recognition, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙数字化转型推动IT培训需求持续增长，尤其在编程、网络安全和云计算领域。但该职业受经济周期影响，企业培训预算可能缩减。预计未来5年就业人数稳步上升。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Spain's digital transformation is driving continuous growth in IT training demand, especially in programming, cybersecurity, and cloud computing. However, this profession is affected by economic cycles, and corporate training budgets may shrink. Employment is expected to steadily increase over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$28,000 | 税前年薪，取决于机构类型（企业培训机构高于公立培训中心） |
-| 中级（3-7年） | $28,000~$38,000 | 税前年薪，可兼任课程协调员 |
-| 高级（7年以上） | $38,000~$50,000 | 税前年薪，通常为培训主管或专家讲师 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $21,000~$28,000 | Pre-tax annual salary, depending on the type of institution (corporate training institutions are higher than public training centers). |
+| Mid-level (3–7 years) | $28,000~$38,000 | Pre-tax annual salary, may also serve as course coordinator |
+| Senior (7+ years) | $38,000~$50,000 | Pre-tax annual salary, usually for training supervisors or expert lecturers |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★½☆）。** 职业发展路径：初级讲师 → 高级讲师 → 课程主管/培训经理，或转向教育科技产品开发、咨询等。具备行业认证（如Cisco、Microsoft）可提升竞争力。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will replace basic programming teaching and document generation tasks, but also enhance instructional design and interaction capabilities; Entry-level positions face increased competition due to abundant online resources, but demand for advanced training is rising.
+
+Career development paths: Junior Lecturer → Senior Lecturer → Course Supervisor/Training Manager, or transition to edTech product development, consulting, etc. Having industry certifications (such as Cisco and Microsoft) can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Write and explain standard code examples
+- Generate teaching documents and exercise answers
+- Correction and feedback on basic programming assignments
+- Repetitive technical Q&A (such as grammar errors)
+- Record basic teaching videos
+
+**Where AI augments the role:**
+
+- Generate personalized learning paths and case studies with AI
+- Using AI to simulate complex fault scenarios for practical drills
+- AI-assisted course design enables rapid content iteration
+- Real-time translation and multilingual teaching support
+- Use AI to analyze learners' learning behaviors to optimize teaching
+
+**Human moat:**
+
+- The ability to design systematic course architectures
+- Guidance for unstructured issues (such as debugging thinking).
+- Build a trusting and learning community among teachers and students
+- Assess the accuracy of teaching content and ethical compliance
+- Adapting to learning styles from different cultural backgrounds
+
+**Skills to build:**
+
+- AI tool integration (such as ChatGPT, Copilot)
+- Curriculum Design and Learning Experience Design (LXD)
+- Data Analysis (Student Performance and Course Effectiveness)
+- Cross-disciplinary knowledge (such as AI + industry applications)
+- Communication and Presentation Skills (Online and Offline)
+- The ability to quickly learn new AI tools
+
+**Key growth areas:**
 
 - digital transformation
 - online learning
@@ -63,68 +99,67 @@ Teaches information technology courses in non-formal settings such as training c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tajeta azul UE（EU Blue Card） | 针对高技能专业人才，要求大学学历和至少当地平均工资1.5倍的合同。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用Ley 14/2013，针对高学历技术人才，需工作合同和学历认证。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 标准工作居留，需公司担保，适用于有雇佣合同的外国人。 |
+| Subclass Tajeta azul UE (EU Blue Card) | For highly skilled professionals, a university degree and a contract with at least 1.5 times the local average salary are required. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Applies under Law 14/2013 for highly educated technical talent, requiring a work contract and degree certification. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Standard work residence requires company sponsorship, applicable to foreigners with employment contracts. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information Technology Instructor (Non-Formal Education)？**
-- 喜欢教学和分享技术知识的人
-- 有实际IT工作经验并希望转行教育者
-- 具有耐心和沟通能力，适应非正规学习环境
-
-**谁不适合学Information Technology Instructor (Non-Formal Education)？**
-- 只希望从事纯技术开发而不愿与人打交道
-- 无法接受非正规教育的灵活性和不稳定性
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy teaching and sharing technical knowledge
+- Those with practical IT work experience who wish to switch careers to education
+- Patient and communication skills, able to adapt to informal learning environments
+
+**Who is not suited**
+- They only want to engage in pure technical development and are unwilling to interact with others
+- Cannot accept the flexibility and instability of non-formal education.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for IT instructors in Spain?**
+A: Junior approx. EUR 21,000-28,000, mid-level EUR 28,000-38,000, senior EUR 38,000-50,000 gross annual salary. Corporate training institutions typically pay more than public training centres.
+
+**Q: Can foreigners immigrate to Spain through IT instructor positions?**
+A: Yes, you can. After meeting the requirements for education and work contract, you can apply for the EU Blue Card or the Highly Skilled Professional Visa (Ley 14/2013). However, this occupation is not in short supply and requires employer sponsorship.
+
+**Q: What are the promotion paths for IT instructors?**
+A: You can be promoted from junior lecturer to senior lecturer, then become a training supervisor or course development manager. You can also turn to educational technology consultants or start your own training institution.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 较高（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information Technology Instructor (Non-Formal Education)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for IT instructors in Spain?**
-答：Entry-level: €21,000-€28,000; mid-level: €28,000-€38,000; senior: €38,000-€50,000 gross per year. Corporate training institutions typically pay more than public training centers.
-
-**问：Can foreigners immigrate to Spain as IT instructors?**
-答：Yes. With a degree and a work contract, you can apply for an EU Blue Card or Highly Qualified Professional visa (Law 14/2013). However, the occupation is not listed as a shortage occupation, so employer sponsorship is required.
-
-**问：What are the career progression paths for IT instructors?**
-答：You can progress from junior to senior instructor, then to training manager or curriculum development manager. Alternatively, you can move into edtech consulting or start your own training company.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

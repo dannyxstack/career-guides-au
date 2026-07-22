@@ -1,58 +1,90 @@
-# Cleaning and Housekeeping Supervisor（Cleaning and Housekeeping Supervisor）职业分析 · NL
+# Cleaning and Housekeeping Supervisor — career analysis · Netherlands
 
-**职业代码：5151 – Cleaning and Housekeeping Supervisor。**
+**Occupation code: 5151 (ISCO08)**
 
-Oversees cleaning staff in hotels, offices, and other establishments, ensuring hygiene standards, scheduling, and inventory management.
+Responsible for supervising cleaning teams in hotels, offices, and other venues, ensuring hygiene standards are met, managing schedules and supplies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2年 | $5,000~$10,000（MBO级别，学费含注册费） |
-| 在职培训 | 6个月 | $2,000~$5,000（公司内部培训或短期课程） |
+| Secondary vocational education | 2 years | $5,000~$10,000 (MBO level, tuition fee includes registration fee) |
+| On-the-job training | 6 months. | $2,000~$5,000 (In-house training or short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 清洁与家政管理证书 | Nederlandse Vereniging voor Schoonmaakonderhoud (NVS) | 可选 | 行业认可，提升竞争力 |
-| 急救证书 | Oranje Kruis | 可选 | 部分雇主要求 |
+| Certificate in Cleaning and Housekeeping Management | Nederlandse Vereniging voor Schoonmaakonderhoud (NVS) | Optional | Industry recognition, enhancing competitiveness |
+| First aid certificate | Oranje Kruis | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰旅游业稳定发展，酒店和商业清洁需求持续，但自动化影响有限，就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Dutch tourism industry is stable, with consistent demand for hotel and commercial cleaning, but automation has limited impact, resulting in stable employment prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，含假期津贴 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，管理大型团队 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, including holiday allowance |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $38,000~$45,000 | Annual salary before tax, managing large teams |
+| average salary | $34,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从清洁工晋升为主管，再至区域经理或设施管理岗位，需积累管理经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of cleaning and housekeeping supervisors will undergo profound transformation: AI and automation tools will take over scheduling, inventory management, and some quality inspections, but on-site personnel coordination, handling of unexpected issues, and maintaining customer satisfaction still rely on humans; overall, it's a mixed blessing.
+
+You can advance from cleaner to supervisor, then to regional manager or facility management roles, gaining management experience along the way.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and materials management: AI-optimized scheduling and automated inventory systems replace manual operations
+- Standard cleaning process supervision: robot patrols and sensor monitoring replace manual spot checks
+- Performance report generation: AI automatically collates cleaning data and generates chart reports
+- Routine customer feedback handling: chatbots process most common complaints
+
+**Where AI augments the role:**
+
+- Intelligent scheduling and resource planning: AI tools assist in assigning cleaning tasks and forecasting material needs
+- Fine quality control: AI image recognition system helps detect subtle cleaning blind spots
+- Personnel training and assessment: AI generates personalized training content and simulates assessment scenarios
+- Customer communication and feedback analysis: AI tools analyze customer reviews to optimize service processes
+
+**Human moat:**
+
+- Emergency incident command (e.g. chemical spills, sudden contamination)
+- Manage diverse teams: coordinate cleaning staff from different cultural backgrounds and age groups.
+- Customer relationship maintenance and personalised service: handling VIP client special needs
+- Innovative cleaning solution design: customized workflows for new materials or complex spaces
+
+**Skills to build:**
+
+- Cleaning robot operation and maintenance
+- Smart property management system (e.g. Facility Management software)
+- Basic data analysis skills (e.g., Excel/Tableau)
+- AI-assisted communication tools (e.g., ChatGPT for business)
+- Team digital transformation guidance ability
+
+**Key growth areas:**
 
 - Hospitality
 - Commercial cleaning
@@ -61,68 +93,67 @@ Oversees cleaning staff in hotels, offices, and other establishments, ensuring h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于年薪达标的高技能移民，雇主需为认可担保人 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高薪专业人才，需大学学历和至少1年合同 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业或全球前200大学毕业生可申请，1年找工作期 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skill migrants meeting salary thresholds; employer must be an approved sponsor |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-paid professionals, requires university degree and at least 1-year contract |
+| Subclass Orientation Year (Orientation Year) | Graduates from Dutch or global top 200 universities can apply, with a 1-year job search period |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cleaning and Housekeeping Supervisor？**
-- 注重细节，有责任心，喜欢整洁环境
-- 具备基本管理能力和沟通技巧
-- 能适应轮班工作，包括周末
-
-**谁不适合学Cleaning and Housekeeping Supervisor？**
-- 不喜体力劳动或重复性工作
-- 缺乏耐心和团队协调能力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, responsible, and prefers a tidy environment
+- Basic management and communication skills
+- Able to work shifts, including weekends
+
+**Who is not suited**
+- Dislikes physical labor or repetitive work
+- Lack of patience and team coordination abilities
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a cleaning supervisor in the Netherlands?**
+A: Entry-level: approximately 25,000–30,000 EUR, mid-level: 30,000–38,000 EUR, senior: 38,000–45,000 EUR (annual pre-tax salary).
+
+**Q: What Dutch visas can be applied for this occupation?**
+A: May apply for the Highly Skilled Migrant visa (kennismigrant) or EU Blue Card, requiring employer sponsorship and meeting salary thresholds.
+
+**Q: What qualifications or certificates are required?**
+A: Usually requires MBO education in cleaning management or on-the-job training; first aid certificate is a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cleaning and Housekeeping Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cleaning supervisor in the Netherlands?**
-答：Entry-level around €25,000-€30,000, mid-level €30,000-€38,000, senior €38,000-€45,000 gross annually.
-
-**问：Which visas are available for this occupation in the Netherlands?**
-答：Highly Skilled Migrant (kennismigrant) or EU Blue Card, requiring employer sponsorship and salary threshold.
-
-**问：What qualifications or certificates are needed?**
-答：Usually MBO-level cleaning management education or on-the-job training; first aid certificate is a plus.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

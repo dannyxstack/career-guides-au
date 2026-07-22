@@ -1,61 +1,97 @@
-# Locksmith（Locksmith）职业分析 · 澳大利亚
+# Locksmith — career analysis · Australia
 
-**职业代码：323313 – Locksmith。**
+**Occupation code: 323313 (ANZSCO)**
 
-Locksmiths install, repair, and replace locks and security systems, including mechanical, electronic, and safe locks, providing residential, commercial, and automotive security solutions.
+Locksmiths install, repair, and replace various locks and security systems, including mechanical locks, electronic locks, and safes, providing home, commercial, and automotive security solutions.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 4年 | —（学徒期间有工资，培训费低） |
-| 三级证书 (Certificate III in Locksmithing) | 2年（全日制） | $10,000~$20,000（包括学费和材料费） |
+| Apprenticeship | 4 years | $0~$5,000 (Paid during apprenticeship, low training costs) |
+| Certificate III in Locksmithing | 2 years (full-time) | $10,000~$20,000 (Includes tuition and material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 三级锁匠证书 (Certificate III in Locksmithing) | TAFE或注册培训机构 | 可选 | 行业标准资格，包含实习 |
-| 锁匠执照 (Locksmith Licence) | 各州警察或公平交易部门 | 必备 | 各州要求不同，通常需背景审查 |
-| 技能评估 (TRA Job Ready Program) | Trades Recognition Australia | 可选 | 移民用，评估实际技能 |
+| Locksmith Licence | State police or fair trading departments | Required | Requirements vary by state, usually requiring background checks |
+| Certificate III in Locksmithing | TAFE or registered training organizations | Optional | Industry standard qualification, including internship |
+| Skills assessment (TRA Job Ready Program) | Trades Recognition Australia | Optional | For immigration purposes, assessing practical skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。澳洲锁匠需求稳定，受建筑业和房产市场驱动。随着智能锁普及，技能升级带来新机会。JSA 预计未来五年就业增长平稳，年均约500个职位空缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Demand for locksmiths in Australia is stable, driven by the construction and real estate sectors. With the spread of smart locks, skill upgrades bring new opportunities. JSA expects steady employment growth over the next five years, with about 500 job openings annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒或新入职 |
-| 中级（3-8年） | $60,000~$85,000 | 有经验的锁匠 |
-| 高级（8年以上） | $85,000~$110,000 | 资深或自主经营者 |
+| Median salary | $79,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$60,000 | Apprentice or new hire |
+| Mid-level (3–8 years) | $60,000~$85,000 | Experienced locksmith |
+| Senior (8+ years) | $85,000~$110,000 | Senior or self-employed person |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初期从学徒做起，积累经验后可晋升为高级锁匠或团队主管。部分锁匠开设独立店铺或专攻汽车/保险柜等高利润领域，也可向安全系统顾问发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Entry demand for locksmiths and safe repairers has been compressed by automation: with the prevalence of smart locks and electronic security systems, traditional mechanical lock repair has declined, simple key cutting and lock opening tasks are replaced by automated machines, reducing positions but maintaining demand for advanced skills.
+
+Start as apprentice, gain experience to advance to senior locksmith or team leader. Some locksmiths open independent shops or specialize in high-profit areas like automotive/safes, or transition to security system consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatic key cutting machines replace manual key cutting
+- Smart lock electronic password reset done by users themselves
+- Safe combination changes are performed remotely via software
+- Simple lock-picking services replaced by 24-hour automatic lock-picking machines
+- Routine lock replacement where users install smart locks themselves
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of mechanical faults in complex locks and safes
+- Use electronic testing tools to quickly identify internal wear in lock cylinders.
+- Optimize security design solutions by integrating access control system data
+- Receive remote expert maintenance guidance through AR glasses
+- Use databases to quickly look up specific lock specifications and historical solutions
+
+**Human moat:**
+
+- Fine craftsmanship in hand engraving or restoring antique locks
+- Emergency lock opening in high-security environments (e.g., bank vaults)
+- Client trust and on-site service reputation
+- Design customized high-security safety systems
+- Physical skills for handling non-standard, old-fashioned mechanical locks.
+
+**Skills to build:**
+
+- Electronic lock programming and network configuration
+- Biometric system installation and commissioning
+- Security system integration and IoT knowledge
+- Fault diagnosis and data analysis basics
+- Client communication and emergency response skills
+- Habit of continuously learning new lock technologies
+
+**Key growth areas:**
 
 - Smart lock
 - Security system
@@ -64,70 +100,69 @@ Locksmiths install, repair, and replace locks and security systems, including me
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 雇主担保临时签证，需有雇主并满足技能要求 |
-| Subclass 186（Employer Nomination Scheme visa） | 雇主担保永居签证，需通过186 TRT或DE类别 |
-| Subclass 491（Skilled Work Regional visa） | 偏远地区州担保临时签证，可转191永居 |
-| Subclass 494（Skilled Employer Sponsored Regional visa） | 偏远地区雇主担保临时签证，可转191永居 |
+| Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored temporary visa, requires an employer and meeting skill requirements |
+| Subclass 186 (Employer Nomination Scheme visa) | Employer-sponsored permanent residence visa, requires 186 TRT or DE category. |
+| Subclass 491 (Skilled Work Regional visa) | Regional provisional visa with state nomination, can transition to 191 permanent residency |
+| Subclass 494 (Skilled Employer Sponsored Regional visa) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Locksmith？**
-- 注重细节、动手能力强，喜欢独立工作
-- 有耐心和客户服务意识
-- 愿意不断学习新技术（如智能锁）
-
-**谁不适合学Locksmith？**
-- 不愿从事重复性手工工作者
-- 对安全法规和合规要求缺乏耐心者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on, enjoys independent work
+- Patient and customer service oriented
+- Willing to continuously learn new technologies (e.g., smart locks)
+
+**Who is not suited**
+- Those unwilling to perform repetitive manual work.
+- Those who lack patience with safety regulations and compliance requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a locksmith?**
+A: Junior locksmith annual salary about AUD 45,000-60,000, mid-level AUD 60,000-85,000, senior up to AUD 85,000-110,000. Self-employed earn more but with fluctuations.
+
+**Q: Can a locksmith immigrate to Australia through skilled migration?**
+A: Locksmith is on the CSOL list but opportunities are limited. Main pathways are employer sponsorship (482/186) or regional sponsorship (491/494), requiring TRA skills assessment.
+
+**Q: Is there a career advancement path for locksmiths?**
+A: Can advance to senior locksmith, security system specialist, or open your own shop. Also possible to specialize in safes, automotive locks, or electronic security systems.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Locksmith为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for locksmiths?**
-答：Entry-level locksmiths earn A$45k-60k, experienced A$60k-85k, and senior/specialized A$85k-110k. Self-employed can earn more but with variability.
-
-**问：Can locksmiths migrate to Australia via skilled visa?**
-答：Yes, locksmith is on CSOL but limited. Main pathways include employer sponsorship (482/186) and regional visas (491/494), requiring TRA skills assessment.
-
-**问：What are the career progression opportunities for locksmiths?**
-答：Progression to senior locksmith, security specialist, or business owner. Specialization in safes, automotive locks, or electronic security systems is common.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

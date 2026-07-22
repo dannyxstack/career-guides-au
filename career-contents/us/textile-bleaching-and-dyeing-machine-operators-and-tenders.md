@@ -1,56 +1,88 @@
-# Textile Bleaching and Dyeing Machine Operators and Tenders（Textile Bleaching and Dyeing Machine Operators and Tenders）职业分析 · 美国
+# Textile Bleaching and Dyeing Machine Operators and Tenders — career analysis · United States
 
-**职业代码：51-6061 – Textile Bleaching and Dyeing Machine Operators and Tenders。**
+**Occupation code: 51-6061 (SOC)**
 
-Operate or tend machines to bleach, shrink, wash, dye, or finish textiles or synthetic or glass fibers.
+Operate or tend machines to bleach, shrink, wash, dye, or finish textiles or synthetic fibers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无需正式教育 | —（通常只需在职培训） |
+| High school diploma or equivalent | No formal education required | $0~$0 (Typically requires only on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-（暂无从业资质数据）
+(no data)
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 7,320。美国纺织制造业持续萎缩，该职业就业前景预计下降，自动化替代风险高。
+**Job demand: low (★½☆☆☆).** National workforce approx. 7,320. The US textile manufacturing industry continues to shrink; employment outlook for this occupation is expected to decline, with high risk of automation substitution.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$31,000 | 入门级薪资 |
-| 中级（3-10年） | $31,000~$38,000 | 有经验者 |
-| 高级（10年以上） | $38,000~$44,000 | 最高薪资水平 |
+| Median salary | $38,180 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $26,000~$31,000 | Entry-level salary |
+| Intermediate (3-10 years) | $31,000~$38,000 | Experienced individuals |
+| Senior (10+ years) | $38,000~$44,000 | Highest salary level |
+| average salary | $40,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 可从操作员晋升为领班或技术员，但行业规模缩小，晋升机会有限。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile bleaching and dyeing machine operator work is highly repetitive and easily automated; AI and robots will significantly reduce demand, but machine maintenance and exception handling still require human intervention.
+
+Can advance from operator to supervisor or technician, but the industry is shrinking, limiting promotion opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automatically add dyes and chemicals according to color formula
+- Automated control monitoring dyeing process temperature and time
+- Automatically detect dye quality defects using computer vision
+- Automatically adjust machine parameters for consistent color output
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical data and optimize dyeing formulas, reducing trial and error costs
+- Predict equipment failures through sensors and IoT to achieve predictive maintenance.
+- Use digital twins to simulate the impact of different process parameters on product quality
+- Use augmented reality (AR) to guide operators in complex equipment repairs
+
+**Human moat:**
+
+- Intuition and experience in handling abnormal dyeing issues (e.g., color differences, uneven dyeing)
+- Deep understanding of textile material properties (fiber, dye interactions)
+- Ability to quickly perform manual intervention and repairs during equipment failures
+- Teamwork coordinating with production, warehouse, quality inspection and other departments
+
+**Skills to build:**
+
+- Programmable logic controller (PLC) programming and debugging
+- Industrial robot operation and maintenance
+- Data analysis and statistical process control (SPC)
+- Digital manufacturing tools (e.g., using MES systems)
+- Colour science and computer colour matching systems
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -59,61 +91,63 @@ Operate or tend machines to bleach, shrink, wash, dye, or finish textiles or syn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 该职业通常不符合专业职业要求，难以获得H-1B签证。仅适用于少数管理或技术岗位。 |
-| Subclass EB-3（EB-3 Skilled/Unskilled） | 可能通过EB-3非技术移民，但雇主赞助困难且排期漫长。 |
+| Subclass H-1B (H-1B Specialty Occupation) | This occupation typically does not meet the requirements for a professional occupation, making it difficult to obtain an H-1B visa. Only applicable to a few management or technical roles. |
+| Subclass EB-3 (EB-3 Skilled/Unskilled) | Possibly through EB-3 unskilled immigration, but employer sponsorship is difficult and the queue is long. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Bleaching and Dyeing Machine Operators and Tenders？**
-- 愿意从事重复性体力工作的人
-- 接受低薪资、低晋升空间的人
+**Who is suited**
+- People willing to engage in repetitive physical work.
+- People who accept low salary and limited promotion opportunities
 
-**谁不适合学Textile Bleaching and Dyeing Machine Operators and Tenders？**
-- 希望高收入或职业发展的人
-- 寻求技术移民美国的人
+**Who is not suited**
+- Those seeking high income or career development.
+- Individuals seeking skilled migration to the United States
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the median annual salary for this occupation?**
+A: According to US BLS data, 2022 median annual salary ~$33,560.
+
+**Q: Can this occupation immigrate to the US via an H-1B visa?**
+A: Usually not possible because this occupation does not require a bachelor's degree, not meeting H-1B specialty occupation requirements. Only a very few management or technical roles might qualify.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 1-3个月（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 很难（★★★★½） |
-
-Textile Bleaching and Dyeing Machine Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the median annual wage for this occupation?**
-答：According to BLS data, the median annual wage was approximately $33,560 in 2022.
-
-**问：Can this occupation immigrate to the US via H-1B?**
-答：Generally no, because the occupation does not require a bachelor's degree, failing H-1B specialty occupation criteria. Only rare managerial or technical roles may qualify.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

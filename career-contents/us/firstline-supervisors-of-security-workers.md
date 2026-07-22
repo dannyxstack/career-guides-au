@@ -1,60 +1,92 @@
-# First-Line Supervisors of Security Workers（First-Line Supervisors of Security Workers）职业分析 · 美国
+# First-Line Supervisors of Security Workers — career analysis · United States
 
-**职业代码：33-1091 – First-Line Supervisors of Security Workers。**
+**Occupation code: 33-1091 (SOC)**
 
-Directly supervise and coordinate activities of security workers and security guards to ensure site safety.
+Directly supervise and coordinate the activities of security personnel and guards to ensure site safety.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（免费公立教育） |
-| 安保证书课程 | 6个月 | $500~$2,000（社区学院或培训机构） |
+| High school diploma | 4 years | $0~$0 (Free public education) |
+| Security guard certificate course | 6 months. | $500~$2,000 (Community college or training institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保安执照 | 州政府 | 必备 | 多数州要求 |
-| CPR/急救认证 | 美国红十字会 | 必备 | 常见要求 |
+| Security license | State government | Required | Required in most states |
+| CPR/First aid certification | American Red Cross | Required | Common requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。随着安全需求增加（如企业、公共场所），该职业就业预计增长5%-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. With increasing security needs (e.g., businesses, public places), employment in this occupation is projected to grow 5%-10%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 小公司或非核心岗位 |
-| 中级（3-7年） | $45,000~$60,000 | 中型企业或政府合同 |
-| 高级（7年以上） | $60,000~$80,000 | 大型企业或高风险环境 |
+| Median salary | $55,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Small companies or non-core positions |
+| Mid-level (3–7 years) | $45,000~$60,000 | Medium-sized enterprises or government contracts |
+| Senior (7+ years) | $60,000~$80,000 | Large enterprises or high-risk environments |
+| average salary | $59,900 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从保安晋升为主管，再升至安保经理或安全总监。需积累管理经验和认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
+
+Can advance from security guard to supervisor, then to security manager or director. Requires management experience and certifications.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
 
 - Security
 - Surveillance
@@ -63,62 +95,64 @@ Directly supervise and coordinate activities of security workers and security gu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学士学位，但该职业不典型 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国企业内部调动，适用于管理层 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree, but this occupation is atypical |
+| Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational corporations, applicable to management. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Security Workers？**
-- 有领导和组织能力的人
-- 注重安全与细节的人
-- 能在压力环境下工作的人
+**Who is suited**
+- People with leadership and organizational skills
+- A person who prioritizes safety and attention to detail
+- People who can work under pressure
 
-**谁不适合学First-Line Supervisors of Security Workers？**
-- 不喜欢与人打交道的人
-- 希望快速晋升到高薪职位的人
+**Who is not suited**
+- People who dislike interacting with others
+- People aiming for quick promotion to high-paying positions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for security work supervisors?**
+A: Junior annual salary around $35k-$45k USD, senior can reach $60k-$80k USD.
+
+**Q: Can foreigners work as security supervisors on an H-1B visa?**
+A: Difficult, as the occupation typically does not require a bachelor's degree, not meeting H-1B criteria.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-First-Line Supervisors of Security Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for First-Line Supervisors of Security Workers?**
-答：Entry-level salary is around $35,000-$45,000, while senior roles can reach $60,000-$80,000.
-
-**问：Can foreigners work as First-Line Supervisors of Security Workers on an H-1B visa?**
-答：It's difficult, as the job typically does not require a bachelor's degree, which is needed for H-1B.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

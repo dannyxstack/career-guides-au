@@ -1,60 +1,95 @@
-# Nursing Assistants（Nursing Assistants）职业分析 · 美国
+# Nursing Assistants — career analysis · United States
 
-**职业代码：31-1131 – Nursing Assistants。**
+**Occupation code: 31-1131 (SOC)**
 
-Provide or assist with basic care or support under the direction of licensed nursing staff, including monitoring health status, feeding, bathing, dressing, grooming, toileting, or ambulation.
+Under the guidance of a licensed nursing staff, provide basic care or support to patients, including monitoring health status, feeding, bathing, dressing, toileting, and walking.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定年限 | —（通常需高中毕业，无额外学费） |
-| 护理助理培训课程 | 4-12周 | $500~$1,500（州政府批准的培训项目，包括理论和临床实践） |
+| High school diploma or equivalent | No fixed duration | $0~$0 (Typically requires high school diploma, no additional tuition) |
+| Nursing assistant training course | 4-12 weeks | $500~$1,500 (State-approved training programs including theory and clinical practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理助理认证(CNA) | 所在州护理委员会 | 必备 | 需完成培训并通过能力评估考试 |
-| CPR认证 | 美国红十字会或美国心脏协会 | 必备 | 基本生命支持技能 |
+| Certified Nursing Assistant (CNA) | State nursing board of the respective state | Required | Must complete training and pass competency assessment exams |
+| CPR certification | American Red Cross or American Heart Association | Required | Basic life support skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,475,000。美国人口老龄化推动护理助理需求持续增长。BLS预计2022-2032年就业增长约5%，年均新增约21万个职位。
+**Job demand: high (★★★★☆).** National workforce approx. 1,475,000. Aging population in the US drives continued demand for nursing assistants. BLS projects employment growth of about 5% from 2022 to 2032, with an average of about 210,000 new positions annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 入门级薪资较低，常见于养老院 |
-| 中级（3-7年） | $34,000~$40,000 | 经验增加后薪资提升 |
-| 高级（7年以上） | $40,000~$48,000 | 经验丰富者或特殊护理单元薪资更高 |
+| Median salary | $42,260 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$34,000 | Entry-level pay is low, common in nursing homes |
+| Mid-level (3–7 years) | $34,000~$40,000 | Salary increases with experience |
+| Senior (7+ years) | $40,000~$48,000 | Experienced individuals or specialized care units offer higher salaries. |
+| average salary | $42,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为持证执业护士(LPN)或注册护士(RN)，或转向护理管理、家庭健康服务等专业领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
+
+Can advance to Licensed Practical Nurse (LPN) or Registered Nurse (RN), or transition to nursing management, home health services, and other specialized areas.
+
+**Tasks most exposed to AI:**
+
+- Documentation and report generation: AI automatically generates care logs, medication records, and anomaly reports
+- Scheduling and task allocation: AI optimizes caregiver shifts and client visit routes
+- Basic health monitoring data collation: AI automatically aggregates metrics like blood pressure and blood glucose and issues alerts
+- Partially standardized daily conversations: AI chatbots handle routine inquiries (e.g., meal times)
+
+**Where AI augments the role:**
+
+- Individualized care plan development: AI analyzes client data to recommend more precise activities and dietary plans.
+- Fall/risk prediction: AI uses sensor data for early warnings, assisting caregivers in preventing accidents
+- Family communication and reporting: AI generates customized monthly reports to enhance family trust
+- Training and skill enhancement: AI simulated scenarios for nursing staff to practice complex care situations
+- Cross-language/cross-cultural communication: AI real-time translation aids communication with elderly from multicultural backgrounds
+
+**Human moat:**
+
+- Building trust and emotional support: human empathy, patience, and non-verbal communication are irreplaceable.
+- Flexible judgment and emergency response in unexpected situations: e.g. comprehensive assessment of injuries and emotions after an elderly person falls
+- Physical contact and intimate care: tasks requiring detailed physical contact such as assisting with eating, bathing, and toileting
+- Ethical decision-making and end-of-life care: making humane, respectful judgments in terminal care
+- Adaptation to unstructured environments: dealing with erratic behaviour or sudden cognitive changes in the elderly
+
+**Skills to build:**
+
+- Proficiency in nursing management software (e.g., AlayaCare, MYP)
+- Basic data analysis: interpreting AI early warning reports and translating into actions
+- Communication and empathy skills: especially delivering personalised care with AI assistance
+- Digital health literacy: use wearable devices and remote monitoring platforms
+- Cross-cultural care ability: adapting to diverse needs of elderly immigrant populations
+- Continuous learning mindset: keep up with AI tool updates and best practices
+
+**Key growth areas:**
 
 - Aging population
 - Home healthcare
@@ -63,63 +98,65 @@ Provide or assist with basic care or support under the direction of licensed nur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 护理助理通常不符合H-1B专业职业要求，极少通过此签证。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | EB-3类别可能适用，但需雇主证明无法招到美国工人，且通过PERM劳工认证。 |
-| Subclass TN（TN NAFTA Professional） | 护理助理不在TN职业列表中，不适用。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Nursing assistants usually do not meet H-1B specialty occupation requirements and are rarely approved for this visa. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | EB-3 category may apply, but the employer must prove inability to hire U.S. workers and pass PERM labor certification. |
+| Subclass TN (TN NAFTA Professional) | Nursing assistant is not on the TN occupation list, not applicable. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Nursing Assistants？**
-- 有耐心和同情心，愿意照顾他人
-- 喜欢医疗健康领域，希望快速入门
-- 能适应体力劳动和不规律工作时间
+**Who is suited**
+- Patient and compassionate, willing to care for others
+- Interested in healthcare field, wants quick entry
+- Able to adapt to physical labor and irregular working hours
 
-**谁不适合学Nursing Assistants？**
-- 不愿从事高强度体力劳动
-- 对不洁环境或医疗场景感到不适
+**Who is not suited**
+- Unwilling to engage in high-intensity physical labor
+- Discomfort in unclean environments or medical settings
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary outlook for nursing assistants?**
+A: Median salary around $35,000/year, higher in some states. With experience, can rise above $40,000.
+
+**Q: Is it easy for foreigners to immigrate to the US as nursing assistants?**
+A: Very difficult. Nursing assistants usually do not meet H-1B professional occupation requirements; EB-3 green card path is long and requires employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Nursing Assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for nursing assistants?**
-答：Median salary is around $35,000 per year, with experienced workers earning over $40,000.
-
-**问：Is it easy for foreigners to immigrate as nursing assistants in the US?**
-答：Very difficult. CNAs generally don't qualify for H-1B, and EB-3 green card process is long and requires employer sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

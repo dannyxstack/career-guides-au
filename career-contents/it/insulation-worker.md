@@ -1,60 +1,95 @@
-# Insulation Worker（Insulation Worker）职业分析 · IT
+# Insulation Worker — career analysis · Italy
 
-**职业代码：7124 – Insulation Worker。**
+**Occupation code: 7124 (ISCO08)**
 
-Install thermal insulation materials in buildings, pipes, and equipment to improve energy efficiency and temperature control.
+Responsible for installing insulation materials in buildings, pipes, and equipment to improve energy efficiency and control temperature.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业加职业培训 | 3年（学徒制） | —（学徒期间通常免费且有工资） |
-| 职业资格证书 | 6个月至1年 | $500~$2,000（短期课程费用） |
+| High school graduation plus vocational training | 3 years (apprenticeship) | $0~$1,000 (Typically free with wages during apprenticeship.) |
+| Professional qualifications | 6 months to 1 year | $500~$2,000 (Short-term course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ISO 9001质量管理体系认证（可选） | 认证机构 | 可选 | 部分企业要求 |
-| 高空作业安全证书 | 地区安全机构 | 必备 | 涉及高空安装时须持有 |
+| Safety certificate for working at heights | Regional security agency | Required | Must hold a license when working at heights |
+| ISO 9001 quality management system certification (optional) | Certification bodies | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。意大利建筑业复苏及能源改造需求推动绝缘工需求稳定增长，尤其翻新工程和绿色建筑政策支持就业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Stable demand growth for insulation workers in Italy driven by construction recovery and energy renovation needs, especially in renovation projects and supported by green building policies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或新手工资较低 |
-| 中级（4-7年） | $25,000~$32,000 | 持有资格证书后薪资提升 |
-| 高级（8年以上） | $33,000~$40,000 | 经验丰富或担任主管 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or entry-level wages are lower |
+| Mid-level (4-7 years) | $25,000~$32,000 | Salary increase after obtaining a qualification |
+| Senior (8+ years) | $33,000~$40,000 | Experienced or in supervisory roles |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒晋升为熟练工，再至团队主管或自雇承包商；经验丰富者可转向能源审计或技术监督岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Insulators' repetitive measurement and layout tasks will be significantly reduced by AI automation, but on-site installation and material handling still rely on human flexibility.
+
+Can advance from apprentice to skilled worker, then to team supervisor or self-employed contractor; experienced individuals can transition to energy auditing or technical supervision roles.
+
+**Tasks most exposed to AI:**
+
+- Automated material cutting and layout based on architectural drawings
+- Heat loss calculation and insulation thickness optimization
+- Automated inventory management and material ordering
+- Digital tracking and report generation for construction progress
+
+**Where AI augments the role:**
+
+- Using AI thermal imaging camera to precisely detect insulation defects
+- AI-assisted design of complex curved insulation solutions
+- Augmented Reality (AR) guidance for precise installation
+- Predictive maintenance recommendations extend insulation life.
+- Real-time environmental data to optimize construction plans
+
+**Human moat:**
+
+- Flexibly install insulation materials manually in confined spaces
+- On-site assessment of material compatibility and repair
+- Communicating with clients regarding customized requirements
+- Safe handling of flammable or hazardous materials
+- Creative solutions for complex building structures
+
+**Skills to build:**
+
+- Proficiency in AI thermal imaging diagnostic software
+- Learning Digital Construction Management Platform
+- Use of augmented reality (AR) construction assistance tools
+- Basic data analysis and report writing
+- Updates on materials science knowledge (green insulation materials)
+- Drone thermal imaging inspection operation
+
+**Key growth areas:**
 
 - Green building
 - Energy efficiency
@@ -63,62 +98,64 @@ Install thermal insulation materials in buildings, pipes, and equipment to impro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟工人通过年度配额申请，需雇主担保，名额有限。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，但绝缘工薪资通常不达标。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through annual quotas, requiring employer sponsorship, with limited spots. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but insulators' salaries usually do not meet the threshold. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Insulation Worker？**
-- 喜欢动手操作、体力活动的人
-- 能适应高空和狭小空间工作
-- 注重细节和施工质量
+**Who is suited**
+- People who enjoy hands-on work and physical activity
+- Able to work at heights and in confined spaces
+- Attention to detail and construction quality.
 
-**谁不适合学Insulation Worker？**
-- 对灰尘和纤维过敏
-- 不喜欢重复性体力劳动
+**Who is not suited**
+- Allergic to dust and fibers
+- Dislikes repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an insulation worker in Italy?**
+A: Entry-level approximately €18,000-24,000, senior up to €40,000, depending on experience and region.
+
+**Q: How can non-EU citizens obtain a work visa for insulation workers in Italy?**
+A: Primarily applied through the annual Decreto Flussi quota, requiring employer sponsorship; alternatively, an EU Blue Card can be attempted, but salary requirements are higher.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Insulation Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for insulation workers in Italy?**
-答：Entry-level around €18,000-24,000, senior up to €40,000, depending on experience and region.
-
-**问：How can non-EU citizens get a work visa as insulation workers in Italy?**
-答：Mainly through the Decreto Flussi annual quota with employer sponsorship; EU Blue Card may be possible but salary threshold is high.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

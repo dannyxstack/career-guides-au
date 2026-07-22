@@ -1,58 +1,93 @@
-# Social Work and Education Support Professionals（Social Work and Education Support Professionals）职业分析 · ES
+# Social Work and Education Support Professionals — career analysis · Spain
 
-**职业代码：3713 – Social Work and Education Support Professionals。**
+**Occupation code: 3713 (CNO)**
 
-Assist social workers and educators by providing support to vulnerable groups, youth, and communities, including case management, activity planning, and resource coordination.
+Assist social workers and educators in providing support to vulnerable groups, youth, or communities, including case management, event planning, and resource coordination.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Superior） | 2年 | $1,000~$4,000（公立学校学费低，私立较高） |
-| 大学本科（Grado） | 4年 | $2,000~$8,000（公立大学学费每年约1000-2000欧元） |
+| Intermediate Vocational Training (FP Grado Superior) | 2 years | $1,000~$4,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Undergraduate (Grado) | 4 years | $2,000~$8,000 (Tuition at public universities is about 1,000–2,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会教育高级技师（Técnico Superior en Educación Social） | 教育部 | 必备 | FP学位，为常见入职要求 |
-| 社会工作或教育相关本科学位 | 大学 | 可选 | 可替代FP学位，提升晋升机会 |
+| Técnico Superior en Educación Social | Ministry of Education | Required | FP degree is a common entry requirement |
+| Bachelor's degree in social work or education | University | Optional | It can replace an FP degree and increase your chances of promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。西班牙老龄化和社会服务需求增加，预计该职业需求稳步增长。公共部门预算紧张可能限制岗位数量，但非营利和私营领域机会增多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. With Spain's aging population and increasing demand for social services, demand for this profession is expected to grow steadily. Tight public sector budgets may limit the number of jobs, but opportunities in the nonprofit and private sectors are increasing.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $30,000~$40,000 | 税前年薪，含管理职责 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $30,000~$40,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理晋升为高级技术员或协调员，进一步可攻读社会工作或教育学位成为专业社会工作者或教师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
+
+Candidates can be promoted from assistant to senior technician or coordinator, and further pursue degrees in social work or education to become professional social workers or teachers.
+
+**Tasks most exposed to AI:**
+
+- Automated case recording and report writing
+- Preliminary client information collection and filing
+- Resource database query and matching
+- Distribution and collation of standardized assessment questionnaires
+- Appointment scheduling and reminder notifications
+
+**Where AI augments the role:**
+
+- AI provides real-time translation to assist communication with non-native speaking clients
+- Predictive analytics helps identify high-risk cases.
+- Emotion recognition tools assist remote psychological counseling
+- Automatically generate multilingual service guides and promotional materials
+- Virtual reality simulation for training crisis intervention skills
+
+**Human moat:**
+
+- Building Trust and Empathic Communication Face-to-Face
+- Handling complex ethical dilemmas and value conflicts
+- Cross-system coordination and advocacy
+- Make comprehensive judgments in dynamic, unpredictable environments
+
+**Skills to build:**
+
+- AI-assisted clinical decision support tool operation
+- Basics of data analysis and statistical modeling
+- Digital mental health platform usage
+- Ethics and privacy protection (especially in AI application scenarios)
+- Cross-cultural communication and diverse service capabilities
+- Project management and multi-agency collaboration
+
+**Key growth areas:**
 
 - Aging population
 - Social services expansion
@@ -61,68 +96,67 @@ Assist social workers and educators by providing support to vulnerable groups, y
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employee)） | 由西班牙雇主提供工作合同，办理受雇工作居留。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 若持有大学学历且薪资达门槛（约33,900欧元），可申请欧盟蓝卡。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高级职位或企业内调，简化流程。 |
+| Subclass Cuenta ajena (Work Contract (Employee)) | A work contract is provided by a Spanish employer, allowing employment residency. |
+| Subclass Tarjeta azul UE (EU Blue Card) | If you hold a university degree and your salary meets the threshold (about 33,900 euros), you can apply for the EU Blue Card. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for senior positions or internal transfers within enterprises, streamlining processes. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social Work and Education Support Professionals？**
-- 喜欢与人沟通、帮助他人的人
-- 有耐心、同理心，能处理复杂社会问题
-- 愿意在公共或非营利部门工作
-
-**谁不适合学Social Work and Education Support Professionals？**
-- 追求高薪或高压高回报职业
-- 不擅长文书工作和行政事务
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communicating and helping others
+- Patient and empathetic, able to handle complex social issues
+- Willing to work in the public or nonprofit sector
+
+**Who is not suited**
+- Pursue high-paying or high-pressure, high-reward careers
+- Not good at paperwork or administrative affairs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for social work support workers in Spain?**
+A: Entry-level salary about 18,000-24,000 EUR per year, senior up to 40,000 EUR. Stable in public sector, lower in private non-profit.
+
+**Q: Can you immigrate to this profession without a Spanish degree?**
+A: It is possible, but requires academic certification (homologación) or application through a work contract. This occupation is not included in the list of in-demand occupations, but ordinary work residence can be attempted.
+
+**Q: What career advancement opportunities exist for this occupation?**
+A: Candidates can be promoted from assistant to senior technician, project coordinator, or further their studies to become social workers or teachers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Social Work and Education Support Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for social work support professionals in Spain?**
-答：Entry-level annual salary ranges from €18,000 to €24,000, senior up to €40,000. Public sector offers stability, while private non-profits may pay less.
-
-**问：Can I immigrate to work in this profession without a Spanish degree?**
-答：Possibly, but you need degree homologation or a job contract. It is not on the shortage list, so regular work visa is an option.
-
-**问：What career advancement opportunities exist?**
-答：From assistant to senior technician, project coordinator, or further study to become a social worker or teacher.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

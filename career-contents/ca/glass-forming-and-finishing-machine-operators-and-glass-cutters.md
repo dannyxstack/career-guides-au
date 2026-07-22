@@ -1,60 +1,93 @@
-# Glass forming and finishing machine operators and glass cutters（Glass forming and finishing machine operators and glass cutters）职业分析 · 加拿大
+# Glass forming and finishing machine operators and glass cutters — career analysis · Canada
 
-**职业代码：94102 – Glass forming and finishing machine operators and glass cutters。**
+**Occupation code: 94102 (NOC)**
 
-Operate glass forming, finishing, and cutting machines to produce flat glass, containers, and other products. Typically work in manufacturing plants, requiring physical stamina and safety awareness.
+Operate glass forming, finishing, and cutting equipment to produce flat glass, glass containers, and other products. Typically work in manufacturing plants, requiring physical labor and attention to safety.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求高中文凭） |
-| 在职培训 | 6-12个月 | —（雇主提供的在职培训或学徒项目） |
+| High school graduation | None | $0~$0 (Usually requires a high school diploma) |
+| On-the-job training | 6–12 months | $0~$2,000 (Employer-provided on-the-job training or apprenticeship programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 各省教育部 | 必备 | 通常最低要求 |
-| 行业认证 | 各省行业机构 | 可选 | 部分省份有自愿认证，如安省玻璃行业认证 |
+| High school diploma | Provincial education ministries. | Required | Typically minimum requirements |
+| Industry certifications | Provincial industry bodies | Optional | Some provinces have voluntary certification, e.g., Ontario's glass industry certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,200。加拿大建筑和制造业需求稳定，但自动化可能影响就业。预计2023-2033年岗位数量略有下降。
+**Job demand: medium (★★★☆☆).** National workforce approx. 4,200. Demand is stable in Canadian construction and manufacturing, but automation may affect employment. A slight decline in positions is expected from 2023-2033.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 时薪约16-20加元 |
-| 中级（3-6年） | $40,000~$52,000 | 时薪约20-26加元 |
-| 高级（6年以上） | $52,000~$65,000 | 时薪约26-32加元，主管更高 |
+| Median salary | $47,299 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$40,000 | Hourly wage approximately 16-20 Canadian dollars |
+| Mid-level (3–6 years) | $40,000~$52,000 | Hourly wage approximately 20-26 Canadian dollars |
+| Senior (6+ years) | $52,000~$65,000 | Hourly wage approximately CAD 26-32, higher for supervisors |
+| average salary | $47,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可从操作员晋升为高级操作员、主管或质检员。部分人通过继续教育进入工程或管理岗位。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
+
+Can progress from operator to senior operator, supervisor, or quality inspector. Some pursue further education to move into engineering or management roles.
+
+**Tasks most exposed to AI:**
+
+- AI vision-guided automatic cutting path planning replaces manual measurement and marking
+- CNC edge grinding machines replace manual edge grinding
+- drilling positioning and parameter optimization are automated by AI
+- Quality defect identification (bubbles, cracks) using machine vision instead of visual inspection
+
+**Where AI augments the role:**
+
+- AI-assisted generation of optimal layout plans to improve raw material utilisation
+- AR glasses overlay drawings and tolerance prompts to improve installation accuracy.
+- Predictive maintenance of equipment reduces downtime and extends lifespan
+- Real-time feedback from AI quality control systems to adjust processing parameters
+
+**Human moat:**
+
+- Manual handling and positioning of irregular/oversized glass
+- Artisan judgment for adjusting gaps with building structures during on-site installation
+- Custom artistic glass creative processing.
+- Emergency maintenance for handling automation anomalies
+
+**Skills to build:**
+
+- CNC/Laser Cutting Programming and Operation
+- Smart device fault diagnosis and maintenance
+- 3D modeling and layout optimization software
+- Machine vision quality inspection system basics
+- On-site installation communication and coordination skills
+- Basic English reading (equipment manuals)
+
+**Key growth areas:**
 
 - Automation impact
 - Construction demand
@@ -63,68 +96,67 @@ Operate glass forming, finishing, and cutting machines to produce flat glass, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA雇佣外国工人，需证明本地劳工不足 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能提名该职业，需雇主支持 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to hire foreign workers, proving that local labour is insufficient. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may nominate this occupation, requiring employer support |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass forming and finishing machine operators and glass cutters？**
-- 体力好、能适应工厂环境的人
-- 注重安全规范的人
-- 愿意接受重复性工作的人
-
-**谁不适合学Glass forming and finishing machine operators and glass cutters？**
-- 偏好脑力工作的人
-- 对粉尘和噪音敏感的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and adaptable to factory environments
+- People who prioritise safety compliance
+- People willing to accept repetitive work
+
+**Who is not suited**
+- People who prefer brain work
+- Those sensitive to dust and noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry salary about C$32,000-40,000 per year, senior up to C$65,000.
+
+**Q: Is immigrating to Canada easy?**
+A: This occupation is uncommon under Express Entry, mainly immigrating via LMIA or PNP, with considerable difficulty.
+
+**Q: What educational background is required?**
+A: Usually only a high school diploma is required, followed by on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Glass forming and finishing machine operators and glass cutters为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around CAD 32,000-40,000, and experienced workers can earn up to CAD 65,000.
-
-**问：Is it easy to immigrate to Canada through this occupation?**
-答：This occupation is less common in Express Entry; immigration mainly relies on LMIA or PNP, which is challenging.
-
-**问：What education is required?**
-答：Typically only a high school diploma is required, followed by on-the-job training.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

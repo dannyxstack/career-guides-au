@@ -1,59 +1,92 @@
-# Glass Finisher（Glass Finisher）职业分析 · DE
+# Glass Finisher — career analysis · Germany
 
-**职业代码：2134 – Glass Finisher。**
+**Occupation code: 2134 (KldB)**
 
-Performs glass cutting, grinding, polishing, drilling, coating, and decoration for construction, automotive, and furniture applications.
+Engaging in glass cutting, grinding, polishing, drilling, coating, and decorative finishing processes for construction, automotive, furniture, and other fields.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，企业承担学费） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Allowances during training, tuition covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃精加工工学徒毕业证书 | 德国工商会(IHK) | 必备 | 完成3年双元制培训并通过结业考试 |
-| 玻璃技师证书 | 德国手工业协会(HWK) | 可选 | 可自愿进修以提高晋升机会 |
+| Apprentice Glass Finishing Worker Graduation Certificate | German Chamber of Commerce and Industry (IHK) | Required | Completion of a 3-year dual-system training and passing the final exam |
+| Glass Technician Certificate | German Chamber of Crafts (HWK). | Optional | Optional further study to improve promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。德国绿色建筑和节能改造推动特种玻璃需求增长，该职业就业机会稳定。从业者老龄化带来一定替代需求，但整体岗位数量平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Germany's green building and energy efficiency upgrades drive demand for specialty glass, offering stable job opportunities. Aging workforce creates some replacement demand, but overall positions remain stable.
 
-**竞争度：适中（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，培训后起薪 |
-| 中级（4-7年） | $35,000~$42,000 | 含经验与技能提升 |
-| 高级（8年以上） | $43,000~$52,000 | 含技师或管理职责 |
+| Median salary | $40,704 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary, starting salary after training |
+| Mid-level (4-7 years) | $35,000~$42,000 | Including experience and skills enhancement |
+| Senior (8+ years) | $43,000~$52,000 | Including technician or management roles |
+| average salary | $43,212 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从学徒(Glasveredler)起步，可晋升为工段长或技术专家，也可通过进修成为玻璃工艺技师或企业培训师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
+
+Start as an apprentice (Glasveredler), then advance to section leader or technical specialist, or become a glass technician or corporate trainer through further education.
+
+**Tasks most exposed to AI:**
+
+- Automatic optimization calculation of glass dimensions and layout
+- BIM-based glass installation sequence planning
+- Automated processing of inventory management and material procurement.
+- Automatic generation and archiving of installation reports
+
+**Where AI augments the role:**
+
+- Use AR glasses for installation positioning and verification
+- AI-assisted glass cutting optimization to reduce waste
+- Drone or Robot-Assisted Glass Installation on High-Rise Buildings
+- Smart tools for real-time monitoring of installation quality
+
+**Human moat:**
+
+- Physical tasks: on-site glass handling, positioning, and fixing
+- Handling custom installation of non-standard and shaped glass
+- Ability to handle emergencies such as glass breakage or structural deviations.
+- Coordinate on-site with architects, contractors, etc.
+
+**Skills to build:**
+
+- Reading BIM models and collaboration
+- Drone/robot-assisted installation operations
+- Use of AR/VR assisted construction tools
+- Basic Python for automated reporting
+- Green energy-efficient glass performance evaluation
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Energy-efficient glass
 - Green building
@@ -62,68 +95,67 @@ Performs glass cutting, grinding, polishing, drilling, coating, and decoration f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigrant Visa (Employment)） | 适用于持有德国认可的职业资格并获雇主担保的技术工人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德国找工作的机会卡，适合有职业资质者。 |
+| Subclass Skilled Worker (Skilled Immigrant Visa (Employment)) | Applicable to skilled workers holding a German-recognized vocational qualification with employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based opportunity card for coming to Germany to find work, suitable for those with professional qualifications. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Glass Finisher？**
-- 喜欢手工精细操作，对玻璃材料有耐心
-- 注重细节，追求产品精度和美观
-- 愿意接受3年双元制职业培训
-
-**谁不适合学Glass Finisher？**
-- 对粉尘或切割噪音敏感
-- 希望快速获得高薪或管理岗位
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy manual precision work and have patience with glass materials
+- Detail-oriented, pursuing product precision and aesthetics
+- Willing to undergo 3-year dual vocational training
+
+**Who is not suited**
+- Sensitive to dust or cutting noise
+- Seeking quick access to high salary or management positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for glass finishers in Germany?**
+A: Junior salary: approx. 28,000–34,000 EUR, mid-level: 35,000–42,000, senior: up to 52,000, depending on experience and region.
+
+**Q: Can a glass finisher apply for skilled migration to Germany?**
+A: Yes, provided you complete a recognized vocational training program (dual system or equivalent) in Germany and obtain an employer contract; applicable under the skilled migration visa.
+
+**Q: Does my foreign glass processing qualification need certification in Germany?**
+A: Yes, through the Anerkennung procedure to assess equivalence with German vocational qualifications, usually by submitting documents to IHK or HWK.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 适中（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Glass Finisher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass finishers in Germany?**
-答：Entry-level around €28,000-34,000, mid-level €35,000-42,000, senior up to €52,000 gross per year, depending on experience and region.
-
-**问：Can glass finishers apply for skilled migration to Germany?**
-答：Yes, if they have a recognized vocational qualification (dual system or equivalent) and a job offer, they can apply for a skilled worker visa.
-
-**问：Do I need to have my foreign qualification as a glass finisher recognized in Germany?**
-答：Yes, the Anerkennung procedure assesses equivalence to German standards, usually through IHK or HWK.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

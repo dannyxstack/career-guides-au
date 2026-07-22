@@ -1,60 +1,96 @@
-# Plastics and Rubber Production Machine Operators nec（Plastics and Rubber Production Machine Operators nec）职业分析 · 澳大利亚
+# Plastics and Rubber Production Machine Operators nec — career analysis · Australia
 
-**职业代码：711599 – Plastics and Rubber Production Machine Operators nec。**
+**Occupation code: 711599 (ANZSCO)**
 
-Operate plastics or rubber production machines to mix, press, mold, cut, and produce a variety of plastic and rubber products.
+Operate plastic or rubber production machines to perform mixing, pressing, molding, cutting and other processes to produce various plastic and rubber products.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（通常仅需高中文凭） |
-| 职业教育证书 | 6个月-1年 | $4,000~$12,000（如Certificate II或III in Process Manufacturing） |
+| High school graduation | 12 years | $0~$0 (Usually only requires a high school diploma) |
+| Vocational education certificate | 6 months to 1 year | $4,000~$12,000 (Such as Certificate II or III in Process Manufacturing) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 学校 | 必备 | 基本要求 |
-| 过程制造三级证书 | TAFE | 可选 | 非强制性但有助于就业 |
+| High school diploma | School | Required | Basic requirements |
+| Certificate III in Process Manufacturing | TAFE | Optional | Not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,200。澳洲制造业持续发展，对塑料和橡胶制品的需求稳定，该职业就业前景平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,200. Australia's manufacturing sector continues to develop, with stable demand for plastic and rubber products; employment outlook for this occupation is stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$65,000 | 全职，含加班 |
-| 中级（3-6年） | $65,000~$75,000 | 有经验的机器操作员 |
-| 高级（6年以上） | $75,000~$90,000 | 高级操作员或班组长 |
+| Median salary | $88,816 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$65,000 | Full-time, including overtime |
+| Mid-level (3–6 years) | $65,000~$75,000 | Experienced machine operator |
+| Senior (6+ years) | $75,000~$90,000 | Senior operator or shift supervisor |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为高级操作员或班组长，部分可转向质量控制或生产管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive tasks of plastic and rubber production machine operators are highly automatable; AI and robotics will significantly reduce job demand, compressing employment prospects over the next 5 years.
+
+Can progress from entry-level operator to senior operator or team leader; some may transition to quality control or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operating parameters and make adjustments, with AI automatic optimization
+- Performs simple sorting and packaging tasks, replaced by robots
+- Recording production data and quality checks is automated by AI vision system
+- Routine equipment cleaning and maintenance taken over by automated systems
+- Operating pressing and molding machines, replaced by robotic workstations
+
+**Where AI augments the role:**
+
+- Using AI anomaly detection systems for early fault warnings
+- Using digital twin technology to optimize production processes
+- Quickly debug new material parameters using AI formulation software
+- Using collaborative robots for heavy lifting to reduce workplace injuries
+- Get real-time operational guidance via AR glasses
+
+**Human moat:**
+
+- Handling non-routine machine breakdowns and complex process issues
+- Manual judgment and adjustment under strict quality requirements
+- Cross-trade collaboration, such as maintaining production lines with electricians and welders
+- Modifying existing equipment to accommodate non-standard products
+- Responsible for safety supervision and emergency command
+
+**Skills to build:**
+
+- Industrial robot programming and maintenance (e.g., ABB, Fanuc)
+- AI basics: machine learning and computer vision
+- digital twin and simulation software
+- Advanced hydraulic and pneumatic system repair
+- Basics of PLC and industrial control networks
+- Cross-trade skills: electrical, welding
+
+**Key growth areas:**
 
 - Manufacturing
 - Plastics production
@@ -63,61 +99,63 @@ Operate plastics or rubber production machines to mix, press, mold, cut, and pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主提名，通常适用于特定职业，但该职业不在职业列表上。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination, usually applicable to specific occupations, but this occupation is not on the occupation list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Plastics and Rubber Production Machine Operators nec？**
-- 愿意从事制造业体力工作
-- 能适应重复性操作和轮班
-- 注重安全规范
+**Who is suited**
+- Willing to engage in physical work in manufacturing.
+- Able to handle repetitive tasks and shift work
+- Focus on safety regulations.
 
-**谁不适合学Plastics and Rubber Production Machine Operators nec？**
-- 希望快速获得高收入
-- 不喜好工厂环境
+**Who is not suited**
+- Seeking rapid high income
+- Dislikes factory environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level salary approximately AUD 55,000-65,000 per year, senior can reach AUD 75,000-90,000, usually including overtime.
+
+**Q: Can this occupation lead to Australian immigration?**
+A: This occupation is not on the skilled migration occupation list, generally cannot obtain permanent residency through skilled migration, and employer sponsorship is also difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Plastics and Rubber Production Machine Operators nec属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around AUD 55,000-65,000, senior up to AUD 75,000-90,000, often including overtime.
-
-**问：Can this occupation lead to migration to Australia?**
-答：This occupation is not on the skilled occupation list, so general skilled migration is not possible; employer sponsorship is also difficult.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

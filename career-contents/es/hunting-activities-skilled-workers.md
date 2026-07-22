@@ -1,61 +1,95 @@
-# Hunting Activities Skilled Workers（Hunting Activities Skilled Workers）职业分析 · ES
+# Hunting Activities Skilled Workers — career analysis · Spain
 
-**职业代码：6430 – Hunting Activities Skilled Workers。**
+**Occupation code: 6430 (CNO)**
 
-Manage hunting grounds, monitor animal populations, organize hunting activities, and support wildlife conservation, serving as key technicians at the intersection of ecological management and traditional hunting.
+They are responsible for the daily management of hunting grounds, animal population monitoring, organizing hunting activities, and wildlife protection, serving as key technical personnel connecting ecological management with traditional hunting.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $2,000~$5,000（公立学校学费低，私立约3000-5000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | $2,500~$6,000（侧重管理方向，学费略高） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $2,000~$5,000 (Public schools have low tuition fees, while private ones cost about 3,000-5,000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $2,500~$6,000 (Focuses on management, with slightly higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 狩猎执照（Licencia de Caza） | 自治区政府 | 必备 | 必须持有方可从事狩猎活动 |
-| 武器携带许可证（Licencia de Armas） | 国民警卫队（Guardia Civil） | 必备 | 若涉及使用枪械则必须 |
-| FP农业/环境类学位 | 教育机构 | 可选 | 非强制，但雇主优先考虑 |
+| Hunting license (Licencia de Caza) | Autonomous region government | Required | Only those with it can engage in hunting activities |
+| Weapon Permit (Licencia de Armas) | Guardia Civil | Required | If firearms are involved, it is mandatory |
+| FP Agriculture/Environment degree | Educational institution | Optional | Not mandatory, but preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 3,500。西班牙狩猎业因农村人口减少和环保法规趋严而用工紧张，但猎场管理和生态旅游细分领域仍有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 3,500. Spain's hunting industry is facing labor shortages due to declining rural populations and stricter environmental regulations, but stable demand remains in game management and ecotourism niches.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，多为临时或季节工 |
-| 中级（3-7年） | $22,000~$28,000 | 含固定岗位及管理助理 |
-| 高级（7年以上） | $28,000~$35,000 | 猎场主管或顾问 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary is mostly temporary or seasonal work |
+| Mid-level (3–7 years) | $22,000~$28,000 | Including fixed positions and management assistants |
+| Senior (7+ years) | $28,000~$35,000 | Hunting ground supervisor or consultant |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从基层猎场技工进阶为猎场主管或野生动物管理顾问，部分人转型生态旅游向导或保护区管理员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of hunting technicians is mixed: AI can automate monitoring and data analysis, but on-site operations, animal behavior assessment, and safety management still require human experience.
+
+Workers can advance from grassroots game mechanics to game manager or wildlife management consultant, with some transitioning to ecotourism guides or reserve managers.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate animal population monitoring reports and trend forecasts
+- Automatically identifying animal tracks through sensors and drones
+- Automated hunting activity license and record management
+- AI analyzes ecological data of hunting areas and generates management recommendations
+
+**Where AI augments the role:**
+
+- AI-assisted wildlife tracking and identification improve monitoring efficiency
+- Drones and AI image analysis are used for large-scale habitat assessment
+- Data-driven decision support supports population management and hunting quota optimization
+- Virtual reality simulations for hunting scenarios to enhance safety skills
+
+**Human moat:**
+
+- On-site assessment of animal health, behavior, and stress responses
+- Interpersonal communication and coordination with farmers, hunters, and conservation agencies
+- Safety and ethical decisions in emergencies
+- Practical experience accumulated in the wilderness survival and tracking skills
+- A deep understanding and intuition about the local ecosystem
+
+**Skills to build:**
+
+- Drone operations and basic maintenance
+- GIS and remote sensing data analysis
+- Foundations of ecological data science
+- Animal behavior and welfare assessment
+- AI tools (such as computer vision) applications
+- Communication and conflict mediation skills
+
+**Key growth areas:**
 
 - Rural tourism
 - Game management
@@ -64,65 +98,67 @@ Manage hunting grounds, monitor animal populations, organize hunting activities,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，证明职位无法在欧盟招募到合适人选。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6个月找工作，需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, proving that suitable candidates cannot be recruited in the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove your financial capability. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hunting Activities Skilled Workers？**
-- 热爱户外和野生动物，能适应偏远地区工作
-- 具备基本动物学和生态学知识
-- 愿意接受季节性工作节奏
+**Who is suited**
+- Passionate about the outdoors and wildlife, able to adapt to working in remote areas
+- Basic knowledge of zoology and ecology
+- Willing to accept seasonal work rhythms
 
-**谁不适合学Hunting Activities Skilled Workers？**
-- 不喜野外劳作或对动物敏感者
-- 追求高薪和城市生活者
+**Who is not suited**
+- Those who dislike outdoor work or are sensitive to animals
+- Those pursuing high salaries and urban living
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for hunting technicians in Spain?**
+A: Junior annual salary around €18,000-22,000, senior up to €28,000-35,000. Income is significantly affected by season and region.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It's very difficult. This occupation is not in short supply; employers must prove that suitable candidates cannot be found in the EU, and the work is mostly temporary, resulting in a very low immigration success rate.
+
+**Q: What mandatory documents are required to work in this profession?**
+A: Must hold a hunting license issued by the autonomous region and a weapons permit issued by the National Guard (if using firearms).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hunting Activities Skilled Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hunting skilled workers in Spain?**
-答：Entry-level annual salary is around €18,000–€22,000, while senior roles can reach €28,000–€35,000, greatly affected by season and region.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. It is not a shortage occupation, employers must prove no EU candidates available, and jobs are often temporary, making migration highly unlikely.
-
-**问：What mandatory certifications are required for this occupation?**
-答：A hunting license issued by the autonomous community and a weapons permit from the Guardia Civil (if firearms are used) are mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

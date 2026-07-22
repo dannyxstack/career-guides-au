@@ -1,59 +1,95 @@
-# Chief executives and senior officials（Chief executives and senior officials）职业分析 · UK
+# Chief executives and senior officials — career analysis · United Kingdom
 
-**职业代码：1111 – Chief executives and senior officials。**
+**Occupation code: 1111 (SOC)**
 
-Chief executives and senior officials head large enterprises and organisations, planning and coordinating resources to achieve strategic objectives. This includes CEOs, hospital directors, and senior government officials.
+Chief executives and senior officials lead large organizations or enterprises, setting strategic direction and coordinating departmental resources to achieve goals. This role typically includes corporate CEOs, hospital directors, and senior government officials.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$60,000（英国本科学费，国际学生更高） |
-| MBA | 1-2年 | $40,000~$80,000（顶尖商学院学费较高） |
+| Bachelor's degree | 3 years | $30,000~$60,000 (UK undergraduate tuition fees, higher for international students) |
+| MBA | 1-2 years | $40,000~$80,000 (Top business schools have higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业管理学士/硕士 | 大学 | 可选 | 相关领域学位，如商科、经济学 |
-| 特许管理会计师（CIMA） | CIMA | 可选 | 财务背景高管常见 |
-| 金融服务资格认证 | FCA | 可选 | 金融行业高管需持证 |
+| Bachelor/Master of Business Administration | University | Optional | Degree in a related field, such as business or economics. |
+| Chartered Institute of Management Accountants (CIMA) | CIMA | Optional | Common among executives with a financial background |
+| Financial services qualification and certification | FCA | Optional | Financial industry executives require certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 65,000。英国高管职位竞争激烈，但高级管理人才需求稳定。经济波动可能影响招聘，数字化转型和可持续发展领域带来新机遇。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Executive positions in the UK are highly competitive, but demand for senior management talent remains stable. Economic fluctuations may affect recruitment, while digital transformation and sustainability bring new opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$120,000 | 小型企业或部门主管级别 |
-| 中级（3-10年） | $120,000~$250,000 | 中型企业CEO或大型企业高管 |
-| 高级（10年以上） | $250,000~$1,000,000 | 大型企业CEO或政府高官，含奖金 |
+| Median salary | $99,944 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $70,000~$120,000 | Small business or department head level |
+| Intermediate (3-10 years) | $120,000~$250,000 | CEO of a medium-sized enterprise or executive of a large enterprise |
+| Senior (10+ years) | $250,000~$1,000,000 | Large enterprise CEO or senior government official, including bonuses |
+| average salary | $158,728 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 职业发展路径通常从部门经理或总监起步，逐步晋升至副总裁、首席执行官或董事会成员。跨行业经验和MBA学位常见。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
+
+Career path typically starts from department manager or director, progressing to VP, CEO or board member. Cross-industry experience and MBA common.
+
+**Tasks most exposed to AI:**
+
+- Data aggregation and report generation (automatically collect KPIs and generate visual reports)
+- Routine decision support analysis (AI analyzes market data to provide recommendations)
+- Automatic meeting minutes generation and action item tracking
+- Basic risk assessment and compliance monitoring (AI scanning for abnormal transactions)
+- Partial information transmission and communication coordination (e.g., automated email replies)
+
+**Where AI augments the role:**
+
+- Strategic decision-making: AI provides data-driven market forecasts and scenario simulations to assist in strategy formulation.
+- Talent management: AI analyzes employee performance and potential to optimize team configuration
+- Innovation identification: AI identifies industry trends and disruptive technologies to support forward-looking strategies.
+- Operational efficiency: AI automates process monitoring and optimisation, freeing management time to focus on core tasks
+- Risk alerts: AI monitors internal and external risks for better crisis response
+
+**Human moat:**
+
+- Strategic vision and long-term planning: require human judgment and leadership
+- Stakeholder relationship management: relationships with boards, investors, and government rely on trust
+- Organizational change and culture shaping: values leadership that AI cannot replace
+- Complex crisis decisions: involving ethics, law and social impact
+- Executive team coordination and motivation: humanized management and emotional intelligence
+
+**Skills to build:**
+
+- Application of AI tools (e.g., predictive analytics platforms, smart dashboards)
+- Data-driven decision-making methods (learn basic statistics and machine learning principles)
+- Digital strategic thinking (understanding the impact of AI on business models)
+- Emotional intelligence and leadership (remote team management, change communication)
+- Knowledge of technology ethics and regulation (AI governance, data privacy)
+- Agile Project Management and Cross-Departmental Collaboration
+
+**Key growth areas:**
 
 - Digital Transformation
 - Sustainability
@@ -62,68 +98,67 @@ Chief executives and senior officials head large enterprises and organisations, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的高管职位，需满足薪资门槛（通常≥38,700英镑） |
-| Subclass Global Talent（Global Talent visa） | 适用于在商业领域有杰出成就的领导者，无雇主担保要求 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长企业的高管，需符合薪资要求 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to executive positions with employer sponsorship, must meet salary threshold (typically ≥ £38,700) |
+| Subclass Global Talent (Global Talent visa) | For leaders with outstanding achievements in the business field, no employer sponsorship required |
+| Subclass Scale-up (Scale-up visa) | For executives in fast-growing companies, must meet salary requirements |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chief executives and senior officials？**
-- 具有战略思维和领导力经验的高级管理者
-- 拥有跨行业背景和商业网络的人士
-- 能够承受高压工作并做出重大决策的人
-
-**谁不适合学Chief executives and senior officials？**
-- 不擅长人际关系和政治博弈的人
-- 追求工作生活平衡、反感超长工作时间的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Senior managers with strategic thinking and leadership experience
+- Individuals with cross-industry backgrounds and business networks
+- People who can handle high-pressure work and make significant decisions
+
+**Who is not suited**
+- People who are not good at interpersonal relationships and political maneuvering
+- People seeking work-life balance and averse to long working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a CEO?**
+A: Entry-level approx. GBP 70,000-120,000, mid-level GBP 120,000-250,000, senior up to GBP 1,000,000+ including bonuses.
+
+**Q: Can overseas executives immigrate to the UK via work visa?**
+A: Yes, the Skilled Worker visa requires employer sponsorship and an annual salary ≥ £38,700; the Global Talent visa suits exceptional talents.
+
+**Q: What key abilities are needed to become a CEO?**
+A: Strategic thinking, leadership, financial analysis, communication and negotiation skills, along with industry expertise and long-term management experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Chief executives and senior officials的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for chief executives?**
-答：Entry-level: £70k-£120k; Mid-level: £120k-£250k; Senior: £250k-£1m+ including bonuses.
-
-**问：Can overseas executives migrate to the UK via work visa?**
-答：Yes, via Skilled Worker visa (sponsorship required, salary ≥ £38,700) or Global Talent visa for exceptional talent.
-
-**问：What key skills are needed to become a CEO?**
-答：Strategic thinking, leadership, financial analysis, communication, negotiation, industry expertise, and long-term management experience.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

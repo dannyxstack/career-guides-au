@@ -1,61 +1,97 @@
-# Glass Production Plant Operator（Glass Production Plant Operator）职业分析 · FR
+# Glass Production Plant Operator — career analysis · France
 
-**职业代码：H2805 – Glass Production Plant Operator。**
+**Occupation code: H2805 (ROME)**
 
-Monitors and operates glass production equipment (furnaces, forming machines, annealing lehrs) to ensure glass products meet specifications, performs quality checks and basic maintenance.
+Responsible for monitoring and operating glass production equipment (such as furnaces, forming machines, annealing furnaces), ensuring glass products are produced to specifications, conducting quality inspections, and performing basic maintenance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+职业培训 | 2年（CAP） | —（公立CFA学徒制免费，私立职业培训约500-2000欧元） |
-| 高中毕业+技术文凭 | 2年（Bac Pro） | —（公立学校免费，私立学校约1000-3000欧元） |
+| High school graduation + vocational training | 2 years (CAP) | $0~$2,000 (Public CFA apprenticeships are free, while private vocational training costs about 500-2000 euros) |
+| High school graduation + technical diploma | 2 years (Bac Pro) | $0~$3,000 (Public schools are free, while private schools cost about 1000-3000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP玻璃工艺 | 法国教育部 | 可选 | 基础职业资格证书，非强制但雇主优先 |
-| Bac Pro玻璃加工 | 法国教育部 | 可选 | 高级职业文凭，部分企业要求 |
-| CACES驾驶许可证（如需操作叉车等） | CNAM/认证机构 | 可选 | 若涉及物料搬运设备需持有 |
+| CAP glass process | French Ministry of Education | Optional | Basic vocational qualification certificates, not mandatory but employer preference |
+| Bac Pro glass processing | French Ministry of Education | Optional | Advanced Professional Diploma, required by some companies |
+| CACES Driving License (if you need to operate forklifts, etc.) | CNAM/Accreditation Body | Optional | If material handling equipment is involved, it must be carried in place |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。法国玻璃制造业保持稳定，建筑和汽车行业需求支撑就业。但自动化程度提高可能减少部分岗位，需掌握数字化技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. France's glass manufacturing industry remains stable, with demand from the construction and automotive sectors supporting employment. However, increased automation may reduce some positions, requiring digital skills.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，含奖金；主管可达42000 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, including bonuses; The supervisor can reach up to 42,000 |
+| average salary | $30,930 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作员可晋升为生产线主管或工艺技术员，或通过内部培训转向质量控制、设备维护等岗位。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Operators of glass production facilities will face AI and automation reinvention: some monitoring and quality inspection tasks can be replaced by machine vision and predictive algorithms, but complex fault handling, process debugging, and cross-job collaboration still require human experience, resulting in mixed outcomes.
+
+Junior operators can be promoted to production line supervisors or process technicians, or through internal training can move to positions such as quality control or equipment maintenance.
+
+**Tasks most exposed to AI:**
+
+- Machine vision systems are used to automatically detect glass surface defects, replacing manual visual inspection
+- Sensors and AI automatically monitor furnace temperature and pressure parameters, reducing the frequency of manual inspections
+- The automated control system automatically adjusts molding machine parameters according to the formula, replacing manual manual adjustment
+- Predictive maintenance algorithms analyze equipment vibration data and automatically schedule maintenance, replacing empirical judgment
+- Standardized digital reports replace manual recording of production logs
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex equipment faults, repair recommendations, and reduced downtime
+- Expert guidance is remotely obtained through augmented reality (AR) headsets to perform precise repair operations
+- Digital twins are used to simulate the impact of different glass formulations on finished product quality, optimizing process parameters
+- The AI scheduling system optimizes production scheduling and energy consumption, improving overall equipment efficiency
+- Real-time quality data analysis assists operators in fine-tuning furnace temperature curves to improve yield rates
+
+**Human moat:**
+
+- Quick judgment and hands-on repair capabilities when handling sudden equipment failures
+- Coordinate communication and on-site scheduling of upstream and downstream processes (such as batching, cutting, packaging).
+- Manual debugging and trial production experience with new processes and materials
+- Responsibility and adaptability for emergency operations in hazardous environments (such as beside high-temperature furnaces).
+- Understand the process transformation capabilities required by customers for customized glass products
+
+**Skills to build:**
+
+- Master PLC programming and basic operations of industrial robots
+- Learn skills in debugging and data collection of industrial IoT equipment
+- Familiar with machine vision system principles and basic configuration
+- Learn the daily use of predictive maintenance software
+- Enhance hands-on skills in repairing complex mechatronic equipment
+- Learn basic Python or SQL for production data analysis
+
+**Key growth areas:**
 
 - Automation
 - Energy-efficient glass
@@ -64,65 +100,67 @@ Monitors and operates glass production equipment (furnaces, forming machines, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Residence Permit） | 需获得法国雇主工作合同，且职位在ANPE登记（通常需劳工市场测试） |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若持有硕士以上学历或为高科技项目引进，可申请，但本职业通常不符合条件 |
+| Subclass Salarié (Salarié (Employee) Residence Permit) | Must obtain a French employer employment contract and have the position registered with ANPE (usually requiring labor market testing). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you hold a master's degree or above, or if you are recruited by a high-tech project, you may apply, but this profession usually does not meet the requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Glass Production Plant Operator？**
-- 对机械操作和工业流程感兴趣，动手能力强
-- 能适应轮班工作（包括夜班）和高温环境
-- 注重安全规范，有团队合作精神
+**Who is suited**
+- Interested in mechanical operation and industrial processes, with strong hands-on skills
+- Able to adapt to shift work (including night shifts) and high-temperature environments
+- Emphasize safety protocols and have a team-oriented spirit
 
-**谁不适合学Glass Production Plant Operator？**
-- 不喜欢重复性体力工作
-- 无法适应轮班或高温噪音环境
+**Who is not suited**
+- Dislikes repetitive physical work
+- Unable to adapt to shift work or high-temperature, noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for glass production operators?**
+A: The junior salary is about 22,000-26,000 euros per year, with experience reaching 32,000-38,000 euros, and supervisors about 42,000 euros.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: Difficult. This occupation is not on France's Shortage List, requires employer sponsorship and labor market testing, and offers relatively low wages, making it difficult to meet residence card requirements.
+
+**Q: What educational background is required to become a glass production operator?**
+A: Usually requires high school diploma plus CAP or Bac Pro vocational training, or can be learned free of charge through apprenticeship (Apprentissage).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Glass Production Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for glass production plant operators?**
-答：Entry-level salary is around €22,000-€26,000 per year, experienced operators earn €32,000-€38,000, and supervisors about €42,000.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：Difficult. This occupation is not on the shortage list, requires employer sponsorship and labor market test, and the salary is low, making it hard to meet residence permit criteria.
-
-**问：What education is needed to become a glass production plant operator?**
-答：Typically a high school diploma plus a CAP or Bac Pro vocational training, or via apprenticeship (Apprentissage) which is free.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

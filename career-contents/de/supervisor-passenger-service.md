@@ -1,59 +1,92 @@
-# Supervisor - Passenger Service（Supervisor - Passenger Service）职业分析 · DE
+# Supervisor - Passenger Service — career analysis · Germany
 
-**职业代码：5149 – Supervisor - Passenger Service。**
+**Occupation code: 5149 (KldB)**
 
-Supervisors in passenger service oversee and coordinate customer service activities in public transport such as trains, buses, and ships, including ticketing, baggage handling, and passenger guidance.
+A passenger service supervisor oversees and coordinates customer service for public transport (e.g., trains, buses, ships), including ticketing, baggage handling, and passenger guidance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2-3年 | —（双元制培训可获津贴，企业参与培训无学费） |
-| 相关专业本科 | 3-4年 | —（公立大学基本无学费，仅需学期费） |
+| Vocational training (dual system) | 2-3 years | $0~$500 (Dual system training includes a stipend, with no tuition fees for participants.) |
+| Relevant bachelor's degree | 3-4 years | $0~$1,500 (Public universities are basically tuition-free, only semester fees required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客运服务职业培训证书 | 德国工商会（IHK） | 必备 | 完成双元制 Ausbildung 后获得 |
-| 德语B2证书 | 歌德学院等 | 必备 | 工作中需与乘客交流 |
-| 管理学进修证书 | IHK 或职业学院 | 可选 | 非强制，但有助于晋升 |
+| Certificate in Passenger Service Vocational Training | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training (Ausbildung) |
+| German B2 certificate | Goethe-Institut, etc. | Required | Need to interact with passengers at work. |
+| Management studies certificate | IHK or Vocational College | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。随着德国公共交通系统的现代化和数字化，客运服务主管的需求保持稳定。人口老龄化和员工退休将带来持续招聘需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. With the modernization and digitalization of Germany's public transport system, demand for passenger service supervisors remains stable. An aging population and employee retirements will sustain recruitment needs.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪，不含奖金 |
-| 中级（3-8年） | $34,000~$42,000 | 税前年薪，含绩效奖金 |
-| 高级（8年以上） | $42,000~$52,000 | 税前年薪，含管理津贴 |
+| Median salary | $42,312 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–8 years) | $34,000~$42,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (8+ years) | $42,000~$52,000 | Pre-tax annual salary, including management allowance |
+| average salary | $45,420 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从客运服务人员晋升为主管，再晋升为运营经理或区域负责人。通过继续教育可获得物流或管理学位，拓展职业发展空间。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of a passenger service supervisor includes many routine tasks (such as ticketing, information inquiries), which are easily automated by AI; but interpersonal coordination, emergency handling, and team management still require human judgment, making it a mixed-blessing occupation.
+
+Can progress from passenger service staff to supervisor, then to operations manager or regional manager. Further education can lead to a logistics or management degree, expanding career development opportunities.
+
+**Tasks most exposed to AI:**
+
+- Automated ticket sales and ticket inspection process
+- Answer common passenger inquiries via chatbots
+- Real-time passenger flow data monitoring and report generation
+- Standardized baggage handling and tracking updates
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of scheduling and resource allocation
+- Smart systems predict passenger flow peaks and arrange staffing in advance
+- Real-time translation tools support multilingual passenger services
+- Data analysis tools improve service quality and complaint handling efficiency
+
+**Human moat:**
+
+- On-site judgment and decision-making for handling emergencies (e.g., delays, accidents)
+- Human-centered care and flexible service for special passengers (elderly, disabled)
+- Cross-departmental coordination and team morale maintenance
+- Safety regulation supervision and compliance enforcement
+
+**Skills to build:**
+
+- Passenger transport management software and self-service terminal operation
+- Basic data analysis and report interpretation
+- Conflict management and communication skills in passenger service
+- Emergency response and crisis management training
+- Use of digital tools (e.g., AI customer service backend)
+- Basic English or multilingual ability
+
+**Key growth areas:**
 
 - Public Transport
 - Customer Service
@@ -62,68 +95,67 @@ Supervisors in passenger service oversee and coordinate customer service activit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有本科及以上学历且年薪达门槛的申请人，需雇主担保。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适合有职业培训资格（德国认可）的申请人，需雇主担保。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月寻找工作，需证明经济能力和学历背景。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with a bachelor's degree or higher and meeting the salary threshold, requiring employer sponsorship. |
+| Subclass Skilled Worker (Skilled Immigration Act) | Suitable for applicants with vocational training qualifications (recognized in Germany), requires employer sponsorship. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to seek work, requires proof of financial means and educational background. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor - Passenger Service？**
-- 善于沟通、乐于服务他人的人
-- 有组织协调能力和责任心的人
-- 对交通运输行业有兴趣的人
-
-**谁不适合学Supervisor - Passenger Service？**
-- 不善于处理乘客投诉和压力的人
-- 对轮班工作（包括周末和夜班）不适应的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and eager to serve others
+- Someone with organizational and coordination skills and a sense of responsibility
+- People interested in the transportation industry
+
+**Who is not suited**
+- People who are not good at handling passenger complaints and pressure
+- People not suited for shift work (including weekends and night shifts).
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a passenger service supervisor in Germany?**
+A: Average annual salary about EUR 34,000-42,000 (pre-tax), entry level about EUR 28,000-34,000, senior up to EUR 42,000-52,000.
+
+**Q: How can foreign applicants become passenger service supervisors in Germany through immigration channels?**
+A: The most common path is to complete German-recognized vocational training (dual system), obtain a work contract, and then apply for a skilled migration visa. Those with a bachelor's degree may also apply for an EU Blue Card.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can advance to operations manager, regional supervisor, or trainer. Higher positions can be achieved by further studying management or logistics degrees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisor - Passenger Service的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a passenger service supervisor in Germany?**
-答：The average annual gross salary is around €34,000-42,000, with entry-level at €28,000-34,000 and senior up to €42,000-52,000.
-
-**问：How can foreign applicants become a passenger service supervisor in Germany via migration?**
-答：The most common path is completing a recognized vocational training (dual system), obtaining a job offer, and applying for a skilled worker visa. A bachelor's degree can also qualify for an EU Blue Card.
-
-**问：Are there advancement opportunities in this career?**
-答：Yes, you can advance to operations manager, regional supervisor, or trainer. Further education in management or logistics can lead to higher positions.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

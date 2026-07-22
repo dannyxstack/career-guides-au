@@ -1,60 +1,94 @@
-# Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders（Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-9021 – Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-9021 (SOC)**
 
-Set up, operate, or tend machines to crush, grind, or polish materials such as coal, glass, grain, stone, food, or rubber.
+Operate or tend crushing, grinding, and polishing machinery to process materials such as coal, glass, grain, stone, food, or rubber.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 几个月至1年 | —（雇主提供培训，可能涉及少量材料费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | A few months to 1 year. | $0~$5,000 (Employer provides training, may involve minimal material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 学校 | 必备 | 通常要求 |
-| 在职培训 | 雇主 | 必备 | 大部分技能通过在职学习获得 |
+| High school diploma or equivalent | School | Required | Usually required |
+| On-the-job training | Employer | Required | Most skills are learned on the job |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 22,000。预计2023-2033年就业增长约3%，与所有职业平均水平相当。自动化可能影响部分岗位，但制造业和回收行业需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 22,000. Projected employment growth of about 3% from 2023 to 2033, about average for all occupations. Automation may affect some positions, but demand in manufacturing and recycling industries remains stable.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起步阶段 |
-| 中级（3-8年） | $35,000~$45,000 | 有经验后 |
-| 高级（8年以上） | $45,000~$55,000 | 资深或主管级 |
+| Median salary | $48,540 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level |
+| Mid-level (3–8 years) | $35,000~$45,000 | After gaining experience |
+| Senior (8+ years) | $45,000~$55,000 | Senior or supervisor level |
+| average salary | $51,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级操作员起步，积累经验后可升为高级操作员或主管。部分人转向设备维护或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Many procedural and repetitive tasks in this occupation (e.g., input control, equipment adjustment, quality monitoring) are easily replaced by automated systems, so job demand will continue to shrink. Existing operators need to transition toward equipment maintenance and anomaly handling.
+
+Start as a junior operator, gain experience, and advance to senior operator or supervisor. Some move to equipment maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically adjust crushing or grinding parameters (e.g., speed, pressure) based on material type, without manual repeated adjustments
+- Monitors material dimensions in real-time via sensors and automatically starts/stops conveyors, replacing manual inspection
+- Uses machine vision systems to detect surface defects in finished products, replacing manual visual inspection
+- Automatically records production, energy consumption, and fault alarm data, replacing manual report entry
+- Remote operation consoles control multiple devices centrally, reducing on-site staffing.
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to detect equipment wear early and schedule repairs, reducing unplanned downtime
+- Analyze historical data through process optimization software to recommend optimal operating parameters, improving output efficiency.
+- AI-assisted training simulators help operators quickly master new equipment operations
+- Smart reporting systems automatically aggregate multi-device data to assist production scheduling decisions
+
+**Human moat:**
+
+- On-site diagnosis and hands-on repair ability for sudden equipment failures (e.g., jamming, mechanical deformation).
+- Experience in process adjustments for non-standard materials (e.g., abnormal moisture, impurities)
+- On-site management skills for coordinating communication with upstream and downstream production lines
+- Experience in repairing old or customized non-standard equipment that cannot be easily standardized
+
+**Skills to build:**
+
+- Basic industrial robot programming and troubleshooting
+- Basic debugging of PLC (Programmable Logic Controller)
+- Data collection and SCADA system operation
+- Hydraulic/pneumatic system repair
+- Lean production and continuous improvement methods
+- Basic English (for reading equipment manuals)
+
+**Key growth areas:**
 
 - Automation
 - Recycling
@@ -63,65 +97,67 @@ Set up, operate, or tend machines to crush, grind, or polish materials such as c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因该职业通常不要求学士学位。 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 理论上可能，但雇主担保难度大，因职业被认为低技能。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as this occupation typically does not require a bachelor's degree. |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Theoretically possible, but employer sponsorship is difficult as the occupation is considered low-skilled. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders？**
-- 喜欢动手操作机器、注重安全的人
-- 适应重复性工作、体力良好者
-- 寻求无需高学历的稳定蓝领工作
+**Who is suited**
+- People who like hands-on machine operation and value safety
+- People who can adapt to repetitive work and have good physical fitness
+- Seeking stable blue-collar work without requiring a high degree
 
-**谁不适合学Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders？**
-- 追求高薪和高学历回报的人
-- 希望快速晋升或从事创造性工作的人
+**Who is not suited**
+- People pursuing high salary and high return on education
+- People who want rapid promotion or creative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for this occupation?**
+A: Median annual salary around $37,000 USD; entry-level $28,000-$35,000; experienced $45,000-$55,000.
+
+**Q: Are there immigration opportunities for this occupation?**
+A: Very limited. Usually does not meet H-1B requirements, EB-3 green card path difficult, employers struggle to prove labor shortage.
+
+**Q: What educational background is required?**
+A: Usually only a high school diploma is required, followed by on-the-job training. A few employers may prefer vocational certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary like?**
-答：Median annual wage around $37,000; entry-level $28,000-$35,000; experienced $45,000-$55,000.
-
-**问：Are there migration opportunities?**
-答：Very limited. Usually not eligible for H-1B; EB-3 green card is difficult due to lack of labor shortage proof.
-
-**问：What education is required?**
-答：Usually a high school diploma plus on-the-job training. Some employers may prefer vocational certificates.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

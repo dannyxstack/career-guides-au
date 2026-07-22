@@ -1,60 +1,92 @@
-# Bicycle and Related Repairers（Bicycle and Related Repairers）职业分析 · IT
+# Bicycle and Related Repairers — career analysis · Italy
 
-**职业代码：7234 – Bicycle and Related Repairers。**
+**Occupation code: 7234 (ISCO08)**
 
-Responsible for repairing, maintaining, and assembling bicycles, e-bikes, and related components, typically working in bike shops or independent repair shops.
+Responsible for repairing, maintaining, and assembling bicycles, e-bikes, and related parts, commonly found in bicycle shops or independent repair shops.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或职业培训 | 3年（高中） | —（公立学校免费） |
-| 短期职业课程 | 6个月-1年 | $1,000~$3,000（私立培训机构费用） |
+| High school or vocational training | 3 years (high school) | $0~$0 (Free public schools.) |
+| Short-term vocational course | 6 months to 1 year | $1,000~$3,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自行车维修证书 | 意大利自行车协会或地区职业培训中心 | 可选 | 非强制，但有助于就业 |
-| 电气安全认证 | 相关监管机构 | 可选 | 维修电动自行车时可能需要 |
+| Bicycle repair certificate | Italian cycling association or regional vocational training center | Optional | Not mandatory, but helpful for employment |
+| Electrical safety certification | Relevant regulatory authorities | Optional | May be needed when repairing electric bicycles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。随着意大利绿色出行和电动自行车普及，自行车维修需求稳步增长，尤其在旅游城市和城市通勤区域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. With the popularization of green travel and electric bicycles in Italy, the demand for bicycle maintenance is steadily growing, especially in tourist cities and urban commuting areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $17,000~$21,000 | 税前年薪，学徒工资较低 |
-| 中级（3-6年） | $22,000~$28,000 | 税前年薪 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪，店主或高级技师可达更高 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $17,000~$21,000 | Salary before tax, apprentice wages are lower |
+| Mid-level (3–6 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (6+ years) | $28,000~$35,000 | Pre-tax annual salary; shop owners or senior technicians may earn higher |
+| average salary | $25,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从学徒或初级维修工起步，积累经验后晋升为高级技师或店长，也可自主创业开设维修店。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Bicycle repairers will face a mixed transformation: AI-guided diagnostics and inventory management improve efficiency, but hands-on repair and custom service demand remains stable; entry-level positions may be slightly reduced due to automated diagnostic tools.
+
+Can start as an apprentice or junior maintenance worker, gain experience and advance to senior technician or store manager, or start your own repair shop.
+
+**Tasks most exposed to AI:**
+
+- Use diagnostic software to automatically identify common faults (e.g., circuit issues)
+- Handle customer appointments and simple inquiries via chatbot
+- Inventory management and parts ordering automated by AI system
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex electrical faults (e.g., electric bicycle battery management systems)
+- AR glasses overlay repair steps and exploded parts diagrams to improve repair accuracy
+- Customer needs analysis: AI recommends personalised upgrade options (e.g. performance modifications)
+- Remote expert collaboration: obtaining real-time support via AI platforms
+
+**Human moat:**
+
+- Manual fine-tuning (such as wheel truing, suspension adjustment)
+- Assess unusual damage and creatively repair
+- Face-to-face communication with clients to understand cycling preferences and customize solutions
+- Handling replacement and adaptation of old or non-standard parts
+
+**Skills to build:**
+
+- Diagnosis and repair of electric bicycle electrical systems
+- Proficient in using digital diagnostic tools and repair apps
+- 3D printing part production and repair
+- Customer relationship management and personalized service design
+- Basic programming skills (e.g., MES system operation in repair stations)
+- Sustainable repair concepts (e.g., battery recycling and upgrades)
+
+**Key growth areas:**
 
 - Green mobility
 - E-bike trend
@@ -63,62 +95,64 @@ Responsible for repairing, maintaining, and assembling bicycles, e-bikes, and re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保并满足年度配额，维修工通常不属于优先职业。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，通常要求大学学历和高薪，本职业不符合。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers; requires employer sponsorship and meets annual quotas; repair workers are typically not priority occupations. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, generally requiring a university degree and high salary; this occupation does not qualify. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bicycle and Related Repairers？**
-- 喜欢动手修理的人
-- 热爱自行车文化的人
-- 愿意独立工作的自由职业者
+**Who is suited**
+- People who enjoy hands-on repair work
+- People who love cycling culture
+- Freelancer willing to work independently
 
-**谁不适合学Bicycle and Related Repairers？**
-- 期望高薪快速回报的人
-- 不喜欢灰尘和油腻环境的人
+**Who is not suited**
+- People expecting high salary and quick returns
+- Those who dislike dusty and greasy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for bicycle mechanics in Italy?**
+A: Entry-level annual salary approx. €17,000-21,000, mid-level €22,000-28,000, senior up to €35,000; self-employment income higher but uncertain.
+
+**Q: Can non-EU citizens migrate to Italy as bicycle repairers?**
+A: Low likelihood. This occupation is not in shortage, visa applications are subject to quotas, and employers must demonstrate they cannot find suitable local candidates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Bicycle and Related Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bicycle repairers in Italy?**
-答：Junior: €17,000-21,000, intermediate: €22,000-28,000, senior up to €35,000 per year before tax; self-employed may earn more but with uncertainty.
-
-**问：Can non-EU citizens immigrate to Italy as bicycle repairers?**
-答：Unlikely. This occupation is not in shortage, work visas are quota-limited, and employers must prove no local candidates are available.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

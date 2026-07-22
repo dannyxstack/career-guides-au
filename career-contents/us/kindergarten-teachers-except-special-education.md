@@ -1,60 +1,96 @@
-# Kindergarten Teachers, Except Special Education（Kindergarten Teachers, Except Special Education）职业分析 · 美国
+# Kindergarten Teachers, Except Special Education — career analysis · United States
 
-**职业代码：25-2012 – Kindergarten Teachers, Except Special Education。**
+**Occupation code: 25-2012 (SOC)**
 
-Teach academic and social skills to kindergarten students, excluding special education and substitute teachers.
+Responsible for teaching kindergarten students academic and social skills, excluding special education teachers and substitute teachers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$60,000（公立大学年均学费约1-3万美元） |
-| 硕士学位 | 2年 | $30,000~$80,000（利于晋升和薪资提升） |
+| Bachelor's degree | 4 years | $20,000~$60,000 (Average annual tuition at public universities is about $10,000-30,000 USD.) |
+| Master's degree | 2 years | $30,000~$80,000 (Beneficial for promotion and salary increase) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师资格证 | 各州教育部门 | 必备 | 需通过Praxis考试和背景调查 |
-| 儿童发展副学士 | 社区大学 | 可选 | 对有经验的助教可选 |
+| State Teacher License | State education departments | Required | Requires passing the Praxis exam and background check |
+| Associate degree in child development | Community college | Optional | Optional for experienced teaching assistants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。美国幼儿园教师就业预计稳定增长，受早期教育重视和出生率影响，年均增长约4%，竞争因地区而异。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. US kindergarten teacher employment is expected to grow steadily, influenced by emphasis on early education and birth rates, with annual growth of about 4%. Competition varies by region.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 公立学校起薪较低 |
-| 中级（4-9年） | $45,000~$60,000 | 私立学校薪资可能更高 |
-| 高级（10年以上） | $60,000~$85,000 | 学区主任或硕士学历者可达 |
+| Median salary | $62,680 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary is lower in public schools |
+| Intermediate (4-9 years) | $45,000~$60,000 | Private school salaries may be higher |
+| Senior (10+ years) | $60,000~$85,000 | Reachable for district principals or those with master's degree |
+| average salary | $69,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从助教晋升为主班教师，再至幼儿园主任或课程协调员。需积累经验并获取更高学位如硕士以提升薪资。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
+
+Can progress from teaching assistant to lead teacher, then to kindergarten director or curriculum coordinator. Requires gaining experience and obtaining a higher degree such as a master's to increase salary.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates daily activity plans and lesson plans
+- AI analyzes child development data and generates assessment reports
+- AI handles parent communication emails, notifications, and other text tasks
+- AI management of course resource libraries and material ordering
+- AI-assisted basic English/math concept teaching exercises
+
+**Where AI augments the role:**
+
+- AI real-time observation and recording of children's learning behaviors, providing personalized teaching suggestions
+- AI analyzes early childhood development indicators to warn of potential developmental issues
+- AI assists in designing adaptive games and interactive activities to promote inclusive education
+- AI virtual characters engage in role-playing and language interaction to enrich teaching scenarios
+- AI automatically translates multilingual content, supporting multicultural family communication
+
+**Human moat:**
+
+- Build warm, trusting teacher-student relationships and provide emotional security.
+- Observing and interpreting children's nonverbal signals, emotions, and behaviors
+- Design open, exploratory curricula to stimulate creativity and curiosity
+- In-depth communication with parents to coordinate family and kindergarten education
+- Guiding children through complex social conflicts to develop social and emotional skills
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., child development analysis software)
+- Basic data analysis and evaluation report interpretation
+- Human-AI collaboration course design (e.g., adjusting activities after AI recommendations)
+- Digital communication and multimedia content creation
+- Special education and inclusive education methods
+- Child mental health and early intervention basics
+
+**Key growth areas:**
 
 - Early childhood education
 - Bilingual education
@@ -63,65 +99,67 @@ Teach academic and social skills to kindergarten students, excluding special edu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因教师资格要求与专业职位不匹配 |
-| Subclass J-1（J-1 Exchange Visitor） | 部分文化交流项目允许幼儿园教师，但非移民路径 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable due to mismatch between teacher qualification requirements and professional positions |
+| Subclass J-1 (J-1 Exchange Visitor) | Some cultural exchange programs allow kindergarten teachers, but not immigration pathways |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kindergarten Teachers, Except Special Education？**
-- 喜欢与儿童互动的人群
-- 有耐心和创造力的人
-- 追求稳定工作与社会贡献的人
+**Who is suited**
+- People who enjoy interacting with children
+- People with patience and creativity
+- People seeking stable work and social contribution
 
-**谁不适合学Kindergarten Teachers, Except Special Education？**
-- 追求高薪或快速晋升的人
-- 不喜欢重复性工作和纪律管理的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who dislike repetitive work and discipline management
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for kindergarten teachers?**
+A: Salary moderately low, but public schools offer stable benefits and pensions; private schools may pay more.
+
+**Q: Is there a skilled migration pathway for kindergarten teachers?**
+A: Skilled migration is difficult; H-1B not applicable; J-1 exchange program feasible short-term; green card requires employer sponsorship and is rare.
+
+**Q: How to enhance career development opportunities?**
+A: Obtain a master's degree and state teaching license, gain experience, then transition to curriculum coordinator or centre director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Kindergarten Teachers, Except Special Education属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for kindergarten teachers?**
-答：Salaries are moderate to low, but public schools offer stable benefits and pensions; private schools may pay higher.
-
-**问：Are there immigration pathways for kindergarten teachers?**
-答：Immigration is difficult. H-1B is not applicable; J-1 exchange programs are short-term; green card via employer sponsorship is rare.
-
-**问：How to improve career advancement opportunities?**
-答：Obtain a master's degree and state teaching license, gain experience, then move to curriculum coordinator or director roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

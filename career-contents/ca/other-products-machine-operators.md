@@ -1,60 +1,92 @@
-# Other products machine operators（Other products machine operators）职业分析 · 加拿大
+# Other products machine operators — career analysis · Canada
 
-**职业代码：94124 – Other products machine operators。**
+**Occupation code: 94124 (NOC)**
 
-Operate footwear production machines to cut, stitch, shape, and assemble shoes. This occupation is eligible for immigration via Provincial Nominee Programs, often requiring employer sponsorship.
+Operate shoemaking machines, performing cutting, stitching, shaping, and assembly to produce footwear. This occupation can immigrate through Canadian provincial nominee programs but typically requires employer sponsorship.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 不适用 | —（通常高中毕业即可，无需额外学费） |
-| 在职培训 | 6个月至1年 | —（雇主提供培训，可能涉及工具或安全认证费用） |
+| High school diploma | Not applicable | $0~$0 (Usually requires high school graduation, no additional tuition fees) |
+| On-the-job training | 6 months to 1 year | $0~$5,000 (Employer provides training, possibly covering tool or safety certification costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省级教育部门 | 必备 | 基本要求 |
-| 职业技能培训证书 | 省级职业培训学院 | 可选 | 非强制但有助于就业 |
+| High school diploma | Provincial education department | Required | Basic requirements |
+| Vocational skills training certificate | Provincial vocational training college | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,500。加拿大制鞋业规模较小，主要集中在魁北克和安大略省。就业机会有限，但技术熟练的操作员仍有一定需求。由于自动化趋势，岗位增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,500. The Canadian footwear industry is small-scale, mainly concentrated in Quebec and Ontario. Employment opportunities are limited, but skilled operators still have some demand. Job growth is slow due to automation trends.
 
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 起薪接近最低工资 |
-| 中级（3-7年） | $35,000~$45,000 | 中等水平 |
-| 高级（7年以上） | $45,000~$55,000 | 经验丰富或担任主管 |
+| Median salary | $45,760 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Starting salary close to minimum wage |
+| Mid-level (3–7 years) | $35,000~$45,000 | Intermediate level |
+| Senior (7+ years) | $45,000~$55,000 | Experienced or in supervisory roles |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级操作员可晋升为高级操作员或生产线主管，也可转向质量控制或设备维护岗位。进一步培训可进入鞋类设计或生产管理领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation involves repetitive tasks of operating shoemaking machines (cutting, stitching) that are easily automated. Demand for entry-level positions will decline significantly, but machine maintenance and process optimization still require human oversight.
+
+Junior operators can advance to senior operator or production line supervisor, and can also transition to quality control or equipment maintenance roles. Further training can lead to footwear design or production management.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting machine replaces manual cutting of shoe upper materials based on templates
+- AI vision system automatically detects stitching quality and adjusts parameters
+- Robots complete automatic bonding and pressing of soles and uppers
+- Automated feeding and sorting systems replace manual handling of semi-finished products
+
+**Where AI augments the role:**
+
+- AI-assisted production scheduling system optimizes changeovers for high-variety, small-batch production
+- Digital twin simulates shoemaking process, predicts machine failures and maintenance cycles
+- AI-driven quality traceability system accurately identifies defect sources, reducing rework
+
+**Human moat:**
+
+- Equipment fault diagnosis and emergency repair skills
+- Collaborate with designers to develop new product process flows.
+- On-site safety supervision and abnormal situation decision-making
+- Training new employees to operate automated equipment
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Sensor and IoT device maintenance
+- Data analysis and production report interpretation
+- Automated system troubleshooting
+- Continuous improvement and lean manufacturing methods
+- Fundamentals of Cross-Departmental Communication and Project Management
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,69 +95,68 @@ Operate footwear production machines to cut, stitch, shape, and assemble shoes. 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 通过省提名项目移民，需获得该省雇主的工作邀请。适合有制鞋经验的申请人。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地工人，可支持工签或移民申请。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份试点项目，需雇主担保，适合在海洋四省工作的申请人。 |
+| Subclass PNP (Provincial Nominee Program) | Immigrate through a provincial nomination program, requires a job offer from an employer in that province. Suitable for applicants with shoe-making experience. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer can prove unable to recruit local workers, supporting work visa or migration applications. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, requires employer sponsorship, suitable for applicants working in the Atlantic provinces. |
 
-**PR难度：较高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other products machine operators？**
-- 已有加拿大雇主担保的制鞋工人
-- 愿意在制造业小企业工作的人
-- 接受中等收入且寻求移民途径的人
-
-**谁不适合学Other products machine operators？**
-- 追求高收入和快速晋升的人
-- 担心自动化替代的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Shoe shoemaker with a Canadian employer sponsorship.
+- People willing to work in small manufacturing companies
+- People who accept moderate income and seek immigration pathways
+
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- Those worried about being replaced by automation
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a shoe machine operator in Canada?**
+A: Junior approx. CAD 30,000, intermediate approx. CAD 40,000, senior up to CAD 55,000. Salary varies by region and employer.
+
+**Q: How can a shoe machine operator immigrate to Canada?**
+A: Primarily through provincial nominee programs, requiring a job offer from an employer in that province. Also possible through the Atlantic Immigration Program. Express Entry is generally not applicable.
+
+**Q: What are the job prospects for this occupation in Canada?**
+A: Limited job opportunities, affected by automation, expected slow growth. Mainly concentrated in Quebec and Ontario.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（数周至数月）（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Other products machine operators为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a footwear production machine operator in Canada?**
-答：Entry-level around CAD 30,000, mid-level CAD 40,000, and experienced up to CAD 55,000. Varies by region and employer.
-
-**问：How can a footwear production machine operator immigrate to Canada?**
-答：Mainly through Provincial Nominee Programs with a job offer, or Atlantic Immigration Program. Express Entry is typically not suitable.
-
-**问：What is the job outlook for this occupation in Canada?**
-答：Limited opportunities, affected by automation. Slow growth expected, mainly in Quebec and Ontario.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

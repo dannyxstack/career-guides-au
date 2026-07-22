@@ -1,58 +1,93 @@
-# Medical Appliance Technicians（Medical Appliance Technicians）职业分析 · 美国
+# Medical Appliance Technicians — career analysis · United States
 
-**职业代码：51-9082 – Medical Appliance Technicians。**
+**Occupation code: 51-9082 (SOC)**
 
-Construct, maintain, or repair medical supportive devices such as braces, orthotics, and prosthetics.
+Make, maintain or repair orthoses, prostheses, arch supports and other medical assistive devices; requires both manual skills and patient communication abilities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位（假肢矫形技术） | 2年 | $10,000~$30,000（社区学院或技术学校，学费差异较大） |
-| 在职培训/学徒 | 1-3年 | —（雇主提供在职训练，部分需自费认证） |
+| Associate degree (Prosthetics and Orthotics technology) | 2 years | $10,000~$30,000 (Community college or technical school; tuition varies significantly) |
+| On-the-job training/apprenticeship | 1-3 years | $0~$5,000 (Employers provide on-the-job training; some require self-funded certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ABC认证技师（CPO/CO） | 美国假肢矫形师认证委员会 | 可选 | 通过考试后可独立执业，非必须但显著提升职业发展 |
-| 副学士或学士学位 | 认可的高等教育机构 | 可选 | 假肢矫形技术或相关领域学位 |
+| ABC certified prosthetist/orthotist (CPO/CO) | American Board for Certification in Orthotics and Prosthetics | Optional | Can practice independently after passing the exam; not mandatory but significantly enhances career development |
+| Associate degree or bachelor's degree | Accredited higher education institution | Optional | Degree in prosthetics and orthotics or related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,200。随着人口老龄化和慢性病增多，对矫形器和假肢的需求持续上升。BLS预计该职业2022-2032年就业增长约10%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 15,200. With an aging population and increasing chronic diseases, demand for orthotics and prosthetics is steadily rising. BLS projects employment growth of about 10% from 2022 to 2032, faster than average.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 刚入行或学徒阶段 |
-| 中级（3-7年） | $45,000~$60,000 | 持有ABC认证后薪资提升 |
-| 高级（7年以上） | $60,000~$80,000 | 资深技师或主管薪资 |
+| Median salary | $48,030 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry level or apprenticeship stage |
+| Mid-level (3–7 years) | $45,000~$60,000 | Salary increase after obtaining ABC certification |
+| Senior (7+ years) | $60,000~$80,000 | Senior technician or supervisor salary |
+| average salary | $52,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级技师起步，积累经验后可晋升为高级技师或主管，部分进入义肢矫形师认证路径，也可转向医疗器械销售或研发。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
+
+Start as junior technician; with experience can advance to senior technician or supervisor; some enter orthotics/prosthetics certification path, or move to medical device sales or R&D.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for standard orthotic design
+- 3D scan patient limbs to obtain basic measurements.
+- Automated sanding and finishing of prosthetic components
+- Generate standardized production reports and inventory records
+
+**Where AI augments the role:**
+
+- AI-driven biomechanical analysis optimizes orthotic design.
+- Machine learning-assisted prediction of prosthetic fit outcomes
+- Using AR/VR to simulate patient walking for plan adjustment
+- Intelligent material parameter recommendations improve component durability
+- Remotely monitor patient wearable data to guide maintenance
+
+**Human moat:**
+
+- Manual fine-tuning of prosthetic alignment to suit individual gait
+- In-depth communication with patients to obtain comfort feedback
+- Handle irregular shapes of complex amputations or deformities
+- Field testing and real-time adjustment of adaptation plans
+- Creative repairs for sudden mechanical failures
+
+**Skills to build:**
+
+- 3D modeling and scanning software (e.g., Meshmixer, Blender)
+- Basic programming and data processing (Python, R)
+- Use of AI biomechanical analysis tools.
+- Materials science knowledge (smart materials, composites)
+- Telemedicine and digital health record management
+- Customer relationship management and communication skills
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease increase
@@ -61,68 +96,67 @@ Construct, maintain, or repair medical supportive devices such as braces, orthot
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要学士学位或同等经验，可用于技师职位，但配额紧张。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 通过PERM劳工认证获得绿卡，适用于有经验的技术人员。 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大或墨西哥公民，但技师不在NAFTA职业列表中，需个案评估。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent experience, can be used for technician positions, but quotas are tight. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Obtain a green card through PERM labor certification, suitable for experienced technicians. |
+| Subclass TN (TN NAFTA Professional) | Applicable only to Canadian or Mexican citizens, but the occupation is not on the NAFTA list; case-by-case assessment required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Appliance Technicians？**
-- 注重细节且动手能力强
-- 有耐心和同理心，善于与患者沟通
-- 愿意持续学习医疗技术与材料
-
-**谁不适合学Medical Appliance Technicians？**
-- 不擅长手工或精细操作
-- 不愿与患者直接交流
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and hands-on
+- Patient and empathetic, good at communicating with patients
+- Willing to continuously learn medical technologies and materials
+
+**Who is not suited**
+- Not skilled at manual or fine operations
+- Unwilling to communicate directly with patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a medical appliance technician?**
+A: Entry-level about $35,000-45,000 AUD, intermediate $45,000-60,000, senior up to $80,000. Salary increases significantly after certification.
+
+**Q: How can international applicants immigrate to the US through this occupation?**
+A: Possibility via H-1B work visa (requires bachelor's degree) or EB-3 green card (requires PERM labor certification). The occupation is open to international talent but competition exists.
+
+**Q: Is ABC certification required?**
+A: Not mandatory, but most employers prefer certified technicians, and certification allows independent practice with higher pay.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Medical Appliance Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for medical appliance technicians?**
-答：Entry-level $35k-$45k, mid-level $45k-$60k, senior up to $80k. Certification boosts earnings.
-
-**问：How can international applicants immigrate through this occupation?**
-答：Via H-1B visa (requires bachelor's) or EB-3 green card (PERM). Open but competitive.
-
-**问：Is ABC certification required?**
-答：Not mandatory, but preferred by employers and leads to higher pay and independent practice.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

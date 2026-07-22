@@ -1,60 +1,96 @@
-# Announcers on Radio, Television and Other Media（Announcers on Radio, Television and Other Media）职业分析 · IE
+# Announcers on Radio, Television and Other Media — career analysis · Ireland
 
-**职业代码：2656 – Announcers on Radio, Television and Other Media。**
+**Occupation code: 2656 (ISCO08)**
 
-Announcers present news, music, weather, and traffic information on radio, television, and other media, playing a key role in content delivery.
+Broadcasters present news, music, weather, traffic and other information on radio, television and other media, serving a key role in content delivery.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：适中（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $15,000~$25,000（爱尔兰国立大学学费，欧盟学生约€3,000-€6,000） |
-| 硕士 | 1-2年（硕士） | $18,000~$30,000（专业方向如广播新闻或媒体制作） |
+| Bachelor's degree | 3 years (bachelor's) | $15,000~$25,000 (National University of Ireland tuition fees, EU students about €3,000-€6,000) |
+| Master's degree | 1-2 years (Master's) | $18,000~$30,000 (Specializations such as broadcast journalism or media production) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播新闻或媒体相关学位 | 爱尔兰大学 | 可选 | 常见要求，非强制但优先 |
-| 广播培训证书 | Broadcasting Authority of Ireland | 可选 | 部分雇主要求 |
+| Degree in broadcast journalism or media | Irish universities | Optional | Common requirement, not mandatory but preferred |
+| Certificate in Broadcast Training | Broadcasting Authority of Ireland | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。爱尔兰媒体行业竞争激烈，但数字媒体和播客的增长为播音员提供了新机会。预计就业增长平稳，岗位多集中在都柏林。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. The Irish media industry is highly competitive, but the growth of digital media and podcasts offers new opportunities for broadcasters. Employment growth is expected to be steady, with most roles concentrated in Dublin.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 税前年薪，小型电台或助理岗 |
-| 中级（3-7年） | $35,000~$55,000 | 中型电台或电视主持 |
-| 高级（8年以上） | $55,000~$80,000 | 大型网络或知名节目主持人 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Pre-tax annual salary, small station or assistant role |
+| Mid-level (3–7 years) | $35,000~$55,000 | Medium-sized radio or television host |
+| Senior (8+ years) | $55,000~$80,000 | Host of a major network or well-known program |
+| average salary | $47,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级播音员可发展为资深播音员、节目主持人或制作人。部分转向数字内容创作或媒体管理。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI will significantly enhance broadcasting efficiency and content production, but human emotion, improvisation, and brand trust remain core values; some tasks like basic reporting face automation pressure.
+
+Junior broadcasters can progress to senior broadcasters, program hosts or producers. Some move into digital content creation or media management.
+
+**Tasks most exposed to AI:**
+
+- Automated press release delivery (e.g., weather, traffic, financial results)
+- Standard voice-over advertisement recording
+- Simple program linking script generation.
+- multilingual simultaneous dubbing
+- Basic sports event live commentary
+
+**Where AI augments the role:**
+
+- AI-assisted real-time prompting and speech speed optimization
+- AI-generated personalized content outlines and interactive scripts
+- Smart noise reduction and sound quality enhancement
+- Adjusting broadcasting style based on audience emotion analysis
+- Automated editing and multi-platform distribution
+
+**Human moat:**
+
+- Impromptu improvisation and sense of humour
+- Deep emotional resonance and trust building
+- Advanced interviews and in-depth commentary
+- Brand personification
+- Human-centric management of crises and emergencies
+
+**Skills to build:**
+
+- AI voice tool operation (e.g. ElevenLabs, Respeecher)
+- Data analysis (audience behavior, content effectiveness)
+- Multimedia content planning and production
+- Social media engagement marketing
+- Advanced Voice Performance and Narrative Techniques
+- Basic English or multilingual ability
+
+**Key growth areas:**
 
 - Digital Media
 - Podcasting
@@ -63,61 +99,63 @@ Announcers present news, music, weather, and traffic information on radio, telev
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需工作offer且年薪不低于€34,000 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, requires a job offer and annual salary not less than €34,000 |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Announcers on Radio, Television and Other Media？**
-- 声音有辨识度且乐于表达
-- 适应非固定工作时间
-- 对媒体行业有热情
+**Who is suited**
+- Voice is distinctive and enjoys expressing oneself
+- Adaptable to non-fixed working hours
+- Passionate about the media industry
 
-**谁不适合学Announcers on Radio, Television and Other Media？**
-- 不愿面对镜头或麦克风
-- 不喜欢高强度竞争
+**Who is not suited**
+- Unwilling to face cameras or microphones
+- Dislike high-intensity competition
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a broadcaster in Ireland?**
+A: Entry-level approximately €25,000-35,000, mid-level €35,000-55,000, senior up to €80,000.
+
+**Q: Can broadcasters apply for an Irish work visa?**
+A: Can apply for a General Employment Permit, but requires an employer to provide a job contract with an annual salary of at least €34,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 适中（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Announcers on Radio, Television and Other Media属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for announcers in Ireland?**
-答：Entry-level €25,000-35,000, mid-level €35,000-55,000, senior up to €80,000.
-
-**问：Can announcers apply for an Irish work visa?**
-答：Yes, via General Employment Permit, requiring a job offer with salary ≥€34,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Manufacturing Manager（Manufacturing Manager）职业分析 · IE
+# Manufacturing Manager — career analysis · Ireland
 
-**职业代码：1321 – Manufacturing Manager。**
+**Occupation code: 1321 (ISCO08)**
 
-Manufacturing managers oversee factory production operations, manage teams, and ensure production targets, quality, and safety standards are met while optimizing resources and costs.
+Manufacturing managers oversee factory production operations, manage teams, ensure production targets, quality, and safety standards are met, while optimizing resources and costs.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $10,000~$20,000（爱尔兰公立大学年学费约€10,000-20,000（欧盟学生较低）） |
-| 硕士 | 1-2年 | $12,000~$25,000（硕士课程年学费约€12,000-25,000） |
+| Bachelor's degree | 4 years | $10,000~$20,000 (Annual tuition at Irish public universities is approximately €10,000-20,000 (lower for EU students)) |
+| Master's degree | 1-2 years | $12,000~$25,000 (Annual master's tuition approx. €12,000-25,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程或相关领域学位 | 爱尔兰高等教育机构 | 必备 | 通常需要工程、商业或相关专业学士学位 |
-| 项目管理认证 | PMI | 可选 | PMP或类似认证有利于晋升 |
-| 健康与安全培训 | 爱尔兰健康与安全局 | 必备 | 基础安全培训是法律要求 |
+| Degree in engineering or related field | Irish higher education institutions | Required | A bachelor's degree in engineering, business, or a related field is typically required |
+| Health and safety training | Health and Safety Authority (Ireland) | Required | Basic safety training is a legal requirement |
+| Project management certification. | PMI | Optional | PMP or similar certification is beneficial for promotion. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。爱尔兰制造业就业前景稳定，尤其在制药、医疗设备和食品领域。政府支持先进制造和绿色转型，预计岗位需求平稳增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. Manufacturing employment prospects in Ireland are stable, especially in pharmaceuticals, medical devices, and food. Government support for advanced manufacturing and green transition suggests steady job demand growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪 |
-| 中级（3-7年） | $55,000~$80,000 | 税前年薪 |
-| 高级（7年以上） | $80,000~$120,000 | 税前年薪，包括奖金 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $55,000~$80,000 | Annual pre-tax salary |
+| Senior (7+ years) | $80,000~$120,000 | Pre-tax annual salary, including bonuses |
+| average salary | $71,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 晋升路径通常从生产主管、生产经理到工厂经理或运营总监。积累经验后可转向供应链管理或企业高管职位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
+
+Career progression usually goes from Production Supervisor to Production Manager to Plant Manager or Operations Director. With experience, can move into supply chain management or executive positions.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and resource allocation optimized in real-time by AI algorithms, replacing manual planning
+- Visual inspection in quality control, replaced by computer vision systems
+- Inventory monitoring and replenishment, automated by IoT and predictive analytics
+- Routine report generation and data analysis, automatically output by AI dashboards.
+- Equipment maintenance reminders and fault diagnosis via sensors and machine learning predictions.
+
+**Where AI augments the role:**
+
+- Production bottleneck analysis and abnormal root cause investigation, AI provides multi-dimensional data support
+- Simulation and effect prediction of lean improvement projects.
+- Supply chain risk warning and response strategy generation.
+- Personalized recommendations for employee skill improvement programs (based on AI assessment).
+- Cross-departmental communication priority sorting (AI-assisted decision-making)
+
+**Human moat:**
+
+- Comprehensive decision-making and emergency command during sudden production interruptions
+- Cross-team, cross-department conflict resolution and team morale building
+- Custom non-standard solution design for client-specific needs
+- Human judgment and accountability in safety compliance
+- Intuition and experiential judgment for hidden issues on production floor
+
+**Skills to build:**
+
+- Data analysis and AI tool applications (e.g., Tableau, Python, AI scheduling software)
+- Basic principles and operation of IoT and Industry 4.0 systems.
+- Lean management and agile production methodologies
+- Digital transformation project management and change management
+- Human-machine collaboration team leadership
+- Basic programming skills (Python or R)
+
+**Key growth areas:**
 
 - Advanced Manufacturing
 - Pharma & Biotech
@@ -64,69 +100,68 @@ Manufacturing managers oversee factory production operations, manage teams, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺技能职业，年薪€32,000以上，可快速获得永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业，年薪需€30,000以上，需劳动市场测试 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需€53,358（2019标准），提供快速家庭团聚 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For shortage skill occupations, annual salary above €32,000, can lead to fast permanent residency |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, annual salary must be over €30,000, requires labor market test |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens; requires an annual salary of €53,358 (2019 standard); offers fast family reunification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Manager？**
-- 有工程或管理背景，善于领导团队
-- 注重效率和质量，能应对压力
-- 希望在爱尔兰稳定就业并寻求移民
-
-**谁不适合学Manufacturing Manager？**
-- 不适应快节奏、高强度生产环境
-- 不喜欢频繁现场巡视和跨部门协调
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineering or management background, skilled at leading teams
+- Focused on efficiency and quality, able to handle pressure.
+- Aiming for stable employment and immigration in Ireland
+
+**Who is not suited**
+- Not suitable for fast-paced, high-intensity production environments
+- Dislikes frequent site inspections and cross-department coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a manufacturing manager in Ireland?**
+A: Average annual salary approximately €55,000-€80,000, with senior managers reaching over €100,000.
+
+**Q: How can non-EU citizens immigrate to Ireland through a manufacturing manager position?**
+A: Can apply through a key skills employment permit (annual salary €32,000+) or a general employment permit; eligible for permanent residence after 2 years.
+
+**Q: What certifications are needed to become a manufacturing manager?**
+A: Usually requires an engineering or related degree; health and safety training is mandatory; PMP or other project management certifications are advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Manufacturing Manager为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a manufacturing manager in Ireland?**
-答：Average annual salary ranges from €55,000 to €80,000, with senior managers earning over €100,000.
-
-**问：How can non-EU citizens immigrate to Ireland as a manufacturing manager?**
-答：They can apply via a Critical Skills Employment Permit (salary above €32,000) or General Employment Permit, with permanent residence possible after 2 years.
-
-**问：What certifications are needed to become a manufacturing manager?**
-答：Typically requires an engineering or related degree; health and safety training is mandatory; project management certifications like PMP are advantageous.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

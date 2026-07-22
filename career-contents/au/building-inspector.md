@@ -1,131 +1,173 @@
-# Building Inspector（Building Inspector）职业分析 · 澳大利亚
+# Building Inspector — career analysis · Australia
 
-**职业代码：312113 – Building Inspector。**
+**Occupation code: 312116 (ANZSCO)**
 
-Building inspectors examine construction sites, residential and commercial buildings to ensure compliance with building codes, regulations, and standards, identify structural defects and safety hazards, and issue inspection reports.
+A Building Inspector conducts compliance inspections at various stages of construction to ensure conformity with the National Construction Code (NCC) and local regulations. The boom in residential construction in Australia has driven demand for licensed inspectors, and with increasing government regulation, the private certifier market is growing rapidly.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育文凭 | 2年 | $10,000~$20,000（公立TAFE费用） |
-| 相关学士学位 | 3-4年 | $30,000~$50,000（大学学费） |
+| Certificate IV in Building and Construction (Building) | 12–18 months | $3,000~$10,000 (TAFE or RTO; lower after subsidies for domestic students) |
+| Building Inspector Licence (issued separately by each state) | Included through study or examination | $400~$1,200 (Licence fees vary by state) |
+| Overseas qualification recognition (Vetassess) | 3–6 months | $800~$1,500 (Skills assessment fee) |
+| WHS White Card | 1 day | $50~$150 (Mandatory on construction sites) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑检查三级证书 | TAFE或RTO | 可选 | 入门级，需工作经验 |
-| 建筑检查四级证书 | TAFE或RTO | 必备 | 常见要求 |
-| 注册建筑检查员 | 州监管机构 | 必备 | 各州要求不同 |
-| 技能评估 | VETASSESS | 可选 | 移民所需 |
+| Certificate IV in Building and Construction | TAFE / RTO | Required | Foundational practising qualifications |
+| State Building Inspector Licence | State-based building regulatory authorities | Required | Mandatory licensed practice |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| Vetassess Skills Assessment | Vetassess | Optional | Overseas qualification migration assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。澳洲建筑行业持续增长，人口增长和基础设施投资推动需求。预计未来五年就业强劲，尤其在城市和偏远地区，受建筑活动水平影响。
+**Job demand: high (★★★★☆).** National workforce approx. 10,000. The HomeBuilder plan (1.2 million homes by 2029) drives high demand for compliance inspections. State building code reforms (NCC 2022/2025 energy efficiency upgrades) expand inspection scope. JSA identifies shortage (2025).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 包括补贴 |
-| 中级（3-8年） | $75,000~$95,000 | 含加班 |
-| 高级（8年以上） | $95,000~$120,000 | 管理层或自雇 |
+| Median salary | $118,560 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Inspector (0–3 years) | $65,000~$85,000 | Local government council |
+| Mid-level Inspector (3–7 years) | $85,000~$110,000 | Seek average approximately $40–$50/hr (2026) |
+| Senior / independent certifier (7+ years) | $110,000~$150,000 | Private certification company or self-employed |
+| Building certifier manager / consultant | $130,000~$180,000 | Large accredited firms or independent practice |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级检查员可通过经验积累晋升为高级检查员、首席检查员或进入地方政府管理层。也可转向建筑项目管理、认证或咨询服务。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Building inspectors face substitution pressure from AI automated checklists and report writing, but on-site physical inspections and legal liability decisions form a moat.
 
-- Infrastructure boom
-- Regulatory demand
-- Safety compliance
-- Urban development
+The Private Building Certifier market is growing rapidly in NSW/QLD/VIC, with licensed inspectors earning strong self-employed incomes. Drone and digital platform-assisted remote inspections are becoming increasingly common.
+
+**Tasks most exposed to AI:**
+
+- Automated review of construction drawings for code compliance
+- Generating standard inspection reports and compliance documents
+- Remote preliminary inspection based on photos and sensors
+- Detecting common structural deviations and material defects
+
+**Where AI augments the role:**
+
+- Remote real-time inspection guidance using AR/VR
+- AI analysis of historical data to predict high-risk areas
+- Drone aerial photography plus AI recognition of roof and facade issues
+- Natural language processing to automatically extract regulatory clauses
+- AI-assisted generation of personalised inspection checklists
+
+**Human moat:**
+
+- Judgment in unstructured field environments
+- Ultimate legal responsibility for building quality and safety
+- Communication and negotiation with contractors and designers
+- Emergency response to accidents and dangerous situations
+
+**Skills to build:**
+
+- Proficiency in building information modeling (BIM) and digital twins
+- Learning to use AI inspection platforms and drone operations
+- Obtaining a private certifier license
+- Improving data analysis and report interpretation skills
+- Learn compliance management and risk management knowledge
+
+**Key growth areas:**
+
+- Residential Building Approvals
+- Commercial Construction Compliance
+- Post-Disaster Structural Assessment
+- Private Building Certifier Market
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需在CSOL上，各州有担保配额 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需2年相关工作经验 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，直接申请需3年经验 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，需在MLTSSL上，分数竞争激烈 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 189 (Skilled Independent) | Points-tested independent migration |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Inspector？**
-- 注重细节且责任感强的人
-- 具备建筑知识和沟通能力的人
-- 喜欢户外和现场工作的人
-
-**谁不适合学Building Inspector？**
-- 不擅长与人沟通或冲突处理的人
-- 畏惧高空或危险环境的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in building construction, engineering supervision or quality inspection, targeting skilled migration to Australia
+- Detail-oriented and thorough, familiar with building codes, and interested in transitioning into compliance inspection
+- Considering future registration as a private certifier, with greater flexibility in self-employed income
+
+**Who is not suited**
+- Completely no construction or building experience (higher barrier to learning the regulations)
+- Poor written reporting skills (inspection reports are a core daily task)
+- Seeking a fast, low-barrier entry into the industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a building inspector in Australia?**
+A: Mid-level building inspectors earn approximately $85,000–$110,000 per year (approx. $40–$50/hr). Self-employed private certifiers can earn $110,000–$150,000+.
+
+**Q: Is it easy for building inspectors to find work in Australia?**
+A: Easy. Residential construction is strong, Seek lists 150–350 positions, and JSA confirms ongoing shortages.
+
+**Q: Is domestic construction supervision experience recognised in Australia?**
+A: Skills assessment through Vetassess is required. Knowledge of NCC or AS building codes will assist with the assessment.
+
+**Q: Will building inspectors be replaced by AI?**
+A: Low. On-site compliance judgement and legal liability require licensed personnel; AI-assisted tools (drones/digital platforms) enhance efficiency rather than replace practitioners.
+
+**Q: Is a university degree required?**
+A: Not required. A Certificate IV is sufficient to enter the field, and those with a construction background can obtain certification quickly.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for building inspectors?**
-答：Entry level around AUD 60,000-75,000, mid-level 75,000-95,000, senior 95,000-120,000 plus benefits.
-
-**问：How can building inspectors immigrate to Australia?**
-答：Through state nomination 190/491 or employer sponsorship 482/186, requiring VETASSESS assessment and relevant experience.
-
-**问：What are the career prospects for building inspectors?**
-答：Driven by construction growth, demand is stable; promotion to senior inspector or management roles is possible.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

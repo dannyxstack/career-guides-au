@@ -1,58 +1,92 @@
-# Drafter and Technical Illustrator（Drafter and Technical Illustrator）职业分析 · ES
+# Drafter and Technical Illustrator — career analysis · Spain
 
-**职业代码：3110 – Drafter and Technical Illustrator。**
+**Occupation code: 3110 (CNO)**
 
-Produces technical drawings using CAD software for architecture, engineering, and manufacturing projects, ensuring accuracy and compliance with specifications.
+Responsible for using CAD software to draw technical drawings, supporting construction, engineering, and manufacturing projects, requiring precise interpretation of design specifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$2,000（公立FP中心费用低，私立约2000欧元/年） |
-| 大学本科（Grado） | 4年（Grado） | $1,000~$6,000（公立大学约1000-2000欧元/年，私立更高） |
+| Higher Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$2,000 (Public FP centers have low fees, while private ones cost about 2000 euros per year) |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$6,000 (Public universities approximately €1,000–2,000 per year, private higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训学位（FP Grado Superior en Dibujo Técnico o similar） | 教育部认可的培训中心 | 必备 | 必须持有相关FP学位或同等学历 |
-| CAD软件认证（如Autodesk Certified Professional） | Autodesk等软件厂商 | 可选 | 非强制但显著提升就业竞争力 |
+| Vocational Training Degree (FP Grado Superior en Dibujo Técnico or similar) | A training center recognized by the Ministry of Education | Required | Must hold a relevant FP degree or equivalent |
+| CAD software certification (such as Autodesk Certified Professional) | Autodesk and other software vendors | Optional | Not mandatory but significantly enhances employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙建筑业复苏和基础设施投资拉动需求，但数字化工具普及部分替代传统岗位。预计未来几年就业稳定，年均空缺约500个。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. The recovery of Spain's construction industry and infrastructure investment are driving demand, but the widespread adoption of digital tools has partially replaced traditional jobs. Employment is expected to remain stable in the coming years, with an average of about 500 vacancies per year.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常含14薪 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，有CAD专项技能者更高 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，可升至项目经理级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, usually including 14 months |
+| Mid-level (3–7 years) | $24,000~$32,000 | Pre-tax annual salary: higher for those with CAD specialized skills |
+| Senior (7+ years) | $32,000~$42,000 | Pre-tax annual salary, with the possibility of promotion to project manager level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为高级绘图员、CAD经理或转向设计工程师。积累经验后也可自雇或成立工作室。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The work of draftsmen and drafters is being reshaped by AI-assisted design tools. While conventional drawing tasks are highly automated, creative coordination and on-site collaboration in complex projects remain the moat.
+
+Promotion can be to senior draftsman, CAD manager, or transition to design engineer. After gaining experience, you can also self-employ or establish a studio.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to draw standard 2D/3D drawings
+- Extract parameters from design specifications and generate blueprints
+- Repetitive drawing modifications and version management
+- Basic technical and dimensional annotation
+
+**Where AI augments the role:**
+
+- AI-assisted rapid generation of design options and sketches
+- Automatically checks drawing conflicts and consistency
+- Real-time collaboration and cloud platform drawing management
+- Parametric modeling and iterative optimization
+- Automatically generate 3D models from point cloud data
+
+**Human moat:**
+
+- Cross-disciplinary coordination and communication of design intent
+- Solving and decision-making for on-site construction issues
+- Innovative spatial layout and aesthetic judgment
+- Industry compliance and safety standard review
+
+**Skills to build:**
+
+- BIM (such as Revit) and parametric modeling
+- AI-assisted design tools (such as Autodesk Forma)
+- Data Analysis and Automation Scripts (Python/Dynamo)
+- Cloud collaboration platforms (such as BIM 360)
+- Sustainable design and green building standards
+- Project management and cross-team communication
+
+**Key growth areas:**
 
 - Infrastructure Projects
 - BIM Modeling
@@ -61,68 +95,67 @@ Produces technical drawings using CAD software for architecture, engineering, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 受雇工作居留，需雇主提供工作合同并证明无法在欧盟内招聘到合适人员 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适用于年薪不低于33,908欧元（2023年标准）的技术岗位，需大学学历或5年相关经验 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 高技能专业人才居留，适用于年薪超过40,000欧元的紧缺职位，流程简化 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | For employed work residence, the employer must provide a work contract and prove that suitable personnel cannot be recruited within the EU |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card applies to technical positions with an annual salary of no less than 33,908 euros (2023 standard), requiring a university degree or 5 years of relevant experience |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Highly skilled professionals residing for in-demand positions with annual salaries over 40,000 euros, with simplified procedures |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Drafter and Technical Illustrator？**
-- 喜欢精确、注重细节，擅长使用CAD软件的技术型人才
-- 愿意从基层技术岗位积累经验，逐步向设计或管理发展的人
-- 对建筑、工程或制造业有浓厚兴趣，愿意接受持续学习
-
-**谁不适合学Drafter and Technical Illustrator？**
-- 不喜欢久坐和重复性电脑工作的人
-- 缺乏耐心，对精确度要求不高的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical talents who enjoy precision, pay attention to detail, and are skilled in using CAD software
+- Individuals willing to accumulate experience from grassroots technical positions and gradually develop into design or management
+- Strong interest in architecture, engineering, or manufacturing, and willingness to engage in continuous learning
+
+**Who is not suited**
+- People who dislike sitting and repetitive computer work
+- People who lack patience and do not require high precision
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for draftsmen in Spain?**
+A: Beginner salaries are about 18,000-24,000 euros per year, intermediate 24,000-32,000 euros, and senior classes up to 42,000 euros per year. Salaries vary greatly depending on region, industry, and experience.
+
+**Q: How can foreigners obtain a Spanish draftsman work visa?**
+A: The most common route is Employed Work Residence (Cuenta ajena), which requires employer sponsorship. Meeting the annual salary requirement allows applicants to apply for an EU Blue Card or High-Skilled Talent residency.
+
+**Q: What career development paths are available for draftsmen?**
+A: You can be promoted to senior draftsman, CAD manager, BIM coordinator, or move to design engineer, project manager, and other positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Drafter and Technical Illustrator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for drafters in Spain?**
-答：Entry-level around €18,000-€24,000/year, mid-level €24,000-€32,000, senior up to €42,000. Varies by region, industry, and experience.
-
-**问：How can foreigners obtain a work visa as a drafter in Spain?**
-答：Most common is employer-sponsored work permit (Cuenta ajena). EU Blue Card or Highly Skilled Professional visa available if salary threshold met.
-
-**问：What are the career progression opportunities for drafters?**
-答：Can advance to senior drafter, CAD manager, BIM coordinator, or transition to design engineer, project manager roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

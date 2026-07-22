@@ -1,60 +1,93 @@
-# Receptionist（Receptionist）职业分析 · IT
+# Receptionist — career analysis · Italy
 
-**职业代码：4226 – Receptionist。**
+**Occupation code: 4226 (ISCO08)**
 
-Responsible for greeting visitors, answering calls, handling mail and basic administrative tasks, serving as the first point of contact for businesses or organizations.
+Responsible for greeting visitors, answering phones, handling emails, and basic administrative tasks; serves as the first point of contact for the organization.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业培训 | 1-2年（职业培训） | —（公立职业培训免费或低成本） |
-| 短期课程 | 3-6个月 | $500~$2,000（私立机构认证课程） |
+| High school / vocational training | 1-2 years (vocational training) | $0~$3,000 (Public vocational training is free or low-cost) |
+| Short-term courses | 3-6 months | $500~$2,000 (Private institution accredited courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 通常雇主提供在岗培训 |
-| 计算机基础证书 | ECDL/ICDL | 可选 | 有助于提升竞争力 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training |
+| Basic Computer Certificate | ECDL/ICDL | Optional | Helps improve competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 120,000。受数字化影响，前台岗位增长缓慢，但旅游和商务服务领域仍有稳定需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Due to digitalization, front desk roles are growing slowly, but there is still steady demand in tourism and business services.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，视地区与行业 |
-| 中级（3-6年） | $22,000~$28,000 | 含经验与管理职责 |
-| 高级（6年以上） | $28,000~$35,000 | 含行政主管或团队领导 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, varies by region and industry |
+| Mid-level (3–6 years) | $22,000~$28,000 | Includes experience and management responsibilities |
+| Senior (6+ years) | $28,000~$35,000 | Including administrative supervisor or team leader |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可晋升为行政主管、客户服务经理，或转向人力资源、活动协调等岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Front desk receptionists are highly dependent on repetitive administrative tasks, and AI voice assistants and self-service systems are rapidly replacing their core responsibilities, leading to a significant decline in job demand.
+
+Can advance to administrative director, customer service manager, or transition to roles such as human resources and event coordination.
+
+**Tasks most exposed to AI:**
+
+- Answer and transfer calls: AI voice assistants can automatically answer, categorize, and transfer.
+- Visitor registration and notification: self-service kiosk and visitor management system for identity verification and notification.
+- Manage appointment calendar: AI scheduling software automatically schedules, updates, and sends reminders.
+- Handle basic email queries: NLP-powered automatic email replies and sorting.
+
+**Where AI augments the role:**
+
+- Handling complex complaints: AI provides historical customer data and solution suggestions to improve processing efficiency.
+- Multilingual reception: real-time translation technology assists communication with foreign visitors.
+- Data analysis and reporting: AI organizes visitor traffic and preferences to generate insight reports.
+- Personalized Service: AI recommends services or arrangements based on visitor history.
+
+**Human moat:**
+
+- Emotional interaction and empathy: provide human care when receiving sensitive or emotional visitors.
+- Crisis management: responding to unexpected situations (such as security threats, medical emergencies) requires human judgment and action.
+- Multitasking: handling multiple complex and unstructured issues simultaneously.
+- Brand image building: Conveying company culture through subtle expressions like smiles and body language.
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic Data Analysis (Excel, BI tools)
+- AI tool collaboration (e.g., ChatGPT-assisted queries)
+- Event planning and support.
+- Online booking and self-service system management
+- Emergency response and safety training
+
+**Key growth areas:**
 
 - limited growth
 - digital transformation
@@ -63,62 +96,64 @@ Responsible for greeting visitors, answering calls, handling mail and basic admi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟劳工，需雇主申请配额，前台岗位通常不属紧缺，获得难度大 |
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历及高薪，前台岗位一般不满足薪资门槛 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requires employer to apply for quota; front office positions are usually not in shortage, making it difficult to obtain. |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and high salary; front-of-house roles generally do not meet the salary threshold |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Receptionist？**
-- 形象好、沟通能力强的人
-- 喜欢与人打交道、多任务处理者
-- 追求稳定工作、不介意重复性任务者
+**Who is suited**
+- People with good appearance and strong communication skills
+- Enjoys interacting with people, multitasker
+- Those seeking stable work and not minding repetitive tasks
 
-**谁不适合学Receptionist？**
-- 厌恶轮班和站立工作的人
-- 希望高薪和快速晋升的人
+**Who is not suited**
+- People who dislike shift work and standing work
+- Those seeking high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for front desk receptionists?**
+A: The pre-tax annual salary for receptionists in Italy is approximately €18,000-35,000, with newcomers typically earning under €20,000, senior roles reaching over €30,000, and higher salaries in the north compared to the south.
+
+**Q: Can a foreigner immigrate to Italy through a front desk position?**
+A: Front desk is not a shortage occupation and has low pay; it's difficult via Decreto Flussi quota or EU Blue Card; more feasible through family reunification or student residence conversion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Receptionist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for receptionists?**
-答：In Italy, the gross annual salary ranges from €18,000 to €35,000, with entry-level often below €20,000 and senior roles up to €35,000, higher in the north.
-
-**问：Can foreigners immigrate to Italy as receptionists?**
-答：Receptionist is not a shortage occupation, and salary is low, making Decreto Flussi quota or EU Blue Card difficult; more feasible via family reunification or student visa conversion.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

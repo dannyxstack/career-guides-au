@@ -1,60 +1,92 @@
-# Visual Artist（Visual Artist）职业分析 · IT
+# Visual Artist — career analysis · Italy
 
-**职业代码：2651 – Visual Artist。**
+**Occupation code: 2651 (ISCO08)**
 
-Visual artists create original artworks using media such as painting, sculpture, photography, etc., working independently or on commission in studios, galleries, or public spaces.
+Visual artists create original artworks using media such as painting, sculpture, and photography, independently or on commission. They typically work in studios, galleries, or public spaces, participating in exhibitions and art projects.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，视家庭收入而定） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（公立大学学费，部分院校更高） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Public university tuition, some institutions higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美术学位 | 意大利大学或美术学院 | 可选 | 常见但非强制，有助于网络和展览机会 |
-| 专业证书 | 行业协会 | 可选 | 如艺术家协会会员，非强制 |
+| Fine arts degree | Italian universities or fine arts academies | Optional | Common but not mandatory, beneficial for networking and exhibition opportunities |
+| Professional Certificate | Industry association | Optional | Such as membership in an artists' association, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 15,000。意大利视觉艺术家就业前景一般，竞争激烈。艺术市场受经济波动影响较大，公共资助有限。数字化转型和艺术跨界合作带来新机会，但整体岗位增长缓慢。
+**Job demand: low (★½☆☆☆).** National workforce approx. 15,000. Employment prospects for visual artists in Italy are average with intense competition. The art market is significantly affected by economic fluctuations, and public funding is limited. Digital transformation and cross-disciplinary art collaborations bring new opportunities, but overall job growth is slow.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$20,000 | 收入不稳定，常需兼职 |
-| 中级（3-7年） | $20,000~$35,000 | 稳定展览和销售 |
-| 高级（7年以上） | $35,000~$60,000 | 知名艺术家收入更高，但上限因人而异 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $12,000~$20,000 | Unstable income, often requires part-time work |
+| Mid-level (3–7 years) | $20,000~$35,000 | Stable exhibitions and sales |
+| Senior (7+ years) | $35,000~$60,000 | Famous artists earn higher incomes, but the ceiling varies by individual |
+| average salary | $30,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 视觉艺术家职业路径非固定，通常从助理起步，积累作品后独立创作，或进入画廊、艺术机构管理岗位。知名艺术家可通过展览、拍卖提升声誉，收入差异大。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI simultaneously replaces and empowers: generative tools can sketch and enhance artwork, but artistic concepts, emotional expression, and originality remain human core competencies; entry barriers rise due to templated design tools, and curation and multimedia skills become key differentiators.
+
+Visual artist career paths are not fixed; they typically start as an assistant, build a portfolio, then work independently, or move into management roles in galleries or art institutions. Well-known artists can gain reputation through exhibitions and auctions, with widely varying incomes.
+
+**Tasks most exposed to AI:**
+
+- Rapid generation of commercial illustrations and concept sketches
+- Photo Retouching and Color Correction
+- Batch production of visual content for social media
+- Repetitive texture filling in traditional painting techniques
+
+**Where AI augments the role:**
+
+- Use AI to generate inspiration materials and reference images
+- Achieve surreal or complex visual styles using AI
+- AI-assisted customisation and iterative proposals for clients
+- Exploring new art forms through generative adversarial networks
+
+**Human moat:**
+
+- Original artistic concepts and cultural narratives
+- Emotional expression and human resonance
+- Cross-media art curation and curatorial skills
+- Personal artistic style and brand
+
+**Skills to build:**
+
+- AI image generation tools (Midjourney, Stable Diffusion)
+- Digital Curation and Online Exhibition Skills
+- AI ethics and copyright law basics
+- Cross-media storytelling (Video/AI/Interactive)
+- Project management and client communication
+
+**Key growth areas:**
 
 - digital art
 - public art
@@ -63,66 +95,68 @@ Visual artists create original artworks using media such as painting, sculpture,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学位及工作合同，年薪门槛约2.4万欧元，艺术家较难满足。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额制，适用于非高技能工作，艺术家需雇主担保，配额有限。 |
-| Subclass Self-Employed Visa（Self-Employment Visa） | 自雇艺术家可申请，需证明有稳定收入和经济实力，审批严格。 |
+| Subclass EU Blue Card (EU Blue Card) | For skilled non-EU citizens, requires a university degree and work contract with an annual salary threshold of about €24,000; artists may find it difficult to meet. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, applicable to non-high-skilled jobs, artists need employer sponsorship, quotas limited. |
+| Subclass Self-Employed Visa (Self-Employment Visa) | Self-employed artists can apply, but need to demonstrate stable income and financial strength; approval is strict. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Visual Artist？**
-- 热爱创作且能承受经济不确定性的艺术人才
-- 具备自我营销和社交能力的人
-- 愿意多领域合作（数字化、公共艺术等）的人
+**Who is suited**
+- Creative talents passionate about creation and able to tolerate economic uncertainty
+- People with self-marketing and social skills
+- People willing to collaborate across multiple fields (digitalization, public art, etc.)
 
-**谁不适合学Visual Artist？**
-- 追求稳定收入和职业路径的人
-- 对竞争和不确定性敏感的人
+**Who is not suited**
+- People seeking stable income and career path
+- People sensitive to competition and uncertainty
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a visual artist in Italy?**
+A: Income varies greatly: junior artists earn about €12,000-20,000 per year, intermediate €20,000-35,000, senior up to €60,000+, but most need part-time jobs.
+
+**Q: How can non-EU citizens move to Italy as visual artists?**
+A: Can apply for a self-employment visa, requiring proof of sufficient income and economic resources, or through the EU Blue Card (high-skilled threshold), but it is more difficult; or try the Decreto Flussi work visa.
+
+**Q: Do you need formal qualifications to become a visual artist?**
+A: Not required, but a university art degree helps with networking and exhibition opportunities. Italian public universities have low tuition fees (about 1,000-4,000 euros/year).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Visual Artist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for visual artists in Italy?**
-答：Income varies greatly; entry-level artists earn about €12,000–20,000, mid-level €20,000–35,000, senior up to €60,000, but many hold side jobs.
-
-**问：How can non-EU citizens move to Italy as visual artists?**
-答：Apply for a self-employment visa (proving sufficient income) or EU Blue Card (high-skill threshold), but it's difficult; also try Decreto Flussi work visa.
-
-**问：Is formal education required to become a visual artist?**
-答：No, but a university art degree helps build networks and exhibition opportunities. Italian public universities charge low fees (€1,000–4,000/year).
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

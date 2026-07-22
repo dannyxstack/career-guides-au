@@ -1,61 +1,97 @@
-# Primary School Teacher（Primary School Teacher）职业分析 · 新西兰
+# Primary School Teacher — career analysis · New Zealand
 
-**职业代码：241213 – Primary School Teacher。**
+**Occupation code: 241213 (ANZSCO)**
 
-Primary school teachers instruct students aged 5-12 in core subjects like English, math, and science, while managing classroom activities. Demand is stable in New Zealand, with eligibility for Green List Tier 2 pathway. Registration with the Teaching Council and language requirements are mandatory.
+Primary school teachers teach and manage classes for students aged 5 to 12, covering core subjects like English, math, and science. Demand is stable in New Zealand, eligible for Green List Tier 2; applicants must register with the Teaching Council and meet language requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3-4年 | $60,000~$140,000（学费因大学和国籍而异（国际生通常更高）） |
-| 硕士学历（可选） | 1-2年 | $30,000~$70,000（有助于快速注册或晋升） |
-| 教学硕士（转换课程） | 1-1.5年 | $35,000~$60,000（针对非教育本科毕业生） |
+| Bachelor's degree | 3-4 years | $60,000~$140,000 (Tuition fees vary by university and nationality (international students usually pay more)) |
+| Master's degree (optional) | 1-2 years | $30,000~$70,000 (Helps with quick registration or promotion) |
+| Master of Teaching (conversion course) | 1-1.5 years | $35,000~$60,000 (For non-education bachelor's graduates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰教师注册 | Teaching Council of Aotearoa New Zealand | 必备 | 必须持有临时注册或完全注册才可任教 |
-| 雅思成绩 | IELTS | 必备 | 总分7.0，单项不低于7.0（或其他认可考试） |
-| 教学学位或同等学历 | 新西兰认可的高等教育机构 | 必备 | 需包含实习教学部分 |
-| 品格审查 | 新西兰警方 | 必备 | 需提供无犯罪记录证明 |
+| New Zealand teacher registration | Teaching Council of Aotearoa New Zealand | Required | Must hold provisional or full registration to teach |
+| IELTS score | IELTS | Required | Overall 7.0, no band below 7.0 (or other recognized tests). |
+| Teaching degree or equivalent | New Zealand accredited higher education institution | Required | Must include a teaching practicum component |
+| Character check | New Zealand Police. | Required | Must provide a police clearance certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。新西兰小学教师长期短缺，尤其是在奥克兰、怀卡托等人口增长区域。预计未来五年岗位增长约5%，但取决于政府教育预算及教师留任率。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. New Zealand primary school teachers are in chronic shortage, especially in population growth areas like Auckland and Waikato. Job growth is projected at about 5% over the next five years, but depends on government education budgets and teacher retention rates.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $54,000~$62,000 | 公立学校统一薪资表，2024年标准 |
-| 中级（4-7年） | $65,000~$78,000 | 根据经验及额外职责增加 |
-| 高级（8年以上或管理岗） | $82,000~$100,000 | 校长或资深教师薪资可达更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $54,000~$62,000 | Public school uniform salary schedule, 2024 standards |
+| Mid-level (4-7 years) | $65,000~$78,000 | Increases with experience and additional responsibilities |
+| Senior (over 8 years or management) | $82,000~$100,000 | School Principals or Senior Teachers can earn higher salaries |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：积极（★★★★☆）。** 新教师通常从永久合同开始，积累经验后可晋升为资深教师、年级组长或副校长。完成硕士学历或获得专业认证可加快晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+New teachers typically start with a permanent contract and can progress to senior teacher, year-level coordinator, or deputy principal with experience. Completing a master's degree or obtaining professional certification can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Primary school teachers instruct students aged 5-12 in core subjects like Englis
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Work to Residence: Green List (Tier 2)） | 从事该职业2年后可申请居民签证，需满足薪资要求 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，硕士学历+工作经验可申请，需薪资达标 |
-| Subclass AEWV（Accredited Employer Work Visa） | 前提获得雇主offer，需认证雇主，适合临时工签 |
+| Subclass Green List T2 (Work to Residence: Green List (Tier 2)) | After two years in the occupation, may apply for a residence visa, subject to salary requirements |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, a master's degree plus work experience can apply, subject to salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Prerequisite: obtain employer offer, need accredited employer, suitable for temporary work visa |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary School Teacher？**
-- 热爱教学、有耐心且善于沟通的人士
-- 希望在稳定职业中获得移民机会的申请者
-- 适应校园团队合作和行政任务的人
-
-**谁不适合学Primary School Teacher？**
-- 不喜欢与儿童长时间相处的人
-- 无法适应高强度文书工作和情绪劳动的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals who love teaching, are patient, and have good communication skills
+- Applicants seeking immigration opportunities in stable careers
+- People suited for campus teamwork and administrative tasks
+
+**Who is not suited**
+- People who dislike spending long periods with children.
+- People who cannot handle high-intensity paperwork and emotional labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for a primary school teacher in New Zealand?**
+A: Beginning teachers earn approximately NZD 54,000-62,000 per year, senior teachers up to NZD 82,000-100,000, depending on collective agreement and school type.
+
+**Q: How can primary school teachers immigrate to New Zealand via the Green List?**
+A: Primary school teachers are on Green List Tier 2, requiring a job with an accredited employer, and can apply for a residence visa after 2 years of work. Also need to complete New Zealand teacher registration.
+
+**Q: How can overseas teachers' qualifications be recognized in New Zealand?**
+A: Need to submit overseas qualifications to the New Zealand Teaching Council for assessment, and may need to complete additional training or internship. IELTS score must be at least 7.0 overall, with no band below 7.0.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 3-4年（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 积极（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Primary School Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a primary school teacher in New Zealand?**
-答：Entry-level teachers earn NZD 54,000-62,000 per year, while senior teachers can earn up to NZD 82,000-100,000, based on collective agreements and school type.
-
-**问：How can primary school teachers migrate to New Zealand via the Green List?**
-答：Primary school teachers are on Green List Tier 2. You need a job with an accredited employer, work for 2 years, then apply for residence. New Zealand teaching registration is required.
-
-**问：How can overseas teaching qualifications be recognized in New Zealand?**
-答：Submit your overseas qualification to the Teaching Council for assessment; you may need additional training or practicum. IELTS score of 7.0 overall with no band below 7.0 is required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

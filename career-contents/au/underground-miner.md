@@ -1,68 +1,95 @@
-# 地下矿工（Underground Miner）职业分析 · 澳大利亚
+# Underground Miner — career analysis · Australia
 
-**职业代码：811511 – Underground Miner。**
+**Occupation code: 811511 (ANZSCO)**
 
-地下矿工（Underground Miner）在地下采矿作业中操作钻机、装载机械和运输设备，执行爆破辅助和支护工作。澳洲WA黄金/镍矿和QLD煤矿持续旺盛，关键矿产（锂/铜）开发带来新增岗位。FIFO收入是全澳最高体力工种之一。
+Underground Miners operate drilling rigs, loading machinery and transport equipment in underground mining operations, carrying out blasting assistance and ground support work. Western Australia's gold/nickel mines and Queensland's coal mines remain in strong demand, with critical minerals (lithium/copper) development creating new positions. FIFO earnings are among the highest of any physical trade in Australia.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate II in Surface Extraction Operations (entry) | 3~6个月 | $1,000~$3,000（入行最快路径） |
-| Certificate III in Underground Metalliferous Mining | 12~24个月（在职） | $2,000~$5,000（雇主通常赞助） |
-| Shot Firer Licence（爆破执照） | 2~4周 | $1,000~$3,000（各州矿监局颁发） |
+| Certificate II in Surface Extraction Operations (entry) | 3–6 months | $1,000~$3,000 (Fastest pathway into the field) |
+| Certificate III in Underground Metalliferous Mining | 12–24 months (on-the-job) | $2,000~$5,000 (Employer typically sponsors) |
+| Shot Firer Licence | 2–4 weeks | $1,000~$3,000 (Issued by the state mining regulator in each jurisdiction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Underground Metalliferous Mining | RTO/TAFE | 必备 | 核心资质 |
-| MR/HR Truck Licence | 各州交通厅 | 必备 | 驾驶矿山车辆 |
-| White Card | 各州SafeWork | 必备 | 施工类必备 |
+| Certificate III in Underground Metalliferous Mining | RTO/TAFE | Required | Core qualifications |
+| MR/HR Truck Licence | State transport departments | Required | Operating mine site vehicles |
+| White Card | SafeWork (each state/territory) | Required | Required for construction roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 35,000。关键矿产战略（锂/钴/铜/镍）驱动新矿山开发，WA地下矿人力需求至2030年持续扩张。自动化（自动掘进机/遥控装载）同时催生机械操作和维护新需求。
+**Job demand: very high (★★★★★).** National workforce approx. 35,000. The critical minerals strategy (lithium/cobalt/copper/nickel) is driving new mine development, with demand for underground miners in WA continuing to expand through to 2030. Automation (autonomous boring machines/remote-controlled loaders) is simultaneously creating new demand for machine operators and maintenance roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: low (★☆☆☆☆).**
+**Work intensity: very high (★★★★★).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 500~1,200 个 | 全国，WA/QLD集中 |
-| Indeed | 250~600 个 | FIFO地下矿工 |
-| LinkedIn | 80~200 个 | 大型矿业集团 |
-
-**竞争度：极低（★☆☆☆☆）。**
-**工作强度：极高（★★★★★）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级矿工（0~2年） | $80,000~$100,000 | Mining Industry Award基础 |
-| 中级矿工（2~6年） | $100,000~$140,000 | WA FIFO年薪均值 |
-| 高级/领班（6年+） | $140,000~$200,000 | 关停期额外收入 |
+| Median salary | $60,008 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Miner (0–2 years) | $80,000~$100,000 | Mining Industry Award base rate |
+| Mid-level miner (2–6 years) | $100,000~$140,000 | WA FIFO average annual salary |
+| Senior / Leading Hand (6+ years) | $140,000~$200,000 | Additional income during shutdown periods |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 自动驾驶地下设备快速普及，但仍需大量一线矿工操作和监督。关停期间（annual shutdown）收入极高。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Underground miners face dual impacts from AI and automation: repetitive operations like drilling and loading will be replaced by automated machinery, but human judgment is still needed for geological change handling, equipment repair, and emergency decisions. Job numbers may shrink but value increase.
+
+Autonomous underground equipment is rapidly becoming widespread, but large numbers of frontline mining workers are still needed for operation and supervision. Earnings during annual shutdowns are exceptionally high.
+
+**Tasks most exposed to AI:**
+
+- Automatic drilling rigs drill along preset paths, with real-time parameter adjustments (e.g., feed rate, angle) controlled by AI
+- Autonomous LHD (Load-Haul-Dump) vehicles for loading and transporting ore in tunnels
+- AI monitors support conditions and automatically installs bolts, reducing manual support work
+- Blast design software automatically generates borehole layouts; blasters only need to perform safety control
+
+**Where AI augments the role:**
+
+- Geological modeling software integrates drilling data, updates ore body models in real time, helping miners locate high-grade zones
+- AR headset overlays tunnel support information to guide manual support work and equipment maintenance
+- Predictive maintenance system (based on sensors and AI) warns of equipment failures in advance, reducing unplanned downtime
+- AI scheduling system optimizes transport routes and ventilation; miners use digital twins to visualize and adjust work plans
+
+**Human moat:**
+
+- On-site judgment and emergency response to sudden geological condition changes (e.g., faults, water inrush)
+- Repair and troubleshooting of complex equipment (e.g., crushers, ventilation fans)
+- Safety protocol execution and risk decision-making, such as directing personnel evacuation when gas concentrations exceed limits.
+- Team collaboration and communication (coordination with other miners, surveyors, engineers)
+
+**Skills to build:**
+
+- Automated system operation and monitoring (remote control centers, SCADA systems)
+- Basic data analysis (interpreting sensor data, production reports)
+- Equipment maintenance and fault diagnosis (electrical, hydraulic, mechanical)
+- Use of digital tools (digital twins, AR-assisted interfaces)
+- Safety and compliance knowledge (DAMS, gas monitoring)
+- Cross-trade communication (collaborating with drillers, blasters, geologists).
+
+**Key growth areas:**
 
 - WA Gold & Nickel Mines
 - QLD Coal Underground
@@ -71,70 +98,67 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 矿业雇主担保 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
-| Subclass 186（ENS） | 永居 |
+| Subclass 482 (Skills in Demand) | Mining employer sponsorship |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
+| Subclass 186 (ENS) | Permanent Residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学地下矿工？**
-- 接受FIFO模式和地下高强度工作环境，追求矿业高薪
-- 有重型机械驾驶或采矿背景，快速进入WA/QLD矿业
-
-**谁不适合学地下矿工？**
-- 有幽闭恐惧或不接受地下作业
-- 不接受FIFO和高危工作环境
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Comfortable with FIFO arrangements and high-intensity underground work environments, seeking high mining salaries
+- Heavy machinery driving or mining background — fast entry into WA/QLD mining
+
+**Who is not suited**
+- Has claustrophobia or is unwilling to work underground
+- Not willing to accept FIFO or high-risk work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an underground miner in Australia?**
+A: Mid-level FIFO underground miner annual salary approx $100,000-$140,000. Senior/supervisor up to $140,000-$200,000, with additional income during shutdowns.
+
+**Q: Is it easy to find work as a miner in Australia?**
+A: Very easy. Mining roles in WA and QLD have consistently large numbers of vacancies, with 500–1,200 positions listed on Seek at any given time — demand far exceeds supply.
+
+**Q: Can I enter the industry without mining experience?**
+A: Yes. Certificate II (3–6 months) is the fastest entry pathway; some mining companies provide on-the-job training directly.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 811511 数据 |
-| Seek AU | Underground Miner 薪资及岗位量 |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | very high (★★★★★) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 极高（★★★★★） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较低（★★☆☆☆） |
-
-地下矿工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲地下矿工工资多少？**
-答：中级FIFO地下矿工年薪约 $100,000~$140,000。高级/领班可达 $140,000~$200,000，关停期额外收入丰厚。
-
-**问：澳洲矿工容易找工作吗？**
-答：非常容易。WA/QLD矿业岗位长期大量空缺，Seek挂牌500~1200个，供不应求。
-
-**问：没有采矿经验可以入行吗？**
-答：可以。Certificate II（3~6个月）是最快入行路径，部分矿业公司直接提供在职培训。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

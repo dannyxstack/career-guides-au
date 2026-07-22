@@ -1,60 +1,93 @@
-# Helpers--Electricians（Helpers--Electricians）职业分析 · 美国
+# Helpers--Electricians — career analysis · United States
 
-**职业代码：47-3013 – Helpers--Electricians。**
+**Occupation code: 47-3013 (SOC)**
 
-Help electricians by performing duties requiring less skill, such as supplying materials and cleaning work areas. Entry-level role in electrical trade.
+Assisting electricians with simple tasks like moving materials and cleaning work areas. Entry-level position in the electrical industry, no experience required.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无需正式教育 | 0 | —（通常高中文凭即可，在职培训） |
-| 学徒前短期培训 | 几周到6个月 | $1,000~$5,000（社区学院或贸易学校提供的电工基础课程） |
+| No formal education required | 0 | $0~$0 (Usually high school diploma required, on-the-job training) |
+| Short pre-apprenticeship training | A few weeks to 6 months | $1,000~$5,000 (Basic electrician courses offered by community colleges or trade schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 中学 | 必备 | 多数雇主要求 |
-| OSHA 10小时建筑安全培训 | OSHA | 可选 | 许多工地要求的安全认证 |
+| High school diploma or equivalent | High school | Required | Most employers require |
+| OSHA 10-hour construction safety training | OSHA | Optional | Safety certification required by many construction sites |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 62,100。预计2023-2033年就业增长5%，与所有职业平均持平，受建筑行业需求驱动。每年约5,500个岗位空缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 62,100. Employment is projected to grow 5% from 2023 to 2033, about as fast as the average for all occupations, driven by demand from the construction industry. About 5,500 job openings per year.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$36,000 | 入门薪资，通常为时薪$14-18 |
-| 中级（3-5年） | $36,000~$45,000 | 部分经验后，可能承担更多职责 |
-| 高级（5年以上） | $40,000~$52,000 | 资深助手或晋升为学徒后薪资更高 |
+| Median salary | $42,670 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–2 years) | $28,000~$36,000 | Entry-level salary, typically $14-18 per hour |
+| Mid-level (3–5 years) | $36,000~$45,000 | After some experience, may take on more responsibilities |
+| Senior (5+ years) | $40,000~$52,000 | Senior assistant or higher pay after promotion to apprentice. |
+| average salary | $44,080 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常晋升为电工学徒，再考取执照成为独立电工，或进一步成为电工主管、项目经理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Electrician assistant as entry-level role with highly repetitive tasks, easily reduced by AI and automation tools (e.g., smart scheduling, remote assistance), leading to fewer positions, but demand for senior electricians remains stable.
+
+Usually promoted to electrician apprentice, then obtain license to become a licensed electrician, or further advance to electrical supervisor, project manager.
+
+**Tasks most exposed to AI:**
+
+- Automated tools and robots handle materials, reducing manual handling
+- AI scheduling systems automatically plan routes and tasks, reducing assistant coordination work
+- Digital lists and automated inventory management reduce manual material recording
+- Remote expert system guides electricians, reducing need for assistants to relay information on site
+
+**Where AI augments the role:**
+
+- AI real-time translation tools help assistants communicate with multilingual teams
+- AR/VR devices overlay working drawings to assist learning circuit layouts
+- Smart wearable devices monitor safety conditions, enhancing workplace safety
+- AI training simulators accelerate skill advancement from assistant to electrician
+
+**Human moat:**
+
+- On-site adaptability, e.g., handling unexpected breakdowns.
+- Fine manual operations, such as connecting complex wiring
+- Safety judgment and emergency response, especially in hazardous environments
+- Interpersonal interaction with clients, communicating and understanding needs
+
+**Skills to build:**
+
+- Basic electrical theory and safety knowledge (e.g., OSHA certification)
+- Uses digital tools and mobile apps to record work.
+- Basic operation of AR-assisted construction equipment
+- Learn basic automation systems (e.g., smart home wiring)
+- Communication and teamwork skills
+- Develop problem-solving and logical analysis skills
+
+**Key growth areas:**
 
 - Construction
 - Renewable energy
@@ -63,62 +96,64 @@ Help electricians by performing duties requiring less skill, such as supplying m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 临时非农业工人签证，适用于季节性建筑工作，但雇主需证明劳工短缺。 |
-| Subclass Green Card (EB-3)（Employment-Based Immigration: Third Preference (EB-3)） | 技术工人、专业人员或其他工人绿卡，但需PERM劳工证，通常要求雇主担保，且该职业不属于专业技术类。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa, suitable for seasonal construction work, but employers must prove labor shortage. |
+| Subclass Green Card (EB-3) (Employment-Based Immigration: Third Preference (EB-3)) | Green card for skilled workers, professionals, or other workers, but requires PERM labor certification, usually employer-sponsored, and this occupation is not in the professional category. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Electricians？**
-- 体力好、喜欢动手的人
-- 希望从零开始进入电工行业的人
-- 不介意学习期间低薪的人
+**Who is suited**
+- People with good physical fitness and a hands-on attitude
+- People who want to start from scratch in the electrical industry
+- People who don't mind low pay during learning period
 
-**谁不适合学Helpers--Electricians？**
-- 追求高薪快速回报的人
-- 不喜体力劳动或户外工作的人
+**Who is not suited**
+- People seeking high salary and quick returns.
+- People who dislike physical labor or outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for electrician assistants?**
+A: Median annual salary around $37,000, entry-level about $30,000, senior can reach over $50,000. Salary varies significantly by region and industry.
+
+**Q: Can an electrician assistant obtain a US green card through skilled migration?**
+A: Very difficult. This occupation is considered low-skilled and typically does not meet the professional position requirements for H-1B or EB-2/EB-3. Only possible through H-2B temporary visa or family immigration routes.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Helpers--Electricians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for helpers--electricians?**
-答：Median annual wage around $37,000; entry-level $30,000; experienced up to $50,000+. Varies by location and industry.
-
-**问：Can helpers--electricians get a US green card through employment?**
-答：Very difficult. This occupation is low-skilled, typically ineligible for H-1B or EB-2/EB-3. Only possible via H-2B temporary visa or family sponsorship.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

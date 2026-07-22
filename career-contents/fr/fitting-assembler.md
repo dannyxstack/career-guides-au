@@ -1,60 +1,95 @@
-# Fitting Assembler（Fitting Assembler）职业分析 · FR
+# Fitting Assembler — career analysis · France
 
-**职业代码：F1604 – Fitting Assembler。**
+**Occupation code: F1604 (ROME)**
 
-Assembles and installs furniture and fixtures in commercial or residential spaces (shops, offices, kitchens), following blueprints for cutting, assembly, and fixing.
+Engaged in the assembly and installation of furniture and fixtures for commercial or residential spaces (such as shops, offices, kitchens), cutting, assembling, and securing according to drawings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制或职业培训 | 2年（CAP） | —（通过学徒合同免费，有薪） |
-| 职业高中文凭 | 2年（Bac Pro） | —（公立学校免费，材料费自理） |
-| 高级技师文凭 | 2年（BTS） | —（公立免费，可申请奖学金） |
+| Apprenticeship or vocational training. | 2 years (CAP) | $0~$1,000 (Through apprenticeship contracts, it is free and paid) |
+| Vocational high school diploma | 2 years (Bac Pro) | $0~$2,000 (Public schools are free; materials are self-paid) |
+| Senior Technician Diploma | 2 Years (BTS) | $0~$3,000 (Public schools are free, and scholarships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 安装工 | 法国教育部 | 可选 | 基础职业资格，强制要求学徒或培训 |
-| Bac Pro 技术员 | 法国教育部 | 可选 | 更深入的技术培训，受雇主青睐 |
-| CQP 资质证书 | 行业分支 | 可选 | 专业领域认证，如厨房安装，非强制但提升就业 |
+| CAP installer | French Ministry of Education | Optional | Basic professional qualifications, mandatory apprenticeship or training |
+| Bac Pro technician | French Ministry of Education | Optional | More in-depth technical training is favored by employers |
+| CQP qualification certificate | Industry branches | Optional | Professional certifications, such as kitchen installation, are non-mandatory but promote employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国建筑业温和增长，绿色建筑和翻新需求稳定。该职业受经济周期影响，但熟练工短缺延续。数字化转型带来新工具，但手工技能仍是核心。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's construction industry is experiencing moderate growth, with stable demand for green buildings and renovations. This profession is affected by economic cycles, but the shortage of skilled workers persists. Digital transformation brings new tools, but manual skills remain at the core.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒工资 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，视地区和企业 |
-| 高级（8年+） | $35,000~$45,000 | 税前年薪，含主管或自雇 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprenticeship wages |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary depends on region and company |
+| Senior (8+ years) | $35,000~$45,000 | Pre-tax annual salary, including supervisors or self-employed |
+| average salary | $24,774 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从装配工晋升为团队主管或项目协调员，也可专攻高端定制或可持续安装。积累经验后可自营或加入专业分包公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Installers and assemblers face high automation risks; AI and robotics will compress basic assembly positions, but on-site customization and complex coordination tasks are still difficult to replace.
+
+You can advance from assembler to team leader or project coordinator, or specialize in high-end customization or sustainable installation. After gaining experience, you can either operate your own or join a professional subcontracting company.
+
+**Tasks most exposed to AI:**
+
+- Repeated cutting and pre-drilling are performed according to standardized drawings
+- Use power tools to batch tighten fasteners (screws, bolts).
+- Align and calibrate prefabricated components of standard dimensions
+- Record and report the quantity and location of completed components
+- Simple fault troubleshooting (such as loose connections) for repeated inspections
+
+**Where AI augments the role:**
+
+- Using AR glasses overlaying digital drawings enables precise positioning and assembly
+- AI quality inspection tools provide real-time feedback and adjustments to assembly errors
+- Collaborative robots are used to carry heavy objects, reducing physical exertion
+- Combined with BIM models, we optimize on-site installation sequence and material scheduling
+
+**Human moat:**
+
+- Ability to visually inspect and adapt non-standard, irregular, or outdated site dimensions
+- Flexible manual adjustments in tight spaces or complex structures
+- Understand clients' customized needs and communicate and modify plans
+- Emergency handling of on-site sudden issues (such as material damage or drawing errors)
+- Ensure a balance between aesthetics and functionality in the final installation
+
+**Skills to build:**
+
+- Digital construction tools (such as Autodesk BIM 360, Tekla)
+- Robot programming and collaboration (such as UR, ABB rapid teaching)
+- Operation of AR/VR-assisted assembly systems
+- Basic data analysis (recording assembly parameters, optimizing processes)
+- Sustainable Material Knowledge (Green Label, Eco-friendly Installation)
+- Client communication and simple project management
+
+**Key growth areas:**
 
 - Green renovation
 - Custom fitting
@@ -63,65 +98,64 @@ Assembles and installs furniture and fixtures in commercial or residential space
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公司，需要工作合同和劳动力市场测试，适合长期就业。 |
-| Subclass Passeport Talent（Talent Passport） | 如果职位属于紧缺职业或高技能，可简化程序，无需劳动力市场测试。 |
-| Subclass Carte bleue UE（EU Blue Card） | 对于高薪（≥53k€）职位，但该职业通常达不到薪资门槛。 |
+| Subclass Salarié (Employee Work Permit) | Employed by a French company, requiring a work contract and labor market test, suitable for long-term employment. |
+| Subclass Passeport Talent (Talent Passport) | If the position is in a shortage occupation or highly skilled, procedures can be simplified without labor market testing. |
+| Subclass Carte bleue UE (EU Blue Card) | For high-paying positions (≥53k€), but these jobs usually do not meet the salary threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fitting Assembler？**
-- 喜欢动手、注重细节的人
-- 愿意学习新技术并从事体力劳动
-- 希望在建筑行业稳定就业
-
-**谁不适合学Fitting Assembler？**
-- 偏好静坐办公室工作者
-- 对体力要求不适应或背部有问题
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Willing to learn new technologies and engage in manual labor
+- Looking for stable employment in the construction industry
+
+**Who is not suited**
+- Preference for sit-down office workers
+- Unable to adapt to physical demands or having back problems
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for installers and assemblers in France?**
+A: Entry-level salary is about €22k-28k, intermediate salary €28k-35k, and senior-pre-tax annual salary €35k-45k.
+
+**Q: How can third-country citizens immigrate to France as installation and assembly workers?**
+A: Typically, through the Salarié work visa, employer sponsorship and labor market testing are required. In cases of shortage, you can apply for Passeport Talent, but you must prove the skill shortage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Fitting Assembler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a fitting assembler in France?**
-答：Entry-level: €22k-28k, mid-level: €28k-35k, senior: €35k-45k gross annual.
-
-**问：How can a third-country national migrate to France as a fitting assembler?**
-答：Typically via Salarié work permit requiring employer sponsorship and labor market test. If in shortage, Talent Passport may be possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

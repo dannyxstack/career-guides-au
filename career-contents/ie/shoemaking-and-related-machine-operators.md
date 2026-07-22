@@ -1,59 +1,93 @@
-# Shoemaking and Related Machine Operators（Shoemaking and Related Machine Operators）职业分析 · IE
+# Shoemaking and Related Machine Operators — career analysis · Ireland
 
-**职业代码：8156 – Shoemaking and Related Machine Operators。**
+**Occupation code: 8156 (ISCO08)**
 
-Operate shoemaking and related machinery to produce footwear, including cutting, stitching, forming, and assembling processes.
+Operate shoemaking and related machinery to produce footwear, including cutting, stitching, forming, and assembly processes.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无特定要求 | —（通常不需要高等教育，在职培训为主） |
-| 职业培训证书 | 1年 | $1,000~$3,000（如FETAC Level 5相关课程） |
+| High school graduation | No specific requirements | $0~$0 (Usually no higher education required, primarily on-the-job training) |
+| Vocational training certificate | 1 year | $1,000~$3,000 (e.g. FETAC Level 5 related course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制证书 | N/A | 可选 | 通常雇主提供在职培训，无需预先取得证书 |
+| No specific mandatory certifications | N/A | Optional | Usually employers provide on-the-job training, no need to obtain certification in advance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 150。爱尔兰制鞋业规模较小，受进口冲击，就业岗位有限。预计未来需求稳定，但自动化可能减少低技能岗位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 150. The Irish footwear industry is small scale, impacted by imports, with limited job opportunities. Demand is expected to remain stable in the future, but automation may reduce low-skilled positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$38,000 | Annual pre-tax salary |
+| average salary | $29,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级操作员可晋升为高级操作员或班组长，少数可转向质量控制或设备维护岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Shoemaking and related machine operators face high risk of automation replacement. AI-driven machine vision and robotic arms can precisely perform cutting, stitching, molding, and assembly, rapidly replacing repetitive manual tasks, leading to significant reduction in job demand.
+
+Junior operators can advance to senior operators or team leaders, with a few moving into quality control or equipment maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Use machine vision for shoe upper cutting and material layout
+- Robot arm automatically completes shoe upper stitching and sole bonding
+- AI controls the pressing and setting process of molding dies
+- Automated quality inspection of finished shoes (size and defect detection).
+- Automation of material handling and sorting
+
+**Where AI augments the role:**
+
+- AI-assisted layout optimization to reduce material waste
+- Real-time data monitoring to predict machine maintenance needs
+- Digital twin simulates production processes for process improvement
+- AI-driven personalized customization of shoe parameter adjustments
+
+**Human moat:**
+
+- Manual adjustments and innovations for complex shoe styles or special materials
+- Coordination of quick changeover and high-mix low-volume production
+- Emergency response and manual repairs during equipment failures.
+- Prototyping capability to develop new processes in collaboration with designers
+
+**Skills to build:**
+
+- Robot operation and programming (e.g., PLC, industrial robot languages)
+- Machine vision system debugging and maintenance
+- Data analysis and smart manufacturing system management
+- CAD/CAM software operation and digital shoe pattern design
+- Equipment preventive maintenance and diagnostic skills
+- Cross-disciplinary learning (mechanical, electronic, software)
+
+**Key growth areas:**
 
 - Automation
 - Imports
@@ -62,64 +96,66 @@ Operate shoemaking and related machinery to produce footwear, including cutting,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需获得工作机会并满足薪资门槛（年薪一般不低于30,000欧元）。 |
+| Subclass General Employment P (General Employment Permit) | For non-shortage occupations, requires a job offer and meeting salary threshold (annual salary generally not less than €30,000). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shoemaking and Related Machine Operators？**
-- 愿意从事制造业体力劳动的人
-- 对制鞋工艺有兴趣的人
-- 接受在职培训无需高学历的人
+**Who is suited**
+- Those willing to engage in manufacturing physical labor
+- People interested in shoemaking techniques.
+- Accepts on-the-job training without requiring high education
 
-**谁不适合学Shoemaking and Related Machine Operators？**
-- 期望高收入或快速晋升的人
-- 寻求高技能移民路径的人
+**Who is not suited**
+- Those who expect high income or rapid promotion
+- People seeking high-skilled migration pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a footwear operator in Ireland?**
+A: Junior operator annual salary approximately €22,000-26,000, senior operator up to €32,000-38,000.
+
+**Q: Can this occupation apply for an Irish work visa?**
+A: Can apply for a general work permit, but this occupation is not a skills shortage; requires employer sponsorship and meeting salary requirements.
+
+**Q: What are the promotion opportunities for a footwear operator?**
+A: Can be promoted to senior operator, team leader, or transition to quality control, equipment maintenance roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Shoemaking and Related Machine Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for shoemaking operators in Ireland?**
-答：Entry-level operators earn around €22,000-€26,000 per year, while senior operators can earn up to €32,000-€38,000.
-
-**问：Can this occupation qualify for an Irish work visa?**
-答：Yes, via a General Employment Permit, but it is not on the Critical Skills list; employer sponsorship and salary thresholds apply.
-
-**问：What career progression opportunities exist for shoemaking operators?**
-答：Operators can advance to senior operator, team leader, or move into quality control or equipment maintenance roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

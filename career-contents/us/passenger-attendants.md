@@ -1,60 +1,96 @@
-# Passenger Attendants（Passenger Attendants）职业分析 · 美国
+# Passenger Attendants — career analysis · United States
 
-**职业代码：53-6061 – Passenger Attendants。**
+**Occupation code: 53-6061 (SOC)**
 
-Provide services to ensure the safety of passengers aboard ships, buses, trains, or within the station or terminal, including explaining safety equipment, serving meals, and answering travel questions.
+serve passengers on ships, buses, trains, or at stations/terminals, ensuring safety, including explaining safety equipment, providing meals or drinks, answering travel-related questions
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立中学免费） |
-| 在职培训 | 1个月 | —（雇主提供短期培训） |
+| High school diploma | 4 years | $0~$0 (Free public secondary school) |
+| On-the-job training | 1 month | $0~$500 (Employer provides short-term training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 美国教育部认可学校 | 必备 | 基本要求 |
-| 安全培训证书 | 雇主 | 必备 | 通常由雇主提供 |
+| High school diploma | Schools accredited by the US Department of Education | Required | Basic requirements |
+| Safety training certificate | Employer | Required | Typically provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 12,000。美国乘客服务员就业预计缓慢增长，受旅游业和公共交通需求影响。自动化和自助服务可能限制岗位增长，但安全相关职责仍需人力。
+**Job demand: low (★★☆☆☆).** National workforce approx. 12,000. Employment for US flight attendants is expected to grow slowly, influenced by tourism and public transport demand. Automation and self-service may limit job growth, but safety-related duties still require human staff.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 兼职或入门岗位 |
-| 中级（3-6年） | $32,000~$42,000 | 全职经验丰富者 |
-| 高级（6年以上） | $38,000~$48,000 | 主管级别 |
+| Median salary | $37,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Part-time or entry-level positions |
+| Mid-level (3–6 years) | $32,000~$42,000 | Full-time experienced person |
+| Senior (6+ years) | $38,000~$48,000 | Supervisor level |
+| average salary | $37,820 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 初级乘客服务员可晋升为组长或主管，部分转向客户服务管理或培训岗位。需积累经验和良好服务记录。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+In the tasks of passenger service agents, information inquiry and food and beverage services will be automated by AI, but safety guidance and interpersonal care still require humans. The overall risk is moderate, and entry-level positions may decrease due to the prevalence of self-service.
+
+Junior passenger service attendants can advance to team leader or supervisor, or move into customer service management or training roles. Requires experience and a good service record.
+
+**Tasks most exposed to AI:**
+
+- Automatically answer common travel questions via chatbots and self-service kiosks
+- Using AI voice systems to automatically broadcast customs and boarding announcements.
+- Automatically verify boarding documents using facial recognition and mobile apps
+- Replaced some food delivery services with vending machines and robots
+- Automatically handling seat changes and upgrade requests through booking system
+
+**Where AI augments the role:**
+
+- Use smart translation devices to communicate more efficiently with multilingual passengers.
+- Identify and quickly respond to passengers with special needs through real-time data analysis tools
+- Using AR headsets to assist in checking safety equipment and demonstrations
+- Use AI prediction tools to optimize crowd flow and shift scheduling
+- Collecting feedback via mobile apps and personalizing services
+
+**Human moat:**
+
+- Ability to handle emergencies and soothe passenger emotions
+- Provides humanized care for elderly or disabled passengers
+- Handling non-standard security anomalies requiring interpretation
+- Team collaboration and on-site coordination decisions
+- Face-to-face trust building and communication skills
+
+**Skills to build:**
+
+- Basic data analysis and AI tool usage (e.g., chatbot maintenance)
+- Cross-cultural communication and language skills
+- Psychology and conflict resolution skills
+- Digital security and privacy protection knowledge
+- Customer experience management and feedback analysis
+- Familiar with accessibility service standards
+
+**Key growth areas:**
 
 - Slow growth
 - Automation risk
@@ -63,65 +99,67 @@ Provide services to ensure the safety of passengers aboard ships, buses, trains,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业通常不需要学士学位 |
-| Subclass EB-3（Employment-Based Third Preference） | 可能适用，但雇主担保困难，非专业职位 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation does not typically require a bachelor's degree |
+| Subclass EB-3 (Employment-Based Third Preference) | May be applicable, but employer sponsorship is difficult, non-professional occupation |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Passenger Attendants？**
-- 喜欢与人交流和服务他人
-- 注重安全细节
-- 适应灵活工作时间
+**Who is suited**
+- Enjoys interacting with and serving others
+- Focus on safety details
+- Adaptable to flexible working hours
 
-**谁不适合学Passenger Attendants？**
-- 追求高薪和高职业发展
-- 厌恶重复性工作
+**Who is not suited**
+- Pursuing high salary and career development
+- Dislikes repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a Passenger Service Agent?**
+A: Junior: approximately $25,000-$35,000 USD/year; senior supervisors up to $48,000 USD/year, but overall salaries are low.
+
+**Q: Can passenger service agents apply for a US work visa?**
+A: Very difficult; this occupation usually does not meet H-1B professional position requirements, and EB-3 green cards also require employer support and proof of labor shortage.
+
+**Q: Are there advancement opportunities for passenger service agents?**
+A: Limited, can advance to team leader or supervisor, or transfer to customer service management, but with a low ceiling.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Passenger Attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for passenger attendants?**
-答：Entry-level around $25,000-$35,000 annually, senior supervisors up to $48,000, but generally low pay.
-
-**问：Can passenger attendants apply for US work visas?**
-答：Rarely, as it is not a specialty occupation for H-1B, and EB-3 requires employer sponsorship and labor certification.
-
-**问：Is there career advancement for passenger attendants?**
-答：Limited; can advance to supervisor or switch to customer service management, but low ceiling.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

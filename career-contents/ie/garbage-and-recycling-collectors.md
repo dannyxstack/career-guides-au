@@ -1,59 +1,95 @@
-# Garbage and Recycling Collectors（Garbage and Recycling Collectors）职业分析 · IE
+# Garbage and Recycling Collectors — career analysis · Ireland
 
-**职业代码：9611 – Garbage and Recycling Collectors。**
+**Occupation code: 9611 (ISCO08)**
 
-Collect garbage and recyclables from residential and commercial areas, operate refuse trucks, ensure timely waste removal, and maintain public sanitation.
+Responsible for collecting garbage and recyclables from urban residential and commercial areas, operating garbage trucks, ensuring timely waste removal, and maintaining public environmental hygiene.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无 | —（通常无需正式学历要求） |
+| Junior high school graduation | None | $0~$0 (Usually no formal qualification requirements) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| C类驾驶执照 | Road Safety Authority | 必备 | 驾驶垃圾车需要 |
-| 废物管理培训 | 雇主或行业协会 | 可选 | 部分雇主提供岗前培训 |
+| Class C driver's license | Road Safety Authority | Required | Driving a garbage truck requires |
+| Waste management training | Employer or industry association | Optional | Some employers provide pre-employment training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。随着环保法规趋严和回收率目标提升，该职业需求稳定，但自动化趋势可能影响长期就业。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. With stricter environmental regulations and higher recycling targets, demand for this occupation is stable, but automation trends may affect long-term employment.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含主管职位 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $35,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从普通收集工晋升为车队主管或废物管理监督员，或通过培训转向回收分拣、环保合规等岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Garbage and recycling collectors face automation risks, especially with autonomous garbage trucks and intelligent sorting systems replacing some driving and sorting tasks, but complex environment operations and customer service still require human labor.
+
+Can advance from general waste collector to fleet supervisor or waste management supervisor, or transition through training to recycling sorting, environmental compliance, etc.
+
+**Tasks most exposed to AI:**
+
+- Driverless garbage trucks will replace manual driving and conventional route planning.
+- Intelligent sorting robots will replace manual sorting of recyclables
+- Sensor and IoT systems automatically monitor bin fill levels
+- Automated scheduling systems will optimize collection routes and frequencies
+- Digital platforms will replace paper records and reports
+
+**Where AI augments the role:**
+
+- AI-assisted route optimization software helps drivers avoid congestion and improve efficiency
+- On-board diagnostic systems enhance vehicle maintenance prediction capabilities.
+- Mobile apps facilitate real-time communication with clients and handling of special needs
+- Smart Helmets and Wearable Devices for Enhanced Safety Monitoring
+- Data analysis tools help managers optimize resource allocation
+
+**Human moat:**
+
+- Emergency response judgment for incidents (e.g., hazardous waste, illegal dumping)
+- Communication and coordination skills with residents and businesses
+- Unstructured operations in complex urban environments (narrow streets, temporary obstacles)
+- On-site repair and debugging skills for equipment failures
+- Regulatory compliance (waste disposal regulations)
+
+**Skills to build:**
+
+- Basic skills for operating and maintaining autonomous garbage trucks
+- Use of intelligent sorting systems and digital platforms
+- Basic data analysis (optimizing routes and collection frequency)
+- Customer service and conflict resolution skills
+- Electronic logging and safety compliance system operation.
+- Basic environmental knowledge (recycling classification regulations)
+
+**Key growth areas:**
 
 - stable demand
 - recycling expansion
@@ -62,64 +98,66 @@ Collect garbage and recyclables from residential and commercial areas, operate r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于30000欧元 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupations in shortage, requires employer sponsorship, annual salary not less than 30,000 euros |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Garbage and Recycling Collectors？**
-- 体力好、能适应户外工作的人
-- 早起且不介意重复性劳动的人
-- 希望快速就业、无学历要求的人
+**Who is suited**
+- People with good physical strength who can adapt to outdoor work
+- Early risers and those who don't mind repetitive tasks
+- People seeking quick employment without academic requirements
 
-**谁不适合学Garbage and Recycling Collectors？**
-- 对气味敏感或无法接受脏活的人
-- 追求高薪和职业晋升空间的人
+**Who is not suited**
+- People who are sensitive to smells or cannot tolerate dirty work
+- People seeking high salary and career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for garbage collectors?**
+A: Entry-level annual salary is approximately 26,000-32,000 euros, senior supervisors can reach 45,000 euros, slightly below the national average.
+
+**Q: Can non-EU residents immigrate to Ireland through this occupation?**
+A: This occupation is not on the Critical Skills Occupation List, making immigration more difficult. You need a standard work permit and must meet the annual salary threshold.
+
+**Q: What is the working environment like for this occupation?**
+A: Mainly outdoor, requires early rising, high physical exertion, hygiene risks from contact with waste, but protective equipment is provided.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Garbage and Recycling Collectors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for garbage collectors?**
-答：Entry-level annual salary ranges from €26,000 to €32,000, while senior supervisors can earn up to €45,000, slightly below the national average.
-
-**问：Can non-EU residents immigrate to Ireland through this occupation?**
-答：This occupation is not on the Critical Skills list, making immigration difficult. It requires a General Employment Permit with a salary threshold.
-
-**问：What is the work environment like?**
-答：Outdoor work, early starts, physically demanding, with hygiene risks from waste, but protective equipment is provided.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

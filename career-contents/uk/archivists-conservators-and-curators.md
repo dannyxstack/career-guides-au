@@ -1,59 +1,95 @@
-# Archivists, conservators and curators（Archivists, conservators and curators）职业分析 · UK
+# Archivists, conservators and curators — career analysis · United Kingdom
 
-**职业代码：2472 – Archivists, conservators and curators。**
+**Occupation code: 2472 (SOC)**
 
-Collect, appraise and preserve collections of recorded and other material of historical interest, managing archives, museum or cultural heritage collections to ensure long-term preservation and accessibility.
+Responsible for collecting, evaluating, and preserving historically valuable records and other materials, managing collections in archives, museums, or cultural heritage institutions, ensuring long-term preservation and accessibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,000~$25,000（英格兰本科年学费） |
-| 硕士学位 | 1年 | $10,000~$25,000（一年制硕士年学费） |
+| Bachelor's degree | 3 years | $9,000~$25,000 (Annual undergraduate tuition fees in England) |
+| Master's degree | 1 year | $10,000~$25,000 (One-year master's annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 档案与记录管理硕士 | 英国大学 | 可选 | 常见入门学位 |
-| ARA认证 | Archives and Records Association | 可选 | 非强制但受青睐 |
-| 博物馆协会认证 | Museums Association | 可选 | 针对策展人 |
+| Master of Archives and Records Management | UK universities | Optional | Common entry-level degree |
+| ARA accreditation | Archives and Records Association | Optional | Not mandatory but preferred |
+| Museum association certification | Museums Association | Optional | For curators |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 12,000。英国文化遗产和档案管理领域需求稳定，受公共资金和数字化项目推动。预计2023-2033年就业增长约5%，略低于平均水平。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. Demand in UK cultural heritage and archive management is stable, driven by public funding and digital projects. Employment is projected to grow about 5% from 2023-2033, slightly below average.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 助理或初级岗位 |
-| 中级（3-8年） | $26,000~$35,000 | 有经验的管理员 |
-| 高级（8年以上） | $35,000~$50,000 | 主管或首席策展人 |
+| Median salary | $34,237 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$26,000 | Assistant or entry-level roles |
+| Mid-level (3–8 years) | $26,000~$35,000 | Experienced administrator |
+| Senior (8+ years) | $35,000~$50,000 | Director or Chief Curator |
+| average salary | $36,514 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从助理或技术员起步，积累经验后可晋升为高级策展人或部门主管。通过获取专业认证（如ARA认证）可提升职业竞争力。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
+
+Usually start as an assistant or technician, and can advance to senior curator or department head with experience. Obtaining professional certifications (e.g., ARA certification) can enhance career competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic classification and indexing: AI automatically assigns metadata tags and classification numbers based on content
+- OCR text recognition and basic proofreading of digital archives
+- Simple keyword-based search and file retrieval
+- Automated monitoring and alerts for routine preservation status
+- Generating standardized descriptions and summaries
+
+**Where AI augments the role:**
+
+- Using AI tools for large-scale archival content mining and correlation analysis
+- Improve accuracy and semantic understanding of archival retrieval through natural language processing
+- Using machine learning to assist in appraising archival value and prioritizing preservation
+- Use automated workflows to accelerate digital restoration and format migration.
+- Uses AI to generate preliminary curation reports and exhibition suggestions
+
+**Human moat:**
+
+- High-level archival appraisal and value judgment (e.g., determining which materials are worth permanent preservation)
+- Handle ambiguous, damaged, or extremely unstructured physical archives.
+- Complex communication and ethical decision-making with donors and researchers.
+- Interdisciplinary knowledge integration and historical background interpretation.
+- Develop and oversee rules and quality assurance of AI systems
+
+**Skills to build:**
+
+- Python data analysis and AI tool integration (e.g., text classification with TensorFlow)
+- Digital curation and metadata standards (e.g., Dublin Core, EAD).
+- Database management and SQL queries
+- Basic statistics and data visualization (for analyzing usage patterns)
+- Project Management and AI Ethics Awareness
+- Familiar with cloud platforms and digital preservation technology
+
+**Key growth areas:**
 
 - Digital preservation
 - Heritage management
@@ -62,65 +98,64 @@ Collect, appraise and preserve collections of recorded and other material of his
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，满足薪资门槛（£30,960）或现行薪资标准，职业在可担保清单上。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在文化遗产领域有杰出成就或潜力者，无需雇主担保。 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可获2年（博士3年）留英工作，无雇主担保要求。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, meeting salary threshold (£30,960) or going rate, and occupation on eligible list. |
+| Subclass Global Talent (Global Talent visa) | Applicable to those with outstanding achievements or potential in the cultural heritage field, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | UK graduates can stay and work for 2 years (3 years for PhD) without employer sponsorship. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Archivists, conservators and curators？**
-- 对历史文化有浓厚兴趣，注重细节和条理的人
-- 具备组织能力和研究技能，擅长数字化管理
-- 愿意在公共或非营利部门工作，追求稳定职业
-
-**谁不适合学Archivists, conservators and curators？**
-- 追求高薪或快速晋升者
-- 不喜欢独立工作或缺乏耐心者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in history and culture, detail-oriented and organized
+- Organizational and research skills, proficient in digital management
+- Willing to work in the public or non-profit sector, pursuing a stable career
+
+**Who is not suited**
+- Those seeking high salaries or rapid career advancement
+- Those who dislike independent work or lack patience.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for an archivist?**
+A: Entry-level approx. £20,000–26,000, mid-level £26,000–35,000, senior £35,000–50,000. Public sector salaries lower; larger institutions or London area slightly higher.
+
+**Q: How can overseas archivists immigrate to the UK?**
+A: Can apply via the Skilled Worker visa (requires employer sponsorship, salary threshold £30,960) or the Global Talent visa (requires evidence of exceptional achievement).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Archivists, conservators and curators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for archivists?**
-答：Entry level around £20,000-26,000, mid-level £26,000-35,000, senior £35,000-50,000. Public sector pays lower; large institutions or London area may be slightly higher.
-
-**问：How can overseas archivists migrate to the UK?**
-答：Via Skilled Worker visa (requires employer sponsorship, salary threshold £30,960) or Global Talent visa (requires proven exceptional talent).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

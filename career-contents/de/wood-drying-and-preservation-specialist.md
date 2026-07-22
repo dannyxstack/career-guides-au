@@ -1,58 +1,93 @@
-# Wood Drying and Preservation Specialist（Wood Drying and Preservation Specialist）职业分析 · DE
+# Wood Drying and Preservation Specialist — career analysis · Germany
 
-**职业代码：2231 – Wood Drying and Preservation Specialist。**
+**Occupation code: 2231 (KldB)**
 
-Responsible for wood drying, preservation treatment, and quality control to ensure wood meets industry standards, commonly found in sawmills and wood processing companies.
+Responsible for wood drying, anti-corrosion treatment, and quality control to ensure wood meets industrial standards; common in sawmills and wood processing companies
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（双元制培训通常免学费，企业提供津贴） |
-| 进修技师 | 1-2年 | $3,000~$10,000（部分费用可获政府补贴或企业资助） |
+| Vocational training (dual system) | 3 years | $0~$5,000 (Dual system training is usually tuition-free, with companies providing allowances) |
+| Advanced Technician | 1-2 years | $3,000~$10,000 (Partial costs can be subsidized by the government or funded by employers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材技术培训证书（Holztechnik） | 德国工商会（IHK） | 必备 | 完成职业培训后获得，是基本资质 |
-| 干燥与防腐专项认证 | 木材行业协会 | 可选 | 部分雇主要求，非强制 |
+| Wood Technology Training Certificate (Holztechnik) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing vocational training, a basic qualification |
+| Certificate in Drying and Corrosion Prevention | Wood Industry Association | Optional | Required by some employers, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 4,500。德国木材加工行业稳定，建筑和家具制造需求持续，但受经济波动影响。自动化和环保法规可能减少低技能岗位，但对技术熟练的专业人员需求仍存。
+**Job demand: medium (★★½☆☆).** National workforce approx. 4,500. The German wood processing industry is stable, with continued demand from construction and furniture manufacturing, but is affected by economic fluctuations. Automation and environmental regulations may reduce low-skilled jobs, but demand for skilled professionals remains.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于企业规模和地区 |
-| 中级（3-7年） | $35,000~$45,000 | 税年前薪，含经验及技师加薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税年前薪，主管或专家级别 |
+| Median salary | $38,928 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (3–7 years) | $35,000~$45,000 | Pre-tax annual salary, including experience and technician pay increases |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $40,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从操作员起步，可晋升为干燥/防腐主管，或通过继续教育成为木材技术专家。部分人转向木材贸易或质量控制领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Timber drying and preservation technicians face risk of automation compression; smart sensors and AI prediction algorithms will take over most environmental monitoring and process control tasks, but on-site operations and decisions still require human intervention.
+
+Starting as an operator, can advance to drying/preservation supervisor, or become a wood technology specialist through further education. Some shift to timber trading or quality control.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor wood moisture content, temperature, and humidity using sensors and AI algorithms, and adjust drying kiln parameters in real time
+- Using computer vision to automatically detect wood surface defects and preservative penetration depth
+- Automatically develops drying and preservation plans based on historical data, and generates production reports
+- Automatically adjust preservative ratios and monitor injection pressure to ensure even penetration
+
+**Where AI augments the role:**
+
+- Use AI to analyze sensor data, optimize drying curves and anti-corrosion process parameters, improving wood quality.
+- Simulates the effects of different treatment plans using digital twin technology to assist process design.
+- Use drones or robots for internal inspection of drying kilns, combined with AI to identify anomalies.
+- Automatically adjust production plans based on market data and inventory forecasts
+- Integrated ERP system tracks each batch processing history in real time, enhancing quality traceability.
+
+**Human moat:**
+
+- On-site judgment and adjustments when handling special or complex wood species
+- Emergency repair and debugging skills for equipment faults
+- Communicate with clients to understand non-standard requirements and provide customized solutions
+- Decision-making ability to handle emergencies (e.g., equipment failure, abnormal wood discoloration)
+- Deep understanding of traditional wood properties combined with process innovation
+
+**Skills to build:**
+
+- Operation and maintenance of IoT sensors and data acquisition systems.
+- Python or R language for basic data analysis and visualization
+- AI/machine learning basics, understanding how predictive models work
+- Use of digital twin software (e.g., AnyLogic or Simulink)
+- Programming and debugging of robots or automated equipment
+- Knowledge of Quality Management System (QMS) and ERP system integration.
+
+**Key growth areas:**
 
 - Wood Construction
 - Sustainability
@@ -61,68 +96,67 @@ Responsible for wood drying, preservation treatment, and quality control to ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历者，薪资门槛较低（非紧缺职业2024年约43,130欧元）。本职业通常需学历匹配，但蓝卡路径存在。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需完成德国认可的职业培训（双元制）或资质认证，雇主担保。本职业可通过此路径。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，2024年推出。符合条件者可来德国找工作，适合本职业有资质认证者。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for those with higher education degrees, with a lower salary threshold (approximately €43,130 in 2024 for non-shortage occupations). This occupation typically requires a matching degree, but the Blue Card route exists. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires completion of a recognized vocational training program (dual system) or qualification in Germany, with employer sponsorship. This occupation is eligible via this pathway. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa, launched in 2024. Eligible individuals can come to Germany to look for a job, suitable for those with certified qualifications in their occupation. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Drying and Preservation Specialist？**
-- 喜欢动手操作、在工业环境中工作的人
-- 注重细节、对木材特性感兴趣的人
-- 愿意接受职业培训并长期从事技术工作的人
-
-**谁不适合学Wood Drying and Preservation Specialist？**
-- 希望高薪或快速晋升的人
-- 不喜欢体力劳动或接触化学药剂的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work in industrial environments
+- Detail-oriented and interested in wood properties
+- Individuals willing to undergo vocational training and engage in technical work long-term
+
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- people who dislike physical labor or exposure to chemicals
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in Germany?**
+A: Annual pre-tax salary approximately 28,000 to 55,000 EUR, depending on experience and region. Salaries in East Germany are typically lower than in West Germany.
+
+**Q: How can non-EU citizens immigrate to Germany through this occupation?**
+A: Must complete a recognised vocational training programme (dual system) in Germany or have overseas qualifications certified. Can apply for a skilled migration visa (Fachkräfteeinwanderungsgesetz) or an Opportunity Card. A Blue Card requires a higher education degree.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can be promoted to drying supervisor or preservation specialist, or become a wood technologist (Meister) through further training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wood Drying and Preservation Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this profession in Germany?**
-答：Gross annual salary ranges from €28,000 to €55,000, depending on experience and region. Eastern Germany typically pays less than Western Germany.
-
-**问：How can non-EU citizens immigrate to Germany through this profession?**
-答：Must complete German-recognized vocational training (dual system) or have foreign qualification recognition. Can apply for Skilled Worker Visa (Fachkräfteeinwanderungsgesetz) or Opportunity Card. Blue Card requires higher education.
-
-**问：Are there promotion opportunities for this profession?**
-答：Yes, you can advance to drying supervisor or preservation specialist, or become a wood technology master (Meister) through further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

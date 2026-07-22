@@ -1,61 +1,96 @@
-# Educational support assistants（Educational support assistants）职业分析 · UK
+# Educational support assistants — career analysis · United Kingdom
 
-**职业代码：6113 – Educational support assistants。**
+**Occupation code: 6113 (SOC)**
 
-Educational support assistants work with teachers to provide one-to-one support for children with particular learning needs, helping them access the curriculum and develop skills.
+Education support assistants work with teachers to provide one-on-one support for children with special learning needs, helping them receive individualised attention in the classroom.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（无强制学历要求，但需通过背景检查） |
-| Level 3 文凭（如CACHE） | 1-2年 | $2,000~$5,000（部分学院提供兼职课程） |
-| 高等教育（可选） | 3年 | $9,000~$15,000（本科学位（如教育研究）可提升竞争力） |
+| High school graduation | 0 years | $0~$0 (No mandatory education requirements, but background check required) |
+| Level 3 diploma (e.g., CACHE) | 1-2 years | $2,000~$5,000 (Some colleges offer part-time courses) |
+| Higher education (optional) | 3 years | $9,000~$15,000 (A bachelor's degree (e.g., in Education Studies) can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证 | N/A | 可选 | 但雇主偏好有相关培训或经验的候选人 |
-| 不良行为披露服务 (DBS) 检查 | DBS | 必备 | 所有学校工作人员必须通过增强版DBS检查 |
-| Level 2/3 教学助理资格 | CACHE / NCFE | 可选 | 常见资格，如支持教与学文凭 |
-| SEN 相关培训 | 地方当局或培训机构 | 可选 | 如自闭症、 dyslexia 培训，非强制但有用 |
+| Disclosure and Barring Service (DBS) check | DBS | Required | All school staff must pass an enhanced DBS check |
+| No mandatory qualification | N/A | Optional | But employers prefer candidates with relevant training or experience. |
+| Level 2/3 teaching assistant qualification | CACHE / NCFE | Optional | Common qualification, such as Certificate in Support for Teaching and Learning. |
+| SEN-related training | Local authorities or training institutions | Optional | Training for autism, dyslexia, etc., not mandatory but useful |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 280,000。英国对教育支持助理的需求稳定，受特殊教育需求 (SEN) 学生数量增长影响，就业前景良好。政府增加教育投入，岗位数量预计缓慢增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 280,000. Demand for education support assistants in the UK is stable, with good employment prospects driven by the increase in students with special educational needs (SEN). Government investment in education is rising, and the number of positions is expected to grow slowly.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 通常按小时计薪，约 £9-11/小时 |
-| 中级（3-5年） | $22,000~$26,000 | 包括高级助教或特殊学校岗位 |
-| 高级（5年以上） | $26,000~$30,000 | 如特殊教育协调员或团队领导 |
+| Median salary | $21,448 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Usually paid hourly, approximately £9-11/hour |
+| Mid-level (3–5 years) | $22,000~$26,000 | Includes senior teaching assistant or special school positions |
+| Senior (5+ years) | $26,000~$30,000 | Such as special education coordinator or team leader |
+| average salary | $23,006 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从兼职或临时岗位起步，积累经验后可晋升为高级助教或特殊教育协调员，部分可转向教师培训路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The role of education support assistant has mixed prospects: AI can assist in generating personalized learning materials and analyzing learning data, but core one-on-one emotional support, behavioral intervention, and trust relationships are difficult to automate.
+
+Usually start from part-time or temporary positions, gain experience and advance to senior teaching assistant or special education coordinator, some may transition to teacher training paths.
+
+**Tasks most exposed to AI:**
+
+- Generates personalized learning plans (based on student data, AI can automatically recommend resources).
+- Track and record student learning progress and behavior data (automated analysis tools replace manual recording)
+- Prepare basic teaching materials and classroom activities (AI generates exercises and lesson plan drafts)
+- Answering common academic questions (chatbot handles standardized queries)
+
+**Where AI augments the role:**
+
+- Using AI analysis to identify student learning barriers and provide targeted interventions.
+- Communicate effectively with non-native English-speaking students using real-time translation tools
+- Using behavioral prediction models to proactively warn of emotional issues and design preventive measures.
+- Teach abstract concepts using VR/AR content
+- Use AI to automatically generate classroom observation reports, saving recording time
+
+**Human moat:**
+
+- Build deep trust relationships with students and provide emotional support.
+- Non-standardized intervention for handling sudden behavioral crises and emotional breakdowns
+- Flexible use of multisensory teaching strategies (e.g., touch, movement).
+- Communication and coordination skills for collaborating with parents and multidisciplinary teams
+- Intuitive judgment of subtle individual changes in students with special educational needs
+
+**Skills to build:**
+
+- Educational data analysis (learning diagnostics, progress tracking tools)
+- AI-assisted teaching tools (e.g., adaptive learning platforms)
+- Behavioral Intervention Techniques (Positive Behavior Support)
+- Accessibility and assistive technology (communication devices, sensory support tools)
+- Emotion recognition and social skills training
+- Cross-team collaboration and case management
+
+**Key growth areas:**
 
 - Special Educational Needs
 - Inclusive Education
@@ -64,68 +99,67 @@ Educational support assistants work with teachers to provide one-to-one support 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业在可担保职业列表中，但薪资门槛通常高于实际工资，雇主担保较难获得。 |
-| Subclass Graduate（Graduate Visa） | 适合在英国完成学位的毕业生，可工作2年（博士3年），无担保要求。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme） | 对18-30岁特定国家公民开放，可工作2年，无需雇主担保。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the sponsorship list, but the salary threshold is usually higher than the actual wage, making employer sponsorship difficult. |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates completing a degree in the UK, allowing 2 years of work (3 years for PhD), no sponsorship required. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme) | Open to citizens of specific countries aged 18-30, allows work for 2 years, no employer sponsorship required. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Educational support assistants？**
-- 有耐心、善于与儿童沟通的人
-- 对特殊教育需求（SEN）感兴趣的人
-- 寻求兼职或灵活工作时间的人
-
-**谁不适合学Educational support assistants？**
-- 追求高薪职业的人
-- 希望快速晋升的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are patient and good at communicating with children
+- People interested in special educational needs (SEN)
+- For those seeking part-time or flexible working hours
+
+**Who is not suited**
+- People pursuing high-paying careers
+- Those seeking rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for education support assistants?**
+A: Junior annual salary approximately £18,000-22,000; senior up to £30,000; usually paid hourly at about £9-12/hour.
+
+**Q: Can an education support assistant migrate to the UK on a work visa?**
+A: Theoretically eligible for Skilled Worker visa, but salary threshold (currently approx. £25,600) is usually higher than actual wages, making employer sponsorship difficult. Graduate visa or Youth Mobility Scheme more feasible.
+
+**Q: What is the career progression path for this occupation?**
+A: Can advance to senior teaching assistant, special education coordinator, or become a qualified teacher through teacher training
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Educational support assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for educational support assistants?**
-答：Entry-level salary is around £18,000-22,000 per year, senior roles can reach £30,000, often paid hourly at £9-12.
-
-**问：Can educational support assistants immigrate to the UK via work visa?**
-答：Theoretically eligible for Skilled Worker visa, but salary threshold (currently £25,600) is often above actual wages, making employer sponsorship difficult. Graduate or Youth Mobility schemes are more viable.
-
-**问：What is the career progression?**
-答：Can progress to senior teaching assistant, SEN coordinator, or train as a qualified teacher.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

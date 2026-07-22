@@ -1,60 +1,89 @@
-# Journalists and Other Writers nec（Journalists and Other Writers nec）职业分析 · 新西兰
+# Journalists and Other Writers nec — career analysis · New Zealand
 
-**职业代码：212499 – Journalists and Other Writers nec。**
+**Occupation code: 212499 (ANZSCO)**
 
-Journalists and Other Writers nec in New Zealand create content for newspapers, magazines, and online platforms. They can migrate via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but are not on the Green List.
+Journalists and other unclassified writers create content in New Zealand for newspapers, magazines, and online platforms, writing articles, reviews, or features. This occupation can lead to migration via the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on the Green List and requires employer support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科学位 | 3年 | $30,000~$45,000（例如奥克兰大学传播学学士） |
-| 研究生文凭 | 1年 | $20,000~$35,000（如怀卡托大学创意写作研究生文凭） |
-| 硕士 | 1-2年 | $40,000~$60,000（如梅西大学新闻学硕士） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (e.g., Bachelor of Communication from the University of Auckland) |
+| Graduate diploma | 1 year | $20,000~$35,000 (such as the University of Waikato Graduate Diploma in Creative Writing) |
+| Master's degree | 1-2 years | $40,000~$60,000 (e.g., Master of Journalism at Massey University) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 传播学或新闻学本科学位 | 新西兰大学 | 可选 | 普遍要求 |
-| 雅思总分6.5以上 | 剑桥/IDP | 必备 | 移民语言要求 |
-| 工作经验证明 | 雇主 | 必备 | 通常需2年相关经验 |
+| Overall IELTS score of 6.5 or above | Cambridge/IDP | Required | Immigration language requirement |
+| Work experience certificate | Employer | Required | Usually requires 2 years of relevant experience |
+| Bachelor's degree in Communications or Journalism | New Zealand universities | Optional | Commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,400。新西兰媒体行业就业增长平稳，数字化内容创作需求增加，但传统媒体岗位减少。预计未来五年从业人数小幅增长，竞争中等，机会主要在奥克兰、惠灵顿等城市。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,400. Employment growth in New Zealand's media industry is steady, with increasing demand for digital content creation, but traditional media jobs are declining. The number of practitioners is expected to grow slightly over the next five years, with moderate competition. Opportunities are mainly in cities like Auckland and Wellington.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 入门级，通常含培训 |
-| 中级（3-7年） | $60,000~$85,000 | 资深撰稿人或专题记者 |
-| 高级（7年以上） | $90,000~$120,000 | 编辑、专栏作家或内容主管 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Entry-level, usually includes training |
+| Mid-level (3–7 years) | $60,000~$85,000 | Senior Writer or Feature Reporter |
+| Senior (7+ years) | $90,000~$120,000 | Editor, columnist, or content director |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展路径：初级记者/撰稿人→高级记者/专栏作家→编辑/内容主管。也可转向数字营销、公关、出版等岗位，或成为自由职业者。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
+
+Career path: junior reporter/writer → senior reporter/columnist → editor/content director. Also possible to move into digital marketing, PR, publishing, or become a freelancer.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard news briefs (e.g., financial reports, sports scores)
+- Speech-to-text and automatic subtitle generation
+- Fact-checking and data reconciliation (e.g., verifying statistical data)
+
+**Where AI augments the role:**
+
+- AI-assisted data analysis and visualization (quickly identify trends)
+- AI-recommended topics and audience preference prediction
+- AI compiles multilingual information summaries
+
+**Human moat:**
+
+- Exclusive interviews and in-depth investigations (interpersonal insight and trust)
+- Ethical judgment and sensitive issue gatekeeping
+- Creative storytelling (features, commentary)
+
+**Skills to build:**
+
+- Data journalism (Python/R/data visualization)
+- Multimedia production (video/podcast editing)
+- AI tool applications (e.g., ChatGPT-assisted writing)
+- Fact-checking and information verification
+- Audience Analysis and Digital Marketing
+
+**Key growth areas:**
 
 - Digital Content
 - Freelance
@@ -63,68 +92,67 @@ Journalists and Other Writers nec in New Zealand create content for newspapers, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 技术移民，需满足6分制，包括学历、工作经验等。职业在ANZSCO Skill Level 1-3，需工资中位数以上（目前约$29.66/小时）。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保，工资不低于中位数，可转居留但无捷径。 |
-| Subclass Green List T2（Green List Tier 2） | 该职业不在绿色清单上，不适用。 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration, requires meeting the 6-point system, including qualifications, work experience, etc. Occupation must be at ANZSCO Skill Level 1-3, with a wage above the median (currently about $29.66/hour). |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa requires employer sponsorship, salary not below the median, can lead to residency but no shortcuts. |
+| Subclass Green List T2 (Green List Tier 2) | This occupation is not on the Green List and is not applicable. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Journalists and Other Writers nec？**
-- 擅长写作和内容创作，有新闻或传播学背景
-- 接受初入职场可能薪资较低，能适应数字媒体节奏
-- 愿意学习新媒体技能，如SEO、社交媒体运营
-
-**谁不适合学Journalists and Other Writers nec？**
-- 追求稳定高薪，不愿接受灵活或自由职业工作
-- 对移民时间敏感，希望快速获得居留权
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled in writing and content creation, with a background in journalism or communication studies
+- Accept that starting salaries may be low and adapt to the pace of digital media
+- Willing to learn new media skills such as SEO and social media operations
+
+**Who is not suited**
+- Seeking stable high income, unwilling to accept flexible or freelance work
+- Time-sensitive for immigration, hoping to obtain residency quickly
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a journalist or writer in New Zealand?**
+A: Junior salary approx. NZD 45k–55k/year, intermediate NZD 60k–85k, senior NZD 90k–120k. Freelancers have unstable income, usually paid per article.
+
+**Q: Is this occupation easy to immigrate to New Zealand?**
+A: Not easy. The occupation is not on the Green List and requires SMC skilled migration, meeting a 6-point system and earning above the median wage. Usually requires employer sponsorship and more than 2 years of work experience.
+
+**Q: How does digital media affect traditional journalists?**
+A: Traditional print media roles are declining, but demand for digital content creation, video production, and SEO writing is increasing. Journalists need to transition and learn multimedia skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Journalists and Other Writers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for journalists and writers in New Zealand?**
-答：Entry-level positions earn NZ$45,000-55,000 per year, mid-level NZ$60,000-85,000, senior NZ$90,000-120,000. Freelancers have variable income.
-
-**问：Is it easy to immigrate to New Zealand as a journalist or writer?**
-答：Not easy. It's not on the Green List; you need SMC with 6 points and median wage. Usually requires employer sponsorship and 2+ years experience.
-
-**问：How does digital media affect traditional journalists?**
-答：Print media roles decline, but demand for digital content, video production, and SEO writing increases. Journalists need to adapt with multimedia skills.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

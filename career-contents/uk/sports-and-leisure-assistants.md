@@ -1,61 +1,96 @@
-# Sports and leisure assistants（Sports and leisure assistants）职业分析 · UK
+# Sports and leisure assistants — career analysis · United Kingdom
 
-**职业代码：6211 – Sports and leisure assistants。**
+**Occupation code: 6211 (SOC)**
 
-Sports and leisure assistants provide and maintain facilities for sporting and recreational activities, supervise their use, ensure continuity of entertainment and social events, offer odds and accept bets, control gambling activities, and support production and broadcasting operations behind the scenes.
+A Sports and Leisure Assistant provides, maintains, and supervises facilities used for sporting and recreational activities, ensuring continuity of entertainment and social activities, offering betting odds and accepting bets, controlling gambling activities, and providing backstage support in production and broadcasting enterprises to ensure smooth operations.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（通常在职学习，无需学费） |
-| 体育或休闲管理文凭 | 1-2年 | $5,000~$10,000（英国继续教育学院或私立院校） |
+| High school diploma | 2 years | $0~$0 (Typically on-the-job learning with no tuition fees) |
+| Diploma of Sport or Recreation Management | 1-2 years | $5,000~$10,000 (UK further education colleges or private institutions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 英国红十字会或圣约翰急救 | 必备 | 多数雇主要求 |
-| 体育教练资格 | 英国体育教练协会 | 必备 | 特定岗位要求 |
-| 休闲管理文凭 | 英国体育与休闲管理协会 | 可选 | 有助于晋升 |
+| First aid certificate | British Red Cross or St John Ambulance first aid | Required | Most employers require |
+| Sports coaching qualification | UK Coaching (formerly UK Sports Coaching Association) | Required | Specific job requirements |
+| Diploma in Leisure Management | UK Sports and Leisure Management Association | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。英国体育休闲行业就业前景稳定，受全民健身意识提升和大型体育赛事推动，预计岗位需求缓慢增长。但受经济波动影响，休闲支出可能减少，就业竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. The UK sports and leisure industry has stable employment prospects, driven by increasing health awareness and major sports events, with expected slow growth in job demand. However, leisure spending may decrease due to economic fluctuations, and competition for jobs is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 小时制，约9-11英镑/小时 |
-| 中级（3-7年） | $22,000~$28,000 | 含晋升为主管或高级助理 |
-| 高级（7年以上） | $28,000~$35,000 | 设施经理或区域主管 |
+| Median salary | $26,934 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Hourly, about £9-11 per hour |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes promotion to supervisor or senior assistant |
+| Senior (7+ years) | $28,000~$35,000 | Facility manager or regional supervisor. |
+| average salary | $28,005 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级助理可晋升为团队主管或设施经理，也可转向专业领域如健身教练、活动协调员。部分通过进修获得体育科学学位后进入管理或教练角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure of sports and leisure assistants faces automation risks (e.g., betting odds calculation, facility monitoring), but interpersonal interaction and on-site management are hard to replace; AI enhances customer experience and operational efficiency, creating mixed prospects requiring proactive skill upgrades.
+
+Junior assistants can advance to team supervisor or facility manager, or move into specialist areas like fitness instructor or event coordinator. Some pursue a sport science degree through further study to enter management or coaching roles.
+
+**Tasks most exposed to AI:**
+
+- Provide betting odds and accept wagers (can be replaced by algorithms and automated systems)
+- Controlling gambling activities (facial recognition and AI monitoring replace manual patrols)
+- Facility usage monitoring (sensors and automated management systems reduce labor)
+- Basic customer inquiries (replaced by chatbots and self-service kiosks)
+
+**Where AI augments the role:**
+
+- Personalized customer recommendations (AI analyzes preferences, assistant provides customized services)
+- Dynamic activity planning (AI predicts engagement, assistant adjusts schedule)
+- Safety and Health Monitoring (AI Risk Detection, Rapid Assistant Response)
+- Data-driven operational optimization (AI analyzes usage patterns to assist decision-making).
+- Multilingual customer support (AI translation-assisted, broader communication for assistants)
+
+**Human moat:**
+
+- On-site interpersonal interaction and emotional support
+- Judgment and response in emergency situations
+- Creative activity design and improvisation
+- Ethical decision-making in high-risk or sensitive situations
+- Multitasking and client relationship management
+
+**Skills to build:**
+
+- AI tool application (e.g., using ChatGPT for customer communication)
+- Data analysis and interpretation (using Excel, Tableau)
+- Digital marketing and social media management
+- Fitness and Activity Planning Certification (e.g., CIMSPA)
+- Customer experience design (service blueprint)
+- Basic programming (Python for automating repetitive tasks)
+
+**Key growth areas:**
 
 - Fitness
 - Recreation
@@ -64,65 +99,67 @@ Sports and leisure assistants provide and maintain facilities for sporting and r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 该职业不在技术工人签证可担保职业清单上，通常无法申请。 |
-| Subclass Graduate（Graduate Visa） | 适合在英国获得学位的毕业生，允许工作2年（博士3年），无职业限制。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | This occupation is not on the skilled work visa occupation list and is generally not eligible for application. |
+| Subclass Graduate (Graduate Visa) | Suitable for graduates who obtained their degree in the UK, allowing 2 years (3 years for PhD) of work with no occupation restrictions. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports and leisure assistants？**
-- 热爱体育和休闲活动的人
-- 喜欢与人打交道、提供客户服务的人
-- 寻求无需高学历的入门级工作的人
+**Who is suited**
+- Individuals who love sports and leisure activities
+- People who enjoy interacting with others and providing customer service
+- People seeking entry-level jobs without requiring high education
 
-**谁不适合学Sports and leisure assistants？**
-- 追求高薪职业的人
-- 不喜欢倒班和周末工作的人
+**Who is not suited**
+- People pursuing high-paying careers
+- Those who dislike shift work and weekend work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a Sport and Recreation Assistant?**
+A: Annual salary for entry-level positions is approximately £18,000-22,000, mid-level £22,000-28,000, and senior up to £35,000. Salary is affected by location, employer, and responsibilities.
+
+**Q: Can I immigrate to the UK for this occupation via a work visa?**
+A: This occupation is not on the skilled worker visa sponsorship list, so employer-sponsored migration is generally not possible. Only pathways like graduate visa or youth mobility scheme are available.
+
+**Q: What career development opportunities are available in this occupation?**
+A: Can progress to roles such as recreation centre manager, event coordinator, or fitness instructor. Further study in sports management can lead to senior management positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sports and leisure assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sports and leisure assistants?**
-答：Entry-level salaries range from £18,000 to £22,000 per year, mid-level £22,000-£28,000, and senior positions up to £35,000. Salary varies by location, employer, and responsibilities.
-
-**问：Can I migrate to the UK for this job via a work visa?**
-答：This occupation is not on the eligible list for the Skilled Worker visa, so employer sponsorship is not typical. Only routes like the Graduate visa or Youth Mobility Scheme are available.
-
-**问：What are the career progression opportunities?**
-答：Opportunities include promotion to leisure center manager, event coordinator, or fitness instructor. Further education in sports management can lead to senior management roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,95 @@
-# Buyers and Purchasing Agents, Farm Products（Buyers and Purchasing Agents, Farm Products）职业分析 · 美国
+# Buyers and Purchasing Agents, Farm Products — career analysis · United States
 
-**职业代码：13-1021 – Buyers and Purchasing Agents, Farm Products。**
+**Occupation code: 13-1021 (SOC)**
 
-Purchase farm products for further processing or resale, including tree farm contractors, grain brokers, and tobacco buyers; negotiate contracts.
+Purchasing agricultural products for further processing or resale, including timber contractors, grain brokers, tobacco buyers, etc., responsible for negotiating contracts and executing procurement strategies.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$120,000（公立大学约4万-8万，私立大学约8万-12万） |
-| 副学士学位 | 2年 | $15,000~$40,000（社区大学费用较低） |
-| 高中文凭+职业培训 | 1年 | $5,000~$15,000（短期证书课程） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities about A$40,000-80,000, private universities about A$80,000-120,000) |
+| Associate degree | 2 years | $15,000~$40,000 (Community college costs less) |
+| High school diploma plus vocational training | 1 year | $5,000~$15,000 (Short-term certificate courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农产品采购认证 | Institute for Supply Management | 可选 | C.P.M. 或 CPSM 认证可提升竞争力 |
-| 农业商业学位 | 大学 | 可选 | 农业经济学或商业管理学位受雇主青睐 |
-| 驾照 | 州DMV | 必备 | 需经常出差考察农场和仓库 |
-| 许可证（谷物/烟草） | USDA或州农业部门 | 必备 | 特定农产品需持有联邦或州许可证 |
+| Driver's license | State DMV | Required | Requires frequent travel to inspect farms and warehouses |
+| License (grain/tobacco) | USDA or state agricultural department | Required | Specific agricultural products require federal or state licenses |
+| Agricultural product procurement certification | Institute for Supply Management | Optional | C.P.M. or CPSM certification can enhance competitiveness |
+| Bachelor of Agribusiness | University | Optional | Degrees in agricultural economics or business administration are preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,500。美国农产品采购代理就业预计增长2%-4%，与农业及食品加工业需求挂钩。全球化贸易和有机产品趋势带来机会，但自动化可能影响部分职能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,500. US agricultural product purchasing agent employment is expected to grow 2%-4%, tied to demand in agriculture and food processing. Global trade and organic product trends offer opportunities, but automation may affect some functions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$55,000 | 起薪较低，随经验增长 |
-| 中级（3-7年） | $55,000~$75,000 | 多数从业者薪资在此范围 |
-| 高级（7年以上） | $75,000~$110,000 | 资深代理或经理薪资更高 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $38,000~$55,000 | Starting salary is low, increases with experience. |
+| Mid-level (3–7 years) | $55,000~$75,000 | Most practitioners' salaries fall within this range |
+| Senior (7+ years) | $75,000~$110,000 | Senior agent or manager earns higher salary |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级岗位可从采购助理或合同管理员做起，积累经验后晋升为资深采购代理或采购经理。部分人可转向供应链管理或农业咨询领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
+
+Entry-level roles start as purchasing assistant or contract administrator, progressing to senior procurement officer or procurement manager. Some may transition to supply chain management or agricultural consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically Analyze Public Property Data, Generate Market Reports and Comparable Sales Analysis
+- Automatically filtering property listings that match client criteria.
+- Basic clerical work, such as contract drafting and document filing
+- Initial customer inquiries and communication via chatbots
+
+**Where AI augments the role:**
+
+- Using AI tools for in-depth data analysis to quickly identify investment opportunities and market trends
+- Using AI to generate personalized property valuation models and investment reports
+- Enhance client communication efficiency and follow-up automation through CRM systems and AI chatbots
+- Virtual property tours and remote assessments to expand service coverage
+
+**Human moat:**
+
+- Build long-term client trust and reputation through relationship-based referral business
+- Complex negotiation strategies and psychological tactics, especially in multi-party bidding or difficult deals
+- On-site property inspection and detail insights (structure, community factors)
+- Experience-based judgment for non-standard properties (such as inherited properties, auction properties)
+
+**Skills to build:**
+
+- Data analysis and visualisation (Python, Tableau, Power BI)
+- AI tool applications (AI-driven valuation models, chatbots)
+- Customer relationship management (CRM systems and automated marketing)
+- Advanced negotiation skills and conflict resolution
+- Legal and compliance knowledge (state conveyancing regulations)
+- Digital marketing and social media customer acquisition skills
+
+**Key growth areas:**
 
 - Global Trade
 - Organic Food
@@ -66,66 +98,68 @@ Purchase farm products for further processing or resale, including tree farm con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需本科以上学历，由雇主申请，有配额限制 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需至少2年培训/经验，通过PERM劳工认证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无法找到合格美国工人，耗时较长 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or higher, applied by the employer, with quota limits |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years training/experience, through PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate inability to find qualified US workers; time-consuming |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Buyers and Purchasing Agents, Farm Products？**
-- 对农业和商品市场有浓厚兴趣的人
-- 擅长谈判和建立长期合作关系的人
-- 能适应频繁出差和户外工作环境的人
+**Who is suited**
+- Someone with strong interest in agriculture and commodity markets
+- Person skilled in negotiation and building long-term partnerships
+- People who can adapt to frequent travel and outdoor work environments
 
-**谁不适合学Buyers and Purchasing Agents, Farm Products？**
-- 不喜欢出差或不适应农业环境的人
-- 对价格波动和不确定性焦虑的人
+**Who is not suited**
+- People who dislike travel or are not suited to agricultural environments
+- People anxious about price fluctuations and uncertainty
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for agricultural procurement agents?**
+A: Salary varies by region, experience, and company size. Entry-level annual salary is about 38,000-55,000 USD, mid-level 55,000-75,000, senior up to 110,000. Large food companies and grain trading firms pay higher.
+
+**Q: Is this occupation easy for US work visa or green card applications?**
+A: Difficult. This occupation is typically not considered a professional role (H-1B requirement); EB-3 green card requires PERM labor certification, where employers must demonstrate inability to find qualified local workers. Consider agricultural management or supply chain roles.
+
+**Q: How to enter this industry?**
+A: Typically requires a degree in agricultural business or related field, or starting as a purchasing assistant. Accumulating farm or food processing experience and obtaining procurement certification (e.g., CPSM) can increase opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Buyers and Purchasing Agents, Farm Products属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for farm product buyers?**
-答：Salary varies by location, experience, and employer. Entry-level: $38k-$55k, mid-level: $55k-$75k, senior: up to $110k. Larger food companies offer higher pay.
-
-**问：Is it easy to get a US work visa or green card for this job?**
-答：Challenging. Not a typical H-1B specialty occupation; EB-3 via PERM requires employer to show no qualified US workers. Consider related agriculture management roles.
-
-**问：How to enter this field?**
-答：Usually requires a degree in agricultural business or related field, or start as a purchasing assistant. Gain experience in farming or food processing; obtaining CPSM certification helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

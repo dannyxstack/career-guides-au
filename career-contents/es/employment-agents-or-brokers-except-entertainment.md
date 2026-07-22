@@ -1,61 +1,97 @@
-# Employment Agents or Brokers (Except Entertainment)（Employment Agents or Brokers (Except Entertainment)）职业分析 · ES
+# Employment Agents or Brokers (Except Entertainment) — career analysis · Spain
 
-**职业代码：3533 – Employment Agents or Brokers (Except Entertainment)。**
+**Occupation code: 3533 (CNO)**
 
-Matches job seekers with employers, including temporary staffing, permanent placement, and labor contracting, active in agriculture, construction, and services.
+Intermediaries that match job seekers with employers, covering temporary work, fixed-position recruitment, and labor dispatch, active in agriculture, construction, services, and other industries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 2年（FP Grado Superior en Administración） | —（公立FP学费低，约0-2000欧元/年） |
-| 大学本科 | 4年（Grado en Relaciones Laborales） | $1,000~$6,000（公立大学约1000-2000欧元/年，私立较高） |
+| High school graduation | 2 years (FP Grado Superior en Administración) | $0~$2,000 (Public FP tuition is low, about 0-2000 euros per year) |
+| University bachelor's degree | 4 years (Grado en Relaciones Laborales) | $1,000~$6,000 (Public universities about €1,000-€2,000/year, private higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 劳动关系或人力资源学士 | 西班牙大学 | 可选 | 相关专业优先，非强制 |
-| 劳务中介许可证 | 自治区政府 | 必备 | 开办中介机构需申请 |
-| 社保与劳动法培训 | SEPE或私立机构 | 可选 | 建议完成 |
+| Labor intermediary license | Autonomous region government | Required | An application is required to establish an intermediary agency |
+| Bachelor's degree in Labor Relations or Human Resources | Spanish University | Optional | Relevant majors are preferred, not mandatory |
+| Social security and labor law training | SEPE or private institutions | Optional | Recommended to complete |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。西班牙就业市场灵活用工需求增长，尤其是季节性农业、旅游和建筑领域。数字化平台带来挑战，但专业中介仍受中小企业依赖。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Spain's job market is seeing growth in demand for flexible work, especially in seasonal agriculture, tourism, and construction. Digital platforms bring challenges, but professional intermediaries still rely heavily on SMEs.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 基于SEPE数据，佣金另计 |
-| 中级（3-7年） | $24,000~$35,000 | 含提成 |
-| 高级（7年以上） | $35,000~$50,000 | 管理层或资深顾问，含奖金 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Based on SEPE data, commissions are calculated separately |
+| Mid-level (3–7 years) | $24,000~$35,000 | Including commission |
+| Senior (7+ years) | $35,000~$50,000 | Management or senior consultants, including bonuses |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级招聘顾问升至团队主管、区域经理，或转向企业人力资源部门。积累客户资源后可独立创业开设猎头公司。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The core matching and transactional tasks of employment agencies and labor brokers are gradually being replaced by AI recruitment platforms and automated systems, with job demands shifting toward high-value consultant roles and significantly higher entry barriers.
+
+You can advance from junior recruitment consultant to team leader, regional manager, or transition to the corporate HR department. After accumulating client resources, you can start your own venture and establish a headhunting company.
+
+**Tasks most exposed to AI:**
+
+- Automatically matches and filters resume keywords with qualifications
+- Initial candidate communication and interview times are automatically scheduled
+- Automated management of temporary worker scheduling and dispatch records
+- Bulk collection and report generation of labor market wage data
+- Automatic generation and verification of standard contract terms
+
+**Where AI augments the role:**
+
+- Using AI to analyze labor market trends and accurately identify high-demand skills and job gaps
+- Enhance candidate personality and cultural fit assessment, combined with behavior prediction model recommendations
+- Initial contact and FAQs for batch candidates via AI chatbots, freeing up time for high-level negotiations
+- Automatically generate personalized career development suggestions to boost candidate stickiness
+- Monitor recruitment channel performance in real time and optimize placement strategies
+
+**Human moat:**
+
+- Build deep trust and long-term networks with employers and job seekers
+- Interpersonal insights and strategic maneuvers when negotiating complex terms like salary and benefits
+- Handling sensitive or personalized career counseling (such as career change guidance, career crisis intervention)
+- Handling temporary emergencies (such as candidates breaching contracts or employer changing requirements)
+- Cross-cultural and cross-industry network integration capabilities
+
+**Skills to build:**
+
+- AI recruitment tool operation and customization (such as HireVue, Pymetrics)
+- Data Analysis and Visualization (Python, Tableau)
+- Automated workflow setup (Zapier, Airtable)
+- Negotiation and advanced communication skills
+- Updates on labor laws and compliance knowledge (especially contract workers and cross-border dispatches)
+- Deep CRM system usage (such as Salesforce, Bullhorn)
+
+**Key growth areas:**
 
 - recruitment
 - temporary staffing
@@ -64,66 +100,68 @@ Matches job seekers with employers, including temporary staffing, permanent plac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 受雇于西班牙中介机构，需雇主担保工作许可 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高薪职位（年薪≥33,908欧元），但中介岗位通常达不到 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6个月寻找工作，但中介行业竞争激烈 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employment through a Spanish intermediary agency requires employer-sponsored work permit. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | This applies to high-paying positions (annual salary ≥ 33,908 euros), but agency positions usually do not reach this level |
+| Subclass Busqueda empleo (Job Search Visa) | Allowing 6 months of residency in Spain to look for work, but the intermediary industry is highly competitive |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Employment Agents or Brokers (Except Entertainment)？**
-- 沟通能力强、善于谈判的人
-- 对劳动市场和人事工作有热情的人
-- 能够承受业绩压力的人
+**Who is suited**
+- Strong communication skills and good negotiation skills
+- People passionate about the labor market and personnel work
+- People who can withstand performance pressure
 
-**谁不适合学Employment Agents or Brokers (Except Entertainment)？**
-- 不喜销售和业绩考核的人
-- 缺乏耐心、不擅长人际交往的人
+**Who is not suited**
+- People who dislike sales and performance evaluations
+- People who lack patience and are not good at interpersonal communication
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary structure of labor agencies?**
+A: Typically base salary plus commission; entry-level approximately EUR 18,000-24,000 per year, senior consultants can reach EUR 50,000 or more.
+
+**Q: Can foreigners work in this profession?**
+A: Yes, but you must first obtain a work visa. Employers must prove that suitable candidates cannot be found in the EU (except for shortage occupations). It is recommended to obtain legal status through other professions first.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted to team leader, regional manager, or transfer to HR within the company. After accumulating customers, you can also start your own business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Employment Agents or Brokers (Except Entertainment)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for employment agents?**
-答：Typically base salary plus commission, entry-level around €18,000-24,000 per year, senior can exceed €50,000.
-
-**问：Can foreigners work in this occupation?**
-答：Yes, but need a work visa. Employer must prove no EU candidate available (unless shortage). Recommended to obtain residency via other professions first.
-
-**问：Are there advancement opportunities?**
-答：Yes, to team lead, regional manager, or corporate HR. Can also start own agency after building network.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

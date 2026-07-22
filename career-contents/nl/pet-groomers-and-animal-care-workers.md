@@ -1,60 +1,92 @@
-# Pet Groomers and Animal Care Workers（Pet Groomers and Animal Care Workers）职业分析 · NL
+# Pet Groomers and Animal Care Workers — career analysis · Netherlands
 
-**职业代码：5164 – Pet Groomers and Animal Care Workers。**
+**Occupation code: 5164 (ISCO08)**
 
-Provide grooming, cleaning, and basic care for pets or assist in animal care settings. In the Netherlands, certification is often required, with employment in pet shops, veterinary clinics, or self-employment.
+Provide pet grooming, cleaning, and basic care services, or assist in animal care. In the Netherlands, this occupation typically requires professional certification and is common in pet shops, veterinary clinics, or self-employment.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训/实习 | 1-2年 | $3,000~$8,000（宠物美容学校或在职培训） |
-| MBO（中等职业教育） | 3年 | $2,000~$6,000（动物护理相关专业，学费因学校而异） |
+| Vocational training / internship | 1-2 years | $3,000~$8,000 (Pet grooming school or on-the-job training) |
+| MBO (secondary vocational education) | 3 years | $2,000~$6,000 (Animal care-related majors; tuition varies by school.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 宠物美容师认证 | 荷兰宠物美容协会 (Nederlandse Vereniging van Honden- en Katentrimmers) | 可选 | 多数雇主或自雇时要求持有 |
-| 动物护理文凭 (MBO) | ROC (区域性职业培训中心) | 可选 | 非强制但有助于就业 |
+| Pet Groomer Certification | Nederlandse Vereniging van Honden- en Katentrimmers (Dutch Association of Dog and Cat Groomers) | Optional | Required by most employers or when self-employed |
+| Animal Care Diploma (MBO) | ROC (Regional Occupational Training Center) | Optional | Not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。荷兰宠物行业持续增长，宠物美容需求稳定上升。预计未来几年就业机会保持良好，尤其在城市地区。但竞争也较为激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. The Dutch pet industry continues to grow, and the demand for pet grooming is steadily increasing. Employment prospects are expected to remain good in the coming years, especially in urban areas. However, competition is also relatively fierce.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，约€1,700-€2,100/月 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪，约€2,100-€2,700/月 |
-| 高级（7年以上） | $30,000~$40,000 | 税前年薪，含店铺经理或自雇收入 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual salary before tax, approx. €1,700-€2,100/month |
+| Mid-level (3–7 years) | $25,000~$32,000 | Annual pre-tax salary, approx. €2,100-€2,700/month |
+| Senior (7+ years) | $30,000~$40,000 | Annual pre-tax salary, including income from store manager or self-employment |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径：宠物美容助理 → 宠物美容师 → 高级美容师/店铺经理 → 自雇开店。也可转向动物行为训练或兽医护理。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Pet groomers and animal care workers will see mixed impacts from AI and automation tools: repetitive cleaning and record-keeping tasks may be replaced, but personalized, emotional interaction and manual skills in pet care are hard to automate; overall risk is moderate.
+
+Career path: Pet Grooming Assistant → Pet Groomer → Senior Groomer/Store Manager → Self-employed. Also can transition to animal behavior training or veterinary nursing.
+
+**Tasks most exposed to AI:**
+
+- Automated pet cleaning/drying process
+- AI-generated pet health record reports
+- Smart booking system for customer communication
+- Image recognition assists in pet breed identification
+
+**Where AI augments the role:**
+
+- AI-assisted pet behavior analysis and emotion judgment
+- Smart recommendation of personalized beauty plans
+- Remote veterinary consultation handover and recording
+- Automated health monitoring reminders
+
+**Human moat:**
+
+- Delicate perception and soothing of pet emotions
+- Handmade beauty styling and creative design
+- Handling sudden stress responses in pets.
+- Building trust with pet owners
+
+**Skills to build:**
+
+- Use of AI pet behavior analysis tools
+- Digital health record management
+- Operation of smart beauty devices
+- Online customer communication and marketing
+- Basic programming or automation scripting
+
+**Key growth areas:**
 
 - Pet-friendly trend
 - Self-employment opportunities
@@ -63,66 +95,68 @@ Provide grooming, cleaning, and basic care for pets or assist in animal care set
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但本职业通常不满足薪资门槛（2024年最低€5,008/月），除非担任管理职位。 |
-| Subclass Orientation Year (zo（Orientation Year） | 荷兰毕业的非欧盟学生可在毕业后一年内找工作，从事本职业需满足工作许可要求。 |
-| Subclass Self-Employed (vergu（Self-Employed Permit） | 自雇宠物美容师可申请此居留，需通过荷兰企业局的计分制评估。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but this occupation typically does not meet the salary threshold (minimum €5,008/month in 2024) unless in a managerial role. |
+| Subclass Orientation Year (zo (Orientation Year) | Non-EU students who graduated in the Netherlands can seek employment within one year after graduation; working in this occupation requires meeting work permit requirements. |
+| Subclass Self-Employed (vergu (Self-Employed Permit) | Self-employed pet groomers can apply for this residence permit, subject to the points system assessment by the Netherlands Enterprise Agency. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pet Groomers and Animal Care Workers？**
-- 喜欢动物且具备耐心与细心
-- 愿意从事服务性工作，善于沟通
-- 有意向自雇或创业
+**Who is suited**
+- Likes animals and has patience and attention to detail
+- Willing to work in service roles and good at communication
+- Interested in self-employment or starting a business
 
-**谁不适合学Pet Groomers and Animal Care Workers？**
-- 对动物毛发或过敏体质
-- 追求高薪或快速职业晋升
+**Who is not suited**
+- Allergy to animal fur or dander
+- Pursuing high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for pet groomers in the Netherlands?**
+A: Junior pet groomer annual salary approx €20,000-€25,000, senior or self-employed can reach €30,000-€40,000. Salary relatively low, but self-employed income may be higher.
+
+**Q: Can non-EU citizens immigrate to the Netherlands as pet groomers?**
+A: Quite difficult. This occupation is not in the high-skilled immigration category; immigration usually requires a self-employment permit or other family reunion pathways. Language proficiency is also crucial.
+
+**Q: What are the career development paths for a pet groomer?**
+A: Can be promoted from assistant to professional beautician, then to store manager or self-employed with own shop. Can also expand into animal behavior training or starting a pet boarding service.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pet Groomers and Animal Care Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pet groomers in the Netherlands?**
-答：Entry-level pet groomers earn around €20,000-€25,000 annually, while senior or self-employed groomers can reach €30,000-€40,000. Salaries are relatively low, but self-employment can yield higher income.
-
-**问：Can non-EU citizens migrate to the Netherlands as a pet groomer?**
-答：It is challenging. This occupation does not fall under the Highly Skilled Migrant scheme; self-employment permits or family reunification may be options. Language proficiency is also crucial.
-
-**问：What are the career development paths for pet groomers?**
-答：Progress from assistant to professional groomer, then to store manager or self-employed shop owner. Specialization in animal behavior training or pet boarding services is also possible.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Personnel Service Employees（Personnel Service Employees）职业分析 · ES
+# Personnel Service Employees — career analysis · Spain
 
-**职业代码：4223 – Personnel Service Employees。**
+**Occupation code: 4223 (CNO)**
 
-Handle recruitment, payroll, personnel file management and other administrative tasks to provide HR support for companies.
+Responsible for handling administrative matters such as recruitment, payroll, and personnel file management, and providing human resources support to enterprises.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Medio） | 2年 | —（公立学校学费低，私立约2000欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费，私立约3000欧元/年） |
+| Secondary Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools have low tuition fees, while private ones cost about 2000 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$3,000 (Public schools are free, private ones about 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 人力资源与劳动关系管理大专 | 西班牙教育部 | 可选 | FP Grado Superior 学历，无需强制认证 |
-| 人力资源专业技能证书 | 西班牙国家就业局（SEPE）或商会 | 可选 | 可选认证，提升竞争力 |
+| Associate degree in Human Resources and Labor Relations Management | Spanish Ministry of Education | Optional | FP Grado Superior diploma, no mandatory certification required |
+| Human Resources Professional Skills Certificate | The Spanish National Employment Agency (SEPE) or the Chamber of Commerce | Optional | Optional certification to boost competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 85,000。西班牙就业市场对人事服务员工需求稳定，尤其在大型企业和人力资源外包公司。数字化趋势提升了对人力资源信息系统操作技能的需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. The Spanish job market has stable demand for HR service employees, especially among large corporations and HR outsourcing companies. The digitalization trend has increased the demand for operational skills in human resources information systems.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 税前年薪，含社保 |
-| 中级（4-7年） | $22,000~$28,000 | 税前年薪，含社保 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含社保，主管级 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$22,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (4-7 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including social insurance, supervisor-level |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从人事助理晋升为人力资源专员、人力资源经理，或专攻薪酬福利、招聘等方向。积累经验后可考取人力资源师认证。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+A large amount of transactional work for HR staff (such as resume screening, payroll calculation, file management) has been rapidly replaced by AI and automation tools, significantly shrinking entry-level positions, narrowing future promotion paths, and requiring a shift toward strategic HR roles.
+
+You can be promoted from HR assistant to HR specialist or HR manager, or specialize in compensation and benefits, recruitment, and other areas. After accumulating experience, you can obtain the Human Resources Professional certification.
+
+**Tasks most exposed to AI:**
+
+- Resume keyword screening and initial screening notice
+- Entry and verification of employee attendance data
+- Payroll calculation and payslip generation
+- Electronic organization and archiving of personnel files
+- Standardized labor contract template generation and printing
+
+**Where AI augments the role:**
+
+- Analysis and visualization of employee engagement survey results
+- AI recruitment tools are used to precisely match candidates with job requirements
+- Optimize employee Q&A and policy interpretation through natural language processing
+- AI-driven salary benchmarking analysis to develop competitive salary strategies
+- Use predictive models to identify high-at-risk employees and intervene proactively
+
+**Human moat:**
+
+- Handling complex labor disputes and employee relations issues
+- Design personalized employee development plans and career paths
+- Interpreting and applying local labor law policies to specific cases
+- Led corporate culture and change management projects
+- Plan human resource needs and talent pipelines based on strategic objectives
+
+**Skills to build:**
+
+- HR data analysis and visualization (such as Power BI, Tableau)
+- Use and management of AI recruitment tools (such as HireVue, Chatbots)
+- RPA process automation design and maintenance
+- In-depth understanding of labor law and compliance
+- Employee experience design and project management
+- Advanced Excel and compensation model modeling
+
+**Key growth areas:**
 
 - HR digitalization
 - Payroll automation
@@ -63,61 +99,63 @@ Handle recruitment, payroll, personnel file management and other administrative 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙公司的工作合同，且合同薪资不低于法定最低标准。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | You must obtain a work contract with a Spanish company, and the contract salary must not be lower than the legal minimum standard. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personnel Service Employees？**
-- 细致耐心、善于处理行政事务的人
-- 希望从基础岗位切入人力资源领域的新人
-- 喜欢稳定办公室工作的求职者
+**Who is suited**
+- Meticulous, patient, and skilled in handling administrative affairs
+- Newcomers hoping to enter the HR field from entry-level positions
+- Job seekers who prefer stable office work
 
-**谁不适合学Personnel Service Employees？**
-- 追求高薪和快速晋升的人
-- 不适应重复性行政工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who are not suited to repetitive administrative tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for HR service employees?**
+A: Junior annual salary: approx. €16,000-22,000; mid-level: €22,000-28,000; senior: up to €35,000. Salary levels are mid-low in Spain.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: This occupation is not considered a scarce occupation in Spain, and the salary level is relatively low, making it difficult to meet the requirements for high-skilled immigration visas. Contracts are usually obtained through ordinary work residency (Cuenta ajena), but the threshold is relatively high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Personnel Service Employees属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for personnel service employees?**
-答：Entry-level annual salary is around €16,000-22,000, mid-level €22,000-28,000, and senior up to €35,000. It is moderately low in Spain.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：This occupation is not on the shortage list and salaries are low, making it difficult to meet high-skilled visa requirements. Work contract visa (Cuenta ajena) is possible but challenging.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

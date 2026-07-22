@@ -1,60 +1,94 @@
-# Primary Processing of Timber（Primary Processing of Timber）职业分析 · FR
+# Primary Processing of Timber — career analysis · France
 
-**职业代码：H2205 – Primary Processing of Timber。**
+**Occupation code: H2205 (ROME)**
 
-Operates sawing, debarking, and drying equipment for primary timber processing, ensuring lumber dimensions and quality meet production standards.
+Engaged in primary processing such as sawing, peeling, and drying logs, operating saws and planers to ensure wood dimensions and quality meet subsequent production requirements.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP木工操作 | 2年（CAP） | —（公立学校免学费，注册费约200-500欧元/年；学徒制可获薪酬。） |
-| BTS林业/木材加工 | 2年（BTS） | $500~$3,000（公立院校低学费，私立约3000-8000欧元/年。） |
+| CAP carpentry operations | 2 years (CAP) | $0~$2,000 (Public schools are tuition-free, with registration fees of about 200-500 euros per year; Apprenticeships are eligible for compensation.) |
+| BTS Forestry/Wood Processing | 2 Years (BTS) | $500~$3,000 (Public institutions have low tuition; private institutions around €3,000–€8,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP木材加工 | 法国教育部 | 可选 | 入门级文凭，非强制性但有利于就业。 |
-| CACES木工机械操作证 | Caisse nationale d'assurance maladie | 可选 | 部分企业要求操作锯木机等设备需持有。 |
+| CAP wood processing | French Ministry of Education | Optional | An entry-level diploma, not mandatory but beneficial for employment. |
+| CACES woodworking machinery operation certificate | Caisse nationale d'assurance maladie | Optional | Some companies require the operation of saws and other equipment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国林业资源丰富，木材初级加工岗位需求稳定，受建筑与家具行业拉动。数字化转型和自动化设备普及将提升效率，但部分低技能岗位可能减少。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France is rich in forestry resources, with stable demand for primary wood processing positions, driven by the construction and furniture industries. Digital transformation and the widespread adoption of automated equipment will improve efficiency, but some low-skilled jobs may decrease.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金。 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，根据技能与地区浮动。 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管津贴。 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses. |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary varies depending on skill and region. |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including supervisor allowance. |
+| average salary | $25,128 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作工晋升为生产线主管或质量检验员；通过进修BTS或licence可进入工业管理岗位，如生产经理或技术顾问。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Primary wood processors face significant automation challenges; routine tasks like sawing, peeling, and sorting can be efficiently replaced by machine vision and robotics, leading to a significant reduction in entry-level positions.
+
+Promotion from operator to production line supervisor or quality inspector; Through further study with BTS or licence, you can enter industrial management positions, such as production managers or technical consultants.
+
+**Tasks most exposed to AI:**
+
+- Barcodes or RFID are used for log identification and traceability
+- Operate the sawmill to perform standard-sized sawing
+- Operate a barking machine to remove bark
+- Manually sort and stack the wood according to specifications
+- Perform monitoring and recording of drying kiln temperature and humidity
+
+**Where AI augments the role:**
+
+- An AI vision system detects wood defects in real time and optimizes cutting solutions
+- Using digital twins to simulate the drying process to improve energy efficiency
+- Predict equipment failures and proactively perform maintenance through data analysis
+- Optimize material handling routes using automated guided vehicles (AGVs).
+
+**Human moat:**
+
+- Customized cutting decisions for irregular, high-value logs
+- On-site strain and process adjustment for mixed raw materials of multiple tree species
+- Comprehensive mechanical and electrical maintenance capabilities to resolve sudden equipment failures
+- Cross-departmental coordination of production planning and handling of quality anomalies
+
+**Skills to build:**
+
+- Industrial robot programming and debugging (such as ABB, KUKA)
+- PLC and sensor basic maintenance
+- Fundamentals of Data Analysis (Python, SQL)
+- CAD/CAM software operation and digital twin tools
+- Predictive maintenance and fault diagnosis for equipment
+- Knowledge of sustainable forestry certification standards (such as FSC).
+
+**Key growth areas:**
 
 - Automation
 - Sustainable forestry
@@ -63,65 +97,64 @@ Operates sawing, debarking, and drying equipment for primary timber processing, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Visa） | 需获得法国雇主合同，工作许可由DIRECCTE审核，薪资需达到SMIC以上。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，要求年薪≥SMIC×1.5或等值条件，木材加工领域较少使用。 |
+| Subclass Salarié (Salarié (Employee) Visa) | Must obtain a French employer contract, work permits reviewed by DIRECCTE, and salary must be at least SMIC. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requiring an annual salary ≥SMIC×1.5 or equivalent, and is less commonly used in the wood processing field. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary Processing of Timber？**
-- 喜欢动手操作、体力充沛的人
-- 愿意在户外或工厂环境工作的人
-- 对林业或木工有兴趣的中等学历者
-
-**谁不适合学Primary Processing of Timber？**
-- 不喜体力劳动或嘈杂环境者
-- 追求高薪或快速晋升者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are physically energetic
+- People willing to work outdoors or in factory environments
+- Individuals with secondary education who have an interest in forestry or woodworking.
+
+**Who is not suited**
+- Those who dislike physical labor or noisy environments
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for primary wood processors?**
+A: Entry-level annual salary approx. €22,000-26,000, mid-level €26,000-32,000, senior up to €40,000. Salary varies by region and company size.
+
+**Q: Is it easy for non-EU immigrants to pursue this profession?**
+A: It is difficult. This occupation is not on the French shortage list, requiring employer sponsorship and meeting salary requirements, with high language proficiency. It is recommended to obtain a French diploma or enter through an apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Primary Processing of Timber为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for primary timber processing?**
-答：Entry-level EUR 22k-26k, mid-level EUR 26k-32k, senior up to EUR 40k (gross annual).
-
-**问：Is it easy for non-EU immigrants to work in this occupation?**
-答：Difficult. Not on shortage list; requires employer sponsorship and French proficiency. Gaining a French diploma or apprenticeship is recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

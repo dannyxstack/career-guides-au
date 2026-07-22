@@ -1,60 +1,96 @@
-# Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)（Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)）职业分析 · 新西兰
+# Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ) — career analysis · New Zealand
 
-**职业代码：411112 – Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)。**
+**Occupation code: 411112 (ANZSCO)**
 
-Provide advanced life support and pre-hospital care for critically ill patients in New Zealand's emergency services. This role is on Green List Tier 1, enabling direct residence pathway, with favorable migration prospects.
+Provides advanced life support in New Zealand's medical emergency system, assessing, treating, and transporting critically ill patients. This occupation is on the Green List Tier 1, eligible for direct residence application, with excellent immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（救护车护理学） | 3年 | $20,000~$40,000（学费每年约7,000-14,000 NZD） |
-| 硕士（紧急护理/重症监护） | 1-2年 | $15,000~$30,000（总学费，部分雇主资助） |
+| Bachelor's degree (Paramedic Science) | 3 years | $20,000~$40,000 (Tuition fees are about 7,000-14,000 NZD per year) |
+| Master's degree (Emergency/Critical Care) | 1-2 years | $15,000~$30,000 (Total tuition fees, some employer-sponsored) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册救护车护理人员（Paramedic Registration） | 新西兰救护车服务委员会 (Paramedic Services Association of NZ) | 必备 | 需完成认可本科课程并通过考试 |
-| 高级生命支持证书 (ALS) | 新西兰复苏委员会 (NZRC) | 可选 | 在职培训或短期课程获得 |
-| 驾照 Class 2 或更高 | 新西兰交通局 (NZTA) | 必备 | 驾驶救护车必需 |
-| 雅思 7.0 或同等英语测试 | 认可测试机构 | 必备 | 注册与移民要求 |
+| Registered ambulance paramedic (Paramedic Registration) | Paramedic Services Association of New Zealand | Required | Must complete accredited undergraduate course and pass examination |
+| Driver's license Class 2 or higher | New Zealand Transport Agency (NZTA) | Required | Driving an ambulance is essential |
+| IELTS 7.0 or equivalent English test | Recognised assessment authority | Required | Registration and immigration requirements. |
+| Advanced Life Support Certificate (ALS) | New Zealand Resuscitation Council (NZRC) | Optional | Obtained through on-the-job training or short courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,800。新西兰人口增长和老龄化推动急救服务需求上升。卫生部和地区卫生局持续招聘，尤其在农村和偏远地区，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. Population growth and aging in New Zealand drive increasing demand for emergency services. The Ministry of Health and district health boards are continuously recruiting, especially in rural and remote areas, with stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 根据集体协议逐年递增 |
-| 中级（3-7年） | $75,000~$90,000 | 含加班与津贴 |
-| 高级（7年以上/重症监护） | $90,000~$110,000 | 包括主管或专业级别 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$75,000 | Increases annually per collective agreement |
+| Mid-level (3–7 years) | $75,000~$90,000 | Including overtime and allowances |
+| Advanced (over 7 years/intensive care) | $90,000~$110,000 | Includes supervisory or professional level |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从注册护理人员起步，积累经验后可晋升为重症监护护理人员或主管，也可向医疗调度、临床教育或管理岗位发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core clinical judgment and emergency operations of intensive care ambulance paramedics are difficult to replace by AI, but administrative, documentation, and dispatch tasks will be largely automated; job demand remains strong, practitioners need to embrace AI-assisted tools to improve efficiency
+
+Starting as a registered caregiver, gaining experience to advance to intensive care paramedic or supervisor, also transitioning to medical dispatch, clinical education, or management roles.
+
+**Tasks most exposed to AI:**
+
+- Electronic Medical Records and Report Generation (AI automatic voice recording and structured summaries)
+- Basic vital signs monitoring and abnormal alerts (AI algorithms analyze and prioritize in real time)
+- Dispatch and route planning (AI optimizes emergency resource allocation and navigation)
+- Drug dose calculation and interaction checks (AI auto-verifies and flags contraindications)
+- Patient information entry and administrative management (AI-automated data entry and insurance coding)
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools analyze ECGs and ultrasound images to improve pre-hospital recognition rates
+- Real-time translation and communication AI to improve communication with non-English speaking patients or across teams
+- Predictive models assist triage decisions to determine optimal receiving hospital and specialty
+- Augmented reality (AR) glasses provide remote expert guidance, improving success rates for complex operations.
+- AI-driven training simulation systems for accelerated skill acquisition and scenario practice
+
+**Human moat:**
+
+- On-site complex injury assessment and rapid, precise clinical judgment
+- Perform invasive procedures (e.g., endotracheal intubation, chest drainage) in dynamic high-risk environments
+- Communicate empathetically with patients and families, providing psychological support and informed consent
+- Team leadership and resource allocation decisions in emergencies
+- Legal and ethical responsibility, accountability for autonomous actions
+
+**Skills to build:**
+
+- Advanced Life Support (ALS) and Pre-Hospital Trauma Life Support (PHTLS) certifications
+- Use of AI-assisted diagnostic tools (e.g., AI ECG analysis system)
+- Telemedicine collaboration and AR device operation
+- Basics of medical data analysis (interpreting AI prediction output)
+- Cross-cultural communication and crisis intervention skills
+- Continuing education and evidence-based practice updates
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,68 +99,67 @@ Provide advanced life support and pre-hospital care for critically ill patients 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接申请居留，无需工作经验要求，满足注册和薪资要求即可。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 可通过6分制申请，注册职业加分，满足分数即可。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主聘用后申请工签，工作两年后可转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence application, no work experience required, only needs to meet registration and salary requirements. |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Can apply via the 6-point system; registered occupation adds points; meet the score to qualify. |
+| Subclass AEWV (Accredited Employer Work Visa) | After obtaining employment with an accredited employer, apply for a work visa; after two years of work, you can transition to residency. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)？**
-- 具备快速决策和抗压能力，适应轮班工作
-- 有急救或医护经验，追求高社会贡献度
-- 愿意在偏远地区工作以快速获得移民资格
-
-**谁不适合学Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)？**
-- 无法适应高强度体力与心理压力
-- 对不规律作息（夜班、节假日工作）抵触
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Ability to make quick decisions and handle stress, adaptable to shift work
+- Have first aid or medical experience and seek high social contribution.
+- Willing to work in regional areas to expedite immigration eligibility
+
+**Who is not suited**
+- Unable to adapt to high-intensity physical and psychological stress
+- Dislike of irregular hours (night shifts, holiday work)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for intensive care nurses in New Zealand?**
+A: Entry-level approximately NZD 65,000-75,000/year, senior up to NZD 110,000/year, including overtime allowances.
+
+**Q: How can this occupation migrate through the Green List?**
+A: This occupation is on the Green List Tier 1. Meeting New Zealand registration and salary requirements allows direct application for residence visa without needing to work first.
+
+**Q: How to register overseas qualifications in New Zealand?**
+A: Requires assessment by the New Zealand Ambulance Service Council, usually completion of an accredited course or bridging gaps. English at IELTS 7.0 or equivalent.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for intensive care paramedics in NZ?**
-答：Entry-level around NZD 65,000–75,000 per year, senior up to NZD 110,000 including overtime.
-
-**问：How does this occupation qualify for Green List migration?**
-答：It's on Green List Tier 1; with NZ registration and meeting salary threshold, you can directly apply for residence without prior work experience.
-
-**问：How to get registration with overseas qualifications?**
-答：Assessment by Paramedic Services Association is needed; may require bridging courses or exams. IELTS 7.0 or equivalent required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

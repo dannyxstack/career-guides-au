@@ -1,58 +1,90 @@
-# Marketing Manager（Marketing Manager）职业分析 · FR
+# Marketing Manager — career analysis · France
 
-**职业代码：M1705 – Marketing Manager。**
+**Occupation code: M1705 (ROME)**
 
-Develops and implements marketing strategies, manages marketing teams, analyzes market trends and consumer behavior to drive brand awareness and sales growth.
+Responsible for formulating and executing corporate marketing strategies, managing the marketing team, analyzing market trends and consumer behavior, and driving brand awareness and sales growth.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（Licence） | $3,000~$10,000（公立大学费用较低，私立商学院较高） |
-| 硕士 | 2年（Master） | $5,000~$15,000（商学院或公立大学均可，学徒制可减免学费） |
+| Bachelor's degree | 3 years (Licence) | $3,000~$10,000 (Public universities have lower fees, while private business schools are more expensive) |
+| Master's degree | 2 years (Master) | $5,000~$15,000 (Both business schools and public universities are accepted, and apprenticeships can offer tuition waivers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销专业文凭 | 法国商学院或公立大学 | 可选 | 通常需获得Licence或Master文凭 |
-| 数字营销认证 | Google、Meta等 | 可选 | 非强制，但有助于就业 |
+| Diploma in Marketing | French business schools or public universities | Optional | Usually, a Licence or Master's diploma is required |
+| Digital marketing certification | Google, Meta, and others | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 120,000。法国就业市场对市场营销人才需求稳定，尤其在数字化转型背景下，对数字营销、数据分析能力要求提高。预计未来5年岗位增速略高于平均水平。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 120,000. The French job market has stable demand for marketing talent, especially under the context of digital transformation, where requirements for digital marketing and data analysis capabilities are increasing. It is expected that the job growth rate over the next five years will be slightly above average.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪 |
-| 中级（3-8年） | $40,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$100,000 | 税前年薪 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $40,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$100,000 | Annual pre-tax salary |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级职位如营销助理可晋升为品牌经理、营销经理，再发展至营销总监或首席营销官。也可转向数字营销、产品管理等专业方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
+
+Entry-level positions such as Marketing Assistant can be promoted to Brand Manager or Marketing Manager, and then to Marketing Director or Chief Marketing Officer. You can also switch to professional directions such as digital marketing or product management.
+
+**Tasks most exposed to AI:**
+
+- Automating routine reports and data analysis (e.g., Excel sorting, weekly ad performance reports)
+- Generate standardized marketing copy and social media posts
+- Execute batch email marketing and automated customer segmentation
+- Manage bidding rankings and programmatic advertising
+
+**Where AI augments the role:**
+
+- Use AI for consumer behavior prediction and market trend analysis
+- Create personalized videos, images, and copy content using AI
+- Rapidly generate A/B test plans and optimization suggestions using AI tools
+- Using AI-driven dashboards to monitor and adjust multi-channel marketing campaigns in real time
+
+**Human moat:**
+
+- Develop long-term brand strategy and annual marketing plans
+- Cross-departmental coordination and senior management communication
+- Making non-routine decisions based on market intuition and experience
+- Building and maintaining key client, media, and partner relationships
+
+**Skills to build:**
+
+- Proficiency in Python or R for marketing data analysis.
+- Proficiency in AI content generation tools (e.g., Jasper, DALL·E)
+- Learn advanced usage of Google Analytics and CRM systems
+- Enhance project management and agile marketing approaches
+- Develop data-driven decision-making and A/B test design skills
+
+**Key growth areas:**
 
 - Digital Marketing
 - Data-driven Marketing
@@ -61,68 +93,67 @@ Develops and implements marketing strategies, manages marketing teams, analyzes 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如市场营销经理，需获得法国工作合同且年薪至少€36,500。 |
-| Subclass Salarié（Salaried Employee） | 受雇于法国公司，需工作许可，年薪达标并符合劳动力市场测试。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高技能人才，年薪需至少€53,716.50（2024年标准）。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as marketing managers, who must have a French work contract and an annual salary of at least €36,500. |
+| Subclass Salarié (Salaried Employee) | Employed by a French company, work permit required, annual salary meets requirements, and labor market tests are complied. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talent, with an annual salary of at least €53,716.50 (2024 standard). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marketing Manager？**
-- 具备创意与数据分析能力的人才
-- 善于沟通与团队协作，目标导向者
-- 对市场趋势敏感，乐于学习新工具者
-
-**谁不适合学Marketing Manager？**
-- 不喜数据分析和结果追踪者
-- 抗压能力弱，无法应对快节奏工作环境者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Talent with creativity and data analysis skills
+- Good at communication and teamwork, goal-oriented
+- Sensitive to market trends and eager to learn new tools
+
+**Who is not suited**
+- Those who dislike data analysis and outcome tracking.
+- Those with weak stress tolerance who cannot cope with fast-paced work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for marketing managers in France?**
+A: Entry-level salary is about 30k-40k euros, intermediate 40k-60k, and senior-60k-100k (pre-tax annual salary). Salaries are influenced by industry, company size, and experience.
+
+**Q: How can non-EU citizens immigrate to France to work in marketing?**
+A: Available via the Talent Passport (Passeport Talent) or EU Blue Card (Carte bleue UE) route, requires a job contract with a French employer and meeting salary requirements.
+
+**Q: What are the career development paths for marketing managers?**
+A: You can advance from Marketing Assistant to Brand Manager, Marketing Manager, and then to Marketing Director or CMO. It can also shift to niche areas such as digital marketing and product marketing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Marketing Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for marketing managers in France?**
-答：Entry-level around €30k-40k, mid-level €40k-60k, senior €60k-100k (gross annual). Varies by industry, company size, and experience.
-
-**问：How can non-EU citizens immigrate to France for marketing jobs?**
-答：Via Talent Passport or EU Blue Card, requiring a job offer from a French employer and meeting salary thresholds.
-
-**问：What are the career progression paths for marketing managers?**
-答：From marketing assistant to brand manager, marketing manager, then to marketing director or CMO. Also possible to specialize in digital marketing or product marketing.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Speech Pathologist / Speech Language Therapist（Speech Pathologist / Speech Language Therapist）职业分析 · 澳大利亚
+# Speech Pathologist / Speech Language Therapist — career analysis · Australia
 
-**职业代码：252712 – Speech Pathologist / Speech Language Therapist。**
+**Occupation code: 252712 (ANZSCO)**
 
 Speech pathologists diagnose and treat speech, language, communication, and swallowing disorders across all ages, improving patients' quality of life.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 4年 | $25,000~$50,000（澳洲大学国际生学费） |
-| 硕士学位（准入级） | 2年 | $30,000~$60,000（针对非本科言语病理学背景） |
+| Bachelor's degree | 4 years | $25,000~$50,000 (International student tuition fees at Australian universities.) |
+| Master's degree (entry level) | 2 years | $30,000~$60,000 (For those without a bachelor's degree in speech-language pathology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 言语病理学学士或硕士 | Speech Pathology Australia (SPA) 认可的大学 | 必备 | 必须完成 SPA 认证课程 |
-| 执业资格注册 | Speech Pathology Australia | 必备 | 通过认证考试或完成执业年 |
-| 技能评估 | VETASSESS | 可选 | 用于技术移民申请 |
+| Bachelor's or Master's degree in Speech Pathology | University accredited by Speech Pathology Australia (SPA) | Required | Must complete the SPA certification course. |
+| Professional qualification registration | Speech Pathology Australia | Required | Pass a certification exam or complete a year of practice |
+| Skills assessment | VETASSESS | Optional | Used for skilled migration application |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常旺盛（★★★★½）。** 全国从业人数约 18,000。澳洲老龄化及儿童发育需求推动言语病理学家需求持续增长。预计未来5年就业增长强劲，全职职位充足。
+**Job demand: very high (★★★★½).** National workforce approx. 18,000. Aging population and child development needs in Australia drive growing demand for speech pathologists. Strong employment growth expected over the next 5 years, with ample full-time positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 公立或私立诊所 |
-| 中级（4-7年） | $80,000~$100,000 | 含经验提升和额外资质 |
-| 高级（8年以上） | $100,000~$130,000 | 管理/专家角色 |
+| Median salary | $104,156 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | Public or private clinic |
+| Mid-level (4-7 years) | $80,000~$100,000 | Includes experience improvement and additional qualifications |
+| Senior (8+ years) | $100,000~$130,000 | Management/Expert role |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优秀（★★★★½）。** 初级临床治疗师可晋升至高级治疗师、团队领导、临床专家，或转入管理、教育、研究领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
+
+Junior clinical therapists can progress to senior therapist, team leader, clinical specialist, or move into management, education, and research.
+
+**Tasks most exposed to AI:**
+
+- Automated speech recognition and natural language processing for initial screening and standardized test scoring
+- AI generates basic treatment plans and exercise materials
+- Automatic transcription and document filling of electronic health records
+- Automatic detection of speech disorder features through voice analysis
+- Basic interactive Q&A in remote therapy is handled by chatbots
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyzing large amounts of voice data to identify subtle patterns
+- Personalised treatment: using machine learning to optimise treatment plans and provide real-time feedback
+- Telemedicine: expanding service scope through AI-driven platforms.
+- Effect tracking: automatically analyzes patient progress data and adjusts plans
+- Research acceleration: AI processes large-scale corpora to discover new treatments
+
+**Human moat:**
+
+- Clinical judgment and empathetic communication for complex cases
+- Interdisciplinary team collaboration and patient education
+- Design and implement alternative communication systems (e.g., AAC)
+- Handling ethical and legal issues (e.g., informed consent)
+- Humanistic care and therapeutic relationship building.
+
+**Skills to build:**
+
+- Use and interpretation of AI-assisted diagnostic tools
+- Data analysis and statistics (Python/R)
+- Remote therapy platform operation and optimization
+- Natural language processing basics
+- Human-computer interaction design (for therapeutic tools)
+- Agility for continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Aged care
 - NDIS
@@ -62,69 +98,68 @@ Speech pathologists diagnose and treat speech, language, communication, and swal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 独立技术移民，无需担保，基于积分系统 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州政府提名 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，可转186永居 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区技术移民临时签证，转191永居 |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration, no sponsorship required, based on points system |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional Skilled Migration Provisional Visa, transitioning to 191 Permanent Residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Speech Pathologist / Speech Language Therapist？**
-- 对沟通障碍和吞咽困难有强烈兴趣的人
-- 耐心、同理心强，善于与不同年龄层沟通
-- 希望从事高需求、有移民机会的医疗职业
-
-**谁不适合学Speech Pathologist / Speech Language Therapist？**
-- 不喜欢长时间一对一工作
-- 对医学和人体解剖不感兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For individuals with strong interest in communication disorders and swallowing difficulties
+- Patient, empathetic, skilled in communicating with various age groups
+- Looking for medical careers with high demand and immigration opportunities
+
+**Who is not suited**
+- Dislikes long one-on-one work
+- Not interested in medicine and human anatomy.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for a speech pathologist?**
+A: Senior specialist or management roles can earn over AUD 130,000/year, but usually require many years of experience.
+
+**Q: Is it difficult for speech pathologists to migrate to Australia?**
+A: This occupation is on the MLTSSL, with high demand and moderate score requirements (65-75 points), making the migration pathway relatively smooth.
+
+**Q: What can you transition to with a speech pathology degree?**
+A: Can transition into healthcare management, academic research, early intervention, or telehealth services.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（4-6年）（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等偏高（★★★☆☆） |
-| 职位需求量 | 非常旺盛（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 优秀（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Speech Pathologist / Speech Language Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for speech pathologists?**
-答：Senior specialists or managers can earn over AUD 130,000 per year, but it typically requires many years of experience.
-
-**问：Is it difficult for speech pathologists to migrate to Australia?**
-答：This occupation is on the MLTSSL, with high demand and moderate point requirements (65-75), making migration relatively smooth.
-
-**问：What career transitions are possible for speech pathologists?**
-答：They can move into healthcare management, academic research, early intervention, or telehealth services.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

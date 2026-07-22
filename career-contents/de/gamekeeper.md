@@ -1,60 +1,96 @@
-# Gamekeeper（Gamekeeper）职业分析 · DE
+# Gamekeeper — career analysis · Germany
 
-**职业代码：1173 – Gamekeeper。**
+**Occupation code: 1173 (KldB)**
 
-Gamekeepers manage wildlife habitats, protect game resources, enforce hunting regulations, and participate in ecological monitoring and population control.
+Gamekeepers manage wildlife habitats, protect hunting resources, enforce hunting regulations, and participate in ecological monitoring and population control.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式培训 | —（无培训成本，但需通过狩猎执照考试） |
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，职业学校学费低廉） |
+| High school graduation | No formal training required | $0~$0 (No training cost, but must pass the hunting license exam.) |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowances during training, low vocational school tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 狩猎执照（Jagdschein） | 当地狩猎管理局 | 必备 | 通过狩猎考试后获得，是从事本职业的法定前提。 |
-| 猎场管理员培训结业证书 | 德国猎人协会（DJV） | 可选 | 非强制，但可提升就业竞争力。 |
+| Hunting license (Jagdschein) | Local hunting authority | Required | Obtained after passing the hunting exam; it is a legal prerequisite for this occupation. |
+| Gamekeeper training completion certificate | German Hunting Association (DJV) | Optional | Not mandatory, but can enhance employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。德国对生态保护和可持续狩猎管理的重视度持续上升，猎场管理员需求稳定，但岗位数量有限，主要集中在林区和自然保护区。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. Germany's focus on ecological protection and sustainable hunting management is steadily rising, demand for gamekeepers is stable, but positions are limited, mainly in forest areas and nature reserves.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 起步阶段，可能含住宿补贴 |
-| 中级（3-7年） | $32,000~$40,000 | 有经验后收入稳定 |
-| 高级（7年以上） | $40,000~$50,000 | 主管级或拥有大型猎区管理权限 |
+| Median salary | $43,128 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Start-up phase, may include accommodation allowance |
+| Mid-level (3–7 years) | $32,000~$40,000 | Stable income after gaining experience |
+| Senior (7+ years) | $40,000~$50,000 | Supervisor level or with management authority over large hunting areas |
+| average salary | $45,228 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从狩猎助理起步，积累经验后可晋升为高级猎场管理员或保护区主管，也可转向野生动物管理与生态咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gamekeepers face mixed impacts from AI: automated monitoring and data analysis tools reduce traditional patrol and record-keeping roles, but complex decision-making tasks like ecological management and population control are enhanced by AI, while core field mobility and enforcement responsibilities are hard to replace
+
+Usually start as a hunting assistant; with experience can advance to senior gamekeeper or reserve manager, or transition into wildlife management and ecological consulting.
+
+**Tasks most exposed to AI:**
+
+- Monitoring and counting wildlife through automatic cameras and sensor networks
+- Drone patrols replace manual boundary patrols and habitat inspections.
+- GPS tracking and remote sensing automatically generate habitat change reports
+- Automated verification and data archiving of electronic hunting licence system
+- Automated collection and preliminary analysis of standardized ecological data (e.g., population density)
+
+**Where AI augments the role:**
+
+- Use AI prediction models to assist in formulating population regulation and hunting quota plans
+- Optimize habitat management through Geographic Information Systems (GIS) and spatial analysis
+- AI-assisted identification of illegal hunting activities to improve law enforcement accuracy
+- Big data analytics supports long-term ecological trend research and policy recommendations
+- Using digital twin technology to simulate the impact of different management strategies on ecosystems
+
+**Human moat:**
+
+- On-the-ground judgment in law enforcement and emergency incident handling
+- Communication and negotiation with stakeholders such as hunters, landowners, and government
+- Practical experience in traditional habitat management techniques (e.g., fire control, vegetation restoration)
+- Deep tacit knowledge and intuition of the local ecosystem.
+- Mobility and decision-making ability to handle emergencies (e.g., wildlife conflicts)
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and remote sensing analysis
+- Python/R programming for ecological data processing and modeling
+- Drone operation and maintenance
+- Basics of AI and machine learning (for population prediction)
+- Use of digital enforcement tools (e.g., electronic tracking systems)
+- Conflict management and public communication skills.
+
+**Key growth areas:**
 
 - Sustainable hunting
 - Wildlife management
@@ -63,65 +99,64 @@ Gamekeepers manage wildlife habitats, protect game resources, enforce hunting re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa for Recognized Vocational Qualification） | 需获得德国认可的猎场管理员职业资格，并有德国雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分系统，适合有相关资质和语言能力的申请人寻找雇主。 |
+| Subclass Skilled Worker (Skilled Worker Visa for Recognized Vocational Qualification) | Require a German-recognized gamekeeper qualification and a German employer sponsor. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, suitable for applicants with relevant qualifications and language ability to find an employer. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Gamekeeper？**
-- 热爱自然与户外工作，能适应偏远林区生活
-- 对狩猎和野生动物管理有浓厚兴趣
-- 注重生态保护，愿意接受体力劳动
-
-**谁不适合学Gamekeeper？**
-- 对枪械或动物屠宰感到不适者
-- 寻求高薪和快节奏职业发展者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves nature and outdoor work, adaptable to remote forest living
+- Strong interest in hunting and wildlife management
+- Focus on ecological protection, willing to perform physical labor
+
+**Who is not suited**
+- Those uncomfortable with firearms or animal slaughter
+- Seeking high salary and fast-paced career development
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a gamekeeper?**
+A: Junior annual salary approx. €25,000-32,000, senior up to €40,000-50,000, often with housing allowance.
+
+**Q: How can Chinese citizens become gamekeepers in Germany?**
+A: Must first obtain the German recognized gamekeeper professional qualification and pass the credential assessment (Anerkennung), then find a German employer to sponsor a work visa application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Gamekeeper为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a gamekeeper?**
-答：Entry-level annual salary is about 25,000-32,000 EUR, mid-career 32,000-40,000 EUR, and senior up to 40,000-50,000 EUR, often with housing allowance.
-
-**问：How can a Chinese citizen become a gamekeeper in Germany?**
-答：You need a recognized vocational qualification in gamekeeping, pass the recognition procedure (Anerkennung), and find a German employer to sponsor a work visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

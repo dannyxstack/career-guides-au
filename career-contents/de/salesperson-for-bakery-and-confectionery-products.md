@@ -1,60 +1,96 @@
-# Salesperson for Bakery and Confectionery Products（Salesperson for Bakery and Confectionery Products）职业分析 · DE
+# Salesperson for Bakery and Confectionery Products — career analysis · Germany
 
-**职业代码：6231 – Salesperson for Bakery and Confectionery Products。**
+**Occupation code: 6231 (KldB)**
 
-Sells bread, cakes, pastries and other baked goods in bakeries, patisseries or retail stores; advises customers, handles merchandise display, cashier duties and inventory management.
+Sell baked goods such as bread, cakes, and pastries in bakeries, pastry shops, or retail stores, provide customer advice, and handle product display, cashiering, and inventory management.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年（双元制） | —（双元制培训免学费，企业发放补贴） |
-| 短期在职培训 | 3-6个月 | —（部分企业提供内部培训，费用由雇主承担） |
+| Vocational training (dual system) | 3 years (dual system) | $0~$500 (Dual system training is tuition-free, with companies providing subsidies) |
+| Short-term on-the-job training | 3-6 months | $0~$2,000 (Some companies provide internal training, with costs covered by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 通常不需要正式资质，但双元制培训证书有优势 |
-| 食品卫生证书 | 当地卫生局或IHK | 必备 | 需完成食品卫生基础培训 |
+| Food hygiene certificate | Local health authority or IHK | Required | Must complete basic food hygiene training |
+| No mandatory qualification requirements | None | Optional | Formal qualifications are not usually required, but dual system training certificates are advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 120,000。德国面包糕点行业稳定，消费需求持续存在。但受超市和折扣店竞争影响，传统面包店面临压力。由于部分从业人员老龄化，每年有一定岗位空缺，但整体就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. The German bread and pastry industry is stable, with ongoing consumer demand. However, traditional bakeries face pressure from competition with supermarkets and discount stores. Due to an aging workforce, there are a certain number of annual job vacancies, but overall employment growth is slow.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含补贴 |
-| 中级（4-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（8年以上） | $35,000~$42,000 | 含店长或主管津贴 |
+| Median salary | $32,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, including allowances |
+| Mid-level (4-7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (8+ years) | $35,000~$42,000 | Including store manager or supervisor allowance |
+| average salary | $33,804 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从销售员晋升为店长或区域经理，也可通过进修成为烘焙大师或开设自有面包店。部分企业提供双元制培训，结合销售技能与烘焙知识实现职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Bakery and pastry salesperson role faces moderate automation risk: transactional tasks such as cashiering and inventory management will be gradually replaced by AI, but tasks requiring interpersonal interaction and sensory judgment—like customer inquiries, personalised recommendations, and quality control—are enhanced by AI, shifting the role toward an experience consultant.
+
+Can progress from salesperson to store manager or regional manager, or through further study become a master baker or open their own bakery. Some companies offer dual training programs combining sales skills and baking knowledge for career development.
+
+**Tasks most exposed to AI:**
+
+- Automated checkout and payment settlement
+- Inventory counting and automatic restock reminders
+- Automated pricing and promotion strategy adjustments based on sales data.
+- Online order processing and delivery route optimization
+- Customer traffic counting and shift optimization
+
+**Where AI augments the role:**
+
+- AI-assisted generation of personalized product recommendations (based on customer purchase history).
+- Smart tasting tools help describe flavors and pairings (e.g., wine and cake pairing)
+- Real-time sales dashboard guides on-site display and promotions
+- Automatically generate product nutritional values and allergen information for consultant queries
+- AI-driven customer sentiment recognition to assist service strategies
+
+**Human moat:**
+
+- Face-to-face customer consultation and emotional interaction (e.g., wedding cake customisation consultation)
+- Sensory Judgment (freshness, taste, appearance)
+- Handle complaints and complex return/exchange negotiations
+- Product storytelling and brand culture communication
+- On-site tasting experience and real-time feedback adjustment
+
+**Skills to build:**
+
+- Proficient in operating POS and inventory management systems
+- Data analysis basics (reading sales reports)
+- Social media marketing and online community management
+- Food sensory evaluation and quality discrimination training
+- Basic English (for dealing with international customers)
+- Customer relationship management (CRM) applications
+
+**Key growth areas:**
 
 - Bakery retail
 - Customer service
@@ -63,66 +99,68 @@ Sells bread, cakes, pastries and other baked goods in bakeries, patisseries or r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 不适用，通常薪资不达标 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 可申请，但需双元制培训毕业且找到雇主 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 可通过机会卡来德寻找工作 |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable, usually salary below the threshold |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Eligible to apply, but must have completed dual-system training and found an employer. |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | You can use Opportunity Card to find jobs in Germany |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salesperson for Bakery and Confectionery Products？**
-- 喜欢与人打交道、善于沟通者
-- 对烘焙产品有兴趣、有服务意识者
-- 希望在德国稳定就业但学历不高者
+**Who is suited**
+- People who enjoy interacting with others and are good communicators
+- Interested in bakery products and service-oriented individuals
+- Those who wish to secure stable employment in Germany but have low educational qualifications
 
-**谁不适合学Salesperson for Bakery and Confectionery Products？**
-- 期望高薪资和快速晋升者
-- 不愿从事站立工作和周末轮班者
+**Who is not suited**
+- Those expecting high salary and fast promotion
+- Those unwilling to do standing work and weekend shifts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a bread and pastry salesperson?**
+A: Junior annual pre-tax salary approximately EUR 22,000-28,000, increasing to EUR 35,000-42,000 with experience. Below the German average salary.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Unlikely. This occupation is not in demand and salaries usually do not meet the Blue Card threshold. You can try the Opportunity Card or employer-sponsored skilled migration, but completing dual vocational training is required.
+
+**Q: What educational background is required?**
+A: Typically no higher education background required. Dual vocational training (3 years) is common, with a stipend during training. A food hygiene certificate is also mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salesperson for Bakery and Confectionery Products属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a salesperson for bakery products?**
-答：Entry-level gross annual salary is around €22,000-28,000, rising to €35,000-42,000 with experience. Below German average.
-
-**问：Can foreigners immigrate to Germany through this occupation?**
-答：Unlikely. Not a shortage occupation, salary below Blue Card threshold. Possible via Opportunity Card or employer sponsorship after completing dual training.
-
-**问：What educational background is required?**
-答：No higher education required. A 3-year dual vocational training (Ausbildung) is common with a stipend. Food hygiene certificate mandatory.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

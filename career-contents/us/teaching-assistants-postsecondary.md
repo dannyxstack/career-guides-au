@@ -1,61 +1,97 @@
-# Teaching Assistants, Postsecondary（Teaching Assistants, Postsecondary）职业分析 · 美国
+# Teaching Assistants, Postsecondary — career analysis · United States
 
-**职业代码：25-9044 – Teaching Assistants, Postsecondary。**
+**Occupation code: 25-9044 (SOC)**
 
-Assist faculty in postsecondary institutions with instructional support such as developing materials, leading discussions, grading exams, and conducting review sessions; often held by graduate students.
+Assist teachers in conducting teaching activities in universities, including lesson preparation, tutorial discussions, invigilation, and grading assignments, usually undertaken by graduate students.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $60,000~$150,000（公立大学学费估计，含生活费） |
-| 硕士学位（在读） | 2年 | $40,000~$100,000（通常为助教奖学金覆盖部分费用） |
+| Bachelor's degree | 4 years | $60,000~$150,000 (Estimated public university tuition, including living expenses) |
+| Master's degree (in progress) | 2 years | $40,000~$100,000 (Usually covered partially by teaching assistantships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 研究生入学资格 | 所在大学 | 必备 | 通常需要被研究生院录取 |
-| 英语能力证明（国际学生） | ETS/IELTS | 必备 | 如托福/雅思成绩，用于国际助教 |
-| 教学培训 | 大学教学中心 | 可选 | 部分大学要求参加助教培训 |
+| Graduate admission eligibility | Your university | Required | Usually requires admission to a graduate school |
+| English proficiency proof (international students) | ETS/IELTS | Required | Such as TOEFL/IELTS scores for international teaching assistants. |
+| Teaching training | University teaching center | Optional | Some universities require participation in teaching assistant training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 135,000。预计2023-2033年就业增长约4%，与平均水平持平。受高等教育入学人数波动影响，但研究生助教需求稳定。
+**Job demand: medium (★★½☆☆).** National workforce approx. 135,000. Employment is projected to grow about 4% from 2023 to 2033, about as fast as the average. Fluctuations in higher education enrollment affect demand, but graduate teaching assistant positions are stable.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 通常为助教奖学金或时薪制 |
-| 中级（3-6年） | $30,000~$40,000 | 博士后期或高级助教 |
-| 高级（6年以上） | $35,000~$50,000 | 兼任讲师或助理教授职位 |
+| Median salary | $42,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Typically as teaching assistantships or hourly wages |
+| Mid-level (3–6 years) | $30,000~$40,000 | Postdoctoral or senior teaching assistant |
+| Senior (6+ years) | $35,000~$50,000 | Concurrent lecturer or assistant professor position |
+| average salary | $47,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常为临时职位，是研究生学业的一部分。可发展为讲师或教授，或转向高等教育行政管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
+
+Typically a temporary position as part of graduate studies. Can advance to lecturer or professor, or transition to higher education administration roles.
+
+**Tasks most exposed to AI:**
+
+- Develops standardized courseware and teaching materials
+- Marking objective homework and exam papers
+- Answer common course questions (FAQ)
+- Track student learning progress and generate reports.
+- Basic skill demonstrations (e.g., software operation steps)
+
+**Where AI augments the role:**
+
+- Use AI to analyze student data and customize personalized learning paths.
+- Using AI to simulate complex industry scenarios to enhance practical teaching quality.
+- Using NLP tools to provide real-time translation of multilingual teaching content.
+- Use AI assessment tools to quickly diagnose trainees' skill gaps
+- Automatically generate industry case studies to keep courses relevant
+
+**Human moat:**
+
+- Industry hands-on experience and on-site teaching demonstration
+- High emotional intelligence interpersonal communication and student psychological support
+- Handle classroom emergencies and flexibly adjust teaching pace
+- Enterprise Customized Training Needs Analysis and Solution Design
+- Professional ethics and compliance judgment (e.g., certificate verification).
+
+**Skills to build:**
+
+- Learning Design and AI course tools (e.g., Articulate 360+AI plugins)
+- Data analysis basics (Python/R, for evaluating training effectiveness).
+- Soft skills enhancement: coaching, facilitating discussions, cross-cultural communication
+- Master mainstream AI teaching platforms (e.g., Canvas with AI, Squirrel AI).
+- Application of industry digital tools (e.g., VR/AR simulation teaching)
+- Project management (full process management of training programs)
+
+**Key growth areas:**
 
 - stable demand
 - graduate student role
@@ -64,65 +100,67 @@ Assist faculty in postsecondary institutions with instructional support such as 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass F-1（F-1 Student Visa） | 国际学生持F-1签证，助教职位通常为校内工作，受CPT或OPT限制。 |
-| Subclass J-1（J-1 Exchange Visitor Visa） | 部分国际学生或学者持J-1签证从事助教工作，需遵守回国服务要求。 |
+| Subclass F-1 (F-1 Student Visa) | International students on F-1 visas, teaching assistant positions are typically on-campus jobs subject to CPT or OPT restrictions. |
+| Subclass J-1 (J-1 Exchange Visitor Visa) | Some international students or scholars hold J-1 visas for teaching assistant positions, subject to home residency requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Teaching Assistants, Postsecondary？**
-- 计划攻读研究生的学术型人才
-- 希望积累教学经验的教育从业者
-- 对高校学术环境有热情的学生
+**Who is suited**
+- Academic talent planning to pursue graduate studies
+- Educators looking to gain teaching experience
+- Students passionate about the academic environment in higher education
 
-**谁不适合学Teaching Assistants, Postsecondary？**
-- 希望立即获得全职高薪工作的人
-- 对教学无兴趣、仅因经费需要者
+**Who is not suited**
+- Those seeking immediate full-time high-salary jobs
+- Those not interested in teaching, only in it for funding
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for higher education teaching assistants?**
+A: Teaching assistants are typically compensated through scholarships or hourly wages, annual income approximately US$25,000-50,000, lower than full-time teachers, but often includes tuition waivers.
+
+**Q: Can international students apply for a green card after working as teaching assistants?**
+A: Teaching assistant positions are typically temporary student status, not eligible for employer-sponsored green cards. After graduation, one can transition via OPT to H-1B, then apply for a green card through EB-2/EB-3, but competition is intense.
+
+**Q: How does teaching assistant experience help future career development?**
+A: Teaching assistant experience enhances teaching, communication, and organizational skills, laying the foundation for becoming a professor or education administrator, and also aids academic publishing and networking.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★☆☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Teaching Assistants, Postsecondary属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for postsecondary teaching assistants?**
-答：Teaching assistants typically receive stipends or hourly wages, with annual earnings between $25,000 and $50,000, often including tuition waivers.
-
-**问：Can international teaching assistants apply for a green card?**
-答：TA positions are temporary student roles and do not directly lead to employer-sponsored green cards. After graduation, one may transition to H-1B via OPT and then EB-2/EB-3, but competition is high.
-
-**问：How does being a TA benefit future career development?**
-答：TA experience enhances teaching, communication, and organizational skills, laying the foundation for becoming a professor or education administrator, and aids in academic publishing and networking.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

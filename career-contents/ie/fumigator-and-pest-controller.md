@@ -1,60 +1,95 @@
-# Fumigator and Pest Controller（Fumigator and Pest Controller）职业分析 · IE
+# Fumigator and Pest Controller — career analysis · Ireland
 
-**职业代码：7544 – Fumigator and Pest Controller。**
+**Occupation code: 7544 (ISCO08)**
 
-Responsible for controlling pests, weeds, and rodents using chemical or biological methods to protect buildings, crops, and public health, often working outdoors or in confined spaces.
+Responsible for controlling pests, weeds, and rodents using chemical or biological methods to protect buildings, crops, and public health, typically working outdoors or in confined spaces.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年 | —（义务教育免费） |
-| 职业培训课程 | 6个月至1年 | $1,000~$3,000（私人培训机构费用） |
-| 学徒制 | 2-3年 | —（在职培训，政府资助） |
+| High school graduation | 4 years | $0~$0 (Free compulsory education) |
+| Vocational training courses | 6 months to 1 year | $1,000~$3,000 (Private training institution fees) |
+| Apprenticeship | 2-3 years | $0~$500 (On-the-job training, government-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 害虫控制操作员证书 | 国家害虫控制协会（NPCA） | 必备 | 入门级证书，需通过理论和实践考试 |
-| 农药使用许可证 | 健康与安全局（HSA） | 必备 | 使用受限农药必备 |
-| 安全操作培训 | 雇主或培训机构 | 必备 | 涉及危险化学品处理 |
+| Pest Control Operator Certificate | National Pest Control Association (NPCA) | Required | Entry-level certificate, requires passing theory and practical exams |
+| Pesticide use permit | Health and Safety Authority (HSA) | Required | Required for using restricted pesticides |
+| Safety operation training | Employer or training provider | Required | Involves handling hazardous chemicals. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,500。随着食品安全和公共卫生法规加强，害虫控制需求稳定增长，行业年均增长约3-5%，但工作受经济周期影响较小。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 2,500. With enhanced food safety and public health regulations, pest control demand grows steadily at an annual rate of about 3-5%, though the job is less affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$52,000 | 税前年薪 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$52,000 | Annual pre-tax salary |
+| average salary | $37,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级技术员晋升为高级害虫控制员、团队主管或自雇承包商，部分人转向虫害综合管理（IPM）顾问或培训师。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fumigators and pest controllers face high risk of automation; AI and robots will replace core tasks such as inspection, monitoring, and application of chemicals, compressing many repetitive positions.
+
+Can progress from junior technician to senior pest controller, team supervisor, or self-employed contractor; some move into integrated pest management (IPM) consulting or training.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring systems replace manual inspections, using AI vision to identify pests or abnormal signs
+- Autonomous drones or robots perform precise spot spraying of chemicals
+- AI scheduling system automatically plans optimal spraying routes and dosages, reducing manual decisions
+- Data analysis platforms automatically generate disease reports and control recommendations, replacing on-site recorders
+
+**Where AI augments the role:**
+
+- Uses AI prediction models to analyze environmental data, proactively identifying pest outbreak risks and enhancing prevention capabilities
+- Using AI-assisted diagnostic tools to quickly and accurately identify pest types and control solutions
+- Use smart devices to collect on-site data, optimize spraying plans, and provide knowledge base support
+- Enhance decision-making in complex scenarios by simulating the effects of different pesticide application strategies with AI
+- Automatically generate personalized reports and compliance documents, enhancing communication with clients.
+
+**Human moat:**
+
+- On-site response capability to handle urgent, complex, or new pest outbreaks
+- Meticulous regulation and risk assessment for sensitive environments (e.g., food processing plants, hospitals)
+- Interpersonal interaction with clients to explain treatment plans and handle complaints
+- Perform precision manual operations using professional equipment (e.g., applying chemicals in confined spaces)
+- Comply with regulations and environmental requirements, making legally responsible professional judgments
+
+**Skills to build:**
+
+- Smart monitoring equipment and drone operation and maintenance
+- Data analysis and predictive modeling applications (e.g., Python/R)
+- Knowledge of precision spraying technology and biological pest control
+- Environmental and safety compliance management ability
+- Customer relationship management and digital communication skills
+- Awareness of continuously learning new regulations and eco-friendly methods
+
+**Key growth areas:**
 
 - Pest management
 - Public health
@@ -63,68 +98,67 @@ Responsible for controlling pests, weeds, and rodents using chemical or biologic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，薪资不低于€30,000/年。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 若职业列为紧缺技能，可申请，但害虫控制员通常不在列表。 |
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历和高薪，不适合此职业。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in shortage, requires employer sponsorship, salary no less than €30,000/year. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is listed as in-demand, you can apply, but pest controllers are usually not on the list. |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and high salary, not suitable for this occupation. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fumigator and Pest Controller？**
-- 喜欢户外工作、动手操作的人
-- 具备耐心和细致观察力的人
-- 能独立工作并适应灵活时间的人
-
-**谁不适合学Fumigator and Pest Controller？**
-- 对化学药剂敏感或害怕昆虫的人
-- 追求高薪或办公室工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and hands-on tasks
+- Individuals with patience and keen attention to detail
+- People who can work independently and adapt to flexible hours
+
+**Who is not suited**
+- People sensitive to chemicals or afraid of insects
+- Those seeking high salary or office jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pest controllers?**
+A: Entry-level approximately €25,000-€32,000, senior up to €52,000, but income is affected by season and region.
+
+**Q: Can foreigners immigrate to Ireland through this occupation?**
+A: Typically requires a General Employment Permit, must find an employer and meet salary requirements, not on the Critical Skills Occupation List.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Can advance to team leader, trainer, or self-employment, or transition to integrated pest management consultant.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Fumigator and Pest Controller的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pest controllers?**
-答：Entry-level €25,000-€32,000, senior up to €52,000, but varies by season and region.
-
-**问：Can foreigners immigrate to Ireland through this occupation?**
-答：Usually need a General Employment Permit, requiring employer sponsorship and meeting salary threshold; not on critical skills list.
-
-**问：Is there room for career advancement in this occupation?**
-答：Can advance to team supervisor, trainer, self-employment, or IPM consultant.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

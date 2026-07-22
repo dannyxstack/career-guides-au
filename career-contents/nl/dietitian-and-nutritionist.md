@@ -1,58 +1,91 @@
-# Dietitian and Nutritionist（Dietitian and Nutritionist）职业分析 · NL
+# Dietitian and Nutritionist — career analysis · Netherlands
 
-**职业代码：2265 – Dietitian and Nutritionist。**
+**Occupation code: 2265 (ISCO08)**
 
-Dietitians and nutritionists provide nutritional guidance for individuals and groups, prevent and treat diseases, and promote healthy lifestyles. In the Netherlands, they work primarily in healthcare, public health, and private consulting.
+Dietitians and nutritionists provide nutritional guidance to individuals and groups, prevent and treat diseases, and promote healthy lifestyles. In the Netherlands, they primarily work in healthcare, public health, and private consultancy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 应用科学大学本科 | 4年（本科） | $2,000~$10,000（欧盟学生约2000-4000欧元/年，非欧盟约8000-10000欧元/年） |
-| 研究型大学硕士 | 1-2年（硕士） | $2,000~$18,000（欧盟学生约2000欧元/年，非欧盟约10000-18000欧元/年） |
+| Bachelor's degree at a University of Applied Sciences | 4 years (bachelor's degree) | $2,000~$10,000 (EU students: approximately €2,000-4,000/year; non-EU: approximately €8,000-10,000/year) |
+| Research university master's degree | 1-2 years (Master's) | $2,000~$18,000 (EU students approximately 2,000 euros/year, non-EU approximately 10,000-18,000 euros/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营养师执业注册 | 荷兰营养师协会 (NVD) | 必备 | 完成认可课程后可注册，是多数雇主的要求 |
-| BIG注册 | 荷兰卫生、福利和体育部 | 必备 | 对于从事医疗营养干预的营养师，BIG注册是强制性的 |
+| Dietitian registration | Dutch Association of Dietitians (NVD) | Required | Registration is possible after completing an accredited course, and is required by most employers. |
+| BIG registration | Ministry of Health, Welfare and Sport of the Netherlands | Required | For nutritional therapists involved in medical nutrition interventions, BIG registration is mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。荷兰营养师需求稳定，因人口老龄化和慢性病增加，预防保健意识提升。就业机会主要集中在医院、老年护理、社区健康和体育营养领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Demand for dietitians in the Netherlands is stable due to an aging population and increase in chronic diseases, along with rising awareness of preventive healthcare. Employment opportunities are mainly in hospitals, elderly care, community health, and sports nutrition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，公立医院或初级保健机构 |
-| 中级（3-7年） | $35,000~$48,000 | 税前年薪，含经验及专科方向 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪，管理职或自主执业 |
+| Median salary | $59,675 | Median salary (official: CBS employee median hourly wage €30.2/hour × 1976h annualized, BRC group 1013 Fysiotherapeuten; P25–P75 €48,412–€70,741, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, public hospitals or primary care institutions |
+| Mid-level (3–7 years) | $35,000~$48,000 | Annual salary before tax, including experience and specialization |
+| Senior (7+ years) | $48,000~$60,000 | Pre-tax annual salary, management role or self-employed |
+| average salary | $42,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展路径包括从初级临床营养师到高级专家或管理职位，如营养部门主管、研究顾问或自主执业。也可向公共卫生政策、食品行业或学术方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dietitians face mixed AI impact: routine diet plans and nutritional assessments are easily automated, but clinical decision-making, behavior change guidance and other high-level services require human empathy and experience, providing a deeper moat.
+
+Career development pathways include progressing from junior clinical dietitian to senior specialist or management roles, such as nutrition department head, research consultant, or self-employment. Also possible to move into public health policy, food industry, or academia.
+
+**Tasks most exposed to AI:**
+
+- Generating individualized dietary plans based on standard guidelines
+- Nutrition calculation and recipe nutrition analysis
+- Automated patient diet recording and anomaly alerts
+- Routine nutrition screening and risk assessment reports
+
+**Where AI augments the role:**
+
+- Use AI to analyze the correlation between dietary patterns and health data
+- Provides personalized recipe plans via AI recommendation system
+- Using natural language processing tools to automatically generate nutrition education materials
+- Remote patient monitoring and follow-up with AI assistance
+
+**Human moat:**
+
+- Face-to-face dietary behavior counseling and motivational interviewing
+- Nutritional support plan formulation for complex diseases (e.g., kidney failure, ICU patients)
+- Clinical decision-making and ethical responsibility in multidisciplinary teams
+- Cultural sensitivity and individualized psychological guidance.
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Python/R for nutrition big data)
+- Electronic Health Records (EHR) and smart nutrition software operation
+- Application of remote health monitoring and digital therapy platforms
+- Cross-cultural communication and behavior change guidance skills
+- Clinical research design and evidence-based nutrition updates
+- AI Ethics and Privacy Protection Knowledge
+
+**Key growth areas:**
 
 - aging population
 - preventive care
@@ -61,68 +94,67 @@ Dietitians and nutritionists provide nutritional guidance for individuals and gr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于荷兰雇主担保的高技能移民，要求年收入至少约4,500欧元/月（30岁以上）或3,300欧元/月（30岁以下），且职业相关工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等职业资格，薪金门槛较高（约5,400欧元/月），有效期为1-4年，可带家属。 |
-| Subclass Orientation Year（Orientation Year） | 针对在荷兰毕业的留学生，可在毕业后一年内寻找工作，无收入门槛，适合转工签。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled migrants sponsored by Dutch employers, requiring annual income of at least approximately €4,500/month (over 30) or €3,300/month (under 30), and relevant work. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for higher vocational qualifications, with a higher salary threshold (approximately €5,400/month), valid for 1-4 years, and allows bringing family members. |
+| Subclass Orientation Year (Orientation Year) | International students graduating in the Netherlands can search for work within one year after graduation, with no income threshold, suitable for switching to a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitian and Nutritionist？**
-- 对营养科学有浓厚兴趣，关注健康饮食和疾病预防的人
-- 善于沟通，能够耐心指导他人改变饮食习惯的人
-- 希望在医疗领域工作，但不希望从事高强度临床操作的人
-
-**谁不适合学Dietitian and Nutritionist？**
-- 不喜欢与人互动或难以说服他人改变生活习惯的人
-- 追求高薪和快速晋升的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in nutritional science, focusing on healthy eating and disease prevention
+- Good communicator, able to patiently guide others to change eating habits
+- Those who want to work in healthcare but do not wish to engage in high-intensity clinical tasks
+
+**Who is not suited**
+- People who dislike interacting with others or find it difficult to persuade others to change habits
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a dietitian in the Netherlands?**
+A: The average annual salary for a dietitian in the Netherlands is approximately €35,000-50,000 before tax, entry-level around €28,000-35,000, and senior can reach €60,000. Salary varies by experience and employment sector.
+
+**Q: How can foreign nutritionists work in the Netherlands?**
+A: Foreign nutritionists must pass a Dutch B2 language exam (e.g., NT2) and obtain NVD registration or BIG registration. Can immigrate via the highly skilled migrant (kennismigrant) or EU Blue Card visa.
+
+**Q: What educational background is required to become a dietitian in the Netherlands?**
+A: Typically requires completion of a 4-year Bachelor of Nutrition at a University of Applied Sciences (HBO) or a Master's degree from a research university (WO). The curriculum must be recognized by NVD, after which registration as a dietitian is possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dietitian and Nutritionist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dietitians in the Netherlands?**
-答：The average annual salary for dietitians in the Netherlands is around €35,000-€50,000 before tax, with entry-level around €28,000-€35,000 and senior up to €60,000. Salary varies by experience and sector.
-
-**问：How can foreign dietitians work in the Netherlands?**
-答：Foreign dietitians need to pass Dutch language proficiency at B2 level (e.g., NT2) and obtain NVD registration or BIG registration. They can migrate via Highly Skilled Migrant (kennismigrant) or EU Blue Card visa.
-
-**问：What education is required to become a dietitian in the Netherlands?**
-答：Typically a 4-year bachelor's degree in dietetics from a university of applied sciences (HBO) or a master's from a research university (WO). The program must be recognized by the NVD for registration.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

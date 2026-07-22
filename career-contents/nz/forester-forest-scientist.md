@@ -1,59 +1,95 @@
-# Forester / Forest Scientist（Forester / Forest Scientist）职业分析 · 新西兰
+# Forester / Forest Scientist — career analysis · New Zealand
 
-**职业代码：234113 – Forester / Forest Scientist。**
+**Occupation code: 234113 (ANZSCO)**
 
-Foresters and forest scientists in New Zealand manage, protect, and restore forest resources, including ecological surveys, afforestation planning, pest control, and timber production optimization. Listed on the Green List Tier 1, eligible for direct residence under a clear migration pathway.
+Forest scientists in New Zealand are responsible for sustainable management, conservation, and restoration of forest resources, involving ecological surveys, afforestation planning, pest control, and timber production optimization. This occupation is on the Green List Tier 1, eligible for direct residence application with a clear skilled migration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $35,000~$45,000（年学费（国际学生）） |
-| 硕士 | 2年 | $40,000~$50,000（年学费（国际学生）） |
+| Bachelor's degree | 4 years | $35,000~$45,000 (Annual tuition (international students)) |
+| Master's degree | 2 years | $40,000~$50,000 (Annual tuition (international students)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业科学学士 | 坎特伯雷大学等 | 可选 | 通常要求相关学位，如林学、生态学或环境科学 |
-| 新西兰林业注册 | 新西兰林业协会 | 可选 | 注册为非强制，但有助于就业和移民加分 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民要求英语能力，总分不低于6.5 |
+| IELTS 6.5 | IELTS | Required | Skilled migration requires English proficiency, with an overall score no less than 6.5 |
+| Bachelor of Forest Science | University of Canterbury, etc. | Optional | Usually requires a relevant degree, such as Forestry, Ecology, or Environmental Science |
+| New Zealand forestry registration. | New Zealand Forest Owners Association. | Optional | Registration is not mandatory but helps with employment and immigration points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,200。新西兰拥有广阔的森林资源，林业是重要经济支柱之一。随着碳汇市场扩张和可持续林业发展，对林业科学家的需求稳定。政府扶持原生森林恢复和人工林管理，就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. New Zealand has vast forest resources, and forestry is a key economic pillar. With the expansion of carbon markets and sustainable forestry development, demand for forest scientists is stable. Government support for native forest restoration and plantation management ensures good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 见习或助理岗位 |
-| 中级（3-7年） | $70,000~$95,000 | 独立工作，负责项目 |
-| 高级（7年以上） | $95,000~$130,000 | 管理岗或资深专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Intern or assistant positions |
+| Mid-level (3–7 years) | $70,000~$95,000 | Work independently, responsible for projects |
+| Senior (7+ years) | $95,000~$130,000 | Management role or senior expert |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级职位如林业技术员开始，积累经验后晋升为林业科学家或森林经理；可转向研究、顾问或管理岗位，例如区域森林经理或林业政策分析师。持认证资格可提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
+
+Start in entry-level roles such as forestry technician, then advance to forestry scientist or forest manager after gaining experience; can transition to research, consulting, or management positions such as regional forest manager or forestry policy analyst. Holding certification can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatic sensor data collection and recording (e.g., weather, water quality data)
+- Routine patrol route planning and electronic logging
+- Automatic image recognition counting of wildlife populations
+- Legal knowledge base query and standardized report generation
+- Chatbot interaction for visitor registration and basic information inquiries
+
+**Where AI augments the role:**
+
+- Using drones and remote sensing imagery for large-scale forest health assessment
+- AI models predict fire risk and pest/disease spread paths to support management decisions.
+- Real-time data analyzers assist in monitoring environmental indicators like water quality and air pollution
+- Smart wearable devices enhance field patrol safety monitoring and emergency response efficiency
+- Virtual reality simulation training for public environmental education courses
+
+**Human moat:**
+
+- On-site diagnosis and comprehensive judgment ability for complex ecosystems
+- Deep communication and consultation with local communities, Indigenous peoples, and other stakeholders
+- On-site decision-making and command in emergency events (e.g., forest fires, illegal logging)
+- Long-term ecological restoration planning and execution based on local knowledge
+- Delivering emotionally engaging and trustworthy environmental education to the public
+
+**Skills to build:**
+
+- Proficient in GIS and remote sensing data analysis tools (e.g., ArcGIS, QGIS)
+- Learn Python or R for basic environmental data statistics and visualization
+- Familiarity with drone operation and aerial data processing workflows
+- Learn basic applications of AI/ML models in ecological monitoring
+- Enhance project management and cross-departmental collaboration skills
+- Master environmental regulation interpretation and automated report generation tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Foresters and forest scientists in New Zealand manage, protect, and restore fore
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 职业在绿色清单Tier 1，符合工资要求可直申居留 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制技术移民，符合学历和工作经验要求 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未满足直接居留，可通过认证雇主工签过渡 |
+| Subclass Green List T1 (Straight to Residence Visa) | Occupation is on Green List Tier 1; meeting salary requirements allows direct residence application |
+| Subclass SMC (Skilled Migrant Category) | Through the 6-point skilled migration system, meeting education and work experience requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residency is not met, a transition through employer-sponsored work visa is possible |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forester / Forest Scientist？**
-- 热爱自然与户外工作，具备生态学与林学知识
-- 善于数据分析和长期规划
-- 愿意在偏远地区工作，适应野外环境
-
-**谁不适合学Forester / Forest Scientist？**
-- 不喜户外工作和体力劳动
-- 倾向于高度结构化、办公室化的职业
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and outdoor work, with knowledge of ecology and forestry
+- Skilled in data analysis and long-term planning
+- Willing to work in remote areas, adapt to field environments
+
+**Who is not suited**
+- Not keen on outdoor work and physical labor
+- Prefer highly structured, office-based careers
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for forestry scientists?**
+A: Entry-level annual salary about NZ$55,000-70,000, mid-level NZ$70,000-95,000, senior NZ$95,000-130,000. Government or large forestry company roles pay higher.
+
+**Q: How can a forestry scientist migrate to New Zealand?**
+A: This occupation is on the Green List Tier 1, eligible for direct residence application. Also eligible under the Skilled Migrant Category 6-point system, requiring relevant qualifications and IELTS 6.5.
+
+**Q: Do I need registration or a license?**
+A: No mandatory registration, but the New Zealand Institute of Forestry offers professional registration to aid employment. Skill assessment required for skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forester / Forest Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for foresters?**
-答：Entry-level: NZD 55,000-70,000; Mid-level: NZD 70,000-95,000; Senior: NZD 95,000-130,000. Government and large forestry companies offer higher pay.
-
-**问：How can foresters migrate to New Zealand?**
-答：This occupation is on Green List Tier 1, eligible for straight-to-residence visa. Alternatively, apply via Skilled Migrant Category (6-point system) with relevant degree and IELTS 6.5.
-
-**问：Is registration or license required?**
-答：No mandatory registration, but professional registration with the New Zealand Institute of Forestry is beneficial. Qualification assessment is needed for migration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

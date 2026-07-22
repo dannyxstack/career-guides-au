@@ -1,61 +1,95 @@
-# Licensed Practical and Licensed Vocational Nurses（Licensed Practical and Licensed Vocational Nurses）职业分析 · 美国
+# Licensed Practical and Licensed Vocational Nurses — career analysis · United States
 
-**职业代码：29-2061 – Licensed Practical and Licensed Vocational Nurses。**
+**Occupation code: 29-2061 (SOC)**
 
-Provide basic nursing care and life support to patients in hospitals, nursing homes, clinics, and private homes under the supervision of registered nurses.
+Provide basic care and life support for patients in hospitals, nursing homes, clinics, and homes under the supervision of registered nurses.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 实践护理文凭 | 1-2年 | $5,000~$15,000（社区学院或职业技术学校） |
-| 副学士学位 | 2年 | $10,000~$30,000（可选但非必需） |
+| Diploma of Practical Nursing | 1-2 years | $5,000~$15,000 (Community college or vocational technical school) |
+| Associate degree | 2 years | $10,000~$30,000 (Optional but not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 执业护士执照（NCLEX-PN） | 州护理委员会 | 必备 | 必须通过NCLEX-PN考试 |
-| 心肺复苏认证 | 美国心脏协会 | 必备 | 多数雇主要求 |
-| IPA / IV 认证 | 州护理委员会 | 可选 | 部分州要求独立实践 |
+| Licensed practical nurse (NCLEX-PN) | State nursing board | Required | Must pass the NCLEX-PN exam |
+| CPR certification | American Heart Association | Required | Most employers require |
+| IPA / IV certification | State nursing board | Optional | Some states require independent practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 688,000。美国劳工部预计2023-2033年岗位增长5%，老龄化社会推动需求。薪资中位数约$55,000。
+**Job demand: high (★★★★☆).** National workforce approx. 688,000. The US Bureau of Labor Statistics projects 5% job growth from 2023-2033, driven by an aging society. Median salary around $55,000.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 养老院或家庭护理机构 |
-| 中级（4-9年） | $50,000~$60,000 | 医院或诊所 |
-| 高级（10年以上） | $60,000~$75,000 | 专科护理或管理岗 |
+| Median salary | $64,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$50,000 | Nursing home or home care agency |
+| Intermediate (4-9 years) | $50,000~$60,000 | Hospital or clinic |
+| Senior (10+ years) | $60,000~$75,000 | Specialist nursing or management positions |
+| average salary | $67,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从执业护士晋升为注册护士（RN），需通过RN考试；也可转向护理管理或专科护理（如老年护理）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI/automation on nurse practitioner tasks is mixed: some paperwork and monitoring tasks are simplified, but core bedside care and patient interaction are hard to replace, possibly increasing the need for humanized care.
+
+Can progress from enrolled nurse to registered nurse (RN) by passing RN exam; can also move to nursing management or specialist nursing (e.g., aged care).
+
+**Tasks most exposed to AI:**
+
+- Electronic health record (EHR) data entry and updates
+- Automatic monitoring of basic vital signs and anomaly alerts
+- Standardized drug dosage calculation and verification.
+- Automated generation and distribution of patient education materials
+
+**Where AI augments the role:**
+
+- Faster identification of condition changes through AI-assisted diagnostic tools.
+- Guide patient rehabilitation training using virtual reality (VR)
+- Remote monitoring of chronic disease patients via smart wearable devices
+- Use natural language processing (NLP) to quickly generate nursing reports
+- Prioritize high-risk patients using predictive models
+
+**Human moat:**
+
+- Direct physical care (e.g., wound treatment, injections)
+- Emotional support and real-time empathetic communication
+- Clinical judgment and rapid decision-making in emergencies
+- Non-verbal communication in cross-team collaboration
+
+**Skills to build:**
+
+- Proficiency in electronic health record (EHR) systems and AI analysis tools
+- Learn to use remote patient monitoring platforms
+- Basic data analysis and medical statistics knowledge
+- Clinical communication skills in human-machine collaboration
+- Awareness of ethics and privacy protection (especially with AI-assisted diagnostics)
+- Ability to continuously learn new technologies
+
+**Key growth areas:**
 
 - Aging population
 - Home healthcare
@@ -64,67 +98,69 @@ Provide basic nursing care and life support to patients in hospitals, nursing ho
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需本科学位，LPN通常只要求文凭，不符合标准 |
-| Subclass Green Card (PERM)（Green Card via PERM） | 需雇主担保，LPN通常无法通过劳工证，因教育要求低 |
-| Subclass J-1（J-1 Exchange Visitor） | 用于文化交流或实习，但非长期工作 |
-| Subclass TN（TN NAFTA Professional） | 仅限注册护士，LPN不符合 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree; LPN usually only requires a diploma, does not meet standard |
+| Subclass Green Card (PERM) (Green Card via PERM) | Employer sponsorship required; LPNs generally cannot obtain a labor certification due to low education requirements. |
+| Subclass J-1 (J-1 Exchange Visitor) | Used for cultural exchange or internships, but not long-term work |
+| Subclass TN (TN NAFTA Professional) | Registered nurses only, LPN does not qualify |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Licensed Practical and Licensed Vocational Nurses？**
-- 有耐心和同情心的人
-- 适应快节奏环境的人
-- 愿意从基层护理开始的人
+**Who is suited**
+- Patient and compassionate people
+- People who thrive in fast-paced environments
+- People willing to start from entry-level caregiving
 
-**谁不适合学Licensed Practical and Licensed Vocational Nurses？**
-- 追求高薪和快速晋升的人
-- 不愿意轮班或周末工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- those unwilling to work shifts or weekends
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary of a nurse practitioner?**
+A: US Department of Labor 2023 median about $55,000, entry-level about $40,000-$50,000, senior up to $75,000.
+
+**Q: Is it easy for LPNs to immigrate to the US?**
+A: Extremely difficult. LPNs typically do not meet H-1B degree requirements, and PERM is also hard due to low education level; virtually no skilled migration pathway.
+
+**Q: What education is needed to become an LPN?**
+A: Complete a 1-2 year practical nursing diploma program and obtain a state license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Licensed Practical and Licensed Vocational Nurses属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for LPNs?**
-答：BLS reported median annual wage around $55,000 in 2023, entry-level $40,000-$50,000, experienced up to $75,000.
-
-**问：Is it easy for LPNs to immigrate to the US?**
-答：Very difficult. LPNs usually lack the bachelor's degree for H-1B, and PERM is challenging due to low education requirement; almost no skilled migration path.
-
-**问：What education is required to become an LPN?**
-答：Complete a 1-2 year practical nursing diploma program and obtain state license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

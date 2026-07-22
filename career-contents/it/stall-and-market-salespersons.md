@@ -1,59 +1,92 @@
-# Stall and Market Salespersons（Stall and Market Salespersons）职业分析 · IT
+# Stall and Market Salespersons — career analysis · Italy
 
-**职业代码：5211 – Stall and Market Salespersons。**
+**Occupation code: 5211 (ISCO08)**
 
-Sell goods such as food, clothing, and household items from stalls or market stands, dealing directly with customers.
+Sell food, clothing, daily necessities, and other goods from fixed stalls or markets, transacting directly with customers.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无特定学历要求 | 无 | —（通常不需要正式教育） |
+| No specific educational requirements | None | $0~$0 (Usually no formal education required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | 地方卫生局 | 必备 | 若销售食品，需取得基本食品卫生培训证书 |
-| 摊位许可证 | 市政府 | 必备 | 在公共市场经营需申请许可证 |
+| Food hygiene certificate | Local Health District | Required | If selling food, you must obtain a basic food hygiene training certificate |
+| Stall License | City Government | Required | A permit is required to operate in public markets. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 45,000。意大利传统露天市场和集市需求稳定，但受电商和超市竞争影响，就业增长缓慢。本地旅游区的季节性摊位仍有需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 45,000. Traditional open-air markets and fairs in Italy have stable demand but face competition from e-commerce and supermarkets, leading to slow employment growth. Seasonal stalls in tourist areas still have demand.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$20,000 | 多为兼职或临时工 |
-| 中级（3-6年） | $18,000~$25,000 | 经验丰富的全职摊主 |
-| 高级（6年以上） | $22,000~$30,000 | 拥有多个摊位或旺季高收入 |
+| Median salary | $21,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $15,000~$20,000 | Mostly part-time or casual work |
+| Mid-level (3–6 years) | $18,000~$25,000 | Experienced full-time stallholder |
+| Senior (6+ years) | $22,000~$30,000 | Multiple stalls or high income during peak season |
+| average salary | $21,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从摊位助手晋升为独立摊位经营者，或转向零售店管理、商品采购等岗位。部分从业者通过积累经验后开设自己的小生意。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI automation will replace some transaction and inventory tasks, but the essence of stall sales—interpersonal interaction, on-site decision-making, and flexible service—is difficult to replace; total positions may shrink slightly but the structure will upgrade.
+
+Can progress from stall assistant to independent stall operator, or transition to retail store management, merchandise procurement, etc. Some practitioners start their own small businesses after gaining experience.
+
+**Tasks most exposed to AI:**
+
+- Use a cash register to process simple transactions and give change
+- Manually recording inventory and sales reports
+- Execute fixed pricing and promotional label placement
+- Answering common questions about product location and price queries (via self-service kiosk)
+
+**Where AI augments the role:**
+
+- Optimize daily stock quantities and category mix through AI demand forecasting
+- Use mobile payment/data analysis tools to quickly complete transactions and generate sales insights
+- Enhance customer experience through digital signage and AR try-on/trial displays
+- Promote stalls and maintain customer relationships via social media/local platforms
+
+**Human moat:**
+
+- On-site interpersonal interaction and trust building (e.g., recommendations, price negotiation, customer care)
+- Flexible decision-making for unexpected situations (e.g., stockouts, customer complaints, weather changes)
+- Instant sensory judgment of product quality (e.g., food freshness, fabric feel).
+- Local community relationship networks and word-of-mouth marketing.
+
+**Skills to build:**
+
+- Basic data literacy: reading sales reports, using Excel or lightweight BI tools
+- Digital marketing basics: social media operations, localized ad placement
+- Proficient in mobile payments and POS systems
+- Ability to quickly learn and adapt to new tools
+- Cross-cultural communication and customer service skills.
+- Basic inventory management and supply chain coordination.
+
+**Key growth areas:**
 
 - seasonal work
 - local markets
@@ -62,65 +95,67 @@ Sell goods such as food, clothing, and household items from stalls or market sta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 非欧盟公民通过年度配额申请，适用于季节性市场工作。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民可自由在意大利从事该职业，无需工作许可。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Non-EU citizens apply through annual quotas, suitable for seasonal market work. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work in this occupation in Italy without a work permit. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stall and Market Salespersons？**
-- 喜欢与人交流、性格外向的人
-- 能够接受灵活工作时间（包括周末和假期）
-- 有一定创业意愿，愿意经营自己的摊位
+**Who is suited**
+- People-oriented, extroverted personalities
+- Able to work flexible hours, including weekends and holidays
+- Have some entrepreneurial willingness, willing to operate their own stall
 
-**谁不适合学Stall and Market Salespersons？**
-- 追求稳定收入和职业保障的人
-- 不习惯站立工作或长时间在外暴露的人
+**Who is not suited**
+- People seeking stable income and job security
+- Those unaccustomed to standing work or prolonged outdoor exposure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of stall sales staff stable?**
+A: Income fluctuates significantly, heavily impacted by season, location, and customer traffic; peak season income can double.
+
+**Q: How can non-EU citizens obtain a work visa for this occupation?**
+A: Seasonal work permits primarily via Decreto Flussi annual quota, requiring employer sponsorship. EU citizens have free movement rights.
+
+**Q: Does this career have growth potential?**
+A: Can develop from a stallholder to an operator with multiple stalls, or move into retail management. However, career advancement paths are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stall and Market Salespersons属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of stall salespersons stable?**
-答：Income fluctuates significantly, heavily influenced by season, location, and foot traffic; can double during peak seasons.
-
-**问：How can non-EU citizens obtain a work visa for this occupation?**
-答：Mainly through the Decreto Flussi annual quota for seasonal work permits, requiring employer sponsorship. EU citizens have freedom of movement.
-
-**问：Does this occupation have growth potential?**
-答：You can progress from a small vendor to a multi-stall operator or move into retail management, but career advancement is limited.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Laborers and Freight, Stock, and Material Movers, Hand（Laborers and Freight, Stock, and Material Movers, Hand）职业分析 · 美国
+# Laborers and Freight, Stock, and Material Movers, Hand — career analysis · United States
 
-**职业代码：53-7062 – Laborers and Freight, Stock, and Material Movers, Hand。**
+**Occupation code: 53-7062 (SOC)**
 
-Manually move freight, stock, luggage, or other materials, or perform other general labor. Includes all manual laborers not elsewhere classified, excluding construction laborers and helpers.
+Manually move freight, luggage, stock, or other materials, or perform other general physical labor. Includes all physical laborers not classified elsewhere, but excludes construction laborers and helpers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费，但仅需完成学业） |
-| 短期在职培训 | 1个月 | —（雇主通常提供培训，无需额外学费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high school is free, but only need to complete studies) |
+| Short-term on-the-job training | 1 month | $0~$500 (Employers usually provide training; no additional tuition required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证或GED | 州教育部门 | 可选 | 大多数雇主雇佣至少拥有高中文凭或同等学历的工人 |
-| 叉车操作员证书 | OSHA或认证培训机构 | 可选 | 搬运工如果需要操作叉车，通常需要此认证 |
+| High school diploma or GED | State education department | Optional | Most employers hire workers with at least a high school diploma or equivalent |
+| Forklift operator certificate | OSHA or certified training provider | Optional | This certification is typically required if a mover needs to operate a forklift |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,100,000。随着电商和物流业持续增长，对搬运工的需求保持稳定。预计2024-2034年就业增长约5%，与所有职业平均水平相当。但自动化仓储可能限制部分岗位增长。
+**Job demand: high (★★★★☆).** National workforce approx. 2,100,000. Employment for movers remains stable as e-commerce and logistics grow steadily. Employment is projected to grow about 5% from 2024 to 2034, similar to the average for all occupations. However, automated warehousing may limit growth in some positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级时薪约$13-$17 |
-| 中级（3-7年） | $35,000~$45,000 | 平均年薪约$38,000 |
-| 高级（7年以上） | $45,000~$55,000 | 经验丰富者可晋升为主管，年薪可达$50,000以上 |
+| Median salary | $40,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level hourly wage around $13-$17 |
+| Mid-level (3–7 years) | $35,000~$45,000 | Average annual salary around $38,000 |
+| Senior (7+ years) | $45,000~$55,000 | Experienced individuals can advance to supervisor, with annual salary up to $50,000+ |
+| average salary | $42,260 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从入门级开始，积累经验后可晋升为团队负责人、仓库主管或物流协调员。部分工人通过培训获得叉车等设备操作证书，转向更高薪职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Forklift drivers and material handlers face a certain threat from AI automation; repetitive lifting and sorting tasks may be replaced by machines, but flexible operations in complex environments, teamwork, and task coordination still depend on humans, overall risk moderate to high.
+
+Typically start at entry-level, can advance to team leader, warehouse supervisor, or logistics coordinator after gaining experience. Some workers obtain equipment operation certificates (e.g., forklift) through training, moving to higher-paying roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive lifting along fixed routes within a warehouse
+- Simple sorting by barcode or color
+- Use RFID scanners for inventory counting
+- Stack goods on automated conveyor lines
+- Load and unload pallets following standardized procedures.
+
+**Where AI augments the role:**
+
+- receiving real-time navigation instructions via wearable devices to improve handling efficiency
+- Using AI scheduling systems to optimize routes and task allocation
+- Quickly identify cargo locations using augmented reality (AR) glasses
+- Use data analysis tools to predict material demand and reduce empty runs
+- Operate automated forklifts or AGVs for collaborative work
+
+**Human moat:**
+
+- Flexible handling and problem solving in unstructured environments
+- Fine handling of fragile items and irregularly shaped goods
+- Rapid response and team coordination in emergencies
+- Direct communication and negotiation with customers, drivers, and other personnel
+- Supervise the operation of multiple automated machines and handle anomalies
+
+**Skills to build:**
+
+- Operate automated guided vehicles (AGVs) and smart warehousing systems
+- Master basic operation of Warehouse Management System (WMS)
+- Learn basic data analysis and lean logistics knowledge
+- Enhance collaborative communication and team leadership skills
+- Obtain certification for electric handling equipment like forklifts
+- Learn basics of troubleshooting and maintaining automated equipment
+
+**Key growth areas:**
 
 - e-commerce growth
 - warehouse expansion
@@ -63,63 +99,65 @@ Manually move freight, stock, luggage, or other materials, or perform other gene
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 适用于临时非农业体力劳动者，但搬运工通常不符合特殊技能要求，需雇主证明劳动力短缺。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Applies to temporary non-agricultural manual workers, but movers usually do not meet special skill requirements; employer must prove labor shortage. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Laborers and Freight, Stock, and Material Movers, Hand？**
-- 体力好、能长时间站立和搬运重物的人
-- 希望快速进入劳动力市场、无需高学历的人
+**Who is suited**
+- People who are physically strong and can stand for long periods and lift heavy items.
+- For those seeking quick entry into the labor market without needing a higher degree
 
-**谁不适合学Laborers and Freight, Stock, and Material Movers, Hand？**
-- 希望从事高技能或高薪职业的人
-- 对体力劳动有健康限制的人
+**Who is not suited**
+- People who wish to pursue high-skilled or high-paying occupations
+- Those with health restrictions for manual labour
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a mover?**
+A: According to BLS data, the average annual salary in 2024 was approximately USD 37,000, with entry-level around USD 28,000 and experienced workers reaching USD 45,000 or more. The median hourly wage was about USD 17.
+
+**Q: What visas can moving laborers use to immigrate to the US?**
+A: This occupation typically does not meet H-1B specialty occupation requirements and is rarely eligible for EB-2/EB-3 green cards. Only possibly through H-2B temporary worker visas, but with limited quotas and requiring employer sponsorship, the immigration path is difficult.
+
+**Q: Is there career advancement for movers?**
+A: Yes, can advance to warehouse supervisor, logistics coordinator or operations manager. By obtaining forklift or equipment operation certifications, you can move to higher-paying technical roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★★） |
-
-Laborers and Freight, Stock, and Material Movers, Hand属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for laborers and material movers?**
-答：According to BLS, the average annual salary is about $37,000 in 2024, entry-level around $28,000, and experienced workers can earn over $45,000. Median hourly wage is about $17.
-
-**问：What visas are available for material movers to immigrate to the US?**
-答：This occupation generally does not qualify for H-1B professional visas or EB-2/EB-3 green cards. Only H-2B temporary visa may be possible but limited and employer-sponsored, making immigration difficult.
-
-**问：Is there career advancement for laborers and material movers?**
-答：Yes, they can advance to warehouse supervisor, logistics coordinator, or operations manager. By obtaining forklift or equipment certifications, they can move to higher-paying technical roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

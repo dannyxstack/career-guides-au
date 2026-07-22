@@ -1,60 +1,93 @@
-# Sports Umpire（Sports Umpire）职业分析 · 澳大利亚
+# Sports Umpire — career analysis · Australia
 
-**职业代码：452322 – Sports Umpire。**
+**Occupation code: 452322 (ANZSCO)**
 
-Sports Umpires officiate at sporting events, enforcing rules and making judgments to ensure fair play. They need in-depth knowledge of sport rules, sharp observation, and quick decision-making, often working in amateur or semi-professional leagues.
+Sports referees enforce rules and make judgments in various sports events to ensure fair play. They usually need knowledge of relevant sports rules, good observation, and decision-making skills, and often work in amateur or semi-professional leagues.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 短期培训课程 | 数周至数月 | $500~$2,000（由各州体育协会或国家体育组织提供，费用因运动项目而异。） |
-| 无正式学历要求 | N/A | —（通常不要求高等教育，但需通过相关运动裁判认证。） |
+| Short-term training course | A few weeks to several months | $500~$2,000 (Provided by state sports associations or national sports organizations, with fees varying by sport.) |
+| No formal education requirements | N/A | $0~$0 (Higher education usually not required, but relevant sports referee certification is needed.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运动项目裁判认证 | 各运动国家管理机构（如Cricket Australia） | 必备 | 必须完成并持续更新，部分项目需定期重考。 |
-| 急救证书 | 澳大利亚红十字会或类似机构 | 可选 | 部分赛事组织者要求提供，非强制但推荐。 |
+| Sports event referee certification | National sporting bodies (e.g. Cricket Australia) | Required | Must be completed and continuously updated; some projects require regular re-examination. |
+| First aid certificate | Australian Red Cross or similar organizations | Optional | Some event organizers require it, not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。澳洲体育产业持续增长，但全职裁判岗位有限，就业竞争激烈。多数职位为兼职或临时工，机会集中于热门运动（如澳式足球、板球、网球）。预计未来五年需求将平稳增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. Australia's sports industry continues to grow, but full-time referee positions are limited and competition is intense. Most roles are part-time or casual, with opportunities concentrated in popular sports (e.g. AFL, cricket, tennis). Demand is expected to grow steadily over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$40,000 | 兼职或临时工作，时薪约30-50澳元 |
-| 中级（3-10年） | $40,000~$70,000 | 定期执法，如地区联赛，时薪50-80澳元 |
-| 高级（10年以上） | $70,000~$120,000 | 全职或国家级裁判，包括比赛津贴和差旅费 |
+| Median salary | $74,984 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $20,000~$40,000 | Part-time or temporary work, hourly rate approx. AUD $30-50 |
+| Intermediate (3-10 years) | $40,000~$70,000 | Regular law enforcement, e.g., regional leagues, $50-80 AUD per hour |
+| Senior (10+ years) | $70,000~$120,000 | Full-time or national-level referee, including match allowances and travel expenses |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级裁判可通过积累经验晋升至国家级赛事执法。部分人进入体育管理、教练或赛事组织领域。少数顶尖裁判可全职服务于职业联赛，收入可观。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on sports referee roles is mixed: rule enforcement and penalty assistance may be automated, but dispute resolution, emotional management, and on-field adaptability still require human judgment.
+
+Junior referees can advance to officiate at national-level events by gaining experience. Some enter sports management, coaching, or event organization. A few top referees work full-time in professional leagues with substantial income.
+
+**Tasks most exposed to AI:**
+
+- Use AI video analysis to automatically judge rule-based decisions such as offside and out-of-bounds.
+- Automatic scoring and timing via sensor data
+- Automatically generate match reports and statistics
+- Using AI referee systems for standardized foul calls (e.g., traveling in basketball)
+
+**Where AI augments the role:**
+
+- AI-assisted video replay system helps referees quickly review disputed calls
+- AI analyzes player movement trajectories to warn of potentially dangerous actions
+- AI provides real-time data to support referees in making more accurate decisions
+- AI simulates competition scenarios for referee training and assessment.
+- AI analyzes referee decision consistency to enhance fairness
+
+**Human moat:**
+
+- Handling unforeseen disputes and emergencies in sports competitions
+- Maintains game fairness and on-site authority (e.g., stopping player conflicts)
+- Flexibly adjust judgment standards based on game atmosphere and player emotions
+- Subjective interpretation and judgment of rules (e.g., malicious foul determination)
+
+**Skills to build:**
+
+- AI video replay system operation (e.g., VAR, Hawk-Eye)
+- Data analysis and penalty modeling
+- Conflict management and on-site emotional regulation
+- Multi-sport rules proficiency (enhanced flexibility)
+- Digital report generation and remote collaboration
+
+**Key growth areas:**
 
 - Sporting events growth
 - Amateur leagues expansion
@@ -63,62 +96,64 @@ Sports Umpires officiate at sporting events, enforcing rules and making judgment
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 极少数情况下，雇主可担保经验丰富的裁判，但通常不符合职业清单要求。 |
-| Subclass 407（Training Visa） | 可用于参加体育组织提供的培训项目，但非长期工作签证。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | In rare cases, employers can sponsor experienced referees, but they usually do not meet occupation list requirements. |
+| Subclass 407 (Training Visa) | Can be used for training programs offered by sports organizations, but not as a long-term work visa. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports Umpire？**
-- 热爱体育运动并熟悉特定项目规则
-- 具备良好观察力、沟通力和决断力
-- 适应户外工作和不规律时间安排
+**Who is suited**
+- Love sports and be familiar with the rules of specific events
+- Possess good observation, communication, and decision-making skills
+- Able to adapt to outdoor work and irregular schedules
 
-**谁不适合学Sports Umpire？**
-- 难以承受现场观众和运动员压力
-- 期望稳定全职高收入者
+**Who is not suited**
+- Unable to cope with pressure from live audience and athletes
+- Ideal for those seeking stable full-time high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income of sports referees?**
+A: Income varies greatly by project and level. Entry-level referees earn about AUD 30–50 per hour, with part-time annual income of AUD 10,000–40,000; senior national-level referees can work full-time, earning AUD 70,000–120,000 per year. Most referees work part-time.
+
+**Q: Can sports referees migrate to Australia via skilled migration?**
+A: Almost impossible. The occupation is not on the skilled occupation list, with no relevant 482/189/190 visa pathways. Only very few exceptions through employer sponsorship, but requires proof that local recruitment is not possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Sports Umpire属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income of a sports umpire?**
-答：Income varies widely by sport and level. Junior umpires earn AU$30-50 per hour, part-time annual income AU$10,000-40,000; senior national umpires may work full-time earning AU$70,000-120,000. Most umpires work part-time.
-
-**问：Can a sports umpire migrate to Australia via skilled migration?**
-答：Extremely unlikely. The occupation is not on the skilled occupation list, and there are no 482/189/190 visa pathways. Only rare employer-sponsored cases may exist if no local candidates are available.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

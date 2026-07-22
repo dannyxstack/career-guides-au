@@ -1,58 +1,90 @@
-# Electric Motor, Power Tool, and Related Repairers（Electric Motor, Power Tool, and Related Repairers）职业分析 · 美国
+# Electric Motor, Power Tool, and Related Repairers — career analysis · United States
 
-**职业代码：49-2092 – Electric Motor, Power Tool, and Related Repairers。**
+**Occupation code: 49-2092 (SOC)**
 
-Repair, maintain, or install electric motors, power tools, switches, and related equipment to ensure proper operation.
+Responsible for repairing, maintaining, or installing electric motors, power tools, switches, and related equipment to ensure proper operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭加短期培训 | 数月至1年 | $5,000~$15,000（职业技术学校或社区学院课程费用） |
-| 学徒制 | 4年 | —（在职学习，可能收取少量费用） |
+| High school diploma plus short-term training | Several months to 1 year | $5,000~$15,000 (Course fees at vocational schools or community colleges) |
+| Apprenticeship | 4 years | $0~$5,000 (On-the-job learning, possibly with a small fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业或同等学历 | 高中/教育局 | 必备 | 基本入学要求 |
-| 电工认证 | 州许可委员会 | 可选 | 部分州要求持证上岗 |
+| High school graduation or equivalent | High school / Education bureau. | Required | Basic admission requirements |
+| Electrician Certification | State licensing board | Optional | Some states require licensing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 10,800。随着工业自动化和电动工具的普及，对修理师的需求保持稳定。预计就业增长缓慢，主要替代因退休产生的职位空缺。
+**Job demand: medium (★★★☆☆).** National workforce approx. 10,800. As industrial automation and power tools become widespread, demand for repairers remains stable. Employment growth is expected to be slow, mainly replacing positions vacated by retirees.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $31,000~$42,000 | 学徒或入门级 |
-| 中级（3-8年） | $42,000~$55,000 | 熟练修理工 |
-| 高级（8年以上） | $55,000~$70,000 | 主管或专家 |
+| Median salary | $56,210 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $31,000~$42,000 | Apprentice or entry-level |
+| Mid-level (3–8 years) | $42,000~$55,000 | Skilled repairer |
+| Senior (8+ years) | $55,000~$70,000 | Supervisor or specialist |
+| average salary | $58,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从学徒或初级修理工起步，通过积累经验考取高级认证，晋升为主管或技术专家，亦可创业开设修理店。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on motor mechanics is mixed: automated diagnostics and predictive maintenance simplify some testing tasks, but physical repairs, field work, and compliance responsibilities remain a moat; entry-level jobs face increased competition due to AI tools, but demand for senior technicians is rising.
+
+Can start as an apprentice or junior repairer, gain advanced certifications through experience, advance to supervisor or technical expert, or start your own repair shop.
+
+**Tasks most exposed to AI:**
+
+- AI automatically diagnoses motor fault causes and generates repair recommendations
+- AI predicts potential motor failures in advance through vibration analysis
+- AI records and analyzes maintenance data, automatically generating reports
+- AI reads digital meters and sensor data replacing manual measurement
+
+**Where AI augments the role:**
+
+- AI-assisted identification of rare fault patterns, improving diagnostic accuracy.
+- AR glasses overlay repair diagrams to accelerate manual disassembly and assembly
+- AI-optimized inventory management of spare parts, reducing waiting time
+- AI recommends the best repair plan based on historical data
+
+**Human moat:**
+
+- Physical diagnosis and manual repair of complex faults
+- On-site safety operations and emergency response skills
+- Communicate repair plans and quotes with customers
+- Adapt to non-standard equipment and unusual working conditions
+
+**Skills to build:**
+
+- Learn AI diagnostic tools (e.g., IBM Maximo)
+- Basic programming and data analysis (Python)
+- Proficient in digital multimeters and oscilloscopes
+- Obtain higher-level electrical certification (e.g., NEMA)
+- Learn remote monitoring and IoT device management
+
+**Key growth areas:**
 
 - Electrical Equipment Maintenance
 - Industrial Automation
@@ -61,67 +93,66 @@ Repair, maintain, or install electric motors, power tools, switches, and related
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位或同等经验，雇主需证明职位专业性。该职业常见于修理师职位，但竞争激烈。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于技术工人，需PERM劳工证及雇主担保，排期较长。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent experience; employers must demonstrate the position is professional. This occupation is common for repairer roles but competitive. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applicable to skilled workers, requires PERM labor certification and employer sponsorship, long wait times. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electric Motor, Power Tool, and Related Repairers？**
-- 喜欢动手修理、有耐心的人
-- 对电动机和电动工具感兴趣的人
-- 愿意学习技术细节的人
-
-**谁不适合学Electric Motor, Power Tool, and Related Repairers？**
-- 不擅长精细操作的人
-- 对电气安全不在意的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on repair work and have patience
+- People interested in electric motors and power tools
+- Those willing to learn technical details
+
+**Who is not suited**
+- People who are not good at fine motor tasks
+- People who are not concerned about electrical safety
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level approx. $31,000-42,000, mid-level $42,000-55,000, senior $55,000-70,000, varies by region and experience.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Can apply via H-1B or EB-3, but requires employer sponsorship, with low H-1B lottery odds and long EB-3 processing times. Overall difficulty is moderate.
+
+**Q: What are the career development paths?**
+A: Can advance from apprentice to skilled worker, then to supervisor or technical expert, also can obtain electrician license or start a repair shop.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electric Motor, Power Tool, and Related Repairers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level around $31,000-$42,000, mid-level around $42,000-$55,000, senior around $55,000-$70,000, varies by location and experience.
-
-**问：Is it easy to immigrate to the US for this occupation?**
-答：Possible via H-1B or EB-3, but requires employer sponsorship; H-1B lottery low chance, EB-3 long wait. Moderate difficulty.
-
-**问：What are the career advancement paths?**
-答：From apprentice to skilled repairer, then to supervisor or specialist; may obtain electrician license or start own repair shop.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

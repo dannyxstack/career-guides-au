@@ -1,60 +1,93 @@
-# Shopkeeper（Shopkeeper）职业分析 · IT
+# Shopkeeper — career analysis · Italy
 
-**职业代码：5221 – Shopkeeper。**
+**Occupation code: 5221 (ISCO08)**
 
-Shopkeepers operate retail stores, managing daily operations, inventory, and customer service, typically in small independent shops.
+A shopkeeper is the operator of a retail store, responsible for daily management, inventory control, and customer service, common in small independent stores.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 无需高等教育 | —（通常无特定教育要求） |
-| 职业培训 | 6个月-1年 | $2,000~$5,000（零售管理或商业课程） |
+| High school diploma or equivalent | No higher education required | $0~$0 (Usually no specific educational requirements.) |
+| Vocational training | 6 months to 1 year | $2,000~$5,000 (Retail management or business courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营业执照 | Comune（市政府） | 必备 | 必须注册并持有相关商业许可证 |
-| 增值税号 | Agenzia delle Entrate | 必备 | 需注册Partita IVA |
+| Business License | Comune (municipal government) | Required | Must be registered and hold the relevant business license |
+| VAT number | Agenzia delle Entrate | Required | Requires registration of Partita IVA |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 250,000。意大利零售业受电商冲击和消费习惯变化影响，传统独立店铺面临挑战，但旅游区和特色小店仍有稳定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 250,000. In Italy, the retail industry is impacted by the rise of e-commerce and changes in consumer habits, with traditional independent stores facing challenges, but steady demand remains in tourist areas and specialty shops.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 小型店铺或员工状态 |
-| 中级（3-8年） | $25,000~$40,000 | 独立经营的中型店铺利润 |
-| 高级（8年以上） | $40,000~$60,000 | 大型店铺或多店经营者 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Small store or employee status |
+| Mid-level (3–8 years) | $25,000~$40,000 | Profit from independently operated medium-sized shops |
+| Senior (8+ years) | $40,000~$60,000 | Large store or multi-store operator. |
+| average salary | $34,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展可从个体店老板扩展至连锁店经理或开设多家分店，部分店主转向线上销售或转型为批发商。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The shopkeeper role has mixed prospects: automated checkout and inventory management replace basic tasks, but AI amplifies human effort in customer analysis and marketing; core functions relying on physical stores and interpersonal trust are hard to replace in the short term.
+
+Career progression can expand from individual shop owner to chain store manager or opening multiple branches, with some owners shifting to online sales or transitioning to wholesalers.
+
+**Tasks most exposed to AI:**
+
+- Automated checkout and self-service payment systems take over cashier tasks
+- AI inventory management system automatically performs order replenishment and inventory counting
+- Chatbots handle common customer inquiries (e.g., business hours, return/exchange policies)
+- Automated pricing algorithm dynamically adjusts commodity prices based on market demand
+
+**Where AI augments the role:**
+
+- AI analysis of sales data drives personalized marketing and customer segmentation
+- Smart recommendation system assists in product selection and store layout optimization
+- Automated financial report generation reduces manual bookkeeping workload
+- Social media AI tools assist with content creation and ad placement
+
+**Human moat:**
+
+- Complex client negotiations and personalised services (e.g., custom advice, complaint handling)
+- Community relationship maintenance and localized interpersonal trust
+- Ad-hoc unstructured problem solving (e.g. equipment breakdowns, customer complaints)
+- Store atmosphere creation and brand experience design
+
+**Skills to build:**
+
+- Data analysis and basic SQL/Excel skills
+- Social media operations and use of digital marketing tools
+- Operation and setup of AI inventory management software
+- Application of Customer Relationship Management (CRM) systems
+- Basic financial and profit analysis skills
+- Cross-cultural communication and employee management skills
+
+**Key growth areas:**
 
 - E-commerce impact
 - Local specialty shops
@@ -63,66 +96,68 @@ Shopkeepers operate retail stores, managing daily operations, inventory, and cus
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi） | 适用于非欧盟雇员，需雇主担保并获得工作许可，每年配额有限。 |
-| Subclass EU Blue Card（EU Blue Card Italy） | 适用于高技能工作者，但店主职业通常不符要求，除非管理大型零售企业。 |
-| Subclass 自雇工作签证（Lavoro Autonomo Visa） | 适合计划开店自雇的非欧盟公民，需满足投资额度及商业计划审核。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Applicable to non-EU employees, requiring employer sponsorship and a work permit, with a limited annual quota. |
+| Subclass EU Blue Card (EU Blue Card Italy) | Applicable to high-skilled workers, but the shopkeeper occupation usually does not meet requirements unless managing a large retail enterprise. |
+| Subclass Self-employed Work Visa (Lavoro Autonomo Visa) | Suitable for non-EU citizens planning to open a self-employed business, subject to investment amount and business plan review. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shopkeeper？**
-- 喜欢独立经营和决策的人
-- 对零售和客户服务有热情的人
-- 愿意承担创业风险的人
+**Who is suited**
+- People who like independent management and decision-making
+- Passionate about retail and customer service
+- People willing to take on entrepreneurial risks
 
-**谁不适合学Shopkeeper？**
-- 寻求稳定收入和低风险者
-- 不愿长时间工作或周末上班者
+**Who is not suited**
+- Seeking stable income and low risk
+- Those unwilling to work long hours or on weekends
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a shopkeeper in Italy?**
+A: Annual salary for junior shop owners is about €18,000-25,000, intermediate €25,000-40,000, and senior or large store operators can reach €40,000-60,000.
+
+**Q: How can non-EU citizens immigrate to Italy by opening a business?**
+A: Requires application for a self-employment work visa, submission of a business plan, and proof of sufficient funds, typically with a minimum investment of about €50,000.
+
+**Q: What key skills does a shop owner need?**
+A: Requires basic accounting, inventory management, customer service, marketing, and some manual or product knowledge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shopkeeper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a shopkeeper in Italy?**
-答：Entry-level shopkeepers earn around €18,000-€25,000, mid-level €25,000-€40,000, and senior or large-store operators €40,000-€60,000.
-
-**问：How can non-EU citizens immigrate to Italy by opening a shop?**
-答：Apply for a Lavoro Autonomo visa with a business plan and proof of sufficient funds, typically requiring a minimum investment of around €50,000.
-
-**问：What key skills are needed to be a shopkeeper?**
-答：Basic accounting, inventory management, customer service, marketing, and some product knowledge.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

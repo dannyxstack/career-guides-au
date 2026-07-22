@@ -1,61 +1,97 @@
-# Director of Small or Medium Enterprise（Director of Small or Medium Enterprise）职业分析 · FR
+# Director of Small or Medium Enterprise — career analysis · France
 
-**职业代码：M1302 – Director of Small or Medium Enterprise。**
+**Occupation code: M1302 (ROME)**
 
-Responsible for overall management of small or medium enterprises, including strategic planning, operations, finance, HR, and market development to ensure profitability and growth.
+Responsible for the comprehensive management of SMEs, including strategic planning, operations, finance, human resources, and market development, ensuring profitability and growth.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等商校或大学硕士 | 5年（硕士） | $30,000~$100,000（学费因学校而异，公立大学约30000欧元，顶尖商学院可达100000欧元。） |
-| 大学校硕士（Grande École） | 5年（含预备班） | $50,000~$150,000（Grande École项目学费较高，但精英网络优势明显。） |
-| 学徒制（Apprentissage） | 2年（Master） | —（通过学徒合同入学，学费由企业承担，同时获得工资。） |
+| Master's degree from a higher business school or university | 5 years (Master's) | $30,000~$100,000 (Tuition varies by school, with public universities about 30,000 euros and top business schools up to 100,000 euros.) |
+| Master's degree in Grande École | 5 years (including preparatory class) | $50,000~$150,000 (The Grande École program has higher tuition fees, but the advantages of the elite network are obvious.) |
+| Apprentissage | 2 years (Master) | $0~$0 (Enrollment through an apprenticeship contract is covered by the company, and a salary is also received.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 硕士文凭（Master） | 法国大学或商学院 | 必备 | 管理、金融、市场营销等相关领域硕士为常见要求。 |
-| 专业认证（如PMP、CFA） | PMI、CFA Institute等 | 可选 | 非强制，但增强竞争力。 |
+| Master's Diploma | French universities or business schools | Required | A master's degree in management, finance, marketing, or related fields is a common requirement. |
+| Professional certifications (such as PMP, CFA) | PMI, CFA Institute, and others | Optional | Not mandatory, but it enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 800,000。法国中小企业占企业总数的99%，是经济支柱。数字化转型、绿色转型和国际化需求推动该职业持续增长。France Travail预测未来5年招聘需求旺盛，但竞争也激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800,000. Small and medium-sized enterprises (SMEs) account for 99% of all enterprises in France and are the backbone of the economy. Digital transformation, green transformation, and international demands are driving the continued growth of this profession. France Travail predicts strong recruitment demand over the next five years, but competition is also fierce.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 助理总监或小型企业负责人。 |
-| 中级（3-10年） | $60,000~$100,000 | 中型企业部门负责人或小型企业CEO。 |
-| 高级（10年以上） | $100,000~$200,000 | 中型企业CEO或大型企业区域总监。 |
+| Median salary | $80,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$60,000 | Assistant Director or Small Business Leader. |
+| Intermediate (3-10 years) | $60,000~$100,000 | Heads of medium-sized business departments or CEOs of small businesses. |
+| Senior (10+ years) | $100,000~$200,000 | CEOs of medium-sized enterprises or regional directors of large enterprises. |
+| average salary | $68,059 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从部门经理（销售、财务等）晋升至CEO或区域总监，也可创业成为企业主。积累经验后可转向大型企业高管或管理咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+SME directors have a wide range of responsibilities. AI can take over routine tasks such as data analysis and reporting, but strategic decision-making, customer relations, and team management rely on interpersonal judgment, resulting in both risks and opportunities alike.
+
+Typically, they are promoted from department manager (sales, finance, etc.) to CEO or regional director, and can also start a business owner. After gaining experience, you can move on to executive management or management consulting in large enterprises.
+
+**Tasks most exposed to AI:**
+
+- Summary of financial data and generation of preliminary reports
+- Routine monitoring and early warning of inventory and supply chain
+- Automatic response to customer emails and frequently asked questions
+- Administrative schedule and meeting minutes organized
+- Market information collection and basic analysis
+
+**Where AI augments the role:**
+
+- AI-assisted market trend forecasting and strategic planning modeling
+- Automatically generate financial analysis reports to assist decision-making
+- Enhance customer relationship management with CRM systems
+- AI-driven employee performance data analysis
+- Real-time operations dashboards improve management efficiency
+
+**Human moat:**
+
+- Complex strategic trade-offs and long-term vision formulation
+- Interpersonal leadership skills such as team motivation and conflict mediation
+- Customer trust is built through negotiations with senior management
+- Crisis management and decision-making in uncertain environments
+- Shaping corporate culture and conveying values
+
+**Skills to build:**
+
+- AI tool applications (such as GPT, Power BI)
+- Data literacy and quantitative analysis
+- Digital strategy and change management
+- Cross-cultural communication and remote team leadership
+- Agile and lean management methods
+- Cybersecurity and Compliance Foundations
+
+**Key growth areas:**
 
 - Digital transformation
 - Green transition
@@ -64,65 +100,67 @@ Responsible for overall management of small or medium enterprises, including str
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，如高管或创新项目负责人。需雇主担保或自雇。 |
-| Subclass Salarié（Employee） | 受雇于法国企业，需工作许可和雇主担保。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, such as executives or innovation project leaders. Employer sponsorship or self-employment required. |
+| Subclass Salarié (Employee) | Employed by a French company, work permit and employer sponsorship are required. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Director of Small or Medium Enterprise？**
-- 有战略思维和领导力，愿意承担全面管理责任
-- 具备多任务处理能力和抗压性
-- 愿意在中小企业环境中灵活应对挑战
+**Who is suited**
+- Strategic thinking and leadership, willing to take on full management responsibilities
+- It has multitasking capabilities and stress resistance
+- Willing to flexibly respond to challenges in an SME environment
 
-**谁不适合学Director of Small or Medium Enterprise？**
-- 偏好单一职能或执行性工作，不愿处理综合事务
-- 对不稳定的工作节奏和较高责任感到不适
+**Who is not suited**
+- Prefer single-function or executive tasks, unwilling to handle comprehensive duties.
+- Uncomfortable with an unstable work pace and high sense of responsibility
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for SME directors?**
+A: Entry-level: about EUR 40,000-60,000, mid-level: 60,000-100,000, senior up to 100,000-200,000 (pre-tax annual salary). Bonuses and profit sharing are common.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: The likelihood is low. This position is not in short supply and requires management experience and French language skills. Applications can be made through Passeport Talent (employed or entrepreneurial), but competition is fierce.
+
+**Q: How to become a director for small and medium-sized enterprises?**
+A: Usually, a master's degree in management (business school or university) is required, with over 10 years of management experience and familiarity with various corporate functions. Entrepreneurial experience or an MBA is a plus.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Director of Small or Medium Enterprise属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a director of SME?**
-答：Entry-level: €40,000-60,000; mid-level: €60,000-100,000; senior: €100,000-200,000 (gross annual). Bonuses and profit sharing are common.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：Low possibility. The occupation is not in shortage and requires management experience and French. Talent Passport (employed or entrepreneurial) is possible but competitive.
-
-**问：How to become a director of SME?**
-答：Typically requires a master's in management (business school or university), 10+ years of management experience, and knowledge of business functions. Entrepreneurship or MBA is a plus.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

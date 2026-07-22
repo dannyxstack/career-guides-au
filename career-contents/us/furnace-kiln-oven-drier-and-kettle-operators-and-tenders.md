@@ -1,60 +1,92 @@
-# Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders（Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders）职业分析 · 美国
+# Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders — career analysis · United States
 
-**职业代码：51-9051 – Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders。**
+**Occupation code: 51-9051 (SOC)**
 
-Operate or tend heating equipment other than basic metal, plastic, or food processing, including annealing glass, drying lumber, curing rubber, removing moisture, or boiling soap.
+Operates or tends heating equipment other than for metal, plastic, or food processing, such as glass annealing, wood drying, rubber vulcanization, removing moisture from materials, or boiling soap.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常要求高中文凭，在职培训为主） |
-| 社区学院或技术学校证书 | 1年 | $5,000~$15,000（学习加热设备操作、安全规范等） |
+| High school diploma or equivalent | 0 years | $0~$0 (Typically requires a high school diploma, with on-the-job training as the main approach) |
+| Community college or technical school certificate | 1 year | $5,000~$15,000 (Learn heating equipment operation, safety regulations, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 在职培训 | 雇主 | 必备 | 通常需要数月到一年的在职培训 |
-| 安全认证 | OSHA | 可选 | 部分雇主要求OSHA安全培训 |
+| On-the-job training | Employer | Required | Typically requires several months to a year of on-the-job training |
+| Safety certification | OSHA | Optional | Some employers require OSHA safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 17,500。该职业就业前景稳定，受制造业和建筑行业需求支撑。自动化可能减少部分岗位，但维护和操作复杂设备仍需技术工人。年均增长约1%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 17,500. The employment outlook for this occupation is stable, supported by demand from manufacturing and construction. Automation may reduce some roles, but maintenance and operation of complex equipment still require skilled workers. Average annual growth of about 1%.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级薪资 |
-| 中级（3-6年） | $42,000~$52,000 | 有经验操作员 |
-| 高级（6年以上） | $52,000~$65,000 | 高级操作工或主管 |
+| Median salary | $48,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level salary |
+| Mid-level (3–6 years) | $42,000~$52,000 | Experienced operator |
+| Senior (6+ years) | $52,000~$65,000 | Senior operator or supervisor |
+| average salary | $50,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 从操作员起步，可晋升为高级操作工、班组长或生产主管。积累经验后可转向设备维护或质量控制岗位。部分人员通过进修成为工业工程师或生产经理。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The work of furnace, dryer, and boiler operators is highly repetitive and in fixed environments; AI and automation will largely take over core tasks like monitoring and adjustment, leading to a reduction in positions, but on-site maintenance and abnormal handling still require human labor.
+
+Start as an operator, can advance to senior operator, team leader, or production supervisor. After gaining experience, can shift to equipment maintenance or quality control. Some people become industrial engineers or production managers through further study.
+
+**Tasks most exposed to AI:**
+
+- Continuously monitor furnace temperature, pressure, and other parameters, and manually adjust
+- Start or stop boilers or dryers according to scheduled programs
+- Recording operation logs and performance data
+- Perform routine fuel addition and slag removal
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems can warn of equipment failures in advance, reducing downtime
+- Smart sensors optimize combustion efficiency in real time, reducing energy consumption
+- Digital twin simulation of different conditions to assist process parameter setting.
+- automated report generation and anomaly analysis, improving management efficiency
+
+**Human moat:**
+
+- On-site emergency response capability (e.g., equipment leaks, fires)
+- Experience in mechanical repair of old or non-standard equipment.
+- Cross-process coordination and process improvement decision-making
+- Comply with safety regulations and handle complex regulatory compliance requirements
+
+**Skills to build:**
+
+- Operation of industrial automation control systems (e.g., DCS, PLC)
+- Data analysis and basic programming (Python/SQL)
+- Use of predictive maintenance tools
+- Safety and environmental regulations (OSHA, EPA)
+- Communication, coordination, and problem-solving skills
+
+**Key growth areas:**
 
 - Manufacturing
 - Automation
@@ -63,62 +95,64 @@ Operate or tend heating equipment other than basic metal, plastic, or food proce
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合要求，因该职业通常不属专业职位 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能通过PERM劳工证申请，但需证明短缺，难度较大 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not eligible, as this occupation is usually not a professional position |
+| Subclass EB-3 (EB-3 Skilled Workers) | Possible through PERM labor certification, but shortage needs to be proven, quite difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders？**
-- 喜欢动手操作和机械工作的人
-- 能够适应高温和体力劳动环境的人
-- 注重安全规范、细心耐心的人
+**Who is suited**
+- People who enjoy hands-on and mechanical work
+- People who can adapt to high temperature and physical labor environments
+- People who value safety regulations and are careful and patient
 
-**谁不适合学Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders？**
-- 不喜欢体力劳动和高温环境的人
-- 寻求高薪和快速晋升的人
+**Who is not suited**
+- People who dislike physical labor and high-temperature environments
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for furnace operators?**
+A: US furnace operator median annual salary approx. $45,000, entry-level about $35,000, senior can reach $65,000+.
+
+**Q: Can foreigners come to the U.S. to work as furnace operators on a work visa?**
+A: Difficult. This occupation is not a professional role and typically does not qualify for H-1B. EB-3 green card is theoretically possible but requires PERM to prove labor shortage, and the salary is low, with weak employer support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for furnace operators?**
-答：The median annual salary for furnace operators in the US is about $45,000, with entry-level around $35,000 and senior up to $65,000.
-
-**问：Can foreign workers get a work visa for furnace operator jobs in the US?**
-答：It's difficult. The occupation is not a specialty occupation for H-1B. EB-3 green card is theoretically possible via PERM, but requires proving labor shortage, and low wages make employer sponsorship unlikely.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

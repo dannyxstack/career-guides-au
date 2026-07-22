@@ -1,59 +1,93 @@
-# Other Language Teacher（Other Language Teacher）职业分析 · IT
+# Other Language Teacher — career analysis · Italy
 
-**职业代码：2353 – Other Language Teacher。**
+**Occupation code: 2353 (ISCO08)**
 
-Other Language Teachers in Italy teach foreign languages other than Italian, such as English, French, German, and Spanish. They work in public schools, private language institutes, universities, and corporate training.
+Other Italian language teachers are primarily responsible for teaching non-Italian foreign language courses, such as English, French, German, Spanish, etc. Workplaces include public schools, private language schools, universities, and corporate training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，因地区和家庭收入而异） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（部分私立大学更高） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition varies by region and family income.) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Higher at some private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证 | 意大利教育部 | 必备 | 在公立学校任教必须持有，需通过国家考试 |
-| 语言教学证书（如DELTA、CELTA） | 剑桥大学等 | 可选 | 私立学校和语言机构优先考虑 |
-| 母语或接近母语水平证明 | 相关语言机构 | 可选 | 对于某些语言教学有帮助 |
+| Teaching license/certificate | Italian Ministry of Education | Required | Must hold to teach in public schools, requires national exam |
+| Language teaching certificates (e.g., DELTA, CELTA) | University of Cambridge, etc. | Optional | Private schools and language institutions are given priority. |
+| Evidence of native or near-native proficiency | Relevant language institutions | Optional | Useful for certain language teaching |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。意大利对外语教育的需求持续稳定，尤其英语教学需求旺盛。随着国际化进程，其他语言如中文、阿拉伯语的需求也在增加。但公立学校职位竞争激烈，私立机构更灵活。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. Demand for foreign language education in Italy remains steady, especially for English. With globalization, demand for languages like Chinese and Arabic is also increasing. However, public school positions are competitive, while private institutions offer more flexibility.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 私立语言学校兼职或初级教师 |
-| 中级（3-7年） | $25,000~$35,000 | 私立学校全职或公立学校合同教师 |
-| 高级（7年以上） | $35,000~$50,000 | 公立学校终身教师或私立机构主管 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Part-time or junior teachers at private language schools. |
+| Mid-level (3–7 years) | $25,000~$35,000 | Full-time private school or contract teacher in public schools |
+| Senior (7+ years) | $35,000~$50,000 | Tenured teacher at public school or head of private institution |
+| average salary | $31,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展可从私立语言学校的兼职教师起步，逐步转为全职教师或课程主管。也可在公立学校通过考试获得终身职位。此外，可转向企业培训师、教育咨询或教材开发。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact of AI on language teachers is mixed: basic grammar and vocabulary teaching are easily replaceable, but demand for high-interaction and cultural immersion teaching is increasing, leading to polarization of job value.
+
+Career development can start as a part-time teacher at a private language school, gradually transitioning to a full-time teacher or course director. It is also possible to obtain a tenured position in public schools through examinations. Additionally, one can move into corporate training, educational consulting, or curriculum development.
+
+**Tasks most exposed to AI:**
+
+- Basic Grammar and Vocabulary Instruction
+- Standardized exercise grading and feedback
+- Language proficiency test score
+- Simple conversation practice and correction
+
+**Where AI augments the role:**
+
+- Personalized learning path design and recommendation (AI analyzes student weaknesses)
+- Immersive virtual reality language environment creation (AI-generated situational dialogues)
+- Real-time voice correction and pronunciation analysis
+- Cultural background knowledge integration and dynamic courseware generation
+
+**Human moat:**
+
+- Emotional support and motivation for learning
+- Cross-cultural communication and contextual interpretation
+- Facilitating complex high-level discussions
+- Creative writing and literary appreciation guidance.
+- Emergency classroom interaction management
+
+**Skills to build:**
+
+- Use of AI teaching tools (e.g., ChatGPT, speech recognition platforms)
+- Data Analysis and Learning Outcome Evaluation
+- Course design and blended teaching ability
+- Knowledge of industry-specific language applications (e.g., business, law)
+- Multilingual and Cross-Cultural Communication Skills
+- Digital content creation (video, interactive courseware)
+
+**Key growth areas:**
 
 - English language demand
 - multilingualism
@@ -62,68 +96,67 @@ Other Language Teachers in Italy teach foreign languages other than Italian, suc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历和至少年薪约24,787欧元（2023年），语言教师通常满足，但需雇主担保。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟公民在意大利工作，需雇主申请，配额有限。 |
-| Subclass 自雇工作签证（Autonomous Work Visa） | 适用于以自雇形式提供语言教学服务，需证明经济能力和商业计划。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a university degree and an annual salary of at least approximately €24,787 (2023); language teachers usually qualify but need employer sponsorship. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens to work in Italy, requiring employer sponsorship and limited quotas. |
+| Subclass Self-employed Work Visa (Autonomous Work Visa) | Applicable to providing language teaching services on a self-employed basis; requires proof of financial capacity and a business plan. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Language Teacher？**
-- 热爱语言教学，拥有外语专业背景或母语水平
-- 适应灵活工作时间，能接受兼职或合同制
-- 愿意持续学习教学方法，获取国际认可证书
-
-**谁不适合学Other Language Teacher？**
-- 希望快速获得高薪或稳定终身职位
-- 不擅长跨文化交流或课堂管理
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about language teaching, with a foreign language background or native-level proficiency.
+- Adapt to flexible working hours, able to accept part-time or contract roles
+- Willingness to continuously learn teaching methods and obtain internationally recognized certifications
+
+**Who is not suited**
+- Those hoping to quickly obtain high salaries or stable lifelong positions
+- Not adept at cross-cultural communication or classroom management
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Italian language teacher?**
+A: The average annual salary for Italian language teachers is approximately 25,000-35,000 euros, but entry-level teachers at private schools may only earn 18,000-24,000 euros. Tenured teachers at public schools can earn over 35,000 euros.
+
+**Q: How can non-EU citizens become language teachers in Italy?**
+A: Non-EU citizens can work in Italy via the EU Blue Card (requires university degree and employer sponsorship) or the annual Decreto Flussi work quota visa. Some private schools also offer work visa support.
+
+**Q: What certificates are needed to teach languages in Italy?**
+A: To teach in public schools, you must hold a teaching qualification issued by the Italian Ministry of Education. Private schools value internationally recognized certificates such as CELTA, DELTA, and proof of native language proficiency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other Language Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for language teachers in Italy?**
-答：The average annual salary for language teachers in Italy is around €25,000-€35,000, but entry-level private school teachers may earn €18,000-€24,000. Tenured public school teachers can earn over €35,000.
-
-**问：How can non-EU citizens become language teachers in Italy?**
-答：Non-EU citizens can obtain an EU Blue Card (requiring a university degree and employer sponsorship) or a Decreto Flussi work quota visa. Some private schools may also sponsor work visas.
-
-**问：What certifications are required to teach languages in Italy?**
-答：To teach in public schools, you need a teaching qualification from the Italian Ministry of Education. Private schools value international certificates like CELTA or DELTA, along with native-level proficiency proof.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

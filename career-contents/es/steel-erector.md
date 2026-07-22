@@ -1,61 +1,93 @@
-# Steel Erector（Steel Erector）职业分析 · ES
+# Steel Erector — career analysis · Spain
 
-**职业代码：7314 – Steel Erector。**
+**Occupation code: 7314 (CNO)**
 
-Assembles, positions, and secures metal structures such as building frames, bridges, and industrial plants on-site; a key skilled trade in construction.
+On-site assembly, positioning, welding, and securing of metal structures (such as building steel frames, bridges, and industrial plants) are key technical skills in the construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立FP学费低，约500-1000欧元/年；私立约2000欧元/年。） |
-| 高级职业教育（FP Grado Superior） | 2年 | $500~$2,500（公立约500-1500欧元/年；私立约1500-2500欧元/年。） |
-| 大学本科（Grado en Ingeniería Civil） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年；私立约4000-6000欧元/年。） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public FP tuition is low, about 500-1000 euros per year; Private tuition costs about 2000 euros per year.) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $500~$2,500 (Public fees are about 500-1500 euros per year; Private ones pay about 1500-2500 euros per year.) |
+| Undergraduate (Grado en Ingeniería Civil) | 4 years | $1,000~$6,000 (Public universities approx. 1,000-2,000 EUR/year; private approx. 4,000-6,000 EUR/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业安全认证 | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) 或授权培训机构 | 必备 | 必须持有有效的高空作业证书，通常每5年更新。 |
-| 焊接认证（如EN 1090） | 西班牙标准化协会（UNE）或欧洲认证机构 | 可选 | 钢结构安装常涉及焊接，持有EN 1090认证可提升竞争力。 |
-| 建筑技工资格证（Tarjeta Profesional de la Construcción） | Fundación Laboral de la Construcción | 可选 | 行业推荐，证明基本安全与技能培训。 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 第三国学历需进行官方认可，尤其是大学学历。 |
+| Certification for working at heights | Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) or authorized training institutions | Required | You must hold a valid work at height certificate, which is usually renewed every five years. |
+| Welding certification (such as EN 1090) | The Spanish Institute for Standardization (UNE) or the European Accreditation Body | Optional | Steel structure installation often involves welding, and holding EN 1090 certification can enhance competitiveness. |
+| Construction Technician Qualification Certificate (Tarjeta Profesional de la Construcción) | Fundación Laboral de la Construcción | Optional | Industry recommendations that certify basic safety and skills training. |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Third-country diplomas must be officially recognized, especially university degrees. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。西班牙基础设施建设与可再生能源项目（如光伏支架）持续推动需求，但受经济周期影响较大。2023年建筑业增长约3%，钢结构安装工在大型项目中需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Spain's infrastructure and renewable energy projects (such as photovoltaic mounts) continue to drive demand but are heavily affected by economic cycles. The construction industry grew by about 3% in 2023, with stable demand for steel structure installers in large projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含加班可能更高。 |
-| 中级（3-7年） | $28,000~$35,000 | 具备独立安装能力，可能担任小组长。 |
-| 高级（7年以上） | $35,000~$45,000 | 工头或技术专家，大型项目薪资更高。 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including overtime, may be higher. |
+| Mid-level (3–7 years) | $28,000~$35,000 | Capable of independent installation, possibly serving as a group leader. |
+| Senior (7+ years) | $35,000~$45,000 | Foremen or technical experts earn higher salaries for large projects. |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从初级安装工晋升为工头或现场主管，也可通过进修成为钢结构详图员或项目经理。积累经验后可自主创业承接分包工程。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
+
+You can be promoted from junior installer to foreman or site supervisor, or through further training to become a steel structure detailer or project manager. After accumulating experience, you can start your own business and undertake subcontracted projects.
+
+**Tasks most exposed to AI:**
+
+- AI-assisted automatic rebar cutting and bending
+- BIM-based automatic layout and setting out
+- Automatic rechecking of rebar positions before concrete pouring
+- Standardized Binding Robotics Operations
+
+**Where AI augments the role:**
+
+- BIM models available 24/7 to aid understanding of complex nodes
+- AR glasses overlay rebar placement drawings, reducing drawing reading errors
+- Auto stirrup bender parameters optimized by AI reduce material waste
+- On-site quality inspection using AI vision for rapid anomaly feedback
+
+**Human moat:**
+
+- Flexible tying and adjustment in complex/irregular structures
+- Adaptability to severe weather and field conditions
+- Team collaboration and problem-solving in unexpected situations.
+- Safety compliance enforcement and risk assessment
+
+**Skills to build:**
+
+- Proficiency in BIM model viewing software (e.g., Tekla, Revit)
+- Learn automated rebar processing equipment operation
+- Basic data analysis and mobile quality inspection tool usage
+- Simple AR/VR device operation and maintenance
+- Continuous learning of new standards and digital processes
+
+**Key growth areas:**
 
 - Infrastructure
 - Renewable Energy
@@ -64,69 +96,68 @@ Assembles, positions, and secures metal structures such as building frames, brid
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employed Workers） | 最常见的工作居留，需西班牙雇主担保，符合劳动市场测试要求。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，要求大学学历或至少5年相关经验，薪资门槛约33,908欧元/年（2024年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa (Ley 14/2013)） | 针对高技能人才，学历或经验要求，流程简化，可携带家属。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit for Employed Workers) | The most common work residency requires a Spanish employer sponsorship and meets labor market testing requirements. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or at least 5 years of relevant experience, with a salary threshold of approximately 33,908 euros per year (2024). |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For highly skilled talents with educational or experience requirements, the process is simplified, allowing family members to be brought along. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must prove your financial capability. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Steel Erector？**
-- 喜欢户外体力劳动、动手能力强的人
-- 有建筑或金属加工经验者
-- 愿意接受高空作业和安全培训的人
-
-**谁不适合学Steel Erector？**
-- 恐高或对体力劳动不适应者
-- 不喜欢户外多变工作环境的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical labor and are hands-on
+- Experience in construction or metalworking
+- Those willing to undergo high-altitude work and safety training
+
+**Who is not suited**
+- Those afraid of heights or unsuitable for physical labor
+- People who dislike the ever-changing outdoor work environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for structural steel installers?**
+A: Entry-level salaries are about 22,000-28,000 euros per year, intermediate salaries 28,000-35,000 euros, and seniors up to 45,000 euros. Overtime and large project bonuses can add extra income.
+
+**Q: How can third-country citizens immigrate to Spain through this employment?**
+A: Immigration can be made through the EU Blue Card (requiring education or experience) or work residence (employer-sponsored). Spain's construction industry faces labor shortages, and immigration success rates are relatively high after obtaining job opportunities.
+
+**Q: What educational background is required to become a steel structure installer?**
+A: Typically, it is necessary to complete FP secondary vocational education (2 years) or directly through apprenticeship training. Holding a safety certification for working at heights is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Steel Erector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for steel erectors?**
-答：Entry-level annual salary is around €22,000-€28,000, mid-level €28,000-€35,000, and senior up to €45,000. Overtime and project bonuses can add extra income.
-
-**问：How can third-country nationals immigrate through this occupation?**
-答：You can apply for an EU Blue Card (requires degree or experience) or a work permit with employer sponsorship. Spain's construction sector faces labor shortages, making job offers more viable.
-
-**问：What education is needed to become a steel erector?**
-答：Typically requires a 2-year FP intermediate vocational training or apprenticeship. A safety certificate for working at heights is mandatory.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Process Engineer（Process Engineer）职业分析 · 新西兰
+# Process Engineer — career analysis · New Zealand
 
-**职业代码：233912 – Process Engineer。**
+**Occupation code: 233912 (ANZSCO)**
 
-Process Engineers design and optimize production processes in energy, chemical, dairy, and agri-processing sectors, typically eligible for Green List direct residence as a long-term shortage occupation in New Zealand.
+Process engineers design and optimize production processes in energy, chemical, dairy, and agricultural processing industries. Typically eligible for Green List direct residence, a long-term skill shortage occupation in New Zealand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $35,000~$45,000（国际学生每年学费约35,000-45,000 NZD，国内学生约8,000-10,000 NZD） |
-| 硕士（工程硕士） | 1-2年 | $40,000~$55,000（国际学生每年学费约40,000-55,000 NZD） |
+| Bachelor's degree (Engineering) | 4 years | $35,000~$45,000 (International student tuition approx. NZD 35,000-45,000 per year; domestic students approx. NZD 8,000-10,000 per year) |
+| Master's (Master of Engineering) | 1-2 years | $40,000~$55,000 (International student tuition: approximately 40,000-55,000 NZD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程文凭（化学过程工程） | 新西兰工程协会 Engineering New Zealand | 可选 | 建议通过特许专业工程师认证以提升就业和移民竞争力 |
-| 雅思 Academic 6.5（或同等） | IELTS | 必备 | 注册工程师通常需总分6.5，单项不低于6.0 |
-| 特许专业工程师（CPEng） | Engineering New Zealand | 可选 | 非强制但有助于高级职位和移民加分 |
+| IELTS Academic 6.5 (or equivalent) | IELTS | Required | Registered engineers typically require an overall score of 6.5 with no band below 6.0. |
+| New Zealand Diploma in Engineering (Chemical Process Engineering). | Engineering New Zealand | Optional | Recommended to obtain Chartered Professional Engineer certification to enhance employment and immigration competitiveness |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Not mandatory but helpful for advanced positions and immigration points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,100。新西兰乳制品、食品加工和可再生能源项目持续投资，过程工程师需求稳定增长。初级岗位竞争适中，有经验者机会更多，奥克兰及怀卡托地区需求集中。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,100. Ongoing investment in New Zealand's dairy, food processing, and renewable energy projects drives steady demand for process engineers. Moderate competition for entry-level roles, more opportunities for experienced professionals, with demand concentrated in Auckland and Waikato.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 年薪70,000-90,000 NZD |
-| 中级（3-7年） | $90,000~$120,000 | 年薪90,000-120,000 NZD |
-| 高级（7年以上） | $120,000~$150,000 | 年薪120,000-150,000+ NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Annual salary NZD 70,000–90,000 |
+| Mid-level (3–7 years) | $90,000~$120,000 | Annual salary 90,000-120,000 NZD |
+| Senior (7+ years) | $120,000~$150,000 | Annual salary 120,000-150,000+ NZD |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级工程师（0-5年）积累工艺设计经验后，可晋升为高级工程师或团队主管；再往管理或项目管理方向发展，也可转向咨询或专业技术岗。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks for process engineers—process modeling, data analysis, and documentation—are rapidly being replaced by AI automation tools, but on-site optimization, safety compliance, and cross-team coordination remain human-led. Entry-level roles are significantly narrowing, while experience value increases.
+
+Junior engineers (0-5 years) can accumulate process design experience and advance to senior engineer or team leader; then move towards management or project management, or shift to consulting or specialized technical roles.
+
+**Tasks most exposed to AI:**
+
+- Process simulation and optimization (using AI models to automatically generate optimal parameters)
+- Production data analysis and report generation (insights output in natural language)
+- Standardized calculations and documentation in process design
+- Fault diagnosis and predictive maintenance suggestions based on historical data
+- Automatic generation and review of draft compliance reports
+
+**Where AI augments the role:**
+
+- Use AI for multi-variable process optimization and digital twin simulation.
+- Real-time monitoring and anomaly alerts, combined with AI-recommended interventions
+- Discover new process improvements by analyzing massive historical data through machine learning
+- Rapidly generate and iterate multiple process design options for decision-making
+- Automatically generate draft compliance documents; engineers focus on review and decision-making
+
+**Human moat:**
+
+- On-site anomaly handling and safety risk assessment (requiring physical perception and judgment)
+- Cross-departmental (production, maintenance, safety) coordination and interest balancing
+- Innovative process flow design and non-standard problem solving
+- Take ethical and responsible ownership throughout the entire process lifecycle.
+- Communication and leadership to persuade management to adopt change
+
+**Skills to build:**
+
+- AI/ML modeling (e.g., Python, TensorFlow, process simulation software)
+- Digital twin and industrial IoT platform operation
+- Data analysis and statistical process control (SPC)
+- Process safety and risk management (e.g., HAZOP)
+- Project management and cross-functional collaboration skills
+- Basic programming and API calling ability
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Process Engineers design and optimize production processes in energy, chemical, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 过程工程师在绿色名单Tier 1中，满足资格可直接申请居留，无需先工作两年。 |
-| Subclass SMC（Skilled Migrant Category） | 可走技术移民6分制，学历、注册、收入等可加分，通常需达到6分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未满足直接居留条件，可先通过认证雇主工签工作，再申请居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Process engineer is on Green List Tier 1; meeting qualifications allows direct residency application without working for two years first. |
+| Subclass SMC (Skilled Migrant Category) | Can use the 6-point skilled migration system, with points for education, registration, income, etc., usually requiring 6 points. |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct residence conditions are not met, one can first work on an Accredited Employer Work Visa and then apply for residence. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Process Engineer？**
-- 本科或硕士工程学历，尤其化学工程或过程工程背景
-- 具备流程优化、数值模拟与数据分析能力
-- 希望在乳制品、食品加工或可再生能源行业长期发展
-
-**谁不适合学Process Engineer？**
-- 不喜欢工厂环境或现场工作
-- 缺乏工程理论基础或跨学科沟通能力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bachelor's or master's degree in engineering, especially chemical or process engineering.
+- Skills in process optimisation, numerical simulation, and data analysis
+- Wishing to develop long-term in dairy, food processing, or renewable energy industries
+
+**Who is not suited**
+- Dislike factory environment or on-site work
+- Lack of engineering theoretical foundation or cross-disciplinary communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for process engineers in New Zealand?**
+A: Entry-level annual salary approx AUD 70,000-90,000, mid-level 90,000-120,000, senior 120,000-150,000+, experienced or management roles up to AUD 180,000+.
+
+**Q: What are the pathways for process engineers to immigrate to New Zealand?**
+A: Main pathways: Green List Tier 1 Straight to Residence Visa, or Skilled Migrant Category (6-point system); also possible to work on an Accredited Employer Work Visa and then apply for residence.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Process Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Process Engineers in New Zealand?**
-答：Entry-level: NZD 70,000-90,000; Mid-level: NZD 90,000-120,000; Senior: NZD 120,000-150,000+.
-
-**问：What migration pathways exist for Process Engineers in New Zealand?**
-答：Main pathways: Green List Tier 1 Straight to Residence Visa, Skilled Migrant Category (6-point system), or Accredited Employer Work Visa leading to residence.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

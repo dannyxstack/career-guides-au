@@ -1,58 +1,94 @@
-# Project Management Specialists（Project Management Specialists）职业分析 · 美国
+# Project Management Specialists — career analysis · United States
 
-**职业代码：13-1082 – Project Management Specialists。**
+**Occupation code: 13-1082 (SOC)**
 
-Analyze and coordinate schedule, timeline, procurement, staffing, and budget of a product or service on a per project basis; lead technical staff and serve as client contact.
+Coordinate project schedules, timelines, procurement, staffing, and budgets for products or services, lead technical teams, and act as client contact.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$160,000（公立大学年均1-4万美元，私立更高） |
-| 硕士学位 | 1-2年 | $30,000~$80,000（MBA或项目管理硕士，总学费约3-8万美元） |
+| Bachelor's degree | 4 years | $40,000~$160,000 (Public universities average $10,000-$40,000 per year, private higher) |
+| Master's degree | 1-2 years | $30,000~$80,000 (MBA or Project Management master's degree, total tuition about 30,000-80,000 USD.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理专业人士（PMP） | 项目管理协会（PMI） | 可选 | 最受认可的项目管理认证，要求教育/经验和考试 |
-| 项目管理学士或硕士学位 | 大学 | 可选 | 相关专业学位，多为雇主偏好 |
+| Project Management Professional (PMP) | Project Management Institute (PMI) | Optional | Most recognized project management certification, requiring education/experience and exam |
+| Bachelor's or master's degree in project management | University | Optional | Relevant degree preferred by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 790,000。美国劳工统计局预测2023-2033年项目管理专员岗位增长约7%，高于平均水平，尤其在信息技术和建筑行业需求强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 790,000. The US Bureau of Labor Statistics projects about 7% growth for project management specialist roles from 2023-2033, above average, with strong demand particularly in IT and construction.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 入门级薪资，取决于行业和地区 |
-| 中级（3-7年） | $75,000~$105,000 | 有经验的项目经理，含PMP认证者更高 |
-| 高级（7年以上） | $105,000~$145,000 | 高级项目经理或项目主管，大型项目薪资更高 |
+| Median salary | $102,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level salary, varies by industry and region |
+| Mid-level (3–7 years) | $75,000~$105,000 | Experienced project managers, higher with PMP certification |
+| Senior (7+ years) | $105,000~$145,000 | Senior project manager or program lead; large projects command higher pay |
+| average salary | $110,740 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业发展路径可晋升为高级项目经理、项目总监或PMO主管，也可转向产品管理或运营管理。获得PMP认证有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
+
+Career progression can lead to senior project manager, project director or PMO manager, and can also transition to product management or operations management. Obtaining PMP certification aids advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of project progress reports, status updates, and dashboards
+- Using AI tools for resource conflict detection and basic scheduling optimization
+- Automated sending of risk alerts and milestone tracking notifications
+- Automatically organizing meeting minutes and action items via natural language processing
+- Use Budget Tracking Systems to Automatically Monitor Spending Variances
+
+**Where AI augments the role:**
+
+- AI analyzes project data in real time to help project managers identify risks and bottlenecks faster
+- Smart scheduling tools provide solution suggestions to aid resource allocation decisions
+- AI prediction models provide warnings on cost and timeline deviations, enhancing control capabilities
+- Automated reporting frees up time, allowing managers to focus more on strategic communication and stakeholder management
+- Virtual assistant handles routine queries and documents to improve work efficiency
+
+**Human moat:**
+
+- Complex stakeholder coordination and expectation management (especially cross-cultural and cross-departmental conflicts)
+- Making critical judgments and decisions under uncertainty (e.g., scope changes, risk responses)
+- Leadership and team motivation to build high-performance culture
+- Client relationship and trust building, non-standard solution design
+- Integrating cross-domain knowledge (technical, business, regulatory) for overall control
+
+**Skills to build:**
+
+- AI project management tools (e.g., Asana AI, Jira AI, Microsoft Project Copilot)
+- Data analysis and visualization (Power BI, Tableau)
+- Agile and Lean methodology (Scrum, SAFe) certifications
+- Negotiation and conflict resolution skills
+- Strategic thinking and business acumen
+- Virtual team management and digital communication tools
+
+**Key growth areas:**
 
 - Project Management
 - Agile
@@ -61,69 +97,68 @@ Analyze and coordinate schedule, timeline, procurement, staffing, and budget of 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于项目管理专员，但需证明职位为专业职业，通常要求学士学位 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于高级学位或杰出能力者，需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或经验丰富的项目管理专员，需PERM劳工证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过雇主赞助的绿卡流程，证明无合格美国工人可担任该职位 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to project management specialists, but need to prove the position is a professional occupation, usually requiring a bachelor's degree |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable for advanced degrees or exceptional ability, requires PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or experienced project management specialists; requires PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Through employer-sponsored green card process, proving no qualified US workers available for the position |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Project Management Specialists？**
-- 组织协调能力强的人
-- 善于沟通和领导团队的人
-- 喜欢多样化任务和多项目管理的人
-
-**谁不适合学Project Management Specialists？**
-- 不喜欢高压和截止日期的人
-- 对细节和预算不敏感的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong organizational and coordination skills
+- Good at communication and team leadership
+- People who enjoy diverse tasks and managing multiple projects
+
+**Who is not suited**
+- People who dislike high pressure and deadlines
+- People not sensitive to details and budget
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for project management specialists?**
+A: Junior annual salary approx. $55,000-75,000, mid-level approx. $75,000-105,000, senior up to $105,000-145,000, depending on industry, region, and experience.
+
+**Q: Is it easy for project management specialists to work in the US via H-1B visa?**
+A: Yes, but the position must meet professional occupation requirements (usually a bachelor's degree). H-1B has quota limits and requires a lottery; also possible through EB-2/EB-3 green card applications with employer sponsorship.
+
+**Q: Is PMP certification important for a project management specialist?**
+A: PMP is the most recognized certification in project management, helping to boost salary and promotion opportunities, but is not mandatory. Many employers value experience and communication skills more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Project Management Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Project Management Specialists?**
-答：Entry-level salary is about $55,000-$75,000, mid-level $75,000-$105,000, senior $105,000-$145,000, varying by industry, location, and experience.
-
-**问：Is it easy for Project Management Specialists to work in the US via H-1B visa?**
-答：Possible, but the position must qualify as a specialty occupation (typically requires bachelor's degree). H-1B has annual caps and lottery; EB-2/EB-3 green card requires employer sponsorship.
-
-**问：Is PMP certification important for Project Management Specialists?**
-答：PMP is the most recognized certification in project management, helping with salary and career advancement, but not mandatory. Employers also value experience and communication skills.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

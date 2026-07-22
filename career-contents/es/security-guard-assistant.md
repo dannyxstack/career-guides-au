@@ -1,60 +1,96 @@
-# Security Guard Assistant（Security Guard Assistant）职业分析 · ES
+# Security Guard Assistant — career analysis · Spain
 
-**职业代码：5942 – Security Guard Assistant。**
+**Occupation code: 5942 (CNO)**
 
-Security guard assistants are entry-level roles in Spain's security industry, assisting licensed guards with patrols, monitoring, and access control without carrying weapons. They typically require no higher education and serve as a starting point in the security field.
+Security assistants are entry-level positions in Spain's security industry, mainly assisting certified security guards with patrols, surveillance, and access management, but carrying weapons is not allowed. This position usually does not require higher education and is the starting point for entering the security field.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（仅需基本读写能力，通常由公司提供短期培训） |
-| FP Grado Medio（中级职业培训） | 2年 | —（公立FP免费或低学费，私立约1500欧元/年） |
+| No formal education required | None | $0~$0 (Only basic literacy is required, usually short-term training provided by the company) |
+| FP Grado Medio (Intermediate Vocational Training) | 2 years | $0~$1,500 (Public FP is free or low-tuition, private around EUR 1,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定学历要求 | N/A | 可选 | 雇主通常要求初中毕业，提供在职培训 |
-| 保安员资格证（Tipo de Habilitación） | 西班牙内政部（Ministerio del Interior） | 可选 | 进阶成为持证保安员的必要条件，需通过考试和背景审查 |
+| No specific educational requirements | N/A | Optional | Employers usually require a junior high school diploma and provide on-the-job training |
+| Security Guard Qualification Certificate (Tipo de Habilitación) | Ministerio del Interior, Spain | Optional | To advance to become a certified security guard, passing exams and background checks is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 75,000。西班牙安保行业需求稳定，受商业和住宅安全需求驱动，但就业竞争激烈，薪资较低。未来趋势偏向技术化，如使用监控系统，非武装岗位需求可能略有下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 75,000. Demand in Spain's security industry is stable, driven by commercial and residential security needs, but job competition is fierce and wages are low. Future trends tend toward technological orientation, such as the use of surveillance systems, which may slightly reduce demand for unarmed positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 税前年薪，通常按最低工资标准或略高 |
-| 中级（3-7年） | $18,000~$22,000 | 税前年薪，含夜班和加班补贴 |
-| 高级（7年以上） | $22,000~$28,000 | 税前年薪，晋升主管后薪资可达 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | Pre-tax annual salary, usually at or slightly higher than the minimum wage standard |
+| Mid-level (3–7 years) | $18,000~$22,000 | Pre-tax annual salary, including night shift and overtime allowances |
+| Senior (7+ years) | $22,000~$28,000 | Pre-tax annual salary, with salaries available after promotion to supervisor |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业晋升可通过经验积累和考取持枪许可成为正式保安员（Vigilante de Seguridad），进一步可晋升至安保主管或安全经理。部分人员可转向私人调查或企业安全领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Security assistant positions will be significantly reduced in entry-level positions due to automated monitoring and AI analysis replacing routine patrols and record-keeping, but their firearm skills and interpersonal judgment will still retain human advantages.
+
+Career advancement can be achieved through experience accumulation and obtaining a firearm license to become a full-fledged security guard (Vigilante de Seguridad), and further advance to Security Supervisor or Safety Manager. Some personnel may shift to private investigations or corporate security fields.
+
+**Tasks most exposed to AI:**
+
+- Routine patrol route monitoring: AI cameras automatically analyze abnormal behavior and trigger alarms
+- Visitor registration and access control management: electronic access control and AI facial recognition replace manual verification
+- Log recording and report generation: AI automatically generates patrol reports and event summaries
+- Real-time video surveillance: AI video analysis automatically identifies suspicious activities
+- Key and access permission management: Remote management of intelligent access control systems replaces manual distribution
+
+**Where AI augments the role:**
+
+- Decision Support in Emergency Response: AI provides real-time risk assessment and response recommendations
+- Collaborating with licensed security guards to handle complex incidents: AI provides background information and contingency plans
+- Training and certification preparation: AI simulation scenario training enhances responsiveness
+- Customer Communication and Reassurance: AI-assisted generation of non-conflict communication scripts
+- Equipment maintenance and troubleshooting: AI diagnoses and monitors system issues and provides guidance
+
+**Human moat:**
+
+- Interpersonal communication and emotional management at conflict scenes
+- On-the-spot judgment and action to stop sudden violent incidents
+- Intuitive and experiential identification of unconventional safety hazards
+- Real-time collaboration and trust with certified security guards and police have been established
+- Care and handling for special groups such as children and the elderly
+
+**Skills to build:**
+
+- Operation and troubleshooting of AI security monitoring systems
+- Basic data analysis and interpretation of anomaly detection reports
+- Nonviolent communication and conflict resolution skills
+- Emergency evacuation and first aid skills (including CPR)
+- Digital access control and identity authentication system management
+- Basic Legal Knowledge (Security Compliance and Privacy Regulations)
+
+**Key growth areas:**
 
 - Stable demand
 - Low wage
@@ -63,60 +99,62 @@ Security guard assistants are entry-level roles in Spain's security industry, as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 通过西班牙公司提供的工作合同申请受雇工作居留，需证明岗位无法由本国人填补。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | To apply for employment-based work residence through a work contract provided by a Spanish company, it is necessary to prove that the position cannot be filled by a local national. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Security Guard Assistant？**
-- 寻求快速入职的求职者
-- 希望积累安保行业经验的人
+**Who is suited**
+- Job seekers seeking quick onboarding
+- Those who wish to gain experience in the security industry
 
-**谁不适合学Security Guard Assistant？**
-- 追求高收入和职业声望的人
-- 不愿从事轮班和体力工作的人
+**Who is not suited**
+- People who pursue high income and professional prestige
+- People unwilling to do shift or manual work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for security assistants?**
+A: The pre-tax annual salary for junior security assistants is about 15,000-18,000 euros, usually close to the minimum wage standard. With experience and qualifications improved, it could increase to 22,000-28,000 euros.
+
+**Q: Can foreigners work as security assistants?**
+A: It's possible, but the difficulty is greater. A Spanish company sponsorship is required, and the position must prove that it cannot be filled by a local national. Non-EU citizens need to obtain work residence, which usually requires legal residence status.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Security Guard Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a security guard assistant?**
-答：Entry-level security guard assistants earn approximately 15,000-18,000 EUR gross annually, often near the minimum wage. With experience and qualifications, it can rise to 22,000-28,000 EUR.
-
-**问：Can foreigners work as security guard assistants?**
-答：Possible but challenging. A Spanish company must sponsor the work contract, and the job must be justified as unable to be filled by locals. Non-EU citizens need a work permit, usually requiring legal residence.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

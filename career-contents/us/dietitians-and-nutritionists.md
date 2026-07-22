@@ -1,59 +1,95 @@
-# Dietitians and Nutritionists（Dietitians and Nutritionists）职业分析 · 美国
+# Dietitians and Nutritionists — career analysis · United States
 
-**职业代码：29-1031 – Dietitians and Nutritionists。**
+**Occupation code: 29-1031 (SOC)**
 
-Dietitians and nutritionists plan and conduct food service or nutritional programs to promote health and control disease. They may supervise department activities, counsel individuals, or conduct nutritional research.
+Dietitians and nutritionists plan and implement food service or nutrition programs to promote health and control disease. Can supervise department activities providing bulk food service, counsel individuals, or conduct nutrition research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学每年学费约1-3万USD，私立约4-6万USD） |
-| 硕士学位 | 2年 | $30,000~$90,000（学费视学校而定） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities: annual tuition about USD 10,000-30,000; private universities: about USD 40,000-60,000.) |
+| Master's degree | 2 years | $30,000~$90,000 (Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册营养师（RDN） | 美国营养与饮食学会认证委员会 | 必备 | 需完成ACEND认可课程并通过CDR考试 |
-| 州执照 | 各州监管委员会 | 必备 | 大多数州要求持有RDN或从业执照 |
-| CPR/BLS认证 | 美国心脏协会等 | 可选 | 部分雇主或临床岗位要求 |
+| Registered Dietitian Nutritionist (RDN) | Accreditation Council for Education in Nutrition and Dietetics. | Required | Must complete an ACEND-accredited program and pass the CDR exam |
+| State license | State regulatory boards | Required | Most states require RDN or practice license |
+| CPR/BLS certification | American Heart Association, etc. | Optional | Required by some employers or clinical positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。美国劳工统计局预测2022-2032年就业增长约7%，快于所有职业平均水平。老龄化人口和慢性病管理需求增加推动岗位增长。医院、护理机构和社区服务领域需求强劲。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 85,000. The U.S. Bureau of Labor Statistics projects employment growth of about 7% from 2022 to 2032, faster than the average for all occupations. An aging population and increased demand for chronic disease management drive job growth. Strong demand in hospitals, nursing facilities, and community services.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 新手或实习营养师 |
-| 中级（3-8年） | $65,000~$85,000 | 独立执业或主管岗位 |
-| 高级（8年以上） | $85,000~$110,000 | 临床专家、管理层或顾问 |
+| Median salary | $76,400 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$65,000 | Entry-level or intern nutritionist |
+| Mid-level (3–8 years) | $65,000~$85,000 | Independent practice or supervisor role |
+| Senior (8+ years) | $85,000~$110,000 | Clinical specialist, manager, or consultant |
+| average salary | $77,130 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：注册营养师（RDN）→临床营养专家/营养服务主管→区域营养经理/公共卫生营养主任。也可向运动营养、科研或创业方向发展。硕士学位和专科认证有助于晋升。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
+
+Career path: Registered Dietitian Nutritionist (RDN) → Clinical Nutrition Specialist/Nutrition Services Supervisor → Regional Nutrition Manager/Public Health Nutrition Director. Can also move toward sports nutrition, research, or entrepreneurship. A master's degree and specialty certification aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Standard Meal Formula Generation and Nutrient Calculation
+- Automated dietary record analysis (generate reports from diaries)
+- Preliminary dietary advice for common chronic conditions (e.g., diabetes)
+- Online nutrition education and general dietary advice
+- Database query and literature review assistance
+
+**Where AI augments the role:**
+
+- AI-assisted clinical diagnosis (e.g., identifying malnutrition risk)
+- Generate personalized nutrition plans (combined with genetic and microbiome data)
+- Real-time nutrition monitoring and feedback via wearable devices
+- Patient data management (automatic sorting of medical records and dietary history)
+- Automation of online booking and follow-ups
+
+**Human moat:**
+
+- Complex nutritional interventions for multiple comorbidities (e.g., kidney disease with diabetes)
+- Enteral/parenteral nutrition formulation and critical care management
+- Behaviour change counselling (psychological support, overcoming eating habits)
+- Medical team coordination (communicating with doctors, nurses, and pharmacists)
+- Ethical judgment and patient privacy protection
+
+**Skills to build:**
+
+- Clinical nutrition assessment and disease management (e.g., ICU nutritional support)
+- Hands-on AI tools (e.g., IBM Watson Nutrition Advisor)
+- Health data analysis (basic Python/R, electronic medical record systems)
+- Telemedicine communication and patient education
+- Culturally sensitive nutrition counselling (diverse clients)
+- Research and evidence-based practice updates
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -62,68 +98,67 @@ Dietitians and nutritionists plan and conduct food service or nutritional progra
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位及以上，雇主担保。竞争激烈，受名额限制。 |
-| Subclass EB-2（Employment-Based Second Preference） | 适合硕士及以上或杰出能力者，需PERM劳工认证。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主赞助的永久绿卡流程，需证明无法找到合格美国工人。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree or higher, employer sponsorship. Highly competitive, subject to quota limits. |
+| Subclass EB-2 (Employment-Based Second Preference) | Suitable for master's degree or above or exceptional ability, requires PERM labor certification. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent green card process, requiring proof that no qualified US worker can be found. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dietitians and Nutritionists？**
-- 对营养科学和健康促进有热情的人
-- 善于沟通和指导他人改变饮食习惯
-- 注重细节且能管理多任务
-
-**谁不适合学Dietitians and Nutritionists？**
-- 不愿与患者/客户频繁互动的人
-- 不喜欢文书工作和法规要求的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about nutrition science and health promotion
+- Good at communicating and guiding others to change eating habits
+- Detail-oriented and able to manage multiple tasks
+
+**Who is not suited**
+- People who prefer not to frequently interact with patients/clients
+- Those who dislike paperwork and regulatory requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for dietitians and nutritionists in the United States?**
+A: According to BLS OEWS data, the average annual salary for dietitians and nutritionists in the US in 2023 was approximately $66,750, with the bottom 10% earning less than $45,000 and the top 10% earning over $90,000. Salaries vary by region, experience, and employer type.
+
+**Q: Can foreign dietitians work in the US on an H-1B visa?**
+A: Yes. Dietitian positions typically require a bachelor's degree, meeting H-1B specialty occupation requirements. However, employer sponsorship is needed, and the lottery selection rate is about 30%. After obtaining H-1B, you can apply for a green card through EB-2 or EB-3. Additionally, having RDN certification and a state licence can increase competitiveness.
+
+**Q: What educational background is required to become a registered dietitian?**
+A: Requires a bachelor's degree in nutrition or related field from an ACEND-accredited program (some pursue a master's), completion of an ACEND-accredited supervised practice program (at least 1,200 hours), passing the CDR registration exam, and meeting state licensing requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Dietitians and Nutritionists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for dietitians and nutritionists in the US?**
-答：According to BLS OEWS, the average annual wage for dietitians and nutritionists in 2023 was about $66,750, with the lowest 10% below $45,000 and the highest 10% above $90,000. Salary varies by location, experience, and employer.
-
-**问：Can foreign dietitians work in the US via H-1B visa?**
-答：Yes. Dietitian positions typically require a bachelor's degree, meeting H-1B specialty occupation criteria. However, employer sponsorship and lottery (≈30% chance) are needed. After H-1B, EB-2 or EB-3 green card is possible. RDN certification and state license enhance competitiveness.
-
-**问：What education is required to become a registered dietitian?**
-答：A bachelor's degree (or higher) from an ACEND-accredited program, completion of a supervised practice program (≥1200 hours), passing the CDR registration exam, and meeting state licensure requirements.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

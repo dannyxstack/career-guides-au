@@ -1,62 +1,97 @@
-# Home support workers, housekeepers and related occupations（Home support workers, housekeepers and related occupations）职业分析 · 加拿大
+# Home support workers, housekeepers and related occupations — career analysis · Canada
 
-**职业代码：44101 – Home support workers, housekeepers and related occupations。**
+**Occupation code: 44101 (NOC)**
 
-In Canada, aged care workers are categorized as home support workers, providing personal care and daily living assistance to seniors and persons with disabilities. Eligible for several PNP streams, with stable employment outlook.
+In Canada, aged care workers primarily provide home support, offering personal care and daily living assistance to the elderly and disabled. They can apply through multiple PNP streams with stable job prospects.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业加短期培训 | 6个月 | $2,000~$5,000（社区学院或职业培训机构课程） |
-| 个人护理员证书 | 6-12个月 | $5,000~$15,000（公立学院或私立职业学院，含实习） |
+| High school graduation plus short-term training | 6 months. | $2,000~$5,000 (Community college or vocational training institution courses) |
+| Personal support worker certificate | 6–12 months | $5,000~$15,000 (Public colleges or private vocational schools, includes internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 个人护理员证书 | 省级监管机构或认可学院 | 必备 | 多数省份要求完成认可的培训课程 |
-| 急救证书 | 加拿大红十字会等 | 可选 | 部分雇主要求 |
-| 语言成绩（CLB 5-6） | IELTS/CELPIP/TEF | 必备 | 移民及从业需达到基本语言要求 |
-| 学历认证（ECA） | WES/ICES等指定机构 | 必备 | 海外学历需认证，高中或以上 |
+| Personal support worker certificate | Provincial regulatory body or recognized college | Required | Most provinces require completion of an accredited training program |
+| Language scores (CLB 5-6) | IELTS/CELPIP/TEF | Required | Basic language proficiency required for immigration and practice |
+| Educational credential assessment (ECA) | WES/ICES or other designated organizations | Required | overseas qualifications need assessment, high school or above |
+| First aid certificate | Canadian Red Cross, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。加拿大人口老龄化加速，对老年护理服务需求持续增长。预计2025-2030年该职业将新增数万个岗位，尤其在安大略省、不列颠哥伦比亚省和阿尔伯塔省。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. Canada's aging population is accelerating, driving sustained growth in demand for elderly care services. From 2025-2030, tens of thousands of new positions are expected, especially in Ontario, British Columbia, and Alberta.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约CAD 15-18 |
-| 中级（3-6年） | $35,000~$45,000 | 时薪约CAD 18-23 |
-| 高级（6年以上） | $45,000~$55,000 | 时薪约CAD 23-28，主管职位更高 |
+| Median salary | $42,640 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly rate approximately CAD 15-18. |
+| Mid-level (3–6 years) | $35,000~$45,000 | Hourly wage approx. CAD 18-23 |
+| Senior (6+ years) | $45,000~$55,000 | Hourly wage about CAD 23-28, higher for supervisory positions |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：从家庭护工起步，可晋升为护理协调员、个案经理或养老院主管。通过额外培训可转为注册护士或社工，薪资和稳定性显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
+
+Career path: Starting as a home care worker, can advance to care coordinator, case manager, or nursing home supervisor. Additional training can lead to becoming a registered nurse or social worker, with significantly increased salary and stability.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuum cleaners and robotic mops clean floors
+- Smart voice assistants manage schedule reminders and shopping lists
+- Remote health monitoring devices collect vital signs data
+- Automated cooking equipment completes simple meal preparation
+- AI chatbot providing basic companionship and emotional support
+
+**Where AI augments the role:**
+
+- AI tools assist in developing personalized care and health management plans
+- Telemedicine platforms enable more efficient collaboration between caregivers and doctors
+- Automated report generation reduces paperwork burden
+- Smart sensors to alert falls and other emergencies
+- Online AI simulation of elderly care scenarios to enhance skills
+
+**Human moat:**
+
+- Needs empathetic emotional companionship and communication
+- Flexibility to handle emergencies
+- Physical contact-based daily living assistance (e.g., bathing, dressing)
+- Soft skills for building trust and long-term relationships with family members.
+
+**Skills to build:**
+
+- Basic AI tool use (e.g., smart home system operation)
+- Data analysis and health monitoring device interpretation
+- Communication and emotional support skills
+- First aid and basic medical knowledge
+- Multitasking and time management
+- Cultural sensitivity and cross-generational communication skills.
+
+**Key growth areas:**
 
 - Home Care
 - Seniors Population
@@ -65,69 +100,68 @@ In Canada, aged care workers are categorized as home support workers, providing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 省提名项目频邀老年护理类，如安省雇主担保、BC省医护类别，需雇主支持 |
-| Subclass Caregiver（Home Support Worker Pilot） | 联邦家庭支持工试点项目，可直接申请永久居民，要求雇主和工作经验 |
-| Subclass EE（Express Entry (Canadian Experience Class)） | 如已有加拿大一年护理工作经验，可通过CEC类别申请，但需达到较高CRS分数 |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominee programs frequently invite aged care occupations, e.g., Ontario Employer Sponsorship, BC Health Care category, requiring employer support |
+| Subclass Caregiver (Home Support Worker Pilot) | federal Home Support Worker Pilot, allows direct application for permanent residence, requires employer and work experience |
+| Subclass EE (Express Entry (Canadian Experience Class)) | If you already have one year of Canadian nursing experience, you can apply under the CEC category, but a high CRS score is required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Home support workers, housekeepers and related occupations？**
-- 有耐心、有同理心，愿意从事照顾老年人工作的人群
-- 希望在加拿大通过护理工作经验移民的人群
-- 有护理背景或兴趣，愿意接受短期培训的人群
-
-**谁不适合学Home support workers, housekeepers and related occupations？**
-- 对高强度体力工作或情绪压力敏感的人群
-- 追求高薪和快速晋升的人群
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic individuals willing to care for the elderly
+- People who wish to immigrate to Canada through nursing work experience
+- Those with nursing background or interest, willing to undergo short-term training
+
+**Who is not suited**
+- Those sensitive to high-intensity physical work or emotional stress.
+- People pursuing high salaries and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of aged care workers in Canada?**
+A: Junior hourly wage about CAD 15-18, annual income about CAD 28,000-35,000. Intermediate hourly CAD 18-23, senior up to CAD 23-28 or more. Far lower than Australia but cost of living is also lower.
+
+**Q: Is it easy for aged care workers to immigrate to Canada?**
+A: Relatively easy, with dedicated Home Support Worker pilots and multiple PNP streams, but requires employer support and language scores. Recommend PNP or caregiver immigration programs.
+
+**Q: What is the future development prospect for aged care workers in Canada?**
+A: Due to population aging, demand grows steadily, but salary growth is slow. Income can be increased by moving into management or transitioning to registered nurse, social worker, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Home support workers, housekeepers and related occupations为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of aged care workers in Canada?**
-答：Entry-level hourly wage is around CAD 15-18, annual salary CAD 28k-35k. Mid-level CAD 18-23/hr, senior CAD 23-28/hr or more. Lower than Australia but cost of living is also lower.
-
-**问：Is it easy for aged care workers to immigrate to Canada?**
-答：Relatively easier with dedicated caregiver pilots and PNP streams, but requires employer support and language proficiency. Recommended pathways: PNP or caregiver program.
-
-**问：What are the future prospects for aged care workers in Canada?**
-答：Stable growth due to aging population, but slow salary growth. Advancement to supervisory roles or transitioning to RN/social work can improve income.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

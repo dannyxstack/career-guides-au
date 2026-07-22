@@ -1,59 +1,95 @@
-# Avionics Technicians（Avionics Technicians）职业分析 · 美国
+# Avionics Technicians — career analysis · United States
 
-**职业代码：49-2091 – Avionics Technicians。**
+**Occupation code: 49-2091 (SOC)**
 
-Install, inspect, test, adjust, or repair avionics equipment such as radar, radio, navigation, and missile control systems in aircraft or space vehicles.
+Install, inspect, test, adjust, or repair avionics equipment such as radar, radio, navigation, and missile control systems in aircraft or spacecraft.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院航空电子技术专业） |
-| FAA认证培训 | 1-2年 | $5,000~$15,000（FAA批准的维修技术员学校） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college avionics technology program) |
+| FAA certification training | 1-2 years | $5,000~$15,000 (FAA-approved maintenance technician school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FAA航空电子技术员认证 | 美国联邦航空管理局 | 必备 | 必修，需通过笔试和实操考试 |
-| A&P认证 | 美国联邦航空管理局 | 可选 | 可选但提升竞争力，涵盖机体和动力装置 |
-| 副学士学位 | 社区学院或技术学院 | 可选 | 常见入门要求 |
+| FAA Avionics Technician certification | US Federal Aviation Administration | Required | Mandatory, requires passing written and practical exams |
+| A&P certification | US Federal Aviation Administration | Optional | Optional but enhances competitiveness, covering airframe and powerplant |
+| Associate degree | Community college or technical college | Optional | Common Entry Requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 22,000。美国航空业持续增长，商业航空和国防需求推动就业增长。2023-2033年就业增长率预计为6%，高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 22,000. The US aviation industry continues to grow, driven by commercial aviation and defense demand. Employment growth is projected at 6% from 2023 to 2033, above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 含航空电子助理或实习生 |
-| 中级（3-8年） | $60,000~$80,000 | 独立操作的熟练技术员 |
-| 高级（8年+） | $80,000~$110,000 | 高级技术员或主管，含加班费 |
+| Median salary | $82,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Includes avionics assistant or intern |
+| Mid-level (3–8 years) | $60,000~$80,000 | Skilled technician working independently |
+| Senior (8+ years) | $80,000~$110,000 | Senior technician or supervisor, including overtime pay |
+| average salary | $83,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级技术员可晋升为高级技术员、团队主管或质量检验员。通过获得FAA认证和积累经验，可转向工程或管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Junior technicians can advance to senior technician, team leader, or quality inspector. By obtaining FAA certification and gaining experience, they can move into engineering or management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aerospace
 - Defense
@@ -62,68 +98,67 @@ Install, inspect, test, adjust, or repair avionics equipment such as radar, radi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位或同等经验，雇主赞助，年度配额竞争 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，排期较长，适用于技术员职位 |
-| Subclass TN（TN NAFTA Professional） | 仅适用于加拿大或墨西哥公民，需相关职业清单支持 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree or equivalent experience, employer sponsorship, competitive annual quota |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, long queue times; applicable for technician positions |
+| Subclass TN (TN NAFTA Professional) | Only applicable to citizens of Canada or Mexico, with support from relevant occupation list. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Avionics Technicians？**
-- 喜欢动手维修电子设备的人
-- 对航空和航天感兴趣的人
-- 注重细节和安全规范的人
-
-**谁不适合学Avionics Technicians？**
-- 不喜欢机械化重复工作的人
-- 对高空作业或狭窄空间不适的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys repairing electronic devices
+- For those interested in aviation and aerospace
+- People who pay attention to detail and safety regulations
+
+**Who is not suited**
+- People who dislike repetitive mechanical work
+- People uncomfortable with working at heights or in confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for avionics technicians?**
+A: Entry-level approximately $45,000-60,000, mid-level $60,000-80,000, senior up to $110,000. Overtime and special skills can increase income.
+
+**Q: How can an avionics technician immigrate to the US?**
+A: Common pathways: H-1B visa (requires bachelor's degree or equivalent experience) and EB-3 green card (requires PERM labor certification). TN visa applies to Canadian and Mexican citizens.
+
+**Q: What certifications are needed to become an avionics technician?**
+A: Must obtain FAA avionics technician certification. Additionally, FAA A&P certification can improve job opportunities but is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Avionics Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for avionics technicians?**
-答：Entry-level: $45,000-$60,000; mid-level: $60,000-$80,000; senior: up to $110,000. Overtime and specialized skills can increase earnings.
-
-**问：How can avionics technicians immigrate to the US?**
-答：Common paths include H-1B visa (requires bachelor's degree or equivalent) and EB-3 green card (requires PERM labor certification). TN visa is for Canadian and Mexican citizens.
-
-**问：What certifications are needed to become an avionics technician?**
-答：FAA avionics technician certification is mandatory. FAA A&P certification is optional but enhances job prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

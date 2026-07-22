@@ -1,60 +1,95 @@
-# Purchasing Agents, Except Wholesale, Retail, and Farm Products（Purchasing Agents, Except Wholesale, Retail, and Farm Products）职业分析 · 美国
+# Purchasing Agents, Except Wholesale, Retail, and Farm Products — career analysis · United States
 
-**职业代码：13-1023 – Purchasing Agents, Except Wholesale, Retail, and Farm Products。**
+**Occupation code: 13-1023 (SOC)**
 
-Purchase machinery, equipment, tools, parts, supplies, or services necessary for the operation of an establishment. Purchase raw or semifinished materials for manufacturing. May negotiate contracts.
+Purchasing machinery, equipment, tools, parts, consumables or services for an organisation, or raw materials or semi-finished goods for manufacturing, may involve contract negotiation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学杂费） |
-| 硕士学位 | 1-2年 | $30,000~$80,000（MBA或供应链管理硕士） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition fees) |
+| Master's degree | 1-2 years | $30,000~$80,000 (MBA or Master's in Supply Chain Management) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 供应链管理学士学位 | 大学 | 必备 | 常见要求，商科相关亦可 |
-| CPSM认证 | ISM | 可选 | 认证供应管理专业人士，非强制但受欢迎 |
-| CPM认证 | NAPM | 可选 | 注册采购经理，旧认证，仍普遍认可 |
+| Bachelor of Science in Supply Chain Management | University | Required | Common requirement, business-related fields also acceptable |
+| CPSM certification | ISM | Optional | Certified Supply Management Professional, not mandatory but preferred |
+| CPM certification | NAPM | Optional | Certified Purchasing Manager, old certification, still widely recognized. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 362,500。美国劳工统计局预计2022-2032年就业增长约3%，低于平均水平。自动化与集中采购可能抑制需求，但供应链复杂性仍需专业人才。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 362,500. The US Bureau of Labor Statistics projects about 3% employment growth from 2022-2032, below average. Automation and centralized procurement may curb demand, but supply chain complexity still requires professionals.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 基于OEWS数据 |
-| 中级（3-7年） | $55,000~$75,000 | 含CPSM认证者较高 |
-| 高级（7年以上） | $75,000~$100,000 | 经理级别可达12万 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Based on OEWS data |
+| Mid-level (3–7 years) | $55,000~$75,000 | Higher with CPSM certification |
+| Senior (7+ years) | $75,000~$100,000 | Manager level can reach USD 120,000 |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级采购员可晋升为高级采购代理、采购经理或供应链总监。获得CPSM认证有助于职业发展，也可转至物流或合同管理领域。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
+
+Junior buyers can advance to senior purchasing agents, procurement managers, or supply chain directors. Obtaining CPSM certification aids career development; they can also transition to logistics or contract management.
+
+**Tasks most exposed to AI:**
+
+- Supplier information search and preliminary screening
+- Price history data analysis and trend report generation
+- Automated Generation and Tracking of Purchase Orders
+- Compliance check of standard contract clauses
+- Inventory level monitoring and automatic replenishment alerts
+
+**Where AI augments the role:**
+
+- Supplier negotiation strategy optimization (AI provides data support)
+- Supply chain risk prediction and mitigation plan development
+- AI-assisted review and drafting of complex contract clauses.
+- Real-time analysis of market conditions and supplier performance
+- Procurement process automation and anomaly alerts
+
+**Human moat:**
+
+- Establish and maintain long-term relationships with suppliers.
+- Crisis management for handling sudden supply chain disruptions
+- Complex negotiations and trade-off decisions involving strategic judgment
+- Cross-departmental coordination and understanding of internal needs.
+- Manual audit for ethical sourcing and compliance
+
+**Skills to build:**
+
+- Data analysis and visualization (e.g., Tableau, Power BI)
+- Use of AI procurement tools (e.g., SAP Ariba, Coupa AI)
+- Supply chain risk management and predictive modeling
+- Negotiation and communication skills (advanced interpersonal skills)
+- Contract management and legal basics
+- Basic Python or SQL for data manipulation
+
+**Key growth areas:**
 
 - Supply Chain Optimization
 - E-Procurement
@@ -63,69 +98,68 @@ Purchase machinery, equipment, tools, parts, supplies, or services necessary for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于需学士学位的职位，常有年度配额限制，需抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或本科加5年经验，需PERM劳工证，排期较长 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或无学位但有经验者，需PERM，排期较长 |
-| Subclass TN（TN NAFTA Professional） | 仅限加拿大和墨西哥公民，采购代理通常不符合专业职业列表，需个案评估 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to positions requiring a bachelor's degree, often with annual quota limits, subject to lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's or bachelor's plus 5 years experience, requires PERM labor certification, long waiting times |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or no degree with experience; requires PERM, long waiting period. |
+| Subclass TN (TN NAFTA Professional) | For Canadian and Mexican citizens only; purchasing agents usually do not qualify as professional occupations and require case-by-case assessment |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing Agents, Except Wholesale, Retail, and Farm Products？**
-- 善于谈判和沟通
-- 注重细节和组织能力
-- 有数据分析兴趣
-
-**谁不适合学Purchasing Agents, Except Wholesale, Retail, and Farm Products？**
-- 不喜欢重复性工作
-- 不擅长数字分析
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at negotiation and communication.
+- Attention to detail and organizational skills
+- Interest in data analysis
+
+**Who is not suited**
+- Dislikes repetitive work
+- Not adept at numerical analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a purchasing agent?**
+A: According to BLS data, median salary in 2022 was about $63,000, entry-level about $45,000, senior can exceed $90,000.
+
+**Q: Is it easy for procurement agents to apply for a US work visa?**
+A: Procurement agents typically need a bachelor's degree, meeting H-1B requirements, but the lottery causes uncertainty. EB-2/EB-3 green cards require PERM with long waits. TN visa is generally not applicable.
+
+**Q: What are the career progression paths for a procurement agent?**
+A: Can advance to senior procurement agent, procurement manager, supply chain director. Obtaining CPSM or MBA can accelerate development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Purchasing Agents, Except Wholesale, Retail, and Farm Products的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for purchasing agents?**
-答：According to BLS, median annual wage was $63,000 in 2022; entry-level around $45,000, senior over $90,000.
-
-**问：Is it easy to get a US work visa as a purchasing agent?**
-答：Generally requires bachelor's degree, eligible for H-1B but subject to cap lottery. EB-2/EB-3 green card via PERM with long backlog. TN usually not applicable.
-
-**问：What are the career advancement paths for purchasing agents?**
-答：Can advance to senior purchasing agent, purchasing manager, or supply chain director. CPSM or MBA accelerates growth.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

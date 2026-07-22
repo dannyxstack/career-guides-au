@@ -1,62 +1,98 @@
-# Forestry Worker（Forestry Worker）职业分析 · ES
+# Forestry Worker — career analysis · Spain
 
-**职业代码：6410 – Forestry Worker。**
+**Occupation code: 6410 (CNO)**
 
-Responsible for forest maintenance, reforestation, fire prevention, pest control, and wildlife conservation to ensure the sustainability of forest ecosystems.
+Responsible for forest maintenance, afforestation, fire prevention, pest and disease control, and wildlife protection field operations to ensure the sustainable development of forest ecosystems.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职教（FP Grado Medio） | 2年 | —（公立学校免学费，仅收注册费） |
-| 高级职教（FP Grado Superior） | 2年 | —（公立FP Grado Superior免学费） |
-| 大学本科（Grado） | 4年 | $1,000~$4,000（公立大学年学费约1000-4000欧元） |
+| Intermediate Vocational Education (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free of tuition, only a registration fee is charged) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (The public FP Grado Superior is tuition-free) |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities is about 1000-4000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 森林作业安全培训 | 西班牙劳动部 | 必备 | 强制性安全证书，上岗必须 |
-| 林业机械操作许可 | 西班牙农业部/自治政府 | 必备 | 链锯等林业机械须持证 |
-| 环境科学/森林工程学位 | 西班牙大学 | 可选 | 非强制但可晋升管理岗 |
+| Forest operation safety training | Spanish Ministry of Labor | Required | Mandatory safety certificate, mandatory before starting work |
+| Forestry machinery operation license | Spanish Ministry of Agriculture/Autonomous Government | Required | Forestry machinery such as chainsaws must be certified |
+| Degree in Environmental Science/Forest Engineering | Spanish University | Optional | Not mandatory, but promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 40,000。西班牙森林覆盖率约37%，林业受气候变化和野火风险影响就业稳定。国家林业计划（2022-2030）推动岗位增长。岗位集中于加利西亚、卡斯蒂利亚-莱昂等林区。
+**Job demand: medium (★★★☆☆).** National workforce approx. 40,000. Spain's forest coverage rate is about 37%, and forestry is affected by climate change and wildfire risks to maintain stable employment. The National Forestry Plan (2022-2030) promotes job growth. Positions are concentrated in the forested regions of Galicia, Castile and León, and other regions.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含季节性补贴 |
-| 中级（3-6年） | $22,000~$28,000 | 常需额外技能或经验 |
-| 高级（6年以上） | $28,000~$35,000 | 管理层或技术专家 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including seasonal subsidies |
+| Mid-level (3–6 years) | $22,000~$28,000 | Often requires extra skills or experience |
+| Senior (6+ years) | $28,000~$35,000 | Management or technical experts |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级林业工人可晋升为林业队长或技术员，再至林业经理。西班牙需官方林业培训或环境科学学位。高级职位需硕士学历及认证。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Outdoor physical work for forestry and natural environment technicians is unlikely to be replaced by AI in the short term, but tasks such as monitoring, reporting, and documentation will be significantly automated. The job is overall safe, but digital skills need to be improved to adapt to change.
+
+Junior forestry workers can be promoted to forestry team leader or technician, and then to forestry manager. Spain requires official forestry training or a degree in environmental science. Senior positions require a master's degree and certification.
+
+**Tasks most exposed to AI:**
+
+- Drones and satellite imagery are used for routine forest resource surveys and mapping
+- Automatically generate forest monitoring reports and pest and disease warning documents
+- Automatically analyzes soil, moisture, and climate conditions through sensor data
+- Automated fire patrols and violation detection (such as illegal logging)
+- AI algorithms are used to automatically identify tree species and estimate timber reserves
+
+**Where AI augments the role:**
+
+- AI-assisted precise monitoring: Real-time assessment of forest health status using drone and sensor data
+- Intelligent decision support: Predicting fire risk and pest and disease outbreak probabilities through machine learning models
+- Automated report generation: Quickly transform field data into structured reports and visual charts
+- Collaborative management platform: uses digital twin technology to simulate the impact of different management solutions on the ecosystem
+- Remote expert collaboration: Receive remote expert guidance for complex operations using AR/VR devices
+
+**Human moat:**
+
+- Manual operation and equipment maintenance in complex terrain
+- On-site judgment and decision-making for emergencies (such as forest fires and animal rescue).
+- Ability to communicate and coordinate with local communities, hunters, and environmental organizations
+- Delicate physical labor such as planting and soil improvement in ecological restoration
+- Adaptability to work in extreme weather or unsafe environments
+
+**Skills to build:**
+
+- Drone operation and surveying skills
+- Use of GIS (Geographic Information System) software
+- Data analysis and visualization (such as R, Python, Tableau)
+- Forest ecology and pest and disease knowledge
+- Basic mechanical maintenance skills
+- Communication and project management skills
+
+**Key growth areas:**
 
 - Reforestation
 - Wildfire Prevention
@@ -65,62 +101,64 @@ Responsible for forest maintenance, reforestation, fire prevention, pest control
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 需西班牙雇主合同，劳工市场测试，工资达标，非紧缺职业 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 要求大学学位或5年经验，工资为平均工资1.5倍，林业通常不达标 |
+| Subclass Cuenta ajena (Work Contract Visa) | Spanish employer contract, labor market testing, salary meets standards, non-shortage occupations are required |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or 5 years of experience is required, with a salary 1.5 times the average wage; forestry usually does not meet the standard |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forestry Worker？**
-- 热爱户外体力劳动，不惧恶劣天气
-- 对生态保护有热情，愿从事基层工作
-- 能使用林业机械并持相关证书
+**Who is suited**
+- Passionate about outdoor physical labor and unafraid of harsh weather
+- Passionate about ecological protection and willing to work at the grassroots level
+- Able to use forestry machinery and hold relevant certificates
 
-**谁不适合学Forestry Worker？**
-- 偏好办公室或室内工作
-- 对体力要求高或季节失业敏感
+**Who is not suited**
+- Preference for office or indoor work
+- Sensitive to high physical demands or seasonal unemployment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for forestry workers in Spain?**
+A: Entry-level approximately 18,000-22,000 euros/year, mid-level 22,000-28,000, senior 28,000-35,000. Salaries are highly affected by seasonality and region.
+
+**Q: Can foreigners immigrate to Spain through forestry work?**
+A: It's very difficult. Forestry is not a shortage occupation; employers must demonstrate a shortage of local labor. Workers in third countries have almost no immigration pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Forestry Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a forestry worker in Spain?**
-答：Entry-level around €18,000-22,000/year, mid-level €22,000-28,000, senior €28,000-35,000. Salaries are seasonal and region-dependent.
-
-**问：Can foreigners immigrate to Spain through forestry work?**
-答：Very difficult. Forestry is not a shortage occupation; employers must prove labor market test. Almost no migration routes for third-country nationals.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

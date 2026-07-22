@@ -1,61 +1,97 @@
-# Production Assistant (Film, Television, Radio or Stage)（Production Assistant (Film, Television, Radio or Stage)）职业分析 · 新西兰
+# Production Assistant (Film, Television, Radio or Stage) — career analysis · New Zealand
 
-**职业代码：599912 – Production Assistant (Film, Television, Radio or Stage)。**
+**Occupation code: 599912 (ANZSCO)**
 
-Production Assistants support daily operations in film, TV, radio or stage productions, including scheduling, props and set management. This role can lead to immigration via Accredited Employer Work Visa (AEWV), but is not on the Skilled Migrant or Green List, requiring employer sponsorship.
+Production assistants assist in the daily operations of film, television, or stage productions, including coordinating schedules, managing props and sets. This occupation can immigrate to New Zealand via the Accredited Employer Work Visa (AEWV), but is not on the Skilled Migrant or Green List, requiring employer sponsorship.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭 | 3年 | —（公立高中免费，国际生约1万NZD/年） |
-| 大专或本科（影视制作） | 1-3年 | $20,000~$60,000（如怀卡托大学、奥克兰理工大学等，国际生学费） |
+| High school diploma | 3 years | $0~$10,000 (Public high schools are free; international students about NZ$10,000 per year) |
+| Diploma or bachelor's (film and television production) | 1-3 years | $20,000~$60,000 (e.g., University of Waikato, Auckland University of Technology, international student tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 影视制作证书 | 各大理工学院如Yoobee Colleges | 可选 | 非必须，但提升就业竞争力 |
-| 安全工作证（Site Safe） | Site Safe New Zealand | 必备 | 影视片场安全要求，多为雇主指定 |
-| 驾照（Class 1） | 新西兰交通局 | 必备 | 频繁需搬运道具或跑腿 |
+| Safety card (Site Safe) | Site Safe New Zealand | Required | Film set safety requirements, mostly specified by employer |
+| Driver's License (Class 1) | New Zealand Transport Agency. | Required | Frequently need to move props or run errands |
+| Film and television production certificate | Various polytechnics such as Yoobee Colleges. | Optional | Not mandatory, but improves job competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,200。新西兰影视行业稳步增长，得益于国际制作和本地内容需求。制作助理入职门槛低，但竞争激烈，职位多为短期项目制，就业前景中等。奥克兰和惠灵顿是主要就业地。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,200. New Zealand's film and TV industry is growing steadily, driven by international productions and local content demand. Production assistant roles have low entry barriers but are highly competitive, mostly short-term project-based, with moderate employment prospects. Auckland and Wellington are key employment hubs.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 根据项目类型和地区浮动 |
-| 中级（3-6年） | $55,000~$65,000 | 有经验后薪资提升，项目制为主 |
-| 高级（6年以上） | $65,000~$80,000 | 资深制作助理或晋升协调员 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Varies by project type and region |
+| Mid-level (3–6 years) | $55,000~$65,000 | Salary increases with experience, primarily project-based |
+| Senior (6+ years) | $65,000~$80,000 | Senior production assistant or promotion to coordinator |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 积累项目经验后可晋升为制片协调员、助理导演或制片经理。部分制作助理转向特定领域如道具管理或后期制作。网络和作品集是关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on production assistant roles: automation threatens administrative tasks like schedule coordination and document organization, but AI tools can enhance on-site coordination and clip pre-screening, shifting the role toward technical assistant.
+
+After gaining project experience, one can advance to roles such as production coordinator, assistant director, or production manager. Some production assistants move into specialized areas like props management or post-production. Networking and a strong portfolio are key.
+
+**Tasks most exposed to AI:**
+
+- AI automatically coordinates shooting schedules, sends notifications, and manages changes
+- AI-generated meeting minutes and report creation
+- AI manages props and set lists and tracks locations
+- AI automatically transcribes live audio and adds subtitles
+- AI-assisted rough cutting of footage and marking of key clips.
+
+**Where AI augments the role:**
+
+- AI tools quickly search asset library, assisting in finding props on site
+- AI real-time translation assistant for communicating with international teams or non-local personnel
+- AI analyzes schedule conflicts and recommends optimization solutions
+- AI auto-generates call sheets and distributes files.
+- AI-assisted budget tracking and expense categorization.
+
+**Human moat:**
+
+- On-site quick response and problem-solving ability
+- Interpersonal communication and cross-departmental coordination
+- Creative judgment and understanding of director's intent
+- Handling emergencies (e.g., weather, equipment failure)
+- Maintaining crew morale and team collaboration
+
+**Skills to build:**
+
+- AI scheduling and project management tools (e.g., Asana + AI plugins)
+- Video editing software (e.g., DaVinci Resolve, Premiere Pro)
+- AI transcription and captioning tools (e.g., Descript)
+- Data Analysis Basics (Excel/Google Sheets + AI functions)
+- Basic photography and audio recording operations
+- Social media content management and analysis
+
+**Key growth areas:**
 
 - AEWV
 - Film Industry
@@ -64,68 +100,67 @@ Production Assistants support daily operations in film, TV, radio or stage produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需由认证雇主担保，职位需符合劳动力市场测试，可累计工签时间，但无法直接移民 |
-| Subclass SMC（Skilled Migrant Category） | 不适合，因为该职业不在技能职业清单上，无法获得技术移民分数 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must be sponsored by an accredited employer; the position must meet the labor market test; work visa time can be accumulated, but it does not directly lead to immigration. |
+| Subclass SMC (Skilled Migrant Category) | Not eligible, because this occupation is not on the skilled occupation list and cannot earn points for skilled migration. |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Production Assistant (Film, Television, Radio or Stage)？**
-- 对影视制作有热情，能适应高强度、不规律工作时间
-- 善于沟通、组织协调，注重细节
-- 愿意从基层做起，积累行业经验
-
-**谁不适合学Production Assistant (Film, Television, Radio or Stage)？**
-- 追求稳定轻松工作的人
-- 需要快速移民或经济保障的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about film and television production, able to adapt to intense and irregular working hours
+- Good communication, organizational coordination, and attention to detail
+- Willing to start from entry-level and accumulate industry experience
+
+**Who is not suited**
+- People seeking stable and easy work
+- Those who need fast immigration or financial security
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a production assistant in New Zealand?**
+A: Junior annual salary about 45,000-55,000 NZD, mid-level 55,000-65,000 NZD, senior 65,000-80,000 NZD. Mostly project-based contracts with no guaranteed income.
+
+**Q: Can a production assistant immigrate to New Zealand via skilled migration?**
+A: No. This occupation is not on the skilled migration list nor in the Green List. It can only work short-term via an Accredited Employer Work Visa (AEWV) and cannot directly apply for residence.
+
+**Q: What are the career development paths for a production assistant?**
+A: Can advance to roles such as production coordinator, assistant director, production manager, or transition to specialized areas like props management or post-production. Building experience and networks is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Production Assistant (Film, Television, Radio or Stage)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Production Assistant in New Zealand?**
-答：Entry-level: NZD 45,000-55,000; Mid-level: NZD 55,000-65,000; Senior: NZD 65,000-80,000. Most roles are project-based with no guaranteed income.
-
-**问：Can a Production Assistant immigrate to New Zealand through skilled migration?**
-答：No. This occupation is not on the skilled occupation list or Green List. Only possible via Accredited Employer Work Visa (AEWV) for temporary work, with no direct pathway to residency.
-
-**问：What are the career progression opportunities for a Production Assistant?**
-答：Can advance to Production Coordinator, Assistant Director, Production Manager, or specialize in props, post-production. Experience and networking are crucial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

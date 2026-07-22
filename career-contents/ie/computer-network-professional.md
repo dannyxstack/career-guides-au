@@ -1,59 +1,95 @@
-# Computer Network Professional（Computer Network Professional）职业分析 · IE
+# Computer Network Professional — career analysis · Ireland
 
-**职业代码：2523 – Computer Network Professional。**
+**Occupation code: 2523 (ISCO08)**
 
-Computer network professionals design, deploy, maintain, and manage computer network systems including LAN, WAN, cloud networks, and security infrastructure, ensuring efficient and secure business communication and data transmission.
+Computer network professionals are responsible for designing, deploying, maintaining, and managing computer network systems, including LANs, WANs, cloud networks, and security infrastructure, ensuring efficient and secure enterprise communication and data transmission.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 4年（本科） | $10,000~$25,000（每年学费，欧盟学生较低，非欧盟较高） |
-| 硕士文凭 | 1年（硕士） | $15,000~$30,000（一年制硕士课程费用） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$25,000 (Annual tuition: lower for EU students, higher for non-EU students) |
+| Master's degree | 1 year (Master's) | $15,000~$30,000 (One-year master's program tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CCNA | Cisco | 可选 | 入门级认证，广泛认可 |
-| CCNP | Cisco | 可选 | 高级认证，提升专业水平 |
-| CompTIA Network+ | CompTIA | 可选 | 基础网络认证，适合初级 |
+| CCNA | Cisco | Optional | Entry-level certification, widely recognized |
+| CCNP | Cisco | Optional | Advanced certification to enhance professional level |
+| CompTIA Network+ | CompTIA | Optional | Basic network certification, suitable for beginners |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。爱尔兰作为欧洲科技中心，对网络专业人员需求强劲，尤其是都柏林地区。随着数字化转型和云采用增加，就业前景乐观，预计未来十年增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. As a European tech hub, Ireland has strong demand for network professionals, especially in the Dublin area. With digital transformation and cloud adoption increasing, the employment outlook is positive, with an expected growth of about 15% over the next decade.
 
-**竞争度：中高（★★★½☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 税前年薪 |
-| 中级（3-7年） | $50,000~$75,000 | 税前年薪 |
-| 高级（7年以上） | $75,000~$110,000 | 税前年薪 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $50,000~$75,000 | Annual pre-tax salary |
+| Senior (7+ years) | $75,000~$110,000 | Annual pre-tax salary |
+| average salary | $65,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级网络工程师可晋升为高级网络工程师、网络架构师或IT经理；也可转向网络安全、云计算或项目管理方向。持续认证（如CCNP、CCIE）有助于职业发展。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Entry-level network engineers can advance to senior network engineer, network architect, or IT manager; also can transition to network security, cloud computing, or project management. Continuous certifications (such as CCNP, CCIE) aid career development.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Cloud Networking
 - Cybersecurity
@@ -62,68 +98,67 @@ Computer network professionals design, deploy, maintain, and manage computer net
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对紧缺技能，无需劳动力市场测试，2年后可申请永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，适用于非紧缺职业 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工作者，年薪需达€40,000以上 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For in-demand skills, no labor market test required, eligible for permanent residence after 2 years |
+| Subclass General Employment P (General Employment Permit) | Requires labour market testing, applicable to non-occupations in demand |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, annual salary must exceed €40,000 |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Professional？**
-- 计算机科学、信息技术等相关专业毕业生
-- 持有网络认证（如CCNA/CCNP）的从业者
-- 对路由、交换、网络安全有浓厚兴趣者
-
-**谁不适合学Computer Network Professional？**
-- 不喜欢持续学习和更新技术知识的人
-- 难以承受工作压力和时间要求者
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates in computer science, information technology and related fields
+- Practitioners holding network certifications (e.g., CCNA/CCNP)
+- Those with strong interest in routing, switching, and network security
+
+**Who is not suited**
+- Those who dislike continuous learning and updating technical knowledge
+- Those unable to cope with work pressure and time demands
+
+---
+
+## 8. FAQ
+
+**Q: What are salary levels for network professionals in Ireland?**
+A: Entry-level annual salary approximately €35,000-€50,000, mid-level €50,000-€75,000, senior can reach over €110,000.
+
+**Q: How can non-EU citizens obtain an Irish work visa?**
+A: Can apply via Critical Skills Employment Permit or General Employment Permit. EU Blue Card also an option.
+
+**Q: What are the career development paths for network professionals?**
+A: Can advance to network architect, cybersecurity specialist, or IT manager. Certifications such as CCNP, CCIE can aid in promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Network Professional的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for network professionals in Ireland?**
-答：Entry-level salaries range from €35,000 to €50,000, mid-level from €50,000 to €75,000, and senior roles can exceed €110,000.
-
-**问：How can non-EU citizens obtain a work visa for Ireland?**
-答：Apply for a Critical Skills Employment Permit or General Employment Permit. The EU Blue Card is also an option.
-
-**问：What career paths are available for network professionals?**
-答：You can advance to network architect, cybersecurity specialist, or IT manager. Certifications like CCNP/CCIE aid progression.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

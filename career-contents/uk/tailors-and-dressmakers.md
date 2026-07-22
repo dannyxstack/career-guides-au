@@ -1,58 +1,94 @@
-# Tailors and dressmakers（Tailors and dressmakers）职业分析 · UK
+# Tailors and dressmakers — career analysis · United Kingdom
 
-**职业代码：5413 – Tailors and dressmakers。**
+**Occupation code: 5413 (SOC)**
 
-Tailors and dressmakers prepare patterns and make, fit, and alter tailored garments, dresses, and other clothing. They typically work in small workshops, boutiques, or are self-employed.
+Tailors and dressmakers create, alter, and adjust custom garments such as suits, dresses, and other clothing according to client needs. They typically work in small studios or clothing stores, or may be self-employed.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 2年 | —（公立学校免费） |
-| 学徒制 | 3-4年 | —（带薪培训） |
+| Secondary Education | 2 years | $0~$0 (Free public schools.) |
+| Apprenticeship | 3-4 years | $0~$0 (paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 时尚与服装技术文凭 | City & Guilds | 可选 | 职业资格，可选 |
-| 裁缝学徒证书 | 行业协会 | 可选 | 非必须但有助于就业 |
+| Diploma of Fashion and Textile Technology | City & Guilds | Optional | Professional qualification, optional |
+| Tailoring Apprenticeship Certificate | Industry association | Optional | Not required but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 5,200。英国定制服装市场需求稳定，但受快时尚影响增长缓慢。高端定制和婚纱领域有就业机会，预计未来十年从业人数小幅下降。
+**Job demand: medium (★★½☆☆).** National workforce approx. 5,200. The UK custom clothing market is stable but grows slowly due to fast fashion. Employment opportunities exist in high-end custom and bridal wear, with a slight decrease in workforce expected over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 实习或助理裁缝 |
-| 中级（3-7年） | $23,000~$30,000 | 有经验的裁缝 |
-| 高级（7年以上） | $32,000~$45,000 | 高级定制裁缝或工作室主管 |
+| Median salary | $25,212 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Intern or assistant tailor |
+| Mid-level (3–7 years) | $23,000~$30,000 | experienced tailor |
+| Senior (7+ years) | $32,000~$45,000 | Senior bespoke tailor or workshop manager. |
+| average salary | $28,316 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径包括成为高级裁缝、工作室主管或开设个人品牌。部分从业者转向服装修复或教学岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+Career progression includes becoming a senior tailor, studio supervisor, or launching a personal brand. Some move into garment restoration or teaching roles.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Bespoke tailoring
 - Sustainable fashion
@@ -61,65 +97,64 @@ Tailors and dressmakers prepare patterns and make, fit, and alter tailored garme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 如果雇主提供担保，可申请技术工人签证，但该职业不在紧缺职业清单上。 |
-| Subclass Graduate（Graduate visa） | 适合在英国完成学位的毕业生，可留在英国工作2年。 |
-| Subclass Global Talent（Global Talent visa） | 适用于在时尚领域有杰出成就或潜力的个人。 |
+| Subclass Skilled Worker (Skilled Worker visa) | If the employer provides sponsorship, you can apply for a Skilled Worker visa, but this occupation is not on the shortage occupation list. |
+| Subclass Graduate (Graduate visa) | Suitable for graduates who completed their degree in the UK, allowing them to work in the UK for 2 years. |
+| Subclass Global Talent (Global Talent visa) | Applicable to individuals with outstanding achievements or potential in the fashion field. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tailors and dressmakers？**
-- 手巧且注重细节的人
-- 对时尚和服装制作有热情的人
-- 喜欢独立工作或自雇的人
-
-**谁不适合学Tailors and dressmakers？**
-- 追求高薪水和高稳定性的人
-- 不喜欢重复手工劳动的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Handy and detail-oriented person.
+- People passionate about fashion and garment making
+- People who prefer independent work or self-employment
+
+**Who is not suited**
+- People seeking high salary and high stability
+- People who dislike repetitive manual work
+
+---
+
+## 8. FAQ
+
+**Q: Can tailors immigrate to the UK via a skilled worker visa?**
+A: Yes, but requires employer sponsorship, and the occupation is not on the shortage occupation list; must meet salary requirements.
+
+**Q: What is the average salary of a tailor in the UK?**
+A: Junior: approx £18,000-22,000, intermediate: £23,000-30,000, senior: up to £45,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tailors and dressmakers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can tailors immigrate to the UK via a Skilled Worker visa?**
-答：Yes, but requires employer sponsorship, and the occupation is not on the shortage list; salary thresholds apply.
-
-**问：What is the average salary for tailors in the UK?**
-答：Entry-level: £18,000-22,000; mid-level: £23,000-30,000; senior: up to £45,000.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

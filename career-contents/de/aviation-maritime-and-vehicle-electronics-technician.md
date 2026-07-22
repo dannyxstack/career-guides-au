@@ -1,58 +1,94 @@
-# Aviation, Maritime, and Vehicle Electronics Technician（Aviation, Maritime, and Vehicle Electronics Technician）职业分析 · DE
+# Aviation, Maritime, and Vehicle Electronics Technician — career analysis · Germany
 
-**职业代码：2633 – Aviation, Maritime, and Vehicle Electronics Technician。**
+**Occupation code: 2633 (KldB)**
 
-Install, maintain, and repair electronic systems in aircraft, ships, and vehicles, including navigation, communication, and control systems.
+Responsible for installing, maintaining, and repairing electronic systems in aircraft, ships, and vehicles, including navigation, communication, and control systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3.5年 | —（企业承担培训费用，学员有津贴） |
-| 本科（电气工程/电子技术） | 3-4年 | —（公立大学基本免学费，仅象征性学期费） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$0 (Companies cover training costs; trainees receive allowances) |
+| Bachelor's degree (Electrical Engineering / Electronic Technology) | 3-4 years | $0~$500 (Public universities are essentially tuition-free, only a symbolic semester fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可的电子技术员资质 | 德国工商会（IHK） | 必备 | 通过双元制毕业考试或同等认证 |
-| 航空电子资质（如需） | 德国航空局（LBA） | 可选 | 涉及飞机维修需额外认证 |
+| Recognized electronic technician qualifications | German Chamber of Commerce and Industry (IHK) | Required | Pass the dual system graduation exam or equivalent certification |
+| Aviation electronics qualifications (if required) | German Aviation Authority (LBA) | Optional | Involves additional certification for aircraft maintenance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国交通运输业持续发展，航空和造船领域的电子化升级推动需求增长，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Germany's transport industry continues to develop, with digital upgrades in aviation and shipbuilding driving demand growth, and employment prospects are stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 税前年薪 |
-| 中级（4-7年） | $40,000~$48,000 | 税前年薪 |
-| 高级（8年以上） | $50,000~$60,000 | 税前年薪 |
+| Median salary | $53,496 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$38,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $40,000~$48,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$60,000 | Annual pre-tax salary |
+| average salary | $58,740 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从技术员晋升为高级技师或团队主管，亦可深造为工程师或进入研发部门。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Can advance from technician to senior technician or team supervisor, or further study to become an engineer or enter R&D departments.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Aviation electronics
 - Maritime electronics
@@ -61,65 +97,64 @@ Install, maintain, and repair electronic systems in aircraft, ships, and vehicle
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合本科及以上学历，年薪达标（2024年约45300欧元） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适合双元制毕业生或通过资质认证的技术人员 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合有相关经验但无雇主的求职者 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for bachelor's degree or above, with annual salary meeting the threshold (approx. €45,300 in 2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for graduates of dual system programs or technicians with certified qualifications |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for job seekers with relevant experience but no employer sponsorship |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aviation, Maritime, and Vehicle Electronics Technician？**
-- 对电子技术有浓厚兴趣
-- 喜欢动手维修和故障排查
-- 愿意在航空、船舶或车辆行业工作
-
-**谁不适合学Aviation, Maritime, and Vehicle Electronics Technician？**
-- 不擅长电路分析和系统诊断
-- 对高空或海上工作环境不适应
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in electronics technology
+- Those who enjoy hands-on repair and troubleshooting
+- Willing to work in the aviation, maritime, or vehicle industry
+
+**Who is not suited**
+- Not proficient in circuit analysis and system diagnostics
+- Not adaptable to high-altitude or offshore work environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level?**
+A: Junior salary approx. €32,000-38,000/year, mid-level €40,000-48,000, senior €50,000-60,000, depends on industry and region.
+
+**Q: What are the immigration pathways?**
+A: Can immigrate via EU Blue Card (bachelor's degree + high salary), skilled worker visa (dual system or qualification certification), or Opportunity Card (points-based system).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Aviation, Maritime, and Vehicle Electronics Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level?**
-答：Entry-level annual salary is around 32,000-38,000 EUR, mid-level 40,000-48,000, senior 50,000-60,000, depending on industry and region.
-
-**问：What are the migration paths?**
-答：Options include EU Blue Card (degree+salary threshold), Skilled Worker Visa (vocational training or recognition), and Opportunity Card (points-based).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

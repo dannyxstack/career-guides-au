@@ -1,59 +1,92 @@
-# Residential counsellor（Residential counsellor）职业分析 · 加拿大
+# Residential counsellor — career analysis · Canada
 
-**职业代码：44201 – Residential counsellor。**
+**Occupation code: 44201 (NOC)**
 
-Residential Counsellors supervise boarding facilities in Canadian schools, ensuring student well-being and discipline, with migration possible via PNP or EE with relevant experience.
+Accommodation advisors in Canadian schools or institutions oversee boarding facilities, manage student well-being and behaviour; with relevant experience, they can apply for immigration through PNP or EE.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 社区学院文凭 | 2年 | $10,000~$20,000（学费用加元，含教材） |
-| 大学本科学位 | 4年 | $40,000~$80,000（总学费，视学校而定） |
+| Community college diploma | 2 years | $10,000~$20,000 (Tuition in Canadian dollars, including materials) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Total tuition, varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES | 必备 | 用于移民申请 |
-| 第一急救证书 | 红十字会 | 可选 | 行业常见要求 |
-| 雅思G类 | IELTS | 必备 | CLB 7以上（移民最低） |
+| ECA (Educational Credential Assessment). | WES/ICES | Required | Used for immigration applications |
+| IELTS General Training | IELTS | Required | CLB 7 or above (minimum for immigration) |
+| First Aid Certificate | Red Cross | Optional | Common industry requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。加拿大教育行业稳定，住宿顾问需求随国际学生增长而上升，尤其在安省和BC省。预计未来5年就业机会中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. The Canadian education sector is stable, with demand for accommodation advisors rising alongside international student numbers, particularly in Ontario and British Columbia. Moderate job opportunities are expected over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 年薪加元，全职 |
-| 中级（3-6年） | $38,000~$45,000 | 年薪加元 |
-| 高级（6年以上） | $45,000~$55,000 | 年薪加元，含主管岗位 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual salary in Canadian dollars, full-time |
+| Mid-level (3–6 years) | $38,000~$45,000 | Annual salary in CAD |
+| Senior (6+ years) | $45,000~$55,000 | Annual salary in Canadian dollars, including supervisory positions |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可晋升为宿舍主管、学生事务经理或顾问，也可转向教育支持领域。需积累经验并获取相关教育或咨询资格。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core of the accommodation advisor role is interpersonal care and behavior management. AI finds it hard to replace on-site emotional support, but administrative and monitoring tasks will be greatly enhanced by AI. Career prospects tend to be amplified rather than compressed.
+
+Can advance to dormitory supervisor, student affairs manager, or consultant, or transition to education support roles. Requires accumulating experience and obtaining relevant education or counseling qualifications.
+
+**Tasks most exposed to AI:**
+
+- Data entry tasks such as attendance records and accommodation registration
+- Rule-Based Compliance Screening and Automatic Notification
+- AI-powered automatic analysis and anomaly alerts for public area surveillance video
+- Algorithmic optimization of accommodation allocation and itinerary planning
+
+**Where AI augments the role:**
+
+- AI behavioral analysis system assists in identifying student psychological crises, improving intervention timeliness
+- Chatbots handle common enquiries, freeing consultants to focus on in-depth coaching
+- AI report generators automatically write student behavior summaries and progress reports
+- Multilingual AI translation tools improve communication with non-English speaking students and parents
+- AI schedule management optimizes patrols and meeting scheduling
+
+**Human moat:**
+
+- Empathy and trust building in face-to-face emotional support and crisis intervention
+- Human judgment and flexibility in personalized behavior correction and coaching.
+- Emotional intelligence in handling complex interpersonal conflicts and family communication
+- Deep understanding and empathy for students' backgrounds and special needs
+
+**Skills to build:**
+
+- Use and interpretation of AI behavioral analysis tools
+- Basic data management and report automation skills
+- Cross-cultural communication and Psychological First Aid (PH)
+- Digital literacy: proficient in AI-assisted systems within the organization
+- Digital health coaching to help students adapt to AI environment
+- Ethical decision-making: maintaining student privacy and dignity in human-machine collaboration
+
+**Key growth areas:**
 
 - Education
 - Youth services
@@ -62,68 +95,67 @@ Residential Counsellors supervise boarding facilities in Canadian schools, ensur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 满足EE入池条件（如1年全职加拿大经验或海外经验+ECA），CRS分数达标即可获邀。 |
-| Subclass PNP（Provincial Nominee Program） | 通过安省、BC省等PNP项目申请，需雇主offer或相关经验，获省提名后加600分。 |
-| Subclass AIP（Atlantic Immigration Program） | 适用于大西洋四省雇主担保，需1年工作经验及雇主offer。 |
+| Subclass EE (Express Entry (FSW/CEC)) | Meets EE pool entry requirements (e.g., 1 year full-time Canadian experience or overseas experience + ECA), and CRS score threshold for invitation. |
+| Subclass PNP (Provincial Nominee Program) | Apply through PNP programs like Ontario or British Columbia, requiring a job offer or relevant experience; get 600 points after provincial nomination. |
+| Subclass AIP (Atlantic Immigration Program) | Applicable to the Atlantic Immigration Program (employer sponsorship), requires 1 year work experience and employer offer. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Residential counsellor？**
-- 有耐心、喜欢与学生互动的人
-- 有教育或社会工作背景的人
-- 愿意在偏远地区工作以获移民优势的人
-
-**谁不适合学Residential counsellor？**
-- 追求高薪职业的人
-- 不喜欢处理学生纪律问题的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and enjoys interacting with students
+- People with an education or social work background
+- People willing to work in remote areas for immigration advantages
+
+**Who is not suited**
+- People pursuing high-paying careers
+- People who dislike handling student discipline issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for accommodation consultants in Canada?**
+A: Annual salary approx. 30,000-55,000 CAD, lower at junior level but can reach supervisory level with experience.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: Belongs to skilled migration B-class occupation; can apply via EE or PNP, but requires 1 year of relevant experience (overseas experience needs ECA). Competition is moderate.
+
+**Q: What educational background is required?**
+A: Usually requires a community college diploma or bachelor's degree, with related fields such as sociology or psychology being more popular.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Residential counsellor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a residential counsellor in Canada?**
-答：Annual salary ranges from CAD 30,000 to 55,000, with entry-level on the lower end and supervisory roles higher.
-
-**问：Is it easy to immigrate as a residential counsellor?**
-答：It is a TEER 3 occupation eligible for EE and PNP, requiring 1 year experience (ECA for foreign). Competition is moderate.
-
-**问：What education is required?**
-答：A college diploma or bachelor's degree, preferably in social sciences or psychology.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

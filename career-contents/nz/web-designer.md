@@ -1,129 +1,164 @@
-# Web Designer（Web Designer）职业分析 · 新西兰
+# Web Designer — career analysis · New Zealand
 
-**职业代码：232414 – Web Designer。**
+**Occupation code: 232412 (ANZSCO)**
 
-Web designers plan, design, and create user interfaces and visual experiences for websites, focusing on aesthetics and usability. This occupation is not on the Green List or long-term skill shortage list in New Zealand but can be eligible for Skilled Migrant Category (SMC) if meeting median wage or higher requirements with relevant qualifications or experience.
+UI/UX designers in New Zealand work on user interface and interaction design for websites, mobile apps, and digital products, with steady market demand growth. For immigration, they can use the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but the occupation is not on the Green List, requiring employer support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $25,000~$40,000（新西兰大学设计类本科学费，国际学生年费） |
-| Diploma或证书 | 1-2年 | $15,000~$25,000（理工学院或私立院校的网页设计文凭课程） |
+| Bachelor's degree (design or related field) | 3 years | $45,000~$65,000 (Total tuition for foundation + undergraduate, international student example) |
+| Master's degree (Interaction Design or User Experience) | 1-2 years | $40,000~$55,000 (Annual tuition, international students) |
+| Diploma (Design or Digital Media) | 1-2 years | $25,000~$35,000 (Annual tuition, international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 雅思学术类成绩 | IDP或British Council | 可选 | 技术移民通常需总分6.5，各单项不低于6.0 |
-| NZQA评估 | New Zealand Qualifications Authority | 必备 | 海外学历需评估是否与新西兰学士学位等同 |
-| 作品集 | 无 | 可选 | 非强制但雇主通常要求提供过往设计作品 |
+| Portfolio | Personal | Required | Essential: showcase project workflow, UX research methods, and final design. |
+| User experience certification (e.g., Nielsen Norman Group UX certification) | Nielsen Norman Group | Optional | Not mandatory but advantageous |
+| IELTS/TOEFL scores. | IDP/ETS | Optional | Immigration application requires 6.5 or above |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰网页设计师就业前景稳定，随着数字化转型和电商发展，需求持续增长。但竞争中等，初级职位较多，高级设计师更受青睐。预计未来五年岗位增长率约为 5-10%，主要机会在奥克兰、惠灵顿等城市。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 3,200. Digital transformation in New Zealand drives UI/UX design demand, especially in tech companies, government projects, and remote roles in Auckland, Wellington, and Christchurch. Expected job growth of about 15% over the next five years, moderate competition, but requires local design trends and user research skills.
 
-**竞争度：中等偏高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪较低，经验积累后快速提升 |
-| 中级（3-5年） | $60,000~$80,000 | 达到新西兰工资中位数以上 |
-| 高级（5年以上） | $85,000~$100,000 | 资深设计师或艺术总监薪资更高 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Usually requires 1-2 years of experience, depending on company and region |
+| Mid-level (3–6 years) | $75,000~$100,000 | Most design positions fall within this range |
+| Senior (7+ years) | $100,000~$130,000 | Design director or specialist-level positions. |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：从初级网页设计师晋升为中级设计师，再至艺术总监或用户体验（UX）经理。也可转向数字设计、交互设计或前端开发等方向。积累作品集和用户研究成果对晋升重要，持有多媒体或设计学历更有利。
-**AI替代风险：中等偏高（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
 
-- Skills Matter
+Junior UI/UX designers can advance to senior designer, design lead, or design manager, or transition to product management or UX research. The New Zealand market values full-stack design skills (interaction + visual + prototyping), with many freelance and remote work opportunities.
+
+**Tasks most exposed to AI:**
+
+- Low-risk hand-drawn wireframes and high-fidelity UI generation (e.g., AI automatically producing multiple interface versions from text)
+- Automatic slicing and annotation output for developers (AI tools like Figma plugins generate code specifications with one click)
+- Design basic A/B test variants (AI automatically generates and tests multiple layouts)
+- Simple icon and illustration creation (AI image generation tools quickly provide alternative materials)
+
+**Where AI augments the role:**
+
+- Quickly Generate Design Prototypes and Systems, Reducing Time from Concept to Clickable Prototype by 70%
+- Optimize Information Architecture and Interaction Flow Using AI Analysis of User Behavior Data
+- Using AI tools for automated recording and pattern recognition in usability testing (e.g., recording user actions and highlighting pain points)
+- Generate design specification documents and component libraries to maintain design consistency across products
+
+**Human moat:**
+
+- User empathy and real needs insight (in-depth interviews, field research, empathy maps)
+- Brand tone and emotional design decisions (meaning behind colors, fonts, animations)
+- Cross-Departmental Communication and Design Proposal Persuasion (Explaining Design Rationale to Non-Designers)
+- Design of complex logic and error states (e.g., exception handling in bank transfer processes)
+- Creative direction and visual storytelling (defining design language from 0 to 1)
+
+**Skills to build:**
+
+- Practical use of AI design tools (e.g., Figma AI, Uizard, Galileo AI, Midjourney prompt engineering)
+- User Research Methods (in-depth interviews, usability testing, statistical analysis)
+- Design system construction and component-based thinking (atomic design methodology)
+- Basic front-end knowledge (HTML/CSS/React component development)
+- Data visualization and A/B testing analysis (Google Analytics, Amplitude)
+- Cross-role collaboration (working with PM, development, marketing)
+
+**Key growth areas:**
+
 - Digital Transformation
-- E-commerce
-- UX Design
+- User Experience Demand
+- Remote Work
+- Tech Startup Growth
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 需满足6分制（学历+经验），工资不低于中位数（2024年约29.66纽币/小时），有新西兰雇主offer。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 适用于有雇主offer但未达居住条件的申请人，需雇主为认证雇主，工资不低于中位数。 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 网页设计师不在绿色清单上，此路径不适用。 |
+| Subclass SMC (Skilled Migrant Category) | Scored based on age, education, work experience, and salary; must reach a threshold of 6 points. UI/UX designer is a skilled occupation; meeting salary requirements adds points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer, visa duration 1-3 years, can later transfer to residence. |
+| Subclass Green List T2 (Green List Tier 2) | UI/UX designers are not on Tier 1, but if salary reaches twice the median (approx. NZD 120,000), they may qualify for Tier 2 work to residence pathway. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web Designer？**
-- 具备创意和审美能力，喜欢视觉设计的人
-- 有技术背景，愿意学习前端代码（HTML/CSS）的设计师
-- 能适应项目制工作，自我驱动力强
-
-**谁不适合学Web Designer？**
-- 对设计工具和软件无兴趣，不愿更新技能的人
-- 无法承受批评和反复修改压力的完美主义者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and aesthetically sensitive
+- Skilled in user research and solving complex interaction problems
+- Willing to learn New Zealand design culture and user habits
+- Able to adapt to remote or hybrid work mode
+
+**Who is not suited**
+- Not good at communication and teamwork
+- Lack of experience in visual or interactive prototyping
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for UI/UX designers in New Zealand?**
+A: Entry-level: approx. NZ$55,000-$75,000; mid-level: approx. $75,000-$100,000; senior: approx. $100,000-$130,000.
+
+**Q: Can UI/UX designers obtain New Zealand residency through the Skilled Migrant Category (SMC)?**
+A: Yes, but must meet the six-point system requirements (e.g., qualifications, work experience, salary) and have employer sponsorship or a job offer. Meeting salary threshold is a key bonus.
+
+**Q: What are the most important hiring criteria for UI/UX designer jobs in New Zealand?**
+A: Employers value portfolio quality, user research ability, proficiency in design tools (e.g. Figma, Sketch, Adobe XD), and local New Zealand experience or cultural understanding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 1-3年（★★½☆☆） |
-| 学习难度 | 中等偏低（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等偏高（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for web designers in New Zealand?**
-答：Entry-level: NZD 45,000-55,000; mid-level: NZD 60,000-80,000; senior: NZD 85,000-100,000+. Salaries vary by experience, skills, and location, with Auckland generally higher.
-
-**问：Can web designers migrate to New Zealand?**
-答：Yes, through the Skilled Migrant Category (SMC) under the 6-point system (qualifications + work experience), with salary at or above the median wage. It is not on the Green List, so no direct residence pathway, but an Accredited Employer Work Visa (AEWV) can be a stepping stone.
-
-**问：Is the job market for web designers saturated in New Zealand?**
-答：Competition is moderate to high, with many entry-level roles but a shortage of senior talent. A strong portfolio and UX design skills enhance competitiveness. Local experience is valued by employers.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

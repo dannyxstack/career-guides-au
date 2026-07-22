@@ -1,62 +1,95 @@
-# Non-Metallic Mineral Product Manufacturing Machinery Operators（Non-Metallic Mineral Product Manufacturing Machinery Operators）职业分析 · ES
+# Non-Metallic Mineral Product Manufacturing Machinery Operators — career analysis · Spain
 
-**职业代码：8114 – Non-Metallic Mineral Product Manufacturing Machinery Operators。**
+**Occupation code: 8114 (CNO)**
 
-Operate crushing, grinding, mixing, and molding machinery to process non-metallic minerals into bricks, tiles, cement, and ceramic products for construction and industry.
+Operate machines for crushing, grinding, mixing, and forming to process non-metallic minerals (such as stone, sand, clay) into bricks, ceramics, cement, and other building or industrial products.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免学费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约2000-4000欧元） |
-| 上岗培训 | 1-3个月 | —（企业内部培训或短期课程） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$500 (Public schools offer no tuition, only a registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$600 (Public is free, private is about 2000-4000 euros) |
+| On-the-job training | 1-3 months. | $0~$200 (Internal corporate training or short-term courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 操作安全证书 | 西班牙劳工部 | 可选 | 部分企业要求 |
-| 职业教育文凭（FP Grado Medio） | 教育部 | 可选 | 非强制但优先 |
-| 危险品操作许可 | 工业安全部门 | 可选 | 如涉及特定材料 |
+| Operation safety certificate | Spanish Ministry of Labor | Optional | Some employers require |
+| Diploma in Vocational Education (FP Grado Medio) | Ministry of Education | Optional | Non-mandatory but preferred |
+| Hazardous materials operation permits | Industrial safety department | Optional | If specific materials are involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙建筑和基础设施行业波动影响该职业需求；绿色转型推动节能材料生产岗位增加，但自动化可能减少低端操作员需求。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. Volatility in Spain's construction and infrastructure industry affects demand for this profession; The green transition is driving more jobs in energy-saving material production, but automation may reduce the demand for low-end operators.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含加班可能更高 |
-| 中级（3-7年） | $22,000~$28,000 | 熟练操作员，部分行业额外补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 含主管职责或特殊技能 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including overtime, may be higher |
+| Mid-level (3–7 years) | $22,000~$28,000 | Skilled operators, additional subsidies in some industries |
+| Senior (7+ years) | $28,000~$35,000 | Includes supervisory duties or specialist skills |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 可从初级操作员晋升为生产线主管或质量控制技术员；通过FP高级培训可转向机器维护或生产管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The routine operational tasks of operators in non-metallic mineral product manufacturing machines will gradually be replaced by automation, but AI-enhanced monitoring, optimization, and troubleshooting capabilities will improve efficiency and quality, while the human moat for physical operations and troubleshooting remains.
+
+Promotion from junior operator to production line supervisor or quality control technician; Advanced FP training allows you to transition to machine maintenance or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic monitoring and adjustment of equipment parameters such as crushing, grinding, and mixing (such as temperature, pressure, speed)
+- Automated product quality inspection and classification based on a vision system
+- Automatic recording, statistics, and report generation of production data
+- Standardized equipment start, stop, and process switching operations
+
+**Where AI augments the role:**
+
+- AI-assisted predictive maintenance: Predicting equipment failures and scheduling repairs through sensor data
+- AI-optimized production scheduling: Automatically scheduling based on orders and raw material inventory
+- Augmented reality (AR)-assisted complex fault diagnosis and remote expert collaboration
+- Digital twin simulation: Simulates the effects of new formulations or process parameters in advance
+
+**Human moat:**
+
+- Hands-on ability to handle sudden machine failures and abnormal operating conditions
+- Real-time judgment and adjustment experience for non-standard raw materials (such as moisture and impurities).
+- Coordination, communication, and management responsibilities between each process
+- On-site execution of safety procedures and emergency response capabilities
+
+**Skills to build:**
+
+- Basic operation and debugging of PLC and industrial automation systems
+- Data analysis and statistical process control (SPC)
+- Basic knowledge of sensors and IoT devices
+- Use of digital twins or simulation software
+- Fault diagnosis and predictive maintenance tools (such as vibration analysis)
+- Collaborative robot (cobot) programming and integration
+
+**Key growth areas:**
 
 - Construction
 - Automation
@@ -65,65 +98,67 @@ Operate crushing, grinding, mixing, and molding machinery to process non-metalli
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 需雇主提供工作合同，证明无法在欧盟找到合适人员，非紧缺职业难度较大。 |
-| Subclass Oferta de empleo（Job Offer Visa） | 通过SEPE审批的职业短缺列表外，需额外证明劳动力市场测试。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Requires employer to provide a work contract proving no suitable candidate can be found in the EU; difficult for non-shortage occupations. |
+| Subclass Oferta de empleo (Job Offer Visa) | In addition to the list of occupational shortages approved by SEPE, additional proof of labor market testing is required. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Non-Metallic Mineral Product Manufacturing Machinery Operators？**
-- 注重动手操作、愿意从事体力劳动的人
-- 希望在建筑或制造业稳定就业，不追求高薪的人
-- 接受轮班工作且适应工作环境噪音、粉尘的人
+**Who is suited**
+- People who value hands-on work and are willing to do physical labor
+- Those who hope for stable employment in construction or manufacturing and do not pursue high salaries
+- People who work in shifts and are adapted to the noise and dust of the work environment
 
-**谁不适合学Non-Metallic Mineral Product Manufacturing Machinery Operators？**
-- 追求高收入或有强烈职业晋升愿望的人
-- 无法适应重复性体力劳动或对粉尘/噪音敏感的人
+**Who is not suited**
+- People pursuing high incomes or those with a strong desire for career advancement
+- Those who cannot adapt to repetitive physical labor or are sensitive to dust/noise
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for operators of non-metallic mineral product manufacturing machines in Spain?**
+A: Entry-level operator pre-tax annual salary about 18,000-22,000 euros, mid-level 22,000-28,000, supervisor level up to 35,000 euros. Overtime or piecework can increase income.
+
+**Q: Can third-country citizens become operators of non-metallic mineral product manufacturing machines in Spain through the skilled migration pathway?**
+A: The difficulty is quite high. This occupation is not in short supply, and employers must pass labor market testing; In theory, it is possible to apply for employment-based residence (Cuenta ajena), but the success rate is low; generally, it is recommended to take an FP course before seeking employment.
+
+**Q: What are the career progression paths for this occupation?**
+A: You can be promoted from operator to production line supervisor, quality control technician, or transition to equipment maintenance and production management positions through advanced FP training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Non-Metallic Mineral Product Manufacturing Machinery Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Non-Metallic Mineral Product Manufacturing Machinery Operators in Spain?**
-答：Entry-level operators earn around €18,000-€22,000 gross annually, mid-level €22,000-€28,000, and supervisors up to €35,000, with overtime or piecework potentially increasing earnings.
-
-**问：Can third-country nationals immigrate to Spain as Non-Metallic Mineral Product Manufacturing Machinery Operators?**
-答：It's difficult. This occupation is not in shortage; employers must pass a labor market test. In theory, a work permit (Cuenta ajena) is possible, but success rates are low. Studying an FP program in Spain first is recommended.
-
-**问：What are the career advancement paths for this occupation?**
-答：Operators can advance to line supervisor, quality control technician, or through advanced FP training move into equipment maintenance or production management.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

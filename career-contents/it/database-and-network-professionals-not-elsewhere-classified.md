@@ -1,59 +1,95 @@
-# Database and Network Professionals Not Elsewhere Classified（Database and Network Professionals Not Elsewhere Classified）职业分析 · IT
+# Database and Network Professionals Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：2529 – Database and Network Professionals Not Elsewhere Classified。**
+**Occupation code: 2529 (ISCO08)**
 
-Covers database administrators, network architects, and other IT professionals not elsewhere classified, responsible for designing, maintaining, and managing data and network systems.
+Covers IT professionals not elsewhere classified, such as database administrators and network architects, responsible for designing, maintaining, and managing data and network systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | —（公立大学年均学费，低收入家庭可减免） |
-| 硕士 | 2年（硕士） | $1,000~$5,000（公立大学硕士学费，因校而异） |
+| Bachelor's degree | 3 years (bachelor's) | $0~$3,000 (Average annual tuition at public universities, with reductions for low-income families) |
+| Master's degree | 2 years (Master's) | $1,000~$5,000 (Master's tuition at public universities, varies by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 思科认证网络工程师 | Cisco | 可选 | 行业认可，提升网络设计能力 |
-| Oracle数据库认证 | Oracle | 可选 | 数据库管理必备，增强就业竞争力 |
-| ITIL基础认证 | AXELOS | 可选 | IT服务管理框架，部分企业要求 |
+| Cisco Certified Network Professional | Cisco | Optional | Industry recognition to enhance network design skills |
+| Oracle database certification | Oracle | Optional | Database management is essential for enhancing employment competitiveness. |
+| ITIL Foundation certification | AXELOS | Optional | IT service management framework, required by some companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 85,000。意大利数字化转型推动需求增长，云计算和大数据领域尤为突出，但整体就业增长温和，预计2023-2028年增长约5%。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 85,000. Italy's digital transformation drives demand growth, particularly in cloud computing and big data, but overall employment growth is moderate, with an estimated increase of about 5% from 2023 to 2028.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含基本工资和奖金 |
-| 中级（3-7年） | $38,000~$50,000 | 税前年薪，视公司规模和城市而定 |
-| 高级（7年以上） | $52,000~$70,000 | 税前年薪，包括高级工程师或架构师 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, including base salary and bonuses |
+| Mid-level (3–7 years) | $38,000~$50,000 | Pre-tax annual salary, depending on company size and city |
+| Senior (7+ years) | $52,000~$70,000 | Pre-tax annual salary, including senior engineer or architect |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级技术人员晋升为高级工程师或架构师，也可向网络安全、云架构等细分领域发展，或转向管理岗位如IT经理。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Database and network professionals face mixed impacts from AI: automation will take over routine operations and monitoring, but system design, architectural decisions, and complex troubleshooting still require human judgment. Overall risks and opportunities coexist.
+
+Can progress from entry-level technician to senior engineer or architect, or specialize in areas like cybersecurity and cloud architecture, or transition to management roles such as IT manager.
+
+**Tasks most exposed to AI:**
+
+- Routine database backup, recovery, optimization and other scripted operational tasks
+- Automated deployment and compliance checks for network device configurations
+- Rule-based log analysis and alert generation
+- Routine performance monitoring and generation of capacity planning reports
+- Basic data migration and ETL workflow orchestration
+
+**Where AI augments the role:**
+
+- Use AI assistance for database performance tuning (e.g., index recommendations)
+- AI-driven network anomaly detection and root cause analysis
+- AIOps for predictive maintenance
+- Automatically generate operation reports using natural language generation technology
+- AI-assisted cybersecurity threat analysis and response
+
+**Human moat:**
+
+- Complex system architecture design and cross-system integration decisions
+- Strategic planning for high availability and disaster recovery solutions
+- Business understanding and data model design
+- Creative problem-solving for non-standard faults
+- In-depth communication and collaboration with business departments and management
+
+**Skills to build:**
+
+- AI/ML fundamentals and model deployment skills
+- Advanced operations of cloud platforms (AWS, Azure, GCP)
+- Infrastructure as Code (Terraform, Ansible)
+- Data security and compliance (GDPR, etc.)
+- AIOps tools (e.g. Datadog, Splunk) usage
+- Communication and project management skills
+
+**Key growth areas:**
 
 - Cloud Computing
 - Big Data
@@ -62,68 +98,67 @@ Covers database administrators, network architects, and other IT professionals n
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需有大学学历及至少年薪限额（2024年约33,536欧元），有效期2年，可续签。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟公民，需雇主担保，配额有限，2024年IT类配额约500个。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，由雇主申请，审核通过后获得，有效期与合同期限一致，可转为居留许可。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires university degree and minimum annual salary threshold (approx. €33,536 in 2024), valid for 2 years, renewable. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, requires employer sponsorship, limited quota, approximately 500 IT quotas in 2024. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied for by the employer, obtained after approval, valid for the contract duration, can be converted to a residence permit. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Database and Network Professionals Not Elsewhere Classified？**
-- 喜欢解决复杂技术问题，对数据库和网络有浓厚兴趣
-- 具备逻辑思维和持续学习能力，能适应快速变化的技术
-- 希望在意大利长期发展并申请永久居留的非欧盟人才
-
-**谁不适合学Database and Network Professionals Not Elsewhere Classified？**
-- 不喜欢持续学习和认证更新的人
-- 对高压工作环境敏感，难以应对夜间维护或紧急故障处理
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys solving complex technical problems, has strong interest in databases and networks
+- Possesses logical thinking and continuous learning ability, adaptable to rapidly changing technologies.
+- Non-EU talent seeking long-term development in Italy and applying for permanent residency
+
+**Who is not suited**
+- People who dislike continuous learning and certification updates
+- Sensitive to high-pressure work environments, unable to handle night maintenance or emergency fault handling
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for database and network professionals in Italy?**
+A: Entry-level annual salary approx. €28,000-35,000, mid-level €38,000-50,000, senior up to €52,000-70,000, depending on experience, certifications and company size.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: Available via EU Blue Card (requires annual salary ≥ €33,536) or Decreto Flussi work visa; employer must provide a work contract and prove inability to find local candidates.
+
+**Q: What are typical career progression paths for this occupation?**
+A: Progress from junior engineer to senior engineer/architect, or move to management roles such as IT manager, or specialize in areas like cybersecurity, cloud architecture.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Database and Network Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for database and network professionals in Italy?**
-答：Entry-level annual salary is around €28,000-35,000, mid-level €38,000-50,000, and senior up to €52,000-70,000, depending on experience, certifications, and company size.
-
-**问：How can non-EU citizens migrate to Italy through this occupation?**
-答：Via EU Blue Card (requires salary ≥ €33,536) or Decreto Flussi work visa; employer must provide a job contract and prove inability to find local candidates.
-
-**问：What are typical career progression paths for this occupation?**
-答：From entry-level engineer to senior engineer/architect, or transition to management roles like IT manager, or specialize in cybersecurity, cloud architecture, etc.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

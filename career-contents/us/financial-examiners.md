@@ -1,58 +1,94 @@
-# Financial Examiners（Financial Examiners）职业分析 · 美国
+# Financial Examiners — career analysis · United States
 
-**职业代码：13-2061 – Financial Examiners。**
+**Occupation code: 13-2061 (SOC)**
 
-Financial examiners enforce compliance with laws governing financial and securities institutions, examining and verifying records to prevent fraud and ensure regulatory adherence.
+Financial examiners ensure financial institutions and transactions comply with laws and regulations, inspecting, verifying, or certifying records to prevent fraud and violations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$150,000（公立大学年均学费约$10,000-$30,000；私立大学约$40,000-$60,000） |
-| 硕士学位（可选） | 2年 | $30,000~$120,000（MBA或金融硕士可增强竞争力） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public universities: average annual tuition about $10,000-$30,000; private universities: about $40,000-$60,000) |
+| Master's degree (optional) | 2 years | $30,000~$120,000 (MBA or Master of Finance can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金融学或相关领域本科学位 | 大学 | 必备 | 通常要求会计、金融、经济学等专业 |
-| 注册金融分析师（CFA） | CFA Institute | 可选 | 非强制但有助于晋升 |
-| 注册反洗钱专家（CAMS） | ACAMS | 可选 | 针对反洗钱岗位 |
+| Bachelor's degree in finance or related field | University | Required | Typically requires a major in accounting, finance, economics, etc. |
+| Chartered Financial Analyst (CFA) | CFA Institute | Optional | Not mandatory but beneficial for promotion |
+| Certified Anti-Money Laundering Specialist (CAMS). | ACAMS | Optional | For anti-money laundering positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 76,000。美国金融监管日益严格，预计2023-2033年就业增长18%，远高于平均水平，主要受金融科技发展和合规需求驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 76,000. U.S. financial regulation is increasingly strict, with employment growth projected at 18% from 2023-2033, much faster than average, driven by fintech development and compliance needs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 中级（4-7年） | $65,000~$95,000 | 大型银行或监管机构 |
-| 高级（8年以上） | $95,000~$150,000 | 管理层或联邦机构 |
+| Median salary | $94,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Mid-level (4-7 years) | $65,000~$95,000 | Large bank or regulatory authority |
+| Senior (8+ years) | $95,000~$150,000 | Management or federal agencies |
+| average salary | $106,240 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级审查员可通过积累经验和考取认证（如CFA、FRM）晋升为高级审查员、主管或监管机构高管。也可转向风险管理、合规官等岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance the work of financial examiners, especially in massive data compliance detection and anomaly identification, but human decision-making and responsibility remain core; overall risk is low.
+
+Junior reviewers can advance to senior reviewer, supervisor, or regulatory agency executive through accumulating experience and obtaining certifications (e.g., CFA, FRM). They can also transition to positions like risk management or compliance officer.
+
+**Tasks most exposed to AI:**
+
+- Automatically reconcile transactions and compliance rules, generate standard reports
+- Scan documents and records, extract structured data
+- Basic abnormal transaction marking and initial screening
+- Generate routine regulatory reporting forms
+- Automatic tracking and reminders for compliance checklists
+
+**Where AI augments the role:**
+
+- Analyzing massive transaction patterns using AI to detect potential money laundering or fraud
+- Use NLP to quickly understand new regulations and compare with existing processes
+- Use predictive models to assess financial institutions' risk levels
+- Generates automated in-depth compliance reports to support decision-making
+- Smart audit systems assist in identifying suspicious transactions
+
+**Human moat:**
+
+- Final regulatory ruling and legal responsibility
+- Understand complex business cases and legal intent
+- Communicate and coordinate with regulatory bodies and management
+- Experience-based intuition and decision-making under pressure.
+- Handling gray areas and novel misconduct methods
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Tableau)
+- Application of Machine Learning in Financial Compliance
+- Natural language processing for regulatory texts
+- AI tool usage and result auditing
+- Compliance technology (RegTech) platform operation.
+- Inter-departmental technical communication skills.
+
+**Key growth areas:**
 
 - RegTech
 - Cybersecurity
@@ -61,65 +97,64 @@ Financial examiners enforce compliance with laws governing financial and securit
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于金融审查员岗位，需本科学位，参与年度抽签。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士学位或本科学位加5年经验，通过PERM劳工认证。 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于本科学位持有者，流程与EB-2类似。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to financial examiner positions, requires bachelor's degree, participates in annual lottery. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or a bachelor's degree plus 5 years of experience, through PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree holders; process similar to EB-2. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial Examiners？**
-- 具备财务分析能力的人
-- 注重细节和法规的人
-- 希望从事稳定高需求职业的人
-
-**谁不适合学Financial Examiners？**
-- 厌恶繁琐文书工作的人
-- 不善于应对压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with financial analysis skills
+- People who pay attention to details and regulations
+- People seeking stable, high-demand careers
+
+**Who is not suited**
+- Those who dislike cumbersome paperwork
+- People who cannot handle stress well
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for financial examiners?**
+A: Entry-level salary about $45,000-$65,000/year, mid-level $65,000-$95,000, senior up to $150,000+. Government positions typically lower than private sector.
+
+**Q: Is it difficult for a financial examiner to get a US work visa?**
+A: H-1B requires lottery, but job demand is high and employer sponsorship is common. EB-2/EB-3 green cards need PERM, process takes about 1-2 years, but the overall path is feasible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Financial Examiners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for financial examiners?**
-答：Entry-level salaries range from $45,000 to $65,000, mid-level $65,000 to $95,000, and senior positions can exceed $150,000. Government jobs typically pay less than private sector.
-
-**问：Is it difficult for financial examiners to get a US work visa?**
-答：H-1B requires lottery but demand is high; employer sponsorship is common. EB-2/EB-3 green cards require PERM, taking 1-2 years, but the pathway is viable.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

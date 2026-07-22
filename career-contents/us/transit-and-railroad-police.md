@@ -1,61 +1,97 @@
-# Transit and Railroad Police（Transit and Railroad Police）职业分析 · 美国
+# Transit and Railroad Police — career analysis · United States
 
-**职业代码：33-3052 – Transit and Railroad Police。**
+**Occupation code: 33-3052 (SOC)**
 
-Protect and police railroad and transit property, employees, or passengers, enforcing laws and preventing crime.
+Protect railway and public transport property, employees, and passengers; enforce laws; prevent and investigate crime.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（基本要求） |
-| 副学士学位 | 2年 | $10,000~$30,000（刑事司法相关） |
+| High school diploma | None | $0~$0 (Basic requirements) |
+| Associate degree | 2 years | $10,000~$30,000 (Criminal justice related) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 执法培训认证 | 州警察标准与培训委员会 | 必备 | 完成培训课程 |
-| 美国公民身份 | 美国政府 | 必备 | 多数机构要求 |
-| 驾驶执照 | 州机动车辆管理局 | 必备 | 有效驾照 |
+| Law enforcement training certification | State Police Standards and Training Commission | Required | Complete training course |
+| US citizenship | U.S. government | Required | Most institutions require |
+| Driver's license | State motor vehicle department | Required | Valid driver's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 4,500。美国公交和铁路警察就业预计保持稳定，受公共安全投入增加影响，需求温和增长。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 4,500. Employment for U.S. transit and railroad police is expected to remain stable, with moderate growth due to increased public safety investments.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 起薪 |
-| 中级（3-10年） | $55,000~$75,000 | 含加班 |
-| 高级（10年以上） | $75,000~$95,000 | 含主管职位 |
+| Median salary | $90,230 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Starting salary |
+| Intermediate (3-10 years) | $55,000~$75,000 | Including overtime |
+| Senior (10+ years) | $75,000~$95,000 | Includes supervisory positions |
+| average salary | $91,810 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 从警员晋升至警长、侦探或管理层，需通过内部考试和培训积累经验。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
+
+Progress from constable to sergeant, detective, or management through internal exams and training experience.
+
+**Tasks most exposed to AI:**
+
+- Automated traffic violation monitoring and ticket generation
+- AI preliminary analysis of surveillance video to identify abnormal behavior
+- AI generates standardized police reports and documents.
+- Automated dispatch system optimizes patrol routes
+- AI-assisted preliminary crime data analysis.
+
+**Where AI augments the role:**
+
+- AI predicts crime hotspots to assist patrol deployment
+- AI quickly searches case history and legal precedents to support investigations
+- AI analyzes social media to warn of potential public safety incidents
+- AI translation tools improve communication efficiency in multilingual communities
+- AI-assisted training and simulation scenario drills
+
+**Human moat:**
+
+- Immediate judgment and use-of-force decisions in field enforcement
+- Emotional communication and trust building with victims and witnesses.
+- Human reasoning and intuition in complex criminal investigations
+- Community Relations Management and Crisis Negotiation
+- Ethical review and accountability for AI output results
+
+**Skills to build:**
+
+- Data analysis and crime prediction tool usage
+- AI system operation and basic maintenance
+- Digital forensics technology
+- Cross-cultural communication and conflict mediation
+- Mental health and stress management
+- Integration of technology and legal ethics
+
+**Key growth areas:**
 
 - public safety
 - urban transit
@@ -64,62 +100,64 @@ Protect and police railroad and transit property, employees, or passengers, enfo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少适用，通常要求学士学位和专业知识 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保困难，因职位通常要求公民身份 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, usually requires a bachelor's degree and specialized knowledge |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship is difficult as the role typically requires citizenship |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Transit and Railroad Police？**
-- 喜欢执法和安全工作
-- 能适应轮班和高压环境
-- 有良好体能和沟通能力
+**Who is suited**
+- Enjoys law enforcement and security work
+- Able to adapt to shift work and high-pressure environments
+- Good physical fitness and communication skills
 
-**谁不适合学Transit and Railroad Police？**
-- 非美国公民或不愿意入籍
-- 对危险工作环境不适应
+**Who is not suited**
+- Non-US citizens or those unwilling to become citizens
+- Discomfort with hazardous work environments.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for transit and railroad police?**
+A: According to the BLS, the median annual salary in 2022 was about $70,000, entry-level around $45,000, and senior level can reach over $90,000.
+
+**Q: Can non-US citizens apply for transit and railroad police positions?**
+A: Most institutions require US citizenship; foreigners can hardly immigrate through employer sponsorship. It is recommended to naturalize first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Transit and Railroad Police属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for transit and railroad police?**
-答：According to BLS, the median annual wage was about $70,000 in 2022, with entry-level around $45,000 and senior up to $90,000.
-
-**问：Can non-U.S. citizens apply for transit and railroad police positions?**
-答：Most agencies require U.S. citizenship, making employer-sponsored immigration nearly impossible; naturalization is recommended.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Special Education Teachers, Elementary School（Special Education Teachers, Elementary School）职业分析 · 美国
+# Special Education Teachers, Elementary School — career analysis · United States
 
-**职业代码：25-2056 – Special Education Teachers, Elementary School。**
+**Occupation code: 25-2056 (SOC)**
 
-Teach academic, social, and life skills to elementary school students with learning, emotional, or physical disabilities, including those with visual/hearing impairments or intellectual disabilities.
+Provide academic, social, and life skills instruction to elementary students with learning, emotional, or physical disabilities, including those with visual or hearing impairments, intellectual disabilities, and other special needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：一般（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费较低，私立较高） |
-| 硕士学位 | 2年 | $30,000~$100,000（部分州要求硕士或更高学位） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities have lower tuition, private universities higher) |
+| Master's degree | 2 years | $30,000~$100,000 (Some states require master's degree or higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州教师执照 | 州教育委员会 | 必备 | 必须通过Praxis考试并完成认证项目 |
-| 特殊教育认证 | 州教育委员会 | 必备 | 部分州有额外特殊教育认证 |
-| 学士学位 | 认可大学 | 必备 | 通常需要特殊教育或相关领域学士学位 |
+| State teacher license. | State Board of Education | Required | Must pass the Praxis exam and complete a certification program |
+| Special education certification | State Board of Education | Required | Some states have additional special education certification |
+| Bachelor's degree | Recognised university | Required | Usually requires a bachelor's degree in special education or a related field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 220,000。美国教育部和BLS预测，特殊教育教师需求将持续增长，因早期识别和干预增多，以及特殊学生入学率上升。2022-2032年就业增长约4%。
+**Job demand: high (★★★★☆).** National workforce approx. 220,000. According to the U.S. Department of Education and BLS, demand for special education teachers will continue to grow due to increased early identification and intervention, and rising enrollment of special needs students. Employment growth is projected at about 4% from 2022 to 2032.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 取决于地区和学区 |
-| 中级（4-9年） | $50,000~$70,000 | 公立学校通常有薪资阶梯 |
-| 高级（10年以上） | $60,000~$90,000 | 硕士或博士可增加薪资 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Depends on region and school district |
+| Intermediate (4-9 years) | $50,000~$70,000 | Public schools usually have a salary scale |
+| Senior (10+ years) | $60,000~$90,000 | A master's or doctoral degree can increase salary |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从普通教师岗位开始，积累经验后可晋升为特殊教育协调员、导师或学校管理员。部分教师选择攻读硕士或博士，转向大学教学或研究。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
+
+Starting from a regular teaching role, you can progress to special education coordinator, mentor, or school administrator as you gain experience. Some teachers choose to pursue a master's or doctorate, moving into university teaching or research.
+
+**Tasks most exposed to AI:**
+
+- Generating personalized learning materials (e.g., simplified texts, practice exercises)
+- Recording and organizing student progress data (e.g., IEP progress)
+- Automated scoring of standardized tests (e.g., basic subjects)
+- Provide virtual assistant-level basic Q&A (e.g., repetitive teaching instructions)
+
+**Where AI augments the role:**
+
+- Use AI to analyse student behaviour patterns and assist in formulating intervention strategies.
+- Use voice-to-text tools to record classroom interactions in real time, focus on teaching
+- Using adaptive learning platforms to customize learning paths for students of different abilities
+- Communicate with multilingual families using AI translation tools
+- Tracking long-term development with data analysis tools, optimizing teaching plans
+
+**Human moat:**
+
+- Emergency behavior intervention (e.g., immediate response to emotional outbursts)
+- Building trust relationships and emotional support (empathy, body language)
+- Interdisciplinary collaborative decision-making (jointly develop plans with therapists and parents)
+- Ethical judgment (e.g., balancing privacy, personalization, and fairness)
+
+**Skills to build:**
+
+- Using IEP management software (e.g., SpedTrack)
+- Proficiency in data analysis tools (e.g., Excel, Tableau for student progress tracking)
+- Learn AI-assisted teaching platforms (e.g., Knewton, DreamBox)
+- Basic Programming/Automation Scripts (e.g., Python for Batch Material Generation)
+- Digital accessibility tools (e.g., screen readers, assistive technology)
+- Online collaboration platforms (e.g., Google Classroom, collaborative documents)
+
+**Key growth areas:**
 
 - Inclusion
 - Early Intervention
@@ -62,69 +95,68 @@ Teach academic, social, and life skills to elementary school students with learn
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于特殊教育教师，但需经过劳工条件申请（LCA）且抽签 |
-| Subclass EB-2/EB-3（Employment-Based Green Card (PERM)） | 通过PERM劳工认证，学校可担保绿卡 |
-| Subclass TN（TN NAFTA Professional） | 加拿大和墨西哥公民可申请，但需符合特定职业列表 |
-| Subclass J-1（Exchange Visitor (Teacher)） | 文化交流项目，短期教学，可豁免回国要求 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applicable to special education teachers, but requires Labor Condition Application (LCA) and lottery. |
+| Subclass EB-2/EB-3 (Employment-Based Green Card (PERM)) | Through PERM labour certification, the school can sponsor a green card. |
+| Subclass TN (TN NAFTA Professional) | Canadian and Mexican citizens may apply, but must meet specific occupation lists |
+| Subclass J-1 (Exchange Visitor (Teacher)) | Cultural exchange program, short-term teaching, waiver of home residency requirement possible |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Special Education Teachers, Elementary School？**
-- 有耐心和同理心
-- 喜欢与儿童工作
-- 能应对行为挑战
-
-**谁不适合学Special Education Teachers, Elementary School？**
-- 不喜欢重复工作
-- 需要安静环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic
+- Enjoys working with children
+- Able to handle behavioral challenges
+
+**Who is not suited**
+- Dislikes repetitive work
+- Need quiet environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for special education teachers?**
+A: The annual salary for special education teachers in the US is about $40,000-$90,000, with a median of $50,000-$70,000, depending on region and degree.
+
+**Q: What are the pathways to immigrate to the US as a special education teacher?**
+A: Common pathways include H-1B work visa, EB-2/EB-3 green card (PERM), TN visa (Canadian and Mexican citizens), and J-1 teacher exchange program.
+
+**Q: What degree is required to become a special education teacher?**
+A: Usually requires a bachelor's degree in special education or related field, and state teaching license. Some states require a master's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 一般（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Special Education Teachers, Elementary School的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for special education teachers?**
-答：Annual salary ranges from $40,000 to $90,000, with mid-career around $50,000-$70,000, varying by location and degree.
-
-**问：What are the immigration pathways for special education teachers to the US?**
-答：Common options include H-1B visa, EB-2/EB-3 green card (PERM), TN visa (for Canadian/Mexican citizens), and J-1 teacher exchange program.
-
-**问：What degree is required to become a special education teacher?**
-答：A bachelor's degree in special education or related field, plus state teaching license. Some states require a master's degree.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

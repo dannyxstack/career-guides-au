@@ -1,60 +1,94 @@
-# Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified（Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified）职业分析 · IT
+# Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：8159 – Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified。**
+**Occupation code: 8159 (ISCO08)**
 
-Operate and maintain machines for processing textile, fur, and leather products, including cutting, sewing, and embossing equipment, ensuring product quality and production efficiency.
+Operates and maintains machinery for processing textiles, fur, and leather products, including cutting, sewing, embossing, and other equipment, ensuring product quality and production efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 2年（职业证书） | $2,000~$5,000（公立职业培训中心费用较低，私立稍高） |
-| 高中（技术类） | 5年（高中文凭） | —（公立学校免费，仅少量杂费） |
+| Vocational training | 2 years (vocational certificate) | $2,000~$5,000 (Public vocational training centers have lower fees, while private ones are slightly higher) |
+| High school (technical) | 5 years (high school diploma) | $0~$1,000 (Public schools are free, with only minor miscellaneous fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织机械操作证 | 地区职业培训中心 | 可选 | 部分雇主要求 |
-| 安全操作证书 | INAIL | 必备 | 强制要求 |
+| Safety operation certificate | INAIL | Required | Mandatory requirement |
+| Textile machinery operation certificate | Regional vocational training center | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利纺织皮革业传统强项，但近年面临自动化升级和海外竞争压力。初级岗位需求稳定，但增长有限，需关注技能提升以保持竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Traditional strengths in the Italian textile and leather industry, but recent years have faced automation upgrades and overseas competition pressure. Stable demand for entry-level positions, but limited growth; focus on skill improvement to maintain competitiveness.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含奖金 |
-| 中级（3-8年） | $22,000~$28,000 | 税前年薪，经验丰富者可更高 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含管理岗津贴 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–8 years) | $22,000~$28,000 | Pre-tax annual salary, higher for experienced candidates |
+| Senior (8+ years) | $28,000~$35,000 | Annual pre-tax salary, including management position allowance |
+| average salary | $25,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为生产线组长或质量控制员，积累经验后可转向机器维护或生产管理，或向设计/样版制作等创意岗位发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will amplify this occupation's potential: through smart layout, defect detection, and automated coordination, operators can shift to high-value tasks like process optimization and multi-machine management, but need to upgrade digital skills to avoid being marginalized.
+
+Can progress from operator to production line leader or quality controller. With experience, can shift to machine maintenance or production management, or move to creative roles like design or pattern making.
+
+**Tasks most exposed to AI:**
+
+- Repetitive cutting path planning (AI automatically optimizes layout, reducing manual trial and error)
+- Manual quality inspection (machine vision automatically identifies fabric defects and stitching flaws)
+- Inventory material tracking (AI predicts demand and automatically triggers replenishment)
+- Machine fault diagnosis (AI analyzes vibration/temperature data to predict anomalies)
+
+**Where AI augments the role:**
+
+- Complex custom designs (AI generates cutting patterns based on customer requirements; operator reviews and adjusts)
+- Production process optimization (AI analyzes production line data, operators implement improvements)
+- Multi-machine coordinated scheduling (AI coordinates tasks for multiple machines, operator monitors the overall situation)
+- Remote operations (AI provides augmented reality guidance, operators handle complex faults)
+
+**Human moat:**
+
+- Fine material handling (e.g., feel and judgment of non-standard materials like leather and fur)
+- Quick decision-making in emergencies (on-site response to machine failures and material anomalies)
+- Customized customer communication (understand vague customer needs and translate into process solutions)
+- Cross-process knowledge transfer (tacit knowledge of process connections between different machines)
+- Innovative process R&D (trial production and improvement of new materials and products)
+
+**Skills to build:**
+
+- Basic programming (PLC or simple script control)
+- Data analysis (interpreting IoT data from production lines).
+- Application of AI tools (e.g., smart scheduling, machine vision parameter tuning)
+- Cross-disciplinary collaboration (communication with designers and engineers)
+- Continuous learning ability (tracking new materials/automation equipment)
+- Basics of electrical and mechanical repair (handling faults after AI-assisted diagnosis)
+
+**Key growth areas:**
 
 - Automation
 - Sustainability
@@ -63,66 +97,65 @@ Operate and maintain machines for processing textile, fur, and leather products,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 适用于非欧盟工人，每年配额有限，需雇主担保，从事短缺或季节性岗位 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，要求本科以上学历及较高薪资（通常不适用于该职业） |
-| Subclass 自雇工作签（Self-Employment Visa） | 计划在意大利创业或自雇（如开设小工坊）可申请，需商业计划及资金证明 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, annual quota limited, requires employer sponsorship, for shortage or seasonal roles |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, requires a bachelor's degree or higher and a higher salary (usually not applicable to this occupation) |
+| Subclass Self-Employed Work Permit (Self-Employment Visa) | Planning to start a business or self-employment in Italy (e.g., opening a small workshop) is possible with a business plan and proof of funds. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified？**
-- 喜欢动手操作机器，注重细节和产品质量
-- 愿意在传统制造业工作，接受体力劳动
-- 有耐心进行重复性工作，注重安全规范
-
-**谁不适合学Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified？**
-- 希望高薪或快速晋升者
-- 无法接受车间噪音和体力消耗者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on operation of machines, attentive to detail and product quality.
+- Willing to work in traditional manufacturing and accept manual labor
+- Patient with repetitive tasks, focusing on safety regulations.
+
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- Unable to tolerate workshop noise and physical exertion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Italy?**
+A: Entry-level annual salary around €18,000-22,000, mid-level up to €28,000, senior management or technician up to €35,000. Salaries are influenced by region, company size, and experience.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: Usually via the Decreto Flussi quota work visa; employers must prove no suitable candidate can be found within the EU. This occupation is not on the shortage list, making application difficult. Higher skills or management experience are recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Textile, Fur and Leather Products Machine Operator Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Italy?**
-答：Entry-level annual salary ranges from 18,000 to 22,000 EUR; experienced workers up to 28,000 EUR; senior positions can reach 35,000 EUR. Pay varies by region, company size, and experience.
-
-**问：How can non-EU citizens immigrate to Italy through this occupation?**
-答：Typically via the Decreto Flussi quota work visa, requiring employer sponsorship and proof that no suitable EU workers are available. This occupation is not on the shortage list, making sponsorship challenging; higher-skilled or managerial roles may be more viable.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

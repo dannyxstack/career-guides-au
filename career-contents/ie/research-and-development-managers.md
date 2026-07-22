@@ -1,58 +1,93 @@
-# Research and Development Managers（Research and Development Managers）职业分析 · IE
+# Research and Development Managers — career analysis · Ireland
 
-**职业代码：1223 – Research and Development Managers。**
+**Occupation code: 1223 (ISCO08)**
 
-Research and Development Managers plan, organize, direct, and control R&D activities to drive innovation and product development.
+Research and Development Managers plan, organise, direct, and control R&D activities, driving innovation and product development.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $15,000~$25,000（爱尔兰/欧盟学生学费，国际生更高） |
-| 硕士 | 1-2年（硕士） | $12,000~$20,000（部分学校提供奖学金） |
+| Bachelor's degree | 4 years (bachelor's degree) | $15,000~$25,000 (Tuition fees for Irish/EU students, higher for international students) |
+| Master's degree | 1-2 years (Master's) | $12,000~$20,000 (Some schools offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理证书 | PMI | 可选 | 有助于管理研发项目 |
-| 特许科学家 | 科学理事会 | 可选 | 专业认证，非强制 |
+| Project management certification | PMI | Optional | Helps manage R&D projects |
+| Chartered Scientist | Science Council | Optional | Professional certification, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,500。爱尔兰研发经理需求稳定，尤其在制药、科技和农业食品领域。政府大力支持研发投入，预计未来5年岗位增长约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 5,500. R&D Manager demand in Ireland is stable, especially in pharmaceuticals, technology, and agri-food sectors. Strong government support for R&D investment, with an estimated 15% job growth over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 年薪税前 |
-| 中级（3-7年） | $80,000~$110,000 | 年薪税前 |
-| 高级（7年以上） | $110,000~$150,000 | 年薪税前 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $60,000~$80,000 | Annual salary before tax |
+| Mid-level (3–7 years) | $80,000~$110,000 | Annual salary before tax |
+| Senior (7+ years) | $110,000~$150,000 | Annual salary before tax |
+| average salary | $98,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从研发科学家或工程师晋升，积累5-10年经验后成为经理，再晋升为研发总监或首席技术官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The AI risks and rewards for R&D managers are mixed: automation can handle tasks like data analysis and project management, but strategic decisions, team leadership, and innovation direction still rely on human judgment; AI is more of an enhancement than a replacement.
+
+Usually promoted from R&D scientist or engineer, accumulate 5-10 years of experience to become manager, then promoted to R&D director or CTO.
+
+**Tasks most exposed to AI:**
+
+- Data analysis and report generation (e.g., experimental data collation, trend prediction)
+- Project Progress Tracking & Resource Allocation Optimization
+- Patent Literature Retrieval and Knowledge Graph Construction
+- Routine code review and test automation management
+
+**Where AI augments the role:**
+
+- Using AI to assist in creative ideation (e.g., generating design candidates)
+- Accelerate product prototype validation through AI simulation
+- AI-driven market insights and competitive analysis
+- Automated documentation and knowledge base maintenance
+- Intelligent decision support (e.g., R&D investment return prediction)
+
+**Human moat:**
+
+- Cross-departmental strategic coordination and innovation vision development
+- Highly creative research question definition
+- Team morale and talent development management
+- Complex ethical and compliance judgment
+- Deep understanding of client needs and relationship maintenance
+
+**Skills to build:**
+
+- AI/ML basics and tool application (e.g., TensorFlow, AutoML)
+- Data-driven decision making and statistical analysis
+- Agile and lean R&D management methods
+- Technology foresight and innovation management.
+- Cross-cultural communication and leadership
+- AI ethics and governance knowledge
+
+**Key growth areas:**
 
 - Pharmaceutical R&D
 - Tech innovation
@@ -61,68 +96,67 @@ Research and Development Managers plan, organize, direct, and control R&D activi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，两年后可申请永居，无需劳动力市场测试 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，5年后可申请永居 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，年薪门槛约€60,000，快速通住路径 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to skills in demand occupations; two years later can apply for permanent residency, no labor market test required. |
+| Subclass General Employment P (General Employment Permit) | Requires labour market testing, can apply for permanent residence after 5 years |
+| Subclass EU Blue Card (EU Blue Card) | For high-skilled positions, with an annual salary threshold of approximately €60,000 and a fast track to residency |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Research and Development Managers？**
-- 具有技术背景且对商业管理有兴趣的人
-- 希望在创新驱动行业（如制药、科技）发展的专业人士
-- 具备领导力和战略思维的经验人士
-
-**谁不适合学Research and Development Managers？**
-- 偏好纯技术工作而非管理职责的人
-- 不喜欢跨部门沟通和预算规划的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a technical background and interest in business management
+- professionals seeking to develop in innovation-driven industries (e.g., pharmaceuticals, technology)
+- Experienced professionals with leadership and strategic thinking skills
+
+**Who is not suited**
+- Those who prefer pure technical work over managerial responsibilities
+- People who dislike cross-departmental communication and budget planning
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for R&D managers in Ireland?**
+A: Junior around 60k-80k euros, intermediate 80k-110k, senior 110k-150k euros, annual pre-tax salary.
+
+**Q: How can overseas applicants obtain a work permit for a Research and Development Manager?**
+A: You can apply via the Critical Skills Employment Permit (for in-demand occupations, exempt from labor market testing) or the General Employment Permit, and also apply for an EU Blue Card.
+
+**Q: What is the career development path for a Research and Development Manager?**
+A: Typically start as a research scientist or engineer, advance to manager, then to R&D director or Chief Technology Officer (CTO).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Research and Development Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for R&D managers in Ireland?**
-答：Entry-level €60,000-€80,000, mid-level €80,000-€110,000, senior €110,000-€150,000 per annum before tax.
-
-**问：How can overseas applicants obtain a work permit for R&D manager roles?**
-答：Apply via Critical Skills Employment Permit (shortage occupation, no labor market test), General Employment Permit, or EU Blue Card.
-
-**问：What is the career progression for R&D managers?**
-答：Typically start as R&D scientist or engineer, progress to manager, then to R&D director or CTO.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

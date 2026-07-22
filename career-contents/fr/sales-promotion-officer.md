@@ -1,60 +1,96 @@
-# Sales Promotion Officer（Sales Promotion Officer）职业分析 · FR
+# Sales Promotion Officer — career analysis · France
 
-**职业代码：M1706 – Sales Promotion Officer。**
+**Occupation code: M1706 (ROME)**
 
-Plans and executes promotional campaigns to boost product or service sales, including strategy development, advertising coordination, customer relationship management, and market feedback analysis.
+Responsible for planning and executing promotional activities to improve product or service sales performance, including formulating promotional strategies, coordinating advertising, managing customer relationships, and analyzing market feedback.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中后2年 | 2年（BTS NDRC） | $3,000~$8,000（公立学校学费低，私立学校较高；可申请学徒制免学费） |
-| 本科3年 | 3年（Licence en Marketing） | $4,000~$12,000（公立大学学费约4000欧/年，商学院更高） |
-| 硕士2年 | 2年（Master en Commerce et Vente） | $6,000~$18,000（大学硕士约6000欧/年，高等商学院可达18000欧/年） |
+| Two years after high school | 2 years (BTS NDRC) | $3,000~$8,000 (Public schools have lower tuition fees, while private schools have higher tuition; Tuition waiver is available for apprenticeship applications) |
+| Bachelor's degree is a 3-year course | 3 years (Licence en Marketing) | $4,000~$12,000 (Public university tuition is about 4,000 euros per year, and business schools offer even higher fees) |
+| Master's degree: 2 years | 2 years (Master en Commerce et Vente) | $6,000~$18,000 (University master's programs cost about 6,000 euros per year, while higher business schools can earn up to 18,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场营销或商业管理文凭 | 法国大学或商学院 | 可选 | Licence或Master文凭，非强制但提升竞争力 |
-| BTS NDRC（谈判与客户关系数字化） | 法国教育部 | 可选 | 国家文凭，常见入门要求 |
-| 销售推广专业认证（如CPM） | 法国营销协会（Adetem）等 | 可选 | 非强制，可增强专业形象 |
+| Diploma in Marketing or Business Management | French universities or business schools | Optional | Licence or Master's diplomas, not mandatory, but to enhance competitiveness |
+| BTS NDRC (Negotiation and Client Relationship Digitization) | French Ministry of Education | Optional | National diploma, common entry requirements |
+| Professional certification in sales promotion (such as CPM) | French Marketing Association (Adetem), among others | Optional | Non-mandatory, can enhance professional image |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 52,000。法国零售与电商行业持续增长，企业注重客户体验和品牌差异化，销售推广专员需求稳定。数字经济转型带来线上推广新机遇，但就业竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 52,000. France's retail and e-commerce industry continues to grow, with companies focusing on customer experience and brand differentiation, and stable demand for sales promotion specialists. The digital economy transformation brings new opportunities for online promotion, but employment competition remains moderate.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含奖金可能性 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪，视企业规模和行业 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，含管理岗位津贴 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, including bonus potential |
+| Mid-level (3–7 years) | $32,000~$45,000 | Pre-tax annual salary depends on the size of the company and the industry |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, including management position allowance |
+| average salary | $56,262 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从初级推广助理晋升至区域推广经理或市场总监。积累经验后可转向品牌管理或数字营销，亦可通过MBA或专业认证加速晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of sales promotion specialists is mixed: AI can automate data analysis, initial customer engagement, and promotional effectiveness evaluation, but creative planning, deep customer relationship maintenance, and on-site event execution still rely on human intuition and emotional intelligence.
+
+You can advance from junior promotion assistant to regional promotion manager or marketing director. After gaining experience, you can move into brand management or digital marketing, or accelerate your promotion through an MBA or professional certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft promotional plans and optimize delivery times
+- AI analyzes customer purchasing behavior and automatically recommends products
+- Automate the processing of customer feedback and generate reports
+- Use chatbots for initial customer inquiries and lead screening
+- Automatically monitor competitor product promotions and generate comparative analyses
+
+**Where AI augments the role:**
+
+- AI tools are used to precisely analyze consumer profiles and enhance the targeting of promotions
+- Generate multiple versions of ad copy using natural language processing and conduct A/B testing
+- Optimize promotional budget allocation and inventory management through predictive models
+- Use AI to monitor social media sentiment in real time and quickly adjust strategies
+- Automatically generate promotional campaign review reports, saving time for strategic innovation
+
+**Human moat:**
+
+- Gain deep insights into customer emotions and complex needs, building long-term trust relationships
+- Planning promotional activities that are culturally sensitive and creative
+- Coordinate cross-departmental resources and handle unexpected offline incidents
+- Conduct high-level negotiations and critical client crisis PR
+- Making intuitive business decisions based on vague information
+
+**Skills to build:**
+
+- Digital Marketing/Social Media Advertising (Google Ads, Meta Ads)
+- Data analysis and visualization (Python/Pandas, Tableau)
+- AI tool applications (ChatGPT, Jasper, HubSpot)
+- Customer Relationship Management (Advanced CRM System Features)
+- Content creation and A/B testing methodologies
+- Basic programming and API applications (for automated workflows)
+
+**Key growth areas:**
 
 - Digital Marketing
 - E-commerce
@@ -63,68 +99,67 @@ Plans and executes promotional campaigns to boost product or service sales, incl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，如拥有硕士以上学历或高薪资（年薪≥约53k欧元），有效期最长4年，可带家属。 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同至少1年，薪资需达到法定最低工资以上，通常需通过劳工市场测试。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于非欧盟高技能人才，要求至少3年相关经验或高等教育文凭，薪资门槛约42k欧元（2024年标准）。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as those with a master's degree or above or high salary (annual salary ≥ about 53k euros), valid for up to 4 years, and can bring family members. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, a work contract of at least one year, salary must reach the statutory minimum wage, and labor market testing is usually required. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents, requiring at least 3 years of relevant experience or a higher education diploma, with a salary threshold of about 42,000 euros (2024 standard). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Promotion Officer？**
-- 善于沟通和谈判，热爱销售与市场营销工作
-- 有创意，能策划吸引客户的促销活动
-- 适应快节奏工作，目标导向，抗压能力强
-
-**谁不适合学Sales Promotion Officer？**
-- 不喜欢人际交往或频繁出差
-- 对数字不敏感，难以分析销售数据
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Good at communication and negotiation, passionate about sales and marketing
+- Creative and able to plan promotional activities to attract customers
+- Adaptable to fast-paced work, goal-oriented, and highly stress-resistant
+
+**Who is not suited**
+- Dislikes interpersonal interaction or frequent travel
+- Insensitive to numbers and difficult to analyze sales data
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Sales Promotion Specialists?**
+A: Entry-level salary is 25-32k euros, intermediate 32-45k euros, and senior salary 45-60k euros, all with pre-tax annual salaries. The Paris area is usually 10-20% higher.
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: Can apply for an employee work visa (requiring employer sponsorship) or a Talent Passport (for high salary or advanced degree). EU Blue Card is also applicable, requiring annual salary of ≥€42,000.
+
+**Q: What are the promotion paths for Sales Promotion Specialists?**
+A: Usually promoted to Regional Promotion Manager, Brand Manager, or Marketing Director. You can also shift towards digital marketing or customer relationship management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Promotion Officer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Sales Promotion Officer?**
-答：Entry-level: €25k-32k, mid-level: €32k-45k, senior: €45k-60k (gross annual). Paris region typically 10-20% higher.
-
-**问：How can non-EU citizens immigrate to France through this occupation?**
-答：Via Salarié work permit (employer sponsorship), Passeport Talent (high salary/degree), or EU Blue Card (salary ≥€42k).
-
-**问：What are the career progression paths for a Sales Promotion Officer?**
-答：Typically advance to Regional Promotions Manager, Brand Manager, or Marketing Director. Can also pivot to digital marketing or CRM.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

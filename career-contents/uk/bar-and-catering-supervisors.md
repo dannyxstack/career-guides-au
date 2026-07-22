@@ -1,59 +1,95 @@
-# Bar and catering supervisors（Bar and catering supervisors）职业分析 · UK
+# Bar and catering supervisors — career analysis · United Kingdom
 
-**职业代码：9261 – Bar and catering supervisors。**
+**Occupation code: 9261 (SOC)**
 
-Bar and catering supervisors oversee food and beverage service operations, directly coordinating staff activities in bars, restaurants and similar venues to ensure quality service and customer satisfaction.
+Bar and restaurant supervisors oversee food and beverage service operations, directly coordinating staff activities in bars, restaurants, and other venues to ensure service quality and customer satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中文凭 | 2年 | —（通常无需高等教育，在职培训为主） |
-| 餐饮管理证书 | 6个月 | $500~$2,000（可选，如City & Guilds证书） |
+| High school diploma | 2 years | $0~$0 (Usually no higher education required, primarily on-the-job training) |
+| Certificate in Hospitality Management | 6 months. | $500~$2,000 (Optional, e.g. City & Guilds Certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品卫生证书 | Chartered Institute of Environmental Health (CIEH) | 必备 | 英国法律要求食品经营者持有，通常Level 2 |
-| 酒精服务资格 | BIIAB / SQA | 必备 | 销售酒精需持有个人持牌资格或个人执照 |
-| 餐饮管理文凭 | City & Guilds / VTCT | 可选 | 非强制但有利于晋升 |
+| Food hygiene certificate | Chartered Institute of Environmental Health (CIEH) | Required | Required by UK law for food handlers, typically Level 2 |
+| Responsible Service of Alcohol (RSA) Qualification | BIIAB / SQA | Required | Selling alcohol requires a personal license or qualification |
+| Diploma in hospitality management | City & Guilds / VTCT | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 145,000。英国餐饮业持续复苏，但面临劳动力短缺，酒吧和餐饮主管需求保持稳定。预计2023-2033年就业增长约5%，受旅游业和消费者支出驱动。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 145,000. The UK hospitality industry continues to recover but faces labor shortages, with stable demand for bar and restaurant supervisors. Employment is expected to grow by about 5% from 2023-2033, driven by tourism and consumer spending.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$22,000 | 通常包括小费和加班 |
-| 中级（4-7年） | $22,000~$28,000 | 有经验的 supervisors |
-| 高级（8年以上） | $28,000~$35,000 | 大型场所或高端餐饮 |
+| Median salary | $26,019 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$22,000 | Usually includes tips and overtime |
+| Mid-level (4-7 years) | $22,000~$28,000 | Experienced supervisors |
+| Senior (8+ years) | $28,000~$35,000 | Large venues or high-end dining |
+| average salary | $26,244 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从服务员或吧员晋升而来，积累经验后可升任餐厅经理、区域经理或运营总监。也可向活动餐饮管理、酒店管理方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI can significantly improve efficiency in scheduling, inventory, and customer demand forecasting, but face-to-face interpersonal supervision and handling of emergencies still rely on human experience, resulting in a mixed overall impact.
+
+Usually promoted from waiter or bartender; after gaining experience, can advance to restaurant manager, regional manager, or operations director. Can also move into event catering management or hotel management.
+
+**Tasks most exposed to AI:**
+
+- Manual scheduling and attendance tracking: AI automatically optimises schedules and tracks hours
+- Stocktaking and replenishment order generation: AI predicts demand and places orders automatically
+- Customer complaint triage and common FAQs: chatbots handle standard inquiries
+- Daily performance report creation: AI automatically summarizes metrics such as sales volume and average order value
+- Food safety compliance recording: AI automatically identifies violations from surveillance video
+
+**Where AI augments the role:**
+
+- Multi-dimensional sales data analysis: AI provides real-time data dashboards to assist in quickly adjusting menus and pricing
+- Personalized employee training: AI recommends targeted learning content based on employee performance.
+- Real-time customer emotion monitoring: AI prompts service improvement opportunities via voice/facial recognition
+- Supplier negotiation support: AI analyses historical prices and market trends to provide optimal procurement strategies.
+- Social media marketing planning: AI mines customer preferences, generates promotional copy and activity suggestions
+
+**Human moat:**
+
+- Mediation of complex interpersonal conflicts and restoration of customer satisfaction
+- On-the-spot decision-making for unexpected situations (e.g., equipment failure, customer disputes).
+- Team morale boosting and culture building
+- Creative design and execution supervision for high-end or customized banquets/events
+- Overall control of brand experience and personalized service innovation
+
+**Skills to build:**
+
+- Data analysis fundamentals (advanced Excel functions, SQL, BI tools like Tableau)
+- Hands-on AI tools (scheduling software, inventory forecasting systems, customer service chatbot configuration)
+- Digital marketing basics (social media management, Google Analytics)
+- Emotional intelligence and leadership training (e.g., situational leadership, conflict management)
+- Financial basics (job cost accounting, profit analysis)
+- Basic programming thinking (Python for data automation)
+
+**Key growth areas:**
 
 - hospitality recovery
 - customer experience
@@ -62,65 +98,64 @@ Bar and catering supervisors oversee food and beverage service operations, direc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 酒吧与餐饮主管在可担保职业列表内，需满足薪资门槛（一般不低于£25,600或行业特定薪资）。雇主需持担保资质。 |
-| Subclass Health & Care（Health and Care Worker visa） | 不适用，该职业不属于医疗健康领域。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证持有者可从事该工作，无担保要求，但签证有效期2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Bar and restaurant supervisors are on the eligible occupation list; must meet salary threshold (generally at least £25,600 or occupation-specific salary). Employers must hold sponsorship licence. |
+| Subclass Health & Care (Health and Care Worker visa) | Not applicable; this occupation is not in the healthcare sector. |
+| Subclass Graduate (Graduate visa) | Graduate visa holders can work in this role without sponsorship requirements, but the visa is valid for 2 years (3 years for PhD). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bar and catering supervisors？**
-- 喜欢与人打交道、服务意识强的人
-- 能适应快节奏、晚班和周末工作的人
-- 有团队管理和餐饮经验者优先
-
-**谁不适合学Bar and catering supervisors？**
-- 不适应高压环境和长时间站立工作的人
-- 追求稳定周末休息和朝九晚五作息的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with others and have a strong service orientation
+- Able to adapt to fast-paced, late-night, and weekend work
+- Experience in team management and catering preferred
+
+**Who is not suited**
+- Those who cannot adapt to high-pressure environments and prolonged standing
+- Someone seeking stable weekends and a 9-to-5 routine
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary prospects for bar and restaurant supervisors?**
+A: Salary typically includes base wage plus tips; junior level about £19-22K, senior up to £35K. London and high-end venues pay higher.
+
+**Q: Can this occupation apply for a skilled worker visa?**
+A: Yes, bar and restaurant supervisors are on the list of occupations eligible for Skilled Worker visa sponsorship. You need to find a sponsoring employer and meet the £25,600 salary threshold or the going rate for the occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Bar and catering supervisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary prospects for bar and catering supervisors?**
-答：Salaries usually include basic pay plus tips, starting at £19-22K for entry-level and up to £35K for senior roles. London and fine dining venues pay more.
-
-**问：Can this occupation apply for a Skilled Worker visa?**
-答：Yes, bar and catering supervisors are on the eligible occupations list. Requires a sponsor employer and salary meeting £25,600 or the going rate.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

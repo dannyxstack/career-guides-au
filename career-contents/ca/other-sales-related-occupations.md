@@ -1,59 +1,89 @@
-# Other sales related occupations（Other sales related occupations）职业分析 · 加拿大
+# Other sales related occupations — career analysis · Canada
 
-**职业代码：65109 – Other sales related occupations。**
+**Occupation code: 65109 (NOC)**
 
-Engage in non-technical sales activities such as telemarketing, retail sales, and service sales, focusing on customer interaction and order processing.
+Engaging in non-technical sales work such as sales, customer service, and order processing, including telemarketing, retail sales, and service sales.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（多数雇主只要求高中毕业） |
-| 职业培训/证书 | 6个月 | $2,000~$5,000（销售技巧或客户服务证书可提升竞争力） |
+| High school diploma | 0 years | $0~$0 (Most employers only require high school graduation) |
+| Vocational training/certificate | 6 months. | $2,000~$5,000 (Sales skills or customer service certificates can enhance competitiveness.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售代表证书（可选） | 加拿大零售委员会 | 可选 | 非强制，但有助于就业 |
+| Sales Representative Certificate (optional) | Retail Council of Canada | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 450,000。由于零售和电商行业的稳定需求，该职业就业前景一般偏好，但竞争较大，流动性高。部分岗位受自动化影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 450,000. Due to steady demand in the retail and e-commerce industries, the employment outlook for this occupation is generally favorable, but competition is high and turnover is significant. Some roles are affected by automation.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $28,000~$35,000 | 通常底薪加提成 |
-| 中级（3-5年） | $35,000~$45,000 | 包含佣金 |
-| 高级（5年以上） | $45,000~$60,000 | 销售经理级别 |
+| Median salary | $39,520 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–2 years) | $28,000~$35,000 | Usually base salary plus commission |
+| Mid-level (3–5 years) | $35,000~$45,000 | Including commission |
+| Senior (5+ years) | $45,000~$60,000 | Sales manager level |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 初级职位可通过积累客户关系和销售业绩晋升为销售主管、区域经理；或转向专业销售、市场推广等领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Impact of AI on other sales-related occupations is mixed: many standardized tasks (e.g., order entry, preliminary phone screening) will be automated, but skills in complex negotiation and relationship maintenance that rely on interpersonal savvy are amplified.
+
+Entry-level positions can progress to sales supervisor, regional manager through building client relationships and sales performance; or transition to specialist sales, marketing, and related fields.
+
+**Tasks most exposed to AI:**
+
+- Initial telemarketing outbound calls and client screening
+- Standard order entry and processing
+- Email/chat replies for simple customer inquiries
+- Organizing sales data and generating basic reports
+
+**Where AI augments the role:**
+
+- Customer purchase intent analysis and prediction (AI-assisted scoring)
+- Personalized sales recommendations and cross-selling strategy development
+- Customer Relationship Management (CRM) system smart reminders and follow-up optimization
+
+**Human moat:**
+
+- Complex negotiation and conflict mediation skills.
+- Build and maintain long-term client trust relationships.
+- Cross-departmental coordination and customised solution design
+
+**Skills to build:**
+
+- Advanced CRM system features (e.g., Salesforce Einstein)
+- Data visualization tools (Tableau, Power BI)
+- Basic Python or SQL for sales data analysis
+- AI Chatbot Management and Optimization
+- Digital Marketing and Social Media Sales Strategies
+
+**Key growth areas:**
 
 - Retail Sales
 - Customer Service
@@ -62,61 +92,63 @@ Engage in non-technical sales activities such as telemarketing, retail sales, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法在本地招到人，通常低技能岗位难以获批 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove they cannot hire locally; low-skilled positions are often difficult to get approved |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other sales related occupations？**
-- 善于沟通、有耐心、喜欢与人打交道的人
-- 希望快速进入职场、无需高学历的人
-- 愿意通过提成获得收入增长的人
+**Who is suited**
+- People who are good at communicating, patient, and enjoy interacting with others
+- People who want quick entry into the workforce without high education.
+- People willing to earn income through commissions
 
-**谁不适合学Other sales related occupations？**
-- 不喜欢频繁与人接触或应对客户投诉的人
-- 追求稳定高薪和职业保障的人
+**Who is not suited**
+- People who dislike frequent contact with others or handling customer complaints
+- People seeking stable high salaries and job security
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for this occupation in Canada?**
+A: Full-time practitioner average annual salary about C$35,000, junior about C$28,000, senior up to C$50,000+, commission heavily impacts.
+
+**Q: Is this occupation suitable for applying for Canadian immigration?**
+A: Not suitable. This occupation typically does not meet skilled migration requirements, and employer sponsorship (LMIA) is difficult; consider other occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Other sales related occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in Canada?**
-答：Full-time workers earn around CAD 35,000, with entry-level at CAD 28,000 and senior up to CAD 50,000+ depending on commissions.
-
-**问：Is this occupation suitable for Canadian immigration?**
-答：No. It generally does not qualify for skilled immigration programs, and employer sponsorship (LMIA) is difficult.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Salesperson for Drugstore and Pharmacy Goods（Salesperson for Drugstore and Pharmacy Goods）职业分析 · DE
+# Salesperson for Drugstore and Pharmacy Goods — career analysis · Germany
 
-**职业代码：6241 – Salesperson for Drugstore and Pharmacy Goods。**
+**Occupation code: 6241 (KldB)**
 
-Sells drugstore and pharmacy goods such as medicines, cosmetics, and health products in retail settings, providing customer advice, managing inventory, and handling cashier duties.
+Responsible for providing consultation and selling medicines, cosmetics, health products, etc. to customers in retail places such as pharmacies and drugstores, and handling daily tasks like cashier and inventory management.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2-3年 | —（培训期间有津贴，通常无需学费） |
-| 短期上岗培训 | 2-6个月 | $500~$2,000（部分企业提供内部培训，费用自理） |
+| Vocational training (dual system) | 2-3 years | $0~$0 (Allowance provided during training, usually no tuition fees) |
+| Short-term on-the-job training | 2-6 months | $500~$2,000 (Some companies provide internal training at your own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 零售销售员职业资格 | 德国工商会 (IHK) | 可选 | 完成双元制培训后获得，非强制但普遍要求 |
-| 药剂师助理资格 | 州药剂师协会 | 可选 | 需额外培训，可在药店销售处方药 |
+| Retail Salesperson Qualifications | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing dual vocational training; not mandatory but commonly required. |
+| Pharmacy assistant qualification | State Pharmacist Association. | Optional | Requires additional training, can sell prescription drugs in pharmacies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 180,000。德国药妆零售业稳定，受人口老龄化和健康意识提升推动，岗位需求持续。但电商竞争加剧，实体店销售员需强化咨询能力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 180,000. The German drugstore retail sector is stable, driven by an aging population and increasing health awareness, with sustained job demand. However, e-commerce competition is intensifying, requiring store sales staff to strengthen their advisory skills.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，东德略低 |
-| 中级（3-7年） | $28,000~$35,000 | 含绩效奖金 |
-| 高级（7年以上） | $35,000~$45,000 | 主管级别 |
+| Median salary | $37,284 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, slightly lower in East Germany |
+| Mid-level (3–7 years) | $28,000~$35,000 | Includes performance bonuses |
+| Senior (7+ years) | $35,000~$45,000 | Supervisor level |
+| average salary | $40,608 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从初级销售员起步，可晋升为分店主管、区域经理；也可通过进修成为药剂师助理或转入批发采购领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Daily consultation and cashier tasks for pharmacy and cosmetics sales staff will be significantly reduced by self-service, AI recommendation systems, and automated inventory management, but professional health and customized recommendations still rely on human staff.
+
+Start as a junior salesperson, can advance to branch supervisor, regional manager; also can become a pharmacist assistant through further study or transfer to wholesale procurement.
+
+**Tasks most exposed to AI:**
+
+- Process payments and make change using a cash register
+- Answer basic questions about common medicines and cosmetics efficacy
+- Manually check inventory and restock.
+- Printing and organizing product labels and price tags
+- Handling returns and simple complaints
+
+**Where AI augments the role:**
+
+- Analyzes customer purchase history with AI to provide personalized product recommendations.
+- Use a mobile device to scan products for real-time ingredient and usage information
+- Uses AI tools to quickly answer customer questions about drug interactions
+- Optimize inventory management and promotional strategies through data analysis
+- Uses digital tools to record customer allergy and medication history, enhancing service continuity
+
+**Human moat:**
+
+- Provide professional health advice, such as prescription drug recommendations and dosage guidance
+- Build customer trust and long-term relationships, handle complex health issues
+- Make initial judgments in emergency situations and advise seeking medical attention.
+- Comprehensive assessment of customers' implicit needs, such as emotional reassurance
+- Comply with pharmaceutical regulations and professional ethics, bearing legal responsibility
+
+**Skills to build:**
+
+- Basic pharmacology and knowledge of common diseases
+- Customer communication and relationship management skills
+- Use AI recommendation systems and analysis tools
+- Digital inventory management and data entry.
+- Online health consultations and remote customer service
+- Knowledge of first aid and medication safety.
+
+**Key growth areas:**
 
 - Health & wellness
 - Aging population
@@ -63,66 +99,68 @@ Sells drugstore and pharmacy goods such as medicines, cosmetics, and health prod
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需有德国认可的职业资格，且雇主担保 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制的求职签证，允许在德寻找工作 |
-| Subclass Job Seeker（Job Seeker Visa） | 6个月求职签证，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must have a recognized vocational qualification in Germany, and employer sponsorship |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job search visa allowing job seeking in Germany |
+| Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, must demonstrate financial capacity. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Salesperson for Drugstore and Pharmacy Goods？**
-- 喜欢与人沟通、有耐心的人
-- 对健康产品和化妆品感兴趣的人
-- 希望从事稳定零售工作、不追求高薪的人
+**Who is suited**
+- Enjoys communicating with people and is patient
+- People interested in health products and cosmetics
+- People seeking stable retail work without high salary expectations
 
-**谁不适合学Salesperson for Drugstore and Pharmacy Goods？**
-- 追求高收入和快速职业发展的人
-- 不喜欢站立工作和周末轮班的人
+**Who is not suited**
+- People pursuing high income and rapid career advancement
+- Those who dislike standing work and weekend shifts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do pharmacy sales assistants earn?**
+A: Junior annual salary about EUR 22,000-28,000, senior up to EUR 45,000, lower than German average wage.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Quite challenging as this occupation is not in shortage and requires German B2 or above, but opportunities via the Opportunity Card or employer sponsorship exist.
+
+**Q: What are the career development paths?**
+A: Can advance to store manager, regional manager, or through training become pharmacy assistant, wholesale purchaser.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Salesperson for Drugstore and Pharmacy Goods属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for drugstore salespeople?**
-答：Entry-level annual salary is about EUR 22,000-28,000, senior up to EUR 45,000, below German average.
-
-**问：Can foreigners immigrate through this occupation?**
-答：It is difficult as it is not a shortage occupation and requires German B2+, but Chancenkarte or employer sponsorship is possible.
-
-**问：What are the career development paths?**
-答：Promotion to store manager, area manager, or further training to pharmacy assistant or wholesale buyer.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

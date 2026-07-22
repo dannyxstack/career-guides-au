@@ -1,60 +1,93 @@
-# Dairy Products Maker（Dairy Products Maker）职业分析 · IE
+# Dairy Products Maker — career analysis · Ireland
 
-**职业代码：7513 – Dairy Products Maker。**
+**Occupation code: 7513 (ISCO08)**
 
-Dairy Products Makers operate machinery to process milk and produce cheese, butter, yogurt, and other dairy products, ensuring quality and safety.
+Dairy manufacturing workers operate equipment to process milk, producing cheese, butter, yogurt, and other dairy products, ensuring product quality and safety.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（学徒） | —（学徒期间有工资，培训费用低） |
-| 高等证书/文凭 | 1-2年 | $3,000~$6,000（部分课程可能免费或低学费） |
+| High school graduation | 4 years (apprenticeship) | $0~$1,000 (Wages during apprenticeship, low training costs) |
+| Advanced Certificate/Diploma | 1-2 years | $3,000~$6,000 (Some courses may be free or low-tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品加工证书 | 爱尔兰技能网络 | 可选 | 可选，提升技能 |
-| HACCP食品安全证书 | 认可培训机构 | 必备 | 通常要求 |
+| HACCP food safety certificate | Registered Training Organisation (RTO) | Required | Usually required |
+| Food Processing Certificate | Skillnet Ireland | Optional | Optional, to enhance skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰乳制品行业发达，但自动化程度提高，就业机会稳定但增长缓慢。
+**Job demand: medium (★★★☆☆).** National workforce approx. 2,500. Ireland's dairy industry is developed, but automation is increasing; employment opportunities are stable but slow-growing.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，不含加班 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含主管职位 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, excluding overtime |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including supervisor positions |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从操作工晋升为高级技师或生产主管，需积累经验和培训。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The impact of AI and automation on dairy manufacturing workers is mixed—repetitive tasks are easily replaced, but quality control, process innovation, and emergency handling still require human experience.
+
+Can advance from operator to senior technician or production supervisor, requiring experience and training.
+
+**Tasks most exposed to AI:**
+
+- Standardized processes such as milk reception, pipe cleaning, and pasteurization are performed by automated systems.
+- Repetitive filling, sealing, and palletizing on production lines replaced by robots
+- Routine quality testing (e.g., temperature, acidity, fat content) is completed by sensors and AI vision.
+- production data recording and basic report generation are fully automated
+
+**Where AI augments the role:**
+
+- AI-driven predictive maintenance systems help identify equipment faults early and reduce downtime
+- Digital twin technology optimizes production process parameters, improving product consistency and efficiency
+- Machine learning analyzes consumer feedback and sales data to guide new flavor/product development.
+- Automated documentation system assists compliance management, quickly generating traceability reports.
+
+**Human moat:**
+
+- Sensory assessment of raw milk quality (smell, texture) and anomaly identification
+- Experience in emergency repair and process adjustment during equipment failure
+- Non-standardized decision-making for coordination with suppliers and quality inspection departments
+- Formula experimentation and process innovation in new product development
+
+**Skills to build:**
+
+- Industrial robot operation and maintenance
+- Data analysis and digital tools (e.g., MES systems)
+- Deepening HACCP and food safety management systems
+- Basic application of sensors and IoT devices
+- Communication and teamwork skills
+- Continuous learning and technical adaptability
+
+**Key growth areas:**
 
 - Automation
 - Food Safety
@@ -63,64 +96,66 @@ Dairy Products Makers operate machinery to process milk and produce cheese, butt
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛€30,000 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能职位，但乳制品制造工通常不符合要求 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand; requires employer sponsorship with an annual salary threshold of €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, but dairy manufacturing workers usually do not meet the requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dairy Products Maker？**
-- 喜欢动手操作、注重食品质量
-- 能适应工厂环境和轮班工作
+**Who is suited**
+- Enjoys hands-on work and values food quality
+- Able to adapt to factory environment and shift work
 
-**谁不适合学Dairy Products Maker？**
-- 无法接受重复性体力劳动
-- 对乳制品过敏或不感兴趣
+**Who is not suited**
+- Repetitive physical labor is unacceptable
+- Allergy or no interest in dairy products
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a dairy manufacturing worker in Ireland?**
+A: Entry-level approximately €24,000-€30,000, senior up to €45,000, influenced by experience and plant size.
+
+**Q: Can dairy manufacturing workers emigrate to Ireland through work visas?**
+A: This occupation is not on the shortage list, requires employer-sponsored General Employment Permit with annual salary threshold of €30,000, and is somewhat difficult.
+
+**Q: Are there promotion opportunities for dairy products manufacturing workers?**
+A: Can be promoted to senior operator, production supervisor, or quality management positions, requiring experience accumulation and additional certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Dairy Products Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Dairy Products Makers in Ireland?**
-答：Entry-level around €24,000-€30,000, senior up to €45,000, depending on experience and plant size.
-
-**问：Can Dairy Products Makers immigrate to Ireland via work visa?**
-答：Not on shortage list; requires General Employment Permit with €30,000 salary threshold, moderate difficulty.
-
-**问：Are there promotion opportunities for Dairy Products Makers?**
-答：Yes, to senior operator, production supervisor, or quality control roles with experience and certifications.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

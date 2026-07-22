@@ -1,59 +1,91 @@
-# Hand Packers（Hand Packers）职业分析 · IT
+# Hand Packers — career analysis · Italy
 
-**职业代码：9321 – Hand Packers。**
+**Occupation code: 9321 (ISCO08)**
 
-Manually pack, label, and inspect products to ensure they are secure for transport and storage. Common in food, manufacturing, and warehousing sectors.
+Responsible for manual packaging, labeling, and inspecting products to ensure goods remain intact during transport and storage. Common in food, manufacturing, and warehousing logistics industries.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无学历要求 | 0 | —（通常在职培训） |
-| 职业培训 | 3-6个月 | $500~$1,500（可选包装操作认证课程） |
+| No education requirement | 0 | $0~$0 (Usually on-the-job training) |
+| Vocational training | 3-6 months | $500~$1,500 (Optional packaging operations certification course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质 | 无 | 可选 | 雇主通常提供基本培训 |
+| No mandatory qualifications | None | Optional | Employers usually provide basic training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利物流和制造业长期需要大量包装工。电商增长带动仓储就业，但自动化和经济波动可能限制需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Italy's logistics and manufacturing sectors require a large number of packers. E-commerce growth drives warehousing employment, but automation and economic fluctuations may limit demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，通常按小时计算 |
-| 中级（3-6年） | $22,000~$26,000 | 含加班和绩效奖金 |
-| 高级（6年以上） | $26,000~$30,000 | 可能担任小组长或培训师 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pretax annual salary, usually calculated hourly |
+| Mid-level (3–6 years) | $22,000~$26,000 | Includes overtime and performance bonuses |
+| Senior (6+ years) | $26,000~$30,000 | May serve as team leader or trainer. |
+| average salary | $24,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为包装主管或物流协调员，也可通过培训转向机器操作或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Manual packers face high risk of automation; AI and robots will massively replace repetitive manual tasks, entry-level positions will sharply decline, and employment prospects are grim.
+
+May advance to Packaging Supervisor or Logistics Coordinator, or transition to machine operation or quality control through training.
+
+**Tasks most exposed to AI:**
+
+- Manual product packing, sealing, and packaging
+- Labeling and scanning operations
+- Visual inspection and sorting
+- Simple quality records and counts.
+
+**Where AI augments the role:**
+
+- Using AI vision systems to assist in complex defect detection
+- Use AR glasses to get packaging process guidance.
+- Optimize packaging materials and process efficiency through data analysis
+
+**Human moat:**
+
+- Fine packaging for irregular, fragile, or high-value items
+- On-site rapid diagnosis and resolution of packaging equipment faults
+- Custom packaging solution design
+- Teamwork and communication skills
+
+**Skills to build:**
+
+- Operation and maintenance of automated packaging equipment
+- basic programming (PLC or simple robot teaching)
+- Use of data analysis and quality monitoring systems
+- Supply Chain Management Fundamentals
+- Forklift and other logistics equipment operation certificate
+- Basic English (for reading equipment manuals)
+
+**Key growth areas:**
 
 - e-commerce
 - logistics
@@ -62,62 +94,64 @@ Manually pack, label, and inspect products to ensure they are secure for transpo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 非欧盟工人需通过年度配额申请，通常需雇主担保，适合低技能岗位。 |
-| Subclass 季节性工作签证（Seasonal Work Visa） | 针对季节性包装工作，有效期最长9个月，需雇主邀请。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers must apply through the annual quota, usually requiring employer sponsorship, suitable for low-skilled positions. |
+| Subclass Seasonal Work Visa (Seasonal Work Visa) | For seasonal packaging work, valid up to 9 months, requires employer invitation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand Packers？**
-- 体力好、细心者
-- 寻求入门级工作、无需高学历者
-- 能适应重复性劳动和站立工作的人
+**Who is suited**
+- Good physical condition and attention to detail.
+- For those seeking entry-level jobs without requiring a high degree.
+- People who can adapt to repetitive work and standing work
 
-**谁不适合学Hand Packers？**
-- 希望高薪或高职业发展者
-- 不能适应高强度体力劳动和轮班者
+**Who is not suited**
+- For those seeking high salary or strong career development
+- Cannot tolerate high-intensity physical labor or shift work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a packer?**
+A: Junior: approx. €18,000-22,000/year, senior: up to €30,000/year.
+
+**Q: How can non-EU immigrants obtain an Italian packaging worker work visa?**
+A: Primarily via Decreto Flussi quota work visa or seasonal work visa, requiring employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand Packers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a hand packer?**
-答：Entry-level around €18,000-22,000/year, experienced up to €30,000/year.
-
-**问：How can non-EU migrants get a work visa for hand packer in Italy?**
-答：Mainly via Decreto Flussi quota work visa or seasonal work visa, requiring employer sponsorship.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Florists（Florists）职业分析 · UK
+# Florists — career analysis · United Kingdom
 
-**职业代码：5443 – Florists。**
+**Occupation code: 5443 (SOC)**
 
-Florists sell flowers and related products in wholesale or retail businesses, and design and make up floral bouquets, wreaths, tributes and other floral arrangements for sale to the public.
+Florists sell flowers and related products in wholesale or retail businesses, design and create bouquets, wreaths, condolence sprays, and other floral arrangements for public purchase.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育（GCSE/A-Level） | 2-5年 | —（公立学校免费） |
-| 高级国家文凭/学徒制 | 2-3年 | —（学徒制可能有薪；College课程每年约£3,000-£5,000） |
+| Secondary education (GCSE/A-Level) | 2-5 years | $0~$0 (Free public schools.) |
+| Advanced National Diploma / Apprenticeship | 2-3 years | $0~$10,000 (Apprenticeships may be paid; College courses cost approximately £3,000-£5,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| GCSE数学和英语 | 颁发机构 | 可选 | 通常要求C/4级以上，Entry Level无需 |
-| 花艺设计资格证书（如City & Guilds Level 2/3） | City & Guilds | 可选 | 行业认可，有助于就业和晋升 |
+| GCSE Maths and English | Issuing authority | Optional | Usually requires C/4 level or above, Entry Level not required |
+| Floral design qualification (e.g., City & Guilds Level 2/3) | City & Guilds | Optional | Industry recognized, helpful for employment and promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。英国花艺师就业前景稳定，受节日、婚礼及商务活动需求驱动。预计未来五年就业人数小幅增长，但竞争激烈，尤其在城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Job prospects for florists in the UK are stable, driven by demand from festivals, weddings, and business events. Employment is expected to grow slightly over the next five years, but competition is strong, especially in urban areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 学徒或助理 |
-| 中级（3-7年） | $18,000~$25,000 | 独立花艺师或店长 |
-| 高级（7年以上） | $25,000~$35,000 | 资深花艺师、活动策划或店主 |
+| Median salary | $23,713 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $14,000~$18,000 | Apprentice or assistant |
+| Mid-level (3–7 years) | $18,000~$25,000 | Independent florist or shop manager |
+| Senior (7+ years) | $25,000~$35,000 | Senior florist, event planner, or shop owner |
+| average salary | $23,416 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 花艺师通常从学徒或助理起步，积累经验后可晋升为高级花艺师或店铺经理。部分人选择自主创业开设花店，或转向活动策划、婚礼花艺等专业领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Florists have a low risk of being automated by AI because core creativity and manual skills are hard to replace; instead, AI can assist with design, inventory management, and customer service, improving efficiency and creativity, acting as career amplification rather than compression.
+
+Florists typically start as apprentices or assistants and can progress to senior florist or store manager with experience. Some choose to start their own flower shops or move into event planning, wedding floristry, and other specialized fields.
+
+**Tasks most exposed to AI:**
+
+- Use AI design software to auto-generate bouquet layouts and color schemes
+- Handle common customer inquiries and order queries via chatbots
+- Using algorithms to forecast flower demand and optimise inventory management
+- Automatically inspect flower freshness and grading using computer vision
+
+**Where AI augments the role:**
+
+- AI recommendation tools help florists design unique bouquets based on client preferences and occasions
+- 3D modeling and AR technology allow clients to preview floral arrangement designs
+- Social media analysis and trend forecasting guide seasonal floral styles
+- Automated pricing and promotion strategies adjust in real time based on market data
+- Supply chain optimization systems reduce waste and ensure timely supply
+
+**Human moat:**
+
+- Creative design and aesthetic judgment, integrating themes and emotions into floral art
+- Manual skills and on-site setup dexterity and attention to detail
+- Build trust and emotional connection with clients, understand personalized needs
+- Sensitivity to fresh flowers and experience in quality assessment
+- Flexibility and problem-solving skills to handle unexpected situations
+
+**Skills to build:**
+
+- Learn to use floral design software (e.g., Floral Design Tools or Canva)
+- Master basic data analysis to interpret customer trends and inventory data
+- Familiar with social media marketing and content creation tools.
+- Enhance customer communication and personalized service capabilities
+- Knowledge of sustainable floristry and local supply chain management
+- Attend AI-assisted design workshops or online courses
+
+**Key growth areas:**
 
 - Small business
 - Event floristry
@@ -63,65 +98,67 @@ Florists sell flowers and related products in wholesale or retail businesses, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker） | 花艺师通常不符合技术工人签证的资格，因其职业级别较低且薪资门槛难以达到。 |
-| Subclass Graduate（Graduate Visa） | 若持有相关学位（如花卉设计或商业管理），可通过毕业生签证在英国工作2年（博士3年），但花艺师学位不常见。 |
+| Subclass Skilled Worker (Skilled Worker) | Florists generally do not qualify for skilled worker visas due to their lower occupational level and difficulty meeting salary thresholds. |
+| Subclass Graduate (Graduate Visa) | If holding a relevant degree (e.g., floristry or business management), you can work in the UK for 2 years (3 years for PhD) on a graduate visa, but floristry degrees are uncommon. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Florists？**
-- 对花卉艺术有热情的人
-- 注重细节和创造力的人
-- 喜欢与客户互动且乐于在节日等旺季工作的人
+**Who is suited**
+- People passionate about floral art
+- Detail-oriented and creative individuals
+- People who enjoy interacting with customers and are willing to work during peak seasons like holidays
 
-**谁不适合学Florists？**
-- 寻求高薪职业的人
-- 希望快速通过技术移民获得英国永居的人
+**Who is not suited**
+- People seeking high-paying careers
+- Those seeking to quickly obtain UK permanent residency through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a florist in the UK?**
+A: Junior florist annual salary approx £14,000-£18,000, mid-level approx £18,000-£25,000, senior or shop owner up to £25,000-£35,000. Salaries vary by region, experience, and shop type.
+
+**Q: Can a florist immigrate to the UK via a Skilled Worker visa?**
+A: Usually not. Florist is a lower-skilled occupation and salary threshold is hard to meet skilled worker visa requirements (typically need at least £26,200 per year). Graduate visa or Innovator visa may be alternatives, but neither directly applies to florists.
+
+**Q: What are the career progression pathways for florists?**
+A: One can advance from apprentice to senior florist, then to shop manager or shop owner. Specialization is also possible in wedding floristry, event decoration, or teaching. Some transition to flower wholesale or retail management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Florists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a florist in the UK?**
-答：Entry-level florists earn around £14,000-£18,000, mid-level £18,000-£25,000, and senior florists or shop owners can earn £25,000-£35,000. Salaries vary by location, experience, and type of shop.
-
-**问：Can a florist migrate to the UK via a Skilled Worker visa?**
-答：Generally no. The occupation is low-skilled and salary thresholds (typically at least £26,200) are hard to meet. Graduate visa or Innovator visa may be alternatives, but not directly applicable to florists.
-
-**问：What career progression opportunities exist for florists?**
-答：Progression from apprentice to senior florist, then shop manager or owner. Specialization in wedding floristry, event decoration, or teaching is possible. Some move into flower wholesale or retail management.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

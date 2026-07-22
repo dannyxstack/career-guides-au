@@ -1,62 +1,98 @@
-# Physiotherapist（Physiotherapist）职业分析 · ES
+# Physiotherapist — career analysis · Spain
 
-**职业代码：2152 – Physiotherapist。**
+**Occupation code: 2152 (CNO)**
 
-Physiotherapists use exercise, manual therapy, and physical modalities to help patients restore movement, relieve pain, and improve quality of life. In Spain, the profession is regulated by the Ministry of Health, requiring a university degree and official certification.
+Physical therapists help patients restore motor function, relieve pain, and improve quality of life through exercise therapy, manual therapy, and physical factor therapy. In Spain, this profession is regulated by the Ministry of Health and requires a university degree and official certification.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$15,000（公立大学约1000-3000欧元/年；私立大学约6000-15000欧元/年） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（公立大学约2000-5000欧元/年；私立大学约5000-12000欧元/年） |
+| Undergraduate (Grado) | 4 years | $1,000~$15,000 (Public universities cost about 1000-3000 euros per year; Private universities cost about 6,000-15,000 euros per year) |
+| Máster | 1-2 years | $2,000~$12,000 (Public universities cost about 2,000-5,000 euros per year; Private universities cost about 5,000-12,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：严格（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 物理治疗学士学位 | 西班牙大学 | 必备 | 完成4年Grado课程，获得Fisioterapia学位 |
-| 官方认证（Homologación） | 西班牙卫生部（Ministerio de Sanidad） | 必备 | 外国学历需经过学历认证（Homologación）和资格认可 |
-| 专业执照（Colegiación） | 各自治区物理治疗师协会（Colegio de Fisioterapeutas） | 必备 | 执业前必须在所在自治区的官方协会注册 |
-| 硕士或专科培训 | 西班牙大学 | 可选 | 非强制，但有助于提升竞争力和专科发展 |
+| Bachelor's degree in Physical Therapy | Spanish University | Required | Completed a 4-year Grado program and earned a Fisioterapia degree |
+| Official Certification (Homologación) | Spanish Ministry of Health (Ministerio de Sanidad) | Required | Foreign degrees require academic certification (Homologación) and qualification recognition |
+| Professional License (Colegiación) | Physical Therapist Associations of Each Autonomous Region (Colegio de Fisioterapeutas) | Required | Before practicing, you must register with the official association of your autonomous region |
+| Master's or associate degree training | Spanish University | Optional | Non-mandatory, but it helps enhance competitiveness and specialty development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 55,000。西班牙老龄化加剧和慢性病增加推动物理治疗需求持续上升。公立医疗和私立康复中心均有岗位，但竞争在热门城市较激烈。预计未来五年就业增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. Spain's aging population and rising chronic diseases are driving a sustained increase in demand for physical therapy. Both public medical and private rehabilitation centers have positions, but competition is fierce in popular cities. Employment is expected to grow by about 10% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 公立医院起薪约24000欧元；私立诊所起薪约22000欧元 |
-| 中级（4-7年） | $28,000~$36,000 | 经验丰富者可晋升至主管或专科岗位 |
-| 高级（8年以上） | $36,000~$50,000 | 自营诊所或管理岗位收入较高，可达50000欧元以上 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Starting salary at public hospitals is about 24,000 euros; Private clinics start at about 22,000 euros |
+| Mid-level (4-7 years) | $28,000~$36,000 | Experienced candidates may be promoted to supervisor or specialist positions |
+| Senior (8+ years) | $36,000~$50,000 | Self-operated clinics or management positions tend to earn higher incomes, sometimes exceeding 50,000 euros |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级物理治疗师可在诊所或医院工作；积累经验后可晋升为科室主管或开设自有诊所。也可向体育物理治疗、神经康复等专科发展，或从事教学和研究。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
+
+Junior physiotherapists can work in clinics or hospitals; After gaining experience, you can be promoted to department head or open your own clinic. They can also develop into specialties such as sports physical therapy or neurorehabilitation, or engage in teaching and research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating patient assessment reports and progress records
+- AI-based initial screening and anomaly marking of images (e.g., X-ray, MRI)
+- Use rehabilitation robots and VR systems to perform standardized repetitive training movements
+- Collecting and analyzing patient activity data automatically via wearable devices
+- AI front desk system handling administrative tasks like insurance and appointments
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient movement pattern data to optimize personalized treatment plans
+- Expanding service coverage through remote rehabilitation platforms and AI real-time feedback
+- AI-assisted diagnostic tools improve clinical reasoning accuracy and speed
+- Using natural language processing to quickly retrieve latest research and treatment plans
+- Using VR/AR devices to create immersive rehabilitation training environments
+
+**Human moat:**
+
+- Clinical comprehensive judgment and multi-system interaction assessment for complex cases
+- Face-to-face communication and empathy skills for building trust
+- Fine tactile sense and feel in manual therapy
+- Professional advice and team leadership in interdisciplinary collaboration
+- Motivational techniques for addressing patient fear, motivation, and other psychological factors
+
+**Skills to build:**
+
+- Using AI-assisted diagnostic tools (e.g., musculoskeletal ultrasound AI)
+- Remote rehabilitation platform operation and data analysis
+- Integration of digital health records with clinical decision support systems
+- Sports biomechanics and sensor data analysis
+- Basic Python or R programming for rehabilitation data analysis
+- Human-computer interaction and VR rehabilitation content design
+
+**Key growth areas:**
 
 - Aging population
 - Sports medicine
@@ -65,69 +101,68 @@ Physiotherapists use exercise, manual therapy, and physical modalities to help p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Altamente cualificad（High-Skilled Professional Visa (Ley 14/2013)） | 适用于高技能专业人士，需有工作合同和学历认证，审批较快。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 传统工作居留，需雇主担保，通过劳工市场测试。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需高薪资门槛（2023年约34000欧元），适合高级医师。 |
+| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals, requiring a work contract and academic credentials, with faster approval. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Traditional work residency requires employer sponsorship and passes labor market testing. |
+| Subclass Tarjeta azul UE (EU Blue Card) | A high salary threshold is required (about 34,000 euros in 2023), suitable for senior physicians. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapist？**
-- 喜欢动手操作和与人沟通的人
-- 对运动康复和健康促进有热情的人
-- 有耐心和同理心，乐于帮助他人的人
-
-**谁不适合学Physiotherapist？**
-- 不愿长期从事体力消耗较大工作的人
-- 无法接受严格学历认证和语言要求的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on activities and communicating with others
+- People passionate about sports rehabilitation and health promotion
+- Patient and empathetic people who are willing to help others
+
+**Who is not suited**
+- People who are unwilling to engage in physically demanding work for a long time
+- Those who cannot accept strict academic credentials and language requirements
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physical therapists in Spain?**
+A: The junior salary is about 22,000-28,000 euros per year, the intermediate salary is 28,000-36,000 euros, and the senior can reach up to 50,000 euros. Public hospitals are stable but have slower salary growth, while private clinics or self-operated clinics have higher incomes.
+
+**Q: How can Chinese physical therapists immigrate to Spain?**
+A: Must first pass academic credential evaluation (Homologación) and official qualification recognition. After obtaining recognition, immigration can be via the Highly Skilled Professionals Visa (Law 14/2013) or employer-sponsored work residence. Spain currently has a shortage of physiotherapists, but the certification process is time-consuming, so advance preparation is recommended.
+
+**Q: What educational qualifications are required for a physical therapist in Spain?**
+A: Must hold a Bachelor's degree in Physiotherapy recognized in Spain (4-year Grado) and be officially accredited. Foreign degrees require a Homologación process, which usually takes 6 months to 1 year.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 严格（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Physiotherapist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for physiotherapists in Spain?**
-答：Entry-level salaries range from €22,000 to €28,000, mid-level from €28,000 to €36,000, and senior positions can reach €50,000. Public hospitals offer stability but slower growth, while private practice or self-employment can yield higher income.
-
-**问：How can a Chinese physiotherapist immigrate to Spain?**
-答：You must first obtain homologación (accreditation) of your degree and official qualification recognition. After that, you can apply for a high-skilled professional visa (Ley 14/2013) or an employer-sponsored work permit. Physiotherapists are in shortage in Spain, but the accreditation process is lengthy, so early preparation is advised.
-
-**问：What education is required to become a physiotherapist in Spain?**
-答：A recognized bachelor's degree in physiotherapy (4-year Grado) is mandatory, along with official certification. Foreign degrees must undergo homologación, which typically takes 6 months to 1 year.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

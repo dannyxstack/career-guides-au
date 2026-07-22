@@ -1,60 +1,96 @@
-# Agricultural and Forestry Production Managers（Agricultural and Forestry Production Managers）职业分析 · IE
+# Agricultural and Forestry Production Managers — career analysis · Ireland
 
-**职业代码：1311 – Agricultural and Forestry Production Managers。**
+**Occupation code: 1311 (ISCO08)**
 
-Plan and direct agricultural crop, livestock or forestry production operations, managing resources, budgets, staff, and regulatory compliance.
+Responsible for planning and supervising agricultural production (e.g., crops, livestock) or forestry operations, including resource management, budgeting, compliance, and personnel deployment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（如都柏林大学农业科学本科） |
-| 研究生文凭 | 1年 | $10,000~$15,000（如农业管理硕士） |
-| 职业培训 | 6个月 | $2,000~$5,000（Teagasc课程） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Such as University College Dublin Bachelor of Agricultural Science) |
+| Graduate diploma | 1 year | $10,000~$15,000 (e.g. a Master's in Agricultural Management) |
+| Vocational training | 6 months. | $2,000~$5,000 (Teagasc course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业或相关领域学位 | 爱尔兰大学 | 可选 | 通常要求 |
-| 农药使用证书 | Teagasc | 必备 | 如涉及农药管理 |
-| 健康与安全培训 | HSI | 必备 | 小型农场合规 |
+| Pesticide use certificate | Teagasc | Required | If involving pesticide management |
+| Health and safety training | HSI | Required | Small farm compliance |
+| Degree in agriculture or a related field | Irish universities | Optional | Usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。爱尔兰农业与林业部门预计保持稳定，但受气候和欧盟补贴政策影响。数字化和可持续实践将推动岗位需求，但整体增长有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. The agriculture and forestry sector in Ireland is expected to remain stable, but is affected by climate and EU subsidy policies. Digitalisation and sustainable practices will drive job demand, but overall growth is limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 助理经理或小型农场经理 |
-| 中级（3-7年） | $45,000~$60,000 | 中型农场或部门经理 |
-| 高级（7年以上） | $65,000~$85,000 | 大型农场运营经理或区域总监 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Assistant manager or small farm manager |
+| Mid-level (3–7 years) | $45,000~$60,000 | Medium-sized farm or department manager. |
+| Senior (7+ years) | $65,000~$85,000 | Large farm operations manager or regional director |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从农场主管或技术员起步，逐步晋升至部门经理或区域运营经理。部分可转向农业咨询或政策岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on agricultural production managers is mixed: automation tools take over data monitoring and reporting, but core duties like on-site decisions, personnel management, and regulatory compliance still rely on human experience and judgment.
+
+Usually start as farm supervisor or technician, then progress to department manager or regional operations manager. Some may move into agricultural consulting or policy roles.
+
+**Tasks most exposed to AI:**
+
+- Automated monitoring and report generation of crop growth conditions using sensors and drone data
+- Automated decision-making suggestions for irrigation and fertilization based on historical data and weather forecasts
+- Automated replenishment and logistics scheduling in inventory management
+- Basic financial data entry, budget tracking, and compliance report template generation
+- Automation of basic administrative tasks such as employee attendance and scheduling
+
+**Where AI augments the role:**
+
+- Uses AI to analyze satellite imagery and soil data to optimize planting structures and crop rotation plans
+- Use machine learning models to predict pest and disease outbreaks and formulate prevention strategies in advance
+- Precision agriculture practices using AI tools to improve resource efficiency and yield
+- Using natural language processing to quickly retrieve regulatory updates and ensure compliance
+- AI-assisted decision support system evaluating long-term economic and ecological impacts of different management plans
+
+**Human moat:**
+
+- On-site Judgment and Emergency Response: Handling unexpected events such as sudden weather changes and equipment failures
+- Staff management and team leadership: motivate and train employees, handle interpersonal conflicts
+- Complex communication and negotiation with regulators, communities, and suppliers
+- Long-term strategic planning: developing sustainable solutions based on local ecosystems and market trends
+- Ethics and responsibility: ultimately responsible for food safety, environmental protection, etc.
+
+**Skills to build:**
+
+- Precision agriculture technology: skilled in using drones, sensors, variable rate fertilization systems, etc.
+- Data analysis and statistics: proficiency in Python/R, GIS software to handle farm data
+- AI tool application: understanding machine learning basics, using ready-made AI platforms to optimize decisions
+- Sustainable agriculture knowledge: carbon accounting, ecological agriculture, regenerative agriculture practices
+- Compliance and digital management: Familiarity with agricultural regulations and ERP/farm management software
+- Soft skills: complex communication, leadership, cross-departmental collaboration
+
+**Key growth areas:**
 
 - Sustainable agriculture
 - Precision farming
@@ -63,68 +99,67 @@ Plan and direct agricultural crop, livestock or forestry production operations, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需劳动力市场测试，年薪门槛€30,000。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪至少€43,000（2025年标准），但农业经理通常不达此薪。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 大型跨国农业企业内部调动，需连续工作6个月以上。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires labor market testing, annual salary threshold €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled positions with annual salary of at least €43,000 (2025 standard), but agricultural managers typically do not meet this salary |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Internal transfer within a large multinational agricultural company, requiring continuous work for more than 6 months. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural and Forestry Production Managers？**
-- 有农业背景或学位者
-- 喜欢户外和体力劳动者
-- 能承受季节性和时间压力
-
-**谁不适合学Agricultural and Forestry Production Managers？**
-- 厌恶不确定天气和早起者
-- 偏好稳定办公室工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Applicants with agricultural background or degree
+- Those who enjoy outdoor and manual work
+- able to cope with seasonal and time pressure
+
+**Who is not suited**
+- Dislikes uncertain weather and early risers
+- Prefers stable office work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of an agriculture and forestry production manager?**
+A: Junior: approx. €30,000-€40,000; Mid-level: €45,000-€60,000; Senior: €65,000-€85,000, depending on farm size and responsibilities.
+
+**Q: How can I, as a foreigner, obtain a work visa for Ireland?**
+A: Main pathway is General Employment Permit, requiring employer sponsorship and labor market test. Annual salary must be ≥€30,000. EU Blue Card requires annual salary ≥€43,000, typically this salary does not meet the threshold.
+
+**Q: What are the career advancement prospects?**
+A: Can advance from assistant manager to senior manager, or transition to agricultural consulting, supply chain management. Some may establish their own farms or cooperatives.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Agricultural and Forestry Production Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Agricultural and Forestry Production Managers?**
-答：Entry-level €30,000–€40,000, mid €45,000–€60,000, senior €65,000–€85,000, depending on farm size and responsibility.
-
-**问：How can a foreigner obtain a work visa for this role in Ireland?**
-答：Main route is General Employment Permit, requiring employer sponsorship and labor market test. Salary must be ≥€30,000. EU Blue Card requires ≥€43,000, typically unmet.
-
-**问：What are the career progression prospects?**
-答：Progress from assistant to senior manager, or move into consultancy, supply chain. Some may start their own farm or cooperative.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

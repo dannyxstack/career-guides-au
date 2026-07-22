@@ -1,58 +1,94 @@
-# Wood Treater（Wood Treater）职业分析 · IE
+# Wood Treater — career analysis · Ireland
 
-**职业代码：7521 – Wood Treater。**
+**Occupation code: 7521 (ISCO08)**
 
-Wood treaters apply chemical preservatives and fire retardants to timber to enhance durability and safety. They play a key role in construction and manufacturing sectors.
+Wood treatment workers apply chemical treatments such as preservatives and fire retardants to wood to extend its lifespan. This occupation is crucial in the construction and manufacturing industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正式教育 | —（多数雇主提供在职培训） |
-| 学徒制 | 2-4年 | —（部分培训由SOLAS资助） |
+| High school graduation | No formal education required | $0~$0 (Most employers provide on-the-job training) |
+| Apprenticeship | 2-4 years | $0~$2,000 (Some training funded by SOLAS) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 安全操作证书 | Health and Safety Authority | 必备 | 处理化学品需安全培训 |
-| 木材处理技师 | SOLAS | 可选 | 可选职业资格 |
+| Safety operation certificate | Health and Safety Authority | Required | Safety training required to handle chemicals |
+| Wood Treatment Technician | SOLAS | Optional | Optional occupational qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 500。随着爱尔兰建筑业的持续增长，对经过处理的木材需求稳定，就业前景良好。但自动化可能影响低技能岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 500. As Ireland's construction industry continues to grow, demand for treated wood is stable, and employment prospects are good. However, automation may affect low-skilled jobs.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，视雇主而定 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，含加班 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，经验丰富者可达更高 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual salary before tax, depending on the employer |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, including overtime |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary, higher for experienced candidates |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级工人可通过积累经验晋升为高级处理工或主管。进一步培训可转向质量控制或生产管理岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Tasks of wood processing workers are highly programmable; automation and AI will significantly replace manual operations, with entry-level positions notably shrinking, but demand for supervision and technical maintenance remains.
+
+Entry-level workers can advance to senior processing worker or supervisor through experience. Further training can lead to quality control or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor and adjust chemical bath concentration.
+- Automatically calculate processing time based on wood properties
+- Automated material loading and unloading operations
+- Record and analyze processing data
+- Detect and report abnormal situations
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection for wood and optimized treatment solutions
+- Predictive maintenance alerts reduce equipment downtime
+- Real-time quality feedback to adjust parameters
+- Remote monitoring of multiple processing units
+- Automated report generation and compliance documentation
+
+**Human moat:**
+
+- Expert knowledge in handling special or rare types of wood
+- On-site diagnosis and repair of emergency breakdowns
+- Communicating with clients to customize processing solutions
+- Supervise the safe operation of automated systems
+- Compliance judgment for adhering to environmental regulations
+
+**Skills to build:**
+
+- Operation and maintenance of automated control systems
+- In-depth understanding of chemical processing
+- Data analysis and AI monitoring tool usage
+- Environmental regulations and safety compliance knowledge
+- Basic repair and troubleshooting
+- Digital document management
+
+**Key growth areas:**
 
 - Construction
 - Wood preservation
@@ -61,69 +97,68 @@ Wood treaters apply chemical preservatives and fire retardants to timber to enha
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不适用，木材处理工不在紧缺职业列表 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/欧洲经济区公民可自由工作，无需签证 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 跨国公司内部调动，需雇主担保 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires employer sponsorship, annual salary threshold approximately 30,000 euros |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, wood processing technicians are not on the shortage occupation list |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, requires employer sponsorship |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Treater？**
-- 喜欢动手操作、能适应化学物质环境
-- 注重安全规范、工作认真负责
-- 愿意接受在职培训、积累经验
-
-**谁不适合学Wood Treater？**
-- 对化学气味敏感或有呼吸道疾病
-- 不喜欢体力劳动或重复性工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work and can adapt to chemical environments
+- Emphasizes safety regulations, diligent and responsible work ethic.
+- Willing to undergo on-the-job training and gain experience
+
+**Who is not suited**
+- Sensitive to chemical odors or with respiratory diseases
+- Dislikes physical labour or repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a wood treatment worker?**
+A: Entry-level annual salary is about €26,000-32,000, while senior workers can reach €40,000-50,000. Salary is affected by experience and employer.
+
+**Q: How can non-EU citizens immigrate to Ireland for this occupation?**
+A: Requires a General Employment Permit, annual salary must be approx. 30,000 EUR, and employer must prove no EU worker is available.
+
+**Q: What are the career development paths?**
+A: Can advance from entry-level worker to senior processing worker, supervisor, or quality controller. Extra training can lead to production management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Wood Treater的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a wood treater?**
-答：Entry-level salary ranges from €26,000 to €32,000 per annum, while experienced workers can earn up to €40,000-€50,000.
-
-**问：How can non-EU nationals immigrate for this occupation?**
-答：A General Employment Permit is required, with a minimum salary of around €30,000, and the employer must demonstrate labor market testing.
-
-**问：What are the career progression opportunities?**
-答：Wood treaters can advance to senior roles, supervisors, or quality control. Further training may lead to production management.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

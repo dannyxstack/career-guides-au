@@ -1,60 +1,93 @@
-# Computer system and equipment installers and servicers（Computer system and equipment installers and servicers）职业分析 · UK
+# Computer system and equipment installers and servicers — career analysis · United Kingdom
 
-**职业代码：5244 – Computer system and equipment installers and servicers。**
+**Occupation code: 5244 (SOC)**
 
-IT engineers install, maintain and repair the physical components of computer systems and equipment, including servers, network devices and PCs, ensuring system reliability.
+Responsible for installing, maintaining, and repairing computer hardware, including servers, network equipment, and PCs, ensuring system stability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中/同等学历 | 0年 | —（部分雇主接受高中文凭，但需相关证书） |
-| BTEC/国家高级文凭 | 2年 | $3,000~$12,000（适合职业教育路径，学费因学校而异） |
-| 大学本科 | 3年 | $9,000~$25,000（计算机科学或相关专业，国际生学费更高） |
+| High school diploma or equivalent | 0 years | $0~$0 (Some employers accept high school diploma, but relevant certificates required) |
+| BTEC/National Higher Diploma | 2 years | $3,000~$12,000 (Suitable for vocational training pathways; tuition varies by school.) |
+| University bachelor's degree | 3 years | $9,000~$25,000 (Computer science or related field, higher tuition for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CompTIA A+ 认证 | CompTIA | 可选 | 行业标准入门认证，涵盖硬件、软件和故障排除 |
-| Microsoft 365 认证: 现代桌面管理员 | Microsoft | 可选 | 针对Windows系统管理的专业认证 |
-| Cisco CCNA | Cisco | 可选 | 网络安装与配置认证，提升职业竞争力 |
+| CompTIA A+ certification. | CompTIA | Optional | Industry standard entry-level certification covering hardware, software, and troubleshooting |
+| Microsoft 365 Certified: Modern Desktop Administrator | Microsoft | Optional | Professional certification for Windows system management |
+| Cisco CCNA | Cisco | Optional | Network installation and configuration certification to enhance career competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 58,000。随着数字化转型加速，英国对IT支持工程师的需求持续稳定。云计算普及虽减少部分现场维护，但硬件依赖仍在。预计2023-2033年岗位增长约5%，每年新增约3000个职位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 58,000. With accelerating digital transformation, the demand for IT support engineers in the UK remains stable. Although cloud computing reduces some on-site maintenance, hardware reliance persists. Job growth of about 5% is expected from 2023 to 2033, with approximately 3,000 new positions annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 入门级技术支持或维修工程师薪资 |
-| 中级（3-5年） | $25,000~$35,000 | 具备经验后薪资提升 |
-| 高级（5年以上） | $35,000~$45,000 | 高级工程师或团队主管薪资 |
+| Median salary | $34,237 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$25,000 | Entry-level technical support or maintenance engineer salary |
+| Mid-level (3–5 years) | $25,000~$35,000 | Salary increases with experience |
+| Senior (5+ years) | $35,000~$45,000 | Senior engineer or team lead salary. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级技术支持起步，可晋升为高级工程师、团队主管或IT基础设施经理。也可转向云计算或网络安全领域，获得更高薪资和职业发展空间。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core tasks of this occupation (hardware installation, fault diagnosis, repair) are less impacted by AI/automation, but remote monitoring, AI predictive maintenance and other technologies will reduce demand for traditional roles, especially low-end maintenance work.
+
+Starting from entry-level technical support, you can advance to senior engineer, team lead, or IT infrastructure manager. You can also transition to cloud computing or cybersecurity for higher salary and career growth.
+
+**Tasks most exposed to AI:**
+
+- Routine hardware fault diagnosis (AI automatic log analysis, predictive maintenance).
+- Standard installation process (automation scripts, plug-and-play devices)
+- Spare parts inventory management (AI-optimized supply chain)
+- Remote monitoring and simple issue resolution (automation tools)
+
+**Where AI augments the role:**
+
+- Complex troubleshooting (AI-assisted root cause analysis)
+- System performance optimization (AI-driven load balancing recommendations)
+- Client communication and needs analysis (AI generates reports)
+- Multi-vendor device compatibility testing (AI simulation environment).
+- Preventive maintenance planning (AI prediction model)
+
+**Human moat:**
+
+- Physical debugging skills for non-standard, legacy systems
+- Experience in cross-system integration in complex environments
+- Flexible response to unexpected problems at client sites
+- Technical negotiation skills with suppliers and project partners
+- Quality control responsibility in batch deployment
+
+**Skills to build:**
+
+- AI operations tools (e.g., AIOps, Ansible, automation scripts)
+- Cloud computing infrastructure (AWS/Azure/GCP hardware layer)
+- IoT device integration and edge computing
+- Cybersecurity foundations (hardware-level security configuration)
+- Data analysis (monitoring data interpretation and trend analysis)
+
+**Key growth areas:**
 
 - Cloud adoption
 - Digital transformation
@@ -63,67 +96,66 @@ IT engineers install, maintain and repair the physical components of computer sy
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于受担保雇主提供的技术岗位，年薪通常需达到£26,200或行业标准 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许在英国工作2年（博士3年），无需担保 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长企业，需获得担保，但后续工作灵活性较高 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applies to skilled positions offered by sponsored employers; annual salary typically reaches £26,200 or industry standard |
+| Subclass Graduate (Graduate visa) | Available to UK graduates, allowing them to work in the UK for 2 years (3 years for PhD), no sponsorship required |
+| Subclass Scale-up (Scale-up visa) | Applicable to fast-growing enterprises, requires sponsorship but offers greater work flexibility afterwards |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer system and equipment installers and servicers？**
-- 喜欢动手解决硬件问题，对计算机架构有浓厚兴趣
-- 愿意在中小型企业或IT服务公司工作，提供现场支持
-
-**谁不适合学Computer system and equipment installers and servicers？**
-- 偏好纯软件或远程工作，不喜欢现场故障排除
-- 对重复性维护工作感到乏味
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on hardware troubleshooting and has strong interest in computer architecture
+- Willing to work in SMEs or IT service companies, providing on-site support
+
+**Who is not suited**
+- Prefer pure software or remote work, dislike on-site troubleshooting
+- Finds repetitive maintenance work tedious
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Junior engineer annual salary approx. 18,000-25,000 GBP, mid-level 25,000-35,000, senior up to 45,000. Salaries may be higher in London and other large cities.
+
+**Q: Is it easy for foreigners working in this occupation to immigrate to the UK?**
+A: This occupation is on the Skilled Worker visa sponsorship list but not on the shortage occupation list. You need to find a sponsoring employer with a salary of at least £26,200 or the industry standard. The Graduate visa is an easier starting path.
+
+**Q: What qualifications are needed?**
+A: Usually no university degree required, but CompTIA A+ certification is highly valued by employers. Microsoft or Cisco certifications can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer system and equipment installers and servicers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level engineers earn around £18,000-£25,000, mid-level £25,000-£35,000, and senior up to £45,000. Salaries may be higher in London.
-
-**问：Is it easy for foreigners to immigrate to the UK in this occupation?**
-答：This occupation is eligible for the Skilled Worker visa but not on the shortage list. You need a sponsor employer and a salary of at least £26,200 or the going rate. The Graduate visa is an easier starting path.
-
-**问：What qualifications are required?**
-答：A university degree is not mandatory, but CompTIA A+ certification is highly valued. Microsoft or Cisco certifications can boost competitiveness.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

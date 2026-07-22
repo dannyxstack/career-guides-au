@@ -1,58 +1,91 @@
-# Leather and Hide Processing Machine Operators（Leather and Hide Processing Machine Operators）职业分析 · ES
+# Leather and Hide Processing Machine Operators — career analysis · Spain
 
-**职业代码：8155 – Leather and Hide Processing Machine Operators。**
+**Occupation code: 8155 (CNO)**
 
-Operate machines to pre-treat, tan, dye, and finish hides and leather, serving as a fundamental technical role in leather manufacturing.
+Operating machines to preprocess, tan, dye, and finish raw hides and leather is a fundamental technical position in the leather manufacturing industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校基本免费，仅少量注册费） |
-| 高级职业教育（FP Grado Superior） | 2年 | —（公立机构学费低，私立约2000-4000欧元） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$600 (Public schools are basically free, with only a small registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $0~$700 (Public institutions have low tuition fees, with private ones costing about 2000-4000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学与皮革加工高级技师 | 教育部或自治区政府 | 可选 | FP Grado Superior 相关专业毕业证书 |
-| 安全操作认证 | 劳动与社会保障部 | 可选 | 特定机器操作可能需要 |
+| Senior Technician in Chemistry and Leather Processing | Ministry of Education or Autonomous Region Government | Optional | Graduation certificate in FP Grado Superior-related majors |
+| Safe operation certification | Ministry of Labor and Social Security | Optional | Specific machine operations may require them |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 4,800。西班牙皮革工业主要集中在加泰罗尼亚和巴伦西亚地区，受快时尚和环保法规影响，岗位需求缓慢下降，但技术熟练工人仍有一定需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 4,800. Spain's leather industry is mainly concentrated in Catalonia and Valencia. Due to fast fashion and environmental regulations, job demand is slowly declining, but skilled workers still have some demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含主管或技师岗位 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including supervisor or technician positions |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：下降（★½☆☆☆）。** 可晋升为生产线主管或质量控制技术员；积累经验后可转向皮革制品设计或技术销售岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Leather handling machine operators will not be replaced by AI; instead, demand will be amplified by AI-driven intelligent tanning, dyeing, and quality inspection systems, but operators will need to shift to equipment monitoring and process optimization roles.
+
+Promotion possible to production line supervisor or quality control technician; After gaining experience, you can move on to leather product design or technical sales positions.
+
+**Tasks most exposed to AI:**
+
+- Manual feeding and discharging operations
+- Regular inspections record temperature and humidity
+- Manually adjust the concentration of tanning solution
+- Repetitive leather smoothing and ironing
+
+**Where AI augments the role:**
+
+- The AI vision system monitors leather defects in real time to assist in decision-making of retouching plans
+- Machine learning is used to optimize tanning formulas and shorten the experimental cycle
+- Simulating the dyeing process with digital twins reduces trial-and-error costs
+- IoT sensors can predict equipment failures early and reduce downtime
+- Using augmented reality (AR) to guide complex manual repairs
+
+**Human moat:**
+
+- Tactile experience judgment of the characteristics of leather raw materials (such as pores and texture).
+- Manual repair skills for handling non-standard or defective leather
+- Communicate customized quality requirements with downstream customers
+- Emergency response capability for on-site equipment failures
+
+**Skills to build:**
+
+- PLC programming and industrial automation system operation
+- Data analysis and statistical process control (SPC)
+- AI image recognition tools (such as TensorFlow) applications
+- Fundamentals of leather chemistry and process optimization
+- IoT device maintenance and fault diagnosis
+
+**Key growth areas:**
 
 - Automation
 - Sustainability
@@ -61,67 +94,66 @@ Operate machines to pre-treat, tan, dye, and finish hides and leather, serving a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：有利（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需西班牙雇主提供工作合同，并证明该岗位无法由当地或欧盟公民填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人员，但该职业通常不满足高技能要求，除非担任技术主管。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | A work contract must be provided by a Spanish employer proving that the position cannot be filled by a local or EU citizen. |
+| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but the profession usually does not meet the high skill requirements unless you serve as a technical supervisor. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Leather and Hide Processing Machine Operators？**
-- 动手能力强、对精细操作有耐心的人
-- 愿意从事传统制造业并能接受重复性工作的人
-- 希望以较低教育成本进入劳动市场的人
-
-**谁不适合学Leather and Hide Processing Machine Operators？**
-- 追求高薪和快速晋升的人
-- 不喜欢化学药剂气味和体力劳动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and patient with fine operations
+- Willing to work in traditional manufacturing and able to accept repetitive work
+- Those hoping to enter the labor market at lower education costs
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike the smell of chemicals and manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for leather handling machine operators in Spain?**
+A: Entry-level employee salary about 18,000-22,000 euros/year, senior technician up to 35,000 euros.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: Yes, but employer sponsorship is required, and the position is difficult to meet high-skill standards, so ordinary employment residency is usually applied.
+
+**Q: What qualifications are needed for this occupation?**
+A: Secondary vocational education (FP Grado Medio) is usually required, while senior positions may require advanced vocational education (FP Grado Superior).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 容易（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 下降（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 有利（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Leather and Hide Processing Machine Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for leather processing machine operators in Spain?**
-答：Entry-level earns around €18,000-22,000 per year, senior technicians up to €35,000.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Yes, but requires an employer sponsor and typically the standard work permit route, as it rarely meets high-skilled thresholds.
-
-**问：What education is required for this occupation?**
-答：Typically intermediate vocational training (FP Grado Medio); senior roles may require higher vocational training (FP Grado Superior).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

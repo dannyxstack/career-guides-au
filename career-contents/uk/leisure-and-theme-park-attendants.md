@@ -1,59 +1,95 @@
-# Leisure and theme park attendants（Leisure and theme park attendants）职业分析 · UK
+# Leisure and theme park attendants — career analysis · United Kingdom
 
-**职业代码：9267 – Leisure and theme park attendants。**
+**Occupation code: 9267 (SOC)**
 
-Monitor amusement arcades, check tickets, guide visitors to seats, operate rides at funfairs and theme parks, and supervise museums and galleries.
+At amusement parks, theme parks, theaters, cinemas, etc., responsible for ticketing, guiding visitors, operating rides, maintaining order, and providing customer service.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 普通中等教育证书（GCSE） | 2年 | —（公立学校免费） |
-| 短期职业培训或学徒 | 6-12个月 | —（部分培训机构收费） |
+| General Certificate of Secondary Education (GCSE) | 2 years | $0~$0 (Free public schools.) |
+| Short-term vocational training or apprenticeship | 6–12 months | $0~$3,000 (Some training institutions charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客户服务高级国家文凭（BTEC） | 培生集团 | 可选 | 非必需，但有助于求职 |
+| BTEC Higher National Diploma in Customer Service | Pearson | Optional | Not required but helpful for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。随着英国旅游业和休闲产业的复苏，该岗位需求稳定增长，但受季节性影响较大。预计未来5年就业人数将小幅增加。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. With the recovery of the UK tourism and leisure industry, demand for this role is steadily growing but highly seasonal. Employment is expected to increase slightly over the next 5 years.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $17,000~$20,000 | 时薪通常为最低工资 |
-| 中级（3-6年） | $20,000~$24,000 | 包含绩效奖金 |
-| 高级（6年以上） | $24,000~$28,000 | 主管级别 |
+| Median salary | $22,294 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $17,000~$20,000 | Hourly wage is usually minimum wage |
+| Mid-level (3–6 years) | $20,000~$24,000 | Includes performance bonuses |
+| Senior (6+ years) | $24,000~$28,000 | Supervisor level |
+| average salary | $22,456 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从初级服务员晋升为团队负责人或主管，部分人可转向活动策划或运营管理岗位，但晋升空间有限。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Most repetitive tasks for leisure and theme park attendants will be automated, but on-site safety and customer interaction still require humans; the number of positions is expected to decrease.
+
+Can progress from junior attendant to team leader or supervisor; some may transition to event planning or operations management roles, but advancement opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Automatic ticketing and gates replace manual ticket inspection
+- Smart queuing system and app manage visitor flow, reducing need for guidance
+- Automated operation and monitoring console for fixed amusement rides
+- Automated customer inquiries (chatbots) handling common questions
+- digital ticketing and booking systems significantly reduce on-site ticketing demand
+
+**Where AI augments the role:**
+
+- AI surveillance systems assist security patrols, enhancing emergency response efficiency
+- Data analysis optimises operations and scheduling, enhancing visitor experience
+- AR/VR devices for tourist guidance and information prompts to enhance service
+- AI translation tools assist multilingual customer communication
+- Smart wearable devices improve employee collaboration and instruction delivery efficiency.
+
+**Human moat:**
+
+- Empathy to handle emotional conflicts and complaints from tourists
+- On-site assessment and manual intervention during amusement ride malfunctions
+- Personalized care services for children, elderly, and disabled visitors.
+- Unpredictable live entertainment such as creative performances and interactive games
+- Identify non-verbal hazards during safety inspections (e.g. crowd disturbance)
+
+**Skills to build:**
+
+- Customer service and conflict resolution skills
+- Basic first aid and emergency response certification
+- Basic data analysis and scheduling software usage
+- Digital equipment operation (tablets, smart terminals).
+- Communication skills and multilingual ability
+- Familiarity with AI-assisted tools (e.g., ChatGPT for information queries)
+
+**Key growth areas:**
 
 - Hospitality recovery
 - Theme park expansion
@@ -62,65 +98,67 @@ Monitor amusement arcades, check tickets, guide visitors to seats, operate rides
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 此职业通常不符合技术工人签证的资格要求，因为其技能水平较低且薪资门槛较高。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许留学生在完成学业后停留2年，可从事任何工作，包括该岗位。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation generally does not meet the eligibility requirements for a Skilled Worker visa due to its lower skill level and higher salary threshold. |
+| Subclass Graduate (Graduate visa) | The Graduate Visa allows international students to stay for 2 years after completing their studies and work in any job, including this role. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leisure and theme park attendants？**
-- 喜欢与人打交道、性格外向的人
-- 寻求灵活兼职或季节性工作的学生
-- 对休闲娱乐行业有热情的人群
+**Who is suited**
+- Outgoing, people-oriented individuals
+- Students seeking flexible part-time or seasonal work
+- People passionate about the leisure and entertainment industry
 
-**谁不适合学Leisure and theme park attendants？**
-- 寻求高薪和快速职业晋升者
-- 不喜欢户外或嘈杂工作环境的人
+**Who is not suited**
+- Those seeking high salary and rapid career advancement
+- People who dislike outdoor or noisy work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level salary approximately £17,000-20,000 per year, supervisor level can reach £24,000-28,000, usually based on minimum wage.
+
+**Q: Can this occupation apply for a UK work visa?**
+A: Usually does not meet skilled worker visa requirements due to low skill level and difficulty meeting salary thresholds. Graduate visa holders may undertake this work.
+
+**Q: Is there room for advancement?**
+A: Can be promoted to team leader or operations manager, but opportunities are limited; most stay in entry-level positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Leisure and theme park attendants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level salaries range from £17,000 to £20,000, while supervisors can earn £24,000 to £28,000, usually based on minimum wage.
-
-**问：Can this occupation qualify for a UK work visa?**
-答：It generally does not meet Skilled Worker visa requirements due to low skill level and salary. Graduate visa holders can take this job.
-
-**问：Are there promotion opportunities?**
-答：You can advance to team leader or operations manager, but opportunities are limited; most remain in entry-level roles.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

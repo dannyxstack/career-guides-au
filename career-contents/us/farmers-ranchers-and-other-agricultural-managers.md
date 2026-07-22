@@ -1,62 +1,98 @@
-# Farmers, Ranchers, and Other Agricultural Managers（Farmers, Ranchers, and Other Agricultural Managers）职业分析 · 美国
+# Farmers, Ranchers, and Other Agricultural Managers — career analysis · United States
 
-**职业代码：11-9013 – Farmers, Ranchers, and Other Agricultural Managers。**
+**Occupation code: 11-9013 (SOC)**
 
-Plan, direct, or coordinate the management or operation of farms, ranches, greenhouses, aquacultural operations, nurseries, timber tracts, or other agricultural establishments. May engage in or supervise planting, cultivating, harvesting, and financial and marketing activities.
+Plan, direct, or coordinate management or operations of farms, ranches, greenhouses, aquaculture, nurseries, etc., may engage in or supervise planting, raising, harvesting, and financial and marketing activities.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常最低要求） |
-| 农业或相关领域副学士学位 | 2年 | $10,000~$30,000（社区学院） |
-| 农业科学或企业管理学士学位 | 4年 | $40,000~$120,000（州立大学） |
+| High school diploma | None | $0~$0 (Typically minimum requirements) |
+| Associate degree in agriculture or a related field | 2 years | $10,000~$30,000 (Community college) |
+| Bachelor's degree in agricultural science or business management | 4 years | $40,000~$120,000 (State university) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业学位 | 大学 | 可选 | 许多雇主偏好本科或副学士学位 |
-| 农药施用执照 | 州政府 | 可选 | 若涉及农药使用需要 |
-| 商业驾驶执照（CDL） | 州机动车辆管理局（DMV） | 可选 | 用于驾驶大型农业车辆 |
+| Degree in agriculture | University | Optional | Many employers prefer a bachelor's or associate degree |
+| Pesticide Application License | State government | Optional | If pesticide use is involved |
+| Commercial Driver's License (CDL) | State Department of Motor Vehicles (DMV) | Optional | Used for driving large agricultural vehicles. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 108,200。预计2023-2033年就业增长缓慢，约1%（平均增长率为2%），每年约8200个职位空缺，主要来自退休或转行。技术进步和大型农场整合可能减少管理职位需求，但有机和本地食品趋势创造机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 108,200. Projected slow employment growth of about 1% from 2023-2033 (average 2%), with about 8,200 annual openings mainly from retirement or turnover. Technological advances and large farm consolidation may reduce management roles, but organic and local food trends create opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 小型农场或助理经理 |
-| 中级（3-10年） | $60,000~$90,000 | 中型农场经理 |
-| 高级（10年以上） | $90,000~$130,000 | 大型农场或农业企业经理 |
+| Median salary | $89,900 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$60,000 | Small farm or assistant manager |
+| Intermediate (3-10 years) | $60,000~$90,000 | Medium-sized farm manager |
+| Senior (10+ years) | $90,000~$130,000 | Manager of large farm or agricultural enterprise |
+| average salary | $99,820 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从农场工人或农场主管开始，积累经验后晋升为农场经理或自己经营农场。大型农场可能晋升为区域经理或农业企业高管；继续教育（如农业管理学位）可加速晋升。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Usually start as a farm worker or farm supervisor, gain experience, and advance to farm manager or run your own farm. Large farms may lead to regional manager or agribusiness executive roles; further education (e.g., a degree in agricultural management) can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Slow growth
 - Large farm consolidation
@@ -65,63 +101,65 @@ Plan, direct, or coordinate the management or operation of farms, ranches, green
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Worker） | 临时农业工人签证，适用于季节性农场工人，但农场经理通常需用H-2A管理岗位，极少见 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 职业移民第三优先，但要求出示劳工证，农业经理职位难以证明美国劳工短缺 |
-| Subclass E-2（E-2 Treaty Investor Visa） | 适用于投资大量资本的外国公民，经营农场，但仅限于条约国 |
+| Subclass H-2A (H-2A Temporary Agricultural Worker) | Temporary agricultural worker visa, for seasonal farm workers; farm manager roles rarely use H-2A management positions |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | Third preference for employment-based immigration, but requires labor certification; agricultural manager positions struggle to prove US labor shortage |
+| Subclass E-2 (E-2 Treaty Investor Visa) | For foreign nationals investing significant capital, operating a farm, but limited to treaty countries |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Farmers, Ranchers, and Other Agricultural Managers？**
-- 有农场经营经验或农业背景
-- 愿意从事户外体力劳动
-- 创业精神，能承受财务风险
+**Who is suited**
+- Experience in farm management or agricultural background
+- Willing to do outdoor physical work
+- Entrepreneurial spirit, able to bear financial risks
 
-**谁不适合学Farmers, Ranchers, and Other Agricultural Managers？**
-- 偏好室内办公室工作
-- 不喜欢季节性工作压力
+**Who is not suited**
+- Prefer indoor office work.
+- Dislike seasonal work pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a farm manager?**
+A: According to the BLS, the 2023 median annual salary for farmers, ranchers, and other agricultural managers in the US was $69,900, but the actual range is from $40,000 (small farms) to over $130,000 (large farms).
+
+**Q: What visas can foreigners use to work in agricultural management in the US?**
+A: Agricultural management positions are generally not suitable for immigration. The H-2A visa is limited to temporary agricultural workers, not management roles; the EB-3 green card requires a labor certification, but agricultural manager positions are difficult to pass PERM certification. The E-2 investor visa may be suitable for investors with capital.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Farmers, Ranchers, and Other Agricultural Managers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a farm manager?**
-答：According to BLS, the median annual wage for Farmers, Ranchers, and Other Agricultural Managers was $69,900 in 2023, but actual ranges from $40,000 (small farms) to over $130,000 (large farms).
-
-**问：What visas are available for foreigners to work as agricultural managers in the US?**
-答：Agricultural management is generally not immigration-friendly. H-2A is for temporary laborers, not managers; EB-3 requires PERM which is difficult to certify; E-2 investor visa may work for those with capital.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

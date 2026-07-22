@@ -1,59 +1,94 @@
-# Water transport deck and engine room crew（Water transport deck and engine room crew）职业分析 · 加拿大
+# Water transport deck and engine room crew — career analysis · Canada
 
-**职业代码：74201 – Water transport deck and engine room crew。**
+**Occupation code: 74201 (NOC)**
 
-Perform deck and engine room duties on ships, including mooring, cargo handling, cleaning, and basic mechanical maintenance to ensure safe vessel operations.
+Responsible for daily deck and engine room operations, maintenance, and safety watches, including mooring, cargo handling, cleaning, and basic mechanical repairs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无固定学时 | —（仅需完成高中学业） |
-| 海事学院文凭或培训课程 | 1-2年 | $5,000~$20,000（部分院校提供带薪实习） |
+| High school graduation | No fixed study hours | $0~$0 (Only need to complete high school education.) |
+| Maritime academy diploma or training course | 1-2 years | $5,000~$20,000 (Some institutions offer paid internships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海事船员基本培训证书 | 加拿大交通部（Transport Canada） | 必备 | 需完成STCW基本安全培训 |
-| 海上求生和消防证书 | 加拿大交通部 | 必备 | 行业必需 |
-| 医疗急救证书 | 加拿大交通部认可机构 | 必备 | 通常要求 |
+| Basic safety training certificate for maritime crew | Transport Canada | Required | Must complete STCW basic safety training |
+| Marine survival and firefighting certificates | Transport Canada | Required | Industry required |
+| Medical First Aid Certificate | Transport Canada recognized organization | Required | Usually required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,200。加拿大航运业稳定，但就业受季节性和国际贸易影响。大西洋省份和BC省需求较多，持有海事证书者就业机会较好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,200. Canada's shipping industry is stable, but employment is affected by seasonality and international trade. Demand is higher in Atlantic provinces and British Columbia; those with maritime certificates have better job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 入门级甲板或机舱实习生 |
-| 中级（3-6年） | $45,000~$60,000 | 普通船员（OS/AB）或机舱机工 |
-| 高级（6年以上） | $60,000~$80,000 | 高级船员如大副、轮机长等更高 |
+| Median salary | $58,240 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$45,000 | Entry-level deck or engine room cadet |
+| Mid-level (3–6 years) | $45,000~$60,000 | Ordinary Seaman (OS/AB) or Engine Room Mechanic |
+| Senior (6+ years) | $60,000~$80,000 | Senior crew members such as chief officers and chief engineers earn higher |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从普通船员（OS）或机舱实习生起步，积累经验后晋升为高级船员（如甲板部三副、轮机部三管轮），需通过海事认证考试。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The workload for sailors and marine engineers is mixed: repetitive deck tasks are easily automated, but navigation safety supervision, emergency handling, and complex mechanical maintenance still require human judgment; AI is more of an auxiliary tool.
+
+Can start as an Ordinary Seaman (OS) or engine room trainee, gain experience to advance to officer roles (e.g., Deck Third Officer, Engine Third Officer), requiring maritime certification exams.
+
+**Tasks most exposed to AI:**
+
+- Autopilot and electronic chart systems take over steering and route monitoring tasks
+- AI vision systems replace target identification and collision warning in lookouts
+- Automated engine monitoring systems take over routine parameter checks and alarms for marine engineers
+- Electronic logs automatically record, replacing manual entry of navigation logs
+- Drones or robots for external hull inspection
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems optimize fuel efficiency and route planning, improving economics
+- Augmented reality (AR) head-up display overlays critical navigation information, improving lookout accuracy.
+- Intelligent maintenance prediction system warns of mechanical failures in advance, reducing unplanned voyage interruptions
+- AI training simulator provides immersive emergency scenario drills, accelerating skill improvement
+- Data analysis tools help optimize cargo stowage and hull stability calculations.
+
+**Human moat:**
+
+- Comprehensive judgment and emergency decision-making ability under complex sea conditions
+- Non-routine diagnosis and on-site repair of mechanical failures
+- Team collaboration and communication leadership, especially in emergency situations
+- Sense of responsibility and professionalism in complying with strict maritime regulations
+
+**Skills to build:**
+
+- AI-assisted navigation system operation and interpretation
+- Ship data analysis and digital twin basics
+- Use of augmented reality maintenance support tools
+- Cybersecurity basics (defense against ship system attacks).
+- Decision-making and leadership in extreme environments
+- Multilingual communication skills (international routes)
+
+**Key growth areas:**
 
 - Marine
 - Shipping
@@ -62,68 +97,67 @@ Perform deck and engine room duties on ships, including mooring, cargo handling,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，适合已有雇主offer的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如BC、NS有海事行业提名项目 |
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 若具备高级船员资格且工作经验满1年，可满足FSW条件 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, suitable for applicants who already have a job offer from an employer |
+| Subclass PNP (Provincial Nominee Program) | Some provinces such as BC and NS have maritime industry nomination programs |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | If you hold a senior crew qualification and have at least 1 year of work experience, you may meet FSW requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Water transport deck and engine room crew？**
-- 喜欢海上工作和户外生活，能适应长时间离家人士
-- 动手能力强，愿意从事体力劳动和机械维护
-- 追求稳定就业，不介意轮班和季节性工作
-
-**谁不适合学Water transport deck and engine room crew？**
-- 容易晕船或不能适应海上颠簸环境
-- 希望快速积累高收入或从事高技能白领工作
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys working at sea and outdoor life, able to adapt to extended periods away from family
+- Strong hands-on skills, willing to engage in physical labor and mechanical maintenance
+- Seeking stable employment, not minding shift work and seasonal work
+
+**Who is not suited**
+- Prone to seasickness or unable to adapt to rough sea conditions
+- Desires to quickly accumulate high income or engage in high-skill white-collar work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of water transport crew?**
+A: Entry-level crew annual salary about CAD 32,000-45,000, experienced crew up to 60,000-80,000, senior crew (e.g., chief officer) can exceed CAD 100,000.
+
+**Q: Can foreign crew members immigrate to Canada?**
+A: Yes. After working on an LMIA work permit, you can apply for permanent residence, or through provincial nomination (e.g., NS, BC) and Express Entry (requires senior crew qualifications).
+
+**Q: What certificates are required to become a crew member?**
+A: Must hold STCW Basic Safety Training certificate issued by Transport Canada, along with certificates in sea survival, firefighting, and medical first aid.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Water transport deck and engine room crew的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of water transport crew?**
-答：Entry-level crew earn CAD 32,000-45,000 per year, experienced crew up to CAD 60,000-80,000, and senior officers can exceed CAD 100,000.
-
-**问：Can foreign crew immigrate to Canada?**
-答：Yes. Work via LMIA work permit, then apply for PR through PNP (e.g., NS, BC) or Express Entry (requires senior officer qualifications).
-
-**问：What certificates are needed to become a crew member?**
-答：Must hold Transport Canada STCW Basic Safety Training, survival and firefighting certificates, and medical first aid certificate.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

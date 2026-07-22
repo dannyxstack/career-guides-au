@@ -1,59 +1,92 @@
-# Psychiatric Technicians（Psychiatric Technicians）职业分析 · 美国
+# Psychiatric Technicians — career analysis · United States
 
-**职业代码：29-2053 – Psychiatric Technicians。**
+**Occupation code: 29-2053 (SOC)**
 
-Care for individuals with mental or emotional conditions or disabilities under the direction of physicians or other health practitioners, monitoring physical and emotional well-being, assisting with personal hygiene, and administering medications.
+Under the direction of physicians or other health practitioners, care for individuals with mental or emotional disorders or disabilities, monitor their physical and mental condition and report to medical staff, participate in rehabilitation and treatment plans, assist with personal hygiene, and administer oral or injectable medications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院年均学费约$5,000-$15,000） |
-| 大专证书 | 1年 | $5,000~$15,000（职业技术学校证书项目） |
+| Associate degree | 2 years | $10,000~$30,000 (Average annual community college tuition is approximately $5,000-$15,000) |
+| Diploma | 1 year | $5,000~$15,000 (Vocational technical school certificate program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精神科技术员认证 | 美国精神科技术员协会 (AAPT) | 可选 | 通过考试获得，部分州要求 |
-| CPR/BLS认证 | 美国心脏协会 | 必备 | 基本生命支持，多数雇主要求 |
-| 副学士学位 | 社区学院 | 可选 | 多数雇主偏好，部分州要求 |
+| CPR/BLS certification | American Heart Association | Required | Basic life support, required by most employers |
+| Psychiatric technician certification | American Association of Psychiatric Technicians (AAPT) | Optional | Obtained through examination, required in some states |
+| Associate degree | Community college | Optional | Preferred by most employers, required in some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。美国精神健康服务需求持续增长，精神科技术员岗位预计未来十年增长12%，受老龄化、精神健康意识提升及社区治疗扩展驱动。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Mental health service demand in the U.S. is growing; psychiatric technician roles are projected to grow 12% in the next decade, driven by aging population, increased mental health awareness, and expansion of community treatment.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 入门级，通常需副学士学位 |
-| 中级（4-7年） | $40,000~$50,000 | 有经验者，可能担任监督角色 |
-| 高级（8年以上） | $50,000~$62,000 | 资深或主管级别 |
+| Median salary | $45,130 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$40,000 | Entry-level, usually requires an associate degree |
+| Mid-level (4-7 years) | $40,000~$50,000 | Experienced personnel, possibly in supervisory roles |
+| Senior (8+ years) | $50,000~$62,000 | Senior or supervisor level |
+| average salary | $46,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从入门级精神科技术员晋升为高级技术员、团队主管，或通过继续教育成为注册护士、心理健康顾问等，部分机构提供内部培训晋升路径。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Psychiatric technicians' work will be significantly enhanced by AI rather than replaced, as core tasks rely on human emotional insight, unstructured interactions and real-time risk assessment, but AI can greatly improve data recording, pattern recognition and medication monitoring efficiency.
+
+Can advance from entry-level psychiatric technician to senior technician, team leader, or become a registered nurse, mental health counselor, etc. through further education; some institutions offer internal training promotion paths.
+
+**Tasks most exposed to AI:**
+
+- Using AI voice assistants to automatically record patient behavior observations and reports, replacing manual writing
+- AI model based on historical data assists in patient risk stratification and medication reminders
+- Automated monitoring of patients' daily vital signs and anomaly alert system
+- Use natural language processing to generate standardized rehabilitation activity logs
+
+**Where AI augments the role:**
+
+- Use AI emotion recognition tools to analyze patient speech/facial expressions, aiding in early detection of emotional fluctuations
+- Use AI prediction models to identify potential aggressive behavior early and optimize preventive measures.
+- Recommend personalized rehabilitation activities via AI-assisted decision support systems
+- Use VR/AI simulated scenarios to train patients' social skills, enhancing interaction effectiveness
+- Use AI tools to quickly summarize cross-departmental patient information for a comprehensive view.
+
+**Human moat:**
+
+- Build trust relationships: engage in unstructured emotional interaction with patients to provide human comfort
+- Crisis judgment: rapid intuitive response in sudden violence or self-harm situations
+- Personalized communication: adjust strategies for different mental disorder patients
+- Team collaboration: real-time coordination of complex care plans with doctors, social workers, etc.
+
+**Skills to build:**
+
+- Learn to use emotional AI analysis tools (e.g., Affectiva)
+- Mastering AI modules in electronic health record systems (e.g., predictive analysis dashboards)
+- Participate in VR/augmented reality rehabilitation technology training
+- Strengthen non-verbal communication and crisis intervention skills
+- Train basic data literacy to interpret AI outputs
+
+**Key growth areas:**
 
 - Mental health demand
 - Aging population
@@ -62,68 +95,67 @@ Care for individuals with mental or emotional conditions or disabilities under t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需职位要求至少学士学位，精神科技术员通常仅需副学士，H-1B申请较难获批，但有可能性 |
-| Subclass EB-3（Employment-Based Green Card (skilled workers)） | 需PERM劳工证，证明无美国人胜任，因短缺可能获批但排期较长 |
-| Subclass TN（TN NAFTA Professional） | 仅限墨西哥和加拿大公民，职位需列于NAFTA职业清单，精神科技术员未明确包含，但相关医疗职业可能适用 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires the position to demand at least a bachelor's degree; psychiatric technicians typically only need an associate degree, making H-1B approval difficult, but possible |
+| Subclass EB-3 (Employment-Based Green Card (skilled workers)) | Requires PERM labor certification, proving no qualified US worker available; may be approved due to shortages but with long waiting periods |
+| Subclass TN (TN NAFTA Professional) | Limited to Mexican and Canadian citizens; positions must be listed on the NAFTA occupational list. Psychiatric technician is not explicitly included, but related medical professions may apply. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychiatric Technicians？**
-- 具有同理心和耐心，乐于帮助精神健康障碍患者
-- 喜欢团队合作，能在医疗环境中快速反应
-- 愿意从事基础护理和辅助治疗工作
-
-**谁不适合学Psychiatric Technicians？**
-- 无法承受情绪压力和应对突发行为问题
-- 寻求高收入或高级别职称的职业
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Empathetic and patient, willing to help individuals with mental health disorders
+- Enjoys teamwork and can respond quickly in a medical environment
+- Willing to perform basic care and ancillary therapy
+
+**Who is not suited**
+- Cannot handle emotional stress and sudden behavioral issues
+- Seeking high-income or high-level job titles
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for psychiatric technicians?**
+A: According to BLS data, the median annual salary in 2023 was about $45,000, entry-level about $32,000-$40,000, and senior up to $62,000. Salary is lower than registered nurses, but employment growth is fast.
+
+**Q: Is it easy for psychiatric technicians to immigrate to the US?**
+A: This occupation typically requires an associate degree; H-1B requires a bachelor's degree, making application difficult. However, EB-3 green cards may be approved due to shortages, requiring employer sponsorship and PERM. TN visa may be available for some North American citizens.
+
+**Q: What education is needed to become a psychiatric technician?**
+A: Most positions require an associate degree (2 years) or vocational certificate (1 year). Some states require certification. Community college costs are lower, around $10,000-$30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Psychiatric Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for psychiatric technicians?**
-答：According to BLS, the median annual wage was about $45,000 in 2023, entry-level $32,000-$40,000, senior up to $62,000. Lower than RN but fast job growth.
-
-**问：Is it easy to immigrate as a psychiatric technician?**
-答：Generally requires associate degree; H-1B requires bachelor's, making it challenging. EB-3 green card possible due to shortage, but need employer sponsorship and PERM. TN may apply for some North American citizens.
-
-**问：What education is needed to become a psychiatric technician?**
-答：Most positions require an associate degree (2 years) or certificate (1 year). Some states require certification. Community college costs about $10,000-$30,000.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

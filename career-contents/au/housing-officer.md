@@ -1,64 +1,95 @@
-# 住房官员（Housing Officer）职业分析 · 澳大利亚
+# Housing Officer — career analysis · Australia
 
-**职业代码：599614 – Housing Officer。**
+**Occupation code: 599614 (ANZSCO)**
 
-住房官员在州政府住房部门及社区住房机构管理社会/公共住房的租约、分配、维修协调与租户支持，是政府资助的稳定民生岗位，非技术移民职业。
+Housing officers in state housing departments and community housing agencies manage social/public housing tenancies, allocations, maintenance coordination, and tenant support. These are government-funded stable livelihood roles, not skilled migration occupations.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中 / 社区服务相关证书（常见） | 0~1年 | —（或相关经验） |
+| High school/community service certificate (common) | 0–1 year | $0~$8,000 (Or related experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Social Housing / Community Services（加分） | TAFE/RTO | 可选 | 非强制 |
-| National Police Check | 各州 | 必备 | 强制 |
+| National Police Check | All states | Required | Mandatory |
+| Certificate IV in Social Housing / Community Services (advantageous) | TAFE/RTO | Optional | Not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 18,000。住房压力与社会住房投资推动稳定需求，具备租约管理与社区服务经验者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Housing pressure and social housing investment drive steady demand; those with lease management and community service experience are more sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| I work for NSW / 各州 | 800~1,800 个 | 州政府 |
-| Seek | 800~1,600 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0-3年） | $71,000~$82,000 | Entry |
-| 中级（3-8年） | $82,000~$95,000 | Experienced |
-| 资深 / 主管 | $95,000~$122,000 | Senior |
+| Median salary | $103,740 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $71,000~$82,000 | Entry |
+| Mid-level (3–8 years) | $82,000~$95,000 | Experienced |
+| Senior / Supervisor | $95,000~$122,000 | Senior |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 路径：住房官员→高级/团队主管→服务经理；处理复杂租户与合规经验决定发展。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Core duties of housing officers (lease management, tenant support) rely on interpersonal communication and legal compliance, making them less amenable to full automation, but data entry, report generation, and other administrative tasks will be significantly taken over by AI; overall job numbers remain stable but entry barriers rise as tools replace some junior tasks.
+
+Path: Housing Officer → Senior/Team Leader → Service Manager; experience handling complex tenancies and compliance determines progression.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate standard lease contracts, rent adjustment notices, and maintenance work orders
+- Rule-based Subsidy Eligibility Checks and Waitlist Sorting
+- Automated data entry and report organization (e.g., vacancy rate, arrears statistics)
+- Chatbot responses for common tenant inquiries (e.g., application status queries)
+- Automate generation of periodic financial reconciliation and budget reports
+
+**Where AI augments the role:**
+
+- AI-assisted evaluation of complex tenant requests, recommending personalized solutions
+- Predictive analytics to identify high-risk tenants (e.g., late payments, dispute tendencies) and intervene early.
+- Automatically analyzing policy and regulation changes to remind compliance points
+- Smart scheduling systems optimizing house inspection and repair coordination
+- Case-based training simulators to improve newcomers' handling of complex scenarios
+
+**Human moat:**
+
+- Face-to-face handling of tenant crises (e.g., domestic violence, mental health issues) with human care
+- Making judgments under ambiguous policy boundaries (e.g., special hardship case approvals)
+- Negotiation and coordination with multiple parties such as community agencies and legal representatives
+- Deep experience-based understanding of local housing markets and community needs
+- Applying empathy and persuasion in tenant complaints and conflict mediation
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation and data analysis
+- Basic legal knowledge and policy interpretation skills
+- Negotiation and conflict resolution skills
+- Use of AI collaboration tools (e.g., smart document generation, chatbot management)
+- Data visualization and report interpretation skills
+- Project management and multitasking priority management
+
+**Key growth areas:**
 
 - Social & Public Housing
 - Tenancy Management
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学住房官员？**
-- 擅长沟通、个案与租约管理的人
-- 想从事民生类公职者
-
-**谁不适合学住房官员？**
-- 不擅处理租户纠纷与情绪者
-- 以技术移民为目标者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those skilled in communication, case management, and lease management
+- Those who want to work in public sector roles related to people's livelihoods
+
+**Who is not suited**
+- Those who are not good at handling tenant disputes and emotions
+- Those targeting skilled migration
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a housing officer?**
+A: Approximately AUD $71,000-$122,000, higher for senior/supervisor roles.
+
+**Q: Can a housing officer immigrate via skilled migration?**
+A: No, it is a local public sector role and not on the skilled migration list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-住房官员属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：住房官员薪资多少？**
-答：约 AUD $7.1万~$12.2万，资深/主管更高。
-
-**问：住房官员能技术移民吗？**
-答：不能，属于本地公共部门岗位，不在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Poultry Producer（Poultry Producer）职业分析 · NL
+# Poultry Producer — career analysis · Netherlands
 
-**职业代码：6122 – Poultry Producer。**
+**Occupation code: 6122 (ISCO08)**
 
-Responsible for daily care, breeding, health management and farm operations of poultry (broilers, layers, etc.), ensuring animal welfare and food safety standards.
+Responsible for daily feeding, breeding, health management, and farm operations of poultry (broilers, layers, etc.), ensuring compliance with animal welfare and food safety standards.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（MBO） | $1,000~$3,000（学费较低，获得实践技能为主） |
-| 应用科学大学 | 4年（HBO） | $2,000~$5,000（含农场管理、动物科学等课程） |
+| Secondary vocational education | 3 years (MBO) | $1,000~$3,000 (Lower tuition fees, primarily gaining practical skills) |
+| University of Applied Sciences | 4 years (HBO) | $2,000~$5,000 (Includes courses in farm management, animal science, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业经营证书 | 农业、自然及食品质量部 | 必备 | 新农场主需完成基础经营课程 |
-| 动物健康与福利证书 | 荷兰动物健康服务局 | 可选 | 证明了解疫病防控和动物福利法规 |
+| Certificate in Agricultural Operations | Ministry of Agriculture, Nature and Food Quality | Required | New farm owners need to complete a basic business course |
+| Certificate in Animal Health and Welfare | Netherlands Animal Health Service | Optional | Demonstrating knowledge of disease control and animal welfare regulations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★★☆☆）。** 全国从业人数约 4,500。荷兰是欧盟第二大禽肉出口国，行业高度集约化和技术化。受可持续转型和疾病防控影响，就业稳定但增长有限，依赖技术替代。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The Netherlands is the EU's second largest poultry meat exporter, with a highly intensive and technological industry. Affected by sustainable transition and disease control, employment is stable but with limited growth, relying on technological substitution.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，受农场规模和地区影响 |
-| 中级（3-8年） | $32,000~$42,000 | 税前年薪，主管或技术员 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪，农场经理或合伙人 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual salary before tax, varies by farm size and region. |
+| Mid-level (3–8 years) | $32,000~$42,000 | Annual pre-tax salary, supervisor or technician |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary, Farm Manager or Partner |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从初级饲养员晋升为农场主管或农场经理；部分转向动物科学、兽医或农业技术咨询；大型一体化企业提供更多培训机会。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI automation and robotics will significantly reduce employment opportunities for poultry farmers, especially in small and medium-sized farms, with daily feeding, environmental monitoring, and health checks being highly automated.
+
+Can progress from junior keeper to farm supervisor or farm manager; some transition to animal science, veterinary, or agritech consulting; large integrated enterprises offer more training opportunities.
+
+**Tasks most exposed to AI:**
+
+- Operation and monitoring of automated feeding, watering, and manure removal systems
+- Real-time monitoring and adjustment of sensor-based environmental parameters (temperature, humidity, ammonia)
+- Automatically detect and remove dead or sick chickens using computer vision
+- Automation of egg counting, weighing, and packaging
+
+**Where AI augments the role:**
+
+- Using AI data analysis to optimize feed formulas and feeding strategies, improving egg production rate and weight gain efficiency
+- Use machine learning models to predict disease outbreak risks and implement preventive measures in advance
+- Using drones or robots for large-scale chicken coop inspections to reduce labor input
+
+**Human moat:**
+
+- Human judgment and decision-making in sudden illness diagnosis and emergency response
+- Animal welfare ethical oversight and compliance management
+- Equipment repair and manual intervention in complex environments
+- Coordination and communication with veterinarians, regulatory authorities, and sales channels
+
+**Skills to build:**
+
+- Data analysis and basic statistics (e.g., Python, Excel)
+- Operation and maintenance of agricultural automation systems
+- Animal health management and disease monitoring technology
+- Environmental Control and IoT Applications
+- knowledge of food safety and animal welfare regulations
+- Farm Financial Management and Cost Control
+
+**Key growth areas:**
 
 - Sustainable farming
 - Automation
@@ -63,65 +95,67 @@ Responsible for daily care, breeding, health management and farm operations of p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术移民，需高等教育合同，年薪门槛约€5.6万，但家禽业通常不达标 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 需雇主担保且年薪≥€5,008（30岁以下）或€6,839（30岁以上），家禽业较少适用 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled migration, requires a higher education contract, annual salary threshold approximately €56,000, but the poultry industry typically does not meet this. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship and annual salary ≥€5,008 (under 30) or €6,839 (30+), less applicable in the poultry industry |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Poultry Producer？**
-- 热爱农场生活，动手能力强
-- 能适应早起和物理劳动
-- 对动物健康和福利有责任心
+**Who is suited**
+- Passionate about farm life with strong hands-on skills
+- Able to adapt to early starts and physical work
+- Responsibility for animal health and welfare
 
-**谁不适合学Poultry Producer？**
-- 不喜欢户外工作或重复性劳动
-- 不愿承担疫病和市场波动风险
+**Who is not suited**
+- Dislike outdoor work or repetitive tasks
+- Unwilling to take risks of disease and market fluctuations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for poultry farmers in the Netherlands?**
+A: Entry-level annual salary approx. €25k-32k, mid-level €32k-42k, senior €42k-55k. Relatively low to mid compared to other agricultural occupations.
+
+**Q: Can foreigners engage in poultry farming in the Netherlands?**
+A: This occupation is not in shortage, and salaries typically do not meet high-skilled immigration thresholds. Those with EU freedom of movement can work; otherwise, employers must prove inability to recruit locally.
+
+**Q: What are the career development paths for this occupation?**
+A: Can advance to management within a farm, or move into agricultural consulting, animal nutrition, veterinary support, etc. Larger companies offer more training opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Poultry Producer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for poultry producers in the Netherlands?**
-答：Entry-level annual salary is around €25,000-32,000; mid-level €32,000-42,000; senior €42,000-55,000. It is moderate to low compared to other agricultural occupations.
-
-**问：Can foreigners work as poultry producers in the Netherlands?**
-答：This occupation is not in shortage and salaries usually do not meet the threshold for highly skilled migrant permits. EU free movement applies; otherwise, a work permit requires proving no local candidate is available.
-
-**问：What are the career development paths for this occupation?**
-答：You can advance to farm management, or move into agricultural consultancy, animal nutrition, or veterinary support. Larger companies offer more training opportunities.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,92 @@
-# Textile Treatment Machine Operator（Textile Treatment Machine Operator）职业分析 · FR
+# Textile Treatment Machine Operator — career analysis · France
 
-**职业代码：H2406 – Textile Treatment Machine Operator。**
+**Occupation code: H2406 (ROME)**
 
-Operates and monitors textile treatment machines (e.g., washing, dyeing, finishing) to ensure quality and efficiency in textile processing.
+Operate and monitor textile processing machinery (such as washing, dyeing, and shaping equipment) to ensure the quality and efficiency of textile processing.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中证书（CAP） | 2年 | —（公立学校学费低，可申请学徒制） |
-| 技师文凭（BTS） | 2年（BTS） | —（公立教育免费，需自付注册费） |
+| Vocational High School Certificate (CAP) | 2 years | $0~$500 (Public schools have low tuition fees and can apply for apprenticeships) |
+| Technician Diploma (BTS) | 2 Years (BTS) | $0~$1,000 (Public education is free, but registration fees are paid by the applicant) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 纺织处理操作员 | 法国教育部 | 可选 | 入门级职业文凭 |
-| BTS 纺织化学与处理 | 法国教育部 | 可选 | 更高级别，利于晋升 |
+| CAP textile processing operator | French Ministry of Education | Optional | Entry-level professional diploma |
+| BTS Textile Chemistry and Processing | French Ministry of Education | Optional | Higher levels are more advantageous for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。法国纺织业持续萎缩，但技术维护岗位保持稳定。自动化升级减少低端操作工需求，但多技能操作员仍有机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. France's textile industry continues to shrink, but technical maintenance positions remain stable. Automation upgrades reduce the need for low-end operators, but multi-skilled operators still have opportunities.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$25,000 | 税前年薪，含奖金 |
-| 中级（4-7年） | $25,000~$30,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $30,000~$36,000 | 税前年薪，含奖金 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$25,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4-7 years) | $25,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $30,000~$36,000 | Annual pre-tax salary, including bonuses |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从操作员晋升为生产主管或质量控制员，也可转向更专业的纺织技术员或设备维护岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile bleaching and dyeing machine operator work is highly repetitive and easily automated; AI and robots will significantly reduce demand, but machine maintenance and exception handling still require human intervention.
+
+You can be promoted from operator to production supervisor or quality controller, or move to more specialized positions as textile technicians or equipment maintenance staff.
+
+**Tasks most exposed to AI:**
+
+- Automatically add dyes and chemicals according to color formula
+- Automated control monitoring dyeing process temperature and time
+- Automatically detect dye quality defects using computer vision
+- Automatically adjust machine parameters for consistent color output
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical data and optimize dyeing formulas, reducing trial and error costs
+- Predict equipment failures through sensors and IoT to achieve predictive maintenance.
+- Use digital twins to simulate the impact of different process parameters on product quality
+- Use augmented reality (AR) to guide operators in complex equipment repairs
+
+**Human moat:**
+
+- Intuition and experience in handling abnormal dyeing issues (e.g., color differences, uneven dyeing)
+- Deep understanding of textile material properties (fiber, dye interactions)
+- Ability to quickly perform manual intervention and repairs during equipment failures
+- Teamwork coordinating with production, warehouse, quality inspection and other departments
+
+**Skills to build:**
+
+- Programmable logic controller (PLC) programming and debugging
+- Industrial robot operation and maintenance
+- Data analysis and statistical process control (SPC)
+- Digital manufacturing tools (e.g., using MES systems)
+- Colour science and computer colour matching systems
+
+**Key growth areas:**
 
 - Automation
 - Technical maintenance
@@ -63,62 +95,64 @@ Operates and monitors textile treatment machines (e.g., washing, dyeing, finishi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明岗位难以本地招聘，但通常不适用于此类低技能岗位。 |
-| Subclass Passeport Talent（Talent Passport） | 仅适用于高技能或特殊贡献人才，此职业一般不满足要求。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving the position is difficult to recruit locally, but this is generally not suitable for such low-skilled positions. |
+| Subclass Passeport Talent (Talent Passport) | This is only suitable for highly skilled or special contribution talents; this profession generally does not meet the requirements. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Treatment Machine Operator？**
-- 喜欢动手操作机器、注重流程的人
-- 愿意在工厂环境稳定工作的人
-- 接受轮班制及重复性工作的人
+**Who is suited**
+- People who enjoy operating machines and focus on the process
+- People willing to work stably in factory environments
+- People who accept shift work and repetitive tasks
 
-**谁不适合学Textile Treatment Machine Operator？**
-- 追求高薪和快速晋升的人
-- 厌恶噪音和化学品气味的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike noise and chemical smells
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does this occupation have high salary growth potential?**
+A: Salary growth is limited, with senior positions typically not exceeding 36,000 euros, related to industry contraction and automation trends.
+
+**Q: Is it easy for foreigners to apply for a French work visa for this position?**
+A: It's tough. This occupation is not considered a shortage position, and labor bureaus usually do not approve work permits for workers from third countries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Textile Treatment Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does this occupation have significant salary growth?**
-答：Salary growth is limited; senior roles seldom exceed €36,000 due to industry decline and automation.
-
-**问：Can foreigners easily obtain a work visa for this occupation in France?**
-答：It is very difficult. This occupation is not in shortage, and the labor authority rarely approves work permits for third-country nationals.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Locksmith（Locksmith）职业分析 · 新西兰
+# Locksmith — career analysis · New Zealand
 
-**职业代码：323313 – Locksmith。**
+**Occupation code: 323313 (ANZSCO)**
 
-Locksmiths in New Zealand install, repair, and upgrade locks and security systems including mechanical, electronic, and safe locks. The role is in high demand and offers migration via Green List or SMC.
+Locksmiths in New Zealand are responsible for installing, repairing, and upgrading various locks and security systems, including mechanical locks, electronic locks, and safes. This occupation can lead to residency through the Green List or skilled migration pathways, with high demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $2,000~$6,000（通过新西兰锁匠协会或BCITO完成学徒培训，学费补贴后较低） |
-| 证书课程 | 6-12个月 | $3,000~$8,000（理工学院或私立培训机构的入门证书，含材料费） |
+| Apprenticeship | 3-4 years | $2,000~$6,000 (Complete apprenticeship training through the New Zealand Locksmiths Association or BCITO, with subsidized fees) |
+| Certificate course | 6–12 months | $3,000~$8,000 (Entry-level certificate from a polytechnic or private training institution, including material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰锁匠国家证书（New Zealand Certificate in Locksmithing） | NZQA/BCITO | 必备 | 三级或四级证书，行业标准必备 |
-| 电子安全执照（Electric Security Licence, ESL） | 新西兰电工注册局 | 可选 | 涉及电子锁系统时强制要求 |
+| New Zealand Certificate in Locksmithing | NZQA/BCITO | Required | Certificate III or IV, essential industry standard |
+| Electronic Security Licence (ESL) | New Zealand Electrical Registration Board | Optional | Mandatory when electronic lock systems are involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰住宅和商业建筑持续增长，加之安全需求提升，锁匠需求稳定。老年人口增加带来更多智能锁安装需求。政府认证的电子锁专家尤其短缺。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. As New Zealand's residential and commercial construction continues to grow, coupled with increased security needs, demand for locksmiths is stable. An aging population drives more smart lock installations. Government-certified electronic lock specialists are particularly scarce.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪通常为最低工资以上 |
-| 中级（3-5年） | $60,000~$75,000 | 持有全面认证后薪资上升 |
-| 高级（5年以上） | $80,000~$100,000 | 自雇或高级技术顾问可达更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary usually above minimum wage |
+| Mid-level (3–5 years) | $60,000~$75,000 | Salary rises after obtaining full certification |
+| Senior (5+ years) | $80,000~$100,000 | Self-employed or senior technical consultant can earn more |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级锁匠可晋升为高级安全系统顾问，或开设自营店铺。持有电子安全执照后，可承接高价值商业项目，收入潜力显著提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Entry demand for locksmiths and safe repairers has been compressed by automation: with the prevalence of smart locks and electronic security systems, traditional mechanical lock repair has declined, simple key cutting and lock opening tasks are replaced by automated machines, reducing positions but maintaining demand for advanced skills.
+
+Can progress from a junior locksmith to a senior security system consultant or open a private store. After obtaining an electronic security license, can undertake high-value commercial projects, significantly increasing income potential.
+
+**Tasks most exposed to AI:**
+
+- Automatic key cutting machines replace manual key cutting
+- Smart lock electronic password reset done by users themselves
+- Safe combination changes are performed remotely via software
+- Simple lock-picking services replaced by 24-hour automatic lock-picking machines
+- Routine lock replacement where users install smart locks themselves
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of mechanical faults in complex locks and safes
+- Use electronic testing tools to quickly identify internal wear in lock cylinders.
+- Optimize security design solutions by integrating access control system data
+- Receive remote expert maintenance guidance through AR glasses
+- Use databases to quickly look up specific lock specifications and historical solutions
+
+**Human moat:**
+
+- Fine craftsmanship in hand engraving or restoring antique locks
+- Emergency lock opening in high-security environments (e.g., bank vaults)
+- Client trust and on-site service reputation
+- Design customized high-security safety systems
+- Physical skills for handling non-standard, old-fashioned mechanical locks.
+
+**Skills to build:**
+
+- Electronic lock programming and network configuration
+- Biometric system installation and commissioning
+- Security system integration and IoT knowledge
+- Fault diagnosis and data analysis basics
+- Client communication and emergency response skills
+- Habit of continuously learning new lock technologies
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -61,68 +97,67 @@ Locksmiths in New Zealand install, repair, and upgrade locks and security system
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 从事绿色清单职业工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 符合6分制要求（职业经验+学历/收入），可申请技术移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，工作2年后可转绿名单途径 |
+| Subclass Green List T2 (Green List Work to Residence) | Eligible for residence after 2 years working in a Green List occupation |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (professional experience + qualifications/income), eligible for skilled migration |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, can transfer to Green List pathway after 2 years of work |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Locksmith？**
-- 喜欢动手操作、解决技术问题的人
-- 注重细节、有耐心处理精细活的人
-- 愿意持续学习新技术（如电子锁）的人
-
-**谁不适合学Locksmith？**
-- 不喜欢户外移动办公、固定场所工作的人
-- 对收入稳定性要求极高、不愿接受学徒期低薪的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical problems
+- Detail-oriented and patient for fine work
+- Willing to continuously learn new technologies (e.g., electronic locks)
+
+**Who is not suited**
+- Those who dislike outdoor mobile work or fixed-location work
+- Those who require high income stability and are unwilling to accept low apprentice wages
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of locksmiths in New Zealand?**
+A: Entry-level approx. NZ$45,000-55,000, mid-to-senior NZ$60,000-80,000, senior or self-employed can reach NZ$100,000+.
+
+**Q: How can a locksmith immigrate to New Zealand?**
+A: Locksmith is on the Green List T2, eligible for residence after 2 years of work; can also apply through SMC 6-point system (e.g., experience + qualifications).
+
+**Q: What qualifications are needed to become a locksmith in New Zealand?**
+A: Must obtain a NZQA-recognized National Certificate in Locksmithing (Level 3 or 4), recommended via the BCITO apprenticeship program.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Locksmith的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for locksmiths in New Zealand?**
-答：Entry-level: NZD 45,000-55,000; mid-level: NZD 60,000-75,000; senior/self-employed: up to NZD 100,000+.
-
-**问：How can a locksmith immigrate to New Zealand?**
-答：Locksmiths are on the Green List Tier 2, eligible for Work to Residence after 2 years; also via SMC 6-point system.
-
-**问：What qualifications are needed to become a locksmith in New Zealand?**
-答：A NZQA-recognised New Zealand Certificate in Locksmithing (Level 3 or 4) is mandatory, preferably via BCITO apprenticeship.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

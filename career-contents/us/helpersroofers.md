@@ -1,60 +1,96 @@
-# Helpers--Roofers（Helpers--Roofers）职业分析 · 美国
+# Helpers--Roofers — career analysis · United States
 
-**职业代码：47-3016 – Helpers--Roofers。**
+**Occupation code: 47-3016 (SOC)**
 
-Help roofers by performing duties requiring less skill, such as using, supplying, or holding materials or tools, and cleaning work area and equipment. Not primarily assisting roofers are classified under Construction Laborers.
+Assist roofers with less skilled tasks such as moving materials, tools, and keeping the work area tidy. Construction workers who do not primarily assist roofers are classified as construction laborers (47-2061). Apprentices are classified under the corresponding skilled building trade.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-2年 | —（雇主提供的非正式培训） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-2 years | $0~$500 (Informal training provided by employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无正式认证要求 | N/A | 可选 | 多数雇主提供在职培训 |
-| OSHA安全认证 | OSHA | 可选 | 推荐但非强制 |
+| No formal certification required | N/A | Optional | Most employers provide on-the-job training |
+| OSHA safety certification | OSHA | Optional | Recommended but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。美国屋顶工助手就业前景稳定，受建筑和维修需求驱动。预计2023-2033年就业增长约5%，与所有职业平均水平相近。人口增长和旧房翻新将维持需求，但经济波动可能影响就业。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Employment outlook for roofer helpers in the US is stable, driven by construction and repair demand. Expected job growth of about 5% from 2023-2033, similar to the average for all occupations. Population growth and home renovations will sustain demand, but economic fluctuations may affect employment.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约$13-17 |
-| 中级（3-5年） | $35,000~$42,000 | 时薪约$17-20 |
-| 高级（5年以上/工头） | $42,000~$52,000 | 时薪约$20-25 |
+| Median salary | $44,160 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage about $13-$17 |
+| Mid-level (3–5 years) | $35,000~$42,000 | Hourly wage about $17-20 |
+| Senior (5+ years / foreman) | $42,000~$52,000 | Hourly wage approximately $20-25 |
+| average salary | $45,150 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 职业发展路径：通常积累经验后晋升为熟练屋顶工，或转至建筑行业其他工种。部分人通过学徒计划成为正规屋顶工，需2-4年培训。有经验者可晋升为工头或自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Roofing helper positions face high automation compression risk; AI and automation replace low-skill tasks like material handling and cleaning. Entry barriers may narrow, but experienced helpers still have a moat in on-site response and collaboration.
+
+Career progression: Typically gain experience to advance to skilled roofer, or move to other construction trades. Some become qualified roofers through apprenticeship programs, requiring 2-4 years of training. Experienced workers can become foremen or start their own business.
+
+**Tasks most exposed to AI:**
+
+- Carry roofing materials to the work area
+- Automatically sort and organize tools
+- Cleaning work sites with automated equipment
+- Automatically monitor material inventory and replenish using sensors
+- Use drones for initial roof inspection
+
+**Where AI augments the role:**
+
+- AI-enhanced AR helmet to assist in identifying damaged roof sections
+- AI tools analyze weather forecasts in real time to optimize work scheduling
+- Smart tablet automatically generates material lists and purchasing suggestions
+- AI voice assistant provides instant safety operation reminders
+- Automatically sync progress with roofers and project managers via mobile app
+
+**Human moat:**
+
+- Manually delivering materials and coordinating in complex roof structures
+- Quick judgment in response to sudden weather or on-site safety hazards
+- Efficient sign language and verbal communication with roofers
+- On-site identification of abnormal situations (e.g., material defects)
+- Physical adaptability and endurance in high temperature and high altitude environments
+
+**Skills to build:**
+
+- Basic roofing skills (e.g., tiling, waterproofing)
+- Use AR/VR-assisted tools for roof measurements
+- Basic drone operation and image analysis
+- Use of digital tools (e.g., project management apps)
+- Safety procedures and emergency response training
+- Basic electrical and tool maintenance skills
+
+**Key growth areas:**
 
 - Construction
 - Maintenance
@@ -63,65 +99,67 @@ Help roofers by performing duties requiring less skill, such as using, supplying
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Workers） | 用于临时非农业工人，屋顶工助手偶尔符合条件，需雇主担保且配额有限。 |
-| Subclass EB-3（EB-3 Skilled/Unskilled Workers） | EB-3非技术工人类别，但需PERM劳工证，通常要求全职永久职位，难度较大。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | For temporary non-agricultural workers; roofer helpers occasionally qualify; requires employer sponsorship and limited quota. |
+| Subclass EB-3 (EB-3 Skilled/Unskilled Workers) | EB-3 unskilled worker category, but requires PERM labour certification, typically a full-time permanent position, and is quite difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Roofers？**
-- 愿意从事体力劳动、吃苦耐劳
-- 希望快速就业、不要求高学历
-- 对建筑行业有兴趣、愿意从基层做起
+**Who is suited**
+- Willing to do physical labor, hardworking.
+- Those seeking quick employment without high academic qualifications
+- Those interested in construction industry, willing to start from entry-level
 
-**谁不适合学Helpers--Roofers？**
-- 寻求高薪、高技能职业
-- 无法适应高空作业和恶劣天气
+**Who is not suited**
+- Seeking high-paying, high-skill careers
+- Unable to handle working at heights and harsh weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a roofing worker assistant?**
+A: Entry-level annual salary approx. USD 28,000-35,000, hourly approx. USD 13-17. Senior positions or foremen can earn USD 42,000-52,000. Salary varies by region and employer.
+
+**Q: Can a roofer's assistant immigrate to the US through skilled migration?**
+A: Very difficult. This occupation usually doesn't meet H-1B requirements (needs at least a bachelor's degree), H-2B temporary work visa quotas are small and non-immigrant. EB-3 unskilled worker green card requires PERM, but the employer must prove inability to hire US workers.
+
+**Q: What are the advancement opportunities for a roofer's assistant?**
+A: Can advance to skilled roofer through apprenticeship, then to foreman, supervisor, or start own roofing repair company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Helpers--Roofers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for Helpers--Roofers?**
-答：Entry-level annual salary is about $28,000-$35,000, hourly $13-$17. Experienced or foreman can reach $42,000-$52,000. Varies by location and employer.
-
-**问：Can Helpers--Roofers immigrate to the US via skilled migration?**
-答：Very difficult. H-1B requires a bachelor's degree, not applicable. H-2B has limited cap and is non-immigrant. EB-3 unskilled requires PERM and employer to prove labor shortage.
-
-**问：What are career advancement opportunities for Helpers--Roofers?**
-答：Advance to skilled roofer through apprenticeship, then to foreman, supervisor, or start own roofing company.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

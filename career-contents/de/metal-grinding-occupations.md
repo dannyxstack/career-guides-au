@@ -1,59 +1,92 @@
-# Metal Grinding Occupations（Metal Grinding Occupations）职业分析 · DE
+# Metal Grinding Occupations — career analysis · Germany
 
-**职业代码：2422 – Metal Grinding Occupations。**
+**Occupation code: 2422 (KldB)**
 
-Grind, polish, and finish metal workpieces using grinding machines and abrasive tools to achieve surface quality and dimensional accuracy.
+Grinding, polishing, and finishing metal workpieces using grinders, sanding wheels, and other equipment to ensure surface quality and dimensional accuracy.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3.5年 | —（企业承担培训费用，每月津贴约800-1200欧元） |
-| 工业师傅进修（Meister） | 1-2年（兼职） | $2,000~$5,000（部分由政府资助或企业报销） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$500 (Company covers training costs, monthly allowance about 800-1200 euros) |
+| Industrial Master Craftsman (Meister) | 1-2 years (part-time) | $2,000~$5,000 (Partly government-funded or employer-reimbursed) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属磨削工证书（Ausbildung） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试 |
-| 职业资格认证（Anerkennung） | IHK / 联邦职业教育研究所 | 必备 | 外国学历需通过资质认证 |
-| 工业师傅（Meister） | IHK | 可选 | 可选，用于晋升管理岗位 |
+| Metal grinding worker certificate (Ausbildung) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Professional qualification recognition (Anerkennung) | IHK / Federal Institute for Vocational Education and Training | Required | Overseas qualifications must undergo credential assessment |
+| Industrial Master (Meister) | IHK | Optional | Optional, for promotion to management positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。德国制造业持续需要精密加工技工，尤其在汽车、机械制造领域。数字化和自动化虽减少低端岗位，但高精度磨削技术工人仍供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. German manufacturing continuously needs precision machining technicians, especially in automotive and mechanical engineering. Although digitalization and automation reduce low-end positions, high-precision grinding skilled workers remain in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于地区和企业规模 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练技工，可附加津贴 |
-| 高级（7年以上） | $45,000~$55,000 | 含技师或主管职位 |
+| Median salary | $43,728 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on region and company size |
+| Mid-level (3–7 years) | $35,000~$45,000 | Skilled tradesperson, eligible for additional allowances |
+| Senior (7+ years) | $45,000~$55,000 | Includes technician or supervisor roles |
+| average salary | $45,516 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级磨工晋升为高级技师或生产主管，也可通过进修成为数控磨削专家或工业师傅（Meister），或转向质量控制与技术销售。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Manual grinding and polishing face high automation risk, especially for repetitive tasks, but complex surfaces and fine craftsmanship still require human judgment; entry-level positions will decrease significantly.
+
+Can progress from junior grinder to senior technician or production supervisor, or further study to become CNC grinding specialist or master craftsman (Meister), or move into quality control and technical sales.
+
+**Tasks most exposed to AI:**
+
+- Rough grinding and deburring of flat surfaces using sandpaper or grinding wheels
+- Use a handheld polisher for standard curved surface polishing
+- Manually determine grinding depth and number of passes based on simple drawings
+- Perform basic dimensional inspections using measuring tools
+
+**Where AI augments the role:**
+
+- Uses AI vision systems to assist in detecting surface defects and polishing uniformity
+- Get real-time grinding path and pressure suggestions through AR glasses
+- Use AI to analyze material properties to optimize grinding parameters
+- Combine robots to complete high-volume rough grinding, workers focus on fine finishing
+
+**Human moat:**
+
+- Handle fine polishing of complex surfaces, irregular parts, and special materials.
+- Judges final smoothness and texture based on touch and experience
+- On-site decision making to fix unexpected flaws or non-standard workpieces
+- Client communication and customized process design
+
+**Skills to build:**
+
+- CNC and Robot Programming Basics
+- Precision measuring instrument operation (e.g., coordinate measuring machine)
+- Material science knowledge (grinding characteristics of different materials)
+- Data analysis and process optimization
+- AI-assisted visual inspection system operation
+- Maintaining and debugging automated equipment
+
+**Key growth areas:**
 
 - Precision Manufacturing
 - CNC Grinding
@@ -62,65 +95,64 @@ Grind, polish, and finish metal workpieces using grinding machines and abrasive 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历，需年薪达标（2024年约43,800欧元），但低于紧缺职业门槛可折减 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于认可的职业资格，无需学位，通过资质认证后可工作 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许寻找工作，适合有职业经验者 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to higher education qualifications, requires meeting the annual salary threshold (approx. €43,800 in 2024), but may be reduced if below the critical occupation threshold |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to recognized occupational qualifications without a degree; can work after obtaining certification |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job searching, suitable for those with professional experience. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Grinding Occupations？**
-- 有手工技能与机械操作兴趣者
-- 愿意接受双元制培训的技术人才
-- 注重稳定就业与长期发展的技工
-
-**谁不适合学Metal Grinding Occupations？**
-- 对噪声和粉尘敏感者
-- 追求快速高薪或纯白领工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an interest in manual skills and mechanical operation
+- Talent willing to undergo dual system training
+- Skilled workers focused on stable employment and long-term development
+
+**Who is not suited**
+- Those sensitive to noise and dust
+- People seeking fast high salary or purely white-collar jobs.
+
+---
+
+## 8. FAQ
+
+**Q: Are metal grinding workers' salaries increasing year by year?**
+A: Yes, with experience and skill development, salaries gradually increase, and obtaining a Meister qualification leads to higher pay.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Yes. Through skilled migration laws, if your professional qualifications are recognized, you can come to Germany on a work visa or EU Blue Card. This occupation is in shortage, with a lower Blue Card salary threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Metal Grinding Occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the salary of metal grinding workers increase yearly?**
-答：Yes, as experience and skills grow, salary rises. Obtaining a Meister title can lead to significantly higher pay.
-
-**问：Can foreigners immigrate through this occupation?**
-答：Yes. Under the Skilled Immigration Act, if qualifications are recognized, you can obtain a work visa or EU Blue Card. The occupation is in shortage, offering a reduced salary threshold.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

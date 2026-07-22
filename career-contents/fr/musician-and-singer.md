@@ -1,61 +1,96 @@
-# Musician and Singer（Musician and Singer）职业分析 · FR
+# Musician and Singer — career analysis · France
 
-**职业代码：L1202 – Musician and Singer。**
+**Occupation code: L1202 (ROME)**
 
-Musicians and singers create, perform, and record music across genres such as classical, pop, and jazz, working in concert halls, studios, theaters, and more.
+Musicians and singers engage in music creation, performance, and recording, covering a variety of styles including classical, pop, and jazz, and can work in concert halls, recording studios, theaters, and other venues.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高强（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP音乐家 | 2年（CAP） | —（公立音乐学院费用低，可申请学徒制） |
-| DEM或DNOP | 5-7年（音乐学/国立音乐学院） | $2,000~$8,000（年费，私立或国立院校差异大） |
-| 硕士（音乐表演） | 2年（硕士） | $3,000~$10,000（公立大学约300欧/年，私立高额） |
+| CAP musician | 2 years (CAP) | $0~$1,500 (Public music conservatories have low fees and allow apprenticeship applications) |
+| DEM or DNOP | Years 5-7 (Musicology / National Conservatory of Music) | $2,000~$8,000 (Annual fees vary greatly between private and national institutions) |
+| Master of Music Performance | 2 years (Master's) | $3,000~$10,000 (Public universities approx €300/year, private high fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| DNSPM（国家专业音乐家文凭） | 法国文化部认可的国立音乐学院 | 必备 | 高等音乐职业文凭，用于教学或专业演出 |
-| 音乐教师资格证（DE/CA） | 法国文化部 | 可选 | 教学必备，需通过考试 |
+| DNSPM (National Professional Musician Diploma) | A national conservatory recognized by the French Ministry of Culture | Required | Higher vocational diploma in music, used for teaching or professional performances |
+| Music Teacher Qualification Certificate (DE/CA) | French Ministry of Culture | Optional | Essential for teaching, requires passing an exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。法国音乐产业持续发展，但竞争激烈。数字化和现场演出复苏带来机会，兼职和自由职业者比例高。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. The French music industry continues to grow, but competition is fierce. The revival of digitalization and live performances brings opportunities, with high proportions of part-time and freelancers.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 不定，兼职或演出合同 |
-| 中级（4-10年） | $25,000~$45,000 | 乐队成员、录音棚乐手 |
-| 高级（10年以上） | $45,000~$100,000 | 知名艺术家、首席或总监 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Undetermined, part-time or performance contracts |
+| Mid-level (4-10 years). | $25,000~$45,000 | Band member and studio musician |
+| Senior (10+ years) | $45,000~$100,000 | Renowned artists, principals, or directors |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括成为乐队首席、音乐总监或独立音乐人；也可转向音乐教育、制作或录音工程。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
+
+Career development paths include becoming a band's concertmaster, music director, or independent musician; It can also be turned into music education, production, or recording engineering.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates background music or simple scores
+- Basic music transcription and arrangement assistance
+- Basic practice accompaniment in music teaching
+- Automation in audio recording and mixing
+
+**Where AI augments the role:**
+
+- Using AI for music composition inspiration and melody generation
+- Analyzes performance and pitch using AI
+- Use AI tools for music marketing and track recommendation
+- AI-assisted ear training and music theory teaching
+- AI-generated dynamic lighting and visual effects synchronized with live performances
+
+**Human moat:**
+
+- Ability to perform live improvisation and interact with the audience.
+- Unique emotional expression and artistic interpretation
+- Personalized guidance and feedback in teaching.
+- Artistic director role for complex music projects
+- Build personal brand and fan community
+
+**Skills to build:**
+
+- AI Music Generation Tools (e.g., MuseNet, AIVA)
+- Digital audio workstation (DAW) and plugins
+- Basics of music data analysis and recommendation algorithms
+- Multimedia performance technology (lighting, projection, VR)
+- Online teaching platform and content creation
+- Copyright management and music marketing knowledge
+
+**Key growth areas:**
 
 - Live Performance
 - Digital Music
@@ -64,66 +99,65 @@ Musicians and singers create, perform, and record music across genres such as cl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或音乐家，需提供作品集和法国项目合同 |
-| Subclass Salarié（Employee Permit） | 受雇于法国音乐机构，需雇主担保 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求高学历和高薪，不常用于音乐家 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists or musicians, requiring a portfolio and a contract for the French project |
+| Subclass Salarié (Employee Permit) | Employed by a French music institution, employer sponsorship required |
+| Subclass Carte bleue UE (EU Blue Card) | It requires high education and high salary, and is not commonly used for musicians |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Musician and Singer？**
-- 热爱音乐且具备高度自律性的人
-- 能接受不稳定收入和频繁演出的人
-- 愿意持续学习和适应市场变化的人
-
-**谁不适合学Musician and Singer？**
-- 追求稳定收入和固定工作时间的人
-- 不愿面对激烈竞争和频繁被拒绝的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love music and possess high self-discipline
+- People who can accept unstable income and frequent performances
+- People willing to keep learning and adapting to market changes
+
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- Those who are unwilling to face fierce competition and frequent rejection
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of musicians in France?**
+A: Most musicians have unstable income, junior annual salary approx EUR 18,000-25,000, mid-level 25,000-45,000, senior can exceed 100,000, but a high proportion are freelancers.
+
+**Q: How do foreign musicians immigrate to France?**
+A: Can apply through the Talent Passport (Passeport Talent), requiring portfolio, French performance contract, or invitation. Employment with a French institution also qualifies for a work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长期（★★★★☆） |
-| 学习难度 | 高强（★★★★☆） |
-| 考证难度 | 高（★★★☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Musician and Singer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for musicians in France?**
-答：Most musicians have unstable incomes: junior 18-25k EUR, mid 25-45k, senior up to 100k+, with many freelancers.
-
-**问：How can foreign musicians immigrate to France?**
-答：You can apply for the Talent Passport with a portfolio and a French contract. Employment with a French organization also qualifies for a work visa.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

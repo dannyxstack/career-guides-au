@@ -1,59 +1,94 @@
-# Radiation Therapist（Radiation Therapist）职业分析 · 新西兰
+# Radiation Therapist — career analysis · New Zealand
 
-**职业代码：251212 – Radiation Therapist。**
+**Occupation code: 251212 (ANZSCO)**
 
-Radiation therapist is on New Zealand's Green List Tier 1, eligible for direct residence. With only ~500 practitioners nationwide, demand is growing and graduate employment is high.
+Radiation therapists are on New Zealand's Green List Tier 1, eligible for direct residency. Only about 500 practitioners nationwide, with growing demand and very high graduate employment rates.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（放射治疗） | 4年 | $60,000~$120,000（如奥克兰理工大学（AUT）或奥塔哥大学（Wellington）相关课程） |
-| 硕士课程（转化） | 2年 | $40,000~$80,000（适用于已有相关本科学位者） |
+| Bachelor's degree (Radiation Therapy) | 4 years | $60,000~$120,000 (e.g., relevant courses at Auckland University of Technology (AUT) or University of Otago (Wellington)) |
+| Master's (conversion) | 2 years | $40,000~$80,000 (Applicable to those who already have a relevant undergraduate degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册放射治疗师 | 新西兰医学辐射技术委员会（MRTB） | 必备 | 必须完成认可的放射治疗课程并注册 |
-| 澳大利亚新西兰辐射治疗师学会认证 | AIR/ANZSNM | 可选 | 部分雇主要求 |
-| 英语能力考试（如雅思） | IELTS/OET | 必备 | 注册要求总分7.0，单项不低于7.0 |
+| Registered Radiation Therapist | New Zealand Medical Radiation Technologists Board (MRTB). | Required | Must complete an accredited radiation therapy course and obtain registration |
+| English proficiency test (e.g., IELTS) | IELTS/OET | Required | Registration requires overall IELTS 7.0, no band below 7.0 |
+| Australian and New Zealand Society of Radiation Therapy certification | AIR/ANZSNM | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 500。随着新西兰人口老龄化和癌症发病率上升，放射治疗需求稳步增长。目前奥克兰、基督城等主要城市有持续招聘，偏远地区更难招到人。未来十年预计职位增长约15%。
+**Job demand: very high (★★★★½).** National workforce approx. 500. With New Zealand's aging population and rising cancer incidence, demand for radiation therapy is steadily growing. Currently, major cities like Auckland and Christchurch have ongoing recruitment, while remote areas face more hiring challenges. Job growth of about 15% is expected over the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 公立医院起薪约$72,000 |
-| 中级（3-7年） | $90,000~$110,000 | 年资+专长提升 |
-| 高级（7年+） | $110,000~$140,000 | 高级治疗师或管理职位 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Starting salary in public hospitals is approximately $72,000 |
+| Mid-level (3–7 years) | $90,000~$110,000 | Seniority + expertise enhancement |
+| Senior (7+ years) | $110,000~$140,000 | Senior therapist or management position |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级放射治疗师可逐步晋升为高级治疗师、团队领导或临床专家。也可转向医学物理、剂量学或管理岗位。博士学历可从事大学教研工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
+
+Junior radiation therapists can progress to senior therapist, team leader, or clinical specialist. Can also move to medical physics, dosimetry, or management. PhD can lead to university teaching/research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating radiotherapy treatment plan image fusion and contour delineation
+- AI-based dose calculation and optimization recommendations
+- Automated generation and archiving of treatment records
+- Automated analysis of routine QA data
+
+**Where AI augments the role:**
+
+- AI-assisted image registration and target delineation, improving accuracy and consistency
+- Using AI to predict optimal radiation dose distribution and optimize treatment plans
+- Analyze patient historical data via AI to detect potential complications early
+- AI-driven automatic positioning verification system to reduce human error
+- Using chatbots for patient education to alleviate repetitive questions
+
+**Human moat:**
+
+- Direct operation of radiotherapy equipment (accelerator), requires certification
+- During treatment, adjust positioning in real time based on subtle patient movements
+- Handle emergency radiation safety incidents requiring quick judgment and manual intervention.
+- Empathetic communication with patients and families to alleviate treatment anxiety
+- Multidisciplinary team collaboration, participating in clinical decision-making for complex cases
+
+**Skills to build:**
+
+- AI-assisted treatment planning software (e.g., Eclipse AI, RayStation)
+- Basic Python or scripting for custom analysis tools
+- Principles and evaluation of machine learning models related to radiation therapy
+- Advanced Patient Positioning Techniques (e.g., SGRT Surface Guidance)
+- Operating AI monitoring systems for radiation protection and safety management
+- Cross-disciplinary expertise: intersection of imaging, anatomy, and AI
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,65 +97,64 @@ Radiation therapist is on New Zealand's Green List Tier 1, eligible for direct r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，无需先工作，满足注册和学历即可申请，审理快，配偶子女同行 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民，放射治疗师学位+注册可获高分，约6分即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为临时工作路径，后续可转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, no prior work required, application based on registration and qualifications, fast processing, spouse and children can accompany |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration; radiation therapist degree plus registration can achieve high points; approx. 6 points needed to apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a temporary work pathway, followed by a transition to residence |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiation Therapist？**
-- 医学物理或放射影像背景，希望获得新西兰居留权
-- 有较强数学和物理基础，愿意接受4年本科或2年硕士学习
-- 对肿瘤患者护理有耐心，适应医院团队协作环境
-
-**谁不适合学Radiation Therapist？**
-- 对电离辐射安全极为敏感，无法接受每天操作放射设备
-- 希望短平快进入高薪行业，不愿投入长时间学习与注册
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in medical physics or radiography, seeking New Zealand residency
+- Strong foundation in math and physics, willing to pursue a 4-year bachelor's or 2-year master's degree
+- Patient with oncology patient care, adaptable to hospital team environment
+
+**Who is not suited**
+- Highly sensitive to ionizing radiation safety; cannot accept daily operation of radiation equipment.
+- Hope to quickly enter high-paying industry without long study and registration
+
+---
+
+## 8. FAQ
+
+**Q: What are the starting and maximum salaries for radiation therapists in New Zealand?**
+A: Junior approx. NZD 70,000–90,000; mid NZD 90,000–110,000; senior NZD 110,000–140,000. Public hospital starting salary approx. NZD 72,000; private sector slightly higher.
+
+**Q: Do radiation therapists require employer sponsorship to migrate to New Zealand?**
+A: No. This occupation is on Tier 1 of the Green List, eligible for Straight to Residence Visa without employer sponsorship. However, you must complete a NZ-recognized course and register.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Radiation Therapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting and maximum salary for a radiation therapist in NZ?**
-答：Entry-level NZD 70,000-90,000, mid-level 90,000-110,000, senior 110,000-140,000. Public hospitals start around 72,000; private may be higher.
-
-**问：Do radiation therapists need employer sponsorship to migrate to NZ?**
-答：No. It's on Green List Tier 1, eligible for Straight to Residence Visa without a job offer. However, you must complete an NZ-accredited course and register.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

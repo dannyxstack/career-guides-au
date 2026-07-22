@@ -1,59 +1,95 @@
-# Civil Engineering Technician（Civil Engineering Technician）职业分析 · IE
+# Civil Engineering Technician — career analysis · Ireland
 
-**职业代码：3112 – Civil Engineering Technician。**
+**Occupation code: 3112 (ISCO08)**
 
-Civil engineering technicians assist engineers in design, construction, and project supervision, playing a key role in Ireland's construction and infrastructure sector.
+Civil engineering technicians assist engineers with design, construction, and project supervision, playing a key role in Ireland's construction and infrastructure industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等证书/学徒 | 2年 | $5,000~$10,000（FET课程或学徒项目学费） |
-| 学士学位 | 3-4年 | $10,000~$20,000（本科年学费（欧盟/非欧盟差异大）） |
+| Higher Certificate/Apprenticeship | 2 years | $5,000~$10,000 (FET course or apprenticeship program tuition fees) |
+| Bachelor's degree | 3-4 years | $10,000~$20,000 (Annual undergraduate tuition (varies greatly between EU and non-EU)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程技师认证 | Engineers Ireland | 可选 | 推荐但非强制 |
-| SOLAS学徒证书 | SOLAS | 可选 | 完成学徒制可获得 |
-| 国家高级文凭或以上 | QQI | 可选 | 常见入职要求 |
+| Engineering technician certification | Engineers Ireland | Optional | Recommended but not mandatory |
+| SOLAS Apprenticeship Certificate | SOLAS | Optional | Obtained on completion of apprenticeship |
+| National Advanced Diploma or higher | QQI | Optional | Common entry requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰政府持续投资基础设施项目（如住房、交通和水处理），预计2023-2028年就业将增长约10%，建筑业回暖将推动需求。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. The Irish government continues to invest in infrastructure projects (e.g., housing, transport, water treatment), with employment expected to grow by approximately 10% from 2023 to 2028, as the construction sector recovery drives demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 应届生或学徒后起薪 |
-| 中级（3-7年） | $38,000~$50,000 | 有项目管理经验 |
-| 高级（7年以上） | $50,000~$65,000 | 高级技师或团队领导 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$38,000 | Starting salary for graduates or after apprenticeship |
+| Mid-level (3–7 years) | $38,000~$50,000 | Experience in project management |
+| Senior (7+ years) | $50,000~$65,000 | Senior technician or team leader |
+| average salary | $44,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可晋升为项目经理、高级技师或工程师路径（需额外学历）；也可向建筑检查或设计咨询方向发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive tasks of civil engineering technicians (e.g., drafting, calculation, documentation) are easily automated by AI, but core responsibilities such as on-site supervision, communication coordination, and complex problem-solving are enhanced by AI, presenting both risks and opportunities.
+
+Can advance to project manager, senior technician, or engineer pathway (requires additional qualifications); also open to careers in building inspection or design consulting.
+
+**Tasks most exposed to AI:**
+
+- Generate preliminary design drawings and construction drawings
+- Automatically complete structural load calculations and material lists
+- Write and update project technical documentation
+- Organize and analyze on-site test data
+- Generate standardized progress reports and budget sheets
+
+**Where AI augments the role:**
+
+- Using AI to generate design improvement suggestions
+- Pre-construction conflict detection through digital twins and simulation
+- Using BIM+AI for real-time construction progress monitoring and warnings
+- Automatically organize meeting minutes with natural language processing
+- Use AI to predict project risks based on historical data and formulate countermeasures
+
+**Human moat:**
+
+- On-site construction supervision and safety emergency judgment
+- Multi-party coordination and communication with clients, engineers, and workers
+- Handle non-standard, emergent technical issues
+- Understand and follow local building regulations and ethical requirements
+- Make intuitive decisions based on limited information
+
+**Skills to build:**
+
+- Proficiency in BIM software and AI-assisted design tools
+- Data analysis and basic programming (Python/R)
+- Human-machine collaboration and AI project management skills
+- Updated knowledge of construction safety and regulations
+- Cross-disciplinary communication and teamwork skills
+- Mindset for continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Infrastructure
 - Construction
@@ -62,68 +98,67 @@ Civil engineering technicians assist engineers in design, construction, and proj
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年收入不低于30,000欧元的非紧缺职业，但土木工程技师可能符合条件。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 如岗位在紧缺职业列表且薪资高于32,000欧元，可申请此许可，家属可随行。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥33,000欧元（2024年标准），通常要求本科学位。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-occupation shortage roles with annual income of at least €30,000, but civil engineering technicians may qualify. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list and the salary exceeds €32,000, this permit can be applied for, and family members can accompany. |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥€33,000 (2024 standard), usually a bachelor's degree. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Technician？**
-- 喜欢现场工作与动手实践
-- 对建筑、土木工程有浓厚兴趣
-- 注重细节、有团队协作精神
-
-**谁不适合学Civil Engineering Technician？**
-- 偏好纯办公室工作
-- 不擅长应对户外天气变化
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys fieldwork and hands-on practice
+- Strong interest in architecture and civil engineering
+- Detail-oriented with team spirit
+
+**Who is not suited**
+- Preference for purely office-based work
+- Not adept at handling outdoor weather changes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a civil engineering technician?**
+A: Entry-level annual salary approx. 28,000-38,000 euros, mid-level 38,000-50,000 euros, senior up to 65,000 euros.
+
+**Q: Is it easy for a civil engineering technician to obtain a work visa in Ireland?**
+A: If the position is on the critical skills list and salary requirements are met, a Critical Skills Employment Permit can be applied for, which is relatively easy.
+
+**Q: What are the career development paths for a civil engineering technician?**
+A: You can advance to project manager, senior technician, or become an engineer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 良好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for civil engineering technicians?**
-答：Entry-level salaries range from €28,000 to €38,000, mid-level from €38,000 to €50,000, and senior roles up to €65,000.
-
-**问：Is it easy for civil engineering technicians to get a work visa for Ireland?**
-答：If the role is on the Critical Skills list and salary threshold is met, a Critical Skills Employment Permit is available, making it relatively accessible.
-
-**问：What are the career progression paths for civil engineering technicians?**
-答：Opportunities include advancing to project manager, senior technician, or further education to become an engineer.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

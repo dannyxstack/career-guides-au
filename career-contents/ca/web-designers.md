@@ -1,59 +1,95 @@
-# Web Designers（Web Designers）职业分析 · 加拿大
+# Web Designers — career analysis · Canada
 
-**职业代码：21233 – Web Designers。**
+**Occupation code: 21233 (NOC)**
 
-UI/UX designers create web and digital interfaces in Canada, eligible for immigration via Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., BC PNP Tech), offering high demand for creative tech talent.
+UI/UX designers work on web and digital interface design in Canada, can immigrate via Express Entry (FSW/CEC) or provincial nomination (e.g., BC PNP Tech), entering a high-demand field with creative and technical skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专/本科 | 2-4年 | $15,000~$60,000（加拿大学费因校而异；可通过ECA认证海外学历） |
-| 硕士学位 | 1-2年 | $30,000~$80,000（部分大学提供交互设计硕士，可提高移民CRS分数） |
+| Diploma/Bachelor's degree | 2-4 years | $15,000~$60,000 (Canadian tuition varies by institution; overseas qualifications can be assessed via ECA) |
+| Master's degree | 1-2 years | $30,000~$80,000 (Some universities offer Master's in Interaction Design, which can improve CRS scores for immigration.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 必须进行ECA以用于移民申请 |
-| IELTS英语考试 | IELTS | 必备 | 通常需CLB 7以上；若法语项目需TEF |
-| Portfolio作品集 | 个人 | 可选 | 求职关键，非移民强制但影响雇主担保 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | ECA is mandatory for immigration purposes |
+| IELTS English test | IELTS | Required | Usually requires CLB 7 or above; for French programs, TEF required |
+| Portfolio | Personal | Optional | Crucial for job search, not mandatory for immigration but affects employer sponsorship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。加拿大IT行业持续增长，尤其温哥华、多伦多、蒙特利尔等科技中心对UI/UX设计师需求旺盛。随着数字化转型和SaaS产品发展，预计未来5年岗位增长10-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Canada's IT industry continues to grow, especially in tech hubs like Vancouver, Toronto, Montreal, with strong demand for UI/UX designers. With digital transformation and SaaS product development, job growth expected 10-15% over next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 温哥华/多伦多偏高，其他城市略低 |
-| 中级（3-7年） | $70,000~$90,000 | 含SaaS公司及科技初创企业 |
-| 高级（7年以上） | $95,000~$130,000 | 包括设计主管、总监职位 |
+| Median salary | $69,992 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Higher in Vancouver/Toronto, slightly lower in other cities |
+| Mid-level (3–7 years) | $70,000~$90,000 | Includes SaaS companies and tech startups |
+| Senior (7+ years) | $95,000~$130,000 | Includes design lead and director positions |
+| average salary | $76,960 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级设计师可通过作品集积累经验，晋升为高级设计师、设计主管或产品设计总监。亦可横向转型为交互设计师或产品经理，路径多样。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Web designers' creative and visual decisions are hard to replace by AI in the short term, but coding translation, image generation, A/B testing tasks are being compressed by AI, and entry-level roles are already facing significant competitive pressure.
+
+Junior designers can accumulate experience through portfolios, advance to senior designer, design lead, or product design director. They can also transition laterally to interaction designer or product manager, with diverse career paths.
+
+**Tasks most exposed to AI:**
+
+- Conversion from wireframes to HTML/CSS code
+- Generate multiple visual design options for selection
+- Basic image cropping, color adjustment, and format conversion
+- Create standardized design elements (buttons, icons) based on templates
+- Automated version generation and data analysis in A/B testing.
+
+**Where AI augments the role:**
+
+- Use AI to quickly generate numerous design sketches, accelerating concept exploration.
+- Using AI to analyze user behavior data to optimize interface layout and interaction
+- Improving Accessibility Design Quality with AI-Assisted Accessibility Checks
+- Use AI to generate copy and design elements, improving content production efficiency
+- Automates repetitive layout tasks, allowing designers to focus on creativity and strategy
+
+**Human moat:**
+
+- Creative strategies that understand brand strategy and user psychology
+- Original conception of complex interaction design and motion effects
+- Cross-cultural and cross-context inclusivity and aesthetic judgment
+- In-depth communication and persuasion with clients and development teams
+- Mastery of long-term design system maintenance and evolution
+
+**Skills to build:**
+
+- AI design tools (Figma AI, Adobe Firefly, Uizard)
+- UX research and user testing methods
+- Data-driven design decisions and basic statistical analysis.
+- Front-end development basics (React, Tailwind)
+- Accessible design (WCAG standards)
+- Project management and cross-team collaboration
+
+**Key growth areas:**
 
 - BC PNP Tech
 - Express Entry STEM
@@ -62,69 +98,68 @@ UI/UX designers create web and digital interfaces in Canada, eligible for immigr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSW（Federal Skilled Worker） | 通过Express Entry评分，需至少1年连续全职工作经验，语言成绩及ECA。 |
-| Subclass CEC（Canadian Experience Class） | 适用于已在加拿大有1年NOC TEER 0/1/2/3工作经验的申请人。 |
-| Subclass BC PNP Tech（BC Provincial Nominee Program - Tech） | BC省为29个科技职业提供优先审理，无需LMIA，周期快。 |
-| Subclass Ontario Tech Draws（Ontario Human Capital Priorities - Tech） | 安大略省针对IT职业的定向邀请，需Express Entry档案。 |
+| Subclass FSW (Federal Skilled Worker) | Scored through Express Entry, requires at least 1 year continuous full-time work experience, language test results, and ECA. |
+| Subclass CEC (Canadian Experience Class) | Applies to applicants who already have 1 year of NOC TEER 0/1/2/3 work experience in Canada. |
+| Subclass BC PNP Tech (BC Provincial Nominee Program - Tech) | BC offers priority processing for 29 tech occupations, no LMIA required, fast processing. |
+| Subclass Ontario Tech Draws (Ontario Human Capital Priorities - Tech) | Ontario's targeted invitation for IT occupations, requiring an Express Entry profile. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web Designers？**
-- 有创意且具备技术背景的设计师
-- 善于沟通和协作的团队型人才
-- 愿意不断学习新工具和趋势的人
-
-**谁不适合学Web Designers？**
-- 缺乏作品集或不愿投入时间完善设计技能者
-- 不习惯跨文化工作环境或远程协作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Designers who are creative and have a technical background.
+- Team-oriented people with good communication and collaboration skills
+- People willing to continuously learn new tools and trends
+
+**Who is not suited**
+- Those lacking a portfolio or unwilling to invest time in improving design skills
+- People not accustomed to cross-cultural work environments or remote collaboration
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for UI/UX designers in Canada?**
+A: Entry-level about CAD $50,000-65,000; intermediate $70,000-90,000; senior $95,000-130,000; higher in tech hubs.
+
+**Q: What is the easiest way for UI/UX designers to immigrate to Canada?**
+A: Can apply through Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., BC PNP Tech); the latter offers advantages due to targeted invitations.
+
+**Q: What skills do Canadian employers value most in UI/UX designers?**
+A: Proficient in Figma, Sketch, Adobe XD; knowledge of user research, interaction design principles, and basic HTML/CSS.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Web Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for UI/UX designers in Canada?**
-答：Entry-level: CAD 50k-65k; Mid-level: 70k-90k; Senior: 95k-130k; higher in tech hubs.
-
-**问：What is the easiest immigration path for UI/UX designers to Canada?**
-答：Express Entry (FSW/CEC) or Provincial Nominee Programs like BC PNP Tech, which offers targeted draws.
-
-**问：What skills do Canadian employers value most for UI/UX designers?**
-答：Proficiency in Figma, Sketch, Adobe XD; knowledge of user research, interaction design principles, and basic HTML/CSS.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

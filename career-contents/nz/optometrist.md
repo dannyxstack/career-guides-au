@@ -1,60 +1,96 @@
-# Optometrist（Optometrist）职业分析 · 新西兰
+# Optometrist — career analysis · New Zealand
 
-**职业代码：251411 – Optometrist。**
+**Occupation code: 251411 (ANZSCO)**
 
-Optometrists in New Zealand are on the Green List, offering direct residence or work-to-residence migration pathways, with strong job prospects and competitive salaries.
+Optometrists are on New Zealand's Green List, eligible for Straight to Residence or Work to Residence pathways, with good job prospects and attractive salaries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $55,000~$65,000（奥克兰大学、梅西大学视光学本科） |
-| 硕士（注册后可选） | 1-2年 | $30,000~$40,000（临床或研究型硕士，提升竞争力） |
+| Bachelor's degree | 4 years | $55,000~$65,000 (Optometry undergraduate programs at University of Auckland, Massey University) |
+| Master's degree (optional after registration) | 1-2 years | $30,000~$40,000 (Clinical or research master's degree to enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等偏高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视光学学士 (BOptom) | 奥克兰大学/梅西大学 | 必备 | 新西兰注册必需学历 |
-| 新西兰验光师注册 | Optometrists & Dispensing Opticians Board (ODOB) | 必备 | 通过笔试和实习评估 |
-| 执业证书 (Annual Practising Certificate) | ODOB | 必备 | 每年更新，需继续教育学分 |
-| 雅思总分7.0（单项不低于7.0） | IELTS | 必备 | 注册与移民语言要求 |
+| Bachelor of Optometry (BOptom) | University of Auckland / Massey University | Required | Required qualification for New Zealand registration |
+| New Zealand Optometrist Registration | Optometrists & Dispensing Opticians Board (ODOB) | Required | Through written exams and internship assessments |
+| Annual Practising Certificate | ODOB | Required | Renewed annually, requires continuing education credits |
+| IELTS overall 7.0 (no band below 7.0) | IELTS | Required | Registration and immigration language requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 650。新西兰人口老龄化及眼健康意识提升推高验光需求，尤其农村地区短缺，就业增长稳定，毕业生就业率超90%。
+**Job demand: high (★★★★☆).** National workforce approx. 650. New Zealand's aging population and increased eye health awareness drive demand for optometry, especially in rural areas; employment growth is stable, with graduate employment rates over 90%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 公立医院或诊所助理 |
-| 中级（3-8年） | $85,000~$110,000 | 经验丰富独立执业 |
-| 高级（8年以上/合伙人） | $110,000~$150,000 | 诊所所有者或高级专家 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Public hospital or clinic assistant |
+| Mid-level (3–8 years) | $85,000~$110,000 | Experienced independent practice |
+| Senior (8+ years/Partner) | $110,000~$150,000 | Clinic owner or senior specialist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级验光师可积累经验后开设私人诊所或晋升为高级验光师、眼科诊所经理，也可从事视光研究或教育，年收入可达15万NZD。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
+
+Entry-level optometrists can gain experience, then open private practice or advance to senior optometrist, eye clinic manager, or pursue vision research/education, with annual income up to NZD $150,000.
+
+**Tasks most exposed to AI:**
+
+- Objective refraction data collection in routine refractive exams (auto-refractor result interpretation)
+- Basic retinal image screening and grading (AI automatically labels abnormalities)
+- Patient appointment, medical record entry and other administrative paperwork (chatbots and NLP)
+- Generation of preliminary diagnostic reports for common eye diseases (AI-assisted diagnostic system)
+- Calculation and optimization of eyeglass/contact lens prescription parameters
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of OCT, visual field and other imaging data in complex case diagnosis to improve accuracy
+- Remote refraction and electronic prescription transfer to expand service scope and efficiency
+- Patient education: AI generates personalized visual health reports and follow-up reminders
+- Medication management: AI supports prescription interaction checks and efficacy predictions for eye drops
+- Clinical research: using AI to mine epidemiological trends from electronic medical records
+
+**Human moat:**
+
+- Final prescribing authority and legal responsibility (regulated by AHPRA)
+- Doctor-patient communication and trust building (complex empathy and education)
+- Clinical decision-making and experience-based judgment for atypical/multimorbidity cases
+- Surgical/therapeutic procedures (e.g., orthokeratology fitting, low vision rehabilitation)
+- Interdisciplinary collaboration (referral decisions with GPs and ophthalmologists)
+
+**Skills to build:**
+
+- Operation and interpretation of AI eye diagnosis tools (e.g., IDx-DR, Topcon AI)
+- Use of telemedicine platforms and electronic health record management
+- Statistical data analysis (Python/R) for clinical quality assessment
+- Doctor-patient communication and digital patient education skills
+- Basic programming (automated reporting and workflow optimization)
+- Regulatory updates tracking (expansion of therapeutic optometry prescribing rights in Australia)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +99,68 @@ Optometrists in New Zealand are on the Green List, offering direct residence or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足资格可直接申请居留，无需工作经历 |
-| Subclass Green List T2（Work to Residence Visa） | 工作2年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 6分制评分，满足6分可申请（本科学历+工作） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，最长3年，可衔接绿名单 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meeting qualifications allows direct application for residence without work experience |
+| Subclass Green List T2 (Work to Residence Visa) | Eligible to apply for residence after 2 years of work |
+| Subclass SMC (Skilled Migrant Category) | 6-point system scoring: can apply if 6 points are met (bachelor's degree + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer sponsorship, up to 3 years, can lead to Green List |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometrist？**
-- 细心、沟通能力强的医疗从业者
-- 寻求新西兰快速移民及稳定高薪的眼科专业人员
-- 有志于独立开诊所或服务社区的人士
-
-**谁不适合学Optometrist？**
-- 对高压考试和严格注册流程不耐受的人
-- 不愿学习或使用新兴技术（如数字化验光）的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and communicative healthcare practitioner
+- Ophthalmology professionals seeking fast immigration to New Zealand and stable high salary
+- Those aspiring to open their own clinic or serve the community
+
+**Who is not suited**
+- Those who are intolerant of high-pressure exams and strict registration processes
+- Those unwilling to learn or use emerging technologies (e.g., digital optometry)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for optometrists in New Zealand?**
+A: Junior approx. NZD 65,000-85,000, intermediate NZD 85,000-110,000, senior up to NZD 150,000; clinic partners or owners earn more.
+
+**Q: What are the pathways for optometrists to immigrate to New Zealand?**
+A: Eligible for direct residence via Green List or work-to-residence, also through Skilled Migrant Category (6-point system) or Accredited Employer Work Visa (AEWV).
+
+**Q: What steps are required to register as an optometrist in New Zealand?**
+A: Complete a New Zealand-approved Bachelor of Optometry (e.g., University of Auckland or Massey University), pass ODOB exams and internship assessment, and achieve an overall IELTS score of 7.0 (no band below 7.0).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等偏高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Optometrist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for optometrists in New Zealand?**
-答：Entry-level: NZD 65,000-85,000; mid-level: NZD 85,000-110,000; senior: up to NZD 150,000, with higher potential for practice owners.
-
-**问：What migration pathways are available for optometrists to New Zealand?**
-答：Options include Green List Straight to Residence, Work to Residence, Skilled Migrant Category (6-point system), and Accredited Employer Work Visa.
-
-**问：What steps are required to register as an optometrist in New Zealand?**
-答：Complete a NZ-accredited Bachelor of Optometry, pass ODOB exams and clinical assessments, and achieve IELTS 7.0 overall (no band below 7.0).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

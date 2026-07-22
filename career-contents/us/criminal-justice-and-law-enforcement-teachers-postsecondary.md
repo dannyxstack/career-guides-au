@@ -1,59 +1,92 @@
-# Criminal Justice and Law Enforcement Teachers, Postsecondary（Criminal Justice and Law Enforcement Teachers, Postsecondary）职业分析 · 美国
+# Criminal Justice and Law Enforcement Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1111 – Criminal Justice and Law Enforcement Teachers, Postsecondary。**
+**Occupation code: 25-1111 (SOC)**
 
-Teach courses in criminal justice, corrections, and law enforcement administration at postsecondary institutions, often combining teaching with research.
+Teach criminal justice, corrections, and law enforcement management courses at colleges or universities, typically combining teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-7年 | $100,000~$200,000（博士课程通常有奖学金或助教机会） |
-| 硕士 | 2年 | $30,000~$80,000（部分项目提供助学金） |
+| Doctorate | 5-7 years | $100,000~$200,000 (Doctoral programs often offer scholarships or teaching assistantships) |
+| Master's degree | 2 years | $30,000~$80,000 (Some programs offer bursaries) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位（刑事司法或相关领域） | 大学 | 必备 | 多数终身教职要求博士 |
-| 教学经验 | 高校 | 可选 | 通常需2年以上教学经历 |
-| 研究发表 | 学术期刊 | 可选 | 晋升副教授/教授的必要条件 |
+| Doctorate degree (criminal justice or related field) | University | Required | Most tenure-track positions require a PhD |
+| Teaching experience | Higher education institutions. | Optional | Typically requires 2+ years of teaching experience |
+| Research publications | Academic journals | Optional | Prerequisite for promotion to associate professor/professor |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 15,000。随着刑事司法领域对高学历教师需求的增加，预计就业增长稳定，但受高等教育预算影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. With increasing demand for highly educated teachers in the criminal justice field, employment growth is expected to be stable, but affected by higher education budgets.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 社区学院或非终身教职 |
-| 中级（4-9年） | $70,000~$95,000 | 助理教授或终身教职 |
-| 高级（10年以上） | $95,000~$130,000 | 教授或系主任 |
+| Median salary | $76,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Community colleges or non-tenure-track positions |
+| Intermediate (4-9 years) | $70,000~$95,000 | Assistant professor or tenured position |
+| Senior (10+ years) | $95,000~$130,000 | Professor or department head |
+| average salary | $87,550 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从讲师晋升为助理教授、副教授、教授，也可担任系主任或研究项目负责人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will have mixed effects on criminal justice and law enforcement teachers: some administrative and research tasks can be automated, but core teaching, field guidance, and ethical judgment are hard to replace
+
+Promotion from lecturer to assistant professor, associate professor, professor, or serving as department head or research project leader.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates basic course materials and exam question banks
+- Use AI for academic literature search and preliminary analysis
+- Automates grading of student assignments and performance management
+- Use AI to simulate law enforcement scenarios for basic skills training
+
+**Where AI augments the role:**
+
+- Use AI to analyze crime data, enhancing the realism and timeliness of case teaching.
+- Use AI simulators to create interactive law enforcement scenarios to enhance students' practical skills
+- Use AI tools to personalize student tutoring, providing tailored resources for learning difficulties
+- Assisting research: using AI to process large datasets to accelerate academic output
+
+**Human moat:**
+
+- Critical thinking guidance and ethical discussions in classroom interactions
+- Real-world enforcement practice guidance and mentorship
+- Comprehensive judgment of legal and social values in curriculum design and assessment
+- Ability to build trust with students and handle sensitive topics (e.g., race, violence) with empathy
+
+**Skills to build:**
+
+- Data analysis and crime statistics
+- AI education tools (e.g., intelligent tutoring systems, simulation software)
+- Cybercrime and digital forensics teaching
+- Interdisciplinary curriculum design (integrating AI ethics, policy)
+- Combining academic research with AI applications
+- Online teaching platforms and blended teaching methods
+
+**Key growth areas:**
 
 - Stable demand
 - College enrollment trends
@@ -62,66 +95,65 @@ Teach courses in criminal justice, corrections, and law enforcement administrati
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 大学教师通常符合H-1B要求，但需抽签 |
-| Subclass EB-2（EB-2 Advanced Degree） | 博士学位持有者可申请EB-2职业移民 |
-| Subclass EB-3（EB-3 Skilled Workers） | 硕士学位或相关经验者可申请EB-3 |
-| Subclass O-1（O-1 Extraordinary Ability） | 杰出教授或研究员可申请O-1签证 |
+| Subclass H-1B (H-1B Specialty Occupations) | University professors generally meet H-1B requirements but need lottery |
+| Subclass EB-2 (EB-2 Advanced Degree) | Doctorate holders may apply for EB-2 employment-based immigration |
+| Subclass EB-3 (EB-3 Skilled Workers) | Master's degree or relevant experience can apply for EB-3 |
+| Subclass O-1 (O-1 Extraordinary Ability) | Distinguished professors or researchers may apply for O-1 visa |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Criminal Justice and Law Enforcement Teachers, Postsecondary？**
-- 热爱教学和研究的人
-- 对刑事司法、执法有浓厚兴趣
-- 愿意攻读博士学位的人
-
-**谁不适合学Criminal Justice and Law Enforcement Teachers, Postsecondary？**
-- 不愿从事学术研究的人
-- 偏好高薪商业职位的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love teaching and research
+- Strong interest in criminal justice and law enforcement
+- Those willing to pursue a PhD
+
+**Who is not suited**
+- People unwilling to engage in academic research
+- People who prefer high-paying commercial roles
+
+---
+
+## 8. FAQ
+
+**Q: Salary range for criminal justice professors?**
+A: According to BLS data, median annual salary is about USD 70,000-100,000, depending on the type of teaching position and school.
+
+**Q: How to become a criminal justice professor in the U.S. via H-1B visa?**
+A: Requires employer (university) sponsorship, position must be a professional occupation, usually requires a PhD, obtainable after selection through a lottery.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Criminal Justice and Law Enforcement Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for criminal justice professors?**
-答：According to BLS, the median annual salary ranges from $70,000 to $100,000 depending on position and institution.
-
-**问：How to become a criminal justice professor in the US via H-1B visa?**
-答：Requires employer (university) sponsorship, a specialty occupation usually requiring a PhD, and selection in the lottery.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

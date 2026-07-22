@@ -1,60 +1,96 @@
-# Biologist (Zoology)（Biologist (Zoology)）职业分析 · DE
+# Biologist (Zoology) — career analysis · Germany
 
-**职业代码：4125 – Biologist (Zoology)。**
+**Occupation code: 4125 (KldB)**
 
-Conducts research in animal biology, including taxonomy, behavior, ecology, and evolution, working in universities, research institutes, museums, environmental agencies, or pharmaceutical companies.
+Conduct research in animal biology, including animal classification, behavior, ecology, evolution, etc., and work in universities, research institutions, museums, environmental protection departments or pharmaceutical companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（学士） | 3年（大学） | —（公立大学免学费，仅学期费约300-500欧元/年） |
-| 硕士（硕士） | 2年（大学） | —（多数公立大学免学费） |
-| 博士（博士） | 3-5年（大学/研究所） | —（通常有工资或奖学金，无需学费） |
+| Bachelor's degree | 3 years (university) | $0~$1,500 (Public universities tuition-free, only semester fees approx. €300-500/year) |
+| Master's (Master) | 2 years (university) | $0~$1,500 (Most public universities are tuition-free) |
+| PhD (Doctor of Philosophy) | 3-5 years (university/research institute) | $0~$0 (Usually includes a salary or scholarship, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学硕士学位 | 德国大学 | 必备 | 基础资质，通常为研究或应用职位所需 |
-| 博士（自然科学博士） | 德国大学 | 可选 | 研究岗位或高级职位常见要求 |
-| 资质认证（Anerkennung） | 德国专业认证机构（如各州评审局） | 可选 | 第三国学历需认证，尤其受规管职位（如官方兽医相关） |
+| Master's degree in biology | German university | Required | Basic qualification, typically required for research or applied roles |
+| Doctorate (Doctor of Natural Sciences) | German university | Optional | Research positions or senior roles commonly require |
+| Qualification recognition (Anerkennung) | German professional certification bodies (e.g. state evaluation boards) | Optional | Qualifications from third countries need assessment, especially for regulated positions (e.g., official veterinarians). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,500。德国在生物多样性保护、生态研究及生物技术领域有持续需求，尤其公共研究机构和环保部门。但学术职位竞争激烈，工业界（如制药、农业生物技术）机会较多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,500. Germany has ongoing demand in biodiversity conservation, ecological research, and biotechnology, especially in public research institutions and environmental agencies. However, academic positions are competitive, with more opportunities in industry (e.g., pharmaceutical, agricultural biotech).
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$45,000 | 通常为科研助理或刚入职 |
-| 中级（4-9年） | $45,000~$60,000 | 博士后或应用研发 |
-| 高级（10年以上） | $60,000~$80,000 | 教授、实验室主管或工业界资深科学家 |
+| Median salary | $56,988 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$45,000 | Usually research assistants or just started employment |
+| Intermediate (4-9 years) | $45,000~$60,000 | Postdoctoral or applied R&D |
+| Senior (10+ years) | $60,000~$80,000 | Professor, laboratory director, or senior industry scientist |
+| average salary | $63,708 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从研究助理或博士后开始，可晋升为项目负责人、实验室主任或教授。也可转向应用领域，如环境咨询、生物技术研发或科学管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
+
+Usually start as research assistant or postdoctoral fellow, can progress to project leader, lab director, or professor. Also can transition to applied fields such as environmental consulting, biotech R&D, or science management.
+
+**Tasks most exposed to AI:**
+
+- Automated classification and preliminary analysis of large-scale wildlife monitoring data (e.g., camera trap image recognition)
+- Automated recording and organization of basic experimental data (e.g., behavioral observations, gene sequencing)
+- Literature review and information extraction; AI can quickly summarize relevant research findings.
+- Model building and statistical analysis, such as automatic fitting of population dynamics models
+- Generation of draft reports, AI can produce standardized descriptions from data
+
+**Where AI augments the role:**
+
+- Improve habitat assessment efficiency and accuracy through AI-driven remote sensing image analysis
+- Uses machine learning models to predict disease transmission pathways and assist in formulating intervention strategies.
+- Using natural language processing technology to quickly retrieve and integrate interdisciplinary literature
+- Using AI to simulate the impact of different management plans on populations to optimize decisions
+- Achieving more efficient field data collection through voice recognition and sensor technology
+
+**Human moat:**
+
+- Adaptive judgment and emergency response capabilities in field research
+- Communicate and coordinate conservation actions with local communities, policymakers, and other stakeholders
+- Intuitive understanding of complex ecosystem dynamics and interdisciplinary comprehensive insights
+- Subtle observation and interpretation in animal behavior research requiring long-term experience accumulation
+- Ethical decision-making and trade-offs in animal welfare (e.g., pros and cons of interventions)
+
+**Skills to build:**
+
+- Remote sensing and GIS spatial analysis (e.g., rasterio/geopandas in Python)
+- Machine learning and statistical modeling (e.g., caret in R or scikit-learn in Python)
+- Application of AI image/audio recognition tools (e.g., Wildbook, BirdNET)
+- Data visualization and communication (e.g., R Shiny, Tableau)
+- Field techniques (e.g., drone operation, biosensor deployment)
+- Scientific Writing and Interdisciplinary Collaboration Skills
+
+**Key growth areas:**
 
 - Biodiversity conservation
 - Biotechnology
@@ -63,68 +99,67 @@ Conducts research in animal biology, including taxonomy, behavior, ecology, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合具有硕士以上学位且年薪达到2025年阈值（约45,300欧元）的研究或研发岗位。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于具有认可学历的生物学专业人才，受雇于德国企业或研究机构。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国居留6个月寻找工作，需具备足够资金和学历认证。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for research or R&D positions requiring a master's degree or higher and an annual salary meeting the 2025 threshold (approximately €45,300). |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to biology professionals with recognized qualifications, employed by German companies or research institutions. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, requiring sufficient funds and qualification recognition. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologist (Zoology)？**
-- 热爱动物科学和生态研究，有耐心进行长期野外或实验室工作
-- 具备较强的分析和数据解释能力，愿意从事学术或研发工作
-- 希望在环保、生物技术或制药领域发展
-
-**谁不适合学Biologist (Zoology)？**
-- 不擅长学术写作和发表论文
-- 对重复性实验或长时间显微观察缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about animal science and ecological research, with patience for long-term fieldwork or lab work
+- Strong analytical and data interpretation skills, willing to engage in academic or R&D work
+- Aspiring to work in environmental protection, biotechnology, or pharmaceuticals
+
+**Who is not suited**
+- Not skilled in academic writing and publishing papers
+- Lacks patience for repetitive experiments or prolonged microscopic observation
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a German zoologist?**
+A: Junior positions around €38,000-45,000, mid-level around €45,000-60,000, and senior up to €60,000-80,000.
+
+**Q: As a third-country national, how can I immigrate to Germany as a biologist?**
+A: Requires a German-recognized degree (bachelor's/master's), passing qualification recognition, and finding a relevant job to apply for an EU Blue Card or skilled worker visa. Research positions typically require a PhD.
+
+**Q: What are the career development paths for zoologists in Germany?**
+A: Can progress from postdoc to professor in universities and research institutes; or engage in R&D or management in museums, environmental agencies, pharmaceutical companies. Can also shift to environmental consulting or science communication.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Biologist (Zoology)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a zoologist in Germany?**
-答：Entry-level positions earn about €38,000-45,000, mid-level €45,000-60,000, and senior roles up to €60,000-80,000.
-
-**问：How can a third-country national immigrate to Germany as a biologist?**
-答：You need a recognized degree (Bachelor/Master), possibly credential recognition (Anerkennung), a job offer, then apply for EU Blue Card or Skilled Worker Visa. Research positions often require a PhD.
-
-**问：What career paths are available for zoologists in Germany?**
-答：You can advance from postdoc to professor in academia, or work in museums, environmental agencies, pharmaceutical R&D, management, environmental consulting, or science communication.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

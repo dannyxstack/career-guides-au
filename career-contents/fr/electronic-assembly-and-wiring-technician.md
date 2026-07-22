@@ -1,61 +1,97 @@
-# Electronic Assembly and Wiring Technician（Electronic Assembly and Wiring Technician）职业分析 · FR
+# Electronic Assembly and Wiring Technician — career analysis · France
 
-**职业代码：H2605 – Electronic Assembly and Wiring Technician。**
+**Occupation code: H2605 (ROME)**
 
-Assembles electronic components, solders connections, and wires cables to ensure circuit boards and electronic devices meet specifications.
+Responsible for the assembly, soldering, and cable connection of electronic components, ensuring that circuit boards and electronic devices are assembled and tested according to specifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中（CAP/BEP） | 2年 | —（公立学校免费，注册费约100-200欧元） |
-| 高中会考+两年制（BTS） | 2年（BTS） | —（公立院校免学费，仅注册费） |
-| 学徒制（Apprentissage） | 1-2年 | —（企业承担学费，学徒获工资） |
+| Vocational High School (CAP/BEP) | 2 years | $0~$1,000 (Public schools are free, with registration fees of about 100-200 euros) |
+| High School Entrance Exam + Two-Year Program (BTS) | 2 Years (BTS) | $0~$1,500 (Public institutions offer tuition waiver, only the registration fee) |
+| Apprentissage | 1-2 years | $0~$0 (Enterprises cover tuition fees, and apprentices receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Électronicien | 法国教育部 | 必备 | 基础职业文凭，必须持有 |
-| BTS Systèmes numériques option électronique et communications | 法国教育部 | 可选 | 高级技术文凭，非强制但有利晋升 |
-| CQP Monteur-câbleur en électronique | CPNE（国家行业联合委员会） | 可选 | 行业证书，部分企业要求 |
-| Habilitations électriques | INRS | 必备 | 电气安全授权，根据工作内容强制 |
+| CAP Électronicien | French Ministry of Education | Required | Basic vocational diploma, mandatory |
+| Habilitations électriques | INRS | Required | Electrical safety authorization is enforced according to the work content |
+| BTS Systèmes numériques option électronique et communications | French Ministry of Education | Optional | Advanced technical diploma, non-mandatory but beneficial for promotion |
+| CQP Monteur-câbleur en électronique | CPNE (National Joint Commission for Industry) | Optional | Industry certificates, required by some companies |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。法国电子制造业稳定，航空航天、国防和工业电子领域持续需求。自动化趋势下，复杂手工装配岗位仍具竞争力。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 35,000. France's electronics manufacturing sector is stable, with sustained demand in aerospace, defense, and industrial electronics. Under the trend of automation, complex manual assembly positions remain competitive.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含团队管理职责 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, including team management responsibilities |
+| average salary | $27,252 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级装配工晋升为高级技术员、团队主管或质量检验员。通过职业培训可转向电子设计或测试工程。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
+
+Junior assemblers can be promoted to senior technicians, team leaders, or quality inspectors. Through vocational training, you can transition to electronic design or test engineering.
+
+**Tasks most exposed to AI:**
+
+- Manual soldering and component insertion of PCB boards
+- Repetitive wiring and bundling of harnesses
+- Fixed-rule-based circuit function testing
+- Visual inspection of product appearance
+- Material handling and simple sorting
+
+**Where AI augments the role:**
+
+- Use AI vision systems for high-precision component positioning and assembly guidance.
+- Use data analytics to predict equipment failures and optimise maintenance schedules
+- Simulates and tunes complex electronic systems using digital twins.
+- Use smart tools for real-time quality feedback and adjustments
+- AI-based production line scheduling optimization and resource allocation
+
+**Human moat:**
+
+- Flexible adjustments for non-standard or high-precision manual assembly
+- on-site diagnosis and creative resolution of complex faults
+- Team collaboration and cross-process communication coordination
+- Small-batch manual prototyping for new product trials
+- Comply with safety protocols and handle emergencies
+
+**Skills to build:**
+
+- Industrial robot programming and maintenance
+- Basic operation of PLC/SCADA systems
+- AI fundamentals and machine learning introduction
+- Data analysis tools (e.g., Python/Pandas)
+- IoT and integrated systems knowledge
+- Lean production and continuous improvement methods
+
+**Key growth areas:**
 
 - Electronics Manufacturing
 - Aeroelectronics
@@ -64,68 +100,67 @@ Assembles electronic components, solders connections, and wires cables to ensure
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需法国雇主工作合同，符合紧缺职业可简化流程，薪资需达最低工资1.5倍左右。 |
-| Subclass Passeport Talent（Passeport Talent (EU Blue Card equivalent)） | 针对高技能人才，年薪需达法国平均工资2倍（约53,000欧元+），本职业通常不达标。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需大学学历或同等经验，年薪达53,000欧元+，本职业较少申请。 |
+| Subclass Salarié (Salarié (Work Permit)) | A work contract with a French employer is required; if the occupation meets the criteria for shortage occupations, the process can be simplified, and the salary must be about 1.5 times the minimum wage. |
+| Subclass Passeport Talent (Passeport Talent (EU Blue Card equivalent)) | For high-skilled talent, annual salary must reach twice the French average salary (about EUR 53,000+), which this occupation typically does not meet. |
+| Subclass Carte bleue UE (EU Blue Card) | University degree or equivalent experience required, annual salary of 53,000+ euros, with few applications for this occupation. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electronic Assembly and Wiring Technician？**
-- 细心、动手能力强，喜欢精细操作的人
-- 对电子电路有浓厚兴趣的人
-- 愿意通过职业培训不断提升技能的人
-
-**谁不适合学Electronic Assembly and Wiring Technician？**
-- 不擅长重复性手工操作的人
-- 对电子技术无基本理解的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, strong hands-on skills, and someone who enjoys fine operations
+- People with a strong interest in electronic circuits
+- People willing to continuously improve their skills through vocational training
+
+**Who is not suited**
+- People who are not good at repetitive manual operations
+- People with no basic understanding of electronic technology
+
+---
+
+## 8. FAQ
+
+**Q: Are the salaries of electronic assembly and wiring technicians competitive in France?**
+A: Starting salary approx. €22,000-26,000, above the French minimum wage (approx. €19,000), but overall low. Senior technicians can reach €32,000-40,000, comfortable in small to medium cities.
+
+**Q: How can third-country citizens immigrate to France to work in electronic assembly?**
+A: Common pathway is applying for a Salarié work visa; employer must demonstrate recruitment efforts. This occupation is in shortage, allowing simplified application. Qualifications must be accredited or proven through professional experience.
+
+**Q: What career development paths are available for electronic assemblers?**
+A: Promotion can be made to Senior Technician, Team Leader, Quality Controller, or transition to Electronic Design and Test Engineer (additional training required).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Electronic Assembly and Wiring Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary competitive for an electronic assembly and wiring technician in France?**
-答：Starting salary is around €22,000-26,000, above the minimum wage (€19,000), but generally modest. Senior technicians can earn €32,000-40,000, providing a comfortable living in smaller cities.
-
-**问：How can a third-country national immigrate to France for electronic assembly work?**
-答：Common route is the Salarié work permit, requiring employer sponsorship and proof of recruitment efforts. As a shortage occupation, the process may be simplified. Qualifications need recognition or experience validation.
-
-**问：What career paths are available for electronic assemblers?**
-答：They can advance to senior technician, team leader, quality control, or move into electronic design/testing engineering with additional training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

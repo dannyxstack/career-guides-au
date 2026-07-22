@@ -1,62 +1,96 @@
-# Supervisor of Soft Materials Workshop or Team（Supervisor of Soft Materials Workshop or Team）职业分析 · FR
+# Supervisor of Soft Materials Workshop or Team — career analysis · France
 
-**职业代码：H2505 – Supervisor of Soft Materials Workshop or Team。**
+**Occupation code: H2505 (ROME)**
 
-Manages a team in a soft materials workshop (textiles, leather, plastic films), coordinating daily operations, quality control, and production planning to ensure efficiency and safety.
+Responsible for managing the team in the soft materials (such as textile, leather, plastic film) production workshop, coordinating daily operations, quality control, and production planning to ensure efficiency and safety.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 或 BEP | 2年 | —（公立学校免费，仅注册费；学徒制有薪酬） |
-| BTS 工业或纺织管理 | 2年（BTS） | —（公立免费，私立高；可学徒） |
-| Licence Pro 生产管理 | 3年（licence） | —（公立大学免费，私立商学院约5000€/年） |
+| CAP or BEP | 2 years | $0~$5,000 (Public schools are free, only the registration fee is required; Apprenticeships are paid) |
+| BTS Industrial or Textile Management | 2 Years (BTS) | $0~$10,000 (Public schools are free, private ones are high-rate; and can be apprentices) |
+| Licence Pro Production Management | 3 years (licence) | $0~$15,000 (Public universities are free; private business schools cost approximately €5,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 团队主管 | 法国纺织行业职业认证委员会 | 可选 | 行业认证，非强制但受雇主认可 |
-| BTS 工业产品管理 | 法国教育部 | 可选 | 常见相关文凭，非强制 |
-| 安全与合规证书（如 SST） | 法国劳工部认可机构 | 必备 | 部分公司要求具备急救与安全培训 |
+| Safety and compliance certificates (such as SST) | Recognized by the French Ministry of Labor | Required | Some companies require first aid and safety training |
+| CQP Team Leader | French Textile Industry Professional Certification Board | Optional | Industry certification, not mandatory but recognized by employers |
+| BTS Industrial Product Management | French Ministry of Education | Optional | Common related diplomas, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国软材料制造业（纺织、服装、皮革）面临技术工人短缺，数字化转型与自动化升级推动对复合型主管的需求。就业前景稳定，但受行业外包影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's soft materials manufacturing industry (textiles, garments, leather) faces a shortage of skilled workers, and digital transformation and automation upgrades are driving demand for composite supervisors. Job prospects are stable but affected by industry outsourcing.
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含奖金 |
-| 中级（4-7年） | $30,000~$35,000 | 税前年薪，视公司规模 |
-| 高级（8年以上） | $36,000~$45,000 | 税前年薪，含管理津贴 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (4-7 years) | $30,000~$35,000 | Pre-tax annual salary, depending on company size |
+| Senior (8+ years) | $36,000~$45,000 | Pre-tax annual salary, including management allowance |
+| average salary | $31,784 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从技工晋升为组长、车间主管，再至生产经理或工艺工程师。需持续学习精益管理与新技术，未来可转向供应链或质量管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Supervisor roles suffer dual impacts from AI: some tasks like production scheduling and quality monitoring can be automated, but soft skills like team management, exception handling, and cross-departmental coordination are amplified by AI tools, necessitating a rebalancing of technical and human capabilities.
+
+You can be promoted from technician to team leader, workshop supervisor, and then to production manager or process engineer. Continuous learning of lean management and new technologies is necessary, with future shifts toward supply chain or quality management.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling optimization and automated dispatching based on historical data
+- Real-time quality data monitoring and automatic abnormality alarms
+- Automatic generation of production reports and key indicator dashboards
+- Employee attendance statistics and automatic working hours calculation
+
+**Where AI augments the role:**
+
+- Use AI to simulate the impact of different scheduling schemes on efficiency
+- Optimizing team collaboration and training focus through behavioral data analysis
+- Automatically compile daily production reports using natural language processing
+- Reduce the impact of equipment downtime on plans through predictive maintenance
+- Respond quickly to urgent customer orders based on real-time data
+
+**Human moat:**
+
+- Managing interpersonal conflicts and employee emotions
+- Subjective quality judgments are made under non-standard materials (such as natural leather defects).
+- Balancing personal relationships and interests in cross-departmental coordination (sales/procurement/maintenance).
+- Process parameters are adjusted based on tacit experience (such as seasonal characteristics of materials).
+
+**Skills to build:**
+
+- MES and scheduling system operation on production lines
+- Advanced Excel data analysis and Power BI visualization
+- Python or low-code tools implement simple automated scripts
+- Lean production and Six Sigma methodology
+- Basic project management and agile collaboration tools
+- Basic knowledge of intelligent sensors and predictive maintenance
+
+**Key growth areas:**
 
 - sustainable fashion
 - lean manufacturing
@@ -65,65 +99,67 @@ Manages a team in a soft materials workshop (textiles, leather, plastic films), 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，优先考虑欧盟公民 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能或创新项目，年薪要求≥36552€，需有硕士学历或5年经验 |
+| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, with priority given to EU citizens |
+| Subclass Passeport Talent (Talent Passport) | Applicable to high-skilled or innovative projects, with an annual salary requirement ≥ €36,552, requiring a master's degree or 5 years of experience |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Supervisor of Soft Materials Workshop or Team？**
-- 喜欢动手并愿意承担管理责任的人
-- 在纺织或皮革行业有技术经验者
-- 擅长沟通与组织协调的人
+**Who is suited**
+- People who enjoy hands-on work and are willing to take on management responsibilities
+- Those with technical experience in the textile or leather industry
+- Someone skilled in communication and organizational coordination
 
-**谁不适合学Supervisor of Soft Materials Workshop or Team？**
-- 厌恶重复性和高强度工作节奏的人
-- 不乐于处理人际关系与团队冲突的人
+**Who is not suited**
+- People who dislike repetitive and high-intensity work rhythms
+- People who are unwilling to handle interpersonal relationships and team conflicts
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a soft materials workshop supervisor?**
+A: Entry-level salary is about €24,000-28,000, intermediate salary is €30,000-35,000, and seniors can reach €45,000 (pre-tax annual salary).
+
+**Q: Can non-EU citizens apply for a French work visa for this position?**
+A: Feasible but difficult. This position is not considered a shortage occupation and requires employers to prove that suitable candidates cannot be recruited within the EU. You can try the Salarié or Passeport Talent visas.
+
+**Q: What educational qualifications are required to become a soft materials workshop supervisor?**
+A: Usually, a background in CAP/BEP technology is required, with BTS or Licence Pro having an advantage. Apprenticeships are a common pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisor of Soft Materials Workshop or Team属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a soft materials workshop supervisor?**
-答：Entry-level around €24,000-28,000, mid-level €30,000-35,000, senior up to €45,000 gross annual.
-
-**问：Can non-EU citizens apply for a French work visa for this occupation?**
-答：Possible but difficult. It's not a shortage occupation; employer must prove no suitable EU candidate. Options: Salarié or Passeport Talent.
-
-**问：What education is needed to become a soft materials workshop supervisor?**
-答：Typically CAP/BEP in technical field, BTS or Licence Pro preferred. Apprenticeship is common.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

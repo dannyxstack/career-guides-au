@@ -1,60 +1,96 @@
-# Agricultural Technical Engineer（Agricultural Technical Engineer）职业分析 · ES
+# Agricultural Technical Engineer — career analysis · Spain
 
-**职业代码：2424 – Agricultural Technical Engineer。**
+**Occupation code: 2424 (CNO)**
 
-Agricultural Technical Engineers design, supervise, and optimize agricultural production systems, including crop cultivation, livestock farming, agricultural mechanization, and rural water management, ensuring sustainability and efficiency.
+Agricultural technology engineers are responsible for designing, supervising, and optimizing agricultural production systems, including crop cultivation, livestock breeding, agricultural mechanization, and rural water resource management, ensuring sustainable development and production efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado en Ingeniería Agrícola） | $6,000~$12,000（公立大学年均约1500-3000欧元） |
-| 硕士（Máster） | 1-2年 | $4,000~$8,000（公立大学硕士年均约2000-4000欧元） |
+| Undergraduate (Grado) | 4 years (Grado en Ingeniería Agrícola) | $6,000~$12,000 (Average annual tuition at public universities is about €1,500-3,000.) |
+| Máster | 1-2 years | $4,000~$8,000 (A master's degree at a public university costs about 2,000-4,000 euros per year on average) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业工程本科学位 | 西班牙公立大学 | 必备 | Grado en Ingeniería Agrícola 或相关专业 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需进行学历认可 |
+| Bachelor's degree in Agricultural Engineering | Public universities in Spain | Required | Grado en Ingeniería Agrícola or related majors |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require recognition of academic credentials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙农业技术工程师需求稳定，受欧盟共同农业政策（PAC）和数字化转型推动。老龄化农业人口需要技术更新，预计岗位年增长2-3%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Demand for agricultural technology engineers in Spain remains stable, driven by the EU Common Agricultural Policy (PAC) and digital transformation. The aging agricultural population requires technological upgrades, with job growth expected to be 2-3% annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，可担任项目经理 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，包括技术总监或独立顾问 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $28,000~$35,000 | Pre-tax annual salary, available as project manager |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, including technical director or independent consultant |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径：初级工程师→项目经理→技术总监或独立咨询师。可向农业环境管理、生物技术或农业数字化方向专精，或进入科研与教学领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Agricultural technical engineers will greatly benefit from AI's capabilities in data analysis, predictive modeling, and automated monitoring, but field decision-making, multivariate integration, and cross-system coordination still depend on human judgment, with job responsibilities evolving toward technical consultants and system optimizers.
+
+Career paths: junior engineer→ project manager→ technical director, or independent consultant. You can specialize in agricultural environmental management, biotechnology, or agricultural digitalization, or enter research and teaching fields.
+
+**Tasks most exposed to AI:**
+
+- Routine crop growth monitoring and data recording
+- Irrigation and fertilization scheduling based on fixed parameters
+- Simple planning of agricultural machinery operation routes
+- Threshold alarms and basic regulation of aquaculture environment parameters
+- Repeat visual inspections in agricultural product quality inspection
+
+**Where AI augments the role:**
+
+- Multi-source data integration and decision support for precision agriculture
+- Construction and optimization of pest and disease and yield prediction models
+- Remote planning and monitoring of intelligent agricultural machinery and drone missions
+- Simulation and benefit evaluation of sustainable agricultural solutions
+- Technical solutions provide interactive visual reports to farmers or management
+
+**Human moat:**
+
+- Holistic diagnosis and intervention for complex farmland ecosystems
+- Communication and coordination with farmers, research teams, and regulatory agencies
+- Rapid decision-making in uncertain scenarios such as extreme weather or policy changes
+- Design and experimentation of innovative agricultural technologies (such as new planting models and biological control).
+- Responsibility for ethics, safety, and regulations (such as food safety and environmental compliance).
+
+**Skills to build:**
+
+- Python/R and Fundamentals of Agricultural Data Analysis
+- GIS and remote sensing data processing (such as QGIS, Google Earth Engine)
+- IoT sensor deployment and data pipeline construction
+- Application of machine learning modeling (scikit-learn, TensorFlow) in agriculture
+- Operation of precision agriculture platforms (such as Climate FieldView, Trimble Ag).
+- Interdisciplinary communication and project management
+
+**Key growth areas:**
 
 - Precision agriculture
 - Digital transformation
@@ -63,69 +99,68 @@ Agricultural Technical Engineers design, supervise, and optimize agricultural pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 受雇工作居留，需西班牙公司担保，通过劳动力市场测试。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 欧盟蓝卡，适合高技能专业人士，需大学学历和3年以上经验，工资门槛约33,000欧元。 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 高技能专业人才签证（Ley 14/2013），快速通道，适合管理层或技术专家。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires a sponsorship from a Spanish company and passes the labor market test. |
+| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled professionals, requiring a university degree and more than 3 years of experience, with a salary threshold of about 33,000 euros. |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | The High-Skilled Professional Visa (Ley 14/2013), a fast-track entry for management or technical experts. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Agricultural Technical Engineer？**
-- 对农业技术和可持续发展有热情的人
-- 喜欢户外工作与实地考察的工程师
-- 希望在西班牙乡村或农业企业工作的人
-
-**谁不适合学Agricultural Technical Engineer？**
-- 偏好城市生活和办公室工作的人
-- 不接受定期出差或季节性繁忙期的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about agricultural technology and sustainable development
+- Engineers who enjoy outdoor work and field visits
+- People who wish to work in rural or agricultural businesses in Spain
+
+**Who is not suited**
+- People who prefer city life and office work
+- Regular business trips or those during busy seasonal periods are not accepted
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for agricultural technology engineers?**
+A: Junior engineers earn about 22,000-28,000 euros annually, while senior engineers can earn up to 35,000-45,000 euros, depending on region and experience.
+
+**Q: How can non-EU citizens immigrate to Spain to work in agricultural technology engineering?**
+A: You can obtain employment residence (employer sponsorship required) or an EU Blue Card (requires education + experience + salary qualification). Academic qualifications must be certified by the Spanish Ministry of Education (Homologación).
+
+**Q: What are the career prospects for this occupation?**
+A: With growing demand for precision agriculture and sustainable development, the outlook is promising. You can be promoted to project manager, technical director, or independent consultant, or you can transition to research and development or teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Agricultural Technical Engineer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Agricultural Technical Engineers?**
-答：Entry-level engineers earn around €22,000-€28,000 per year, while senior engineers can reach €35,000-€45,000, depending on region and experience.
-
-**问：How can non-EU citizens migrate to Spain as an Agricultural Technical Engineer?**
-答：Options include an employed work permit (employer sponsorship) or EU Blue Card (degree + experience + salary threshold). Non-EU degrees require homologación.
-
-**问：What are the career prospects for this profession?**
-答：Good prospects due to precision agriculture and sustainability trends. Career path includes project manager, technical director, or consultant, with options for R&D or teaching.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

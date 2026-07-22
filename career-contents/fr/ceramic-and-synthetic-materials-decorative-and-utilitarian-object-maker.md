@@ -1,62 +1,97 @@
-# Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker（Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker）职业分析 · FR
+# Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker — career analysis · France
 
-**职业代码：B1201 – Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker。**
+**Occupation code: B1201 (ROME)**
 
-This occupation involves designing and handcrafting decorative items (e.g., vases, sculptures) and utilitarian objects (e.g., tableware, lamps) from ceramic and synthetic materials, including shaping, firing, glazing, and resin processing, typically in studios or small workshops.
+This profession involves designing and handcrafting ceramic and synthetic decorative items (such as vases and sculptures) and practical items (such as tableware and lighting). The work includes modeling, firing, glazing, and processing synthetic resins, commonly found in studios, small workshops, or the art and design field.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 陶瓷工艺 | 2年（CAP） | —（公立 CFA 免费，材料费自理） |
-| BTS 陶瓷设计 | 2年（BTS） | —（公立学校免学费，私立约5000欧/年） |
-| DNMADE 工艺设计 | 3年（DNMADE） | —（公立约500欧/年，私立可达8000欧/年） |
+| CAP ceramic craftsmanship | 2 years (CAP) | $0~$3,000 (Public CFA is free; materials are self-paid) |
+| BTS ceramic design | 2 Years (BTS) | $0~$5,000 (Public schools are free of tuition, while private ones pay about 5,000 euros per year) |
+| DNMADE process design | 3 years (DNMADE) | $0~$8,000 (Public about €500/year, private up to €8,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Art de la céramique | 法国教育部 | 可选 | 基础职业文凭，手工艺入门必备 |
-| BTS Design céramique | 法国教育部 | 可选 | 高级技术文凭，提升设计能力 |
-| DNMADE Mention Céramique | 法国高等教育部 | 可选 | 国家工艺设计文凭，适用于自主创业 |
+| CAP Art de la céramique | French Ministry of Education | Optional | Basic vocational diploma, essential for beginner crafts |
+| BTS Design céramique | French Ministry of Education | Optional | Advanced technical diplomas to enhance design capabilities |
+| DNMADE Mention Céramique | French Ministry of Higher Education | Optional | National Craft Design Diploma, suitable for independent entrepreneurship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 3,200。法国手工技艺类职业需求稳定，受益于“手工热”与环保消费趋势；但该领域竞争较激烈，从业者多为自由职业或小微企业，全职岗位有限。数字化与3D打印技术可能带来转型挑战。
+**Job demand: low (★★☆☆☆).** National workforce approx. 3,200. Demand for handicraft professions in France is stable, benefiting from the "craft craze" and eco-friendly consumption trends; However, competition in this field is fierce, with most practitioners being freelancers or small and micro enterprises, and full-time positions are limited. Digitalization and 3D printing technologies may bring transformative challenges.
 
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒出师或初级工坊助手 |
-| 中级（4-7年） | $28,000~$35,000 | 独立创作者或高级技师 |
-| 高级（8年以上） | $35,000~$45,000 | 知名工艺师或工作室主理人 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprentices or junior workshop assistants |
+| Mid-level (4-7 years) | $28,000~$35,000 | Independent creators or senior technicians |
+| Senior (8+ years) | $35,000~$45,000 | Renowned craftsmen or studio managers |
+| average salary | $28,776 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业发展通常从学徒或助手起步，积累技术后可独立创作并建立个人品牌；经验丰富者可晋升为工作室主管、工艺导师，或转向艺术总监、设计顾问等角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will assist with design generation and automate processes, but handcrafted creativity and unique tactile sensations are hard to replace; The entry barrier has been lowered due to the widespread adoption of AI tools, but the value of high-end customization has actually increased.
+
+Career development usually starts as an apprentice or assistant, and after accumulating skills, one can independently create and establish a personal brand; Experienced individuals can be promoted to studio supervisor, craft mentor, or move into roles such as art director or design consultant.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial shape and texture design concepts
+- Automatically calculates glaze ratio and sintering curve
+- Using AI for 3D product modeling and rendering
+- Repetitive handmade decoration (such as drawing regular patterns)
+
+**Where AI augments the role:**
+
+- AI-assisted design creativity is divergence and iterative optimization
+- AI is used to predict material shrinkage rate and firing performance
+- AI monitors kiln temperature in real time and automatically adjusts it
+- Customize products through AI analysis of user preferences
+- Preview the final effect of the work using AR/VR
+
+**Human moat:**
+
+- The unpredictable beauty of hand-improvisation and organic shapes
+- Sensory experience accumulation such as material tactile sensation and glaze color changes
+- Emotional communication and narrative design in client customization
+- Cross-material innovation integration (ceramics and metals, fabrics, etc.)
+- A deep understanding of cultural symbols and traditional crafts
+
+**Skills to build:**
+
+- Generative AI tool applications (such as Midjourney, DALL-E)
+- 3D modeling software (Blender, Rhinoceros)
+- Digital material simulation and data analysis
+- Cross-media storytelling and brand design
+- Sustainable materials research and circular design
+- Augmented reality (AR) display technology
+
+**Key growth areas:**
 
 - artisanat
 - made in France
@@ -65,65 +100,67 @@ This occupation involves designing and handcrafting decorative items (e.g., vase
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于在艺术、手工艺领域有突出才能或国际认可的外国人，需提供作品集和项目计划。 |
-| Subclass Salarié（Employee） | 若被法国工坊或企业聘用，可申请受雇工作居留，需雇主提供CDI合同并符合薪资要求。 |
-| Subclass Recherche emploi（Job Search） | 毕业生可申请一年期求职签证，寻找手工艺相关职位。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for foreigners with outstanding talent or international recognition in the fields of arts and crafts, who must provide portfolios and project plans. |
+| Subclass Salarié (Employee) | If employed by a French workshop or company, you can apply for employment-based residence, which requires the employer to provide a CDI contract and meet the salary requirements. |
+| Subclass Recherche emploi (Job Search) | Graduates can apply for a one-year job search visa to find handicraft-related positions. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker？**
-- 热爱手工创作、有耐心和精细动手能力的人
-- 追求艺术表达且愿意自主创业的工艺爱好者
+**Who is suited**
+- People who love handicrafts, are patient, and have delicate hands-on skills
+- Craft enthusiasts who pursue artistic expression and are willing to start their own businesses
 
-**谁不适合学Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker？**
-- 追求高薪与稳定就业的求职者
-- 不喜重复性手工劳动或灰尘环境的人
+**Who is not suited**
+- Job seekers seeking high salaries and stable employment
+- People who dislike repetitive manual labor or dusty environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of ceramic artisans?**
+A: Junior approx 22,000-28,000 EUR/year, mid-level approx 28,000-35,000 EUR/year, senior renowned artisan up to 45,000+ EUR, but income fluctuates greatly depending on personal brand and order volume.
+
+**Q: Can foreigners immigrate to France through this employment?**
+A: This occupation is not on the shortage list, and typically requires French communication skills and local qualifications. The Talent Passport (Passeport Talent) can demonstrate artistic ability, but success depends on portfolio quality.
+
+**Q: What career development paths are available for ceramic craftsmen?**
+A: You can grow from an apprentice to an independent craftsman, or transition to a design consultant, craft mentor, or open a studio. Some combine digital design or enter luxury brand product development departments.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ceramic and Synthetic Materials Decorative and Utilitarian Object Maker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of a ceramic artisan?**
-答：Entry-level around €22k-€28k/year, mid-level €28k-€35k/year, senior renowned artisans can earn above €45k, but income is variable based on personal brand and orders.
-
-**问：Can foreigners immigrate to France through this occupation?**
-答：It is difficult. This occupation is not on the shortage list, and usually requires French language skills and local qualifications. The Talent Passport may be an option if you can prove exceptional artistry, but success depends on portfolio quality.
-
-**问：What are the career development paths for a ceramic artisan?**
-答：Progress from apprentice to independent artisan, or move into design consultancy, craft teaching, or studio ownership. Some integrate digital design or join luxury brand product development teams.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

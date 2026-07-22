@@ -1,61 +1,96 @@
-# Upholsterer and Related Worker（Upholsterer and Related Worker）职业分析 · IE
+# Upholsterer and Related Worker — career analysis · Ireland
 
-**职业代码：7534 – Upholsterer and Related Worker。**
+**Occupation code: 7534 (ISCO08)**
 
-Makes, repairs and renovates upholstered furniture, vehicle seats and other soft coverings, including cutting, sewing and fitting padding.
+Make, repair, and reupholster soft coverings for furniture, vehicle seats, etc., including cutting, sewing, and filling materials.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 4年 | —（注册学徒通常无学费，雇主承担培训费用。） |
-| 高级证书（PLC） | 1-2年 | $1,000~$3,000（部分继续教育学院提供相关课程，年费约€1,000-3,000。） |
+| Apprenticeship | 4 years | $0~$500 (Registered apprentices usually have no tuition fees, with employers covering training costs.) |
+| Advanced Certificate (PLC) | 1-2 years | $1,000~$3,000 (Some continuing education institutions offer relevant courses, with annual fees around €1,000-3,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家学徒证书（家具装潢） | SOLAS / QQI | 必备 | 完成4年学徒制后获得，行业认可。 |
-| 安全与健康意识证书 | FETAC / QQI | 可选 | 基本安全培训，部分雇主要求。 |
-| 手动操作培训 | 认可培训机构 | 可选 | 涉及重物搬运，常见行业要求。 |
+| National Apprenticeship Certificate (Furniture Upholstery) | SOLAS / QQI | Required | Obtained upon completion of a 4-year apprenticeship, industry recognized. |
+| Safety and Health Awareness Certificate | FETAC / QQI | Optional | Basic safety training, required by some employers. |
+| Manual handling training | Registered Training Organisation (RTO) | Optional | Involves heavy lifting, common requirement in the industry. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。爱尔兰建筑与家具装修市场稳定，老龄化工人退休带来一定岗位空缺。但机械化程度提高，就业增长缓慢。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. The Irish construction and furniture fitting market is stable, with retirements among aging workers creating some job vacancies. However, increased mechanization is leading to slow employment growth.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 学徒毕业后起薪，视雇主而定。 |
-| 中级（4-7年） | $32,000~$40,000 | 有经验装潢师，熟练工标准。 |
-| 高级（8年以上） | $40,000~$50,000 | 高级技师或自主经营者，收入可更高。 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary after apprenticeship graduation depends on the employer. |
+| Mid-level (4-7 years) | $32,000~$40,000 | Experienced upholsterer, skilled worker standard |
+| Senior (8+ years) | $40,000~$50,000 | Senior technicians or self-employed individuals can earn higher incomes. |
+| average salary | $36,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 学徒出师后可在家具厂或汽车内饰店工作，经验丰富者可晋升为团队主管或自主创业开设装潢店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Furniture finishers face a medium-low automation risk, but AI-driven design tools and automated cutting equipment will compress entry-level positions while enhancing high-skilled work.
+
+After completing apprenticeship, graduates can work in furniture factories or auto interior shops. With experience, they can advance to team supervisor or start their own upholstery shop.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to generate patterns; AI can automatically optimize fabric layout to reduce waste
+- Automatic cutting machines cut fabric precisely based on digital patterns, replacing manual cutting
+- AI-assisted color and texture matching system, replacing manual sample comparison.
+- Inventory management: AI automatically tracks consumables and replenishes stock
+- Basic sewing tasks: robotic arm can perform straight-line stitching.
+
+**Where AI augments the role:**
+
+- AI design tools assist in quickly generating customized decoration plans, improving customer communication efficiency
+- 3D scanning and visualization tools help precisely measure furniture surfaces, improving upholstery fit
+- Augmented reality (AR) previews let clients see the final result before production, reducing rework
+- AI quality inspection system identifies sewing defects in real time, improving product consistency.
+
+**Human moat:**
+
+- Manual binding and shaping skills for complex curved and irregular furniture
+- Artistry of traditional hand embroidery and fine finishing
+- Keen judgment of customer preferences and style trends
+- Expertise in handling special materials (e.g., antique fabrics, leather)
+- Experience in flexible adjustment of furniture structures during on-site installation.
+
+**Skills to build:**
+
+- Use 3D modeling and design software like SketchUp and Rhino
+- Operate CNC equipment such as automatic cutters and computer sewing machines
+- Learn AI-driven textile visualization tools (e.g., VStitcher)
+- Master AR/VR customer presentation technology
+- Specializes in luxury finishes for yachts, private jets, high-end residences, etc.
+- Continuously learning about new eco-friendly and smart textile properties
+
+**Key growth areas:**
 
 - Furniture renovation
 - Custom upholstery
@@ -64,66 +99,68 @@ Makes, repairs and renovates upholstered furniture, vehicle seats and other soft
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需年薪≥€34,000（2025年标准）。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 该职业通常不列入紧缺清单，但若获认可可申请，年薪≥€38,000。 |
-| Subclass EU Blue Card（EU Blue Card） | 需高等教育学历及年薪≥€43,000，装潢师通常不满足。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-critical occupations, requires annual salary ≥ €34,000 (2025 standard). |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list, but if recognized, you can apply with an annual salary of ≥€38,000. |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher education degree and annual salary ≥ €43,000; decorators usually do not qualify. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Upholsterer and Related Worker？**
-- 喜欢手工制作、注重细节的人。
-- 愿意通过学徒制学习技能、动手能力强的人。
-- 有创业意向，希望未来开设个人工作室的人。
+**Who is suited**
+- People who enjoy handcrafting and pay attention to detail.
+- Willing to learn skills through apprenticeship, hands-on learners.
+- People with entrepreneurial intentions who hope to open a personal studio in the future.
 
-**谁不适合学Upholsterer and Related Worker？**
-- 对重复性体力劳动不耐受的人。
-- 希望快速获得高薪或高科技行业的人。
+**Who is not suited**
+- People intolerant of repetitive physical labor.
+- Individuals seeking high salary or high-tech industries quickly.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of interior decorators in Ireland?**
+A: Annual salary for junior upholsterers is approximately €24,000-30,000, mid-level €32,000-40,000, senior €40,000-50,000; self-employed may earn more.
+
+**Q: What are the pathways for a decorator to immigrate to Ireland?**
+A: This occupation is not on the Critical Skills List and typically requires a General Employment Permit, with a minimum annual salary of €34,000 and passing the Labour Market Test.
+
+**Q: How to become an Upholsterer in Ireland?**
+A: Primarily through a 4-year apprenticeship combining on-the-job training and classroom learning, certified by SOLAS and QQI. Entry is also possible through continuing education college courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Upholsterer and Related Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for upholsterers in Ireland?**
-答：Entry-level upholsterers earn €24,000-€30,000 per year, experienced €32,000-€40,000, and senior €40,000-€50,000; self-employed may earn more.
-
-**问：What migration pathways exist for upholsterers to Ireland?**
-答：This occupation is not on the Critical Skills list; typically a General Employment Permit is needed, requiring a salary ≥€34,000 and a labour market test.
-
-**问：How to become an upholsterer in Ireland?**
-答：Primarily through a 4-year apprenticeship combining on-the-job training and classroom learning, accredited by SOLAS and QQI. PLC courses are also an option.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

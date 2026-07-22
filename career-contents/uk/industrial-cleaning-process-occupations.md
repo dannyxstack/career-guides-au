@@ -1,60 +1,96 @@
-# Industrial cleaning process occupations（Industrial cleaning process occupations）职业分析 · UK
+# Industrial cleaning process occupations — career analysis · United Kingdom
 
-**职业代码：9131 – Industrial cleaning process occupations。**
+**Occupation code: 9131 (SOC)**
 
-Industrial cleaning process occupations clean manufactured goods, plant and machinery, industrial premises and building exteriors. This role has steady demand in UK manufacturing and industrial maintenance.
+Industrial cleaning process operators are responsible for cleaning manufactured goods, factory machinery, industrial sites, and building exteriors. This occupation has steady demand in the UK manufacturing and industrial maintenance sectors.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 短期培训 | 2周 | $200~$500（在职培训或短期课程，费用低） |
-| 学徒制 | 1-2年 | —（雇主资助的学徒项目，可能免费并有工资） |
+| Short-term training | 2 weeks | $200~$500 (On-the-job training or short courses, low cost) |
+| Apprenticeship | 1-2 years | $0~$1,000 (Employer-sponsored apprenticeship; may be free with a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业清洁操作员证书 | City & Guilds | 可选 | 证明工业清洁技能 |
-| 健康与安全资格证书 | IOSH | 必备 | 工作场所安全合规要求 |
+| Health and Safety Qualification | IOSH | Required | Workplace safety compliance requirements. |
+| Industrial cleaning operator certificate | City & Guilds | Optional | Demonstrate industrial cleaning skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 48,000。随着制造业复苏和工业设备维护需求增加，该职业就业前景稳定。自动化和机器人清洁技术可能影响部分岗位，但专业清洁技能仍受雇主青睐。
+**Job demand: medium (★★½☆☆).** National workforce approx. 48,000. With the recovery of manufacturing and increased demand for industrial equipment maintenance, the employment outlook for this occupation is stable. Automation and robotic cleaning technology may affect some positions, but professional cleaning skills remain valued by employers.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 新手或学徒级别 |
-| 中级（3-7年） | $22,000~$28,000 | 有经验的操作员 |
-| 高级（7年以上） | $28,000~$35,000 | 主管或专业清洁技师 |
+| Median salary | $27,306 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level or apprentice level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Experienced operator |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor or professional cleaning technician |
+| average salary | $29,118 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作员可通过积累经验晋升为高级清洁技师或团队主管，也可转向特定工业清洁领域（如食品级清洁、危险废物处理）以提升薪资和职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Industrial cleaning process operators face job changes due to AI and automation: repetitive cleaning tasks will be taken over by robots, but AI enhances process optimization, predictive maintenance, and remote monitoring, driving the role toward technical upgrading.
+
+Junior operators can advance to senior cleaning technician or team supervisor through experience, or move into specific industrial cleaning areas (e.g., food-grade cleaning, hazardous waste disposal) to increase salary and position.
+
+**Tasks most exposed to AI:**
+
+- Automated high-pressure cleaning of conveyor belt surfaces
+- Driverless scrubbing robots operating on factory floors
+- Chemical automatic mixing and spray system calibration
+- Visual detection and localization of stains on equipment surfaces
+- Automatic scheduling and dispatching of cleaning plans
+
+**Where AI augments the role:**
+
+- Uses AI to analyze cleaning effectiveness data and optimize process parameters.
+- Reducing Equipment Downtime through Predictive Maintenance
+- Remotely monitors multiple cleaning robots and intervenes in anomalies
+- Develop efficient cleaning routes and frequencies based on historical data
+- Using digital twin simulation of cleaning processes to improve efficiency
+
+**Human moat:**
+
+- Judgment and experience in handling complex stains or special materials
+- Ability to collaborate with production teams to adjust cleaning plans
+- Flexible operation in confined spaces or hazardous environments
+- On-site rapid diagnosis and repair of equipment failures
+- Familiarity with safety regulations and environmental compliance
+
+**Skills to build:**
+
+- Robot programming and maintenance (e.g., ABB, KUKA)
+- Industrial Internet of Things (IIoT) platform operation
+- Data analysis basics and visualization tools (e.g., Tableau)
+- Basic concepts and tools of predictive maintenance
+- Basics of digital twin software (e.g., Simulation)
+- Knowledge of green cleaning technologies and environmental certifications
+
+**Key growth areas:**
 
 - industrial cleaning
 - manufacturing
@@ -63,62 +99,64 @@ Industrial cleaning process occupations clean manufactured goods, plant and mach
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 此职业不在常规Skilled Worker担保职业清单上，雇主一般无法担保。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证持有者可在任何岗位工作，包括工业清洁。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the regular Skilled Worker sponsorship occupation list, and employers generally cannot sponsor it. |
+| Subclass Graduate (Graduate visa) | Graduate visa holders can work in any occupation, including industrial cleaning. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Industrial cleaning process occupations？**
-- 希望快速就业、无高学历要求的人
-- 偏好体力劳动和动手操作的人
-- 愿意接受轮班或加班工作的人
+**Who is suited**
+- People seeking quick employment with no high degree requirements
+- Prefer physical work and hands-on tasks
+- People willing to accept shift work or overtime
 
-**谁不适合学Industrial cleaning process occupations？**
-- 追求高薪资和职业声望的人
-- 对重复性清洁工作缺乏耐心的人
+**Who is not suited**
+- People seeking high salary and career prestige
+- For those who lack patience for repetitive cleaning tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an Industrial Cleaning Process Operator?**
+A: Entry-level annual salary around £18,000-22,000, mid-level £22,000-28,000, senior up to £28,000-35,000.
+
+**Q: Can this occupation immigrate to the UK through a work visa?**
+A: This occupation is usually outside the skilled work visa list, making employer sponsorship difficult. Graduates can work temporarily on a graduate visa, but long-term immigration pathways are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不利（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Industrial cleaning process occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of industrial cleaning process occupations?**
-答：Entry-level salary is around £18,000-22,000, mid-level £22,000-28,000, and senior £28,000-35,000 per year.
-
-**问：Can this occupation lead to a work visa for immigration to the UK?**
-答：This occupation is generally not on the skilled worker visa list, making employer sponsorship difficult. Graduate visa allows temporary work, but long-term migration options are limited.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Supervisor - Metal Surface Treatment（Supervisor - Metal Surface Treatment）职业分析 · DE
+# Supervisor - Metal Surface Treatment — career analysis · Germany
 
-**职业代码：2439 – Supervisor - Metal Surface Treatment。**
+**Occupation code: 2439 (KldB)**
 
-Oversees metal surface treatment operations (e.g., galvanizing, painting, anodizing), ensuring process compliance, quality standards, and workplace safety.
+Responsible for supervising operators on metal surface treatment (such as galvanizing, spraying, anodizing) production lines, ensuring process compliance, quality standards, and production safety.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无需学费，仅需少量材料费） |
-| 工业大师（Meister） | 1-2年（可兼职） | $3,000~$8,000（进修费用，可申请联邦资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Training is paid, usually no tuition fees, only small material costs) |
+| Industrial Master (Meister) | 1-2 years (can be part-time) | $3,000~$8,000 (Training costs, eligible for federal funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属表面处理技术员（Ausbildung） | 德国工商会（IHK） | 必备 | 完成双元制培训并结业考试 |
-| 工业大师（Meister） | IHK | 可选 | 晋升主管的常用资格，非强制但强烈推荐 |
+| Metal surface treatment technician (Ausbildung). | German Chamber of Commerce and Industry (IHK) | Required | Complete dual-system training and final examination |
+| Industrial Master (Meister) | IHK | Optional | Common qualifications for promotion to supervisor, not required but strongly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。德国工业4.0推进下，表面处理自动化需求上升，但熟练主管仍短缺，尤其在汽车及机械制造集群区域。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Under Germany's Industry 4.0, demand for surface treatment automation is rising, but skilled supervisors remain scarce, especially in automotive and machinery manufacturing clusters.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 刚完成培训或初级主管 |
-| 中级（3-7年） | $40,000~$48,000 | 有经验的主管 |
-| 高级（7年以上） | $50,000~$60,000 | 资深主管或持有Meister资格 |
+| Median salary | $42,936 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$38,000 | Newly trained or junior supervisors |
+| Mid-level (3–7 years) | $40,000~$48,000 | Experienced supervisor |
+| Senior (7+ years) | $50,000~$60,000 | Senior supervisor or holder of Meister qualification |
+| average salary | $45,792 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从技术工人晋升为工段主管，再升任生产经理或工艺优化专家；也可通过进修获得工业大师（Meister）资格。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The job of a metal surface finishing supervisor has mixed prospects: management tasks like production scheduling and quality inspection are enhanced by AI, but tasks like process parameter monitoring and logging face high automation risk.
+
+Can advance from skilled worker to section supervisor, then to production manager or process optimization specialist; can also obtain Industrial Master (Meister) qualification through further training.
+
+**Tasks most exposed to AI:**
+
+- Manual recording of process parameters and production data
+- Visual inspection of surface quality defects
+- Regularly inspect production line status
+- Manually adjust bath composition and temperature
+
+**Where AI augments the role:**
+
+- Real-time surface defect detection using AI vision systems
+- Optimizing equipment downtime through predictive maintenance algorithms
+- Adjusting process parameters using digital twin simulation
+- Use AI scheduling tools to optimize production scheduling
+
+**Human moat:**
+
+- Handle sudden equipment failures and process anomalies
+- Cross-shift coordination and personnel management
+- Safety regulation supervision and emergency response
+- Flexible process adjustment decisions for non-standard orders
+
+**Skills to build:**
+
+- Data analysis and visualization skills
+- Operation and interpretation of AI monitoring systems
+- Basic knowledge of automated equipment maintenance
+- Lean production and process optimization methods
+- Digital twin and MES system applications
+- communication and team management skills
+
+**Key growth areas:**
 
 - Industry 4.0
 - automation
@@ -63,64 +96,66 @@ Oversees metal surface treatment operations (e.g., galvanizing, painting, anodiz
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfte)） | 需德国认可的学历或职业资格，雇主担保，紧缺职业优先 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需具备相关培训及语言能力 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfte)) | Requires a German-recognized degree or professional qualification, employer sponsorship, priority for shortage occupations |
+| Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek employment, requires relevant training and language skills |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Supervisor - Metal Surface Treatment？**
-- 喜欢动手操作、注重质量与安全的人
-- 有技术背景并希望转向管理岗位者
+**Who is suited**
+- People who like hands-on work, focus on quality and safety
+- Those with a technical background who wish to transition to management roles
 
-**谁不适合学Supervisor - Metal Surface Treatment？**
-- 对化学制剂或金属粉尘敏感者
-- 不适应倒班和生产线压力者
+**Who is not suited**
+- Those sensitive to chemical agents or metal dust
+- Those not suited to shift work and production line pressure
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for metal surface treatment supervisors?**
+A: Annual salary in Germany approx. EUR 32,000-60,000 (pre-tax), depending on experience, region, and whether holding a Master Craftsman certificate.
+
+**Q: How can third-country nationals immigrate to Germany for this occupation?**
+A: Requires recognized vocational qualifications in Germany (e.g., dual system training) and a Skilled Worker visa through employer sponsorship. Language requirement is typically B1 German.
+
+**Q: What is the career progression path for this occupation?**
+A: Can progress from technician to supervisor, then through Meister training to become production manager or process specialist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisor - Metal Surface Treatment属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a metal surface treatment supervisor?**
-答：Annual gross salary in Germany ranges from €32,000 to €60,000, depending on experience, region, and Meister qualification.
-
-**问：How can third-country nationals migrate to Germany for this occupation?**
-答：Requires a recognized vocational qualification (e.g., dual training) and a job offer for a Skilled Worker visa. German B1 is usually required.
-
-**问：What is the career progression for this occupation?**
-答：From skilled worker to supervisor, then via Meister qualification to production manager or process specialist.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Floral Designers（Floral Designers）职业分析 · 美国
+# Floral Designers — career analysis · United States
 
-**职业代码：27-1023 – Floral Designers。**
+**Occupation code: 27-1023 (SOC)**
 
-Floral designers design, cut, and arrange live, dried, or artificial flowers and foliage for events, retail, and other settings.
+Floral designers design, cut, and arrange fresh, dried, or artificial flowers and foliage for weddings, events, retail, etc.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（基础教育） |
-| 花艺设计证书/副学士学位 | 1-2年 | $5,000~$20,000（社区学院或职业学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (Basic education.) |
+| Floral design certificate/associate degree | 1-2 years | $5,000~$20,000 (Community college or vocational school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 花艺设计证书 | 美国花艺设计协会(AIFD)等 | 可选 | 非强制但有助于就业 |
-| 花艺师认证 | 美国花艺设计师协会(CFD) | 可选 | 提升专业信誉 |
+| Floral design certificate | American Institute of Floral Designers (AIFD), etc. | Optional | Not mandatory but helpful for employment |
+| Florist certification | American Institute of Floral Designers (CFD) | Optional | Enhance professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 36,200。美国劳工统计局预计2022-2032年该职业就业增长约6%，与平均水平相当。活动需求稳定，但自动化影响有限。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 36,200. The U.S. Bureau of Labor Statistics projects about 6% employment growth for this occupation from 2022-2032, similar to the average. Event demand is stable, but automation impact is limited
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 学徒或助理岗位 |
-| 中级（3-6年） | $32,000~$42,000 | 独立设计师 |
-| 高级（6年以上） | $42,000~$58,000 | 首席设计或花店经理 |
+| Median salary | $37,360 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Apprentice or assistant positions |
+| Mid-level (3–6 years) | $32,000~$42,000 | Independent designer |
+| Senior (6+ years) | $42,000~$58,000 | Chief designer or flower shop manager |
+| average salary | $39,520 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 初级花艺师可晋升为高级设计师或花店经理，部分开设独立花店。持续学习花艺趋势和商业管理技能有助于发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI won't replace floral designers but will amplify their creativity and customization capabilities, enabling designers to generate plans more efficiently, manage inventory, and predict trends; core competitiveness shifts to artistic expression and experience design.
+
+Entry-level florists can advance to senior designers or shop managers, some open independent florists. Continuous learning of floral trends and business management skills helps development.
+
+**Tasks most exposed to AI:**
+
+- AI can automatically generate basic flower arrangement layouts and color schemes
+- Automated inventory management and flower freshness prediction.
+- AI-driven customer preference analysis and personalised recommendations
+- Unmanned online order processing and distribution scheduling
+- Batch generation of floral designs based on templates
+
+**Where AI augments the role:**
+
+- Use AI to generate creative mood boards, quickly exploring multiple design themes
+- Using AI to simulate flower decay cycles, optimizing preservation design of works
+- AI real-time analysis of wedding/event venues to assist space layout decisions
+- Automate customer communication records and contract generation through AI tools
+- Use AI trend predictions to adjust seasonal flower procurement strategies.
+
+**Human moat:**
+
+- Original artistic aesthetic and emotional expression ability
+- On-site hand molding and improvisation techniques
+- Deep understanding of plant ecology and flower language culture
+- Empathy with clients and ability to interpret non-standard requirements
+- Multi-sensory experience design (touch, smell, spatial awareness).
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Midjourney, DALL-E for generating floral arrangements)
+- Floral trend data analysis (scraping social media hotspots)
+- 3D modelling and rendering software (e.g., SketchUp, Blender)
+- Project management and customer relationship management (CRM) tools.
+- Knowledge of sustainable floral practices and eco-friendly materials
+- Online marketing and social media content creation.
+
+**Key growth areas:**
 
 - Event Planning
 - Sustainable Floristry
@@ -63,62 +99,64 @@ Floral designers design, cut, and arrange live, dried, or artificial flowers and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职位要求，雇主担保困难 |
-| Subclass O-1（O-1 Extraordinary Ability） | 极少数顶尖花艺师可申请，需证明卓越能力 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional job requirements; employer sponsorship is difficult |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only a very small number of top florists can apply, must demonstrate exceptional skills. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Floral Designers？**
-- 热爱花卉和植物
-- 有艺术审美和创造力
-- 细心且有耐心
+**Who is suited**
+- Love for flowers and plants.
+- Has artistic aesthetic and creativity
+- Careful and patient
 
-**谁不适合学Floral Designers？**
-- 对花粉过敏或不喜欢动手工作
-- 追求高薪和快速晋升
+**Who is not suited**
+- Allergic to pollen or dislikes hands-on work
+- Seeking high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a floral designer?**
+A: According to BLS, the median annual wage for floral designers in 2023 was about $33,000, with experienced designers earning over $50,000.
+
+**Q: Can a floral designer immigrate to the US on a work visa?**
+A: This occupation typically does not meet H-1B specialty occupation requirements, with limited immigration pathways. Unless an internationally recognized outstanding florist, may try O-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中短（★☆☆☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Floral Designers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for floral designers?**
-答：According to BLS, the median annual wage for floral designers in 2023 was about $33,000, with experienced designers earning over $50,000.
-
-**问：Can floral designers immigrate to the US via work visa?**
-答：This occupation rarely qualifies for H-1B specialty occupation visas. Only internationally recognized floral artists may apply for O-1 visas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

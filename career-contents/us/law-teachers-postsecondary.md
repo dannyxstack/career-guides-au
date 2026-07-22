@@ -1,59 +1,92 @@
-# Law Teachers, Postsecondary（Law Teachers, Postsecondary）职业分析 · 美国
+# Law Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1112 – Law Teachers, Postsecondary。**
+**Occupation code: 25-1112 (SOC)**
 
-Law teachers in postsecondary institutions instruct courses in law, often combining teaching with research to develop students' legal reasoning.
+Law professors teach law courses at higher education institutions, typically combining teaching and research to develop students' legal reasoning skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 法学博士（JD） | 3年 | $90,000~$200,000（学费因学校而异，前50名法学院学费高昂） |
-| 法学硕士（LLM）或博士学位 | 1-5年 | $30,000~$150,000（LLM通常1年，PhD可能需要更长） |
+| Juris Doctor (JD) | 3 years | $90,000~$200,000 (Tuition varies by school, with top 50 law schools having high tuition fees) |
+| Master of Laws (LLM) or doctoral degree | 1-5 years | $30,000~$150,000 (LLM typically takes 1 year, PhD may take longer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法学博士（JD） | 美国律师协会（ABA）认可法学院 | 必备 | 通常需JD学位才能进入法律教学领域 |
-| 律师执业资格 | 州律师协会 | 可选 | 虽非强制，但多数教授持有执业资格 |
-| 教学经验或学术发表 | 无固定机构 | 可选 | 高校通常要求教学经验或研究论文 |
+| Juris Doctor (JD) | American Bar Association (ABA)-accredited law school | Required | Usually requires a JD degree to enter legal teaching field |
+| Legal practice certification | State bar association | Optional | Although not mandatory, most professors hold professional licenses |
+| Teaching experience or academic publications | No fixed institution | Optional | Universities usually require teaching experience or research papers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 16,000。随着法学院入学率稳定及法律教育需求持续，法学教授岗位竞争激烈但稳定。预计未来十年增长率约 5%，慢于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 16,000. With stable law school enrollment and ongoing demand for legal education, law professor positions are competitive but stable. Projected growth of about 5% over the next decade, slower than average.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $60,000~$90,000 | 助理教授（非终身教职）年薪范围 |
-| 中级（5-15年） | $90,000~$140,000 | 副教授（终身或任期）年薪范围 |
-| 高级（15年以上） | $130,000~$200,000 | 正教授年薪范围 |
+| Median salary | $128,500 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $60,000~$90,000 | Assistant professor (non-tenure track) annual salary range |
+| Intermediate (5-15 years) | $90,000~$140,000 | Associate Professor (tenured or tenure-track) annual salary range |
+| Senior (15+ years) | $130,000~$200,000 | Annual salary range for full professors |
+| average salary | $144,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 通常从助理教授起步，晋升副教授、正教授；也可转向法学院行政职务或法律实务领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly change law professors' work, both replacing some tasks (e.g., basic legal research, draft review) and enhancing higher-level abilities (e.g., case analysis, simulation training), but core critical thinking, ethical judgment, and personalized guidance remain human strengths.
+
+Usually starts as an assistant professor, progressing to associate professor and full professor; can also transition to law school administrative roles or legal practice.
+
+**Tasks most exposed to AI:**
+
+- Basic legal research and summary generation: AI can quickly find case law and regulations and automatically summarize them
+- Initial grading of student assignments and marking of common errors: AI can identify formatting, citations, and basic logical errors.
+- Explanation of standardized legal document templates: AI can generate examples and provide basic explanations
+- Common legal Q&A: chatbots can handle basic questions students ask repeatedly
+
+**Where AI augments the role:**
+
+- Case analysis and debate training: AI simulated court or opposing counsel to enhance students' practical skills
+- Personalized learning path design: AI analyzes student weaknesses and pushes customized reading and exercises
+- Cross-disciplinary Legal Research: AI integrating economic and sociological data to assist interdisciplinary legal analysis
+- Teaching feedback and course improvement: AI analyses teaching videos and student evaluations to optimise teaching strategies
+
+**Human moat:**
+
+- Legal ethics and moral judgment: balancing complex conflicts of interest requires human value judgment
+- Critical thinking and innovation: creating new legal theories or interpretations that are difficult to replace by AI
+- Courtroom argumentation and improvisation skills: adaptability and persuasion in real scenarios
+- Teacher-student trust and mentorship: long-term guidance and career advice based on personal relationships
+
+**Skills to build:**
+
+- AI legal tools application: Learn to use platforms like Westlaw Edge and Lexis+ AI
+- Data-driven legal analysis: master Python/R for text mining and empirical research.
+- AI teaching design and evaluation: designing AI-integrated curricula and assessing their effectiveness
+- Critical AI literacy: identifying biases and limitations of AI-generated legal content
+- Interdisciplinary collaboration: working with scholars in computer science and sociology
+- Online education and blended teaching methods: effectively using AI teaching assistants and virtual classrooms
+
+**Key growth areas:**
 
 - legal education
 - online learning
@@ -62,68 +95,67 @@ Law teachers in postsecondary institutions instruct courses in law, often combin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 适用于高校教授，不受名额限制（cap-exempt），可全年申请 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适合有杰出学术成就的法学教授，无配额限制 |
-| Subclass EB-2（Employment-Based Second Preference (Advanced Degree)） | 基于PERM劳工证或NIW国家利益豁免，可申请绿卡 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Applicable to university professors; cap-exempt, can be applied for year-round |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | Suitable for law professors with outstanding academic achievements, no quota limit. |
+| Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Based on PERM labor certification or NIW national interest waiver, can apply for a green card. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Law Teachers, Postsecondary？**
-- 热爱法律研究与学术写作的人
-- 擅长公共演讲与课堂互动
-- 愿意从事终身教职路径的长期职业规划者
-
-**谁不适合学Law Teachers, Postsecondary？**
-- 不喜欢课堂教学或与学生互动
-- 追求高薪但不愿经历多年博士及助理教授阶段
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about legal research and academic writing
+- Skilled in public speaking and classroom interaction
+- Those willing to pursue a long-term career path on the tenure track
+
+**Who is not suited**
+- Dislike classroom teaching or interacting with students
+- Pursuing high salary but unwilling to go through years of PhD and assistant professor stage
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary for a law professor?**
+A: Junior assistant professor about $60,000-90,000, associate professor $90,000-140,000, full professor $130,000-200,000, top law schools higher.
+
+**Q: How can foreign law professors immigrate to the US?**
+A: Common pathway: H-1B cap-exempt visa (universities exempt from quota) → EB-2 or EB-3 green card. Also possible via O-1 visa for outstanding professors.
+
+**Q: What education is required to become a law professor?**
+A: Typically requires a JD degree, some require LLM or PhD. During internship, teaching or research experience must be accumulated.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Law Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a law professor?**
-答：Entry-level assistant professors earn $60,000-$90,000; associate professors $90,000-$140,000; full professors $130,000-$200,000, higher at top schools.
-
-**问：How can foreign law professors immigrate to the US?**
-答：Common path: H-1B cap-exempt (universities exempt from lottery) → EB-2 or EB-3 green card. O-1 visa for outstanding professors.
-
-**问：What education is needed to become a law professor?**
-答：Typically a JD degree; some require an LLM or PhD. Teaching or research experience during studies is beneficial.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Dental nurses（Dental nurses）职业分析 · UK
+# Dental nurses — career analysis · United Kingdom
 
-**职业代码：6133 – Dental nurses。**
+**Occupation code: 6133 (SOC)**
 
-Dental nurses assist dentists during procedures, prepare patients, sterilize instruments, and maintain patient records.
+Dental nurses assist dentists during treatments, handling patient preparation, instrument sterilization, and case records.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 国家高级证书（Level 3 Diploma） | 2年 | $6,000~$12,000（学费因院校而异，部分可通过学徒制免费学习） |
-| 学士学位（BSc Dental Nursing） | 3年 | $27,000~$45,000（国际学生学费更高，约£40,000-£60,000） |
+| National Advanced Certificate (Level 3 Diploma) | 2 years | $6,000~$12,000 (Tuition fees vary by institution; some can be studied for free through apprenticeships) |
+| Bachelor of Science in Dental Nursing | 3 years | $27,000~$45,000 (International student tuition is higher, approximately £40,000-£60,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙科护士注册（GDC注册） | General Dental Council (GDC) | 必备 | 必须在GDC注册才能执业 |
-| 国家高级证书（Level 3 Diploma in Dental Nursing） | City & Guilds / NEBDN | 必备 | 最普遍的入门资格 |
-| BSc Dental Nursing | 大学 | 可选 | 非强制，但有利于晋升 |
+| Dental nurse registration (GDC registration) | General Dental Council (GDC) | Required | Must be registered with GDC to practise |
+| National Advanced Certificate (Level 3 Diploma in Dental Nursing) | City & Guilds / NEBDN | Required | Most common entry qualification |
+| BSc Dental Nursing | University | Optional | Not mandatory, but beneficial for promotion. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 24,000。英国牙科护士需求稳定，受人口老龄化和口腔健康意识提升推动，NHS及私立诊所均有招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 24,000. Dental nurse demand in the UK is stable, driven by an aging population and increased oral health awareness. Both NHS and private clinics are hiring.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$23,000 | NHS Band 4 起薪 |
-| 中级（3-7年） | $24,000~$30,000 | 有经验的牙科护士 |
-| 高级（7年以上） | $30,000~$38,000 | 团队领导或高级执业者 |
+| Median salary | $25,742 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$23,000 | NHS Band 4 starting salary |
+| Mid-level (3–7 years) | $24,000~$30,000 | Experienced dental nurse |
+| Senior (7+ years) | $30,000~$38,000 | Team leader or senior practitioner |
+| average salary | $26,260 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级牙科护士晋升为高级牙科护士、团队领导或转向牙科卫生师、治疗师等专业角色。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dental nurses is mixed: administrative and documentation tasks will be significantly automated, but clinical assistance tasks still rely heavily on humans due to physical contact and fine motor skills, and AI-enhanced tools can improve work efficiency.
+
+Can progress from junior dental nurse to senior dental nurse, team leader, or specialize as a dental hygienist or therapist.
+
+**Tasks most exposed to AI:**
+
+- Patient appointment and schedule management.
+- Medical record documentation and archiving.
+- Instrument Inventory Tracking and Ordering
+- Basic Patient Inquiries (via Chatbot)
+- Insurance claims processing.
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic image analysis (e.g., X-ray preliminary screening)
+- Real-time speech-to-text recording of therapy sessions
+- Intelligent instrument disinfection tracking system.
+- Automated generation of patient education materials
+- Database retrieval and matching of treatment plans
+
+**Human moat:**
+
+- Direct empathetic communication and reassurance with patients
+- Precise manual handling and operation of instruments
+- On-the-spot judgment and adaptability in emergencies
+- Patient monitoring and repositioning requiring physical contact
+- Interpreting non-verbal signals in team collaboration
+
+**Skills to build:**
+
+- Use of dental imaging AI analysis tools.
+- Advanced operation of electronic health records systems
+- Digital patient management platform
+- Basic data analysis (quantifiable workflows)
+- Interdisciplinary communication and coordination skills
+- Habit of continuously learning AI tool updates
+
+**Key growth areas:**
 
 - Aging population
 - Increased dental awareness
@@ -62,68 +98,67 @@ Dental nurses assist dentists during procedures, prepare patients, sterilize ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的牙科护士，需满足薪资和英语要求 |
-| Subclass Health & Care（Health and Care Worker visa） | 为医疗保健专业人员设计，签证费更低，可携带家属 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生工作最多2年，可积累经验后转为技术工人签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable for dental nurses obtaining employer sponsorship, must meet salary and English language requirements |
+| Subclass Health & Care (Health and Care Worker visa) | Designed for healthcare professionals, lower visa fees, and can include family members. |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for up to 2 years, gaining experience before transitioning to a Skilled Worker visa |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dental nurses？**
-- 注重细节且有条理的人
-- 乐于在医疗环境中团队协作的人
-- 对患者有耐心和同理心的人
-
-**谁不适合学Dental nurses？**
-- 不善于处理医疗紧急情况的人
-- 工作节奏快，无法适应压力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and organized person
+- People who enjoy working collaboratively in a healthcare environment
+- Those with patience and empathy towards patients
+
+**Who is not suited**
+- People not adept at handling medical emergencies
+- Fast-paced work, unsuitable for those who cannot handle stress
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dental nurses?**
+A: Junior dental nurse annual salary: approximately £18,000-£23,000; senior can rise to £30,000-£38,000, potentially higher in private clinics.
+
+**Q: How can overseas dental nurses migrate to the UK?**
+A: Can apply through Health and Care Worker visa, requiring employer sponsorship and GDC registration. This visa has low application fees and allows accompanying family members.
+
+**Q: What are the career development paths for dental nurses?**
+A: Can advance from clinical nurse to senior dental nurse, team leader, or through additional training to become a dental hygienist or dental therapist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Dental nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for dental nurses?**
-答：Entry-level dental nurses earn around £18,000-£23,000, while senior nurses can earn £30,000-£38,000, with private practices potentially offering more.
-
-**问：How can overseas dental nurses migrate to the UK?**
-答：They can apply for a Health and Care Worker visa, requiring employer sponsorship and GDC registration. This visa has lower fees and allows family accompaniment.
-
-**问：What are the career progression options for dental nurses?**
-答：Dental nurses can advance to senior roles, team leadership, or pursue further training to become dental hygienists or therapists.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

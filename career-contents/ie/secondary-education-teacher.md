@@ -1,59 +1,95 @@
-# Secondary Education Teacher（Secondary Education Teacher）职业分析 · IE
+# Secondary Education Teacher — career analysis · Ireland
 
-**职业代码：2330 – Secondary Education Teacher。**
+**Occupation code: 2330 (ISCO08)**
 
-Secondary education teachers in Ireland instruct students aged 12-18, covering junior and senior cycle, including general, vocational, and special education.
+Secondary school teachers in Ireland teach students aged 12 to 18, covering junior and senior high school curricula, including general, vocational, and special education.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | —（爱尔兰/欧盟学生学费由国家资助，仅需支付学生贡献费（约3000欧元/年）。非欧盟学生学费约1-2万欧元/年。） |
-| 硕士（职业教育） | 1-2年 | $6,000~$20,000（非欧盟学生学费较高，但部分奖学金可用。） |
+| Bachelor's degree | 4 years | $0~$3,000 (Irish/EU student tuition is state-subsidised, only a student contribution fee (approx. €3,000/year) is required. Non-EU tuition is approx. €10,000–20,000/year.) |
+| Master's (Vocational Education) | 1-2 years | $6,000~$20,000 (Higher tuition fees for non-EU students, but some scholarships are available.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册教师 | Teaching Council of Ireland | 必备 | 所有中学教师必须在Teaching Council注册，持有认可的教育学位或研究生文凭。 |
-| 语言能力证明 | 相关机构 | 必备 | 非英语母语者需提供英语能力证明（如IELTS 7.0）。 |
-| 爱尔兰语能力 | Teaching Council | 可选 | 多数中学要求教师通过爱尔兰语考试（除非豁免）。 |
+| Registered teacher | Teaching Council of Ireland | Required | All secondary school teachers must register with the Teaching Council and hold a recognised education degree or postgraduate diploma. |
+| Language proficiency proof | Relevant institutions. | Required | Non-native English speakers must provide proof of English proficiency (e.g., IELTS 7.0). |
+| Irish language ability | Teaching Council | Optional | Most secondary schools require teachers to pass an Irish language exam (unless exempt). |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。爱尔兰中学教师需求稳定，受人口增长和教师退休影响，部分学科（如数学、科学、爱尔兰语）短缺。政府推行招聘激励，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Demand for secondary school teachers in Ireland is stable, with shortages in subjects like math, science, and Irish due to population growth and teacher retirements. Government recruitment incentives are in place, offering good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 根据薪资等级表，新教师起薪约3.5万欧元。 |
-| 中级（4-10年） | $45,000~$55,000 | 随经验增长，薪资逐步提升。 |
-| 高级（10年以上） | $60,000~$75,000 | 高级教师或管理岗位可达更高。 |
+| Median salary | $50,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$42,000 | According to the salary scale, starting salary for new teachers is about €35,000. |
+| Mid-level (4-10 years). | $45,000~$55,000 | Salary gradually increases with experience. |
+| Senior (10+ years) | $60,000~$75,000 | Senior teacher or management positions can reach higher. |
+| average salary | $52,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 新教师通常从临时合同开始，积累经验后可获得永久职位。晋升路径包括学科带头人、年级主任、副校长、校长，或转向教育政策与培训。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
+
+New teachers usually start on temporary contracts and can obtain permanent positions after gaining experience. Career progression paths include subject lead, grade coordinator, deputy principal, principal, or moving into education policy and training.
+
+**Tasks most exposed to AI:**
+
+- Grading Standardized Assignments and Exam Papers (AI Auto-Grading System)
+- Generating teaching materials and lesson plans (AI auto-generates from outlines)
+- Record student attendance and grades (AI-automated data entry)
+- Answering common knowledge-based questions (AI chatbots or intelligent teaching assistants)
+- Write routine reports (AI template generation)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes learning status to recommend differentiated content)
+- Classroom interaction and differentiated instruction (AI provides real-time feedback and grouping suggestions)
+- Creative instructional design (AI-generated cases, gamification elements, and interdisciplinary materials)
+- Student emotion and behaviour monitoring (AI analysis of classroom video or text records)
+- Parent Communication and Collaboration (AI-generated report summaries and communication suggestions)
+
+**Human moat:**
+
+- Face-to-face emotional connection and trust building
+- Complex Classroom Management (unexpected behaviors, group dynamics)
+- Values guidance and critical thinking cultivation
+- Adjust teaching pace and strategies based on real-time contexts
+- Empathy and individualized tutoring for students with special needs
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., automatic question generation, learning analytics platforms)
+- Data literacy (interpreting learning analytics reports)
+- Hybrid teaching design (blended online and offline courses)
+- Social-Emotional Learning (SEL) Facilitation Skills
+- Programming and AI fundamentals (understanding technical principles for integration)
+- Interdisciplinary curriculum design skills
+
+**Key growth areas:**
 
 - Secondary Education
 - STEM Teacher Shortage
@@ -62,68 +98,67 @@ Secondary education teachers in Ireland instruct students aged 12-18, covering j
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非欧盟教师，需获得工作offer且薪资不低于3.4万欧元。配额有限。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 针对紧缺学科（如数学、科学）教师，要求薪资达3.2万欧元，可快速转永居。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能教师，薪资需达4.3万欧元（2024年标准）。 |
+| Subclass General Employment P (General Employment Permit) | Applies to non-EU teachers; requires a job offer with a salary of at least 34,000 euros. Limited quotas. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | targeting teachers in shortage subjects (e.g., math, science), requiring salary of €32,000, fast track to permanent residency |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled teachers, salary must reach €43,000 (2024 standard). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secondary Education Teacher？**
-- 热爱教学与青少年发展
-- 具备耐心与沟通能力
-- 愿意持续学习专业发展
-
-**谁不适合学Secondary Education Teacher？**
-- 不擅长公开演讲或管理课堂
-- 不适应行政工作与校外活动
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and youth development
+- Possesses patience and communication skills.
+- Willingness to pursue ongoing professional development
+
+**Who is not suited**
+- Not adept at public speaking or classroom management
+- Not suited to administrative work and off-campus activities
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for secondary school teachers in Ireland?**
+A: Starting salary around 35,000 euros/year, up to 75,000 euros/year, above the national average.
+
+**Q: How can non-EU teachers immigrate to Ireland?**
+A: Must go through the teacher registration process and obtain a work permit. Shortage subjects can apply for a Critical Skills Permit, which allows permanent residency after 2 years.
+
+**Q: Are overseas education degrees recognized?**
+A: Must be assessed by Teaching Council, may require supplementary courses or exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Secondary Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for secondary teachers in Ireland?**
-答：Starting salary is around €35,000 per year, rising to €75,000 with experience.
-
-**问：How can non-EU teachers migrate to Ireland?**
-答：You must register with the Teaching Council and obtain a work permit. Critical skills subjects qualify for a Critical Skills Permit, leading to permanent residence after 2 years.
-
-**问：Are overseas education degrees recognized?**
-答：They must be assessed by the Teaching Council; additional courses or exams may be required.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

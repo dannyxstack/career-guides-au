@@ -1,58 +1,91 @@
-# Wood-based Material and Component Production Worker（Wood-based Material and Component Production Worker）职业分析 · DE
+# Wood-based Material and Component Production Worker — career analysis · Germany
 
-**职业代码：2232 – Wood-based Material and Component Production Worker。**
+**Occupation code: 2232 (KldB)**
 
-Produces wood-based materials and components, operating sawing, pressing, and sanding machines to ensure product quality and safe production processes.
+Involved in production and processing of wood-based panels and engineered wood materials, operating sawing, pressing, sanding equipment, ensuring product quality and production safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（培训期间有津贴，公立职业学校通常免费） |
-| 进修技师（Meister） | 1-2年（可兼职） | $3,000~$10,000（费用因学校和地区而异，可申请联邦资助） |
+| Vocational training (dual system) | 3 years | $0~$500 (Allowance during training; public vocational schools are usually free) |
+| Advanced technician (Meister) | 1-2 years (can be part-time) | $3,000~$10,000 (Fees vary by school and region; federal funding may be available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材技术方向职业培训证书 | 德国工商业行会（IHK）或手工业行会（HWK） | 必备 | 完成3年双元制培训后获得 |
-| 技师（Meister）证书 | HWK或IHK | 可选 | 非必须，但利于晋升和管理岗位 |
+| Vocational training certificate in wood technology | German Chamber of Industry and Commerce (IHK) or Chamber of Crafts (HWK) | Required | Awarded after completing a 3-year dual system training |
+| Meister certificate | HWK or IHK | Optional | Not mandatory, but beneficial for promotion and management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。德国建筑业和家具制造业稳定发展，对木质材料需求持续。自动化和数字化提升生产效率，但技术工人仍紧缺，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Germany's construction and furniture manufacturing industries are developing steadily, with sustained demand for wood materials. Automation and digitalization improve production efficiency, but skilled workers remain in short supply, offering good job prospects.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，按集体合同浮动 |
-| 中级（3-7年） | $35,000~$45,000 | 含技能津贴和班次补贴 |
-| 高级（7年以上/技师） | $45,000~$55,000 | 担任主管或技师职位 |
+| Median salary | $38,928 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Gross annual salary, varies according to collective agreement |
+| Mid-level (3–7 years) | $35,000~$45,000 | Including skill allowance and shift allowances |
+| Senior (7+ years / Technician). | $45,000~$55,000 | Serve in a supervisor or technician role |
+| average salary | $40,872 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从生产操作员起步，可晋升为生产线主管或技术专家，也可通过进修转向质量管理或生产技术规划岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
+
+Starting as a production operator, you can advance to production line supervisor or technical specialist, or transition to quality management or production technology planning roles through further study.
+
+**Tasks most exposed to AI:**
+
+- AI automatically adjusts cutting parameters and paths, reducing manual setup.
+- Machine vision automatically detects wood defects, replacing manual visual inspection.
+- AI optimizes layout and cutting plans, reducing manual planning
+- Automatic tool changing and loading systems, replacing repetitive operations.
+
+**Where AI augments the role:**
+
+- AI-assisted generation of CNC machining programs to reduce programming time
+- Real-time monitoring of tool wear with alerts, improving machining quality and lifespan
+- AI simulates machining processes to optimise cutting parameters and reduce waste
+- Predictive maintenance analysis to reduce downtime
+
+**Human moat:**
+
+- Process non-standard wood components or complex custom machining
+- On-site debugging and troubleshooting of sudden mechanical failures
+- Experienced judgment of wood texture and performance
+- Implementation of safety procedures and emergency response
+
+**Skills to build:**
+
+- CNC programming and operation (e.g., G-code)
+- Computer-aided manufacturing (CAM) software
+- Basic Python or scripting language
+- Mechanical maintenance and fault diagnosis
+- Quality inspection and data analysis
+- Digital twin and simulation software
+
+**Key growth areas:**
 
 - Wood Construction
 - Automation
@@ -61,68 +94,67 @@ Produces wood-based materials and components, operating sawing, pressing, and sa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 完成德国认可的职业培训即可申请，无需紧缺职业列表 |
-| Subclass EU Blue Card（EU Blue Card） | 若拥有高等教育学历且薪资达到门槛（2025年约43,800欧元）可申请，此职业薪资通常较低，难度较大 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，可用于找工作和资质认证过渡 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Completion of a recognized vocational training program in Germany is sufficient to apply, without the need for a shortage occupation list |
+| Subclass EU Blue Card (EU Blue Card) | If you have a higher education degree and a salary meeting the threshold (approx. €43,800 in 2025), you can apply. This occupation typically has lower salaries, making it more difficult. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, can be used for job seeking and qualification certification transitions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood-based Material and Component Production Worker？**
-- 喜欢动手操作和机械加工
-- 对木材和家具制造感兴趣
-- 愿意接受3年双元制职业培训
-
-**谁不适合学Wood-based Material and Component Production Worker？**
-- 不习惯体力劳动和车间环境
-- 追求高薪和快速晋升
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work and machining
+- Interested in wood and furniture manufacturing.
+- Willing to undergo 3-year dual vocational training
+
+**Who is not suited**
+- Not accustomed to manual labor and workshop environment
+- Seeking high salary and fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this occupation?**
+A: Entry-level approx. €28,000–35,000, mid-level €35,000–45,000, technician or supervisor up to €55,000.
+
+**Q: How can non-EU immigrants enter this occupation?**
+A: Usually requires completing German dual vocational training or applying for qualification recognition (Anerkennung). The opportunity card (Chancenkarte) can be used for job search and transition.
+
+**Q: What certificates are needed?**
+A: Must complete recognized wood technology vocational training (IHK/HWK certificate). Meister is not mandatory but beneficial for career advancement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Wood-based Material and Component Production Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this profession?**
-答：Entry level: €28,000-€35,000; mid-level: €35,000-€45,000; master/technician: up to €55,000.
-
-**问：How can non-EU immigrants enter this profession?**
-答：Usually requires completing German dual vocational training or obtaining qualification recognition. The Opportunity Card can help with job search and transition.
-
-**问：What certifications are required?**
-答：A recognized vocational training in wood technology (IHK/HWK) is mandatory. Master craftsman (Meister) is optional but beneficial.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

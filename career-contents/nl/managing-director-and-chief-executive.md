@@ -1,60 +1,94 @@
-# Managing Director and Chief Executive（Managing Director and Chief Executive）职业分析 · NL
+# Managing Director and Chief Executive — career analysis · Netherlands
 
-**职业代码：1120 – Managing Director and Chief Executive。**
+**Occupation code: 1120 (ISCO08)**
 
-Top executive responsible for overall corporate strategy and operations, setting long-term goals, leading management teams, and ensuring profitability and growth.
+Executive responsible for overall company strategy and operations, setting long-term goals, leading the management team, and ensuring organizational profitability and growth.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $8,000~$15,000（公立大学每年学费） |
-| 硕士（MBA） | 1-2年（硕士） | $25,000~$60,000（知名商学院MBA学费） |
+| Bachelor's degree | 4 years (bachelor's degree) | $8,000~$15,000 (Annual tuition fees at public universities) |
+| Master's (MBA) | 1-2 years (Master's) | $25,000~$60,000 (MBA tuition at a top business school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域学士学位 | 大学 | 必备 | 通常要求商业、管理或相关领域学位 |
-| MBA或高级管理证书 | 商学院 | 可选 | 显著提升晋升机会 |
+| Bachelor's degree in a related field | University | Required | Typically requires a degree in business, management, or a related field |
+| MBA or Advanced Management Certificate | Business school | Optional | Significantly enhancing promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。荷兰高管职位需求稳定，受经济周期影响。数字化转型和可持续发展推动对具备战略眼光领导者的需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. Demand for executive positions in the Netherlands is stable, affected by economic cycles. Digital transformation and sustainable development drive the need for leaders with strategic vision.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★½）。**
+**Competition: high (★★★★☆).**
+**Work intensity: very high (★★★★½).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$120,000 | 较小公司或部门负责人 |
-| 中级（4-9年） | $120,000~$200,000 | 中型企业高管 |
-| 高级（10年以上） | $200,000~$500,000 | 大型企业CEO，含奖金 |
+| Median salary | $160,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $80,000~$120,000 | Manager of a smaller company or department |
+| Intermediate (4-9 years) | $120,000~$200,000 | Senior executive in a medium-sized enterprise. |
+| Senior (10+ years) | $200,000~$500,000 | CEO of a large enterprise, including bonuses |
+| average salary | $203,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 通常从部门经理或总监晋升，积累跨职能经验。部分通过MBA或内部高管培养计划晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core strategic and leadership decisions of Managing Director/CEO are difficult to replace by AI, but data-driven analysis and reporting will be greatly enhanced by AI; overall risk is low, with AI more as an empowerment tool.
+
+Typically promoted from department manager or director, accumulating cross-functional experience. Some advance through an MBA or internal executive development programs.
+
+**Tasks most exposed to AI:**
+
+- Generate regular operational weekly/monthly reports
+- Preliminary financial data analysis and forecasting
+- Automatically summarizes meeting minutes and extracts action items.
+- Basic market trend scanning and competitive intelligence summarisation
+
+**Where AI augments the role:**
+
+- AI-assisted strategic scenario simulation and impact assessment
+- Real-time data-driven decision support system.
+- Optimizing Resource Allocation with Automated Project Management Tools
+- Uses natural language processing to quickly analyze shareholder letters and public sentiment
+- AI-assisted board material preparation and presentation
+
+**Human moat:**
+
+- Long-term strategic vision setting and corporate culture shaping
+- Crisis decision-making and stakeholder communication.
+- Negotiation and human insight in M&A transactions
+- Leading organizational change and team motivation
+
+**Skills to build:**
+
+- AI strategy and data literacy
+- Human-machine collaboration leadership
+- Advanced analysis and critical thinking
+- Change management and organizational psychology
+- Digital ethics and risk management
+- Cross-disciplinary communication and narrative skills
+
+**Key growth areas:**
 
 - Strategic Leadership
 - Digital Transformation
@@ -63,66 +97,65 @@ Top executive responsible for overall corporate strategy and operations, setting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 针对高技术移民，需雇主担保，薪资门槛高（2024年约€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，要求高等教育和至少€5,331/月薪资（2024年）。 |
-| Subclass Orientation Year Vis（Orientation Year） | 荷兰毕业或全球顶尖大学毕业生可申请，1年内寻找工作，无薪资门槛。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigrants, employer sponsorship is required, with a high salary threshold (2024: approx. €5,331/month). |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requiring higher education and a minimum salary of €5,331/month (2024). |
+| Subclass Orientation Year Vis (Orientation Year) | Graduates from Dutch or top global universities may apply, with 1 year to find a job; no salary threshold. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managing Director and Chief Executive？**
-- 具有战略思维和领导力的人士
-- 能承受高压和快速决策环境
-- 具备多年管理经验和广泛人脉
-
-**谁不适合学Managing Director and Chief Executive？**
-- 偏好稳定、低压力工作的人
-- 不擅长处理复杂人际关系
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strategic thinking and leadership skills
+- Able to handle high-pressure and fast decision-making environments
+- With years of management experience and extensive networks
+
+**Who is not suited**
+- Those who prefer stable, low-stress work
+- Not good at handling complex interpersonal relationships
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary range for a Managing Director in the Netherlands?**
+A: Junior: approximately €80,000-€120,000, mid-level: €120,000-€200,000, senior: up to €500,000+, depending on company size and industry.
+
+**Q: How can non-EU citizens obtain a Dutch executive work visa?**
+A: Primarily through the EU Blue Card or highly skilled migrant visa, requiring employer sponsorship and meeting salary thresholds (2024 approx. €5,331/month).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | very high (★★★★½) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★½） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Managing Director and Chief Executive为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary range for a Managing Director in the Netherlands?**
-答：Entry-level around €80,000-€120,000, mid-level €120,000-€200,000, senior up to €500,000+, depending on company size and industry.
-
-**问：How can non-EU citizens obtain a work visa for executive positions in the Netherlands?**
-答：Mainly through EU Blue Card or Highly Skilled Migrant visa, requiring employer sponsorship and meeting salary threshold (around €5,331/month in 2024).
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

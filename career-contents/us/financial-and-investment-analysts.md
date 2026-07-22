@@ -1,58 +1,94 @@
-# Financial and Investment Analysts（Financial and Investment Analysts）职业分析 · 美国
+# Financial and Investment Analysts — career analysis · United States
 
-**职业代码：13-2051 – Financial and Investment Analysts。**
+**Occupation code: 13-2051 (SOC)**
 
-Financial analysts conduct quantitative analyses of investment programs or financial data of public or private institutions, including valuation of businesses.
+Financial analysts conduct quantitative analysis for investment institutions or companies, evaluating investment plans, financial data, and corporate value to provide advice for investment decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$180,000（公立大学约4-10万，私立约12-18万） |
-| 硕士学位（可选） | 1-2年 | $30,000~$120,000（MBA或金融硕士，顶尖商学院费用高） |
+| Bachelor's degree | 4 years | $40,000~$180,000 (Public universities approx. $40,000-$100,000, private approx. $120,000-$180,000) |
+| Master's degree (optional) | 1-2 years | $30,000~$120,000 (MBA or Master of Finance, with high costs at top business schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 特许金融分析师 | CFA Institute | 可选 | 全球认可，需通过三级考试及工作经验 |
-| 金融风险管理师 | GARP | 可选 | 专注于风险管理领域 |
+| Chartered Financial Analyst | CFA Institute | Optional | Globally recognized, requires passing three levels of exams and work experience |
+| Financial Risk Manager (FRM) | GARP | Optional | Focus on risk management field |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。美国劳工统计局预计2022-2032年该职业就业增长8%，快于平均水平。金融市场的复杂性和全球化推动需求，但自动化可能减缓增速。
+**Job demand: high (★★★★☆).** National workforce approx. 350,000. US Bureau of Labor Statistics projects 8% employment growth for this occupation from 2022-2032, faster than average. Complexity of financial markets and globalization drive demand, but automation may slow growth.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$85,000 | 取决于公司规模和地点 |
-| 中级（3-7年） | $80,000~$130,000 | 含奖金 |
-| 高级（7年以上） | $120,000~$200,000 | 含奖金，投资银行更高 |
+| Median salary | $102,740 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$85,000 | Depends on company size and location |
+| Mid-level (3–7 years) | $80,000~$130,000 | Including bonus |
+| Senior (7+ years) | $120,000~$200,000 | Including bonuses; higher in investment banking |
+| average salary | $116,800 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级分析师可晋升为高级分析师、投资组合经理或首席投资官。部分人转向私募股权、对冲基金或风险管理，或获得CFA等认证提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
+
+Junior analysts can advance to senior analyst, portfolio manager, or chief investment officer. Some move to private equity, hedge funds, or risk management, or obtain certifications like CFA to enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate periodic financial reports and market briefs
+- Basic data cleaning, standardization, and visualization
+- Execute financial statement reconciliation checks based on preset rules
+- Batch processing of transaction reconciliation and anomaly flagging
+- Extract and organize public market and industry data
+
+**Where AI augments the role:**
+
+- Using AI models for market trend prediction and multi-dimensional scenario simulation
+- Quickly parse annual reports, news, and social sentiment using natural language processing
+- Use machine learning to identify portfolio risk factors and abnormal patterns.
+- Using automated tools for real-time valuation and stress testing
+- Generate customized configuration recommendations based on historical data and external signals
+
+**Human moat:**
+
+- Regulatory compliance judgment and complex financial product structure design
+- High-net-worth client relationship maintenance and trust-based advisory
+- Strategic advice in unstructured situations (e.g., M&A, restructuring)
+- Ultimate assumption of moral and legal responsibility
+- Cross-disciplinary experience synthesis and intuition-driven big-picture thinking
+
+**Skills to build:**
+
+- Python/R programming and financial data analysis libraries (pandas, NumPy)
+- Hands-on machine learning models (time series, classification, clustering)
+- Acquisition and cleaning of alternative data sources (satellite imagery, public sentiment, etc.)
+- Application of AI tools (ChatGPT, Copilot) in report generation and code assistance
+- CFA certification and ESG investment knowledge
+- Communication and narrative skills (translating model outputs into business language)
+
+**Key growth areas:**
 
 - Financial Analysis
 - Investment Management
@@ -61,65 +97,64 @@ Financial analysts conduct quantitative analyses of investment programs or finan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见于大型金融机构，需本科以上学历，抽签竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference） | 适用于高级学位或杰出能力者，需PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 适用于学士学位或技能工人，排期较长 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common in large financial institutions, requires bachelor's degree or higher, lottery competition is intense |
+| Subclass EB-2 (Employment-Based Second Preference) | Applicable for advanced degrees or exceptional ability, requires PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or skilled workers, with long waiting times |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Financial and Investment Analysts？**
-- 擅长定量分析和数据处理的人
-- 对金融市场和投资有浓厚兴趣的人
-- 注重细节且能承受高压的人
-
-**谁不适合学Financial and Investment Analysts？**
-- 不善于沟通和团队协作的人
-- 厌恶长时间工作和频繁加班的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those skilled in quantitative analysis and data processing
+- People with a strong interest in financial markets and investment
+- Detail-oriented and able to work under pressure
+
+**Who is not suited**
+- People who are not good at communication and teamwork
+- People who dislike long hours and frequent overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for a Financial Analyst?**
+A: Senior financial analyst salaries can exceed $200,000/year, higher in investment banking or hedge funds, but highly competitive.
+
+**Q: Is it easy for a financial analyst to apply for a US green card?**
+A: Common path is EB-2 or EB-3, requires employer sponsorship; PERM process is complex with long wait times; H-1B lottery has low odds, but large companies provide more support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Financial and Investment Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for financial analysts?**
-答：Senior financial analysts can earn over $200,000 annually, with higher pay in investment banking or hedge funds, but competition is intense.
-
-**问：Is it easy for financial analysts to get a US green card?**
-答：Common paths are EB-2 or EB-3, requiring employer sponsorship; PERM is complex with long queues; H-1B lottery has low odds, but large firms offer support.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Metal and Bell Caster（Metal and Bell Caster）职业分析 · DE
+# Metal and Bell Caster — career analysis · Germany
 
-**职业代码：2414 – Metal and Bell Caster。**
+**Occupation code: 2414 (KldB)**
 
-In the field of metal and bell casting, manual casters handle mold making, metal melting, pouring, and finishing. This traditional profession is highly specialized, often working in small workshops or art foundries.
+In the field of metal and bell casting, hand casters are responsible for mold making, metal melting, pouring, and post-processing. This trade is traditional and specialized, with work environments mostly being small workshops or art foundries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3.5年 | —（企业支付培训津贴，学校通常免费，仅需少量教材费。） |
-| 进修：师傅（Meister） | 1-2年（可兼职） | $3,000~$8,000（培训及考试费，部分可获政府补贴。） |
+| Dual vocational training (Ausbildung) | 3.5 years | $0~$500 (Companies pay training allowances; schools are usually free, only a small fee for materials.) |
+| Advanced training: Meister | 1-2 years (can be part-time) | $3,000~$8,000 (Training and exam fees, some may be eligible for government subsidies.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 金属铸造工职业资格证书（Gesellenbrief） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过结业考试。 |
-| 师傅资格（Meistertitel） | 德国工商会（IHK） | 可选 | 可选，用于独立执业或带徒。 |
-| 资质认证（Anerkennung） | 德国外国职业资格认证中心（BQFG） | 必备 | 第三国学历需认证，通常需补修部分课程。 |
+| Metal casting vocational qualification certificate (Gesellenbrief) | German Chamber of Commerce and Industry (IHK) | Required | Complete dual-system training and pass the final examination. |
+| Qualification recognition (Anerkennung) | German Foreign Qualification Assessment Centre (BQFG) | Required | Third-country qualifications need assessment, usually requiring supplementary courses. |
+| Master craftsman qualification (Meistertitel). | German Chamber of Commerce and Industry (IHK) | Optional | Optional, for independent practice or mentoring apprentices. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 1,500。德国手工铸造业规模小但稳定，数字化和自动化虽减少基础岗位，但高端艺术铸造及文物修复需求持续。受新材料和3D打印影响，但传统技艺仍有不可替代性。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,500. The German handcrafted casting industry is small but stable; while digitalization and automation reduce basic positions, demand for high-end artistic casting and heritage restoration continues. Influenced by new materials and 3D printing, traditional skills remain irreplaceable.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 培训后初期薪资，视企业规模和地区。 |
-| 中级（3-8年） | $30,000~$40,000 | 熟练工薪资，东南部略高。 |
-| 高级（8年以上或师傅） | $40,000~$55,000 | 师傅或独立工匠薪资，可更高。 |
+| Median salary | $49,032 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary after training, varies by company size and region. |
+| Mid-level (3–8 years) | $30,000~$40,000 | skilled worker salary, slightly higher in the southeast. |
+| Senior (8+ years or master craftsman) | $40,000~$55,000 | Salary for master craftsmen or independent artisans can be higher. |
+| average salary | $49,956 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 入门先从学徒做起，逐步晋升为熟练工、工头。可专攻艺术铸造或工业铸造，少数人成为独立工匠或工作室负责人。继续教育可转向文物保护或模具设计。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hand metal and clock casters face mixed impacts from AI: automated casting equipment may replace some repetitive tasks, but AI-assisted design and real-time monitoring will improve precision and efficiency in complex casting.
+
+Start as an apprentice, gradually advance to skilled worker, foreman. Can specialize in artistic or industrial casting, a few become independent artisans or studio heads. Continuing education can lead to cultural relic restoration or mold design.
+
+**Tasks most exposed to AI:**
+
+- Repetitive metal melting and casting operations: automated systems can precisely control temperature and speed
+- Basic mold making: 3D printing and CNC machining can rapidly produce molds
+- Simple quality inspection: visual inspection system can automatically identify surface defects
+- Material handling: automated guided vehicles and robotic arms can handle heavy objects
+- Traditional craft recording: digital systems automatically record production parameters
+
+**Where AI augments the role:**
+
+- Complex art casting design: AI-generated design provides creative inspiration and optimization solutions
+- Real-time monitoring of casting process: AI sensors analyze parameters such as temperature and flow rate to improve yield rate.
+- Quality prediction: machine learning analyzes historical data to predict casting defects
+- Process parameter optimisation: AI simulates different parameter combinations to find the optimal settings.
+- Personalized customization: clients can use AI tools to customize designs, automatically generating mold paths.
+
+**Human moat:**
+
+- Handcraft artistic aesthetic and creative design: unique artistic perception and sculptural creativity
+- On-site problem solving and debugging: handling sudden anomalies in the casting process
+- Client communication and understanding of customisation needs: non-standardised communication for complex artistic expression.
+- Deep understanding of material properties: e.g., impact of different metal ratios on artistic effects
+- Traditional craft preservation and manual skills: artisan touch that cannot be replicated by AI
+
+**Skills to build:**
+
+- AI-assisted design software: such as CAD and generative design tools
+- Industrial robot programming: maintaining and operating automated casting equipment
+- Data analysis and sensor technology: monitoring and optimizing the casting process
+- 3D printing and additive manufacturing: producing high-precision molds
+- Digital marketing and online presence: promote custom casting services through online platforms
+- Cross-disciplinary collaboration skills: working with engineers and clients
+
+**Key growth areas:**
 
 - Artisan craftsmanship
 - Heritage restoration
@@ -62,68 +98,67 @@ In the field of metal and bell casting, manual casters handle mold making, metal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历或同等资格，年薪门槛约43,800欧元（2024）。对于短缺职业，门槛降低至39,683欧元。 |
-| Subclass Skilled Worker Visa（Skilled Worker (Fachkräfteeinwanderungsgesetz)） | 适用于完成德国认可的职业培训或持有同等资质者，无工资门槛要求。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许来德国找工作一年，需证明语言能力和相关资质。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree or equivalent, annual salary threshold approximately €43,800 (2024). For shortage occupations, the threshold is reduced to €39,683. |
+| Subclass Skilled Worker Visa (Skilled Worker (Fachkräfteeinwanderungsgesetz)) | For those who have completed recognized vocational training in Germany or hold equivalent qualifications, with no salary threshold requirement. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing a one-year job search in Germany; requires proof of language proficiency and relevant qualifications. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal and Bell Caster？**
-- 热爱传统手工艺和金属加工
-- 有耐心和细致的工作态度
-- 注重实践操作和动手能力
-
-**谁不适合学Metal and Bell Caster？**
-- 追求快速高薪职业者
-- 对体力劳动和高温环境不适应
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about traditional crafts and metalworking
+- Patience and a meticulous work attitude
+- Focus on practical operation and hands-on ability
+
+**Who is not suited**
+- People seeking fast and high-paying careers
+- Not suited to physical labour and high-temperature environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for manual metal casting workers?**
+A: Entry-level annual salary is about 24,000-30,000 euros, mid-level 30,000-40,000 euros, and senior masters can reach over 55,000 euros. Salaries vary by region and company size.
+
+**Q: How can foreign manual casters migrate to Germany?**
+A: Immigration is possible via a skilled worker visa (requires German-recognised professional qualification) or EU Blue Card (requires higher education and high salary). The Opportunity Card allows job seeking for one year. Qualification recognition is key.
+
+**Q: Does this career have growth potential?**
+A: Yes. Workers can advance to master craftsman or even establish their own workshop. They can also transition to fields such as cultural relic conservation, art casting, or mold design.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Metal and Bell Caster的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for manual metal casters?**
-答：Entry-level annual salary is about €24,000-30,000, mid-level €30,000-40,000, and senior master craftspersons can earn over €55,000. Salary varies by region and company size.
-
-**问：How can a foreign manual caster immigrate to Germany?**
-答：Via the Skilled Worker Visa (requires recognized vocational qualification) or EU Blue Card (requires high degree and salary). The Opportunity Card allows one year of job search. Qualification recognition is key.
-
-**问：Does this profession have career prospects?**
-答：Yes. You can advance from worker to master craftsman or start your own workshop. You can also move into heritage restoration, art casting, or mold design.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

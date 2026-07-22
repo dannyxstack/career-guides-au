@@ -1,58 +1,90 @@
-# Advertising Specialist（Advertising Specialist）职业分析 · 新西兰
+# Advertising Specialist — career analysis · New Zealand
 
-**职业代码：225111 – Advertising Specialist。**
+**Occupation code: 225111 (ANZSCO)**
 
-Advertising Specialists plan, coordinate, and execute advertising campaigns in New Zealand's creative and media sector, with immigration options via SMC or AEWV, typically requiring local experience or employer sponsorship.
+Advertising specialists plan, coordinate, and execute advertising campaigns. In New Zealand, this role falls under the Creative and Media industry and can lead to immigration through the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but typically requires local experience or employer sponsorship.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（年均学费，国际生约3-4.5万NZD） |
-| 研究生文凭 | 1年 | $25,000~$40,000（一年制课程，如梅西大学或奥塔哥理工） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Average annual tuition for international students is about NZ$30,000-45,000.) |
+| Graduate diploma | 1 year | $25,000~$40,000 (One-year programs, such as those at Massey University or Otago Polytechnic) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 谷歌广告认证 | Google | 可选 | 数字广告领域高度认可，非强制但显著提升就业 |
-| 新西兰广告与媒体协会证书 | CAANZ | 可选 | 行业认证，展示专业能力 |
+| Google Ads Certification | Google | Optional | Highly recognized in the digital advertising field, not mandatory but significantly enhances employment |
+| New Zealand Advertising and Media Association Certificate | CAANZ | Optional | Industry certification, demonstrating professional capability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。新西兰广告业受数字营销和社交媒体驱动，需求稳定，但竞争激烈。主要机会集中在奥克兰和惠灵顿的广告公司、媒体机构及企业营销部门。预计未来5年增长率约5%，初级岗位可通过实习积累经验。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. New Zealand's advertising industry is driven by digital marketing and social media, with stable demand but intense competition. Major opportunities exist in advertising agencies, media agencies, and corporate marketing departments in Auckland and Wellington. The projected growth rate is about 5% over the next 5 years, and entry-level positions can gain experience through internships.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 起薪约5-6.5万NZD，根据公司规模浮动 |
-| 中级（3-7年） | $70,000~$95,000 | 有经验者7-9.5万NZD，奥克兰略高 |
-| 高级（7年以上） | $100,000~$130,000 | 高级专员或经理10-13万NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Starting salary is approximately NZD 50,000-65,000, varying by company size. |
+| Mid-level (3–7 years) | $70,000~$95,000 | Experienced: 70,000-95,000 NZD; Auckland slightly higher. |
+| Senior (7+ years) | $100,000~$130,000 | Senior specialist or manager: $100,000-$130,000 NZD |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★½☆）。** 初级广告专员可晋升为广告经理、数字营销经理或创意总监，需学习数据分析、程序化购买等技能。持证或获得谷歌/脸书认证可提升竞争力，部分人转向自由职业或成立小型广告代理公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Creative planning and client relationships for advertising specialists are hard to replace for now, but tasks like content generation, data analysis, and campaign optimization have been heavily infiltrated by AI, compressing entry-level positions.
+
+Junior advertising specialists can advance to advertising manager, digital marketing manager, or creative director, requiring skills in data analysis and programmatic buying. Certifications from Google or Facebook can enhance competitiveness; some transition to freelancing or start small ad agencies.
+
+**Tasks most exposed to AI:**
+
+- Write standard advertising copy and slogans
+- Create multi-version A/B test materials
+- Automated bidding and placement optimization
+- Basic data analysis report generation
+
+**Where AI augments the role:**
+
+- Using AI for audience segmentation and predictive analysis
+- Using AI tools to quickly generate a library of creative inspiration
+- Real-time monitoring of ad performance and strategy adjustment via AI.
+- Automated management of cross-platform advertising scheduling
+
+**Human moat:**
+
+- Develop overall marketing strategy and brand positioning
+- Understand customers' deep needs and build trust-based relationships
+- Cross-channel creative integration and resource coordination
+- Handling sudden PR crises and negative public opinion
+
+**Skills to build:**
+
+- Operation of AI advertising platforms (e.g., Meta, Google Ads AI features)
+- Data analysis and visualization (e.g. SQL, Tableau)
+- Basic programming skills (Python automation)
+- Creative strategy and human-machine collaboration process design
+- Use of content management and A/B testing tools
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -61,67 +93,66 @@ Advertising Specialists plan, coordinate, and execute advertising campaigns in N
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 适用于技术移民，需满足ANZSCO技能等级和薪资要求（中位数年薪约6.5万NZD），通常需要雇主担保或新西兰学历。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合找到新西兰认证雇主担保的广告专员，需薪资达到行业标准。 |
+| Subclass SMC (Skilled Migrant Category) | Applicable for skilled migration, must meet ANZSCO skill level and salary requirements (median annual salary around $65,000 NZD), typically requires employer sponsorship or New Zealand qualification. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for advertising specialists who have secured New Zealand accredited employer sponsorship, with salary meeting industry standards. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Advertising Specialist？**
-- 善于创意策划和数据分析的创意型人才
-- 对数字营销和社交媒体趋势敏感的人
-- 具备良好沟通能力和团队协作精神者
-
-**谁不适合学Advertising Specialist？**
-- 不喜欢快速变化和压力环境的人
-- 不擅长英语写作和本地文化理解者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative talent skilled in creative planning and data analysis
+- People sensitive to digital marketing and social media trends
+- Those with good communication skills and teamwork spirit
+
+**Who is not suited**
+- People who do not like fast-paced and high-pressure environments
+- Those not proficient in English writing and local cultural understanding
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Advertising Specialist in New Zealand?**
+A: Junior: about NZD 50,000-65,000, mid-level: NZD 70,000-95,000, senior: NZD 100,000-130,000, median about NZD 75,000. Auckland base salaries are slightly higher.
+
+**Q: Is it easy for an advertising specialist to immigrate to New Zealand?**
+A: This occupation is not on the Green List of shortage occupations, but can apply for SMC skilled migration, needing to meet salary and skill requirements (ANZSCO Level 2, salary not below median). Finding accredited employer sponsorship (AEWV) is a common path, but competition is high.
+
+**Q: What qualifications are required to work as an advertising specialist?**
+A: Typically requires a bachelor's degree in marketing, advertising, or a related field, recognized by New Zealand as a local or overseas qualification. A postgraduate diploma can increase competitiveness. Not mandatory but Google certifications are recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等偏上（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Advertising Specialist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Advertising Specialist in New Zealand?**
-答：Entry-level: $50,000-$65,000, mid-level: $70,000-$95,000, senior: $100,000-$130,000, median around $75,000, with Auckland slightly higher.
-
-**问：Is it easy for an Advertising Specialist to immigrate to New Zealand?**
-答：It’s not on the Green List, but you can apply via SMC if you meet the skill and salary requirements (ANZSCO Level 2, median wage). Employer sponsorship via AEWV is common, though competition is high.
-
-**问：What education is needed to become an Advertising Specialist?**
-答：A bachelor's degree in marketing, advertising, or related field is typical, recognized from NZ or overseas. Postgraduate diploma adds advantage. Google certifications are recommended but not mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

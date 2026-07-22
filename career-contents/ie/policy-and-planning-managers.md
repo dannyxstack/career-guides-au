@@ -1,61 +1,96 @@
-# Policy and Planning Managers（Policy and Planning Managers）职业分析 · IE
+# Policy and Planning Managers — career analysis · Ireland
 
-**职业代码：1213 – Policy and Planning Managers。**
+**Occupation code: 1213 (ISCO08)**
 
-Policy and Planning Managers develop, implement, and evaluate strategic policies and plans in public sector or large organizations. They analyze socio-economic data, coordinate stakeholders, ensure compliance with legal and budget constraints, and promote long-term sustainable development.
+Policy and Planning Managers develop, implement, and evaluate strategic policies and plans in the public sector or large organizations. They analyze socio-economic data, coordinate stakeholders, ensure policies meet legal and budgetary requirements, and drive long-term sustainable development.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $15,000~$25,000（爱尔兰和欧盟学生学费约€3,000-€6,000；非欧盟学生更高） |
-| 硕士 | 1-2年 | $10,000~$20,000（公共政策或相关硕士，非欧盟学费较高） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $15,000~$25,000 (Tuition for Irish and EU students is approximately €3,000-€6,000; higher for non-EU students) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Master's in public policy or related field, non-EU tuition is higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共政策硕士 | 都柏林大学等 | 可选 | 许多雇主优先考虑相关硕士学历 |
-| 项目管理专业认证 | PMI或Prince2 | 可选 | 非强制，但有助于提升竞争力 |
-| 特许公共财政会计师 | CIPFA | 可选 | 适用于预算和财务规划岗位 |
+| Master of Public Policy | University College Dublin etc. | Optional | Many employers prefer candidates with a relevant master's degree |
+| Project management professional certification | PMI or Prince2 | Optional | Not mandatory, but helps improve competitiveness. |
+| Chartered Public Finance Accountant | CIPFA | Optional | Applicable to budget and financial planning roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,800。随着政府数字化转型、气候变化政策及公共财政改革推进，政策与规划经理需求稳定。爱尔兰公共部门职位通常竞争激烈，但具备数据分析、项目管理技能者机会较多。预计未来五年就业增长温和。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,800. With the advancement of government digital transformation, climate change policies, and public finance reforms, demand for Policy and Planning Managers remains stable. Positions in Ireland's public sector are often competitive, but those with data analysis and project management skills have more opportunities. Moderate employment growth is expected over the next five years.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 政策分析师或助理经理级别 |
-| 中级（3-7年） | $55,000~$75,000 | 政策经理，地方政府或中层公务员 |
-| 高级（7年以上） | $75,000~$100,000 | 部门总监，高级公务员或大型机构负责人 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$55,000 | Policy analyst or assistant manager level |
+| Mid-level (3–7 years) | $55,000~$75,000 | Policy manager, local government or mid-level civil servant |
+| Senior (7+ years) | $75,000~$100,000 | Department director, senior public servant, or head of a large institution |
+| average salary | $66,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 常见晋升路径：政策分析师 → 政策经理 → 部门总监 → 高级公务员。也可横向转入咨询、非营利组织或国际机构。继续教育如MPA或相关硕士学位有助于晋升高级管理职位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The position of Policy and Planning Manager presents both risks and opportunities. AI can automate tasks like data analysis and report generation, but core skills such as strategic decision-making and stakeholder coordination are hard to replace. Overall, the role may see efficiency gains from AI enhancement rather than direct downsizing.
+
+Common career progression: Policy Analyst → Policy Manager → Department Director → Senior Civil Servant. Lateral moves into consulting, non-profit organizations, or international agencies are also possible. Further education such as an MPA or related master's degree can help advance to senior management positions.
+
+**Tasks most exposed to AI:**
+
+- Collect and organize socio-economic, legal, and budget-related data
+- Generate policy impact assessment reports and financial analysis.
+- Draft policy documents and initial planning drafts
+- Track regulatory changes and update compliance checklists
+- Quantitative Analysis Using Basic Statistical Tools
+
+**Where AI augments the role:**
+
+- Use AI tools for large-scale scenario simulation and predictive analysis
+- Quickly review large volumes of policy documents and public comments through natural language processing
+- Use AI-assisted decision support systems to optimize policy option comparison
+- Using data visualization tools to visually demonstrate policy impacts to stakeholders
+- Monitor policy implementation effects in real-time and warn of deviations through AI monitoring tools
+
+**Human moat:**
+
+- Formulate long-term strategic vision and balance multiple stakeholders' interests
+- Decision-making skills for handling political sensitivity and ethical dilemmas
+- Build and maintain key stakeholder relationship networks
+- Creative thinking combining qualitative judgment and quantitative analysis
+
+**Skills to build:**
+
+- Data analysis and statistical modeling (e.g., Python, R)
+- Machine learning basics and AI application tools (e.g., decision trees, natural language processing)
+- Policy simulation and system dynamics modeling
+- Data visualization (such as Tableau, Power BI)
+- Agile project management methods (e.g., Scrum)
+- Cross-departmental communication and negotiation skills
+
+**Key growth areas:**
 
 - Public Sector Digitalization
 - Climate Policy Implementation
@@ -64,66 +99,65 @@ Policy and Planning Managers develop, implement, and evaluate strategic policies
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过€32,000且符合紧缺职业清单的职位，但政策与规划经理通常不在紧缺清单，需雇主担保并证明无法从欧盟招聘 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过€30,000的职位，需进行劳动力市场测试，配额有限，审批较严格 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超过一般就业许可门槛（约€50,000-€60,000）的高技能职位，但需符合高等教育要求 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to positions with annual salary over €32,000 and on the shortage occupation list, but policy and planning managers are usually not on the shortage list, requiring employer sponsorship and proof that EU recruitment is not possible |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary over €30,000, requiring a labor market test, limited quotas, and strict approval processes |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions with annual salary exceeding the general employment permit threshold (approx. €50,000-€60,000), subject to higher education requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy and Planning Managers？**
-- 政策分析或公共管理背景，硕士学历
-- 具备战略思维和利益相关方协调能力
-- 对公共事务有热情，适应跨部门合作
-
-**谁不适合学Policy and Planning Managers？**
-- 不擅长应对官僚流程和预算约束
-- 缺乏数据分析和书面沟通能力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in policy analysis or public administration, master's degree
+- Possess strategic thinking and stakeholder coordination skills
+- Passionate about public affairs, comfortable with cross-departmental collaboration
+
+**Who is not suited**
+- Not good at dealing with bureaucratic processes and budget constraints
+- Lack of data analysis and written communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for policy and planning managers in Ireland?**
+A: Entry-level approx. €40k–€55k, mid-level approx. €55k–€75k, senior can reach €100k+. Senior public servants earn more, but competition is fierce.
+
+**Q: How can overseas applicants immigrate to Ireland to work as Policy and Planning Managers?**
+A: Typically requires employer sponsorship for a General Employment Permit, but the labor market test is strict. Critical Skills Permits are uncommon. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Policy and Planning Managers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Policy and Planning Managers in Ireland?**
-答：Entry-level: €40k-€55k; mid-level: €55k-€75k; senior: up to €100k+. Senior civil servants earn more but face high competition.
-
-**问：How can overseas applicants migrate to Ireland for Policy and Planning Manager roles?**
-答：Typically requires employer sponsorship under General Employment Permit with strict labor market test. Critical Skills Permit rare. EU citizens have free movement.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,96 @@
-# Mining Operations Directors（Mining Operations Directors）职业分析 · ES
+# Mining Operations Directors — career analysis · Spain
 
-**职业代码：1314 – Mining Operations Directors。**
+**Occupation code: 1314 (CNO)**
 
-Mining Operations Directors plan, direct, and coordinate all activities of mineral extraction projects, including resource assessment, production planning, safety management, and cost control. They manage mining teams and ensure compliance with environmental regulations to meet production targets.
+The Director of Mining Operations is responsible for planning, directing, and coordinating all activities of the mineral mining project, including resource assessment, production planning, safety management, and cost control. They manage mining teams, ensuring compliance with environmental regulations and achieving production targets.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$4,000（公立大学学费，视地区和专业而定） |
-| 硕士（Máster） | 1-2年 | $1,500~$8,000（公立大学硕士学费，私立大学更高） |
+| Undergraduate (Grado) | 4 years | $1,000~$4,000 (Tuition fees at public universities vary depending on region and major) |
+| Máster | 1-2 years | $1,500~$8,000 (Master's tuition fees at public universities are higher at private universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采矿工程学位 | 西班牙大学 | 必备 | 需通过学历认证（homologación）或承认 |
-| 矿业安全认证 | 西班牙工业、贸易与旅游部 | 必备 | 负责矿山安全管理的必备认证 |
-| 项目管理专业认证 | PMI或其他国际机构 | 可选 | 非强制性，但有助于晋升 |
+| Degree in Mining Engineering | Spanish University | Required | Academic credentials must be certified or acknowledged |
+| Mining safety certification | Spanish Ministry of Industry, Trade and Tourism | Required | Essential certifications for mine safety management |
+| Project management professional certification | PMI or other international organizations | Optional | Non-mandatory, but helpful for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。西班牙矿业活动主要集中在安达卢西亚、阿斯图里亚斯和卡斯蒂利亚-莱昂等地区，近年随着关键矿产（如锂、铜）需求增长，矿业投资有所回升。然而，该行业对全球大宗商品价格敏感，且面临环保压力，就业增长有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. Mining activities in Spain are mainly concentrated in Andalusia, Asturias, and Castile y León, with recent growth in demand for key minerals such as lithium and copper, leading to a rebound in mining investment. However, the industry is sensitive to global commodity prices and faces environmental pressures, resulting in limited job growth.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 税前年薪，视公司规模和地区而定 |
-| 中级（4-7年） | $55,000~$80,000 | 税前年薪，含奖金 |
-| 高级（8年以上） | $80,000~$120,000 | 税前年薪，含奖金及利润分成 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $40,000~$55,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (4-7 years) | $55,000~$80,000 | Annual pre-tax salary, including bonuses |
+| Senior (8+ years) | $80,000~$120,000 | Pre-tax annual salary, including bonuses and profit sharing |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业晋升路径通常从采矿工程师或地质学家起步，逐步晋升为矿区经理、区域运营经理，最终成为矿业运营总监。部分高级管理者可进入公司董事会或担任集团高管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly optimize mining operations planning and data analysis, but on-site decision-making, safety management, and complex coordination still rely on human experience, resulting in mixed outcomes.
+
+Career promotion usually starts as a mining engineer or geologist and gradually advances to mining area manager, regional operations manager, and finally mining operations director. Some senior managers can join the company's board of directors or serve as senior group executives.
+
+**Tasks most exposed to AI:**
+
+- Automated optimization of resource evaluation and production planning
+- Daily operational data monitoring and report generation
+- Equipment maintenance forecasting and scheduling
+- Compliance documents are automatically written and reviewed
+
+**Where AI augments the role:**
+
+- Dynamic production scheduling based on real-time data
+- Remote monitoring and drone inspection are collaborative
+- AI-assisted security risk assessment and early warning
+- Virtual simulation training and emergency drills
+- A decision support system integrating multi-source data
+
+**Human moat:**
+
+- On-site decision-making and leadership in emergency situations
+- Balancing and negotiating interests with regulators and communities
+- Empirical judgment under complex geological conditions
+- Team morale and safety culture building
+- Long-term strategic planning and investment decisions
+
+**Skills to build:**
+
+- Fundamentals of data analysis and machine learning
+- Digital twin and simulation software operation
+- AI-driven project management tools
+- Understanding automation equipment and IoT systems
+- Data visualization and report automation
+- Remote collaboration and digital leadership
+
+**Key growth areas:**
 
 - Green mining
 - Digitalization
@@ -64,69 +99,68 @@ Mining Operations Directors plan, direct, and coordinate all activities of miner
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适合高技能专业人士，要求大学学历及工作合同，薪资门槛较高。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 针对西班牙高技能专业人才（Ley 14/2013），需公司担保，薪资达标。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 普通受雇工作居留，需公司提供工作合同，经劳工市场测试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with a relatively high salary threshold. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled Spanish professionals (Ley 14/2013), requires company sponsorship and meeting salary thresholds. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | For ordinary employed work residence, a work contract must be provided by the company and tested by the labor market. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining Operations Directors？**
-- 具有采矿工程或地质学背景的专业人士
-- 有多年矿业项目管理经验的高层管理者
-- 愿意在偏远地区工作并适应高强度压力者
-
-**谁不适合学Mining Operations Directors？**
-- 缺乏工程或地质学学历者
-- 对工作环境（地下/偏远）敏感者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with backgrounds in mining engineering or geology
+- Senior managers with many years of mining project management experience
+- Those willing to work in remote areas and adapt to high-intensity stress
+
+**Who is not suited**
+- Those lacking engineering or geology degrees
+- Sensitive to work environments (underground/remote).
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for mining operations directors in Spain?**
+A: Entry-level annual salary is about €40,000-55,000, mid-level €55,000-80,000, senior €80,000-120,000, excluding bonuses and profit sharing. Major multinational mining companies offer higher pay.
+
+**Q: How can foreign professionals obtain a Spanish Mining Operations Director work visa?**
+A: You can obtain an EU Blue Card or a visa for highly skilled professionals, which requires a degree from a Spanish university or with academic certification, as well as a work contract. Mining is regulated and requires safety certification.
+
+**Q: What qualifications are required for the Director of Mining Operations?**
+A: Must hold a degree in mining engineering with academic credentials and must also have mining safety certification. Project management certifications (such as PMP) help with career development but are not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Mining Operations Directors为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Mining Operations Directors in Spain?**
-答：Entry-level positions earn around 40,000-55,000 EUR annually, intermediate 55,000-80,000 EUR, and senior 80,000-120,000 EUR, excluding bonuses and profit sharing. Larger multinational companies pay more.
-
-**问：How can foreign professionals obtain a work visa for Mining Operations Director in Spain?**
-答：They can apply for an EU Blue Card or Highly Qualified Professional visa, requiring a Spanish university degree or recognized equivalent, plus a job contract. The sector is regulated and requires safety certification.
-
-**问：What qualifications are required for a Mining Operations Director?**
-答：A mining engineering degree with official recognition (homologación) is mandatory, along with mining safety certification. Project management certifications (e.g., PMP) are helpful but not required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

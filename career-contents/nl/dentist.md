@@ -1,58 +1,94 @@
-# Dentist（Dentist）职业分析 · NL
+# Dentist — career analysis · Netherlands
 
-**职业代码：2261 – Dentist。**
+**Occupation code: 2261 (ISCO08)**
 
-Dentists diagnose, prevent, and treat oral diseases and conditions affecting teeth, gums, and jaw. In the Netherlands, they are highly respected healthcare professionals, often self-employed or part of group practices.
+Dentists diagnose, prevent, and treat oral diseases, including problems with teeth, gums, and jawbones. In the Netherlands, dentistry is a highly respected medical profession, with dentists typically working in private practice or clinics.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科预科 | 1年（预科） | $2,000~$4,000（大学预科费用，如需要） |
-| 硕士 | 6年（本硕连读） | $2,000~$4,000（每年学费，欧盟学生较低，非欧盟较高） |
+| Undergraduate foundation / Pre-university | 1 year (foundation) | $2,000~$4,000 (University foundation program fees, if required.) |
+| Master's degree | 6 years (combined bachelor's and master's) | $2,000~$4,000 (Annual tuition: lower for EU students, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 牙医学位 | 荷兰大学 | 必备 | 需完成6年制本硕连读课程 |
-| BIG注册 | 荷兰卫生、福利与体育部 | 必备 | 必须在BIG注册才能执业 |
+| Dental degree | Netherlands universities | Required | Must complete a 6-year integrated bachelor's and master's program |
+| BIG registration | Ministry of Health, Welfare and Sport of the Netherlands | Required | Must be registered with the BIG to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★☆☆）。** 全国从业人数约 11,000。荷兰牙医需求稳定，因人口老龄化和口腔健康意识提升。预计未来十年就业增长约5%，但竞争因牙医学校名额有限而适中。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 11,000. Steady demand for dentists in the Netherlands due to aging population and increased oral health awareness. Employment expected to grow about 5% over next decade, but competition moderate due to limited dental school places.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（3-8年） | $55,000~$75,000 | 税前年薪 |
-| 高级（8年以上） | $75,000~$100,000 | 税前年薪，自雇收入可能更高 |
+| Median salary | $79,238 | Median Salary (Official: CBS median hourly wage €40.1/hour × 1976h annualized, BRC group 1011 Artsen; P25–P75 €62,244–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $55,000~$75,000 | Annual pre-tax salary |
+| Senior (8+ years) | $75,000~$100,000 | Pre-tax annual salary; self-employment income may be higher |
+| average salary | $67,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 牙医可从普通执业者晋升为专科牙医（如正畸、口腔外科），或开设连锁诊所。部分牙医进入学术或研究领域。持续教育是强制要求。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
+
+Dentists can advance from general practitioners to specialist dentists (e.g., orthodontics, oral surgery) or open chain clinics. Some dentists enter academia or research. Continuing education is mandatory.
+
+**Tasks most exposed to AI:**
+
+- Initial screening and anomaly marking of X-rays and CT scans (AI reading)
+- Administrative paperwork such as patient appointment, billing, and medical record organization
+- Standardized preventive procedures like teeth cleaning and fluoride application (automated dental chair)
+- Basic intraoral scanning and digital model generation
+- Automated review and filling of insurance claim documents
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic systems provide treatment suggestions, improving diagnosis accuracy
+- Simulate surgical paths via digital twin to optimize implant/orthodontic planning
+- Real-time voice recording and medical record generation, freeing doctor's attention
+- Personalized prevention plan recommendations based on patient historical data
+- Virtual reality training systems enhance complex surgical skills
+
+**Human moat:**
+
+- Complex Surgical Decisions and Manual Operations (e.g., Root Canals, Tooth Extractions)
+- Patient communication, empathy, and behaviour management (especially for children/anxious patients)
+- Interdisciplinary Comprehensive Diagnosis (e.g., Oral-Systemic Disease Links)
+- Emergency management and clinical judgement for sudden conditions
+- Professional licensing and legal liability
+
+**Skills to build:**
+
+- AI-assisted Diagnostic Tool Operation and Result Interpretation
+- Digital oral scanning and 3D printing design
+- Patient interaction via telehealth platforms
+- Basic data analysis and clinical research
+- Patient communication and digital health education
+- Continuous learning of automated workflow integration
+
+**Key growth areas:**
 
 - Aging population
 - Preventive care focus
@@ -61,68 +97,67 @@ Dentists diagnose, prevent, and treat oral diseases and conditions affecting tee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高学历专业人才，需有荷兰雇主担保，收入门槛2024年约€5,331/月（30岁以上）或€3,909/月（30岁以下）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能工作者，需有至少€5,331/月（2024年）的工作合同，学历要求匹配。 |
-| Subclass Orientation Year（Orientation Year (Search Year)） | 适用于在荷兰或世界排名前200高校毕业的硕士/博士，给予一年求职期，可自由工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly educated professionals, requiring a Dutch employer sponsor. Income threshold in 2024 is approximately €5,331/month (over 30) or €3,909/month (under 30). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled workers, requiring a work contract of at least €5,331/month (2024) and matching educational qualifications. |
+| Subclass Orientation Year (Orientation Year (Search Year)) | Applicable to master's/PhD graduates from universities ranked in the top 200 in the Netherlands or globally, granting a one-year job search period with free work rights. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dentist？**
-- 细心且动手能力强的人
-- 热爱与人沟通并注重预防保健的人
-- 能承受一定工作压力并追求稳定职业的人
-
-**谁不适合学Dentist？**
-- 对血液或口腔异味敏感的人
-- 希望快速获得高收入而不愿意长期学习的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Meticulous and hands-on person
+- People who enjoy communicating and focus on preventive healthcare
+- People who can handle work pressure and seek stable careers
+
+**Who is not suited**
+- Sensitive to blood or oral odor
+- People who want to earn high income quickly without long-term study
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a dentist in the Netherlands?**
+A: Entry-level dentist annual salary approx. €45,000-55,000, mid-level approx. €55,000-75,000, senior can exceed €100,000; self-employed dentists earn more but must cover costs.
+
+**Q: How can a non-EU dentist work in the Netherlands?**
+A: Non-EU dentists need to register with BIG and may need to take supplementary courses and pass a Dutch language exam. Common work visas include the Highly Skilled Migrant visa or EU Blue Card, requiring employer sponsorship.
+
+**Q: How many years does it take to become a dentist in the Netherlands?**
+A: Dutch dental education is a 6-year integrated bachelor-master program; graduates must complete an internship and BIG registration to practice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中高（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Dentist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a dentist in the Netherlands?**
-答：Entry-level dentists earn around €45,000–€55,000 per year, mid-level €55,000–€75,000, and senior dentists up to €100,000 or more. Self-employed dentists may earn higher but bear own costs.
-
-**问：How can non-EU dentists work in the Netherlands?**
-答：Non-EU dentists need BIG registration, possibly requiring additional courses and Dutch language exam. Common work visas are Highly Skilled Migrant or EU Blue Card with employer sponsorship.
-
-**问：How long does it take to become a dentist in the Netherlands?**
-答：Dental education in the Netherlands is a 6-year integrated bachelor's and master's program, followed by internship and BIG registration.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

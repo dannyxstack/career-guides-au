@@ -1,61 +1,95 @@
-# Professional Driver (Passenger Transport/Car)（Professional Driver (Passenger Transport/Car)）职业分析 · DE
+# Professional Driver (Passenger Transport/Car) — career analysis · Germany
 
-**职业代码：5211 – Professional Driver (Passenger Transport/Car)。**
+**Occupation code: 5211 (KldB)**
 
-Professional drivers transport passengers using cars or small vans, such as taxis, ride-hailing services, or shuttle services. Requires a valid driver's license and good driving skills with customer service orientation.
+Professional drivers operate cars or small passenger vehicles for transporting people, such as taxis, ride-hailing services, or small shuttles. This occupation requires a valid driver's license and good driving skills and customer service awareness.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 1.5-3年 | —（双元制培训通常免学费，企业发放津贴） |
-| 短期培训/资格认证 | 6-12个月 | $1,000~$5,000（包括驾驶执照（如B类）和客运资格证（Personenbeförderungsschein），培训费用自付） |
+| Vocational training (dual system) | 1.5-3 years | $0~$0 (Dual training is usually tuition-free with company allowances) |
+| Short-term training/qualification certification | 6–12 months | $1,000~$5,000 (Includes a driver's license (e.g., Class B) and a passenger transport permit (Personenbeförderungsschein); training costs are self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 客运资格证（Personenbeförderungsschein） | 当地交通管理局（Straßenverkehrsamt） | 必备 | 必需，需通过背景调查、健康检查和法规考试 |
-| B类驾驶执照 | TÜV/DEKRA | 必备 | 至少持有B类驾照，部分岗位要求C1或D类 |
-| 德国职业培训证书（Ausbildung） | 工商会（IHK） | 可选 | 非必需，但完成双元制培训有助于晋升和更高薪资 |
+| Passenger Transport License (Personenbeförderungsschein) | Local traffic authority (Straßenverkehrsamt) | Required | Mandatory, must pass background checks, health screenings, and regulatory exams |
+| Class B driver's license | TÜV/DEKRA | Required | At least hold a Class B driver's license; some positions require Class C1 or D |
+| German Vocational Training Certificate (Ausbildung) | Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but completing dual vocational training helps with career advancement and higher salary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 180,000。德国对客运司机需求稳定，尤其在老龄化背景下，出租车和医疗运输需求增长。但行业面临自动驾驶技术潜在影响，未来就业增长平缓。
+**Job demand: high (★★★★☆).** National workforce approx. 180,000. Demand for passenger drivers in Germany is stable, especially against an ageing population, and demand for taxi and medical transport is growing. However, the industry faces potential impacts from autonomous driving technology, with flat employment growth in future.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $29,000~$38,000 | 税前年薪，取决于地区和雇主 |
-| 中级（3-7年） | $38,000~$48,000 | 有经验司机或承担调度职责 |
-| 高级（7年以上） | $48,000~$55,000 | 含团队管理或特种车辆驾驶 |
+| Median salary | $38,748 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $29,000~$38,000 | Annual pre-tax salary, varies by region and employer |
+| Mid-level (3–7 years) | $38,000~$48,000 | Experienced drivers or those taking on dispatch duties |
+| Senior (7+ years) | $48,000~$55,000 | Includes team management or special vehicle driving |
+| average salary | $39,744 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业司机可从普通司机晋升为车队调度、车队经理或自主创业。也可通过进修获得旅游巴士或重型客车驾驶资格，拓宽职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
+
+Professional drivers can advance from general driver to fleet dispatcher, fleet manager, or start their own business. They can also obtain tourist bus or heavy passenger vehicle driving qualifications through further training to broaden career development.
+
+**Tasks most exposed to AI:**
+
+- Route planning and navigation (AI navigation for optimal routes)
+- Order receiving and dispatch (platform auto-assignment)
+- Billing and payment (automatic calculation and electronic payment).
+- Vehicle basic maintenance warnings (sensor self-check reporting)
+- Customer complaint handling (preprocessed by AI customer service)
+
+**Where AI augments the role:**
+
+- Real-time traffic and dynamic pricing optimization (AI analysis of supply and demand)
+- Safe driving assistance (collision warning, blind spot monitoring)
+- Personalized customer service (recommend itineraries based on historical preferences)
+- Multilingual translator (communicating with foreign passengers via voice translation tools)
+
+**Human moat:**
+
+- Response to complex road conditions (accidents, construction, extreme weather)
+- Interpersonal communication and service experience (emotional support, special needs)
+- Vehicle interior management (cleaning, safety check manual judgment)
+- Trust relationship with passengers (retaining regular customers, word-of-mouth)
+
+**Skills to build:**
+
+- Data analysis and scheduling algorithm understanding (to improve order-taking efficiency).
+- Vehicle maintenance and fault diagnosis basics
+- Advanced customer service and communication skills
+- Safe driving and defensive driving techniques
+- AI-assisted tool usage (navigation, payment, service)
+- Basic multilingual communication
+
+**Key growth areas:**
 
 - moderate demand
 - aging workforce
@@ -64,69 +98,68 @@ Professional drivers transport passengers using cars or small vans, such as taxi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 需完成德国认可的职业教育（双元制培训）并获得工作合同。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制度，允许求职者入境寻找工作，需德语B1以上。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许入境6个月寻找符合资质的工作，需学历或职业资格认可。 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Must complete recognized vocational education (dual training) in Germany and obtain an employment contract. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on points system, allows job seekers to enter to find work, requires German B1 or higher. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to enter for 6 months to find qualified work, need recognized qualifications or professional certification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Professional Driver (Passenger Transport/Car)？**
-- 喜欢驾驶、有良好方向感的人
-- 独立工作、客户服务意识强的人
-- 愿意接受灵活工时（包括夜班和周末）的人
-
-**谁不适合学Professional Driver (Passenger Transport/Car)？**
-- 讨厌长时间久坐或交通拥堵的人
-- 希望朝九晚五固定工作时间的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and have a good sense of direction
+- People who are independent and have strong customer service awareness
+- People willing to accept flexible hours (including night shifts and weekends)
+
+**Who is not suited**
+- People who dislike sitting for long periods or traffic jams
+- People seeking fixed 9-to-5 working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the approximate after-tax income of a professional driver in Germany?**
+A: Junior driver's pre-tax annual salary approx. 29,000-38,000 EUR, post-tax approx. 1,800-2,300 EUR/month (depending on tax bracket and insurance).
+
+**Q: Can Chinese drivers immigrate to Germany as professional drivers through skilled migration?**
+A: Yes, but must complete German-recognised vocational education or pass a qualification recognition procedure. German usually requires B1 or above, and a work contract is needed.
+
+**Q: Can a Chinese driver's license be used directly in Germany?**
+A: A Chinese driver's license can be used up to 6 months after entry, after which it must be exchanged for a German license (requires theory and road tests). Exchange costs about 2,000-3,000 euros.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Professional Driver (Passenger Transport/Car)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the net income of a professional driver in Germany?**
-答：Entry-level gross annual salary is around €29,000-€38,000, net monthly about €1,800-€2,300 depending on tax class and insurance.
-
-**问：Can a Chinese driver migrate to Germany as a professional driver?**
-答：Yes, but you need a recognized vocational qualification in Germany or to have your qualifications assessed. German at B1 level is usually required, along with a job offer.
-
-**问：Is a Chinese driver's license valid in Germany?**
-答：It is valid for the first 6 months after entry. Afterwards you need to exchange it for a German license (requires theory and practical tests). Costs around €2,000-€3,000.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

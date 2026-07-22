@@ -1,60 +1,96 @@
-# BTP and Landscape Drafter（BTP and Landscape Drafter）职业分析 · FR
+# BTP and Landscape Drafter — career analysis · France
 
-**职业代码：F1104 – BTP and Landscape Drafter。**
+**Occupation code: F1104 (ROME)**
 
-Responsible for drafting design drawings for construction and landscape projects, using CAD software to produce construction plans, layouts, and sections, assisting engineers and architects with technical documentation.
+Responsible for drawing design drawings for architectural and landscape engineering, using CAD software to create construction drawings, floor plans, and sectional drawings, and assisting engineers and architects in completing technical documentation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS建筑绘图（BTS Bâtiment） | 2年 | $500~$10,000（公立学校学费低，私立约5000-10000欧元） |
-| DUT土木工程（DUT Génie Civil） | 2年 | $500~$8,000（公立大学约500欧元注册费） |
-| 职业学士（Licence Pro） | 3年 | $500~$12,000（本科水平，学费因校而异） |
+| BTS Architectural Drawing (BTS Bâtiment) | 2 years | $500~$10,000 (Public schools have low tuition fees, while private ones cost about 5,000–10,000 euros) |
+| DUT Génie Civil | 2 years | $500~$8,000 (The registration fee for public universities is about 500 euros) |
+| Bachelor of Vocational (Licence Pro) | 3 years | $500~$12,000 (Undergraduate level, tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS或DUT文凭 | 法国教育部 | 必备 | 通常要求相关专业毕业 |
-| CAD软件认证（如Autodesk） | Autodesk | 可选 | 非强制但提升竞争力 |
-| BIM资格认证 | 建筑行业组织 | 可选 | 新兴要求，大型项目常见 |
+| BTS or DUT diploma | French Ministry of Education | Required | Usually, graduation from a relevant major is required |
+| CAD software certification (such as Autodesk) | Autodesk | Optional | Not mandatory but enhances competitiveness |
+| BIM qualification certification | Construction industry organizations | Optional | Emerging requirements, common in large projects |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国建筑业持续复苏，绿色建筑和可持续景观项目增多，BTP绘图员需求稳定。数字化趋势（BIM）要求技能更新，但入门级岗位竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. France's construction industry continues to recover, with an increase in green buildings and sustainable landscape projects, and stable demand for BTP drafters. The digital trend (BIM) demands skill updates, but entry-level positions face moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，视地区和公司规模 |
-| 中级（3-7年） | $30,000~$38,000 | 具备项目管理经验 |
-| 高级（7年以上） | $38,000~$48,000 | 高级绘图员或BIM协调员 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, varies by region and company size |
+| Mid-level (3–7 years) | $30,000~$38,000 | Project management experience |
+| Senior (7+ years) | $38,000~$48,000 | Senior draftsman or BIM coordinator |
+| average salary | $29,688 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级绘图员可晋升为高级绘图员、BIM协调员或项目设计师。积累经验后可转向项目管理或自主创业。持续学习BIM和相关软件是关键。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
+
+Junior draftsmen can be promoted to senior draftsmen, BIM coordinators, or project designers. After gaining experience, you can move on to project management or start your own business. Continuous learning about BIM and related software is key.
+
+**Tasks most exposed to AI:**
+
+- Draw standard architectural floor plans, elevations, and sections according to engineer requirements
+- Generate material lists, annotate dimensions and notes, and other repetitive documentation
+- Check consistency between drawings and preliminary compliance
+- Convert hand-drawn sketches into CAD digital drawings
+- Perform routine pipeline and routing layout and conflict detection
+
+**Where AI augments the role:**
+
+- Use AI generative design to quickly explore structural optimization solutions and select the best options
+- Automatically generate construction progress simulations and collision detection reports via BIM and AI
+- Collaborates with AI for automatic specification review, improving drawing compliance.
+- Uses AI to assist in estimating material costs and green building performance
+- Quickly generate preliminary drawing skeletons from design specifications using natural language interfaces
+
+**Human moat:**
+
+- Understanding building codes and the deeper intent and exception clauses of local regulations
+- Make creative design judgments on non-standard, complex, or heritage buildings
+- Cross-disciplinary coordination and problem-solving with architects, engineers, and contractors
+- Field survey, handling abnormal conditions, and application decisions for special materials
+- Comprehensive assessment of aesthetic, functional, and constructability aspects of design proposals
+
+**Skills to build:**
+
+- Proficient in BIM software (e.g., Revit) for automated modeling and family creation
+- Learn generative design tools (e.g., Autodesk Generative Design)
+- Enhance ability to operate AI compliance review tools (e.g., Autodesk Insight)
+- Develop data analysis skills for cost estimation and performance simulation
+- Learn basic programming (Python/Ruby) to customize workflows and plugins
+- Enhance communication, project coordination, and on-site problem-solving skills
+
+**Key growth areas:**
 
 - BIM
 - Sustainable Design
@@ -63,68 +99,67 @@ Responsible for drafting design drawings for construction and landscape projects
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 受雇工作居留，需雇主担保，匹配职位通常要求Bac+2学历。 |
-| Subclass Passeport Talent（Talent Passport） | 人才护照，适用于高技能人才，如工程师或设计师，需年薪达约42,000欧元。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，要求年薪达53,000欧元以上（2024年标准），适用于高级绘图员。 |
+| Subclass Salarié (Employee Work Permit) | Employed work residency requires employer sponsorship; matching positions usually require Bac+2 academic qualifications. |
+| Subclass Passeport Talent (Talent Passport) | The talent passport, applicable to highly skilled professionals such as engineers or designers, requires an annual salary of about 42,000 euros. |
+| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual salary of over 53,000 euros (2024 standard), applicable to senior draftsmen. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学BTP and Landscape Drafter？**
-- 喜欢技术和设计结合的人
-- 有耐心和细节导向的人
-- 愿意学习BIM和可持续建筑的人
-
-**谁不适合学BTP and Landscape Drafter？**
-- 不喜欢长时间电脑绘图的人
-- 对建筑法规和标准不感兴趣的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who appreciate the combination of technology and design
+- Patient and detail-oriented
+- Those willing to learn BIM and sustainable architecture
+
+**Who is not suited**
+- People who don't like long hours of computer drawing
+- For those uninterested in building codes and standards
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for draftsmen in France?**
+A: Junior draftsmen earn about 24,000-30,000 euros before tax, intermediate draftsmen about 30,000-38,000 euros, and senior draftsmen up to 48,000 euros. Big cities like Paris offer higher salaries, but the cost of living is also high.
+
+**Q: What are the main pathways for draftsmen to immigrate to France?**
+A: The most common is Salarié, which requires finding an employer and obtaining a work permit. If salary meets the target (about 42,000 euros), you can apply for a talent passport or EU Blue Card.
+
+**Q: What career advancement opportunities are available for draftsmen?**
+A: You can advance from junior draftsman to senior draftsman, BIM coordinator, or project designer. Further steps can be shifted to project management or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-BTP and Landscape Drafter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a drafter in France?**
-答：A junior drafter earns around €24,000-30,000 gross annually, mid-level €30,000-38,000, and senior up to €48,000. Salaries are higher in Paris but living costs are also higher.
-
-**问：What are the main migration pathways for a drafter to France?**
-答：The most common is the Salarié work permit, requiring a job offer and work authorization. If salary meets thresholds (around €42,000), the Talent Passport or EU Blue Card is possible.
-
-**问：What are the career advancement opportunities for a drafter?**
-答：You can progress from junior drafter to senior drafter, BIM coordinator, or project designer. Further advancement into project management or self-employment is possible.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

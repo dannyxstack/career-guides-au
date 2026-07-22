@@ -1,59 +1,92 @@
-# Hand Launderers and Pressers（Hand Launderers and Pressers）职业分析 · NL
+# Hand Launderers and Pressers — career analysis · Netherlands
 
-**职业代码：9121 – Hand Launderers and Pressers。**
+**Occupation code: 9121 (ISCO08)**
 
-Hand launderers and pressers manually wash, iron, and finish garments for hotels, dry cleaners, and private clients. The job is physically demanding but has low entry barriers.
+Hand washers and pressers are responsible for hand washing, pressing, and finishing garments, mainly serving hotels, dry cleaners, and private clients. The job is physically demanding but has low entry barriers.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在职培训） |
-| 中等职业教育（MBO） | 2-3年 | $2,000~$4,000（部分学校收费，部分免费） |
+| No formal education required | None | $0~$0 (Usually on-the-job training) |
+| Intermediate Vocational Education (MBO) | 2-3 years | $2,000~$4,000 (Some schools charge fees, some are free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 雇主通常提供在职培训 |
+| No mandatory requirements | None | Optional | Employers usually provide on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。荷兰该职业需求稳定，但受自动化影响增长有限。预计未来五年从业人数略降，岗位多集中于城市区域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Demand for this occupation is stable in the Netherlands, but growth is limited due to automation. The number of practitioners is expected to decline slightly over the next five years, with most jobs concentrated in urban areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-5年） | $26,000~$30,000 | 税前年薪 |
-| 高级（5年以上） | $30,000~$35,000 | 税前年薪 |
+| Median salary | $34,975 | Median salary (official: CBS median hourly wage €17.7/hour × 1976h annualized, BRC group 1121 Schoonmakers; P25–P75 €32,011–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $26,000~$30,000 | Annual pre-tax salary |
+| Senior (5+ years) | $30,000~$35,000 | Annual pre-tax salary |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 职业晋升路径有限，可从初级工人晋升为洗衣房主管或自营干洗店。少数经验者可转向设备维护或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Hand washers and ironers face high risk of automation; AI-driven smart washing equipment and robotic ironing systems will significantly reduce job numbers.
+
+Career progression paths are limited, with potential advancement from entry-level worker to laundry supervisor or self-employed dry cleaner. A few experienced individuals may move into equipment maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Wash ordinary clothing using standard procedures
+- Ironing regular clothing such as shirts and pants
+- Sort and fold standard clothing items
+- Record washing and ironing quantities
+
+**Where AI augments the role:**
+
+- Uses AI to identify fabric and stain types, optimizing washing solutions
+- Using robots to assist with heavy lifting, reducing physical exertion.
+- Improving ironing quality consistency through AI detection systems.
+- Intelligent scheduling system optimizes workflow and improves efficiency
+
+**Human moat:**
+
+- Manual techniques for handling delicate fabrics (e.g., silk, wool)
+- Customer Communication and Personalized Services (e.g., Special Stain Removal Requests)
+- Creative pressing (e.g., custom garment shaping)
+- Judgment and remediation of unforeseen washing issues (e.g., color fading)
+
+**Skills to build:**
+
+- Learn to operate intelligent washing and ironing robot systems
+- Master fabric identification and care knowledge
+- Basic equipment maintenance and troubleshooting skills
+- Customer service and communication skills
+- Data entry and analysis (recording machine performance)
+- Eco-friendly washing technology (water and energy saving)
+
+**Key growth areas:**
 
 - Stable
 - Automation
@@ -62,69 +95,68 @@ Hand launderers and pressers manually wash, iron, and finish garments for hotels
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，但本职业通常不满足薪资要求。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用非欧盟高技能员工，本职业薪资低，通常不符合条件。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业留学生可申请，寻找任何工作包括该职业。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, but this occupation typically does not meet salary requirements. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to non-EU high-skilled workers, but this occupation has low salary and usually does not meet the conditions. |
+| Subclass Orientation Year (Orientation Year) | Dutch graduate international students can apply, seeking any job including this occupation. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hand Launderers and Pressers？**
-- 体力好且能适应重复性工作者
-- 对服装护理有耐心和细致者
-- 愿意从事低门槛入门岗位者
-
-**谁不适合学Hand Launderers and Pressers？**
-- 追求高薪和职业发展者
-- 不喜欢体力劳动或重复性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are physically fit and able to adapt to repetitive work.
+- Those with patience and attention to detail in garment care
+- Those willing to take on low-barrier entry positions
+
+**Who is not suited**
+- Those seeking high salary and career development
+- People who dislike physical labor or repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for hand washers and ironers in the Netherlands?**
+A: Entry-level annual salary approx. €22,000-€26,000, senior up to €30,000-€35,000, overall low.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Very difficult, as the salary level is far below the high-skilled immigration threshold, feasible only for EU citizens with free movement or those holding an orientation year visa.
+
+**Q: What are the career development prospects for a hand washer?**
+A: Limited promotion opportunities, can progress to laundry supervisor or self-operated dry cleaning store, but overall heavily impacted by automation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hand Launderers and Pressers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hand launderers and pressers in the Netherlands?**
-答：Entry level salary is around EUR 22,000-26,000 per year, while senior workers can earn up to EUR 30,000-35,000.
-
-**问：Can foreigners immigrate to the Netherlands through this occupation?**
-答：It is very difficult because the salary is far below the threshold for highly skilled migrants. Only EU citizens or those with an orientation year visa can easily work.
-
-**问：What are the career prospects for hand launderers and pressers?**
-答：Advancement is limited, with possible paths to laundry supervisor or self-employment. Automation poses a threat to job growth.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

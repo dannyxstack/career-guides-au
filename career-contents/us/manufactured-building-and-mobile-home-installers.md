@@ -1,61 +1,97 @@
-# Manufactured Building and Mobile Home Installers（Manufactured Building and Mobile Home Installers）职业分析 · 美国
+# Manufactured Building and Mobile Home Installers — career analysis · United States
 
-**职业代码：49-9095 – Manufactured Building and Mobile Home Installers。**
+**Occupation code: 49-9095 (SOC)**
 
-Manufactured building and mobile home installers transport, assemble, and install prefabricated buildings or mobile homes, including site preparation, utility connections, and structural securing. This specialized installation role in the construction industry requires physical labor and basic construction skills.
+Prefabricated and mobile home installers transport, assemble, and install prefab buildings or mobile homes, including foundation preparation, utility connections, and structural securing. This occupation is a specialized installation role in construction, typically requiring physical labor and basic construction skills
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常要求高中文凭，无额外教育成本） |
-| 在职培训 | 6个月至1年 | —（雇主提供在职培训，可能需自费安全课程） |
+| High school diploma or equivalent | None | $0~$0 (Typically requires a high school diploma, no additional education cost) |
+| On-the-job training | 6 months to 1 year | $0~$2,000 (Employer provides on-the-job training; may need to self-fund safety courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照（商业类） | 州机动车辆管理局 | 必备 | 可能需要Class B商业驾照以牵引运输移动房屋 |
-| OSHA 安全认证 | 职业安全与健康管理局 | 可选 | 常见雇主安全要求 |
-| 安装许可证（部分州） | 州级建筑许可机构 | 可选 | 某些州要求移动房屋安装商持有许可证 |
+| Driver's license (commercial class) | State motor vehicle department | Required | May need a Class B commercial driver's license to tow transportable homes |
+| OSHA safety certification | Occupational Safety and Health Administration | Optional | Common employer safety requirements |
+| Installer license (some states) | State building licensing authority | Optional | Some states require mobile home installers to hold a license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,900。美国预制房屋市场受住房需求驱动，预计未来十年岗位增长约5%，略低于平均水平。预制建筑在低成本住房和临时设施需求中仍有稳定机会，但受经济周期影响较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,900. US prefabricated housing market is driven by housing demand, with about 5% job growth expected over the next decade, slightly below average. Prefab construction still offers stable opportunities in low-cost housing and temporary facility needs, but is affected by economic cycles.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级安装工，通常按小时计薪 |
-| 中级（3-5年） | $36,000~$48,000 | 有经验安装工，可独立完成复杂安装 |
-| 高级（5年以上） | $48,000~$60,000 | 高级安装工或主管，可能负责团队管理 |
+| Median salary | $45,990 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | entry-level installer, usually paid hourly |
+| Mid-level (3–5 years) | $36,000~$48,000 | Experienced installer capable of completing complex installations independently |
+| Senior (5+ years) | $48,000~$60,000 | Senior installer or supervisor, may be responsible for team management |
+| average salary | $45,410 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，可从安装工晋升为安装主管，或转向预制房屋销售、检验等岗位。部分经验丰富者可自主创业承接安装合同。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Prefab and mobile home installer jobs are a mixed bag due to AI and automation: basic tasks like site measurement and material cutting are easily replaced by automation tools, but structural customization, on-site troubleshooting, and client communication rely on human judgment and adaptability, which are augmented by AI; overall demand may increase slightly.
+
+Career advancement paths are limited; installers can move up to installation supervisor, or transition to prefabricated home sales, inspection, etc. Some experienced individuals start their own contracting businesses.
+
+**Tasks most exposed to AI:**
+
+- Use AI-driven measurement tools to automate foundation layout and level calibration
+- Completing standardized board cutting and splicing through prefabricated robot systems
+- Module transport and site planning completed by autonomous trucks or drones
+- Use AR glasses for drawing comparison and automatic marking of installation positions
+- AI monitoring system detects structural stability in real-time, automatically adjusts support columns
+
+**Where AI augments the role:**
+
+- AI-assisted design software helps quickly generate personalized house layouts and material lists
+- Use augmented reality (AR) to guide assembly and pipe connection of complex modules
+- Intelligent diagnostic tools analyze field issues, providing repair steps and spare parts recommendations
+- AI-driven project management platform optimizes multi-person collaboration timing and equipment scheduling.
+- Customer requirements are directly converted into installation parameters via natural language processing, reducing communication errors
+
+**Human moat:**
+
+- On-site judgment and decision-making in non-standard terrain or extreme weather conditions
+- Negotiate customized modification plans with clients and handle sudden requirement changes
+- Manually sealing, waterproofing, and insulating precision connection points
+- Coordinate on-site construction sequences for multiple trades (e.g., electricians, plumbers)
+- Final manual acceptance of structural safety, assuming legal responsibility
+
+**Skills to build:**
+
+- Proficiency in Building Information Modelling (BIM) software for coordinating prefabricated component design
+- Learning to use laser scanners and drone surveying for site assessment
+- Training to operate automated installation robots and basic maintenance
+- Enhance customer service and negotiation skills for handling customised requirements
+- Learn basic electrical and plumbing knowledge for integrated housing
+- Proficient in project management software (e.g., Procore) for progress and cost tracking
+
+**Key growth areas:**
 
 - Construction
 - Housing Demand
@@ -64,65 +100,67 @@ Manufactured building and mobile home installers transport, assemble, and instal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 建筑安装类季节性工作，适合临时劳工，但雇主需证明劳工短缺，申请配额有限。 |
-| Subclass Green Card (EB-3)（Employment-Based Third Preference (EB-3)） | 理论上可通过EB-3申请绿卡，但需PERM劳工证，雇主通常不愿为此低技能岗位担保。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal construction installation work suitable for temporary laborers, but employers must prove labor shortages and quotas are limited. |
+| Subclass Green Card (EB-3) (Employment-Based Third Preference (EB-3)) | Theoretically can apply for a green card via EB-3, but a PERM labor certification is required, and employers are often unwilling to sponsor this low-skilled position. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Manufactured Building and Mobile Home Installers？**
-- 喜欢户外体力劳动，动手能力强的人
-- 追求快速就业、不介意重复性工作的人
-- 愿意在建筑行业积累经验并可能创业的人
+**Who is suited**
+- People who enjoy outdoor physical work and have strong hands-on skills
+- People seeking quick employment without minding repetitive work
+- Those willing to gain experience in the construction industry and potentially start a business
 
-**谁不适合学Manufactured Building and Mobile Home Installers？**
-- 偏好办公室工作或无体力要求的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- Those who prefer office work or jobs with no physical demands
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a prefabricated home installer?**
+A: According to BLS data, the average annual salary in 2023 is about $36,000, with a range of $28,000 to $50,000. Salaries are affected by region, employer, and experience; senior installers can reach $60,000.
+
+**Q: Can this occupation immigrate to the United States through a work visa?**
+A: Low feasibility. This occupation typically doesn't meet H-1B professional requirements; only H-2B temporary visa or EB-3 green card possible, but employer willingness is weak and quotas tight.
+
+**Q: What training and certifications are needed?**
+A: Usually requires only a high school diploma and on-the-job training. Some states require a commercial driver's license or installation permit. OSHA safety certification is a common employer requirement and can be completed within weeks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Manufactured Building and Mobile Home Installers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for manufactured building installers?**
-答：According to BLS data, the median annual wage in 2023 was about $36,000, with a range of $28,000 to $50,000. Experienced installers can earn up to $60,000.
-
-**问：Can I immigrate to the US through this occupation?**
-答：Low feasibility. This occupation does not qualify for H-1B professional visas; H-2B temporary or EB-3 green card is possible but employer sponsorship is rare and quotas are limited.
-
-**问：What training and certifications are required?**
-答：Typically only a high school diploma and on-the-job training. Some states require a commercial driver's license or installer license. OSHA safety certification is commonly required by employers.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

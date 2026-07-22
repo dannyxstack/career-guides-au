@@ -1,58 +1,94 @@
-# Domestic Workers（Domestic Workers）职业分析 · ES
+# Domestic Workers — career analysis · Spain
 
-**职业代码：9100 – Domestic Workers。**
+**Occupation code: 9100 (CNO)**
 
-Domestic workers perform household tasks such as cleaning, cooking, laundry, and childcare in private homes. Employment is often full-time or part-time, with stable demand but low wages and high work intensity.
+Domestic workers work in private households performing household tasks such as cleaning, cooking, laundry, and caring for children or the elderly, usually employed full-time or part-time. This profession has stable demand in Spain but offers low salaries and high work intensity.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规学历 | 无 | —（通常不需要正式教育，培训可能由雇主或非营利组织提供） |
+| No formal education required | None | $0~$0 (Formal education is usually not required, and training may be provided by employers or nonprofit organizations) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无特定强制资格 | 无 | 可选 | 西班牙无全国性强制资格要求，但部分雇主偏好有经验或培训证明者 |
+| No specific mandatory qualifications | None | Optional | Spain has no mandatory national qualification requirements, but some employers prefer those with experience or proof of training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 450,000。西班牙家政服务需求受人口老龄化和双职工家庭增加驱动，预计保持稳定。但移民工人竞争激烈，工资增长有限。数字化平台（如按需家政APP）带来新就业机会，但保障不足。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 450,000. Demand for domestic services in Spain is expected to remain stable, driven by an aging population and an increase in dual-income households. However, competition among migrant workers is fierce, and wage growth is limited. Digital platforms (such as on-demand housekeeping apps) create new job opportunities, but their protection is insufficient.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$15,000 | 多为半职或按小时计薪，年薪假设全职 |
-| 中级（3-10年） | $15,000~$18,000 | 含经验丰富或管家角色 |
-| 高级（10年以上） | $18,000~$22,000 | 高级管家或家庭经理，通常需承担管理职责 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$15,000 | Most are part-time or hourly, with annual salary assumed to be full-time |
+| Intermediate (3-10 years) | $15,000~$18,000 | Includes experienced or housekeeper roles |
+| Senior (10+ years) | $18,000~$22,000 | Senior butlers or home managers usually take on management responsibilities |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 起点多为全职家政，经验丰富后可晋升为管家或家庭经理，管理家务团队。少数人可自营家政公司。但缺乏正规晋升路径，多数人长期处于初级岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of domestic helpers is highly physical and personalized, with moderately low automation risks, but AI can assist in optimizing scheduling, procurement, and basic training, enhancing efficiency. The entry barrier remains basically unchanged, but you need to master smart home and online platform skills.
+
+Most start as full-time domestic helpers, and after gaining experience, you can be promoted to housekeeper or household manager, managing the housekeeping team. A few people can run their own housekeeping companies. However, there is a lack of formal promotion paths, and most people remain in junior positions for a long time.
+
+**Tasks most exposed to AI:**
+
+- The AI scheduling system automatically plans cleaning routes and task priorities
+- Smart devices such as robot vacuums and dishwashers replace some cleaning and washing tasks
+- The voice assistant automatically records customer preferences and reminds you of to-do items
+- AI generates personalized recipes and automatically purchases ingredients
+- The online platform automatically matches employers with domestic workers, reducing manual intermediary steps
+
+**Where AI augments the role:**
+
+- AI-assisted planning for family nutrition meals improves the quality of cooking services
+- Smart home systems provide real-time feedback and abnormal alerts, strengthening security protection
+- Big data analysis of customer needs helps customize personalized services
+- Online training courses use AI adaptive learning to quickly master new skills
+- Multilingual translation tools assist in communication with foreign employers
+
+**Human moat:**
+
+- Emotional companionship and psychological comfort, especially for children and the elderly
+- Flexible response to unexpected events (such as sudden illness or appliance failures).
+- Deep trust is built in relationships, involving privacy and family security
+- The unique value of handicrafts or traditional cooking techniques
+- Sensitivity and adaptability of cross-cultural family customs
+
+**Skills to build:**
+
+- Operation and maintenance of smart home devices (robot vacuum cleaners, smart kitchen appliances).
+- Basic digital literacy: Use domestic service platforms for order acceptance and evaluation systems
+- Basic knowledge of nutrition, combined with AI tools to create healthy meal plans
+- First aid and basic care skills (CPR, elderly fall management)
+- Use of time management and online collaboration tools
+- Personalized services and customer relationship management
+
+**Key growth areas:**
 
 - Aging population
 - Dual-income households
@@ -61,61 +97,63 @@ Domestic workers perform household tasks such as cleaning, cooking, laundry, and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 雇主为家政工人申请工作许可，需证明无法在当地招到合适人选。通常适用于全职、长期合同。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employers applying for work permits for domestic workers must prove that suitable candidates cannot be recruited locally. This usually applies to full-time, long-term contracts. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Domestic Workers？**
-- 愿意从事体力劳动、有耐心和责任心的人
-- 寻求灵活工作安排（如半职）的人
-- 有移民背景但缺乏西班牙学历认证的人（但移民路径困难）
+**Who is suited**
+- Willing to do manual labor, patient, and responsible
+- People seeking flexible work arrangements (such as part-time jobs).
+- People with immigration background but lacking Spanish academic qualification recognition (but immigration path is difficult)
 
-**谁不适合学Domestic Workers？**
-- 追求高收入和职业发展的人
-- 希望获得稳定全职合同和社保保障的人
+**Who is not suited**
+- Those seeking high income and career development.
+- Those seeking stable full-time contracts and social security protection
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for domestic helpers?**
+A: The annual salary for domestic workers in Spain is about 12,000-22,000 euros (full-time), significantly lower than the national average. Salaries depend on experience, job content, and region, with major cities like Madrid and Barcelona offering slightly higher salaries.
+
+**Q: Can foreigners immigrate to Spain through domestic work?**
+A: extremely difficult. Domestic work is not considered a scarce occupation in Spain; employers must prove that workers cannot be recruited within the EU and that wages are too low to meet immigration income requirements. Usually, only family reunification or other family visas are available.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（½☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 很低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Domestic Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for domestic workers?**
-答：The annual salary for domestic workers in Spain ranges from €12,000 to €22,000 (full-time), well below the national average. Pay depends on experience, duties, and region, with higher rates in Madrid and Barcelona.
-
-**问：Can foreigners immigrate to Spain through domestic work?**
-答：Extremely difficult. Domestic work is not a shortage occupation, employers must prove no EU workers available, and low wages often fail to meet income thresholds. Family reunification or other family visas are more common.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

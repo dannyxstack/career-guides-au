@@ -1,59 +1,95 @@
-# Mechanical Engineering Technician（Mechanical Engineering Technician）职业分析 · 新西兰
+# Mechanical Engineering Technician — career analysis · New Zealand
 
-**职业代码：312512 – Mechanical Engineering Technician。**
+**Occupation code: 312512 (ANZSCO)**
 
-Assist mechanical engineers in designing, testing, and manufacturing mechanical components and equipment, handling technical drawings, quality control, and maintenance. This occupation is on the Green List Tier 2, offering a work-to-residence pathway, making it a popular choice for skilled migration in New Zealand.
+Assist mechanical engineers in designing, testing, and manufacturing mechanical parts and equipment, responsible for technical drawings, quality control, and maintenance. This occupation is on the Green List Tier 2, eligible for the work-to-residence pathway, and is a popular choice for skilled migration to New Zealand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家文凭（机械工程） | 2年 | $20,000~$30,000（理工学院学费） |
-| 工程学学士（机械） | 4年 | $35,000~$50,000（大学学费，国际生更高） |
+| New Zealand National Diploma in Mechanical Engineering | 2 years | $20,000~$30,000 (Polytechnic tuition fees) |
+| Bachelor of Engineering (Mechanical) | 4 years | $35,000~$50,000 (University tuition, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家机械工程文凭（L5/6） | 新西兰政府 | 必备 | 通常要求，相当于助理工程师水平 |
-| 工程技术员注册 | 工程新西兰（Engineering New Zealand） | 可选 | 非强制但有助于就业和移民 |
-| 工作场所安全证书 | Site Safe | 可选 | 工地工作可能需要 |
+| New Zealand National Diploma in Mechanical Engineering (L5/6) | New Zealand Government | Required | Typically requires, equivalent to assistant engineer level |
+| Engineering technician registration | Engineering New Zealand | Optional | Not mandatory but helpful for employment and immigration |
+| Workplace safety certificate | Site Safe | Optional | May be required for site work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 4,000。新西兰制造业和建筑业持续增长，机械工程技术员需求稳定，预计未来5年就业增长率约10%。奥克兰、怀卡托和坎特伯雷地区机会较多。
+**Job demand: high (★★★★☆).** National workforce approx. 4,000. With sustained growth in New Zealand's manufacturing and construction sectors, demand for mechanical engineering technicians remains stable, with an estimated employment growth rate of about 10% over the next five years. Opportunities are more plentiful in Auckland, Waikato, and Canterbury.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 应届毕业生起薪 |
-| 中级（3-7年） | $75,000~$95,000 | 经验丰富后薪资提升 |
-| 高级（7年以上） | $100,000~$120,000 | 团队领导或专家级别 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Graduate starting salary |
+| Mid-level (3–7 years) | $75,000~$95,000 | Salary increases with experience |
+| Senior (7+ years) | $100,000~$120,000 | Team leader or expert level |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级技术员做起，积累经验后可晋升为高级技术员或工程经理，也可考取工程师资格转向机械工程师岗位。持续学习新技术如自动化、可持续设计能增强职业竞争力。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mechanical engineering technicians face medium automation risk; repetitive drafting and testing will be replaced by AI, but design optimization and on-site problem-solving skills are enhanced, requiring proactive transition to retain career value.
+
+Starting as a junior technician, one can advance to senior technician or engineering manager with experience, or obtain professional engineer certification to transition to mechanical engineer roles. Continuous learning of new technologies such as automation and sustainable design enhances career competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Drawing standard mechanical part diagrams using CAD software
+- Routine mechanical calculations and tolerance analysis
+- Repetitive functional testing and data recording
+- Format checking and simple translation of technical documents
+- Simple parametric design of components
+
+**Where AI augments the role:**
+
+- Uses AI to generate multiple design variants for rapid iteration
+- Using AI simulation to predict fatigue and failure modes
+- Optimize maintenance plans through AI analysis of historical data
+- Use AI-assisted inspection systems to improve quality control efficiency
+- Collaborative design review and decision-making based on AI recommendations
+
+**Human moat:**
+
+- On-site commissioning and troubleshooting complex mechanical faults
+- Cross-team communication and developing design requirements
+- Innovative and non-standardised component design.
+- Judgment of responsibility for safety-critical systems
+- Customized solutions directly interfacing with clients
+
+**Skills to build:**
+
+- Python programming basics (data analysis and automation scripts)
+- Applications of AI/ML in engineering design (e.g., generative design)
+- Advanced finite element analysis (FEA) software operation
+- Internet of Things (IoT) and sensor data interpretation
+- Project Management and Agile Methodologies
+- Fundamentals of digital twin technology
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,69 +98,68 @@ Assist mechanical engineers in designing, testing, and manufacturing mechanical 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T2（Green List Work to Residence） | 职业在绿色清单第二类，工作满24个月可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验）可申请技术移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主担保工签，适合开始新西兰职业生涯 |
+| Subclass Green List T2 (Green List Work to Residence) | Occupation is on the Green List Tier 2; eligible for residence after 24 months of work |
+| Subclass SMC (Skilled Migrant Category) | Qualify for skilled migration by meeting the 6-point system (education + work experience) |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, suitable for starting career in New Zealand |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineering Technician？**
-- 喜欢动手解决机械问题，注重细节的人
-- 对机械设计和制造有热情，愿意持续学习新技术
-- 希望在新西兰通过技术移民获得永久居留的申请人
-
-**谁不适合学Mechanical Engineering Technician？**
-- 不喜欢重复性技术绘图或质量检查工作的人
-- 不愿意在工程团队中协作，偏好独立工作
-- 对机械原理和数学不感兴趣的人
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys hands-on mechanical problem-solving and pays attention to detail
+- Passionate about mechanical design and manufacturing, willing to continuously learn new technologies
+- Applicants seeking permanent residency in New Zealand through skilled migration
+
+**Who is not suited**
+- People who dislike repetitive technical drawing or quality inspection work
+- Unwilling to collaborate in engineering teams, prefers independent work
+- People not interested in mechanical principles and mathematics
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a mechanical engineering technician in New Zealand?**
+A: Entry-level: NZD 55,000-70,000; mid-level: NZD 75,000-95,000; senior: up to NZD 100,000-120,000.
+
+**Q: How can mechanical engineering technicians migrate to New Zealand via the Green List?**
+A: This occupation is on Tier 2 of the Green List; requires a job offer from an accredited employer and can apply for residency after 24 months of work. Also must meet age, health, and character requirements.
+
+**Q: What qualifications are needed to become a mechanical engineering technician?**
+A: Typically requires a New Zealand National Diploma in Mechanical Engineering (Level 5 or 6) or equivalent, 2 years full-time. Alternatively, a 4-year Bachelor of Engineering.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★★☆☆☆） |
-
-Mechanical Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Mechanical Engineering Technician in New Zealand?**
-答：Entry-level is around NZD 55,000-70,000, mid-level NZD 75,000-95,000, senior NZD 100,000-120,000.
-
-**问：How can a Mechanical Engineering Technician migrate to New Zealand via the Green List?**
-答：This occupation is on Green List Tier 2. You need a job offer from an accredited employer, work for 24 months, then apply for residence. Also meet age, health, and character requirements.
-
-**问：What qualification is needed to become a Mechanical Engineering Technician?**
-答：Typically a New Zealand Diploma in Mechanical Engineering (Level 5 or 6) or equivalent, 2 years full-time. Alternatively, a 4-year Bachelor's degree in Engineering.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

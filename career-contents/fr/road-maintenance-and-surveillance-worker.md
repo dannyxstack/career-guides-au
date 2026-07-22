@@ -1,63 +1,96 @@
-# Road Maintenance and Surveillance Worker（Road Maintenance and Surveillance Worker）职业分析 · FR
+# Road Maintenance and Surveillance Worker — career analysis · France
 
-**职业代码：I1202 – Road Maintenance and Surveillance Worker。**
+**Occupation code: I1202 (ROME)**
 
-Responsible for routine maintenance, inspection, and minor repairs of roads and highways to ensure traffic safety and smooth flow, a key frontline role in France's infrastructure maintenance system.
+It is responsible for the daily maintenance, inspections, and minor repairs of transportation networks such as highways and expressways, ensuring smooth road traffic and safety. It is a key grassroots position in France's infrastructure maintenance system.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立职业学校免费，注册费约100-500欧元/年；学徒制带薪） |
-| Bac Pro（职业高中文凭） | 3年 | —（公立学校免费；可通过学徒制完成） |
-| BTS（高级技师证书） | 2年（Bac+2） | —（公立院校免学费；注册费约200-600欧元/年） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$1,500 (Public vocational schools are free, with registration fees of about 100-500 euros per year; Apprenticeships are paid with pay) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$2,000 (Public schools are free; It can be completed through apprenticeships) |
+| BTS (Senior Technician Certificate) | 2 years (Bac+2) | $0~$3,000 (Tuition waived at public institutions; The registration fee is about 200-600 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAT A 或 B 类驾驶执照 | Préfecture | 必备 | 必要，用于驾驶工程车辆 |
-| FIMO 或 FCO 运输资格证 | Ministère de la Transition écologique | 可选 | 若驾驶重型货车需持有 |
-| CACES 工程机械操作证书 | CNAM 或认证培训机构 | 可选 | 操作装载机、压路机等设备时需持证 |
-| 道路安全与信号设置培训 | France Travail 或企业内训 | 可选 | 部分雇主要求，提高竞争力 |
+| CAT A or B Class driver's license | Préfecture | Required | Necessary for driving engineering vehicles |
+| FIMO or FCO transport qualification certificate | Ministère de la Transition écologique | Optional | If driving a heavy truck, you need to have one |
+| CACES Construction Machinery Operation Certificate | CNAM or certified training institutions | Optional | Operating loaders, rollers, and other equipment requires certification |
+| Training on road safety and signal settings | France Travail or corporate in-house training | Optional | Some employers demand increased competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 35,000。法国政府持续推进交通基础设施现代化，道路网老化亟需养护人力，预计未来5年岗位需求稳定。但受预算限制，新增职位有限，主要依赖退休补员。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The French government continues to modernize transportation infrastructure, and the aging road network urgently needs maintenance personnel. Job demand is expected to remain stable over the next five years. However, due to budget constraints, new positions are limited, and the main reliance is on retired replacements.
 
-**竞争度：中低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $27,000~$32,000 | 税前年薪，含夜班/周末补贴 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，团队负责人或技术专家 |
+| Median salary | $29,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $27,000~$32,000 | Pre-tax annual salary, including night shift/weekend allowances |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, team leader or technical expert |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从初级巡查员可晋升为高级技工、团队负责人或区域养护主管；也可转向道路安全检测、施工监理等专业岗位，或通过内部培训进入工程管理领域。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Road maintenance and patrol duties combine automatable parts and on-site visits; AI will replace data recording and routine inspections but enhance predictive maintenance and decision-making with overall moderate risk.
+
+Junior inspectors can be promoted to senior technicians, team leaders, or regional maintenance supervisors; They can also switch to professional positions such as road safety inspection or construction supervision, or enter the engineering management field through internal training.
+
+**Tasks most exposed to AI:**
+
+- Visual inspection and manual recording of road defects
+- Inspection and updating of traffic signs and markings
+- Formulating and scheduling routine maintenance plans
+- Collection and classification of photos of road surface damage
+
+**Where AI augments the role:**
+
+- Potential road surface issues are identified through sensors and AI predictive models
+- Efficient area patrols are conducted using drones and autonomous vehicles
+- Optimize the maintenance construction time window based on real-time traffic data
+- Augmented reality-assisted repair guidance and quality verification
+
+**Human moat:**
+
+- Emergency response and coordination at complex traffic accident scenes
+- Flexible judgment and safe decision-making under special climate conditions
+- Communication and complaint handling with local communities and drivers
+- On-site assessment and temporary reinforcement for unforeseen structural damage
+
+**Skills to build:**
+
+- GIS and geographic information system operations
+- Basic data analysis and visualization with Python/R
+- Drone operation and image processing
+- Maintenance of smart sensors and IoT devices
+- Use of project management and decision-making support tools
+- Basic English technical documentation reading
+
+**Key growth areas:**
 
 - Road maintenance
 - Infrastructure renewal
@@ -66,66 +99,68 @@ Responsible for routine maintenance, inspection, and minor repairs of roads and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Residence Permit)） | 需法国雇主提供CDI合同，并通过劳动局审核雇佣必要性，岗位通常不紧缺，获批难度较高。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Seeker Visa)） | 允许在法居留1年寻找工作，但需证明有足够资金及法语能力，且岗位非紧缺，成功率低。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 仅当申请人持有高等文凭且薪资超过阈值（约53,000欧元/年）时有可能，本岗位通常不达标准。 |
+| Subclass Salarié (Salarié (Employee Residence Permit)) | A CDI contract must be provided by a French employer and approved by the Labor Bureau for necessity. The position is usually not in short supply and is difficult to approve. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Seeker Visa)) | You are allowed to stay in France for one year to find a job, but you must prove sufficient funds and French language skills, and the position is not in short supply, so the success rate is low. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Only possible if applicant holds higher diploma and salary exceeds threshold (approx €53,000/year); this role typically does not meet the standard. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Road Maintenance and Surveillance Worker？**
-- 喜欢户外工作、动手能力强的人
-- 适应体力劳动和倒班制度的人
-- 希望尽快就业、无需高等学历的人
+**Who is suited**
+- People who enjoy outdoor work and are hands-on
+- People who adapt to manual labor and shift systems
+- Those who want to find employment quickly and do not require higher education
 
-**谁不适合学Road Maintenance and Surveillance Worker？**
-- 偏好办公室白领工作或追求高薪者
-- 不擅长体力劳动或对天气敏感者
+**Who is not suited**
+- Those who prefer office white-collar jobs or pursue high salaries
+- Those who are not skilled at physical labor or sensitive to weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for road maintenance workers in France?**
+A: Entry-level annual salary about EUR 22,000-26,000 before tax, mid-level EUR 27,000-32,000, senior up to EUR 40,000. Night shifts and weekend work have extra allowances.
+
+**Q: How can foreigners immigrate to France through this position?**
+A: This position is not a shortage occupation in France; employers must prove they cannot recruit EU citizens. Third-country applicants must be fluent in French, hold a CDI contract, and wait for approval from the labor bureau, which has a lower success rate. It is recommended to immigrate through other in-demand occupations or talent passport pathways.
+
+**Q: What is the career development path for road maintenance workers?**
+A: You can be promoted to senior technician, team supervisor, or regional maintenance manager, or you can also move to road safety inspection, construction supervision, or engineering management positions. Higher-level certifications can be obtained through internal training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中低（★★☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Road Maintenance and Surveillance Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for road maintenance workers in France?**
-答：Entry-level annual salary is about €22,000-26,000 gross, mid-level €27,000-32,000, and senior up to €40,000. Night and weekend shifts receive additional allowances.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：This occupation is not a shortage job; employers must prove no EU candidate is available. Applicants need fluent French, a CDI contract, and approval from the labor authority, which is difficult. Consider shortage occupations or the Talent Passport instead.
-
-**问：What is the career progression for road maintenance workers?**
-答：Progression includes senior technician, team supervisor, or regional maintenance manager. Transitions to road safety inspection, construction supervision, or engineering management are possible with additional training.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,62 +1,94 @@
-# Psychiatric Aides（Psychiatric Aides）职业分析 · 美国
+# Psychiatric Aides — career analysis · United States
 
-**职业代码：31-1133 – Psychiatric Aides。**
+**Occupation code: 31-1133 (SOC)**
 
-Assist mentally impaired or emotionally disturbed patients under direction of nursing and medical staff, providing daily living support, leading recreational activities, and accompanying patients to appointments.
+Under the guidance of nursing and medical staff, assist patients with mental disorders or emotional distress, provide daily living support, organize recreational activities, and accompany patients to appointments.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常高中文凭即可） |
-| 短期培训 | 1-3个月 | $500~$2,000（在职培训或社区大学课程） |
-| 副学士学位 | 2年 | $10,000~$30,000（可选，有助于晋升） |
+| High school diploma | None | $0~$0 (Usually requires a high school diploma) |
+| Short-term training | 1-3 months. | $500~$2,000 (On-the-job training or community college courses) |
+| Associate degree | 2 years | $10,000~$30,000 (Optional, helps with promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 学校 | 必备 | 基本要求 |
-| CPR认证 | 美国红十字会等 | 必备 | 心肺复苏认证 |
-| 精神病助理培训证书 | 培训机构 | 可选 | 部分州要求 |
+| High school diploma | School | Required | Basic requirements |
+| CPR certification | American Red Cross, etc. | Required | CPR certification |
+| Psychiatric assistant training certificate | Training institution | Optional | Required in some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 78,900。美国对精神病助理的需求稳定，随着心理健康服务扩展，就业机会预计保持平稳增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 78,900. Demand for US psychiatric assistants is stable; with the expansion of mental health services, employment opportunities are expected to grow steadily.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约12-15美元 |
-| 中级（3-7年） | $32,000~$40,000 | 时薪约15-19美元 |
-| 高级（7年以上） | $38,000~$48,000 | 时薪约18-23美元 |
+| Median salary | $44,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–7 years) | $32,000~$40,000 | Hourly wage approximately $15-19 |
+| Senior (7+ years) | $38,000~$48,000 | Hourly wage approx. 18-23 USD |
+| average salary | $45,690 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 精神病助理可晋升为精神科技术员或注册护士，需额外教育和认证。长期可转向心理咨询或社会工作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Psychiatric assistant positions face dual impacts of task replacement and augmentation from AI; paperwork is easily automated, but interpersonal care and crisis intervention are irreplaceable, overall risks and opportunities coexist.
+
+Psychiatric assistants can advance to psychiatric technician or registered nurse, requiring additional education and certification. Long-term could move into psychological counseling or social work.
+
+**Tasks most exposed to AI:**
+
+- Documentation work recording patients' daily behaviors and vital signs
+- Scheduling and reminding patients of activities, medication, etc.
+- Generate routine reports and nursing records
+- Basic data entry and information lookup
+
+**Where AI augments the role:**
+
+- Using AI to analyze patient behavior patterns to help identify signs of emotional deterioration
+- Generate personalised activity recommendations using AI tools to enhance rehabilitation outcomes
+- Using virtual reality (VR) to simulate social scenarios for patient training
+- Use natural language processing tools to quickly summarize medical records and communication logs
+
+**Human moat:**
+
+- Provide reassurance and intervention during patient agitation or crisis moments
+- Build trust relationships and observe subtle emotional changes
+- Ethical judgment and clinical boundary management
+- Team collaboration and real-time communication with medical staff
+
+**Skills to build:**
+
+- Basic data analysis: using Excel or simple BI tools to track patient trends
+- Electronic Health Record (EHR) system operation.
+- Mental health first aid and crisis intervention certification
+- Teamwork and interdisciplinary communication skills
+- Cultural sensitivity and trauma-informed care
+
+**Key growth areas:**
 
 - Mental Health
 - Psychiatric Care
@@ -65,65 +97,67 @@ Assist mentally impaired or emotionally disturbed patients under direction of nu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 精神病助理通常不满足专业职业要求，H-1B极少。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需要至少两年培训或经验，但雇主担保困难，极少申请。路径不常见。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Psychiatric assistants typically do not meet professional occupation requirements; H-1B is rare. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires at least two years of training or experience, but employer sponsorship is difficult, rarely applied. Path is uncommon. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Psychiatric Aides？**
-- 有耐心、同情心，愿意从事精神健康支持工作
-- 希望快速进入医疗领域，无需高学历
-- 适应轮班和体力劳动
+**Who is suited**
+- Patient, compassionate people willing to work in mental health support
+- Looking to quickly enter the healthcare field without high academic requirements
+- Adaptability to shift work and physical labor
 
-**谁不适合学Psychiatric Aides？**
-- 寻求高薪职业
-- 希望有明确技术移民路径
+**Who is not suited**
+- Those seeking high-paying careers
+- Looking for a clear skilled migration pathway
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a psychiatric assistant?**
+A: Median annual salary about 34,000 USD, entry-level about 28,000 USD, senior up to 48,000 USD.
+
+**Q: How can a Psychiatric Aide immigrate to the United States?**
+A: Almost no skilled migration pathway. H-1B and green card applications are difficult, often requiring a transition through other occupations.
+
+**Q: What education is needed to become a psychiatric assistant?**
+A: Usually requires only a high school diploma and on-the-job training; some states require a short-term certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Psychiatric Aides属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of psychiatric aides?**
-答：Median annual wage is about $34,000, entry-level around $28,000, experienced up to $48,000.
-
-**问：How can psychiatric aides immigrate to the US?**
-答：There is almost no skilled migration path. H-1B and green card sponsorship are difficult; usually requires transitioning to another occupation.
-
-**问：What education is needed to become a psychiatric aide?**
-答：Typically only a high school diploma and on-the-job training; some states require a short certificate.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

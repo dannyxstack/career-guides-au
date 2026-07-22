@@ -1,64 +1,95 @@
-# 巴士司机（Bus Driver）职业分析 · 澳大利亚
+# Bus Driver — career analysis · Australia
 
-**职业代码：731211 – Bus Driver。**
+**Occupation code: 731211 (ANZSCO)**
 
-巴士司机驾驶公交、校车或长途客车，需重型驾照（HR/HC）和乘客认证，澳洲多地司机短缺，但属非技术移民职业。
+Bus drivers operate public buses, school buses or coaches, requiring a heavy vehicle licence (HR/HC) and passenger transport certification. Driver shortages exist in many parts of Australia, but it is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| HR/HC 重型驾照 + 乘客运输认证 | 数周~数月 | $1,000~$5,000（考照与认证） |
+| HR/HC heavy vehicle licence + passenger transport accreditation | A few weeks to several months | $1,000~$5,000 (Licensing and certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Heavy Rigid (HR) Licence | 州交通部门 | 必备 | 驾驶巴士必备 |
-| Driver Authorisation / Passenger Accreditation | 州主管部门 | 必备 | 载客必备 |
+| Heavy Rigid (HR) Licence | State transport department | Required | Required for driving buses |
+| Driver Authorisation / Passenger Accreditation | State regulatory authority | Required | Required for passenger transport |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 60,000。公共交通与司机短缺支撑稳定需求，电动巴士车队带来新岗位。
+**Job demand: high (★★★★☆).** National workforce approx. 60,000. Stable demand is supported by public transport growth and driver shortages, with new positions emerging from electric bus fleets.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,000 个 | 全国，多地短缺 |
-| Indeed | 1,200~2,200 个 | — |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门 | $60,000~$70,000 | 时薪约$30~$36 |
-| 有经验 | $70,000~$82,000 | 含轮班补贴 |
-| 长途/资深 | $82,000~$92,000 | — |
+| Median salary | $93,340 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level | $60,000~$70,000 | Hourly rate approximately $30–$36 |
+| Experienced | $70,000~$82,000 | Includes shift allowances |
+| Long-haul / Senior | $82,000~$92,000 | — |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向调度、车队管理或长途客运发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Pathways exist into dispatching, fleet management or long-distance passenger transport.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Public Transport
 - School Bus
@@ -67,57 +98,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学巴士司机？**
-- 喜欢驾驶、责任心强者
-- 接受早晚轮班者
-
-**谁不适合学巴士司机？**
-- 以技术移民为目标者
-- 不适应久坐与客流压力者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for those who enjoy driving and have a strong sense of responsibility
+- Accepting early and late shifts
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those who cannot adapt to sedentary work and high foot-traffic pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a bus driver in Australia?**
+A: Approximately AUD $60,000-$92,000, including shift allowances.
+
+**Q: Can bus drivers apply for skilled migration?**
+A: No — it is classified as a non-skilled migration occupation (despite shortages in many areas).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-巴士司机属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲巴士司机工资多少？**
-答：约AUD $6万~$9.2万，含轮班补贴。
-
-**问：巴士司机能技术移民吗？**
-答：不能，属于非技术移民职业（尽管多地短缺）。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

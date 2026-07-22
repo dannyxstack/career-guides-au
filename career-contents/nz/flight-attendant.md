@@ -1,59 +1,95 @@
-# Flight Attendant（Flight Attendant）职业分析 · 新西兰
+# Flight Attendant — career analysis · New Zealand
 
-**职业代码：451711 – Flight Attendant。**
+**Occupation code: 451711 (ANZSCO)**
 
-Flight attendants ensure cabin safety and passenger service, requiring emergency response skills. New Zealand's aviation industry focuses on international routes; Chinese speakers can secure jobs via Accredited Employer Work Visa (AEWV) or specific skilled migration pathways.
+Flight attendants are responsible for cabin safety and passenger service, requiring emergency response skills. New Zealand's aviation industry focuses on international routes, and those with Chinese language skills can find job opportunities through Accredited Employer Work Visa (AEWV) or specific skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰大专文凭 (航空服务) | 1-2年 | $20,000~$35,000（学费因院校而异，私立培训费用较高） |
-| 新西兰航空公司内部培训 | 6-12周 | —（通常由雇主提供，部分需自理费用） |
+| New Zealand Diploma in Aviation Services | 1-2 years | $20,000~$35,000 (Tuition fees vary by institution; private training costs are higher) |
+| Internal training by Air New Zealand. | 6-12 weeks | $0~$5,000 (Usually provided by employer, partially self-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰航空乘务员资格证 (CAA Safety Training) | 新西兰民航局 (CAA) | 必备 | 完成规定的安全培训和实操考核 |
-| 急救证书 (First Aid Certificate) | 新西兰红十字会或类似机构 | 必备 | 雇主通常要求持有有效的急救证书 |
-| 英语能力证明 (如雅思6.0或同等) | 认可的语言考试机构 | 必备 | 新西兰移民局要求工签申请人提供英语成绩 |
+| New Zealand Air Cabin Crew Certificate (CAA Safety Training) | New Zealand Civil Aviation Authority (CAA) | Required | Complete mandatory safety training and practical assessment |
+| First Aid Certificate | New Zealand Red Cross or similar organization | Required | Employers usually require a valid first aid certificate. |
+| English proficiency proof (e.g., IELTS 6.0 or equivalent) | Recognized language testing organization | Required | Immigration New Zealand requires English language test scores for work visa applicants |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,000。新西兰航空业预计未来5年温和增长，国际航线恢复带动乘务员需求。由于国内市场较小，全职岗位有限，但具备语言优势者在亚太航线有竞争力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,000. New Zealand's aviation industry is expected to grow moderately over the next five years, with international route recovery driving demand for flight attendants. Due to the small domestic market, full-time positions are limited, but those with language advantages are competitive on Asia-Pacific routes.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 新西兰元/年薪，含基本工资和飞行津贴 |
-| 中级（3-7年） | $60,000~$80,000 | 新西兰元/年薪，取决于航空公司规模 |
-| 高级（7年以上） | $80,000~$100,000 | 新西兰元/年薪，资深乘务长或管理岗位 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$60,000 | NZD per year, including base salary and flight allowances |
+| Mid-level (3–7 years) | $60,000~$80,000 | NZD per year, depending on airline size |
+| Senior (7+ years) | $80,000~$100,000 | NZD/year for senior cabin crew or management positions |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径：从初级乘务员到资深乘务长，部分可转管理岗或培训岗。需积累飞行小时、通过考核并掌握多语言技能。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
+
+Career progression: from junior flight attendant to senior purser, some move to management or training roles. Requires accumulating flight hours, passing assessments, and mastering multilingual skills.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates flight briefings and safety demonstration videos
+- AI chatbots handle routine passenger inquiries and ticket changes
+- AI analyzes passenger emotions in real time and pushes personalized service suggestions
+- AI-driven automated scheduling and fatigue management optimization
+- AI conducts crew training assessments and compliance checks
+
+**Where AI augments the role:**
+
+- AI provides real-time multilingual translation assistance to enhance communication efficiency with foreign travelers
+- AI enhances emergency drill quality by simulating unexpected situations through cockpit sensors
+- AI analysis of passenger feedback data to assist in optimising service processes
+- AI automatically records service operations, reducing paperwork burden
+- AI providing personalized passenger profiles for more precise care services
+
+**Human moat:**
+
+- Human judgment and handling of in-flight emergencies such as illness, fire, hijacking
+- Emotional reassurance and conflict resolution for anxious, intoxicated, or non-compliant passengers
+- Command capability to organize orderly passenger evacuation during emergencies
+- Discerning subtle needs and providing value-added services with a personal touch in multicultural contexts.
+- Mandated safety duties (e.g., closing doors, checking equipment)
+
+**Skills to build:**
+
+- Proficient in AI cabin management systems (e.g., SkyPro, AeroCRS)
+- Learning basic data analysis to interpret passenger satisfaction reports
+- Advanced first aid and crisis management skills (e.g., CFTE advanced training)
+- Enhancing cross-cultural communication and multilingual service skills (e.g., Mandarin + Cantonese)
+- Learn digital emergency simulation tools (VR/AR evacuation drills)
+- Obtain in-flight health care certification (such as Flight Attendant First Aider)
+
+**Key growth areas:**
 
 - Accredited Employer Work Visa
 - International Tourism Recovery
@@ -62,68 +98,67 @@ Flight attendants ensure cabin safety and passenger service, requiring emergency
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需获得经移民局认证的航空公司担保，工作满3年可转居民签证 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制要求（学历、工作经验等），航空乘务员非优先职业但可申请 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 工作转居留路径，目前航空乘务员不在绿色清单中，但若未来列入可适用 |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa requiring sponsorship from an airline accredited by immigration authorities; after 3 years of work, eligible for a resident visa |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migration Category, must meet 6-point system requirements (qualifications, work experience, etc.); flight attendant is not a priority occupation but can apply |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work to residence pathway; currently flight attendants are not on the Green List, but if added in the future, may apply |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Flight Attendant？**
-- 具备良好服务意识和应急反应能力者
-- 掌握中文或多种语言者
-- 适应不规律作息和频繁出差者
-
-**谁不适合学Flight Attendant？**
-- 身体素质差或晕机者
-- 不喜欢高空工作和密闭环境者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong service awareness and emergency response ability
+- Those proficient in Chinese or multiple languages
+- For those who can adapt to irregular schedules and frequent travel
+
+**Who is not suited**
+- Those with poor physical fitness or prone to motion sickness
+- Those who dislike high-altitude work and confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of New Zealand flight attendants?**
+A: Entry-level annual income about NZD 45,000-60,000, mid-level NZD 60,000-80,000, senior NZD 80,000-100,000. Salary includes base pay and flight allowances, overall moderate.
+
+**Q: Can flight attendants migrate to New Zealand?**
+A: Currently, flight attendants are not on the Green List; the main work visa pathway is the Accredited Employer Work Visa (AEWV). May apply for a resident visa after accumulating 3 years of work experience, but skilled migration requires meeting the 6-point system, which is challenging.
+
+**Q: What is the career development for flight attendants in New Zealand?**
+A: Career path includes senior flight attendant, purser, trainer, or management roles. Requires accumulating flight hours, passing assessments, and multilingual skills, but limited by market size.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Flight Attendant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for flight attendants in New Zealand?**
-答：Entry-level annual income is around NZD 45,000-60,000, mid-level NZD 60,000-80,000, and senior NZD 80,000-100,000. Salary includes base pay and flying allowances, overall moderate.
-
-**问：Can flight attendants immigrate to New Zealand?**
-答：Currently, flight attendants are not on the Green List. The main work visa pathway is AEWV. After 3 years of work, one can apply for residence, but Skilled Migrant Category requires meeting the 6-point system, which is challenging.
-
-**问：What are the career prospects for flight attendants in New Zealand?**
-答：Career progression includes senior crew, purser, trainer, or management roles. Requires flight hours, assessments, and multilingual skills, but limited by market size.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

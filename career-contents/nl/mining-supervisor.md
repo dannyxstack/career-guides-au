@@ -1,61 +1,94 @@
-# Mining Supervisor（Mining Supervisor）职业分析 · NL
+# Mining Supervisor — career analysis · Netherlands
 
-**职业代码：3121 – Mining Supervisor。**
+**Occupation code: 3121 (ISCO08)**
 
-Mining supervisors oversee underground or surface mining operations, ensuring production is safe, efficient, and compliant with regulations. They manage teams of miners, coordinate equipment use, and monitor mining progress.
+Mining supervisors oversee underground or open-cut mining operations, ensuring production is safe, efficient, and compliant with regulations. They manage teams of miners, coordinate equipment use, and monitor mining progress.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（学费由政府资助，每年约€0-€2,000） |
-| 高等职业教育 (HBO) | 4年（学士） | $2,000~$15,000（每年学费约€2,000-€15,000） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (Tuition is government-funded, approximately €0-€2,000 per year) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's) | $2,000~$15,000 (Annual tuition approximately €2,000-€15,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采矿监督资格证书 | 荷兰矿业管理局 (SodM) | 可选 | 部分公司要求持有，作为上岗前提 |
-| VCA安全证书 | VCA Foundation | 可选 | 基础安全证书，多数雇主强制要求 |
-| 职业健康与安全文凭 | 多家培训机构 | 可选 | 提升管理能力 |
+| Mining supervisor qualification. | Netherlands Authority for the Surface Minerals (SodM) | Optional | Some companies require it as a prerequisite for employment |
+| VCA safety certificate | VCA Foundation | Optional | Basic safety certificate, mandatory for most employers |
+| Diploma in Occupational Health and Safety | Multiple training institutions. | Optional | Enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 500。荷兰采矿行业规模较小，主要涉及天然气、盐和石灰石开采。由于天然气产量下降，就业机会有限，但仍有部分职位因退休更替而开放。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 500. The Dutch mining industry is relatively small, primarily involving natural gas, salt, and limestone extraction. Due to declining gas production, job opportunities are limited, but some positions remain open due to retirement replacements.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪，含津贴 |
-| 高级（7年以上） | $60,000~$80,000 | 税前年薪，含津贴 |
+| Median salary | $58,292 | Median salary (Official: CBS employee median hourly wage of €29.5/hour × 1976h annualized, BRC group 0722 Productieleiders industrie en bouw; P25–P75 €48,017–€71,334, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary, including allowances |
+| Senior (7+ years) | $60,000~$80,000 | Annual pre-tax salary, including allowances |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业路径通常从矿工或设备操作员开始，积累经验后晋升为主管。进一步可发展为采矿经理或安全专家。荷兰的采矿主管也有机会转向海外或相关能源行业。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Mining supervisor roles face a mixed impact from AI and automation: data monitoring and scheduling tasks will be automated, but on-site safety decisions and team management remain human strengths.
+
+Career path usually starts as a miner or equipment operator, gaining experience before advancing to supervisor. Further progression to mining manager or safety specialist. Mining supervisors in the Netherlands also have opportunities to move overseas or into related energy industries.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of mining equipment with automatic reporting, replacing manual inspections with AI early warning systems
+- Production scheduling optimization: AI algorithms automatically arrange mining sequences based on ore body data
+- Equipment maintenance records and fault diagnosis, taken over by predictive maintenance software
+- Environmental compliance data recording, automated sensors and blockchain audits replace paper-based reporting
+
+**Where AI augments the role:**
+
+- AI-assisted geological modelling helps supervisors more accurately predict ore vein trends
+- Digital twin simulations allow supervisors to test mining plans in virtual environments.
+- Wearable devices display workers' health data in real time, enhancing on-site safety monitoring
+- Drone inspection images automatically identify support structure defects to assist decision-making
+
+**Human moat:**
+
+- Quick decision-making and rescue command during sudden collapses, floods, etc.
+- Maintaining miner morale, mediating conflicts, conducting on-site safety training
+- Intuitive judgment and experience-based adjustments for complex geological changes
+- Interest coordination and compliance responsibility with regulatory bodies and the community
+
+**Skills to build:**
+
+- Data analysis and interpretation (Python, SQL, dashboard tools)
+- Automated control system operation and troubleshooting
+- Digital twin and simulation software usage
+- Human-machine collaboration team management skills
+- Sustainable mining and ESG compliance knowledge
+- Cross-departmental Communication and Crisis Leadership
+
+**Key growth areas:**
 
 - Declining
 - Gas production
@@ -64,66 +97,68 @@ Mining supervisors oversee underground or surface mining operations, ensuring pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需雇主担保，薪资达到门槛（2025年约€5,331/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历+高薪职位，薪资门槛较高（2025年约€7,206/月） |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业或世界前200大学毕业生可申请，提供一年找工作时间 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migration, requiring employer sponsorship and meeting salary threshold (approx. €5,331/month in 2025) |
+| Subclass EU Blue Card (EU Blue Card) | For university degrees + high-paying positions, with a higher salary threshold (approx. €7,206/month in 2025) |
+| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or the world's top 200 universities can apply, providing one year to find a job. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mining Supervisor？**
-- 有地下或露天采矿经验的人
-- 喜欢户外和体力工作
-- 具备管理团队和安全管理能力
+**Who is suited**
+- People with underground or open-pit mining experience
+- Likes outdoor and physical work
+- Ability to manage teams and safety
 
-**谁不适合学Mining Supervisor？**
-- 不喜欢危险或高压环境
-- 渴望长期稳定行业前景
+**Who is not suited**
+- Dislikes dangerous or high-pressure environments
+- Seeking Long-Term Stable Industry Prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for mining supervisors in the Netherlands?**
+A: Junior supervisor annual salary approximately €35,000–€45,000, intermediate €45,000–€60,000, senior up to €80,000. Salary is affected by mine size and experience.
+
+**Q: What visas can a mining supervisor use to immigrate to the Netherlands?**
+A: Main pathways are the Highly Skilled Migrant and the EU Blue Card, both requiring employer sponsorship. EU citizens have free movement.
+
+**Q: What are the job prospects in the Dutch mining industry?**
+A: Poor prospects due to declining natural gas output and shrinking mining industry. Jobs mostly replaced by retirees, limited new positions. Consider overseas opportunities or transition to the energy sector.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mining Supervisor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a mining supervisor in the Netherlands?**
-答：Entry-level supervisors earn €35,000-€45,000, mid-level €45,000-€60,000, and senior up to €80,000. Salary depends on mine size and experience.
-
-**问：What visas are available for mining supervisors to migrate to the Netherlands?**
-答：Main routes are the Highly Skilled Migrant scheme and EU Blue Card, both requiring employer sponsorship. EU citizens have free movement.
-
-**问：What are the job prospects for mining in the Netherlands?**
-答：Outlook is poor due to declining gas production. Jobs are mostly replacement positions. Consider overseas opportunities or transitioning to energy sector.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

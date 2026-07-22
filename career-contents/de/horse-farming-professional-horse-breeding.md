@@ -1,60 +1,95 @@
-# Horse Farming Professional - Horse Breeding（Horse Farming Professional - Horse Breeding）职业分析 · DE
+# Horse Farming Professional - Horse Breeding — career analysis · Germany
 
-**职业代码：1131 – Horse Farming Professional - Horse Breeding。**
+**Occupation code: 1131 (KldB)**
 
-Responsible for feeding, breeding, health management and training of horses, ensuring efficient farm operations and animal welfare standards.
+Responsible for the feeding, breeding, health management, and training of horses, ensuring efficient farm operations and compliance with animal welfare standards.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（培训期间有津贴） |
-| 农业技术员 | 2年（全职） | —（高级培训，部分可远程） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Allowance during training) |
+| Agricultural technician | 2 years (full-time) | $0~$10,000 (Advanced training, partially remote available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物保育证书（Tierpfleger） | 德国工商会（IHK） | 必备 | 入门资质 |
-| 骑马教练执照 | 德国骑术协会（FN） | 可选 | 可选 |
+| Animal care certificate (Tierpfleger). | German Chamber of Commerce and Industry (IHK) | Required | Entry-level qualification |
+| Riding instructor license | German Equestrian Federation (FN) | Optional | Optional |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 15,000。德国马业稳定，但机械化程度提高，传统岗位有限。高素质育种和健康管理人才需求温和增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The German equine industry is stable, but mechanization is increasing, limiting traditional positions. Moderate growth in demand for high-quality breeding and health management talent.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（4-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (8+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 可从马工晋升为育种主管或马场经理，也可进修动物科学获得更广泛农业管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI improves efficiency in data analysis and health monitoring, but core breeding decisions, manual operations, and animal emotional interaction are hard to replace, resulting in mixed job task impacts.
+
+May advance from horse worker to breeding supervisor or stable manager, or study animal science for broader agricultural management roles.
+
+**Tasks most exposed to AI:**
+
+- Automated recording and analysis of breeding records and stud pedigrees
+- Automatic monitoring of daily health indicators (temperature, heart rate) for horses.
+- Optimization calculation of feed formulation and inventory management
+- Basic prediction of mare estrus cycles and recommended mating times
+
+**Where AI augments the role:**
+
+- Use AI to analyze genetic data and optimize breeding plans
+- Use computer vision to assess horse gait and body condition
+- AI-assisted development of personalized feeding and training plans
+- Predict horse disease risk through data analysis
+- Using automated systems to manage horse farm operations (e.g., environmental control)
+
+**Human moat:**
+
+- Onsite Equine Behavior Observation and Emotional Interaction
+- Fine manual operations such as artificial insemination and delivery
+- Experience-based diagnosis and emergency handling of breeding issues
+- Client relations and horse sales negotiation
+- Animal welfare ethical decision-making and regulatory compliance
+
+**Skills to build:**
+
+- Animal genetics and selective breeding data analysis.
+- Application of computer vision in horse health assessment
+- Horse farm management software and IoT device operation
+- Basic programming and data visualization (Python/R)
+- Animal Welfare Regulations and Ethics
+- AI tool assessment in livestock industry implementation
+
+**Key growth areas:**
 
 - Animal husbandry
 - Sustainable farming
@@ -63,62 +98,64 @@ Responsible for feeding, breeding, health management and training of horses, ens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需获认可的职业资格，雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分，可找工作1年 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires recognized professional qualifications, employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Points-based, can look for work for 1 year |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Horse Farming Professional - Horse Breeding？**
-- 热爱户外工作与动物
-- 有耐心和体力
-- 愿意接受实践培训
+**Who is suited**
+- enjoys outdoor work and animals
+- Requires patience and physical strength
+- Willing to undergo practical training
 
-**谁不适合学Horse Farming Professional - Horse Breeding？**
-- 期望高薪
-- 对动物过敏或不感兴趣
+**Who is not suited**
+- Expecting high salary
+- Allergic to animals or not interested
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for equine industry workers?**
+A: Entry-level about EUR 25,000-32,000, senior up to EUR 50,000, below the German average salary.
+
+**Q: How can foreigners immigrate to Germany for work in the equine industry?**
+A: Non-EU citizens need recognized occupational qualifications (e.g. German dual-system certificates) and apply for skilled worker visas through employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Horse Farming Professional - Horse Breeding属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horse industry workers?**
-答：Entry-level around €25,000-32,000, senior up to €50,000, below German average.
-
-**问：How can foreigners immigrate to Germany for horse industry work?**
-答：Non-EU citizens need a recognized qualification (e.g., German dual training certificate) and employer sponsorship for a skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

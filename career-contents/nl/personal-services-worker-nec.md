@@ -1,60 +1,92 @@
-# Personal Services Worker nec（Personal Services Worker nec）职业分析 · NL
+# Personal Services Worker nec — career analysis · Netherlands
 
-**职业代码：5169 – Personal Services Worker nec。**
+**Occupation code: 5169 (ISCO08)**
 
-Covers unclassified personal service occupations such as pet groomers, personal trainers, wedding planners, etc. Typically work in small businesses or self-employment, offering customized services.
+Covers unclassified personal service occupations such as pet groomers, personal trainers, wedding planners, etc. Typically work in small businesses or self-employment, providing customized services.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年 | —（学费由政府资助，学生仅付注册费约1000-2000欧元/年） |
-| 短期培训课程 | 6-12个月 | $1,000~$5,000（私立机构收费，具体视课程而定） |
+| Secondary vocational education (MBO) | 2-4 years | $0~$2,000 (Tuition is government-funded; students only pay a registration fee of approx. €1,000–€2,000/year) |
+| Short-term training course | 6–12 months | $1,000~$5,000 (Private institution fees, depending on the specific course) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关MBO文凭 | ROC (Regional Training Centre) | 必备 | 多数个人服务职业需要MBO-3或4级文凭 |
-| 急救证书 | Oranje Kruis | 可选 | 部分职业如私人教练、美容师要求持有急救证 |
+| Relevant MBO diploma | ROC (Regional Training Centre) | Required | Most personal service occupations require an MBO-3 or MBO-4 diploma |
+| First aid certificate | Oranje Kruis | Optional | Some occupations, such as personal trainers and beauticians, require a first aid certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 25,000。荷兰个人服务行业需求稳定，受消费习惯和健康意识提升驱动。自雇机会较多，但竞争也大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 25,000. The personal services industry in the Netherlands has stable demand, driven by consumption habits and increased health awareness. There are many self-employment opportunities, but competition is also high.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级 (0-3年) | $22,000~$28,000 | 税前年薪，多为兼职或自雇，收入波动大 |
-| 中级 (3-7年) | $28,000~$36,000 | 税前年薪，有稳定客户群 |
-| 高级 (7年以上) | $36,000~$50,000 | 税前年薪，包括自雇成功人士或工作室老板 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior (0-3 years) | $22,000~$28,000 | Annual pre-tax salary, often part-time or self-employed, income fluctuates greatly |
+| Intermediate (3-7 years) | $28,000~$36,000 | Pre-tax annual salary, with a stable client base |
+| Senior (7 years or more) | $36,000~$50,000 | Annual pre-tax salary, including self-employed successful individuals or studio owners |
+| average salary | $33,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可向专业领域深化（如高级宠物美容、认证私人教练），或向管理层发展如开设自有工作室。部分可与旅游、健康产业结合。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+This occupation is spread across tasks; AI can strongly replace some tasks (e.g., scheduling, content generation), but enhances core aspects like emotional interaction, manual skills, and creative planning, leading to a mixed outlook.
+
+Can advance to professional fields (e.g., advanced pet grooming, certified personal trainer), or develop into management roles such as opening own studio. Some can combine with tourism and health industries.
+
+**Tasks most exposed to AI:**
+
+- Client appointment and schedule management
+- Basic copywriting and marketing content generation
+- Standardized documentation of service processes
+- Customer data entry and preliminary analysis.
+
+**Where AI augments the role:**
+
+- Use AI to design personalized fitness/wedding plans
+- AI-assisted pet behavior diagnostics
+- Using AI tools to create customer case study displays and promotional materials
+- Communicating with cross-lingual customers via AI real-time translation
+
+**Human moat:**
+
+- Manual skills (e.g., pet grooming styling, handmade decorations)
+- Emotional interaction and trust building
+- On-site improvisational creativity and personalized client adjustments
+- Unstructured physical operations (e.g., sorting, moving)
+
+**Skills to build:**
+
+- AI tool usage (ChatGPT, Midjourney, etc.)
+- Digital marketing and social media management
+- Basic data analysis and customer management software
+- Cross-disciplinary creative fusion (e.g., wedding planning + AI)
+- Skills combining handicrafts with digitalization
+
+**Key growth areas:**
 
 - Wellness
 - Pet care
@@ -63,66 +95,68 @@ Covers unclassified personal service occupations such as pet groomers, personal 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需高于€5,498/月（2024标准），一般非此类职业典型薪资 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，年薪门槛€5,001/月（30岁以上）或€3,666/月（30岁以下），个人服务岗位通常不达标 |
-| Subclass Self-Employment Visa（Self-Employment Visa） | 自雇人士可申请，需通过荷兰商会（KVK）注册并满足积分制要求 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, annual salary must exceed €5,498/month (2024 standard), generally not typical for this occupation |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration with annual salary threshold of €5,001/month (over 30 years old) or €3,666/month (under 30 years old); personal service roles usually do not meet the requirement |
+| Subclass Self-Employment Visa (Self-Employment Visa) | Self-employed individuals can apply, needing to register with the Dutch Chamber of Commerce (KVK) and meet points-based system requirements |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Personal Services Worker nec？**
-- 喜欢与人打交道、提供个性化服务的人
-- 有创业精神，愿意自雇或经营小型企业
-- 对特定领域有热情（如宠物、健康、婚礼策划）
-
-**谁不适合学Personal Services Worker nec？**
-- 寻求稳定高薪和全职受雇的人
-- 不擅长客户关系管理和销售的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with others and providing personalized services.
+- Have entrepreneurial spirit, willing to be self-employed or operate a small business
+- Has passion for a specific field (e.g., pets, health, wedding planning)
+
+**Who is not suited**
+- For those seeking stable, high-paying, full-time employment
+- People not skilled in customer relationship management and sales
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for personal service workers?**
+A: Salaries vary greatly depending on the specific occupation and employment type. Employees: entry-level approximately €22,000–€28,000, senior can reach €50,000. Self-employed income fluctuates significantly and business costs must be considered.
+
+**Q: Is it easy for non-EU citizens to migrate to the Netherlands as personal service workers?**
+A: Difficult. Most personal service roles do not meet the salary threshold for skilled migration or EU Blue Card (need €66,000+ annual salary). Self-employed migration via points system is possible but requires proving business value to the Netherlands.
+
+**Q: What is the future outlook for this occupation?**
+A: Outlook is stable, influenced by consumer trends. Demand is growing in areas like health and pet care. However, market competition is fierce, and success depends on personal branding and client accumulation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Personal Services Worker nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for personal services workers?**
-答：Salaries vary greatly by specific occupation and employment type. Employees earn from €22,000-€28,000 for entry-level to €50,000 for senior roles. Self-employed income fluctuates and must cover business costs.
-
-**问：Is it easy for non-EU citizens to migrate as personal services workers?**
-答：It is difficult. Most personal service jobs do not meet the salary thresholds for highly skilled migrant or EU Blue Card (€66,000+). Self-employment via points-based system is possible but requires proving business value to the Netherlands.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

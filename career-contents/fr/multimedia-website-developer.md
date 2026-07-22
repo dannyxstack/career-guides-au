@@ -1,60 +1,96 @@
-# Multimedia Website Developer（Multimedia Website Developer）职业分析 · FR
+# Multimedia Website Developer — career analysis · France
 
-**职业代码：E1101 – Multimedia Website Developer。**
+**Occupation code: E1101 (ROME)**
 
-Designs, develops, and maintains multimedia websites, integrating interactive elements such as audio, video, and animation.
+Responsible for the design, development, and maintenance of multimedia websites, integrating audio, video, animation, and other interactive elements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT多媒体相关 | 2年（BTS） | —（公立学校低学费，私立约3000-7000欧元/年） |
-| Licence专业多媒体 | 3年（Licence） | —（公立大学免学费，私立约4000-8000欧元/年） |
-| 硕士多媒体开发 | 5年（Master） | —（公立大学免学费，私立约6000-10000欧元/年） |
+| BTS/DUT multimedia related | 2 Years (BTS) | $0~$15,000 (Public schools have low tuition fees, while private ones pay about 3,000-7,000 euros per year) |
+| Licence Professional Multimedia | 3 years (Licence) | $0~$20,000 (Public universities tuition-free, private approx. €4,000-8,000/year) |
+| Master's degree in Multimedia Development | 5 years (Master) | $0~$30,000 (Public universities tuition-free, private approx. €6,000-10,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS多媒体制作 | 法国教育部 | 可选 | 国家文凭，需2年学习 |
-| Licence多媒体专业 | 法国大学 | 可选 | 国家文凭，3年学习 |
-| 硕士数字媒体 | 法国大学或工程师学院 | 可选 | 推荐，可提升竞争力 |
+| BTS multimedia production | French Ministry of Education | Optional | National diploma, requires 2 years of study |
+| Licence Multimedia major | French universities | Optional | National diploma, 3 years of study |
+| Master's degree in Digital Media | French universities or engineering colleges | Optional | Recommendation can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。数字化转型推动需求持续增长，尤其在中大型企业和机构中，多媒体网站开发岗位需求旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Digital transformation is driving continuous growth in demand, especially in medium and large enterprises and institutions, where the demand for multimedia website development positions is strong.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，视公司规模和地区 |
-| 中级（4-7年） | $38,000~$50,000 | 税前年薪，具备独立项目管理能力 |
-| 高级（8年以上） | $50,000~$65,000 | 税前年薪，技术专家或管理岗位 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (4-7 years) | $38,000~$50,000 | Pre-tax annual salary, with independent project management capabilities |
+| Senior (8+ years) | $50,000~$65,000 | Pre-tax annual salary, technical expert or management positions |
+| average salary | $53,160 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可晋升为技术主管、项目经理或架构师，也可向UX设计、全栈开发等方向发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+You can be promoted to technical director, project manager, or architect, or develop into UX design, full-stack development, and more.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Web Development
@@ -63,68 +99,67 @@ Designs, develops, and maintains multimedia websites, integrating interactive el
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较友好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 需持有至少3年高等教育文凭，年薪达欧盟蓝卡门槛（约54000欧元） |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，需提供工作合同及项目计划，年薪要求相对灵活 |
-| Subclass Salarié（Work Permit (Salarié)） | 需法国雇主担保，工作合同，工资符合行业标准 |
+| Subclass Carte bleue UE (EU Blue Card) | Must hold at least 3 years of higher education diploma, with an annual salary meeting the EU Blue Card threshold (approximately 54,000 euros). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a work contract and project plan, with relatively flexible annual salary requirements |
+| Subclass Salarié (Work Permit (Salarié)) | Must have a French employer sponsorship, a work contract, and salary meeting industry standards |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Multimedia Website Developer？**
-- 对多媒体交互技术有热情，喜欢创意与技术的结合
-- 具备独立学习能力和解决问题能力
-- 希望在数字化转型领域长期发展
-
-**谁不适合学Multimedia Website Developer？**
-- 不喜欢频繁学习新技术和框架
-- 沟通协作能力较弱，不适应团队项目
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about multimedia interactive technology and enjoys the combination of creativity and technology
+- Possess independent learning and problem-solving skills
+- We hope for long-term development in the field of digital transformation
+
+**Who is not suited**
+- Dislikes frequently learning new technologies and frameworks
+- Weak communication and collaboration skills, not suited for team projects
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for multimedia website development?**
+A: Entry-level annual salary approx €30,000-38,000, mid-level approx €38,000-50,000, senior up to €65,000+, Paris area typically higher.
+
+**Q: How can non-EU foreigners immigrate to France to work in this profession?**
+A: Can be obtained via the EU Blue Card (salary threshold about 54,000 euros) or Talent Passport visa; requires a French employer work contract and relevant qualifications and experience.
+
+**Q: What core skills are required for this profession?**
+A: Frontend development (HTML/CSS/JavaScript), multimedia integration, responsive design, commonly used frameworks (such as React/Vue), and basic backend knowledge.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较友好（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Multimedia Website Developer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for multimedia website developers?**
-答：Entry-level annual salary is around €30,000-38,000, mid-level €38,000-50,000, senior up to €65,000+, with Paris usually higher.
-
-**问：How can non-EU foreigners immigrate to France for this occupation?**
-答：Via EU Blue Card (salary threshold around €54,000) or Talent Passport, requiring a job offer from a French employer and relevant qualifications.
-
-**问：What core skills are needed for this occupation?**
-答：Front-end development (HTML/CSS/JavaScript), multimedia integration, responsive design, popular frameworks (React/Vue), and basic backend knowledge.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

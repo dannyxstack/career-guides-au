@@ -1,59 +1,91 @@
-# Authors and writers (broadcast)（Authors and writers (broadcast)）职业分析 · 加拿大
+# Authors and writers (broadcast) — career analysis · Canada
 
-**职业代码：51111 – Authors and writers (broadcast)。**
+**Occupation code: 51111 (NOC)**
 
-In Canada, television presenters host programs, conduct interviews, and deliver content in the broadcast industry. This occupation is eligible for Express Entry and PNP, but competition is high, requiring excellent English/French skills and local experience.
+In Canada, TV hosts manage program hosting, interviews, and content presentation within the media industry. This occupation can lead to immigration via Express Entry or Provincial Nominee Programs, but competition is intense, requiring excellent English/French skills and local experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大学本科 | 4年 | $20,000~$50,000（加拿大大学传媒或新闻专业年均学费（国际生）） |
-| 学院文凭 | 2年 | $15,000~$30,000（社区学院广播或媒体专业总学费） |
+| University bachelor's degree | 4 years | $20,000~$50,000 (Average annual tuition fee (international students) for media or journalism programs at Canadian universities.) |
+| College diploma | 2 years | $15,000~$30,000 (Total tuition for a community college broadcasting or media program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES/ICES/CES | 必备 | 必要，用于Express Entry加分，证明海外学历等同加拿大水平 |
-| 英语/法语语言成绩 | IELTS/TEF Canada | 必备 | 必要，CLB 7以上（建议CLB 9） |
-| 不影响，通常无需强制牌照 | 无 | 可选 | 广播电视行业无省级强制认证，但雇主常要求相关经验或作品集 |
+| Educational credential assessment (ECA) | WES/ICES/CES | Required | Required for Express Entry points, proving overseas degree is equivalent to Canadian level. |
+| English/French language test scores | IELTS/TEF Canada | Required | Required, CLB 7 or above (CLB 9 recommended) |
+| Does not affect; usually no mandatory license required | None | Optional | No mandatory provincial certification for the broadcasting and television industry, but employers often require relevant experience or portfolio |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。加拿大广播电视行业受数字化冲击，传统岗位增长缓慢，但在线内容创作带来新机遇。多伦多、温哥华等大城市机会较多，但职位有限，持工作签证积累本地经验是关键。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Canada's broadcasting industry is being impacted by digitalization, with slow growth in traditional roles but new opportunities in online content creation. Major cities like Toronto and Vancouver offer more opportunities, but positions are limited; gaining local experience on a work visa is key.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 地方电视台或网络节目主持人 |
-| 中级（4-7年） | $50,000~$75,000 | 省级或全国性频道主持人 |
-| 高级（8年以上） | $75,000~$120,000 | 知名主持人/制片人 |
+| Median salary | $76,565 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$50,000 | Local TV or online program host |
+| Mid-level (4-7 years) | $50,000~$75,000 | Provincial or national channel host |
+| Senior (8+ years) | $75,000~$120,000 | Well-known host/producer |
+| average salary | $81,120 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级主持人可从地方电视台或网络节目起步，逐步晋升至全国性频道。积累经验后可转向制片、导演或媒体管理岗位。多技能（如写作、编辑）有助于职业发展。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+TV presenter roles face structural changes due to AI: basic broadcasting and content generation will be automated, but in-depth interviews, improvisation, and emotional expression remain human strengths.
+
+Beginner hosts can start with local TV stations or online shows, then progress to national channels. Accumulating experience can lead to roles in directing, producing, or media management. Multi-skills (e.g., writing, editing) aid career development.
+
+**Tasks most exposed to AI:**
+
+- Automated press release and prompt generation
+- AI virtual anchors for routine news broadcasting
+- Personalized content recommendation orchestration based on user data
+- Auto-editing and post-production of basic footage
+
+**Where AI augments the role:**
+
+- AI-assisted rapid retrieval of background information and real-time data
+- AI-driven voice synthesis enhances multilingual broadcasting capabilities
+- Audience sentiment analysis to optimize live interaction strategies
+- Automatic subtitling and translation tools expand audience reach
+
+**Human moat:**
+
+- In-depth improvisational interviewing skills
+- Emotional resonance and live audience engagement
+- Ethical judgment on complex topics
+- Unique personal brand and audience trust
+
+**Skills to build:**
+
+- Use of AI content generation tools
+- Data analysis and audience insights
+- Multi-platform digital content strategy
+- Advanced Interviewing and Improvisation Techniques
+- Video Editing and Post-Production Basics
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Express Entry
@@ -62,68 +94,67 @@ In Canada, television presenters host programs, conduct interviews, and deliver 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry - Canadian Experience Class） | 适合有1年加拿大工作经验的主持人；需满足语言和学历要求，CRS评分高者获邀 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省、BC省）有媒体类提名项目；需雇主offer或相关经验 |
-| Subclass AIP（Atlantic Immigration Program） | 海洋省份雇主担保，适合有工作offer的电视主持人 |
+| Subclass EE (Express Entry - Canadian Experience Class) | Suitable for hosts with 1 year of Canadian work experience; must meet language and education requirements, and receive an invitation with a high CRS score |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have media nomination programs; require employer offer or relevant experience |
+| Subclass AIP (Atlantic Immigration Program) | Employer sponsorship in maritime provinces, suitable for TV presenters with a job offer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Authors and writers (broadcast)？**
-- 英语/法语流利，擅长即兴表达和采访的人
-- 有媒体工作经验，愿意从基层积累本地经验的人
-- 能适应非固定工作时间，抗压能力强的人
-
-**谁不适合学Authors and writers (broadcast)？**
-- 不喜欢镜头或不善于在公众场合发言的人
-- 无法适应竞争激烈且机会有限的就业市场的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Fluent in English/French, skilled in improvisation and interviews
+- Those with media experience willing to gain local experience from entry-level roles
+- Able to adapt to non-fixed working hours and high stress tolerance
+
+**Who is not suited**
+- People who dislike cameras or are not good at public speaking
+- Those unable to adapt to a competitive job market with limited opportunities
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for television hosts in Canada?**
+A: Entry-level annual salary is around CAD 35,000–50,000, mid-level CAD 50,000–75,000, and senior up to CAD 120,000. Salaries vary significantly by city, channel, and experience.
+
+**Q: How can a TV presenter immigrate to Canada via Express Entry?**
+A: Need at least 1 year of relevant work experience in Canada or overseas (NOC 51111), language CLB 7 or higher, and ECA certification. Higher CRS scores are advantageous; it is recommended to gain Canadian local experience or provincial nomination points.
+
+**Q: What core skills are needed to become a TV host in Canada?**
+A: Excellent verbal communication, interviewing skills, scriptwriting ability, and adaptability to live broadcasts. Familiarity with digital media and social media operations also adds competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Authors and writers (broadcast)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a television presenter in Canada?**
-答：Entry-level salary is about CAD 35,000-50,000, mid-level CAD 50,000-75,000, and senior up to CAD 120,000. Varies by city, network, and experience.
-
-**问：How can a television presenter immigrate via Express Entry?**
-答：Requires at least 1 year of relevant work experience (NOC 51111), CLB 7+ language, and ECA. Higher CRS scores improve chances; local experience or PNP nomination helps.
-
-**问：What skills are needed to work as a TV presenter in Canada?**
-答：Excellent verbal communication, interviewing, scriptwriting, and live adaptability. Digital media and social media skills are also beneficial.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,93 @@
-# 面包师糕点师（Baker）职业分析 · 澳大利亚
+# Baker — career analysis · Australia
 
-**职业代码：351111 – Baker。**
+**Occupation code: 351111 (ANZSCO)**
 
-面包师糕点师制作面包、糕点和烘焙食品，澳洲长期短缺，是STSOL上的技术移民职业（需TRA评估），常需早班。
+Bakers and pastry chefs produce bread, pastries and baked goods. Australia has a long-term shortage in this occupation; it is listed on the STSOL for skilled migration (TRA assessment required) and often involves early morning shifts.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Baking (FBP30521) | 1~3年 | $4,000~$16,000（学徒制） |
-| Certificate III in Patisserie | 1~2年 | $4,000~$14,000（糕点方向） |
+| Certificate III in Baking (FBP30521) | 1–3 years | $4,000~$16,000 (Apprenticeship) |
+| Certificate III in Patisserie | 1–2 years | $4,000~$14,000 (Patisserie specialisation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Baking / Patisserie | TAFE/RTO | 必备 | 执业与移民基础 |
-| TRA Skills Assessment | Trades Recognition Australia | 必备 | 技术移民必备 |
+| Certificate III in Baking / Patisserie | TAFE/RTO | Required | Registration and Migration Essentials |
+| TRA Skills Assessment | Trades Recognition Australia | Required | Essential for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 30,000。手工烘焙与连锁需求稳定，技工短缺支撑移民通道。
+**Job demand: high (★★★★☆).** National workforce approx. 30,000. Demand is steady from artisan bakeries and chains, with tradesperson shortages supporting migration pathways.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,200~2,200 个 | 全国 |
-| Indeed | 900~1,600 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级 | $52,000~$60,000 | Cert III 起 |
-| 中级 | $60,000~$72,000 | — |
-| 资深/主面包师 | $72,000~$85,000 | — |
+| Median salary | $73,684 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior | $52,000~$60,000 | From Cert III onwards |
+| Intermediate | $60,000~$72,000 | — |
+| Senior/Head Baker | $72,000~$85,000 | — |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 需Certificate III in Baking/Patisserie + TRA评估；可向主面包师、店主发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
+
+Requires Certificate III in Baking/Patisserie + TRA assessment; can progress to head baker or shop owner.
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+**Key growth areas:**
 
 - Artisan Bakery
 - Wholesale Baking
@@ -65,66 +95,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，需TRA评估 |
-| Subclass 190（Skilled Nominated） | 州提名 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加分 |
-| Subclass 186（ENS） | 永居通道 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, TRA assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination |
+| Subclass 491 (Skilled Work Regional) | Regional area bonus points |
+| Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学面包师糕点师？**
-- 喜欢烘焙、能接受早班者
-- 想走技工移民路径者
-
-**谁不适合学面包师糕点师？**
-- 不适应早起与重复工序者
-- 追求高薪者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about baking and comfortable with early morning shifts
+- Those seeking a skilled trade migration pathway
+
+**Who is not suited**
+- Not suited to early starts or repetitive processes
+- Those seeking high salaries
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a baker in Australia?**
+A: Entry-level: approx. AUD $52k-60k; senior master baker: $72k-85k.
+
+**Q: Can bakers migrate to Australia through skilled migration?**
+A: Yes. Baker (351111) is on the STSOL; requires Cert III + TRA assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-面包师糕点师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲面包师工资多少？**
-答：初级约AUD $5.2万~$6万，资深主面包师$7.2万~$8.5万。
-
-**问：面包师能技术移民吗？**
-答：可以。Baker（351111）在STSOL上，需Cert III + TRA评估。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

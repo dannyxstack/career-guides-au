@@ -1,60 +1,96 @@
-# Inland and Coastal Waters Fishery Worker（Inland and Coastal Waters Fishery Worker）职业分析 · NL
+# Inland and Coastal Waters Fishery Worker — career analysis · Netherlands
 
-**职业代码：6222 – Inland and Coastal Waters Fishery Worker。**
+**Occupation code: 6222 (ISCO08)**
 
-Perform fishing, aquaculture and related tasks in inland waters and coastal areas, including net setting, catch sorting and primary processing. Work outdoors under seasonal and weather conditions.
+Engages in fishing, aquaculture, and related operations in inland waters and coastal areas, including net laying, catch sorting, and primary processing. The work environment is mostly outdoors, significantly affected by seasons and weather.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 1-2年 | $2,000~$4,000（部分由雇主或政府资助） |
-| 中等职业教育（MBO） | 2-4年 | $1,000~$3,000（学费约每年500-1500欧元） |
+| Vocational training | 1-2 years | $2,000~$4,000 (Partially funded by employer or government) |
+| Intermediate Vocational Education (MBO) | 2-4 years | $1,000~$3,000 (Tuition fees are approximately 500–1,500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔船船员证书 | 荷兰海事局 | 必备 | 必备，包括安全和急救培训 |
-| VCA安全证书 | 荷兰安全认证机构 | 可选 | 部分雇主要求 |
+| Fishing Vessel Crew Certificate | Netherlands Maritime Authority | Required | Essential, including safety and first aid training |
+| VCA safety certificate | Dutch safety certification body | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 3,500。荷兰渔业以北海捕捞为主，但受欧盟共同渔业政策配额限制及可持续转型影响，就业增长缓慢。内河渔业规模较小，劳动力需求稳定但竞争有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. The Dutch fishing industry is dominated by North Sea fishing, but employment growth is slow due to the EU Common Fisheries Policy's quota restrictions and the impact of sustainable transformation. Inland fisheries are smaller, with stable labor demand but limited competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常按船期计 |
-| 中级（3-7年） | $30,000~$38,000 | 含加班和奖金 |
-| 高级（7年以上） | $38,000~$48,000 | 包括船长或主管职位 |
+| Median salary | $37,346 | Median salary (official: CBS median hourly wage €18.9/hour × 1976 h annualized, BRC group 1311 Beroepsgroep overig; P25–P75 €30,628–€49,400, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual salary before tax, usually calculated per voyage |
+| Mid-level (3–7 years) | $30,000~$38,000 | Including overtime and bonuses |
+| Senior (7+ years) | $38,000~$48,000 | Includes captain or supervisor positions |
+| average salary | $34,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级工人可晋升为渔船长或水产品加工主管，亦可转岗至水产养殖技术员或渔业检查员。长期需适应数字化监测及可持续捕捞技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation technologies will reduce jobs for inland and coastal fishery workers, especially repetitive physical labor tasks, but due to geographic and environmental constraints, full replacement will not occur.
+
+Junior workers can advance to fishing vessel captain or seafood processing supervisor, or transfer to aquaculture technician or fisheries inspector roles. Long-term adaptation to digital monitoring and sustainable fishing techniques is needed.
+
+**Tasks most exposed to AI:**
+
+- Operate fishing nets using automated net laying and retrieval systems
+- Uses AI vision systems for automatic catch sorting and grading.
+- Monitor environmental parameters such as water quality and temperature through sensors and IoT.
+- Daily feeding tasks in aquaculture using automatic feeding systems.
+- Fishing route planning based on historical data and weather forecasts
+
+**Where AI augments the role:**
+
+- Using AI to analyze fish migration patterns and environmental data to optimize fishing times and locations
+- Fishery resource assessment and monitoring using drones and remote sensing technology
+- Use smart wearable devices to improve work safety and efficiency
+- Predict farming yields and prevent diseases using data analysis tools
+- Using digital twin technology to simulate outcomes of different breeding strategies
+
+**Human moat:**
+
+- Decision-making in complex environments, such as responding to unexpected weather and equipment failures
+- Manual handling of fine operations, such as fish fry vaccination and fishing net repair
+- Adaptive management based on local knowledge and understanding of aquatic ecosystems
+- Sensory judgment of catch quality and safety (freshness, parasites, etc.)
+- Collaboration and communication with local communities, regulatory agencies, and NGOs.
+
+**Skills to build:**
+
+- Operate and maintain automated fishing equipment (e.g., automatic feeding systems, drones).
+- Basic data analysis and interpretation skills, using Excel or simple BI tools
+- Knowledge of IoT sensors and remote monitoring system applications.
+- Learning fisheries resource management software and Geographic Information Systems (GIS)
+- Master sustainable fishing practices and knowledge of environmental regulations.
+- Enhance cross-disciplinary collaboration skills, working with technicians and scientists
+
+**Key growth areas:**
 
 - Sustainable fishing
 - Blue economy
@@ -63,66 +99,65 @@ Perform fishing, aquaculture and related tasks in inland waters and coastal area
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能工人，但本职业通常不符合薪资门槛，一般通过普通工作许可（GVVA）申请。 |
-| Subclass EU Blue Card（EU Blue Card） | 需薪资较高，本职业一般不符，更常见于季节性劳工签证或欧盟自由流动工人。 |
-| Subclass GVVA (Combined Permi（Combined Residence and Work Permit (GVVA)） | 大多数非欧盟渔业工人的主要路径，需要雇主担保和劳动力市场测试。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled workers, but this occupation usually does not meet the salary threshold and is generally applied for through a regular work permit (GVVA). |
+| Subclass EU Blue Card (EU Blue Card) | Requires higher salary, this occupation generally does not qualify, more common for seasonal worker visas or EU freedom of movement workers. |
+| Subclass GVVA (Combined Permi (Combined Residence and Work Permit (GVVA)) | The main pathway for most non-EU fishery workers requires employer sponsorship and a labor market test. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Inland and Coastal Waters Fishery Worker？**
-- 适应户外和海上工作者
-- 对渔业和海洋环境有热情者
-- 不介意体力劳动和不确定工时者
-
-**谁不适合学Inland and Coastal Waters Fishery Worker？**
-- 恐水或晕船者
-- 追求稳定办公室生活者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Suitable for outdoor and maritime work
+- Passionate about fisheries and the marine environment
+- Not minding physical labor and uncertain working hours
+
+**Who is not suited**
+- People with aquaphobia or seasickness
+- Those who seek a stable office life
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a fishery worker?**
+A: Annual income for entry-level workers is approximately 24,000-30,000 euros, intermediate about 30,000-38,000 euros, and senior (e.g., captain) up to 48,000 euros; income is significantly affected by catch volume.
+
+**Q: How can non-EU citizens work in the Dutch fishing industry?**
+A: Mainly through GVVA work permit, requiring employer sponsorship and labor market testing. EU citizens can move freely. Highly Skilled Migrant or EU Blue Card usually not applicable due to high salary thresholds.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Inland and Coastal Waters Fishery Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for fishery workers?**
-答：Entry-level workers earn approximately €24,000-€30,000 annually, mid-level €30,000-€38,000, and senior positions (e.g., captain) up to €48,000, with income significantly affected by catch volumes.
-
-**问：How can non-EU citizens work in Dutch fisheries?**
-答：Primarily via the GVVA work permit, requiring employer sponsorship and labor market test. EU citizens have free movement. Highly Skilled Migrant or EU Blue Card are usually not applicable due to salary thresholds.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

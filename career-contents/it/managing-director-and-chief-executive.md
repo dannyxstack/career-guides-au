@@ -1,60 +1,96 @@
-# Managing Director and Chief Executive（Managing Director and Chief Executive）职业分析 · IT
+# Managing Director and Chief Executive — career analysis · Italy
 
-**职业代码：1120 – Managing Director and Chief Executive。**
+**Occupation code: 1120 (ISCO08)**
 
-Senior executives responsible for the overall strategic direction, operations, and performance of an organization.
+Senior manager responsible for overall company strategic direction, operations management, and performance.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $5,000~$10,000（公立大学学费） |
-| 硕士（MBA） | 1-2年 | $15,000~$40,000（商学院学费） |
+| Bachelor's degree | 3 years (bachelor's) | $5,000~$10,000 (Public university tuition) |
+| Master's (MBA) | 1-2 years | $15,000~$40,000 (Business school tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工商管理学位 | 意大利大学 | 可选 | 通常要求本科或硕士 |
-| 专业资格（如会计师） | 相关行业协会 | 可选 | 非强制但有利于某些行业 |
+| Bachelor of Business Administration | Italian universities | Optional | Usually requires a bachelor's or master's degree |
+| Professional qualifications (e.g., accountant) | Relevant industry associations. | Optional | Not mandatory but beneficial for certain industries |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。意大利总经理和首席执行官岗位需求稳定，但竞争激烈。数字化转型和国际扩张是主要驱动力，中小企业领导层更新换代也创造机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Demand for CEO and general manager roles in Italy remains stable but competitive. Digital transformation and international expansion are key drivers, while leadership renewal in SMEs also creates opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$100,000 | 中小企业或部门负责人 |
-| 中级（3-10年） | $100,000~$200,000 | 中型企业CEO |
-| 高级（10年以上） | $200,000~$500,000 | 大型企业或跨国集团 |
+| Median salary | $150,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $70,000~$100,000 | Small and medium-sized enterprise or department heads |
+| Intermediate (3-10 years) | $100,000~$200,000 | CEO of a medium-sized enterprise |
+| Senior (10+ years) | $200,000~$500,000 | Large enterprises or multinational groups |
+| average salary | $195,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从部门经理或总监晋升，需多年管理经验。部分通过MBA或创业背景进入。可向董事会主席或集团CEO发展，或成为职业董事。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+General Managers and Chief Executives will be significantly augmented rather than replaced by AI, though some tasks like data analysis and report generation will be automated. Core responsibilities such as strategic decision-making and stakeholder management still require humans, resulting in a mixed outlook.
+
+Usually promoted from department manager or director, requiring years of management experience. Some enter through MBA or entrepreneurial background. Can progress to board chair or group CEO, or become a professional director.
+
+**Tasks most exposed to AI:**
+
+- Generate routine operational reports and data analysis
+- Preliminary screening and summarization of large amounts of information
+- Automated schedule arrangement and meeting management
+- Basic financial analysis and forecasting
+- Preliminary review of compliance documents
+
+**Where AI augments the role:**
+
+- Strategic decision support: AI provides real-time market insights and scenario simulation
+- Performance management: AI tracks key indicators and issues alerts
+- Communication and coordination: AI translation and summarization to improve efficiency in multinational teams.
+- Risk management: AI predicts potential operational or financial risks
+- Talent recruitment: AI resume screening and initial assessment
+
+**Human moat:**
+
+- Formulation of corporate vision and long-term strategy
+- Managing key stakeholder (board, client) relationships
+- Crisis management and organizational change leadership
+- Ethical judgment and value-based decision-making
+- Cross-departmental coordination and team motivation
+
+**Skills to build:**
+
+- Application of AI tools (e.g., management dashboards, predictive analytics software)
+- Data Literacy and Data Analysis
+- Digital strategy and transformation leadership
+- Emotional intelligence and cross-cultural communication
+- Agile management and change management
+- Basic knowledge of cybersecurity
+
+**Key growth areas:**
 
 - Digital Transformation
 - Internationalization
@@ -63,66 +99,68 @@ Senior executives responsible for the overall strategic direction, operations, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历和高薪（不低于意大利平均工资1.5倍）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 适用于非欧盟公民，需雇主担保和年度配额。 |
-| Subclass Investor Visa（Investor Visa） | 适用于在意大利投资至少50万欧元的企业家。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a university degree and high salary (at least 1.5 times the Italian average wage). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU citizens, requires employer sponsorship and annual quota. |
+| Subclass Investor Visa (Investor Visa) | Applicable to entrepreneurs investing at least 500,000 euros in Italy. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Managing Director and Chief Executive？**
-- 有丰富管理经验者
-- 具备战略思维和领导力者
-- 敢于承担风险者
+**Who is suited**
+- Those with extensive management experience
+- Those with strategic thinking and leadership skills
+- Those willing to take risks
 
-**谁不适合学Managing Director and Chief Executive？**
-- 偏好技术而非管理角色者
-- 不愿承担高压和责任者
+**Who is not suited**
+- Prefer technical over managerial roles
+- Those unwilling to take on high pressure and responsibility
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for Italian General Managers and CEOs?**
+A: Annual salary ranges from €70,000 to €500,000 depending on company size and industry, with higher possible at large enterprises.
+
+**Q: How can non-EU citizens immigrate to Italy to work as a general manager?**
+A: Can be obtained via the EU Blue Card (high salary + degree) or investment visa (€500,000+).
+
+**Q: Is there an age limit for this position?**
+A: No statutory age limit, but typically requires years of management experience, so common among those over 40.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Managing Director and Chief Executive属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for managing directors and chief executives in Italy?**
-答：Depending on company size and industry, annual salary ranges from €70,000 to €500,000, with higher amounts in large corporations.
-
-**问：How can non-EU citizens immigrate to Italy as managing directors?**
-答：Via EU Blue Card (high salary + degree) or Investor Visa (minimum €500,000 investment).
-
-**问：Is there an age limit for this position?**
-答：No legal limit, but extensive management experience is required, typically held by those over 40.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

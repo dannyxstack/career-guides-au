@@ -1,60 +1,96 @@
-# Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic（Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4021 – Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4021 (SOC)**
 
-Set up, operate, or tend machines to extrude or draw thermoplastic or metal materials into tubes, rods, hoses, wire, bars, or structural shapes in manufacturing settings.
+Set up, operate, or monitor extrusion and drawing machines for metal or plastic to produce tubes, rods, hoses, wires, etc.; a foundational technical role in manufacturing.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-2年 | —（雇主提供培训，部分需自行承担材料费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-2 years | $0~$20,000 (Employer provides training; some may require self-funded materials) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基础要求 |
-| 制造技能认证 | 美国制造协会（SME）等 | 可选 | 非强制，有助于晋升 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| Manufacturing skills certification | Society of Manufacturing Engineers (SME) etc. | Optional | Not mandatory, but helpful for promotion. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 62,000。美国制造业自动化程度提高，但挤出操作员需求稳定，预计2023-2033年就业变化率约-2%至0%，年均空缺约1.1万个。
+**Job demand: medium (★★½☆☆).** National workforce approx. 62,000. Automation in US manufacturing is increasing, but extruder operator demand is stable, with an estimated employment change of -2% to 0% from 2023-2033 and about 11,000 annual openings.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 时薪约$14-$18 |
-| 中级（3-10年） | $35,000~$48,000 | 时薪约$17-$23 |
-| 高级（10年以上） | $45,000~$60,000 | 时薪约$22-$29 |
+| Median salary | $47,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$38,000 | Hourly wage approximately $14-$18 |
+| Intermediate (3-10 years) | $35,000~$48,000 | Hourly wage about $17-$23 |
+| Senior (10+ years) | $45,000~$60,000 | Hourly wage approx. $22-$29. |
+| average salary | $49,480 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 可从初级操作员晋升为高级操作员、班组长或质量控制技术员，部分企业提供内部培训向工艺工程师发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Extrusion and drawing machine operators face high automation risk; AI and robots will take over parameter monitoring, quality inspection, and basic troubleshooting, sharply reducing entry-level positions, requiring upgrade to maintenance and multi-machine management.
+
+Can start as a junior operator, advance to senior operator, team leader, or QC technician; some companies offer in-house training to develop into process engineers.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of extruder temperature, pressure, speed and other parameters (AI vision and IoT sensors automate this)
+- Manually adjust screw speed and traction speed according to product specifications (digital twin for automatic optimization)
+- Manual inspection of product appearance defects (computer vision system detects and marks in real-time)
+- Record production batch data (automatically collected by MES system)
+- Restart process after simple fault downtime (AI diagnoses and executes recovery procedure).
+
+**Where AI augments the role:**
+
+- AI-assisted mold design and debugging reduces trial and error
+- Predictive maintenance systems alert when critical parts need replacement, extending equipment life
+- Digital twin simulates extrusion effects under different material formulas to optimize process parameters.
+- Remote expert systems provide guidance for complex fault troubleshooting
+- AI optimization of mold change sequence and batch scheduling for production to improve OEE
+
+**Human moat:**
+
+- Handling non-standard conditions such as abnormal raw material rheological properties
+- Quick die change and mechanical adjustment hands-on ability
+- Ability to collaborate with engineers to improve moulds and processes
+- Experience coordinating multiple extruders of different models
+- Flexible application of manual cutting, welding, and other auxiliary processes
+
+**Skills to build:**
+
+- PLC and Industrial Robot Basic Programming and Debugging
+- Data analysis (e.g., SCADA report interpretation, statistical process control)
+- Additive manufacturing (3D printing) and mold design software (CAD/CAM).
+- Predictive maintenance technologies (vibration analysis, thermal imaging)
+- Industrial IoT (IIoT) sensor deployment and networking
+- Teamwork and lean production certification (e.g., Six Sigma Yellow Belt)
+
+**Key growth areas:**
 
 - Moderate demand
 - Steady employment
@@ -63,62 +99,64 @@ Set up, operate, or tend machines to extrude or draw thermoplastic or metal mate
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 需本科学位，但此职业通常不满足专业职位要求，极少获批。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 需PERM劳工证，且雇主证明无法招到美国工人，难度高。匹配度低。 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Requires a bachelor's degree, but this occupation usually does not meet professional position requirements, so approval is extremely rare. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Requires PERM labor certification, and employer must prove inability to hire US workers; challenging. Low match. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 动手能力强且适应体力劳动的人
-- 偏好稳定制造业工作而非高薪的人
-- 希望无需高学历即可入行的人
+**Who is suited**
+- People with strong hands-on skills and suited to physical labor
+- Those who prefer stable manufacturing work over high pay
+- Those who want to enter the industry without requiring a high level of education
 
-**谁不适合学Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic？**
-- 寻求高移民友好度或高收入的人
-- 对重复性体力劳动不耐受的人
+**Who is not suited**
+- People seeking high immigration friendliness or high income
+- People intolerant of repetitive physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income potential for a cutoff saw operator?**
+A: Annual salary typically below USD 60,000, senior roles up to 55,000-60,000, but ceiling low, suitable for non-high-salary seekers.
+
+**Q: Is it easy to get a US work visa for this occupation?**
+A: Extremely difficult. Usually does not meet H-1B specialty occupation requirements; EB-3 green cards require PERM and are highly competitive; employer-sponsored immigration is rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the earning potential for extruding operators?**
-答：Annual salary typically under $60,000, with senior roles reaching $55,000-$60,000; limited upside.
-
-**问：Is it easy to get a US work visa for this occupation?**
-答：Very difficult. Typically not eligible for H-1B due to specialty occupation requirements, and EB-3 green card requires PERM with high hurdles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

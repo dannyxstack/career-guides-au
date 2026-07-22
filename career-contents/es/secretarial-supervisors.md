@@ -1,60 +1,96 @@
-# Secretarial Supervisors（Secretarial Supervisors）职业分析 · ES
+# Secretarial Supervisors — career analysis · Spain
 
-**职业代码：3611 – Secretarial Supervisors。**
+**Occupation code: 3611 (CNO)**
 
-Secretarial supervisors oversee administrative support teams, ensuring efficient office operations through task delegation, process optimization, and personnel management.
+The Secretary is responsible for overseeing the administrative support team to ensure efficient office operations, including task allocation, process optimization, and personnel management.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年（FP Grado Superior） | —（公立FP免费或低学费） |
-| 大学本科（Grado） | 4年（Grado） | $1,000~$6,000（公立大学学费因地区而异） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$2,000 (Public FP tuition is free or low) |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$6,000 (Public university tuition fees vary by region) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 行政管理或相关学位 | 西班牙大学/FP学校 | 可选 | 非强制，但有助于晋升 |
-| 管理经验（内部晋升） | 雇主 | 可选 | 通常需要3-5年秘书经验 |
+| Degree in administrative management or related fields | Spanish University/FP School | Optional | Not mandatory, but helps with promotion |
+| Management Experience (Internal Promotion) | Employer | Optional | Usually, 3-5 years of secretarial experience is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。随着企业数字化转型，秘书主管需求稳定，但自动化可能导致初级岗位减少；高级职位仍有需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. As companies undergo digital transformation, the demand for secretarial supervisors remains stable, but automation may lead to a reduction in entry-level positions; Senior positions are still in demand.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，大型企业可达更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Pretax annual salary, can be higher at large companies |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从高级秘书晋升至行政经理或办公室经理，也可转向人力资源或项目管理领域。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The role of secretarial supervisors is being impacted and enhanced by AI: routine administrative tasks can be automated, but core responsibilities like team management and strategic coordination require human judgment. Competition for entry-level positions is intensifying, but demand for senior managers remains stable.
+
+You can advance from senior secretary to administrative manager or office manager, or move into human resources or project management.
+
+**Tasks most exposed to AI:**
+
+- Routine schedule management and meeting arrangements
+- Document drafting, formatting, and archiving
+- Basic data entry and report generation
+- Simple travel booking and expense reimbursement review
+- Automatic distribution of internal communications and notifications
+
+**Where AI augments the role:**
+
+- Use AI to analyze and optimize office process bottlenecks
+- Monitor team performance and workload in real time using AI tools
+- Generate complex report summaries using natural language processing
+- Use AI for budget forecasting and resource allocation recommendations
+- Automated handling of employee training materials and knowledge base maintenance
+
+**Human moat:**
+
+- Team motivation, conflict resolution, and performance management
+- High-level communication and cross-departmental coordination
+- Emergency Handling and Crisis Management
+- Develop non-standardized processes and policies
+- Handling sensitive information and confidentiality decisions
+
+**Skills to build:**
+
+- AI office tools (such as Microsoft Copilot, Notion AI)
+- Data Analysis and Visualization (Excel Advanced, Tableau)
+- Project management software (such as Jira, Asana)
+- Process Automation (RPA Basics)
+- Emotional intelligence and leadership training
+- Basic Python or scripting (optional)
+
+**Key growth areas:**
 
 - Administrative Management
 - Office Automation
@@ -63,62 +99,64 @@ Secretarial supervisors oversee administrative support teams, ensuring efficient
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主担保，工作合同至少一年，符合最低薪资要求。 |
-| Subclass Busqueda empleo（Job Search Visa） | 高学历者可申请12个月求职签证，但需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Spanish employer sponsorship required, employment contract of at least one year, and meeting minimum wage requirements. |
+| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can apply for a 12-month job-seeking visa, but must prove financial capacity. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Secretarial Supervisors？**
-- 组织能力强、注重细节的人
-- 具备良好沟通和团队管理能力者
-- 希望在办公室行政领域稳定发展的人
+**Who is suited**
+- Strong organizational skills and attention to detail
+- Strong communication and team management skills
+- Those who hope to develop steadily in office administration
 
-**谁不适合学Secretarial Supervisors？**
-- 不喜欢重复性行政事务的人
-- 缺乏耐心或应对压力能力较弱者
+**Who is not suited**
+- People who dislike repetitive administrative tasks
+- Those who lack patience or have weaker stress coping skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a secretarial supervisor?**
+A: Beginner is about 22,000-30,000 euros, intermediate is 30,000-40,000 euros, and advanced can exceed 50,000 euros.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It is quite challenging; this position is not a high-skilled shortage occupation, requires employer sponsorship, and proof that a local employee is not suitable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★½☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Secretarial Supervisors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for secretarial supervisors?**
-答：Entry-level around €22,000-30,000, mid-level €30,000-40,000, senior up to €50,000+.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：It is difficult; it is not a shortage occupation and requires employer sponsorship with proof of no local candidates.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

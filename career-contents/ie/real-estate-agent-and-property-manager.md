@@ -1,60 +1,96 @@
-# Real Estate Agent and Property Manager（Real Estate Agent and Property Manager）职业分析 · IE
+# Real Estate Agent and Property Manager — career analysis · Ireland
 
-**职业代码：3334 – Real Estate Agent and Property Manager。**
+**Occupation code: 3334 (ISCO08)**
 
-Responsible for property sales, leasing, and management, requiring a license and strong communication and market analysis skills.
+Responsible for real estate sales, leasing, property management, and client consultancy; requires a license and good communication and market analysis skills.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（但需完成短期培训课程） |
-| 培训课程 | 6-12个月 | $2,000~$5,000（包括许可考试准备） |
+| High school graduation | No higher education required | $0~$0 (But need to complete short-term training courses) |
+| Training course | 6–12 months | $2,000~$5,000 (Includes licensing exam preparation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产许可（PSRA注册） | Property Services Regulatory Authority (PSRA) | 必备 | 必须在PSRA注册，完成指定课程并通过考试 |
-| 相关学位 | 高等教育机构 | 可选 | 商业、金融或房地产学位可提升竞争力 |
+| Real Estate License (PSRA Registration) | Property Services Regulatory Authority (PSRA) | Required | Must register with PSRA, complete designated courses and pass exams |
+| Relevant degree | Higher education institutions | Optional | A degree in business, finance, or real estate can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。受住房需求增长和外国投资推动，该职业就业前景稳定；但竞争激烈，新入行者需建立客户网络。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Driven by growing housing demand and foreign investment, employment prospects for this occupation are stable; however, competition is intense, and newcomers need to build a client network.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为底薪加佣金 |
-| 中级（3-8年） | $35,000~$60,000 | 佣金收入对总收入影响较大 |
-| 高级（8年以上） | $60,000~$100,000 | 成功经纪人年收入可超10万欧元 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Mostly base salary plus commission |
+| Mid-level (3–8 years) | $35,000~$60,000 | Commission income has a significant impact on total income. |
+| Senior (8+ years) | $60,000~$100,000 | Successful brokers can earn over €100,000 per year. |
+| average salary | $52,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从助理起步，积累经验后晋升为独立经纪人或物业经理，进而开设自己的中介公司或转向商业地产。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Real estate agents and property managers have complex task structures. AI can automate aspects like document processing and client matching, but tasks like negotiation, site visits, and trust-building still require human leadership. The overall outlook is mixed.
+
+Can start as an assistant, gain experience to advance to independent agent or property manager, then open your own agency or shift to commercial real estate.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate lease contracts and property management reports.
+- AI-based preliminary screening and matching of properties based on client preferences
+- General Q&A and appointment scheduling (chatbot)
+- Market data scraping and basic price analysis
+- Property fee reminders and standardized communication email sending
+
+**Where AI augments the role:**
+
+- Using AI predictive models to optimize property pricing and investment advice
+- Enable remote property viewing through VR/AR and enhance customer experience.
+- Automating customer follow-up and data analysis using CRM system
+- Using AI subletting management platforms to optimize vacancy rates and tenant mix
+- Precision marketing and personalized recommendations based on big data
+
+**Human moat:**
+
+- Negotiation skills and emotional insight for major transactions
+- Ability to conduct on-site property condition and safety hazard assessments
+- Compliance judgment and licensing responsibilities across laws and regulations
+- Trust and empathy required to build long-term client relationships
+- Crisis management for handling sudden property disputes and tenant complaints
+
+**Skills to build:**
+
+- Use AI-assisted valuation tools such as CoStar, Zillow
+- Basic data analysis (Python/SQL) and visualization
+- Digital marketing and social media customer acquisition techniques
+- Proficiency in PropTech software (e.g., AppFolio, Yardi)
+- Virtual property viewing and 3D modeling tool operation
+- Continuous Learning Ability for Updates in Rental Law and Compliance
+
+**Key growth areas:**
 
 - Urbanization
 - Housing demand
@@ -63,65 +99,67 @@ Responsible for property sales, leasing, and management, requiring a license and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需获得爱尔兰企业雇佣，年薪通常需达到30,000欧元以上，且职位通过劳动力市场测试。 |
-| Subclass Intra-Company Transf（Intra-Company Transfer Permit） | 适用于跨国公司内部调动，需在海外公司工作至少6个月。 |
+| Subclass General Employment P (General Employment Permit) | Must be employed by an Irish company, annual salary generally needs to be above 30,000 euros, and the position must pass a labor market test. |
+| Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable for intra-company transfers within multinational corporations, requiring at least 6 months of work overseas. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Real Estate Agent and Property Manager？**
-- 善于沟通、谈判和建立人脉
-- 具备销售热情和市场分析能力
-- 能够自我激励并适应灵活工作时间
+**Who is suited**
+- Skilled in communication, negotiation, and networking.
+- Possess sales enthusiasm and market analysis skills
+- Self-motivated and able to adapt to flexible working hours.
 
-**谁不适合学Real Estate Agent and Property Manager？**
-- 不喜社交或压力工作环境
-- 缺乏耐心或不具备独立工作能力
+**Who is not suited**
+- Dislikes social interaction or high-pressure work environment
+- Lacks patience or ability to work independently
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of real estate agents in Ireland?**
+A: Junior brokers earn about €25,000-35,000 annually, mid-level €35,000-60,000, senior up to €100,000+, with income highly dependent on commissions.
+
+**Q: Can foreigners work as real estate agents in Ireland?**
+A: Yes, but you need to obtain a work permit (e.g. General Employment Permit) and meet salary requirements, and also register with PSRA to obtain qualification.
+
+**Q: What is the career progression path for this occupation?**
+A: Start as an assistant, transition to independent real estate agent/property manager, and eventually start your own agency or focus on commercial real estate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Real Estate Agent and Property Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of real estate agents in Ireland?**
-答：Entry-level agents earn around €25,000-€35,000, mid-level €35,000-€60,000, and senior agents can exceed €100,000, heavily dependent on commissions.
-
-**问：Can foreigners work as real estate agents in Ireland?**
-答：Yes, but require a work permit (e.g., General Employment Permit) meeting salary thresholds, and must register with PSRA.
-
-**问：What is the career progression for this occupation?**
-答：Start as an assistant, progress to independent agent/property manager, and eventually start your own agency or specialize in commercial property.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

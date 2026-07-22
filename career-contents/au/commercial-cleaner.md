@@ -1,64 +1,95 @@
-# 商业清洁（Commercial Cleaner）职业分析 · 澳大利亚
+# Commercial Cleaner — career analysis · Australia
 
-**职业代码：811211 – Commercial Cleaner。**
+**Occupation code: 811211 (ANZSCO)**
 
-商业清洁在办公楼、商场、医院等场所进行清洁与卫生维护，受Cleaning Services Award保护，门槛低、夜班多，非技术移民职业。
+Commercial cleaning involves cleaning and hygiene maintenance in office buildings, shopping centres, hospitals and similar venues. It is covered by the Cleaning Services Award, has a low entry barrier, involves frequent night shifts, and is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 无强制学历（在岗培训） | 即时 | —（雇主培训） |
-| Certificate III in Cleaning Operations（可选） | 数月 | —（利于专业方向） |
+| No mandatory qualifications (on-the-job training) | Immediate | $0~$0 (Employer-provided training) |
+| Certificate III in Cleaning Operations (optional) | Several months | $0~$2,500 (Beneficial for specialisation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| White Card（部分工地需要） | RTO | 可选 | 工地清洁需要 |
+| White Card (required on some sites) | RTO | Optional | Requirements for construction site cleaning |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 160,000。需求稳定，专业化（医院/工业清洁）和设施服务方向附加值更高。
+**Job demand: high (★★★★☆).** National workforce approx. 160,000. Demand is stable, with higher added value in specialised roles (hospital/industrial cleaning) and facilities services.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 3,000~6,000 个 | 全国，多casual |
-| Indeed | 2,500~5,000 个 | 全国 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门（casual） | $48,000~$58,000 | 时薪约$24~$30含补贴 |
-| 全职 | $55,000~$65,000 | Cleaning Award |
-| 主管/专业清洁 | $65,000~$78,000 | — |
+| Median salary | $65,208 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level (casual) | $48,000~$58,000 | Hourly rate of approximately $24–$30 including allowances |
+| Full-time | $55,000~$65,000 | Cleaning Award |
+| Supervisor / Specialist Cleaning | $65,000~$78,000 | — |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向清洁主管、设施服务承包发展。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+High risk of automation in commercial cleaning; AI and robots will replace most repetitive cleaning tasks, significantly compressing entry-level positions, but on-site management and specialty cleaning still require humans.
+
+Can progress into cleaning supervisor or facilities services contracting roles.
+
+**Tasks most exposed to AI:**
+
+- Routine Floor Vacuuming and Mopping
+- Standardized toilet cleaning
+- Automatic window cleaning
+- Garbage collection and sorting
+- Patrol and cleaning along fixed routes
+
+**Where AI augments the role:**
+
+- Cleaning progress monitoring using robot management platforms
+- Using AI scheduling systems to optimize cleaning routes and frequency
+- Identify dirty areas via IoT sensors for precise cleaning
+- AR glasses assisted cleaning quality inspection
+- AI tools generate cleaning reports and analyze customer feedback
+
+**Human moat:**
+
+- Handling sudden stains (e.g., vomit, chemical spills)
+- Customer personalized needs communication and relationship maintenance
+- Strict cleaning procedures for high-risk areas (e.g., operating rooms, clean rooms)
+- Emergency response (e.g., post-fire cleaning).
+- Team management and training new employees
+
+**Skills to build:**
+
+- Robot operation, maintenance, and basic troubleshooting
+- Use of AI scheduling software (e.g., CMMS).
+- Specialized cleaning techniques (biohazard, cleanroom)
+- Data analysis and cleaning efficiency optimization
+- Cross-cultural communication and customer service
+- Sustainable cleaning methods (green certification)
+
+**Key growth areas:**
 
 - Specialised/Industrial Cleaning
 - Hygiene & Sanitation
@@ -66,57 +97,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学商业清洁？**
-- 能吃苦、接受夜班者
-- 想灵活排班或快速上岗者
-
-**谁不适合学商业清洁？**
-- 以技术移民为目标者
-- 不适应体力劳动者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who are hardworking and willing to work night shifts
+- Those seeking flexible rosters or fast job placement
+
+**Who is not suited**
+- Those targeting skilled migration
+- Unsuited to physical labour
+
+---
+
+## 8. FAQ
+
+**Q: What is the wage for a commercial cleaner in Australia?**
+A: Casual hourly rate approx $24~$30, full-time annual salary approx $55,000~$65,000, professional/managerial $70,000+.
+
+**Q: Can commercial cleaning lead to skilled migration?**
+A: No, this is not a skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 很低（★☆☆☆☆） |
-| 考证难度 | 很低（★☆☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-商业清洁属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲商业清洁工资多少？**
-答：casual时薪约$24~$30，全职年薪约$5.5万~$6.5万，专业/主管$7万+。
-
-**问：商业清洁能技术移民吗？**
-答：不能，非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

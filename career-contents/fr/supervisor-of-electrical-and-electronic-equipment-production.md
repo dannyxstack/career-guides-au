@@ -1,60 +1,91 @@
-# Supervisor Of Electrical And Electronic Equipment Production（Supervisor Of Electrical And Electronic Equipment Production）职业分析 · FR
+# Supervisor Of Electrical And Electronic Equipment Production — career analysis · France
 
-**职业代码：H2501 – Supervisor Of Electrical And Electronic Equipment Production。**
+**Occupation code: H2501 (ROME)**
 
-Oversees the manufacturing process of electrical and electronic products, manages production teams, and ensures quality, cost, and delivery targets are met.
+Responsible for overseeing the manufacturing processes of electrical and electronic products, managing production teams, and ensuring quality, cost, and delivery deadlines are met.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS（高级技术员证书） | 2年（BTS） | $1,000~$5,000（公立学校学费低，私立约3000-5000欧元/年） |
-| Licence professionnelle（职业学士） | 3年（Licence） | $2,000~$8,000（公立大学约200-400欧元/年，私立约5000-8000欧元/年） |
-| 学徒制（Apprentissage） | 2-3年 | —（学徒期间学费由企业承担，且领取工资） |
+| BTS (Senior Technician Certificate) | 2 Years (BTS) | $1,000~$5,000 (Public schools have low tuition fees, while private ones cost about 3,000-5,000 euros per year) |
+| Licence professionnelle | 3 years (Licence) | $2,000~$8,000 (Public universities approximately €200-400/year, private approximately €5,000-8,000/year.) |
+| Apprentissage | 2-3 years | $0~$0 (During the apprenticeship, tuition is covered by the company, and salary is collected) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP（职业资格认证） | 法国行业委员会 | 可选 | 可选，证明生产管理技能 |
-| BTS或Licence文凭 | 法国教育部 | 必备 | 通常要求电气电子或工业工程相关学历 |
-| CACES（起重设备操作证书） | 法国职业安全机构 | 可选 | 如涉及叉车等设备操作需此证 |
+| BTS or Licence diploma | French Ministry of Education | Required | Typically, a degree in electrical electronics or industrial engineering is required |
+| CQP (Professional Qualification Certification) | French Industry Council | Optional | Optional, demonstrating production management skills |
+| CACES (Lifting Equipment Operation Certificate) | French occupational safety agency | Optional | This certificate is required if the operation of equipment such as forklifts is involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。法国电气电子制造业受再工业化与能源转型推动，岗位需求稳定。但生产主管职位竞争中等，需具备技术与管理双技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. France's electrical and electronic manufacturing industry is driven by reindustrialization and energy transition, resulting in stable job demand. However, the production supervisor position is moderately competitive and requires both technical and management skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视企业规模和地区 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，可升至生产经理级别 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on company size and region. |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, with promotion up to production manager level |
+| average salary | $34,572 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从生产主管晋升为生产经理、工厂经理，或转向质量管理、供应链管理等领域。积累经验后可担任更高级管理职位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI partially automates production scheduling and quality inspection, but complex equipment fault diagnosis, team management, and cross-departmental coordination still require human experience, presenting both risks and opportunities.
+
+You can be promoted from production supervisor to production manager, plant manager, or move into areas such as quality management or supply chain management. After gaining experience, you can take on more senior management roles.
+
+**Tasks most exposed to AI:**
+
+- Production data statistics and report generation
+- Basic quality inspection (such as visual inspection)
+- Standardized production scheduling optimization
+
+**Where AI augments the role:**
+
+- Using AI to analyze production data and predict equipment failures
+- Use AI to assist in optimizing production line layout and process parameters
+- Quickly complete root cause analysis of quality anomalies using AI tools
+- Automatically organize technical documents using natural language processing
+
+**Human moat:**
+
+- On-site decision-making and hands-on repairs for emergency equipment failures
+- New employee training and team conflict mediation
+- Multi-supplier coordination and urgent order negotiations
+- Bottom line assessment of safety procedures and handling of violations
+
+**Skills to build:**
+
+- Advanced data analysis in Python/Excel
+- Industrial IoT and MES system operation
+- Basic machine learning modeling (such as anomaly detection)
+- Lean Production Six Sigma Method
+- AI tool applications (Copilot, Tableau)
+
+**Key growth areas:**
 
 - Industry 4.0
 - Energy Transition
@@ -63,68 +94,67 @@ Oversees the manufacturing process of electrical and electronic products, manage
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，需满足学历及薪资要求，有效期4年 |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公司，需劳动局批准，每年更新 |
-| Subclass Carte bleue UE（EU Blue Card） | 要求年薪约5.4万欧元以上，快速通道 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, must meet educational and salary requirements, valid for 4 years |
+| Subclass Salarié (Employee Work Permit) | Employed by a French company requires approval from the Labor Bureau, with annual renewal |
+| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary of approximately €54,000+; fast-track pathway |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisor Of Electrical And Electronic Equipment Production？**
-- 具备电气电子技术背景的人员
-- 有生产管理经验或能力者
-- 愿意在工业制造领域长期发展
-
-**谁不适合学Supervisor Of Electrical And Electronic Equipment Production？**
-- 不喜现场管理与团队协调者
-- 无法适应倒班或生产压力者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Personnel with a background in electrical and electronic technology
+- Those with production management experience or ability
+- Willing to develop long-term in the industrial manufacturing sector
+
+**Who is not suited**
+- Those who dislike on-site management and team coordination
+- Those who cannot adapt to shift or production pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for electrical and electronic production supervisors in France?**
+A: Entry-level: around €28,000–€35,000 gross annual salary; mid-level: €35,000–€45,000; senior: €45,000–€60,000, depending on experience and company size.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: Eligible for French Passeport Talent (requires employer sponsorship and meeting salary threshold) or EU Blue Card (annual salary over EUR 54,000).
+
+**Q: What educational qualifications are required to become a production supervisor?**
+A: Typically, a BTS or Licence professionnelle degree is required, but experience can also be gained through apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisor Of Electrical And Electronic Equipment Production的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for electrical and electronic production supervisors in France?**
-答：Entry-level around 28k-35k EUR gross annual, mid-level 35k-45k, senior 45k-60k, depending on experience and company size.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Apply for Talent Passport (Passeport Talent) with employer sponsorship and sufficient salary; or EU Blue Card (annual salary over 54k EUR).
-
-**问：What education is required to become a production supervisor?**
-答：Typically a BTS or Licence professionnelle; apprenticeship is also a common pathway.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

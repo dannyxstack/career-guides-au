@@ -1,58 +1,93 @@
-# Charitable organisation managers and directors（Charitable organisation managers and directors）职业分析 · UK
+# Charitable organisation managers and directors — career analysis · United Kingdom
 
-**职业代码：1135 – Charitable organisation managers and directors。**
+**Occupation code: 1135 (SOC)**
 
-Charitable organisation managers and directors plan, organise, co-ordinate and direct the activities of organisations in the charitable and not-for-profit sector.
+Charitable organization managers and directors plan, organize, coordinate, and direct the activities of charitable and non-profit organizations, ensuring the organization fulfills its mission and operates efficiently.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,000~$20,000（英国本科学费，国际学生更高） |
-| 硕士 | 1年 | $12,000~$25,000（非营利管理或公共管理硕士） |
+| Bachelor's degree | 3 years | $9,000~$20,000 (UK undergraduate tuition fees, higher for international students) |
+| Master's degree | 1 year | $12,000~$25,000 (Master of Nonprofit Management or Public Administration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 非营利管理硕士 | 英国大学 | 可选 | 相关学位可提升竞争力 |
-| 特许管理会计师资格 | CIMA | 可选 | 财务背景有助于管理 |
+| Master of Nonprofit Management | UK universities | Optional | A relevant degree can enhance competitiveness |
+| Chartered Management Accountant qualification | CIMA | Optional | Financial background aids management |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。英国慈善行业就业前景稳定，随着社会对公益服务需求增加，管理岗位需求将持续增长，尤其在医疗、教育和社区服务领域。
+**Job demand: medium (★★★☆☆).** National workforce approx. 25,000. The UK charity sector has stable job prospects, with growing demand for social services driving increased need for management roles, especially in healthcare, education, and community services.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 项目官员或助理经理 |
-| 中级（3-8年） | $35,000~$50,000 | 部门经理或区域总监 |
-| 高级（8年以上） | $50,000~$80,000 | 首席执行官或董事会董事 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Project Officer or Assistant Manager |
+| Mid-level (3–8 years) | $35,000~$50,000 | Department manager or regional director |
+| Senior (8+ years) | $50,000~$80,000 | Chief Executive Officer or Board Director |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 职业晋升路径通常从项目官员或部门经理开始，逐步晋升至高级管理职位，如首席执行官或基金会董事。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall outlook for charity organization managers and directors is mixed: routine administrative and data tasks will be highly automated, but core work like strategic decision-making and interpersonal fundraising will be amplified by AI, requiring managers to adapt to technological tools faster.
+
+Career progression typically starts as a project officer or department manager, advancing to senior management roles such as CEO or foundation director.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate donor reports and compliance documents
+- Automated screening and ranking of grant applications
+- Basic financial bookkeeping and budget tracking automation
+- Social media content scheduling and basic customer service replies
+- Automating administrative processes like event registration and check-in
+
+**Where AI augments the role:**
+
+- AI-assisted donor profiling and precision fundraising strategy generation
+- Using natural language processing to analyze community needs and project impact reports
+- Optimize resource allocation and volunteer scheduling based on predictive models.
+- AI vision and copy tools improve efficiency in promotional material production
+- Real-time dashboards help monitor key performance indicators and risks
+
+**Human moat:**
+
+- Deep understanding of and emotional commitment to the organization's mission
+- Build long-term trust with donors and beneficiaries
+- Complex stakeholder communication and conflict mediation
+- Ultimate responsibility for ethical judgment and compliance risk
+- Strategic planning and vision setting
+
+**Skills to build:**
+
+- Data analysis and data visualization (using Tableau/Power BI)
+- AI tool application (ChatGPT/NLP for fundraising letter writing)
+- Digital Marketing and Social Media Analytics
+- Advanced use of project management software (Asana/Trello)
+- Basic programming skills (Python crawling/automation scripts)
+- Ethics and Compliance (AI Governance and Data Privacy)
+
+**Key growth areas:**
 
 - sector growth
 - leadership roles
@@ -61,68 +96,67 @@ Charitable organisation managers and directors plan, organise, co-ordinate and d
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的管理岗位，需满足薪资要求（通常不低于£38,700） |
-| Subclass Global Talent（Global Talent visa） | 适用于在慈善领域有杰出成就或领导力的个人，无需雇主担保 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在完成学业后留在英国工作或寻找工作，最长2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable for management positions with employer sponsorship, must meet salary requirements (usually not less than £38,700) |
+| Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or leadership in the charitable sector; no employer sponsorship required |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work or look for work in the UK after completing their studies, for up to 2 years (3 years for PhDs) |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Charitable organisation managers and directors？**
-- 有公益热情，希望推动社会变革的人
-- 具备战略规划和财务管理能力的管理者
-- 善于团队协作和利益相关方沟通
-
-**谁不适合学Charitable organisation managers and directors？**
-- 追求高薪和快速财务回报的人
-- 不喜欢处理复杂法规和资金压力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about public welfare and driving social change
+- Managers with strategic planning and financial management skills
+- Good at teamwork and stakeholder communication
+
+**Who is not suited**
+- Those seeking high salary and rapid financial returns
+- Those who dislike dealing with complex regulations and financial pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for charity organization managers?**
+A: Entry-level positions around £25,000-35,000, intermediate £35,000-50,000, senior can exceed £80,000.
+
+**Q: How can overseas individuals immigrate to the UK through this occupation?**
+A: can obtain employer sponsorship via the Skilled Worker visa, or apply through the Global Talent visa based on personal achievements.
+
+**Q: What are the career prospects for this occupation?**
+A: The charity sector continues to grow with stable demand for management roles, offering pathways to senior leadership positions such as CEO.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Charitable organisation managers and directors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for charitable organisation managers?**
-答：Entry-level positions earn around £25,000-£35,000, mid-level £35,000-£50,000, and senior roles can exceed £80,000.
-
-**问：How can overseas professionals migrate to the UK through this occupation?**
-答：They can obtain a Skilled Worker visa with employer sponsorship or apply for a Global Talent visa based on personal achievements.
-
-**问：What are the career prospects for this occupation?**
-答：The charity sector is growing steadily, with stable demand for management roles and potential advancement to senior leadership positions such as CEO.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

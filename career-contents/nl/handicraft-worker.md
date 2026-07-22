@@ -1,60 +1,96 @@
-# Handicraft Worker（Handicraft Worker）职业分析 · NL
+# Handicraft Worker — career analysis · Netherlands
 
-**职业代码：7319 – Handicraft Worker。**
+**Occupation code: 7319 (ISCO08)**
 
-Handicraft workers create, repair, or customize artisanal products such as ceramics, glassware, woodwork, and metal ornaments using traditional or modern techniques. While a niche occupation, demand is steady in tourist areas and creative industries.
+Artisan workers use traditional or modern techniques to handcraft, repair, or customise ceramics, glass, woodware, metal ornaments, and other crafts. While this occupation is niche in the Netherlands, there is steady demand in tourist areas and the creative industry.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立MBO学费约€1,200/年，部分负担材料费） |
-| 学徒制（BBL） | 2-3年 | —（在职培训，企业承担部分费用） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public MBO tuition approx. €1,200/year, partial coverage of material costs) |
+| Apprenticeship (BBL) | 2-3 years | $0~$500 (On-the-job training, employer covers part of the cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO手工艺文凭 | ROC（地区教育中心） | 必备 | 完成4级MBO课程，针对特定手工艺方向如陶瓷、木工等 |
-| 国家手工艺认证（可选） | Vakmensen（荷兰手工艺协会） | 可选 | 非强制，但有助于证明技能水平 |
+| MBO Diploma in Crafts | ROC (Regional Education Centre) | Required | Completion of Level 4 MBO course, specializing in a specific craft such as ceramics or woodworking. |
+| National Handicraft Certification (optional) | Vakmensen (Netherlands Association of Craftsmanship) | Optional | Not mandatory, but helps demonstrate skill level |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 12,000。荷兰手工艺行业受旅游经济和国内创意消费驱动，未来五年就业小幅增长。数字化工具（如3D打印）带来新机遇，但也需平衡传统技艺传承。薪资受区域和品类影响较大。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The Dutch handicraft industry, driven by tourism and domestic creative consumption, will see slight employment growth over the next five years. Digital tools (e.g., 3D printing) bring new opportunities but also require balancing traditional skills. Salaries vary significantly by region and product category.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 受雇于工作室或作坊 |
-| 中级（3-7年） | $28,000~$36,000 | 独立工匠或资深员工 |
-| 高级（7年以上） | $36,000~$48,000 | 工作室主理人或知名工匠，收入因项目波动 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Employed in a studio or workshop |
+| Mid-level (3–7 years) | $28,000~$36,000 | Independent Artisan or Senior Employee |
+| Senior (7+ years) | $36,000~$48,000 | Studio owner or renowned artisan, income fluctuates with projects |
+| average salary | $33,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 手工艺工人可从学徒成长为独立工匠或工作室主理人，也可拓展至定制设计、修复或教学领域。部分转向创意管理或与设计师协作，跨界发展。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on Handicraft Workers (not elsewhere classified) in the Netherlands: it can automate documentation and design, but manual skills and custom services are hard to replace, with stable and niche demand.
+
+Craft workers can progress from apprentices to independent artisans or studio managers, and can also expand into custom design, restoration, or teaching. Some move into creative management or collaborate with designers for cross-disciplinary development.
+
+**Tasks most exposed to AI:**
+
+- Product design and sketching: AI-generated drafts reduce need for manual concept design
+- Customer communication and order management: chatbots and automation systems handle routine inquiries
+- Cost estimation and bill of materials: AI algorithms quickly calculate optimal solutions.
+- Inventory Management and Purchasing: Automatic replenishment system replaces manual record-keeping
+- Online sales and marketing content: AI-generated product descriptions and social media posts
+
+**Where AI augments the role:**
+
+- Creative experimentation: AI quickly generates multiple patterns and color schemes to assist artistic decisions
+- Process improvement: AI analyzes material properties and tool parameters to optimize manual efficiency and quality
+- Personalised customisation: customer photos and preferences input into AI to generate custom design frameworks
+- Skill Learning: AI-driven AR/VR simulation training for new manual techniques
+- Market positioning: AI analyzes tourism and creative industry trends to guide product development
+
+**Human moat:**
+
+- Handcraftsmanship and Tactile Sensation: e.g., pottery wheel throwing, fine wood carving adjustments—AI cannot replicate
+- Unique artistic style: personal aesthetics and creative intuition cannot be fully replaced by algorithms.
+- Customer Trust and Emotional Connection: Personalized Face-to-Face Services Build Long-Term Relationships
+- Cultural heritage: Traditional craftsmanship knowledge and local characteristics require human transmission
+- Unpredictable creativity: flexibility to improvise on-site and experiment with mixed materials
+
+**Skills to build:**
+
+- AI design tools: learn to use DALL·E, Midjourney, etc. to generate creative references
+- Digital marketing and e-commerce: mastering social media promotion and online sales platform operations
+- New knowledge in materials science: understanding environmentally friendly materials and smart composite applications
+- Augmented Reality (AR) production: used to showcase works or assist client visualization
+- Data analysis: Use customer data to optimize product design and pricing strategies
+- Cross-disciplinary collaboration skills: collaborating with designers and tech companies to develop new products
+
+**Key growth areas:**
 
 - Sustainable craftsmanship
 - Custom & bespoke goods
@@ -63,62 +99,64 @@ Handicraft workers create, repair, or customize artisanal products such as ceram
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于与荷兰雇主签订合同的高技能手工艺人才，要求年薪不低于€40,000（30岁以上）或€31,000（30岁以下） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育背景且年薪达€55,000以上的手工艺专家，需雇主担保 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled craft talents with a contract with a Dutch employer, requiring annual salary of at least €40,000 (over 30) or €31,000 (under 30) |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to skilled craft experts with higher education background and annual salary of €55,000 or above; requires employer sponsorship |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Handicraft Worker？**
-- 热爱手工制作，注重细节与耐心
-- 追求创意自由，愿意承担收入波动风险
-- 具备一定商业能力，能自我营销或管理工作室
+**Who is suited**
+- Passionate about handmade crafts with attention to detail and patience
+- Pursue creative freedom and accept the risk of income fluctuations
+- Possessing business acumen to self-market or manage a studio
 
-**谁不适合学Handicraft Worker？**
-- 偏好稳定收入与固定工作环境
-- 对重复性手工劳动感到枯燥
+**Who is not suited**
+- Preference for stable income and fixed work environment
+- Finds repetitive manual labor tedious
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of Dutch artisan workers?**
+A: Junior annual salary approx €22,000–€28,000, mid-level €28,000–€36,000, senior up to €48,000. Independent craftsmen's income varies greatly, affected by order volume and reputation.
+
+**Q: How can non-EU citizens immigrate to the Netherlands through craft work?**
+A: It is possible via the highly skilled migrant visa (kennismigrant), requiring employer sponsorship and meeting a minimum annual salary (€31,000 for under 30, €40,000 for 30 and over). The EU Blue Card requires a higher salary and higher education background.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Handicraft Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level for handicraft workers in the Netherlands?**
-答：Entry-level annual salary ranges EUR 22,000-28,000, mid-level EUR 28,000-36,000, and senior up to EUR 48,000. Freelance artisans experience income fluctuation based on orders and reputation.
-
-**问：How can non-EU citizens immigrate to the Netherlands as handicraft workers?**
-答：Through the Highly Skilled Migrant scheme (kennismigrant) with employer sponsorship and salary thresholds (EUR 31,000 for under 30, EUR 40,000 for 30+). EU Blue Card requires higher salary and higher education.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

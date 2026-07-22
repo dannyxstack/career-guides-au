@@ -1,61 +1,95 @@
-# Subsistence Crop Farmer（Subsistence Crop Farmer）职业分析 · IT
+# Subsistence Crop Farmer — career analysis · Italy
 
-**职业代码：6310 – Subsistence Crop Farmer。**
+**Occupation code: 6310 (ISCO08)**
 
-Subsistence crop farmers in Italy engage in small-scale family farming, growing vegetables, grains, and fruits for self-consumption or local sale, representing traditional agriculture.
+Subsistence crop farmers in Italy mainly engage in small-scale family agriculture, growing vegetables, grains, fruits, etc. for own consumption or local sale, representing traditional farming models.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初等教育 | 5年（小学） | —（义务教育免费） |
-| 中等教育 | 8年（初中+高中） | —（公立学校免费，少量书本费） |
-| 职业培训 | 1-2年 | $500~$3,000（农业职业培训课程，地区差异大） |
+| Primary education | 5 years (primary school) | $0~$0 (Free compulsory education) |
+| Secondary Education | 8 years (junior + senior high school) | $0~$1,000 (Public schools are free, with a small fee for books.) |
+| Vocational training | 1-2 years | $500~$3,000 (Agricultural vocational training courses vary greatly by region.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业职业资格 | 地区农业部门 | 可选 | 参加培训并通过考试获得，部分地区要求申请补贴时持有 |
-| 有机农业认证 | 认证机构（如ICEA） | 可选 | 自愿认证，但有助于开拓市场 |
+| Agricultural vocational qualification | Regional agricultural department | Optional | Obtained by attending training and passing an exam; required in some areas to apply for subsidies |
+| Organic agriculture certification | Certifying bodies (e.g., ICEA) | Optional | Voluntary certification, but helps expand the market |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 150,000。意大利农业劳动力老龄化严重，年轻务农者减少，但有机农业和短链销售模式带来新机会。政策支持可持续农业，但自给农民收入不稳定，欧盟补贴是关键。
+**Job demand: low (★½☆☆☆).** National workforce approx. 150,000. Italy's agricultural workforce is aging severely, with fewer young farmers, but organic farming and short-chain sales models offer new opportunities. Policies support sustainable agriculture, but subsistence farmers have unstable incomes, and EU subsidies are key.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $10,000~$15,000 | 通常仅自给，现金收入有限 |
-| 中级（3-10年） | $12,000~$20,000 | 部分销售剩余产品，收入波动大 |
-| 高级（10年以上） | $15,000~$25,000 | 可能发展为小型商业农场，但多数仍为自给 |
+| Median salary | $16,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $10,000~$15,000 | Usually only self-sufficient, with limited cash income |
+| Intermediate (3-10 years) | $12,000~$20,000 | Partial sale of surplus products, resulting in volatile income |
+| Senior (10+ years) | $15,000~$25,000 | May develop into small commercial farms, but most remain subsistence |
+| average salary | $16,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业发展路径有限，多数农民维持现状。有潜力的方向是转向有机认证或直接销售（农市、CSA），少数可扩展为商业农场或合作社成员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Self-sufficient crop farmers face mixed impacts from AI/automation: physical labor tasks are hard to replace, but information gathering and crop monitoring can be enhanced by AI; entry barriers remain largely unchanged.
+
+Limited career development paths; most farmers maintain the status quo. Potential directions include transitioning to organic certification or direct sales (farmers' markets, CSA), and a few can expand to commercial farms or cooperative memberships.
+
+**Tasks most exposed to AI:**
+
+- Manual recording of crop growth logs and yield data, replaced by automatic sensors
+- Manual pest and disease identification replaced by AI image recognition
+- Manual calculation of fertilizer amounts replaced by precision agriculture algorithms
+- Paper-based bookkeeping and tax calculations are being replaced by financial software
+
+**Where AI augments the role:**
+
+- AI tools analyze soil moisture and meteorological data to optimize irrigation timing.
+- Use satellite imagery and drones to monitor crop health and provide early warning of pests and diseases
+- AI-assisted planting decisions based on historical data and market price forecasts
+- Online platforms connecting local consumers with restaurants to expand direct sales channels
+- Smart devices monitor storage conditions to reduce post-harvest loss
+
+**Human moat:**
+
+- Physical labour and on-site work (e.g., manual weeding, harvesting)
+- Decisions based on local experience (e.g., traditional crop rotation, variety selection)
+- Trust relationship with communities and consumers
+- Flexible judgment in response to sudden weather and pests
+
+**Skills to build:**
+
+- Use AI agricultural applications (e.g., weather prediction, soil analysis)
+- Operate smartphones and related agricultural software
+- Basic data analysis and digital record-keeping
+- Marketing and social media promotion of local products
+- Learn fundamentals of precision agriculture
+- Sustainable agriculture practices (e.g., organic certification, water-saving technologies)
+
+**Key growth areas:**
 
 - organic farming
 - short supply chain
@@ -64,65 +98,67 @@ Subsistence crop farmers in Italy engage in small-scale family farming, growing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟季节性农业工人的配额签证，需雇主担保，每年名额有限。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟/EEA公民可自由在意大利从事自给农业，无需签证。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Quota visa for non-EU seasonal agricultural workers, requires employer sponsorship, limited annual quota. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens can freely engage in subsistence farming in Italy without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Subsistence Crop Farmer？**
-- 热爱传统农耕、追求自给自足生活方式的人
-- 有家族农场继承的本地居民
-- 愿意接受低收入但生活成本低的人
+**Who is suited**
+- People who love traditional farming and seek a self-sufficient lifestyle
+- Local residents with family farm succession
+- Suitable for those willing to accept low income but low cost of living
 
-**谁不适合学Subsistence Crop Farmer？**
-- 追求高收入和职业发展的人
-- 无法承受高强度体力劳动的人
+**Who is not suited**
+- Those seeking high income and career development.
+- Those unable to handle high-intensity physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the income level of subsistence crop farmers?**
+A: Income is very low, typically between 10,000 and 25,000 euros per year, mostly self-sufficient with limited cash income.
+
+**Q: How can non-EU citizens become self-sufficient crop farmers in Italy?**
+A: Non-EU citizens can enter the agricultural sector via the Decreto Flussi seasonal work visa, but self-sufficient farmers typically do not apply for work visas; EU citizens can work freely.
+
+**Q: Are there career development opportunities for subsistence farmers?**
+A: Limited development opportunities, mainly maintaining family farms. A few can expand into small commercial farms through organic certification or direct sales.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Subsistence Crop Farmer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income level of subsistence crop farmers?**
-答：Income is very low, typically €10,000-€25,000 per year, mostly for self-sufficiency with limited cash income.
-
-**问：How can non-EU citizens become subsistence crop farmers in Italy?**
-答：Non-EU citizens can enter agriculture via Decreto Flussi seasonal work visa, but subsistence farming typically doesn't qualify; EU citizens have freedom of movement.
-
-**问：Are there career development opportunities for subsistence farmers?**
-答：Opportunities are limited, mostly maintaining family farms. A few can expand into small commercial farms via organic certification or direct sales.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

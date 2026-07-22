@@ -1,60 +1,93 @@
-# Woodwind Instrument Maker（Woodwind Instrument Maker）职业分析 · DE
+# Woodwind Instrument Maker — career analysis · Germany
 
-**职业代码：9362 – Woodwind Instrument Maker。**
+**Occupation code: 9362 (KldB)**
 
-Woodwind instrument makers design, build, and repair woodwind instruments such as flutes, clarinets, oboes, and bassoons. The profession blends traditional craftsmanship with modern techniques, mainly in specialized workshops and custom instrument factories in Germany.
+Woodwind instrument makers are artisans who specialize in designing, producing, and repairing woodwind instruments (e.g., flutes, clarinets, oboes, bassoons). This profession combines traditional craftsmanship with modern technology, mainly concentrated in instrument workshops and custom instrument factories in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，学校学费低） |
-| 继续教育（大师级） | 1-2年 | $2,000~$8,000（部分州提供补助） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Training period includes allowance, low tuition fees) |
+| Continuing education (master craftsman) | 1-2 years | $2,000~$8,000 (Some states provide subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制职业培训证书 | 德国工商会（IHK） | 必备 | 完成3年木管乐器制造培训 |
-| 大师证书（Meister） | 德国工商会（IHK） | 可选 | 可自主开业和带徒 |
+| Dual vocational training certificate. | German Chamber of Commerce and Industry (IHK) | Required | Completed 3-year woodwind instrument manufacturing training |
+| Master certificate (Meister) | German Chamber of Commerce and Industry (IHK) | Optional | Can operate independently and take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 800。德国木管乐器制造业稳定但市场规模较小，因高品质手工乐器需求持续，但受限于学徒数量减少和工业化竞争。就业机会主要集中在定制乐器工坊和维修店，新手需完成双元制培训。
+**Job demand: low (★½☆☆☆).** National workforce approx. 800. The German woodwind instrument manufacturing industry is stable but has a small market, sustained by demand for high-quality handmade instruments, though constrained by a decline in apprentices and industrial competition. Employment opportunities are mainly in custom instrument workshops and repair shops; newcomers must complete dual vocational training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-6年） | $30,000~$38,000 | 税前年薪 |
-| 高级（6年以上/大师） | $38,000~$48,000 | 税前年薪 |
+| Median salary | $33,600 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (6+ years/Master) | $38,000~$48,000 | Annual pre-tax salary |
+| average salary | $37,416 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径：学徒（3年）→ 熟练工匠 → 工坊主管或自主创业开设乐器修理店。少数可进入乐器制造企业担任技术指导，或转向乐器修复与鉴定领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will take over some diagnostic and standard tuning tasks, but manual repair, custom tuning, and complex repairs still require human hearing and touch; replacement risk is currently moderate.
+
+Career progression: Apprentice (3 years) → Skilled artisan → Workshop supervisor or start your own musical instrument repair shop. A few may enter musical instrument manufacturing as technical advisors, or shift to instrument restoration and authentication.
+
+**Tasks most exposed to AI:**
+
+- Use electronic tuner for standard pitch calibration
+- Diagnose common faults through automated analysis software.
+- Generate standardised maintenance reports and records
+- Online appointment management and customer communication
+
+**Where AI augments the role:**
+
+- AI-assisted acoustic analysis software helps accurately locate pitch deviations
+- AR guidance systems overlay repair steps on equipment
+- 3D scanning and modelling to assist custom parts fitting and repair
+- Big data analytics to predict common failure modes of musical instruments
+
+**Human moat:**
+
+- Artistic tuning based on auditory experience (e.g., piano voicing).
+- Complex wood/metal manual restoration and splicing
+- Communicate with musicians to understand personalized tonal needs.
+- Historical restoration and conservation of antique musical instruments
+
+**Skills to build:**
+
+- Proficient in acoustic measurement and analysis software (e.g., SpectraPLUS)
+- Learn 3D scanning and CAD modeling for custom parts
+- Learn to use AR/VR assisted maintenance tools
+- Strengthen customer communication and needs understanding skills
+- Study musical instrument history and materials science
+- Obtain relevant certification (e.g., Piano Technician Guild)
+
+**Key growth areas:**
 
 - artisan
 - custom instruments
@@ -63,69 +96,68 @@ Woodwind instrument makers design, build, and repair woodwind instruments such a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkraft)） | 若拥有德国认可的职业培训学历，可申请技术移民签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的机会卡，适用于未获认证但具备资格的技能人才 |
-| Subclass Job Seeker（Job Seeker Visa） | 可在德逗留6个月寻找雇主，但需证明资质 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Can apply for a skilled migration visa if holding a recognized vocational qualification from Germany |
+| Subclass Chancenkarte (Opportunity Card) | Points-based opportunity card for skilled talent who are not yet credentialed but have qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Can stay in Germany for 6 months to seek an employer, but must prove qualifications |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Woodwind Instrument Maker？**
-- 热爱手工艺和精细操作的人士
-- 对音乐和乐器有浓厚兴趣者
-- 愿意接受长时间双元制培训并追求传统技艺者
-
-**谁不适合学Woodwind Instrument Maker？**
-- 追求高薪和快速职业发展者
-- 对音乐和手工缺乏耐心的人士
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love handcraft and fine operations
+- Those with a strong interest in music and musical instruments
+- Willing to undertake long-term dual vocational training and pursue traditional craftsmanship
+
+**Who is not suited**
+- Those seeking high salary and rapid career development
+- Person lacking patience with music and handicrafts
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for woodwind instrument makers in Germany?**
+A: Entry-level salary approx. €24,000–€30,000/year (pre-tax); senior master can reach €38,000–€48,000/year. Salary is below German average, but craftsmanship premium is reflected in customization and repair services
+
+**Q: Can Chinese citizens immigrate to Germany through this occupation?**
+A: Yes, but it is challenging. Must complete a German-recognized 3-year dual training (can be done in China or Germany) and pass the qualification recognition (Anerkennung). With a work contract, eligible for skilled migration visa.
+
+**Q: How to become a woodwind instrument maker in Germany?**
+A: Typically requires 3 years of dual-system vocational training, conducted jointly by vocational schools and enterprises. Upon completion, a certificate is obtained through the IHK exam. A master craftsman certificate can then be pursued for self-employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Woodwind Instrument Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a woodwind instrument maker in Germany?**
-答：Entry-level salary is around €24,000–30,000 gross per year, while experienced masters can earn €38,000–48,000. Below average, but craftsmanship demand supports niche earnings.
-
-**问：Can Chinese citizens immigrate through this occupation?**
-答：Yes, but challenging. Requires recognized 3-year dual training (in China or Germany) and credential assessment (Anerkennung). A job offer enables skilled worker visa.
-
-**问：How to become a woodwind instrument maker in Germany?**
-答：Complete a 3-year dual vocational training at a vocational school and a workshop, then pass the IHK exam. Optionally obtain a master certificate to start own business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

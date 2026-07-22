@@ -1,60 +1,96 @@
-# Supervisors - Personal Care（Supervisors - Personal Care）职业分析 · DE
+# Supervisors - Personal Care — career analysis · Germany
 
-**职业代码：8239 – Supervisors - Personal Care。**
+**Occupation code: 8239 (KldB)**
 
-Supervisors in personal care oversee staff in beauty, hairdressing, and nail services, ensuring service quality and client satisfaction while managing daily operations and teams.
+Personal care supervisors oversee beauty, hairdressing, nail care, and other personal care service staff, ensuring service quality and customer satisfaction, while managing daily operations and the team.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（美容/美发等） | 3年 | —（培训期间有津贴） |
-| 主管进修（如IHK认证） | 6-12个月 | $2,000~$5,000（部分费用可报销） |
+| Dual training (beauty/hairdressing, etc.) | 3 years | $0~$500 (Allowance during training) |
+| Advanced training (e.g. IHK certification) | 6–12 months | $2,000~$5,000 (Some fees may be reimbursable) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 个人护理相关职业培训证书 | 德国工商会（IHK） | 必备 | 通常需完成双元制培训 |
-| 主管进修证书（IHK） | 德国工商会（IHK） | 可选 | 非强制，但有助于晋升 |
+| Certificate in Personal Care Vocational Training | German Chamber of Commerce and Industry (IHK) | Required | Usually requires completion of dual-system training |
+| Advanced training certificate for supervisors (IHK) | German Chamber of Commerce and Industry (IHK) | Optional | Not mandatory, but helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 35,200。德国个人护理行业稳定发展，老龄化社会对护理服务需求增加，但美容美发领域竞争激烈，就业前景总体平稳，有经验的管理者更受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,200. The German personal care industry is developing steadily, with increasing demand for care services in an ageing society; however, the beauty and hairdressing sector is highly competitive. Overall employment prospects are stable, with experienced managers being more sought after.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$50,000 | 税前年薪 |
+| Median salary | $28,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$50,000 | Annual pre-tax salary |
+| average salary | $30,984 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从技师晋升为主管后，可进一步向区域经理或培训师发展，或通过进修获得企业经济学学位，转向商业管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The supervisory and interpersonal communication duties of a personal care supervisor are difficult to replace, but administrative tasks like scheduling and reporting are easily automated, making overall risk moderate. Entry-level positions may narrow due to automated booking and client management.
+
+After promotion from technician to supervisor, one can further develop into regional manager or trainer, or obtain a degree in business economics through further study and shift to business management roles.
+
+**Tasks most exposed to AI:**
+
+- Employee scheduling and time recording (AI-optimized automatic scheduling system)
+- Customer appointment management and reminders (automated booking platform)
+- Inventory counting and replenishment orders (AI inventory forecasting system)
+- Service records and report generation (automated via natural language processing)
+- Customer satisfaction survey analysis (AI sentiment analysis tools)
+
+**Where AI augments the role:**
+
+- Analyze customer preferences and feedback via AI to optimize service processes and product recommendations
+- Utilize AI training platforms to personalize employee skill development
+- AI-assisted real-time monitoring tools help supervisors quickly identify service issues
+- AI-driven recruitment screening tools improve talent matching efficiency
+- Uses AI to predict trends and adjust service mix and pricing strategies
+
+**Human moat:**
+
+- Handling customer complaints and maintaining complex interpersonal relationships
+- Team morale building and conflict mediation.
+- Immediate judgment and guidance on personalized service quality
+- Quick decision-making in crises (e.g., equipment failures, sudden customer issues)
+- Training apprentices and passing on craft experience
+
+**Skills to build:**
+
+- Proficiency in AI tools: mastering scheduling, CRM, and data analysis platforms
+- Digital communication and remote team management skills
+- Basic data analysis: interpret operational data using Excel or BI tools.
+- AI Ethics and Privacy Protection Knowledge
+- Agile management and adaptive leadership
+- Customer Experience Management (CEM) methodology
+
+**Key growth areas:**
 
 - Service Quality
 - Customer Experience
@@ -63,68 +99,67 @@ Supervisors in personal care oversee staff in beauty, hairdressing, and nail ser
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（EU Blue Card） | 若年薪达标（2024年约4.3万欧元），可申请蓝卡；需相关资质认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 适用于有资质但无工作合同者，凭积分申请进入德国找工作。 |
+| Subclass Skilled Worker (EU Blue Card) | If annual salary meets the threshold (approximately €43,000 in 2024), can apply for a Blue Card; relevant qualification recognition required. |
+| Subclass Chancenkarte (Opportunity Card) | Applicable to qualified individuals without a job offer, allowing them to apply for entry to Germany to seek work using a points-based system. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors - Personal Care？**
-- 有管理潜力的个人护理技师
-- 善于沟通和团队协调的人
-- 注重服务质量和客户关系的人
-
-**谁不适合学Supervisors - Personal Care？**
-- 对行政管理和监督工作缺乏兴趣的人
-- 不擅长处理人际冲突的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Personal care technician with management potential
+- People who are good at communication and team coordination
+- People who focus on service quality and customer relationships
+
+**Who is not suited**
+- People not interested in administrative and supervisory work
+- People who are not good at handling interpersonal conflicts
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of Personal Care Supervisors?**
+A: Gross annual salary approx EUR 28,000-50,000, entry level approx EUR 28,000-34,000, mid-level approx EUR 35,000-42,000, senior up to EUR 50,000.
+
+**Q: How can non-EU citizens immigrate to Germany through this occupation?**
+A: Main pathways: 1) Obtain a recognised vocational training qualification in Germany, then find a job to apply for an EU Blue Card or skilled migration visa; 2) Enter Germany first using an Opportunity Card (Chancenkarte) to seek employment.
+
+**Q: Is German certification required?**
+A: To work in this occupation, you must complete German dual vocational training; foreign qualifications need to be recognised through the Anerkennung procedure, which typically requires theoretical and practical exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Supervisors - Personal Care为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for supervisors in personal care?**
-答：Gross annual salary ranges from €28,000 to €50,000, with entry-level around €28,000-€34,000, mid-level €35,000-€42,000, and senior up to €50,000.
-
-**问：How can non-EU citizens immigrate to Germany through this occupation?**
-答：Main paths: 1) Obtain a recognized vocational qualification in Germany, then find a job and apply for EU Blue Card or skilled worker visa; 2) Use the Opportunity Card to enter Germany and search for a job.
-
-**问：Is German qualification recognition required?**
-答：Yes, a German dual vocational training is required. Foreign qualifications must undergo the Anerkennung procedure, typically involving theoretical and practical exams.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

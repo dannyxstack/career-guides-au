@@ -1,59 +1,95 @@
-# Funeral Director（Funeral Director）职业分析 · 新西兰
+# Funeral Director — career analysis · New Zealand
 
-**职业代码：451512 – Funeral Director。**
+**Occupation code: 451512 (ANZSCO)**
 
-Funeral Directors coordinate funeral services, including body preparation, ceremony conducting, and family support. In New Zealand, demand is stable, with migration possible via Accredited Employer Work Visa (AEWV), but limited skilled migration pathways.
+Funeral directors coordinate funeral services, including body handling, ceremony direction, and family support. In New Zealand, the occupation has stable demand and allows immigration via the Accredited Employer Work Visa (AEWV), but skilled migration pathways are limited.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| Graduate Diploma in Funeral Direction | 1年 | $10,000~$15,000（如Unitec或Wintec提供，学费不等） |
-| Diploma in Funeral Services (Level 5) | 2年 | $20,000~$30,000（包含实习，部分院校提供） |
+| Graduate Diploma in Funeral Direction | 1 year | $10,000~$15,000 (Offered by institutions like Unitec or Wintec; tuition varies) |
+| Diploma in Funeral Services (Level 5) | 2 years | $20,000~$30,000 (Includes internship, offered by some institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 殡葬服务文凭（Level 5） | 新西兰殡葬服务协会 (FNZISA) 认可院校 | 必备 | 必需，包含理论及120小时实习 |
-| 殡葬管理学士学位 | Unitec | 可选 | 非必需但利于晋升 |
-| 急救证书 | 新西兰急救委员会 | 必备 | 工作必需 |
+| Funeral Services Diploma (Level 5) | Institutions accredited by the Funeral Directors Association of New Zealand (FNZISA) | Required | Required, includes theory and 120 hours of internship |
+| First aid certificate | New Zealand Paramedic Board | Required | Required for work |
+| Bachelor's degree in funeral services management | Unitec | Optional | Not required but beneficial for advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 1,200。新西兰殡葬行业受人口老龄化推动，预计未来5年就业持续增长，年均职位空缺约50-80个。行业对持证专业人员需求稳定，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. Driven by an aging population, the New Zealand funeral industry is expected to see sustained employment growth over the next 5 years, with about 50-80 job openings annually. Demand for licensed professionals is stable, but competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 约25-30纽币/小时 |
-| 中级（3-7年） | $55,000~$70,000 | 约28-35纽币/小时 |
-| 高级（7年以上） | $70,000~$90,000 | 含管理职责，约35-45纽币/小时 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Approximately 25-30 NZD/hour |
+| Mid-level (3–7 years) | $55,000~$70,000 | About NZD 28-35 per hour |
+| Senior (7+ years) | $70,000~$90,000 | Including managerial duties, approx. NZD 35-45 per hour |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 初级殡仪主持可晋升为高级主持或经理，部分转向殡葬顾问或独立经营殡仪馆。新西兰提供Graduate Diploma in Funeral Direction等课程，积累经验后可申请注册。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
+
+Junior funeral director can advance to senior director or manager, some move into funeral consulting or independently run a funeral home. New Zealand offers courses like Graduate Diploma in Funeral Direction; after gaining experience, can apply for registration.
+
+**Tasks most exposed to AI:**
+
+- Write and edit draft eulogies and obituaries
+- Administrative tasks for scheduling funerals, booking venues, and coordinating suppliers
+- Creating and managing digital memorial pages or videos for the deceased
+- Basic customer inquiries and FAQ responses
+- Filing and records management
+
+**Where AI augments the role:**
+
+- Personalise funeral ceremonies with AI tools (e.g., music, image generation)
+- Optimize communication strategies with families using sentiment analysis
+- Utilizing VR/AR technology to create immersive farewell experiences
+- Automatically generate compliance documents and reports, reducing paperwork burden
+- Data-driven prediction of service demand to optimize resource scheduling
+
+**Human moat:**
+
+- In-person emotional support and empathetic communication
+- On-the-spot adaptability to handle emergencies
+- Deep understanding of cultural, religious, and family traditions
+- Authority in leading ceremonies and organizing on-site processes
+- Ability to build long-term trust relationships
+
+**Skills to build:**
+
+- Learn to use AI-assisted writing and design tools (e.g., ChatGPT, Canva)
+- Master basic data analysis (e.g., Excel, Power BI) to optimize operations
+- Enhance digital marketing skills (social media, SEO)
+- Learning VR/AR content creation tools
+- Enhanced qualifications in psychological counseling and grief therapy
+- Familiarity with Australian funeral regulations and compliance automation software
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Funeral Directors coordinate funeral services, including body preparation, cerem
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，工资中位数以上（$29.66/小时），可转居留 |
-| Subclass SMC（Skilled Migrant Category） | 如工资达到中位数1.5倍（$44.49/小时），可申请技术移民，但名额有限 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 目前不在绿色名单上，但未来可能调整，需关注政策 |
+| Subclass AEWV (Accredited Employer Work Visa) | Need a certified employer offer, salary above median ($29.66/hour), can transition to residence |
+| Subclass SMC (Skilled Migrant Category) | If the wage reaches 1.5 times the median ($44.49/hour), can apply for skilled migration, but places are limited |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Currently not on the Green List, but may be adjusted in the future; monitor policy. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Funeral Director？**
-- 具有同情心和耐心，擅长人际沟通的人
-- 对殡葬文化有尊重，能承受心理压力的人
-- 寻求稳定职业且年龄偏大者（因工作经验受重视）
-
-**谁不适合学Funeral Director？**
-- 对死亡或遗体有强烈恐惧或心理不适者
-- 追求高薪和快节奏晋升者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with compassion and patience, skilled in interpersonal communication
+- Respectful of funeral culture, able to withstand psychological stress
+- For those seeking stable careers and are older (as work experience is valued).
+
+**Who is not suited**
+- Those with strong fear or psychological discomfort regarding death or corpses
+- Those seeking high salary and fast-paced promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a funeral director in New Zealand?**
+A: Entry-level salary is approximately NZD 45,000-55,000 per year, mid-level NZD 55,000-70,000, and senior NZD 70,000-90,000. Management positions can reach NZD 100,000+.
+
+**Q: How can a funeral director immigrate to New Zealand?**
+A: Mainly through AEWV work visa, requiring a certified employer offer and salary meeting the median. After meeting requirements, can apply for residency. Skilled migration requires high salary.
+
+**Q: Is registration required to work as a funeral director in New Zealand?**
+A: Registration is not mandatory, but a recognized funeral services diploma (Level 5) and first aid certificate are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Funeral Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Funeral Director in New Zealand?**
-答：Entry-level NZD45,000-55,000, mid-level NZD55,000-70,000, senior NZD70,000-90,000. Managerial roles can exceed NZD100,000.
-
-**问：How can a Funeral Director immigrate to New Zealand?**
-答：Mainly through AEWV with a certified employer offer at median wage. Then apply for residence. Skilled Migrant Category requires a higher salary.
-
-**问：Is registration required to work as a Funeral Director in New Zealand?**
-答：Registration is not mandatory, but a recognized Diploma in Funeral Services (Level 5) and First Aid certificate are required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

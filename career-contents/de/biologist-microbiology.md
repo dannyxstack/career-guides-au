@@ -1,60 +1,96 @@
-# Biologist (Microbiology)（Biologist (Microbiology)）职业分析 · DE
+# Biologist (Microbiology) — career analysis · Germany
 
-**职业代码：4126 – Biologist (Microbiology)。**
+**Occupation code: 4126 (KldB)**
 
-Scientist researching microorganisms, developing diagnostic methods, or producing biological products, typically employed in research institutes, pharmaceutical companies, or public health labs.
+Scientist researching microorganisms, developing diagnostic methods, or producing biological products, commonly found in research institutions, pharmaceutical companies, or public health laboratories.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士学位 | 3-4年（大学） | —（公立大学基本无学费，仅学期费） |
-| 硕士学位 | 2年（大学） | —（公立大学硕士通常免学费） |
-| 博士学位 | 3-5年（大学/研究所） | —（博士职位通常带薪（TV-L 13，约50%职位）） |
+| Bachelor's degree | 3-4 years (university) | $0~$1,500 (Public universities are basically tuition-free, only semester fees apply) |
+| Master's degree | 2 years (university) | $0~$1,500 (Public university master's programs are typically tuition-free) |
+| Doctoral degree (PhD) | 3-5 years (university/research institute) | $0~$0 (PhD positions are usually paid (TV-L 13, approx. 50% position)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学/微生物学硕士学位 | 德国大学 | 必备 | 通常要求硕士或同等学历 |
-| 博士学位 | 德国大学或研究所 | 可选 | 研究型岗位通常要求博士 |
-| 资质认证（Anerkennung） | 德国联邦各州主管机构 | 可选 | 第三国学历需认证，非规管职业 |
+| Masters degree in Biology/Microbiology. | German university | Required | Typically requires a master's degree or equivalent |
+| Doctoral degree (PhD) | German universities or research institutes | Optional | Research-oriented roles usually require a PhD |
+| Qualification recognition (Anerkennung) | Competent authorities of the German federal states | Optional | Third-country qualifications need to be certified, non-regulated occupation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 28,000。德国生物技术产业持续增长，尤其在新药研发、环境微生物学及食品安全领域需求稳定。研究机构岗位竞争中等，企业研发部门对博士级人才需求较高。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 28,000. Germany's biotechnology industry continues to grow, with stable demand in new drug development, environmental microbiology, and food safety. Research positions have moderate competition, while corporate R&D departments have high demand for PhD-level talent.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 研究助理或企业初级科学家 |
-| 中级（3-7年） | $50,000~$65,000 | 资深科学家或项目负责人 |
-| 高级（7年以上） | $65,000~$85,000 | 部门主管或首席科学家 |
+| Median salary | $56,988 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $40,000~$50,000 | Research Assistant or Junior Corporate Scientist |
+| Mid-level (3–7 years) | $50,000~$65,000 | Senior Scientist or Project Leader |
+| Senior (7+ years) | $65,000~$85,000 | Department head or chief scientist. |
+| average salary | $63,708 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常从研究助理或实验室科学家起步，可晋升为项目负责人、部门主管或首席科学家。也可转向质量管理、法规事务或技术转移等岗位。获取教授资格（Habilitation）可进入高校教职。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
+
+Usually start as a research assistant or laboratory scientist, can progress to project leader, department head, or chief scientist. May also move into quality management, regulatory affairs, or technology transfer. Obtaining a habilitation allows entry into academic faculty positions.
+
+**Tasks most exposed to AI:**
+
+- Standardized molecular cloning, PCR, and other lab procedures (performed by automated lab platforms)
+- Large-scale genomic/proteomic data comparison and annotation (performed by AI algorithms)
+- Literature review and meta-analysis (extracting key information automatically using natural language processing)
+- Routine microscope image classification (e.g., cell counting, phenotype recognition)
+- Experiment protocol optimisation and reagent inventory management (smart scheduling system)
+
+**Where AI augments the role:**
+
+- Hypothesis generation: AI analyzes vast literature and databases to recommend novel research paths
+- Multi-omics data integration: AI correlates genomics, transcriptomics, proteomics data to discover biomarkers
+- Complex experiment design: AI simulates experimental conditions, predicts results, and reduces trial and error.
+- Personalized medical plans: AI-assisted treatment strategies based on patient multimodal data
+- Scientific writing assistance: AI-generated drafts, charts to boost paper output efficiency
+
+**Human moat:**
+
+- Ability to propose original scientific questions and disruptive hypotheses
+- Creativity in designing novel experiments to verify unknown mechanisms.
+- Interdisciplinary integration and insight into industry pain points (e.g., agricultural stress resistance).
+- Ethical judgment and public policy recommendations (e.g., gene editing compliance)
+- Reputation building and academic community network maintenance
+
+**Skills to build:**
+
+- Machine learning basics (scikit-learn, TensorFlow)
+- Bioinformatics tools (Python/R, Galaxy platform)
+- Data visualization and explainable AI techniques.
+- Operation of automated laboratory systems (e.g. liquid handling workstations)
+- Ethics and compliance (e.g., biosecurity regulations)
+- Cross-disciplinary communication (translating biological problems into computational models)
+
+**Key growth areas:**
 
 - Biotech
 - Pharma R&D
@@ -63,68 +99,67 @@ Scientist researching microorganisms, developing diagnostic methods, or producin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟公民，年薪门槛约58,400欧元（2024年），紧缺专业可放宽至45,552欧元。 |
-| Subclass Skilled Worker（Skilled Employment for Qualified Professionals） | 适用于拥有德国认可学历的非欧盟申请人，需获得工作合同。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated non-EU citizens, with an annual salary threshold of approximately 58,400 euros (2024), relaxed to 45,552 euros for shortage occupations. |
+| Subclass Skilled Worker (Skilled Employment for Qualified Professionals) | Applicable to non-EU applicants with a recognized German qualification, requiring a work contract. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologist (Microbiology)？**
-- 对微生物研究有强烈兴趣的科研型人才
-- 希望在生物技术或制药行业发展的硕士/博士毕业生
-- 能适应实验室工作并具备团队合作能力者
-
-**谁不适合学Biologist (Microbiology)？**
-- 不喜欢重复性实验操作和长时间实验室工作
-- 缺乏耐心或对研究中的不确定性感到沮丧者
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented talent with strong interest in microbiology
+- Master's/PhD graduates seeking careers in biotechnology or pharmaceuticals
+- Ability to adapt to laboratory work and possess teamwork skills
+
+**Who is not suited**
+- Dislike repetitive experimental operations and long hours in the lab.
+- Lacking patience or feeling frustrated with research uncertainties
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of microbiologists?**
+A: Junior salary approx. €40,000-50,000 per year, mid-level €50,000-65,000, senior €65,000-85,000. Corporate salaries are generally higher than research institutions.
+
+**Q: How can non-EU microbiologists immigrate to Germany?**
+A: Can apply via the EU Blue Card (annual salary threshold 45,552 euros) or skilled migration visa. Requires qualification recognition (Anerkennung); a doctoral degree is advantageous.
+
+**Q: What qualifications are required to work in microbiology in Germany?**
+A: Usually requires a master's degree; research positions need a PhD. Foreign qualifications must be assessed via Anabin database or credential evaluation bodies. Not a regulated profession; no license required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Biologist (Microbiology)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for microbiologists?**
-答：Entry-level annual salary is about €40,000-50,000, mid-level €50,000-65,000, senior €65,000-85,000. Industry salaries are generally higher than research institutes.
-
-**问：How can non-EU microbiologists immigrate to Germany?**
-答：Via EU Blue Card (salary threshold €45,552) or skilled worker visa. Requires recognition of foreign qualifications (Anerkennung); PhD is advantageous.
-
-**问：What qualifications are needed to work as a microbiologist in Germany?**
-答：Generally a master's degree, PhD for research positions. Foreign degrees must be evaluated via Anabin database or recognition body. Non-regulated profession, no license required.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

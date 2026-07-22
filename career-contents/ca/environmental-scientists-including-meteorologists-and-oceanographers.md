@@ -1,59 +1,91 @@
-# Environmental scientists, including meteorologists and oceanographers（Environmental scientists, including meteorologists and oceanographers）职业分析 · 加拿大
+# Environmental scientists, including meteorologists and oceanographers — career analysis · Canada
 
-**职业代码：21113 – Environmental scientists, including meteorologists and oceanographers。**
+**Occupation code: 21113 (NOC)**
 
-Environmental scientists study pollution control, resource management, and ecological protection, offering advice for sustainable development. Immigration is viable via Express Entry STEM draws or Provincial Nominee Programs.
+The equivalent occupation in Canada is environmental scientist, researching environmental issues and providing sustainability advice. Immigration possible via Express Entry (STEM category) or provincial nomination, with good employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$120,000（加拿大大学本科国际生学费范围，含生活费约15000-25000/年） |
-| 硕士 | 2年 | $40,000~$70,000（硕士总学费，研究型可能提供助学金） |
+| Bachelor's degree | 4 years | $80,000~$120,000 (Range of undergraduate international student tuition fees at Canadian universities, approximately CAD 15,000-25,000 per year including living expenses) |
+| Master's degree | 2 years | $40,000~$70,000 (Total master's tuition; research-based programs may offer scholarships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES/ICES等 | 必备 | 用于移民申请，验证海外学位等同加拿大本科或以上 |
-| 英语语言测试 | IELTS/CELPIP | 必备 | 移民要求CLB 7以上，职业注册可能要求更高 |
-| 专业工程师执照（P.Eng.） | 各省工程协会 | 可选 | 非强制但可提升就业，需4年经验及考试 |
+| Educational credential assessment (ECA) | WES/ICES etc. | Required | Used for immigration applications, verifying overseas degree equivalent to a Canadian bachelor's degree or above |
+| English language test | IELTS/CELPIP | Required | Immigration requires CLB 7 or above, professional registration may require higher |
+| Professional Engineer license (P.Eng.) | Provincial engineering associations | Optional | Not mandatory but can improve employment prospects, requires 4 years experience and exam |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。加拿大对环境科学家的需求稳定，受政府环保政策和企业可持续发展推动。阿尔伯塔、不列颠哥伦比亚和安大略省机会较多。预计未来5年就业增长中等。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Demand for environmental scientists in Canada is stable, driven by government environmental policies and corporate sustainability. Opportunities are more in Alberta, British Columbia, and Ontario. Moderate employment growth expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 入行薪资因省份和雇主而异 |
-| 中级（4-8年） | $70,000~$95,000 | 有经验者薪资上升 |
-| 高级（9年以上） | $95,000~$130,000 | 管理或咨询岗位薪资 |
+| Median salary | $82,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$70,000 | Entry-level salary varies by province and employer |
+| Mid-level (4–8 years) | $70,000~$95,000 | Salary increases with experience |
+| Senior (9+ years) | $95,000~$130,000 | Salaries for management or consulting roles. |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级职位如环境分析师可晋升为高级科学家或项目经理，也可向政策顾问或博士研究方向发展。获得专业工程师（P.Eng.）资格可提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Environmental scientist roles are a mixed bag: AI is rapidly replacing some tasks in data collection, modelling, and report generation, but on-site sampling, interdisciplinary judgement, and policy communication still rely on humans—proactively embrace AI tools and strengthen irreplaceable skills.
+
+Entry-level positions such as environmental analyst can advance to senior scientist or project manager, also to policy advisor or PhD research. Obtaining Professional Engineer (P.Eng.) certification can boost competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automated data collection and preprocessing (e.g. sensor data cleaning, missing value imputation)
+- Basic statistical modeling and forecasting (e.g., linear regression for climate trends)
+- Generation of routine environmental reports (template-based content filling)
+- Literature retrieval and preliminary review (AI semantic search and summarization)
+
+**Where AI augments the role:**
+
+- High-precision climate simulation and complex system modeling (AI-accelerated computing)
+- Multi-source data fusion (satellite, ground station, model output)
+- Anomaly detection and environmental risk warning (real-time monitoring and pattern recognition)
+- Data visualization and interactive display for policy recommendations
+
+**Human moat:**
+
+- Interdisciplinary systems thinking (integrating ecological, economic, policy factors)
+- Field sampling and field experiment design (physical environment adaptability)
+- Stakeholder communication and policy negotiation (unstructured interaction)
+- Ethical judgment and uncertainty management (high-risk decision-making)
+
+**Skills to build:**
+
+- Python/R advanced data analysis and machine learning (e.g., Scikit-learn, TensorFlow)
+- Geographic Information Systems (GIS) and remote sensing data analysis (e.g., Google Earth Engine)
+- AI-enhanced tuning of atmospheric/ocean models (e.g., WRF, ROMS)
+- Explainable AI (XAI) and Uncertainty Quantification
+- Data visualization tools (e.g., Plotly, D3.js)
+- Project management and communication (AI-collaborative workflow)
+
+**Key growth areas:**
 
 - STEM immigration
 - Provincial Nominee
@@ -62,68 +94,67 @@ Environmental scientists study pollution control, resource management, and ecolo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合有工作经验和学历的申请人，STEM类别有额外邀请 |
-| Subclass PNP（Provincial Nominee Program） | 各省如BC省、安省有环境科学类职业优先邀请 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保，适合已有工作offer者 |
+| Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with work experience and qualifications; STEM categories receive additional invitations. |
+| Subclass PNP (Provincial Nominee Program) | Provinces like BC and Ontario offer priority invitations for environmental science occupations |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for those who already have a job offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental scientists, including meteorologists and oceanographers？**
-- 环保爱好者，愿意为可持续发展做贡献
-- 有环境科学、化学、生物学等相关本科以上学历
-- 愿意在偏远地区或资源行业工作
-
-**谁不适合学Environmental scientists, including meteorologists and oceanographers？**
-- 对户外工作或频繁出差不适应者
-- 厌恶繁琐的数据分析和报告写作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- An environmentally conscious individual willing to contribute to sustainable development
+- having a bachelor's degree or higher in environmental science, chemistry, biology or related fields
+- Willing to work in remote areas or resource industries
+
+**Who is not suited**
+- Not suitable for those who cannot adapt to outdoor work or frequent travel
+- Dislikes tedious data analysis and report writing
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of an environmental scientist in Canada?**
+A: Mid-level environmental scientist: annual salary approx CAD 70,000-95,000; entry-level: approx CAD 50,000-70,000; senior: up to CAD 130,000. Varies by province, industry, and experience.
+
+**Q: How can environmental scientists immigrate to Canada?**
+A: Mainly through Express Entry (STEM category has targeted invitations) or Provincial Nominee Program (e.g., BC PNP Tech). Requires Canadian-recognized education, language scores, and work experience.
+
+**Q: Is a Canadian professional license required to work?**
+A: Most entry-level positions do not mandate a license, but if engaged in engineering consulting or final sign-off responsibilities, registration as a Professional Engineer (P.Eng.) is required. Environmental technicians may need relevant certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Environmental scientists, including meteorologists and oceanographers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for environmental scientists in Canada?**
-答：Mid-level environmental scientists earn about CAD 70,000 to 95,000, junior 50,000 to 70,000, and senior up to 130,000, varying by province and experience.
-
-**问：How can environmental scientists immigrate to Canada?**
-答：Primarily through Express Entry (STEM draws) or Provincial Nominee Programs (e.g., BC PNP Tech). Requires ECA, language test, and work experience.
-
-**问：Is a Canadian professional license required to work?**
-答：Most entry-level jobs don't require a license, but engineering roles may need P.Eng. Environmental technicians may need specific certifications.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

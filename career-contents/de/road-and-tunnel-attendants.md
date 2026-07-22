@@ -1,59 +1,95 @@
-# Road and Tunnel Attendants（Road and Tunnel Attendants）职业分析 · DE
+# Road and Tunnel Attendants — career analysis · Germany
 
-**职业代码：5121 – Road and Tunnel Attendants。**
+**Occupation code: 5121 (KldB)**
 
-Responsible for daily inspection, maintenance and cleaning of roads and tunnels to ensure safe and smooth traffic infrastructure.
+Responsible for daily inspection, maintenance, and cleaning of roads and tunnels to ensure safe and smooth traffic infrastructure.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 3年 | —（培训期间有津贴，学费低或无） |
+| Vocational training (dual system) | 3 years | $0~$500 (Allowance during training, low or no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 道路养护工职业资格证书 | 德国工商会 (IHK) | 必备 | 完成双元制培训后获得 |
-| 驾驶执照（C类） | 德国交通管理局 | 必备 | 操作养护车辆所需 |
+| Road maintenance worker vocational qualification | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual system training |
+| Driver's License (Class C) | German Transport Authority | Required | Required for operating maintenance vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,000。德国基础设施老化，道路维护需求持续。但自动化巡查技术发展可能减少部分人力需求，整体就业稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Germany's aging infrastructure creates sustained demand for road maintenance. However, automated inspection technology may reduce some manual labor; overall employment is stable.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（3-7年） | $34,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$48,000 | 税前年薪，含班组长津贴 |
+| Median salary | $48,780 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $34,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$48,000 | Annual pre-tax salary including team leader allowance |
+| average salary | $51,612 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级工人晋升为高级养护技师或班组长，也可转向交通管理或市政工程领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Highway maintenance workers will face the dual impact of automation and AI enhancement: repetitive manual tasks (e.g., road patching, weeding) may be replaced by automated equipment, but on-site judgment, emergency response, and complex repairs still rely on human experience. The role is undergoing structural adjustment rather than wholesale elimination.
+
+Can progress from entry-level worker to senior maintenance technician or team leader, or move into traffic management or municipal engineering fields.
+
+**Tasks most exposed to AI:**
+
+- Using an automatic pothole repair robot to fill cracks and potholes.
+- Use drones for road condition inspection and damage identification
+- Optimizing snow removal and mowing routes via AI scheduling systems
+- Operation of automatic barrier cleaning and line marking equipment
+- Basic data entry and report generation (autonomous vehicle sensor data)
+
+**Where AI augments the role:**
+
+- Use AR headset to access road disease diagnostic information and repair guidance
+- Use AI predictive maintenance system to plan maintenance priorities and timing
+- Remote monitoring of road conditions and adjustment of work plans via digital twin platform
+- Use AI to optimize snow removal resource allocation and personnel scheduling
+- Combine CCTV and sensor data to detect and respond to sudden hazards (e.g., rockfalls) in real time
+
+**Human moat:**
+
+- On-site judgment and process adjustment for complex road surface structure repairs
+- Rapid decision-making and coordination in emergency response (e.g., cleanup after traffic accidents)
+- Manual troubleshooting and on-site repair of equipment failures in severe weather
+- Real-time communication and collaboration with traffic management and emergency departments
+- Experience in identifying and handling non-standard pavement distress (e.g., deep settlement).
+
+**Skills to build:**
+
+- Operate and maintain automated road repair and inspection equipment
+- Use GIS and digital twin tools for road condition analysis.
+- basic programming skills (PLC or robot control interface)
+- Drone operation and data interpretation (FAA Part 107)
+- AR-assisted maintenance system usage
+- Data analysis and predictive maintenance planning.
+
+**Key growth areas:**
 
 - Infrastructure maintenance
 - Road safety
@@ -62,65 +98,64 @@ Responsible for daily inspection, maintenance and cleaning of roads and tunnels 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需完成德国认可的职业培训并获得工作合同 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 基于积分制，允许找工作和试工 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must complete a recognized vocational training program in Germany and obtain a work contract |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based system that allows job seeking and trial work |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Road and Tunnel Attendants？**
-- 喜欢户外体力工作的人
-- 注重工作稳定性的人
-- 不介意非办公室环境的人
-
-**谁不适合学Road and Tunnel Attendants？**
-- 期望高收入的人
-- 偏好脑力或创造性工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical work
+- People who value job stability
+- People who don't mind non-office environments.
+
+**Who is not suited**
+- People expecting high income
+- People who prefer intellectual or creative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level for road maintenance workers in Germany?**
+A: Entry-level salary approx. EUR 28,000-34,000/year, mid-level EUR 34,000-40,000, senior up to EUR 48,000.
+
+**Q: How can foreigners become road maintenance workers in Germany?**
+A: Requires completing a recognized vocational training (dual system) in Germany, then finding an employer to apply for a skilled worker visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Road and Tunnel Attendants为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for road and tunnel attendants in Germany?**
-答：Entry-level annual salary is about 28,000-34,000 EUR, mid-level 34,000-40,000, senior up to 48,000 EUR.
-
-**问：How can foreigners become road and tunnel attendants in Germany?**
-答：Need to complete a recognized vocational training (dual system) in Germany, then find an employer to apply for a skilled worker visa.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Aircraft pilots and air traffic controllers（Aircraft pilots and air traffic controllers）职业分析 · UK
+# Aircraft pilots and air traffic controllers — career analysis · United Kingdom
 
-**职业代码：3511 – Aircraft pilots and air traffic controllers。**
+**Occupation code: 3511 (SOC)**
 
-Pilot and navigate aircraft, prepare flight plans, authorize departures and arrivals, maintain radio/radar/visual contact with aircraft to ensure safe air traffic movement, check and adjust engines before take-off, and provide flying instruction.
+Responsible for flying aircraft, developing flight plans, authorizing takeoffs and landings, maintaining contact with aircraft via radio, radar, or sight to ensure air traffic safety, inspecting and debugging engines and other equipment before takeoff, and providing flight instruction
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 飞行培训课程（ATP） | 18-24个月 | $50,000~$120,000（自费获取商业飞行员执照及航线运输飞行员执照） |
-| 大学航空相关学位 | 3年 | $30,000~$60,000（可选航空管理、飞机工程等学位，非强制但有利） |
-| 空中交通管制培训 | 18-24个月 | $8,000~$15,000（NATS或院校培训，部分有资助） |
+| Airline Transport Pilot (ATP) training course | 18-24 months | $50,000~$120,000 (Self-fund to obtain a Commercial Pilot License and an Airline Transport Pilot License.) |
+| University aviation-related degree | 3 years | $30,000~$60,000 (Degrees in aviation management, aircraft engineering, etc. are optional but beneficial) |
+| Air traffic control training | 18-24 months | $8,000~$15,000 (NATS or institutional training, some with funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 商业飞行员执照（CPL） | 英国民航局（CAA） | 必备 | 允许受雇从事商业飞行，需理论考试和飞行实践 |
-| 航线运输飞行员执照（ATPL） | 英国民航局（CAA） | 必备 | 担任机长必备，需1500小时飞行经验 |
-| 空中交通管制员执照 | 英国民航局（CAA） | 必备 | 完成培训并通过考核后颁发 |
-| 飞行教官评级（FI） | CAA | 可选 | 从事飞行教学需额外评级 |
+| Commercial Pilot License (CPL) | UK Civil Aviation Authority (CAA) | Required | Allows employment in commercial aviation, requiring theoretical exams and flight practice |
+| Airline Transport Pilot License (ATPL) | UK Civil Aviation Authority (CAA) | Required | Required for captain role, with 1500 hours of flight experience |
+| Air traffic controller license | UK Civil Aviation Authority (CAA) | Required | Issued upon completion of training and passing assessment |
+| Flight Instructor Rating (FI) | CAA | Optional | Additional ratings required to teach flight instruction |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。英国航空业持续复苏，飞行员和空中交通管制员需求稳定，尤其资深机长和管制员仍较紧缺。未来十年预计温和增长，受航空旅行需求驱动。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 35,000. The UK aviation industry continues to recover, with steady demand for pilots and air traffic controllers, especially for senior captains and controllers. Moderate growth is expected over the next decade, driven by air travel demand.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$40,000 | 小型航空公司副驾驶或飞行教官 |
-| 中级（3-8年） | $50,000~$80,000 | 中型航空公司副驾驶或资深管制员 |
-| 高级（8年以上） | $90,000~$180,000 | 大型航空公司机长或首席管制员 |
+| Median salary | $82,746 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$40,000 | Co-pilot or flight instructor at a small airline |
+| Mid-level (3–8 years) | $50,000~$80,000 | Co-pilot at a medium-sized airline or senior air traffic controller |
+| Senior (8+ years) | $90,000~$180,000 | Major airline captain or chief air traffic controller |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级飞行员可从小型航空公司或飞行教官起步，积累小时数后晋升副驾驶、机长；空中交通管制员从培训生开始，通过考核升至管制席、主任管制员。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
+
+Junior pilots can start with small airlines or as flight instructors, accumulating hours to become co-pilot and captain; air traffic controllers begin as trainees, passing assessments to reach controller and chief controller positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic flight control system (AFCS) takes over cruise, route planning, and standard landing procedures
+- AI-driven weather analysis and optimal route calculation, replacing manual weather judgment
+- Speech Recognition and Natural Language Processing Replacing Some Radio Communications (e.g., ATIS Automated Broadcasts)
+- Automated fault diagnosis system replacing routine aircraft system checks
+
+**Where AI augments the role:**
+
+- AI-assisted decision systems enhance rapid diagnosis and emergency solution recommendations for complex weather and mechanical faults
+- Augmented reality (AR) head-up displays (HUDs) provide real-time flight data overlay to enhance situational awareness
+- Machine learning models predict fuel efficiency and maintenance needs to optimize flight plans and costs
+- AI simulators for advanced scenario training (e.g., engine failure, wind shear) to improve training efficiency and safety
+
+**Human moat:**
+
+- Non-standardized decision-making in emergencies (e.g., dual engine failure, terrorist threat)
+- Interpersonal communication and team coordination in cockpit resource management (CRM)
+- Authority and accountability when dealing with passengers and ground staff
+- Physical perception and manual control of abnormal flight conditions
+- Legal and regulatory ultimate safety responsibility of the pilot-in-command
+
+**Skills to build:**
+
+- AI and data analysis fundamentals (understanding machine learning in navigation and decision-making)
+- Advanced manual flight skills (maintaining control when automated systems fail)
+- Human-machine collaboration and supervision (set, monitor, and intervene in automated systems)
+- Cross-cultural communication and leadership (managing multinational crews and passengers)
+- Fatigue management and mental health adaptation (new challenges in the autonomous driving era)
+- Lifelong Learning Ability to Keep Up with Avionics Technology Updates
+
+**Key growth areas:**
 
 - Aviation recovery
 - Pilot shortage
@@ -64,68 +97,67 @@ Pilot and navigate aircraft, prepare flight plans, authorize departures and arri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国航空公司或空中交通服务提供者担保的申请人，需满足薪资和技能要求 |
-| Subclass Global Talent（Global Talent visa） | 适用于在航空领域有杰出成就或潜力的个人，需获认可机构背书 |
-| Subclass Graduate（Graduate visa） | 英国毕业生工作签证，允许在英国工作2年（博士3年），可积累经验过渡到技术工作签证 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to applicants sponsored by a UK airline or air traffic service provider, meeting salary and skill requirements |
+| Subclass Global Talent (Global Talent visa) | Applicable to individuals with outstanding achievements or potential in the aviation field, requiring endorsement from a recognized body. |
+| Subclass Graduate (Graduate visa) | UK Graduate Visa, allows working in the UK for 2 years (3 years for PhD), can gain experience to transition to a skilled work visa |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aircraft pilots and air traffic controllers？**
-- 逻辑思维强、抗压能力出色的人
-- 热爱飞行或航空、追求高薪与挑战的人
-- 愿意长期投入高强度培训与认证的人
-
-**谁不适合学Aircraft pilots and air traffic controllers？**
-- 对高空作业或密闭空间感到不适的人
-- 无法承受倒班工作及高压决策的人
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong logical thinking and excellent stress resistance
+- Those who love flying or aviation and seek high salary and challenges
+- Those willing to commit long-term to intensive training and certification
+
+**Who is not suited**
+- People who are uncomfortable with working at heights or in confined spaces
+- People who cannot handle shift work and high-pressure decision-making
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pilots and air traffic controllers?**
+A: Junior pilot annual salary around GBP 25,000-40,000; senior captain can reach GBP 90,000-180,000; junior controller around GBP 30,000-50,000; senior controller GBP 60,000-100,000. Income heavily influenced by company, aircraft type, and experience.
+
+**Q: How can foreign pilots or air traffic controllers immigrate to the UK?**
+A: The most common way is through the Skilled Worker visa with sponsorship from a UK airline. A UK-recognized license is required (may need conversion). The Global Talent visa is for exceptional talent. The Graduate visa can be used to gain experience.
+
+**Q: What training and certifications are needed to become a pilot or air traffic controller?**
+A: Pilots need a Commercial Pilot License (CPL) and Airline Transport Pilot License (ATPL), with training costs approx. £50,000-£120,000. Controllers must undergo training with organizations like NATS and obtain a license, costing approx. £8,000-£15,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 非常高（★★★★½） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Aircraft pilots and air traffic controllers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are the salary levels for pilots and air traffic controllers?**
-答：Entry-level pilots earn around £25,000-40,000, while experienced captains can earn £90,000-180,000. Air traffic controllers start at £30,000-50,000, with senior roles reaching £60,000-100,000. Salaries vary by employer, aircraft type, and experience.
-
-**问：How can foreign pilots or air traffic controllers migrate to the UK?**
-答：The most common route is the Skilled Worker visa with sponsorship from a UK airline or air traffic service provider. You must hold a UK-recognized license (may require conversion). The Global Talent visa is for outstanding individuals. The Graduate visa allows experience building for recent UK graduates.
-
-**问：What training and certifications are needed to become a pilot or air traffic controller?**
-答：Pilots need a Commercial Pilot License (CPL) and an Airline Transport Pilot License (ATPL), with training costs around £50,000-120,000. Controllers must complete training with NATS or similar and obtain a license, costing £8,000-15,000.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

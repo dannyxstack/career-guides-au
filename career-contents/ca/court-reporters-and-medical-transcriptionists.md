@@ -1,61 +1,96 @@
-# Court reporters and medical transcriptionists（Court reporters and medical transcriptionists）职业分析 · 加拿大
+# Court reporters and medical transcriptionists — career analysis · Canada
 
-**职业代码：12110 – Court reporters and medical transcriptionists。**
+**Occupation code: 12110 (NOC)**
 
-Court reporters work in Canada's court system and legal services, recording trials and legal proceedings. Immigration via PNP or Express Entry is possible with certification and English proficiency.
+Court reporters work in Canada's court system and legal services, recording trials and legal proceedings. They can immigrate through Provincial Nominee Programs or Express Entry, requiring certification and English proficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专文凭 | 2年 | $12,000~$30,000（加拿大公立学院法庭报告或法律助理专业） |
-| 本科 | 4年 | $40,000~$80,000（相关领域如法律研究或传播学） |
-| 职业培训 | 1年 | $8,000~$20,000（专业速记学校或在线课程） |
+| Diploma | 2 years | $12,000~$30,000 (Canadian public college court reporting or legal assistant program.) |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Related fields such as legal research or communications) |
+| Vocational training | 1 year | $8,000~$20,000 (Professional shorthand school or online courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家法庭报告员认证（NCRA） | National Court Reporters Association | 可选 | 加拿大部分省份认可，非强制但提升就业 |
-| 省法院速记员许可 | 省级司法部门 | 必备 | 部分省份要求，如安大略省 |
-| 英语能力证明（IELTS） | IELTS | 必备 | 移民及工作需CLB 7以上 |
-| ECA学历认证 | WES或IQAS | 必备 | 海外学历需用于移民申请 |
+| Provincial court stenographer license. | Provincial justice departments | Required | Required by some provinces, such as Ontario |
+| Proof of English proficiency (IELTS) | IELTS | Required | Require CLB 7 or above for immigration and work |
+| ECA (Educational Credential Assessment). | WES or IQAS | Required | Overseas qualifications need to be used for immigration applications |
+| National Court Reporters Association (NCRA) certification | National Court Reporters Association | Optional | Recognized in some Canadian provinces, not mandatory but improves employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。加拿大法律行业稳定，法庭速记员需求温和增长，尤其在大城市法律中心。职业受AI影响较小，但自动化转录工具可能带来变化。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. Canada's legal industry is stable; demand for court stenographers is growing moderately, especially in major legal centers. The occupation is less affected by AI, but automated transcription tools may bring changes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 大型律师事务所或法院系统 |
-| 中级（3-7年） | $50,000~$65,000 | 有认证或自由职业者可更高 |
-| 高级（7年以上） | $65,000~$85,000 | 资深或主管级别，含自由职业 |
+| Median salary | $54,080 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Large law firm or court system |
+| Mid-level (3–7 years) | $50,000~$65,000 | Higher for certified or freelance workers |
+| Senior (7+ years) | $65,000~$85,000 | Senior or supervisor level, including freelancing |
+| average salary | $54,080 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从初级速记员晋升为高级法庭报告员或经理，也可转向法律转录或自由职业。持续学习新技术和获取国家认证（如NCRA）有助于发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of court stenographers are highly threatened by AI, but legal processes still require human verification and real-time adaptation, making the outlook mixed.
+
+Can advance from junior stenographer to senior court reporter or manager, or transition to legal transcription or freelancing. Continuous learning of new technologies and obtaining national certification (e.g., NCRA) helps career development.
+
+**Tasks most exposed to AI:**
+
+- Real-time speech-to-text (AI speech recognition replaces manual transcription)
+- Proofreading and formatting of court transcripts (AI auto-proofreading)
+- Generate court hearing summaries and indexes (NLP automatically extracts key information)
+- Manage electronic documents and audio recordings (AI auto-archiving)
+- Basic timestamps and labels (AI-generated)
+
+**Where AI augments the role:**
+
+- Multi-speaker identification and labeling (AI-assisted distinguishing speakers)
+- Automatic prompts from a professional terminology database (AI-assisted recording accuracy).
+- Real-time translation of speech into multilingual text (AI-assisted multilingual courts)
+- Intelligent retrieval of historical records and precedents (AI-assisted quick search)
+- Generate structured court transcript drafts (AI-assisted first draft, manual refinement)
+
+**Human moat:**
+
+- Understanding of legal procedures and compliance judgment.
+- Ability to handle accents, dialects, and complex language scenarios adaptively
+- Ethical judgment and confidentiality regarding sensitive or controversial content
+- Interpersonal coordination and emergency handling at court scenes
+
+**Skills to build:**
+
+- Operation and calibration of AI voice recognition tools (e.g., Otter.ai, Rev)
+- Use of legal tech platforms (e.g., CaseLines)
+- Data privacy and compliance management
+- Advanced legal English and professional terminology
+- Human-machine collaboration for editing and quality control.
+- Basic programming scripts (Python for automated text processing)
+
+**Key growth areas:**
 
 - PNP
 - Express Entry
@@ -64,68 +99,67 @@ Court reporters work in Canada's court system and legal services, recording tria
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 符合NOC TEER 2类别，可通过FSW或CEC移民，需雅思及ECA |
-| Subclass PNP（Provincial Nominee Program） | 多省有法律相关提名项目，如安大略省、不列颠哥伦比亚省 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份雇主担保，适合有雇主offer的申请人 |
+| Subclass EE (Express Entry (FSW/CEC)) | Falls under NOC TEER 2 category; eligible for FSW or CEC immigration; requires IELTS and ECA. |
+| Subclass PNP (Provincial Nominee Program) | Several provinces have legal-related nomination programs, such as Ontario and British Columbia. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic province employer sponsorship, suitable for applicants with a job offer |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Court reporters and medical transcriptionists？**
-- 注重细节、打字速度快且法律兴趣者
-- 有司法或语言背景的移民申请人
-- 愿意考取专业认证并适应数字化工具者
-
-**谁不适合学Court reporters and medical transcriptionists？**
-- 不喜欢办公室或法院环境者
-- 不愿接受持续技能培训者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, fast typists, and those interested in law.
+- Immigrant applicants with legal or language backgrounds
+- Willing to obtain professional certifications and adapt to digital tools
+
+**Who is not suited**
+- Those who dislike office or court environments
+- Those unwilling to undergo continuous skills training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a court stenographer in Canada?**
+A: Entry-level approx. CAD 35,000-45,000, mid-level CAD 50,000-65,000, senior up to CAD 85,000. Freelance or overtime may yield higher income.
+
+**Q: Is it easy for court stenographers to immigrate to Canada?**
+A: Falls under NOC TEER 2 category, eligible for immigration via EE or PNP. Requires certification and language scores; not in high demand but opportunities exist.
+
+**Q: What certification is needed to be a court stenographer in Canada?**
+A: Some provinces require a provincial license; you can also obtain national certification (NCRA) for better competitiveness. Overseas qualifications need ECA.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Court reporters and medical transcriptionists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a court reporter in Canada?**
-答：Entry-level CAD 35,000-45,000, mid-level CAD 50,000-65,000, senior up to CAD 85,000. Freelance or overtime may increase earnings.
-
-**问：Is it easy for a court reporter to immigrate to Canada?**
-答：It falls under NOC TEER 2 and is eligible for EE or PNP. Requires certification and language proficiency; not in shortage but opportunities exist.
-
-**问：What certification is needed to work as a court reporter in Canada?**
-答：Some provinces require a provincial license; national certification (NCRA) is beneficial. Foreign education needs ECA.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

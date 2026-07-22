@@ -1,61 +1,97 @@
-# Fishing masters and officers（Fishing masters and officers）职业分析 · 加拿大
+# Fishing masters and officers — career analysis · Canada
 
-**职业代码：83120 – Fishing masters and officers。**
+**Occupation code: 83120 (NOC)**
 
-Fishing masters and officers command and operate commercial fishing vessels, including navigation, fishing operations, crew management, and safety maintenance, often at sea for weeks to months.
+Fishing vessel masters and senior officers are responsible for commanding and operating commercial fishing vessels, including navigation, fishing operations, crew management, and safety maintenance, typically working at sea for weeks to months.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（必备基础教育） |
-| 航海培训课程 | 1-2年 | $5,000~$20,000（如渔业航海技术学院课程） |
-| 海事资格认证 | 1-3年 | $3,000~$10,000（包括考试和培训费用） |
+| High school graduation | 0 years | $0~$0 (Essential basic education) |
+| Navigation training courses | 1-2 years | $5,000~$20,000 (Such as courses at the Institute of Fisheries and Maritime Technology) |
+| Maritime qualifications | 1-3 years | $3,000~$10,000 (including examination and training fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔船船长证书 | 加拿大交通部 | 必备 | 根据船舶吨位和航区分级，需通过笔试和海上服务时间 |
-| 海事安全培训 | 经认可的海事培训机构 | 必备 | 包括STCW基础安全证书 |
-| 无线电操作证书 | 加拿大交通部 | 必备 | 用于海上通信 |
-| 医疗急救证书 | 加拿大红十字会等 | 可选 | 海事医疗急救培训 |
+| Fishing vessel master certificate | Transport Canada | Required | Graded by vessel tonnage and navigation area, requiring written exams and sea service time |
+| Maritime safety training | Approved maritime training provider | Required | Including STCW Basic Safety Certificate |
+| Radio operator certificate | Transport Canada | Required | Used for maritime communication |
+| Medical First Aid Certificate | Canadian Red Cross, etc. | Optional | Maritime medical emergency training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。加拿大渔业是沿海省份的重要产业，但受鱼类资源波动和气候变化影响。该职业需求稳定，但增长缓慢，就业机会多集中在海洋省份和BC省。
+**Job demand: medium (★★★☆☆).** National workforce approx. 5,000. Canada's fishing industry is important in coastal provinces but affected by fish stock fluctuations and climate change. This occupation has stable but slow-growing demand, with most opportunities in maritime provinces and BC.
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$55,000 | 一般为甲板员或实习高级船员 |
-| 中级（3-10年） | $55,000~$80,000 | 担任高级船员或小型渔船船长 |
-| 高级（10年以上） | $80,000~$120,000 | 大型渔船船长或船队主管 |
+| Median salary | $83,741 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$55,000 | Generally a deckhand or trainee officer |
+| Intermediate (3-10 years) | $55,000~$80,000 | Serve as a senior crew member or skipper of a small fishing vessel |
+| Senior (10+ years) | $80,000~$120,000 | Large fishing vessel captain or fleet supervisor |
+| average salary | $104,000 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从甲板员或水手起步，积累海上经验后可晋升为高级船员，再通过考试成为船长。部分船长可进入渔业管理或船运公司管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Starting as a deckhand or sailor, gain sea experience to become a senior crew member, then pass exams to become a captain. Some captains can move into fisheries management or shipping company management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Fisheries Management
 - Aquaculture
@@ -64,69 +100,68 @@ Fishing masters and officers command and operate commercial fishing vessels, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 符合条件的申请者可通过FSW快速通道移民，需有相关工作经验及语言成绩 |
-| Subclass PNP（Provincial Nominee Program） | 海洋省份和BC省有渔业相关省提名项目，如新斯科舍省 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地员工 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省试点项目，适合海洋省雇主担保 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Qualified applicants can immigrate through the FSW express entry, requiring relevant work experience and language test scores |
+| Subclass PNP (Provincial Nominee Program) | Maritime provinces and BC have fishery-related provincial nomination programs, such as Nova Scotia |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be found. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for employer sponsorship in Atlantic provinces |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fishing masters and officers？**
-- 热爱海洋和渔业工作
-- 能适应长时间海上生活
-- 具备领导力和抗压能力
-
-**谁不适合学Fishing masters and officers？**
-- 有严重晕船问题
-- 无法接受长期远离家庭
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love for marine and fisheries work
+- Able to adapt to long periods at sea
+- Possess leadership and stress tolerance.
+
+**Who is not suited**
+- Severely prone to seasickness
+- Unable to accept long-term separation from family
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a fishing boat captain?**
+A: Salary depends on vessel size, catch type, and haul. Entry-level: about C$35,000–C$55,000; experienced captains can earn C$80,000–C$120,000; some have profit share arrangements that may be higher.
+
+**Q: How to apply for immigration with offshore work experience?**
+A: Must provide employer references, on-board work records, and qualifications. Can apply through provincial nomination (e.g., Nova Scotia) or the Atlantic Immigration Program, but requires employer sponsorship and language test scores.
+
+**Q: What essential certifications are needed?**
+A: Must hold a Canadian fishing vessel master's certificate issued by Transport Canada, and an STCW safety training certificate. Higher-level certificates require more sea service time and examinations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Fishing masters and officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fishing masters?**
-答：Salaries depend on vessel size, fishery type, and catch volume. Entry-level pays CAD 35,000-55,000, experienced masters can earn CAD 80,000-120,000, with some earning more via catch shares.
-
-**问：How can sea work experience be used for immigration?**
-答：Provide employer references, sea service records, and certifications. Apply through PNP (e.g., Nova Scotia) or AIP, requiring employer sponsorship and language test scores.
-
-**问：What mandatory certificates are required?**
-答：A Fishing Master Certificate from Transport Canada and STCW safety training are mandatory. Higher-level certificates require more sea time and exams.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

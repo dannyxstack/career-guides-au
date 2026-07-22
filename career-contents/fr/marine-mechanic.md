@@ -1,62 +1,98 @@
-# Marine Mechanic（Marine Mechanic）职业分析 · FR
+# Marine Mechanic — career analysis · France
 
-**职业代码：I1605 – Marine Mechanic。**
+**Occupation code: I1605 (ROME)**
 
-Marine mechanics install, maintain, and repair engines, propulsion systems, and auxiliary equipment on ships and boats, ensuring safe vessel operation. This trade has steady demand in French coastal regions and ports, requiring mechanical, hydraulic, and electrical skills.
+Ship mechanics are responsible for installing, maintaining, and repairing the ship's engines, propulsion systems, and auxiliary equipment to ensure the ship's safe operation. This profession has stable demand along the French coast and at ports, requiring skills in mechanical, hydraulic, and electrical systems.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 船舶机械 | 2年（CAP） | —（公立职高免费，学徒制有津贴） |
-| Bac Pro 船舶维护 | 3年（Bac Pro） | —（公立学校免费，学徒制有工资） |
-| BTS 船舶机械 | 2年（BTS） | $500~$5,000（公立学校低学费，私立较高） |
+| CAP Marine Machinery | 2 years (CAP) | $0~$1,000 (Public vocational high schools are free, and apprenticeships come with subsidies) |
+| Bac Pro ship maintenance | 3 years (Bac Pro) | $0~$1,500 (Public schools are free, and apprenticeships are paid) |
+| BTS Marine Machinery | 2 Years (BTS) | $500~$5,000 (Public schools have lower tuition fees, while private ones offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 船舶机械 | 法国教育部 | 必备 | 基础从业资格，多数雇主要求 |
-| Bac Pro 船舶维护 | 法国教育部 | 可选 | 进阶文凭，提升就业竞争力 |
-| 海事安全证书 | 法国海事局 | 可选 | 部分岗位要求，如商船维修 |
+| CAP Marine Machinery | French Ministry of Education | Required | Basic professional qualifications, required by most employers |
+| Bac Pro ship maintenance | French Ministry of Education | Optional | Advanced diplomas to enhance employment competitiveness |
+| Maritime safety certificate | French Maritime Authority | Optional | Some job requirements, such as merchant ship maintenance |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国船舶维修和建造行业预计保持稳定增长，得益于国防和民用船舶更新需求。沿海地区（如布列塔尼、普罗旺斯-阿尔卑斯-蓝色海岸）就业机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. France's ship repair and construction industry is expected to maintain steady growth, driven by demand for defense and civil vessel renewal. Coastal areas (such as Brittany, Provence-Alpes-Côte d'Azur) offer more job opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，含学徒后正式入职 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪，主管或专家级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, including apprenticeship after formal employment |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $40,000~$55,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $33,066 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 初级机械师可晋升为高级技师或团队主管，也可通过考取国家证书转向游艇或商船维修管理。经验丰富者可自立门户或进入船厂管理层。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
+
+Junior mechanics can be promoted to senior technician or team leader, or can transition to yacht or merchant ship maintenance management by obtaining national certifications. Experienced individuals can start their own businesses or join shipyard management.
+
+**Tasks most exposed to AI:**
+
+- Routine voyage data recording and report generation
+- Basic meteorological route planning and optimization
+- Marine machinery condition monitoring and early warning
+- Cargo loading calculation and balance adjustment
+- Communication relay and standard message forwarding
+
+**Where AI augments the role:**
+
+- AI-assisted navigation decisions to improve flight safety and fuel efficiency
+- Real-time weather and sea condition forecasting, supporting dynamic adjustment of speed and route
+- Automated fault diagnosis and predictive maintenance to reduce downtime
+- Intelligent Cargo Monitoring Systems to Improve Stowage Accuracy and Safety
+- Augmented reality (AR) assisted navigation at night and in adverse weather
+
+**Human moat:**
+
+- Ship handling and emergency response capabilities in crisis situations
+- Team management and crew leadership (especially captain duties)
+- Special cargo handling and complex port operations experience
+- Regulatory compliance and maritime safety inspection responsibilities
+- Flexible judgment in unpredictable marine environments
+
+**Skills to build:**
+
+- Operation of AI navigation and decision support systems
+- Data analysis and interpretation of predictive models
+- Remote operation and automated system monitoring
+- Cybersecurity basics (ship system protection)
+- STCW certification renewal (including E-navigation module)
+- Cross-cultural communication and team management
+
+**Key growth areas:**
 
 - Marine industry
 - Yacht maintenance
@@ -65,69 +101,68 @@ Marine mechanics install, maintain, and repair engines, propulsion systems, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇于法国公司，需申请工作许可，通常需雇主担保，受劳工市场测试限制。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如工程师或专家，需满足薪资条件（≥2倍SMIC），可快速获得居留。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search Permit)） | 毕业生可申请12个月居留寻找工作，找到与专业相关工作后转为工作居留。 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French company requires a work permit, usually employer sponsorship, and is subject to labor market testing restrictions. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as engineers or specialists, who meet salary requirements (≥ twice SMIC) to quickly obtain residency. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search Permit)) | Graduates can apply for 12 months of residence to find work; after finding a job related to their field, can switch to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Marine Mechanic？**
-- 动手能力强，喜欢修理机械的人
-- 对船舶和海洋工程有兴趣的人
-- 愿意在沿海地区或船厂工作的人
-
-**谁不适合学Marine Mechanic？**
-- 不喜欢户外或体力工作的人
-- 不擅长团队合作或沟通的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with strong hands-on ability who enjoy repairing machinery
+- People interested in shipbuilding and marine engineering
+- People willing to work in coastal areas or shipyards
+
+**Who is not suited**
+- People who dislike outdoor or physically demanding work
+- People who are not good at teamwork or communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for ship mechanics?**
+A: France marine mechanic entry-level annual salary approximately €25,000-32,000, mid-level €32,000-40,000, senior up to €55,000, depending on experience and region.
+
+**Q: How can foreign ship mechanics immigrate to France?**
+A: You can apply for a Salarié work permit by being employed by a French company, or apply for Passeport Talent if you meet the requirements. French proficiency and qualification certification (such as CAP) are required. EU citizens move freely.
+
+**Q: What is the career development path for ship mechanics?**
+A: Starting as a junior mechanic, you can advance to senior technician, team leader, or move into yacht maintenance, shipyard management, and other areas. Alternatively, after obtaining a national certificate, you can enter the merchant ship maintenance field.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Marine Mechanic为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for marine mechanics?**
-答：Marine mechanics in France earn €25,000-€32,000 entry-level, €32,000-€40,000 mid-level, and up to €55,000 senior-level, depending on experience and region.
-
-**问：How can foreign marine mechanics migrate to France?**
-答：They can apply for a Salarié work permit if hired by a French company, or a Passeport Talent if highly skilled. French language and qualification recognition (e.g., CAP) are required. EU citizens have free movement.
-
-**问：What is the career progression for marine mechanics?**
-答：Starting as a junior mechanic, one can advance to senior technician, team supervisor, or move into yacht maintenance, shipyard management. National certification opens doors to commercial ship repair.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

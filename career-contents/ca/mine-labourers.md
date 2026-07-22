@@ -1,61 +1,92 @@
-# Mine labourers（Mine labourers）职业分析 · 加拿大
+# Mine labourers — career analysis · Canada
 
-**职业代码：85110 – Mine labourers。**
+**Occupation code: 85110 (NOC)**
 
-Mine labourers perform manual tasks such as material handling, equipment cleaning, and assisting operators at mining sites, providing essential support for mining operations.
+Miners perform manual labor such as material handling, equipment cleaning, and assisting operations in Canadian mining sites, providing essential support for mining production.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 职业培训/学徒 | 1-2年 | $2,000~$10,000（行业协会或学院课程费用） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Vocational training/apprenticeship | 1-2 years | $2,000~$10,000 (Tuition fees for industry association or college courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 最低学历：高中 | 省级教育部门 | 必备 | 大多数雇主要求高中毕业 |
-| 安全培训证书 | 省级矿业协会 | 必备 | 如WHMIS、矿井安全 |
-| 体能与健康检查 | 雇主指定诊所 | 必备 | 通过体能测试 |
+| Minimum education: High school | Provincial education department | Required | Most employers require high school graduation. |
+| Safety training certificate | Provincial Mining Association | Required | Such as WHMIS, mine safety |
+| Physical fitness and health checks | Employer-designated clinic | Required | Pass the physical fitness test. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 13,500。加拿大矿业集中在安大略省、不列颠哥伦比亚省和萨斯喀彻温省，受大宗商品价格影响，就业需求稳定但周期性较强。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 13,500. Canada's mining industry is concentrated in Ontario, British Columbia, and Saskatchewan. Influenced by commodity prices, employment demand is stable but cyclical.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约18-22加元 |
-| 中级（3-6年） | $45,000~$60,000 | 时薪约22-30加元 |
-| 高级（6年以上） | $60,000~$75,000 | 含加班和津贴 |
+| Median salary | $67,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage approximately 18–22 Canadian dollars |
+| Mid-level (3–6 years) | $45,000~$60,000 | Hourly rate approximately $22-30 CAD |
+| Senior (6+ years) | $60,000~$75,000 | Including overtime and allowances |
+| average salary | $70,720 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 矿工可通过积累经验晋升为操作员或班组长，部分通过学徒制转型为重型设备技师或矿业技师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
+
+Miners can advance to operator or shift supervisor through experience, some transition via apprenticeships to heavy equipment technician or mining technician.
+
+**Tasks most exposed to AI:**
+
+- Autonomous haulage systems (AHS) take over transport cycle operations.
+- GPS navigation and sensors automatically handle path planning and obstacle avoidance
+- AI scheduling system optimises fleet allocation, replacing manual scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults to improve maintenance efficiency
+- Virtual reality (VR) simulators for safety training and operation drills
+- Data analysis to optimise fuel consumption and tyre wear.
+
+**Human moat:**
+
+- Emergency judgment and decision-making in complex geological conditions
+- On-site rapid repair skills for equipment breakdowns
+- Cross-device coordination and multitasking
+- Safety procedure execution and risk assessment
+
+**Skills to build:**
+
+- Automated system operation and monitoring (e.g., AHS console)
+- Basic data analysis (Python/R)
+- Remote device diagnostics and maintenance (IoT sensors)
+- Safety regulation updates and digital management.
+- Cross-departmental collaboration and communication skills
+- Drone inspection operations.
+
+**Key growth areas:**
 
 - Mining
 - Labour
@@ -64,68 +95,67 @@ Mine labourers perform manual tasks such as material handling, equipment cleanin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地劳工，获得LMIA后可申请工签 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如萨省、BC省）有矿业类省提名，需雇主担保 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove they cannot find local workers; after obtaining LMIA, can apply for a work visa. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Saskatchewan, BC) have mining-specific provincial nominations that require employer sponsorship. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mine labourers？**
-- 体力充沛、适应户外/井下工作
-- 愿意从事轮班和偏远地区工作
-- 初中学历以上、希望快速进入劳动力市场
-
-**谁不适合学Mine labourers？**
-- 不接受体力劳动和粉尘环境
-- 追求办公室文职或高薪白领职业
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically fit, adaptable to outdoor/underground work
+- Willing to work shifts and in remote areas
+- Junior high school education or above, looking to enter the labor market quickly
+
+**Who is not suited**
+- Unwilling to accept physical labor and dusty environments
+- Seeking office or high-paying white-collar jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a miner?**
+A: According to Job Bank, the median annual salary for Canadian miners is around 50,000 CAD, entry-level about 35,000-45,000 CAD, and senior can reach over 70,000 CAD.
+
+**Q: Are miners likely to immigrate to Canada?**
+A: Not easy. Miners are TEER 4 low-skilled positions, usually ineligible for Express Entry. Migration is possible only through LMIA work permits or some provincial nominations (e.g., Saskatchewan), with demand varying by region.
+
+**Q: What are the career development paths for miners?**
+A: Can advance to mining operator, shift supervisor, or become heavy equipment technician/mining technician through apprenticeships.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mine labourers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for mine labourers?**
-答：According to Job Bank, the median annual salary for mine labourers in Canada is around CAD 50,000, entry-level CAD 35,000-45,000, and experienced up to CAD 70,000+.
-
-**问：Is it easy for mine labourers to immigrate to Canada?**
-答：Not very easy. Mine labourers are TEER 4 low-skilled, generally ineligible for Express Entry, and can only immigrate through LMIA work permits or some PNP streams (e.g., Saskatchewan), with demand varying by region.
-
-**问：What are the career progression paths for mine labourers?**
-答：They can advance to mining operator, shift supervisor, or through apprenticeship become heavy equipment mechanic or mining technician.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

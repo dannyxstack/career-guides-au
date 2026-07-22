@@ -1,61 +1,97 @@
-# Sound Engineer and Sound Designer（Sound Engineer and Sound Designer）职业分析 · FR
+# Sound Engineer and Sound Designer — career analysis · France
 
-**职业代码：L1508 – Sound Engineer and Sound Designer。**
+**Occupation code: L1508 (ROME)**
 
-Responsible for audio recording, mixing, and sound design for film, TV, music, broadcast, and live events.
+Responsible for audio recording, mixing, and sound design for film, television, music, radio, and live events.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级技师文凭（BTS） | 2年 | —（公立学校低学费，私立学校约3000-5000欧元/年） |
-| 国家文凭（DN MADE）或学士 | 3年 | —（公立大学学费低，私立院校约3000-8000欧元/年） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒制免费，有工资） |
+| Advanced Technician Diploma (BTS) | 2 years | $0~$5,000 (Public schools low tuition, private schools about €3,000-5,000/year.) |
+| National Diploma (DN MADE) or Bachelor's degree | 3 years | $0~$8,000 (Public universities have low tuition fees; private institutions cost about €3,000-8,000/year.) |
+| Apprentissage | 1-2 years | $0~$0 (Apprenticeships are free and paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 音响技师证书 | CPNEF 视听行业委员会 | 可选 | 行业认可的职业资格，非强制但有利于就业 |
-| CST 音响技术认证 | 高等视听技术委员会 | 可选 | 电影和电视领域专业认证，非强制 |
+| CQP Audio Technician Certificate | CPNEF Audiovisual Industry Committee | Optional | Industry-recognized professional qualifications, non-mandatory but beneficial for employment |
+| CST Audio Technology Certification | Higher Audiovisual Technology Committee | Optional | Professional certification in the film and television field, non-mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。法国影视和现场娱乐行业稳定发展，对高质量音响需求持续，就业前景良好。数字媒体和流媒体平台兴起带来新机会。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. France's film and live entertainment industry is developing steadily, with sustained demand for high-quality audio and promising employment prospects. The rise of digital media and streaming platforms brings new opportunities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常以项目制或自由职业者形式 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪，有稳定项目经验 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪，负责大型项目或团队管理 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, usually project-based or freelancer |
+| Mid-level (3–7 years) | $30,000~$40,000 | Pre-tax annual salary, stable project experience |
+| Senior (7+ years) | $45,000~$60,000 | Pre-tax annual salary, responsible for managing large projects or teams |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从助理录音师或音响操作员起步，可晋升为首席音响师、混音师或音频总监。也可专攻某一领域如电影音效或现场音响。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will partially replace low-level tasks for audio engineering technicians (e.g., automated mixing, noise reduction), but core creativity, complex sound tuning and on-site adaptability remain hard to replace; the outlook for the occupation is mixed.
+
+Starting as an assistant recording engineer or sound operator, you can advance to chief sound engineer, mixing engineer, or audio director. You can also specialize in a specific field, such as movie sound effects or live audio.
+
+**Tasks most exposed to AI:**
+
+- Automatic voice alignment and rhythm correction
+- AI-based automatic mixing and mastering
+- Noise gate and automatic noise reduction processing
+- Standardized audio repair (e.g., de-click, de-essing)
+- Template-based rapid effect chain application
+
+**Where AI augments the role:**
+
+- AI-assisted real-time mixing, intelligently balancing multi-track levels
+- Intelligent monitoring and feedback suppression with automatic adjustment of monitor mix
+- AI room correction and equalization optimization based on acoustic analysis
+- AI-driven creative effects recommendations and parameter automation
+- AI prediction for wireless microphone frequency coordination and interference avoidance
+
+**Human moat:**
+
+- On-the-spot adaptability and artistic judgment in live performances
+- Creative communication and collaboration with artists/directors.
+- Subjective auditory tuning of complex sound fields (non-parametric)
+- Rapid diagnosis and repair of unforeseen technical problems
+- Large event multi-team coordination and emergency management
+
+**Skills to build:**
+
+- AI audio processing software (e.g., iZotope Ozone, LANDR)
+- Python scripting for automating audio workflows
+- Digital mixing consoles and Dante networked audio systems
+- Immersive audio (Dolby Atmos, Spatial Audio)
+- Data analysis and monitoring (for system monitoring)
+- Project management and on-site communication skills
+
+**Key growth areas:**
 
 - Digital Media
 - Live Events
@@ -64,69 +100,68 @@ Responsible for audio recording, mixing, and sound design for film, TV, music, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或文化领域专业人士，需证明有杰出才能或项目合同。 |
-| Subclass Salarié（Salaried Employee） | 需获得法国雇主工作合同，符合薪资要求，经过劳动市场测试。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生或特定情况可申请，允许在法寻找工作。 |
+| Subclass Passeport Talent (Talent Passport) | Applicable to artists or professionals in the cultural sector, requiring proof of outstanding talent or project contract. |
+| Subclass Salarié (Salaried Employee) | Must obtain a work contract from a French employer, meet salary requirements, and pass labor market testing. |
+| Subclass Recherche emploi (Job Search Visa) | Graduates or specific cases may apply, allowing job seeking in France. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sound Engineer and Sound Designer？**
-- 对音频技术有浓厚兴趣，动手能力强
-- 适应灵活工作时间和项目制环境
-- 有团队协作精神，能承受现场压力
-
-**谁不适合学Sound Engineer and Sound Designer？**
-- 不喜欢不规律的工作时间和高强度工作
-- 对技术细节不敏感，缺乏耐心
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in audio technology and strong hands-on skills
+- Adapt to flexible working hours and project-based environments
+- Strong team spirit and able to handle on-site pressure
+
+**Who is not suited**
+- Dislikes irregular working hours and high-intensity work
+- Insensitive to technical details and lacking patience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sound engineers?**
+A: Entry-level approximately EUR 22,000-28,000, mid-level EUR 30,000-40,000, senior EUR 45,000-60,000, freelancers have more variable income.
+
+**Q: How can foreigners immigrate to France through the recording engineer profession?**
+A: Through the Talent Passport to prove artistic achievements, or apply for a salaried work residence permit with an employer contract; competition is intense.
+
+**Q: What career paths are there for sound engineers?**
+A: You can specialize in film, music, or live sound, or advance to become a mixing engineer or audio director, or even start your own recording studio.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sound Engineer and Sound Designer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sound engineers?**
-答：Entry-level around €22,000-28,000, mid-level €30,000-40,000, senior €45,000-60,000. Freelancers have variable income.
-
-**问：How can foreigners migrate to France as a sound engineer?**
-答：Apply for Talent Passport by proving artistic achievements, or Salarié visa with an employer contract. Competition is high.
-
-**问：What are the career paths for sound engineers?**
-答：Specialize in film, music, or live sound; advance to mixing engineer, audio director; or start your own studio.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Patents Examiner（Patents Examiner）职业分析 · 澳大利亚
+# Patents Examiner — career analysis · Australia
 
-**职业代码：224914 – Patents Examiner。**
+**Occupation code: 224914 (ANZSCO)**
 
-Patents Examiners review patent applications to ensure inventions meet patentability criteria like novelty, inventiveness, and usefulness, requiring deep technical knowledge and intellectual property law expertise, typically working at IP Australia.
+Patent examiners review patent applications to ensure inventions meet patentability criteria including novelty, inventiveness, and utility. This role requires deep understanding of technical fields and intellectual property law, working at IP Australia.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3-4年 | $30,000~$50,000（科学与工程类学士学位，如物理、化学、工程、信息技术等） |
-| 研究生（可选） | 1-2年 | $20,000~$40,000（知识产权法或专利审查相关研究生证书/硕士可增强竞争力） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (Bachelor's degree in science or engineering, e.g., physics, chemistry, engineering, information technology) |
+| Postgraduate (optional) | 1-2 years | $20,000~$40,000 (A postgraduate certificate or master's degree in intellectual property law or patent examination can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 科学或工程学士学位 | 澳大利亚大学 | 必备 | 必需，需在科学、工程、信息技术等相关领域 |
-| 知识产权法证书 | 澳大利亚知识产权局或大学 | 可选 | 入职后通常需完成内部培训课程 |
-| 职业评估（VETASSESS） | VETASSESS | 可选 | 技术移民需通过VETASSESS Group A评估 |
+| Science or engineering bachelor's degree | Australian university | Required | Required, in science, engineering, information technology or related fields |
+| Intellectual property law certificate | Australian Intellectual Property Office or university | Optional | Usually required to complete internal training courses after onboarding |
+| Skills assessment (VETASSESS). | VETASSESS | Optional | Skilled migration requires VETASSESS Group A assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。澳大利亚知识产权局持续招聘专利审查员以处理不断增长的申请量，尤其需要科学、工程及信息技术背景人才。政府重视知识产权保护，就业稳定，晋升路径清晰。
+**Job demand: high (★★★★☆).** National workforce approx. 800. IP Australia continuously recruits patent examiners to handle growing application volumes, especially those with backgrounds in science, engineering, and IT. The government values IP protection, offering stable employment and clear career progression.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | APS 5-6级别 |
-| 中级（3-7年） | $85,000~$110,000 | APS 6-EL1级别 |
-| 高级（7年以上） | $115,000~$140,000 | EL1-EL2级别或管理层 |
+| Median salary | $113,828 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $65,000~$80,000 | APS 5-6 level |
+| Mid-level (3–7 years) | $85,000~$110,000 | APS 6-EL1 level |
+| Senior (7+ years) | $115,000~$140,000 | EL1-EL2 level or management |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业发展路径：初级审查员 → 高级审查员 → 主管审查员 → 管理层（如部门经理）。也可转向知识产权律师、专利分析师或企业知识产权顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Patent examiner roles will be significantly reshaped by AI: existing search and screening tasks are highly automated, but core aspects like legal discretion and creative judgment still require humans; overall positions will not disappear, but entry pathways narrow, requiring a shift toward higher-value judgment.
+
+Career path: Junior Examiner → Senior Examiner → Lead Examiner → Management (e.g., Department Manager). Can also transition to IP lawyer, patent analyst, or corporate IP consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatically search prior art documents and conduct preliminary comparative analysis
+- Automatically check patent application format, fees, and basic formal requirements
+- Generating standardized examination opinion drafts (e.g., notices of obvious defects)
+- Assists in sorting and allocating applications to corresponding technical area reviewers
+
+**Where AI augments the role:**
+
+- AI-assisted deep learning retrieval to improve recall of relevant literature.
+- Intelligently analyzes claim structure, suggesting potential novelty/inventive step arguments.
+- Automatically generate technology trend reports to assist reviewers in understanding the industry background.
+- Multilingual machine translation supports reading foreign patent comparison documents.
+- Recommends similar case precedents and review decisions based on historical review data
+
+**Human moat:**
+
+- Legal judgment on the creativity and practicality of technical solutions (especially cross-domain combination inventions)
+- Complex communication and negotiation with applicants and legal representatives
+- Addressing legal applicability and ethical judgments of new technologies (e.g., AI inventions, biotechnology)
+- Make responsible decisions under uncertain legal frameworks (e.g., patents involving national security/public interest)
+- Subjective discretion in the review process (e.g., fairness and consistency maintenance)
+
+**Skills to build:**
+
+- Proficient in AI-assisted search tools (e.g. semantic search based on large language models)
+- Understand the fundamentals of machine learning and natural language processing, able to evaluate AI output quality
+- Deepen technical expertise in frontier areas such as bioinformatics and quantum computing
+- Learn data analysis and visualisation to monitor review quality metrics
+- Develop complex communication and conflict mediation skills
+- Tracking intellectual property law updates and AI ethics regulations
+
+**Key growth areas:**
 
 - IP Australia hiring
 - STEM background
@@ -62,69 +97,68 @@ Patents Examiners review patent applications to ensure inventions meet patentabi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 适用于在MLTSSL列表上的职业，可独立申请永居 |
-| Subclass 190（Skilled Nominated Visa） | 需州担保，大多数州可担保此职业 |
-| Subclass 482（Temporary Skill Shortage Visa） | 适用于雇主担保，之后可转186永居 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居，需通过职业评估 |
+| Subclass 189 (Skilled Independent Visa) | Applicable to occupations on the MLTSSL, allows independent permanent residency application |
+| Subclass 190 (Skilled Nominated Visa) | Requires state nomination, most states can nominate this occupation |
+| Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, with the option to transition to 186 permanent residence |
+| Subclass 186 (Employer Nomination Scheme) | Permanent residency through employer sponsorship requires a skills assessment |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Patents Examiner？**
-- 具备科学或工程背景，喜欢钻研技术和法律细节
-- 擅长书面表达和分析，能独立完成复杂审查工作
-- 希望获得稳定政府工作及清晰晋升路径的人
-
-**谁不适合学Patents Examiner？**
-- 不喜欢长时间伏案和重复性文书工作
-- 缺乏耐心或对细节不够敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Have a science or engineering background and enjoy delving into technical and legal details
+- Proficient in written expression and analysis, able to independently complete complex review work.
+- People seeking stable government jobs and clear career progression
+
+**Who is not suited**
+- Dislike long hours at a desk and repetitive paperwork
+- Those lacking patience or attention to detail
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a patent examiner?**
+A: Entry-level salary approx. AUD 65,000–80,000, mid-level 85,000–110,000, senior 115,000–140,000, under Australian public service APS pay scales.
+
+**Q: Can a patent examiner immigrate to Australia through skilled migration?**
+A: Yes. This occupation is on the MLTSSL, eligible for 189 Skilled Independent, 190 State Nominated, or employer-sponsored (482/186) visas. Requires a VETASSESS Group A skills assessment.
+
+**Q: What are the promotion opportunities for patent examiners?**
+A: Can progress from junior examiner to senior examiner, supervisor, then management (e.g., department manager). May also move to the private sector for IP consulting or patent agency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Patents Examiner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Patents Examiners?**
-答：Entry-level salary is around AUD 65,000-80,000, mid-level AUD 85,000-110,000, senior AUD 115,000-140,000, aligned with APS levels.
-
-**问：Can Patents Examiners immigrate to Australia via skilled migration?**
-答：Yes. The occupation is on the MLTSSL, eligible for 189, 190, and employer-sponsored visas (482/186). VETASSESS Group A assessment is required.
-
-**问：What are the career progression opportunities for Patents Examiners?**
-答：Promotion from junior to senior examiner, supervisor, and management roles. Also possible to move to private sector as IP consultant or patent attorney.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

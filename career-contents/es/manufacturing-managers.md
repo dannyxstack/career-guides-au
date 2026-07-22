@@ -1,60 +1,96 @@
-# Manufacturing Managers（Manufacturing Managers）职业分析 · ES
+# Manufacturing Managers — career analysis · Spain
 
-**职业代码：1313 – Manufacturing Managers。**
+**Occupation code: 1313 (CNO)**
 
-Plan, organize, and oversee manufacturing operations, including resource allocation, quality control, cost optimization, and team leadership, ensuring efficient factory performance and production targets.
+Responsible for planning, organizing, and managing the production operations of manufacturing enterprises, including resource allocation, quality control, cost optimization, and team leadership, ensuring efficient factory operations and achieving production goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$6,000（公立大学每年学费约1000-2000欧元，私立较高。） |
-| 硕士（Máster） | 1-2年 | $2,000~$12,000（工业管理或工程类硕士，公立大学费用较低。） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$3,000（公立FP中心费用低廉，适合技术背景晋升管理岗。） |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Annual tuition at public universities approx. 1000-2000 EUR, private higher.) |
+| Máster | 1-2 years | $2,000~$12,000 (Master's degrees in Industrial Management or Engineering have lower fees at public universities.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$3,000 (Public FP centers have low fees and are suitable for technical backgrounds to advance to management positions.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工业工程或相关专业学位 | 西班牙大学 | 必备 | 通常要求本科以上学历，硕士优先。 |
-| 管理经验 | 雇主 | 必备 | 至少5年生产管理或相关管理经验。 |
-| 语言能力 | 无特定机构 | 可选 | 西班牙语流利，英语为加分项。 |
+| Industrial engineering or related professional degrees | Spanish University | Required | Generally, a bachelor's degree or above is required, with master's degree preferred. |
+| Management experience | Employer | Required | At least 5 years of experience in production management or related management. |
+| Language ability | No specific institution | Optional | Fluent in Spanish, English is a plus. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。西班牙制造业正逐步向自动化和高附加值转型，对高级管理人才需求稳定。受工业4.0推动，数字化和可持续生产领域岗位增多，但传统岗位竞争加剧。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Spanish manufacturing is gradually transitioning toward automation and high value-added capabilities, with stable demand for senior management talent. Driven by Industry 4.0, there are more jobs in digital and sustainable production, but competition in traditional positions is intensifying.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 多为生产主管或助理经理岗位。 |
-| 中级（4-7年） | $45,000~$65,000 | 担任工厂经理或部门负责人。 |
-| 高级（8年以上） | $65,000~$100,000 | 区域运营总监或大型工厂总经理。 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Most positions are production supervisors or assistant managers. |
+| Mid-level (4-7 years) | $45,000~$65,000 | Serve as a factory manager or department head. |
+| Senior (8+ years) | $65,000~$100,000 | Regional Operations Director or General Manager of Large Factories. |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径通常从工程师或生产主管起步，晋升至工厂经理、区域运营总监，再至副总裁。需积累跨部门管理经验及行业知识，MBA或工业工程硕士是加分项。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
+
+Career paths typically start as engineers or production supervisors, and are promoted to plant manager, regional operations director, and eventually vice president. You need to accumulate cross-departmental management experience and industry knowledge; an MBA or Master of Industrial Engineering is a plus.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and resource allocation optimized in real-time by AI algorithms, replacing manual planning
+- Visual inspection in quality control, replaced by computer vision systems
+- Inventory monitoring and replenishment, automated by IoT and predictive analytics
+- Routine report generation and data analysis, automatically output by AI dashboards.
+- Equipment maintenance reminders and fault diagnosis via sensors and machine learning predictions.
+
+**Where AI augments the role:**
+
+- Production bottleneck analysis and abnormal root cause investigation, AI provides multi-dimensional data support
+- Simulation and effect prediction of lean improvement projects.
+- Supply chain risk warning and response strategy generation.
+- Personalized recommendations for employee skill improvement programs (based on AI assessment).
+- Cross-departmental communication priority sorting (AI-assisted decision-making)
+
+**Human moat:**
+
+- Comprehensive decision-making and emergency command during sudden production interruptions
+- Cross-team, cross-department conflict resolution and team morale building
+- Custom non-standard solution design for client-specific needs
+- Human judgment and accountability in safety compliance
+- Intuition and experiential judgment for hidden issues on production floor
+
+**Skills to build:**
+
+- Data analysis and AI tool applications (e.g., Tableau, Python, AI scheduling software)
+- Basic principles and operation of IoT and Industry 4.0 systems.
+- Lean management and agile production methodologies
+- Digital transformation project management and change management
+- Human-machine collaboration team leadership
+- Basic programming skills (Python or R)
+
+**Key growth areas:**
 
 - Industry 4.0
 - Automation
@@ -63,68 +99,67 @@ Plan, organize, and oversee manufacturing operations, including resource allocat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学位及符合薪资门槛（2025年约33,908欧元/年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 西班牙高技能人才签证，适合管理岗位，需雇主担保及学历认证。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 普通工作居留，需雇主提供合同并证明职位无法被欧盟公民填补。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals who need a university degree and meet the salary threshold (approximately €33,908/year in 2025). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | The Spanish Highly Skilled Talent visa is suitable for management positions and requires employer sponsorship and academic credential verification. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | For ordinary work residence, the employer must provide a contract and prove that the position cannot be filled by an EU citizen. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Manufacturing Managers？**
-- 具有工程或技术背景，希望转向管理岗位的人士
-- 善于团队领导、流程优化和成本控制
-- 能适应工厂环境和高强度工作节奏
-
-**谁不适合学Manufacturing Managers？**
-- 不喜欢面对生产压力和紧急问题处理
-- 偏好纯技术或独立工作，缺乏管理兴趣
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an engineering or technical background who wish to transition into management roles
+- Skilled in team leadership, process optimization, and cost control
+- Able to adapt to factory environments and high-intensity work rhythms
+
+**Who is not suited**
+- Dislikes dealing with production pressure and handling urgent issues
+- Preference for purely technical or independent work, with a lack of management interest
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for manufacturing managers?**
+A: Entry-level about €35,000-45,000/year, mid-level €45,000-65,000, senior up to €100,000+/year. Salary varies by company size and region; Madrid and Basque Country are higher.
+
+**Q: How can foreigners obtain a work visa for Spanish manufacturing managers?**
+A: You can obtain the EU Blue Card (requiring a degree and salary qualification) or the High-Skilled Talent Visa (requiring employer sponsorship). It is recommended to first obtain a Spanish-accredited degree or pass a homologación (academic credential) and accumulate management experience.
+
+**Q: What are the career prospects for this occupation?**
+A: With the advancement of Industry 4.0 and green manufacturing, the demand for digital and sustainable management skills is rising. Promotion paths are clear, but continuous learning of new technologies and management methods is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Manufacturing Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for manufacturing managers?**
-答：Entry-level: €35,000-45,000/year; mid-level: €45,000-65,000/year; senior: up to €100,000+/year. Varies by company size and region; Madrid and Basque Country offer higher pay.
-
-**问：How can foreigners get a work visa as a manufacturing manager in Spain?**
-答：Through the EU Blue Card (requires degree and minimum salary) or Highly Skilled Professional visa (employer sponsorship). It's recommended to have a recognized degree and management experience.
-
-**问：What are the career prospects?**
-答：Driven by Industry 4.0 and green manufacturing, demand for digital and sustainability management skills rises. Clear promotion path, but requires continuous learning of new technologies and management methods.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Stonemason（Stonemason）职业分析 · IE
+# Stonemason — career analysis · Ireland
 
-**职业代码：7113 – Stonemason。**
+**Occupation code: 7113 (ISCO08)**
 
-Stonemasons cut, carve, and set stone for construction and memorial projects.
+Stone masons cut, carve, and lay stone for buildings and monumental works.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 4年（学徒制） | —（学徒制期间有收入） |
-| 高等职业教育 | 2年（证书） | $2,000~$5,000（继续教育课程） |
+| High school graduation | 4 years (apprenticeship) | $0~$1,000 (Income during the apprenticeship period) |
+| Higher vocational education | 2 years (certificate) | $2,000~$5,000 (Continuing education courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 石匠学徒证书 | SOLAS | 必备 | 完成4年学徒制 |
-| 职业安全证书 | HSA | 必备 | 基本安全培训 |
+| Stonemason Apprenticeship Certificate | SOLAS | Required | Complete a 4-year apprenticeship |
+| Occupational safety certificate | HSA | Required | Basic safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。爱尔兰建筑业持续增长，石匠需求稳定，但受经济周期影响。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. The Irish construction industry is growing steadily, with stable demand for stonemasons, though influenced by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 学徒后晋升为高级石匠或工地主管，也可自雇或专攻修复工艺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Stonemasonry work is amplified rather than replaced by AI: AI-assisted design, precision cutting, and quality control improve efficiency, but craftsmanship, on-site adaptability, and aesthetic judgment remain core moats.
+
+After apprenticeship, progress to senior stonemason or site supervisor; may also become self-employed or specialize in restoration work.
+
+**Tasks most exposed to AI:**
+
+- Automated stone cutting and shaping (CNC machine tools)
+- Repetitive engraving and texturing work (robotics)
+- Inventory management and material statistics (AI system)
+- Simple masonry and quality inspection (automated detection)
+
+**Where AI augments the role:**
+
+- 3D scanning and digital modeling assist complex sculpture design
+- AI-generated optimized cutting plans to reduce waste
+- Augmented Reality (AR)-assisted on-site positioning and installation
+- AI quality inspection system increases yield rate
+
+**Human moat:**
+
+- The unique artistry and custom design of hand carving
+- Experience-based judgment in handling irregular stone.
+- Flexibility for on-site repair and adaptation
+- Craftsmanship Heritage in Historic Building Restoration
+
+**Skills to build:**
+
+- CAD and BIM modeling
+- Operate CNC stone processing equipment
+- Stone performance evaluation and fault diagnosis
+- Project management and client communication
+- Knowledge of sustainable building practices
+- Basic robot programming
+
+**Key growth areas:**
 
 - Construction growth
 - Restoration work
@@ -63,65 +96,64 @@ Stonemasons cut, carve, and set stone for construction and memorial projects.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30000欧元 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工作，年薪需达到一般水平的1.5倍 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, annual salary threshold approx. €30,000 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled jobs, with an annual salary reaching 1.5 times the average level. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stonemason？**
-- 喜欢手工和户外工作
-- 注重细节和工艺
-- 能承受体力劳动
-
-**谁不适合学Stonemason？**
-- 不喜欢体力劳动
-- 对灰尘和噪音敏感
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys manual work and outdoor work
+- Attention to detail and craftsmanship
+- Able to handle physical labor
+
+**Who is not suited**
+- Dislikes physical labor.
+- Sensitive to dust and noise
+
+---
+
+## 8. FAQ
+
+**Q: How much do stonemasons earn?**
+A: Junior stonemason annual salary approx. €28,000-35,000, senior up to €55,000.
+
+**Q: How can overseas stonemasons immigrate to Ireland?**
+A: Immigration possible via general work permit, requires employer sponsorship with annual salary of at least €30,000.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Stonemason为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a stonemason?**
-答：Entry-level stonemasons earn €28,000-€35,000, while experienced can earn up to €55,000.
-
-**问：How can overseas stonemasons migrate to Ireland?**
-答：They can apply for a General Employment Permit with employer sponsorship and a minimum salary of €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Video Producer（Video Producer）职业分析 · 新西兰
+# Video Producer — career analysis · New Zealand
 
-**职业代码：212314 – Video Producer。**
+**Occupation code: 212314 (ANZSCO)**
 
-Video producers and editors plan, shoot, and edit video content for corporate branding, media, and social platforms. In New Zealand, strong video demand in digital marketing offers migration pathways via skilled migrant or accredited employer work visa.
+Video producers and editors plan, shoot, and edit video content for corporate brands, media, and social media platforms. Demand for video in New Zealand's digital marketing sector is strong, with residency pathways through skilled migration or Accredited Employer Work Visa.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（传播/影视制作） | 3年 | $30,000~$45,000（NZ 大学本科学费（国际生），年均 10,000-15,000 NZD） |
-| 大专/证书（影视制作或数字媒体） | 1-2年 | $15,000~$25,000（理工学院或私立培训机构学费） |
+| Bachelor's (Communications/Film Production) | 3 years | $30,000~$45,000 (NZ university undergraduate tuition (international students), average NZD 10,000–15,000 per year) |
+| Diploma/certificate (film production or digital media) | 1-2 years | $15,000~$25,000 (Tuition fees at polytechnics or private training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 视频剪辑软件认证（如 Adobe Premiere Pro） | Adobe | 可选 | 非强制，但提升竞争力 |
-| First Aid Certificate | NZ 认可培训机构 | 可选 | 现场拍摄必备，非强制但常见要求 |
+| Video editing software certification (e.g., Adobe Premiere Pro) | Adobe | Optional | Not mandatory, but enhances competitiveness |
+| First Aid Certificate | NZ accredited training provider | Optional | On-site filming is essential; not mandatory but commonly required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★★☆）。** 全国从业人数约 3,500。新西兰视频制作行业增长稳定，受电商、旅游和教育行业推动，雇主持续招募具备拍摄和剪辑能力的全栈人才。奥克兰和惠灵顿为主要就业市场，但远程工作机会增多。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,500. New Zealand's video production industry is experiencing steady growth, driven by e-commerce, tourism, and education sectors. Employers are consistently recruiting full-stack talent with shooting and editing capabilities. Auckland and Wellington are the main job markets, but remote work opportunities are increasing.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 助理编辑或摄影师 |
-| 中级（3-7年） | $70,000~$90,000 | 独立制作人或高级编辑 |
-| 高级（7年以上） | $95,000~$120,000 | 创意总监或自由职业高收入者 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Assistant editor or photographer |
+| Mid-level (3–7 years) | $70,000~$90,000 | Independent producer or senior editor |
+| Senior (7+ years) | $95,000~$120,000 | Creative director or high-income freelancer |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业发展路径：助理剪辑/拍摄→独立视频制作人→高级制片/创意总监。积累作品集后可转向自由职业或创立工作室，也可拓展至动态设计、动画或导演岗位。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Video producer/editor is a typical 'hybrid' occupation in the AI era—AI significantly lowers barriers for video effects, voice transcription, subtitle generation, etc., but also intensifies competition for basic editing roles; high-end creativity, directing, and full-process project management become scarce; practitioners need to embrace AI tools and strengthen unique human value.
+
+Career path: assistant editor/shooter → independent video producer → senior producer/creative director. After building a portfolio, can transition to freelance work or start a studio, or expand to motion design, animation, or directing roles.
+
+**Tasks most exposed to AI:**
+
+- AI auto-completes rough cuts, speech-to-text subtitles, basic color grading, and transition effects
+- AI-generated B-roll footage and background music matching
+- AI automatically matches shots and templated editing based on scripts
+- AI performs repetitive post-production tasks like face blurring and image stabilization
+- AI automatically generates versions for multiple platforms in different sizes
+
+**Where AI augments the role:**
+
+- AI-assisted generation of creative scripts and storyboard sketches for rapid iteration of creative directions
+- AI real-time analysis of viewer preferences to suggest editing rhythm and emotional curve
+- AI automatically marks highlights in large amounts of footage to speed up asset management
+- AI generates realistic CGI scenes and motion graphics, reducing VFX costs
+- AI provides intelligent subtitle translation and multilingual dubbing to expand global markets
+
+**Human moat:**
+
+- Director mindset: controlling narrative rhythm, emotional tension, and brand tone
+- Client communication: understanding business needs and translating them into visual language
+- Cross-team collaboration: real-time coordination with directors, cinematographers, and clients
+- Creative concepts: Proposing unique visual styles and core creative ideas that cannot be algorithmized
+- On-site adaptability: handle unexpected situations during filming and actor scheduling
+
+**Skills to build:**
+
+- Proficient in AI video tools (e.g. Runway, Sora, Pika)
+- Learn basic programming (Python/FCPXML) to automate workflows
+- Improve narrative and directing skills, focusing on brand strategy and story architecture
+- Learn data analysis and A/B testing to optimize video performance
+- Mastering cross-platform publishing strategies and multi-format output
+- Developing project management and budget control skills
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -61,64 +97,63 @@ Video producers and editors plan, shoot, and edit video content for corporate br
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制（学历+工作经验+薪资），视频制作人属于技能职业，可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主offer后可申请，工作2年后可转SMC |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system (qualifications + work experience + salary); video producer is a skilled occupation and can apply. |
+| Subclass AEWV (Accredited Employer Work Visa) | Apply after receiving an offer from an accredited employer; can transfer to SMC after 2 years of work |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Video Producer？**
-- 热爱视频讲故事、掌握拍摄与剪辑全流程
-- 适应灵活工作时间和项目制工作
-- 具备创意思维和团队协作能力
-
-**谁不适合学Video Producer？**
-- 不喜欢频繁修改和反馈迭代
-- 缺乏技术学习动力，难以跟进软件更新
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about video storytelling, proficient in shooting and editing whole process
+- Adaptability to flexible working hours and project-based work
+- Creative thinking and teamwork skills
+
+**Who is not suited**
+- People who dislike frequent revisions and feedback iterations
+- Lack of motivation for technical learning, difficulty keeping up with software updates
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for video producers in New Zealand?**
+A: Entry-level about NZD 50,000-65,000, mid-level NZD 70,000-90,000, senior up to NZD 120,000. Freelancers have variable income, but experienced ones can exceed NZD 150,000.
+
+**Q: Can video producers immigrate to New Zealand through skilled migration?**
+A: Yes, this occupation is on the Skilled Migrant Category Occupation List. Eligible for the 6-point system (e.g., bachelor's degree 3 points + 3 years work experience 3 points) and meeting the median wage (approx. NZ$60,000). A job offer from an accredited employer also allows a work visa pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Video Producer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for video producers in New Zealand?**
-答：Entry-level: NZD 50,000-65,000; Mid-level: NZD 70,000-90,000; Senior: NZD 95,000-120,000. Freelancers with high skills can earn over NZD 150,000.
-
-**问：Can video producers migrate to New Zealand via skilled migration?**
-答：Yes. It's on the skill shortage list. You can apply under the 6-point system (e.g., bachelor's degree 3 points + 3 years work experience 3 points) with a salary above median (around NZD 60,000). Alternatively, get a job with an accredited employer for an AEWV.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

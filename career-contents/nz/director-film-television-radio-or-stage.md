@@ -1,58 +1,94 @@
-# Director (Film, Television, Radio or Stage)（Director (Film, Television, Radio or Stage)）职业分析 · 新西兰
+# Director (Film, Television, Radio or Stage) — career analysis · New Zealand
 
-**职业代码：212312 – Director (Film, Television, Radio or Stage)。**
+**Occupation code: 212312 (ANZSCO)**
 
-Directors provide creative guidance and oversee production to realize the artistic vision of film, TV, radio, or stage projects. In New Zealand, this occupation qualifies for immigration via the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), though not on the Green List; high income or experience may be required.
+Directors oversee artistic direction and production supervision, ensuring the creative vision of film, TV, or stage projects. In New Zealand, this occupation can apply for residence through the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on the Green List and requires high salary or work experience accumulation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（视觉艺术、电影或戏剧相关学位） |
-| 研究生文凭 | 1年 | $20,000~$35,000（如奥克兰大学的电影制作研究生文凭） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Degree in visual arts, film, or theatre) |
+| Graduate diploma | 1 year | $20,000~$35,000 (Such as a Graduate Diploma in Filmmaking from the University of Auckland) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制注册 | 无 | 可选 | 新西兰导演无需法定注册，但实践经验至关重要 |
-| 相关工作许可 | 新西兰电影委员会 | 可选 | 涉及海外演员或拍摄需额外许可 |
+| No mandatory registration. | None | Optional | New Zealand directors do not need statutory registration, but practical experience is crucial. |
+| Relevant work permit | New Zealand Film Commission | Optional | Involving overseas actors or filming requires additional permits |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰影视行业持续增长，得益于国际制作和本地内容需求，但竞争激烈。导演岗位主要集中在奥克兰和惠灵顿，就业机会因项目周期波动，兼职和自由职业常见。
+**Job demand: medium (★★★☆☆).** National workforce approx. 1,200. New Zealand's film and TV industry continues to grow due to international productions and local content demand, but competition is fierce. Director roles are mainly in Auckland and Wellington, job opportunities fluctuate with project cycles, and part-time and freelance work is common.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 自由职业或助理导演 |
-| 中级（3-8年） | $65,000~$100,000 | 独立导演或中小型项目 |
-| 高级（8年以上） | $100,000~$150,000 | 大型电影或电视剧导演 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$65,000 | Freelancer or assistant director |
+| Mid-level (3–8 years) | $65,000~$100,000 | Independent Director or Small-to-Medium Projects |
+| Senior (8+ years) | $100,000~$150,000 | Director of large-scale films or TV series |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从助理导演或制片协调起步，逐步晋升为独立导演或创意总监。积累作品集和人脉后，可转向高预算制作或担任制片人。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
+
+Career progression can start from assistant director or production coordinator, gradually advancing to independent director or creative director. After building a portfolio and network, one can move to high-budget productions or become a producer.
+
+**Tasks most exposed to AI:**
+
+- Initial visual concept generation and layout solutions
+- Preliminary testing of color combinations and font selection
+- Searching and selecting stock images
+- Automatic generation of multi-version layouts
+- Initial response to client modification requests and rapid prototype iteration
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple creative proposals as discussion starting points
+- Using AI to quickly test user feedback on different visual styles
+- Use AI tools to efficiently complete repetitive revisions and version management
+- Optimize design decisions through AI analysis of historical project data
+- Generate high-quality presentation materials and proposal documents using AI
+
+**Human moat:**
+
+- Final decision-making on creative direction and brand tone
+- Cross-team leadership and client relationship management skills
+- Deep understanding of cultural context and emotional resonance
+- Creative problem-solving for unstructured problems
+- Irreplaceability of aesthetic judgment and subjective evaluation
+
+**Skills to build:**
+
+- Proficient in AI creative tools (e.g., Midjourney, DALL·E, Adobe Firefly)
+- Data-driven design decision analysis
+- AI workflow integration and customization
+- Agile project management and cross-departmental collaboration
+- Client communication and creative proposal skills
+- Continuously learning new AI tools and platforms
+
+**Key growth areas:**
 
 - Creative Industries
 - AEWV
@@ -61,67 +97,66 @@ Directors provide creative guidance and oversee production to realize the artist
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等偏低（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制积分（经验+学历+收入），ANZSCO等级为1，收入达中位数或更高 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，职位需为真实短缺或高技能，可后续申请居民签证 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system points (experience + education + income), ANZSCO level 1, income at or above median. |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer; the position must be genuinely in shortage or high-skilled, and you can subsequently apply for a residency visa. |
 
-**PR难度：中等偏高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Director (Film, Television, Radio or Stage)？**
-- 有创造力、领导力和抗压能力的人
-- 具备良好沟通和团队协作能力的人
-- 愿意接受项目制工作、不惧竞争的人
-
-**谁不适合学Director (Film, Television, Radio or Stage)？**
-- 追求稳定朝九晚五工作模式的人
-- 不习惯高压和不确定收入的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative, leadership-oriented, and stress-resistant individuals.
+- People with good communication and teamwork skills
+- Those who are open to project-based work and not afraid of competition
+
+**Who is not suited**
+- Those seeking a stable 9-to-5 work pattern
+- For those uncomfortable with high pressure and uncertain income
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical income of a director in New Zealand?**
+A: Junior director: annual salary approx. NZD 45,000-65,000; mid-level: NZD 65,000-100,000; senior: up to NZD 100,000-150,000. Freelancers have variable income.
+
+**Q: How can directors immigrate to New Zealand through the skilled migration category?**
+A: Must meet SMC 6-point system, requiring relevant bachelor's or higher degree, or accumulated high work experience, and salary at or above the median (currently about NZD 29.66/hour). The occupation is not on the Green List, but can apply for a resident visa via high salary or long-term work.
+
+**Q: What is the job market like for directors in New Zealand?**
+A: Job opportunities are affected by film production cycles; Auckland and Wellington have more positions, but competition is fierce. International co-productions provide extra opportunities; it's recommended to gain experience and build industry networks.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 中等偏低（★★★☆☆） |
-| PR难度 | 中等偏高（★★★☆☆） |
-
-Director (Film, Television, Radio or Stage)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the typical salary for a director in New Zealand?**
-答：Entry-level directors earn around NZ$45,000-65,000, mid-level NZ$65,000-100,000, and senior directors NZ$100,000-150,000 annually. Freelance income varies significantly.
-
-**问：How can a director immigrate through the Skilled Migrant Category?**
-答：Applicants must meet the 6-point system with relevant bachelor's degree or higher, or significant work experience, and earn at or above the median wage (currently NZ$29.66/hour). The role is not on the Green List but may qualify for residence via high income or long-term employment.
-
-**问：What is the job market like for directors in New Zealand?**
-答：Opportunities are project-based, concentrated in Auckland and Wellington, with high competition. International co-productions offer extra chances; gaining experience and networking is advised.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

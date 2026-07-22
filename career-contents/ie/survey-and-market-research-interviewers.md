@@ -1,60 +1,95 @@
-# Survey and Market Research Interviewers（Survey and Market Research Interviewers）职业分析 · IE
+# Survey and Market Research Interviewers — career analysis · Ireland
 
-**职业代码：4227 – Survey and Market Research Interviewers。**
+**Occupation code: 4227 (ISCO08)**
 
-In Ireland, survey and market research interviewers collect public opinion and market data via phone, face-to-face, or online methods to support decision-making for government, businesses, and research organizations.
+In Ireland, survey and market research interviewers collect public opinion and market data via phone, face-to-face, or online methods, providing decision-making support for governments, businesses, and research institutions.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需高等教育 | —（基本要求，培训由雇主提供） |
-| 相关证书/文凭 | 6个月-1年 | $500~$3,000（市场研究或社会科学证书） |
+| High school graduation | No higher education required | $0~$0 (Basic requirements, training provided by employer.) |
+| Relevant certificate/diploma | 6 months to 1 year | $500~$3,000 (Market research or social science certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 市场研究协会认证 | 市场研究协会 (MRS) | 可选 | 国际认可，非强制但提升竞争力 |
-| 面试技巧培训 | 雇主或培训机构 | 必备 | 常见于入职培训 |
+| Interview skills training | Employer or training provider | Required | Commonly used in onboarding training |
+| Market Research Society accreditation | Market Research Society (MRS) | Optional | Internationally recognized, not mandatory, but enhancing competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。预计就业增长稳定，受市场调研和数据驱动决策需求推动，但竞争中等。数字化技能可提升就业机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Employment growth is expected to be stable, driven by demand for market research and data-driven decision-making, but competition is moderate. Digital skills can enhance job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，通常按小时计薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪，主管或研究角色 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual salary before tax, usually paid hourly |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $35,000~$45,000 | Pre-tax annual salary, supervisor or research role |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级访问员晋升为高级访问员、团队主管或研究分析师。积累经验后可转向市场研究或数据分析领域。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI brings mixed results for research staff: data collection and analysis are automated, but research design, ethical judgment, and client communication still rely on humans; jobs will not disappear but will be transformed.
+
+Can progress from junior interviewer to senior interviewer, team supervisor, or research analyst. With experience, can transition to market research or data analysis fields.
+
+**Tasks most exposed to AI:**
+
+- Data collection and basic statistical analysis (e.g., routine analysis using SPSS/R)
+- Simple coding and logic checking of questionnaires.
+- Data cleaning and preprocessing.
+- Generate standard statistical reports and charts
+
+**Where AI augments the role:**
+
+- Use AI to design more accurate survey questionnaires (e.g., recommend optimal question wording)
+- Use natural language processing to analyze qualitative data from open-ended questions.
+- Automatically identifies abnormal patterns and trends in data
+- Using AI to simulate survey results to reduce trial and error costs
+- Use machine learning models to predict survey response rates and optimize sampling.
+
+**Human moat:**
+
+- Research design and problem formulation skills
+- Domain knowledge and contextual understanding
+- Ethical judgment and data privacy protection
+- Communicating and explaining complex findings to stakeholders
+- Innovative method development and critical thinking
+
+**Skills to build:**
+
+- Proficient in Python and R for automated data analysis.
+- Learn machine learning basics (e.g., classification, clustering)
+- Proficient in AI-enhanced tools like SurveyMonkey, Qualtrics
+- Data visualization skills (e.g., Tableau, Power BI)
+- Qualitative research methods and mixed methods design
+- Project management and client communication skills
+
+**Key growth areas:**
 
 - Digitalization
 - Data-driven decision making
@@ -63,65 +98,67 @@ In Ireland, survey and market research interviewers collect public opinion and m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于3万欧元的非紧缺职业，需雇主担保。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/EEA/瑞士公民可自由工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage with an annual salary below 30,000 euros, requiring employer sponsorship. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA/Swiss citizens can work freely without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Survey and Market Research Interviewers？**
-- 善于沟通、有耐心的人
-- 注重细节、能准确记录数据的人
-- 适应弹性工作时间（如晚上/周末）的人
+**Who is suited**
+- Good communication and patience
+- Detail-oriented person who can accurately record data
+- People who can adapt to flexible working hours (e.g., evenings/weekends)
 
-**谁不适合学Survey and Market Research Interviewers？**
-- 不喜欢重复性工作的人
-- 对收入稳定性要求高的人
+**Who is not suited**
+- People who dislike repetitive work
+- People with high requirements for income stability
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for interviewers?**
+A: Annual salary for junior interviewers is about 22,000-28,000 euros, senior up to 45,000 euros, but most positions are part-time or temporary.
+
+**Q: How can non-EU citizens immigrate to Ireland through this occupation?**
+A: This occupation typically does not qualify for a Critical Skills Permit; a General Employment Permit is required, with an annual salary threshold and employer sponsorship.
+
+**Q: What are the career advancement opportunities?**
+A: Can progress from interviewer to team leader, project manager, or market research analyst, requiring experience and additional training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Survey and Market Research Interviewers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for interviewers?**
-答：Junior interviewers earn about €22,000-€28,000 annually, while senior roles can reach €45,000, but many positions are part-time or temporary.
-
-**问：How can non-EU citizens immigrate through this occupation?**
-答：This occupation does not meet Critical Skills criteria; apply for a General Employment Permit with employer sponsorship and salary threshold.
-
-**问：What are the career advancement opportunities?**
-答：Progress from interviewer to team leader, project manager, or market research analyst with experience and additional training.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

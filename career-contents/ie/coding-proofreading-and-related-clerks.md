@@ -1,60 +1,93 @@
-# Coding, Proofreading and Related Clerks（Coding, Proofreading and Related Clerks）职业分析 · IE
+# Coding, Proofreading and Related Clerks — career analysis · Ireland
 
-**职业代码：4413 – Coding, Proofreading and Related Clerks。**
+**Occupation code: 4413 (ISCO08)**
 
-Responsible for data coding, text proofreading, and document processing, typically working in office environments to support data management and quality control.
+Responsible for data encoding, text proofreading, and document processing, typically in an office environment, supporting data management and quality control.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 2年（高中） | —（免费公立教育） |
-| 相关职业证书 | 6个月 | $1,000~$3,000（课程费用） |
-| 学士学位 | 3-4年（本科） | $10,000~$25,000（年学费） |
+| High school diploma | 2 years (high school) | $0~$0 (Free public education) |
+| Relevant Professional Certificates | 6 months. | $1,000~$3,000 (Course fees) |
+| Bachelor's degree | 3-4 years (Bachelor's degree) | $10,000~$25,000 (Annual tuition fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数据录入技能证书 | 爱尔兰技能网络 | 可选 | 提升竞争力 |
-| 英语语言能力证明 | IELTS或同等 | 可选 | 非母语者需提供 |
-| 网络安全基础证书 | 相关机构 | 可选 | 处理敏感数据时有用 |
+| Data entry skills certificate | Skillnet Ireland | Optional | Boosting competitiveness |
+| English language proficiency proof | IELTS or equivalent | Optional | Non-native speakers must provide |
+| Certificate in Cybersecurity Fundamentals | Relevant institutions. | Optional | Useful when handling sensitive data |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。爱尔兰该职业就业前景稳定，受数字化转型推动，对数据准确性和文本质量的需求持续存在，但自动化可能影响低技能岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 1,500. Employment outlook for this occupation in Ireland is stable, driven by digital transformation; demand for data accuracy and text quality persists, but automation may affect low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径包括从初级文员晋升为高级校对员、数据管理专员，或转向内容管理、质量控制等领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Coders, proofreaders and related clerks face high automation risk; AI excels at data entry, basic proofreading and format checking, significantly reducing entry-level positions.
+
+Career progression includes moving from junior clerk to senior proofreader, data management specialist, or transitioning to content management, quality control, and related fields.
+
+**Tasks most exposed to AI:**
+
+- Data entry and coding
+- Basic spelling and grammar proofreading.
+- Document format standardization
+- Repetitive text check
+
+**Where AI augments the role:**
+
+- Complex proofreading and contextual analysis
+- Data quality monitoring and anomaly handling
+- AI output review and optimization
+- Multilingual proofreading and localization adaptation
+
+**Human moat:**
+
+- Complex context understanding and ambiguity resolution
+- Industry-specific knowledge (e.g., law, medicine).
+- Creative rewriting and style control
+- Ethical judgment and quality control decisions
+
+**Skills to build:**
+
+- Use of AI proofreading tools (e.g., Grammarly, Acrolinx)
+- Basic programming and automation scripts (Python)
+- Data analysis and quality assessment
+- Specialized knowledge in a specific field (e.g., law, medicine)
+- Prompt Engineering and AI Output Optimization
+- Project Management and Human-Machine Collaboration
+
+**Key growth areas:**
 
 - data management
 - quality control
@@ -63,68 +96,67 @@ Responsible for data coding, text proofreading, and document processing, typical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪不低于30000欧元的非紧缺职业，需雇主担保。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 通常不适用，除非职位与ICT相关且满足薪资要求。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪超过一般水平，通常不适用于此类文员岗位。 |
+| Subclass General Employment P (General Employment Permit) | For non-occupations in shortage with an annual salary of at least 30,000 euros, employer sponsorship required. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Usually not applicable unless the position is ICT-related and meets salary requirements. |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary above the average level, usually not applicable to such clerical positions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Coding, Proofreading and Related Clerks？**
-- 注重细节、耐心细致的人
-- 喜欢稳定办公环境的人
-- 具备基本计算机和语言能力的人
-
-**谁不适合学Coding, Proofreading and Related Clerks？**
-- 追求高薪和高成长性的人
-- 厌恶重复性工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- Someone who likes a stable office environment
+- People with basic computer and language skills
+
+**Who is not suited**
+- People pursuing high salary and high growth potential
+- People who dislike repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a coding proofreader in Ireland?**
+A: Average annual salary approximately €28,000-35,000, entry-level about €22,000, senior up to €45,000.
+
+**Q: Can foreigners apply for proofreading clerk jobs in Ireland?**
+A: Yes, but usually requires employer sponsorship for a general employment permit, and annual salary must be at least 30,000 euros.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, can be promoted to senior proofreader, data management specialist, or shift to quality control positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Coding, Proofreading and Related Clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for coding and proofreading clerks in Ireland?**
-答：The average annual salary is around €28,000-€35,000, with entry-level at €22,000 and senior up to €45,000.
-
-**问：Can foreigners apply for proofreading clerk jobs in Ireland?**
-答：Yes, but typically require employer sponsorship for a General Employment Permit with a salary of at least €30,000.
-
-**问：Are there promotion opportunities in this occupation?**
-答：Yes, you can advance to senior proofreader, data management specialist, or move into quality control roles.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

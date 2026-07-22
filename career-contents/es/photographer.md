@@ -1,62 +1,97 @@
-# Photographer（Photographer）职业分析 · ES
+# Photographer — career analysis · Spain
 
-**职业代码：3731 – Photographer。**
+**Occupation code: 3731 (CNO)**
 
-Photographers capture images of people, landscapes, products, or events using cameras and lighting equipment, then edit and produce high-quality photos.
+Photographers use cameras and lighting equipment to capture portraits, landscapes, commercial products, or news events, and through post-processing, they complete high-quality video works.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $500~$2,000（公立学校学费低廉，私立学校或材料费较高） |
-| 大学本科（Grado） | 4年（Grado） | $800~$3,000（公立大学每年学费，摄影或视听传播专业） |
-| 私立学院或研修班 | 1-2年 | $3,000~$12,000（专业摄影学院，如EFTI、IDEP等） |
+| Secondary Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $500~$2,000 (Public schools have low tuition fees, while private schools or material fees are higher) |
+| Undergraduate (Grado) | 4 years (Grado) | $800~$3,000 (Public universities charge annual tuition for majors in photography or audiovisual communication) |
+| Private colleges or training classes | 1-2 years | $3,000~$12,000 (Specialized photography schools, such as EFTI and IDEP) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior in Photography | 教育部认可的职业教育中心 | 可选 | 中等职业培训学历，非强制但利于就业 |
-| 大学本科学位（视听传播/美术） | 西班牙公立或私立大学 | 可选 | 学历非强制，但有助于建立专业声誉 |
-| 专业作品集（Portfolio） | 个人 | 必备 | 行业通行证，比学历更关键 |
+| Professional Portfolio | Personal | Required | Industry passes are more crucial than academic qualifications |
+| FP Grado Superior in Photography | A vocational education center recognized by the Ministry of Education | Optional | Secondary vocational training qualifications are not mandatory but beneficial for employment |
+| Bachelor's degree (Audiovisual Communication/Fine Arts) | Public or private universities in Spain | Optional | Academic qualifications are not mandatory, but they help build professional reputation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 42,000。西班牙摄影师就业市场受数字化转型驱动，商业摄影和社交媒体视觉内容需求增长，但竞争激烈。自由职业者需具备多技能和客户拓展能力。
+**Job demand: medium (★★½☆☆).** National workforce approx. 42,000. The Spanish photographer job market is driven by digital transformation, with growing demand for commercial photography and social media visual content, but competition is fierce. Freelancers need to possess multiple skills and client development abilities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$22,000 | 通常为自由职业或助理，收入不稳定 |
-| 中级（3-7年） | $22,000~$35,000 | 独立摄影师或工作室员工 |
-| 高级（7年以上） | $35,000~$55,000 | 知名摄影师或工作室主理人 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$22,000 | Usually freelancers or assistants, with unstable income |
+| Mid-level (3–7 years) | $22,000~$35,000 | Independent photographers or studio staff |
+| Senior (7+ years) | $35,000~$55,000 | Renowned photographer or studio owner |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 摄影师可从助理晋升为独立摄影师，或专注于婚纱、商业广告、时尚摄影等细分领域。经验丰富者可开设摄影工作室，或向视频导演、艺术总监转型。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Photographers face the dual impact of automation and AI-enhanced work: post-processing and basic shooting tasks may be replaced by AI, but abilities like creative planning and director-style communication are amplified by AI, requiring mastery of AI tools and enhanced artistic cultivation to balance risks.
+
+Photographers can advance from assistant to independent photographer, or focus on niche areas such as wedding dresses, commercial advertising, and fashion photography. Experienced individuals can open photography studios or transition to video directors or art directors.
+
+**Tasks most exposed to AI:**
+
+- Basic post-processing (such as color grading, photo editing, batch processing) has been replaced by AI software
+- Automated guided photography (such as ID photos and e-commerce product white background images) is now taken over by AI camera systems
+- Repetitive management tasks such as photo classification, tagging, and archiving are replaced by AI image recognition
+- Basic composition suggestions and exposure adjustments have been replaced by the camera's built-in AI assistance system
+
+**Where AI augments the role:**
+
+- Using AI to generate creative reference images and mood boards accelerates customer communication and creative ideation
+- Use AI enhancement tools for complex compositing and special effects creation to boost visual impact
+- Use AI to analyze shooting data (such as lighting and color) to optimize on-site decision-making
+- With AI automatic photo editing assistance, deliver quickly, freeing up time for artistic creation
+- Efficiently deliver and distribute works using AI-driven content management platforms
+
+**Human moat:**
+
+- Unique aesthetics and artistic styles cannot be fully replicated by algorithms
+- The ability to communicate deeply with clients and understand emotions and stories
+- On-site directing, the ability to mobilize characters' emotions and the ambient atmosphere
+- Cross-disciplinary creative integration (such as fashion, architecture, product design).
+- Ethical Decisions and Responsibilities (such as portrait rights, privacy protection)
+
+**Skills to build:**
+
+- Use AI post-production software (such as Adobe Sensei, Luminar Neo) for efficient workflows
+- Skills in film photography and video creation (such as lighting and camera work) to meet multimedia demands
+- Creative guidance and visual storytelling capabilities, combined with AI-generated content for secondary creation
+- Cross-media technologies (such as virtual production, 360° photography) and digital asset management
+- Customer relationship management and personal brand building, leveraging social media to expand influence
+- Learn basic programming or AI API calls to create customized tools
+
+**Key growth areas:**
 
 - commercial photography
 - social media content
@@ -65,66 +100,68 @@ Photographers capture images of people, landscapes, products, or events using ca
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（工作居留（受雇）） | 需获得西班牙公司聘用，合同满足最低薪资要求（约30,000欧元年薪），且公司证明职位无法在本地找到。 |
-| Subclass Cuenta propia（自雇工作居留） | 适合自由摄影师，需提交商业计划和财务证明，审批较严格。 |
-| Subclass Búsqueda de empleo（求职居留） | 毕业后允许在西班牙居留12个月寻找工作机会。 |
+| Subclass Cuenta ajena (Work Residence (Employment)) | Must be employed by a Spanish company, the contract meets minimum salary requirements (about 30,000 euros per year), and the company must prove the position cannot be found locally. |
+| Subclass Cuenta propia (Self-employed work residence) | Suitable for freelance photographers, requires submission of a business plan and financial proof, and the approval process is strict. |
+| Subclass Búsqueda de empleo (Job seeking, residence, and residence) | After graduation, you are allowed to stay in Spain for 12 months to look for job opportunities. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographer？**
-- 对视觉艺术有热情，具备审美和创意能力的人
-- 善于自我营销，能经营个人品牌和客户关系
-- 适应灵活工作时间和项目制收入模式
+**Who is suited**
+- Passionate about visual arts, with aesthetic and creative abilities
+- Skilled in self-marketing, able to manage personal brands and client relationships
+- Adapt to flexible working hours and project-based income models
 
-**谁不适合学Photographer？**
-- 寻求稳定固定薪资和朝九晚五工作模式
-- 不擅与人沟通和推销自己服务
+**Who is not suited**
+- Seek stable fixed salaries and a nine-to-five work schedule
+- Not good at communicating or promoting their services
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a Spanish photographer?**
+A: Junior photographers earn about 16,000-22,000 euros annually, intermediate photographers about 22,000-35,000 euros, and senior photographers up to 55,000 euros. Freelancers' income fluctuates greatly.
+
+**Q: How can foreign photographers legally work in Spain?**
+A: Usually, employer-sponsored stays are made through employment-based residence (Cuenta ajena) or self-employment residence (Cuenta propia), which require proof of local market irreplaceability and have higher thresholds.
+
+**Q: How can photographers enhance their competitiveness?**
+A: Build an excellent portfolio, master video shooting and post-production skills, be active on social media, accumulate client reputation, and consider obtaining FP or related university degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Photographer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for photographers in Spain?**
-答：Junior photographers earn €16,000-22,000 per year, mid-level €22,000-35,000, and senior up to €55,000. Freelancers face income variability.
-
-**问：How can foreign photographers work legally in Spain?**
-答：Typically via a work contract (Cuenta ajena) with sponsorship, or self-employment visa (Cuenta propia), proving local market need. High barriers.
-
-**问：How can photographers improve competitiveness?**
-答：Build a strong portfolio, learn video and post-production, be active on social media, gain client referrals, and consider FP or university degrees.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

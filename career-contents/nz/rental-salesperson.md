@@ -1,58 +1,90 @@
-# Rental Salesperson（Rental Salesperson）职业分析 · 新西兰
+# Rental Salesperson — career analysis · New Zealand
 
-**职业代码：621912 – Rental Salesperson。**
+**Occupation code: 621912 (ANZSCO)**
 
-Rental Salesperson provides rental services for vehicles, equipment, and accommodation, including consultation, quoting, contract signing and after-sales service. This occupation is eligible for AEWV and SMC but not on the Green List.
+Rental salespersons provide leasing services for vehicles, equipment, accommodation, etc., including consultation, quotations, contract signing, and after-sales service. This occupation can apply for residency through the Accredited Employer Work Visa (AEWV) or the Skilled Migrant Category (SMC), but is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常仅需NCEA Level 2或同等学历） |
-| 销售与客户服务证书 | 0.5年 | $2,000~$5,000（可选短期培训课程） |
+| High school graduation | 0 years | $0~$0 (Typically only requires NCEA Level 2 or equivalent) |
+| Sales and customer service certificate | 0.5 years | $2,000~$5,000 (Optional short-term training courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰驾照（Class 1） | NZ Transport Agency | 可选 | 如需租车业务则必须 |
-| 销售证书 | ServiceIQ | 可选 | 建议获得，提升竞争力 |
+| New Zealand driver's license (Class 1). | NZ Transport Agency | Optional | Required if offering vehicle rental services |
+| Sales certificate | ServiceIQ | Optional | Recommended to obtain for enhanced competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。新西兰旅游业和建筑业持续发展，推动租赁服务需求稳定增长。预计未来5年就业人数小幅增加，但竞争中等，特别是在热门地区如奥克兰。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. The continuous development of New Zealand's tourism and construction industries drives steady growth in rental service demand. Employment numbers are expected to increase slightly over the next 5 years, but competition is moderate, especially in popular areas like Auckland.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 约$24-$28/小时 |
-| 中级（3-6年） | $55,000~$65,000 | 约$28-$33/小时 |
-| 高级（6年以上） | $65,000~$80,000 | 含提成和奖金 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Approximately $24-$28 per hour |
+| Mid-level (3–6 years) | $55,000~$65,000 | Approximately $28-$33/hour |
+| Senior (6+ years) | $65,000~$80,000 | Including commission and bonuses |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级岗位可通过积累销售经验和客户群体晋升为高级销售顾问或门店经理。也可转向融资租赁、设备管理等专业领域，薪资提升明显。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Sales consultants' tasks like enquiries, quoting, and contract processing are easily automated by AI, but building client trust, complex negotiations, and on-site service still require humans—the profession has mixed prospects.
+
+Junior positions can advance to senior sales consultant or store manager by accumulating sales experience and client base. They can also transition to specialized fields like financial leasing or equipment management, with significant salary increases.
+
+**Tasks most exposed to AI:**
+
+- Automatically handles standard rental inquiries and quotes (e.g., vehicle, equipment quotes)
+- Generate and fill in rental contracts and invoices
+- Answer common tenancy clause questions via chatbot
+- Automatically send lease expiration reminders and renewal notices
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of customer rental history to provide personalized recommendations
+- AI optimises pricing strategies and adjusts rents in real time to boost conversion rates
+- AI automatically generates rental reports and customer feedback summaries, improving after-sales efficiency
+- AI provides virtual property viewings or car test drives to accelerate decisions
+
+**Human moat:**
+
+- Complex lease negotiations and customer objection handling (e.g., custom terms, compensation disputes)
+- Build long-term client relationships and trust, especially with high-end or corporate clients.
+- On-site equipment inspection and delivery acceptance (e.g., vehicles, heavy machinery)
+- Cross-departmental coordination (e.g., maintenance, insurance, logistics)
+
+**Skills to build:**
+
+- Learn to use CRM and AI-driven rental management platforms (e.g., Salesforce, Rentle)
+- Master negotiation and customer relationship management skills
+- Basic data analysis skills, understanding of AI pricing and recommendation logic
+- Learn to operate virtual reality (VR) presentation tools
+- Enhance cross-cultural communication and service skills (for NZ diverse clients)
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -61,67 +93,66 @@ Rental Salesperson provides rental services for vehicles, equipment, and accommo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 雇主认证后可担保工作3年，满足条件可转居民签 |
-| Subclass SMC（Skilled Migrant Category） | 需时薪达中位数（2024年$31.61/小时）或更高，EOI 6分制 |
+| Subclass AEWV (Accredited Employer Work Visa) | After employer sponsorship, can work for 3 years and apply for permanent residency if conditions met |
+| Subclass SMC (Skilled Migrant Category) | Requires hourly wage reaching the median ($31.61/hour in 2024) or higher, EOI 6-point system |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Rental Salesperson？**
-- 善于沟通和销售的人员
-- 对租赁行业有兴趣
-- 愿意从基础岗位做起
-
-**谁不适合学Rental Salesperson？**
-- 厌恶客户服务和销售指标
-- 希望快速获得高薪
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication and sales
+- Interest in the leasing industry
+- Willing to start from entry-level positions
+
+**Who is not suited**
+- Dislike of customer service and sales targets
+- Desire to quickly achieve high salary
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a rental salesperson?**
+A: Junior annual salary approx. NZD 48,000-55,000, intermediate NZD 55,000-65,000, senior up to NZD 80,000+ including commission.
+
+**Q: Can a rental salesperson immigrate through skilled migration?**
+A: Yes. Applications can be made through the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC). Requires a median hourly wage ($31.61/hour) or higher, with employer sponsorship.
+
+**Q: What are the job prospects for this occupation?**
+A: Demand is stable in tourism and construction industries, with moderate job opportunities. Competition is not fierce, but good sales skills and local experience are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Rental Salesperson的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Rental Salesperson?**
-答：Entry-level annual salary is about NZD 48,000-55,000, mid-level NZD 55,000-65,000, senior up to NZD 80,000+ including commission.
-
-**问：Can a Rental Salesperson immigrate through skilled migration?**
-答：Yes. Options include Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC). Requires hourly wage at median ($31.61/hr) or above, and employer sponsorship.
-
-**问：What is the job outlook for this occupation?**
-答：Stable demand from tourism and construction sectors. Moderate competition. Good sales skills and local experience are helpful.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

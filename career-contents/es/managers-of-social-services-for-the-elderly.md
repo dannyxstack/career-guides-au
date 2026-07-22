@@ -1,61 +1,97 @@
-# Managers of Social Services for the Elderly（Managers of Social Services for the Elderly）职业分析 · ES
+# Managers of Social Services for the Elderly — career analysis · Spain
 
-**职业代码：1324 – Managers of Social Services for the Elderly。**
+**Occupation code: 1324 (CNO)**
 
-Plan, organize, and manage social service programs for the elderly, including nursing homes, day care centers, and home care services.
+Responsible for planning, organizing, and managing social service projects for the elderly, including nursing homes, day care centers, and home care services.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学学费） |
-| 硕士Máster | 1-2年 | $1,500~$5,000（社会服务管理或老年学方向） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public university tuition) |
+| Master's degree in Máster | 1-2 years | $1,500~$5,000 (Social Service Management or Gerontology direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作或相关领域学士学位 | 西班牙大学 | 必备 | 通常所需 |
-| 社会服务管理硕士 | 西班牙大学 | 可选 | 提升竞争力 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学历需认证 |
+| Bachelor's degree in social work or a related field | Spanish University | Required | Usually required |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign qualifications need accreditation |
+| Master of Social Service Management | Spanish University | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 8,500。西班牙人口老龄化加剧，老年人社会服务需求持续增长，预计未来十年该职位需求将稳步上升。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 8,500. With Spain's aging population intensifying, the demand for social services among the elderly continues to grow, and demand for this position is expected to steadily increase over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 公立或小型私营机构 |
-| 中级（4-7年） | $35,000~$45,000 | 中型机构或部门主管 |
-| 高级（8年以上） | $45,000~$60,000 | 大型养老院或区域经理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $28,000~$35,000 | Public or small private institutions |
+| Mid-level (4-7 years) | $35,000~$45,000 | Medium-sized institutions or department heads |
+| Senior (8+ years) | $45,000~$60,000 | Large nursing home or regional managers |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 可从养老院主管晋升为区域服务经理或社会服务总监，或转向老年护理咨询和政策制定。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
+
+Elder care supervisors can be promoted to regional service managers or social services directors, or transition to aged care consulting and policy formulation.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating operational reports, compliance documents, and KPI dashboards
+- Using AI for Social/Medical Insurance Claims Review and Anomaly Alerts
+- AI-optimized shift scheduling systems reduce manual scheduling workload
+- Transcribing and organising meeting minutes and action items via voice AI
+- Automatically monitor budget expenditure deviations and generate warning notifications
+
+**Where AI augments the role:**
+
+- AI analyzing patient flow and resource gaps to assist department budgeting and workforce planning
+- Utilizing predictive models to optimize long-term care needs and resource allocation
+- AI-assisted review of policy changes' impact on institutional compliance, providing compliance risk scores
+- Analyze employee feedback and satisfaction surveys via NLP to assist team management decisions
+- AI automatically matches patients/clients with available service resources to improve service coordination efficiency
+
+**Human moat:**
+
+- Face-to-face family communication, team motivation, and conflict mediation
+- Making final decisions in complex ethical and legal situations
+- Handling Unstructured Crises (e.g., Sudden Outbreaks, Casualties)
+- Establish and maintain cross-agency collaboration networks and trust relationships
+- Judging and refining AI suggestions based on organizational culture and values
+
+**Skills to build:**
+
+- Data analysis and visualization (Tableau, Power BI)
+- Medical/social insurance policy knowledge and compliance management
+- AI tool applications (ChatGPT, Copilot, low-code platforms)
+- Change management and organizational psychology
+- Basic programming skills (Python/R for automated reporting)
+- Interpersonal communication and conflict resolution skills
+
+**Key growth areas:**
 
 - Aging population
 - Increased demand for elderly care
@@ -64,69 +100,68 @@ Plan, organize, and manage social service programs for the elderly, including nu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visas (General Regime)） | 由西班牙雇主提供工作合同，办理受雇工作居留，需证明职位无法由本地人填补。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 高学历（硕士以上）及高薪（年薪约3.5万欧以上）可申请，流程较快。 |
-| Subclass Busqueda empleo（Job Search Visa） | 毕业后可申请居留寻找工作，有效期12个月。 |
+| Subclass Cuenta ajena (Work Contract Visas (General Regime)) | A work contract provided by a Spanish employer to apply for employment residency requires proof that the position cannot be filled by a local resident. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | High education (master's or above) and high salary (approx. €35,000+ per year) can apply, faster process. |
+| Subclass Busqueda empleo (Job Search Visa) | After graduation, you can apply for a residence permit to look for work, valid for 12 months. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers of Social Services for the Elderly？**
-- 有社会服务或护理背景，热衷于改善老年人生活质量的人
-- 具备管理和沟通能力，能协调多学科团队的人
-- 愿意在养老机构或社区环境中工作的人
-
-**谁不适合学Managers of Social Services for the Elderly？**
-- 不喜欢与老年人长期互动或处理复杂照护问题的人
-- 对行政管理和预算编制缺乏兴趣的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with backgrounds in social services or nursing who are passionate about improving the quality of life for the elderly
+- Individuals with management and communication skills who can coordinate multidisciplinary teams
+- People willing to work in nursing facilities or community settings
+
+**Who is not suited**
+- People who dislike long-term interactions with elderly people or dealing with complex caregiving issues
+- People who lack interest in administrative management and budgeting
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this profession in Spain?**
+A: The junior salary is about 28,000-35,000 euros per year, the intermediate 35,000-45,000 euros, and the senior level up to 60,000 euros. Salary depends on the type, size, and experience of the institution.
+
+**Q: How can foreigners immigrate to Spain through this profession?**
+A: You can apply for employment residence (Cuenta ajena) through a work contract, or apply for a highly skilled worker visa (Ley 14/2013) with a master's degree and high salary. Foreign degrees must first be certified by the Spanish Ministry of Education (Homologación).
+
+**Q: What educational background is required?**
+A: A bachelor's degree in social work, psychology, or a related field (4 years) is usually required, with a master's degree in social service management (1-2 years) being preferred. Additionally, FP Advanced Training (Social Integration) is also available for entry-level but with limited promotion opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Managers of Social Services for the Elderly为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this profession in Spain?**
-答：Entry-level annual salary is around €28,000-€35,000, mid-level €35,000-€45,000, senior up to €60,000. Depends on institution type, size and experience.
-
-**问：How can foreigners immigrate to Spain through this profession?**
-答：Apply for a work contract visa (Cuenta ajena) or a Highly Qualified Professional visa (Ley 14/2013) with a master's degree and high salary. Foreign degrees require Homologación.
-
-**问：What educational background is required?**
-答：Typically a bachelor's in social work, psychology or related field (4 years). A master's in social service management (1-2 years) is preferred. FP Higher-Level (Social Integration) can be entry-level but limited advancement.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

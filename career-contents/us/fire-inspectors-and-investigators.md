@@ -1,62 +1,96 @@
-# Fire Inspectors and Investigators（Fire Inspectors and Investigators）职业分析 · 美国
+# Fire Inspectors and Investigators — career analysis · United States
 
-**职业代码：33-2021 – Fire Inspectors and Investigators。**
+**Occupation code: 33-2021 (SOC)**
 
-Inspect buildings for fire hazards, enforce local ordinances and state laws, or investigate fires and explosions to determine their causes and gather evidence.
+Responsible for inspecting buildings for fire hazards, enforcing local and state fire codes, or investigating fire and explosion causes, collecting evidence to determine the origin.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 副学士学位（消防科学相关） | 2年 | $5,000~$20,000（社区学院费用） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree (in fire science or related) | 2 years | $5,000~$20,000 (Community college costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 消防检查员认证 | 国家消防协会（NFPA）或州级机构 | 必备 | 多数州要求通过考试获得认证 |
-| 火灾调查员认证 | 国家消防协会（NFPA） | 必备 | 需完成培训课程并通过考试 |
-| 灭火资格认证 | 州级消防机构 | 可选 | 部分职位要求具备消防员经验 |
-| 驾驶证 | 州机动车辆管理局 | 必备 | 因需前往现场检查或调查 |
+| Fire inspector certification | National Fire Protection Association (NFPA) or state-level agencies | Required | Most states require passing an exam for certification |
+| Fire Investigator Certification | National Fire Protection Association (NFPA) | Required | Must complete training courses and pass exams |
+| Driving license | State motor vehicle department | Required | Due to need to go to site for inspection or investigation |
+| Fire extinguisher certification | State fire agencies | Optional | Some positions require firefighter experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 13,200。美国劳工统计局预测2023-2033年就业增长约5%，与平均水平相当。随着建筑法规加强和公共安全意识提高，需求稳定。政府预算波动可能影响招聘。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 13,200. The U.S. Bureau of Labor Statistics projects employment growth of about 5% from 2023 to 2033, similar to the average. Demand is stable due to stricter building codes and increased public safety awareness. Government budget fluctuations may affect hiring.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $41,000~$53,000 | 通常为消防员转岗或新人 |
-| 中级（4-10年） | $54,000~$72,000 | 有一定经验及认证 |
-| 高级（10年以上） | $73,000~$95,000 | 首席调查员或管理层 |
+| Median salary | $75,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $41,000~$53,000 | Usually transferred from firefighter roles or new hires |
+| Mid-level (4-10 years). | $54,000~$72,000 | Some experience and certification required |
+| Senior (10+ years) | $73,000~$95,000 | Chief investigator or management level |
+| average salary | $78,670 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业晋升通常从消防员转岗开始，积累经验后可升任首席调查员或消防队长。部分人员进入私营部门担任安全顾问，或从事消防工程相关领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
+
+Career progression typically starts with a firefighter transfer; after gaining experience, one can become a chief investigator or fire captain. Some move to the private sector as safety consultants or work in fire engineering.
+
+**Tasks most exposed to AI:**
+
+- Fire dispatch and resource allocation (AI-optimized routing)
+- Wildfire spread prediction and risk assessment (AI models)
+- Fire equipment maintenance monitoring (IoT sensors + AI)
+- Routine fire report writing (natural language generation)
+
+**Where AI augments the role:**
+
+- Real-time firefighting tactical decision-making (AI provides optimal solutions)
+- Drone thermal imaging reconnaissance of fire scenes
+- Smart Wearable Devices to Monitor Firefighters' Vital Signs
+- Virtual reality (VR) simulation training for disaster scenarios
+
+**Human moat:**
+
+- Complex decision-making and rescue in high-temperature, heavy smoke, and collapse environments
+- Direct communication and calming of panicked crowds
+- On-site first aid and medical judgment (casualty triage)
+- Team collaboration and command authority (human trust)
+- Ethics and courage when facing unknown dangers
+
+**Skills to build:**
+
+- Drone operation and thermal imaging analysis
+- Emergency command system (CAD/ICS) operation
+- Fire modelling and prediction tools (e.g., FARSITE)
+- Basic data analysis and report interpretation
+- Mental health and stress management training
+- Use and interpretation of smart wearable devices
+
+**Key growth areas:**
 
 - Fire prevention
 - Public safety
@@ -65,66 +99,68 @@ Inspect buildings for fire hazards, enforce local ordinances and state laws, or 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要学士学位，但消防检查员通常不满足专业职业要求，较少使用 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Employment-Based Green Card） | 雇主需证明无法招聘到合格美国工人，但政府职位通常不对外国人开放 |
-| Subclass O-1（O-1 Extraordinary Ability） | 极少适用，除非在消防领域有突出成就 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree, but fire inspectors often do not meet professional occupation requirements and are less commonly used |
+| Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based Green Card) | Employers must demonstrate inability to hire qualified US workers, but government positions are usually not open to foreigners. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Rarely applicable, unless outstanding achievements in firefighting |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fire Inspectors and Investigators？**
-- 注重公共安全、喜欢户外工作的人
-- 善于观察、有耐性进行现场调查的人
-- 有消防背景或相关经验的人
+**Who is suited**
+- People who value public safety and enjoy outdoor work
+- People who are observant and patient with on-site investigations
+- People with firefighting background or relevant experience
 
-**谁不适合学Fire Inspectors and Investigators？**
-- 抗拒危险环境和体力劳动的人
-- 不擅长文书工作和报告撰写的人
+**Who is not suited**
+- People who resist dangerous environments and physical labor
+- Those who are not good at paperwork and report writing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for fire inspectors?**
+A: According to BLS data, the median annual salary in 2023 was about $64,000, entry-level around $40,000-50,000, and senior up to $95,000. Salaries are affected by location, experience, and certifications.
+
+**Q: What are the feasible pathways for a fire inspector to immigrate to the United States?**
+A: This occupation is typically employed by local government and requires US citizenship or permanent residency, so skilled migration pathways are very limited. Very few private security consulting firms may offer H-1B, but it's extremely difficult.
+
+**Q: Are there other countries where it's easier to immigrate as a fire inspector?**
+A: Australia and Canada have greater demand for fire inspectors, and their skilled migration policies are relatively friendly. For example, Australia lists this occupation on the MLTSSL, allowing immigration via 189/190 visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Fire Inspectors and Investigators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of fire inspectors?**
-答：According to BLS, the median annual wage in 2023 is about $64,000, with entry-level around $40,000-$50,000 and senior up to $95,000, depending on location, experience, and certifications.
-
-**问：What are the feasible immigration pathways for fire inspectors to the US?**
-答：This occupation is typically employed by local governments, requiring US citizenship or permanent residency. Technical immigration paths are very limited; rare private consulting firms may sponsor H-1B, but it's extremely difficult.
-
-**问：Are there other countries with easier immigration for fire inspectors?**
-答：Australia and Canada have higher demand and friendlier immigration policies. For example, Australia lists this occupation on the MLTSSL, allowing migration via 189/190 visas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

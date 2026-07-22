@@ -1,61 +1,96 @@
-# Embalmers（Embalmers）职业分析 · 美国
+# Embalmers — career analysis · United States
 
-**职业代码：39-4011 – Embalmers。**
+**Occupation code: 39-4011 (SOC)**
 
-Prepare deceased bodies for burial or cremation, including embalming, cosmetics, and dressing, ensuring legal compliance and dignified presentation for viewings.
+Process the body by embalming, makeup, and dressing to ensure legal compliance and present a dignified appearance for family farewells.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院或殡葬科学项目学费） |
-| 学士学位 | 4年 | $30,000~$80,000（部分大学提供殡葬科学学士，费用较高） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college or mortuary science program tuition fees) |
+| Bachelor's degree | 4 years | $30,000~$80,000 (Some universities offer a Bachelor's in Mortuary Science, which is costly.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州殡葬师执照 | 各州殡葬委员会 | 必备 | 需通过国家委员会考试（NBE）及州法考试 |
-| 殡葬科学学位 | ABFSE认证院校 | 必备 | 通常为2年制副学士或4年制学士 |
-| 学徒培训 | 持证殡葬师指导 | 必备 | 1-3年带薪学徒，积累实操经验 |
+| State funeral director license | State funeral boards | Required | Must pass the National Board Examination (NBE) and state law exam |
+| Funeral Science degree | ABFSE-accredited schools | Required | typically 2-year associate degree or 4-year bachelor's degree |
+| Apprenticeship training | Guidance from a licensed funeral director | Required | 1-3 year paid apprenticeship to gain hands-on experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 9,200。美国殡葬行业预计增长缓慢（约4%），但受人口老龄化推动，需求稳定。大城市竞争激烈，乡村地区机会较多。
+**Job demand: medium (★★★☆☆).** National workforce approx. 9,200. The U.S. funeral industry is expected to grow slowly (about 4%), but demand remains stable due to an aging population. Competition is fierce in big cities, while rural areas offer more opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$45,000 | 起始薪资较低，乡村地区可能更低 |
-| 中级（4-10年） | $46,000~$65,000 | 持有执照后薪资上升 |
-| 高级（10年以上） | $66,000~$90,000 | 管理岗位或自有殡仪馆薪资更高 |
+| Median salary | $58,780 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$45,000 | Starting salary is low, possibly lower in rural areas |
+| Mid-level (4-10 years). | $46,000~$65,000 | Salary increases after obtaining license |
+| Senior (10+ years) | $66,000~$90,000 | Management roles or owning a funeral home offer higher pay |
+| average salary | $58,390 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定但增长慢（★★☆☆☆）。** 通常从学徒或助理做起，积累经验后考取州执照，可晋升为殡仪馆主管或独立经营殡仪馆。持续进修新防腐技术。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Procedural tasks like embalming and cosmetology are easily automated by AI, but core aspects like ritual, emotional support, and family communication require human empathy and judgment; overall risk is medium to low.
+
+Typically start as an apprentice or assistant, gain experience, obtain a state license, and can advance to funeral home director or independent funeral home owner. Continual learning of new embalming techniques.
+
+**Tasks most exposed to AI:**
+
+- Automated anti-corrosion injection and medication dosing (AI-controlled injection system)
+- AI generates standard mourning makeup templates and guides robots to apply makeup
+- Automated editing and effect rendering of online farewell videos
+- Automated body dressing and cosmetic restoration (3D scanning + robotic arm)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of body damage to recommend optimal restoration methods
+- Augmented Reality (AR) assists families in virtual body farewells
+- Using AI for customer sentiment analysis to optimise communication scripts
+- AI-generated obituary templates and personalized memorial videos
+- Smart system managing preservation environment and inventory
+
+**Human moat:**
+
+- Deep emotional communication and psychological counseling with grieving families
+- Personalized funeral planning and ceremony creation
+- Aesthetic and manual skills for complex body restoration (special damage, decomposition)
+- Flexibly handling and respecting cross-cultural religious customs
+- Psychological resilience and ethical decision-making in death scenarios
+
+**Skills to build:**
+
+- Master new embalming and restoration technologies (3D printing, biological gels)
+- Learn AI-assisted tools (AR/VR farewell software, affective computing)
+- Enhance grief counseling and crisis communication skills
+- Learn basic digital image editing (e.g., memorial video production)
+- Master data management (body tracking, inventory automation)
+- Continuously learn regulations and ethics (digital remains, data privacy)
+
+**Key growth areas:**
 
 - Stable Demand
 - Aging Population
@@ -64,66 +99,68 @@ Prepare deceased bodies for burial or cremation, including embalming, cosmetics,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极难申请，因非典型专业职业，拒签率高。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需PERM劳工证，雇主担保难度大，很少用于此职业。 |
-| Subclass Green Card (PERM)（Green Card (PERM)） | 几乎无雇主愿意担保，移民路径不现实。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Extremely difficult to apply due to atypical professional occupation, high rejection rate. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification; employer sponsorship is difficult and rarely used for this occupation. |
+| Subclass Green Card (PERM) (Green Card (PERM)) | Almost no employers willing to sponsor, immigration path unrealistic. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Embalmers？**
-- 对死亡有正确认知且心理承受力强的人
-- 注重细节、手巧且有条理的人
-- 愿意与悲伤家属共情并提供安慰的人
+**Who is suited**
+- People with proper understanding of death and strong psychological resilience
+- Detail-oriented, handy, and organized people
+- Someone willing to empathize with and comfort grieving families
 
-**谁不适合学Embalmers？**
-- 对死亡或血腥场景有强烈不适的人
-- 追求高薪或快速移民的人
+**Who is not suited**
+- Those with strong aversion to death or bloody scenes
+- Those seeking high salary or fast immigration.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for funeral directors?**
+A: US mortician median annual salary about $50,000, entry-level $30,000-40,000, senior up to $90,000, but overall lower than many professional occupations.
+
+**Q: Can international students immigrate to the US through this occupation?**
+A: Almost impossible. This occupation has a high H-1B rejection rate, employers are reluctant to sponsor green cards, and there is no independent immigration pathway.
+
+**Q: What steps are required to become a licensed funeral director?**
+A: Must complete an ABFSE-accredited mortuary science programme (usually 2 years), pass the National Board Exam (NBE), complete 1-3 years of apprenticeship, and apply for a state license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定但增长慢（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Embalmers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for embalmers?**
-答：Median annual wage around $50,000; entry-level $32,000-$45,000; experienced up to $90,000.
-
-**问：Can international workers obtain a US work visa as an embalmer?**
-答：Extremely difficult. H-1B rarely granted, employers seldom sponsor green cards.
-
-**问：What steps are required to become a licensed embalmer?**
-答：Complete an ABFSE-accredited program (usually 2 years), pass the National Board Exam (NBE), finish 1-3 years of apprenticeship, and obtain state license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

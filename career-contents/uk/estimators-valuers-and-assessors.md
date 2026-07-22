@@ -1,60 +1,93 @@
-# Estimators, valuers and assessors（Estimators, valuers and assessors）职业分析 · UK
+# Estimators, valuers and assessors — career analysis · United Kingdom
 
-**职业代码：3541 – Estimators, valuers and assessors。**
+**Occupation code: 3541 (SOC)**
 
-Estimators, valuers and assessors calculate probable costs for civil, mechanical, electrical and other projects, estimate property and chattel values, and investigate insurance claims to assess validity and assign liability.
+Estimators, valuers, and insurance assessors calculate potential costs for civil, mechanical, electrical, and other projects, evaluate real estate and movable property values, and investigate insurance claims to determine validity and liability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $20,000~$15,000（国际学生年学费约15000-20000英镑） |
-| 研究生文凭/硕士 | 1年 | $18,000~$25,000（国际学生总学费约18000-25000英镑） |
-| 学徒制 | 3-5年 | —（雇主资助，无需学费） |
+| Bachelor's degree | 3 years | $20,000~$15,000 (International student annual tuition approximately 15,000-20,000 GBP) |
+| Postgraduate diploma/master's | 1 year | $18,000~$25,000 (Total tuition for international students is approximately £18,000–£25,000.) |
+| Apprenticeship | 3-5 years | $0~$0 (Employer-sponsored, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英国皇家特许测量师学会会员 | RICS | 必备 | 专业资格，通常需相关学位及2年经验 |
-| 特许保险学会会员 | CII | 可选 | 针对保险评估方向，可选 |
-| 建筑行业培训委员会认证 | CITB | 可选 | 建筑相关岗位推荐 |
+| Royal Institution of Chartered Surveyors (RICS) member | RICS | Required | Professional qualification, usually requires a relevant degree and 2 years of experience. |
+| Chartered Insurance Institute Fellow | CII | Optional | Optional, for insurance assessment direction |
+| Construction Industry Training Board accreditation | CITB | Optional | Recommended construction-related positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 95,000。受英国基础设施投资、房地产市场波动及保险业需求驱动，该职业就业前景稳定。未来十年预计增长约5%，主要集中在建筑估价和保险理赔领域。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 95,000. Driven by UK infrastructure investment, property market fluctuations, and insurance demand, this occupation has stable employment prospects. Expected growth of about 5% over the next decade, mainly in building estimation and insurance claims.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 伦敦地区略高 |
-| 中级（3-7年） | $35,000~$50,000 | CITB认证后薪资提升 |
-| 高级（7年以上） | $50,000~$75,000 | RICS特许会员可达更高 |
+| Median salary | $39,634 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Slightly higher in London area |
+| Mid-level (3–7 years) | $35,000~$50,000 | Salary increase after CITB certification |
+| Senior (7+ years) | $50,000~$75,000 | RICS chartered membership can lead to higher levels |
+| average salary | $48,046 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级估算师或见习估价师可积累经验后晋升为高级估算师、首席估价师或部门经理。部分转向项目管理或成为独立顾问。特许资质（如RICS）可加速职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
+
+Junior estimator or trainee valuer can gain experience and advance to senior estimator, chief valuer or department manager. Some move into project management or become independent consultants. Chartered status (e.g. RICS) can accelerate career development.
+
+**Tasks most exposed to AI:**
+
+- Automatic calculation of land boundary coordinates and drawing generation (AI+GPS+remote sensing)
+- Automated building code compliance review (NLP comparing regulatory databases)
+- Automated bill of quantities extraction and cost estimation (AI parsing BIM models)
+- Automated as-built scanning and deviation report generation (drones + point cloud processing)
+
+**Where AI augments the role:**
+
+- AI-assisted field survey: real-time 3D terrain generation from LiDAR point clouds for improved efficiency
+- Smart contract management: AI analyzes historical dispute data to flag risky clauses
+- Automated regulatory updates and impact assessment: AI tracks legislative changes and links them to projects under review
+- Building material price prediction: machine learning models optimize cost estimation accuracy
+
+**Human moat:**
+
+- On-site signing and legal liability (registered surveyor regulatory requirements)
+- Multi-party interest coordination and arbitration (communication with developers, government, community)
+- On-Site Judgment of Complex Boundary/Property Disputes (Relying on Experience and Legal Interpretation)
+- Adaptability to Unforeseen On-Site Conditions (e.g., Underground Obstacles)
+
+**Skills to build:**
+
+- Drone aerial survey and LiDAR data processing
+- BIM and automated modeling tools (e.g., Revit, Civil 3D)
+- Python/R programming for automated reporting and data analysis
+- Application of AI compliance review tools (e.g., automatic building code checks)
+- Digital twin platform integration and management
+- Contract management and dispute mediation skills
+
+**Key growth areas:**
 
 - Construction
 - Real Estate
@@ -63,68 +96,67 @@ Estimators, valuers and assessors calculate probable costs for civil, mechanical
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的估算师/估价师，需满足薪资门槛（通常不低于£26,200） |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于高增长企业担保的职员，需年薪至少£33,000 |
-| Subclass Graduate（Graduate Visa） | 英国应届毕业生可工作2年（博士3年），无需担保 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to estimators/valuers with employer sponsorship, meeting the salary threshold (usually no less than £26,200). |
+| Subclass Scale-up (Scale-up Worker Visa) | Applicable to employees sponsored by high-growth companies, requiring an annual salary of at least £33,000 |
+| Subclass Graduate (Graduate Visa) | UK graduates can work for 2 years (PhD 3 years) without sponsorship |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Estimators, valuers and assessors？**
-- 擅长数学和数据分析的人
-- 细致严谨、有商业头脑的人
-- 愿意考取专业资格（如RICS）的人
-
-**谁不适合学Estimators, valuers and assessors？**
-- 不喜欢频繁与客户沟通的人
-- 难以承受截止日期压力的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those good at math and data analysis
+- Someone meticulous, rigorous, and business-savvy
+- People willing to pursue professional qualifications (e.g., RICS)
+
+**Who is not suited**
+- People who dislike frequent communication with clients
+- People who cannot handle deadline pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an estimator?**
+A: Junior quantity surveyor annual salary approx. £25,000–35,000, mid-level approx. £35,000–50,000, senior up to £50,000–75,000, but regional variations apply.
+
+**Q: Can an estimator immigrate to the UK via the Skilled Worker visa?**
+A: Yes. The position must be on the eligible occupation list, requires employer sponsorship, and salary must be at least £26,200 (or industry standard). Holding chartered status like RICS is advantageous.
+
+**Q: What professional qualifications are required for this occupation?**
+A: RICS (Royal Institution of Chartered Surveyors) membership is most critical, typically requiring a relevant degree plus 2 years of work experience. For insurance roles, consider obtaining a CII qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Estimators, valuers and assessors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for estimators?**
-答：Entry-level estimators earn £25,000-£35,000, mid-level £35,000-£50,000, and senior up to £50,000-£75,000, varying by region.
-
-**问：Can estimators migrate to the UK via the Skilled Worker visa?**
-答：Yes. The occupation is eligible for sponsorship; you need a job offer meeting the salary threshold (usually £26,200). RICS accreditation helps.
-
-**问：What qualifications are needed for this role?**
-答：RICS membership is key, requiring a relevant degree and 2 years experience. For insurance, CII membership is beneficial.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

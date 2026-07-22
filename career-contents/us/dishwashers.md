@@ -1,58 +1,92 @@
-# Dishwashers（Dishwashers）职业分析 · 美国
+# Dishwashers — career analysis · United States
 
-**职业代码：35-9021 – Dishwashers。**
+**Occupation code: 35-9021 (SOC)**
 
-Clean dishes, kitchen, food preparation equipment, or utensils. Entry-level job in restaurants, hotels, and cafeterias; no experience required.
+Wash dishes, kitchen, food preparation equipment or utensils, usually working in restaurants, hotels, cafeterias, etc. Entry-level position, no experience required.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 无需正规教育 | 0年 | —（通常只需在职培训） |
+| No formal education required | 0 years | $0~$0 (Typically requires only on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 州卫生部门或认证机构 | 可选 | 部分州或雇主可能要求持有食品安全证书 |
+| Food safety certificate | State health department or certification body | Optional | Some states or employers may require a food safety certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 485,300。据BLS数据，2023-2033年洗碗工岗位预计增长约2%，增速低于平均水平。由于行业流动性高，每年仍有大量职位空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 485,300. According to BLS data, dishwasher jobs are projected to grow about 2% from 2023-2033, slower than average. Due to high industry turnover, there are still many annual openings.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$29,000 | 通常最低工资或略高 |
-| 中级（3-5年） | $28,000~$33,000 | 经验积累后薪资微增 |
-| 高级（5年以上） | $30,000~$37,000 | 极少晋升，薪资增长有限 |
+| Median salary | $34,810 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$29,000 | Usually minimum wage or slightly higher |
+| Mid-level (3–5 years) | $28,000~$33,000 | Salary increases slightly after gaining experience |
+| Senior (5+ years) | $30,000~$37,000 | Rare promotion opportunities, limited salary growth |
+| average salary | $34,310 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 晋升路径有限，通常可晋升为厨房帮工或厨师助理，少数可成为厨师。部分人转行至餐饮管理或其他服务行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Dishwasher roles will be largely replaced by automated dishwashers and AI scheduling systems; entry-level cook positions will also be squeezed, but management roles like food service supervisors and head chefs remain stable.
+
+Limited career progression; usually can advance to kitchen hand or chef's assistant, with a few becoming chefs. Some transition to food service management or other service industries.
+
+**Tasks most exposed to AI:**
+
+- Manual dishwashing: fully replaced by commercial dishwashers
+- Classifying and placing cutlery: automated conveyor belts and sorting systems take over
+- Clean kitchen equipment: high-pressure water guns and timed automatic cleaning robots
+- Record cleaning logs: AI automatically generates and reports
+- Basic floor cleaning: automated scrubber robots replace
+
+**Where AI augments the role:**
+
+- Equipment maintenance monitoring: AI sensors predict failures, humans perform repairs
+- Exception handling: when dishwasher malfunction alarms, manual judgment and intervention
+- Chemical management: AI recommends usage, humans replenish and adjust
+- Peak scheduling: AI dynamically arranges shifts based on passenger flow, manual rest and rotation
+
+**Human moat:**
+
+- Complex equipment fault repair
+- Food safety compliance assessment (e.g., chemical residue testing)
+- Emergency situation handling (e.g., injuries from broken tableware)
+- Teamwork and communication skills
+
+**Skills to build:**
+
+- Basic electrical and mechanical repair
+- Food safety and hygiene certification
+- Digital tool usage (tablet scheduling, repair reporting systems)
+- Communication and teamwork.
+- Basic English (reading equipment manuals)
+- Time management and problem solving
+
+**Key growth areas:**
 
 - Low growth
 - High turnover
@@ -61,65 +95,67 @@ Clean dishes, kitchen, food preparation equipment, or utensils. Entry-level job 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性雇主可申请H-2B签证雇佣临时洗碗工，但需证明劳动力短缺。 |
-| Subclass Green Card (PERM)（Permanent Labor Certification） | 通过PERM劳工证申请绿卡，但因低技能要求，通常难以获得批准。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal employers can apply for H-2B visas to hire temporary dishwashers, but must demonstrate labor shortages. |
+| Subclass Green Card (PERM) (Permanent Labor Certification) | Green card application via PERM labor certification, but due to low skill requirements, approval is typically difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dishwashers？**
-- 希望快速就业且无需学历者
-- 能适应体力劳动和长时间站立者
-- 作为过渡性工作或兼职的学生
+**Who is suited**
+- Those who want quick employment and do not require a degree.
+- Those who can handle physical labor and prolonged standing
+- Students using it as transitional work or part-time job
 
-**谁不适合学Dishwashers？**
-- 追求高薪和职业发展者
-- 厌恶体力劳动和高温潮湿环境者
+**Who is not suited**
+- Those seeking high salary and career development
+- Those who dislike physical labor and hot, humid environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a dishwasher?**
+A: Annual salary typically between $24,000 and $37,000, depending on region and employer. Most jobs pay minimum wage.
+
+**Q: Can dishwashers obtain a US green card through skilled migration pathways?**
+A: Almost impossible. Dishwashers are low-skilled occupations that typically do not meet H-1B or EB-2/EB-3 green card requirements. There may only be a few seasonal H-2B visa opportunities.
+
+**Q: Are there career advancement opportunities for dishwashers?**
+A: Limited career growth, but can advance to cook assistant or cook, some transition to food service management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极短（½☆☆☆☆） |
-| 学习难度 | 极低（½☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 极低（½☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Dishwashers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for dishwashers?**
-答：Annual salary ranges from $24,000 to $37,000, depending on location and employer. Most positions pay minimum wage.
-
-**问：Can dishwashers get a US green card through skilled migration?**
-答：Highly unlikely. Dishwasher is a low-skilled occupation, generally not eligible for H-1B or EB-2/EB-3 green cards. Only limited seasonal H-2B visas may apply.
-
-**问：Are there career advancement opportunities for dishwashers?**
-答：Limited, but can advance to kitchen assistant or cook; some transition to food service management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

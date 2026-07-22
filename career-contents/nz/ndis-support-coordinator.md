@@ -1,58 +1,93 @@
-# NDIS Support Coordinator（NDIS Support Coordinator）职业分析 · 新西兰
+# NDIS Support Coordinator — career analysis · New Zealand
 
-**职业代码：411716 – NDIS Support Coordinator。**
+**Occupation code: 411716 (ANZSCO)**
 
-NDIS Support Coordinators help disabled participants implement their NDIS plans in Australia. In New Zealand, this role does not exist as a distinct occupation and is not eligible for skilled migration.
+NDIS support coordinators assist people with disabilities in Australia in understanding and implementing NDIS plans, but there is no equivalent occupation in New Zealand, and it is not on the skilled migration occupation list.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 无相关本地要求 | N/A | —（新西兰不认可此职业） |
+| No relevant local requirements | N/A | $0~$0 (New Zealand does not recognize this occupation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无需新西兰认证 | N/A | 可选 | 该职业在新西兰无对应注册要求 |
+| No New Zealand certification required | N/A | Optional | This occupation has no corresponding registration requirement in New Zealand |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极低（½☆☆☆☆）。** 全国从业人数约 —。由于 NDIS 是澳洲特有体系，新西兰没有类似计划，因此该职业在新西兰无就业市场。相关支持工作者通常归入社区工作者类别。
+**Job demand: very low (½☆☆☆☆).** National workforce approx. —. Since NDIS is unique to Australia and New Zealand has no similar scheme, this occupation has no job market in New Zealand. Related support workers are typically classified under community workers.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | —~— | 无本地数据 |
-| 中级（4-7年） | —~— | 无本地数据 |
-| 高级（8年以上） | —~— | 无本地数据 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $0 | No local data |
+| Mid-level (4-7 years) | $0 | No local data |
+| Senior (8+ years) | $0 | No local data |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极低（½☆☆☆☆）。** 在新西兰，残障支持领域可转向社区支持工作者或残疾服务经理，但 NDIS 协调员技能不直接适用。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: very low (½☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+NDIS support coordinators will not be replaced by AI; instead, AI tools (e.g. automated document processing, data analysis, service matching) will amplify their capabilities and efficiency. However, continuous learning of digital tools is needed to stay competitive.
+
+In New Zealand, the disability support field can transition to community support worker or disability service manager, but NDIS coordinator skills are not directly transferable.
+
+**Tasks most exposed to AI:**
+
+- Preliminary sorting and filing of plan documents
+- Standardized Query and Matching of Service Provider Information
+- Automatic generation of routine progress reports
+- Tracking and alerts for budget usage
+
+**Where AI augments the role:**
+
+- Using AI to analyze participant needs and recommend personalized service packages
+- Quickly summarizing meeting minutes and action plans using natural language processing
+- Using predictive models to identify potential crises (e.g., fund depletion) and intervene early
+- Communicate with non-English speaking participants using AI translation tools
+- Automated scheduling and reminders to reduce omissions
+
+**Human moat:**
+
+- Interpersonal communication and negotiation skills in complex cases.
+- Human empathy and judgment in crisis situations
+- In-depth Understanding and Application of NDIS Policies and Regulations
+- Trust building and relationship maintenance in cross-agency collaboration
+- Creative problem-solving in non-standard situations
+
+**Skills to build:**
+
+- Master NDIS-related digital platforms and automation tools
+- Learn fundamentals of data analysis (e.g., Excel, Power BI)
+- Enhancing project management skills (e.g., using Asana, Trello)
+- Enhancing cross-cultural communication and negotiation skills
+- Familiarity with AI-assisted decision tools (e.g., CRM systems)
+- Continuous tracking of NDIS policy changes
+
+**Key growth areas:**
 
 - Not applicable
 - No demand
@@ -61,60 +96,62 @@ NDIS Support Coordinators help disabled participants implement their NDIS plans 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass N/A（Not applicable） | 该职业无新西兰移民路径 |
+| Subclass N/A (Not applicable) | This occupation has no New Zealand immigration pathway |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学NDIS Support Coordinator？**
-- 仅考虑在澳洲从事该职业的人士
-- 对 NDIS 体系有深入了解者
+**Who is suited**
+- Only for those considering this occupation in Australia
+- Those with in-depth knowledge of the NDIS system.
 
-**谁不适合学NDIS Support Coordinator？**
-- 希望移民新西兰的人士
-- 寻求新西兰稳定职业发展者
+**Who is not suited**
+- People wishing to immigrate to New Zealand
+- Those seeking stable career development in New Zealand
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can an NDIS Support Coordinator immigrate to New Zealand?**
+A: No, this occupation is not on New Zealand's skilled migration list, and New Zealand does not have an NDIS plan.
+
+**Q: What is the salary level of a NDIS support coordinator in New Zealand?**
+A: New Zealand does not have this occupation; no salary data available.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | very low (½☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very low (½☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very low (½☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 极低（½☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（½☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 极低（½☆☆☆☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-NDIS Support Coordinator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can NDIS Support Coordinators immigrate to New Zealand?**
-答：No, this occupation is not on New Zealand's skill shortage list and is not eligible for any skilled migration visa.
-
-**问：What is the salary of an NDIS Support Coordinator in New Zealand?**
-答：There is no such occupation in New Zealand, so no salary data is available.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

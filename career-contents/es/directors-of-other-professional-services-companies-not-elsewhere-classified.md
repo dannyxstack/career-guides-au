@@ -1,57 +1,89 @@
-# Directors of Other Professional Services Companies Not Elsewhere Classified（Directors of Other Professional Services Companies Not Elsewhere Classified）职业分析 · ES
+# Directors of Other Professional Services Companies Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：1329 – Directors of Other Professional Services Companies Not Elsewhere Classified。**
+**Occupation code: 1329 (CNO)**
 
-Manage overall operations of professional services companies not elsewhere classified, including strategic planning, financial management, and team leadership to ensure profitability and growth.
+Responsible for managing the overall operations of the unclassified professional services firm, including strategic planning, financial management, and team leadership, ensuring profitable growth.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$4,000（公立大学年学费） |
-| 工商管理硕士（MBA） | 1-2年（Máster） | $15,000~$60,000（私立商学院学费） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$4,000 (Annual tuition at public universities) |
+| Master of Business Administration (MBA) | 1-2 years (Máster) | $15,000~$60,000 (Private business school tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 无需特定执照，但MBA或企业管理硕士（Máster）有助于晋升 |
+| No mandatory certification | None | Optional | No specific license is required, but an MBA or Master of Business Administration (Máster) can help with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★½☆）。** 全国从业人数约 8,500。西班牙经济复苏推动专业服务需求增长，但竞争激烈；数字转型和国际化带来新机遇，但岗位受经济周期影响。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. Spain's economic recovery is driving demand for professional services, but competition is fierce; Digital transformation and internationalization bring new opportunities, but positions are affected by economic cycles.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，视公司规模 |
-| 中级（3-7年） | $45,000~$65,000 | 税前年薪 |
-| 高级（7年以上） | $65,000~$100,000 | 税前年薪，含奖金 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, depending on company size |
+| Mid-level (3–7 years) | $45,000~$65,000 | Annual pre-tax salary |
+| Senior (7+ years) | $65,000~$100,000 | Annual pre-tax salary, including bonuses |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从部门经理晋升至总监，可转向更大型公司或跨行业高管职位，也可创业或成为独立顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+As a director, AI's impact on decision-making and administrative tasks is mixed: automating routine analysis and reporting improves efficiency, but core human skills like strategic judgment and customer relationship management are hard to replace.
+
+You can advance from department manager to director, move into larger company or cross-industry executive roles, start a business, or become an independent consultant.
+
+**Tasks most exposed to AI:**
+
+- Data reporting and KPI dashboard generation
+- Daily administrative scheduling and meeting arrangements
+- Basic financial and budget analysis
+- Preliminary review of contracts and compliance documents
+
+**Where AI augments the role:**
+
+- Data modeling and scenario simulation for strategic decision-making
+- Customer relationship management and personalized service advice
+- Team performance analysis and talent management optimization
+- Market trend forecasting and competitive intelligence analysis
+
+**Human moat:**
+
+- Complex strategic decision-making and long-term planning
+- Cross-departmental coordination and leadership
+- Negotiations and trust building with high-risk clients
+- Corporate culture shaping and change management
+
+**Skills to build:**
+
+- AI tools and data analysis (such as Python, SQL)
+- Strategic thinking and business modeling
+- Change Management and Leadership
+- Communication and negotiation skills.
+- AI ethics and governance knowledge
+
+**Key growth areas:**
 
 - business services
 - digital transformation
@@ -60,68 +92,67 @@ Manage overall operations of professional services companies not elsewhere class
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学历+工作合同，年薪达标（2024年约33,908欧元） |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 高技能人才快速通道，需工作合同，年薪门槛约40,000欧元 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 普通工作居留，需雇主担保和劳工市场测试 |
+| Subclass Tarjeta azul UE (EU Blue Card) | University degree + employment contract, annual salary meeting requirements (approximately €33,908 in 2024) |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | High-skilled talent fast-track requires a work contract, with an annual salary threshold of about 40,000 euros |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires employer sponsorship and labor market testing |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Directors of Other Professional Services Companies Not Elsewhere Classified？**
-- 有商业战略和团队管理经验的专业人士
-- 具备MBA或管理类硕士学历者
-- 适应快节奏、结果导向工作环境者
-
-**谁不适合学Directors of Other Professional Services Companies Not Elsewhere Classified？**
-- 偏好稳定、低压力工作的人
-- 缺乏领导和沟通技能的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Professionals with experience in business strategy and team management
+- Those with an MBA or master's degree in management
+- Adaptable to fast-paced, results-oriented work environments
+
+**Who is not suited**
+- Those who prefer stable, low-stress work
+- People who lack leadership and communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for this occupation?**
+A: Beginner level is about 35,000-45,000 euros, intermediate 45,000-65,000 euros, and advanced classes can exceed 100,000 euros, including bonuses.
+
+**Q: Can foreign degrees be directly used to apply for work residence?**
+A: Yes, usually no formal homologación is required, but the employer must prove the position matches the high-skill requirements; Homologación is recommended to enhance competitiveness.
+
+**Q: How to Advance to a Director Position?**
+A: Common paths: Department Manager → Deputy Director → Director. MBA and cross-industry experience can accelerate promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中高（★★★½☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Directors of Other Professional Services Companies Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation?**
-答：Entry-level: €35,000-45,000; mid-level: €45,000-65,000; senior: up to €100,000+, including bonuses.
-
-**问：Can foreign qualifications be used directly for work permit applications?**
-答：Yes, formal homologación is usually not required, but employer must prove the position meets high-skilled criteria; homologation recommended for competitiveness.
-
-**问：How to advance to director level?**
-答：Typical path: department manager → deputy director → director. MBA and cross-industry experience can accelerate.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,66 +1,95 @@
-# 工业机械维修工（Industrial Machinery Mechanic）职业分析 · 澳大利亚
+# Industrial Machinery Mechanic — career analysis · Australia
 
-**职业代码：323312 – Industrial Machinery Mechanic。**
+**Occupation code: 323312 (ANZSCO)**
 
-工业机械维修工（Industrial Machinery Mechanic）维护和修理工厂、矿山和工业设施中的机械设备，包括传动系统、液压设备和自动化生产线。在矿业、食品加工和制造业中需求旺盛，FIFO矿业职位收入极高。
+Industrial Machinery Mechanics maintain and repair machinery and equipment in factories, mines and industrial facilities, including drive systems, hydraulic equipment and automated production lines. Demand is strong in mining, food processing and manufacturing, with FIFO mining roles offering very high earnings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Engineering (Mechanical Trade) | 42~48个月（学徒） | —（各州TAFE） |
-| PLC/自动化系统进阶培训 | 3~6个月 | $1,000~$3,000（Siemens/Allen Bradley认证） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Engineering (Mechanical Trade) | 42–48 months (apprenticeship) | $0~$3,000 (State TAFE institutions) |
+| Advanced PLC/automation systems training | 3–6 months | $1,000~$3,000 (Siemens / Allen-Bradley certification) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering (Mechanical Trade) | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
-| White Card | 各州SafeWork | 必备 | 工地强制 |
+| Certificate III in Engineering (Mechanical Trade) | TAFE/RTO | Required | Core practising qualifications |
+| White Card | SafeWork (each state/territory) | Required | Mandatory on construction sites |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 22,000。矿业自动化（自动驾驶设备、遥控采矿）增加了对机械维修工的需求。风力发电机组机械维修新增需求。食品加工和冷链设施扩张带动维修岗位增长。
+**Job demand: very high (★★★★★).** National workforce approx. 22,000. Mining automation (autonomous equipment, remote-controlled mining) has increased demand for mechanical maintenance workers. Wind turbine mechanical maintenance is a growing area. Expansion of food processing and cold-chain facilities is also driving growth in maintenance roles.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 300~700 个 | 全国，WA/QLD矿业集中 |
-| Indeed | 150~400 个 | 含矿业和食品加工 |
-| LinkedIn | 80~200 个 | 自动化和工业方向 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒/初级（0~3年） | $65,000~$85,000 | Metal Industry Award |
-| 中级机械工（3~8年） | $85,000~$115,000 | 约$41~$55/hr |
-| 矿业FIFO / 自动化专家（8年+） | $115,000~$180,000 | WA/QLD FIFO+关停津贴 |
+| Median salary | $79,924 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice/Entry-level (0–3 years) | $65,000~$85,000 | Metal Industry Award |
+| Mid-level mechanic (3–8 years) | $85,000~$115,000 | Approx. $41–$55/hr |
+| Mining FIFO / Automation Specialist (8+ years) | $115,000~$180,000 | WA/QLD FIFO plus shutdown allowances |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** PLC/自动化系统技能成为增值加分项。FIFO矿业关停期间机械维修工薪资极高，是进入矿业最快速的技工通道之一。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
+
+PLC/automation system skills are a valuable add-on. Mechanical maintenance wages are extremely high during FIFO mining shutdown periods, making it one of the fastest trade pathways into the mining industry.
+
+**Tasks most exposed to AI:**
+
+- Scheduled preventive maintenance tasks
+- Remote fault diagnosis via sensor data
+- Disassembly and replacement of standard mechanical components
+- Maintenance records and report generation
+
+**Where AI augments the role:**
+
+- Use AR glasses for remote expert-assisted maintenance
+- Optimizing maintenance plans through AI predictive analytics
+- Simulating and debugging production lines using digital twins
+- Automated tools for managing parts inventory
+- Use AI to assist in writing technical documents
+
+**Human moat:**
+
+- Unstructured diagnosis of complex mechanical faults
+- On-site safety compliance assessment and emergency response
+- Communicate with clients about repair plans and cost estimates
+- Modify and integrate non-standard automation equipment
+- Personal mentoring in apprenticeship training
+
+**Skills to build:**
+
+- PLC programming and industrial network configuration
+- Robot system maintenance (e.g., UR, Fanuc)
+- Data analysis and predictive maintenance software (e.g., MaintMaster)
+- Advanced diagnostics of hydraulic and pneumatic systems
+- Using AR/VR maintenance assistive tools
+- Energy efficiency and sustainability optimization
+
+**Key growth areas:**
 
 - Mining Plant Maintenance
 - Food Processing Equipment
@@ -69,67 +98,64 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学工业机械维修工？**
-- 有机械维修、液压或工业设备保养经验，目标矿业FIFO
-- 接受WA/QLD偏远矿区FIFO工作方式，追求高薪
-- 有PLC/自动化技能，希望进入高端工业维修方向
-
-**谁不适合学工业机械维修工？**
-- 不接受FIFO和重工业环境
-- 无机械基础
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Mechanical maintenance, hydraulics, or industrial equipment servicing experience, targeting mining FIFO roles
+- Willing to work FIFO in remote mining regions of WA/QLD in pursuit of higher salaries
+- Has PLC/automation skills and is looking to move into high-end industrial maintenance
+
+**Who is not suited**
+- Not open to FIFO or heavy industry environments
+- No mechanical background
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an industrial machinery mechanic in Australia?**
+A: Mid-level annual salary approx. $85,000~$115,000. FIFO specialists in mining can earn $115,000~$180,000, with higher pay for shutdown contracts.
+
+**Q: Is it easy to find work as an industrial mechanic in Australia?**
+A: Yes, easily. Mining, food processing and automation are all booming, with 300–700 positions listed on Seek at any given time — most concentrated in WA and QLD.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 323312 数据 |
-| Seek AU | Industrial Mechanic 薪资及岗位量 |
-| Department of Home Affairs | CSOL 职业清单 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-工业机械维修工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲工业机械维修工工资多少？**
-答：中级年薪约 $85,000~$115,000。矿业FIFO专家可达 $115,000~$180,000，关停合同工更高。
-
-**问：工业机械工好找工作吗？**
-答：容易。矿业+食品加工+自动化全面旺盛，Seek挂牌300~700个职位，WA/QLD最多。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

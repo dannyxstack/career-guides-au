@@ -1,62 +1,95 @@
-# Building Electrician（Building Electrician）职业分析 · FR
+# Building Electrician — career analysis · France
 
-**职业代码：F1602 – Building Electrician。**
+**Occupation code: F1602 (ROME)**
 
-Responsible for installing, maintaining, and repairing electrical systems in buildings, including wiring, distribution boards, lighting, and grounding, ensuring compliance with French electrical standards.
+Responsible for the installation, maintenance, and repair of electrical systems within buildings, including wiring, distribution panel installation, lighting, and grounding systems to ensure compliance with French electrical standards.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立学校免费，仅需注册费或材料费） |
-| Bac Pro（职业高中文凭） | 3年 | —（公立学校免费，学徒制可获得补贴） |
-| BTS（高级技术员证书） | 2年（Bac后） | —（公立学校免费，可学徒制） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$1,000 (Public schools are free, with only registration or material fees required) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$1,500 (Public schools are free, and apprenticeships are eligible for subsidies) |
+| BTS (Senior Technician Certificate) | 2 years (after Bac) | $0~$2,000 (Public schools are free and apprenticeships are available) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Électricien | 法国教育部 | 必备 | 基础电工职业证书 |
-| Habilitation électrique | 法国劳动部认可的培训机构 | 必备 | 电气操作授权，按电压等级分级 |
-| Qualification Installateur Électrique | Qualifelec或其他认证机构 | 可选 | 自愿性认证，提升客户信任 |
+| CAP Électricien | French Ministry of Education | Required | Basic Electrician Professional Certificate |
+| Habilitation électrique | Training institutions recognized by the French Ministry of Labor | Required | Electrical operation authorization, graded according to voltage level |
+| Qualification Installateur Électrique | Qualifelec or other certification bodies | Optional | Voluntary certification enhances customer trust |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。法国建筑电工长期紧缺，受能源转型（电动车充电桩、智能家居）驱动，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. France has long faced a shortage of construction electricians, driven by energy transition (electric vehicle charging stations, smart homes), and has promising employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，根据地区和企业规模略有浮动 |
-| 中级（3-8年） | $30,000~$40,000 | 税前年薪，可包括绩效奖金 |
-| 高级（8年以上） | $40,000~$55,000 | 税前年薪，含项目主管或自雇收入 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary varies slightly depending on region and company size |
+| Mid-level (3–8 years) | $30,000~$40,000 | Pre-tax annual salary, which may include performance bonuses |
+| Senior (8+ years) | $40,000~$55,000 | Pre-tax annual salary, including project supervisor or self-employed income |
+| average salary | $25,392 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可晋升为电气项目主管或自雇电工，也可转向工业电气或可再生能源领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
+
+You can be promoted to electrical project supervisor, self-employed electrician, or move into industrial electrical or renewable energy fields.
+
+**Tasks most exposed to AI:**
+
+- Manual preparation of wiring plans and material lists (AI can automatically optimize generation)
+- Basic electrical safety calculations (e.g., load calculations, wire sizing)
+- Standardized test recording and report writing
+- Remote diagnosis of simple faults (via AI vision and sensor data)
+
+**Where AI augments the role:**
+
+- Using AI tools to assist in designing complex electrical systems (e.g., PV array layout)
+- Using AI-enhanced augmented reality (AR) for concealed line location and installation guidance
+- Improve preventive maintenance efficiency with AI failure prediction systems
+- Automatic translation of technical documents and compliance requirements using AI for cross-language tasks
+
+**Human moat:**
+
+- On-site operational safety responsibilities and licensing legal requirements
+- Human judgment and emergency handling for complex fault diagnosis
+- Communication and compliance sign-offs with clients, contractors, and regulators
+- Practical hands-on ability in harsh environments (heights, confined spaces)
+
+**Skills to build:**
+
+- Integration of smart building systems (BMS, IoT)
+- Renewable energy system design (photovoltaic, energy storage)
+- Electrical Automation and PLC Programming Basics
+- Data analysis/fault prediction software use
+- Project management and cost estimation
+- Digital work platforms (e.g., SimPRO, ServiceM8)
+
+**Key growth areas:**
 
 - Energy transition
 - Smart home
@@ -65,70 +98,69 @@ Responsible for installing, maintaining, and repairing electrical systems in bui
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需法国雇主担保，提供CDI合同，工作许可审批约2-3个月。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高素质人才（如Bac+3以上），需雇主担保，有效期4年，可带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪高于法国平均工资1.5倍（约5.3万欧元），建筑电工通常不达标，但可尝试管理岗。 |
-| Subclass Recherche d'emploi（Job Search Visa） | 在法完成学业后，可申请1年找工作签证，找到工作后转工签。 |
+| Subclass Salarié (Salarié (Work Permit)) | French employer sponsorship is required, CDI contract is provided, and work permit approval takes about 2-3 months. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-quality talents (such as Bac+3 or above), requires employer sponsorship, valid for 4 years, and allows family members. |
+| Subclass Carte bleue UE (EU Blue Card) | Need annual salary higher than 1.5 times the French average wage (about EUR 53,000). Construction electricians usually do not meet this, but can try management positions. |
+| Subclass Recherche d'emploi (Job Search Visa) | After completing studies in France, you can apply for a one-year job-seeking visa; once you find a job, switch to a work visa. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Electrician？**
-- 喜欢动手操作、注重安全的男性/女性
-- 愿意接受学徒制培训的年轻人
-- 希望在法国定居并从事稳定蓝领职业的人群
-
-**谁不适合学Building Electrician？**
-- 无法适应体力劳动和户外工作环境的人
-- 对电气安全规范学习感到枯燥的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Men and women who enjoy hands-on operations and care about safety
+- Young people willing to undergo apprenticeship training
+- People who want to settle in France and pursue stable blue-collar careers
+
+**Who is not suited**
+- People who cannot adapt to physical labor and outdoor work environments
+- People who find learning electrical safety standards boring
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for construction electricians?**
+A: Pre-tax annual salary for French construction electricians approx. €25,000-55,000, entry-level approx. €25,000-30,000, mid-level €30,000-40,000, senior €40,000-55,000.
+
+**Q: How can foreigners immigrate to France through construction electricians?**
+A: You need to obtain a French employer-sponsored work visa (Salarié) or go through the Passeport Talent Passport pathway, which requires higher education or experience. EU citizens can move freely and directly.
+
+**Q: What are the career development paths for construction electricians?**
+A: You can be promoted to electrical project supervisor, self-employed electrician, or move into industrial electrical and renewable energy sectors (such as photovoltaic installation).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Building Electrician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a building electrician?**
-答：The gross annual salary ranges from €25,000 to €55,000: entry-level €25,000-€30,000, mid-level €30,000-€40,000, senior €40,000-€55,000.
-
-**问：How can a foreigner migrate to France as a building electrician?**
-答：A French employer sponsorship for a Salarié work permit is required. Alternatively, the Passeport Talent (Talent Passport) is available for higher qualifications. EU citizens enjoy free movement.
-
-**问：What are the career progression paths for a building electrician?**
-答：Potential paths include becoming an electrical project supervisor, self-employed electrician, or transitioning to industrial electrical work or renewable energy (e.g., solar installation).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

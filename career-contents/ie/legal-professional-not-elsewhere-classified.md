@@ -1,58 +1,90 @@
-# Legal Professional Not Elsewhere Classified（Legal Professional Not Elsewhere Classified）职业分析 · IE
+# Legal Professional Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：2619 – Legal Professional Not Elsewhere Classified。**
+**Occupation code: 2619 (ISCO08)**
 
-Includes IP lawyers, legal advisors, providing specialized legal services in contracts, compliance, litigation support, etc.
+Includes IP lawyers, legal advisors, etc., providing professional legal services involving contracts, compliance, litigation support, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（法律） | 3-4年 | $20,000~$35,000（学费因大学而异，欧盟学生可能较低。） |
-| 硕士（法律） | 1年 | $15,000~$30,000（LLM学位，适合专业深造。） |
+| Bachelor's degree (Law) | 3-4 years | $20,000~$35,000 (Tuition fees vary by university, with lower rates for EU students.) |
+| Master of Laws (LL.M.) | 1 year | $15,000~$30,000 (LLM degree, suitable for professional further study.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爱尔兰律师资格证 | Law Society of Ireland | 必备 | 需完成培训合同和职业课程。 |
-| 法学学位（LLB） | 认可大学 | 必备 | 基本学历要求。 |
+| Irish Legal Practice Certificate | Law Society of Ireland | Required | Must complete training contract and vocational courses. |
+| Law degree (LLB). | Recognised university | Required | Basic education requirement. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 2,000。爱尔兰法律就业市场稳定，受并购、科技和金融行业需求驱动，预计年均增长约2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. The Irish legal job market is stable, driven by demand from mergers and acquisitions, technology, and financial sectors, with an expected average annual growth of about 2%.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 见习律师或初级律师。 |
-| 中级（3-7年） | $50,000~$80,000 | 有经验的律师。 |
-| 高级（7年以上） | $90,000~$150,000 | 资深律师或合伙人。 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Articled clerk or junior solicitor. |
+| Mid-level (3–7 years) | $50,000~$80,000 | Experienced lawyer. |
+| Senior (7+ years) | $90,000~$150,000 | Senior lawyer or partner. |
+| average salary | $75,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从初级律师晋升为高级律师、合伙人，或转向内部法律顾问、合规主管等管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on unclassified legal professionals is mixed: routine contract review and paperwork are automated, but complex legal strategy, client trust, and accountability still rely on humans. Entry-level roles are narrowing due to AI tool distribution, but legal tech fields and new demands create upgrade paths.
+
+Progress from junior lawyer to senior lawyer, partner, or transition to in-house legal counsel, compliance manager and other management roles.
+
+**Tasks most exposed to AI:**
+
+- drafting and reviewing standard contracts and legal documents
+- Legal research and summary generation based on historical cases
+- Template-based filling and preliminary review of compliance documents
+- Classification and organization of evidence documents in litigation
+
+**Where AI augments the role:**
+
+- Use AI for large-scale case analysis and pattern recognition
+- Quick extraction of key contract clauses via natural language processing
+- Use AI tools to simulate litigation strategies and predict court decisions
+- Automated data collection and preliminary analysis for due diligence
+
+**Human moat:**
+
+- Legal strategy formulation and court advocacy involving significant interests.
+- Highly sensitive customer relationship management and trust building
+- Ethics and compliance judgment (e.g., legal gray areas)
+- Creative legal argumentation in complex cases
+
+**Skills to build:**
+
+- Application of legal tech tools (e.g., Kira Systems, Ravel Law)
+- Data law and privacy compliance (e.g., GDPR, CCPA)
+- Knowledge of AI ethics and legal regulation
+- Programming basics (Python for legal data automation)
+- Strategic consulting and business acumen
+
+**Key growth areas:**
 
 - Technology Law
 - IP Law
@@ -61,68 +93,67 @@ Includes IP lawyers, legal advisors, providing specialized legal services in con
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪超过32,000欧元且职业在紧缺清单上的申请人。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪超过30,000欧元的职位，需劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约60,000欧元。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to applicants with annual salary over 32,000 euros and occupation on the shortage list. |
+| Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary over €30,000, requiring a labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with an annual salary threshold of approximately €60,000. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Professional Not Elsewhere Classified？**
-- 具备优秀分析和沟通能力的人
-- 对法律有热情且能承受高压工作的人
-- 有国际视野和语言优势的人
-
-**谁不适合学Legal Professional Not Elsewhere Classified？**
-- 不喜欢文书工作和细节审查的人
-- 无法适应高强度工作节奏的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with excellent analytical and communication skills.
+- People with a passion for law who can thrive under high-pressure work
+- People with international perspective and language advantages
+
+**Who is not suited**
+- People who dislike paperwork and detail review
+- People unable to adapt to high-intensity work pace
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for legal professionals in Ireland?**
+A: Junior: approx EUR 35,000-45,000, mid: EUR 50,000-80,000, senior: EUR 90,000-150,000.
+
+**Q: How can non-EU citizens immigrate to Ireland to work in the legal field?**
+A: Can apply via Critical Skills Employment Permit (for scarce skills) or General Employment Permit, requires employer sponsorship.
+
+**Q: What qualifications are required to practice law in Ireland?**
+A: Requires a law degree (LLB) and qualification as a solicitor through training with the Law Society.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Legal Professional Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for legal professionals in Ireland?**
-答：Entry-level around €35k-45k, mid-level €50k-80k, senior €90k-150k.
-
-**问：How can non-EU citizens migrate to Ireland for legal work?**
-答：Via Critical Skills Employment Permit (if on shortage list) or General Employment Permit, requiring employer sponsorship.
-
-**问：What qualifications are required to practice law in Ireland?**
-答：A law degree (LLB) and qualification via the Law Society of Ireland.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

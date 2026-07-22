@@ -1,60 +1,96 @@
-# Personal Development and Well-Being Consultant（Personal Development and Well-Being Consultant）职业分析 · FR
+# Personal Development and Well-Being Consultant — career analysis · France
 
-**职业代码：K1103 – Personal Development and Well-Being Consultant。**
+**Occupation code: K1103 (ROME)**
 
-Provides coaching and training for personal growth, stress management, and well-being to individuals or groups, enhancing overall quality of life.
+Providing training and counseling on physical and mental balance, personal growth, and stress management for individuals or groups, promoting overall quality of life.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（心理学/社会学/教练） | 3年（Licence） | $3,000~$6,000（公立大学学费，每年约200-600欧元注册费，此处为私立培训成本） |
-| 专业教练培训（RNCP认证） | 1-2年 | $5,000~$15,000（私立教练学校，如HEC Coach、IFOD） |
+| Undergraduate (Psychology/Sociology/Coaching) | 3 years (Licence) | $3,000~$6,000 (Tuition at public universities is about 200-600 euros per year for registration, which is the cost of private training) |
+| Professional Coach Training (RNCP Certification) | 1-2 years | $5,000~$15,000 (Private coaching schools, such as HEC Coach and IFOD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| RNCP认证教练文凭 | 法国国家职业认证委员会（France Compétences） | 可选 | 非强制，但有助于建立信誉和获得客户 |
-| 心理治疗师资质（如适用） | ARS（地区卫生局） | 可选 | 若从事临床心理辅导，需注册为心理治疗师 |
+| RNCP Certified Coaching Diploma | French National Institute of Professional Certification (France Compétences) | Optional | Not mandatory, but helps build credibility and attract customers |
+| Psychotherapist qualification (if applicable) | ARS (Regional Health Bureau) | Optional | If engaging in clinical psychological counseling, one must register as a psychotherapist |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 25,000。法国社会对心理与身心健康的关注日益增长，该职业需求稳步上升。自由职业者居多，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 25,000. French society's focus on mental and physical and mental health is growing, and demand for this profession is steadily rising. Most are freelancers, and competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 自由职业者收入波动大，此为全职受雇范围 |
-| 中级（3-7年） | $30,000~$45,000 | 可同时开展团体课程增加收入 |
-| 高级（7年以上） | $45,000~$70,000 | 知名专家或企业培训师收入更高 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Freelancers' income fluctuates greatly, which falls within the scope of full-time employment |
+| Mid-level (3–7 years) | $30,000~$45,000 | Group courses can be held simultaneously to increase income |
+| Senior (7+ years) | $45,000~$70,000 | Well-known experts or corporate trainers earn higher incomes |
+| average salary | $23,220 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级教练起步，积累经验后专攻某一领域（如正念、职业转型），或创办培训中心；也可向企业培训、人力资源咨询方向发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The core of personal development and physical and mental health consultants relies on human trust and empathy, which AI cannot replace; However, tasks like content preparation, scheduling, and basic Q&A can be automated, resulting in mixed overall effects.
+
+You can start as a junior coach, gain experience, then specialize in a specific field (such as mindfulness or career transition), or start a training center; It can also develop into corporate training and human resources consulting.
+
+**Tasks most exposed to AI:**
+
+- Standardized presentations and content generation for general stress management techniques
+- Preliminary compilation of customer feedback data and trend analysis
+- Automated processing of online course recordings and editing
+- Automatically responds to FAQs for common physical and mental issues (such as insomnia and anxiety).
+- Layout and beautification design of training materials
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer diaries, physiological data, and more, providing personalized insights
+- Real-time monitoring of client language emotions through natural language processing assists in adjusting coaching strategies
+- Use AI to generate meditation guidance scripts and personalized cognitive restructuring exercises
+- Integrate the latest research with an AI recommendation system and customize reading and practice plans
+- Using virtual characters to simulate social anxiety scenarios for safe exposure training
+
+**Human moat:**
+
+- The ability to build deep trust and therapeutic alliances
+- Identify nonverbal cues (microexpressions, body language) and respond empatheticly
+- Clinical judgment of counseling direction is dynamically adjusted based on real-time interaction
+- Handling complex trauma, crisis intervention, and other scenarios that require high ethical sensitivity
+- Integrate interdisciplinary knowledge (neuroscience, psychology, philosophy) to design original programs
+
+**Skills to build:**
+
+- AI-assisted analysis tools (such as natural language processing, wearable device data analysis)
+- Digital content creation and automation workflows (such as ChatGPT prompt engineering, automated report generation)
+- Compliance and ethical review of private data (such as GDPR, psychological data protection)
+- Application of virtual reality exposure therapy technology
+- AI-based customer lifecycle management (CRM + predictive models)
+- Multimodal communication design (combining text, voice, virtual avatars)
+
+**Key growth areas:**
 
 - Mental health awareness
 - Work-life balance
@@ -63,62 +99,64 @@ Provides coaching and training for personal growth, stress management, and well-
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employed Worker)） | 需找到法国雇主，工作合同符合要求，通常仅限大型企业或机构聘用。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于经济贡献或知名专业人士，需证明较高收入或影响力。 |
+| Subclass Salarié (Salarié (Employed Worker)) | You need to find a French employer and have a job contract that meets the requirements; this is usually reserved for large companies or institutions. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to economic contributions or well-known professionals, requiring proof of higher income or influence. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Personal Development and Well-Being Consultant？**
-- 善于倾听与沟通、有同理心的人
-- 希望灵活安排工作时间的自由职业者
-- 对心理学、个人成长有热情者
+**Who is suited**
+- Someone who is good at listening, communicating, and empathetic
+- Freelancers who want flexible work hours
+- Those passionate about psychology and personal growth
 
-**谁不适合学Personal Development and Well-Being Consultant？**
-- 追求稳定高薪的求职者
-- 不擅长自我营销或客户开发的性格
+**Who is not suited**
+- Job seekers seeking stable and high salaries
+- A personality that is not good at self-marketing or customer development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this profession in France?**
+A: Entry-level practitioners earn a pre-tax annual salary of about €20,000-30,000, while senior staff can reach €45,000-70,000. Most are freelancers with unstable income.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: This occupation is not in short supply and has a relatively high immigration threshold. You can apply for a Salarié work visa by being employed by a French company, or apply for Passeport Talent as a well-known professional.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Personal Development and Well-Being Consultant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this profession in France?**
-答：Entry-level earns €20k-30k gross annually, senior up to €45k-70k; most are self-employed with variable income.
-
-**问：How can foreigners immigrate to France through this profession?**
-答：The occupation is not in shortage, making migration difficult. Options include Salarié visa via employer or Passeport Talent for renowned professionals.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

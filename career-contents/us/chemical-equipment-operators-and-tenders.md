@@ -1,60 +1,94 @@
-# Chemical Equipment Operators and Tenders（Chemical Equipment Operators and Tenders）职业分析 · 美国
+# Chemical Equipment Operators and Tenders — career analysis · United States
 
-**职业代码：51-9011 – Chemical Equipment Operators and Tenders。**
+**Occupation code: 51-9011 (SOC)**
 
-Operate or tend equipment to control chemical changes or reactions in processing industrial or consumer products, such as devulcanizers, steam-jacketed kettles, and reactor vessels.
+Operate or tend equipment to control chemical reactions or changes in industrial or consumer goods processing, including desulfurizing tanks, steam-jacketed kettles, and reaction vessels.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 几个月至1年 | —（雇主提供培训，可能需自费获取安全证书） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | A few months to 1 year. | $0~$5,000 (Employer provides training, but may require self-funded safety certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 教育机构 | 必备 | 基本入职要求 |
-| 危险废物操作和应急响应（HAZWOPER）培训 | OSHA认可机构 | 可选 | 部分岗位要求 |
+| High school diploma or equivalent | Educational institution | Required | Basic entry requirements |
+| Hazardous waste operations and emergency response (HAZWOPER) training | OSHA-recognized agency | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 69,000。美国劳工统计局预计2022-2032年该职业就业增长约4%，低于平均水平。化工行业自动化程度提高可能制约需求，但部分岗位由退休人员更替。
+**Job demand: medium (★★½☆☆).** National workforce approx. 69,000. The U.S. Bureau of Labor Statistics projects about 4% employment growth for this occupation from 2022 to 2032, slower than average. Increased automation in the chemical industry may constrain demand, but some positions will open due to retirements.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级薪资 |
-| 中级（3-7年） | $42,000~$55,000 | 有经验操作员 |
-| 高级（7年以上） | $55,000~$70,000 | 高级或主管岗位 |
+| Median salary | $58,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level salary |
+| Mid-level (3–7 years) | $42,000~$55,000 | Experienced operator |
+| Senior (7+ years) | $55,000~$70,000 | Senior or supervisory position |
+| average salary | $60,710 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从初级操作员起步，积累经验后可晋升为高级操作员、班组长或主管。部分人员通过进一步教育转向化工技术员或工程师岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+This occupation faces high automation risk; AI and robots will take over most monitoring, recording, and operational tasks, significantly reducing entry-level positions, but skill demands for equipment maintenance and anomaly handling remain.
+
+Usually start as junior operators, gain experience, and advance to senior operator, team leader, or supervisor. Some move into chemical technician or engineer roles through further education.
+
+**Tasks most exposed to AI:**
+
+- Continuously monitor temperature, pressure, flow and other process parameters via sensors and AI
+- Automatically record operation logs, generate production reports and quality data
+- Start, stop, and adjust reactors and other equipment according to predetermined procedures
+- Automatically adjust chemical dosage or reaction time based on real-time data
+- Perform routine sampling, testing, and recording operations
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment anomalies and predictive maintenance to improve fault handling efficiency
+- Optimized process parameter suggestions to improve product quality and yield
+- Process improvement training through digital twin simulation, reducing trial-and-error costs
+- Automatically generate operation guides and emergency plans to support quick decision-making
+
+**Human moat:**
+
+- Handling non-standard equipment failures and emergencies
+- Involves final judgment and human intervention for safety compliance
+- Cross-system coordination and creative thinking for process improvement
+- Experience in manual operation and repair of old equipment
+
+**Skills to build:**
+
+- Distributed Control System (DCS) and Programmable Logic Controller (PLC) programming basics
+- Foundations of data analysis and machine learning for process optimization
+- Operation of predictive maintenance tools (e.g., vibration analysis, thermal imaging)
+- Industrial Internet of Things (IIoT) Device Configuration and Maintenance
+- Safety regulations and risk management (e.g., HAZOP analysis)
+- Use of digital twin and simulation software
+
+**Key growth areas:**
 
 - Automation
 - Chemical Manufacturing
@@ -63,62 +97,64 @@ Operate or tend equipment to control chemical changes or reactions in processing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因职业通常不要求学士学位，雇主难以证明专业性。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 极少适用，因需要至少2年培训或经验，但PERM劳工证可能获批，实际上很少用于此职业。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation typically does not require a bachelor's degree, making it difficult for employers to demonstrate specialty. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Rarely applicable, as it requires at least 2 years of training or experience, but a PERM labour certification may be approved; in practice, it is seldom used for this occupation. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Chemical Equipment Operators and Tenders？**
-- 喜欢动手操作设备
-- 能适应倒班和体力工作
-- 注重安全规范
+**Who is suited**
+- Enjoy hands-on operation of equipment
+- Able to adapt to shift work and physical labor
+- Focus on safety regulations.
 
-**谁不适合学Chemical Equipment Operators and Tenders？**
-- 不喜欢重复性工作
-- 难以适应化学品的潜在风险
+**Who is not suited**
+- Dislikes repetitive work
+- Difficulty adapting to potential chemical risks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for chemical equipment operators?**
+A: According to BLS data, the 2022 median annual salary was about $48,000, with entry-level positions around $32,000-42,000, and senior positions up to $70,000.
+
+**Q: Does this occupation have a skilled migration pathway?**
+A: Almost none. This occupation typically does not require a bachelor's degree, making it difficult for employers to sponsor immigration via H-1B or EB-2/EB-3. Rare cases may use EB-3 skilled worker category, but it is very difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Chemical Equipment Operators and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for chemical equipment operators?**
-答：According to BLS, median annual wage was about $48,000 in 2022, entry-level $32,000-$42,000, senior up to $70,000.
-
-**问：Are there immigration pathways for this occupation?**
-答：Very few. The occupation typically does not require a bachelor's degree, making H-1B or PERM sponsorship difficult. Rare cases may qualify for EB-3 skilled workers.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

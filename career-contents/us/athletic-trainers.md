@@ -1,59 +1,94 @@
-# Athletic Trainers（Athletic Trainers）职业分析 · 美国
+# Athletic Trainers — career analysis · United States
 
-**职业代码：29-9091 – Athletic Trainers。**
+**Occupation code: 29-9091 (SOC)**
 
-Athletic trainers evaluate and treat musculoskeletal injuries or illnesses, providing preventive, therapeutic, emergency, and rehabilitative care. They work with athletes and active individuals to prevent and rehabilitate sports-related injuries.
+Athletic trainers assess and treat musculoskeletal injuries or conditions, providing preventive, therapeutic, emergency, and rehabilitative care. They work with athletes and active individuals to prevent and rehabilitate sports-related injuries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费较低，私立较高） |
-| 硕士学位 | 2年 | $30,000~$90,000（多数运动防护师项目为硕士，需CAATE认证） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public universities have lower tuition, private universities higher) |
+| Master's degree | 2 years | $30,000~$90,000 (Most athletic training programs are master's degrees, requiring CAATE accreditation) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 运动防护师认证 | BOC | 必备 | 通过BOC考试是执业必要条件 |
-| 州执照 | 各州监管机构 | 必备 | 大多数州要求持有BOC认证后申请执照 |
-| 硕士学位 | CAATE认证院校 | 必备 | 2022年后成为入门级要求 |
+| Athletic trainer certification | BOC | Required | Passing the BOC exam is a mandatory requirement for practice |
+| State license | State regulatory bodies | Required | Most states require you to obtain BOC certification before applying for a license |
+| Master's degree | CAATE accredited institutions | Required | Became an entry-level requirement after 2022 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。美国劳工统计局预测该职业从2023-2033年增长约23%，远快于所有职业平均水平。随着公众健康意识提高和运动参与度增加，运动防护师需求旺盛，尤其在学校、体育队和康复中心。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. The US Bureau of Labor Statistics projects about 23% growth for this occupation from 2023-2033, much faster than average. With increasing public health awareness and sports participation, demand for athletic trainers is strong, especially in schools, sports teams, and rehabilitation centers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 多为助理或学校职位 |
-| 中级（4-7年） | $48,000~$60,000 | 首席或独立执业 |
-| 高级（8年以上） | $60,000~$78,000 | 主管或专业运动队 |
+| Median salary | $62,520 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Mostly assistant or school positions |
+| Mid-level (4-7 years) | $48,000~$60,000 | Chief or independent practitioner. |
+| Senior (8+ years) | $60,000~$78,000 | Supervisor or professional sports team |
+| average salary | $66,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级运动防护师通常从助理或实习职位起步，积累经验后晋升为首席或主管运动防护师。部分人转向体育医学管理、教学或研究。获得专项认证（如骨科、康复）可提升晋升空间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Athletic trainer roles will be reshaped by AI rather than replaced: AI takes over documentation and diagnostic assistance tasks, but manual therapy, emergency care, and interpersonal trust cannot be automated. Demand will grow with increased awareness of sports health, with slightly higher entry barriers.
+
+Junior sports trainers typically start as assistants or interns, gain experience, and advance to lead or supervisor roles. Some move into sports medicine management, teaching, or research. Obtaining specialty certifications (e.g., orthopedics, rehabilitation) can improve promotion prospects.
+
+**Tasks most exposed to AI:**
+
+- Standard objective data collection in injury assessment (e.g., joint range of motion measurement); AI image analysis can automate this
+- Write daily rehabilitation records and injury reports; AI can automatically generate templates and fill them
+- Basic preventive training program design; AI can recommend generic plans based on algorithms
+- Injury database search and literature review; AI can quickly summarize evidence
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve injury identification accuracy, helping athletic trainers quickly determine injury types
+- Real-time monitoring of wearable device data, AI alerts for overtraining risks, enhancing preventive care capabilities
+- AI generates personalized rehabilitation plans; therapists adjust based on experience to improve outcomes
+- VR/AR rehabilitation systems provide immersive training, with therapists supervising and correcting movements
+- AI-driven teaching tools can vividly explain injury pathology to athletes, improving compliance
+
+**Human moat:**
+
+- Tactile feedback and clinical intuition in manual assessment and treatment
+- Immediate decision-making and on-site first aid skills in emergencies
+- Building long-term trust and psychological counselling with athletes
+- Creativity in adjusting rehabilitation plans for individual differences
+- Communication and leadership in interdisciplinary collaboration
+
+**Skills to build:**
+
+- Proficient in AI diagnostic tools for sports injuries (e.g., MRI-assisted analysis software)
+- Learn data analysis basics, interpret wearable device and AI reports
+- Proficient in remote rehabilitation guidance platforms and VR training systems
+- Strengthen irreplaceable clinical skills such as manual therapy and sports taping
+- Improve communication and coaching skills for human-machine collaboration
+- Understanding biomechanics and cutting-edge AI applications in sports science
+
+**Key growth areas:**
 
 - Sports Medicine
 - Rehabilitation
@@ -62,68 +97,67 @@ Athletic trainers evaluate and treat musculoskeletal injuries or illnesses, prov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需有学士以上学位，运动防护师符合专业职业要求，但名额有限 |
-| Subclass EB-2（EB-2 Advanced Degree） | 持硕士学位可申请，需劳工证 |
-| Subclass EB-3（EB-3 Skilled Workers） | 本科学位加经验，通过PERM申请 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires at least a bachelor's degree; athletic trainer meets professional occupation requirements but slots are limited |
+| Subclass EB-2 (EB-2 Advanced Degree) | Holding a master's degree is eligible to apply; labor certification required |
+| Subclass EB-3 (EB-3 Skilled Workers) | Bachelor's degree plus experience, apply through PERM |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Athletic Trainers？**
-- 喜欢体育运动和团队协作
-- 对伤害预防和康复有热情
-- 能在高压环境下快速决策
-
-**谁不适合学Athletic Trainers？**
-- 不喜频繁出差或不规则工作时间
-- 对医疗情境或血液感到不适
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes sports and teamwork
+- Passionate about injury prevention and rehabilitation
+- Able to make quick decisions under high pressure
+
+**Who is not suited**
+- Those who dislike frequent travel or irregular working hours
+- Discomfort with medical situations or blood
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for athletic trainers?**
+A: US athletic trainer median salary about $50k/year, entry-level about $40k, senior or professional sports teams can exceed $70k. Salary is affected by employer type (schools, hospitals, sports teams) and region.
+
+**Q: Is it easy for athletic trainers to immigrate to the US?**
+A: Athletic trainers can immigrate to the US via H-1B work visas or EB-2/EB-3 employment-based green cards. A master's degree or bachelor's plus experience is needed, along with BOC certification and state licensure. Competition is relatively high, but demand is strong and opportunities exist.
+
+**Q: What education is needed to become an athletic trainer?**
+A: After 2022, entry-level requirement is a master's degree from a CAATE-accredited program. Also typically requires passing the BOC exam and obtaining a state license. A bachelor's degree is also possible but less competitive for employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Athletic Trainers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for athletic trainers?**
-答：The median annual salary for athletic trainers in the US is around $50,000, with entry-level positions around $40,000 and senior or professional team roles exceeding $70,000. Salary varies by employer type and location.
-
-**问：Is it easy for athletic trainers to immigrate to the US?**
-答：Athletic trainers can immigrate via H-1B visa or EB-2/EB-3 green cards. A master's degree or bachelor's plus experience, BOC certification, and state licensure are required. Competition is moderate, but high demand offers opportunities.
-
-**问：What education is required to become an athletic trainer?**
-答：Since 2022, a master's degree from a CAATE-accredited program is the entry-level requirement. You must also pass the BOC exam and obtain state licensure. A bachelor's degree is possible but less competitive.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

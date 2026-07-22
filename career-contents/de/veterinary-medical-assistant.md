@@ -1,60 +1,93 @@
-# Veterinary Medical Assistant（Veterinary Medical Assistant）职业分析 · DE
+# Veterinary Medical Assistant — career analysis · Germany
 
-**职业代码：8114 – Veterinary Medical Assistant。**
+**Occupation code: 8114 (KldB)**
 
-Veterinary medical assistants support veterinarians in animal treatment, nursing, lab tests, and client communication, playing a key role in veterinary practices.
+Veterinary assistants assist veterinarians with animal treatment, nursing, laboratory tests, and client communication in veterinary clinics or animal hospitals, playing a key role in the pet medical team.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育 | 3年（双元制） | —（培训期间有津贴，部分学校收少量材料费） |
-| 继续教育（技术专家） | 1-2年（在职） | $2,000~$5,000（自费或雇主资助） |
+| Dual vocational education and training | 3 years (dual system) | $0~$500 (Allowance provided during training; some schools charge a small material fee) |
+| Continuing education (technical specialist) | 1-2 years (on-the-job) | $2,000~$5,000 (Self-funded or employer-sponsored) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家认可兽医助理资格 | 德国兽医协会（BTK） | 必备 | 完成双元制培训并通过结业考试 |
-| 资质认证（国外学历） | 德国兽医协会（BTK） | 必备 | 海外学历需认证并完成适应培训 |
+| Nationally recognized veterinary assistant qualification | German Veterinary Association (BTK) | Required | Complete dual vocational training and pass the final exam. |
+| Qualification certification (foreign education) | German Veterinary Association (BTK) | Required | Overseas qualifications need to be recognized and an adaptation training completed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 45,000。德国宠物数量持续增长，兽医助理需求稳定。由于双元制培训名额有限，合格人才供不应求，就业前景良好，尤其在城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Germany's pet population continues to grow, with stable demand for veterinary assistants. Due to limited dual training places, qualified personnel are in short supply, with good employment prospects, especially in urban areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，东部略低 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，因诊所规模而异 |
-| 高级（7年以上） | $36,000~$42,000 | 税前年薪，含管理职责 |
+| Median salary | $37,944 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, slightly lower in the east |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary, varies by clinic size |
+| Senior (7+ years) | $36,000~$42,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $38,892 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从业者可通过继续教育成为兽医技术专家（Tiermedizinische Fachassistentin）或专科助理，或转向兽药销售、动物护理管理等岗位，晋升空间有限但专业化路径明确。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
+
+Practitioners can become veterinary technical experts (Tiermedizinische Fachassistentin) or specialist assistants through continuing education, or transition to veterinary pharmaceutical sales, animal care management, etc. Advancement opportunities are limited but specialization paths are clear.
+
+**Tasks most exposed to AI:**
+
+- Use automatic cleaning and disinfection equipment to clean and disinfect cages and work areas
+- Automatically record daily monitoring data like animal weight and diet via AI system.
+- Automate preparation of surgical instrument kits (e.g., sterilization, packing processes)
+- Automated feeding of feed and water using smart feeders
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools (e.g., image analysis) to identify early signs of animal diseases
+- Monitor animal vital signs in real time via wearable devices, with automatic alerts for abnormalities.
+- Use VR/AR simulation to train on complex surgical assistance procedures, enhancing skills
+- Using AI scheduling systems to optimize workflows and prioritize emergency care
+
+**Human moat:**
+
+- Careful observation of animal emotions and behavior (such as pain body language in animals)
+- Make quick decisions and perform non-standardised nursing operations in emergencies
+- Communicate with pet owners about conditions, provide emotional support, and build trust
+- Ethical judgment and sensitive operations like euthanasia in laboratory animal care
+
+**Skills to build:**
+
+- Animal medical image analysis and use of AI-assisted diagnostic tools
+- Basic data science (electronic health record analysis)
+- Advanced first aid and critical care skills.
+- Telehealth communication and care coordination skills
+- Automated cleaning equipment maintenance and minor troubleshooting
+- Knowledge of animal behavior psychology
+
+**Key growth areas:**
 
 - Pet care demand
 - Veterinary services
@@ -63,69 +96,68 @@ Veterinary medical assistants support veterinarians in animal treatment, nursing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可职业资格的非欧盟申请人，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许未获工作合同的求职者在德寻找工作。 |
-| Subclass Recognition Partners（Recognition Partnership (Anerkennungspartnerschaft)） | 雇主可先雇佣后认证，适用于部分紧缺职业。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to non-EU applicants with recognized German professional qualifications, requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers without a work contract to look for work in Germany. |
+| Subclass Recognition Partners (Recognition Partnership (Anerkennungspartnerschaft)) | Employers can hire first and certify later, applicable to some shortage occupations. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Veterinary Medical Assistant？**
-- 喜欢动物、有耐心和同理心的人
-- 注重细节、动手能力强的人
-- 愿意从事双元制职业培训者
-
-**谁不适合学Veterinary Medical Assistant？**
-- 对动物毛发、气味过敏者
-- 无法接受动物疾病和死亡场景者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like animals and have patience and empathy
+- Detail-oriented, hands-on person
+- Those willing to undergo dual vocational training
+
+**Who is not suited**
+- Those allergic to animal hair and odors
+- For those unable to handle animal disease and death scenes
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a veterinary assistant in Germany?**
+A: Junior veterinary assistant annual salary approximately 24,000-30,000 euros, intermediate approximately 30,000-36,000 euros, senior up to 42,000 euros.
+
+**Q: How can foreigners become veterinary assistants in Germany?**
+A: Non-EU applicants must go through a qualification assessment process, including credential evaluation and bridging training, before applying for a skilled worker visa.
+
+**Q: How long does veterinary assistant training take?**
+A: German veterinary assistant is a 3-year dual vocational training program combining theory and practice, with a stipend during training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中（★★½☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中（★★☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Veterinary Medical Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a veterinary medical assistant in Germany?**
-答：Entry-level salary is around €24,000-30,000, mid-level €30,000-36,000, and senior up to €42,000 gross per year.
-
-**问：How can a foreigner become a veterinary medical assistant in Germany?**
-答：Non-EU applicants must go through a recognition procedure including credential evaluation and adaptation training, then apply for a skilled worker visa.
-
-**问：How long is the training for veterinary medical assistants?**
-答：The German dual vocational training lasts 3 years, combining theory and practice with a stipend.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

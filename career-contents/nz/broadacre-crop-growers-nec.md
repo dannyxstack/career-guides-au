@@ -1,59 +1,95 @@
-# Broadacre Crop Growers nec（Broadacre Crop Growers nec）职业分析 · 新西兰
+# Broadacre Crop Growers nec — career analysis · New Zealand
 
-**职业代码：121599 – Broadacre Crop Growers nec。**
+**Occupation code: 121599 (ANZSCO)**
 
-This occupation involves planning, planting, managing, and harvesting broadacre crops such as wheat, barley, and canola. Due to labor shortages in NZ agriculture, it is eligible for Green List or Skilled Migrant Category residence pathways.
+This occupation involves planning, planting, managing, and harvesting broad-acre crops such as wheat, barley, and canola. New Zealand faces agricultural labor shortages; this occupation is eligible for residence through the Green List or Skilled Migrant pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰农学大专 | 2年 | $20,000~$35,000（年学费约1-1.8万NZD） |
-| 新西兰农业本科 | 3年 | $30,000~$45,000（年学费约1.5-2.5万NZD） |
+| New Zealand Diploma in Agriculture | 2 years | $20,000~$35,000 (Annual tuition approx. NZD 10,000-18,000) |
+| New Zealand agriculture bachelor's degree | 3 years | $30,000~$45,000 (Annual tuition approx NZD 15k-25k) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业证书 (Certificate in Agriculture) | NZQA认证学校 | 可选 | 可替代部分经验要求 |
-| 重型车辆驾照 (Class 2/4/5) | NZTA | 可选 | 部分农场招聘要求 |
-| 农业化学品使用证书 (Growsafe) | NZ Ministry for Primary Industries | 必备 | 必备喷洒资质 |
+| Agricultural Chemical Use Certificate (Growsafe) | NZ Ministry for Primary Industries | Required | Essential spraying qualifications |
+| Certificate in Agriculture | NZQA-accredited school | Optional | Can substitute part of the experience requirement |
+| Heavy vehicle license (Class 2/4/5) | NZTA | Optional | Recruitment requirements for some farms |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,500。新西兰农业是经济支柱，尤其在坎特伯雷和北岛中部分布广泛。人口增长和出口需求稳定，但机械化程度高，初级岗位竞争一般，有经验者需求持续。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Agriculture is the backbone of New Zealand's economy, especially widespread in Canterbury and central North Island. Population growth and export demand are stable, but mechanization is high, competition for entry-level positions is moderate, and demand for experienced workers continues.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$55,000 | 约24-27NZD/小时 |
-| 中级（3-7年） | $55,000~$70,000 | 约27-35NZD/小时 |
-| 高级（7年以上） | $70,000~$90,000 | 包括农场经理等职位 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$55,000 | Approximately 24-27 NZD/hour. |
+| Mid-level (3–7 years) | $55,000~$70,000 | Approximately 27-35 NZD/hour |
+| Senior (7+ years) | $70,000~$90,000 | Includes positions such as farm manager |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从农业工人或农场助理起步，积累经验后可晋升为农场经理或农业咨询师。亦可转向大型农业企业管理或农业技术研发。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Start as an agricultural worker or farm assistant, gain experience, and progress to farm manager or agricultural consultant. Alternatively, shift to large-scale agricultural enterprise management or agricultural technology R&D.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ This occupation involves planning, planting, managing, and harvesting broadacre 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接申请居留，要求Job Offer、中位数工资、相关学历或经验。 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，根据学历、收入、工作经验等评分，要求有Job Offer。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保，3年期可续，积累经验后转为居留路径。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Directly apply for residence, requires job offer, median salary, relevant qualifications or experience. |
+| Subclass SMC (Skilled Migrant Category) | 6-point system, scoring based on education, income, work experience, etc., with a job offer required. |
+| Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, renewable for 3 years, can transition to permanent residency after gaining experience. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Broadacre Crop Growers nec？**
-- 热爱户外体力工作，能适应季节性忙碌节奏
-- 拥有农业或相关学历优先，但有无经验均可从基层做起
-- 愿意在乡村或偏远地区生活
-
-**谁不适合学Broadacre Crop Growers nec？**
-- 不适应体力劳动、恶劣天气或长时间野外工作
-- 依赖城市便利设施，不喜欢乡村生活
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical work and can adapt to seasonal busy periods
+- Preference for qualifications in agriculture or related fields, but no experience is necessary to start from entry-level
+- Willing to live in rural or remote areas
+
+**Who is not suited**
+- Not suitable for physical labor, harsh weather, or prolonged fieldwork
+- Dependent on urban amenities, not fond of rural life
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for broadacre crop farmers in New Zealand?**
+A: Annual salary approx. 48,000-90,000 NZD, depending on experience and role. Entry-level about 48,000-55,000, senior (e.g., manager) up to 70,000-90,000.
+
+**Q: How to immigrate to New Zealand through this occupation?**
+A: Can take the Green List direct residence pathway (requires job offer, median wage, and relevant qualification/experience) or skilled migration (meeting 6-point system). Alternatively, can first work on an AEWV visa and then apply.
+
+**Q: What are the career prospects for this occupation?**
+A: Starting from entry-level, you can advance to farm manager or agricultural advisor, or transition to fields such as agricultural technology and supply chain management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Broadacre Crop Growers nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for broadacre crop growers in New Zealand?**
-答：Annual salary ranges from NZD 48,000 to 90,000, depending on experience. Entry-level earns NZD 48,000-55,000, senior roles (e.g., farm manager) NZD 70,000-90,000.
-
-**问：How to immigrate to New Zealand as a broadacre crop grower?**
-答：You can apply for the Green List Straight to Residence visa (requires job offer, median wage, relevant qualification/experience) or Skilled Migrant Category (6-point system). Alternatively, obtain an AEWV first.
-
-**问：What are the career prospects for this occupation?**
-答：Start as a general worker, progress to farm manager or agronomist, or pivot to agri-tech and supply chain.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

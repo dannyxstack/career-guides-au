@@ -1,59 +1,91 @@
-# Environmental and Occupational Health Inspector（Environmental and Occupational Health Inspector）职业分析 · IE
+# Environmental and Occupational Health Inspector — career analysis · Ireland
 
-**职业代码：3257 – Environmental and Occupational Health Inspector。**
+**Occupation code: 3257 (ISCO08)**
 
-Responsible for inspecting workplaces and public environments to ensure compliance with health and safety regulations, identifying and assessing health risks, and providing recommendations for improvement. In Ireland, they are employed by agencies such as the Health and Safety Authority (HSA) and the Environmental Protection Agency (EPA).
+Responsible for inspecting workplaces and public environments for compliance with health and safety regulations, identifying and assessing health risks, and providing improvement recommendations. In Ireland, they are employed by agencies such as the Health and Safety Authority (HSA) and the Environmental Protection Agency (EPA).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $10,000~$20,000（每年学费，欧盟学生约€10,000-€20,000，非欧盟更高） |
-| 硕士 | 1-2年 | $12,000~$25,000（每年学费，用于环境健康或职业健康方向） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $10,000~$20,000 (Annual tuition fees, approximately €10,000–€20,000 for EU students, higher for non-EU) |
+| Master's degree | 1-2 years | $12,000~$25,000 (Annual tuition fee for environmental health or occupational health streams) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境健康学位 | 爱尔兰大学如NUI Galway | 必备 | 被认可的环境健康学士学位 |
-| 职业健康与安全认证 | NEBOSH或IOSH | 可选 | 非必须但强烈推荐 |
-| 注册环境健康官员 | 环境健康官员协会（EHAI） | 必备 | 需通过考试和实习 |
+| Environmental health degree | Irish universities such as NUI Galway | Required | Accredited bachelor's degree in environmental health |
+| Registered environmental health officer | Environmental Health Officers Association (EHAI) | Required | Must pass exams and internship |
+| Occupational health and safety certification | NEBOSH or IOSH | Optional | Not mandatory but strongly recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 1,200。随着欧盟和爱尔兰对职业健康与环境保护法规的日益严格，预计未来5年该职业需求将稳步增长。特别是在建筑业、制造业和公共服务领域，对合格检查员的需求持续存在。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 1,200. With increasingly strict occupational health and environmental protection regulations in the EU and Ireland, demand for this occupation is expected to grow steadily over the next five years. Particularly in construction, manufacturing, and public services, there is a sustained need for qualified inspectors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 年薪，税前 |
-| 中级（4-7年） | $40,000~$55,000 | 年薪，税前 |
-| 高级（8年以上） | $55,000~$75,000 | 年薪，税前，管理层可达更高 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Annual salary, pre-tax |
+| Mid-level (4-7 years) | $40,000~$55,000 | Annual salary, pre-tax |
+| Senior (8+ years) | $55,000~$75,000 | Annual salary, pre-tax, management can go higher |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 初级检查员通常从现场工作开始，积累经验后可晋升为高级检查员或团队领导。进一步可转向政策制定、培训或管理岗位，部分人进入私营部门担任健康与安全顾问。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Standardized reporting and inspection tasks for environmental health officers will be automated by AI, but on-site enforcement, complex investigations, and public trust responsibilities remain human moats; overall outlook is mixed.
+
+Junior inspectors usually start with field work and can advance to senior inspectors or team leaders after gaining experience. Further career moves include policy development, training, or management roles, with some moving to the private sector as health and safety consultants.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate food safety inspection reports and templated complaint responses
+- Automatically identifying high-risk food safety enterprises for priority inspection based on historical data
+- Automated handling of standard Q&A in public health regulation inquiries
+- Analyze water quality monitoring data with AI and flag anomalies
+
+**Where AI augments the role:**
+
+- AI-assisted on-site inspection, real-time retrieval of historical compliance records and violation predictions via mobile devices
+- Use natural language processing to quickly filter key information from infectious disease reports
+- AI prediction models identify outbreak risks to guide resource allocation
+- Automatically generating visual public health trend reports to aid policy making
+
+**Human moat:**
+
+- On-site inspection and enforcement discretion, including complex situation judgment
+- Face-to-face communication and trust building with food companies and community residents
+- Dynamic decision-making in public health emergency response
+- Legal and ethical responsibility allocation cannot be fully delegated to AI
+
+**Skills to build:**
+
+- Data analysis and AI tool usage (Python/R, data visualization)
+- Operation of public health information systems (such as SPI)
+- Crisis communication and negotiation skills
+- Basic statistics and data interpretation skills
+- AI ethics and compliance knowledge
+
+**Key growth areas:**
 
 - Regulatory Compliance
 - Workplace Safety
@@ -62,68 +94,67 @@ Responsible for inspecting workplaces and public environments to ensure complian
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，需有工作offer，年薪至少€32,000（2024标准），允许直接申请居留 |
-| Subclass General Employment P（General Employment Permit） | 适用于非短缺职业，需劳动市场测试，年薪至少€30,000，可转长期居留 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，需本科以上学历，年薪至少€53,968（2024标准），可通往永居 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to shortage occupations; requires a job offer with annual salary at least €32,000 (2024 standard); allows direct application for residence |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires labor market test, annual salary at least €30,000, can lead to long-term residence |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers requiring a bachelor's degree or higher, with an annual salary of at least €53,968 (2024 standard), leading to permanent residency |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental and Occupational Health Inspector？**
-- 注重细节、有责任心的人
-- 对公共卫生和环保有热情的人
-- 喜欢户外和现场工作的人
-
-**谁不适合学Environmental and Occupational Health Inspector？**
-- 不适应频繁出差和现场检查的人
-- 不善于沟通和面对冲突的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and responsible individuals
+- People passionate about public health and environmental protection
+- People who enjoy outdoor and field work
+
+**Who is not suited**
+- People who are not suited to frequent travel and on-site inspections
+- People who are not good at communication and facing conflicts
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for an environmental and occupational health inspector?**
+A: Starting salary for entry-level positions is approximately €30,000-€40,000/year, reaching over €55,000 with experience.
+
+**Q: How can foreigners apply to become environmental and occupational health inspectors in Ireland?**
+A: Must obtain an Irish-recognized degree and work under a Critical Skills Employment Permit or General Employment Permit. EU citizens can move freely.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Yes, can advance to senior inspector, team leader, or policy advisor, or switch to private sector health and safety consultant roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Environmental and Occupational Health Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for environmental and occupational health inspectors?**
-答：Entry-level positions start at around €30,000-€40,000 per year, with experienced professionals earning over €55,000.
-
-**问：How can a foreigner apply to become an environmental and occupational health inspector in Ireland?**
-答：They need an Irish-recognized degree and a work permit such as the Critical Skills Employment Permit or General Employment Permit. EU citizens can move freely.
-
-**问：Are there promotion opportunities in this career?**
-答：Yes, one can advance to senior inspector, team leader, or policy advisor, or move to private sector health and safety consulting.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

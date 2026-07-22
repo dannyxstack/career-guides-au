@@ -1,62 +1,97 @@
-# Medicosocial Support Worker（Medicosocial Support Worker）职业分析 · FR
+# Medicosocial Support Worker — career analysis · France
 
-**职业代码：K1301 – Medicosocial Support Worker。**
+**Occupation code: K1301 (ROME)**
 
-Provides daily living assistance, psychological support, and social integration for elderly, disabled, or chronically ill individuals, collaborating with nurses and social workers in institutional or home settings.
+Provides daily living assistance, psychological support, and social integration services for the elderly, disabled, or long-term patients, often collaborating with nurses and social workers, and can work in institutional or home settings.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP Accompagnant Éducatif Petite Enfance | 2年（CAP） | —（公立学校免费，材料费约500-1500欧元） |
-| DE AES (Diplôme d'État d'Accompagnant Éducatif et Social) | 1-2年（DE AES） | $500~$3,000（公立机构约500-1500欧元，私立可达3000欧元） |
-| DE AMP (Diplôme d'État d'Aide Médico-Psychologique，逐步合并入DE AES) | 2年（DE AMP） | $500~$2,000（学徒制通常免学费） |
+| CAP Accompagnant Éducatif Petite Enfance | 2 years (CAP) | $0~$1,500 (Public schools are free, with material costs around 500-1500 euros) |
+| DE AES (Diplôme d'État d'Accompagnant Éducatif et Social) | 1-2 years (DE AES) | $500~$3,000 (Public institutions about €500-1,500, private up to €3,000.) |
+| DE AMP (Diplôme d'État d'Aide Médico-Psychologique, gradually merged into DE AES) | 2 years (DE AMP) | $500~$2,000 (Apprenticeships are usually free of tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家医疗社会支持文凭（DE AES） | 法国国家教育与青年部 | 必备 | 从事该职业的必备文凭，分为三个专业方向：家庭与生命支持、社会融入支持、学校教育支持 |
-| CPF个人培训账户认证 | 法国国家职业培训协会 | 可选 | 可通过CPF账户申请培训资金，非强制但有助于职业发展 |
-| 无犯罪记录证明（B3） | 法国司法部 | 必备 | 从事与未成年人或弱势群体相关工作必须提供 |
+| National Diploma in Social Health Support (DE AES) | French Ministry of Education and Youth | Required | The essential diploma for this profession is divided into three specializations: Family and Life Support, Social Integration Support, and School Education Support |
+| Certificate of no criminal record (B3) | French Ministry of Justice | Required | Employment related to minors or vulnerable groups must be provided |
+| CPF Personal Training Account Authentication | French National Association for Vocational Training | Optional | Training funds can be applied for through a CPF account; it is non-mandatory but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350,000。由于老龄化加速和残疾人融入政策推动，该职业需求持续上升。政府优先发展家庭照护与社区服务，预计未来十年岗位增长超过10%。但工作条件辛苦、薪资偏低，导致人员流失率高。
+**Job demand: high (★★★★☆).** National workforce approx. 350,000. Due to accelerated aging and policies promoting inclusion of people with disabilities, demand for this profession continues to rise. The government prioritizes the development of family care and community services, expecting job growth of over 10% over the next decade. However, the working conditions are harsh and wages are low, resulting in a high turnover rate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，公立机构按公务员级别，约1.8-2.2万欧元 |
-| 中级（3-7年） | $26,000~$30,000 | 税年前薪，含资历津贴与夜班补贴 |
-| 高级（7年以上） | $30,000~$35,000 | 税年前薪，团队负责人或协调员可达3.5万欧元 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, in public institutions based on civil service grade, about EUR 18,000-22,000. |
+| Mid-level (3–7 years) | $26,000~$30,000 | Pre-tax salary, including seniority allowance and night shift allowance |
+| Senior (7+ years) | $30,000~$35,000 | Pre-tax annual salary, team leader or coordinator up to €35,000 |
+| average salary | $23,583 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从医疗社会支持专员晋升为团队负责人或协调员，也可通过继续教育成为专业护理人员或社会工作者。部分人转向管理岗位或自主执业（家庭护理服务）。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For medical social support specialists, AI is not a threat but an amplifier: by automating administrative and basic information work, more time is freed up for high-value humanistic care and complex coordination.
+
+You can be promoted from Medical Social Support Specialist to Team Leader or Coordinator, and through continuing education, become a professional nurse or social worker. Some have shifted to management positions or self-employment (home care services).
+
+**Tasks most exposed to AI:**
+
+- Automatically generate service plans and daily logs
+- Basic health monitoring data entry and trend analysis
+- Automated medication reminders and scheduling
+- Initial information consultation and FAQ responses
+
+**Where AI augments the role:**
+
+- AI analyzes service recipients' behavioral data to provide early warnings of health or emotional issues
+- AI recommends personalized daily activities and social plans
+- Use AI voice tools to record and summarize home visit conversations to improve report quality
+- AI-assisted translation and multilingual communication serve multicultural groups
+- Use AI simulation training to improve crisis intervention and communication skills
+
+**Human moat:**
+
+- Deep empathy and emotional support skills
+- Coordination and negotiation of complex family and social systems
+- Intuitive judgment of unstructured situations and creative problem-solving
+- Building long-term trust and personalized care
+- Ethical decision-making and maintaining the dignity of service recipients
+
+**Skills to build:**
+
+- Use of AI tools (such as intelligent schedule management, data analysis platforms)
+- Basic data interpretation and visualization
+- Interdisciplinary collaboration and project coordination
+- Digital communication and remote support skills
+- Ethics and privacy protection knowledge
+- Self-care and stress resistance
+
+**Key growth areas:**
 
 - Aging population
 - Home care development
@@ -65,65 +100,67 @@ Provides daily living assistance, psychological support, and social integration 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Work permit (Salarié)） | 需找到法国雇主，工作合同符合劳动力市场测试（opposabilité de la situation d'emploi），但该职业非高技能，通常较难获批。 |
-| Subclass Passeport Talent（Talent Passport (Passeport Talent)） | 适用于高技能人才或项目，该职业通常不符合标准。 |
+| Subclass Salarié (Work permit (Salarié)) | You need to find a French employer whose work contract meets the labor market test (opposabilité de la situation d'emploi), but the occupation is not highly skilled and is usually difficult to approve. |
+| Subclass Passeport Talent (Talent Passport (Passeport Talent)) | Suitable for highly skilled talent or projects, the profession often does not meet the standards. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Medicosocial Support Worker？**
-- 有耐心、同理心，愿意帮助弱势群体的人
-- 喜欢稳定工作、不追求高薪的人
-- 具备基础护理或社会工作经验者
+**Who is suited**
+- Patient, empathetic, and willing to help vulnerable groups
+- People who prefer stable jobs and do not pursue high salaries
+- Those with basic nursing or social work experience
 
-**谁不适合学Medicosocial Support Worker？**
-- 追求高收入或快速晋升的人
-- 无法承受体力与情绪双重压力的人
+**Who is not suited**
+- Those pursuing high income or rapid promotion
+- People who cannot withstand the dual pressure of physical strength and emotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for Medical Social Support Specialists?**
+A: The entry-level pre-tax annual salary is about 22,000-26,000 euros, the intermediate salary about 26,000-30,000 euros, and the senior level can reach up to 35,000 euros. Public institutions set salaries based on rank, while private institutions may have slightly higher salaries.
+
+**Q: Can non-EU individuals immigrate to France through this employment?**
+A: It's very difficult. This occupation is usually classified as low-skilled and does not qualify for the EU Blue Card or Talent Passport. Employers must prove that recruitment within the EU is not possible and that it has been approved by the labor office, resulting in a low success rate.
+
+**Q: How are foreign diplomas recognized?**
+A: Equivalent accreditation (reconnaissance de niveau) through ENIC-NARIC is required, but the French National Diploma (DE AES) is mandatory. Foreign relevant qualifications usually cannot be directly substituted and may require taking some courses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Medicosocial Support Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a Medicosocial Support Worker?**
-答：Starting annual gross salary is around €22,000–€26,000, mid-level €26,000–€30,000, and senior up to €35,000. Public institutions follow fixed scales, while private employers may offer slightly more.
-
-**问：Can non-EU nationals immigrate to France through this occupation?**
-答：Very difficult. The profession is considered low-skilled, ineligible for EU Blue Card or Talent Passport. Employers must prove no EU candidate available and pass labor market test, with low success rates.
-
-**问：How are foreign qualifications recognized?**
-答：ENIC-NARIC provides a level equivalency, but the French state diploma (DE AES) is mandatory. Foreign qualifications rarely substitute fully; additional modules may be required.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

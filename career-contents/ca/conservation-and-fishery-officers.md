@@ -1,60 +1,96 @@
-# Conservation and fishery officers（Conservation and fishery officers）职业分析 · 加拿大
+# Conservation and fishery officers — career analysis · Canada
 
-**职业代码：22113 – Conservation and fishery officers。**
+**Occupation code: 22113 (NOC)**
 
-Enforce laws related to fisheries, wildlife, and environmental protection; patrol waterways and forests; investigate violations; and conserve natural resources.
+Enforce fisheries, wildlife, and environmental protection laws; patrol waters and forests; investigate violations; protect natural resources.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大学本科 | 4年 | $30,000~$60,000（自然资源管理、环境科学或相关专业） |
-| 学院文凭 | 2-3年 | $15,000~$30,000（鱼类和野生动物技术或执法类课程） |
+| University bachelor's degree | 4 years | $30,000~$60,000 (Natural resource management, environmental science, or related fields) |
+| College diploma | 2-3 years | $15,000~$30,000 (Fish and wildlife technology or enforcement courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自然资源执法培训 | 各省自然资源部门 | 必备 | 包括枪支使用、冲突解决和法律程序培训 |
-| 激流救援培训 | 加拿大海岸警卫队或省级机构 | 可选 | 涉水巡查必备 |
-| 学士学位 | 认可大学 | 必备 | 环境科学、自然资源管理或相关领域 |
-| 商业驾驶执照 | 各省交通部门 | 可选 | 可驾驶执法车辆和船只 |
+| Natural resources enforcement training | Provincial natural resource departments | Required | Includes training in firearm use, conflict resolution, and legal procedures. |
+| Bachelor's degree | Recognised university | Required | Environmental science, natural resource management, or related fields. |
+| Swiftwater Rescue Training | Canadian Coast Guard or provincial agency | Optional | Essential for wading inspections |
+| Commercial driver's license | Provincial transportation departments. | Optional | Drivable law enforcement vehicles and boats |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 5,200。加拿大对自然资源保护和执法需求稳定，受公共安全和环境保护意识提升推动，未来十年预计保持适度增长。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 5,200. Demand for natural resource conservation and law enforcement is stable in Canada, driven by public safety and environmental awareness, with moderate growth expected over the next decade.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 联邦或省级起始薪资 |
-| 中级（4-8年） | $65,000~$85,000 | 含经验提升和专项职责 |
-| 高级（9年以上） | $85,000~$105,000 | 包括主管或专业调查员角色 |
+| Median salary | $74,672 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $50,000~$65,000 | Federal or provincial starting salary |
+| Mid-level (4–8 years) | $65,000~$85,000 | Including experience enhancement and specific responsibilities |
+| Senior (9+ years) | $85,000~$105,000 | Includes supervisor or specialized investigator roles |
+| average salary | $76,960 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从基层巡查员起步，积累经验后可晋升为高级官员、区域主管或政策制定岗位。部分人转向资源管理或咨询领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on natural resource protection officers is mixed: automation tools can handle reports and data analysis, enhancing patrol decisions; but on-site enforcement, discretion, and human judgment are hard to replace, overall risk medium-high.
+
+Starting as a junior inspector, gain experience to advance to senior officer, regional supervisor, or policy-making roles. Some transition into resource management or consulting.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patrol records and enforcement reports
+- Automatically flag suspicious activities via image recognition
+- Data collation and basic species statistics.
+- Automatically generate violation notice templates
+- Preliminary analysis of environmental monitoring data.
+
+**Where AI augments the role:**
+
+- AI-assisted prediction of poaching hotspots to optimize patrol routes
+- Use drones + AI to cover vast forest areas in real time.
+- Automatically analyze surveillance camera video to increase violation detection rates.
+- Simulating ecological intervention plans to assist in regulation development
+- Digital twin simulation of river basins to assist fisheries management decisions
+
+**Human moat:**
+
+- Handling conflicts and interpersonal communication in law enforcement on site
+- Reasoning and evidence chain construction in complex case investigations
+- Negotiating and building trust with Indigenous communities and fishers
+- Independent decision-making in extreme weather or hazardous terrain
+- Discretion and discretionary enforcement of legal provisions
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and remote sensing analysis.
+- Drone operation and data interpretation
+- Basic data analysis with Python/R
+- Application of environmental acoustics and image recognition tools
+- Cross-cultural communication and conflict mediation
+- Smart monitoring platform management
+
+**Key growth areas:**
 
 - Environmental enforcement
 - Climate change adaptation
@@ -63,68 +99,67 @@ Enforce laws related to fisheries, wildlife, and environmental protection; patro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 通过联邦技术移民，职业属于TEER 2，需满足工作经验、语言等要求。 |
-| Subclass PNP（Provincial Nominee Program） | 各省（如BC、安省）有自然资源类省提名项目，可加速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但该职位通常由公民或PR担任。 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Through Federal Skilled Migration, the occupation falls under TEER 2 and requires meeting work experience, language, and other requirements. |
+| Subclass PNP (Provincial Nominee Program) | Provinces (e.g., BC, Ontario) have natural resource-focused provincial nomination programs that can expedite immigration. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work visa, but this role is usually held by citizens or PRs. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Conservation and fishery officers？**
-- 热爱户外和自然资源保护
-- 具有执法意识和责任心
-- 能适应偏远地区和不规律工作时间
-
-**谁不适合学Conservation and fishery officers？**
-- 不适应野外和恶劣天气
-- 对冲突和危险场景敏感
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for the outdoors and nature conservation
+- A sense of law enforcement awareness and responsibility
+- Able to adapt to remote areas and irregular working hours
+
+**Who is not suited**
+- Not suited to field work and harsh weather
+- Sensitive to conflict and dangerous scenarios
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Conservation Officer?**
+A: Junior annual salary about C$50,000-65,000, intermediate C$65,000-85,000, senior up to C$85,000-105,000, government positions have better benefits.
+
+**Q: What pathways can foreigners take to immigrate as conservation officers?**
+A: Apply through Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP). Some provinces have priority occupation lists; must meet education, language, and work experience requirements.
+
+**Q: What are the physical requirements for this job?**
+A: Requires good physical fitness, ability to walk, swim, and operate boats for long periods, and pass physical tests such as running, swimming, and strength assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Conservation and fishery officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for conservation and fishery officers?**
-答：Entry-level around CAD 50k-65k, mid-level CAD 65k-85k, senior CAD 85k-105k, with good government benefits.
-
-**问：What immigration pathways exist for foreigners to become conservation and fishery officers?**
-答：Federal Skilled Worker (FSW) or Provincial Nominee Program (PNP). Some provinces list it as priority; requires education, language, and experience.
-
-**问：What physical requirements are needed for this job?**
-答：Good fitness for hiking, swimming, boating; must pass physical tests including running, swimming, and strength assessments.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

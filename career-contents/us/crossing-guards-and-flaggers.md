@@ -1,60 +1,93 @@
-# Crossing Guards and Flaggers（Crossing Guards and Flaggers）职业分析 · 美国
+# Crossing Guards and Flaggers — career analysis · United States
 
-**职业代码：33-9091 – Crossing Guards and Flaggers。**
+**Occupation code: 33-9091 (SOC)**
 
-Guide or control vehicular or pedestrian traffic at streets, schools, railroad crossings, or construction sites to ensure safety.
+Direct or control vehicular and pedestrian traffic at streets, schools, railway crossings, or construction sites to ensure safe passage
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（通常仅需高中文凭或同等学历） |
-| 短期培训 | 1-2周 | $100~$500（雇主提供在职培训或短期课程） |
+| High school diploma | 0 years | $0~$0 (Typically only requires a high school diploma or equivalent) |
+| Short-term training | 1-2 weeks | $100~$500 (Employers provide on-the-job training or short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 驾驶执照 | 州机动车辆管理局 | 可选 | 部分岗位要求有效驾驶执照 |
-| 交通安全培训证书 | 美国安全委员会或类似机构 | 可选 | 部分州或雇主要求完成经批准的培训课程 |
+| Driver's license | State motor vehicle department | Optional | Some positions require a valid driver's license |
+| Traffic safety training certificate | National Safety Council or similar organizations | Optional | Some states or employers require completion of approved training programs |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 83,000。该职业受基础设施建设和城市交通管理需求驱动，就业增长稳定但较慢，年增长率约3%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 83,000. This occupation is driven by infrastructure construction and urban traffic management demand, with stable but slower employment growth at about 3% annually.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约$12-15 |
-| 中级（3-5年） | $32,000~$38,000 | 时薪约$15-18 |
-| 高级（5年以上） | $38,000~$45,000 | 时薪约$18-22，含主管岗位 |
+| Median salary | $38,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage approximately $12-15 |
+| Mid-level (3–5 years) | $32,000~$38,000 | Hourly wage about USD 15-18 |
+| Senior (5+ years) | $38,000~$45,000 | Hourly wage approximately $18-22, including supervisor roles |
+| average salary | $43,350 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从兼职或临时岗位开始，积累经验后可晋升为交通主管或安全协调员，部分转入执法或项目管理。
-**AI替代风险：低（½☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI will not fully replace traffic controllers in the short term, but automated signals and monitoring systems will take over some tasks while enhancing situational awareness and recording capabilities; the role will shift towards safety supervision and emergency response.
+
+Usually start with part-time or temporary positions, after gaining experience can advance to traffic supervisor or safety coordinator, some switch to law enforcement or project management.
+
+**Tasks most exposed to AI:**
+
+- Direct repetitive traffic flow (e.g., automatic signal optimization replaces manual flagging)
+- Routine guidance during peak times (AI cameras + automatic warning systems take over some points)
+- Traffic violation records and reports (automated photo capture, identification, and log generation)
+
+**Where AI augments the role:**
+
+- Monitors weather, visibility, and accident risks in real-time, and alerts commanders via wearable devices.
+- Using AI systems to analyze intersection congestion patterns and optimize command strategies
+- Use augmented reality headsets to mark vehicles in blind spots to improve personal safety
+- Automatically generate daily traffic flow reports, aiding work summaries and planning
+
+**Human moat:**
+
+- Immediate judgment and handling of on-site emergencies (e.g., vehicle loss of control, pedestrian conflicts)
+- Non-standard communication and care for special populations (children, elderly, disabled)
+- Multi-party coordination and dynamic decision-making in complex construction areas
+- Legal and ethical responsibilities (e.g., first responder duties at accident scenes)
+- Human eye recognition and adaptability under adverse conditions like extreme weather and low visibility
+
+**Skills to build:**
+
+- Basic operation and alarm interpretation of AI monitoring systems.
+- Learn basics of traffic data analysis (e.g., identifying congestion patterns)
+- Attend emergency response and crisis management training
+- Improve communication skills, especially with children and non-English-speaking pedestrians
+- Familiarity with handheld terminals or wearable devices (e.g., augmented reality glasses)
+- Basic English for understanding international traffic signs and operation manuals
+
+**Key growth areas:**
 
 - Infrastructure
 - Traffic Safety
@@ -63,61 +96,63 @@ Guide or control vehicular or pedestrian traffic at streets, schools, railroad c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 理论上可用于临时非农业工人，但该职业通常不满足专业要求，极难获批。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Theoretically usable for temporary non-agricultural workers, but this occupation usually does not meet professional requirements, extremely difficult to approve. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Crossing Guards and Flaggers？**
-- 需要兼职或灵活工作时间的人群
-- 注重公共安全和户外工作的人
-- 寻求低门槛入门工作的人
+**Who is suited**
+- People who need part-time or flexible working hours
+- those focused on public safety and outdoor work
+- Those seeking low-barrier entry jobs
 
-**谁不适合学Crossing Guards and Flaggers？**
-- 追求高收入和职业发展的人
-- 希望获得美国永久居留权的人
+**Who is not suited**
+- Those seeking high income and career development.
+- Those seeking permanent residency in the United States
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a traffic controller?**
+A: According to BLS data, the median annual salary in 2023 was approximately $33,000, with an hourly wage of about $16.
+
+**Q: Can traffic controllers immigrate to the US via work visa?**
+A: This occupation typically does not meet H-1B specialty occupation requirements, and PERM labor certification is almost impossible to obtain, so skilled migration pathways are generally not feasible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Crossing Guards and Flaggers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for crossing guards?**
-答：According to BLS, the median annual wage is about $33,000 as of 2023, with an hourly wage of around $16.
-
-**问：Can crossing guards immigrate to the US via work visa?**
-答：This occupation typically does not meet H-1B specialty occupation requirements and PERM labor certification is nearly impossible, so skilled migration paths are virtually unavailable.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Watchmaker（Watchmaker）职业分析 · DE
+# Watchmaker — career analysis · Germany
 
-**职业代码：2453 – Watchmaker。**
+**Occupation code: 2453 (KldB)**
 
-Watchmakers repair, maintain, and manufacture clocks and watches, working with mechanical and electronic timepieces. It's a traditional craft in Germany.
+Watchmakers repair, maintain, and manufacture clocks and watches, involving mechanical and electronic watch technology, a traditional craft profession in Germany.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴） |
-| 师傅学位（Meister） | 1-2年（额外） | $3,000~$8,000（由工商业行会（IHK）或手工业行会（HWK）提供） |
+| Dual vocational training | 3 years (dual system) | $0~$0 (Allowance during training) |
+| Master craftsman qualification (Meister) | 1-2 years (additional) | $3,000~$8,000 (Provided by chambers of industry and commerce (IHK) or chambers of crafts (HWK)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 钟表匠毕业证书（Gesellenbrief） | 德国手工业行会（HWK） | 必备 | 完成双元制培训后获得，为从业必备 |
-| 钟表匠师傅证书（Meisterbrief） | 德国手工业行会（HWK） | 可选 | 可开设独立工作室并带徒 |
-| 资质认证（Anerkennung） | 德国手工艺行会 | 必备 | 海外学历需经认证，可能要求补修课程或考试 |
+| Gesellenbrief (Journeyman's Certificate) in Clockmaking | German Chamber of Crafts (HWK) | Required | Obtained after completing dual system training, essential for the profession |
+| Qualification recognition (Anerkennung) | German Chamber of Crafts | Required | Overseas qualifications need to be assessed and may require supplementary courses or exams. |
+| Master watchmaker certificate (Meisterbrief) | German Chamber of Crafts (HWK) | Optional | Can set up an independent studio and take on apprentices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 7,200。德国钟表匠需求稳定，尤其在高端钟表维修领域，因老工匠退休导致人才缺口。技术工人移民法规（Fachkräfteeinwanderungsgesetz）下受认可。
+**Job demand: medium (★★★☆☆).** National workforce approx. 7,200. Demand for watchmakers in Germany is stable, especially in high-end watch repair, due to retirements of experienced craftsmen. Recognized under the Skilled Immigration Act (Fachkräfteeinwanderungsgesetz).
 
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★★☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，培训后起薪 |
-| 中级（3-8年） | $30,000~$38,000 | 含经验与专业技能 |
-| 高级（8年以上或师傅） | $38,000~$48,000 | 含师傅或自营 |
+| Median salary | $48,672 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, starting salary after training |
+| Mid-level (3–8 years) | $30,000~$38,000 | Including experience and specialist skills |
+| Senior (8+ years or master craftsman) | $38,000~$48,000 | Including master craftsman or self-employed |
+| average salary | $50,856 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 从学徒（Ausbildung）起步，可晋升为师傅（Meister）或自营工作室。部分转向高端品牌售后或精密仪器制造。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on watchmakers mainly compresses job functions: automated movement diagnostics and inventory identification will eliminate low-end entry-level positions, but high-precision hand repair and antique watch restoration remain stable.
+
+Starting as an apprentice (Ausbildung), one can advance to master craftsman (Meister) or open their own studio. Some transition to high-end brand after-sales or precision instrument manufacturing.
+
+**Tasks most exposed to AI:**
+
+- Automatic diagnosis and detection of movement faults
+- Automated cleaning and oiling of standardized parts.
+- Quartz watch battery replacement and basic repair
+- Inventory management and parts identification (image-based)
+
+**Where AI augments the role:**
+
+- AI-assisted fine-tuning of balance springs and escapements
+- Reconstructing internal damage structures using CT scans
+- Using digital twins to simulate gear transmission optimization
+- Quickly access technical documents via voice queries
+
+**Human moat:**
+
+- Extremely high precision manual grinding and parts restoration
+- Mechanism restoration and innovation of non-standard antique clocks
+- Explain historical value and artistic style to clients
+- Ethical and legal responsibilities (avoiding damage to cultural relics)
+
+**Skills to build:**
+
+- Antique mechanical clock repair techniques
+- CAD modeling and 3D printing part design
+- AI-assisted diagnostic software operation
+- Microfabrication (e.g., laser welding)
+- Customer communication and value selling
+- Digital twin and simulation analysis
+
+**Key growth areas:**
 
 - Artisan Craftsmanship
 - Luxury Watch Repair
@@ -64,69 +97,68 @@ Watchmakers repair, maintain, and manufacture clocks and watches, working with m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（EU Blue Card） | 适用于持有大学学位或经认证的钟表匠资质，年薪达到门槛（2024年约43,800欧元） |
-| Subclass Skilled Worker（Visa for Qualified Professionals (Fachkräfte)） | 持职业培训认证（经Anerkennung）可申请，无薪资门槛 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 通过积分系统获得，无需工作合同即可求职一年，适合钟表匠 |
+| Subclass Skilled Worker (EU Blue Card) | Applicable to those with a university degree or certified horologist qualification, with an annual salary meeting the threshold (approximately €43,800 in 2024) |
+| Subclass Skilled Worker (Visa for Qualified Professionals (Fachkräfte)) | Application with vocational training certification (via Anerkennung) possible, no salary threshold |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Obtained through a points system, allows job seeking for one year without a work contract, suitable for watchmakers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Watchmaker？**
-- 喜爱精密手工操作和微小零件
-- 对传统工艺有耐心和兴趣
-- 愿意长期深耕细分领域
-
-**谁不适合学Watchmaker？**
-- 追求高薪快速回报者
-- 不擅长精细手眼协调者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys precision manual work and tiny parts
+- Patience and interest in traditional crafts
+- Willing to deeply specialize in a niche field long-term
+
+**Who is not suited**
+- Those pursuing high salary and quick returns
+- Those not skilled in fine hand-eye coordination
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a watchmaker in Germany?**
+A: Entry-level approximately €24,000-30,000/year, master level up to €38,000-48,000/year. Salaries vary by state and employer.
+
+**Q: How can a watchmaker immigrate to Germany?**
+A: Must first pass credential recognition (Anerkennung), then apply for a skilled worker visa (Fachkräfteeinwanderungsgesetz) or opportunity card (Chancenkarte).
+
+**Q: Is there room for advancement for watchmakers?**
+A: Can obtain a Meister certificate to open your own workshop or be promoted to technical supervisor. You can also move to luxury brand after-sales or precision machinery fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | low (★★☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Watchmaker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a watchmaker in Germany?**
-答：Entry-level earns around €24,000-30,000/year; master watchmakers earn €38,000-48,000/year. Varies by state and employer.
-
-**问：How can a watchmaker immigrate to Germany?**
-答：First complete recognition of qualifications (Anerkennung), then apply for a skilled worker visa (Fachkräfteeinwanderungsgesetz) or Opportunity Card.
-
-**问：Are there career advancement opportunities for watchmakers?**
-答：Yes, by obtaining a Meister certificate to open your own workshop or become a technical supervisor. Also possible to move into luxury brand after-sales or precision machinery.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Engineering project managers and project engineers（Engineering project managers and project engineers）职业分析 · UK
+# Engineering project managers and project engineers — career analysis · United Kingdom
 
-**职业代码：2127 – Engineering project managers and project engineers。**
+**Occupation code: 2127 (SOC)**
 
-Schedule, manage and oversee engineering projects for quality, timeliness and budget compliance; plan, design and specify materials and create technical drawings.
+Responsible for planning, managing, and overseeing engineering projects to ensure high-quality completion within budget and on time, as well as designing, selecting materials, and preparing technical drawings.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（工程相关） | 4年 | $9,250~$38,500（英国本科国际生学费，具体因校而异） |
-| 研究生（项目管理或工程管理） | 1年 | $15,000~$30,000（部分岗位要求硕士或同等经验） |
+| Bachelor's degree (engineering-related) | 4 years | $9,250~$38,500 (UK undergraduate international student tuition fees, varying by institution) |
+| Postgraduate (Project Management or Engineering Management) | 1 year | $15,000~$30,000 (Some positions require a master's degree or equivalent experience.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师（CEng） | 英国工程委员会（Engineering Council） | 可选 | 提升专业认可度，非强制但有利 |
-| 项目管理专业认证（如PRINCE2/PMP） | AXELOS或PMI | 可选 | 大型项目常需，增强竞争力 |
-| 一级建造师（Chartered Construction Manager） | 英国特许建造学会（CIOB） | 必备 | 部分雇主强制要求 |
+| Chartered Construction Manager | Chartered Institute of Building (CIOB) | Required | Required by some employers |
+| Chartered Engineer (CEng) | Engineering Council (UK) | Optional | Enhances professional recognition, not mandatory but beneficial |
+| Professional project management certification (e.g., PRINCE2/PMP) | AXELOS or PMI | Optional | Often required for large projects, enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。英国基础设施投资和绿色能源转型推动需求增长，预计未来几年岗位持续增加，尤其在大型基建和可再生能源领域。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. UK infrastructure investment and green energy transition drive demand growth, with jobs expected to increase in the coming years, especially in large-scale infrastructure and renewable energy.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$42,000 | 毕业生或经验较少者 |
-| 中级（3-7年） | $42,000~$65,000 | 有经验的项目工程师或项目经理 |
-| 高级（7年以上） | $65,000~$95,000 | 高级项目经理、工程经理 |
+| Median salary | $53,064 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$42,000 | Graduates or those with limited experience |
+| Mid-level (3–7 years) | $42,000~$65,000 | Experienced project engineer or project manager |
+| Senior (7+ years) | $65,000~$95,000 | Senior Project Manager, Engineering Manager |
+| average salary | $57,516 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可晋升为高级项目经理、工程总监或项目总监；也可向专业咨询、大型项目组合管理方向发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mixed outlook for engineering project managers and project engineers: AI takes over tasks like planning, documentation, progress tracking, but on-site risk management, multi-party coordination and creative design still need human judgment; entry-level roles narrowed due to AI tools.
+
+Can be promoted to senior project manager, engineering director, or project director; can also develop into professional consulting or large-scale portfolio management
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standardized technical drawings and design drafts according to specifications
+- Analyze historical data to predict project progress and budget deviations
+- Automatically draft project status reports, meeting minutes, and some technical documents
+- Using machine learning to identify design conflicts and optimize resource allocation
+- Automated supplier quote comparison and contract clause review
+
+**Where AI augments the role:**
+
+- AI simulation tools assist in multi-plan comparison and optimization of complex engineering solutions.
+- Real-time project dashboards enhance control over costs and schedules.
+- Natural language queries speed up compliance literature searches several times
+- Digital twin technology assists predictive maintenance and risk simulation
+- Collaborative platform AI assistant to enhance cross-team communication efficiency
+
+**Human moat:**
+
+- On-site decision-making and emergency management under uncertainty
+- Interpersonal negotiation balancing multiple interests (owners, contractors, regulators)
+- Creative engineering solutions to unstructured problems
+- Comprehensive judgment on regulations, safety, and ethics
+- Ability to lead project teams and motivate people
+
+**Skills to build:**
+
+- Advanced features of project management software (e.g., MS Project, Primavera P6)
+- BIM and digital twin platform operation (e.g., Revit, Navisworks)
+- Data analysis fundamentals (Python/SQL + visualisation tools)
+- AI collaboration tools (e.g., ChatGPT for document assistance, Copilot for design review)
+- Agile and Lean project management certifications (e.g., Scrum, Lean)
+- Risk management and contract management (e.g., FIDIC terms)
+
+**Key growth areas:**
 
 - Infrastructure investment
 - Green energy transition
@@ -62,68 +98,67 @@ Schedule, manage and oversee engineering projects for quality, timeliness and bu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 标准工作签证，满足薪资和技能要求，雇主担保 |
-| Subclass Scale-up（Scale-up visa） | 适用于快速成长企业的高技能人才，前期需担保，后期灵活 |
-| Subclass Global Talent（Global Talent visa） | 适用于公认或杰出人才，无需雇主担保，可自由工作 |
+| Subclass Skilled Worker (Skilled Worker visa) | Standard work visa, meeting salary and skill requirements, employer-sponsored |
+| Subclass Scale-up (Scale-up visa) | Suitable for highly skilled talent in fast-growing companies; requires sponsorship initially, flexible later |
+| Subclass Global Talent (Global Talent visa) | For recognized or distinguished talent, no employer sponsorship required, can work freely |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering project managers and project engineers？**
-- 具备工程背景，善于组织和协调大型项目
-- 能承受高压，适应多任务和严格工期
-- 希望在基础设施或能源领域长期发展
-
-**谁不适合学Engineering project managers and project engineers？**
-- 不善于沟通和跨团队协作
-- 对频繁的项目变更和不确定性缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has an engineering background, skilled in organizing and coordinating large projects
+- Able to handle high pressure, adapt to multitasking and tight deadlines
+- Seeking long-term development in infrastructure or energy sectors
+
+**Who is not suited**
+- People who are not good at communication and cross-team collaboration.
+- Impatient with frequent project changes and uncertainty
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an engineering project manager?**
+A: Depending on experience and location, the annual salary ranges from £28,000 to £95,000, with higher salaries in London and for large projects.
+
+**Q: How can overseas applicants obtain a UK work visa for engineering project manager roles?**
+A: The most common is the Skilled Worker visa, requiring employer sponsorship and meeting salary requirements; shortage occupations can use the accelerated pathway. The Global Talent visa is suitable for outstanding individuals.
+
+**Q: What is the career progression path for an engineering project manager?**
+A: Can progress from junior engineer to senior project manager, engineering director, or even project director or company partner.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engineering project managers and project engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an engineering project manager?**
-答：Depending on experience and location, annual salary ranges from £28,000 to £95,000, with London and major projects paying more.
-
-**问：How can overseas applicants obtain a UK work visa for engineering project manager?**
-答：The most common is the Skilled Worker visa, requiring employer sponsorship and meeting salary thresholds; shortage occupations may have fast-track. Global Talent visa is for exceptional talent.
-
-**问：What is the career progression for engineering project managers?**
-答：From junior engineer to senior project manager, engineering director, program director, or company partner.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

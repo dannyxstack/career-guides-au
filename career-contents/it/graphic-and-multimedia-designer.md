@@ -1,58 +1,94 @@
-# Graphic and Multimedia Designer（Graphic and Multimedia Designer）职业分析 · IT
+# Graphic and Multimedia Designer — career analysis · Italy
 
-**职业代码：2166 – Graphic and Multimedia Designer。**
+**Occupation code: 2166 (ISCO08)**
 
 Responsible for visual communication and multimedia content design, including graphics, animation, video, and interactive media.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年 | —（公立大学每年学费约0-3000欧元） |
-| 硕士 | 2年 | $1,500~$6,000（公立大学硕士学费） |
+| Bachelor's degree | 3 years | $0~$3,000 (Annual tuition fees at public universities are approximately 0–3000 euros.) |
+| Master's degree | 2 years | $1,500~$6,000 (Master's tuition fees at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无需 | 可选 | 本职业在意大利无强制认证要求，雇主更看重作品集和经验。 |
-| Adobe认证专家 | Adobe | 可选 | 自愿认证，可提升竞争力。 |
+| No mandatory certification | None | Optional | This occupation has no mandatory certification requirements in Italy; employers value portfolios and experience more. |
+| Adobe Certified Expert | Adobe | Optional | Voluntary certification can enhance competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 35,000。意大利数字化转型推动对多媒体设计师的需求，尤其在电子商务、广告和游戏行业。中小企业外包设计服务趋势明显，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Italy's digital transformation drives demand for multimedia designers, especially in e-commerce, advertising, and gaming. Small and medium enterprises increasingly outsource design services, but competition is fierce.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 税前年薪 |
-| 中级（3-6年） | $28,000~$40,000 | 税前年薪 |
-| 高级（6年以上） | $40,000~$55,000 | 税前年薪 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $28,000~$40,000 | Annual pre-tax salary |
+| Senior (6+ years) | $40,000~$55,000 | Annual pre-tax salary |
+| average salary | $35,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★☆☆）。** 从初级设计师晋升为高级设计师、艺术总监或创意总监。也可专精于用户界面（UI）或用户体验（UX）设计。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
+
+Progress from junior designer to senior designer, art director, or creative director. Can also specialize in user interface (UI) or user experience (UX) design.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of social media templates and ad banners
+- Basic image processing (cutout, color adjustment, filters)
+- Automatically completing layout and formatting based on preset styles
+- Generate simple logo and icon drafts
+- Automated output of print-ready files (bleeds, crop marks)
+
+**Where AI augments the role:**
+
+- Generate creative sketches with AI to rapidly iterate design proposals
+- Leverage AI to analyze user data and optimize visual strategies
+- AI-assisted font matching and color matching to improve design efficiency
+- Auto-generate design variants for A/B testing
+- AI tools enable rapid prototyping of video and motion graphics
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user psychology to define visual direction
+- Original creativity and unique artistic expression
+- Cross-media storytelling (print + digital + environment)
+- Efficient communication and feedback integration with clients and teams
+- Sharp insight into cultural trends and social contexts
+
+**Skills to build:**
+
+- AI design tools (Midjourney, DALL·E 3, Adobe Firefly)
+- Motion design and video editing (After Effects, Premiere Pro)
+- User Experience and Interface Design (Figma, Sketch)
+- Data visualization and infographic design
+- Project management and client communication (agile collaboration)
+- 3D modeling and rendering basics (Blender, C4D)
+
+**Key growth areas:**
 
 - Digital Transformation
 - E-commerce
@@ -61,65 +97,64 @@ Responsible for visual communication and multimedia content design, including gr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟工作者，需大学学历及年薪≥约28,000欧元（2023年门槛）。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额工作签证，适用于非欧盟工人，由雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta） | 工作许可证明，需雇主申请劳动局批准，后续申请工作签证。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU workers, requiring a university degree and an annual salary of at least approx. €28,000 (2023 threshold). |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers, employer-sponsored. |
+| Subclass Nulla Osta (Nulla Osta) | Work permit certification requires employer to apply for approval from the labor authority, followed by a work visa application. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Graphic and Multimedia Designer？**
-- 有创意和审美能力
-- 熟练使用设计软件
-- 适应数字化趋势
-
-**谁不适合学Graphic and Multimedia Designer？**
-- 不擅长应对客户反馈
-- 缺乏时间管理能力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and aesthetic ability
+- Proficient in design software
+- Adapting to digital trends
+
+**Who is not suited**
+- Not good at handling customer feedback
+- Lack of time management skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a graphic designer in Italy?**
+A: Entry-level: approximately 20,000–28,000 EUR, mid-level: 28,000–40,000 EUR, senior: 40,000–55,000 EUR (annual pre-tax salary).
+
+**Q: How can non-EU citizens get an Italian graphic designer work visa?**
+A: Options include the EU Blue Card (requires qualifications and high salary) or the Decreto Flussi quota work visa (employer sponsorship).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Graphic and Multimedia Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for graphic designers in Italy?**
-答：Entry-level around €20,000-28,000, mid-level €28,000-40,000, senior €40,000-55,000 (gross annual).
-
-**问：How can non-EU citizens obtain a work visa for graphic designer in Italy?**
-答：Via EU Blue Card (requires degree and high salary) or Decreto Flussi quota work visa (employer sponsorship).
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

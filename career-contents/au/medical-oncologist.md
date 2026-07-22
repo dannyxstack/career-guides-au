@@ -1,61 +1,96 @@
-# Medical Oncologist（Medical Oncologist）职业分析 · 澳大利亚
+# Medical Oncologist — career analysis · Australia
 
-**职业代码：253314 – Medical Oncologist。**
+**Occupation code: 253314 (ANZSCO)**
 
-Medical Oncologists are specialist physicians who diagnose and treat cancer using chemotherapy, targeted therapy, immunotherapy, and other modalities, playing a key role in multidisciplinary cancer care.
+Medical oncologists are medical specialists who diagnose and treat cancer, developing personalized treatment plans using chemotherapy, targeted therapy, immunotherapy, and playing a central role in multidisciplinary teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：很高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 医学本科 | 4-6年 | $60,000~$150,000（澳洲本地生约6万-15万澳元；国际生约20万-40万澳元） |
-| 实习与住院医师 | 2年 | —（带薪实习，无额外学费） |
-| 内科专科培训（包括肿瘤内科亚专科） | 5-6年 | —（带薪培训，培训费约每年数千澳元） |
+| Bachelor of Medicine (MBBS). | 4-6 years | $60,000~$150,000 (Domestic students in Australia: approx. AUD 60,000–150,000; international students: approx. AUD 200,000–400,000) |
+| Internship and residency. | 2 years | $0~$0 (Paid internship, no additional tuition fees) |
+| Internal medicine specialist training (including oncology subspecialty) | 5-6 years. | $0~$0 (Paid training, training fee approximately several thousand AUD per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位 | 澳大利亚医学委员会（AMC认证的大学） | 必备 | 需完成认可的医学本科学位或研究生医学学位 |
-| 澳大利亚执业医师注册 | 澳大利亚医学委员会（AHPRA） | 必备 | 所有医生必须注册才能执业 |
-| 皇家澳大利亚内科医师学会（RACP）专科医师资质 | RACP | 必备 | 完成培训并通过考试获得肿瘤内科专科认证 |
-| 技术移民技能评估 | 澳大利亚医学委员会（AMC） | 必备 | 海外医生需通过AMC评估及考试 |
+| Medical degree | Australian Medical Council (AMC-accredited universities) | Required | Must complete an accredited medical bachelor's or graduate medical degree |
+| Australian medical practitioner registration | Australian Medical Council (AHPRA) | Required | All doctors must be registered to practice. |
+| Royal Australasian College of Physicians (RACP) specialist qualification | RACP | Required | Complete training and pass exams to obtain medical oncology specialist certification |
+| Skilled migration skills assessment | Australian Medical Council (AMC) | Required | Overseas doctors must undergo AMC assessment and exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 800。随着癌症发病率和人口老龄化上升，澳洲对肿瘤内科医生的需求持续增长。技术发展（如免疫治疗）也扩大了对专科医生的需求。就业前景非常强劲。
+**Job demand: high (★★★★☆).** National workforce approx. 800. With rising cancer rates and an aging population, demand for oncologists in Australia continues to grow. Technological advances (such as immunotherapy) have also expanded the need for specialists. Employment prospects are very strong.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $120,000~$150,000 | 培训期间或刚取得专科证书的薪资 |
-| 中级（3-8年） | $180,000~$250,000 | 受聘于公立或私立医院 |
-| 高级（8年以上） | $300,000~$500,000 | 资深专家、私立诊所或学术职位 |
+| Median salary | $188,240 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $120,000~$150,000 | Salary during training or just after obtaining a vocational certificate |
+| Mid-level (3–8 years) | $180,000~$250,000 | Employed in public or private hospitals |
+| Senior (8+ years) | $300,000~$500,000 | Senior experts, private clinics, or academic positions |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常路径：完成医学院和基础实习后，申请内科培训（如RACP），再经过3-4年肿瘤内科专科培训并考取专科医师执照。可晋升为科室主任、教授或临床研究负责人。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI-assisted core diagnosis and treatment decisions for oncologists significantly improve efficiency, but professional responsibility and human care are hard to replace; overall risks and opportunities coexist.
+
+Typical path: after completing medical school and basic internship, apply for internal medicine training (e.g., RACP), then 3-4 years of oncology specialty training and obtain specialist license. Can advance to department head, professor, or clinical research lead.
+
+**Tasks most exposed to AI:**
+
+- Initial dose calculation and adjustment for standardized chemotherapy regimens
+- identification and tracking of tumor markers in imaging reports
+- Basic query and warning for drug interactions and side effects
+- Automated collection and preliminary analysis of patient follow-up data
+- Entry and organization of structured data in electronic medical records
+
+**Where AI augments the role:**
+
+- Design of personalized treatment plans, AI analysis of genomic data and drug sensitivity
+- In multidisciplinary case discussions, AI provides real-time literature and clinical trial matching
+- Treatment response prediction and resistance monitoring, AI model-assisted decision-making
+- Patient communication and education: AI generates easy-to-understand disease explanations
+- Clinical trial screening and enrollment management, AI automatically matches patient conditions
+
+**Human moat:**
+
+- complex clinical decision-making and ethical judgment
+- Emotional communication and empathy with patients and their families
+- Multidisciplinary team leadership and coordination
+- Design of clinical research and innovative therapies
+
+**Skills to build:**
+
+- Use and Interpretation of Medical AI Tools
+- Basics of gene sequencing and bioinformatics
+- Data-driven clinical research design
+- Digital health management platform for patients
+- Interdisciplinary communication and leadership
+- Continuous learning and adapting to new technologies
+
+**Key growth areas:**
 
 - Cancer incidence increase
 - Aging population
@@ -64,69 +99,68 @@ Medical Oncologists are specialist physicians who diagnose and treat cancer usin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 独立技术移民签证，肿瘤内科医生在MLTSSL列表上，可申请189签证，无需州担保。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，各州政府可提名肿瘤内科医生，通常更快获邀。 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，适合找到医院/诊所担保的申请人，之后可转186永居。 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，通过482或直接申请186，需雇主提名。 |
+| Subclass 189 (Skilled Independent Visa) | Independent skilled migration visa; medical oncologists are on the MLTSSL, eligible for the 189 visa without state nomination. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration: state governments can nominate oncologists, usually resulting in faster invitations. |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa suitable for applicants who find sponsorship from a hospital/clinic; can later transition to 186 permanent residence. |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, via 482 or directly apply for 186, requires employer nomination. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Oncologist？**
-- 对癌症治疗有强烈热情和同情心
-- 能承受高压、长期学习和高强度工作
-- 具备出色的沟通和团队协作能力
-
-**谁不适合学Medical Oncologist？**
-- 无法承受情感重负（经常面对生死）
-- 不愿接受漫长的培训周期（10年以上）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong passion and empathy for cancer treatment
+- Able to handle high pressure, long-term study, and intense work
+- Excellent communication and teamwork skills
+
+**Who is not suited**
+- Unable to bear the emotional burden (often facing life and death)
+- Unwilling to accept long training periods (10+ years)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an oncologist?**
+A: Entry-level approx. AUD 120,000-150,000, intermediate approx. AUD 180,000-250,000, senior up to AUD 300,000-500,000. Private practice income is higher.
+
+**Q: How can overseas doctors immigrate to Australia as medical oncologists?**
+A: Requires AMC skills assessment, a comparable medical degree, passing the AMC exam or obtaining specialist recognition. Can migrate via 189/190/482/186 visas.
+
+**Q: What are the career development prospects for a medical oncologist?**
+A: Can advance to department head, medical professor, or clinical research lead. Also feasible to work in private clinics or as a consultant for pharmaceutical companies. Demand continues to grow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很长（★★★★½） |
-| 学习难度 | 很高（★★★★½） |
-| 考证难度 | 很高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Medical Oncologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a Medical Oncologist?**
-答：Entry-level around A$120,000-150,000, mid-level A$180,000-250,000, senior A$300,000-500,000. Private practice can be higher.
-
-**问：How can an overseas doctor migrate to Australia as a Medical Oncologist?**
-答：You need AMC skills assessment, comparable medical degree, pass AMC exams or specialist recognition. Eligible visas: 189, 190, 482, 186.
-
-**问：What are the career prospects for a Medical Oncologist?**
-答：Can become department head, professor, or clinical research director. Private practice or pharma consulting. Demand is growing.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Managers in aquaculture（Managers in aquaculture）职业分析 · 加拿大
+# Managers in aquaculture — career analysis · Canada
 
-**职业代码：80022 – Managers in aquaculture。**
+**Occupation code: 80022 (NOC)**
 
-Managers in aquaculture plan, organize, direct and evaluate the operations of aquaculture facilities, including fish and shellfish farming, breeding, harvesting and resource management.
+Aquaculture Manager plans, organises, directs, and evaluates the operations of aquaculture farms (e.g., fish, shellfish farming), including production, breeding, harvesting, and resource management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专/本科 | 2-4年 | $15,000~$60,000（水产养殖、海洋生物学等相关专业） |
-| 职业培训 | 1-2年 | $5,000~$20,000（水产养殖技术证书或学徒项目） |
+| Diploma/Bachelor's degree | 2-4 years | $15,000~$60,000 (Aquaculture, marine biology, or related fields) |
+| Vocational training | 1-2 years | $5,000~$20,000 (Aquaculture technology certificate or apprenticeship program) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水产养殖管理学位或文凭 | 大学或学院 | 可选 | 通常要求相关专业本科或大专学历 |
-| 省级水产养殖许可证 | 省级政府 | 必备 | 部分省份要求持有特定水产养殖运营许可证 |
-| 鱼类健康管理认证 | 加拿大渔业与海洋部 | 可选 | 自愿认证，但有利于就业 |
+| Provincial aquaculture license | Provincial government | Required | Some provinces require a specific aquaculture operation license |
+| Aquaculture Management Degree or Diploma | University or college | Optional | Usually requires a relevant bachelor's degree or diploma |
+| Fish health management certification | Fisheries and Oceans Canada | Optional | Voluntary certification, but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,800。加拿大水产养殖业持续增长，尤其在BC省、新斯科舍省和纽芬兰省。受可持续海产品需求推动，就业前景良好，但岗位数量有限，竞争中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 3,800. Canadian aquaculture continues to grow, especially in BC, Nova Scotia, and Newfoundland. Driven by demand for sustainable seafood, job prospects are good, but positions are limited, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $50,000~$70,000 | 助理经理或小型场主管 |
-| 中级（5-10年） | $70,000~$95,000 | 中型场经理 |
-| 高级（10年以上） | $95,000~$130,000 | 大型或多家场区经理 |
+| Median salary | $66,560 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry-level (0-5 years) | $50,000~$70,000 | Assistant manager or small venue supervisor |
+| Intermediate (5-10 years) | $70,000~$95,000 | Medium-scale farm manager |
+| Senior (10+ years) | $95,000~$130,000 | Large or multi-site manager |
+| average salary | $87,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从水产养殖技术员或主管晋升而来，可通过积累管理经验和专业培训（如渔业管理课程）晋升为区域经理或企业高管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
+
+Usually promoted from aquaculture technician or supervisor; can advance to regional manager or corporate executive through accumulating management experience and professional training (e.g., fisheries management courses).
+
+**Tasks most exposed to AI:**
+
+- Automated feeding systems take over scheduled and quantitative feeding tasks
+- Water quality sensors automatically monitor and record parameters like pH and dissolved oxygen.
+- Drones or underwater robots automatically inspect fish cages, replacing manual visual inspection
+- AI video analysis automatically counts fish schools and detects diseases or abnormal behavior
+- Environmental control systems (e.g., aerators) automatically start/stop based on sensor data
+
+**Where AI augments the role:**
+
+- AI-assisted water quality data analysis to predict algal blooms or disease outbreaks, guiding preventive measures
+- Automated feeding systems optimize feeding strategies based on fish activity data to improve feed conversion rates
+- Digital twin models simulate different breeding scenarios to assist production planning
+- Wearable devices monitor worker health to prevent heatstroke or fatigue
+- AI document assistant automatically generates farming logs and compliance reports
+
+**Human moat:**
+
+- On-site response capability for sudden equipment failures, extreme weather, and other abnormal conditions
+- Manual experience-based judgement of fish and shrimp behaviour and health (e.g., abnormal swimming, colour changes)
+- Interpersonal and negotiation skills in coordinating with suppliers, veterinarians, and regulatory bodies
+- On-site safety judgment and emergency rescue (e.g., drowning, electric shock)
+
+**Skills to build:**
+
+- Learn to use mainstream smart aquaculture platforms (e.g., AquaManager, eFishery)
+- Basic data processing and analysis skills (Excel or simple BI tools)
+- Basic skills in operating and maintaining automatic feeding systems, drones, and ROVs.
+- Understand working principles of aquaculture Internet of Things (IoT) sensors
+- Sustainable farming principles (e.g., antibiotic reduction, carbon footprint accounting)
+- English communication skills to suit international companies or export requirements
+
+**Key growth areas:**
 
 - Sustainable Seafood
 - Aquaculture Expansion
@@ -62,68 +97,67 @@ Managers in aquaculture plan, organize, direct and evaluate the operations of aq
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 需满足联邦技术移民或加拿大经验类要求，通常需要大专以上学历和1年以上管理经验。 |
-| Subclass PNP（Provincial Nominee Program） | BC省、新斯科舍省等有水产养殖相关省提名项目，可加速移民。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，积累加拿大经验后转永居。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Must meet requirements for Federal Skilled Worker or Canadian Experience Class, typically requiring a post-secondary diploma and over 1 year of management experience. |
+| Subclass PNP (Provincial Nominee Program) | Provinces like BC and Nova Scotia have aquaculture-related Provincial Nominee Programs that can accelerate immigration. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, accumulate Canadian experience then transition to permanent residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in aquaculture？**
-- 具备水产养殖或生物学背景，对海洋环境有热情
-- 有管理经验和领导能力，适应户外工作
-- 愿意在沿海或偏远地区工作
-
-**谁不适合学Managers in aquaculture？**
-- 不喜户外或体力工作
-- 对水产行业无兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in aquaculture or biology with a passion for the marine environment
+- Has management experience and leadership skills, adaptable to outdoor work
+- Willing to work in coastal or remote areas
+
+**Who is not suited**
+- Dislike outdoor or physical work
+- No interest in the aquaculture industry
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an Aquaculture Farm Manager?**
+A: Entry level: approx. CAD 50,000-70,000, mid-level: CAD 70,000-95,000, senior: up to CAD 95,000-130,000.
+
+**Q: How to become a Canadian aquaculture farm manager through skilled migration?**
+A: Can apply via Express Entry (FSW/CEC) or provincial nomination (e.g., BC PNP), requiring relevant qualifications and 1+ year of management experience. LMIA-supported employer-sponsored work visas are also common.
+
+**Q: What are the career prospects for an aquaculture farm manager?**
+A: Growing demand for sustainable seafood drives industry expansion; promotion possible to regional manager or director, but positions are limited and require experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Managers in aquaculture的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for managers in aquaculture?**
-答：Entry-level: CAD 50,000-70,000; mid-level: CAD 70,000-95,000; senior: CAD 95,000-130,000.
-
-**问：How to immigrate to Canada as a manager in aquaculture?**
-答：Apply through Express Entry (FSW/CEC) or PNP (e.g., BC PNP) with relevant degree and 1+ year management experience. LMIA-based work permit is also an option.
-
-**问：What is the career outlook for managers in aquaculture?**
-答：Growing demand for sustainable seafood drives expansion, with advancement to regional manager or director. Limited positions require experience.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

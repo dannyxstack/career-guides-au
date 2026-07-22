@@ -1,59 +1,95 @@
-# Hotel or Motel Receptionist（Hotel or Motel Receptionist）职业分析 · 新西兰
+# Hotel or Motel Receptionist — career analysis · New Zealand
 
-**职业代码：542113 – Hotel or Motel Receptionist。**
+**Occupation code: 542113 (ANZSCO)**
 
-Greet guests, check in/out, handle bookings, provide information and customer service at hotel, motel or resort front desk. Eligible for Accredited Employer Work Visa (AEWV) with employer sponsorship; not on Green List or core Skilled Migrant Category, requiring high wages or extra criteria for residence.
+Greet guests at hotel, motel, or resort front desks, handle check-in/check-out, manage reservations, and provide information and customer service. This role can usually apply for an Accredited Employer Work Visa (AEWV), and with New Zealand employer sponsorship can gain experience, but it is not on the Green List or in the Skilled Migrant Category core list, requiring high salary or additional conditions for immigration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（新西兰本地高中免费或低费用，国际学生约1.5万纽元/年） |
-| 酒店管理大专或证书 | 1-2年 | $20,000~$35,000（理工学院如Ara、Toi Ohomai，或私立院校） |
+| High school graduation | 3 years | $0~$15,000 (Public high school free or low-cost for NZ residents; international students approx. NZD $15,000/year) |
+| diploma or certificate in hotel management | 1-2 years | $20,000~$35,000 (Polytechnics such as Ara, Toi Ohomai, or private institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理证书（Level 4） | 新西兰资格认证局（NZQA）认可院校 | 可选 | 非必需，但有助于求职和工签申请 |
-| 酒店管理系统操作认证（如Opera） | 酒店品牌或培训机构 | 可选 | 部分雇主要求具备经验或培训证明 |
-| 雅思（或其他英语考试） | IDP/英国文化协会 | 必备 | AEWV通常要求雅思总分4.0或同等水平；技术移民需6.5 |
+| IELTS (or other English tests) | IDP/British Council | Required | AEWV typically requires IELTS overall 4.0 or equivalent; skilled migration needs 6.5 |
+| Certificate in Hotel Management (Level 4) | Institution recognized by NZQA | Optional | Not required, but helpful for job applications and work visa applications. |
+| Hotel management system operation certification (e.g., Opera) | Hotel brand or training institution | Optional | Some employers require experience or evidence of training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。新西兰旅游业是经济支柱，但受疫情波动影响大。酒店前台需求稳定，尤其在热门旅游城市如皇后镇、奥克兰、基督城。2023年Stats NZ数据显示岗位增长放缓，竞争中等。雇主倾向雇佣有经验者，持工签者需注意雇佣条件。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. New Zealand's tourism industry is a pillar of the economy, but heavily affected by pandemic fluctuations. Demand for hotel front desk staff is stable, especially in popular tourist cities like Queenstown, Auckland, and Christchurch. Stats NZ data for 2023 shows slowing job growth and moderate competition. Employers tend to hire experienced staff; work visa holders need to pay attention to employment conditions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$52,000 | 最低工资以上，约23-26纽元/小时 |
-| 中级（3-5年） | $52,000~$60,000 | 多数经验丰富前台收入中位数 |
-| 高级（5年以上/主管） | $60,000~$70,000 | 主管级别可达7万以上 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$52,000 | Above minimum wage, approximately 23-26 NZD/hour |
+| Mid-level (3–5 years) | $52,000~$60,000 | Median income for most experienced front desk staff. |
+| Senior (5+ years / supervisor) | $60,000~$70,000 | Managerial level can reach over €70,000. |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级前台可晋升为高级前台、值班经理或前台主管，再升至客房部或运营经理。积累客户服务和酒店管理经验后，可转向销售、预订或礼宾部。需学习酒店管理系统（如Opera）和提升外语能力（尤其日语、中文）以增加机会。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
+
+Junior receptionists can be promoted to senior receptionist, duty manager, or front desk supervisor, then to housekeeping or operations manager. With customer service and hotel management experience, they can move into sales, reservations, or concierge. They need to learn hotel management systems (e.g., Opera) and improve foreign language skills (especially Japanese, Chinese) to increase opportunities.
+
+**Tasks most exposed to AI:**
+
+- Data analysis report generation (e.g., occupancy rates, revenue forecasts)
+- Employee scheduling and attendance management
+- Standardized customer Q&A/booking processing
+- Automation of inventory and procurement processes
+- Partial financial bookkeeping and expense accounting
+
+**Where AI augments the role:**
+
+- Optimizing dynamic pricing strategies based on AI predictions
+- Using customer profiles for personalized service recommendations
+- Automated generation of operational reports to support decision-making
+- Enhance security and facility management efficiency through AI monitoring systems
+- AI-Assisted Employee Training Plan Development
+
+**Human moat:**
+
+- Handling complex interpersonal scenarios such as customer complaints and sudden crises
+- Create differentiated brand experiences and community relationships.
+- Leadership in team morale and cross-departmental coordination.
+- Insight and anticipation of unexpressed customer needs
+- Maintaining hotel reputation and compliance within local culture
+
+**Skills to build:**
+
+- AI data analysis tools (e.g., Tableau, Power BI)
+- Revenue Management Software (e.g., IDeaS)
+- Digital marketing and social media management
+- Basic Python or SQL (for automation)
+- Customer experience design (Journey Mapping)
+- Agile project management
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,65 +98,64 @@ Greet guests, check in/out, handle bookings, provide information and customer se
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主offer，工作满3年后可申请居民签证（需满足中位数工资要求） |
-| Subclass SMC（Skilled Migrant Category） | 如达到中位数工资3倍（约88.5纽元/小时，年薪18.4万）或满足6分制条件（学历+工作经验），可申请 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 该职业不在绿色清单标准列表中，但如职位描述涉及酒店经理职责，可尝试申请（需雇主支持） |
+| Subclass AEWV (Accredited Employer Work Visa) | Must obtain an offer from an approved employer sponsor; after working for 3 years, eligible to apply for a residence visa (subject to meeting median salary requirements). |
+| Subclass SMC (Skilled Migrant Category) | If earning 3x median wage (approx. $88.50 NZD/hour, $184k/year) or meet 6-point system conditions (qualifications + experience), can apply |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is not on the Green List standard criteria, but if the job description involves hotel manager duties, an application may be possible (requires employer support). |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hotel or Motel Receptionist？**
-- 喜爱与人沟通、服务意识强的人
-- 希望在旅游城市工作、适应灵活排班的人
-- 有酒店或客服经验、希望通过工签积累新西兰经历的人
-
-**谁不适合学Hotel or Motel Receptionist？**
-- 寻求快速移民、不愿从事低技能岗位的人
-- 无法适应轮班制、周末和节假日工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communication and have strong service awareness
+- Those hoping to work in tourist cities and adapt to flexible scheduling
+- For those with hotel or customer service experience seeking to gain experience in New Zealand via a work visa.
+
+**Who is not suited**
+- People seeking fast immigration and unwilling to take low-skilled jobs
+- People who cannot adapt to shift work, weekend and holiday work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for hotel front desk in New Zealand?**
+A: Junior approx. $45,000-52,000 NZD/year (hourly $23-26), supervisor can reach $60,000-70,000. Median about $55,000, below national median (2024 approx. $61,000). Income growth is limited, usually relying on overtime and promotion.
+
+**Q: Can hotel front desk settle in New Zealand through skilled migration?**
+A: It is difficult to apply directly through the Green List or SMC as this occupation is not a long-term skill shortage. However, you can apply for a resident visa after working for 2-3 years on an AEWV, requiring an annual salary at or above the median wage (NZD 29.66 per hour in 2024). Alternatively, accumulate management experience to transition to Hotel Manager (ANZSCO 1413), which qualifies under Green List T2.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Hotel or Motel Receptionist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hotel receptionists in New Zealand?**
-答：Entry level: NZD 45,000-52,000 p.a. (hourly $23-26); supervisor: NZD 60,000-70,000. Median around $55,000, below national median ($61,000 in 2024). Limited growth, mainly through overtime and promotion.
-
-**问：Can a hotel receptionist apply for skilled migration to settle in New Zealand?**
-答：Not directly via Green List or standard SMC, as it's not a long-term shortage skill. However, after 2-3 years on AEWV, you can apply for residence if earning at or above median wage ($29.66/hr in 2024). Alternatively, move to hotel manager (ANZSCO 1413, eligible for Green List Tier 2) with experience.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

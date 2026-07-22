@@ -1,59 +1,95 @@
-# Airline ticket and service agents（Airline ticket and service agents）职业分析 · 加拿大
+# Airline ticket and service agents — career analysis · Canada
 
-**职业代码：64312 – Airline ticket and service agents。**
+**Occupation code: 64312 (NOC)**
 
-Work at airports, airlines, or travel agencies, providing ticketing, check-in, baggage handling, and customer service to passengers.
+Working at airports, airlines, or travel agencies to provide ticketing, check-in, baggage handling, and customer service to passengers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年级 | —（公立免费） |
-| 大学/学院文凭（可选） | 2年 | $5,000~$20,000（旅行/旅游专业） |
+| High school diploma | Year 12 | $0~$0 (Free public) |
+| College/university diploma (optional) | 2 years | $5,000~$20,000 (Travel/Tourism) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | N/A | 可选 | 多数雇主仅要求高中文凭和客户服务经验 |
-| 国际航空运输协会（IATA）认证 | IATA | 可选 | 部分雇主优先考虑 |
-| 安全背景调查 | 加拿大交通部 | 必备 | 机场工作必需 |
+| Security background check | Transport Canada | Required | Required for airport work |
+| No mandatory certification | N/A | Optional | Most employers only require a high school diploma and customer service experience |
+| International Air Transport Association (IATA) certification | IATA | Optional | Some employers prioritize |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 32,000。加拿大航空运输业稳步恢复，该职业需求稳定，但竞争中等。主要受旅游业和航空出行影响，预计未来几年就业平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. Canada's air transport industry is steadily recovering, with stable demand for this occupation but moderate competition. Mainly influenced by tourism and air travel, employment is expected to be stable in the coming years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 时薪约16-20加元 |
-| 中级（3-7年） | $40,000~$52,000 | 含夜班/加班补贴 |
-| 高级（7年以上） | $50,000~$65,000 | 主管级别可达更高 |
+| Median salary | $43,680 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$40,000 | Hourly wage approximately 16-20 Canadian dollars |
+| Mid-level (3–7 years) | $40,000~$52,000 | Including night shift/overtime allowances |
+| Senior (7+ years) | $50,000~$65,000 | Supervisor level can be higher |
+| average salary | $47,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级客服晋升为高级客服、主管或调度员。部分人转向航空公司管理岗位，如运营或客户关系管理。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of air travel assistant carries relatively high risk; AI self-service check-in and automated document checks will significantly reduce traditional tasks, entry-level positions are shrinking, but interpersonal service and safety responsibilities still retain some moat.
+
+Can progress from entry-level customer service to senior representative, supervisor, or dispatcher. Some move into airline management roles, such as operations or customer relationship management.
+
+**Tasks most exposed to AI:**
+
+- Automated check-in and boarding pass issuance – self-service kiosks and apps replace manual operations
+- Travel document verification—AI scanning and database matching are automated
+- Gate information announcements and guidance—announced automatically by robots or systems
+- Baggage tag printing and tracking replaced by RFID and self-service tag stations
+- Seat selection and special meal booking – self-service via online system
+
+**Where AI augments the role:**
+
+- Personalized customer service – AI-assisted quick lookup of preferences and needs
+- Real-time flight status updates and disruption handling—AI predicts and recommends solutions
+- Multilingual translation and communication — AI real-time translation assists in communication
+- Baggage anomaly handling – AI tracking and automatic lost item matching
+- Security check and boarding gate anomaly detection—AI warns of potential issues
+
+**Human moat:**
+
+- Crisis and emergency handling skills (e.g., flight cancellations, passenger emotional management)
+- Complex problem-solving and cross-department coordination (e.g., special passenger assistance, multi-airline rebooking)
+- High-touch service empathy and emotional labor (especially first class, disabled passengers).
+- Safety and compliance responsibilities (e.g., denying boarding, identifying suspicious behavior)
+- Collaboration with other airport ground services (e.g., ground handling, security)
+
+**Skills to build:**
+
+- Basic data analysis (flight delay patterns, customer preferences)
+- Use of common AI tools (e.g., self-check-in system backend, chatbot management).
+- Digital service design (optimizing self-service processes, user interface feedback)
+- Advanced Customer Communication and Conflict Resolution
+- Basic aviation safety regulations and emergency procedures.
+- Multilingual ability (especially common aviation service languages)
+
+**Key growth areas:**
 
 - Stable demand
 - Airline industry recovery
@@ -62,68 +98,67 @@ Work at airports, airlines, or travel agencies, providing ticketing, check-in, b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass CEC（Canadian Experience Class） | 适用于有加拿大工作经验的申请人，该职业可积累经验 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省、BC省）因旅游需求可能提名 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，但通常需证明无本地候选人 |
+| Subclass CEC (Canadian Experience Class) | Applicable to applicants with Canadian work experience; this occupation allows for experience accumulation. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) may nominate due to tourism demand |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but usually need to prove no local candidates. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airline ticket and service agents？**
-- 善于沟通、耐心细致、有客户服务经验者
-- 能适应轮班工作（包括清晨、深夜和节假日）
-- 对航空业有兴趣，喜欢快节奏工作环境
-
-**谁不适合学Airline ticket and service agents？**
-- 抗拒长时间站立、走动和搬运行李者
-- 无法适应高压和突发状况（如航班延误、旅客投诉）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong communication, patience, attention to detail, and customer service experience preferred.
+- Able to work shifts (including early mornings, late nights, and public holidays)
+- Interested in aviation industry, prefers fast-paced work environment
+
+**Who is not suited**
+- Those who cannot tolerate prolonged standing, walking, and luggage handling.
+- Unable to cope with high pressure and unexpected situations (such as flight delays, passenger complaints)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a travel agent?**
+A: Entry-level positions in Canada annual salary approx CAD $32,000-40,000, experienced staff up to CAD $50,000-65,000, depending on employer and location.
+
+**Q: Is this occupation suitable for immigrating to Canada?**
+A: This occupation is not in demand, but immigration is possible through accumulating Canadian work experience (e.g., CEC) or Provincial Nominee Program (PNP), requiring employer support.
+
+**Q: What educational background is required?**
+A: Usually only a high school diploma is required; customer service experience is more important. IATA certification or tourism-related diplomas can enhance competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Airline ticket and service agents的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for airline ticket and service agents?**
-答：Entry-level annual salary ranges from CAD 32,000 to 40,000, with senior roles reaching CAD 50,000 to 65,000, depending on employer and location.
-
-**问：Is this occupation suitable for immigration to Canada?**
-答：It is not a shortage occupation, but immigration is possible via Canadian Experience Class (CEC) or Provincial Nominee Program (PNP) with employer support.
-
-**问：What education is required?**
-答：Typically only a high school diploma is required; customer service experience is key. IATA certification or tourism diplomas can boost competitiveness.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

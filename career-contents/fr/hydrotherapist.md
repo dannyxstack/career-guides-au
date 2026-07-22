@@ -1,60 +1,96 @@
-# Hydrotherapist（Hydrotherapist）职业分析 · FR
+# Hydrotherapist — career analysis · France
 
-**职业代码：D1203 – Hydrotherapist。**
+**Occupation code: D1203 (ROME)**
 
-Hydrotherapists use water-based therapies such as balneotherapy, underwater massage, and aquatic exercises to relieve pain and improve physical function, working in rehabilitation centers, spas, and medical facilities.
+Spa therapists use spa techniques (such as hot springs, underwater massage, and water exercise) to help patients relieve pain and improve physical function, commonly found in rehabilitation centers, spas, and medical institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中水疗与温泉护理文凭（CAP Esthétique option Spa） | 2年 | —（公立学校免费，私立学校约3000-10000欧元） |
-| 水疗与温泉治疗技师（BTS Métiers de l'esthétique option B） | 2年（BTS） | —（公立学校免费，私立学校约3000-10000欧元） |
-| 物理治疗师文凭（需通过竞争考试进入公立学院） | 3年（licence）后加2年专业训练 | —（公立大学注册费约200-500欧元/年） |
+| Diploma in Spa and Spa Care from Vocational High School (CAP Esthétique option Spa) | 2 years | $0~$10,000 (Public schools are free, while private schools cost about 3,000–10,000 euros) |
+| Spa and Spa Therapist (BTS Métiers de l'esthétique option B) | 2 Years (BTS) | $0~$10,000 (Public schools are free, while private schools cost about 3,000–10,000 euros) |
+| Diploma in Physical Therapist (requires passing a competitive exam to enter public colleges) | After 3 years (licence), add 2 years of professional training | $0~$5,000 (The registration fee for public universities is about 200-500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水疗专业人员认证（Certificat de Qualification Professionnelle CQP Spa） | 法国美容与温泉行业联合会 | 可选 | 非强制但雇主高度认可 |
-| 法国国家水疗技师文凭（BTS Métiers de l'esthétique） | 法国教育部 | 必备 | 常见要求 |
-| 物理治疗师国家文凭（如果从事临床水疗） | 法国卫生与高等教育部门 | 可选 | 受规管职业，需资质认证 |
+| French National Diploma of Spa Technicians (BTS Métiers de l'esthétique) | French Ministry of Education | Required | Common requirements |
+| Certified Qualification Professionnelle CQP Spa | French Federation of Beauty and Spa Industries | Optional | Not mandatory but highly recognized by employers |
+| National Diploma in Physical Therapist (if engaged in clinical hydrotherapy) | French Department of Health and Higher Education | Optional | Regulated occupations require qualification certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 5,000。法国温泉疗养产业历史悠久且持续发展，随着人口老龄化和对非药物疗法需求的增长，水疗师需求稳定。France Travail 将水疗归为健康与个人护理领域，就业前景良好，尤其在温泉资源丰富的地区。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 5,000. France's spa industry has a long and continuously developing history, and with an aging population and growing demand for non-pharmacological therapies, the demand for spa therapists remains stable. France Travail categorizes spas in the health and personal care sector, with promising employment prospects, especially in areas rich in hot spring resources.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$25,000 | 税前年薪，水疗中心或康复诊所 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，管理岗位或自主经营 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$25,000 | Pre-tax annual salary, spa or rehabilitation clinic |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, management positions or self-operation |
+| average salary | $18,396 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 水疗师通常从助理或初级职位起步，积累经验后可晋升为高级水疗师或康复团队主管。也可通过进修取得物理治疗师文凭，拓宽职业路径。部分水疗师可开设个人水疗工作室或转向水疗中心管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on spa therapists is mainly positive, enhancing treatment outcomes through intelligent motion-sensing feedback, automated spa devices, virtual coaching, and other means, reducing repetitive physical labor, but professional judgment and interpersonal care remain central.
+
+Spa therapists usually start as assistants or junior positions, and can be promoted to senior spa therapists or rehabilitation team leaders after gaining experience. You can also obtain a diploma as a physical therapist through further study, broadening your career path. Some spa therapists may open personal spa studios or move to spa management positions.
+
+**Tasks most exposed to AI:**
+
+- Automated adjustment of underwater massage strength and rhythm
+- Automatic monitoring and recording of hydrological parameters (temperature, pressure).
+- Passive aquatic exercise guidance based on preset schemes
+- Electronic entry of customer basic information and treatment logs
+- Simple statistics on spa treatment effectiveness
+
+**Where AI augments the role:**
+
+- Uses AI motion-sensing feedback to optimize underwater massage techniques
+- Customized spa plans through customer health data analysis
+- Use an AI virtual coach to guide aquatic rehabilitation movements
+- Utilize smart sensors to assess patients' muscle status in real time
+- Using AI to generate visualized rehabilitation progress reports
+
+**Human moat:**
+
+- Dynamic perception of patients' pain thresholds and fine-tuning of gestures
+- Building trust and psychological comfort with patients in aquatic environments
+- Emergency response to sudden situations (such as water choking or spasms).
+- Integrate multi-source health information to make clinical judgments
+- Interdisciplinary collaboration (communication with physical therapists and doctors).
+
+**Skills to build:**
+
+- Basic data analysis and health informatics tools
+- AI-assisted operation and maintenance of rehabilitation equipment
+- Use of spa technology products (such as smart bathtubs).
+- Evidence-based practice and clinical research reading ability
+- Cross-cultural communication and emotional intelligence
+- Digital health records and remote consultation platforms
+
+**Key growth areas:**
 
 - Wellness tourism
 - Aging population
@@ -63,68 +99,67 @@ Hydrotherapists use water-based therapies such as balneotherapy, underwater mass
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需法国雇主担保，合同符合紧缺职业或通过劳动市场测试 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，年薪需达到一定门槛（约38000欧元） |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高技能非欧盟公民，需长期合同且工资高于平均1.5倍 |
+| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required, and the contract meets the criteria for a shortage occupation or passes a labor market test |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with an annual salary threshold (about 38,000 euros) |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, requires a long-term contract and salary at least 1.5 times the average. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hydrotherapist？**
-- 热爱水环境和康复护理，有耐心
-- 具备良好沟通能力，愿意在医疗或温泉行业长期发展
-- 适应灵活工作安排（包括周末和旺季）
-
-**谁不适合学Hydrotherapist？**
-- 不喜长时间在水中工作
-- 体力和对湿冷环境耐受度差
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about water environments and rehabilitation care, patient and appreciated
+- Good communication skills, willing to develop long-term careers in the medical or hot spring industries
+- Adapt to flexible work arrangements (including weekends and peak seasons)
+
+**Who is not suited**
+- Dislikes working in water for long periods
+- Poor physical strength and tolerance to cold and wet environments
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for spa therapists?**
+A: Junior spa therapists earn about €21,000–€25,000 per year, mid-level €26,000–€32,000, and senior or self-employed can reach €33,000–€40,000. Salaries vary by region and workplace (public/private).
+
+**Q: How can non-EU residents immigrate to France to work as a spa therapist?**
+A: Common paths include applying for the Salarié work visa (employer sponsorship required) or Passeport Talent (annual salary must meet the threshold). This profession is in short supply in the spa area, so try to find an employer. Qualification certification requires evaluation of equivalence.
+
+**Q: What are the career development paths for spa therapists?**
+A: Can start as a spa assistant, then advance to senior spa therapist or rehabilitation consultant. Can also pursue further study to become a physiotherapist. Some spa therapists transition to management or open their own studios.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Hydrotherapist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for hydrotherapists?**
-答：Entry-level hydrotherapists earn about €21,000-€25,000 gross annually, mid-level €26,000-€32,000, and senior or self-employed can reach €33,000-€40,000. Salary varies by region and employer type.
-
-**问：How can non-EU residents immigrate to France as hydrotherapists?**
-答：Common routes are the Salarié work permit (employer sponsorship) or Talent Passport (salary threshold). The occupation is in shortage in thermal spa regions. Qualifications may need recognition.
-
-**问：What are the career development paths for hydrotherapists?**
-答：Start as a spa assistant, then advance to senior hydrotherapist or rehabilitation consultant. Further study can lead to physiotherapist. Some move into management or start their own studio.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

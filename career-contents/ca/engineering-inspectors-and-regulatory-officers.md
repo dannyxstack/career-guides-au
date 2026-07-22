@@ -1,59 +1,94 @@
-# Engineering inspectors and regulatory officers（Engineering inspectors and regulatory officers）职业分析 · 加拿大
+# Engineering inspectors and regulatory officers — career analysis · Canada
 
-**职业代码：22231 – Engineering inspectors and regulatory officers。**
+**Occupation code: 22231 (NOC)**
 
-Engineering inspectors and regulatory officers inspect engineering facilities, equipment, and processes to ensure compliance with safety, quality, and regulatory standards. They work in construction, manufacturing, energy, and related industries, conducting site inspections, document reviews, and compliance assessments.
+Engineering inspectors and regulatory officers inspect engineering facilities, equipment, and processes to ensure compliance with safety, quality, and regulatory standards. They typically work in construction, manufacturing, energy, and other industries, conducting site inspections, document reviews, and compliance assessments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科学位 | 4年 | $40,000~$80,000（工程或相关领域学士学位） |
-| 大专文凭 | 2-3年 | $20,000~$40,000（工程技术或相关领域） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Bachelor's degree in engineering or related field) |
+| Diploma | 2-3 years | $20,000~$40,000 (Engineering or related field) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师（P.Eng） | 加拿大各省工程监管机构 | 可选 | 需本科及工作经验，通过专业考试 |
-| 工程检查员认证 | 加拿大标准化协会等 | 可选 | 特定领域可能需要 |
-| 省级许可证 | 各省监管机构 | 可选 | 部分省份要求特定领域持有许可证 |
+| Professional Engineer (P.Eng) | Provincial engineering regulatory bodies in Canada | Optional | Requires a bachelor's degree and work experience, passing professional exams |
+| Engineering Inspector Certification | Standards Council of Canada, etc. | Optional | May be required in specific fields |
+| Provincial license | Provincial regulatory bodies | Optional | Some provinces require a license for specific fields |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。加拿大对工程检查员的需求稳定，预计未来几年将保持中等增长水平。基础设施建设和资源开发项目推动就业机会，尤其是在阿尔伯塔省、安大略省和不列颠哥伦比亚省。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Demand for engineering inspectors in Canada is stable, with moderate growth expected over the next few years. Infrastructure construction and resource development projects drive job opportunities, especially in Alberta, Ontario, and British Columbia.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 年薪 |
-| 中级（3-7年） | $70,000~$90,000 | 年薪 |
-| 高级（7年以上） | $90,000~$120,000 | 年薪 |
+| Median salary | $75,088 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$70,000 | Annual salary |
+| Mid-level (3–7 years) | $70,000~$90,000 | Annual salary |
+| Senior (7+ years) | $90,000~$120,000 | Annual salary |
+| average salary | $87,360 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级检查员可积累经验后晋升为高级检查员或主管，也可转向项目管理、质量控制或合规管理岗位。获得专业认证（如加拿大工程认证委员会认可）有助于职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
+
+Junior inspectors can gain experience and advance to senior inspector or supervisor, or move to project management, quality control, or compliance roles. Obtaining professional certification (e.g., recognized by Canadian Engineering Accreditation Board) aids career development.
+
+**Tasks most exposed to AI:**
+
+- Automated review of design drawings for compliance with building codes
+- Use image recognition to automatically mark site defects
+- Generate standard inspection reports and fill templates
+- Predicting high-risk violation areas based on historical data
+
+**Where AI augments the role:**
+
+- AI provides real-time code queries and compliance recommendations, improving inspection accuracy
+- Drones/robots automatically inspect, humans remotely review anomalies
+- AI analyzes construction progress photos and automatically generates discrepancy reports
+- Combining BIM models for virtual pre-inspections to reduce on-site omissions
+- Smart wearable devices record inspection data, automatically archived
+
+**Human moat:**
+
+- Subjective judgment in complex on-site environments (e.g., whether materials are acceptable).
+- Soft skills for communicating with construction parties and mediating disputes
+- Signature authority bearing legal responsibility.
+- Handling unforeseen construction anomalies and safety emergencies
+- Cross-industry experience integration (structural, electrical, fire protection)
+
+**Skills to build:**
+
+- Building Information Modeling (BIM) software operation
+- Data analysis and automated reporting tools (e.g., Python scripts)
+- Drone operation and image processing
+- AI tools in building inspection (e.g., defect detection algorithms)
+- Augmented reality (AR)-assisted on-site inspection
+- Cybersecurity knowledge (protecting smart device data)
+
+**Key growth areas:**
 
 - Infrastructure projects
 - Regulatory compliance
@@ -62,68 +97,67 @@ Engineering inspectors and regulatory officers inspect engineering facilities, e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker (FSW)） | 满足工作经验、语言等要求，通过综合排名系统获邀 |
-| Subclass PNP（Provincial Nominee Program） | 获得省提名优先处理，如安大略省、阿尔伯塔省 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主获得LMIA后支持工签申请，后续可转永久居民 |
+| Subclass Express Entry (Federal Skilled Worker (FSW)) | Meet work experience, language, and other requirements; receive an invitation through the Comprehensive Ranking System |
+| Subclass PNP (Provincial Nominee Program) | Obtain provincial nomination priority processing, e.g., Ontario, Alberta |
+| Subclass LMIA (Labour Market Impact Assessment) | After the employer obtains an LMIA, it supports a work visa application, which can later lead to permanent residence. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering inspectors and regulatory officers？**
-- 工程背景且有细节控的人
-- 喜欢现场工作和技术审查的人
-- 追求稳定就业和加拿大移民的人
-
-**谁不适合学Engineering inspectors and regulatory officers？**
-- 不喜欢重复性检查和文书工作的人
-- 对严格合规流程感到束缚的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with engineering background and attention to detail
+- For those who enjoy on-site work and technical review
+- For those seeking stable employment and Canadian immigration.
+
+**Who is not suited**
+- People who dislike repetitive inspections and paperwork
+- People who feel constrained by strict compliance processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for engineering inspectors?**
+A: Entry-level annual salary approx. CAD $55,000-70,000, intermediate $70,000-90,000, senior up to CAD $120,000+. Salary varies by province, industry, and experience.
+
+**Q: What immigration pathways are available for Engineering Inspectors to come to Canada?**
+A: Immigration is possible through Federal Express Entry (FSW/CEC), Provincial Nominee Program (PNP), or LMIA employer-sponsored work visa. Work experience, language ability, and educational assessment are key.
+
+**Q: What is the career outlook for this occupation? Which industries are popular?**
+A: Stable prospects, with high demand in construction, oil and gas, manufacturing, and public infrastructure. Candidates with P.Eng certification are more competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Engineering inspectors and regulatory officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for engineering inspectors?**
-答：Entry-level salary ranges from CAD 55,000 to 70,000, mid-level 70,000 to 90,000, and senior up to 120,000 or more, depending on province, industry, and experience.
-
-**问：What immigration pathways are available for engineering inspectors to Canada?**
-答：Options include Express Entry (FSW/CEC), Provincial Nominee Programs (PNP), and LMIA-based work permits. Work experience, language proficiency, and education credential assessment are key.
-
-**问：What is the job outlook and which industries are hot?**
-答：Outlook is stable, with strong demand in construction, oil and gas, manufacturing, and public infrastructure. Holding P.Eng certification enhances competitiveness.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

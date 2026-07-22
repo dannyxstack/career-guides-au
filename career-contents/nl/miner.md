@@ -1,61 +1,92 @@
-# Miner（Miner）职业分析 · NL
+# Miner — career analysis · Netherlands
 
-**职业代码：8111 – Miner。**
+**Occupation code: 8111 (ISCO08)**
 
-In the Netherlands, miners and quarriers extract sand, limestone and other construction materials via surface or underground mining, operating drills and blasting equipment to ensure safe and efficient production.
+In the Netherlands, miners and quarry workers primarily engage in open-pit or underground extraction of sand, gravel, limestone, and other construction materials, operating drills, blasting equipment, etc., ensuring safe and efficient production.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | $2,000~$6,000（学费每年约€2,000-€6,000，视学校而定） |
-| 短期培训 | 6个月 | $1,000~$3,000（用于操作许可证和特种设备培训） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $2,000~$6,000 (Tuition fees approximately €2,000–€6,000 per year, depending on the school) |
+| Short-term training | 6 months. | $1,000~$3,000 (For operating licenses and special equipment training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO矿业操作员文凭 | 荷兰职业院校 | 可选 | 完成3-4年课程，涵盖采矿安全、设备操作等 |
-| 爆破许可证 | 国家矿业监察局 | 必备 | 作业爆破需要持有该证书 |
-| VCA安全证书 | VCA基金会 | 必备 | 基本安全证书，多数雇主要求 |
+| Blasting License | National Mining Supervision Bureau | Required | Blasting requires this certificate |
+| VCA safety certificate | VCA Foundation | Required | Basic safety certificate, required by most employers |
+| MBO Mining Operator Diploma | Dutch vocational colleges | Optional | Complete 3-4 year course covering mining safety, equipment operation, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 2,500。荷兰矿业规模较小，以沙石开采为主，就业需求稳定但增长缓慢。因环保限制，传统采矿岗位有限，向循环经济和材料回收领域转型。
+**Job demand: low (★½☆☆☆).** National workforce approx. 2,500. The Dutch mining industry is relatively small, mainly focusing on sand and gravel extraction, with stable but slow-growing employment demand. Due to environmental restrictions, traditional mining jobs are limited, shifting towards circular economy and material recycling.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，包括津贴 |
-| 中级（3-7年） | $32,000~$40,000 | 含技术加给 |
-| 高级（7年以上） | $40,000~$50,000 | 主管或专门技术人员 |
+| Median salary | $32,011 | Median salary (Official: CBS median hourly wage €16.2/hour × 1976h annualized, BRC group 0781 Hulpkrachten bouw en industrie; P25–P75 €30,035–€38,532, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, including allowances |
+| Mid-level (3–7 years) | $32,000~$40,000 | Including technical allowances |
+| Senior (7+ years) | $40,000~$50,000 | Supervisor or specialized technician |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级矿工可晋升为班组长或爆破技术员，再至矿山主管。获取爆破证书和安全管理资质可提升竞争力，部分转向废弃物处理和再生材料行业。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Miner and quarry worker roles in the Netherlands face significant automation risk; remote monitoring, autonomous machinery, and AI scheduling will reduce traditional operator roles, but on-site maintenance and safety supervision still require humans.
+
+Junior miners can advance to team leader or blasting technician, then to mine supervisor. Obtaining blasting certificates and safety management qualifications can enhance competitiveness; some shift to waste treatment and recycled materials industries.
+
+**Tasks most exposed to AI:**
+
+- Perform drilling and blasting tasks using automated drilling rigs and blasting systems
+- Using autonomous trucks and loaders for ore transport
+- AI dispatch system optimizes mining sequence and vehicle routes
+- Remote monitoring platforms replace on-site inspection recording work
+
+**Where AI augments the role:**
+
+- AI analyzes geological data to assist in precise mineral deposit location.
+- Augmented reality headsets provide equipment repair guidance
+- Machine vision real-time monitoring equipment fault warning
+
+**Human moat:**
+
+- On-site judgment and emergency response under abnormal conditions
+- Adjustment of mining plans under complex geological conditions
+- Compliance responsibilities related to safety regulations
+- Flexibility for multi-trade collaborative work
+
+**Skills to build:**
+
+- Operation and maintenance of automated equipment (e.g., remotely controlled drilling rigs)
+- Data analysis and visualization (Python, Power BI)
+- Digital Twin and Simulation Software Application
+- SCADA/DCS system operation
+- Basic programming and troubleshooting (PLC basics)
+
+**Key growth areas:**
 
 - Automation
 - Circular Economy
@@ -64,65 +95,67 @@ In the Netherlands, miners and quarriers extract sand, limestone and other const
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于有高等教育背景或丰富经验者，雇主担保，收入门槛约€5,300/月（2025年30岁以上） |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰或世界Top200高校毕业生可在荷居留一年找工作，工作后转为其他签证 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | For those with higher education or extensive experience; employer sponsorship; income threshold approx. €5,300/month (over 30 years old in 2025) |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates of Dutch or world top 200 universities may stay in the Netherlands for one year to seek work, then switch to other visas after finding employment |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Miner？**
-- 喜欢户外体力劳动、不介意噪音粉尘环境的人
-- 愿意学习设备操作和安全管理技能的人
-- 寻求稳定工作而非高薪增长的人
+**Who is suited**
+- Those who enjoy outdoor physical labor and are not bothered by noise or dust
+- People willing to learn equipment operation and safety management skills
+- Seeking stable work rather than high salary growth.
 
-**谁不适合学Miner？**
-- 对健康隐患敏感或希望白领工作的人
-- 追求快速职业发展或高收入的人
+**Who is not suited**
+- People who are sensitive to health hazards or prefer office work
+- People pursuing rapid career progression or high income
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a miner in the Netherlands?**
+A: Junior annual income approx. €25,000-€32,000, mid-level €32,000-€40,000, senior up to €50,000, including allowances.
+
+**Q: Can foreigners immigrate to the Netherlands to work as miners?**
+A: Relatively difficult, as the occupation has low shortage and ample local labor. Employers usually need to sponsor highly skilled migrants, but demand for miners is low.
+
+**Q: What certificates are required to work as a miner in the Netherlands?**
+A: Mandatory VCA safety certificate, blasting permit (if blasting involved); MBO mining operator diploma can enhance job prospects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Miner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for miners in the Netherlands?**
-答：Entry-level annual salary is around €25,000-€32,000, mid-level €32,000-€40,000, senior up to €50,000, including allowances.
-
-**问：Can a foreigner immigrate to the Netherlands as a miner?**
-答：It is difficult as the occupation is not in shortage. Usually employer sponsorship is required via Highly Skilled Migrant scheme, but demand is low for miners.
-
-**问：What certifications are needed to become a miner in the Netherlands?**
-答：Mandatory VCA safety certificate, blasting permit (if involved); MBO mining operator diploma improves chances.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Photographer（Photographer）职业分析 · IE
+# Photographer — career analysis · Ireland
 
-**职业代码：3431 – Photographer。**
+**Occupation code: 3431 (ISCO08)**
 
-Photographers use cameras and lighting equipment to capture images of people, events, landscapes, or commercial products. They may work in studios or on location for media, advertising, or artistic purposes.
+Photographers use cameras and lighting equipment to capture people, events, landscapes, or commercial products. They may work in studios or on location, creating images for media, advertising, or artistic purposes.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无需正规学历 | —（自学或学徒制） |
-| 摄影文凭/短期课程 | 1年 | $5,000~$15,000（理工学院或私立机构） |
-| 摄影本科 | 3-4年 | $25,000~$50,000（大学总学费） |
+| High school graduation | No formal education required | $0~$0 (Self-study or apprenticeship) |
+| Photography diploma/short-term course | 1 year | $5,000~$15,000 (Polytechnics or private institutions) |
+| Bachelor of Photography | 3-4 years | $25,000~$50,000 (Total university tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 专业摄影证书 | 爱尔兰摄影协会（IPAI） | 可选 | 非强制，但有助于提升信誉 |
-| 儿童或弱势群体工作许可（Garda Vetting） | 爱尔兰国家警察（Garda Síochána） | 可选 | 若涉及儿童摄影必须持有 |
+| Professional photography certificate | Irish Photographic Association (IPAI) | Optional | Not mandatory, but helps enhance credibility |
+| Working with Children or Vulnerable People Check (Garda Vetting) | Irish National Police (Garda Síochána) | Optional | Must hold if involving children's photography |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：一般（★★½☆☆）。** 全国从业人数约 2,500。爱尔兰摄影行业受媒体、婚礼和商业需求驱动，就业增长预计与平均水平持平。数字媒体发展带来新机会，但竞争激烈，自由职业者居多。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. The Irish photography industry is driven by media, wedding, and commercial demands, with employment growth expected to be in line with the average. Digital media development brings new opportunities, but competition is fierce, and freelancers predominate.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$28,000 | 助理或自由职业起步 |
-| 中级（3-7年） | $30,000~$50,000 | 经验摄影师兼有稳定客户 |
-| 高级（7年以上） | $50,000~$80,000 | 知名摄影师或工作室业主 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$28,000 | Start as an assistant or freelancer |
+| Mid-level (3–7 years) | $30,000~$50,000 | Experienced photographer with stable client base |
+| Senior (7+ years) | $50,000~$80,000 | Well-known photographer or studio owner |
+| average salary | $42,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 摄影师可从助理晋升至首席摄影师，或专攻婚礼、时尚、商业等细分领域。积累作品和客户后，可成立工作室或转向视频制作。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Photographers face the dual impact of AI automation and AI enhancement: basic color correction, batch photo editing, and other tasks will be replaced, but core abilities such as creative conception, art direction, and complex lighting are amplified by AI tools, leading to a mixed career outlook.
+
+Photographers can progress from assistant to chief photographer, or specialize in niches like weddings, fashion, commercial. After building a portfolio and client base, they can establish a studio or shift to video production.
+
+**Tasks most exposed to AI:**
+
+- Automatic color correction and batch photo editing (AI one-click optimization of photo color and exposure)
+- Basic portrait beautification and blemish removal (AI automatically identifies and retouches skin)
+- Simple staging and standardized shooting in product photography (AI-generated product display images)
+- Image classification and keyword tagging (AI auto-tagging and archiving)
+- Quick turnaround for low-end event photography (AI camera automatic capture and post-processing)
+
+**Where AI augments the role:**
+
+- AI-assisted composition suggestions (real-time scene analysis recommends optimal composition)
+- Creative inspiration generation (AI generates style reference images based on a theme)
+- Complex post-production visual effects compositing (AI-driven rapid creative visual effects)
+- Customer communication and needs analysis (AI analysis of customer preferences to provide tailored solutions)
+- Efficient photo management and retrieval (AI smart organization and search for massive materials)
+
+**Human moat:**
+
+- Unique aesthetic judgment and artistic style (cannot be fully replicated by AI algorithms)
+- In-depth communication with clients and customized creative planning
+- Lighting control in complex scenes and guidance of portrait emotions
+- Professional-level on-site quick decisions (e.g., ad-hoc in news/event photography)
+- Narrative ability and brand value creation behind the work.
+
+**Skills to build:**
+
+- Use of AI image generation tools (Midjourney/DALL·E) and prompt engineering
+- AI-assisted post-processing software (e.g., Adobe Photoshop Generative Fill)
+- Video filming and editing (expanding multimodal content creation capabilities)
+- Color management and print output technology (high-end niche market)
+- Customer relationship management and personal brand marketing
+- Lighting design and complex lighting techniques (to enhance irreplaceability)
+
+**Key growth areas:**
 
 - digital photography
 - social media content
@@ -64,63 +100,65 @@ Photographers use cameras and lighting equipment to capture images of people, ev
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 此职业不在紧缺清单上，通常不符合关键技能许可要求。 |
-| Subclass General Employment P（General Employment Permit） | 需获得雇主担保，通过劳动力市场测试，年薪不低于30,000欧元。适用于非紧缺职业。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/欧洲经济区公民可自由在爱尔兰从事摄影师工作，无需工作许可。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is not on the shortage list and generally does not meet the requirements for the Critical Skills Employment Permit. |
+| Subclass General Employment P (General Employment Permit) | Must obtain employer sponsorship, pass a labor market test, with an annual salary of no less than 30,000 euros. Applicable to non-occupations in demand. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can freely work as photographers in Ireland without a work permit. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Photographer？**
-- 热爱摄影并有艺术眼光的创意人士
-- 具备良好人际沟通和营销能力者
-- 能适应灵活工作时间及自由职业模式
+**Who is suited**
+- Creative individuals with a passion for photography and an artistic eye
+- Individuals with strong interpersonal and marketing skills
+- Able to adapt to flexible working hours and a freelance model
 
-**谁不适合学Photographer？**
-- 追求稳定高收入和固定工作时间者
-- 不喜欢持续学习和自我推广的人
+**Who is not suited**
+- Those seeking stable, high income and fixed working hours
+- People who dislike continuous learning and self-promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for photographers in Ireland?**
+A: Junior photographer annual salary approx. 18,000-28,000 EUR; intermediate 30,000-50,000 EUR; senior up to 80,000 EUR, but most earn below this cap.
+
+**Q: Can a photographer immigrate to Ireland with a work visa?**
+A: Photographers are not on the critical skills occupation list; they generally require a general employment permit, employer sponsorship, and passing a labor market test, which is quite challenging. EU citizens can move freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 一般（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Photographer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for photographers in Ireland?**
-答：Entry-level photographers earn €18,000-€28,000 annually; mid-level €30,000-€50,000; senior could reach €80,000, but most earn below that.
-
-**问：Can photographers immigrate to Ireland on a work visa?**
-答：Photographers are not on the Critical Skills list; they typically need a General Employment Permit with employer sponsorship and labour market test, which is difficult. EU citizens can move freely.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

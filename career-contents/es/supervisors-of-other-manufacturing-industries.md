@@ -1,58 +1,94 @@
-# Supervisors of Other Manufacturing Industries（Supervisors of Other Manufacturing Industries）职业分析 · ES
+# Supervisors of Other Manufacturing Industries — career analysis · Spain
 
-**职业代码：3209 – Supervisors of Other Manufacturing Industries。**
+**Occupation code: 3209 (CNO)**
 
-Oversees manufacturing processes, manages teams, ensures quality and efficiency. Coordinates resources, enforces safety regulations, and optimizes production output.
+Responsible for overseeing manufacturing production processes, managing teams, and ensuring quality and efficiency. Coordinate resources, enforce safety procedures, and optimize outputs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校几乎免费，仅注册费） |
-| 工程学学士（Grado） | 4年 | $1,000~$4,000（公立大学年学费） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are almost free, with only a registration fee) |
+| Bachelor of Engineering (Grado) | 4 years | $1,000~$4,000 (Annual tuition at public universities) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性证书 | 无 | 可选 | 主管职位通常不要求特定执照，但相关工作经验或培训至关重要 |
-| ISO 9001内审员（可选） | 认证机构 | 可选 | 有助于提升质量管理和职业竞争力 |
+| No mandatory certificates | None | Optional | Supervisory positions usually do not require specific licenses, but relevant work experience or training is crucial |
+| ISO 9001 Internal Auditor (Optional) | Certification bodies | Optional | Helps improve quality management and professional competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。西班牙制造业正逐步自动化和数字化，对具备管理技能的主管需求稳定。汽车、化工、食品等行业均有岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Spanish manufacturing is gradually automating and digitizing, with a steady demand for managers with management skills. There are positions available in industries such as automotive, chemical, and food sectors.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $31,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $41,000~$55,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $31,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $41,000~$55,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从生产线组长晋升为生产经理或工厂经理。若补充精益生产或工业工程知识，可转向运营管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Manufacturing executives face the dual impact of AI and automation: routine tasks like production scheduling and quality inspection will be compressed, while the value of personnel management, cross-departmental coordination, and technical decision-making will be amplified; Entry-level positions have narrowed due to the widespread adoption of data tools, and senior executives must possess Industry 4.0 skills to remain competitive.
+
+You can be promoted from production line leader to production manager or factory manager. If you supplement your knowledge of lean production or industrial engineering, you can move to operations management positions.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and progress tracking (AI-generated optimized scheduling tables)
+- Quality Sampling and Defect Reporting (Machine Vision + AI Real-Time Inspection)
+- Employee attendance and working hours statistics (AI facial recognition and automatic system aggregation)
+- Equipment maintenance reminders and report generation (AI predictive maintenance and automatic report generation)
+- Production data entry and basic analysis (AI dashboards automatically collect and generate insights)
+
+**Where AI augments the role:**
+
+- Rapid decision-making of abnormal events (AI provides root cause analysis and simulation results)
+- Lean improvement projects (AI simulation of cost and efficiency of different solutions)
+- Employee skills training planning (AI identifies skill gaps and recommends courses)
+- Supplier Performance Evaluation (AI integrates multi-source data to assess supplier risk)
+- Safety and compliance inspections (AI drones or camera-assisted monitoring)
+
+**Human moat:**
+
+- Cross-departmental conflict mediation and team morale maintenance
+- On-site emergency command in case of sudden mechanical failures or supply chain disruptions
+- Intuition and long-term experience with non-standardized, small-batch processes
+- Customer relationship maintenance and personalized needs communication
+- Long-term planning for safety production culture and multi-skilled worker training
+
+**Skills to build:**
+
+- Production Data Analysis and Visualization (Python/Power BI)
+- Fundamentals of Industrial Internet of Things (IIoT) and Data Analysis of Equipment
+- Application of Robotic Process Automation (RPA) in management processes
+- Use of AI-assisted decision-making tools and result validation
+- Lean Six Sigma and digital improvement methods
+- Change management and employee digital skills training
+
+**Key growth areas:**
 
 - Manufacturing automation
 - Lean production
@@ -61,68 +97,67 @@ Oversees manufacturing processes, manages teams, ensures quality and efficiency.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需要雇主提供工作合同，并通过劳工市场测试 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，年薪需达到门槛（约33,908欧元，2024年） |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于管理层或技术专家，流程较快，无需劳工市场测试 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | An employer must provide a work contract and pass a labor market test |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, annual salary must meet the threshold (approximately €33,908, 2024) |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for management or technical experts, with a faster process and no need for labor market testing |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors of Other Manufacturing Industries？**
-- 有制造业经验并希望晋升管理岗位者
-- 善于团队协调、能承受生产压力者
-- 对质量和效率有高要求者
-
-**谁不适合学Supervisors of Other Manufacturing Industries？**
-- 不喜欢现场管理、偏好独立工作的人
-- 无法适应倒班和快节奏环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with manufacturing experience seeking management positions
+- Skilled in team coordination and able to handle production pressure
+- Those with high demands for quality and efficiency
+
+**Who is not suited**
+- People who dislike on-site management and prefer independent work
+- People who cannot adapt to shifts and fast-paced environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for manufacturing executives in Spain?**
+A: Junior approx €24,000-30,000, mid-level €31,000-40,000, senior €41,000-55,000 (gross annual salary).
+
+**Q: How can non-EU citizens immigrate to Spain through this employment?**
+A: You can apply through employment-based work residence (with work contract) or the EU Blue Card (high-paying position).
+
+**Q: What educational qualifications are required to become a manufacturing executive?**
+A: Typically, an Advanced Vocational Training (FP) or Bachelor of Engineering degree is required, with a strong emphasis on work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Supervisors of Other Manufacturing Industries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a manufacturing supervisor in Spain?**
-答：Entry-level: €24,000-30,000; mid-level: €31,000-40,000; senior: €41,000-55,000 (annual gross).
-
-**问：How can non-EU citizens immigrate to Spain through this occupation?**
-答：Via a work permit (requires a job contract) or the EU Blue Card (for high salaries).
-
-**问：What education is needed to become a manufacturing supervisor?**
-答：Typically a higher vocational training (FP) or a bachelor's in engineering, along with relevant experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Retail Pharmacist（Retail Pharmacist）职业分析 · 新西兰
+# Retail Pharmacist — career analysis · New Zealand
 
-**职业代码：251513 – Retail Pharmacist。**
+**Occupation code: 251513 (ANZSCO)**
 
-Retail pharmacists work in community pharmacies, dispensing prescriptions and providing health advice. As a Green List Tier 1 occupation, they can directly apply for residence, offering a clear immigration pathway.
+Retail pharmacists work in community pharmacies dispensing prescription medicines and providing health advice. They play a key role in primary healthcare in New Zealand. As pharmacists are on the Green List Tier 1, they can directly apply for residence, making the immigration pathway clear.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 药学学士 | 4年 | $50,000~$70,000（新西兰大学年均学费约NZD 50,000-70,000） |
-| 药学硕士（预注册） | 2年 | $60,000~$80,000（包含实习，年均学费NZD 30,000-40,000） |
+| Bachelor of Pharmacy | 4 years | $50,000~$70,000 (Average annual tuition in New Zealand is approximately NZD 50,000-70,000.) |
+| Master of Pharmacy (pre-registration) | 2 years | $60,000~$80,000 (Includes internship, average annual tuition NZD 30,000-40,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药剂学学士学位 | 新西兰认可大学 | 必备 | 如奥塔戈大学、奥克兰大学 |
-| 新西兰药剂师注册 | 新西兰药剂师协会 | 必备 | 完成实习并注册 |
-| IELTS 7.0（单项不低于7.0） | IDP/英国文化协会 | 必备 | 对非英语母语申请人 |
+| Bachelor of Pharmacy. | New Zealand accredited university | Required | e.g., University of Otago, University of Auckland |
+| Pharmacist registration in New Zealand | Pharmacy Council of New Zealand | Required | Complete internship and registration |
+| IELTS 7.0 (no band below 7.0) | IDP/British Council | Required | For non-native English speakers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 4,200。新西兰药剂师持续短缺，尤其是偏远地区。老龄化人口增加需求，预计未来5年就业增长强劲。政府简化海外药剂师注册流程，就业前景乐观。
+**Job demand: very high (★★★★½).** National workforce approx. 4,200. New Zealand faces a persistent shortage of pharmacists, especially in remote areas. An aging population increases demand, with strong employment growth expected over the next five years. The government has simplified registration for overseas pharmacists, leading to optimistic employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 实习或新注册 |
-| 中级（3-6年） | $80,000~$100,000 | 有经验药剂师 |
-| 高级（6年以上） | $100,000~$130,000 | 药房经理或专科 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Internship or new registration |
+| Mid-level (3–6 years) | $80,000~$100,000 | Experienced pharmacist |
+| Senior (6+ years) | $100,000~$130,000 | Pharmacy manager or specialist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级药剂师可升至药房经理，或专攻抗凝、糖尿病等领域。也可开设独立药房，或转向制药、药品监管等方向。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+NZ retail pharmacist roles are profoundly changed by AI and automation but not easily replaced: dispensing, inventory, and other transactional tasks will be highly automated, while clinical moats such as patient consultations, vaccination services, and chronic disease management are amplified by AI assistants. Entry-level positions narrow due to automation, requiring earlier mastery of digital health tools.
+
+Junior pharmacists can advance to pharmacy manager or specialize in areas like anticoagulation and diabetes. They may also open independent pharmacies or move into pharmaceuticals and drug regulation.
+
+**Tasks most exposed to AI:**
+
+- Prescription verification and automated dispensing (AI vision + robotic arms replace manual picking and counting of medications)
+- Repetitive inventory management (AI predicts restocking and automatic ordering)
+- Basic drug interaction check (AI drug screening system coverage exceeds 90%)
+- Standardized government/insurance claims processing (RPA auto-fill and submission)
+
+**Where AI augments the role:**
+
+- Personalized medication recommendations and dose adjustments (AI analysis of electronic health records + genetic data to assist clinical judgment)
+- Vaccination services and chronic disease management plan development (AI predicts high-risk groups and recommends interventions)
+- Patient health education and adherence tracking (AI chatbot-assisted follow-up + reminders)
+- Real-time monitoring of adverse drug reactions (NLP analysis of patient symptom descriptions + alerts)
+- Multi-drug optimization (AI model provides evidence-based combination medication recommendations)
+
+**Human moat:**
+
+- Face-to-face empathetic counselling and psychological support (AI cannot replace genuine interpersonal trust)
+- Comprehensive medication decisions for complex multimorbidity (need to integrate patient lifestyle, preferences, and clinical intuition)
+- Rapid clinical judgment in emergencies (e.g., handling allergic reactions or medication errors on the spot).
+- Regulatory and ethical responsibilities in community pharmacy service networks (legally responsible for the license holder)
+- Cross-team collaboration and communication with GPs and specialists (requiring clinical negotiation and gatekeeping)
+
+**Skills to build:**
+
+- AI-assisted prescription review and clinical decision support tool applications (e.g., MMRx, Lexicomp AI modules)
+- Health data analytics basics (reading pharmacogenomics reports, risk stratification models).
+- Vaccine prescribing and health screening capability (required certification courses for expanded scope of practice)
+- Digital health communication skills (online consultations, remote patient education)
+- Operation and troubleshooting of pharmacy automation and robotic systems
+- Basic programming/scripting (e.g., Python for batch processing of pharmaceutical data)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Retail pharmacists work in community pharmacies, dispensing prescriptions and pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，无需在新西兰工作满两年，工作即申请 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，高学历或技能可加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可作为过渡，但非直接移民路径 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, no requirement to work in New Zealand for two years; apply upon employment. |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, higher education or skills can add points |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional step, but not a direct migration pathway |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Retail Pharmacist？**
-- 喜欢与人沟通，有耐心提供健康咨询
-- 对药品科学和医疗有浓厚兴趣
-- 希望在海外定居，寻求稳定移民路径
-
-**谁不适合学Retail Pharmacist？**
-- 不喜欢长时间站立和快节奏工作
-- 对高压工作环境和处方审核敏感
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys communicating with people and has patience to provide health advice
+- Strong interest in pharmaceutical science and healthcare.
+- Looking to settle overseas and seeking a stable migration pathway.
+
+**Who is not suited**
+- Dislikes long hours of standing and fast-paced work
+- Sensitive to high-pressure work environments and prescription review
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a retail pharmacist in New Zealand?**
+A: Entry-level annual salary approx. NZD 65,000-80,000, mid-level approx. NZD 80,000-100,000, senior or pharmacy manager up to NZD 130,000+.
+
+**Q: How can retail pharmacists immigrate to New Zealand via the Green List?**
+A: Retail pharmacists are on Green List Tier 1 and can directly apply for the Straight to Residence Visa without needing to work first. Requirements include being registered as a New Zealand pharmacist and finding an accredited employer.
+
+**Q: How can overseas pharmacists register in New Zealand?**
+A: Overseas pharmacists need to undergo assessment by the Pharmaceutical Society of New Zealand, may require supplementary courses, complete internships, and register. Typically requires IELTS 7.0.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Retail Pharmacist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a retail pharmacist in New Zealand?**
-答：Entry-level: NZD 65,000-80,000; Mid-level: NZD 80,000-100,000; Senior/pharmacy manager: up to NZD 130,000+.
-
-**问：How can a retail pharmacist immigrate via the Green List?**
-答：Retail pharmacist is on Green List Tier 1. You can apply for a Straight to Residence Visa without working first, provided you register as a pharmacist and have a job offer from an accredited employer.
-
-**问：How can overseas pharmacists register in New Zealand?**
-答：Overseas pharmacists must undergo assessment by the Pharmacy Council of New Zealand, which may require bridging courses, internship, and registration. IELTS 7.0 is typically required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

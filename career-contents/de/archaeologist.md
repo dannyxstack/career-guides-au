@@ -1,61 +1,97 @@
-# Archaeologist（Archaeologist）职业分析 · DE
+# Archaeologist — career analysis · Germany
 
-**职业代码：9123 – Archaeologist。**
+**Occupation code: 9123 (KldB)**
 
-Archaeologists study human history and culture by excavating and analyzing sites and artifacts. In Germany, they work in museums, universities, research institutes, or heritage management.
+Archaeologists study human history and culture through excavation and analysis of sites and artifacts. In Germany, this profession is typically employed in museums, universities, research institutions, or cultural heritage management departments.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Bachelor） | 3年 | $1,500~$3,000（公立大学每学期约150-300欧元注册费，总计约1500-3000欧元（假设无学费）） |
-| 硕士（Master） | 2年 | $1,000~$2,000（公立大学每学期约150-300欧元注册费，总计约1000-2000欧元） |
-| 博士（PhD） | 3-5年 | —（博士通常有研究职位或奖学金，无学费） |
+| Bachelor's degree | 3 years | $1,500~$3,000 (Registration fees of about 150-300 EUR per semester at public universities, totaling about 1,500-3,000 EUR (assuming no tuition fees)) |
+| Master's Degree (Master) | 2 years | $1,000~$2,000 (Registration fees of approximately €150–300 per semester at public universities, totaling about €1,000–€2,000) |
+| Doctor of Philosophy (PhD). | 3-5 years | $0~$500 (Doctoral students usually have research positions or scholarships, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 考古学硕士学位 | 德国大学 | 必备 | 通常需硕士学历，博士为高级职位所需 |
-| 田野考古经验 | 雇主或项目 | 可选 | 实际挖掘经验通常作为聘用条件 |
+| Master's degree in Archaeology | German university | Required | A master's degree is usually required; a doctorate is needed for senior positions |
+| Field archaeology experience | Employer or project | Optional | Practical excavation experience is often a hiring condition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,000。德国考古学就业机会相对有限，主要集中在公共部门和文化机构。项目资金依赖政府拨款，职位竞争激烈。数字化和文化遗产保护技术为行业带来新方向。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,000. Archaeology job opportunities in Germany are relatively limited, mainly in the public sector and cultural institutions. Projects rely on government funding, and job competition is intense. Digitalization and cultural heritage protection technologies bring new directions to the industry.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$42,000 | 公共部门按TV-L E13级别，约年薪41,000欧元起 |
-| 中级（4-7年） | $43,000~$52,000 | 项目经理或博物馆策展人，TV-L E14级别 |
-| 高级（8年以上） | $53,000~$65,000 | 部门主管或教授，TV-L E15或更高 |
+| Median salary | $62,088 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$42,000 | Public sector at TV-L E13 level, starting from approximately €41,000 per annum |
+| Mid-level (4-7 years) | $43,000~$52,000 | Project manager or museum curator, TV-L E14 level |
+| Senior (8+ years) | $53,000~$65,000 | Department head or professor, TV-L E15 or higher |
+| average salary | $62,652 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级职位通常为研究助理或田野考古学家，积累经验后可晋升为项目负责人、博物馆馆长或大学教授。需博士学位和出版记录以进入高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will largely take over archaeologists' tasks in data processing, basic classification, and documentation, but core fieldwork, artifact interpretation, and theory building still rely on human experts; entry-level competition intensifies, while research roles require skill upgrades.
+
+Entry-level positions are usually research assistant or field archaeologist; with experience, can advance to project manager, museum curator, or university professor. Requires PhD and publication record for senior roles.
+
+**Tasks most exposed to AI:**
+
+- Automated mapping and 3D modelling data collection in archaeological excavation (drone + AI automatic identification)
+- Artifact classification and basic statistical report generation (e.g., pottery type, preliminary chronological sorting)
+- Literature search and review writing (AI-generated summaries and knowledge graph association)
+- Basic age determination data processing (automated calculations such as carbon-14 calibration curve fitting)
+- Chart generation and formatting in archaeological reports
+
+**Where AI augments the role:**
+
+- Use AI for site distribution prediction (based on geographic information systems and machine learning pattern recognition)
+- Rapid screening and anomaly marking of large-scale archaeological site aerial images with computer vision assistance
+- Quickly compare artifact descriptions and terms in literature from different cultural layers using natural language processing
+- Merges multi-source archaeological data (dating, stratigraphy, artifact assemblages) to auto-generate multi-level comprehensive draft reports
+- Virtual reality reconstruction of sites and artifacts to support public education and academic hypothesis testing
+
+**Human moat:**
+
+- Fine operation and stratigraphic judgment in field excavation (soil color, texture, feel by eye and hand)
+- Physical intervention decisions in artifact restoration and conservation (chemical stability, physical fragility)
+- Cross-cultural comparison and theoretical interpretation (symbolic meaning, social structure reconstruction)
+- Ethics and legal compliance (burial treatment, Indigenous rights, repatriation negotiations of cultural relics)
+- Storytelling and curatorial creativity in public archaeology communication
+
+**Skills to build:**
+
+- Geographic Information Systems (GIS) and spatial analysis
+- Python/R programming (automation of archaeological data analysis)
+- Drone operations and remote sensing data processing
+- 3D scanning and modeling software (e.g., Agisoft Metashape)
+- Machine learning basics (for artifact classification and site prediction)
+- Digital storytelling and visualization (e.g. Tableau, WebGL)
+
+**Key growth areas:**
 
 - Cultural Heritage
 - Digital Archaeology
@@ -64,68 +100,67 @@ Archaeologists study human history and culture by excavating and analyzing sites
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可学历的考古学家，需雇主offer。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找工作，需证明经济能力。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to archaeologists with a German-recognized degree; requires a job offer. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Archaeologist？**
-- 对人类历史和文化有浓厚兴趣
-- 喜欢田野工作和实地研究
-- 具备耐心和细致观察能力
-
-**谁不适合学Archaeologist？**
-- 偏好高薪和快速晋升
-- 不习惯户外工作和不规律节奏
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Deep interest in human history and culture
+- Enjoys fieldwork and on-site research
+- Possess patience and keen observation
+
+**Who is not suited**
+- Prefer high salary and fast promotion
+- Not accustomed to outdoor work and irregular pace
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for archaeologists in Germany?**
+A: Junior annual salary approx. €35,000-42,000, intermediate to senior can reach €52,000-65,000, depending on employer and qualifications.
+
+**Q: How can foreigners become archaeologists in Germany?**
+A: Must hold a German-recognised qualification and pass credential assessment. Usually obtain a job offer first, then apply for a skilled migration visa.
+
+**Q: What are the career prospects for archaeology?**
+A: Limited job opportunities with high competition. Digitalization and heritage conservation techniques create new fields, but most positions depend on public funding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中（★★★☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Archaeologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for archaeologists in Germany?**
-答：Entry-level salary is about €35,000-42,000 per year, mid-career around €43,000-52,000, and senior can reach €53,000-65,000, depending on employer and experience.
-
-**问：How can a foreigner become an archaeologist in Germany?**
-答：You need a recognized degree and may require credential assessment. Usually, you obtain a job offer and apply for a skilled worker visa.
-
-**问：What are the career prospects in archaeology?**
-答：Job opportunities are limited and competitive. Digitalization and heritage preservation offer new fields, but many positions depend on public funding.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

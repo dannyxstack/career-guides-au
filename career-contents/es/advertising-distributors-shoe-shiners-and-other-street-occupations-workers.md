@@ -1,57 +1,88 @@
-# Advertising distributors, shoe shiners and other street occupations workers（Advertising distributors, shoe shiners and other street occupations workers）职业分析 · ES
+# Advertising distributors, shoe shiners and other street occupations workers — career analysis · Spain
 
-**职业代码：9420 – Advertising distributors, shoe shiners and other street occupations workers。**
+**Occupation code: 9420 (CNO)**
 
-This occupation covers workers distributing advertising flyers, shining shoes, and other street-based services. Flexible but low and unstable income, often part-time or temporary, requiring no high education.
+This profession includes distributing flyers on the street, shining shoes, and other street service workers. The work is flexible but the income is unstable, usually part-time or temporary, and does not require a high degree of education.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 基础教育 | 无要求 | —（通常无需正式教育） |
-| 短期培训 | 1-2周 | —（部分雇主提供简单培训） |
+| Basic education. | No requirements | $0~$0 (Usually no formal education required) |
+| Short-term training | 1-2 weeks | $0~$200 (Some employers offer simple training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：不需要（½☆☆☆☆）。**
-
-（暂无从业资质数据）
+(no data)
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 24,000。西班牙此类从业者人数约2.4万，受数字化广告和自助服务影响，需求逐年下降。就业机会集中在临时促销和旅游区，薪资低且竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 24,000. There are about 24,000 practitioners in Spain in this field, with demand declining year by year due to the impact of digital advertising and self-service. Employment opportunities are concentrated in temporary promotions and tourist areas, with low pay and fierce competition.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $12,000~$15,000 | 兼职或临时工，税年前年薪 |
-| 中级（3-5年） | $15,000~$18,000 | 可能增加部分提成 |
-| 高级（5年以上） | $18,000~$22,000 | 极少数领队或稳定岗位 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $12,000~$15,000 | Part-time or temporary workers, annual salary before tax |
+| Mid-level (3–5 years) | $15,000~$18,000 | There may be some commission increases |
+| Senior (5+ years) | $18,000~$22,000 | Very few team leaders or stable positions |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 晋升路径有限，多数从业者保持原地或转行至销售、服务业。少数可升为小型促销团队领队，或通过经验积累转向固定岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Street workers such as advertising distributors and shoe-shiners face high substitution risks; AI and automation will significantly reduce demand for low-skilled positions, but some interpersonal services still have small-scale opportunities.
+
+Promotion paths are limited, and most practitioners remain in their original positions or switch to sales or service industries. A few can be promoted to small promotional team leaders or move to permanent positions through experience accumulation.
+
+**Tasks most exposed to AI:**
+
+- Distribute paper advertising flyers along preset routes
+- Basic street shoe-shining services
+- Simple promotional scripts and customer guidance
+- Manually record the quantity and location of distribution
+
+**Where AI augments the role:**
+
+- Use AI to analyze foot traffic data and optimize distribution routes
+- Use augmented reality (AR) interactive ads to attract attention
+- Manage customer appointments and payments through smartphone apps
+
+**Human moat:**
+
+- Personalized interaction and emotional communication
+- Emergency response capability
+- Highly flexible non-standardized services
+- Building offline trust and spreading word-of-mouth
+
+**Skills to build:**
+
+- Digital marketing and social media promotion
+- Basic data analysis and use of customer flow tools
+- Customer service and communication skills
+- Mobile payments and lightweight IT operations
+- Creative event planning ability
+
+**Key growth areas:**
 
 - Declining
 - Automation risk
@@ -60,65 +91,67 @@ This occupation covers workers distributing advertising flyers, shining shoes, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，但该职业薪资低、非紧缺，较难获批 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 不符合要求，因薪资远低于门槛 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, but this occupation has low salaries and is not in urgent demand, making it difficult to get approved |
+| Subclass Tarjeta azul UE (EU Blue Card) | They do not meet the requirements because the salary is far below the threshold |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Advertising distributors, shoe shiners and other street occupations workers？**
-- 急需求职且无学历背景的人群
-- 可接受低薪、高强度户外工作者
-- 短期过渡或兼职人员
+**Who is suited**
+- People who urgently need jobs without academic backgrounds
+- Low-wage, high-intensity outdoor workers are accepted
+- Short-term transitions or part-time staff
 
-**谁不适合学Advertising distributors, shoe shiners and other street occupations workers？**
-- 希望稳定职业发展者
-- 依赖技术移民获取身份者
+**Who is not suited**
+- Those hoping for stable career development
+- Those relying on skilled migration to obtain status
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Can advertising distributors apply for a Spanish work visa?**
+A: Almost impossible. This occupation has low salary, is not in shortage, and employer sponsorship is difficult. Consider other skilled occupations.
+
+**Q: What is the average annual salary for street jobs in Spain?**
+A: Junior approx. €12,000-15,000, as many are part-time, actual income is lower. Only a few full-time positions can reach €20,000.
+
+**Q: Is there room for advancement in street work?**
+A: Very limited. Most people remain in their original jobs or shift to retail and dining. A few can be promoted to promotion team leaders.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（½☆☆☆☆） |
-| 考证难度 | 不需要（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 非常低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Advertising distributors, shoe shiners and other street occupations workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Can advertising distributors apply for a Spanish work visa?**
-答：Almost impossible. Low salary, not a shortage occupation, employer sponsorship is difficult. Consider other skilled occupations.
-
-**问：What is the average annual salary for street occupations in Spain?**
-答：Entry-level around €12,000-€15,000, but often part-time, actual income lower. Only a few full-time positions reach €20,000.
-
-**问：Is there career advancement in street occupations?**
-答：Very limited. Most stay or move to retail/food service. Few become promotion team leaders.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

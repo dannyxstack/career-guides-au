@@ -1,58 +1,94 @@
-# Civil Engineering Technologists and Technicians（Civil Engineering Technologists and Technicians）职业分析 · 美国
+# Civil Engineering Technologists and Technicians — career analysis · United States
 
-**职业代码：17-3022 – Civil Engineering Technologists and Technicians。**
+**Occupation code: 17-3022 (SOC)**
 
-Assist civil engineers in planning, designing, and overseeing construction and maintenance of structures and facilities, including site inspection, material testing, and drafting.
+Assist civil engineers with structural design, construction supervision, and facility maintenance; involved in site surveys, material testing, and drafting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 本科（土木工程） | 4年 | $40,000~$120,000（公立大学年均1-3万美元） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree (Civil Engineering) | 4 years | $40,000~$120,000 (Public universities average USD 10,000-30,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 副学士学位 | 社区学院/技术学院 | 必备 | 通常要求土木工程或相关领域 |
-| 工程师见习（EIT） | 州工程委员会 | 可选 | 可选但有助于晋升 |
+| Associate degree | Community College / Technical College | Required | Usually requires civil engineering or a related field |
+| Engineer in Training (EIT) | State engineering board | Optional | Optional but helpful for advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 72,000。美国就业前景稳定，受基础设施投资和城镇化需求推动，BLS预计2022-2032年就业增长约4%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 72,000. US job outlook is stable, driven by infrastructure investment and urbanization demand; BLS projects about 4% employment growth from 2022-2032.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 中位约52000 |
-| 中级（3-7年） | $60,000~$80,000 | 中位约70000 |
-| 高级（7年以上） | $80,000~$100,000 | 中位约90000 |
+| Median salary | $64,950 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Median around 52,000 |
+| Mid-level (3–7 years) | $60,000~$80,000 | Median approximately 70,000 |
+| Senior (7+ years) | $80,000~$100,000 | Median around 90000 |
+| average salary | $68,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级技术员晋升为高级技术员、项目经理或转岗为土木工程师（需本科+PE执照）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
+
+Can progress from junior technician to senior technician, project manager, or transition to civil engineer (requires bachelor's degree + PE license).
+
+**Tasks most exposed to AI:**
+
+- Standard structural analysis and calculations (e.g., conventional beam and column force calculations)
+- Automated generation and review of construction drawings (BIM parametric output).
+- Automated scheduling and optimization of construction progress plans
+- Automatic comparison of compliance documents with standard specifications
+- Automatic generation of material lists and cost estimates
+
+**Where AI augments the role:**
+
+- Structural optimization design under complex geological conditions (AI-generated multi-plan comparison selection)
+- IoT and AI-based structural health monitoring and early warning
+- Use digital twin technology for construction simulation and clash detection.
+- Quickly retrieve historical engineering cases and standards through natural language interfaces.
+- Generative AI assists in writing technical reports and bid documents
+
+**Human moat:**
+
+- Complex engineering decisions and cross-disciplinary coordination (e.g. bridges and traffic, environmental impact assessment)
+- Judgment and emergency handling of unforeseen on-site problems
+- Regulatory interpretation, safety responsibility, and engineering ethics control.
+- Customer relationship and stakeholder communication
+- Innovative solution design (e.g., new material application, unique architectural forms)
+
+**Skills to build:**
+
+- Proficiency in BIM software (e.g., Revit, Navisworks) and automation scripts (Dynamo)
+- Learn AI-assisted structural analysis tools (e.g. AISC AI module)
+- Familiarity with digital twin and IoT technology basics
+- Improve project management and communication collaboration skills (e.g., PMP certification).
+- Learn data analysis basics (Python/R) for processing engineering data
+- Focus on modular construction and 3D printing in civil engineering
+
+**Key growth areas:**
 
 - Infrastructure Investment
 - Urbanization
@@ -61,64 +97,63 @@ Assist civil engineers in planning, designing, and overseeing construction and m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见路径，需本科或同等学历，雇主担保，配额有限。 |
-| Subclass EB-3（Employment-Based Third Preference） | 技术工人或专业人员绿卡，需PERM劳工认证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common pathway: requires bachelor's or equivalent, employer sponsorship, limited quotas. |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card for skilled workers or professionals, requires PERM labor certification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineering Technologists and Technicians？**
-- 细心、有条理，喜欢户外和现场工作
-- 对建筑和基础设施有浓厚兴趣
-- 希望在技术领域稳步发展
-
-**谁不适合学Civil Engineering Technologists and Technicians？**
-- 不愿频繁出差或户外作业
-- 偏好独立工作，不喜欢团队协作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized, enjoy outdoor and field work
+- strong interest in construction and infrastructure
+- Those seeking steady development in the technical field.
+
+**Who is not suited**
+- Dislikes frequent travel or outdoor work
+- Prefers independent work, dislikes teamwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a civil engineering technician?**
+A: Entry-level approx. USD 45,000-60,000, mid-level USD 60,000-80,000, senior USD 80,000-100,000.
+
+**Q: Can civil engineering technicians work in the US on an H-1B visa?**
+A: Yes, but requires employer sponsorship with a bachelor's degree or equivalent, and is subject to quota limits.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Civil Engineering Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for civil engineering technicians?**
-答：Entry-level $45,000-$60,000, mid-level $60,000-$80,000, senior $80,000-$100,000.
-
-**问：Can civil engineering technicians work in the US on an H-1B visa?**
-答：Yes, with employer sponsorship and a bachelor's degree or equivalent, subject to cap.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

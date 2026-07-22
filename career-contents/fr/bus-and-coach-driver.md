@@ -1,63 +1,99 @@
-# Bus and Coach Driver（Bus and Coach Driver）职业分析 · FR
+# Bus and Coach Driver — career analysis · France
 
-**职业代码：N4103 – Bus and Coach Driver。**
+**Occupation code: N4103 (ROME)**
 
-Drives buses or coaches on fixed routes and schedules to transport passengers. Requires a large vehicle license (Category D) and professional certification (CAP). Duties include passenger boarding, ticket inspection, and routine vehicle checks.
+Responsible for driving buses or long-distance coaches, transporting passengers according to fixed routes and schedules. You need to hold a large passenger vehicle license (Class D) and pass a Professional Competency Certificate (CAP) or professional training. The work includes passenger boarding and alighting management, ticket inspection, and daily vehicle inspections.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年 | —（公立职高免费，私立约1000-1500欧元；可通过学徒制（alternance）获得报酬） |
-| 职业高中文凭（Bac Pro） | 3年 | —（公立学校免费，私立约1500-2000欧元；包含实习） |
-| D类驾照+职业能力证书（FIMO/FCO） | 约6个月 | $2,000~$5,000（培训+考试费用，部分由Pôle emploi资助或企业承担） |
+| Certificate of Professional Competency (CAP) | 2 years | $0~$1,500 (Public vocational high schools are free, private ones about 1000-1500 euros; Compensation can be obtained through alternation) |
+| Vocational High School Diploma (Bac Pro) | 3 years | $0~$2,000 (Public schools are free, private ones about 1500-2000 euros; Includes internships) |
+| Class D driver's license + professional competency certificate (FIMO/FCO) | About 6 months | $2,000~$5,000 (Training + exam fees, partially funded by Pôle emploi or covered by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大型客车驾照（Permis D） | 法国交通部（Préfecture） | 必备 | 必须持有，需要通过理论和路考 |
-| 职业能力初始培训（FIMO） | 认证培训机构 | 必备 | 包含140小时理论+实操，获文凭后有效期5年 |
-| 定期职业培训（FCO） | 认证培训机构 | 必备 | 每5年更新，35小时课程 |
-| CAP Conducteur d'autobus | 法国教育部 | 可选 | 非强制但推荐，可提升就业竞争力 |
+| Permis D (Large Passenger Vehicle License) | French Ministry of Transport (Préfecture) | Required | Must be held, and must pass both theory and road exams |
+| Initial Vocational Skills Training (FIMO) | Accredited training organization | Required | Includes 140 hours of theory + practical training, valid for 5 years after diploma acquisition |
+| Regular Vocational Training (FCO) | Accredited training organization | Required | Updated every 5 years, 35-hour courses |
+| CAP Conducteur d'autobus | French Ministry of Education | Optional | Not mandatory but recommended, which can enhance employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 180,000。法国公交客车司机长期紧缺，尤其是大城市和偏远地区。随着人口老龄化和公交网络扩展，就业需求旺盛。France Travail 列为紧张职业。环保政策推动电动公交转型，但司机缺口持续。
+**Job demand: very high (★★★★½).** National workforce approx. 180,000. France has long faced a shortage of bus drivers, especially in large cities and remote areas. With an aging population and the expansion of the public transportation network, employment demand is strong. France Travail is listed as a stressful profession. Environmental policies are driving the transition to electric buses, but the shortage of drivers persists.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按SMIC起步，含奖金 |
-| 中级（3-10年） | $26,000~$32,000 | 税前年薪，含加班和夜间补贴 |
-| 高级（10年以上） | $32,000~$40,000 | 税前年薪，含资历津贴和主管职责 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually starting at SMIC, including bonuses |
+| Intermediate (3-10 years) | $26,000~$32,000 | Pre-tax annual salary, including overtime and night allowances |
+| Senior (10+ years) | $32,000~$40,000 | Pre-tax annual salary, including seniority allowances and supervisory responsibilities |
+| average salary | $28,248 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从司机晋升为调度员、车队主管或培训教练。通过内部培训可考取更高级别驾照（如重型货车），转向货运领域。部分经验者可进入运输管理岗位，需补充管理类文凭。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
+
+Drivers can be promoted to dispatchers, fleet managers, or training coaches. Through internal training, you can obtain higher-level driving licenses (such as heavy trucks) and transition into the freight sector. Some experienced candidates may enter transportation management positions, but a management diploma is required.
+
+**Tasks most exposed to AI:**
+
+- Autonomous driving on highways and fixed routes
+- Real-time traffic navigation and route optimization
+- Vehicle basic maintenance monitoring and fault warning
+- Automatic passenger counting and ticketing
+- Repetitive operations complying with traffic rules and safe driving
+
+**Where AI augments the role:**
+
+- Enhancing safety in complex traffic situations using ADAS and vision systems
+- Optimize shifts using scheduling algorithms to reduce empty miles
+- Personalized Training through Driving Behavior Analysis
+- Using smart communication systems to improve passenger service
+- Rely on remote monitoring systems to handle emergencies
+
+**Human moat:**
+
+- Responsibility for handling emergencies and passenger safety
+- Ability to communicate with passengers to resolve complaints and conflicts
+- Flexible adaptation in unstructured environments (e.g., construction, accidents)
+- Building trust and familiarity in specific communities
+- Ultimate driving responsibility under legal and insurance requirements
+
+**Skills to build:**
+
+- Skills to operate and monitor autonomous driving systems
+- Troubleshooting and remote collaboration skills
+- Customer service and conflict management
+- Basic data analysis (optimization of driving data)
+- Emergency response and first aid training
+- Learning new technologies and career transitions (e.g., dispatcher)
+
+**Key growth areas:**
 
 - Electric bus transition
 - Driver shortage
@@ -66,70 +102,69 @@ Drives buses or coaches on fixed routes and schedules to transport passengers. R
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 适用于有法国雇主担保的长期工作合同，需满足最低工资要求并证明招聘困难 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，但司机岗位通常不适用；若担任管理职位可能符合 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪超过约53,000欧元（2024年），司机收入通常不达标 |
-| Subclass Recherche emploi（Job Search Visa） | 完成学业后可在法寻找工作，若找到司机岗位可转为工作居留 |
+| Subclass Salarié (Employee Work Permit) | Applicable to long-term employment contracts sponsored by French employers, requiring meeting minimum wage requirements and proving recruitment difficulties |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, but driver positions are usually not applicable; may be eligible if in a management role. |
+| Subclass Carte bleue UE (EU Blue Card) | Annual salary must exceed approximately 53,000 euros (2024), and drivers usually do not meet the standard |
+| Subclass Recherche emploi (Job Search Visa) | After completing studies, can seek a job in France; if a driver position is found, can convert to a work residence permit |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bus and Coach Driver？**
-- 喜欢驾驶且注重安全的人
-- 有耐心、善沟通、能应对公众的人
-- 接受轮班工作和周末班次的人
-
-**谁不适合学Bus and Coach Driver？**
-- 不习惯长时间久坐或密闭空间的人
-- 无法承受交通压力或时间严格性的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy driving and care about safety
+- Patient, good communicators, and able to handle public situations
+- Those who accept shift work and weekend shifts
+
+**Who is not suited**
+- People who are not used to sitting for long periods or confined spaces
+- People who cannot handle traffic pressure or tight schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for bus drivers?**
+A: Pre-tax annual salary is about €22,000-40,000, with entry-level salaries close to SMIC, and seniors with allowances up to 40k. Overtime and night shift subsidies can increase income.
+
+**Q: How can foreigners become French bus drivers?**
+A: Requires employer sponsorship for a work residence permit (Salarié). Due to the occupation shortage, some companies may assist with the process. However, a category D license is required first, and foreign licenses must be converted through a test.
+
+**Q: What certificates are needed?**
+A: Must hold a Class D driver's license and FIMO certificate (140 hours of training), with the FCO renewed every 5 years. CAP diplomas are not mandatory but recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中低（★½☆☆☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Bus and Coach Driver为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a bus driver?**
-答：Gross annual salary ranges from €22,000 to €40,000. Entry-level near SMIC, senior with allowances up to €40k. Overtime and night shifts increase earnings.
-
-**问：How can foreigners become bus drivers in France?**
-答：Require employer sponsorship for a work permit (Salarié). Due to shortage, some companies assist. Need Category D license; foreign license exchange requires exams.
-
-**问：What certifications are required?**
-答：Mandatory Category D license and FIMO certificate (140 hours), renewed every 5 years via FCO. CAP diploma is optional but recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

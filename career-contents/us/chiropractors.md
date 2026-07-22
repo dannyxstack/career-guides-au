@@ -1,59 +1,95 @@
-# Chiropractors（Chiropractors）职业分析 · 美国
+# Chiropractors — career analysis · United States
 
-**职业代码：29-1011 – Chiropractors。**
+**Occupation code: 29-1011 (SOC)**
 
-Assess, treat, and care for patients by manipulation of spine and musculoskeletal system. May provide spinal adjustment or address sacral or pelvic misalignment.
+Treats and cares for patients by adjusting the spine and musculoskeletal system. May provide spinal adjustments or address sacral/pelvic misalignments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 4年 | $60,000~$120,000（私立脊骨神经医学院学费） |
-| 本科（预科） | 3-4年 | $40,000~$100,000（相关科学专业） |
+| Doctorate | 4 years | $60,000~$120,000 (Private chiropractic college tuition fees) |
+| Undergraduate (foundation) | 3-4 years | $40,000~$100,000 (Related science majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家委员会考试（NBCE） | 国家脊骨神经医学考试委员会 | 必备 | 通过全部4部分考试 |
-| 州执照 | 各州执照委员会 | 必备 | 各州要求不同，通常包括继续教育 |
-| 脊骨神经医学博士（D.C.） | 认可脊骨神经医学院 | 必备 | 符合资格课程 |
+| National Board of Chiropractic Examiners (NBCE) | National Board of Chiropractic Examiners | Required | Pass all 4 parts of the exam |
+| State license | State licensing boards | Required | Requirements vary by state and usually include continuing education |
+| Doctor of Chiropractic (D.C.) | Accredited chiropractic college | Required | Qualifying courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。美国劳工统计局预测2022-2032年就业增长约10%，远高于平均水平。老龄化人口和非药物疼痛管理需求推动增长。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. The U.S. Bureau of Labor Statistics projects employment growth of about 10% from 2022-2032, much faster than average. Driven by aging population and non-pharmaceutical pain management demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $50,000~$70,000 | 受雇于诊所 |
-| 中级（5-10年） | $70,000~$100,000 | 有经验或小诊所合伙人 |
-| 高级（10年以上） | $100,000~$150,000 | 独立执业或知名专家 |
+| Median salary | $79,200 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $50,000~$70,000 | Employed at a clinic |
+| Intermediate (5-10 years) | $70,000~$100,000 | Experienced or partner in small clinic |
+| Senior (10+ years) | $100,000~$150,000 | Independent practitioner or renowned expert |
+| average salary | $90,520 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级按摩师可积累经验后开设私人诊所，或成为运动队、康复中心专家。部分转向教学或研究，晋升路径清晰。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Chiropractors' core clinical decisions are hard to replace by AI, but administrative tasks, data collation, and initial image screening are being compressed by automation tools, while AI (e.g., digital patient consultations, image analysis) also creates new opportunities for service extension and efficiency improvement.
+
+Junior massage therapists can gain experience then open private practice, or become specialists for sports teams or rehab centers. Some transition to teaching or research, with clear progression paths.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and archiving of medical records and insurance documents
+- Preliminary spinal abnormality detection reports based on imaging
+- Routine patient appointments, scheduling, and phone follow-ups
+- Automated processing of standardized health questionnaires and pain assessments
+- Automated distribution and tracking of remote patient education materials
+
+**Where AI augments the role:**
+
+- AI-assisted 3D spinal posture analysis for more precise adjustment plans
+- Risk Stratification and Personalized Treatment Plans Based on Patient History Data
+- Real-time voice transcription and AI-generated SOAP notes to reduce paperwork
+- Virtual reality tools assist patients in feedback-based rehabilitation training
+- AI-driven evidence-based decision support integrating latest research findings
+
+**Human moat:**
+
+- Dynamic, individualized spinal adjustments through manual palpation
+- Building long-term trust in therapeutic relationships and providing psychological comfort to patients
+- Integrated assessment combining medical history, lifestyle, and psychological state
+- Clinical reasoning for complex comorbidities and atypical symptoms
+- Coordination and communication with referring doctors (GPs/specialists)
+
+**Skills to build:**
+
+- Basic use and result interpretation of AI imaging tools (e.g., SpineView)
+- Advanced configuration and data analysis of electronic medical record systems
+- Telehealth communication and virtual patient management
+- Proficiency in Python or R for basic clinical data statistics
+- Learning to use digital patient education platforms
+- Evidence-based practice and machine learning basics (understand AI limitations)
+
+**Key growth areas:**
 
 - Aging population
 - Non-pharmacological pain management
@@ -62,68 +98,67 @@ Assess, treat, and care for patients by manipulation of spine and musculoskeleta
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需要学士以上学位，脊椎按摩师符合专业职业定义，但配额有限。 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或学士+5年经验，可通过PERM申请绿卡。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于杰出脊椎按摩师，需证明国际认可。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or higher; chiropractors meet the specialty occupation definition but have limited quotas. |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires a master's or bachelor's +5 years experience, can apply for green card via PERM. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to distinguished chiropractors, requiring international recognition. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chiropractors？**
-- 对解剖学和手法治疗有热情的人
-- 喜欢自主工作、可能独立执业的人
-- 愿意投入多年学习和考试的人
-
-**谁不适合学Chiropractors？**
-- 不喜欢长时间站立和体力操作的人
-- 对高学费和教育投入犹豫的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those passionate about anatomy and manual therapy
+- Those who like autonomous work, possibly self-employed
+- Those willing to invest many years in study and exams
+
+**Who is not suited**
+- People who dislike prolonged standing and physical labor
+- Those hesitant about high tuition and education investment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a chiropractor?**
+A: In 2023, median US annual salary was about USD 75,000, but income varies widely; self-employed professionals may earn over USD 150,000.
+
+**Q: How can foreign chiropractors immigrate to the US?**
+A: Common path is H-1B work visa, then EB-2 or EB-3 green card; requires US-accredited degree and license.
+
+**Q: What licenses are required to become a chiropractor in the US?**
+A: Must graduate from an accredited chiropractic college, pass the NBCE exam, and obtain state licensure.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Chiropractors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for chiropractors?**
-答：Median annual wage in 2023 was about $75,000, but varies greatly; self-employed can earn over $150,000.
-
-**问：How can foreign chiropractors immigrate to the US?**
-答：Common path is H-1B visa, then EB-2 or EB-3 green card; requires US-accredited education and license.
-
-**问：What licenses are needed to become a chiropractor in the US?**
-答：Must graduate from accredited chiropractic college, pass NBCE exams, and obtain state license.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

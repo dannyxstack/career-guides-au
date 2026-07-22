@@ -1,59 +1,92 @@
-# Sports Coach, Instructor or Official（Sports Coach, Instructor or Official）职业分析 · IT
+# Sports Coach, Instructor or Official — career analysis · Italy
 
-**职业代码：3422 – Sports Coach, Instructor or Official。**
+**Occupation code: 3422 (ISCO08)**
 
-Responsible for training athletes, instructing sports activities, or officiating competitions. In Italy, this role spans from school sports to professional clubs.
+Responsible for training athletes, directing sports activities, or serving as referees in competitions. In Italy, this occupation covers a wide range of fields from school sports to professional clubs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+体育专项训练 | 3-4年（职业培训） | $3,000~$10,000（私立体育学院或联邦课程） |
-| 大学学位（体育科学） | 3年（本科） | $1,500~$6,000（公立大学学费，每年） |
+| High school diploma plus specialized sports training | 3-4 years (vocational training) | $3,000~$10,000 (Private sports college or federal program) |
+| University Degree (Sports Science) | 3 years (bachelor's) | $1,500~$6,000 (Public university tuition fees, per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 意大利奥委会（CONI）认证 | Comitato Olimpico Nazionale Italiano | 必备 | 多数体育项目的必备教练认证 |
-| 国家裁判执照 | 各体育联合会 | 必备 | 需通过理论和实践考试 |
-| 急救证书 | 红十字会或认证机构 | 可选 | 推荐持有 |
+| Italian National Olympic Committee (CONI) certification | Comitato Olimpico Nazionale Italiano | Required | Essential coaching certification for most sports |
+| National referee license | Various sports federations | Required | Must pass theoretical and practical exams |
+| First aid certificate | Red Cross or certification bodies | Optional | Recommended to hold |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 85,000。意大利体育产业稳步发展，2026年米兰-科尔蒂纳冬奥会带动就业增长。公共和私人体育设施需求持续，但职位多为季节性或兼职。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 85,000. Italy's sports industry is steadily developing, with the 2026 Milan-Cortina Winter Olympics driving employment growth. Demand for public and private sports facilities continues, but positions are mostly seasonal or part-time.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 兼职或小型俱乐部 |
-| 中级（3-7年） | $25,000~$40,000 | 全职教练或学校教师 |
-| 高级（7年以上） | $40,000~$70,000 | 国家或顶级俱乐部级别 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Part-time or small clubs |
+| Mid-level (3–7 years) | $25,000~$40,000 | Full-time coach or school teacher |
+| Senior (7+ years) | $40,000~$70,000 | National or top club level |
+| average salary | $36,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从助理教练或裁判起步，积累经验后可晋升为高级教练、体育总监或国家队教练。专业认证和成绩是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Core tasks of sports coaches (training guidance, tactical analysis) are hard to replace by AI for now, but data collection, basic teaching, and administrative tasks are increasingly automated, compressing entry-level positions.
+
+Start as an assistant coach or referee, gain experience, and progress to senior coach, sports director, or national team coach. Professional certifications and results are key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatic collection and preliminary analysis of athlete performance data
+- Generate basic movement demonstrations and standardized training videos
+- Automated Management of Training Schedules and Competition Arrangements
+- AI editing and tagging of tactical footage
+
+**Where AI augments the role:**
+
+- Use motion capture and AI analysis to accurately assess athletes' technical details
+- Develop personalized training plans and nutrition programs based on big data models
+- Real-time tactical simulation and opponent pattern recognition to assist real-time decisions
+- Sports injury risk assessment and intelligent recommendations for rehabilitation training
+
+**Human moat:**
+
+- Interpersonal leadership skills such as on-the-spot motivation and team cohesion building
+- Deep insight into athletes' psychological states and personalized care
+- Creative design and on-the-spot response for complex tactics
+- Safety supervision and first aid decisions in high-risk sports
+
+**Skills to build:**
+
+- Sports data analysis and visualisation tools (e.g., Tableau, Python)
+- AI motion capture and biomechanics analysis software operation
+- Configuration and optimisation of personalised AI training platforms
+- Sports psychology and communication coaching skills
+- Project management and multi-role coordination skills
+- Application of virtual reality (VR) training systems
+
+**Key growth areas:**
 
 - Winter Olympics 2026
 - Fitness trend
@@ -62,68 +95,67 @@ Responsible for training athletes, instructing sports activities, or officiating
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能教练，需大学学历和年薪≥欧盟平均1.5倍 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于体育行业非高技能岗位，需雇主担保 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 适用于独立教练或私人教练，需商业计划 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled coaches, requires university degree and annual salary ≥ 1.5 times EU average |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-high-skilled positions in the sports industry, requires employer sponsorship |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | Suitable for independent or personal trainers, requires a business plan. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sports Coach, Instructor or Official？**
-- 热爱体育、善于激励他人的人
-- 有运动背景或相关学位的人
-- 愿意灵活工作、包括周末和节假日的人
-
-**谁不适合学Sports Coach, Instructor or Official？**
-- 不喜欢户外或体力活动的人
-- 追求高薪稳定工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love sports and are good at motivating others
+- People with a sports background or related degree
+- People willing to work flexible hours, including weekends and holidays
+
+**Who is not suited**
+- People who dislike outdoor or physical activities
+- People seeking high-paying, stable jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for sports coaches in Italy?**
+A: Junior coach annual salary is about 18,000-25,000 euros, senior coach can reach over 70,000 euros, but income fluctuates greatly.
+
+**Q: How can foreign sports coaches obtain an Italian work visa?**
+A: Eligible via EU Blue Card (high salary) or Decreto Flussi quota work visa. Self-employed coaches need to apply for a self-employment visa
+
+**Q: What certifications are needed to be a coach in Italy?**
+A: Most projects require CONI certification, referees need federation licenses. First aid certificate recommended.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sports Coach, Instructor or Official的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sports coaches in Italy?**
-答：Entry-level coaches earn around €18,000-25,000 per year, while senior coaches can exceed €70,000, but income is variable.
-
-**问：How can foreign sports coaches obtain a work visa for Italy?**
-答：Via EU Blue Card (high salary) or Decreto Flussi quota work visa. Self-employed coaches need a self-employment visa.
-
-**问：What certifications are needed to be a coach in Italy?**
-答：Most sports require CONI certification, referees need federation licenses. First aid certificate is recommended.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

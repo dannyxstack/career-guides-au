@@ -1,61 +1,97 @@
-# Childcare Workers in Private Homes（Childcare Workers in Private Homes）职业分析 · ES
+# Childcare Workers in Private Homes — career analysis · Spain
 
-**职业代码：5722 – Childcare Workers in Private Homes。**
+**Occupation code: 5722 (CNO)**
 
-Cares for children in the employer's home, providing daily supervision, feeding, hygiene, and early stimulation activities.
+Caring for children in employer households, providing daily monitoring, feeding, hygiene, and early education activities.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育 | 无硬性要求 | —（通常仅需初中毕业） |
-| 职业培训（FP） | 1-2年（FP Grado Medio） | $500~$2,000（可选儿童教育相关FP课程） |
-| 短期课程 | 数月 | $100~$500（急救、儿童发展等证书） |
+| Secondary Education | No hard requirements. | $0~$0 (Usually, only a junior high school graduate is required) |
+| Vocational Training (FP) | 1-2 years (FP Grado Medio) | $500~$2,000 (Optional FP courses related to children's education) |
+| Short-term courses | Several months | $100~$500 (Certificates in first aid, child development, etc) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主通常要求经验或推荐信 |
-| 急救证书 | 红十字会等 | 可选 | 部分家庭要求，提高竞争力 |
+| No mandatory qualification requirements | None | Optional | Employers usually request experience or letters of recommendation |
+| First aid certificate | Red Cross, etc. | Optional | Some families require increased competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 65,000。西班牙出生率低但双职工家庭增多，家庭儿童保育服务需求稳定。就业机会主要来自家庭直接雇佣或小型中介。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Spain has a low birth rate but an increase in dual-income families, resulting in stable demand for childcare services within families. Employment opportunities mainly come from direct household employment or small agencies.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 税前年薪，通常按小时或月结算 |
-| 中级（3-6年） | $18,000~$22,000 | 税前年薪 |
-| 高级（6年以上） | $22,000~$26,000 | 税前年薪，住家保育员可能含食宿 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Pre-tax annual salary is usually settled by the hour or monthly |
+| Mid-level (3–6 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Senior (6+ years) | $22,000~$26,000 | Pre-tax annual salary, and in-home caregivers may include meals and accommodation |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可积累经验后晋升为幼儿教育助理或开办家庭日托。部分人通过进修获得学前教育文凭进入正式幼儿教育行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Childcare workers face a mixed outlook: AI can automate some administrative and monitoring tasks, but core emotional interaction and safety supervision are hard to replace.
+
+After gaining experience, you can be promoted to early childhood education assistant or to run family daycare. Some people enter the formal early childhood education industry through further studies to obtain diplomas in early childhood education.
+
+**Tasks most exposed to AI:**
+
+- Daily attendance records and pick-up/drop-off sign-ins, paper or electronic
+- Basic safety monitoring (e.g., automatically detecting dangerous behavior in children via cameras)
+- Common childcare knowledge Q&A (e.g., complementary food tips, schedule arrangement)
+- Routine activity report generation (auto-generated daily reports based on sensor data)
+- Basic instructional support (e.g., playing pre-recorded stories or arithmetic games)
+
+**Where AI augments the role:**
+
+- Combining AI to analyze each child's behavior and developmental milestones, personalizing interaction strategies
+- Use automation tools to quickly write observation records, freeing up more time for interaction with children
+- Conducting language and music activities via voice assistants or tablets
+- Use AI to automatically generate parent notifications and activity suggestions in home communication.
+- Use AI recommendation systems and gamified teaching tools to enrich course content.
+
+**Human moat:**
+
+- Quickly calm, empathize with and guide children during sudden emotional or conflict situations
+- Judge children's discomfort or injury signs based on subtle non-verbal cues
+- Build trust with parents and provide detailed daily performance of children
+- Handling unpredictable safety incidents during outdoor and free play
+- Providing one-on-one emotional attention and behavior modification for children with special needs
+
+**Skills to build:**
+
+- Basic data analysis (interpreting AI-generated child development reports)
+- Use of AI tools (e.g., smart teaching platforms, voice assistants)
+- Child mental health and behavior guidance (addressing new issues in the tech era)
+- Interdisciplinary curriculum design (integrating STEM and social-emotional learning)
+- Digital ethics and privacy protection (especially child data security)
+- Basic programming mindset (understanding how toys/robots work)
+
+**Key growth areas:**
 
 - domestic care
 - early childhood
@@ -64,68 +100,67 @@ Cares for children in the employer's home, providing daily supervision, feeding,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需雇主提供工作合同，证明无法在欧盟内招到合适人选。该职业非高技能，获批难度较大。 |
-| Subclass Arraigo social（Social Roots） | 已在西班牙非法居留满3年者可申请，需工作合同。可转向合法工作。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Requires employer to provide work contract and prove inability to recruit suitable candidate within the EU. This occupation is not high-skilled, making approval more difficult. |
+| Subclass Arraigo social (Social Roots) | Those who have been illegally residing in Spain for at least 3 years can apply, and a work contract is required. Switching to legal employment. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Childcare Workers in Private Homes？**
-- 喜欢儿童并有耐心的人
-- 寻求灵活工作时间的人
-- 有育儿经验但无正式学历者
-
-**谁不适合学Childcare Workers in Private Homes？**
-- 追求高薪和正规职业发展的人
-- 不愿在私人家中工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who like children and are patient
+- People seeking flexible working hours
+- Those with parenting experience but without formal academic qualifications
+
+**Who is not suited**
+- People pursuing high salaries and formal career development
+- People who are unwilling to work in private homes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of family child care workers?**
+A: Childcare workers in Spain: pre-tax annual salary approx EUR 14,000-26,000, entry level EUR 14,000-18,000, senior up to EUR 22,000-26,000. Live-in positions may include accommodation and meals.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: It's very difficult. This occupation is not highly skilled and does not meet the requirements for the EU Blue Card or the High Skilled Talent visa. Typically, employers are required to prove they cannot recruit in the EU and have low approval rates. It is recommended to consider other paths.
+
+**Q: What educational background is required for this occupation?**
+A: No mandatory academic requirements; junior high school graduates are sufficient. However, relevant FP courses (such as early childhood education) or first aid certificates can enhance competitiveness. Employers value experience and recommendations more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Childcare Workers in Private Homes为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for childcare workers in private homes?**
-答：Gross annual salary in Spain ranges from €14,000 to €26,000, with entry-level at €14,000-€18,000 and experienced up to €22,000-€26,000. Live-in positions may include room and board.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. This occupation is not high-skilled, not eligible for EU Blue Card or high-skilled visa. Employer must prove no EU worker available, approval rate low. Consider other routes.
-
-**问：What education is needed for this occupation?**
-答：No mandatory education; junior high school is enough. Relevant FP courses (e.g., early childhood education) or first aid certificates improve competitiveness. Experience and references matter most.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Stationary Plant and Machine Operators Not Elsewhere Classified（Stationary Plant and Machine Operators Not Elsewhere Classified）职业分析 · NL
+# Stationary Plant and Machine Operators Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：8189 – Stationary Plant and Machine Operators Not Elsewhere Classified。**
+**Occupation code: 8189 (ISCO08)**
 
-Operate and maintain stationary industrial machinery and plant equipment, such as compressors, pumps, and generators, across manufacturing and processing sectors to ensure efficient production.
+Operate and maintain factory machinery such as compressors, pumps, generators, etc., ensuring efficient production line operation. Involves multiple industries, requires technical proficiency and responsibility.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（公立MBO学费每年约€1,000-2,000，部分专业免费） |
-| 高中毕业加在职培训 | 2-3年 | —（公司内部培训和认证，通常由雇主承担费用） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (Public MBO tuition costs about €1,000-2,000 per year, with some programs free) |
+| High school graduation plus on-the-job training | 2-3 years | $0~$500 (In-house training and certification, usually paid for by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO机械操作文凭 | 荷兰中等职业教育机构 (ROC) | 必备 | 最常见入门资格，涵盖机械操作和安全规程 |
-| 安全操作证书 (VCA) | SSVV | 必备 | 荷兰基础安全证书，多数工厂要求 |
-| 特定设备认证 (如叉车证) | 各种认证机构 | 可选 | 根据工作岗位可能需要 |
+| MBO Diploma in Mechanical Operations | Secondary vocational education institution in the Netherlands (ROC) | Required | Most Common Entry Qualification, Covering Machine Operation and Safety Regulations |
+| Safety Certificate (VCA) | SSVV | Required | Dutch basic safety certificate, required by most factories |
+| Specific equipment certification (e.g., forklift license). | Various certification bodies | Optional | May be required depending on job role |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 28,000。荷兰制造业和能源行业对操作员需求稳定，随着自动化和绿色能源转型，岗位技能要求提升，但整体就业机会持平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 28,000. Demand for operators in the Dutch manufacturing and energy sectors is stable; with automation and green energy transition, skill requirements rise but overall job opportunities remain flat.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，包含津贴 |
-| 中级（3-8年） | $32,000~$40,000 | 税前年薪，随经验增长 |
-| 高级（8年以上） | $40,000~$50,000 | 税前年薪，含轮班补贴 |
+| Median salary | $44,262 | Median salary (official: CBS median hourly wage €22.4/hr × 1976h annualized, BRC group 0771 Productiemachinebedieners; P25–P75 €35,568–€53,352, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$32,000 | Pre-tax annual salary, including allowances |
+| Mid-level (3–8 years) | $32,000~$40,000 | Annual pre-tax salary, increases with experience |
+| Senior (8+ years) | $40,000~$50,000 | Annual pre-tax salary, including shift allowances |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作员晋升为高级操作员或班组长，通过进修可转向维护技术员或生产主管，部分可进入设备管理岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Jobs operating fixed plant and machinery face mixed impacts from AI and automation: routine monitoring will be replaced by AI, but multi-equipment coordination, emergency handling, and cross-industry adaptation still require human judgment, with overall risk manageable.
+
+Can advance from junior operator to senior operator or team leader; through further study, can transition to maintenance technician or production supervisor; some may enter equipment management roles.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring of equipment operating status and data recording
+- Simple start-stop operations and parameter adjustments
+- Fault alarm response based on preset rules.
+- Repetitive inspections and log filling
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance to reduce downtime
+- Optimizes operating parameters through digital twin simulation.
+- AI-assisted remote specialist collaboration for diagnosis
+- Real-time energy consumption analysis and energy-saving strategy recommendations
+- Automated report generation and anomaly pattern recognition
+
+**Human moat:**
+
+- Rapid diagnosis and on-site repair of unexpected faults across multiple devices
+- Non-standard operational decisions under special working conditions
+- Ability to retrofit and commission equipment across industries
+- On-site judgment of safety and environmental compliance.
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- PLC/SCADA system programming and troubleshooting
+- Automation equipment integration and commissioning.
+- Use of AI predictive maintenance tools
+- Regulatory and safety standard updates
+- Basic electrical and mechanical repair skills
+
+**Key growth areas:**
 
 - Automation
 - Green Energy
@@ -64,69 +98,68 @@ Operate and maintain stationary industrial machinery and plant equipment, such a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能非欧盟工人，需有雇主担保且年薪达到门槛（2024年约€5,008/月） |
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历专业人士，需有工作合同和较高年薪（约€5,500/月），可快速获得居留 |
-| Subclass Orientation Year (Zo（Orientation Year） | 荷兰大学毕业或全球前200高校硕士可申请一年求职签证，找到工作后可转工签 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled non-EU workers, requires employer sponsorship and minimum annual salary (€5,008/month in 2024) |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and a high annual salary (approx. €5,500/month), can obtain residence quickly. |
+| Subclass Orientation Year (Zo (Orientation Year) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, and switch to a work visa after finding a job. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 喜欢操作机械、动手能力强的人
-- 注重工作安全、能适应轮班制的人
-- 愿意接受在职培训并持续提升技能的人
-
-**谁不适合学Stationary Plant and Machine Operators Not Elsewhere Classified？**
-- 厌恶单调重复性工作的人
-- 不适应倒班和工厂噪音环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy operating machines and have strong hands-on skills
+- People who value work safety and can adapt to shift work
+- People willing to undergo on-the-job training and continuously improve their skills
+
+**Who is not suited**
+- People who dislike monotonous and repetitive work
+- People who are not suited for shift work and factory noise
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for factory operators in the Netherlands?**
+A: Entry-level approximately €26k-32k/year, mid-level €32k-40k/year, senior up to €50k/year, with additional allowances for shift work and overtime.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through this occupation?**
+A: Yes, but requires employer sponsorship and meeting the high-skilled migration salary threshold; this occupation is not on the shortage list, but automation experience can be a plus.
+
+**Q: What is the employment outlook for this occupation in the Netherlands?**
+A: Stable but with limited growth, affected by automation and green energy, requiring continuous learning of new equipment operation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Stationary Plant and Machine Operators Not Elsewhere Classified为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for stationary plant operators in the Netherlands?**
-答：Entry-level around €26k-32k, mid-level €32k-40k, senior up to €50k per year before tax, with shift and overtime allowances.
-
-**问：Can non-EU citizens immigrate to the Netherlands through this occupation?**
-答：Yes, with employer sponsorship and meeting the Highly Skilled Migrant income threshold. The occupation is not in shortage, but automation skills help.
-
-**问：What are the job prospects for this occupation in the Netherlands?**
-答：Stable but limited growth; affected by automation and green energy, requiring ongoing learning of new equipment.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

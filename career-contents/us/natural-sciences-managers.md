@@ -1,60 +1,96 @@
-# Natural Sciences Managers（Natural Sciences Managers）职业分析 · 美国
+# Natural Sciences Managers — career analysis · United States
 
-**职业代码：11-9121 – Natural Sciences Managers。**
+**Occupation code: 11-9121 (SOC)**
 
-Natural Sciences Managers plan, direct, or coordinate activities in life sciences, physical sciences, mathematics, statistics, and R&D, leading teams to achieve research goals.
+Natural sciences managers plan and direct activities in life sciences, physical sciences, mathematics, statistics, and R&D, coordinating teams to achieve research goals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$150,000（公立大学年均学费约$12,500-$25,000；私立更高） |
-| 硕士 | 2年 | $30,000~$80,000（总学费约$30,000-$80,000） |
-| 博士 | 5-7年 | —（多数博士项目有全额奖学金，自负费用较低） |
+| Bachelor's degree | 4 years | $50,000~$150,000 (Average annual tuition at public universities is about $12,500-$25,000; private universities are higher) |
+| Master's degree | 2 years | $30,000~$80,000 (Total tuition approximately $30,000-$80,000.) |
+| Doctorate | 5-7 years | $0~$20,000 (Most PhD programs offer full scholarships with low out-of-pocket costs.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 自然科学学士学位 | 大学 | 必备 | 通常需相关领域学士学位；硕士或博士更受青睐 |
-| 项目管理认证（PMP） | PMI | 可选 | 非强制但有助于晋升 |
-| 专业工程师执照（PE） | 各州工程委员会 | 可选 | 仅对部分工程背景管理者必需 |
+| Bachelor of Science in Natural Sciences | University | Required | Typically requires a bachelor's degree in a related field; master's or PhD preferred |
+| Project Management Professional (PMP) certification | PMI | Optional | Not mandatory but beneficial for promotion |
+| Professional Engineer License (PE) | State engineering boards | Optional | Required only for some engineering background managers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 84,300。美国劳工统计局预计2023-2033年该职业就业增长约6%，主要受生物技术、环境研究和数据分析领域扩张推动。研究经费增加将创造更多管理岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 84,300. U.S. Bureau of Labor Statistics projects about 6% employment growth from 2023-2033 for this occupation, driven by expansion in biotechnology, environmental research, and data analysis. Increased research funding will create more management roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 通常需硕士或博士学位 |
-| 中级（4-9年） | $110,000~$150,000 | 有管理经验 |
-| 高级（10年以上） | $150,000~$200,000 | 大型机构或资深总监 |
+| Median salary | $167,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$110,000 | Usually requires a master's or doctoral degree |
+| Intermediate (4-9 years) | $110,000~$150,000 | Has management experience |
+| Senior (10+ years) | $150,000~$200,000 | Large institutions or senior directors |
+| average salary | $180,250 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 通常从研究员或科学家起步，积累5-10年经验后晋升为项目经理或部门主管，再向高级总监或副总裁发展。博士学位和跨学科背景有利于晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+For natural sciences managers, AI will not replace core management duties but will significantly enhance research coordination, data analysis, and resource allocation efficiency; barriers to entry increase rather than decrease.
+
+Typically starts as a researcher or scientist, accumulates 5-10 years of experience, then advances to project manager or department head, and further to senior director or vice president. A PhD and interdisciplinary background aid advancement.
+
+**Tasks most exposed to AI:**
+
+- Automated laboratory data recording and basic analysis report generation
+- Automated scheduling and monitoring of routine lab processes
+- Literature search and preliminary research trend summary
+- Preliminary forecasting and reporting of budget and resource requirements.
+- Some technically demanding R&D tasks (e.g., repetitive experiments, standard tests)
+
+**Where AI augments the role:**
+
+- Using AI to accelerate interdisciplinary data integration and pattern discovery, improving research decision quality
+- Optimize experimental design and resource allocation using AI simulation and digital twin technology
+- Use AI tools to monitor project progress and risks in real time, enabling adaptive management
+- Using natural language processing to automatically generate project reports, grant proposals, and literature reviews
+- AI-driven collaboration platform enhances team communication and knowledge sharing efficiency
+
+**Human moat:**
+
+- Setting research strategic direction and prioritizing.
+- Cross-team coordination and personnel motivation, conflict resolution
+- Qualitative judgment and ethical decision-making for complex, non-quantifiable research outcomes
+- Strategic negotiation and relationship maintenance with funding agencies and partners
+- Creative research direction selection integrating human intuition with AI suggestions
+
+**Skills to build:**
+
+- AI/Machine Learning fundamentals and data science tools (Python, R)
+- AI project management and automated workflow design skills
+- Data-driven decision making and statistical modeling
+- Human-machine collaboration and remote team leadership
+- Knowledge of AI ethics, privacy, and regulatory compliance
+- Interdisciplinary communication and innovative thinking
+
+**Key growth areas:**
 
 - Biotechnology
 - Environmental Research
@@ -63,69 +99,68 @@ Natural Sciences Managers plan, direct, or coordinate activities in life science
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见工作签证，需雇主担保且满足专业职位要求 |
-| Subclass EB-2（Employment-Based Second Preference） | 绿卡申请路径，需硕士以上或特殊能力 |
-| Subclass EB-3（Employment-Based Third Preference） | 绿卡路径，适用于学士学位或经验 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于有突出成就的管理者 |
+| Subclass H-1B (H-1B Specialty Occupations) | Most common work visa, requires employer sponsorship and meets professional position requirements |
+| Subclass EB-2 (Employment-Based Second Preference) | Green card application pathway requires master's degree or higher, or exceptional ability |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card pathway, applicable to bachelor's degree or experience. |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to managers with outstanding achievements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Natural Sciences Managers？**
-- 拥有科学博士学位且具备领导力的人
-- 跨学科背景（如生物+数据分析）
-- 擅长战略规划与团队协调
-
-**谁不适合学Natural Sciences Managers？**
-- 偏好独立研究工作而非管理
-- 抗压能力弱，不适应多项目并行
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a PhD in science and leadership skills
+- Interdisciplinary background (e.g., biology + data analysis).
+- Skilled in strategic planning and team coordination
+
+**Who is not suited**
+- Prefer independent research work over management
+- Weak stress tolerance, not suited to multiple projects simultaneously
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for natural science managers?**
+A: According to BLS 2023 data, the median annual salary is approximately $156,000, entry-level around $80,000-$110,000, and senior can reach over $200,000.
+
+**Q: What steps are needed to immigrate in this occupation?**
+A: Typically start with an H-1B work visa, then the employer files a PERM labor certification, followed by an EB-2 or EB-3 green card. PhDs or outstanding talent may consider O-1 or NIW.
+
+**Q: What educational background is needed for this occupation?**
+A: Usually requires at least a bachelor's degree in natural sciences, but a master's degree is more common, and a PhD is advantageous in research-intensive institutions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Natural Sciences Managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Natural Sciences Managers?**
-答：According to BLS 2023 data, median annual wage is about $156,000, entry-level $80,000-$110,000, senior can exceed $200,000.
-
-**问：What are the steps to immigrate for this occupation?**
-答：Typically, start with H-1B, then employer files PERM labor certification, followed by EB-2/EB-3 green card. PhD or outstanding talents may consider O-1 or NIW.
-
-**问：What education is required for this occupation?**
-答：Usually a bachelor's degree in a natural science, but master's is more common; PhD is advantageous in research-intensive settings.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

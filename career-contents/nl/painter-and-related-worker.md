@@ -1,59 +1,93 @@
-# Painter and Related Worker（Painter and Related Worker）职业分析 · NL
+# Painter and Related Worker — career analysis · Netherlands
 
-**职业代码：7131 – Painter and Related Worker。**
+**Occupation code: 7131 (ISCO08)**
 
-Applies paint, varnish, and other coatings to buildings, vehicles, and industrial structures, including surface preparation and finishing.
+Perform painting work on buildings, vehicles, and industrial facilities, including surface preparation, paint mixing, and spraying.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年（MBO） | —（荷兰籍/欧盟学生学费全免，仅需书本费；非欧盟学生约€2000/年） |
-| 学徒制 | 2-4年 | —（带薪培训，费用极低） |
+| Secondary vocational education | 2-3 years (MBO) | $0~$2,000 (Tuition-free for Dutch/EU students, only book costs; non-EU students approximately €2,000/year) |
+| Apprenticeship | 2-4 years | $0~$500 (Paid training with very low costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO 建筑涂装文凭 | 荷兰职业教育机构（ROC） | 必备 | 通常为从业基本要求 |
-| SVIB 安全证书 | 荷兰行业安全机构 | 必备 | 工作现场安全认证 |
-| VCA 基础安全证书 | SSVV | 可选 | 多数雇主要求 |
+| MBO Diploma in Building Coatings | Netherlands vocational education institutions (ROC) | Required | Usually a basic requirement for practitioners |
+| SVIB Safety Certificate | Dutch industry safety authority | Required | Workplace safety certification |
+| VCA Basic Safety Certificate | SSVV | Optional | Most employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。荷兰建筑业持续增长，老旧建筑翻新和可持续改造需求旺盛，油漆工就业前景稳定。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The Dutch construction industry continues to grow, with strong demand for renovation and sustainable retrofitting of old buildings, ensuring stable employment prospects for painters.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含补贴 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含工头或专长加成 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, including allowances |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary, including foreman or specialty bonuses |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒逐步晋升为熟练工，积累经验后可成为工头或自营承包商，也可专攻装饰性涂装或工业涂装。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
+
+You can progress from apprentice to skilled worker, and with experience become a foreman or self-employed contractor, or specialise in decorative or industrial painting.
+
+**Tasks most exposed to AI:**
+
+- Color formulation and swatch matching (AI vision systems can automatically identify and adjust colors)
+- Wall area measurement and material quantity calculation (AI measurement tools replacing manual estimation)
+- Operation and supervision of automatic spray painting machines (automated coating systems)
+- Wallpaper pattern alignment and cutting optimisation (computer vision-assisted)
+
+**Where AI augments the role:**
+
+- Complex texture and antique effect designs (AI generates creative templates for reference)
+- On-site defect detection (AI vision assists in finding subtle unevenness and color differences)
+- Customer communication and preview (AI-generated 3D renders for client confirmation)
+- Project quotation and schedule management (AI automates estimation and scheduling)
+- Safety monitoring and construction quality recording (AI real-time monitoring tool)
+
+**Human moat:**
+
+- Fine manual skills (e.g., French polishing, wood staining cannot be fully automated)
+- On-site adaptability (handling irregular surfaces and unexpected issues)
+- Aesthetic judgment and client communication (understanding personalized needs and providing artistic advice)
+- Safety compliance and multi-trade coordination (on-site management is irreplaceable)
+
+**Skills to build:**
+
+- Master digital measurement and color matching software (e.g., Sherwin-Williams ColorSnap)
+- Learn to use spray painting robots and automated coating equipment
+- Improve project management and client communication skills
+- Learning 3D rendering and VR preview tools (e.g., SketchUp or Unreal Engine)
+- Knowledge of eco-friendly paints and sustainable construction techniques
+- Basic data analysis and electronic document processing
+
+**Key growth areas:**
 
 - Renovation
 - Sustainable construction
@@ -62,68 +96,67 @@ Applies paint, varnish, and other coatings to buildings, vehicles, and industria
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Visa） | 适用于高技能移民，需雇主担保，年薪门槛约€5,000/月（2025年）。油漆工需证明专业技能。 |
-| Subclass Orientation Year（Orientation Year Residence Permit） | 适用于在荷兰毕业的留学生，可在求职期内自由工作。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育背景及高薪职位（年薪≥€5,600/月），油漆工较少符合。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Visa) | Suitable for high-skilled immigrants, requires employer sponsorship, with an annual salary threshold of approximately €5,000/month (2025). Painters must demonstrate professional skills. |
+| Subclass Orientation Year (Orientation Year Residence Permit) | Applicable to international students who graduated in the Netherlands, allowing free work during the job-seeking period. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education backgrounds and high-paying positions (annual salary ≥ €5,600/month); painters less likely to qualify. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Painter and Related Worker？**
-- 喜欢动手操作、注重细节的人
-- 愿意从事体力劳动并有一定耐力
-- 希望在建筑行业拥有稳定职业路径的人
-
-**谁不适合学Painter and Related Worker？**
-- 对颜料和化学溶剂过敏者
-- 追求办公室工作或低体力劳动环境者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Willing to do physical work and have some stamina
+- People who want a stable career path in the construction industry
+
+**Who is not suited**
+- Allergic to pigments and chemical solvents
+- Those seeking office work or low-physical-labor environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a painter in the Netherlands?**
+A: Junior painter annual salary around €28,000-€35,000, intermediate around €35,000-€45,000, senior up to over €55,000.
+
+**Q: How can non-EU citizens become painters in the Netherlands?**
+A: Can apply through a high-skilled migration visa (requires employer sponsorship) or by first studying an MBO course in the Netherlands and then applying for a job-seeking year visa.
+
+**Q: What certificates are required for painters in the Netherlands?**
+A: Typically requires an MBO diploma in building painting, as well as a VCA safety certificate. Some employers require an SVIB certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Painter and Related Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for painters in the Netherlands?**
-答：Entry-level painters earn around €28,000-€35,000, mid-level €35,000-€45,000, and senior painters up to €55,000+ per year.
-
-**问：How can non-EU citizens become painters in the Netherlands?**
-答：They can apply for a Highly Skilled Migrant visa with employer sponsorship, or study an MBO program followed by an Orientation Year visa.
-
-**问：What certifications are needed for painters in the Netherlands?**
-答：Typically an MBO diploma in painting, plus a VCA safety certificate. Some employers require an SVIB certificate.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

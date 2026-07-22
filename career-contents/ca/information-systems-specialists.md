@@ -1,61 +1,97 @@
-# Information systems specialists（Information systems specialists）职业分析 · 加拿大
+# Information systems specialists — career analysis · Canada
 
-**职业代码：21222 – Information systems specialists。**
+**Occupation code: 21222 (NOC)**
 
-Design, develop, implement and maintain information systems and IT infrastructure to ensure secure and efficient operations.
+Responsible for designing, developing, implementing, and maintaining an organization's information systems and IT infrastructure, ensuring system security and efficient operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（学费因学校而异，国际生更高） |
-| 硕士 | 2年 | $30,000~$60,000（研究型或授课型硕士） |
-| 学院文凭 | 2-3年 | $15,000~$30,000（社区学院或技术学院） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Tuition fees vary by school, higher for international students) |
+| Master's degree | 2 years | $30,000~$60,000 (Research-based or coursework-based master's degree) |
+| College diploma | 2-3 years | $15,000~$30,000 (Community college or technical college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关本科学位 | 大学 | 必备 | 通常为最低要求 |
-| 项目管理专业人士（PMP） | PMI | 可选 | 非必需，但提升竞争力 |
-| 网络安全认证（如CISSP） | ISC2 | 可选 | 针对网络安全方向 |
-| 省级注册信息系统分析师（如安省P.Eng） | 各省工程协会 | 可选 | 仅限工程类职位 |
+| Bachelor's degree in Computer Science or a related field | University | Required | Usually the minimum requirement |
+| Project Management Professional (PMP) | PMI | Optional | Not required, but boosts competitiveness |
+| Cybersecurity certification (e.g., CISSP) | ISC2 | Optional | For cybersecurity direction |
+| Provincial registration as an Information Systems Analyst (e.g., P.Eng in Ontario) | Provincial engineering associations | Optional | Engineering Positions Only |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 115,000。加拿大数字化转型加速，网络安全和数据管理需求强劲，预计未来几年就业增长良好，尤其在安大略、卑诗和魁北克省。
+**Job demand: high (★★★★☆).** National workforce approx. 115,000. Canada's digital transformation is accelerating, with strong demand for cybersecurity and data management; good employment growth expected over the next few years, especially in Ontario, British Columbia, and Quebec.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 取决于地区和公司规模 |
-| 中级（4-7年） | $75,000~$100,000 | 含奖金和福利 |
-| 高级（8年+） | $100,000~$140,000 | 架构师或管理岗可达更高 |
+| Median salary | $95,992 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Depends on region and company size. |
+| Mid-level (4-7 years) | $75,000~$100,000 | Including bonuses and benefits |
+| Senior (8+ years) | $100,000~$140,000 | Architect or management roles can reach higher |
+| average salary | $99,840 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级可晋升为高级分析师或项目经理，后续可转向IT架构师、首席信息官（CIO）或网络安全专家，需持续学习新技术。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on information systems experts is mixed: lower-level operations tasks are compressed by automation, but complex judgment areas like system architecture and security analysis are enhanced, requiring continuous skills upgrades to avoid replacement.
+
+Entry-level can advance to senior analyst or project manager, then to IT architect, Chief Information Officer (CIO), or cybersecurity expert, requiring continuous learning of new technologies.
+
+**Tasks most exposed to AI:**
+
+- Routine system monitoring and alert response
+- Standardized software deployment and configuration
+- Basic user account management and permission settings
+- Common IT troubleshooting (e.g., password reset, network reconnection)
+- Basic scripts and documentation written by generative AI
+
+**Where AI augments the role:**
+
+- System architecture design and capacity planning (using AI simulation)
+- Security threat detection and incident response analysis (AI-assisted pattern recognition)
+- writing and optimizing automated operations scripts (AI code suggestions)
+- Data-driven IT process optimization (AI analysis of bottlenecks)
+- Generative AI-assisted technical documentation and knowledge base creation
+
+**Human moat:**
+
+- Diagnosis and repair of complex cross-system integration issues
+- Deep translation capability between business needs and system functions
+- Maintenance and migration of non-standard, undocumented legacy systems
+- High-responsibility security strategy formulation and compliance decisions
+- Soft skills for communicating with business departments and driving digital transformation
+
+**Skills to build:**
+
+- Cloud-native technologies (Kubernetes, Terraform)
+- AI/ML fundamentals and MLOps (model deployment and monitoring)
+- Python scripting and automation frameworks (Ansible, Puppet)
+- Cybersecurity and Compliance (CISSP, ISO 27001)
+- Data analysis and visualization (SQL, Power BI)
+- Large model prompt engineering and AI tool integration
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -64,69 +100,68 @@ Design, develop, implement and maintain information systems and IT infrastructur
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW/C（Federal Skilled Worker / Canadian Experience Class） | 基于CRS分数邀请，需至少1年工作经验及语言成绩 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如安省ICT人才通道，可加分 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，可加分或直接申请永居 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合雇主在此区域 |
+| Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Invitations based on CRS score; requires at least 1 year of work experience and language test scores |
+| Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario ICT talent stream, can add points |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points or directly apply for permanent residence |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable if employer is in this region. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Information systems specialists？**
-- 喜欢解决复杂技术问题的人
-- 愿意持续学习新技术的人
-- 具备逻辑思维和沟通能力的人
-
-**谁不适合学Information systems specialists？**
-- 不喜欢频繁更新技能的人
-- 厌恶高压和加班文化的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy solving complex technical problems
+- People willing to continuously learn new technologies.
+- People with logical thinking and communication skills
+
+**Who is not suited**
+- Those who dislike frequent skill updates
+- People who dislike high pressure and overtime culture
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an Information Systems Specialist in Canada?**
+A: Junior about 55,000-75,000 CAD, intermediate 75,000-100,000, senior 100,000-140,000, depending on experience, certification, and industry.
+
+**Q: How can an ICT systems specialist immigrate to Canada?**
+A: Eligible through Express Entry (FSW/CEC) or Provincial Nominee Programs (e.g., Ontario ICT stream), requiring a bachelor's degree, IELTS scores, and at least 1 year of relevant work experience.
+
+**Q: What is the future outlook for this occupation?**
+A: Very good. Demand for digital transformation, cloud services, and cybersecurity continues to grow, especially in major cities and across multiple industries.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Information systems specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Information Systems Specialists in Canada?**
-答：Entry-level: CAD 55,000-75,000; Mid-level: CAD 75,000-100,000; Senior: CAD 100,000-140,000, varying by experience, certification, and industry.
-
-**问：How can an Information Systems Specialist immigrate to Canada?**
-答：Through Express Entry (FSW/CEC) or PNP (e.g., Ontario ICT stream), requiring a bachelor's degree, IELTS, and at least 1 year of relevant work experience.
-
-**问：What are the future prospects for this occupation?**
-答：Excellent, driven by digital transformation, cloud services, and cybersecurity demand across major cities and industries.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

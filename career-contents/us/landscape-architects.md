@@ -1,59 +1,92 @@
-# Landscape Architects（Landscape Architects）职业分析 · 美国
+# Landscape Architects — career analysis · United States
 
-**职业代码：17-1012 – Landscape Architects。**
+**Occupation code: 17-1012 (SOC)**
 
-Landscape Architects plan and design land areas for projects such as parks, recreational facilities, airports, highways, hospitals, schools, and commercial, industrial, and residential sites.
+Landscape architects plan and design land areas, including parks, recreational facilities, airports, highways, hospitals, schools, and commercial, industrial, and residential sites.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $80,000~$200,000（公立大学约8万-15万美元，私立15万-20万美元） |
-| 硕士 | 2年 | $40,000~$120,000（公立约4万-8万美元，私立8万-12万美元） |
+| Bachelor's degree | 4 years | $80,000~$200,000 (Public universities about $80,000-$150,000, private $150,000-$200,000) |
+| Master's degree | 2 years | $40,000~$120,000 (Public: about US$40,000-80,000; private: US$80,000-120,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 景观建筑师注册执照 | 各州景观建筑师委员会 | 必备 | 通过LARE考试和州考试，强制性 |
-| 景观建筑学学士或硕士 | LAAB认证院校 | 必备 | 通常需LAAB认证学位 |
-| 硕士后实习经历 | 雇主 | 可选 | 通常1-2年，部分州要求 |
+| Landscape architect registration license | State landscape architect boards | Required | Pass LARE exam and state exam, mandatory |
+| Bachelor's or Master's in Landscape Architecture | LAAB-accredited institutions. | Required | Usually requires a LAAB-accredited degree |
+| Post-master's internship experience | Employer | Optional | Usually 1-2 years, required by some states |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 24,000。美国劳工统计局预计2022-2032年景观建筑师就业增长约5%，与所有职业平均水平持平。随着城市化和环境可持续性关注增加，绿色基础设施和社区规划需求将推动就业。
+**Job demand: medium (★★½☆☆).** National workforce approx. 24,000. The US Bureau of Labor Statistics projects about 5% employment growth for landscape architects from 2022 to 2032, about as fast as the average for all occupations. Increasing urbanization and environmental sustainability focus will drive demand for green infrastructure and community planning.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 助理景观建筑师 |
-| 中级（3-7年） | $60,000~$85,000 | 景观建筑师 |
-| 高级（7年以上） | $85,000~$120,000 | 项目经理或资深设计师 |
+| Median salary | $79,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Assistant landscape architect. |
+| Mid-level (3–7 years) | $60,000~$85,000 | Landscape architect |
+| Senior (7+ years) | $85,000~$120,000 | Project manager or senior designer |
+| average salary | $88,780 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 初入职通常担任助理设计师；积累经验后可升任项目经理或资深设计师；资深者可成为合伙人或开设个人事务所。部分转向城市规划或环境咨询领域。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
+
+Entry-level as assistant designer; with experience can become project manager or senior designer; senior can become partner or start own firm. Some transition to urban planning or environmental consulting.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate initial landscape design drafts
+- Automatically adjust irrigation schedules based on weather sensors
+- Customer inquiries pre-processed by chatbots for common questions
+- Automatically generate standardized instructions for pruning and fertilization
+
+**Where AI augments the role:**
+
+- Using AR/VR for on-site design effect previews
+- Drone inspection of large green areas with disease marking
+- Smart devices collect soil moisture data to assist precision fertilization
+- Use management software to optimize construction scheduling and resource allocation
+
+**Human moat:**
+
+- On-site manual trimming and detailed horticultural operations
+- Subjective experience in judging abnormal plant growth
+- Face-to-face client interaction to understand needs and provide personalized advice
+- Real-time decision-making for sudden weather or plant diseases
+
+**Skills to build:**
+
+- Master AI tools for garden and landscape architectural design (Python/3D modeling)
+- Learn to debug and maintain intelligent irrigation systems
+- Obtain precision agriculture sensor application certification
+- Enhance customer service and project communication skills
+- Obtain Qualifications in Tree Pathology and Native Plant Application
+- Proficient in landscaping management software (SaaS platforms)
+
+**Key growth areas:**
 
 - Green Infrastructure
 - Urban Planning
@@ -62,68 +95,67 @@ Landscape Architects plan and design land areas for projects such as parks, recr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于专业职位，需学士学位及以上，每年配额有限，抽签制。 |
-| Subclass EB-2（EB-2 Advanced Degree or Exceptional Ability） | 需硕士以上学位或特殊能力，通常需PERM劳工认证。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于学士学位或2年以上经验，需PERM劳工认证。 |
+| Subclass H-1B (H-1B Specialty Occupations) | For professional positions requiring a bachelor's degree or higher, with annual quotas and a lottery system. |
+| Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Requires a master's degree or higher, or exceptional ability, and typically PERM labor certification. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applicable for bachelor's degree or 2+ years experience, requires PERM labor certification. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Landscape Architects？**
-- 热爱自然与环境设计
-- 具备创意和艺术审美
-- 擅长多学科协作
-
-**谁不适合学Landscape Architects？**
-- 喜欢单一重复性工作
-- 对植物和生态无兴趣
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and environmental design
+- Creativity and artistic aesthetic sense
+- Proficient in multidisciplinary collaboration
+
+**Who is not suited**
+- Those who prefer single, repetitive tasks
+- No interest in plants and ecology
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a landscape architect?**
+A: According to BLS, the median salary for landscape architects in 2023 was about $73,000; entry-level about $45,000-$60,000; senior can exceed $120,000.
+
+**Q: Is it easy for landscape architects to immigrate to the U.S.?**
+A: Pathways include H-1B and EB-2/EB-3 green cards. H-1B has quota limits and requires a lottery, EB categories require PERM labor certification. Overall feasible but with moderate competition.
+
+**Q: What are the degree requirements?**
+A: Usually requires a LAAB-accredited bachelor's or master's degree in landscape architecture. Some states require internship experience and passing the LARE exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Landscape Architects的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for landscape architects?**
-答：According to BLS, the median annual wage for landscape architects in 2023 was about $73,000, with entry-level earning $45,000-$60,000 and senior roles over $120,000.
-
-**问：Is it easy for landscape architects to immigrate to the US?**
-答：Paths include H-1B and EB-2/EB-3 green cards. H-1B has quota and lottery; EB categories require PERM. Generally feasible with moderate competition.
-
-**问：What are the educational requirements?**
-答：Typically a LAAB-accredited bachelor's or master's in landscape architecture. Some states require internship and passing the LARE.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

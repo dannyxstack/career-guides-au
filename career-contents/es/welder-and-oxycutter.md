@@ -1,59 +1,93 @@
-# Welder and Oxy-Cutter（Welder and Oxy-Cutter）职业分析 · ES
+# Welder and Oxy-Cutter — career analysis · Spain
 
-**职业代码：7312 – Welder and Oxy-Cutter。**
+**Occupation code: 7312 (CNO)**
 
-Welders and oxy-cutters join or cut metal parts using arc welding, gas welding, plasma cutting, etc., essential in manufacturing, construction, and shipbuilding.
+Welders and gas cutters are responsible for connecting or cutting metal parts using technologies such as arc welding, gas welding, and plasma cutting, making them indispensable in industries such as manufacturing, construction, and shipbuilding.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | $500~$3,000（公立学校免费，私立约1000-3000欧元） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$4,000（公立免费，私立约1500-4000欧元） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $500~$3,000 (Public schools are free, private ones are about 1000-3000 euros) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$4,000 (Public schools are free, private ones about 1500-4000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接技师认证 | 西班牙标准化协会（UNE） | 可选 | 根据国际标准（ISO 9606）认证，非强制但雇主优先 |
-| 职业培训毕业证书 | 西班牙教育部认可的职业学校 | 必备 | 完成FP Grado Medio或Superior焊接相关专业 |
-| 高危作业许可证 | 劳动与社会保障部 | 可选 | 从事压力容器或特定环境焊接时需要 |
+| Vocational training graduation certificate | Vocational schools recognized by the Spanish Ministry of Education | Required | Completed FP Grado Medio or Superior welding majors |
+| Welding technician certification | Spanish Standardization Association (UNE) | Optional | Certified according to the international standard (ISO 9606), not mandatory but employer priority |
+| High-risk work permit | Ministry of Labor and Social Security | Optional | Required when welding pressure vessels or specific environments |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。西班牙焊工需求稳定，尤其在工业制造、汽车、船舶维修等领域。建筑业复苏和可再生能源项目带来新增岗位，但面临自动化替代压力。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. Demand for welders in Spain remains stable, especially in industrial manufacturing, automotive, and ship repair. The recovery of the construction industry and renewable energy projects have created new jobs, but there is pressure to replace automation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$26,000 | 税前年薪，含加班 |
-| 中级（3-7年） | $26,000~$34,000 | 税前年薪，含津贴 |
-| 高级（7年以上） | $34,000~$45,000 | 税前年薪，含管理或高精度焊接补贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$26,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–7 years) | $26,000~$34,000 | Annual pre-tax salary, including allowances |
+| Senior (7+ years) | $34,000~$45,000 | Pre-tax annual salary, including management or high-precision welding subsidies |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可晋升为焊接技师、焊接检验师、生产主管，或通过继续教育成为焊接工程师。积累经验后可独立创业或从事高精度焊接（如压力容器）。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Candidates can be promoted to welding technician, welding inspector, production supervisor, or become a welding engineer through continuing education. After gaining experience, you can start your own business or engage in high-precision welding (such as pressure vessels).
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Welding
 - Manufacturing
@@ -62,68 +96,67 @@ Welders and oxy-cutters join or cut metal parts using arc welding, gas welding, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 由西班牙雇主担保的工作居留，适用于非欧盟技术工人。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能人才，要求年薪至少约33,908欧元（2024年标准），适合中级以上焊工。 |
-| Subclass Búsqueda de empleo（Job Search Visa） | 允许在西班牙停留6个月寻找工作，需证明经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Work residency sponsored by Spanish employers, applicable to non-EU skilled workers. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Targeting high-skilled talent, requires an annual salary of at least approximately €33,908 (2024 standard), suitable for intermediate-level welders and above. |
+| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, and you must prove your financial means. |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welder and Oxy-Cutter？**
-- 动手能力强、对金属加工感兴趣的人
-- 愿意从事体力劳动和户外/车间工作的人
-- 寻求稳定技术职业、无需高学历者
-
-**谁不适合学Welder and Oxy-Cutter？**
-- 无法适应噪音、火花和有害气体环境的人
-- 希望完全避免体力劳动或长期坐办公室者
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong hands-on skills and interest in metalworking
+- Willing to engage in physical labor and outdoor/workshop work
+- Those seeking stable technical careers without high academic qualifications
+
+**Who is not suited**
+- People who cannot tolerate environments of noise, sparks, and harmful gases
+- Those who want to completely avoid physical labor or sitting in the office for long periods
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of welders in Spain?**
+A: Entry-level annual salary approximately €20,000-26,000, mid-level €26,000-34,000, senior up to €45,000. Overtime and special material welding can increase income.
+
+**Q: How can non-EU welders immigrate to Spain?**
+A: The common pathway is to obtain a work contract with a Spanish company and apply for an employed work residence permit (Cuenta ajena). If the salary meets the threshold (around €34,000+), you can also apply for an EU Blue Card.
+
+**Q: What career development opportunities are available for welders?**
+A: You can be promoted to welding inspector, workshop supervisor, or learn robot welding operations. By obtaining advanced certifications (such as ISO 9606), you can work in high value-added fields such as aviation or nuclear power.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Welder and Oxy-Cutter的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for welders in Spain?**
-答：Entry-level annual salary is around €20k-€26k, mid-level €26k-€34k, and senior up to €45k. Overtime and specialized welding increase earnings.
-
-**问：How can non-EU welders migrate to Spain?**
-答：Common path is to get a job offer and apply for a work permit (Cuenta ajena). If salary is over €34k, EU Blue Card is also an option.
-
-**问：What career advancement opportunities exist for welders?**
-答：They can become welding inspectors, workshop supervisors, or robotic welding operators. Advanced certifications like ISO 9606 open doors to aerospace or nuclear sectors.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

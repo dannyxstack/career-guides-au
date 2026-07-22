@@ -1,58 +1,91 @@
-# Earth Science Technician（Earth Science Technician）职业分析 · 新西兰
+# Earth Science Technician — career analysis · New Zealand
 
-**职业代码：311412 – Earth Science Technician。**
+**Occupation code: 311412 (ANZSCO)**
 
-Earth Science Technicians assist geologists in field surveys, sample collection, and lab analysis; stable demand in NZ's mining and geothermal energy sectors, eligible for Skilled Migrant and Green List routes.
+Earth science technicians assist geologists with field surveys, sample collection, and laboratory analysis. There is steady demand in New Zealand's mining and geothermal energy sectors, eligible for skilled migration and Green List pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰国家文凭（Level 6） | 2年 | $20,000~$35,000（理工学院如Otago Polytechnic相关专业学费） |
-| 学士学位（Level 7） | 3年 | $30,000~$45,000（大学如University of Otago地质学或地球科学专业） |
+| New Zealand National Diploma (Level 6) | 2 years | $20,000~$35,000 (Tuition fees for relevant programs at polytechnics such as Otago Polytechnic) |
+| Bachelor's degree (Level 7) | 3 years | $30,000~$45,000 (University programs such as University of Otago Geology or Earth Science) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰工程技师注册 | 新西兰工程技师协会(Engineering New Zealand) | 可选 | 非强制但有利于求职和移民 |
-| 雅思6.5分 | IELTS | 可选 | 技术移民英语要求 |
+| New Zealand Engineering Technician Registration | Engineering New Zealand | Optional | Not mandatory but beneficial for job seeking and migration |
+| IELTS 6.5 | IELTS | Optional | English language requirements for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 800。新西兰南岛矿业和北岛地热项目持续开发，地球科学技师需求稳定。因本地人才短缺，具备3年以上经验者易获雇主担保。未来5年岗位增长约5-10%。
+**Job demand: high (★★★★☆).** National workforce approx. 800. Ongoing development of mining in the South Island and geothermal projects in the North Island ensures steady demand for geoscience technicians. Due to local talent shortages, those with 3+ years experience can easily obtain employer sponsorship. Job growth of approximately 5-10% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 根据careers.govt.nz数据 |
-| 中级（3-6年） | $65,000~$85,000 | 含地区津贴 |
-| 高级（6年以上） | $85,000~$110,000 | 项目经理或主管级别 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | According to careers.govt.nz data. |
+| Mid-level (3–6 years) | $65,000~$85,000 | Including locality allowance |
+| Senior (6+ years) | $85,000~$110,000 | Project manager or supervisor level |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 初级技师通过积累现场经验可晋升为高级技师或项目主管；部分人通过在职学习获得地质学学位后转为地质学家。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
+
+Junior technicians can advance to senior technicians or project supervisors through on-site experience; some transition to geologists by earning a geology degree through on-the-job study.
+
+**Tasks most exposed to AI:**
+
+- Routine geological data compilation and report generation
+- Simple ore body modeling based on historical data
+- Routine reading and recording of automated measurement instruments
+- Standardized geological mapping
+
+**Where AI augments the role:**
+
+- AI-assisted complex geological modeling and resource estimation
+- Using machine learning for ore body prediction and grade analysis
+- Real-time monitoring data analysis to optimize mining processes
+- Multi-source data fusion (remote sensing, geophysics) improves exploration efficiency
+
+**Human moat:**
+
+- On-site emergency judgment and decision-making (e.g., slope stability)
+- Effective communication and coordination with mining engineers and operators
+- Experience in field surveying under complex geological conditions
+- Implementation of safety protocols and risk management
+
+**Skills to build:**
+
+- Python or R programming (for geological data analysis)
+- Application of machine learning in geological modeling.
+- Automated measurement and drone surveying operations
+- Advanced analysis in Geographic Information Systems (GIS)
+- Digital mining software (e.g., Surpac, Datamine)
+- Data visualization and report automation
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -61,68 +94,67 @@ Earth Science Technicians assist geologists in field surveys, sample collection,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历+工作经验），职业在ANZSCO技能等级2可申请 |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后可申请居留，需薪资达到中位数以上 |
-| Subclass AEWV（Accredited Employer Work Visa） | 持有认证雇主offer，可先工签工作，后续转居留 |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (qualifications + work experience), with occupation at ANZSCO Skill Level 2 to apply |
+| Subclass Green List T2 (Green List Tier 2) | Can apply for residency after 2 years of work, requiring salary above median. |
+| Subclass AEWV (Accredited Employer Work Visa) | With a certified employer offer, you can first work on a work visa and later transfer to permanent residence. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Earth Science Technician？**
-- 喜欢户外工作，对地质和自然资源有热情
-- 动手能力强，能操作仪器设备
-- 愿意在新西兰偏远地区（如南岛矿区）工作
-
-**谁不适合学Earth Science Technician？**
-- 偏好纯办公室工作
-- 无法适应野外艰苦环境（如恶劣天气、长时间步行）
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work, passionate about geology and natural resources.
+- Strong hands-on skills, able to operate instruments and equipment
+- Willingness to work in remote areas of New Zealand (e.g., South Island mining regions)
+
+**Who is not suited**
+- Preference for purely office-based work
+- Unable to adapt to harsh field environments (e.g., bad weather, long-distance walking)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for geoscience technicians in New Zealand?**
+A: According to Stats NZ, the median annual salary for this occupation is about NZD 65,000; junior: NZD 50,000–65,000; senior: up to NZD 85,000–110,000.
+
+**Q: Can geoscience technicians migrate via the Green List?**
+A: Yes, this occupation is on the Green List Tier 2, and you can apply for residency after 2 years of work; also eligible through the Skilled Migrant Category (6-point system).
+
+**Q: What qualifications are needed to become a geoscience technician?**
+A: Usually requires a New Zealand Level 6 diploma or bachelor's degree (e.g., geology, earth sciences). Polytechnics and universities offer relevant programs.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Earth Science Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an Earth Science Technician in NZ?**
-答：According to Stats NZ, median annual salary is around NZD 65,000; entry-level NZD 50,000-65,000, senior up to NZD 85,000-110,000.
-
-**问：Can Earth Science Technicians apply for Green List residence?**
-答：Yes, the occupation is on Green List Tier 2, eligible after 2 years of work; also eligible for Skilled Migrant Category (6-point system).
-
-**问：What education is required to become an Earth Science Technician?**
-答：Typically a NZ Level 6 diploma or bachelor's degree in geology or earth science, available at polytechnics and universities.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

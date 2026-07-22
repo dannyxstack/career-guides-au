@@ -1,59 +1,94 @@
-# Instructors of persons with disabilities and other instructors（Instructors of persons with disabilities and other instructors）职业分析 · 加拿大
+# Instructors of persons with disabilities and other instructors — career analysis · Canada
 
-**职业代码：54100 – Instructors of persons with disabilities and other instructors。**
+**Occupation code: 54100 (NOC)**
 
-Teaches ballet, modern, Latin, hip-hop, etc. in dance studios or private institutions, paid per lesson or self-employed. This occupation can immigrate through provincial nominee or employer sponsorship in Canada, requiring relevant teaching experience and language ability.
+Teaches ballet, modern, Latin, hip-hop, etc. at dance studios or private institutions for children and adults, usually paid per lesson or self-operated. This occupation can lead to immigration via PNP or employer sponsorship in Canada, but requires relevant teaching experience and language ability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 舞蹈培训证书/文凭 | 1-2年 | $10,000~$30,000（私立舞蹈学院或社区学院课程） |
-| 大学舞蹈本科学位 | 4年 | $40,000~$80,000（大学学位可增强竞争力，但非必需） |
+| Dance training certificate/diploma | 1-2 years | $10,000~$30,000 (Private dance school or community college programs) |
+| University dance bachelor's degree | 4 years | $40,000~$80,000 (A university degree can enhance competitiveness but is not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 海外学历需认证用于移民 |
-| 语言考试（IELTS/TEF） | IELTS/CEF | 必备 | 移民需CLB 7以上 |
-| 舞蹈教师资格证 | 加拿大舞蹈教师协会等 | 可选 | 非强制，但有助于就业 |
+| ECA (Educational Credential Assessment). | WES/ICES etc. | Required | Overseas credentials need assessment for immigration |
+| Language test (IELTS/TEF) | IELTS/CEF | Required | Immigration requires CLB 7+ |
+| Dance teacher certification | Canadian Dance Teachers Association, etc. | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,000。加拿大舞蹈教练需求稳定，主要集中在城市地区，受文化娱乐活动影响。预计未来十年就业增长平缓，竞争适中，自雇人士需良好口碑。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,000. Demand for dance instructors in Canada is steady, concentrated in urban areas, influenced by cultural and entertainment activities. Employment growth is expected to be flat over the next decade, competition moderate, and self-employed individuals need a good reputation.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 多为兼职或按课时 |
-| 中级（3-6年） | $35,000~$50,000 | 全职或工作室固定职位 |
-| 高级（6年以上） | $50,000~$70,000 | 知名教练或自营工作室收入更高 |
+| Median salary | $39,520 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$35,000 | Mostly part-time or per class |
+| Mid-level (3–6 years) | $35,000~$50,000 | Full-time or studio permanent position |
+| Senior (6+ years) | $50,000~$70,000 | Well-known coaches or self-employed studios earn more |
+| average salary | $45,760 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级教练晋升为高级教练、舞蹈总监或自营工作室经营者，部分转向编舞或社区艺术管理。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+AI's impact on dance instructors is mixed: choreography and tutorial design can be assisted, but physical guidance, emotional motivation, and personalized corrections still require humans; entry-level roles face increased competition due to the proliferation of online resources.
+
+Progression from junior coach to senior coach, dance director, or self-employed studio owner; some move into choreography or community arts management.
+
+**Tasks most exposed to AI:**
+
+- Basic dance step teaching video generation (AI-generated standardized tutorials)
+- Automatic analysis of music rhythm and arrangement suggestions
+- Student progress tracking and data report generation
+- Automated scheduling and appointment management
+
+**Where AI augments the role:**
+
+- AI-assisted choreography creative generation (generating motion sequences based on style and music)
+- Use AI motion capture to analyze student posture and provide real-time feedback
+- Personalized learning path recommendations (customizing courses based on learner level)
+- Marketing content generation (social media copy, automated video editing for course promotions)
+- Virtual classroom assistant (answering common questions, providing practice tips)
+
+**Human moat:**
+
+- Ability to demonstrate physical movements and provide real-time corrections during live instruction
+- Emotional motivation and artistic appeal (inspiring trainees)
+- Sharp observation and personalized guidance for individual differences
+- Creating unique choreography styles and teaching experiences
+- Handling classroom emergencies (e.g., injuries, emotional issues)
+
+**Skills to build:**
+
+- Use of AI choreography tools (e.g., ChoreoAI)
+- Motion capture and data analysis software (e.g., Kinetic)
+- Video editing and online course production (Premiere/Final Cut)
+- Social media marketing and personal brand management
+- Dance anatomy and exercise science fundamentals
+- Psychology of teaching adolescents and children
+
+**Key growth areas:**
 
 - Provincial Nominee
 - Self-employed
@@ -62,68 +97,67 @@ Teaches ballet, modern, Latin, hip-hop, etc. in dance studios or private institu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省、BC省）有文化类职业提名，要求雇主offer或自雇经验。 |
-| Subclass EE（Express Entry） | 若作为其他职业（如NOC 0AB类）符合资格，但舞蹈教练通常不在EE主要列表中，需结合PNP。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，需在指定省份找到舞蹈教练职位。 |
+| Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have cultural occupation streams, requiring a job offer or self-employment experience. |
+| Subclass EE (Express Entry) | If eligible under another occupation (e.g., NOC 0AB), but dance instructors are typically not in the main EE list; need to combine with PNP. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program requires finding a dance instructor job in a designated province. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Instructors of persons with disabilities and other instructors？**
-- 热爱舞蹈教学，有良好沟通能力
-- 愿意自雇或接受兼职工作
-- 有多年舞蹈经验及基础教学能力
-
-**谁不适合学Instructors of persons with disabilities and other instructors？**
-- 追求高薪稳定全职工作
-- 缺乏舞蹈专业技能或语言能力
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about dance teaching, with good communication skills
+- Willing to be self-employed or accept part-time work
+- Years of dance experience and basic teaching ability
+
+**Who is not suited**
+- Seeking high salary, stable full-time work
+- Lack of dance skills or language ability
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical annual salary for a dance instructor in Canada?**
+A: Entry-level: approx. 25,000-35,000 CAD; mid-level: 35,000-50,000; senior: up to 50,000-70,000 CAD; self-employed studios may have higher but unstable income.
+
+**Q: Can a dance instructor immigrate to Canada?**
+A: Yes, mainly through Provincial Nominee Program (PNP) or employer sponsorship. Some provinces like BC and Ontario have cultural occupation streams. Requires ECA, language scores, and employer offer.
+
+**Q: What certificates are needed to become a dance instructor in Canada?**
+A: National certification is not necessarily required, but having certification such as from the Canadian Dance Teachers Association (CDTA) can improve job prospects. Immigration requires credential assessment and language test scores.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Instructors of persons with disabilities and other instructors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a dance teacher in Canada?**
-答：Entry-level CAD 25,000-35,000, mid-level CAD 35,000-50,000, senior CAD 50,000-70,000; self-employed may earn more but unstable.
-
-**问：Can a dance teacher immigrate to Canada?**
-答：Yes, via PNP or employer sponsorship; provinces like BC and Ontario have streams for cultural occupations. Requires ECA, language test, and job offer.
-
-**问：What certification is required to be a dance teacher in Canada?**
-答：No national certificate required, but certifications like CDTA improve job prospects. Immigration needs ECA and language scores.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,63 +1,99 @@
-# Real Estate Agent（Real Estate Agent）职业分析 · FR
+# Real Estate Agent — career analysis · France
 
-**职业代码：C1504 – Real Estate Agent。**
+**Occupation code: C1504 (ROME)**
 
-Real estate agents assist clients in buying, selling, and renting properties, conducting market analysis, property showings, negotiations, and transaction coordination. They must understand local regulations and market trends.
+Real estate agents assist clients in buying and selling and leasing properties, conducting market analysis, property displays, negotiations, and transaction coordination. It is necessary to stay informed about local regulations and market trends.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中或BTS | 2年（BTS） | —（公立学校学费低，学徒制可免学费并获薪资） |
-| Licence专业 | 3年（Licence） | —（公立大学学费约170欧元/年，私立商校较高） |
-| 专业硕士 | 2年（Master） | $3,000~$15,000（部分商学院提供房地产专业硕士） |
+| Vocational high school or BTS | 2 Years (BTS) | $0~$5,000 (Public schools have low tuition fees, and apprenticeships can be exempted and receive salaries) |
+| Licence Professional | 3 years (Licence) | $0~$10,000 (Public university tuition is about 170 euros per year, while private business schools are higher) |
+| Professional Master's degree | 2 years (Master) | $3,000~$15,000 (Some business schools offer master's programs in real estate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Carte professionnelle (专业卡) | CCI (工商会) | 必备 | 从事房地产交易必须持有，需完成培训或具备相关文凭 |
-| BTS Professions immobilières (房地产职业高级技术员证书) | 教育部 | 可选 | 最相关的文凭，涵盖法律、营销、管理等 |
-| Licence pro mention métiers de l'immobilier (房地产职业学士) | 大学 | 可选 | 替代BTS的更高级文凭，可满足专业卡要求 |
-| Reconnaissance des qualifications (资质认证) | 法国政府 | 必备 | 欧盟外专业人士需通过学历认证与经验评估 |
+| Carte professionnelle (Professional Card) | CCI (Chamber of Commerce) | Required | Anyone engaged in real estate transactions must hold a certificate, complete training, or possess a relevant diploma |
+| Reconnaissance des qualifications (Qualification Certification) | The French government | Required | Professionals outside the EU must pass academic credentials and experience assessments |
+| BTS Professions Immobilières (Certificate of Advanced Real Estate Technician) | Ministry of Education | Optional | The most relevant diplomas cover law, marketing, management, and more |
+| License to mention métiers de l'immobilier (Bachelor of Real Estate Vocational Studies) | University | Optional | A more advanced diploma to replace BTS and meets the requirements for professional cards |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。法国房地产交易市场受经济周期影响，但大城市及热门区域需求稳定。数字化转型提升效率，竞争仍激烈。预计未来5年就业增长约5%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. The French real estate market is influenced by economic cycles, but demand remains stable in major cities and popular areas. Digital transformation improves efficiency, but competition remains fierce. Employment is expected to grow by about 5% over the next five years.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 底薪加佣金，税前年薪 |
-| 中级（4-7年） | $35,000~$55,000 | 底薪加佣金，业绩影响大 |
-| 高级（8年以上） | $55,000~$90,000 | 含佣金，资深顾问或管理岗位 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Base salary plus commission, pre-tax annual salary |
+| Mid-level (4-7 years) | $35,000~$55,000 | Base salary plus commission has a big impact on performance |
+| Senior (8+ years) | $55,000~$90,000 | Including commissions, senior consultant or management positions |
+| average salary | $54,432 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：房地产顾问 → 资深经纪人 → 团队经理/店铺经理 → 独立开设房地产代理公司。也可向商业地产、房产评估或资产管理方向发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+Career path: Real estate consultant → Senior broker → Team manager/store manager → Independently established a real estate agency company. You can also develop into commercial real estate, property appraisal, or asset management.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - digital transformation
 - urbanization
@@ -66,66 +102,65 @@ Real estate agents assist clients in buying, selling, and renting properties, co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主担保，获得工作合同及法国劳动局批准，适合受雇于房地产公司 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若拥有硕士以上学历或高薪职位（年薪≥56,700欧元），可申请 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后12个月求职签证，适合在法完成房地产相关学业者 |
+| Subclass Salarié (Salarié (Employee)) | Requires employer sponsorship, a work contract, and approval from the French Labour Directorate, suitable for employment with a real estate company. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with a master's degree or above or a high-paying position (annual salary ≥ 56,700 euros) may apply |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | A 12-month job-seeking visa after graduation is suitable for those who have completed real estate-related studies in France |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Real Estate Agent？**
-- 善于沟通、谈判和销售的人士
-- 对房地产市场有热情，能应对压力
-- 具备自主性和创业精神
-
-**谁不适合学Real Estate Agent？**
-- 不喜欢业绩压力和不稳定收入
-- 缺乏灵活性，无法适应周末或加班
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in communication, negotiation, and sales
+- Passionate about the real estate market and able to handle pressure
+- Possess independence and entrepreneurial spirit
+
+**Who is not suited**
+- Dislikes performance pressure and unstable income
+- Lack of flexibility, unable to adapt to weekends or overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for real estate agents?**
+A: Typically base salary plus commission. Junior base approx. €25k, commission varies by company. Top performers can earn over €80k.
+
+**Q: How can non-EU individuals immigrate to France through a real estate agent position?**
+A: You must obtain a work contract with a French company and apply for the Salarié visa. If salary meets the requirements, you can apply for Passeport Talent. It is recommended to first obtain a French-recognized diploma and study French.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Real Estate Agent为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for real estate agents?**
-答：Typically a base salary plus commission. Entry-level base salary is around €25,000, with commission varying by company. Top performers can earn over €80,000.
-
-**问：How can non-EU nationals immigrate to France as a real estate agent?**
-答：Obtain a work contract from a French company and apply for a Salarié visa. If salary meets thresholds (€56,700+), apply for Passeport Talent. It's advisable to obtain a French-recognized diploma and learn French.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

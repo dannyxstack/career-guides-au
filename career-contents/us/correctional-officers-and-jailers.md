@@ -1,62 +1,98 @@
-# Correctional Officers and Jailers（Correctional Officers and Jailers）职业分析 · 美国
+# Correctional Officers and Jailers — career analysis · United States
 
-**职业代码：33-3012 – Correctional Officers and Jailers。**
+**Occupation code: 33-3012 (SOC)**
 
-Guard inmates in penal or rehabilitative institutions following regulations and procedures; may guard prisoners in transit between jail, courtroom, prison, or other points. Includes deputy sheriffs and police primarily guarding prisoners in correctional institutions.
+Guard prisoners in prisons or correctional institutions according to regulations, ensure safety, and may escort prisoners to courts, prisons, or other locations. Includes deputy sheriffs and police officers who spend most of their time guarding inmates in correctional facilities.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（通常最低要求，公立学校免费） |
-| 副学士学位（可选） | 2年 | $5,000~$20,000（犯罪学或相关领域，社区学院费用） |
-| 培训学院（强制） | 0.3年 | —（多数机构提供带薪培训，可能需自付部分教材费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Usually minimum requirement, free at public schools) |
+| Associate degree (optional) | 2 years | $5,000~$20,000 (Criminology or related field, community college cost) |
+| Training institute (mandatory) | 0.3 years | $0~$5,000 (Most employers provide paid training; some may require self-payment for textbooks) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 矫正官州级认证/执照 | 州矫正部门 | 必备 | 需通过背景调查、心理评估及体能测试 |
-| 副学士学位（犯罪学） | 社区学院或大学 | 可选 | 提升晋升机会，非强制 |
-| 急救/CPR证书 | 美国红十字会等 | 必备 | 部分州要求入职前获得 |
+| Correctional officer state certification/license | Department of Corrections (State) | Required | Must pass background check, psychological evaluation, and physical fitness test |
+| First aid/CPR certificate | American Red Cross, etc. | Required | Some states require obtaining before employment |
+| Associate degree (Criminology) | Community college or university | Optional | Promotion opportunities enhanced, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 350,000。美国劳工统计局预测2023-2033年就业增长率约为-7%，因预算限制和替代监管技术导致需求下降；但离职替换仍提供岗位，竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 350,000. The US Bureau of Labor Statistics projects employment growth of about -7% from 2023-2033 due to budget constraints and alternative regulatory technologies reducing demand; however, replacement openings still exist, with strong competition.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 联邦或州立机构起薪 |
-| 中级（3-10年） | $45,000~$60,000 | 包含年资加薪及轮班补贴 |
-| 高级（10年以上） | $60,000~$80,000 | 主管或特殊单位（如战术队） |
+| Median salary | $58,940 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Starting salary at federal or state agencies |
+| Intermediate (3-10 years) | $45,000~$60,000 | Includes annual salary increments and shift allowances |
+| Senior (10+ years) | $60,000~$80,000 | Supervisor or special units (e.g., tactical team) |
+| average salary | $63,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 职业路径通常从入门级狱警开始，积累经验后可晋升为中士、副队长或巡逻主管；部分人转入联邦系统或成为调查员、缓刑官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of correctional officers and prison guards is primarily physical supervision and security monitoring. While AI and automation can take over some monitoring and paperwork, core human interaction and crisis management are hard to replace—a mixed outlook.
+
+the career path typically starts from entry-level correctional officer, gaining experience to advance to sergeant, deputy captain, or patrol supervisor; some transition to federal systems or become investigators or probation officers.
+
+**Tasks most exposed to AI:**
+
+- Timed patrol route monitoring and anomaly alerting (replaced by AI video analysis systems)
+- Recording prisoner daily behavior and generating reports (automated logging system)
+- Basic access control and personnel identity verification (fingerprint/facial recognition systems)
+- Standard programmed escort route planning (AI path optimization)
+- Routine environmental safety inspections in prisons (sensor and robot patrols)
+
+**Where AI augments the role:**
+
+- Using AI early warning systems to identify inmate violence tendencies, assisting in developing control strategies
+- Using smart wearable devices to monitor prisoners' physiological and emotional states in real time, optimizing intervention timing
+- Use virtual reality to simulate high-risk scenarios for practical training, improving emergency response capabilities
+- AI analyzes historical conflict data to provide personalized prisoner management recommendations.
+- Optimise shift scheduling and emergency response resource allocation through intelligent dispatch systems
+
+**Human moat:**
+
+- On-site judgment and use of force in crisis situations like sudden escapes or personnel conflicts
+- Psychological counseling and behavioral correction for prisoners based on interpersonal insights
+- Responsibility for performing physical operations on prisoners such as searches and restraints within legal procedures.
+- Irreplaceability of team collaboration and commander on-site decision-making in chaotic environments
+- Reasonable interpretation and enforcement of laws, regulations, and human rights boundaries
+
+**Skills to build:**
+
+- AI-driven surveillance system operation and abnormal event analysis
+- Behavioral science fundamentals and mental health crisis intervention skills
+- Use of data-driven prisoner risk assessment tools.
+- Advanced training in non-lethal force and control techniques
+- Body-worn cameras and digital evidence management
+- Application of AI-assisted communication platforms in cross-departmental collaboration
+
+**Key growth areas:**
 
 - Declining
 - Budget Constraints
@@ -65,66 +101,68 @@ Guard inmates in penal or rehabilitative institutions following regulations and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少适用，因通常仅需高中学历，不满足专业职业要求 |
-| Subclass EB-3（Employment-Based Immigration: Skilled Workers） | 极少数情况，需证明该职位要求本科以上且无法找到美国工人 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无合格美国工人，但政府机构极少为狱警申请 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable, as only a high school diploma is typically required, not meeting professional occupation requirements |
+| Subclass EB-3 (Employment-Based Immigration: Skilled Workers) | Rare cases, need to prove the job requires a bachelor's degree or higher and that no US workers are available |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove no qualified US workers; however, government agencies rarely apply for prison guards. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Correctional Officers and Jailers？**
-- 纪律性强、冷静应对压力的人
-- 喜欢稳定工作而非高收入者
-- 有良好体能和心理承受力者
+**Who is suited**
+- People with strong discipline and calm response to pressure
+- Those who prefer stable work over high income
+- Those with good physical fitness and mental resilience
 
-**谁不适合学Correctional Officers and Jailers？**
-- 厌恶冲突或高压环境的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- People who dislike conflict or high-pressure environments
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for prison guards?**
+A: According to BLS 2023 data, the average annual salary is about $48,000, but varies greatly by state; federal system starting salaries are higher, some reaching over $60,000.
+
+**Q: Are there pathways for foreigners to immigrate and become US prison guards?**
+A: Almost no feasible path. Typically requires US citizenship or permanent residency, and employers are unwilling to sponsor work visas. Even with a green card, PERM is difficult.
+
+**Q: What education is needed to become a prison guard?**
+A: Minimum requirement: high school diploma; some states require an associate degree or equivalent; completion of institutional training academy courses required after employment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Correctional Officers and Jailers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for correctional officers?**
-答：According to BLS 2023 data, the average annual salary is about $48,000, but varies by state; federal system starting pay can exceed $60,000.
-
-**问：Is there a migration path for foreigners to become US correctional officers?**
-答：Almost none. Typically requires US citizenship or permanent residency, and employers rarely sponsor visas. Even with a green card, PERM is difficult.
-
-**问：What education is needed to become a correctional officer?**
-答：Minimum high school diploma; some states require an associate degree; must complete agency training academy after hiring.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Plumber (without Specialization)（Plumber (without Specialization)）职业分析 · DE
+# Plumber (without Specialization) — career analysis · Germany
 
-**职业代码：3420 – Plumber (without Specialization)。**
+**Occupation code: 3420 (KldB)**
 
-Plumbers install, maintain, and repair piping systems for water, drainage, and heating in buildings and industrial settings. It is a dual training occupation in Germany with stable demand, especially in renovation and new construction projects.
+Plumbers install, maintain, and repair building and industrial pipeline systems, including water supply, drainage, and heating pipes. This occupation is a dual vocational training profession in Germany with stable employment demand, especially in building renovation and new construction projects.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训 | 3.5年 | —（带薪培训，无学费，每月补贴约800-1200欧元） |
-| 进修大师（Meister） | 1-2年（可兼职） | $5,000~$15,000（课程费用，部分可申请政府补助） |
+| Dual system training | 3.5 years | $0~$0 (Paid training, no tuition fees, monthly stipend of approximately 800-1200 euros) |
+| Master craftsman (Meister) | 1-2 years (can be part-time) | $5,000~$15,000 (Course fees, some eligible for government subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制培训毕业证书 | 德国工商业行会（IHK） | 必备 | 完成3.5年双元制培训后获得，是从事该职业的基本资质 |
-| 大师证书（Meister） | 德国工商业行会（IHK） | 可选 | 允许独立经营和培训学徒，可提升薪资 |
-| 境外资质认证 | 德国认证机构（如IHK FOSA） | 必备 | 海外学历需通过资质认证程序，可能需补修部分课程 |
+| Dual system training certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing 3.5 years of dual system training; it is the basic qualification for the occupation. |
+| Overseas qualification recognition | German accreditation bodies (e.g., IHK FOSA) | Required | Overseas qualifications must undergo a skills assessment process and may require additional study |
+| Master certificate (Meister) | German Chamber of Commerce and Industry (IHK) | Optional | Allows independent operation and training of apprentices, with potential for higher pay |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 125,000。德国建筑行业持续繁荣，老旧建筑翻新需求旺盛，加上可再生能源（如太阳能热利用）的推广，水管工就业前景良好。联邦劳工局预测未来十年该领域从业人员需求增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 125,000. Germany's construction industry continues to thrive, with strong demand for renovation of old buildings, plus the promotion of renewable energy (such as solar thermal), ensuring good employment prospects for plumbers. The Federal Labour Agency predicts about 5% growth in demand for workers in this field over the next ten years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于地区和公司 |
-| 中级（4-7年） | $35,000~$45,000 | 税前年薪，包括熟练工和部分工头 |
-| 高级（8年以上或大师） | $45,000~$60,000 | 税前年薪，包括大师或项目经理 |
+| Median salary | $46,332 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (4-7 years) | $35,000~$45,000 | Annual pre-tax salary, including skilled workers and some supervisors |
+| Senior (8+ years or master) | $45,000~$60,000 | Annual salary before tax, including master or project manager |
+| average salary | $49,272 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 水管工可从熟练工晋升为工头或项目经理，也可通过继续教育成为供暖、空调或太阳能技术专家。部分人选择自主创业，开办管道安装公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will not replace plumbers' core practical skills, but will significantly boost efficiency through smart diagnostics, AR assistance, and scheduling optimization; it is a skill-enhancing occupation with stable employment prospects.
+
+Plumbers can progress from skilled workers to foremen or project managers, or become specialists in heating, air conditioning, or solar technology through further education. Some choose to start their own plumbing installation companies.
+
+**Tasks most exposed to AI:**
+
+- Simple leak detection and pipe blockage diagnosis (replaced by AI with acoustic/thermal imaging sensors).
+- Inventory management and parts ordering (AI automatic replenishment system)
+- Routine water system maintenance reminders (AI predictive maintenance).
+- Partial client communication and quoting (AI chatbots handle initial inquiries).
+
+**Where AI augments the role:**
+
+- AI-assisted fault diagnosis: quickly locate complex pipeline issues via sensor data and historical cases.
+- AR helmet overlays building structural drawings to precisely locate buried pipes.
+- Smart scheduling systems automatically plan optimal routes, reducing commute time.
+- AI training simulator: practice high-risk operations (e.g., gas pipeline repair) in virtual scenarios.
+
+**Human moat:**
+
+- Physical handling feel and fine craftsmanship (e.g., copper pipe welding, threaded connections).
+- On-site safety risk assessment and emergency response (gas leaks, water pressure hazards).
+- Non-standard repair experience for unique piping systems in old buildings
+- Ability to build long-term trust and communicate on-site with clients.
+
+**Skills to build:**
+
+- Use of AI-assisted diagnostic tools (e.g., smart detection cameras, data analysis platforms).
+- AR augmented reality installation and maintenance guidance software operation.
+- Basic data analysis ability: understanding predictive maintenance reports.
+- Digital workflow management (e.g., mobile job dispatch and acceptance systems).
+- Continuously learn new eco-friendly plumbing technologies (heat pumps, solar hot water systems).
+- Advanced communication and project management skills (for complex renovation projects).
+
+**Key growth areas:**
 
 - Energy-efficient plumbing
 - Smart home systems
@@ -64,69 +97,68 @@ Plumbers install, maintain, and repair piping systems for water, drainage, and h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于拥有德国认可的职业资质（双元制培训或通过认证）的技术工人，由雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许来德寻找工作，但需证明语言能力和资质。 |
-| Subclass EU Blue Card（EU Blue Card） | 对于水管工通常不适用，因薪资门槛较高。如担任项目经理或自雇者可能符合条件。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Suitable for skilled workers with recognized German vocational qualifications (dual training or certification) sponsored by employers. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing entry to Germany to look for work, but requires proof of language skills and qualifications. |
+| Subclass EU Blue Card (EU Blue Card) | Usually not applicable for plumbers due to high salary thresholds. May qualify if working as a project manager or self-employed. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plumber (without Specialization)？**
-- 动手能力强，喜欢实际工作的人
-- 愿意接受双元制培训（理论学习+实践）
-- 对建筑和可再生能源技术有兴趣
-
-**谁不适合学Plumber (without Specialization)？**
-- 对体力劳动或脏活有抵触的人
-- 偏好完全在办公室工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong practical skills who enjoy hands-on work
+- Willing to undertake dual system training (theoretical learning + practice)
+- Interested in construction and renewable energy technology
+
+**Who is not suited**
+- People averse to physical labour or dirty work
+- People who prefer working entirely in the office
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a plumber in Germany?**
+A: Entry-level plumber annual salary around €28,000-35,000, skilled worker €35,000-45,000, master level up to €60,000. Salary varies by region and company size.
+
+**Q: How can foreign plumbers immigrate to Germany?**
+A: Foreign plumbers must first undergo certification of their professional qualifications in Germany (Anerkennung) to prove their skills match German standards. They can then work in Germany via a skilled migration employer-sponsored visa or the Opportunity Card. German B1 level is a common requirement.
+
+**Q: What are the career advancement paths for plumbers?**
+A: Plumbers can obtain a Meister certificate to operate independently or become project managers. They can also specialize in heating, AC, or solar tech, or move into construction supervision or teaching.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Plumber (without Specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a plumber in Germany?**
-答：Entry-level plumbers earn around €28,000-35,000 annually, experienced plumbers €35,000-45,000, and master plumbers up to €60,000. Salaries vary by region and company size.
-
-**问：How can a foreign plumber immigrate to Germany?**
-答：Foreign plumbers must first have their qualifications recognized (Anerkennung) as equivalent to German standards. Then they can apply for a skilled worker visa with employer sponsorship or an Opportunity Card. German language B1 is usually required.
-
-**问：What are the career advancement paths for a plumber?**
-答：Plumbers can obtain a Master Craftsman (Meister) certificate to run their own business or become project managers. Further specializations in heating, air conditioning, or solar technology are possible. Some also move into construction supervision or teaching.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

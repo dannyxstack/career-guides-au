@@ -1,59 +1,95 @@
-# Set and Exhibit Designers（Set and Exhibit Designers）职业分析 · 美国
+# Set and Exhibit Designers — career analysis · United States
 
-**职业代码：27-1027 – Set and Exhibit Designers。**
+**Occupation code: 27-1027 (SOC)**
 
-Design special exhibits and sets for film, video, television, and theater productions, studying scripts, conferring with directors, and conducting research to determine architectural styles.
+Design special exhibits and sets for film, video, television, and theater productions; study scripts, communicate with directors, and conduct research to determine architectural style.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $60,000~$120,000（公立与私立大学学费差异大） |
-| 副学士或证书 | 2年 | $20,000~$50,000（社区学院或技术学校） |
+| Bachelor's degree | 4 years | $60,000~$120,000 (Public and private university tuition fees vary significantly) |
+| Associate degree or certificate | 2 years | $20,000~$50,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位（戏剧/电影设计） | 大学 | 可选 | 通常需相关领域学位 |
-| 数字设计软件认证 | Autodesk等 | 可选 | 如AutoCAD, SketchUp, 3ds Max |
-| 行业经验与作品集 | 雇主 | 必备 | 通常要求3-5年参与制作 |
+| Industry experience and portfolio | Employer | Required | Typically requires 3-5 years of production involvement |
+| Bachelor's degree (Theatre/Film Design) | University | Optional | Usually requires a degree in a related field |
+| Digital design software certification. | Autodesk etc. | Optional | Such as AutoCAD, SketchUp, 3ds Max |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 11,300。预计2022-2032年就业增长约6%，与平均水平相当。流媒体内容需求和主题娱乐项目推动招聘，但竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 11,300. Projected employment growth of about 6% from 2022 to 2032, about as fast as average. Streaming content demand and theme entertainment projects drive hiring, but competition is strong.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理设计师或绘图员 |
-| 中级（3-7年） | $50,000~$75,000 | 独立设计师 |
-| 高级（7年以上） | $75,000~$100,000 | 首席设计师或艺术总监 |
+| Median salary | $75,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$50,000 | Assistant designer or drafter |
+| Mid-level (3–7 years) | $50,000~$75,000 | Independent designer |
+| Senior (7+ years) | $75,000~$100,000 | Lead designer or art director |
+| average salary | $83,160 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从设计师助理或场景绘图员起步，逐步晋升为首席布景设计师或艺术总监，也可转向展览设计或室内设计领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will automate some research and drawing tasks in set and exhibition design, but core abilities like creative ideation, spatial narrative, and on-site coordination still rely on humans. Designers need to leverage AI tools to improve efficiency and focus on high-value aspects.
+
+Start as a designer assistant or scene draftsman, then gradually advance to lead set designer or art director, or transition into exhibition design or interior design.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate preliminary set/exhibition concept sketches and 3D models
+- Automatically match historical building style assets based on script or exhibition theme
+- Automated optimization of exhibition visitor flow paths and exhibit spacing planning.
+- Automatically generate construction drawings and material lists
+- Rapidly iterating design solutions based on director/client feedback
+
+**Where AI augments the role:**
+
+- Immersive scene preview and virtual reality display using AI to enhance client communication efficiency
+- Explore multiple style variations using generative AI to spark creative inspiration
+- Using AI to analyze audience behavior data, optimize exhibition interaction and visual focus
+- Automatically generate plan comparisons under different cost budgets to aid decision-making
+- Quickly integrate AI-generated elements into design software to accelerate production workflows
+
+**Human moat:**
+
+- Understanding the cultural connotations and emotional narratives behind scripts/exhibition themes
+- Face-to-face communication and coordination with directors, exhibition organisers, and construction teams
+- On-site creative decision-making and improvisation (e.g., stage management)
+- Physical perception and artistic intuition for materials, lighting, and space
+- Personal style and brand-building ability
+
+**Skills to build:**
+
+- Master AI-assisted design tools (e.g., Midjourney, DALL·E, Autodesk Forma)
+- Learn basic programming or scripting languages (e.g., Python for Grasshopper)
+- Proficient in VR/AR design and presentation tools (e.g., Unreal Engine, Twinmotion)
+- Data literacy: analyzing visitor behavior, exhibition traffic, etc.
+- Creative project management and collaboration platforms (e.g., Notion, Miro).
+- Cross-media narrative and experience design skills
+
+**Key growth areas:**
 
 - Streaming content demand
 - Theme park expansion
@@ -62,69 +98,68 @@ Design special exhibits and sets for film, video, television, and theater produc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（Specialty Occupation） | 适用于持有学士学位及以上，受雇于支持布景设计的公司。 |
-| Subclass EB-2（Advanced Degree or Exceptional Ability） | 需硕士学位或特殊才能，通过PERM劳工证申请绿卡。 |
-| Subclass O-1（Extraordinary Ability） | 适用于在领域内有显著成就的设计师，如获奖经历。 |
-| Subclass Green Card (PERM)（Employment-Based） | 通过雇主赞助的EB-2/EB-3绿卡路径，需证明劳工短缺。 |
+| Subclass H-1B (Specialty Occupation) | Applicable to those with bachelor's degree or higher employed by a company supporting set design. |
+| Subclass EB-2 (Advanced Degree or Exceptional Ability) | Requires a master's degree or exceptional talent, and green card application through PERM labor certification. |
+| Subclass O-1 (Extraordinary Ability) | Applicable to designers with significant achievements in their field, such as award-winning experience. |
+| Subclass Green Card (PERM) (Employment-Based) | Through employer-sponsored EB-2/EB-3 green card pathway, must demonstrate labor shortage. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Set and Exhibit Designers？**
-- 有创意和视觉艺术天赋的人
-- 能适应紧张制作日程和团队合作的人
-- 对戏剧、电影或展览有浓厚兴趣的人
-
-**谁不适合学Set and Exhibit Designers？**
-- 偏好稳定、规律工作时间的人
-- 不喜欢频繁修改设计和高压环境的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and visually artistic individuals
+- Able to adapt to tight production schedules and teamwork
+- People with strong interest in theater, film, or exhibitions.
+
+**Who is not suited**
+- People who prefer stable, regular working hours
+- People who dislike frequent design changes and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for set and exhibition designers?**
+A: Entry-level approx. 35,000-50,000 USD, mid-level 50,000-75,000, senior 75,000-100,000. Higher in LA and NY, but more competitive.
+
+**Q: What are the visa pathways for immigrating to the US for this occupation?**
+A: Common H-1B work visa requires a bachelor's degree; outstanding individuals can apply for O-1; green card requires employer-sponsored EB-2/EB-3 via PERM labor certification.
+
+**Q: How to move from assistant to lead designer?**
+A: Accumulate industry experience, build a strong portfolio, and gradually take on larger projects. Typically takes 5-10 years to advance to lead or art director.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Set and Exhibit Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for set and exhibit designers?**
-答：Entry-level: $35,000-$50,000; Mid-level: $50,000-$75,000; Senior: $75,000-$100,000. Higher in LA and NYC but more competitive.
-
-**问：What visa options are available for set designers to work in the US?**
-答：H-1B for specialty occupation requiring bachelor's; O-1 for extraordinary ability; Green card via EB-2/EB-3 with PERM certification.
-
-**问：How to advance from assistant to lead designer?**
-答：Gain hands-on experience, build a strong portfolio, and take on larger projects. Typically 5-10 years to reach lead or art director.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

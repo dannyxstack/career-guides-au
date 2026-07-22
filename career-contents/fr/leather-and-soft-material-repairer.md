@@ -1,62 +1,95 @@
-# Leather and Soft Material Repairer（Leather and Soft Material Repairer）职业分析 · FR
+# Leather and Soft Material Repairer — career analysis · France
 
-**职业代码：D1206 – Leather and Soft Material Repairer。**
+**Occupation code: D1206 (ROME)**
 
-Repairs leather goods (bags, shoes, jackets) and soft materials (canvas, synthetic leather) through cleaning, dyeing, stitching, and hardware replacement. Works mainly in small workshops, retail stores, or as self-employed.
+Responsible for repairing leather products (such as bags, shoes, and clothing) and other soft materials (such as canvas, synthetic leather), including cleaning, dyeing, mending, and replacing accessories. Most jobs are in small workshops or retail stores, but self-employment is also possible.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP（职业能力证书） | 2年 | —（公立学校免费，私校约2000-5000欧元/年；可通过学徒制带薪学习） |
-| Bac pro（职业高中文凭） | 3年 | —（公立学校免费；同样可走学徒制） |
-| BTS（高级技师证书） | 2年 | —（少数学校开设相关专业；学费因校而异） |
+| CAP (Professional Competency Certificate) | 2 years | $0~$5,000 (Public schools are free, private schools around 2,000-5,000 euros/year; paid learning through apprenticeships is possible.) |
+| Bac Pro (Vocational High School Diploma) | 3 years | $0~$3,000 (Public schools are free; Apprenticeships are also available) |
+| BTS (Senior Technician Certificate) | 2 years | $0~$5,000 (A few schools offer related majors; Tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Maroquinerie（皮具制造CAP） | 法国教育部 | 可选 | 最直接的职业教育文凭，涵盖皮具维修基础 |
-| CQP（职业资格认证） | 法国皮具联合会 | 可选 | 在职人员可考，证明专项技能 |
-| 自动创业注册（auto-entrepreneur） | 法国政府 | 必备 | 自雇维修服务需注册，非严格资质但为合法前提 |
+| Auto-entrepreneur | The French government | Required | Self-employed repair services require registration; although not strictly qualified, it is a legal prerequisite |
+| CAP Maroquinerie (Leather Goods Manufacturing CAP) | French Ministry of Education | Optional | The most direct vocational education diploma covers the basics of leather goods repair |
+| CQP (Professional Qualification Certification) | French Leather Goods Federation | Optional | Employed personnel can take the exam to prove specialized skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 12,000。法国传统手工艺需求稳定，尤其在奢侈品维修领域。但受快时尚冲击，低端维修市场萎缩。未来5年就业机会平均，退休人员更替带来少量岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Traditional French handicrafts have stable demand, especially in the luxury goods repair sector. However, due to the impact of fast fashion, the low-end repair market has shrunk. Over the next five years, employment opportunities will be averaged, and retirees will replace with fewer positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 多为学徒或入门级职员，年薪税前 EUR |
-| 中级（3-8年） | $25,000~$32,000 | 经验丰富的工匠，在工坊或奢侈品售后工作 |
-| 高级（8年以上） | $32,000~$40,000 | 资深工匠或自雇老板，收入受客户量影响 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Most are apprentices or entry-level staff, with an annual salary of EUR before tax |
+| Mid-level (3–8 years) | $25,000~$32,000 | Experienced craftsmen working in workshops or after-sales for luxury goods |
+| Senior (8+ years) | $32,000~$40,000 | Experienced craftsmen or self-employed owners, with income affected by client numbers |
+| average salary | $26,988 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★☆☆☆）。** 可从学徒成长为熟练工匠，进而开设独立维修店或受雇于奢侈品售后部门。也可向定制皮具制作转型，但需额外培训。晋升空间有限，资深工匠薪资可提升约30%。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Leather and soft materials repair workers face mixed effects from AI and automation: tasks like AI-enhanced diagnostics and color matching, but physical skills and personalized services remain the core moat.
+
+You can grow from an apprentice to a skilled craftsman, then open an independent repair shop or work in the luxury after-sales department. You can also transition to custom leather goods production, but additional training is required. Promotion opportunities are limited, but senior craftsmen can earn about 30% salaries.
+
+**Tasks most exposed to AI:**
+
+- AI image recognition automatically detects leather flaws and wear levels
+- An AI-driven color matching system automatically matches dye formulas
+- Automated sewing machines take over standard stitching tasks
+- AI-generated repair plan recommendations (such as material selection for repairs)
+
+**Where AI augments the role:**
+
+- AI-assisted design software accelerates the design of customized repair solutions
+- AR tools overlay indications to improve the accuracy of complex repair operations
+- AI inventory management systems optimize parts ordering and cost accounting
+- Digital twins simulate the effects of different restoration methods
+
+**Human moat:**
+
+- Manual repair techniques for complex damage (such as texture reconstruction)
+- The ability to communicate with clients and understand personalized needs
+- Experience in identifying and handling rare leather and antique items
+- Exquisite hand-dyeing and distressing techniques
+
+**Skills to build:**
+
+- AI-assisted design software (such as Adobe Substance 3D)
+- Digital color management system
+- AR maintenance guides tool operation
+- Maintenance of small-scale automated sewing equipment
+- Customer experience management and personalized services
+- Knowledge of sustainable materials and eco-friendly processes.
+
+**Key growth areas:**
 
 - Manual craftsmanship
 - Luxury repair
@@ -65,66 +98,68 @@ Repairs leather goods (bags, shoes, jackets) and soft materials (canvas, synthet
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同及法国劳工局许可；因非短缺职业，获批较难。 |
-| Subclass Passeport Talent（Talent Passport） | 仅适用于高薪或特殊才能者，维修工通常不符合条件。 |
-| Subclass Recherche emploi（Job Search Visa） | 留学生毕业后可申请，但非短缺职业，找到匹配工作较困难。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship, employment contract, and French Labor Office permit required; Since it is not a shortage occupation, it is relatively difficult to obtain approval. |
+| Subclass Passeport Talent (Talent Passport) | Only those with high salaries or special talents are eligible; maintenance workers usually do not qualify. |
+| Subclass Recherche emploi (Job Search Visa) | International students can apply after graduation, but since it is not a shortage occupation, finding suitable jobs is more difficult. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Leather and Soft Material Repairer？**
-- 喜欢动手、注重细节、有耐心的人
-- 对手工艺和可持续时尚感兴趣的人
-- 愿意接受学徒制职业教育、不追求高薪的人
+**Who is suited**
+- People who enjoy hands-on work, pay attention to detail, and are patient
+- For those interested in craftsmanship and sustainable fashion
+- Those willing to accept apprenticeship vocational education and not pursue high salaries
 
-**谁不适合学Leather and Soft Material Repairer？**
-- 期望快速晋升或高收入的人
-- 对重复性手工工作缺乏耐心的人
+**Who is not suited**
+- People who expect rapid promotion or high income
+- Those impatient with repetitive manual work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for leather repairers in France?**
+A: Junior: approx. €20,000-€25,000/yr gross; Mid: €25,000-€32,000; Senior or self-employed: up to €40,000. Income depends on experience and client volume.
+
+**Q: Can Chinese repair workers immigrate to France to work in leather repair?**
+A: extremely difficult. This occupation is not in urgent demand in France; employers must prove they cannot recruit locally. Unless you possess outstanding skills or client resources, immigrating through a work visa is nearly impossible.
+
+**Q: What educational qualifications are required to become a leather repairman?**
+A: Usually, a CAP (2 years) or Bac Pro (3 years) related diploma is required. You can study for free or pay apprenticeships through public schools. The French accredited course is CAP Maroquinerie.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 中（★★☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★☆☆☆） |
-| 发展前景 | 中（★★☆☆☆） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Leather and Soft Material Repairer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a leather repairer in France?**
-答：Entry-level: €20,000-€25,000 gross/year; intermediate: €25,000-€32,000; senior/self-employed: up to €40,000. Income depends on experience and client base.
-
-**问：Can a Chinese repairer immigrate to France as a leather repairer?**
-答：Extremely difficult. The occupation is not in shortage; employers must prove no local candidate available. Unless exceptional skills or client base, work visa pathway is nearly impossible.
-
-**问：What education is needed to become a leather repairer?**
-答：Typically a CAP (2 years) or Bac pro (3 years) in leather crafts. Public schools are free; apprenticeship with pay possible. The recognized diploma is CAP Maroquinerie.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,94 @@
-# Horse Rider（Horse Rider）职业分析 · DE
+# Horse Rider — career analysis · Germany
 
-**职业代码：1132 – Horse Rider。**
+**Occupation code: 1132 (KldB)**
 
-Horse riders train, ride, and care for horses, participating in equestrian shows, competitions, or recreational riding, forming a core role in the equine industry.
+Equestrian riders train, ride, and care for horses, participating in equestrian shows, competitions, or leisure riding, and are core professionals in the horse industry economy.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴，通常无学费） |
-| 高级技工/师傅培训（Meister） | 1-2年（全日制） | $3,000~$10,000（培训费用因州而异，部分可获资助） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Stipend during training, usually no tuition fees) |
+| Advanced technician/master training (Meister) | 1-2 years (full-time) | $3,000~$10,000 (Training costs vary by state, some may be subsidized.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 马业经济职业培训证书 | 德国工商会（IHK） | 必备 | 完成3年双元制培训后获得 |
-| 马术教练资质（Pferdewirtschaftsmeister） | 德国农业行会（LWK） | 可选 | 高级资质，可自主经营或培训 |
-| 资质认证（Anerkennung） | 德国联邦农业与食品局（BLE） | 必备 | 外国学历需认证，过程约3-6个月 |
+| Vocational training certificate in the equine industry | German Chamber of Commerce and Industry (IHK) | Required | Awarded after completing a 3-year dual system training |
+| Qualification recognition (Anerkennung) | German Federal Office for Agriculture and Food (BLE) | Required | Foreign qualifications need certification, process takes about 3-6 months |
+| Equestrian coach qualification (Pferdewirtschaftsmeister) | German Agricultural Chamber (LWK) | Optional | Advanced qualification, can operate independently or train others |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。德国马业经济规模约达60-80亿欧元，马匹数量约80万匹。马术骑手需求稳定，尤其是在马术俱乐部、马场和竞技领域，但受经济波动影响，就业竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. German equine industry economy approx. €6-8 billion, horse population approx. 800,000. Demand for equestrian riders is stable, especially in riding clubs, studs and competitive fields, but affected by economic fluctuations, employment competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，培训后起薪较低 |
-| 中级（3-7年） | $26,000~$35,000 | 有经验骑手，含奖金 |
-| 高级（7年以上/教练） | $36,000~$50,000 | 教练或经理级别 |
+| Median salary | $28,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, lower starting pay after training |
+| Mid-level (3–7 years) | $26,000~$35,000 | Experienced riders, including bonus |
+| Advanced (7+ years/coach) | $36,000~$50,000 | Coach or manager level |
+| average salary | $33,240 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级骑手可通过积累经验晋升为高级骑手或教练，部分人深造获得“马术教练(Pferdewirtschaftsmeister)”资质，进而管理马场或培训团队。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Equestrian riders' tasks combine physical, emotional, and skill aspects; AI automation can handle data analysis, itinerary planning, and other logistical tasks, but core work like riding training and horse care still relies on humans. Job compression and expansion coexist.
+
+Junior riders can advance to senior riders or coaches through experience; some pursue further qualifications to become "equestrian master (Pferdewirtschaftsmeister)" and manage stables or training teams.
+
+**Tasks most exposed to AI:**
+
+- Equine health data analysis and report generation
+- Automatic scheduling of training schedules and competition itineraries
+- AI optimization suggestions for feed formulations
+- Customer communication and appointment management system
+
+**Where AI augments the role:**
+
+- Real-time monitoring of horse health indicators via smart sensors
+- Using video analysis to optimize riding technique
+- AI-assisted development of personalized training plans
+- Practice by simulating different track environments in virtual reality
+
+**Human moat:**
+
+- Building an emotional bond of trust and rapport with horses
+- Intuitive response to handle unexpected horse behavior
+- Ability to assess horse condition on site.
+- High-risk decision-making and ethical responsibility in events
+
+**Skills to build:**
+
+- Equine biomechanics and exercise science.
+- Data-driven training methods (e.g., AI tools)
+- Equine nutrition and feed formulation
+- Customer relationship management and digital marketing
+- High-definition video analysis software operation
+- Equine behavioral psychology
+
+**Key growth areas:**
 
 - Equestrian sports
 - Horse breeding
@@ -64,69 +97,68 @@ Horse riders train, ride, and care for horses, participating in equestrian shows
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act - Qualified Professionals） | 需持有德国认可的资质认证，可申请工作签证 |
-| Subclass Chancenkarte | 基于积分制的求职签证，允许找工作和短期试工 |
-| Subclass Job Seeker Visa | 6个月长期签证，用于在德国寻找工作 |
+| Subclass Skilled Worker (Skilled Immigration Act - Qualified Professionals) | Must hold German-recognized qualifications, eligible for work visa |
+| Subclass Chancenkarte | Job-seeking visa based on a points system, allowing job search and short-term trial work |
+| Subclass Job Seeker Visa | 6-month long-stay visa for job seeking in Germany |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Horse Rider？**
-- 热爱马匹和户外工作的人
-- 有耐心和责任感，能承受体力劳动
-- 愿意接受长期实践培训
-
-**谁不适合学Horse Rider？**
-- 对动物过敏或体力较弱者
-- 寻求高薪和快速晋升者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love horses and outdoor work
+- Have patience and a sense of responsibility, able to withstand physical labor
+- Willing to undergo long-term practical training
+
+**Who is not suited**
+- Those with animal allergies or lower physical strength
+- Those seeking high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for equestrian riders in Germany?**
+A: Junior rider pre-tax annual salary about €20,000-25,000, senior trainer can reach €50,000. Salary is significantly affected by stable size, region, and personal skills.
+
+**Q: How can foreigners become equestrian riders in Germany?**
+A: Must first obtain professional qualification recognition (Anerkennung) to match foreign qualifications with German standards. After completion, can apply for a Skilled Worker visa.
+
+**Q: Do equestrian riders need to complete dual vocational training?**
+A: Yes, becoming a full-fledged rider usually requires completing 3 years of dual training, otherwise only auxiliary work is possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Horse Rider为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for horse riders in Germany?**
-答：Entry-level riders earn around €20,000-€25,000 gross annually, while experienced instructors can reach up to €50,000. Salary varies by farm size, region, and individual skills.
-
-**问：How can a foreigner become a horse rider in Germany?**
-答：You must first undergo qualification recognition (Anerkennung) to align your foreign credentials with German standards. Afterwards, you can apply for a Skilled Worker visa.
-
-**问：Is dual vocational training mandatory for horse riders?**
-答：Yes, completing the 3-year dual training (Ausbildung) is typically required to work as a qualified rider, otherwise only assistant roles are possible.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

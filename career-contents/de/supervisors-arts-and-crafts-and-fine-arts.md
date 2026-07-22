@@ -1,61 +1,96 @@
-# Supervisors - Arts and Crafts and Fine Arts（Supervisors - Arts and Crafts and Fine Arts）职业分析 · DE
+# Supervisors - Arts and Crafts and Fine Arts — career analysis · Germany
 
-**职业代码：9339 – Supervisors - Arts and Crafts and Fine Arts。**
+**Occupation code: 9339 (KldB)**
 
-Supervise teams in arts and crafts and fine arts, overseeing creative projects, managing resources, and ensuring artistic quality. Requires extensive experience and a blend of artistic and managerial skills.
+Supervise creative teams, manage projects, and ensure artistic quality in crafts and visual arts. Usually have extensive experience and a mix of artistic and management skills.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（企业承担培训费用，学徒有津贴） |
-| 本科（艺术或设计专业） | 4年 | —（公立大学基本免学费，仅每学期注册费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Employers cover training costs, apprentices receive allowances) |
+| Bachelor's degree (Art or Design major) | 4 years | $0~$1,500 (Public universities are largely tuition-free, only a semester registration fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工匠证书（Gesellenbrief） | 手工业协会（HWK） | 必备 | 部分手工艺领域强制要求 |
-| 艺术或设计学位 | 大学/艺术学院 | 可选 | 有利于管理职位 |
-| 大师证书（Meisterprüfung） | 手工业协会（HWK） | 可选 | 可独立开业或担任主管 |
+| Craft certificate (Gesellenbrief) | Handwerkskammer (HWK, Craft Chamber) | Required | Mandatory in some handicraft fields |
+| Art or design degree | University/Art College | Optional | Beneficial for management positions |
+| Master Craftsman Certificate (Meisterprüfung) | Handwerkskammer (HWK, Craft Chamber) | Optional | Can independently open a practice or serve as a supervisor |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。德国工艺美术市场相对稳定，但数字化转型和在线销售需求增长。主管职位竞争适中，晋升需作品集和行业网络。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The German arts and crafts market is relatively stable, but demand for digital transformation and online sales is growing. Supervisor positions are moderately competitive; promotion requires a portfolio and industry network.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，视雇主和地区 |
-| 中级（3-7年） | $33,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，含大师证书 |
+| Median salary | $41,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$32,000 | Annual salary before tax, depending on employer and region |
+| Mid-level (3–7 years) | $33,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Pre-tax annual salary, including master certificate |
+| average salary | $43,200 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从工匠或艺术家起步，积累经验后晋升为主管，可进一步成为工作室负责人或自主创业。管理能力与艺术水准并重。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance management coordination and efficiency, but the core of creative decisions and artistic direction still relies on humans; entry-level roles are narrowing due to automation tools, but demand for cross-disciplinary skills increases.
+
+Start as a craftsman or artist, gain experience to become a supervisor, then further become a studio head or start your own business. Equal emphasis on management skills and artistic standards.
+
+**Tasks most exposed to AI:**
+
+- Project progress management and team coordination tasks (AI auto-scheduling and resource allocation)
+- Budgeting and cost accounting (AI financial analysis tools)
+- Routine document and report generation (AI writing and formatting tools)
+- Preliminary quality inspection of workpieces (computer vision automated quality control)
+
+**Where AI augments the role:**
+
+- Artistic direction and creative decision-making (AI provides style references and trend analysis).
+- Team creative brainstorming (AI generates a large number of visual options to inspire ideas)
+- Project management and cross-departmental communication (AI real-time translation and meeting summaries)
+- Personal skill enhancement (AI-assisted learning of new software and processes)
+- Client proposals and presentations (AI rapidly generates multiple versions of renderings)
+
+**Human moat:**
+
+- Aesthetic judgment and artistic taste
+- Team motivation and people-oriented management
+- Cross-sector resource integration and industry connections
+- Creativity leveraging cultural background and emotional resonance
+- Deep understanding and guidance on non-standard processes
+
+**Skills to build:**
+
+- AI project management tools (e.g., Monday.com integrated AI plug-ins)
+- Generative AI art tools (Midjourney, DALL-E)
+- Data analysis and visualization (Tableau, Python)
+- Cross-media digital design (AR/VR content creation)
+- Knowledge of sustainable processes and materials
+- Agile management and design thinking.
+
+**Key growth areas:**
 
 - Digitalization
 - Online sales
@@ -64,66 +99,68 @@ Supervise teams in arts and crafts and fine arts, overseeing creative projects, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历且年薪达标（2024年约43,800欧元，紧缺专业约40,000欧元），工艺美术主管通常不符合 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 需职业资格认证（Anerkennung）和德国雇主担保 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许6个月求职，需德语B1及学历/资格认证 |
+| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and annual salary meeting threshold (approx. €43,800 in 2024, approx. €40,000 for shortage occupations); arts and crafts supervisors usually do not qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualification certification (Anerkennung) and a German employer sponsor. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month job search; requires German B1 and qualification/certification recognition. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors - Arts and Crafts and Fine Arts？**
-- 具有艺术背景并希望转向管理的人
-- 有多年手工艺经验且善于沟通协调的人
-- 希望在小团队中发挥领导作用的人
-
-**谁不适合学Supervisors - Arts and Crafts and Fine Arts？**
-- 对行政管理工作不感兴趣的人
-- 不愿学习德语及德国认证体系的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with an art background who want to transition into management
+- People with many years of craft experience and good communication and coordination skills
+- Those who want to take a leadership role in a small team
+
+**Who is not suited**
+- People not interested in administrative work
+- Those unwilling to learn German and the German certification system
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a craft arts supervisor in Germany?**
+A: Pre-tax annual salary approximately EUR 30,000-50,000, entry-level about EUR 26,000-32,000, senior up to EUR 40,000-50,000.
+
+**Q: What visas can foreigners use to come to Germany to work as a master craftsperson in arts and crafts?**
+A: Generally requires skilled migration visa, German-recognized qualifications, and employer sponsorship. EU Blue Card requires meeting salary threshold and usually a university degree, may not apply.
+
+**Q: What certifications are required to work as a craft supervisor in Germany?**
+A: Some craft fields require a craftsman's certificate (Gesellenbrief); supervisor roles may need a master certificate (Meisterprüfung); foreign qualifications require recognition (Anerkennung).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisors - Arts and Crafts and Fine Arts为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a supervisor in arts and crafts in Germany?**
-答：The gross annual salary ranges from EUR 30,000 to EUR 50,000, with entry-level at EUR 26,000-32,000 and senior up to EUR 50,000.
-
-**问：Which visa options are available for foreigners to work as an arts and crafts supervisor in Germany?**
-答：Typically via the Skilled Worker Visa requiring recognized qualifications and a job offer. EU Blue Card may not apply due to salary threshold and degree requirements.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Adult Education Teacher（Adult Education Teacher）职业分析 · DE
+# Adult Education Teacher — career analysis · Germany
 
-**职业代码：8440 – Adult Education Teacher。**
+**Occupation code: 8440 (KldB)**
 
-Adult education teachers in Germany design and deliver courses for adults, including vocational training, language classes, and continuing education. They work in adult education centers, companies, or online platforms.
+Adult education teachers in Germany design and implement courses for adults, including vocational training, language courses, and continuing education. They typically work in adult education centers, companies, or online platforms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（教育/培训师方向） | 2-3年 | —（双元制通常免学费，部分州收取少量管理费。） |
-| 大学本科（教育/社会科学） | 3-4年 | —（德国公立大学本科基本免学费，仅需学期费。） |
-| 硕士（成人教育/教育管理） | 1-2年 | —（硕士学费因州而异，多数公立大学仍免学费。） |
+| Dual system training (education/trainer pathway) | 2-3 years | $0~$500 (Dual system is usually tuition-free, with some states charging a small administrative fee.) |
+| Bachelor's degree (Education/Social Sciences) | 3-4 years | $0~$1,500 (German public universities are mostly tuition-free, only a semester fee is required.) |
+| Master's (Adult Education/Educational Management) | 1-2 years | $0~$3,000 (Master's tuition fees vary by state; most public universities still have no tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 成人教育教师资质（AEVO证书） | 工商会（IHK） | 必备 | 德国法律要求职业培训教师具备此认证。 |
-| 大学学位（教育/社会科学） | 大学 | 可选 | 常见学历要求，但非强制。 |
-| 国外学历认证（Anerkennung） | 德国外国教育资格认证中心（ZAB） | 必备 | 对于非欧盟学历，需进行资质认证方可从事教学。 |
+| Adult education teacher qualification (AEVO certificate) | Chamber of Commerce and Industry (IHK) | Required | German law requires vocational training teachers to hold this certification. |
+| Foreign qualification recognition (Anerkennung) | Central Office for Foreign Education (ZAB) in Germany | Required | For non-EU qualifications, credential recognition is required to teach. |
+| University degree (Education/Social Sciences) | University | Optional | Common educational requirement, but not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 100,000。德国面临人口老龄化和技能短缺，成人教育需求持续增长，尤其是职业培训、数字化和语言课程领域。预计未来十年就业机会将稳步增加。
+**Job demand: high (★★★★☆).** National workforce approx. 100,000. Germany faces demographic aging and skills shortages, with growing demand for adult education, especially in vocational training, digitalization, and language courses. Employment opportunities are expected to steadily increase over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，根据机构类型和地区有所差异。 |
-| 中级（4-7年） | $40,000~$50,000 | 有经验的教师，常担任资深讲师或项目协调。 |
-| 高级（8年以上） | $50,000~$65,000 | 高级教师或管理层，如课程主管或教育部门经理。 |
+| Median salary | $51,780 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$40,000 | Pre-tax annual salary varies by institution type and region. |
+| Mid-level (4-7 years) | $40,000~$50,000 | Experienced teachers, often serving as senior lecturers or project coordinators. |
+| Senior (8+ years) | $50,000~$65,000 | Senior teacher or management level, such as curriculum director or education department manager. |
+| average salary | $57,192 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 成人教育教师可从普通讲师晋升为课程主任或教育项目经理。通过取得更高学历（如硕士）或获得培训师资格（AEVO），可担任管理或专业培训岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of adult education teachers will have mixed prospects: AI can automate curriculum material generation and basic Q&A, but personalized coaching, experience sharing, and emotional support for adult learners remain irreplaceable core values.
+
+Adult education teachers can progress from general lecturer to course director or education project manager. By obtaining higher qualifications (e.g. master's degree) or trainer certification (AEVO), they can take on management or specialist training roles.
+
+**Tasks most exposed to AI:**
+
+- Generate standardised course outlines and learning materials
+- Auto-grading multiple-choice questions and basic written assignments
+- Answer common course-related questions (chatbot)
+- Generates learning progress reports and statistics.
+
+**Where AI augments the role:**
+
+- Use AI to analyse learner data and provide personalised learning path recommendations
+- Use translation tools to assist multilingual teaching and expand audience
+- Quickly create cases and exercises using content generation tools
+- Role-playing and conversation practice through AI-simulated scenarios
+
+**Human moat:**
+
+- Deeply personalised tutoring and emotional support
+- Experience-based career development guidance and practical problem-solving
+- Building trust and community belonging
+- Flexibly adjusting teaching strategies to suit classroom dynamics
+
+**Skills to build:**
+
+- Use of AI teaching tools (e.g., adaptive learning platforms)
+- Educational data analysis and visualization
+- Online Instructional Design
+- Cross-cultural communication skills
+- Project management (course development)
+- Prompt engineering (for generating teaching materials)
+
+**Key growth areas:**
 
 - Digital Learning
 - Vocational Training
@@ -63,69 +96,68 @@ Adult education teachers in Germany design and deliver courses for adults, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合有大学学位且薪资达标者（2024年最低年薪约43,800欧元，紧缺职业可放宽）。 |
-| Subclass Skilled Worker（Skilled Immigration Act Work Permit） | 适用于非欧盟专业人员，需雇主担保，且资质通过认证。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职居留许可，可在德寻找工作，适合无雇主担保的申请人。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需证明语言能力及经济来源。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for those with a university degree and meeting salary requirements (minimum annual salary around €43,800 in 2024, relaxed for shortage occupations). |
+| Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to non-EU professionals, requiring employer sponsorship and credential certification. |
+| Subclass Chancenkarte (Opportunity Card) | Job-seeker residence permit based on points system, allowing job search in Germany, suitable for applicants without employer sponsorship. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; requires proof of language skills and financial means. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Adult Education Teacher？**
-- 热爱教学与沟通，乐于与成人学员互动
-- 具备跨文化能力，适应多元背景的学生
-- 希望从事稳定且有社会价值的工作
-
-**谁不适合学Adult Education Teacher？**
-- 不善于公众演讲和课堂管理
-- 缺乏耐心或不愿持续学习新技能
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about teaching and communication, enjoy interacting with adult learners.
+- Possess cross-cultural skills, adaptable to students from diverse backgrounds.
+- Looking for a stable job with social value
+
+**Who is not suited**
+- Not good at public speaking and classroom management
+- Lack of patience or unwillingness to continuously learn new skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for adult education teachers?**
+A: Annual salary for junior teachers is about 32,000-40,000 euros, mid-level 40,000-50,000 euros, and senior can reach 65,000 euros. Depends on institution, region, and experience.
+
+**Q: How to become an adult education teacher in Germany for non-EU nationals?**
+A: Requires qualification assessment and typically an AEVO certificate. Can apply through EU Blue Card or skilled migration visa (requires employer sponsorship), or an Opportunity Card. German proficiency at least B2 level.
+
+**Q: Is a German degree required for adult education work?**
+A: Not mandatory, but must pass foreign qualification recognition. Many institutions also accept applicants with AEVO certificates combined with relevant work experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Adult Education Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of adult education teachers?**
-答：Entry-level teachers earn about €32,000-€40,000, mid-career €40,000-€50,000, and senior up to €65,000, depending on institution, region, and experience.
-
-**问：How can non-EU individuals become adult education teachers in Germany?**
-答：They need degree recognition and usually the AEVO certificate. EU Blue Card or skilled worker visa (with employer sponsorship) or Opportunity Card. German at least B2 level.
-
-**问：Is a German degree required to work in adult education?**
-答：Not mandatory, but foreign degree recognition is needed. Many employers accept AEVO certification plus relevant experience.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

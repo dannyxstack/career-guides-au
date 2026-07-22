@@ -1,61 +1,96 @@
-# Ship Captains and Deck Officers（Ship Captains and Deck Officers）职业分析 · ES
+# Ship Captains and Deck Officers — career analysis · Spain
 
-**职业代码：3152 – Ship Captains and Deck Officers。**
+**Occupation code: 3152 (CNO)**
 
-Responsible for vessel navigation, safety and cargo operations, managing deck department and performing navigation and communication duties.
+Responsible for ship navigation, safety, and cargo operations, managing the deck department, and performing navigation and communication tasks.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年（Grado en Náutica y Transporte Marítimo） | $1,000~$5,000（公立大学学费，私立更高） |
-| 职业培训（FP Grado Superior） | 2年（FP en Transporte Marítimo y Pesca de Altura） | —（公立FP几乎免费） |
+| Undergraduate (Grado) | 4 years (Grado en Náutica y Transporte Marítimo) | $1,000~$5,000 (Public university tuition; private is higher) |
+| Vocational Training (FP Grado Superior) | 2 years (FP en Transporte Marítimo y Pesca de Altura) | $0~$1,500 (Public FPs are almost free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| STCW公约证书（基本安全培训） | 西班牙海事局（Dirección General de la Marina Mercante） | 必备 | 强制性基础培训证书 |
-| 船长/甲板高级船员适任证书 | 西班牙海事局 | 必备 | 根据吨位和航区分级，需通过考试和海上资历认证 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 第三国学历需认证方可报考适任证书 |
+| STCW Convention Certificate (Basic Safety Training) | Spanish Maritime Authority (Dirección General de la Marina Mercante) | Required | Mandatory basic training certificate |
+| Captain/Deck Senior Crew Competency Certificate | Spanish Maritime Authority | Required | Classification based on tonnage and navigation area, requiring examinations and maritime qualification certification |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Third-country qualifications must be verified before applying for the competency certificate |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。西班牙海运业稳定，但受经济周期影响。商船队规模有限，职位竞争中等。沿海地区需求相对集中。
+**Job demand: medium (★★★☆☆).** National workforce approx. 3,200. Spain's shipping industry is stable but affected by economic cycles. The merchant fleet is limited in size, and competition for positions is moderate. Demand is relatively concentrated in coastal areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年，三副/二副） | $28,000~$35,000 | 含海上津贴 |
-| 中级（4-10年，大副/近海船长） | $40,000~$55,000 | 随吨位和航线增加 |
-| 高级（10年以上，远洋船长） | $60,000~$90,000 | 大型集装箱船或油轮船长薪资更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Junior Level (0-3 years, Third/Second Division) | $28,000~$35,000 | Including maritime allowances |
+| Intermediate (4-10 years, Chief Mate/Offshore Captain) | $40,000~$55,000 | Increase with tonnage and routes |
+| Senior (over 10 years, ocean skipper) | $60,000~$90,000 | Captains of large container ships or oil tankers earn higher salaries |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从三副、二副、大副逐步晋升至船长。需积累海上资历并通过晋升考试。部分船长可转任港口引航员或海事管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI and automation have mixed impacts on captains, chief mates, and pilots: route planning, paperwork, and monitoring tasks are enhanced or replaced, but core responsibilities like legal liability, emergency decisions, and crew management are hard to automate; overall risk is manageable.
+
+He was promoted from third mate, second mate, and chief officer step by step to captain. You must accumulate maritime experience and pass a promotion exam. Some captains may transfer to port pilots or maritime management positions.
+
+**Tasks most exposed to AI:**
+
+- Automated route planning and fuel optimization calculations
+- Collision warning system based on AIS and weather data replaces manual lookout assistance
+- Electronic logs and report generation, replacing manual recording and paperwork
+- Auto-steering and dynamic positioning systems replace some conventional steering tasks
+
+**Where AI augments the role:**
+
+- AI-enhanced voyage risk assessment and real-time decision support
+- Smart monitoring systems assist in identifying obstacles and anomalies in waterways
+- Predictive maintenance systems optimize engine and equipment repair schedules.
+- Multimodal communication and translation tools improve cross-border coordination efficiency
+- Simulator AI training scenarios enhance emergency drill effectiveness
+
+**Human moat:**
+
+- Final decision-making and legal responsibility in emergencies (e.g., abandoning ship, collision)
+- Precise manoeuvring and local knowledge for complex port basins and narrow waterways
+- Lead crew teams and maintain shipboard discipline and morale
+- Interpersonal coordination and compliance with port authorities, pilot stations, etc.
+- Adaptability in unpredictable environments (e.g., severe weather, pirates)
+
+**Skills to build:**
+
+- AI-assisted decision system operation and data interpretation
+- Remote monitoring and troubleshooting of automated ships.
+- Data analysis (voyage logs, fuel consumption, equipment status)
+- Digital communication and port-shipping collaborative platform usage
+- Application of AI tools in emergency management (simulation, prediction)
+- Continuously updated regulatory compliance knowledge (digital certificates, reporting)
+
+**Key growth areas:**
 
 - Maritime trade
 - Offshore energy
@@ -64,66 +99,65 @@ Responsible for vessel navigation, safety and cargo operations, managing deck de
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 需雇主担保，通过劳工市场测试（如果适用）。需学历认证（homologación）及适任证书认可。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能（本科以上），但需符合薪资门槛（约33,909欧元/年）。需学历认证。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高技能专业人员，需学历认证和雇佣合同。流程较快。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship required, labor market testing (if applicable). Homologación and competency certificate recognition are required. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled candidates (bachelor's degree or above), but must meet the salary threshold (approximately €33,909/year). Academic credentials are required. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly skilled professionals, requiring academic credentials and employment contracts. The process is relatively fast. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ship Captains and Deck Officers？**
-- 热爱海洋和航海生活，能适应长期海上工作
-- 具备良好领导力和应急处理能力
-- 愿意通过长期学习获取专业证书
-
-**谁不适合学Ship Captains and Deck Officers？**
-- 晕船或无法适应长时间离家的生活方式
-- 不擅长严格的安全程序和团队管理
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about the ocean and maritime life, able to adapt to long-term work at sea
+- Possess strong leadership and emergency response skills
+- Willing to obtain professional certificates through long-term study
+
+**Who is not suited**
+- Seasickness or inability to adapt to a lifestyle of being away from home for long periods
+- Not good at strict security procedures and team management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Spanish captains?**
+A: Junior (third mate) earns about 28,000-35,000 euros annually, first mates about 40,000-55,000 euros, and ocean-going captains can earn over 60,000-90,000 euros. Salary is affected by vessel tonnage, route, and company.
+
+**Q: How can third-country citizens immigrate to Spain through this profession?**
+A: You must first complete academic certification (homologación) to obtain the STCW certificate and the Spanish Certificate of Competence. After finding an employer, you can apply for work residence (Cuenta ajena) or an EU Blue Card. The certification process is relatively long, so it is recommended to plan ahead.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ship Captains and Deck Officers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary of a ship captain in Spain?**
-答：Entry-level (third officer) earns around €28,000-35,000, chief officer €40,000-55,000, ocean-going captain can reach €60,000-90,000+ depending on vessel size, route and company.
-
-**问：How can a third-country national immigrate to Spain through this occupation?**
-答：You need to homologate your degree, obtain STCW certificates and Spanish competency certificates. Then find an employer to sponsor a work permit (Cuenta ajena) or EU Blue Card. The certification process is lengthy.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

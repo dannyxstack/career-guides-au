@@ -1,63 +1,94 @@
-# 小学教师（Primary School Teacher）职业分析 · 澳大利亚
+# Primary School Teacher — career analysis · Australia
 
-**职业代码：241213 – Primary School Teacher。**
+**Occupation code: 241213 (ANZSCO)**
 
-小学教师负责K-6阶段的教学、班级管理与学生发展，是澳洲长期短缺、在 Core Skills 职业清单上的技术移民职业，需AITSL评估与注册。
+Primary school teachers are responsible for K–6 teaching, classroom management and student development. This is a skilled migration occupation on the Core Skills Occupation List with long-term shortages in Australia, requiring AITSL assessment and registration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Education (Primary) | 4年 | $24,000~$40,000（国际生约$100k~$150k总费） |
-| Master of Teaching (Primary) | 2年 | $30,000~$50,000（已有学位者路径） |
+| Bachelor of Education (Primary) | 4 years | $24,000~$40,000 (Approximately $100k–$150k total course fees for international students) |
+| Master of Teaching (Primary) | 2 years | $30,000~$50,000 (Pathway for those who already hold a degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| AITSL Skills Assessment | AITSL | 必备 | 技术移民必备 |
-| 各州教师注册 (Teacher Registration) | 州教育主管部门 | 必备 | 合法执教强制 |
+| AITSL Skills Assessment | AITSL | Required | Essential for skilled migration |
+| Teacher registration in each state (Teacher Registration) | State education authorities | Required | Mandatory legal teaching requirement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 180,000。全澳教师短缺，偏远与STEM方向尤其紧缺，州担保与雇主担保机会多。
+**Job demand: very high (★★★★★).** National workforce approx. 180,000. Teacher shortages exist across Australia, with particularly high demand in regional areas and STEM subjects; state nomination and employer sponsorship opportunities are plentiful.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,500~4,500 个 | 全国，含偏远 |
-| 各州教育局 | 3,000~6,000 个 | 公立系统 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业起薪 | $75,000~$85,000 | Graduate teacher |
-| 中级（4-8年） | $90,000~$105,000 | Proficient |
-| 资深/Lead | $110,000~$125,000 | Highly Accomplished/Lead |
+| Median salary | $115,752 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate starting salary | $75,000~$85,000 | Graduate teacher |
+| Mid-level (4–8 years) | $90,000~$105,000 | Proficient |
+| Senior / Lead | $110,000~$125,000 | Highly Accomplished/Lead |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 需完成4年高等教育（含教师教育资格）+ 各州教师注册；可向学科带头、副校长发展。
-**AI替代风险：很低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
+
+Must complete 4 years of higher education (including teacher education qualification) + teacher registration in each state; career progression to head of department or deputy principal is possible.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates lesson plans, exercises, and standardized courseware
+- AI grades multiple-choice/fill-in-the-blank questions and provides score analysis
+- AI recording and managing student attendance, grades, and behavioral data
+- AI-generated general notifications and reports for home-school communication
+- AI maintains online learning platforms and answers common student questions
+
+**Where AI augments the role:**
+
+- AI Provides Personalized Learning Paths and Adaptive Exercises, Assisting Differentiated Instruction
+- AI analyzes student error patterns to enable precise teacher intervention
+- AI-generated teaching feedback and reflection suggestions
+- AI-assisted design of teaching experiments, virtual scenarios, and interactive activities
+- AI voice recognition assists classroom interaction and oral assessment
+
+**Human moat:**
+
+- Face-to-face emotional communication and child psychological support
+- Classroom discipline management and behavioral intervention
+- Creative instructional design and intuitive judgment for individualized teaching
+- Building trust between school and home, and complex communication mediation
+- Interdisciplinary teaching innovation based on life experience
+
+**Skills to build:**
+
+- Educational AI tool application (e.g., Knewton, Curipod)
+- Basics of educational data analysis (student performance diagnosis)
+- Personalized teaching design and differentiated strategies
+- Digital classroom management and interactive tools (e.g., Nearpod)
+- Educational psychology and behavior management
+- AI ethics and data privacy protection
+
+**Key growth areas:**
 
 - STEM Education
 - Special Needs Support
@@ -66,70 +97,68 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，需AITSL评估 |
-| Subclass 190（Skilled Nominated） | 州提名，多州紧缺 |
-| Subclass 491（Skilled Work Regional） | 偏远地区加分 |
-| Subclass 186（ENS） | 永居通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship required; AITSL assessment required |
+| Subclass 190 (Skilled Nominated) | State nomination, shortage across multiple states |
+| Subclass 491 (Skilled Work Regional) | Regional area bonus points |
+| Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学小学教师？**
-- 喜欢与孩子相处、有耐心的人
-- 想走教育类技术移民者
-- 愿意去偏远地区任教者
-
-**谁不适合学小学教师？**
-- 不适应课堂管理压力者
-- 不愿完成教师注册流程者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who enjoy working with children and have patience
+- Those pursuing skilled migration in the education sector
+- Willing to teach in regional and remote areas
+
+**Who is not suited**
+- Those unable to cope with classroom management pressures
+- Unwilling to complete the teacher registration process
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a primary school teacher in Australia?**
+A: Graduate starting salary approx AUD $75,000-$85,000, senior Lead teacher can reach $125,000.
+
+**Q: Can primary school teachers migrate to Australia through the skilled migration programme?**
+A: Yes. Primary School Teacher (ANZSCO 241213) is on the Core Skills list, requiring an AITSL assessment and state teacher registration; visa pathways include 190/491/186.
+
+**Q: Is it hard to become a primary school teacher?**
+A: Requires a 4-year bachelor's degree or 2-year master's degree in teacher education; moderate difficulty, but registration and practicum requirements are relatively strict.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-小学教师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲小学教师工资多少？**
-答：毕业起薪约AUD $7.5万~$8.5万，资深Lead教师可达$12.5万。
-
-**问：小学教师能技术移民吗？**
-答：可以。Primary School Teacher（241213）在Core Skills清单上，需AITSL评估和州教师注册，可走190/491/186等。
-
-**问：小学教师难学吗？**
-答：需4年本科或2年硕士的教师教育，难度中等，但注册和实习要求较严。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

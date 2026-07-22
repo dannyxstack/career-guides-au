@@ -1,59 +1,95 @@
-# Fashion Designer（Fashion Designer）职业分析 · 新西兰
+# Fashion Designer — career analysis · New Zealand
 
-**职业代码：232311 – Fashion Designer。**
+**Occupation code: 232311 (ANZSCO)**
 
-Fashion designers create clothing and accessory collections, following trends. In NZ, this role is eligible for skilled migration (SMC) or Green List, offering residency pathways after gaining experience.
+Responsible for designing clothing and accessory collections, keeping up with trends, ideal for creative talent. In New Zealand, this occupation is eligible for skilled migration (SMC) or the Green List, with opportunities to apply for residency after gaining experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 专科文凭 | 2年 | $20,000~$30,000（公立理工学院学费） |
-| 本科 | 3年 | $50,000~$70,000（公立大学如奥克兰理工大学） |
-| 研究生文凭/硕士 | 1-2年 | $40,000~$60,000（部分院校提供，费用较高） |
+| Diploma | 2 years | $20,000~$30,000 (Public polytechnic tuition fees) |
+| Bachelor's degree | 3 years | $50,000~$70,000 (Public universities such as Auckland University of Technology) |
+| Postgraduate diploma/master's | 1-2 years | $40,000~$60,000 (Offered by some institutions, higher cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 时装设计专科/本科 | 新西兰学历认证局(NZQA)认可院校 | 可选 | 非强制，但大部分雇主要求相关学历 |
-| 雅思6.5分 | IELTS | 可选 | 技术移民及工签需满足英语要求 |
+| Diploma/Bachelor in Fashion Design | Institutions recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Not mandatory, but most employers require relevant qualifications |
+| IELTS 6.5 | IELTS | Optional | Skilled migration and work visas require meeting English language requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰时装设计行业规模较小，受经济和旅游影响，但可持续时尚和本土品牌兴起带来机会。年均就业增长平稳，大城市（奥克兰、惠灵顿）机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. New Zealand's fashion design industry is relatively small and affected by the economy and tourism, but sustainable fashion and local brands present opportunities. Average annual employment growth is stable, with more opportunities in major cities (Auckland, Wellington).
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 助理设计师或初级岗位 |
-| 中级（3-7年） | $55,000~$75,000 | 独立设计师或小型团队负责人 |
-| 高级（7年以上） | $75,000~$100,000 | 创意总监或品牌主理人 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Assistant designer or entry-level role |
+| Mid-level (3–7 years) | $55,000~$75,000 | Independent designer or small team leader. |
+| Senior (7+ years) | $75,000~$100,000 | Creative director or brand principal |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级设计师可晋升为高级设计师或创意总监，也可转向买手、造型等关联领域。创业开独立品牌也是常见路径，需积累行业人脉。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
+
+Junior designers can advance to senior designer or creative director, or move into related fields such as buying and styling. Starting an independent brand is also a common path, requiring industry connections.
+
+**Tasks most exposed to AI:**
+
+- Trend data analysis and prediction using AI tools
+- Using AI to generate preliminary clothing sketches and pattern designs
+- Automated pattern resizing and sample garment simulation
+- Automates fabric color matching and inventory retrieval through AI
+- AI generates basic product descriptions and marketing copy
+
+**Where AI augments the role:**
+
+- Using AI to quickly generate hundreds of design variants for client selection
+- Use 3D simulation and virtual try-on technology to reduce physical sample production
+- Optimize design decisions by analyzing consumer feedback through AI
+- Use AI-assisted supply chain management and fabric sustainability assessment
+- Use generative AI to quickly create series of inspiration boards and visual narratives
+
+**Human moat:**
+
+- Unique artistic aesthetic and creative conceptual ability
+- Communication and relationship building with clients and manufacturers through meetings
+- Deep understanding of brand DNA and cultural trends
+- Tacit knowledge such as manual draping and haute couture
+- Cross-cultural design storytelling and original IP development.
+
+**Skills to build:**
+
+- Proficiency in AI design tools (e.g., Midjourney, CLO 3D, Stable Diffusion)
+- Data analysis and trend interpretation (Python/R basics)
+- Digital clothing modeling and virtual reality technology
+- Knowledge of sustainable fashion materials and supply chains
+- Brand strategy and visual marketing skills
+- Human-machine collaborative workflow design (Prompt engineering)
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Fashion designers create clothing and accessory collections, following trends. I
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需满足6分制（学历+工作经验），时装设计师符合要求，需有雇主担保。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 绿色清单二级职业，工作2年后可申请居留，需认证雇主。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡或积累经验途径，后可转其他移民路径。 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration, must meet 6-point system (qualifications + work experience); fashion designers qualify; need employer sponsorship. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green list Tier 2 occupation, eligible for residence after 2 years of work, with an accredited employer. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, as a transitional or experience-gaining pathway, can later switch to other migration routes. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fashion Designer？**
-- 具有较强审美和创造力，喜欢手工与绘图的人才
-- 愿意从基层积累经验，逐步提升设计能力的人
-- 对新西兰本土文化和民族元素感兴趣的设计师
-
-**谁不适合学Fashion Designer？**
-- 追求高薪和快速晋升的人
-- 不喜欢手工操作或版型制作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Talents with strong aesthetics and creativity, who enjoy handcrafting and drawing
+- People willing to accumulate experience from the grassroots and gradually improve their design skills.
+- Designers interested in New Zealand's indigenous culture and ethnic elements.
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike manual work or pattern making
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for fashion designers in New Zealand?**
+A: Entry-level about NZ$45,000-55,000, mid-level NZ$55,000-75,000, senior NZ$75,000-100,000. Salary is significantly affected by city and brand; Auckland slightly higher.
+
+**Q: How to immigrate to New Zealand as a fashion designer?**
+A: Eligible through Skilled Migrant Category (SMC) or Green List tier 2 work-to-residence pathway. Requires accredited employer sponsorship, accumulate 2 years of experience then apply for residence.
+
+**Q: What is the cost of studying fashion design in New Zealand?**
+A: Diploma: approx. NZ $20,000-30,000; bachelor's: approx. $50,000-70,000; master's: approx. $40,000-60,000. Varies by institution and course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Fashion Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for fashion designers in NZ?**
-答：Entry-level NZD 45,000-55,000; mid-level NZD 55,000-75,000; senior NZD 75,000-100,000, varying by city and employer.
-
-**问：How can a fashion designer immigrate to NZ?**
-答：Via Skilled Migrant Category or Green List Tier 2 Work to Residence, requiring an accredited employer and 2 years of work before applying for residency.
-
-**问：What are the costs of studying fashion design in NZ?**
-答：Diploma: NZD 20,000-30,000; Bachelor: NZD 50,000-70,000; Postgraduate: NZD 40,000-60,000, varying by institution.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

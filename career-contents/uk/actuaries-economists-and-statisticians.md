@@ -1,59 +1,95 @@
-# Actuaries, economists and statisticians（Actuaries, economists and statisticians）职业分析 · UK
+# Actuaries, economists and statisticians — career analysis · United Kingdom
 
-**职业代码：2433 – Actuaries, economists and statisticians。**
+**Occupation code: 2433 (SOC)**
 
-Actuaries, economists and statisticians apply theoretical principles and practical techniques to assess risk, formulate probabilistic outcomes, and analyze data to inform financial, business, and economic policies for growth or performance improvement.
+Actuaries, economists and statisticians apply theoretical principles and practical techniques to assess risk, formulate probabilistic outcomes, inform economic and business policy, and analyse and interpret data to assist in formulating financial, business and economic policy, achieving growth or improving performance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位 | 3年 | $18,000~$30,000（英国大学国际学生学费，数学/统计/经济等相关专业） |
-| 硕士学位 | 1年 | $20,000~$35,000（精算/经济学/统计学硕士，国际学生学费） |
+| Bachelor's degree | 3 years | $18,000~$30,000 (International student tuition fees at UK universities for math/statistics/economics related programs) |
+| Master's degree | 1 year | $20,000~$35,000 (Master's in Actuarial Science/Economics/Statistics, international student tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算专业认证 | 英国精算师协会 (IFoA) | 必备 | 通过系列考试获得FIA或FFA资格，通常需3-6年 |
-| 经济学/统计学学位 | 大学 | 可选 | 通常要求2:1以上荣誉学位 |
-| 特许统计师资格 (CStat) | 英国皇家统计学会 (RSS) | 可选 | RSS认证，提升专业信誉 |
+| Actuarial professional certification | Institute and Faculty of Actuaries (IFoA) | Required | Obtain FIA or FFA qualification through a series of exams, usually taking 3-6 years |
+| Economics/Statistics degree | University | Optional | Usually requires a 2:1 or higher honors degree |
+| Chartered Statistician (CStat) status | Royal Statistical Society (RSS) | Optional | RSS certification to enhance professional credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。英国对数据驱动决策的需求持续增长，精算、经济与统计领域就业前景良好。金融服务、保险、政府及咨询行业为主要雇主。受脱欧后经济结构调整及数字化转型影响，岗位需求预计稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. The demand for data-driven decision-making continues to grow in the UK, with strong employment prospects in actuarial, economic, and statistical fields. Key employers include financial services, insurance, government, and consulting. Driven by post-Brexit economic restructuring and digital transformation, job demand is expected to rise steadily.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 毕业生起薪约30,000-35,000英镑 |
-| 中级（3-7年） | $45,000~$70,000 | 随经验与资格提升显著增长 |
-| 高级（7年以上） | $70,000~$120,000 | 资深精算师/首席经济学家可达100,000英镑以上 |
+| Median salary | $53,342 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $30,000~$45,000 | Graduate starting salary approx. £30,000–35,000 |
+| Mid-level (3–7 years) | $45,000~$70,000 | Increases significantly with experience and qualifications. |
+| Senior (7+ years) | $70,000~$120,000 | Senior actuary/Chief economist can exceed £100,000 |
+| average salary | $65,489 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径通常从初级分析师/助理开始，逐步晋升为高级分析师/精算师、首席经济学家或统计学家。可转向管理岗位如精算总监、首席数据官，或成为独立顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
+
+Career progression typically starts from junior analyst/assistant, gradually advancing to senior analyst/actuary, chief economist, or statistician. Can move into management roles such as actuary director, chief data officer, or become an independent consultant.
+
+**Tasks most exposed to AI:**
+
+- Standard statistical model running and parameter tuning.
+- Routine data cleaning and basic report generation
+- Simple risk probability calculation and reserve estimation
+- Routine forecasting and updating of economic indicators
+- Basic regression analysis and hypothesis testing
+
+**Where AI augments the role:**
+
+- Identifies complex risk factors and non-linear relationships using machine learning models.
+- Analyze economic policy texts and market sentiment via natural language processing
+- Uses AI to simulate large-scale economic scenarios and stress tests.
+- Automated data exploration and visualization to quickly uncover insights
+- Using AI-assisted validation of model assumptions and result robustness
+
+**Human moat:**
+
+- Deep understanding and critical thinking of model assumptions and limitations
+- Ability to communicate complex risk models to non-technical management
+- Making Professional Judgments Under Uncertainty and Sparse Data
+- Ultimate responsibility for ethical duties and regulatory compliance
+- Cross-disciplinary integration of economic, financial, and behavioral science insights
+
+**Skills to build:**
+
+- Python/R machine learning and deep learning
+- Causal inference and experimental design
+- Explainable AI and model auditability
+- Natural language processing and economic text analysis
+- Big data distributed computing (Spark, etc.)
+- Business communication and data storytelling
+
+**Key growth areas:**
 
 - Data Analytics
 - Risk Management
@@ -62,69 +98,68 @@ Actuaries, economists and statisticians apply theoretical principles and practic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于获得雇主担保的精算师、经济学家和统计学家，满足薪资门槛（一般年薪不低于£26,200或行业特定标准）。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在精算、经济或统计领域具有杰出成就或潜力的专业人士，无需雇主担保，可自由更换雇主。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 适用于受雇于符合条件的高增长公司的专业人士，前6个月需担保，之后可转换担保人。 |
-| Subclass Graduate（Graduate Visa） | 适用于在英国大学获得学位的国际毕业生，可留英工作2年（博士3年），积累经验后转向Skilled Worker签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to actuaries, economists and statisticians with employer sponsorship, meeting the salary threshold (generally an annual salary of no less than £26,200 or industry-specific standards). |
+| Subclass Global Talent (Global Talent Visa) | Designed for professionals with outstanding achievements or potential in actuarial, economic, or statistical fields. No employer sponsorship required; can change employers freely. |
+| Subclass Scale-up (Scale-up Worker Visa) | For professionals employed by eligible high-growth companies; first 6 months require sponsorship, then can change sponsor. |
+| Subclass Graduate (Graduate Visa) | Applies to international graduates who have obtained a degree from a UK university, allowing them to work in the UK for 2 years (3 years for PhD), then transition to a Skilled Worker visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Actuaries, economists and statisticians？**
-- 数学、统计或经济背景的优秀毕业生
-- 具备分析思维和解决问题能力的人
-- 追求高薪和稳定职业前景的人
-
-**谁不适合学Actuaries, economists and statisticians？**
-- 不擅长数学和数据分析的人
-- 希望快速晋升或频繁跳槽的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Outstanding graduates in mathematics, statistics, or economics
+- People with analytical thinking and problem-solving skills
+- People seeking high salary and stable career prospects
+
+**Who is not suited**
+- People not good at maths and data analysis
+- For those seeking rapid promotion or frequent job-hopping
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for actuaries in the UK?**
+A: Junior actuary starting salary around £30,000-45,000, mid-level £45,000-70,000, senior can exceed £120,000.
+
+**Q: Can actuaries immigrate to the UK on a skilled worker visa?**
+A: Yes. Actuary is on the skilled occupation list, and can apply for a Skilled Worker Visa if salary requirements are met.
+
+**Q: What certifications are needed to work in the UK?**
+A: Typically requires obtaining professional certification (FIA/FFA) from the Institute and Faculty of Actuaries (IFoA), a process that takes 3-6 years and includes multiple exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Actuaries, economists and statisticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for actuaries in the UK?**
-答：Entry-level actuaries earn around £30,000-£45,000, mid-level £45,000-£70,000, and senior roles can exceed £120,000.
-
-**问：Can actuaries immigrate to the UK via a Skilled Worker visa?**
-答：Yes. Actuaries are on the eligible occupation list and can apply for a Skilled Worker visa if salary requirements are met.
-
-**问：What certifications are required to practice in the UK?**
-答：You typically need to obtain professional certification from the Institute and Faculty of Actuaries (IFoA) – FIA or FFA – which involves a series of exams over 3-6 years.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

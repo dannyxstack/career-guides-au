@@ -1,129 +1,161 @@
-# 健身教练（Fitness Instructor）职业分析 · 澳大利亚
+# Fitness Instructor — career analysis · Australia
 
-**职业代码：452111 – Fitness Instructor。**
+**Occupation code: 452111 (ANZSCO)**
 
-健身教练（含私人教练）指导个人或团体进行体能训练与健康管理，工作于健身房、工作室或上门/线上。多为按课时或自雇，收入与客户量、留存和口碑强相关，资深 PT 与自营者收入可观。
+Fitness coaches (including personal trainers) guide individuals or groups in physical training and health management, working in gyms, studios, or online/home-based. Often paid per session or self-employed, income strongly correlates with client volume, retention, and reputation; senior PTs and self-employed can earn well.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Fitness（SIS30321） | 3~6个月 | $1,500~$6,000（团课/助理教练入门资质） |
-| Certificate IV in Fitness（私人教练 PT） | 6~12个月 | $2,500~$9,000（独立带私教的行业标准资质） |
+| Certificate III in Fitness（SIS30321） | 3–6 months | $1,500~$6,000 (Entry qualification for group class/assistant coach) |
+| Certificate IV in Fitness (Personal Trainer PT) | 6–12 months | $2,500~$9,000 (Industry standard qualification for independent personal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate IV in Fitness（SIS40221） | 认可 RTO | 必备 | 独立从事私人教练的行业标准 |
-| 急救与 CPR 证书 + 行业注册（AusREP/Fitness Australia） | Fitness Australia 等 | 必备 | 执业与保险常见要求 |
+| Certificate IV in Fitness（SIS40221） | Registered training organisation (RTO) | Required | Industry standard for working as an independent personal trainer |
+| First Aid and CPR certification + industry registration (AusREP/Fitness Australia) | Fitness Australia, etc. | Required | Common practice and insurance requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★☆☆）。** 全国从业人数约 —。健康意识提升推动健身行业稳定增长；私人教练、线上课程和专项人群（产后/银发/康复）是增量方向。岗位多为兼职/自雇，需自我营销与客户经营。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 30,000. Growing health awareness drives steady growth in the fitness industry; personal trainers, online courses, and specialised populations (postnatal, senior, rehabilitation) are growth areas. Roles are mostly part-time/self-employed, requiring self-marketing and client management.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中高（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级/团课教练 | $45,000~$60,000 | 按课时/兼职常见 |
-| 私人教练（PT） | $55,000~$80,000 | 客户量决定收入 |
-| 资深 PT/自营工作室 | $80,000~$150,000 | 高留存客群+团课+线上 |
+| Median salary | $78,000 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior/Group Fitness Instructor | $45,000~$60,000 | Commonly paid per session or part-time |
+| Personal Trainer (PT) | $55,000~$80,000 | Income determined by client volume |
+| Senior PT / self-owned studio | $80,000~$150,000 | High client retention + group classes + online |
+| average salary | $54,496 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★☆☆）。** 线上+线下混合训练成为常态；专项化（功能性/康复/营养结合）提升单价与留存。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Fitness coaches face mixed AI impact: automation reduces basic instruction, but AI enhances personalised training design and client management; the moat lies in interpersonal trust and real-time body feedback processing.
 
-- 私人教练（PT）
-- 团课教练（HIIT/动感单车）
-- 线上健身课程
-- 专项人群（产后/银发/康复）
+Online+offline hybrid training becomes the norm; specialisation (functional/rehabilitation/nutrition) boosts pricing and retention.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate general training plans
+- Automatically adjust intensity based on wearable device data
+- Provide standard motion video feedback
+- Record and analyse client training logs
+- Generate nutrition and recovery recommendations
+
+**Where AI augments the role:**
+
+- Use AI to analyze client biomechanical data for personalized programs
+- Using AI to generate immersive training music/backgrounds
+- AI chatbot providing 24/7 customer support
+- Use AI to predict client injury risk and adjust plans
+- NLP sentiment analysis based on customer feedback to optimize communication
+
+**Human moat:**
+
+- Observe clients' physical feedback in real-time and adjust teaching
+- Build trusting and motivating interpersonal relationships
+- Tailor training based on complex health conditions (e.g., injuries, illnesses)
+- On-site safety supervision and first aid skills
+- High emotional intelligence communication and team atmosphere building
+
+**Skills to build:**
+
+- Sports Biomechanics and AI Analysis Tools (e.g., Kinovea)
+- Data interpretation and personalized programming
+- Social media and online coaching brand management
+- Psychology and behavior change techniques
+- Familiarity with smart fitness equipment (e.g., Mirror, Peloton)
+- Basic programming (Python/R) for automated reporting
+
+**Key growth areas:**
+
+- Personal Trainer (PT)
+- Group fitness instructor (HIIT/spinning)
+- Online Fitness Classes
+- Special Populations (Postpartum/Seniors/Rehabilitation)
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学健身教练？**
-- 热爱运动并善于激励他人
-- 愿意经营客户与个人品牌
-- 可接受早晚高峰与兼职起步
-
-**谁不适合学健身教练？**
-- 追求固定坐班与稳定月薪
-- 以移民为主要目标
-- 不愿做客户开发与留存
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about sports and skilled at motivating others
+- Willing to manage clients and personal brand
+- Flexible to work peak hours (morning/evening) and start part-time
+
+**Who is not suited**
+- Seek fixed office-based work and stable monthly salary
+- Primarily targeting immigration
+- Unwilling to engage in client development and retention
+
+---
+
+## 8. FAQ
+
+**Q: How much do fitness instructors earn in Australia?**
+A: Entry-level/group classes: about $45k–$60k; personal trainer: about $55k–$80k (depends on client base); senior PT/own studio: about $80k–$150k. Mostly paid per session or self-employed.
+
+**Q: Can a Fitness Instructor Migrate via Skilled Migration?**
+A: Direct skilled migration not possible. Fitness Instructor (452111) is not on the CSOL or GSM skilled occupation lists.
+
+**Q: What qualifications are needed to become a fitness instructor?**
+A: Group class entry requires Certificate III in Fitness; independent personal training requires Certificate IV in Fitness, and usually first aid/CPR certification and industry registration (e.g., AusREP). No university degree required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | Fitness Instructor / PT 薪资区间 |
-| Department of Home Affairs | 技术职业清单（本职业未列入） |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★½☆☆☆） |
-| 学习难度 | 中低（★★☆☆☆） |
-| 考证难度 | 中低（★★☆☆☆） |
-| 职位需求量 | 中高（★★★☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 中高（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-健身教练属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲健身教练收入多少？**
-答：初级/团课约 $45k~$60k；私人教练约 $55k~$80k（客户量决定）；资深 PT/自营工作室约 $80k~$150k。多为按课时或自雇。
-
-**问：健身教练能技术移民吗？**
-答：不能直接技术移民。Fitness Instructor (452111) 不在 CSOL 或 GSM 技术移民清单上。
-
-**问：当健身教练需要什么资质？**
-答：团课入门需 Certificate III in Fitness；独立带私教需 Certificate IV in Fitness，并通常需急救/CPR 证书与行业注册（如 AusREP）。无需大学学历。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

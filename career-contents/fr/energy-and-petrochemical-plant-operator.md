@@ -1,62 +1,96 @@
-# Energy and Petrochemical Plant Operator（Energy and Petrochemical Plant Operator）职业分析 · FR
+# Energy and Petrochemical Plant Operator — career analysis · France
 
-**职业代码：H2701 – Energy and Petrochemical Plant Operator。**
+**Occupation code: H2701 (ROME)**
 
-Operates and monitors energy production and petrochemical plants (e.g., power plants, refineries) to ensure safe and efficient operation, including start-up, shutdown, troubleshooting, and routine maintenance.
+Responsible for monitoring and operating energy production (such as power plants and refineries) and petrochemical installations to ensure safe and efficient operation, including start-up, shutdown, fault handling, and daily maintenance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS技术文凭 | 2年（BTS） | $500~$2,000（公立学校学费低，约500-2000欧元/年） |
-| 职业学士 | 3年（Licence Pro） | $500~$3,000（公立大学学费约500-3000欧元/年） |
-| 工程师文凭 | 5年（工程师学校） | $600~$8,000（公立工程师学校约600-8000欧元/年，私立更高） |
+| BTS Technical Diploma | 2 Years (BTS) | $500~$2,000 (Public school tuition is low, about 500-2000 euros per year) |
+| Bachelor of Professional Studies | 3 years (Licence Pro) | $500~$3,000 (Tuition at public universities is about 500-3000 euros per year) |
+| Engineer diploma | 5 years (engineering school) | $600~$8,000 (Public engineering schools cost about 600-8000 euros per year, while private ones pay even higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS在能源或化工领域 | 法国教育部 | 必备 | 基础入门文凭，常见要求 |
-| 危险品操作证书 | 法国劳动部 | 必备 | 操作特定装置必需 |
-| 化工安全生产认证 | ICSI / INERIS | 可选 | 部分企业要求 |
+| BTS in the energy or chemical sectors | French Ministry of Education | Required | Basic introductory diploma, common requirements |
+| Dangerous Goods Handling Certificate | French Ministry of Labor | Required | Required to operate specific devices |
+| Chemical Safety Production Certification | ICSI / INERIS | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 18,000。法国能源转型推动传统能源岗位结构调整，但石化与核能领域仍有稳定需求。退休人员多，招聘量保持中等水平，需适应数字化与环保新规。
+**Job demand: medium (★★½☆☆).** National workforce approx. 18,000. France's energy transition has driven structural adjustments in traditional energy sectors, but stable demand remains in petrochemical and nuclear sectors. There are many retirees, and recruitment remains moderate, requiring adaptation to digitalization and new environmental regulations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-8年） | $35,000~$45,000 | 税前年薪 |
-| 高级（8年以上） | $45,000~$60,000 | 税前年薪，含班组长或控制室主管 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (8+ years) | $45,000~$60,000 | Pre-tax annual salary, including team leader or control room supervisor |
+| average salary | $30,930 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为班组长或控制室主管，再至生产经理。也可向安全工程师或工艺工程师发展，需补充工程师文凭或内部晋升培训。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI and automation will reshape the work of energy and petrochemical plant operators: routine monitoring and basic control are gradually being taken over, but complex fault diagnosis, emergency intervention, and multi-unit coordination remain irreplaceable, profoundly changing the nature of the job.
+
+Operators can be promoted from operator to team leader or control room supervisor, and then to production manager. You can also develop into a safety engineer or process engineer, which requires supplementary engineering diplomas or internal promotion training.
+
+**Tasks most exposed to AI:**
+
+- Routine parameter monitoring (temperature, pressure, flow) for automated system takeover devices
+- AI prediction models replace manual trend analysis and early warning report generation
+- RPA (Robotic Process Automation) handling log entry, report aggregation, and other paperwork
+- The rule-based intelligent control system independently performs standardized operations such as start-stop and load adjustment
+
+**Where AI augments the role:**
+
+- AI-assisted anomaly traceability: By cross-comparing historical fault databases with real-time data, the cause of problems can be quickly pinpointed
+- Enhanced virtual reality (VR) simulation training: Safety drills for complex accident scenarios, enhancing emergency decision-making capabilities
+- Digital twin-driven full-device optimization: simulates different working conditions, and human-machine collaboration develops the optimal operating plan
+- Intelligent decision support: AI recommends operational strategies, with operators responsible for reviewing, adjusting, and executing high-risk steps
+
+**Human moat:**
+
+- On-the-spot judgment and emergency manual intervention capability under high-risk conditions
+- Cross-system (electrical, mechanical, process) comprehensive fault diagnosis experience
+- Creative solutions to unstructured problems
+- Ultimate assumption of responsibilities for regulations, safety, and environmental protection and ethical decision-making
+- Communicate, coordinate, and lead teams across multiple departments (dispatch, maintenance, safety).
+
+**Skills to build:**
+
+- Advanced operations of industrial IoT and DCS (Distributed Control Systems).
+- Basic Python/R data analysis and visualization (anomaly detection, trend forecasting)
+- AI/Machine Learning Basic Concepts and Tool Applications (such as edge AI deployment)
+- Use of digital twins and simulation software (such as Aspen Plus, AVEVA)
+- PLC/SCADA programming and automatic control principles
+- Project communication, cross-team collaboration, and change management
+
+**Key growth areas:**
 
 - Energy transition
 - Digitalization
@@ -65,66 +99,68 @@ Operates and monitors energy production and petrochemical plants (e.g., power pl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明无欧盟候选人；适合已有工作offer。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能人才，如工程师角色；需至少硕士学历或三年经验。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需至少一年合同且年薪高于门槛（约53k欧元），适合高级操作员或主管。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, proof of no EU candidates; Suitable for existing job offers. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, such as engineers; At least a master's degree or three years of experience is required. |
+| Subclass Carte bleue UE (EU Blue Card) | Requires a contract of at least one year with a salary above the threshold (approx. €53k), suitable for senior operators or supervisors. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Energy and Petrochemical Plant Operator？**
-- 喜欢动手操作和监控设备的人
-- 能在倒班和高压环境中工作的人
-- 对能源和化工行业有技术兴趣的人
+**Who is suited**
+- People who enjoy hands-on operation and equipment monitoring
+- People who can work shifts and high-pressure environments
+- People with a technical interest in the energy and chemical industries
 
-**谁不适合学Energy and Petrochemical Plant Operator？**
-- 无法适应倒班和周末工作的人
-- 不喜欢严格安全规程和重复性检查的人
+**Who is not suited**
+- People who cannot adapt to shifts and weekend work
+- People who dislike strict safety procedures and repeated inspections
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for operators of energy and petrochemical units?**
+A: Junior operators earn about 28,000-35,000 euros annually, intermediate workers 35,000-45,000 euros, and senior (such as team leaders) 45,000-60,000 euros, usually with shift allowances.
+
+**Q: How can third-country citizens obtain a work visa for this position in France?**
+A: The main pathways include: Salarié work visa (employer sponsorship required), Passeport Talent (suitable for high-skilled individuals), and EU Blue Card (annual salary of 53k+). It is difficult for non-EU candidates to apply directly because they need to prove there are no EU candidates.
+
+**Q: What diplomas or certificates are required?**
+A: Typically, a BTS (Energy/Chemical Engineering) or Licence Pro vocational bachelor's degree is required. Hazardous materials operation certificates are mandatory, and some companies also require safety production certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Energy and Petrochemical Plant Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for energy and petrochemical plant operators?**
-答：Entry-level operators earn around €28,000–35,000 gross annually, mid-level €35,000–45,000, and senior roles (shift supervisors) €45,000–60,000, often with shift allowances.
-
-**问：How can third-country nationals obtain a work visa for this role in France?**
-答：Main pathways: Salarié (employer-sponsored, labor shortage test), Passeport Talent (for high-skilled), EU Blue Card (min salary ~€53k). Direct application is challenging due to the need to demonstrate no EU candidate available.
-
-**问：What diplomas or certifications are required?**
-答：A BTS in energy/chemistry or a Licence Pro is typical. A hazardous materials handling certificate is mandatory, and some employers require safety certifications.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

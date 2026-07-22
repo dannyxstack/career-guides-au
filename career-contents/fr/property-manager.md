@@ -1,61 +1,95 @@
-# Property Manager（Property Manager）职业分析 · FR
+# Property Manager — career analysis · France
 
-**职业代码：C1501 – Property Manager。**
+**Occupation code: C1501 (ROME)**
 
-Manages rental properties, handling leases, rent collection, maintenance coordination, and client relations to ensure property value and compliance.
+Responsible for managing rental properties, including lease contracts, rent collection, maintenance coordination, and owner-client relations, ensuring property appreciation and compliant operation.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS professions immobilières | 2年（BTS） | $3,000~$8,000（公立或私立，学徒制可免学费） |
-| Licence professionnelle métiers de l'immobilier | 3年（licence） | $5,000~$12,000（公立大学约200欧/年，私立较高） |
+| BTS professions immobilières | 2 Years (BTS) | $3,000~$8,000 (Whether public or private, apprenticeship programs can be exempt from tuition) |
+| Licence professionnelle métiers de l'immobilier | 3 years (licence) | $5,000~$12,000 (Public universities approx. €200/year, private higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Carte professionnelle gestion immobilière | CCI（工商会） | 必备 | 管理物业必须持有，需通过考试或满足经验要求 |
-| BTS professions immobilières | 教育部 | 可选 | 行业入门文凭，涵盖法律、财务、管理 |
-| Licence pro immobilier | 大学 | 可选 | 更高层次的专业文凭，利于晋升 |
+| Carte professionnelle gestion immobilière | CCI (Chamber of Commerce) | Required | Property management is mandatory, requires passing an exam or meeting experience requirements |
+| BTS professions immobilières | Ministry of Education | Optional | An entry-level diploma in the industry, covering law, finance, and management |
+| Licence pro immobilier | University | Optional | Higher-level professional diplomas are more beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 65,000。法国房地产管理需求稳定，尤其在大城市，受租赁市场活跃和法规变化驱动。数字化转型提升效率，但竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 65,000. Real estate management demand in France is stable, especially in major cities, driven by an active rental market and regulatory changes. Digital transformation improves efficiency, but competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，视公司规模和地点 |
-| 中级（4-7年） | $32,000~$42,000 | 有经验后薪资提升，含奖金 |
-| 高级（8年以上） | $42,000~$55,000 | 区域经理或总监级别，绩效奖金丰厚 |
+| Median salary | $37,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary depends on company size and location |
+| Mid-level (4-7 years) | $32,000~$42,000 | Salary increases after gaining experience, including bonuses |
+| Senior (8+ years) | $42,000~$55,000 | Regional manager or director level, with generous performance bonuses |
+| average salary | $54,432 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理晋升为经理，再至区域总监或独立经纪人。需持续学习法律和财务知识，考取专业证书提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
+
+You can be promoted from assistant to manager, then to regional director or independent agent. You need to continuously study law and finance, and obtain professional certificates to enhance your competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Automatically collects comparable sales data from public databases and listing websites
+- Generate standardized initial valuation report text and tables
+- Quantitative value adjustment calculations based on historical data and market trends
+- Check calculation errors and formatting consistency in appraisal reports
+
+**Where AI augments the role:**
+
+- Use AI models to quickly analyze large volumes of transaction data, identifying market trends and anomalies
+- Automatically assess location and surrounding environment using Geographic Information Systems (GIS) and street-view imagery
+- Uses parametric models to test the sensitivity of results to different valuation assumptions.
+- Automatically generate client presentation materials with data visualizations and interactive maps
+- Using natural language processing to extract key information from lease contracts and planning documents
+
+**Human moat:**
+
+- Subjective judgment and experience valuation for unique properties (e.g., historic buildings, industrial sites)
+- Handle complex appraisals involving rare property issues, legal restrictions, or environmental risks
+- Communicate and negotiate with clients, lawyers, and developers in person and explain valuation logic
+- Provides expert testimony in litigation or tax disputes
+
+**Skills to build:**
+
+- Proficiency in SQL and Python for automated data scraping and cleaning
+- Learning to use AI tools specialized for real estate appraisal (e.g., HouseCanary, Geophy)
+- Improve GIS and spatial data analysis skills for site assessment
+- Strengthen communication and negotiation skills for complex client scenarios.
+- Learn basic machine learning concepts to understand AI model bias and limitations
+- Obtain advanced certifications (e.g., AACI, P.App) to strengthen qualifications
+
+**Key growth areas:**
 
 - Digitalization
 - Regulatory Compliance
@@ -64,65 +98,67 @@ Manages rental properties, handling leases, rent collection, maintenance coordin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需雇主担保，证明职位无法找到合适欧盟候选人 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，年薪需达约4万欧元以上 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Employer sponsorship is required, proving that suitable EU candidates cannot be found for the position |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to high-skilled talent, annual salary must be approximately €40,000 or more |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Property Manager？**
-- 善于沟通、有服务意识的人
-- 对法律和财务细节敏感的人
-- 喜欢独立工作和客户关系管理的人
+**Who is suited**
+- Good communicator with a service-oriented mindset.
+- People sensitive to legal and financial details
+- People who enjoy working independently and managing client relationships
 
-**谁不适合学Property Manager？**
-- 不擅长处理纠纷或压力的人
-- 缺乏组织能力和时间管理能力的人
+**Who is not suited**
+- People who are not good at handling disputes or stress
+- People who lack organizational and time management skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do real estate managers in France earn?**
+A: Entry-level around 25k-32k EUR, mid-level 32k-42k, senior up to 55k, including bonuses.
+
+**Q: Is it difficult for foreigners to work in real estate management in France?**
+A: It is more difficult, requires a professional card, and EU priority policies; Non-EU individuals require employer sponsorship and have high language requirements.
+
+**Q: What qualifications are required to become a French real estate manager?**
+A: Must hold Carte professionnelle, usually requiring a BTS or licence-level qualification or several years of experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Property Manager属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a property manager in France?**
-答：Entry-level €25k-32k, mid-level €32k-42k, senior up to €55k gross annually, including bonuses.
-
-**问：Is it difficult for foreigners to work as property managers in France?**
-答：Yes, requires professional license, EU preference; non-EU need employer sponsorship and high French proficiency.
-
-**问：What qualifications are needed to become a property manager in France?**
-答：Must hold a Carte professionnelle, typically with a BTS or licence in real estate, or several years of experience.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

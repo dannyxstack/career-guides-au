@@ -1,60 +1,96 @@
-# Mining and Geological Engineers, Including Mining Safety Engineers（Mining and Geological Engineers, Including Mining Safety Engineers）职业分析 · 美国
+# Mining and Geological Engineers, Including Mining Safety Engineers — career analysis · United States
 
-**职业代码：17-2151 – Mining and Geological Engineers, Including Mining Safety Engineers。**
+**Occupation code: 17-2151 (SOC)**
 
-Conduct subsurface surveys to identify mineral deposits, design support systems, and ensure safe, economical extraction.
+Responsible for underground exploration, mine design, and safety monitoring, ensuring economical, environmentally friendly, and safe extraction of minerals and underground engineering.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$60,000（州内公立大学年均学费） |
-| 硕士学位 | 2年 | $50,000~$80,000（部分岗位要求硕士） |
+| Bachelor's degree | 4 years | $40,000~$60,000 (Average annual tuition at in-state public universities) |
+| Master's degree | 2 years | $50,000~$80,000 (Some positions require a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程基础考试 | NCEES | 必备 | 工程专业毕业生必备，开始工程师实习（EIT）的第一步 |
-| 专业工程师执照 | 州执照委员会 | 可选 | 部分岗位要求，尤其涉及公共安全的设计 |
-| 矿山安全培训 | MSHA | 必备 | 联邦法律要求，新矿工必须完成 |
-| 注册地质学家 | 州委员会 | 可选 | 部分州要求，尤其是从事地质咨询服务 |
+| Fundamentals of Engineering exam | NCEES | Required | Essential for engineering graduates, first step to start Engineer Intern (EIT) |
+| Mine safety training | MSHA | Required | Federal law requires new miners to complete |
+| Professional Engineer License | State Licensing Board | Optional | Required for some positions, especially those involving public safety design |
+| Registered Geologist. | State board | Optional | Required in some states, especially for geological consulting services. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较好（★★★½☆）。** 全国从业人数约 6,500。美国采矿工程师就业预计小幅增长（2023-2033年约3%），新能源矿产需求推动岗位增加，但部分矿区自动化减少低技能岗位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 6,500. US mining engineer employment is expected to grow slightly (about 3% from 2023-2033), driven by demand for new energy minerals, but some mines are automating low-skilled positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 含奖金 |
-| 中级（4-9年） | $90,000~$120,000 | 含项目奖金 |
-| 高级（10年以上） | $120,000~$160,000 | 不含管理层股份 |
+| Median salary | $106,220 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Including bonus |
+| Intermediate (4-9 years) | $90,000~$120,000 | Including project bonuses |
+| Senior (10+ years) | $120,000~$160,000 | Excluding management shares |
+| average salary | $115,410 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级工程师可晋升为项目主管、资深地质工程师或矿山经理，也可转向环境咨询或新能源矿产开发领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation will have mixed impacts on mining and geological engineers: data analysis and monitoring tasks are replaced, but on-site decision-making, safety management, and compliance responsibilities increase, jobs won't disappear but require continuous learning.
+
+Junior engineers can advance to project supervisor, senior geotechnical engineer, or mine manager, and may also move into environmental consulting or new energy mineral development.
+
+**Tasks most exposed to AI:**
+
+- Automated entry, organization, and preliminary analysis of geological data
+- Conventional geological modeling and reserve estimation
+- Automated monitoring and early warning report generation based on sensor data
+- Completion of standard safety checklists and automated generation of compliance documents
+- Routine mine map updates and data synchronization
+
+**Where AI augments the role:**
+
+- AI-assisted geological modeling improves exploration efficiency and prediction accuracy.
+- Intelligent early warning and decision support based on real-time monitoring data
+- Automated drone inspection and image analysis enhance on-site monitoring
+- AI optimizes mining plans and resource scheduling
+- Virtual reality/augmented reality for training and safety simulation
+
+**Human moat:**
+
+- On-site judgment and emergency decision-making under complex geological conditions
+- Interpretation of mine safety regulations and compliance responsibilities
+- Interdisciplinary team coordination and multi-stakeholder communication
+- Innovative mining solution design (e.g., green mining)
+- Field survey and abnormal situation handling
+
+**Skills to build:**
+
+- Geological data science and machine learning basics
+- Python/R programming and GIS automation
+- Digital mine and IoT platform operation
+- 3D modeling and visualization tools (e.g., Leapfrog)
+- Human-machine collaboration and AI-assisted decision-making skills
+- Knowledge of sustainable mining and environmental management
+
+**Key growth areas:**
 
 - Mining
 - Mineral Exploration
@@ -63,69 +99,68 @@ Conduct subsurface surveys to identify mineral deposits, design support systems,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见路径，要求学士学位，雇主担保，年度配额限制 |
-| Subclass EB-2（Employment-Based Second Preference） | 需PERM劳工证或国家利益豁免，适合硕士及以上学位 |
-| Subclass EB-3（Employment-Based Third Preference） | 需PERM劳工证，适合学士学位或技术工人 |
-| Subclass TN（TN NAFTA Professional） | 加拿大/墨西哥公民适用，需雇主offer |
+| Subclass H-1B (H-1B Specialty Occupations) | Common path: requires a bachelor's degree, employer sponsorship, annual quota limits |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires PERM labor certification or National Interest Waiver, suitable for master's degree or higher |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, suitable for bachelor's degree or skilled workers. |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian/Mexican citizens, requires employer offer |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining and Geological Engineers, Including Mining Safety Engineers？**
-- 喜欢户外与野外工作
-- 具备地质与工程双学科兴趣
-- 愿意在偏远矿区工作
-
-**谁不适合学Mining and Geological Engineers, Including Mining Safety Engineers？**
-- 不喜欢危险环境
-- 拒绝频繁出差或异地工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Likes outdoor and field work
+- Interest in both geology and engineering disciplines
+- Willing to work in remote mining areas
+
+**Who is not suited**
+- Dislike hazardous environments
+- Refusing frequent travel or remote work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for a mining engineer?**
+A: With experience, salary can rise from junior USD 65,000-85,000 to senior USD 120,000-160,000, and management level can exceed USD 200,000.
+
+**Q: How can non-US citizens immigrate as mining engineers?**
+A: Common pathways: H-1B, EB-2/EB-3 green card. Requires employer sponsorship, and mining companies are usually willing to support experienced engineers.
+
+**Q: Is a PE license required?**
+A: Not mandatory, but holding a PE license offers advantages in promotion and salary, especially for projects involving public safety.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较好（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mining and Geological Engineers, Including Mining Safety Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for mining engineers?**
-答：Salaries can grow from $65,000-85,000 for entry-level to $120,000-160,000 for senior roles, with management exceeding $200,000.
-
-**问：How can non-US citizens immigrate as mining engineers?**
-答：Common paths include H-1B and EB-2/EB-3 green cards. Employer sponsorship is required, and mining companies often support experienced engineers.
-
-**问：Is a PE license required?**
-答：Not mandatory, but holding a PE license offers advantages in promotion and salary, especially for public safety projects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

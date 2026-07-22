@@ -1,59 +1,92 @@
-# Airport Ground Staff（Airport Ground Staff）职业分析 · FR
+# Airport Ground Staff — career analysis · France
 
-**职业代码：N2201 – Airport Ground Staff。**
+**Occupation code: N2201 (ROME)**
 
-Responsible for passenger check-in, baggage handling, flight coordination, and apron services at airports.
+Responsible for passenger check-in procedures, baggage handling, flight information coordination, and apron services, among other ground operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭+BTS运输与服务 | 2年（BTS） | —（公立BTS免费，私立约5000-10000欧元/年） |
-| 学徒制培训（CFA） | 1-2年 | —（学徒制免学费，有工资） |
+| High school diploma + BTS transportation and services | 2 Years (BTS) | $0~$10,000 (Public BTS is free, while private BTS is about 5,000-10,000 euros per year) |
+| Apprenticeship Training (CFA) | 1-2 years | $0~$0 (The apprenticeship system is free of tuition and provides a salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 民航安全检查认证（CNA） | 法国民航局（DGAC） | 必备 | 从事安检岗位必需 |
-| 危险品运输认证（IATA DGR） | 国际航空运输协会（IATA） | 必备 | 处理危险品必需 |
-| 地面服务操作证书 | 雇主或培训机构 | 可选 | 部分岗位要求 |
+| Civil Aviation Security Inspection Certification (CNA) | French Civil Aviation Authority (DGAC) | Required | Required for security inspection positions |
+| Dangerous Goods Transport Certification (IATA DGR) | International Air Transport Association (IATA) | Required | Essential for handling hazardous materials |
+| Ground Service Operation Certificate | Employer or training provider | Optional | Some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国航空运输业持续增长，机场地勤需求稳定。主要雇主为航空公司和地面服务公司。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. France's air transport industry continues to grow, with stable demand for airport ground services. The main employers are airlines and ground service companies.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 含主管岗位 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Including supervisory roles |
+| average salary | $28,308 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从地勤初级岗位晋升至主管或培训师，或转向航空物流、旅客服务管理等方向。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Airport ground staff (aircraft loaders) face significant automation risk; manual labor and simple repetitive tasks are easily replaced by machines, entry barriers are further lowered, and job numbers may shrink.
+
+You can be promoted from junior ground staff positions to supervisor or trainer, or move into areas such as air logistics or passenger service management.
+
+**Tasks most exposed to AI:**
+
+- Manual handling and stacking of luggage and goods.
+- Operation of ground equipment (trailers, conveyor belts)
+- Paper records and verification of flight loading plans.
+- Simple sorting and categorizing of goods in a warehouse
+
+**Where AI augments the role:**
+
+- Receive loading instructions via AR glasses to improve operational accuracy
+- Using automated guidance systems to optimize load balance
+- Use digital twin simulation to improve loading and unloading efficiency
+- Adjust task order in real time through intelligent scheduling system
+
+**Human moat:**
+
+- Handling abnormal situations (lost luggage, sudden delays)
+- Communication and collaboration with crew, dispatch, and passengers
+- Manual assessment of complex loading plans (irregular cargo)
+- Safety supervision and emergency response
+
+**Skills to build:**
+
+- Operate automated loading and unloading equipment
+- Basic Warehouse Management System (WMS)
+- Communication, coordination, and teamwork
+- Safety regulations and emergency response
+- Basic data entry and reporting
+- English communication (for international flights)
+
+**Key growth areas:**
 
 - Airport expansion
 - Traffic increase
@@ -62,68 +95,67 @@ Responsible for passenger check-in, baggage handling, flight coordination, and a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主担保，适用于有工作合同的地勤人员 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如管理岗，需年薪≥36,500欧元 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高学历高薪岗位（年薪≥53,836欧元），地勤初级岗位通常不达标 |
+| Subclass Salarié (Salarié (Employee)) | Employer sponsorship required, applicable to ground staff with work contracts |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled talent, such as management positions, requiring annual salary ≥36,500 EUR |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated, high-paying positions (annual salary ≥ €53,836), while entry-level ground staff positions usually do not meet the requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Airport Ground Staff？**
-- 善于沟通、服务意识强的人
-- 能适应轮班制、体力劳动的人
-- 对航空业有兴趣、注重细节的人
-
-**谁不适合学Airport Ground Staff？**
-- 不喜户外或嘈杂环境的人
-- 不能接受不规律作息的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good communication and strong service orientation
+- Able to adapt to shift work and manual labor
+- People interested in aviation and detail-oriented
+
+**Who is not suited**
+- People who dislike outdoor or noisy environments
+- People who cannot tolerate irregular schedules
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for airport ground staff?**
+A: Entry-level approximately €22,000-€26,000 per year pre-tax, mid to senior level up to €32,000-€40,000.
+
+**Q: How can foreigners immigrate to France through ground handling positions?**
+A: You can use the Salarié work visa, which requires employer sponsorship. For senior management positions, you can try Passeport Talent or the EU Blue Card.
+
+**Q: What are the promotion paths for ground staff?**
+A: You can be promoted to team leader, trainer, or move into air logistics, customer service management, and more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Airport Ground Staff的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for airport ground staff?**
-答：Entry-level around €22,000-€26,000 gross annually, senior up to €32,000-€40,000.
-
-**问：How can foreigners migrate to France through ground staff positions?**
-答：Via Salarié visa with employer sponsorship. For senior roles, Passeport Talent or EU Blue Card may apply.
-
-**问：What are the career progression paths for ground staff?**
-答：Promotion to team supervisor, trainer, or move to aviation logistics, customer service management, etc.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

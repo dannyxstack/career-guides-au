@@ -1,60 +1,94 @@
-# Automated or Robotic Mechanical Manufacturing Machine Operator（Automated or Robotic Mechanical Manufacturing Machine Operator）职业分析 · FR
+# Automated or Robotic Mechanical Manufacturing Machine Operator — career analysis · France
 
-**职业代码：H2906 – Automated or Robotic Mechanical Manufacturing Machine Operator。**
+**Occupation code: H2906 (ROME)**
 
-Operates, monitors, and maintains automated or robotic mechanical manufacturing equipment, ensuring efficient production, troubleshooting, and performing basic programming adjustments.
+Responsible for operating, monitoring, and maintaining automated or robotic mechanical manufacturing equipment to ensure efficient production line operation, troubleshooting, and simple programming adjustments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育：BTS CRCI（工业自动化与控制） | 2年 | —（公立学校免费或低学费，学徒制可获得津贴） |
-| 高中毕业：BAC Pro TRPM（机械加工工艺） | 3年 | —（公立高中免费，可走学徒制） |
-| 本科：Licence Pro Mécanique-Automatismes | 3年 | —（公立大学注册费约170欧/年；私立更高） |
+| Vocational Education: BTS CRCI (Industrial Automation and Control) | 2 years | $0~$10,000 (Public schools offer free or low tuition, and apprenticeships can receive subsidies) |
+| High School Graduate: BAC Pro TRPM (Machining Technology) | 3 years | $0~$5,000 (Public high schools are free and offer apprenticeships) |
+| Undergraduate: Licence Pro Mécanique-Automatismes | 3 years | $0~$15,000 (The registration fee for public universities is about 170 euros per year; Private schools are even higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP（职业认证证书）操作自动化设备 | 法国金属加工行业委员会（UIMM） | 可选 | 非强制，但行业协会推荐，提升就业竞争力 |
-| CACES（起重设备操作认证） | 认证培训机构 | 可选 | 若涉及叉车或吊车操作则必须持有 |
-| BAC Pro TRPM或BTS CRCI文凭 | 法国教育部 | 必备 | 通常需相关文凭入职，岗位高度对口 |
+| BAC Pro TRPM or BTS CRCI diploma | French Ministry of Education | Required | Usually, relevant diplomas are required to join, and the position is highly relevant |
+| CQP (Professional Certification Certificate) operates automated equipment | French Metalworking Industry Council (UIMM) | Optional | Not mandatory, but recommended by industry associations to enhance employment competitiveness |
+| CACES (Lifting Equipment Operation Certification) | Accredited training organization | Optional | If forklift or crane operations are involved, they must be held |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 60,000。法国工业4.0推动制造业自动化升级，该职业需求稳定增长。汽车、航空、电子等行业持续投资机器人产线，预计未来5年岗位数量增长10%-15%。
+**Job demand: high (★★★★☆).** National workforce approx. 60,000. France's Industry 4.0 is driving automation upgrades in manufacturing, with steady growth in demand for this profession. Industries such as automotive, aviation, and electronics continue to invest in robot production lines, with job openings expected to grow by 10%-15% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $38,000~$48,000 | 税前年薪，含奖金，需具备编程或管理技能 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $38,000~$48,000 | Pre-tax annual salary, including bonuses, must have programming or management skills |
+| average salary | $29,748 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从操作员晋升为生产线主管、自动化技术员或工业机器人编程员；积累经验后可转向设备维护、工艺优化或项目管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+In this profession, automated machines have already replaced some operational tasks, but AI as an auxiliary tool can improve monitoring, debugging, and optimization efficiency, resulting in mixed overall impacts.
+
+Operators can be promoted from operator to production line supervisor, automation technician, or industrial robot programmer; After gaining experience, you can move on to equipment maintenance, process optimization, or project management roles.
+
+**Tasks most exposed to AI:**
+
+- Manually adjust machine parameters (such as speed and feed rate)
+- Routine quality inspection and simple defect identification
+- Regular inspections and recording of equipment status
+- Repetitive loading and unloading operations
+
+**Where AI augments the role:**
+
+- Predictive maintenance algorithms are used to provide early warnings of equipment faults
+- Optimize production cycles and layouts through digital twin simulation
+- Computer vision is used for high-precision, real-time quality inspection
+- AI-assisted programming quickly generates the movement trajectory of new workpieces
+- Integrate production data to generate visual reports to support decision-making
+
+**Human moat:**
+
+- Teaching and debugging of non-standard, complex, or fragile parts
+- Fault diagnosis combines experience with multisensory comprehensive judgment
+- Cross-station coordination and exception handling decision-making
+- Communicate with engineers to develop process improvement plans
+
+**Skills to build:**
+
+- Offline robot programming and simulation (such as RoboDK)
+- Industrial automation protocols (such as OPC UA, Modbus)
+- Basic Data Analysis and Machine Learning Concepts
+- Basic programming of PLC and HMI
+- Lean production and Six Sigma methodology
+- Industrial Cybersecurity Fundamentals
+
+**Key growth areas:**
 
 - Industry 4.0
 - Automation
@@ -63,68 +97,67 @@ Operates, monitors, and maintains automated or robotic mechanical manufacturing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国雇主工作合同，并通过劳工调查（opposition de main-d'œuvre），薪资需达到最低工资1.5倍以上。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 若薪资达法定门槛（约37k€）或拥有高等学历，可申请，流程简化。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于薪资高于法国平均工资1.5倍（约53k€）的职位，但该职业通常薪资较低，较难满足。 |
+| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract from a French employer and pass a labor survey (opposition de main-d'œuvre), with a salary at least 1.5 times the minimum wage. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If your salary meets the legal threshold (about €37k) or you have a higher education, you can apply, and the process is simplified. |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable for positions where salary is 1.5 times the French average wage (approx. €53k), but this occupation usually has lower salaries, making it difficult to meet. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Automated or Robotic Mechanical Manufacturing Machine Operator？**
-- 对机械和自动化技术有兴趣，喜欢动手操作的人
-- 愿意接受职业培训或学徒制，追求稳定就业者
-- 希望在工业4.0领域发展，具备团队合作能力者
-
-**谁不适合学Automated or Robotic Mechanical Manufacturing Machine Operator？**
-- 抗拒重复性操作或轮班工作的人
-- 追求高薪或快速晋升者（该职业薪资增长较慢）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in mechanical and automation technologies and enjoy hands-on activities
+- Those willing to undergo vocational training or apprenticeships, seeking stable employment
+- Those who wish to develop in the Industry 4.0 field and possess teamwork skills
+
+**Who is not suited**
+- People who resist repetitive operations or shift work
+- Those seeking high salaries or rapid promotions (salary growth in this profession is relatively slow)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for automated machinery operators in France?**
+A: Entry-level is about €24k-30k/year, intermediate €30k-38k, advanced €38k-48k; Salaries vary by region, industry, and experience.
+
+**Q: How can foreigners immigrate to France through automated operator positions?**
+A: You must obtain a French employer contract and apply for the Salarié visa; If salary meets the requirements, you can apply for Passeport Talent; EU citizens can move freely.
+
+**Q: What skills are needed to become an automated operator?**
+A: You need to master basic machining, PLC programming, robot operation (such as FANUC, ABB), and troubleshooting skills.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Automated or Robotic Mechanical Manufacturing Machine Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an automated machine operator in France?**
-答：Entry-level: €24k-30k/year; mid-level: €30k-38k; senior: €38k-48k; varies by region, industry, and experience.
-
-**问：How can a foreigner immigrate to France as an automated machine operator?**
-答：Obtain a job offer, apply for a Salarié visa; if salary meets threshold, apply for Passeport Talent; EU citizens free movement.
-
-**问：What skills are needed to become an automated machine operator?**
-答：Basic machining, PLC programming, robot operation (e.g., FANUC, ABB), and troubleshooting skills.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

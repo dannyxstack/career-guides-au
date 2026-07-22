@@ -1,60 +1,96 @@
-# Sales Management and Business Engineering（Sales Management and Business Engineering）职业分析 · FR
+# Sales Management and Business Engineering — career analysis · France
 
-**职业代码：H1102 – Sales Management and Business Engineering。**
+**Occupation code: H1102 (ROME)**
 
-Manages sales strategies, client relationships, and business solutions to drive growth and market expansion.
+Responsible for corporate sales strategy, customer relationship management, and business plan design to drive business growth and market expansion.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（Licence） | $2,000~$8,000（公立大学学费，私立商学院更高） |
-| 硕士 | 2年（Master） | $3,000~$15,000（商学院或IAE，含学徒制可能免费） |
-| 工程师/商学院文凭 | 5年（Grande École） | $8,000~$20,000（高商或工程师学院，学费较高但就业率高） |
+| Bachelor's degree | 3 years (Licence) | $2,000~$8,000 (Public university tuition fees are higher at private business schools) |
+| Master's degree | 2 years (Master) | $3,000~$15,000 (Business schools or IAEs, including apprenticeships, may be free) |
+| Engineer/Business School diploma | 5 years (Grande École) | $8,000~$20,000 (Commercial or engineering colleges have higher tuition fees but higher employment rates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售管理认证 | 法国销售协会（Association Française des Managers Commerciaux） | 可选 | 非强制，但提升竞争力 |
-| 项目管理认证（PMP） | PMI | 可选 | 部分企业要求，利于业务工程岗位 |
-| 商务法语能力 | 法国工商会（CCI） | 可选 | 建议流利法语，尤其对于本地市场 |
+| Sales Management Certification | French Sales Association (Association Française des Managers Commerciaux) | Optional | Not mandatory, but enhances competitiveness |
+| Project Management Professional (PMP) certification | PMI | Optional | Some companies require it, which is beneficial for business engineering positions |
+| Business French proficiency | French Chamber of Commerce and Industry (CCI) | Optional | Fluency in French is recommended, especially for the local market |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国数字化转型和市场竞争加剧，销售管理岗位需求稳定，尤其在科技、咨询和工业领域，就业前景良好。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. France's digital transformation and intensified market competition have stabilized demand for sales management positions, especially in technology, consulting, and industrial sectors, where employment prospects are promising.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，不含奖金 |
-| 中级（3-7年） | $45,000~$65,000 | 含绩效奖金后可达更高 |
-| 高级（7年以上） | $65,000~$90,000 | 管理层，含股权激励可能更高 |
+| Median salary | $55,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, excluding bonuses |
+| Mid-level (3–7 years) | $45,000~$65,000 | After including performance bonuses, the rate can reach even higher |
+| Senior (7+ years) | $65,000~$90,000 | Management may have higher equity incentives |
+| average salary | $56,262 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业路径：销售代表 → 大客户经理 → 销售总监/业务总监 → 商务副总裁。需持续提升谈判和数据分析能力。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★★☆☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Career paths: Sales Representative → Key Account Manager → Sales Director/Business Director → Vice President of Business. Negotiation and data analysis capabilities must be continuously improved.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - Digital Transformation
 - Consulting Services
@@ -63,68 +99,67 @@ Manages sales strategies, client relationships, and business solutions to drive 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能非欧盟公民，需年薪≥53,000欧元（2025标准），合同期≥1年。 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，年薪≥36,708欧元（2025标准），有效期4年。 |
-| Subclass Salarié（Employee Work Permit） | 常规工作居留，需法国公司担保，年薪通常≥SMIC（21,203欧元）。 |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, requires annual salary ≥ €53,000 (2025 standard), contract duration ≥ 1 year. |
+| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, annual salary ≥€36,708 (2025 standard), valid for 4 years. |
+| Subclass Salarié (Employee Work Permit) | Regular work residence permit requires sponsorship by a French company, annual salary usually ≥ SMIC (€21,203). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Management and Business Engineering？**
-- 善于沟通、谈判和客户关系管理的人士
-- 具备战略思维和数据分析能力的人才
-- 适应高绩效目标、喜欢挑战的销售精英
-
-**谁不适合学Sales Management and Business Engineering？**
-- 厌恶业绩压力和不稳定收入的人群
-- 偏好技术性工作、不擅长人际关系者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals skilled in communication, negotiation, and client relationship management
+- Talents with strategic thinking and data analysis skills
+- Sales elites who meet high performance goals and enjoy challenges
+
+**Who is not suited**
+- People who dislike performance pressure and unstable income
+- Prefer technical work, not good at interpersonal relationships.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for Sales Management and Business Engineers?**
+A: Entry-level is about 35,000-45,000 euros, intermediate 45,000-65,000 euros, and senior grades can exceed 90,000 euros, all excluding performance bonuses.
+
+**Q: Which visas can non-EU applicants use to pursue this profession?**
+A: Main pathways include EU Blue Card (annual salary ≥€53,000), Talent Passport (annual salary ≥€36,708), or regular work residence (sponsored by a French company).
+
+**Q: What are the career prospects for this occupation?**
+A: With the growing demand for digital transformation and B2B services, you can be promoted to Sales Director or Vice President of Business, or shift to consulting or entrepreneurship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Sales Management and Business Engineering的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Sales Management and Business Engineering?**
-答：Junior: €35,000-45,000; Mid-level: €45,000-65,000; Senior: up to €90,000+ (before bonuses).
-
-**问：Which visas allow non-EU applicants to work in this occupation?**
-答：Main options: EU Blue Card (salary ≥€53,000), Talent Passport (≥€36,708), or standard work permit (employer-sponsored).
-
-**问：What are the career prospects?**
-答：Growing demand due to digital transformation. Career path: Sales Rep → Key Account Manager → Sales Director → VP of Business.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

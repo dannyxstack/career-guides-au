@@ -1,61 +1,94 @@
-# Public Administration Licensing Support Professionals（Public Administration Licensing Support Professionals）职业分析 · ES
+# Public Administration Licensing Support Professionals — career analysis · Spain
 
-**职业代码：3623 – Public Administration Licensing Support Professionals。**
+**Occupation code: 3623 (CNO)**
 
-Assist the public in obtaining government licenses and permits (e.g., business licenses, building permits, driver's licenses), including document review, process guidance, information inquiries, and file management, ensuring compliance and efficiency.
+Assist the public in handling various government permits (such as business licenses, building permits, driver's licenses, etc.), including material review, process guidance, information inquiry, and document archiving, ensuring administrative procedures are compliant and efficient.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等职业教育（FP Grado Superior） | 2年 | —（公立FP学费低，约为0-500欧元/年；私立约2000欧元/年） |
-| 大学本科（Grado） | 4年 | $1,000~$5,000（公立大学约1000-2000欧元/年；私立约5000欧元/年） |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public FP tuition is low, about 0-500 euros per year; Private tuition costs about 2000 euros per year) |
+| Undergraduate (Grado) | 4 years | $1,000~$5,000 (Public universities about EUR 1,000-2,000/year; private about EUR 5,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 公共行政或相关专业学位 | 西班牙大学或FP中心 | 可选 | 通常要求行政管理、法律或类似专业背景 |
-| 公务员招录考试（Oposición） | 西班牙政府 | 可选 | 进入固定编制需通过竞争性考试，非强制但常见 |
-| 行政流程培训证书 | 国家行政学院（INAP）或地方机构 | 可选 | 有助于提升效率，非强制 |
+| Degree in Public Administration or a related major | Spanish universities or FP centers | Optional | Usually, a background in administrative management, law, or a similar field is required |
+| Civil Service Recruitment Examination (Oposición) | Spanish government | Optional | Entering a fixed establishment requires passing a competitive exam; it is not mandatory but common |
+| Administrative process training certificate | National Academy of Administration (INAP) or local institutions | Optional | Helps improve efficiency and is not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。西班牙各级政府持续推进数字化转型，但线下窗口服务需求依然存在。岗位相对稳定，受财政紧缩影响增长缓慢，预计年均小幅波动。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Governments at all levels in Spain continue to promote digital transformation, but demand for offline window services remains. Positions are relatively stable, but growth is slow due to fiscal tightening, with expected slight fluctuations on average year.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含临时合同 |
-| 中级（4-7年） | $22,000~$28,000 | 税前年薪，含长期合同 |
-| 高级（8年以上） | $28,000~$35,000 | 税前年薪，含主管级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including temporary contracts |
+| Mid-level (4-7 years) | $22,000~$28,000 | Pre-tax annual salary, including long-term contracts |
+| Senior (8+ years) | $28,000~$35,000 | Pre-tax annual salary, including supervisor level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 可从基层办事员晋升至团队主管或部门协调员，也可转向公共管理、政策分析或政务数字化岗位。需积累行政经验并通过内部竞争上岗。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI will significantly automate document review and process guidance tasks, but humans still have advantages in complex communication and decision-making responsibilities; This profession is a mixed bag.
+
+You can be promoted from grassroots clerk to team leader or department coordinator, or transition to public administration, policy analysis, or government digitalization roles. Administrative experience must be accumulated and candidates must be hired through internal competition.
+
+**Tasks most exposed to AI:**
+
+- Automatically review the completeness of standard application forms and attachments
+- Use chatbots to answer common process questions
+- Electronic files are automatically archived and statistical reports are generated
+- Missing materials are automatically identified based on rules and applicants are notified
+
+**Where AI augments the role:**
+
+- AI-assisted rapid retrievals of complex regulations improve answer accuracy
+- AI analyzes historical cases, optimizes processes, and provides personalized guidance
+- AI-generated multilingual material summaries serve diverse applicants
+- AI predicts peak periods to assist resource allocation
+
+**Human moat:**
+
+- Handling non-standard, ambiguous, or gray area applications
+- Face-to-face communication and emotional comfort
+- Explain policy changes and provide compliance recommendations
+- Ultimate approval responsibility and authority in regulatory interpretation
+
+**Skills to build:**
+
+- Use of AI tools (such as natural language queries, automated process software)
+- Interpreting complex regulations and communicating policies
+- Data analysis and basic statistics
+- Digital document management and information security
+- Cross-cultural communication and conflict mediation
+- Basic programming concepts (such as RPA maintenance)
+
+**Key growth areas:**
 
 - Administrative Support
 - Public Sector
@@ -64,65 +97,67 @@ Assist the public in obtaining government licenses and permits (e.g., business l
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit (employed)） | 需西班牙雇主担保，证明该职位无法由本地或欧盟公民填补，通常要求大学学历或同等经验。 |
-| Subclass Busqueda empleo（Job search visa） | 允许在西班牙居留并寻找工作，有效期最长12个月，需有足够经济能力。 |
+| Subclass Cuenta ajena (Work permit (employed)) | A Spanish employer sponsor is required, proving that the position cannot be filled by local or EU citizens, usually requiring a university degree or equivalent experience. |
+| Subclass Busqueda empleo (Job search visa) | Allowing residence and job hunting in Spain for a maximum period of 12 months, requiring sufficient financial capability. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Public Administration Licensing Support Professionals？**
-- 喜欢稳定工作环境、注重流程合规的人
-- 对公务员体系感兴趣、愿意参加公开招考的人
-- 具备良好沟通和文档管理能力的人
+**Who is suited**
+- People who prefer a stable work environment and focus on process compliance
+- Interested in the civil service system and willing to participate in open recruitment
+- Individuals with good communication and document management skills
 
-**谁不适合学Public Administration Licensing Support Professionals？**
-- 追求高薪和快速晋升的人
-- 不喜欢重复性文书工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive clerical work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: Entry-level salaries are about 18,000-22,000 euros, mid-level salaries about 22,000-28,000 euros, and senior managers can earn up to 35,000 euros. Compared to private companies, the position is lower than the same but the job is stable.
+
+**Q: Is it easy for non-EU citizens to obtain a work visa for this position?**
+A: Difficult. Because this position is public service support, it usually requires fluency in Spanish, and employers must prove they cannot find locals. Non-urgently needed occupations have lower visa approval rates.
+
+**Q: What promotion paths are available?**
+A: You can be promoted to team leader, department coordinator, or to a higher-level civil servant through internal examinations. You can also move to government digitalization or policy analysis positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Public Administration Licensing Support Professionals属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level annual salary is around €18,000-22,000, mid-level €22,000-28,000, and senior supervisors up to €35,000. Lower than private sector but stable.
-
-**问：Is it easy for non-EU citizens to get a work visa for this job?**
-答：Difficult. It requires fluent Spanish and employers must prove no local candidate exists. Not a shortage occupation, visa approval rate is low.
-
-**问：What are the career advancement paths?**
-答：Opportunities include team supervisor, department coordinator, or moving to higher-level civil service via exams. Also possible to transition to digital government or policy analysis.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

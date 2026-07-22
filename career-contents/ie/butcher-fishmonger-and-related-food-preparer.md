@@ -1,60 +1,96 @@
-# Butcher, Fishmonger and Related Food Preparer（Butcher, Fishmonger and Related Food Preparer）职业分析 · IE
+# Butcher, Fishmonger and Related Food Preparer — career analysis · Ireland
 
-**职业代码：7511 – Butcher, Fishmonger and Related Food Preparer。**
+**Occupation code: 7511 (ISCO08)**
 
-This occupation covers slaughtering, fish processing, meat cutting and packaging, typically in retail shops, supermarkets or food processing plants, preparing and selling raw meat and seafood.
+This occupation covers slaughtering, fish processing, food cutting, and packaging, typically preparing and selling raw meat and seafood in retail stores, supermarkets, or food processing plants.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（通过SOLAS或雇主提供，通常免费） |
-| 职业培训证书 | 6个月至1年 | $200~$1,000（由ETB或私立培训机构提供） |
+| Apprenticeship | 2-4 years | $0~$500 (Provided through SOLAS or employer, usually free) |
+| Vocational training certificate | 6 months to 1 year | $200~$1,000 (Provided by ETB or private training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全与卫生证书 | FETAC/QQI | 必备 | 基本要求，证明食品安全知识 |
-| 屠夫高级证书 | SOLAS | 可选 | 提升技能和就业机会 |
+| Food safety and sanitation certificate | FETAC/QQI | Required | Basic requirement, proof of food safety knowledge |
+| Advanced butcher certificate | SOLAS | Optional | Skill improvement and job opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。爱尔兰食品零售业稳定，但自动化趋势和进口竞争可能压制需求。熟练屠夫仍有就业机会，尤其在特色肉铺和高端市场。整体就业增长预计较缓。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Ireland's food retail sector is stable, but automation trends and import competition may suppress demand. Skilled butchers still have job opportunities, particularly in specialty butcher shops and high-end markets. Overall employment growth is expected to be slow.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $35,000~$45,000 | 税前年薪 |
+| Median salary | $31,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $35,000~$45,000 | Annual pre-tax salary |
+| average salary | $32,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从学徒或初级工人开始，通过积累经验可晋升为高级屠夫、部门主管或店长。也可转向食品检验、批发管理或自主创业开设肉铺。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly reduce butcher positions, especially in human-machine collaborative cutting, inventory management, and hygiene monitoring; entry-level cutting worker demand decreases, but high-end custom and quality inspection roles still have human advantages.
+
+Start as an apprentice or entry-level worker, progress to senior butcher, department supervisor, or store manager through experience. Also transition to food inspection, wholesale management, or start your own butcher shop.
+
+**Tasks most exposed to AI:**
+
+- Standard carcass cutting and deboning (AI vision + robots can execute precisely)
+- Inventory management and order processing (AI prediction system automatically optimizes)
+- Hygiene monitoring and recording (AI sensors detect in real time)
+- Repetitive weighing and packaging (automated production line)
+- Basic quality inspection (AI visual defect detection)
+
+**Where AI augments the role:**
+
+- High-end custom cutting and precision slitting (AI provides cutting plans, humans execute)
+- Customer service and customized meat recommendations (AI analyzes preferences, human communication)
+- Supply chain and inventory optimization decisions (AI provides data, humans adjust)
+- Quality control and anomaly handling (AI warning, human judgment)
+- Train and mentor new employees (AI simulation training, human knowledge transfer)
+
+**Human moat:**
+
+- Complex handcraft skills and experience (e.g., custom cutting in top restaurants)
+- Sensory evaluation of meat quality (sight, touch, smell)
+- Customer relationship and trust building
+- Real-time flexible response to unexpected issues (e.g., equipment malfunctions)
+- Assumption of compliance and legal responsibilities
+
+**Skills to build:**
+
+- AI-assisted cutting and robotic operation skills
+- Use of data analysis and inventory management software.
+- Advanced boning and fine cutting manual skills
+- Food safety regulations and certification knowledge.
+- Customer communication and customized service skills
+- machine maintenance and basic troubleshooting
+
+**Key growth areas:**
 
 - Retail demand
 - Artisan butchery
@@ -63,62 +99,64 @@ This occupation covers slaughtering, fish processing, meat cutting and packaging
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass EU Freedom of Moveme（EU Freedom of Movement） | 欧盟/EEA公民可自由工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Butcher, Fishmonger and Related Food Preparer？**
-- 动手能力强的人
-- 能接受体力劳动和早班的人
-- 对食品行业有兴趣的人
+**Who is suited**
+- People with strong hands-on skills
+- People able to handle physical labor and early shifts
+- people interested in the food industry
 
-**谁不适合学Butcher, Fishmonger and Related Food Preparer？**
-- 不愿接触生肉或血腥环境的人
-- 追求高薪和白领工作的人
+**Who is not suited**
+- People who are unwilling to handle raw meat or bloody environments
+- People pursuing high salaries and white-collar jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a butcher in Ireland?**
+A: Junior butcher annual salary approx. €22,000-28,000; senior butcher up to €35,000-45,000.
+
+**Q: How can non-EU citizens immigrate to Ireland as butchers?**
+A: This occupation is not on the shortage list. A general employment permit is available with employer sponsorship and a salary of at least €30,000 per year.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Butcher, Fishmonger and Related Food Preparer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a butcher in Ireland?**
-答：Entry-level butchers earn around €22,000-€28,000 per year, while experienced ones can reach €35,000-€45,000.
-
-**问：How can non-EU citizens immigrate as a butcher to Ireland?**
-答：This occupation is not on the critical skills list, so a General Employment Permit is required, with employer sponsorship and a salary threshold of €30,000.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

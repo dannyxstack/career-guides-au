@@ -1,60 +1,96 @@
-# Messenger, Package Deliverer and Luggage Porter（Messenger, Package Deliverer and Luggage Porter）职业分析 · IE
+# Messenger, Package Deliverer and Luggage Porter — career analysis · Ireland
 
-**职业代码：9621 – Messenger, Package Deliverer and Luggage Porter。**
+**Occupation code: 9621 (ISCO08)**
 
-Deliver messages, small parcels on foot or by vehicle, and transport luggage for guests in hotels, stations, or airports. The role is supported by Ireland's e-commerce and logistics sector but faces challenges from automated delivery technologies.
+Responsible for delivering letters and small parcels on foot or by vehicle, or handling guest luggage at hotels, stations, and airports. This occupation has stable demand driven by logistics and e-commerce in Ireland, but faces challenges from automated delivery technology.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业 | 无需高等教育 | —（无学费） |
-| 在职培训 | 1-2周 | —（雇主提供或自费安全培训） |
+| Junior high school graduation | No higher education required | $0~$0 (No tuition fees) |
+| On-the-job training | 1-2 weeks | $0~$500 (Employer-provided or self-funded safety training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训 | 雇主或行业机构 | 必备 | 包括手动搬运和交通安全 |
-| 驾驶执照（如适用） | Road Safety Authority (RSA) | 可选 | 需持有欧盟或爱尔兰有效驾照 |
+| Basic safety training | Employer or industry body | Required | Includes manual handling and traffic safety. |
+| Driver's license (if applicable) | Road Safety Authority (RSA) | Optional | Must hold a valid EU or Irish driving license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。爱尔兰电商持续增长，带动快递需求上升。然而，无人配送和自动化仓储可能在未来十年内替代部分低技能岗位。岗位流动性较高，多为兼职或临时工。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. Continued growth of Ireland's e-commerce is driving demand for courier services. However, unmanned delivery and automated warehousing may replace some low-skilled jobs in the next decade. Job mobility is high, with many roles being part-time or temporary.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $22,000~$26,000 | 税前年薪，最低工资约22,000欧元 |
-| 中级（3-5年） | $26,000~$30,000 | 含经验及加班补贴 |
-| 高级（5年以上/主管） | $30,000~$36,000 | 含调度或团队管理职责 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $22,000~$26,000 | Pre-tax annual salary, minimum wage around 22,000 euros |
+| Mid-level (3–5 years) | $26,000~$30,000 | including experience and overtime allowances |
+| Senior (5+ years / supervisor) | $30,000~$36,000 | Includes scheduling or team management responsibilities |
+| average salary | $28,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级递送员可升为团队主管或调度员；部分人转向专业物流司机或仓库管理。积累经验后，可考取货车驾照从事货运。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Messengers, couriers and baggage handlers have stable jobs due to logistics and e-commerce demand, but automated delivery technologies (e.g., drones, autonomous vehicles) are gradually replacing some delivery tasks, while digital tools (route optimization, automated sorting) boost efficiency, lowering entry barriers but upgrading skill requirements—a mixed outlook.
+
+Junior couriers can advance to team supervisor or dispatcher; some transition to professional logistics drivers or warehouse management. With experience, can obtain a truck license for freight transport.
+
+**Tasks most exposed to AI:**
+
+- Using drones or autonomous vehicles for parcel delivery
+- Sorting parcels by route using an automated sorting system
+- Optimize delivery sequence and routes using an AI route planning system
+- Transport luggage using robotic carts in hotels/airports
+- Replace manual confirmation with electronic sign-off and automatic notification systems
+
+**Where AI augments the role:**
+
+- Plan optimal routes using AI navigation and real-time traffic data to improve efficiency
+- Use handheld terminals or smart glasses to receive instructions, scan packages, and record signatures
+- Predict parcel volume using customer management software to optimize scheduling and resource allocation
+- Automated baggage labeling systems reduce manual data entry errors
+- Utilize chatbots to handle customer inquiries and complaints, assisting human service
+
+**Human moat:**
+
+- Ability to handle complex traffic conditions and emergency situations
+- Provide personalized, warm service (e.g., special package handling, customer communication)
+- Human decision-making ability in signal-free or complex environments
+- Experience in handling and safe operation of heavy or fragile items
+- Ability to coordinate multiple tasks and adapt to ad hoc changes
+
+**Skills to build:**
+
+- Learn to use logistics management software and handheld terminal devices
+- Proficient in GPS navigation and traffic big data analysis tools
+- Understanding automated delivery system operation and anomaly handling
+- Improve customer service and communication skills
+- Obtain specialized qualifications in cold chain or dangerous goods transport
+- Learn basic data entry and analysis skills
+
+**Key growth areas:**
 
 - E-commerce growth
 - Last-mile delivery
@@ -63,65 +99,67 @@ Deliver messages, small parcels on foot or by vehicle, and transport luggage for
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪达30,000欧元及以上的非紧缺职业岗位。通常需雇主担保。 |
-| Subclass EU Freedom of Moveme（EU/EEA/Swiss Free Movement） | 欧盟/欧洲经济区/瑞士公民可自由居住和工作，无需签证。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand roles with an annual salary of €30,000 or more. Employer sponsorship is typically required. |
+| Subclass EU Freedom of Moveme (EU/EEA/Swiss Free Movement) | EU/EEA/Swiss citizens can freely live and work without a visa. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Messenger, Package Deliverer and Luggage Porter？**
-- 身体健康，能承受长时间步行或站立
-- 熟悉当地路线，具备基本英语沟通能力
-- 适应灵活工作时间，包括周末和节假日
+**Who is suited**
+- Physically fit, able to endure long periods of walking or standing
+- Familiar with local routes; basic English communication skills
+- Adapt to flexible working hours, including weekends and holidays
 
-**谁不适合学Messenger, Package Deliverer and Luggage Porter？**
-- 不擅长体力劳动或户外工作
-- 寻求高收入或晋升空间有限的职业
+**Who is not suited**
+- Not good at physical labor or outdoor work
+- Careers with limited high income or promotion prospects
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a delivery driver?**
+A: Entry-level approx. €22,000-€26,000, supervisors up to €36,000. Income varies with experience and overtime.
+
+**Q: Can non-EU citizens immigrate to Ireland through this job?**
+A: Difficult. This occupation does not qualify for a critical skills permit; a general employment permit is required, with an annual salary of at least €30,000, and the employer must demonstrate a shortage of EU labor.
+
+**Q: What career advancement opportunities are available for delivery drivers?**
+A: Can be promoted to dispatcher or warehouse supervisor, or become a professional truck driver through training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Messenger, Package Deliverer and Luggage Porter属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a messenger/delivery person?**
-答：Entry-level around €22,000-€26,000, up to €36,000 for supervisors. Earnings vary with experience and overtime.
-
-**问：Can non-EU nationals immigrate to Ireland through this job?**
-答：Difficult. Not eligible for Critical Skills Permit; requires General Employment Permit with €30,000 salary threshold and labor market test.
-
-**问：What are the career advancement opportunities for a messenger?**
-答：Can progress to dispatcher or warehouse supervisor, or train to become a professional truck driver.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

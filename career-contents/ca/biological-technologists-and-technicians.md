@@ -1,58 +1,94 @@
-# Biological technologists and technicians（Biological technologists and technicians）职业分析 · 加拿大
+# Biological technologists and technicians — career analysis · Canada
 
-**职业代码：22110 – Biological technologists and technicians。**
+**Occupation code: 22110 (NOC)**
 
-Provide technical support in labs or research facilities assisting scientists with experiments, sample analysis, and equipment maintenance; eligible for economic immigration programs like Express Entry or PNP.
+Provides technical support in laboratories or research institutions, assisting scientists with experiments, sample analysis, equipment maintenance, etc. Eligible for skilled migration or state nomination.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大专或大学本科 | 2-4年 | $15,000~$40,000（加拿大公立学院或大学学费，国际生更高） |
+| Diploma or bachelor's degree | 2-4 years | $15,000~$40,000 (Tuition fees at Canadian public colleges/universities are higher for international students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学历认证（ECA） | WES或IQAS | 必备 | 移民必需，用于证明海外学历等同于加拿大学历 |
-| 语言考试（雅思或CELPIP） | IELTS或CELPIP | 必备 | 移民必需，通常要求CLB 7 |
-| 生物技术员认证（可选） | 加拿大科学技术协会（CSCT） | 可选 | 非强制，但有助于就业 |
+| Educational credential assessment (ECA) | WES or IQAS | Required | Mandatory for immigration, used to prove that overseas qualifications are equivalent to Canadian qualifications |
+| Language test (IELTS or CELPIP) | IELTS or CELPIP | Required | Mandatory for immigration, typically requires CLB 7 |
+| Biotechnician certification (optional) | Canadian Society for Science and Technology (CSCT) | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 15,000。加拿大生物技术行业稳步增长，尤其在制药、医疗和环境领域，就业前景良好。大城市的科研中心和生物科技公司需求较高。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 15,000. Canada's biotechnology industry is steadily growing, especially in pharmaceuticals, healthcare, and the environment, with good job prospects. Demand is higher in research centres and biotech companies in major cities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 安大略省和BC省略高 |
-| 中级（3-6年） | $42,000~$55,000 | 包括实验操作和数据分析技能 |
-| 高级（6年以上） | $55,000~$70,000 | 管理或专业职位可达更高 |
+| Median salary | $60,570 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$42,000 | High in Ontario and BC |
+| Mid-level (3–6 years) | $42,000~$55,000 | Includes experimental operation and data analysis skills |
+| Senior (6+ years) | $55,000~$70,000 | Management or professional positions can reach higher |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从初级技术员晋升为高级技术员、实验室主管，或转向研究助理、质量控制职位。继续教育或认证有助于职业发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Biotechnician work has mixed prospects: routine experiments and data processing are easily automated by AI, but experimental design, equipment maintenance, and cross-team collaboration still require human judgment. Entry-level positions face compression risks, but mastering AI tools can improve efficiency and shift towards core research.
+
+Can progress from junior technician to senior technician, lab supervisor, or move into research assistant or quality control roles. Continuing education or certification helps career development.
+
+**Tasks most exposed to AI:**
+
+- Laboratory automation equipment takes over repetitive operations such as pipetting and sample aliquoting
+- AI image analysis software automatically identifies cell counts and morphology under a microscope
+- Cloud-based LIMS system automatically records, organizes, and archives experimental data
+- Analyze sequencing and proteomics data directly using machine learning-based bioinformatics tools
+- Standardized processes like PCR and ELISA are performed by automated workstations
+
+**Where AI augments the role:**
+
+- AI-assisted experiment design: optimize experimental parameters using molecular simulation and literature mining
+- AI-driven anomaly detection: automatically identifies outliers in experimental data, accelerating problem localization.
+- Collaborative robots enhance high-precision operations: e.g., micropipetting in sterile environments
+- Quickly query experimental plans and results through a natural language interface to improve work efficiency
+- AI predictive models assist in interpreting complex biological data (e.g., multi-omics associations)
+
+**Human moat:**
+
+- Ability to innovate and optimize experimental protocols, especially in non-standard experiments
+- Cross-disciplinary communication and teamwork, coordinating scientists, engineers, and management
+- Equipment fault diagnosis and manual maintenance, dealing with unexpected automation system crashes
+- Ethical and compliance judgment (e.g., in experiments involving human samples or gene editing)
+- Temporary adaptability, e.g., handling rare samples or non-standard procedures
+
+**Skills to build:**
+
+- Python/R programming and bioinformatics tools (e.g., Bash, Galaxy)
+- Operation and programming of laboratory automation systems (e.g., Opentrons, Tecan)
+- Machine learning basics and their application in biological data analysis
+- Experimental design software (e.g., DOE) and statistical methods (e.g., multiple test correction)
+- Cross-disciplinary collaboration tools (e.g., Git, Slack) and project management skills
+- Explainable AI and experimental data quality management.
+
+**Key growth areas:**
 
 - Express Entry STEM
 - Provincial Nominee
@@ -61,65 +97,64 @@ Provide technical support in labs or research facilities assisting scientists wi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 联邦快速通道，适合年龄较轻、语言能力强的申请人，通过联邦技术移民或加拿大经验类移民 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名计划，如安大略省、BC省、阿尔伯塔省等，针对有当地雇主offer或相关经验者 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋移民计划，适合在海洋四省获得雇主offer的技术工人 |
+| Subclass EE (Express Entry (FSW/CEC)) | Federal Express Entry, suitable for younger applicants with strong language skills, through the Federal Skilled Worker Program or Canadian Experience Class. |
+| Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs, such as those in Ontario, BC, Alberta, etc., for candidates with a local employer offer or relevant experience. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers who have a job offer from an employer in the four Atlantic provinces |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biological technologists and technicians？**
-- 有实验室工作经验，注重细节的人
-- 希望在生命科学领域发展的人
-- 愿意通过移民途径在加拿大定居的人
-
-**谁不适合学Biological technologists and technicians？**
-- 不喜欢重复性实验操作的人
-- 对生物技术行业兴趣不大的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented with laboratory experience
+- Individuals aiming for a career in life sciences
+- people willing to settle in Canada through immigration pathways
+
+**Who is not suited**
+- Those who dislike repetitive experimental operations
+- People not very interested in the biotechnology industry
+
+---
+
+## 8. FAQ
+
+**Q: How much do biotechnology technicians earn in Canada?**
+A: Junior approx. CAD 32,000–42,000, mid-level CAD 42,000–55,000, senior CAD 55,000–70,000, depending on province and experience.
+
+**Q: Is it easy for a biotechnician to immigrate to Canada?**
+A: Skilled occupation, can immigrate via EE or PNP, but requires qualification assessment, language, and work experience; competition is moderate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Biological technologists and technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for biological technologists in Canada?**
-答：Entry-level around CAD 32,000-42,000, mid-level 42,000-55,000, senior 55,000-70,000, varying by province and experience.
-
-**问：Is it easy for biological technologists to immigrate to Canada?**
-答：It is a skilled occupation eligible for EE or PNP, but requires ECA, language proficiency, and work experience; competition is moderate.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Flight Attendants and Cabin Crew (Air, Sea, Rail)（Flight Attendants and Cabin Crew (Air, Sea, Rail)）职业分析 · ES
+# Flight Attendants and Cabin Crew (Air, Sea, Rail) — career analysis · Spain
 
-**职业代码：5821 – Flight Attendants and Cabin Crew (Air, Sea, Rail)。**
+**Occupation code: 5821 (CNO)**
 
-Provide safety and cabin service to passengers on aircraft, ships, or trains, including safety checks, meal service, and emergency procedures.
+Providing safety and cabin services to passengers on planes, ships, or trains, including security checks, catering services, and emergency handling.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Superior en Azafata de Vuelo | 2年 | $3,000~$8,000（私立飞行学校费用较高，公立FP费用较低。） |
-| 大学本科（旅游业相关） | 4年（Grado） | $1,000~$3,000（公立大学学费低廉，私立大学更高。） |
+| FP Grado Superior en Azafata de Vuelo | 2 years | $3,000~$8,000 (Private flight schools are more expensive, while public FPs are less expensive.) |
+| Bachelor's degree (related to tourism) | 4 years (Grado) | $1,000~$3,000 (Public universities have lower tuition fees, while private universities offer even higher fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 空乘资格证（Cabin Crew Attestation） | AESA（西班牙国家航空安全局） | 必备 | 通过培训后获得，全球认可。 |
-| 急救证书（First Aid） | 红十字会或认可机构 | 可选 | 部分航空公司要求持有。 |
+| Cabin Crew Attestation | AESA (Spanish National Aviation Safety Agency) | Required | Obtained through training, globally recognized. |
+| First Aid Certificate | Red Cross or accredited organizations | Optional | Some airlines require holding one. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙旅游业强劲，航空和铁路客运需求持续增长，但受季节性波动影响。预计未来五年岗位增长稳定，但竞争激烈。
+**Job demand: medium (★★★☆☆).** National workforce approx. 35,000. Spain's tourism industry is strong, with continued growth in air and rail passenger demand, but it is affected by seasonal fluctuations. Job growth is expected to remain stable over the next five years, but competition will be fierce.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税后月薪约1200-1600欧元，含飞行补贴。 |
-| 中级（3-7年） | $25,000~$35,000 | 税后月薪约1700-2300欧元，含补贴。 |
-| 高级（7年以上/乘务长） | $35,000~$50,000 | 税后月薪约2300-3300欧元，资深国际航线更高。 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | The after-tax monthly salary is about 1200-1600 euros, including flight allowances. |
+| Mid-level (3–7 years) | $25,000~$35,000 | The after-tax monthly salary is about 1,700-2,300 euros, including subsidies. |
+| Senior (7 years or more / Chief Flight Attendant) | $35,000~$50,000 | After-tax monthly salary is about 2,300-3,300 euros, with higher salaries for senior international routes. |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级乘务员可晋升为乘务长、客舱经理，或转向地面服务、培训师等管理岗位。需积累飞行小时数和语言能力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Due to the popularization of AI self-checking, intelligent customer service, and automated security demonstrations, demand for basic service positions has shrunk, but safety emergency response and humanized care roles still exist.
+
+Junior crew members can be promoted to chief purser, cabin manager, or move to management positions such as ground service or trainer. Flight hours and language skills must be accumulated.
+
+**Tasks most exposed to AI:**
+
+- Automated security inspection demonstration and voice broadcast
+- AI customer service handles common passenger inquiries and complaints
+- Self-service ordering and intelligent food delivery
+- Electronic boarding passes and automatic seat guidance
+- Flight information is automatically pushed and updated
+
+**Where AI augments the role:**
+
+- AI-assisted passenger sentiment monitoring and service optimization
+- Intelligent translation devices improve multilingual communication efficiency
+- Real-time, data-driven personalized dining recommendations
+- Virtual reality simulation training enhances emergency response capabilities
+- AI-based predictive maintenance reduces cabin equipment failures
+
+**Human moat:**
+
+- Decision-making and team coordination in emergencies
+- Intuitive interpretation of passengers' nonverbal signals
+- Emotional support and crisis psychological comfort
+- Ability to handle complex medical events
+- Cultural sensitivity and personalized service
+
+**Skills to build:**
+
+- Advanced First Aid and Medical Response Certification
+- Multilingual communication and cross-cultural service skills
+- AI-assisted operation of the cabin management system
+- Emotional intelligence and conflict mediation training
+- Data Analysis Basics (Passenger Preferences and Service Optimization)
+- Customer Experience Management (CEM) methodology
+
+**Key growth areas:**
 
 - Tourism recovery
 - Low-cost airlines expansion
@@ -63,65 +99,67 @@ Provide safety and cabin service to passengers on aircraft, ships, or trains, in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需西班牙雇主担保，符合劳动市场测试。非欧盟公民较难获得，通常需先在西班牙留学或有家庭联系。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能职业，但空乘通常不满足高技能门槛（薪资要求约33,000欧元/年）。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Spanish employer sponsorship required, subject to labor market testing. Non-EU citizens are harder to obtain and usually need to study in Spain or have family connections first. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled professions, but flight attendants usually do not meet the high skill threshold (salary requirement is about 33,000 euros per year). |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Flight Attendants and Cabin Crew (Air, Sea, Rail)？**
-- 喜欢旅行、善于沟通和服务的人士
-- 具有良好外语能力（特别是英语）的人
-- 能在高压工作环境下保持冷静和热情的人
+**Who is suited**
+- People who enjoy traveling, are good at communication, and serve others
+- Individuals with good foreign language skills (especially English).
+- Someone who can remain calm and enthusiastic in a high-pressure work environment
 
-**谁不适合学Flight Attendants and Cabin Crew (Air, Sea, Rail)？**
-- 不习惯频繁出差和不规律作息的人
-- 对恶劣天气或飞行恐惧者
+**Who is not suited**
+- People who are not used to frequent business trips and irregular schedules
+- For those who fear severe weather or flying
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for flight attendants in Spain?**
+A: Junior flight attendants earn about 18,000-24,000 euros (before tax) annually, intermediate salaries rise to 25,000-35,000 euros, and chief flight attendants can earn 35,000-50,000 euros. Salary includes base salary and flight allowance.
+
+**Q: Can non-EU citizens work as flight attendants in Spain?**
+A: It's very difficult. Flight attendant positions usually only hire EU citizens or those holding long-term Spanish residency. The pathway to skilled migration is limited because salaries do not meet the high skill threshold, and employers must prove that suitable candidates cannot be found within the EU.
+
+**Q: What is the career development path for flight attendants in Spain?**
+A: Starting as a flight attendant, you can be promoted to chief purser, cabin manager, and then move on to ground training, quality management, or management positions. Accumulating experience and language skills is key.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Flight Attendants and Cabin Crew (Air, Sea, Rail)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of flight attendants in Spain?**
-答：Entry-level flight attendants earn around €18,000-€24,000 gross annually, rising to €25,000-€35,000 for mid-level, and €35,000-€50,000 for senior pursers. Includes base salary and flight allowances.
-
-**问：Can non-EU citizens work as flight attendants in Spain?**
-答：Very difficult. Airlines usually hire EU citizens or those with long-term Spanish residence. Work permits are hard to obtain due to salary thresholds and labor market tests.
-
-**问：What is the career path for flight attendants in Spain?**
-答：Start as cabin crew, then progress to purser, cabin manager, and move into ground training, quality, or management roles. Experience and language skills are key.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,95 @@
-# Museum and Exhibition Technician（Museum and Exhibition Technician）职业分析 · DE
+# Museum and Exhibition Technician — career analysis · Germany
 
-**职业代码：9471 – Museum and Exhibition Technician。**
+**Occupation code: 9471 (KldB)**
 
-Responsible for technical setup, lighting and sound installation, transport and maintenance of exhibits in museums and exhibitions, ensuring safety and visual impact.
+Responsible for technical setup, lighting and sound installation, exhibit transportation and maintenance at museums and exhibitions, ensuring exhibition safety and effectiveness.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（双元制培训期间企业支付津贴，基本无学费） |
-| 本科（相关领域） | 3-4年 | —（公立大学每学期仅少量注册费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (During dual-system training, companies pay allowances; basically no tuition fees) |
+| Bachelor's degree (related field) | 3-4 years | $0~$1,500 (Public universities charge only a small registration fee per semester.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 双元制培训证书（博物馆技术/展览技术） | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 通常需完成认证的双元制培训 |
-| 学历认证（Anerkennung） | 德国联邦职业教育与培训认证机构（BQFG） | 必备 | 国外学历需经认证，部分情况需额外培训 |
-| 安全许可证（如高空作业） | 德国法定事故保险机构（DGUV） | 可选 | 从事特定技术工作时需持有 |
+| Dual system training certificate (museum technology/exhibition technology) | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Typically requires completing a certified dual vocational training program |
+| Credential recognition (Anerkennung) | German Federal Office for Vocational Education and Training (BQFG) | Required | Foreign qualifications need to be recognized, and additional training may be required in some cases |
+| Safety license (e.g., working at heights) | German Statutory Accident Insurance (DGUV) | Optional | Must hold when performing specific technical work |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。德国文化旅游业持续发展，博物馆和临时展览需求稳定，但受公共预算影响较大。数字化趋势增加了对多媒体技术人员的需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. Germany's cultural tourism industry continues to grow, with stable demand for museums and temporary exhibitions, but heavily influenced by public budgets. Digitalization trends increase demand for multimedia technicians.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 起薪较低，受所在州和机构类型影响 |
-| 中级（4-7年） | $35,000~$42,000 | 经验丰富后薪资提升 |
-| 高级（8年以上） | $43,000~$50,000 | 担任主管或自由职业者可达更高 |
+| Median salary | $50,196 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$34,000 | Starting salary is low, affected by state and institution type |
+| Mid-level (4-7 years) | $35,000~$42,000 | Salary increases with experience |
+| Senior (8+ years) | $43,000~$50,000 | Can reach higher as a supervisor or freelancer |
+| average salary | $54,516 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从技术助理晋升为资深技术员或展览技术主管，部分人转向展览策划或项目管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will take over repetitive tasks such as exhibit data entry and basic lighting and sound programming, but on-site setup, precision exhibit handling, and creative design decisions remain human strengths—the outlook for the role is mixed.
+
+Can progress from technical assistant to senior technician or exhibition technical supervisor, with some shifting to exhibition planning or project management.
+
+**Tasks most exposed to AI:**
+
+- Digital archiving of exhibits and automatic label generation
+- Automatic programming and debugging of basic lighting and sound systems
+- AI analysis of routine exhibition surveillance footage
+- AI planning and scheduling of exhibition transport routes
+
+**Where AI augments the role:**
+
+- AI-assisted design of exhibition layouts and optimization of exhibit placement
+- Utilizing VR/AR for virtual rehearsal and remote collaboration
+- AI real-time monitoring of environmental temperature and humidity to alert on exhibit risks
+- Automatically generate multilingual exhibition tour guides and commentary.
+- Optimizing exhibition route design based on audience behavior data
+
+**Human moat:**
+
+- Physical handling and installation of delicate and high-value exhibits
+- Emergency human judgment and rapid response
+- In-depth communication and creative collaboration with artists and curators.
+- Manual inspection of exhibition safety and fire compliance
+
+**Skills to build:**
+
+- Digital twin and 3D modelling software (e.g., Blender)
+- Basic programming and automation scripts (Python/Arduino)
+- AI tool application (e.g., ChatGPT-assisted writing of exhibition labels)
+- Multimedia interactive technologies (touchscreens, projection mapping)
+- Project management and agile collaboration methods
+- Basics of data visualization and analysis
+
+**Key growth areas:**
 
 - Museum technology
 - Exhibition design
@@ -64,66 +98,65 @@ Responsible for technical setup, lighting and sound installation, transport and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于本科以上学历且薪资达到门槛（2024年约45300欧元），非紧缺职业，薪资要求较高 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需认可的职业资格，有雇主担保 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许来德寻找工作，需证明语言能力等 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with a bachelor's degree or higher and meeting the salary threshold (approx. EUR 45,300 in 2024); not a shortage occupation, salary requirement is higher. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Recognized professional qualification required, with employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa allowing entry to Germany to find work, requiring proof of language skills, etc. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Museum and Exhibition Technician？**
-- 对博物馆和展览技术有浓厚兴趣的人
-- 动手能力强、注重细节的人
-- 愿意接受双元制培训或相关学历的人
-
-**谁不适合学Museum and Exhibition Technician？**
-- 追求高薪或快速晋升的人
-- 不喜欢处理展品运输和安装体力工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For those with strong interest in museum and exhibition technology
+- Hands-on, detail-oriented people
+- Willing to undergo dual-system training or have a relevant qualification
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who dislike handling the physical work of exhibition transport and installation
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for museum and exhibition technicians?**
+A: Starting salary approximately EUR 28,000-34,000, mid-level around EUR 35,000-42,000, senior up to EUR 43,000-50,000. Public sector salaries follow TVöD standards, slightly lower than private sector.
+
+**Q: How can overseas applicants enter this occupation in Germany?**
+A: Must first complete academic/professional qualification recognition or complete dual vocational training. Can enter Germany with an Opportunity Card (Chancenkarte) for job search; switch to a work visa after employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Museum and Exhibition Technician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for museum and exhibition technicians?**
-答：Entry-level salary is about €28,000-34,000, mid-career €35,000-42,000, senior €43,000-50,000. Public sector follows TVöD tariff, slightly lower than private.
-
-**问：How can overseas applicants enter this profession in Germany?**
-答：They need to have their qualifications recognized or complete a dual training program. They can enter with an Opportunity Card (Chancenkarte) to seek a job and then switch to a work visa with employer sponsorship.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

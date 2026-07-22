@@ -1,149 +1,176 @@
-# 保护与控制工程师（Protection & Control Engineer）职业分析 · 澳大利亚
+# Protection & Control Engineer — career analysis · Australia
 
-**职业代码：233311 – Protection & Control Engineer。**
+**Occupation code: 233311-PNC (ANZSCO)**
 
-保护与控制工程师负责电网变电站的继电保护整定、二次系统与自动化设计、SCADA 与 IEC 61850 通信、以及保护系统调试投运，是保障电网安全稳定运行的关键角色。可再生并网与储能/换流站增多，使保护与控制专业需求持续上升。
+Protection and control engineers are responsible for relay protection setting at substations, secondary system and automation design, SCADA and IEC 61850 communication, and protection system commissioning and commissioning, playing a key role in ensuring the safe and stable operation of the power grid. The increase in renewable grid connection and energy storage/converter stations has continuously driven the demand for protection and control expertise.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 电气/电力工程学士（4 年） | 4 年 | $40,000~$160,000（本地生 CSP 约 $40k；国际生约 $140k~$160k） |
-| 继电保护/二次系统专项（IEC 61850、SCADA） | 6~18 个月 | $3,000~$30,000（保护整定与调试核心能力） |
-| Engineers Australia 职业评估 / CPEng | 3~6 个月 | $600~$3,000（移民必须；CPEng 提升资深岗） |
+| Bachelor of Electrical/Electrical Engineering (4 years) | 4 years | $40,000~$160,000 (Local CSPs earn about $40k; International students pay about $140k~$160k) |
+| Relay Protection/Secondary Systems Special Project (IEC 61850, SCADA) | 6~18 months | $3,000~$30,000 (Core capabilities for protection, setting, and commissioning) |
+| Engineers Australia Career Assessment / CPEng | 3~6 months | $600~$3,000 (Immigrants must; CPEng Senior Positions Advanced) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认可电气工程学位 | Engineers Australia | 必备 | 执业与移民评估基础 |
-| 继电保护/IEC 61850/SCADA 能力 | 厂商/项目实践 | 可选 | 保护与控制岗核心竞争力 |
-| CPEng / 高压作业与调试资质 | Engineers Australia / 各州 | 可选 | 现场调试与资深岗常要求 |
+| Recognized degrees in electrical engineering | Engineers Australia | Required | Practice and Immigration Assessment Basics |
+| Relay protection/IEC 61850/SCADA capabilities | Vendor/Project Practice | Optional | Protection and control of the core competitiveness of the position |
+| CPEng / High-voltage operation and commissioning qualifications | Engineers Australia / State | Optional | On-site commissioning and senior job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。电网升级、可再生大规模并网与储能/换流站建设推高保护与控制专业需求，Jobs and Skills Australia 将电气工程列为紧缺，资深继电保护与调试工程师尤为稀缺。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Grid upgrades, large-scale renewable grid connections, and the construction of energy storage/converter stations are driving up the demand for protection and control expertise. Jobs and Skills Australia lists electrical engineering as a shortage, with senior relay protection and commissioning engineers especially in short supply.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 150~500 个 | 保护/控制/二次/继电保护工程师岗 |
-| Indeed | 100~350 个 | 电网公司、咨询与 EPC 岗 |
-| LinkedIn | 200~500 个 | 电网(Transgrid/Powerlink 等)与咨询直招 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级（0~3 年） | $90,000~$115,000 | 参考电气工程与 P&C 起薪 |
-| 中级（3~7 年） | $115,000~$155,000 | P&C 工程师约 $110k~$122k，经验上升更高 |
-| 资深/主任（8 年+） | $155,000~$195,000 | 资深继电保护/调试专家，含现场津贴 |
+| Median salary | $132,756 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Beginner (0~3 years) | $90,000~$115,000 | Refer to Electrical Engineering and P&C starting salaries |
+| Intermediate Level (3~7 years) | $115,000~$155,000 | P&C engineers earn about $110k~$122k, with higher experience levels |
+| Senior/Director (8+) | $155,000~$195,000 | Senior relay protection/commissioning experts, including on-site allowances |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★½）。** 2026 年 IEC 61850 数字化变电站、并网保护与孤岛检测成为重点，懂保护整定与现场调试的工程师供不应求。AI 辅助整定校核，但保护逻辑与安全责任由持证工程师承担。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will not replace protection and control engineers; instead, it will amplify its value: automated tuning calculations and configuration verification will free up energy to focus more on complex system design, new energy integration, and cybersecurity protection, with professional demands continuously rising due to the energy transition.
 
-- 变电站保护整定与继电保护(IEC 61850)
-- SCADA/自动化与二次系统设计
-- 可再生并网保护与孤岛检测
-- 储能/换流站保护与控制
-- 保护系统调试与现场投运
+In 2026, IEC 61850 digital substations, grid connection protection, and islanding detection will become key priorities, and engineers skilled in protection setting and on-site commissioning are in short supply. AI-assisted tuning and verification, but the responsibility for protection logic and security lies with certified engineers.
+
+**Tasks most exposed to AI:**
+
+- Automated calculation and verification of relay protection set sheets
+- Generation and consistency check of substation secondary circuit drawings
+- Automatic configuration and verification of IEC 61850 CID/SCD files
+- Automatic mapping of SCADA system point tables to communication protocols
+- Automated testing of routine debugging steps for protection systems
+
+**Where AI augments the role:**
+
+- AI-assisted fault analysis and post-protection assessment of complex power grids
+- Use digital twins and simulation tools to optimize protection schemes
+- Development of machine learning-based protection strategies for new energy grid connection
+- AI-driven protection system health monitoring and predictive maintenance
+- Rapid retrieval of technical manuals and industry standards for natural language interfaces
+
+**Human moat:**
+
+- On-site experience assessment of old equipment and special working conditions
+- Bear legal and safety responsibilities for protecting power grid accidents caused by false alarms
+- Coordination and communication skills with power grid companies, equipment manufacturers, and other parties
+- Innovative designs for unconventional topologies (such as flexible DC and microgrids).
+- High-risk decision-making and rapid response in accident emergency handling
+
+**Skills to build:**
+
+- IEC 61850 and digital substation configuration tools
+- Python script automation (for tuning calculations and data processing)
+- Power system simulation software (such as PSCAD, DIgSILENT)
+- SCADA/RTU communication protocols and network security fundamentals
+- Knowledge of new energy grid connection protection and energy storage system design
+- The application foundation of AI/ML in fault diagnosis or optimization
+
+**Key growth areas:**
+
+- Substation Protection Settings & Relay Protection (IEC 61850)
+- SCADA/Automation & Secondary System Design
+- Renewable Grid-Connected Protection & Islanding Detection
+- Energy Storage/Converter Station Protection & Control
+- Protection System Commissioning & Field Operation
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand (SID)） | 雇主担保临居；能源/电网/数据中心/半导体企业担保紧缺工程师 |
-| Subclass 186（ENS 雇主提名） | 雇主担保永居（Direct Entry / TRT 通道） |
-| Subclass 189（技术独立） | 邀请制独立技术移民；需 Engineers Australia 职业评估（CDR 或认可学历） |
-| Subclass 190（州/领地提名） | 州提名加 5 分；工程类为多数州紧缺清单常客 |
-| Subclass 491（偏远地区担保） | 偏远地区州提名/亲属担保临居，满足条件后转 191 永居 |
+| Subclass 482 (Skills in Demand (SID)) | Employer-sponsored temporary residence; Energy/grid/data center/semiconductor companies guarantee urgently needed engineers |
+| Subclass 186 (ENS Employer Nomination) | Employer-Sponsored Permanent Residency (Direct Entry / TRT Pathway) |
+| Subclass 189 (Technical independence) | Independent skilled immigrants on an invitation-based basis; Requires Engineers Australia Professional Assessment (CDR or Recognized Qualification) |
+| Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
+| Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR难度：低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学保护与控制工程师？**
-- 电气/电力背景，愿深耕继电保护与二次系统
-- 对 IEC 61850、SCADA、保护整定与现场调试感兴趣
-- 细致严谨，能承担电网安全相关责任
-- 愿意出差做变电站现场调试并考虑移民
-
-**谁不适合学保护与控制工程师？**
-- 排斥现场调试与变电站出差
-- 不擅长细致的保护逻辑与规程工作
-- 电气基础薄弱且无补强意愿
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Background in electrical/power supply, willing to deeply cultivate relay protection and secondary systems
+- Interested in IEC 61850, SCADA, protection tuning, and field commissioning
+- Meticulous and rigorous, capable of undertaking responsibilities related to grid safety
+- Willing to travel for substation on-site commissioning and considering relocation
+
+**Who is not suited**
+- Avoid on-site commissioning and substation business trips
+- Not skilled in detailed protection logic and procedures
+- Weak electrical foundation and no willingness to improve.
+
+---
+
+## 8. FAQ
+
+**Q: How much do protection and control engineers in Australia earn?**
+A: Entry-level: approx $90k-$115k; mid-level: $115k-$155k (P&C engineers start at approx $110k-$122k); senior relay protection/commissioning experts: $155k-$195k, including field allowances.
+
+**Q: Is there a high demand for protection and control engineers?**
+A: Big. The construction of renewable grid connections, energy storage, and converter stations is driving protection and control demands, making experienced setting and on-site commissioning engineers especially scarce.
+
+**Q: Is overseas relay protection experience recognized in Australia?**
+A: Electrical studies are assessed by Engineers Australia; Experience in IEC 61850, SCADA, and protection setting and commissioning is a core plus, and grid and consulting firms are eager to hire them.
+
+**Q: Will it be replaced by AI?**
+A: Low risk. AI-assisted tuning verification and fault analysis, but the responsibility for protection logic design and grid safety is borne by licensed engineers.
+
+**Q: Is skilled immigration possible?**
+A: Yes. Electrical engineering (233311 family) is in short supply, 189/190/482→186 is clear, protecting professional experience and strengthening employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Glassdoor | Protection and Control Engineer AU 约 $110k（$99k~$122k） |
-| Glassdoor AU | Grid Engineer 澳洲均值约 $133,500 |
-| Indeed AU | Power System Engineer 岗位数百个在招 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★★☆☆☆） |
-
-保护与控制工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲保护与控制工程师工资多少？**
-答：初级约 $90k~$115k；中级 $115k~$155k（P&C 工程师约 $110k~$122k 起）；资深继电保护/调试专家 $155k~$195k，含现场津贴。
-
-**问：保护与控制工程师需求大吗？**
-答：大。可再生并网、储能与换流站建设推动保护与控制需求，资深整定与现场调试工程师尤其稀缺。
-
-**问：海外继电保护经验澳洲认可吗？**
-答：电气学历经 Engineers Australia 评估；IEC 61850、SCADA、保护整定与调试经验是核心加分项，电网与咨询公司乐于录用。
-
-**问：会被 AI 替代吗？**
-答：风险低。AI 辅助整定校核与故障分析，但保护逻辑设计与电网安全责任由持证工程师承担。
-
-**问：能技术移民吗？**
-答：能。电气工程(233311 家族)紧缺，189/190/482→186 通畅，保护专业经验强化雇主担保。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower（Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower）职业分析 · 澳大利亚
+# Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower — career analysis · Australia
 
-**职业代码：121512 – Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower。**
+**Occupation code: 121512 (ANZSCO)**
 
-Plans, organizes, and manages farm operations for growing grain, oilseed, pulse, or pasture crops, including land preparation, planting, fertilizing, pest control, and harvesting.
+Responsible for planning, organizing, and managing farm production, growing field crops such as grains, oilseeds, pulses, or forage, including land preparation, sowing, fertilizing, pest and disease control, and harvesting.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书 | 1-2年 | $5,000~$15,000（TAFE等职业院校） |
-| 本科（农业科学） | 3-4年 | $30,000~$45,000（大学学费，每年） |
+| Vocational education certificate | 1-2 years | $5,000~$15,000 (TAFE and other vocational schools) |
+| Bachelor's (Agricultural Science) | 3-4 years | $30,000~$45,000 (University tuition fees, per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农学学位或文凭 | 澳洲大学或TAFE | 可选 | 通常要求相关学历 |
-| 农业技能评估 | Vetassess（职业评估机构） | 必备 | 技术移民需通过 |
-| 化学使用证书 | 各州农业部门 | 必备 | 使用农药需持有 |
+| Agricultural skills assessment | Vetassess (skills assessment authority) | Required | Skilled migration requires passing |
+| Chemical use certificate | State departments of agriculture | Required | Pesticide application requires holding |
+| Degree or diploma in agriculture. | Australian university or TAFE | Optional | Usually requires relevant qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,200。澳洲农业受气候和全球价格影响波动，但长期需求稳定。技术化趋势（精准农业、无人机）提升效率，但初级岗位就业竞争一般。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 15,200. Australian agriculture fluctuates with climate and global prices, but long-term demand is stable. Technological trends (precision agriculture, drones) improve efficiency, but competition for entry-level jobs is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$60,000 | 农场助理或操作员 |
-| 中级（3-7年） | $60,000~$80,000 | 有经验的农场管理者 |
-| 高级（7年以上） | $80,000~$120,000 | 大型农场主或经理 |
+| Median salary | $70,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $48,000~$60,000 | Farm assistant or operator |
+| Mid-level (3–7 years) | $60,000~$80,000 | Experienced farm manager |
+| Senior (7+ years) | $80,000~$120,000 | Large-scale farm owner or manager |
+| average salary | $145,652 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从农场助理或操作员起步，积累经验后独立管理农场或成为农场主。也可转向农业咨询、农产品贸易或农业技术管理等方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can start as a farm assistant or operator, gain experience to independently manage a farm or become a farm owner. Also can transition to agricultural consulting, agricultural product trading, or agricultural technology management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Precision Agriculture
 - Sustainable Farming
@@ -62,66 +98,65 @@ Plans, organizes, and manages farm operations for growing grain, oilseed, pulse,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 489（Skilled Regional (Provisional) Visa） | 通过州担保在偏远地区工作，可转191永居 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需在担保州工作 |
-| Subclass 491（Skilled Work Regional (Provisional) Visa） | 偏远地区临时签证，可转191永居 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需有雇主提名 |
+| Subclass 489 (Skilled Regional (Provisional) Visa) | Through state nomination to work in a regional area, can transition to a 191 permanent residence visa |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires working in the sponsoring state |
+| Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, can transition to 191 permanent residency |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower？**
-- 热爱户外和体力劳动
-- 具备商业头脑和耐心
-- 适应气候和地理位置偏远
-
-**谁不适合学Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower？**
-- 偏好城市生活
-- 不喜欢不确定性（如天气影响）
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoors and physical work
+- Possess business acumen and patience
+- Adapting to climate and geographic remoteness
+
+**Who is not suited**
+- prefer city life
+- Dislikes uncertainty (e.g., weather impacts)
+
+---
+
+## 8. FAQ
+
+**Q: What is the income of field crop growers?**
+A: Entry-level: approximately AUD 48,000-60,000; mid-level: AUD 60,000-80,000; senior farm owners can earn AUD 80,000-120,000, influenced by farm size and yield.
+
+**Q: Can this occupation migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the MLTSSL list, eligible for 189/190/491 visas, requires Vetassess skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for field crop growers?**
-答：Entry-level earns around AUD 48,000-60,000, mid-level AUD 60,000-80,000, and advanced farm owners can earn AUD 80,000-120,000, depending on farm size and yield.
-
-**问：Can this occupation lead to skilled migration to Australia?**
-答：Yes. It is on the MLTSSL, eligible for 189/190/491 visas, requiring a Vetassess skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

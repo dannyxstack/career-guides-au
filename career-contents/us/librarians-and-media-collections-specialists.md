@@ -1,58 +1,94 @@
-# Librarians and Media Collections Specialists（Librarians and Media Collections Specialists）职业分析 · 美国
+# Librarians and Media Collections Specialists — career analysis · United States
 
-**职业代码：25-4022 – Librarians and Media Collections Specialists。**
+**Occupation code: 25-4022 (SOC)**
 
-Administer and maintain libraries or collections of information, including books, periodicals, recordings, films, and databases, providing reference and borrowing services.
+Manage and maintain library or information collections, including books, journals, audiovisual materials, and databases; provide reference and borrowing services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 美国图书馆学硕士（MLIS） | 2年 | $30,000~$80,000（公立大学学费较低，私立较高） |
-| 美国本科学位 | 4年 | $40,000~$150,000（任何专业均可，但人文社科更相关） |
+| Master of Library and Information Science (MLIS) | 2 years | $30,000~$80,000 (Public universities have lower tuition, private universities higher) |
+| US bachelor's degree | 4 years | $40,000~$150,000 (Any major is acceptable, but humanities and social sciences are more relevant) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国图书馆学硕士（MLIS） | 美国图书馆协会（ALA）认证院校 | 必备 | 多数图书馆员职位要求ALA认证的MLIS学位 |
-| 教师资格证（学校图书馆员） | 各州教育部门 | 可选 | 在K-12学校图书馆工作通常需要 |
+| Master of Library and Information Science (MLIS) | American Library Association (ALA) accredited institutions. | Required | Most librarian positions require an ALA-accredited MLIS degree |
+| Teaching certificate (school librarian) | State education departments | Optional | Working in K-12 school libraries typically requires |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 125,200。美国劳工统计局预计2023-2033年就业增长约3%，增速低于平均水平。数字化趋势减少了对传统图书馆员的需求，但学校、大学和公共图书馆仍有一定岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 125,200. The US Bureau of Labor Statistics projects about 3% employment growth from 2023-2033, slower than average. Digitalization reduces demand for traditional librarians, but jobs remain in schools, universities, and public libraries.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 小型机构或公共图书馆 |
-| 中级（3-7年） | $60,000~$80,000 | 大学或大型公共图书馆 |
-| 高级（7年以上） | $80,000~$110,000 | 馆长或专业档案管理员 |
+| Median salary | $68,270 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$60,000 | Small institutions or public libraries |
+| Mid-level (3–7 years) | $60,000~$80,000 | University or large public library |
+| Senior (7+ years) | $80,000~$110,000 | Curator or professional archivist |
+| average salary | $72,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 可从图书馆助理或技术人员晋升为图书管理员，进而成为部门主管或馆长。部分图书馆员转向数字资源管理、档案管理或信息科学相关领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
+
+Can advance from library assistant or technician to librarian, then to department head or curator. Some librarians transition to digital resource management, archival management, or information science fields.
+
+**Tasks most exposed to AI:**
+
+- Automatic cataloging and metadata generation (AI can automatically extract keywords and classification numbers from full text)
+- Basic reference inquiries (chatbots answer common questions like opening hours, borrowing rules)
+- document delivery and reservation processing (AI scheduling system automatically allocates resources)
+- Collection inventory and shelf checking (RFID + AI vision automatic identification of misplaced books)
+- Overdue reminder notices and fine calculations (automated email/SMS system)
+
+**Where AI augments the role:**
+
+- In-depth targeted search (AI analyzes user needs, selects high-relevance literature from multiple databases).
+- Digital Literacy Education (AI-powered interactive learning scenarios teaching database search strategies)
+- Digitization of special collections and knowledge graph construction (AI-assisted recognition of manuscript text and linking historical events)
+- Reader behavior analysis (AI mining borrowing data to optimize collection purchasing and space layout)
+- Multilingual resource recommendations (AI translation matching non-English users' needs)
+
+**Human moat:**
+
+- Critically evaluating information quality (judging authority and bias of AI-provided results)
+- Complex research consultation (interdisciplinary issues requiring understanding of user true intent and context)
+- Community service and reading promotion (organizing activities, building emotional connections with readers)
+- Digital rights and privacy management (deciding which data can be public and how to use it compliantly)
+- Cross-institutional collaboration and resource sharing (negotiating license agreements, promoting open access)
+
+**Skills to build:**
+
+- AI tool application (e.g., querying databases with natural language, training small classification models)
+- Data ethics and privacy protection (understanding algorithmic bias, personal information protection regulations)
+- User experience design (designing AI-assisted search interfaces and self-service processes)
+- Digital curation (managing digital collection lifecycle, including metadata standards)
+- Project Management and Change Management (coordinating teams and processes when introducing AI systems)
+- Basic programming (Python/API calls, automating repetitive tasks)
+
+**Key growth areas:**
 
 - Digital Collections
 - Information Management
@@ -61,68 +97,67 @@ Administer and maintain libraries or collections of information, including books
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 图书馆员通常符合专业职业要求，但需要雇主担保和抽签 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士以上学历，PERM劳工证申请，排期较长 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适合本科或以下学历，同样需PERM和排期 |
+| Subclass H-1B (H-1B Specialty Occupations) | Librarians usually meet professional occupation requirements but need employer sponsorship and a lottery. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, PERM labor certification application, long wait times |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for bachelor's degree or below; also requires PERM and priority date |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Librarians and Media Collections Specialists？**
-- 热爱阅读和信息组织
-- 喜欢安静的工作环境
-- 乐于帮助他人查找信息
-
-**谁不适合学Librarians and Media Collections Specialists？**
-- 追求高薪和快速晋升
-- 不喜欢重复性工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys reading and organizing information
+- Enjoying quiet work environments
+- Enjoys helping others find information
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Dislikes repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for librarians?**
+A: According to BLS data, the median annual salary for librarians (including media collection specialists) in 2023 was about $60,000. Entry-level positions range from $45,000-$55,000, while senior or specialized roles can exceed $90,000.
+
+**Q: Is it easy for librarians to immigrate to the US via H-1B?**
+A: H-1B visa requires the occupation to be a specialty occupation; librarians typically qualify. However, H-1B caps are tight with low lottery odds; employers must prove inability to find qualified US workers. STEM fields are usually preferred.
+
+**Q: What degree is needed to become a librarian?**
+A: Typically requires a Master of Library and Information Science (MLIS) degree from an American Library Association (ALA) accredited program. Bachelor's degree can be in any field, but commonly in humanities or social sciences. Some positions may accept relevant work experience in lieu of degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Librarians and Media Collections Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for librarians?**
-答：According to BLS, the 2023 median annual wage for librarians (including media collections specialists) is about $60,000. Entry-level positions pay $45,000-$55,000, while senior or specialized roles can exceed $90,000.
-
-**问：Is it easy for librarians to immigrate to the US via H-1B?**
-答：H-1B requires a specialty occupation, which librarians generally meet. However, the cap is tight with low lottery odds, and employers must prove no qualified US workers. STEM fields are preferred.
-
-**问：What education is required to become a librarian?**
-答：Typically, an ALA-accredited Master of Library and Information Science (MLIS) is required. Bachelor's degree can be in any field, but humanities or social sciences are common. Some roles may accept equivalent experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

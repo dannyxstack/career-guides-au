@@ -1,58 +1,94 @@
-# Graphic Designer（Graphic Designer）职业分析 · 新西兰
+# Graphic Designer — career analysis · New Zealand
 
-**职业代码：232411 – Graphic Designer。**
+**Occupation code: 232411 (ANZSCO)**
 
-Graphic designers have steady demand in Auckland, Wellington, and other cities, but face intense competition. Immigration is possible via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but not on the Green List; must meet median wage (~$60,000).
+Graphic designers have stable demand in cities like Auckland and Wellington, but competition is high. Immigrants can apply through Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV) pathways, but it's not on the Green List and must meet the median salary requirement (approx. $60,000).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $20,000~$35,000（公立大学年均学费约$20,000-$35,000；理工学院较便宜） |
-| 研究生文凭/硕士 | 1-2年 | $25,000~$40,000（适合转专业或提升学历） |
+| Bachelor's degree | 3 years | $20,000~$35,000 (Average annual tuition at public universities approx. $20,000-$35,000; polytechnics are cheaper) |
+| Postgraduate diploma/master's | 1-2 years | $25,000~$40,000 (Suitable for changing majors or advancing education) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 平面设计本科文凭 | 新西兰学历评估委员会(NZQA)认可院校 | 可选 | 雇主普遍要求相关学历 |
-| 雅思6.5分 | IDP/英国文化协会 | 可选 | 技术移民要求 |
+| Bachelor's degree in graphic design | Institutions recognized by the New Zealand Qualifications Authority (NZQA) | Optional | Employers generally require relevant qualifications |
+| IELTS 6.5 | IDP/British Council | Optional | Skilled migration requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,500。新西兰平面设计岗位年均增长约1.5%，数字营销和电商推动需求，但传统印刷岗位减少。截至2024年从业约6,500人，麦肯锡预测AI可能替代20%基础设计任务，需掌握UX/UI设计以保持竞争力。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,500. New Zealand graphic design positions grow about 1.5% annually; digital marketing and e-commerce drive demand, but traditional print roles decline. About 6,500 practitioners as of 2024; McKinsey predicts AI may replace 20% of basic design tasks; need to master UX/UI to stay competitive.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$58,000 | 入行门槛较低，需积累作品集 |
-| 中级（3-7年） | $60,000~$80,000 | 技能全面者薪资更高 |
-| 高级（7年以上） | $85,000~$100,000 | 创意总监或自由设计师可达$120K+ |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $48,000~$58,000 | Low entry barrier, requires building a portfolio |
+| Mid-level (3–7 years) | $60,000~$80,000 | Higher salary for those with comprehensive skills |
+| Senior (7+ years) | $85,000~$100,000 | Creative director or freelance designer can reach $120K+ |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏下（★★☆☆☆）。** 初级设计师（1-3年）可晋升高级设计师（4-7年），再至创意总监（8年以上）。转型UX/UI设计师或数字营销专家可拓宽职业路径。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
+
+Junior designer (1-3 years) can advance to senior designer (4-7 years), then to creative director (8+ years). Transitioning to UX/UI designer or digital marketing expert can broaden career paths.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of social media templates and ad banners
+- Basic image processing (cutout, color adjustment, filters)
+- Automatically completing layout and formatting based on preset styles
+- Generate simple logo and icon drafts
+- Automated output of print-ready files (bleeds, crop marks)
+
+**Where AI augments the role:**
+
+- Generate creative sketches with AI to rapidly iterate design proposals
+- Leverage AI to analyze user data and optimize visual strategies
+- AI-assisted font matching and color matching to improve design efficiency
+- Auto-generate design variants for A/B testing
+- AI tools enable rapid prototyping of video and motion graphics
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user psychology to define visual direction
+- Original creativity and unique artistic expression
+- Cross-media storytelling (print + digital + environment)
+- Efficient communication and feedback integration with clients and teams
+- Sharp insight into cultural trends and social contexts
+
+**Skills to build:**
+
+- AI design tools (Midjourney, DALL·E 3, Adobe Firefly)
+- Motion design and video editing (After Effects, Premiere Pro)
+- User Experience and Interface Design (Figma, Sketch)
+- Data visualization and infographic design
+- Project management and client communication (agile collaboration)
+- 3D modeling and rendering basics (Blender, C4D)
+
+**Key growth areas:**
 
 - Digital Design
 - UX/UI Specialist
@@ -61,68 +97,67 @@ Graphic designers have steady demand in Auckland, Wellington, and other cities, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 需满足6分制，其中学历3分+工作经验3分，或学历+注册等，薪资需达中位数。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主提供工作，薪资不低于中位数，最长3年。 |
-| Subclass Green List T2（Green List Tier 2 - Work to Residence） | 平面设计不在绿色清单上，不适用此路径。 |
+| Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system, e.g., 3 points for qualification + 3 points for work experience, or qualification + registration, etc., salary must reach the median. |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsoring employer to provide work, salary not below the median, up to 3 years. |
+| Subclass Green List T2 (Green List Tier 2 - Work to Residence) | Graphic design is not on the Green List and does not qualify for this pathway. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Graphic Designer？**
-- 具有创意和审美能力，熟练使用Adobe Creative Suite
-- 愿意学习UI/UX和数字营销技能以拓展职业前景
-- 能接受自由职业或项目制工作，适应市场波动
-
-**谁不适合学Graphic Designer？**
-- 希望快速移民且不愿学习数字技能的人群
-- 不能承受AI替代风险和不稳定收入的人群
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and aesthetic sensibility, proficient in Adobe Creative Suite
+- Willing to learn UI/UX and digital marketing skills to expand career prospects
+- Able to accept freelance or project-based work and adapt to market fluctuations
+
+**Who is not suited**
+- People who want fast immigration and are unwilling to learn digital skills
+- People who cannot bear the risk of AI replacement and unstable income
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for graphic designers in New Zealand?**
+A: Entry-level about $48K-$58K, mid-level $60K-$80K, senior $85K-$100K. Close to the median $60K is easier for immigration.
+
+**Q: How can graphic designers immigrate to New Zealand?**
+A: Primarily via Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV). Not on the Green List, so need to meet the 6-point system (e.g., qualifications + experience) with salary at median.
+
+**Q: Is competition high for graphic designer jobs?**
+A: Competition is high, especially for entry-level positions. Skills in UX/UI, animation can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Graphic Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for graphic designers in New Zealand?**
-答：Junior: $48K-$58K, Mid: $60K-$80K, Senior: $85K-$100K. Near median wage $60K favors immigration.
-
-**问：How can a graphic designer immigrate to New Zealand?**
-答：Mainly through Skilled Migrant Category (SMC) or AEWV. Not on Green List; must meet points (e.g., qualification + experience) and median wage.
-
-**问：Is competition high for graphic designers?**
-答：Yes, especially for entry-level. Skills in UX/UI, animation boost competitiveness.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

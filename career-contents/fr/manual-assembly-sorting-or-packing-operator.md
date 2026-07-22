@@ -1,61 +1,92 @@
-# Manual Assembly, Sorting, or Packing Operator（Manual Assembly, Sorting, or Packing Operator）职业分析 · FR
+# Manual Assembly, Sorting, or Packing Operator — career analysis · France
 
-**职业代码：H3302 – Manual Assembly, Sorting, or Packing Operator。**
+**Occupation code: H3302 (ROME)**
 
-Performs repetitive manual tasks such as assembling, sorting, or packing products in manufacturing, logistics, or warehouse settings. Typically requires no formal education but demands physical stamina and attention to detail.
+Performing repetitive tasks such as manual assembly, sorting, and packaging in manufacturing, logistics, or warehousing environments usually requires no academic qualifications but requires physical strength and attention to detail.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需文凭，在岗培训 | 数周至数月 | —（企业内培训，通常无费用） |
-| CAP 或同等职业资格证书 | 2年（CAP） | —（公立学校免费，材料费约0-1000欧元） |
-| 学徒制（Apprentissage） | 1-2年 | —（学徒期间有工资，无需学费） |
+| No diploma required, on-the-job training | A few weeks to several months | $0~$0 (In-house training, usually free of charge) |
+| CAP or equivalent professional qualification certificates | 2 years (CAP) | $0~$1,000 (Public schools are free, with material fees ranging from 0 to 1000 euros) |
+| Apprentissage | 1-2 years | $0~$0 (Paid wages during apprenticeship, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 该职业通常无需特定文凭或执照 |
-| 安全培训（如CACES） | INRS 或认证机构 | 可选 | 若操作叉车等设备需CACES证书 |
+| No mandatory requirements | None | Optional | This profession usually does not require a specific diploma or license |
+| Safety training (such as CACES) | INRS or certification bodies | Optional | If operating forklifts or similar equipment, a CACES certificate is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 800,000。法国该职业从业人数约80万，受自动化和外包影响，需求略有下降，但在物流和电商领域仍有稳定需求。就业机会主要集中于大型仓库和工厂。
+**Job demand: medium (★★½☆☆).** National workforce approx. 800,000. There are about 800,000 workers in this occupation in France. Affected by automation and outsourcing, demand has declined slightly, but there is still stable demand in logistics and e-commerce. Job opportunities are mainly in large warehouses and factories.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常按SMIC（最低工资）起薪 |
-| 中级（3-7年） | $26,000~$30,000 | 税前年薪，含加班和奖金 |
-| 高级（7年以上或团队领导） | $30,000~$35,000 | 税前年薪，主管或领班级别 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary, usually starting at SMIC (Minimum Wage). |
+| Mid-level (3–7 years) | $26,000~$30,000 | Annual pre-tax salary, including overtime and bonuses |
+| Senior (over 7 years or team leader) | $30,000~$35,000 | Pre-tax annual salary, supervisor or supervisor level |
+| average salary | $18,432 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 可通过内部培训晋升为团队负责人、质量控制员或生产线主管；也可转向更专业的装配技术岗位，如机电装配。学徒制是常见入门途径。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks in this profession—such as sorting, packaging, and simple assembly—are being rapidly replaced by machine vision, robotic arms, and automated assembly lines. Entry-level positions are shrinking significantly, and large-scale layoffs are expected over the next five years.
+
+Promotion through internal training to team leader, quality controller, or production line supervisor; You can also shift to more specialized assembly technical positions, such as electromechanical assembly. Apprenticeships are a common entry point.
+
+**Tasks most exposed to AI:**
+
+- AI vision guides the robotic arm to perform sorting and palletizing
+- The automatic packaging line completes weighing, sealing, and labeling
+- Sensor-based and AI-based automated assembly systems
+- AI-driven quality inspection replaces manual visual inspection
+
+**Where AI augments the role:**
+
+- AI-assisted scheduling systems optimize the switching sequence between multiple varieties and small batches
+- AR glasses projection assembly guidance reduces errors
+- Smart wearables monitor fatigue and remind operators to rest
+
+**Human moat:**
+
+- Flexible response to abnormal situations (such as material jamming or damage).
+- Manual operation standards are provided for the first assembly of new products
+- Work in unstructured environments (such as outdoors, dirty and messy).
+- Supervise and maintain automated production lines and troubleshoot them
+
+**Skills to build:**
+
+- Robot collaboration operation and programming basics
+- Fault diagnosis and maintenance of automation equipment
+- Data Collection and Analysis (such as Production Line OEE)
+- Lean production and process improvement
+- AR/VR assists workflow operations
+
+**Key growth areas:**
 
 - Automation impact
 - Logistics growth
@@ -64,65 +95,67 @@ Performs repetitive manual tasks such as assembling, sorting, or packing product
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Residence Permit） | 适用于获得法国雇主工作合同的外国人，需证明职位无法由欧盟居民填补。 |
-| Subclass Recherche emploi（Job Search Residence Permit） | 毕业后或特定情况下允许在法求职1年，但该职业门槛低，非典型移民路径。 |
+| Subclass Salarié (Salarié (Employee) Residence Permit) | This applies to foreigners who have obtained a work contract with a French employer and must prove that the position cannot be filled by an EU resident. |
+| Subclass Recherche emploi (Job Search Residence Permit) | Graduates or in certain circumstances are allowed to work in France for 1 year, but the occupation has low entry barriers and is not a typical migration pathway. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Manual Assembly, Sorting, or Packing Operator？**
-- 寻求稳定低技能工作的人
-- 体力充沛且适应重复性劳动的人
-- 希望快速入职不需要高学历的人
+**Who is suited**
+- People seeking stable, low-skilled jobs
+- People who are physically strong and able to handle repetitive labor
+- Those who want to get on the job quickly without a high degree of education
 
-**谁不适合学Manual Assembly, Sorting, or Packing Operator？**
-- 希望高收入或职业快速发展的人
-- 不喜欢体力劳动或重复性工作的人
+**Who is not suited**
+- Those who hope for high income or rapid career advancement
+- People who dislike physical labor or repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for this profession in France?**
+A: Entry-level positions earn about €22,000–26,000 before tax per year, while supervisors can earn up to €35,000. The Statutory Minimum Wage (SMIC) is a common starting point.
+
+**Q: Can third-country citizens immigrate to France through this employment?**
+A: The difficulty is quite high. This occupation is not in short supply; employers must prove they cannot recruit EU residents. Usually, only those holding work visas (Salarié) or legally recognized individuals may engage in such work.
+
+**Q: Will this occupation be replaced by automation in the future?**
+A: The risk is relatively high. Simple assembly and packaging are gradually being replaced by machines, but complex or flexible operations still require manual labor, and long-term demand may decrease.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 非常容易（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Manual Assembly, Sorting, or Packing Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in France?**
-答：Entry-level positions earn around €22,000-26,000 gross annually, while supervisors can earn up to €35,000. The legal minimum wage (SMIC) is a common starting point.
-
-**问：Can third-country nationals immigrate to France through this occupation?**
-答：It is difficult. This occupation is not in shortage, and employers must prove no EU candidates available. Work permits (Salarié) are possible but rare.
-
-**问：Will this occupation be automated in the future?**
-答：Risk is high. Simple assembly and packaging are increasingly automated, but complex or flexible tasks still require human workers, though long-term demand may decline.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

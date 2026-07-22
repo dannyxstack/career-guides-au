@@ -1,58 +1,94 @@
-# Kitchen and catering assistants（Kitchen and catering assistants）职业分析 · UK
+# Kitchen and catering assistants — career analysis · United Kingdom
 
-**职业代码：9263 – Kitchen and catering assistants。**
+**Occupation code: 9263 (SOC)**
 
-Kitchen and catering assistants assist in the preparation and service of food and beverages in restaurants, cafés and other eating establishments, and perform various cleaning, fetching and carrying tasks.
+Kitchen and dining assistants help prepare and serve food and drinks in restaurants, cafes, and other dining venues, and perform various cleaning and delivery tasks.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 无正式教育要求 | 无 | —（通常在职培训，无需学历费用） |
+| No formal education requirements | None | $0~$0 (Typically on-the-job training, no tuition fees required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书（Level 2） | 各类培训机构 | 可选 | 推荐或雇主要求，非强制但有助于就业 |
+| Food Safety Certificate (Level 2) | Various training institutions | Optional | Recommended or required by employers; not mandatory but beneficial for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。该职业需求稳定，受餐饮业持续发展驱动。预计未来几年就业人数缓慢增长，但受经济周期影响较大。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. Job demand is stable, driven by the ongoing growth of the food service industry. The number of jobs is expected to grow slowly over the next few years, but is highly affected by economic cycles.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$21,000 | 按最低工资计算 |
-| 中级（2-5年） | $21,000~$24,000 | 带经验 |
-| 高级（5年以上） | $24,000~$28,000 | 含主管职责 |
+| Median salary | $22,886 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–2 years) | $18,000~$21,000 | Calculated based on minimum wage |
+| Intermediate (2-5 years) | $21,000~$24,000 | With experience |
+| Senior (5+ years) | $24,000~$28,000 | Includes supervisory duties |
+| average salary | $22,825 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从基层岗位起步，可晋升为厨师助理、厨师或餐饮主管。部分人员通过培训转向专业烹饪或餐饮管理方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Many repetitive tasks in kitchen and catering assistance (e.g., dishwashing, food prep, cleaning) are being replaced by automation; entry-level demand will shrink, but service roles requiring human judgment remain.
+
+Usually start in entry-level roles and can advance to cook, chef, or food and beverage supervisor. Some transition through training into professional cooking or food service management.
+
+**Tasks most exposed to AI:**
+
+- Automatic dishwasher replaces manual washing and utensil cleaning
+- Automatic vegetable cutting machines and blenders replace food preparation and mixing tasks
+- Self-service ordering systems replace some food runners and order-taking tasks
+- Automatic cleaning robots replace floor and kitchen cleaning
+- Smart inventory system replacing manual ingredient checks and stock records
+
+**Where AI augments the role:**
+
+- Smart recipes and temperature controllers assist in monitoring the cooking process
+- Digital shift scheduling systems optimize workforce allocation and task assignment
+- Obtain customer special dietary requirement information instantly via mobile app
+- Automated inventory replenishment system reduces shortages and waste
+- Online training tool helps quickly learn food safety regulations
+
+**Human moat:**
+
+- Flexibility to handle unexpected situations (e.g., guest complaints, equipment malfunctions)
+- Provides personalised service and emotional connection (e.g., remembering regular customer preferences)
+- Multi-task coordination and time management skills
+- Meticulous implementation of food safety and hygiene standards
+- Team collaboration and communication (especially during peak periods)
+
+**Skills to build:**
+
+- Basic food safety and hygiene certification (e.g., Level 2 Food Safety)
+- Basic digital tool operation (ordering systems, inventory software)
+- Customer service and communication skills
+- Basic cooking and food preparation skills.
+- Time management and multitasking
+- Learn to use new automated kitchen tools
+
+**Key growth areas:**
 
 - Stable demand
 - Hospitality sector
@@ -61,61 +97,63 @@ Kitchen and catering assistants assist in the preparation and service of food an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业不在技术工种清单上，通常无法通过Skilled Worker签证担保。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证可能允许短期工作，但无长期居留路径。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the skilled occupation list and generally cannot be sponsored under the Skilled Worker visa. |
+| Subclass Graduate (Graduate visa) | Graduate visa may allow short-term work but no long-term residency pathway. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Kitchen and catering assistants？**
-- 寻求快速进入劳动力市场者
-- 喜欢餐饮环境、适应快节奏工作的人
+**Who is suited**
+- For those seeking quick entry into the labor market
+- Those who enjoy a restaurant environment and thrive in a fast-paced workplace
 
-**谁不适合学Kitchen and catering assistants？**
-- 期望高薪或快速晋升的人
-- 不喜体力劳动或站立工作的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- Those who dislike physical labor or standing work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a kitchen assistant?**
+A: Entry-level roles are usually paid at minimum wage, around £18,000-21,000; experienced workers can earn over £24,000.
+
+**Q: Can foreigners work as kitchen assistants in the UK on a work visa?**
+A: Usually not. This occupation is not on the skilled occupation list, and employers cannot sponsor a Skilled Worker visa. Graduate visas may allow short-term work, but no settlement pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Kitchen and catering assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for kitchen assistants?**
-答：Entry-level roles are usually paid at minimum wage, around £18,000-21,000; experienced workers can earn over £24,000.
-
-**问：Can foreigners work as kitchen assistants in the UK on a work visa?**
-答：Generally no. This occupation is not on the skilled occupation list, so employers cannot sponsor a Skilled Worker visa. The Graduate visa may allow short-term work but no settlement route.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

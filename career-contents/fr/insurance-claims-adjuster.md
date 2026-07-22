@@ -1,60 +1,96 @@
-# Insurance Claims Adjuster（Insurance Claims Adjuster）职业分析 · FR
+# Insurance Claims Adjuster — career analysis · France
 
-**职业代码：C1107 – Insurance Claims Adjuster。**
+**Occupation code: C1107 (ROME)**
 
-Evaluates and processes insurance claims, investigates losses, calculates compensation, and coordinates the settlement process.
+Responsible for evaluating and handling insurance claims, investigating losses, calculating compensation amounts, and coordinating claims processes.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+专业培训 | 2年（BTS） | $2,000~$8,000（公立学校学费低，私立约5000-8000欧） |
-| 本科（Licence） | 3年 | $3,000~$10,000（公立大学约3000欧，私立商校可达10000欧） |
-| 学徒制（Apprentissage） | 2-3年 | —（企业支付学费，学生获薪酬） |
+| High school graduation + professional training | 2 Years (BTS) | $2,000~$8,000 (Public schools have low tuition, while private ones cost about 5,000-8,000 euros) |
+| Licence | 3 years | $3,000~$10,000 (Public universities cost about 3,000 euros, while private business schools can earn up to 10,000 euros) |
+| Apprentissage | 2-3 years | $0~$0 (Companies pay tuition, and students receive wages) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险从业资格证（CQP） | 法国保险专业机构 | 可选 | 非强制，但雇主优先考虑 |
-| BTS保险（Assurance） | 法国教育部 | 可选 | 常见入职文凭 |
-| Licence专业保险 | 大学 | 可选 | 可替代BTS |
+| Insurance Qualification Certificate (CQP) | French insurance professional institution | Optional | Not mandatory, but preferred by employers |
+| BTS Insurance (Assurance) | French Ministry of Education | Optional | Induction diplomas are common |
+| Licence Professional Insurance | University | Optional | It can replace BTS |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。法国保险业稳定，自然灾害和汽车事故类理赔需求持续。数字化办公趋势提高效率，但对复杂案件的专业判断力要求不减。就业机会集中于大型保险公司和互助保险机构。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. France's insurance industry remains stable, with sustained demand for claims related to natural disasters and car accidents. The trend toward digital office work is improving efficiency, but the demand for professional judgment in complex cases remains undiminished. Employment opportunities are concentrated among large insurance companies and mutual insurance institutions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$60,000 | 税前年薪 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$60,000 | Annual pre-tax salary |
+| average salary | $49,872 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏上（★★★☆☆）。** 可从理赔助理晋升为理赔员，再升为高级理赔员或团队主管。部分人转向风险管理、核保或保险法务领域。需持续跟进法规变化和行业新技术。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Claims officers, examiners, and investigators face significant AI impact; document processing and preliminary assessments can be automated, but complex negotiations and fraud investigations still require human judgment. Entry-level competition intensifies, but senior experts can leverage AI tools to enhance efficiency and decision quality.
+
+Claims assistants can be promoted to claims adjusters, then to senior claims adjusters or team leaders. Some have shifted to risk management, underwriting, or insurance legal services. It is necessary to continuously keep up with regulatory changes and new industry technologies.
+
+**Tasks most exposed to AI:**
+
+- Automatically conduct initial review of claim documents, extract key information and flag anomalies
+- Use rule engines and ML models to assess claim amounts for low-risk claims
+- Generate standardized claims reports and case closure notices.
+- Real-time monitoring of claims data to identify potential fraud patterns and trigger alerts
+- Automatically archive closed cases and update internal databases.
+
+**Where AI augments the role:**
+
+- AI assists in analyzing historical data, providing intelligent recommendations on claim amounts and litigation risk
+- Natural language processing automatically summarizes large volumes of documents, speeding up evidence review for investigators
+- AI-driven photo/video damage assessment to accurately estimate repair costs
+- Virtual assistant provides policy and case retrieval, shortening decision-making time
+- Simulate negotiation scenarios to help claims adjusters optimize communication strategies
+
+**Human moat:**
+
+- In-depth investigation and interview techniques for complex fraud cases
+- Business negotiation and interpersonal mediation skills for large-scale or litigation-related matters
+- Responsibility for qualitative judgment and decision-making on vague or incomplete information
+- Domain expertise in understanding insurance law and contract terms.
+- Cross-departmental coordination and client emotional management (e.g., disability, death cases)
+
+**Skills to build:**
+
+- Data Analysis and Visualization (Python/SQL)
+- AI/Machine Learning fundamentals (model evaluation, bias detection)
+- Use of fraud detection and risk management software
+- Conflict mediation and advanced communication skills
+- Operation of insurtech products (e.g., AI damage assessment tools)
+- Project Management and Process Optimization
+
+**Key growth areas:**
 
 - Digitalization
 - Data Analytics
@@ -63,67 +99,66 @@ Evaluates and processes insurance claims, investigates losses, calculates compen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国公司，工作合同居留，需雇主担保 |
-| Subclass Carte bleue UE（EU Blue Card） | 高技能人才，年薪门槛约53,000欧，需符合学历和经验要求 |
+| Subclass Salarié (Salarié (Employee)) | Employed by a French company, with a work contract residency and employer sponsorship required |
+| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talents, the annual salary threshold is about 53,000 euros, and you must meet educational and experience requirements |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Claims Adjuster？**
-- 细心、有分析能力的人
-- 喜欢与人沟通、调解纠纷的人
-- 有法律或保险背景的毕业生
-
-**谁不适合学Insurance Claims Adjuster？**
-- 厌恶重复性文书工作的人
-- 不擅长处理冲突和情绪化客户的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful and analytical people
+- People who enjoy communicating and mediating disputes
+- Graduates with a background in law or insurance
+
+**Who is not suited**
+- People who dislike repetitive paperwork
+- People who are not good at handling conflicts and emotional clients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for insurance claims adjusters?**
+A: Junior annual salary approx. EUR 28,000-35,000, intermediate EUR 35,000-45,000, senior up to EUR 60,000.
+
+**Q: How can foreigners immigrate to France as insurance claims adjusters?**
+A: Main path is to secure a work contract with a French company and apply for a Salarié residence permit or EU Blue Card (must meet salary threshold).
+
+**Q: Is a diploma recognized by France required?**
+A: BTS or Licence insurance majors are preferred, but not mandatory. Foreign diplomas require accreditation (reconnaissance des diplômes).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏上（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insurance Claims Adjuster的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for insurance claims adjusters?**
-答：Entry-level salary is about €28,000-€35,000, mid-level €35,000-€45,000, and senior up to €60,000 per year.
-
-**问：How can a foreigner immigrate to France as an insurance claims adjuster?**
-答：Main route is to obtain a job offer from a French company and apply for a Salarié residence permit or EU Blue Card (subject to salary threshold).
-
-**问：Is a French-recognized diploma required?**
-答：BTS or Licence in insurance is preferred but not mandatory. Foreign diplomas require recognition (reconnaissance des diplômes).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

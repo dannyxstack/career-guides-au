@@ -1,58 +1,92 @@
-# Hand Launderers and Pressers（Hand Launderers and Pressers）职业分析 · IE
+# Hand Launderers and Pressers — career analysis · Ireland
 
-**职业代码：9121 – Hand Launderers and Pressers。**
+**Occupation code: 9121 (ISCO08)**
 
-Hand launderers and pressers clean, iron, and finish garments and textiles, typically working in laundries, hotels, or dry-cleaning shops. The job requires physical stamina but has low entry barriers.
+Manual Laundry Worker and Ironer are responsible for washing, ironing, and sorting clothing and textiles, typically working in laundries, hotels, or dry cleaners. The job requires some physical strength but has a low entry barrier.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 在职培训 | —（通常由雇主提供培训） |
+| No formal education required | On-the-job training | $0~$0 (Usually provided by the employer) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主可能要求基本英语能力 |
+| No mandatory qualification requirements | None | Optional | employers may require basic English ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,800。爱尔兰该职业需求稳定，受旅游业和酒店业支撑，但自动化可能减少部分岗位。预计未来五年就业人数小幅下降，年均约1%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,800. Demand for this occupation in Ireland is stable, supported by tourism and hospitality, but automation may reduce some positions. Employment is expected to decline slightly over the next five years, by about 1% annually.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-5年） | $26,000~$30,000 | 税前年薪 |
-| 高级（5年以上） | $30,000~$35,000 | 税前年薪 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–5 years) | $26,000~$30,000 | Annual pre-tax salary |
+| Senior (5+ years) | $30,000~$35,000 | Annual pre-tax salary |
+| average salary | $28,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 晋升路径有限，可从初级洗衣工晋升为高级熨烫工或洗衣房主管，或转向洗衣设备维护等职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Manual laundry workers and ironers face high automation substitution risks; industrial washing machines, automatic ironing systems, and AI scheduling software will reduce demand for low-skilled positions.
+
+Limited career progression: can advance from junior laundry worker to senior ironer or laundry supervisor, or transition to laundry equipment maintenance roles.
+
+**Tasks most exposed to AI:**
+
+- Clothing sorting and categorizing (AI vision recognition automatic sorting)
+- Standard washing and dewatering procedures (automatically performed by industrial washing machines)
+- Ironing and folding (automatic ironing and folding machines)
+- Inventory management and order tracking (AI scheduling systems)
+- Customer Drop-off and Pick-up Appointment (Online Self-Service Platform)
+
+**Where AI augments the role:**
+
+- Monitor the operating status of automated equipment (AI alarm and analysis)
+- Handling special fabrics or stains (AI-assisted identification and advice)
+- Equipment maintenance and troubleshooting (augmented reality guidance)
+- Personalized customer service (chatbot-assisted)
+
+**Human moat:**
+
+- Fine hand ironing of complex garments (e.g., gowns, wedding dresses)
+- Experience in hand-processing delicate fabrics (silk, cashmere)
+- On-site troubleshooting and emergency equipment repair
+- Advanced custom client services (e.g., tailored care plans)
+
+**Skills to build:**
+
+- Programming and operation of automated laundry equipment
+- Basic mechanical repair and fault diagnosis
+- Customer service and communication skills
+- Inventory management software usage
+- Knowledge of safety and environmental regulations
+- Optimize washing processes using data analysis
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -61,64 +95,66 @@ Hand launderers and pressers clean, iron, and finish garments and textiles, typi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于Critical Skills门槛的非欧盟工人，雇主需通过劳动力市场测试。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-EU workers earning below the Critical Skills salary threshold; employers must pass a labour market test. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hand Launderers and Pressers？**
-- 吃苦耐劳、适应体力劳动者
-- 寻求低技能入门工作者
-- 偏好稳定、重复性工作的人
+**Who is suited**
+- Hardworking, adaptable to physical work
+- Seeking low-skilled entry-level workers
+- People who prefer stable, repetitive work
 
-**谁不适合学Hand Launderers and Pressers？**
-- 对薪资期望较高者
-- 不喜欢化学清洁剂气味者
+**Who is not suited**
+- Those with higher salary expectations
+- Those who dislike the smell of chemical cleaning agents
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a manual laundry worker in Ireland?**
+A: Entry-level salary approximately €22,000-26,000 per year, senior can reach €35,000, but overall relatively low.
+
+**Q: Can this occupation apply for an Irish work visa?**
+A: Usually can only apply for a General Employment Permit, requiring employer support and passing a labor market test.
+
+**Q: What are the job prospects for this occupation?**
+A: Demand stable but threatened by automation; employment expected to decline slightly.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hand Launderers and Pressers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of hand launderers and pressers in Ireland?**
-答：Entry-level annual salary is around €22,000-€26,000, and senior can reach €35,000, but overall low.
-
-**问：Can this occupation qualify for an Irish work visa?**
-答：Typically only a General Employment Permit is possible, requiring employer sponsorship and labor market test.
-
-**问：What is the job outlook for this occupation?**
-答：Demand is stable but threatened by automation; slight decline in employment expected.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Environmental Engineer（Environmental Engineer）职业分析 · 新西兰
+# Environmental Engineer — career analysis · New Zealand
 
-**职业代码：233915 – Environmental Engineer。**
+**Occupation code: 233915 (ANZSCO)**
 
-Environmental engineers assess and mitigate environmental impacts of projects in NZ, focusing on water, waste, and remediation. Eligible for Green List Tier 1, offering a clear residency pathway.
+Environmental engineers assess the environmental impact of engineering projects in New Zealand, covering water resources, waste management, and pollution remediation. With Green List Tier 1 eligibility, they can directly apply for residence, providing a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 4年 | $35,000~$45,000（奥克兰大学等NZQA认可课程学费，国际生更高。本地生约1万NZD/年） |
-| 硕士 | 1-2年 | $40,000~$55,000（坎特伯雷大学等硕士项目，可加速移民学历加分） |
+| Bachelor's degree | 4 years | $35,000~$45,000 (Tuition for NZQA-accredited courses like University of Auckland, higher for international students. Domestic approx NZD $10,000/year) |
+| Master's degree | 1-2 years | $40,000~$55,000 (Master's programs at the University of Canterbury, etc., can accelerate points for migration qualification.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册环境工程师（CPEng） | Engineering New Zealand (EngNZ) | 可选 | 建议获取，提升就业和移民竞争力但非强制 |
-| 华盛顿协议认证工程本科 | NZQA认可的大学 | 必备 | 基础要求，需EA或EngNZ认证 |
+| Washington Accord accredited engineering bachelor's degree | NZQA-recognized university | Required | Basic requirement, needs EA or EngNZ certification |
+| New Zealand registered environmental engineer (CPEng) | Engineering New Zealand (EngNZ) | Optional | Recommended for enhancing employment and immigration competitiveness but not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰对可持续基础设施和资源管理投资持续增长，环境工程师需求旺盛。政府减排目标和基础设施升级将推动岗位增加，预计未来5年就业增长15-20%。
+**Job demand: high (★★★★☆).** National workforce approx. 1,500. New Zealand's investment in sustainable infrastructure and resource management continues to grow, and demand for environmental engineers is strong. Government emission reduction targets and infrastructure upgrades will drive job growth, with employment projected to increase 15-20% over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$75,000 | 政府或咨询公司起薪 |
-| 中级（3-8年） | $80,000~$100,000 | 具项目经验者 |
-| 高级（8年以上） | $110,000~$140,000 | 项目经理或首席顾问 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$75,000 | Government or consulting firm starting salary |
+| Mid-level (3–8 years) | $80,000~$100,000 | Those with project experience |
+| Senior (8+ years) | $110,000~$140,000 | Project manager or lead consultant |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级环境工程师可从技术岗位做起，逐步晋升为高级顾问或项目经理。积累经验后可转向政策制定或企业ESG管理，成为行业领导者。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
+
+Junior environmental engineers can start from technical roles and gradually advance to senior consultant or project manager. With experience, can move into policy making or corporate ESG management, becoming industry leaders.
+
+**Tasks most exposed to AI:**
+
+- Environmental monitoring data collection and preliminary analysis
+- Standard chapter writing for environmental impact assessment reports
+- Routine document generation for environmental compliance inspections
+- Parameter Tuning and Running of Pollution Dispersion Models
+- Progress tracking and report updates in project management
+
+**Where AI augments the role:**
+
+- Using AI for pollutant dispersion simulation and risk assessment
+- Optimizing water treatment process parameters using machine learning
+- Using natural language processing for rapid review of regulations and environmental impact reports
+- Combine remote sensing AI for ecological impact monitoring and early warning
+- Testing field planning solutions using AI-powered digital twins
+
+**Human moat:**
+
+- On-site field inspection and pollution source identification
+- Communication and negotiation with stakeholders (government, community)
+- Cross-disciplinary solution design for complex environmental issues
+- Take responsibility for signing environmental impact reports (registered engineer)
+- Development and application of innovative repair technologies
+
+**Skills to build:**
+
+- Python/R data analysis and machine learning basics
+- GIS and remote sensing AI (e.g., ArcGIS Pro, Google Earth Engine).
+- AI integration of environmental modeling software (EFDC, MODFLOW)
+- Integration of project management with AI tools (e.g., Asana, Jira)
+- Reading environmental regulations and AI-assisted compliance tools
+- Digital twin and IoT data platform operation
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,65 +97,64 @@ Environmental engineers assess and mitigate environmental impacts of projects in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：非常友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足学历和薪资要求可直接申请居留，无需工作经历 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下学历+工资可累计分数，适合有工作经验者 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若雇主获认证，可先工签后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Meet education and salary requirements to directly apply for residence, no work experience needed |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, qualifications and salary can accumulate points; suitable for those with work experience. |
+| Subclass AEWV (Accredited Employer Work Visa) | If employer is accredited, can obtain work visa first then transfer to residence |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Engineer？**
-- 热爱环保和可持续发展，适应户外与办公混合工作
-- 具备工程背景，希望移民新西兰并获得高薪
-- 擅长数据分析、项目管理和跨部门沟通
-
-**谁不适合学Environmental Engineer？**
-- 不喜与监管机构打交道或频繁更新法规知识
-- 期望快速晋升且对薪资即时回报要求高
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about environmental protection and sustainability, adaptable to mixed outdoor and office work
+- Have an engineering background and wish to immigrate to New Zealand for a high salary
+- Skilled in data analysis, project management, and cross-departmental communication
+
+**Who is not suited**
+- Dislike dealing with regulatory bodies or frequently updating regulatory knowledge
+- Expects rapid promotion and immediate salary returns
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for environmental engineers in New Zealand?**
+A: Junior annual salary approx. NZD $60,000-75,000, mid-level $80,000-100,000, senior $110,000-140,000. Consulting firms or Auckland area are higher.
+
+**Q: What are the requirements for environmental engineers to get direct residence via Green List T1?**
+A: Requires a job offer from an employer, salary at least median (approx. 30+ NZD/hour), qualification a NZQA-recognised Bachelor of Engineering or higher. No work experience needed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 非常友好（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Environmental Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for an environmental engineer in NZ?**
-答：Entry-level NZD 60k-75k, mid-level NZD 80k-100k, senior NZD 110k-140k. Higher in consulting and Auckland.
-
-**问：What are the requirements for Green List Tier 1 Straight to Residence for environmental engineers?**
-答：A job offer with a salary at least median wage (approx. NZD 30+/hour), and a bachelor's degree in engineering recognized by NZQA. No work experience required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

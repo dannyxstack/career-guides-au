@@ -1,62 +1,95 @@
-# Chemical or Pharmaceutical Production Equipment Operator（Chemical or Pharmaceutical Production Equipment Operator）职业分析 · FR
+# Chemical or Pharmaceutical Production Equipment Operator — career analysis · France
 
-**职业代码：H2301 – Chemical or Pharmaceutical Production Equipment Operator。**
+**Occupation code: H2301 (ROME)**
 
-Operates chemical or pharmaceutical production equipment, monitors reactions, ensures product quality and safety. Familiar with processes, maintenance, and compliance.
+Operate chemical or pharmaceutical production equipment, monitor reaction processes, and ensure product quality and safe production. Familiar with process flows, equipment maintenance, and compliant operations.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭（CAP） | 2年 | —（公立学校免费，私立学校费用不等） |
-| 高级技师文凭（BTS） | 2年（BTS） | —（公立学校免学费，注册费约200€/年） |
-| 学徒制（Apprentissage） | 1-2年 | —（企业承担学费，学徒期间有工资） |
+| Vocational High School Diploma (CAP) | 2 years | $0~$15,000 (Public schools are free, while private schools charge different fees) |
+| Advanced Technician Diploma (BTS) | 2 Years (BTS) | $0~$18,000 (Public schools are tuition-free, with registration fees of about €200 per year) |
+| Apprentissage | 1-2 years | $0~$0 (The company covers tuition fees, and there is a salary during the apprenticeship period) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 化学品操作员职业资格（CQP） | 法国化学工业联合会（UIC） | 可选 | 行业认可的职业资格，证明操作技能 |
-| 危险品操作认证（CACES） | INRS或认证培训机构 | 必备 | 操作特定设备（如叉车）需持有 |
-| 化工或制药BTS文凭 | 法国教育部 | 可选 | BTS在化学或制药领域是常见入职要求 |
+| Hazardous Materials Handling Certification (CACES) | INRS or certified training institutions | Required | Operating specific equipment (such as forklifts) requires handling |
+| Chemical Operator Professional Qualification (CQP) | French Union of the Chemical Industry (UIC) | Optional | Industry-recognized professional qualifications proving operational skills |
+| BTS diploma in chemical engineering or pharmaceuticals | French Ministry of Education | Optional | BTS is a common entry requirement in the chemical or pharmaceutical fields |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。法国化工制药行业稳定，由于能源转型和药品需求，该岗位需求持续。需适应自动化和绿色生产趋势，持有CQP或BTS文凭者更受青睐。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. France's chemical and pharmaceutical industry is stable, with ongoing demand for this position due to energy transition and pharmaceutical demand. Adapting to automation and green production trends, those holding CQP or BTS diplomas are more favored.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，包含奖金 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪，经验丰富者更高 |
-| 高级（7年以上） | $34,000~$40,000 | 税前年薪，可升至团队领导 |
+| Median salary | $31,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Pre-tax annual salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual pre-tax salary, higher with experience. |
+| Senior (7+ years) | $34,000~$40,000 | Pre-tax annual salary, can be promoted to team leader |
+| average salary | $31,620 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 从初级操作员可晋升为团队领导或工艺技术员，通过继续教育可转向生产管理或质量控制岗位。经验丰富者可成为工艺优化专家。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Chemical plant workers face mixed impacts: AI and automation optimize process control and monitoring, but physical operations and safety responsibilities still require human input; entry-level competition increases slightly.
+
+Junior operators can be promoted to team leaders or process technicians, and through continuing education, they can transition to production management or quality control positions. Experienced candidates can become process optimization experts.
+
+**Tasks most exposed to AI:**
+
+- Data recording and log filling—automated systems collect and store operational data in real time.
+- Routine valve adjustment and parameter monitoring—AI control system automatically maintains optimal operating conditions
+- Simple product sampling and basic quality inspection—online sensors and machine vision replace manual inspection.
+- Repetitive material handling – AGVs and automated conveyor systems take over.
+
+**Where AI augments the role:**
+
+- Anomaly alerts and fault diagnosis – AI analyzes historical data to provide early warnings of equipment risks
+- Optimizing production formulas and parameters—machine learning recommends more efficient operating conditions.
+- Safety training and virtual drills – VR/AR simulate hazardous scenarios to improve emergency response
+- Remote collaboration and expert support—AR glasses enable remote experts to guide on-site operations.
+
+**Human moat:**
+
+- Manual handling of sudden emergencies (e.g., leaks, fires)
+- Manual repair and modification of complex non-standard equipment
+- On-site safety supervision and coordination involving multiple personnel.
+- Sensory judgment of abnormal smells/appearances in raw materials and intermediate products
+
+**Skills to build:**
+
+- Industrial IoT and data platform operation (SCADA, DCS)
+- Basic programming and automation scripting (Python, PLC)
+- Equipment maintenance and fault diagnosis (involving sensors, actuators)
+- Risk management and emergency response (HAZOP, LOPA)
+- Cross-departmental communication and team collaboration (AR remote guidance)
+- Green chemical engineering and energy-saving optimization knowledge
+
+**Key growth areas:**
 
 - Chemical Production
 - Pharmaceutical Manufacturing
@@ -65,69 +98,68 @@ Operates chemical or pharmaceutical production equipment, monitors reactions, en
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 适用于已有法国雇主担保的长期工作合同。需证明岗位无法由欧盟公民填补。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如持有硕士文凭或年薪超过42,052€。可获4年居留。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search Visa)） | 毕业生可申请为期12个月的求职签证，允许工作。 |
+| Subclass Salarié (Salarié (Work Permit)) | Applies to long-term work contracts with employer sponsorship in France. Must demonstrate the position cannot be filled by an EU citizen. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree or annual salary exceeding €42,052. Can obtain a 4-year residence permit. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | Graduates can apply for a 12-month job-seeking visa, which allows them to work. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Chemical or Pharmaceutical Production Equipment Operator？**
-- 注重安全规范、动手能力强的人
-- 愿意学习自动化设备和绿色工艺的人
-- 能适应倒班和化工环境的人
-
-**谁不适合学Chemical or Pharmaceutical Production Equipment Operator？**
-- 对化学气味或危险环境敏感的人
-- 不喜欢重复性体力劳动的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who value safety standards and have strong hands-on abilities
+- Those willing to learn about automation equipment and green processes
+- People who can adapt to shift work and chemical environments
+
+**Who is not suited**
+- People sensitive to chemical odors or hazardous environments
+- People who dislike repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for chemical plant operators?**
+A: Entry-level annual salary is about €24,000-28,000, intermediate salary €28,000-34,000, and senior-grade salary €34,000-40,000. There are usually bonuses and shift allowances.
+
+**Q: How can third-country citizens immigrate to France to pursue this profession?**
+A: You can use the Salarié work visa (employer sponsorship) or Passeport Talent (high-skilled track). Typically, a BTS diploma or equivalent and French B1 level are required.
+
+**Q: What certificates are needed?**
+A: CQP Chemical Operator Qualification (recommended), CACES Equipment Operation Certificate (mandatory), BTS diploma (common requirements).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Chemical or Pharmaceutical Production Equipment Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for chemical operators?**
-答：Entry-level: €24,000-€28,000; mid-level: €28,000-€34,000; senior: €34,000-€40,000. Bonuses and shift allowances included.
-
-**问：How can third-country nationals immigrate to France for this job?**
-答：Via Salarié work visa (employer-sponsored) or Passeport Talent (high-skilled). Usually requires BTS diploma or equivalent and French B1 level.
-
-**问：What certifications are needed?**
-答：CQP chemical operator qualification (recommended), CACES equipment certificate (mandatory), BTS diploma (common requirement).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

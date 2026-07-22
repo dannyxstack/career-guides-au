@@ -1,59 +1,95 @@
-# Pharmacist（Pharmacist）职业分析 · NL
+# Pharmacist — career analysis · Netherlands
 
-**职业代码：2262 – Pharmacist。**
+**Occupation code: 2262 (ISCO08)**
 
-Pharmacists dispense prescription medications, provide drug information, monitor therapeutic outcomes, and ensure safe medication use. They work in community pharmacies, hospitals, or the pharmaceutical industry.
+Pharmacists dispense prescription medications, provide medication consultation, monitor drug efficacy and safety, and play a key role in the Dutch healthcare system. They typically work in community pharmacies, hospitals, or the pharmaceutical industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（大学本科） | $8,000~$12,000（每年学费，欧盟学生较低） |
-| 硕士 | 3年（硕士项目，含实习） | $10,000~$15,000（每年学费，非欧盟学生较高） |
+| Bachelor's degree | 3 years (Bachelor's degree) | $8,000~$12,000 (Annual tuition fee, lower for EU students) |
+| Master's degree | 3 years (master's program, including internship) | $10,000~$15,000 (Annual tuition fee, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药剂学硕士学位 | 荷兰认可大学 | 必备 | 完成3年本科+3年硕士（含实习） |
-| BIG注册 | BIG注册局 | 必备 | 荷兰法定执业注册，需通过评估 |
-| 荷兰语能力 | 自行证明 | 必备 | 需达B2水平以沟通患者 |
+| Master's degree in Pharmacy | Dutch recognized university | Required | Complete 3 years bachelor's + 3 years master's (including internship) |
+| BIG registration | BIG registry | Required | Statutory professional registration in the Netherlands requires assessment. |
+| Dutch language proficiency | self-certification | Required | Must reach B2 level to communicate with patients |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。荷兰药剂师就业前景良好，由于人口老龄化及药物需求增长，行业持续扩张。社区与医院药房均面临人员短缺，尤其在偏远地区。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. The employment outlook for pharmacists in the Netherlands is good, with the industry expanding due to population aging and growing demand for medications. Both community and hospital pharmacies face shortages, especially in remote areas.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $42,000~$52,000 | 税前年薪 |
-| 中级（4-7年） | $52,000~$65,000 | 税前年薪 |
-| 高级（8年以上） | $65,000~$85,000 | 税前年薪，含管理职责 |
+| Median salary | $79,238 | Median Salary (Official: CBS median hourly wage €40.1/hour × 1976h annualized, BRC group 1011 Artsen; P25–P75 €62,244–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $42,000~$52,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $52,000~$65,000 | Annual pre-tax salary |
+| Senior (8+ years) | $65,000~$85,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $60,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级药剂师可晋升为药房经理或专科药师（如肿瘤、老年药学）。经验丰富者可转向制药研发、药物安全或监管事务等方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
+
+Junior pharmacists can advance to pharmacy manager or specialist pharmacist (e.g., oncology, geriatric pharmacy). Experienced pharmacists can move into pharmaceutical R&D, drug safety, or regulatory affairs.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Standardized drug dispensing and dose calculation
+- Inventory management and automatic replenishment
+- Drug information retrieval and simple medication consultation
+- Automatic bill reconciliation with insurance systems
+
+**Where AI augments the role:**
+
+- Use AI to predict individual drug responses and adverse reaction risks
+- Personalized medication regimen optimization based on clinical data
+- Smart triage and remote patient medication follow-up
+- Improved Vaccine Management and Promotion Efficiency
+- Pharmacoeconomic analysis and real-world evidence generation
+
+**Human moat:**
+
+- Medication management and clinical decision-making for complex cases.
+- Face-to-face patient consultation and medication adherence intervention
+- Coordination and communication within multidisciplinary healthcare teams
+- Ethical decision-making and pharmaceutical legal compliance judgment
+- Patient education on emerging therapies (e.g., gene therapy)
+
+**Skills to build:**
+
+- AI-driven clinical decision support system operation
+- Pharmacogenomics and precision medication analysis
+- Telemedicine and digital health tool application
+- Statistical data analysis and real-world research skills
+- Medical ethics and privacy protection compliance knowledge
+- Vaccine management and public health skills
+
+**Key growth areas:**
 
 - Pharmaceutical care
 - Clinical pharmacy
@@ -62,68 +98,67 @@ Pharmacists dispense prescription medications, provide drug information, monitor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Scheme） | 针对高技能移民，雇主担保，需满足薪资门槛（2024年约€5,331/月）。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高学历专业人员，需有工作合同且薪资达标（2024年约€5,900/月）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰毕业或在世界顶尖大学硕士/博士毕业者可申请一年找工作时间。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For high-skilled migrants, employer sponsorship requires meeting the salary threshold (approximately €5,331/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and meeting salary threshold (approximately €5,900/month in 2024). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates in the Netherlands or holders of a master's/PhD from a world top university can apply for one year of job-seeking time. |
 
-**PR难度：中（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 对药物科学和患者护理有高度热情
-- 具备细致和责任感，能承担用药安全重任
-- 愿意学习荷兰语至B2水平以直接服务患者
-
-**谁不适合学Pharmacist？**
-- 不擅长沟通或团队协作
-- 无法承受高压环境及快节奏工作
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- High passion for pharmaceutical science and patient care
+- Possess meticulousness and a sense of responsibility, capable of bearing the heavy responsibility of medication safety.
+- Willingness to learn Dutch to B2 level to directly serve patients
+
+**Who is not suited**
+- Not good at communication or teamwork
+- Unable to cope with high-pressure environments and fast-paced work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a pharmacist in the Netherlands?**
+A: Entry-level pharmacist annual income is about €42,000-52,000, experienced can reach €65,000-85,000.
+
+**Q: How can non-EU pharmacists immigrate to the Netherlands?**
+A: Eligible via Highly Skilled Migrant (kennismigrant) or EU Blue Card routes, requiring employer sponsorship and meeting salary requirements. Qualifications must be assessed and registered with BIG.
+
+**Q: How to get overseas pharmacist qualifications recognized in the Netherlands?**
+A: Must undergo a Nuffic assessment of qualifications, then apply for registration with BIG. May need to complete supplementary courses or internships. Dutch language proficiency must be B2.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Pharmacist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for pharmacists in the Netherlands?**
-答：Entry-level pharmacists earn €42,000-€52,000 annually, while experienced pharmacists can earn €65,000-€85,000.
-
-**问：How can non-EU pharmacists migrate to the Netherlands?**
-答：Through the Highly Skilled Migrant scheme or EU Blue Card, requiring employer sponsorship and meeting salary thresholds. Diplomas must be assessed and registered with BIG.
-
-**问：How are overseas pharmacist qualifications recognized in the Netherlands?**
-答：Diplomas are evaluated by Nuffic, followed by BIG registration. Additional courses or internships may be required. Dutch language proficiency at B2 is mandatory.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

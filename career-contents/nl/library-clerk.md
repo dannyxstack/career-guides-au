@@ -1,58 +1,90 @@
-# Library Clerk（Library Clerk）职业分析 · NL
+# Library Clerk — career analysis · Netherlands
 
-**职业代码：4411 – Library Clerk。**
+**Occupation code: 4411 (ISCO08)**
 
-Library clerks handle book checkout, shelf organization, assist patrons with information retrieval, and perform routine administrative tasks to support library operations.
+Library staff are responsible for book lending and returns, shelf organization, assisting readers with information queries, and daily administrative tasks, forming the foundational support role for library operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3-4年 | —（公立MBO学费约每年€1,200-€2,000，部分项目免费） |
-| 高等职业教育 (HBO) | 4年（学士） | $2,500~$5,000（公立HBO学费约€2,500/年） |
+| Secondary vocational education (MBO) | 3-4 years | $0~$2,000 (Public MBO tuition is about €1,200-€2,000 per year, some programs are free) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's) | $2,500~$5,000 (Public HBO tuition approx. €2,500/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 图书馆服务MBO文凭 | ROC (地区职业培训中心) | 可选 | 可从事基础图书馆工作 |
-| 信息科学HBO学士 | 应用科学大学 | 可选 | 提升至高级职位或专业岗位 |
+| MBO Diploma in Library Services | ROC (Regional Occupational Training Center) | Optional | Can perform basic library work |
+| Bachelor of Information Science HBO | University of Applied Sciences | Optional | Advance to senior or specialized roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。荷兰图书馆行业就业稳定，受数字化影响，传统岗位需求缓慢下降，但公共图书馆和学术图书馆仍需要职员维护实体资源与提供读者服务。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Employment in the Dutch library sector is stable, but digitization is causing a slow decline in demand for traditional roles. However, public and academic libraries still need staff to maintain physical resources and provide reader services.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$37,000 | 税前年薪 |
-| 高级（7年以上） | $37,000~$45,000 | 税前年薪 |
+| Median salary | $43,472 | Median salary (official: CBS median hourly wage €22.0/hour × 1,976 hours annualized, BRC group 0431 Administratief medewerkers; P25–P75 €34,975–€52,166, CBS 2024) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$37,000 | Annual pre-tax salary |
+| Senior (7+ years) | $37,000~$45,000 | Annual pre-tax salary |
+| average salary | $33,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级图书馆职员可晋升为高级职员或部门主管，也可通过进修成为图书馆信息专业人员（如信息专家或图书管理员），部分人转向档案管理或数字内容管理。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Library staff positions are significantly impacted by AI and automation; repetitive tasks like borrowing, returning, and inquiries will be replaced, but reader services still rely on interpersonal skills, with entry-level roles notably shrinking.
+
+Junior library staff can advance to senior staff or department heads, or pursue further study to become library information professionals (e.g., information specialists or librarians); some transition into archives management or digital content management.
+
+**Tasks most exposed to AI:**
+
+- Self-service book borrowing and returning machines replace manual check-in and check-out processes
+- AI chatbots replacing common FAQ consultation services
+- Automatic sorting and inventory robots replace bookshelf organization and stock checks
+- OCR and RFID technologies replace manual scanning and label pasting.
+
+**Where AI augments the role:**
+
+- AI recommendation system assists personalized reading recommendations
+- Smart analytics tools optimize collection configuration and purchasing decisions
+- Digital archive management tools improve e-resource organization efficiency
+- Natural language processing assists readers with deep information retrieval
+
+**Human moat:**
+
+- Complex reader inquiries and needs understanding
+- Community event planning and community maintenance
+- Valuation and quality screening of collection resources
+- Cross-departmental coordination and emergency service handling
+
+**Skills to build:**
+
+- Digital literacy and electronic resource management
+- Data Analysis and Reading Trend Insights
+- AI tool application and automated workflow design
+- Community service and event planning skills
+- Critical thinking and information evaluation
+
+**Key growth areas:**
 
 - Stable
 - Digital transition
@@ -61,66 +93,65 @@ Library clerks handle book checkout, shelf organization, assist patrons with inf
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（非紧缺）（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合年薪达阈值的高技能移民，图书馆职员通常不满足薪资要求 |
-| Subclass EU Blue Card（EU Blue Card） | 要求年薪不低于€58,000（2025年），通常不适用 |
-| Subclass Orientation Year（Orientation Year） | 荷兰高校毕业生可申请一年找工作签证，找到工作后可转工签 |
-| Subclass EU Freedom of Moveme（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由在荷兰工作 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled migrants meeting salary thresholds; library staff usually do not meet salary requirements |
+| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €58,000 (2025), not typically applicable. |
+| Subclass Orientation Year (Orientation Year) | Dutch graduates can apply for a one-year job-seeking visa, and can switch to a work visa after finding a job |
+| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can freely work in the Netherlands |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Library Clerk？**
-- 喜欢安静工作环境的人
-- 细心有条理、善于整理资料的人
-- 乐于帮助他人、服务意识强的人
-
-**谁不适合学Library Clerk？**
-- 追求高薪与快速晋升的人
-- 希望从事技术性强、创新性工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who prefer a quiet work environment
+- Detail-oriented, organized people who are good at sorting information
+- People who enjoy helping others and have a strong sense of service
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who want to work in technically strong and innovative fields
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for library staff in the Netherlands?**
+A: Junior annual salary approx €24,000-€30,000, mid-level €30,000-€37,000, senior €37,000-€45,000.
+
+**Q: Can non-EU citizens immigrate to the Netherlands through library clerk work?**
+A: Difficult, as this occupation does not fall under high-skilled migration categories, and salaries typically do not meet work visa thresholds, unless through EU Blue Card or knowledge migration routes, but salary requirements are high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（非紧缺）（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Library Clerk的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for library clerks in the Netherlands?**
-答：Entry-level annual salary ranges from €24,000 to €30,000, mid-level €30,000-€37,000, senior €37,000-€45,000.
-
-**问：Can non-EU nationals immigrate to the Netherlands as a library clerk?**
-答：It is difficult because the occupation is not considered highly skilled; salaries usually fall below work permit thresholds unless through EU Blue Card or Highly Skilled Migrant scheme, which require higher income.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

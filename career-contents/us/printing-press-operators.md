@@ -1,61 +1,97 @@
-# Printing Press Operators（Printing Press Operators）职业分析 · 美国
+# Printing Press Operators — career analysis · United States
 
-**职业代码：51-5112 – Printing Press Operators。**
+**Occupation code: 51-5112 (SOC)**
 
-Set up and operate digital, letterpress, lithographic, flexographic, gravure, or other printing machines, including short-run offset presses. Prepare paper, ink, and plates, ensuring print quality.
+Set up and operate digital, lithographic, flexographic, gravure and other printing presses, including short-run offset presses. Responsible for preparing paper, ink and plates, ensuring print quality.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭/同等学历 | 4年 | —（公立高中免费） |
-| 职业技术证书 | 6个月-2年 | $2,000~$15,000（社区学院或技术学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Vocational technical certificate | 6 months to 2 years | $2,000~$15,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印刷操作证书 | 相关行业协会或技术学校 | 可选 | 非强制但有助于就业 |
-| 安全培训 | 雇主或OSHA | 可选 | 通常由雇主提供 |
-| 在职培训 | 雇主 | 必备 | 通常1-3个月 |
+| On-the-job training | Employer | Required | Typically 1-3 months |
+| Printing operation certificate | Relevant industry associations or technical schools | Optional | Not mandatory but helpful for employment |
+| Safety training | Employer or OSHA | Optional | Typically provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 152,400。美国印刷业预计缓慢衰退，因数字化媒体增长导致印刷需求下降。但包装印刷和数字印刷领域仍有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 152,400. The US printing industry is expected to slowly decline due to growth in digital media reducing demand for printing. However, packaging printing and digital printing still have steady demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$40,000 | 实习或入门级 |
-| 中级（3-10年） | $40,000~$55,000 | 经验丰富的操作员 |
-| 高级（10年以上） | $55,000~$70,000 | 领班或技术专家 |
+| Median salary | $45,780 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$40,000 | Internship or entry-level |
+| Intermediate (3-10 years) | $40,000~$55,000 | Experienced operator |
+| Senior (10+ years) | $55,000~$70,000 | Foreman or technical specialist |
+| average salary | $47,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级操作员可晋升为高级操作员、领班或生产主管。部分转向数字印刷、质量控制或设备销售领域。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI automation will significantly reduce demand for printing press operator positions; digital printing and automated processes reduce entry-level operations, but high-end equipment setup and color management still require human judgment.
+
+Junior operators can advance to senior operator, team leader, or production supervisor. Some transition to digital printing, quality control, or equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Routine printing parameter settings (e.g., ink viscosity, pressure adjustment) are automatically optimized by AI
+- Visual inspection of print quality is being replaced by machine vision systems
+- Automated loading/unloading and cleaning of printing plates by robots
+- Smart system automatically replenishes paper and ink inventory
+- Preliminary diagnosis of equipment faults handled by AI predictive maintenance system
+
+**Where AI augments the role:**
+
+- AI-assisted color matching and spot color formulation, improving color mixing efficiency
+- Digital printing workflow management and production scheduling optimization
+- Uses data analysis to predict printing defects and adjust parameters in advance
+- Access equipment repair guidance via AR headset to reduce downtime
+- Customer digital file pre-processing and pre-press inspection automation
+
+**Human moat:**
+
+- Complex color management and high-precision print quality control
+- Debugging and innovation in non-standard specialty printing processes.
+- In-depth equipment repair and mechanical troubleshooting
+- Customer communication and custom printing solution design
+- Safety production and environmental compliance management
+
+**Skills to build:**
+
+- Digital printing workflow software (e.g., EFI Fiery, Kodak Prinergy)
+- Color management tools (e.g., X-Rite i1Pro)
+- Basic programming and automation scripts (Python for data collection and analysis)
+- Equipment maintenance and electrical knowledge (able to handle PLC control systems)
+- Data analysis and statistical process control (SPC)
+- Environmental and safety compliance knowledge
+
+**Key growth areas:**
 
 - Digital Printing
 - Packaging
@@ -64,65 +100,67 @@ Set up and operate digital, letterpress, lithographic, flexographic, gravure, or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 印刷机操作员通常不满足专业职业要求，H-1B获批难度大。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 理论上可行，但需PERM劳工证证明劳工短缺，行业需求不足。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法招聘到美国工人，实际操作困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Printing press operators generally do not meet professional occupation requirements, making H-1B approval difficult. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Theoretically possible, but requires a PERM labor certification proving labor shortage; industry demand is insufficient. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to recruit US workers, practically difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Printing Press Operators？**
-- 注重细节和动手能力的人
-- 喜欢稳定、重复性工作的人
+**Who is suited**
+- People who are detail-oriented and hands-on
+- Those who enjoy stable, repetitive work
 
-**谁不适合学Printing Press Operators？**
-- 追求高薪和职业发展的人
-- 不适应噪音和油墨气味的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- Those who cannot tolerate noise and ink smells
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for printing press operators?**
+A: According to BLS 2023 data, median annual salary ~$37,000 USD, entry-level under $28,000, senior up to $55,000-70,000
+
+**Q: Can a printing press operator immigrate to the US?**
+A: Very difficult. This occupation is not in STEM or high-skilled shortage occupations, making it hard for employers to prove labor shortage via PERM labor certification, and H-1B approval is also difficult.
+
+**Q: What are the prospects for a printing press operator?**
+A: Expected employment decline of more than 10% over the next decade due to digitalization and automation. But some opportunities remain in packaging and digital printing.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Printing Press Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for printing press operators?**
-答：According to BLS 2023, median annual wage is about $37,000; entry-level under $28,000, experienced $55,000-$70,000.
-
-**问：Can printing press operators immigrate to the US?**
-答：Very difficult. It's not a STEM or shortage occupation; employers struggle to prove labor shortage via PERM, and H-1B is challenging.
-
-**问：What is the future outlook for printing press operators?**
-答：Expected to decline over 10% in next decade due to digitization and automation. However, packaging and digital printing offer some opportunities.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Furniture And Wood Industries Supervisor（Furniture And Wood Industries Supervisor）职业分析 · FR
+# Furniture And Wood Industries Supervisor — career analysis · France
 
-**职业代码：H2204 – Furniture And Wood Industries Supervisor。**
+**Occupation code: H2204 (ROME)**
 
-Oversees the manufacturing process of furniture and wood products, including production planning, quality control, team management, and safety compliance.
+Responsible for overseeing the manufacturing process of furniture and wood products, including production planning, quality control, team management, and safety compliance.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭（CAP） | 2年 | —（公立学校免费，材料费约1000欧元） |
-| 高级技师证书（BTS） | 2年（BTS） | —（公立学校免费，私立学校约2000欧元/年） |
+| Vocational High School Diploma (CAP) | 2 years | $0~$1,000 (Public schools are free, with material costs around 1000 euros) |
+| Senior Technician Certificate (BTS) | 2 Years (BTS) | $0~$2,000 (Public schools are free; private schools approx. 2000 euros per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业高中文凭（CAP） | 法国教育部 | 可选 | 木材或家具相关专业 |
-| 高级技师证书（BTS） | 法国教育部 | 可选 | 木材、家具或生产管理相关专业 |
-| CQP生产经理 | 法国木材及家具行业职业分类委员会 | 可选 | 行业认证，非强制但受雇主欢迎 |
+| Vocational High School Diploma (CAP) | French Ministry of Education | Optional | Majors related to wood or furniture |
+| Senior Technician Certificate (BTS) | French Ministry of Education | Optional | Majors related to wood, furniture, or production management |
+| CQP Production Manager | French Wood and Furniture Industry Occupational Classification Committee | Optional | Industry certification, not mandatory but favored by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。法国木材和家具行业面临数字化转型和可持续发展趋势，对拥有管理技能和经验的主管需求稳定。预计岗位数量将保持平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. France's wood and furniture industry faces trends of digital transformation and sustainability, with a steady demand for supervisors with management skills and experience. The number of positions is expected to remain stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Senior (7+ years) | $38,000~$45,000 | Annual pre-tax salary |
+| average salary | $31,784 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从技术工人晋升为主管，再晋升为生产经理或工厂经理。需积累管理经验并掌握精益生产等技能。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of furniture and wood industry supervisors will undergo a 'mixed outcome' transformation due to AI: production planning and data analysis tasks are automated, but on-site management, quality judgment, and personnel coordination still require human experience, with job roles upgrading from operational supervision to technical management.
+
+You can be promoted from a skilled worker to a supervisor, and then to a production manager or factory manager. Needs to accumulate management experience and master skills such as lean production.
+
+**Tasks most exposed to AI:**
+
+- Automated production scheduling and AI-optimized production planning
+- Machine vision quality inspection replaces manual visual inspection
+- Anomaly detection and early warning, AI monitoring equipment status
+- Document generation and compliance reports, automatically written by NLP
+- Basic data statistics and reporting, AI summary analysis
+
+**Where AI augments the role:**
+
+- Use AI-driven predictive maintenance to reduce downtime and improve supervisor decision-making efficiency
+- AI-assisted wood utilization calculation reduces waste costs
+- Digital twin simulates production processes and optimizes process testing
+- AI training systems assist in skill transfer for new employees
+- Real-time data analysis dashboards support rapid on-site decision-making
+
+**Human moat:**
+
+- Root cause analysis and manual repair of complex quality issues
+- Cross-trade on-site coordination and conflict management
+- Customer communication and design implementation for customized furniture
+- Safety compliance supervision and emergency response
+- Team morale motivation and craftsman skill inheritance
+
+**Skills to build:**
+
+- Data analysis and visualization tools (Tableau, Power BI)
+- Fundamentals in AI/machine learning, understanding of predictive model applications
+- Digital twin and simulation software operation
+- Lean production and Six Sigma management
+- Cross-cultural team management and communication
+- Basic programming (Python or R) is used for automated scripting
+
+**Key growth areas:**
 
 - Digitalization
 - Sustainable materials
@@ -64,65 +100,67 @@ Oversees the manufacturing process of furniture and wood products, including pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明该职位无法由欧盟公民填补。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于高级管理或技术人才，需达到一定薪资门槛。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position cannot be filled by an EU citizen. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for senior management or technical talent, requiring them to meet a certain salary threshold. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Furniture And Wood Industries Supervisor？**
-- 有制造业或木工背景的技术工人
-- 擅长团队管理和生产调度的人
-- 对木材和家具行业有兴趣者
+**Who is suited**
+- Skilled workers with manufacturing or carpentry backgrounds
+- Skilled in team management and production scheduling
+- For those interested in the wood and furniture industry
 
-**谁不适合学Furniture And Wood Industries Supervisor？**
-- 不喜欢现场管理和体力劳动的人
-- 缺乏领导能力和沟通技巧的人
+**Who is not suited**
+- People who dislike on-site management and manual labor
+- People who lack leadership and communication skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for supervisors in the furniture and wood industry?**
+A: Junior managers earn an annual salary of about 25,000-30,000 euros, intermediate managers 30,000-38,000 euros, and senior managers up to 45,000 euros.
+
+**Q: How can foreigners immigrate to France through this profession?**
+A: You need to obtain a work contract from a French employer (Salarié visa) or apply through a Passeport Talent passport, usually requiring management experience or a high level of education. This occupation is not considered in short supply, and visas are somewhat challenging.
+
+**Q: What educational qualifications are required to become a supervisor?**
+A: Typically, a BTS (Advanced Technician Certificate) or equivalent qualification is required; some employers accept CAP plus years of experience. Apprenticeships are a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Furniture And Wood Industries Supervisor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a furniture and wood industries supervisor?**
-答：Entry-level supervisors earn about €25,000-30,000 per year, mid-level €30,000-38,000, and senior up to €45,000.
-
-**问：How can a foreigner immigrate to France through this occupation?**
-答：You need a job offer from a French employer (Salarié visa) or apply for a Talent Passport, which requires management experience or higher education. This occupation is not on the shortage list, making visa sponsorship challenging.
-
-**问：What education is required to become a supervisor?**
-答：Typically a BTS (advanced technician certificate) or equivalent, though some employers accept CAP with several years of experience. Apprenticeship is a common pathway.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

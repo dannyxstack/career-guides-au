@@ -1,58 +1,92 @@
-# Health Professionals Not Elsewhere Classified（Health Professionals Not Elsewhere Classified）职业分析 · NL
+# Health Professionals Not Elsewhere Classified — career analysis · Netherlands
 
-**职业代码：2269 – Health Professionals Not Elsewhere Classified。**
+**Occupation code: 2269 (ISCO08)**
 
-This occupation covers health professionals not elsewhere classified, such as health policy advisors, public health experts, and health educators, supporting the Dutch healthcare system through planning, research, and education.
+This occupation covers health professionals not elsewhere classified, such as health policy advisors, public health specialists, health educators, etc., playing supportive roles in planning, research, and education within the Dutch healthcare system.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 学士 | 4年（本科） | $10,000~$15,000（荷兰本科年均学费，欧盟/EEA学生约2,200欧元） |
-| 硕士 | 1-2年 | $15,000~$20,000（硕士年均学费，非欧盟学生较高） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (Average annual tuition for undergraduate studies in the Netherlands: approximately €2,200 for EU/EEA students) |
+| Master's degree | 1-2 years | $15,000~$20,000 (Average annual master's degree tuition, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 健康科学相关学士学位 | 荷兰认证大学 | 必备 | 公共卫生、健康政策、健康科学等专业 |
-| BIG注册（如适用） | 荷兰卫生、福利和体育部 | 可选 | 仅当从事受监管职业时需BIG注册 |
+| Bachelor's degree in health sciences | Dutch accredited universities | Required | Majors in public health, health policy, health science, etc. |
+| BIG registration (if applicable) | Ministry of Health, Welfare and Sport of the Netherlands | Optional | BIG registration required only when practicing a regulated profession |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。荷兰人口老龄化和医疗改革推动对公共卫生和健康管理专家的需求增长，预计未来5年就业机会稳步增加，尤其是在政策制定和预防保健领域。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. Population aging and healthcare reforms in the Netherlands drive demand for public health and health management experts. Employment opportunities are expected to steadily increase over the next 5 years, especially in policy-making and preventive care.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 税前年薪，公立医疗或政府机构 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $55,000~$75,000 | 税前年薪，管理或专家职位 |
+| Median salary | $79,238 | Median Salary (Official: CBS median hourly wage €40.1/hour × 1976h annualized, BRC group 1011 Artsen; P25–P75 €62,244–€117,177, CBS 2024) |
+| Entry level (0–3 years) | $30,000~$40,000 | Pre-tax annual salary, public healthcare or government agencies |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $55,000~$75,000 | Pre-tax annual salary for management or specialist roles. |
+| average salary | $49,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★★☆）。** 初级职位如健康政策助理可晋升为高级顾问或项目经理，积累经验后可转向管理层或学术研究，也可通过继续教育专攻流行病学或卫生经济学。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+This occupation involves diverse tasks; some administrative and data work is easily replaced by AI, but core responsibilities like policy consultation and cross-departmental coordination rely on human judgment and ethics, presenting a mixed outlook.
+
+Entry-level roles like health policy assistant can advance to senior consultant or project manager; with experience, move into management or academic research, or specialize in epidemiology or health economics through further education.
+
+**Tasks most exposed to AI:**
+
+- Health data statistics and report generation
+- Literature Review and Policy Analysis Draft
+- Template-based creation of health education materials
+- Automated collection and organization of public health surveillance data.
+
+**Where AI augments the role:**
+
+- AI-assisted epidemiological modeling and prediction
+- Using natural language processing to quickly analyse policy documents
+- AI tools optimize personalized recommendations for health education content.
+- Data visualization tools improve reporting and communication effectiveness.
+- AI-driven population health risk assessment
+
+**Human moat:**
+
+- Cross-departmental, cross-cultural communication and collaboration
+- Values-based public health policy recommendations.
+- Ethical judgment and response in emergencies
+- Building and maintaining community trust relationships
+
+**Skills to build:**
+
+- Public health data analysis and statistical tools (e.g., R, Python)
+- Using AI-assisted policy analysis tools
+- Health communication and digital media skills
+- Project management and stakeholder coordination
+- Understanding of basic machine learning models in healthcare applications
+- Ethics and regulatory awareness (e.g., guidelines for AI use in health)
+
+**Key growth areas:**
 
 - Aging population
 - Preventive healthcare
@@ -61,68 +95,67 @@ This occupation covers health professionals not elsewhere classified, such as he
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于有工作合同且薪资达门槛的高技能移民，雇主需为认证担保人 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历非欧盟公民，要求工作合同且薪资高于一定水平，可携带家属 |
-| Subclass Orientation Year（Orientation Year） | 适用于在荷兰或指定国家毕业的留学生，提供1年找工作时间 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with a work contract and salary meeting the threshold; the employer must be an approved sponsor. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated non-EU citizens, requires a work contract and salary above a certain level, can bring family |
+| Subclass Orientation Year (Orientation Year) | For international graduates from the Netherlands or designated countries, provides 1 year for job seeking |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Health Professionals Not Elsewhere Classified？**
-- 对公共健康和卫生政策有浓厚兴趣的人
-- 具备分析能力和跨文化沟通能力的人
-- 希望在医疗系统中从事管理和规划工作的人
-
-**谁不适合学Health Professionals Not Elsewhere Classified？**
-- 偏好临床直接患者护理者
-- 对政策研究和文书工作缺乏耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in public health and health policy
+- People with analytical skills and cross-cultural communication skills
+- People who wish to work in management and planning roles within the healthcare system.
+
+**Who is not suited**
+- Those who prefer direct clinical patient care
+- Those lacking patience for policy research and paperwork tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for 'Other Health Professionals Not Elsewhere Classified' in the Netherlands?**
+A: Pre-tax annual salary for entry-level positions is around 30,000-40,000 euros, mid-level 40,000-55,000 euros, and senior 55,000-75,000 euros.
+
+**Q: How to immigrate to the Netherlands through this occupation as a non-EU citizen?**
+A: Common pathways are the Highly Skilled Migrant (Kennismigrant) or EU Blue Card, requiring a job offer from a Dutch employer meeting salary thresholds, and the employer must be an IND-recognized sponsor.
+
+**Q: What are the career development paths for this occupation in the Netherlands?**
+A: Career progression towards health policy advisor, public health program manager, health data analyst, etc., or entering academia or international organizations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Health Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Health Professionals Not Elsewhere Classified in the Netherlands?**
-答：Entry-level positions earn approximately EUR 30,000-40,000 gross annually, mid-level EUR 40,000-55,000, and senior EUR 55,000-75,000.
-
-**问：How can non-EU citizens migrate to the Netherlands through this occupation?**
-答：Common paths are the Highly Skilled Migrant scheme or EU Blue Card, requiring a job offer from a recognized sponsor and meeting salary thresholds.
-
-**问：What are the career development paths for this occupation in the Netherlands?**
-答：Opportunities include health policy advisor, public health project manager, health data analyst, or academia and international organizations.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

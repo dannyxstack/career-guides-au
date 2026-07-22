@@ -1,60 +1,96 @@
-# Physicians (without specialization)（Physicians (without specialization)）职业分析 · DE
+# Physicians (without specialization) — career analysis · Germany
 
-**职业代码：8140 – Physicians (without specialization)。**
+**Occupation code: 8140 (KldB)**
 
-Physicians diagnose and treat diseases and injuries, including taking medical histories, performing examinations, and prescribing medications. In Germany, the profession requires university medical education and state examination for licensure.
+Doctors diagnose and treat diseases and injuries, including history taking, physical examinations, and prescribing. In Germany, a medical degree and state exam are required for licensure.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学医学教育 | 6年（本硕连读） | $3,000~$60,000（公立大学每学期约150-300欧元注册费，私立大学学费较高） |
+| University medical education | 6 years (combined bachelor's and master's) | $3,000~$60,000 (Public universities charge approximately 150-300 euros per semester in registration fees; private universities have higher tuition.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学国家考试（Staatsexamen） | 各州考试委员会 | 必备 | 通过后获执业许可，需通过三次考试 |
-| 执业许可（Approbation） | 各州卫生局 | 必备 | 必需，需德语C1水平、通过考试 |
-| 专科医师资格（Facharzt） | 各州医师协会 | 可选 | 非必需，但推荐，需5-6年培训 |
+| State medical examination (Staatsexamen) | State examination boards | Required | Requires a post-study work permit and passing three exams. |
+| Practicing license (Approbation) | State health departments | Required | Required, need German C1 level, pass the exam. |
+| Specialist medical qualification (Facharzt) | State medical associations | Optional | Not required, but recommended; requires 5-6 years of training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 420,000。德国医生长期紧缺，尤其是农村地区。联邦劳工局列为紧缺职业，岗位需求持续增长，预计未来十年仍有大量缺口。
+**Job demand: very high (★★★★½).** National workforce approx. 420,000. German doctors are in chronic shortage, especially in rural areas. The Federal Employment Agency lists it as a shortage occupation, with job demand continuously growing, and a large gap is expected in the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 助理医师（Assistenzarzt） |
-| 中级（3-8年） | $70,000~$100,000 | 专科医生（Facharzt） |
-| 高级（8年以上） | $100,000~$180,000 | 主任医师（Chefarzt）或私人诊所 |
+| Median salary | $103,608 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $50,000~$70,000 | Assistant Doctor (Assistenzarzt) |
+| Mid-level (3–8 years) | $70,000~$100,000 | Specialist doctor (Facharzt) |
+| Senior (8+ years) | $100,000~$180,000 | Chief physician (Chefarzt) or private practice |
+| average salary | $119,544 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 完成专科培训后可成为专科医生，进一步可担任主治医师、科室主任或医疗总监。也可从事学术研究或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on doctors is mixed: automation reduces some documentation and diagnostic tasks, but AI also enhances doctors' capabilities; core skills like clinical judgment and empathetic communication remain human-led.
+
+After completing specialist training, can become a specialist doctor, and further advance to attending physician, department head, or medical director. Can also engage in academic research or open a private practice.
+
+**Tasks most exposed to AI:**
+
+- Medical history collection and initial triage (AI chatbot and decision support system)
+- Medical image preliminary screening and report generation (e.g., X-ray, CT)
+- Routine laboratory result interpretation and standardized reporting
+- Prescription review and drug interaction checking
+- Medical documentation writing and coding
+
+**Where AI augments the role:**
+
+- Medical imaging: AI-assisted precise identification of lesions to improve detection rate
+- Personalized treatment plans: precise recommendations based on big data and genomics
+- Surgical planning and navigation: AI-assisted 3D modeling and intraoperative real-time guidance
+- Patient monitoring: early warning via wearable devices and AI analysis
+- Medical research: natural language processing accelerates literature review and clinical trial matching
+
+**Human moat:**
+
+- Complex clinical judgment and uncertain decision-making
+- Doctor-patient communication and empathy skills
+- Ethical dilemma trade-offs and responsibility assumption
+- Interdisciplinary collaboration and leadership
+- Unpredictable emergency handling
+
+**Skills to build:**
+
+- Clinical decision support system usage
+- Medical data analysis and statistics
+- AI Fundamentals and Medical Machine Learning Applications
+- Digital Health and Telemedicine
+- Bioinformatics and genomics interpretation
+- Communication and Leadership
+
+**Key growth areas:**
 
 - aging population
 - rural shortage
@@ -63,69 +99,68 @@ Physicians diagnose and treat diseases and injuries, including taking medical hi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于医生等高技能移民，年薪门槛约58,400欧元（2024年），紧缺职业降至45,552欧元。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 学历认证后可通过此路径，无薪资门槛，需工作合同。 |
-| Subclass Recognition of Quali（Recognition of Qualifications (Anerkennung)） | 外国医生需认证学历，可能需补修课程或考试。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled migrants like doctors, annual salary threshold approx. €58,400 (2024), reduced to €45,552 for shortage occupations. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | After qualification assessment, this pathway is available with no salary threshold, but requires a work contract. |
+| Subclass Recognition of Quali (Recognition of Qualifications (Anerkennung)) | Foreign doctors need their qualifications certified and may be required to take bridging courses or exams. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physicians (without specialization)？**
-- 医学专业背景
-- 德语C1以上
-- 能承受高工作压力
-
-**谁不适合学Physicians (without specialization)？**
-- 德语B2以下
-- 无法适应轮班
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical background
+- German C1 or above
+- Able to handle high work pressure
+
+**Who is not suited**
+- Below B2 German proficiency
+- Unable to adapt to shift work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a German doctor?**
+A: Junior doctor annual salary about 50,000-70,000 euros, specialist doctor 70,000-100,000 euros, chief physician can reach 100,000-180,000 euros.
+
+**Q: How can a foreign doctor immigrate to Germany?**
+A: Must complete credential evaluation, pass the German C1 exam, and apply for a practicing license. Eligible via EU Blue Card or skilled migration visa.
+
+**Q: How to certify Chinese medical degrees in Germany?**
+A: Application to the state health department required, certification process takes about 3-6 months, may need to take bridging courses or knowledge exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Physicians (without specialization)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for physicians in Germany?**
-答：Junior physicians earn around €50,000-70,000, specialists €70,000-100,000, and chief physicians up to €100,000-180,000 annually.
-
-**问：How can foreign physicians immigrate to Germany?**
-答：Requires recognition of qualifications, German C1, and licensure. Eligible for EU Blue Card or Skilled Worker visa.
-
-**问：How is Chinese medical degree recognized in Germany?**
-答：Apply to state health authority; process takes 3-6 months, may require bridging courses or knowledge exam.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

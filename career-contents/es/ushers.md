@@ -1,58 +1,94 @@
-# Ushers（Ushers）职业分析 · ES
+# Ushers — career analysis · Spain
 
-**职业代码：9431 – Ushers。**
+**Occupation code: 9431 (CNO)**
 
-Reception and support staff in public institutions or private companies, handling visitors, phone calls, mail distribution, and maintaining order.
+Personnel in Spanish public institutions or private companies responsible for receiving visitors, registering information, transferring phone calls, distributing emails, and maintaining order.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育毕业 | 无固定学时 | —（通常要求初中毕业即可） |
+| Graduated from compulsory education | No fixed study hours | $0~$0 (Usually, a junior high school graduation is sufficient) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格要求 | 无 | 可选 | 雇主可能要求基本计算机操作和沟通技能 |
+| No mandatory qualification requirements | None | Optional | Employers may require basic computer operation and communication skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 65,000。该职业需求稳定，但增长缓慢。就业机会主要集中在政府、大型企业及物业管理部门。数字化趋势可能减少部分岗位，但接待值守职能仍不可或缺。
+**Job demand: low (★½☆☆☆).** National workforce approx. 65,000. The demand for this profession is stable but growth is slow. Employment opportunities are mainly concentrated in government, large enterprises, and property management departments. The digitalization trend may reduce some positions, but receptionist duties remain indispensable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$19,000 | 税前年薪 |
-| 中级（3-7年） | $19,000~$23,000 | 税前年薪 |
-| 高级（7年以上） | $23,000~$27,000 | 税前年薪 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$19,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $19,000~$23,000 | Annual pre-tax salary |
+| Senior (7+ years) | $23,000~$27,000 | Annual pre-tax salary |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 通常从基层门房做起，积累经验后可升任行政助理、办公室主管或物业经理。部分可通过内部考试进入公共行政体系。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Gatekeeper/reception staff face a high risk of being replaced by AI automation. Repetitive tasks such as basic reception, registration, and phone transfers will be gradually replaced, significantly reducing the number of positions.
+
+Usually, they start as frontline doormen and, after gaining experience, can be promoted to administrative assistant, office supervisor, or property manager. Some can enter the public administration system through internal exams.
+
+**Tasks most exposed to AI:**
+
+- Visitor information registration and identity verification (AI facial recognition + self-service QR code scanning)
+- Call Transfer and Message Transfer (AI Voice Assistant Automatic Transfer)
+- Distribution of mail and parcels (robot delivery or smart lockers)
+- Maintaining order and simple guidance (AI monitoring and navigation system)
+- Basic Inquiry Response (AI chatbot or voice response)
+
+**Where AI augments the role:**
+
+- Handling abnormal situations that AI systems cannot recognize (such as false alarms or equipment failures)
+- Providing personalized reception and emotional support (such as soothing anxious visitors)
+- Coordinating the integration of multiple automated systems (such as visitor reservation and security linkage)
+- Optimize visitor flow using data analysis (based on backend statistics)
+- Manage on-site personnel dispatch during emergency evacuations (AI provides real-time solutions)
+
+**Human moat:**
+
+- Complex interpersonal communication and emotional labor (such as dealing with angry visitors)
+- Flexible adaptability in unstructured physical environments (such as ad hoc dispute mediation)
+- Multitasking and prioritization (handling calls, visitors, and packages simultaneously)
+- Deep understanding of internal institutional rules and culture (flexible and adaptable)
+- Bearing legal responsibility in emergency or violation scenarios (such as refusing to let through)
+
+**Skills to build:**
+
+- AI front-end systems and self-service terminal maintenance skills
+- Basic data analysis and report generation (visitor traffic statistics)
+- Conflict management and psychological soothing techniques
+- Multimodal communication skills (phone, email, instant messaging)
+- Basic operation of security systems and monitoring equipment
+- Emergency management and evacuation coordination capabilities
+
+**Key growth areas:**
 
 - Stable
 - Low demand
@@ -61,64 +97,66 @@ Reception and support staff in public institutions or private companies, handlin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work contract (employed)） | 需要获得西班牙公司的工作合同，并证明该职位无法由欧盟公民填补。 |
+| Subclass Cuenta ajena (Work contract (employed)) | You need to obtain a work contract with a Spanish company and prove that the position cannot be filled by an EU citizen. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ushers？**
-- 寻求稳定低技能工作的人
-- 入门级劳动力市场的新人
-- 偏好较少责任和压力的工作者
+**Who is suited**
+- People seeking stable, low-skilled jobs
+- Newcomers to the entry-level labor market
+- Preference for workers with less responsibility and stress
 
-**谁不适合学Ushers？**
-- 追求高收入和职业发展的人
-- 希望快速获得技术移民身份的人
+**Who is not suited**
+- Those seeking high income and career development.
+- People seeking fast-track skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a doorman?**
+A: Concierge average pre-tax annual salary around €18,000, junior about €16,000, senior up to €27,000.
+
+**Q: Can a concierge immigrate to Spain with a work visa?**
+A: It's very difficult. This occupation is classified as a low-skilled category, with strict restrictions on employer sponsorship, and generally cannot obtain a skilled migrant visa.
+
+**Q: What promotion opportunities are available for gatekeepers?**
+A: You can be promoted to administrative assistant, office supervisor, or property manager, usually requiring internal training or obtaining relevant certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 不友好（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Ushers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for ushers?**
-答：The average gross annual salary for ushers is around €18,000, ranging from €16,000 for entry-level to €27,000 for senior positions.
-
-**问：Can ushers immigrate to Spain through a work visa?**
-答：Very difficult. This is a low-skilled occupation with strict employer sponsorship rules, generally not eligible for skilled migration visas.
-
-**问：What are the career advancement opportunities for ushers?**
-答：Promotion to administrative assistant, office supervisor, or property manager is possible, often through internal training or certification.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

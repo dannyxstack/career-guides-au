@@ -1,59 +1,95 @@
-# Real Estate Agency Principal / Real Estate Agency Licensee（Real Estate Agency Principal / Real Estate Agency Licensee）职业分析 · 澳大利亚
+# Real Estate Agency Principal / Real Estate Agency Licensee — career analysis · Australia
 
-**职业代码：612113 – Real Estate Agency Principal / Real Estate Agency Licensee。**
+**Occupation code: 612113 (ANZSCO)**
 
-Oversees daily operations of a real estate agency, develops business strategies, ensures compliance, and leads the team to achieve sales targets.
+Responsible for managing the daily operations of a real estate agency, formulating business strategies, ensuring compliance, and leading the team to achieve sales targets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学位前先修 | 1年 | $8,000~$15,000（短期课程或证书） |
-| 职业资格课程 | 1年 | $5,000~$12,000（如 Diploma of Property (Agency Management)） |
+| Prerequisites before degree | 1 year | $8,000~$15,000 (Short-term course or certificate) |
+| Vocational qualification course | 1 year | $5,000~$12,000 (e.g., Diploma of Property (Agency Management)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 房地产代理执照 | 州公平交易厅 | 必备 | 需完成指定课程并通过考试 |
-| Diploma of Property | TAFE或注册培训机构 | 可选 | 涵盖代理管理核心技能 |
-| 技能评估 | VETASSESS | 可选 | 用于技术移民 |
+| Real estate agent license | State fair trading office | Required | Must complete specified courses and pass exams. |
+| Diploma of Property | TAFE or registered training organizations | Optional | Covers agency management core skills |
+| Skills assessment | VETASSESS | Optional | Used for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 18,400。澳洲房地产市场活跃，代理公司负责人需求稳定，受人口增长和住房需求驱动，预计未来五年保持增长。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 18,400. The Australian real estate market is active, with stable demand for agency company principals, driven by population growth and housing demand, and is expected to maintain growth over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 主要收入来自佣金 |
-| 中级（3-7年） | $75,000~$110,000 | 含佣金及管理提成 |
-| 高级（7年以上） | $120,000~$200,000 | 高业绩公司负责人 |
+| Median salary | $78,208 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Main income comes from commissions |
+| Mid-level (3–7 years) | $75,000~$110,000 | Includes commission and management bonuses |
+| Senior (7+ years) | $120,000~$200,000 | Head of high-performance company |
+| average salary | $45,656 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从销售代理晋升为团队主管，再通过积累经验和完成资质成为公司负责人，之后可拓展连锁或开设多家分店。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
+
+Can progress from sales agent to team leader, and through experience and qualifications become a company director, then expand to franchises or multiple branches.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of property descriptions/ad copy
+- AI chatbot handles tenant common questions and schedules property viewings
+- Smart matching system auto-pushes properties to potential clients
+- Automated Generation of Lease Contracts and Property Management Reports
+- AI analyzes market data to generate automated valuation reports
+
+**Where AI augments the role:**
+
+- AI-assisted precision analysis of customer needs and market trends to improve recommendation matching rates
+- Virtual property tours and AI video guides to enhance remote marketing effectiveness
+- AI predicts tenant default risk, optimizing property portfolio strategies
+- Automated CRM systems capture customer behavior data to support personalized services
+- AI chatbot-assisted multilingual communication (e.g., Chinese) to expand service scope
+
+**Human moat:**
+
+- High-value negotiation, complex contract clause interpretation, and legal dispute resolution
+- Building deep personal relationships and client trust (especially Chinese-speaking community)
+- On-site property inspections, maintenance quality assessment, and supplier management
+- Personalized home buying/rental strategy recommendations integrating emotional and financial considerations
+- Interpersonal glue for multi-stakeholder coordination (owners, tenants, strata committees)
+
+**Skills to build:**
+
+- Master real estate CRM software (e.g., Salesforce, PropertyMe)
+- Basic data analysis (advanced Excel or Python/Pandas)
+- AI marketing tools (CANVA AI, ChatGPT copy optimization)
+- Virtual property viewing technology (3D scanning, VR tour operation)
+- Bilingual communication and cross-cultural negotiation skills
+- Digital compliance awareness (privacy laws, legal validity of e-contracts)
+
+**Key growth areas:**
 
 - Housing demand
 - Population growth
@@ -62,65 +98,64 @@ Oversees daily operations of a real estate agency, develops business strategies,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 需雇主担保，职业在CSOL上 |
-| Subclass 186（Employer Nomination Scheme） | 直接永居，需雇主担保和三年工作经验 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居，需在CSOL上 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; occupation on CSOL |
+| Subclass 186 (Employer Nomination Scheme) | Permanent residency directly, requires employer sponsorship and three years of work experience |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, must be on CSOL |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Real Estate Agency Principal / Real Estate Agency Licensee？**
-- 具备销售和谈判能力的人
-- 有创业精神并愿意承担风险
-- 善于管理团队和客户关系
-
-**谁不适合学Real Estate Agency Principal / Real Estate Agency Licensee？**
-- 不擅长时间管理和多任务处理
-- 厌恶业绩压力及佣金制收入
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with sales and negotiation skills
+- Has an entrepreneurial spirit and is willing to take risks
+- Good at managing teams and client relationships
+
+**Who is not suited**
+- Poor time management and multitasking ability
+- Dislikes performance pressure and commission-based income
+
+---
+
+## 8. FAQ
+
+**Q: What are the main sources of income for a real estate agency owner?**
+A: Income mainly includes base salary and commission; senior managers may also receive profit sharing, with annual income exceeding AUD 200,000 for top performers.
+
+**Q: What skilled migration pathways are available for this occupation?**
+A: This occupation is on the CSOL and can apply for the 482 employer-sponsored temporary visa transitioning to the 186 permanent visa, or immigrate through the 190 state-sponsored visa, requiring a VETASSESS skills assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Real Estate Agency Principal / Real Estate Agency Licensee的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the main income source for a real estate agency principal?**
-答：Income mainly consists of base salary and commission; senior principals may also receive profit share, with top earners exceeding AUD 200,000 annually.
-
-**问：What skilled migration pathways exist for this occupation?**
-答：This occupation is on the CSOL, eligible for TSS 482 visa leading to 186 PR, or state-nominated 190 visa, requiring a VETASSESS skills assessment.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

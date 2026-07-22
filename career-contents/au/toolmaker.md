@@ -1,66 +1,96 @@
-# 模具制造工（Toolmaker）职业分析 · 澳大利亚
+# Toolmaker — career analysis · Australia
 
-**职业代码：323211 – Toolmaker。**
+**Occupation code: 323211 (ANZSCO)**
 
-模具制造工（Toolmaker）专门制造和维修金属模具、夹具和精密工装，是制造业最高技能技工之一。在澳洲高精密制造、国防零部件和医疗器械领域持续短缺。
+A toolmaker specialises in manufacturing and repairing metal dies, jigs and precision tooling, and is among the most highly skilled tradespeople in manufacturing. There is ongoing demand in Australia's high-precision manufacturing, defence components and medical device sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Engineering (Toolmaking Trade) | 42~48个月（学徒） | —（各州TAFE差异） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
-| CAD/CAM进阶培训（Mastercam/CATIA） | 3~6个月 | $1,000~$3,000（可选；提升竞争力） |
+| Certificate III in Engineering (Toolmaking Trade) | 42–48 months (apprenticeship) | $0~$3,000 (Variations across state TAFEs) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
+| Advanced CAD/CAM training (Mastercam/CATIA) | 3–6 months | $1,000~$3,000 (Optional; enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering (Toolmaking Trade) | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Engineering (Toolmaking Trade) | TAFE/RTO | Required | Core practising qualifications |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 8,000。澳洲本地精密制造业虽规模较小，但高价值零部件（航空/国防/医疗）保持稳定需求。AUKUS潜艇计划将带动SA/VIC精密制造扩张。
+**Job demand: high (★★★★☆).** National workforce approx. 8,000. Although Australia's local precision manufacturing sector is relatively small, stable demand exists for high-value components in aerospace, defence and medical industries. The AUKUS submarine programme is set to drive precision manufacturing expansion in SA and VIC.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~250 个 | 全国，VIC/NSW集中 |
-| Indeed | 60~150 个 | 精密加工和模具设计 |
-| LinkedIn | 30~80 个 | 国防/航空方向 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $30,000~$60,000 | Metal Industry Award |
-| 初级模具工（1~3年） | $70,000~$90,000 | 制造业平均 |
-| 中级模具工（3~8年） | $90,000~$120,000 | 精密加工；Seek均值约$45~$58/hr |
-| 高级/专家（8年+） | $110,000~$140,000 | 航空/国防合同工更高 |
+| Median salary | $135,512 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $30,000~$60,000 | Metal Industry Award |
+| Junior toolmaker (1–3 years) | $70,000~$90,000 | Manufacturing average |
+| Intermediate Toolmaker/Die Maker (3–8 years) | $90,000~$120,000 | Precision machining; Seek average approximately $45–$58/hr |
+| Senior/Specialist (8+ years) | $110,000~$140,000 | Higher for aviation/defence contractors |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** CNC辅助加工普及，但模具设计和精密配合能力仍是核心竞争力。年龄结构老化，熟练模具工日趋稀缺。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
+
+CNC-assisted machining is widespread, but mould design and precision fit capabilities remain the core competitive advantage. An ageing workforce means skilled toolmakers are increasingly scarce.
+
+**Tasks most exposed to AI:**
+
+- Manual CNC programming and tool path generation
+- Simple repetitive machine operations (e.g., loading/unloading workpieces, starting machining cycles)
+- Routine dimensional measurement and quality recording (manual measurement with calipers and micrometers)
+- Paper-based drawing management and document archiving
+- Basic troubleshooting (based on fixed diagnostic procedures)
+
+**Where AI augments the role:**
+
+- AI-assisted tool path optimization (automatic collision avoidance, improved machining efficiency)
+- Machine learning-based online quality inspection (real-time prediction of dimensional deviations)
+- Digital twin simulation of machining processes (pre-validate fixture designs)
+- Smart production scheduling system integration (automatic assignment of machine tasks)
+- Augmented reality-assisted assembly and debugging (overlaying virtual guidance)
+
+**Human moat:**
+
+- Intuitive judgment in complex fixture design and debugging
+- On-site diagnosis and repair of multi-process integration issues.
+- Ability to communicate non-standard requirements with clients/engineers
+- Safety responsibility and process innovation decisions
+- Precision manual finishing and assembly touch
+
+**Skills to build:**
+
+- Advanced CAD/CAM applications (e.g., Mastercam, NX machining modules)
+- Robot-assisted loading/unloading programming and integration
+- Python or MATLAB for machining data analysis
+- Basics of additive manufacturing (3D printing molds)
+- Industrial Internet of Things (IIoT) and smart tool management
+- Quality control data visualization (e.g., Power BI)
+
+**Key growth areas:**
 
 - Defence Manufacturing
 - Aerospace Precision Parts
@@ -69,69 +99,66 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | VIC/SA优先制造业 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | VIC/SA priority manufacturing |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学模具制造工？**
-- 有精密加工或CNC操作经验，希望移民制造业大州（VIC/SA）
-- 擅长金属精密加工，追求高技能职业发展通道
-
-**谁不适合学模具制造工？**
-- 无制造/机械背景，缺乏精密加工基础
-- 不接受车间环境
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experience in precision machining or CNC operation, seeking migration to major manufacturing states (VIC/SA)
+- Skilled in precision metalworking and seeking a high-skill career development pathway
+
+**Who is not suited**
+- No manufacturing or mechanical background, lacking a foundation in precision machining
+- Not willing to work in a workshop environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a mould maker in Australia?**
+A: Mid-level toolmaker annual salary approx. $90,000–$120,000 ($45–$58/hr). Senior/specialist roles can reach $140,000+, with defence/aerospace contract roles paying even more.
+
+**Q: Is it easy for toolmakers to find work in Australia?**
+A: Relatively accessible. Precision manufacturing is not a large sector, but qualified toolmakers are extremely scarce, meaning low competition for positions.
+
+**Q: Is Chinese mould-making experience recognised in Australia?**
+A: Requires a TRA skills assessment; submit work samples and employment evidence — pass rate is relatively high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 323211 数据 |
-| Seek AU | Toolmaker 薪资及岗位量 |
-| TRA | 海外技工互认 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-模具制造工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲模具工工资多少？**
-答：中级模具工年薪约 $90,000~$120,000（$45~$58/hr）。高级/专家可达 $140,000+，国防/航空合同工更高。
-
-**问：澳洲模具工好找工作吗？**
-答：较容易。精密制造规模不大，但持证模具工极度稀缺，岗位竞争少。
-
-**问：中国模具经验澳洲认可吗？**
-答：需TRA技能评估，提交作业样本和工作证明，通过率较高。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

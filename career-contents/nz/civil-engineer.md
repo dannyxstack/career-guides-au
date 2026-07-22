@@ -1,59 +1,95 @@
-# Civil Engineer（Civil Engineer）职业分析 · 新西兰
+# Civil Engineer — career analysis · New Zealand
 
-**职业代码：233211 – Civil Engineer。**
+**Occupation code: 233211 (ANZSCO)**
 
-Civil engineers in New Zealand plan, design, construct and maintain roads, bridges, water supply systems and other infrastructure. It is a Green List Tier 1 occupation, eligible for direct residence.
+Civil engineers in New Zealand plan, design, construct, and maintain roads, bridges, water supply systems, and other infrastructure. This is a Green List direct residence occupation (Tier 1), enabling fast immigration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $30,000~$45,000（新西兰大学国际生学费，如奥克兰大学约40,000-45,000 NZD/年） |
-| 硕士（工程硕士） | 1-2年 | $40,000~$55,000（部分课程可加速，如坎特伯雷大学约50,000 NZD/年） |
+| Bachelor's degree (Engineering) | 4 years | $30,000~$45,000 (International student tuition fees at New Zealand universities, e.g. University of Auckland approx. 40,000-45,000 NZD/year) |
+| Master's (Master of Engineering) | 1-2 years | $40,000~$55,000 (Some programs can be accelerated, e.g., University of Canterbury approx. 50,000 NZD/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 华盛顿协议认证工程学位 | 新西兰工程局 (Engineering New Zealand) | 可选 | 认证学位是注册工程师的基础，国际学历需评估 |
-| 特许专业工程师 (CPEng) | 新西兰工程局 (Engineering New Zealand) | 可选 | 通常需要5年以上经验，是晋升高级职位的重要资格 |
-| 雅思或同等英语成绩 | IELTS/TOEFL/PTE | 必备 | 技术移民要求雅思总分6.5，注册通常要求7.0 |
+| IELTS or equivalent English score | IELTS/TOEFL/PTE | Required | Skilled migration requires IELTS overall 6.5, registration usually requires 7.0. |
+| Washington Accord accredited engineering degree | Engineering New Zealand | Optional | An accredited degree is the foundation for registered engineer status; international qualifications need assessment |
+| Chartered Professional Engineer (CPEng) | Engineering New Zealand | Optional | Usually requires 5+ years of experience, key qualification for senior roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 12,000。新西兰政府计划在2024-2027年投入超2000亿纽元用于交通、住房、水利等基建，加上灾后重建需求，土木工程师需求持续旺盛，尤其在奥克兰、坎特伯雷等地区。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. The New Zealand government plans to invest over NZD 200 billion from 2024-2027 in transport, housing, water infrastructure, and post-disaster reconstruction. Demand for civil engineers remains strong, especially in Auckland, Canterbury, and other regions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 毕业起薪约65,000-75,000 NZD，大型项目更高 |
-| 中级（3-7年） | $90,000~$120,000 | 注册工程师后薪资显著提升 |
-| 高级（7年以上） | $130,000~$180,000 | 项目经理或技术总监可达150,000+ NZD |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$85,000 | Starting salary upon graduation is about 65,000-75,000 NZD, higher for large projects |
+| Mid-level (3–7 years) | $90,000~$120,000 | Salary significantly increases after becoming a registered engineer |
+| Senior (7+ years) | $130,000~$180,000 | Project manager or technical director can reach 150,000+ NZD |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初期从事设计、现场监督或项目管理；积累5-10年后可晋升高级工程师、项目经理或技术专家；部分人转向咨询或创业，薪资显著增长。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
+
+Start in design, site supervision, or project management; after 5-10 years, advance to senior engineer, project manager, or technical expert; some move into consulting or entrepreneurship, with significant salary growth.
+
+**Tasks most exposed to AI:**
+
+- Conventional structural analysis and design calculations (e.g., finite element modeling parameter adjustments)
+- Automated generation and standard compliance checking of civil drawings
+- Drafting and formatting of engineering reports and documents
+- Automatic scheduling and conflict detection of project timelines
+- Automatic classification and preliminary interpretation of geological survey data
+
+**Where AI augments the role:**
+
+- AI-optimized structural solutions: rapidly iterate thousands of design options to improve structural efficiency and cost-effectiveness
+- Real-time construction monitoring based on BIM and IoT: AI predicting schedule deviations and material waste
+- Natural language query of regulatory libraries: quickly locate complex legal clauses and obtain explanations
+- Automatically generate risk assessment matrix: integrate geological, hydrological, traffic, and other multi-source data
+- Enhanced collaboration platform: AI translates conflicts across multiple discipline drawings in real-time and suggests coordination solutions
+
+**Human moat:**
+
+- On-site construction coordination and safety supervision, handling unforeseen conditions
+- Cross-disciplinary (architectural, structural, MEP) design conflict arbitration and decision-making
+- Communicate with Clients and Government Agencies, Explain Technical Solutions, and Obtain Permits
+- Assume legal responsibility for AI outputs, sign engineering documents
+- Design innovative foundation treatment solutions under complex geological conditions
+
+**Skills to build:**
+
+- Python/R programming and civil data analysis (e.g., OpenSees, Pandas)
+- Advanced BIM applications (Revit API, Navisworks automation)
+- AI/machine learning basics (for structural optimization and failure prediction)
+- Generative design tools (e.g., GenerativeComponents, Dynamo)
+- Project management and agile methods (for AI-collaborative workflows)
+- Digital twin and IoT integration (for infrastructure operations and maintenance)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Civil engineers in New Zealand plan, design, construct and maintain roads, bridg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 满足职业要求、薪资中位数以上，可直接申请居留，无需工作满2年 |
-| Subclass SMC（Skilled Migrant Category） | 6分制，根据学历/注册/工作经验打分，满足6分可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主担保工签，可转居留（如绿色清单第二梯队或工作满2年） |
+| Subclass Green List T1 (Straight to Residence Visa) | Meets occupation requirements and salary above median, can directly apply for residency without needing to work for 2 years |
+| Subclass SMC (Skilled Migrant Category) | 6-point system, based on qualifications/registration/work experience; apply with 6 points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can transition to residence (e.g., Green List Tier 2 or after 2 years of work) |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Civil Engineer？**
-- 具备工程逻辑思维和数学基础，适应高强度学习
-- 愿意在户外或项目现场工作，能接受加班
-- 希望快速移民并获得高薪的工科背景人士
-
-**谁不适合学Civil Engineer？**
-- 不喜欢数学和物理，对工程行业无兴趣
-- 无法适应长时间面对电脑或现场出差
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess engineering logical thinking and mathematical foundation, adaptable to intensive study
+- Willing to work outdoors or on project sites, able to accept overtime
+- Engineering background individuals seeking fast immigration and high salary
+
+**Who is not suited**
+- Dislike math and physics, no interest in engineering
+- Unable to tolerate long hours in front of a computer or frequent site travel
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for civil engineers in New Zealand?**
+A: Junior annual salary about 65,000-85,000 NZD, mid-level 90,000-120,000 NZD, senior up to 130,000-180,000 NZD, with significant increases after becoming a registered engineer.
+
+**Q: Can civil engineers directly immigrate through the Green List?**
+A: Yes. Civil engineers are on the Green List Tier 1, meeting median wage (approx. 29.66 NZD/hr) and occupation requirements, can directly apply for residence without working for 2 years.
+
+**Q: Do I need a New Zealand Registered Engineer license?**
+A: Not mandatory, but without registration usually only entry-level work is possible; registration (e.g., CPEng) is key for mid-to-senior roles and independent projects, and also helps with immigration points.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Civil Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for civil engineers in New Zealand?**
-答：Entry-level salary is around NZD 65,000-85,000 per year, mid-level NZD 90,000-120,000, senior NZD 130,000-180,000, with significant increase after gaining professional registration.
-
-**问：Can civil engineers immigrate directly through the Green List?**
-答：Yes. Civil engineers are on Green List Tier 1. If you meet the median wage (approx. NZD 29.66/hour) and occupational requirements, you can apply for residence directly without waiting for 2 years.
-
-**问：Is a New Zealand engineering registration required?**
-答：It is not mandatory, but without registration you may be limited to junior roles. Registration (e.g., CPEng) is key for senior positions and independent projects, and also helps for immigration points.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

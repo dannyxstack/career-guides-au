@@ -1,60 +1,96 @@
-# Telemarketers（Telemarketers）职业分析 · 美国
+# Telemarketers — career analysis · United States
 
-**职业代码：41-9041 – Telemarketers。**
+**Occupation code: 41-9041 (SOC)**
 
-Solicit donations or orders for goods or services over the telephone.
+Sell goods or services by telephone, including fundraising and order taking.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-3个月 | —（雇主提供培训） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-3 months. | $0~$500 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中/州教育部门 | 必备 | 基本要求 |
-| 电话销售技能认证 | 如American Teleservices Association | 可选 | 非强制，但增加竞争力 |
+| High school diploma or equivalent | High school/state education department | Required | Basic requirements |
+| Telemarketing skills certification | Such as American Teleservices Association | Optional | Not mandatory, but adds competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 120,000。预计2023-2033年就业下降约8%，自动化与网络营销取代部分岗位，但低门槛岗位仍有需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 120,000. Employment is projected to decline about 8% from 2023-2033, with automation and online marketing replacing some positions, though low-barrier roles still have demand.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 底薪加佣金 |
-| 中级（3-7年） | $35,000~$50,000 | 佣金占比增加 |
-| 高级（7年以上） | $50,000~$70,000 | 团队管理或大客户销售 |
+| Median salary | $35,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$35,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $35,000~$50,000 | Increasing commission share |
+| Senior (7+ years) | $50,000~$70,000 | Team management or key account sales |
+| average salary | $37,370 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可晋升为销售主管、客户经理或转向数字营销领域，需掌握CRM系统与沟通技巧。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Telemarketers are highly exposed to AI automation, especially outbound calls, scripted conversations, and simple data processing. AI voice assistants and chatbots can greatly reduce human demand, entry-level roles are shrinking severely, but complex negotiations and high-value customer relationships still require humans.
+
+Can advance to sales supervisor, account manager, or transition to digital marketing; requires CRM skills and communication techniques.
+
+**Tasks most exposed to AI:**
+
+- Automatic outbound calling and lead screening
+- Standardized product introductions based on preset scripts
+- Simple FAQ responses and initial information collection
+- Client data entry and CRM updates
+- Generate sales leads lists and follow-up reminders
+
+**Where AI augments the role:**
+
+- AI recommends best scripts and objection handling in real-time
+- Voice analysis identifies customer emotions and prompts salespeople to adjust strategies
+- Automatically record call summaries and extract key information
+- Optimizing call times and customer prioritization through predictive models
+- Multilingual real-time translation assists international phone sales
+
+**Human moat:**
+
+- Complex communication to build trust and long-term client relationships
+- Handle customer objections, negotiation, and emotional empathy
+- Cross-departmental coordination and customised solution design
+- In-depth consulting requiring professional industry knowledge and product expertise
+- Proposal writing and high-end client relationship management
+
+**Skills to build:**
+
+- Complex sales negotiation and relationship management
+- Advanced CRM features and data analysis tools.
+- Customer Journey Design and Personalized Communication Strategy
+- Use of AI-assisted sales tools (e.g., voice analysis, conversation platforms)
+- Industry-specific knowledge (e.g., finance, healthcare, technology)
+- Emotional intelligence and remote communication skills
+
+**Key growth areas:**
 
 - Declining
 - Automation risk
@@ -63,65 +99,67 @@ Solicit donations or orders for goods or services over the telephone.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职位要求，极少获批。 |
-| Subclass L-1（L-1 Intracompany Transferee） | 仅适用于跨国公司内部调派。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional position requirements, rarely approved. |
+| Subclass L-1 (L-1 Intracompany Transferee) | Only applicable for intra-company transfers within multinational corporations. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Telemarketers？**
-- 善于沟通、抗压能力强的人
-- 愿意接受佣金制收入的人
-- 寻求低门槛入门工作的人
+**Who is suited**
+- People who are good at communication and stress-resistant
+- People willing to accept commission-based income
+- Those seeking low-barrier entry jobs
 
-**谁不适合学Telemarketers？**
-- 不喜电话销售和拒绝的人
-- 希望稳定高薪职业的人
+**Who is not suited**
+- People who dislike phone sales and rejection
+- People seeking stable high-paying careers
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary for a telemarketer?**
+A: According to BLS data, the median annual salary in 2023 is about $33,000, but income is highly dependent on commissions.
+
+**Q: Can telemarketers apply for a US work visa?**
+A: Usually not eligible for H-1B professional positions; skilled migration pathways are very limited.
+
+**Q: Do telemarketers have career prospects?**
+A: Can transition to sales management or digital marketing, but overall industry positions are declining.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Telemarketers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for telemarketers?**
-答：According to BLS, median annual wage is about $33,000 in 2023, but heavily commission-based.
-
-**问：Can telemarketers apply for US work visas?**
-答：Usually not eligible for H-1B specialty occupation; immigration paths are very limited.
-
-**问：Are there career advancement opportunities for telemarketers?**
-答：Possible to move into sales management or digital marketing, but overall employment is declining.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

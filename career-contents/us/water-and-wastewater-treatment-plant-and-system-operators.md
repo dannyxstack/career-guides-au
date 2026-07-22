@@ -1,60 +1,96 @@
-# Water and Wastewater Treatment Plant and System Operators（Water and Wastewater Treatment Plant and System Operators）职业分析 · 美国
+# Water and Wastewater Treatment Plant and System Operators — career analysis · United States
 
-**职业代码：51-8031 – Water and Wastewater Treatment Plant and System Operators。**
+**Occupation code: 51-8031 (SOC)**
 
-Operate or monitor entire water/wastewater treatment processes via control boards, ensuring water quality compliance with environmental regulations.
+Operate or monitor the entire water/wastewater treatment process via control panels, ensuring water quality meets standards and complies with environmental regulations.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 0年 | —（许多岗位仅需高中文凭，在职培训） |
-| 副学士学位（环境技术） | 2年 | $10,000~$30,000（社区学院费用） |
+| High school diploma | 0 years | $0~$0 (Many positions require only a high school diploma and on-the-job training) |
+| Associate degree (environmental technology) | 2 years | $10,000~$30,000 (Community college costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 州级水/污水处理操作员认证 | 各州环保部门 | 必备 | 通常需要考试和工作经验，分等级 |
-| 安全认证（如OSHA） | 职业安全与健康管理局 | 可选 | 部分雇主要求 |
+| State-level water/wastewater operator certification | State environmental protection departments | Required | Usually requires exams and work experience, with levels |
+| Safety certification (e.g., OSHA) | Occupational Safety and Health Administration | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 122,800。美国劳工统计局预计2023-2033年就业增长约4%，受基础设施老化和水资源管理需求驱动，年均空缺约9800个。
+**Job demand: high (★★★★☆).** National workforce approx. 122,800. The U.S. Bureau of Labor Statistics projects employment growth of about 4% from 2023-2033, driven by aging infrastructure and water management needs, with about 9,800 annual openings.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $37,000~$48,000 | 含入门级操作员 |
-| 中级（3-7年） | $48,000~$62,000 | 持有2级或3级认证 |
-| 高级（7年以上） | $62,000~$82,000 | 含主管或工厂经理 |
+| Median salary | $60,020 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $37,000~$48,000 | including entry-level operators |
+| Mid-level (3–7 years) | $48,000~$62,000 | Hold a Level 2 or Level 3 certification |
+| Senior (7+ years) | $62,000~$82,000 | Including supervisor or factory manager |
+| average salary | $62,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 从初级操作员起步，积累经验后可晋升为高级操作员、主管或工厂经理；需考取州级认证并持续进修技术课程。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
+
+Start as a junior operator, gain experience to advance to senior operator, supervisor, or plant manager; requires state certification and ongoing technical training.
+
+**Tasks most exposed to AI:**
+
+- Automated water quality data collection and report generation
+- Remote monitoring of routine equipment operating status
+- Automated chemical dosing based on preset parameters
+- Automatic recording and archiving of standard operation logs
+- AI initial alarm and classification of abnormal values
+
+**Where AI augments the role:**
+
+- Using data analysis to predict water quality trends and optimize treatment processes
+- Test process improvements through digital twin simulation
+- AI-assisted diagnosis of complex equipment fault causes
+- Human interpretation and decision-making after automated report generation
+- Remote collaboration platform for cross-site expert consultation
+
+**Human moat:**
+
+- On-site emergency response and complex fault troubleshooting
+- Manual review of regulatory compliance and emission standards
+- Communication and reporting with regulatory bodies and the public
+- Final decision-making responsibility involving public health safety
+- Manual operation of non-standard or legacy equipment
+
+**Skills to build:**
+
+- Digital twin and simulation software for water treatment processes.
+- Water quality data statistics and trend analysis (e.g., Python/R)
+- SCADA system and industrial IoT device operation
+- Environmental regulation interpretation and compliance report writing
+- Cross-departmental collaboration and project management skills
+- Basic knowledge of AI/machine learning model applications
+
+**Key growth areas:**
 
 - aging infrastructure
 - water quality regulations
@@ -63,65 +99,67 @@ Operate or monitor entire water/wastewater treatment processes via control board
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士或同等经验，但该职业通常仅要求副学士，H-1B获批率极低，很少使用。 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 通常要求至少2年培训或经验，但PERM劳工证需证明本土劳工短缺，难度大。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's or equivalent experience, but typically only requires an associate degree; H-1B approval rate is very low, rarely used. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Typically requires at least 2 years of training or experience, but PERM labor certification must prove a shortage of local workers, which is difficult. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Water and Wastewater Treatment Plant and System Operators？**
-- 喜欢动手操作和监控系统的人
-- 注重环保和水资源保护的人
-- 愿意在户外和工厂环境工作的人
+**Who is suited**
+- People who enjoy hands-on work and monitoring systems
+- Someone who values environmental protection and water resource conservation
+- People willing to work outdoors and in factory environments
 
-**谁不适合学Water and Wastewater Treatment Plant and System Operators？**
-- 希望高薪且快速晋升的人
-- 不喜欢轮班制或紧急待命的人
+**Who is not suited**
+- People seeking high pay and fast promotion
+- Those who dislike shift work or on-call duty
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level?**
+A: Entry-level salary approximately USD 37,000-48,000 per year, senior operators can reach USD 62,000-82,000, increasing with experience and certification level.
+
+**Q: Is international migration (e.g., via H-1B or EB-3) easy?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements; EB-3 green card requires PERM and many local candidates, rarely hires foreigners.
+
+**Q: What educational background is required?**
+A: Most require only high school diploma; some employers prefer associate degree (in environmental technology related fields).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Water and Wastewater Treatment Plant and System Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level?**
-答：Entry-level annual salary is around $37,000-$48,000, while senior operators can earn $62,000-$82,000 depending on experience and certification.
-
-**问：Is international migration (e.g., H-1B or EB-3) easy?**
-答：Very difficult. This occupation typically does not meet H-1B specialty occupation criteria, and EB-3 green card requires PERM with many domestic candidates, rarely sponsoring foreign workers.
-
-**问：What educational background is required?**
-答：Most positions only require a high school diploma; some employers prefer an associate degree in environmental technology.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

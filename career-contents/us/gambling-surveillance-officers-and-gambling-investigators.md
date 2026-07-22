@@ -1,60 +1,93 @@
-# Gambling Surveillance Officers and Gambling Investigators（Gambling Surveillance Officers and Gambling Investigators）职业分析 · 美国
+# Gambling Surveillance Officers and Gambling Investigators — career analysis · United States
 
-**职业代码：33-9031 – Gambling Surveillance Officers and Gambling Investigators。**
+**Occupation code: 33-9031 (SOC)**
 
-Monitor casino operations for cheating, theft, and irregular activities; protect casino assets and customer security.
+Monitor casino operations, detect cheating, theft, and other violations to protect casino assets and customer safety.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 副学士学位 | 2年 | $10,000~$30,000（社区大学） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Associate degree | 2 years | $10,000~$30,000 (Community college) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 赌场监控认证 | 国际赌场监控协会（IGSA） | 可选 | 非强制但优先 |
-| 保安执照 | 州政府 | 必备 | 多数州要求 |
+| Security license | State government | Required | Required in most states |
+| Casino surveillance certification | International Gaming Standards Association (IGSA) | Optional | Non-mandatory but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。美国赌场行业稳定，但自动化监控技术发展可能降低入门岗位需求；高级调查员仍有需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The US casino industry is stable, but automated surveillance technology may reduce entry-level job demand; senior investigators are still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 监控室操作员 |
-| 中级（3-7年） | $40,000~$55,000 | 高级监控员 |
-| 高级（7年以上） | $55,000~$75,000 | 调查员/主管 |
+| Median salary | $43,370 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Monitor room operator |
+| Mid-level (3–7 years) | $40,000~$55,000 | Senior monitor |
+| Senior (7+ years) | $55,000~$75,000 | Investigator/supervisor |
+| average salary | $45,630 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★☆☆☆）。** 从监控员晋升为调查员、主管，或转入安保管理、合规部门。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will have mixed impact on casino surveillance officers and investigators: video analytics automation will replace some monitoring tasks, but complex investigations and compliance responsibilities still require human professional judgment; jobs won't disappear but entry-level positions will decrease.
+
+Can advance from monitor to investigator, supervisor, or move into security management or compliance departments.
+
+**Tasks most exposed to AI:**
+
+- Continuous monitoring of multiple CCTV feeds (AI video analysis enables real-time anomaly detection)
+- Review video recordings to find known violations (AI can automatically flag and retrieve key segments)
+- Manual recording and reporting of routine surveillance logs (AI auto-generates structured reports)
+- Detect obvious cheating like marked cards (AI image recognition is more accurate)
+
+**Where AI augments the role:**
+
+- After AI flags suspicious behavior, humans conduct detailed analysis and investigation decisions
+- Use AI behavioral prediction models to proactively deploy monitoring resources
+- AI-assisted case correlation analysis to track fraud rings across time and regions.
+- AR glasses overlay AI prompts to enhance on-site observation efficiency
+
+**Human moat:**
+
+- Complex investigations: fraud and money laundering cases in cooperation with law enforcement
+- Interpersonal interaction: psychology and negotiation skills when confronting and questioning suspects
+- Detail discrimination: distinguishing subtle differences between intentional cheating and unintentional violations
+- Compliance responsibilities: ensure casino regulatory compliance, legal and ethical decision-making.
+
+**Skills to build:**
+
+- Use and configuration of video analysis platforms (e.g., Verkada, Milestone)
+- Basic AI/Machine Learning knowledge: anomaly detection principles
+- Data analysis and visualization tools (Python/Power BI)
+- Investigation interview techniques and evidence collection procedures
+- Regulatory updates (casino compliance, anti-money laundering)
+- Digital forensics and blockchain tracing (for crypto gambling).
+
+**Key growth areas:**
 
 - Surveillance
 - Casino Security
@@ -63,62 +96,64 @@ Monitor casino operations for cheating, theft, and irregular activities; protect
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不满足专业职位要求，极少获批。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 可能通过PERM申请，但雇主担保困难。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional position requirements, rarely approved. |
+| Subclass EB-3 (EB-3 Skilled Workers) | May apply through PERM, but employer sponsorship is difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Gambling Surveillance Officers and Gambling Investigators？**
-- 注重细节、观察力强的人
-- 对赌场环境感兴趣的人
-- 能适应轮班工作的人
+**Who is suited**
+- Detail-oriented, observant people
+- People interested in the casino environment
+- People who can adapt to shift work
 
-**谁不适合学Gambling Surveillance Officers and Gambling Investigators？**
-- 不喜夜间或周末工作的人
-- 希望快速晋升到高薪职位的人
+**Who is not suited**
+- People who dislike night or weekend work
+- People aiming for quick promotion to high-paying positions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a casino surveillance officer?**
+A: Junior about $30,000-$40,000, senior investigator can reach $75,000.
+
+**Q: Is it easy to immigrate to the US in this occupation?**
+A: Difficult, as it typically does not meet H-1B professional position requirements, and employer sponsorship is rare.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Gambling Surveillance Officers and Gambling Investigators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for gambling surveillance officers?**
-答：Entry-level $30,000-$40,000; senior investigators up to $75,000.
-
-**问：Is immigration through this occupation easy?**
-答：Difficult, as it rarely meets H-1B specialty occupation criteria and employer sponsorship is uncommon.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

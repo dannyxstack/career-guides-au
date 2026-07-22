@@ -1,60 +1,93 @@
-# Food Service Counter Attendant（Food Service Counter Attendant）职业分析 · IE
+# Food Service Counter Attendant — career analysis · Ireland
 
-**职业代码：5246 – Food Service Counter Attendant。**
+**Occupation code: 5246 (ISCO08)**
 
-Responsible for food preparation, counter service, and cashier duties in fast food outlets, cafes, and canteens. Entry-level role requiring strong customer service skills.
+Responsible for food preparation, counter service, and cashiering in fast food outlets, cafes, cafeterias, etc. This position is usually entry-level, requiring no higher education, but good customer service skills.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（½☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（在岗培训为主） |
-| 中等教育 | 2年（高中毕业） | —（公立学校免费） |
+| No formal education required | None | $0~$0 (Primarily on-the-job training) |
+| Secondary Education | 2 years (high school graduate) | $0~$0 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全证书 | 爱尔兰食品安全局（FSAI） | 可选 | 部分雇主强制要求 |
-| 客户服务培训 | 私人培训机构 | 可选 | 非必须但有益 |
+| Food safety certificate | Food Safety Authority of Ireland (FSAI) | Optional | Required by some employers |
+| Customer service training | Private training institution | Optional | Not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。爱尔兰餐饮业持续增长，预计2023-2028年就业岗位将增加8%，受旅游业和本地消费推动。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Ireland's hospitality sector continues to grow, with employment expected to increase by 8% between 2023-2028, driven by tourism and local consumption.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$25,000 | 最低工资约每小时11.30欧元 |
-| 中级（3-6年） | $25,000~$28,000 | 含小费可能略高 |
-| 高级（6年以上） | $28,000~$32,000 | 主管级薪资 |
+| Median salary | $26,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$25,000 | Minimum wage approx. €11.30 per hour |
+| Mid-level (3–6 years) | $25,000~$28,000 | May be slightly higher including tips |
+| Senior (6+ years) | $28,000~$32,000 | Managerial level salary |
+| average salary | $26,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从柜台服务员可晋升至主管、经理或特许经营者，需积累经验并接受管理培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fast food and counter service workers perform highly procedural tasks; AI automation and self-service ordering systems are rapidly replacing core tasks, leading to significant job decline, lower entry barriers but worsening career prospects.
+
+Can be promoted from counter attendant to supervisor, manager, or franchisee, requiring experience and management training.
+
+**Tasks most exposed to AI:**
+
+- Handle customer orders through self-service kiosks or mobile apps, replacing manual entry
+- Use AI voice system to receive orders and automatically transmit to the kitchen
+- Automated checkout and payment processing, reducing cash handling
+- Dynamic menu recommendations based on historical data, no staff promotion needed
+- Kitchen automation equipment (e.g., robot fryers) handles food preparation
+
+**Where AI augments the role:**
+
+- AI-assisted inventory management systems can predict demand and reduce food waste
+- Real-time data analytics to optimize scheduling and improve employee efficiency
+- Automated food safety monitoring systems supporting staff checks
+- Customer emotion recognition tools help employees provide personalised service
+
+**Human moat:**
+
+- Handling complex or special customer needs (e.g., allergies, complaints) requires empathy and flexibility
+- Coordinating front and back-end processes during peak hours requires on-site decision-making
+- Maintaining restaurant cleanliness and hygiene standards, requiring proactive observation and manual operations
+- Teamwork and communication, especially in high-pressure environments
+
+**Skills to build:**
+
+- Learn to maintain and troubleshoot self-service ordering systems
+- Master basic data analysis, interpret sales and inventory reports
+- Improve customer service skills to handle non-standard requests
+- Obtain food safety and hygiene certifications (e.g., ServSafe).
+- Learn basic interpersonal communication and conflict resolution
+
+**Key growth areas:**
 
 - Tourism growth
 - Customer service
@@ -63,62 +96,64 @@ Responsible for food preparation, counter service, and cashier duties in fast fo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 需年薪不低于30,000欧元，但该职位通常不达标；可能需雇主证明职位无法由本地人填补。 |
-| Subclass EU Citizens（EU/EEA Freedom of Movement） | 欧盟/欧洲经济区公民可自由工作和居留，无需许可。 |
+| Subclass General Employment P (General Employment Permit) | Requires annual salary not less than 30,000 euros, but the position usually does not meet this; may require employer to prove the position cannot be filled by a local. |
+| Subclass EU Citizens (EU/EEA Freedom of Movement) | EU/EEA citizens can work and reside freely without a permit. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Service Counter Attendant？**
-- 喜欢与人交流、客户服务导向
-- 希望快速入职、无需学历门槛
-- 寻求兼职或入门级工作
+**Who is suited**
+- Customer service-oriented with strong communication skills
+- Seeking quick employment, no academic threshold required
+- Seeking part-time or entry-level work
 
-**谁不适合学Food Service Counter Attendant？**
-- 追求高薪或职业晋升
-- 不喜欢站立工作或快节奏环境
+**Who is not suited**
+- Pursuing high salary or career advancement
+- Dislikes standing work or fast-paced environment
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary for a Food Service Counter Attendant in Ireland?**
+A: Entry-level annual salary approx. €22,000–€25,000, senior up to €32,000, some include tips.
+
+**Q: Can non-EU citizens immigrate to Ireland through this position?**
+A: Difficult, as the General Employment Permit requires an annual salary of at least €30,000, while this role typically falls below that threshold. EU citizens do not need a permit.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (½☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（½☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food Service Counter Attendant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Food Service Counter Attendant in Ireland?**
-答：Entry-level annual salary ranges from €22,000 to €25,000, with senior roles up to €32,000, possibly including tips.
-
-**问：Can non-EU citizens immigrate to Ireland through this role?**
-答：Difficult, as General Employment Permit requires a salary of at least €30,000, which is typically not met. EU citizens have free movement.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

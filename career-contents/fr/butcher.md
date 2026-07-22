@@ -1,62 +1,95 @@
-# Butcher（Butcher）职业分析 · FR
+# Butcher — career analysis · France
 
-**职业代码：D1101 – Butcher。**
+**Occupation code: D1101 (ROME)**
 
-Responsible for cutting, deboning, trimming, and preparing meat products such as beef, pork, and lamb in butcher shops, supermarkets, or food processing plants, ensuring product quality and hygiene standards.
+Responsible for cutting, deboning, trimming, and preparing meat products, including beef, pork, lamb, etc., working in butcher shops, supermarkets, or food processing plants to ensure product quality and hygiene standards.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业能力证书（CAP） | 2年（CAP Boucher） | —（公立职业高中免费，私立约1000-3000欧/年） |
-| 职业业士（Bac Pro） | 3年（Bac Pro Boucherie-Charcuterie） | —（公立免费，私立1000-4000欧/年） |
-| 高级技师证书（BTS） | 2年（BTS Métiers de la Boucherie） | —（公立免费，私立2000-5000欧/年） |
+| Certificate of Professional Competency (CAP) | 2 years (CAP Boucher) | $0~$3,000 (Public vocational high schools are free, while private ones pay about 1000-3000 euros per year) |
+| Bac Pro | 3 years (Bac Pro Boucherie-Charcuterie) | $0~$4,000 (Public schools are free, private ones pay 1000-4000 euros per year) |
+| Senior Technician Certificate (BTS) | 2 years (BTS Métiers de la Boucherie) | $0~$5,000 (Public schools are free, private ones pay 2000-5000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Boucher | 法国教育部 | 必备 | 最低从业文凭，统考取得 |
-| 卫生与食品安全培训 | France Travail / 行业协会 | 必备 | HACCP 认证，必须持有 |
-| Bac Pro Boucherie-Charcuterie | 法国教育部 | 可选 | 可替代 CAP，更高级别 |
+| CAP Boucher | French Ministry of Education | Required | Minimum professional diploma, obtained through unified exam |
+| Hygiene and food safety training | France Travail / Industry Association | Required | HACCP certification is mandatory |
+| Bac Pro Boucherie-Charcuterie | French Ministry of Education | Optional | Can replace CAP and offer higher levels |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。法国肉店行业面临老龄化与招工难，年轻从业者逐步减少。尤其是经过认证的熟练屠夫紧缺，就业机会稳定，特别是在大型超市和优质肉店渠道。行业正推广学徒制吸引新人。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. The French butcher shop industry faces aging and recruitment difficulties, with young workers gradually decreasing. Certified skilled butchers are especially in short supply, with stable job opportunities, particularly in large supermarkets and premium butcher stores. The industry is promoting apprenticeships to attract newcomers.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪，学徒期较低 |
-| 中级（3-8年） | $26,000~$32,000 | 熟练屠夫，含奖金 |
-| 高级（8年以上） | $33,000~$40,000 | 主管或专业切割师 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Pre-tax annual salary, relatively low apprenticeship |
+| Mid-level (3–8 years) | $26,000~$32,000 | Skilled butcher, with bonuses |
+| Senior (8+ years) | $33,000~$40,000 | Supervisor or professional cutter |
+| average salary | $24,462 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 学徒起步（CAP Boucherie），可晋升为高级屠夫、肉店主管或部门经理。经验丰富者可独立开店或担任屠宰培训师。也可转向食品质检或肉类采购领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
+
+Starting as an apprentice (CAP Boucherie), you can be promoted to senior butcher, butcher manager, or department manager. Experienced individuals can open their own stores or serve as slaughter trainers. It can also be shifted to food quality inspection or meat procurement.
+
+**Tasks most exposed to AI:**
+
+- Batch cutting and segmentation of standard parts
+- Repetitive motions in deboning and skinning processes
+- Basic processing like meat grinding and sausage stuffing
+- Weighing, labeling, and packaging line operations
+
+**Where AI augments the role:**
+
+- Using AI vision systems for meat grading and defect detection
+- Optimizing cutting plans through data analysis to reduce waste
+- Manage meat preservation and turnover using smart inventory systems
+- Using augmented reality (AR) to assist training new employees in cutting techniques
+
+**Human moat:**
+
+- Hand-finishing special parts and custom cutting according to client requirements
+- Sensory judgment of meat freshness, texture, and abnormalities
+- Flexibility in handling unexpected orders and personalized needs.
+- Provide cooking advice and demonstrate cutting techniques to customers
+
+**Skills to build:**
+
+- Operation and maintenance of automated cutting equipment
+- Food quality and safety management systems (e.g., HACCP)
+- Basic data analysis and inventory management software
+- Customer service and communication skills
+- Fine hand cutting (for high-end customisation)
+- Food safety regulations and traceability knowledge
+
+**Key growth areas:**
 
 - Artisanal Butchery Revival
 - Quality Meat Demand
@@ -65,69 +98,68 @@ Responsible for cutting, deboning, trimming, and preparing meat products such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需雇主担保，提供工作合同，需证明职位难以本地招聘。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或特殊人才，但屠夫通常不符合条件。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 学生转工签，需先找到雇主。 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, a work contract must be provided, and proof that the position is difficult to recruit locally. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or specialized talents, but butchers usually do not meet the requirements. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Students transferring to work visas must first find an employer. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Butcher？**
-- 热爱手工技艺、专注细节的人
-- 不介意早晚班及周末工作
-- 希望获得稳定蓝领工作的人
-
-**谁不适合学Butcher？**
-- 对血液、生肉气味敏感
-- 追求高薪或办公室环境
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love handicrafts and pay attention to details
+- I don't mind working early, late, or weekend shifts
+- People seeking stable blue-collar jobs
+
+**Who is not suited**
+- Sensitive to the smell of blood and raw meat
+- Seeking high salaries or office environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a French butcher?**
+A: Beginner salaries are about 20,000-25,000 euros, skilled can reach 26,000-32,000 euros, and supervisors can top up to about 40,000 euros.
+
+**Q: Can third-country citizens immigrate to France through butchering professions?**
+A: Possible, but more difficult. An employer-sponsored Salarié work permit is required, and it must be proven that there is no suitable candidate locally. Holding a CAP diploma or equivalent qualification is key.
+
+**Q: What certificates are required to be a butcher in France?**
+A: A minimum CAP Boucherie diploma is required, and you must also hold HACCP food safety certification. Apprenticeship is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Butcher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a butcher in France?**
-答：Entry-level: €20,000-€25,000; experienced: €26,000-€32,000; supervisor: up to €40,000.
-
-**问：Can third-country nationals immigrate to France as butchers?**
-答：Possible but difficult. Requires employer sponsorship for a Salarié permit and proof of local shortage. Holding a CAP diploma is essential.
-
-**问：What certificates are required to work as a butcher in France?**
-答：Minimum: CAP Boucherie diploma. Also mandatory: HACCP food safety certification. Apprenticeship is the common path.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Postmasters and Mail Superintendents（Postmasters and Mail Superintendents）职业分析 · 美国
+# Postmasters and Mail Superintendents — career analysis · United States
 
-**职业代码：11-9131 – Postmasters and Mail Superintendents。**
+**Occupation code: 11-9131 (SOC)**
 
-Plan, direct, or coordinate operational, administrative, management, and support services of a U.S. post office; or coordinate activities of workers engaged in postal and related work in assigned post office.
+Responsible for planning, directing, or coordinating the operational, administrative, management, and support services of US post offices, or coordinating activities of employees engaged in postal and related work in designated post offices.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（无需额外费用） |
-| 学士学位（可选） | 4年 | $20,000~$80,000（公立大学学费范围） |
+| High school diploma | None | $0~$0 (No additional fees) |
+| Bachelor's degree (optional) | 4 years | $20,000~$80,000 (Public university tuition range) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国邮政服务内部选拔考试 | 美国邮政服务（USPS） | 必备 | 通过考试和面试获得职位 |
-| 管理经验 | 雇主 | 可选 | 通常需要2-3年管理经验 |
+| US Postal Service internal selection exam | United States Postal Service (USPS) | Required | Obtain position through exam and interview |
+| Management experience | Employer | Optional | Usually requires 2-3 years of management experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 24,000。美国邮政系统正面临数字化转型和业务量下降的挑战，预计就业增长缓慢。但随着退休人员增加，仍有一定职位空缺。该职业受政府预算影响较大。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 24,000. The U.S. postal system faces challenges from digital transformation and declining mail volume, leading to slow employment growth. However, with retirements increasing, some job openings remain. This occupation is significantly influenced by government budgets.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 根据邮局规模和地区有所不同 |
-| 中级（4-10年） | $55,000~$70,000 | 管理多个部门或较大邮局 |
-| 高级（10年以上） | $70,000~$90,000 | 大型邮局局长或区域主管 |
+| Median salary | $96,660 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$55,000 | Varies by post office size and region |
+| Mid-level (4-10 years). | $55,000~$70,000 | Managing multiple departments or a larger post office |
+| Senior (10+ years) | $70,000~$90,000 | Senior postmaster or regional manager. |
+| average salary | $97,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从邮政职员或主管晋升为局长，再向区域总监或总部管理岗位发展。需积累管理经验和跨部门沟通能力，部分职位可通过内部考试晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
+
+Typically progress from postal clerk or supervisor to postmaster, then to regional director or headquarters management roles. Requires accumulation of management experience and cross-departmental communication skills; some positions can be promoted through internal exams.
+
+**Tasks most exposed to AI:**
+
+- Template-based report generation and formatting
+- Stakeholder data collection and preliminary organization
+- Meeting minutes and action item extraction
+- Budget tracking and expenditure classification.
+
+**Where AI augments the role:**
+
+- Quickly analyze project data via AI to generate insights
+- Automated stakeholder communication and updates
+- Intelligent schedule management and resource allocation optimization
+- Risk prediction and early warning
+
+**Human moat:**
+
+- Complex budget negotiations and contract decisions
+- Handle cross-departmental politically sensitive issues
+- Policy interpretation and flexible application
+- Senior stakeholder trust and relationship management
+- Crisis Management and Emergency Response
+
+**Skills to build:**
+
+- Project Management Software (e.g., MS Project, Jira)
+- Data analysis and visualization (Tableau, Power BI)
+- AI report generation tools (e.g., ChatGPT, Microsoft Copilot)
+- Basic budgeting and financial modeling
+- Emotional intelligence and cross-cultural communication
+- Agile project management (Agile/Scrum)
+
+**Key growth areas:**
 
 - Digitalization
 - Retirement Replacements
@@ -63,65 +97,67 @@ Plan, direct, or coordinate operational, administrative, management, and support
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业不属于专业职业，且政府职位一般不担保 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 几乎无路径，因政府职位优先公民 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable as the occupation is not professional and government positions rarely sponsor |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Almost no pathway, as government positions prioritize citizens |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Postmasters and Mail Superintendents？**
-- 希望为政府工作并服务社区的人
-- 注重工作稳定性和福利的人
-- 具备组织和管理能力的人
+**Who is suited**
+- People who want to work for the government and serve the community
+- People who value job stability and benefits
+- People with organizational and management skills
 
-**谁不适合学Postmasters and Mail Superintendents？**
-- 追求高薪和快速晋升的人
-- 无法通过背景调查或非美国公民
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- Cannot pass background check or not a US citizen
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a postmaster?**
+A: Depending on experience, entry-level approx. US$45,000–55,000, mid-level US$55,000–70,000, senior US$70,000–90,000. Top earners can exceed US$100,000.
+
+**Q: Can foreigners apply for the position of postmaster?**
+A: Generally no. USPS positions prioritize hiring US citizens and do not offer work visa sponsorship.
+
+**Q: How to become a postmaster?**
+A: Typically need to start as a postal clerk, gain management experience, and pass internal selection exams. A bachelor's degree helps but is not required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Postmasters and Mail Superintendents属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for postmasters?**
-答：Entry-level: $45,000-$55,000; mid-level: $55,000-$70,000; senior: $70,000-$90,000. Maximum can exceed $100,000.
-
-**问：Can foreigners apply for postmaster positions?**
-答：No. USPS positions require US citizenship and do not sponsor work visas.
-
-**问：How to become a postmaster?**
-答：Start as a postal clerk or supervisor, gain management experience, and pass internal exams. A bachelor's degree helps but is not required.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

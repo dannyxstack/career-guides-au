@@ -1,58 +1,94 @@
-# Customs Representative（Customs Representative）职业分析 · ES
+# Customs Representative — career analysis · Spain
 
-**职业代码：3531 – Customs Representative。**
+**Occupation code: 3531 (CNO)**
 
-Customs representatives handle customs clearance for imports and exports, preparing documentation, calculating duties, ensuring compliance, and liaising with customs authorities.
+Customs representatives are responsible for handling customs declaration procedures for import and export goods, including preparing documents, calculating tariffs, ensuring compliance, and coordinating with customs authorities.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立FP学费较低，私立稍高。） |
-| 大学学位（Grado） | 4年 | $800~$6,000（公立大学年均学费约1000-2000欧元，私立较高。） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Public FP tuition is lower, while private schools are slightly higher.) |
+| University Degree (Grado) | 4 years | $800~$6,000 (The average annual tuition for public universities is about 1,000-2,000 euros, while private universities are higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 海关代表资格（Representante de Aduanas） | 西班牙海关与税务局（AEAT） | 必备 | 需通过官方考试并注册，方可代表他人办理报关。 |
-| 国际贸易或物流相关学历 | 大学或职业培训中心 | 可选 | 非强制，但雇主常要求。 |
+| Customs Representative Qualification (Representante de Aduanas) | Spanish Customs and Tax Authority (AEAT) | Required | You must pass an official examination and register before you can handle customs declaration on behalf of others. |
+| Degree in international trade or logistics | Universities or vocational training centers | Optional | Not mandatory, but employers often require it. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。西班牙对外贸易活跃，海关代表需求稳定。数字化和欧盟统一海关法规带来挑战，但专业人才依然紧缺。预计未来五年岗位增长约5-8%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Spain's foreign trade is active, and customs representatives maintain stable demand. Digitalization and the EU's unified customs regulations pose challenges, but professional talent remains in short supply. Job growth is expected to be about 5-8% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，视地区和公司规模。 |
-| 中级（4-7年） | $29,000~$38,000 | 具备独立处理复杂报关能力。 |
-| 高级（8年以上） | $40,000~$55,000 | 团队管理或合规专家角色。 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, depending on region and company size. |
+| Mid-level (4-7 years) | $29,000~$38,000 | Capable of independently handling complex customs declarations. |
+| Senior (8+ years) | $40,000~$55,000 | Team management or compliance expert roles. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级报关员晋升为高级海关代表，进而成为团队主管或合规经理。也可转向物流、国际贸易咨询等领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
+
+You can be promoted from junior customs broker to senior customs representative, and then to team leader or compliance manager. It can also be expanded into logistics, international trade consulting, and other fields.
+
+**Tasks most exposed to AI:**
+
+- Automated data entry and preliminary customs declaration review
+- Intelligent preliminary screening of passenger X-ray images
+- Automatic release of routine cargo declarations
+- Automatic Assignment and Tracking of Risk Scoring Models
+- Automated document compliance checking
+
+**Where AI augments the role:**
+
+- AI-assisted risk analysis for quickly identifying suspicious cargo/passengers
+- Natural language processing accelerates multilingual passenger inquiries and document verification
+- Computer vision assists in identifying prohibited items (animal/plant products, drugs, etc.)
+- Intelligent prediction of invasive species risk pathways to optimize inspection strategies
+- Mobile AI tools improve on-site law enforcement information retrieval efficiency
+
+**Human moat:**
+
+- Involving discretionary powers in law enforcement such as body searches and arrests.
+- Communication and crisis management when dealing with highly emotional passengers
+- Sensory inspection of goods/passengers in physical environments (smell, touch, sight)
+- Complex legal interpretation and case-by-case discretion
+- Requires multilingual and cross-cultural understanding skills
+
+**Skills to build:**
+
+- Master AI-assisted risk analysis software (e.g., CBP Automated Targeting System)
+- Digital forensics and electronic evidence analysis
+- Cross-cultural communication and conflict mediation
+- Basic data analysis and visualization
+- Automate data processing with Python or R scripts
+- Biosafety rapid testing equipment operation
+
+**Key growth areas:**
 
 - Trade
 - Customs compliance
@@ -61,68 +97,67 @@ Customs representatives handle customs clearance for imports and exports, prepar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employed workers） | 由西班牙公司担保的工作居留，需证明职位无法被本地人填补。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人才，需大学学历或5年经验，薪资门槛约33,908欧元。 |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 适用于高学历或紧缺职业，流程较快，需合同和资质。 |
+| Subclass Cuenta ajena (Work permit for employed workers) | Work residency sponsored by a Spanish company requires proof that the position cannot be filled by a local resident. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, a university degree or five years of experience is required, with a salary threshold of about 33,908 euros. |
+| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for highly educated or in-demand occupations, with a faster process and requires contracts and qualifications. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Customs Representative？**
-- 细心有条理，擅长文书和法规解读的人
-- 对国际贸易和物流感兴趣的人
-- 愿意考取官方资格并持续学习的人
-
-**谁不适合学Customs Representative？**
-- 不擅长与政府机构沟通的人
-- 希望快速获得高薪且不愿承担考证压力的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Careful and organized, skilled in interpreting documents and regulations
+- People interested in international trade and logistics
+- Those willing to obtain official qualifications and continue learning
+
+**Who is not suited**
+- People who are not good at communicating with government agencies
+- Those who want to quickly obtain a high salary and are unwilling to bear the pressure of taking certification exams.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for customs representatives?**
+A: Entry-level salaries are about 22,000-28,000 euros, intermediate salaries 29,000-38,000 euros, and seniors up to 40,000-55,000 euros. Madrid and Barcelona offer higher salaries.
+
+**Q: How can foreigners become representatives of Spanish customs?**
+A: You must first obtain a work visa (such as an EU Blue Card or employee residence), then pass the AEAT exam and register in Spain. It is recommended to first accumulate international trade experience.
+
+**Q: Does this career have growth prospects?**
+A: Yes, as global trade grows, the demand for customs compliance continues. You can be promoted to compliance manager or move to international trade consulting, with a clear development path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Customs Representative的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for customs representatives?**
-答：Entry-level annual salary ranges from €22,000 to €28,000, mid-level from €29,000 to €38,000, and senior can reach €40,000 to €55,000. Salaries are higher in Madrid and Barcelona.
-
-**问：How can foreigners become customs representatives in Spain?**
-答：First obtain a work visa (e.g., EU Blue Card or empleado visa), then pass the AEAT examination and register. Prior experience in international trade is recommended.
-
-**问：Does this career have good prospects?**
-答：Yes, with growing global trade, customs compliance demand remains steady. Advancement to compliance manager or international trade consulting is possible.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

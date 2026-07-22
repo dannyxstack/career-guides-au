@@ -1,59 +1,94 @@
-# Plant, Container and Apparatus Engineer（Plant, Container and Apparatus Engineer）职业分析 · DE
+# Plant, Container and Apparatus Engineer — career analysis · Germany
 
-**职业代码：3434 – Plant, Container and Apparatus Engineer。**
+**Occupation code: 3434 (KldB)**
 
-Designs, manufactures and installs industrial equipment, containers and apparatus such as pressure vessels, heat exchangers and reactors, ensuring compliance with safety standards and technical regulations.
+Engage in the design, manufacture, and installation of industrial equipment, containers, and apparatus, including pressure vessels, heat exchangers, and reactors, ensuring compliance with safety standards and technical specifications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（机械工程或相关专业） | 3年（全日制） | —（德国公立大学基本免学费，仅每学期注册费约150-400欧元。） |
-| 双元制大学本科（机械工程） | 3年（理论+实践） | —（双元制大学通常不收费，企业提供津贴。） |
+| Bachelor's degree (Mechanical Engineering or related) | 3 years (full-time) | $0~$3,000 (German public universities are mostly tuition-free, with only a semester fee of about 150-400 euros.) |
+| Dual-system university bachelor (mechanical engineering) | 3 years (theory + practice) | $0~$4,000 (Dual-system universities are usually tuition-free, and companies provide allowances.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械工程学士学位 | 德国大学 | 必备 | 通常需要机械工程、过程工程或相关专业本科学历。 |
-| 资质认证（Anerkennung） | 德国联邦教育与研究部（BQ Portal） | 必备 | 海外学历需通过资质认证，确保与德国本科学位等值。 |
-| 焊接工程师执照（IWE） | 德国焊接学会（DVS） | 可选 | 非强制，但持有者更具竞争力，尤其涉及压力容器制造。 |
+| Bachelor's degree in Mechanical Engineering | German university | Required | Typically requires a bachelor's degree in mechanical engineering, process engineering, or a related field. |
+| Qualification recognition (Anerkennung) | German Federal Ministry of Education and Research (BQ Portal) | Required | Overseas qualifications must be assessed for equivalence with a German bachelor's degree. |
+| Welding Engineer License (IWE) | German Welding Society (DVS) | Optional | Not mandatory, but holders are more competitive, especially regarding pressure vessel manufacturing. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。德国工业设备制造业持续稳定，尤其在化工、制药和能源领域需求旺盛。数字化转型和绿色能源转型推动该职业岗位增长，技术与经验丰富的工程师尤为紧缺。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Germany's industrial equipment manufacturing sector remains stable, especially in chemicals, pharmaceuticals, and energy. Digital transformation and green energy transition are driving job growth in this occupation, with high demand for experienced engineers with technical expertise.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$53,000 | 税前年薪，含13薪及奖金。 |
-| 中级（4-7年） | $55,000~$65,000 | 税前年薪，含绩效奖金。 |
-| 高级（8年以上） | $65,000~$80,000 | 税前年薪，含项目奖金及管理津贴。 |
+| Median salary | $47,532 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$53,000 | Annual gross salary, including 13th month salary and bonus. |
+| Mid-level (4-7 years) | $55,000~$65,000 | Annual salary before tax, including performance bonuses. |
+| Senior (8+ years) | $65,000~$80,000 | Pre-tax annual salary, including project bonuses and management allowances. |
+| average salary | $52,488 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级工程师可晋升为项目负责人或技术主管，也可通过继续教育成为高级设计专家或技术经理。部分资深工程师可转向咨询或质量管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Equipment, container, and device manufacturing engineers face mixed prospects: AI can assist design optimization and simulation to improve efficiency, but core tasks like physical manufacturing, on-site installation and commissioning, and safety compliance responsibilities are hard to automate; the job will not be replaced but the task structure will be deeply reshaped.
+
+Junior engineers can advance to project manager or technical supervisor, or through continuing education become senior design experts or technical managers. Some senior engineers may move into consulting or quality management roles.
+
+**Tasks most exposed to AI:**
+
+- Preliminary calculation and selection based on standard codes (e.g., wall thickness, heat exchange area)
+- Drawing review and consistency check
+- Routine manufacturing process parameter optimization
+- Document organization and compliance report draft generation.
+
+**Where AI augments the role:**
+
+- AI generates multiple design options and quickly simulates comparisons
+- Intelligent stress analysis and optimization for pressure vessels and pipelines
+- Additive manufacturing jigs and customized tool design
+- Predictive maintenance recommendations based on historical data
+- Automatically generate technical documentation and BOMs
+
+**Human moat:**
+
+- Hands-on ability for on-site installation, debugging, and troubleshooting
+- Safety compliance decisions and risk assessment (e.g., pressure test acceptance)
+- Cross-departmental coordination and client needs understanding
+- Innovative design and process breakthroughs for non-standard equipment
+- Deep Experience with Material Properties and Manufacturing Processes
+
+**Skills to build:**
+
+- Advanced CAE simulation software (e.g., ANSYS Workbench)
+- AI-assisted design tools (e.g., generative design)
+- Industrial Internet of Things and digital twin technology
+- Additive manufacturing process design
+- Technical project management and communication
+- Learning of safety regulations and updates
+
+**Key growth areas:**
 
 - Industry 4.0
 - Green Hydrogen
@@ -62,68 +97,67 @@ Designs, manufactures and installs industrial equipment, containers and apparatu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合持有本科以上学历，年薪达到5.16万欧元（2025年标准）的工程师，可快速获得德国居留并携带家属。 |
-| Subclass Skilled Worker (Fach（Skilled Worker Visa） | 适合学历对口且获雇主担保的工程师，年薪要求低于蓝卡，需通过资质认可。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适合未获雇主但满足条件的工程师，可在德国停留一年找工作。 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for engineers with a bachelor's degree or higher and an annual salary of at least EUR 51,600 (2025 standard), can quickly obtain German residence and bring family. |
+| Subclass Skilled Worker (Fach (Skilled Worker Visa) | Suitable for engineers with relevant qualifications and employer sponsorship; annual salary requirement lower than Blue Card; need professional accreditation. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for engineers who do not have an employer but meet the requirements, allowing them to stay in Germany for one year to look for work. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Plant, Container and Apparatus Engineer？**
-- 具备机械工程或相关专业本科及以上学历者
-- 有容器或设备制造行业经验，熟悉德国标准（如AD 2000）者
-- 愿意在德国工业中西部（如北威州、巴登-符腾堡）就业者
-
-**谁不适合学Plant, Container and Apparatus Engineer？**
-- 学历不对口且无法通过认证者
-- 不熟悉德语或不愿学习德语者（工作环境需德语）
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hold a bachelor's degree or higher in mechanical engineering or related majors
+- Those with experience in the container or equipment manufacturing industry and familiarity with German standards (e.g., AD 2000)
+- Those willing to work in industrial regions of western Germany (e.g., North Rhine-Westphalia, Baden-Württemberg)
+
+**Who is not suited**
+- Those whose qualifications do not match and cannot be certified.
+- Those not familiar with or unwilling to learn German (work environment requires German)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Germany?**
+A: Entry-level engineers earn around AUD 45,000-53,000/year pre-tax, mid-level AUD 55,000-65,000, senior up to AUD 80,000+. Salary varies significantly by location, company size, and experience.
+
+**Q: How can Chinese people immigrate to work in this occupation?**
+A: Main pathway: Obtain a bachelor's degree or higher, pass German qualification recognition, find an employer and apply for a Blue Card (annual salary ≥ €51,600) or skilled migration visa. Alternatively, enter with a Job Seeker Visa to look for work first.
+
+**Q: Do I need relevant qualifications in China?**
+A: Not necessarily, but at least a bachelor's degree in engineering or technology is required, along with German accreditation (IB secondary school qualifications cannot be used directly). Some dual system vocational training may also be recognized, but need specific assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Plant, Container and Apparatus Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of this occupation in Germany?**
-答：Entry-level engineers earn about 45,000-53,000 EUR gross annually, mid-level 55,000-65,000 EUR, and senior can exceed 80,000 EUR. Salary varies by region, company size, and experience.
-
-**问：How can Chinese nationals immigrate to work in this occupation?**
-答：Main path: obtain a bachelor's degree or higher, pass German qualification recognition, find an employer, and apply for an EU Blue Card (≥51,600 EUR salary) or Skilled Worker Visa. Alternatively, use the Opportunity Card to enter Germany and seek employment.
-
-**问：Is a relevant degree from China mandatory?**
-答：Not necessarily, but at least a bachelor's degree in engineering or a related field is required, which must pass German recognition (German secondary education alone is insufficient). Dual study programs may also be recognized, but case-by-case evaluation is needed.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

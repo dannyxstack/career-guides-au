@@ -1,126 +1,164 @@
-# Management Consultant（Management Consultant）职业分析 · 新西兰
+# Management Consultant — career analysis · New Zealand
 
-**职业代码：224713 – Management Consultant。**
+**Occupation code: 225113 (ANZSCO)**
 
-Management consultants advise New Zealand businesses, government, and nonprofits on strategy, operations, finance, and HR to improve efficiency and performance. This occupation is on the Green List Tier 1, offering a direct residence pathway.
+Management consultants help organizations improve efficiency and competitiveness by analyzing business processes, identifying problems, and providing improvement solutions. Demand for this occupation in New Zealand is stable, and immigration is possible through the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but it is not on the Green List.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $22,000~$35,000（新西兰大学商科学费） |
-| 硕士 | 1-2年 | $35,000~$50,000（管理/商业硕士学费） |
+| Bachelor's degree (business/management/economics related) | 3 years | $30,000~$45,000 (Average annual tuition for international undergraduates: approximately NZD 30,000–40,000.) |
+| Master's (MBA or Master of Management) | 1-2 years | $40,000~$60,000 (Master's average annual tuition, international students approx NZD 40,000-60,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工商管理学士 | 奥克兰大学、惠灵顿维多利亚大学等 | 可选 | 常见相关学历 |
-| 注册管理咨询师 | 新西兰管理咨询协会 | 可选 | 非强制，但有助于职业发展 |
-| 项目管理专业认证 | 项目管理协会 | 可选 | 如PMP，非强制 |
+| IELTS/PTE language scores | IELTS/PTE | Required | Technical migration requires IELTS 6.5 or equivalent |
+| Professional registration (e.g., CMCNZ membership) | Consulting Managers' Council of New Zealand (CMCNZ) | Optional | Not mandatory, but beneficial for career development |
+| Project Management Professional (PMP) | PMI | Optional | Not mandatory, but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰管理顾问需求稳定，随着企业寻求数字化转型和绩效提升，预计未来五年岗位增长约10%。奥克兰、惠灵顿和基督城机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Moderate growth in employment for management consultants in New Zealand, driven by enterprise digital transformation and operational optimization. Main demand is in large companies and consulting firms in Auckland, Wellington, and Christchurch. Expected 5% to 10% job growth over the next five years, with moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 多为助理顾问 |
-| 中级（3-7年） | $80,000~$120,000 | 经验顾问 |
-| 高级（7年以上） | $130,000~$200,000 | 高级顾问/合伙人 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $60,000~$80,000 | Entry-level, typically as an analyst or assistant consultant |
+| Mid-level (3–7 years) | $80,000~$120,000 | Experienced consultant independently responsible for projects |
+| Senior (7+ years) | $120,000~$180,000 | Senior consultant, manager, or partner |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级顾问可晋升为高级顾问、项目经理或合伙人。也可转向企业内部战略部门或自主创业。通常需5-10年经验达到管理层。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
 
-- Green List Tier 1
+Career progression typically starts as analyst, gradually advancing to senior consultant, project manager, or partner. Can also shift to internal strategy, operations, or digital transformation roles. Accumulating industry experience and client relationships is key; MBA or professional certifications (e.g., PMP) help advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting and cleaning business data from CRM/ERP systems
+- Generate visual dashboards and periodic reports
+- Drafting basic requirement documents and filling templates
+- Automated data scraping and comparative analysis of market competitors
+- Automated diagnosis of process bottlenecks (e.g., time-motion analysis)
+
+**Where AI augments the role:**
+
+- Use AI to simulate financial impacts of different business strategies, accelerating iteration
+- Rapid insights from unstructured data via natural language queries
+- AI-assisted sentiment and semantic analysis of complex stakeholder interviews
+- Automatically generate preliminary solution frameworks; analysts focus on key assumption validation
+- Using AI to monitor business indicator anomalies in real time, providing early warnings for opportunities and risks
+
+**Human moat:**
+
+- Cross-departmental interest coordination and change management skills
+- Unstructured problem definition skills for ambiguous business issues
+- Understanding organizational politics and implicit needs in negotiations
+- High-level strategic communication and persuasion
+- Ethical judgment and human verification responsibility for AI outputs
+
+**Skills to build:**
+
+- Data storytelling and visualization (Tableau/Power BI + business narrative)
+- AI toolchains (e.g., ChatGPT, Copilot, AutoML platforms)
+- Basic Python/R data cleaning and automation
+- Cloud collaboration and project management tools (Jira, Confluence, Miro)
+- Agile/lean methodology practices integrated with AI.
+- Domain knowledge (e.g., healthcare, government, finance)
+
+**Key growth areas:**
+
 - Skilled Migrant Category
+- AEWV
+- Business Services
 - Digital Transformation
-- Business Advisory
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Green List Tier 1 Straight to Residence） | 直接居留签证，满足职业、薪资和资格要求即可申请 |
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，可凭学历+工作经验加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，为雇主工作后可转居留 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires meeting a 6-point system (qualifications + work experience + income, etc.), ANZSCO skill level 1-3 occupations. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requires job offer from accredited employer, can apply for residence after 2 years of work. |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Management Consultant is not directly on the Green List, but if engaged in ICT-related business analysis, may meet ICT T2 requirements (requiring ANZSCO 2611 series). |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Management Consultant？**
-- 具备商业洞察力和解决问题能力者
-- 擅长沟通、分析和战略思维
-- 能适应出差和高压工作环境
-
-**谁不适合学Management Consultant？**
-- 不喜欢频繁变动和不确定的工作节奏
-- 偏向稳定单一职能而非跨领域咨询
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with analytical thinking and problem-solving skills
+- Individuals who enjoy client communication and driving change
+- Individuals with business or management background seeking to transition into strategic consulting
+
+**Who is not suited**
+- People who dislike frequent travel and high-stress environments
+- People who prefer stable, repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for management consultants in New Zealand?**
+A: Based on industry experience, entry-level consultants earn about NZD 60,000-80,000, mid-level NZD 80,000-120,000, and senior NZD 120,000-180,000 or higher, depending on the company and city.
+
+**Q: Can a management consultant immigrate to New Zealand via the Green List?**
+A: Management Consultant (ANZSCO 224712) is not on the Green List but is an SMC 1-3 level occupation; can apply via Skilled Migrant Category 6-point system, or via AEWV work visa to residency.
+
+**Q: Is there high demand for management consultants in New Zealand right now?**
+A: Steady demand, mainly in large consulting firms (e.g., Deloitte, PwC) and corporate strategy departments. Driven by digital transformation and operational optimization projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Management Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for management consultants in New Zealand?**
-答：Entry-level consultants earn around NZD 55,000-75,000, mid-level NZD 80,000-120,000, and senior NZD 130,000-200,000. Salaries vary by firm size and location.
-
-**问：How can management consultants immigrate to New Zealand?**
-答：This occupation is on the Green List Tier 1, allowing direct residence. Requirements include a bachelor's degree or higher, salary above median, and a job offer. Alternatively, SMC 6-point or AEWV pathways apply.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

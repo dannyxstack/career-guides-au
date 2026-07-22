@@ -1,61 +1,97 @@
-# Teaching assistants（Teaching assistants）职业分析 · UK
+# Teaching assistants — career analysis · United Kingdom
 
-**职业代码：6112 – Teaching assistants。**
+**Occupation code: 6112 (SOC)**
 
-Teaching assistants support teachers with day-to-day classroom work and routine administrative tasks, playing a vital role in the UK education system.
+Teaching assistants help teachers with daily classroom tasks and routine administrative duties, playing an essential support role in the UK education system.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 职业培训/证书 | 6个月 | $500~$1,500（在线或学院课程，如Level 2/3 Teaching Assistant Certificate） |
-| 高等教育文凭 | 1年 | $3,000~$6,000（全日制或兼职，如Foundation Degree in Supporting Teaching and Learning） |
+| Vocational training/certificate | 6 months. | $500~$1,500 (Online or college courses, such as Level 2/3 Teaching Assistant Certificate) |
+| Higher education diploma | 1 year | $3,000~$6,000 (Full-time or part-time, such as a Foundation Degree in Supporting Teaching and Learning) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Level 2/3 Teaching Assistant Certificate | NCFE CACHE / City & Guilds | 可选 | 广泛认可的入门资格 |
-| Supporting Teaching and Learning Diploma | Ofqual regulated awarding bodies | 可选 | 更高级的职业资格 |
-| GCSE English and Maths (Grade C/4 or above) | Exam boards | 必备 | 多数雇主要求 |
+| GCSE English and Maths (Grade C/4 or above) | Exam boards | Required | Most employers require |
+| Level 2/3 Teaching Assistant Certificate | NCFE CACHE / City & Guilds | Optional | Widely recognised entry qualification |
+| Supporting Teaching and Learning Diploma | Ofqual regulated awarding bodies | Optional | Higher-level professional qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 280,000。英国持续面临教师招聘挑战，学校对教学助理的需求稳定。预计未来十年就业增长约5%，尤其是特殊教育领域需求更大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 280,000. The UK continues to face teacher recruitment challenges, with stable demand for teaching assistants. Employment is expected to grow by about 5% over the next decade, especially in special education.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 全职，英格兰地区（伦敦以外） |
-| 中级（2-5年） | $22,000~$26,000 | 经验丰富者或HLTA |
-| 高级（5年以上） | $26,000~$30,000 | 高级教学助理或特殊教育角色 |
+| Median salary | $21,239 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–2 years) | $18,000~$22,000 | Full-time, England (outside London) |
+| Intermediate (2-5 years) | $22,000~$26,000 | Experienced staff or HLTA |
+| Senior (5+ years) | $26,000~$30,000 | Senior teaching assistant or special education role |
+| average salary | $21,488 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 教学助理可通过积累经验晋升为高级教学助理或HLTA（高级教学助理），部分人通过在职培训成为合格教师。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Administrative and documentation tasks for teaching assistants will be significantly reduced by AI, but classroom interaction and personalized tutoring still rely on humans; entry-level positions will decrease.
+
+Teaching assistants can advance to senior teaching assistant or HLTA (Higher Level Teaching Assistant) through experience, and some become qualified teachers through in-service training.
+
+**Tasks most exposed to AI:**
+
+- Organize student attendance records and grade data
+- Print and distribute teaching materials
+- Arranging meeting rooms and course schedules
+- Answering common student questions (e.g., course policies)
+- Maintain basic content on online learning platforms
+
+**Where AI augments the role:**
+
+- Analyzing student homework patterns using AI to identify learning difficulties
+- Using natural language processing tools to help students improve writing
+- Generate personalized practice questions and review materials using AI
+- Assisting students with special needs using speech recognition
+- Use data visualization tools to report class progress to teachers
+
+**Human moat:**
+
+- One-on-one academic and emotional support
+- Managing student behavior and group dynamics in the classroom
+- Personalized interventions for students with special needs
+- Complex communication with parents and teachers
+- Cross-cultural sensitivity and humanistic care
+
+**Skills to build:**
+
+- Operation of AI education tools (e.g., adaptive learning platforms).
+- Basic data analysis (Excel, Python)
+- Educational psychology and special education knowledge
+- Multimedia content creation (video, interactive courseware)
+- Digital literacy and online teaching platform management
+- Conflict resolution and communication skills
+
+**Key growth areas:**
 
 - Special educational needs
 - Primary schools
@@ -64,66 +100,68 @@ Teaching assistants support teachers with day-to-day classroom work and routine 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 教学助理通常不符合技术工人签证的资格要求，因为职业不属于短缺职业且薪资门槛难以达到。少数特殊教育学校可能提供担保。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许留英工作2年（博士生3年），可从事任何工作包括教学助理，但后续转为技术工人签证困难。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme visa） | 对于18-30岁的特定国家公民，可留英工作2年，教学助理是常见选择之一。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Teaching assistants generally do not meet the eligibility requirements for skilled worker visas, as the occupation is not in shortage and the salary threshold is difficult to meet. A few special education schools may offer sponsorship. |
+| Subclass Graduate (Graduate visa) | Graduate visa allows working in the UK for 2 years (3 years for PhDs), in any job including teaching assistant, but transitioning to a Skilled Worker visa is difficult. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme visa) | For citizens of specific countries aged 18-30, they can work in the UK for 2 years; teaching assistant is a common choice. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Teaching assistants？**
-- 喜欢与儿童和青少年一起工作的人
-- 有耐心、善于沟通和团队协作的人
-- 希望在教育领域积累经验并可能成为教师的人
+**Who is suited**
+- People who enjoy working with children and adolescents
+- Patient, good communication and teamwork skills
+- Individuals hoping to gain experience in education and potentially become teachers
 
-**谁不适合学Teaching assistants？**
-- 追求高薪职业的人
-- 希望轻松获得英国永居的海外人士
+**Who is not suited**
+- People pursuing high-paying careers
+- Overseas individuals seeking an easy path to UK permanent residency.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Does the salary of a teaching assistant increase significantly with experience?**
+A: Salary growth is limited, typically starting from around £18,000, reaching £26,000-30,000 after several years of experience. Promotion to senior teaching assistant or HLTA can be slightly higher, but the increase is not as great as in other careers.
+
+**Q: Can overseas individuals become teaching assistants in the UK via work visas?**
+A: Extremely difficult. Teaching assistants generally do not meet skilled worker visa requirements due to low salary thresholds and not being a shortage occupation. A few special education schools may offer sponsorship, but it is very rare. Graduate visas or youth mobility schemes are possible temporary pathways.
+
+**Q: Can teaching assistants become regular teachers?**
+A: Yes. Many teaching assistants gradually progress to qualified teachers through on-the-job training, school-provided teacher training courses, or university PGCE programs. This usually requires additional study and obtaining teaching certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Teaching assistants属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does a teaching assistant's salary increase significantly with experience?**
-答：Salary growth is limited, typically starting around £18,000 and reaching £26,000-£30,000 after many years. Progression to senior TA or HLTA may bring a slight increase, but it's not as high as other professions.
-
-**问：Can overseas nationals become teaching assistants in the UK via a work visa?**
-答：Very difficult. Teaching assistants generally do not meet Skilled Worker visa requirements due to low salary thresholds and not being on the shortage list. A few special schools may sponsor, but it's rare. Graduate or Youth Mobility Scheme visas are temporary options.
-
-**问：Can a teaching assistant become a qualified teacher?**
-答：Yes. Many TAs progress to become qualified teachers through on-the-job training, school-direct teacher training programs, or university PGCE courses. This usually requires additional study and obtaining Qualified Teacher Status (QTS).
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

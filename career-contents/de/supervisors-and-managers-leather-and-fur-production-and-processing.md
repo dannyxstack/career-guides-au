@@ -1,62 +1,96 @@
-# Supervisors and Managers - Leather and Fur Production and Processing（Supervisors and Managers - Leather and Fur Production and Processing）职业分析 · DE
+# Supervisors and Managers - Leather and Fur Production and Processing — career analysis · Germany
 
-**职业代码：2839 – Supervisors and Managers - Leather and Fur Production and Processing。**
+**Occupation code: 2839 (KldB)**
 
-Supervise and manage leather and fur production and processing, including tanning, dyeing, cutting, and finishing, ensuring quality and efficiency.
+Responsible for supervising and managing the production and processing of leather and fur, including tanning, dyeing, cutting, and finished product making, ensuring quality and efficiency.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（企业承担学费，每月津贴约800-1200欧元） |
-| 师傅（Meister） | 1-2年（全日制或兼职） | $3,000~$6,000（考试费及准备课程费用） |
-| 本科（皮革技术或纺织管理） | 3-4年 | —（公立大学基本无学费，仅收注册费） |
+| Dual vocational training | 3 years (dual system) | $0~$500 (Employer covers tuition; monthly allowance approx. €800-1,200.) |
+| Master craftsman (Meister) | 1-2 years (full-time or part-time) | $3,000~$6,000 (Exam fees and preparation course costs) |
+| Bachelor's degree (Leather Technology or Textile Management) | 3-4 years | $0~$3,000 (Public universities have basically no tuition fees, only registration fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革技术工人（Gerber/in） | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，行业基础资质 |
-| 皮革技术师傅（Gerbermeister/in） | 德国工商会（IHK） | 必备 | 管理职位通常要求，或同等经验 |
-| 学历认证（Anerkennung） | 德国认证机构（如IHK FOSA） | 可选 | 第三国学历需认证，过程耗时约3-6个月 |
+| Leather technician (Gerber/in) | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training, foundational industry qualification |
+| Leather technology master (Gerbermeister/in) | German Chamber of Commerce and Industry (IHK) | Required | Typically required for management positions, or equivalent experience |
+| Credential recognition (Anerkennung) | German accreditation bodies (e.g., IHK FOSA) | Optional | Qualifications from third countries require evaluation, process takes about 3-6 months |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 12,000。德国皮革行业成熟但面临自动化压力，就业机会主要集中在高端和定制领域。由于环保法规趋严，行业整合持续，但经验丰富的管理人员仍受青睐。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. The German leather industry is mature but faces automation pressures; employment opportunities are mainly in high-end and custom sectors. Due to increasingly strict environmental regulations, industry consolidation continues, but experienced managers are still in demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，取决于企业规模和地区 |
-| 中级（3-7年） | $45,000~$60,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $60,000~$80,000 | 税前年薪，管理层薪资 |
+| Median salary | $35,124 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual salary before tax, depending on company size and region |
+| Mid-level (3–7 years) | $45,000~$60,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $60,000~$80,000 | Pre-tax annual salary, management-level salary |
+| average salary | $38,748 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 从基层生产岗位起步，通过积累经验和进修管理课程，可晋升为车间主管、生产经理、工厂厂长等中高层管理职位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Leather and fur production management and supervision roles face dual impacts from automation and AI enhancement: repetitive quality checks, data entry, and scheduling optimization are easily replaced by AI, but tasks involving manual craftsmanship judgment, supply chain coordination, and emergency decision-making are enhanced, overall a mixed bag.
+
+Starting from entry-level production positions, accumulate experience and pursue management courses to advance to middle and senior management roles such as workshop supervisor, production manager, or plant manager.
+
+**Tasks most exposed to AI:**
+
+- Standardized quality inspection and defect identification (based on visual AI)
+- Automated management of production scheduling and raw material inventory
+- Automatic sorting and classification of leather grades
+- Automatic monitoring and alarming of energy consumption and environmental data
+
+**Where AI augments the role:**
+
+- Use AI to analyze leather texture and color consistency to assist human decision-making
+- AI predicts equipment maintenance cycles, reducing downtime
+- Digital twin simulation of dyeing process to reduce trial and error costs
+- AI-recommended nesting and layout plans to improve material utilization
+- AI-assisted supply chain risk early warning and alternative supplier recommendations
+
+**Human moat:**
+
+- Subjective assessment of leather quality (e.g., feel, smell)
+- Communication and solution design for complex custom client requirements
+- On-site emergency handling of sudden equipment failures or process anomalies
+- Transmission of tacit knowledge from experienced workers and team management
+
+**Skills to build:**
+
+- AI tools in manufacturing (e.g. visual inspection software)
+- Data analysis and basic statistical process control (SPC)
+- Operation of digital scheduling systems (e.g., MES)
+- Sustainable leather manufacturing processes and environmental compliance knowledge
+- Human-machine collaboration and team's ability to adopt new technologies
+- Supply chain traceability and blockchain basics
+
+**Key growth areas:**
 
 - Sustainable leather
 - Automation
@@ -65,68 +99,67 @@ Supervise and manage leather and fur production and processing, including tannin
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于具备认可职业资格的技术移民，需雇主担保 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历，薪资门槛较高（2024年约43,800欧元），此职业通常不满足 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，允许在德寻找工作，需满足德语等条件 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable for skilled migration with recognized occupational qualifications, requiring employer sponsorship |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education qualifications, with a higher salary threshold (approx. €43,800 in 2024); this occupation usually does not meet it |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A job-seeking visa based on a points system, allowing job seeking in Germany, requiring conditions such as German language proficiency |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors and Managers - Leather and Fur Production and Processing？**
-- 对皮革工艺有浓厚兴趣并愿意从基层做起的人
-- 具备管理潜力和实践经验的技术工人
-
-**谁不适合学Supervisors and Managers - Leather and Fur Production and Processing？**
-- 对化学品和手工环境敏感者
-- 寻求高薪、自动化率高的行业的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone with strong interest in leather craftsmanship and willing to start from the basics
+- Skilled workers with management potential and practical experience
+
+**Who is not suited**
+- Sensitive to chemicals and manual environments
+- People seeking high salary and highly automated industries.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for management positions in the leather industry?**
+A: Junior positions: annual salary around €35,000–45,000, senior managers: €60,000–80,000, depending on company size and region.
+
+**Q: How can third-country nationals immigrate to Germany to work in this occupation?**
+A: Usually need to obtain a recognized vocational qualification in Germany (e.g., dual training) first, then apply for a work visa under the Skilled Immigration Act. Alternatively, can come to Germany with an Opportunity Card to seek employment.
+
+**Q: What is the career progression path for this occupation?**
+A: Start as a leather technician, gain experience, then pass trade tests to become team leader or production supervisor, and further to production manager or factory manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisors and Managers - Leather and Fur Production and Processing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for management positions in the leather industry?**
-答：Entry-level positions earn around €35,000-45,000 per year, while senior managers can earn €60,000-80,000, depending on company size and region.
-
-**问：How can third-country nationals immigrate to Germany to work in this occupation?**
-答：Usually, one must first obtain a recognized vocational qualification (e.g., dual training) in Germany, then apply for a work visa under the Skilled Immigration Act. Alternatively, the Opportunity Card can be used to seek employment.
-
-**问：What is the career progression for this occupation?**
-答：Starting as a leather technician, one can advance to foreman or production supervisor after passing the master craftsman exam, and further to production manager or plant manager.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

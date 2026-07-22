@@ -1,68 +1,98 @@
-# 机械工程师（Mechanical Engineer）职业分析 · 澳大利亚
+# Mechanical Engineer — career analysis · Australia
 
-**职业代码：233512 – Mechanical Engineer。**
+**Occupation code: 233512 (ANZSCO)**
 
-机械工程师设计、分析和测试机械系统，覆盖制造业、采矿设备、可再生能源、国防和建筑服务。AUKUS国防制造计划和澳洲可再生能源转型推动对机械工程师的需求显著增加，是工程类薪资潜力最高的职业之一。
+Mechanical engineers design, analyse and test mechanical systems across manufacturing, mining equipment, renewable energy, defence and building services. The AUKUS defence manufacturing program and Australia's renewable energy transition are significantly driving demand for mechanical engineers, making it one of the highest salary-potential engineering occupations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Mechanical Engineering（荣誉，4年） | 4年（全日制） | $30,000~$185,000（澳洲工程师资质要求4年荣誉学位；国际生约 $38,000~$48,000/年） |
-| Engineers Australia（EA）技能评估 | 3~12个月 | $770~$3,000（189/190签证必须，约 $770 申请费） |
-| CPEng（Chartered Professional Engineer）认证 | 4~7年工作经验后申请 | $1,500~$5,000（注册工程师认证，是高级岗位晋升的重要资质） |
+| Bachelor of Mechanical Engineering (Honours, 4 years) | 4 years (full-time) | $30,000~$185,000 (Australian engineers require a 4-year honours degree; international students approximately $38,000–$48,000/year) |
+| Engineers Australia (EA) skills assessment | 3–12 months | $770~$3,000 (Required for 189/190 visa; approximately $770 application fee) |
+| CPEng (Chartered Professional Engineer) certification | Apply after 4–7 years of work experience | $1,500~$5,000 (Registered engineer certification is an important qualification for advancement into senior roles) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Mechanical Engineering (Honours) | 认可大学（EA认证） | 必备 | 行业基础学历，EA认证的4年荣誉学位是工程师移民的基本要求 |
-| Engineers Australia（EA）技能评估 | Engineers Australia | 可选 | 189/190签证技术移民必须 |
-| CPEng（Chartered Professional Engineer） | Engineers Australia | 可选 | 专业注册工程师，高级岗位重要资质 |
-| NVH / ANSYS / SolidWorks专业认证 | 各认证机构 | 可选 | 仿真软件专业认证，采矿/国防方向薪资溢价高 |
+| Bachelor of Mechanical Engineering (Honours) | Accredited university (EA-accredited) | Required | The foundational qualification for the industry; an EA-accredited 4-year honours degree is the basic requirement for engineers seeking migration |
+| Engineers Australia (EA) skills assessment | Engineers Australia | Optional | Required for skilled migration via 189/190 visa |
+| CPEng（Chartered Professional Engineer） | Engineers Australia | Optional | Professional registered engineer; important qualification for senior positions |
+| NVH / ANSYS / SolidWorks professional certifications | Each certifying body | Optional | Professional certification in simulation software; significant salary premium in mining/defence sectors |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 55,000。JSA 预测机械工程师至2035年就业增长约10%。AUKUS核潜艇计划（AU$368亿）和可再生能源设施建设是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 55,000. JSA forecasts approximately 10% employment growth for mechanical engineers by 2035. The AUKUS nuclear submarine programme (AU$36.8 billion) and renewable energy infrastructure construction are the primary drivers.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~3,500 个 | 全国，含机械工程师、设计工程师、项目工程师和国防岗 |
-| Indeed | 1,000~2,500 个 | 含FIFO采矿岗和制造业岗 |
-| LinkedIn | 1,500~3,500 个 | 国防、航空和顾问公司直招 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 毕业生机械工程师（0~2年） | $65,000~$82,000 | 应届生起薪 |
-| 中级机械工程师（2~7年） | $85,000~$120,000 | SEEK 区间 $90k~$110k；Indeed 平均 $87,854（2026） |
-| 资源/采矿FIFO机械工程师（3年+） | $110,000~$155,000 | FIFO远程现场工程师包含住宿和轮岗补贴 |
-| 高级/国防机械工程师（7年+，含安全许可） | $140,000~$190,000 | 国防/航空航天工程师，持安全许可溢价 $20k~$40k |
+| Median salary | $135,928 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Graduate Mechanical Engineer (0–2 years) | $65,000~$82,000 | Graduate starting salary |
+| Mid-level Mechanical Engineer (2–7 years) | $85,000~$120,000 | SEEK range $90k–$110k; Indeed average $87,854 (2026) |
+| Resources/Mining FIFO Mechanical Engineer (3+ years) | $110,000~$155,000 | FIFO remote site engineers receive accommodation and rotation allowances |
+| Senior/defence mechanical engineer (7+ years, including security clearance) | $140,000~$190,000 | Defence/aerospace engineer with security clearance premium $20k–$40k |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 国防和航空航天机械工程师（需要澳洲安全许可）是薪资溢价最高的方向，年薪可超 $160k。工业4.0（机器人/自动化）专精的机械工程师需求急剧增加。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Mechanical engineer's job is a mixed bag with AI: design analysis tasks are enhanced, but complex system integration and on-site responsibility still rely on human judgment, intensifying competition for entry-level roles.
+
+Defence and aerospace mechanical engineers (requiring Australian security clearance) command the highest salary premium, with annual salaries exceeding $160k. Demand for mechanical engineers specialising in Industry 4.0 (robotics/automation) is increasing sharply.
+
+**Tasks most exposed to AI:**
+
+- Parametric design and optimization of standard mechanical parts
+- Generate fault pattern analysis reports based on historical data
+- Meshing and initial solving in routine finite element analysis
+- Drafting initial versions of technical documents and annotating drawings
+- Kinematic simulation of simple mechanical systems
+
+**Where AI augments the role:**
+
+- AI-driven generative design rapidly explores multiple solutions
+- Using machine learning to predict equipment remaining useful life and optimize maintenance schedules
+- AI-assisted fluid dynamics simulation accelerates iteration
+- Real-time monitoring system performance and early warning via digital twins.
+- Natural Language Processing Rapid Retrieval: Technical Specifications and Patents
+
+**Human moat:**
+
+- Complex integration and debugging across systems (mechanical, electrical, hydraulic, thermal)
+- Experience-based intuitive judgment in on-site fault diagnosis.
+- Communication and negotiation with clients, contractors, and regulators
+- Risk assessment and compliance decisions for safety-critical systems
+- Physical intuition and creativity in innovative conceptual design
+
+**Skills to build:**
+
+- AI-assisted design tools (e.g., Autodesk Fusion 360 generative design)
+- Python/Matlab script automation and data processing
+- Machine learning basics and predictive maintenance applications
+- Digital Twin and Simulation Tools (e.g., Ansys Twin Builder)
+- Design for Additive Manufacturing (DfAM) and topology optimization
+- Project management and cross-disciplinary collaboration skills
+
+**Key growth areas:**
 
 - Defence Manufacturing (AUKUS)
 - Renewable Energy Systems (Wind/Solar/Hydrogen)
@@ -72,91 +102,87 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，机械工程师为核心短缺职业 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
-| Subclass 190（Skilled Nominated） | 州提名，WA/QLD采矿和SA/VIC制造业通道 |
-| Subclass 491（Skilled Work Regional） | 偏远地区工程项目，加15分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, with mechanical engineers listed as a core shortage occupation |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
+| Subclass 190 (Skilled Nominated) | State nomination, with mining pathways in WA/QLD and manufacturing pathways in SA/VIC |
+| Subclass 491 (Skilled Work Regional) | Remote area engineering projects, +15 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学机械工程师？**
-- 有机械/制造/能源行业工程经验（2年以上）
-- 有SolidWorks/AutoCAD/ANSYS等设计软件实操经验
-- 英语能力达到 IELTS 6.0+（EA评估和工程报告要求）
-- 有意向FIFO采矿岗（西澳/昆士兰矿业薪资最高）
-- 或有意向国防/航空方向（AUKUS项目需求急剧增加）
-
-**谁不适合学机械工程师？**
-- 非工程学位，无法通过EA技能评估
-- 完全排斥现场工作和FIFO生活方式
-- 不愿意考取CPEng（限制长期薪资天花板）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Engineering experience in mechanical, manufacturing or energy sectors (2+ years)
+- Hands-on experience with design software such as SolidWorks, AutoCAD, and ANSYS
+- English proficiency of IELTS 6.0+ (required for EA assessment and engineering reports)
+- Interested in FIFO mining roles (highest salaries in WA/QLD mining)
+- Or interested in defence/aviation pathways (AUKUS project demand has increased sharply)
+
+**Who is not suited**
+- Non-engineering degree — unable to pass EA skills assessment
+- Completely averse to on-site work and a FIFO lifestyle
+- Unwilling to pursue CPEng (which limits long-term salary ceiling)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a mechanical engineer in Australia?**
+A: Mid-level mechanical engineers earn approximately $85,000–$120,000 (Indeed average $87,854); FIFO mining engineers approximately $110k–$155k (including remote allowances); defence/aerospace engineers can reach $140k–$190k.
+
+**Q: Is it easy for mechanical engineers to find work in Australia?**
+A: Easy. Seek lists approximately 1,500–3,500 positions, with extreme shortages in FIFO mining roles (Western Australia/Queensland) and defence manufacturing roles (AUKUS); experienced candidates are proactively approached by recruiters.
+
+**Q: Is a mechanical engineering degree from China recognised in Australia?**
+A: Skills assessment through Engineers Australia (EA), application fee about $770, processing time 3-12 months. Mechanical engineering degrees from Chinese 985/211 universities have a higher pass rate, but ensure course coverage matches EA requirements.
+
+**Q: Will mechanical engineers be replaced by AI?**
+A: Low risk. AI assists with finite element analysis and design optimisation (ANSYS/Simcenter), but engineering judgement, on-site construction supervision, experimental testing, and equipment fault diagnosis remain irreplaceable.
+
+**Q: Are there age restrictions for mechanical engineers in Australia?**
+A: None. The defence and resources sectors place particular value on senior engineers with large-scale project management experience; those aged 40–55 with relevant experience remain competitive in the market.
+
+**Q: What qualifications do mechanical engineers need in Australia?**
+A: A 4-year Honours degree in Mechanical Engineering is mandatory — this is the fundamental requirement for an Engineers Australia skills assessment. Australia does not recognise a 3-year bachelor's degree (an honours year or bridging coursework is required).
+
+**Q: Is getting certified as a Mechanical Engineer in Australia (for migration) difficult?**
+A: Moderate difficulty. Engineers Australia assessment cycles are relatively long (3–12 months), but pass rates are high; 189/190 EOI scores are favourable for experienced engineers.
+
+**Q: Which is more suitable for migrating to Australia — mechanical engineering or civil engineering?**
+A: Civil engineers have higher overall employment volume (Seek ~3,000+ vs mechanical ~1,500) and benefit from stable infrastructure projects; mechanical engineers have higher salary potential in mining, defence, and renewable energy. Both are on the MLTSSL — choose based on your own background.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 机械工程师薪资 $90k~$110k（2026） |
-| Indeed AU | 机械工程师平均薪资 $87,854（2026） |
-| Engineers Australia | EA技能评估和CPEng认证 |
-| Department of Home Affairs | MLTSSL / 签证条件 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中高（★★★★☆） |
-| 学习难度 | 中高（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★☆） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-机械工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲机械工程师工资多少？**
-答：中级机械工程师约 $85,000~$120,000（Indeed均值 $87,854）；FIFO采矿工程师约 $110k~$155k（含远程补贴）；国防/航空工程师可达 $140k~$190k。
-
-**问：澳洲机械工程师容易找工作吗？**
-答：容易。Seek 挂牌约 1500~3500 个职位，FIFO采矿岗（西澳/昆士兰）和国防制造岗（AUKUS）极度缺人，持工作经验者主动被猎头联系。
-
-**问：中国机械工程学位澳洲认可吗？**
-答：通过 Engineers Australia（EA）技能评估，约 $770 申请费，3~12个月周期。中国985/211大学的机械工程学位通过率较高，但需要确保课程覆盖度与EA要求匹配。
-
-**问：机械工程师会被AI替代吗？**
-答：风险较低。AI辅助有限元分析和设计优化（ANSYS/Simcenter），但工程判断、现场施工监督、实验测试和设备故障诊断不可替代。
-
-**问：澳洲机械工程师有年龄限制吗？**
-答：无。国防和资源行业特别重视有大型项目管理经验的资深工程师，40~55岁有经验者在市场上仍具竞争力。
-
-**问：澳洲机械工程师需要什么学历？**
-答：必须持有4年荣誉机械工程学位，这是EA技能评估的基本要求。澳洲不承认3年学士学位（需要荣誉年或补充课程）。
-
-**问：澳洲机械工程师认证（移民）难吗？**
-答：难度中等。EA评估周期较长（3~12个月），但通过率较高；189/190 EOI分数对有经验的工程师友好。
-
-**问：机械工程师和土木工程师哪个更适合移民澳洲？**
-答：土木工程师就业量更大（Seek ~3000+ vs 机械 ~1500），基础设施项目稳定；机械工程师在采矿/国防/可再生能源方向薪资潜力更高。两者均在MLTSSL列表，建议根据自身背景选择。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

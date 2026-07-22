@@ -1,59 +1,95 @@
-# Technical Director（Technical Director）职业分析 · 新西兰
+# Technical Director — career analysis · New Zealand
 
-**职业代码：212317 – Technical Director。**
+**Occupation code: 212317 (ANZSCO)**
 
-The Technical Director (Film/Stage) in New Zealand oversees technical production for film, stage or broadcast projects, managing teams for lighting, sound, and set design. This occupation is eligible for migration via Skilled Migrant Category (SMC) or Green List Tier 2 (work to residence), requiring a job offer from an accredited employer and meeting salary thresholds.
+The Technical Director (Film/TV/Stage) in New Zealand oversees technical production in film, TV, or stage projects, managing teams for lighting, sound, and sets. This occupation falls under the creative and media industry and can qualify for residency via the Skilled Migrant Category (SMC) or Green List Tier 2, requiring a job offer from an accredited employer meeting salary thresholds.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（影视技术/戏剧制作） | 3年 | $30,000~$40,000（如奥克兰大学 Bachelor of Performing Arts (Technical Production)） |
-| 专科文凭（舞台管理/影视制作） | 2年 | $20,000~$30,000（如Unitec的Diploma in Stage and Screen Arts（技术方向）） |
+| Bachelor's degree (Film Technology/Theatre Production) | 3 years | $30,000~$40,000 (e.g., University of Auckland Bachelor of Performing Arts (Technical Production)) |
+| Diploma (Stage Management/Film and TV Production) | 2 years | $20,000~$30,000 (E.g., Unitec's Diploma in Stage and Screen Arts (technical pathway)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰影视行业认证 | Screen Guild NZ | 可选 | 非强制，但有助于就业 |
-| 舞台技术安全证书 | WorkSafe NZ | 可选 | 如高空作业或电气安全证书，部分岗位要求 |
-| 英语语言能力（IELTS 6.5） | IELTS | 必备 | 移民要求 |
+| English language proficiency (IELTS 6.5). | IELTS | Required | Immigration requirements |
+| New Zealand screen industry certification | Screen Guild NZ | Optional | Not mandatory, but helpful for employment |
+| Stage Technology Safety Certificate | WorkSafe NZ | Optional | such as high-altitude or electrical safety certificates, some positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 350。新西兰影视和舞台行业持续增长，尤其是基督城和奥克兰的影视制作中心。预计2025-2029年岗位年增长率约2-3%，但竞争激烈，需要丰富经验和人脉。
+**Job demand: medium (★★★☆☆).** National workforce approx. 350. New Zealand's film and stage industry continues to grow, especially in Christchurch and Auckland's film production hubs. Estimated annual job growth of 2-3% from 2025 to 2029, but competition is fierce, requiring extensive experience and connections.
 
-**竞争度：较高（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 助理技术总监或技术员 |
-| 中级（3-7年） | $75,000~$95,000 | 可独立负责项目 |
-| 高级（7年+） | $100,000~$130,000 | 大型项目或资深技术总监，年薪可达15万纽元 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Assistant technical director or technician |
+| Mid-level (3–7 years) | $75,000~$95,000 | Able to independently manage projects |
+| Senior (7+ years) | $100,000~$130,000 | Large projects or senior technical director, annual salary up to NZD 150,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★☆☆）。** 初级技术员可晋升为部门主管（如灯光总监），再升至技术总监。技术总监可进一步发展为制片经理或项目总监，也可创业成立技术咨询公司。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of arts officers, producers, and directors will undergo profound AI-driven changes: low-level coordination and simple editing are automated, but core skills like creative decision-making, resource integration, and actor direction become more valuable due to AI tools. Entry pathways narrow; existing professionals need to transition into AI curators.
+
+Junior technicians can advance to department head (e.g. lighting director), then to technical director. Technical directors can further develop into production manager or project director, or start a technical consulting company.
+
+**Tasks most exposed to AI:**
+
+- Automated meeting scheduling, budget summarization, and itinerary coordination
+- AI generates rough cut drafts and low-level visual effects
+- Data-based casting suggestions and audience analysis reports
+- Standardized contract review and licence applications
+- Automatic camera switching during live broadcasts
+
+**Where AI augments the role:**
+
+- AI-assisted real-time color correction and scene previsualization
+- Machine learning analyzes audience feedback to optimize narrative pacing
+- Digital actors/scene compositing reduces location shooting costs
+- Smart scheduling tools free up energy for creative focus
+- AI generates storyboard drafts to speed up iteration
+
+**Human moat:**
+
+- Guidance for Emotional Expression and Character Inner Drama
+- Cross-cultural, cross-generational narrative insight
+- Improvised decision-making in on-site crises
+- Negotiation and relationship maintenance with sponsors and investors
+- Definition of original artistic concepts and avant-garde aesthetics
+
+**Skills to build:**
+
+- AI video editing tools (e.g., DaVinci Resolve AI)
+- Big data audience analysis and content recommendation algorithms
+- Virtual production (Unreal Engine, etc.)
+- Fundamentals of digital asset management and NFT minting
+- Cross-media storytelling ability
+- AI ethics and copyright law knowledge
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ The Technical Director (Film/Stage) in New Zealand oversees technical production
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 满足6分制（学历+工作经历/薪资），需认证雇主offer且薪资达中位数（2025年约29.66纽元/小时）。 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 技术总监在绿色清单Tier 2，从事该职业2年后可申请居留，需薪资达中位数1.5倍（约44.49纽元/小时）。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获认证雇主担保，工作3年后可申请居留，需薪资达中位数。 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point system (qualifications + work experience/salary); requires a certified employer offer and salary at the median (approx. NZD 29.66/hour in 2025). |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Technical Director is on Green List Tier 2. After working in this occupation for 2 years, you can apply for residency, requiring salary at 1.5 times the median (approx. NZD 44.49/hour). |
+| Subclass AEWV (Accredited Employer Work Visa) | Must be sponsored by an approved employer; can apply for residency after 3 years, salary must meet median wage. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Director？**
-- 有较强技术背景且热爱影视/舞台的创意人士
-- 具备项目管理能力和抗压能力
-- 愿意接受项目制工作，有时需加班
-
-**谁不适合学Technical Director？**
-- 不适应高压和快节奏工作环境的人
-- 缺乏团队管理或技术协调经验的新手
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative individuals with strong technical background and passion for film/stage
+- Possess project management skills and ability to work under pressure
+- Willing to work on a project basis, with occasional overtime required
+
+**Who is not suited**
+- people who cannot adapt to high-pressure and fast-paced work environments
+- Newcomers lacking team management or technical coordination experience
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Technical Director in New Zealand?**
+A: By experience: junior NZD 55,000-70,000, intermediate NZD 75,000-95,000, senior NZD 100,000-130,000, experienced up to NZD 150,000+.
+
+**Q: Can a Technical Director immigrate to New Zealand through the Green List?**
+A: Yes. This occupation is on the Green List Tier 2 (Work to Residence), requiring 2 years on an AEWV at 1.5 times the median wage.
+
+**Q: How difficult is it for a Technical Director to find a job in New Zealand?**
+A: Competition is moderate, mainly depending on experience and portfolio. Auckland and Wellington have more opportunities; it is recommended to gain local experience through AEWV first.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★☆☆） |
-| 收入水平 | 较高（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较好（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Technical Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Technical Director in New Zealand?**
-答：By experience: entry $55k-$70k, mid $75k-$95k, senior $100k-$130k, experienced up to $150k+.
-
-**问：Can a Technical Director immigrate to NZ via the Green List?**
-答：Yes, it's on Green List Tier 2 (work to residence). You need an AEWV, work for 2 years meeting 1.5x median wage.
-
-**问：How hard is it to find a job as a Technical Director in NZ?**
-答：Moderate competition, depends on experience and portfolio. Auckland and Wellington have more opportunities. Consider an AEWV first.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

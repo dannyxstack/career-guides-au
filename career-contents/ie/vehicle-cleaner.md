@@ -1,58 +1,90 @@
-# Vehicle Cleaner（Vehicle Cleaner）职业分析 · IE
+# Vehicle Cleaner — career analysis · Ireland
 
-**职业代码：9122 – Vehicle Cleaner。**
+**Occupation code: 9122 (ISCO08)**
 
-Vehicle cleaners wash, wax, vacuum, and disinfect the interior and exterior of cars, trucks, and buses. They work at car washes, dealerships, or fleet maintenance facilities.
+Vehicle cleaners are responsible for cleaning and maintaining the interior and exterior of vehicles such as cars, trucks, and buses, including washing, waxing, vacuuming, and sanitizing. They typically work at car wash facilities, car dealerships, or fleet maintenance departments.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正规教育 | 无 | —（通常在岗培训） |
+| No formal education required | None | $0~$0 (Typically on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制性资格要求 | 无 | 可选 | 雇主可能要求驾驶执照和基本车辆知识 |
+| No mandatory qualification requirements | None | Optional | Employers may require a driver's license and basic vehicle knowledge |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 2,500。爱尔兰车辆清洁服务需求稳定，受汽车保有量和租赁市场驱动。但由于自动化洗车技术发展，手动清洁岗位增长缓慢，预计未来5年就业机会有限，竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 2,500. Vehicle cleaning services in Ireland have stable demand, driven by car ownership and the rental market. However, due to automated car wash technology, manual cleaning roles are growing slowly, with limited job opportunities expected over the next 5 years and moderate competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $20,000~$25,000 | 税前年薪 |
-| 中级（2-5年） | $25,000~$30,000 | 税前年薪 |
-| 高级（5年以上） | $30,000~$35,000 | 税前年薪，如主管或专业美容师 |
+| Median salary | $27,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Intermediate (2-5 years) | $25,000~$30,000 | Annual pre-tax salary |
+| Senior (5+ years) | $30,000~$35,000 | Annual salary before tax, e.g., for supervisor or professional beautician |
+| average salary | $27,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级车辆清洁工可晋升为团队主管或洗车店经理，或转向更专业的车辆美容岗位（如漆面修复、内饰深度清洁）。积累经验后也可自主创业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Vehicle cleaners face high automation risk, as repetitive tasks like cleaning and vacuuming are easily replaced by robotics and AI scheduling systems.
+
+Entry-level vehicle cleaners can advance to team supervisor or car wash manager, or move into specialized vehicle detailing roles (e.g., paint restoration, deep interior cleaning). With experience, they can also start their own business.
+
+**Tasks most exposed to AI:**
+
+- Automatic external vehicle cleaning (machine car wash)
+- In-car Vacuuming and Drying (Robotic)
+- Tire and wheel cleaning (automated equipment)
+- Window and mirror cleaning (robotic arm)
+
+**Where AI augments the role:**
+
+- AI scheduling system optimizes cleaning processes and fleet management
+- Uses AI to detect vehicle damage and cleaning quality
+- Training new employees through AI (virtual reality simulations)
+- Use data analytics to optimize usage of cleaning chemicals.
+
+**Human moat:**
+
+- Fine interior cleaning (e.g., leather care, odor removal)
+- Customer communication and complaint handling
+- Treating special stains and damage repair
+- Cross-departmental coordination (e.g., fleet maintenance)
+
+**Skills to build:**
+
+- Operate and maintain automated cleaning equipment
+- Basic vehicle mechanical maintenance knowledge
+- Digital tools (inventory management, scheduling software)
+- Customer service and communication skills
+- Quality inspection and report writing
+
+**Key growth areas:**
 
 - Stable demand
 - Car wash automation
@@ -61,61 +93,63 @@ Vehicle cleaners wash, wax, vacuum, and disinfect the interior and exterior of c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于75,000欧元的非紧缺职业，需雇主担保。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand jobs with annual salary below €75,000, requiring employer sponsorship. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Vehicle Cleaner？**
-- 勤劳细心，喜欢动手工作的人
-- 对汽车有基本兴趣，愿意从事体力劳动
-- 希望在短期内入门就业的人
+**Who is suited**
+- Diligent, attentive, and enjoy hands-on work
+- Basic interest in cars, willing to do physical work
+- People looking for quick entry into employment
 
-**谁不适合学Vehicle Cleaner？**
-- 希望高薪或快速晋升的人
-- 对清洁化学品或户外工作环境敏感的人
+**Who is not suited**
+- Those aiming for high salary or fast promotion
+- People sensitive to cleaning chemicals or outdoor work environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a vehicle cleaner in Ireland?**
+A: Entry-level about 20,000-25,000 euros, mid-to-senior level up to 30,000-35,000 euros, depending on experience and work location.
+
+**Q: Can vehicle cleaners immigrate to Ireland through a work visa?**
+A: This occupation is not on the shortage list; generally only eligible for a General Employment Permit, requiring employer sponsorship and meeting salary thresholds, making immigration relatively difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Vehicle Cleaner属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for vehicle cleaners in Ireland?**
-答：Entry-level around €20,000-€25,000, senior up to €30,000-€35,000, depending on experience and location.
-
-**问：Can vehicle cleaners immigrate to Ireland via work visa?**
-答：This occupation is not on the Critical Skills list; only General Employment Permit applies, requiring employer sponsorship and salary threshold, making migration difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

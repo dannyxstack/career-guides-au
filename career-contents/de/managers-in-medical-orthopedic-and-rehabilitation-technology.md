@@ -1,61 +1,97 @@
-# Managers in Medical, Orthopedic and Rehabilitation Technology（Managers in Medical, Orthopedic and Rehabilitation Technology）职业分析 · DE
+# Managers in Medical, Orthopedic and Rehabilitation Technology — career analysis · Germany
 
-**职业代码：8259 – Managers in Medical, Orthopedic and Rehabilitation Technology。**
+**Occupation code: 8259 (KldB)**
 
-Oversee the production, quality control, and team management of medical devices, orthopedic and rehabilitation technology, ensuring compliance with regulatory standards.
+Responsible for overseeing the production, quality control, and team management of medical devices, orthopedic and rehabilitation technologies, ensuring products meet regulatory standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3-4年（大学） | —（公立大学基本免学费，仅收学期费） |
-| 双元制培训 | 3年（双元制） | —（培训期间有薪水） |
+| Bachelor's degree | 3-4 years (university) | $0~$15,000 (Public universities are basically tuition-free, only a semester fee is charged.) |
+| Dual system training | 3 years (dual system) | $0~$0 (Paid during training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程或相关领域学士学位 | 大学 | 必备 | 通常要求机械工程、医疗技术等专业 |
-| 资质认证（Anerkennung） | 相关行业协会 | 必备 | 海外学历需认证 |
-| 管理经验 | 雇主 | 可选 | 通常需要多年技术或管理经验 |
+| Bachelor's degree in engineering or related field | University | Required | Usually requires majors such as mechanical engineering, medical technology, etc. |
+| Qualification recognition (Anerkennung) | Relevant industry associations. | Required | Overseas degrees need credential evaluation. |
+| Management experience | Employer | Optional | Usually requires several years of technical or management experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 12,000。德国人口老龄化推动康复技术需求增长，该领域管理岗位持续扩大，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Germany's ageing population drives growth in rehabilitation technology demand; management roles in this field continue to expand with stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 税前年薪 |
-| 中级（4-7年） | $60,000~$75,000 | 税前年薪 |
-| 高级（8年以上） | $80,000~$100,000 | 税前年薪 |
+| Median salary | $44,400 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $60,000~$75,000 | Annual pre-tax salary |
+| Senior (8+ years) | $80,000~$100,000 | Annual pre-tax salary |
+| average salary | $49,008 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从技术专家晋升至部门主管或生产经理，或转向研发管理、质量管理等高级职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI automates some standardized tasks, but core responsibilities like management decisions, quality control, and regulatory compliance are hard to replace; overall impact is mixed.
+
+Can progress from technical expert to department head or production manager, or move to senior roles such as R&D management or quality management.
+
+**Tasks most exposed to AI:**
+
+- Routine equipment inspection and data recording
+- Automated generation and analysis of production reports
+- Some quality control inspections (e.g., dimensional measurement)
+- Generate standardized rehabilitation plan templates
+- Automatic verification of material lists
+
+**Where AI augments the role:**
+
+- Use AI to analyze production data and optimize processes
+- AI-assisted design of orthotic devices (parametric modeling)
+- Smart monitoring devices alert for maintenance needs
+- Virtual simulation to verify feasibility of new solutions
+- Automated Document Management and Regulatory Update Tracking
+
+**Human moat:**
+
+- Team management and cross-departmental coordination
+- Non-standard custom solution decision-making
+- Root cause determination and correction of quality incidents
+- Ultimate responsibility for regulatory compliance
+- Strategic assessment of new technology introduction
+
+**Skills to build:**
+
+- AI data analysis and visualization tools (e.g., Power BI integrated with AI)
+- Digital quality management methods (SPC+AI)
+- Additive manufacturing (3D printing) orthotic technology
+- Product Lifecycle Management (PLM) software
+- Digital transformation leadership for technical teams
+- Regulatory intelligence retrieval and compliance management platform
+
+**Key growth areas:**
 
 - Healthcare Technology
 - Rehabilitation Tech
@@ -64,69 +100,68 @@ Oversee the production, quality control, and team management of medical devices,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适合年薪至少43,800欧元（2024年标准）的技术移民 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有资质认证的专业人才，需雇主担保 |
-| Subclass Chancenkarte（Chancenkarte (Opportunity Card)） | 机会卡允许求职者入境寻找工作，适合资质优秀的申请人 |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for skilled migrants with an annual salary of at least €43,800 (2024 standard). |
+| Subclass Skilled Worker (Skilled Worker Visa) | Suitable for qualified professionals requiring employer sponsorship |
+| Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | The Opportunity Card allows job seekers to enter the country to find work, suitable for highly qualified applicants |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers in Medical, Orthopedic and Rehabilitation Technology？**
-- 具备工程或医疗技术背景的人士
-- 有管理经验的技术专家
-- 希望在医疗科技行业发展的人
-
-**谁不适合学Managers in Medical, Orthopedic and Rehabilitation Technology？**
-- 缺乏技术背景的管理人员
-- 不喜欢严格法规和程序的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with engineering or medical technology background
+- Technical expert with management experience.
+- People who wish to develop in the medical technology industry
+
+**Who is not suited**
+- Managers lacking technical background
+- People who dislike strict regulations and procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of this occupation?**
+A: Junior: approx. EUR 45,000-55,000, Mid-level: 60,000-75,000, Senior: 80,000-100,000.
+
+**Q: How to get overseas qualifications recognized in Germany?**
+A: Requires qualification recognition (Anerkennung) via German bodies such as IHK, may need supplementary credits or exams.
+
+**Q: What are the career advancement paths?**
+A: Can advance from technical roles to team leader, production manager, or R&D management positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Managers in Medical, Orthopedic and Rehabilitation Technology为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry level around 45,000-55,000 EUR, mid-level 60,000-75,000 EUR, senior 80,000-100,000 EUR.
-
-**问：How are foreign qualifications recognized in Germany?**
-答：Recognition (Anerkennung) through relevant bodies such as IHK may require additional credits or exams.
-
-**问：What are the career progression opportunities?**
-答：Progression from technical role to team lead, production manager, or R&D management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

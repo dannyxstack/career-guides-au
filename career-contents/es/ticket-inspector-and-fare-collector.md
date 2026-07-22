@@ -1,58 +1,94 @@
-# Ticket Inspector and Fare Collector（Ticket Inspector and Fare Collector）职业分析 · ES
+# Ticket Inspector and Fare Collector — career analysis · Spain
 
-**职业代码：5822 – Ticket Inspector and Fare Collector。**
+**Occupation code: 5822 (CNO)**
 
-Inspects tickets and collects fares on buses, trains, and metros, ensuring fare compliance and assisting passengers.
+Inspect passenger tickets, collect fees on land transportation such as buses, trains, and subways, and ensure ticketing compliance.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育后培训 | 短期培训（3-6个月） | $500~$1,500（由运输公司或职业培训机构提供） |
+| Post-compulsory education training | Short-term training (3-6 months) | $500~$1,500 (Provided by transport companies or vocational training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 西班牙教育部 | 必备 | 基本要求 |
+| High school diploma or equivalent | Spanish Ministry of Education | Required | Basic requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 18,500。西班牙公共交通系统稳定，该岗位需求平稳，但受自动化售票影响，就业增长有限。城市化持续支撑基本岗位数量。
+**Job demand: medium (★★½☆☆).** National workforce approx. 18,500. Spain's public transportation system is stable, and demand for this position is steady, but employment growth is limited due to the impact of automated ticketing. Urbanization continues to support the number of basic positions.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$26,000 | 税前年薪 |
-| 高级（7年以上） | $26,000~$30,000 | 税前年薪 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Senior (7+ years) | $26,000~$30,000 | Annual pre-tax salary |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 初级检票员可通过经验晋升为团队主管或运营协调员。部分转向客户服务或安全管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks in this profession (paper invoice inspection, cash collection) are easily replaced by automation, significantly reducing job openings, with only a small number retained in regulatory and emergency scenarios in the future.
+
+Junior ticket inspectors can be promoted through experience to team leader or operations coordinator. Some have shifted to customer service or security management roles.
+
+**Tasks most exposed to AI:**
+
+- Inspect paper tickets and verify their validity
+- Collect cash fare and give change
+- Record manual ticketing data and generate reports
+- Manually open/close gates to guide passenger flow
+- Handling simple ticketing disputes (such as boarding without a ticket)
+
+**Where AI augments the role:**
+
+- Use mobile devices to assist in checking e-tickets and QR codes
+- Monitor and respond promptly through data analysis to monitor abnormal passenger flow
+- Use walkie-talkies or terminals to communicate in real time with the dispatch center
+- Maintain automated equipment such as self-service ticket vending machines and turnstiles
+- Train passengers to use the digital ticketing system
+
+**Human moat:**
+
+- Handling complex ticketing disputes (such as misappropriation and fraud identification)
+- Respond to sudden security incidents and emergency evacuations
+- Providing Humane Services (Assisting Senior/Disabled Passengers)
+- Cross-departmental coordination and on-site management
+- Flexible decision-making in non-standardized scenarios
+
+**Skills to build:**
+
+- Learn basic digital equipment operation and maintenance
+- Improve customer service and communication skills
+- Master basic data analysis tools
+- Familiar with ticketing system software and security management
+- Emergency response and conflict resolution capabilities
+- Basic English (for foreign passenger services)
+
+**Key growth areas:**
 
 - Stable demand
 - Urban transport focus
@@ -61,61 +97,63 @@ Inspects tickets and collects fares on buses, trains, and metros, ensuring fare 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employees） | 需雇主提供工作合同，但该岗位非高技能，通常不受移民政策倾斜。 |
+| Subclass Cuenta ajena (Work permit for employees) | An employer must provide a work contract, but the position is not highly skilled and is generally not subject to immigration policy preferences. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Ticket Inspector and Fare Collector？**
-- 喜欢与人打交道
-- 适应轮班工作
-- 寻求稳定基层岗位
+**Who is suited**
+- enjoys interacting with people
+- Adapt to shift work
+- Seeking stable grassroots positions
 
-**谁不适合学Ticket Inspector and Fare Collector？**
-- 期望高薪或晋升快
-- 厌恶重复性工作
+**Who is not suited**
+- Expect high salary or quick promotion
+- Dislikes repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for ticket inspectors?**
+A: Entry-level position annual salary approx. EUR 18,000-22,000, senior up to EUR 26,000-30,000.
+
+**Q: Do foreigners have the opportunity to work in this profession?**
+A: Opportunities are limited, positions require familiarity with the local language and culture, and are not highly skilled, making it difficult to apply for work visas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ticket Inspector and Fare Collector属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for ticket inspectors?**
-答：Entry-level annual salary is around €18,000-€22,000, senior up to €26,000-€30,000.
-
-**问：Can foreigners work in this occupation?**
-答：Limited opportunities; requires local language and cultural knowledge, and is not considered high-skilled for visa purposes.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

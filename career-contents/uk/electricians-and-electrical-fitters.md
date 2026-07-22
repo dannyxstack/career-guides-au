@@ -1,60 +1,96 @@
-# Electricians and electrical fitters（Electricians and electrical fitters）职业分析 · UK
+# Electricians and electrical fitters — career analysis · United Kingdom
 
-**职业代码：5241 – Electricians and electrical fitters。**
+**Occupation code: 5241 (SOC)**
 
-Electricians and electrical fitters assemble parts in the manufacture of electrical and electronic equipment, and install, maintain, and repair electrical plant, machinery, appliances and wiring, playing a vital role in construction and industry.
+Electricians and electrical assemblers are responsible for component assembly in electrical equipment manufacturing, as well as installation, maintenance, and repair of electrical installations, machinery, and appliances; they are essential skilled trades in construction and industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 3-4年 | —（学徒期间有工资，政府资助培训） |
-| 职业教育课程 | 1-2年 | $3,000~$5,000（如BTEC或City & Guilds证书，费用因院校而异） |
+| Apprenticeship | 3-4 years | $0~$0 (Paid during apprenticeship, government-funded training) |
+| Vocational education courses | 1-2 years | $3,000~$5,000 (e.g. BTEC or City & Guilds certificate, fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气安装三级证书（City & Guilds 2365） | City & Guilds | 必备 | 入门级资格，涵盖基础电气理论与实操 |
-| NVQ三级电气安装/维护 | EAL或City & Guilds | 必备 | 工作场所评估，证明实际能力 |
-| BS 7671接线规定（第18版） | IET | 必备 | 需更新知识，确保符合最新安全标准 |
-| 电气工卡（ECS卡） | JIB | 必备 | 证明持证人具备资质和安全意识 |
+| Level 3 Certificate in Electrical Installation (City & Guilds 2365) | City & Guilds | Required | Entry-level qualification covering basic electrical theory and practice |
+| NVQ Level 3 Electrical Installation/Maintenance | EAL or City & Guilds | Required | Workplace assessment to demonstrate practical skills |
+| BS 7671 Wiring Regulations (18th Edition) | IET | Required | Need to update knowledge to ensure compliance with latest safety standards |
+| ECS Card | JIB | Required | Certifies that the holder has qualifications and safety awareness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 265,000。英国电工职业需求持续增长，受绿色能源转型、智能家居普及及基础设施更新推动，预计未来十年岗位增长约8%，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 265,000. Demand for electricians in the UK continues to grow, driven by green energy transition, smart home adoption, and infrastructure upgrades, with an estimated 8% job growth over the next decade, offering good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 学徒期或刚取得资格 |
-| 中级（3-7年） | $30,000~$38,000 | 经验丰富，可独立工作 |
-| 高级（7年以上） | $40,000~$50,000 | 主管、自雇或特殊工种 |
+| Median salary | $39,647 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Apprenticeship or newly qualified |
+| Mid-level (3–7 years) | $30,000~$38,000 | Experienced and able to work independently |
+| Senior (7+ years) | $40,000~$50,000 | Supervisor, self-employed, or special occupation |
+| average salary | $41,190 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径清晰：从学徒或初级电工起步，积累经验后可晋升为高级电工、主管或项目经理，也可考取更高等级资质成为电气工程师或自雇。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The career prospects of electricians and electrical assemblers are amplified by AI, as AI tools significantly enhance efficiency in design diagnosis, solution optimization, and documentation generation, while physical operations and on-site safety responsibilities form a strong moat, making it a technical role with growing demand in the AI era.
+
+Career path is clear: starting as an apprentice or junior electrician, gaining experience to advance to senior electrician, supervisor, or project manager, or obtaining higher-level qualifications to become an electrical engineer or self-employed.
+
+**Tasks most exposed to AI:**
+
+- Using AI systems for preliminary electrical system design sketches and wiring plan generation.
+- AI-driven automatic test equipment performs routine electrical safety checks and fault diagnosis
+- Smart document generation tools automatically write maintenance reports and compliance documents
+- AI-assisted inventory management system tracks and automatically orders common electrical components
+- Virtual assistant handles initial customer inquiries and simple technical issues
+
+**Where AI augments the role:**
+
+- AI-enhanced augmented reality (AR) glasses overlay circuit diagrams on complex wiring, improving installation efficiency and accuracy
+- AI predictive maintenance analysis uses sensor data to provide early warnings of electrical equipment failures, optimizing maintenance schedules
+- AI-assisted 3D modeling software for electrical system layout simulation and conflict detection.
+- Conversational AI tools help quickly retrieve technical specifications and safety standards
+- Smart wearable devices monitor electricians' physiological status and environmental risks, improving on-site safety
+
+**Human moat:**
+
+- Flexible judgment in complex on-site environments and ability to solve sudden electrical issues manually
+- Requires manual dexterity and fine manipulation for wiring work in high or confined spaces
+- Certification for assuming legal responsibilities and making on-site safety decisions
+- Interpersonal skills for collaborating with clients, architects, and contractors
+- Experiential repair knowledge for legacy systems and non-standard equipment
+
+**Skills to build:**
+
+- Proficient in AI-assisted design software (e.g., AutoCAD Electrical plugin)
+- Learn integration and commissioning of smart building systems (e.g., KNX, BACnet)
+- Proficiency in operating IoT sensors and predictive maintenance platforms
+- Application of Augmented Reality (AR) tools in electrical installation and maintenance
+- Basic data analysis skills to interpret AI-generated diagnostic reports
+- Continuously update knowledge of electrical safety regulations and green energy technologies
+
+**Key growth areas:**
 
 - Green energy
 - Smart homes
@@ -63,69 +99,68 @@ Electricians and electrical fitters assemble parts in the manufacture of electri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 英国紧缺职业，满足薪资要求（通常£26,200/年）即可申请，担保企业需持有雇主资质。 |
-| Subclass Health & Care（Health and Care Worker Visa） | 不适用于电工，该签证仅限医疗和护理职业。 |
-| Subclass Graduate（Graduate Visa） | 在英国完成学位的国际学生可申请，毕业后可在英国工作2-3年，但电工通常非学位职业。 |
-| Subclass Scale-up（Scale-up Visa） | 适用于快速发展企业雇佣的高技能人才，电工可能符合条件，但需雇主符合资格。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | UK shortage occupation; meets salary requirements (usually £26,200/year) to apply. Sponsoring employers must hold a sponsor license. |
+| Subclass Health & Care (Health and Care Worker Visa) | Not applicable to electricians; this visa is only for medical and nursing professions. |
+| Subclass Graduate (Graduate Visa) | International students completing a degree in the UK can apply to work in the UK for 2-3 years after graduation, but electrician roles are typically non-degree occupations |
+| Subclass Scale-up (Scale-up Visa) | For high-skilled talent employed by rapidly growing enterprises; electricians may qualify if the employer meets requirements. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electricians and electrical fitters？**
-- 喜欢动手操作，对电气系统有好奇心
-- 愿意接受持续培训和考取证书
-- 适应户外、高架及狭小空间工作
-
-**谁不适合学Electricians and electrical fitters？**
-- 不擅长团队协作和客户沟通
-- 对安全规范要求缺乏耐心
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on work, curious about electrical systems
+- Willing to accept ongoing training and obtaining certificates
+- Suitable for outdoor, elevated, and confined space work
+
+**Who is not suited**
+- Not good at teamwork and client communication.
+- Lack of patience with safety regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an electrician in the UK?**
+A: According to ASHE data, the median annual salary for full-time electricians is approximately £35,000, with experienced ones reaching over £50,000; self-employed electricians may earn more.
+
+**Q: How can overseas electricians work in the UK through skilled migration?**
+A: Electricians are on the shortage occupation list and can apply via the Skilled Worker visa, requiring a sponsoring employer, meeting English B1 and salary threshold (typically £26,200). Holding UK-recognized qualifications such as City & Guilds certificates helps the application.
+
+**Q: What are the career progression paths for electricians?**
+A: Common pathway: apprentice → qualified electrician → senior electrician → supervisor/project manager; or specialize in a specific area (e.g., renewable energy, smart home) to become an expert; also possible to obtain an electrical engineering degree and transition to engineer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electricians and electrical fitters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electricians in the UK?**
-答：According to ASHE data, the median annual salary for full-time electricians is around £35,000, with experienced workers earning over £50,000; self-employed electricians may earn more.
-
-**问：How can overseas electricians work in the UK via skilled migration?**
-答：Electricians are on the shortage occupation list; you can apply for a Skilled Worker visa with a sponsoring employer, meeting English B1 and salary threshold (usually £26,200). Holding UK-recognized qualifications such as City & Guilds helps.
-
-**问：What career progression paths are available for electricians?**
-答：Common paths: apprentice → qualified electrician → senior electrician → supervisor/project manager; or specialize in areas like renewable energy or smart homes; or pursue an electrical engineering degree to become an engineer.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,94 @@
-# Textile Cutting Machine Setters, Operators, and Tenders（Textile Cutting Machine Setters, Operators, and Tenders）职业分析 · 美国
+# Textile Cutting Machine Setters, Operators, and Tenders — career analysis · United States
 
-**职业代码：51-6062 – Textile Cutting Machine Setters, Operators, and Tenders。**
+**Occupation code: 51-6062 (SOC)**
 
-Set up, operate, or tend machines that cut textiles according to specifications.
+Set up, operate, or monitor textile cutting machines to cut fabric and other materials according to process requirements.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无 | —（通常仅需高中文凭） |
-| 在职培训 | 1-3个月 | —（短期在职培训） |
+| High school diploma or equivalent | None | $0~$0 (Usually only requires a high school diploma) |
+| On-the-job training | 1-3 months. | $0~$500 (Short-term on-the-job training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭 | 高中 | 必备 | 多数雇主要求 |
-| 在职培训 | 雇主 | 必备 | 操作技能培训 |
+| High school diploma | High school | Required | Most employers require |
+| On-the-job training | Employer | Required | Hands-on skills training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 6,500。美国纺织制造业持续萎缩，该职业就业预计下降，但自动化维修和定制切割仍有少量需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 6,500. U.S. textile manufacturing continues to shrink, employment in this occupation is expected to decline, but automated maintenance and custom cutting still have some demand.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 入门级薪资 |
-| 中级（3-7年） | $30,000~$36,000 | 有经验操作员 |
-| 高级（7年以上） | $36,000~$42,000 | 资深或主管级 |
+| Median salary | $38,760 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$30,000 | Entry-level salary |
+| Mid-level (3–7 years) | $30,000~$36,000 | Experienced operator |
+| Senior (7+ years) | $36,000~$42,000 | Senior or supervisor level |
+| average salary | $39,530 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从操作员晋升至高级操作员或主管，部分转向设备维护或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile cutting machine setters, operators, and tenders face high automation risk; AI and robots will take over most cutting tasks, significantly reducing job demand.
+
+Can advance from operator to senior operator or supervisor, or move into equipment maintenance or quality control roles.
+
+**Tasks most exposed to AI:**
+
+- Automated cutting system cuts fabric directly from digital patterns without manual operation of cutting machines.
+- AI vision system automatically detects fabric defects and adjusts cutting paths
+- Robot automatically loads, unloads, and classifies cut parts.
+- Computer-aided manufacturing (CAM) systems automatically generate optimal nesting plans.
+- AI monitors cut quality in real time and automatically calibrates equipment parameters.
+
+**Where AI augments the role:**
+
+- Using AI fabric cutting software to optimize fabric utilization and reduce waste
+- Using digital twin technology to remotely monitor the operation status of multiple cutting machines
+- Use augmented reality (AR) glasses to assist with equipment maintenance and fault diagnosis
+- Predict equipment maintenance needs based on big data analysis to reduce downtime
+
+**Human moat:**
+
+- Handling cutting decisions for irregular shapes or high-value fabrics
+- Quickly respond to sudden equipment failures and perform manual repairs
+- Communicate with designers on customized cutting requirements, adjust process parameters
+- Supervise automated system operations, handle edge cases like elastic fabrics
+
+**Skills to build:**
+
+- Operate and maintain CNC cutting equipment
+- Using CAD/CAM software for layout design
+- Basic programming and PLC debugging
+- Data analysis and intelligent production scheduling system operation
+- Mechanical and electrical repair skills
+- Quality management and fabric property knowledge
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,65 +97,67 @@ Set up, operate, or tend machines that cut textiles according to specifications.
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因为该职业不满足专业职位要求 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极少雇主支持，需证明劳工短缺 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation does not meet professional role requirements |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Very few employers sponsor; must prove labor shortage |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Cutting Machine Setters, Operators, and Tenders？**
-- 能接受重复性体力劳动
-- 不介意低薪和制造业衰退环境
-- 愿意接受短期培训即可上手
+**Who is suited**
+- Able to accept repetitive physical labor
+- Don't mind low pay and the declining manufacturing industry.
+- Willing to take short-term training to get started
 
-**谁不适合学Textile Cutting Machine Setters, Operators, and Tenders？**
-- 追求高收入和职业发展
-- 希望技术移民美国
+**Who is not suited**
+- Pursuing high income and career development
+- Wish to immigrate to the US through skilled migration
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a textile cutting machine operator in the United States?**
+A: According to the BLS, the median annual salary in 2023 was about $30,000, entry-level about $25,000, and senior no more than $42,000.
+
+**Q: Can this occupation apply for a US work visa or green card?**
+A: Almost impossible. This occupation does not meet H-1B specialty occupation requirements, and PERM labor certification is extremely difficult to obtain; immigration pathway is unrealistic.
+
+**Q: What is the future outlook for this occupation?**
+A: Outlook bleak. US textile industry continues to move overseas and automation replaces jobs, leaving only a few custom and repair positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Textile Cutting Machine Setters, Operators, and Tenders属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Textile Cutting Machine Setters in the US?**
-答：According to BLS, median annual wage is about $30,000 in 2023, entry-level around $25,000, senior up to $42,000.
-
-**问：Can this occupation obtain a US work visa or green card?**
-答：Highly unlikely. It does not qualify as H-1B specialty occupation, and PERM certification is almost impossible; no viable immigration path.
-
-**问：What is the future outlook for this occupation?**
-答：Poor. Employment is projected to decline due to offshoring and automation, with only niche custom cutting and maintenance positions remaining.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

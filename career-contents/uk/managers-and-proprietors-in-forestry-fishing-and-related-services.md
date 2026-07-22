@@ -1,59 +1,94 @@
-# Managers and proprietors in forestry, fishing and related services（Managers and proprietors in forestry, fishing and related services）职业分析 · UK
+# Managers and proprietors in forestry, fishing and related services — career analysis · United Kingdom
 
-**职业代码：1212 – Managers and proprietors in forestry, fishing and related services。**
+**Occupation code: 1212 (SOC)**
 
-Plan, organise and co-ordinate the activities and resources of forestry, fishing, animal husbandry and related operations and establishments.
+Plans, organizes, and coordinates resources and activities in forestry, fisheries, animal husbandry, and related businesses to ensure efficient and sustainable operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（林业、渔业或农业相关） | 3年 | $30,000~$60,000（国际生学费约15,000-20,000英镑/年） |
-| 硕士（可持续管理或环境管理） | 1年 | $20,000~$35,000（硕士可增强竞争力） |
+| Bachelor's degree (forestry, fisheries, or agriculture related) | 3 years | $30,000~$60,000 (International student tuition approx. £15,000-20,000/year) |
+| Master's (Sustainable Management or Environmental Management) | 1 year | $20,000~$35,000 (A master's degree can enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业或渔业相关学位 | 英国大学 | 可选 | 推荐但非强制 |
-| 英国林业委员会或相关认证 | Forestry Commission / Lantra | 可选 | 特定岗位要求 |
-| 驾驶执照（B类及以上） | DVLA | 必备 | 实地工作常用 |
+| Driver's license (Class B and above) | DVLA | Required | Commonly used for fieldwork |
+| Degree in Forestry or Fisheries | UK universities | Optional | Recommended but not mandatory |
+| UK Forestry Commission or relevant certification | Forestry Commission / Lantra | Optional | Specific job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。英国脱欧后本土林业和渔业管理岗位需求稳定，受可持续政策和环境议程推动，就业机会保持平稳。
+**Job demand: medium (★★★☆☆).** National workforce approx. 15,000. Post-Brexit, domestic forestry and fishery management job demand remains stable, driven by sustainability policies and environmental agendas, keeping employment opportunities steady.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 助理经理或小型业务主管 |
-| 中级（3-7年） | $35,000~$50,000 | 经验丰富的经理 |
-| 高级（7年以上） | $50,000~$70,000 | 区域总监或大型企业所有者 |
+| Median salary | $33,011 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$35,000 | Assistant Manager or Small Business Supervisor |
+| Mid-level (3–7 years) | $35,000~$50,000 | Experienced manager |
+| Senior (7+ years) | $50,000~$70,000 | Regional director or large business owner |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从基层主管升至区域经理或自主经营林地/渔场；更高级别负责战略规划与政策合规。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The roles of forestry, fisheries, and related services managers and owners will be significantly reshaped by AI: routine data management, compliance reporting etc. are easily automated, but on-site decision-making, ecological assessment etc. that rely on direct experience and judgment still have a moat.
+
+Can progress from supervisor to regional manager or independently operate forest/fishery; higher levels handle strategic planning and policy compliance.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate compliance reports and production forecasts
+- Automated Inventory Management and Material Procurement Orders
+- Monitor forest/fishery resource status via AI image recognition
+- Automatically record and maintain farming/growing logs
+- AI-assisted traffic scheduling and supply chain optimization
+
+**Where AI augments the role:**
+
+- Use AI remote sensing data to analyze forest health and growth patterns
+- Optimise harvesting/culling timing and quotas using predictive models
+- AI-assisted wildlife population tracking and ecological impact assessment
+- Automated monitoring and early warning of pests, diseases, or illegal activities
+- Use IoT devices to monitor environmental parameters (water temperature, soil moisture, etc.) in real time for fine-tuned control
+
+**Human moat:**
+
+- Complex ecological decisions based on field surveys and experience.
+- Negotiation and consultation with stakeholders (government, community, environmental organizations).
+- Emergency management for sudden extreme weather or pests/diseases
+- Long-term sustainable strategy formulation, balancing economic, ecological, and social needs.
+- Leadership and team management, motivating frontline workers
+
+**Skills to build:**
+
+- Remote sensing data analysis and GIS skills
+- Data modeling and automation using Python or R
+- AI/Machine learning basics, especially image recognition and time series forecasting
+- Drone operation and data analysis
+- Environmental monitoring sensor technology and IoT applications
+- Data-driven decision-making and business analytics
+
+**Key growth areas:**
 
 - Sustainable forestry
 - Aquaculture expansion
@@ -62,68 +97,67 @@ Plan, organise and co-ordinate the activities and resources of forestry, fishing
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于有雇主担保的管理岗位，需满足最低薪资要求（一般26,200英镑/年） |
-| Subclass Graduate（Graduate visa） | 毕业生在英国工作2-3年积累经验 |
-| Subclass Global Talent（Global Talent visa） | 适用于在可持续林业或渔业领域有杰出成就者 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable for management roles with employer sponsorship, meeting minimum salary requirements (generally £26,200 per year) |
+| Subclass Graduate (Graduate visa) | Graduates work in the UK for 2-3 years to gain experience. |
+| Subclass Global Talent (Global Talent visa) | For those with outstanding achievements in sustainable forestry or fisheries |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers and proprietors in forestry, fishing and related services？**
-- 热爱户外工作，对林业或渔业有浓厚兴趣
-- 具备管理和商业运营能力
-- 愿意在偏远或农村地区工作
-
-**谁不适合学Managers and proprietors in forestry, fishing and related services？**
-- 偏好城市办公环境者
-- 对体力活动或季节性工作不耐受者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passion for outdoor work, strong interest in forestry or fisheries
+- Possess management and business operations skills
+- Willingness to work in remote or rural areas
+
+**Who is not suited**
+- Those who prefer urban office environments
+- Those intolerant of physical activity or seasonal work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a forestry manager?**
+A: Entry-level approx. GBP 25,000-35,000, mid-level GBP 35,000-50,000, senior up to GBP 70,000.
+
+**Q: Can international applicants apply for a UK forestry manager work visa?**
+A: Yes, this position is on the Skilled Worker visa list; requires employer sponsorship and meeting salary requirements.
+
+**Q: What are the employment prospects for forestry managers in the UK?**
+A: Demand is stable, driven by environmental policies and sustainable management, but the number of positions is limited, with moderate competition.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Managers and proprietors in forestry, fishing and related services的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a forestry manager?**
-答：Entry-level: £25,000-£35,000; mid-level: £35,000-£50,000; senior: up to £70,000.
-
-**问：Can international applicants apply for a UK forestry manager work visa?**
-答：Yes, the occupation is eligible for Skilled Worker visa with employer sponsorship and minimum salary threshold.
-
-**问：What is the job outlook for forestry managers in the UK?**
-答：Stable demand driven by environmental policies and sustainability, though limited positions create moderate competition.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

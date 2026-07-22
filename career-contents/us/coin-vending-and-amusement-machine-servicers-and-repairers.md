@@ -1,60 +1,94 @@
-# Coin, Vending, and Amusement Machine Servicers and Repairers（Coin, Vending, and Amusement Machine Servicers and Repairers）职业分析 · 美国
+# Coin, Vending, and Amusement Machine Servicers and Repairers — career analysis · United States
 
-**职业代码：49-9091 – Coin, Vending, and Amusement Machine Servicers and Repairers。**
+**Occupation code: 49-9091 (SOC)**
 
-Install, service, adjust, or repair coin, vending, or amusement machines including video games, juke boxes, pinball machines, or slot machines.
+Responsible for installing, maintaining, and repairing coin-operated, vending, gaming, and similar equipment, including video games, jukeboxes, pinball machines, and slot machines.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（部分雇主提供在职培训） |
-| 技术证书（电子或机械相关） | 1年 | $5,000~$15,000（社区学院或技术学校） |
+| High school diploma or equivalent | 0 years | $0~$0 (Some employers offer on-the-job training) |
+| Technical certificate (electronics or mechanical related). | 1 year | $5,000~$15,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电子设备维修认证 | 北美电子维修协会 | 可选 | 非强制，但有助于就业 |
-| 制造商特定认证 | 设备制造商 | 可选 | 如游戏机品牌认证 |
+| Electronics equipment repair certification | North American electronics repair association | Optional | Not mandatory, but helpful for employment |
+| Manufacturer-specific certification | Equipment manufacturers | Optional | Such as console brand certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 15,000。美国劳工统计局预测2023-2033年该职业就业增长约3%，低于平均水平。随着自动化支付普及，自动售货机需求稳定，但传统游戏机维修需求可能下降。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 15,000. US Bureau of Labor Statistics projects employment growth of about 3% from 2023-2033, below average. With the spread of automated payment, vending machine demand is stable, but repair demand for traditional gaming machines may decline.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级维修员 |
-| 中级（4-7年） | $35,000~$45,000 | 经验丰富的维修员 |
-| 高级（8年以上） | $45,000~$55,000 | 高级技师或主管 |
+| Median salary | $47,450 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level repair technician |
+| Mid-level (4-7 years) | $35,000~$45,000 | Experienced maintenance technician |
+| Senior (8+ years) | $45,000~$55,000 | Senior technician or supervisor |
+| average salary | $49,770 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 通常从初级维修员起步，积累经验后可晋升为高级技师或区域主管。部分人员可转向自动化设备管理或创业开设维修公司。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Digitization and remote monitoring of vending machines will greatly reduce on-site maintenance needs; entry-level positions are squeezed, but complex fault handling still required.
+
+Usually start as a junior maintenance technician, gain experience to advance to senior technician or regional supervisor. Some may move into automated equipment management or start their own repair company.
+
+**Tasks most exposed to AI:**
+
+- Use cash detection tools to troubleshoot coin jam issues in coin acceptors
+- On-site reading error codes and consulting manuals to diagnose faults
+- Regularly manually emptying cash boxes and counting revenue
+
+**Where AI augments the role:**
+
+- Use AI diagnostic tools to quickly locate electronic board failures.
+- Use IoT platforms to remotely monitor equipment operation status and provide early warnings
+- Get step-by-step repair guidance through AR glasses
+- Optimize spare parts inventory and maintenance routes using data analysis.
+- Manage scheduling and maintenance of automatic restocking robots
+
+**Human moat:**
+
+- Physical repair capabilities involving mechanical wear and component aging
+- Experience-based judgment for handling non-standard custom models
+- Interpersonal skills for communication and negotiation with venue owners
+- Data security and privacy responsibilities (e.g., slot machine billing systems)
+- Reverse engineering and retrofitting alternative parts for older models
+
+**Skills to build:**
+
+- IoT device debugging and remote monitoring platform operation
+- Electronic circuit fault diagnosis and soldering techniques
+- Basic Python scripts for data cleaning and reporting
+- Principles of mobile payment system integration
+- Mechanical transmission and pneumatic system repair
+- Basic cybersecurity knowledge (preventing skimming)
+
+**Key growth areas:**
 
 - Automated Vending
 - Electronic Gaming
@@ -63,62 +97,64 @@ Install, service, adjust, or repair coin, vending, or amusement machines includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 该职业通常不符合专业职位要求，H-1B申请困难。 |
-| Subclass EB-3（EB-3 Skilled Worker） | 需PERM劳工证，但该职业通常被归类为半技能，绿卡申请复杂。 |
+| Subclass H-1B (H-1B Specialty Occupation) | This occupation usually does not meet professional position requirements, making H-1B application difficult. |
+| Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification, but this occupation is typically classified as semi-skilled, making green card applications complex. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coin, Vending, and Amusement Machine Servicers and Repairers？**
-- 喜欢动手维修电子产品的人
-- 对机械和电子设备有浓厚兴趣
-- 愿意接受在职培训而非高学历
+**Who is suited**
+- People who enjoy hands-on electronic repair
+- Strong interest in mechanical and electronic equipment
+- Willing to accept on-the-job training rather than higher education
 
-**谁不适合学Coin, Vending, and Amusement Machine Servicers and Repairers？**
-- 不喜欢频繁出差或现场维修
-- 追求高薪或快速职业晋升
+**Who is not suited**
+- Dislikes frequent travel or on-site repairs
+- Pursuing high salary or rapid career advancement
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation?**
+A: US median annual salary approximately $35,000, entry-level around $30,000, senior up to $50,000.
+
+**Q: Is it easy to apply for a US work visa or green card for this occupation?**
+A: Difficult. This occupation is not typically considered a professional role; H-1B visa applications are challenging, and EB-3 green card requires PERM with limited quotas.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Coin, Vending, and Amusement Machine Servicers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Median annual wage in the US is around $35,000, entry-level around $30,000, senior up to $50,000.
-
-**问：Is it easy to get a US work visa or green card for this occupation?**
-答：Difficult. This occupation is not typically considered a specialty occupation, making H-1B challenging. EB-3 green card requires PERM and has limited quotas.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

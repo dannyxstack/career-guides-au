@@ -1,60 +1,96 @@
-# Tailors, Dressmakers, and Custom Sewers（Tailors, Dressmakers, and Custom Sewers）职业分析 · 美国
+# Tailors, Dressmakers, and Custom Sewers — career analysis · United States
 
-**职业代码：51-6052 – Tailors, Dressmakers, and Custom Sewers。**
+**Occupation code: 51-6052 (SOC)**
 
-Tailors, dressmakers, and custom sewers design, make, alter, repair, or fit garments according to customer specifications, requiring expert hand-sewing and pattern-making skills for custom clothing.
+Tailors, dressmakers, and custom sewers design, make, alter, or repair garments including formal wear, everyday clothing, and special occasion attire, requiring expert hand-sewing and pattern-making skills.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 职业培训/文凭 | 1-2年 | $3,000~$15,000（社区学院或私立时装学校费用） |
-| 学徒制 | 2-4年 | —（在职培训，可能收取少量材料费） |
+| Vocational training/diploma | 1-2 years | $3,000~$15,000 (Community college or private fashion school fees) |
+| Apprenticeship | 2-4 years | $0~$2,000 (On-the-job training, may require a small materials fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 缝纫技能证书 | 美国缝纫协会（ASA） | 可选 | 非强制，但有助于职业发展 |
-| 定制裁缝认证 | 国家服装与纺织协会（NCTA） | 可选 | 自愿认证，提升信誉 |
+| Sewing skills certificate | American Sewing Association (ASA) | Optional | Not mandatory, but beneficial for career development |
+| Custom tailoring certification | National Clothing and Textile Association (NCTA) | Optional | Voluntary certification, enhances credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 25,400。美国劳工统计局（BLS）预测2023-2033年该职业就业将下降约4%，主要因服装制造业向海外转移及快时尚兴起，但定制服装和高端市场仍有稳定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 25,400. The US Bureau of Labor Statistics (BLS) projects a decline of about 4% in employment for this occupation from 2023 to 2033, mainly due to apparel manufacturing moving overseas and fast fashion trends, but custom clothing and high-end markets still have stable demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 缝纫助理或学徒薪资 |
-| 中级（3-8年） | $32,000~$45,000 | 独立裁缝或店铺员工 |
-| 高级（8年以上） | $45,000~$65,000 | 高级定制裁缝或自营店主 |
+| Median salary | $41,640 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$32,000 | Salary for sewing assistant or apprentice |
+| Mid-level (3–8 years) | $32,000~$45,000 | Independent tailor or shop employee |
+| Senior (8+ years) | $45,000~$65,000 | High-end custom tailor or self-employed shop owner |
+| average salary | $45,140 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 职业生涯常从学徒或缝纫助理开始，积累经验后晋升为独立裁缝或开设定制服装店；部分转向舞台服装设计、复古服装修复或高级定制领域。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+Career often starts as an apprentice or sewing assistant, gaining experience to become an independent tailor or open a custom clothing store; some move into stage costume design, vintage clothing restoration, or haute couture.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Declining employment
 - Fast fashion impact
@@ -63,66 +99,68 @@ Tailors, dressmakers, and custom sewers design, make, alter, repair, or fit garm
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 罕见，通常需要本科以上学历，裁缝师不常见此类签证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在裁缝领域有杰出成就的人士，如高级定制设计师 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需PERM劳工证，但雇主赞助困难，因职业非高技能 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rare, usually requires bachelor's degree or higher; tailors are uncommon for this visa type |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with outstanding achievements in tailoring, such as high-end custom designers. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, but employer sponsorship is difficult due to the occupation not being high-skilled |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tailors, Dressmakers, and Custom Sewers？**
-- 热爱手工缝纫和服装设计的人
-- 注重细节、耐心且能独立工作
-- 有志于进入高端定制或舞台服装领域者
+**Who is suited**
+- People who love hand sewing and fashion design
+- Detail-oriented, patient, and able to work independently
+- Those aspiring to enter high-end custom or stage costume fields
 
-**谁不适合学Tailors, Dressmakers, and Custom Sewers？**
-- 期望高收入或快速晋升的人
-- 对快时尚或大规模生产感兴趣者
+**Who is not suited**
+- Those who expect high income or rapid promotion
+- Those interested in fast fashion or mass production
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for tailors?**
+A: According to BLS 2023 data, median annual salary is about USD 32,000; top tailors can earn over USD 60,000, but overall it is low.
+
+**Q: Can tailors work in the US through skilled immigration?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and EB-3 green card requires employer sponsorship, but employers are rarely willing to provide it.
+
+**Q: What is the career outlook for tailors?**
+A: BLS predicts declining employment, but customizing and repair services still have demand, especially in the high-end market. Opening a custom shop or focusing on special clothing can improve competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tailors, Dressmakers, and Custom Sewers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for tailors?**
-答：According to BLS 2023, median annual wage is around $32,000, with top earners above $60,000, but generally low.
-
-**问：Can tailors immigrate to the US for work?**
-答：Very difficult. The occupation rarely qualifies for H-1B, and EB-3 requires employer sponsorship which is uncommon.
-
-**问：What is the career outlook for tailors?**
-答：BLS projects a decline, but demand for custom and alteration services persists, especially in high-end markets. Opening a custom shop or specializing in special garments can improve prospects.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

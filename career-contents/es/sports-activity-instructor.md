@@ -1,61 +1,96 @@
-# Sports Activity Instructor（Sports Activity Instructor）职业分析 · ES
+# Sports Activity Instructor — career analysis · Spain
 
-**职业代码：3723 – Sports Activity Instructor。**
+**Occupation code: 3723 (CNO)**
 
-Sports activity instructors guide individuals or groups in various sports, design training programs, enhance skills, and prevent injuries.
+Sports activity coaches are responsible for guiding individuals or groups in various sports, developing training plans, improving athletic skills, and preventing sports injuries.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业教育（FP Grado Superior en Actividades Físicas y Deportivas） | 2年 | $500~$2,000（公立FP学费低，私立较高。） |
-| 本科学位（Grado en Ciencias de la Actividad Física y del Deporte） | 4年 | $1,000~$4,000（公立大学每年约1000-2000欧元。） |
+| Vocational Education (FP Grado Superior en Actividades Físicas y Deportivas) | 2 years | $500~$2,000 (Public FP tuition is low, while private schools are higher.) |
+| Bachelor's degree (Grado en Ciencias de la Actividad Física y del Deporte) | 4 years | $1,000~$4,000 (Public universities approximately EUR 1,000-2,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育教练认证（Técnico Deportivo） | 各自治区体育主管部门 | 必备 | 从事特定运动项目（如足球、篮球）需此认证。 |
-| 急救证书（Primeros Auxilios） | 红十字会或认可机构 | 必备 | 安全必备。 |
-| 健身教练认证（Certificación de Entrenador Personal） | 私营机构（如FEDA） | 可选 | 非强制，但有利于就业。 |
+| Sports Coach Certification (Técnico Deportivo) | Sports authorities of all autonomous regions | Required | Engaging in specific sports (such as football or basketball) requires this certification. |
+| First Aid Certificate (Primeros Auxilios) | Red Cross or accredited organizations | Required | Safety is essential. |
+| Fitness Trainer Certification (Certificación de Entrenador Personal) | Private Institutions (such as FEDA) | Optional | Not mandatory, but beneficial for employment. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。西班牙体育产业持续增长，受健康生活方式和旅游体育推动，就业前景稳定。大城市需求较高，兼职机会多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Spain's sports industry continues to grow, driven by healthy lifestyles and tourism sports, with stable employment prospects. Large cities have higher demand and more part-time job opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$22,000 | 兼职比例高，薪资因工时不同有较大差异。 |
-| 中级（4-7年） | $22,000~$32,000 | 全职教练平均薪资。 |
-| 高级（8年以上） | $32,000~$45,000 | 包括管理岗位或专业化教练。 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$22,000 | The proportion of part-time jobs is high, and salaries vary significantly depending on working hours. |
+| Mid-level (4-7 years) | $22,000~$32,000 | Average salary for full-time coaches. |
+| Senior (8+ years) | $32,000~$45,000 | Including management positions or specialized coaching. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从兼职教练逐步晋升为主教练或体育中心经理，或专攻特定运动领域（如私教、康复训练），也可自主创业开设体育培训工作室。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of sports activity coaches centers on physical demonstration, personalized guidance, and emotional stimulation, which AI struggles to replace tasks that rely on real-time observation, physical interaction, and emotional connection. However, AI automates some repetitive training plan creation, data analysis, and course management, leading to a decrease in demand for entry-level positions (such as fitness assistants).
+
+You can gradually advance from part-time coach to head coach or sports center manager, specialize in specific sports fields (such as private coaching and rehabilitation training), or start your own sports training studio.
+
+**Tasks most exposed to AI:**
+
+- Basic training plan generation (AI automatically formulates based on user data)
+- Motion video recording and motion analysis (AI real-time tracking and posture feedback)
+- Course scheduling and student management (AI optimizes schedules and automatically notifies)
+- Basic nutrition and recovery recommendations (AI recommends plans based on exercise data)
+- Sports performance data statistics and reporting (AI-generated charts and trends)
+
+**Where AI augments the role:**
+
+- Personalized training plan design (AI analysis of body data to assist coach customization)
+- Real-time motion correction and biomechanical analysis (AI provides visual feedback)
+- Student motivation and emotional support (AI helps identify emotional states, coaches provide enhanced encouragement)
+- Preventing sports injuries (AI alerts for overtraining or movement risks)
+- Curriculum Innovation and Technology Integration (AI Simulated Gamified Training Scenarios)
+
+**Human moat:**
+
+- On-site real-time guidance and safety protection (emergency judgment in complex environments)
+- Emotional Resonance and Team Motivation (Building Trust, Adjusting Atmosphere)
+- Nonverbal communication and body demonstration (precise movement imitation and correction)
+- Experience-driven strategy adjustments (teaching pace and flexibility tailored to individual needs)
+
+**Skills to build:**
+
+- AI sports analysis tools used (such as TensorFlow sports posture detection)
+- Sports Data Interpretation and Visualization (Tableau or Professional Sports Software)
+- Operation of health technology devices (wearable devices, pressure monitoring, etc.)
+- Online Training and Remote Guidance Technology (Live Streaming, VR/AR Teaching)
+- Sports Psychology and Communication Skills (Strengthening Unique Human Strengths)
+- Basic programming and automation scripts (improving efficiency)
+
+**Key growth areas:**
 
 - Health & Fitness
 - Sports Tourism
@@ -64,62 +99,64 @@ Sports activity instructors guide individuals or groups in various sports, desig
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-Sponsored)） | 受雇于西班牙体育机构或健身中心，由雇主担保工作居留。 |
-| Subclass Cuenta propia（Self-Employment Visa） | 自主创业开设体育培训业务，需证明经济活动。 |
+| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employed by Spanish sports organizations or fitness centers, with employer-sponsored work residency. |
+| Subclass Cuenta propia (Self-Employment Visa) | To start a sports training business independently, proof of economic activity is required. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Sports Activity Instructor？**
-- 热爱体育运动，善于激励他人
-- 具备良好沟通能力和耐心
-- 愿意从兼职起步并积累经验
+**Who is suited**
+- Passionate about sports and good at motivating others
+- Possess good communication skills and patience
+- Willing to start part-time and gain experience
 
-**谁不适合学Sports Activity Instructor？**
-- 不习惯灵活工作时间（周末/节假日）
-- 期望高薪或快速晋升
+**Who is not suited**
+- Not used to flexible working hours (weekends/holidays)
+- Expecting high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a sports activity coach in Spain?**
+A: Full-time coach annual salary approx. €22,000-32,000, entry-level €15,000-22,000, senior up to €45,000. Part-time income lower.
+
+**Q: Can non-EU citizens immigrate to Spain through this employment?**
+A: It is more difficult and requires employer-sponsored work residency (Cuenta ajena), and is not a sought-after occupation. Consider the self-employed entrepreneurship visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Sports Activity Instructor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a sports activity instructor in Spain?**
-答：Full-time instructors earn around €22,000-€32,000 annually. Entry-level earns €15,000-€22,000, senior up to €45,000. Part-time earnings are lower.
-
-**问：Can non-EU citizens immigrate to Spain through this occupation?**
-答：It is difficult; requires employer sponsorship for a work permit, and the occupation is not in shortage. Self-employment visa is an option.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

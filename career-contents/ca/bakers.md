@@ -1,60 +1,93 @@
-# Bakers（Bakers）职业分析 · 加拿大
+# Bakers — career analysis · Canada
 
-**职业代码：63202 – Bakers。**
+**Occupation code: 63202 (NOC)**
 
-In Canada, bakers and pastry chefs are skilled workers (NOC 63202, TEER 2) producing baked goods. Steady demand; eligible for Express Entry and Provincial Nominee Programs.
+In Canada, bakers and pastry chefs are skilled workers in baked goods production, NOC 63202, TEER 2. Demand is stable; immigration possible through Federal Skilled Worker or Provincial Nominee Program.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中或同等学历 | 0年 | —（多数雇主要求高中毕业） |
-| 烘焙学徒或证书课程 | 2-3年 | $5,000~$20,000（社区学院或职业院校收费） |
-| 烘焙管理文凭 | 2年 | $10,000~$30,000（大专院校课程） |
+| High school diploma or equivalent | 0 years | $0~$0 (Most employers require high school graduation) |
+| Baking apprenticeship or certificate program | 2-3 years | $5,000~$20,000 (Community college or vocational institution fees) |
+| Diploma in Baking Management | 2 years | $10,000~$30,000 (College or university courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 红印证书（Interprovincial Red Seal） | 加拿大各省学徒机构 | 可选 | 行业标准认证，提升就业与移民竞争力 |
-| 食品安全认证（Food Handler Certificate） | 各省卫生部门或认可机构 | 可选 | 部分雇主强制要求 |
-| IELTS或CELPIP语言成绩 | 雅思或CELPIP | 必备 | 移民申请语言要求 |
+| IELTS or CELPIP language test scores | IELTS or CELPIP | Required | Language requirements for immigration applications |
+| Interprovincial Red Seal | Provincial apprenticeship authorities in Canada | Optional | Industry standard certification, enhancing employment and immigration competitiveness |
+| Food Handler Certificate | Provincial health authorities or recognized institutions | Optional | Required by some employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 45,000。加拿大烘焙行业持续增长，受食品服务与零售需求推动。就业前景良好，尤其在阿尔伯塔、安大略和BC省有较多机会。
+**Job demand: high (★★★★☆).** National workforce approx. 45,000. Canada's baking industry continues to grow, driven by food service and retail demand. Employment prospects are good, with many opportunities especially in Alberta, Ontario, and BC.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约15加元 |
-| 中级（4-6年） | $35,000~$48,000 | 时薪约18-24加元 |
-| 高级（7年以上/主厨） | $48,000~$60,000 | 时薪约24-30加元 |
+| Median salary | $36,400 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage about 15 Canadian dollars |
+| Intermediate (4-6 years) | $35,000~$48,000 | Hourly wage approx. $18-24 CAD |
+| Senior (7+ years/head chef) | $48,000~$60,000 | Hourly wage approximately CAD 24-30 |
+| average salary | $39,520 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从面包师可晋升为糕点主厨、生产主管或开店创业。获取红印学徒证书或烘焙管理文凭可提升职业发展空间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: very low (★☆☆☆☆).**
 
-主要增长方向：
+AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
+
+Bakers can advance to pastry chef, production supervisor, or start their own business. Obtaining a Red Seal apprenticeship certificate or baking management diploma can enhance career prospects.
+
+**Tasks most exposed to AI:**
+
+- Automated batching and weighing systems replace manual weighing.
+- Smart oven auto-control of temperature and time replaces manual monitoring
+- Standardized bread shaping machines replace manual shaping
+- Inventory management software automates replenishment, replacing manual stocktaking
+
+**Where AI augments the role:**
+
+- AI recipe optimization tool helps develop new flavors
+- Smart fermentation monitoring improves product consistency
+- Machine vision assisted decoration quality control
+- Data analytics predicts sales to reduce waste
+
+**Human moat:**
+
+- Complex manual styling and artistic decoration
+- on-site fermentation perception and adjustment experience
+- Customized Creative Design
+- Food safety compliance and manual texture control.
+
+**Skills to build:**
+
+- AI-assisted recipe development tools (e.g., Flavorstar)
+- Data-driven operations (demand forecasting, cost analysis)
+- Refining Handcrafted Art Sugar/ Pulled Sugar
+- Knowledge of sustainable raw material sourcing
+- Short video marketing and brand storytelling
+- Food safety management (HACCP)
+
+**Key growth areas:**
 
 - Food Services
 - Retail Baking
@@ -63,68 +96,67 @@ In Canada, bakers and pastry chefs are skilled workers (NOC 63202, TEER 2) produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EE（Express Entry - Federal Skilled Worker） | 通过联邦技术移民或加拿大经验类移民，NOC TEER 2职业可申请 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名项目，如安省、阿省、BC省烘焙类职业需求量较大 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保移民，适用于有雇主offer的面包师 |
+| Subclass EE (Express Entry - Federal Skilled Worker) | Can apply through Federal Skilled Worker or Canadian Experience Class; NOC TEER 2 occupations are eligible. |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs, such as Ontario, Alberta, and BC, have high demand for baking-related occupations. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for bakers with a job offer |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bakers？**
-- 喜欢动手烘焙，享受创造美食的过程
-- 愿意接受早起、体力劳动
-- 寻求加拿大稳定就业且移民路径顺畅
-
-**谁不适合学Bakers？**
-- 不喜欢体力工作或站立工作
-- 对薪资期望过高
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on baking and the process of creating food
+- Willing to accept early mornings and physical labor.
+- Seeking stable employment in Canada with a smooth immigration path
+
+**Who is not suited**
+- Dislike physical work or standing work
+- Overly high salary expectations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a baker in Canada?**
+A: Entry-level approx. CAD 28,000–35,000, mid-level 35,000–48,000, senior 48,000–60,000.
+
+**Q: How can bakers immigrate to Canada?**
+A: Can apply through federal Express Entry (FSW/CEC) or Provincial Nominee Programs. A job offer or Red Seal certificate can add points.
+
+**Q: Which Canadian provinces have high demand for bakers?**
+A: Demand is higher in Alberta, Ontario, BC, and the Atlantic provinces.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | very low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Bakers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for bakers in Canada?**
-答：Entry-level CAD 28,000-35,000; mid-level CAD 35,000-48,000; senior CAD 48,000-60,000.
-
-**问：How can bakers immigrate to Canada?**
-答：Via Express Entry (FSW/CEC) or Provincial Nominee Programs. An employer offer or Red Seal endorsement can boost points.
-
-**问：Which provinces have high demand for bakers?**
-答：Alberta, Ontario, British Columbia, and Atlantic provinces.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

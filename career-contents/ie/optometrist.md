@@ -1,61 +1,96 @@
-# Optometrist（Optometrist）职业分析 · IE
+# Optometrist — career analysis · Ireland
 
-**职业代码：2267 – Optometrist。**
+**Occupation code: 2267 (ISCO08)**
 
-Optometrists examine eyes, diagnose visual disorders and eye diseases, and prescribe corrective lenses or treatments, playing a key role in Ireland's healthcare system.
+Optometrists are responsible for checking vision, diagnosing eye diseases, and prescribing corrective lenses or treatment plans, playing a key role in Ireland's healthcare system.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（验光学） | 4年（本科） | $15,000~$25,000（欧盟学生学费；非欧盟学生约20,000-35,000欧元/年） |
-| 硕士（可选） | 1-2年 | $10,000~$20,000（专业深造如低视力或儿科验光） |
+| Bachelor's degree (Optometry) | 4 years (bachelor's degree) | $15,000~$25,000 (EU student tuition fees; non-EU students approximately 20,000-35,000 euros/year) |
+| Master's degree (optional) | 1-2 years | $10,000~$20,000 (Specialized further study such as low vision or pediatric optometry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 验光学学士学位 | 爱尔兰大学（如都柏林理工学院） | 必备 | CORU认可的专业学位 |
-| CORU注册 | CORU（爱尔兰健康与社会保健专业监管机构） | 必备 | 必须在CORU注册才能执业 |
-| 继续教育学分 | CORU | 必备 | 每年需完成继续教育以维持注册 |
+| Bachelor of Optometry | Irish universities (e.g., Technological University Dublin) | Required | CORU-recognized professional degree |
+| CORU registration | CORU (Ireland's Health and Social Care Professional Regulator) | Required | Must be registered with CORU to practice |
+| Continuing education credits | CORU | Required | Must complete continuing education annually to maintain registration. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 1,800。随着人口老龄化和电子设备使用增加，视力问题日益普遍，预计未来5年爱尔兰验光师需求持续增长，尤其是农村地区。
+**Job demand: high (★★★★☆).** National workforce approx. 1,800. With an aging population and increased use of electronic devices, vision problems are becoming more common; demand for optometrists in Ireland is expected to grow steadily over the next 5 years, especially in rural areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，公立/私立诊所差异不大 |
-| 中级（3-8年） | $45,000~$60,000 | 经验丰富的验光师或诊所主管 |
-| 高级（8年以上） | $60,000~$80,000 | 高级主管、合伙人或专科验光师 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$45,000 | Pre-tax annual salary, little difference between public/private clinics |
+| Mid-level (3–8 years) | $45,000~$60,000 | Experienced optometrist or clinic supervisor |
+| Senior (8+ years) | $60,000~$80,000 | Senior manager, partner, or specialist optometrist |
+| average salary | $54,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级验光师可在私人诊所或医院积累经验，5年后可晋升为高级验光师或诊所经理，部分转向眼科研究或验光教育。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Optometrists face mixed AI impact: automated refraction devices boost efficiency, but the core value of diagnostic decisions and patient communication is hard to replace; the occupation is generally safe.
+
+Entry-level optometrists can gain experience in private clinics or hospitals, and after 5 years, can advance to senior optometrist or clinic manager; some transition to ophthalmic research or optometry education.
+
+**Tasks most exposed to AI:**
+
+- Routine vision tests (autorefractor, keratometer, etc.)
+- Automated generation of basic refractive error prescriptions
+- Preliminary screening of eye images (e.g., AI analysis of fundus photography)
+- Administrative tasks for patient appointment scheduling and medical records management
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex eye diseases (e.g., glaucoma, diabetic retinopathy)
+- Personalized lens design optimization (based on AI algorithms)
+- Remote optometry services (AI-supported remote diagnostic tools)
+- Automated generation of patient education materials (based on test results)
+- Data-driven epidemiological analysis (eye health trends)
+
+**Human moat:**
+
+- Final diagnostic responsibility and legal accountability.
+- Handling complex cases and rare eye diseases
+- Patient trust and communication (empathy, explaining treatment plans)
+- Fine manual operations (e.g., contact lens fitting, orthokeratology)
+- Interdisciplinary collaboration (referral to ophthalmologist)
+
+**Skills to build:**
+
+- Ability to use and interpret AI diagnostic systems.
+- Data analysis and interpretation (eye images, patient data)
+- Remote health and digital health tool operation
+- Advanced pathology knowledge (especially for diseases that AI is prone to miss).
+- Patient communication and psychological counseling skills
+- Ethics and compliance knowledge (Legal risks of AI-assisted diagnosis)
+
+**Key growth areas:**
 
 - Aging population
 - Increased screen time
@@ -64,66 +99,68 @@ Optometrists examine eyes, diagnose visual disorders and eye diseases, and presc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟公民，年薪需≥30,000欧元（2023年标准），验光师符合资格 |
-| Subclass General Employment P（General Employment Permit） | 若雇主提供工作，可申请一般工作许可，需满足薪资和劳动力市场测试 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 验光师属于紧缺职业，年薪≥32,000欧元可申请，快速转永居 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU citizens, annual salary must be ≥ €30,000 (2023 standard), optometrists qualify |
+| Subclass General Employment P (General Employment Permit) | If the employer offers a job, a general work permit can be applied for, subject to salary and labour market testing |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Optometrists are in shortage; eligible if annual salary ≥ €32,000, fast track to permanent residence |
+
+**PR friendliness: high (★★★★☆).**
+
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Optometrist？**
-- 对视觉科学和患者护理有热情的人
-- 注重细节且具备良好沟通能力的人
-- 寻求稳定职业和良好移民前景的人
+**Who is suited**
+- People passionate about vision science and patient care
+- Detail-oriented person with good communication skills
+- Those seeking stable careers and good immigration prospects
 
-**谁不适合学Optometrist？**
-- 不适应长时间站立工作的体力要求
-- 对持续学习新诊断技术不感兴趣的人
+**Who is not suited**
+- Unable to handle the physical demands of long periods of standing
+- People not interested in continuously learning new diagnostic techniques
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for optometrists in Ireland?**
+A: Annual salary for junior optometrists is about €35,000-45,000, mid-level €45,000-60,000, senior up to €60,000-80,000, with private practitioners earning more.
+
+**Q: How can non-EU citizens immigrate to Ireland as optometrists?**
+A: Available via Critical Skills Employment Permit or General Employment Permit, requiring CORU registration and employer sponsorship.
+
+**Q: What qualifications are needed to become an optometrist in Ireland?**
+A: Complete a CORU-accredited optometry bachelor's degree (4 years), register with CORU, then complete annual continuing education.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Optometrist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for optometrists in Ireland?**
-答：Entry-level optometrists earn €35,000-45,000, mid-level €45,000-60,000, and senior up to €60,000-80,000 annually, with private practice potentially higher.
-
-**问：How can non-EU citizens immigrate to Ireland as optometrists?**
-答：Through the Critical Skills Employment Permit (shortage occupation) or General Employment Permit, requiring CORU registration and an employer sponsor.
-
-**问：What qualifications are needed to become an optometrist in Ireland?**
-答：A CORU-accredited bachelor's degree in optometry (4 years) and registration with CORU, plus annual continuing education.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

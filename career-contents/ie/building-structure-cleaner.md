@@ -1,59 +1,93 @@
-# Building Structure Cleaner（Building Structure Cleaner）职业分析 · IE
+# Building Structure Cleaner — career analysis · Ireland
 
-**职业代码：7133 – Building Structure Cleaner。**
+**Occupation code: 7133 (ISCO08)**
 
-Building structure cleaners clean exterior surfaces of buildings, including walls, windows, and roofs, using specialized equipment and cleaning agents to maintain appearance and safety.
+Building structure cleaners clean the exterior walls, windows, roofs, and other external structures of buildings using specialized equipment and cleaning agents to ensure the building's appearance is tidy and safe.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无特定要求 | —（通常无正式教育要求，在职培训为主） |
-| 职业培训 | 6个月（证书课程） | $1,000~$3,000（如高空作业安全培训等） |
+| High school graduation | No specific requirements | $0~$0 (No formal education requirements, on-the-job training mainly) |
+| Vocational training | 6 months (certificate course) | $1,000~$3,000 (Such as safety training for working at height, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高空作业证书 | FETAC/QQI | 必备 | 从事高空清洁必备 |
-| 安全培训证书 | SafePass | 必备 | 建筑工地基本安全证 |
-| 司机执照 | Road Safety Authority | 可选 | B类驾照，便于移动设备 |
+| Elevated work platform certificate | FETAC/QQI | Required | Essential for high-altitude cleaning |
+| Safety training certificate | SafePass | Required | Construction site basic safety certificate |
+| Driver's license | Road Safety Authority | Optional | Class B driver's license for mobile equipment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,200。随着爱尔兰建筑业的持续增长和旧建筑翻新需求增加，建筑结构清洁工的需求保持稳定。预计未来五年就业岗位将略微增长，主要集中在都柏林等城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,200. With continued growth in Ireland's construction industry and increased demand for renovation of old buildings, demand for building structure cleaners remains stable. Employment is expected to increase slightly over the next five years, mainly in urban areas like Dublin.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，通常含加班费 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，经验丰富者更高 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含主管或专项技能补贴 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, usually includes overtime pay |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, higher with experience. |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including supervisor or special skill allowances |
+| average salary | $34,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可晋升为清洁主管或项目经理，也可专攻高空作业或石材修复等细分领域。部分经验丰富者可自主创业，承接商业清洁合同。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
+
+Can advance to cleaning supervisor or project manager, or specialize in areas like high-rise work or stone restoration. Experienced professionals may start their own business to take on commercial cleaning contracts.
+
+**Tasks most exposed to AI:**
+
+- Clean floors using smart vacuum and mop robots
+- Operation monitoring of automatic window cleaning robots
+- Dust removal in standard areas such as corridors and halls following preset routes.
+- Use automatic disinfection robots to disinfect bathrooms and kitchens.
+
+**Where AI augments the role:**
+
+- Use AI scheduling system to optimize multi-site cleaning routes and schedules
+- Use smart sensors to monitor dirt levels and precisely schedule cleaning frequency
+- Receive health and safety alerts via wearable devices to enhance personal protection
+- Adjusts service details using a customer review AI system to improve satisfaction
+- Use digital tools to manage cleaning supplies, reducing waste
+
+**Human moat:**
+
+- Identification and targeted treatment of complex stubborn stains (e.g., carpet stains, oil stains).
+- Communicate with clients to understand specific needs and flexibly adjust cleaning methods
+- Ability to handle unexpected situations (e.g., breaking items, pet accidents)
+- Fine cleaning and care of valuable items (e.g., antiques, silk)
+
+**Skills to build:**
+
+- Basic AI device operation and simple troubleshooting
+- Use cleaning management software for scheduling and customer relationship management
+- Learn specialized cleaning techniques (e.g., stone care, disinfection)
+- Improve communication and customer service skills
+- Basic English proficiency to interact with smart devices or serve foreign clients
+- Learn about personal protective equipment and eco-friendly cleaning agents
+
+**Key growth areas:**
 
 - Urban construction
 - Building renovation
@@ -62,65 +96,64 @@ Building structure cleaners clean exterior surfaces of buildings, including wall
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪门槛约30,000欧元。 |
-| Subclass EU Blue Card（EU Blue Card） | 不适用，因该职业通常不满足高技能要求。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 不适用，该职业不在紧缺职业清单上。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires employer sponsorship, annual salary threshold of approximately €30,000. |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable, as this occupation typically does not meet high-skill requirements. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, this occupation is not on the skilled occupation list. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Structure Cleaner？**
-- 体力好、不恐高的人
-- 喜欢户外工作、独立作业的人
-- 注重安全规范、细心的人
-
-**谁不适合学Building Structure Cleaner？**
-- 有恐高症或身体条件受限者
-- 不喜户外工作或恶劣天气者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness and no fear of heights
+- People who enjoy outdoor work and working independently
+- Detail-oriented person who values safety regulations
+
+**Who is not suited**
+- Those with acrophobia or physical limitations
+- Dislikes outdoor work or bad weather
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a building structure cleaner in Ireland?**
+A: Junior annual salary approx. €24,000-30,000, mid-level €30,000-38,000, senior up to €45,000; overtime and specialized skills can increase income.
+
+**Q: Can foreigners apply for a work visa for building structure cleaners in Ireland?**
+A: Can apply for a General Employment Permit, but this occupation is not on the shortage list; requires employer sponsorship and meeting the annual salary threshold. EU citizens can work freely.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Building Structure Cleaner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for building structure cleaners in Ireland?**
-答：Entry-level salary ranges from €24,000 to €30,000, mid-level €30,000 to €38,000, and senior up to €45,000 per year, with overtime and specialized skills boosting income.
-
-**问：Can foreigners apply for a work visa as a building structure cleaner in Ireland?**
-答：Yes, a General Employment Permit is possible but the occupation is not on the shortage list; employer sponsorship and salary threshold required. EU citizens can work freely.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

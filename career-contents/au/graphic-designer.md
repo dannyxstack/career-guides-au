@@ -1,161 +1,187 @@
-# 平面设计师（Graphic Designer）职业分析 · 澳大利亚
+# Graphic Designer — career analysis · Australia
 
-**职业代码：232411 – Graphic Designer。**
+**Occupation code: 232411 (ANZSCO)**
 
-平面设计师为企业、媒体和个人客户创作视觉传播材料，包括品牌标识、营销物料、数字内容和印刷品。数字营销爆发推动对多平台内容设计师（平面+数字）的持续需求。技能全面（Adobe CC + Figma + 视频基础）的设计师竞争力显著提升。
+Graphic designers create visual communication materials for corporate, media and individual clients, including brand identities, marketing collateral, digital content and print materials. The explosion of digital marketing is driving sustained demand for multi-platform content designers (graphic and digital). Designers with well-rounded skills (Adobe CC + Figma + basic video) are significantly more competitive.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Design / Visual Communication（3年） | 3年（全日制） | $25,000~$120,000（国际生约 $28,000~$36,000/年；部分私立艺术学院课程2~3年） |
-| Diploma of Graphic Design（TAFE，1~2年） | 1~2年 | $5,000~$30,000（TAFE文凭是入门路径；技能型岗位雇主接受文凭+作品集） |
-| 作品集（Portfolio）建设 | 持续 | —（作品集质量比学历更重要；Behance/个人网站是标配展示平台） |
-| Adobe CC / Figma / After Effects 技能认证 | 自主学习，3~12个月 | —（Adobe Certified Professional认证提升竞争力） |
+| Bachelor of Design / Visual Communication (3 years) | 3 years (full-time) | $25,000~$120,000 (International students approx. $28,000–$36,000/year; some private art college programmes are 2–3 years) |
+| Diploma of Graphic Design (TAFE, 1–2 years) | 1–2 years | $5,000~$30,000 (A TAFE diploma is the entry pathway; employers in skilled roles accept a diploma combined with a portfolio) |
+| Portfolio development | Ongoing | $0~$5,000 (Portfolio quality matters more than qualifications; Behance and a personal website are standard presentation platforms) |
+| Adobe CC / Figma / After Effects skills certification | Self-study, 3–12 months | $0~$3,000 (Adobe Certified Professional credential boosts competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Bachelor of Design / Graphic Design | 澳洲高校或等同国际学历 | 可选 | 大型广告公司和品牌设计机构的基本学历要求 |
-| Adobe Certified Professional（ACP） | Adobe | 可选 | Adobe官方认证，提升简历竞争力 |
-| Figma / UI Design 技能证明 | Figma / Coursera / LinkedIn Learning | 可选 | 数字设计岗位事实上的技能要求 |
+| Bachelor of Design / Graphic Design | Australian tertiary qualification or equivalent international qualification | Optional | Minimum qualification expected by large advertising agencies and brand design firms |
+| Adobe Certified Professional（ACP） | Adobe | Optional | Adobe official certification, enhancing résumé competitiveness |
+| Figma / UI Design skills evidence | Figma / Coursera / LinkedIn Learning | Optional | The de facto skill requirement for digital design roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。JSA预测平面设计师就业至2030年保持稳定，数字内容设计和UI/UX融合技能方向增长最快。纯印刷设计市场收缩，数字多媒体设计方向持续增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. JSA projects graphic designer employment to remain stable through to 2030, with the fastest growth in digital content design and roles combining UI/UX skills. The print-only design market is contracting, while digital multimedia design continues to grow.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,000~3,000 个 | 全国，含品牌设计/数字内容/UI设计师岗 |
-| Indeed | 800~2,500 个 | 含广告公司、品牌设计机构和内部设计岗 |
-| LinkedIn | 1,500~4,000 个 | 企业内部设计师和数字营销设计岗招聘活跃 |
-
-**竞争度：较高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级平面设计师（0~2年） | $52,000~$68,000 | 毕业生起薪；悉尼/墨尔本较偏远地区略高 |
-| 中级平面设计师（2~6年） | $70,000~$88,000 | SEEK 区间 $75k~$85k；Indeed 均值 $78,126；Glassdoor 均值 $77,250（2026） |
-| 高级平面设计师（6~12年） | $88,000~$110,000 | 高级设计师均值 $90,929；品牌策略专精可超 $100k |
-| 创意总监 / 设计总监（12年+） | $110,000~$180,000 | 大型广告公司或品牌创意总监；悉尼创意总监均值 $120k~$150k |
+| Median salary | $96,200 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior Graphic Designer (0–2 years) | $52,000~$68,000 | Graduate starting salary; Sydney/Melbourne slightly higher than regional areas |
+| Intermediate Graphic Designer (2–6 years) | $70,000~$88,000 | SEEK range $75k–$85k; Indeed average $78,126; Glassdoor average $77,250 (2026) |
+| Senior graphic designer (6–12 years) | $88,000~$110,000 | Senior designer average $90,929; brand strategy specialisation can exceed $100k |
+| Creative Director / Design Director (12+ years) | $110,000~$180,000 | Creative Director at a large advertising agency or brand; average Creative Director salary in Sydney $120k–$150k |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 澳洲数字营销市场持续增长（2026年超过$130亿澳元），推动对视觉内容设计师的旺盛需求。AI设计工具（Midjourney/Adobe Firefly）改变初级设计任务，但品牌策略、创意概念和客户沟通不可替代。Figma成为UI/UX和平面设计的行业标准。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
 
-- UI/UX设计（数字产品设计）
-- 品牌策略与视觉识别系统
-- 内容营销视觉设计
-- 运动图形与视频内容设计
-- AR/VR沉浸式体验设计
+Australia's digital marketing sector continues to grow (surpassing $13 billion AUD in 2026), driving strong demand for visual content designers. AI design tools (Midjourney/Adobe Firefly) are reshaping entry-level design tasks, but brand strategy, creative concepts and client communication remain irreplaceable. Figma has become the industry standard for UI/UX and graphic design.
+
+**Tasks most exposed to AI:**
+
+- Batch generation of social media templates and ad banners
+- Basic image processing (cutout, color adjustment, filters)
+- Automatically completing layout and formatting based on preset styles
+- Generate simple logo and icon drafts
+- Automated output of print-ready files (bleeds, crop marks)
+
+**Where AI augments the role:**
+
+- Generate creative sketches with AI to rapidly iterate design proposals
+- Leverage AI to analyze user data and optimize visual strategies
+- AI-assisted font matching and color matching to improve design efficiency
+- Auto-generate design variants for A/B testing
+- AI tools enable rapid prototyping of video and motion graphics
+
+**Human moat:**
+
+- Deep understanding of brand strategy and user psychology to define visual direction
+- Original creativity and unique artistic expression
+- Cross-media storytelling (print + digital + environment)
+- Efficient communication and feedback integration with clients and teams
+- Sharp insight into cultural trends and social contexts
+
+**Skills to build:**
+
+- AI design tools (Midjourney, DALL·E 3, Adobe Firefly)
+- Motion design and video editing (After Effects, Premiere Pro)
+- User Experience and Interface Design (Figma, Sketch)
+- Data visualization and infographic design
+- Project management and client communication (agile collaboration)
+- 3D modeling and rendering basics (Blender, C4D)
+
+**Key growth areas:**
+
+- UI/UX Design (Digital Product Design)
+- Brand Strategy & Visual Identity System
+- Content Marketing Visual Design
+- Motion Graphics & Video Content Design
+- AR/VR Immersive Experience Design
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，广告公司和设计机构可担保 |
-| Subclass 186（ENS） | 雇主担保永居 |
-| Subclass 189（SkillSelect Independent） | 邀请制，需要技能评估（VETASSESS） |
-| Subclass 190（Skilled Nominated） | 州提名通道 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship — advertising agencies and design studios can sponsor |
+| Subclass 186 (ENS) | Employer-sponsored permanent residency |
+| Subclass 189 (SkillSelect Independent) | Invitation-based; skills assessment (VETASSESS) required |
+| Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR难度：中高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学平面设计师？**
-- 持有设计类学历，有专业作品集（品牌/数字媒体/UI设计方向）
-- 熟练掌握Adobe Creative Suite（Ps/Ai/Id/Ae）和Figma
-- 有商业品牌或数字营销项目经验（不只是艺术创作）
-- 英语沟通和汇报能力强（客户简报和创意方向确认）
-- 有UI/UX基础或愿意向数字产品设计方向发展
-
-**谁不适合学平面设计师？**
-- 仅有纯艺术/手工艺背景，无商业设计项目经验
-- 软件技能单一（仅掌握Photoshop），无Figma或动态设计能力
-- 期望快速获得 $90k+ 薪资（需要5年以上资深经验才能达到）
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a design qualification with a professional portfolio (branding / digital media / UI design)
+- Proficient in Adobe Creative Suite (Ps/Ai/Id/Ae) and Figma
+- Experience in commercial branding or digital marketing projects (not just artistic creation)
+- Strong English communication and reporting skills (client briefings and creative direction sign-off)
+- Has a UI/UX background or is willing to move towards digital product design
+
+**Who is not suited**
+- Only a fine arts or craft background with no commercial design project experience
+- Limited software skills (Photoshop only), no Figma or motion design capability
+- Expecting to earn $90k+ quickly (typically requires 5+ years of senior experience to reach this level)
+
+---
+
+## 8. FAQ
+
+**Q: How much do graphic designers earn in Australia?**
+A: Mid-level designer approximately $70,000–$88,000 (SEEK $75k–$85k; Indeed $78,126; Glassdoor $77,250); senior designer approximately $88k–$110k; creative director approximately $110k–$180k.
+
+**Q: Is it easy for graphic designers to find work in Australia?**
+A: Moderately competitive. Entry-level designers face strong competition, but designers with combined digital marketing and UI/UX skills are in short supply. SEEK lists approximately 1,000–3,000 positions, with consistent demand in digital content and brand design.
+
+**Q: Are overseas design qualifications recognised in Australia?**
+A: Skills assessment through VETASSESS — a Chinese design bachelor's degree is generally recognised. Portfolio quality is critical: Australian employers place greater value on real commercial project portfolios than purely artistic work. It is recommended to prepare 5–10 case studies of commercial branding or digital marketing projects.
+
+**Q: Will graphic designers be replaced by AI?**
+A: Moderate risk. AI tools (Midjourney, Adobe Firefly) can already handle basic image generation and template design. However, brand strategy development, client communication, and creative concept pitching still require human designers. Moving towards brand strategy, UI/UX, and content strategy can effectively reduce exposure to AI disruption.
+
+**Q: Is there an age limit for graphic designers in Australia?**
+A: None. Mid-to-senior designers (aged 35–50) with extensive brand strategy and commercial design experience have a clear advantage in creative director and brand consultant roles. The creative industry places greater value on portfolio quality and client relationships.
+
+**Q: What qualifications do graphic designers need in Australia?**
+A: Large corporations and advertising agencies typically require a bachelor's degree in design; small-to-medium design studios and startups place greater emphasis on portfolios. A TAFE diploma combined with a strong portfolio can secure entry into smaller firms, but major brand companies still prefer a bachelor's degree or above.
+
+**Q: Is it difficult for graphic designers to obtain Australian recognition (for migration purposes)?**
+A: Not on the MLTSSL skilled occupation list, making migration more difficult than education or healthcare pathways. Employer-sponsored 482 is the most viable route; the 189 skilled independent visa requires a VETASSESS assessment and a sufficient points score. It is advisable to first enter on a student visa, study in Australia, and build local work experience.
+
+**Q: Which is better: graphic designer or UI/UX designer?**
+A: UI/UX designers earn more ($90k–$130k vs graphic design $70k–$88k), are in stronger demand, and have a clearer migration pathway (sometimes classified under IT); graphic designers have a broader employment scope (needed across all industries) but generally lower salaries. Those with a technical inclination should transition to UI/UX; those with a brand and creative focus should deepen their expertise in graphic design or brand strategy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEEK AU | 平面设计师薪资 $75k~$85k（2026） |
-| Indeed AU | 平面设计师平均薪资 $78,126（2026） |
-| Glassdoor AU | 平面设计师平均薪资 $77,250（2026） |
-| Academy Xi | 澳洲平面设计师市场薪资2026 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
-
-平面设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲平面设计师工资多少？**
-答：中级设计师约 $70,000~$88,000（SEEK $75k~$85k；Indeed $78,126；Glassdoor $77,250）；高级设计师约 $88k~$110k；创意总监约 $110k~$180k。
-
-**问：澳洲平面设计师容易找工作吗？**
-答：有一定难度。初级设计师竞争激烈，但有数字营销和UI/UX融合技能的设计师供不应求。SEEK 挂牌约 1,000~3,000 个职位，数字内容和品牌设计方向需求持续稳定。
-
-**问：中国设计学历澳洲认可吗？**
-答：通过VETASSESS技能评估，中国设计专业本科学历通常可以认可。关键是作品集质量：澳洲雇主更看重实际商业项目作品集而非纯艺术作品。建议准备5~10个商业品牌或数字营销项目案例。
-
-**问：平面设计师会被AI替代吗？**
-答：部分风险。AI工具（Midjourney、Adobe Firefly）已能处理初级图片生成和模板设计。但品牌策略制定、客户沟通和创意概念提案仍需要人类设计师。向品牌策略、UI/UX和内容策略方向发展可有效规避AI风险。
-
-**问：澳洲平面设计师有年龄限制吗？**
-答：无。有丰富品牌策略和商业设计经验的中高级设计师（35~50岁）在创意总监和品牌顾问岗位上有明显优势。创意行业更看重作品组合和客户资源。
-
-**问：澳洲平面设计师需要什么学历？**
-答：大企业和广告公司通常要求设计类本科学历；中小型设计机构和初创公司更注重作品集。TAFE文凭+强作品集可以进入中小公司，但大型品牌公司仍偏好本科及以上学历。
-
-**问：澳洲平面设计师认证（移民）难吗？**
-答：不在MLTSSL短缺职业清单，移民难度高于教育/医疗类。雇主担保482是最可行路径；189技术移民需要VETASSESS评估+足够邀请分数。建议先通过学生签证在澳就读并积累工作经验。
-
-**问：平面设计师和UI/UX设计师哪个更好？**
-答：UI/UX设计师薪资更高（$90k~$130k vs 平面 $70k~$88k），需求更强，移民路径更清晰（有时被归入IT类）；平面设计师就业范围更广（任何行业都需要），但薪资整体偏低。有技术倾向者转型UI/UX，有品牌和创意倾向者深耕平面/品牌策略。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

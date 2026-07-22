@@ -1,60 +1,92 @@
-# Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic（Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4032 – Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4032 (SOC)**
 
-Set up, operate, or tend drilling and boring machines to drill, bore, ream, mill, or countersink metal or plastic work pieces.
+Set up, operate, or tend drilling machines and boring machines to drill, bore, ream, mill, or countersink metal or plastic workpieces.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 社区学院/技术学校证书 | 1-2年 | $5,000~$20,000（机床操作或数控技术证书） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Community college/technical school certificate | 1-2 years | $5,000~$20,000 (Machine operation or CNC technology certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本入学要求 |
-| 在职培训 | 雇主 | 可选 | 通常需要数月至1年的在职培训 |
+| High school diploma or equivalent | High school | Required | Basic admission requirements |
+| On-the-job training | Employer | Optional | Usually requires several months to one year of on-the-job training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 41,600。美国制造业自动化程度提高，传统操作工岗位需求缓慢下降，但精密加工和维护岗位仍有一定需求。预计2022-2032年就业增长约-2%，每年约4700个职位空缺（主要来自替换需求）。
+**Job demand: medium (★★½☆☆).** National workforce approx. 41,600. Automation in US manufacturing has increased, demand for traditional operator roles slowly declines, but precision machining and maintenance roles still have demand. Projected employment growth of about -2% from 2022-2032, with about 4,700 job openings per year (mainly replacement needs).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级操作工 |
-| 中级（3-7年） | $42,000~$55,000 | 熟练操作工 |
-| 高级（7年以上） | $55,000~$68,000 | 高级技工或调整工 |
+| Median salary | $49,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level operator |
+| Mid-level (3–7 years) | $42,000~$55,000 | Skilled operator |
+| Senior (7+ years) | $55,000~$68,000 | Senior technician or setter |
+| average salary | $51,810 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 可从操作工晋升为数控程序员、机床调整工或生产主管；也可通过学习编程转向高技能加工岗位或质量检验。部分经验者可转为设备销售或技术支持。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI and automation will significantly reduce jobs for drilling and boring machine operators, especially routine repetitive tasks, but complex workpiece setup and quality inspection still require human experience.
+
+Can advance from operator to CNC programmer, machine setter, or production supervisor; or shift to high-skilled machining positions or quality inspection by learning programming. Some experienced workers can move into equipment sales or technical support.
+
+**Tasks most exposed to AI:**
+
+- Read drawings and manually calculate machining parameters
+- Repeated drilling and boring operations with the same specifications
+- Conduct routine dimensional checks using measuring tools.
+- Manual tool change and fixture adjustment
+
+**Where AI augments the role:**
+
+- Optimize tool paths using AI-assisted programming software
+- Use digital twin to simulate machining processes to reduce trial cuts
+- Predict tool wear through sensor data analysis
+- Use AR glasses for real-time processing guidance
+
+**Human moat:**
+
+- Solve clamping and machining challenges for non-standard workpieces.
+- Identify cutting abnormalities (e.g., vibration, chipping) and adjust the plan
+- Manual fitting requiring high precision tolerances
+- Cross-process coordination (e.g., with milling and grinding machines)
+
+**Skills to build:**
+
+- CNC programming and G-code debugging
+- CAD/CAM software operation (e.g., Mastercam)
+- Industrial robot loading/unloading programming.
+- Basic data analysis (tool life management)
+- Use of smart measuring tools and coordinate measuring machines.
+
+**Key growth areas:**
 
 - Manufacturing Automation
 - Precision Machining
@@ -63,66 +95,68 @@ Set up, operate, or tend drilling and boring machines to drill, bore, ream, mill
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不适用，因为该职业通常不要求学士学位，不符合H-1B专业职位要求。 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 可能通过EB-3 Skilled Workers类别申请，但需雇主担保PERM，且申请难度较高。 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到美国工人，但该职业劳动力充足，PERM批准难度大。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Generally not applicable, as the occupation typically does not require a bachelor's degree, not meeting H-1B specialty occupation requirements |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | May apply through EB-3 Skilled Workers category, but requires employer-sponsored PERM and is highly competitive. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find US workers, but this occupation has a sufficient labour supply, making PERM approval difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 喜欢动手操作机械设备
-- 注重工作稳定性而非高薪
-- 愿意接受重复性工作
+**Who is suited**
+- Enjoys hands-on operation of mechanical equipment
+- Prefers job stability over high salary
+- Willing to accept repetitive work
 
-**谁不适合学Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 追求高收入和快速发展
-- 无法适应嘈杂和油污环境
+**Who is not suited**
+- Seeking High Income and Rapid Career Growth
+- Cannot adapt to noisy and oily environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for drilling machine operators?**
+A: Median annual salary for a drill press operator in the US is about $40,000, entry-level about $32,000, and senior up to $68,000. Salary varies by region, experience, and industry.
+
+**Q: What immigration pathways can a drilling machine operator use to work in the US?**
+A: This occupation typically does not meet H-1B specialty occupation requirements (requires bachelor's degree), so migration paths are limited. Theoretically, can apply via EB-3 Skilled Workers but requires employer PERM labor certification, which is difficult. In practice, few sponsorship cases exist.
+
+**Q: What are the future prospects for a drilling machine operator?**
+A: Due to the prevalence of automation and CNC machines, demand for traditional drill press operators is slowly declining. However, there is still some demand for precision machining and maintenance roles, suggesting a transition to skills like CNC programming.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for drilling machine operators?**
-答：The median annual wage for drilling machine operators in the US is about $40,000, with entry-level around $32,000 and experienced up to $68,000. Salaries vary by location, experience, and industry.
-
-**问：What migration pathways are available for drilling machine operators to work in the US?**
-答：This occupation typically does not meet H-1B specialty occupation requirements (needs bachelor's degree), so migration options are limited. In theory, EB-3 Skilled Workers may apply, but employer-sponsored PERM is challenging. Few sponsorship cases exist.
-
-**问：What is the future outlook for drilling machine operators?**
-答：Due to automation and CNC machine adoption, demand for traditional drilling machine operators is slowly declining. However, precision machining and maintenance roles persist. Upskilling to CNC programming is recommended.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

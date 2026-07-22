@@ -1,58 +1,91 @@
-# Engineering Professional Not Elsewhere Classified（Engineering Professional Not Elsewhere Classified）职业分析 · IT
+# Engineering Professional Not Elsewhere Classified — career analysis · Italy
 
-**职业代码：2149 – Engineering Professional Not Elsewhere Classified。**
+**Occupation code: 2149 (ISCO08)**
 
-Covers engineering roles not elsewhere classified, including biomedical, environmental, aerospace engineers, engaged in R&D, design, consulting, or management.
+Covers engineering roles not specifically classified, including but not limited to biomedical, environmental, aerospace, and other engineers engaged in R&D, design, consulting, or management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$4,000（公立大学学费，视家庭收入） |
-| 硕士 | 2年（硕士） | $1,500~$6,000（公立大学学费，视家庭收入） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$4,000 (Public university tuition fees, depending on family income) |
+| Master's degree | 2 years (Master's) | $1,500~$6,000 (Public university tuition fees, depending on family income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师 | 意大利工程师协会 | 必备 | 需通过国家考试及实习，对于某些职位是法律要求 |
-| 硕士学位 | 大学 | 可选 | 许多专业工程职位偏好硕士 |
+| Registered engineer | Italian Order of Engineers | Required | Requires passing a national exam and internship; legally mandated for some positions |
+| Master's degree | University | Optional | Many professional engineering roles prefer a master's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。意大利工程领域需求稳定，受工业4.0、可再生能源和基础设施升级推动，但整体就业增长平缓，竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. The engineering sector in Italy has stable demand, driven by Industry 4.0, renewable energy, and infrastructure upgrades, but overall employment growth is moderate and competition is average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪 |
-| 中级（3-8年） | $35,000~$50,000 | 税前年薪 |
-| 高级（8年以上） | $50,000~$70,000 | 税前年薪 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary |
+| Mid-level (3–8 years) | $35,000~$50,000 | Annual pre-tax salary |
+| Senior (8+ years) | $50,000~$70,000 | Annual pre-tax salary |
+| average salary | $44,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业路径可从技术专家到项目经理或研发主管，需持续学习新技术，高级职位需注册工程师资格。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on unclassified engineering professionals is mixed: some tasks like data analysis and design optimization will be automated, but interdisciplinary innovation and complex system integration still require humans; overall risk is manageable.
+
+Career path can progress from technical specialist to project manager or R&D lead, requiring continuous learning of new technologies; senior roles require professional engineering registration.
+
+**Tasks most exposed to AI:**
+
+- Routine data analysis and report generation
+- Standard design parameter optimization
+- Drafting technical documents
+- Partial simulation runs and preliminary processing of results
+
+**Where AI augments the role:**
+
+- Multidisciplinary Design Space Exploration and Trade-offs
+- Complex system fault diagnosis and solution generation
+- Quickly match customer needs with technical solutions
+- Trend prediction and risk assessment based on big data
+
+**Human moat:**
+
+- Interdisciplinary integration and innovative design
+- Regulatory compliance and ethical decision-making
+- on-site problem diagnosis and adaptive adjustment
+- Stakeholder communication and project leadership
+
+**Skills to build:**
+
+- AI tool applications (e.g., generative design, predictive models)
+- systems thinking and systems engineering approach
+- Data Science and Advanced Analytics
+- Cross-disciplinary collaboration and project management
+- Python or R programming
+- Industry-specific software and simulation tools
+
+**Key growth areas:**
 
 - Industry 4.0
 - Renewable Energy
@@ -61,68 +94,67 @@ Covers engineering roles not elsewhere classified, including biomedical, environ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能非欧盟公民，需大学学历及高于平均工资的合同，有效期1-4年，可携家属。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，配额有限，适合蓝领或技术工人。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 雇主需向劳工局申请工作许可，审核劳动合同和资质，之后可申请工作签证。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and a contract with above-average salary, valid for 1-4 years, can bring family. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship, limited quota, suitable for blue-collar or skilled workers. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for a work permit from the labor bureau, which reviews the labor contract and qualifications, and then the employer can apply for a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Engineering Professional Not Elsewhere Classified？**
-- 具备工程类本科或硕士学历者
-- 希望在欧洲从事工程研发或管理岗位的人
-- 能适应技术更新、持续学习者
-
-**谁不适合学Engineering Professional Not Elsewhere Classified？**
-- 不满足学历要求且无法通过认证者
-- 对严格注册流程和考试不适应者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a bachelor's or master's degree in engineering
+- Those looking to work in engineering R&D or management in Europe
+- Able to adapt to technological updates, continuous learner
+
+**Who is not suited**
+- Those who do not meet the education requirements and cannot pass credential assessment.
+- For those not suited to strict registration processes and exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for engineering professionals in Italy?**
+A: Junior approximately €28,000–€35,000, intermediate €35,000–€50,000, senior €50,000–€70,000, depending on industry and region.
+
+**Q: How can non-EU citizens immigrate to Italy for work?**
+A: Common pathways include the EU Blue Card (requiring high salary and qualifications) and the Decreto Flussi quota work visa (requiring employer sponsorship). A work permit (Nulla Osta) must be obtained first.
+
+**Q: Do engineering professionals need to be registered?**
+A: Yes, engaging in certain regulated engineering roles requires registration with the engineering association, passing a national exam, and holding a recognized qualification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Engineering Professional Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for engineering professionals in Italy?**
-答：Entry-level around €28,000-35,000, mid-level €35,000-50,000, senior €50,000-70,000 gross per year, depending on sector and location.
-
-**问：How can non-EU citizens immigrate to Italy for work?**
-答：Common paths include EU Blue Card (requires high salary and degree) and Decreto Flussi quota work visa (employer-sponsored). Nulla Osta work authorization is required first.
-
-**问：Do engineering professionals need registration?**
-答：Yes, for certain regulated roles, registration with the Order of Engineers is mandatory, requiring a national exam and recognized degree.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

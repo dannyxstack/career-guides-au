@@ -1,59 +1,92 @@
-# Electricians（Electricians）职业分析 · 美国
+# Electricians — career analysis · United States
 
-**职业代码：47-2111 – Electricians。**
+**Occupation code: 47-2111 (SOC)**
 
-Install, maintain, and repair electrical wiring, equipment, and fixtures, ensuring compliance with codes; may include street lights, intercoms, or control systems.
+Install, maintain, and repair electrical wiring, equipment, and fixtures, ensuring compliance with relevant codes, including street lights, intercom systems, and electrical control systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 学徒制（含在职培训与课堂学习） | 4-5年 | $1,000~$10,000（包括学费、工具和材料费） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Apprenticeship (includes on-the-job training and classroom learning) | 4-5 years | $1,000~$10,000 (Includes tuition, tools, and material costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电工执照 | 州或地方许可机构 | 必备 | 通过考试证明技能和知识，各州要求不同 |
-| 学徒结业证书 | 美国劳工部或州学徒机构 | 必备 | 完成注册学徒计划后颁发 |
-| 急救/心肺复苏认证 | 美国红十字会等 | 可选 | 许多雇主和执照要求 |
+| Electrician license | State or local licensing authority | Required | Prove skills and knowledge through exams, requirements vary by state |
+| Apprenticeship completion certificate | US Department of Labor or state apprenticeship agencies | Required | Issued after completing a registered apprenticeship program |
+| First aid/CPR certification | American Red Cross, etc. | Optional | Requires a license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 715,100。随着建筑行业增长和可再生能源系统普及，电工需求预计增长约8%（2022-2032年），特别是新建筑和现有设施升级领域。
+**Job demand: very high (★★★★½).** National workforce approx. 715,100. With growth in the construction industry and renewable energy systems, demand for electricians is expected to grow about 8% (2022-2032), especially in new construction and existing facility upgrades.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-4年） | $38,000~$52,000 | 学徒或新手电工 |
-| 中级（5-9年） | $54,000~$72,000 | 熟练电工 |
-| 高级（10年以上） | $72,000~$96,000 | 高级电工、领班或承包商 |
+| Median salary | $63,190 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-4 years) | $38,000~$52,000 | apprentice or entry-level electrician |
+| Intermediate (5-9 years) | $54,000~$72,000 | Skilled electrician |
+| Senior (10+ years) | $72,000~$96,000 | Senior electrician, foreman, or contractor |
+| average salary | $71,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从学徒到熟练电工，可晋升为领班、主管、项目经理，或通过继续教育成为电气工程师、电气检查员，也可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
+
+From apprentice to skilled electrician, can advance to foreman, supervisor, project manager, or through further education become an electrical engineer, electrical inspector, or start own business.
+
+**Tasks most exposed to AI:**
+
+- Manual preparation of wiring plans and material lists (AI can automatically optimize generation)
+- Basic electrical safety calculations (e.g., load calculations, wire sizing)
+- Standardized test recording and report writing
+- Remote diagnosis of simple faults (via AI vision and sensor data)
+
+**Where AI augments the role:**
+
+- Using AI tools to assist in designing complex electrical systems (e.g., PV array layout)
+- Using AI-enhanced augmented reality (AR) for concealed line location and installation guidance
+- Improve preventive maintenance efficiency with AI failure prediction systems
+- Automatic translation of technical documents and compliance requirements using AI for cross-language tasks
+
+**Human moat:**
+
+- On-site operational safety responsibilities and licensing legal requirements
+- Human judgment and emergency handling for complex fault diagnosis
+- Communication and compliance sign-offs with clients, contractors, and regulators
+- Practical hands-on ability in harsh environments (heights, confined spaces)
+
+**Skills to build:**
+
+- Integration of smart building systems (BMS, IoT)
+- Renewable energy system design (photovoltaic, energy storage)
+- Electrical Automation and PLC Programming Basics
+- Data analysis/fault prediction software use
+- Project management and cost estimation
+- Digital work platforms (e.g., SimPRO, ServiceM8)
+
+**Key growth areas:**
 
 - Renewable Energy
 - Smart Home
@@ -62,68 +95,67 @@ Install, maintain, and repair electrical wiring, equipment, and fixtures, ensuri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常需要学士学位或同等学历，电工可能通过管理或工程职位申请。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 适用于熟练电工，需PERM劳工证，排期较长。 |
-| Subclass TN（TN NAFTA Professional） | 加拿大或墨西哥公民可申请，但电工通常不符合专业职业要求。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Typically requires a bachelor's degree or equivalent; electricians may apply via management or engineering positions. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Applicable to skilled electricians, requires PERM labor certification, with long wait times. |
+| Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens may apply, but electricians usually do not meet the professional occupation requirements. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electricians？**
-- 喜欢动手操作、解决实际问题的人
-- 注重安全细节、能独立工作的人
-- 愿意持续学习、适应新技术的人
-
-**谁不适合学Electricians？**
-- 不喜欢高空或狭小空间作业的人
-- 对严格安全规程缺乏耐心的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving practical problems
+- People who are attentive to safety details and can work independently
+- People willing to continuously learn and adapt to new technologies.
+
+**Who is not suited**
+- People who dislike working at heights or in confined spaces
+- Those who are impatient with strict safety protocols
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an electrician?**
+A: The median annual salary for US electricians in 2023 was about $60,240, with experienced ones earning over $96,000.
+
+**Q: Can electricians immigrate to the US via skilled migration?**
+A: Yes, EB-3 skilled worker visa is a common path but requires employer sponsorship and PERM labor certification with long wait times. H-1B usually needs higher education.
+
+**Q: What certifications are needed to become an electrician?**
+A: Must obtain a state electrician license by passing an exam; also need to complete a registered apprenticeship (usually 4-5 years).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Electricians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for electricians?**
-答：The median annual wage for electricians was $60,240 in 2023, experienced earners can exceed $96,000.
-
-**问：Can electricians immigrate to the US under skilled migration?**
-答：Yes, EB-3 skilled worker visa is common, but requires employer sponsorship and PERM; H-1B typically needs a degree.
-
-**问：What certifications are needed to become an electrician?**
-答：Must obtain a state electrician license via exam and complete a registered apprenticeship (4-5 years).
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Other Language Teacher（Other Language Teacher）职业分析 · IE
+# Other Language Teacher — career analysis · Ireland
 
-**职业代码：2353 – Other Language Teacher。**
+**Occupation code: 2353 (ISCO08)**
 
-Other Language Teachers in Ireland teach foreign languages other than English, such as Chinese, French, or German, in language schools, universities, or private training centers. They require language teaching qualifications and native or near-native proficiency.
+Other language teachers in Ireland teach non-English foreign languages such as Chinese, French, German, etc., working in language schools, universities, or private training centres. They require language teaching qualifications and native or near-native language proficiency.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（荣誉学士） | $15,000~$25,000（欧盟学生学费约€5,000-10,000；非欧盟约€15,000-25,000/年） |
-| 硕士 | 1-2年 | $10,000~$20,000（教育学或应用语言学硕士，非欧盟学费€10,000-20,000/年） |
+| Bachelor's degree | 4 years (Honours Bachelor) | $15,000~$25,000 (EU student tuition: approximately €5,000-10,000; non-EU: approximately €15,000-25,000/year) |
+| Master's degree | 1-2 years | $10,000~$20,000 (Master's degree in Education or Applied Linguistics, non-EU tuition €10,000–20,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 语言教学资格证书（如CELTA、DELTA） | 剑桥大学英语考评部等 | 必备 | 教授英语作为外语的常用资格，但其他语言教学也受认可 |
-| 本科学位（相关语言或教育专业） | 爱尔兰或国际大学 | 必备 | 通常要求相关语言或教育学位 |
-| Teaching Council注册（公立学校） | 爱尔兰教学委员会 | 可选 | 在公立中小学任教必需，语言学校则非必须 |
+| Language teaching qualifications (e.g., CELTA, DELTA) | Cambridge Assessment English, etc. | Required | Common qualification for teaching English as a foreign language, but other language teaching is also recognised |
+| Bachelor's degree (relevant language or education major) | Irish or international universities | Required | Usually require a relevant language or education degree |
+| Teaching Council registration (public schools) | Teaching Council of Ireland | Optional | Required in public primary and secondary schools, not mandatory in language schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,000。随着全球化与移民增加，爱尔兰对外语教师的需求稳定，特别是中文、法语等热门语言。政府支持多语言教育，就业机会在语言学校和成人教育中增长。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,000. With globalization and increasing immigration, Ireland has a steady demand for foreign language teachers, especially in popular languages like Chinese and French. Government support for multilingual education means job opportunities are growing in language schools and adult education.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 语言学校或兼职教师 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验的教师或课程协调员 |
-| 高级（7年以上） | $45,000~$60,000 | 教育主管或大学讲师 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Language school or part-time teacher |
+| Mid-level (3–7 years) | $35,000~$45,000 | Experienced teacher or course coordinator |
+| Senior (7+ years) | $45,000~$60,000 | Education director or university lecturer |
+| average salary | $40,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 职业路径包括从兼职教师晋升为课程协调员或语言学校主管。继续深造如TESOL或应用语言学硕士可进入高等教育或开发教材。也有机会转向翻译或国际教育管理。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on language teachers is mixed: basic teaching tasks are easily replaced by automatic translation and language learning apps, but advanced interaction and assessment still require human judgment, necessitating a shift to higher-value teaching.
+
+Career paths include advancing from part-time teacher to course coordinator or language school director. Further study such as a TESOL or Applied Linguistics master's can lead to higher education or curriculum development. There are also opportunities to transition into translation or international education management.
+
+**Tasks most exposed to AI:**
+
+- Basic grammar and vocabulary instruction (AI-generated exercises and explanations)
+- Standard pronunciation demonstration (simulated by AI speech synthesis)
+- Simple Q&A and conversation practice (can be replaced by chatbots)
+- Standardized test grading (AI automated scoring)
+- Courseware development and textbook writing (AI-generated content)
+
+**Where AI augments the role:**
+
+- Personalized learning path design (AI analyzes student data to optimize courses)
+- Real-time translation assistance (AI tools improve classroom communication efficiency).
+- Cultural background expansion (AI quickly provides relevant resources)
+- Classroom interaction enhancement (AI interactive platforms increase engagement)
+- Effect evaluation and feedback (AI generates detailed learning reports).
+
+**Human moat:**
+
+- Cross-cultural explanation skills in non-native language teaching
+- Ability to emotionally communicate with and motivate students
+- Impromptu teaching interaction and flexible adjustment
+- Guidance on advanced language skills (e.g., literary translation)
+- Teaching language applications in professional fields (business, law)
+
+**Skills to build:**
+
+- AI language teaching tools (e.g., Duolingo for Schools management)
+- Data Analysis Interpretation Learning Report
+- Online course design and live streaming skills
+- Cross-cultural communication and conflict resolution
+- Specialized terminology teaching (e.g., medical French)
+- Blended teaching methodology integrating AI
+
+**Key growth areas:**
 
 - Multilingual education
 - Immigration
@@ -62,68 +98,67 @@ Other Language Teachers in Ireland teach foreign languages other than English, s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保，年薪不低于€30,000。语言教师通常符合条件。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能岗位，年薪门槛约€43,000（2025年），需相关学位。语言教师可能较难达到。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 仅适用于紧缺职业列表中的岗位，语言教师通常不在此列。 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary no less than €30,000. Language teachers usually meet the conditions. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, annual salary threshold approximately €43,000 (2025), requires relevant degree. Language teachers may find it difficult to meet. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only applies to occupations on the skilled occupation list; language teachers are typically not included. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Language Teacher？**
-- 热爱语言教学且具备母语或高级语言能力者
-- 适应灵活工作时间（如晚间或周末）的求职者
-- 有志于跨文化交流和教育领域发展的人士
-
-**谁不适合学Other Language Teacher？**
-- 追求高薪或稳定公务员待遇者
-- 不愿从事非全职或临时合同工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about language teaching with native or advanced language proficiency.
+- Job seekers who can adapt to flexible working hours (e.g., evenings or weekends)
+- Those aspiring to develop in cross-cultural communication and education fields
+
+**Who is not suited**
+- Those pursuing high salary or stable government positions
+- People unwilling to work part-time or temporary contract jobs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an Irish language teacher?**
+A: Annual salary for entry-level teachers is about €25,000-35,000, experienced ones can reach over €45,000, but some part-time positions have lower income.
+
+**Q: How can non-EU citizens immigrate to Ireland as language teachers?**
+A: Typically requires a General Employment Permit from the employer with salary of at least €30,000/year. EU Blue Card possible in some cases but with higher salary threshold.
+
+**Q: What are the career development paths for language teachers?**
+A: Can progress from part-time teacher to curriculum developer, language school manager, or pursue a master's degree to teach at a university or engage in education management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other Language Teacher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a language teacher in Ireland?**
-答：Entry-level teachers earn around €25,000-35,000, while experienced ones can exceed €45,000, though part-time roles may pay less.
-
-**问：How can non-EU citizens immigrate as a language teacher to Ireland?**
-答：Typically require a General Employment Permit with a job offer, salary at least €30,000. EU Blue Card is possible but requires a higher salary threshold.
-
-**问：What are career progression paths for language teachers?**
-答：They can progress from part-time teaching to curriculum development, school management, or pursue a master's to teach at university or enter education administration.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

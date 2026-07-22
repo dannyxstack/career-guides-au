@@ -1,60 +1,96 @@
-# Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers（Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers）职业分析 · ES
+# Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers — career analysis · Spain
 
-**职业代码：7618 – Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers。**
+**Occupation code: 7618 (CNO)**
 
-Process fibers, weave textiles or work with leather by hand or semi-automatically to create garments, carpets, tapestries and other traditional products, preserving Spain's artisanal heritage.
+By hand-processing fibers, weaving textiles or leather, and making traditional products such as clothing, carpets, and tapestries, Spain's handcrafted heritage is preserved.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年（FP Grado Medio） | —（公立学校免费，仅注册费） |
-| 高级职业教育（FP Grado Superior） | 2年（FP Grado Superior） | —（公立学校免费，材料费自理） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years (FP Grado Medio) | $0~$500 (Public schools are free, with only a registration fee) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$700 (Public schools are free; materials are self-paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织生产技工证书（FP Técnico en Producción de Tejidos） | 西班牙教育部 | 可选 | 通过FP Grado Medio获得，非强制但雇主偏好 |
-| 手工艺大师认证（Maestro Artesano） | 各自治区政府 | 可选 | 需多年经验及作品评审，提升信誉 |
+| Textile Production Technician Certificate (FP Técnico en Producción de Tejidos) | Spanish Ministry of Education | Optional | Available through FP Grado Medio, non-mandatory but employer-preference |
+| Master Craftsman Certification (Maestro Artesano) | Governments of all autonomous regions | Optional | Requires years of experience and judging to enhance credibility |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。西班牙手工纺织业受旅游纪念品和高端定制需求支撑，但大规模工业化冲击就业；年轻从业者减少，老龄化严重，岗位整体稳定但增长有限。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. Spain's handicraft textile industry is supported by demand for tourism souvenirs and high-end customization, but large-scale industrialization has hit employment; The number of young workers has decreased, aging is severe, and while job positions are generally stable, growth is limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $15,000~$18,000 | 学徒或助手，税前年薪 |
-| 中级（4-7年） | $18,000~$24,000 | 熟练工匠，税前年薪 |
-| 高级（8年以上） | $24,000~$30,000 | 高级工匠或工作室主理人，税前年薪 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $15,000~$18,000 | Apprentices or assistants, pre-tax annual salary |
+| Mid-level (4-7 years) | $18,000~$24,000 | Skilled craftsmen, annual salary before tax |
+| Senior (8+ years) | $24,000~$30,000 | Senior craftsman or studio manager, pre-tax annual salary |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可成长为高级工匠、工作室主管或自主创业开设手工作坊；部分人转向纺织品修复、设计或教学，也可通过进修进入时装或室内设计领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI can only partially automate traditional craftsmanship, but it will enhance design and marketing processes; Entry-level positions are moderately compressed by AI-assisted tools, while skilled in creativity and customization are actually more valuable.
+
+Able to grow into a senior craftsman, studio supervisor, or start a handicraft workshop on your own; Some people turn to textile restoration, design, or teaching, and can also enter fashion or interior design through further education.
+
+**Tasks most exposed to AI:**
+
+- Repeated fiber preparation and yarn finishing tasks
+- Standardized pattern weaving and knitting processes
+- Basic Quality Inspection (Visual/Tactile)
+- Simple material inventory recording and order processing
+- Basic design style generation (via AI templates)
+
+**Where AI augments the role:**
+
+- AI-assisted design tools are used to create complex patterns and customized solutions
+- Machine learning analyzes customer preferences and optimizes product styles
+- Automated equipment monitoring enhances production consistency and material utilization
+- Virtual reality (VR) displays works to enhance the customer experience
+- AI-driven supply chain management with real-time tracking of raw materials and orders
+
+**Human moat:**
+
+- Handcrafted customization and restoration of traditional techniques
+- Deep customer communication and personalized service capabilities
+- Complex creative design and artistic aesthetic judgment
+- Exquisite craftsmanship and mastery of material properties
+- Cultural heritage and brand storytelling
+
+**Skills to build:**
+
+- AI-assisted design software (such as Adobe Illustrator, CAD)
+- Digital marketing and social media management
+- Basic programming (Python for data analysis)
+- Knowledge of sustainable materials
+- Project Management (Interdisciplinary Collaboration)
+- Customer experience design and feedback analysis
+
+**Key growth areas:**
 
 - Artisan Revival
 - Slow Fashion
@@ -63,65 +99,67 @@ Process fibers, weave textiles or work with leather by hand or semi-automaticall
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta Ajena)） | 需获得西班牙雇主的工作合同，且职位需证明难以在本地填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留最多6个月寻找工作，但需具备足够经济能力。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | You must obtain a work contract from a Spanish employer, and the position must prove that it is difficult to fill locally. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for up to 6 months looking for work, but you must have sufficient financial means. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers？**
-- 热爱传统手工艺、耐心细致、注重细节的人
-- 希望自主创业、开设个人工作室的人
-- 对慢时尚和可持续生产有兴趣的人
+**Who is suited**
+- People who love traditional crafts, are patient and meticulous, and pay attention to detail
+- Those who wish to start their own businesses or establish personal studios
+- For those interested in slow fashion and sustainable production
 
-**谁不适合学Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers？**
-- 追求高薪及快速职业晋升的人
-- 不适应重复性手工劳动或对灰尘/纤维过敏的人
+**Who is not suited**
+- People seeking high salaries and rapid career advancement
+- People who are not suited to repetitive manual labor or allergic to dust/fiber
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for textile artisans in Spain?**
+A: Junior artisan annual salary around €15,000-18,000, intermediate around €18,000-24,000, senior around €30,000. Salary varies greatly by region, experience, and studio size.
+
+**Q: How can foreign artisans immigrate to Spain?**
+A: The main way is to obtain a job contract from a Spanish employer and pass the labor market test (Cuenta ajena). You can also try a job-seeking visa (Búsqueda de empleo). Since this occupation is not in urgent demand, applying for an EU Blue Card is more difficult.
+
+**Q: What educational qualifications are required to become a textile craftsman?**
+A: It is usually necessary to complete the FP Grado Medio textile production course (2 years), but many skills are acquired through apprenticeships. Senior craftsmen may hold an FP Grado Superior diploma.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Artisans In Textiles, Leather And Similar Materials, Fiber Preparers And Hand Loom Or Knitting Weavers And Related Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile artisans in Spain?**
-答：Entry-level artisans earn about €15,000-18,000 per year, mid-level €18,000-24,000, and senior artisans up to €30,000. Salary varies by region, experience, and workshop size.
-
-**问：How can foreign artisans immigrate to Spain?**
-答：The main route is obtaining a work contract from a Spanish employer and passing the labor market test (Cuenta ajena). A job-seeking visa (Búsqueda de empleo) is also possible. EU Blue Card is difficult as the occupation is not in shortage.
-
-**问：What education is needed to become a textile artisan?**
-答：Typically, completing a 2-year FP Grado Medio in textile production is helpful, but many skills are learned through apprenticeships. Senior artisans may hold a FP Grado Superior diploma.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

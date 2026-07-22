@@ -1,59 +1,94 @@
-# Medical Diagnostic Radiographer（Medical Diagnostic Radiographer）职业分析 · 新西兰
+# Medical Diagnostic Radiographer — career analysis · New Zealand
 
-**职业代码：251211 – Medical Diagnostic Radiographer。**
+**Occupation code: 251211 (ANZSCO)**
 
-Operates X-ray, CT, MRI, ultrasound and nuclear medicine equipment for diagnostic imaging. Listed on Green List Tier 1, eligible for direct residence, with stable demand.
+Operate X-ray, CT, MRI, ultrasound, and nuclear medicine equipment to provide images for diagnosis. Listed on New Zealand's Green List Tier 1, eligible for direct residence application, clear migration path, stable demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 4年 | $35,000~$45,000（每年学费，非居民） |
-| 研究生文凭 | 1年 | $35,000~$40,000（已有本科学位） |
+| Bachelor's degree | 4 years | $35,000~$45,000 (Annual tuition fee, non-resident) |
+| Graduate diploma | 1 year | $35,000~$40,000 (Already holds a bachelor's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学影像学士 | 奥克兰理工大学、奥塔哥大学等 | 必备 | 培养放射技师的核心课程 |
-| 新西兰医学辐射技术委员会注册 | Medical Radiation Technologists Board | 必备 | 必须完成注册才能执业 |
-| 英语语言考试（雅思） | IELTS | 必备 | 总分7.0，各单项不低于6.5 |
+| Bachelor of Medical Imaging | Auckland University of Technology, University of Otago, etc. | Required | Core courses for training radiologic technologists |
+| New Zealand Medical Radiation Technologists Board registration | Medical Radiation Technologists Board | Required | Must complete registration to practice |
+| English language test (IELTS) | IELTS | Required | Overall 7.0, no band below 6.5 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 2,800。新西兰放射技师长期短缺，老龄化人口增加影像需求，远程医疗和AI辅助提升效率。就业机会集中在公立医院和私营诊所，主要城市和偏远地区均有需求。
+**Job demand: very high (★★★★½).** National workforce approx. 2,800. New Zealand faces a long-term shortage of radiographers, with an aging population increasing imaging demand. Telemedicine and AI assistance enhance efficiency. Job opportunities are concentrated in public hospitals and private clinics, with demand in major cities and remote areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$75,000 | 注：公立医院起薪 |
-| 中级（4-7年） | $75,000~$95,000 | 有经验的技师 |
-| 高级（8年以上） | $95,000~$120,000 | 高级专科或管理岗 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$75,000 | Note: public hospital starting salary |
+| Mid-level (4-7 years) | $75,000~$95,000 | Experienced technician |
+| Senior (8+ years) | $95,000~$120,000 | Senior specialist or management positions |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从初级技师晋升为高级技师或专科影像师（如MRI、核医学），可担任科室主管或管理岗。持续教育可转向教学或研究，薪资随经验增长。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+Advancing from entry-level technician to senior technician or specialized imager (e.g., MRI, nuclear medicine), can become department supervisor or management. Continuing education can lead to teaching or research, with salary increasing with experience.
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Operates X-ray, CT, MRI, ultrasound and nuclear medicine equipment for diagnosti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接申请居留，无需先工作 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需6分（学历+工作经验等） |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，最长3年，可转后续居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Apply directly for residence, no need to work first |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration requires 6 points (education + work experience, etc.). |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, can transition to residence |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Diagnostic Radiographer？**
-- 喜欢医疗影像技术，具备动手操作能力
-- 有耐心和同理心，能安抚患者
-- 愿意学习新设备，适应技术更新
-
-**谁不适合学Medical Diagnostic Radiographer？**
-- 对辐射或医疗环境敏感
-- 缺乏细致和责任感
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Interested in medical imaging technology with hands-on skills
+- Patient and empathetic, able to soothe patients
+- Willing to learn new equipment, adapt to technological updates
+
+**Who is not suited**
+- Sensitive to radiation or medical environments
+- Lack of attention to detail and responsibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of radiologic technologists?**
+A: Entry-level approx. NZD 65,000–75,000, mid-level 75,000–95,000, senior 95,000–120,000; public hospital salaries are stable, private clinics may be higher.
+
+**Q: Is it easy for radiographers to immigrate to New Zealand?**
+A: Easy. This occupation is on the Green List Tier 1, can directly apply for resident visa, also eligible via SMC, and is in long-term shortage, making immigration less difficult.
+
+**Q: How to register overseas qualifications in New Zealand?**
+A: Requires assessment by the New Zealand Medical Radiation Technologists Board, may need supplementary courses or pass exams, and meet English language requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Medical Diagnostic Radiographer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for radiographers?**
-答：Entry-level NZD 65k-75k, mid-level NZD 75k-95k, senior NZD 95k-120k. Stable in public hospitals, higher in private clinics.
-
-**问：Is it easy for radiographers to migrate to New Zealand?**
-答：Yes. It's on Green List Tier 1, eligible for direct residence, also via SMC, with long-term shortage.
-
-**问：How to register with an overseas qualification?**
-答：Assessment by MRTB, possibly bridging courses or exams, plus English requirements.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

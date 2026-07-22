@@ -1,59 +1,92 @@
-# Service Specialist in Shipping（Service Specialist in Shipping）职业分析 · DE
+# Service Specialist in Shipping — career analysis · Germany
 
-**职业代码：5143 – Service Specialist in Shipping。**
+**Occupation code: 5143 (KldB)**
 
-Provides comprehensive passenger services such as catering, ticketing, and information on passenger ships and ferries, serving as a key onboard service team member.
+Provide comprehensive services such as catering, ticketing, and information to passengers on passenger ships or ferries; a core member of the onboard service team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（双元制培训期间有津贴，基本无学费） |
-| 短期专项培训 | 6-12个月 | $2,000~$8,000（针对已有服务经验者的转行培训） |
+| Dual vocational training | 3 years | $0~$5,000 (Allowances are provided during dual vocational training, with basically no tuition fees) |
+| Short-term specialized training | 6–12 months | $2,000~$8,000 (Transition training for those with prior service experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 船舶服务员职业资格证书 | 德国工商会（IHK） | 必备 | 完成双元制培训后获得，为行业准入资格 |
-| 急救证书 | 德国红十字会等认证机构 | 必备 | 需在培训期间或上岗前取得 |
-| 境外资质认证 | 德国联邦职业资格认证机构 | 可选 | 如果海外学历须经过Anerkennung评估 |
+| Ship Service Personnel Vocational Qualification Certificate | German Chamber of Commerce and Industry (IHK) | Required | Obtained after completing dual vocational training, a mandatory industry entry qualification |
+| First aid certificate | Accrediting bodies such as the German Red Cross | Required | Must be obtained during training or before starting work |
+| Overseas qualification recognition | German Federal Agency for Vocational Qualifications | Optional | If overseas qualifications require Anerkennung assessment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。德国水路客运市场稳定，内河与沿海旅游需求持续增长，相关服务岗位年均招聘量约200个，就业前景平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The German waterway passenger transport market is stable, with sustained growth in inland and coastal tourism demand; related service positions have an average annual recruitment volume of about 200, with stable employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含基本工资与补贴 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含绩效奖金与加班费 |
-| 高级（7年以上/主管） | $38,000~$48,000 | 税前年薪，含管理津贴与海上补贴 |
+| Median salary | $42,312 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including base salary and allowances |
+| Mid-level (3–7 years) | $30,000~$38,000 | Pre-tax annual salary, including performance bonuses and overtime pay |
+| Senior (7+ years/supervisor) | $38,000~$48,000 | Annual salary before tax, including management allowance and sea allowance |
+| average salary | $45,420 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从基层服务员晋升为领班、服务主管，再晋升至船上服务经理或岸上运营管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
+
+Can progress from entry-level steward to head waiter, service supervisor, and then to onboard service manager or shore-based operations management roles.
+
+**Tasks most exposed to AI:**
+
+- Standard sightseeing narration: AI voice guides provide multilingual, unbiased attraction introductions
+- Basic travel booking: online platforms and AI assistants automatically complete flight, hotel, and ticket bookings
+- Simple inquiry responses: chatbots handle common questions such as opening hours and directions.
+- Multilingual translation: real-time translation devices or apps replace some human translation needs
+
+**Where AI augments the role:**
+
+- Personalized itinerary design: AI analyzes tourist preference data to assist guides in creating unique routes
+- Real-time information integration: AR overlays historical info, weather, crowd data to enrich onsite commentary
+- Smart emergency support: AI quickly provides local emergency numbers, medical translation, route alternatives
+- Customer relationship management: AI records tourist feedback, helping guides optimize service details
+
+**Human moat:**
+
+- Deep cultural interpretation: ability to combine historical events, local legends with on-site context to evoke emotional resonance
+- Flexibility: handling emergencies (e.g., weather changes, tourist health issues) requires human judgment
+- Interpersonal interaction and trust: building emotional connections with visitors, handling sensitive topics and special needs
+- Non-standardized creativity: designing unique activities like themed experiences or interactive games that cannot be replicated by AI
+
+**Skills to build:**
+
+- Use of AI tour guide and planning tools (e.g., Tripadvisor, GetYourGuide backend)
+- Multicultural sensitivity and cross-cultural communication skills (especially for Chinese-speaking tourists)
+- Crisis management and first aid certification (e.g., Red Cross)
+- Content creation skills (producing personalized tour videos, social media marketing)
+- Data analysis basics (interpreting visitor preference data to optimise services)
+- Second language (e.g., French, Spanish) to enhance competitiveness
+
+**Key growth areas:**
 
 - Water Transport
 - Cruise Tourism
@@ -62,68 +95,67 @@ Provides comprehensive passenger services such as catering, ticketing, and infor
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（German Skilled Worker Visa） | 如果完成德国认可的职业培训，可申请技术移民签证 |
-| Subclass Chancenkarte | 基于积分制的机会卡，允许来德国找工作一年 |
-| Subclass EU Blue Card（EU Blue Card） | 薪资通常不达标，一般不适用 |
+| Subclass Skilled Worker (German Skilled Worker Visa) | If you complete a recognised vocational training in Germany, you can apply for a skilled migration visa |
+| Subclass Chancenkarte | A points-based opportunity card allowing one year to find work in Germany |
+| Subclass EU Blue Card (EU Blue Card) | Salaries usually not sufficient, generally not applicable |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Service Specialist in Shipping？**
-- 喜欢船上工作环境，能适应海上生活的人
-- 具备良好服务意识和沟通能力的人
-- 愿意接受双元制培训的年轻人
-
-**谁不适合学Service Specialist in Shipping？**
-- 容易晕船或对海上环境不适应的人
-- 追求高薪资和高技术含量工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working in a shipboard environment and can adapt to life at sea.
+- people with good service awareness and communication skills
+- Young people willing to undergo dual-system training
+
+**Who is not suited**
+- People prone to seasickness or uncomfortable with the marine environment
+- Those seeking high salary and high-tech work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a ship attendant in Germany?**
+A: Pre-tax annual salary for entry-level positions is approximately 24,000–30,000 EUR, increasing to 38,000–48,000 EUR with experience, depending on the shipping company and route.
+
+**Q: How can foreigners immigrate to Germany through the ship steward occupation?**
+A: The main pathway is completing German dual vocational training (Ausbildung), followed by a work visa upon graduation; alternatively, overseas qualifications can be certified to apply for a skilled migration visa.
+
+**Q: What promotion opportunities are there for Ship Servicers?**
+A: Can progress from service staff to head waiter, service supervisor, then to onboard service manager or shore-based operations manager.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Service Specialist in Shipping的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a service specialist in shipping in Germany?**
-答：Entry-level positions offer a gross annual salary of around €24,000-30,000, rising to €38,000-48,000 with experience, depending on the shipping company and route.
-
-**问：How can foreigners immigrate to Germany through the shipping service specialist occupation?**
-答：The main path is to complete German dual vocational training (Ausbildung), then obtain a skilled worker visa; alternatively, foreign qualifications can be recognized to apply for a skilled migration visa.
-
-**问：What career advancement opportunities exist for shipping service specialists?**
-答：You can advance from service staff to shift leader, service supervisor, and further to onboard service manager or shore-based operations management roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

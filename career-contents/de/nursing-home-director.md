@@ -1,61 +1,97 @@
-# Nursing Home Director（Nursing Home Director）职业分析 · DE
+# Nursing Home Director — career analysis · Germany
 
-**职业代码：8219 – Nursing Home Director。**
+**Occupation code: 8219 (KldB)**
 
-Oversees the overall management of nursing homes, including care quality, staff scheduling, budget control, and resident welfare, ensuring compliance with German care standards.
+Responsible for overall operations management of a nursing home, including care quality, staff scheduling, budget control, and resident care, ensuring compliance with German care standards.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 护理管理硕士 | 2年（全日制） | —（公立大学基本免学费，仅收注册费） |
-| 养老院主管进修培训 | 1-2年（在职） | $5,000~$15,000（由德国护理协会等机构提供） |
+| Master of Nursing Management | 2 years (full-time) | $0~$15,000 (Public universities are essentially tuition-free, only charging registration fees) |
+| Professional development training for nursing home managers | 1-2 years (on-the-job) | $5,000~$15,000 (Provided by organizations such as the German Nursing Association) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理主管资质认证 | 德国联邦护理协会 | 必备 | 需完成进修课程并通过考试 |
-| 护理学士或硕士学位 | 德国大学 | 必备 | 护理学或健康管理专业 |
-| 资质认证（国际学历） | 德国护理认证机构 | 可选 | 非欧盟学历需通过等同性认证 |
+| Nursing supervisor qualification certification | German Federal Nursing Association | Required | Must complete refresher courses and pass exams |
+| Bachelor's or Master's degree in nursing | German university | Required | nursing or health management major |
+| Qualification accreditation (international credentials) | German nursing certification body. | Optional | Non-EU qualifications require equivalency certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。德国老龄化加剧，养老院管理岗位需求持续增长。联邦劳工局预计2023-2028年该领域就业增长约10%。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Germany's aging population is intensifying, with growing demand for nursing home management positions. The Federal Employment Agency expects employment growth of about 10% in this field from 2023 to 2028.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 小型养老院或副主管 |
-| 中级（3-7年） | $55,000~$70,000 | 中型养老院主管 |
-| 高级（7年以上） | $70,000~$90,000 | 大型养老院或区域总监 |
+| Median salary | $47,988 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Small Nursing Home or Deputy Manager |
+| Mid-level (3–7 years) | $55,000~$70,000 | Medium-sized nursing home supervisor |
+| Senior (7+ years) | $70,000~$90,000 | Large nursing home or regional director |
+| average salary | $48,756 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从护理主管晋升至养老院院长，进一步可担任区域护理管理总监或养老集团运营总监。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The administrative and data management work of a nursing home director is easily automated by AI, but core human care, team leadership, and quality management still require human leadership, presenting both risks and opportunities.
+
+Can advance from nursing supervisor to nursing home director, and further to regional care management director or operations director of a eldercare group.
+
+**Tasks most exposed to AI:**
+
+- Employee scheduling and attendance statistics are automatically generated.
+- Automated budget accounting and financial reporting processing
+- Resident health data entry and basic analysis
+- Template-based filling and archiving of compliance documents
+- Regular inventory counting and replenishment notifications.
+
+**Where AI augments the role:**
+
+- AI-assisted forecasting of nursing needs optimizes staff scheduling
+- Real-time Smart Surveillance Alerts for Falls and Abnormal Behaviour
+- Data-driven customization of personalized care plans for residents
+- AI chatbots answer common family questions, reducing communication burden
+- Personalized training content recommendations to improve employee skill matching
+
+**Human moat:**
+
+- Build emotional trust and empathy with residents and their families
+- Handling nursing disputes and emergency ethical decisions
+- Evaluate and optimize overall nursing service quality
+- Cross-departmental coordination and team morale motivation.
+- Handling regulatory inspections and designing personalized care plans
+
+**Skills to build:**
+
+- Basic data analysis and visualization (Python/Excel)
+- Operation of digital management systems for nursing homes (e.g., electronic health records)
+- Application of AI tools in nursing demand forecasting
+- Leadership and change management
+- German nursing regulations and ethical decision-making skills
+- Improve basic German proficiency
+
+**Key growth areas:**
 
 - Aging population
 - Care management
@@ -64,69 +100,68 @@ Oversees the overall management of nursing homes, including care quality, staff 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪不低于43,800欧元（2024年）的管理岗位，需有认可的学位。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有职业资质认证的护理管理人员，需获得德国雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，适用于有资质的求职者，可进入德国找雇主。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to management positions with an annual salary of no less than €43,800 (2024) and requiring a recognized degree. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to nursing managers with professional qualification certification, requires sponsorship from a German employer. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based system applicable to qualified job seekers to find employers in Germany. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing Home Director？**
-- 有护理背景并希望转向管理的人
-- 有领导力和组织能力的护理专业人员
-- 愿意在养老行业长期发展的人
-
-**谁不适合学Nursing Home Director？**
-- 不喜欢行政和预算工作的人
-- 缺乏耐心和人际沟通能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a nursing background looking to transition into management
+- Nursing professionals with leadership and organizational skills
+- People willing to commit long-term to the aged care industry.
+
+**Who is not suited**
+- People who dislike administrative and budget work
+- People lacking patience and interpersonal communication skills.
+
+---
+
+## 8. FAQ
+
+**Q: Does the salary of a nursing home director include bonuses?**
+A: Usually includes performance bonus, approximately 5-10% of annual salary.
+
+**Q: How can I get my qualifications assessed as a non-EU applicant?**
+A: Need to pass the qualification recognition process of the German nursing certification body (e.g., DKG), which usually takes 6-12 months.
+
+**Q: Is there room for advancement for aged care home managers?**
+A: Yes, can advance to regional care director or operations vice president of aged care groups.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Nursing Home Director为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Does the salary of a nursing home director include bonuses?**
-答：Usually includes performance bonuses, about 5-10% of annual salary.
-
-**问：As a non-EU applicant, how do I get my qualification recognized?**
-答：You need to go through the recognition process by German nursing authorities (e.g., DKG), usually taking 6-12 months.
-
-**问：Is there career advancement for nursing home directors?**
-答：Yes, you can advance to regional care director or vice president of operations in a care group.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

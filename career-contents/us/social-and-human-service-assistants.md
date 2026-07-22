@@ -1,58 +1,93 @@
-# Social and Human Service Assistants（Social and Human Service Assistants）职业分析 · 美国
+# Social and Human Service Assistants — career analysis · United States
 
-**职业代码：21-1093 – Social and Human Service Assistants。**
+**Occupation code: 21-1093 (SOC)**
 
-Assist social workers, psychologists, and other providers in delivering client services, including benefits navigation and community resource coordination to support individuals and families.
+Assist professionals such as social workers and psychologists in welfare applications, community resource coordination, and supporting the social functioning of families and individuals.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费，含书籍费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学州内学费，不含生活费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition, including books) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (In-state tuition at public universities, excluding living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 社会工作或相关领域学位 | 认证学院或大学 | 可选 | 许多雇主要求副学士或学士学位 |
-| 认证社会服务助理 | 国家社会工作者协会（NASW） | 可选 | 自愿认证，可提升就业竞争力 |
+| Degree in social work or related field | Accredited college or university | Optional | Many employers require an associate or bachelor's degree |
+| Certified social service assistant. | National Association of Social Workers (NASW) | Optional | Voluntary certification can enhance employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 425,000。美国劳工统计局预计2023-2033年就业增长约9%，快于平均水平。老龄化社会、心理健康需求增加推动了岗位需求，尤其在社区服务中心和儿童福利机构。
+**Job demand: high (★★★★☆).** National workforce approx. 425,000. The U.S. Bureau of Labor Statistics projects employment growth of about 9% from 2023 to 2033, faster than average. An aging society and increased mental health needs are driving demand, particularly in community service centers and child welfare agencies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 社区机构入门级 |
-| 中级（3-7年） | $40,000~$52,000 | 具有经验，可能在政府机构 |
-| 高级（7年以上） | $50,000~$65,000 | 主管或项目管理角色 |
+| Median salary | $45,930 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$40,000 | Entry-level community positions |
+| Mid-level (3–7 years) | $40,000~$52,000 | Experienced, may work in government agencies |
+| Senior (7+ years) | $50,000~$65,000 | Supervisor or project management role |
+| average salary | $47,690 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★½☆）。** 初级助理可通过在职培训和经验积累晋升为个案管理员或社会服务协调员。部分人继续攻读社会工作硕士学位，成为持证社会工作者，薪资大幅提升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
+
+Entry-level assistants can advance to case manager or social services coordinator through on-the-job training and experience. Some pursue a Master of Social Work to become licensed social workers, significantly increasing salary.
+
+**Tasks most exposed to AI:**
+
+- Automated case recording and report writing
+- Preliminary client information collection and filing
+- Resource database query and matching
+- Distribution and collation of standardized assessment questionnaires
+- Appointment scheduling and reminder notifications
+
+**Where AI augments the role:**
+
+- AI provides real-time translation to assist communication with non-native speaking clients
+- Predictive analytics helps identify high-risk cases.
+- Emotion recognition tools assist remote psychological counseling
+- Automatically generate multilingual service guides and promotional materials
+- Virtual reality simulation for training crisis intervention skills
+
+**Human moat:**
+
+- Building Trust and Empathic Communication Face-to-Face
+- Handling complex ethical dilemmas and value conflicts
+- Cross-system coordination and advocacy
+- Make comprehensive judgments in dynamic, unpredictable environments
+
+**Skills to build:**
+
+- AI-assisted clinical decision support tool operation
+- Basics of data analysis and statistical modeling
+- Digital mental health platform usage
+- Ethics and privacy protection (especially in AI application scenarios)
+- Cross-cultural communication and diverse service capabilities
+- Project management and multi-agency collaboration
+
+**Key growth areas:**
 
 - Aging population
 - Mental health demand
@@ -61,67 +96,66 @@ Assist social workers, psychologists, and other providers in delivering client s
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于要求本科学位的职位，但社会服务助理通常不满足专业职位要求，H-1B获批较少。 |
-| Subclass EB-3（EB-3 Skilled Worker/Professional） | 需PERM劳工证，适合有学士学位或2年以上经验的申请人，但雇主担保难度中等。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Commonly required for positions needing a bachelor's degree, but social service assistants usually do not meet professional role requirements, and H-1B approvals are rare. |
+| Subclass EB-3 (EB-3 Skilled Worker/Professional) | PERM labor certification required, suitable for applicants with a bachelor's degree or 2+ years of experience, but employer sponsorship is moderately difficult. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Social and Human Service Assistants？**
-- 有耐心和同理心，乐于帮助弱势群体
-- 具备良好的沟通和协调能力
-- 希望在社区服务或心理健康领域入门
-
-**谁不适合学Social and Human Service Assistants？**
-- 追求高薪和快速晋升
-- 不喜欢处理繁琐的文书和行政工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, willing to help vulnerable groups
+- Good communication and coordination skills
+- Seeking entry into community services or mental health
+
+**Who is not suited**
+- Seeking high salary and fast promotion
+- Dislike dealing with tedious paperwork and administrative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for Social and Human Services Assistants?**
+A: Starting salary around $32,000-$40,000 per year, median around $40,000. Low ceiling; senior positions about $50,000-$65,000. Pay varies by region and employer type (e.g., government, non-profit).
+
+**Q: Is this occupation eligible for skilled migration to Australia?**
+A: Not straightforward. The role typically doesn't meet H-1B specialty occupation requirements; EB-3 green card needs PERM labor certification, employer must prove inability to hire qualified Americans. However, due to high demand, some large institutions may offer sponsorship.
+
+**Q: What are the career development paths?**
+A: Common path: social service assistant → case manager → social service project manager. Or pursue a Master's degree to become a licensed clinical social worker (LCSW), significantly improving salary and position.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Social and Human Service Assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Social and Human Service Assistants?**
-答：Entry-level annual salary is around $32,000-$40,000, median about $40,000. Senior roles may reach $50,000-$65,000, depending on location and employer type.
-
-**问：Is this occupation easy for skilled migration to the US?**
-答：Not straightforward. The role often doesn't meet H-1B specialty occupation criteria. EB-3 green card requires PERM labor certification, and employers must demonstrate shortage. However, demand is high in some settings.
-
-**问：What are the career advancement paths?**
-答：Typical path: assistant → case manager → program manager. Alternatively, pursue a master's degree to become a licensed clinical social worker (LCSW) for significant salary and role improvement.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

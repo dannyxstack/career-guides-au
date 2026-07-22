@@ -1,61 +1,96 @@
-# Scaffolder（Scaffolder）职业分析 · DE
+# Scaffolder — career analysis · Germany
 
-**职业代码：3216 – Scaffolder。**
+**Occupation code: 3216 (KldB)**
 
-Scaffolders assemble and dismantle temporary scaffolding structures for construction, industrial, and event sites, ensuring safety and efficiency. The role requires physical strength, teamwork, and safety awareness, with steady demand in Germany's construction sector.
+Scaffolders erect and dismantle temporary scaffold structures for construction, industrial, and event sites, ensuring safety and efficiency. This occupation requires physical strength, teamwork, and safety awareness, with stable demand in the German construction industry.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有工资，通常无需学费） |
-| 职业预备培训（若需） | 1年 | —（部分州免费或收取少量材料费） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Paid during training, usually no tuition fees) |
+| Pre-employment training (if required) | 1 year | $0~$500 (Free or with a small material fee in some states) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 脚手架工职业资格证书 | 德国工商业行会（IHK）或手工业行会（HWK） | 必备 | 完成双元制培训并通过结业考试 |
-| 安全培训证书 | 德国法定事故保险机构（BG Bau） | 必备 | 定期更新，如高空作业安全培训 |
-| 国外资质认证（Anerkennung） | 德国联邦职业教育与培训研究所（BIBB）或IHK | 可选 | 第三国移民需通过资质认证程序 |
+| Scaffolder qualification certificate | German Chamber of Industry and Commerce (IHK) or Chamber of Crafts (HWK) | Required | Complete dual vocational training and pass the final exam. |
+| Safety training certificate | German statutory accident insurance institution (BG Bau) | Required | Regular updates, such as working at height safety training. |
+| Overseas qualification recognition (Anerkennung) | German Federal Institute for Vocational Education and Training (BIBB) or IHK | Optional | Third-country nationals must undergo qualification recognition procedures |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 50,000。德国建筑行业持续繁荣，老旧建筑翻新和可再生能源项目（如风力涡轮机）推动脚手架工需求。联邦劳工局数据显示该职业常年紧缺，尤其缺乏熟练工。未来十年就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 50,000. Germany's construction industry continues to boom, with old building renovations and renewable energy projects (e.g., wind turbines) driving demand for scaffolders. Federal Labor Office data shows chronic shortages, especially of skilled workers. Employment prospects are good for the next decade.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，根据联邦薪资数据 |
-| 中级（4-7年） | $36,000~$45,000 | 税前年薪，包含加班和补贴 |
-| 高级（8年以上/工头） | $46,000~$55,000 | 税前年薪，管理岗位更高 |
+| Median salary | $43,668 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, based on federal salary data |
+| Mid-level (4-7 years) | $36,000~$45,000 | Pre-tax annual salary, including overtime and allowances |
+| Senior (8+ years/foreman) | $46,000~$55,000 | Pre-tax annual salary, higher for management positions |
+| average salary | $46,536 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业晋升路径包括：从助手到熟练脚手架工，再晋升为工头（Vorarbeiter）或现场主管（Baustellenleiter）。通过继续教育可成为结构技术员或安全专家，也可自主创业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Although scaffolding requires physical labor and on-site work, AI-driven design optimization, safety monitoring, and material management will significantly improve efficiency and safety, overall risk is manageable, the job evolves rather than disappears.
+
+Career progression paths include: from assistant to skilled scaffolder, then to foreman (Vorarbeiter) or site supervisor (Baustellenleiter). Further education can lead to structural technician or safety specialist roles, or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Scaffold structure calculation and drawing: AI algorithm automatically generates optimal erection plan
+- On-site safety inspection: AI cameras monitor unsafe operations and structural deformation in real time
+- Material demand forecasting and inventory management: AI analyzes historical data to optimize procurement
+- Compliance document generation: AI automatically fills in safety checklists and reports
+
+**Where AI augments the role:**
+
+- Custom Scaffolding Design for Complex Terrain or Special Building Shapes
+- Real-time adjustment decisions for sudden weather or structural changes
+- Coordinate and communicate with construction parties, supervisors, etc.
+- Monitor AI safety systems and handle abnormal alerts
+- Manually adjust fine connection points to ensure stability
+
+**Human moat:**
+
+- High-intensity physical work and adaptability
+- Experience-based judgment for non-standard issues in working at heights
+- Teamwork and on-site real-time communication
+- Intuitive understanding of material physical properties
+- Responsibility and vigilance in executing safety regulations
+
+**Skills to build:**
+
+- Basic BIM software operations (e.g., Revit, Tekla)
+- Drone operation and image analysis
+- Data interpretation of smart safety systems (wearable devices, sensors)
+- Basic data analysis (Excel, Python)
+- Knowledge of sustainable materials and modular design
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Renewable energy
 - Building renovation
@@ -64,69 +99,68 @@ Scaffolders assemble and dismantle temporary scaffolding structures for construc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)） | 适用于完成双元制培训或拥有学历认证的熟练工人，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，允许在德国寻找工作一年 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德停留6个月寻找合适工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers who have completed dual vocational training or have recognized qualifications, requiring employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa allowing one year to find work in Germany. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for up to 6 months to find suitable employment; must demonstrate financial means |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Scaffolder？**
-- 身体健康、不恐高、喜欢户外工作的人
-- 有动手能力和团队合作精神者
-- 愿意通过职业教育获得技能且追求稳定就业者
-
-**谁不适合学Scaffolder？**
-- 有严重恐高症或身体条件不佳者
-- 偏好办公室工作或无需体力劳动的职业
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Healthy, not afraid of heights, and enjoys outdoor work
+- Those with hands-on ability and teamwork spirit
+- Those willing to gain skills through vocational education and seek stable employment
+
+**Who is not suited**
+- Those with severe acrophobia or poor physical condition.
+- Prefer office-based or non-physically demanding occupations
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a scaffolder in Germany?**
+A: Entry-level scaffolder: approx. EUR 28,000-35,000 per year; experienced: up to EUR 46,000+; foreman/supervisor: up to EUR 55,000. Varies by region, company, and experience.
+
+**Q: Can foreigners immigrate to Germany as scaffolders?**
+A: Yes, but requires dual vocational training or certification. EU citizens can work directly; third-country nationals need employer sponsorship for a skilled migration visa, or can first enter with an opportunity card/job seeker visa.
+
+**Q: What career development opportunities are there for scaffolders?**
+A: After gaining proficiency, you can pursue further education to become a foreman, site supervisor, structural technician, or safety specialist; you can also start your own business after accumulating experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Scaffolder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a scaffolder in Germany?**
-答：Entry-level scaffolders earn around €28,000-35,000 gross per year, experienced ones up to €46,000, and foremen/supervisors over €55,000. Salaries vary by region, company, and experience.
-
-**问：Can foreigners immigrate to Germany as a scaffolder?**
-答：Yes, but require completed vocational training or recognition of foreign qualifications. EU citizens work freely; third-country nationals need a job offer for a skilled worker visa, or can use the Opportunity Card or Job Seeker Visa first.
-
-**问：What career development opportunities are there for scaffolders?**
-答：After experience, one can become a foreman, site supervisor, structural technician, or safety expert, or start their own business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

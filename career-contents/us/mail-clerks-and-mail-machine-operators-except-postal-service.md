@@ -1,60 +1,94 @@
-# Mail Clerks and Mail Machine Operators, Except Postal Service（Mail Clerks and Mail Machine Operators, Except Postal Service）职业分析 · 美国
+# Mail Clerks and Mail Machine Operators, Except Postal Service — career analysis · United States
 
-**职业代码：43-9051 – Mail Clerks and Mail Machine Operators, Except Postal Service。**
+**Occupation code: 43-9051 (SOC)**
 
-Prepare incoming and outgoing mail for distribution, including stamping, sorting, packing, and affixing postage, while maintaining necessary records.
+Responsible for handling internal and external mail, including stamping, sorting, packaging, affixing stamps, and maintaining related records.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无固定年限 | —（通常高中文凭即可，无需高等教育） |
-| 在职培训 | 短期 | —（多数雇主提供在职培训，成本极低） |
+| High school graduation or equivalent | No fixed duration | $0~$0 (Usually a high school diploma is sufficient; no higher education required) |
+| On-the-job training | Short-term | $0~$500 (Most employers provide on-the-job training, very low cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 最低教育要求 |
-| 在职培训 | 雇主 | 可选 | 通常需要几周的短期培训 |
+| High school diploma or equivalent | High school | Required | minimum education requirement |
+| On-the-job training | Employer | Optional | Usually requires a few weeks of short-term training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 71,300。据BLS预测，该职业2022-2032年就业将下降约7%，主要因为电子邮件和数字通信的普及减少了对传统邮件处理的需求。但物流和电商领域仍有一定需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 71,300. According to BLS projections, this occupation is expected to decline by about 7% from 2022 to 2032, mainly due to the prevalence of email and digital communications reducing demand for traditional mail processing. However, there is still some demand in logistics and e-commerce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 入门级薪资接近最低工资标准 |
-| 中级（3-5年） | $30,000~$36,000 | 有经验者可获得稍高薪资 |
-| 高级（5年以上） | $36,000~$43,000 | 主管或资深操作员可达此水平 |
+| Median salary | $39,280 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Entry-level salary near minimum wage |
+| Mid-level (3–5 years) | $30,000~$36,000 | Experienced workers may get slightly higher pay |
+| Senior (5+ years) | $36,000~$43,000 | Supervisor or senior operator can reach this level |
+| average salary | $41,650 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从邮件助理开始，积累经验后可能晋升为邮件中心主管或行政支持经理。部分企业提供内部培训，可转向办公室行政或后勤管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Mail clerk and mailing machine operator positions are being rapidly compressed by AI and automation; routine sorting, labeling, recording tasks can be replaced, entry-level positions greatly reduced, but some supervision and exception handling still require humans.
+
+Usually start as mail assistants, and with experience may advance to mail center supervisor or administrative support manager. Some companies offer internal training, can transition to office administration or logistics management.
+
+**Tasks most exposed to AI:**
+
+- Automatically sort letters and parcels
+- Automatic stamping, postmarking, and labeling
+- Automatically weigh and calculate postage
+- Automatically record package tracking information and update the system
+- Automatically route emails to appropriate departments or addresses based on preset rules
+
+**Where AI augments the role:**
+
+- Using AI-assisted monitoring to manage the operational status of mail processing equipment
+- Use data analysis to optimise mail processing workflow
+- Quickly query delivery anomalies and devise solutions using AI tools
+- Use smart systems to manage incoming and outgoing mail records and generate reports
+
+**Human moat:**
+
+- Handling complex or special packaging mail
+- Resolving machine malfunctions and abnormal delivery issues
+- Communicating with customers to confirm special delivery instructions
+- oversee automated systems and make non-routine decisions
+
+**Skills to build:**
+
+- Mail processing equipment operation and maintenance
+- Automated system monitoring and fault troubleshooting
+- Basic Excel or database skills
+- Customer service and communication skills
+- Data entry and system management
+- Basic English literacy
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,65 +97,67 @@ Prepare incoming and outgoing mail for distribution, including stamping, sorting
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 该职业通常不符合专业职位要求，极少获得H-1B担保 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (EB-3)） | 仅极少数雇主愿意担保，需证明无法找到美国工人，实际操作困难 |
+| Subclass H-1B (H-1B Specialty Occupations) | This occupation typically does not meet professional position requirements and rarely receives H-1B sponsorship |
+| Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Only very few employers are willing to sponsor, need to prove inability to find US workers, practically difficult |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mail Clerks and Mail Machine Operators, Except Postal Service？**
-- 注重细节、有条理的人
-- 希望在办公室环境中从事简单重复工作的人
-- 寻求无需高等教育即可就业的人
+**Who is suited**
+- Detail-oriented, organized person
+- People who want to do simple, repetitive work in an office environment
+- Seeking people who can work without needing higher education
 
-**谁不适合学Mail Clerks and Mail Machine Operators, Except Postal Service？**
-- 期望高薪资和职业发展空间的人
-- 希望从事对技术和沟通能力要求较高工作的人
+**Who is not suited**
+- People expecting high salary and career growth
+- People who want jobs requiring strong technical and communication skills
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a mail clerk?**
+A: According to US Bureau of Labor Statistics (BLS) 2023 data, the average annual salary is about $33,000, but actual range is between $24,000 and $43,000, depending on experience and location.
+
+**Q: As a mail clerk, can I apply for a US work visa?**
+A: Very difficult. This occupation is entry-level non-professional work; usually does not meet H-1B professional requirements; employer-sponsored green card is also extremely uncommon as PERM requires proof that no US workers are available.
+
+**Q: What are the promotion opportunities for mail clerks?**
+A: Career progression includes mail center supervisor, administrative assistant, or office manager. Some transition to logistics or warehouse management roles through experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | very low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 非常容易（★☆☆☆☆） |
-| 考证难度 | 无要求（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★½） |
-
-Mail Clerks and Mail Machine Operators, Except Postal Service属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mail clerks and mail machine operators?**
-答：According to BLS 2023 data, the average annual salary is about $33,000, with a range of $24,000 to $43,000 depending on experience and location.
-
-**问：Can mail clerks apply for a US work visa?**
-答：It is extremely difficult. This occupation is entry-level and non-specialized, typically not qualifying for H-1B; employer-sponsored green cards are rare due to PERM requirements.
-
-**问：What are the advancement opportunities for mail clerks?**
-答：Possible paths include mail center supervisor, administrative assistant, or office manager. Some transition to logistics or warehouse management with experience.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

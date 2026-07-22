@@ -1,62 +1,98 @@
-# Stage Director of Live Performances（Stage Director of Live Performances）职业分析 · FR
+# Stage Director of Live Performances — career analysis · France
 
-**职业代码：L1301 – Stage Director of Live Performances。**
+**Occupation code: L1301 (ROME)**
 
-Responsible for the artistic vision and overall production of live performances such as theater, opera, and dance, directing actors and teams to realize the creative concept.
+Responsible for artistic conception and overall production of live performances such as drama, opera, and dance, guiding actors and teams to realize their vision for performances.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士学位 | 2年（Master） | $3,000~$12,000（公立大学学费低，私立戏剧学院学费较高（如CNSAD）。） |
-| 本科或同等学历 | 3年（Licence） | $200~$8,000（公立大学约200欧/年，私立艺术院校6000-8000欧/年。） |
-| 学徒制 | 1-3年（Apprentissage） | —（公司承担学费，学徒获得工资，需找到签约剧院或制作公司。） |
+| Master's degree | 2 years (Master) | $3,000~$12,000 (Public universities have lower tuition, while private drama academies charge higher tuition (such as CNSAD).) |
+| Bachelor's degree or equivalent qualification | 3 years (Licence) | $200~$8,000 (Public universities approximately EUR 200/year, private art schools EUR 6,000-8,000/year.) |
+| Apprenticeship | 1-3 years (Apprentissage) | $0~$0 (The company covers tuition, apprentices receive wages, and they need to find contracted theaters or production companies.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞台导演文凭 | 国立高等戏剧艺术学院（CNSAD） | 可选 | 法国顶级戏剧院校颁发，行业认可度高，非强制但重要。 |
-| 法国国家文凭（DNSPC） | 文化部认可的高等艺术院校 | 可选 | 戏剧或表演艺术方向国家文凭，证明专业水准。 |
-| 专业经验认可 | 法国就业局或行业协会 | 可选 | 通过长期项目经验可替代学历，用于申请工作居留。 |
+| Diploma in stage directing | National Academy of Dramatic Arts (CNSAD) | Optional | Awarded by France's top drama schools, highly recognized by the industry, not mandatory but important. |
+| French National Diploma (DNSPC) | A higher art institution recognized by the Ministry of Culture | Optional | A national diploma in drama or performing arts, certifying professional standards. |
+| Professional experience is recognized | The French Employment Agency or industry associations | Optional | Long-term project experience can be used as a substitute for academic qualifications to apply for work residence. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★½☆☆☆）。** 全国从业人数约 4,200。法国文化演出市场活跃，但岗位竞争激烈，自由职业者居多。疫情后演出行业复苏，数字化与沉浸式演出带来新机会，但长期就业仍依赖项目制。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,200. The French cultural performance market is active, but competition for positions is fierce, with many freelancers. Post-pandemic, the performance industry has recovered, and digitalization and immersive performances have brought new opportunities, but long-term employment still relies on project-based employment.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 自由职业者按项目收费，年收入不稳定。 |
-| 中级（3-10年） | $30,000~$45,000 | 与剧院或制作公司签约，月薪约2500-3700欧。 |
-| 高级（10年以上） | $50,000~$80,000 | 知名导演或大型演出项目，年收入可达5万欧以上。 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$28,000 | Freelancers charge per project, and their annual income is unstable. |
+| Intermediate (3-10 years) | $30,000~$45,000 | Contracts with theaters or production companies offer monthly salaries of about 2,500-3,700 euros. |
+| Senior (10+ years) | $50,000~$80,000 | For renowned directors or large-scale performance projects, annual income can exceed EUR 50,000. |
+| average salary | $40,324 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径通常从助理导演或舞台监督起步，积累项目经验后独立执导小型作品，逐步晋升至大型剧院或节庆活动的首席导演。部分转向电影或电视导演。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core creativity, personnel coordination, and artistic integration capabilities of live stage directors are difficult for AI to replace, but AI greatly improves efficiency in scene visualization and rehearsal assistance, while lower-level tasks such as subtitle management may be automated.
+
+The career path typically starts as an assistant director or stage manager, then independently directs small productions after gaining project experience, gradually rising to chief director of large theaters or festival events. Some turned to film or television directors.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary 3D visualizations of the stage scene
+- Real-time subtitle and translation generation
+- Automated management of performance scheduling and resource scheduling
+- Basic programming and synchronization control of lighting and sound effects
+- Automatic collection of audience feedback and sentiment analysis
+
+**Where AI augments the role:**
+
+- AI-assisted generation of various stage design options for directors to decide
+- Use AI to analyze actors' rehearsal videos and provide suggestions for performance improvement
+- Quickly generate performance notes and script analysis with the help of natural language processing
+- AI monitors performance equipment status in real time to prevent technical failures
+- AI simulates different audience reactions to optimize the rhythm and effectiveness of performances
+
+**Human moat:**
+
+- Originality of artistic vision and overall narrative mastery
+- Deep emotional communication and encouragement with actors and designers
+- Immediate judgment and creative resolution of on-site emergencies
+- Cross-departmental coordination and team culture building
+- A keen insight into social and cultural trends and artistic reflection
+
+**Skills to build:**
+
+- AI-assisted design and visualization tools (such as Unreal Engine plugins)
+- Data analysis and audience insight skills
+- Basic programming and automation scripting (such as Python)
+- Digital media production and project management software
+- Human-machine collaboration and AI ethical awareness
+- Augmented reality/virtual reality stage applications
+
+**Key growth areas:**
 
 - Immersive Theater
 - Digital Stage
@@ -65,66 +101,68 @@ Responsible for the artistic vision and overall production of live performances 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能艺术家或文化领域专业人士，需提供作品集及法国雇主合同，有效期4年。 |
-| Subclass Salarié（Employee Work Permit） | 受雇于法国公司（如剧院或制作公司）的普通工作许可，需雇主申请劳工许可。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生临时居留，允许在法寻找工作，有效期1年，不可续期。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled artists or professionals in the cultural field, requiring a portfolio and a French employer contract, valid for 4 years. |
+| Subclass Salarié (Employee Work Permit) | For ordinary work permits employed by French companies (such as theaters or production companies), employers must apply for a labor permit. |
+| Subclass Recherche emploi (Job Search Visa) | Graduates are allowed to temporarily stay and find work in France, valid for one year, with no renewal. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Stage Director of Live Performances？**
-- 具有较强艺术创造力和领导力的人
-- 能承受不规律工作时间和项目制压力的人
-- 精通法语并熟悉法国文化市场的人
+**Who is suited**
+- People with strong artistic creativity and leadership
+- People who can handle irregular working hours and project-based pressure
+- People fluent in French and familiar with the French cultural market
 
-**谁不适合学Stage Director of Live Performances？**
-- 追求稳定收入和固定工作时间的人
-- 缺乏行业人脉和项目经验积累的海外求职者
+**Who is not suited**
+- Those seeking stable income and fixed working hours
+- Overseas job seekers lacking industry connections and project experience
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of French stage directors?**
+A: Entry-level director annual income about EUR 20,000-28,000, mid-level EUR 30,000-45,000, senior director up to EUR 50,000-80,000, but mostly project-based with fluctuating income.
+
+**Q: How can non-EU citizens immigrate to France through this employment?**
+A: Mainly through the Passeport Talent Passport or employed work residence, one must obtain a contract with a French theater or production company and prove artistic achievement. Due to fierce competition and non-scarce occupations, immigration is more challenging.
+
+**Q: What is the career development path for stage directors?**
+A: Usually, they start as assistant directors or stage managers, accumulate project experience, then independently direct small productions, gradually rising to chief director of large theaters or festivals, and can also transition to film and television directors.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Stage Director of Live Performances属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a stage director in France?**
-答：Junior directors earn around €20,000-28,000 annually, mid-level €30,000-45,000, and senior directors can reach €50,000-80,000, but income is project-based and varies.
-
-**问：How can non-EU citizens immigrate through this occupation?**
-答：Mainly via the Talent Passport or Salarié work permit, requiring a contract with a French theater or production company and proof of artistic achievements. Due to high competition and non-shortage status, immigration is difficult.
-
-**问：What is the career path for a stage director?**
-答：Typically start as assistant director or stage manager, then independently direct small productions, advance to chief director for major theaters or festivals, or transition to film/TV directing.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

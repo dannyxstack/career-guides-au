@@ -1,62 +1,98 @@
-# Film and Theater Set and Prop Designer（Film and Theater Set and Prop Designer）职业分析 · FR
+# Film and Theater Set and Prop Designer — career analysis · France
 
-**职业代码：L1503 – Film and Theater Set and Prop Designer。**
+**Occupation code: L1503 (ROME)**
 
-Designs and produces sets and props for stage, film, or events, including concept creation, material selection, supervising construction, and collaborating with directors to ensure visual consistency.
+Responsible for designing and producing sets and props for stages, films, or events, including concept creation, material selection, supervision and construction, and coordination with directors to ensure visual style consistency.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业证书 (CAP) | 2年 (CAP) | —（公立学校免费，材料费约500欧元/年） |
-| 高级技师文凭 (BTS) | 2年 (BTS) | —（公立学校免费，私立约2000欧元/年） |
-| 国家造型艺术文凭 (DNA/DNSEP) | 3-5年 | —（公立美院注册费约500欧元/年，私立约3000欧元/年） |
+| Professional Certificate (CAP) | 2 years (CAP) | $0~$1,000 (Public schools are free, with material costs of about 500 euros per year) |
+| Advanced Technician Diploma (BTS) | 2 Years (BTS) | $0~$2,000 (Public schools are free, private ones about 2000 euros per year) |
+| National Diploma in Fine Arts (DNA/DNSEP) | 3-5 years | $0~$3,000 (The registration fee for public art academies is about 500 euros per year, while private ones are about 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 实用性艺术文凭 | 法国文化部 | 可选 | 部分岗位要求相关文凭，但非强制 |
-| 安全证书（如高空作业） | 法国劳动部 | 必备 | 涉及搭建需持有 |
-| 软件技能认证（3D建模） | Autodesk等 | 可选 | 行业普遍要求，加分项 |
+| Safety certificates (such as working at heights) | French Ministry of Labor | Required | Construction requires holding the required items |
+| Diploma in Practical Arts | French Ministry of Culture | Optional | Some positions require relevant diplomas, but they are not mandatory |
+| Software Skills Certification (3D Modeling) | Autodesk etc. | Optional | Industry requirements are common and are a plus |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。法国文化产业活跃，巴黎及各大城市对布景设计师需求稳定，但竞争激烈。大项目依赖自由职业者，中小剧院或有固定岗位。数字化转型与虚拟制作带来新机会，但入门岗位有限。
+**Job demand: medium (★★★☆☆).** National workforce approx. 18,000. France's cultural industry is thriving, with stable demand for set designers in Paris and major cities, but competition is fierce. Large projects rely on freelancers, and small and medium-sized theaters may have fixed positions. Digital transformation and virtual production bring new opportunities, but entry-level positions are limited.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 助理或小型制作公司 |
-| 中级（3-7年） | $30,000~$40,000 | 独立设计师或中型机构 |
-| 高级（7年以上） | $40,000~$55,000 | 首席布景师或大型项目 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Assistants or small production companies |
+| Mid-level (3–7 years) | $30,000~$40,000 | Independent designers or medium-sized agencies |
+| Senior (7+ years) | $40,000~$55,000 | Chief set designer or large-scale projects |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从助理或制作员起步，积累经验后可升任首席布景师或艺术总监。也可通过成立工作室承接独立项目，或进入大型制作公司、电视台任职。部分人转向电影美术指导。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI will automate some research and drawing tasks in set and exhibition design, but core abilities like creative ideation, spatial narrative, and on-site coordination still rely on humans. Designers need to leverage AI tools to improve efficiency and focus on high-value aspects.
+
+Usually, you start as an assistant or producer, and after gaining experience, you can be promoted to chief set designer or art director. They can also establish studios to take on independent projects, or work at large production companies or TV stations. Some turned to film art directors.
+
+**Tasks most exposed to AI:**
+
+- Auto-generate preliminary set/exhibition concept sketches and 3D models
+- Automatically match historical building style assets based on script or exhibition theme
+- Automated optimization of exhibition visitor flow paths and exhibit spacing planning.
+- Automatically generate construction drawings and material lists
+- Rapidly iterating design solutions based on director/client feedback
+
+**Where AI augments the role:**
+
+- Immersive scene preview and virtual reality display using AI to enhance client communication efficiency
+- Explore multiple style variations using generative AI to spark creative inspiration
+- Using AI to analyze audience behavior data, optimize exhibition interaction and visual focus
+- Automatically generate plan comparisons under different cost budgets to aid decision-making
+- Quickly integrate AI-generated elements into design software to accelerate production workflows
+
+**Human moat:**
+
+- Understanding the cultural connotations and emotional narratives behind scripts/exhibition themes
+- Face-to-face communication and coordination with directors, exhibition organisers, and construction teams
+- On-site creative decision-making and improvisation (e.g., stage management)
+- Physical perception and artistic intuition for materials, lighting, and space
+- Personal style and brand-building ability
+
+**Skills to build:**
+
+- Master AI-assisted design tools (e.g., Midjourney, DALL·E, Autodesk Forma)
+- Learn basic programming or scripting languages (e.g., Python for Grasshopper)
+- Proficient in VR/AR design and presentation tools (e.g., Unreal Engine, Twinmotion)
+- Data literacy: analyzing visitor behavior, exhibition traffic, etc.
+- Creative project management and collaboration platforms (e.g., Notion, Miro).
+- Cross-media narrative and experience design skills
+
+**Key growth areas:**
 
 - Virtual Production
 - Sustainable Stagecraft
@@ -65,63 +101,68 @@ Designs and produces sets and props for stage, film, or events, including concep
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Artistic and Cultural Professions)） | 适用于有突出艺术成就或受法国机构邀请的人才，有效期4年，可续签，家属可随行。 |
-| Subclass Salarié（Salarié (Employee Work Permit)） | 需法国雇主提供CDI/CDD合同，并通过劳工局审核。适合有明确工作offer的申请人。 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪达1.5倍法国平均工资（约53k欧元），较难申请，但适合高技能岗位。 |
+| Subclass Passeport Talent (Passeport Talent (Artistic and Cultural Professions)) | For individuals with outstanding artistic achievements or invited by French institutions, valid for 4 years, renewable, with family accompaniment. |
+| Subclass Salarié (Salarié (Employee Work Permit)) | A CDI/CDD contract must be provided by the French employer and approved by the Labor Department. Suitable for applicants with a clear job offer. |
+| Subclass Carte bleue UE (EU Blue Card) | An annual salary of 1.5 times the French average (about 53,000 euros) is required; it is relatively difficult to apply but suitable for high-skilled positions. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Film and Theater Set and Prop Designer？**
-- 有艺术创作热情，喜欢动手制作
-- 能适应项目制工作节奏和临时加班
-- 具备空间想象力和团队协作能力
+**Who is suited**
+- Passionate about artistic creation and enjoys hands-on crafts
+- Able to adapt to project-based work rhythm and temporary overtime
+- Possess spatial imagination and teamwork skills
 
-**谁不适合学Film and Theater Set and Prop Designer？**
-- 偏好稳定、朝九晚五的工作模式
-- 对高强度体力劳动或临时截止日期不适应
+**Who is not suited**
+- Preference for a stable, nine-to-five work model
+- Not adapted to high-intensity physical labor or temporary deadlines
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for set designers?**
+A: Salary range is broad: entry-level around 24,000-30,000 euros, mid-level 30,000-40,000 euros, senior up to 55,000 euros. Freelancers charge per project, income is unstable but has higher ceiling.
+
+**Q: Can third-country citizens immigrate to France to work in set design?**
+A: Difficult because this occupation is not in demand, making employer sponsorship challenging. However, those with outstanding artistic achievements or who are invited can apply for a talent passport. It is recommended to first accumulate local networks through study or internships.
+
+**Q: What education is required to become a set designer?**
+A: Design diplomas such as BTS or DNA are usually required, but practical experience is even more crucial. Many practitioners enter the industry through apprenticeships or assistant positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Film and Theater Set and Prop Designer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a set designer?**
-答：Salaries vary widely: entry-level €24k-30k, mid-level €30k-40k, senior up to €55k. Freelancers charge per project, with variable income but higher ceiling.
-
-**问：Can third-country nationals immigrate to France as set designers?**
-答：Immigration is difficult as the occupation is not in shortage. Employer sponsorship is hard to obtain. However, artists with outstanding achievements may qualify for the Passeport Talent. Studying or interning in France is recommended.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

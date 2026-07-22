@@ -1,61 +1,97 @@
-# Interior Designer and Decorator（Interior Designer and Decorator）职业分析 · NL
+# Interior Designer and Decorator — career analysis · Netherlands
 
-**职业代码：3432 – Interior Designer and Decorator。**
+**Occupation code: 3432 (ISCO08)**
 
-Interior designers and decorators plan, design, and decorate interior spaces to create aesthetically pleasing, functional, and client-specific environments. They collaborate with clients, architects, and contractors to select colors, materials, furniture, and furnishings.
+Interior Designers and Decorators plan, design, and decorate interior spaces to create aesthetically pleasing, functional, and client-suited environments. They collaborate with clients, architects, and contractors to select colors, materials, furniture, and accessories.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $8,000~$15,000（公立大学每年学费，欧盟学生约2000欧元，非欧盟约8000-15000欧元） |
-| 高等职业教育 (HBO) | 4年（HBO） | $2,000~$9,000（非欧盟学生每年约7000-9000欧元，欧盟学生约2000欧元） |
+| Bachelor's degree | 4 years (bachelor's degree) | $8,000~$15,000 (Annual tuition fees at public universities: about €2,000 for EU students and €8,000–15,000 for non-EU students) |
+| Higher Vocational Education (HBO) | 4 years (HBO) | $2,000~$9,000 (Non-EU students approx. €7,000-9,000 per year, EU students approx. €2,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计学士学位 | 荷兰应用科学大学或研究型大学 | 可选 | 通常要求完成HBO或WO的室内设计相关课程 |
-| 注册室内设计师 (Nbvt/SBR) | Nederlandse Beroepsvereniging van Interieurarchitecten (Nbvt) | 可选 | 虽然不是强制要求，但获得认证有助于提升专业信誉 |
-| Portfolio证明 | 个人 | 可选 | 展示设计项目经验的作品集是求职关键 |
+| Bachelor of Interior Design | University of Applied Sciences or research university in the Netherlands | Optional | Typically requires completion of HBO or WO interior design-related courses |
+| Registered Interior Designer (Nbvt/SBR) | Nederlandse Beroepsvereniging van Interieurarchitecten (Nbvt) | Optional | While not mandatory, certification helps enhance professional credibility |
+| Portfolio evidence | Personal | Optional | A portfolio showcasing design project experience is key for job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰室内设计行业受建筑和房地产市场的推动，预计保持稳定增长。可持续发展趋势和远程办公增加了对多功能办公空间的需求，为设计师带来更多机会。但竞争激烈，具备可持续设计专长更具优势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Driven by the construction and real estate markets, the Dutch interior design industry is expected to maintain steady growth. Sustainability trends and remote work have increased demand for versatile office spaces, offering more opportunities for designers. However, competition is fierce, and expertise in sustainable design provides an advantage.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 税前年薪，视公司和地区而定 |
-| 中级（3-7年） | $36,000~$48,000 | 税前年薪，含经验丰富的设计师 |
-| 高级（7年以上） | $48,000~$65,000 | 税前年薪，项目经理或资深设计师 |
+| Median salary | $42,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$36,000 | Pre-tax annual salary depends on the company and region |
+| Mid-level (3–7 years) | $36,000~$48,000 | Annual pre-tax salary, includes experienced designers |
+| Senior (7+ years) | $48,000~$65,000 | Annual pre-tax salary, Project Manager or Senior Designer |
+| average salary | $43,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级设计师可从助理岗位起步，积累经验后晋升为项目经理或高级设计师。有经验的可以创办自己的设计公司，或专注于特定领域如可持续设计、智能家居或商业室内设计。继续教育和行业认证有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI automation will significantly change the way interior designers and decorators work: routine drafting, material list generation, and basic color scheme recommendations will be replaced, but core skills such as creative conception, client communication, and project coordination will be amplified by AI tools, creating a new human-machine collaborative workflow.
+
+Junior designers can start as assistants, gain experience, and advance to project managers or senior designers. Experienced ones can start their own design firms or specialize in areas like sustainable design, smart homes, or commercial interiors. Continuing education and industry certifications aid career development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate 3D renderings and virtual tours from floor plans
+- AI automatically recommends furniture and material lists based on budget, style, and spatial parameters.
+- Automatic generation and iteration of basic color schemes and layouts
+- Standardized drawing of construction drawings and dimensional verification
+- Automatic generation of material purchase orders and cost estimation sheets
+
+**Where AI augments the role:**
+
+- AI heuristic solution generation: input client preferences to generate multiple style creative sketches, accelerating concept exploration
+- Smart material library and sustainability analysis: recommend eco-friendly materials based on project conditions and calculate carbon footprint in real time
+- Virtual Reality (VR/AR) Collaborative Design: Clients Experience Spaces Immersively, Adjusting Materials and Lighting in Real-Time
+- Real-time tracking of construction progress and budget: AI predicts potential delays and cost overruns, assisting project management
+- Personalized customer insights: analyze social media trends and customer history data to optimize design decisions
+
+**Human moat:**
+
+- Deeply understand clients' underlying needs and emotional concerns to build trust.
+- Cross-cultural aesthetic judgment and artistic creative decision-making
+- Stakeholder coordination for complex projects and on-site problem solving.
+- Spatial experience design combining ergonomics and behavioural psychology
+- Balancing ethics and aesthetics: reconciling client intent with sustainable and accessible design principles
+
+**Skills to build:**
+
+- Proficient in using AI generation tools such as DALL·E and Midjourney for concept design
+- Proficient in BIM (Building Information Modeling) and digital collaboration platforms like Autodesk Revit
+- Learn data visualization and spatial analysis, using user behavior data to guide design
+- Strengthen project management and client communication skills, lead human-machine collaboration processes
+- Understanding VR/AR technology and its application in design presentation
+- Continuous learning of sustainable design standards and new material technologies
+
+**Key growth areas:**
 
 - Sustainable Design
 - Smart Home Integration
@@ -64,69 +100,68 @@ Interior designers and decorators plan, design, and decorate interior spaces to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：友好（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant (kennismigrant)） | 适用于年薪超过门槛的高技能移民，可凭此签证在荷兰工作。需雇主担保，年薪要求约5.6万欧元（30岁以下约4.3万欧元）。 |
-| Subclass Orientation Year (zo（Orientation Year (zoekjaar)） | 适用于在荷兰或世界顶尖大学毕业生，可在此签证下自由寻找工作，有效期1年。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪门槛约5.9万欧元，允许在荷兰及欧盟成员国工作，并享受家庭团聚等权利。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to highly skilled migrants earning above the salary threshold, allowing them to work in the Netherlands with this visa. Requires employer sponsorship, with an annual salary of about €56,000 (€43,000 for under 30). |
+| Subclass Orientation Year (zo (Orientation Year (zoekjaar)) | Available to graduates from top universities in the Netherlands or worldwide, allows job seeking under this visa with a validity of 1 year. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to skilled non-EU citizens, with an annual salary threshold of approximately €59,000, allowing work in the Netherlands and other EU member states, and enjoying rights such as family reunification. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Designer and Decorator？**
-- 具有创意和艺术天赋，对空间和色彩敏感的人
-- 善于沟通，能理解客户需求并转化为设计方案的人
-- 具备项目管理能力和团队协作精神的人
-
-**谁不适合学Interior Designer and Decorator？**
-- 不喜欢与客户沟通，无法接受反馈和修改要求的人
-- 对设计细节和材料缺乏耐心，不注重实际施工可行性的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone creative and artistically gifted with sensitivity to space and colour
+- Good communication skills, able to understand client needs and translate them into design solutions
+- Individuals with project management skills and team collaboration spirit
+
+**Who is not suited**
+- People who dislike communicating with clients and cannot accept feedback and revision requests
+- People who lack patience with design details and materials and do not focus on practical construction feasibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a Dutch interior designer?**
+A: Junior designer annual salary approx. €28,000-36,000, mid-level approx. €36,000-48,000, senior up to €48,000-65,000 (pre-tax). Salary varies by experience, location, and company size; freelancers may earn more.
+
+**Q: How can a non-EU citizen become an interior designer in the Netherlands?**
+A: Possible via highly skilled migrant visa (kennismigrant) or EU Blue Card. Requires employer sponsorship and meeting salary threshold (about €56,000 in 2024). Or use orientation year visa (for graduates) to find a job in the Netherlands.
+
+**Q: What are the career development paths for an interior designer?**
+A: Starting as a junior designer, progress to senior designer, project manager, or design director. You can also establish your own studio, or specialize in sustainable design, commercial spaces, and other niches. Continuously learning new techniques and materials helps maintain competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★½☆☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Interior Designer and Decorator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an interior designer in the Netherlands?**
-答：Entry-level designers earn around €28,000-€36,000 annually, mid-level €36,000-€48,000, and senior designers up to €48,000-€65,000 (pre-tax). Salaries vary by experience, location, and firm size; freelancers may earn more.
-
-**问：How can non-EU citizens become interior designers in the Netherlands?**
-答：You can apply for a Highly Skilled Migrant visa or EU Blue Card with a job offer meeting salary thresholds (approx. €56,000 in 2024). Alternatively, use the Orientation Year visa for graduates to search for employment.
-
-**问：What are the career progression paths for interior designers?**
-答：Start as a junior designer, progress to senior designer, project manager, or design director. Alternatively, start your own studio or specialize in niches like sustainable design or commercial spaces. Continuous learning of new technologies and materials helps stay competitive.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

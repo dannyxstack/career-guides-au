@@ -1,61 +1,97 @@
-# Clinical Psychologist（Clinical Psychologist）职业分析 · 新西兰
+# Clinical Psychologist — career analysis · New Zealand
 
-**职业代码：272311 – Clinical Psychologist。**
+**Occupation code: 272311 (ANZSCO)**
 
-Clinical psychologists in NZ conduct assessments, diagnoses, and evidence-based therapies for conditions like anxiety and trauma. Listed on Green List Tier 1, it offers a direct residence pathway with high migration feasibility.
+Clinical psychologists in New Zealand handle psychological assessment, diagnosis, and evidence-based treatment, covering anxiety, depression, trauma, etc. This occupation is on the Green List Tier 1, allowing direct residency application with high immigration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：困难（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 心理学本科（荣誉） | 4年 | $60,000~$80,000（奥克兰大学等国际生学费） |
-| 临床心理学硕士/博士 | 2-4年 | $50,000~$70,000（含实习和论文） |
-| 实习及注册 | 1-2年 | $30,000~$50,000（实习期收入有限，注册费约2000NZD） |
+| Bachelor of Psychology (Honours) | 4 years | $60,000~$80,000 (International student tuition at University of Auckland, etc.) |
+| Clinical psychology master's/PhD | 2-4 years | $50,000~$70,000 (Includes internship and thesis) |
+| Internship and registration | 1-2 years | $30,000~$50,000 (Limited income during internship, registration fee about 2000 NZD) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册心理学家（临床） | 新西兰心理学家委员会（PBANZ） | 必备 | 强制注册，需完成认可学历和实习 |
-| APC（Annual Practising Certificate） | PBANZ | 必备 | 每年更新，证明持续执业资格 |
-| 新西兰临床心理学实习 | 新西兰心理学会（NZPsS） | 可选 | 通常为2年全职督导实习 |
-| IELTS 7.0（学术类） | IELTS | 必备 | 移民注册要求，各单项不低于7 |
+| New Zealand Registered Psychologist (Clinical) | New Zealand Psychologists Board (PBANZ) | Required | Mandatory registration, completion of recognised qualification and internship required |
+| APC（Annual Practising Certificate） | PBANZ | Required | Updated annually, proving ongoing practicing qualification |
+| IELTS 7.0 (Academic) | IELTS | Required | Immigration registration requirements, no band below 7 |
+| New Zealand clinical psychology internship | New Zealand Psychological Society (NZPsS) | Optional | Typically 2 years of full-time supervised internship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 1,200。新西兰对临床心理学家的需求持续增长，受心理健康意识提升和初级医疗服务扩展推动，尤其在地区卫生局需求旺盛，预计未来5年岗位增长迅速。
+**Job demand: very high (★★★★½).** National workforce approx. 1,200. Demand for clinical psychologists in New Zealand is growing steadily, driven by increased mental health awareness and expansion of primary care services, particularly in regional health authorities, with strong job growth expected over the next 5 years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 地区卫生局或私人诊所 |
-| 中级（4-7年） | $80,000~$110,000 | 含经验高级心理师 |
-| 高级（8年以上） | $110,000~$140,000 | 资深心理师或管理层 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Regional health department or private clinic |
+| Mid-level (4-7 years) | $80,000~$110,000 | Senior psychologist with experience |
+| Senior (8+ years) | $110,000~$140,000 | Senior psychologist or management |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径通常从注册心理师开始，可晋升至高级临床心理师、团队领导或独立执业，资深者可担任科室主管或学术职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
+
+Career path typically starts as a registered psychologist, progressing to senior clinical psychologist, team leader, or independent practice; senior roles can include department head or academic position.
+
+**Tasks most exposed to AI:**
+
+- Automated generation of initial psychological assessment reports and symptom checklist interpretations
+- Preliminary semantic analysis of diagnostic interviews using natural language processing
+- Automated scoring and templated reports for standardized psychological tests (e.g., MMPI)
+- Patient appointment scheduling, records management, and insurance billing administrative tasks
+- Generate evidence-based treatment recommendations based on clinical guidelines (e.g., CBT program recommendations)
+
+**Where AI augments the role:**
+
+- AI-assisted therapist monitors patient emotional changes in real-time and provides intervention prompts
+- Symptom tracking and cognitive behavioral therapy homework supervision via chatbots
+- AI tools analyze therapy recordings to identify effective intervention patterns and provide feedback
+- Integrating genomic, neuroimaging, and other data to assist personalised treatment plans
+- Automatically generate clinical documentation compliant with Medicare requirements, saving time
+
+**Human moat:**
+
+- Building therapeutic trust and empathy
+- Complex diagnostic reasoning (integrating conflicting information from multiple sources)
+- Crisis intervention (suicide, violence risk assessment and on-site decision-making)
+- Real-time dynamic adjustment of the therapeutic alliance.
+- Legal responsibility and ethical decision-making (e.g., confidentiality exceptions)
+
+**Skills to build:**
+
+- Use and interpretation of data-driven psychological assessment tools
+- AI-assisted therapy platform operation (e.g., Lyssn, Woebot)
+- Remote psychotherapy techniques (video platforms, digital therapeutics)
+- Foundations of mental health data analysis
+- Tech ethics and AI bias identification
+- Digital multidisciplinary collaboration communication
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Clinical psychologists in NZ conduct assessments, diagnoses, and evidence-based 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 直接居留签证，需在绿色清单职位工作满2年 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，有相关工作可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，为临时工作签证 |
+| Subclass Green List T1 (Straight to Residence) | Direct residence visa, requires working in a Green List occupation for 2 years |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, relevant job required to apply |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, a temporary work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Clinical Psychologist？**
-- 已完成或可完成APAC认可心理学学历并有临床实习经验者
-- 具备同理心、耐心和较强的人际沟通能力
-- 有意在新西兰长期定居并能通过英语考试（雅思7.0）
-
-**谁不适合学Clinical Psychologist？**
-- 缺乏临床心理学实习经历或无法满足实习要求
-- 不适应与心理健康问题患者长期高强度互动
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those who have completed or can complete an APAC-accredited psychology qualification and have clinical internship experience
+- Possess empathy, patience, and strong interpersonal communication skills
+- Intending to settle long-term in New Zealand and able to pass English exams (IELTS 7.0)
+
+**Who is not suited**
+- Lack of clinical psychology internship experience or inability to meet internship requirements
+- Difficulty adapting to long-term high-intensity interaction with patients with mental health issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of clinical psychologists in New Zealand?**
+A: Junior approx. NZD 65,000-80,000, mid 80,000-110,000, senior 110,000-140,000, private practice has higher potential.
+
+**Q: How can clinical psychologists immigrate to New Zealand?**
+A: Eligible for direct residence visa via Green List Tier 1, requires recognized qualification and registration, apply after 2 years of work; or via SMC 6-point system.
+
+**Q: What are the requirements to register as a clinical psychologist in New Zealand?**
+A: Complete APAC-accredited undergraduate and clinical master's/PhD, pass internship, IELTS 7.0, apply to PBANZ for registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 困难（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 中等（★★★☆☆） |
-
-Clinical Psychologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for clinical psychologists in NZ?**
-答：Entry-level NZD 65,000-80,000, mid-level 80,000-110,000, senior 110,000-140,000; private practice may earn higher.
-
-**问：How can clinical psychologists migrate to NZ?**
-答：Via Green List Tier 1 Straight to Residence visa, requiring accredited qualification and registration, after 2 years of employment; also possible through SMC 6-point system.
-
-**问：What are the requirements to register as a clinical psychologist in NZ?**
-答：Complete APAC-accredited bachelor's and clinical master's/PhD, internship, IELTS 7.0, and apply to PBANZ for registration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

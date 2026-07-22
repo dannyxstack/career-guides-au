@@ -1,59 +1,91 @@
-# Nursing Associate Professionals（Nursing Associate Professionals）职业分析 · NL
+# Nursing Associate Professionals — career analysis · Netherlands
 
-**职业代码：3221 – Nursing Associate Professionals。**
+**Occupation code: 3221 (ISCO08)**
 
-Nursing associate professionals assist registered nurses in providing basic care, including measuring vital signs, wound care, and patient daily care, working in Dutch hospitals, nursing homes, and community health centers.
+Nursing assistant professionals assist registered nurses in providing basic care, such as measuring vital signs, wound care, and daily patient care, working in Dutch hospitals, nursing homes, and community health centers.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 3年 | $2,000~$6,000（每年学费约2000-6000欧元，视学校而定） |
-| 高等职业教育 (HBO) | 4年（学士） | $2,000~$10,000（欧盟学生约2000欧元/年，非欧盟约8000-10000欧元/年） |
+| Secondary vocational education (MBO) | 3 years | $2,000~$6,000 (Annual tuition fees are approximately 2,000-6,000 euros, depending on the school.) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's) | $2,000~$10,000 (EU students approx. €2,000/year, non-EU approx. €8,000-10,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理助理文凭 (MBO niveau 4) | ROC (区域教育中心) | 必备 | 荷兰语授课，要求荷兰语B1或B2 |
-| BIG注册 | 荷兰卫生、福利和体育部 | 必备 | 需通过BIG考试并注册，方可合法从事护理工作 |
-| 荷兰语能力证明 | DUO或其他认可机构 | 必备 | 通常要求NT2 program I或II |
+| Diploma in Nursing Assistant (MBO level 4) | ROC (Regional Education Center) | Required | Taught in Dutch, requiring Dutch B1 or B2 |
+| BIG registration | Ministry of Health, Welfare and Sport of the Netherlands | Required | Must pass the BIG exam and register to legally work in nursing care. |
+| Dutch language proficiency proof | DUO or other recognized institutions | Required | Typically requires NT2 program I or II |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 125,000。荷兰面临护理人员短缺，老龄化加剧需求，就业前景良好。政府鼓励培训和外籍招聘，但语言要求（荷兰语B1+）是主要门槛。
+**Job demand: very high (★★★★½).** National workforce approx. 125,000. The Netherlands faces a caregiver shortage, with an aging population driving demand, offering good employment prospects. Government encourages training and foreign recruitment, but language requirements (Dutch B1+) are a major hurdle.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，基于CAO Ziekenhuizen等集体协议 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $56,316 | Median salary (official: CBS median hourly wage €28.5/hour × 1976 hours annualized, BRC group 1033 Verpleegkundigen (mbo); P25–P75 €48,214–€64,022, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Gross annual salary, based on collective agreements such as CAO Ziekenhuizen |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从护理助理晋升为注册护士（通过加速课程），或专攻老年护理、精神健康等领域。积累经验后可担任护理组长或管理职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Nursing assistant professionals will face mixed effects from AI: standardizable tasks like vital sign monitoring will be automated, but emotional support and complex human contact abilities remain core. Job numbers will be stable but with upgraded roles.
+
+Can advance from nursing assistant to registered nurse (via accelerated courses), or specialize in aged care, mental health, etc. After gaining experience, can take on nursing team leader or management roles
+
+**Tasks most exposed to AI:**
+
+- Use automated equipment to monitor vital signs and record them in electronic health records
+- Use AI algorithms for preliminary analysis of patient symptoms and provide triage recommendations
+- Generate standardized nursing reports and handover documents
+- using robotic assistance for simple wound cleaning and dressing changes
+
+**Where AI augments the role:**
+
+- AI reminder tools help assistants prioritize high-risk patient tasks
+- Real-time translation devices assist in communicating with patients who have language barriers
+- Remote patient monitoring via wearable devices allows assistants to intervene earlier.
+- intelligent scheduling system optimizes staffing, reducing administrative burden
+
+**Human moat:**
+
+- Ability to build trust and emotional connection with patients
+- Improvising ability to flexibly judge and adjust care plans in crises
+- Complex wound care requiring fine tactile sensation and hand-eye coordination
+- Cross-cultural empathy and deep interpersonal interaction in end-of-life care
+
+**Skills to build:**
+
+- Basic data analysis and AI tool operation (e.g., predictive care software)
+- Advanced applications of digital health records and data interpretation.
+- Cross-disciplinary team collaboration and AI-assisted decision-making communication
+- Remote patient monitoring and telecare technologies
+- Ethics and privacy awareness, especially in AI applications in nursing
+
+**Key growth areas:**
 
 - aging population
 - staff shortage
@@ -62,68 +94,67 @@ Nursing associate professionals assist registered nurses in providing basic care
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于工资达到门槛的护理专业人员，需雇主担保。2024年门槛约€4,500/月（30岁以上）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需雇佣合同且工资达到门槛（护理专业通常符合）。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 适用于在荷兰或世界前200高校毕业的学生，可在荷兰寻找工作一年。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to nursing professionals who meet the salary threshold, requiring employer sponsorship. The 2024 threshold is approximately €4,500/month (over 30 years old). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires an employment contract with salary meeting the threshold (nursing profession usually qualifies). |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Available for graduates of universities in the Netherlands or top 200 global universities to seek work in the Netherlands for one year. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Nursing Associate Professionals？**
-- 有耐心、同理心，愿意从事护理工作
-- 能够学习荷兰语至B1水平
-- 适应轮班和较高工作强度
-
-**谁不适合学Nursing Associate Professionals？**
-- 对血液、伤口护理等不适
-- 无法快速适应荷兰语环境
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, empathetic, and willing to engage in care work
+- Able to learn Dutch to B1 level
+- Adaptability to shift work and high work intensity
+
+**Who is not suited**
+- Discomfort with blood, wound care, etc.
+- Unable to quickly adapt to the Dutch language environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for nursing assistant professionals?**
+A: Starting annual salary around 25,000-32,000 EUR, mid-level 32,000-40,000, senior 40,000-50,000. Salary is determined by collective agreement (CAO).
+
+**Q: How can foreign care assistants immigrate to the Netherlands?**
+A: Can be obtained through the highly skilled migrant (Kennismigrant) or EU Blue Card pathway, requiring employer sponsorship, Dutch B1, and completion of BIG registration.
+
+**Q: What educational background is needed to become a nursing assistant?**
+A: Requires completion of MBO level 3 or 4 nursing assistant course (3 years) or HBO nursing bachelor's (4 years), both taught in Dutch.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Nursing Associate Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for nursing associate professionals?**
-答：Entry-level annual salary is about €25,000-32,000, mid-level €32,000-40,000, senior €40,000-50,000. Salaries are determined by collective agreements (CAO).
-
-**问：How can foreign nursing associates immigrate to the Netherlands?**
-答：Via Highly Skilled Migrant or EU Blue Card routes, requiring employer sponsorship, Dutch at B1 level, and BIG registration.
-
-**问：What education is needed to become a nursing associate?**
-答：Completion of MBO level 3 or 4 nursing assistant program (3 years) or HBO bachelor in nursing (4 years), both taught in Dutch.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

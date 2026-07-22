@@ -1,59 +1,95 @@
-# Urban and Regional Planners（Urban and Regional Planners）职业分析 · 美国
+# Urban and Regional Planners — career analysis · United States
 
-**职业代码：19-3051 – Urban and Regional Planners。**
+**Occupation code: 19-3051 (SOC)**
 
-Urban and regional planners develop comprehensive plans and programs for land use and physical facilities of jurisdictions such as towns, cities, and counties, balancing development, environmental protection, and community needs.
+Urban planners develop comprehensive plans for towns, cities, and counties for land and physical facilities, balancing development, environmental protection, and community needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费约$10,000-$40,000/年，私立$40,000-$60,000/年） |
-| 硕士学位 | 2年 | $30,000~$90,000（公立大学约$15,000-$45,000/年，私立$30,000-$60,000/年） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition approximately $10,000-$40,000/year, private $40,000-$60,000/year) |
+| Master's degree | 2 years | $30,000~$90,000 (Public university ~$15,000-$45,000/year; private $30,000-$60,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 城市规划学士/硕士学位 | 认证大学 | 必备 | 美国规划认证委员会(PAB)认证项目优先 |
-| AICP认证 | 美国规划协会(APA) | 可选 | 非强制但提升竞争力，需考试和工作经验 |
-| 州级注册 | 各州规划委员会 | 可选 | 部分州要求注册，如新泽西 |
+| Bachelor's/Master's degree in Urban Planning | Accredited university | Required | Preference for programs accredited by the Planning Accreditation Board (PAB) |
+| AICP certification. | American Planning Association (APA) | Optional | Not mandatory but enhances competitiveness, requires exam and work experience |
+| State-level registration | State planning commissions | Optional | Some states require registration, such as New Jersey. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 38,400。美国劳工统计局预计2023-2033年就业增长4%，与平均水平持平。人口增长和基础设施更新需求将推动需求，但地方政府预算限制可能影响招聘。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 38,400. US Bureau of Labor Statistics projects 4% employment growth from 2023-2033, about average. Population growth and infrastructure renewal will drive demand, but local government budget constraints may affect hiring.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 政府或咨询公司初级岗位 |
-| 中级（4-7年） | $70,000~$90,000 | 具备AICP认证或项目管理经验 |
-| 高级（8年以上） | $90,000~$120,000 | 主管或主任级别 |
+| Median salary | $89,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$70,000 | Entry-level positions in government or consulting firms |
+| Mid-level (4-7 years) | $70,000~$90,000 | Possess AICP certification or project management experience |
+| Senior (8+ years) | $90,000~$120,000 | Supervisor or director level |
+| average salary | $94,750 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级城市规划师通常需2-5年经验晋升为高级规划师，之后可成为规划主管、部门主任或城市发展总监。获得美国规划协会(AICP)认证有助于晋升。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
+
+Junior urban planners typically need 2-5 years of experience to advance to senior planner, then can become planning supervisor, department head, or urban development director. AICP certification helps with advancement.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary land use analysis report
+- Performing standardized traffic flow simulations.
+- Batch process geospatial data and create basic maps
+- Compile routine regulatory compliance checklists
+- Automatically generate meeting minutes and preliminary public opinion summaries
+
+**Where AI augments the role:**
+
+- Use AI to simulate multiple planning scenarios and assess environmental impacts.
+- Analyzing public opinion and extracting key demands using natural language processing
+- Predict urban growth trends and infrastructure needs based on machine learning
+- Automatically identify land use changes in satellite imagery
+- Optimize transport network design to reduce commute time and carbon emissions
+
+**Human moat:**
+
+- Political judgment and negotiation skills to balance multiple stakeholders' interests
+- Handling conflicting public opinions and reaching consensus
+- Deep understanding and intuition of local socioeconomic context
+- planning decisions bearing legal and ethical responsibilities
+- Creative ability to design unique community spaces
+
+**Skills to build:**
+
+- Master advanced GIS analysis and automation (ArcPy, QGIS)
+- Learn machine learning fundamentals and urban analysis applications (Scikit-learn, TensorFlow)
+- Improve data visualization and communication skills (Tableau, D3.js)
+- Keep up with updates to urban planning related laws and regulations
+- Develops public participation and conflict mediation skills
+- Learn sustainable infrastructure design principles
+
+**Key growth areas:**
 
 - Infrastructure renewal
 - Environmental sustainability
@@ -62,68 +98,67 @@ Urban and regional planners develop comprehensive plans and programs for land us
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于私营咨询公司，需学士学位，配额竞争激烈 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士+经验或杰出能力，通过PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于学士学位持有者，通过PERM劳工证 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common in private consulting firms, requires a bachelor's degree, competitive quota |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree plus experience or exceptional ability, through PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree holders through PERM labor certification |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Urban and Regional Planners？**
-- 对城市发展、环境保护和社会公平有热情
-- 具备系统思维、沟通能力和数据分析技能
-- 希望在政府或公共部门工作，追求稳定职业
-
-**谁不适合学Urban and Regional Planners？**
-- 不喜欢频繁的公众会议和利益相关者协调
-- 对繁琐的法规和审批流程缺乏耐心
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about urban development, environmental protection, and social equity
+- Possess systematic thinking, communication skills, and data analysis skills.
+- Wish to work in government or public sector, seeking stable career
+
+**Who is not suited**
+- Dislikes frequent public meetings and stakeholder coordination
+- Lacks patience with tedious regulations and approval processes
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for urban planners?**
+A: According to BLS, 2023 median annual salary about $79,540, entry-level about $55,000-$70,000, senior can reach $120,000+.
+
+**Q: Is it easy for urban planners to apply for a US work visa?**
+A: Relatively feasible. Private consulting firms sponsor H-1B; government positions typically do not. EB-2/EB-3 green cards require PERM, but the occupation is not high-demand, requiring employer cooperation.
+
+**Q: What degree is needed to become an urban planner?**
+A: Usually requires a master's degree in urban planning (2 years), some entry-level positions accept a bachelor's degree. PAB-accredited programs are preferred.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Urban and Regional Planners的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary range for urban planners?**
-答：According to BLS, the median annual wage in 2023 was about $79,540, entry-level $55,000-$70,000, senior over $120,000.
-
-**问：Is it easy for urban planners to get a US work visa?**
-答：Moderately feasible. Private consulting firms sponsor H-1B, government jobs usually not. EB-2/EB-3 green cards require PERM, but demand is not high, need employer sponsorship.
-
-**问：What degree is required to become an urban planner?**
-答：Typically a master's degree in urban planning (2 years), some entry-level positions accept a bachelor's. PAB-accredited programs are preferred.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

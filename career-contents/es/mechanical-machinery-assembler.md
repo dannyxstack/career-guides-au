@@ -1,60 +1,92 @@
-# Mechanical Machinery Assembler（Mechanical Machinery Assembler）职业分析 · ES
+# Mechanical Machinery Assembler — career analysis · Spain
 
-**职业代码：8201 – Mechanical Machinery Assembler。**
+**Occupation code: 8201 (CNO)**
 
-Assembles mechanical machinery and equipment according to technical drawings and procedures, ensuring quality and precision. Commonly found in manufacturing and industrial equipment sectors.
+Responsible for assembling mechanical components into complete mechanical equipment according to technical drawings and procedures, ensuring assembly quality and precision. It is commonly found in manufacturing, industrial equipment maintenance, and other fields.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年（FP Grado Medio） | —（公立FP几乎免费，仅注册费） |
-| 高级职业培训（FP Grado Superior） | 2年（FP Grado Superior） | —（公立FP几乎免费，私校费用较高） |
-| 基础职业培训（FP Básica） | 2年 | —（面向初中毕业生，注重实操） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years (FP Grado Medio) | $0~$1,200 (Public FPs are almost free, with only a registration fee) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $0~$2,000 (Public FPs are almost free, while private schools are more expensive) |
+| Basic Vocational Training (FP Básica) | 2 years | $0~$500 (Aimed at junior high school graduates, with a focus on practical experience) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：简单（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 机械装配工职业资格 | 西班牙各地区职业培训机构 | 可选 | 非强制，但雇主优先考虑持有FP学位或专业培训证书者 |
-| 高空作业证（必要时） | 认证培训机构 | 必备 | 若涉及高空安装，需持有 |
-| 电气安全培训 | 企业或机构 | 可选 | 部分机械涉及电气连接，需完成基础安全培训 |
+| High-altitude work permit (if necessary) | Accredited training organization | Required | If installation involves high-altitude installation, it must be held |
+| Mechanical assembly worker professional qualification | Vocational training institutions across various regions of Spain | Optional | Not mandatory, but employers will prefer those holding an FP degree or professional training certificate |
+| Electrical safety training | Enterprises or institutions | Optional | Some machinery involves electrical connections and requires basic safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙制造业逐步自动化和复苏，对熟练机械装配工需求稳定。尤其是汽车零部件、农业机械和工业设备领域。2025年后预计保持中等就业机会。
+**Job demand: medium (★★★☆☆).** National workforce approx. 18,000. Spain's manufacturing sector is gradually automating and recovering, with stable demand for skilled mechanical assemblers. Especially in the fields of automotive parts, agricultural machinery, and industrial equipment. Moderate employment opportunities are expected to remain after 2025.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-6年） | $22,000~$28,000 | 税前年薪 |
-| 高级（6年以上） | $28,000~$35,000 | 税前年薪 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–6 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (6+ years) | $28,000~$35,000 | Annual pre-tax salary |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级装配工升至高级装配工、团队主管或技术质检员。部分经验者可转向设备维护或现场安装调试岗位，或通过学习深造成为技术工程师。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Mechanical assemblers face the dual challenges of automation and AI: repetitive assembly tasks are easily replaced by robots, but complex debugging, fault diagnosis, and on-site installation still rely on human experience, making skill upgrades urgent.
+
+You can advance from junior assembler to senior assembler, team leader, or technical quality inspector. Some experienced candidates may move to equipment maintenance or on-site installation and commissioning positions, or further study to become technical engineers.
+
+**Tasks most exposed to AI:**
+
+- Repeat the assembly and disassembly of standard components according to the fixed drawings
+- Use tools such as torque wrenches for standardized tightening
+- Manually record assembly data and quality inspection results
+- Inspection of the appearance and dimensions of simple components
+
+**Where AI augments the role:**
+
+- With AR glasses, real-time assembly guidance is obtained and compared with 3D models
+- AI vision systems assist in precision assembly and quality inspection
+- Assembly path optimization is achieved through digital twin simulation
+- Interact with MES systems using voice control or mobile terminals
+
+**Human moat:**
+
+- Flexible assembly and process adjustment for non-standard or small-batch products
+- On-site equipment fault diagnosis and mechanical dynamic balancing
+- Collaborate with designers and engineers to resolve assembly interference issues
+- Manual precision operation in complex spatial environments
+
+**Skills to build:**
+
+- Industrial robot operation and collaborative programming
+- Digital twin and assembly simulation software (such as Delmia)
+- Intelligent tightening system and data collection
+- PLC basic and automated production line commissioning
+- 3D printing and rapid prototyping skills
+
+**Key growth areas:**
 
 - Automation
 - Manufacturing recovery
@@ -63,68 +95,67 @@ Assembles mechanical machinery and equipment according to technical drawings and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 由雇主担保的工作居留，需证明岗位无法在欧盟境内填补。适合已有工作offer的第三国申请人。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，要求高等教育或同等经验，薪资门槛约3.3万欧元/年。机械装配工若满足学历和经验要求可申请。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留12个月寻找工作，需提供经济证明。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. Suitable for third-country applicants who already have job offers. |
+| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled positions, requires higher education or equivalent experience, salary threshold around €33,000/year. Mechanical assemblers meeting education and experience requirements can apply. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 12 months looking for a job, and financial proof is required. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Machinery Assembler？**
-- 喜欢动手操作，有机械组装经验者
-- 愿意在制造业或工矿企业稳定就业
-- 具有耐心和细致观察力，注重装配精度
-
-**谁不适合学Mechanical Machinery Assembler？**
-- 无法适应重复性体力劳动或站着工作
-- 不喜车间环境（噪音、油污）
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Prefer hands-on operations and have experience in mechanical assembly
+- Willing to work stably in manufacturing or industrial and mining enterprises
+- Patient and meticulous observation, with emphasis on assembly precision
+
+**Who is not suited**
+- Unable to adapt to repetitive physical labor or standing work
+- Dislikes workshop environment (noise, oil stains)
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for mechanical assemblers in Spain?**
+A: Beginner is about 18,000-22,000 euros per year, intermediate 22,000-28,000 euros per year, and advanced 28,000-35,000 euros per year. Salaries are influenced by region, company size, and experience.
+
+**Q: Can third-country citizens immigrate to Spain through mechanical assemblers?**
+A: Yes, but employer sponsorship is required. Those with FP qualifications or relevant experience can apply through work residence (Cuenta ajena) or the EU Blue Card. Occupations are not in short supply but have stable demand.
+
+**Q: What education or training is required to become a mechanical assembler?**
+A: Typically, completion of FP Grado Medio or Superior in mechanical manufacturing/mechatronics is required. Public FP is almost free, and you can also start with FP Básica. Corporate training is also recognized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Mechanical Machinery Assembler的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a mechanical machinery assembler in Spain?**
-答：Junior: €18,000-22,000/year; Mid: €22,000-28,000/year; Senior: €28,000-35,000/year. Varies by region, company size, and experience.
-
-**问：Can a third-country national immigrate to Spain as a mechanical machinery assembler?**
-答：Yes, employer sponsorship is required. Those with vocational training or experience can apply via work permit (Cuenta ajena) or EU Blue Card. The occupation is not a shortage but has steady demand.
-
-**问：What education or training is required to become a mechanical machinery assembler?**
-答：Typically a vocational training (FP Grado Medio or Superior) in mechanical manufacturing or mechatronics. Public FP is nearly free. Company training is also valued.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

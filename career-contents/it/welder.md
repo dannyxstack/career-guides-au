@@ -1,58 +1,92 @@
-# Welder（Welder）职业分析 · IT
+# Welder — career analysis · Italy
 
-**职业代码：7212 – Welder。**
+**Occupation code: 7212 (ISCO08)**
 
-Welders in Italy use arc, gas, and other techniques to join metal components, employed across manufacturing, construction, and maintenance sectors.
+In Italy, welders use arc, gas welding and other techniques to join metal parts, widely used in manufacturing, construction and maintenance industries.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训证书 | 2年 | —（公立职业培训机构免费或低费） |
-| 技术高中文凭 | 5年 | —（公立学校免费） |
+| Vocational training certificate | 2 years | $0~$3,000 (Free or low-cost public vocational training institutions) |
+| Technical high school diploma | 5 years | $0~$0 (Free public schools.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接技师证书 | 意大利焊接学会 (IIS) | 可选 | 部分雇主要求，提升竞争力 |
-| EN 1090 认证 | 认证机构 | 必备 | 钢结构焊接需符合欧盟标准 |
+| EN 1090 certification | Certification bodies | Required | Steel structure welding must comply with EU standards |
+| Welding Technician Certificate | Italian Institute of Welding (IIS) | Optional | Required by some employers to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 85,000。意大利制造业和建筑业对焊工需求稳定，但受经济周期影响；北部工业区机会较多。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 85,000. Demand for welders in Italy's manufacturing and construction sectors is stable but affected by economic cycles; more opportunities in the northern industrial regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$25,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含监督职责 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$25,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Annual pre-tax salary, including supervisory duties |
+| average salary | $29,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒晋升为熟练焊工，进而成为焊接监督员、质检员或自主创业。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Can progress from apprentice to skilled welder, then to welding supervisor, quality inspector, or start your own business.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Manufacturing
 - Construction
@@ -61,67 +95,66 @@ Welders in Italy use arc, gas, and other techniques to join metal components, em
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟技术工人，需雇主担保且符合年度配额 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能工人，年薪需达约3万欧元以上，焊工通常不满足 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU skilled workers, requiring employer sponsorship and subject to annual quotas |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled workers, annual salary must reach approximately €30,000 or more; welders typically do not meet this requirement |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welder？**
-- 动手能力强、注重安全细节的人
-- 愿意接受职业培训和技术提升的人
-- 能适应体力工作及不同工作环境的人
-
-**谁不适合学Welder？**
-- 不喜户外或工厂环境的人
-- 对精确性和重复性工作缺乏耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills and attention to safety details
+- Those willing to undertake vocational training and skill improvement
+- Able to adapt to physical work and different working environments
+
+**Who is not suited**
+- People who dislike outdoor or factory environments
+- People who lack patience for precise and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a welder in Italy?**
+A: Entry-level around €20,000–25,000, mid-level €25,000–32,000, senior up to €40,000+.
+
+**Q: How can a welder obtain a work visa for Italy?**
+A: Requires employer sponsorship, application through Decreto Flussi quota, or application for EU Blue Card (high annual salary requirement).
+
+**Q: Is welding certification required in Italy?**
+A: Not mandatory, but holding an IIS Welding Technician certificate or EN 1090 certification can improve job opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Welder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a welder in Italy?**
-答：Entry-level around €20,000-25,000, mid-level €25,000-32,000, senior up to €40,000+ per year.
-
-**问：How can a welder obtain a work visa for Italy?**
-答：Requires employer sponsorship via Decreto Flussi quota or EU Blue Card (high salary threshold).
-
-**问：Is welding certification required in Italy?**
-答：Not mandatory, but IIS Welding Technician certificate or EN 1090 certification improves job prospects.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

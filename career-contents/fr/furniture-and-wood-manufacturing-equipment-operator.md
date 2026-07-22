@@ -1,62 +1,94 @@
-# Furniture And Wood Manufacturing Equipment Operator（Furniture And Wood Manufacturing Equipment Operator）职业分析 · FR
+# Furniture And Wood Manufacturing Equipment Operator — career analysis · France
 
-**职业代码：H2202 – Furniture And Wood Manufacturing Equipment Operator。**
+**Occupation code: H2202 (ROME)**
 
-Operates woodworking and furniture manufacturing equipment such as saws, planers, and CNC machines to cut, shape, and assemble products.
+Operate wood processing and furniture manufacturing equipment, including saws, planers, CNC machines, etc., to complete cutting, forming, and assembly processes.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP木工机械操作 | 2年 | —（公立学校免费，学徒制有补贴） |
-| Bac Pro木材加工技术 | 3年 | —（可申请学徒制，学费全免） |
-| BTS木材与家具工业 | 2年 | —（公立学校免费，材料费约500-1500€） |
+| CAP woodworking machinery operation | 2 years | $0~$500 (Public schools are free, and apprenticeships are subsidized) |
+| Bac Pro wood processing technology | 3 years | $0~$800 (You can apply for an apprenticeship program with full tuition waiver) |
+| BTS Wood and Furniture Industry | 2 years | $0~$1,500 (Public schools are free, and material costs are about €500–1500) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP木工机械操作 | 法国教育部 | 必备 | 基础文凭，多数雇主要求 |
-| CACES木工机械认证 | CNAM | 可选 | 特定设备操作必需 |
-| Bac Pro木材加工 | 法国教育部 | 可选 | 更高级别资格，可晋升 |
+| CAP woodworking machinery operation | French Ministry of Education | Required | A basic diploma, required by most employers |
+| CACES woodworking machinery certification | CNAM | Optional | Required for specific equipment operation |
+| Bac Pro wood processing | French Ministry of Education | Optional | Higher-level qualifications can be promoted |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国木工机械操作员需求稳定，受建筑和家具行业影响。数字化转型和自动化趋势下，掌握CNC编程者更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for woodworking machinery operators in France remains stable, influenced by the construction and furniture industries. With the trend of digital transformation and automation, CNC programmers are increasingly popular.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，含主管岗位 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $26,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $32,000~$40,000 | Annual salary before tax, including supervisor positions |
+| average salary | $25,128 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升为高级技师或生产主管，也可通过学徒制（CAP/Bac Pro）转向CNC编程或设备维护。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Operators of furniture and wood manufacturing equipment face high automation risks. CNC and intelligent sawing systems can now replace most cutting and forming processes, and entry-level positions have significantly narrowed.
+
+You can be promoted from junior operator to senior technician or production supervisor, or transition to CNC programming or equipment maintenance through apprenticeship (CAP/Bac Pro).
+
+**Tasks most exposed to AI:**
+
+- CNC machines automatically programmed according to CAD drawings complete cutting and drilling
+- The intelligent sawmill system automatically optimizes layout and performs sawing
+- Robots automatically assemble furniture components (such as nailing and gluing)
+- AI visual inspection systems replace manual quality checks
+
+**Where AI augments the role:**
+
+- AI-assisted scheduling systems optimize production batches and material circulation
+- Digital twin technology simulates machining paths to reduce trial cutting waste
+- Predictive maintenance reminders for equipment reduce downtime
+
+**Human moat:**
+
+- Customized manual precision machining of complex special-shaped parts
+- Assessment of wood characteristics and defect treatment (such as knots and cracks)
+- New process flow design and commissioning of non-standard equipment
+- Team on-site coordination and emergency handling of sudden faults
+
+**Skills to build:**
+
+- CNC programming and multi-axis machine tool operation
+- CAD/CAM software applications (such as SolidWorks, Mastercam)
+- Basic programming and teaching of industrial robots
+- Equipment fault diagnosis and preventive maintenance
+- Digital twin and production data collection and analysis
+- Knowledge of woodworking and new material composite processes
+
+**Key growth areas:**
 
 - CNC programming
 - automation
@@ -65,65 +97,67 @@ Operates woodworking and furniture manufacturing equipment such as saws, planers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Work Permit)） | 需要雇主担保，通常要求法国认可的文凭或至少3年工作经验 |
-| Subclass Passeport Talent（Passeport Talent – Qualified Employee） | 适用于高技能人才，需硕士文凭+雇佣合同，或紧缺职业 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生可申请，允许在法国寻找工作 |
+| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, usually a diploma recognized in France or at least 3 years of work experience |
+| Subclass Passeport Talent (Passeport Talent – Qualified Employee) | Suitable for high-skilled talents, requires master's degree + employment contract, or in shortage occupation. |
+| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, allowing them to find jobs in France |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Furniture And Wood Manufacturing Equipment Operator？**
-- 喜欢动手操作机械、对木材加工感兴趣的人
-- 愿意接受技术培训、适应工厂环境
+**Who is suited**
+- People who enjoy operating machinery and are interested in wood processing
+- Willing to undergo technical training and adapt to factory environments
 
-**谁不适合学Furniture And Wood Manufacturing Equipment Operator？**
-- 不喜重复性体力劳动或噪音环境
-- 寻求高收入或快速移民途径者
+**Who is not suited**
+- Dislikes repetitive physical labor or noisy environments
+- Those seeking high-income or fast-track immigration pathways
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary outlook for furniture and wood manufacturing equipment operators?**
+A: The entry-level annual salary is about €22,000-26,000, and the senior-level salary can reach €40,000. Those with automation skills earn higher salaries.
+
+**Q: Can third-country nationals immigrate to France through this employment?**
+A: It is quite difficult, but this occupation is not in urgent demand, and employer sponsorship requirements are strict. It is recommended to follow the Salarié or Passeport Talent path, but a French-recognized diploma is required.
+
+**Q: What educational background is required?**
+A: Minimum requirement is a CAP diploma (2 years), with Bac Pro (3 years) recommended. Apprenticeship is a common path.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Furniture And Wood Manufacturing Equipment Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for furniture and wood manufacturing equipment operators?**
-答：Entry-level salaries range from €22,000 to €26,000, senior positions up to €40,000. Additional automation skills can increase pay.
-
-**问：Can third-country nationals immigrate through this occupation?**
-答：Difficult, as it's not a shortage occupation. Employer sponsorship is required, and a French-recognized diploma is preferred. The Salarié or Passeport Talent visas are options.
-
-**问：What education is required?**
-答：Minimum CAP diploma (2 years), Bac Pro recommended (3 years). Apprenticeship is a common pathway.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

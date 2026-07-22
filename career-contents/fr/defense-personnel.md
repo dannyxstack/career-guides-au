@@ -1,62 +1,97 @@
-# Defense Personnel（Defense Personnel）职业分析 · FR
+# Defense Personnel — career analysis · France
 
-**职业代码：K1701 – Defense Personnel。**
+**Occupation code: K1701 (ROME)**
 
-Defense personnel are civilian or military roles in the French armed forces, covering administrative, logistical, and technical support functions. They work under the Ministry of Defense and require rigorous selection and training.
+Defense personnel are civilian or military positions in the French military, involving non-combat functions such as administration, logistics, and technical support. This profession typically works at the Ministry of Defense or related agencies, requiring rigorous selection and training.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业高中文凭 | 2年（CAP） | —（公立学校免费，材料费约€0-1000） |
-| 高级技师文凭 | 2年（BTS） | —（公立院校免费，注册费及杂费约€0-2000） |
-| 硕士或专业培训 | 3-5年（Licence+Master） | —（公立大学学费约€0-5000/年，部分私立高商€10000+） |
+| Vocational high school diploma | 2 years (CAP) | $0~$1,000 (Public schools are free, with material fees ranging from about €0 to €1000) |
+| Senior Technician Diploma | 2 Years (BTS) | $0~$2,000 (Public institutions are free, with registration and miscellaneous fees ranging from €0 to €2000) |
+| Master's or professional training | 3-5 years (Licence + Master) | $0~$5,000 (Public university tuition approx. €0-5000/year, some private business schools €10,000+) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国防部安全许可 | 法国国防部 | 必备 | 多数岗位需安全审查通过（机密级） |
-| 军事训练证书 | 法国军队 | 可选 | 文职岗可能不强制，但需军队基础训练 |
-| 专业技能认证 | 职业培训机构 | 可选 | 如IT、物流等领域，Cisco、PMP等国际认证有加分 |
+| Security permit from the Ministry of Defense | French Ministry of Defense | Required | Most positions require security review (confidential level) |
+| Military training certificate | French army | Optional | Civilian positions may not be mandatory, but require basic military training |
+| Professional skills certification | Vocational training institutions | Optional | For fields like IT and logistics, international certifications like Cisco and PMP offer extra points |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 270,000。法国国防领域岗位稳定，受国家预算保障。近年网络安全、无人机操作等新兴岗位需求增加，但整体就业竞争较激烈，需具备专业背景或军事训练。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 270,000. France's defense sector positions are stable and backed by the national budget. In recent years, demand for emerging positions such as cybersecurity and drone operations has increased, but overall job competition is fierce, requiring professional background or military training.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 包括基本工资及补贴 |
-| 中级（3-7年） | $35,000~$45,000 | 含岗位津贴与绩效 |
-| 高级（7年以上） | $45,000~$60,000 | 管理或专家岗，不含军职额外补贴 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | Including base salary and subsidies |
+| Mid-level (3–7 years) | $35,000~$45,000 | Including position allowances and performance |
+| Senior (7+ years) | $45,000~$60,000 | Management or expert positions, excluding additional military subsidies |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 晋升路径清晰：初级岗位（如行政助理）可通过内部考试晋升至管理或技术专家。高级职位如国防分析师或项目主管需多年经验及高级文凭（如硕士）。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+France's defense personnel (non-operational functions) face a mixed situation with AI: administrative, logistical, and data tasks are easily automated, but strict security procedures, human oversight, and emergency decision-making still require significant manpower, with overall risks of moderation.
+
+Clear promotion paths: entry-level positions (such as administrative assistants) can be promoted to management or technical specialists through internal exams. Senior positions such as defense analysts or project supervisors require years of experience and a higher diploma (such as a master's).
+
+**Tasks most exposed to AI:**
+
+- Routine document processing: AI automatically generates reports, updates personnel files, and manages leave applications
+- Logistics scheduling: AI optimizes material allocation, vehicle routes, and warehouse inventory management
+- Basic data organization: AI extracts and organizes financial, personnel, and equipment data from multiple sources
+- Communication system operation: AI-assisted automated communication routing and information distribution
+- Compliance document review: AI initially checks whether documents comply with national defense regulatory formats
+
+**Where AI augments the role:**
+
+- Threat intelligence analysis: AI aggregates intelligence data, enabling humans to interpret and make strategic judgments
+- Training and Simulation: AI generates complex combat scenarios, with human commanders conducting tactical simulations
+- Equipment Maintenance Prediction: AI analyzes sensor data, and human engineers execute maintenance decisions
+- Security monitoring: AI detects abnormal video/audio patterns, with human security personnel confirming and responding
+- Rapid decision support: AI offers optional options for humans to choose within ethical and legal frameworks
+
+**Human moat:**
+
+- Irreplaceable human accountability: Major military decisions require legal responsibility and cannot be outsourced to AI
+- Adaptability to real battlefield environments: human intuition and adaptability under wild, emergency, and high-intensity stress
+- Confidentiality and trust: Loyalty checks for personnel when handling state secrets cannot be automated
+- Complex ethical judgments: scenarios such as firing, law enforcement, and civil protection require judgments based on human values
+- Unstructured site management: responding to sudden physical events (such as riots and natural disasters)
+
+**Skills to build:**
+
+- Use of intelligence analysis tools (such as R, Python, data visualization)
+- AI system acceptance and audit capabilities (understanding model limitations)
+- Cybersecurity Fundamentals (Protecting Defense Information Systems)
+- Emergency decision-making and stress management training
+- Multi-domain Joint Command (Joint NATO Communications Agreement)
+- Proficient in French EU public procurement regulations
+
+**Key growth areas:**
 
 - Cybersecurity
 - Drone operations
@@ -65,66 +100,68 @@ Defense personnel are civilian or military roles in the French armed forces, cov
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee） | 需获得法国雇主工作合同，通常要求本土招聘优先，文职岗位有机会 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，如国防领域专家，需提供高级文凭或项目经验 |
-| Subclass Carte bleue UE（EU Blue Card） | 针对高薪岗位（≥€53,200），国防技术专家可尝试，但欧盟公民优先 |
+| Subclass Salarié (Employee) | Requires a job contract from a French employer, usually prioritising local hiring; office roles are possible. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, such as defense experts, advanced diplomas or project experience are required |
+| Subclass Carte bleue UE (EU Blue Card) | For high-paying positions (≥€53,200), defense technology specialists can try, but EU citizens are given priority |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Defense Personnel？**
-- 法国公民或具备合法工作身份者
-- 有志于公共服务、国防安全领域的人士
-- 具备行政、IT或后勤专业技能者
+**Who is suited**
+- French citizens or those with legal work status
+- Individuals aspiring to public service and national defense security
+- Possess administrative, IT, or logistical professional skills
 
-**谁不适合学Defense Personnel？**
-- 非欧盟公民且寻求便捷移民路径者
-- 不愿接受严格安全审查或军事化管理者
+**Who is not suited**
+- Non-EU citizens seeking easy immigration pathways
+- Unwilling to undergo strict security scrutiny or militarized management
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for defense personnel?**
+A: Entry-level starting salaries are about €25k-35k, intermediate salaries €35k-45k, and seniors €45k-60k. Military positions also receive additional subsidies and benefits.
+
+**Q: Can non-EU citizens immigrate to France through defense personnel?**
+A: The difficulty is quite high. Most positions require French nationality or EU status; clerical positions allow for a work permit, but employers must prove that there is no suitable candidate locally.
+
+**Q: What are the promotion paths for defense personnel?**
+A: You can advance to management positions through internal exams, or pursue a master's degree through continuing education to transition to a technical specialist path, such as cybersecurity analyst.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Defense Personnel属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for defense personnel?**
-答：Entry-level salaries range from €25k to €35k, mid-level €35k-45k, and senior €45k-60k. Military roles include additional allowances.
-
-**问：Can non-EU citizens immigrate to France through defense personnel positions?**
-答：It is difficult. Most roles require French or EU nationality. Civilian roles may allow work permits if the employer proves no local candidate is available.
-
-**问：What are the career progression paths for defense personnel?**
-答：Progression is possible through internal exams to management or via further education (e.g., master's degree) to technical expert roles like cybersecurity analyst.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

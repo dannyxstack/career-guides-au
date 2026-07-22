@@ -1,59 +1,94 @@
-# Neurologist（Neurologist）职业分析 · 新西兰
+# Neurologist — career analysis · New Zealand
 
-**职业代码：253318 – Neurologist。**
+**Occupation code: 253318 (ANZSCO)**
 
-Neurologists diagnose and treat nervous system disorders such as stroke, epilepsy, and Parkinson's disease. This occupation is on the Green List Tier 1, offering a direct residence pathway in New Zealand.
+Neurologists are medical specialists who diagnose and treat diseases of the nervous system (such as stroke, epilepsy, Parkinson's disease). This occupation is on New Zealand's Green List Tier 1 for the long term, allowing direct residence application with a clear immigration pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 医学本科 | 6年 | $70,000~$80,000（奥克兰大学国际生年学费约7-8万纽元） |
-| 专科培训 | 5-6年 | —（受雇培训，有薪资） |
+| Bachelor of Medicine (MBBS). | 6 years | $70,000~$80,000 (Annual tuition for international students at the University of Auckland: approximately NZ$70,000-80,000.) |
+| Specialist training | 5-6 years. | $0~$0 (Employed training, with salary) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学学位（MBChB） | 新西兰医学院校（如奥塔哥大学） | 必备 | 需完成6年医学本科 |
-| 新西兰医学委员会注册 | Medical Council of New Zealand (MCNZ) | 必备 | 需通过NZREX或AMC考试，完成实习 |
-| 澳大利亚及新西兰皇家内科医学院院士（FRACP） | Royal Australasian College of Physicians (RACP) | 必备 | 神经科亚专科认证 |
+| Medical Degree (MBChB) | New Zealand medical schools (e.g., University of Otago) | Required | Must complete a 6-year medical bachelor's degree |
+| Medical Council of New Zealand registration | Medical Council of New Zealand (MCNZ) | Required | Must pass NZREX or AMC exams, complete internship |
+| Fellow of the Royal Australasian College of Physicians (FRACP) | Royal Australasian College of Physicians (RACP) | Required | Neurology subspecialty certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 120。新西兰神经科医生需求持续增长，因人口老龄化和神经系统疾病发病率上升。偏远地区和公立医院缺口大，预计未来5年就业机会强劲。
+**Job demand: very high (★★★★★).** National workforce approx. 120. Demand for neurologists in New Zealand continues to grow due to aging population and rising incidence of neurological diseases. Shortages are significant in remote areas and public hospitals, with strong job opportunities expected over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $110,000~$130,000 | 注册后住院医师或专科培训阶段 |
-| 中级（4-9年） | $150,000~$200,000 | 完成培训的顾问神经科医生 |
-| 高级（10年以上） | $220,000~$300,000 | 资深顾问、主任或教授 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $110,000~$130,000 | Post-registration residency or specialist training stage |
+| Intermediate (4-9 years) | $150,000~$200,000 | Consultant neurologist who has completed training |
+| Senior (10+ years) | $220,000~$300,000 | Senior consultant, director or professor |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极好（★★★★★）。** 通常从住院医师起步，完成专科培训后成为顾问神经科医生。可晋升为科室主任、临床教授，或转向亚专科（如癫痫、卒中、神经肌肉疾病）。
-**AI替代风险：极低（½☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: very low (½☆☆☆☆).**
 
-主要增长方向：
+Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
+
+Usually starts as a resident, after completing specialist training becomes a consultant neurologist. Can advance to department head, clinical professor, or sub-specialize (e.g., epilepsy, stroke, neuromuscular diseases).
+
+**Tasks most exposed to AI:**
+
+- AI auto-annotates suspicious lesion areas (e.g., lung nodules, fracture candidate boxes), reducing technicians' initial marking workload
+- AI Auto-measurement of Quantitative Parameters (e.g., organ size, bone density) Replacing Manual Tasks
+- AI automatically generates standard imaging report drafts (e.g., negative reports); technicians only need to review and sign.
+- AI optimizes scanning protocols and exposure parameters, reducing manual adjustments of radiation
+
+**Where AI augments the role:**
+
+- AI improves low-dose image quality, enabling technicians to image sensitive groups like children and pregnant women more safely
+- AI automated serial scanning workflows (e.g., multi-phase cardiac MRI tracking) to improve complex exam efficiency
+- AI real-time noise suppression and motion artifact correction, reducing repeat scans for technicians
+- AI provides structured report templates and key image annotations, speeding up technician report writing by 50%
+- AI recommends personalized contrast dosage and injection plans based on patient data
+
+**Human moat:**
+
+- Patient communication, psychological reassurance, and positioning (especially for children, critically ill, and uncooperative patients)
+- Radiation safety compliance auditing and site emergency response
+- Professional Judgment and Final Diagnostic Responsibility for AI False Positives/Negatives
+- Cross-device coordination, quality control, and new technology validation
+- Real-time image guidance and equipment manipulation in interventional/surgical scenarios
+
+**Skills to build:**
+
+- AI-assisted diagnostic system operation and result verification (e.g., CAD, AI post-processing software)
+- Image AI quality control and deviation detection
+- Multimodal fusion imaging (PET-MRI, SPECT-CT) training
+- Patient communication and psychology: reassurance, informed consent, radiation risk explanation
+- Basic Python or DICOM data manipulation (for simple scripting and quality control)
+- Radiology informatics and evidence-based medicine literacy
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Neurologists diagnose and treat nervous system disorders such as stroke, epileps
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单T1职业，可直接申请居留，无需工作满两年。 |
-| Subclass SMC（Skilled Migrant Category） | 可通过技术移民类别申请，需满足6分制（学历+工作经验）。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未直接满足居留条件，可先持认证雇主工签工作，后续转居留。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List T1 occupation, can directly apply for residency, no need to work for two years. |
+| Subclass SMC (Skilled Migrant Category) | Can apply through skilled migration category, requiring meeting a points system (qualifications + work experience). |
+| Subclass AEWV (Accredited Employer Work Visa) | If residence conditions are not directly met, you can first work on an accredited employer work visa and then transition to residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Neurologist？**
-- 具备顶级学术能力和毅力的医学毕业生
-- 对神经系统疾病有浓厚兴趣的医生
-- 愿意在新西兰偏远地区工作以换取快速居留的人
-
-**谁不适合学Neurologist？**
-- 无法承受长时间高压学习和工作的人
-- 希望快速进入职场、不愿长期培训的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Medical graduates with top academic ability and perseverance
+- Doctors with strong interest in neurological diseases
+- Those willing to work in remote areas of New Zealand in exchange for fast-track residency
+
+**Who is not suited**
+- People who cannot withstand long periods of high-pressure study and work.
+- People who want to enter the workforce quickly and are unwilling to undergo long-term training
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of neurologists?**
+A: Junior: around NZD 110,000-130,000, intermediate NZD 150,000-200,000, senior NZD 220,000-300,000. Public hospitals have salary scales; private hospitals pay higher.
+
+**Q: Is it easy for neurologists to immigrate to New Zealand?**
+A: Easy. This occupation is on the Green List T1 and can directly apply for residency. Requires MCNZ registration and RACP accreditation.
+
+**Q: How can overseas neurologists practice in New Zealand?**
+A: Must apply to MCNZ, pass NZREX or AMC exams, complete a 2-year internship, and pass RACP specialist assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | very high (★★★★★) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | very high (★★★★★) |
+| Competition | medium (★★½☆☆) |
+| Income level | very high (★★★★½) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | very low (½☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★★） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 极高（★★★★★） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★½） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极好（★★★★★） |
-| AI替代风险 | 极低（½☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-Neurologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for neurologists?**
-答：Entry-level NZD 110,000-130,000, mid-level NZD 150,000-200,000, senior NZD 220,000-300,000.
-
-**问：Is it easy for neurologists to migrate to New Zealand?**
-答：Yes. It's on Green List Tier 1, eligible for direct residence. Requires MCNZ registration and RACP fellowship.
-
-**问：How can overseas neurologists practice in New Zealand?**
-答：Apply to MCNZ, pass NZREX or AMC exams, complete 2-year internship, and obtain RACP assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

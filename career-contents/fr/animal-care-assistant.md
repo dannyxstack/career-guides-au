@@ -1,60 +1,96 @@
-# Animal Care Assistant（Animal Care Assistant）职业分析 · FR
+# Animal Care Assistant — career analysis · France
 
-**职业代码：A1501 – Animal Care Assistant。**
+**Occupation code: A1501 (ROME)**
 
-Assists veterinarians in clinics, shelters, or pet shops with animal care, feeding, cleaning, and basic medical procedures.
+Assist veterinarians with animal care, feeding, cleaning, and basic medical procedures at veterinary clinics, animal shelters, or pet shops.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+短期培训 | 约1年（CAP） | —（公立CAP学费低或免费，私立培训最高约3000欧元） |
-| 职业高中文凭 | 2年（Bac Pro） | —（公立学校免学费，私立学校约2000-5000欧元） |
+| High school graduation + short-term training | Approximately 1 year (CAP) | $0~$3,000 (Public CAP tuition is low or free, while private training costs up to about 3,000 euros) |
+| Vocational high school diploma | 2 years (Bac Pro) | $0~$5,000 (Public schools are free, private schools about €2,000-5,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物护理CAP证书 | 法国教育部 | 可选 | 基础从业证书，非强制但雇主青睐 |
-| 狂犬病疫苗接种证明 | 卫生部门 | 可选 | 处理动物时建议接种 |
+| Animal Care CAP certificate | French Ministry of Education | Optional | Basic professional certificate, not mandatory but favored by employers |
+| Rabies vaccination certificate | Health department | Optional | Vaccination is recommended when handling animals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。法国宠物数量持续增长，兽医诊所和动物收容所需求稳定，但岗位竞争中等，就业机会集中在城市地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. The number of pets in France continues to grow, with stable demand for veterinary clinics and animal shelters, but competition for positions is moderate, with job opportunities concentrated in urban areas.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 税前年薪，以SMIC为基础 |
-| 中级（3-5年） | $22,000~$26,000 | 税前年薪，含经验加成 |
-| 高级（5年以上） | $26,000~$30,000 | 税前年薪，可达管理层或专科助理 |
+| Median salary | $24,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $18,000~$22,000 | Pre-tax annual salary, based on SMIC |
+| Mid-level (3–5 years) | $22,000~$26,000 | Annual salary before tax, including experience bonuses |
+| Senior (5+ years) | $26,000~$30,000 | Pre-tax annual salary can reach management or specialist assistant levels |
+| average salary | $23,583 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级助理晋升为高级护理员，或通过继续教育成为兽医助理（辅助兽医技术员）或动物行为顾问。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on animal care assistants is mixed: some paperwork and monitoring tasks will be automated, but clinical care, emotional interaction, and emergency judgment remain human moats, and overall job demand remains stable.
+
+Candidates can be promoted from junior assistant to senior nurse, or through continuing education to become a veterinary assistant (assistant veterinary technician) or animal behavior consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatic feeding and drinking system operation
+- Recording and monitoring basic health data (such as temperature and weight)
+- Automated execution of cleaning and disinfection processes
+- Appointment scheduling and client communication
+- Inventory management and consumables ordering
+
+**Where AI augments the role:**
+
+- AI imaging recognition assists in diagnosing skin diseases or parasites
+- Predicting disease risks through AI analysis of health data
+- Enhance communication efficiency with AI-driven customer management systems
+- Automated equipment is used to perform repetitive nursing tasks, freeing up human labor
+- Use AI training simulators to enhance first aid and nursing skills
+
+**Human moat:**
+
+- Intuitive judgment of animal emotions and discomfort
+- On-site decision-making and rescue in emergency situations
+- The ability to build trust and emotional connections with their owners
+- Practical skills for soothing and restraining animals
+- Delicate hand movements for complex medical procedures
+
+**Skills to build:**
+
+- Animal Behavior and Stress Management
+- Basic AI tool operations (such as health monitoring platforms)
+- Data analysis and report interpretation
+- Veterinary first aid skills improved
+- Cross-species communication and customer education
+- Maintenance and troubleshooting of automated equipment
+
+**Key growth areas:**
 
 - Pet ownership increase
 - Animal welfare awareness
@@ -63,64 +99,66 @@ Assists veterinarians in clinics, shelters, or pet shops with animal care, feedi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主提供CDI合同，且工资不低于SMIC，但此职业非紧缺，签证获批难度大。 |
+| Subclass Salarié (Employee Work Permit) | Employer must provide a CDI contract with salary at least SMIC, but this occupation is not in shortage, making visa approval difficult. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Care Assistant？**
-- 热爱动物，有耐心和同理心
-- 愿意从事体力劳动（清洁、搬运）
-- 能适应不规律工作时间（周末、假日）
+**Who is suited**
+- Passionate about animals, patient and empathetic
+- Willing to do physical labor (cleaning, moving)
+- Able to adapt to irregular working hours (weekends, holidays)
 
-**谁不适合学Animal Care Assistant？**
-- 对动物毛发或气味过敏
-- 期望高薪或快速晋升
+**Who is not suited**
+- Allergy to animal hair or dander
+- Expecting high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for animal care assistants?**
+A: Entry-level pre-tax annual salary about 18,000-22,000 EUR, can reach 30,000 EUR with experience, but overall low.
+
+**Q: Can foreigners apply for an animal care assistant work visa?**
+A: This profession is not in short supply in France, employer sponsorship is difficult, and third-country applicants can hardly obtain work visas.
+
+**Q: What educational qualifications are required to become an animal care assistant?**
+A: Usually, only a high school diploma plus short-term training (such as CAP) or a vocational high school diploma (Bac Pro) are required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Animal Care Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal care assistants?**
-答：Entry-level gross annual salary is around €18,000-€22,000, reaching up to €30,000 with experience, but overall low.
-
-**问：Can foreigners apply for a work visa as an animal care assistant?**
-答：The profession is not in shortage in France, employer sponsorship is difficult, and third-country applicants have almost no chance of obtaining a work visa.
-
-**问：What education is needed to become an animal care assistant?**
-答：Typically a high school diploma plus short training (e.g., CAP) or a vocational baccalaureate (Bac Pro).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

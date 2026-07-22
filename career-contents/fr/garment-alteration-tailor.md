@@ -1,60 +1,96 @@
-# Garment Alteration Tailor（Garment Alteration Tailor）职业分析 · FR
+# Garment Alteration Tailor — career analysis · France
 
-**职业代码：D1207 – Garment Alteration Tailor。**
+**Occupation code: D1207 (ROME)**
 
-Alters and adjusts ready-to-wear garments such as hemming, taking in, and replacing zippers to ensure a perfect fit, working in tailor shops, dry cleaners, or retail clothing stores.
+Responsible for modifying and adjusting ready-to-wear garments, such as changing lengths, waist compressions, and zipper changes to meet clients' personalized fitting needs. Often works in tailor shops, dry cleaners, or clothing retail stores.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP服装职业资格 | 2年 | —（公立职高免费，学徒制有津贴） |
-| Bac Pro时装职业高中 | 3年 | —（公立教育免费，材料费自理） |
-| BTS时装设计高级技师文凭 | 2年 | —（公立学校免学费，私立学校费用较高） |
+| CAP garment professional qualification | 2 years | $0~$1,500 (Public vocational high schools are free, and apprenticeships come with subsidies) |
+| Bac Pro Fashion Vocational High School | 3 years | $0~$2,000 (Public education is free; materials are self-paid) |
+| BTS Senior Fashion Design Technician Diploma | 2 years | $0~$3,000 (Public schools are free of charge, while private schools are more expensive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Métiers de la Mode - Vêtement Flou | 法国教育部 | 可选 | 服装行业基础文凭，证明缝纫与改衣技能 |
-| Bac Pro Métiers de la Mode - Vêtement | 法国教育部 | 可选 | 高级职业文凭，涵盖设计与生产技术 |
-| BTS Métiers de la Mode - Vêtement | 法国教育部 | 可选 | 高级技师文凭，深化技术与管理能力 |
+| CAP Métiers de la Mode - Vêtement Flou | French Ministry of Education | Optional | A basic diploma in the garment industry, proving sewing and altering skills |
+| Bac Pro Métiers de la Mode - Vêtement | French Ministry of Education | Optional | Advanced Professional Diploma, covering design and production technology |
+| BTS Métiers de la Mode - Vêtement | French Ministry of Education | Optional | Advanced Technician Diploma to deepen technical and management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 60,000。法国服装修改行业需求稳定，受快时尚与可持续时尚推动，修补与改衣服务日益受到青睐。但行业竞争中等，独立裁缝需建立稳定客源，就业机会主要集中在大中城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 60,000. Demand in the French clothing alteration industry is stable, driven by fast fashion and sustainable fashion, with repair and alteration services increasingly favored. However, industry competition is moderate, and independent tailors need to establish a stable clientship, with employment opportunities mainly concentrated in large and medium-sized cities.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，通常以SMIC为起点 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，视技能与客源而定 |
-| 高级/店铺主管（7年以上） | $28,000~$35,000 | 税前年薪，高技能或自主创业收入更高 |
+| Median salary | $25,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, usually starting at SMIC |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary depends on skills and client sources |
+| Senior/Store Supervisor (over 7 years) | $28,000~$35,000 | Pre-tax annual salary, higher income for high-skilled or self-employed entrepreneurs |
+| average salary | $26,988 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或初级裁缝做起，积累经验后可晋升为高级裁缝或店铺主管，也可自主创业开设裁缝店。部分从业者向高级定制、舞台服装或时装修复等细分领域发展。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+Typically, you start as an apprentice or junior tailor, and after gaining experience, you can be promoted to senior tailor or shop manager, or start your own tailor shop. Some practitioners have developed into specialized fields such as haute couture, stage costumes, or fashion restoration.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Slow Fashion
 - Sustainable Tailoring
@@ -63,68 +99,67 @@ Alters and adjusts ready-to-wear garments such as hemming, taking in, and replac
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee Work Permit)） | 受雇于法国裁缝店或服装企业的正式工作居留，需雇主担保，薪资不低于SMIC |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才或创业者，如开设裁缝店或具备突出技能，可申请 |
-| Subclass Carte bleue européen（EU Blue Card） | 对高技能移民主体的欧盟蓝卡，要求年薪高于法国平均水平（约53,000欧元），改衣师通常难以达到此门槛 |
+| Subclass Salarié (Salarié (Employee Work Permit)) | Formal work residency employed by a French tailor shop or garment company requires an employer sponsorship and a salary not lower than SMIC |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents or entrepreneurs, such as those who open tailor shops or possess outstanding skills, may apply |
+| Subclass Carte bleue européen (EU Blue Card) | The EU Blue Card for high-skilled immigrants requires an annual salary higher than the French average (about 53,000 euros), which is difficult for tailors to meet. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Garment Alteration Tailor？**
-- 喜欢手工操作、注重细节的人
-- 希望通过技能创业或自由职业的人
-- 适应灵活工作时间、乐于与客户直接沟通的人
-
-**谁不适合学Garment Alteration Tailor？**
-- 对重复性手工劳动缺乏耐心的人
-- 期望高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and pay attention to detail.
+- Those who want to start a business through skills or freelancing
+- Someone who adapts to flexible working hours and enjoys communicating directly with clients
+
+**Who is not suited**
+- People who lack patience for repetitive manual labor
+- People expecting high salary or fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for French clothing alterers?**
+A: Junior alterers earn about 18,000-22,000 euros (before tax) annually, intermediate about 22,000-28,000 euros, and senior or shop owners can earn 28,000-35,000 euros. Income from self-employment fluctuates greatly depending on the clientele.
+
+**Q: How can foreign costume alterers immigrate to France?**
+A: The common path is to apply for Salarié work residence, which requires obtaining a French employer contract; You can also prove your outstanding skills or entrepreneurial plans through Passeport Talent. EU citizens enjoy the right to free movement without additional visas.
+
+**Q: What qualifications are required to work in clothing alteration in France?**
+A: Although the law does not require diplomas, vocational certificates such as CAP or Bac Pro significantly enhance employment competitiveness. In addition, her extensive sewing experience is also recognized by employers.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Garment Alteration Tailor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a garment alteration tailor in France?**
-答：Entry-level tailors earn about €18,000-€22,000 gross per year, mid-level €22,000-€28,000, and senior/shop owners up to €28,000-€35,000. Self-employed income varies significantly.
-
-**问：How can a foreign garment alteration tailor immigrate to France?**
-答：Common route is a Salarié work permit with a French employer contract; or a Passeport Talent for outstanding skills or entrepreneurship. EU citizens enjoy free movement without extra visa.
-
-**问：What certifications are needed to work as a garment alteration tailor in France?**
-答：While not legally mandatory, a CAP or Bac Pro vocational diploma greatly enhances job prospects. Extensive sewing experience is also valued by employers.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

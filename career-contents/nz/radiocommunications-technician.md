@@ -1,59 +1,95 @@
-# Radiocommunications Technician（Radiocommunications Technician）职业分析 · 新西兰
+# Radiocommunications Technician — career analysis · New Zealand
 
-**职业代码：313211 – Radiocommunications Technician。**
+**Occupation code: 313211 (ANZSCO)**
 
-Radiocommunications Technicians install, maintain, and repair radio communication equipment including broadcasting, television, mobile networks, and satellite systems. This occupation is eligible for Skilled Migrant Category but not on the Green List, requiring AEWV or SMC for residency.
+Radio communication technicians install, maintain, and repair radio communication equipment, including broadcasting, television, mobile networks, and satellite systems. This occupation can follow a skilled migration path in New Zealand but is not on the Green List; residency must be applied for through an Accredited Employer Work Visa (AEWV) or the Skilled Migrant Category (SMC).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰学历证书（3级） | 1年 | $8,000~$15,000（如新西兰理工学院或私立培训机构课程） |
-| 文凭（5-6级） | 2-3年 | $20,000~$40,000（如电子或通信工程文凭） |
+| New Zealand Certificate (Level 3) | 1 year | $8,000~$15,000 (Such as courses from New Zealand Institutes of Technology or private training providers) |
+| Diploma (Level 5-6) | 2-3 years | $20,000~$40,000 (Such as a diploma in electronics or communication engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰电信行业协会MITEZ认证 | MITEZ | 可选 | 提升就业竞争力，非强制性 |
-| 无线通信设备操作执照 | 新西兰商业、创新和就业部 | 可选 | 操作特定设备可能需申请，非普遍要求 |
-| 雅思总分6.5或等同英语能力 | IELTS等 | 可选 | 技术移民签证要求 |
+| New Zealand Telecommunications Industry Association MITEZ certification | MITEZ | Optional | Enhances employment competitiveness, not mandatory |
+| Radio communication equipment operator license | New Zealand Ministry of Business, Innovation and Employment | Optional | Operating specific equipment may require a license, not a universal requirement |
+| IELTS overall score 6.5 or equivalent English ability | IELTS, etc. | Optional | Skilled Migration visa requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 800。新西兰通信行业持续发展，尤其在5G部署和偏远地区网络覆盖方面，无线电通信技术员需求稳定。未来五年就业增长率约5%，与全国平均持平。主要雇主包括电信运营商、广播公司和政府机构。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 800. New Zealand's communications industry continues to develop, especially in 5G deployment and rural network coverage, with steady demand for radio communications technicians. Employment growth over the next five years is expected to be around 5%, on par with the national average. Major employers include telecom operators, broadcasters, and government agencies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 年薪，可能包含加班费 |
-| 中级（3-6年） | $65,000~$85,000 | 年薪，具有独立工作能力 |
-| 高级（6年以上） | $85,000~$110,000 | 年薪，包括管理和复杂故障处理职责 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Annual salary, may include overtime pay |
+| Mid-level (3–6 years) | $65,000~$85,000 | Annual salary, with ability to work independently |
+| Senior (6+ years) | $85,000~$110,000 | Annual salary includes management and complex fault handling duties |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级技术员可通过积累经验晋升为高级技术员或团队领导，部分人员可转向网络规划、项目管理或技术支持岗位。获得行业认证（如MITEZ认证）有助于提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
+
+Junior technicians can advance to senior technicians or team leaders through experience; some can transition to network planning, project management, or technical support. Obtaining industry certifications (e.g., MITEZ certification) enhances competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate network configuration scripts and parameter optimisation solutions
+- Use AI Monitoring Systems to Automatically Detect and Locate Root Causes of Network Faults
+- Automated Generation of Standardized Network Performance Reports and Compliance Documents
+- Automatically perform spectrum planning and interference analysis using AI algorithms
+- Handle common user inquiries and ticket assignments using chatbots
+
+**Where AI augments the role:**
+
+- Using AI simulators to quickly validate 5G/fibre optic network designs
+- Proactively optimizing network capacity and coverage with AI predictive analytics
+- Improving complex link budget accuracy using AI-assisted engineering calculations
+- Use AI-driven digital twin platforms for iterative network planning
+- Using AI Tools to Automatically Generate Project Documents and Test Reports
+
+**Human moat:**
+
+- Cross-vendor heterogeneous network integration architecture design decisions
+- Client needs analysis and customized solution design
+- Handling operator compliance certifications and safety audits
+- Innovative network optimization strategies (non-standard scenarios)
+- High-Level Technical Communication with Clients and Team Members
+
+**Skills to build:**
+
+- AI/machine learning basics (for network optimization prediction)
+- Python or MATLAB script automation
+- Digital twin and network simulation tools (e.g., NS-3)
+- Cloud computing and SDN/NFV technologies
+- Data analysis (Pandas, TensorFlow)
+- Project management and requirements analysis (Agile)
+
+**Key growth areas:**
 
 - AEWV
 - Skilled Migrant Category
@@ -62,64 +98,63 @@ Radiocommunications Technicians install, maintain, and repair radio communicatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，可申请3年工签，续签后可能申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（如学历+工作经验），薪资需达到中位数（约NZD 61,066） |
+| Subclass AEWV (Accredited Employer Work Visa) | Must receive a job offer from an approved employer, can apply for a 3-year work visa, and may apply for residency after renewal |
+| Subclass SMC (Skilled Migrant Category) | Meet 6-point requirements (e.g. qualification + work experience), salary must reach median (approx. NZD 61,066) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Radiocommunications Technician？**
-- 喜欢动手操作、解决技术故障的人
-- 对无线电通信技术有热情，愿意持续学习
-- 适应户外工作和在不同地点出差
-
-**谁不适合学Radiocommunications Technician？**
-- 不喜欢户外工作和体力劳动
-- 缺乏耐心进行精密设备调试
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and solving technical faults
+- Passionate about radio communication technology, willing to continuously learn
+- Adaptable to outdoor work and travel to different locations
+
+**Who is not suited**
+- Dislikes outdoor work and physical labor.
+- Lacks patience for precision equipment calibration.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a radio communications technician in New Zealand?**
+A: Experienced mid-level technicians earn about NZD 65,000-85,000 annually, seniors up to NZD 85,000-110,000. Junior staff earn around NZD 50,000-65,000.
+
+**Q: Can radio communications technicians migrate to New Zealand?**
+A: Yes. This occupation is not on the Green List but is eligible under the Skilled Migrant Category (SMC), meeting the 6-point requirement (e.g., qualifications + work experience) and salary threshold. You can also work first via an Accredited Employer Work Visa (AEWV) and then apply for residency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Radiocommunications Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Radiocommunications Technician in New Zealand?**
-答：Experienced mid-level technicians earn around NZD 65,000-85,000, while senior technicians can earn NZD 85,000-110,000 per year. Entry-level ranges from NZD 50,000-65,000.
-
-**问：Can a Radiocommunications Technician immigrate to New Zealand?**
-答：Yes. This occupation is not on the Green List but is eligible for Skilled Migrant Category (SMC) under the 6-point system, requiring qualifications plus experience and a salary meeting the median wage. Alternatively, the AEWV pathway allows work leading to residency.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Artistic and Sports Representatives and Other Commercial Services Agents（Artistic and Sports Representatives and Other Commercial Services Agents）职业分析 · ES
+# Artistic and Sports Representatives and Other Commercial Services Agents — career analysis · Spain
 
-**职业代码：3539 – Artistic and Sports Representatives and Other Commercial Services Agents。**
+**Occupation code: 3539 (CNO)**
 
-Represent artists, athletes, and other clients in contract negotiations, career management, and coordination of performances, competitions, and commercial events, providing PR, financial, and legal support.
+Representing clients such as artists and athletes in contract negotiations, managing careers, coordinating performances, competitions, and commercial activities, and providing PR, financial, and legal support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$15,000（公立大学约1000-3000欧元/年，私立大学约5000-15000欧元/年） |
-| 职业培训（FP Grado Superior） | 2年 | —（公立FP免费或低学费，私立约1000-2000欧元/年） |
+| Undergraduate (Grado) | 4 years | $1,000~$15,000 (Public universities: about €1,000-3,000/year; private universities: about €5,000-15,000/year.) |
+| Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public FP free or low tuition; private approximately EUR 1,000–2,000 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 体育经纪人认证 | 西班牙体育理事会（CSD） | 必备 | 从事体育经纪需注册，部分体育联合会要求考试 |
-| 商业管理或相关学位 | 大学或FP | 可选 | 非强制但雇主偏好，可提升竞争力 |
+| Sports agent certification | Spanish Sports Council (CSD) | Required | Registration is required for sports brokerage, and some sports federations require an exam |
+| A degree in business administration or a related field | University or FP | Optional | Non-mandatory but preferred by employers, which can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。西班牙文化体育产业持续发展，数字媒体和全球化增加了对专业经纪人的需求，但竞争激烈。就业机会集中在马德里、巴塞罗那等大城市。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. Spain's cultural and sports industry continues to develop, with digital media and globalization increasing demand for professional agents, but competition is fierce. Employment opportunities are concentrated in major cities like Madrid and Barcelona.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 助理经纪人，收入较低 |
-| 中级（3-7年） | $30,000~$45,000 | 独立经纪人，含佣金 |
-| 高级（7年以上） | $50,000~$100,000 | 资深经纪人，高额佣金提成 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$25,000 | Assistant agent, with a relatively low income |
+| Mid-level (3–7 years) | $30,000~$45,000 | Independent broker, including commission |
+| Senior (7+ years) | $50,000~$100,000 | Senior brokers with high commission commissions |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理经纪人起步，积累客户资源后晋升为独立经纪人或创办经纪公司。也可转向活动策划、市场营销等关联领域。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Broker work will be augmented by AI, not replaced: tasks like contract analysis, market matching, and data-driven negotiation strategies are efficiently handled by AI, freeing up human focus on relationship maintenance and creative decisions.
+
+You can start as an assistant broker, accumulate client resources, and then advance to independent brokerage or start a brokerage company. It can also be expanded into related fields such as event planning and marketing.
+
+**Tasks most exposed to AI:**
+
+- Basic contract clause review and compliance checks
+- Automated coordination and conflict detection for artist/athlete schedules
+- Market data collection and preliminary quotation analysis
+- Standardized social media promotional copy generation
+- Auto-reply to simple customer consultation emails
+
+**Where AI augments the role:**
+
+- Uses AI to analyze artist social media data to optimize brand partnership strategies
+- AI-assisted negotiation simulation, predicting optimal offers and concession plans
+- Use machine learning models to predict event/performance box office and commercial value
+- Automatically generate personalized investment attraction plans and business reports
+- Using natural language processing to monitor industry trends and competitor activities.
+
+**Human moat:**
+
+- Build deep trust and personal relationships with artists/athletes
+- Immediate judgment and emotional support in crisis PR
+- Balancing complex multi-stakeholder interests (e.g., agencies, brands, artist teams)
+- On-the-spot adaptation in high-difficulty negotiations based on intuition and experience
+- Unstructured insights into emerging culture/niche markets
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/SQL/Tableau)
+- Use and tuning of AI tools (e.g., ChatGPT, contract analysis software)
+- Digital negotiation and remote collaboration tools
+- Basic programming skills (automation scripts)
+- Social media algorithms and content strategy
+- Cross-cultural communication and legal knowledge (IP/contracts)
+
+**Key growth areas:**
 
 - Digital Media
 - Sports Management
@@ -61,68 +97,67 @@ Represent artists, athletes, and other clients in contract negotiations, career 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（受雇工作居留） | 由西班牙雇主担保，适用于受雇于经纪公司或体育俱乐部的经纪人。需提供工作合同。 |
-| Subclass Altamente cualificad（高技能专业人才（Ley 14/2013）） | 适用于高收入或高学历经纪人，可快速获得居留。 |
-| Subclass Tarjeta azul UE（欧盟蓝卡） | 适用于高薪职位，需满足收入门槛（约33,600欧元/年）。 |
+| Subclass Cuenta ajena (Employed work residence) | Sponsored by Spanish employers, applicable to agents employed by agencies or sports clubs. A work contract must be provided. |
+| Subclass Altamente cualificad (Highly skilled professionals (Ley 14/2013)) | Applicable to high-income or high-education agents, can quickly obtain residency. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-paying positions that meet the income threshold (about 33,600 euros/year). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Artistic and Sports Representatives and Other Commercial Services Agents？**
-- 善于沟通、谈判和社交的人士
-- 对体育或娱乐行业有热情且具备商业头脑的人
-- 能承受高压、灵活安排工作的人
-
-**谁不适合学Artistic and Sports Representatives and Other Commercial Services Agents？**
-- 不喜欢频繁出差和不规律工作时间的人
-- 不擅长处理人际关系冲突的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at communication, negotiation, and socializing
+- Individuals passionate about the sports or entertainment industry and possessing a business mind
+- People who can handle high pressure and arrange work flexibly
+
+**Who is not suited**
+- People who dislike frequent business trips and irregular working hours
+- People who are not good at handling interpersonal conflicts
+
+---
+
+## 8. FAQ
+
+**Q: What is the income level of Spanish agents?**
+A: Income varies greatly; entry-level approx. €18,000–25,000, mid-level €30,000–45,000, senior can exceed €100,000, mainly commission-based.
+
+**Q: How can foreigners become Spanish agents?**
+A: You can do so through employment-based residence, highly skilled worker visas, or EU Blue Card immigration. Employer sponsorship is required, and some sports agents are required to register.
+
+**Q: What educational background is required to become an agent?**
+A: Bachelor's degrees in business, sports management, or media are advantageous, and you can also enter the industry through vocational training. Sports agents require specific certifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★★☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Artistic and Sports Representatives and Other Commercial Services Agents的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of agents in Spain?**
-答：Income varies widely: junior €18k-25k, mid €30k-45k, senior can exceed €100k, largely commission-based.
-
-**问：How can foreigners become agents in Spain?**
-答：Via work contract visa, high-skilled professional visa, or EU Blue Card. Employer sponsorship needed; sports agents must register.
-
-**问：What educational background is needed to become an agent?**
-答：A degree in business, sports management, or media is advantageous. Vocational training is possible. Sports agents need specific certification.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

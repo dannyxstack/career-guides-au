@@ -1,58 +1,94 @@
-# Purchasing Director（Purchasing Director）职业分析 · FR
+# Purchasing Director — career analysis · France
 
-**职业代码：M1102 – Purchasing Director。**
+**Occupation code: M1102 (ROME)**
 
-The Purchasing Director defines and implements the company's procurement strategy, manages supplier relationships, optimizes costs and supply chain efficiency, and leads the purchasing team.
+The Purchasing Director is responsible for formulating and implementing the company's procurement strategy, managing supplier relationships, optimizing procurement costs and supply chain efficiency, and leading the procurement team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（Bac+5） | 5年（Master） | —（公立大学学费约0-500欧元/年，高商约10000-20000欧元/年；学徒制可覆盖学费。） |
-| 本科（Bac+3） | 3年（Licence） | —（公立大学学费约0-500欧元/年，私立院校约3000-8000欧元/年。） |
+| Master's (BAC+5) | 5 years (Master) | $0~$10,000 (Public university tuition is about 0-500 euros per year, while high commercial high school tuition is about 10,000-20,000 euros per year; Apprenticeships can cover tuition fees.) |
+| Undergraduate (Bac+3) | 3 years (Licence) | $0~$5,000 (Public university tuition approximately EUR 0-500 per year; private institutions approximately EUR 3,000-8,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采购专业硕士 | 法国高等教育机构 | 可选 | 推荐：供应链管理、采购或商贸专业硕士。 |
-| CIPS认证 | 英国皇家采购与供应学会 | 可选 | 国际认可，非强制但有助于职业发展。 |
+| Master's degree in Procurement | French higher education institutions | Optional | Recommended: Master's degree in Supply Chain Management, Procurement, or Commerce. |
+| CIPS certification | Chartered Institute of Procurement & Supply (CIPS) | Optional | Internationally recognized, not mandatory, but beneficial for career development. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。法国采购总监需求稳定，尤其在大中型企业和工业领域。数字化转型和可持续采购趋势增加了对战略采购人才的需求，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 4,500. Demand for purchasing directors in France is stable, especially among medium and large enterprises and the industrial sector. Digital transformation and sustainable procurement trends have increased demand for strategic procurement talent, with promising job prospects.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 税前年薪，视公司规模和行业而定。 |
-| 中级（3-7年） | $65,000~$90,000 | 税前年薪，通常包括奖金。 |
-| 高级（7年以上） | $95,000~$150,000 | 税前年薪，另有绩效奖金。 |
+| Median salary | $77,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $45,000~$60,000 | Pre-tax annual salary depends on company size and industry. |
+| Mid-level (3–7 years) | $65,000~$90,000 | Pre-tax annual salary, usually including bonuses. |
+| Senior (7+ years) | $95,000~$150,000 | Pre-tax annual salary, plus performance bonuses. |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从采购经理或品类经理晋升，可通过MBA或专业培训加速。路径：采购经理→高级采购经理→采购总监→供应链副总裁。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
+
+Promotion usually starts from Purchasing Manager or Category Manager, and can be accelerated through an MBA or professional training. Pathways: Purchasing Manager→ Senior Procurement Manager→ Procurement Director→ Vice President of Supply Chain.
+
+**Tasks most exposed to AI:**
+
+- Automated inquiry and price comparison processes for standard procurement
+- Supplier master data maintenance and historical transaction analysis
+- Automated review and compliance checking of contract clauses
+- Inventory monitoring and automatic replenishment suggestions
+- Automated Generation and Tracking of Purchase Orders
+
+**Where AI augments the role:**
+
+- AI-based market price forecasting and strategic procurement decisions
+- Real-time monitoring and intelligent scoring of supplier risks
+- Data analysis support and pattern recognition in contract negotiations
+- Market insight and trend simulation in category strategy development
+- Automatic report and suggestion generation in cross-department collaboration
+
+**Human moat:**
+
+- Complex supplier relationship management and long-term strategic partnerships
+- Emergency decision-making and interpersonal coordination during supply chain disruptions
+- Human judgment and accountability in compliance and ethical procurement
+- Cross-cultural negotiation and interest balancing skills
+- Leadership and influence in organizational change management.
+
+**Skills to build:**
+
+- Operation and integration of AI procurement tools (e.g., SAP Ariba, Coupa AI)
+- Supply chain data analysis and predictive modeling (Python/R)
+- Supplier risk management and ESG assessment
+- Strategic category management and market intelligence
+- Cross-functional leadership and change management
+- Negotiation psychology and digital tool assistance
+
+**Key growth areas:**
 
 - Strategic Sourcing
 - Digital Procurement
@@ -61,68 +97,67 @@ The Purchasing Director defines and implements the company's procurement strateg
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于高技能人才，年薪需达法国平均年薪约1.5倍（约4.5万欧元以上），可携带家属。 |
-| Subclass Carte bleue UE（EU Blue Card） | 欧盟蓝卡，年薪要求5.4万欧元以上（2025年），可换工作并申请永居。 |
-| Subclass Salarié（Employee Residence Permit） | 受雇工作居留，需工作合同，由雇主担保，年薪不低于法定最低工资。 |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, annual salary must be about 1.5 times the French average (over EUR 45,000), can bring family. |
+| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, salary requirement above €54k (2025), allows job changes and permanent residence application. |
+| Subclass Salarié (Employee Residence Permit) | For employed work residence, a work contract is required, sponsored by the employer, and the annual salary must not be lower than the statutory minimum wage. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing Director？**
-- 有战略思维和谈判能力的人
-- 擅长数据分析与供应链管理
-- 有跨文化沟通能力
-
-**谁不适合学Purchasing Director？**
-- 不喜欢频繁出差和高压环境
-- 对细节和成本不敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strategic thinking and negotiation skills
+- Skilled in data analysis and supply chain management
+- Strong cross-cultural communication skills
+
+**Who is not suited**
+- Dislikes frequent business trips and high-pressure environments
+- Insensitive to details and cost
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a procurement director in France?**
+A: Entry-level approx. €45,000–€60,000, mid-level €65,000–€90,000, senior €95,000–€150,000 (pre-tax annual salary).
+
+**Q: How can foreigners obtain a work visa for a French procurement director?**
+A: Eligible via EU Blue Card or Talent Passport, requiring a work contract and meeting annual salary threshold. Talent Passport salary requirement approximately over €45,000 per year.
+
+**Q: What qualifications are required for the Purchasing Director?**
+A: A master's degree (Procurement/Supply Chain/Business) is usually required, and certifications like CIPS are not mandatory but can help with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Purchasing Director的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Purchasing Director in France?**
-答：Entry-level: €45k-€60k; Mid-level: €65k-€90k; Senior: €95k-€150k (gross annual).
-
-**问：How can a foreigner obtain a work visa as a Purchasing Director in France?**
-答：Via EU Blue Card or Talent Passport, requiring a job contract and meeting salary thresholds (approx. €45k+ for Talent Passport).
-
-**问：What qualifications are needed for a Purchasing Director?**
-答：A Master's degree (procurement/supply chain/business) is common; certifications like CIPS are optional but beneficial.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

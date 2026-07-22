@@ -1,58 +1,94 @@
-# Technical Sales Representative（Technical Sales Representative）职业分析 · FR
+# Technical Sales Representative — career analysis · France
 
-**职业代码：D1407 – Technical Sales Representative。**
+**Occupation code: D1407 (ROME)**
 
-Technical sales representatives sell technical products or solutions (industrial equipment, software, engineering services) to business clients, understanding their technical needs and providing customized proposals.
+Technical sales consultants are responsible for promoting technical products or solutions, such as industrial equipment, software, or engineering services, to corporate clients. It is necessary to understand the customer's technical requirements, provide customized solutions, and achieve sales targets.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS/DUT（两年制） | 2年（BTS/DUT） | $1,000~$8,000（公立院校低学费，私立商校较高） |
-| Licence professionnelle（三年制） | 3年（Licence） | $2,000~$10,000（包含技术销售专业方向） |
+| BTS/Dut (two-year program) | 2 years (BTS/DUT) | $1,000~$8,000 (Public institutions offer lower tuition, while private commercial schools offer higher fees) |
+| Licence professionnelle (three-year program) | 3 years (Licence) | $2,000~$10,000 (Includes the technical sales specialization) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 销售或技术领域文凭 | 法国教育部 | 可选 | 通常要求BTS/DUT或Licence，部分岗位接受同等经验 |
-| 驾照B类 | 法国政府 | 可选 | 因频繁客户拜访，多数雇主要求 |
+| Diploma in sales or technical fields | French Ministry of Education | Optional | Usually, BTS/DUT or Licence is required, with some positions requiring equivalent experience |
+| Category B driver's license | The French government | Optional | Due to frequent client visits, most employers require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国数字化转型和工业4.0推动技术销售岗位需求增长，尤其在IT、清洁能源和医疗设备领域。就业前景良好，有经验的销售顾问供不应求。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France's digital transformation and Industry 4.0 are driving growth in demand for technology sales positions, especially in IT, clean energy, and medical device sectors. Job prospects are promising, and experienced sales consultants are in short supply.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 固定薪资+奖金约占20% |
-| 中级（3-7年） | $45,000~$60,000 | 含提成 |
-| 高级（7年以上） | $65,000~$90,000 | 含提成，部分管理岗 |
+| Median salary | $52,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$40,000 | Fixed salary + bonuses account for about 20% |
+| Mid-level (3–7 years) | $45,000~$60,000 | Including commission |
+| Senior (7+ years) | $65,000~$90,000 | Includes commission, some management positions |
+| average salary | $56,262 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级技术销售可晋升为区域经理或大客户经理，进而成为销售总监或业务发展副总裁。也可转向产品管理或技术咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
+
+Junior technical sales can be promoted to Regional Manager or Key Account Manager, and then to Sales Director or Vice President of Business Development. You can also turn to product management or technical consulting.
+
+**Tasks most exposed to AI:**
+
+- Product specifications and price inquiries: customer self-service systems replace manual responses
+- Standard quote and contract generation: rule-based automated quoting tools take over
+- Order tracking and inventory notifications: automated notification systems replace manual follow-ups
+- Technical parameter comparison: AI-driven product database for quick matching
+- Routine customer questions: handled by chatbots
+
+**Where AI augments the role:**
+
+- Demand analysis: AI analyzes customer historical data to provide customized recommendations
+- Presentation preparation: AI-generated technical presentations and virtual product demonstrations.
+- Negotiation strategy: AI simulates different scenarios and recommends the best approach
+- Client relationship maintenance: AI reminds of interaction timings and generates personalised communication content.
+- Sales forecasting: AI models help predict sales volumes, guiding inventory and pricing
+
+**Human moat:**
+
+- Custom complex technical solutions: designing integrated solutions for specific client problems
+- Trust building and high-value negotiations: long-term relationship maintenance and price negotiation
+- Interdisciplinary knowledge integration: deeply integrate products with client industry scenarios
+- On-site inspection and problem diagnosis: physical environment testing and troubleshooting
+- Ethical and compliance judgment: involves complex decisions such as confidentiality and export controls
+
+**Skills to build:**
+
+- Use of AI-assisted sales tools (e.g., CRM AI plugins)
+- Data analysis and visualization (e.g., Tableau, Python)
+- Deep knowledge of technical products (e.g., specific industry standards)
+- Communication and persuasion skills (advanced)
+- Cross-cultural sales skills
+- Basic programming/scripting skills (for custom reports)
+
+**Key growth areas:**
 
 - Digital transformation
 - Industry 4.0
@@ -61,68 +97,67 @@ Technical sales representatives sell technical products or solutions (industrial
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适合年薪≥53,955欧元（2023年标准）的高技能岗位 |
-| Subclass Passeport Talent（Talent Passport） | 适合创新企业或高技能人才，薪资要求灵活 |
-| Subclass Salarié（Employee Salarié） | 需雇主担保，工作许可与居留绑定 |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions with an annual salary of ≥ 53,955 euros (2023 standard). |
+| Subclass Passeport Talent (Talent Passport) | Suitable for innovative companies or highly skilled talent, with flexible salary requirements |
+| Subclass Salarié (Employee Salarié) | Employer sponsorship required, work permit and residence permit are tied |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Sales Representative？**
-- 擅长沟通和谈判的销售人才
-- 具备技术背景且乐于面对客户
-- 适应出差和业绩压力
-
-**谁不适合学Technical Sales Representative？**
-- 不喜欢频繁出差和社交
-- 缺乏抗压能力和灵活性
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Sales talent skilled in communication and negotiation
+- Possess a technical background and are willing to engage with customers
+- Adapt to travel and performance pressures
+
+**Who is not suited**
+- Dislikes frequent business trips and socializing
+- Lack of stress resistance and flexibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary structure for a technical sales consultant?**
+A: This usually includes a fixed base salary (about 70-80%) and performance bonuses/commissions (20-30%). Senior positions offer higher commission rates.
+
+**Q: What visa do foreigners need to engage in technical sales in France?**
+A: You can apply for an EU Blue Card (annual salary ≥ 53,955 euros) or a talent passport (employer sponsorship required), with fluency in French being an important advantage.
+
+**Q: What is the promotion path for technical sales consultants?**
+A: You can be promoted from sales representative to regional manager, key account manager, and eventually to sales director or vice president of business development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Technical Sales Representative的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary structure for technical sales representatives?**
-答：Typically composed of a fixed base salary (70-80%) and performance bonuses/commissions (20-30%). Senior roles have higher commission ratios.
-
-**问：What visa do foreigners need for technical sales in France?**
-答：EU Blue Card (salary ≥€53,955) or Talent Passport (employer-sponsored); French fluency is a strong advantage.
-
-**问：What is the career progression for technical sales representatives?**
-答：From sales representative to regional manager, key account manager, then sales director or VP of business development.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

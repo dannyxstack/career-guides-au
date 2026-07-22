@@ -1,63 +1,99 @@
-# Hair or Beauty Salon Assistant（Hair or Beauty Salon Assistant）职业分析 · 新西兰
+# Hair or Beauty Salon Assistant — career analysis · New Zealand
 
-**职业代码：451812 – Hair or Beauty Salon Assistant。**
+**Occupation code: 451812 (ANZSCO)**
 
-Assist hairdressers and beauticians with shampooing, blow-drying, coloring, and cleaning in salons. Requires basic skills and good communication. Not eligible for direct skilled migration, but can enter via AEWV and later transition to green list roles like hairdresser or beautician.
+Assist hairdressers and beauticians with basic tasks like washing, blow-drying, coloring, and cleaning in salons or beauty parlors. No advanced skills required, but good communication and service awareness are needed. Currently, residency cannot be obtained directly through skilled migration pathways, but one can enter the industry with an Accredited Employer Work Visa (AEWV), gain experience, and then transition to a hairdresser or beautician role eligible for migration.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期培训 | 3个月 | $800~$2,000（私人培训机构提供基础技能课程） |
-| 国家证书（Level 3） | 1年 | $5,000~$15,000（理工学院或私立学校） |
-| 国家证书（Level 4） | 2年 | $10,000~$25,000（需先完成Level 3） |
+| Short-term training | 3 months | $800~$2,000 (Private training providers offer foundational skills courses) |
+| National Certificate (Level 3) | 1 year | $5,000~$15,000 (Polytechnic or private school) |
+| National Certificate (Level 4) | 2 years | $10,000~$25,000 (must complete Level 3 first) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰美发国家证书（Level 3） | 新西兰学历评估局（NZQA）认可院校 | 可选 | 基础从业资格，非强制但广泛认可 |
-| 新西兰美容治疗国家证书（Level 4） | NZQA认可院校 | 可选 | 美容方向进阶资格 |
-| 美容/美发执业注册 | 无强制国家注册，但部分雇主要求 | 可选 | 非强制，但有助于就业 |
-| 急救证书 | 如St John或Red Cross | 可选 | 部分雇主建议持有 |
+| New Zealand National Certificate in Hairdressing (Level 3). | New Zealand Qualifications Authority (NZQA) recognized institution | Optional | Basic entry qualification, not mandatory but widely recognized. |
+| New Zealand Certificate in Beauty Therapy (Level 4) | NZQA-recognised institution | Optional | Advanced qualifications in beauty therapy |
+| Beauty/hairdressing license registration | No compulsory national registration, but some employers require it | Optional | Not mandatory, but helpful for employment |
+| First aid certificate | Such as St John or Red Cross | Optional | Some employers recommend holding |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。新西兰美容美发行业持续增长，尤其在城市地区对助理有稳定需求。岗位流动性大，入门门槛低，但薪资较低，长期发展需考取相关证书并晋升至更高级别职位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The New Zealand beauty and hairdressing industry continues to grow, especially in urban areas, with steady demand for assistants. Job turnover is high, entry barriers are low, but salaries are low; long-term development requires obtaining relevant certificates and advancing to higher levels.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $35,000~$42,000 | 多数为时薪，约18-21纽币/小时 |
-| 中级（2-5年） | $42,000~$50,000 | 通常已获得初级证书或有经验 |
-| 高级（5年以上） | $50,000~$60,000 | 可能晋升为高级技师或店长 |
+| Median salary | $52,104 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–2 years) | $35,000~$42,000 | Mostly hourly wage, about 18-21 NZD per hour |
+| Intermediate (2-5 years) | $42,000~$50,000 | Usually have a basic certificate or relevant experience |
+| Senior (5+ years) | $50,000~$60,000 | May advance to senior technician or store manager |
+| average salary | $55,744 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 职业发展路径：从助理晋升为初级发型师或美容师，再逐步提升为高级技师、店长或独立经营。通常需完成国家证书（NZ Certificate in Hairdressing/Beauty Therapy）并通过行业注册。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
+
+Career path: from assistant to junior hairdresser or beautician, then progressing to senior technician, store manager, or self-employed. Typically requires completing a national certificate (NZ Certificate in Hairdressing/Beauty Therapy) and industry registration.
+
+**Tasks most exposed to AI:**
+
+- Hair dye formula calculation and color matching (AI automatically recommends formula based on hair type and skin tone)
+- Customer appointment, reminder, and follow-up (handled by AI chatbots)
+- Basic scalp analysis and care recommendations (AI camera diagnosis)
+- Inventory management and consumables ordering (AI-based forecasting system)
+- Social media content generation (AI one-click design of hairstyle display images)
+
+**Where AI augments the role:**
+
+- Hairstyle design inspiration generation (AI generates personalized plans based on face shape and trends)
+- Virtual try-on enhancing client communication (AR real-time display of hair dyeing/haircut effects)
+- Customer Relationship Management (AI analyzes preferences, accurately recommends services and products)
+- Cost accounting and pricing optimization (AI suggests prices based on market data)
+- Online Teaching and Skill Enhancement (AI voice guidance for complex techniques)
+
+**Human moat:**
+
+- Precision and artistry of manual techniques (e.g., haircut layering, blow-dry styling)
+- On-site customer communication and emotional interaction (understanding non-verbal cues)
+- Intuitive judgment of individual aesthetic preferences (aesthetic that AI cannot replicate)
+- Managing physical contact comfort (e.g., shampooing, massage with tactile experience)
+- Ability to adjust plans on the fly (based on real-time feedback)
+
+**Skills to build:**
+
+- Master AI hairstyle recommendation tools (e.g., StyleMyHair, YouCam)
+- Learning basic data analysis (customer preferences and inventory optimization)
+- Enhance social media operations (AI-assisted content creation)
+- Obtain higher-level certifications (such as Color Master, Scalp Therapist)
+- Learning AR/VR virtual try-on software operation
+- Communication and sales psychology (enhancing personalized service premium)
+
+**Key growth areas:**
 
 - Entry-level
 - AEWV
@@ -66,67 +102,69 @@ Assist hairdressers and beauticians with shampooing, blow-drying, coloring, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于该职业，需找到认证雇主，薪资不低于中位数（通常29.66纽币/小时）。 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，该职业不符合ANZSCO技能等级要求，无法直接申请。 |
-| Subclass Green List T1（Green List Tier 1 Direct Residence） | 绿色清单第一等级直接居留，该职业不在清单上。 |
-| Subclass Green List T2（Green List Tier 2 Work to Residence） | 绿色清单第二等级工作转居留，该职业不在清单上。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, applicable to this occupation, requires finding an accredited employer with salary not below the median (usually NZD 29.66/hour). |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category; this occupation does not meet ANZSCO skill level requirements and cannot be directly applied for. |
+| Subclass Green List T1 (Green List Tier 1 Direct Residence) | Green List Tier 1 direct residence; this occupation is not on the list. |
+| Subclass Green List T2 (Green List Tier 2 Work to Residence) | Green List Tier 2 work to residence, this occupation is not on the list. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hair or Beauty Salon Assistant？**
-- 喜欢与人沟通，服务意识强
-- 对美发美容有热情，愿意从基层做起
-- 寻求短期工作或作为进入美妆行业的跳板
+**Who is suited**
+- Enjoys communicating with people, strong service awareness.
+- Passionate about hairdressing and beauty, willing to start from the ground up.
+- Seeking short-term work or a stepping stone into the beauty industry
 
-**谁不适合学Hair or Beauty Salon Assistant？**
-- 希望直接申请技术移民获得居留权的人
-- 追求高薪或快速晋升的人
+**Who is not suited**
+- Those hoping to directly apply for skilled migration to obtain residency
+- People seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for hairdressing and beauty assistants in New Zealand?**
+A: Entry-level assistant annual salary is about NZD 35,000-42,000, with an hourly rate of NZD 18-21. With experience, mid-level can reach NZD 42,000-50,000, and senior (5+ years) about NZD 50,000-60,000. Salaries are typically below the New Zealand median wage (about NZD 62,000).
+
+**Q: Can hairdressing and beauty assistants immigrate to New Zealand?**
+A: This occupation is not on the Skilled Migrant Category (SMC) or Green List, so it cannot directly obtain residency. It can only work temporarily through an Accredited Employer Work Visa (AEWV). To immigrate, you need to further study to become a hairdresser or beautician (some are on the Green List) and meet salary requirements.
+
+**Q: What are the future career development paths as a hairdressing or beauty assistant?**
+A: Usually start as an assistant, complete an NZQA-recognized national certificate in hairdressing or beauty (Level 3 or 4), progress to junior stylist/beautician, then gain experience to become senior technician, salon manager, or start your own business. Can also transition to beauty product sales or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hair or Beauty Salon Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a Hair or Beauty Salon Assistant in New Zealand?**
-答：Entry-level assistants earn around NZD 35,000-42,000 per year (hourly NZD 18-21). With experience, mid-level earns NZD 42,000-50,000, and senior (5+ years) NZD 50,000-60,000. Salaries are typically below the median wage (NZD 62,000).
-
-**问：Can a Hair or Beauty Salon Assistant migrate to New Zealand?**
-答：This occupation is not eligible for Skilled Migrant Category (SMC) or Green List direct residence. It only qualifies for Accredited Employer Work Visa (AEWV). To immigrate, you must advance to become a hairdresser or beautician (some on Green List) and meet salary thresholds.
-
-**问：What is the career progression for a Hair or Beauty Salon Assistant?**
-答：Start as an assistant, complete NZQA-recognized certificates (Level 3 or 4 in hairdressing or beauty therapy), progress to junior stylist/therapist, then senior, salon manager, or self-employed. Alternatively, transition to product sales or training.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Helpers--Extraction Workers（Helpers--Extraction Workers）职业分析 · 美国
+# Helpers--Extraction Workers — career analysis · United States
 
-**职业代码：47-5081 – Helpers--Extraction Workers。**
+**Occupation code: 47-5081 (SOC)**
 
-Help extraction craft workers, such as earth drillers, blasters and explosives workers, derrick operators, and mining machine operators, by performing duties requiring less skill, including supplying equipment or cleaning work areas.
+Assisting tradespeople in extraction industries (e.g., drillers, blasters, derrickmen, mining equipment operators) with less skilled tasks such as supplying equipment or cleaning work areas. Apprentices are classified under the corresponding skilled trade occupation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（高中毕业即可，通常无学费） |
-| 短期在职培训 | 1个月 | —（由雇主提供，无需自付费用） |
+| High school diploma | 4 years | $0~$0 (High school diploma sufficient, usually no tuition fees) |
+| Short-term on-the-job training | 1 month | $0~$500 (Provided by employer, no out-of-pocket cost) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 州/地方教育机构 | 必备 | 通常要求高中毕业 |
-| 安全认证（如MSHA） | 美国矿山安全与健康管理局 | 必备 | 矿业工作需完成MSHA培训 |
+| High school diploma or equivalent | State/local education agencies | Required | Usually requires high school graduation |
+| Safety certifications (e.g., MSHA) | U.S. Mine Safety and Health Administration | Required | Mining work requires completion of MSHA training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 4,200。美国开采行业就业预计缓慢下降，因自动化和可再生能源转型减少煤炭需求。但油气钻探则可能保持稳定。整体前景略弱，需关注地区差异。
+**Job demand: low (★½☆☆☆).** National workforce approx. 4,200. Employment in the US mining industry is expected to slowly decline due to automation and the renewable energy transition reducing coal demand. Oil and gas drilling may remain stable. Overall outlook is slightly weak; regional differences should be noted.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 入门级时薪约14-18美元 |
-| 中级（3-5年） | $35,000~$42,000 | 经验丰富后薪资略增 |
-| 高级（5年以上） | $42,000~$52,000 | 资深助手或晋升后可达 |
+| Median salary | $47,730 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level hourly wage about $14-18 |
+| Mid-level (3–5 years) | $35,000~$42,000 | Slight salary increase with experience |
+| Senior (5+ years) | $42,000~$52,000 | Senior assistant or after promotion can reach |
+| average salary | $50,620 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 通常从助手开始，积累经验后可晋升为钻探工、爆破工等熟练技工。也可通过学徒项目或培训转入相关技术岗位，如设备操作或维护。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Mining worker helper tasks are highly procedural, easily replaced by automated equipment (e.g., automated drills, remote-controlled machinery), leading to significant job reduction.
+
+Usually start as helpers, can advance to skilled trades such as drillers or blasters after gaining experience. Can also move to related technical roles like equipment operation or maintenance via apprenticeships or training.
+
+**Tasks most exposed to AI:**
+
+- Manual supply of drilling equipment and materials
+- Clean rocks and debris from work areas
+- Operate simple hand tools for auxiliary tasks
+- Move heavy components to designated locations
+- Performing repetitive site organization tasks
+
+**Where AI augments the role:**
+
+- AI-assisted monitoring of automated equipment operation status
+- Use digital twin simulations to predict equipment failures
+- Optimize safety patrols with wearable sensors
+- Receive and respond to task instructions using a mobile app
+- Use visual AI to quickly identify safety hazards
+
+**Human moat:**
+
+- Rapid diagnosis and manual intervention for on-site unexpected failures
+- Equipment adaptability adjustments in complex terrain
+- Non-standard communication and coordination with team members
+- Intuitive judgment and risk-avoidance decisions in hazardous environments
+- Fine maintenance and calibration of high-precision instruments
+
+**Skills to build:**
+
+- Basic programming and PLC control system operation
+- Robot maintenance and fault diagnosis
+- Data analysis and sensor data interpretation
+- Advanced safety regulations and emergency response training
+- Use of digital tools (tablets, HMI interfaces)
+- Cross-role collaboration and digital communication
+
+**Key growth areas:**
 
 - Automation impact
 - Renewable energy transition
@@ -63,62 +99,64 @@ Help extraction craft workers, such as earth drillers, blasters and explosives w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 通常用于临时性开采工作，但雇主需证明劳动力短缺 |
-| Subclass H-1B（Specialty Occupations） | 本职业通常不符合H-1B专业职位要求，几无可能性 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Usually used for temporary extraction work, but employer must demonstrate labor shortage |
+| Subclass H-1B (Specialty Occupations) | This occupation usually does not meet H-1B professional position requirements, very unlikely |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Helpers--Extraction Workers？**
-- 体力充沛、不介意脏活累活者
-- 愿意在偏远矿区工作的人
-- 寻求无需高学历的蓝领入门岗位者
+**Who is suited**
+- People with physical stamina and not minding dirty and heavy work
+- Willing to work in remote mining areas
+- Those seeking blue-collar entry-level positions without needing high education
 
-**谁不适合学Helpers--Extraction Workers？**
-- 对危险环境敏感或恐高者
-- 希望长期稳定职业发展者
+**Who is not suited**
+- Those sensitive to hazardous environments or with a fear of heights
+- Those seeking long-term stable career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a mining worker assistant?**
+A: Annual salary approximately $28,000-$52,000 USD, entry-level low, limited increase with experience, overall low pay range.
+
+**Q: Can this occupation immigrate to the US through skilled migration?**
+A: Almost impossible. The occupation is low-skilled, does not meet H-1B specialty occupation requirements, and only H-2B temporary work visas are possible, with very limited green card pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Helpers--Extraction Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for Helpers--Extraction Workers?**
-答：Annual salary ranges from $28,000 to $52,000, with entry-level being low and limited growth, overall in the low-income bracket.
-
-**问：Can this occupation lead to a skilled migration visa to the US?**
-答：Almost impossible. It is a low-skilled occupation, not qualifying for H-1B specialty occupation, and only possible via H-2B temporary visa, with very limited green card pathways.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

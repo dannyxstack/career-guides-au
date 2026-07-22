@@ -1,61 +1,94 @@
-# Computer Network Professionals（Computer Network Professionals）职业分析 · NL
+# Computer Network Professionals — career analysis · Netherlands
 
-**职业代码：2523 – Computer Network Professionals。**
+**Occupation code: 2523 (ISCO08)**
 
-Computer network professionals design, implement, maintain, and manage computer networks including LAN, WAN, and cloud infrastructure, ensuring network performance, security, and reliability.
+Computer network professionals are responsible for designing, implementing, maintaining, and managing computer networks, including LANs, WANs, and cloud infrastructure, ensuring network performance, security, and reliability.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$15,000（非欧盟学生学费，欧盟学生约2000-4000欧元/年） |
-| 硕士 | 1-2年（硕士） | $15,000~$20,000（非欧盟学生学费，欧盟学生约2000-4000欧元/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$15,000 (Non-EU student tuition fees, EU students approximately €2,000-4,000/year) |
+| Master's degree | 1-2 years (Master's) | $15,000~$20,000 (Non-EU student tuition fees, EU students approximately €2,000-4,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Cisco Certified Network Associate (CCNA) | Cisco | 可选 | 行业认可的基础网络认证，非强制但有利于就业 |
-| CompTIA Network+ | CompTIA | 可选 | 入门级网络认证，证明基本网络知识 |
-| 荷兰高等教育信息技术学位 | 荷兰应用科学大学或研究型大学 | 必备 | 如HBO或WO信息技术相关学位，常被雇主视为必备条件 |
+| Netherlands higher education information technology degree | University of Applied Sciences or research university in the Netherlands | Required | A degree in Information Technology such as HBO or WO is often considered mandatory by employers |
+| Cisco Certified Network Associate (CCNA) | Cisco | Optional | Industry-recognized basic networking certification, not mandatory but beneficial for employment |
+| CompTIA Network+ | CompTIA | Optional | Entry-level networking certification demonstrating basic network knowledge |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。荷兰数字经济持续增长，网络安全和云需求强劲，就业市场对网络专业人才需求旺盛，预计未来五年岗位增长15%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. The Dutch digital economy continues to grow, with strong demand in cybersecurity and cloud. The job market has a high demand for network professionals, with job growth expected to exceed 15% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 税前年薪，不含福利 |
-| 中级（3-7年） | $50,000~$65,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $70,000~$90,000 | 税前年薪，含管理职责 |
+| Median salary | $67,382 | Median salary (official: CBS employee median hourly wage €34.1/hour × 1976h annualized, BRC group 0812 Databank- en netwerkspecialisten; P25–P75 €55,130–€79,633, CBS 2024) |
+| Entry level (0–3 years) | $35,000~$45,000 | Annual gross salary, excluding benefits |
+| Mid-level (3–7 years) | $50,000~$65,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $70,000~$90,000 | Pre-tax annual salary, including management responsibilities |
+| average salary | $59,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级网络工程师晋升为高级网络架构师、IT经理或网络安全专家。持有Cisco CCIE/CCNP等认证有助于晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate network configuration and monitoring tasks but enhance network design and troubleshooting capabilities; overall employment demand is stable, but entry-level positions are narrowing due to the spread of AI tools.
+
+Can advance from junior network engineer to senior network architect, IT manager, or cybersecurity expert. Holding Cisco CCIE/CCNP or similar certifications is helpful for advancement.
+
+**Tasks most exposed to AI:**
+
+- Template-based network device configuration and deployment
+- Daily network performance monitoring and alert handling
+- Execution of standardized troubleshooting scripts
+- Network capacity planning and report generation
+
+**Where AI augments the role:**
+
+- AI-assisted network topology optimization and capacity prediction
+- AI-driven security threat detection and response suggestions
+- Automatically generate network configuration change plans and verify compliance
+- Accelerate troubleshooting and customer support via AI chatbots
+
+**Human moat:**
+
+- Complex network architecture design and cross-organizational coordination
+- High availability and disaster recovery planning for critical business systems
+- Align network investment decisions with business strategy
+- Security strategy formulation and compliance audit responsibility
+
+**Skills to build:**
+
+- AI/ML Applications in Network Operations (e.g., Ansible, Terraform + AI plugins)
+- Cloud network architecture (AWS/Azure/GCP)
+- Cybersecurity analysis and zero trust model
+- Software-defined networking (SDN) and network programming (Python)
+- Data-driven decision-making and automation tool development
+- Project management and supplier negotiation
+
+**Key growth areas:**
 
 - Cloud Networking
 - Cybersecurity
@@ -64,69 +97,68 @@ Computer network professionals design, implement, maintain, and manage computer 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适合获得荷兰雇主担保的高技能技术人才，年收入需达到门槛（2024年约56700欧元）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高学历非欧盟专业人士，收入门槛约为58000欧元，允许在欧盟内流动。 |
-| Subclass Orientation Year (Zo（Orientation Year） | 毕业三年内可申请，允许在荷兰自由工作一年寻找合适职位。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled technical talents sponsored by a Dutch employer, with annual income meeting the threshold (approx. 56,700 EUR in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated non-EU professionals, income threshold around €58,000, allows mobility within the EU. |
+| Subclass Orientation Year (Zo (Orientation Year) | Can apply within three years of graduation, allows one year of free job searching in the Netherlands. |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Professionals？**
-- 喜欢技术挑战，对网络架构和安全有浓厚兴趣
-- 具备逻辑分析和问题解决能力，愿意持续学习新技术
-- 能适应快节奏工作环境，有团队合作精神
-
-**谁不适合学Computer Network Professionals？**
-- 不喜欢频繁处理突发故障和压力环境
-- 对持续学习和考取认证缺乏动力
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys technical challenges, with strong interest in network architecture and security
+- Possess logical analysis and problem-solving skills, willing to continuously learn new technologies
+- Able to adapt to a fast-paced work environment with a team spirit
+
+**Who is not suited**
+- Dislike frequent handling of unexpected faults and stressful environments
+- Lack of motivation for continuous learning and obtaining certifications
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a network engineer in the Netherlands?**
+A: Junior network engineer annual salary approx. EUR 35,000-45,000, mid-level 50,000-65,000, senior 70,000-90,000 (pre-tax).
+
+**Q: How can foreigners obtain a work visa for network engineer in the Netherlands?**
+A: Primarily via the Highly Skilled Migrant (kennismigrant) visa, requiring a Dutch employer sponsor and meeting the salary threshold (approx. €56,700 in 2024). Also eligible for the EU Blue Card or the orientation year visa.
+
+**Q: Are network engineers in demand in the Netherlands?**
+A: Yes, the Netherlands faces a shortage of IT talent, especially in cybersecurity and cloud networking. Employers find it difficult to recruit, and the government has listed this occupation on the shortage list.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Computer Network Professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for network engineers in the Netherlands?**
-答：Junior network engineers earn around EUR 35,000-45,000, mid-level EUR 50,000-65,000, and senior EUR 70,000-90,000 per year (gross).
-
-**问：How can foreigners obtain a work visa as a network engineer in the Netherlands?**
-答：Mainly through the Highly Skilled Migrant (kennismigrant) visa, requiring a Dutch employer sponsor and meeting the salary threshold (about EUR 56,700 in 2024). EU Blue Card or Orientation Year visa are also options.
-
-**问：Are network engineers in shortage in the Netherlands?**
-答：Yes, the Dutch IT sector faces talent shortages, particularly in cybersecurity and cloud networking, making this profession listed as a shortage occupation.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

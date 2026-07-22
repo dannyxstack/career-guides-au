@@ -1,60 +1,93 @@
-# Cashier Supervisor（Cashier Supervisor）职业分析 · FR
+# Cashier Supervisor — career analysis · France
 
-**职业代码：D1508 – Cashier Supervisor。**
+**Occupation code: D1508 (ROME)**
 
-Cashier supervisors oversee cashier teams, ensure efficient and accurate checkout processes, handle customer complaints and special transactions, maintain cash security, and train new staff.
+The cashier supervisor is responsible for overseeing the cashier team, ensuring efficient and accurate cashier processes, handling customer complaints and special transactions, maintaining cash security, and training new employees.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+在职培训 | 1-2年 | —（企业内部培训或短期课程，通常无学费） |
-| BTS 管理/商业 | 2年（BTS） | $500~$8,000（公立学校学费低，私立较高，可申请学徒制） |
+| High school graduation + on-the-job training | 1-2 years | $0~$2,000 (In-house training or short-term courses, usually free of tuition fees) |
+| BTS Management/Business | 2 Years (BTS) | $500~$8,000 (Public schools have lower tuition fees, while private ones have higher tuition fees, and apprenticeships can be applied for) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 收银主管 | 法国零售业联合会（FCD） | 可选 | 专业资格证书，非强制但提升竞争力 |
-| CPF 收银管理模块 | France Compétences | 可选 | 个人培训账户可资助的培训，提升管理技能 |
+| CQP cashier supervisor | French Retail Federation (FCD) | Optional | Professional qualification certificates, non-mandatory but to enhance competitiveness |
+| CPF cashier management module | France Compétences | Optional | Personal training accounts can fund training to enhance management skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。法国零售业收银主管岗位需求稳定，受数字化转型影响，近年自助收银普及导致部分岗位减少，但综合零售和大型超市仍需要经验丰富的监督人员管理团队和应对复杂情况。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. The demand for cashier supervisors in France's retail industry is stable. Due to digital transformation, the recent popularity of self-checkout has led to a reduction in some positions, but integrated retail and hypermarkets still require experienced supervisory teams to manage complex situations.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常含奖金 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，视企业规模和地区 |
-| 高级（7年以上） | $32,000~$38,000 | 税前年薪，含管理经验补贴 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual salary before tax, usually including bonuses |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, depending on company size and region. |
+| Senior (7+ years) | $32,000~$38,000 | Pre-tax annual salary, including management experience allowance |
+| average salary | $29,296 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等偏弱（★★☆☆☆）。** 职业晋升路径：收银员→收银主管→部门经理→店长。也可转向客户服务管理、运营管理或供应链协调等方向，需积累管理经验和相关培训。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Cashier supervisor positions will be compressed by self-checkout and AI-automated cashier systems, but soft skills tasks such as customer complaint handling, team training, and cash security supervision will amplify the value of interpersonal and supervisory work.
+
+Career Promotion Path: Cashier→ cashier supervisor→ department manager→ store manager. You can also move into customer service management, operations management, or supply chain coordination, which requires accumulating management experience and relevant training.
+
+**Tasks most exposed to AI:**
+
+- Monitor daily checkout processes, with automated systems that track transactions in real time and alert for anomalies
+- Standard refunds and simple transactions can be handled directly by the AI self-service terminal
+- Generate sales and cash reports, with AI automatically summarizing and analyzing data
+- Manage cashier shift scheduling, with AI-optimized algorithms automatically assigning shifts
+
+**Where AI augments the role:**
+
+- Handling complex customer complaints, AI provides real-time historical transaction data analysis to assist decision-making
+- Train new employees in cashier skills, with AI simulating different scenarios to assist teaching
+- Optimizing checkout counter layout and queue management, AI analysis of customer flow data offers recommendations
+- Conducting cash security audits, AI surveillance footage, and early warnings of abnormal fund flows
+
+**Human moat:**
+
+- Handling complex disputes involving clients' emotions and sensitive issues
+- Coordinate communication between the cashier team and departments to resolve interpersonal conflicts
+- Rapid decision-making in emergencies such as system failures and safety incidents
+- Intuitively understand customers' nonverbal cues and special needs
+
+**Skills to build:**
+
+- Deployment and maintenance of AI cashier systems
+- Data analysis and report interpretation (e.g., Python/Power BI)
+- Advanced Skills in Conflict Management and Customer Service
+- Remote team management and digital collaboration tools
+- Basic IT troubleshooting (cash registers, self-service terminals)
+- Basic knowledge of financial management and auditing
+
+**Key growth areas:**
 
 - Retail management
 - Self-checkout transition
@@ -63,65 +96,67 @@ Cashier supervisors oversee cashier teams, ensure efficient and accurate checkou
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需获得法国雇主工作合同，且职位需符合劳工市场测试要求，通常收银主管不属于紧缺职业，较难获得工作许可。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，但收银主管通常不符合条件，除非同时具备高级管理背景或公司内部调动。 |
+| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract from a French employer and meet labor market testing requirements. Cashier supervisors are generally not in high demand and are harder to obtain work permits. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talent, but cashier supervisors usually do not qualify unless they also have a senior management background or internal company transfer. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Cashier Supervisor？**
-- 注重细节、有责任心，擅长团队协调和客户服务的人员
-- 希望在零售行业稳步发展、追求稳定而非高薪的人员
-- 具备基础数字技能，能适应收银系统和自助设备的人员
+**Who is suited**
+- Detail-oriented, responsible, skilled in team coordination and customer service
+- Those who want to steadily develop in the retail industry and seek stability rather than high salaries
+- Personnel with basic digital skills who can adapt to checkout systems and self-service devices
 
-**谁不适合学Cashier Supervisor？**
-- 厌恶重复性工作、追求创新和挑战的人员
-- 希望快速获得高收入或移民法国的人员
+**Who is not suited**
+- Dislikes repetitive work and those who pursue innovation and challenges
+- Those seeking fast high income or immigration to France
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for cashier supervisors in France?**
+A: Pre-tax annual salaries typically range from 22,000 to 38,000 euros, with entry-level salaries around 22k-26k, intermediate 26k-32k, and seniors 32k-38k. Salaries are influenced by region, company size, and experience.
+
+**Q: Is it easy for cashier supervisors to immigrate to France through a work visa?**
+A: Not easy. This occupation is not in shortage, employers must pass a labor market test to prove no EU candidates available. It is usually recommended to consider other shortage occupations or intra-company transfer routes.
+
+**Q: What career development opportunities are available for cashier supervisors?**
+A: You can be promoted to department manager, store manager, or move to roles such as operations, customer service management, or supply chain coordination. Gaining management experience and attending training (such as CQP) helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等偏弱（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cashier Supervisor属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a cashier supervisor in France?**
-答：The gross annual salary typically ranges from €22,000 to €38,000, with junior at €22k-€26k, mid-level at €26k-€32k, and senior at €32k-€38k, depending on region, company size, and experience.
-
-**问：Is it easy to immigrate to France as a cashier supervisor through a work visa?**
-答：It is difficult. The occupation is not in shortage; employers must pass a labor market test proving no suitable EU candidates. It is advisable to consider other shortage occupations or intra-company transfer routes.
-
-**问：What are the career development opportunities for a cashier supervisor?**
-答：You can advance to department manager, store manager, or move into operations, customer service management, or supply chain coordination. Gaining management experience and certifications (e.g., CQP) can facilitate promotion.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Air Conditioning and Refrigeration Mechanic（Air Conditioning and Refrigeration Mechanic）职业分析 · NL
+# Air Conditioning and Refrigeration Mechanic — career analysis · Netherlands
 
-**职业代码：7127 – Air Conditioning and Refrigeration Mechanic。**
+**Occupation code: 7127 (ISCO08)**
 
-Air conditioning and refrigeration mechanics install, maintain, and repair HVAC and refrigeration systems, ensuring temperature control in buildings and industrial facilities.
+Air conditioning and refrigeration mechanics install, maintain, and repair air conditioning, refrigeration, and heat pump systems to ensure temperature control in buildings and industrial facilities.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 3年（MBO） | —（MBO学费由政府资助，个人费用约每年数百欧元） |
-| 在职培训 | 2-4年 | —（通常由雇主资助） |
+| Secondary vocational education | 3 years (MBO) | $0~$2,000 (MBO tuition is government-funded, with personal costs around a few hundred euros per year) |
+| On-the-job training | 2-4 years | $0~$1,000 (Usually employer-sponsored) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| MBO文凭 | ROC学院 | 必备 | 荷兰中等职业教育（MBO）技术专业 |
-| F-gassen证书 | 荷兰政府 | 必备 | 处理含氟温室气体的强制认证 |
-| VCA证书 | VCA基金会 | 可选 | 安全证书，许多雇主要求 |
+| MBO diploma | ROC College | Required | Dutch secondary vocational education (MBO) technology program |
+| F-gassen certificate | Dutch government | Required | Mandatory certification for handling fluorinated greenhouse gases |
+| VCA certificate | VCA Foundation | Optional | Safety certificate, required by many employers. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。荷兰对制冷和热泵技术人员的需求持续增长，受节能和气候法规推动。建筑行业和现有系统改造提供了稳定就业机会。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Demand for refrigeration and heat pump technicians continues to grow in the Netherlands, driven by energy-saving and climate regulations. The construction industry and retrofitting of existing systems offer stable employment opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪，基于全职 |
-| 中级（3-7年） | $32,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $45,448 | Median salary (Official: CBS employee median hourly wage €23.0/hour × 1976h annualised, BRC group 0761 Elektriciens en elektronicamonteurs; P25–P75 €35,370–€54,933, CBS 2024) |
+| Entry level (0–3 years) | $25,000~$32,000 | Pre-tax annual salary, based on full-time |
+| Mid-level (3–7 years) | $32,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $38,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级技工可晋升为高级技工、团队主管，或通过进修成为HVAC工程师。也可自主创业，提供维护合同服务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace tasks such as fault diagnosis and routine maintenance, but on-site operations, compliance responsibilities, and complex repairs still rely on humans. Overall job demand is stable, with upgraded skill requirements.
+
+Junior technicians can advance to senior technicians, team supervisors, or become HVAC engineers through further study. They can also start their own business, offering maintenance contract services.
+
+**Tasks most exposed to AI:**
+
+- Scheduling and recording of routine maintenance plans
+- Fault diagnosis based on historical data
+- AI visual detection of refrigerant leaks
+- Energy efficiency monitoring and alarm handling
+- Spare parts inventory management and automated ordering
+
+**Where AI augments the role:**
+
+- AI-assisted Complex Fault Diagnosis and Repair Proposal
+- Digital twin simulation for system performance optimization
+- Real-time analysis of smart sensor data for predictive maintenance
+- AR glasses for remote expert guidance during on-site repairs
+- Energy management system automatically optimizes set points
+
+**Human moat:**
+
+- On-site hands-on installation, commissioning, and repair skills
+- handling compliance responsibilities for refrigerant safety and environmental regulations
+- Flexibility in dealing with non-standard, complex, or legacy systems.
+- Customer communication and emergency service response ability
+- Cross-system integration and customized solution design
+
+**Skills to build:**
+
+- Smart building system (BMS) integration
+- Refrigerant regulations and environmental compliance knowledge
+- Heat pump and renewable energy system technology.
+- Data Analysis and Predictive Maintenance Software Applications
+- IoT sensor deployment and commissioning
+- AR-assisted maintenance tool operation
+
+**Key growth areas:**
 
 - energy efficiency
 - heat pumps
@@ -64,63 +100,65 @@ Air conditioning and refrigeration mechanics install, maintain, and repair HVAC 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需满足薪资门槛（2023年约€3,672/月） |
-| Subclass EU Blue Card（EU Blue Card） | 欧盟蓝卡，需高等教育学历和较高薪资 |
-| Subclass Orientation Year（Orientation Year） | 面向在荷兰毕业的国际学生，可找工作一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled migrants, must meet salary threshold (2023 approx. €3,672/month) |
+| Subclass EU Blue Card (EU Blue Card) | EU Blue Card requires higher education degree and higher salary |
+| Subclass Orientation Year (Orientation Year) | For international students who have graduated in the Netherlands, allowing one year to find a job |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air Conditioning and Refrigeration Mechanic？**
-- 喜欢动手操作和修理设备的人
-- 愿意接受持续培训以跟上技术更新
-- 有志于在建筑或工业领域发展
+**Who is suited**
+- People who enjoy hands-on work and repairing equipment
+- Willing to undergo continuous training to keep up with technological updates
+- Aspiring to develop in the construction or industrial field
 
-**谁不适合学Air Conditioning and Refrigeration Mechanic？**
-- 不擅长体力劳动或户外工作
-- 不喜欢定期考试和认证更新
+**Who is not suited**
+- Not good at physical labor or outdoor work
+- Dislike regular exams and certification renewals.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for air conditioning and refrigeration mechanics in the Netherlands?**
+A: Entry-level approximately €25,000-32,000, senior can reach €55,000, experienced workers have good income.
+
+**Q: Can foreigners immigrate to the Netherlands through this occupation?**
+A: Generally not a shortage occupation, but can be accessed through high-skilled immigration or EU Blue Card pathways, requiring salary and education qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Air Conditioning and Refrigeration Mechanic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for air conditioning and refrigeration mechanics in the Netherlands?**
-答：Entry-level €25,000-32,000, senior up to €55,000 per year before tax.
-
-**问：Can foreigners immigrate as an air conditioning and refrigeration mechanic?**
-答：Not typically a shortage occupation, but possible via Highly Skilled Migrant or EU Blue Card if salary and education criteria are met.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

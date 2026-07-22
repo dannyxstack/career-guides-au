@@ -1,60 +1,94 @@
-# Surgical/Medical Technology Assistant（Surgical/Medical Technology Assistant）职业分析 · DE
+# Surgical/Medical Technology Assistant — career analysis · Germany
 
-**职业代码：8133 – Surgical/Medical Technology Assistant。**
+**Occupation code: 8133 (KldB)**
 
-Surgical/medical technology assistants support physicians in operating rooms and medical diagnostics, operating equipment to ensure safe and efficient procedures.
+Surgical/medical technical assistants assist doctors in operating medical equipment in operating rooms and medical diagnostics, ensuring safe and efficient surgical and treatment procedures.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（德国公立学校免费，培训期间有津贴） |
-| 在职进修（部分时间） | 2-3年 | —（部分企业提供资助，费用低） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Public schools in Germany are free, with allowances during training) |
+| In-service training (part-time) | 2-3 years | $0~$5,000 (Some companies provide funding; costs are low.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家认可的手术技术助理证书 | 德国联邦医监局 | 必备 | 完成双元制培训后通过考试 |
-| 资质认证（Anerkennung） | 德国各州卫生局 | 必备 | 海外学历需认证，可能需补修课程 |
+| Nationally recognised Surgical Technology Assistant certificate. | German Federal Institute for Drugs and Medical Devices | Required | Complete the dual system training and pass the exam |
+| Qualification recognition (Anerkennung) | German state health authorities | Required | Overseas qualifications need assessment, may require supplementary courses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。德国人口老龄化和医疗技术进步推动需求持续增长。预计未来十年岗位增长约10%，尤其在大城市和专科医院。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Germany's aging population and medical technology advances drive continuous demand. Expected job growth of about 10% over the next decade, especially in large cities and specialized hospitals.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$36,000 | 税前年薪，依据TVöD-K或医院协议 |
-| 中级（3-7年） | $36,000~$45,000 | 税前年薪，含夜间/周末加班补贴 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含主管津贴 |
+| Median salary | $52,272 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$36,000 | Gross annual salary, according to TVöD-K or hospital agreement |
+| Mid-level (3–7 years) | $36,000~$45,000 | Annual pre-tax salary including night/weekend overtime allowances. |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $53,532 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从助理晋升为资深技术员、科室主管或医疗设备培训师。通过继续教育可转向医疗技术管理或研发岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
+
+Can advance from assistant to senior technician, department supervisor, or medical equipment trainer. Through continuing education, can transition to medical technology management or R&D roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic counting and verification of surgical instruments
+- Basic real-time recording and data entry during surgical procedures
+- Automated disinfection and preparation processes for some routine surgical instruments
+- Image-based automatic identification and tracking of instruments and consumables
+
+**Where AI augments the role:**
+
+- AI-assisted surgical navigation and precise positioning, enabling technicians to adjust equipment faster
+- Smart instrument management system providing real-time inventory and usage recommendations
+- AR/VR simulation training to improve technicians' efficiency in preparing for complex surgeries
+- AI analysis of surgical workflow data to optimise instrument layout and transfer routes
+
+**Human moat:**
+
+- Maintenance and management of sterile environment during surgery
+- Real-time understanding and precise response to doctor's orders
+- Manual operation and emergency handling of complex instruments
+- Team collaboration and non-verbal communication in operating rooms
+- Clinical judgment and safety control in patient positioning
+
+**Skills to build:**
+
+- Operation of digital systems for surgical instrument management and counting
+- Basic Python or SQL for surgical data report analysis
+- Basic use of AI-assisted surgical navigation systems (e.g., Medtronic StealthStation)
+- Evidence-based medicine knowledge updates, understanding the rationale behind AI recommendations
+- Cross-disciplinary communication and agile team collaboration skills
+- Smart monitoring tools with IoT sensors in aseptic techniques
+
+**Key growth areas:**
 
 - Aging population
 - Medical technology advancement
@@ -63,69 +97,68 @@ Surgical/medical technology assistants support physicians in operating rooms and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历或等同资质，需年薪达阈值（2025年约45,000欧元） |
-| Subclass Skilled Worker（Skilled Immigration Act） | 需职业资质认证，可在德直接申请工作签证 |
-| Subclass Chancenkarte（Chancenkarte） | 积分制机会卡，允许来德找工作/职业培训 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to university degree or equivalent qualifications, requires annual salary threshold (approx. €45,000 in 2025) |
+| Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification certification; can apply for a work visa directly in Germany |
+| Subclass Chancenkarte (Chancenkarte) | Points-based opportunity card allowing job search/vocational training in Germany |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Surgical/Medical Technology Assistant？**
-- 对医疗技术有浓厚兴趣，动手能力强
-- 能在压力下工作，具备团队合作精神
-- 愿意接受规范化培训并终身学习
-
-**谁不适合学Surgical/Medical Technology Assistant？**
-- 对血液和手术场景不适应者
-- 不能承受夜班和周末轮班者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in medical technology and hands-on skills
+- Able to work under pressure, with a team spirit
+- Willing to receive standardized training and engage in lifelong learning
+
+**Who is not suited**
+- Those uncomfortable with blood and surgery scenes.
+- Those who cannot tolerate night shifts and weekend rotations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a surgical technology assistant?**
+A: Entry-level annual salary approx. €30,000-36,000, mid-level €36,000-45,000, senior €45,000-55,000 (pre-tax), with additional overtime and night shift allowances.
+
+**Q: How can overseas applicants immigrate to Germany for this occupation?**
+A: Must first certify overseas professional qualifications (Anerkennung), then apply for a work visa under the Skilled Worker Act or EU Blue Card. The Opportunity Card (Chancenkarte) can also be used to match training positions in Germany.
+
+**Q: Is there room for career advancement in this occupation?**
+A: Opportunities for promotion to senior technician, department supervisor, or medical equipment trainer. Further education can lead to medical technology management or R&D roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Surgical/Medical Technology Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for surgical technology assistants?**
-答：Entry-level annual salary is about 30,000-36,000 EUR, mid-level 36,000-45,000 EUR, senior 45,000-55,000 EUR (gross), plus overtime and night shift allowances.
-
-**问：How can overseas applicants immigrate to Germany for this profession?**
-答：First, obtain recognition of foreign qualifications (Anerkennung), then apply for a work visa via the Skilled Immigration Act or EU Blue Card. The Chancenkarte can also be used to find a training position.
-
-**问：Is there room for advancement in this career?**
-答：Yes, you can advance to senior technician, department supervisor, or medical equipment trainer. Further education can lead to medical technology management or R&D roles.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

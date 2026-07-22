@@ -1,60 +1,93 @@
-# Vegetable Grower (Aus) / Market Gardener (NZ)（Vegetable Grower (Aus) / Market Gardener (NZ)）职业分析 · 新西兰
+# Vegetable Grower (Aus) / Market Gardener (NZ) — career analysis · New Zealand
 
-**职业代码：121616 – Vegetable Grower (Aus) / Market Gardener (NZ)。**
+**Occupation code: 121616 (ANZSCO)**
 
-Plan, plant, cultivate and harvest vegetable crops, manage farm operations. This occupation is eligible for Green List direct residence in New Zealand, offering clear migration pathways with lower education requirements but need relevant work experience.
+Responsible for planning, planting, cultivating, and harvesting vegetable crops, managing farm operations. This occupation in New Zealand can directly apply for residency through the Green List, has a clear migration pathway, requires low academic qualifications, but needs relevant work experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 新西兰农业证书（Level 4） | 1年 | $12,000~$20,000（包括学费和材料费） |
-| 新西兰农业大专（Level 6） | 2年 | $25,000~$40,000（包括学费和实习费） |
+| New Zealand Certificate in Agriculture (Level 4) | 1 year | $12,000~$20,000 (Includes tuition and material fees) |
+| New Zealand Diploma in Agriculture (Level 6) | 2 years | $25,000~$40,000 (Includes tuition and internship fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰农业证书（初级） | 新西兰各理工学院 | 必备 | 必修，涵盖基础种植技术 |
-| Growsafe认证 | 新西兰农业局 | 必备 | 使用农药必备 |
-| 驾照（1类） | 新西兰交通局 | 必备 | 驾驶农场车辆 |
-| IELTS 6.5 | IDP | 可选 | 移民英语要求 |
+| New Zealand Certificate in Agriculture (Introductory) | New Zealand polytechnics | Required | Compulsory, covering basic planting techniques |
+| Growsafe certification | New Zealand Agriculture Bureau | Required | Essential for using pesticides. |
+| Driver's licence (Class 1) | New Zealand Transport Agency. | Required | Driving farm vehicles |
+| IELTS 6.5 | IDP | Optional | English language requirements for immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。新西兰蔬菜种植业持续增长，受国内需求及出口市场驱动。预计未来5年就业平稳增长，尤其注重可持续农业和有机种植。由于劳动力短缺，移民机会较多，但需适应户外体力劳动。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. New Zealand's vegetable cultivation industry continues to grow, driven by domestic demand and export markets. Steady employment growth expected over the next 5 years, with a focus on sustainable agriculture and organic farming. Due to labor shortages, migration opportunities are plentiful, but outdoor physical work is required.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-27纽币 |
-| 中级（3-6年） | $55,000~$70,000 | 时薪约28-35纽币 |
-| 高级（6年以上） | $70,000~$90,000 | 包括管理职责，时薪35-45纽币 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly rate about 23-27 NZD |
+| Mid-level (3–6 years) | $55,000~$70,000 | Hourly rate approximately NZ$28-35 |
+| Senior (6+ years) | $70,000~$90,000 | Includes management duties, $35-45 NZD per hour |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从普通种植工人晋升为高级种植者或农场经理。积累经验后可创业或成为顾问。部分人转向农业科技、有机农业或出口管理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Vegetable growers face the dual impact of automation and AI: greenhouse automation reduces some manual roles, but AI amplifies efficiency in planting decisions, pest/disease warnings, and supply chain optimization; entry barriers lower but skill requirements upgrade, requiring proficiency in data and equipment operation.
+
+Can advance from general planter to senior grower or farm manager. With experience, can start a business or become a consultant. Some move into agricultural technology, organic farming, or export management.
+
+**Tasks most exposed to AI:**
+
+- Soil moisture monitoring and irrigation scheduling, replaced by IoT sensors and AI control systems
+- Manual inspection of crop growth conditions is gradually being replaced by drone image recognition.
+- Preliminary diagnosis of pests and diseases; AI vision models can automatically identify and provide solutions
+- Harvest timing judgment and manual harvesting; automated harvesting machinery can partially take over
+
+**Where AI augments the role:**
+
+- Optimized planting variety and timing recommendations based on weather and market data
+- Generate precise fertilization/pesticide application plans to reduce waste and environmental pollution
+- Supply chain matching: AI analyzes demand forecasts to optimize harvesting and distribution plans
+- Farm management dashboard: integrates sensor data for real-time decision support
+
+**Human moat:**
+
+- Long-term experience and intuitive judgment of soil, climate and local ecology
+- Emergency decision-making and on-site adjustments during sudden severe weather or pest outbreaks
+- Interpersonal relationships and negotiation with local markets, cooperatives, and clients
+- Trial evaluation of new crop varieties and agricultural innovation solutions
+
+**Skills to build:**
+
+- Operation and data interpretation of agricultural IoT devices
+- Use of precision agriculture software (e.g., FarmLogs, CropX)
+- Basic data analysis and visualization (Excel/Python/R)
+- Basics of drone operation and image processing
+- Sustainability certification (e.g., GlobalG.A.P.) process.
+- Farm financial and supply chain management tools
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +96,68 @@ Plan, plant, cultivate and harvest vegetable crops, manage farm operations. This
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，需满足学历或薪资要求 |
-| Subclass Green List T2（Work to Residence Visa） | 工作转居留，需工作2年 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需雇主担保 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制打分 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa requiring educational or salary requirements |
+| Subclass Green List T2 (Work to Residence Visa) | Work to residence, requiring 2 years of work |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored employer work visa, requires employer sponsorship |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point scoring system |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Vegetable Grower (Aus) / Market Gardener (NZ)？**
-- 热爱户外体力劳动，适应天气变化
-- 对农业种植有热情，愿意学习可持续农业实践
-- 愿意在偏远地区工作
-
-**谁不适合学Vegetable Grower (Aus) / Market Gardener (NZ)？**
-- 偏好室内办公室工作
-- 无法接受季节性工作或长时间体力劳动
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor physical labor, adaptable to weather changes
+- Passionate about agricultural farming and willing to learn sustainable farming practices.
+- Willing to work in remote areas.
+
+**Who is not suited**
+- Prefer indoor office work.
+- Unable to accept seasonal work or prolonged physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for vegetable growers in New Zealand?**
+A: Depending on experience, annual salary ranges from NZ$45,000-55,000 for entry-level to NZ$70,000-90,000 for senior, with hourly rates around NZ$23-45.
+
+**Q: How can vegetable growers immigrate to New Zealand?**
+A: This occupation is on the Green List, eligible for Tier 1 direct residence, or can apply after gaining experience on an AEWV work visa.
+
+**Q: What qualifications are needed to become a vegetable grower?**
+A: Typically requires an agricultural certificate or diploma, but relevant work experience is also accepted. Growsafe certification is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Vegetable Grower (Aus) / Market Gardener (NZ)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a vegetable grower in New Zealand?**
-答：Salaries range from NZD 45,000-55,000 for entry-level to NZD 70,000-90,000 for experienced, with hourly rates from NZD 23 to NZD 45.
-
-**问：How can a vegetable grower migrate to New Zealand?**
-答：This occupation is on the Green List, eligible for Tier 1 Straight to Residence visa, or via AEWV work visa to gain experience before residence.
-
-**问：What qualifications are needed to become a vegetable grower?**
-答：A certificate or diploma in agriculture is typical, but relevant work experience is accepted. Growsafe certification is mandatory.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

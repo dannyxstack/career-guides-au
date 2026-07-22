@@ -1,60 +1,93 @@
-# Glass Blowers, Molders, Laminators, Cutters, and Polishers（Glass Blowers, Molders, Laminators, Cutters, and Polishers）职业分析 · ES
+# Glass Blowers, Molders, Laminators, Cutters, and Polishers — career analysis · Spain
 
-**职业代码：7615 – Glass Blowers, Molders, Laminators, Cutters, and Polishers。**
+**Occupation code: 7615 (CNO)**
 
-Blow, mold, laminate, cut, and polish glass products in manufacturing plants, artisan workshops, or construction glass installation firms. Requires manual dexterity and machine operation skills.
+Responsible for blowing, molding, laminating, cutting, and polishing glass products, working in glass manufacturing factories, craft workshops, or architectural glass installation companies. Manual skills and machine operation ability are required.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | —（公立学校免费或低学费，私立约1500欧元） |
-| 学徒制（Formación Profesional Dual） | 2-3年 | —（企业培训为主，学费低或由企业承担） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $0~$1,500 (Public schools offer free or low tuition, while private schools cost about 1500 euros) |
+| Apprenticeship (Formación Profesional Dual) | 2-3 years | $0~$500 (Mainly corporate training, with low tuition fees or covered by the company) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 玻璃加工技工证书（Técnico en Operaciones de Fabricación de Productos Cerámicos y de Vidrio） | 西班牙教育部或自治大区 | 可选 | 完成FP Grado Medio后获得，非强制但提升就业竞争力 |
-| 职业安全与健康培训（PRL） | 认可的培训机构 | 必备 | 从事玻璃加工需基本安全培训 |
+| Occupational Safety and Health Training (PRL) | Accredited training institutions | Required | Glass processing requires basic safety training |
+| Glass Processing Technician Certificate (Técnico en Operaciones de Fabricación de Productos Cerámicos y de Vidrio) | The Spanish Ministry of Education or the autonomous region | Optional | Obtained after completing FP Grado Medio, non-mandatory but enhancing employment competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。西班牙玻璃制造行业稳定，但自动化程度提高，初级岗位需求趋缓。高端工艺玻璃和建筑玻璃安装仍有需求，尤其在旅游业和建筑业发达地区。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. Spain's glass manufacturing industry is stable, but automation is increasing, and demand for entry-level positions is slowing. There is still demand for high-end craft glass and architectural glass installations, especially in regions with developed tourism and construction industries.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，取决于地区和公司规模 |
-| 中级（3-7年） | $20,000~$26,000 | 含技能提升和轮班津贴 |
-| 高级（7年以上） | $26,000~$32,000 | 含高级技工或班组长补贴 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Annual pre-tax salary, depending on region and company size |
+| Mid-level (3–7 years) | $20,000~$26,000 | Includes skill improvement and shift allowances |
+| Senior (7+ years) | $26,000~$32,000 | Includes senior technician or team leader allowance |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒或操作员起步，积累经验后晋升为高级技工、班组长或质量控制员。少数可自主创业开设玻璃工艺工作室。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
+
+You can start as an apprentice or operator, and after gaining experience, be promoted to senior technician, team leader, or quality controller. A few can independently start their own glass craft studios.
+
+**Tasks most exposed to AI:**
+
+- AI vision-guided automatic cutting path planning replaces manual measurement and marking
+- CNC edge grinding machines replace manual edge grinding
+- drilling positioning and parameter optimization are automated by AI
+- Quality defect identification (bubbles, cracks) using machine vision instead of visual inspection
+
+**Where AI augments the role:**
+
+- AI-assisted generation of optimal layout plans to improve raw material utilisation
+- AR glasses overlay drawings and tolerance prompts to improve installation accuracy.
+- Predictive maintenance of equipment reduces downtime and extends lifespan
+- Real-time feedback from AI quality control systems to adjust processing parameters
+
+**Human moat:**
+
+- Manual handling and positioning of irregular/oversized glass
+- Artisan judgment for adjusting gaps with building structures during on-site installation
+- Custom artistic glass creative processing.
+- Emergency maintenance for handling automation anomalies
+
+**Skills to build:**
+
+- CNC/Laser Cutting Programming and Operation
+- Smart device fault diagnosis and maintenance
+- 3D modeling and layout optimization software
+- Machine vision quality inspection system basics
+- On-site installation communication and coordination skills
+- Basic English reading (equipment manuals)
+
+**Key growth areas:**
 
 - Manual Skills
 - Construction Glass
@@ -63,65 +96,67 @@ Blow, mold, laminate, cut, and polish glass products in manufacturing plants, ar
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit for Employees） | 需西班牙雇主担保，证明岗位无法在欧盟内填补。非紧缺职业，通过难度较高。 |
-| Subclass Busqueda empleo（Job Search Visa for Skilled Workers） | 仅限高技能职业，本职业不符合条件。 |
+| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish employer sponsor is required, proving that the position cannot be filled within the EU. Non-urgently needed occupations, with higher difficulty to pass. |
+| Subclass Busqueda empleo (Job Search Visa for Skilled Workers) | Only high-skilled professions are eligible; this profession does not meet the requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Glass Blowers, Molders, Laminators, Cutters, and Polishers？**
-- 喜爱手工制作、动手能力强的人
-- 能承受高温和体力劳动的人
-- 愿意接受技术培训、注重细节的求职者
+**Who is suited**
+- People who love handicrafts and have strong hands-on skills
+- People who can withstand high temperatures and physical labor
+- Candidates willing to receive technical training and pay attention to detail
 
-**谁不适合学Glass Blowers, Molders, Laminators, Cutters, and Polishers？**
-- 厌恶制造业环境或对高温敏感者
-- 希望在办公室工作、追求高薪者
+**Who is not suited**
+- Those who dislike manufacturing environments or are sensitive to high temperatures
+- Those who want to work in an office and pursue a high salary
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for glass workers in Spain?**
+A: Entry-level about 16,000-20,000 euros, mid-level 20,000-26,000 euros, senior up to 32,000 euros, above minimum wage but below average.
+
+**Q: Can foreigners become Spanish glass workers through skilled migration?**
+A: High difficulty: this occupation is not in shortage, requires employer sponsorship, and proof that recruitment within the EU is difficult. It is recommended to pursue other high-skilled occupation pathways.
+
+**Q: What educational qualifications are required to become a glassworker?**
+A: Usually completed through FP Grado Medio (intermediate vocational training) or apprenticeship; some positions accept high school diploma plus on-the-job training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Glass Blowers, Molders, Laminators, Cutters, and Polishers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for glass workers in Spain?**
-答：Entry-level around €16,000-20,000, mid-level €20,000-26,000, senior up to €32,000, above minimum wage but below average.
-
-**问：Can foreigners migrate to Spain as glass workers?**
-答：Difficult; not a shortage occupation, employer sponsorship required with labor market test. High-skill paths are more viable.
-
-**问：What qualifications are needed to become a glass worker?**
-答：Typically FP Grado Medio (intermediate vocational training) or apprenticeship; some roles accept high school diploma plus on-the-job training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

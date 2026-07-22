@@ -1,59 +1,95 @@
-# Educational, Guidance, and Career Counselors and Advisors（Educational, Guidance, and Career Counselors and Advisors）职业分析 · 美国
+# Educational, Guidance, and Career Counselors and Advisors — career analysis · United States
 
-**职业代码：21-1012 – Educational, Guidance, and Career Counselors and Advisors。**
+**Occupation code: 21-1012 (SOC)**
 
-Advise and assist students and clients with educational, vocational, and personal guidance to help them make informed decisions.
+Provide educational, career, and personal guidance to students and clients, helping them develop plans and make decisions
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士（硕士学位） | 2年 | $30,000~$80,000（公立大学学费较低，私立较高） |
-| 学士（本科学位） | 4年 | $40,000~$120,000（本科为心理学或相关领域，部分州允许本科学位担任学校顾问） |
+| Master's (Master degree) | 2 years | $30,000~$80,000 (Public universities have lower tuition, private universities higher) |
+| Bachelor (Bachelor's degree) | 4 years | $40,000~$120,000 (Bachelor's in psychology or related field; some states allow bachelor's degree to serve as school counselor) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学校咨询师执照（School Counselor License） | 各州教育部门 | 必备 | 在学校工作必须持有，通常要求硕士学位和实习 |
-| 国家认证咨询师（NCC） | 国家咨询师认证委员会（NBCC） | 可选 | 自愿认证，提升竞争力 |
-| 实习或督导经验 | 研究生项目 | 必备 | 通常需要300-700小时监督实习 |
+| School Counselor License | State education departments | Required | Working in schools requires holding, usually requires a master's degree and internship |
+| Internship or supervision experience | Graduate program | Required | Typically requires 300-700 hours of supervised internship |
+| National Certified Counselor (NCC) | National Board for Certified Counselors (NBCC) | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 330,700。美国劳工统计局预测该职业2023-2033年增长约10%，快于平均水平。学校和学生服务需求稳定，尤其在心理健康和职业规划领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 330,700. US Bureau of Labor Statistics projects about 10% growth for this occupation from 2023-2033, faster than average. Steady demand for school and student services, especially in mental health and career planning.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$50,000 | 学校系统薪资较低，私立机构稍高 |
-| 中级（3-7年） | $50,000~$65,000 | 经验增加薪资提升 |
-| 高级（7年以上） | $65,000~$90,000 | 主管或主任职位可达更高 |
+| Median salary | $64,330 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$50,000 | Lower salaries in public school systems, slightly higher in private institutions |
+| Mid-level (3–7 years) | $50,000~$65,000 | Salary increases with experience |
+| Senior (7+ years) | $65,000~$90,000 | Supervisor or director positions can reach higher levels |
+| average salary | $71,430 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级顾问可晋升为高级顾问、部门主管或学区协调员。获得国家认证（如NCC）有助于职业发展，部分进入高等教育或私人咨询领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
+
+Junior consultants can advance to senior consultant, department head, or district coordinator. National certification (e.g., NCC) aids career development; some move into higher education or private consulting.
+
+**Tasks most exposed to AI:**
+
+- Automated generation and analysis of initial psychological assessment and diagnostic questionnaires
+- AI-assisted writing of treatment notes, progress reports, treatment plans, and other documents
+- Symptom-based initial information retrieval and standardized advice provision
+- Automated reminders and cognitive behavioral training programs based on preset plans
+- Online programs for self-help interventions for common mental health issues (e.g., mild anxiety, depression)
+
+**Where AI augments the role:**
+
+- Real-time tone and emotion analysis to help counselors identify potential issues
+- Data-driven personalized treatment recommendations and outcome prediction
+- AI-simulated client role-play for skill training and supervision
+- Automatically compile meeting minutes and extract key topics and progress indicators
+- Multimodal data analysis (facial expressions, voice) to enhance diagnostic accuracy
+
+**Human moat:**
+
+- Building a safe and trusting therapeutic alliance with deep empathy
+- Clinical judgment and ethical decision-making in complex situations (e.g., suicide risk assessment)
+- Handling unstructured, emotionally complex interviews and crisis intervention
+- Cultural sensitivity and personalized treatment adjustments
+- Immediate intuition and creative intervention during treatment
+
+**Skills to build:**
+
+- Application and integration of AI-assisted tools (e.g., intelligent diagnostics, document automation)
+- Data analysis and interpretation skills (using AI to process structured assessment data)
+- Operation and personalized adjustment of digital therapy platforms
+- Remote consultation and digital communication skills
+- Ethics and privacy management (compliant use of AI and client data)
+- Continuous learning ability (track cutting-edge AI applications in mental health)
+
+**Key growth areas:**
 
 - Mental Health Focus
 - Career Counseling
@@ -62,68 +98,67 @@ Advise and assist students and clients with educational, vocational, and persona
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见于大学或私立咨询机构；需学士以上学位 |
-| Subclass EB-2（EB-2 Advanced Degree） | 硕士以上学位并申请PERM绿卡 |
-| Subclass TN（TN Status (USMCA)） | 加拿大或墨西哥公民在指定职业列表内可申请 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common in universities or private consultancy agencies; bachelor's degree or higher required |
+| Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or above and applying for PERM green card |
+| Subclass TN (TN Status (USMCA)) | Canadian or Mexican citizens can apply within designated occupation lists |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Educational, Guidance, and Career Counselors and Advisors？**
-- 喜欢帮助他人并具备同理心
-- 善于沟通和倾听
-- 对教育和心理学有浓厚兴趣
-
-**谁不适合学Educational, Guidance, and Career Counselors and Advisors？**
-- 不善于处理压力和情绪问题
-- 不喜欢行政工作和文书档案
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy helping others and have empathy
+- Good at communication and listening
+- Strong interest in education and psychology
+
+**Who is not suited**
+- Not good at handling stress and emotional issues
+- Dislike administrative work and paperwork
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for education consultants?**
+A: According to BLS data, the median annual salary in 2023 was approximately $61,710, entry-level around $38,000-50,000, and senior roles can reach over $90,000.
+
+**Q: How can international applicants immigrate to the US through work?**
+A: The most common path is H-1B (requires employer sponsorship and a bachelor's degree or higher) and EB-2 green card (master's degree or higher). Nonprofit educational institutions can exempt from the H-1B cap.
+
+**Q: What is the career progression path for this occupation?**
+A: Can advance from junior consultant to senior consultant, department head, or district coordinator. Obtaining national certification or a doctorate can lead to university faculty or private consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Educational, Guidance, and Career Counselors and Advisors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for educational counselors?**
-答：According to BLS 2023 data, median annual wage is about $61,710; entry-level around $38,000-$50,000, senior levels can exceed $90,000.
-
-**问：How can international applicants immigrate to the US through this occupation?**
-答：Common paths are H-1B (employer sponsorship, bachelor's required) and EB-2 green card (master's+). Nonprofit schools may be cap-exempt for H-1B.
-
-**问：What is the career progression for this occupation?**
-答：From entry-level to senior counselor, department head, or district coordinator. National certification or PhD can lead to university faculty or private practice.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,89 @@
-# Mining, Quarrying and Other Extractive Industry Laborer（Mining, Quarrying and Other Extractive Industry Laborer）职业分析 · ES
+# Mining, Quarrying and Other Extractive Industry Laborer — career analysis · Spain
 
-**职业代码：9603 – Mining, Quarrying and Other Extractive Industry Laborer。**
+**Occupation code: 9603 (CNO)**
 
-Performs manual tasks such as loading, unloading, and moving materials, cleaning work areas, and assisting with basic machinery operation in mines, quarries, and other extractive sites.
+Engaged in the handling, cleaning, and auxiliary operations of ore, rock, sand and gravel materials in mines, quarryings, and other mining sites, operating simple machinery and equipment to maintain safety in the work area.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 初中毕业或义务教育后 | 无固定年限，通常入职前接受短期培训 | —（培训费用低，部分企业提供免费培训） |
-| 中等职业教育（FP Grado Medio） | 2年（FP Grado Medio） | —（公立教育免费或低学费，私立稍高） |
+| After graduating from junior high school or after compulsory education | There is no fixed tenure, and short-term training is usually received before joining | $0~$500 (Training costs are low, and some companies offer free training) |
+| Secondary Vocational Education (FP Grado Medio) | 2 years (FP Grado Medio) | $0~$2,000 (Public education is free or has low tuition, while private education is slightly higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 基础安全培训（Prevención de Riesgos Laborales） | 企业或认证培训机构 | 必备 | 入职必备，涵盖矿山安全规程 |
-| 特种设备操作证（如装载机、挖掘机） | 西班牙劳动与社会经济部认可的培训机构 | 可选 | 非强制但有助于晋升 |
+| Basic Safety Training (Prevención de Riesgos Laborales) | Enterprises or certified training institutions | Required | Essential for onboarding, covering mine safety regulations |
+| Special equipment operation certificates (such as loaders, excavators) | A training institution recognized by the Spanish Ministry of Labor and Social Economy | Optional | Not mandatory but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙采矿业规模有限，就业集中在北部（如阿斯图里亚斯、莱昂）的煤矿和金属矿。因环保政策和向可再生能源转型，传统采矿岗位减少，但部分采石场和矿物加工仍有需求。总体就业机会稳定但增长有限。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. Spain's mining industry is limited in scale, with employment concentrated in northern coal and metal mines (such as Asturias and León). Due to environmental policies and the transition to renewable energy, traditional mining jobs have decreased, but some quarries and mineral processing still have demand. Overall, employment opportunities are stable but growth is limited.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，含社保 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪，含社保 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，含社保；班组长或操作员略高 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary, including social insurance |
+| Mid-level (3–7 years) | $22,000~$28,000 | Pre-tax annual salary, including social insurance |
+| Senior (7+ years) | $28,000~$35,000 | Pre-tax annual salary, including social insurance; Team leaders or operators are slightly higher |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 该职业晋升路径有限，通常从普工起步，可向机械操作员（如挖掘机、装载机）或班组长发展，需要积累经验并取得相关操作证书。极少数人可晋升至采矿技术员或现场主管。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
+
+Promotion paths for this profession are limited; it usually starts as a general worker and can develop to mechanical operators (such as excavators and loaders) or team leaders, requiring experience accumulation and obtaining relevant operational certificates. A very small number can be promoted to mining technician or site supervisor.
+
+**Tasks most exposed to AI:**
+
+- Autonomous haulage systems (AHS) take over transport cycle operations.
+- GPS navigation and sensors automatically handle path planning and obstacle avoidance
+- AI scheduling system optimises fleet allocation, replacing manual scheduling
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of equipment faults to improve maintenance efficiency
+- Virtual reality (VR) simulators for safety training and operation drills
+- Data analysis to optimise fuel consumption and tyre wear.
+
+**Human moat:**
+
+- Emergency judgment and decision-making in complex geological conditions
+- On-site rapid repair skills for equipment breakdowns
+- Cross-device coordination and multitasking
+- Safety procedure execution and risk assessment
+
+**Skills to build:**
+
+- Automated system operation and monitoring (e.g., AHS console)
+- Basic data analysis (Python/R)
+- Remote device diagnostics and maintenance (IoT sensors)
+- Safety regulation updates and digital management.
+- Cross-departmental collaboration and communication skills
+- Drone inspection operations.
+
+**Key growth areas:**
 
 - Manual labor
 - Mining
@@ -61,64 +92,63 @@ Performs manual tasks such as loading, unloading, and moving materials, cleaning
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙雇主提供的工作合同，并证明该岗位无法由本地或欧盟劳动力填补。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙居留6-12个月寻找工作，但需证明有足够经济能力。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish employer must be obtained, and it must prove that the position cannot be filled by local or EU labor. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find work, but you must prove sufficient financial means. |
 
-**PR难度：困难（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mining, Quarrying and Other Extractive Industry Laborer？**
-- 身体健康、能适应体力劳动和户外工作者
-- 愿意在偏远地区工作、不介意灰尘和噪音环境者
-- 寻求快速入职、不需高等教育背景者
-
-**谁不适合学Mining, Quarrying and Other Extractive Industry Laborer？**
-- 希望长期在办公室或高薪行业发展者
-- 对工作安全条件要求极高或畏惧井下工作者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically healthy and able to handle physical labor and outdoor work
+- Those willing to work in remote areas who don't mind dust and noise environments
+- Those seeking rapid onboarding without a higher education background
+
+**Who is not suited**
+- Those hoping to develop long-term in offices or high-paying industries
+- Those with extremely high safety requirements or fear underground work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for mining workers?**
+A: The entry-level annual salary is about 18,000-22,000 euros, while experienced workers can earn 28,000-35,000 euros (including social insurance).
+
+**Q: Can third-country citizens immigrate to Spain through this occupation?**
+A: Yes, but usually an employer-sponsored application for employed work residence (Cuenta ajena) is required. Since this occupation is not highly skilled, the EU Blue Card or High-Skilled Talent visa is not applicable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Mining, Quarrying and Other Extractive Industry Laborer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for mining laborers?**
-答：Entry-level annual salary is about 18,000-22,000 EUR, while experienced workers can earn 28,000-35,000 EUR (gross including social security).
-
-**问：Can third-country nationals immigrate via this occupation?**
-答：Yes, but generally requires employer sponsorship for a work contract (Cuenta ajena). EU Blue Card or highly skilled visa does not apply due to low skill level.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

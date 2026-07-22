@@ -1,61 +1,96 @@
-# Residential Advisors（Residential Advisors）职业分析 · 美国
+# Residential Advisors — career analysis · United States
 
-**职业代码：39-9041 – Residential Advisors。**
+**Occupation code: 39-9041 (SOC)**
 
-Residential Advisors coordinate daily activities in dormitories, group homes, or similar facilities, ordering supplies, arranging maintenance, assigning rooms, and assisting residents with problem-solving or referrals to counseling.
+Accommodation advisors coordinate daily activities of school/university dormitories and group living facilities, including ordering supplies, arranging maintenance, room allocation, and providing problem-solving or referral support for residents.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（最低学历要求） |
-| 副学士学位 | 2年 | $10,000~$30,000（常见社区学院费用） |
+| High school diploma | None | $0~$0 (Minimum Education Requirement) |
+| Associate degree | 2 years | $10,000~$30,000 (Common community college costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 最低要求 |
-| 心肺复苏（CPR）认证 | 红十字等 | 必备 | 常需 |
-| 心理咨询或相关领域副学士学位 | 社区学院 | 可选 | 有助于晋升 |
+| High school diploma or equivalent | High school | Required | Minimum requirements |
+| Cardiopulmonary resuscitation (CPR) certification | Red Cross, etc. | Required | Often required |
+| Associate degree in counseling or related field | Community college | Optional | Helps with promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 124,500。美国住宿顾问岗位预计2023-2033年就业增长率约5%，与所有职业平均水平相近。因教育机构及集体居住设施需求持续，岗位稳定，但竞争取决于地区。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 124,500. Employment for US lodging managers is projected to grow about 5% from 2023 to 2033, similar to the average for all occupations. Steady demand from educational institutions and group housing facilities ensures stability, but competition varies by region.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 时薪约$12-14 |
-| 中级（3-7年） | $30,000~$38,000 | 含津贴 |
-| 高级（7年以上） | $38,000~$46,000 | 管理层职位 |
+| Median salary | $42,240 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $24,000~$30,000 | Hourly wage about $12-14 |
+| Mid-level (3–7 years) | $30,000~$38,000 | Includes allowances. |
+| Senior (7+ years) | $38,000~$46,000 | Management positions |
+| average salary | $43,990 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从基层住宿顾问起步，积累经验后可晋升为高级住宿顾问、住宿协调员或学生事务主管。部分人转向心理咨询、社会工作或教育管理领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
+
+Usually start as entry-level accommodation advisor, gain experience to advance to senior accommodation advisor, accommodation coordinator, or student affairs manager. Some transition to counseling, social work, or education management.
+
+**Tasks most exposed to AI:**
+
+- Automatic vacuum cleaners and robotic mops clean floors
+- Smart voice assistants manage schedule reminders and shopping lists
+- Remote health monitoring devices collect vital signs data
+- Automated cooking equipment completes simple meal preparation
+- AI chatbot providing basic companionship and emotional support
+
+**Where AI augments the role:**
+
+- AI tools assist in developing personalized care and health management plans
+- Telemedicine platforms enable more efficient collaboration between caregivers and doctors
+- Automated report generation reduces paperwork burden
+- Smart sensors to alert falls and other emergencies
+- Online AI simulation of elderly care scenarios to enhance skills
+
+**Human moat:**
+
+- Needs empathetic emotional companionship and communication
+- Flexibility to handle emergencies
+- Physical contact-based daily living assistance (e.g., bathing, dressing)
+- Soft skills for building trust and long-term relationships with family members.
+
+**Skills to build:**
+
+- Basic AI tool use (e.g., smart home system operation)
+- Data analysis and health monitoring device interpretation
+- Communication and emotional support skills
+- First aid and basic medical knowledge
+- Multitasking and time management
+- Cultural sensitivity and cross-generational communication skills.
+
+**Key growth areas:**
 
 - Stable
 - Education
@@ -64,65 +99,67 @@ Residential Advisors coordinate daily activities in dormitories, group homes, or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求学士学位，不符合H-1B专业职位要求 |
-| Subclass Green Card (PERM)（EB-2/EB-3 Permanent Residence） | 雇主担保绿卡可能性极低，因职业为低技能岗位，PERM劳工证难以通过 |
+| Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable, as this occupation usually does not require a bachelor's degree, not meeting H-1B specialty occupation requirements |
+| Subclass Green Card (PERM) (EB-2/EB-3 Permanent Residence) | Employer-sponsored green card is highly unlikely because the occupation is low-skilled; PERM labor certification is difficult to pass. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Residential Advisors？**
-- 善于与人沟通、解决问题的人员
-- 喜欢社区服务和学生工作的人员
-- 有耐心和同理心，能处理危机状况的人员
+**Who is suited**
+- People who are good at communicating and solving problems
+- People who enjoy community service and student work
+- People with patience and empathy, able to handle crisis situations
 
-**谁不适合学Residential Advisors？**
-- 追求高薪和快速职业晋升的人员
-- 对夜班和周末工作不适应的人员
+**Who is not suited**
+- Those pursuing high salary and rapid career advancement
+- individuals who are not suited for night shifts and weekend work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an accommodation consultant?**
+A: According to the US Bureau of Labor Statistics, median annual salary for lodging advisors is approximately $30,000; junior around $24,000, senior up to $46,000; often includes free accommodation or meal allowances.
+
+**Q: Can accommodation counselors immigrate to the US via skilled migration?**
+A: Nearly impossible. The occupation typically does not require a bachelor's degree, does not meet H-1B specialty occupation criteria, and has low wages, making PERM labor certification difficult to obtain.
+
+**Q: What are the career development paths for a residential advisor?**
+A: Most advance to senior residential advisor, hall director, or student affairs manager; some move into counseling, social work, or education management, usually requiring additional degrees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短期（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Residential Advisors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for Residential Advisors?**
-答：According to BLS, median annual wage is about $30,000, entry-level around $24,000, and experienced up to $46,000, often including free room or meal benefits.
-
-**问：Is there a possibility for a Residential Advisor to immigrate to the US via work visa?**
-答：Very unlikely. The occupation typically does not require a bachelor's degree, making it ineligible for H-1B visa, and low wages make PERM labor certification difficult.
-
-**问：What are the career advancement paths for Residential Advisors?**
-答：Many advance to senior advisor, hall director, or student affairs manager; some transition to counseling, social work, or education administration, often requiring additional degrees.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

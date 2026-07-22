@@ -1,60 +1,96 @@
-# Saddler and Leather Goods Maker（Saddler and Leather Goods Maker）职业分析 · DE
+# Saddler and Leather Goods Maker — career analysis · Germany
 
-**职业代码：2832 – Saddler and Leather Goods Maker。**
+**Occupation code: 2832 (KldB)**
 
-Saddlers and leather goods makers design, handcraft, and repair saddles, belts, bags, and other leather items, involving cutting, stitching, finishing, and maintenance. This trade blends traditional craftsmanship with modern design, often found in custom workshops or restoration studios.
+Saddlery and leather goods makers design, handcraft, and restore leather items such as saddles, belts, and bags, including cutting, stitching, decorating, and maintenance. This occupation combines traditional craftsmanship with modern design, commonly found in custom workshops or restoration studios.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（培训期间有津贴，企业承担大部分费用，个人支出较少） |
-| 大师级工匠培训 | 1-2年（兼职） | $3,000~$8,000（需通过德国工商会（IHK）考试，费用含课程与考试） |
+| Dual vocational training | 3 years | $0~$500 (Stipend during training, with the company covering most costs and minimal personal expenses) |
+| Master craftsman training | 1-2 years (part-time) | $3,000~$8,000 (Must pass the German Chamber of Commerce (IHK) exam; fees include course and exam) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国职业培训证书（Sattler/in） | 德国工商会（IHK） | 必备 | 需完成3年双元制培训并通过结业考试 |
-| 大师级工匠证书（Sattlermeister/in） | 德国工商会（IHK） | 可选 | 非必需，但有利于独立执业或担任管理职位 |
+| German vocational training certificate (Sattler/in) | German Chamber of Commerce and Industry (IHK) | Required | Must complete 3 years of dual-system training and pass the final exam. |
+| Master Craftsman Certificate (Sattlermeister/in) | German Chamber of Commerce and Industry (IHK) | Optional | Not required, but beneficial for independent practice or managerial roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中低（★★☆☆☆）。** 全国从业人数约 6,000。德国皮革手工艺需求稳定，尤其是高端定制和修复领域。受工匠老龄化影响，新人机会较好，但就业市场较小，主要分布在专业工坊或旅游区。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 6,000. Demand for German leather craftsmanship remains stable, especially in high-end customization and restoration. Due to an aging workforce, opportunities for newcomers are relatively good, but the job market is small, mainly concentrated in specialized workshops or tourist areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，培训结束后起薪 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，经验丰富后 |
-| 高级（7年以上或大师级） | $38,000~$48,000 | 税前年薪，含管理层或自雇 |
+| Median salary | $35,124 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, starting salary after training |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual salary before tax, after gaining experience |
+| Senior (7+ years or master level) | $38,000~$48,000 | Annual pre-tax salary, including management or self-employment |
+| average salary | $38,748 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初期通过双元制培训成为熟练工匠，后续可升为大师级工匠（Meister）并独立经营工作室，也可转向皮革制品设计或质量管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core craftsmanship and customization needs of saddlery and leather goods makers are difficult for AI to fully replace in the short term. AI may improve efficiency in design assistance, material optimization, and customer communication, but will put pressure on standardized production roles.
+
+Initially become a skilled craftsman through dual vocational training, then advance to master craftsman (Meister) and run your own workshop, or move into leather goods design or quality management roles.
+
+**Tasks most exposed to AI:**
+
+- Using CAD software for automated design of saddle sizes and patterns
+- Using machine learning algorithms to optimize leather cutting paths to reduce waste.
+- Providing customers with remote previews through AI-driven virtual try-on systems
+- Automated sewing machines handle standardized straight and curved stitching (e.g., belt seams)
+- Using AI-generated product catalogs and digital marketing content to replace some manual displays
+
+**Where AI augments the role:**
+
+- AI tools assist in 3D modeling and ergonomic optimization of complex saddles to improve comfort
+- Quickly select the best leather and accessories through material performance databases and AI recommendation systems.
+- Use computer vision to detect defects on leather surfaces, improving inspection accuracy
+- AI-driven customer preference analysis enabling personalized recommendations and customized services
+- Digital twin technology simulates leather aging effects to assist vintage style design
+
+**Human moat:**
+
+- Artistic decoration techniques such as hand carving, embossing, and dyeing
+- Professional judgment for on-site adjustments based on client body type and rider habits
+- Deep understanding of historical craftsmanship and material knowledge when repairing antique horse tack
+- Ability to build trust with high-end clients and provide one-on-one consultation
+- Long-term experience accumulation in leather lifespan and processing techniques
+
+**Skills to build:**
+
+- Master leather 3D modeling and CAD software (e.g., Rhino, Fusion 360)
+- Learn AI-assisted design tools (e.g., Generative Adversarial Networks for pattern design).
+- Skilled in operating automatic cutting machines and digital sewing equipment
+- Understand material science and data-driven process optimisation methods
+- Enhance ability to analyze customer needs and design personalized services
+- Learn digital marketing and social media operations to expand custom brands
+
+**Key growth areas:**
 
 - Traditional Craftsmanship
 - Custom Leather Goods
@@ -63,68 +99,67 @@ Saddlers and leather goods makers design, handcraft, and repair saddles, belts, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需获得德国认可的职业资格（双元制证书）及雇主合同，适合已完成资质认证的申请人。 |
-| Subclass Job Seeker（Job Seeker Visa (Chancenkarte)） | 持机会卡可入境寻找工作，但需具备足够德语能力（B1以上）及相关资质。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a German-recognized vocational qualification (dual system certificate) and an employer contract, suitable for applicants who have already completed qualification recognition. |
+| Subclass Job Seeker (Job Seeker Visa (Chancenkarte)) | Opportunity card holders can enter the country to seek employment but need sufficient German language skills (B1 or higher) and relevant qualifications. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Saddler and Leather Goods Maker？**
-- 喜欢手工制作和传统工艺的人
-- 有耐心和精细动手能力者
-- 对皮革材料和马具文化感兴趣的人
-
-**谁不适合学Saddler and Leather Goods Maker？**
-- 追求高薪或快速职业发展的人
-- 不习惯手工劳作或对灰尘/气味敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy handcrafting and traditional crafts.
+- Those with patience and fine motor skills
+- People interested in leather materials and equestrian culture
+
+**Who is not suited**
+- People seeking high salary or rapid career advancement
+- Those unaccustomed to manual labor or sensitive to dust/odors
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for saddlers and leather goods makers?**
+A: Pre-tax annual salary for junior staff is approximately €24,000-30,000, rising to over €38,000 with experience; master craftsmen or self-employed individuals earn more, but generally below the German average.
+
+**Q: How can foreigners immigrate to Germany to work in this occupation?**
+A: Requires qualification recognition (Anerkennung) to match foreign qualifications or experience with the German dual system certificate; after obtaining an employer contract, can apply for a Skilled Worker Visa. The Opportunity Card (Chancenkarte) allows entry to seek employment first
+
+**Q: What are the training pathways for this occupation?**
+A: Main pathway is a 3-year dual training program, combining practical learning in companies with theoretical study at vocational schools. Afterward, optionally obtain a master craftsman certificate costing around 3,000-8,000 euros; not mandatory but beneficial for career development.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中低（★★☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Saddler and Leather Goods Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for saddlers and leather goods makers?**
-答：Entry-level annual gross salary is around €24,000-30,000, rising to over €38,000 with experience; master craftsmen or self-employed individuals may earn more, but overall below German average.
-
-**问：How can foreigners immigrate to Germany for this profession?**
-答：Foreign qualifications must undergo recognition (Anerkennung) to match the German dual training certificate. With a job offer, you can apply for a Skilled Worker Visa. The Job Seeker Visa (Chancenkarte) allows entry to search for work.
-
-**问：What are the training pathways for this profession?**
-答：The main path is a 3-year dual vocational training (Ausbildung), combining on-the-job training with vocational school. Afterwards, you can optionally obtain a master craftsman certificate (Meister), costing €3,000-8,000, which is beneficial for career advancement but not mandatory.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Supply and Distribution Manager（Supply and Distribution Manager）职业分析 · 新西兰
+# Supply and Distribution Manager — career analysis · New Zealand
 
-**职业代码：133611 – Supply and Distribution Manager。**
+**Occupation code: 133611 (ANZSCO)**
 
-Supply and Distribution Managers oversee procurement, warehousing, logistics and distribution in New Zealand. This Green List Tier 1 occupation offers a direct pathway to residence, making it highly viable for skilled migrants.
+Supply chain managers in New Zealand oversee procurement, warehousing, logistics, and distribution. This is a core role in the post-pandemic e-commerce and infrastructure recovery. This occupation is on the Green List Tier 1, allowing direct residence application with high migration feasibility.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（三年学费约9-13.5万纽元，奥克兰大学或梅西大学） |
-| 研究生文凭 | 1年 | $20,000~$35,000（一年学费约2-3.5万纽元，如怀卡托大学） |
-| 硕士 | 1.5年 | $40,000~$60,000（1.5年学费约6-9万纽元，奥克兰理工大学） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Three-year tuition approximately NZD 90,000-135,000 at University of Auckland or Massey University.) |
+| Graduate diploma | 1 year | $20,000~$35,000 (Annual tuition approx. NZ$20,000-35,000, e.g., University of Waikato) |
+| Master's degree | 1.5 years | $40,000~$60,000 (1.5-year tuition approximately NZ$60,000-90,000, Auckland University of Technology) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册供应链分析师 | 新西兰供应链与物流协会 | 可选 | 非强制，但持有者薪资更高 |
-| APICS CSCP | 美国运营管理协会 | 可选 | 国际认证，受新西兰雇主青睐 |
-| 健康与安全证书 | 新西兰工作安全局 | 必备 | 仓库或物流管理强制要求 |
-| 雅思6.5分 | IDP或British Council | 必备 | 技术移民最低语言要求 |
+| Health and safety certificate | Worksafe New Zealand | Required | Mandatory for warehouse or logistics management |
+| IELTS 6.5 | IDP or British Council | Required | Minimum language requirement for skilled migration |
+| Certified Supply Chain Analyst | Supply Chain and Logistics Association of New Zealand | Optional | Not mandatory, but holders earn higher salaries |
+| APICS CSCP | Association for Operations Management (APICS) | Optional | Internationally recognized, favored by New Zealand employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,000。由于全球供应链重塑和国内电商增长，新西兰对供应链经理需求持续旺盛，尤其在奥克兰和坎特伯雷地区。未来五年就业预计保持稳定增长，劳动力缺口约15%。
+**Job demand: high (★★★★☆).** National workforce approx. 2,000. Due to global supply chain restructuring and e-commerce growth, demand for supply chain managers in New Zealand remains strong, especially in Auckland and Canterbury. Employment is expected to grow steadily over the next five years, with a labor gap of about 15%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 采购员或物流协调员 |
-| 中级（3-7年） | $75,000~$100,000 | 供应链经理 |
-| 高级（7年以上） | $110,000~$150,000 | 运营总监或高级供应链经理 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Purchaser or logistics coordinator. |
+| Mid-level (3–7 years) | $75,000~$100,000 | Supply chain manager |
+| Senior (7+ years) | $110,000~$150,000 | Operations Director or Senior Supply Chain Manager |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可担任物流协调员或采购专员，积累3-5年经验后晋升为供应链经理，再向运营总监或首席运营官发展。部分人选择在大型零售商或制造企业晋升至VP级别。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The supply chain manager role presents a mixed outlook: routine scheduling and document verification tasks are automated away, but core capabilities like strategic planning, complex negotiation, and resilience design are amplified by AI, shifting value toward higher-level decision-making.
+
+Entry-level roles include logistics coordinator or procurement specialist; after 3-5 years of experience, move up to supply chain manager, then to operations director or COO. Some progress to VP level at large retailers or manufacturing companies.
+
+**Tasks most exposed to AI:**
+
+- Inventory demand forecasting and auto-replenishment calculation
+- Transportation route optimization and logistics cost calculation
+- Standardized Purchase Order Processing and Supplier Reconciliation
+- Supply chain performance dashboard generation and anomaly alerts
+- Compliance Document Review and Pre-Filling of Customs Clearance Documents
+
+**Where AI augments the role:**
+
+- AI-based supply chain resilience scenario modeling and contingency plan generation
+- Analyzing supplier risk sentiment and contract clause negotiation via NLP
+- AI-driven real-time demand sensing and dynamic inventory allocation
+- Intelligent evaluation and recommendation of multi-channel order fulfillment strategies
+- Using machine vision and IoT for digital twin monitoring of warehouse logistics
+
+**Human moat:**
+
+- Cross-departmental strategic coordination and long-term partnership maintenance
+- Make trade-off decisions under uncertainty (cost, service, risk)
+- Handle unstructured crises like single-supplier disruptions
+- Build organizational resilience and change management (e.g., drive automation implementation)
+- High-level business negotiation and procurement strategy innovation
+
+**Skills to build:**
+
+- Supply chain data analysis and Python/SQL scripting
+- AI/ML predictive modeling (e.g., time series forecasting, classification models)
+- Supply chain digital twin and simulation tools (AnyLogic, FlexSim, etc.)
+- Supplier risk management platform operation and AI warning interpretation
+- Agile supply chain and lean management methodologies
+- Cross-cultural communication and team leadership
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -64,68 +100,67 @@ Supply and Distribution Managers oversee procurement, warehousing, logistics and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求即可立即申请，无需工作2年。 |
-| Subclass SMC（Skilled Migrant Category） | 六分制技术移民，符合条件可申请，需满6分。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，可在获得雇主担保后工作最多3年。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa; eligible immediately upon meeting occupation requirements, no need to work for 2 years. |
+| Subclass SMC (Skilled Migrant Category) | Six-point skilled migration: eligible to apply if meeting conditions, requires a total of 6 points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, allows work for up to 3 years after obtaining employer sponsorship. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supply and Distribution Manager？**
-- 具备物流或商业学位，有3年以上相关经验。
-- 适应快节奏、多任务协调，有跨文化沟通能力。
-- 希望快速获得新西兰永居的理工科或商科背景人士。
-
-**谁不适合学Supply and Distribution Manager？**
-- 不喜欢现场管理和频繁出差。
-- 缺乏数据分析和系统思维，不擅长优化流程。
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Possess a logistics or business degree with over 3 years of relevant experience.
+- Adapt to fast-paced, multi-tasking coordination with cross-cultural communication skills.
+- Those with science, engineering, or business backgrounds seeking fast New Zealand permanent residence.
+
+**Who is not suited**
+- Dislike site management and frequent travel.
+- Lack of data analysis and systems thinking, not good at optimizing processes.
+
+---
+
+## 8. FAQ
+
+**Q: Is the salary for a Supply Chain Manager in New Zealand sufficient to support life after immigration?**
+A: Yes, mid-level supply chain manager annual salary approx. NZD 75,000-100,000, well above the skilled migrant salary median, covering a family's living expenses in Auckland with savings left over.
+
+**Q: Can a supply chain manager immigrate directly through the Green List?**
+A: Yes. This occupation is on Green List Tier 1; meeting qualification and work requirements allows direct residence visa application without working 2 years first.
+
+**Q: Can someone without a logistics background become a supply chain manager?**
+A: Yes, but need to accumulate 3-5 years of relevant work experience and obtain APICS or local certification to compensate for educational gaps. Employers value practical ability more.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Supply and Distribution Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the salary of a Supply and Distribution Manager in New Zealand sufficient to support life after migration?**
-答：Yes, a mid-level Supply and Distribution Manager earns NZD 75,000-100,000, well above the median wage for skilled migration, covering living costs in Auckland with savings.
-
-**问：Can a Supply and Distribution Manager migrate through the Green List?**
-答：Yes. It is on Green List Tier 1, allowing direct residence application if you meet qualification and work requirements, without needing 2 years of work first.
-
-**问：Can someone without a logistics degree become a Supply and Distribution Manager?**
-答：Yes, but you need 3-5 years of relevant experience and certifications like APICS to bridge the gap. Employers value practical skills.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

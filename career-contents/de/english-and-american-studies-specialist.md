@@ -1,61 +1,97 @@
-# English and American Studies Specialist（English and American Studies Specialist）职业分析 · DE
+# English and American Studies Specialist — career analysis · Germany
 
-**职业代码：9112 – English and American Studies Specialist。**
+**Occupation code: 9112 (KldB)**
 
-Professionals specializing in English language, literature, and cultural studies, typically working in universities, research institutions, or cultural organizations, focusing on teaching, research, and cultural exchange.
+Professionals engaged in English language, literature, and cultural studies, typically working in universities, research institutions, or cultural departments, responsible for teaching, research, and cultural exchange.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士 | 2年（全日制） | —（公立大学仅收学期费（约300欧元/学期）） |
-| 博士 | 3-5年 | —（博士职位通常有工资，学费全免） |
+| Master's degree | 2 years (full-time) | $0~$500 (Public universities only charge a semester fee (approx. 300 euros per semester).) |
+| Doctorate | 3-5 years | $0~$500 (Doctoral positions usually come with a salary and tuition exemption) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英语语言文学硕士 | 德国大学 | 必备 | 硕士学历是基本要求，专业需对口 |
-| 博士学历 | 德国大学 | 可选 | 高校教学和研究职位通常要求博士 |
-| 资质认证（Anerkennung） | 德国认证机构 | 可选 | 对国外学历需进行资格认证，但非强制 |
+| Master of English Language and Literature | German university | Required | A master's degree is a basic requirement, and the major must be relevant |
+| PhD degree | German university | Optional | University teaching and research positions usually require a PhD. |
+| Qualification recognition (Anerkennung) | German certification body | Optional | Recognition of foreign qualifications is required but not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,500。德国高校对英语研究人才需求稳定，但该领域偏向学术研究，非紧缺职业。由于国际化和跨学科趋势，就业前景一般，博士学历更有利。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,500. Demand for English research talent in German universities is stable, but the field leans towards academic research, not a shortage occupation. Due to internationalisation and interdisciplinary trends, job prospects are average; a PhD is more advantageous.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 科研助理（TV-L 13级，50%职位） |
-| 中级（3-7年） | $45,000~$60,000 | 博士后或讲师 |
-| 高级（7年以上） | $60,000~$80,000 | 教授（W2/W3级别） |
+| Median salary | $69,060 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Research Assistant (TV-L 13, 50% position) |
+| Mid-level (3–7 years) | $45,000~$60,000 | Postdoctoral researcher or lecturer |
+| Senior (7+ years) | $60,000~$80,000 | Professor (W2/W3 level) |
+| average salary | $67,944 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：一般（★★½☆☆）。** 常见路径：硕士毕业后担任科研助理，博士毕业成为讲师或教授。部分人转向出版、翻译或文化管理。晋升依赖于科研成果和学术发表。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core competencies of English and American studies specialists (literary criticism, cultural analysis) are less likely to be replaced by AI, but tasks such as language teaching, basic translation, and literature review will be highly automated, requiring roles to upgrade in both research depth and technical tool usage.
+
+Common path: work as a research assistant after a master's degree, become a lecturer or professor after a PhD. Some transition to publishing, translation, or cultural management. Promotion depends on research output and academic publications.
+
+**Tasks most exposed to AI:**
+
+- Basic language teaching (automatic pronunciation correction, grammar exercise grading)
+- Literature search and summary generation (AI automatic search and summarization)
+- Text proofreading and basic translation (machine translation accuracy improved)
+- Standardized test tutoring (replaced by adaptive learning systems)
+- General knowledge quiz (replaced by AI knowledge base)
+
+**Where AI augments the role:**
+
+- Cross-corpus linguistic analysis (AI processing large-scale text data)
+- Quantitative analysis of literary text style and themes (assisted by NLP tools)
+- Multilingual cultural comparative studies (AI translation + knowledge graphs)
+- Designing personalized teaching plans (AI analysis of student data)
+- Academic writing quality assessment (AI checks logic and formatting)
+
+**Human moat:**
+
+- Deep literary and cultural criticism (metaphor, ideological interpretation)
+- Cross-cultural sensitivity and adaptability (complex interpersonal communication)
+- Original research and theoretical construction
+- Emotional resonance and transmission of humanistic values
+- Critical thinking and value judgment
+
+**Skills to build:**
+
+- Digital humanities tools (e.g., Voyant Tools, AntConc)
+- Data visualization and statistical analysis (Python/R)
+- AI-assisted teaching and assessment platforms (e.g., adaptive learning systems)
+- Cross-disciplinary collaboration skills (with cognitive science, social computing)
+- Academic writing and grant applications (AI-assisted but human-led)
+- Critical AI Literacy (Understanding AI Limitations and Biases)
+
+**Key growth areas:**
 
 - Academic
 - Research
@@ -64,69 +100,68 @@ Professionals specializing in English language, literature, and cultural studies
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 用于高学历人群，年薪要求：2025年约45,300欧元（紧缺行业），非紧缺行业更高。 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有德国认可学历的工作合同，无年薪门槛。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德国停留6个月寻找工作，需证明资金。 |
+| Subclass EU Blue Card (EU Blue Card) | For highly educated individuals, salary requirement: approx. €45,300 in 2025 (shortage occupations), higher for non-shortage fields. |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to work contracts with a German-recognized qualification, no annual salary threshold. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment; proof of funds required |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学English and American Studies Specialist？**
-- 热爱英语语言文学和文化研究，追求学术生涯的人
-- 愿意攻读博士并从事科研的人
-- 适应德国学术体系，具备德语交流能力的人
-
-**谁不适合学English and American Studies Specialist？**
-- 追求高薪和快速就业的人
-- 偏好实用技能而非理论研究的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those passionate about English language and literature studies, pursuing an academic career
+- People willing to pursue a PhD and engage in research
+- Individuals adaptable to the German academic system with German communication skills
+
+**Who is not suited**
+- Those seeking high salaries and quick employment.
+- Prefers practical skills over theoretical study
+
+---
+
+## 8. FAQ
+
+**Q: What are non-academic career paths?**
+A: Can transition to publishing, translation, international exchange or cultural management, but with limited salary and job demand.
+
+**Q: How to get Chinese qualifications recognized in Germany?**
+A: Through the Anabin database, a master's degree is usually recognised, but official accreditation must be applied for (approx. 3-6 months).
+
+**Q: Can English majors apply for a Blue Card?**
+A: Yes, but annual salary must meet the Blue Card threshold (approx. €45,300 in 2025); difficult to achieve in non-academic fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 一般（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-English and American Studies Specialist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What are non-academic career options?**
-答：Options include publishing, translation, international relations, or cultural management, but with limited demand and salary.
-
-**问：How to get Chinese degrees recognized in Germany?**
-答：Check Anabin database; master degrees are usually recognized. Official recognition application takes 3-6 months.
-
-**问：Can English majors apply for EU Blue Card?**
-答：Yes, but must meet salary threshold (approx. EUR 45,300 in 2025), which is challenging outside academia.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

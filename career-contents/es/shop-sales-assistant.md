@@ -1,59 +1,95 @@
-# Shop Sales Assistant（Shop Sales Assistant）职业分析 · ES
+# Shop Sales Assistant — career analysis · Spain
 
-**职业代码：5220 – Shop Sales Assistant。**
+**Occupation code: 5220 (CNO)**
 
-Shop sales assistants greet customers, provide product information, complete sales transactions, and maintain store tidiness. This occupation is core to Spain's retail sector with widespread employment opportunities.
+Store clerks greet customers, provide product information, complete sales transactions, and maintain store cleanliness in retail stores. This profession is a core position in Spain's retail industry, offering a wide range of employment opportunities.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无需特定学历 | —（通常只需初中毕业） |
-| FP Medio in商业 | 2年（FP Grado Medio） | $500~$2,000（公立学校费用较低） |
+| Compulsory education | No specific degree required | $0~$0 (Usually, only junior high school graduates are required) |
+| FP Medio in Business | 2 years (FP Grado Medio) | $500~$2,000 (Public school fees are relatively low) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 无 | 可选 | 该职业不受监管，无需特定执照 |
+| No mandatory certification | None | Optional | This profession is unregulated and does not require a specific license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 720,000。西班牙零售业雇佣人数超过170万，其中售货员占比最大。随着旅游复苏和消费增长，该岗位需求稳定，但受电商冲击增速放缓。未来五年预计保持平稳。
+**Job demand: high (★★★★☆).** National workforce approx. 720,000. Retail employment in Spain exceeds 1.7 million, with sales assistants making up the largest share. Driven by tourism recovery and consumption growth, demand for this role is stable but slowing due to e-commerce impact. It is expected to remain steady over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$18,000 | 税前年薪，多为14薪制 |
-| 中级（3-6年） | $19,000~$22,000 | 有经验的售货员 |
-| 高级（6年以上/主管） | $23,000~$28,000 | 含部门主管或店长 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$18,000 | The pre-tax annual salary is mostly 14 months |
+| Mid-level (3–6 years) | $19,000~$22,000 | Experienced salespeople |
+| Senior (6+ years/supervisor) | $23,000~$28,000 | Including department heads or store managers |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级售货员可晋升为部门主管、店长，或转向采购、商品陈列等专业岗位。积累经验后可管理大型店铺或区域多家门店。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+Junior sales clerks can be promoted to department supervisor, store manager, or move to specialized positions such as purchasing or product display. After gaining experience, you can manage large stores or multiple stores in various regions.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - Stable demand
 - Retail recovery
@@ -62,64 +98,66 @@ Shop sales assistants greet customers, provide product information, complete sal
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract） | 需雇主提供正式工作合同，且岗位无法由欧盟公民填补，通常需证明短缺或不可替代性。 |
+| Subclass Cuenta ajena (Work Contract) | Employers must provide a formal employment contract, and the position cannot be filled by an EU citizen; usually, proof of shortage or irreplaceability is required. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shop Sales Assistant？**
-- 喜欢与人沟通、服务顾客的人
-- 希望快速就业、门槛较低的人
-- 适应轮班和站立工作的人
+**Who is suited**
+- People who enjoy communicating and serving customers
+- Those who want quick employment and lower entry barriers
+- People who adapt to shift work and standing jobs
 
-**谁不适合学Shop Sales Assistant？**
-- 寻求高薪或快速晋升的人
-- 不喜重复性工作或体力劳动的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike repetitive or physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for sales clerks in Spanish stores?**
+A: Entry-level approx. €16,000-€18,000/year, mid-level €19,000-€22,000/year, supervisor up to €28,000/year. Salaries vary by region and shop size.
+
+**Q: Can foreigners immigrate to Spain through this occupation?**
+A: It's very difficult. This occupation is not a high-skilled position and cannot apply for an EU Blue Card. Employers are usually required to prove they cannot find EU citizens, pay relatively low wages, and have strict immigration approvals.
+
+**Q: What qualifications are required?**
+A: Usually, only a junior high school diploma is required, but a business-related FP degree can help you advance to store manager or purchasing specialist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Shop Sales Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary of a shop sales assistant in Spain?**
-答：Entry-level around €16,000-18,000/year, mid-level €19,000-22,000/year, supervisor up to €28,000/year. Salaries vary by region and store size.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult. It is not a high-skilled role and not eligible for EU Blue Card. Employers must prove shortage, and low salaries make work permits unlikely.
-
-**问：What education is required?**
-答：Usually only compulsory education, but a vocational degree in commerce can help advance to store manager or buyer roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

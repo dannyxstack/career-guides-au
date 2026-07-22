@@ -1,60 +1,96 @@
-# Clay Products Machine Operator（Clay Products Machine Operator）职业分析 · 澳大利亚
+# Clay Products Machine Operator — career analysis · Australia
 
-**职业代码：711111 – Clay Products Machine Operator。**
+**Occupation code: 711111 (ANZSCO)**
 
-Clay Products Machine Operators operate and monitor machines that produce clay bricks, tiles, pipes and other products, ensuring quality and efficiency in manufacturing.
+Clay products machine operators operate and monitor machines that produce clay bricks, tiles, pipes, and other products, ensuring product quality and production efficiency. This occupation is a technical operation role in manufacturing.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职业教育证书（Certificate III） | 1-2年 | $4,000~$15,000（公立TAFE费用较低，私立较高） |
-| 短期培训/学徒制 | 1-4年 | —（学徒期间可获得工资） |
+| Certificate III in Vocational Education | 1-2 years | $4,000~$15,000 (Public TAFE fees are lower, while private ones are higher) |
+| Short-term training/apprenticeship | 1-4 years | $0~$5,000 (Receive a salary during the apprenticeship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering - Production Technology | TAFE或注册培训机构 | 可选 | 非强制，但有助于就业 |
-| 安全工作执照（White Card） | 各州安全工作机构 | 必备 | 进入建筑工地必需 |
+| White Card (Construction Safety Induction Card) | State workplace safety authorities | Required | Mandatory for entering construction sites |
+| Certificate III in Engineering - Production Technology | TAFE or registered training organizations | Optional | Not mandatory, but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 1,500。澳洲建筑业持续发展带动粘土制品需求，但自动化可能减少部分岗位。未来五年就业人数预计保持稳定，年均约2000人。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. The ongoing development of the Australian construction industry drives demand for clay products, but automation may reduce some positions. Over the next five years, employment numbers are expected to remain stable, averaging about 2,000 people per year.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 视地区和雇主而定 |
-| 中级（3-6年） | $55,000~$65,000 | 含加班和津贴 |
-| 高级（6年以上） | $65,000~$75,000 | 主管级别可达更高 |
+| Median salary | $89,232 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Depends on region and employer |
+| Mid-level (3–6 years) | $55,000~$65,000 | Including overtime and allowances |
+| Senior (6+ years) | $65,000~$75,000 | Supervisor level can be higher |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 可从初级操作员晋升为高级操作员、生产线主管或质量检查员。部分经验丰富者可转向设备维护或生产管理岗位。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Clay product machine operators face automation compression, but AI enhances quality inspection and maintenance capabilities; need to master digital tools to adapt to changes.
+
+Can advance from operator to senior operator, production line supervisor, or quality inspector. Some experienced workers may move into equipment maintenance or production management roles.
+
+**Tasks most exposed to AI:**
+
+- Manual quality inspection (replaced by AI vision inspection)
+- Equipment status manual recording (sensor automatic collection)
+- Basic parameter settings (AI auto-optimizes formulas)
+- Simple fault diagnosis (AI predictive maintenance)
+- Production statistics and report generation (automated reporting)
+
+**Where AI augments the role:**
+
+- AI-assisted process parameter tuning to improve yield
+- Machine learning models predict equipment failures to reduce downtime
+- Augmented reality (AR)-assisted operation training and remote expert support
+- Automated production line data analysis, optimizing production scheduling
+- Smart sensor network for real-time energy consumption management
+
+**Human moat:**
+
+- Human intervention and complex problem-solving for equipment anomalies
+- Clay raw material property assessment and formula adjustment (experience-dependent)
+- Process design and small-batch custom production for new products
+- Communicate and coordinate with upstream and downstream parties to handle emergencies
+- Production safety supervision and emergency response
+
+**Skills to build:**
+
+- Basic operation and programming of industrial robots/PLC.
+- Data visualization and analysis (e.g., Power BI)
+- Fundamentals of AI/Machine Learning in Quality Control
+- Ability to operate digital twin or MES systems
+- Use of Augmented Reality (AR) maintenance tools
+- Lean production and continuous improvement methodology
+
+**Key growth areas:**
 
 - Stable demand
 - Manufacturing
@@ -63,65 +99,67 @@ Clay Products Machine Operators operate and monitor machines that produce clay b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 如雇主担保且职业在列表中，可申请，但当前该职业通常不在标准职业清单上。 |
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional) Visa） | 仅限偏远地区雇主担保，且需满足DAMA或特定地区要求。 |
+| Subclass 482 (Temporary Skill Shortage Visa) | If employer-sponsored and the occupation is on the list, it can be applied for, but currently this occupation is usually not on the standard occupation list. |
+| Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Only for regional employer sponsorship, and must meet DAMA or specific area requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Clay Products Machine Operator？**
-- 喜欢动手操作机器
-- 注重细节和安全
-- 能适应重复性体力工作
+**Who is suited**
+- Enjoys operating machines by hand
+- Detail-oriented and safety-focused
+- Able to adapt to repetitive physical work
 
-**谁不适合学Clay Products Machine Operator？**
-- 不喜欢噪音和粉尘环境
-- 寻求高薪或快速晋升者
+**Who is not suited**
+- Dislikes noisy and dusty environments.
+- Those seeking high salaries or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a clay products machine operator?**
+A: Entry-level annual salary approx. A$45,000-55,000, mid-level A$55,000-65,000, senior up to A$75,000+. Overtime and allowances can increase income.
+
+**Q: Can this occupation migrate to Australia?**
+A: Currently this occupation is not on the main skilled migration occupation list, migration opportunities are limited. May be possible through regional employer sponsorship or DAMA programs, but requirements are high.
+
+**Q: What is the career development path?**
+A: Can advance from operator to senior operator, production supervisor, or equipment maintenance technician. Further education can lead to quality control or production management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Clay Products Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a Clay Products Machine Operator?**
-答：Entry-level salary is around AUD 45,000-55,000, mid-level AUD 55,000-65,000, and senior can reach AUD 75,000+. Overtime and allowances can increase income.
-
-**问：Can this occupation lead to migration to Australia?**
-答：Currently, this occupation is not on the main skilled occupation lists, limiting migration options. Regional employer sponsorship or DAMA programs may be possible but with high barriers.
-
-**问：What is the career progression?**
-答：Operators can advance to senior operator, production supervisor, or maintenance technician. Further education can lead to quality control or production management.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

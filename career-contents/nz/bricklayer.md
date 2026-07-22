@@ -1,57 +1,93 @@
-# Bricklayer（Bricklayer）职业分析 · 新西兰
+# Bricklayer — career analysis · New Zealand
 
-**职业代码：331111 – Bricklayer。**
+**Occupation code: 331111 (ANZSCO)**
 
-Bricklayers in New Zealand lay bricks, blocks, and stone for residential and commercial buildings. This occupation is on Green List Tier 1, offering direct residence pathway, with high demand.
+New Zealand bricklayers lay bricks, blocks, and stonework mainly for residential and commercial buildings. This occupation is on the Green List Tier 1, eligible for direct residency, with high demand.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 短期课程或学徒制 | 3-4年 | —（学徒期间通常带薪，课程费用约$0-$20,000） |
+| Short-term courses or apprenticeships | 3-4 years | $0~$20,000 (Apprenticeships are usually paid, course fees range from $0 to $20,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰砌砖证书（Level 4） | 新西兰技能组织（BCITO） | 可选 | 行业认证，非强制但有助于就业 |
-| 工地安全卡（Site Safe） | Site Safe | 可选 | 基本安全培训，建议持有 |
+| New Zealand Bricklaying Certificate (Level 4) | Building and Construction Industry Training Organisation (BCITO) | Optional | Industry certification, not mandatory but helpful for employment |
+| Site Safe card | Site Safe | Optional | Basic safety training recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。随着新西兰住房短缺和基督城重建，砖工需求持续增长。预计未来5年岗位增长5%-7%，主要受建筑活动推动。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. With New Zealand's housing shortage and Christchurch rebuild, demand for bricklayers continues to grow. Expected 5%-7% job growth over the next five years, driven primarily by construction activity.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 通常学徒或初学者 |
-| 中级（3-6年） | $55,000~$75,000 | 有经验砖工 |
-| 高级（6年以上） | $75,000~$95,000 | 高级砖工或自雇 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Typically apprentice or beginner |
+| Mid-level (3–6 years) | $55,000~$75,000 | Experienced bricklayer |
+| Senior (6+ years) | $75,000~$95,000 | Advanced bricklayer or self-employed |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级砖工可晋升至高级砖工、工头或项目经理，也可自雇创业。持续学习新技能（如石材砌筑）可提升薪资。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bricklaying tasks are highly dependent on physical labor and site conditions, making them difficult for AI/automation to directly replace. However, prefabrication and robotic bricklaying technology are gradually reducing demand for entry-level positions, and future automation in construction will decrease low-skilled bricklaying jobs.
+
+Junior bricklayers can advance to senior bricklayer, foreman, or project manager, or become self-employed. Continuous learning of new skills (e.g., stone masonry) can increase salary.
+
+**Tasks most exposed to AI:**
+
+- Repetitive brick positioning and alignment (automated bricklaying robots can be programmed)
+- Mortar Mixing and Application (prefabricated parts and mechanical spraying reduce labor)
+- Basic wall elevation and verticality checks (laser measurement and AI vision replace manual measurement)
+- Material handling and stacking (autonomous mobile robots can transport bricks)
+- Laying of simple decorative patterns (replaced by CNC cutting and prefabricated pattern boards)
+
+**Where AI augments the role:**
+
+- Using AR glasses or tablets to view 3D models and construction drawings in real time
+- Using AI vision analysis tools for masonry quality inspection and correction suggestions
+- On-site layout and positioning using BIM software and laser scanners
+- Using inventory management apps to automatically track brick and mortar consumption
+- Use digital platforms to coordinate multi-trade construction sequences and schedules
+
+**Human moat:**
+
+- Handcrafted aesthetics and customization of complex curved walls, arches, and other fine masonry
+- Flexible judgment and adjustment under changing field conditions (e.g., bad weather, irregular foundations)
+- Ability to communicate directly with clients and designers to determine aesthetic and functional requirements
+- Multi-material (brick, stone, tile) comprehensive construction experience
+- Leadership responsibility for safety production and team collaboration
+
+**Skills to build:**
+
+- BIM modeling and on-site digital layout skills
+- Ability to operate automated bricklaying robots or auxiliary equipment
+- Using drones or laser scanning for construction site quality monitoring
+- Green building standards and energy-efficient masonry techniques
+- Project management and on-site coordination communication skills
+- Applying augmented reality (AR) for construction guidance
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -60,68 +96,67 @@ Bricklayers in New Zealand lay bricks, blocks, and stone for residential and com
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，无需工作满两年，满足年龄、技能和薪资要求即可申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于持Job Offer的砖工，可衔接居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，可使用绿色清单职业加分，6分制下易达标 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa, no need to work for two years, eligible upon meeting age, skill, and salary requirements |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable for bricklayers with a job offer, can lead to residence |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, can use Green List occupation for bonus points, easy to meet under the 6-point system. |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Bricklayer？**
-- 喜欢户外体力工作的人
-- 注重手工艺和细节的细心者
-- 追求新西兰移民快捷通道的技工
-
-**谁不适合学Bricklayer？**
-- 不喜体力劳动或户外工作的人
-- 无法适应高空作业或重复性动作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor physical work
+- Detail-oriented individuals who value craftsmanship and attention to detail
+- Tradesperson seeking fast-track immigration to New Zealand
+
+**Who is not suited**
+- People who dislike physical labor or outdoor work
+- Those unable to adapt to working at heights or repetitive movements.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a bricklayer in New Zealand?**
+A: Entry-level (0-3 years) annual salary approx $45,000-$55,000, mid-level (3-6 years) $55,000-$75,000, senior (6+ years) up to $75,000-$95,000. Self-employed income higher.
+
+**Q: How can a bricklayer immigrate to New Zealand?**
+A: This occupation is on the Green List Tier 1, eligible for Straight to Residence Visa, or can transition through AEWV work. Requires a Job Offer and recognized qualification.
+
+**Q: Is there a shortage of bricklayers in New Zealand?**
+A: Yes, bricklayers are in long-term shortage, especially in Auckland, Christchurch, and Wellington. The government encourages overseas skilled workers to fill the gap.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Bricklayer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for bricklayers in NZ?**
-答：Entry-level (0-3 years) earns NZD $45k-$55k, mid-level (3-6 years) $55k-$75k, senior (6+ years) $75k-$95k. Self-employed can earn more.
-
-**问：How can bricklayers migrate to NZ?**
-答：This occupation is on Green List Tier 1, eligible for Straight to Residence Visa, or via AEWV leading to residence. Requires Job Offer and recognized qualification.
-
-**问：Are bricklayers in demand in NZ?**
-答：Yes, bricklayers are in chronic shortage, especially in Auckland, Christchurch, and Wellington. The government encourages overseas skilled workers to fill gaps.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Legal Secretary（Legal Secretary）职业分析 · IT
+# Legal Secretary — career analysis · Italy
 
-**职业代码：3342 – Legal Secretary。**
+**Occupation code: 3342 (ISCO08)**
 
 Legal secretaries provide administrative support in law firms or legal departments, including document management, client communication, scheduling, and drafting legal documents.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立学校免费） |
-| 职业培训证书 | 1年 | $1,000~$3,000（私立培训机构费用） |
+| High school diploma | 12 years | $0~$0 (Free public schools.) |
+| Vocational training certificate | 1 year | $1,000~$3,000 (Private training institution fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律秘书文凭 | 私立培训机构 | 可选 | 非强制但有助于就业 |
-| 计算机技能证书 | 各类认证机构 | 可选 | 办公软件技能通常被要求 |
+| Diploma of Legal Secretary | Private training provider | Optional | Not mandatory but helpful for employment |
+| Computer Skills Certificate | Various certifying bodies | Optional | Office software skills are often required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 55,000。意大利法律秘书的就业前景稳定，随着法律服务的持续需求，预计岗位将保持稳定，但竞争激烈。数字化趋势可能改变部分工作内容。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 55,000. Employment prospects for Italian legal secretaries are stable, with continued demand for legal services, but competition is fierce. Digital trends may change some job content.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，通常为全职 |
-| 中级（3-7年） | $24,000~$32,000 | 税前年薪，视律所规模 |
-| 高级（7年以上） | $32,000~$42,000 | 税前年薪，含经验丰富者 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, typically for full-time positions |
+| Mid-level (3–7 years) | $24,000~$32,000 | Annual pre-tax salary, depending on law firm size |
+| Senior (7+ years) | $32,000~$42,000 | Annual salary before tax, including for experienced individuals |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径可从初级秘书晋升为高级秘书或办公室经理，部分可通过进一步培训成为法律助理或律师。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
+
+Career progression can advance from junior secretary to senior secretary or office manager; some may further train to become a legal assistant or lawyer.
+
+**Tasks most exposed to AI:**
+
+- Draft standardized letters and meeting minutes (AI-generated templates)
+- Schedule and manage calendars and reminders (smart scheduling tools)
+- Answer and transfer routine calls (AI voice customer service)
+- Maintain and retrieve paper/electronic files (document management system)
+- Data entry and organization (RPA and OCR automation)
+
+**Where AI augments the role:**
+
+- Responsible for complex or sensitive business communication (requiring empathy and strategy)
+- Coordinating multiple conflicting agendas and making trade-offs (interpersonal negotiation)
+- Training or supervising AI tool output quality (human-machine collaboration)
+- Handling sudden administrative crises (adaptability)
+- Manage confidential or high-level affairs (trust and confidentiality)
+
+**Human moat:**
+
+- Situations requiring empathy and nuanced communication
+- Confidentiality and high-trust working relationships
+- Unstructured problem-solving and handling unexpected situations
+- Cross-department coordination and power dynamics assessment
+
+**Skills to build:**
+
+- AI office tool usage and process optimization
+- Basic data analysis and report making
+- Project coordination and stakeholder management
+- Social media and digital content management
+- Advanced communication and writing skills
+- Ability to quickly learn new software
+
+**Key growth areas:**
 
 - Document Automation
 - Legal Tech
@@ -63,66 +98,68 @@ Legal secretaries provide administrative support in law firms or legal departmen
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 需大学学历及高薪，法律秘书通常不符合收入门槛。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Quota Work Visa） | 需雇主担保，年度配额，通常针对非欧盟工人，法律秘书职业不常见于配额列表。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 工作许可，需雇主申请，证明无合适欧盟候选人。 |
+| Subclass EU Blue Card (EU Blue Card) | Requires university degree and high salary; legal secretaries typically do not meet the income threshold. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Requires employer sponsorship, annual quotas, typically for non-EU workers; legal secretary occupation is uncommon on the quota lists. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit required, employer to apply, proving no suitable EU candidate available. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Legal Secretary？**
-- 注重细节、组织能力强的人
-- 对法律领域有兴趣但不想成为律师的人
-- 具备良好沟通和文书处理能力的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People interested in law but who do not want to become lawyers
+- People with good communication and document processing skills
 
-**谁不适合学Legal Secretary？**
-- 不擅长行政和文书工作的人
-- 寻求高薪或快速晋升的人
+**Who is not suited**
+- People not adept at administrative and clerical tasks
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of a legal secretary in Italy?**
+A: Junior legal secretary salary about 18,000-24,000 EUR/year, mid-level about 24,000-32,000 EUR/year, senior up to 42,000 EUR.
+
+**Q: Can a foreign legal secretary work in Italy?**
+A: EU citizens can move freely. Non-EU citizens need employer sponsorship, and legal secretary is not a shortage occupation, making immigration more difficult.
+
+**Q: What are the career development prospects for legal secretaries?**
+A: Can progress from junior to senior secretary or office manager, or become a legal assistant or lawyer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Legal Secretary属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a legal secretary in Italy?**
-答：Entry-level legal secretaries earn €18,000-24,000 per year, mid-level €24,000-32,000, and senior up to €42,000.
-
-**问：Can a foreign legal secretary work in Italy?**
-答：EU citizens can work freely. Non-EU citizens need employer sponsorship, and the role is not in shortage, making migration difficult.
-
-**问：What are the career prospects for a legal secretary?**
-答：Advancement to senior secretary or office manager is possible, or further study to become a paralegal or lawyer.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

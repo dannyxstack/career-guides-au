@@ -1,58 +1,94 @@
-# Data Entry Operators（Data Entry Operators）职业分析 · ES
+# Data Entry Operators — career analysis · Spain
 
-**职业代码：4301 – Data Entry Operators。**
+**Occupation code: 4301 (CNO)**
 
-Data Entry Operators input data from various sources into computer systems, ensuring accuracy and efficiency. They typically work in office environments handling large volumes of structured information.
+Data entry officers are responsible for inputting data from various sources into computer systems to ensure accuracy and efficiency. They typically work in office environments, handling large amounts of structured information.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育或FP Básico | 2年（FP Básico） | —（公立FP Básico学费低，约0-2000欧元） |
-| 高中毕业或FP Grado Medio | 1-2年（FP Grado Medio） | —（公立高中免费，FP Grado Medio学费约0-3000欧元） |
+| Secondary education or FP Básico | 2nd year (FP Básico) | $0~$2,000 (Public FP Básico offers low tuition, about 0-2000 euros) |
+| High school graduate or FP Grado Medio | 1-2 years (FP Grado Medio) | $0~$3,000 (Public high schools are free, and FP Grado Medio tuition ranges from about 0 to 3000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证书 | 西班牙教育部 | 必备 | 基本学历要求 |
-| FP Grado Medio文凭 | 西班牙教育部 | 可选 | 非必需但优先 |
+| High school graduation certificate | Spanish Ministry of Education | Required | Basic education requirements |
+| FP Grado Medio diploma | Spanish Ministry of Education | Optional | Not mandatory, but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。在西班牙，数据录入员的需求相对稳定，但随着自动化和AI技术的发展，低级录入岗位可能逐渐减少，而需要更多具备数据验证和审核技能的职位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 45,000. In Spain, the demand for data entry staff is relatively stable, but with the development of automation and AI technology, low-level entry positions may gradually decrease, and more positions with data verification and audit skills are needed.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，取决于公司规模和地区 |
-| 中级（3-7年） | $22,000~$27,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $27,000~$33,000 | 高级数据录入员或团队主管 |
+| Median salary | $21,988 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary, depends on company size and region |
+| Mid-level (3–7 years) | $22,000~$27,000 | Salary increases with experience |
+| Senior (7+ years) | $27,000~$33,000 | Senior data entry specialist or team leader |
+| average salary | $24,198 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 初级数据录入员可通过积累经验晋升为高级数据录入员或数据管理专员。进一步可转向数据分析、数据库管理等更高技能角色，需学习相关工具如Excel高级功能或SQL。
-**AI替代风险：高（★★★★½）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: very high (★★★★½).**
 
-主要增长方向：
+Data entry operators face a very high risk of automation, as data transcription, validation, and formatting tasks can be efficiently replaced by AI/OCR technology, leading to significant shrinkage in job demand.
+
+Junior data entry officers can be promoted to senior data entry officers or data management specialists through accumulated experience. Further development can be directed to higher-skilled roles such as data analysis and database management, requiring learning related tools such as advanced Excel features or SQL.
+
+**Tasks most exposed to AI:**
+
+- Transcribe data from paper documents or images into electronic systems
+- Verify data accuracy and correct errors
+- Organize and classify data according to preset formats
+- Generate standard reports and print materials
+- Simple repetitive keyboard data entry tasks.
+
+**Where AI augments the role:**
+
+- Use AI tools for data cleaning and standardization
+- Accelerate data collection via OCR and voice recognition
+- Automate data workflows using low-code/no-code platforms
+- Monitor AI data entry quality and handle anomalies
+- Design optimization plans for data entry processes
+
+**Human moat:**
+
+- Judgment to handle unstructured or ambiguous data
+- Compliance responsibilities for data security and privacy protection
+- Complex problem-solving for cross-system data integration
+- Flexible handling of special formats or handwritten text
+- Communicate with business departments to understand data needs
+
+**Skills to build:**
+
+- Python scripting and basic programming
+- Advanced Excel functions and Macros/VBA
+- RPA tools (e.g., UiPath, Power Automate)
+- data cleaning and visualisation tools (e.g., OpenRefine, Tableau)
+- Master AI OCR and document processing APIs (e.g., Tesseract, AWS Textract)
+- Basic database management (SQL queries)
+
+**Key growth areas:**
 
 - Data Verification
 - Automation
@@ -61,67 +97,66 @@ Data Entry Operators input data from various sources into computer systems, ensu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer-sponsored)） | 通过雇主担保获得工作居留，适用于有西班牙公司雇佣的情况。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学以上学历或至少5年相关经验，薪资达到门槛（2025年约40,000欧元），数据录入员通常难以满足薪资要求。 |
+| Subclass Cuenta ajena (Work Permit (Employer-sponsored)) | Work residency obtained through employer sponsorship applies when employed by a Spanish company. |
+| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or at least 5 years of relevant experience is required, with salary meeting the threshold (around €40,000 in 2025). Data entry operators often struggle to meet the salary requirement. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Data Entry Operators？**
-- 注重细节、耐心且能长时间专注的人
-- 具备基本计算机技能并愿意学习数据录入工具的人
-- 寻求低门槛入门级办公室工作的人
-
-**谁不适合学Data Entry Operators？**
-- 厌恶重复性工作的人
-- 追求高薪和快速发展的人
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and able to stay focused for long periods
+- Individuals with basic computer skills who are willing to learn data entry tools
+- People seeking entry-level office jobs with low barriers
+
+**Who is not suited**
+- People who dislike repetitive work
+- Those pursuing high salary and rapid development
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a data entry officer?**
+A: In Spain, data entry officers typically earn between 18,000 and 33,000 euros before tax, with entry-level salaries around 18,000-22,000 euros and senior salaries up to 33,000 euros.
+
+**Q: Can foreign data entry officers immigrate to Spain through the EU Blue Card?**
+A: It is usually more difficult because the EU Blue Card requires a high salary threshold (about 40,000 euros in 2025), while data entry staff generally earn less than this level. A more common path is to obtain a work contract with a Spanish company and apply for work residency (Cuenta ajena).
+
+**Q: What educational qualifications are required to become a data entry officer?**
+A: A high school diploma is usually required, but employers may prefer candidates who have completed FP Grado Medio or related training.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | very high (★★★★½) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★½） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Data Entry Operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a data entry operator?**
-答：The gross annual salary in Spain typically ranges from €18,000 to €33,000, with junior positions earning €18,000-€22,000 and senior roles up to €33,000.
-
-**问：Can foreign data entry operators immigrate to Spain via the EU Blue Card?**
-答：It's difficult because the EU Blue Card requires a salary threshold (approx. €40,000 in 2025), which data entry operators typically don't meet. The common path is securing a job offer and applying for a work permit (Cuenta ajena).
-
-**问：What education is required to become a data entry operator?**
-答：Generally, a high school diploma is required, but employers may prefer candidates with a FP Grado Medio or relevant training.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

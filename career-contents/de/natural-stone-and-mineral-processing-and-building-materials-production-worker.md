@@ -1,60 +1,94 @@
-# Natural Stone And Mineral Processing And Building Materials Production Worker（Natural Stone And Mineral Processing And Building Materials Production Worker）职业分析 · DE
+# Natural Stone And Mineral Processing And Building Materials Production Worker — career analysis · Germany
 
-**职业代码：2120 – Natural Stone And Mineral Processing And Building Materials Production Worker。**
+**Occupation code: 2120 (KldB)**
 
-Workers in this field process natural stone and minerals through crushing, screening, grinding, and produce building materials such as concrete, bricks, and tiles, operating relevant machinery.
+Engaged in crushing, screening, grinding of natural stone and minerals, as well as production and processing of construction materials like concrete and bricks, operating related machinery.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年 | —（培训期间有津贴） |
-| 短期培训/入门 | 6-12个月 | $2,000~$5,000（部分企业提供内部培训） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$0 (Allowance during training) |
+| Short-term training/entry-level. | 6–12 months | $2,000~$5,000 (Some companies provide internal training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 德国职业培训证书（Ausbildungsabschluss） | 德国工商会（IHK）或手工业协会（HWK） | 必备 | 作为建筑材料技术员（Fachkraft für Baustofftechnik）完成双元制培训 |
-| 相关工作经验 | 雇主 | 可选 | 海外经验需评估，可能需部分培训 |
+| German vocational training certificate (Ausbildungsabschluss) | German Chamber of Commerce (IHK) or Chamber of Crafts (HWK) | Required | Complete dual vocational training as a building materials technician (Fachkraft für Baustofftechnik) |
+| Relevant work experience | Employer | Optional | Overseas experience needs to be assessed, may require some training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。德国建筑业稳健发展，建材需求持续，但行业受经济周期影响。自动化程度提升，但熟练操作工仍紧缺。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 120,000. Germany's construction industry is developing steadily with sustained demand for building materials, but the sector is affected by economic cycles. Automation is increasing, but skilled operators remain in short supply.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，取决于地区和公司 |
-| 中级（3-7年） | $35,000~$45,000 | 含技能提升后 |
-| 高级（7年以上） | $45,000~$55,000 | 含工长或主管津贴 |
+| Median salary | $43,200 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Pre-tax annual salary, depending on location and company |
+| Mid-level (3–7 years) | $35,000~$45,000 | Including post-skills upgrade |
+| Senior (7+ years) | $45,000~$55,000 | Including foreman or supervisor allowance |
+| average salary | $45,312 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级操作工晋升为班组长、生产主管，或通过进修成为技术员、工长（Meister），也可转向质量控制或设备维护。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Natural stone mineral processing and building material production workers face high automation risk, with AI and robots massively replacing repetitive physical tasks such as crushing, screening, and mixing, leading to significant contraction of entry-level positions.
+
+Can progress from junior operator to team leader, production supervisor, or through further training to technician, master (Meister), or switch to quality control or equipment maintenance.
+
+**Tasks most exposed to AI:**
+
+- Operation and monitoring of crushers and screens (replaced by intelligent control systems)
+- Manual weighing and mixing of concrete proportions (replaced by automated batching systems)
+- Shaping and cutting of brick bodies (automated by robots).
+- Mineral conveyor belt inspection and troubleshooting (replaced by sensor and AI predictive maintenance)
+- Simple quality visual inspection (replaced by machine vision systems)
+
+**Where AI augments the role:**
+
+- Optimize production parameters (e.g., particle size, moisture content) through AI to improve output quality
+- Uses digital twins to simulate production processes and identify bottlenecks in advance
+- Receive equipment maintenance instructions via mobile devices to improve repair efficiency
+- AI-driven energy management reduces operational costs
+
+**Human moat:**
+
+- Diagnosis and manual repair of complex equipment faults
+- Multi-process coordination and exception handling (e.g., blockages, overloads)
+- On-site safety supervision and emergency response
+- Technical communication with customers and suppliers, and customized solution design
+
+**Skills to build:**
+
+- PLC programming and automation system operation
+- Industrial robot maintenance and debugging
+- Data analysis and production optimization (e.g., basic Python)
+- Sensor and IoT device maintenance
+- Work health and safety management certification
+- Basic CAD/CAE software skills (for mold design)
+
+**Key growth areas:**
 
 - Construction
 - Automation
@@ -63,69 +97,68 @@ Workers in this field process natural stone and minerals through crushing, scree
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于持有德国认可的职业培训资质者，需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card） | 2026年实施，基于积分制，允许在德寻找工作。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德6个月找工，需证明经济能力。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to those with recognized vocational training qualifications in Germany, requires employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card) | Implemented in 2026, points-based, allows job seeking in Germany. |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek work, must prove financial means. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Natural Stone And Mineral Processing And Building Materials Production Worker？**
-- 喜欢动手操作和机械工作的人
-- 愿意接受职业培训并从事体力劳动
-- 对建筑材料和制造流程有兴趣
-
-**谁不适合学Natural Stone And Mineral Processing And Building Materials Production Worker？**
-- 不喜体力劳动和粉尘环境者
-- 寻求高薪或快速晋升者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and mechanical work
+- Willing to undergo vocational training and engage in manual labor.
+- Interest in construction materials and manufacturing processes
+
+**Who is not suited**
+- Those who dislike physical labor and dusty environments
+- Those seeking high salaries or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry level approx. 28,000-35,000 EUR/year, mid to senior level can reach 35,000-55,000 EUR/year, depending on region, company size and experience.
+
+**Q: How to enter this occupation through skilled migration?**
+A: Must complete a recognized vocational training program (dual system) in Germany or pass qualification recognition (Anerkennung), then have an employer sponsor a skilled migration visa (Section 18f AufenthG).
+
+**Q: Is there room for career advancement in this occupation?**
+A: Yes. Can advance to foreman (Meister), production supervisor, or further study to become technician, engineer, or transition to quality or safety management positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Natural Stone And Mineral Processing And Building Materials Production Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level approx. €28,000-35,000/year, mid to senior €35,000-55,000/year, depending on region, company size, and experience.
-
-**问：How to migrate for this occupation?**
-答：You need a German recognized vocational qualification (dual training) or have your foreign qualification recognized via Anerkennung, then an employer can sponsor a skilled worker visa (§18f AufenthG).
-
-**问：Are there career advancement opportunities?**
-答：Yes. You can advance to master craftsman (Meister), production supervisor, or further study to become a technician or engineer, or move into quality or safety management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

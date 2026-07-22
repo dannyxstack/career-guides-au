@@ -1,59 +1,94 @@
-# Water Resources Engineer（Water Resources Engineer）职业分析 · 新西兰
+# Water Resources Engineer — career analysis · New Zealand
 
-**职业代码：233911 – Water Resources Engineer。**
+**Occupation code: 233911 (ANZSCO)**
 
-Water Resources Engineers plan, design, and manage water supply, drainage, flood control, and irrigation systems. In New Zealand, this profession is on the Green List due to climate change and infrastructure needs, eligible for direct residence.
+Water resources engineers plan, design, and manage water supply, drainage, flood control, and irrigation systems. In New Zealand, this occupation is on the Green List for immigration due to climate change and infrastructure needs, allowing direct residence applications.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（工程学学士） | 4年 | $25,000~$45,000（新西兰大学学费，国际生约NZD25,000-45,000/年） |
-| 硕士（水资源工程） | 1-2年 | $30,000~$50,000（国际生学费，部分课程含研究项目） |
+| Bachelor's degree (Bachelor of Engineering) | 4 years | $25,000~$45,000 (New Zealand university tuition: international students about NZD 25,000-45,000/year) |
+| Master's (Water Resources Engineering) | 1-2 years | $30,000~$50,000 (International student tuition, some courses include research projects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册工程师（新西兰专业工程师） | Engineering New Zealand | 必备 | 需通过评估，是从事工程咨询或公共项目的必要条件 |
-| 雅思总分6.5（技术移民） | 新西兰移民局 | 必备 | 技术移民或认证雇主工签的最低英语要求 |
-| 华盛顿协议认证工程学位 | 所属大学 | 可选 | 如学位获得华盛顿协议认证，可简化注册流程 |
+| Chartered Professional Engineer (New Zealand Professional Engineer) | Engineering New Zealand | Required | Required for assessment; necessary for engineering consulting or public projects |
+| IELTS overall 6.5 (skilled migration) | New Zealand Immigration Service | Required | Minimum English requirement for skilled migration or accredited employer work visa |
+| Washington Accord accredited engineering degree | Affiliated university | Optional | If degree is accredited under Washington Accord, registration process can be simplified |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 1,200。新西兰面临水资源管理和防洪挑战，政府对水利基础设施持续投资。预计未来5年就业稳定增长，尤其在坎特伯雷和奥克兰地区。由于本地人才短缺，雇主积极招聘海外工程师。
+**Job demand: very high (★★★★½).** National workforce approx. 1,200. New Zealand faces water management and flood control challenges, with ongoing government investment in water infrastructure. Steady employment growth expected over the next 5 years, especially in Canterbury and Auckland. Due to local talent shortages, employers actively recruit overseas engineers.
 
-**竞争度：中低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 通常为毕业生或助理工程师 |
-| 中级（3-7年） | $85,000~$110,000 | 拥有注册工程师资格后薪资提升 |
-| 高级（7年以上） | $120,000~$150,000 | 项目经理或技术负责人，可超NZD150,000 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $65,000~$80,000 | Typically for graduates or assistant engineers |
+| Mid-level (3–7 years) | $85,000~$110,000 | Salary increase after obtaining registered engineer qualification |
+| Senior (7+ years) | $120,000~$150,000 | Project manager or technical lead, can exceed NZD150,000 |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★½）。** 初始职位为助理工程师或技术员，积累经验后可晋升为高级工程师、项目经理、技术主管，甚至进入管理层（如水务局技术总监）。也可转向咨询或研究领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will amplify the value of water resources engineers, not replace them. With machine learning for precise hydrological forecasting, optimized water allocation, and automated design, demand for this occupation grows with climate change.
+
+Initial positions as assistant engineer or technician; with experience, can advance to senior engineer, project manager, technical supervisor, or even management (e.g., water authority technical director). Can also transition to consulting or research fields.
+
+**Tasks most exposed to AI:**
+
+- Routine hydrological data collation and preliminary analysis
+- Repetitive calculations in standardized water facility design
+- Automatic recording and reporting of regular water quality monitoring data
+- Parameter tuning of basic flood models
+
+**Where AI augments the role:**
+
+- Use AI for high-precision flood and drought prediction
+- Optimising water supply network efficiency through digital twins
+- Real-time scheduling of irrigation systems based on machine learning
+- Automated review and compliance check of hydraulic engineering drawings
+- Using natural language processing to quickly interpret latest water regulations
+
+**Human moat:**
+
+- Innovative design and decision-making for complex water systems
+- Communicate and coordinate with multiple stakeholders such as government and community
+- Develop emergency response plans for extreme climate events
+- Environmental ethics and water resource sustainability trade-offs
+- Safety and quality control in on-site engineering implementation
+
+**Skills to build:**
+
+- Python programming and hydrological data analysis libraries (e.g., Pandas, NumPy).
+- Machine learning frameworks (TensorFlow, PyTorch) applied to hydrological modeling
+- Geographic Information Systems (GIS) and remote sensing analysis
+- Digital twin platforms (e.g., Autodesk InfraWorks)
+- Cross-cutting knowledge of AI ethics and water regulations
+- Interdisciplinary collaboration and systems thinking
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +97,67 @@ Water Resources Engineers plan, design, and manage water supply, drainage, flood
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 绿色清单一级职业，符合条件直接申请居留，无工作年限要求 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民6分制，可通过学历、经验或注册获得分数，年薪需达中位数以上 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如果未达绿名单要求，可先持此签证工作，后转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Green List Tier 1 occupation, eligible for direct residence application with no work experience requirement |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration 6-point system; points can be earned through qualifications, experience, or registration; salary must be above the median. |
+| Subclass AEWV (Accredited Employer Work Visa) | If you do not meet the Green List requirements, you can first work on this visa and then transition to residence. |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Water Resources Engineer？**
-- 具备土木或环境工程背景，对水资源管理有热情者
-- 希望快速获得新西兰永久居留权的技术人才
-- 愿意在偏远地区如坎特伯雷工作以获取更快移民机会
-
-**谁不适合学Water Resources Engineer？**
-- 对频繁户外工作（如实地考察、现场监督）感到不适者
-- 不愿接受新西兰工程注册（CPEng）评估流程者
+**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with a civil or environmental engineering background and passion for water resource management
+- Skilled professionals seeking fast-track New Zealand permanent residence
+- Willing to work in remote areas like Canterbury to expedite immigration opportunities
+
+**Who is not suited**
+- Those uncomfortable with frequent outdoor work (e.g., site visits, field supervision)
+- Those unwilling to undergo New Zealand engineering registration (CPEng) assessment process
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of water resources engineers in New Zealand?**
+A: Salary ranges from entry-level NZD 65,000 to senior NZD 150,000+ depending on experience and qualifications. Registered engineers typically earn higher
+
+**Q: How can water resources engineers immigrate to New Zealand via skilled migration?**
+A: This occupation is on Tier 1 of the Green List, can directly apply for Straight to Residence visa. Also can use SMC 6-point system, requires engineering degree, work experience, and registration, with salary above median.
+
+**Q: What qualifications are needed to work as a water resources engineer in New Zealand?**
+A: Typically requires a bachelor's degree in engineering (preferably Washington Accord accredited) and registration as a professional engineer (CPEng) through Engineering New Zealand. International qualifications require assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | very high (★★★★½) |
+| Competition | low (★½☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中低（★½☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 好（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★★） |
-| PR难度 | 低（★☆☆☆☆） |
-
-Water Resources Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Water Resources Engineer in New Zealand?**
-答：Annual salary ranges from NZD65,000 for junior to over NZD150,000 for senior roles. Registered engineers typically earn more.
-
-**问：How can a Water Resources Engineer immigrate to New Zealand through skilled migration?**
-答：This occupation is on Green List Tier 1, eligible for Straight to Residence visa. Alternatively, under SMC 6-point system, require engineering degree, work experience, registration, and salary above median.
-
-**问：What qualifications are required to work as a Water Resources Engineer in New Zealand?**
-答：Typically require a bachelor's degree in engineering (preferably Washington Accord accredited) and registration as a Chartered Professional Engineer (CPEng) with Engineering New Zealand. International qualifications need assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

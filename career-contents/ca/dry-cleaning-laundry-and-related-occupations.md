@@ -1,59 +1,91 @@
-# Dry cleaning, laundry and related occupations（Dry cleaning, laundry and related occupations）职业分析 · 加拿大
+# Dry cleaning, laundry and related occupations — career analysis · Canada
 
-**职业代码：65320 – Dry cleaning, laundry and related occupations。**
+**Occupation code: 65320 (NOC)**
 
-Operate dry cleaning and laundry machines, handle and finish garments and linens, in commercial laundries, dry cleaners, and self-service facilities.
+Responsible for washing, ironing, and handling clothing, linens, and other textiles; includes operators of dry cleaners, laundries, and self-service laundromats.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（2/10）（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 不适用 | —（通常仅需高中文凭或同等学历） |
-| 在职培训 | 几周到几个月 | —（雇主提供在职培训，无直接学费） |
+| High school diploma | Not applicable | $0~$0 (Typically only requires a high school diploma or equivalent) |
+| On-the-job training | A few weeks to a few months | $0~$1,000 (Employer provides on-the-job training with no direct tuition fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无要求（1/10）（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制认证 | 不适用 | 可选 | 该职业通常不需要认证或执照 |
+| No mandatory certification | Not applicable | Optional | This occupation typically does not require certification or licensing |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（5/10）（★★½☆☆）。** 全国从业人数约 35,000。预计该职业在加拿大的就业前景中等，受人口增长和商业需求推动，但自动化可能限制岗位增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 35,000. Employment prospects in Canada are moderate for this occupation, driven by population growth and business demand, but automation may limit job growth.
 
-**竞争度：低（3/10）（★½☆☆☆）。**
-**工作强度：较高（7/10）（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 时薪约13-16加元 |
-| 中级（3-6年） | $32,000~$40,000 | 时薪约16-20加元 |
-| 高级（6年以上或主管） | $38,000~$48,000 | 主管或高级技术员时薪约19-24加元 |
+| Median salary | $40,560 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $26,000~$32,000 | Hourly wage approximately CAD 13-16 |
+| Mid-level (3–6 years) | $32,000~$40,000 | Hourly wage approximately 16-20 Canadian dollars |
+| Senior (6+ years or supervisory) | $38,000~$48,000 | Supervisor or senior technician: hourly wage approximately CAD 19-24 |
+| average salary | $41,600 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：偏低（4/10）（★★☆☆☆）。** 通常从入门级洗衣工做起，积累经验后可晋升为洗衣主管或经理，但职业晋升空间有限。
-**AI替代风险：中等（5/10）（★★½☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Dry cleaners face high automation risk, especially in centralized dry-cleaning plants, but in-store manual services remain partially irreplaceable. Entry-level positions will be significantly reduced by self-service equipment and AI scheduling systems.
+
+Usually starts as an entry-level laundry worker, then can advance to laundry supervisor or manager after gaining experience, but career advancement is limited.
+
+**Tasks most exposed to AI:**
+
+- Use an AI vision system to automatically identify fabric types and stain types
+- Automatic dry-cleaning machines follow preset procedures to complete the cleaning process.
+- Self-service collection cabinet with AI sorting for order processing
+- AI generates washing labels and care instructions, replacing manual labeling
+
+**Where AI augments the role:**
+
+- AI fault diagnosis system helps quickly identify equipment issues
+- Intelligent scheduling system optimizes order sequencing and machine load
+- AR/VR-assisted training systems reduce learning costs for newcomers
+
+**Human moat:**
+
+- Manual techniques for handling high-value, specialty fabrics (e.g., gowns, leather)
+- Ability to communicate complex care needs face-to-face with clients
+- On-site emergency repair of sudden equipment failures
+- Fine manual stain removal and restoration (e.g., oil stains, blood stains)
+
+**Skills to build:**
+
+- Operate and maintain automated dry cleaning equipment
+- Basic programming and PLC troubleshooting
+- AI system interface operation and data analysis
+- Advanced fabric care and hand restoration techniques
+- Customer service and communication skills
+- Knowledge of environmental and safety management.
+
+**Key growth areas:**
 
 - Automation
 - Retail Laundry
@@ -62,67 +94,66 @@ Operate dry cleaning and laundry machines, handle and finish garments and linens
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（2/10）（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment (LMIA)） | 雇主需证明无法找到本地员工，方可申请LMIA支持工签 |
-| Subclass PNP（Provincial Nominee Program (PNP)） | 个别省提名项目可能涵盖该职业，但机会有限 |
+| Subclass LMIA (Labour Market Impact Assessment (LMIA)) | Employers must demonstrate inability to find local workers before applying for LMIA to support work visas. |
+| Subclass PNP (Provincial Nominee Program (PNP)) | Some provincial nominee programs may cover this occupation, but opportunities are limited |
 
-**PR难度：高（8/10）（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dry cleaning, laundry and related occupations？**
-- 勤快、细心、能适应站立工作和重复性劳动
-- 愿意从事无需高学历的蓝领工作
-
-**谁不适合学Dry cleaning, laundry and related occupations？**
-- 希望通过技术移民快速获得加拿大身份的人
-- 不喜欢化学气味或潮湿环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Hardworking, meticulous, able to handle standing work and repetitive tasks
+- Those willing to work in blue-collar jobs that do not require higher education
+
+**Who is not suited**
+- People who want to quickly obtain Canadian status through skilled migration
+- People who dislike chemical odors or humid environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for dry cleaners?**
+A: Junior approx CAD $13-16/hour, annual salary CAD $26,000-32,000; with experience or as supervisor, up to CAD $19-24/hour.
+
+**Q: Can dry cleaners immigrate to Canada through skilled migration?**
+A: This occupation typically does not meet the requirements for skilled migration (Express Entry), and can only be pursued through an LMIA work visa or a few PNP programs, making it quite difficult.
+
+**Q: What advancement opportunities are there in the dry cleaning industry?**
+A: Can advance from laundry worker to supervisor or store manager, but senior positions are limited; may also start own laundry business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（2/10）（★☆☆☆☆） |
-| 学习难度 | 简单（2/10）（★☆☆☆☆） |
-| 考证难度 | 无要求（1/10）（½☆☆☆☆） |
-| 职位需求量 | 中等（5/10）（★★½☆☆） |
-| 竞争度 | 低（3/10）（★½☆☆☆） |
-| 收入水平 | 低（2/10）（★☆☆☆☆） |
-| 工作强度 | 较高（7/10）（★★★½☆） |
-| 发展前景 | 偏低（4/10）（★★☆☆☆） |
-| AI替代风险 | 中等（5/10）（★★½☆☆） |
-| PR友好度 | 低（2/10）（★☆☆☆☆） |
-| PR难度 | 高（8/10）（★★★★☆） |
-
-Dry cleaning, laundry and related occupations为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for dry cleaning workers?**
-答：Entry-level hourly wage is about CAD 13-16, annual salary CAD 26,000-32,000; experienced or supervisors can earn CAD 19-24 per hour.
-
-**问：Can dry cleaning workers immigrate to Canada through skilled migration?**
-答：This occupation usually does not qualify for Express Entry; only via LMIA work permit or limited PNP streams, which is difficult.
-
-**问：What career advancement opportunities exist in dry cleaning?**
-答：You can advance from laundry worker to supervisor or store manager, but senior roles are limited; self-employment is also an option.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

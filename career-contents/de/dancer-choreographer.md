@@ -1,60 +1,96 @@
-# Dancer / Choreographer（Dancer / Choreographer）职业分析 · DE
+# Dancer / Choreographer — career analysis · Germany
 
-**职业代码：9422 – Dancer / Choreographer。**
+**Occupation code: 9422 (KldB)**
 
-Dancers and choreographers perform or create dance routines in theaters, dance companies, TV, and film. They require high-level dance skills and artistic expression, typically after long-term professional training.
+Dancers and choreographers perform or create works in theatres, dance companies, television, and film. They require high-level dance skills and artistic expression, typically through long-term professional training.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业舞蹈培训 | 3-4年（全时制） | —（公立舞蹈学校通常免费或低学费，私立学校费用较高） |
-| 舞蹈学士学位 | 3-4年（全日制） | —（德国公立大学基本免学费，仅收学期杂费） |
+| Professional Dance Training | 3-4 years (full-time equivalent) | $0~$15,000 (Public dance schools are usually free or low-cost, while private schools have higher fees) |
+| Bachelor's degree in dance | 3-4 years (full-time) | $0~$3,000 (German public universities are essentially tuition-free, only charging semester fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 舞蹈专业文凭/学位 | 德国公立或私立舞蹈学院 | 必备 | 专业舞蹈教育是入行门槛 |
-| 资质认证（Anerkennung） | 行业协会或商会 | 可选 | 非强制，但有助于职业发展 |
+| Diploma/degree in dance | German public or private dance academies | Required | Professional dance education is the entry requirement |
+| Qualification recognition (Anerkennung) | Industry association or chamber of commerce | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。德国舞蹈行业就业竞争激烈，职位多集中在自由职业和项目制工作。文化预算有限，但现场演出和娱乐产业需求稳定。兼职和短期合同常见。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. Germany's dance industry is highly competitive, with most positions in freelance and project-based work. Cultural budgets are limited, but demand is stable for live performances and entertainment. Part-time and short-term contracts are common.
 
-**竞争度：高（★★★★½）。**
-**工作强度：高（★★★½☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$28,000 | 自由职业或兼职为主，收入不稳定 |
-| 中级（3-7年） | $28,000~$40,000 | 固定剧团或项目制工作 |
-| 高级（7年以上） | $40,000~$60,000 | 知名舞团首席或编舞 |
+| Median salary | $53,940 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $18,000~$28,000 | Primarily freelance or part-time work with unstable income |
+| Mid-level (3–7 years) | $28,000~$40,000 | Fixed theatre company or project-based work |
+| Senior (7+ years) | $40,000~$60,000 | Principal dancer or choreographer in renowned dance company |
+| average salary | $161,364 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 舞者可通过积累经验晋升为首席舞者或编舞，编舞可进一步成为艺术总监。部分舞者转向舞蹈教学或开办舞蹈学校。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed effects on dancers/choreographers: generative AI can assist in choreographic creativity and motion preview, but physical performance and emotional transmission are hard to replace; entry-level competition intensifies due to AI tool proliferation, but demand for high-end creativity and live performance remains stable.
+
+Dancers can advance to principal dancer or choreographer through experience; choreographers can further become artistic directors. Some dancers transition to teaching or opening dance schools.
+
+**Tasks most exposed to AI:**
+
+- Basic choreography movement combinations and sequence generation
+- Repetitive demonstrations and corrections in dance teaching
+- Performance lighting/sound cue programming
+- Simple editing and special effects addition for dance videos
+- Planning and launching social media dance challenges
+
+**Where AI augments the role:**
+
+- Using AI to generate dance concept sketches and movement exploration
+- Optimize choreography emotional expression using AI analysis of audience feedback
+- Improve movement accuracy through real-time AI tracking of body posture
+- Use AI tools to quickly create performance previews and promotional materials.
+- Using AI to match choreography rhythms from vast music libraries
+
+**Human moat:**
+
+- Improv responses and emotional delivery in live performances
+- Unique creativity that blends cultural background and personal experience.
+- Non-verbal collaborative coordination with directors and dancers
+- Body texture and expressiveness built through long training
+- Interpersonal observation and motivation in teaching and mentoring
+
+**Skills to build:**
+
+- AI-assisted choreography tools (e.g., ChoreoAI, SyncVR)
+- Basic video editing and visual effects software (e.g., DaVinci Resolve)
+- Social media content planning and data analysis
+- Project Management and Digital Marketing Fundamentals
+- Cross-media collaboration skills (e.g., film, game motion capture)
+- Body data tracking and biomechanics fundamentals
+
+**Key growth areas:**
 
 - Freelance
 - Contemporary
@@ -63,66 +99,68 @@ Dancers and choreographers perform or create dance routines in theaters, dance c
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 不适用，舞蹈专业通常不满足高薪要求 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 仅当有德国认可的舞蹈学位且被雇主担保时可能 |
-| Subclass Freelancer（Freelance Visa） | 自雇舞者可申请自由职业居留，需证明有稳定项目和收入 |
+| Subclass EU Blue Card (EU Blue Card) | Not applicable; dance majors typically do not meet the high salary requirement |
+| Subclass Skilled Worker (Skilled Worker Visa) | Only possible with a German-recognized dance degree and employer sponsorship |
+| Subclass Freelancer (Freelance Visa) | Self-employed dancers can apply for a freelance residency visa, requiring proof of stable projects and income. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Dancer / Choreographer？**
-- 热爱舞蹈表演并愿意接受高强度训练
-- 适应自由职业和不稳定收入模式
-- 有艺术创新精神和合作能力
+**Who is suited**
+- Passionate about dance performance and willing to undergo intensive training
+- Adapting to freelance and unstable income patterns
+- Have artistic innovation spirit and collaboration ability
 
-**谁不适合学Dancer / Choreographer？**
-- 追求稳定收入和长期合同
-- 不适应频繁移动和项目性工作
+**Who is not suited**
+- Seeking stable income and long-term contracts
+- Not suited to frequent relocation and project-based work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of a German dancer?**
+A: Income varies widely for dancers in Germany; with a full-time contract, the average annual salary is about €25,000–40,000, but many dancers are freelancers with lower and less stable income.
+
+**Q: Can third-country dancers immigrate to Germany via a Blue Card?**
+A: The Blue Card requires an annual salary of at least about €43,000 (2024), which dancers typically do not meet, so it is not applicable. Consider a freelance visa, but you need to prove ongoing projects and income.
+
+**Q: What are the prospects for the dance industry in Germany?**
+A: Competition is intense, with opportunities mainly concentrated in large cities like Berlin and Hamburg. Government cultural budgets are limited, but live performance and entertainment industries provide some roles. Freelancing is common.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★½） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Dancer / Choreographer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for dancers in Germany?**
-答：Salaries vary widely; full-time contracts average 25,000-40,000 EUR, but many dancers are freelancers with lower and unstable income.
-
-**问：Can third-country dancers immigrate via the EU Blue Card?**
-答：Blue Card requires a minimum salary of around 43,000 EUR (2024), which dancers rarely meet. Freelance visa is an alternative, requiring proof of ongoing projects and income.
-
-**问：What is the job outlook for dancers in Germany?**
-答：Highly competitive, opportunities mainly in Berlin, Hamburg, etc. Limited public funding but live performance and entertainment sectors provide some positions. Freelancing is common.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

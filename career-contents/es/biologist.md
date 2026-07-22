@@ -1,59 +1,95 @@
-# Biologist（Biologist）职业分析 · ES
+# Biologist — career analysis · Spain
 
-**职业代码：2421 – Biologist。**
+**Occupation code: 2421 (CNO)**
 
-Biologists study living organisms and their relationships with the environment, including botany, zoology, and ecology. They work in research institutes, universities, environmental agencies, or biotech companies.
+Biologists study organisms and their relationship with the environment, including fields such as botany, zoology, and ecology. You can work in research institutions, universities, environmental protection departments, or biotechnology companies.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado） | 4年 | $1,000~$3,000（公立大学学费，欧盟学生较低） |
-| 硕士（Máster） | 1-2年 | $1,500~$5,000（研究型硕士，有助于攻读博士） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public university tuition fees are lower for EU students) |
+| Máster | 1-2 years | $1,500~$5,000 (A research-oriented master's degree helps with pursuing a doctorate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物学本科学位（Grado en Biología） | 西班牙大学 | 必备 | 必备 |
-| 博士（Doctorado） | 西班牙大学 | 可选 | 通常要求博士学位才能从事研究 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 外国学位需认证 |
+| Bachelor's degree in Biology (Grado en Biología) | Spanish University | Required | Essential |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Foreign degrees must be certified |
+| Doctorado | Spanish University | Optional | A doctoral degree is usually required to conduct research |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙生物学家就业前景稳定，受公共研发投入和环保政策驱动。但岗位竞争激烈，博士后和临时合同常见。长期雇佣机会主要在制药、农业生物技术和环境咨询领域。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. The employment prospects for biologists in Spain are stable, driven by public R&D investment and environmental policies. However, competition for positions is fierce, and postdoctoral fellows and temporary contracts are common. Long-term employment opportunities mainly lie in pharmaceuticals, agricultural biotechnology, and environmental consulting.
 
-**竞争度：激烈（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（3-7年） | $30,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$55,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $30,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$55,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业发展路径：研究助理→博士研究员→项目负责人→首席科学家。也可转向生物技术产业、科学传播或管理岗位。学术晋升需发表论文和争取项目资金。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Biologists' work is mixed with AI: tasks like data analysis and literature reviews will be automated, but jobs that rely on physical effort and creativity, such as experimental design and ecological observation, remain safe.
+
+Career path: Research Assistant→ PhD Researcher→ Project Leader→ Chief Scientist. They can also transition to biotechnology industries, science communication, or management positions. Academic promotion requires publishing papers and securing project funding.
+
+**Tasks most exposed to AI:**
+
+- Literature Review and Meta-Analysis (AI Automatic Summarization)
+- Routine genome sequence alignment and annotation
+- Automatic collection of ecological data and preliminary statistical analysis
+- Classification of experimental samples and image recognition
+- Data visualization and template generation in report writing
+
+**Where AI augments the role:**
+
+- Large-scale multi-omics data integration analysis (AI model)
+- Drug virtual screening and molecular docking simulation
+- Ecological Model Construction and Prediction (Machine Learning)
+- AI-assisted generation and hypothesis testing of research ideas
+- Automated Experimental Design and Optimization (Active Learning)
+
+**Human moat:**
+
+- Interdisciplinary problem discovery and experimental design
+- Field sampling and adaptability to complex environments
+- Assessment of research ethics and compliance in animal experiments
+- Original theoretical construction of cutting-edge scientific concepts
+- Leadership of research teams and project competence
+
+**Skills to build:**
+
+- Python/R programming and data analysis.
+- Machine learning (especially bioinformatics tools)
+- AI-Assisted Experimental Design (such as Optuna)
+- Bioinformatics (BLAST, Galaxy, etc.)
+- Research project management and collaboration tools
+- Scientific communication and public science popularization
+
+**Key growth areas:**
 
 - Research & Development
 - Biotechnology
@@ -62,64 +98,63 @@ Biologists study living organisms and their relationships with the environment, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需本科以上学历和劳动合同，年薪门槛约40000欧元。 |
-| Subclass Cuenta ajena（Work Permit (employed)） | 受雇工作居留，需公司担保，适合有西班牙雇主的研究或企业岗位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a bachelor's degree or above and a labor contract, with an annual salary threshold of about 40,000 euros. |
+| Subclass Cuenta ajena (Work Permit (employed)) | Employed work residence requires company sponsorship, suitable for research or corporate positions with Spanish employers. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biologist？**
-- 对生命科学有浓厚兴趣的人
-- 喜欢实验室和野外工作
-- 有志于学术研究或生物技术产业
-
-**谁不适合学Biologist？**
-- 偏好稳定高薪工作
-- 不喜欢学术竞争和基金申请
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in life sciences
+- Enjoys lab and fieldwork
+- Aspiring to academic research or the biotechnology industry
+
+**Who is not suited**
+- Prefers stable, high-paying jobs
+- Dislikes academic competition and funding applications
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of biologists in Spain?**
+A: Junior researchers earn about 24,000-30,000 euros annually, while senior researchers can earn 40,000-55,000 euros. Salaries are lower in academia, while higher in industry.
+
+**Q: How can foreign biologists immigrate to Spain?**
+A: You can obtain an EU Blue Card or employment-based residence, which requires a Spanish employer contract and academic qualification (Homologación). A doctoral degree and publication record can help with the application.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 激烈（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Biologist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a biologist in Spain?**
-答：Entry-level researchers earn around €24,000-30,000 per year, while senior researchers can reach €40,000-55,000. Academia pays less than industry.
-
-**问：How can a foreign biologist immigrate to Spain?**
-答：Via EU Blue Card or work permit, requiring a Spanish employer contract and degree homologation. PhD and publications help.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

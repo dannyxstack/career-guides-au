@@ -1,63 +1,98 @@
-# Head teachers and principals（Head teachers and principals）职业分析 · UK
+# Head teachers and principals — career analysis · United Kingdom
 
-**职业代码：2321 – Head teachers and principals。**
+**Occupation code: 2321 (SOC)**
 
-Head teachers and principals plan, organise, direct and coordinate the running of schools, colleges and other educational establishments, covering policy setting, budget management, staff oversight, and maintaining academic standards.
+Principals and deans plan, organize, direct, and coordinate the overall operations of schools, colleges, and other educational institutions, including setting educational policies, managing budgets, supervising staff, and maintaining campus safety and academic standards.
 
-> 注：本职业为**受限技术移民职业**，不在UK独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科学位（教育或相关领域） | 3年 | $9,250~$15,000（英格兰本科国际生学费） |
-| 教师资格（如PGCE） | 1年 | $9,250~$15,000（教育学研究生证书课程费用） |
-| 教育领导力硕士（可选） | 1-2年 | $10,000~$20,000（部分校长持有此学位以增强竞争力） |
+| Bachelor's degree (education or related field) | 3 years | $9,250~$15,000 (Undergraduate international student tuition fees in England) |
+| Teaching qualification (such as PGCE) | 1 year | $9,250~$15,000 (Graduate Certificate in Education course fee) |
+| Master of Educational Leadership (optional) | 1-2 years | $10,000~$20,000 (Some principals hold this degree to enhance competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 合格教师资格（QTS） | 英国教育部 | 必备 | 英格兰中小学教师必备资格 |
-| 国家校长专业资格（NPQH） | 英国教育部 | 可选 | 英格兰校长岗位推荐持有，部分地区强制要求 |
-| 高级领导力国家专业资格（NPQSL） | 英国教育部 | 可选 | 有助晋升副校长或校长职位 |
-| 教育硕士学位 | 大学 | 可选 | 非强制但常见 |
+| Qualified Teacher Status (QTS) | UK Department for Education | Required | Essential qualifications for primary and secondary school teachers in England |
+| National Professional Qualification for Headship (NPQH) | UK Department for Education | Optional | Recommended for headteacher positions in England, mandatory in some areas |
+| National Professional Qualification for Senior Leadership (NPQSL) | UK Department for Education | Optional | Helps in promotion to deputy principal or principal positions |
+| Master of Education degree | University | Optional | Not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 23,000。英国教育管理岗位需求稳定，因退休人员增加及教育政策改革，预计未来十年有适度增长。竞争激烈，需丰富教学管理经验。
+**Job demand: high (★★★★☆).** National workforce approx. 23,000. Demand for education management roles in the UK is stable, with moderate growth expected over the next decade due to retirements and education policy reforms. Competition is fierce, requiring extensive teaching management experience.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年）副校长/助理校长 | $45,000~$60,000 | 根据学校规模和地区差异 |
-| 中级（3-10年）校长 | $60,000~$90,000 | 典型中小学全日制校长薪资 |
-| 高级（10年以上）大型院校校长/学院院长 | $90,000~$150,000 | 大型综合学校或学院，含伦敦地区补贴 |
+| Median salary | $72,192 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Junior (0–3 years) Deputy Principal / Assistant Principal | $45,000~$60,000 | Varies by school size and region |
+| Intermediate (3-10 years) School Principal | $60,000~$90,000 | Typical full-time principal salary for primary/secondary schools |
+| Senior (10+ years) large institution president/college dean | $90,000~$150,000 | Large comprehensive school or college, including London area allowance |
+| average salary | $73,342 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★½☆）。** 通常从教师起步，逐步晋升为部门主管、副校长，最终成为校长/院长。后期可转向教育咨询、政府教育部门或培训领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Principals' management duties (such as report generation, data monitoring) are easily automated by AI, but core tasks like leadership and culture building are augmented by AI. Overall, the outlook is mixed.
+
+Typically starts as a teacher, progressing to department head, deputy principal, and eventually principal/dean. Later stages can shift to education consulting, government education departments, or training fields.
+
+**Tasks most exposed to AI:**
+
+- Automated data reporting (student results, budgets, personnel statistics) generation
+- Schedule and resource allocation optimization.
+- Routine policy compliance monitoring and early warning
+- Campus surveillance system analysis and anomaly detection
+- Standardized test result analysis and trend prediction
+
+**Where AI augments the role:**
+
+- AI-driven student academic and behavioral early warning system supporting early intervention
+- Personalized teaching plans and resource allocation recommendations
+- Simulation of budget and policy decision impact analysis
+- Automatically generate parent communication reports and personalized suggestions
+- Teacher performance data supports coaching-style management
+
+**Human moat:**
+
+- Organizational culture shaping and value transmission
+- Managing complex stakeholder relationships (parents, community, government)
+- Leadership and empathetic decision-making in times of crisis
+- Education innovation and long-term strategic vision formulation
+
+**Skills to build:**
+
+- Data-driven educational management and decision-making tools (e.g., PowerBI, Tableau)
+- Knowledge of AI in education (learning analytics, adaptive systems)
+- Change management and digital transformation leadership
+- Human-machine collaboration team management skills
+- Ethics and Privacy Management (AI Bias Filtering)
+- Communication and stakeholder coordination (with AI assistance)
+
+**Key growth areas:**
 
 - Stable demand
 - Leadership roles
@@ -66,69 +101,68 @@ Head teachers and principals plan, organise, direct and coordinate the running o
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 可申请，但需雇主担保且满足薪资门槛（通常不低于£38,700）。校长岗位通常符合资格，但竞争激烈。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在教育领域有杰出成就或潜力的个人，无需雇主担保，可自雇。 |
-| Subclass Graduate（Graduate Visa） | 英国高校毕业生可申请，允许2年停留，但需找到雇主转换为技术工人签证。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable, but requires employer sponsorship and meeting the salary threshold (usually no less than £38,700). Headteacher positions generally qualify, but competition is high. |
+| Subclass Global Talent (Global Talent Visa) | Applies to individuals with outstanding achievements or potential in the education field, no employer sponsorship required, can be self-employed. |
+| Subclass Graduate (Graduate Visa) | Available for UK graduates, allows 2-year stay, but requires finding an employer to switch to a Skilled Worker visa. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Head teachers and principals？**
-- 具备丰富教学经验并希望转型管理岗位的教师
-- 有领导力、决策能力和沟通技巧的教育工作者
-- 对教育政策有深刻理解并致力于提升学校质量的人士
-
-**谁不适合学Head teachers and principals？**
-- 不愿承担高压管理责任和长时间工作的人
-- 缺乏教学或学校运营实际经验者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Teachers with extensive teaching experience seeking management roles
+- Educators with leadership, decision-making, and communication skills
+- Individuals with a deep understanding of education policy and commitment to improving school quality
+
+**Who is not suited**
+- People who are unwilling to take on high-pressure management responsibilities and long working hours
+- Those lacking practical experience in teaching or school operations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a principal?**
+A: Depending on school size, location, and experience, a principal's annual salary typically ranges from £60,000 to £90,000, with larger schools or London areas reaching over £150,000.
+
+**Q: Can overseas teachers directly apply for a UK headteacher visa?**
+A: Yes, but must already hold QTS and have extensive teaching management experience, and obtain employer sponsorship. Salary must meet the skilled worker visa minimum (usually £38,700).
+
+**Q: Is NPQH required to become a principal?**
+A: In England, the NPQH is not mandatory but is strongly recommended; many job advertisements require or prioritize candidates who hold the NPQH.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Head teachers and principals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for head teachers?**
-答：Head teachers typically earn between £60,000 and £90,000, with larger schools or London locations offering up to £150,000+.
-
-**问：Can overseas teachers apply for a UK head teacher visa directly?**
-答：Yes, but they must hold QTS and extensive experience, and obtain employer sponsorship. Salary must meet Skilled Worker minimum (£38,700).
-
-**问：Is NPQH mandatory to become a head teacher?**
-答：In England, NPQH is not mandatory but strongly recommended, and many job adverts require or prefer it.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Police investigators and other investigative occupations（Police investigators and other investigative occupations）职业分析 · 加拿大
+# Police investigators and other investigative occupations — career analysis · Canada
 
-**职业代码：41310 – Police investigators and other investigative occupations。**
+**Occupation code: 41310 (NOC)**
 
-Engage in criminal investigations, evidence collection, and case analysis, typically serving police departments or government agencies, requiring law enforcement experience and specialized training.
+Conduct criminal investigations, evidence collection, case analysis, etc., typically serving police departments or government agencies, requiring law enforcement experience and specialized training.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 大学本科 | 4年 | $40,000~$80,000（学费因大学和专业而异，通常需刑事司法或相关学位） |
-| 警察学院培训 | 6个月 | $5,000~$15,000（由省警察学院提供，费用含培训材料和生活费） |
+| University bachelor's degree | 4 years | $40,000~$80,000 (Tuition varies by university and program; typically requires a degree in criminal justice or related field) |
+| Police academy training | 6 months. | $5,000~$15,000 (Provided by the provincial police college, fees include training materials and living expenses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★½）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大公民或永久居民身份 | 加拿大政府 | 必备 | 多数警察部门要求应聘者为加拿大公民或永久居民 |
-| 警察基础培训证书 | 省警察学院 | 必备 | 完成省级警察学院的基础培训课程 |
-| 驾驶执照 | 省交通厅 | 必备 | 需持有有效驾驶执照，通常要求无重大违章记录 |
+| Canadian citizenship or permanent residency | Canadian government | Required | Most police departments require applicants to be Canadian citizens or permanent residents |
+| Police basic training certificate | Provincial Police College | Required | Complete basic training at a provincial police college |
+| Driver's license | Provincial Department of Transportation | Required | Must hold a valid driver's licence, usually with no serious traffic violations. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,500。加拿大公共安全需求稳定，该职业就业前景良好，预计2021-2031年岗位增长约5%，主要受退休人员替换和新安全需求推动。
+**Job demand: high (★★★★☆).** National workforce approx. 8,500. Canada's public safety needs are stable, with good employment prospects for this occupation; job growth is expected to be about 5% from 2021-2031, driven mainly by replacement of retirees and new security demands.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 刚入职或试用期调查员 |
-| 中级（4-10年） | $75,000~$100,000 | 具有经验的调查员或侦探 |
-| 高级（10年以上） | $100,000~$130,000 | 高级调查员、专案组长或部门主管 |
+| Median salary | $116,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | New or probationary investigator |
+| Mid-level (4-10 years). | $75,000~$100,000 | Experienced investigator or detective |
+| Senior (10+ years) | $100,000~$130,000 | Senior investigator, project team leader, or department head |
+| average salary | $112,320 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级调查员可晋升为高级调查员、侦探或专案组长，之后可成为调查主管或部门负责人，也可转向国家警察机构或专业调查单位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on detectives and criminal investigators is mixed: automation will take over data analysis and document review, but core interrogation, interpersonal intuition, and on-site reasoning are hard to replace, and AI tools can actually improve case-solving efficiency.
+
+Junior investigators can advance to senior investigator, detective, or case team leader, then to investigation supervisor or department head, and can also transfer to national police agencies or specialized investigation units.
+
+**Tasks most exposed to AI:**
+
+- automated report writing and evidence document organization
+- Automatic analysis and initial identification of surveillance video
+- Pattern matching screening of phone records and financial data
+- Database search and rapid comparison of suspect backgrounds.
+- Automatic generation and format proofreading of court presentation materials
+
+**Where AI augments the role:**
+
+- AI-assisted link analysis to uncover cross-case clue patterns
+- Natural language processing for quick retrieval of case law
+- Predictive policing models indicate crime hotspots and time periods
+- Facial recognition and license plate recognition systems speed up suspect identification
+- Semantic analysis of chat documents detects covert threat signals
+
+**Human moat:**
+
+- Micro-expressions, tone, and psychological games in face-to-face interrogations
+- Intuition and experience-based judgment that cannot be quantified in field investigations
+- Building trust with informants and managing complex interpersonal relationships
+- Discretionary decisions in ethical and legal gray areas
+- Quickly adapt and lead team actions under high pressure
+
+**Skills to build:**
+
+- Digital Forensics and Electronic Evidence Recovery
+- Data visualization and statistical analysis tools
+- Basic Python or R programming for data scraping and cleaning
+- Use of AI tool chains (e.g., automated report generation software)
+- Social media intelligence mining and open-source intelligence analysis
+- Cross-departmental collaboration and technology communication skills
+
+**Key growth areas:**
 
 - Forensic Science
 - Cyber Crime
@@ -62,68 +98,67 @@ Engage in criminal investigations, evidence collection, and case analysis, typic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 部分省提名项目（如安省、BC省）针对执法类职业，需获得雇主担保 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招聘到加拿大公民或永久居民，可申请工签后移民 |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 适合有多年调查经验且语言成绩高的申请人，但需注意职业资格认证 |
+| Subclass PNP (Provincial Nominee Program) | Some provincial nomination programs (e.g., Ontario, BC) for law enforcement occupations require employer sponsorship |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to recruit Canadian citizens or permanent residents; can apply for work permit then immigrate. |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | Suitable for applicants with years of investigation experience and high language scores, but attention to professional qualification certification is needed |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Police investigators and other investigative occupations？**
-- 具有多年执法或安全经验的人员
-- 具备良好沟通、分析能力和心理素质者
-- 希望从事公务员或政府工作且愿意接受严格培训者
-
-**谁不适合学Police investigators and other investigative occupations？**
-- 不愿接受严格身体和心理测试者
-- 无法适应轮班和高压工作环境者
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Personnel with many years of law enforcement or security experience
+- Those with strong communication, analytical skills, and psychological resilience
+- Those aspiring to work in public service or government roles and willing to undergo rigorous training
+
+**Who is not suited**
+- Those unwilling to undergo rigorous physical and psychological tests
+- Those unable to adapt to shift work and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a police investigator?**
+A: Entry-level investigator annual salary approx. CAD 55,000-75,000, intermediate CAD 75,000-100,000, senior CAD 100,000-130,000, varying by province and agency.
+
+**Q: How to become a Canadian police investigator through immigration?**
+A: Main pathways include provincial nomination and LMIA employer sponsorship. First obtain Canadian legal status and provincial police training certification. Express Entry also possible but requires occupational qualification matching.
+
+**Q: What qualifications are needed for this occupation?**
+A: Usually requires a university bachelor's degree (criminal justice or related field) and completion of a provincial police academy training course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★½) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★½） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Police investigators and other investigative occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for police investigators?**
-答：Entry-level investigators earn about CAD 55,000-75,000, intermediate CAD 75,000-100,000, senior CAD 100,000-130,000, varying by province and agency.
-
-**问：How to become a police investigator in Canada through immigration?**
-答：Main routes include PNP and LMIA employer sponsorship, requiring legal status and provincial police training certification; Express Entry is possible with credential recognition.
-
-**问：What education is needed for this occupation?**
-答：Typically a bachelor's degree (criminal justice or related) and completion of provincial police academy training.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

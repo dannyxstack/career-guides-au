@@ -1,59 +1,95 @@
-# Computer Network Professionals（Computer Network Professionals）职业分析 · IT
+# Computer Network Professionals — career analysis · Italy
 
-**职业代码：2523 – Computer Network Professionals。**
+**Occupation code: 2523 (ISCO08)**
 
-Design, deploy, maintain and manage computer network systems, ensuring efficient and secure network operations for enterprises.
+Responsible for designing, deploying, maintaining, and managing computer network systems, ensuring efficient and secure enterprise network operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | —（公立大学学费低，约0-2000欧元/年） |
-| 硕士 | 2年（硕士） | $1,000~$4,000（公立大学硕士学费约1000-4000欧元/年） |
+| Bachelor's degree | 3 years (bachelor's) | $0~$2,000 (Public university tuition is low, around 0–2,000 EUR per year) |
+| Master's degree | 2 years (Master's) | $1,000~$4,000 (Master's tuition at public universities is approximately 1,000-4,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CCNA（思科认证网络工程师） | Cisco | 可选 | 行业通用入门认证，非强制但雇主看重 |
-| CCNP（思科认证网络专业人员） | Cisco | 可选 | 中高级认证，提升竞争力 |
-| CompTIA Network+ | CompTIA | 可选 | 基础网络认证，适合初学者 |
+| CCNA (Cisco Certified Network Associate) | Cisco | Optional | Industry-wide general entry certificate, not mandatory but valued by employers. |
+| CCNP (Cisco Certified Network Professional) | Cisco | Optional | Intermediate to advanced certification to enhance competitiveness. |
+| CompTIA Network+ | CompTIA | Optional | Basic networking certification, suitable for beginners |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。意大利数字化转型加速，云计算和网络安全需求旺盛，预计未来五年网络专业人员需求增长15%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 32,000. Italy's digital transformation is accelerating, with strong demand for cloud computing and cybersecurity, and network professional demand is expected to grow over 15% in the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，视公司规模和地区而异 |
-| 中级（4-7年） | $38,000~$50,000 | 税前年薪，含认证和经验加成 |
-| 高级（8年以上） | $55,000~$75,000 | 税前年薪，通常担任架构师或管理岗 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual salary before tax, varies by company size and region |
+| Mid-level (4-7 years) | $38,000~$50,000 | Pre-tax annual salary, including certification and experience bonuses |
+| Senior (8+ years) | $55,000~$75,000 | Annual pre-tax salary, typically for architect or management roles |
+| average salary | $46,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从网络管理员晋升为高级网络工程师、网络架构师或IT经理，也可转向网络安全或云计算方向。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
+
+Can advance from network administrator to senior network engineer, network architect, or IT manager, or pivot to cybersecurity or cloud computing.
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+**Key growth areas:**
 
 - Cloud Networking
 - Cybersecurity
@@ -62,68 +98,67 @@ Design, deploy, maintain and manage computer network systems, ensuring efficient
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 针对高技能非欧盟公民，需年薪不低于约35,000欧元（2025年标准），可携带家属。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，雇主担保，适用于非高技能但紧缺岗位，但计算机类通常走蓝卡。 |
-| Subclass Self-employed visa（Self-Employment Visa (Italy)） | 适用于自由职业网络顾问，需证明足够商业计划和经济能力。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For high-skilled non-EU citizens, requires annual salary of at least approximately €35,000 (2025 standard), can bring family members. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, employer-sponsored, for non-high-skilled but in-demand positions; computer-related roles usually via Blue Card. |
+| Subclass Self-employed visa (Self-Employment Visa (Italy)) | Applicable to freelance network consultants, requiring proof of sufficient business plan and financial capacity. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Network Professionals？**
-- 喜欢技术钻研和逻辑分析，对网络协议和架构有热情
-- 善于解决问题，能应对突发网络故障
-- 愿意持续学习，跟进行业新技术
-
-**谁不适合学Computer Network Professionals？**
-- 不喜欢重复性配置工作或高强度排错
-- 对持续认证和学习更新不感兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys technical research and logical analysis, passionate about network protocols and architecture
+- Good at problem-solving and able to handle sudden network failures
+- Willing to continuously learn and keep up with new industry technologies
+
+**Who is not suited**
+- Dislikes repetitive configuration work or high-intensity troubleshooting
+- Not interested in ongoing certification and learning updates
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for network professionals in Italy?**
+A: Entry-level about EUR 28,000-35,000, mid-level EUR 38,000-50,000, senior EUR 55,000-75,000 (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to Italy through this occupation?**
+A: The main pathway is the EU Blue Card, requiring an employer to provide a contract with an annual salary of at least approximately €35,000 and meeting relevant educational or experience requirements.
+
+**Q: Which online certifications do Italian employers value?**
+A: Cisco CCNA/CCNP and CompTIA Network+ are most recognized; holding certifications can significantly boost employability.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Network Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for computer network professionals in Italy?**
-答：Entry-level: €28,000-€35,000; Mid-level: €38,000-€50,000; Senior: €55,000-€75,000 (gross annual).
-
-**问：How can foreigners immigrate to Italy through this occupation?**
-答：Main route is EU Blue Card, requiring a job offer with salary above €35,000 and relevant qualifications/experience.
-
-**问：Which network certifications are valued by Italian employers?**
-答：Cisco CCNA/CCNP and CompTIA Network+ are highly regarded, boosting employability.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

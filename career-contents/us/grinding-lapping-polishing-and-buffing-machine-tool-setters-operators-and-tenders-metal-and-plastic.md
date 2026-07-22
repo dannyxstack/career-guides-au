@@ -1,58 +1,94 @@
-# Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic（Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic）职业分析 · 美国
+# Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic — career analysis · United States
 
-**职业代码：51-4033 – Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic。**
+**Occupation code: 51-4033 (SOC)**
 
-Set up, operate, or tend grinding and related tools to remove excess material or burrs, polish, hone, or buff metal or plastic workpieces in manufacturing settings.
+Operate or adjust grinding machines and related equipment to remove excess material or burrs from metal or plastic workpieces, or perform polishing, honing, and edge grinding; a precision machining trade.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中/同等学历 | 4年 | —（公立高中免费） |
-| 职业证书/副学士 | 1-2年 | $5,000~$20,000（社区学院或技术学校） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| Professional certificate/associate degree | 1-2 years | $5,000~$20,000 (Community college or technical school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | N/A | 可选 | 通常入职培训即可，部分雇主偏好有认证的候选人 |
-| CNC操作认证 | NIMS | 可选 | 提升竞争力 |
+| No mandatory requirements | N/A | Optional | usually on-the-job training is sufficient; some employers prefer certified candidates |
+| CNC operation certification | NIMS | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,500。美国制造业自动化趋势可能抑制就业增长，但精密磨削需求在航空航天、汽车等行业仍稳定，预计2023-2033年岗位变化约为-2%至0%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,500. The automation trend in US manufacturing may suppress job growth, but precision grinding demand in aerospace, automotive, and other industries remains stable; job change from 2023-2033 is estimated at -2% to 0%.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 时薪约$15-$19 |
-| 中级（3-8年） | $40,000~$52,000 | 含加班 |
-| 高级（8年以上） | $52,000~$65,000 | 或升主管后更高 |
+| Median salary | $46,550 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$40,000 | Hourly wage approx. $15-$19 |
+| Mid-level (3–8 years) | $40,000~$52,000 | Including overtime |
+| Senior (8+ years) | $52,000~$65,000 | Or higher after promotion to supervisor |
+| average salary | $48,170 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★★☆☆☆）。** 可从学徒或操作工起步，通过积累经验晋升为高级操作工或调试工，再发展为数控编程师或生产主管，部分人转向质量控制或设备维护。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: low (★★☆☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Grinding machine operators face high automation risk, as CNC and robotic systems can precisely perform material removal and polishing; entry-level positions are declining.
+
+Can start as an apprentice or operator, advance to senior operator or setter, then develop into CNC programmer or production supervisor; some move to quality control or equipment maintenance.
+
+**Tasks most exposed to AI:**
+
+- Manual feeding and adjustment of grinding parameters
+- Repetitive surface polishing and deburring
+- Visual Inspection of Workpiece Dimensions and Surface Quality
+- Loading/unloading workpieces and operating machine tools
+- Manually set grinding wheel speed and feed rate according to drawings
+
+**Where AI augments the role:**
+
+- Use AI vision systems for online defect detection
+- Using digital twin to optimize grinding paths and parameters
+- Reduce downtime through predictive maintenance
+- Automatically generates machining programs integrated with CAD/CAM software.
+- Operate multi-axis robot cells for automated loading and unloading
+
+**Human moat:**
+
+- Manual trimming and adjustment of complex irregular parts
+- Experience grinding unconventional materials (e.g., superhard alloys)
+- Equipment fault diagnosis and mechanical repair skills
+- Ability to collaborate with designers to optimize processing techniques
+- Flexible adaptability for processing small-batch, multi-variety orders
+
+**Skills to build:**
+
+- CNC programming (G-code/M-code)
+- Industrial robot operation and teaching.
+- CAD/CAM software (e.g. Mastercam, SolidWorks)
+- Integration of sensors and automation systems
+- Data analysis and statistical process control
+- Basic maintenance electrician skills (reading PLCs)
+
+**Key growth areas:**
 
 - Precision Machining
 - CNC Grinding
@@ -61,68 +97,67 @@ Set up, operate, or tend grinding and related tools to remove excess material or
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常需要相关学士学位，但部分雇主可为熟练操作工申请，竞争激烈 |
-| Subclass EB-3（EB-3 Skilled Workers/Professionals） | 需至少2年培训或经验，PERM劳工证流程，排期较长 |
-| Subclass TN（TN Status (USMCA)） | 仅限加拿大或墨西哥公民，需工程师或技术人员职业类别，此工种通常不符合 |
+| Subclass H-1B (H-1B Specialty Occupations) | A relevant bachelor's degree is typically required, but some employers may apply for skilled operators; competition is intense. |
+| Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires at least 2 years of training or experience, PERM labor certification process, long priority dates |
+| Subclass TN (TN Status (USMCA)) | Only for Canadian or Mexican citizens, requiring engineer or technician occupational categories; this job is typically not eligible. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 细心且动手能力强，适合重复性精密工作
-- 对机械加工有耐心，愿意从基层学起
-- 能适应车间环境噪音和粉尘
-
-**谁不适合学Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic？**
-- 不喜欢重复性体力劳动
-- 期望高薪且快速晋升者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and hands-on, suitable for repetitive precision work
+- Patient about machining, willing to learn from the ground up
+- Able to adapt to workshop noise and dust
+
+**Who is not suited**
+- Dislikes repetitive physical labor
+- Those expecting high salary and rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a grinder operator?**
+A: The median annual salary for grinding machine operators in the US is about $42,000, entry-level around $32,000, experienced can exceed $60,000, and overtime can increase income.
+
+**Q: Can a grinder operator immigrate to the US through skilled migration?**
+A: Possible but not easy. Mainly through EB-3 skilled worker green card, requiring employer-sponsor PERM labor certification. H-1B usually requires a bachelor's degree, which is difficult for this occupation.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes. Can advance from operator to setter, CNC programmer, or shift to quality control, production supervisor; some enter equipment maintenance or sales technical support.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★★☆☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较低（★★☆☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for grinding machine operators?**
-答：The median annual wage for grinding machine operators in the US is about $42,000, with entry-level around $32,000 and experienced over $60,000, plus overtime.
-
-**问：Can grinding machine operators immigrate to the US through skilled migration?**
-答：Yes, but challenging. Mainly via EB-3 skilled worker green card requiring employer-sponsored PERM. H-1B typically needs a bachelor's degree, which is rare for this role.
-
-**问：Is there career advancement for this occupation?**
-答：Yes. Operators can advance to setter, CNC programmer, quality control, or production supervisor, some move into maintenance or sales support.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

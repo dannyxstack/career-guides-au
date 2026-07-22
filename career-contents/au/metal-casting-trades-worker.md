@@ -1,59 +1,95 @@
-# Metal Casting Trades Worker（Metal Casting Trades Worker）职业分析 · 澳大利亚
+# Metal Casting Trades Worker — career analysis · Australia
 
-**职业代码：322114 – Metal Casting Trades Worker。**
+**Occupation code: 322114 (ANZSCO)**
 
-Metal Casting Trades Workers operate casting equipment to pour molten metal into molds, producing castings for manufacturing, automotive, and heavy industries.
+Metal casting technicians operate casting equipment to pour molten metal into molds to produce castings, widely used in manufacturing, automotive, and heavy industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 4年 | $10,000~$20,000（政府补贴后学费较低） |
-| VET证书 | 1-2年 | $5,000~$15,000（TAFE课程费用） |
+| Apprenticeship | 4 years | $10,000~$20,000 (Relatively low tuition fees after government subsidies) |
+| VET certificate | 1-2 years | $5,000~$15,000 (TAFE course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering - Fabrication Trade | TAFE或注册培训机构 | 必备 | 行业标准资格 |
-| MEM31219 Certificate III in Engineering - Fabrication Trade (Casting) | TAFE | 可选 | 针对铸造的专项证书 |
-| TRA技能评估 | Trades Recognition Australia | 必备 | 移民必备 |
+| Certificate III in Engineering - Fabrication Trade | TAFE or registered training organizations | Required | Industry standard qualifications |
+| TRA skills assessment | Trades Recognition Australia | Required | Essential for immigration |
+| MEM31219 Certificate III in Engineering - Fabrication Trade (Casting) | TAFE | Optional | Specialized certification for casting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,800。澳洲制造业复苏及基建投资推动对铸造技工的需求，但自动化技术发展可能影响部分岗位。预计未来五年就业增长平稳，年均约500个新职位。
+**Job demand: high (★★★★☆).** National workforce approx. 8,800. Australia's manufacturing recovery and infrastructure investment are driving demand for foundry trades workers, but automation technology may impact some roles. Steady employment growth is expected over the next five years, with about 500 new positions annually.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$62,000 | 学徒完成后起薪 |
-| 中级（3-8年） | $65,000~$80,000 | 熟练技工薪资 |
-| 高级（8年以上） | $80,000~$100,000 | 含主管或特殊技能 |
+| Median salary | $72,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $50,000~$62,000 | Starting salary after apprenticeship completion. |
+| Mid-level (3–8 years) | $65,000~$80,000 | Skilled tradesperson salary |
+| Senior (8+ years) | $80,000~$100,000 | Includes supervisor or special skills |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从学徒晋升为高级技工或主管，进而担任铸造厂经理或质量控制专家。积累经验后可转向模具设计或技术顾问角色。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI's impact on metal casting technicians is mixed: automation and robots will handle repetitive pouring and quality inspection, but mold preparation, defect judgment, and complex part process adjustments still rely on human experience.
+
+Can progress from apprentice to senior technician or supervisor, then to foundry manager or quality control expert. With experience, can transition to mold design or technical consultant roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive pouring operations using crucibles and hand ladles
+- Visual or simple gauge inspection of casting appearance quality
+- Manually record production data and process parameters
+- Basic smelting temperature control (taken over by AI temperature control system)
+- Simple sand preparation and core installation (replaced by robotic arms).
+
+**Where AI augments the role:**
+
+- Use AI simulation software to optimize casting processes (e.g., AnyCasting)
+- Real-Time Monitoring of Casting Defects and Parameter Adjustment via Computer Vision Systems
+- Remote diagnosis of equipment and mold status using digital twin technology
+- Using machine learning to analyze historical data to predict mold lifespan and casting yield
+- Use augmented reality (AR) to guide assembly and repair of complex molds
+
+**Human moat:**
+
+- Rapid diagnosis and on-site debugging skills for casting defects (shrinkage, porosity, cracks)
+- Experience in mold design and repair for complex irregular castings
+- Ability to explore process parameters when trialling new materials (e.g., high-strength aluminium alloys)
+- Decision-making skills for on-site safety emergency response (molten metal leaks, equipment failure)
+- Engineering judgment (castability analysis) when communicating casting design changes with clients
+
+**Skills to build:**
+
+- Casting process simulation software (AnyCasting, Magma) operation.
+- Industrial robot programming and debugging (FANUC, ABB)
+- Basic knowledge of additive manufacturing (3D sand printing/wax molding)
+- Data analysis basics (Python/SQL) for quality traceability
+- Sensor and IoT device maintenance skills
+- Project management and lean production methods
+
+**Key growth areas:**
 
 - Manufacturing
 - Infrastructure
@@ -62,69 +98,68 @@ Metal Casting Trades Workers operate casting equipment to pour molten metal into
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage visa） | 雇主担保临时签证，需职业在CSOL上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需482转或直接申请 |
-| Subclass 189（Skilled Independent visa） | 技术独立永居签证，需职业在MLTSSL上 |
-| Subclass 190（Skilled Nominated visa） | 州担保永居签证，需获得州提名 |
+| Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored temporary visa, requires occupation to be on the CSOL |
+| Subclass 186 (Employer Nomination Scheme) | Employer Sponsored Permanent Residence Visa, requires 482 transition or direct application |
+| Subclass 189 (Skilled Independent visa) | Skilled Independent Permanent Visa, requires occupation on the MLTSSL |
+| Subclass 190 (Skilled Nominated visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Casting Trades Worker？**
-- 动手能力强，喜欢机械操作和工艺制造的人
-- 愿意从事体力劳动并适应高温环境的人
-- 寻求稳定职业且对移民澳洲感兴趣的人
-
-**谁不适合学Metal Casting Trades Worker？**
-- 不喜体力劳动或高温噪音环境的人
-- 希望办公室坐班或高自由度工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong hands-on skills who enjoy mechanical work and craft manufacturing.
+- People willing to do physical labor and adapt to hot environments
+- People seeking stable careers and interested in migrating to Australia
+
+**Who is not suited**
+- People who dislike physical labor or high temperature and noise environments.
+- Those who prefer desk work or high job flexibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary growth potential for a metal casting technician?**
+A: With experience, salary can increase from AUD 50,000 to over AUD 100,000, and even higher as a supervisor or technician.
+
+**Q: Is it easy to immigrate to Australia in this occupation?**
+A: The occupation is on the MLTSSL and can apply for 189/190/482/186 visas, but requires a TRA skills assessment and English requirements.
+
+**Q: What is the future development of this occupation?**
+A: Automation may simplify some processes, but complex castings still require manual work; skill demand is stable.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Metal Casting Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary growth potential for Metal Casting Trades Workers?**
-答：With experience, salaries can increase from AUD 50,000 to over AUD 100,000, with supervisors and technicians earning more.
-
-**问：Is migration to Australia easy for this occupation?**
-答：It is on the MLTSSL, eligible for 189/190/482/186 visas, but requires TRA skills assessment and English proficiency.
-
-**问：What is the future career outlook?**
-答：Automation may simplify some processes, but complex castings still require manual skills, ensuring stable demand.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

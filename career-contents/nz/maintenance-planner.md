@@ -1,61 +1,97 @@
-# Maintenance Planner（Maintenance Planner）职业分析 · 新西兰
+# Maintenance Planner — career analysis · New Zealand
 
-**职业代码：312911 – Maintenance Planner。**
+**Occupation code: 312911 (ANZSCO)**
 
-Maintenance Planners coordinate maintenance schedules for industrial equipment, machinery, and facilities to minimize downtime and ensure operational efficiency. This occupation is eligible for migration under the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV) in New Zealand, though not on the Green List, requiring meeting salary and skill thresholds.
+Maintenance planners coordinate maintenance schedules for industrial equipment, machinery, and facilities, arranging regular inspections, repairs, and overhauls to minimize downtime and ensure operational efficiency. This occupation is eligible for immigration to New Zealand through the Skilled Migrant Category (SMC) or Accredited Employer Work Visa (AEWV), but is not on the Green List, and must meet salary and skill requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 大专文凭（Diploma in Engineering/Supply Chain） | 2年 | $22,000~$35,000（公立理工学院学费，国际生通常更高） |
-| 行业培训课程（如MITO项目） | 1-2年 | $5,000~$15,000（在职培训与课堂结合） |
-| 学士学位（Bachelor in Mechanical/Industrial Engineering） | 3-4年 | $35,000~$55,000（大学学费，国际生较高） |
+| Diploma in Engineering/Supply Chain | 2 years | $22,000~$35,000 (International students usually pay higher tuition fees at public polytechnics) |
+| Industry training courses (e.g., MITO programs). | 1-2 years | $5,000~$15,000 (Combination of on-the-job training and classroom learning) |
+| Bachelor's degree (Bachelor in Mechanical/Industrial Engineering) | 3-4 years | $35,000~$55,000 (University tuition fees, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 工程相关大专或本科 | 新西兰学历认证局（NZQA）认可院校 | 可选 | 通常要求，但非强制 |
-| 维护规划认证（CAMA） | 新西兰资产管理协会 | 可选 | 行业认证，提升竞争力 |
-| 新西兰工作安全许可证（如必要） | WorkSafe NZ | 可选 | 涉及高危行业时可能需要 |
-| 雅思6.5或同等英语成绩 | IELTS/PTE/TOEFL | 必备 | 移民或注册时要求 |
+| IELTS 6.5 or equivalent English proficiency | IELTS/PTE/TOEFL | Required | Required for immigration or registration |
+| Engineering-related diploma or bachelor's degree | NZQA-recognized institutions | Optional | Usually required, but not mandatory |
+| Maintenance Planning Certification (CAMA) | Asset Management Association of New Zealand | Optional | Industry certifications to enhance competitiveness |
+| New Zealand work safety license (if required) | WorkSafe NZ | Optional | May be required when involving high-risk industries. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 650。新西兰基础设施和制造业持续发展，对维护计划员需求稳定。预计未来5年就业增长温和，尤其在能源、交通和食品加工领域。2024年职位空缺率在职业中处于中等水平。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 650. With continued development in New Zealand's infrastructure and manufacturing sectors, demand for maintenance planners is stable. Moderate employment growth is expected over the next 5 years, particularly in energy, transport, and food processing. The vacancy rate in 2024 is at a medium level among occupations.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 刚入行或需监督 |
-| 中级（3-6年） | $75,000~$95,000 | 独立计划多数维护项目 |
-| 高级（6年以上） | $95,000~$120,000 | 主管或复杂项目负责人 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$75,000 | Entry-level or requiring supervision |
+| Mid-level (3–6 years) | $75,000~$95,000 | Independently plan most maintenance projects |
+| Senior (6+ years) | $95,000~$120,000 | Supervisor or complex project lead |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级计划员晋升为高级计划员或维护经理，也可转向供应链或项目管理。积累经验后薪资显著提升，部分人成为独立顾问。需持续学习新技术和软件。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
+
+Can advance from junior planner to senior planner or maintenance manager, or move into supply chain or project management. Salary increases significantly with experience, some become independent consultants. Requires continuous learning of new technologies and software.
+
+**Tasks most exposed to AI:**
+
+- Fault prediction and alarm generation based on sensor data
+- Automatic scheduling and recording of routine lubrication plans
+- Automatic spare parts inventory counting and ordering
+- Automatic recording and analysis of equipment operation logs
+- Automated documentation generation for standard maintenance processes.
+
+**Where AI augments the role:**
+
+- Access maintenance step instructions overlaid on equipment via AR glasses
+- AI-assisted diagnosis of complex mechanical faults, providing lists of possible causes
+- Using digital twins to simulate maintenance plan effectiveness
+- Automatically generate maintenance reports linked to historical data.
+- Mobile terminal receives real-time remote expert guidance
+
+**Human moat:**
+
+- On-site safety judgment and emergency response skills
+- Multi-sensory (tactile, auditory, olfactory) anomaly detection
+- Flexible problem-solving in unstructured environments
+- Interpersonal communication and coordination with operators and engineers
+- Compliance record and quality audit responsibilities
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- Augmented Reality (AR) maintenance tool operation
+- Basic programming and automation scripting (e.g., Python)
+- Use of digital twin and simulation software
+- Predictive maintenance system management
+- Cross-department technical communication and project management
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Accredited Employer Work Visa
@@ -64,68 +100,67 @@ Maintenance Planners coordinate maintenance schedules for industrial equipment, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 适合高技能维护计划员，需满足6分制（例如NZQF Level 7学历+3年经验），薪资不低于中位数（2024年约$59,200） |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，从事维护计划员工作，薪资需达到AEWV门槛（$29.66/小时，2024年），最长3年 |
-| Subclass Green List T2（Green List Straight to Residence (Tier 2) - not applicable） | 维护计划员不在绿色清单上，不能直接居留或工作转居留 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Ideal for high-skilled maintenance planners, meeting the 6-point system (e.g., NZQF Level 7 qualification + 3 years experience), salary not less than the median (approx. $59,200 in 2024) |
+| Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, working as a maintenance planner; salary must meet the AEWV threshold ($29.66/hour, 2024), up to 3 years |
+| Subclass Green List T2 (Green List Straight to Residence (Tier 2) - not applicable) | Maintenance planner is not on the Green List, so cannot directly obtain residence or convert work to residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Maintenance Planner？**
-- 喜欢逻辑规划和协调工作的人
-- 有工程或供应链背景，注重细节
-- 能适应工厂或露天环境，承受一定工作压力
-
-**谁不适合学Maintenance Planner？**
-- 不喜欢常规性、重复性计划任务
-- 不擅长与不同部门沟通协调
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy logical planning and coordination work
+- Has engineering or supply chain background, detail-oriented
+- Able to work in factory or outdoor environments, handling a certain level of work pressure
+
+**Who is not suited**
+- Dislike routine, repetitive planning tasks
+- Poor at coordinating across departments
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level for Maintenance Planners in New Zealand?**
+A: Junior: NZD 55,000-75,000, intermediate: NZD 75,000-95,000, senior: NZD 95,000-120,000. Salaries are affected by industry and region; Auckland is higher, but cost of living is also high.
+
+**Q: Can a maintenance planner migrate to New Zealand through skilled migration?**
+A: Yes. This occupation is on the ANZSCO skill list and falls under the Skilled Migrant Category (SMC). It must meet the 6-point system (e.g., qualification + experience) and median wage requirements. Not on the Green List, so no fast-track.
+
+**Q: Do I need New Zealand local registration or a license?**
+A: No mandatory registration, but holding a New Zealand-recognized engineering diploma or industry certification (e.g., CAMA) can enhance employment and immigration prospects. English requirements cannot be waived.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Maintenance Planner的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Maintenance Planners in New Zealand?**
-答：Entry-level: NZD 55,000-75,000; Mid-level: NZD 75,000-95,000; Senior: NZD 95,000-120,000. Varies by industry and region, higher in Auckland.
-
-**问：Can Maintenance Planners immigrate to New Zealand through skilled migration?**
-答：Yes. This occupation is on the ANZSCO skill list and eligible for Skilled Migrant Category (SMC), requiring 6 points (e.g., qualification + experience) and meeting median wage. Not on Green List, so no fast track.
-
-**问：Do I need a New Zealand registration or license?**
-答：No mandatory registration, but having a recognized engineering diploma or industry certification (e.g., CAMA) boosts employability and migration prospects. English proficiency is required.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

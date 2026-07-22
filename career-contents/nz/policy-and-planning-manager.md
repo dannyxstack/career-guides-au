@@ -1,59 +1,92 @@
-# Policy and Planning Manager（Policy and Planning Manager）职业分析 · 新西兰
+# Policy and Planning Manager — career analysis · New Zealand
 
-**职业代码：132411 – Policy and Planning Manager。**
+**Occupation code: 132411 (ANZSCO)**
 
-Policy and Planning Managers develop, implement, and evaluate policies and strategic plans for organizations or government. This senior management role in New Zealand is eligible for skilled migration and Green List pathways with strong employment prospects.
+Policy and Planning Managers develop, implement, and evaluate policies and strategic plans for organizations or governments. This occupation is a senior management role in New Zealand, eligible for residence via skilled migration or the Green List pathway, with good employment prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$45,000（本科公共政策、政治学或相关领域，国际学生年学费约3-4.5万NZD） |
-| 硕士学位 | 1-2年 | $40,000~$60,000（公共管理硕士(MPA)或政策研究硕士，总花费因学制而异） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Undergraduate public policy, political science, or related field; international student annual tuition approximately NZD 30,000-45,000) |
+| Master's degree | 1-2 years | $40,000~$60,000 (Master of Public Administration (MPA) or Policy Studies, total cost varies by program duration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰公共管理硕士(MPA)或同等学历 | 惠灵顿维多利亚大学等 | 可选 | 提升专业竞争力，非强制但普遍要求 |
-| 项目管理认证(PMP或Prince2) | PMI或AXELOS | 可选 | 适用于规划项目管理岗位 |
-| 雅思(IELTS)总分6.5 | British Council/IDP | 必备 | 移民或注册所需英语能力证明 |
+| IELTS overall 6.5 | British Council/IDP | Required | Proof of English proficiency for immigration or registration |
+| Master of Public Administration (MPA) or equivalent from New Zealand | Victoria University of Wellington, etc. | Optional | Enhances professional competitiveness, not mandatory but commonly required |
+| Project management certification (PMP or Prince2) | PMI or AXELOS. | Optional | Applicable for planning and project management roles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 2,500。新西兰政府及大型企业持续需要政策与规划经理，尤其在公共部门、基础设施和环境领域。预计未来5年就业增长稳定，但竞争激烈，需具备相关经验和学历。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 2,500. The New Zealand government and large enterprises continue to need policy and planning managers, especially in the public sector, infrastructure, and environment. Employment growth is expected to be stable over the next 5 years, but competition is intense, requiring relevant experience and qualifications.
 
-**竞争度：激烈（★★★½☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$110,000 | 政策分析师或顾问起薪 |
-| 中级（3-7年） | $110,000~$150,000 | 资深政策经理或团队领导 |
-| 高级（7年以上） | $150,000~$200,000 | 高级政策与规划经理，含额外福利 |
+| Median salary | $89,752 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $80,000~$110,000 | Policy analyst or consultant starting salary |
+| Mid-level (3–7 years) | $110,000~$150,000 | Senior policy manager or team leader |
+| Senior (7+ years) | $150,000~$200,000 | Senior Policy and Planning Manager, including additional benefits |
+| average salary | $106,132 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 职业发展路径包括从政策分析师或顾问晋升至经理，再至高级总监或执行领导。获取专业资质（如MPA）和项目管理认证可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Policy and Planning Managers face a mixed impact from AI: data analysis and report generation will be automated, but strategic decision-making, stakeholder management, and political sensitivity remain human strengths, overall risk moderate.
+
+Career development paths include advancing from policy analyst or consultant to manager, then to senior director or executive leadership. Obtaining professional qualifications (e.g., MPA) and project management certifications can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Literature review and data analysis (AI can quickly scan large documents and extract key data)
+- Policy proposal first draft generation (AI produces draft based on templates and historical data)
+- Regular stakeholder report generation (AI automatically generates reports from databases)
+- Classification and summarization of consultation comments (AI can handle large volumes of public submissions)
+
+**Where AI augments the role:**
+
+- Data-driven policy modeling and prediction (AI simulates the economic and social impacts of different policies)
+- Quickly generate meeting briefs and decision support materials (AI integrates multi-source information)
+- Monitor policy implementation effectiveness (AI real-time analysis of indicators and early warnings)
+- Multilingual translation and cultural adaptation (AI translation policy summary)
+
+**Human moat:**
+
+- Weighing trade-offs between vague and conflicting interests (e.g. long-term environmental protection vs short-term employment)
+- Build trust and political lobbying (face-to-face communication with ministers and community leaders)
+- Rapid decision-making in crises (e.g., policy adjustments during public emergencies)
+- Ethical judgment and value choices (e.g., balancing privacy and security)
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R + Power BI/Tableau)
+- Use of AI policy tools (e.g., IBM Watson Policy Lab)
+- Basic concepts of machine learning (understanding model limitations and bias)
+- Project management (Agile/Scrum applied in policy advancement)
+- Digital transformation leadership in the public sector
+- Stakeholder engagement and consultation techniques
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - Green List Tier 2
@@ -62,68 +95,67 @@ Policy and Planning Managers develop, implement, and evaluate policies and strat
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 基于6分制技术移民，需满足收入中位数及工作经验要求 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 政策与规划经理不在绿色清单直接居留名单，但可能符合Tier 2条件，需工作2年后申请 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合找到认证雇主后先工作再移民 |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | Based on a 6-point skilled migration system, must meet median income and work experience requirements |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Policy and planning managers are not on the Green List direct residence pathway, but may be eligible for Tier 2, requiring 2 years of work before applying. |
+| Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those who find an accredited employer to work first and then immigrate |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Policy and Planning Manager？**
-- 具备政策分析、战略规划经验者
-- 有公共管理或相关领域硕士学历
-- 善于沟通、协调利益相关者
-
-**谁不适合学Policy and Planning Manager？**
-- 不喜欢长期文书工作和法规研究
-- 抗压能力弱、无法应对政治敏感问题
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Experienced in policy analysis and strategic planning
+- Have a master's degree in public administration or a related field
+- Good communication and stakeholder coordination skills
+
+**Who is not suited**
+- Dislike of long-term document work and regulation research
+- Weak stress tolerance, unable to handle politically sensitive issues
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Policy and Planning Manager in New Zealand?**
+A: Annual salary typically ranges from NZD 80,000 to 200,000, with a median of around NZD 120,000.
+
+**Q: Can Policy and Planning Managers apply for a Skilled Migration visa to New Zealand?**
+A: Yes, this occupation falls under ANZSCO Level 1 (Senior Management) and can apply via the SMC 6-point system, but it is not on the Green List direct residence pathway; salary requirements must be noted.
+
+**Q: What educational background is needed to become a policy and planning manager?**
+A: Typically requires a bachelor's degree in public policy, political science, or a related field; a master's degree (e.g., MPA) is preferred; some employers also accept equivalent experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 激烈（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Policy and Planning Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Policy and Planning Manager in New Zealand?**
-答：Salaries range from NZD 80,000 to NZD 200,000 annually, with a median around NZD 120,000, depending on experience and sector.
-
-**问：Can a Policy and Planning Manager apply for New Zealand skilled migration?**
-答：Yes, it is an ANZSCO Skill Level 1 occupation, eligible for Skilled Migrant Category (6-point system), but not on the Green List direct residence pathway. Salary thresholds apply.
-
-**问：What education is needed to become a Policy and Planning Manager?**
-答：A bachelor's degree in public policy, political science, or related field is common; a master's (e.g., MPA) is preferred. Equivalent experience may be accepted.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

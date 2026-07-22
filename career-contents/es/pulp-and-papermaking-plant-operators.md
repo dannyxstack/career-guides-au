@@ -1,60 +1,93 @@
-# Pulp and Papermaking Plant Operators（Pulp and Papermaking Plant Operators）职业分析 · ES
+# Pulp and Papermaking Plant Operators — career analysis · Spain
 
-**职业代码：8145 – Pulp and Papermaking Plant Operators。**
+**Occupation code: 8145 (CNO)**
 
-Operate pulp preparation and papermaking machinery, monitor production processes, ensure paper quality meets standards, and maintain equipment.
+Operate pulp preparation and papermaking equipment, monitor the production process, ensure paper quality meets standards, and maintain normal machine operation.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约500-2000欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约1000-2500欧元/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$2,000 (Public schools are free, private ones pay about 500-2000 euros per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,500 (Public schools are free, while private ones pay about 1000-2500 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纸浆与造纸操作员职业培训证书 | 西班牙教育及职业培训部门 | 必备 | 完成FP Grado Medio或Superior相关专业 |
-| 工作安全与健康培训 | 企业或授权培训机构 | 必备 | 必备，通常由雇主提供 |
+| Pulp and paper operator vocational training certificate | Spain's education and vocational training sector | Required | Completed a major related to FP Grado Medio or Superior |
+| Work safety and health training | Enterprises or authorized training institutions | Required | Essential, usually provided by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 8,500。西班牙造纸行业稳定，随着自动化升级，对熟练操作员需求持续，但整体就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 8,500. Spain's paper industry is stable, with ongoing demand for skilled operators as automation upgrades occur, but overall employment growth is slow.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪，因地区和公司而异 |
-| 中级（3-7年） | $22,000~$28,000 | 含倒班补贴 |
-| 高级（7年以上） | $28,000~$35,000 | 主管级别可达更高 |
+| Median salary | $22,905 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Pre-tax annual salary varies by region and company |
+| Mid-level (3–7 years) | $22,000~$28,000 | Includes shift allowance |
+| Senior (7+ years) | $28,000~$35,000 | Supervisor level can be higher |
+| average salary | $24,793 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从操作员晋升为生产线主管或质量控制技术员，通过FP高级培训可转向工艺工程师。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Pulp and paper mill operators face a high risk of automation replacement, especially in monitoring and repetitive operation tasks, but on-site troubleshooting and equipment maintenance still rely on human judgment.
+
+You can be promoted from operator to production line supervisor or quality control technician, and through advanced FP training, you can transition to process engineer.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor pulp concentration, temperature, pressure and other parameters through sensors and AI systems, replacing manual inspections
+- Automatic control systems adjust valves, pump speeds, etc., based on preset algorithms, replacing manual operations.
+- Using machine vision to detect paper defects, replacing manual quality inspection.
+- Automated production data recording and report generation, replacing manual entry.
+
+**Where AI augments the role:**
+
+- AI predictive maintenance systems assist in equipment fault warning, improving maintenance efficiency
+- Digital twin simulations optimize production processes and assist operator decision-making
+- Smart scheduling system optimizes raw material feeding pace, reducing waste
+- Remote collaboration platforms support expert guidance for complex fault handling remotely
+
+**Human moat:**
+
+- Ability to diagnose and repair sudden mechanical failures (e.g., paper break, blockage) in equipment
+- Experience in adjusting processes for non-standard raw materials (e.g., fluctuations in recycled fiber quality)
+- Multidepartmental coordination and communication with teams such as maintenance, quality inspection, and scheduling.
+- On-site response and safety handling in noisy, high-temperature, and humid environments
+
+**Skills to build:**
+
+- Fundamentals of Industrial Automation and PLC Programming
+- Data analysis and production report interpretation skills
+- Use of predictive maintenance tools (e.g., vibration analysis, thermal imaging)
+- Safety procedures and emergency response skills.
+- Basic mechanical repair and fault diagnosis
+- Digital twin or simulation software operation
+
+**Key growth areas:**
 
 - Stable
 - Automation
@@ -63,64 +96,66 @@ Operate pulp preparation and papermaking machinery, monitor production processes
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit by Employee (Visa por cuenta ajena)） | 需西班牙公司担保，证明职位无法在本地填补，薪资需满足最低标准。 |
+| Subclass Cuenta ajena (Work Permit by Employee (Visa por cuenta ajena)) | A Spanish company guarantee is required, proving the position cannot be filled locally, and the salary must meet the minimum standard. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Pulp and Papermaking Plant Operators？**
-- 喜欢操作机械、动手能力强的人
-- 能接受倒班和体力劳动的人
-- 希望在工业领域稳定就业的人
+**Who is suited**
+- People who enjoy operating machines and have strong hands-on skills
+- People who can accept shift work and manual labor
+- People who hope to find stable employment in the industrial sector
 
-**谁不适合学Pulp and Papermaking Plant Operators？**
-- 追求高薪或快速晋升的人
-- 对重复性工作或噪音环境敏感的人
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People sensitive to repetitive work or noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for pulp and paper operators?**
+A: The junior salary is about 18,000-22,000 euros per year, and the senior can reach up to 35,000 euros, including shift allowances. Salaries are lower than the average in Spain.
+
+**Q: Is it easy to immigrate to Spain with this profession?**
+A: Not easy. This occupation is not in shortage, employer sponsorship is difficult, typically more suitable for those with existing work authorization.
+
+**Q: What educational qualifications are required to become a paper operator?**
+A: Usually requires FP Grado Medio or Superior in a related field, such as pulp and paper production operations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Pulp and Papermaking Plant Operators属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pulp and papermaking plant operators?**
-答：Entry-level annual salary is about 18,000-22,000 EUR, senior can reach 35,000 EUR including shift allowances. Below national average.
-
-**问：Is it easy to immigrate to Spain in this occupation?**
-答：No. This occupation is not in shortage, employer sponsorship is rare, usually for those already holding work permits.
-
-**问：What education is needed to become a papermaking operator?**
-答：Usually a relevant FP Grado Medio or Superior program, such as pulp and paper production operations.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

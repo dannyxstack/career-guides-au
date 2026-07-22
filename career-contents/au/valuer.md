@@ -1,59 +1,93 @@
-# Valuer（Valuer）职业分析 · 澳大利亚
+# Valuer — career analysis · Australia
 
-**职业代码：224512 – Valuer。**
+**Occupation code: 224512 (ANZSCO)**
 
-Valuers assess the market value of real estate, business assets, and equipment for lending, insurance, taxation, and sale purposes.
+Valuers assess the market value of real estate, business assets, and equipment for loans, insurance, taxation, and sales.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（国际学生学费，年均约1-1.7万澳元） |
-| 硕士 | 1.5-2年 | $40,000~$60,000（相关本科背景可缩短学制） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (International student tuition, average about A$10,000-17,000 per year.) |
+| Master's degree | 1.5-2 years | $40,000~$60,000 (Relevant undergraduate background can shorten the program duration) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 估价或相关专业学士学位 | 澳洲大学 | 必备 | API认可课程 |
-| 注册执业估价师（CPV） | 澳大利亚财产学会(API) | 必备 | 需工作经验及CPD |
-| VETASSESS职业评估 | VETASSESS | 必备 | 技术移民必备 |
+| Bachelor's degree in valuation or related field | Australian universities | Required | API-recognized courses |
+| Certified Practising Valuer (CPV) | Australian Property Institute (API) | Required | Work experience and CPD required |
+| VETASSESS skills assessment | VETASSESS | Required | Essential for skilled migration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。澳洲建筑与房地产行业稳定，估价师需求预计保持平稳。人口增长和城市更新推动持续评估需求，但自动化流程可能影响部分岗位。
+**Job demand: medium (★★★☆☆).** National workforce approx. 12,000. Australia's construction and real estate industry is stable, and demand for valuers is expected to remain steady. Population growth and urban renewal drive ongoing assessment needs, but automation may affect some roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 取决于雇主和地区 |
-| 中级（3-6年） | $75,000~$100,000 | 含Certified Practising Valuer资质 |
-| 高级（6年+） | $100,000~$140,000 | 经理或专业领域（如矿产评估）可能更高 |
+| Median salary | $142,688 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$75,000 | Depends on employer and region |
+| Mid-level (3–6 years) | $75,000~$100,000 | Including Certified Practising Valuer qualification |
+| Senior (6+ years) | $100,000~$140,000 | Managers or specialized fields (e.g., mineral assessment) may be higher |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级估价师可晋升为高级估价师、团队主管，也可考取API认证成为注册执业估价师，或转型为资产经理、房地产开发顾问。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
+
+Junior valuers can advance to senior valuer, team leader, or obtain API certification to become a registered practicing valuer, or transition to asset manager or real estate development consultant.
+
+**Tasks most exposed to AI:**
+
+- Automatically collects comparable sales data from public databases and listing websites
+- Generate standardized initial valuation report text and tables
+- Quantitative value adjustment calculations based on historical data and market trends
+- Check calculation errors and formatting consistency in appraisal reports
+
+**Where AI augments the role:**
+
+- Use AI models to quickly analyze large volumes of transaction data, identifying market trends and anomalies
+- Automatically assess location and surrounding environment using Geographic Information Systems (GIS) and street-view imagery
+- Uses parametric models to test the sensitivity of results to different valuation assumptions.
+- Automatically generate client presentation materials with data visualizations and interactive maps
+- Using natural language processing to extract key information from lease contracts and planning documents
+
+**Human moat:**
+
+- Subjective judgment and experience valuation for unique properties (e.g., historic buildings, industrial sites)
+- Handle complex appraisals involving rare property issues, legal restrictions, or environmental risks
+- Communicate and negotiate with clients, lawyers, and developers in person and explain valuation logic
+- Provides expert testimony in litigation or tax disputes
+
+**Skills to build:**
+
+- Proficiency in SQL and Python for automated data scraping and cleaning
+- Learning to use AI tools specialized for real estate appraisal (e.g., HouseCanary, Geophy)
+- Improve GIS and spatial data analysis skills for site assessment
+- Strengthen communication and negotiation skills for complex client scenarios.
+- Learn basic machine learning concepts to understand AI model bias and limitations
+- Obtain advanced certifications (e.g., AACI, P.App) to strengthen qualifications
+
+**Key growth areas:**
 
 - Property Valuation
 - Urban Development
@@ -62,69 +96,68 @@ Valuers assess the market value of real estate, business assets, and equipment f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent Visa） | 满足MLTSSL（Valuer在MLTSSL上），通过189永居签证移民。 |
-| Subclass 190（Skilled Nominated Visa） | 州担保移民，各州均有需求，额外5分加分。 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，工作3年后可转186永居。 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保，满足条件后转191永居。 |
+| Subclass 189 (Skilled Independent Visa) | Meets MLTSSL (Valuer is on MLTSSL), eligible for 189 permanent residence visa. |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored immigration: each state has demand, with an additional 5 points. |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, eligible for 186 permanent residency after 3 years of work. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, then transition to the 191 permanent residence visa after meeting conditions. |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Valuer？**
-- 对房地产市场和资产价值有浓厚兴趣的人
-- 具备良好分析能力和注重细节的人
-- 喜欢独立工作且能承受出差的人
-
-**谁不适合学Valuer？**
-- 不喜欢频繁实地考察和与客户沟通的人
-- 对数字和市场波动感到压力的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in real estate market and asset valuation
+- People with strong analytical skills and attention to detail
+- People who enjoy independent work and can handle frequent travel
+
+**Who is not suited**
+- Dislikes frequent site visits and client communication
+- Those who feel stressed by numbers and market fluctuations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for valuers?**
+A: Entry-level valuer salary about AUD 55,000-75,000, mid-level AUD 75,000-100,000, senior AUD 100,000-140,000. Holding CPV certification or working in high-end commercial sectors yields higher pay.
+
+**Q: Is it easy to migrate to Australia as a valuer?**
+A: Relatively easy. Valuers are on the MLTSSL, can apply for 189/190/491/482 and other visas. Need to pass VETASSESS assessment and meet English requirements.
+
+**Q: What qualifications are needed to become an appraiser?**
+A: Typically requires an API-recognized bachelor's degree, followed by 2 years of relevant work experience before applying for CPV certification. Skilled migration also requires a VETASSESS assessment.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Valuer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Valuer?**
-答：Junior valuers earn around AUD 55,000-75,000; mid-level AUD 75,000-100,000; senior AUD 100,000-140,000. CPV certification or commercial focus can increase earnings.
-
-**问：Is it easy for a Valuer to migrate to Australia?**
-答：Relatively easy. Valuers are on MLTSSL, eligible for 189/190/491/482 visas. Must pass VETASSESS skills assessment and meet English requirements.
-
-**问：What qualifications does a Valuer need?**
-答：An API-accredited bachelor's degree, two years of experience to become a Certified Practising Valuer, and VETASSESS assessment for migration.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

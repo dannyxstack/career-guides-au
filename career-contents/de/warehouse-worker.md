@@ -1,61 +1,93 @@
-# Warehouse Worker（Warehouse Worker）职业分析 · DE
+# Warehouse Worker — career analysis · Germany
 
-**职业代码：5131 – Warehouse Worker。**
+**Occupation code: 5131 (KldB)**
 
-Warehouse workers handle receiving, storage, order picking, and shipping of goods to ensure efficient warehouse operations. The profession has stable demand in Germany's logistics sector, especially with e-commerce growth.
+Warehouse logistics workers are responsible for receiving, storing, picking, and shipping goods, ensuring efficient warehouse operations. This occupation has stable demand in Germany's logistics industry, especially with rapid growth in the e-commerce sector.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（Ausbildung） | 3年（双元制） | —（双元制培训期间由企业发放津贴，学费全免） |
-| 短期课程/证书 | 3-6个月 | $1,000~$3,000（例如叉车证或仓储管理证书，费用自付） |
+| Vocational training (Ausbildung) | 3 years (dual system) | $0~$0 (During the dual training system, companies provide allowances and tuition is free.) |
+| Short courses/certificates | 3-6 months | $1,000~$3,000 (E.g., forklift license or warehouse management certificate, at own expense) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证 | 德国TÜV或DEKRA | 可选 | 非强制但就业必备，需理论+实践考试 |
-| 仓库运营职业培训 | 德国工商会（IHK） | 可选 | Fachlagerist（2年）或Fachkraft für Lagerlogistik（3年） |
-| 职业资质认证（Anerkennung） | 德国联邦劳工局 | 必备 | 海外学历需认证，通常需德语B1以上 |
+| Professional qualification certification (Anerkennung) | German Federal Employment Agency | Required | Overseas qualifications need assessment, usually German B1 or above |
+| Forklift operation certificate | German TÜV or DEKRA | Optional | Not mandatory but essential for employment, requires theoretical and practical exams |
+| Warehouse operations vocational training | German Chamber of Commerce and Industry (IHK) | Optional | Fachlagerist (2 years) or Fachkraft für Lagerlogistik (3 years) |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 450,000。德国仓库物流职业因电商与供应链扩张需求持续走高。据联邦就业局预测，未来十年岗位增长约5%，就业市场稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 450,000. Warehouse logistics careers in Germany are in high demand due to e-commerce and supply chain expansion. According to the Federal Employment Agency, job growth is projected at about 5% over the next decade, with a stable job market.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$31,000 | 含奖金，东部略低 |
-| 中级（4-7年） | $32,000~$38,000 | 含加班补贴 |
-| 高级（8年以上） | $38,000~$45,000 | 含管理责任津贴 |
+| Median salary | $36,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $26,000~$31,000 | Including bonuses; slightly lower in the east |
+| Mid-level (4-7 years) | $32,000~$38,000 | Including overtime allowance |
+| Senior (8+ years) | $38,000~$45,000 | Includes management responsibility allowance |
+| average salary | $39,288 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 从仓储物流员可晋升为仓库主管、物流经理或供应链专家。通过进修物流管理文凭或考取叉车/危险品证书可加速发展。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+Warehouse logistics workers face automation systems (e.g., AGVs, auto-sorting) replacing repetitive tasks, but e-commerce growth and supply chain complexity create new demand. Skill requirements upgrade under human-machine collaboration; total positions may remain stable but structure changes.
+
+You can advance from warehouse logistics clerk to warehouse supervisor, logistics manager, or supply chain specialist. Accelerate development by pursuing a logistics management diploma or obtaining a forklift/dangerous goods certificate.
+
+**Tasks most exposed to AI:**
+
+- Cargo scanning and sorting
+- Inventory counting and data entry
+- Manual handling and palletizing
+- Order Picking and Packing
+
+**Where AI augments the role:**
+
+- Smart picking system aids in improving efficiency
+- Real-time data analysis optimizes inventory layout
+- Automated equipment monitoring and fault alerts
+- RFID/IoT tracking enables visual logistics
+
+**Human moat:**
+
+- Exception handling and troubleshooting
+- Flexible picking of complex orders.
+- Warehouse layout optimisation and process improvement
+- Customer communication and complaint handling
+
+**Skills to build:**
+
+- Warehouse management system (WMS) operation
+- Basic maintenance of automated equipment (AGV, robotic arms)
+- Data analysis and report interpretation
+- IoT device management
+- Basic programming (e.g., Python scripting)
+
+**Key growth areas:**
 
 - E-commerce boom
 - Supply chain resilience
@@ -64,66 +96,68 @@ Warehouse workers handle receiving, storage, order picking, and shipping of good
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需获得德国企业工作合同，并通过资质认证（Anerkennung），非紧缺职业需联邦就业局审查。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，无需预合同，可在德求职一年。适合有认证资质者。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月找工作，需证明足够资金。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Need a German job contract and pass qualification recognition (Anerkennung); non-shortage occupations require Federal Employment Agency review. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, no pre-contract required, can job hunt in Germany for one year. Suitable for those with certified qualifications. |
+| Subclass Job Seeker (Job Seeker Visa) | Allows 6 months stay in Germany to look for a job, requiring proof of sufficient funds. |
+
+**PR friendliness: medium-high (★★★☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Warehouse Worker？**
-- 细心有条理，喜欢动手操作
-- 愿意从事体力活动，能接受轮班
-- 对物流行业有长期发展兴趣
+**Who is suited**
+- Meticulous and organized, enjoys hands-on work
+- Willing to engage in physical work and accept shift rotations
+- Long-term interest in developing a career in the logistics industry
 
-**谁不适合学Warehouse Worker？**
-- 不喜重复性体力工作
-- 对节奏快的压力环境不适应
+**Who is not suited**
+- Dislike repetitive physical work
+- not suited to fast-paced stressful environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for warehouse logistics workers?**
+A: Entry-level annual salary approx. €26,000-31,000; mid to senior level up to €45,000 including overtime and bonuses. Eastern Germany slightly lower than Western Germany.
+
+**Q: How can non-EU individuals immigrate to Germany through warehousing and logistics occupations?**
+A: Requires a contract with a German company and professional qualification recognition (Anerkennung). Eligible for skilled migration visa or opportunity card. German B1 or higher is recommended.
+
+**Q: What are the career advancement paths for warehouse logistics staff?**
+A: Can progress to warehouse supervisor, logistics manager, or supply chain specialist. Further development can be accelerated by studying logistics management diplomas or dangerous goods certificates.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Warehouse Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for warehouse workers?**
-答：Entry-level annual salary is about €26,000-€31,000, mid-career up to €38,000, and senior up to €45,000, including overtime and bonuses. Eastern Germany pays slightly less.
-
-**问：How can non-EU nationals immigrate to Germany through warehouse work?**
-答：You need a job offer from a German company and professional qualification recognition (Anerkennung). You can apply for a skilled worker visa or opportunity card. German B1 or higher is recommended.
-
-**问：What are the career advancement paths for warehouse workers?**
-答：You can advance to warehouse supervisor, logistics manager, or supply chain specialist. Further training in logistics management or hazardous goods handling can accelerate growth.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

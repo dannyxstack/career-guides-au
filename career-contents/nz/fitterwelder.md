@@ -1,59 +1,94 @@
-# Fitter-Welder（Fitter-Welder）职业分析 · 新西兰
+# Fitter-Welder — career analysis · New Zealand
 
-**职业代码：323213 – Fitter-Welder。**
+**Occupation code: 323213 (ANZSCO)**
 
-Fitter-welders fabricate and repair metal parts and structures using welding and fitting techniques. They are in high demand across New Zealand's manufacturing, construction, and mining sectors, with a direct residence pathway under the Green List due to skill shortages.
+Welder-Assemblers use welding and assembly techniques to manufacture and repair metal parts and structures, a key technical role in New Zealand's manufacturing, construction, and mining industries. Due to local skilled labor shortages, this occupation qualifies for the Green List direct residence pathway, offering good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学徒制（New Zealand Apprenticeship） | 3-4年 | —（政府资助学徒，雇主通常承担部分费用，学徒期间有工资） |
-| 证书课程（Level 4） | 1-2年 | $8,000~$15,000（私立培训机构和理工学院提供，含材料费） |
+| New Zealand Apprenticeship | 3-4 years | $0~$5,000 (Government-funded apprenticeship; employers usually cover part of the costs; apprentices receive wages during the training) |
+| Certificate course (Level 4) | 1-2 years | $8,000~$15,000 (Provided by private training institutions and polytechnics, including material fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰国家焊接证书（Level 4） | 新西兰资格认证局 (NZQA) | 必备 | 行业标准资质，雇主普遍要求 |
-| 新西兰注册焊工资格 | 新西兰工业培训中心 (ITC) | 必备 | 在某些行业（如压力容器焊接）强制要求注册 |
-| 国际焊接工程师 (IWE) | 国际焊接学会 (IIW) | 可选 | 可进一步晋升为工程师职位 |
+| New Zealand National Welding Certificate (Level 4) | New Zealand Qualifications Authority (NZQA) | Required | Industry standard qualifications, commonly required by employers |
+| New Zealand Registered Welder qualification | New Zealand Industry Training Centre (ITC) | Required | Registration is mandatory in some industries (e.g., pressure vessel welding) |
+| International Welding Engineer (IWE) | International Institute of Welding (IIW) | Optional | Can further advance to engineer positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 8,200。新西兰建筑业和制造业持续增长，对焊工-装配工的需求稳定。技能短缺报告显示该职业长期缺人，未来五年就业机会强劲，尤其在奥克兰、坎特伯雷和怀卡托地区。
+**Job demand: high (★★★★☆).** National workforce approx. 8,200. New Zealand's construction and manufacturing sectors are growing steadily, driving stable demand for welder-fitters. Skills shortage reports indicate a long-term shortfall, with strong job opportunities over the next five years, especially in Auckland, Canterbury, and Waikato.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 学徒期或刚取得证书的焊工 |
-| 中级（3-5年） | $55,000~$70,000 | 独立工作的合格焊工 |
-| 高级（5年以上） | $70,000~$90,000 | 经验丰富者或主管 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Apprentice or newly certified welder |
+| Mid-level (3–5 years) | $55,000~$70,000 | Qualified welder working independently |
+| Senior (5+ years) | $70,000~$90,000 | Experienced personnel or supervisors |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 从学徒或初级焊工起步，积累经验后可晋升为高级焊工、主管或车间经理；部分人通过取得国际焊接工程师等资质转向高薪工程岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
+
+Start as an apprentice or junior welder, gain experience to advance to senior welder, supervisor, or workshop manager; some transition to high-paying engineering roles by obtaining qualifications like International Welding Engineer.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and optimization of complex part paths
+- Robotic automated welding for repetitive welds.
+- Automatic cutting and layout based on CAD models
+- Offline programming and monitoring of batch welding of standard parts
+
+**Where AI augments the role:**
+
+- AI-assisted defect detection and X-ray image interpretation
+- Real-time welding parameter recommendations (current/speed/wire feed).
+- Digital twin simulation to predict deformation and stress
+- Collaborative robots perform welding in high-altitude or hazardous environments.
+- AI-driven cloud database query for welding parameters
+
+**Human moat:**
+
+- Hand-eye coordination and fine-tuning for on-site welding of complex structures
+- Decision-making for abnormal conditions (irregular parts/material defects)
+- Communication and safety supervision in multi-trade collaboration
+- Tactile control for non-standard hand grinding and restoration
+- Comprehensive assessment of long-term fatigue life of welded structures
+
+**Skills to build:**
+
+- Collaborative robot programming and debugging (Fanuc/ABB)
+- Use of digital welding simulation software
+- AI image recognition assists weld inspection
+- Industrial IoT and sensor data analysis
+- Project management and quality systems (CWB).
+- Knowledge of environmentally friendly welding processes and materials
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skill Shortage
@@ -62,68 +97,67 @@ Fitter-welders fabricate and repair metal parts and structures using welding and
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 焊工-装配工在绿色清单第一梯队，可直接申请居留，无需先工作；需全职工作offer且工资不低于中位数 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（如学历+工作经验），可申请技术移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如果不符合直接居留条件，可通过认证雇主工签先工作，后续转居留 |
+| Subclass Green List T1 (Straight to Residence Visa) | Welder-assembler is on the Green List Tier 1, can directly apply for residency without prior work; requires a full-time job offer with salary not below the median. |
+| Subclass SMC (Skilled Migrant Category) | If you meet the 6-point system requirements (e.g., qualifications + work experience), you can apply for skilled migration |
+| Subclass AEWV (Accredited Employer Work Visa) | If you don't meet direct residence conditions, you can work under a accredited employer work visa first and later convert to residence |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: very high (★★★★½).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Fitter-Welder？**
-- 喜欢动手操作、专注技术细节的人
-- 适应户外或工厂环境、能吃苦耐劳者
-- 愿意在短缺行业扎根并寻求稳定高薪的人
-
-**谁不适合学Fitter-Welder？**
-- 对噪音、高温和体力劳动不耐受者
-- 不喜欢重复性精密工作的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and focus on technical details
+- Adaptable to outdoor or factory environments, able to endure hardship
+- People willing to settle in shortage industries and seek stable high salaries
+
+**Who is not suited**
+- Those intolerant to noise, high temperatures, and physical labor.
+- People who dislike repetitive precision work
+
+---
+
+## 8. FAQ
+
+**Q: What is the annual salary for a Welder-Fabricator in New Zealand?**
+A: Entry-level approximately NZD 45,000-55,000, mid to senior level NZD 70,000-90,000; overtime and specialized welding skills can increase earnings.
+
+**Q: Can a welder-fitter immigrate through the Green List?**
+A: Yes. This occupation is on the Green List Tier 1 (Straight to Residence), meeting the median wage and having a full-time job offer allows direct residency application.
+
+**Q: What training do NZ welder-fitters require?**
+A: Usually complete a 3-4 year apprenticeship and obtain a New Zealand National Certificate in Welding Level 4, or through a 1-2 year certificate program. Work and study during the apprenticeship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | very high (★★★★½) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
-
-Fitter-Welder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for a fitter-welder in New Zealand?**
-答：Entry-level around NZ$45,000-55,000, mid to senior NZ$55,000-90,000; overtime and specialized skills can increase earnings.
-
-**问：Can a fitter-welder migrate via the Green List?**
-答：Yes, it’s on Tier 1 (Straight to Residence). You need a full-time job offer paying at least the median wage to apply directly for residence.
-
-**问：What training is needed for a fitter-welder in New Zealand?**
-答：Typically a 3-4 year apprenticeship with the National Certificate in Welding Level 4, or a 1-2 year certificate program. Apprentices work and learn simultaneously.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

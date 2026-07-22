@@ -1,59 +1,89 @@
-# Solid Mineral Extraction Worker（Solid Mineral Extraction Worker）职业分析 · FR
+# Solid Mineral Extraction Worker — career analysis · France
 
-**职业代码：F1402 – Solid Mineral Extraction Worker。**
+**Occupation code: F1402 (ROME)**
 
-Operates drilling, blasting, and loading equipment to extract solid minerals (coal, metal ores, industrial minerals) from underground or open-pit mines, ensuring safe and efficient production.
+Responsible for mining solid minerals (such as coal, metal ores, industrial minerals) from underground or open-pit mines, operating drilling, blasting, loading, and other equipment to ensure safe and efficient mining operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 采矿操作工 | 2年（CAP） | —（公立学校免费或低学费，可学徒制） |
-| Bac Pro 采矿与隧道工程 | 3年（Bac Pro） | —（公立学校免费，或学徒制带薪） |
+| CAP Mining Operator | 2 years (CAP) | $0~$3,000 (Public schools offer free or low tuition and apprenticeships are available) |
+| Bac Pro mining and tunnel engineering | 3 years (Bac Pro) | $0~$5,000 (Public schools are free, or apprenticeships are paid) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP 矿山操作工 | 矿业行业委员会 (CPNEFP des Mines) | 可选 | 行业认证，非强制但就业必备 |
-| 爆破许可证 (CQP Tir) | 矿业行业委员会 | 必备 | 从事爆破作业必需 |
-| 安全培训 (C1/C2/C3) | 矿业安全机构 | 必备 | 进入矿井必需的安全资格 |
+| Blasting Permit (CQP Tir) | Mining Industry Committee | Required | Mandatory for blasting work |
+| Safety Training (C1/C2/C3) | Mining safety agencies | Required | Required safety qualifications to enter the mine |
+| CQP Mine Operator | Mining Industry Council (CPNEFP des Mines) | Optional | Industry certification, not mandatory but essential for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。法国矿业（尤其是金属和工业矿物）因能源转型对锂、钴等需求上升，部分矿山重启或扩建，但传统煤矿持续萎缩。就业机会主要集中在专业采矿公司，需适应偏远地区工作。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. French mining (especially metals and industrial minerals) has seen increased demand for lithium, cobalt, and other minerals due to the energy transition. Some mines have restarted or expanded, but traditional coal mines continue to shrink. Job opportunities are mainly concentrated in specialized mining companies, requiring adaptation to working in remote areas.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$32,000 | 含奖金和艰苦津贴 |
-| 中级（3-8年） | $32,000~$38,000 | 含技能津贴 |
-| 高级（8年以上） | $38,000~$45,000 | 含班长或技术专家津贴 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$32,000 | Including bonuses and hardship allowances |
+| Mid-level (3–8 years) | $32,000~$38,000 | Including skill allowance |
+| Senior (8+ years) | $38,000~$45,000 | Includes allowance for team leader or technical expert |
+| average salary | $28,370 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：正面（★★★½☆）。** 可从初级操作工晋升为钻机操作手、爆破技术员或采矿班长；通过经验积累和培训（如CQP）可转向矿山监督、安全协调等岗位。部分人员向海外项目或可再生能源原材料开发转移。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Solid mineral miners face the dual impact of automation and AI: repetitive tasks are being highly replaced, while on-site supervision, emergency response, and equipment maintenance—tasks that rely on human judgment—are being enhanced by AI, resulting in a reduction in overall job positions but increased value.
+
+Candidates can be promoted from junior operator to rig operator, blasting technician, or mining team leader; Through experience accumulation and training (such as CQP), they can transition to positions such as mine supervision and safety coordination. Some personnel are shifting to overseas projects or the development of renewable energy raw materials.
+
+**Tasks most exposed to AI:**
+
+- Through AI visual recognition and autonomous driving technology, automated drilling and loading equipment can autonomously complete borehole positioning, ore loading, and transportation without manual operation
+- The AI optimization system for blasting solutions automatically calculates charge amounts and initiation sequences based on geological data, replacing manual design
+- The AI monitoring system analyzes equipment vibration, temperature, and other parameters in real time, automatically issues fault warnings and arranges maintenance, replacing manual inspections
+
+**Where AI augments the role:**
+
+- AI-assisted geological modeling software helps workers adjust mining strategies based on real-time sensor data, improving ore recovery rates
+- AR headset overlays drilling and blasting point coordinates to reduce measurement errors and improve operational accuracy
+- The AI safety warning system analyzes environmental data (gas, dust, landslide risk) and proactively reminds workers to avoid danger
+
+**Human moat:**
+
+- On-site judgment and emergency response capabilities for sudden accidents (such as collapses or equipment jamming).
+- Flexible adaptation to complex terrain in mining areas: manual equipment operation and maintenance in unstructured environments
+- Human supervision responsibility: Review AI system outputs and assume ultimate security and compliance responsibilities
+
+**Skills to build:**
+
+- Operation and commissioning of intelligent mining systems (such as automated drilling rig control panels)
+- Basic Data Analysis: Extract key metrics from AI reports and make decisions
+- Drone/robot inspection and maintenance skills
+- Operation of digital safety management systems (such as real-time gas monitoring platforms)
+- Remote control equipment operation (such as remote loaders)
+- Cross-departmental communication: Collaborate with geological engineers and AI system suppliers
+
+**Key growth areas:**
 
 - Energy transition minerals
 - Mine modernization
@@ -62,65 +92,67 @@ Operates drilling, blasting, and loading equipment to extract solid minerals (co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供工作合同，通过法国劳动局审批 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如工程师或管理人员 |
-| Subclass Carte bleue UE（EU Blue Card） | 需年薪达阈值的紧缺职业，可提速至快速通道 |
+| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract and obtain approval from the French Labor Bureau |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals, such as engineers or managers |
+| Subclass Carte bleue UE (EU Blue Card) | Occupations in short demand that require annual salary thresholds can be accelerated to the fast-track track |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Solid Mineral Extraction Worker？**
-- 身体强健、适应偏远和地下工作环境的人
-- 愿意接受行业培训和认证的人
-- 对能源转型矿产有热情的人
-
-**谁不适合学Solid Mineral Extraction Worker？**
-- 不喜户外或封闭空间工作的人
-- 对体力劳动和高强度节奏不耐受的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Physically strong individuals who can adapt to remote and underground work environments
+- Those willing to undergo industry training and certification
+- People passionate about energy transition minerals
+
+**Who is not suited**
+- People who dislike working outdoors or in enclosed spaces
+- People who are intolerant to physical labor and high-intensity rhythms
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for solid minerals miners in France?**
+A: Entry-level approximately 28,000-32,000 euros per year, including allowances; mid-level 32,000-38,000; senior up to 45,000 euros or more.
+
+**Q: How can foreign workers immigrate to France through this occupation?**
+A: You can apply for the Salarié work visa (employer sponsorship) or Passeport Talent (high-skilled pathway), or apply for an EU Blue Card. This occupation is in high demand and helps with approvals.
+
+**Q: What training is required to become a solid mineral miner?**
+A: Usually hold CAP or Bac Pro related diplomas and have passed industry CQP certification. Blasting operations require additional blasting permits. Safety training (C1/C2/C3) is mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 正面（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Solid Mineral Extraction Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a solid mineral extraction worker in France?**
-答：Entry-level around €28,000-32,000 per year including allowances; mid-level €32,000-38,000; senior up to €45,000+.
-
-**问：How can foreign workers immigrate via this occupation?**
-答：Options include Salarié visa (employer-sponsored), Passeport Talent (high-skilled), or EU Blue Card. Shortage occupation facilitates approval.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

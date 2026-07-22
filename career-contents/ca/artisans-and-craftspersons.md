@@ -1,58 +1,90 @@
-# Artisans and craftspersons（Artisans and craftspersons）职业分析 · 加拿大
+# Artisans and craftspersons — career analysis · Canada
 
-**职业代码：53124 – Artisans and craftspersons。**
+**Occupation code: 53124 (NOC)**
 
-Artisans and craftspersons create functional or decorative items by hand using traditional or modern techniques, such as pottery, wood carving, jewelry, and glassware. They may design, produce, repair, and sell their work, often operating from studios or small workshops.
+Artisans and craftspeople use traditional or modern techniques to produce functional or decorative items by hand, such as ceramics, woodcarvings, jewelry, and glassware. Work may involve designing, making, restoring, and selling handicrafts, typically in a studio or small workshop individually or in small teams.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 职业培训证书 | 1-2年 | $5,000~$20,000（社区学院或私立学校手工艺课程） |
-| 学徒制 | 2-4年 | —（边工作边学习，收入较低） |
+| Vocational training certificate | 1-2 years | $5,000~$20,000 (Community college or private school craft courses) |
+| Apprenticeship | 2-4 years | $0~$5,000 (Low income while working and studying) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求 | 无 | 可选 | 通常不需要正式执照，但专业协会认证可提升信誉 |
-| 省级行业认证（部分省份） | 省级学徒机构 | 可选 | 如珠宝制作等特定行业可能要求认证 |
+| No mandatory requirements | None | Optional | A formal license is usually not required, but professional association certification can enhance credibility |
+| Provincial industry certification (some provinces) | Provincial apprenticeship authority. | Optional | Specific industries, such as jewelry making, may require certification. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 25,000。加拿大手工艺行业就业前景稳定，但竞争激烈。市场需求受旅游、本地消费和线上销售驱动。预计未来几年岗位增长缓慢，退休人员将带来部分空缺。部分地区（如魁北克、BC省）对特色手工艺有较高需求。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 25,000. Employment prospects in Canada's handicraft industry are stable but competitive. Market demand is driven by tourism, local consumption, and online sales. Job growth is expected to be slow in the coming years, with retirements creating some vacancies. Certain regions (e.g., Quebec, BC) have higher demand for specialty crafts.
 
-**竞争度：高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | 依赖销售，收入不稳定 |
-| 中级（3-7年） | $35,000~$50,000 | 建立客户群后收入提升 |
-| 高级（7年以上） | $50,000~$80,000 | 知名工匠收入可达更高，但上限较低 |
+| Median salary | $41,600 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $25,000~$35,000 | Sales-dependent, income unstable |
+| Mid-level (3–7 years) | $35,000~$50,000 | Income increases after building a client base. |
+| Senior (7+ years) | $50,000~$80,000 | Renowned craftspeople can earn higher incomes, but the ceiling is low. |
+| average salary | $43,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 晋升路径有限，通常从学徒或助手开始，积累经验后成为独立工匠或开设工作室。部分人转向教学、展览策划或批发销售。少数优秀工匠可成为大师级人物，获得奖项或政府资助。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
+
+Limited career progression, often starting as apprentices or assistants, then becoming independent artisans or opening studios. Some move into teaching, exhibition curation, or wholesale sales. A few outstanding artisans can become masters, receiving awards or government funding.
+
+**Tasks most exposed to AI:**
+
+- Use software to generate standardized product or pattern design drafts
+- Write product descriptions, marketing copy, and social media content.
+- Clerical work managing inventory, orders, and customer records
+- Conduct basic market trend analysis to guide creative direction
+
+**Where AI augments the role:**
+
+- Using generative AI to explore new materials, shapes, and process combinations.
+- Achieve highly personalized customization by analyzing customer preference data through AI
+- Use AI-assisted tools to optimize mathematical models for intricate carving or inlay work
+
+**Human moat:**
+
+- High-level craftsmanship and tactile material experience
+- Original artistic aesthetics and cultural narrative ability
+- Impromptu customer communication and understanding of customised needs
+- Deep restoration and heritage skills for traditional crafts
+
+**Skills to build:**
+
+- Using AI design tools (e.g., Midjourney, Stable Diffusion) for creative iteration
+- Learn digital modeling and 3D printing-assisted production techniques
+- Social media and personal branding management skills
+- Customer experience design and personalized service capability
+- Knowledge of composite materials and sustainable processes
+- Basic data analysis and pricing strategy
+
+**Key growth areas:**
 
 - Self-employment
 - E-commerce
@@ -61,68 +93,67 @@ Artisans and craftspersons create functional or decorative items by hand using t
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 如果拥有相关学位和至少一年工作经验，可通过FSW申请移民，但手工艺职业通常不属于NOC 0/A/B类别，可能不符合要求。 |
-| Subclass PNP（Provincial Nominee Program） | 某些省份可能提名手工艺人才，特别是与旅游文化相关的省提名项目。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 如果获得加拿大雇主的工作offer，雇主可申请LMIA，但手工艺行业雇主较少，难度较大。 |
+| Subclass Express Entry (Federal Skilled Worker Program) | If you have a relevant degree and at least one year of work experience, you can apply for immigration through FSW, but craft occupations are usually not in NOC 0/A/B categories and may not meet requirements. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may nominate craft talents, especially provincial nominee programs related to tourism and culture. |
+| Subclass LMIA (Labour Market Impact Assessment) | If you receive a job offer from a Canadian employer, the employer can apply for an LMIA, but employers in the handicraft industry are scarce, making it difficult. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Artisans and craftspersons？**
-- 有手工创作热情和耐心的人
-- 愿意接受不稳定收入和自雇状态的人
-- 擅长营销和社交媒体的独立工作者
-
-**谁不适合学Artisans and craftspersons？**
-- 追求稳定高收入的人
-- 不喜欢独立工作或缺乏创业精神的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with passion and patience for handcrafting.
+- Willing to accept unstable income and self-employment status
+- Independent worker skilled in marketing and social media
+
+**Who is not suited**
+- People seeking stable high income
+- Not suitable for those who dislike independent work or lack entrepreneurial spirit
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of artisans?**
+A: Junior artisan annual income approx. CAD 25,000-35,000, intermediate CAD 35,000-50,000, senior CAD 50,000-80,000. Income highly dependent on sales ability and market demand, with significant fluctuations.
+
+**Q: Can artisans immigrate to Canada through skilled migration?**
+A: Relatively difficult. Craft occupations typically don't meet the 0/A/B requirements of Federal Express Entry, but some provincial nominee programs (e.g., BC, Quebec) may accept them. Employer-sponsored LMIA is an alternative, but employers are hard to find.
+
+**Q: What are the career development prospects for craftsmen?**
+A: Limited promotion opportunities; most remain self-employed. Experienced craftsmen can move into teaching, open studios, or wholesale. Building a personal brand and online sales channels is key to increasing income.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Artisans and craftspersons的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for artisans?**
-答：Entry-level artisans earn about CAD 25,000-35,000 annually, mid-level CAD 35,000-50,000, and senior CAD 50,000-80,000. Income varies greatly based on sales and market demand.
-
-**问：Can artisans immigrate to Canada through skilled migration?**
-答：It is challenging. Craft occupations typically do not meet NOC 0/A/B requirements for Express Entry, but some provincial nominee programs (e.g., BC, Quebec) may consider them. Employer-based LMIA is an alternative but employer sponsorship is rare.
-
-**问：What are the career prospects for artisans?**
-答：Career advancement is limited; most remain self-employed. Experienced artisans may move into teaching, opening studios, or wholesale. Building a personal brand and online sales are key to higher income.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

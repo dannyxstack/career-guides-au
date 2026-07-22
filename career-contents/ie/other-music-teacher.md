@@ -1,61 +1,97 @@
-# Other Music Teacher（Other Music Teacher）职业分析 · IE
+# Other Music Teacher — career analysis · Ireland
 
-**职业代码：2354 – Other Music Teacher。**
+**Occupation code: 2354 (ISCO08)**
 
-Other Music Teachers provide private or group instruction in musical instruments, voice, or theory, often in music schools, community centers, or private studios.
+Other music teachers include private music teachers, community music educators, etc., providing personalized instruction in instruments, vocals, and music theory. Work settings include music schools, community centers, or private studios.
 
-> 注：本职业为**非技术移民职业**，不在IE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（本科） | $10,000~$20,000（学费因大学及国籍而异，欧盟学生约€10,000-€20,000/年） |
-| 硕士 | 1-2年 | $15,000~$25,000（音乐表演或教育硕士，学费约€15,000-€25,000/年） |
+| Bachelor's degree | 4 years (bachelor's degree) | $10,000~$20,000 (Tuition fees vary by university and nationality, EU students around €10,000-€20,000/year) |
+| Master's degree | 1-2 years | $15,000~$25,000 (Master of Music Performance or Education, tuition approx. €15,000-€25,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 音乐学位 | 爱尔兰大学或音乐学院 | 可选 | 如都柏林皇家爱尔兰音乐学院或科克理工学院 |
-| 教学资格证书 | 爱尔兰教学委员会 | 可选 | 若在学校任教则需，私人教师非强制 |
-| 英国皇家音乐学院联合委员会（ABRSM）等级考试 | ABRSM | 可选 | 高级别证书(8级或以上)可体现专业水平 |
+| Music degree | Irish university or music college | Optional | such as the Royal Irish Academy of Music in Dublin or Cork Institute of Technology |
+| Teaching qualification certificate | Teaching Council of Ireland | Optional | Required if teaching at a school, not mandatory for private tutors. |
+| Associated Board of the Royal Schools of Music (ABRSM) graded exams | ABRSM | Optional | Advanced certificates (level 8 or above) can demonstrate professional competence |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,500。爱尔兰对音乐教育需求稳定，随着家长重视素质教育及成人兴趣学习增长，私人音乐教师有持续市场。但岗位多为兼职或自雇，全职机会有限。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,500. Ireland has stable demand for music education; with parents emphasising holistic education and growing adult interest learning, there is a sustained market for private music teachers. However, positions are mostly part-time or self-employed, with limited full-time opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 兼职或初创阶段，年收入可能较低 |
-| 中级（3-8年） | $30,000~$45,000 | 稳定学生群后，全职或高课时收入 |
-| 高级（8年以上） | $45,000~$60,000 | 资深教师或工作室负责人，含额外收入 |
+| Median salary | $37,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$30,000 | Part-time or start-up phase, annual income may be lower |
+| Mid-level (3–8 years) | $30,000~$45,000 | After stabilizing student numbers, full-time or high-hour income |
+| Senior (8+ years) | $45,000~$60,000 | Senior teacher or studio manager, including additional income |
+| average salary | $38,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级私人教师可积累学生口碑后提高收费；部分教师进入音乐学校担任全职讲师；少数可发展成为音乐工作室负责人或考级考官。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Other music teacher roles present mixed prospects: automation will replace basic music theory and accompaniment tasks, but personalized teaching and emotional connection remain human advantages.
+
+Junior private tutors can increase fees after building a student reputation; some tutors become full-time lecturers in music schools; a few may develop into music studio directors or exam graders.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate standard etudes and sheet music
+- Automatically assess students' basic pitch and rhythm
+- Provides standardized music theory courses
+- Generate accompaniment audio for student practice
+- Analyse student performance and progress via AI
+
+**Where AI augments the role:**
+
+- Using AI to analyze performance details and provide personalized feedback
+- Use music arrangement software to create teaching materials
+- Expand student recruitment through online platforms
+- Generate customized practice plans using AI
+- Use AI to assist in creating demo tracks in different styles
+
+**Human moat:**
+
+- Provide emotional support and learning motivation.
+- Teach improvisation and creative expression
+- Personalize teaching methods to suit student characteristics
+- Establish long-term student-teacher trust relationships
+- Organize offline ensemble and performance activities
+
+**Skills to build:**
+
+- Digital Music Production and Audio Editing
+- AI teaching tool usage and customization
+- Online teaching platform operations
+- Analyze data to interpret student performance.
+- Creative teaching method design
+- Cross-genre music performance ability
+
+**Key growth areas:**
 
 - Part-time
 - Self-employment
@@ -64,66 +100,68 @@ Other Music Teachers provide private or group instruction in musical instruments
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，需雇主担保且年薪不低于€30,000，私人教师较难满足 |
-| Subclass Stamp 4 (EU Family M（EU Family Member Residence Card） | 欧盟公民家属可自由工作，无需额外许可 |
-| Subclass Working Holiday Auth（Working Holiday Authorisation） | 针对特定国家年轻人，允许在爱尔兰兼职工作，适合短期教学 |
+| Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship and annual salary no less than €30,000; private tutors find it difficult to meet |
+| Subclass Stamp 4 (EU Family M (EU Family Member Residence Card) | Family members of EU citizens can work freely without additional permits |
+| Subclass Working Holiday Auth (Working Holiday Authorisation) | Targeted at young people from specific countries, allows part-time work in Ireland, suitable for short-term teaching |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Other Music Teacher？**
-- 热爱音乐教学，有耐心和沟通能力的人
-- 具备良好乐器或声乐技能，希望灵活安排工作时间的人
-- 有创业精神，愿意自行招生的自由职业者
+**Who is suited**
+- People who love music teaching and have patience and communication skills
+- People with good instrumental or vocal skills who want flexible working hours
+- Entrepreneurial individuals willing to recruit their own students as freelancers
 
-**谁不适合学Other Music Teacher？**
-- 希望稳定全职收入及福利的人
-- 不喜欢与儿童或青少年打交道的人
+**Who is not suited**
+- Those seeking stable full-time income and benefits
+- People who dislike working with children or adolescents
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for music teachers in Ireland?**
+A: Private music teacher income varies widely: junior around €20k-€30k/year, senior can reach €45k-€60k/year, but mostly part-time or self-employed.
+
+**Q: Is it easy for foreigners to get a work visa to become a music teacher in Ireland?**
+A: Difficult. This occupation is not in shortage; generally requires employer sponsorship with an annual salary of €30k+; private teaching is hard to meet requirements; it is recommended to first obtain EU family member status or use other visa pathways.
+
+**Q: What qualifications are needed to teach music in Ireland?**
+A: No mandatory requirements for private teachers, but a bachelor's degree in music or ABRSM Grade 8 certificate can enhance credibility; teaching at schools requires registration with the teaching council.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Other Music Teacher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for music teachers in Ireland?**
-答：Private music teachers' income varies widely; entry-level around €20k-€30k/year, senior up to €45k-€60k/year, often part-time or self-employed.
-
-**问：Is it easy for foreigners to get a work visa as a music teacher in Ireland?**
-答：It's difficult. The occupation is not on the shortage list; typically requires employer sponsorship and salary above €30k, challenging for private teachers. Consider EU family visa or other pathways.
-
-**问：What qualifications are needed to teach music in Ireland?**
-答：No mandatory requirements for private teachers, but a music degree or ABRSM Grade 8 enhances credibility; school teaching requires Teaching Council registration.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

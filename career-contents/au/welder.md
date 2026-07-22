@@ -1,71 +1,99 @@
-# 焊工（Welder (First Class)）职业分析 · 澳大利亚
+# Welder — career analysis · Australia
 
-**职业代码：322313 – Welder (First Class)。**
+**Occupation code: 322313 (ANZSCO)**
 
-焊工（Welder / Boilermaker）负责切割、成型、连接和修复金属构件，广泛应用于建筑结构钢、矿业、船舶制造、国防工业和管道工程。在澳大利亚，焊工同时列入 MLTSSL 和 CSOL，是技术移民的热门路径之一。
+Welders / Boilermakers cut, shape, join and repair metal components, with broad applications in structural steel construction, mining, shipbuilding, defence industries and pipeline engineering. In Australia, welders are listed on both the MLTSSL and CSOL, making this one of the most popular skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 Apprenticeship（含 MEM30319 TAFE 课程） | 42~48个月（约3.5~4年） | —（各州补贴差异：WA Lower Fees 计划上限 $1,200（25岁以下仅 $400）；NSW Smart & Skilled 补贴大部分学费；QLD 约 $1.60/课时。另需工具费约 $500~$1,000） |
-| 海外资质互认（TRA Job Ready Program） | 12~24个月 | $2,500~$6,000（含 TRA 评估费、补考费、实习期行政费；焊接编码测试费另计（约 $500~$1,500）） |
-| 特种焊接认证（Coded Welding / AS2980） | 1~3个月 | $500~$2,000（压力容器、管道等特种焊接须持有 AS2980/ASME 焊接编码证书，按焊接方法分类） |
+| Apprenticeship (including MEM30319 TAFE course) | 42–48 months (approximately 3.5–4 years) | $0~$1,200 (State subsidy variations: WA Lower Fees scheme capped at $1,200 (only $400 for those under 25); NSW Smart & Skilled covers most tuition costs; QLD approximately $1.60 per hour of training. Tool costs of approximately $500–$1,000 are also required.) |
+| Overseas qualification recognition (TRA Job Ready Program) | 12–24 months | $2,500~$6,000 (Includes TRA assessment fee, resit fees and internship administrative costs; welding code test fees are additional (approximately $500–$1,500)) |
+| Specialist welding certification (Coded Welding / AS2980) | 1–3 months | $500~$2,000 (Pressure vessels, pipelines and other specialised welding require an AS2980/ASME welding code certificate, classified by welding method) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering – Fabrication Trade (MEM30319) | TAFE / RTO | 必备 | 全国统一课程，含焊接/钣金/锅炉/结构钢多个专攻方向，执业基础资质 |
-| Coded Welding Certificate (AS/NZS 2980 / ASME IX) | 认可第三方检测机构（如 NATA 实验室） | 可选 | 压力容器、管道和船舶焊接的行业标准资质，大型项目通常强制要求 |
-| Working at Heights / Confined Space Certificates | 各州 SafeWork / WorkSafe 认可 RTO | 可选 | 施工现场高空或密闭空间焊接作业的强制安全资质 |
-| Certificate IV in Engineering – Fabrication Trade（可选） | TAFE / RTO | 可选 | 晋升工程设计、质检或工地管理岗位的进阶资质 |
-| TRA Skills Assessment | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，国内学历豁免 |
+| Certificate III in Engineering – Fabrication Trade (MEM30319) | TAFE / RTO | Required | Nationally consistent curriculum covering welding, sheet metal, boilermaking and structural steel specialisations — foundational trade qualification |
+| Coded Welding Certificate (AS/NZS 2980 / ASME IX) | Accredited third-party testing bodies (e.g. NATA laboratories) | Optional | Industry-standard qualification for pressure vessel, pipeline and marine welding; typically mandatory on large-scale projects |
+| Working at Heights / Confined Space Certificates | RTO accredited by each state's SafeWork / WorkSafe authority | Optional | Mandatory safety qualification for welding at heights or in confined spaces on construction sites |
+| Certificate IV in Engineering – Fabrication Trade (optional) | TAFE / RTO | Optional | Advanced qualifications for progression into engineering design, quality assurance or site management roles |
+| TRA Skills Assessment | Trades Recognition Australia (TRA) | Optional | Required for overseas-qualified applicants; exempt for those with domestic qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★★）。** 全国从业人数约 70,000。Jobs and Skills Australia 预测至2035年技工类新增就业约195,800人（+9.8%）。国防造船计划（AUKUS潜艇、护卫舰）和可再生能源基础设施建设将持续拉动焊工需求。
+**Job demand: very high (★★★★★).** National workforce approx. 70,000. Jobs and Skills Australia projects approximately 195,800 new trade jobs by 2035 (+9.8%). The defence shipbuilding programme (AUKUS submarines and frigates) and renewable energy infrastructure construction will continue to drive demand for welders.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: high (★★★★☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 1,500~2,500 个 | 全国，含Boilermaker/Metal Fabricator/Welder，矿业和建筑需求为主 |
-| Indeed | 900~1,600 个 | 含兼职、合同工，去重后略低 |
-| LinkedIn | 400~900 个 | 偏企业直招、国防/矿业工程类岗位 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：较高（★★★★☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒 1年级 | $22,000~$29,000 | Fair Work Award 最低工资，按年级递增 |
-| 学徒 2~4年级 | $29,000~$46,000 | 约 $24~$30/hr（成人学徒），政府补贴另计 |
-| 初级焊工（持证后 1~3年） | $60,000~$75,000 | Glassdoor 25th percentile ~$57,817；ERI 初级 $62,552 |
-| 中级焊工（3~8年） | $75,000~$95,000 | Indeed 全国平均 $42.95/hr（约 $89k/yr）；ERI 平均 $84,556；Glassdoor 中位 ~$80,000 |
-| 资深焊工 / 编码焊工（8年+） | $95,000~$120,000 | ERI 资深 $94,716；Coded Welder（压力容器/管道）薪资显著高于通用焊工 |
-| 矿业 FIFO 焊工（WA/QLD） | $120,000~$170,000 | 包含轮班津贴、FIFO 补贴，国防造船（BAE Systems等）薪资亦较高 |
+| Median salary | $87,776 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice Year 1 | $22,000~$29,000 | Fair Work Award minimum wage, increasing incrementally by classification level |
+| Apprentice Years 2–4 | $29,000~$46,000 | Approximately $24–$30/hr (adult apprentice), government subsidies are additional |
+| Junior welder (1–3 years post-certification) | $60,000~$75,000 | Glassdoor 25th percentile ~$57,817; ERI entry-level $62,552 |
+| Intermediate welder (3–8 years) | $75,000~$95,000 | Indeed national average $42.95/hr (approx. $89k/yr); ERI average $84,556; Glassdoor median ~$80,000 |
+| Senior welder / coded welder (8+ years) | $95,000~$120,000 | ERI senior level $94,716; Coded Welder (pressure vessels/pipework) salaries are significantly higher than general welders |
+| Mining FIFO welder (WA/QLD) | $120,000~$170,000 | Includes shift allowances and FIFO supplements; defence shipbuilding roles (BAE Systems etc.) also offer higher pay |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：极佳（★★★★★）。** 澳大利亚国防工业扩张（AUKUS协议）、矿业自动化改造和可再生能源结构件制造是三大需求驱动力。高级焊工（特种焊接、压力容器）稀缺性持续上升。
-**AI替代风险：低（★★☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Australia's defence industry expansion (AUKUS agreement), mining automation upgrades, and renewable energy structural component manufacturing are the three key demand drivers. Demand for senior welders (specialised welding, pressure vessels) continues to rise.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Mining & Resources Infrastructure
 - Defence & Shipbuilding (BAE Systems, ASC)
@@ -75,96 +103,88 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，中期技能流最长4年，2年后可转186 |
-| Subclass 186（ENS） | 雇主担保永久居留，TRT流需持482满2年，直接流需3年相关工作经验 |
-| Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL和CSOL双榜在列，竞争激烈建议搭配190/491 |
-| Subclass 190（Skilled Nominated） | 州政府提名，加5分，永居，SA/WA/QLD对焊工需求旺盛，提名机会较多 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，临居5年转PR，矿业重点州（WA/QLD）机会较多 |
+| Subclass 482 (Skills in Demand) | Employer-sponsored, mid-term skilled stream, up to 4 years, eligible to transition to 186 after 2 years |
+| Subclass 186 (ENS) | Permanent residency via employer sponsorship; TRT stream requires 2 years on a 482 visa, direct stream requires 3 years of relevant work experience |
+| Subclass 189 (SkillSelect Independent) | No employer required; invitation-based; listed on both MLTSSL and CSOL — highly competitive, consider pairing with a 190 or 491 nomination |
+| Subclass 190 (Skilled Nominated) | State nomination, +5 points, permanent residency; SA/WA/QLD have strong demand for welders with relatively high nomination opportunities |
+| Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residents can apply for PR after 5 years; more opportunities in mining-focused states (WA/QLD) |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学焊工？**
-- 有焊接/钣金/机械加工背景（国内职校或相关工作经验），希望通过技能移民来澳
-- 接受体力劳动、高温和烟尘工作环境，不抵触户外或工业场所
-- 目标是矿业高薪（FIFO）或国防造船（BAE Systems、ASC等大型项目）
-- 希望走职业技能移民路线，SA/WA/QLD 州提名机会较多
-- 愿意持续考取编码焊接证书（Coded Welder），以获取更高薪资溢价
-
-**谁不适合学焊工？**
-- 对高温、烟尘、高噪音工作环境有明显生理抵触
-- 期望1~2年内快速取得资质（学徒至少4年，TRA互认约12~24个月）
-- 完全无金属加工或机械基础，且不愿投入时间学习实操技能
-- 担忧自动化替代（自动焊接机器人在部分场景已有渗透，需关注行业动向）
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has welding/sheet metal/machining background (domestic vocational school or relevant work experience), wants to migrate to Australia via skilled migration
+- Comfortable with physical labour, high temperatures, and smoky or dusty work environments, including outdoor or industrial settings
+- Targeting high-paying mining roles (FIFO) or defence shipbuilding (BAE Systems, ASC and other major projects)
+- Aiming for a skilled migration pathway — SA/WA/QLD offer more state nomination opportunities
+- Willing to continuously obtain Coded Welder certifications to access higher salary premiums
+
+**Who is not suited**
+- Strong physical aversion to high-temperature, dusty, and high-noise work environments
+- Expecting to qualify within 1–2 years (apprenticeship takes at least 4 years; TRA mutual recognition takes approximately 12–24 months)
+- No metalworking or mechanical foundation whatsoever, and unwilling to invest time in developing hands-on skills
+- Concern about automation replacing the role (automated welding robots have already penetrated some segments — worth monitoring industry trends)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for welders in Australia?**
+A: Mid-level certified welder annual salary (AUD) approx. $75,000–$95,000; Indeed national average $42.95/hr (approx. $89k). Mining FIFO welders and coded welders can earn $120,000–$170,000. During apprenticeship, approx. $22,000–$46,000 (increasing by year level).
+
+**Q: Is it easy for a welder to find work in Australia?**
+A: Easy. Welders are listed on both MLTSSL and CSOL, with Seek consistently advertising 1,500–2,500 positions. Defence shipbuilding (AUKUS) and mining projects generate substantial ongoing demand, and coded welders are in particularly short supply.
+
+**Q: Are Chinese welding qualifications recognised in Australia?**
+A: Not directly recognised. Skills must be assessed through the TRA Job Ready Program, which takes approximately 12–24 months. Applicants with overseas welding experience may be able to shorten the assessment period; it is also recommended to pursue Australian Coded Welding certification to strengthen competitiveness.
+
+**Q: Will welders be replaced by AI and robots?**
+A: Partial substitution, but overall risk is low. Automated welding robots are widely used in repetitive production lines, but complex structural welding, on-site repairs, and pressure vessel coded welding remain highly dependent on skilled workers. Wages for welders with specialist qualifications have risen rather than fallen.
+
+**Q: Are there age restrictions for welders in Australia?**
+A: There is no explicit legal upper age limit. Apprenticeship recruitment tends to prefer candidates under 35, but those aged 35–45 can use the TRA recognition pathway to bypass the apprenticeship period. Age 45 and above earns no points in the skilled migration points test, so it is advisable to start the process as early as possible.
+
+**Q: Do welders in Australia need a university degree?**
+A: No. Completing Certificate III (MEM30319) is sufficient to practice; high school graduates can directly apply for an apprenticeship. Domestic technical/vocational school welding qualifications can be directly recognized through the TRA assessment pathway.
+
+**Q: Is it hard to learn welding in Australia?**
+A: Basic welding (MIG/TIG/arc welding) is moderately difficult; those with prior foundational experience can reach production-ready standard in 3–6 months. Advanced coded welding (pressure vessels/pipework AS2980/ASME IX) requires specialist training and skills testing — more challenging but with substantial salary premiums.
+
+**Q: Which is better for migrating to Australia — welder or electrician?**
+A: Both occupations are on the MLTSSL and offer similar PR pathways. Electricians earn slightly higher median salaries (~$94k vs ~$85k for welders), but licensing exams and interstate mutual recognition are more complex. Welders face less competition, with strong demand in defence and mining; those with coded welding qualifications can earn more than the average electrician. Candidates with a metal fabrication background are advised to consider the welder pathway.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 322313 职业档案、MLTSSL+CSOL短缺状态、2025~2035就业预测 |
-| training.gov.au | MEM30319 Certificate III in Engineering – Fabrication Trade 课程标准 |
-| Department of Home Affairs | MLTSSL / CSOL / 签证子类 482、186、189、190、491 条件 |
-| TRA (Trades Recognition Australia) | 海外焊工技能评估流程、Job Ready Program、2025 Assessment Standards Policy |
-| Indeed AU | 焊工平均时薪 $42.95（Apr 2026） |
-| ERI SalaryExpert | 焊工平均年薪 $84,556；资深 $94,716（2026） |
-| Glassdoor AU | 焊工薪资区间 $57,817~$87,379（2026） |
-| SEEK AU | 焊工薪资及职位需求数据（Apr 2026） |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★★) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 很高（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 低（★★☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
-
-焊工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲焊工工资多少？**
-答：中级持证焊工年薪（AUD）约 $75,000~$95,000，Indeed 全国平均 $42.95/hr（约 $89k）。矿业FIFO焊工和编码焊工可达 $120,000~$170,000。学徒期间约 $22,000~$46,000（按年级递增）。
-
-**问：澳洲焊工容易找工作吗？**
-答：容易。焊工同时列入 MLTSSL 和 CSOL，Seek 常年挂牌 1,500~2,500 个职位。国防造船（AUKUS）和矿业项目创造大量持续需求，编码焊工尤其稀缺。
-
-**问：中国焊工证澳洲认可吗？**
-答：不直接认可，需通过 TRA Job Ready Program 进行技能评估，周期约12~24个月。有国内焊工经验者可适当缩短评估周期，同时建议备考澳洲 Coded Welding 认证以提升竞争力。
-
-**问：焊工会被AI和机器人替代吗？**
-答：部分替代，但整体风险偏低。自动焊接机器人已在重复性生产线上广泛应用，但复杂结构焊接、现场修复、压力容器编码焊接仍高度依赖熟练工人，有特种资质的焊工薪资不降反升。
-
-**问：澳洲焊工有年龄限制吗？**
-答：法律上无明确年龄上限。学徒招募偏好35岁以下，但35~45岁可走TRA互认路径，跳过学徒期。技术移民打分中年龄45岁以上无加分，建议尽早启动。
-
-**问：澳洲焊工需要大学学历吗？**
-答：不需要。完成 Certificate III（MEM30319）即可执业，高中毕业即可直接申请学徒。国内技校/职校焊接专业学历可通过TRA评估路径直接互认。
-
-**问：澳洲焊工难学吗？**
-答：基础焊接（MIG/TIG/弧焊）难度中等，有国内基础者3~6个月可进入生产状态。高端编码焊接（压力容器/管道 AS2980/ASME IX）则需专项培训和技能测试，难度较高但薪资溢价丰厚。
-
-**问：焊工和电工哪个更适合移民澳洲？**
-答：两者均在 MLTSSL，PR路径相近。电工薪资略高（中位 ~$94k vs 焊工 ~$85k），但持牌考试和跨州认证更复杂；焊工竞争更低、国防/矿业需求旺盛，有编码焊接资质者薪资可超越普通电工。有金属加工背景者首选焊工路径。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

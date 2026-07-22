@@ -1,60 +1,96 @@
-# Dairy Cattle Farm Worker（Dairy Cattle Farm Worker）职业分析 · 澳大利亚
+# Dairy Cattle Farm Worker — career analysis · Australia
 
-**职业代码：842313 – Dairy Cattle Farm Worker。**
+**Occupation code: 842313 (ANZSCO)**
 
-Performs routine feeding, milking, cleaning, and maintenance tasks on Australian dairy cattle farms.
+Agricultural labourers performing daily feeding, milking, cleaning, and maintenance tasks on Australian dairy farms.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：非常低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中文凭 | 无需正式教育 | —（通常不需要高等教育） |
-| 短期培训证书 | 2周-2个月 | $500~$2,000（如挤奶操作或食品安全课程） |
+| High school diploma | No formal education required | $0~$0 (Usually does not require higher education.) |
+| Short-term Training Certificate | 2 weeks - 2 months | $500~$2,000 (Such as milking operations or food safety courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制注册 | 无 | 可选 | 无需法定资格 |
-| 拖拉机/车辆操作证 | 各州交通部门 | 可选 | 若涉及驾驶可能需要 |
+| No mandatory registration. | None | Optional | No statutory qualification required |
+| Tractor/vehicle operation certificate | State transport departments | Optional | If driving is involved, may be required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 7,800。澳洲奶制品行业稳定，但机械化程度提高，对低技能工人需求缓慢下降。偏远地区仍有季节性需求。
+**Job demand: low (★½☆☆☆).** National workforce approx. 7,800. Australia's dairy industry is stable, but increasing mechanization leads to slowly declining demand for low-skilled workers. Seasonal demand remains in remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：非常高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $45,000~$55,000 | 时薪约23-28澳元 |
-| 中级（2-5年） | $55,000~$65,000 | 含加班和周末补贴 |
-| 高级/主管（5年以上） | $65,000~$80,000 | 农场主管或高级挤奶工 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–2 years) | $45,000~$55,000 | Hourly rate approx. 23-28 AUD |
+| Intermediate (2-5 years) | $55,000~$65,000 | Including overtime and weekend allowances. |
+| Senior/Supervisor (5+ years) | $65,000~$80,000 | Farm Supervisor or Senior Milker |
+| average salary | $55,536 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从普通工人晋升为高级挤奶工、牛群管理助手，或积累经验后转为农场主管。部分移民偏远地区后转管理岗。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Farm workers' daily physical labor (e.g., harvesting, weeding, milking) will be largely replaced by AI and robots, with job numbers sharply declining; surviving roles will require higher technical skills.
+
+Can progress from general worker to senior milker, herd management assistant, or gain experience to become farm supervisor. Some may transfer to management roles in remote areas.
+
+**Tasks most exposed to AI:**
+
+- Harvesting crops using automatic harvesters
+- Use smart monitoring systems to identify pests and diseases and automatically apply pesticides
+- Manage livestock using robotic milking and feeding systems
+- GPS-guided unmanned tractors for farming
+- AI yield prediction software replaces manual planting planning
+
+**Where AI augments the role:**
+
+- AI-assisted decisions: optimize planting density, irrigation timing, and nutrient allocation
+- UAV inspection: rapid detection of crop growth conditions and abnormal areas
+- Smart sensors: real-time monitoring of soil moisture and nutrients with automatic adjustment
+- Digital traceability: blockchain records full-chain data of crops from sowing to sale
+- Machine Learning Analysis: Predicting Market Supply and Demand to Guide Crop Rotation and Variety Selection
+
+**Human moat:**
+
+- Ability to respond to emergencies (e.g., storms, pandemics)
+- Intuitive judgment in animal welfare and health management
+- Fine manipulation in complex unstructured environments (e.g., manual grafting)
+- Local knowledge of long-term ecological maintenance of land
+- Flexibility of manual harvesting for high-value crops (e.g., organic strawberries)
+
+**Skills to build:**
+
+- Smart agricultural machinery operation and maintenance
+- Agricultural data analysis and sensor technology
+- Drone piloting and image interpretation
+- Basic programming and use of automation tools.
+- Precision agriculture system management
+- Sustainable agriculture practices and biodiversity knowledge
+
+**Key growth areas:**
 
 - Agriculture
 - Rural Workforce
@@ -63,66 +99,65 @@ Performs routine feeding, milking, cleaning, and maintenance tasks on Australian
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：非常低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时工作签证，适用于DAMA或偏远地区雇主 |
-| Subclass 494（Skilled Employer Sponsored Regional） | 偏远地区雇主担保临时签证，后可转191永居 |
-| Subclass 403（Temporary Work (International Relations)） | 季节性工人计划，非技术移民路径 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary work visa, applicable for DAMA or remote area employers |
+| Subclass 494 (Skilled Employer Sponsored Regional) | Regional employer-sponsored provisional visa, later can apply for 191 permanent residency. |
+| Subclass 403 (Temporary Work (International Relations)) | Seasonal worker program, not a skilled migration pathway |
 
-**PR难度：非常高（★★★★½）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Dairy Cattle Farm Worker？**
-- 能接受体力劳动和户外工作
-- 喜欢动物和农业环境
-- 愿意在偏远地区居住
-
-**谁不适合学Dairy Cattle Farm Worker？**
-- 无法适应早起和体力体力工作
-- 寻求高薪或快速晋升
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Able to accept physical labor and outdoor work
+- Enjoys animals and agricultural environments
+- Willing to live in remote areas
+
+**Who is not suited**
+- Unable to adapt to early rising and physical work
+- Seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a dairy farm worker?**
+A: Junior annual salary approx. A$45,000-55,000, senior supervisor can reach A$65,000-80,000, usually including accommodation allowance.
+
+**Q: Can dairy cattle workers migrate to Australia?**
+A: Skilled migration pathways are very limited, mainly through DAMA or regional employer sponsorship (subclass 494), requiring employer sponsorship and meeting the labour market test.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 非常短（½☆☆☆☆） |
-| 学习难度 | 非常低（★☆☆☆☆） |
-| 考证难度 | 非常低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 非常高（★★★★☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 非常低（½☆☆☆☆） |
-| PR难度 | 非常高（★★★★½） |
-
-Dairy Cattle Farm Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for dairy cattle farm workers?**
-答：Entry-level annual salary is around AUD 45,000-55,000, senior supervisors earn AUD 65,000-80,000, often with accommodation benefits.
-
-**问：Can dairy cattle farm workers migrate to Australia?**
-答：Skilled migration paths are very limited, mainly through DAMA or regional employer sponsorship (494 visa), requiring employer nomination and labor market testing.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

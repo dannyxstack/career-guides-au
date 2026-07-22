@@ -1,58 +1,93 @@
-# Sales Assistant（Sales Assistant）职业分析 · FR
+# Sales Assistant — career analysis · France
 
-**职业代码：D1401 – Sales Assistant。**
+**Occupation code: D1401 (ROME)**
 
-Sales assistants support the sales team by managing customer orders, quotations, contracts, and client relationships to ensure smooth sales operations.
+The business assistant is responsible for supporting the sales team, handling customer orders, quotations, contract management, and maintaining customer relationships to ensure a smooth sales process.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BAC+2 (BTS) | 2年（BTS） | $500~$5,000（公立学校学费低，私立商校较高，可学徒制免学费） |
-| BAC+3 (Licence Pro) | 3年（Licence Pro） | $500~$7,000（公立大学学费约500欧/年，私立院校可达7000欧） |
+| BAC+2 (BTS) | 2 Years (BTS) | $500~$5,000 (Public schools have lower tuition fees, while private commercial schools offer higher tuition fees, and apprenticeships are available without tuition) |
+| BAC+3 (Licence Pro) | 3 years (Licence Pro) | $500~$7,000 (Tuition at public universities is about 500 euros per year, while private institutions can reach 7,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS Commerce International 或 MCO | 法国教育部 | 可选 | 最相关的国家文凭，非强制但雇主偏好 |
-| TOEIC或托福成绩 | ETS | 可选 | 部分国际企业要求英语水平证明 |
+| BTS Commerce International or MCO | French Ministry of Education | Optional | The most relevant national diplomas, not mandatory but preferred by employers |
+| TOEIC or TOEFL scores | ETS | Optional | Some international companies require proof of English proficiency |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 150,000。法国商务助理需求稳定，尤其在商业服务、制造业和科技领域。数字化转型带来新工具使用需求，但总体岗位数量平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 150,000. Demand for business assistants in France remains stable, especially in business services, manufacturing, and technology sectors. Digital transformation has brought demand for new tools, but overall job openings remain stable.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $30,000~$38,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $38,000~$45,000 | 税前年薪，含奖金，或晋升为销售经理 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $30,000~$38,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $38,000~$45,000 | Pre-tax annual salary, including bonuses, or promotion to Sales Manager |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级商务助理可晋升为销售代表、客户经理或商务发展专员。积累经验后可转向区域销售经理或商务总监岗位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
+
+Junior Business Assistants can be promoted to Sales Representative, Client Manager, or Business Development Specialist. After gaining experience, you can move on to positions such as Regional Sales Manager or Business Director.
+
+**Tasks most exposed to AI:**
+
+- Self-checkout machines replace cashier and scanning tasks
+- AI chatbots handling common product inquiries and returns
+- Automated inventory counting and replenishment in inventory management systems.
+- Electronic price tag updates replace manual label changes
+- Intelligent recommendation systems replace some sales guidance
+
+**Where AI augments the role:**
+
+- AI-assisted customer demand forecasting boosts cross-selling efficiency
+- Real-time inventory data analysis helps proactively recommend products
+- Virtual fitting rooms enhance customer experience and reduce return rates
+- Personalized marketing tools to support customer relationship maintenance
+- Smart Scheduling System optimizes staffing and reduces idle time
+
+**Human moat:**
+
+- Complex emotional communication and complaint handling skills
+- Personalized solutions based on unstructured requirements
+- Sensory interactions like touch and try-on in physical product experiences
+- Ability to build long-term trusting relationships with regular customers
+- Flexible response to emergencies (e.g., security incidents, sudden passenger flow)
+
+**Skills to build:**
+
+- Customer relationship management (CRM) system operation
+- Basic data analysis and sales forecasting tools
+- Social media and online marketing skills
+- Multilingual communication skills (serving international customers)
+- Inventory management and visual merchandising basics
+- Tech Literacy for Hybrid Retail (online + offline)
+
+**Key growth areas:**
 
 - Sales Support
 - CRM Software
@@ -61,65 +96,64 @@ Sales assistants support the sales team by managing customer orders, quotations,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主提供CDI合同，工资需达到SMIC 1.5倍以上。 |
-| Subclass Passeport Talent（Passeport Talent - Salarié qualifié） | 对于高技能人才，工资需达到SMIC 2倍以上，可快速获居留。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高学历且薪资达欧盟蓝卡门槛（约53,000欧/年）的申请人。 |
+| Subclass Salarié (Salarié (Employee)) | Employers must provide CDI contracts, with wages at least 1.5 times the SMIC. |
+| Subclass Passeport Talent (Passeport Talent - Salarié qualifié) | For highly skilled talents, salaries must reach at least twice the SMIC to quickly obtain residency. |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated applicants whose salary meets the EU Blue Card threshold (about 53,000 euros per year). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Assistant？**
-- 喜欢与人沟通、有服务意识的人
-- 做事细致、有条理，能处理多任务
-- 希望从事商业但不想做高强度销售的人
-
-**谁不适合学Sales Assistant？**
-- 讨厌文书工作和重复性任务的人
-- 希望快速晋升、追求高薪高压岗位的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy communicating and have a service mindset
+- Meticulous and organized, able to handle multiple tasks
+- People who want to enter business but do not want to engage in high-intensity sales
+
+**Who is not suited**
+- People who dislike paperwork and repetitive tasks
+- Those who hope for rapid promotion and pursue high-paying, high-pressure positions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for business assistants in France?**
+A: Entry level approx. 24,000-30,000 euros/year, intermediate 30,000-38,000 euros/year, senior 38,000-45,000 euros/year (pre-tax annual salary, including bonuses). Salary varies by industry, city, and company size.
+
+**Q: How can foreigners immigrate to France through this employment?**
+A: Via Salarié work visa (CDI contract, salary ≥1.5x SMIC) or Passeport Talent (salary ≥2x SMIC). EU Blue Card requires higher salary ~53,000 EUR.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Sales Assistant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for sales assistants in France?**
-答：Junior: €24k-30k, mid-level: €30k-38k, senior: €38k-45k per year (gross, including bonuses). Varies by industry, city, and company size.
-
-**问：How can foreigners immigrate to France through this occupation?**
-答：Via Salarié visa (CDI, salary ≥1.5x SMIC) or Passeport Talent (salary ≥2x SMIC). EU Blue Card requires higher salary (~€53k).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

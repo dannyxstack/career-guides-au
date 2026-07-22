@@ -1,59 +1,93 @@
-# Longshore workers（Longshore workers）职业分析 · 加拿大
+# Longshore workers — career analysis · Canada
 
-**职业代码：75100 – Longshore workers。**
+**Occupation code: 75100 (NOC)**
 
-Load and unload cargo at ports, operate forklifts and cranes, ensuring safe and efficient goods movement.
+Responsible for loading and unloading cargo at ports, operating forklifts, cranes, and other equipment, ensuring safe and efficient cargo flow.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（完成高中即可） |
-| 在职培训 | 1-3个月 | $500~$2,000（雇主提供培训） |
+| High school diploma | None | $0~$0 (Completion of high school is sufficient) |
+| On-the-job training | 1-3 months. | $500~$2,000 (Employer-provided training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 叉车操作证 | 省级认证机构 | 必备 | 必备证书 |
-| 起重机操作证 | 省级认证机构 | 可选 | 根据岗位要求 |
-| WHMIS安全证书 | 省级安全机构 | 必备 | 危险品操作需要 |
+| Forklift operation certificate | Provincial certification bodies | Required | Required Certificate |
+| WHMIS safety certificate | Provincial safety authority | Required | Dangerous goods handling requires |
+| Crane operator license | Provincial certification bodies | Optional | Depends on job requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 15,000。预计未来十年就业稳定，因港口贸易持续增长，但自动化带来一定影响。加拿大西海岸港口需求较高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. Employment expected to be stable over the next decade due to sustained growth in port trade, but automation will have some impact. Higher demand on Canada's west coast ports.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 时薪约$18-23 |
-| 中级（3-6年） | $45,000~$60,000 | 时薪约$23-30 |
-| 高级（6年以上） | $60,000~$80,000 | 时薪约$30-40 |
+| Median salary | $68,245 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $35,000~$45,000 | Hourly wage approx. $18-23 |
+| Mid-level (3–6 years) | $45,000~$60,000 | Hourly wage approximately $23-30 |
+| Senior (6+ years) | $60,000~$80,000 | Hourly rate approximately $30-40 |
+| average salary | $72,800 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从普通工人晋升为小组长、设备操作员或调度员，需积累经验和考取相应设备操作证书。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Stevedores face moderate automation risk; physical and coordination tasks will be partially replaced by equipment, but safety supervision and emergency judgment rely on human experience, with AI mostly assisting and augmenting.
+
+Can progress from general worker to team leader, equipment operator, or scheduler by accumulating experience and obtaining relevant equipment operation certificates.
+
+**Tasks most exposed to AI:**
+
+- Container lashing and securing operations (automated lashing system)
+- Cargo location recording and scanning (AI vision + RPA)
+- Ship Stowage Plan Tabulation and Verification (Algorithm Optimization)
+- Routine inspection of spreaders and equipment (sensors + AI prediction)
+
+**Where AI augments the role:**
+
+- Real-time lifting path planning (AI-assisted obstacle avoidance)
+- Yard efficiency optimization (machine learning scheduling recommendations)
+- Security Monitoring and Early Warning (Image Recognition of Abnormal Behavior)
+- Predictive maintenance of equipment (data analysis)
+- Multilingual communication translation (real-time speech transcription)
+
+**Human moat:**
+
+- Safety decision-making and emergency response in complex environments
+- Non-Standard Communication and Coordination with Ship Owners, Port Controllers, Barges, etc.
+- Adaptability under abnormal conditions such as bad weather and equipment failures
+- Intuitive judgment of hidden risks (e.g., unstable cargo in containers)
+
+**Skills to build:**
+
+- Port automation equipment operation and basic programming
+- Use of AI scheduling and data analysis tools
+- Safety information management (e.g. CMMS system)
+- Basic English communication (for dealing with multinational crew).
+- Drone inspection operations.
+- Troubleshooting and remote collaboration skills
+
+**Key growth areas:**
 
 - Port expansion
 - Trade growth
@@ -62,65 +96,64 @@ Load and unload cargo at ports, operate forklifts and cranes, ensuring safe and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地工人。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可申请省提名，如BC省、安省等。 |
-| Subclass Express Entry（Express Entry） | 需结合其他技能或经验，单独码头工人经验难满足要求。 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that local workers cannot be hired. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces offer provincial nominations, e.g., BC, Ontario, etc. |
+| Subclass Express Entry (Express Entry) | Requires combination with other skills or experience; dock worker experience alone is unlikely to meet requirements. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Longshore workers？**
-- 体力好、适应户外和倒班工作的人
-- 愿意通过培训提升操作技能的人
-- 喜欢稳定、重复性工作的人
-
-**谁不适合学Longshore workers？**
-- 追求高薪或坐办公室工作的人
-- 无法适应体力劳动或恶劣天气的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with good physical fitness, adaptable to outdoor and shift work
+- People willing to improve operational skills through training
+- Those who enjoy stable, repetitive work
+
+**Who is not suited**
+- People seeking high salary or office jobs
+- People who cannot adapt to physical labor or harsh weather
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a wharf worker?**
+A: Entry-level approx CAD $35,000-$45,000, senior up to $60,000-$80,000.
+
+**Q: Can wharf workers immigrate to Canada through skilled migration?**
+A: Usually requires employer sponsorship (LMIA) or provincial nomination (PNP); experience alone rarely qualifies for Express Entry.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Longshore workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for longshore workers?**
-答：Entry-level CAD 35,000-45,000; experienced up to CAD 60,000-80,000.
-
-**问：Can longshore workers immigrate through skilled programs?**
-答：Usually requires LMIA or PNP; Express Entry is difficult without additional skills.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

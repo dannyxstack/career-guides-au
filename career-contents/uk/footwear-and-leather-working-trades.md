@@ -1,58 +1,90 @@
-# Footwear and leather working trades（Footwear and leather working trades）职业分析 · UK
+# Footwear and leather working trades — career analysis · United Kingdom
 
-**职业代码：5412 – Footwear and leather working trades。**
+**Occupation code: 5412 (SOC)**
 
-Footwear and leather working trades make and repair shoes, cut out, make up, sew, decorate and finish leather and leather substitute goods other than garments.
+Shoe and leather goods traders make and repair footwear; cut, sew, decorate, and finish products made of leather and leather substitutes (excluding clothing).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学徒制 | 2-4年 | —（通过雇主或学院培训，通常无学费，可获薪资） |
-| BTEC/国家文凭 | 1-2年 | $3,000~$6,000（全日制，部分课程需自费） |
+| Apprenticeship | 2-4 years | $0~$1,000 (Through employer or college training, usually no tuition fees, and you can receive a salary) |
+| BTEC/National Diploma | 1-2 years | $3,000~$6,000 (Full-time; some courses require self-funding.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皮革制品 NVQ/SVQ 2级或3级 | City & Guilds | 可选 | 适用于制鞋和皮革制品行业 |
-| 高级学徒制标准（制鞋） | Institute for Apprenticeships | 可选 | 英国认可的学徒框架 |
+| Leather Goods NVQ/SVQ Level 2 or 3 | City & Guilds | Optional | Applicable to the footwear and leather goods industries |
+| Advanced Apprenticeship Standard (Shoemaking) | Institute for Apprenticeships | Optional | UK-recognised apprenticeship framework |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 3,200。英国制鞋和皮革制品行业规模较小，但手工定制和修复市场仍有一定需求。受进口冲击，就业增长有限，技术熟练工人仍有机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. The UK footwear and leather goods industry is relatively small, but there is still demand for handmade customisation and restoration. Impacted by imports, employment growth is limited, but skilled workers still have opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 学徒或入门级 |
-| 中级（3-7年） | $22,000~$28,000 | 熟练工匠 |
-| 高级（7年以上） | $28,000~$35,000 | 高级工匠或主管 |
+| Median salary | $25,357 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Apprentice or entry-level |
+| Mid-level (3–7 years) | $22,000~$28,000 | Skilled tradesperson |
+| Senior (7+ years) | $28,000~$35,000 | Senior craftsman or supervisor |
+| average salary | $27,238 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从业者可从学徒起步，逐步成为熟练工匠，或转向高级定制、修复工作室管理岗位；部分人可自营工作室或进入奢侈品维修领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Footwear and leather goods traders face high risk of automation replacement, especially standardized shoe repair and cutting tasks can be taken over by machines and AI processes, but high-end customization, restoration, and customer service are hard to automate.
+
+Practitioners can start as apprentices, gradually become skilled artisans, or move into high-end custom, restoration studio management; some may set up their own studios or enter the luxury repair field.
+
+**Tasks most exposed to AI:**
+
+- Use automated shoe repair machines for standardized sole replacement and buffing.
+- Digital pattern cutting of shoe designs using AI design software
+- Uses 3D scanning and printing to produce repair parts or custom shoe molds.
+- Systematic processing of customer order management and inventory tracking
+
+**Where AI augments the role:**
+
+- Use AI design tools to quickly generate customized shoe solutions
+- Virtual trial fitting of complex repairs using 3D modeling software
+- Use data analysis to predict fashion trends and material requirements
+- Provide customers with a virtual try-on experience via AR
+
+**Human moat:**
+
+- Experience in judging the touch and texture of leather and special fabrics
+- Highly customised restoration involving manual craftsmanship and creative design
+- Communication and service skills to build trust with clients
+- Ability to handle restoration and reconstruction of rare or vintage footwear
+
+**Skills to build:**
+
+- Master 3D modeling and printing technologies (e.g., Rhino, Fusion 360)
+- Learn AI-assisted design tools (e.g., Adobe Illustrator + AI plugins)
+- Understanding of digital inventory and customer management systems (e.g., Shopify, ERP)
+- Emphasises manual fine restoration and advanced custom craftsmanship
+- Learn basic materials science (e.g., new synthetic leather)
+
+**Key growth areas:**
 
 - Handcraft
 - Luxury goods repair
@@ -61,67 +93,66 @@ Footwear and leather working trades make and repair shoes, cut out, make up, sew
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的熟练工人；需满足薪资门槛（通常£25,600/年或行业标准） |
-| Subclass Graduate（Graduate visa） | 适用于英国毕业生，可工作2年（博士3年），无需担保 |
+| Subclass Skilled Worker (Skilled Worker visa) | For skilled workers with employer sponsorship; must meet salary threshold (usually £25,600/year or industry standard) |
+| Subclass Graduate (Graduate visa) | Available to UK graduates, allowing 2 years of work (3 years for PhD), no sponsorship required. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Footwear and leather working trades？**
-- 对手工制作有热情的人
-- 寻求稳定技术职业的人
-- 对时尚和奢侈品行业感兴趣的人
-
-**谁不适合学Footwear and leather working trades？**
-- 寻求高薪快速回报的人
-- 不喜欢重复性手工劳动的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People passionate about handcrafting
+- People seeking a stable technical career
+- People interested in the fashion and luxury goods industry
+
+**Who is not suited**
+- Those seeking high pay and quick returns
+- People who dislike repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of shoe artisans in the UK?**
+A: Entry-level about £18,000-£22,000, senior up to £35,000; overall salary below UK average.
+
+**Q: How to come to the UK as a footwear artisan through a skilled migration pathway?**
+A: Eligible for the Skilled Worker visa, requiring employer sponsorship and meeting minimum salary requirements (approx. £25,600 or industry standard).
+
+**Q: Does this career have growth prospects?**
+A: Market demand is small but stable, with growth opportunities in high-end custom and restoration; technology advances have limited impact on traditional craftsmanship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Footwear and leather working trades的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for footwear craftsmen in the UK?**
-答：Entry-level around £18,000-£22,000, senior up to £35,000; overall below UK average.
-
-**问：How can I come to the UK as a footwear craftsman through skilled migration?**
-答：Apply for a Skilled Worker visa with employer sponsorship and meet the minimum salary threshold (approx. £25,600 or going rate).
-
-**问：What are the career prospects for this occupation?**
-答：Small but stable market; growth in high-end custom and repair; limited impact from automation.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

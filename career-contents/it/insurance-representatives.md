@@ -1,60 +1,96 @@
-# Insurance Representatives（Insurance Representatives）职业分析 · IT
+# Insurance Representatives — career analysis · Italy
 
-**职业代码：3321 – Insurance Representatives。**
+**Occupation code: 3321 (ISCO08)**
 
-Insurance representatives sell insurance products, advise clients on risk management and financial planning, and assist with policy renewals and claims.
+Insurance agents sell insurance products, provide clients with risk management and financial planning advice, and handle policy renewals and claims assistance.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职校 | 3年（高中文凭） | —（公立教育免费） |
-| 本科 | 3年（本科） | $1,500~$4,000（公立大学年学费，视家庭收入） |
+| High School / Vocational School | 3 years (high school diploma) | $0~$0 (Public education is free) |
+| Bachelor's degree | 3 years (bachelor's) | $1,500~$4,000 (Annual tuition at public universities, based on family income) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册保险代理人（RUI注册） | IVASS | 必备 | 必须在IVASS注册并完成培训 |
-| ANIA保险认证 | 意大利保险公司协会 | 可选 | 提升专业能力，非强制 |
+| Registered Insurance Agent (RUI registration) | IVASS | Required | Must register with IVASS and complete training |
+| ANIA insurance certification | Italian Insurance Association | Optional | Enhance professional skills, not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。意大利保险代理人需求稳定，受老龄化社会推动健康险和寿险需求增长。数字化趋势下，复合型代理人更受欢迎。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. Italy's insurance agent demand is stable, driven by an aging society boosting health and life insurance needs. Under the digital trend, versatile agents are more popular.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 底薪+佣金，总收入 |
-| 中级（3-7年） | $25,000~$40,000 | 含佣金 |
-| 高级（7年以上） | $40,000~$70,000 | 含佣金和奖金 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$25,000 | Base salary plus commission, total income |
+| Mid-level (3–7 years) | $25,000~$40,000 | Including commission |
+| Senior (7+ years) | $40,000~$70,000 | Includes commission and bonuses |
+| average salary | $36,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径：初级代理人可晋升为团队经理或区域总监，也可转向保险经纪或金融顾问。专业认证如ANIA证书有助于晋升。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Insurance agents face automation replacement risks, but AI also amplifies sales and service capabilities, increasing competition in entry-level positions, with overall risks and opportunities coexisting.
+
+Career path: entry-level agent can advance to team manager or regional director, or transition to insurance broking or financial advisory. Professional certifications such as ANIA certificate help with advancement.
+
+**Tasks most exposed to AI:**
+
+- Customer data entry and initial screening
+- Standard policy quoting and comparison
+- Basic claim form processing and filing
+- Common clause Q&A and simple advice
+- Policy renewal reminders and follow-up emails
+
+**Where AI augments the role:**
+
+- AI analyzes customer needs to recommend personalized insurance plans
+- Automatically generate risk assessment reports to assist advisor decision-making
+- Smart customer service manages customer relationships and follow-ups.
+- Optimizing insurance product portfolio strategies based on big data
+- Real-time market dynamics monitoring and competitor analysis
+
+**Human moat:**
+
+- Build deep client trust and long-term relationships
+- Handles complex claims negotiations and human touch
+- Customized comprehensive financial planning and risk management solutions
+- Interpret unstructured customer needs and create solutions
+- Responding to regulatory changes and compliance judgments
+
+**Skills to build:**
+
+- Data analysis tools (e.g., Python, SQL)
+- CRM and automated marketing platform operation.
+- Awareness and use of insurtech products
+- High-net-worth client service and communication skills
+- Digital compliance and privacy protection knowledge
+- Cross-domain financial planning skills
+
+**Key growth areas:**
 
 - Digital Transformation
 - Health Insurance
@@ -63,62 +99,64 @@ Insurance representatives sell insurance products, advise clients on risk manage
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card (Italy)） | 适用于高技能非欧盟公民，年薪门槛约2.5万欧元，需大学学历或5年经验。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，适用于非欧盟工人，需雇主担保，保险代理人不在优先名单。 |
+| Subclass EU Blue Card (EU Blue Card (Italy)) | For high-skilled non-EU citizens, annual salary threshold approx. €25,000, requires university degree or 5 years experience. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship; insurance agents are not on the priority list. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Insurance Representatives？**
-- 善于交际、有说服力的人
-- 喜欢灵活工作时间的人
-- 对金融保险感兴趣的人
+**Who is suited**
+- Sociable and persuasive people
+- People who prefer flexible working hours
+- People interested in finance and insurance
 
-**谁不适合学Insurance Representatives？**
-- 厌恶销售压力的人
-- 不喜欢出差社交的人
+**Who is not suited**
+- People who hate sales pressure
+- People who dislike travel and socializing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Is the income of insurance agents stable?**
+A: Income mainly comes from commissions, which is unstable initially, but experienced agents can earn substantial income.
+
+**Q: Can foreigners immigrate to Italy through work as an insurance agent?**
+A: Difficult. This occupation is not on the shortage list, requires Decreto Flussi quota, needs employer sponsorship, and has low success rate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Insurance Representatives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Is the income of insurance representatives stable?**
-答：Income mainly comes from commissions, unstable at entry level, but experienced representatives can earn well.
-
-**问：Can foreigners immigrate to Italy as insurance representatives?**
-答：Difficult. This occupation is not on shortage list, requires Decreto Flussi quota and employer sponsorship, low success rate.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

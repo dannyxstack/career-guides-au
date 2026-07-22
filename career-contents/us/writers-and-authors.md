@@ -1,60 +1,96 @@
-# Writers and Authors（Writers and Authors）职业分析 · 美国
+# Writers and Authors — career analysis · United States
 
-**职业代码：27-3043 – Writers and Authors。**
+**Occupation code: 27-3043 (SOC)**
 
-Writers and authors originate and prepare written material, such as scripts, stories, advertisements, and other content, excluding news analysts, reporters, journalists, PR specialists, and technical writers.
+Writers and authors create and prepare written materials such as scripts, stories, advertisements, and other content. Excludes news analysts, journalists, PR specialists, and technical writers.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位（英语/创意写作/新闻） | 4年 | $40,000~$160,000（公立大学年均$10,000-$40,000，私立可达$40,000/年） |
-| 创意写作硕士（MFA） | 2年 | $30,000~$100,000（总学费$30,000-$100,000，部分项目提供资助） |
+| Bachelor's degree (English/Creative Writing/Journalism) | 4 years | $40,000~$160,000 (Public universities average $10,000-$40,000 per year; private can reach $40,000/year) |
+| Master of Fine Arts (MFA) in Creative Writing | 2 years | $30,000~$100,000 (Total tuition $30,000-$100,000, some programs offer funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 英语或相关领域学士学位 | 认证大学 | 可选 | 多数雇主偏好学士学位，但经验可替代 |
-| 作品集 | 个人积累 | 必备 | 展示写作能力和风格的关键 |
+| Portfolio | Personal accumulation | Required | Key to demonstrating writing ability and style |
+| Bachelor's degree in English or related field | Accredited university | Optional | Most employers prefer a bachelor's degree, but experience can substitute. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 148,000。美国劳工统计局预计2023-2033年就业增长约4%，与所有职业平均水平相当。数字媒体和内容创作需求持续增长，但传统出版业竞争激烈。自由职业者比例较高，收入稳定性较低。
+**Job demand: medium (★★½☆☆).** National workforce approx. 148,000. The US Bureau of Labor Statistics projects about 4% employment growth from 2023 to 2033, similar to the average for all occupations. Demand for digital media and content creation continues to grow, but traditional publishing is highly competitive. Freelancer proportion is high, income stability is low.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$55,000 | 自由职业或入门级全职薪资较低 |
-| 中级（3-7年） | $55,000~$80,000 | 经验丰富或专职写手收入上升 |
-| 高级（7年以上） | $80,000~$130,000 | 知名作者、编辑或内容主管可达 |
+| Median salary | $76,910 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$55,000 | Freelance or entry-level full-time salaries are relatively low. |
+| Mid-level (3–7 years) | $55,000~$80,000 | Higher income for experienced or full-time writers |
+| Senior (7+ years) | $80,000~$130,000 | Renowned authors, editors, or content directors can reach this level |
+| average salary | $86,090 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级作家可通过积累作品集、撰写专门领域（如技术、营销）提升专业度。中级可晋升为编辑、内容主管或专栏作家。高级可成为畅销书作者、剧本顾问或创意总监，部分转向媒体管理或教学。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI's impact on writers and authors is mixed: automation can generate basic content and assist editing, compressing entry-level jobs; but creative writing, deep narrative, and unique style still require humans, and AI tools can enhance research and drafting efficiency.
+
+Junior writers can improve by building a portfolio and specializing in fields like technology or marketing. Intermediate can advance to editor, content manager, or columnist. Senior can become a bestselling author, script consultant, or creative director, some transitioning to media management or teaching.
+
+**Tasks most exposed to AI:**
+
+- Generate standardized news reports or product descriptions based on keywords
+- Automated social media posts, ad copy, and email drafts
+- Basic proofreading, grammar checking, and style consistency adjustments
+- Generate templated scripts or story outlines
+- Drafting initial versions of data reports and simple technical documents
+
+**Where AI augments the role:**
+
+- Use AI to generate creative inspiration and story outlines, broaden thinking.
+- Using AI for background research, fact-checking, and data integration
+- Multiple rounds of iterative revision and polishing with AI assistance
+- AI translation tools help writers reach international readers and quickly translate drafts
+- Using AI to analyse reader feedback and optimise content strategy
+
+**Human moat:**
+
+- Original storytelling, emotional depth, and character development
+- Cultural context understanding and nuanced language expression
+- Critical thinking and argumentation on complex topics
+- Collaboration and negotiation with editors, publishers, and other stakeholders
+- Personal brand building and audience relationship management
+
+**Skills to build:**
+
+- Proficient in using ChatGPT, Claude and other LLMs for writing assistance
+- Mastering AI Prompt Engineering
+- Learning management platforms (e.g., WordPress) integrated with AI plugins
+- Data analysis fundamentals, using tools (e.g., Google Analytics) to optimize content
+- Multimedia narrative skills (video scripts, podcasts, etc.)
+- Copyright and ethics knowledge to ensure AI output compliance
+
+**Key growth areas:**
 
 - Digital Content
 - Self-Publishing
@@ -63,62 +99,64 @@ Writers and authors originate and prepare written material, such as scripts, sto
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适用于在写作领域有杰出成就（如出版书籍、获奖）的作家，需提供证明 |
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 需雇主担保，通常用于技术写作或内容策略岗位，普通作家较难满足专业职业要求 |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to writers with outstanding achievements in writing (e.g., published books, awards); need to provide evidence |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Requires employer sponsorship, typically for technical writing or content strategy roles; ordinary writers may find it difficult to meet professional occupation requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Writers and Authors？**
-- 热爱写作并具备原创故事构思能力
-- 自我驱动力强，适合自由职业模式
-- 愿意持续学习新媒体和数字化工具
+**Who is suited**
+- Enjoys writing and has original story ideas
+- Strong self-motivation, suitable for freelance model
+- Willingness to continuously learn new media and digital tools
 
-**谁不适合学Writers and Authors？**
-- 追求稳定收入和福利保障
-- 不适应频繁修改和拒稿反馈
+**Who is not suited**
+- Seeking stable income and benefits
+- Not suited to frequent revisions and rejection feedback
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Are writers' incomes low?**
+A: Overall average annual salary around $73,000 (BLS 2023 data), but income distribution is highly uneven. Most writers work part-time or freelance, median around $60,000, top writers can exceed $130,000.
+
+**Q: Can writers immigrate to the US through employment?**
+A: Very difficult. General writers lack the specific skills needed for skilled migration; typically require an O-1 visa (with evidence of awards or publications) or employer-sponsored H-1B (the role must meet professional requirements). Green card pathways are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Writers and Authors属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Are writers' salaries low?**
-答：Average annual salary is about $73,000 (BLS 2023), but distribution is uneven. Many work part-time or freelance; median is around $60,000; top earners exceed $130,000.
-
-**问：Can writers immigrate through employment to the US?**
-答：Very difficult. General writers lack specific skills for tech immigration; usually need O-1 visa (requires evidence of extraordinary achievement) or H-1B (job must meet specialty occupation criteria). Green card path is narrow.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

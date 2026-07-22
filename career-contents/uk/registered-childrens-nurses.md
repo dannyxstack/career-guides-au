@@ -1,58 +1,92 @@
-# Registered children's nurses（Registered children's nurses）职业分析 · UK
+# Registered children's nurses — career analysis · United Kingdom
 
-**职业代码：2236 – Registered children's nurses。**
+**Occupation code: 2236 (SOC)**
 
-Provide general or acute nursing care for children and young people with chronic or acute conditions and assist medical doctors.
+Provides acute and chronic disease care for children and adolescents, assists doctors in treatment, and is a core member of the pediatric medical team.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 护理学士学位 | 3年 | $9,000~$27,000（英国本土学生年费约9000英镑，国际学生年费约27000英镑） |
-| 护理硕士加速课程 | 2年 | $10,000~$30,000（适用于已拥有其他学位的申请者） |
+| Bachelor of Nursing degree | 3 years | $9,000~$27,000 (Annual fees around £9,000 for UK domestic students, around £27,000 for international students) |
+| Accelerated nursing master's program | 2 years | $10,000~$30,000 (Suitable for applicants who already hold another degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护理学位（儿童方向） | 英国护理与助产委员会认证高校 | 必备 | 必需学位 |
-| 注册护士（儿童） | 英国护理与助产委员会 | 必备 | 完成学位后注册 |
+| Nursing Degree (Child Health) | Universities accredited by the UK Nursing and Midwifery Council | Required | Required degree |
+| Registered Nurse (Child and Family Health) | UK Nursing and Midwifery Council | Required | Register after completing a degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。英国 NHS 对儿科护士需求持续增长，因儿童人口护理需求增加及退休人员补充，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. The UK NHS continues to see growing demand for paediatric nurses due to increased child population care needs and replacement of retirees, offering good employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$33,000 | NHS Band 5 |
-| 中级（3-7年） | $33,000~$42,000 | NHS Band 6 |
-| 高级（7年以上） | $42,000~$55,000 | NHS Band 7及以上 |
+| Median salary | $41,963 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $28,000~$33,000 | NHS Band 5 |
+| Mid-level (3–7 years) | $33,000~$42,000 | NHS Band 6 |
+| Senior (7+ years) | $42,000~$55,000 | NHS Band 7 and above |
+| average salary | $40,779 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 从注册护士可晋升为高级临床护士、儿科专科护士、护理管理岗位或教学科研职位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
+
+Registered nurses can progress to senior clinical nurses, pediatric nurse specialists, nursing management roles, or teaching and research positions.
+
+**Tasks most exposed to AI:**
+
+- Automated patient vital sign monitoring and anomaly alerts
+- Data entry and organization of electronic health records
+- Medication dosage calculation and interaction checks
+- Generation of basic patient education materials
+
+**Where AI augments the role:**
+
+- Using AI-assisted diagnostic tools for clinical decision-making
+- Quickly retrieve medical literature using natural language processing
+- Use predictive analytics to identify high-risk patients
+- Automated Scheduling and Resource Allocation
+- Remote monitoring and virtual care support
+
+**Human moat:**
+
+- Complex wound assessment and manual care
+- Emotional support and crisis communication for patients and families
+- Professional judgment and coordination in multidisciplinary teams
+- Empathetic companionship in end-of-life care
+
+**Skills to build:**
+
+- Use of clinical decision support systems
+- Data analysis fundamentals and health informatics
+- Remote care platform operation
+- AI Ethics and Patient Privacy Protection
+- Cross-cultural nursing skills
+- AI tool application in chronic disease management
+
+**Key growth areas:**
 
 - Paediatric nursing
 - NHS workforce expansion
@@ -61,64 +95,63 @@ Provide general or acute nursing care for children and young people with chronic
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Health & Care Worker（Health and Care Worker Visa） | 适用于医疗专业人员，包括护士，薪资门槛较低，有快速通道 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于有雇主担保的护士，需满足薪资要求 |
+| Subclass Health & Care Worker (Health and Care Worker Visa) | Applicable to medical professionals, including nurses, with lower salary threshold and fast-track option |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to nurses with employer sponsorship, must meet salary requirements |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Registered children's nurses？**
-- 有爱心和耐心，喜欢与儿童工作
-- 能在压力下工作并快速决策
-- 具备良好的沟通和团队协作能力
-
-**谁不适合学Registered children's nurses？**
-- 不喜欢倒班工作
-- 对血和医疗程序感到不适
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Caring and patient, enjoys working with children
+- Able to work under pressure and make quick decisions
+- Good communication and teamwork skills
+
+**Who is not suited**
+- Dislike shift work
+- Uncomfortable with blood and medical procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a registered children's nurse?**
+A: Entry-level approximately £28,000-33,000, mid-level £33,000-42,000, senior up to £55,000+.
+
+**Q: What visas can registered children's nurses apply for to come to the UK?**
+A: Primarily can use the Health and Care Worker Visa or Skilled Worker Visa, both requiring employer sponsorship.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Registered children's nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for registered children's nurses?**
-答：Entry-level £28,000-£33,000, mid-level £33,000-£42,000, senior up to £55,000+.
-
-**问：Which visas can registered children's nurses apply for to work in the UK?**
-答：Mainly Health and Care Worker Visa or Skilled Worker Visa, both requiring employer sponsorship.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,57 +1,93 @@
-# Retail Store Manager（Retail Store Manager）职业分析 · ES
+# Retail Store Manager — career analysis · Spain
 
-**职业代码：1432 – Retail Store Manager。**
+**Occupation code: 1432 (CNO)**
 
-Oversees daily operations of a retail store, including sales targets, inventory management, staff scheduling, and customer service to ensure profitability and efficiency.
+Responsible for the daily operations of retail stores, including achieving sales targets, inventory management, staff scheduling, and customer service, ensuring profitability and efficient operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | —（公立免费，私立约2000欧元） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立年学费约1000-2000欧元，私立约5000-12000欧元） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, private ones about 2000 euros) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public tuition is about 1,000-2,000 euros per year, while private tuition is about 5,000-12,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制要求，但商业管理或零售相关学位受青睐 | 大学或FP学校 | 可选 | 非监管职业，无需官方认证，但大型连锁企业偏好相关学历 |
+| There are no mandatory requirements, but degrees related to business management or retail are preferred | Universities or FP schools | Optional | Non-regulated professions do not require official certification, but large chain companies prefer relevant academic qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 120,000。西班牙零售业稳步恢复，线下商店仍占主导，但受电商冲击，实体店经理需兼具数字营销能力。大城市连锁店需求稳定，小型店铺竞争大。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 120,000. Spain's retail sector is steadily recovering, with offline stores still dominating, but due to the impact of e-commerce, physical store managers must also possess digital marketing capabilities. Demand for chain stores in big cities is stable, while small stores face intense competition.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 小型店铺或助理经理 |
-| 中级（3-7年） | $24,000~$35,000 | 中型连锁店经理 |
-| 高级（7年以上） | $35,000~$50,000 | 大型商场或区域经理 |
+| Median salary | $53,332 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Small shops or assistant managers |
+| Mid-level (3–7 years) | $24,000~$35,000 | Manager of a medium-sized chain store |
+| Senior (7+ years) | $35,000~$50,000 | Large shopping mall or regional managers |
+| average salary | $59,479 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可晋升为区域经理、运营总监或自主创业开设门店。积累经验后转向零售咨询或采购管理，也可向电商运营转型。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
+
+You can be promoted to Regional Manager, Operations Director, or start your own store business. After gaining experience, they can shift to retail consulting or procurement management, or transition to e-commerce operations.
+
+**Tasks most exposed to AI:**
+
+- Inventory counting and replenishment forecasting: AI automatically analyzes sales data and generates replenishment suggestions, reducing manual counting frequency
+- Automated scheduling: AI optimizes employee shifts based on traffic forecasts and historical data
+- Basic sales report generation: AI automatically extracts data from POS systems to generate daily/weekly/monthly reports
+- Customer FAQ response: AI chatbots handle routine inquiries like returns, exchanges, and business hours
+- Promotional campaign effectiveness analysis: AI auto-tracks campaign data and generates ROI reports
+
+**Where AI augments the role:**
+
+- Customer experience optimization: AI analyzes customer behavior data to provide personalized recommendations and promotions, with manager decision-making
+- Team training and coaching: AI generates personalised training materials, enabling managers to coach employees more effectively
+- Real-time operations monitoring: AI dashboards display sales, foot traffic, and inventory anomalies in real time, helping managers make quick decisions
+- Predictive maintenance: AI predicts equipment failures (e.g., cash registers, freezers), managers schedule repairs in advance
+- Supply chain coordination: AI suggests optimal order timing and quantities; managers negotiate and execute with suppliers
+
+**Human moat:**
+
+- Team Leadership and Motivation: Handling employee conflicts, building team culture, conducting performance reviews
+- Customer complaint handling: manage complex emotional complaints, maintain brand relationships
+- Strategic decision-making: define store positioning and category adjustments based on regional market characteristics, involving unstructured decisions
+- Emergency incident handling: on-site emergency response such as security incidents, equipment failures, customer disputes
+- Cross-departmental coordination: communicate with regional managers, marketing, supply chain, etc., to drive project implementation
+
+**Skills to build:**
+
+- Data analysis and visualization: use BI tools (e.g., Tableau, Power BI) to interpret sales data
+- Retail AI tool application: mastering AI scheduling, inventory prediction, and other platform operations
+- Digital Marketing: Using AI tools for localized promotions and precise customer targeting
+- Employee digital training: master online training platforms and AI-assisted learning tools
+- Basic programming mindset: understanding Python or SQL for custom reports and automated workflows
+- Financial literacy: ability to read AI-generated profit analysis reports and make cost-optimization decisions
+
+**Key growth areas:**
 
 - omnichannel retail
 - customer experience
@@ -60,65 +96,64 @@ Oversees daily operations of a retail store, including sales targets, inventory 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需西班牙公司提供工作合同，且雇主须证明无法在欧盟内找到合适人选。年薪通常需达最低限额（约25,000欧元以上）以符合高技能标准。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (EU Blue Card equivalent)） | 年薪需达约34,000欧元（2025年标准），适合大型连锁企业经理岗位。需本科或以上学历或至少3年相关经验。 |
-| Subclass Busqueda empleo（Job Search Visa） | 针对毕业后学生或专业人士，可在西班牙居留6-12个月寻找工作，找到合适雇主后可转为工作居留。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish company, and the employer must prove that suitable candidates cannot be found within the EU. Annual salaries usually meet the minimum threshold (around 25,000 euros or more) to meet high-skilled standards. |
+| Subclass Altamente cualificad (Highly Skilled Professional (EU Blue Card equivalent)) | An annual salary of about 34,000 euros (2025 standard) is required, making it suitable for manager positions in large chain enterprises. Bachelor's degree or above, or at least 3 years of relevant experience. |
+| Subclass Busqueda empleo (Job Search Visa) | For graduates or professionals, they can stay in Spain for 6-12 months to find a job, and after finding a suitable employer, they can switch to work residence. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Retail Store Manager？**
-- 喜欢与人打交道、具备领导力和解决问题能力的人
-- 适应快节奏零售环境、能应对销售压力的人
-- 有意在零售行业长期发展并希望晋升管理层的人
-
-**谁不适合学Retail Store Manager？**
-- 不善于沟通或不喜欢面对客户的人
-- 讨厌频繁倒班和周末工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy interacting with people, possess leadership skills, and problem-solving skills
+- People who can adapt to the fast-paced retail environment and handle sales pressure
+- Those who intend to develop long-term in the retail industry and wish to advance to management positions
+
+**Who is not suited**
+- People who are not good at communication or dislike facing clients
+- People who dislike frequent shifts and weekend work
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for retail store managers in Spain?**
+A: Entry-level: approx. EUR 18,000-24,000/year; mid-level: EUR 24,000-35,000/year; senior can reach EUR 35,000-50,000/year. Salaries depend on shop size, location, and chain brand; Madrid and Barcelona have higher salaries.
+
+**Q: How can foreigners immigrate to Spain through retail store manager positions?**
+A: The most common route is through a work contract (Cuenta ajena), which requires a Spanish employer sponsorship. If the annual salary meets the high-skill standard (about 34,000 euros), you can apply for the EU Blue Card (Tarjeta azul UE). Additionally, entering the country with a job-seeking visa before looking for a job is also a feasible option.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Retail Store Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for retail store managers in Spain?**
-答：Entry-level: €18,000-€24,000/year; mid-level: €24,000-€35,000/year; senior: €35,000-€50,000/year. Salary depends on store size, location, and brand, with higher pay in Madrid and Barcelona.
-
-**问：How can foreigners immigrate to Spain as a retail store manager?**
-答：The most common path is through a work contract (Cuenta ajena) sponsored by a Spanish employer. If the annual salary meets the high-skilled threshold (approx. €34,000), you can apply for an EU Blue Card. A job search visa is also an option.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

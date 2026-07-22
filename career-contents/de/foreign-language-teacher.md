@@ -1,60 +1,95 @@
-# Foreign Language Teacher（Foreign Language Teacher）职业分析 · DE
+# Foreign Language Teacher — career analysis · Germany
 
-**职业代码：8445 – Foreign Language Teacher。**
+**Occupation code: 8445 (KldB)**
 
-Foreign language teachers instruct non-native languages such as English, French, or Spanish in German schools, adult education centers, or corporate training settings.
+Foreign language teachers teach non-native languages such as English, French, Spanish, etc. at German schools or language institutions, primarily targeting primary and secondary schools, adult education, or corporate training.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 3-4年 | —（公立大学每学期约150-300欧元注册费） |
-| 硕士 | 2年 | —（公立大学基本免学费） |
+| University bachelor's degree | 3-4 years | $0~$1,500 (Public universities: approximately 150-300 euros per semester registration fee) |
+| Master's degree | 2 years | $0~$2,000 (Public universities are essentially tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证（Staatsexamen） | 州教育局 | 必备 | 公立学校任教必需，需通过两次国家考试 |
-| TESOL/TEFL证书 | 国际认可机构 | 可选 | 私立语言学校常见要求 |
+| Teaching Qualification (Staatsexamen) | State Education Department. | Required | Required for teaching in public schools, must pass two national exams |
+| TESOL/TEFL certificate | Internationally recognised institution | Optional | Common requirements for private language schools |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 80,000。德国对英语教师需求稳定，其他小语种（如西班牙语、中文）需求增长。公立学校职位受编制限制，私立语言学校和成人教育机构机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 80,000. Germany has stable demand for English teachers, with growing demand for other languages (e.g., Spanish, Chinese). Public school positions are restricted by staffing quotas, while private language schools and adult education institutions offer more opportunities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 私立学校或语言学校 |
-| 中级（3-7年） | $45,000~$58,000 | 经验丰富教师 |
-| 高级（7年以上） | $58,000~$72,000 | 公立学校高级教师或教学主管 |
+| Median salary | $51,780 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $35,000~$45,000 | Private schools or language schools |
+| Mid-level (3–7 years) | $45,000~$58,000 | Experienced teacher |
+| Senior (7+ years) | $58,000~$72,000 | Senior teacher or head of teaching at public schools |
+| average salary | $57,192 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从兼职教师晋升为全职教师或教学主管；通过继续教育获得更高资格，如教学法硕士，可进入大学或管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has a positive impact on German as a foreign language teachers, automating some low-level tasks while enhancing instructional design and personalized learning capabilities, amplifying the professional value of teachers.
+
+Can advance from part-time teacher to full-time teacher or teaching director; through further education, obtain higher qualifications such as a Master's in Pedagogy, enabling entry into universities or management.
+
+**Tasks most exposed to AI:**
+
+- Correction and feedback on basic grammar and vocabulary exercises
+- Standardized pronunciation correction
+- Create simple classroom exercises and quizzes
+- Provides template-style answers to common questions
+
+**Where AI augments the role:**
+
+- Use AI to generate personalized reading materials and practice exercises
+- Use speech recognition to analyze student pronunciation and provide detailed feedback
+- Use AI to analyze student learning data and adjust teaching strategies
+- Automatically generate multilingual teaching resources to enrich classroom content
+- Uses AI-simulated conversation scenarios to enhance students' oral practice
+
+**Human moat:**
+
+- Cross-cultural communication and understanding skills
+- Classroom management and interactive motivation
+- Emotional support and personalized coaching
+- Curriculum Design and Teaching Innovation
+- In-depth understanding of the local education system and cultural background
+
+**Skills to build:**
+
+- Use of AI teaching tools (e.g., ChatGPT, speech recognition software)
+- Educational data analysis and learning management system operation
+- Digital course design and multimedia production
+- Cross-cultural teaching strategies.
+- Technology-Enhanced Language Teaching Pedagogy
+- Online and blended teaching modes.
+
+**Key growth areas:**
 
 - Digital learning
 - In-company training
@@ -63,69 +98,68 @@ Foreign language teachers instruct non-native languages such as English, French,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker Visa（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于有德国认可学历的外语教师，需获得雇主合同。 |
-| Subclass EU Blue Card（EU Blue Card） | 年薪低于一般门槛，但若教学岗位为紧缺领域可申请，需至少45,300欧元。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制的求职签证，适合有本科学历和语言能力的申请人。 |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For foreign language teachers with a recognized German qualification; a job offer required. |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary below general threshold, but can apply if teaching position is in shortage field, minimum 45,300 euros. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, suitable for applicants with a bachelor's degree and language skills. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Foreign Language Teacher？**
-- 拥有母语级外语能力者
-- 热爱教学和文化交流
-- 具备教育学或语言学背景
-
-**谁不适合学Foreign Language Teacher？**
-- 厌恶重复性工作
-- 缺乏耐心和沟通能力
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with native-level foreign language proficiency
+- Passionate about teaching and cultural exchange
+- Background in education or linguistics
+
+**Who is not suited**
+- Dislikes repetitive work
+- Lack of patience and communication skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for foreign language teachers in Germany?**
+A: Entry-level approximately €35,000-45,000, senior teachers up to €72,000.
+
+**Q: How can foreigners become foreign language teachers in Germany?**
+A: Requires bachelor's degree and language teaching certificate, can apply for work visa after qualification accreditation.
+
+**Q: What certificates are needed to teach foreign languages in Germany?**
+A: Public schools require passing a teaching qualification exam (Staatsexamen); private schools usually require a TESOL or TEFL certificate.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Foreign Language Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for foreign language teachers in Germany?**
-答：Entry-level salaries range from €35,000 to €45,000, while experienced teachers can earn up to €72,000.
-
-**问：How can foreigners become foreign language teachers in Germany?**
-答：You need a bachelor's degree and language teaching certification; after credential recognition, you can apply for a work visa.
-
-**问：What certifications are needed to teach foreign languages in Germany?**
-答：Public schools require the Staatsexamen; private schools typically require TESOL or TEFL certification.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

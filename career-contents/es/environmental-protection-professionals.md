@@ -1,60 +1,96 @@
-# Environmental Protection Professionals（Environmental Protection Professionals）职业分析 · ES
+# Environmental Protection Professionals — career analysis · Spain
 
-**职业代码：2426 – Environmental Protection Professionals。**
+**Occupation code: 2426 (CNO)**
 
-Professionals who formulate environmental policies, control pollution, protect natural resources, and conduct environmental impact assessments, providing technical consultancy and regulatory compliance services to government, businesses, and NGOs.
+Professionals engaged in environmental policy formulation, pollution control, natural resource protection, and environmental impact assessment, providing technical consulting and regulatory compliance services to governments, enterprises, and non-profit organizations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（环境科学/环境工程） | 4年（Grado） | $680~$2,500（公立大学年均学费，私立更高） |
-| 大学硕士（环境管理/环境法） | 1年（Máster） | $1,500~$5,000（公立大学硕士学费） |
-| 高级职业培训（环境健康） | 2年（FP Grado Superior） | $300~$1,000（公立FP中心年费） |
+| Undergraduate (Environmental Science/Environmental Engineering) | 4 years (Grado) | $680~$2,500 (Average annual tuition at public universities; private ones are higher.) |
+| Master's degree in Environmental Management / Environmental Law | Year 1 (Máster) | $1,500~$5,000 (Master's tuition fees at public universities) |
+| Advanced Vocational Training (Environmental Health) | 2 years (FP Grado Superior) | $300~$1,000 (Public FP Center annual fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境科学或相关学士学位 | 西班牙大学 | 必备 | 必需，通常需 homologación 用于受规管职位 |
-| 环境影响评估认证 | 国家或自治大区环境部门 | 必备 | 从事环评报告编制的必备资质 |
-| 职业资格注册（环境技师） | COAMB（环境生物学家官方协会）等 | 可选 | 非强制但提升竞争力 |
+| Bachelor's degree in Environmental Science or a related field | Spanish University | Required | Required, usually homologación for regulated positions |
+| Environmental Impact Assessment Certification | National or autonomous region environmental departments | Required | Essential qualifications for preparing environmental impact assessment reports |
+| Professional Qualification Registration (Environmental Technician) | COAMB (Official Association of Environmental Biologists), among others | Optional | Not mandatory but enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 18,000。西班牙环保法规日趋严格，绿色转型带动就业增长，预计2025年前该领域职位年增长约3-5%。公共部门与可再生能源公司需求旺盛，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 18,000. As environmental regulations in Spain become increasingly stringent, the green transition is driving job growth, with job growth in this sector expected to grow by about 3-5% annually by 2025. Public sector and renewable energy companies have strong demand but fierce competition.
 
-**竞争度：中等偏高（★★★½☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 应届生或技术员起薪 |
-| 中级（4-8年） | $32,000~$45,000 | 有3年以上经验的顾问或项目经理 |
-| 高级（9年以上） | $45,000~$65,000 | 部门主管、高级政策专家或独立顾问 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary for fresh graduates or technicians |
+| Mid-level (4–8 years) | $32,000~$45,000 | Consultants or project managers with more than 3 years of experience |
+| Senior (9+ years) | $45,000~$65,000 | Department heads, senior policy experts, or independent consultants |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 入门从环境技术员或助理做起，积累经验后可晋升为项目经理或部门主管；资深者可成为环境审计师、政策顾问或独立专家。欧盟资格互认有助于跨境发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
+
+Starting as an environmental technician or assistant, gaining experience can lead to promotion to project manager or department head; Senior professionals can become environmental auditors, policy advisors, or independent experts. EU mutual recognition of qualifications facilitates cross-border development.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate draft routine environmental impact assessment reports
+- Template-based data organization and statistical analysis
+- Document compliance checking (e.g., regulatory clause matching)
+- Basic environmental monitoring data recording and anomaly alerts
+- Literature review and preliminary database screening
+
+**Where AI augments the role:**
+
+- High-precision environmental modeling and pollution dispersion simulation
+- Automatic interpretation of remote sensing images and change detection
+- Real-time environmental impact prediction and scenario analysis
+- AI-assisted regulatory tracking and compliance recommendations
+- Intelligent summaries and visualizations of client reports.
+
+**Human moat:**
+
+- Making judgments and interpretations in complex policies and regulations
+- On-site field sampling and equipment operation
+- Communication and coordination with communities, government, and businesses
+- Develop innovative environmental management strategies
+- Take on professional responsibility and legal endorsement
+
+**Skills to build:**
+
+- Geographic information systems and remote sensing analysis (QGIS, Google Earth Engine)
+- Python/R programming and data science (pandas, scikit-learn)
+- Environmental modeling software (e.g., AERMOD, SWMM)
+- AI tool applications (e.g., ChatGPT for report writing, Copilot for code assistance)
+- Environmental Policy Interpretation and Strategic Consulting
+- Project management and cross-department collaboration
+
+**Key growth areas:**
 
 - Green economy
 - EU regulations
@@ -63,68 +99,67 @@ Professionals who formulate environmental policies, control pollution, protect n
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于大学学历+高于西班牙平均工资1.5倍（约3.7万欧/年）的工作合同，可携家属。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 针对高技能专业人才，需大学学历+工作合同，审批较快，可快速获得居留。 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 标准受雇工作居留，需雇主担保，通过劳动力市场测试。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable for university degree + work contract of at least 1.5 times the Spanish average salary (approx. 37,000 euros/year), can bring family. |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, a university degree + work contract is required, approval is relatively quick, allowing for quick residency acquisition. |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Standard employed work residence requires employer sponsorship and passes the labor market test. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental Protection Professionals？**
-- 热爱自然与环境保护，有较强科学素养和数据分析能力
-- 适合希望从事政策制定、可持续发展咨询或企业ESG岗位的人
-- 愿意持续学习欧盟及西班牙环保法规者
-
-**谁不适合学Environmental Protection Professionals？**
-- 不喜欢频繁出差或户外现场工作的人
-- 对官僚流程和长期项目周期缺乏耐心者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about nature and environmental protection, with strong scientific literacy and data analysis skills
+- Suitable for those seeking to work in policy-making, sustainability consulting, or corporate ESG positions
+- Those willing to continuously study EU and Spanish environmental regulations
+
+**Who is not suited**
+- People who dislike frequent business trips or outdoor field work
+- Those who lack patience for bureaucratic processes and long project cycles
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of environmental protection professionals in Spain?**
+A: Junior: ~24,000-30,000 EUR/year, Mid: 32,000-45,000 EUR/year, Senior: up to 65,000+ EUR/year. Public sector salaries are stable but lower than private consulting firms.
+
+**Q: How can foreign environmental protection professionals immigrate to Spain?**
+A: After holding a relevant university degree and passing homologación, you can apply for the EU Blue Card (requiring a work contract and meeting the salary standard) or the Highly Skilled Professional Visa (Ley 14/2013). This position is rarely listed on the list of in-demand occupations, but the green economy background has an advantage.
+
+**Q: Which universities in Spain have the best environmental protection-related majors?**
+A: Public universities such as the University of Barcelona (Environmental Science), Polytechnic University of Madrid (Environmental Engineering), and University of Valencia (Environmental Management) rank high and offer low tuition fees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等偏高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Environmental Protection Professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for environmental protection professionals in Spain?**
-答：Entry-level around €24,000-30,000/year, mid-level €32,000-45,000/year, senior up to €65,000+/year. Public sector salaries are stable but lower than private consulting firms.
-
-**问：How can foreign environmental protection professionals immigrate to Spain?**
-答：After obtaining a relevant university degree and homologación, you can apply for an EU Blue Card (requires a job contract with sufficient salary) or highly qualified professional visa (Ley 14/2013). This occupation is not on the shortage list, but green economy background helps.
-
-**问：Which universities in Spain are best for environmental protection-related majors?**
-答：University of Barcelona (Environmental Science), Polytechnic University of Madrid (Environmental Engineering), University of Valencia (Environmental Management), among others, are top public universities with low tuition.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

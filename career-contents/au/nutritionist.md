@@ -1,138 +1,166 @@
-# 营养师（Nutritionist）职业分析 · 澳大利亚
+# Nutritionist — career analysis · Australia
 
-**职业代码：251112 – Nutritionist。**
+**Occupation code: 251112 (ANZSCO)**
 
-营养师运用营养科学改善个人与人群的饮食与健康，工作于公共卫生、社区、食品企业与私人执业等领域（需本科及以上）。与营养治疗师（Dietitian）不同，营养师一般不提供临床医学营养治疗。营养师在 GSM 技术移民清单上，可走 189/190/491；但不在 482 的 CSOL 上。
+Nutritionists apply nutrition science to improve diet and health of individuals and populations, working in public health, community, food industry and private practice (requires bachelor's degree or higher). Unlike dietitians, nutritionists generally do not provide clinical medical nutrition therapy. Nutritionists are on the GSM skilled occupation list and eligible for 189/190/491; but not on the 482 CSOL.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Bachelor of Nutrition / Nutrition Science（营养学学士） | 3年 | $30,000~$90,000（技术移民与执业的基础学历） |
-| 硕士（公共卫生营养/运动营养，可选） | 1.5~2年 | $35,000~$80,000（提升专业方向与就业竞争力） |
+| Bachelor of Nutrition / Nutrition Science | 3 years | $30,000~$90,000 (Basic qualifications for skilled migration and practice) |
+| Master's degree (Public Health Nutrition/Sports Nutrition, optional) | 1.5–2 years | $35,000~$80,000 (Enhancing Professional Direction and Employment Competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 营养学本科及以上学历 | 认可大学 | 必备 | 执业与技能评估的基础 |
-| VETASSESS 技能评估（移民） | VETASSESS | 可选 | 189/190/491 技术移民评估机构 |
-| Nutrition Society of Australia 注册（RNutr，可选） | NSA | 可选 | 提升专业认可度 |
+| Bachelor's degree or higher in nutrition | Recognised university | Required | Basis for practice and skills assessment |
+| VETASSESS Skills Assessment (Migration) | VETASSESS | Optional | 189/190/491 Skilled Migration assessing authority |
+| Nutrition Society of Australia Registration (RNutr, Optional) | NSA | Optional | Enhance professional recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 —。健康与预防医学意识提升推动营养相关岗位增长；公共卫生、食品行业合规与运动营养是活跃方向。营养师为技能等级 1 的专业职业，是较友好的技术移民职业之一（VETASSESS 评估）。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Rising Health and Preventive Medicine Awareness Drives Growth in Nutrition-Related Roles; Public Health, Food Industry Compliance, and Sports Nutrition are Active Areas. Dietitian is a Skill Level 1 Professional Occupation and One of the More Friendly Skilled Migration Occupations (VETASSESS Assessment).
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 100~400 个 | 全国岗位区间（含兼职/合同） |
-| Indeed | 70~320 个 | 含俱乐部、工作室、自由职业 |
-
-**竞争度：中高（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 初级营养师（0~2年） | $60,000~$72,000 | 社区/公共卫生起薪 |
-| 有经验营养师（2~8年） | $72,000~$95,000 | 食品行业/私人执业更高 |
-| 资深/管理或私人执业 | $95,000~$130,000 | 管理岗/自营/企业健康 |
+| Median salary | $86,684 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Junior nutritionist (0~2 years) | $60,000~$72,000 | Community/Public Health Starting Salary |
+| Experienced nutritionist (2-8 years) | $72,000~$95,000 | Higher in food industry/private practice |
+| Senior/management or private practice | $95,000~$130,000 | Management/self-employment/corporate wellness |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中高（★★★½☆）。** 预防健康、食品标签合规与个性化营养（含数据/可穿戴）兴起；与 Dietitian 的执业边界需注意区分。
-**AI替代风险：中低（★★☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Entry-level positions for nutritionists (AU) face compression risk from AI and digital tools, but core tasks like nutrition counselling and programme design are hard to replace by AI; overall career prospects are mixed.
 
-- 公共卫生与社区营养
-- 食品行业（研发/标签合规）
-- 私人执业与企业健康
-- 运动营养
+Preventive health, food label compliance, and personalized nutrition (including data/wearables) are emerging; note the scope boundary with Dietitians.
+
+**Tasks most exposed to AI:**
+
+- Generate standardised daily meal plans and nutritional recipes
+- Analyze basic meal records through algorithms and output reports
+- Auto-response to common nutrition queries (e.g., weight loss, muscle gain)
+- Assist in drafting nutrition education materials
+- Use AI tools for preliminary review of nutrition labels and ingredient lists
+
+**Where AI augments the role:**
+
+- Use AI to analyse client genetics, gut microbiota, etc., for personalised nutrition plans
+- Using natural language processing tools to quickly search latest nutrition research literature
+- Rapid assessment of food intake and nutrients using AI image recognition
+- Conduct remote nutrition consultations and client tracking using AI platforms
+- Using data visualisation tools to create nutrition intervention effect reports
+
+**Human moat:**
+
+- Dietary adjustments and medical ethics judgment for complex chronic diseases (e.g., diabetes, kidney failure)
+- Deep communication and motivation regarding client psychology and behaviour change
+- Comprehensive assessment and program design across cultural, social, and personal backgrounds
+- Nutrition policy development, public health program design and evaluation
+- Addressing trust and compliance issues with AI advice for individuals
+
+**Skills to build:**
+
+- AI-assisted health data analysis (e.g., Python, R, AI platforms)
+- Behavioral psychology and health coaching techniques
+- Remote Health Management and Digital Tool Application
+- Nutrition research methods and evidence-based practice updates
+- Data visualisation and communication skills
+- Interdisciplinary collaboration skills (with doctors, data scientists, etc.)
+
+**Key growth areas:**
+
+- Public Health & Community Nutrition
+- Food Industry (R&D/Label Compliance)
+- Private Practice & Corporate Wellness
+- Sports Nutrition
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent） | 邀请制；需相关学位与技能评估（VETASSESS） |
-| Subclass 190（Skilled Nominated） | 州/领地提名 |
-| Subclass 491（Skilled Work Regional） | 偏远地区提名（临时转永居） |
-| Subclass 482（Skills in Demand） | 雇主担保（注意：该职业在 GSM 清单，但不在 482 的 CSOL，482 仅限劳务协议） |
+| Subclass 189 (Skilled Independent) | Invitation-only; relevant degree and skills assessment required (VETASSESS) |
+| Subclass 190 (Skilled Nominated) | State / Territory nomination |
+| Subclass 491 (Skilled Work Regional) | Regional nomination (temporary to permanent residency) |
+| Subclass 482 (Skills in Demand) | Employer sponsorship (note: this occupation is on the GSM list but not on the 482 CSOL; 482 is limited to labour agreements) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学营养师？**
-- 有营养学本科及以上学历
-- 希望走技术移民（189/190/491）路径
-- 对公共卫生/食品行业/运动营养有兴趣
-
-**谁不适合学营养师？**
-- 无相关学位且不愿进修
-- 想做临床医学营养治疗（那是 Dietitian 的范畴）
-- 期望短期低门槛快速入行
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a bachelor's degree or higher in nutrition
+- Want to pursue skilled migration (189/190/491) pathway
+- Interest in public health/food industry/sports nutrition
+
+**Who is not suited**
+- No relevant degree and unwilling to study further
+- Want to do clinical medical nutrition therapy (that's the domain of Dietitians)
+- Expecting low-barrier quick entry
+
+---
+
+## 8. FAQ
+
+**Q: How much do dietitians earn in Australia?**
+A: Entry Level: Approx. $60k~$72k; Experienced: Approx. $72k~$95k (Higher in Food Industry/Private Practice); Senior/Managerial or Private Practice: Approx. $95k~$130k.
+
+**Q: Can nutritionists immigrate to Australia via skilled migration?**
+A: Yes. Nutritionist (251112) is on the GSM Skilled Migration Occupation List, eligible for 189/190/491 (requires VETASSESS Assessment and good English/points); but not on the 482 CSOL, employer-sponsored 482 is limited to labour agreements.
+
+**Q: What is the difference between a Dietitian and a Nutritionist?**
+A: Dietitian (251111) is subject to stricter clinical registration, can provide medical nutrition therapy (MNT) in hospitals, and is more recognized in most immigration and health insurance systems; Nutritionist (251112) focuses on public health, community, food industry, and general nutrition guidance, usually without clinical treatment. Both are on the skilled migration lists.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| VETASSESS | Nutritionist (251112) 技能评估信息 |
-| Department of Home Affairs | 技术职业清单（GSM） |
-| Jobs and Skills Australia | 营养专业职业概况（2511） |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★½☆） |
-| 学习难度 | 中高（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中高（★★★☆☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中高（★★★½☆） |
-| AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-营养师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲营养师收入多少？**
-答：初级约 $60k~$72k；有经验约 $72k~$95k（食品行业/私人执业更高）；资深/管理或私人执业约 $95k~$130k。
-
-**问：营养师能技术移民澳洲吗？**
-答：可以。Nutritionist (251112) 在 GSM 技术移民清单上，可走 189/190/491（需 VETASSESS 评估与较好英语/分数）；但不在 482 的 CSOL 上，雇主担保 482 仅限劳务协议。
-
-**问：营养师和营养治疗师（Dietitian）有什么区别？**
-答：Dietitian（251111）受更严格的临床注册管理，可在医院提供医学营养治疗（MNT），且在多数移民与医保体系中认可度更高；Nutritionist（251112）侧重公共卫生、社区、食品行业与一般营养指导，通常不做临床治疗。两者都在技术移民清单上。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

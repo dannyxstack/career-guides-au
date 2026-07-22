@@ -1,60 +1,95 @@
-# Fast Food Preparer（Fast Food Preparer）职业分析 · ES
+# Fast Food Preparer — career analysis · Spain
 
-**职业代码：9320 – Fast Food Preparer。**
+**Occupation code: 9320 (CNO)**
 
-Fast Food Preparers are responsible for quickly preparing and assembling simple food items such as burgers, sandwiches, and fries in fast-food restaurants, snack bars, or takeaway outlets. The work is fast-paced, requires cleanliness, and focuses on food safety and customer service.
+Fast food preparers are responsible for quickly preparing and preparing simple foods such as burgers, sandwiches, and French fries in fast food restaurants, snack bars, or takeout shops. The work pace is fast, requiring cleanliness and efficiency, with a focus on food safety and customer service.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 无需正式学历 | 无 | —（一般仅需在岗培训） |
-| 中等职业教育 (FP Grado Medio) | 2年 | $300~$2,000（公立学校学费较低，私立较高） |
+| No formal education required | None | $0~$0 (Generally, only on-the-job training is required) |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $300~$2,000 (Public schools have lower tuition fees, while private ones have higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全培训证书 | 各自治区卫生部门 | 可选 | 部分雇主要求，非全国强制 |
-| 食品处理许可证 | 西班牙食品安全局 | 可选 | 部分自治区要求 |
+| Food safety training certificate | Health departments of all autonomous regions | Optional | Some employers require it, not nationwide |
+| Food handling permit | Spanish Food Safety Authority | Optional | Some autonomous regions require this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。西班牙快餐业持续增长，特别是在旅游城市和人口密集区。由于该行业用工需求大、流动性高，岗位机会较多，但多为临时或兼职合同。就业竞争中等，但入门门槛低。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. Spain's fast-food industry continues to grow, especially in tourist cities and densely populated areas. Due to the high labor demand and high mobility in this industry, there are many job opportunities, but most are temporary or part-time contracts. Competition for employment is moderate, but the entry threshold is low.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $14,000~$18,000 | 税前年薪，含加班 |
-| 中级（3-6年） | $18,000~$22,000 | 税前年薪 |
-| 高级（6年以上） | $22,000~$26,000 | 税前年薪，含主管津贴 |
+| Median salary | $16,668 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $14,000~$18,000 | Annual pre-tax salary, including overtime |
+| Mid-level (3–6 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Senior (6+ years) | $22,000~$26,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $17,017 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 从快餐制备员可逐步晋升为厨房主管、值班经理或餐厅经理。通过积累经验，也可以转向餐饮连锁店的培训或质量控制岗位。部分人员可选择开办自己的小型快餐业务。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+The work of fast food preparers is highly repetitive and standardized, and AI automation will significantly replace their core tasks. The number of entry-level positions is shrinking, but some customer interactions and complex food preparation still retain human roles.
+
+You can gradually advance from a fast food preparer to kitchen supervisor, duty manager, or restaurant manager. By gaining experience, they can also move on to training or quality control positions in restaurant chains. Some individuals may choose to start their own small fast food businesses.
+
+**Tasks most exposed to AI:**
+
+- Automatically assemble burgers or sandwiches according to orders
+- Operate the automatic fries cooking machine to finish frying
+- Receive and process customer orders through an AI voice system
+- Use robots to clean and disinfect tableware and equipment
+- Inventory monitoring and automated replenishment processes
+
+**Where AI augments the role:**
+
+- Use AI scheduling systems to optimize employee shifts and efficiency
+- AI-assisted quality control (such as checking food temperature and time)
+- Using data analysis to predict peak passenger flow and prepare meals in advance
+- Manage online orders and coordinate delivery using mobile devices
+
+**Human moat:**
+
+- Handcrafted complex or customized dishes (such as special sauces and plating)
+- Handling sudden customer complaints and special needs
+- Maintain customer relationships and create a friendly atmosphere
+- Manual emergency handling in case of equipment failure
+- Sensory judgment for food safety inspections (such as smell and sight)
+
+**Skills to build:**
+
+- Basic kitchen automation equipment operation and maintenance
+- Digital ordering system and inventory management software
+- Basic Data Analysis (Forecasting Passenger Flow and Material Demand)
+- Customer communication and conflict resolution
+- Multitasking and time management
+- Knowledge of food safety regulations and compliance
+
+**Key growth areas:**
 
 - Fast food
 - Takeaway
@@ -63,65 +98,67 @@ Fast Food Preparers are responsible for quickly preparing and assembling simple 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employer Sponsored)） | 需要雇主担保，且证明该岗位无法招到欧盟公民。由于该职业技能要求低，通常很难通过此途径移民。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，但需有足够经济能力。 |
+| Subclass Cuenta ajena (Work Permit (Employer Sponsored)) | Employer sponsorship is required, and there is proof that the position cannot recruit EU citizens. Because this profession requires low skill levels, it is usually difficult to immigrate through this pathway. |
+| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must have sufficient financial means. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fast Food Preparer？**
-- 希望快速进入劳动市场、不介意高强度体力工作的人
-- 在餐饮行业寻求入门级岗位的年轻人
-- 计划利用短期工作积累经验并学习西班牙语的人
+**Who is suited**
+- Those who want to enter the labor market quickly and don't mind high-intensity physical work
+- Young people seeking entry-level positions in the restaurant industry
+- Those planning to gain experience and learn Spanish through short-term work
 
-**谁不适合学Fast Food Preparer？**
-- 追求高薪资和长期职业发展的人
-- 不喜欢站立工作和快节奏环境的人
+**Who is not suited**
+- People who pursue high salaries and long-term career development
+- People who dislike standing work and fast-paced environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for fast food preparers in Spain?**
+A: Junior annual salary approx. EUR 14,000-18,000, senior up to EUR 22,000-26,000 (pre-tax). Salary varies by region and employer, slightly higher in big cities.
+
+**Q: Can foreigners immigrate to Spain through the fast food preparation worker career?**
+A: It's very difficult. This occupation requires low skill levels, making it difficult for employers to prove that the position cannot be held by EU citizens. Unless you have long-term residence in Spain or family reunification, it is almost impossible to immigrate through work.
+
+**Q: What are the promotion opportunities for fast food preparers?**
+A: You can be promoted to kitchen supervisor, duty manager, or restaurant manager, or move to regional training or quality control roles in restaurant chains. Some choose to start businesses and open small fast food restaurants.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fast Food Preparer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Fast Food Preparer in Spain?**
-答：Entry-level salaries range from €14,000 to €18,000 gross per year, while experienced workers can earn up to €22,000–€26,000. Salaries vary by region and employer, with higher pay in large cities.
-
-**问：Can a foreigner immigrate to Spain as a Fast Food Preparer?**
-答：It is very difficult because the job requires low skills, and employers must prove no EU worker can fill the position. Except through family reunification or existing residence, work-based immigration is unlikely.
-
-**问：What are the career advancement opportunities for a Fast Food Preparer?**
-答：Promotion to kitchen supervisor, shift manager, or restaurant manager is possible. Some move into training or quality control roles within chains, or start their own small fast-food business.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

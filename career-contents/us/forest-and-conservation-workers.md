@@ -1,61 +1,92 @@
-# Forest and Conservation Workers（Forest and Conservation Workers）职业分析 · 美国
+# Forest and Conservation Workers — career analysis · United States
 
-**职业代码：45-4011 – Forest and Conservation Workers。**
+**Occupation code: 45-4011 (SOC)**
 
-Perform manual labor to develop, maintain, or protect forests, woodlands, wetlands, and rangelands, including seedling planting, pest control, and erosion control.
+Performs physical labor in tree planting, pest control, soil conservation, etc., under supervision to maintain forest, wetland, and grassland ecosystems.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无 | —（通常无需高等教育） |
-| 副学士学位（林业技术） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma | None | $0~$0 (Usually no higher education required) |
+| Associate degree (Forestry Technology) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 野外急救证书 | 红十字会等 | 可选 | 部分雇主要求 |
-| 商业驾驶执照（CDL） | 州DMV | 可选 | 操作重型设备时可能需要 |
-| 农药施用许可证 | 州农业部门 | 可选 | 涉及化学品时强制 |
+| Wilderness first aid certificate. | Red Cross, etc. | Optional | Some employers require |
+| Commercial Driver's License (CDL) | State DMV | Optional | May be required when operating heavy equipment |
+| Pesticide Applicator License | State agriculture department | Optional | Mandatory when chemicals are involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。美国林业服务需求稳定，但受政府预算影响；气候行动和野火管理增加岗位，整体就业增长缓慢。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. Demand for U.S. forestry services is stable but affected by government budgets; climate action and wildfire management add jobs, but overall employment growth is slow.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 时薪约$13-17 |
-| 中级（3-7年） | $35,000~$45,000 | 含加班和季节性奖金 |
-| 高级（7年以上/领班） | $45,000~$55,000 | 管理职责加薪 |
+| Median salary | $43,680 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Hourly wage about $13-$17 |
+| Mid-level (3–7 years) | $35,000~$45,000 | Including overtime and seasonal bonuses |
+| Senior (7+ years/team leader) | $45,000~$55,000 | Salary increase for management duties |
+| average salary | $43,680 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从普通工人晋升为领班或技术员，部分通过经验积累转岗为护林员或自然资源专家。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI/automation's impact on forest and conservation workers is generally augmentative rather than substitutive: physical tasks are hard to automate, but AI greatly enhances efficiency and decision-making through drone monitoring, smart tools, and data analysis.
+
+Can advance from general worker to supervisor or technician; some transition to roles such as ranger or natural resource specialist through experience.
+
+**Tasks most exposed to AI:**
+
+- Manual patrol route planning (replaced by AI path optimization)
+- Manually record tree growth data (replaced by automatic sensors)
+- Paper report filling (AI voice-to-text + auto-generation)
+
+**Where AI augments the role:**
+
+- Using drones and AI image recognition to quickly assess forest pest and disease areas
+- Using satellite remote sensing data and AI analysis to plan optimal tree-planting plots
+- Uses a mobile app to report location and findings in real time, with AI-assisted decision-making.
+- AI simulates soil erosion risk to guide prioritization of protection measures
+
+**Human moat:**
+
+- Safely operate chainsaws, excavators, and other heavy equipment in complex terrain
+- On-site assessment of fire risks, wildlife traces, and other non-quantifiable clues
+- Interpersonal communication and coordination with teams, communities, and landowners
+
+**Skills to build:**
+
+- Drone operation and compliance (FAA Part 107 license).
+- Basic GIS software (e.g., QGIS, ArcGIS)
+- Proficient in using smartphones and workflow apps
+- Basic data analysis (Excel/Google Sheets)
+- Ecological monitoring sensor installation and maintenance.
+- Project communication and report writing skills
+
+**Key growth areas:**
 
 - Wildfire Mitigation
 - Reforestation
@@ -64,65 +95,67 @@ Perform manual labor to develop, maintain, or protect forests, woodlands, wetlan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性林业工作常用，但需雇主担保且配额紧张。 |
-| Subclass EB-3（Employment-Based Immigration: Skilled Workers） | 极少使用，需PERM劳工证，通常要求更高技能。 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Commonly used for seasonal forestry work, but requires employer sponsorship and quota is tight. |
+| Subclass EB-3 (Employment-Based Immigration: Skilled Workers) | Rarely used, requires PERM labor certification, usually requires higher skills. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Forest and Conservation Workers？**
-- 热爱户外体力劳动的人
-- 追求稳定而非高薪的人
-- 对生态保护有热情的人
+**Who is suited**
+- People who love outdoor physical labor
+- Those seeking stability rather than high salary
+- People passionate about ecological conservation
 
-**谁不适合学Forest and Conservation Workers？**
-- 偏好办公室环境的人
-- 寻求高收入和晋升机会的人
+**Who is not suited**
+- People who prefer an office environment
+- People seeking high income and promotion opportunities
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of forest workers?**
+A: Entry-level annual salary approximately $28,000–$35,000; senior foreperson can reach $55,000.
+
+**Q: Can foreigners immigrate to the U.S. through this occupation?**
+A: Almost impossible. This occupation typically uses H-2B seasonal visas, and skilled migration green cards are extremely difficult to obtain due to low wages and low requirements.
+
+**Q: What are the future employment prospects?**
+A: Affected by government budgets, but wildfire management and climate projects may increase positions; overall growth is slow.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Forest and Conservation Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for forest workers?**
-答：Entry-level annual salary is about $28,000-35,000, while senior foremen can earn up to $55,000.
-
-**问：Can foreigners immigrate to the US through this occupation?**
-答：Highly unlikely. The job mainly uses H-2B seasonal visas, and employment-based green cards are rarely available due to low wages and skill requirements.
-
-**问：What is the future job outlook?**
-答：Dependent on government budgets, but wildfire management and climate projects may create opportunities; overall growth is slow.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

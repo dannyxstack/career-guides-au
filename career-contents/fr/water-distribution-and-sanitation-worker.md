@@ -1,60 +1,96 @@
-# Water Distribution and Sanitation Worker（Water Distribution and Sanitation Worker）职业分析 · FR
+# Water Distribution and Sanitation Worker — career analysis · France
 
-**职业代码：K2301 – Water Distribution and Sanitation Worker。**
+**Occupation code: K2301 (ROME)**
 
-Responsible for maintaining drinking water networks, sewage treatment, and water quality monitoring to ensure public water supply and sanitation systems operate properly.
+Responsible for maintaining drinking water pipelines, sewage treatment, and water quality monitoring, ensuring the normal operation of public water supply and sanitation systems.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中+职业培训 | 1-2年（CAP/BEP） | $300~$1,000（通过学徒制可免学费） |
-| 专科（BTS） | 2年（BTS） | $1,000~$3,000（公立学校低学费，私立较高） |
+| High School + Vocational Training | 1-2 years (CAP/BEP) | $300~$1,000 (Tuition can be waived through apprenticeships) |
+| Specialized Studies (BTS) | 2 Years (BTS) | $1,000~$3,000 (Public schools have lower tuition fees, while private ones offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 水质检测认证 | 法国劳动部 | 必备 | 从事水质分析必备 |
-| 管网操作员证书 | 行业联合机构 | 可选 | 可提升晋升机会 |
+| Water quality testing and certification | French Ministry of Labor | Required | Essential for water quality analysis |
+| Pipeline network operator certificate | Industry joint organizations | Optional | Can enhance promotion opportunities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。法国面临管网老化、环保法规趋严，预计未来十年该领域需新增约5万个岗位，尤其在水质监测与智能管网方向。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. France faces aging pipeline networks and stricter environmental regulations; an estimated 50,000 new jobs are needed in this field over the next decade, especially in water quality monitoring and smart pipeline networks.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪 |
-| 中级（4-8年） | $30,000~$35,000 | 含奖金及轮班补贴 |
-| 高级（9年以上） | $36,000~$42,000 | 主管或技术专家 |
+| Median salary | $32,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary |
+| Mid-level (4–8 years) | $30,000~$35,000 | Includes bonuses and shift allowances |
+| Senior (9+ years) | $36,000~$42,000 | Supervisor or technical specialist |
+| average salary | $24,630 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★★☆）。** 可从基层工人晋升为团队主管或技术专家，也可通过在职培训转为水处理工程师或水质分析师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Although the water industry involves outdoor and manual operations, AI and automation are gradually optimizing pipeline monitoring, water quality testing, and dispatching. Junior operational positions are shrinking, while demand for senior maintenance and data analysis positions is rising.
+
+You can be promoted from grassroots workers to team leader or technical expert, or through on-the-job training to become a water treatment engineer or water quality analyst.
+
+**Tasks most exposed to AI:**
+
+- AI-based leak detection systems replace manual foot patrols
+- Automated water quality sensors provide real-time monitoring, replacing manual sampling and laboratory analysis
+- The intelligent dispatch system optimizes network pressure and flow, replacing manual regulation
+- Robotic pipeline inspection and cleaning, replacing manual underground operations
+- AI-driven predictive maintenance replaces regular manual inspections
+
+**Where AI augments the role:**
+
+- The AI anomaly warning system assists operators in quickly locating faults
+- Digital twin models help simulate pipeline renovation plans
+- Data analytics tools enhance water quality trend forecasting capabilities
+- Automatic report generation reduces paperwork
+- AI-assisted decision-making supports emergency response
+
+**Human moat:**
+
+- On-site emergency response and complex fault diagnosis
+- Interpersonal interaction with public communication and handling complaints
+- Manual repair skills for old pipes
+- Cross-departmental coordination and regulatory compliance assessment
+- System integration and customized solution design
+
+**Skills to build:**
+
+- Data Analysis and Visualization (Python, R)
+- SCADA and IoT platform operation
+- GIS and digital twin technology
+- Automation control and PLC fundamentals
+- Sewage treatment processes and water quality models
+- Knowledge of project management and regulatory compliance
+
+**Key growth areas:**
 
 - Water infrastructure renewal
 - Smart metering
@@ -63,62 +99,64 @@ Responsible for maintaining drinking water networks, sewage treatment, and water
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 需法国雇主提供工作合同，且证明无法招聘到本地人 |
-| Subclass Talent Professionnel（Talent Professional Card） | 适用于高技能人才，薪资需达法定门槛 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | A work contract must be provided by a French employer, and it must prove that local workers cannot be recruited |
+| Subclass Talent Professionnel (Talent Professional Card) | Applicable to highly skilled talents, salaries must meet the legal threshold |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Water Distribution and Sanitation Worker？**
-- 喜欢户外和体力工作
-- 注重环保与公共健康
-- 适应轮班和不固定工作时间
+**Who is suited**
+- Likes outdoor and physical work
+- Focus on environmental protection and public health
+- Adapt to shift work and irregular working hours
 
-**谁不适合学Water Distribution and Sanitation Worker？**
-- 追求高薪和办公室工作
-- 不愿接触污水和化学品
+**Who is not suited**
+- Pursue high salaries and office jobs
+- Unwilling to come into contact with sewage and chemicals
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this profession in France?**
+A: Junior annual salary approximately EUR 24,000–28,000, senior up to EUR 42,000, usually with shift allowances.
+
+**Q: Is it easy for foreigners to enter this profession through skilled migration?**
+A: Difficult, because French proficiency is required, and employers need to prove they cannot recruit locally. But shortage areas may have more opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Water Distribution and Sanitation Worker属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in France?**
-答：Entry-level annual salary is around €24,000-€28,000, and senior roles can reach €42,000, with shift allowances.
-
-**问：Is it easy for foreigners to immigrate through this occupation?**
-答：It is difficult, as French language skills are required and employers must prove no local candidate is available. Shortage regions may offer more opportunities.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

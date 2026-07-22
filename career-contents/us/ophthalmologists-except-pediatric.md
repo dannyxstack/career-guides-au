@@ -1,62 +1,96 @@
-# Ophthalmologists, Except Pediatric（Ophthalmologists, Except Pediatric）职业分析 · 美国
+# Ophthalmologists, Except Pediatric — career analysis · United States
 
-**职业代码：29-1241 – Ophthalmologists, Except Pediatric。**
+**Occupation code: 29-1241 (SOC)**
 
-Diagnose and treat eye diseases, perform eye surgeries, and provide vision correction services such as glasses and contact lenses. Excludes optometrists and pediatric ophthalmologists.
+Diagnose and treat eye diseases, perform eye surgeries, and provide vision correction services (e.g., glasses and contact lenses). Does not include optometrists or pediatric ophthalmologists.
 
-> 注：本职业为**受限技术移民职业**，不在美国独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：极高（★★★★★）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科 | 4年 | $50,000~$150,000（学费因公立/私立大学差异大） |
-| 医学院 | 4年 | $150,000~$300,000（含学费和生活费） |
-| 眼科住院医师培训 | 4年 | $50,000~$80,000（期间有薪资但需支付部分费用） |
+| Bachelor's degree | 4 years | $50,000~$150,000 (Tuition varies greatly between public and private universities) |
+| Medical school. | 4 years | $150,000~$300,000 (Including tuition and living expenses) |
+| Ophthalmology residency training | 4 years | $50,000~$80,000 (Paid during the period but must cover some costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学博士学位（MD或DO） | 认证医学院 | 必备 | 完成医学院并取得学位 |
-| 美国医师执照（USMLE） | 美国医学联合会 | 必备 | 通过三步考试 |
-| 眼科委员会认证 | 美国眼科委员会 | 必备 | 通过笔试和口试 |
+| Doctor of Medicine (MD or DO) | Accredited medical school | Required | Complete medical school and obtain a degree |
+| U.S. Medical Licensing Examination (USMLE) | American Medical Association | Required | Pass a three-step exam |
+| Ophthalmology board certification | American Board of Ophthalmology | Required | Through written and oral exams |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 23,500。随着人口老龄化和视力健康意识提高，眼科医生需求持续增长。预计2023-2033年就业增长约9%，快于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 23,500. With an aging population and increased awareness of vision health, demand for ophthalmologists continues to grow. Employment is projected to grow about 9% from 2023-2033, faster than average.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $200,000~$250,000 | 住院医师完成后的初级职位 |
-| 中级（4-9年） | $300,000~$400,000 | 经验丰富的医生 |
-| 高级（10年以上） | $400,000~$600,000 | 资深专家或私人诊所所有者 |
+| Median salary | $300,080 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $200,000~$250,000 | Entry-level position after residency. |
+| Intermediate (4-9 years) | $300,000~$400,000 | Experienced doctor |
+| Senior (10+ years) | $400,000~$600,000 | Senior expert or private clinic owner |
+| average salary | $304,650 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 通常先完成医学学位和住院医师培训，然后可专攻视网膜、青光眼等亚专业。资深医生可升任科室主任或开设私人诊所。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance ophthalmologists' diagnosis and surgical planning, but cannot replace their surgical operations and clinical decision-making responsibilities; entry-level positions will be slightly reduced due to the spread of assistive diagnostic tools, but overall demand remains stable.
+
+Usually complete a medical degree and residency training, then specialize in subspecialties such as retina or glaucoma. Senior doctors can become department heads or open private practices.
+
+**Tasks most exposed to AI:**
+
+- Preliminary interpretation of routine fundus photography and visual field tests
+- Standardized refraction and prescription suggestions in optometry procedures.
+- Routine vision checks and simple complication screening during post-operative follow-ups
+- Data entry and organization of patient electronic health records
+
+**Where AI augments the role:**
+
+- Use AI-assisted diagnostic systems to quickly identify diabetic retinopathy, macular degeneration, and other fundus diseases
+- Optimize cataract, glaucoma, and other surgical plans using AI surgical planning software
+- Applying preoperative simulation and intraoperative navigation systems to improve surgical precision and safety
+- Using natural language processing tools to automatically generate medical records and surgical reports
+
+**Human moat:**
+
+- Hands-on ability for high-risk eye surgeries (e.g., complex retinal detachment, corneal transplantation)
+- Empathetic communication with patients, explaining diagnostic results and treatment plans
+- Clinical reasoning and personalised treatment decisions for rare or complex cases
+- Assumes medical legal liability and ethical judgment
+- Leadership and coordination skills in interdisciplinary collaboration
+
+**Skills to build:**
+
+- Master the operation and result interpretation of AI-based eye disease diagnostic software (e.g., IDx-DR)
+- Learn surgical robot (e.g., Da Vinci) operation skills or navigation system usage
+- Data analysis and basic statistics knowledge to evaluate AI-assisted diagnostic effectiveness
+- Communication and patient education skills to compensate for the emotional gap caused by automation
+- Cross-disciplinary team collaboration and AI tool management skills
+- Continuously monitors the latest FDA-approved AI medical devices
+
+**Key growth areas:**
 
 - Aging population
 - Increased eye disease prevalence
@@ -65,69 +99,68 @@ Diagnose and treat eye diseases, perform eye surgeries, and provide vision corre
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 用于医学院毕业后的住院医师或工作，但名额有限，竞争激烈。 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在眼科领域有杰出成就的医生，无配额限制。 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需PERM劳工证，适合具有高级学位或特殊能力的眼科医生。 |
+| Subclass H-1B (H-1B Specialty Occupation) | Used for residency or work after medical school graduation, but slots are limited and competition is intense. |
+| Subclass O-1 (O-1 Extraordinary Ability) | For doctors with outstanding achievements in ophthalmology, no quota limit. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires PERM labor certification, suitable for ophthalmologists with advanced degrees or exceptional ability. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Ophthalmologists, Except Pediatric？**
-- 对眼科医学有强烈兴趣且能承受长期培训的人
-- 手动操作精细且抗压能力强的人
-- 希望获得高收入和职业稳定性的人
-
-**谁不适合学Ophthalmologists, Except Pediatric？**
-- 不愿接受多年高强度医学教育的人
-- 对手术和临床工作不感兴趣的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in ophthalmology and ability to withstand long training periods
+- People with fine manual skills and stress tolerance.
+- Those seeking high income and career stability
+
+**Who is not suited**
+- Those unwilling to undergo years of intensive medical education
+- People not interested in surgery and clinical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for ophthalmologists?**
+A: According to the US Bureau of Labor Statistics, the median annual salary for ophthalmologists in 2023 was approximately USD 350,000, ranging from USD 200,000 to over USD 600,000.
+
+**Q: How can a foreign ophthalmologist work in the US?**
+A: Common pathways include participating in a residency program via H-1B visa, or applying for an O-1 visa for extraordinary ability. Green card may be possible through EB-2, but requires PERM labor certification.
+
+**Q: What steps are needed to become an eye doctor (ophthalmologist) in the US?**
+A: Requires completing 4 years bachelor's, 4 years medical school, 4 years ophthalmology residency, and passing USMLE and ophthalmology board certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★★) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | high (★★★★☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 极长（★★★★½） |
-| 学习难度 | 极高（★★★★★） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 极高（★★★★★） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Ophthalmologists, Except Pediatric为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for ophthalmologists?**
-答：According to BLS, the median annual wage for ophthalmologists in 2023 was around $350,000, ranging from $200,000 to over $600,000.
-
-**问：How can foreign ophthalmologists work in the US?**
-答：Common paths include: H-1B visa for residency programs, or O-1 visa for extraordinary ability. Green card via EB-2 requires PERM labor certification.
-
-**问：What steps are required to become an ophthalmologist in the US?**
-答：Complete 4-year bachelor's, 4-year medical school, 4-year ophthalmology residency, and pass USMLE and board certification.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

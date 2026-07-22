@@ -1,62 +1,96 @@
-# Building Technical Inspector and Diagnostician（Building Technical Inspector and Diagnostician）职业分析 · FR
+# Building Technical Inspector and Diagnostician — career analysis · France
 
-**职业代码：F1103 – Building Technical Inspector and Diagnostician。**
+**Occupation code: F1103 (ROME)**
 
-Responsible for technical inspections and diagnostics of buildings (structure, energy, asbestos, termites), issuing legal reports for compliance and safety.
+Responsible for technical testing and diagnosis of building structures, energy efficiency, asbestos, termites, and other areas, issuing statutory reports to ensure building compliance and safety.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育（BTS） | 2年（BTS） | —（BTS可通过公立学校免费或低学费获得） |
-| 高级技术文凭（Bac+3） | 3年（licence professionnelle） | $500~$6,000（职业学士学费低，公立大学约500-600欧/年） |
-| 学徒制（Apprentissage） | 2年（CQP） | —（职业资格证CQP通常通过学徒制免费获得） |
+| Secondary Education (BTS) | 2 Years (BTS) | $0~$10,000 (BTS can be obtained for free or at low tuition through public schools) |
+| Advanced Technical Diploma (Bac+3) | 3 years (licence professionnelle) | $500~$6,000 (Vocational bachelor's tuition is low, with public universities costing about 500-600 euros per year) |
+| Apprentissage | 2 years (CQP) | $0~$0 (Professional qualification certificates (CQP) are usually obtained free of charge through apprenticeships) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP诊断员证书 | FFB或专业机构 | 必备 | 强制要求，针对不同检测领域（如石棉、能源） |
-| BTS建筑与工程 | 法国教育部 | 可选 | 普遍要求，作为基础学历 |
-| 职业许可证（Carte professionnelle） | 法国政府 | 可选 | 仅自雇检测员需要 |
+| CQP diagnostician certificate | FFB or professional institutions | Required | Mandatory requirements for different testing fields (such as asbestos, energy) |
+| BTS Architecture & Engineering | French Ministry of Education | Optional | Universally required as a basic academic credential |
+| Professional License (Carte professionnelle) | The French government | Optional | Only self-employed testers are needed |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 35,000。法国建筑节能改造需求旺盛，法规要求严格，导致检测员持续紧缺。预计未来五年就业稳定增长。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. France has strong demand for energy-saving retrofits in buildings, with strict regulations leading to a persistent shortage of inspectors. Employment is expected to grow steadily over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，公立或小型事务所 |
-| 中级（3-8年） | $30,000~$40,000 | 税前年薪，经验丰富或中型机构 |
-| 高级（8年以上） | $40,000~$55,000 | 税前年薪，或自雇资深专家 |
+| Median salary | $35,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $24,000~$30,000 | Pre-tax annual salary, public or small firms |
+| Mid-level (3–8 years) | $30,000~$40,000 | Pre-tax annual salary, experienced or medium-sized institutions |
+| Senior (8+ years) | $40,000~$55,000 | Pre-tax annual salary, or self-employed senior experts |
+| average salary | $47,082 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从初级检测员晋升为资深专家或团队主管，也可开设独立事务所。持有CQP或BTS后可考取更高级认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The tasks of building technology inspection and diagnostics personnel heavily rely on on-site physical inspections and statutory responsibilities, making it difficult for AI to fully replace them. However, cognitive tasks such as report generation and data analysis will be automated, presenting a mixed outlook for the position.
+
+You can be promoted from junior inspector to senior expert or team leader, or open an independent firm. Holding a CQP or BTS can earn you a higher-level certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate standard testing reports and compliance documents
+- Using AI image recognition to analyze architectural defects (such as cracks and termite signs)
+- Automatically predicts structural aging risks based on historical data
+- Automatically extract and organize the data needed for energy efficiency assessments
+
+**Where AI augments the role:**
+
+- Use AI-assisted diagnostic tools to improve detection accuracy and speed
+- By integrating data with drones and sensors, remote assessments can be achieved
+- Using AI to simulate building energy efficiency retrofits and optimize recommendations
+- Using digital twin technology to monitor building conditions in real time
+- AI-driven risk assessment models assist decision-making
+
+**Human moat:**
+
+- The irreplaceability of on-site physical testing (sample collection, instrument operation)
+- Statutory Responsibility and Professional Judgment (Signing Legal Documents, Assuming Responsibility)
+- Communication, coordination, and explanation capabilities with clients and regulators
+- Flexibility in handling unstructured and unexpected situations
+
+**Skills to build:**
+
+- Operation of AI-assisted diagnostic tools (such as computer vision and drones).
+- Data Analysis and Interpretation (Energy Efficiency, Structural Safety Models)
+- Digital twins and BIM (Building Information Modeling) software
+- Integration of smart sensors with IoT devices
+- Interdisciplinary communication and project coordination skills
+- Continuously learn new regulations and testing standards
+
+**Key growth areas:**
 
 - energy renovation
 - termite inspection
@@ -65,69 +99,68 @@ Responsible for technical inspections and diagnostics of buildings (structure, e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee) Work Permit） | 由法国雇主担保，需获得法国工作合同及劳工局许可。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能或创新项目，可简化流程。 |
-| Subclass 欧盟蓝卡（EU Blue Card (Carte Bleue Européenne)） | 高薪或紧缺职业（检测员通常不满足高薪要求）。 |
+| Subclass Salarié (Salarié (Employee) Work Permit) | Sponsored by a French employer, requires a French employment contract and approval from the Labor Department. |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled or innovative projects, streamlining processes. |
+| Subclass EU Blue Card (EU Blue Card (Carte Bleue Européenne)) | High-paying or in-demand occupations (inspectors usually do not meet the high salary requirements). |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Building Technical Inspector and Diagnostician？**
-- 对建筑法规和结构有浓厚兴趣的人
-- 注重细节、善于撰写技术报告的人
-- 希望从事稳定、受政策支持职业的人
-
-**谁不适合学Building Technical Inspector and Diagnostician？**
-- 不喜欢户外现场工作的人
-- 对行政和文书工作缺乏耐心的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in building codes and structures
+- Detail-oriented individuals skilled at writing technical reports
+- Those who want to pursue stable, policy-supported careers
+
+**Who is not suited**
+- People who dislike working outdoors on site
+- People who lack patience for administrative and clerical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for building inspectors in France?**
+A: Entry‑level about €24k‑30k/year, mid‑level €30k‑40k/year, senior €40k‑55k/year. Self‑employed earn more but with less stability.
+
+**Q: How can foreigners become French building inspectors?**
+A: Must obtain a diploma recognized in France (such as BTS) or pass an equivalent accreditation. You can apply for the Salarié visa or Passeport Talent, but qualification verification is the main obstacle.
+
+**Q: What certifications do building inspectors need?**
+A: Required: CQP diagnostician certificate (such as asbestos, energy). Suggestions: BTS Building, etc. Self-employment also requires a professional license.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Building Technical Inspector and Diagnostician为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for building inspectors in France?**
-答：Junior: €24k-30k gross/year; Mid: €30k-40k; Senior: €40k-55k. Self-employed may earn more but less stable.
-
-**问：How can a foreigner become a building inspector in France?**
-答：Requires a French-recognized diploma (e.g., BTS) or equivalence. Can apply for Salarié visa or Talent Passport, but qualification recognition is key.
-
-**问：What certifications are needed for building inspectors?**
-答：Mandatory: CQP certificates for specific diagnostics (asbestos, energy). Recommended: BTS in building. Self-employed need a professional card.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

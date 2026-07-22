@@ -1,60 +1,96 @@
-# Managers and proprietors in agriculture and horticulture（Managers and proprietors in agriculture and horticulture）职业分析 · UK
+# Managers and proprietors in agriculture and horticulture — career analysis · United Kingdom
 
-**职业代码：1211 – Managers and proprietors in agriculture and horticulture。**
+**Occupation code: 1211 (SOC)**
 
-Plan, organise and coordinate activities and resources of farming, mixed farming and horticulture establishments, including arable crops, livestock and plant production.
+Responsible for planning, organizing, and coordinating activities and resources of farms, mixed farms, or horticultural enterprises, including crop cultivation, livestock production, or plant production.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育 | 2年 | —（GCSEs或A-levels通常免费） |
-| 高等国家文凭/学位 | 2-4年 | $9,000~$25,000（英国本科学费每年约9,000-25,000英镑） |
-| 学徒制 | 2-3年 | —（无学费，带薪培训） |
+| Secondary Education | 2 years | $0~$0 (GCSEs or A-levels are usually free) |
+| Higher National Diploma/Degree | 2-4 years | $9,000~$25,000 (Undergraduate tuition in the UK is about £9,000-25,000 per year.) |
+| Apprenticeship | 2-3 years | $0~$0 (no tuition, paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农业学位或高等国家文凭 | 英国大学或学院 | 可选 | 通常为BSc Agriculture或HND Agriculture |
-| 农业管理或相关NVQ | City & Guilds等认证机构 | 可选 | 如NVQ Level 4 in Agriculture |
-| 农药使用证书 | 英国环境、食品和农村事务部 | 必备 | 如PA1/PA2/PA6证书 |
+| Pesticide use certificate | UK Department for Environment, Food and Rural Affairs | Required | e.g., PA1/PA2/PA6 certificates |
+| Agricultural degree or Higher National Diploma | UK universities or colleges | Optional | Typically BSc Agriculture or HND Agriculture |
+| Agricultural Management or related NVQ | Certifying bodies such as City & Guilds | Optional | Such as NVQ Level 4 in Agriculture |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,500。英国脱欧后农业劳动力短缺，自动化与可持续农业需求增加，但整体就业增长平稳，受政策补贴影响较大。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 23,500. Post-Brexit, the UK faces agricultural labor shortages, with increased demand for automation and sustainable agriculture, but overall employment growth is steady, heavily influenced by policy subsidies.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$28,000 | 助理农场经理或初级管理者 |
-| 中级（3-10年） | $28,000~$45,000 | 农场经理或小型农场业主 |
-| 高级（10年以上） | $45,000~$70,000 | 大型农场经理或农场主 |
+| Median salary | $38,182 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $20,000~$28,000 | Assistant Farm Manager or Junior Manager |
+| Intermediate (3-10 years) | $28,000~$45,000 | Farm manager or small farm owner |
+| Senior (10+ years) | $45,000~$70,000 | Large farm manager or farm owner |
+| average salary | $44,744 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从农场工人或初级管理者晋升至农场经理或业主；需积累管理经验与农业技术认证，也可转向农业咨询或供应链管理。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Can advance from farm worker or junior manager to farm manager or owner; need to accumulate management experience and agricultural technology certification, or shift to agricultural consulting or supply chain management.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Sustainable agriculture
 - Automation
@@ -63,66 +99,65 @@ Plan, organise and coordinate activities and resources of farming, mixed farming
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 农业与园艺管理者符合技术工人签证资格，最低薪资要求约26,200英镑/年。 |
-| Subclass Graduate（Graduate Visa） | 持有农业相关学位者可在英国毕业后工作2年（博士3年）。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在可持续农业或农业科技领域有杰出成就者，无薪资要求。 |
-| Subclass Scale-up（Scale-up Worker Visa） | 如果雇主符合Scale-up资质且薪资达到33,000英镑以上，可申请。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Agricultural and horticultural managers are eligible for skilled worker visas, with a minimum salary requirement of approximately £26,200 per year. |
+| Subclass Graduate (Graduate Visa) | Graduates with agricultural degrees can work in the UK for 2 years after graduation (3 years for PhDs). |
+| Subclass Global Talent (Global Talent Visa) | Applies to those with outstanding achievements in sustainable agriculture or agritech; no salary requirement. |
+| Subclass Scale-up (Scale-up Worker Visa) | If the employer meets Scale-up criteria and salary exceeds 33,000 GBP, you can apply. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Managers and proprietors in agriculture and horticulture？**
-- 喜欢户外工作和体力活动的人
-- 对农业或园艺有热情并愿意经营农场的人
-- 具备管理能力和商业头脑的人
-
-**谁不适合学Managers and proprietors in agriculture and horticulture？**
-- 不适应户外工作和季节性强、劳动强度大的人
-- 不擅长管理团队和处理不确定性的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy outdoor work and physical activity
+- People passionate about agriculture or horticulture and willing to manage a farm
+- People with management skills and business acumen
+
+**Who is not suited**
+- People who are not suited to outdoor work and seasonal, physically demanding jobs
+- Those not good at managing teams and dealing with uncertainty
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for agricultural managers in the UK?**
+A: Junior: approx. GBP 20,000-28,000; mid-level: approx. GBP 28,000-45,000; senior: up to GBP 45,000-70,000.
+
+**Q: How can overseas individuals immigrate to the UK through the agricultural manager occupation?**
+A: Eligible for Skilled Worker visa, requires employer sponsorship and salary meeting minimum requirements; alternatively, you can pursue an agriculture degree first and then apply for a Graduate visa to transition to a work visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Managers and proprietors in agriculture and horticulture的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for agriculture managers in the UK?**
-答：Entry-level: £20,000-£28,000; Mid-level: £28,000-£45,000; Senior: £45,000-£70,000.
-
-**问：How can overseas workers migrate to the UK as agriculture managers?**
-答：Through the Skilled Worker visa with employer sponsorship and meeting minimum salary; or study an agriculture degree then apply for Graduate visa.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

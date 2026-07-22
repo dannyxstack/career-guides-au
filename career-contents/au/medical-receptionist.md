@@ -1,63 +1,91 @@
-# 医疗前台（Medical Receptionist）职业分析 · 澳大利亚
+# Medical Receptionist — career analysis · Australia
 
-**职业代码：542114 – Medical Receptionist。**
+**Occupation code: 542114 (ANZSCO)**
 
-医疗前台在诊所、医院和专科为患者预约、登记、结算并管理病历系统（如Best Practice/Medical Director），需熟悉Medicare流程，非技术移民职业。
+Medical receptionists schedule appointments, register patients, process billing and manage clinical record systems (such as Best Practice/Medical Director) in clinics, hospitals and specialist practices. Familiarity with Medicare processes is required; this is not a skilled migration occupation.
 
-> 注：本职业为**非技术移民职业**，不在澳洲技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Business / Medical Administration | 6~12个月 | —（部分州补贴） |
+| Certificate III in Business / Medical Administration | 6–12 months | $0~$4,000 (Partial state subsidy) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Health Administration (HLT37315) | TAFE/RTO | 可选 | 非强制但加分 |
+| Certificate III in Health Administration (HLT37315) | TAFE/RTO | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：旺盛（★★★★☆）。** 全国从业人数约 60,000。人口老龄化与医疗扩张支撑稳定需求，熟悉Medicare与诊所软件者更抢手。
+**Job demand: high (★★★★☆).** National workforce approx. 60,000. An ageing population and healthcare expansion underpin steady demand; candidates familiar with Medicare and clinic software are particularly sought after.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 2,000~3,500 个 | 全国 |
-| Indeed | 1,500~2,800 个 | 全国 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 入门 | $50,000~$58,000 | 时薪约$26~$30 |
-| 有经验 | $58,000~$68,000 | 熟悉诊所软件 |
-| 资深 | $68,000~$75,000 | — |
+| Median salary | $63,908 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry-level | $50,000~$58,000 | Approx. $26–$30 per hour |
+| Experienced | $58,000~$68,000 | Familiar with practice management software |
+| Senior | $68,000~$75,000 | — |
+| average salary | $71,292 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可向诊所行政、Practice Manager方向发展。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Medical front desk administration is highly structured; AI voice booking and self-check-in systems will replace much manual work, but face-to-face patient service and complex insurance claims still require human handling. Overall positions decrease but remaining roles require higher skills.
+
+Can progress into clinic administration or Practice Manager roles.
+
+**Tasks most exposed to AI:**
+
+- Handling patient appointments, rescheduling, and cancellations via AI voice bots
+- Self-check-in kiosks or mobile apps for patient registration and insurance verification
+- Automatically generate bills and submit claims to Medicare/private health insurance
+- AI-assisted medical record data entry and duplicate information verification
+
+**Where AI augments the role:**
+
+- AI reminds patients of follow-ups and preventive check-ups, front desk can enhance service quality
+- Automatically analyze patient flow and appointment patterns to optimize scheduling and resource allocation
+- Voice/facial recognition speeds up patient identification, reduces data errors
+- AI chatbots handle common FAQs, allowing front desk to focus on complex inquiries
+
+**Human moat:**
+
+- Ability to handle complex medical insurance claims and abnormal claim coordination
+- Communication skills for dealing with agitated or special-needs patients
+- Cross-departmental coordination (doctors, nurses, pharmacy, Medicare)
+- Responsibility for clinic privacy and compliance management
+
+**Skills to build:**
+
+- Advanced medical software (Best Practice/Medical Director) configuration and maintenance
+- Medical coding and insurance rules (e.g., MBS, PBS)
+- Patient experience design and service process optimization
+- Basic data analysis (appointment patterns, patient satisfaction)
+- Emotional labour and conflict resolution skills
+- Hands-on AI tool operation (e.g., voice assistant backend management)
+
+**Key growth areas:**
 
 - Practice Software (Best Practice/MD)
 - Telehealth Admin
@@ -65,57 +93,58 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / ROL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
----
+**PR friendliness: low (★☆☆☆☆).**
 
-## 7. 适合人群 / 不适合人群
-
-**谁适合学医疗前台？**
-- 细心、有同理心的人
-- 想进入医疗行政路径者
-
-**谁不适合学医疗前台？**
-- 以技术移民为目标者
-- 不适应医疗环境压力者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and empathetic individuals
+- Those looking to enter a healthcare administration pathway
+
+**Who is not suited**
+- Those targeting skilled migration
+- Those who cannot handle the pressures of a healthcare environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for a medical receptionist in Australia?**
+A: Around AUD 50,000-75,000; familiarity with Medicare and clinic software is a plus.
+
+**Q: Can a medical receptionist apply for skilled migration?**
+A: No, this is a non-skilled migration occupation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA / JobOutlook | ANZSCO 就业、人数与需求 |
-| Seek AU | 薪资与岗位量参考 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 很短（★☆☆☆☆） |
-| 学习难度 | 较低（★★☆☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 旺盛（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-医疗前台属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲医疗前台工资多少？**
-答：约AUD $5万~$7.5万，熟悉Medicare和诊所软件有加成。
-
-**问：医疗前台能技术移民吗？**
-答：不能，属于非技术移民职业。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

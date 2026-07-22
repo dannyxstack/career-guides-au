@@ -1,60 +1,92 @@
-# Interviewers, Except Eligibility and Loan（Interviewers, Except Eligibility and Loan）职业分析 · 美国
+# Interviewers, Except Eligibility and Loan — career analysis · United States
 
-**职业代码：43-4111 – Interviewers, Except Eligibility and Loan。**
+**Occupation code: 43-4111 (SOC)**
 
-Interview persons by telephone, mail, in person, or by other means to complete forms, applications, or questionnaires. Ask specific questions, record answers, and assist with form completion. May sort, classify, and file forms.
+Interview individuals via phone, mail, in-person, or other means to complete forms, applications, or questionnaires. Ask specific questions, record answers, and assist in filling out forms. May sort and file forms.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 无固定年限 | —（通常仅需高中文凭，在岗培训） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（部分雇主偏好，但非必需） |
+| High school diploma | No fixed duration | $0~$0 (Usually only a high school diploma, on-the-job training) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Some employers prefer, but not required) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 沟通技巧培训 | 雇主或社区学院 | 可选 | 在职培训或短期课程 |
-| 无强制认证 | 无 | 可选 | 通常无需特定执照或认证 |
+| Communication skills training | Employer or community college | Optional | On-the-job training or short courses |
+| No mandatory certification | None | Optional | Usually no specific license or certification required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 148,500。美国劳工统计局预测2023-2033年就业增长约2%，低于所有职业平均水平。技术进步如在线调查可能减少需求，但市场调研和客户服务领域仍有稳定岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 148,500. The U.S. Bureau of Labor Statistics projects employment growth of about 2% from 2023 to 2033, below average for all occupations. Technological advances like online surveys may reduce demand, but stable positions exist in market research and customer service.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 典型起薪，取决于行业和地区 |
-| 中级（3-7年） | $35,000~$45,000 | 有经验后薪资提升 |
-| 高级（7年以上） | $45,000~$55,000 | 主管或高级访谈员 |
+| Median salary | $45,920 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Typical starting salary, varies by industry and region |
+| Mid-level (3–7 years) | $35,000~$45,000 | Salary increases with experience |
+| Senior (7+ years) | $45,000~$55,000 | Supervisor or senior interviewer |
+| average salary | $47,240 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 初级访谈员可晋升为高级访谈员或团队主管，进一步可转向市场调研分析师、客户服务经理等职位。通常需要积累经验并提升沟通技巧。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Interviewers (excluding eligibility and loan tasks) face highly structured tasks; AI and automation can efficiently replace standardized interviews like phone and online surveys, significantly reducing entry-level positions. However, human input is still needed for sensitive topics or complex human interactions; overall risk is high.
+
+Entry-level interviewers can advance to senior interviewers or team supervisors, and further move to roles such as market research analysts or customer service managers. Typically requires accumulating experience and improving communication skills.
+
+**Tasks most exposed to AI:**
+
+- Conduct standardized questionnaire interviews via phone or online tools
+- Enter interview responses into databases or spreadsheets
+- Sort and file completed forms
+- Repeating questions from a preset script
+
+**Where AI augments the role:**
+
+- AI real-time translation assists cross-language interviews
+- AI sentiment analysis helps identify respondent emotions and true intentions
+- AI recommends follow-up questions or questioning strategies
+
+**Human moat:**
+
+- Empathy and trust-building when dealing with sensitive, traumatic, or private topics
+- Flexible follow-up queries and deep mining of unstructured answers
+- Communication skills for special populations (children, elderly, people with disabilities)
+- Complex interview design requiring judgment and ethical decision-making
+
+**Skills to build:**
+
+- In-depth interviews and narrative analysis
+- Cross-cultural communication and multilingual ability
+- AI dialogue system operation and quality inspection
+- Data ethics and privacy compliance
+- Emotional intelligence and crisis intervention
+- Qualitative data analysis
+
+**Key growth areas:**
 
 - stable
 - low growth
@@ -63,65 +95,67 @@ Interview persons by telephone, mail, in person, or by other means to complete f
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 通常不符合专业职业要求，很少获得H-1B |
-| Subclass EB-3（Employment-Based Third Preference） | 可能通过PERM劳工证申请，但门槛高且需求低 |
+| Subclass H-1B (H-1B Specialty Occupation) | Usually does not meet professional occupation requirements, rarely gets H-1B |
+| Subclass EB-3 (Employment-Based Third Preference) | May apply through PERM labor certification, but high threshold and low demand |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Interviewers, Except Eligibility and Loan？**
-- 擅长沟通和倾听的人
-- 注重细节、有耐心的人
-- 愿意做重复性工作的人
+**Who is suited**
+- People good at communication and listening
+- Detail-oriented, patient people
+- Those willing to do repetitive work
 
-**谁不适合学Interviewers, Except Eligibility and Loan？**
-- 不喜欢长时间打电话或重复性工作的人
-- 希望高薪和快速晋升的人
+**Who is not suited**
+- People who dislike long phone calls or repetitive work
+- Those seeking high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of interviewers?**
+A: According to BLS data, the 2023 median annual salary was about 36,000 USD, entry-level around 28,000 USD, experienced can reach over 45,000 USD. Salary is affected by industry and region.
+
+**Q: Can interviewers immigrate to the US with a work visa?**
+A: Very difficult. This occupation typically does not meet H-1B specialty occupation requirements, and PERM labor certification applications struggle to prove labor shortage. Unless there is a special background, immigration via this occupation is not recommended.
+
+**Q: What are the future employment prospects?**
+A: BLS projects about 2% growth from 2023-2033, slower than average. Online surveys and automation may replace some roles, but demand remains in market research and customer service.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 简单（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Interviewers, Except Eligibility and Loan属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for interviewers?**
-答：According to BLS, median annual wage in 2023 was about $36,000. Entry-level around $28,000, experienced up to $45,000+. Varies by industry and location.
-
-**问：Can interviewers immigrate to the US via work visa?**
-答：Very difficult. The occupation typically does not qualify as a specialty occupation for H-1B, and PERM labor certification is challenging. Not recommended as a migration path.
-
-**问：What is the future job outlook?**
-答：BLS projects 2% growth from 2023-2033, slower than average. Online surveys and automation may replace some jobs, but demand remains in market research and customer service.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

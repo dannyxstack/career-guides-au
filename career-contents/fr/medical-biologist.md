@@ -1,61 +1,97 @@
-# Medical Biologist（Medical Biologist）职业分析 · FR
+# Medical Biologist — career analysis · France
 
-**职业代码：J1201 – Medical Biologist。**
+**Occupation code: J1201 (ROME)**
 
-Medical biologists analyze biological samples (blood, urine, tissues) to provide critical laboratory data for disease diagnosis, treatment monitoring, and prevention. They work in public or private medical laboratories, ensuring accurate and reliable results.
+Medical biologists are responsible for analyzing biological samples (blood, urine, tissue, etc.) to provide key laboratory data for disease diagnosis, treatment monitoring, and prevention. They typically work in public or private medical laboratories to ensure accurate and reliable results.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 医学博士（DES） | 11年（包括6年医学+4年专科+1年实习） | $3,000~$10,000（公立大学每年注册费约300-1000欧元，生活费另计。） |
-| 药学博士（DES） | 9年（包括6年药学+3年专科） | $3,000~$10,000（药学课程与医学类似，公立大学费用低。） |
+| Doctor of Medicine (DES) | 11 years (including 6 years of medicine + 4 years of associate degree + 1 year of internship) | $3,000~$10,000 (The annual registration fee for public universities is about 300-1000 euros, with living expenses included.) |
+| Doctor of Pharmacy (DES) | 9 years (including 6 years pharmacy + 3 years associate degree) | $3,000~$10,000 (Pharmacy courses are similar to medicine, and public universities are less expensive.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法国医学生物学文凭（DES de Biologie médicale） | 法国医学院 | 必备 | 需要完成医学或药学博士课程，并通过专科实习。 |
-| 医学生物学家注册（Ordre des médecins ou pharmaciens） | 法国医师或药剂师协会 | 必备 | 必须在协会注册方可执业。 |
-| 实验室资质认证（COFRAC） | 法国认证委员会 | 可选 | 对实验室整体认证，非个人要求，但从业人员需符合标准。 |
+| French Diploma in Medical Biology (DES de Biologie médicale) | French medical school | Required | Completion of a medical or pharmacy doctoral program and a specialist internship are required. |
+| Medical Biologist Registration (Ordre des médecins ou pharmaciens) | French Association of Physicians or Pharmacists | Required | You must be registered with the association to practice. |
+| Laboratory Accreditation (COFRAC) | French Accreditation Institute | Optional | Overall laboratory certification is not a personal requirement, but practitioners must meet the standards. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国面临人口老龄化和慢性病增加，对医学实验室服务的需求持续增长。政府推动实验室自动化与创新，就业前景稳定，尤其在公立医院和私立实验室集团（如BioGroup）中。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. France faces an aging population and an increase in chronic diseases, with demand for medical laboratory services continuing to grow. The government promotes laboratory automation and innovation, with stable employment prospects, especially in public hospitals and private laboratory groups such as BioGroup.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$50,000 | 公立医院约40k-50k欧元，私立实验室略高。 |
-| 中级（4-10年） | $55,000~$70,000 | 经验丰富者可达60k-70k欧元，含奖金。 |
-| 高级（10年以上） | $75,000~$100,000 | 实验室主任或部门主管可达80k-100k欧元。 |
+| Median salary | $62,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $40,000~$50,000 | Public hospitals cost about 40k-50k euros, while private laboratories are slightly higher. |
+| Mid-level (4-10 years). | $55,000~$70,000 | Experienced candidates can reach 60k-70k euros, including bonuses. |
+| Senior (10+ years) | $75,000~$100,000 | Laboratory directors or department heads can earn between 80k-100k euros. |
+| average salary | $48,288 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级医学生物学家可通过进修获得专科资质（如微生物学、血液学），进而晋升为实验室主任或部门主管。部分人转向制药研发或学术研究。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Core laboratory analysis tasks for medical biologists (such as sample processing and data reporting) are easily automated by AI, but diagnostic interpretation, method development, and quality control still require human professional judgment, resulting in mixed job roles.
+
+Junior medical biologists can obtain specialist qualifications (such as microbiology and hematology) through further study, and can be promoted to laboratory director or department head. Some people turn to pharmaceutical research and development or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatic biochemical analyzer result reading and preliminary review
+- Automated processing and classification of routine blood/urine samples
+- Repeat sample addition and recording in standardized testing processes
+- Result reports generated and verified based on rules
+- Data entry and organization in laboratory information systems
+
+**Where AI augments the role:**
+
+- AI-assisted intelligent screening and early warning of abnormal results
+- Automated analysis and variant annotation of high-throughput sequencing data
+- Optimization and quality control of inspection methods based on machine learning
+- AI-driven dynamic scheduling of laboratory workflows
+- Literature retrieval and clinical association analysis supported by natural language processing
+
+**Human moat:**
+
+- Interdisciplinary diagnostic interpretation and clinical communication for complex cases
+- Assessment of rare or abnormal results and further experimental design
+- Research, verification, and standardization of testing methods
+- Design and supervision of laboratory quality management systems
+- Professional consultation and explanations for patients and doctors
+
+**Skills to build:**
+
+- Bioinformatics and Big Data Analysis (Python/R)
+- The foundation of AI/machine learning applications in diagnosis
+- Laboratory automation system integration and management
+- Quality System and Regulatory Compliance (ISO 15189)
+- Advanced Statistical and Experimental Design Methods
+- Interdisciplinary communication and clinical collaboration skills
+
+**Key growth areas:**
 
 - Laboratory automation
 - Point-of-care testing
@@ -64,66 +100,65 @@ Medical biologists analyze biological samples (blood, urine, tissues) to provide
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高级专业人员，如拥有硕士以上学历且年薪超过约53k欧元。有效期4年，可续期。 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，工作合同至少12个月。适用于有法国资质的医学生物学家。 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业生可申请，有效期12个月，用于在法寻找工作。 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for senior professionals, such as those with a master's degree or above and an annual salary exceeding approximately 53,000 euros. Valid for 4 years, renewable with the right to renew. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least 12 months. Suitable for medical biologists with French qualifications. |
+| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, valid for 12 months, to find work in France. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Biologist？**
-- 对实验室科学和医学有强烈兴趣的人
-- 注重细节且具备严谨分析能力的人
-- 愿意投入长时间学习和培训的人
-
-**谁不适合学Medical Biologist？**
-- 不喜欢重复性实验室工作的人
-- 无法承受长时间高等教育压力的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in laboratory science and medicine
+- Detail-oriented individuals with rigorous analytical skills
+- People willing to invest significant time in learning and training
+
+**Who is not suited**
+- Those who dislike repetitive laboratory work
+- People who cannot withstand the pressure of long-term higher education
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for medical biologists in France?**
+A: Junior salaries are about 40k-50k euros, intermediate salaries 55k-70k, and seniors 75k-100k. Public hospitals have lower but stable salaries, while private laboratories pay higher but are under greater pressure.
+
+**Q: Can medical biologists from non-EU countries immigrate to France?**
+A: Yes, but you must pass the reconnaissance des qualifications and obtain the French Diploma in Medical Biology (DES). Common visas include the Passeport Talent Passport and Salarié (Employed Work Residence).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★★☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Medical Biologist为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a medical biologist in France?**
-答：Entry-level annual salary is around 40k-50k EUR, mid-level 55k-70k EUR, and senior 75k-100k EUR. Public hospitals offer lower but stable pay, while private labs pay more but with higher pressure.
-
-**问：Can a non-EU medical biologist immigrate to France?**
-答：Yes, but requires qualification recognition (reconnaissance des qualifications) and a French DES in medical biology. Common visas include Talent Passport and Salarié work permit.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

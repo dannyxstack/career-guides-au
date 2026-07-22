@@ -1,58 +1,90 @@
-# Traffic Technicians（Traffic Technicians）职业分析 · 美国
+# Traffic Technicians — career analysis · United States
 
-**职业代码：53-6041 – Traffic Technicians。**
+**Occupation code: 53-6041 (SOC)**
 
-Conduct field studies to determine traffic volume, speed, effectiveness of signals, adequacy of lighting, and other factors influencing traffic conditions, under direction of traffic engineer.
+Under the guidance of a traffic engineer, conduct field studies to determine traffic volume, speed, signal effectiveness, lighting adequacy, and other factors affecting traffic conditions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费） |
+| Associate degree | 2 years | $15,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 交通工程技师认证 | 国际交通工程师协会(ITE) | 可选 | 可选但有助于晋升 |
-| 驾照 | 州机动车辆管理局 | 必备 | 需要驾驶公车前往现场 |
+| Driver's license | State motor vehicle department | Required | Need to drive a bus to the site |
+| Transportation Engineering Technician certification | Institute of Transportation Engineers (ITE) | Optional | Optional but helpful for advancement |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 7,400。美国交通基础设施持续升级和智慧城市发展推动需求增长，预计2023-2033年就业增长约5%，略高于平均水平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 7,400. U.S. transportation infrastructure upgrades and smart city development drive demand, with expected employment growth of about 5% from 2023-2033, slightly above average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 入门级别 |
-| 中级（3-6年） | $45,000~$60,000 | 经验丰富者 |
-| 高级（6年以上） | $60,000~$75,000 | 主管或资深技术员 |
+| Median salary | $59,090 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$45,000 | Entry level |
+| Mid-level (3–6 years) | $45,000~$60,000 | Experienced individuals |
+| Senior (6+ years) | $60,000~$75,000 | Supervisor or senior technician |
+| average salary | $62,050 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级技术员可晋升为高级技术员或主管，部分人通过考取专业工程师(PE)执照转为交通工程师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Repetitive data collection and field survey tasks for transportation technicians are easily replaced by AI and automation, leading to slow job growth, but advanced analysis and decision-support roles can be enhanced by AI. Entry-level positions face significant compression risk.
+
+Can progress from junior technician to senior technician or supervisor; some become transportation engineers after obtaining a Professional Engineer (PE) license.
+
+**Tasks most exposed to AI:**
+
+- Manually collect traffic volume and speed data using counters, radar, and other devices
+- On-site observation and recording of signal timing and traffic conflict points.
+- Manual statistical analysis of traffic data and generation of standard reports.
+- Compliance check of signs and markings using simple tools
+
+**Where AI augments the role:**
+
+- Using AI video analysis systems to automatically identify traffic conflicts and accident black spots
+- Simulate and optimize signal timing plans using traffic simulation software (e.g., VISSIM).
+- Predict traffic congestion trends and develop mitigation strategies using machine learning models
+- Use drones and image recognition technology for large-scale traffic condition surveys
+
+**Human moat:**
+
+- Collaborate and communicate with traffic engineers, communities, and government departments to explain technical recommendations.
+- Handling unstructured on-site issues such as temporary traffic arrangements in construction zones
+- Identify data anomalies and verify on-site, adjust based on experience
+
+**Skills to build:**
+
+- Python/R data analysis and automation scripting
+- Traffic simulation software (e.g., VISSIM, Synchro)
+- GIS spatial analysis and visualization (ArcGIS, QGIS)
+- Machine learning fundamentals (traffic prediction, pattern recognition)
+- Project management and cross-departmental communication skills
+- Knowledge of Intelligent Transportation Systems (ITS)
+
+**Key growth areas:**
 
 - Transportation Infrastructure
 - Smart City
@@ -61,68 +93,67 @@ Conduct field studies to determine traffic volume, speed, effectiveness of signa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，雇主担保，抽签制 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需2年经验或培训，PERM劳工认证 |
-| Subclass Green Card (PERM)（Employment-Based Green Card (PERM)） | 雇主担保，通过劳工证申请 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires bachelor's degree, employer sponsorship, lottery system |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires 2 years' experience or training, PERM labor certification |
+| Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Employer sponsorship through labor certification application |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Traffic Technicians？**
-- 喜欢户外工作
-- 注重细节
-- 对交通系统感兴趣
-
-**谁不适合学Traffic Technicians？**
-- 不习惯野外作业
-- 对数据分析不感兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work
+- Attention to detail
+- Interest in transportation systems
+
+**Who is not suited**
+- Not accustomed to field work
+- Not interested in data analysis
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for transportation technicians?**
+A: Entry-level approximately USD 35,000-45,000; senior level can reach USD 60,000-75,000.
+
+**Q: Can a transport technician immigrate to the US via H-1B?**
+A: Yes, but requires a bachelor's degree and employer willingness to sponsor; H-1B lottery success rate is low.
+
+**Q: What is the career progression path for a Transportation Technician?**
+A: Advance from junior technician to senior technician or supervisor, or obtain a PE license to become a traffic engineer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Traffic Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for traffic technicians?**
-答：Entry-level around $35,000-$45,000, senior up to $60,000-$75,000.
-
-**问：Can traffic technicians immigrate to the US via H-1B?**
-答：Yes, but requires a bachelor's degree and employer sponsorship; H-1B lottery odds are low.
-
-**问：What is the career progression for traffic technicians?**
-答：From junior to senior technician or supervisor, or obtain PE license to become traffic engineer.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# Wine Makers（Wine Makers）职业分析 · ES
+# Wine Makers — career analysis · Spain
 
-**职业代码：7707 – Wine Makers。**
+**Occupation code: 7707 (CNO)**
 
-Perform wine production tasks including grape reception, pressing, fermentation, clarification, aging, and bottling. Steady demand in La Rioja, Andalusia, and other Spanish wine regions.
+Responsible for all operations in the winemaking process, including grape receiving, pressing, fermentation, clarification, aging, and bottling. Demand remains stable in regions such as Rioja and Andalusia in Spain.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| FP Grado Superior (高等职业培训) | 2年 | $200~$1,000（公立FP每年学费约200-500欧元，私立约1000欧元。） |
-| Grado en Enología (酿酒学本科) | 4年 | $800~$2,000（公立大学每年学费约800-2000欧元，视地区而定。） |
+| FP Grado Superior (Higher Vocational Training) | 2 years | $200~$1,000 (Public FP tuition is about 200-500 euros per year, while private schools about 1000 euros.) |
+| Grado en Enología (Undergraduate in Oenology) | 4 years | $800~$2,000 (The annual tuition fee for public universities is about 800-2000 euros, depending on the region.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FP Grado Superior en Vitivinicultura (葡萄栽培与酿酒学高等职业培训) | 西班牙教育部认可的FP中心 | 可选 | 非强制，但有助于就业和晋升。 |
-| Grado en Enología (酿酒学学士) | 西班牙公立/私立大学 | 可选 | 非强制，但对技术岗位和晋升至酿酒师有利。 |
+| FP Grado Superior en Vitivinicultura (Higher Vocational Training in Viticulture and Oenology) | An FP center recognized by the Spanish Ministry of Education | Optional | Not mandatory, but it helps with employment and promotion. |
+| Grado en Enología (Bachelor of Oenology) | Spanish, public/private universities | Optional | Not mandatory, but beneficial for technical positions and promotion to winemaker. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 14,500。西班牙是世界第三大葡萄酒生产国，酿酒工主要集中在里奥哈、安达卢西亚、加泰罗尼亚等产区。由于葡萄酒出口持续增长和酿酒旅游兴起，该职业需求稳定，但受气候和年份影响，季节性较强。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 14,500. Spain is the world's third-largest wine producer, with winemakers mainly concentrated in regions such as Rioja, Andalusia, and Catalonia. Due to continued growth in wine exports and the rise of winemaking tourism, demand for this profession remains stable, but it is highly seasonal due to climate and vintage factors.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-2年） | $18,000~$22,000 | 税前年薪，季节性工作可能较低。 |
-| 中级（3-5年） | $22,000~$28,000 | 包含经验丰富的酿酒工或技术员。 |
-| 高级（5年以上） | $28,000~$35,000 | 酒窖主管或高级酿酒技术员。 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–2 years) | $18,000~$22,000 | Pre-tax annual salary, seasonal jobs may be lower. |
+| Mid-level (3–5 years) | $22,000~$28,000 | Includes experienced brewers or technicians. |
+| Senior (5+ years) | $28,000~$35,000 | Cellar supervisor or senior winemaking technician. |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从初级酿酒工晋升为酿酒技术员、酒窖主管，甚至酿酒师（Enólogo）。通过积累经验或进修FP酿酒学（Grado Superior de Vitivinicultura），可走向管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will significantly enhance brewers' quality control and process optimization, but will not completely replace sensory decision-making and craftsmanship; Entry-level positions have decreased due to automated cleaning/handling, but demand for specialization is rising.
+
+You can advance from junior brewer to winemaking technician, cellar supervisor, or even winemaker (Enólogo). By gaining experience or further studying FP Oenology (Grado Superior de Vitivinicultura), you can move into management positions.
+
+**Tasks most exposed to AI:**
+
+- The automatic sorting system replaces manual grape picking
+- The intelligent press replaces manual pressing operations
+- Automated fermentation monitoring replaces manual temperature and sugar recording
+- Robots bottling and labeling replace repetitive packaging tasks
+- AI analysis of historical data replaces some tasters' preliminary assessments
+
+**Where AI augments the role:**
+
+- AI sensors monitor fermentation status in real time, assisting in precise adjustments to temperature and yeast addition
+- IoT systems predict equipment failures and reduce downtime
+- Machine learning optimizes vineyard harvest timing and quality prediction
+- Digital twin technology simulates the aging process, accelerating the development of new wine recipes
+- Augmented reality tools provide process guidance to improve learning efficiency for beginners
+
+**Human moat:**
+
+- Sensory appreciation: subjective judgment of flavor, aroma, and taste
+- Creative Blending: Mixing different batches of liquor to create a unique style
+- Process innovation: Adjusting traditional processes for specific years or climates
+- Brand Storytelling: Convey the winery's story and craftsmanship value to customers
+- Crisis Management: On-site decision-making to handle fermentation anomalies or equipment failures
+
+**Skills to build:**
+
+- Data-driven brewing: Fermentation parameter analysis using Python/R
+- IoT and sensor technology: configuration and maintenance of intelligent monitoring systems
+- AI tool applications: Mastering WineTech software (such as Vivelys)
+- Sustainable Practices Leveraging AI to Optimize Water and Energy Use
+- Digital Marketing Basics: Telling brand stories through online platforms
+- Cross-cultural communication: serving international distributors and tourists
+
+**Key growth areas:**
 
 - Seasonal labor
 - Wine tourism
@@ -63,65 +99,67 @@ Perform wine production tasks including grape reception, pressing, fermentation,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 由西班牙酒庄提供工作合同，申请受雇工作居留。需证明该职位难以在欧盟境内招聘。 |
-| Subclass Busqueda empleo（Job Search Visa） | 适用于高学历（本科以上）毕业生，可居留12个月寻找工作。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract is provided by Spanish wineries to apply for employment-based work residence. It must be proven that the position is difficult to recruit within the EU. |
+| Subclass Busqueda empleo (Job Search Visa) | Suitable for graduates with higher education (undergraduate degree or above), allowing them to stay for 12 months and look for work. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Wine Makers？**
-- 喜欢动手操作、体力活动的人
-- 对葡萄酒酿造有热情，愿意在季节性节奏中工作
-- 愿意在乡村或葡萄酒产区生活
+**Who is suited**
+- People who enjoy hands-on work and physical activity
+- Passionate about winemaking and willing to work at the seasonal pace
+- Willing to live in the countryside or wine regions
 
-**谁不适合学Wine Makers？**
-- 偏好办公室工作和稳定作息的人
-- 厌恶体力劳动和季节性工作波动的人
+**Who is not suited**
+- People who prefer office work and a stable schedule
+- People who dislike physical labor and seasonal work fluctuations
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for Spanish winemakers?**
+A: Entry-level winemaker: approximately €18,000-22,000 per year; intermediate: €22,000-28,000; senior: up to €35,000. Seasonal work may result in lower income, but peak-season overtime can boost earnings.
+
+**Q: How can Chinese citizens immigrate to Spain to work as brewers?**
+A: Usually requires a job offer from a winery to apply for an employed work residence permit (Cuenta ajena). As this occupation is not in shortage and requires Spanish, immigration is difficult. Those with a viticulture degree can try via a job-seeking visa (Búsqueda de empleo).
+
+**Q: What career development paths are available for brewers?**
+A: You can advance from junior winemaker to winemaking technician, cellar supervisor, and ultimately to winemaker (Enólogo). Further studies in FP or university oenology courses can help advance to management positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Wine Makers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for wine makers in Spain?**
-答：Entry-level wine makers earn around €18,000-22,000 annually, mid-level €22,000-28,000, and senior up to €35,000. Seasonal variations may affect income, but overtime during harvest can increase earnings.
-
-**问：How can Chinese citizens immigrate to Spain as wine makers?**
-答：Typically need a job offer from a winery to apply for a work permit (Cuenta ajena). As the occupation is not in shortage and Spanish language is required, migration is challenging. Degree holders may try the job search visa.
-
-**问：What are the career progression paths for wine makers?**
-答：Wine makers can advance to wine technician, cellar manager, and eventually winemaker (Enólogo). Further education in viticulture or enology facilitates promotion to management roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

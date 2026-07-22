@@ -1,58 +1,94 @@
-# Broadcasting Technicians（Broadcasting Technicians）职业分析 · ES
+# Broadcasting Technicians — career analysis · Spain
 
-**职业代码：3832 – Broadcasting Technicians。**
+**Occupation code: 3832 (CNO)**
 
-Operate, maintain, and provide technical support for radio, TV, and other audio/video transmission equipment to ensure signal quality and broadcast safety.
+Responsible for the operation, maintenance, and technical support of radio broadcasting, television, and other audio/video transmission equipment to ensure signal quality and broadcast safety.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Superior） | 2年 | $500~$3,000（公立学校学费较低，私立较高） |
-| 大学本科（Grado） | 4年 | $2,000~$10,000（公立大学学费约2000欧元/年，私立较高） |
+| Intermediate Vocational Training (FP Grado Superior) | 2 years | $500~$3,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Undergraduate (Grado) | 4 years | $2,000~$10,000 (Public university tuition is about 2000 euros per year, while private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播技术学位或FP学位 | 西班牙教育部认可的大学或职业培训中心 | 必备 | 必备的学历资格 |
-| 电信运营商认证 | 西班牙电信监管机构 | 可选 | 特定设备操作可能需要 |
+| Degree in Broadcasting Technology or FP degree | Universities or vocational training centers recognized by the Spanish Ministry of Education | Required | Essential academic qualifications |
+| Telecom operator certification | Spanish Telecom regulatory authority | Optional | Specific equipment operations may require them |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 6,200。西班牙广播电视行业稳定，数字化转型和在线流媒体平台发展带来新机遇，但受自动化影响中等，就业岗位保持平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 6,200. Spain's broadcasting and television industry is stable, with new opportunities brought by digital transformation and the development of online streaming platforms, but the impact of automation is moderate, and employment remains stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$35,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$48,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$35,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$48,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从初级技术员晋升为高级工程师或技术主管，也可转向制作、网络管理或设备销售等领域。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
+
+You can be promoted from junior technician to senior engineer or technical supervisor, or move into production, network management, or equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor broadcast signal stability and trigger alerts
+- Automatically convert audio and video formats and transcode
+- Automatically generate broadcast log reports
+- Automatically adjust audio levels using AI tools
+- Automatically switch preset program sources
+
+**Where AI augments the role:**
+
+- Uses AI-assisted real-time audio noise reduction and mixing
+- Use AI to predict equipment failures and perform proactive maintenance
+- Optimizing transmission power and spectrum allocation via AI
+- Automatic subtitle generation using speech recognition
+- Using AI tools for quick editing and tagging of footage
+
+**Human moat:**
+
+- Manual diagnosis and on-site repair of complex faults
+- Communicate creative requirements with the production team
+- Quick decision-making in response to emergencies
+- Deployment and debugging of temporary scenarios like broadcast vehicles
+- Compliant operations to ensure signal safety
+
+**Skills to build:**
+
+- IP network and cloud broadcasting system management
+- Use of AI audio/video processing tools
+- Basic programming (Python/scripting).
+- Data analysis and system monitoring
+- Emergency communication and troubleshooting
+- Digital media file management
+
+**Key growth areas:**
 
 - digitalization
 - online streaming
@@ -61,64 +97,63 @@ Operate, maintain, and provide technical support for radio, TV, and other audio/
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit as an employee） | 由西班牙雇主担保的工作居留，适用于受雇于广播公司的技术员 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人士，需大学学历和符合工资门槛 |
+| Subclass Cuenta ajena (Work permit as an employee) | Work residency sponsored by a Spanish employer, applicable to technicians employed by broadcasting companies |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and meeting salary thresholds |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Broadcasting Technicians？**
-- 对广播电视技术有浓厚兴趣
-- 具备电子和通信基础知识
-- 喜欢动手操作和解决技术问题
-
-**谁不适合学Broadcasting Technicians？**
-- 不喜欢轮班工作
-- 对技术细节不敏感
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- He has a strong interest in broadcast television technology
+- Possess basic knowledge of electronics and communications
+- Enjoys hands-on work and solving technical problems
+
+**Who is not suited**
+- Dislikes shift work
+- Not sensitive to technical details
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of broadcast technicians?**
+A: Beginner is about 18,000-24,000 euros per year, intermediate is about 25,000-35,000 euros, and advanced can reach up to 48,000 euros.
+
+**Q: Can broadcast technicians apply for an EU Blue Card?**
+A: Yes, if you have a university degree and salary meets threshold (approx. €33,908/year), you can apply for EU Blue Card.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Broadcasting Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for broadcasting technicians?**
-答：Entry-level around €18,000-24,000/year, mid-level €25,000-35,000, senior up to €48,000.
-
-**问：Can broadcasting technicians apply for the EU Blue Card?**
-答：Yes, if they have a university degree and meet the salary threshold (approx. €33,908/year).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

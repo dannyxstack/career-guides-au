@@ -1,59 +1,95 @@
-# Data Scientist（Data Scientist）职业分析 · 新西兰
+# Data Scientist — career analysis · New Zealand
 
-**职业代码：224115 – Data Scientist。**
+**Occupation code: 224115 (ANZSCO)**
 
-Data scientists use statistics, machine learning, and programming to extract insights from complex data, supporting business decisions. This role has strong migration prospects in New Zealand, eligible for Skilled Migrant Category or Green List direct residence.
+Data scientists analyse complex datasets using statistics, machine learning, and programming techniques to provide insights for business decisions. This occupation has good immigration prospects in New Zealand, via Skilled Migrant Category (SMC) or Green List direct residence pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$45,000（每年学费约3-4.5万NZD） |
-| 硕士 | 1-2年 | $40,000~$55,000（每年学费约4-5.5万NZD） |
+| Bachelor's degree | 3 years | $30,000~$45,000 (Tuition fees approx. NZD 30,000-45,000 per year.) |
+| Master's degree | 1-2 years | $40,000~$55,000 (Annual tuition fees approx. NZD $40,000–55,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学士学位 | 新西兰大学 | 可选 | 通常要求统计学或数学基础 |
-| 数据科学硕士 | 新西兰大学 | 可选 | 可提升竞争力 |
-| 雅思学术类6.5分（各单项不低于6.0） | 雅思 | 必备 | 移民技术移民语言要求 |
+| IELTS Academic 6.5 (no band below 6.0). | IELTS | Required | Language requirements for skilled migration |
+| Bachelor's degree in computer science or related field | New Zealand universities | Optional | Usually requires a background in statistics or mathematics |
+| Master of Data Science | New Zealand universities | Optional | Can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰数据科学需求持续增长，尤其在金融、医疗和科技行业。政府推动数字经济发展，预计未来5年职位增长率将高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Data science demand in New Zealand is growing, especially in finance, healthcare, and tech. Government promotes digital economy; job growth expected above average over next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$90,000 | 基于Stats NZ数据 |
-| 中级（3-6年） | $95,000~$120,000 | 含奖金和福利 |
-| 高级（6年以上） | $130,000~$160,000 | 含管理职责 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $70,000~$90,000 | Based on Stats NZ data |
+| Mid-level (3–6 years) | $95,000~$120,000 | Including bonuses and benefits |
+| Senior (6+ years) | $130,000~$160,000 | Includes management responsibilities |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常高（★★★★½）。** 初级数据科学家可晋升为高级或首席数据科学家，进而转型为数据科学经理或首席数据官（CDO），也可专攻机器学习工程或数据工程方向。
-**AI替代风险：中等（★★☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Junior data scientists can advance to senior or chief data scientist, then transition to data science manager or chief data officer (CDO), or specialize in machine learning engineering or data engineering.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -62,68 +98,67 @@ Data scientists use statistics, machine learning, and programming to extract ins
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，满足职业要求即可申请，无需工作转居留 |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，根据6分制评分，博士+新西兰工作可得9分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，作为过渡或积累经验路径 |
+| Subclass Green List T1 (Straight to Residence Visa) | Direct residence visa; apply upon meeting occupation requirements, no need to work before residency |
+| Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category; under the 6-point system, PhD + NZ work experience can earn 9 points. |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional or experience-gaining pathway |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Data Scientist？**
-- 具备扎实数学和编程背景、热爱数据挖掘的毕业生
-- 希望在技术密集型行业获得高薪和快速晋升的移民申请人
-- 拥有统计学或计算机科学硕士学历并寻求全球职业发展的专业人士
-
-**谁不适合学Data Scientist？**
-- 不擅长沟通或无法将数据结果转化为商业建议的人
-- 对持续学习新算法和工具缺乏兴趣或耐心的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with solid mathematics and programming backgrounds who love data mining
+- Immigration applicants seeking high salaries and rapid promotion in technology-intensive industries.
+- Professionals with a master's degree in statistics or computer science seeking global career development
+
+**Who is not suited**
+- Those who are not good at communication or cannot translate data results into business advice
+- Those lacking interest or patience in continuously learning new algorithms and tools
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a data scientist in New Zealand?**
+A: Depending on experience and skills, junior annual salary about NZD 70,000-90,000, mid-level NZD 95,000-120,000, senior NZD 130,000-160,000.
+
+**Q: Can data scientists directly immigrate to New Zealand via the Green List?**
+A: Yes, data scientists are on the Green List Tier 1, meeting requirements allows direct application for a Straight to Residence Visa without needing to work before transitioning to residence.
+
+**Q: What educational background is needed to become a data scientist?**
+A: Most employers require at least a bachelor's degree in computer science, statistics, or a related field; a master's degree is preferred. Overseas qualifications need assessment or certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 非常高（★★★★½） |
-| AI替代风险 | 中等（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Data Scientist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a data scientist in New Zealand?**
-答：Entry-level earns around 70,000-90,000 NZD, mid-level 95,000-120,000 NZD, and senior 130,000-160,000 NZD annually.
-
-**问：Can a data scientist migrate to New Zealand via the Green List?**
-答：Yes, data scientists are on Green List Tier 1, eligible for the Straight to Residence Visa without needing a work-to-residence transition.
-
-**问：What educational background is required to become a data scientist?**
-答：Most employers require at least a bachelor's degree in computer science, statistics, or related field; a master's is preferred. Overseas qualifications may need assessment.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

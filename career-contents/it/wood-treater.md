@@ -1,58 +1,91 @@
-# Wood Treater（Wood Treater）职业分析 · IT
+# Wood Treater — career analysis · Italy
 
-**职业代码：7521 – Wood Treater。**
+**Occupation code: 7521 (ISCO08)**
 
-Treat wood with chemical preservatives, fire retardants, and other substances to extend its lifespan and protect against pests and decay.
+Treats wood with chemical preservatives, flame retardants, etc., to extend service life and prevent pests and rot.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 3年 | —（公立职业培训免费） |
-| 职业培训证书 | 1-2年 | $1,000~$5,000（学费因机构而异） |
+| High school graduation | 3 years | $0~$0 (Free public vocational training) |
+| Vocational training certificate | 1-2 years | $1,000~$5,000 (Tuition fees vary by institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 木材处理职业资格 | 意大利区域职业培训中心 | 必备 | 完成培训后颁发 |
-| 安全操作证书 | 意大利劳动局 | 必备 | 处理化学品必需 |
+| timber processing vocational qualification | Italian regional vocational training centre | Required | Issued upon completion of training |
+| Safety operation certificate | Italian Labour Office | Required | Required when handling chemicals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 3,200。意大利木材处理行业受建筑和家具制造需求支撑，未来五年就业预计保持稳定，年均增长约1%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 3,200. Italy's wood processing industry, supported by demand from construction and furniture manufacturing, is expected to maintain stable employment over the next five years with an average annual growth of about 1%.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（3-7年） | $25,000~$32,000 | 税前年薪 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Senior (7+ years) | $33,000~$40,000 | Annual pre-tax salary |
+| average salary | $28,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级操作员晋升为高级处理技师或主管，也可转向质量控制或技术销售岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Wood treatment workers face automation compression, as automated treatment systems, robotic spraying, and intelligent monitoring can replace most chemical treatment, monitoring, and recording work.
+
+Can progress from junior operator to senior processing technician or supervisor, or move into quality control or technical sales roles.
+
+**Tasks most exposed to AI:**
+
+- Automatic spraying or immersion treatment of chemical preservatives and flame retardants
+- Monitoring and recording temperature, pressure, and time during processing.
+- Wood treatment quality inspection and classification
+- Standardized procedures for daily equipment cleaning and maintenance
+
+**Where AI augments the role:**
+
+- Optimize treatment formulas using AI to improve wood durability
+- Use predictive maintenance to reduce equipment downtime
+- Using computer vision to automatically identify wood defects and adjust processing parameters
+- Digital management of batch and supply chain inventory
+
+**Human moat:**
+
+- Craftsmanship judgment when handling special or custom wood.
+- Safety regulation compliance checks and emergency response
+- Manual repair of complex equipment faults
+- Communicating special handling requirements with clients
+
+**Skills to build:**
+
+- Automated equipment operation and programming
+- Basic Industrial Internet of Things (IIoT) and sensor data analysis
+- Knowledge of chemical safety and environmental regulations
+- Use of digital recording and quality management systems
+- Collaborative robot (cobot) programming and maintenance
+- Lean production and process optimization
+
+**Key growth areas:**
 
 - Wood preservation
 - Construction materials
@@ -61,67 +94,66 @@ Treat wood with chemical preservatives, fire retardants, and other substances to
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 适用于非欧盟工人，需雇主担保，每年有配额限制。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能工人，要求年薪不低于欧盟平均水平1.5倍，此职业通常不满足。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, requires employer sponsorship, with annual quota limits. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, requiring annual salary of at least 1.5 times the EU average; this occupation typically does not meet this requirement. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Wood Treater？**
-- 喜欢动手操作、注重安全规范的人
-- 愿意在工厂或户外环境工作的人
-- 注重职业稳定性的人
-
-**谁不适合学Wood Treater？**
-- 对化学气味敏感或不喜欢重复性工作的人
-- 期望高薪或快速晋升的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operations and pay attention to safety and regulations
+- People willing to work in factory or outdoor environments
+- People who value career stability over risks or frequent change
+
+**Who is not suited**
+- People sensitive to chemical odors or who dislike repetitive work
+- People expecting high salary or fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a wood processing worker in Italy?**
+A: Entry-level approximately €18,000-24,000, mid-level €25,000-32,000, senior €33,000-40,000 (annual pre-tax salary).
+
+**Q: How can non-EU citizens obtain a work visa for wood processing in Italy?**
+A: Typically via the Decreto Flussi quota work visa, requires employer sponsorship, with limited places each year.
+
+**Q: What certificates are needed for wood processing?**
+A: Requires wood processing vocational qualification from the regional vocational training center and a safety operation certificate from the labor bureau.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Wood Treater的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a wood treater in Italy?**
-答：Entry-level: €18,000-€24,000; mid-level: €25,000-€32,000; senior: €33,000-€40,000 (gross annual).
-
-**问：How can non-EU citizens obtain a work visa as a wood treater in Italy?**
-答：Usually through the Decreto Flussi quota work visa, requiring employer sponsorship with annual caps.
-
-**问：What certifications are needed to work as a wood treater?**
-答：A wood treatment vocational qualification from regional training centers and a safety certificate from the labor authority.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

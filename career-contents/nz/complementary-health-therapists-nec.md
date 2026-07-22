@@ -1,61 +1,97 @@
-# Complementary Health Therapists nec（Complementary Health Therapists nec）职业分析 · 新西兰
+# Complementary Health Therapists nec — career analysis · New Zealand
 
-**职业代码：252299 – Complementary Health Therapists nec。**
+**Occupation code: 252299 (ANZSCO)**
 
-Provides non-traditional health therapies like naturopathy, Chinese medicine, and aromatherapy in New Zealand. Migration pathway is limited, typically via AEWV; some may qualify for Green List Tier 2.
+Provides non-conventional health services in New Zealand such as naturopathy, traditional Chinese medicine, herbal medicine, aromatherapy, etc. Skilled migration is limited; typically requires an Accredited Employer Work Visa (AEWV) pathway, with some practitioners eligible for residence via Green List Tier 2.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏易（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 文凭或学士学位 | 3年 | $40,000~$80,000（新西兰理工学院或私立院校费用） |
-| 短期证书课程 | 1年 | $15,000~$30,000（部分专业如芳香疗法、按摩） |
+| Diploma or bachelor's degree | 3 years | $40,000~$80,000 (New Zealand Institutes of Technology or private institutions fees) |
+| Short-term certificate courses | 1 year | $15,000~$30,000 (Some specialties such as aromatherapy and massage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册自然疗法师 | 新西兰自然疗法协会（NZANZ） | 可选 | 非强制但有助于就业和客户信任 |
-| 中医师注册 | 新西兰中医协会（NZCMA） | 可选 | 如提供中医服务，建议注册 |
-| 雅思6.5 | IELTS | 必备 | 技术移民英语要求 |
+| IELTS 6.5 | IELTS | Required | English language requirements for skilled migration |
+| Registered naturopath | New Zealand Association of Natural Medicine (NZANZ) | Optional | Not mandatory but helpful for employment and client trust |
+| Chinese medicine practitioner registration | New Zealand Chinese Medicine Association (NZCMA) | Optional | If providing Traditional Chinese Medicine services, it is recommended to register |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏弱（★★☆☆☆）。** 全国从业人数约 1,500。随着替代医学需求增长，从业机会增多，但市场饱和度高，全职岗位有限。多数从业者自雇或兼职。2024-2029年增长预期中等，大城市竞争较激烈。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 1,500. As demand for alternative medicine grows, opportunities increase, but market saturation is high, with limited full-time positions. Most practitioners are self-employed or part-time. Growth expected 2024-2029 is moderate; competition is stronger in large cities.
 
-**竞争度：中等偏高（★★★☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 兼职或自雇收入波动大 |
-| 中级（3-5年） | $55,000~$75,000 | 稳定客户群后的年收入 |
-| 高级（5年以上） | $75,000~$100,000 | 自营诊所或成为知名治疗师 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$55,000 | Fluctuating income from part-time or self-employment |
+| Mid-level (3–5 years) | $55,000~$75,000 | Annual income after establishing a stable client base |
+| Senior (5+ years) | $75,000~$100,000 | Self-run clinic or becoming a renowned therapist |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级治疗师可积累客户群后自设诊所，或转型健康咨询、产品零售。资深者可通过行业协会（如NZANZ）获得认证，提升专业信誉，开辟教学或管理层路径。
-**AI替代风险：高-部分可替代（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
+
+Junior therapists can build a client base and start their own clinic, or transition to health consulting or product retail. Senior therapists can seek certification through professional associations (e.g., NZANZ) to enhance professional credibility and open up teaching or management pathways.
+
+**Tasks most exposed to AI:**
+
+- Preliminary symptom analysis and health history recording
+- Patient appointment scheduling, reminders, and basic follow-up email generation
+- Assisting pattern recognition for common therapies (e.g., acupoint localization).
+- Herbal formula dosage calculation and interaction checking
+- Standardized health questionnaire results are automatically parsed
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve assessment accuracy (e.g., tongue/pulse analysis)
+- Big data recommends personalized wellness plans (diet, schedule, exercise)
+- Digital therapy platform expands remote monitoring and interaction
+- Knowledge retrieval system for quick access to latest clinical research
+- Intelligent exercise guidance to assist patients in self-rehabilitation (e.g., qigong, meditation)
+
+**Human moat:**
+
+- Intuition and touch in body contact therapies (e.g., massage, acupuncture)
+- Empathetic communication and emotional support to build trust
+- Complex cross-system overall judgment and decision-making
+- Culturally sensitive personalized advice (considering life background)
+- Emergency response and real-time physical reaction adjustment
+
+**Skills to build:**
+
+- AI health analysis tool operation (e.g., symptom checker, digital tongue diagnosis)
+- Basic programming or data analysis (Python/R for patient data)
+- Digital therapeutics platform usage and remote health management skills
+- Ethics and data privacy management (GDPR related)
+- Enhanced communication and patient education skills (explaining AI recommendations)
+- Continuously track evidence-based medicine and AI integration research
+
+**Key growth areas:**
 
 - AEWV
 - Moderate Demand
@@ -64,69 +100,68 @@ Provides non-traditional health therapies like naturopathy, Chinese medicine, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低-受限（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主工作邀请，职位需符合AEWV薪资要求（中位数工资$29.66/小时）。 |
-| Subclass Green List T2（Work to Residence (Green List Tier 2)） | 部分与健康相关职位（如中医）若满足绿色清单要求，工作2年后可转居留。需ANZSCO水平1-3级及工资达中位数。 |
-| Subclass SMC（Skilled Migrant Category） | 理论上有硕士学历+工资中位数可申请，但职业不属紧缺，且需ANZSCO 1-3级，难度较高。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer, and the position must meet AEWV salary requirements (median wage $29.66/hour). |
+| Subclass Green List T2 (Work to Residence (Green List Tier 2)) | Some health-related positions (e.g., Chinese medicine) may lead to residency after 2 years if Green List requirements are met. Requires ANZSCO skill level 1-3 and a median wage. |
+| Subclass SMC (Skilled Migrant Category) | Theoretically, a master's degree plus median salary can apply, but the occupation is not in demand and must be ANZSCO 1-3 level, making it quite difficult. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Complementary Health Therapists nec？**
-- 对替代医学有热情，自驱力强，能自建客户群
-- 愿意自雇或兼职，不追求稳定高薪
-- 已有相关从业经验或海外资格
-
-**谁不适合学Complementary Health Therapists nec？**
-- 希望快速通过技术移民获得居留权
-- 追求高薪且就业稳定者
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about alternative medicine, self-driven, able to build own client base
+- Willing to be self-employed or work part-time, not seeking stable high income
+- Relevant work experience or overseas qualifications
+
+**Who is not suited**
+- Aim to obtain residency quickly through skilled migration
+- Those seeking high salary and stable employment
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for complementary health therapists in New Zealand?**
+A: Entry-level about NZ$40,000–$55,000, mid-level NZ$55,000–$75,000, senior can reach $100,000+, but most are self-employed with fluctuating income and few full-time positions.
+
+**Q: Can this type of occupation migrate to New Zealand through skilled migration?**
+A: Direct skilled migration (SMC) is difficult because the occupation is not on the long-term shortage list. Can take the AEWV work visa, gain experience, then try Green List T2 (e.g., some Traditional Chinese Medicine roles), but overall limited.
+
+**Q: How to work without a New Zealand qualification?**
+A: Overseas qualifications need to be assessed for equivalence to local qualifications; usually requires supplementary courses or industry association accreditation. Most recommend first completing a short certificate or diploma and gaining local experience.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★★☆☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏短（★½☆☆☆） |
-| 学习难度 | 中等偏易（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等偏弱（★★☆☆☆） |
-| 竞争度 | 中等偏高（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高-部分可替代（★★★½☆） |
-| PR友好度 | 低-受限（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Complementary Health Therapists nec为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for complementary health therapists in New Zealand?**
-答：Entry-level: NZD 40,000-55,000; experienced: NZD 55,000-75,000; advanced: NZD 75,000-100,000+, but mainly self-employed with fluctuating income.
-
-**问：Can this occupation migrate to New Zealand through skilled migration?**
-答：Direct SMC is difficult as it's not on shortage lists. AEWV is feasible, then possible Green List Tier 2 for some roles like Chinese medicine, but pathways are limited.
-
-**问：How to practice without NZ qualifications?**
-答：Overseas qualifications need assessment; bridging courses or industry association recognition may be required. A local short certificate or diploma is recommended.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,91 @@
-# Legal Professionals Not Elsewhere Classified（Legal Professionals Not Elsewhere Classified）职业分析 · ES
+# Legal Professionals Not Elsewhere Classified — career analysis · Spain
 
-**职业代码：2599 – Legal Professionals Not Elsewhere Classified。**
+**Occupation code: 2599 (CNO)**
 
-Covers legal professionals not elsewhere classified, including legal counselors, researchers, policy analysts, who advise, draft documents, and interpret regulations without courtroom representation.
+Includes legal professionals not explicitly listed in other categories, including legal advisors, legal researchers, legal policy analysts, etc., providing legal advice, drafting documents, interpreting regulations, but not involving court defense.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年（Grado en Derecho） | $800~$12,000（公立大学约800-1200€/年，私立约6000-12000€/年） |
-| 硕士 | 1-2年（Máster en Asesoría Jurídica） | $1,500~$15,000（公立约1500-3000€/年，私立约5000-15000€/年） |
+| Bachelor's degree | 4 years (Grado en Derecho) | $800~$12,000 (Public universities approx. €800-1,200/year, private approx. €6,000-12,000/year) |
+| Master's degree | 1-2 years (Máster en Asesoría Jurídica) | $1,500~$15,000 (Public: about 1500-3000€/year, Private: about 5000-15000€/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律学位（Grado en Derecho） | 西班牙大学 | 必备 | 必需，为从业基础 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学位需认证 |
+| Law Degree (Grado en Derecho) | Spanish University | Required | Essential, as the foundation for professional work |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 8,000。西班牙法律行业稳定，但此类非传统法律岗位需求受经济周期和法规变化影响。数字化合规、数据保护等新兴领域带来少量增长，整体就业平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,000. Spain's legal industry is stable, but demand for these non-traditional legal positions is affected by economic cycles and regulatory changes. Emerging areas such as digital compliance and data protection brought modest growth, and overall employment remained stable.
 
-**竞争度：中高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$30,000 | 律师事务所或企业法务助理 |
-| 中级（3-7年） | $30,000~$45,000 | 资深法律顾问或合规专员 |
-| 高级（7年以上） | $45,000~$70,000 | 法务总监或合伙人级 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $20,000~$30,000 | Law firm or corporate legal assistant |
+| Mid-level (3–7 years) | $30,000~$45,000 | Senior legal counsel or compliance officer |
+| Senior (7+ years) | $45,000~$70,000 | Legal Director or Partner level |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 可从法律助理或研究员起步，积累经验后晋升为高级法律顾问或部门主管。部分人员可转向律师或司法考试，但需额外学位与资格认证。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Legal professionals (uncategorized) will face mixed challenges: AI can efficiently complete tasks such as document drafting and regulatory searches, but its strategic recommendations, complex interpretations, and human judgment still have moats, intensifying competition for entry-level positions.
+
+You can start as a legal assistant or researcher, and after gaining experience, be promoted to senior legal counsel or department head. Some may turn to the bar exam or bar exam, but additional degrees and qualifications are required.
+
+**Tasks most exposed to AI:**
+
+- Drafting legal documents (such as contracts and memoranda)
+- Laws, regulations, and case law retrieval and summary generation
+- Compliance checks and document template reviews
+- Basic legal research (such as interpreting legal provisions)
+
+**Where AI augments the role:**
+
+- AI-assisted legal research: Rapidly analyze massive cases and regulations to identify related patterns
+- Smart Contract Review: Identify risk clauses and suggest modifications
+- Legal Document Refinement: AI optimizes language logic and structure
+- Predictive analytics: Predicting case outcomes or compliance risks based on data
+
+**Human moat:**
+
+- Complex legal interpretation and strategy formulation
+- Building client trust and mediating negotiations
+- Ethical judgment and determination of attribution
+- Integration of cross-regulatory and cross-cultural legal frameworks
+
+**Skills to build:**
+
+- AI legal tools used (such as contract analysis, legal GPT)
+- Data Analysis and Visualization (Legal Data Insights)
+- Advanced Legal Research and Writing (Distinct from AI)
+- Cross-disciplinary knowledge (such as technology law, data privacy)
+- Project management and client relationship maintenance
+- Ethics and compliance management
+
+**Key growth areas:**
 
 - compliance
 - data protection
@@ -61,67 +94,66 @@ Covers legal professionals not elsewhere classified, including legal counselors,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能法律专业人才，需大学学位及符合工资门槛（通常≥34,000€/年）。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 适用于高学历或特殊贡献者，流程较快，可携家属。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需雇主担保，证明职位难以本地填补，适用于法律顾问等岗位。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled legal professionals, requiring a university degree and meeting the salary threshold (usually ≥€34,000/year). |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or special contributors, with a faster process and family members allowed. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship required, proof that the position is difficult to fill locally, applicable to legal counsel and similar positions. |
 
-**PR难度：中高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal Professionals Not Elsewhere Classified？**
-- 具备法律学位，偏好研究、咨询而非诉讼者
-- 对欧洲法律体系（特别是西班牙法）有深刻理解，愿意适应文化差异
-
-**谁不适合学Legal Professionals Not Elsewhere Classified？**
-- 希望快速移民或对薪资要求极高者
-- 缺乏西班牙语能力（B2以上），因法律工作语言主要为西语
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Holds a law degree, preferring research and consulting over litigation
+- They have a deep understanding of the European legal system (especially Spanish law) and are willing to adapt to cultural differences
+
+**Who is not suited**
+- Those seeking quick immigration or those with very high salary requirements
+- Lack of Spanish proficiency (B2 or above) because the main language for legal work is Spanish
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level for such legal professionals?**
+A: The salary range for unclassified legal professionals (non-lawyers) in Spain is about €20,000-70,000 per year before tax, depending on experience and company size. Lower than traditional lawyers, but less stressful.
+
+**Q: How can foreigners apply for a Spanish work visa for this type of position?**
+A: Usually, you need to obtain a Spanish employer contract, meet the academic requirements (degree + academic credential certification), and apply through available quotas or high-skilled visas. There are no particularly scarce job benefits, but blue cards are a common path.
+
+**Q: What are the career prospects for this profession?**
+A: Promotion from legal assistant/researcher to consultant or department head. Some people pass the bar exam to become lawyers or notaries, but extra preparation is required. It can also develop into emerging fields such as compliance and data protection.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中高（★★★½☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中高（★★★½☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
-
-Legal Professionals Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for these legal professionals?**
-答：In Spain, legal professionals not elsewhere classified earn €20,000-€70,000 gross annually depending on experience and employer type, generally lower than practicing lawyers but with better work-life balance.
-
-**问：How can foreigners apply for a Spanish work visa for this occupation?**
-答：Typically you need a job offer from a Spanish employer, meet educational requirements (degree + homologación), and apply via available quotas or the highly skilled visa. No shortage occupation preference, but EU Blue Card works.
-
-**问：What are the career prospects for this occupation?**
-答：You can progress from legal assistant/researcher to senior consultant or department head. Some pivot to lawyer roles via bar exam, or move into compliance/data protection fields.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

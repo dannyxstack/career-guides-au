@@ -1,60 +1,96 @@
-# Management and Organization Analysts（Management and Organization Analysts）职业分析 · ES
+# Management and Organization Analysts — career analysis · Spain
 
-**职业代码：2621 – Management and Organization Analysts。**
+**Occupation code: 2621 (CNO)**
 
-Management and organization analysts evaluate business structures, processes, and strategies to recommend improvements in efficiency, profitability, and operations management.
+Management and Organization Analysts are responsible for assessing corporate structure, processes, and strategy, providing recommendations for optimizing efficiency, profitability, and operational management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科 | 4年（Grado） | $1,000~$6,000（公立大学年学费约1000-2000欧元，私立大学约4000-6000欧元。） |
-| 硕士 | 1-2年（Máster） | $2,000~$15,000（公立大学硕士年学费约2000-4000欧元，私立MBA或专业硕士可达15000欧元。） |
-| 高级职业培训 | 2年（FP Grado Superior） | $500~$2,000（公立FP年费约500-1000欧元，私立约1500-2000欧元。） |
+| University bachelor's degree | 4 years (Grado) | $1,000~$6,000 (Annual tuition at public universities is about 1,000-2,000 euros, while private universities are about 4,000-6,000 euros.) |
+| Master's degree | 1-2 years (Máster) | $2,000~$15,000 (Annual tuition for a master's degree at a public university is about 2,000-4,000 euros, while private MBA or professional master's programs can cost up to 15,000 euros.) |
+| Advanced vocational training | 2 years (FP Grado Superior) | $500~$2,000 (Public FP annual fee approx. 500-1,000 euros, private approx. 1,500-2,000 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 大学学位（商科、经济学、工程等） | 西班牙教育部认可大学 | 可选 | 多数雇主要求本科及以上学位，硕士更受青睐。 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证为官方学位（Grado/Máster）。 |
-| 项目管理认证（如PMP） | PMI | 可选 | 非强制但提升竞争力。 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees must be recognized as official degrees (Grado/Máster). |
+| University degrees (Business, Economics, Engineering, etc.) | The Spanish Ministry of Education accredits the university | Optional | Most employers require a bachelor's degree or higher, with master's degrees being more favored. |
+| Project management certification (e.g., PMP) | PMI | Optional | Not mandatory but enhances competitiveness. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 45,000。西班牙数字化和远程办公趋势推动对管理与组织分析师的需求稳步增长，尤其在咨询、金融和科技领域，预计未来五年就业增长约8%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 45,000. Digitalization and remote work trends in Spain are driving steady growth in demand for management and organizational analysts, especially in consulting, finance, and technology, with employment expected to grow by about 8% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，马德里/巴塞罗那偏高。 |
-| 中级（3-7年） | $32,000~$45,000 | 税前年薪，含绩效奖金。 |
-| 高级（7年以上） | $45,000~$70,000 | 税前年薪，高级顾问或经理级别。 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary: Madrid/Barcelona are relatively high. |
+| Mid-level (3–7 years) | $32,000~$45,000 | Annual salary before tax, including performance bonuses. |
+| Senior (7+ years) | $45,000~$70,000 | Pre-tax annual salary, senior consultant or manager level. |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从初级分析师晋升为项目经理、高级顾问乃至管理与组织总监。积累行业经验后可转至战略规划或创业。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
+
+Promoted from junior analyst to project manager, senior consultant, and even director of management and organization. After gaining industry experience, you can move on to strategic planning or entrepreneurship.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting and cleaning business data from CRM/ERP systems
+- Generate visual dashboards and periodic reports
+- Drafting basic requirement documents and filling templates
+- Automated data scraping and comparative analysis of market competitors
+- Automated diagnosis of process bottlenecks (e.g., time-motion analysis)
+
+**Where AI augments the role:**
+
+- Use AI to simulate financial impacts of different business strategies, accelerating iteration
+- Rapid insights from unstructured data via natural language queries
+- AI-assisted sentiment and semantic analysis of complex stakeholder interviews
+- Automatically generate preliminary solution frameworks; analysts focus on key assumption validation
+- Using AI to monitor business indicator anomalies in real time, providing early warnings for opportunities and risks
+
+**Human moat:**
+
+- Cross-departmental interest coordination and change management skills
+- Unstructured problem definition skills for ambiguous business issues
+- Understanding organizational politics and implicit needs in negotiations
+- High-level strategic communication and persuasion
+- Ethical judgment and human verification responsibility for AI outputs
+
+**Skills to build:**
+
+- Data storytelling and visualization (Tableau/Power BI + business narrative)
+- AI toolchains (e.g., ChatGPT, Copilot, AutoML platforms)
+- Basic Python/R data cleaning and automation
+- Cloud collaboration and project management tools (Jira, Confluence, Miro)
+- Agile/lean methodology practices integrated with AI.
+- Domain knowledge (e.g., healthcare, government, finance)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Remote Work Optimization
@@ -63,68 +99,67 @@ Management and organization analysts evaluate business structures, processes, an
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 针对高技能专业人士，要求大学学历或5年经验，年薪至少约33,908欧元（2024标准）。 |
-| Subclass Altamente cualificad（Highly Qualified Professional (Ley 14/2013)） | 适用于高学历/高薪职位，快速通道，年薪门槛约34,152欧元。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 标准受雇工作居留，需雇主担保，无硬性薪资门槛但需满足最低工资。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, require university degree or 5 years of experience, minimum annual salary of about EUR 33,908 (2024 standard). |
+| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for high-education/high-salary positions, fast-track, annual salary threshold approx. €34,152. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employment-based residence requires employer sponsorship, no hard salary threshold, but minimum wage must be met. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Management and Organization Analysts？**
-- 擅长逻辑分析和问题解决的人
-- 希望从事商业战略与咨询的人
-- 具备良好沟通和项目管理能力的人
-
-**谁不适合学Management and Organization Analysts？**
-- 偏好重复性事务工作的人
-- 对数据分析和流程改进不感兴趣的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in logical analysis and problem-solving
+- Those who wish to engage in business strategy and consulting
+- Individuals with good communication and project management skills
+
+**Who is not suited**
+- People who prefer repetitive tasks
+- People who are not interested in data analysis and process improvement
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for management and organizational analysts in Spain?**
+A: Entry-level about €24,000-€32,000, mid-level about €32,000-€45,000, senior consultant or manager up to €45,000-€70,000. Good salary growth potential.
+
+**Q: How can third-country citizens immigrate to Spain through this profession?**
+A: You can apply for the EU Blue Card (annual salary ≥ €33,908) or the High-Skilled Talent visa (Ley 14/2013), which requires a university degree/experience and an employer contract.
+
+**Q: What are the employment prospects for this profession in Spain?**
+A: Growth is driven by demand for digital transformation and improved enterprise efficiency, and is expected to remain steady. Madrid and Barcelona have more chances.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Management and Organization Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for management and organization analysts in Spain?**
-答：Entry-level: €24,000-€32,000; mid-level: €32,000-€45,000; senior: €45,000-€70,000 annually. Significant growth potential.
-
-**问：How can third-country nationals immigrate to Spain through this occupation?**
-答：Apply for EU Blue Card (salary ≥€33,908) or Highly Qualified Professional visa (Law 14/2013), requiring a degree/experience and a job offer.
-
-**问：What is the job outlook for this occupation in Spain?**
-答：Driven by digital transformation and efficiency needs, demand is steady with growth expected. Most opportunities in Madrid and Barcelona.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Mechanical Engineers（Mechanical Engineers）职业分析 · 美国
+# Mechanical Engineers — career analysis · United States
 
-**职业代码：17-2141 – Mechanical Engineers。**
+**Occupation code: 17-2141 (SOC)**
 
-Mechanical engineers design, develop, test, and oversee the manufacturing and installation of mechanical devices, from engines to heating systems.
+Mechanical engineers design, develop, test, and supervise the manufacturing and installation of mechanical devices, covering systems from engines to heating.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费相差较大） |
-| 硕士学位（可选） | 2年 | $30,000~$80,000（部分岗位偏好硕士） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition fees vary considerably) |
+| Master's degree (optional) | 2 years | $30,000~$80,000 (Some positions prefer a master's degree) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| ABET认证工程学士学位 | ABET | 可选 | 许多州要求PE执照需ABET认证学位 |
-| 专业工程师（PE）执照 | 州工程委员会 | 可选 | 需通过FE和PE考试，有4年工作经验 |
-| FE（工程基础）考试 | NCEES | 可选 | 通常毕业后即可考取，是PE第一步 |
+| ABET-accredited engineering bachelor's degree | ABET | Optional | Many states require a PE license with an ABET-accredited degree |
+| Professional Engineer (PE) license | State engineering board | Optional | Must pass FE and PE exams, with 4 years of work experience |
+| FE (Fundamentals of Engineering) exam | NCEES | Optional | Typically obtainable upon graduation; first step towards PE |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 290,000。美国劳工统计局预计2023-2033年机械工程师就业增长约10%，快于所有职业平均水平。制造业回流、自动化与可再生能源投资是主要驱动力。
+**Job demand: high (★★★★☆).** National workforce approx. 290,000. The US Bureau of Labor Statistics projects about 10% employment growth for mechanical engineers from 2023 to 2033, faster than the average for all occupations. Manufacturing reshoring, automation, and renewable energy investments are key drivers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$85,000 | 本科起薪 |
-| 中级（4-9年） | $85,000~$110,000 | 有经验后薪资增长 |
-| 高级（10年以上） | $110,000~$150,000 | PE执照或管理职位更高 |
+| Median salary | $104,110 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $65,000~$85,000 | Undergraduate starting salary |
+| Intermediate (4-9 years) | $85,000~$110,000 | Salary growth after gaining experience |
+| Senior (10+ years) | $110,000~$150,000 | Higher with PE license or management roles |
+| average salary | $113,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级工程师可晋升为高级工程师、项目经理或技术专家。部分人转向研发、咨询或管理岗位，也可考取专业工程师（PE）执照提升职业发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
+
+Junior engineers can advance to senior engineer, project manager, or technical expert. Some move to R&D, consulting, or management roles, or obtain Professional Engineer (PE) license to enhance career.
+
+**Tasks most exposed to AI:**
+
+- Generates standard 3D models and 2D engineering drawings (AI can automatically generate from parameters)
+- Topology optimization prescreening of part structures (AI rapidly iterates hundreds of designs).
+- Review design code compliance (e.g., automatic ASME standard checks)
+- Writing routine technical documentation and BOMs (AI can auto-generate)
+- Basic thermal/flow/structure simulation setup and post-processing (AI automatic parameter tuning)
+
+**Where AI augments the role:**
+
+- AI-assisted generative design explores unconventional structural solutions, sparking innovation
+- AI real-time digital twin predicts fatigue life and maintenance windows
+- AI clustering analysis of historical failure data to accelerate fault diagnosis
+- Quick retrieval of technical literature and standards via AI natural language interface
+- AI automatically generates initial design space for multiphysics coupled optimization.
+
+**Human moat:**
+
+- Systematic physical intuition and multi-constraint coupled decision-making (safety/cost/manufacturing process)
+- Cross-disciplinary needs communication and project risk assessment
+- Human brain association and roundabout solutions to unexpected problems on site
+- Quantitative trade-off of conservatism for uncertainty (e.g., material batch variation).
+- Ethical/environmental responsibility attribution (e.g., legal consequences of mechanical failure)
+
+**Skills to build:**
+
+- Generative design software (e.g., Fusion 360 Generative Design)
+- Digital twin platform (e.g., ANSYS Twin Builder) operation.
+- Python/R script automation for simulation workflows
+- AI/ML basics (regression, clustering for fault prediction).
+- Systematic approach to fault diagnosis and root cause analysis
+- Project management and cross-cultural communication (collaboration with CA engineering teams)
+
+**Key growth areas:**
 
 - Automation
 - Renewable Energy
@@ -62,66 +98,65 @@ Mechanical engineers design, develop, test, and oversee the manufacturing and in
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 最常见的机械工程师工作签证，要求学士以上学位，每年配额竞争激烈 |
-| Subclass EB-2/EB-3（Employment-Based Green Card） | 通过PERM劳工认证，EB-2适用于硕士或以上，EB-3适用于学士 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在机械工程领域有杰出成就的个人，无需排队 |
-| Subclass TN（TN Status (USMCA)） | 加拿大和墨西哥公民可申请，机械工程师在TN职业列表中 |
+| Subclass H-1B (H-1B Specialty Occupations) | The most common work visa for mechanical engineers, requires a bachelor's degree or higher, with competitive annual quota. |
+| Subclass EB-2/EB-3 (Employment-Based Green Card) | Through PERM labor certification; EB-2 for master's degree or higher, EB-3 for bachelor's degree |
+| Subclass O-1 (O-1 Extraordinary Ability) | For individuals with outstanding achievements in mechanical engineering, no queue required |
+| Subclass TN (TN Status (USMCA)) | Canadian and Mexican citizens may apply; mechanical engineers are on the TN occupation list |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Engineers？**
-- 喜欢设计和建造实物机械系统的人
-- 有较强数学和物理基础的人
-- 愿意持续学习和考取执照的人
-
-**谁不适合学Mechanical Engineers？**
-- 不喜欢繁琐计算和文档工作的人
-- 对长期待在办公室或实验室感到压抑的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy designing and building physical mechanical systems
+- People with strong mathematics and physics foundations
+- People willing to continuously learn and obtain licenses
+
+**Who is not suited**
+- For those who dislike tedious calculations and paperwork
+- Those who feel stifed by long hours in an office or lab
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a mechanical engineer in the United States?**
+A: According to the BLS, the median annual salary for mechanical engineers in 2023 is around $96,000 USD, with entry-level salaries ranging from $65,000 to $85,000 USD and experienced professionals earning $110,000 to $150,000 USD.
+
+**Q: What are the main pathways for mechanical engineers to immigrate to the US?**
+A: The most common are the H-1B work visa (requires a bachelor's degree or higher) and EB-2/EB-3 employment-based green cards (require PERM labor certification). Citizens of Canada or Mexico can also use the TN visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical engineers in the US?**
-答：According to BLS, the median annual wage for mechanical engineers was about $96,000 in 2023, with entry-level salaries around $65,000-$85,000 and experienced engineers earning $110,000-$150,000.
-
-**问：What are the main immigration pathways for mechanical engineers to the US?**
-答：The most common are the H-1B visa (requires bachelor's degree) and EB-2/EB-3 green card (requires PERM labor certification). Citizens of Canada or Mexico can also use the TN visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,94 @@
-# Biological Science Teachers, Postsecondary（Biological Science Teachers, Postsecondary）职业分析 · 美国
+# Biological Science Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1042 – Biological Science Teachers, Postsecondary。**
+**Occupation code: 25-1042 (SOC)**
 
-Teach biological science courses at the postsecondary level, including general biology, cell biology, genetics, ecology, and may also conduct research.
+Teach biological science courses at universities or colleges, including general biology, cell biology, genetics, ecology, etc., while possibly conducting research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★½）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士 | 5-7年 | $100,000~$250,000（通常有助学金或奖学金覆盖学费及生活费） |
-| 硕士 | 2年 | $40,000~$80,000（可作为教学助理获得学费减免） |
+| Doctorate | 5-7 years | $100,000~$250,000 (Usually grants or scholarships cover tuition and living expenses) |
+| Master's degree | 2 years | $40,000~$80,000 (Can get tuition reduction as a teaching assistant) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 博士学位 | 大学 | 必备 | 生物科学或相关领域，博士后经历有益 |
-| 教师资格证书 | 州教育委员会 | 可选 | 社区学院可能要求，大学通常不强制 |
+| Doctoral degree (PhD) | University | Required | Biological sciences or related field; postdoctoral experience beneficial |
+| Teaching qualification | State Board of Education | Optional | May be required by community colleges, usually not mandatory for universities |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 60,000。美国生物科学教授岗位预计保持稳定增长，受高等教育入学人数和科研经费影响，但终身教职竞争激烈。
+**Job demand: medium (★★½☆☆).** National workforce approx. 60,000. US bioscience professor positions are expected to grow steadily, influenced by higher education enrollment and research funding, but tenure-track positions are highly competitive.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授） | $60,000~$80,000 | 通常为9个月合同 |
-| 中级（副教授） | $75,000~$100,000 | 含暑期工资 |
-| 高级（教授） | $100,000~$150,000 | 含研究经费 |
+| Median salary | $84,620 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (Assistant Professor) | $60,000~$80,000 | Typically a 9-month contract |
+| Intermediate (Associate Professor) | $75,000~$100,000 | Includes summer salary |
+| Senior (Professor) | $100,000~$150,000 | Includes research funding |
+| average salary | $102,840 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 职业路径：讲师 → 助理教授（tenure-track）→ 副教授 → 教授，也可转向科研管理或生物技术行业。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Career path: Lecturer → Assistant Professor (tenure-track) → Associate Professor → Professor, also may transition to research management or biotech industry.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Biotechnology
 - Genomics
@@ -61,65 +97,64 @@ Teach biological science courses at the postsecondary level, including general b
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于大学教授，需大学提供工作签证 |
-| Subclass EB-2（Employment-Based, Second Preference (EB-2)） | 通过PERM或国家利益豁免申请绿卡 |
-| Subclass O-1（O-1 Extraordinary Ability） | 对于杰出研究人员，需证明国际声誉 |
+| Subclass H-1B (H-1B Specialty Occupations) | For university professors; requires the university to provide a work visa |
+| Subclass EB-2 (Employment-Based, Second Preference (EB-2)) | Apply for a green card through PERM or National Interest Waiver |
+| Subclass O-1 (O-1 Extraordinary Ability) | For outstanding researchers, must demonstrate international reputation |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biological Science Teachers, Postsecondary？**
-- 热爱科研与教学，有强烈好奇心
-- 具备出色沟通与指导能力
-- 能承受长期学术压力
-
-**谁不适合学Biological Science Teachers, Postsecondary？**
-- 偏好高薪与快速晋升
-- 不喜欢写作与基金申请
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about research and teaching, strong curiosity
+- Strong communication and mentoring skills
+- Able to withstand long-term academic pressure
+
+**Who is not suited**
+- Preferring high salary and rapid promotion
+- Dislikes writing and grant applications
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a biological science professor?**
+A: According to BLS data, the median annual salary for biological science professors (university) in 2023 is about $85,000, but varies significantly by faculty rank and institution type.
+
+**Q: What are the main pathways for a biological science professor to immigrate to the United States?**
+A: Typically enter via H-1B work visa, then apply for green card through EB-2 (PERM or National Interest Waiver). Outstanding scholars may apply for O-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | very high (★★★★½) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★½） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中高（★★★☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Biological Science Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for biological science teachers?**
-答：According to BLS, the median annual wage for postsecondary biological science teachers was about $85,000 in 2023, varying by rank and institution.
-
-**问：What are the main immigration pathways for biological science teachers to the US?**
-答：Commonly via H-1B visa, then EB-2 green card (PERM or NIW). Outstanding researchers may qualify for O-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

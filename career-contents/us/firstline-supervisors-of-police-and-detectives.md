@@ -1,62 +1,98 @@
-# First-Line Supervisors of Police and Detectives（First-Line Supervisors of Police and Detectives）职业分析 · 美国
+# First-Line Supervisors of Police and Detectives — career analysis · United States
 
-**职业代码：33-1012 – First-Line Supervisors of Police and Detectives。**
+**Occupation code: 33-1012 (SOC)**
 
-Directly supervise and coordinate activities of police force members, ensuring efficient law enforcement operations and compliance.
+Directly supervise and coordinate police activities, ensure law enforcement actions are efficient and compliant, and handle case assignment and personnel scheduling.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立学校免费） |
-| 警察学院培训 | 3-6个月 | $5,000~$15,000（部分由部门资助） |
-| 副学士学位 | 2年 | $10,000~$30,000（可选有助于晋升） |
+| High school graduation | 12 years | $0~$0 (Free public schools.) |
+| Police academy training | 3-6 months | $5,000~$15,000 (Partially funded by the department) |
+| Associate degree | 2 years | $10,000~$30,000 (Optional to help with promotion) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 警察资格认证 | 州警察标准与培训委员会 | 必备 | 完成警察学院及在职培训 |
-| 主管培训证书 | 联邦执法培训中心或州机构 | 可选 | 晋升后可能需要 |
-| 犯罪学或相关领域学位 | 学院或大学 | 可选 | 有助于晋升高级职位 |
+| Police qualification certification | State Police Standards and Training Commission | Required | Complete police academy and on-the-job training |
+| Supervisor training certificate | Federal Law Enforcement Training Center or state agency | Optional | May be required after promotion |
+| Degree in criminology or related field | College or university | Optional | Useful for advancing to senior positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 130,000。美国执法主管岗位需求稳定，受公共安全预算和人口增长驱动。预计2023-2033年就业增长约3%，与平均水平持平。
+**Job demand: medium (★★½☆☆).** National workforce approx. 130,000. Demand for US law enforcement supervisory roles is stable, driven by public safety budgets and population growth. Employment is projected to grow about 3% from 2023-2033, on par with the average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $55,000~$75,000 | 起薪因地区而异 |
-| 中级（5-15年） | $75,000~$100,000 | 含加班津贴 |
-| 高级（15年以上） | $100,000~$130,000 | 大城市或高级职务更高 |
+| Median salary | $106,040 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $55,000~$75,000 | Starting salary varies by region |
+| Intermediate (5-15 years) | $75,000~$100,000 | Including overtime allowance |
+| Senior (15+ years) | $100,000~$130,000 | Higher in big cities or senior positions |
+| average salary | $112,190 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从警员晋升，需数年至十多年经验；可晋升为警长、副局长等高级管理职位，或转向联邦执法机构。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will optimize scheduling and paperwork, but frontline command and discretionary decisions still rely on human experience, with both risks and opportunities.
+
+Usually promoted from police officer, requiring several years to over a decade of experience; can advance to senior management roles such as sergeant, deputy chief, or transition to federal law enforcement agencies.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate patrol reports and case documents
+- Predictive analytics-based police dispatch and route planning
+- Initial anomaly detection in surveillance video
+- Automated processing of standardized incident reports
+- Basic Crime Data Statistics and Trend Reports
+
+**Where AI augments the role:**
+
+- Using AI real-time crime maps to optimize tactical deployment
+- Assist in interrogations and witness interviews via voice analysis tools
+- AI-based training simulations to enhance decision-making skills
+- Smart evidence management system improves case processing efficiency
+- AI risk assessment tools enhance community policing strategies
+
+**Human moat:**
+
+- Improvisation and command in on-site emergencies
+- Community trust-based conflict mediation and negotiation
+- Complex rulings on legal, procedural and ethical boundaries
+- Motivating and leading teams to collaborate under high pressure
+- Handle human-centric, unstructured community relations
+
+**Skills to build:**
+
+- Data-driven policing and predictive analytics tools
+- AI evidence analysis systems (e.g., video, communication records)
+- Basic programming and automation workflows (Python, RPA)
+- Technical communication and digital leadership
+- Ethics and privacy compliance decision-making skills
+- Crisis communication and cross-department coordination
+
+**Key growth areas:**
 
 - Law enforcement
 - Public safety
@@ -65,62 +101,64 @@ Directly supervise and coordinate activities of police force members, ensuring e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因职业通常非专业职位 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 极少数情况下可通过PERM担保，但雇主需证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation is typically non-professional |
+| Subclass Green Card (PERM) (PERM Labor Certification) | In rare cases, employer may sponsor through PERM but must prove inability to find qualified US workers |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Police and Detectives？**
-- 有丰富执法经验并渴望管理职位的人
-- 具备领导力和决策能力的人
-- 能在高压环境下工作的人
+**Who is suited**
+- People with extensive law enforcement experience and a desire for management roles
+- Individuals with leadership and decision-making skills
+- People who can work under high pressure
 
-**谁不适合学First-Line Supervisors of Police and Detectives？**
-- 不擅长人员管理和调度的人
-- 厌恶官僚流程或行政工作的人
+**Who is not suited**
+- Those not good at personnel management and scheduling
+- Those who dislike bureaucratic processes or administrative work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary range for a police supervisor?**
+A: Junior supervisor annual salary approx. $55,000-$75,000, mid-level $75,000-$100,000, senior $100,000-$130,000 (excluding overtime).
+
+**Q: Are there US immigration paths for this occupation?**
+A: Very limited. Usually requires US citizenship; foreign nationals almost impossible to enter the field via H-1B or green card pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-First-Line Supervisors of Police and Detectives属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for police supervisors?**
-答：Entry-level supervisors earn $55k-$75k, mid-level $75k-$100k, senior $100k-$130k (excluding overtime).
-
-**问：Are there immigration pathways for this occupation?**
-答：Very limited. Usually requires US citizenship; foreign workers have almost no H-1B or green card pathways.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

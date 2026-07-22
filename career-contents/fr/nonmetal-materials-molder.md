@@ -1,62 +1,96 @@
-# Non-metal Materials Molder（Non-metal Materials Molder）职业分析 · FR
+# Non-metal Materials Molder — career analysis · France
 
-**职业代码：H2908 – Non-metal Materials Molder。**
+**Occupation code: H2908 (ROME)**
 
-Creates sculptures, models, or industrial parts from non-metal materials such as plaster, resin, and ceramics using molding, casting, and shaping techniques. Tasks include material preparation, equipment operation, and finishing. Works in art foundries, architectural decoration, or industrial prototyping.
+Using non-metallic materials such as gypsum, resin, and ceramics, sculptures, models, or industrial components are manufactured through mold making, casting, and molding processes. The work includes preparing materials, operating equipment, and finishing finished products, commonly found in art casting, architectural decoration, or industrial prototyping.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 造型工艺 | 2年 | —（公立学校免学费，仅注册费；可获学徒津贴） |
-| Bac Pro 艺术工艺 | 3年 | —（公立学校免学费；含实习） |
-| BTS 造型设计 | 2年 | —（公立学校免学费；私立学校费用较高） |
+| CAP Molding Process | 2 years | $0~$1,500 (Public schools offer tuition waiver, only registration fees; Apprenticeship allowances are available) |
+| Bac Pro Artistry | 3 years | $0~$2,000 (tuition waiver in public schools; Including practical training) |
+| BTS styling design | 2 years | $0~$3,000 (tuition waiver in public schools; Private school fees are relatively high) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Art du modelage | 法国教育部 | 必备 | 基础职业文凭，从事造型工作的最低要求 |
-| Bac Pro Artisanat et métiers d'art | 法国教育部 | 可选 | 高级职业文凭，提升技能和就业机会 |
-| CQP (Certificat de Qualification Professionnelle) | 行业委员会 | 可选 | 特定行业认证，如艺术铸造或陶瓷造型 |
+| CAP Art du modelage | French Ministry of Education | Required | Basic vocational diploma, minimum requirements for styling work |
+| Bac Pro Artisanat et métiers d'art | French Ministry of Education | Optional | Advanced professional diplomas to enhance skills and employment opportunities |
+| CQP (Certificat de Qualification Professionnelle) | Industry committee | Optional | Industry-specific certifications, such as art casting or ceramic modeling |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。法国非金属造型行业受建筑装饰和艺术市场驱动，就业机会有限但稳定。高端定制和修复领域需求存在，但整体职位增长缓慢，竞争中等。学徒制是主要入口。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. France's non-metallic molding industry is driven by the architectural decoration and art markets, with limited but stable job opportunities. There is demand in high-end customization and restoration sectors, but overall job growth is slow and competition is moderate. Apprenticeships are the main entry point.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，通常为SMIC以上 |
-| 中级（3-7年） | $26,000~$32,000 | 税前年薪，根据技能和雇主 |
-| 高级（7年以上） | $32,000~$40,000 | 税前年薪，高级造型师或主管 |
+| Median salary | $29,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Pre-tax annual salary is usually above SMIC |
+| Mid-level (3–7 years) | $26,000~$32,000 | Pre-tax annual salary, depending on skill and employer |
+| Senior (7+ years) | $32,000~$40,000 | Pre-tax annual salary, senior stylist or supervisor |
+| average salary | $35,232 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 从初级造型工起步，可晋升为资深造型师或团队主管。积累经验后可转向艺术铸造、模型制作或建筑装饰领域。部分从业者通过竞赛或展览提升声誉，独立接单。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
+
+Starting as a junior stylist, you can be promoted to senior stylist or team leader. After gaining experience, you can move into art casting, model making, or architectural decoration. Some practitioners enhance their reputation through competitions or exhibitions and take orders independently.
+
+**Tasks most exposed to AI:**
+
+- Automatically generating G-code and tool paths for simple workpieces
+- Online machining parameter optimisation based on sensor feedback
+- Quality inspection of standard parts and automatic defect labeling
+- Processing monitoring and abnormal alarm handling
+
+**Where AI augments the role:**
+
+- AI-assisted complex surface programming and simulation verification
+- Optimize fixtures and cutting parameters via digital twins
+- Integrate CAM with adaptive machining to improve efficiency
+- Use AI to predict tool life and optimize tool change timing
+- Remote collaboration and AR-assisted debugging of multi-axis machine tools
+
+**Human moat:**
+
+- Process design for difficult-to-machine materials like irregular and thin-walled parts
+- On-site judgment and manual intervention during processing anomalies
+- Jig and fixture design and non-standard part clamping solutions
+- Communicate with design and assembly teams to resolve tolerance issues
+
+**Skills to build:**
+
+- Multi-axis CNC programming and post-processing customization
+- Write automated macros using Python/Macro
+- Secondary development of CAM software (e.g., Fusion 360 API)
+- Industrial robot loading/unloading integration and commissioning
+- GD&T geometric tolerancing and precision measurement techniques
+- AI-assisted machining software (e.g., Mastercam AI Advisor)
+
+**Key growth areas:**
 
 - Art casting
 - Architectural restoration
@@ -65,68 +99,67 @@ Creates sculptures, models, or industrial parts from non-metal materials such as
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需要法国雇主提供工作合同，并通过劳动局审核。非紧缺职业，需证明无法在欧盟找到合适人选。 |
-| Subclass Passeport Talent（Talent Passport） | 适用于艺术家或具有特殊才能者，需提供作品集或项目计划，签证有效期4年。 |
+| Subclass Salarié (Employee Work Permit) | A work contract from a French employer is required, and it must be reviewed by the Labor Bureau. Non-in-demand occupations must prove that suitable candidates cannot be found in the EU. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for artists or individuals with special talent, requiring a portfolio or project plan. The visa is valid for 4 years. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-low (★★☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-metal Materials Molder？**
-- 喜欢动手操作、对造型和材料有热情的人
-- 追求创意与手工技艺结合的职业者
-- 愿意通过学徒制积累实践经验的人
-
-**谁不适合学Non-metal Materials Molder？**
-- 追求高薪和快速晋升的人
-- 不喜欢体力劳动和重复性工作的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and are passionate about shapes and materials
+- Professionals who pursue a combination of creativity and craftsmanship
+- Those willing to gain practical experience through apprenticeships
+
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike physical labor and repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for non-metallic material stylists?**
+A: Junior stylists earn about 22,000-26,000 euros before tax, intermediate 26,000-32,000 euros, and senior stylists 32,000-40,000 euros. Salaries are influenced by region, employer, and skills, with Paris potentially having slightly higher salaries.
+
+**Q: How can foreigners work as non-metallic stylists in France?**
+A: You must first obtain a French diploma (such as CAP) or pass qualification certification. Work visas require employer sponsorship; non-urgently needed occupations require approval by the labor bureau. Artists can apply for talent passports.
+
+**Q: What educational background is required to become a non-metallic material stylist?**
+A: Usually requires CAP in arts and crafts (2 years) or Bac Pro in arts and crafts (3 years), which can be completed through apprenticeship. BTS in design (2 years) provides more advanced training. Public schools are mostly free.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Non-metal Materials Molder为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a non-metal materials molder?**
-答：Entry-level salary ranges from €22,000 to €26,000 gross annually, mid-level €26,000-€32,000, senior €32,000-€40,000. Salaries vary by region, employer, and skill level, with Paris area potentially higher.
-
-**问：How can a foreigner work as a non-metal materials molder in France?**
-答：Requires a French diploma (e.g., CAP) or recognition of qualifications. Work visa needs employer sponsorship, and since it's not a shortage occupation, a labor market test applies. Artists can apply for the Talent Passport.
-
-**问：What education is needed to become a non-metal materials molder?**
-答：Typically requires a CAP in modeling (2 years) or a Bac Pro in arts and crafts (3 years), often via apprenticeship. A BTS in design (2 years) offers advanced training. Public schools are mostly free.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# International Freight Traffic Operations Manager（International Freight Traffic Operations Manager）职业分析 · FR
+# International Freight Traffic Operations Manager — career analysis · France
 
-**职业代码：N1202 – International Freight Traffic Operations Manager。**
+**Occupation code: N1202 (ROME)**
 
-Manages international freight traffic operations, coordinating customs, carriers, and warehouses to ensure efficient and compliant cross-border goods movement.
+Responsible for managing the circulation and operation of international cargo transportation, coordinating customs, shipping companies, and warehouses to ensure efficient and compliant cross-border flow of goods.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS 运输与物流服务 | 2年 | —（公立学校免学费，仅注册费；学徒制有薪） |
-| BUT 物流与运输管理 | 3年 | —（公立大学低学费，可申请奖学金） |
-| Master 供应链管理 | 5年 | $5,000~$15,000（部分高商项目费用较高，但就业回报好） |
+| BTS transportation and logistics services | 2 years | $0~$5,000 (Public schools offer tuition waiver, only registration fees; The apprenticeship system includes firewood) |
+| BUT logistics and transportation management | 3 years | $0~$6,000 (Public universities offer low tuition fees and scholarships are available) |
+| Master of Supply Chain Management | 5 years | $5,000~$15,000 (Some high-commercial projects have higher fees but offer good job returns) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 报关员资格证 | 法国海关与间接税总局（DGDDI） | 必备 | 需通过国家考试，是从事国际货运通关的法定要求 |
-| 危险品运输培训（ADR） | 法国交通部 | 可选 | 处理危险品国际运输需持有，每5年更新 |
-| 国际货运代理资质（FIATA） | 国际货运代理协会联合会 | 可选 | 行业认可证书，非强制但大幅提升竞争力 |
+| Customs Broker Qualification Certificate | French Customs and Indirect Tax Directorate (DGDDI) | Required | Passing a national exam is a statutory requirement for international freight customs clearance |
+| Dangerous Goods Transport Training (ADR) | French Ministry of Transport | Optional | Handling hazardous materials for international transport requires holding and is renewed every 5 years |
+| International Freight Forwarding Qualification (FIATA) | International Federation of Freight Forwarders Associations | Optional | Industry recognition certificates, non-mandatory but significantly enhancing competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 15,000。随着全球贸易复苏和法国港口/铁路枢纽投资增加，国际货运管理人才需求持续增长，尤其精通多式联运和数字化流程的专家。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. With the global trade recovery and increased investment in French port/railway hubs, the demand for international freight management talent continues to grow, especially experts proficient in multimodal transport and digital processes.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 货运代理或运营助理岗位 |
-| 中级（4-7年） | $38,000~$50,000 | 运营经理或团队主管 |
-| 高级（8年以上） | $55,000~$75,000 | 高级经理或总监，含奖金 |
+| Median salary | $44,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Freight forwarding or operations assistant positions |
+| Mid-level (4-7 years) | $38,000~$50,000 | Operations manager or team leader |
+| Senior (8+ years) | $55,000~$75,000 | Senior manager or director, with bonuses |
+| average salary | $25,920 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从货运代理或运营专员晋升为运营经理，再至物流总监或供应链副总裁；掌握多语言和合规知识可加速晋升。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
+
+Employees can be promoted from freight forwarder or operations specialist to operations manager, then to logistics director or vice president of supply chain; Mastering multilingual and compliance knowledge accelerates promotion.
+
+**Tasks most exposed to AI:**
+
+- Demand forecasting based on historical data
+- Automated calculation of inventory levels for replenishment
+- Transport route optimization planning
+- Quantitative Scoring of Supplier Performance
+- Automatic generation of routine purchase orders
+
+**Where AI augments the role:**
+
+- Testing supply chain resilience through AI simulation.
+- Optimizing global procurement strategy using predictive analytics
+- Use risk management platforms to identify real-time disruption risks
+- Automatically summarize market intelligence using natural language processing
+- Dynamically adjusting inventory allocation via digital twins
+
+**Human moat:**
+
+- Complex Negotiations and Long-Term Supplier Relationship Management
+- Cross-departmental coordination and strategic decision-making (e.g., capacity investment)
+- Creative problem-solving in crisis situations
+- Deep understanding of corporate culture and sustainability initiatives
+- Ability to build and interpret AI model results
+
+**Skills to build:**
+
+- Operation of supply chain AI tools (e.g., Blue Yonder, Kinaxis)
+- Data analysis and predictive modeling (Python/R)
+- IoT and blockchain in supply chain applications
+- Risk management and scenario planning
+- Digital Transformation Project Management
+- Cross-cultural communication and leadership
+
+**Key growth areas:**
 
 - Global Trade
 - Multimodal Transport
@@ -63,68 +99,67 @@ Manages international freight traffic operations, coordinating customs, carriers
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高学历（BAC+5）且年薪达53600欧元以上的管理岗位，快速通道，可带家属 |
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，年薪不低于法国平均毛工资两倍（约43700欧元），有效期4年 |
-| Subclass Salarié（Salaried Employee Permit） | 若雇主担保且满足薪资条件（通常不低于SMIC 1.5倍），可申请，需劳动局审批 |
+| Subclass Carte bleue UE (EU Blue Card) | For high-education (BAC+5) and management roles with annual salary above €53,600, fast track, can bring family. |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, the annual salary is no less than twice the average gross salary in France (about 43,700 euros), valid for four years |
+| Subclass Salarié (Salaried Employee Permit) | If the employer sponsors and meets the salary requirements (usually not less than 1.5 times SMIC), you can apply, but approval from the Labor Bureau is required |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学International Freight Traffic Operations Manager？**
-- 喜欢跨文化沟通，具备外语（英/法/其他）能力
-- 对物流行业有热情，能适应快节奏和高压环境
-- 善于协调多部门和外部合作伙伴
-
-**谁不适合学International Freight Traffic Operations Manager？**
-- 无法接受频繁加班和临时突发事件
-- 不擅长处理繁杂的行政和申报流程
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys cross-cultural communication and possesses foreign language skills (English/French/others).
+- Passionate about the logistics industry and able to adapt to fast-paced and high-pressure environments
+- Skilled at coordinating multiple departments and external partners
+
+**Who is not suited**
+- Frequent overtime and sudden emergencies are unacceptable
+- Not skilled at handling complicated administrative and application procedures
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for International Freight Operations Managers?**
+A: Junior salaries are about 28k-35k euros, intermediate salaries 38k-50k, and senior salaries can exceed 75k euros (including bonuses). Salary is positively correlated with experience, language skills, and company size.
+
+**Q: How can third-country nationals immigrate to France through this employment?**
+A: You can apply for the EU Blue Card (master's degree + annual salary ≥€53.6K) or a talent passport (annual salary ≥€43.7K), with employer sponsorship required. Customs broker qualification certificates may boost employer confidence.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can be promoted from operations specialist to manager, then to supply chain director or regional logistics vice president, or transition to emerging fields such as consulting and digital logistics.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-International Freight Traffic Operations Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of an international freight operations manager?**
-答：Entry-level salary is around €28k-35k gross per year, mid-level €38k-50k, and senior can exceed €75k including bonuses. Salary correlates with experience, language skills, and company size.
-
-**问：How can third-country nationals immigrate through this occupation?**
-答：Apply for EU Blue Card (master's degree+salary≥€53.6k) or Talent Passport (salary≥€43.7k) with employer sponsorship. Customs broker certification may strengthen the application.
-
-**问：Is there career advancement in this field?**
-答：Yes, progression from operations specialist to manager, then to supply chain director or regional logistics VP, or pivot to consulting/digital logistics.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

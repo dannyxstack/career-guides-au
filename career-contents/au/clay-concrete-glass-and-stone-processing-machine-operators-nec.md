@@ -1,60 +1,96 @@
-# Clay, Concrete, Glass and Stone Processing Machine Operators nec（Clay, Concrete, Glass and Stone Processing Machine Operators nec）职业分析 · 澳大利亚
+# Clay, Concrete, Glass and Stone Processing Machine Operators nec — career analysis · Australia
 
-**职业代码：711199 – Clay, Concrete, Glass and Stone Processing Machine Operators nec。**
+**Occupation code: 711199 (ANZSCO)**
 
-Operate and monitor machines for processing clay, concrete, glass, or stone, including cutting, grinding, mixing, and shaping equipment, ensuring product quality and production efficiency in manufacturing or construction-related plants.
+Operate and monitor machinery for clay, concrete, glass, or stone processing, such as cutting, grinding, mixing, and shaping equipment, ensuring product quality and production efficiency. Typically works in manufacturing or construction-related factories.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 高中毕业 | 无 | —（通常要求高中文凭或同等学历） |
-| 职业证书（CII） | 6个月至1年 | $3,000~$8,000（部分TAFE提供相关短期课程） |
+| High school graduation | None | $0~$0 (Usually requires high school diploma or equivalent) |
+| Professional certification (CII) | 6 months to 1 year | $3,000~$8,000 (Some TAFEs offer relevant short courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 该职业通常无需正式执照，但雇主可能要求持有叉车或高空作业证 |
-| 工作经验 | 雇主 | 必备 | 通常需要6个月至2年相关机器操作经验 |
+| Work experience | Employer | Required | Typically requires 6 months to 2 years of relevant machine operation experience |
+| No mandatory license | None | Optional | This occupation typically does not require a formal license, but employers may require a forklift or working at height certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,500。澳洲建筑与制造业稳定发展，该职业需求持续存在，但自动化可能影响部分岗位。未来五年就业增长预计为缓慢至中等，主要集中在偏远地区和大型项目。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 4,500. The Australian construction and manufacturing sectors are developing steadily, with ongoing demand for this occupation, but automation may affect some roles. Employment growth over the next five years is expected to be slow to moderate, mainly in remote areas and large projects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 起薪较低，视地区而定 |
-| 中级（3-5年） | $55,000~$65,000 | 通常包含加班补贴 |
-| 高级（5年以上） | $65,000~$75,000 | 含主管津贴或特殊技能补贴 |
+| Median salary | $89,232 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $45,000~$55,000 | Starting salary is low, varies by region |
+| Mid-level (3–5 years) | $55,000~$65,000 | Usually includes overtime allowance |
+| Senior (5+ years) | $65,000~$75,000 | Includes supervisor allowance or special skill bonus |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级操作员晋升为高级操作员、班组长或生产主管，也可通过进修转向设备维护或质量控制岗位。部分经验丰富者可自主创业。
-**AI替代风险：较高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+This occupation faces significant automation risk, especially in repetitive tasks like cutting and mixing, as AI and robotics will reduce job numbers.
+
+Can advance from junior operator to senior operator, team leader, or production supervisor, or move to equipment maintenance or quality control through further training. Experienced individuals may start their own business.
+
+**Tasks most exposed to AI:**
+
+- Monitor machine operation status and simple fault alarms
+- Executes standardized cutting, grinding, and mixing parameter settings.
+- Weigh and feed raw materials according to fixed formulas
+- Record production data and quality inspection results
+- Perform repetitive loading and unloading operations
+
+**Where AI augments the role:**
+
+- Using computer vision inspection systems to optimize cutting precision and material utilization
+- Adjusting formulas based on historical data to reduce waste rate
+- Resolve complex equipment faults via AR glasses with remote expert guidance.
+- Use digital twin technology to simulate production processes and optimize parameters in advance
+- Predicting equipment maintenance cycles through intelligent maintenance systems
+
+**Human moat:**
+
+- Process adjustments for non-standard materials or custom orders
+- Diagnosing and repairing sudden mechanical breakdowns on site
+- Collaborate with engineers to develop new process workflows
+- Judgment for ensuring production safety and compliance operations
+- Manual finishing and quality control of custom products
+
+**Skills to build:**
+
+- PLC Programming and Automation Equipment Debugging
+- Python/R for production data analysis
+- Computer vision system operation and maintenance
+- Additive manufacturing (3D printing) operations
+- Use of digital tools such as MES/SCADA systems
+- Cross-skills training (e.g., electrical repair)
+
+**Key growth areas:**
 
 - Manufacturing
 - Construction
@@ -63,64 +99,66 @@ Operate and monitor machines for processing clay, concrete, glass, or stone, inc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 需雇主担保，该职业不在中长期职业清单上，仅特定偏远地区或DAMA可能适用 |
+| Subclass 482 (Temporary Skill Shortage) | Employer sponsorship required; this occupation is not on the Medium and Long-term Strategic Skills List, only applicable in specific remote areas or DAMA |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Clay, Concrete, Glass and Stone Processing Machine Operators nec？**
-- 喜欢动手操作机器、注重安全的体力劳动者
-- 愿意在工厂或偏远地区工作、适应轮班制的人
-- 寻求无需高学历即可稳定就业的求职者
+**Who is suited**
+- Manual workers who enjoy operating machinery and are safety-conscious
+- Those willing to work in factories or remote areas and adapt to shift work
+- Job seekers looking for stable employment without requiring high education
 
-**谁不适合学Clay, Concrete, Glass and Stone Processing Machine Operators nec？**
-- 期望高薪资或快速晋升者
-- 对重复性体力劳动和噪音环境无法适应者
+**Who is not suited**
+- Those expecting high salary or rapid promotion
+- Those who cannot adapt to repetitive physical labor and noisy environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of this occupation?**
+A: Entry-level operators earn approximately AUD 45,000-55,000 per year, senior operators or supervisors can reach AUD 65,000-75,000. Overtime and remote area allowances can increase earnings.
+
+**Q: Can this occupation migrate to Australia?**
+A: This occupation is not on the skilled migration occupation list and cannot immigrate via 189/190 visas. It may only be possible through regional employer sponsorship (DAMA) or 482 visa, but the thresholds are high.
+
+**Q: How to advance or increase income?**
+A: After gaining experience, advance to team leader or production supervisor, or learn equipment maintenance skills to become a mechanical technician. Obtaining forklift, elevated work platform, and other certifications can increase income.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Clay, Concrete, Glass and Stone Processing Machine Operators nec属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation?**
-答：Entry-level operators earn around AUD 45,000-55,000 per year, while senior operators or supervisors can earn AUD 65,000-75,000. Overtime and remote area allowances can increase income.
-
-**问：Can this occupation lead to Australian permanent residency?**
-答：This occupation is not on the skilled occupation list and cannot be used for 189/190 visas. It may be possible through regional employer sponsorship (DAMA) or subclass 482, but with high barriers.
-
-**问：How can I advance or increase income?**
-答：Gain experience to become a team leader or production supervisor, or learn maintenance skills to become a mechanic. Obtaining forklift or working-at-height licenses can boost earnings.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

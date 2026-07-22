@@ -1,58 +1,94 @@
-# Livestock and Dairy Producer（Livestock and Dairy Producer）职业分析 · IE
+# Livestock and Dairy Producer — career analysis · Ireland
 
-**职业代码：6121 – Livestock and Dairy Producer。**
+**Occupation code: 6121 (ISCO08)**
 
-Manages the breeding, feeding, and care of livestock (cattle, sheep) and dairy production, including milking, herd health, and pasture management.
+Responsible for managing the breeding and dairy production of cattle, beef cattle, sheep, etc., including feeding, reproduction, health management, and farm maintenance.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育+农业证书 | 2年（证书） | $5,000~$10,000（包括Teagasc农业课程） |
-| 本科（农业科学） | 4年（本科） | $12,000~$20,000（年学费，部分减免） |
+| Secondary education + agricultural certificate | 2 years (certificate) | $5,000~$10,000 (Includes Teagasc agricultural courses) |
+| Bachelor's (Agricultural Science) | 4 years (bachelor's degree) | $12,000~$20,000 (Annual tuition fee, partial waiver) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农场安全证书 | Health and Safety Authority | 必备 | 必须完成农场安全培训 |
-| 动物健康与福利证书 | Teagasc | 可选 | 建议持有，提升就业竞争力 |
+| Farm Safety Certificate | Health and Safety Authority | Required | Must complete farm safety training |
+| Certificate in Animal Health and Welfare | Teagasc | Optional | Recommended, enhances employability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 25,000。爱尔兰农业食品部门是经济重要支柱，乳制品和牛肉出口强劲。受环保政策和CAP改革影响，行业整合加速，对技术和管理人才需求稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 25,000. Ireland's agri-food sector is a key pillar of the economy, with strong dairy and beef exports. Influenced by environmental policies and the CAP reform, industry consolidation is accelerating, and demand for technical and management talent is stable.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 农场工人或助手 |
-| 中级（3-7年） | $32,000~$45,000 | 有经验的饲养员或主管 |
-| 高级（7年以上） | $45,000~$65,000 | 农场经理或自有牧场主 |
+| Median salary | $38,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Farm worker or labourer |
+| Mid-level (3–7 years) | $32,000~$45,000 | Experienced animal caretaker or supervisor |
+| Senior (7+ years) | $45,000~$65,000 | Farm Manager or Own Pastoralist |
+| average salary | $40,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 从农场工人或初级饲养员起步，可通过经验积累晋升为农场经理或牧场主。拥有农业学位或商业管理技能者可向大型农场高管或农业咨询顾问发展。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
+
+Start as farm worker or junior livestock keeper, can progress to farm manager or ranch owner with experience. Those with agricultural degrees or business management skills can develop into large farm executives or agricultural consultants.
+
+**Tasks most exposed to AI:**
+
+- Automated collection and report generation of crop growth data
+- Irrigation and fertilisation scheduling based on sensors and satellite imagery
+- Basic financial records and inventory management
+- Path planning for automated farm machinery (e.g., autonomous tractors)
+- Automatic tracking and alerts for weather forecasts and market prices
+
+**Where AI augments the role:**
+
+- Use AI to analyse soil, meteorological, and historical data to optimise crop rotation and planting decisions
+- Using drones and computer vision to quickly detect pests and diseases and apply precise treatments
+- Financial forecasting for farm expansion or transition using AI simulation tools
+- Using intelligent scheduling systems to optimize labor, equipment, and transportation arrangements
+- Automatically generate compliance reports and subsidy applications through natural language processing.
+
+**Human moat:**
+
+- Dynamic response capabilities for handling sudden natural disasters (e.g., drought, floods, fires)
+- Managing interpersonal relationships in coordinating cross-cultural temporary labor (e.g., backpackers, migrants)
+- Subtle judgments based on local experience and intuition (e.g., irrigation timing adjustments)
+- Build long-term trust with supply chain partners
+- On-site oversight of animal welfare and ethical standards
+
+**Skills to build:**
+
+- Data analysis and visualization (Python/R, Power BI)
+- Drone operation and image interpretation
+- Precision agriculture software (e.g., Climate FieldView)
+- Basic programming (automation scripts, API integration)
+- Project management and digital transformation management
+- Agricultural economics and risk assessment
+
+**Key growth areas:**
 
 - Sustainability
 - Precision Farming
@@ -61,64 +97,66 @@ Manages the breeding, feeding, and care of livestock (cattle, sheep) and dairy p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于非紧缺职业，但农业工人可申请。需年薪≥30,000欧元。雇主需通过劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 需年薪≥一般水平， agriculture sector usually not eligible unless managerial position. 不适合初级岗位。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in shortage, but agricultural workers can apply. Requires annual salary ≥ €30,000. Employer must pass labor market test. |
+| Subclass EU Blue Card (EU Blue Card) | Annual salary must be ≥ the general level; agriculture sector usually not eligible unless managerial position. Not suitable for entry-level positions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Livestock and Dairy Producer？**
-- 热爱户外工作，动手能力强
-- 有畜牧养殖经验或农业背景
-- 愿意接受季节性高强度劳动
-
-**谁不适合学Livestock and Dairy Producer？**
-- 不适应体力劳动和恶劣天气
-- 追求城市生活和固定工作时间
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Love outdoor work, strong hands-on skills
+- Experience in animal husbandry or agricultural background
+- Willing to accept seasonal high-intensity labor
+
+**Who is not suited**
+- Not adapted to manual labour and bad weather
+- Preference for city life and fixed working hours
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for Irish livestock and dairy producers?**
+A: Junior farm workers earn approximately €25,000-32,000 per year, mid-level supervisors about €32,000-45,000, and senior managers or ranchers can earn up to €45,000-65,000.
+
+**Q: How can foreign workers obtain a visa for the Irish livestock industry?**
+A: General work permits apply for non-shortage occupations, but require annual salary ≥€30,000 and a labour market test. EU citizens can work freely. Skilled roles may qualify for a critical skills permit.
+
+**Q: Is there a labor shortage in Irish agriculture?**
+A: Yes, there is a labor shortage in the agricultural sector, especially in dairy and meat processing. The government includes some agricultural occupations on the shortage list to ease immigration conditions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Livestock and Dairy Producer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for livestock and dairy producers in Ireland?**
-答：Entry-level farm workers earn around €25,000-32,000 per year, experienced supervisors €32,000-45,000, and senior managers or farm owners up to €45,000-65,000.
-
-**问：How can foreign workers obtain a visa for Irish livestock farming?**
-答：General Employment Permit is possible with salary ≥€30,000 and labor market test. EU citizens have free movement. Skilled roles may qualify for Critical Skills Permit.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

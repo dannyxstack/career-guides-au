@@ -1,132 +1,164 @@
-# Translators, terminologists and interpreters（Translators, terminologists and interpreters）职业分析 · 加拿大
+# Translators, terminologists and interpreters — career analysis · Canada
 
-**职业代码：51114 – Translators, terminologists and interpreters。**
+**Occupation code: 51205 (NOC)**
 
-Translators, terminologists and interpreters convert written or spoken information from one language to another, ensuring accuracy and cultural appropriateness. They work in government, international organizations, healthcare, legal, and business sectors.
+The translation and interpretation profession in Canada covers translation, interpretation, and terminology services. Immigration is possible via Express Entry or PNP, and certification exams (e.g., CITIC) enhance competitiveness; language skills are key.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（学费因大学和省份而异） |
-| 研究生文凭 | 1-2年 | $10,000~$30,000（翻译或口译研究生证书） |
+| Bachelor's degree | 4 years | $40,000~$80,000 (Tuition varies by institution and province, including language courses) |
+| Master's degree | 1-2 years | $10,000~$30,000 (Master of Arts in Translation/Interpretation) |
+| Certificate course | 1-2 years | $5,000~$15,000 (Community college or private training for quick entry) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 认证翻译（CTTIC） | 加拿大翻译、术语学和口译委员会 | 必备 | 省级认证，需通过考试 |
-| 认证会议口译员（AIIC） | 国际会议口译员协会 | 可选 | 高级口译认证 |
-| 本科学位 | 认可大学 | 必备 | 通常需要翻译或相关领域学位 |
+| Language proficiency proof | IELTS or CELPIP or TEF | Required | English or French proficiency at CLB 7 or above |
+| ECA (Educational Credential Assessment). | WES or IQAS, etc. | Required | Assess overseas qualifications as equivalent to Canadian standards |
+| CITIC certification | Canadian Translators Association (CTINB/ATIO etc.) | Optional | Obtained through exams, with translation and interpretation streams. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 22,000。加拿大对翻译和口译服务的需求稳定，受多元文化和国际贸易推动。尤其对稀有语言对（如中文、旁遮普语）和特定领域（医疗、法律）的需求较高。就业前景良好，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 15,000. With growing multicultural needs, demand for translators and interpreters in Canada is steadily increasing in medical, legal, and government sectors. However, competition for advanced positions is intense, entry opportunities are limited, and remote technology brings new working models.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 全职或自由职业 |
-| 中级（3-7年） | $50,000~$75,000 | 拥有认证 |
-| 高级（7年以上） | $75,000~$100,000 | 专业领域或会议口译 |
+| Median salary | $60,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Mostly in language service companies or freelance |
+| Mid-level (3–6 years) | $50,000~$70,000 | Can be higher in government or healthcare |
+| Senior (6+ years) | $70,000~$100,000 | Conference or in-house interpreters can earn up to CAD 120k+ |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级翻译或口译员可通过积累经验成为高级译员或项目经理。一些人专攻法律或医学口译，获得认证后可大幅提高薪资。自由职业者也可成立翻译公司。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Translation and interpretation professions face significant impact from AI, especially general text translation and simple interpretation tasks, but high-difficulty fields and certification requirements provide some protection.
 
-- Multilingual
-- AI-assisted Translation
+Junior interpreters can gain experience and specialize in fields like medical/legal interpretation, or advance to team supervisor. Those with CITIC certification are more likely to work in high-end conference interpreting or start their own business.
+
+**Tasks most exposed to AI:**
+
+- General document translation (e.g., emails, news) is replaced by machine translation
+- Simple dialogue interpretation (e.g., tourist inquiries) is being replaced by AI voice translation
+- Terminology lookup and consistency checks are automated by AI
+- Rough subtitle translation (non-creative) is replaced by AI auto-generation
+- Low-complexity localization testing taken over by AI tools
+
+**Where AI augments the role:**
+
+- Improve translation efficiency using translation memories and AI suggestions
+- Using terminology management tools to assist in terminology standardization.
+- Aid interpretation services with voice recognition and real-time translation
+- Accelerate high-quality translation output through AI post-editing
+- Using data analytics to optimize translation project workflows.
+
+**Human moat:**
+
+- Cultural sensitivity and context comprehension (e.g. literature, marketing copy)
+- High-difficulty domain knowledge (e.g., legal, medical patent translation)
+- Simultaneous interpretation requiring human judgment
+- Client communication and project management skills
+- Professional certification and ethical responsibility (e.g., sworn translator)
+
+**Skills to build:**
+
+- Proficiency in AI tools (e.g., DeepL Pro, Trados with AI)
+- Post-editing and quality assessment skills
+- Vertical specialisation (e.g., legal, medical, technical)
+- Data annotation and AI training set construction
+- Project management and client consulting ability
+- Continuous learning and certification updates.
+
+**Key growth areas:**
+
+- Language Services
+- Multicultural Demand
 - Remote Interpretation
-- Localization
+- Government Procurement
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法找到本地员工 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省、BC省）可提名翻译人才 |
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 可能通过FSW或CEC移民，但需有加拿大工作经验或高语言能力 |
+| Subclass EE (Express Entry (FSW/CEC)) | Through Deloitte's fast track, meet CLB 7 and at least one year of work experience |
+| Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have language service categories. |
+| Subclass TFW (Temporary Foreign Worker) | Gain experience through employer-sponsored work visa, then transition to PR |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Translators, terminologists and interpreters？**
-- 精通至少两种语言（包括英语或法语）
-- 对跨文化沟通有浓厚兴趣
-- 愿意不断学习新术语和领域知识
-
-**谁不适合学Translators, terminologists and interpreters？**
-- 不喜欢细节和准确性要求高的工作
-- 抗压能力差，无法应对紧急口译任务
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Bilingual or multilingual ability, passionate about cross-cultural communication
+- Have a translation or linguistics degree, able to withstand intensive study for certification.
+- Willing to deepen expertise in professional fields such as healthcare, law, etc.
+
+**Who is not suited**
+- Not sensitive to language details, poor emotional management
+- Cannot accept unstable income from freelance work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a translator/interpreter in Canada?**
+A: Entry-level around CAD $35,000–$50,000; mid-level $50,000–$70,000; senior can exceed $100,000, but varies by field and employer.
+
+**Q: How Can Translators and Interpreters Immigrate to Canada?**
+A: Can apply via Express Entry (requires CLB 7) or Provincial Nominee Program (e.g., Ontario Human Capital Priorities). Educational credentials need ECA, and holding CITIC certification can add points.
+
+**Q: Is it necessary to obtain CITIC certification to work as an interpreter in Canada?**
+A: Not mandatory, but CITIC certification (issued by CTINB/ATIO, etc.) is often required to reduce competition and secure higher-paying positions, especially in medical or legal fields.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Translators, terminologists and interpreters为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for translators and interpreters?**
-答：Entry-level translators earn around CAD 35,000-50,000 annually, mid-level CAD 50,000-75,000, and senior can exceed CAD 100,000. Freelancers have variable income.
-
-**问：Can translators and interpreters immigrate through skilled migration?**
-答：Yes, but it's challenging. Typically requires employer sponsorship (LMIA) or provincial nomination (PNP). Express Entry may apply for those with Canadian experience or high language scores.
-
-**问：What certifications are required in Canada?**
-答：Provincial certification (e.g., CTTIC) is mandatory. Senior interpreters may pursue AIIC certification.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

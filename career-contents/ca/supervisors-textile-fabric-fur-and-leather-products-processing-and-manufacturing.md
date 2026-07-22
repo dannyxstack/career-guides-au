@@ -1,60 +1,95 @@
-# Supervisors, textile, fabric, fur and leather products processing and manufacturing（Supervisors, textile, fabric, fur and leather products processing and manufacturing）职业分析 · 加拿大
+# Supervisors, textile, fabric, fur and leather products processing and manufacturing — career analysis · Canada
 
-**职业代码：92015 – Supervisors, textile, fabric, fur and leather products processing and manufacturing。**
+**Occupation code: 92015 (NOC)**
 
-Supervise workers and oversee the processing and manufacturing of textile, fabric, fur and leather products, coordinating activities to meet production targets and quality standards.
+Oversees textile, fabric, fur, and leather product processing and manufacturing, coordinates worker activities to ensure production efficiency and quality standards.
 
-> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立教育免费） |
-| 大专或职业培训 | 1-2年 | $5,000~$15,000（取决于院校） |
+| High school diploma | 12 years | $0~$0 (Public education is free) |
+| Associate degree or vocational training | 1-2 years | $5,000~$15,000 (Depends on the institution) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证 | 省级教育部门 | 必备 | 基本要求 |
-| 管理经验 | 雇主 | 可选 | 通常需要数年制造经验 |
+| High school diploma | Provincial education department | Required | Basic requirements |
+| Management experience | Employer | Optional | Usually requires several years of manufacturing experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 1,800。加拿大纺织制造业规模较小且持续萎缩，就业机会有限。多数岗位集中在魁北克和安大略省。预计未来十年需求稳定但竞争激烈。
+**Job demand: low (★½☆☆☆).** National workforce approx. 1,800. Canada's textile manufacturing industry is small and shrinking, with limited job opportunities. Most positions are in Quebec and Ontario. Demand is expected to be stable but competitive over the next decade.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 年薪CAD |
-| 中级（4-7年） | $48,000~$60,000 | 年薪CAD |
-| 高级（8年以上） | $60,000~$75,000 | 年薪CAD |
+| Median salary | $56,160 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $38,000~$48,000 | CAD per year |
+| Mid-level (4-7 years) | $48,000~$60,000 | CAD per year |
+| Senior (8+ years) | $60,000~$75,000 | CAD per year |
+| average salary | $62,400 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 可从生产线工人晋升为主管，进而晋升为生产经理或工厂经理。需积累管理经验和行业知识，部分岗位要求继续教育提升管理技能。
-**AI替代风险：中（★★★☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The role of Textile, Fabric, Fur and Leather Product Processing and Manufacturing Supervisor is moderately affected by AI and automation: repetitive monitoring and scheduling tasks are easily replaced, but personnel management, quality control decisions, and complex problem-solving still rely on human experience, overall risk moderate.
+
+Progression from production line worker to supervisor, then to production manager or plant manager. Requires accumulation of management experience and industry knowledge; some roles may require further education for management skills.
+
+**Tasks most exposed to AI:**
+
+- Production progress monitoring and report generation: AI collects real-time data and automatically generates reports.
+- Simple quality inspection: computer vision automatically detects fabric defects and color deviations.
+- Inventory Tracking and Material Requirement Calculation: automated via ERP system combined with AI forecasting.
+- Equipment operation monitoring: IoT sensors + AI early warning replaces manual inspections.
+- Employee attendance and hours tracking: automatic clock-in systems and scheduling algorithms take over.
+
+**Where AI augments the role:**
+
+- Complex fabric defect analysis and root cause localization: AI image recognition assists supervisors in quickly identifying problem areas.
+- Production scheduling optimization: AI simulates the impact of different shift plans on efficiency, and supervisors select the best one.
+- Supplier material quality assessment: AI analyzes historical data to assist supervisors in decision-making.
+- Employee training and skill development: AI generates personalised training content, supervisors monitor progress.
+- Cost analysis and waste traceability: AI mines production data for cost anomalies, and supervisors develop improvement measures.
+
+**Human moat:**
+
+- Interpersonal communication and team coordination: handling worker conflicts, boosting morale, site management.
+- Non-routine decision-making: e.g., production line adjustment during emergency equipment failure or order changes.
+- Process Innovation and Improvement: propose new fabric treatment methods or process optimizations based on experience.
+- Safety and compliance management: ensuring safe worker operations and enforcement of environmental standards.
+
+**Skills to build:**
+
+- Data analysis and interpretation (e.g., Python, SQL, Power BI)
+- Operation and maintenance of automated production systems (e.g., MES, SCADA)
+- Machine learning basics (understanding how AI models assist in quality inspection).
+- Lean production and Six Sigma management
+- Cross-departmental communication and project management
+- Supply chain management fundamentals (e.g., inventory optimization, supplier evaluation).
+
+**Key growth areas:**
 
 - Moderate decline
 - Automation impact
@@ -63,65 +98,64 @@ Supervise workers and oversee the processing and manufacturing of textile, fabri
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地工人，获批后支持工作许可 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份可能提名有雇主offer的纺织主管 |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to recruit local workers; supports work permit after approval |
+| Subclass PNP (Provincial Nominee Program) | Some provinces may nominate textile supervisors with employer offers |
 
-**PR难度：高（★★★★½）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors, textile, fabric, fur and leather products processing and manufacturing？**
-- 有制造或纺织行业经验者
-- 具备团队管理和协调能力的人
-- 能适应工厂环境及倒班制度
-
-**谁不适合学Supervisors, textile, fabric, fur and leather products processing and manufacturing？**
-- 追求高收入和快速发展的人
-- 不喜欢重复性体力工作的人
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with manufacturing or textile industry experience
+- People with team management and coordination skills
+- Able to adapt to factory environment and shift work
+
+**Who is not suited**
+- People seeking high income and rapid career growth
+- People who dislike repetitive physical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a textile supervisor?**
+A: Junior approximately CAD 38,000-48,000, intermediate CAD 48,000-60,000, senior CAD 60,000-75,000.
+
+**Q: Can a textile supervisor immigrate through Express Entry?**
+A: Unlikely. This occupation is not in the high-skilled category; mainly relies on LMIA work permits or certain provincial nominations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Supervisors, textile, fabric, fur and leather products processing and manufacturing为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for textile supervisors?**
-答：Entry-level CAD 38,000-48,000, mid-level CAD 48,000-60,000, senior CAD 60,000-75,000 annually.
-
-**问：Can textile supervisors immigrate through Express Entry?**
-答：Unlikely. The occupation is not in high-skill categories; mainly via LMIA work permits or some PNP streams.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

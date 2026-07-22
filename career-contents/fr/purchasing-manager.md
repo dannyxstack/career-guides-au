@@ -1,60 +1,96 @@
-# Purchasing Manager（Purchasing Manager）职业分析 · FR
+# Purchasing Manager — career analysis · France
 
-**职业代码：M1101 – Purchasing Manager。**
+**Occupation code: M1101 (ROME)**
 
-Responsible for procurement strategy, supplier management, and cost control, coordinating cross-departmental needs to ensure efficient acquisition of goods and services.
+Responsible for formulating corporate procurement strategies, managing suppliers, and controlling costs, coordinating cross-departmental demands, and ensuring efficient access to materials and services.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业+2年 | 2年（BTS） | —（公立学校学费低，私立约2000-5000欧/年） |
-| 本科 | 3年（Licence） | —（公立大学免学费，注册费约170-500欧/年） |
-| 硕士 | 2年（Master） | —（公立大学免学费，商校约8000-15000欧/年） |
+| High school graduation + 2 years | 2 Years (BTS) | $0~$5,000 (Public schools have low tuition fees, while private ones cost about 2,000-5,000 euros per year) |
+| Bachelor's degree | 3 years (Licence) | $0~$10,000 (Public universities offer tuition-free tuition, with registration fees ranging from about 170 to 500 euros per year) |
+| Master's degree | 2 years (Master) | $0~$15,000 (Public universities are tuition-free; business schools about €8,000-15,000/year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 采购与供应管理文凭（CIPS） | 英国皇家采购与供应学会 | 可选 | 国际认可，非强制但雇主青睐 |
-| 法国采购专业认证（CDAF） | 法国采购经理人协会 | 可选 | 行业认可，提升竞争力 |
-| 供应链管理硕士文凭 | 法国高等教育机构 | 可选 | 部分岗位要求硕士学历 |
+| Diploma in Procurement and Supply Management (CIPS) | Chartered Institute of Procurement & Supply (CIPS) | Optional | Internationally recognized, not mandatory but favored by employers |
+| French Procurement Professional Certification (CDAF) | French Purchasing Managers Association | Optional | Industry recognition, enhancing competitiveness |
+| Master's degree in Supply Chain Management | French higher education institutions | Optional | Some positions require a master's degree |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 85,000。法国采购专业人才需求稳定，尤其在工业、零售和公共部门。数字化转型和供应链韧性提升带来新机遇，预计未来5年岗位增长约5%。
+**Job demand: high (★★★★☆).** National workforce approx. 85,000. France has stable demand for procurement professionals, especially in the industrial, retail, and public sectors. Digital transformation and improved supply chain resilience bring new opportunities, with job growth expected to be about 5% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$40,000 | 税前年薪，视行业和地区 |
-| 中级（3-7年） | $40,000~$55,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $55,000~$80,000 | 税前年薪，采购经理或总监级别 |
+| Median salary | $47,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $32,000~$40,000 | Annual pre-tax salary, varies by industry and region |
+| Mid-level (3–7 years) | $40,000~$55,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $55,000~$80,000 | Pre-tax annual salary, procurement manager or director level |
+| average salary | $62,116 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从采购助理晋升至采购经理、供应链总监。需积累品类管理、谈判及战略规划能力，考取CIPS等认证可加速发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
+
+Promotion from Procurement Assistant to Procurement Manager and Supply Chain Director. Acquire category management, negotiation, and strategic planning skills; obtaining certifications such as CIPS can accelerate development.
+
+**Tasks most exposed to AI:**
+
+- Automated inquiry and price comparison processes for standard procurement
+- Supplier master data maintenance and historical transaction analysis
+- Automated review and compliance checking of contract clauses
+- Inventory monitoring and automatic replenishment suggestions
+- Automated Generation and Tracking of Purchase Orders
+
+**Where AI augments the role:**
+
+- AI-based market price forecasting and strategic procurement decisions
+- Real-time monitoring and intelligent scoring of supplier risks
+- Data analysis support and pattern recognition in contract negotiations
+- Market insight and trend simulation in category strategy development
+- Automatic report and suggestion generation in cross-department collaboration
+
+**Human moat:**
+
+- Complex supplier relationship management and long-term strategic partnerships
+- Emergency decision-making and interpersonal coordination during supply chain disruptions
+- Human judgment and accountability in compliance and ethical procurement
+- Cross-cultural negotiation and interest balancing skills
+- Leadership and influence in organizational change management.
+
+**Skills to build:**
+
+- Operation and integration of AI procurement tools (e.g., SAP Ariba, Coupa AI)
+- Supply chain data analysis and predictive modeling (Python/R)
+- Supplier risk management and ESG assessment
+- Strategic category management and market intelligence
+- Cross-functional leadership and change management
+- Negotiation psychology and digital tool assistance
+
+**Key growth areas:**
 
 - Sustainable Procurement
 - Digital Transformation
@@ -63,65 +99,64 @@ Responsible for procurement strategy, supplier management, and cost control, coo
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适合高技能专业人士，需硕士学历+3年经验或年薪≥约42k欧 |
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，适合有工作合同的采购人员，薪资需达标 |
-| Subclass Carte bleue UE（EU Blue Card） | 适合高收入岗位，年薪需≥约53k欧（2024标准） |
+| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, requiring a master's degree + 3 years experience or annual salary ≥ approx. €42,000. |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, suitable for procurement personnel with work contracts, salary must meet standards |
+| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-income positions, annual salary ≥ about 53k euros (2024 standard) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Purchasing Manager？**
-- 具备谈判技巧和数据分析能力的人
-- 喜欢跨部门协作和战略规划
-- 希望在供应链领域长期发展
-
-**谁不适合学Purchasing Manager？**
-- 不喜日常重复性操作
-- 抗拒与供应商频繁沟通
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals with negotiation skills and data analysis abilities
+- Enjoys cross-departmental collaboration and strategic planning
+- We hope to develop long-term in the supply chain sector
+
+**Who is not suited**
+- Dislikes daily repetitive operations
+- Resistance to frequent communication with suppliers
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary level for purchasing managers in France?**
+A: Junior approx. €32,000-40,000, mid-level €40,000-55,000, senior €55,000-80,000 (pre-tax annual salary). Varies significantly by industry and region; Paris area is usually higher.
+
+**Q: How can foreigners immigrate to France through procurement positions?**
+A: Applications can be made through the Passeport Talent Passport or the EU Blue Card (Carte bleue UE). Must have a work contract with a French employer and meet the salary requirements (EU Blue Card requires ≥53k euros).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Purchasing Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Purchasing Manager in France?**
-答：Entry-level: €32k-40k, mid-level: €40k-55k, senior: €55k-80k (gross annual). Varies by industry and location, with Paris offering higher pay.
-
-**问：How can foreigners immigrate to France as a Purchasing Manager?**
-答：Apply via Talent Passport or EU Blue Card with a job offer from a French employer meeting salary thresholds (EU Blue Card ≥€53k).
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

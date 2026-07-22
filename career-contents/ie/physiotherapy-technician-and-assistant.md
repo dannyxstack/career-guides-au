@@ -1,61 +1,94 @@
-# Physiotherapy Technician and Assistant（Physiotherapy Technician and Assistant）职业分析 · IE
+# Physiotherapy Technician and Assistant — career analysis · Ireland
 
-**职业代码：3255 – Physiotherapy Technician and Assistant。**
+**Occupation code: 3255 (ISCO08)**
 
-Assist physiotherapists in implementing rehabilitation programs, including exercise therapy, manual therapy, and physical modalities, to help patients regain function.
+Assist physiotherapists in implementing rehabilitation plans, including exercise therapy, manual therapy, and physical agent therapy, to help patients recover function.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高等证书/文凭 | 1年（证书）或2年（文凭） | $5,000~$10,000（公立院校学费，不含生活费） |
-| 本科学位（可选） | 3-4年 | $12,000~$20,000（如都柏林大学等，国际生学费更高） |
+| Advanced Certificate/Diploma | 1 year (certificate) or 2 years (diploma) | $5,000~$10,000 (Public university tuition only, excluding living expenses.) |
+| Bachelor's degree (optional) | 3-4 years | $12,000~$20,000 (At institutions like University College Dublin, international student fees are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急救证书 | 爱尔兰心脏基金会等 | 必备 | 多数雇主要求 |
-| 物理治疗助理文凭 | 爱尔兰继续教育与培训委员会 | 可选 | 常见入职资质 |
-| 注册物理治疗师资格（如晋升） | 爱尔兰物理治疗师协会 | 可选 | 需完成学士学位及实习 |
+| First aid certificate | Irish Heart Foundation, etc. | Required | Most employers require |
+| Diploma of Physiotherapy Assistant | Further Education and Training Authority | Optional | Common entry qualifications |
+| Registered physiotherapist qualification (for promotion) | Irish Society of Chartered Physiotherapists | Optional | Requires bachelor's degree and internship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。随着老龄化人口增加和慢性病管理需求上升，物理治疗助理在爱尔兰的需求持续增长，尤其在社区和养老机构。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. With an aging population and rising demand for chronic disease management, demand for physiotherapy assistants in Ireland continues to grow, especially in community and aged care facilities.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 公立医院或诊所起薪 |
-| 中级（3-7年） | $33,000~$40,000 | 有经验者薪资提升 |
-| 高级（7年以上） | $42,000~$52,000 | 高级助理或管理岗 |
+| Median salary | $36,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Starting salary in public hospitals or clinics |
+| Mid-level (3–7 years) | $33,000~$40,000 | Salary increase for experienced candidates |
+| Senior (7+ years) | $42,000~$52,000 | Senior assistant or management position |
+| average salary | $37,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可从助理晋升为高级助理或专科助理，积累经验后可考取资质成为正式物理治疗师，或转向管理岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Physiotherapy technicians and assistants face AI automation risks, but physical contact and human care provide a moat; AI serves more as a tool to enhance efficiency rather than fully replace them.
+
+May progress from assistant to senior assistant or specialist assistant; with experience, can obtain qualifications to become a qualified physiotherapist, or move into management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate treatment records and progress reports
+- Automatically analyze patient movements and provide feedback through computer vision
+- Uses AI scheduling system to optimize patient appointments and treatment arrangements
+- AI-based remote rehabilitation monitoring and basic guidance
+
+**Where AI augments the role:**
+
+- AI-assisted real-time analysis of movement patterns to optimize treatment plans
+- Using AI to predict patient recovery progress and risks
+- Generate personalized home exercise plans with AI
+- Use mobile apps and wearable devices to enhance patient self-management
+
+**Human moat:**
+
+- Manual therapy and other physical operations requiring tactile feedback
+- Interpersonal interaction to build trust and emotional support with patients
+- Decision-making ability to adjust treatment based on non-verbal cues
+- Handling complex cases and multi-factor comprehensive judgment
+
+**Skills to build:**
+
+- Basic programming and data analysis skills
+- Operation and interpretation of AI-assisted rehabilitation tools
+- Telehealth platform usage and patient digital communication skills
+- Equipment maintenance and simple troubleshooting
+- Ethics and privacy protection knowledge
+- Interdisciplinary collaboration and case management skills
+
+**Key growth areas:**
 
 - Aging population
 - Chronic disease management
@@ -64,69 +97,68 @@ Assist physiotherapists in implementing rehabilitation programs, including exerc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪低于€34,000的岗位，需雇主担保，配额有限。 |
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 年薪需达€32,000以上，且职业在紧缺列表上，物理治疗助理通常不符合。 |
-| Subclass EU Free Movement（EU/EEA Free Movement） | 欧盟公民可自由工作，非欧盟需工作许可。 |
+| Subclass General Employment P (General Employment Permit) | Applies to positions with an annual salary below €34,000, requiring employer sponsorship and limited quotas. |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Annual salary must exceed €32,000, and the occupation must be on the shortage list; physical therapy assistants typically do not qualify. |
+| Subclass EU Free Movement (EU/EEA Free Movement) | EU citizens can work freely; non-EU citizens need a work permit. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Physiotherapy Technician and Assistant？**
-- 耐心细致、善于沟通的助人者
-- 对康复医学感兴趣、愿意从事体力活动者
-- 希望快速进入医疗行业的求职者
-
-**谁不适合学Physiotherapy Technician and Assistant？**
-- 不喜重复性体力劳动的人
-- 抗压能力差、情绪易受影响者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient, detail-oriented, and communicative helper.
+- Interested in rehabilitation medicine and willing to engage in physical activities
+- Job seekers hoping to quickly enter the healthcare industry
+
+**Who is not suited**
+- Those who dislike repetitive physical labour
+- Individuals with low stress tolerance or easily affected by emotions
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for physical therapy assistants in Ireland?**
+A: Junior annual salary approximately €25,000-32,000, senior up to €52,000, with more stable salaries in public hospitals.
+
+**Q: How can non-EU citizens obtain a work visa for a physiotherapist assistant position in Ireland?**
+A: Typically requires a General Employment Permit with an annual salary of at least €27,000, and the employer must prove inability to recruit EU citizens.
+
+**Q: Is there room for advancement as a physical therapy assistant?**
+A: Can advance to senior assistant or become a registered physiotherapist through further study, with significant salary and responsibility increases.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Physiotherapy Technician and Assistant为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for physiotherapy technicians in Ireland?**
-答：Entry-level salaries range from €25,000 to €32,000, while senior roles can reach €52,000, with public hospitals offering stable pay.
-
-**问：How can non-EU citizens obtain a work visa for physiotherapy technician in Ireland?**
-答：Typically via a General Employment Permit, requiring a salary above €27,000 and employer proof of unable to recruit within EU.
-
-**问：Is there career progression for physiotherapy technicians?**
-答：Yes, they can advance to senior assistant or become a registered physiotherapist through further study, with higher pay and responsibility.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

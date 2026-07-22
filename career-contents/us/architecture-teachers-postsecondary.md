@@ -1,58 +1,94 @@
-# Architecture Teachers, Postsecondary（Architecture Teachers, Postsecondary）职业分析 · 美国
+# Architecture Teachers, Postsecondary — career analysis · United States
 
-**职业代码：25-1031 – Architecture Teachers, Postsecondary。**
+**Occupation code: 25-1031 (SOC)**
 
-Teach courses in architecture and architectural design at postsecondary institutions, including environmental design, interior architecture, and landscape architecture, often combining teaching and research.
+Teach architecture and architectural design courses at higher education institutions, covering areas such as architectural design, interior architecture, and landscape architecture, often combining teaching and research.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 博士学位（建筑学或相关领域） | 5-7年 | $120,000~$200,000（学费因学校类型（公立/私立）和资助情况差异大） |
-| 硕士学位（建筑学） | 2-3年 | $60,000~$120,000（通常为专业学位，如M.Arch） |
+| Doctorate (Architecture or related field) | 5-7 years | $120,000~$200,000 (Tuition varies greatly depending on school type (public/private) and funding situation) |
+| Master's degree (Architecture). | 2-3 years | $60,000~$120,000 (Typically a professional degree such as M.Arch) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 建筑学博士学位 | 美国教育部认可大学 | 可选 | 研究型大学教学职位通常要求 |
-| 注册建筑师执照 | 美国国家建筑注册委员会（NCARB） | 可选 | 非强制但有助于实践导向教学 |
+| Doctor of Architecture degree | US Department of Education accredited universities | Optional | Research university teaching positions usually require |
+| Licensed Architect | National Council of Architectural Registration Boards (NCARB) | Optional | Not mandatory but helpful for practice-oriented teaching |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 10,500。美国高等教育建筑学教授职位增长缓慢，预计2022-2032年增长约2%，低于平均水平。竞争激烈，因终身教职职位有限，兼职和临时职位增多。
+**Job demand: low (★½☆☆☆).** National workforce approx. 10,500. Architecture professor positions in US higher education are growing slowly, with an estimated 2% growth from 2022-2032, below average. Competition is intense due to limited tenure-track positions and an increase in part-time and temporary positions.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（助理教授，0-6年） | $60,000~$85,000 | 非终身轨或终身轨初期 |
-| 中级（副教授，6-12年） | $75,000~$100,000 | 通常获得终身教职后 |
-| 高级（正教授，12年以上） | $95,000~$140,000 | 资深教授，含暑期工资和研究资助 |
+| Median salary | $96,870 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Junior (Assistant Professor, 0-6 years) | $60,000~$85,000 | Non-tenure track or early tenure track |
+| Mid-level (Associate Professor, 6-12 years) | $75,000~$100,000 | Usually after obtaining tenure |
+| Senior (full professor, 12+ years) | $95,000~$140,000 | Senior professor, including summer salary and research grants. |
+| average salary | $101,250 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径通常从助理教授（非终身轨）开始，晋升副教授和正教授（终身轨），需发表研究、获得教学评价和机构服务。部分转向行政岗位如系主任。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
+
+Career progression typically starts from assistant professor (non-tenure track), advancing to associate and full professor (tenure track), requiring research publications, teaching evaluations, and institutional service. Some transition to administrative roles like department chair.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate course outlines and lecture drafts
+- Basic Q&A and automated responses to common questions
+- Preliminary grading and feedback on student assignments
+- Literature review and data collation
+- Administrative tasks (e.g., class scheduling, grade entry)
+
+**Where AI augments the role:**
+
+- AI-assisted personalised learning path design and adaptive assessment
+- Use LLMs to quickly generate teaching cases and simulated discussions
+- Assist with hypothesis testing, data analysis, and paper polishing in research
+- Virtual classrooms and collaborative teaching with AI teaching assistants
+- Knowledge graph construction and interdisciplinary curriculum planning
+
+**Human moat:**
+
+- Face-to-face mentorship and emotional support
+- In-depth explanation of complex concepts and stimulation of critical thinking
+- Formulation of original research questions and method design
+- Ethical judgment and academic decision-making
+- Creative integration in overall curriculum design
+
+**Skills to build:**
+
+- Application of AI education tools (e.g., Knewton, Carnegie Learning).
+- Data analysis and statistical modeling (Python/R)
+- Prompt engineering and large model fine-tuning
+- Blended instructional design (MOOC/flipped classroom)
+- Academic writing and AI-assisted polishing
+- Data Privacy and AI Ethics
+
+**Key growth areas:**
 
 - Higher Education Trends
 - Online Learning
@@ -61,68 +97,67 @@ Teach courses in architecture and architectural design at postsecondary institut
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 适用于大学教学职位，需雇主担保，年度配额有限，但高等教育机构豁免配额 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 适用于具有高等学位的教授，通常需通过PERM劳工证或国家利益豁免(NIW) |
-| Subclass O-1（O-1 Visa for Individuals with Extraordinary Ability） | 适用于在建筑领域有杰出成就的教授，无需劳工证 |
+| Subclass H-1B (H-1B Specialty Occupations) | Applies to university teaching positions, requires employer sponsorship with limited annual quotas, but higher education institutions are exempt from quotas. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professors with advanced degrees, usually through PERM labor certification or National Interest Waiver (NIW) |
+| Subclass O-1 (O-1 Visa for Individuals with Extraordinary Ability) | Applicable to professors with outstanding achievements in construction field; no labour certificate required |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Architecture Teachers, Postsecondary？**
-- 对建筑学有深厚兴趣并愿意从事教学和研究的人
-- 具备优秀沟通能力和耐心指导学生的能力
-- 乐于参与学术服务及课程开发
-
-**谁不适合学Architecture Teachers, Postsecondary？**
-- 不喜欢学术环境中的不确定性和竞争压力
-- 更倾向于实践而非教学
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in architecture and a desire to engage in teaching and research
+- Possess excellent communication skills and patience to guide students
+- Happy to participate in academic service and curriculum development
+
+**Who is not suited**
+- Dislike uncertainty and competition in academic environments
+- Prefer practice over teaching
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for an architecture professor?**
+A: Junior Assistant Professor: approximately $60,000-$85,000 per year, mid-level Associate Professor $75,000-$100,000, senior Professor $95,000-$140,000. Salaries vary by institution type and location.
+
+**Q: How can foreign citizens become architecture professors in the US via work visas?**
+A: Common pathways include H-1B visa (higher education exemption cap), EB-2 green card (requires labor certification or NIW), or O-1 visa (extraordinary ability). Typically requires a PhD and teaching experience.
+
+**Q: What is the future outlook for this occupation?**
+A: Slow growth (~2%), competitive, fewer tenure-track positions, more part-time roles. However, online education and sustainable design courses may offer new opportunities.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very high (★★★★½) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★½） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Architecture Teachers, Postsecondary的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for architecture professors?**
-答：Entry-level assistant professors earn around $60,000-$85,000; associate professors $75,000-$100,000; full professors $95,000-$140,000. Salaries vary by institution and location.
-
-**问：How can foreign nationals become architecture professors in the US via work visas?**
-答：Common paths include H-1B (exempt from cap for higher education), EB-2 green card (PERM or NIW), or O-1 visa (extraordinary ability). A PhD and teaching experience are typically required.
-
-**问：What is the future outlook for this occupation?**
-答：Slow growth (about 2%), high competition, fewer tenure-track positions, and more adjunct roles. Opportunities may arise in online learning and sustainability curricula.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

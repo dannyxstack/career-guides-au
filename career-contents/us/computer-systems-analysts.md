@@ -1,61 +1,97 @@
-# Computer Systems Analysts（Computer Systems Analysts）职业分析 · 美国
+# Computer Systems Analysts — career analysis · United States
 
-**职业代码：15-1211 – Computer Systems Analysts。**
+**Occupation code: 15-1211 (SOC)**
 
-Analyze business and technical problems to design and implement computer system solutions, optimizing system performance and integration.
+Analyze business and technical problems, design and implement computer system solutions, optimize system performance and integration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学年均1-3万，私立大学年均4-5万美元） |
-| 硕士学位 | 2年 | $30,000~$100,000（部分学校提供助学金，总花费取决于学校排名） |
-| 副学士学位 | 2年 | $10,000~$40,000（社区学院低成本，但需后续经验或证书） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Public university annual average 10,000-30,000, private university annual average 40,000-50,000 USD) |
+| Master's degree | 2 years | $30,000~$100,000 (Some schools offer financial aid; total cost depends on school ranking.) |
+| Associate degree | 2 years | $10,000~$40,000 (Low cost at community colleges, but requires subsequent experience or certification) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学士学位 | 大学 | 必备 | 常见要求，部分雇主接受等同经验 |
-| 系统分析认证 | IEEE或IIBA | 可选 | 如CBAP或CCBA，提升竞争力 |
-| 项目管理专业认证（PMP） | PMI | 可选 | 利于晋升管理岗位 |
-| 云平台认证（如AWS Solutions Architect） | AWS等 | 可选 | 适应云计算趋势 |
+| Bachelor's degree in computer science or related field | University | Required | Common requirement, some employers accept equivalent experience. |
+| Systems analysis certification | IEEE or IIBA | Optional | Such as CBAP or CCBA to enhance competitiveness |
+| Project Management Professional (PMP) | PMI | Optional | Favorable for promotion to management positions |
+| Cloud platform certification (e.g., AWS Solutions Architect) | AWS etc. | Optional | Adapt to cloud computing trends |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 535,000。美国劳工统计局预测2022-2032年就业增长10%，远高于平均水平，云迁移和网络安全需求驱动。
+**Job demand: very high (★★★★½).** National workforce approx. 535,000. The US Bureau of Labor Statistics projects 10% employment growth from 2022-2032, much faster than average, driven by cloud migration and cybersecurity demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$80,000 | 起薪取决于地区和行业 |
-| 中级（4-7年） | $80,000~$110,000 | 经验丰富者薪资中位数约9万美元 |
-| 高级（8年以上） | $110,000~$150,000 | 管理层或专家可达12万以上 |
+| Median salary | $105,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $55,000~$80,000 | Starting salary depends on region and industry |
+| Mid-level (4-7 years) | $80,000~$110,000 | Experienced professionals median salary about $90,000. |
+| Senior (8+ years) | $110,000~$150,000 | Management or specialists can earn over AUD 120,000. |
+| average salary | $114,610 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 可晋升为IT项目经理、架构师或首席信息官，也可转向网络安全或数据科学方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
+
+Can advance to IT project manager, architect, or CIO, or transition to cybersecurity or data science.
+
+**Tasks most exposed to AI:**
+
+- Data cleaning and preprocessing (e.g., missing value imputation, format conversion)
+- Standard reports and dashboard generation (e.g., automatic updates for weekly and monthly reports)
+- Simple statistical analysis and hypothesis testing (e.g., t-test, correlation analysis)
+- SQL queries and repetitive data extraction
+- Create basic visualization charts (e.g., bar charts, line charts)
+
+**Where AI augments the role:**
+
+- Using AI to automatically explore data features, accelerating discovery of hidden patterns and anomalies
+- Query databases through natural language to lower technical barriers
+- AI assists in drafting analysis reports, analysts focus on insight extraction
+- Automated feature engineering improves efficiency in building machine learning models
+- Real-time data monitoring and alerts to support immediate decisions
+
+**Human moat:**
+
+- Business problem definition and hypothesis construction
+- Data storytelling and strategic recommendation communication
+- Cross-departmental collaboration and change advocacy
+- Ethical judgment and data bias identification
+- Logical reasoning and causal analysis
+
+**Skills to build:**
+
+- Advanced statistics and causal inference methods (e.g., A/B test design)
+- Data engineering and big data technologies (e.g. Spark, Airflow)
+- Machine learning model deployment and MLOps
+- AI tool application (such as AutoML, Copilot)
+- Business Strategy and Domain Knowledge Deepening
+- Advanced Data Visualization Design and Interactive Dashboard Techniques
+
+**Key growth areas:**
 
 - Cloud Computing
 - Cybersecurity
@@ -64,69 +100,68 @@ Analyze business and technical problems to design and implement computer system 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation Visa） | 最常见工作签证，需学士以上学历，每年配额有限，抽签制 |
-| Subclass EB-2（EB-2 Employment-Based Green Card） | 需硕士以上或学士加5年经验，通常需PERM劳工证 |
-| Subclass EB-3（EB-3 Employment-Based Green Card） | 针对学士学位或熟练工人，需PERM，排期较长 |
-| Subclass O-1（O-1 Extraordinary Ability Visa） | 适合杰出人才，需证明重大成就，无需抽签 |
+| Subclass H-1B (H-1B Specialty Occupation Visa) | Most common work visa, requires a bachelor's degree or higher, annual quota limited, lottery system. |
+| Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires master's or bachelor's plus 5 years experience, usually requires PERM labor certification |
+| Subclass EB-3 (EB-3 Employment-Based Green Card) | For bachelor's degree holders or skilled workers, requires PERM, with long wait times. |
+| Subclass O-1 (O-1 Extraordinary Ability Visa) | For outstanding talents, requires proof of significant achievements, no lottery |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Systems Analysts？**
-- 热爱技术且善于沟通的人
-- 逻辑思维强，喜欢解决问题的人
-- 适应快速技术变化的人
-
-**谁不适合学Computer Systems Analysts？**
-- 不喜欢与人打交道的人
-- 厌恶文字工作和文档编写的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love technology and are good at communication
+- People with strong logical thinking who enjoy solving problems
+- People who adapt quickly to technological changes
+
+**Who is not suited**
+- People who dislike interacting with others
+- People who dislike paperwork and documentation
+
+---
+
+## 8. FAQ
+
+**Q: How is the salary level of computer systems analysts?**
+A: Based on BLS, the median annual salary in the US was approximately $99,270 in May 2023, with entry-level around $55,000 and senior roles reaching over $150,000.
+
+**Q: What are common pathways for computer systems analysts to apply for a US green card?**
+A: Employers can apply for EB-2 or EB-3 green cards through PERM labor certification, requiring a bachelor's degree or higher and that the position is genuine with no qualified U.S. workers available.
+
+**Q: Does this occupation require continuing education?**
+A: Due to rapid technological updates, it is recommended to continuously learn through online courses and certifications (e.g., cloud, security) to stay competitive.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Systems Analysts的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for computer systems analysts?**
-答：According to BLS, the median annual wage in May 2023 was about $99,270, with entry-level around $55,000 and senior up to $150,000+.
-
-**问：What are common green card paths for computer systems analysts in the US?**
-答：Employers can sponsor EB-2 or EB-3 green cards through PERM, requiring a bachelor's degree or higher and demonstrating no qualified US workers.
-
-**问：Does this career require continuing education?**
-答：Due to rapid tech changes, ongoing learning via online courses and certifications (e.g., cloud, security) is recommended to stay competitive.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

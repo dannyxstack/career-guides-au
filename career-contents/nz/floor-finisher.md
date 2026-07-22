@@ -1,60 +1,92 @@
-# Floor Finisher（Floor Finisher）职业分析 · 新西兰
+# Floor Finisher — career analysis · New Zealand
 
-**职业代码：394111 – Floor Finisher。**
+**Occupation code: 394111 (ANZSCO)**
 
-Floor finishers in NZ lay and repair wood, carpet, and vinyl flooring. This trade skill is in shortage, offering Green List direct residence and strong migration prospects.
+Floor layers in New Zealand install and repair wooden floors, carpets, and vinyl flooring. This is a skilled trade in demand in the construction industry, eligible for direct residence via the Green List, offering good immigration prospects.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 预学徒培训 | 6个月 | $3,000~$5,000（新西兰本地短期课程或在线基础培训） |
-| 学徒制 | 3-4年 | $5,000~$10,000（在职培训加少量课程费，部分由雇主资助） |
-| 证书课程 | 1-2年 | $8,000~$15,000（国立理工学院(如Unitec)全日制的Flooring L3/L4证书） |
+| Pre-apprenticeship training | 6 months. | $3,000~$5,000 (New Zealand local short-term course or online basic training) |
+| Apprenticeship | 3-4 years | $5,000~$10,000 (On-the-job training plus small course fees, partly funded by employer) |
+| Certificate course | 1-2 years | $8,000~$15,000 (Full-time Flooring L3/L4 certificate at a national polytechnic (e.g., Unitec)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家木地板安装证书(NZ Certificate in Flooring, Level 3) | 新西兰技能组织(Competenz) | 可选 | 行业推荐，非强制但提升竞争力 |
-| 安全操作用卡(Site Safe Card) | Site Safe | 必备 | 工地必备 |
-| 驾照(Car License) | NZTA | 可选 | 部分项目需要驾车运输材料 |
+| Site Safe Card | Site Safe | Required | Essential on construction site |
+| National Certificate in Flooring (Level 3) | Competenz (New Zealand skills organisation) | Optional | Industry recommended, not mandatory but enhances competitiveness |
+| Car License | NZTA | Optional | Some projects require driving to transport materials |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 5,000。新西兰建筑行业持续增长，住宅和商业翻新需求旺盛，地板工岗位常年短缺，就业前景稳定，时薪可达35新西兰元以上。
+**Job demand: high (★★★★☆).** National workforce approx. 5,000. New Zealand's construction industry continues to grow, with strong demand for residential and commercial renovations; floor finisher positions are in chronic shortage, offering stable employment prospects and hourly wages above NZ$35.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 时薪约23-28新西兰元 |
-| 中级（4-7年） | $55,000~$70,000 | 时薪约28-35新西兰元 |
-| 高级（8年以上） | $70,000~$85,000 | 时薪可达35-42新西兰元，主管或自雇更高 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Hourly wage approximately NZD 23-28 |
+| Mid-level (4-7 years) | $55,000~$70,000 | Hourly rate approx. NZD 28-35 |
+| Senior (8+ years) | $70,000~$85,000 | Hourly rate can reach NZD 35-42; supervisors or self-employed may earn more. |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 从助手做起，积累经验后可晋升为高级技师或工地主管，也可自主创业接单，收入随经验显著增长。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
+
+Start as an assistant, gain experience, then advance to senior technician or site supervisor, or start your own business; income increases significantly with experience.
+
+**Tasks most exposed to AI:**
+
+- Manual room measurement and material calculation (AI vision + software assistance)
+- Conventional grinding and cutting path planning (automated equipment)
+- Inventory management, order processing (replaced by ERP systems)
+
+**Where AI augments the role:**
+
+- Use AI to scan rooms to generate 3D models, optimising material cutting and layout
+- Real-time display of laying alignment and level calibration via AR glasses
+- AI predicts material waste and procurement needs to reduce waste
+- Smart tools automatically record construction data and generate quality inspection reports
+
+**Human moat:**
+
+- Manual custom installation on complex uneven floors
+- On-site flexible handling of uneven substrates and irregular corners
+- Client communication, aesthetic advice, and personalized design
+- Multi-material seam treatment and fine finishing techniques
+
+**Skills to build:**
+
+- Digital measurement and modeling software (e.g., Span, FARO)
+- AR/VR-assisted construction tool operation
+- Installation techniques for eco-friendly/new materials (LVT, cork)
+- Project management and client quotation software (e.g., Buildertrend).
+- Basic data analysis (material optimization, cost accounting)
+- Sustainable Construction Certification (e.g., Green Star)
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -63,69 +95,68 @@ Floor finishers in NZ lay and repair wood, carpet, and vinyl flooring. This trad
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 职业在绿色清单T1，可直接申请居留，无过渡期 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，有ANZSCO Level 3-4且符合短缺清单可获加分 |
-| Subclass AEWV（Accredited Employer Work Visa） | 若未达居留要求，可由认证雇主担保工签，最多3年，可续签 |
-| Subclass Green List T2（Work to Residence Visa） | 工作2年后可转居留，通常与T1重叠，但覆盖率更广 |
+| Subclass Green List T1 (Straight to Residence Visa) | Occupation on Green List T1, can directly apply for residence without transitional period |
+| Subclass SMC (Skilled Migrant Category) | Under 6-point system, ANZSCO Level 3-4 on shortage list can earn extra points |
+| Subclass AEWV (Accredited Employer Work Visa) | If residency requirements are not met, a work visa sponsored by an accredited employer is available for up to 3 years, renewable. |
+| Subclass Green List T2 (Work to Residence Visa) | Can transition to residence after 2 years of work, often overlapping with T1 but with broader coverage |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Floor Finisher？**
-- 喜欢动手、注重细节，对木工和地面材料有兴趣的人
-- 愿意在建筑工地工作，能适应体力劳动和多次弯腰
-- 有良好商业头脑，未来想独立承包业务的人
-
-**谁不适合学Floor Finisher？**
-- 不喜欢灰尘和噪音，或对木屑过敏的人
-- 无法长时间站立、下蹲或搬运重物的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Someone who enjoys hands-on work, pays attention to detail, and is interested in woodworking and flooring materials
+- Willing to work on construction sites, able to handle physical labor and frequent bending
+- People with good business acumen who want to independently contract work in the future
+
+**Who is not suited**
+- People who dislike dust and noise, or are allergic to wood dust
+- People unable to stand for long periods, squat, or lift heavy objects
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary for a floor finisher in New Zealand?**
+A: According to Stats NZ data, the median annual salary for floor finishers is about NZD 55,000-65,000, entry-level around 45,000, and senior up to 85,000.
+
+**Q: Can floor installers immigrate to New Zealand?**
+A: Yes. Floor finisher is on the Green List Tier 1, can directly apply for Straight to Residence Visa, or use the SMC or AEWV pathway.
+
+**Q: Do floor tilers in New Zealand need a license to work?**
+A: Not mandatory, but holding NZ Certificate in Flooring Level 3 and Site Safe card can significantly boost job opportunities and salary.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 良好（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Floor Finisher的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for floor finishers in NZ?**
-答：Median annual salary is NZD 55,000–65,000, with entry-level around NZD 45,000 and experienced up to NZD 85,000.
-
-**问：Can floor finishers immigrate to NZ?**
-答：Yes. The occupation is on Green List Tier 1, eligible for Straight to Residence Visa, or SMC and AEWV pathways.
-
-**问：Do floor finishers in NZ need a license?**
-答：Not mandatory, but having NZ Certificate in Flooring Level 3 and Site Safe card greatly improves job prospects and pay.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

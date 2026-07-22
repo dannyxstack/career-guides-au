@@ -1,60 +1,93 @@
-# Product Grader and Tester (excluding Foods and Beverages)（Product Grader and Tester (excluding Foods and Beverages)）职业分析 · IE
+# Product Grader and Tester (excluding Foods and Beverages) — career analysis · Ireland
 
-**职业代码：7543 – Product Grader and Tester (excluding Foods and Beverages)。**
+**Occupation code: 7543 (ISCO08)**
 
-Inspects, tests, and grades non-food products like textiles, metal goods, and electronics to ensure quality standards and specifications are met.
+This occupation involves inspecting, testing, and grading non-food products such as textiles, metal products, electronics, etc., ensuring compliance with quality standards and specifications.
 
-> 注：本职业为**受限技术移民职业**，不在IE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或同等学历 | 完成高中教育 | —（免费公立教育） |
-| 职业培训证书 | 6个月至1年 | $500~$2,000（如FETAC Level 5证书） |
+| High school diploma or equivalent | Completed high school education | $0~$0 (Free public education) |
+| Vocational training certificate | 6 months to 1 year | $500~$2,000 (Such as FETAC Level 5 certificate) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| FETAC Level 5质量保证证书 | QQI (Quality and Qualifications Ireland) | 可选 | 可选但有利于就业 |
-| ISO 9001内审员证书 | 认证培训机构 | 可选 | 提升竞争力 |
+| FETAC Level 5 Quality Assurance certificate | QQI (Quality and Qualifications Ireland) | Optional | Optional but beneficial for employment |
+| ISO 9001 internal auditor certificate | Accredited training organization | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 2,500。爱尔兰制造业持续发展，质量控制和检测岗位需求稳定。自动化和数字化虽影响部分环节，但人工检测仍不可或缺，未来五年就业前景平稳。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. Ireland's manufacturing sector continues to develop, with stable demand for quality control and inspection positions. Although automation and digitalization affect some processes, manual inspection remains indispensable, with stable employment prospects over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 税前年薪 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪，主管级别 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$32,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual salary before tax, supervisor level |
+| average salary | $36,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级检验员晋升为高级检验师、质量主管或质量保证经理。积累经验后可转向质量控制或供应链管理岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Product grading and testing work (non-food) is facing dual impacts from automated testing (computer vision) and intelligent analysis, but tasks involving complex physical attributes and responsibility decisions still rely on humans; overall, it's a mixed bag.
+
+Can advance from junior inspector to senior inspector, quality supervisor, or quality assurance manager. With experience, can transition to quality control or supply chain management roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically identify product appearance defects (scratches, color differences, etc.) through computer vision
+- Use automated measurement equipment to detect product dimensions, weight, and other physical parameters
+- Automatically generate quality statistical reports based on historical data
+- Robot replacement for repetitive functional testing (e.g., button pressure, switch lifespan)
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of product defect patterns to identify root causes in production
+- Augmented reality overlays quality standards, improving inspection efficiency and accuracy
+- AI predicts equipment maintenance cycles, reducing misjudgment caused by test instrument failures.
+- automatically handle customer quality complaints via natural language processing, extract improvement directions
+
+**Human moat:**
+
+- Subjective assessment of unstructured, rare defects (e.g., textile hand feel, metallic luster)
+- Bears legal responsibility and ethical decision-making for quality release.
+- Cross-departmental coordination (with production, engineering, clients) to resolve complex quality disputes
+- Develop and update testing standards and processes, requiring deep industry experience
+
+**Skills to build:**
+
+- Learn the fundamentals and applications of machine vision, able to calibrate and verify automated inspection systems.
+- Proficiency in data analysis tools (Python/R) for quality trend mining
+- Obtain industry-specific certification (e.g., IPC-A-610 acceptance of electronic assemblies)
+- Develop cross-departmental collaboration and project management skills.
+- Learn augmented reality (AR) operation and maintenance skills.
+- Understanding AI ethics and algorithmic fairness in quality control
+
+**Key growth areas:**
 
 - Quality Control
 - Manufacturing
@@ -63,65 +96,64 @@ Inspects, tests, and grades non-food products like textiles, metal goods, and el
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass General Employment P（General Employment Permit） | 适用于年薪门槛以上（一般不低于30,000欧元），需劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪超33,000欧元且职业为高技能岗位，但该职业通常不满足蓝卡要求。 |
+| Subclass General Employment P (General Employment Permit) | Applicable for positions above the salary threshold (generally not less than 30,000 euros), requiring labor market testing. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for annual salaries over €33,000 and for high-skilled positions, but this occupation usually does not meet Blue Card requirements. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Product Grader and Tester (excluding Foods and Beverages)？**
-- 注重细节、有耐心的人
-- 适应重复性工作的人
-- 对质量管理和检测感兴趣的人
-
-**谁不适合学Product Grader and Tester (excluding Foods and Beverages)？**
-- 不喜欢重复性劳动的人
-- 希望高薪或快速晋升的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient people
+- People who adapt to repetitive work
+- People interested in quality management and inspection
+
+**Who is not suited**
+- People who dislike repetitive labor
+- Those aiming for high salary or fast promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation?**
+A: Entry-level around 25,000-32,000 euros, mid-level 32,000-40,000 euros, senior up to 50,000 euros.
+
+**Q: Is it easy to immigrate to Ireland for this occupation?**
+A: This occupation is usually not on the shortage list, requires employer sponsorship, and immigration difficulty is relatively high.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 低（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Product Grader and Tester (excluding Foods and Beverages)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation?**
-答：Entry-level salary is around €25,000-€32,000, mid-level €32,000-€40,000, and senior up to €50,000 per year.
-
-**问：Is it easy to immigrate to Ireland for this occupation?**
-答：This occupation is typically not on the shortage list, requires employer sponsorship, and immigration is difficult.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

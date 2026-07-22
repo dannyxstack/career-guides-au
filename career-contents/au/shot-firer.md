@@ -1,133 +1,162 @@
-# Shot Firer（Shot Firer）职业分析 · 澳大利亚
+# Shot Firer — career analysis · Australia
 
-**职业代码：712213 – Shot Firer。**
+**Occupation code: 712611 (ANZSCO)**
 
-Shot firers carry out blasting operations in mining, quarrying and construction sites, including loading explosives, setting detonators, safe detonation and post-blast inspection. Work is often in remote mine sites with strict safety protocols.
+Shot firers/blasters hold a blasting licence and carry out drilling and blasting operations in mines, quarries, and tunnelling projects. The Australian blasting licence is a strictly regulated professional credential, licensed shot firers are extremely scarce, and FIFO salaries rank among the highest in the trades.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 职前培训与学徒制 | 2年 | $5,000~$15,000（Certificate II/III in Surface Extraction or Drilling and Blasting; 学徒制期间带薪） |
-| 短期爆破操作课程 | 2周 | $2,000~$5,000（针对已有矿业经验者，培训后考取爆破执照） |
+| Certificate III in Extractive Technologies (Blasting) | 12–18 months | $3,000~$8,000 (Includes blasting licence examination fees) |
+| State-based blasting licence (Shotfirer Licence) | Included in training | $500~$2,000 (Issued by the state mining/safety regulator) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 爆破执照（Authorised Explosive User Permit） | 州/领地资源安全部门（如Resources Safety WA） | 必备 | 必须持有；需完成安全培训和实操评估 |
-| 证书III 表面开采操作（Certificate III in Surface Extraction Operations） | TAFE或注册培训机构 | 可选 | 非强制但行业高度重视 |
-| 白卡（White Card） | 各州建筑行业培训机构 | 必备 | 建筑工地作业必需 |
-| 重型车辆执照（HR/HA Licence） | 各州交通局 | 可选 | 非强制，但驾驶爆破车辆常见要求 |
+| State Shotfirer/Blaster Licence | State mining and explosives regulatory authorities | Required | Legally mandated — operation without a licence is prohibited |
+| Certificate III in Extractive Technologies | RTO | Required | Core qualifications |
+| EBS Electronic Blasting Certification | Orica/Dyno Nobel recognised institutions | Optional | Essential for modern mining |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,400。澳洲矿业和基础设施建设持续推动爆破工需求。西澳、昆士兰和南澳资源项目活跃，未来五年就业前景稳定，但受大宗商品价格周期影响。新南威尔士州和维多利亚州的基础设施项目也提供机会。
+**Job demand: very high (★★★★★).** National workforce approx. 5,000. Demand for blasting workers is growing on two fronts: new mine development (critical minerals) and infrastructure tunnelling (urban rail/roads). Existing licence holders skew older, and the retirement gap is widening.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（1-3年） | $70,000~$90,000 | 固定工资，含偏远地区津贴 |
-| 中级（3-5年） | $90,000~$120,000 | 含加班和绩效奖金 |
-| 高级（5年以上） | $120,000~$160,000 | 含现场主管津贴 |
+| Median salary | $155,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Junior blaster (0–2 years) | $100,000~$130,000 | A licence means high pay from the outset — there is no junior tier |
+| Mid-level (2–6 years) FIFO | $130,000~$180,000 | Mining FIFO average |
+| Senior / Lead Shotfirer (6+ years) | $170,000~$250,000 | Large mine sites or contractors |
+| average salary | $88,192 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 新手爆破工通常从矿业或建筑行业助手做起，获发执照后独立作业。可晋升为高级爆破工、爆破主管，或转向爆破设计、安全顾问等岗位，也有机会进入矿业管理层。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★★).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Blasters in Australia are high-paid skilled trades; AI automation poses substitution risks for some planning and record-keeping tasks, but on-site supervision and safety responsibilities are hard to replace. Overall risk is moderate, with both opportunities and challenges.
 
-- Mining
-- Infrastructure
-- Blasting
-- Remote Work
+Electronic blasting systems (EBS) are gradually replacing traditional detonating cord, requiring blasters to continuously update their skills. Blasters are among the highest-paid tradespeople in Australia, with severe shortages due to high licensing barriers.
+
+**Tasks most exposed to AI:**
+
+- Parameter calculation and simulation in blasting design (AI-optimized blasting plans)
+- Job logs and report generation (auto-record and generate compliance documents)
+- Inventory management and consumables tracking (AI prediction and auto-ordering)
+- Environmental monitoring data processing (AI handling vibration, dust, etc.)
+- Training materials and exam preparation (AI-generated standardized content)
+
+**Where AI augments the role:**
+
+- AI-assisted blasting design to quickly generate multiple plans and assess risks
+- Real-time monitoring and early warning systems, AI analyzes geological data to predict hazards
+- Drone/robot inspections, AI identification of hazards such as unexploded ordnance
+- AI optimised drilling layout and blasting sequence to improve efficiency and precision
+- Intelligent compliance checks: AI compares regulations with work records
+
+**Human moat:**
+
+- Human judgment in blasting site safety command and emergency response
+- Practical experience in flexibly adjusting plans under complex geological conditions
+- Legal and regulatory compliance responsibility and holding blasting permits
+- High-risk communication and coordination with mining companies, regulators, and teams
+
+**Skills to build:**
+
+- AI-assisted blasting design software (e.g., BlastLogic, O-Pitblast)
+- Data analysis and visualization (Python/R, sensor data processing)
+- Drone/robot operation and data interpretation
+- Digital twin and simulation tools (e.g., SIMULIA)
+- Cybersecurity basics (preventing intrusion of blasting systems)
+- Continuously updating blasting regulations and AI ethics knowledge
+
+**Key growth areas:**
+
+- Mining Blast Operations
+- Quarrying & Civil Blasting
+- Tunnel Blasting (Infrastructure)
+- Critical Minerals New Mines
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保临时签证，适合在指定偏远地区（如西澳矿山）工作，可转191永居 |
-| Subclass DAMA（Designated Area Migration Agreement） | 特定地区（如北领地、南澳）的DAMA项目可能涵盖爆破工，门槛较低 |
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主证明无法招到本地人，爆破工不在CSOL上，适用性有限 |
+| Subclass 482 (Skills in Demand) | Mining employer sponsorship |
+| Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
+| Subclass 186 (ENS) | Permanent Residency |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: very high (★★★★★).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Shot Firer？**
-- 能适应偏远矿山倒班和恶劣环境的人
-- 动手能力强、注重安全细节的人
-- 希望快速获得高收入且不介意体力劳动的人
-
-**谁不适合学Shot Firer？**
-- 无法接受野外及地下作业环境的人
-- 对爆炸物安全有心理障碍或不习惯严格安全纪律的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has a mining background and is keen to advance into high-paying specialist blasting qualifications
+- Willing to accept FIFO high-risk work environments in pursuit of top mining-sector salaries
+
+**Who is not suited**
+- Not willing to work in high-risk environments or handle explosives
+- Unwilling to take on the responsibilities that come with strict safety regulations
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for blasting workers in Australia?**
+A: High earnings begin immediately upon licensing — intermediate FIFO blasters earn around $130,000–$180,000 per year. Senior / principal shot firers can reach $250,000+, making this one of the highest-paid trade occupations in Australia.
+
+**Q: Is it easy to find work as a shot firer in Australia?**
+A: Very easy. Licensed shot firers are among the most scarce trades in Australia, with companies such as Orica/Dyno Nobel recruiting heavily year-round.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | very high (★★★★★) |
+| Competition | low (★☆☆☆☆) |
+| Income level | very high (★★★★★) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | very high (★★★★★) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★★) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shot Firer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for shot firers?**
-答：Entry-level salary is about AUD 70,000-90,000, mid-level AUD 90,000-120,000, and senior AUD 120,000-160,000. Remote mine sites often offer additional allowances and free accommodation.
-
-**问：Are there skilled migration opportunities for shot firers?**
-答：Limited. The occupation is not on CSOL/MLTSSL, so direct 189/190/186 visas are not available. However, regional employer-sponsored 494 visa or specific DAMA programs may lead to permanent residency.
-
-**问：What training is required to become a shot firer?**
-答：Typically a Certificate III in Surface Extraction Operations (2 years) and a blasting permit. Those with mining experience can take a short blasting course (2 weeks) before obtaining a license. A White Card is also mandatory.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,90 @@
-# Lift Mechanic（Lift Mechanic）职业分析 · 澳大利亚
+# Lift Mechanic — career analysis · Australia
 
-**职业代码：341113 – Lift Mechanic。**
+**Occupation code: 341113 (ANZSCO)**
 
-Lift mechanics install, maintain, and repair elevators, escalators, and lifting platforms, ensuring safe operation. The role requires electrical and mechanical skills, typically gained through apprenticeship training.
+Elevator mechanics install, maintain, and repair elevators, escalators, and lift platforms to ensure safe operation. This occupation requires electrical and mechanical skills, typically acquired through apprenticeship training.
 
-> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制（Certificate III） | 4年 | $5,000~$15,000（学徒期间有薪资，学费由政府补贴） |
-| 高级文凭（Diploma） | 1-2年 | $10,000~$20,000（可选，提升管理能力） |
+| Apprenticeship (Certificate III) | 4 years | $5,000~$15,000 (Apprentices receive wages and government subsidies for tuition fees) |
+| Advanced Diploma | 1-2 years | $10,000~$20,000 (Optional, to enhance management skills) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 三级证书（升降设备） | TAFE或注册培训机构 | 必备 | 完成学徒制后获得，必备 |
-| 电梯技师注册 | 各州安全监管机构 | 必备 | 部分州要求注册，例如新南威尔士州 |
-| 高等电气资质 | TAFE | 可选 | 部分岗位可能需要电工证 |
+| Certificate III (Lifting Equipment) | TAFE or registered training organizations | Required | Obtained after completing an apprenticeship, essential |
+| Elevator Mechanic Registration | State safety regulators | Required | Registration is required in some states, e.g., New South Wales |
+| Advanced electrical qualifications | TAFE | Optional | Some positions may require an electrician's license |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。澳洲城市化进程持续，高层建筑增多，电梯安装与维护需求稳定增长。技能短缺区域广泛，尤其在偏远地区，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Australia's urbanization continues, with increasing high-rise buildings driving steady demand for elevator installation and maintenance. Skill shortages are widespread, especially in remote areas, offering good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 学徒毕业后通常起薪 |
-| 中级（3-7年） | $80,000~$110,000 | 独立工作后薪资提升 |
-| 高级（7年以上） | $110,000~$150,000 | 含主管或特殊技能补贴 |
+| Median salary | $113,932 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $60,000~$80,000 | Apprentices typically start at a base salary after graduation. |
+| Mid-level (3–7 years) | $80,000~$110,000 | Salary increase after working independently |
+| Senior (7+ years) | $110,000~$150,000 | Including supervisor or specialist skill allowances |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级电梯机械师可通过积累经验晋升为高级技师或主管，也可转向电梯系统设计、项目管理或自主创业。持续学习新技术（如智能电梯）是晋升关键。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
+
+Junior elevator mechanics can advance to senior technician or supervisor through experience, or move into elevator system design, project management, or entrepreneurship. Continuous learning of new technologies (e.g., smart elevators) is key to advancement.
+
+**Tasks most exposed to AI:**
+
+- Routine monitoring and recording of elevator operation data, which can be automatically collected and analyzed by AI systems
+- AI can autonomously generate maintenance suggestions based on historical data for fault pattern recognition
+- Some preventive maintenance tasks like cleaning and lubrication can be performed by robots or automated equipment
+
+**Where AI augments the role:**
+
+- AI provides real-time elevator fault diagnosis suggestions, assisting repair technicians in quickly locating issues
+- Use computer vision to inspect elevator components for surface wear or cracks, improving detection accuracy.
+- Simulate elevator installation process through digital twins, optimizing installation plans and reducing rework
+
+**Human moat:**
+
+- On-site safety assessment and emergency response (e.g., rescuing trapped persons) requires human judgment
+- Retrofit of non-standard electromechanical systems in old elevators relies on experience
+- Communication and compliance coordination with owners and inspectors cannot be automated
+
+**Skills to build:**
+
+- Learning to operate AI fault diagnosis software (e.g., predictive maintenance platforms)
+- Proficiency in configuring and analyzing elevator IoT sensor data
+- Enhance skills in electrical control system debugging and PLC programming
+- Learn to use augmented reality (AR) assisted repair tools
+- Familiar with elevator-related regulations and safety standards (e.g., ASME A17.1)
+
+**Key growth areas:**
 
 - Elevator Installation
 - Maintenance Services
@@ -64,66 +93,68 @@ Lift mechanics install, maintain, and repair elevators, escalators, and lifting 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage） | 雇主担保临时签证，适用于有经验的电梯机械师 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，需满足年龄和语言要求 |
-| Subclass 494（Skilled Employer Sponsored Regional） | 偏远地区雇主担保，可转永居 |
+| Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, applicable for experienced lift mechanics |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, subject to age and language requirements |
+| Subclass 494 (Skilled Employer Sponsored Regional) | Regional employer sponsorship, can lead to permanent residence |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Lift Mechanic？**
-- 喜欢动手操作、解决机械问题的人
-- 不介意高空和密闭空间作业的人
-- 寻求稳定就业和较高收入的人
+**Who is suited**
+- Enjoys hands-on work and solving mechanical problems.
+- People who are comfortable with working at heights and in confined spaces.
+- People seeking stable employment and relatively high income.
 
-**谁不适合学Lift Mechanic？**
-- 对高度或狭窄空间有恐惧感的人
-- 不偏好体力劳动和户外工作的人
+**Who is not suited**
+- People who are afraid of heights or confined spaces
+- Individuals who do not prefer physical labor and outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for an elevator mechanic in Australia?**
+A: Above average. Entry-level annual salary around A$60,000-80,000, senior technician up to A$110,000-150,000, overtime and allowances can be higher.
+
+**Q: Can an elevator mechanic obtain Australian permanent residency through skilled migration?**
+A: Usually requires employer sponsorship. This occupation is not on the skilled occupation list (MLTSSL), but can transition to 186 permanent residence via 482 or 494 temporary visas.
+
+**Q: How long does it take to become an elevator mechanic?**
+A: Through an apprenticeship, it usually takes 4 years to complete a Certificate III, after which you can work independently. You can further study for an Advanced Diploma to move into management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Lift Mechanic属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of lift mechanics in Australia?**
-答：Above average. Entry-level salary around AUD 60,000-80,000, senior mechanics can earn AUD 110,000-150,000, plus overtime and allowances.
-
-**问：Can lift mechanics obtain Australian permanent residency via skilled migration?**
-答：Usually requires employer sponsorship. The occupation is not on MLTSSL, but can transition to PR via 482 or 494 visa to 186.
-
-**问：How long does it take to become a lift mechanic?**
-答：Through apprenticeship, typically 4 years to obtain Certificate III. Subsequent advanced diploma for management roles.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

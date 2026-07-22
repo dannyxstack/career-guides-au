@@ -1,63 +1,99 @@
-# Animal Health Worker（Animal Health Worker）职业分析 · FR
+# Animal Health Worker — career analysis · France
 
-**职业代码：A1504 – Animal Health Worker。**
+**Occupation code: A1504 (ROME)**
 
-Animal health workers prevent, diagnose, and treat animal diseases, including veterinary assistants and animal health inspectors, working on farms, in clinics, and laboratories.
+Animal health workers are responsible for preventing, diagnosing, and treating animal diseases, including veterinary assistants, animal health inspectors, and working on farms, pet hospitals, and laboratories.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 动物护理 | 2年（CAP） | —（公立学校低费用，学徒制免学费） |
-| BTS 动物健康技术员 | 2年（BTS） | —（通常为学徒制，有工资） |
-| 兽医博士 | 6-7年（Doctorat vétérinaire） | $10,000~$20,000（公立大学低学费，但竞争激烈） |
+| CAP Animal Care | 2 years (CAP) | $0~$3,000 (Public schools have low fees, and apprenticeships are free of charge) |
+| BTS Animal Health Technician | 2 Years (BTS) | $0~$5,000 (It is usually an apprenticeship with a salary) |
+| Doctor of Veterinary Medicine | 6-7 years (Doctorat vétérinaire) | $10,000~$20,000 (Public universities offer low tuition but are highly competitive) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 兽医博士文凭（Doctorat vétérinaire） | 法国兽医大学 | 必备 | 兽医必需，需通过国家考试 |
-| BTS 动物健康技术员 | 法国教育部 | 可选 | 技术员岗位门槛 |
-| CAP 动物护理 | 法国教育部 | 可选 | 助理岗位基础资格 |
-| 资质认证（Reconnaissance） | 法国兽医协会（Ordre des vétérinaires） | 必备 | 第三国兽医需认证方可执业 |
+| Doctorate in Veterinary Medicine (Doctorat vétérinaire) | French Veterinary University | Required | Veterinarians are required and must pass a national exam |
+| Certification (Reconnaissance) | French Veterinary Association (Ordre des vétérinaires) | Required | Veterinarians in third countries must be certified to practice |
+| BTS Animal Health Technician | French Ministry of Education | Optional | Technician position threshold |
+| CAP Animal Care | French Ministry of Education | Optional | Basic qualifications for assistant positions |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 45,000。法国动物健康领域需求稳定，宠物数量增长和食品安全标准提高推动就业。兽医助理和卫生检查员岗位持续招聘，但薪资水平中等。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 45,000. Stable demand in France's animal health sector, growth in pet numbers, and rising food safety standards are driving employment. Veterinary assistants and health inspectors continue to recruit, but pay levels are moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 兽医助理或动物卫生技术员 |
-| 中级（3-7年） | $32,000~$40,000 | 动物健康专家或兽医 |
-| 高级（7年以上） | $45,000~$60,000 | 兽医院主管或动物卫生经理 |
+| Median salary | $36,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Veterinary assistants or animal health technicians |
+| Mid-level (3–7 years) | $32,000~$40,000 | Animal health specialists or veterinarians |
+| Senior (7+ years) | $45,000~$60,000 | Veterinary hospital supervisors or animal health managers |
+| average salary | $44,652 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 职业发展路径：从兽医助理或动物卫生技术员起步，可通过继续教育晋升为兽医或动物卫生经理，也可转向动物营养或制药领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Animal health workers will experience mixed effects from AI: routine diagnostics, data recording, and monitoring tasks are facing automation, but clinical skills, client communication, and emergency response still depend on humans; AI can enhance remote monitoring, knowledge retrieval, and preventive medicine, but it will not fully replace veterinary judgment and emotional interaction.
+
+Career development paths: Start as a veterinary assistant or animal health technician, and through continuing education can be promoted to veterinarian or animal health manager, or move into animal nutrition or pharmaceuticals.
+
+**Tasks most exposed to AI:**
+
+- Automatically identify lesions or abnormalities in images through computer vision
+- Automatically generates preliminary diagnostic recommendations based on symptom descriptions
+- Automatically organize and update electronic medical records and animal health records
+- Using AI systems for remote health monitoring and sending routine alerts
+- Automated laboratory sample analysis (such as blood and stool routines)
+
+**Where AI augments the role:**
+
+- AI-assisted rapid retrieval of the latest drug dosages, contraindications, and epidemiological data
+- Predictive health management: Analyze wearable device data to detect health risks in advance
+- Automate and optimize the scheduling and reminders for vaccine and deworming programs
+- AI-powered customer communication: multilingual translation, intelligent Q&A bots
+- Surgical navigation and imaging processing enhance precision medical operations
+
+**Human moat:**
+
+- Clinical diagnosis and treatment decisions for complex cases
+- Communicate empathetic and build trust with animal owners
+- Quick judgment and hands-on operations in emergencies
+- Non-standardized, multispecies anatomical and pathological experience
+- Regulatory compliance, ethical responsibility, and humanitarian care
+
+**Skills to build:**
+
+- Operation and result interpretation of AI-assisted diagnostic tools
+- Telemedicine platforms and wearable device data analysis
+- Use of digital medical records and information management systems
+- Veterinary Public Health and Infectious Disease Modeling Foundation
+- Soft skills: customer psychology, crisis communication
+- Cross-species database search and evidence integration capabilities
+
+**Key growth areas:**
 
 - Animal health
 - Veterinary care
@@ -66,70 +102,69 @@ Animal health workers prevent, diagnose, and treat animal diseases, including ve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 针对高技能人才，如兽医，需符合薪资和学历要求 |
-| Subclass Salarié（Salaried Worker） | 受雇于法国雇主，需工作许可，适合技术员岗位 |
-| Subclass Carte bleue UE（EU Blue Card） | 面向高学历高薪职位，兽医适用，需年薪达约 53,000 欧元 |
-| Subclass Recherche emploi（Job Search Visa） | 毕业后可申请 12 个月找工作 |
+| Subclass Passeport Talent (Talent Passport) | For highly skilled professionals, such as veterinarians, salary and education requirements must be met |
+| Subclass Salarié (Salaried Worker) | Employed by a French employer, work permit required, suitable for technician positions |
+| Subclass Carte bleue UE (EU Blue Card) | For highly educated, high-paying positions, suitable for veterinarians, with an annual salary of about 53,000 euros |
+| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply for a 12-month job search |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Animal Health Worker？**
-- 热爱动物、有耐心和责任感的人
-- 愿意学习生物和医学知识的人
-- 能适应农场或实验室环境的人
-
-**谁不适合学Animal Health Worker？**
-- 对动物过敏或恐惧的人
-- 无法接受动物死亡或实施安乐死的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love animals, are patient, and responsible
+- People willing to learn about biology and medicine
+- People who can adapt to farm or laboratory environments
+
+**Who is not suited**
+- People allergic or afraid of animals
+- People who cannot accept animal death or performing euthanasia
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of animal health workers in France?**
+A: Entry-level annual salary is approximately EUR 25,000-30,000, with senior veterinarians reaching EUR 45,000-60,000.
+
+**Q: How do third-country veterinarians immigrate to France?**
+A: You need to obtain a veterinary diploma accredited by France or pass the Reconnaissance des qualifications, then apply for a talent passport or EU Blue Card.
+
+**Q: What are the promotion paths for animal health professions?**
+A: Starting as a technician or assistant, you can be promoted to veterinarian, veterinary hospital manager, or animal health regulatory officer.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Animal Health Worker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for animal health workers in France?**
-答：Entry-level positions earn €25,000-30,000/year, while experienced veterinarians can reach €45,000-60,000.
-
-**问：How can a third-country veterinarian immigrate to France?**
-答：Obtain a recognized veterinary diploma or pass qualification recognition, then apply for a Talent Passport or EU Blue Card.
-
-**问：What are the career progression paths in animal health?**
-答：Start as a technician or assistant, then advance to veterinarian, clinic manager, or animal health inspector.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

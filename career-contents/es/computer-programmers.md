@@ -1,58 +1,94 @@
-# Computer Programmers（Computer Programmers）职业分析 · ES
+# Computer Programmers — career analysis · Spain
 
-**职业代码：3820 – Computer Programmers。**
+**Occupation code: 3820 (CNO)**
 
-Computer programmers write, test, and maintain software code, translating design specifications into executable programs. They are key drivers of Spain's digital transformation.
+Computer programmers are responsible for writing, testing, and maintaining software code, transforming design specifications into executable programs, and are one of the core roles in Spain's digital transformation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学学费约1000-2000欧元/年，私立大学约6000-12000欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立FP中心学费约500-1000欧元/年，私立约2000-4000欧元/年） |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public university tuition approx EUR 1,000-2,000/year; private university approx EUR 6,000-12,000/year.) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Public FP centre tuition around €500-1,000/year, private around €2,000-4,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关领域学位 | 大学 | 可选 | 非强制但普遍要求 |
-| 编程语言认证（如Oracle Java、Python Institute） | Oracle、Python Institute等 | 可选 | 提升竞争力 |
+| Degree in computer science or related field | University | Optional | Not mandatory but commonly required |
+| Programming language certifications (such as Oracle Java, Python Institute) | Oracle, Python Institute, etc | Optional | Boosting competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 180,000。西班牙数字化转型加速，企业对程序员需求持续增长。预计2025年前软件开发者岗位将增长12%，马德里、巴塞罗那等科技枢纽机会集中。
+**Job demand: very high (★★★★½).** National workforce approx. 180,000. Spain's digital transformation is accelerating, and the demand for programmers among businesses continues to grow. It is expected that by 2025, software developer positions will grow by 12%, with opportunities concentrated in technology hubs such as Madrid and Barcelona.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，马德里/巴塞罗那偏高 |
-| 中级（3-7年） | $35,000~$50,000 | 含全栈、后端或前端专注 |
-| 高级（7年以上） | $55,000~$75,000 | 架构师或技术主管级别 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary: Madrid/Barcelona are relatively high |
+| Mid-level (3–7 years) | $35,000~$50,000 | Includes full-stack, backend, or front-end focus |
+| Senior (7+ years) | $55,000~$75,000 | Architect or technical executive level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：很好（★★★★☆）。** 初级程序员可晋升为高级程序员、技术主管或架构师；积累经验后可转向项目管理或创业。持续学习新语言和框架（如Python、React）是职业发展的关键。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★★☆☆).**
 
-主要增长方向：
+AI greatly improves programming efficiency, but low-level coding tasks are acceleratedly replaced; programmers need to shift to architecture design, complex system maintenance, and AI tool development, otherwise face compression risk.
+
+Junior programmers can be promoted to senior programmers, technical supervisors, or architects; After gaining experience, you can move on to project management or entrepreneurship. Continuous learning of new languages and frameworks (such as Python, React) is key to career development.
+
+**Tasks most exposed to AI:**
+
+- Write standard algorithms and business logic code
+- Fix common grammar errors and simple bugs.
+- Generate unit tests and basic documentation
+- Maintain boilerplate code in legacy codebases
+- Perform code formatting and static analysis
+
+**Where AI augments the role:**
+
+- Use AI code hints to accelerate complex module development
+- Use AI-assisted debugging tools to quickly locate deep-seated bugs
+- Generating initial architecture from natural language description of requirements
+- Automated code review and performance optimization suggestions
+- Build and fine-tune AI models to solve domain-specific problems
+
+**Human moat:**
+
+- System design and architecture decision-making ability
+- Cross-team collaboration and requirement communication skills
+- Creativity to handle unstructured, ambiguous problems
+- Review and security hardening of AI-generated code
+- Domain knowledge and algorithm innovation (e.g., invention of new algorithms)
+
+**Skills to build:**
+
+- Use of AI/ML frameworks (e.g., LangChain, TensorFlow)
+- Prompt engineering and AI toolchain construction
+- Large-scale codebase refactoring and system integration
+- Cloud-native development (Kubernetes, Serverless)
+- Secure coding and AI governance
+- Technical documentation and knowledge management
+
+**Key growth areas:**
 
 - digital transformation
 - software development
@@ -61,65 +97,64 @@ Computer programmers write, test, and maintain software code, translating design
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历或5年经验，年薪门槛约33,908欧元（2024年） |
-| Subclass Altamente cualificad（Highly Qualified Professional） | 根据Ley 14/2013，针对高级技术人员，需年薪40,000欧元以上，审批较快 |
-| Subclass Cuenta ajena（Employed Work Permit） | 由雇主担保，需证明岗位无法由本地人填补，适用于普通程序员 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 33,908 euros (2024). |
+| Subclass Altamente cualificad (Highly Qualified Professional) | According to Ley 14/2013, for senior technicians, an annual salary of over 40,000 euros is required, with faster approvals |
+| Subclass Cuenta ajena (Employed Work Permit) | Employer-sponsored, requiring proof that the position cannot be filled by a local resident, applicable to ordinary programmers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Computer Programmers？**
-- 热爱编程和逻辑思考
-- 有持续学习新技术意愿
-- 适应团队协作和敏捷开发
-
-**谁不适合学Computer Programmers？**
-- 不喜欢长时间面对屏幕
-- 不愿不断更新知识
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about programming and logical thinking
+- There is a willingness to continuously learn new technologies
+- Adapt to team collaboration and agile development
+
+**Who is not suited**
+- Dislikes facing screens for long periods
+- Unwilling to constantly update knowledge
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for programmers in Spain?**
+A: Junior programmers earn about 24,000-32,000 euros annually, intermediate programmers 35,000-50,000 euros, and senior programmers up to 55,000-75,000 euros. Salaries vary by region, company size, and skill level.
+
+**Q: How can non-EU programmers immigrate to Spain?**
+A: Can immigrate via EU Blue Card (requires annual salary ≥ EUR 33,908), Highly Skilled Professional visa (Ley 14/2013, annual salary ≥ EUR 40,000), or regular work residence (employer sponsorship).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 很好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Computer Programmers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for programmers in Spain?**
-答：Junior programmers earn around €24,000-32,000, mid-level €35,000-50,000, and senior up to €55,000-75,000 annually. Salaries vary by location, company size, and skills.
-
-**问：How can non-EU programmers immigrate to Spain?**
-答：Options include the EU Blue Card (salary ≥€33,908), Highly Qualified Professional visa (Ley 14/2013, salary ≥€40,000), or standard work permit (employer sponsorship).
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

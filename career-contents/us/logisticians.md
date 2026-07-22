@@ -1,58 +1,93 @@
-# Logisticians（Logisticians）职业分析 · 美国
+# Logisticians — career analysis · United States
 
-**职业代码：13-1081 – Logisticians。**
+**Occupation code: 13-1081 (SOC)**
 
-Analyze and coordinate the logistical functions of an organization, managing the entire life cycle of products from acquisition to disposal.
+Analyze and coordinate an enterprise's or organization's logistics functions, managing the entire lifecycle of products from procurement, distribution, to final disposal.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $20,000~$50,000（公立大学学费年均1-2.5万美元） |
-| 硕士学位 | 2年 | $30,000~$80,000（MBA或供应链硕士） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Public university tuition: average USD 10,000–25,000 per year.) |
+| Master's degree | 2 years | $30,000~$80,000 (MBA or Master's in Supply Chain) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认证大学 | 必备 | 物流、供应链、商业管理等相关专业 |
-| CSCP认证 | APICS | 可选 | 供应链专业人士认证，非必需但受青睐 |
+| Bachelor's degree | Accredited university | Required | Logistics, supply chain, business management, etc. |
+| CSCP certification | APICS | Optional | Supply chain professional certification, not required but preferred |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 194,800。预计2029年前就业增长约4%，与平均水平持平。电商和全球供应链的复杂性推动需求，但自动化可能影响部分岗位。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 194,800. Employment projected to grow about 4% through 2029, about as fast as average. E-commerce and global supply chain complexity drive demand, but automation may affect some roles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 入门级薪资 |
-| 中级（4-7年） | $70,000~$95,000 | 经验丰富者 |
-| 高级（8年以上） | $95,000~$130,000 | 高级物流师或经理 |
+| Median salary | $82,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $50,000~$70,000 | Entry-level salary |
+| Mid-level (4-7 years) | $70,000~$95,000 | Experienced individuals |
+| Senior (8+ years) | $95,000~$130,000 | Senior logistics specialist or manager |
+| average salary | $89,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从物流协调员晋升为物流经理、供应链总监，或转向采购、运营管理。获得APICS认证（如CSCP）有助于职业发展。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will profoundly change the work of logisticians: routine planning and scheduling tasks are automated, but strategic supply chain optimization and anomaly handling abilities are amplified by AI, upgrading rather than eliminating the role.
+
+Can advance from Logistics Coordinator to Logistics Manager, Supply Chain Director, or move into procurement and operations management. Obtaining APICS certification (e.g., CSCP) helps career development.
+
+**Tasks most exposed to AI:**
+
+- Inventory forecasting and replenishment suggestion generation
+- Standard transport route planning and optimization.
+- Order processing and status automation tracking
+- Daily report generation and basic data analysis
+
+**Where AI augments the role:**
+
+- Use AI to simulate complex supply chain network structures and design resilient logistics networks
+- Quickly identify risks like delays and damage through anomaly detection AI and proactively intervene
+- Uses AI-driven smart warehousing systems to optimize inventory layout and picking strategies
+- Real-time dynamic pricing and logistics cost optimization based on machine learning models
+- Use natural language processing to automatically interpret contract terms and compliance requirements.
+
+**Human moat:**
+
+- Cross-departmental interest coordination and supplier negotiation
+- Rapid decision-making and execution for sudden disruptions (disasters, strikes)
+- Global logistics strategic planning and innovative model design
+- Customer relationship management and personalized service customization
+- Judgment and decision-making on non-quantifiable factors (policy, culture)
+
+**Skills to build:**
+
+- Supply chain data analysis and visualization (Python, SQL, Tableau)
+- AI tool application: machine learning basics, predictive model use
+- Supply chain simulation and optimization (AnyLogic, Simio)
+- Digital twin and IoT data integration
+- Project management and Lean Six Sigma methodologies
+- Cross-cultural communication and crisis leadership
+
+**Key growth areas:**
 
 - Supply Chain Optimization
 - E-commerce Logistics
@@ -61,69 +96,68 @@ Analyze and coordinate the logistical functions of an organization, managing the
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需学士学位，雇主赞助，抽签制 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士或本科+5年经验，PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference） | 需学士学位，PERM劳工认证 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主证明无法招到美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree, employer sponsorship, lottery system |
+| Subclass EB-2 (Employment-Based Second Preference) | Requires master's or bachelor's +5 years experience, PERM labor certification |
+| Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree, PERM labor certification |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to hire US workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Logisticians？**
-- 擅长分析和解决问题的人
-- 对供应链和物流有热情的人
-- 注重细节和效率的人
-
-**谁不适合学Logisticians？**
-- 不喜欢处理复杂数据的人
-- 不适应快节奏和压力环境的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are good at analyzing and solving problems
+- Those passionate about supply chain and logistics
+- Detail-oriented and efficient person
+
+**Who is not suited**
+- People who dislike dealing with complex data
+- People who cannot adapt to fast-paced and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for logisticians?**
+A: According to BLS data, the 2022 median annual salary was about $77,000, with entry-level around $50,000–$70,000 and senior positions reaching over $130,000.
+
+**Q: Is it easy for a logistics professional to apply for a US green card?**
+A: Relatively feasible, usually through EB-2 or EB-3, requiring employer sponsorship and PERM. This occupation is not STEM but has stable demand.
+
+**Q: What skills does a logistics professional need?**
+A: Requires data analysis, supply chain management software (e.g., SAP), communication, and problem-solving skills; CSCP certification is helpful.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Logisticians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for logisticians?**
-答：According to BLS, median annual wage in 2022 was about $77,000, entry-level $50,000-$70,000, senior up to $130,000+.
-
-**问：Is it easy for logisticians to get a US green card?**
-答：Relatively feasible, typically via EB-2 or EB-3, requiring employer sponsorship and PERM. Not STEM but stable demand.
-
-**问：What skills do logisticians need?**
-答：Data analysis, supply chain software (e.g., SAP), communication, problem-solving; CSCP certification helps.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

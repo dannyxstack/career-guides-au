@@ -1,58 +1,90 @@
-# Coding, Proofreading and Related Clerks（Coding, Proofreading and Related Clerks）职业分析 · NL
+# Coding, Proofreading and Related Clerks — career analysis · Netherlands
 
-**职业代码：4413 – Coding, Proofreading and Related Clerks。**
+**Occupation code: 4413 (ISCO08)**
 
-Clerks responsible for data coding, text proofreading, and document formatting, typically working in office environments.
+Clerical staff responsible for data coding, text proofreading, and document formatting, typically working in an office environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 (MBO) | 2-4年 | —（荷兰公民及欧盟学生学费较低，非欧盟学生可能较高） |
-| 高等职业教育 (HBO) 或大学本科 | 4年（本科） | $2,000~$15,000（非欧盟学生学费更高） |
+| Secondary vocational education (MBO) | 2-4 years | $0~$2,000 (Tuition fees are lower for Dutch citizens and EU students, and may be higher for non-EU students) |
+| Higher Professional Education (HBO) or university bachelor's degree | 4 years (bachelor's degree) | $2,000~$15,000 (Non-EU students face higher tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关MBO文凭 | 荷兰教育机构 | 可选 | 通常要求办公室管理或相关领域文凭 |
-| 语言能力证明 | 认证机构 | 可选 | 荷兰语或英语能力证书可能有助于求职 |
+| Relevant MBO diploma | Dutch educational institution | Optional | Usually requires a diploma in office management or a related field |
+| Language proficiency proof | Certification bodies | Optional | A Dutch or English language proficiency certificate may aid in job seeking |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。荷兰该职业就业需求稳定，受数字化影响，部分岗位可能减少，但高质量校对仍有市场。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Job demand in the Netherlands is stable for this occupation; due to digitalization, some positions may decrease, but high-quality proofreading still has a market.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$32,000 | 税前年薪，基于全职工时 |
-| 中级（3-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（7年以上） | $40,000~$50,000 | 税前年薪 |
+| Median salary | $43,472 | Median salary (official: CBS median hourly wage €22.0/hour × 1,976 hours annualized, BRC group 0431 Administratief medewerkers; P25–P75 €34,975–€52,166, CBS 2024) |
+| Entry level (0–3 years) | $26,000~$32,000 | pre-tax annual salary, based on full-time hours |
+| Mid-level (3–7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (7+ years) | $40,000~$50,000 | Annual pre-tax salary |
+| average salary | $36,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可通过积累经验晋升为高级文员或团队主管，也可转向编辑、内容管理等相关领域。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Coding and proofreading work is highly structured; AI and automation tools already efficiently handle data coding, basic proofreading, and formatting. Job demand is shrinking, entry-level opportunities are significantly narrowing, and workers need to shift to higher-value skills.
+
+Can advance to senior clerk or team supervisor through experience, or transition to related fields such as editing and content management.
+
+**Tasks most exposed to AI:**
+
+- Data entry and coding: AI automatically extracts and codes structured data from documents and forms
+- Basic proofreading: spell check and grammar correction are done in real-time by AI, no need for manual word-by-word review
+- Document formatting: layout and styling handled by templates and automation tools
+- Simple fact-checking: AI can quickly compare databases or trusted sources to verify basic information
+
+**Where AI augments the role:**
+
+- Semantic proofreading of complex texts: AI offers suggestions, humans adjudicate logical consistency, tone, and style
+- Multilingual Proofreading: AI translation drafts, human refinement for cultural fit and specialized terminology
+- Data quality review: AI flags abnormal patterns, humans analyze root causes and set rules
+- Document migration and standardization: AI-assisted format conversion, manually designed mapping rules
+
+**Human moat:**
+
+- Understanding of deep context in industry or professional fields (e.g., legal, medical terminology)
+- Ability to handle ambiguous, vague, or creative texts (e.g., advertising copy, literary proofreading)
+- Attribution of responsibility and ethical judgment for AI output (e.g., compliance of data coding)
+- Cross-departmental communication and requirements analysis (translating unstructured requirements into executable tasks)
+
+**Skills to build:**
+
+- Advanced configuration and debugging of AI proofreading tools (e.g., custom rule sets)
+- Data quality management and anomaly analysis (using SQL or Python)
+- Specialized domain knowledge (e.g., law, medicine, technical documentation)
+- Project management and workflow automation using low-code platforms
+- Human-machine collaborative interaction design (how to effectively use AI suggestions)
+
+**Key growth areas:**
 
 - Data accuracy
 - Digitalization
@@ -61,68 +93,67 @@ Clerks responsible for data coding, text proofreading, and document formatting, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，需工资达到门槛（2024年约€5,331/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历专业人士，工资门槛约€5,331/月 |
-| Subclass Orientation Year (Zo（Orientation Year） | 针对荷兰毕业或全球前200大学毕业的求职者，有效期一年 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migrants, must meet salary threshold (approx. €5,331/month in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, salary threshold approximately €5,331/month |
+| Subclass Orientation Year (Zo (Orientation Year) | For job seekers who graduated from Dutch or global top 200 universities, valid for one year |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Coding, Proofreading and Related Clerks？**
-- 注重细节、耐心细致的人
-- 具备良好语言和文字处理能力的人
-- 适应重复性办公室工作的人
-
-**谁不适合学Coding, Proofreading and Related Clerks？**
-- 追求高薪和高挑战的人
-- 希望快速晋升或从事创意工作的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and careful people
+- People with good language and word processing skills
+- People who can adapt to repetitive office work
+
+**Who is not suited**
+- For those who pursue high salary and high challenges
+- Those seeking rapid promotion or creative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a coding proofreader in the Netherlands?**
+A: Entry-level positions annual salary about €26,000–€32,000, mid-level about €32,000–€40,000, senior up to €50,000.
+
+**Q: As a non-EU citizen, which visas can I use to work in this occupation?**
+A: Eligible via highly skilled migrant (kennismigrant), EU Blue Card, or Orientation Year visa. Note that salary thresholds must be met.
+
+**Q: What are the career prospects for this occupation?**
+A: Can advance to senior clerk, team supervisor, or move into roles like editor, content manager, administrative assistant
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Coding, Proofreading and Related Clerks的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for coding and proofreading clerks in the Netherlands?**
-答：Entry-level positions earn around €26,000-€32,000 per year, mid-level €32,000-€40,000, and senior up to €50,000.
-
-**问：As a non-EU citizen, which visas can I use for this occupation?**
-答：You can use the Highly Skilled Migrant (kennismigrant), EU Blue Card, or Orientation Year visa. Note salary thresholds apply.
-
-**问：What are the career prospects for this occupation?**
-答：You can advance to senior clerk, team supervisor, or transition into editing, content management, or administrative assistant roles.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

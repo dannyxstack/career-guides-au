@@ -1,59 +1,95 @@
-# Software and Applications Developers and Analysts Not Elsewhere Classified（Software and Applications Developers and Analysts Not Elsewhere Classified）职业分析 · IE
+# Software and Applications Developers and Analysts Not Elsewhere Classified — career analysis · Ireland
 
-**职业代码：2519 – Software and Applications Developers and Analysts Not Elsewhere Classified。**
+**Occupation code: 2519 (ISCO08)**
 
-Professionals who design, develop, test, and maintain software, and conduct system analysis, requirements gathering, and technical solution formulation.
+Professionals engaged in software design, development, testing, and maintenance, as well as system analysis, requirements gathering, and technical solution formulation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $10,000~$25,000（爱尔兰公立大学非欧盟学生学费） |
-| 硕士 | 1-2年 | $15,000~$30,000（硕士学费，部分专业更高） |
+| Bachelor's degree | 4 years | $10,000~$25,000 (Tuition fees for non-EU students at Irish public universities) |
+| Master's degree | 1-2 years | $15,000~$30,000 (Master's tuition fees, higher for some majors.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学位 | 大学 | 可选 | 通常要求相关学士学位 |
-| 专业认证 | AWS, Microsoft, Oracle等 | 可选 | 云平台或语言认证可增强竞争力 |
-| 软技能 | 无 | 可选 | 沟通、团队合作和解决问题能力重要 |
+| Computer science degree | University | Optional | A relevant bachelor's degree is typically required |
+| Professional certification | AWS, Microsoft, Oracle, etc. | Optional | Cloud platform or language certifications can enhance competitiveness |
+| Soft Skills | None | Optional | Communication, teamwork, and problem-solving skills are important |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。爱尔兰作为欧洲科技中心，IT行业持续增长。软件开发者需求强劲，尤其在金融科技、云计算和网络安全领域。预计未来十年就业增长超15%。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. As a European tech hub, Ireland's IT sector continues to grow. Software developer demand is strong, especially in fintech, cloud computing, and cybersecurity. Employment is projected to grow over 15% in the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 毕业生起薪约3.5万，有经验后提升 |
-| 中级（3-7年） | $50,000~$80,000 | 3-7年经验者常见薪资 |
-| 高级（7年以上） | $80,000~$120,000 | 高级/领导角色年薪可超12万 |
+| Median salary | $65,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Graduate starting salary approx. AUD 35,000, increases with experience |
+| Mid-level (3–7 years) | $50,000~$80,000 | Common salaries for 3-7 years experience |
+| Senior (7+ years) | $80,000~$120,000 | Senior/lead roles can earn over 120,000 AUD annually |
+| average salary | $69,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 职业路径清晰：初级开发者→高级开发者→技术主管/架构师→工程经理/CTO。也可转向项目管理、产品管理或咨询。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The role of software and applications programmer is being profoundly reshaped by AI: low-level coding and testing tasks are rapidly being replaced, but core work such as requirements analysis and system design is becoming more valuable with AI assistance. Entry barriers have risen, and senior roles are more empowered by AI.
+
+Clear career path: Junior Developer → Senior Developer → Tech Lead/Architect → Engineering Manager/CTO. Also can move into project management, product management, or consulting.
+
+**Tasks most exposed to AI:**
+
+- Writing basic CRUD code and repetitive business logic
+- Perform manual unit testing and regression testing
+- Writing standard SQL queries and data reports
+- Generate code comments and basic technical documentation
+- Fix known pattern bugs (e.g., null pointer, boundary value errors)
+
+**Where AI augments the role:**
+
+- Using AI code assistants (e.g., Copilot) to accelerate prototype development and code writing
+- Using AI testing tools to automatically generate test cases and coverage analysis
+- Use natural language interfaces to quickly query databases and generate analysis reports
+- Requirement clarification and initial solution design via AI assistant
+- Automated code review and security vulnerability scanning
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Communicate deeply with business stakeholders and refine ambiguous requirements
+- Innovative solution design and technical debt management
+- Cross-team collaboration and project decision-making skills
+- Handling Legacy Systems and Unstructured Problems
+
+**Skills to build:**
+
+- AI/ML fundamentals and Prompt Engineering
+- Low-code/no-code platform utilization
+- System design (distributed, microservices)
+- Data analysis and visualization
+- Basics of AI Safety and Ethics
+- Agile and DevOps practices
+
+**Key growth areas:**
 
 - Cloud Computing
 - FinTech
@@ -62,68 +98,67 @@ Professionals who design, develop, test, and maintain software, and conduct syst
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较好（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于短缺职业，年薪3.2万以上，2年后可申请Stamp 4居留。 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪3万以上职位，需劳动力市场测试。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，年薪需达一定门槛（约6.3万）。 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to shortage occupations with annual salary over €32,000; can apply for Stamp 4 residence after 2 years. |
+| Subclass General Employment P (General Employment Permit) | Applicable for positions with annual salary above $30,000, requiring labor market testing. |
+| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, annual salary must meet a certain threshold (approx. 63,000). |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 喜欢编程和解决复杂问题的人
-- 有技术热情和持续学习能力的人
-- 愿意在敏捷团队中协作的人
-
-**谁不适合学Software and Applications Developers and Analysts Not Elsewhere Classified？**
-- 不喜欢快速技术更新和持续学习的人
-- 不适应高强度工作和项目期限的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy programming and solving complex problems
+- People with technical passion and continuous learning ability
+- Individuals willing to collaborate in agile teams
+
+**Who is not suited**
+- People who dislike rapid technological updates and continuous learning
+- Those who are not suited to high-intensity work and project deadlines
+
+---
+
+## 8. FAQ
+
+**Q: How does the salary level for software developers in Ireland compare?**
+A: Junior approx. 35,000-50,000 euros, mid-level 50,000-80,000 euros, senior 80,000-120,000 euros; experienced architects or managers can exceed 150,000 euros.
+
+**Q: How can non-EU citizens obtain an Irish work visa?**
+A: Common pathways: Critical Skills Employment Permit (for in-demand occupations, can switch to permanent residence after 2 years), General Employment Permit (requires labor market test), or EU Blue Card.
+
+**Q: What is the demand for software talent in Ireland?**
+A: High demand, especially in tech hubs like Dublin and Cork. Opportunities abound in fintech, cloud computing, cybersecurity, and AI.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较好（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Software and Applications Developers and Analysts Not Elsewhere Classified的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for software developers in Ireland?**
-答：Entry-level around EUR 35,000-50,000, mid-level EUR 50,000-80,000, senior EUR 80,000-120,000, experienced architects or managers can exceed EUR 150,000.
-
-**问：How can non-EU citizens obtain a work visa in Ireland?**
-答：Common paths: Critical Skills Employment Permit (shortage occupation, can apply for Stamp 4 after 2 years), General Employment Permit (requires labor market test), or EU Blue Card.
-
-**问：What is the demand for software professionals in Ireland?**
-答：Strong demand, especially in Dublin, Cork and other tech hubs. Opportunities are abundant in FinTech, cloud computing, cybersecurity, and AI.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

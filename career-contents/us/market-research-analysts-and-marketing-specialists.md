@@ -1,59 +1,95 @@
-# Market Research Analysts and Marketing Specialists（Market Research Analysts and Marketing Specialists）职业分析 · 美国
+# Market Research Analysts and Marketing Specialists — career analysis · United States
 
-**职业代码：13-1161 – Market Research Analysts and Marketing Specialists。**
+**Occupation code: 13-1161 (SOC)**
 
-Research market conditions in local, regional, national, or online markets to determine potential sales of a product or service, or plan marketing campaigns.
+Research local, regional, national, or online market conditions to gather information on potential sales of products or services, or plan marketing/advertising campaigns.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$120,000（公立大学年均学费约1-3万美元，私立约4-6万美元） |
-| 硕士学位（MBA或市场营销硕士） | 1-2年 | $50,000~$150,000（顶尖商学院MBA学费可达8万美元/年） |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Annual tuition at public universities is about $10,000–30,000 USD; private: $40,000–60,000.) |
+| Master's degree (MBA or Master of Marketing) | 1-2 years | $50,000~$150,000 (MBA tuition at top business schools can reach $80,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 学士学位 | 认证大学 | 必备 | 市场营销、统计学、商业管理或相关领域 |
-| 专业市场认证（PCM） | 美国市场营销协会（AMA） | 可选 | 提升专业信誉 |
-| 数据分析认证 | Google Analytics等 | 可选 | 增强数字营销技能 |
+| Bachelor's degree | Accredited university | Required | Marketing, statistics, business management, or related field. |
+| Professional Certified Marketer (PCM) | American Marketing Association (AMA) | Optional | Enhance professional credibility |
+| Data analysis certification | Google Analytics, etc. | Optional | Enhance digital marketing skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 720,000。美国劳工统计局预测2023-2033年该职业就业增长约13%，远高于平均水平，主要由于企业依赖数据分析进行营销决策。
+**Job demand: high (★★★★☆).** National workforce approx. 720,000. The U.S. Bureau of Labor Statistics projects employment growth of about 13% from 2023-2033, much faster than average, mainly due to business reliance on data analysis for marketing decisions.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 入门级薪资，取决于地区和公司规模 |
-| 中级（3-8年） | $65,000~$95,000 | 需有独立项目管理经验 |
-| 高级（8年以上） | $95,000~$130,000 | 资深分析师或管理层薪资 |
+| Median salary | $78,760 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | Entry-level salary, depending on region and company size |
+| Mid-level (3–8 years) | $65,000~$95,000 | Must have independent project management experience |
+| Senior (8+ years) | $95,000~$130,000 | Salary for senior analysts or management |
+| average salary | $89,490 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级分析师可晋升为高级分析师、市场经理或总监，亦可转向数据科学或产品管理。积累经验后可获得专业认证（如PCM），提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
+
+Junior analysts can progress to Senior Analyst, Marketing Manager or Director, or transition to data science or product management. Experience can lead to professional certifications (e.g. PCM) to boost competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Daily bidding and budget adjustments for advertising placements
+- Basic social media content scheduling and posting
+- Standardized marketing report generation and data analysis
+- Initial client consultation and FAQ responses
+- Automated price comparison and ordering in media buying
+
+**Where AI augments the role:**
+
+- Consumer behavior prediction and precise segmentation targeting.
+- Personalized content generation and A/B testing optimization
+- Real-Time Monitoring and Dynamic Adjustment of Marketing Campaign Performance
+- Sentiment analysis and insights from large-scale customer feedback
+- Cross-channel marketing ROI attribution model
+
+**Human moat:**
+
+- Brand strategy direction and market positioning decisions
+- cross-team resource coordination and budget allocation
+- High-level client relationship management and crisis public relations
+- Creative concept generation and cultural sensitivity
+- Regulatory compliance judgment and ethical risk control
+
+**Skills to build:**
+
+- Proficiency in major marketing automation platforms (e.g., HubSpot, Marketo)
+- Learn data analysis and visualization tools (Python, SQL, Tableau)
+- improve prompt engineering and generative AI application skills
+- Mastering attribution modeling and marketing effectiveness quantification methods
+- Enhance cross-cultural communication and strategic narrative skills
+- Understand privacy regulations (e.g., GDPR, PIPEDA) impact on marketing
+
+**Key growth areas:**
 
 - data-driven marketing
 - digital analytics
@@ -62,69 +98,68 @@ Research market conditions in local, regional, national, or online markets to de
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需学士学位以上，每年配额抽签 |
-| Subclass EB-2（Employment-Based Second Preference） | 绿卡路径，需硕士学位或本科加5年经验 |
-| Subclass EB-3（Employment-Based Third Preference） | 绿卡路径，适用于学士学位或以下 |
-| Subclass TN（TN Status (USMCA)） | 适用于加拿大和墨西哥公民，需相关职业 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa, requires bachelor's degree or higher, annual quota lottery |
+| Subclass EB-2 (Employment-Based Second Preference) | Green card pathway requires a master's degree or bachelor's plus 5 years of experience. |
+| Subclass EB-3 (Employment-Based Third Preference) | Green card pathway, applicable for bachelor's degree or below |
+| Subclass TN (TN Status (USMCA)) | Applicable to Canadian and Mexican citizens, relevant occupation required |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Market Research Analysts and Marketing Specialists？**
-- 对数据分析感兴趣且善于沟通的人
-- 喜欢研究消费者行为与市场趋势的人
-- 有创意且能制定营销策略的人
-
-**谁不适合学Market Research Analysts and Marketing Specialists？**
-- 不喜欢数据或数字分析的人
-- 不善于团队协作或客户沟通的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People interested in data analysis and good at communication
+- People who enjoy studying consumer behavior and market trends
+- Creative and able to develop marketing strategies
+
+**Who is not suited**
+- People who dislike data or numerical analysis
+- People not good at teamwork or client communication
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a market research analyst in the US?**
+A: According to BLS data, median annual salary in 2023 was approx. USD 72,000, entry-level approx. USD 45,000-65,000, senior can exceed USD 130,000.
+
+**Q: Is it easy for market research analysts to apply for US green cards?**
+A: Relatively easy, typically through EB-2 or EB-3 employment-based immigration. Requires employer sponsorship via PERM labor certification, and the company must demonstrate inability to hire suitable US workers.
+
+**Q: What is the career progression path for this occupation?**
+A: From junior analyst to senior analyst, then market manager or director. Can also move into data science or product management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Market Research Analysts and Marketing Specialists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for market research analysts in the US?**
-答：According to BLS, the median annual wage in 2023 is about $72,000, with entry-level ranging from $45,000 to $65,000 and senior level up to $130,000.
-
-**问：Is it easy for market research analysts to get a US green card?**
-答：Relatively easy, typically via EB-2 or EB-3. Requires employer sponsorship and PERM labor certification showing no qualified US workers.
-
-**问：What is the career progression for this role?**
-答：From junior analyst to senior analyst, then to marketing manager or director. Can also pivot to data science or product management.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

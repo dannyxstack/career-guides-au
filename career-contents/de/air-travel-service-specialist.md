@@ -1,61 +1,94 @@
-# Air Travel Service Specialist（Air Travel Service Specialist）职业分析 · DE
+# Air Travel Service Specialist — career analysis · Germany
 
-**职业代码：5142 – Air Travel Service Specialist。**
+**Occupation code: 5142 (KldB)**
 
-Provide check-in, boarding, baggage services, and information assistance at airports and airlines to ensure smooth passenger travel.
+Provide check-in, boarding, baggage services, and information consultation for passengers at airports and airlines, ensuring smooth travel.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 2-3年 | —（双元制培训通常无学费，培训期间有津贴） |
-| 短期职业培训 | 6-12个月 | $3,000~$8,000（私立培训机构可能收费） |
+| Dual vocational training (Ausbildung) | 2-3 years | $0~$0 (Dual system training is usually tuition-free and includes a training allowance.) |
+| Short-term vocational training | 6–12 months | $3,000~$8,000 (Private training providers may charge fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 航空服务培训证书 | 德国联邦航空局（LBA）或认证培训机构 | 必备 | 需完成IATA或同等课程 |
-| 英语语言能力（B2） | 语言学校或考试中心 | 必备 | 工作中常用英语 |
-| 急救证书 | 如德国红十字会 | 可选 | 部分雇主要求 |
+| Aviation Service Training Certificate | German Federal Aviation Office (LBA) or accredited training institution | Required | Must complete IATA or equivalent course |
+| English language proficiency (B2) | Language school or exam center | Required | English commonly used at work |
+| First aid certificate | such as the German Red Cross | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 35,000。德国航空业稳步复苏，机场客流量持续增长，该职位需求稳定。数字化转型和自助服务设施普及可能影响部分岗位，但人际服务需求仍在。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Germany's aviation industry is steadily recovering, with continuous growth in airport passenger traffic, and stable demand for this position. The proliferation of digital transformation and self-service facilities may affect some positions, but demand for human services remains.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪，含津贴 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$42,000 | 含团队主管岗位 |
+| Median salary | $42,312 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary, including allowances |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$42,000 | Includes team leader positions |
+| average salary | $45,420 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从初级服务专员晋升为高级专员、团队组长或地面服务主管。也可转向航空公司管理岗位或机场运营部门。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Repetitive tasks of Aviation Passenger Service Agents (such as check-in, baggage inquiries) face high automation risk, but core tasks involving complex customer interaction, emergency handling, and emotional support still rely on humans; the role will transition to customer experience management.
+
+Can advance from Junior Service Agent to Senior Agent, Team Leader, or Ground Services Supervisor. May also move to airline management or airport operations.
+
+**Tasks most exposed to AI:**
+
+- Self-service check-in and boarding: passengers check in via mobile or self-service kiosks, reducing manual counters.
+- Standard baggage tracing and tracking: AI system automatically handles lost or delayed baggage via RFID and real-time data.
+- Routine flight information inquiries: chatbots answer common questions like flight times and gate changes.
+- Simple ticket changes: AI algorithm automatically handles changes and refunds based on rules, no manual intervention needed.
+
+**Where AI augments the role:**
+
+- Personalized customer service: AI analyzes passenger historical preferences to assist service staff in providing tailored recommendations (e.g., seating, meals).
+- Special needs handling: use translation and voice recognition tools to communicate more efficiently with passengers who have language barriers or hearing impairments.
+- Abnormal event management: AI analyzes delays, cancellations and other events in real time, assisting specialists in formulating response plans and calming passengers.
+- Multilingual real-time translation: enhanced tools help specialists instantly understand and respond to complex requests from travelers in different languages.
+
+**Human moat:**
+
+- Complex emotion management: dealing with negative emotions such as anger and anxiety requires empathy and high emotional intelligence.
+- Unpredictable crisis response: emergency medical, security threats, and other scenarios requiring human judgment and adaptability.
+- Special passenger care: unaccompanied minors and passengers with disabilities require personalized attention and trust-building.
+- Cross-cultural sensitivity: understand and respect different cultural customs to provide appropriate service.
+
+**Skills to build:**
+
+- Advanced communication and conflict resolution skills
+- Cross-cultural services and foreign language skills (e.g., English, Chinese)
+- AI-assisted tools (chatbot backend, customer relationship management systems)
+- Data insight capability: interpret customer feedback and operational data to optimize service processes
+- Basic programming or automation workflow design (e.g., Python scripts for repetitive tasks)
+- Fundamentals of mental health and crisis intervention
+
+**Key growth areas:**
 
 - stable demand
 - aviation recovery
@@ -64,62 +97,64 @@ Provide check-in, boarding, baggage services, and information assistance at airp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker Visa（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 需有认可的职业资格和雇主合同，通常要求德语B1 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 基于积分制，允许未找到工作前入境找工，需满足语言、年龄等条件 |
+| Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires recognized professional qualification and employer contract, usually German B1 language proficiency |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing entry for job seeking before finding employment, subject to language, age, and other conditions |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Air Travel Service Specialist？**
-- 喜欢与人沟通、服务意识强的人
-- 适应轮班制和快节奏工作环境的人
-- 对航空业有热情、注重细节的人
+**Who is suited**
+- People who enjoy communication and have a strong service orientation
+- Adaptable to shift work and fast-paced environments
+- Passionate about aviation, detail-oriented person
 
-**谁不适合学Air Travel Service Specialist？**
-- 不擅长团队合作或压力管理的人
-- 无法接受不规律作息的人
+**Who is not suited**
+- Those not skilled in teamwork or stress management
+- People who cannot tolerate irregular schedules
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of an aviation passenger service specialist?**
+A: Junior annual salary around €24,000-30,000, mid-level €30,000-36,000, senior €36,000-42,000 (before tax).
+
+**Q: How can foreigners immigrate to Germany to work in this occupation?**
+A: Entry possible via Skilled Worker Visa (requiring employer sponsorship and professional qualification recognition) or Opportunity Card (points-based system).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Air Travel Service Specialist属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for air travel service specialists?**
-答：Entry-level annual salary is about €24,000–30,000, mid-level €30,000–36,000, senior €36,000–42,000 (gross).
-
-**问：How can foreigners immigrate to Germany for this occupation?**
-答：Via Skilled Worker Visa (requires employer sponsorship and qualification recognition) or Opportunity Card (points-based) to seek employment.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

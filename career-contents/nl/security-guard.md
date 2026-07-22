@@ -1,58 +1,90 @@
-# Security Guard（Security Guard）职业分析 · NL
+# Security Guard — career analysis · Netherlands
 
-**职业代码：5414 – Security Guard。**
+**Occupation code: 5414 (ISCO08)**
 
-Protect property and people, monitor alarm systems, patrol premises, and report suspicious activities. In the Netherlands, security guards are typically employed by private security firms or in-house security departments.
+Responsible for protecting property and personnel safety, monitoring alarm systems, patrolling, and reporting suspicious activities. In the Netherlands, security guards are typically employed by security companies or corporate security departments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 无 | —（基本要求为高中毕业或同等学历） |
-| 保安培训课程 | 3个月 | $500~$1,500（需完成荷兰安保行业认可的培训课程，如Beveiliging B） |
+| High school graduation | None | $0~$0 (Basic requirement: high school diploma or equivalent) |
+| Security guard training courses | 3 months | $500~$1,500 (Must complete training courses recognised by the Dutch security industry, e.g., Beveiliging B) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保安从业人员证书 (Beveiliging B) | 荷兰经济事务部 | 必备 | 法律强制要求，包含培训和考试，需定期续证 |
-| 急救证书 (BHV) | 荷兰红十字会或其他认可机构 | 可选 | 多数雇主要求持有BHV证书 |
+| Security practitioner certificate (Beveiliging B) | Ministry of Economic Affairs of the Netherlands | Required | Legally mandatory, includes training and exams, requires periodic renewal |
+| First aid certificate (BHV) | Netherlands Red Cross or other recognised organisations | Optional | Most employers require a BHV certificate. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。荷兰保安行业需求稳定，受商业安全、活动安保及公共场所安全需求推动。预计未来五年就业增长约5%，劳动力市场对持证保安保持一定需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for security guards in the Netherlands is stable, driven by commercial security, event security, and public safety needs. Employment is expected to grow by about 5% over the next five years, with steady demand for licensed security guards in the labour market.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$30,000 | 税前年薪，通常按集体劳动协议 (CAO) 支付 |
-| 中级（3-7年） | $30,000~$36,000 | 税前年薪，含轮班补贴 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，主管或专业岗位（如监控中心操作员） |
+| Median salary | $33,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$30,000 | Pre-tax annual salary, usually paid according to collective labor agreement (CAO) |
+| Mid-level (3–7 years) | $30,000~$36,000 | Annual pre-tax salary, including shift allowances |
+| Senior (7+ years) | $36,000~$45,000 | Annual pre-tax salary, supervisory or professional role (e.g., monitoring centre operator) |
+| average salary | $33,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级保安可通过经验积累晋升为监控中心操作员、主管或安全顾问。部分保安可进一步考取高级安保证书，进入风险管理或企业安全管理领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
+
+Junior security guards can advance through experience to roles such as monitoring center operator, supervisor, or security consultant. Some may further obtain advanced security certifications and enter risk management or corporate security fields.
+
+**Tasks most exposed to AI:**
+
+- AI video surveillance automatically detects abnormal events and alerts
+- Automated visitor registration and identity verification systems replace manual registration
+- AI-driven patrol robots replacing fixed-route patrols
+
+**Where AI augments the role:**
+
+- AI video analysis assisting real-time threat assessment and decision-making
+- AI report generation tools quickly summarize event logs
+- AI voice assistant supports emergency response communication and coordination
+- AI training simulators improve exercise effectiveness
+
+**Human moat:**
+
+- On-site emergency judgment and crisis intervention ability
+- Interpersonal communication and persuasion with clients, visitors, and law enforcement
+- Legal compliance and licensing liability (e.g., use-of-force boundaries)
+- Risk assessment intuition in complex physical environments
+
+**Skills to build:**
+
+- AI monitoring system operation and data analysis
+- Basic cybersecurity knowledge (integration of physical security and IT)
+- Emergency communication and coordination software (e.g., Duress system).
+- Advanced training in conflict resolution and counter-terrorism awareness.
+- Data privacy regulations and compliance (Australian Privacy Act)
+- Digital reporting and visualization tools (e.g., Tableau)
+
+**Key growth areas:**
 
 - Commercial Security
 - Event Security
@@ -61,65 +93,64 @@ Protect property and people, monitor alarm systems, patrol premises, and report 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需年薪达标（2025年约€5,331/月），保安通常不符合，除非管理岗位。 |
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于认可担保人的高技能员工，保安通常不满足收入门槛（2025年30岁以上需€5,690/月）。 |
-| Subclass Single Permit（Single Permit (GVVA)） | 适用于非欧盟低技能或中等技能工作者，需雇主赞助，保安可通过此路径申请，但需满足劳动力市场测试。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU highly skilled talents, requiring annual salary threshold (approx. €5,331/month in 2025); security guards usually do not qualify unless in management roles. |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled employees working for an approved sponsor; security guards usually do not meet the income threshold (for those aged 30+ in 2025, it is €5,690/month). |
+| Subclass Single Permit (Single Permit (GVVA)) | Applies to non-EU low- or medium-skilled workers requiring employer sponsorship; security guards can apply via this pathway but must meet labor market testing. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Security Guard？**
-- 注重安全、有责任心的人
-- 适应轮班工作，能在压力下保持冷静
-- 希望快速进入劳动力市场，获得稳定工作
-
-**谁不适合学Security Guard？**
-- 无法适应夜班或长时间站立工作
-- 不喜欢重复性巡逻或监控工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Safety-conscious and responsible people
+- Able to adapt to shift work and remain calm under pressure
+- Looking to quickly enter the labor market and secure stable employment
+
+**Who is not suited**
+- Unable to adapt to night shifts or prolonged standing work.
+- Dislikes repetitive patrol or monitoring work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a security guard in the Netherlands?**
+A: Entry-level security guards earn approximately €25,000-€30,000 annually, while experienced guards can earn €36,000-€45,000. Salaries are usually determined by collective labor agreements and include shift allowances.
+
+**Q: Can non-EU citizens work as security guards in the Netherlands?**
+A: Yes, but requires employer sponsorship. Usually applied through a single permit (GVVA) with labor market testing. Salary requirements for EU Blue Card or high-skilled migration paths are high; security positions typically do not qualify.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Security Guard的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for security guards in the Netherlands?**
-答：Entry-level security guards earn around €25,000-€30,000 annually, while experienced guards can earn €36,000-€45,000. Salaries are typically set by collective labor agreements and include shift allowances.
-
-**问：Can non-EU citizens work as security guards in the Netherlands?**
-答：Yes, with employer sponsorship via a Single Permit (GVVA), which requires a labor market test. EU Blue Card and Highly Skilled Migrant routes have higher salary thresholds, typically not met by security guard positions.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

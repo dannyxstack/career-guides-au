@@ -1,58 +1,94 @@
-# Pharmacist（Pharmacist）职业分析 · IT
+# Pharmacist — career analysis · Italy
 
-**职业代码：2262 – Pharmacist。**
+**Occupation code: 2262 (ISCO08)**
 
-Responsible for dispensing medications, reviewing prescriptions, providing drug consultation and health services, working in community pharmacies, hospitals or the pharmaceutical industry.
+Responsible for dispensing medications, reviewing prescriptions, providing medication advice and health services, working in community pharmacies, hospitals, or the pharmaceutical industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（药学） | 5年（本硕连读） | $5,000~$20,000（公立大学学费，视家庭收入而异） |
-| 博士（药学） | 3年（研究型） | $3,000~$15,000（可选，提升科研或临床方向竞争力） |
+| Bachelor (Pharmacy) | 5 years (integrated bachelor's and master's) | $5,000~$20,000 (Public university tuition varies depending on family income) |
+| Doctor of Pharmacy (Pharm.D.) | 3 years (research-based) | $3,000~$15,000 (Optional, to enhance competitiveness in research or clinical fields) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 药剂师职业资格 | 卫生部 | 必备 | 完成5年药学课程并通过国家考试 |
-| 药剂师注册 | 药剂师职业委员会 | 必备 | 在国家注册簿登记方可执业 |
+| Pharmacist professional qualification | Ministry of Health | Required | Complete a 5-year pharmacy programme and pass the national examination |
+| Pharmacist registration | Pharmacist professional board | Required | Must be registered on the national register to practice |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 75,000。随着人口老龄化和慢性病增加，意大利对药剂师的需求稳定。政府推动社区药房服务扩展，就业前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 75,000. With an aging population and increase in chronic diseases, demand for pharmacists in Italy is stable. Government promotion of community pharmacy services expansion leads to good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 社区药房或医院初级职位 |
-| 中级（4-10年） | $35,000~$45,000 | 经验丰富的药剂师或药房经理 |
-| 高级（10年以上） | $45,000~$60,000 | 医院主管、区域经理或行业专家 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Entry-level positions in community pharmacies or hospitals |
+| Mid-level (4-10 years). | $35,000~$45,000 | Experienced pharmacist or pharmacy manager |
+| Senior (10+ years) | $45,000~$60,000 | Hospital director, regional manager, or industry specialist |
+| average salary | $41,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★½☆）。** 可从社区药剂师晋升为药房经理或区域主管；也可转向医院临床药学、制药研发或监管事务。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
+
+Can progress from community pharmacist to pharmacy manager or regional director; or transition to hospital clinical pharmacy, pharmaceutical R&D, or regulatory affairs.
+
+**Tasks most exposed to AI:**
+
+- Routine prescription review and drug interaction checks
+- Standardized drug dispensing and dose calculation
+- Inventory management and automatic replenishment
+- Drug information retrieval and simple medication consultation
+- Automatic bill reconciliation with insurance systems
+
+**Where AI augments the role:**
+
+- Use AI to predict individual drug responses and adverse reaction risks
+- Personalized medication regimen optimization based on clinical data
+- Smart triage and remote patient medication follow-up
+- Improved Vaccine Management and Promotion Efficiency
+- Pharmacoeconomic analysis and real-world evidence generation
+
+**Human moat:**
+
+- Medication management and clinical decision-making for complex cases.
+- Face-to-face patient consultation and medication adherence intervention
+- Coordination and communication within multidisciplinary healthcare teams
+- Ethical decision-making and pharmaceutical legal compliance judgment
+- Patient education on emerging therapies (e.g., gene therapy)
+
+**Skills to build:**
+
+- AI-driven clinical decision support system operation
+- Pharmacogenomics and precision medication analysis
+- Telemedicine and digital health tool application
+- Statistical data analysis and real-world research skills
+- Medical ethics and privacy protection compliance knowledge
+- Vaccine management and public health skills
+
+**Key growth areas:**
 
 - Aging population
 - Chronic diseases
@@ -61,65 +97,64 @@ Responsible for dispensing medications, reviewing prescriptions, providing drug 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历及至少年薪约3.5万欧元的工作合同 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，雇主担保，适用于非欧盟公民 |
-| Subclass 自雇工作签证（Self-Employment Visa） | 开设独立药房需满足资金及资质要求 |
+| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and a work contract with an annual salary of at least approximately €35,000 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, employer-sponsored, applicable to non-EU citizens |
+| Subclass Self-employed Work Visa (Self-Employment Visa) | Opening an independent pharmacy requires meeting capital and qualification requirements |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Pharmacist？**
-- 对药物科学有浓厚兴趣的人
-- 细心且沟通能力强的人
-- 希望在医疗领域稳定就业的人
-
-**谁不适合学Pharmacist？**
-- 不喜欢与人打交道的人
-- 无法承受长时间站立工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in pharmaceutical sciences
+- Attentive individuals with strong communication skills
+- People seeking stable employment in the healthcare field
+
+**Who is not suited**
+- People who dislike interacting with others
+- People unable to tolerate long periods of standing work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for pharmacists?**
+A: The annual pre-tax salary for pharmacists in Italy is approximately €28,000 to €60,000, lower for entry-level and up to over €60,000 for senior positions.
+
+**Q: How can non-EU citizens become a pharmacist in Italy?**
+A: Must obtain an Italian-accredited pharmacy degree, pass national exams and register, then apply for a work visa such as the EU Blue Card or Decreto Flussi.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Pharmacist的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for pharmacists?**
-答：The gross annual salary for pharmacists in Italy ranges from €28,000 to €60,000, with entry-level lower and senior positions above €60,000.
-
-**问：How can non-EU citizens become pharmacists in Italy?**
-答：They need an Italian-recognized pharmacy degree, pass the national exam, register, and then apply for a work visa such as the EU Blue Card or Decreto Flussi.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

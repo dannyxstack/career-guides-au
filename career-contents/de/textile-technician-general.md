@@ -1,60 +1,95 @@
-# Textile Technician (General)（Textile Technician (General)）职业分析 · DE
+# Textile Technician (General) — career analysis · Germany
 
-**职业代码：2810 – Textile Technician (General)。**
+**Occupation code: 2810 (KldB)**
 
-Textile technicians operate and maintain textile machinery, monitor fabric production processes, and ensure product quality. The role involves yarn, fabric, and nonwoven production, including machine setup, troubleshooting, and quality control.
+Textile technicians operate and maintain textile machinery, monitor fabric production, and ensure product quality. The role involves producing yarn, fabric, and nonwoven materials, including machine setup, troubleshooting, and quality control.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年（双元制） | —（培训期间有津贴，通常无学费） |
-| 技术员进修 | 2年（全日制） | $3,000~$8,000（公立学校低学费，私校较高） |
+| Dual vocational training | 3 years (dual system) | $0~$0 (Stipend during training, usually no tuition fees) |
+| Technician further training | 2 years (full-time) | $3,000~$8,000 (Low tuition at public schools, higher at private schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织技术员职业培训证书 | 德国工商业行会 (IHK) | 必备 | 完成双元制培训并通过结业考试 |
-| 技术员学位（可选） | 德国州立技术学校 | 可选 | 通过进修可获国家认证技术员资格 |
+| Textile technician vocational training certificate | German Chamber of Commerce and Industry (IHK) | Required | Complete dual vocational training and pass the final exam. |
+| Technician degree (optional) | German state technical school | Optional | Can obtain nationally certified technician qualifications through further training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。德国纺织业规模稳定，但面临自动化转型和部分岗位减少。高技能技术员仍有需求，尤其在技术纺织品和工业织物领域，就业前景中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Germany's textile industry is stable in size but faces automation transition and some job reductions. High-skilled technicians are still in demand, especially in technical textiles and industrial fabrics. Employment outlook is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，依地区和公司而异 |
-| 中级（3-7年） | $35,000~$45,000 | 税前年薪，含绩效奖金 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪，含主管补贴 |
+| Median salary | $36,264 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, varies by region and company |
+| Mid-level (3–7 years) | $35,000~$45,000 | Annual pre-tax salary, including performance bonuses. |
+| Senior (7+ years) | $45,000~$55,000 | Pre-tax annual salary, including supervisor allowance |
+| average salary | $39,492 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展可从初级技术员晋升为高级技术员、班组长或生产主管。通过继续教育可成为纺织工程师或技术经理。部分人转向研发或质量控制岗位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Textile technicians face medium-high automation risk, especially in machine monitoring and basic quality control tasks, but equipment maintenance and complex troubleshooting still require human experience. AI will compress entry-level roles, but senior technicians still have opportunities.
+
+Career progression can go from junior technician to senior technician, team leader, or production supervisor. Further education can lead to roles such as textile engineer or technical manager. Some move into R&D or quality control positions.
+
+**Tasks most exposed to AI:**
+
+- Automatic visual detection and classification of fabric defects
+- Real-time adjustment of production parameters based on sensor data
+- Automatic adjustment of standard yarn tension and speed
+- Automatic generation of regular quality reports
+- AI-based diagnosis and repair recommendations for basic equipment faults
+
+**Where AI augments the role:**
+
+- Using AI predictive maintenance to reduce equipment downtime
+- Optimizing process parameters through machine learning to increase production capacity
+- AI-assisted analysis and root cause identification of complex defects
+- Digital twin simulates small-batch testing of new fabric formulas
+- Optimizing Production Scheduling with Intelligent Scheduling Systems and ERP Integration
+
+**Human moat:**
+
+- Trial spinning and process development of new fibers (e.g., conductive yarns, bio-based materials)
+- Creative diagnosis and repair of unconventional faults
+- Fast changeover and optimization for multi-variety small batch production.
+- Interdepartmental communication and interpretation of custom client requirements
+- Human judgment for safety regulations and environmental standards
+
+**Skills to build:**
+
+- Basic data analysis and visualization with Python/R
+- Sensor and IoT Fundamentals
+- Operation of Industrial AI tools (e.g., Siemens Industrial AI)
+- Lean production and Six Sigma methodology
+- Cross-cultural teamwork and problem-solving
+
+**Key growth areas:**
 
 - Automation
 - Technical Textiles
@@ -63,69 +98,68 @@ Textile technicians operate and maintain textile machinery, monitor fabric produ
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历且工资达门槛者，但纺织技术员通常需职业培训，不符合蓝卡条件。 |
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkraft)） | 适用于有德国认可的职业资格（双元制培训），需雇主担保。 |
-| Subclass Chancenkarte（Opportunity Card (Chancenkarte)） | 引入后可作为寻找工作的途径，但需满足积分条件。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to those with a university degree and meeting the salary threshold, but textile technicians usually require vocational training, so they do not qualify for the Blue Card. |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Applicable for those with German-recognized vocational qualifications (dual system training) requiring employer sponsorship. |
+| Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | can serve as a pathway to find a job after introduction, but must meet points requirements. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Textile Technician (General)？**
-- 对纺织工艺和机械操作有浓厚兴趣者
-- 喜欢动手实践、注重细节的人
-- 愿意接受双元制职业培训（理论结合实践）者
-
-**谁不适合学Textile Technician (General)？**
-- 对重复性体力工作不耐受者
-- 追求高薪或快速晋升者
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in textile technology and machine operation
+- People who enjoy hands-on work and attention to detail
+- Those willing to undergo dual-system vocational training (combining theory and practice).
+
+**Who is not suited**
+- For those intolerant to repetitive physical work
+- Those seeking high salaries or rapid career advancement
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for textile technicians in Germany?**
+A: Junior annual salary approximately EUR 28,000-35,000, mid-level EUR 35,000-45,000, senior EUR 45,000-55,000. Below German average, but technical textiles may pay more.
+
+**Q: How can non-EU citizens immigrate to Germany as textile technicians?**
+A: Requires completion of recognized vocational training in Germany (dual system), then apply for a skilled migration visa. Qualification recognition (Anerkennung) is a key step.
+
+**Q: Will textile technicians be replaced by automation?**
+A: Some repetitive tasks may be automated, but technicians are still needed to monitor and maintain automation systems and handle complex issues, so they will not be fully replaced.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Textile Technician (General)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile technicians in Germany?**
-答：Entry-level annual salary is around 28,000-35,000 EUR, mid-level 35,000-45,000 EUR, senior 45,000-55,000 EUR. Below average, but higher in technical textiles.
-
-**问：How can non-EU citizens immigrate to Germany as a textile technician?**
-答：Must complete a recognized German vocational training (dual system), then apply for a skilled worker visa. Qualification recognition (Anerkennung) is crucial.
-
-**问：Will textile technicians be replaced by automation?**
-答：Some repetitive tasks may be automated, but technicians are still needed to monitor and maintain automated systems and handle complex issues, so they won't be completely replaced.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

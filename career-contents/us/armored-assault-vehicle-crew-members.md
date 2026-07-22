@@ -1,61 +1,96 @@
-# Armored Assault Vehicle Crew Members（Armored Assault Vehicle Crew Members）职业分析 · 美国
+# Armored Assault Vehicle Crew Members — career analysis · United States
 
-**职业代码：55-3013 – Armored Assault Vehicle Crew Members。**
+**Occupation code: 55-3013 (SOC)**
 
-Operate tanks, light armor, and amphibious assault vehicles during combat, including driving, maintaining weapons, and communications/navigation systems.
+Operates tanks, light armor, and amphibious assault vehicles in land or water combat environments, including driving, maintaining weapons, and communication/navigation systems.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立高中免费） |
-| 基础训练与职业培训 | 3-6个月 | —（军队承担费用） |
+| High school graduation | 12 years | $0~$0 (Public high schools are free) |
+| Basic training and vocational training | 3-6 months | $0~$0 (Military covers costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 美国陆军基础训练证书 | 美国陆军 | 必备 | 完成基础战斗训练和高级单兵训练 |
-| 装甲车辆操作资格 | 美国陆军 | 必备 | 通过模拟器及实车操作考核 |
-| 保密安全许可 | 美国国防部 | 必备 | 至少机密级，需背景调查 |
+| US Army Basic Training certificate | United States Army | Required | Complete Basic Combat Training and Advanced Individual Training |
+| Armored vehicle operation qualification | United States Army | Required | Assessment via simulators and actual vehicle operation tests. |
+| Security clearance | U.S. Department of Defense | Required | At least classified level, requires background check |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 18,000。该职业主要存在于美国军队，职位数量依赖国防预算和军事需求，整体稳定但非民用领域增长。
+**Job demand: low (★½☆☆☆).** National workforce approx. 18,000. This occupation exists primarily in the U.S. military, with positions depending on defense budgets and military needs; overall stable but not civilian sector growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$35,000 | E-1至E-3军衔基本工资加津贴 |
-| 中级（3-10年） | $35,000~$55,000 | E-4至E-6军衔，含住房和伙食津贴 |
-| 高级（10年以上） | $55,000~$80,000 | E-7及以上军衔或授衔军官 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $25,000~$35,000 | E-1 to E-3 rank basic pay plus allowances |
+| Intermediate (3-10 years) | $35,000~$55,000 | E-4 to E-6 rank, includes housing and subsistence allowance |
+| Senior (10+ years) | $55,000~$80,000 | E-7 or above rank or commissioned officer |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从乘员晋升为车长、排长，或转入军事教官、装备维护管理岗位，部分技能可迁移至民用重型设备操作。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Armored assault vehicle crew task structure is mixed: AI/automation will take over sensor fusion and communications/navigation, but combat decisions, equipment emergency repair, and close tactical judgment are deep human moats, making core duties hard to fully replace.
+
+Advance from crew member to vehicle commander, platoon leader, or transition to military instructor, equipment maintenance management roles; some skills transferable to civilian heavy equipment operation.
+
+**Tasks most exposed to AI:**
+
+- Automatic target recognition and sensor data fusion
+- Communication relay and navigation route planning
+- Routine fault diagnosis for engines and weapon systems
+- Battlefield situation report generation and distribution
+- Autonomous driving of vehicles (on structured terrain)
+
+**Where AI augments the role:**
+
+- AI-assisted threat assessment and fire priority ranking
+- Augmented reality displays battlefield dynamics and friendly force positions
+- Predictive maintenance alerts and remote expert access
+- Adaptive scenario generation in training simulators
+- Multi-vehicle cooperative tactical planning optimization
+
+**Human moat:**
+
+- Performing emergency mechanical repairs in confined spaces inside armored vehicles
+- Human decision-making in unstructured, complex battlefield environments
+- Multimodal communication with friendly infantry and command
+- Leadership and team cohesion under combat stress
+- Compliance with military regulations and ethical judgment in using lethal force
+
+**Skills to build:**
+
+- Collaborative operation of drones and robot systems
+- Use of AI decision support tools (e.g., tactical planning software)
+- Cyber warfare basics and anti-jamming communication
+- Advanced equipment maintenance and data diagnostic analysis
+- Cross-domain situational awareness (air-space-ground integrated)
+- Psychological resilience and rapid adaptability training
+
+**Key growth areas:**
 
 - Military operations
 - Defense technology
@@ -64,66 +99,68 @@ Operate tanks, light armor, and amphibious assault vehicles during combat, inclu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 极少用于军事乘员，仅适用于极少数将技能迁移至民用领域且符合专业职位要求的情况 |
-| Subclass O-1（O-1 Extraordinary Ability） | 仅适用于在军事领域有杰出成就的个人，极为罕见 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 军事人员通常通过特殊移民类别（如军人归化）获得绿卡，非传统PERM路径 |
+| Subclass H-1B (H-1B Specialty Occupations) | Rarely used for military crew, only applicable to very few cases where skills are transferred to civilian fields and meet professional position requirements |
+| Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to individuals with outstanding achievements in the military field, extremely rare |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Military personnel typically obtain green cards through special immigration categories (e.g., military naturalization), not the traditional PERM route |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Armored Assault Vehicle Crew Members？**
-- 有志于军事生涯并愿接受严格训练的人
-- 身体素质和心理素质极佳，适应高压战斗环境
-- 对装甲车辆和武器系统有浓厚兴趣
+**Who is suited**
+- People aspiring to a military career and willing to undergo rigorous training.
+- Excellent physical and mental fitness, adaptable to high-pressure combat environments
+- Strong interest in armored vehicles and weapon systems
 
-**谁不适合学Armored Assault Vehicle Crew Members？**
-- 不愿服从严格军事纪律和长时间部署的人
-- 追求高薪和快速职业晋升的平民求职者
+**Who is not suited**
+- Those unwilling to obey strict military discipline and long-term deployment
+- Job seekers seeking high salary and fast career progression from average backgrounds
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of armored assault vehicle crew members?**
+A: Salary depends on rank and years of service; junior crew member annual salary approx. USD 25,000-35,000, senior NCO up to USD 55,000-80,000, plus housing and food allowances.
+
+**Q: Can foreigners immigrate to the US through this occupation?**
+A: This occupation is mainly for US citizens; foreigners have very few opportunities, only possible if already serving in the US military and obtaining a green card through special naturalization provisions.
+
+**Q: What is the career progression path for armored assault vehicle crew members?**
+A: Progress from junior crew (E-1 to E-3) to gunner, vehicle commander (E-4 to E-6), then to platoon sergeant or officer (O-1 and above), with opportunities to transition to instructor or equipment maintenance management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-low (★★☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Armored Assault Vehicle Crew Members属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for armored assault vehicle crew members?**
-答：Salary depends on rank and years of service. Entry-level is about $25,000-$35,000, senior NCOs can earn $55,000-$80,000, plus housing and food allowances.
-
-**问：Can foreigners immigrate to the US through this occupation?**
-答：This occupation is primarily for US citizens. Foreigners rarely have opportunities, only if they serve in the US military and qualify for special naturalization provisions.
-
-**问：What is the career progression for armored assault vehicle crew members?**
-答：From entry-level (E-1 to E-3) to gunner/commander (E-4 to E-6), then to platoon sergeant or officer (O-1+), with options to become instructor or equipment maintenance manager.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

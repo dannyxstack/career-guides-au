@@ -1,61 +1,97 @@
-# Custom or Small-Series Garment Maker（Custom or Small-Series Garment Maker）职业分析 · FR
+# Custom or Small-Series Garment Maker — career analysis · France
 
-**职业代码：B1803 – Custom or Small-Series Garment Maker。**
+**Occupation code: B1803 (ROME)**
 
-Designs, cuts, and sews garments based on client needs or small-series orders, ranging from made-to-measure to haute couture.
+Designing, cutting, and sewing garments based on customer needs or small batch orders, covering the entire process from bespoke to haute couture.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 服装制作 | 2年 | —（公立学校免费或低学费，私立约3000-5000欧元） |
-| BTS 时装设计 | 2年（BTS） | —（公立免费，私立约4000-8000欧元/年） |
+| CAP clothing production | 2 years | $0~$5,000 (Public schools are free or low tuition; private schools about EUR 3,000-5,000) |
+| BTS fashion design | 2 Years (BTS) | $0~$8,000 (Public schools are free, while private ones pay about 4,000-8,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP Métiers de la Mode - Vêtement flou | 法国教育部 | 必备 | 基础职业文凭，必修 |
-| BTS Métiers de la Mode - Vêtement | 法国教育部 | 可选 | 高级文凭，非强制但利于晋升 |
-| 资格认证（Reconnaissance des qualifications） | France Compétences | 必备 | 外国文凭需认证，受规管职业需额外评估 |
+| CAP Métiers de la Mode - Vêtement flou | French Ministry of Education | Required | Basic vocational diploma, compulsory |
+| Qualifications (Reconnaissance des qualifications) | France Compétences | Required | Foreign diplomas require certification, and regulated occupations require additional assessment |
+| BTS Métiers de la Mode - Vêtement | French Ministry of Education | Optional | Advanced diplomas are not mandatory but are beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等偏低（★★☆☆☆）。** 全国从业人数约 12,000。法国手工定制服装市场受奢侈品和可持续发展趋势推动，需求稳定。但受快时尚冲击，从业人数缓慢下降。数字化定制和个性化服务是增长点。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 12,000. The French handmade custom clothing market is driven by trends in luxury goods and sustainability, with stable demand. However, due to the impact of fast fashion, the number of employees has slowly declined. Digital customization and personalized services are growth drivers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含学徒补贴 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$50,000 | 税前年薪，工坊主或高级定制师可达更高 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Pre-tax annual salary, including apprentice subsidies |
+| Mid-level (3–7 years) | $28,000~$36,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$50,000 | Pre-tax annual salary: Workshop owners or haute couture specialists can reach even higher |
+| average salary | $26,988 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初始可从学徒或助理裁缝起步，积累经验后晋升为高级裁缝或工作室主管，也可自主创业开设定制工坊。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
+
+You can start as an apprentice or assistant tailor, and after gaining experience, be promoted to senior tailor or studio supervisor. You can also start your own custom workshop.
+
+**Tasks most exposed to AI:**
+
+- AI-driven automatic sewing robots replace batch garment sewing
+- AI pattern-making system automatically generates basic patterns
+- AI quality inspection tools replace manual checks of stitches and symmetry.
+- AI cost estimation system automatically calculates fabric usage.
+- AI inventory management system automatically tracks fabrics and accessories
+
+**Where AI augments the role:**
+
+- AI-assisted design software enhances creative pattern making and rapid iteration capabilities
+- AI virtual fitting systems help clients visualize design effects
+- AI fabric property analysis tool optimizes fabric selection and cutting plans
+- AI automatically adjusts garment patterns to fit customer body data.
+- AI trend analysis tools provide popular element and color suggestions
+
+**Human moat:**
+
+- Handmade haute couture and special fabric handling techniques
+- Ability to deeply communicate with clients and understand personalized needs
+- Innovative design and aesthetic judgment
+- Complex style alterations and hole repair techniques
+- Copyright and ethical decisions (e.g., avoiding design plagiarism)
+
+**Skills to build:**
+
+- AI-assisted fashion design software (e.g., CLO 3D, Style3D)
+- Digital pattern making and CAD systems (e.g., Lectra, Optitex)
+- Data analysis and customer needs mining
+- Virtual fitting and AR display technology
+- Multi-material process knowledge (e.g., sustainable fabric properties)
+- Personalized marketing and customer relationship management
+
+**Key growth areas:**
 
 - Sustainable fashion
 - Made-to-measure
@@ -64,69 +100,68 @@ Designs, cuts, and sews garments based on client needs or small-series orders, r
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需雇主担保，适用于有法国公司工作合同者，需通过劳动市场测试（Opposabilité de la situation d'emploi）。 |
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才或艺术家，定制服装设计师可申请，无劳动力市场测试。 |
-| Subclass Carte bleue UE（Carte Bleue Européenne (EU Blue Card)） | 适用于高薪岗位（年薪≥53,835欧元），对服装制作师通常难以达到。 |
+| Subclass Salarié (Salarié (Employee)) | Employer sponsorship required, applicable to those with a French company employment contract, and must pass the labor market test (Opposabilité de la situation d'emploi). |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents or artists, custom clothing designers can apply, no labor market test required. |
+| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | Suitable for high-paying positions (annual salary ≥ 53,835 euros), which is usually difficult for garment makers to reach. |
 
-**PR难度：高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Custom or Small-Series Garment Maker？**
-- 热爱手工缝纫和时装设计的人
-- 注重细节和追求工艺完美的人
-- 愿意接受学徒或长期学习的人
-
-**谁不适合学Custom or Small-Series Garment Maker？**
-- 追求快速高薪的人
-- 不喜欢重复性手工劳动的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who love hand-sewing and fashion design
+- People who pay attention to detail and pursue perfect craftsmanship
+- Those willing to accept apprentices or long-term learning
+
+**Who is not suited**
+- People pursuing fast and high income
+- People who dislike repetitive manual labor
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for custom tailors?**
+A: Junior approx. €22,000-€28,000, mid-level €28,000-€36,000, senior €36,000-€50,000. Workshop owners or haute couture specialists can earn more, but overall lower than IT and other sectors.
+
+**Q: How can third-country citizens immigrate to France to work in custom clothing?**
+A: First obtain a French degree or qualification equivalency, then find an employer to sponsor a Salarié or Passeport Talent visa. This occupation is not in shortage, so you must demonstrate that no suitable local candidate is available.
+
+**Q: How are foreign diplomas recognized?**
+A: Qualification must be obtained through France Compétences (reconnaissance des qualifications), a process that can take several months, requiring submission of translations and proof of course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 中等偏低（★★☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★½☆） |
-
-Custom or Small-Series Garment Maker为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for custom garment makers?**
-答：Entry-level: €22-28K; mid-level: €28-36K; senior: €36-50K. Workshop owners or haute couture tailors may earn more, but overall lower than IT sectors.
-
-**问：How can third-country nationals immigrate to France for custom garment making?**
-答：Obtain French diploma or qualification recognition, then find an employer to apply for Salarié or Passeport Talent visa. Not a shortage occupation; need to prove no local candidate.
-
-**问：How are foreign diplomas recognized?**
-答：Apply for qualification recognition (reconnaissance des qualifications) via France Compétences. It may take months, requiring translated documents and course descriptions.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Biochemists and biomedical scientists（Biochemists and biomedical scientists）职业分析 · UK
+# Biochemists and biomedical scientists — career analysis · United Kingdom
 
-**职业代码：2113 – Biochemists and biomedical scientists。**
+**Occupation code: 2113 (SOC)**
 
-Examine and investigate the chemical processes of living organisms, including their inter-relationships, environments and diseases, and perform laboratory tests on tissue, blood and other samples to diagnose diseases, toxins or health conditions.
+Study chemical processes in living organisms, including their relationships, environment, and disease, and perform laboratory tests on tissue, blood, and other samples to diagnose diseases, toxins, or health conditions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科（学士学位） | 3年 | $9,250~$38,500（英国学生约9250英镑/年；国际学生约38500英镑/年） |
-| 硕士（授课型） | 1年 | $10,000~$35,000（学费因学校而异，国际学生较高） |
+| Bachelor's degree | 3 years | $9,250~$38,500 (UK students about £9,250/year; international students about £38,500/year) |
+| Master's (coursework) | 1 year | $10,000~$35,000 (Tuition varies by school, higher for international students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 生物医学科学学士学位 | 英国大学 | 必备 | 通常需 IBMS 认证课程 |
-| 注册生物医学科学家 (HCPC) | 健康与护理专业委员会 (HCPC) | 必备 | NHS 实验室就业必备 |
-| IBMS 专业认证 | 生物医学科学研究所 (IBMS) | 可选 | 自愿认证，提升竞争力 |
+| Bachelor of Biomedical Science | UK universities | Required | Usually requires IBMS accredited course |
+| Registered Biomedical Scientist (HCPC) | Health and Care Professions Council (HCPC) | Required | Essential for NHS laboratory employment |
+| IBMS professional certification. | Institute of Biomedical Science (IBMS) | Optional | Voluntary certification to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。英国生物医学领域就业前景稳定，随着医疗技术发展和老龄化加剧，对诊断和研究人才需求持续增长，NHS 和私营实验室均有招聘。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. The UK biomedical field has stable employment prospects, with growing demand for diagnostic and research talent due to medical technology advances and an aging population. Both the NHS and private labs are hiring.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | NHS Band 5 |
-| 中级（3-7年） | $32,000~$45,000 | NHS Band 6-7 |
-| 高级（7年以上） | $45,000~$65,000 | NHS Band 8+ 或私营企业 |
+| Median salary | $47,892 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | NHS Band 5 |
+| Mid-level (3–7 years) | $32,000~$45,000 | NHS Band 6-7 |
+| Senior (7+ years) | $45,000~$65,000 | NHS Band 8+ or private sector |
+| average salary | $53,074 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级生物医学科学家可通过专业认证晋升为高级科学家或实验室主任，也可转向研究开发、质量管理或教学岗位，部分进入制药公司担任研发职位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
+
+Junior biomedical scientists can advance to senior scientist or lab director through professional certification, or move into research and development, quality management, or teaching, with some taking R&D roles in pharmaceutical companies.
+
+**Tasks most exposed to AI:**
+
+- Automated analysis and report generation for routine blood and urine samples
+- Automatic monitoring and anomaly marking of quality control data
+- Automated execution and recording of standardized experimental procedures
+- Auto-fill and preliminary review of report templates
+- Automation of inventory management and reagent ordering
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis: analyse complex test results and provide anomaly alerts.
+- Big data analytics: integrating patient historical data to predict disease trends
+- Automating workflows: optimizing sample sorting, tracking, and test sequencing
+- Remote expert collaboration: real-time sharing of inspection images and data for second opinions
+- Continuous learning: AI recommends latest research and updates standard operating procedures
+
+**Human moat:**
+
+- Manual processing and judgment of non-standardized samples
+- Interdisciplinary interpretation of test results and clinical context
+- Ethical decision-making and patient privacy protection
+- Development and validation of new testing methods
+- Laboratory quality system management and regulatory compliance
+
+**Skills to build:**
+
+- AI/machine learning applications in clinical testing (e.g., anomaly detection models)
+- Advanced pathophysiology knowledge to interpret AI outputs
+- Data science and analysis skills (Python/R)
+- Laboratory information system and automation integration skills
+- Telemedicine and electronic health record usage
+- Critical thinking and complex problem solving
+
+**Key growth areas:**
 
 - Healthcare
 - Biotechnology
@@ -62,69 +98,68 @@ Examine and investigate the chemical processes of living organisms, including th
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 如满足薪资门槛和雇主担保要求，可申请技术工人签证。 |
-| Subclass Health & Care（Health and Care Worker Visa） | 适用于 NHS 或 NHS 供应商的医疗专业人员，签证费较低且可快速办理。 |
-| Subclass Global Talent（Global Talent Visa） | 适用于在科学领域有杰出成就或潜力的研究人员，无需雇主担保。 |
-| Subclass Graduate（Graduate Visa） | 英国毕业生可留在英国工作至少2年（博士3年）。 |
+| Subclass Skilled Worker (Skilled Worker Visa) | If meeting salary threshold and employer sponsorship requirements, can apply for skilled worker visa. |
+| Subclass Health & Care (Health and Care Worker Visa) | For medical professionals working with NHS or NHS suppliers, with lower visa fees and fast processing. |
+| Subclass Global Talent (Global Talent Visa) | For researchers with outstanding achievements or potential in scientific fields, no employer sponsorship required. |
+| Subclass Graduate (Graduate Visa) | Graduates in the UK can stay and work for at least 2 years (3 years for PhD holders). |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Biochemists and biomedical scientists？**
-- 对生物医学研究有浓厚兴趣，注重细节且耐心细致的人
-- 希望在医疗领域从事诊断和研究工作的科学背景毕业生
-- 愿意通过专业认证提升职业竞争力的人
-
-**谁不适合学Biochemists and biomedical scientists？**
-- 不喜欢重复性实验室工作的人
-- 对血样、组织等生物样本感到不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with strong interest in biomedical research, detail-oriented and patient
+- Science graduates aiming for diagnostic and research roles in healthcare
+- Those willing to enhance career competitiveness through professional certifications.
+
+**Who is not suited**
+- Those who dislike repetitive laboratory work
+- Those uncomfortable with biological samples like blood and tissue
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for biochemists and biomedical scientists?**
+A: Entry-level (0-3 years) salary around £25,000-32,000 per year, mid-level (3-7 years) around £32,000-45,000, senior (7+ years) up to £45,000-65,000. NHS roles follow pay bands; private sector may offer higher.
+
+**Q: What immigration pathways are available for UK biochemists and biomedical scientists?**
+A: Main pathways include the Skilled Worker visa, Health and Care Worker visa, Global Talent visa, and Graduate visa. This occupation is on the migration shortage list, which supports applications.
+
+**Q: What qualifications and certifications are needed to become a biomedical scientist?**
+A: An IBMS-accredited Biomedical Science bachelor's degree is usually required, along with HCPC registration. A master's degree aids career progression. NHS lab positions require HCPC registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★½☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Biochemists and biomedical scientists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for biochemists and biomedical scientists?**
-答：Entry-level (0-3 years) salary ranges from £25,000 to £32,000, mid-level (3-7 years) from £32,000 to £45,000, and senior (7+ years) from £45,000 to £65,000. NHS salaries follow pay bands, while private sector may offer higher.
-
-**问：What migration routes are available for biochemists and biomedical scientists in the UK?**
-答：Main routes include Skilled Worker Visa, Health and Care Worker Visa, Global Talent Visa, and Graduate Visa. The occupation is on the shortage occupation list, which facilitates applications.
-
-**问：What education and qualifications are needed to become a biomedical scientist?**
-答：Typically an IBMS-accredited bachelor's degree in biomedical science, followed by HCPC registration. A master's degree can aid career progression. NHS lab positions require HCPC registration.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

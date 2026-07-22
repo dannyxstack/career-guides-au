@@ -1,60 +1,96 @@
-# Fabric, Leather and Materials Cutters（Fabric, Leather and Materials Cutters）职业分析 · ES
+# Fabric, Leather and Materials Cutters — career analysis · Spain
 
-**职业代码：7833 – Fabric, Leather and Materials Cutters。**
+**Occupation code: 7833 (CNO)**
 
-Cut fabrics, leather, synthetic materials, and other textiles according to patterns or design specifications using hand or machine tools, for use in garment, furniture, and automotive upholstery manufacturing. Work primarily in factory settings with precision and efficiency.
+Responsible for cutting textiles, leather, synthetic materials, etc. using manual or mechanical tools based on templates or design drawings, for manufacturing industries such as clothing, furniture, and automotive interiors. Work must be carried out in manufacturing workshops or factory environments, with a focus on precision and efficiency.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约500-1500欧元/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约1000-2000欧元/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$1,500 (Public schools are free, private schools about 500-1500 EUR/year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$2,000 (Public schools are free, while private ones pay about 1000-2000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业培训文凭（FP Técnico en Confección y Moda） | 西班牙教育部 | 可选 | 涵盖裁剪、缝制、面料知识，非强制但雇主优先 |
-| 上岗培训（Formación en Prevención de Riesgos Laborales） | 企业或认证机构 | 可选 | 基本安全培训，部分工厂要求 |
+| Diploma in Vocational Training (FP Técnico en Confección y Moda) | Spanish Ministry of Education | Optional | Covering cutting, sewing, and fabric knowledge, not mandatory but employer preference |
+| Onboarding Training (Formación en Prevención de Riesgos Laborales) | Enterprises or certification bodies | Optional | Basic safety training, required by some factories |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 8,500。西班牙纺织和皮革制造业规模较小且持续收缩，但高端定制和修复领域存在稳定需求。由于自动化和离岸外包，传统裁剪岗位减少，但具备数字化裁剪设备操作技能的工人仍有就业机会。
+**Job demand: low (★½☆☆☆).** National workforce approx. 8,500. Spain's textile and leather manufacturing sector is relatively small and continues to shrink, but there is stable demand in high-end customization and restoration. Due to automation and offshore outsourcing, traditional cutting positions have decreased, but workers with digital cutting equipment skills still have employment opportunities.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，通常为最低工资水平 |
-| 中级（3-6年） | $20,000~$25,000 | 含经验补贴和加班费 |
-| 高级（6年以上） | $25,000~$32,000 | 主管或技术专家级别 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, usually at the minimum wage level |
+| Mid-level (3–6 years) | $20,000~$25,000 | Includes experience allowance and overtime pay |
+| Senior (6+ years) | $25,000~$32,000 | Supervisor or technical expert level |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 初级裁剪工可向裁剪主管、样板师或质检员发展。掌握CAD/CAM裁剪系统后，可转向技术岗位或生产管理。部分经验丰富的工匠可自营工作室，从事定制服装或皮革制品修复。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI and automation technologies will significantly transform the work of fabric, leather, and material cutters: standard cutting tasks are being compressed automatically, but intelligent layout and quality inspection are being enhanced, requiring practitioners to improve their digital skills to stay competitive.
+
+Junior cutters can develop into cutting supervisors, pattern designers, or quality inspectors. After mastering CAD/CAM cutting systems, you can move on to technical positions or production management. Some experienced artisans can run their own studios, specializing in custom clothing or leather goods restoration.
+
+**Tasks most exposed to AI:**
+
+- Repetitive manual cutting is performed according to preset templates
+- Use traditional cutting tools (such as scissors and cutters) for straight cutting
+- Manually measure and mark the cutting lines
+- Manually record production data and material consumption
+- Simple layout and material utilization calculation
+
+**Where AI augments the role:**
+
+- Using AI vision systems for fabric defect detection
+- Optimize material utilization using intelligent typesetting software
+- Operate and maintain CNC cutting equipment
+- Simulating the cutting process through digital twins to prevent errors
+- Analyze production data to optimize the cutting process
+
+**Human moat:**
+
+- Experience and tactile feel for complex curved or elastic fabrics
+- Tactile judgment of special materials (such as premium leather).
+- Creative adjustments in customized tailoring
+- Flexible process decisions for multi-variety, small-batch operations
+- Customer communication and process requirements are understood
+
+**Skills to build:**
+
+- Operation and maintenance of CNC cutting equipment
+- CAD layout software (such as Lectra, Gerber)
+- Basic data analysis and production efficiency optimization
+- Operation of AI-assisted defect detection systems
+- Lean production and quality management methods
+- Digital twin and PLM system foundation
+
+**Key growth areas:**
 
 - Automation impact
 - Offshoring
@@ -63,65 +99,67 @@ Cut fabrics, leather, synthetic materials, and other textiles according to patte
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 需获得西班牙公司工作合同，并通过劳工市场测试（职业非紧缺，较难获批）。 |
-| Subclass Busqueda empleo（Job Search Visa） | 允许在西班牙停留6-12个月寻找工作，但需证明经济能力，且找到工作后仍需换工作居留。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a job contract with a Spanish company and pass a labor market test (non-urgent occupation, difficult to approve). |
+| Subclass Busqueda empleo (Job Search Visa) | Allows staying in Spain for 6-12 months to seek employment, but requires proof of financial means, and once a job is found, a work residence permit must be obtained. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fabric, Leather and Materials Cutters？**
-- 喜欢手工操作、注重细节的人
-- 愿意在制造业环境下工作的人
-- 对服装、皮革制品有浓厚兴趣的人
+**Who is suited**
+- People who enjoy hands-on work and pay attention to detail.
+- People willing to work in manufacturing environments
+- People with a strong interest in clothing and leather goods
 
-**谁不适合学Fabric, Leather and Materials Cutters？**
-- 期望高薪或快速晋升的人
-- 对重复性劳动敏感、追求创意自由度的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People sensitive to repetitive labor and who seek creative freedom
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary level for cutters in Spain?**
+A: Junior cutters typically earn between 16,000 and 20,000 euros per year, slightly above minimum wage, but with limited increases.
+
+**Q: Can cutters go to Spain through skilled immigration?**
+A: extremely difficult. This profession does not require higher education and is not in short supply; Spanish employers must prove that suitable candidates cannot be found locally, resulting in a very low immigration success rate.
+
+**Q: Will this occupation be replaced by automation?**
+A: The risk is relatively high. Automated cutting equipment and AI typesetting systems have been widely used, reducing low-end positions, but high-end customization and cutting complex materials still require manual labor.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fabric, Leather and Materials Cutters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for fabric cutters in Spain?**
-答：Entry-level fabric cutters earn between €16,000 and €20,000 gross annually, slightly above the minimum wage with limited growth.
-
-**问：Can fabric cutters migrate to Spain as skilled workers?**
-答：Very difficult. The occupation does not require higher education and is not listed as a shortage occupation. Employers must prove local unavailability, making approval unlikely.
-
-**问：Will this job be replaced by automation?**
-答：High risk. Automated cutting machines and AI nesting systems are widely adopted, reducing low-skilled positions, though high-end custom work remains manual.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

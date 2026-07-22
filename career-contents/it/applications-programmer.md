@@ -1,61 +1,97 @@
-# Applications Programmer（Applications Programmer）职业分析 · IT
+# Applications Programmer — career analysis · Italy
 
-**职业代码：2514 – Applications Programmer。**
+**Occupation code: 2514 (ISCO08)**
 
-Applications programmers design, develop, and maintain computer applications. In Italy, the demand is growing steadily due to digital transformation, especially in finance, manufacturing, and technology sectors.
+Application programmers design, develop, and maintain computer applications. In Italy, demand for this occupation is steadily growing with digital transformation, especially in finance, manufacturing, and technology sectors.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 3年（本科） | $1,000~$5,000（公立大学学费低，私立较高） |
-| 研究生（硕士） | 2年（硕士） | $2,000~$10,000（公立大学学费，部分有奖学金） |
-| 职业培训 | 6-12个月 | $3,000~$15,000（IT认证课程或编程训练营） |
+| Bachelor's degree | 3 years (bachelor's) | $1,000~$5,000 (Public universities have low tuition; private ones are higher) |
+| Postgraduate (Master's degree) | 2 years (Master's) | $2,000~$10,000 (Public university tuition fees, some with scholarships) |
+| Vocational training | 6–12 months | $3,000~$15,000 (IT certification course or coding bootcamp) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学或相关学位 | 意大利公立/私立大学 | 必备 | 通常为本科或硕士学历 |
-| IT认证（如OCP、MCSD、AWS认证） | Oracle、Microsoft、AWS等 | 可选 | 有助于提升竞争力 |
-| 语言认证（英语B2） | 剑桥、雅思等 | 可选 | 外企或大型企业常要求 |
-| 专业经验 | 雇主 | 可选 | 通常要求1-3年相关工作经验 |
+| Computer science or related degree | Italian public/private universities | Required | Usually a bachelor's or master's degree. |
+| IT certifications (e.g., OCP, MCSD, AWS certification) | Oracle, Microsoft, AWS, etc. | Optional | Helps improve competitiveness |
+| Language certification (English B2) | Cambridge, IELTS, etc. | Optional | Foreign or large enterprises often require |
+| Professional experience | Employer | Optional | Typically requires 1-3 years of relevant work experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 80,000。意大利应用程序员就业前景乐观。政府推动数字化创新（如工业4.0）和企业上云（如云端应用）将带动需求。2025-2030年预计岗位增长约12%，但需掌握最新技术（如AI、微服务）。
+**Job demand: high (★★★★☆).** National workforce approx. 80,000. The job outlook for application programmers in Italy is optimistic. Government-driven digital innovation (e.g., Industry 4.0) and enterprise cloud adoption (e.g., cloud applications) will boost demand. Job growth is expected to be around 12% from 2025 to 2030, but requires mastery of latest technologies (e.g., AI, microservices).
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，含奖金 |
-| 中级（3-6年） | $35,000~$50,000 | 税前年薪，随技能提升增长 |
-| 高级（6年以上） | $50,000~$75,000 | 税前年薪，含管理职责或专家角色 |
+| Median salary | $42,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–6 years) | $35,000~$50,000 | Annual salary before tax, grows with skill improvement |
+| Senior (6+ years) | $50,000~$75,000 | Annual salary before tax, including managerial duties or expert role. |
+| average salary | $45,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 职业路径：初级程序员 → 中级开发/架构师 → 高级开发/项目经理 → 技术总监/CTO。也可转向全栈、大数据或AI开发。拥有多语言技能（Java、Python、JavaScript）和云认证（AWS、Azure）可加速晋升。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+Career path: Junior programmer → Mid-level developer/architect → Senior developer/project manager → Technical director/CTO. Also can transition to full-stack, big data, or AI development. Multi-language skills (Java, Python, JavaScript) and cloud certifications (AWS, Azure) can accelerate promotion.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Digital Transformation
 - Cloud Computing
@@ -64,69 +100,68 @@ Applications programmers design, develop, and maintain computer applications. In
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技术移民，年薪门槛约€35,000，合同至少1年。可续签并申请长期居留。 |
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 年度配额，通常针对非欧盟技术工人。申请人需有工作offer，雇主协助申请Nulla Osta。 |
-| Subclass Nulla Osta（Nulla Osta (Work Authorization)） | 由雇主向警方申请的工作授权，通常与工作签证捆绑，需通过劳动力市场测试。 |
-| Subclass 欧盟自由流动（EU Freedom of Movement） | 欧盟公民无需签证即可在意大利工作。非欧盟公民需工作签证。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled migrants, annual salary threshold approximately €35,000, contract at least 1 year. Renewable and eligible for long-term residence. |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, typically for non-EU skilled workers. Applicants need a job offer and employer assistance to apply for Nulla Osta. |
+| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work authorization applied for by the employer from the police, usually bundled with a work visa and requires a labor market test. |
+| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work in Italy without a visa. Non-EU citizens need a work visa. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Applications Programmer？**
-- 喜欢逻辑思考和解决问题的能力
-- 对编程和新科技有持续热情
-- 愿意终身学习以跟上技术更新
-
-**谁不适合学Applications Programmer？**
-- 不喜欢长时间面对电脑
-- 难以适应快速变化的技术环境
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys logical thinking and problem-solving
+- Sustained passion for programming and new technologies
+- Willingness to engage in lifelong learning to keep up with technological updates
+
+**Who is not suited**
+- Dislikes long hours in front of a computer
+- Difficulty adapting to rapidly changing technology environment
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an application programmer in Italy?**
+A: By experience: junior approx. €28,000-35,000, mid-level €35,000-50,000, senior up to €75,000+ (pre-tax annual salary).
+
+**Q: How can a non-EU citizen immigrate to Italy as an application programmer?**
+A: Common route: obtain a job offer, then apply for the EU Blue Card (must meet salary threshold) or Decreto Flussi annual quota work visa. The employer must apply for Nulla Osta.
+
+**Q: What are the career prospects for an application programmer?**
+A: Clear development path: can advance to senior developer, architect, technical manager, or transition to management roles. Continuous learning of new technologies (e.g., cloud, AI) helps with promotion.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Applications Programmer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for applications programmers in Italy?**
-答：Entry-level: €28,000-35,000; mid-level: €35,000-50,000; senior: up to €75,000+ (annual gross).
-
-**问：How can non-EU citizens immigrate to Italy as applications programmers?**
-答：Common paths: job offer → EU Blue Card (meet salary threshold) or Decreto Flussi quota work visa. Employer must obtain Nulla Osta.
-
-**问：What are the career prospects for applications programmers?**
-答：Clear progression: to senior developer, architect, tech lead, or management. Continuous learning (cloud, AI) accelerates growth.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

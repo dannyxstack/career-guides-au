@@ -1,58 +1,90 @@
-# Mechanical Services and Air Conditioning Plumber（Mechanical Services and Air Conditioning Plumber）职业分析 · 新西兰
+# Mechanical Services and Air Conditioning Plumber — career analysis · New Zealand
 
-**职业代码：334115 – Mechanical Services and Air Conditioning Plumber。**
+**Occupation code: 334115 (ANZSCO)**
 
-This occupation (ANZSCO 334114) involves installing, maintaining, and repairing industrial mechanical services piping systems (e.g., HVAC and refrigeration). It qualifies for Skilled Migrant Category (SMC) and Green List, with pathways via AEWV or direct residence.
+This occupation is classified as Plumber (334114) under ANZSCO, responsible for installing, maintaining, and repairing industrial mechanical service piping systems (e.g., heating, ventilation, air conditioning, and refrigeration). It is covered by New Zealand's Skilled Migrant Category (SMC) and Green List, and can be migrated via AEWV or Straight to Residence pathway.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| NZQA 4级证书（学徒制） | 4年 | $12,000~$20,000（学徒期间工资补助可抵消部分费用） |
+| NZQA Level 4 certificate (apprenticeship) | 4 years | $12,000~$20,000 (Wage subsidies during apprenticeship can offset some costs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰注册水管工学徒证书（New Zealand Certificate in Plumbing） | 行业培训组织（ITO） | 必备 | 4级学历，包含工作实践 |
-| 持牌水管工（Registered Plumber, Gasfitter and Drainlayer） | 新西兰水管工、煤气工及排水工委员会（PGDB） | 必备 | 必须注册才能独立工作 |
-| IELTS 6.5（技术移民要求） | IDP/British Council | 可选 | 若申请移民需满足英语要求 |
+| New Zealand Certificate in Plumbing | Industry Training Organisation (ITO) | Required | Level 4 qualification including practical work |
+| Registered Plumber, Gasfitter and Drainlayer | Plumbers, Gasfitters and Drainlayers Board (PGDB) of New Zealand. | Required | Must be registered to work independently |
+| IELTS 6.5 (skilled migration requirement) | IDP/British Council | Optional | Must meet English language requirements if applying for immigration |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 2,500。随着建筑业回暖和新基础设施项目推进（如奥克兰轻轨），工业管道工需求持续增长。新西兰持牌从业者较少，雇主常面临招聘困难，未来五年就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 2,500. With the recovery of the construction industry and new infrastructure projects (e.g., Auckland Light Rail), demand for industrial plumbers continues to grow. There are few licensed practitioners in New Zealand, and employers often face recruitment difficulties, with good employment prospects over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 多为学徒或助理 |
-| 中级（3-6年） | $70,000~$90,000 | 已注册，可独立作业 |
-| 高级（6年以上） | $90,000~$120,000 | 持证且具管理或专项技能 |
+| Median salary | $69,160 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Mostly apprenticeship or assistant roles |
+| Mid-level (3–6 years) | $70,000~$90,000 | Registered, can work independently |
+| Senior (6+ years) | $90,000~$120,000 | Certified with management or specialized skills |
+| average salary | $74,204 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 通常从学徒起步，成为持牌水管工后可晋升为高级技工或主管，亦可转向项目管理或自我创业。拥有燃气或制冷专项认证更易获得高薪岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Industrial pipe installation work, as an on-site technical role, has core installation, welding, and testing tasks difficult to replace by AI. However, AI can provide strong assistance in pipe design optimization, material specification matching, maintenance prediction, and report generation. Overall impact is mixed; job demand remains stable but skill requirements increase.
+
+Typically starts as an apprentice; after becoming a licensed plumber, can advance to senior technician or supervisor, or transition to project management or self-employment. Specializations in gas or refrigeration certification increase high-wage job prospects.
+
+**Tasks most exposed to AI:**
+
+- Use AI for initial design optimization of pipeline system layouts
+- Analyze material specifications and auto-generate bills of materials via AI
+- Using AI to predict pipeline corrosion/leak risks and generate maintenance reports
+- Automatically generate as-built drawings and pipeline stress analysis reports
+
+**Where AI augments the role:**
+
+- AI-assisted 3D modeling and pipeline collision detection improve installation accuracy
+- AI-driven real-time monitoring systems enhance fault diagnosis efficiency
+- AI-optimized pipeline welding parameters and processes
+- AI-generated technical documents and compliance reports save documentation time
+
+**Human moat:**
+
+- On-site installation, welding, and commissioning of high-pressure and high-temperature pipelines
+- Judgment and problem-solving skills for complex on-site environments
+- Responsibility to comply with safety standards (e.g., ASME B31.3)
+- Collaborative communication skills with clients and engineers
+
+**Skills to build:**
+
+- Proficient in BIM software such as AutoCAD/Revit MEP
+- Learn to use pipe stress analysis software (e.g., CAESAR II)
+- Master Basic Digital Tools and Mobile Diagnostic Apps
+- Enhanced ability to interpret AI-generated repair recommendations
+- Understanding basics of industrial IoT and sensors
+
+**Key growth areas:**
 
 - Green List Tier 1
 - Skilled Migrant Category
@@ -61,68 +93,67 @@ This occupation (ANZSCO 334114) involves installing, maintaining, and repairing 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 从事绿色清单职业可直接申请居留，需持相关学历或注册，且收入达中位数（2024年约29.66纽元/小时）。 |
-| Subclass SMC（Skilled Migrant Category Resident Visa） | 6分制技术移民：职业注册得3分，加学历或工作经验可累计6分，适合无直接居留路径的申请人。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未达到直接移民条件，可先通过认证雇主获得最长3年工签，积累经验后转移民。 |
+| Subclass Green List T1 (Straight to Residence Visa) | Engaging in a Green List occupation allows direct application for residency, requiring relevant qualifications or registration and income reaching the median (approx. NZD 29.66/hour in 2024). |
+| Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration: occupation registration earns 3 points, plus qualifications or work experience can accumulate 6 points, suitable for applicants without a direct residency pathway. |
+| Subclass AEWV (Accredited Employer Work Visa) | If direct immigration conditions are not met, you can first get a work visa for up to 3 years through an accredited employer, then transfer to permanent residence after gaining experience. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mechanical Services and Air Conditioning Plumber？**
-- 有机械或管道相关经验的技术工人
-- 愿意从事体力劳动并考取新西兰执照者
-- 寻求稳定技术移民路径的已婚人士
-
-**谁不适合学Mechanical Services and Air Conditioning Plumber？**
-- 不适应户外或高空作业者
-- 对严格监管和持续学习缺乏耐心者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Skilled workers with mechanical or piping-related experience
+- Those willing to do physical labor and obtain a New Zealand license
+- Married individuals seeking stable skilled migration pathways
+
+**Who is not suited**
+- Not suitable for those who cannot handle outdoor or high-altitude work
+- Those impatient with strict regulations and continuous learning
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an industrial pipe plumber in New Zealand?**
+A: Junior approx NZD 55,000-70,000, mid-level 70,000-90,000, senior can reach over 120,000. Those with certification and expertise in gas or refrigeration earn higher.
+
+**Q: Can industrial pipe fitters immigrate directly via the Green List?**
+A: Yes. This occupation is on the Green List Tier 1 (direct residence), meeting registration and income requirements allows application.
+
+**Q: What qualifications do I need to work in New Zealand?**
+A: Requires completing a 4-year apprenticeship and obtaining a New Zealand registered plumber certificate, plus licensing from PGDB.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★½☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Mechanical Services and Air Conditioning Plumber的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an industrial pipefitter in NZ?**
-答：Entry-level NZD 55k-70k, mid-career NZD 70k-90k, senior NZD 90k-120k+. Higher with gas or refrigeration certifications.
-
-**问：Can pipefitters migrate directly via Green List?**
-答：Yes. This occupation is on Green List Tier 1 (Straight to Residence) if you hold registration and meet the median wage threshold.
-
-**问：What qualifications do I need to work in NZ?**
-答：You need a 4-year apprenticeship leading to the NZ Certificate in Plumbing (Level 4) and registration with PGDB.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

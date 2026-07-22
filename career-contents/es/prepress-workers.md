@@ -1,60 +1,95 @@
-# Prepress Workers（Prepress Workers）职业分析 · ES
+# Prepress Workers — career analysis · Spain
 
-**职业代码：7621 – Prepress Workers。**
+**Occupation code: 7621 (CNO)**
 
-Prepress workers prepare materials for printing, including typesetting, image processing, color separation, and plate making. They use specialized software and hardware to ensure print quality.
+Prepress processing workers are responsible for pre-printing preparations, including typesetting, image processing, color separation, and plate making. They use specialized software and hardware to ensure print quality meets requirements.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $500~$2,000（公立学校学费较低，私立较高） |
-| 高级职业教育（FP Grado Superior） | 2年 | $600~$2,500（专业为'印前图形设计'或类似） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private ones have higher fees) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $600~$2,500 (The specialty is 'Prepress Graphic Design' or something similar) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 印前操作员技能证书 | 各自治区劳动部门 | 可选 | 非强制，但有助于就业 |
-| Adobe软件认证 | Adobe | 可选 | Photoshop, InDesign等认证可提升竞争力 |
+| Prepress operator skill certificate | Labor departments of all autonomous regions | Optional | Not mandatory, but helpful for employment |
+| Adobe software certification | Adobe | Optional | Certifications such as Photoshop and InDesign can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 5,000。西班牙印刷行业受数字化冲击，就业岗位缓慢减少。但包装印刷和数字印刷领域仍有需求，尤其是在大型印刷企业。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 5,000. Spain's printing industry has been hit by digitalization, with jobs slowly decreasing. However, there is still demand in packaging printing and digital printing, especially among large printing enterprises.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $22,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $28,000~$35,000 | 税前年薪，主管级别 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $28,000~$35,000 | Annual salary before tax, supervisor level |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 可从印前操作员晋升为印前主管或生产经理。熟练掌握数字印刷技术可转型为数字印刷专家或色彩管理专家。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Prepress workers face the dual impact of AI automation replacement and enhanced capabilities. Repetitive tasks such as basic typesetting and color separation will be replaced, but creative design and quality control will still require human judgment. Careers carry risks, but transformation can bring new opportunities.
+
+Prepress operators can be promoted to prepress supervisors or production managers. Proficient in digital printing technology allows you to transform into a digital printing expert or color management specialist.
+
+**Tasks most exposed to AI:**
+
+- Automatic typesetting and basic image processing
+- Automatic color correction and color separation
+- Standard template generation and collage
+- File format conversion and pre-check
+- Simple plate-making operation
+
+**Where AI augments the role:**
+
+- Complex image creative design and retouching
+- Print quality prediction and control
+- Optimized automated color management system
+- Customized printing solutions
+- Customer demand analysis and intelligent quotation
+
+**Human moat:**
+
+- Creativity and artistic judgment
+- Complex customer communication and needs understanding
+- Knowledge of printing processes and problem-solving
+- Fine quality control and manual color calibration
+
+**Skills to build:**
+
+- Advanced image processing software (such as deep Photoshop techniques)
+- Color management theories and tools (such as i1Profiler)
+- AI-assisted design tools (such as Adobe Firefly, Midjourney)
+- Digital printing technology and process automation
+- Project management and client communication skills
+- Data analysis and print quality optimization
+
+**Key growth areas:**
 
 - declining
 - digitization
@@ -63,65 +98,67 @@ Prepress workers prepare materials for printing, including typesetting, image pr
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Cuenta ajena)） | 需西班牙公司提供工作合同，并证明职位难以在本地填补。但印前工人不属于紧缺职业，获批难度大。 |
-| Subclass Busqueda empleo（Job Search Visa (Busqueda de empleo)） | 高学历者可申请，但该职业通常不需要大学学位，不符合条件。 |
+| Subclass Cuenta ajena (Work Contract (Cuenta ajena)) | Requires a job contract from a Spanish company and proof that the position is difficult to fill locally. However, pre-press workers are not on the shortage list, making approval difficult. |
+| Subclass Busqueda empleo (Job Search Visa (Busqueda de empleo)) | Those with higher education can apply, but this profession usually does not require a university degree and does not meet the requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Prepress Workers？**
-- 对印刷和设计有浓厚兴趣的人
-- 细心且注重细节的人
-- 愿意接受数字化培训以适应行业变化的人
+**Who is suited**
+- People with a strong interest in printing and design
+- Detail-oriented and meticulous person
+- Those willing to undergo digital training to adapt to industry changes
 
-**谁不适合学Prepress Workers？**
-- 追求高薪和快速晋升的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- Those seeking high salary and rapid promotion
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels of Spanish prepress workers?**
+A: Junior annual salary approx. €18,000-22,000, mid-level €22,000-28,000, senior manager up to €35,000. Salary is below the Spanish average.
+
+**Q: As a third-country citizen, can you immigrate to Spain through pre-India worker employment?**
+A: It's very difficult. This occupation is not in short supply and usually does not require a university degree, so it is not possible to apply for an EU Blue Card or a High-Skilled Talent visa. Employers must prove that the position cannot be filled in the EU, resulting in a low approval rate.
+
+**Q: Will the prepress industry disappear in the future?**
+A: Due to the impact of digitalization and automation, traditional prepress positions have decreased, but there is still demand in packaging printing and digital printing. Practitioners need to learn new skills to adapt to change.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Prepress Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for prepress workers in Spain?**
-答：Entry-level annual salary is about €18,000-22,000, mid-level €22,000-28,000, and senior supervisors up to €35,000. Below the national average.
-
-**问：Can a third-country national immigrate to Spain as a prepress worker?**
-答：Very difficult. The occupation is not in shortage and typically doesn't require a university degree, making EU Blue Card or highly skilled visa inapplicable. Employer must prove no EU candidate, low approval rate.
-
-**问：Will the prepress industry disappear?**
-答：Traditional roles decline due to digitalization and automation, but demand remains in packaging and digital printing. Workers need to learn new skills.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

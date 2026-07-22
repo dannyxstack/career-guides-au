@@ -1,58 +1,88 @@
-# House Builder（House Builder）职业分析 · IT
+# House Builder — career analysis · Italy
 
-**职业代码：7111 – House Builder。**
+**Occupation code: 7111 (ISCO08)**
 
-House Builders construct and renovate residential buildings, performing bricklaying, carpentry, concrete pouring, and other core trades in Italy's construction sector.
+A house builder is responsible for constructing and renovating residential buildings, including bricklaying, carpentry, concrete pouring, etc., and is a core skilled trade in the Italian construction industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训 | 3年 | —（公立职业学校或学徒制通常免费或低费用） |
-| 高中文凭 | 5年（高中） | —（公立教育免费，需完成Istituto Tecnico per Geometri等） |
+| Vocational training | 3 years | $0~$2,000 (Public vocational schools or apprenticeships are usually free or low-cost) |
+| High school diploma | 5 years (high school) | $0~$0 (Public education is free, requiring completion of Istituto Tecnico per Geometri, etc.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证（Qualifica Professionale） | 地区政府 | 必备 | 完成学徒或职业培训后获得 |
-| 安全证书（Corso di Sicurezza） | INAIL或授权机构 | 必备 | 建筑工地安全培训必修 |
+| Professional Qualification (Qualifica Professionale) | Regional government | Required | Obtained after completing an apprenticeship or vocational training |
+| Safety Certificate (Corso di Sicurezza) | INAIL or authorized agencies | Required | Mandatory construction site safety training |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 250,000。受国家住房翻新补贴（Superbonus）推动，意大利建筑行业需求旺盛，但技能短缺明显，预计未来5年岗位增长稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 250,000. Driven by the national housing renovation subsidy (Superbonus), demand in the Italian construction industry is strong, but there is a clear skills shortage; job growth is expected to be stable over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 学徒或入门级工人 |
-| 中级（3-8年） | $25,000~$35,000 | 熟练工 |
-| 高级（8年以上） | $36,000~$48,000 | 工头或自雇承包商 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Apprentice or entry-level worker |
+| Mid-level (3–8 years) | $25,000~$35,000 | Skilled worker |
+| Senior (8+ years) | $36,000~$48,000 | Foreman or self-employed contractor |
+| average salary | $31,000 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 可从学徒成长为熟练工、工头或自雇承包商，进一步晋升为项目经理或建筑公司合伙人。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The automation risk for construction tasks is moderate; manual work like bricklaying and concrete pouring is hard to replace by AI, but design optimization, project management, etc., can improve efficiency through AI. Entry-level positions remain largely unchanged, but skill requirements shift towards digital tools.
+
+Can progress from apprentice to skilled tradesperson, foreman or self-employed contractor, with further advancement to project manager or building company partner.
+
+**Tasks most exposed to AI:**
+
+- Automatic generation of bill of materials based on CAD drawings
+- Basic building structure calculations and optimization (e.g., load-bearing analysis)
+- Construction site safety monitoring and anomaly alerts
+
+**Where AI augments the role:**
+
+- Use AI to generate multiple design blueprint options for client selection
+- Collision detection and construction simulation optimization through BIM+AI
+- Using drones and AI for rooftop inspections and damage identification
+- Use machine learning to predict material waste and project delays
+
+**Human moat:**
+
+- On-site fine operations such as manual bricklaying, plastering, and carpentry
+- Understanding of individual client needs and designing tailored solutions
+- Emergency response to unexpected issues on complex construction sites
+
+**Skills to build:**
+
+- BIM software (e.g., Revit) operation.
+- Drone operation and image analysis.
+- Basic Programming & AI Collaboration Tools (e.g., ChatGPT)
+- Knowledge of green building and energy-saving technologies.
+- Project management and communication coordination skills
+
+**Key growth areas:**
 
 - Green building
 - Renovation boom
@@ -61,64 +91,63 @@ House Builders construct and renovate residential buildings, performing bricklay
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 针对非欧盟工人，每年配额有限，需雇主担保，适用于建筑行业紧缺岗位。 |
-| Subclass EU Blue Card（EU Blue Card） | 适合高技能工人，需大学学历或5年经验，薪资门槛约28,000欧元/年。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, annual quota is limited; requires employer sponsorship. Applies to shortage positions in the construction industry. |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, requiring a university degree or 5 years of experience, with a salary threshold of approximately €28,000/year. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学House Builder？**
-- 喜欢动手、体力劳动，适应户外工作环境
-- 有耐心和细致，注重建筑质量与安全
-- 愿意通过学徒制逐步积累技能
-
-**谁不适合学House Builder？**
-- 不耐体力劳动或恶劣天气
-- 偏好办公室或高薪工作，不满足于体力工资
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys hands-on, physical work and adapting to outdoor work environments
+- Patient and meticulous, with focus on building quality and safety
+- Willing to gradually build skills through apprenticeship
+
+**Who is not suited**
+- Intolerant of physical labor or bad weather
+- Prefer office or high-paying jobs, not satisfied with manual wages
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for house builders in Italy?**
+A: Annual salary: entry-level around €18,000-24,000, experienced foreman up to €48,000, self-employed contractors earn higher but with more volatility.
+
+**Q: How can foreigners obtain a work visa as a building constructor in Italy?**
+A: Apply via the Decreto Flussi quota work visa (requires employer sponsorship) or EU Blue Card (requires higher salary), with occupational qualifications and basic language skills required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-House Builder的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for House Builders in Italy?**
-答：Entry-level salary is around €18,000-€24,000 per year, experienced foremen can reach €48,000, and self-employed contractors can earn more but with variability.
-
-**问：How can foreigners obtain a work visa for House Builder in Italy?**
-答：Apply through Decreto Flussi quota work visa (employer sponsorship) or EU Blue Card (higher salary required), with professional qualifications and basic Italian.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

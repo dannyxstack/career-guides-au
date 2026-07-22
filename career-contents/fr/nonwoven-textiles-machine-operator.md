@@ -1,60 +1,93 @@
-# Nonwoven Textiles Machine Operator（Nonwoven Textiles Machine Operator）职业分析 · FR
+# Nonwoven Textiles Machine Operator — career analysis · France
 
-**职业代码：H2405 – Nonwoven Textiles Machine Operator。**
+**Occupation code: H2405 (ROME)**
 
-Operates nonwoven textile production lines (spunbond, meltblown, hydroentanglement), controls process parameters, performs quality checks, and conducts basic maintenance to ensure product conformity.
+Operate nonwoven fabric production lines (such as spunbond, meltblown equipment, spunlace, etc.), responsible for raw material feeding, process parameter monitoring, quality inspection, and equipment maintenance to ensure products meet specifications.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或Bac Pro | 2-3年（CAP/Bac Pro） | —（公立学校免费，仅注册费。可通过学徒制（apprentissage）获得报酬。） |
-| BTS（高级技师证书） | 2年（BTS） | —（公立学校免费，材料费约500-2000欧元。） |
+| CAP or Bac Pro | 2-3 years (CAP/Bac Pro) | $0~$1,500 (Public schools are free, with only a registration fee. Compensation can be obtained through apprenticeships.) |
+| BTS (Senior Technician Certificate) | 2 Years (BTS) | $0~$2,000 (Public schools are free, with material fees ranging from about 500 to 2000 euros.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP（职业资格证书） | 纺织行业职业认证委员会（CPNEF de l'industrie textile） | 可选 | 非强制，但有助于晋升和薪资提升。 |
-|  CACES（操作安全认证） | 法国劳动部认可的培训机构 | 可选 | 若使用叉车或高空作业设备，需取得CACES证书。 |
+| CQP (Professional Qualification Certificate) | Textile Industry Professional Certification Committee (CPNEF de l'industrie textile) | Optional | Non-mandatory, but helps with promotion and salary increases. |
+| CACES (Operator Safety Certification) | Training institutions recognized by the French Ministry of Labor | Optional | If using forklifts or aerial work equipment, a CACES certificate is required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国非织造布行业因卫生材料、过滤材料需求稳定，就业市场平稳。自动化程度提高减少低端岗位，但熟练操作工仍受青睐。北部和东部产区机会较多。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 8,500. France's nonwoven fabric industry has stable demand for hygiene and filtration materials, resulting in a stable job market. Automation has increased and lower-end jobs have been reduced, but skilled operators are still favored. There are more opportunities in the northern and eastern regions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$26,000 | 税前年薪，含奖金。 |
-| 中级（3-7年） | $26,000~$31,000 | 税前年薪，含奖金。 |
-| 高级（7年以上） | $31,000~$37,000 | 税前年薪，含奖金。 |
+| Median salary | $28,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$26,000 | Annual pre-tax salary, including bonuses. |
+| Mid-level (3–7 years) | $26,000~$31,000 | Annual pre-tax salary, including bonuses. |
+| Senior (7+ years) | $31,000~$37,000 | Annual pre-tax salary, including bonuses. |
+| average salary | $26,412 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级操作工可晋升为生产线组长或工艺技术员，进一步可转向质量管理或生产主管。通过内部培训和职业认证（如CQP）可提升技能。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+The work of nonwoven machine operators is mixed: AI and automation will take over quality inspection and parameter monitoring, but equipment maintenance and exception handling still require human experience, and the job will not disappear completely.
+
+Junior operators can be promoted to production line leader or process technician, and can further move to quality management or production supervisors. Skills can be enhanced through internal training and professional certifications such as CQP.
+
+**Tasks most exposed to AI:**
+
+- Real-time process parameter monitoring and alarm response
+- Visual inspection of product appearance quality
+- Automated operation of raw material feeding and batching
+- Production data recording and report generation
+
+**Where AI augments the role:**
+
+- Reduce equipment downtime with AI-driven predictive maintenance
+- Optimize process parameters through data analysis to improve product consistency
+- Use AR assistance for equipment maintenance and training
+- Adjust ingredient ratios using AI recommendation systems
+
+**Human moat:**
+
+- Rapid diagnosis and physical maintenance of equipment sudden faults
+- Experience and judgment on process adjustments for non-standard products
+- Cross-process coordination and interpersonal communication
+- On-site safety and emergency response capabilities
+
+**Skills to build:**
+
+- Industrial Data Analysis and Basic Programming (Python/R)
+- Basic operation and programming of PLC and HMI
+- Use of predictive maintenance tools
+- Statistical Process Control (SPC)
+- AR-assisted repair and remote collaboration skills
+- Team management and communication skills
+
+**Key growth areas:**
 
 - automation
 - technical textiles
@@ -63,64 +96,66 @@ Operates nonwoven textile production lines (spunbond, meltblown, hydroentangleme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需雇主担保，证明无法招到欧盟候选人。适合有工作经验的申请者。 |
+| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that EU candidates cannot be recruited. Suitable for applicants with work experience. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Nonwoven Textiles Machine Operator？**
-- 喜欢动手操作机器、注重安全的求职者
-- 能适应轮班制、重复性工作的候选人
-- 对纺织工业有兴趣，愿意从基层做起的人
+**Who is suited**
+- Job seekers who enjoy operating machines manually and prioritize safety
+- Candidates who can adapt to shift work and repetitive tasks
+- People interested in the textile industry who are willing to start from the grassroots
 
-**谁不适合学Nonwoven Textiles Machine Operator？**
-- 不喜欢噪声和粉尘环境的人
-- 寻求高薪或快速晋升的人
+**Who is not suited**
+- People who dislike noise and dusty environments
+- Those seeking high salary or rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for nonwoven machine operators in France?**
+A: Junior: approx. €22,000-26,000/year pre-tax; intermediate: €26,000-31,000; senior: €31,000-37,000. Usually night shift allowance and performance bonuses.
+
+**Q: How can third-country citizens apply for positions as nonwoven operators in France?**
+A: Typically, employers must sponsor the 'Salarié' visa to prove that the vacancies cannot be filled by EU citizens. It is recommended to first obtain a French diploma through apprenticeships or studying abroad to increase your opportunities.
+
+**Q: What are the career advancement paths for this occupation?**
+A: You can be promoted to production line leader, process technician, or quality inspector, or through training, shift to roles such as production management or equipment maintenance.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Nonwoven Textiles Machine Operator属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a nonwoven machine operator in France?**
-答：Entry-level: €22,000-€26,000; Mid-level: €26,000-€31,000; Senior: €31,000-€37,000 gross per year, plus shift allowances and bonuses.
-
-**问：How can a third-country national apply for a nonwoven operator job in France?**
-答：Employer must sponsor a 'Salarié' work permit and prove no EU candidate is available. Gaining a French diploma through apprenticeship or study is recommended to improve chances.
-
-**问：What are the career progression paths for this occupation?**
-答：Possible progression to line supervisor, process technician, quality inspector, or via training into production management or equipment maintenance.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,96 @@
-# IT project managers（IT project managers）职业分析 · UK
+# IT project managers — career analysis · United Kingdom
 
-**职业代码：2131 – IT project managers。**
+**Occupation code: 2131 (SOC)**
 
-IT project managers plan, coordinate, and supervise specific IT projects within budget and time constraints, requiring both technical understanding and leadership skills.
+An IT project manager plans, coordinates, and oversees the execution of specific IT projects, ensuring goals are met within budget and timeline, requiring both technical understanding and leadership skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏难（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 学士学位 | 3年 | $9,250~$38,000（英国本地生本科年费约9250英镑，国际生约15000-38000英镑） |
-| 硕士/认证课程 | 1年 | $8,000~$25,000（项目管理硕士或认证课程，如PRINCE2基础/从业者课程） |
+| Bachelor's degree | 3 years | $9,250~$38,000 (Annual tuition fees for UK local undergraduates are approximately £9,250, and for international students approximately £15,000-38,000) |
+| Master's/certificate program | 1 year | $8,000~$25,000 (Master's degree or certification program in project management, such as PRINCE2 Foundation/Practitioner courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| PRINCE2 Practitioner | AXELOS | 可选 | 广泛认可的项目管理方法论认证 |
-| PMP（项目管理专业人士） | PMI | 可选 | 全球认可，要求项目管理经验和教育 |
-| ITIL Foundation | AXELOS | 可选 | IT服务管理基础认证，有助于理解IT运营 |
-| 计算机或相关领域学士学位 | 英国大学 | 必备 | 通常要求至少2:1学位 |
+| Bachelor's degree in computer science or related field | UK universities | Required | Typically requires at least a 2:1 degree |
+| PRINCE2 Practitioner | AXELOS | Optional | Widely recognized project management methodology certification |
+| PMP (Project Management Professional) | PMI | Optional | Globally recognized, requires project management experience and education. |
+| ITIL Foundation | AXELOS | Optional | IT service management foundation certification, helps understand IT operations |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 82,000。随着数字化转型加速，英国IT项目经理需求持续旺盛，尤其在金融科技、医疗IT和公共服务领域。预计未来5年就业增长15%，薪资稳步上升。
+**Job demand: high (★★★★☆).** National workforce approx. 82,000. With the acceleration of digital transformation, demand for IT project managers in the UK remains strong, especially in fintech, health IT, and public services. Employment is expected to grow by 15% over the next 5 years, with steady salary increases.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等偏高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 一般IT项目经理助理或初级职位 |
-| 中级（3-7年） | $45,000~$65,000 | 独立管理中小型项目 |
-| 高级（7年以上） | $65,000~$95,000 | 管理大型复杂项目或多项目组合 |
+| Median salary | $58,373 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $30,000~$45,000 | General IT Project Manager Assistant or junior role |
+| Mid-level (3–7 years) | $45,000~$65,000 | Independently manage small to medium-sized projects |
+| Senior (7+ years) | $65,000~$95,000 | Managing large complex projects or multiple project portfolios |
+| average salary | $61,787 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级可从中级项目经理或技术负责人起步，积累经验后晋升为高级项目经理、项目总监，或转向项目管理办公室（PMO）负责人。持有PMP或PRINCE2认证有助于加速晋升。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+IT project managers face AI-driven task automation (e.g., report generation, progress tracking), but core cross-team coordination, risk management and client communication still require human judgment, presenting a mixed outlook.
+
+Junior roles can start as mid-level project manager or technical lead, progressing to senior project manager, project director, or moving to PMO head. Holding PMP or PRINCE2 certification can accelerate advancement.
+
+**Tasks most exposed to AI:**
+
+- Generate milestone reports and status updates
+- Automatic task assignment and progress tracking
+- Initial maintenance and early warning of the risk register
+- Compile meeting minutes and action items
+- Automated calculation and adjustment of resource load
+
+**Where AI augments the role:**
+
+- Use AI to predict risks and cost overruns
+- Query project databases using natural language to gain insights
+- AI-assisted generation of project presentation and communication materials
+- Automatically analyze historical data to optimize project scheduling
+- AI-driven virtual assistant coordinates multi-team schedules
+
+**Human moat:**
+
+- Cross-team and stakeholder negotiation and persuasion
+- Handling complex conflicts of interest and politically sensitive issues
+- Understanding and translating ambiguous business requirements
+- Team morale management and conflict mediation
+- Accountability for key investment decisions
+
+**Skills to build:**
+
+- Use of AI project management tools (e.g., Jira+AI plugins)
+- Data-driven decision-making and analytical skills
+- Prompt engineering and AI dialogue collaboration
+- Change management and advanced agile methodologies
+- Basic data science and visualisation (e.g., Python, Tableau)
+- AI ethics and governance knowledge
+
+**Key growth areas:**
 
 - Digital Transformation
 - Agile Methodologies
@@ -63,69 +99,68 @@ IT project managers plan, coordinate, and supervise specific IT projects within 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得雇主担保的IT项目经理，需满足薪资门槛（通常不低于£38,700/年） |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业雇佣的IT项目经理，首2年需担保，之后可自由换工作 |
-| Subclass Global Talent（Global Talent visa） | 适用于在数字技术领域有杰出成就或潜力的IT项目经理，无需雇主担保 |
-| Subclass Graduate（Graduate visa） | 英国高校毕业生可申请，允许在英国工作2年（博士3年），积累经验后转工签 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable for IT project managers with employer sponsorship, must meet salary threshold (usually no less than £38,700/year) |
+| Subclass Scale-up (Scale-up visa) | Suitable for IT project managers hired by high-growth companies; requires sponsorship for the first 2 years, then free to change jobs |
+| Subclass Global Talent (Global Talent visa) | Ideal for IT project managers with outstanding achievements or potential in digital technology, no employer sponsorship required. |
+| Subclass Graduate (Graduate visa) | Graduates from UK universities can apply, allowing work in the UK for 2 years (PhD 3 years), then switch to a work visa after gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学IT project managers？**
-- 具备优秀沟通和领导能力，能协调跨部门团队
-- 喜欢规划和控制项目进度，对预算敏感
-- 有技术背景并愿意持续学习最新IT趋势
-
-**谁不适合学IT project managers？**
-- 不喜欢与人打交道，偏好独立技术工作
-- 无法承受高压和多任务并行
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Excellent communication and leadership skills, able to coordinate cross-department teams.
+- Enjoys planning and controlling project schedules, sensitive to budget
+- Has technical background and willing to continuously learn latest IT trends
+
+**Who is not suited**
+- Dislikes interacting with people, prefers independent technical work
+- Unable to handle high pressure and multitasking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for IT project managers in London?**
+A: Salaries in London are typically 10-20% higher than in the rest of the UK; mid-level ranges from £50,000-£75,000, senior can exceed £90,000.
+
+**Q: How can overseas IT project managers immigrate to the UK?**
+A: The most common is the Skilled Worker visa, which requires a job offer with sponsorship from an employer. Occupation code 2131 is on the eligible list, and salary must meet the threshold. Alternatively, you can try the Global Talent visa (requires demonstrating exceptional ability).
+
+**Q: What key skills does an IT project manager need?**
+A: Key skills include: project management methodologies (PRINCE2/Agile), leadership, risk and budget management, technical understanding (e.g., cloud, software development processes), communication, and stakeholder management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等偏难（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等偏高（★★★½☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-IT project managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for IT project managers in London?**
-答：Salaries in London are typically 10-20% higher than elsewhere, with mid-level earning £50,000-£75,000 and senior roles over £90,000.
-
-**问：How can an overseas IT project manager immigrate to the UK?**
-答：The most common route is the Skilled Worker visa, requiring employer sponsorship; SOC code 2131 is eligible. Alternatively, the Global Talent visa is for those with exceptional ability.
-
-**问：What key skills are needed for an IT project manager?**
-答：Key skills include project management methodologies (PRINCE2/Agile), leadership, risk and budget management, technical understanding (e.g., cloud, software development), and communication.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

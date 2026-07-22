@@ -1,60 +1,96 @@
-# Quantity surveyors（Quantity surveyors）职业分析 · UK
+# Quantity surveyors — career analysis · United Kingdom
 
-**职业代码：2453 – Quantity surveyors。**
+**Occupation code: 2453 (SOC)**
 
-Quantity surveyors advise on financial and contractual matters for construction projects, prepare bills of quantities, and support financing and material requirements.
+Quantity surveyors are responsible for financial and contract management of construction projects, preparing bills of quantities, and providing support on materials and financing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3年 | $9,250~$18,500（英国大学学费，国际生更高） |
-| 硕士 | 1年 | $12,000~$25,000（部分课程为转换硕士） |
-| 学徒制 | 4-5年 | —（带薪学习，无学费） |
+| Bachelor's degree | 3 years | $9,250~$18,500 (UK university tuition fees, higher for international students) |
+| Master's degree | 1 year | $12,000~$25,000 (Some courses are conversion master's programs) |
+| Apprenticeship | 4-5 years | $0~$0 (Paid study, no tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 皇家特许测量师学会（RICS）特许资格 | Royal Institution of Chartered Surveyors | 可选 | 行业权威认证，多数雇主要求 |
-| 工料测量学位 | 英国大学 | 必备 | RICS认可的学位可加速认证 |
-| 建筑相关NVQ/SVQ | 英国资格与考试管理局 | 可选 | 部分学徒路径适用 |
+| Quantity surveying degree | UK universities | Required | RICS-accredited degrees can expedite certification |
+| Royal Institution of Chartered Surveyors (RICS) chartered qualification | Royal Institution of Chartered Surveyors | Optional | Industry-recognized certification, required by most employers |
+| Construction-related NVQ/SVQ | Office of Qualifications and Examinations Regulation (Ofqual) | Optional | Some apprenticeship pathways apply |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 38,000。英国基础设施投资持续增长，建筑行业对工料测量师需求稳定，预计未来十年就业岗位增长约5%。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 38,000. UK infrastructure investment continues to grow, with steady demand for quantity surveyors in the construction industry, and employment growth is expected to be about 5% over the next decade.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $26,000~$35,000 | 毕业生起薪约£26,000 |
-| 中级（3-8年） | $35,000~$55,000 | RICS认证后薪资明显提升 |
-| 高级（8年以上） | $55,000~$80,000 | 项目经理或合伙人可达£80,000+ |
+| Median salary | $52,537 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $26,000~$35,000 | Graduate starting salary approximately £26,000 |
+| Mid-level (3–8 years) | $35,000~$55,000 | Salary increases significantly after RICS certification |
+| Senior (8+ years) | $55,000~$80,000 | Project manager or partner can reach £80,000+ |
+| average salary | $59,575 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级工料测量师可通过积累项目经验，考取专业认证（如RICS），晋升为高级测量师、项目经理或合伙人。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Quantity surveyors' work is both augmented by AI (automation of measurement and estimating) and compressed (data entry, document review), but core responsibilities in contracts and legal discretion make them relatively safe in the short term.
+
+Junior quantity surveyors can advance to senior surveyor, project manager or partner by accumulating project experience and obtaining professional certification (e.g. RICS).
+
+**Tasks most exposed to AI:**
+
+- Manual preparation of bills of quantities and measurements
+- Drafting cost estimates based on historical data
+- Document review and matching of standard contract clauses
+- Material price inquiry and comparison report generation
+- Automatic calculation and recording of project changes
+
+**Where AI augments the role:**
+
+- Real-time cost and schedule linkage analysis using BIM+AI
+- Query contract clauses and claim bases via natural language
+- Risk warnings and suggestions based on historical project data
+- Auto-generate compliance reports and financial summaries
+- Augmented reality on-site measurements coordinated with designers and contractors
+
+**Human moat:**
+
+- Contract law interpretation and case application
+- Dispute resolution and negotiation skills
+- Comprehensive assessment of uncertainty and risk in complex projects
+- Cross-disciplinary communication and stakeholder management
+- professional ethics and compliance accountability
+
+**Skills to build:**
+
+- BIM and digital twin modeling tools (e.g., Revit, Navisworks)
+- Python or VBA scripts for automated data processing
+- AI-driven cost estimation and forecasting platform (e.g. ConWize)
+- Contract management and intelligent review software (e.g. ContractPodAI)
+- Agile project management and lean delivery methods
+- Data visualization and analysis (Power BI, Tableau)
+
+**Key growth areas:**
 
 - infrastructure
 - construction
@@ -63,68 +99,67 @@ Quantity surveyors advise on financial and contractual matters for construction 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于被英国雇主担保的工料测量师，满足薪资和技能要求 |
-| Subclass Scale-up（Scale-up visa） | 适用于高增长企业雇佣的测量师，签证灵活 |
-| Subclass Graduate（Graduate visa） | 英国毕业生可留英工作或求职两年 |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to quantity surveyors sponsored by UK employers, meeting salary and skill requirements |
+| Subclass Scale-up (Scale-up visa) | For surveyors employed by high-growth enterprises, visa flexible |
+| Subclass Graduate (Graduate visa) | UK graduates can stay and work or job hunt for two years. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Quantity surveyors？**
-- 喜欢数字和分析，注重细节的人
-- 对建筑和基础设施项目感兴趣，愿意在工程环境中工作
-- 具备良好沟通和谈判能力，希望从事高薪职业
-
-**谁不适合学Quantity surveyors？**
-- 不喜欢频繁外出或驻场工作
-- 对财务和合同管理缺乏兴趣
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy numbers and analysis, and are detail-oriented
+- Interested in building and infrastructure projects, willing to work in an engineering environment
+- Strong communication and negotiation skills, seeking high-paying career
+
+**Who is not suited**
+- Dislike frequent travel or on-site work
+- Lack of interest in financial and contract management.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a quantity surveyor?**
+A: Junior around £26,000-£35,000, mid-level £35,000-£55,000, senior up to £80,000+.
+
+**Q: Can a quantity surveyor immigrate to the UK through a work visa?**
+A: Yes, quantity surveyors are on the Skilled Worker visa occupation list and require employer sponsorship.
+
+**Q: What certifications are required to become a quantity surveyor?**
+A: Usually requires RICS accreditation or a relevant degree; some roles accept apprenticeship pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Quantity surveyors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for quantity surveyors?**
-答：Entry-level: £26,000-£35,000; Mid-level: £35,000-£55,000; Senior: £55,000-£80,000+.
-
-**问：Can quantity surveyors immigrate to the UK via work visa?**
-答：Yes, quantity surveyors are eligible for the Skilled Worker visa with employer sponsorship.
-
-**问：What certifications are required to become a quantity surveyor?**
-答：Typically RICS chartered status or a relevant degree; some roles accept apprenticeship routes.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

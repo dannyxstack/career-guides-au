@@ -1,60 +1,93 @@
-# Cardiovascular Technologists and Technicians（Cardiovascular Technologists and Technicians）职业分析 · 美国
+# Cardiovascular Technologists and Technicians — career analysis · United States
 
-**职业代码：29-2031 – Cardiovascular Technologists and Technicians。**
+**Occupation code: 29-2031 (SOC)**
 
-Conduct tests on cardiovascular systems for diagnostic purposes; assist in cardiac catheterizations, EKGs, and related procedures.
+Perform diagnostic tests of the cardiovascular system, assist in cardiac catheterization, ECG, etc., providing diagnostic and therapeutic support to patients.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费区间） |
-| 证书课程 | 1年 | $5,000~$15,000（职业培训项目） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition range) |
+| Certificate course | 1 year | $5,000~$15,000 (Vocational training programs) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 心血管技师认证 | 心血管认证国际（CCI） | 可选 | 常见认证包括RCIS、RCS等 |
-| 基本生命支持（BLS） | 美国心脏协会 | 必备 | 多数雇主要求 |
-| 副学士或学士学位 | 认证教育机构 | 必备 | CAAHEP认证项目优先 |
+| Basic Life Support (BLS) | American Heart Association | Required | Most employers require |
+| Associate degree or bachelor's degree | Accredited educational institution | Required | CAAHEP-accredited programs preferred |
+| Cardiovascular technologist certification | Cardiovascular Credentialing International (CCI) | Optional | Common certifications include RCIS, RCS, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 58,000。美国老龄化人口增加，心血管疾病发病率上升，预计2023-2033年就业增长约10%，远高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 58,000. Due to the aging population in the U.S. and rising cardiovascular disease incidence, employment is projected to grow about 10% from 2023-2033, much faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 诊所或小型医院 |
-| 中级（4-9年） | $55,000~$75,000 | 综合医院 |
-| 高级（10年以上） | $75,000~$95,000 | 大型医疗中心或主管职位 |
+| Median salary | $74,310 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $40,000~$55,000 | Clinic or small hospital |
+| Intermediate (4-9 years) | $55,000~$75,000 | General hospital |
+| Senior (10+ years) | $75,000~$95,000 | Large medical center or supervisor position |
+| average salary | $76,940 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 从初级技师可晋升为高级技师、科室主管，或进一步深造成为心血管超声医师、介入技师等。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance diagnostic image analysis and data integration capabilities, but invasive procedures and clinical decisions still rely on human technicians; entry-level positions may shrink due to automated standardized reports.
+
+From junior technician, can advance to senior technician, department supervisor, or further study to become a cardiovascular sonographer, interventional technician, etc.
+
+**Tasks most exposed to AI:**
+
+- Routine electrocardiogram (ECG) waveform recognition and preliminary reporting
+- Automatic annotation and measurement of known lesions in ultrasound images
+- Noise filtering and baseline correction of Holter monitoring data.
+- Template filling and formatting of structured diagnostic reports
+
+**Where AI augments the role:**
+
+- AI-assisted real-time 3D ultrasound image reconstruction, improving diagnostic accuracy
+- Integrate multimodal data (ECG, MRI, CT) to generate comprehensive analysis.
+- Intelligently recommend personalized examination plans to reduce duplicate scans
+- Real-time alerts for abnormal heart rhythms, assisting emergency decision-making
+
+**Human moat:**
+
+- Operate equipment and manage complications during invasive cardiac catheterization procedures
+- Clinical judgment and empirical adjustments for complex or rare cases
+- Patient reassurance and communication, especially emergency handling during examinations.
+- Communicating clinical insights in cross-departmental collaboration, and taking ultimate technical responsibility
+
+**Skills to build:**
+
+- AI image analysis tool operation and result verification
+- Cardiovascular data science and basic programming (Python)
+- Use of remote patient monitoring and virtual care platforms
+- Cross-modal imaging (ultrasound, CT, MRI) integration interpretation
+- Human-machine collaborative workflow design and optimization
+- Advanced life support and emergency skills (ACLS)
+
+**Key growth areas:**
 
 - Aging population
 - Cardiovascular disease increase
@@ -63,68 +96,67 @@ Conduct tests on cardiovascular systems for diagnostic purposes; assist in cardi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 需学士学位，雇主赞助，年度配额抽签 |
-| Subclass EB-3（EB-3 Skilled Workers） | 职业移民绿卡，需PERM劳工证，排期较长 |
-| Subclass TN（TN NAFTA Professional） | 适用于加拿大或墨西哥公民，需相关专业学历 |
+| Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, employer sponsorship, and annual quota lottery |
+| Subclass EB-3 (EB-3 Skilled Workers) | Employment-based green card, requires PERM labor certification, long waiting period. |
+| Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens, requires relevant professional degree |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cardiovascular Technologists and Technicians？**
-- 对心血管医学有浓厚兴趣者
-- 注重细节且动手能力强的人
-- 能适应快节奏医疗环境者
-
-**谁不适合学Cardiovascular Technologists and Technicians？**
-- 不适应直接接触患者体液或血液者
-- 无法承受长时间站立或紧急加班者
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in cardiovascular medicine
+- Detail-oriented and hands-on individuals
+- Able to adapt to a fast-paced healthcare environment
+
+**Who is not suited**
+- those uncomfortable with direct contact with patient bodily fluids or blood
+- Those who cannot tolerate prolonged standing or emergency overtime
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for cardiovascular technicians?**
+A: Median annual salary approximately USD 60,000, entry-level USD 40,000-55,000, senior up to USD 95,000.
+
+**Q: How can international students immigrate to the US for this occupation?**
+A: Common path: F-1 graduate OPT work, apply for H-1B visa, employer sponsors EB-3 green card. Requires associate degree or higher.
+
+**Q: Is certification required to work?**
+A: Most employers prefer CCI certification (e.g., RCIS), some states require licensure, but not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Cardiovascular Technologists and Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for cardiovascular technologists?**
-答：Median annual wage around $60,000; entry-level $40,000-$55,000; experienced up to $95,000.
-
-**问：How can international students immigrate to the US for this occupation?**
-答：Typical path: F-1 OPT, then H-1B visa, employer-sponsored EB-3 green card. Requires associate degree or higher.
-
-**问：Is certification required to work?**
-答：Most employers prefer CCI certification (e.g., RCIS); some states require licensure, but not mandatory.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,95 @@
-# Mathematician, Actuary and Statistician（Mathematician, Actuary and Statistician）职业分析 · IE
+# Mathematician, Actuary and Statistician — career analysis · Ireland
 
-**职业代码：2120 – Mathematician, Actuary and Statistician。**
+**Occupation code: 2120 (ISCO08)**
 
-In Ireland, this role encompasses mathematics, statistics, and actuarial science, applied across finance, insurance, tech, and government. Professionals analyze data, assess risk, and support business and policy decisions.
+In Ireland, this occupation covers mathematics, statistics, and actuarial fields, widely used in finance, insurance, technology, and government. Practitioners analyze data and assess risk to support business and public policy decisions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $12,000~$25,000（欧盟学生学费较低，非欧盟学生约€15,000-25,000/年） |
-| 硕士 | 1-2年 | $15,000~$30,000（非欧盟学生约€15,000-30,000/年） |
+| Bachelor's degree | 4 years | $12,000~$25,000 (EU students pay lower tuition fees; non-EU students approximately €15,000-25,000/year) |
+| Master's degree | 1-2 years | $15,000~$30,000 (Non-EU students approximately €15,000-30,000/year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 精算师资格认证 | 爱尔兰精算学会 | 必备 | 需通过系列考试，通常需3-5年 |
-| 特许统计学家 | 皇家统计学会 | 可选 | 专业认证，提升就业竞争力 |
-| CFA证书 | CFA协会 | 可选 | 金融领域加分项 |
+| Actuary certification | Irish Institute of Actuaries | Required | Requires passing a series of exams, typically taking 3-5 years |
+| Chartered Statistician | Royal Statistical Society | Optional | Professional certification to enhance employment competitiveness |
+| CFA certificate | CFA Institute | Optional | Key advantage in the finance sector |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。爱尔兰对数据驱动决策的需求持续增长，尤其在金融科技和保险领域。预计未来五年就业岗位将增长10-15%，远高于平均水平。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. Demand for data-driven decision-making continues to grow in Ireland, especially in fintech and insurance. Employment is expected to grow 10-15% over the next five years, well above average.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 多为数据分析师或精算分析员 |
-| 中级（3-7年） | $55,000~$80,000 | 独立负责项目或团队管理 |
-| 高级（7年以上） | $90,000~$130,000 | 首席精算师、部门负责人等 |
+| Median salary | $67,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $35,000~$50,000 | Mostly data analysts or actuarial analysts |
+| Mid-level (3–7 years) | $55,000~$80,000 | Independently manage projects or teams |
+| Senior (7+ years) | $90,000~$130,000 | Chief Actuary, Department Head, etc. |
+| average salary | $73,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业路径从初级分析师起步，逐步晋升为高级分析师、团队负责人或首席精算师/首席统计学家。也可转向数据科学或风险管理等专业方向。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
+
+Career path starts from junior analyst, progressing to senior analyst, team leader, or chief actuary/chief statistician. Also possible to transition to data science or risk management.
+
+**Tasks most exposed to AI:**
+
+- Standard statistical model running and parameter tuning.
+- Routine data cleaning and basic report generation
+- Simple risk probability calculation and reserve estimation
+- Routine forecasting and updating of economic indicators
+- Basic regression analysis and hypothesis testing
+
+**Where AI augments the role:**
+
+- Identifies complex risk factors and non-linear relationships using machine learning models.
+- Analyze economic policy texts and market sentiment via natural language processing
+- Uses AI to simulate large-scale economic scenarios and stress tests.
+- Automated data exploration and visualization to quickly uncover insights
+- Using AI-assisted validation of model assumptions and result robustness
+
+**Human moat:**
+
+- Deep understanding and critical thinking of model assumptions and limitations
+- Ability to communicate complex risk models to non-technical management
+- Making Professional Judgments Under Uncertainty and Sparse Data
+- Ultimate responsibility for ethical duties and regulatory compliance
+- Cross-disciplinary integration of economic, financial, and behavioral science insights
+
+**Skills to build:**
+
+- Python/R machine learning and deep learning
+- Causal inference and experimental design
+- Explainable AI and model auditability
+- Natural language processing and economic text analysis
+- Big data distributed computing (Spark, etc.)
+- Business communication and data storytelling
+
+**Key growth areas:**
 
 - Fintech
 - Insurance
@@ -62,68 +98,67 @@ In Ireland, this role encompasses mathematics, statistics, and actuarial science
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于年薪≥€32,000且职业在紧缺列表上，可快速申请永居 |
-| Subclass General Employment P（General Employment Permit） | 适用于年薪≥€30,000，需劳动力市场测试，居留5年后可申请永居 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪≥€64,763（2024年），更灵活，家庭可随行 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for annual salary ≥ €32,000 and occupation on shortage list, enabling fast-track permanent residence |
+| Subclass General Employment P (General Employment Permit) | Applies to annual salary ≥ €30,000, requires labor market test, and eligible for permanent residence after 5 years |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for annual salary ≥€64,763 (2024), more flexible, family can accompany |
 
-**PR难度：较低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Mathematician, Actuary and Statistician？**
-- 擅长数学和逻辑分析，喜欢解决复杂问题的人
-- 有耐心通过长期考试获取专业认证的人
-- 希望在金融、保险或科技领域发展的留学生
-
-**谁不适合学Mathematician, Actuary and Statistician？**
-- 不喜欢数字和数据分析、更偏好创意工作的人
-- 无法接受长时间备考压力的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those good at math and logical analysis, who enjoy solving complex problems
+- Patient individuals willing to obtain professional certification through long-term exams
+- International students aiming to develop careers in finance, insurance, or technology
+
+**Who is not suited**
+- People who dislike numbers and data analysis and prefer creative work
+- Those who cannot endure long-term exam preparation pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an actuary in Ireland?**
+A: Junior actuary annual salary approx. €35,000-50,000; with experience can reach €90,000+; chief actuary can exceed €130,000.
+
+**Q: As a non-EU citizen, how can I immigrate to Ireland through this occupation?**
+A: Can apply directly via the Critical Skills Employment Permit (shortage occupation) with minimum annual salary of €32,000; eligible for permanent residency after 2 years.
+
+**Q: Are mathematicians/actuaries/statisticians in demand in Ireland?**
+A: Yes, actuaries and statisticians are on Ireland's Critical Skills Occupation List, which are high-demand occupations.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较高（★★★★☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
-
-Mathematician, Actuary and Statistician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for actuaries in Ireland?**
-答：Entry-level actuaries earn around €35,000-50,000, experienced ones can reach €90,000+, and chief actuaries can exceed €130,000.
-
-**问：How can non-EU citizens immigrate to Ireland through this occupation?**
-答：Apply for a Critical Skills Employment Permit (shortage occupation) with salary ≥€32,000, eligible for permanent residency after 2 years.
-
-**问：Are mathematicians/actuaries/statisticians in shortage in Ireland?**
-答：Yes, actuaries and statisticians are on Ireland's Critical Skills Occupation List, indicating high demand.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

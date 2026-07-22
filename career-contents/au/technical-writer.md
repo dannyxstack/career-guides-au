@@ -1,58 +1,94 @@
-# Technical Writer（Technical Writer）职业分析 · 澳大利亚
+# Technical Writer — career analysis · Australia
 
-**职业代码：212415 – Technical Writer。**
+**Occupation code: 212415 (ANZSCO)**
 
-Technical Writers create technical documents such as user manuals, operational guides, and maintenance instructions, translating complex technical information into clear and understandable content.
+A technical writer is responsible for creating technical documents such as user manuals, operating guides, and maintenance instructions, translating complex technical information into clear and understandable content.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$60,000（英语、传媒或技术相关专业） |
-| 研究生证书/文凭 | 1年 | $15,000~$30,000（技术写作或编辑方向） |
+| Bachelor's degree | 3 years | $30,000~$60,000 (Degree in English, media/communications, or technology) |
+| Graduate certificate/diploma | 1 year | $15,000~$30,000 (Technical writing or editing direction) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 澳洲技术移民技能评估 | VETASSESS | 必备 | 需相关学历及工作经验 |
-| 英语水平证明 | 雅思/PTE | 可选 | 移民要求雅思6.0-7.0 |
+| Australian Skills Assessment for Skilled Migration | VETASSESS | Required | Requires relevant qualifications and work experience |
+| English proficiency certificate | IELTS/PTE | Optional | Immigration requires IELTS 6.0-7.0 |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,000。随着科技行业持续扩张，对高质量技术文档的需求稳定增长。预计未来五年就业增长强劲，尤其在软件开发、工程和医疗设备领域。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,000. As the tech industry continues to expand, demand for high-quality technical documentation is growing steadily. Strong employment growth is expected over the next five years, especially in software development, engineering, and medical devices.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-2年） | $55,000~$75,000 | 起薪约5.5万-7.5万澳元 |
-| 中级（3-5年） | $75,000~$100,000 | 平均8万-10万澳元 |
-| 高级（5年以上） | $100,000~$130,000 | 资深职位可达13万澳元以上 |
+| Median salary | $89,544 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–2 years) | $55,000~$75,000 | Starting salary about 55,000-75,000 AUD |
+| Mid-level (3–5 years) | $75,000~$100,000 | Average A$80,000-100,000 |
+| Senior (5+ years) | $100,000~$130,000 | Senior roles can reach over AUD 130,000 |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 初级技术撰稿人可晋升为高级撰稿人、文档经理或技术沟通专家。也可转向内容策略、用户体验写作或技术培训等方向。
-**AI替代风险：中高（★★★☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
+
+Junior technical writers can advance to senior writer, documentation manager, or technical communication specialist. They can also transition into content strategy, UX writing, or technical training.
+
+**Tasks most exposed to AI:**
+
+- Draft generation for standardized product manuals
+- Formatting and publishing simple technical documents
+- Basic terminology explanation and FAQ writing
+- Basic proofreading of machine-translated multilingual documents.
+- Updating maintenance operation guides repeatedly
+
+**Where AI augments the role:**
+
+- Use AI assistance to quickly gather technical information and generate document drafts
+- Use natural language processing tools to automatically check document consistency and accuracy
+- Analyzing user feedback through AI to optimize document structure and content
+- Use AI to generate interactive help systems and personalized guides
+- Manage document versions and cross-department collaboration with automation tools
+
+**Human moat:**
+
+- Deep understanding of complex technical products and user needs analysis
+- Write strategically valuable white papers and solutions
+- Cross-team communication coordination and stakeholder management
+- Advanced review and quality control of AI-generated content
+- Creative content planning and knowledge system design
+
+**Skills to build:**
+
+- Proficient in using AI-assisted writing tools (e.g., GPT API, Grammarly)
+- Proficient in structured writing and content management systems (e.g., DITA, XML)
+- Learn information architecture and user experience design fundamentals
+- Enhance domain expertise (e.g., software, medical devices)
+- Develop skills in data analysis and user feedback handling
+- Enhance project management and cross-team collaboration skills
+
+**Key growth areas:**
 
 - Digital Transformation
 - Software Development
@@ -61,69 +97,68 @@ Technical Writers create technical documents such as user manuals, operational g
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 189（Skilled Independent visa） | 独立技术移民签证，需职业在中长期职业清单上并通过打分测试。 |
-| Subclass 190（Skilled Nominated visa） | 州担保技术移民签证，需获得州政府担保，额外加分。 |
-| Subclass 482（Temporary Skill Shortage visa） | 临时技术短缺签证，需雇主担保，后可转186永居。 |
-| Subclass 491（Skilled Work Regional visa） | 偏远地区技术工作签证，属于临时签证，满足条件后可转191永居。 |
+| Subclass 189 (Skilled Independent visa) | Skilled Independent visa requires the occupation to be on the Medium and Long-term Strategic Skills List and pass a points test. |
+| Subclass 190 (Skilled Nominated visa) | Skilled nominated visa, requires state or territory nomination, with additional points. |
+| Subclass 482 (Temporary Skill Shortage visa) | Temporary Skill Shortage visa, requires employer sponsorship, then eligible for 186 permanent residence. |
+| Subclass 491 (Skilled Work Regional visa) | Regional skilled work visa, a temporary visa that can lead to permanent 191 visa after meeting conditions. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Technical Writer？**
-- 擅长写作和沟通，能将复杂技术概念转化为简单语言的人
-- 具备一定的技术理解力和快速学习能力
-- 注重细节，有条理性，喜欢独立工作
-
-**谁不适合学Technical Writer？**
-- 对写作和编辑缺乏耐心和兴趣的人
-- 不喜欢与工程师和主题专家沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People skilled in writing and communication, able to translate complex technical concepts into simple language
+- Possess a certain level of technical understanding and quick learning ability
+- Detail-oriented, organized, and prefer to work independently
+
+**Who is not suited**
+- People lacking patience and interest in writing and editing
+- People who dislike communicating with engineers and subject matter experts
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of a technical writer in Australia?**
+A: Based on experience level: entry-level technical writer approx. AUD 55,000–75,000/year, mid-level AUD 75,000–100,000/year, senior AUD 100,000–130,000/year.
+
+**Q: How can a technical writer migrate to Australia?**
+A: Can apply through 189 Skilled Independent visa (needs 65+ points), 190 State Nominated, 482 Employer Sponsored, or 491 Regional visa, requiring VETASSESS skills assessment and meeting English requirements.
+
+**Q: What are the career development directions for technical writers?**
+A: Can advance to senior writer, documentation manager, technical communication manager, or transition to UX writing, content strategy, technical training, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Technical Writer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a Technical Writer in Australia?**
-答：Entry-level Technical Writers earn AUD 55,000-75,000 per year, mid-level AUD 75,000-100,000, and senior AUD 100,000-130,000.
-
-**问：How can a Technical Writer immigrate to Australia?**
-答：Options include Skilled Independent visa (subclass 189), State Nominated visa (190), Temporary Skill Shortage visa (482), or Skilled Work Regional visa (491). Requires a positive skill assessment from VETASSESS and English proficiency.
-
-**问：What are the career progression opportunities for Technical Writers?**
-答：Progression includes Senior Technical Writer, Documentation Manager, or Technical Communication Manager, or pivot to UX writing, content strategy, or technical training.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

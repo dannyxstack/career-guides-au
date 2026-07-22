@@ -1,60 +1,95 @@
-# Food Service Employee（Food Service Employee）职业分析 · FR
+# Food Service Employee — career analysis · France
 
-**职业代码：G1803 – Food Service Employee。**
+**Occupation code: G1803 (ROME)**
 
-Food service employees greet customers, take orders, serve food and drinks, and clean tables in restaurants, cafes, and similar establishments to ensure a pleasant dining experience.
+Food service staff are responsible for greeting customers, ordering food, serving food, and clearing tables in restaurants, cafes, and other venues to ensure customers have a satisfying dining experience.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP 餐饮服务 | 2年（CAP） | —（公立学校免费，学徒制有收入） |
-| BTS 酒店餐饮管理 | 2年（BTS） | —（公立学校低学费，私立较高） |
+| CAP Catering Services | 2 years (CAP) | $0~$1,000 (Public schools are free, and apprenticeships are paid off) |
+| BTS Hotel Food and Beverage Management | 2 Years (BTS) | $0~$2,000 (Public schools have lower tuition fees, while private ones offer higher fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP 餐饮服务 | 法国教育部 | 可选 | 入门级职业文凭，非强制但常见 |
-| 卫生培训证书 | 法国劳动部 | 必备 | 从事餐饮必须接受的食品安全培训 |
+| Health training certificate | French Ministry of Labor | Required | Food safety training required for those engaged in catering |
+| CAP Catering Services | French Ministry of Education | Optional | Entry-level vocational diplomas, not mandatory but common |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 600,000。法国餐饮业持续发展，尤其旅游热点城市需求稳定。该职位流动性大，入门门槛低，但长期从业者较少，有经验的员工更受雇主欢迎。
+**Job demand: high (★★★★☆).** National workforce approx. 600,000. The French catering industry continues to develop, with stable demand especially in popular tourist cities. This position has high turnover and low entry barriers, but there are fewer long-term employees, and experienced employees are more favored by employers.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $21,000~$24,000 | SMIC 起点，小费另计 |
-| 中级（3-7年） | $24,000~$28,000 | 含经验加成和小费 |
-| 高级（7年以上/主管） | $28,000~$35,000 | 领班或主管级别 |
+| Median salary | $26,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $21,000~$24,000 | SMIC starts at the start, tips are charged separately |
+| Mid-level (3–7 years) | $24,000~$28,000 | Includes experience bonuses and tips |
+| Senior (7+ years/supervisor) | $28,000~$35,000 | Supervisor or supervisor level |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级服务人员晋升为领班、餐厅主管，进而向餐厅经理发展。也可通过培训转向高级餐饮服务（如侍酒师、宴会服务）。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The tasks of food service staff are mixed: data-driven tasks like ordering and reservations are easily replaced by AI, but face-to-face customer interactions (such as personalized recommendations and complaint response) and delicate physical operations (such as tray service) remain human moats. The entry barrier is slightly higher, and you need to master basic numerical tools.
+
+You can be promoted from junior service staff to team leader or restaurant supervisor, and then develop into restaurant manager. You can also transition to high-end catering services (such as sommeliers and banquet services) through training.
+
+**Tasks most exposed to AI:**
+
+- Customer orders and payments are processed via AI voice or self-service terminals
+- The automated scheduling system optimizes employee scheduling based on passenger flow forecasts
+- Automatic purchase order generation based on historical data and inventory
+- AI-driven customer satisfaction surveys and basic complaint classification
+- Robots or conveyor belts for delivering standardized dishes in kitchens and dining tables
+
+**Where AI augments the role:**
+
+- AI real-time translation devices assist seamless communication with multilingual customers
+- The AI recommendation system personalizes dishes based on customer preferences and allergens
+- The AI loyalty management platform analyzes customer consumption patterns to increase repurchase rates
+- AI inventory forecasting systems reduce food waste and ensure ample stocking
+- AR or VR training simulators accelerate learning about the new employee service process
+
+**Human moat:**
+
+- Immediate judgment and emotional comfort in emergencies (such as spilled food or sudden customer illness).
+- Reading people's expressions, providing customized and personalized services in non-standardized scenarios
+- Handling complex complaints: coordinate kitchen, manager, and customers to achieve multi-party satisfaction
+- Delicate manual operations: high-difficulty pallet balancing and tableside performances (such as steak cutting)
+- Team collaboration and seamless coordination: silent cooperation during peak hours, visual signal communication
+
+**Skills to build:**
+
+- Basic Data Analysis: Understand sales reports and optimize service processes
+- Customer Service Emotional Intelligence and Interpersonal Communication Skills (especially in high-pressure situations)
+- Basic POS and mobile payment system operation capabilities
+- Multilingual basic conversation (especially important in tourist areas)
+- AI tool usage: For example, ChatGPT assists in writing menu descriptions and responding to reviews
+- Food safety and allergen management knowledge
+
+**Key growth areas:**
 
 - seasonal demand
 - tourism
@@ -63,65 +98,67 @@ Food service employees greet customers, take orders, serve food and drinks, and 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Salarié (Employee)） | 需要法国雇主提供工作合同，通常需证明本地无法填补。 |
-| Subclass Recherche emploi（Recherche d'emploi (Job Search)） | 毕业后可申请居留寻找工作，但餐饮服务非高技能岗位。 |
+| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer is required, usually proving that the local applicant cannot fill the contract. |
+| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for residency and look for work, but catering service is not a high-skilled position. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Food Service Employee？**
-- 喜欢与人打交道，服务意识强
-- 能适应快节奏和晚班工作
-- 希望在旅游业或餐饮业积累经验
+**Who is suited**
+- Enjoys interacting with people, strong service orientation
+- Able to adapt to fast-paced and late-shift work
+- Those who wish to gain experience in tourism or the food service industry
 
-**谁不适合学Food Service Employee？**
-- 不喜站立工作或高强度体力劳动
-- 寻求高薪或稳定办公室职业
+**Who is not suited**
+- Dislikes standing or high-intensity physical labor
+- Seek high-paying or stable office jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for food service staff?**
+A: The entry-level annual salary is about 21,000-24,000 euros (before tax), with tips available for an increase. Senior executives can earn up to 35,000 euros.
+
+**Q: Is it easy for foreigners to immigrate to France through food service positions?**
+A: It is more difficult because the position is not a high-skilled, scarce occupation, and employers must prove that local recruitment is not available. Usually only those holding French diplomas or spouse visas.
+
+**Q: Does this occupation have promotion opportunities?**
+A: Yes, you can rise from waiter to team leader, restaurant supervisor, or even restaurant manager. You can also switch to professional positions such as sommelier.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Food Service Employee属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a food service employee?**
-答：Entry-level annual salary is around €21,000-€24,000 gross, plus tips. Senior supervisors can earn up to €35,000.
-
-**问：Is it easy for foreigners to immigrate to France through food service jobs?**
-答：It is difficult as it is not a skilled shortage occupation. Employers must prove no local candidate is available, often limited to those with French diplomas or family visas.
-
-**问：Are there career advancement opportunities?**
-答：Yes, from server to head waiter, restaurant supervisor, or manager. You can also specialize as a sommelier.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

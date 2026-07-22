@@ -1,61 +1,97 @@
-# Paramedical occupations（Paramedical occupations）职业分析 · 加拿大
+# Paramedical occupations — career analysis · Canada
 
-**职业代码：32102 – Paramedical occupations。**
+**Occupation code: 32102 (NOC)**
 
-In Canada, paramedics provide emergency medical care, patient transport, and on-site management, regulated provincially. This occupation is in demand and eligible for immigration via PNP or Express Entry.
+In Canada, paramedics provide emergency medical care, patient transport, and on-site management; it is a regulated medical profession. This occupation is on shortage lists and eligible for immigration via PNP or Express Entry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 专科文凭（Paramedic Diploma） | 2年 | $15,000~$30,000（公立学院学费） |
-| 本科学位（Paramedicine Bachelor） | 4年 | $40,000~$80,000（大学学费，部分省份有减免） |
-| 硕士（如临床/管理） | 2年 | $20,000~$50,000（用于管理人员） |
+| Diploma (Paramedic Diploma) | 2 years | $15,000~$30,000 (Public college tuition fees) |
+| Bachelor's degree (Paramedicine Bachelor) | 4 years | $40,000~$80,000 (University tuition fees, with partial waivers in some provinces) |
+| Master's degree (e.g., clinical/management) | 2 years | $20,000~$50,000 (For management personnel) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 急诊医师资格认证 | 各省卫生厅/监管机构 | 必备 | 必须完成认证考试和实习 |
-| 加拿大急诊医师能力考试 | 国家认证机构 | 必备 | 适用于外籍培训者 |
-| 语言考试（IELTS/TEF） | 雅思/法语联盟 | 必备 | 移民和职业认证需要 |
-| 本科学位（可选） | 受认可大学 | 可选 | 增强竞争力 |
+| Emergency physician certification. | Provincial health departments/regulatory bodies | Required | Must complete certification exam and internship. |
+| Canadian Emergency Physician Competency Examination | National accreditation body | Required | Applicable to foreign trainees |
+| Language test (IELTS/TEF) | IELTS/Alliance Française | Required | Immigration and professional certification requirements |
+| Bachelor's degree (optional) | Recognised university | Optional | Enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 35,000。加拿大老龄化及医疗需求增长使急救人员持续紧缺。就业前景良好，预计未来十年岗位增长率高于平均水平，尤其在农村和偏远地区需求更大。
+**Job demand: high (★★★★☆).** National workforce approx. 35,000. Canada's aging population and growing healthcare needs cause ongoing demand for paramedics. Job outlook is positive, with above-average growth over the next decade, especially in rural and remote areas.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 各城市差异大，大城市偏高 |
-| 中级（3-7年） | $60,000~$80,000 | 含加班和夜班补贴 |
-| 高级（7年以上/ACP） | $80,000~$110,000 | 包括主管和治疗师岗位 |
+| Median salary | $79,040 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $45,000~$60,000 | Varies greatly by city, higher in large cities |
+| Mid-level (3–7 years) | $60,000~$80,000 | Includes overtime and night shift allowances |
+| Advanced (7+ years / ACP) | $80,000~$110,000 | Includes supervisor and therapist positions |
+| average salary | $76,960 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：优秀（★★★★½）。** 初级急救员（PCP）可进阶至高级急救员（ACP）或重症监护急救员（CCP），进而成为主管、教育官员或进入医疗管理岗位。省与地区间有一定流动性。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on paramedic tasks is mixed: it enhances efficiency in dispatch, documentation, and image analysis, but core tasks like clinical assessment, emergency response, and patient communication are hard to automate, making overall risk moderate.
+
+Primary Care Paramedic (PCP) can advance to Advanced Care Paramedic (ACP) or Critical Care Paramedic (CCP), then to supervisor, educator, or healthcare management. Some mobility between provinces and territories.
+
+**Tasks most exposed to AI:**
+
+- Emergency dispatch and assignment (AI optimizes vehicle and personnel allocation)
+- Automatic recording and transmission of patient vital sign data
+- AI-assisted preliminary image reading for basic imaging (e.g., X-rays)
+- Automation of inventory management and equipment maintenance reminders
+- Automated processing of some administrative documents (e.g., report generation)
+
+**Where AI augments the role:**
+
+- Real-time AI-assisted diagnostic suggestions (e.g., ECG interpretation)
+- AI-driven scenario simulation training and skill assessment.
+- Augmented reality (AR) guidance for complex on-site operations
+- Intelligent retrieval and decision support for patient electronic health records
+- Remote expert AI-assisted collaborative consultation
+
+**Human moat:**
+
+- On-site rapid clinical judgment and triage ability
+- Manual first aid operation skills in unpredictable environments
+- Emotional communication and comforting skills with patients and families
+- Responsibility for adhering to medical regulations and ethics
+- Team collaboration and leadership in emergencies
+
+**Skills to build:**
+
+- Use and validation of AI-assisted diagnostic tools
+- Telemedicine and digital health record management
+- Basic data analysis and information technology literacy
+- Cross-disciplinary team collaboration and communication
+- Ability to continuously learn new technologies
+- Advanced Cardiac Life Support (ACLS) and trauma management
+
+**Key growth areas:**
 
 - Healthcare shortage
 - Rural demand
@@ -64,65 +100,64 @@ In Canada, paramedics provide emergency medical care, patient transport, and on-
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 众多省份将急救人员列为优先职业，如安省、BC省、阿尔伯塔省，有雇主担保可快速提名。 |
-| Subclass EE（Express Entry） | 若符合FSW或CEC条件，可获省提名加600分，或凭高CRS直接邀请。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省项目，雇主担保，门槛较低。 |
+| Subclass PNP (Provincial Nominee Program) | Many provinces list emergency personnel as priority occupations, e.g., Ontario, BC, Alberta; employer sponsorship can lead to fast nomination. |
+| Subclass EE (Express Entry) | If eligible for FSW or CEC, can get 600 points through provincial nomination, or receive direct invitation with high CRS. |
+| Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored, lower threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paramedical occupations？**
-- 具有快速决策能力、抗压能力强的人
-- 希望在加拿大获得稳定高需求职业并移民的医疗人员
-- 愿意在偏远或乡村地区工作以获得更快机会的人
-
-**谁不适合学Paramedical occupations？**
-- 无法适应轮班、高强度体力工作和精神压力的人
-- 不愿意重新认证或接受额外教育的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with quick decision-making ability and strong stress tolerance
+- Medical professionals seeking stable, high-demand jobs and immigration in Canada.
+- People willing to work in remote or regional areas for faster opportunities
+
+**Who is not suited**
+- Those unable to adapt to shift work, high-intensity physical labor, and mental stress
+- Unwilling to re-certify or undergo additional education
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of paramedics in Canada?**
+A: Entry-level about 45,000-60,000 CAD, senior up to 110,000 CAD, overtime and remote area allowances are generous.
+
+**Q: How can foreign paramedics immigrate to Canada?**
+A: Main pathways include obtaining a provincial nomination (PNP), Express Entry (EE), or the Atlantic Immigration Program (AIP); require a Canadian employer or provincial invitation.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 优秀（★★★★½） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Paramedical occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for paramedics in Canada?**
-答：Entry-level around CAD 45,000-60,000, senior up to CAD 110,000, with overtime and remote premiums.
-
-**问：How can foreign paramedics immigrate to Canada?**
-答：Main routes include Provincial Nominee Program (PNP), Express Entry (EE), or Atlantic Immigration Program (AIP), requiring a job offer or nomination.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

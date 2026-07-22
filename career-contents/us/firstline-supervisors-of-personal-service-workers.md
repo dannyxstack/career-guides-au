@@ -1,60 +1,94 @@
-# First-Line Supervisors of Personal Service Workers（First-Line Supervisors of Personal Service Workers）职业分析 · 美国
+# First-Line Supervisors of Personal Service Workers — career analysis · United States
 
-**职业代码：39-1022 – First-Line Supervisors of Personal Service Workers。**
+**Occupation code: 39-1022 (SOC)**
 
-Supervise and coordinate activities of personal service workers such as hairstylists, estheticians, and fitness instructors to ensure service quality and customer satisfaction.
+Supervise and coordinate daily activities of personal service workers (e.g., hairdressers, beauticians, fitness trainers) to ensure service quality and customer satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常高中文凭即可，部分雇主要求） |
-| 副学士学位 | 2年 | $10,000~$30,000（可选，但有助于晋升，社区学院费用较低） |
+| High school graduation | 0 years | $0~$0 (High school diploma usually sufficient, some employers require more) |
+| Associate degree | 2 years | $10,000~$30,000 (Optional but helpful for advancement; community college costs are lower) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域工作经验 | 雇主 | 必备 | 通常需要1-5年个人服务经验 |
-| 管理技能培训 | 行业协会 | 可选 | 如沙龙管理课程，非强制但有利 |
+| Experience in related fields | Employer | Required | Typically requires 1-5 years of personal service experience |
+| Management skills training | Industry association | Optional | Such as salon management courses, not mandatory but beneficial |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 126,500。随着健康与美容服务需求持续增长，个人服务主管的就业前景稳定，但竞争激烈。经验丰富的管理者更受欢迎。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 126,500. With continued growth in health and beauty services, the employment outlook for personal service supervisors is stable but competitive. Experienced managers are more in demand.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$40,000 | 小型机构或助理主管 |
-| 中级（3-7年） | $40,000~$55,000 | 中型沙龙或健身中心主管 |
-| 高级（7年以上） | $55,000~$80,000 | 大型连锁店或区域经理 |
+| Median salary | $48,590 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$40,000 | Small institution or assistant supervisor |
+| Mid-level (3–7 years) | $40,000~$55,000 | Medium salon or fitness center supervisor |
+| Senior (7+ years) | $55,000~$80,000 | Large chain stores or regional manager |
+| average salary | $52,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从一线服务人员晋升为主管，再升至区域经理或店长。部分主管可凭借经验转向培训或咨询岗位。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will optimize scheduling, customer management, and simple consultations, but supervisors, handling complex interpersonal interactions, and personalized services still rely on humans, so mixed outcomes.
+
+Can advance from frontline service staff to supervisor, then to regional manager or store manager. Some supervisors can transition to training or consulting roles based on experience.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and shift optimization, replacing manual employee timetables
+- Customer appointment management, reminders, and simple FAQ responses handled by chatbots
+- automated performance data statistics and report generation, replacing manual aggregation
+- Automated monitoring and reminders for standardised service processes
+
+**Where AI augments the role:**
+
+- AI analyzes customer preferences and historical data to assist in providing personalized service recommendations
+- Smart training system recommends customized learning paths for employees to enhance team skills
+- Real-time emotion recognition helps supervisors better handle customer complaints or employee states
+- Digital twin simulation of service scenarios to optimize processes and staffing
+
+**Human moat:**
+
+- Handling sudden customer conflicts and complex complaints, requiring empathy and adaptability
+- team morale building, employee motivation, and informal communication
+- Personalized creative service design (e.g., custom hairstyles, fitness plans)
+- Cross-departmental coordination and emergency decision-making (e.g., equipment failure, employee absence)
+- Building long-term client trust and loyalty
+
+**Skills to build:**
+
+- Basic data analysis and AI tool usage (e.g., Tableau, ChatGPT)
+- Emotional intelligence and conflict management (e.g., nonviolent communication, mediation skills)
+- Creative service design thinking (e.g., personalized program planning)
+- Management of digital tools (e.g., online scheduling systems, customer relationship management)
+- Continuous learning ability (tracking new AI applications in personal services)
+- Leadership and team building (virtual team management)
+
+**Key growth areas:**
 
 - Personal Services
 - Customer Service
@@ -63,66 +97,68 @@ Supervise and coordinate activities of personal service workers such as hairstyl
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 极少申请，因为通常不满足专业职位要求 |
-| Subclass L-1（L-1 Intracompany Transferee） | 跨国公司的内部调动 |
-| Subclass EB-3（EB-3 Skilled Workers） | 需雇主担保，但难度较大 |
+| Subclass H-1B (H-1B Specialty Occupation) | Rarely applied for because usually do not meet professional position requirements |
+| Subclass L-1 (L-1 Intracompany Transferee) | Internal transfer within a multinational company |
+| Subclass EB-3 (EB-3 Skilled Workers) | Requires employer sponsorship, but it is difficult |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Personal Service Workers？**
-- 擅长人际沟通和团队协调的人
-- 对美容、健身等个人服务行业有热情的人
-- 愿意从基层做起并逐步积累管理经验的人
+**Who is suited**
+- People skilled in interpersonal communication and team coordination
+- People passionate about personal services like beauty and fitness
+- Willing to start from entry-level and gradually accumulate management experience.
 
-**谁不适合学First-Line Supervisors of Personal Service Workers？**
-- 偏好独立工作、不喜监督他人的人
-- 追求高薪且快速晋升的人
+**Who is not suited**
+- People who prefer working independently and dislike supervising others
+- People seeking high salary and fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a Personal Services Supervisor?**
+A: By experience, entry-level annual salary 30,000-40,000 USD, mid-level 40,000-55,000, senior up to 80,000. Geographic location and employer size have a significant impact.
+
+**Q: Can a personal service manager immigrate to the US via H-1B visa?**
+A: Very difficult. This occupation generally does not meet H-1B professional position requirements. L-1 intracompany transfer or EB-3 green card paths may be possible, but employer sponsorship is scarce.
+
+**Q: What are the career prospects for this occupation?**
+A: Employment is stable but growth is slow. Promotion paths are mostly to store manager or regional manager, with potential to move into training or consulting. Competition mainly comes from experienced internal staff.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-First-Line Supervisors of Personal Service Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for first-line supervisors of personal service workers?**
-答：Entry-level salaries range from $30,000 to $40,000, mid-level $40,000-$55,000, and senior up to $80,000. Location and employer size significantly affect pay.
-
-**问：Can first-line supervisors of personal service workers immigrate via H-1B visa?**
-答：Very difficult. The occupation typically does not qualify as a specialty occupation for H-1B. L-1 intracompany transfer or EB-3 green card is possible but employer sponsorship is rare.
-
-**问：What is the career outlook for this occupation?**
-答：Employment is stable but growing slowly. Advancement often leads to store manager or regional manager roles, or transition to training and consulting. Competition is mainly from experienced internal staff.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

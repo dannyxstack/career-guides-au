@@ -1,61 +1,95 @@
-# National Police Officer（National Police Officer）职业分析 · ES
+# National Police Officer — career analysis · Spain
 
-**职业代码：5921 – National Police Officer。**
+**Occupation code: 5921 (CNO)**
 
-National Police (Policía Nacional) is Spain's civil state police force responsible for public safety, crime fighting, border control, and immigration law enforcement. It is a strictly regulated civil service career.
+The National Police (Policía Nacional) is Spain's national civil police force, responsible for maintaining public safety, combating crime, border control, and enforcing immigration laws. This profession belongs to the strictly regulated civil service system.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学力 | 无强制高等教育要求，但需通过Oposición | —（备考课程费用约1,000-3,000欧元） |
-| 大学学历（可选） | 4年（Grado） | —（公立大学年均约1,000-1,500欧元，私立更高） |
+| High school graduate or equivalent academic ability | There is no mandatory higher education requirement, but Oposición is required | $0~$3,000 (The preparation course fee is about 1,000-3,000 euros) |
+| University degree (optional) | 4 years (Grado) | $0~$6,000 (Average annual tuition at public universities is about EUR 1,000–1,500; private universities are higher) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：非常高（★★★★★）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家警察招考通过（Oposición） | 西班牙内政部/国家警察局 | 必备 | 包括知识测试、体能测试、心理评估和体检，通过后在Ávila警察学院接受9个月培训 |
-| 西班牙国籍 | 西班牙政府 | 必备 | 必须为西班牙公民才能报考国家警察 |
-| 无犯罪记录及良好道德品行 | 司法部/内政部 | 必备 | 需通过背景审查 |
+| Passed the National Police Recruitment Exam (Oposición) | Spanish Ministry of the Interior/National Police | Required | This includes knowledge tests, physical fitness tests, psychological assessments, and medical examinations, followed by nine months of training at the Ávila Police Academy |
+| Spanish nationality | Spanish government | Required | You must be a Spanish citizen to apply for the National Police |
+| No criminal record and good moral character | Ministry of Justice/Ministry of the Interior | Required | Background screening is required |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 75,000。西班牙国家警察岗位每年通过公开招考（Oposición）录用，竞争激烈但需求稳定。由于退休人员更替和安全形势变化，未来几年预计保持年均数百个新名额。
+**Job demand: medium (★★½☆☆).** National workforce approx. 75,000. Positions in the Spanish National Police are recruited annually through open recruitment (Oposición), with fierce competition but stable demand. Due to changes in retirement and security conditions, it is expected to maintain an average of several hundred new spots annually in the coming years.
 
-**竞争度：非常高（★★★★½）。**
-**工作强度：高（★★★★☆）。**
+**Competition: very high (★★★★½).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $28,000~$35,000 | 基本工资加补贴，税前年薪 |
-| 中级（5-15年） | $38,000~$45,000 | 含工龄津贴、岗位津贴等 |
-| 高级（15年以上/警官级） | $50,000~$65,000 | 警官或高级警员，含责任津贴 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $28,000~$35,000 | Basic salary plus subsidies, pre-tax annual salary |
+| Intermediate (5-15 years) | $38,000~$45,000 | Including seniority allowances, position allowances, etc |
+| Senior (over 15 years / Police officer level) | $50,000~$65,000 | Police officers or senior police officers, including responsibility allowances |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级警员（Escala Básica）可通过晋升考试进入警官（Escala Ejecutiva）或高级警官（Escala Superior）序列，也可转向专门部门，如科学警察、反恐、网络犯罪等。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI brings mixed feelings for the position of the Spanish National Police: automated document processing and monitoring analysis will be replaced, but on-site law enforcement, discretionary judgment, and interpersonal interaction tasks will be enhanced.
+
+Junior police officers (Escala Básica) can enter the ranks of police officers (Escala Ejecutiva) or senior police officers (Escala Superior) through promotion exams, or move to specialized departments such as scientific police, counterterrorism, cybercrime, and others.
+
+**Tasks most exposed to AI:**
+
+- Generation and archiving of standard document reports
+- Preliminary analysis of surveillance footage
+- Routine patrol route scheduling
+- Automatic identity information matching and background checks
+
+**Where AI augments the role:**
+
+- AI-assisted criminal investigation data analysis and pattern recognition
+- Real-time translation and multilingual communication support
+- Predictive policing optimizes police force deployment
+- Virtual training scenarios simulate law enforcement decision-making
+
+**Human moat:**
+
+- On-the-spot judgment and use of force in on-site law enforcement
+- Social skills that build trust through communication with the public
+- Legal compliance and ethical responsibility
+- High-pressure decision-making to handle unexpected events
+- Cross-departmental collaboration and intelligence integration
+
+**Skills to build:**
+
+- Basic data analysis and use of AI tools (such as Python, R)
+- Digital forensics technology
+- AI ethics and privacy regulations
+- Cross-cultural communication and conflict mediation
+- Drone and robot operation
+- Cybersecurity Foundation
+
+**Key growth areas:**
 
 - public safety
 - border security
@@ -64,64 +98,66 @@ National Police (Policía Nacional) is Spain's civil state police force responsi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 国家警察职位仅对西班牙公民开放，外国人一般无法通过工作居留从事此职业。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | The national police position is only open to Spanish citizens; foreigners generally cannot engage in this profession through work residency. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学National Police Officer？**
-- 西班牙公民，热爱公共服务与法律秩序
-- 身体素质优秀，能通过严格的体能测试
-- 具备抗压能力和团队协作精神
+**Who is suited**
+- Spanish citizen who loves public service and the law order
+- Excellent physical fitness and able to pass rigorous fitness tests
+- Possess stress resistance and team spirit
 
-**谁不适合学National Police Officer？**
-- 非西班牙国籍或不愿为公务员体系约束
-- 无法接受轮班制和潜在危险环境
+**Who is not suited**
+- Non-Spanish nationals or unwilling to be bound by the civil service system
+- Shift work and potentially dangerous environments are unacceptable
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of the National Police?**
+A: The pre-tax annual salary for junior police officers is about 28,000-35,000 euros, and can increase to over 50,000 euros with years of service and promotion.
+
+**Q: Can foreigners become the Spanish National Police?**
+A: No, you cannot. National police positions require Spanish nationality, and foreigners cannot apply through the skilled migration route.
+
+**Q: How to become a national police officer?**
+A: You must pass the national unified recruitment exam (Oposición), which includes multiple rounds of testing, and after admission, train for 9 months at the police academy.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | high (★★★★☆) |
+| Certification difficulty | very high (★★★★★) |
+| Job demand | medium (★★½☆☆) |
+| Competition | very high (★★★★½) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 非常高（★★★★★） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 非常高（★★★★½） |
-| 收入水平 | 中上（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-National Police Officer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level of a National Police officer?**
-答：Starting salary is around €28,000-€35,000 gross per year, increasing with seniority and promotion to over €50,000.
-
-**问：Can a foreigner become a Spanish National Police officer?**
-答：No. This career requires Spanish citizenship and is not available through skilled migration.
-
-**问：How to become a National Police officer?**
-答：You must pass the national competitive exam (Oposición) with multiple tests, followed by 9 months of training at the police academy.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

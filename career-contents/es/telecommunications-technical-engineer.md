@@ -1,58 +1,94 @@
-# Telecommunications Technical Engineer（Telecommunications Technical Engineer）职业分析 · ES
+# Telecommunications Technical Engineer — career analysis · Spain
 
-**职业代码：2473 – Telecommunications Technical Engineer。**
+**Occupation code: 2473 (CNO)**
 
 Responsible for designing, implementing, and maintaining telecommunications networks and systems, including telephone, data communication, broadcasting, and internet infrastructure.
 
+
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年 | $600~$2,000（公立大学每年学费约600-2000欧元，私立较高） |
-| 硕士（Máster） | 1-2年 | $800~$3,000（公立大学硕士学费通常800-3000欧元） |
+| Undergraduate (Grado) | 4 years | $600~$2,000 (Public university tuition: approx. €600-2,000 per year; private higher.) |
+| Máster | 1-2 years | $800~$3,000 (Master's tuition at public universities is usually 800-3000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电信技术工程学位 | 西班牙大学 | 必备 | 官方Grado学位，需经学历认证Homologación |
-| 工程师协会注册 | Colegio Oficial de Ingenieros de Telecomunicación | 可选 | 非强制，但有助于职业发展 |
+| Degree in Telecommunications Technology Engineering | Spanish University | Required | Official Grado degrees, which require Homologación certification |
+| Registered with the Engineers Association | Colegio Oficial de Ingenieros de Telecomunicación | Optional | Not mandatory, but beneficial for career development |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。随着5G部署和光纤网络扩展，电信技术工程师需求持续增长。西班牙政府推动数字化议程，预计未来五年该岗位空缺年均增长约3%。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. With the deployment of 5G and the expansion of fiber optic networks, the demand for telecom technology engineers continues to grow. The Spanish government is pushing the digital agenda and expects this job vacancy to grow at an average annual rate of about 3% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 税前年薪 |
-| 中级（4-7年） | $32,000~$40,000 | 税前年薪 |
-| 高级（8年以上） | $42,000~$55,000 | 税前年薪 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $32,000~$40,000 | Annual pre-tax salary |
+| Senior (8+ years) | $42,000~$55,000 | Annual pre-tax salary |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 可从初级工程师晋升至项目主管、技术经理或网络架构师。积累经验后可转向咨询或创业，也可通过深造进入研发领域。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
+
+You can advance from junior engineer to project supervisor, technical manager, or network architect. After gaining experience, you can move on to consulting or entrepreneurship, or enter the R&D field through further study.
+
+**Tasks most exposed to AI:**
+
+- Use AI tools to automatically generate network configuration scripts and parameter optimisation solutions
+- Use AI Monitoring Systems to Automatically Detect and Locate Root Causes of Network Faults
+- Automated Generation of Standardized Network Performance Reports and Compliance Documents
+- Automatically perform spectrum planning and interference analysis using AI algorithms
+- Handle common user inquiries and ticket assignments using chatbots
+
+**Where AI augments the role:**
+
+- Using AI simulators to quickly validate 5G/fibre optic network designs
+- Proactively optimizing network capacity and coverage with AI predictive analytics
+- Improving complex link budget accuracy using AI-assisted engineering calculations
+- Use AI-driven digital twin platforms for iterative network planning
+- Using AI Tools to Automatically Generate Project Documents and Test Reports
+
+**Human moat:**
+
+- Cross-vendor heterogeneous network integration architecture design decisions
+- Client needs analysis and customized solution design
+- Handling operator compliance certifications and safety audits
+- Innovative network optimization strategies (non-standard scenarios)
+- High-Level Technical Communication with Clients and Team Members
+
+**Skills to build:**
+
+- AI/machine learning basics (for network optimization prediction)
+- Python or MATLAB script automation
+- Digital twin and network simulation tools (e.g., NS-3)
+- Cloud computing and SDN/NFV technologies
+- Data analysis (Pandas, TensorFlow)
+- Project management and requirements analysis (Agile)
+
+**Key growth areas:**
 
 - 5G
 - Fiber Optics
@@ -61,68 +97,67 @@ Responsible for designing, implementing, and maintaining telecommunications netw
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能非欧盟公民，需大学学历+高于平均工资1.5倍（约33,000欧元）的合同 |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 基于Ley 14/2013，针对管理层或技术专家，快速通道，可带家属 |
-| Subclass Cuenta ajena（Employed Work Permit） | 标准受雇工作居留，需公司担保，通常有劳动市场测试 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a university degree and a contract with a salary at least 1.5 times the average wage (approx. EUR 33,000). |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Based on Ley 14/2013, for management or technical experts, fast-track entry, family members can be included |
+| Subclass Cuenta ajena (Employed Work Permit) | Standard employed work residency requires company sponsorship and usually includes labor market testing |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Telecommunications Technical Engineer？**
-- 喜欢动手解决技术问题，对通信网络有浓厚兴趣
-- 具备系统思维和项目管理能力，愿意持续学习新技术
-- 能适应快节奏工作环境，有耐心处理复杂故障排查
-
-**谁不适合学Telecommunications Technical Engineer？**
-- 不喜欢频繁的技术更新和学习新协议
-- 不适应户外或现场工作（部分岗位需要）
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys solving technical problems hands-on and has a strong interest in communication networks
+- Possess systems thinking and project management skills, and be willing to continuously learn new technologies
+- Able to adapt to fast-paced work environments and patiently handle complex troubleshooting
+
+**Who is not suited**
+- Dislikes frequent technical updates and learning new protocols
+- Not suitable for outdoor or on-site work (required for certain positions)
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for telecommunications engineers in Spain?**
+A: Junior: approximately €24,000-€30,000, mid-senior €32,000-€55,000, above the Spanish average salary.
+
+**Q: How can non-EU citizens immigrate to Spain to work in this profession?**
+A: You can obtain the EU Blue Card (with a high-salary contract) or the Highly Skilled Professional visa (Ley 14/2013), which requires academic certification.
+
+**Q: Is Spanish diploma certification required?**
+A: Yes, foreign degrees must be certified by Homologación as equivalent Spanish Grado degrees.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 较高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Telecommunications Technical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for telecommunications technical engineers in Spain?**
-答：Entry-level around €24,000-30,000, mid-senior €32,000-55,000, above Spanish average.
-
-**问：How can non-EU citizens immigrate to Spain for this occupation?**
-答：Via EU Blue Card (high salary) or Highly Skilled Professional visa (Ley 14/2013), requiring degree homologation.
-
-**问：Is degree homologation required?**
-答：Yes, foreign degrees need Homologación to be recognized as equivalent Spanish Grado.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

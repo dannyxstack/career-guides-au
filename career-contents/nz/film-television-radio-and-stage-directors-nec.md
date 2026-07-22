@@ -1,59 +1,95 @@
-# Film, Television, Radio and Stage Directors nec（Film, Television, Radio and Stage Directors nec）职业分析 · 新西兰
+# Film, Television, Radio and Stage Directors nec — career analysis · New Zealand
 
-**职业代码：212399 – Film, Television, Radio and Stage Directors nec。**
+**Occupation code: 212399 (ANZSCO)**
 
-Directs creative and production aspects of film, television, radio, or stage productions, including directors, assistant directors, and artistic directors. This occupation is eligible for skilled migration in New Zealand but requires high skills and industry experience.
+Responsible for guiding the creative and production aspects of film, TV, radio, or stage works, including director, assistant director, art director, etc. This occupation can apply for skilled migration in New Zealand but requires high skills and industry experience.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科 | 3年 | $30,000~$50,000（新西兰本地本科国际生学费，含电影或媒体专业） |
-| 硕士 | 1-2年 | $40,000~$60,000（研究生文凭或硕士，如创意制作专业） |
+| Bachelor's degree | 3 years | $30,000~$50,000 (Tuition fees for international undergraduate students in New Zealand, including film or media majors.) |
+| Master's degree | 1-2 years | $40,000~$60,000 (Postgraduate diploma or master's degree, e.g., in Creative Production.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电影或媒体学士学位 | 新西兰大学（如奥克兰大学、维多利亚大学） | 可选 | 不是强制要求，但有助于提升技能和就业 |
-| 行业认证 | NZ Writers' Guild或Screen Industry Guild | 可选 | 加入行业工会可增加机会，非强制 |
-| 英语语言能力 | IELTS | 必备 | 移民需雅思6.5或同等 |
+| English language proficiency | IELTS | Required | Immigration requires IELTS 6.5 or equivalent |
+| Bachelor's Degree in Film or Media | New Zealand universities (e.g., University of Auckland, Victoria University of Wellington) | Optional | Not mandatory, but helps improve skills and employability |
+| Industry certifications | NZ Writers' Guild or Screen Industry Guild | Optional | Joining an industry union can increase opportunities, but is not mandatory. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,200。新西兰影视行业稳步发展，但竞争激烈。大型制作项目有限，多数导演为自由职业者。就业机会集中在奥克兰和惠灵顿，需持续积累人脉和作品。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,200. New Zealand's film and TV industry is steadily developing but highly competitive. Large-scale productions are limited, and most directors are freelancers. Job opportunities are concentrated in Auckland and Wellington, requiring continuous networking and portfolio building.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$60,000 | 助理导演或自由职业者，收入不稳定 |
-| 中级（3-8年） | $60,000~$90,000 | 有经验导演，可能参与大型项目 |
-| 高级（8年以上） | $90,000~$150,000 | 知名导演或艺术指导，收入上限高但波动大 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$60,000 | Assistant director or freelancer, with unstable income |
+| Mid-level (3–8 years) | $60,000~$90,000 | Experienced director, may work on large projects |
+| Senior (8+ years) | $90,000~$150,000 | Well-known director or art director, high income ceiling but volatile |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级岗位如助理导演或制片助理，积累经验后可晋升为导演或艺术指导。少数顶尖人才可进入国际制作。创业或成立制作公司也是发展路径。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI is both a threat and an opportunity for directors: standardized production processes are easily automated, but creative decision-making, emotional communication, and on-site coordination still rely on humans; proactive adoption of AI tools is needed to maintain an advantage.
+
+Entry-level roles such as assistant director or production assistant; after gaining experience, can advance to director or art director. A few top talents can enter international production. Starting a business or establishing a production company is also a career path.
+
+**Tasks most exposed to AI:**
+
+- Use AI to generate preliminary storyboard drafts and scene visualization
+- Analyze script emotional arcs and rhythm issues using AI.
+- Using AI to automatically edit multi-camera footage (e.g., sports events)
+- AI recommends casting combinations and shooting schedules based on historical data
+- AI adjusts technical parameters such as lighting and sound in real time.
+
+**Where AI augments the role:**
+
+- AI-Assisted Generation of Virtual Previsualization (Previz) and Virtual Scene Design
+- Using AI tools to quickly iterate visual effects and post-production color grading
+- AI analysis of audience preferences to assist narrative direction decisions
+- Efficiently directing non-human characters through AI voice synthesis and motion capture
+- AI automatically records shooting logs and generates production reports
+
+**Human moat:**
+
+- Overarching creative vision and narrative conception
+- Intuition and empathy to guide actors' emotions and performances
+- Improvisational decision-making in emergencies (weather, actor condition)
+- Cross-team Communication and Leadership Skills
+- Judgment on project ethics and cultural sensitivity
+
+**Skills to build:**
+
+- Skilled in using AI storyboarding/previsualization tools (e.g., FrameForge, Cuebric)
+- Proficiency in AI editing software (e.g., DaVinci Resolve's AI features)
+- Learn AI-assisted script analysis and audience insight tools
+- Familiar with virtual production technologies (Unreal Engine, LED wall)
+- Cultivating data-driven decision-making thinking
+- Continuously update awareness of emerging AI tools
+
+**Key growth areas:**
 
 - Skilled Migrant Category
 - AEWV
@@ -62,67 +98,66 @@ Directs creative and production aspects of film, television, radio, or stage pro
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 满足6分制要求（学历+经验），可申请技术移民 |
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主offer后可申请，需满足薪资要求 |
+| Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (qualifications + experience), eligible for skilled migration |
+| Subclass AEWV (Accredited Employer Work Visa) | Can apply after obtaining a certified employer offer, must meet salary requirements |
 
-**PR难度：中高（★★★½☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Film, Television, Radio and Stage Directors nec？**
-- 创意丰富，对影视制作有热情
-- 抗压能力强，适应灵活工作时间
-- 具备领导力和团队协作能力
-
-**谁不适合学Film, Television, Radio and Stage Directors nec？**
-- 偏好固定薪水和工作时间
-- 对艺术方向敏感度低或不善表达
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Creative and passionate about film and television production
+- High stress tolerance, adaptable to flexible working hours
+- Possess leadership and teamwork skills
+
+**Who is not suited**
+- Prefer fixed salary and working hours
+- Low sensitivity or poor expression in art direction
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for a director in New Zealand?**
+A: Entry-level approx. NZD 40,000-60,000, mid-level NZD 60,000-90,000, senior up to over NZD 150,000, but income varies significantly by project.
+
+**Q: Can directors immigrate to New Zealand through skilled migration?**
+A: Yes, subject to meeting SMC 6-point system requirements (e.g., qualifications + work experience) and obtaining an employer offer that meets the salary threshold.
+
+**Q: What are the career prospects for a director in New Zealand?**
+A: Competitive but opportunities exist; requires building a portfolio and network. Can advance to senior director or move into production management.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
-
-Film, Television, Radio and Stage Directors nec的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for directors in New Zealand?**
-答：Entry-level around NZD 40,000-60,000, mid-level 60,000-90,000, senior up to 150,000+, but income varies with projects.
-
-**问：Can directors migrate to New Zealand via skilled migration?**
-答：Yes, by meeting SMC 6-point requirements (e.g., qualifications + experience) and obtaining a job offer meeting salary thresholds.
-
-**问：What is the career development prospect for directors in New Zealand?**
-答：Competitive but opportunities exist; build portfolio and network. Can advance to senior director or production management.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

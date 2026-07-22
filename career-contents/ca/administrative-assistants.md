@@ -1,58 +1,94 @@
-# Administrative assistants（Administrative assistants）职业分析 · 加拿大
+# Administrative assistants — career analysis · Canada
 
-**职业代码：13110 – Administrative assistants。**
+**Occupation code: 13110 (NOC)**
 
-Administrative assistants handle daily office tasks such as document processing, scheduling, meeting coordination, and communication. They are essential support roles in business operations, requiring strong organizational and communication skills.
+An administrative assistant handles office daily tasks, including document processing, scheduling, meeting coordination, communication and reception. They are indispensable support roles in business operations, with diverse work requiring efficient organization and communication skills.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立中学免费） |
-| 办公管理大专文凭 | 1-2年 | $5,000~$15,000（公立学院学费） |
+| High school diploma | 12 years | $0~$0 (Free public secondary school) |
+| Diploma of Office Management | 1-2 years | $5,000~$15,000 (Public college tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 办公软件认证（如Microsoft Office Specialist） | Microsoft | 可选 | 非强制，但提升竞争力 |
-| 省级职业证书（魁北克） | 魁北克教育部 | 可选 | 部分雇主要求 |
+| Office software certification (e.g. Microsoft Office Specialist) | Microsoft | Optional | Not mandatory, but enhances competitiveness |
+| Provincial occupational certificate (Quebec) | Ministry of Education of Quebec | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 400,000。加拿大行政助理岗位需求稳定，受数字化转型影响，部分常规任务被自动化取代，但对具备高级技能（如项目管理、软件应用）的助理需求增加。2021-2031年预计岗位数量略有增长。
+**Job demand: medium (★★★☆☆).** National workforce approx. 400,000. Demand for administrative assistant roles in Canada is stable; some routine tasks are being automated due to digital transformation, but demand for assistants with advanced skills (e.g., project management, software applications) is increasing. Slight job growth is expected from 2021 to 2031.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 时薪约 $16-$21 |
-| 中级（4-7年） | $40,000~$52,000 | 时薪约 $20-$26 |
-| 高级（8年以上） | $48,000~$62,000 | 含执行助理职位 |
+| Median salary | $54,995 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $32,000~$42,000 | Hourly wage approx. $16-$21 |
+| Mid-level (4-7 years) | $40,000~$52,000 | Hourly wage approximately $20-$26 |
+| Senior (8+ years) | $48,000~$62,000 | Including executive assistant role |
+| average salary | $58,240 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 初级行政助理可晋升为高级助理、行政主管或办公室经理。积累经验后，可转向项目管理、人力资源或执行助理等更高职位。持续学习办公软件和管理技能有助于职业发展。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+AI is rapidly replacing core tasks of administrative assistants, such as schedule management, document processing, and data entry. Competition for entry-level roles is increasing, and purely clerical jobs face a risk of being reduced.
+
+Junior administrative assistants can be promoted to senior assistant, administrative supervisor, or office manager. With experience, can move to project management, human resources, or executive assistant roles. Continuous learning of office software and management skills aids career development.
+
+**Tasks most exposed to AI:**
+
+- Schedule management and coordination: AI calendar tools automatically optimize conflicts and send invitations
+- Document processing and formatting: AI automatically generates meeting minutes and report layouts
+- Data entry and organization: automatic information extraction via OCR and smart forms.
+- Basic client inquiry responses: chatbots handle common queries
+- Travel booking and reimbursement: automated systems for price comparison, form filling, and approval
+
+**Where AI augments the role:**
+
+- Complex communication and multi-party coordination: AI-assisted information integration, human-led negotiation
+- Sensitive information handling: AI filters risks, humans make final decisions
+- Executive support: AI provides data summaries, humans handle non-routine requests
+- Office process optimization: AI analyzes bottlenecks, humans design improvement plans
+- Crisis management: AI warns of anomalies, humans respond quickly.
+
+**Human moat:**
+
+- Ability to handle highly confidential or sensitive information
+- Unstructured problem-solving and on-site adaptation
+- Complex coordination across cultures and multiple stakeholders
+- Emotional intelligence for building trust and networks
+- Understanding of organizational implicit culture and power structures
+
+**Skills to build:**
+
+- Use of AI office tools (e.g., Copilot, Zapier, Notion AI)
+- Basic data analysis and visualization (Excel, Power BI)
+- Project Management Fundamentals (PMP or Agile methods)
+- Advanced communication and negotiation skills
+- Digital security and compliance knowledge
+- Basic programming (Python scripting for repetitive tasks)
+
+**Key growth areas:**
 
 - Digital transformation
 - Remote work
@@ -61,65 +97,64 @@ Administrative assistants handle daily office tasks such as document processing,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry (FSW)（Federal Skilled Worker） | 满足工作经验、语言、教育要求，通过CRS打分获邀 |
-| Subclass PNP（Provincial Nominee Program） | 各省针对行政助理的省提名项目，需雇主担保 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人，支持工签或PR |
+| Subclass Express Entry (FSW) (Federal Skilled Worker) | Meet work experience, language, and education requirements; receive an invitation through CRS scoring |
+| Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for administrative assistants require employer sponsorship |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer demonstrates inability to hire locally, supports work visa or PR |
 
-**PR难度：中低（★★☆☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Administrative assistants？**
-- 细致耐心、有条理的人
-- 具备良好沟通和协调能力的人
-- 善于使用办公软件的人
-
-**谁不适合学Administrative assistants？**
-- 厌恶重复性工作的人
-- 不擅长处理多任务的人
+**PR difficulty: medium-low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, patient, and organized person
+- People with good communication and coordination skills
+- People proficient in office software
+
+**Who is not suited**
+- People who dislike repetitive work
+- People who are not good at handling multiple tasks
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for an administrative assistant in Canada?**
+A: Average annual salary around CAD 45,000, junior CAD 32,000-42,000, senior up to CAD 62,000.
+
+**Q: Can an administrative assistant immigrate to Canada through skilled migration?**
+A: Yes, but requires employer sponsorship or meeting fast-track requirements. Administrative assistants are not in high demand in most provinces but can apply through PNP or LMIA pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
-
-Administrative assistants的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for administrative assistants in Canada?**
-答：Average annual salary is around CAD 45,000, ranging from CAD 32,000 for entry-level to CAD 62,000 for senior positions.
-
-**问：Can administrative assistants immigrate to Canada through skilled migration?**
-答：Yes, but often require employer sponsorship or meet Express Entry criteria. It is not a shortage occupation in most provinces, but PNP or LMIA pathways are possible.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

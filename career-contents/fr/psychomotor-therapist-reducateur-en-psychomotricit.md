@@ -1,60 +1,96 @@
-# Psychomotor Therapist (Réeducateur en Psychomotricité)（Psychomotor Therapist (Réeducateur en Psychomotricité)）职业分析 · FR
+# Psychomotor Therapist (Réeducateur en Psychomotricité) — career analysis · France
 
-**职业代码：J1412 – Psychomotor Therapist (Réeducateur en Psychomotricité)。**
+**Occupation code: J1412 (ROME)**
 
-Psychomotor therapists use movement, relaxation, and sensory stimulation to help patients of all ages improve motor coordination, emotional regulation, and body awareness, typically working in medical, educational, and rehabilitation settings.
+Psychomotor therapists help patients of all ages improve motor coordination, emotional regulation, and body awareness through exercise, relaxation, and sensory stimulation, and typically work in medical, educational, and rehabilitation settings.
 
-> 注：本职业为**受限技术移民职业**，不在FR独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 国家精神运动治疗文凭（DE） | 3年（licence） | $5,000~$10,000（公立大学部分免学费，私立院校约5000-10000欧元/年） |
-| 硕士级补充培训 | 2年（master） | $2,000~$8,000（视院校而定，部分可通过学徒制减免） |
+| National Diploma in Psychomotor Therapy (DE) | 3 years (licence) | $5,000~$10,000 (Public universities partially free, private institutions approx. €5k-€10k/year) |
+| Master's level supplementary training | 2 years (Master) | $2,000~$8,000 (Depending on the institution, some can be reduced or exempted through the apprenticeship system) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家精神运动治疗文凭（DE） | 法国国家教育与健康部 | 必备 | 注册执业的必需文凭 |
-| 法国精神运动治疗师协会注册 | SNUP | 可选 | 建议注册以增强职业认可 |
+| National Diploma in Psychomotor Therapy (DE) | French Ministry of Education and Health | Required | Required diploma for registered practice |
+| Registered with the French Association of Psychomotor Therapists | SNUP | Optional | It is recommended to register to enhance professional recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。法国老龄化加剧及心理健康需求上升推动该职业需求持续增长，尤其在儿童早期干预和老年护理领域。公立医院和私立诊所均存在招聘缺口。
+**Job demand: high (★★★★☆).** National workforce approx. 15,000. The intensifying aging population in France and the rising demand for mental health are driving sustained growth in demand for this profession, especially in early childhood intervention and elderly care. Both public hospitals and private clinics face recruitment gaps.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$35,000 | 公立医院或私立诊所 |
-| 中级（4-10年） | $35,000~$45,000 | 含经验补贴和专科津贴 |
-| 高级（10年以上） | $45,000~$55,000 | 科室主管或独立执业 |
+| Median salary | $40,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$35,000 | Public hospitals or private clinics |
+| Mid-level (4-10 years). | $35,000~$45,000 | Including experience allowances and specialist allowances |
+| Senior (10+ years) | $45,000~$55,000 | Department head or independent practice |
+| average salary | $30,792 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 职业初期多在医疗机构担任治疗师，积累经验后可晋升为科室主管或独立执业。部分从业者转向教学、研究或管理岗位，或通过继续教育获得更高级别资格。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The work of psychomotor therapists relies on physical contact and emotional interaction. AI cannot fully replace core therapy, but it will take over auxiliary tasks such as paperwork and assessment, while enhancing remote follow-up and data analysis capabilities, which is a mixed experience.
+
+At the beginning of their career, they often work as therapists in medical institutions, and after gaining experience, they can be promoted to department heads or practice independently. Some practitioners turn to teaching, research, or management roles, or obtain higher-level qualifications through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate treatment assessment reports and progress records
+- Using AI to analyze movement data (such as gait and coordination)
+- Standardized relaxation guidance is provided through chatbots
+- Automated systems for managing appointments and patient records
+- AI-assisted execution of basic sensory stimulation activities (such as vibration and light stimulation).
+
+**Where AI augments the role:**
+
+- Create personalized immersive sports training scenarios using VR/AR
+- Monitor patients' physiological signals in real time and adjust interventions through wearable devices
+- AI-assisted analysis of treatment outcomes optimizes treatment plans
+- Remote guidance for home rehabilitation exercises expands service coverage
+- Extracting patterns from numerous cases to assist diagnosis
+
+**Human moat:**
+
+- The ability to form emotional connections with patients in trusting relationships
+- Conveying a sense of security and regulating emotions through physical contact
+- Flexible clinical judgment for sudden emotional or behavioral issues
+- Creative therapy designs that integrate multisensory stimulation
+- Intuitive understanding of nonverbal patients (such as children and those with aphasia).
+
+**Skills to build:**
+
+- Digital health tools (such as remote rehabilitation platforms, wearable devices)
+- AI-assisted diagnosis and data analysis foundation
+- Human-machine collaborative therapy design (such as VR content development)
+- Privacy and ethical compliance knowledge
+- Interdisciplinary communication (collaboration with engineers and data scientists)
+- A mindset of continuous learning and adapting to technological iteration
+
+**Key growth areas:**
 
 - Aging population
 - Mental health awareness
@@ -63,69 +99,68 @@ Psychomotor therapists use movement, relaxation, and sensory stimulation to help
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Employee Work Permit） | 需获得法国雇主合同，且职业须符合劳工局审核，薪资达标。 |
-| Subclass Passeport Talent（Talent Passport） | 适合高技能或稀缺人才，需硕士以上学历或较高薪资，简化流程。 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高等教育学历且薪资达1.5倍平均工资（约5万欧以上），但本职业初级薪资可能不达标。 |
+| Subclass Salarié (Employee Work Permit) | Must obtain a French employer contract, and the occupation must comply with the labor bureau's review and meet the salary standards. |
+| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or scarce talents, requiring a master's degree or higher salary to simplify procedures. |
+| Subclass Carte bleue UE (EU Blue Card) | Applies to higher education qualifications and salaries reaching 1.5 times the average wage (about 50,000+ EUR), but entry-level salaries in this occupation may not meet that. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Psychomotor Therapist (Réeducateur en Psychomotricité)？**
-- 对人体运动和心理学有浓厚兴趣的人
-- 具备耐心和同理心，善于沟通的人
-- 希望在医疗、教育领域从事康复工作的人
-
-**谁不适合学Psychomotor Therapist (Réeducateur en Psychomotricité)？**
-- 对高强度人际互动感到疲惫的人
-- 偏好固定工作模式、缺乏灵活性的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with a strong interest in human movement and psychology
+- Patient and empathetic, good communicators
+- Those who wish to work in rehabilitation in the medical and educational fields
+
+**Who is not suited**
+- People who feel tired of high-intensity interpersonal interactions
+- People who prefer fixed work patterns and lack flexibility
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of psychomotor therapists in France?**
+A: Annual pre-tax salary approximately 30,000 to 55,000 EUR, junior approximately 30,000-35,000, senior approximately 45,000-55,000, with differences between public and private sectors.
+
+**Q: How can foreign psychomotor therapists immigrate to France?**
+A: You must obtain a diploma in psychomotor therapy recognized in France and pass the reconnaissance des qualifications. You can apply for a Salarié work visa or Passeport Talent, but the occupation is regulated and requires a high level of language skills.
+
+**Q: Is there a high demand for psychomotor therapists in France?**
+A: Demand is high, occupation in shortage, especially in early childhood intervention, aging rehabilitation, and mental health.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（3年）（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Psychomotor Therapist (Réeducateur en Psychomotricité)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a psychomotor therapist in France?**
-答：Annual gross salary ranges from €30,000 to €55,000, with entry-level around €30,000-€35,000 and senior around €45,000-€55,000, varying by sector.
-
-**问：How can a foreign psychomotor therapist immigrate to France?**
-答：You must obtain a recognized French psychomotor therapy diploma and undergo qualification recognition (reconnaissance des qualifications). Eligible for Salarié work permit or Talent Passport, but the profession is regulated with high language requirements.
-
-**问：Is there high demand for psychomotor therapists in France?**
-答：Yes, it is a shortage occupation, especially in early childhood intervention, geriatric rehabilitation, and mental health.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Hotel Service Staff（Hotel Service Staff）职业分析 · DE
+# Hotel Service Staff — career analysis · Germany
 
-**职业代码：6322 – Hotel Service Staff。**
+**Occupation code: 6322 (KldB)**
 
-Hotel service staff are responsible for guest reception, housekeeping, and food and beverage services to ensure smooth hotel operations and guest satisfaction.
+Hotel service staff are responsible for welcoming guests, cleaning rooms, and providing food and beverage services to ensure smooth hotel operations and guest satisfaction.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（酒店管理） | 3年 | —（培训期间有工资，通常无学费） |
-| 无需正式培训 | 0年 | —（可从事基础岗位，如清洁工、行李员） |
+| Dual system training (hospitality management) | 3 years | $0~$0 (Paid during training, usually no tuition fees) |
+| No formal training required | 0 years | $0~$0 (Can work in entry-level positions such as cleaner or luggage porter) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 酒店管理职业培训证书 | 德国工商会（IHK） | 可选 | 完成双元制培训后获得 |
-| 急救证书 | 德国红十字会 | 可选 | 部分雇主要求 |
-| 食品卫生证书 | 当地卫生部门 | 可选 | 涉及餐饮服务时需提供 |
+| Certificate in Hospitality Management Vocational Training | German Chamber of Commerce and Industry (IHK) | Optional | Obtained after completing dual system training |
+| First aid certificate | German Red Cross | Optional | Some employers require |
+| Food hygiene certificate | Local health authority | Optional | Required when food service is involved |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 150,000。德国旅游业持续发展，酒店服务岗位需求稳定，尤其是在旅游热点城市。但职位多为入门级，薪资增长有限。
+**Job demand: high (★★★★☆).** National workforce approx. 150,000. Germany's tourism industry continues to grow, with stable demand for hotel service roles, especially in tourist hotspots. However, most positions are entry-level with limited salary growth.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$28,000 | 税前年薪，含小费 |
-| 中级（3-7年） | $28,000~$34,000 | 税前年薪，含小费 |
-| 高级（7年以上） | $34,000~$42,000 | 税前年薪，含小费，主管级别 |
+| Median salary | $35,604 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $24,000~$28,000 | Annual pre-tax salary, including tips |
+| Mid-level (3–7 years) | $28,000~$34,000 | Annual pre-tax salary, including tips |
+| Senior (7+ years) | $34,000~$42,000 | Annual salary before tax, including tips, supervisor level. |
+| average salary | $39,264 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★½☆☆）。** 可从服务员晋升为部门主管（如客房部主管、餐饮部主管），或转向酒店管理培训生项目，最终成为酒店经理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly replace repetitive tasks for hotel service staff, such as front desk check-ins, room status monitoring, and basic customer inquiries, but interpersonal interaction and emergency handling still depend on humans. Competition for entry-level positions will intensify, requiring enhanced technical and interpersonal skills.
+
+Can be promoted from server to department supervisor (e.g., housekeeping supervisor, food and beverage supervisor), or transition to hotel management trainee programs, eventually becoming hotel manager.
+
+**Tasks most exposed to AI:**
+
+- Front desk check-in and check-out procedures (replaced by self-service kiosks and AI systems)
+- Room status monitoring and cleaning scheduling (IoT and AI optimization)
+- Basic customer inquiries and complaint classification (AI chatbot response)
+- Room key management and access permission allocation (electronic key system)
+- Simple handling of food orders (self-service ordering system)
+
+**Where AI augments the role:**
+
+- Customer demand analysis and personalized recommendations (AI preference analysis)
+- Real-time multilingual translation for communication (AI translation tools)
+- Predictive maintenance for housekeeping (AI predicting equipment failures)
+- Dynamic pricing and revenue management (AI analysis of market data)
+- Employee scheduling and task allocation optimization (AI scheduling algorithm)
+
+**Human moat:**
+
+- Complex interpersonal communication and emotional resonance (e.g., calming dissatisfied guests)
+- Emergency response (fire, medical first aid, etc.)
+- High-level client relationship management and VIP services.
+- Non-standard problem solving (e.g., personalized event planning)
+- Team management and on-site coordination skills
+
+**Skills to build:**
+
+- Operation of hotel-specific AI tools (e.g., Maestro PMS, Alice)
+- Data analysis basics (guest preferences, occupancy patterns)
+- Social media and online reputation management (responding to reviews)
+- Cross-cultural communication and multilingual skills (especially English + German)
+- Basic IT and network troubleshooting
+- Agility and Crisis Management Training
+
+**Key growth areas:**
 
 - Tourism
 - Hospitality
@@ -64,63 +100,65 @@ Hotel service staff are responsible for guest reception, housekeeping, and food 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 需完成双元制培训并获得工作合同，德语通常需B1以上 |
-| Subclass Chancenkarte（Opportunity Card） | 2024年起实行，基于积分制，允许找工作和试用期 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，需证明经济能力 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Must complete dual-system training and obtain a work contract; German usually required at B1 or above |
+| Subclass Chancenkarte (Opportunity Card) | Implemented from 2024, points-based, allows job search and probation period |
+| Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, must prove financial means |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hotel Service Staff？**
-- 喜欢与人打交道，服务意识强
-- 适应灵活排班和体力工作
-- 愿意从基层做起，积累经验
+**Who is suited**
+- Enjoys interacting with people, strong service orientation
+- Adapt to flexible scheduling and physical work
+- Willing to start from entry-level and gain experience.
 
-**谁不适合学Hotel Service Staff？**
-- 不喜欢轮班和周末工作
-- 期望高薪资和快速晋升
+**Who is not suited**
+- Dislike shift work and weekend work
+- Expect high salary and fast promotion.
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of hotel service staff?**
+A: Entry-level annual salary approx. EUR 24,000-28,000 (before tax), senior supervisor up to EUR 42,000, tips are a significant income component.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Yes, but must complete a recognized vocational training (dual system) in Germany and obtain a work contract; language requirement German B1. Opportunity Card can also be used for job search.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Hotel Service Staff属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of hotel service staff?**
-答：Entry-level annual salary is about 24,000-28,000 EUR (gross), senior supervisors can earn up to 42,000 EUR, and tips are a significant part of income.
-
-**问：Can foreigners immigrate to Germany through this occupation?**
-答：Yes, but require a recognized vocational training (dual system) and a job offer, with German language at B1. The Opportunity Card is also an option for job search.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,95 @@
-# Tourism Product Optimizer（Tourism Product Optimizer）职业分析 · FR
+# Tourism Product Optimizer — career analysis · France
 
-**职业代码：G1302 – Tourism Product Optimizer。**
+**Occupation code: G1302 (ROME)**
 
-Analyzes and optimizes tourism product portfolios, including itinerary design, pricing strategies, and online distribution, to enhance market competitiveness and customer satisfaction.
+Responsible for analyzing and optimizing the travel product portfolio, including route design, pricing strategies, and online distribution to enhance market competitiveness and customer satisfaction.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| BTS旅游 | 2年（BTS） | $1,000~$5,000（公立学校学费低，私立较高） |
-| Licence专业旅游管理 | 3年（Licence） | $2,000~$8,000（公立大学约200€/年，私立高商较高） |
-| 硕士旅游管理 | 2年（Master） | $3,000~$12,000（公立大学约300€/年，私立学院费用更高） |
+| BTS Tour | 2 Years (BTS) | $1,000~$5,000 (Public schools have lower tuition fees, while private schools have higher tuition fees) |
+| Licence specializes in tourism management | 3 years (Licence) | $2,000~$8,000 (Public universities cost about €200 per year, while private commercial colleges are more expensive) |
+| Master's degree in Tourism Management | 2 years (Master) | $3,000~$12,000 (Public universities approximately €300/year, private colleges are more expensive.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| BTS旅游 | 法国教育部 | 可选 | 基础文凭，可从事初级岗位 |
-| Licence旅游管理 | 法国大学 | 可选 | 普遍要求的学历 |
-| Master旅游目的地管理 | 法国大学或高商 | 可选 | 竞争高级职位有帮助 |
+| BTS Tour | French Ministry of Education | Optional | Basic diploma, suitable for entry-level positions |
+| Licence tourism management | French universities | Optional | Academic qualifications are generally required |
+| Master Travel Destination Management | French universities or commercial schools | Optional | Competing for senior positions is helpful |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。法国旅游业持续复苏，数字化转型加速，对旅游产品优化人才需求稳定增长。尤其在线旅游平台和目的地管理公司需要此类岗位。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. France's tourism industry continues to recover, digital transformation is accelerating, and demand for talent for tourism product optimization is steadily increasing. Online travel platforms and destination management companies especially need such positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$45,000 | 税前年薪 |
-| 高级（7年以上） | $45,000~$55,000 | 税前年薪 |
+| Median salary | $41,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$45,000 | Annual pre-tax salary |
+| Senior (7+ years) | $45,000~$55,000 | Annual pre-tax salary |
+| average salary | $52,284 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★½☆）。** 可从旅游产品专员晋升为产品经理或业务发展经理，积累经验后可转向咨询或创业。掌握数据分析技能有助于提升竞争力。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
+
+You can be promoted from travel product specialist to product manager or business development manager, and after gaining experience, you can transition to consulting or entrepreneurship. Mastering data analysis skills helps enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Handle price comparison and booking for transportation (airline tickets, train tickets) and accommodation
+- Generate standard travel itineraries and quotes
+- Answering common travel policy questions (e.g., visas, baggage rules)
+- Maintain client travel files and preference records
+- Sell standardized tourism packages
+
+**Where AI augments the role:**
+
+- Use AI to analyze customer historical data and proactively recommend personalized destinations and experiences
+- Using real-time exchange rates and price prediction tools to optimize client travel budgets
+- Providing immersive travel advice through AI translation and local information aggregation platforms
+- Use virtual reality (VR) preview tools to sell high-end travel products
+- Automates generation of alternative solutions for emergencies (e.g., flight cancellations)
+
+**Human moat:**
+
+- Ability to handle complex emergencies involving multi-country visas, special routes, health risks, etc.
+- Build high-trust relationships with clients, understand their unspoken preferences
+- Sales skills to deliver compelling travel narratives and value propositions
+- Negotiation skills for coordinating multiple suppliers and local resources to address non-standard needs
+
+**Skills to build:**
+
+- Proficiency in mainstream AI travel tools (e.g., Hopper, Tripadvisor integration platforms)
+- Learn the basics of data analysis (e.g., Python/pandas) to interpret customer insights
+- Strengthen high-end customer service and crisis management communication skills
+- Familiarity with VR/AR travel demonstration tools.
+- Learn social media marketing and content creation (e.g., Xiaohongshu, Instagram) to attract clients.
+- Obtain professional travel certifications (e.g., CTC, Certified Travel Counselor)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Personalized Travel
@@ -63,64 +98,63 @@ Analyzes and optimizes tourism product portfolios, including itinerary design, p
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Talent Passport） | 适用于在法国找到符合条件的工作或创业，条件宽松 |
-| Subclass Salarié（Employee） | 由雇主担保的工作居留，需获得工签或公司转岗 |
-| Subclass Carte bleue UE（EU Blue Card） | 适用于高技能岗位，年薪需达到1.5倍平均工资 |
+| Subclass Passeport Talent (Talent Passport) | Suitable for finding eligible jobs or starting businesses in France, with relaxed conditions |
+| Subclass Salarié (Employee) | Employer-sponsored work residence requires obtaining a work visa or company job transfer |
+| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, with an annual salary at least 1.5 times the average salary |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Tourism Product Optimizer？**
-- 对旅游市场有敏锐洞察力，喜欢数据分析
-- 善于沟通和团队协作，能够协调多方资源
-
-**谁不适合学Tourism Product Optimizer？**
-- 不喜欢数字和数据分析工作
-- 缺乏创意和策略性思维
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Sharp insight into the tourism market and enjoys data analysis
+- Good at communication and teamwork, able to coordinate multiple resources
+
+**Who is not suited**
+- Does not like numbers and data analysis work
+- Lack of creativity and strategic thinking
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for travel product optimizers?**
+A: Entry-level is about 30k-38k euros, intermediate 38k-45k euros, and senior 45k-55k euros (pre-tax annual salary).
+
+**Q: How can foreigners immigrate to France to pursue this profession?**
+A: You can obtain a French employer contract through the Passeport Talent or Salarié residence path. Carte bleue UE is suitable for high-paying positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 好（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Tourism Product Optimizer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for a tourism product optimizer?**
-答：Entry-level: €30k-€38k, mid-level: €38k-€45k, senior: €45k-€55k gross annual.
-
-**问：How can foreigners immigrate to France for this occupation?**
-答：Through Talent Passport or Employee residence permits, requiring a French employer contract. EU Blue Card applies for high salaries.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

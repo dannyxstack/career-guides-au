@@ -1,60 +1,96 @@
-# Administrative and Executive Secretaries（Administrative and Executive Secretaries）职业分析 · NL
+# Administrative and Executive Secretaries — career analysis · Netherlands
 
-**职业代码：3343 – Administrative and Executive Secretaries。**
+**Occupation code: 3343 (ISCO08)**
 
-Administrative and Executive Secretaries manage schedules, handle correspondence, arrange meetings, and provide administrative support, serving as key enablers of office efficiency.
+Executive and administrative secretaries manage schedules, handle correspondence, arrange meetings, and provide administrative support in enterprises, playing a key role in ensuring efficient office operations.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（MBO） | 3-4年 | —（公立学校学费低，每年约€1,200） |
-| 高等职业教育（HBO） | 4年（本科） | —（公立大学学费约€2,200/年，非欧盟学生更高） |
+| Intermediate Vocational Education (MBO) | 3-4 years | $0~$2,000 (Public school tuition is low, about €1,200 per year) |
+| Higher Vocational Education (HBO) | 4 years (bachelor's degree) | $0~$15,000 (Public university tuition is about €2,200/year, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 秘书或行政管理文凭 | 荷兰职业教育机构（ROC） | 可选 | 从MBO或HBO学位获得，非强制但受雇主青睐 |
-| 欧盟秘书资格认证（European Secretarial Qualification） | 欧洲秘书协会 | 可选 | 国际认可，可提升竞争力 |
+| Diploma in secretarial or administrative studies | Netherlands vocational education institutions (ROC) | Optional | Obtained from MBO or HBO degree, not mandatory but favored by employers |
+| European Secretarial Qualification | European Secretariat Association | Optional | Internationally recognized, can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 85,000。荷兰行政岗位需求稳定，但受自动化影响增长缓慢。数字化转型推动对高级秘书的需求，尤其需要掌握多种语言和数字工具的人才。
+**Job demand: medium (★★½☆☆).** National workforce approx. 85,000. Demand for administrative positions in the Netherlands is stable but slow-growing due to automation. Digital transformation drives demand for advanced secretaries, especially those with multilingual and digital skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★☆☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-low (★★☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 税前年薪，不含补贴 |
-| 中级（4-7年） | $35,000~$45,000 | 税前年薪，经验丰富者更高 |
-| 高级（8年以上） | $45,000~$55,000 | 税前年薪，包括执行秘书或管理职位 |
+| Median salary | $52,166 | Median salary (official: CBS median hourly wage €26.4/hour × 1976h annualized, BRC group 0423 Directiesecretaresses; P25-P75 €45,250-€60,861, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$35,000 | Annual pre-tax salary, excluding allowances |
+| Mid-level (4-7 years) | $35,000~$45,000 | Annual pre-tax salary, higher with experience. |
+| Senior (8+ years) | $45,000~$55,000 | Annual pre-tax salary, including executive secretary or management positions |
+| average salary | $40,500 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级秘书可晋升至高级秘书或行政经理，也可转向更专业的领域如法律或医疗秘书。持续学习办公软件和外语有助于职业发展。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI will significantly reduce executive secretary and administrative assistant roles, with many routine tasks automated, but senior support and decision-making assistant roles will still retain opportunities.
+
+Junior secretaries can advance to senior secretaries or administrative managers, or move to specialized fields like legal or medical secretarial. Continuous learning of office software and foreign languages aids career development.
+
+**Tasks most exposed to AI:**
+
+- Manage electronic calendars, schedule meetings, and automatically coordinate participant availability
+- Draft and format standard documents such as letters, reports, and presentations
+- Organize and archive electronic files, perform data entry.
+- Handles travel bookings, expense reimbursement, and other procedural tasks
+- Screen and sort emails, automatically reply to routine inquiries
+
+**Where AI augments the role:**
+
+- Using AI analysis tools to extract key insights from reports to aid decision-making
+- Use AI to optimize scheduling, prioritizing high-priority tasks
+- Monitor project progress through AI, proactively remind of risks and to-dos.
+- Utilize AI translation and cross-cultural communication to expand global collaboration
+- Use AI to learn new software and processes, quickly adapting to changes
+
+**Human moat:**
+
+- Judgment and confidentiality in handling highly sensitive or classified information
+- Understand complex interpersonal networks within organizations, act as a trust bridge.
+- Flexible decision-making and autonomous action in ambiguous or urgent situations
+- Providing personalized, warm executive support and interpersonal coordination
+- Prestige and emotional intelligence to represent executives in internal and external communications
+
+**Skills to build:**
+
+- Advanced use of AI office tools (e.g., Copilot, Claude, Notion AI)
+- Data analysis and visualization (e.g., advanced Excel functions, Tableau)
+- Project coordination software (e.g., Asana, Jira) and agile methodologies
+- Cross-cultural business communication and basic legal and compliance knowledge
+- Information filtering and critical thinking to discern AI output quality
+- Proactive learning ability, keeping up with administrative technology changes
+
+**Key growth areas:**
 
 - Digital transformation
 - Multilingual skills
@@ -63,66 +99,68 @@ Administrative and Executive Secretaries manage schedules, handle correspondence
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant Permit） | 适用于年薪达€5,008/月（2024年标准）的高技能移民，需雇主担保。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于年薪€5,331/月（2024年）以上的非欧盟专业人士，允许在欧盟内工作。 |
-| Subclass Orientation Year（Orientation Year (Zoekjaar)） | 荷兰高校毕业生的求职年签证，允许自由工作一年。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applies to high-skilled immigrants earning up to €5,008/month (2024 standard), requiring employer sponsorship. |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU professionals with an annual salary above €5,331/month (2024), allowing work within the EU. |
+| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Orientation Year visa for graduates of Dutch higher education institutions, allowing free work for one year. |
+
+**PR friendliness: low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Administrative and Executive Secretaries？**
-- 注重细节、组织能力强的人
-- 擅长沟通和多任务处理的人
-- 希望从事稳定办公室工作的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People who are good at communication and multitasking
+- Those seeking stable office work
 
-**谁不适合学Administrative and Executive Secretaries？**
-- 不喜欢重复性行政工作的人
-- 不擅长使用数字工具的人
+**Who is not suited**
+- People who dislike repetitive administrative work
+- People who are not good at using digital tools
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for an Administrative Secretary in the Netherlands?**
+A: Entry-level annual salary about €28,000-€35,000, mid-level €35,000-€45,000, senior up to €55,000. Salary is affected by experience and industry.
+
+**Q: Can an executive secretary apply for a Dutch skilled migration visa?**
+A: Generally not, as this occupation is not a shortage occupation; high-skilled immigration requires a high annual salary threshold (about €60,000/year), which administrative secretaries typically do not meet.
+
+**Q: What certificates are needed to work as an executive secretary in the Netherlands?**
+A: No mandatory certification, but diplomas in secretarial/administrative studies from MBO or HBO are valued by employers; third-party certifications like the European Secretary Qualification can boost competitiveness.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-low (★★☆☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★☆☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较难（★★★★☆） |
-
-Administrative and Executive Secretaries属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for administrative secretaries in the Netherlands?**
-答：Entry-level annual salary is around €28,000-€35,000, mid-level €35,000-€45,000, and senior up to €55,000, depending on experience and industry.
-
-**问：Can administrative secretaries apply for skilled migration to the Netherlands?**
-答：Generally not, as the occupation is not in shortage; the highly skilled migrant income threshold (around €60,000/year) is typically not met.
-
-**问：What certifications are needed to work as an administrative secretary in the Netherlands?**
-答：No mandatory certification, but a secretarial or administrative diploma from MBO or HBO is preferred; optional certifications like the European Secretarial Qualification can enhance competitiveness.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

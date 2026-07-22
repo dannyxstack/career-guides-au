@@ -1,59 +1,95 @@
-# Rehabilitation Counselors（Rehabilitation Counselors）职业分析 · 美国
+# Rehabilitation Counselors — career analysis · United States
 
-**职业代码：21-1015 – Rehabilitation Counselors。**
+**Occupation code: 21-1015 (SOC)**
 
-Rehabilitation counselors help individuals facing personal, social, or vocational difficulties due to illness, disability, or aging, assessing needs and designing programs to maximize independence and employability.
+Rehabilitation counselors help individuals facing personal, social, or vocational difficulties due to illness, disability, or aging, by assessing needs and designing rehabilitation plans to maximize their independence and employability.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 硕士学位（常规路径） | 2年 | $30,000~$60,000（公立大学学费较低，私立较高） |
-| 学士学位（辅助路径） | 4年 | $40,000~$120,000（本科学位通常不足以独立执业） |
+| Master's degree (standard pathway) | 2 years | $30,000~$60,000 (Public universities have lower tuition, private universities higher) |
+| Bachelor's degree (alternative pathway) | 4 years | $40,000~$120,000 (A bachelor's degree is usually insufficient for independent practice) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家认证康复咨询师 (CRC) | 康复咨询师认证委员会 (CRCC) | 必备 | 硕士学历+考试；部分岗位强制 |
-| 州级执业执照 | 各州职业许可机构 | 可选 | 部分州要求额外执照 |
-| 临床康复咨询硕士 | 大学 | 必备 | CACREP认证课程常见要求 |
+| National Certified Rehabilitation Counselor (CRC) | Commission on Rehabilitation Counselor Certification (CRCC) | Required | Master's degree + exam; mandatory for some positions |
+| Master's in clinical rehabilitation counseling | University | Required | Common Requirements for CACREP-Accredited Programs |
+| State-level professional license | State occupational licensing authorities | Optional | Some states require additional licenses |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 116,500。美国劳工统计局预计2023-2033年该职业增长约10%，快于平均水平。老龄化人口和残疾人士对康复服务的需求持续增加，就业前景良好。
+**Job demand: high (★★★★☆).** National workforce approx. 116,500. The US Bureau of Labor Statistics projects about 10% growth for this occupation from 2023 to 2033, faster than average. Aging population and demand for rehabilitation services for people with disabilities ensure good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 通常需硕士学历 |
-| 中级（3-7年） | $48,000~$63,000 | 带证或有经验后提升 |
-| 高级（7年+） | $63,000~$85,000 | 主管或私人执业 |
+| Median salary | $46,850 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Usually requires a master's degree |
+| Mid-level (3–7 years) | $48,000~$63,000 | Improved after certification or experience |
+| Senior (7+ years) | $63,000~$85,000 | Supervisor or private practice |
+| average salary | $51,820 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级康复咨询师可晋升为高级咨询师、项目主管或临床主任。持有硕士学历及国家认证（CRC）有助于进入管理或私人执业岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
+
+Entry-level rehabilitation counsellors can advance to senior counsellor, program director, or clinical director. A master's degree and national certification (CRC) facilitate entry into management or private practice roles
+
+**Tasks most exposed to AI:**
+
+- Automatically generating initial drafts of behavior support plans and progress reports
+- AI analyzing behavioral data and identifying trigger patterns
+- Automated Reminders for Intervention Execution via Smart Systems
+- AI-assisted NDIS billing and compliance form completion
+- Chatbot handling routine family inquiries
+
+**Where AI augments the role:**
+
+- AI analyzes patient behavior data in real time and provides intervention recommendations
+- Natural language processing assists in writing case reports and therapy notes
+- Machine learning identifies high-risk behavior patterns for early warning
+- Virtual reality simulation of behavioral scenarios for employee training
+- AI-recommended personalized intervention strategies and community resources
+
+**Human moat:**
+
+- Comprehensive assessment and diagnosis of complex behavioral cases
+- Build trust with patients, families, and multidisciplinary teams
+- Flexibly adjust interventions based on unpredictable on-site responses
+- Ethical decision-making and regulatory compliance responsibilities
+- On-the-spot judgment in empathetic communication and crisis intervention
+
+**Skills to build:**
+
+- Proficient in NDIS regulations and PBS framework
+- Data analysis and behavioral pattern recognition
+- Using AI-assisted report generation tools (e.g., customized ChatGPT)
+- Evidence-based intervention strategy research and practice
+- Cross-cultural communication and family system counseling
+- Project management and team collaboration
+
+**Key growth areas:**
 
 - Aging population
 - Increased disability awareness
@@ -62,68 +98,67 @@ Rehabilitation counselors help individuals facing personal, social, or vocationa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 硕士职位常见，需雇主赞助；抽签竞争激烈 |
-| Subclass EB-2（EB-2 Employment-Based Green Card (Advanced Degree)） | 硕士及以上+PERM劳工证；常规绿卡路径 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主需证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Master's level positions common, require employer sponsorship; lottery is competitive |
+| Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Master's degree or higher + PERM labor certification; standard green card pathway. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate inability to find qualified US workers |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Rehabilitation Counselors？**
-- 有同理心、善于倾听的人
-- 喜欢帮助他人解决实际问题的人
-- 对残疾人或心理健康领域感兴趣的人
-
-**谁不适合学Rehabilitation Counselors？**
-- 不擅长处理情绪压力的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with empathy and good listening skills.
+- People who enjoy helping others solve practical problems.
+- Those interested in disability or mental health fields
+
+**Who is not suited**
+- People who are not good at handling emotional stress
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for rehabilitation counselors?**
+A: According to BLS data, the median annual salary in 2023 was approximately $49,000. Entry-level around $38,000–$48,000, senior supervisors or private practice can exceed $85,000.
+
+**Q: How can international students become rehabilitation counselors via H-1B?**
+A: Need a master's or doctoral degree, find an employer to sponsor H-1B. Due to the lottery, it is recommended to also apply for EB-2 green card. CRC certification and US license can increase competitiveness.
+
+**Q: What qualifications are needed to become a rehabilitation counselor?**
+A: Typically requires a master's degree in clinical rehabilitation counseling or related field (CACREP accredited). Bachelor's degree only qualifies for assistant roles. Some states require additional licenses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Rehabilitation Counselors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for rehabilitation counselors?**
-答：According to BLS, the median annual wage in 2023 was about $49,000. Entry-level ranges $38,000-$48,000, while senior or private practice can exceed $85,000.
-
-**问：How can international students become rehabilitation counselors via H-1B?**
-答：You need a master's or doctoral degree, an employer to sponsor H-1B. Due to the lottery, consider concurrent EB-2 green card. CRC certification and state license help.
-
-**问：What education is required to become a rehabilitation counselor?**
-答：Typically a master's degree in clinical rehabilitation counseling (CACREP-accredited). A bachelor's only qualifies for assistant roles. Some states require additional licensure.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,58 +1,90 @@
-# Natural and applied science policy researchers, consultants and program officers（Natural and applied science policy researchers, consultants and program officers）职业分析 · 加拿大
+# Natural and applied science policy researchers, consultants and program officers — career analysis · Canada
 
-**职业代码：41400 – Natural and applied science policy researchers, consultants and program officers。**
+**Occupation code: 41400 (NOC)**
 
-Provide policy research, evaluation, and strategic advice in natural and applied sciences for government, industry, or research organizations, and participate in science program planning and management.
+Provide policy research, evaluation, and strategic advice in natural sciences and engineering for government, businesses, or research institutions, and participate in science project planning and management.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$50,000（学费因省份和学校而异，国际生更高） |
-| 硕士 | 2年 | $15,000~$40,000（研究型硕士可能获得资助） |
+| Bachelor's degree | 4 years | $20,000~$50,000 (Tuition varies by province and school; higher for international students) |
+| Master's degree | 2 years | $15,000~$40,000 (Research master's degrees may receive funding) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 相关领域学士学位 | 加拿大大学 | 必备 | 科学、工程、公共政策等 |
-| 省级专业协会注册（如适用） | 省级工程或科学协会 | 可选 | 部分岗位需要 |
+| Bachelor's degree in a related field | Canadian universities | Required | Science, Engineering, Public Policy, etc. |
+| Provincial professional association registration (if applicable) | Provincial engineering or scientific association | Optional | Some roles require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 12,000。加拿大对科学政策与创新日益重视，尤其是清洁技术、数字化和健康领域，预计未来五年就业稳定增长。政府及私营部门对专业政策人才需求持续。
+**Job demand: high (★★★★☆).** National workforce approx. 12,000. Canada is placing increasing emphasis on science policy and innovation, especially in clean technology, digitalization, and health. Stable employment growth is expected over the next five years. Government and private sector demand for professional policy talent continues.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 联邦/省级政府或非营利组织 |
-| 中级（4-7年） | $75,000~$95,000 | 高级分析师或项目经理 |
-| 高级（8年以上） | $95,000~$120,000 | 主管或首席政策顾问 |
+| Median salary | $90,002 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $55,000~$75,000 | Federal/provincial government or non-profit organizations |
+| Mid-level (4-7 years) | $75,000~$95,000 | Senior analyst or project manager |
+| Senior (8+ years) | $95,000~$120,000 | Director or Senior Policy Advisor |
+| average salary | $95,680 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级研究员或项目助理起步，积累经验后可晋升高级政策分析师、项目经理或部门主管。部分转向学术或国际组织。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will enhance data analysis and report writing efficiency, but policy judgment, stakeholder coordination, and decision-making under uncertainty remain core human areas; overall, it's a mixed blessing.
+
+Starting as a junior researcher or project assistant, you can progress to senior policy analyst, project manager, or department head after gaining experience. Some transition to academia or international organizations.
+
+**Tasks most exposed to AI:**
+
+- Literature review and background research (AI automatically summarizes papers and report abstracts).
+- Data cleaning and basic statistical analysis (AI handles data processing and visualization)
+- Initial drafting of policy memos (LLM-generated draft structure)
+
+**Where AI augments the role:**
+
+- Policy scenario modeling and impact simulation (AI rapidly generates multiple hypothetical outcomes)
+- Optimization of stakeholder communication strategies (AI analysis of conversation history and recommendations)
+- Cross-disciplinary knowledge retrieval and integration (AI connecting scientific literature and policy documents)
+- Report quality checks and consistency verification (AI detects logic flaws).
+
+**Human moat:**
+
+- Policy trade-off judgment in ambiguous, multi-stakeholder scenarios
+- Building trust and negotiation with scientists, officials, and the public
+- Consideration of implicit factors such as policy ethics and social justice.
+- Dealing with emergencies and unpredictable public crises
+
+**Skills to build:**
+
+- Policy analysis and evaluation methods (cost-benefit, risk analysis)
+- Stakeholder management and public engagement skills
+- AI tool application (e.g., automated modeling, natural language processing)
+- Science and policy translation skills (explaining complex concepts in non-specialist language)
+- Systems Thinking and Decision-Making under Uncertainty
+- Data literacy (understanding AI output bias)
+
+**Key growth areas:**
 
 - clean technology policy
 - digital transformation
@@ -61,68 +93,67 @@ Provide policy research, evaluation, and strategic advice in natural and applied
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Federal Skilled Worker Program） | 适合有相关学历和一年以上工作经验的申请人 |
-| Subclass PNP（Provincial Nominee Program） | 各省有针对科技或创新领域的省提名项目 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，可作为移民跳板 |
+| Subclass Express Entry (Federal Skilled Worker Program) | Suitable for applicants with relevant qualifications and over one year of work experience |
+| Subclass PNP (Provincial Nominee Program) | Provinces have Provincial Nominee Programs targeting tech or innovation sectors |
+| Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can serve as a pathway to immigration |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Natural and applied science policy researchers, consultants and program officers？**
-- 对科学政策有浓厚兴趣的研究型人才
-- 具备跨学科沟通与写作能力
-- 希望从事公共或非营利部门工作
-
-**谁不适合学Natural and applied science policy researchers, consultants and program officers？**
-- 偏好纯技术研发而非政策分析
-- 不喜欢行政和文书工作
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Research-oriented talent with strong interest in science policy
+- Interdisciplinary communication and writing skills
+- Wishing to work in the public or non-profit sector
+
+**Who is not suited**
+- Prefers pure technical R&D over policy analysis
+- Dislike administrative and clerical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Canada?**
+A: Junior about C$55,000-75,000, senior up to C$95,000-120,000, government positions have good benefits but limited salary growth.
+
+**Q: What are the pathways to immigrate to Canada for this occupation?**
+A: Mainly through Express Entry (FSW) and Provincial Nominee Program (PNP). Some employers can provide LMIA work permit sponsorship.
+
+**Q: What educational background is required?**
+A: Usually requires a bachelor's degree in science, engineering, or public policy; a master's degree is advantageous. Some certifications require provincial association registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（本科+硕士）（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Natural and applied science policy researchers, consultants and program officers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for this occupation in Canada?**
-答：Entry-level around CAD 55,000-75,000; senior up to CAD 95,000-120,000. Government positions offer good benefits.
-
-**问：What are the immigration pathways for this occupation?**
-答：Mainly through Express Entry (FSW) and PNP. Some employers may provide LMIA work permit sponsorship.
-
-**问：What educational background is required?**
-答：A bachelor's degree in science, engineering, or public policy is typical; a master's is advantageous. Some roles require provincial association registration.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

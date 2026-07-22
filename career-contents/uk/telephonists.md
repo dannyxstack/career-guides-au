@@ -1,60 +1,95 @@
-# Telephonists（Telephonists）职业分析 · UK
+# Telephonists — career analysis · United Kingdom
 
-**职业代码：7212 – Telephonists。**
+**Occupation code: 7212 (SOC)**
 
-Telephonists receive and direct callers in commercial and industrial establishments, operate switchboards, and assist with making and receiving calls.
+Telephone operators receive and transfer calls in commercial, industrial, and other settings, operate switchboards, and assist users with calls.
 
-> 注：本职业为**非技术移民职业**，不在UK技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 高中毕业 | 0年 | —（通常只需高中文凭，在职培训） |
-| 客服短期课程 | 3个月 | $500~$2,000（可选，提升竞争力） |
+| High school graduation | 0 years | $0~$0 (Usually requires only a high school diploma with on-the-job training) |
+| Short-term customer service course | 3 months | $500~$2,000 (Optional, enhances competitiveness) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业证书 | 学校 | 必备 | 基本要求 |
-| 客服技能证书 | 培训机构 | 可选 | 非强制但有利 |
+| High school graduation certificate | School | Required | Basic requirements |
+| Customer Service Skills Certificate | Training institution | Optional | Not mandatory but advantageous |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 12,000。随着自动化和数字通信技术的发展，电话接线员需求预计下降。但部分行业如酒店、医疗仍需要人工服务。
+**Job demand: low (★½☆☆☆).** National workforce approx. 12,000. With the development of automation and digital communication technology, demand for telephone operators is expected to decline. However, some industries such as hospitality and healthcare still require human service.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 入门级薪资较低 |
-| 中级（3-5年） | $22,000~$26,000 | 有经验后略有提升 |
-| 高级（5年以上） | $26,000~$30,000 | 资深或主管级别薪资 |
+| Median salary | $31,568 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Entry-level salary is relatively low |
+| Mid-level (3–5 years) | $22,000~$26,000 | Slight increase after gaining experience |
+| Senior (5+ years) | $26,000~$30,000 | Senior or supervisory level salary |
+| average salary | $30,767 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★☆☆☆☆）。** 晋升路径有限，可转向客服主管、呼叫中心经理或行政助理等职位，需积累沟通和客户服务经验。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Telephone operator roles face high risk of automation; AI voice assistants and automatic switchboard systems will significantly replace manual call transfer and basic inquiry tasks, leading to a marked decline in demand.
+
+Limited promotion paths; can transition to roles such as customer service supervisor, call center manager, or administrative assistant, requiring accumulated communication and customer service experience.
+
+**Tasks most exposed to AI:**
+
+- Automatically transfer calls to extensions or departments
+- Provides standardized business information queries (e.g., business hours, address)
+- Record and relay oral messages
+- Process simple complaints and consultation triaging
+- Monitor telephone line status and report faults
+
+**Where AI augments the role:**
+
+- AI real-time translation assistance can help operators handle multilingual calls.
+- Smart knowledge base suggests improving answer accuracy for complex queries
+- Sentiment analysis tools can indicate customer emotional states, optimizing service strategies
+- Automated backend data entry reduces clerical burden, allowing operators to focus on conversations
+
+**Human moat:**
+
+- Handle urgent, complex, or emotional customer complaints
+- High-level or confidential call transfer scenarios requiring human judgment
+- Personalized customer relationship maintenance and care
+- Multitasking coordination and contingency response.
+- Service communication requiring empathy and emotional intelligence
+
+**Skills to build:**
+
+- Proficiency in configuring and monitoring AI call center platforms
+- learn to operate customer relationship management (CRM) systems
+- Enhance complex problem-solving and conflict de-escalation skills
+- Basic data analysis skills to interpret call quality reports
+- Digital literacy, including voice bot training and optimization
+- Multilingual ability (English + second foreign language) to complement AI translation tools.
+
+**Key growth areas:**
 
 - Declining
 - Automation
@@ -63,62 +98,64 @@ Telephonists receive and direct callers in commercial and industrial establishme
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 电话接线员不在移民局可担保职业列表中，雇主难以为此职位提供担保。 |
-| Subclass Graduate（Graduate visa） | 毕业生签证允许在英工作，但此职位薪资低，不满足技术工作签证要求。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Telephone operator is not on the immigration department's list of sponsorable occupations, making it difficult for employers to sponsor this position. |
+| Subclass Graduate (Graduate visa) | Graduate visa allows work in the UK, but this position has low salary and does not meet skilled work visa requirements. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Telephonists？**
-- 希望快速入职、不需要高学历的人
-- 沟通能力好、耐心细致的人
-- 寻求兼职或临时工作的人
+**Who is suited**
+- People who want to start work quickly without needing a high level of education
+- People with good communication skills, patience, and attention to detail
+- People seeking part-time or casual work
 
-**谁不适合学Telephonists？**
-- 追求高薪和职业发展的人
-- 不喜欢重复性工作、希望技术含量高的人
+**Who is not suited**
+- Those seeking high salary and career advancement
+- People who dislike repetitive work and want high technical content
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for a telephone operator?**
+A: Average annual salary for UK telephone operator is around £22,000, entry-level £18,000-22,000, senior up to £30,000.
+
+**Q: Can a telephone operator apply for a UK Skilled Worker visa?**
+A: Generally not. This occupation is not on the list of eligible occupations for sponsorship, and the salary is below the skilled visa threshold.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | very low (½☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（½☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★☆☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Telephonists属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for telephonists?**
-答：Average salary is around £22,000; entry-level £18,000-£22,000, senior up to £30,000.
-
-**问：Can telephonists apply for a Skilled Worker visa?**
-答：Typically no. It is not on the eligible occupations list and salary is below the visa threshold.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

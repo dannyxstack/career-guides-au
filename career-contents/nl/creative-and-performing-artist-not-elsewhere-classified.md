@@ -1,58 +1,90 @@
-# Creative and Performing Artist (Not Elsewhere Classified)（Creative and Performing Artist (Not Elsewhere Classified)）职业分析 · NL
+# Creative and Performing Artist (Not Elsewhere Classified) — career analysis · Netherlands
 
-**职业代码：2659 – Creative and Performing Artist (Not Elsewhere Classified)。**
+**Occupation code: 2659 (ISCO08)**
 
-Includes independent artists, street performers, and freelance creative workers in music, dance, theater, visual arts, and other non-mainstream performance forms.
+Includes independent artists, street performers, freelance creative workers, etc., engaging in music, dance, theater, visual arts, and other non-mainstream performance forms.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专科或职业培训 | 3年 | $1,000~$15,000（公立院校学费较低，私立较高） |
-| 本科（艺术类） | 4年 | $7,000~$12,000（欧盟学生学费约€2,000，非欧盟更高） |
+| Diploma or vocational training | 3 years | $1,000~$15,000 (Public universities have lower tuition fees, while private ones are higher) |
+| Bachelor's degree (Arts) | 4 years | $7,000~$12,000 (Tuition for EU students is around €2,000, higher for non-EU students) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：很低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资质要求 | 无 | 可选 | 主要凭作品集和行业认可 |
-| 艺术家居留签证资格 | 荷兰移民局(IND) | 可选 | 需证明艺术成就和收入能力 |
+| No mandatory qualification requirements | None | Optional | Based mainly on portfolio and industry recognition |
+| Artist residence visa eligibility | Immigration and Naturalisation Service (IND) | Optional | Must demonstrate artistic achievements and income ability |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 15,000。荷兰创意产业活跃，政府对艺术投资稳定，但竞争激烈，短期合同常见。数字化趋势带来线上演出新机会。
+**Job demand: medium (★★½☆☆).** National workforce approx. 15,000. The Dutch creative industry is active with stable government investment in the arts, but competition is fierce and short-term contracts are common. Digital trends bring new opportunities for online performances.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $20,000~$35,000 | 不稳定，多为兼职或项目收入 |
-| 中级（3-7年） | $35,000~$55,000 | 部分稳定演出或教学收入 |
-| 高级（7年以上） | $50,000~$80,000 | 知名艺术家或机构职位 |
+| Median salary | $45,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $20,000~$35,000 | Unstable, mostly part-time or project-based income |
+| Mid-level (3–7 years) | $35,000~$55,000 | Partial stable performance or teaching income |
+| Senior (7+ years) | $50,000~$80,000 | Positions at renowned artists or institutions |
+| average salary | $45,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 多数为自由职业，可逐步建立个人品牌，拓展至教学、策展、艺术管理等领域，少数能进入顶尖艺术机构。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI's impact on creative performing artists is mixed: some executive tasks (e.g., colour grading, basic composition) face automation, but core creativity, improvisational interaction, and emotional expression are amplified by AI tools, fostering new creative possibilities.
+
+Mostly freelance, gradually build personal brand, expand into teaching, curation, arts management, etc., few can enter top-tier art institutions.
+
+**Tasks most exposed to AI:**
+
+- Using AI to generate background music or sound effects, replacing manual composition
+- Automated video editing and effects compositing to reduce post-production manpower.
+- AI drawing tools replace some concept sketches and illustration production.
+- Virtual character dubbing and motion capture replace some work of human actors
+
+**Where AI augments the role:**
+
+- AI-assisted brainstorming for creative concepts, quickly generating multiple artistic proposals
+- Using AI to analyze audience feedback to optimize performance content and interaction
+- Reduce production costs with AI tools to achieve low-cost high-quality output
+- AI generates real-time visual effects to enhance immersive live performances
+
+**Human moat:**
+
+- Improv performance and real-time emotional interaction, cannot be predicted by algorithms
+- Unique personal artistic style and brand recognition
+- Cross-media complex narratives and deep cultural connotations
+- Audience emotion control and adaptability in live performances
+
+**Skills to build:**
+
+- Proficiency in AI art tools (e.g., Midjourney, Suno, Runway)
+- Data-driven content planning and audience analysis
+- Cross-media collaboration and project management skills
+- Personal brand management and social media marketing
+- Immersive Experience Design (AR/VR Interaction)
+
+**Key growth areas:**
 
 - Digital performance
 - Freelance economy
@@ -61,68 +93,67 @@ Includes independent artists, street performers, and freelance creative workers 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于受雇于认可担保机构的高技能艺术家，需满足收入门槛（2024年约€4,500月薪）。 |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高收入艺术家，需有雇佣合同且薪资达€5,331/月（2024年）。 |
-| Subclass Orientation Year（Orientation Year） | 荷兰毕业或全球前200高校毕业生可申请，获1年求职期，自由工作。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled artists employed by recognized sponsoring organizations, meeting income threshold (approx. €4,500 monthly salary in 2024). |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to high-income artists, requiring an employment contract and a salary of at least €5,331/month (2024). |
+| Subclass Orientation Year (Orientation Year) | Graduates from the Netherlands or top 200 global universities can apply, receive a 1-year job search period, and work freely. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Creative and Performing Artist (Not Elsewhere Classified)？**
-- 具备强烈创作热情和自驱力的独立艺术家
-- 能接受不稳定收入且善于多项目运营的人
-- 擅长自我营销和数字化展示的人才
-
-**谁不适合学Creative and Performing Artist (Not Elsewhere Classified)？**
-- 追求稳定薪酬和固定工作时间的人
-- 缺乏自律和项目管理能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Independent artists with strong creative passion and self-motivation
+- People who can accept unstable income and are good at managing multiple projects
+- Professionals skilled in self-marketing and digital presentation
+
+**Who is not suited**
+- People seeking stable salary and fixed working hours
+- Those lacking self-discipline and project management skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average income of creative performing artists?**
+A: Income varies greatly; entry-level may be only €20,000/year, while senior can reach €80,000/year, but most are project-based and unstable.
+
+**Q: How can non-EU artists immigrate to the Netherlands?**
+A: Either a skilled migration visa (with employer sponsorship) or an EU Blue Card (high salary requirement); alternatively, study first then switch via a job-seeking year visa.
+
+**Q: Career development paths for artists in the Netherlands?**
+A: Start with freelance performances, gradually build a personal brand, and expand into teaching, curation, art management; a few enter top institutions or receive government funding.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 很低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Creative and Performing Artist (Not Elsewhere Classified)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income for creative performing artists?**
-答：Income varies widely; entry-level may earn €20,000/year, while top artists can reach €80,000/year, but most are project-based and irregular.
-
-**问：How can non-EU artists immigrate to the Netherlands?**
-答：Via the Highly Skilled Migrant visa (employer sponsorship) or EU Blue Card (high salary), or by studying first then using the Orientation Year visa.
-
-**问：What is the career path for artists in the Netherlands?**
-答：Start as a freelancer, build a personal brand, then expand into teaching, curation, or arts management; a few join top institutions or receive government grants.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

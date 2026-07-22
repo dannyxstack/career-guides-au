@@ -1,60 +1,96 @@
-# Tattooist and Piercer（Tattooist and Piercer）职业分析 · DE
+# Tattooist and Piercer — career analysis · Germany
 
-**职业代码：8233 – Tattooist and Piercer。**
+**Occupation code: 8233 (KldB)**
 
-Tattooists and piercers create skin art including tattoos and body piercings, requiring hygiene standards, artistic skills, and customer communication.
+Tattooists and piercers perform skin art, including tattoo design and body piercing, requiring hygiene standards, artistic skills, and client communication.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制培训（Ausbildung） | 3年 | —（双元制培训通常无学费，职业学校可能收取少量材料费。） |
-| 进修课程（Weiterbildung） | 6-12个月 | $3,000~$10,000（私人培训机构提供纹身/穿刺课程，费用不等。） |
+| Dual vocational training (Ausbildung) | 3 years | $0~$500 (Dual system training is usually tuition-free; vocational schools may charge a small material fee.) |
+| Further education course (Weiterbildung) | 6–12 months | $3,000~$10,000 (Private training providers offer tattoo/piercing courses with varying fees.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 卫生许可证（Hygienezertifikat） | 当地卫生局（Gesundheitsamt） | 必备 | 从事纹身/穿刺必须完成卫生培训并通过考核。 |
-| 职业培训证书（Ausbildungszeugnis） | 工商业联合会（IHK） | 可选 | 完成双元制培训后获得，提升就业竞争力。 |
+| Hygiene Certificate (Hygienezertifikat) | Local health authority (Gesundheitsamt). | Required | Tattooing/piercing requires completion of hygiene training and passing an assessment. |
+| Vocational training certificate (Ausbildungszeugnis) | Chamber of Industry and Commerce (IHK) | Optional | Awarded upon completion of dual system training, enhancing employability. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,000。德国纹身和穿刺行业持续增长，但市场趋于饱和，竞争激烈。优秀艺术家的需求稳定，但入门困难。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,000. The German tattoo and piercing industry is growing but the market is becoming saturated and competitive. Demand for skilled artists is stable, but entry is difficult.
 
-**竞争度：高（★★★★☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$28,000 | 受雇于工作室，收入常与提成挂钩。 |
-| 中级（3-7年） | $28,000~$45,000 | 经验丰富，固定客户群体。 |
-| 高级（7年以上） | $45,000~$70,000 | 知名艺术家或自雇，收入波动大。 |
+| Median salary | $28,968 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $18,000~$28,000 | Employed by studios, income often linked to commissions. |
+| Mid-level (3–7 years) | $28,000~$45,000 | Experienced with a fixed client base. |
+| Senior (7+ years) | $45,000~$70,000 | Well-known artists or self-employed, with fluctuating income. |
+| average salary | $30,984 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业晋升路径有限，多为自雇或开设工作室。可通过打造个人品牌、参加国际展会提升知名度，少数转向培训或器材销售。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on tattoo and piercing artists: design generation and client communication can be AI-assisted, but core manual operations, hygiene safety, and interpersonal trust are hard to replace. Entry-level jobs may shrink due to online design tools, but high-skilled custom demand remains strong.
+
+Limited career advancement pathways, mostly self-employed or running a studio. Can increase visibility by building a personal brand and attending international exhibitions; a few transition to training or equipment sales.
+
+**Tasks most exposed to AI:**
+
+- Process of searching for tattoo design inspiration using search engines or image libraries
+- Hand-draw initial design sketches (AI can quickly generate multiple variants)
+- Initial needs analysis and style matching in customer communication (AI chatbots can pre-screen)
+- Layout and proportion preview of tattoo designs (AR tools can overlay automatically).
+- Generate standardized puncture disinfection procedure records (AI document system automatically completes)
+
+**Where AI augments the role:**
+
+- AI tattoo design generators (e.g., Midjourney) quickly create personalized patterns for clients
+- AR preview tool allows clients to see tattoo effects on body parts in real time, improving conversion rates
+- AI health monitoring system automatically checks disinfection equipment status and operational protocols to reduce infection risk
+- AI customer relationship management system predicts customer preferences and recommends repeat treatment or care plans.
+- AI color matching algorithm assists in selecting tattoo ink that suits skin tone
+
+**Human moat:**
+
+- Hand tattooing/piercing skills: needle feel, pressure, angle—tactile control that AI cannot replace
+- Aseptic technique and infection control: strict hygiene protocols and on-site emergency handling skills.
+- Customer trust and emotional connection: building long-term relationships through face-to-face communication, understanding deep needs
+- Artistic intuition and personalization: create unique designs based on client's body features and story
+- Brand reputation and word-of-mouth accumulation: personal portfolios and client referrals are difficult for algorithms to replicate.
+
+**Skills to build:**
+
+- Prompt engineering and aesthetic correction for AI tattoo design tools (e.g., Midjourney, DALL·E 3)
+- Operation of AR/VR preview software (e.g., InkHunter) and customer presentation techniques
+- Basic programming and data management (for automating customer files, appointment systems)
+- Social media marketing (using AI to analyze trends, promote personal work)
+- Health and safety regulation updates (combined with interpretation of AI monitoring systems)
+- Color theory and skin science (manual validation after AI-assisted color matching)
+
+**Key growth areas:**
 
 - Self-employment
 - Artistic specialization
@@ -63,66 +99,68 @@ Tattooists and piercers create skin art including tattoos and body piercings, re
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Immigration Act） | 需完成德国认可的职业培训（3年双元制），可能适用于受雇纹身师。 |
-| Subclass Freelancer（Freiberufler Visa） | 自雇纹身师可申请，需证明业务稳定且有足够收入。 |
-| Subclass Job Seeker（Job Seeker Visa） | 允许在德居留6个月寻找工作，但需相关资质。 |
+| Subclass Skilled Worker (Skilled Immigration Act) | Must complete a recognized vocational training (3-year dual system) in Germany, may apply to employed tattoo artists. |
+| Subclass Freelancer (Freiberufler Visa) | Self-employed tattoo artists can apply, requiring proof of stable business and sufficient income. |
+| Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek work, but requires relevant qualifications. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Tattooist and Piercer？**
-- 有艺术天赋和创造力的人
-- 能独立工作并建立客户关系的人
-- 对卫生标准高度负责的人
+**Who is suited**
+- People with artistic talent and creativity
+- People who can work independently and build client relationships
+- People with a high sense of responsibility for hygiene standards
 
-**谁不适合学Tattooist and Piercer？**
-- 追求稳定高收入的人
-- 不擅长自我营销的人
+**Who is not suited**
+- People seeking stable high income
+- People who are not good at self-marketing
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average income of a tattoo artist in Germany?**
+A: Employed tattoo artist salary about €28,000-45,000 per year; self-employed income varies, top artists can earn over €70,000.
+
+**Q: Can tattoo artists immigrate to Germany?**
+A: Quite difficult because the occupation is unregulated and not in shortage. Requires completion of recognized vocational training in Germany, or proving business capability with a self-employment visa.
+
+**Q: What qualifications do tattoo artists need in Germany?**
+A: Must obtain a local health permit and complete relevant training. In addition, a dual-system training certificate helps with employment but is not mandatory.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 高（★★★★☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Tattooist and Piercer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average income of a tattooist in Germany?**
-答：Employed tattooists earn around €28,000-45,000 annually; self-employed income varies widely, with top artists earning over €70,000.
-
-**问：Can a tattooist immigrate to Germany?**
-答：It is difficult as the profession is unregulated and not in shortage. Requires recognized vocational training or a freelancer visa with proven business capability.
-
-**问：What qualifications are needed for tattooists in Germany?**
-答：A hygiene certificate from the local health office is mandatory. A vocational training certificate is beneficial but not compulsory.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

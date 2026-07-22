@@ -1,61 +1,97 @@
-# Paramedics（Paramedics）职业分析 · 美国
+# Paramedics — career analysis · United States
 
-**职业代码：29-2043 – Paramedics。**
+**Occupation code: 29-2043 (SOC)**
 
-Administer basic or advanced emergency medical care, assess injuries and illnesses, and provide life support, including IV medication and EKG usage, excluding EMTs and ambulance drivers.
+Provide basic or advanced emergency medical care to the sick and injured, assess conditions and perform life-saving interventions, including intravenous medication, ECG use, or advanced life support equipment.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $10,000~$30,000（社区学院学费） |
-| 学士学位 | 4年 | $40,000~$120,000（公立大学学费） |
+| Associate degree | 2 years | $10,000~$30,000 (Community college tuition) |
+| Bachelor's degree | 4 years | $40,000~$120,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家注册护理人员(NRP) | 国家紧急医疗技术人员注册局(NREMT) | 必备 | 通过认知和技能考试 |
-| 州级急救医疗技术员执照 | 各州卫生部门 | 必备 | 各州要求不同，通常包括背景调查 |
-| 高级心脏生命支持(ACLS)认证 | 美国心脏协会 | 可选 | 自愿但雇主普遍要求 |
+| Nationally Registered Caregiver (NRP) | National Registry of Emergency Medical Technicians (NREMT) | Required | Pass cognitive and skills tests |
+| State emergency medical technician license | State health departments | Required | Requirements vary by state, typically include background check |
+| Advanced Cardiac Life Support (ACLS) certification. | American Heart Association | Optional | Voluntary but commonly required by employers |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 270,000。美国对护理人员的需求因老龄化人口和紧急医疗服务扩展而持续增长，BLS预计2022-2032年就业增长约7%，年均空缺约2万人。
+**Job demand: high (★★★★☆).** National workforce approx. 270,000. Demand for nurses in the U.S. continues to grow due to aging population and expansion of emergency medical services. BLS projects 7% employment growth from 2022-2032, with approx. 20,000 annual openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$48,000 | 含加班和夜间津贴 |
-| 中级（4-9年） | $48,000~$65,000 | 含经验津贴 |
-| 高级（10年以上） | $65,000~$85,000 | 含主管或培训师津贴 |
+| Median salary | $60,600 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $35,000~$48,000 | Including overtime and night allowances |
+| Intermediate (4-9 years) | $48,000~$65,000 | Includes experience allowance. |
+| Senior (10+ years) | $65,000~$85,000 | Includes supervisor or trainer allowance |
+| average salary | $63,360 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 从初级救护员晋升为高级护理人员，进一步可担任主管、培训师或进入急诊科管理岗位，部分人选择攻读医师助理或护理学位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Progress from entry-level paramedic to advanced care paramedic, further to supervisor, trainer, or emergency department management roles; some pursue a physician assistant or nursing degree.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - Aging Population
 - Emergency Services Expansion
@@ -64,66 +100,68 @@ Administer basic or advanced emergency medical care, assess injuries and illness
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 护理人员通常不符合H-1B专业职位要求，除非拥有学士学位且岗位特殊 |
-| Subclass EB-3（EB-3 Skilled Workers） | 有经验且通过劳工证，但雇主担保稀少，通常需医院支持 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 通过PERM申请绿卡，但雇主需证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Nursing staff usually do not meet H-1B professional position requirements unless they have a bachelor's degree and the role is specialized |
+| Subclass EB-3 (EB-3 Skilled Workers) | Experienced and with labor certification, but employer sponsorship rare, typically requires hospital support. |
+| Subclass Green Card (PERM) (PERM Labor Certification) | Apply for green card through PERM, but employer must prove no qualified US worker available |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Paramedics？**
-- 对紧急医疗有热情
-- 能承受高压工作
-- 适应轮班和不规律作息
+**Who is suited**
+- Passionate about emergency medical care
+- Can handle high-pressure work
+- Adaptable to shift work and irregular schedules
 
-**谁不适合学Paramedics？**
-- 畏惧血液和创伤场景
-- 无法快速决策
+**Who is not suited**
+- Fear of blood and trauma scenes
+- Unable to make quick decisions
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of nursing assistants in the US?**
+A: According to BLS 2023 data, median annual salary is about $49,000, with the top 10% earning over $85,000, but salary is affected by location, experience, and employer.
+
+**Q: Can foreign nurses work in the US on an H-1B visa?**
+A: Difficult. H-1B typically requires bachelor's degree or higher and a professional position; nursing positions usually do not qualify. Most employers do not offer sponsorship.
+
+**Q: What are the career progression paths for nursing staff?**
+A: Can advance to senior caregiver, supervisor, trainer, or move into emergency department management, physician assistant, nursing, etc.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Paramedics属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for paramedics in the US?**
-答：According to BLS 2023, median annual wage is about $49,000, top 10% exceed $85,000, varies by region, experience, and employer.
-
-**问：Can foreign paramedics work in the US via H-1B visa?**
-答：Unlikely. H-1B usually requires bachelor's degree and specialty occupation, which paramedic roles often lack. Most employers do not sponsor.
-
-**问：What are the career advancement paths for paramedics?**
-答：Can advance to senior paramedic, supervisor, instructor, or transition to emergency department management, physician assistant, or nursing.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

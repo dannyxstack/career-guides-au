@@ -1,60 +1,91 @@
-# Mechanical Door Repairers（Mechanical Door Repairers）职业分析 · 美国
+# Mechanical Door Repairers — career analysis · United States
 
-**职业代码：49-9011 – Mechanical Door Repairers。**
+**Occupation code: 49-9011 (SOC)**
 
-Install, service, or repair automatic door mechanisms, hydraulic doors, and garage doors to ensure safe and proper operation.
+Responsible for installing, repairing, and maintaining automatic doors, hydraulic doors, and garage doors, ensuring safe and normal operation.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：简单（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无固定 | —（通常为入门要求） |
-| 在职培训或学徒制 | 1-2年 | —（雇主提供培训或社区学院课程） |
+| High school diploma or equivalent | No fixed requirement | $0~$0 (Typically an entry-level requirement) |
+| On-the-job training or apprenticeship | 1-2 years | $0~$5,000 (Employer-provided training or community college courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制执照 | 无 | 可选 | 部分州可能要求承包商执照，但多数岗位无需 |
-| 行业认证 | 美国门业协会 | 可选 | 自愿认证可提升竞争力 |
+| No mandatory license | None | Optional | Some states may require a contractor license, but most positions do not |
+| Industry certifications | American Door Association | Optional | Voluntary certification can enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 22,000。随着建筑自动化和维修需求增长，预计就业机会稳步增加，但受经济周期影响。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 22,000. Employment opportunities are expected to grow steadily with increased demand for building automation and maintenance, but are affected by economic cycles.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $34,000~$42,000 | 学徒或入门级薪资 |
-| 中级（3-7年） | $44,000~$55,000 | 独立操作常见 |
-| 高级（7年以上） | $56,000~$70,000 | 含主管或特殊技能 |
+| Median salary | $55,720 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $34,000~$42,000 | Apprentice or entry-level wage |
+| Mid-level (3–7 years) | $44,000~$55,000 | Independent operation common |
+| Senior (7+ years) | $56,000~$70,000 | Includes supervisor or special skills |
+| average salary | $57,540 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从学徒晋升为熟练技工，进而成为监理或自主创业，或向电梯、工业门维修等高端领域发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Mechanical door repairers face mixed impacts from AI automation: smart diagnostic tools can reduce troubleshooting time, but the extensive manual work, on-site adaptation, and safety assessments during installation and repair are hard to replace.
+
+Can progress from apprentice to skilled tradesperson, then to supervisor or self-employment, or move into high-end areas such as elevator or industrial door maintenance.
+
+**Tasks most exposed to AI:**
+
+- Sensor-based automatic door fault diagnosis and warning (AI analysis of vibration/sound patterns)
+- Simple remote adjustment of door parameters (e.g., opening/closing speed, torque limits)
+- Automatically generate repair reports and parts lists
+
+**Where AI augments the role:**
+
+- AI-assisted rapid fault localization (combining historical data and real-time sensors)
+- Augmented reality (AR) overlays installation diagrams or maintenance steps
+- Smart scheduling and inventory optimization (auto-forecast part demand)
+
+**Human moat:**
+
+- Fine-tuning and calibration of complex mechanical systems (e.g., hydraulic door pressure balancing)
+- On-site safety risk assessment (e.g., emergency stop system testing)
+- Communicate with clients about fault performance and develop retrofit plans
+- Handle non-standard, old, or customized door systems
+
+**Skills to build:**
+
+- Smart door controller programming (e.g., BAS/PLC basics)
+- IoT sensor installation and configuration
+- Use of AR repair assistance devices
+- Mobile app diagnostic tool operation
+- Basic electrical and electronic repair skills
+- client communication and project management
+
+**Key growth areas:**
 
 - Building Automation
 - Retail & Commercial Construction
@@ -63,62 +94,64 @@ Install, service, or repair automatic door mechanisms, hydraulic doors, and gara
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适合，因该职业通常不要求学士学位 |
-| Subclass EB-3（Employment-Based Third Preference） | 极少见，需雇主证明无法找到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Generally not suitable, as the occupation typically does not require a bachelor's degree |
+| Subclass EB-3 (Employment-Based Third Preference) | Very rare; requires employer to prove no qualified US workers are available |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Mechanical Door Repairers？**
-- 喜欢动手维修、有机械兴趣
-- 不介意体力劳动和现场工作
-- 希望稳定职业、无需大学学位
+**Who is suited**
+- Enjoys hands-on repair work and has mechanical interest
+- People who don't mind physical labor and fieldwork
+- Those seeking stable careers without needing a university degree
 
-**谁不适合学Mechanical Door Repairers？**
-- 期望高薪或快速晋升
-- 讨厌体力活和户外工作
+**Who is not suited**
+- Expecting high salary or rapid promotion
+- Dislikes physical labor and outdoor work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary for mechanical door repairers?**
+A: Median annual salary in the US approx. USD 48,000, experienced can reach USD 70,000.
+
+**Q: Can mechanical door repairers immigrate to the US through skilled migration?**
+A: Extremely difficult. This occupation typically does not meet H-1B education requirements, and EB-3 green cards are rarely approved. Consider other pathways.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★☆☆☆☆） |
-| 学习难度 | 简单（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Mechanical Door Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for mechanical door repairers?**
-答：The median annual wage in the US is about $48,000, with experienced workers earning up to $70,000.
-
-**问：Can mechanical door repairers immigrate to the US through skill-based visas?**
-答：Very difficult. The occupation rarely meets H-1B degree requirements, and EB-3 green cards are seldom approved. Consider alternative paths.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

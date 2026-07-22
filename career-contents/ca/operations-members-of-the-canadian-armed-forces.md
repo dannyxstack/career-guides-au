@@ -1,62 +1,95 @@
-# Operations members of the Canadian Armed Forces（Operations members of the Canadian Armed Forces）职业分析 · 加拿大
+# Operations members of the Canadian Armed Forces — career analysis · Canada
 
-**职业代码：43204 – Operations members of the Canadian Armed Forces。**
+**Occupation code: 43204 (NOC)**
 
-Operations members of the Canadian Armed Forces carry out military tasks, safeguard national security, and participate in domestic and international operations.
+As a combat member of the Canadian Armed Forces, execute military missions, maintain national security, and participate in domestic and international operations.
 
-> 注：本职业为**非技术移民职业**，不在加拿大技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中毕业 | 无固定时长 | —（招募要求高中文凭，基本军事训练免费） |
-| 军官培训（大学学位） | 4年 | $5,000~$20,000（需通过皇家军事学院或大学军官培训计划，学费部分补贴） |
+| High school graduation | No fixed duration | $0~$0 (Recruitment requires a high school diploma; basic military training is free) |
+| Officer training (university degree) | 4 years | $5,000~$20,000 (Requires completion of the Royal Military College or university officer training program, with partial tuition subsidies) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 加拿大公民身份 | 加拿大政府 | 必备 | 必须为加拿大公民 |
-| 安全许可 | 加拿大政府 | 必备 | 通过背景调查 |
-| 体能测试 | 加拿大武装部队 | 必备 | 通过FORCE测试 |
-| 基础军事训练 | 加拿大武装部队 | 必备 | 完成基础训练课程 |
+| Canadian citizenship | Canadian government | Required | Must be a Canadian citizen |
+| Safety clearance | Canadian government | Required | Pass a background check |
+| Physical fitness test | Canadian Armed Forces | Required | Passed the FORCE test |
+| Basic military training | Canadian Armed Forces | Required | Completed basic training course |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 68,000。加拿大国防需求稳定，武装部队持续招募，但受政府预算和全球局势影响，就业前景平稳。
+**Job demand: medium (★★½☆☆).** National workforce approx. 68,000. Canada's defence needs are stable, and the armed forces continuously recruit, but subject to government budgets and global situations, the employment outlook is steady.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 包括基本工资和津贴 |
-| 中级（4-10年） | $55,000~$80,000 | 随军衔和年限增长 |
-| 高级（10年以上） | $80,000~$120,000 | 高级士官或军官 |
+| Median salary | $71,448 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $40,000~$55,000 | Includes base salary and allowances |
+| Mid-level (4-10 years). | $55,000~$80,000 | Increases with rank and years of service |
+| Senior (10+ years) | $80,000~$120,000 | Senior non-commissioned officer or commissioned officer |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：平稳（★★½☆☆）。** 晋升路径清晰，从初级士兵到士官或军官，需通过军事训练和晋升考核，高级职位竞争激烈。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI's impact on combat personnel is mixed: automation threat is low, but AI-enhanced situational awareness and logistics efficiency will change mission execution; some administrative and intelligence analysis tasks may be replaced.
+
+Promotion path is clear: from junior soldier to non-commissioned officer or officer, requiring military training and promotion exams; senior positions are highly competitive.
+
+**Tasks most exposed to AI:**
+
+- Basic intelligence analysis and report generation
+- Routine patrol route planning and surveillance tasks
+- Logistics material scheduling and inventory management
+- Communication Signal Relay and Preliminary Filtering
+
+**Where AI augments the role:**
+
+- AI-assisted battlefield situational awareness and target recognition
+- Drone and robot cooperative combat control
+- Language translation and cultural analysis support
+- Soldier health monitoring and early warning system
+- Tactical decision simulation and optimization
+
+**Human moat:**
+
+- Complex decision-making and leadership in battlefield environments
+- Ethical judgment and humanitarian considerations in high-pressure situations
+- Team trust building and morale maintenance
+- Adapting quickly to unpredictable and dynamic situations
+
+**Skills to build:**
+
+- Use of data analysis and intelligence tools
+- Drone operating systems and robot control
+- Fundamentals of Cybersecurity and Electronic Warfare
+- Interaction and verification of AI decision support systems
+- Psychological resilience and cross-cultural communication
+- Ethical review and accountability mechanisms for AI systems
+
+**Key growth areas:**
 
 - Defense
 - National security
@@ -65,65 +98,67 @@ Operations members of the Canadian Armed Forces carry out military tasks, safegu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass FSW（Federal Skilled Worker） | 通常不适用，需先成为公民 |
-| Subclass LMIA（Labour Market Impact Assessment） | 非公民几乎无法通过此职业移民 |
+| Subclass FSW (Federal Skilled Worker) | Generally not applicable, must first become a citizen |
+| Subclass LMIA (Labour Market Impact Assessment) | Non-citizens can hardly immigrate through this occupation |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Operations members of the Canadian Armed Forces？**
-- 有强烈爱国心和纪律性的人
-- 适应严格体能训练和高压力环境
-- 愿意长期服役并接受调动
+**Who is suited**
+- Someone with strong patriotism and discipline.
+- Adapt to rigorous physical training and high-pressure environments
+- Willing to serve long-term and accept relocation.
 
-**谁不适合学Operations members of the Canadian Armed Forces？**
-- 不愿服从命令或缺乏团队精神者
-- 追求高薪且不愿冒险者
+**Who is not suited**
+- Those unwilling to follow orders or lacking team spirit
+- Those pursuing high salary and avoid risk
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the starting salary for a Canadian Armed Forces combat member?**
+A: Starting salary for junior soldiers is approximately CAD 40,000 per year, including basic pay and allowances.
+
+**Q: Can foreigners immigrate to Canada through this occupation?**
+A: Almost impossible, as must be a Canadian citizen, and there is no direct skilled migration path.
+
+**Q: What are the promotion opportunities?**
+A: Clear promotion path, from soldier to non-commissioned officer or officer requires assessments and years of service, with competition for senior positions.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 平稳（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Operations members of the Canadian Armed Forces属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for an operations member of the Canadian Armed Forces?**
-答：Entry-level soldiers earn about CAD 40,000 per year, including base pay and allowances.
-
-**问：Can foreigners immigrate to Canada through this occupation?**
-答：Almost impossible, as Canadian citizenship is required and no direct immigration pathway exists.
-
-**问：What are the promotion opportunities?**
-答：Clear promotion path from soldier to non-commissioned officer or officer, requiring assessments and time in service; senior positions are competitive.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

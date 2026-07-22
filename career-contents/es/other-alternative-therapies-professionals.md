@@ -1,60 +1,94 @@
-# Other Alternative Therapies Professionals（Other Alternative Therapies Professionals）职业分析 · ES
+# Other Alternative Therapies Professionals — career analysis · Spain
 
-**职业代码：3339 – Other Alternative Therapies Professionals。**
+**Occupation code: 3339 (CNO)**
 
-Professionals practicing non-conventional medicine such as naturopathy, acupuncture, homeopathy, and holistic health management, offering therapeutic and wellness services.
+Professionals engaged in non-mainstream medicine such as naturopathy, traditional Chinese medicine, acupuncture, and homeopathy provide clients with physical and mental conditioning and health management services.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 专业培训（Formación profesional） | 2年（FP Grado Superior） | $1,500~$6,000（公立FP学费低，私立较高） |
-| 大学本科（Grado） | 4年（Grado） | $2,400~$12,000（公立大学年费约600-3000欧元，私立较高） |
+| Professional Training (Formación profesional) | 2 years (FP Grado Superior) | $1,500~$6,000 (Public FP tuition is low, while private schools are higher) |
+| Undergraduate (Grado) | 4 years (Grado) | $2,400~$12,000 (Public university tuition about €600-3,000/year; private is higher.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 替代疗法专业文凭 | 私立机构或行业协会 | 可选 | 非国家统一认证，但行业认可 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证 |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU qualifications require recognition. |
+| Diploma in Alternative Therapy | Private institutions or industry associations | Optional | Not a unified national certification, but recognized by the industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较低（★★☆☆☆）。** 全国从业人数约 3,500。西班牙替代疗法需求增长缓慢，大众更偏好传统医疗，但健康意识提升带来小众市场，就业机会有限。
+**Job demand: medium-low (★★☆☆☆).** National workforce approx. 3,500. Demand for alternative therapies in Spain is growing slowly, with the public preferring traditional medicine, but increased health awareness creates a niche market with limited job opportunities.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较低（★½☆☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 自雇收入不稳定 |
-| 中级（4-7年） | $24,000~$36,000 | 拥有固定客户群 |
-| 高级（8年以上） | $36,000~$50,000 | 知名专家或诊所所有者 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Self-employment income is unstable |
+| Mid-level (4-7 years) | $24,000~$36,000 | We have a dedicated customer base |
+| Senior (8+ years) | $36,000~$50,000 | Renowned specialist or clinic owner |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业发展路径从独立执业者到开设诊所或健康中心，也可从事教学或产品研发，但晋升空间受限。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI on alternative therapy professionals is mixed: some diagnostic and consultation tasks can be automated, but personalized services, customer trust, and traditional skills are hard to replace, requiring proactive integration of AI tools to improve efficiency.
+
+Career development paths range from independent practitioners to opening clinics or health centers, and can also engage in teaching or product development, but promotion opportunities are limited.
+
+**Tasks most exposed to AI:**
+
+- Basic Health Assessment and Medical History Records (AI Questionnaire and Preliminary Analysis)
+- Online consultation and advice for common symptoms (chatbot)
+- Customer appointment management and follow-up reminders (automated system)
+- Standard Nutrition and Lifestyle Report Generation (Templated)
+- Inventory and recommendations for some herbal formulas (algorithmic matching)
+
+**Where AI augments the role:**
+
+- Personalized treatment plan design (AI analysis of client data to assist decision-making)
+- Remote health monitoring and behavioral guidance (wearable device + AI analysis)
+- Efficacy Tracking and Adjustment Plans (Machine Learning Prediction Models)
+- Literature and Research Retrieval (Rapid Summary of Natural Language Processing)
+- Customer Communication and Education (AI-generated easy-to-understand health science content)
+
+**Human moat:**
+
+- Customer trust and emotional connection (the sense of trust in face-to-face communication)
+- Traditional Techniques and Experience-Based Judgment (Acupuncture Techniques, Herbal Blending)
+- Comprehensive Syndrome Differentiation and Personalized Treatment (Integrating Mind-Body and Environmental Factors)
+- Ethics and Safety Responsibility (Preventing Legal Risks of Misdiagnosis and Mistreatment)
+
+**Skills to build:**
+
+- Use of AI health management tools (such as symptom analysis and decision support systems)
+- Data interpretation and personalized solution design (based on customer data)
+- Remote service and digital marketing capabilities (expanding customer base)
+- Interdisciplinary Integration (Combining Nutrition/Psychology/Exercise)
+- Critical Thinking and Continuous Learning (Tracking New Research on Alternative Therapies)
+
+**Key growth areas:**
 
 - Holistic health
 - Wellness tourism
@@ -63,69 +97,68 @@ Professionals practicing non-conventional medicine such as naturopathy, acupunct
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit as Employee） | 受雇于西班牙诊所或健康中心，需雇主担保 |
-| Subclass Cuenta propia（Self-Employment Visa） | 作为自雇人士开设诊所，需证明经济实力 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 高技能人才，但本职业通常不达薪资门槛 |
+| Subclass Cuenta ajena (Work Permit as Employee) | Employed by a clinic or health center in Spain, employer sponsorship required |
+| Subclass Cuenta propia (Self-Employment Visa) | To open a clinic as a self-employed person, you must demonstrate financial strength |
+| Subclass Tarjeta azul UE (EU Blue Card) | Highly skilled talent, but the profession usually does not meet the salary threshold |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other Alternative Therapies Professionals？**
-- 对自然疗法有浓厚兴趣并愿意自建客户群的人
-- 有创业精神、希望独立执业的人
-- 具备跨文化沟通能力、可吸引多元客户的人
-
-**谁不适合学Other Alternative Therapies Professionals？**
-- 追求稳定高薪和福利的人
-- 缺乏营销和客户获取能力的人
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who have a strong interest in natural therapies and are willing to build their own customer base
+- People with entrepreneurial spirit who wish to practice independently
+- People with cross-cultural communication skills who can attract diverse clients
+
+**Who is not suited**
+- People who pursue stable, high salaries and benefits
+- People who lack marketing and customer acquisition capabilities
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for alternative therapy professionals in Spain?**
+A: Salary range broad: junior approx EUR 18,000-24,000, senior up to EUR 50,000, but mostly self-employed with unstable income.
+
+**Q: How can Chinese alternative therapy practitioners immigrate to Spain?**
+A: You can open a clinic through a self-employment visa or work for Spanish institutions, but academic credentials are required, and the job market is niche.
+
+**Q: What are Spain's regulatory requirements for alternative therapies?**
+A: Alternative therapies are not regulated by the state in Spain, but some autonomous communities have registration requirements, and joining industry associations is recommended to enhance credibility.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-low (★★☆☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较低（★★☆☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较低（★½☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Other Alternative Therapies Professionals为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for alternative therapy professionals in Spain?**
-答：Salaries vary widely: entry-level €18,000-24,000, senior up to €50,000, but most are self-employed with variable income.
-
-**问：How can an alternative therapy professional from China migrate to Spain?**
-答：Through self-employment visa to open a clinic or employment visa sponsored by a Spanish entity, but requires credential recognition and faces a niche job market.
-
-**问：What regulations govern alternative therapies in Spain?**
-答：Not nationally regulated, but some autonomous communities require registration; joining professional associations is recommended for credibility.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

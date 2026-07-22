@@ -1,60 +1,92 @@
-# Stage Lighting Technician（Stage Lighting Technician）职业分析 · FR
+# Stage Lighting Technician — career analysis · France
 
-**职业代码：L1504 – Stage Lighting Technician。**
+**Occupation code: L1504 (ROME)**
 
-Responsible for lighting design and operation for stage performances, including installation, tuning, programming, and live control to achieve artistic effects.
+Responsible for lighting design and operation for stage performances, including installation, debugging, programming, and on-site control, ensuring lighting effects meet artistic requirements.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP或Bac pro | 2-3年 | —（公立学校免费或低学费，可通过学徒制获得收入） |
-| BTS métiers de l'audiovisuel (option métiers du son et de l'image) | 2年 | —（公立BTS通常免费，私立学校费用较高） |
-| Licence professionnelle | 3年 | —（公立大学低学费，私立院校费用更高） |
+| CAP or Bac pro | 2-3 years | $0~$5,000 (Public schools offer free or low tuition and can earn income through apprenticeships) |
+| BTS métiers de l'audiovisuel (option métiers du son et de l'image) | 2 years | $0~$8,000 (Public BTS is usually free, while private schools are more expensive) |
+| Licence professionnelle | 3 years | $0~$10,000 (Public universities have lower tuition fees, while private institutions charge even more) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CQP Éclairagiste | AFDAS / Branche du spectacle vivant | 可选 | 行业认证，非强制但有助于就业 |
-| BTS métiers de l'audiovisuel | Ministère de l'Éducation nationale | 必备 | 常见入门文凭 |
-| Habilitation électrique (BS/BE) | INRS / organisme agréé | 必备 | 法定安全认证，从事电气操作必须 |
+| BTS métiers de l'audiovisuel | Ministère de l'Éducation nationale | Required | Entry diplomas are common |
+| Habilitation électrique (BS/BE) | INRS / organisme agréé | Required | Statutory safety certification, required for electrical operations |
+| CQP Éclairagiste | AFDAS / Branche du spectacle vivant | Optional | Industry certification, not mandatory but helpful for employment |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。法国表演艺术产业稳定，灯光技术员需求随演出和活动增多而增长。就业机会集中在巴黎等大城市，但竞争激烈，需不断更新技能。
+**Job demand: medium (★★★☆☆).** National workforce approx. 8,500. The French performing arts industry is stable, and the demand for lighting technicians grows as performances and events increase. Job opportunities are concentrated in big cities like Paris, but competition is fierce and skills must be constantly updated.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★★☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，含奖金 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪，含奖金 |
-| 高级（7年以上） | $36,000~$50,000 | 税前年薪，含奖金，自由职业者可能更高 |
+| Median salary | $32,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, including bonuses |
+| Mid-level (3–7 years) | $28,000~$36,000 | Annual pre-tax salary, including bonuses |
+| Senior (7+ years) | $36,000~$50,000 | Pre-tax annual salary, including bonuses, may be higher for freelancers |
+| average salary | $40,545 | Net monthly salary FTE mean ×12 annualized (Source: INSEE 2024, ROME→FAP→PCS simple average) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 可从助理灯光师晋升为灯光设计师或技术总监，也可转向影视或活动灯光领域。长期可创办灯光租赁公司或成为自由职业者。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI will automate some lighting programming and preset tasks, but on-site artistic judgment, creative collaboration, and physical equipment operation still rely on humans, resulting in mixed job prospects.
+
+You can advance from assistant lighting technician to lighting designer or technical director, or transition to film or event lighting. Long-term options include founding a lighting rental company or becoming a freelancer.
+
+**Tasks most exposed to AI:**
+
+- Automatic programming and playback of lighting scenes
+- Automated synchronization based on performance time codes
+- Automatic calculation and debugging of lighting parameters
+- Lighting effect simulation and pre-visualization
+
+**Where AI augments the role:**
+
+- AI-assisted lighting positioning and angle optimization
+- Automated lighting preset generation and scene recommendations
+- Real-time lighting effects are adjusted and recommended in real time
+- Fault prediction and remote diagnostic support
+
+**Human moat:**
+
+- Artistic creativity and understanding of the director's intent
+- On-site emergency decision-making and manual intervention
+- Non-standard communication with the performance team
+- Intuitive grasp of physical equipment tactile and environmental intuition
+
+**Skills to build:**
+
+- AI lighting programming software (such as Vectorworks Spotlight, grandMA3)
+- Data-driven lighting design tools
+- Custom scripts in Python or Lua
+- AR/VR previsualization platform
+- Multimedia integration and real-time interaction technology
+
+**Key growth areas:**
 
 - Live events
 - LED technology
@@ -63,68 +95,67 @@ Responsible for lighting design and operation for stage performances, including 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Passeport Talent（Passeport Talent (Talent Passport)） | 适用于高技能人才，如艺术家或技术专家，需提供工作合同或项目证明，有效期4年。 |
-| Subclass Salarié（Salarié (Employee)） | 受雇于法国公司的工作签证，需雇主担保，有效期与合同一致。 |
-| Subclass Carte bleue UE（Carte bleue européenne (EU Blue Card)） | 适合高学历高薪职位（年薪至少53k€），但灯光技术员通常达不到薪资门槛。 |
+| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents such as artists or technical experts, who must provide a work contract or project certification, valid for 4 years. |
+| Subclass Salarié (Salarié (Employee)) | Work visas employed by French companies require employer sponsorship and are valid for the same period as the contract. |
+| Subclass Carte bleue UE (Carte bleue européenne (EU Blue Card)) | Suitable for highly educated, high-paying positions (annual salary at least €53k), but lighting technicians usually do not meet the salary threshold. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Stage Lighting Technician？**
-- 对灯光和视觉效果有浓厚兴趣，具备审美和创造力
-- 喜欢动手操作和现场工作，能承受不规律工作时间
-- 愿意持续学习新技术和设备
-
-**谁不适合学Stage Lighting Technician？**
-- 偏好朝九晚五固定工作时间
-- 不善于团队协作和高压环境
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in lighting and visual effects, with aesthetic and creative sensibility
+- Enjoys hands-on operations and on-site work, able to handle irregular working hours
+- Willing to continuously learn new technologies and equipment
+
+**Who is not suited**
+- Preferred fixed 9-to-5 working hours
+- Not good at teamwork and high-pressure environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for stage lighting technicians?**
+A: Entry-level salaries are about 22k-28k euros, intermediate salaries 28k-36k euros, and seniors can reach 50k euros or more. Freelancers' income fluctuates greatly.
+
+**Q: How can non-EU citizens immigrate to France through the stage lighting technician profession?**
+A: You can apply for the Passeport Talent (Talent Passport) or Salarié (Employment) visa. A French employer contract must be obtained, along with proof of professional skills. Carte bleue UE is usually not applicable due to the high salary threshold.
+
+**Q: What is the career progression path?**
+A: Start as an assistant lighting technician and advance to lighting designer or technical director after gaining experience. You can also move into film, events, equipment rental, or start your own company.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★★☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Stage Lighting Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a stage lighting technician?**
-答：Entry-level annual salary is about €22k-28k, mid-level €28k-36k, senior up to €50k or more, with freelancers experiencing variable income.
-
-**问：How can a non-EU citizen immigrate to France as a stage lighting technician?**
-答：You can apply for a Passeport Talent (Talent Passport) or Salarié (Employee) visa. You need a job offer from a French employer and proof of professional skills. The EU Blue Card is usually not applicable due to high salary threshold.
-
-**问：What is the career progression path?**
-答：Start as an assistant, progress to lighting designer or technical director. You can also move into film/TV, events, equipment rental, or start your own company.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

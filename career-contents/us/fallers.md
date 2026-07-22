@@ -1,60 +1,95 @@
-# Fallers（Fallers）职业分析 · 美国
+# Fallers — career analysis · United States
 
-**职业代码：45-4021 – Fallers。**
+**Occupation code: 45-4021 (SOC)**
 
-Use axes or chainsaws to fell trees, applying knowledge of tree characteristics and cutting techniques to control direction and minimize damage.
+Fell trees using axes or chainsaws, controlling fall direction based on tree characteristics and cutting techniques to minimize tree damage.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：较低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训 | 1-2年 | —（雇主提供培训，成本较低） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training | 1-2 years | $0~$2,000 (Employer-provided training with low cost.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 链锯安全证书 | OSHA或州林业部门 | 必备 | 证明安全操作链锯的能力 |
-| 商业驾驶员执照（CDL） | 州机动车辆管理局 | 可选 | 必要时运输设备 |
+| Chainsaw safety certificate | OSHA or state forestry department | Required | Prove ability to safely operate a chainsaw |
+| Commercial driver's license (CDL) | State motor vehicle department | Optional | Transport equipment when necessary |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 7,200。美国伐木工就业前景稳定，受木材需求、森林管理和环境法规影响。年均岗位数量有限，退休更替提供主要机会，但机械化可能减少部分需求。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 7,200. Employment prospects for U.S. loggers are stable, influenced by timber demand, forest management, and environmental regulations. Annual job openings are limited, with retirement turnover providing main opportunities, but mechanization may reduce some demand.
 
-**竞争度：较低（★½☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$42,000 | 入门级，通常需培训 |
-| 中级（3-7年） | $42,000~$54,000 | 有经验者收入提升 |
-| 高级（7年以上） | $54,000~$70,000 | 高级技工或主管 |
+| Median salary | $52,100 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $32,000~$42,000 | Entry-level, usually requires training |
+| Mid-level (3–7 years) | $42,000~$54,000 | Experienced workers see higher income |
+| Senior (7+ years) | $54,000~$70,000 | Senior technician or supervisor |
+| average salary | $57,110 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 初级伐木工可通过经验积累提升技能，晋升为伐木队长或森林作业主管；也可转向森林保护、木材采购或设备操作等关联岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Logging worker is a high-risk automation occupation; AI and automated equipment will significantly reduce job demand, but manual work in remote areas has a short-term moat.
+
+Junior loggers can improve skills through experience and advance to logging team leader or forest operations supervisor; they can also shift to forest protection, timber procurement, or equipment operation.
+
+**Tasks most exposed to AI:**
+
+- Use GPS and AI to plan tree felling order and direction
+- Automated chainsaws and robotic logging equipment perform cutting
+- Real-time AI monitoring of tree health and environmental safety parameters
+- Autonomous transport vehicles move logs
+- UAV inspections to assess forest resources and hazards
+
+**Where AI augments the role:**
+
+- AI-assisted planning of logging routes to avoid hazardous terrain
+- Augmented reality helmet displaying tree tilt angle and risk alerts
+- Teleoperated robots handle difficult felling, improving safety
+- Data analysis optimizes logging plans and resource management
+- Remote monitoring and AI-based predictive maintenance for equipment
+
+**Human moat:**
+
+- Flexible judgment under complex terrain and adverse weather conditions
+- High-difficulty logging operations (e.g., steep slopes, dense forests)
+- Decision-making responsibility involving biodiversity conservation
+- Team safety management and interpersonal coordination
+
+**Skills to build:**
+
+- Operate and maintain automated logging equipment
+- AI and remote sensing applied to forestry management
+- Basic drone operation and data interpretation
+- Safety procedures and first aid skills
+- Data-driven forest management planning software
+- Electrical and mechanical maintenance skills
+
+**Key growth areas:**
 
 - Forestry
 - Timber Harvesting
@@ -63,64 +98,66 @@ Use axes or chainsaws to fell trees, applying knowledge of tree characteristics 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（Temporary Non-Agricultural Workers） | 季节性伐木工作可用H-2B签证，但雇主需证明美国工人短缺 |
+| Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal logging work available under H-2B visa, but employer must prove US worker shortage |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Fallers？**
-- 适应户外体力劳动
-- 注重安全操作
-- 愿意在偏远地区工作
+**Who is suited**
+- Adaptable to outdoor physical work
+- Focus on safe operations
+- Willing to work in remote areas.
 
-**谁不适合学Fallers？**
-- 对高强度体力工作不适应
-- 不喜户外恶劣天气
+**Who is not suited**
+- Not suited for high-intensity physical work.
+- Those who dislike outdoor bad weather
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of a lumberjack?**
+A: Junior: approximately $32,000-$42,000 per year, mid-level $42,000-$54,000, senior up to $70,000. Income is affected by location, experience, and employer.
+
+**Q: Can loggers immigrate to the US via H-1B visa?**
+A: No. H-1B requires a bachelor's degree; loggers usually do not meet this. Seasonal work can use H-2B temporary visa, but cannot directly apply for a green card.
+
+**Q: What promotion opportunities do lumberjacks have?**
+A: Can advance to logging crew leader, forest operations supervisor, or transition to roles such as timber purchasing or equipment sales.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 较低（★½☆☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较低（★½☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Fallers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for fallers?**
-答：Entry-level: $32,000-$42,000; mid-level: $42,000-$54,000; senior: up to $70,000 annually, depending on location, experience, and employer.
-
-**问：Can fallers immigrate to the US via H-1B visa?**
-答：No. H-1B requires a bachelor's degree, which fallers typically don't have. Seasonal work may use H-2B temporary visa but no direct green card path.
-
-**问：What advancement opportunities do fallers have?**
-答：Can advance to crew leader, logging supervisor, or transition to timber purchasing, equipment sales, etc.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

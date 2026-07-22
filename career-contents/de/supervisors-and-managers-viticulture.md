@@ -1,62 +1,96 @@
-# Supervisors and Managers - Viticulture（Supervisors and Managers - Viticulture）职业分析 · DE
+# Supervisors and Managers - Viticulture — career analysis · Germany
 
-**职业代码：1169 – Supervisors and Managers - Viticulture。**
+**Occupation code: 1169 (KldB)**
 
-Oversees vineyard operations including planting, pruning, pest control, harvesting, and quality management of wine grapes. Leads teams and coordinates production schedules for efficient vineyard management.
+Responsible for overall vineyard management, including planting, pruning, pest control, harvesting, and quality control of wine grapes. Lead teams and coordinate production plans to ensure efficient operations.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训（Ausbildung） | 3年（双元制） | —（培训期间有津贴，通常无需学费） |
-| 技术人员学校（Fachschule） | 2年（全日制） | $500~$2,000（部分州免学费，仅收注册费） |
-| 应用科学大学本科 | 3-4年 | $300~$1,500（学期贡献费，部分项目免学费） |
+| Dual vocational training (Ausbildung) | 3 years (dual system) | $0~$0 (Allowance provided during training, usually no tuition fees) |
+| Technical school (Fachschule) | 2 years (full-time) | $500~$2,000 (Tuition-free in some states, only registration fees apply) |
+| Bachelor's degree at a University of Applied Sciences | 3-4 years | $300~$1,500 (Semester contribution fee; some programs are tuition-free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 葡萄种植专业技师（Geprüfte/r Weinbautechniker/in） | 德国工商会（IHK） | 可选 | 通过IHK考试获得，是晋升管理岗位的常见路径 |
-| 葡萄种植与酿造文凭（Diplom-Ingenieur/in Weinbau） | 应用科学大学 | 可选 | 高等教育学历，对高级管理职位有利 |
-| 资质认证（Anerkennung） | 德国认证机构 | 必备 | 非欧盟学历需经认证，证明等同于德国资质 |
+| Qualification recognition (Anerkennung) | German certification body | Required | Non-EU qualifications need recognition proving equivalence to German qualifications |
+| Certified Viticulture Technician (Geprüfte/r Weinbautechniker/in) | German Chamber of Commerce and Industry (IHK) | Optional | Obtained through the IHK exam, a common pathway to management positions. |
+| Diploma in Viticulture and Enology (Diplom-Ingenieur/in Weinbau) | University of Applied Sciences | Optional | Higher education degree, advantageous for senior management positions. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 8,500。德国葡萄酒产业稳定发展，有机种植和可持续发展趋势增加对专业管理人才的需求。气候变化带来挑战，但也推动技术创新岗位。总体就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 8,500. Germany's wine industry is developing stably, with trends in organic farming and sustainability increasing demand for professional management talent. Climate change poses challenges but also drives innovation positions. Overall employment prospects are good.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $32,000~$38,000 | 税年薪，取决于州和酒庄规模 |
-| 中级（3-7年） | $38,000~$48,000 | 税年薪，含管理职责 |
-| 高级（7年以上） | $48,000~$60,000 | 税年薪，大型酒庄或区域经理可达更高 |
+| Median salary | $40,320 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $32,000~$38,000 | Annual salary before tax, depending on the state and winery size. |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual salary including management duties |
+| Senior (7+ years) | $48,000~$60,000 | After-tax salary; large wineries or regional managers can earn more |
+| average salary | $43,908 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 晋升路径包括从葡萄种植主管到区域经理或酿酒厂运营总监。也可通过进修成为葡萄栽培顾问或自主经营葡萄园。双元制大学深造可提升竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Grape-growing supervisors and managers face a mixed impact from AI: data-driven decision-making is enhanced, but outdoor physical judgment tasks are hard to replace; entry-level jobs are narrowing due to automation tools, but demand for experienced managers remains stable.
+
+Career progression includes advancing from vineyard supervisor to regional manager or winery operations director. You can also become a viticulture consultant or own a vineyard through further study. Dual-system university studies can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Operation and monitoring of automated irrigation and fertilization systems
+- Data collection for pest identification and warning (completed by AI image recognition)
+- Daily inspection records and report generation
+- Basic Pruning and Picking Path Planning (Optimized by Algorithms)
+
+**Where AI augments the role:**
+
+- AI-assisted decision-making: optimizing planting plans based on meteorological and soil data
+- Precision agriculture: using drones and sensors for yield prediction and quality analysis
+- Smart scheduling: automated shift planning and resource allocation to improve team efficiency
+- Knowledge graph: Quickly access global best practices and pest/disease control solutions
+- Real-time monitoring: AI early warning system helps proactively respond to extreme weather and disease outbreaks.
+
+**Human moat:**
+
+- Team management and leadership: coordinating personnel, motivating employees, resolving conflicts
+- Complex decision-making: integrating empirical judgment for non-quantifiable planting variables (e.g., grape flavor profile)
+- Communication skills for collaboration with experts such as winemakers
+- Crisis management: dealing with unstructured issues such as sudden natural disasters or equipment failures
+
+**Skills to build:**
+
+- Precision agriculture tool use (e.g. GIS, drone data interpretation)
+- Data Analysis and Basic Statistics (Python or Advanced Excel Functions)
+- Operation and validation of AI-assisted decision-making systems
+- Knowledge of sustainable agricultural practices and certification.
+- Cross-cultural team management (e.g., managing seasonal labour)
+- Supply chain management basics (liaising with breweries)
+
+**Key growth areas:**
 
 - Organic viticulture
 - Climate adaptation
@@ -65,69 +99,68 @@ Oversees vineyard operations including planting, pruning, pest control, harvesti
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于非欧盟高技能人才，需大学学历及工作合同，年薪门槛约43,800欧元（2024年）。 |
-| Subclass Skilled Worker（Skilled Immigration Act） | 适用于有资质认证（Anerkennung）的专业人才，可从事相关职业。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统的求职者签证，允许在德寻找工作，需满足语言、年龄等条件。 |
+| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requires a university degree and work contract, with a salary threshold of around €43,800 (2024). |
+| Subclass Skilled Worker (Skilled Immigration Act) | Applicable to professionals with recognized qualifications (Anerkennung), allowing them to work in related occupations. |
+| Subclass Chancenkarte (Opportunity Card) | A points-based jobseeker visa for Germany, allowing job search, requiring language, age, and other conditions. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Supervisors and Managers - Viticulture？**
-- 热爱户外工作和自然，喜欢动手操作
-- 具备领导能力和团队管理经验
-- 愿意在季节性高强度时期（如采收季）加班
-
-**谁不适合学Supervisors and Managers - Viticulture？**
-- 不擅长体力劳动或对农业化学（如农药）敏感
-- 不适应不规律工作时间和季节性压力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Loves outdoor work and nature, enjoys hands-on tasks.
+- Leadership ability and team management experience
+- Willing to work overtime during seasonal peak periods (e.g., harvest season)
+
+**Who is not suited**
+- Not good at physical labor or sensitive to agricultural chemicals (e.g., pesticides)
+- Not suited for irregular working hours and seasonal pressure.
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Vineyard Supervisor in Germany?**
+A: Entry-level annual salary around €32,000-38,000, experienced can reach over €48,000. Salary varies by state, winery size, and experience.
+
+**Q: How can non-EU citizens immigrate to Germany as a viticulture supervisor?**
+A: Need to obtain a German-recognized qualification (via Anerkennung certification), then apply for a skilled migration visa or EU Blue Card. The Opportunity Card can be used to enter Germany for job seeking first.
+
+**Q: What are the career advancement paths for this occupation?**
+A: Can advance from vineyard supervisor to regional manager, winery operations director, or become a viticulture consultant through further study. Running your own vineyard is also a common choice.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Supervisors and Managers - Viticulture为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a viticulture supervisor in Germany?**
-答：Entry-level positions earn around €32,000-€38,000 annually, while experienced managers can earn over €48,000. Salaries vary by state, winery size, and experience.
-
-**问：How can non-EU citizens immigrate to Germany as a viticulture supervisor?**
-答：You need a recognized degree or vocational qualification (via Anerkennung), then apply for a skilled worker visa or EU Blue Card. The Opportunity Card allows job seeking in Germany.
-
-**问：What are the career progression paths?**
-答：Progression includes regional manager, winery operations director, viticulture consultant after further training, or starting your own vineyard.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

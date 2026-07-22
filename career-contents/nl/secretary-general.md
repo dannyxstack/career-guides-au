@@ -1,60 +1,92 @@
-# Secretary (General)（Secretary (General)）职业分析 · NL
+# Secretary (General) — career analysis · Netherlands
 
-**职业代码：4120 – Secretary (General)。**
+**Occupation code: 4120 (ISCO08)**
 
-Secretaries (general) handle daily administrative tasks such as answering phones, scheduling meetings, and managing correspondence.
+General secretaries handle daily administrative tasks such as answering phone calls, scheduling meetings, processing documents and emails.
 
-> 注：本职业为**受限技术移民职业**，不在NL独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育 | 2-3年 | —（公立学校学费低，约每年1000欧元） |
-| 大学预科/专科 | 2年 | $2,000~$6,000（高等职业教育(HAV)或大专每年约3000欧元） |
+| Secondary vocational education | 2-3 years | $0~$2,000 (Public school tuition is low, about 1,000 euros per year) |
+| Pre-University/Diploma | 2 years | $2,000~$6,000 (Higher vocational education (HAV) or diploma costs around 3,000 euros per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 秘书资格证 | 荷兰商会(KvK)或行业组织 | 可选 | 非强制，但有助于就业 |
-| 办公自动化认证 | 如微软Office专家认证 | 可选 | 常用软件熟练度证明 |
+| Secretary qualification certificate | Netherlands Chamber of Commerce (KvK) or industry organizations | Optional | Not mandatory, but helpful for employment |
+| Office automation certification | E.g., Microsoft Office Specialist certification | Optional | Proof of proficiency in common software |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。荷兰秘书岗位需求稳定，但受数字化转型影响，就业增长缓慢。
+**Job demand: medium (★★★☆☆).** National workforce approx. 120,000. Secretary roles in the Netherlands have stable demand but slow employment growth due to digital transformation.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$34,000 | 税前年薪 |
-| 中级（4-6年） | $34,000~$42,000 | 税前年薪 |
-| 高级（7年以上） | $42,000~$50,000 | 税前年薪 |
+| Median salary | $48,214 | Median salary (official: CBS median employee hourly wage €24.4/hour × 1976h annualized, BRC group 0432 Secretaries; P25–P75 €41,694–€53,747, CBS 2024) |
+| Entry level (0–3 years) | $28,000~$34,000 | Annual pre-tax salary |
+| Intermediate (4-6 years) | $34,000~$42,000 | Annual pre-tax salary |
+| Senior (7+ years) | $42,000~$50,000 | Annual pre-tax salary |
+| average salary | $38,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：趋稳（★★½☆☆）。** 可从初级秘书晋升为高级秘书或行政助理，也可转向办公室管理职位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+AI tools will greatly enhance secretaries' coordination skills, automating trivial tasks and enabling a transition to higher-level administrative experts; however, traditional basic clerical positions will be reduced.
+
+Can advance from junior secretary to senior secretary or executive assistant, or transition to office management roles.
+
+**Tasks most exposed to AI:**
+
+- Coordinating schedules for arranging meetings and managing calendars
+- Handling daily emails and writing standard replies in communication tasks.
+- Document management tasks such as filing, photocopying, and document sorting
+- Record meeting minutes and distribute
+
+**Where AI augments the role:**
+
+- Use AI tools for complex schedule optimization and conflict prediction
+- Use AI to analyze meeting data and extract key action items
+- Generate high-quality reports and presentation drafts with AI
+- Manage multi-project progress and priorities through intelligent systems
+
+**Human moat:**
+
+- Trust and rapport maintenance with senior decision-makers
+- Judgment in handling sensitive and confidential information
+- Complex interpersonal coordination and crisis response skills
+- Cross-cultural and cross-departmental communication and emotional intelligence
+
+**Skills to build:**
+
+- Advanced use of AI office tools (e.g., Copilot, Notion AI)
+- Data analysis and visualization basics
+- Advanced use of project management and collaboration platforms (e.g., Asana, Jira)
+- Business writing and strategic communication
+- Basic programming (e.g., Python automation scripts)
+
+**Key growth areas:**
 
 - Administrative Support
 - Digital Skills
@@ -63,68 +95,67 @@ Secretaries (general) handle daily administrative tasks such as answering phones
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，年收入需超过阈值（如2024年约39,467欧元，30岁以下）。 |
-| Subclass Orientation Year（Orientation Year） | 允许在荷完成学位的非欧盟毕业生寻找工作一年。 |
-| Subclass EU Blue Card（EU Blue Card） | 针对高技能专业人才，要求高等教育和工作合同，薪资门槛高于一般秘书水平。 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled migrants; annual income must exceed a threshold (e.g. approximately €39,467 in 2024, under age 30). |
+| Subclass Orientation Year (Orientation Year) | Allows non-EU graduates who have completed a degree in the Netherlands to search for work for one year. |
+| Subclass EU Blue Card (EU Blue Card) | Targeting highly skilled professionals, requiring higher education and an employment contract, with salary threshold above general secretary level. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Secretary (General)？**
-- 细致有条理、喜欢办公室环境的人
-- 具备良好沟通能力和时间管理能力的人
-
-**谁不适合学Secretary (General)？**
-- 渴望高薪资和快速职业晋升的人
-- 厌倦重复性行政工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who are meticulous, organized, and enjoy office environments
+- people with good communication and time management skills
+
+**Who is not suited**
+- People seeking high salaries and rapid career advancement
+- Those tired of repetitive administrative work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a secretary in the Netherlands?**
+A: Junior secretary annual salary about 28,000-34,000 euros, senior secretary up to 42,000-50,000 euros.
+
+**Q: Which visas can a secretary use to immigrate to the Netherlands?**
+A: Eligible through Highly Skilled Migrant or EU Blue Card, but must meet salary thresholds; or via Search Year visa first.
+
+**Q: Is the job market for secretaries competitive in the Netherlands?**
+A: Competition moderate; Dutch fluency is an advantage.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 趋稳（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Secretary (General)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a secretary in the Netherlands?**
-答：Entry-level secretaries earn around €28,000-€34,000 per year, while senior secretaries can earn up to €42,000-€50,000.
-
-**问：What visa routes are available for secretaries to immigrate to the Netherlands?**
-答：Possible via Highly Skilled Migrant or EU Blue Card, subject to salary thresholds; alternatively via Orientation Year visa.
-
-**问：Is the job market competitive for secretaries in the Netherlands?**
-答：Competition is moderate, with advantage for those fluent in Dutch.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

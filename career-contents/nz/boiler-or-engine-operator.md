@@ -1,61 +1,92 @@
-# Boiler or Engine Operator（Boiler or Engine Operator）职业分析 · 新西兰
+# Boiler or Engine Operator — career analysis · New Zealand
 
-**职业代码：712911 – Boiler or Engine Operator。**
+**Occupation code: 712911 (ANZSCO)**
 
-In New Zealand, boiler or engine operators operate and maintain boilers, steam engines, internal combustion engines, and other power equipment to power ships, trains, or factories. This occupation is eligible for immigration via Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but not on the Green List, requiring employer sponsorship.
+In New Zealand, boiler or engine operators operate and maintain power equipment such as boilers, steam engines, and internal combustion engines to power ships, trains, or factories. This occupation can lead to immigration via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), but is not on the Green List and requires employer support.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 预培训课程 | 6个月 | $3,000~$6,000（如MIT的锅炉操作基础课程） |
-| 学徒制 | 3-4年 | —（在职培训，部分由雇主资助） |
-| 本科学位 | 3年 | $25,000~$40,000（机械工程等专业，非必需但利于晋升） |
+| Pre-training course | 6 months. | $3,000~$6,000 (MIT Boiler Operation Basics Course) |
+| Apprenticeship | 3-4 years | $0~$2,000 (on-the-job training, some employer-funded) |
+| Bachelor's degree | 3 years | $25,000~$40,000 (Majors like mechanical engineering are beneficial but not required for promotion.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰操作员国家证书（锅炉操作） | New Zealand Qualifications Authority | 可选 | 推荐但非强制 |
-| 锅炉操作员执照（限于高压锅炉） | WorkSafe New Zealand | 必备 | 操作高压锅炉必需 |
-| 急救证书 | 如St John New Zealand | 可选 | 工作场所安全要求 |
-| 大型车辆驾照（Class 2或4） | NZ Transport Agency | 可选 | 部分岗位如移动式锅炉操作需要 |
+| Boiler operator license (limited to high-pressure boilers) | WorkSafe New Zealand | Required | Required for operating high-pressure boilers |
+| New Zealand National Certificate in Boiler Operation | New Zealand Qualifications Authority | Optional | Recommended but not mandatory |
+| First aid certificate | e.g. St John New Zealand | Optional | Workplace Safety Requirements |
+| Heavy vehicle license (Class 2 or 4). | NZ Transport Agency | Optional | Required for some positions, such as mobile boiler operation |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 1,500。新西兰锅炉或发动机操作员就业前景稳定，主要受制造业、运输业和发电行业需求驱动。由于设备自动化和环保法规影响，岗位增长缓慢，但经验丰富的操作员仍受青睐。预计未来五年年增长率约1-2%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 1,500. Employment prospects for boiler or engine operators in New Zealand are stable, driven mainly by demand from manufacturing, transport, and power generation industries. Due to equipment automation and environmental regulations, job growth is slow, but experienced operators remain in demand. Expected annual growth of about 1-2% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 年薪范围，取决于地区和雇主 |
-| 中级（3-7年） | $55,000~$70,000 | 包括经验丰富的操作员 |
-| 高级（7年以上） | $70,000~$90,000 | 含主管或维护经理岗位 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Annual salary range, depending on region and employer |
+| Mid-level (3–7 years) | $55,000~$70,000 | Including experienced operators |
+| Senior (7+ years) | $70,000~$90,000 | Includes supervisor or maintenance manager positions |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 职业发展路径包括从初级操作员晋升为高级操作员、值班主管或设备维护经理。通过获取新西兰国家证书（如ENP3011）和积累经验，可转向监管或技术培训岗位。部分操作员可考取工程师执照。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Daily monitoring and routine inspections for boiler or engine operators are easily automated, but demand for system integration and fault handling increases; AI becomes an auxiliary tool rather than replacement, making the role mixed.
+
+Career progression includes advancing from junior operator to senior operator, shift supervisor, or equipment maintenance manager. By obtaining New Zealand national certificates (e.g., ENP3011) and gaining experience, you can move into supervisory or technical training roles. Some operators can obtain an engineer license.
+
+**Tasks most exposed to AI:**
+
+- AI takeover of automatic monitoring and adjustment of boiler operating parameters
+- AI replaces manual inspections, detects equipment status in real-time via sensors
+- AI generates daily operation logs and reports
+
+**Where AI augments the role:**
+
+- AI predictive maintenance allows operators to detect anomalies early and reduce downtime
+- AI optimizes combustion efficiency, operator adjusts fuel ratio based on recommendations
+- AI simulation training accelerates new employees' mastery of complex operational processes.
+
+**Human moat:**
+
+- Emergency judgment and manual intervention during sudden failures
+- Cross-system coordination (e.g., balancing steam and electricity demands)
+- Comprehensive understanding of safety procedures and on-site implementation
+- Equipment modifications and handling of non-standard conditions
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- AI-assisted predictive maintenance system operation
+- Troubleshooting and fine-tuning of automated control systems
+- Energy efficiency optimization modeling
+- Cross-training: acquire basic skills in adjacent occupations (e.g., mining machinery operation)
+- Remote monitoring center coordination and communication.
+
+**Key growth areas:**
 
 - Steady
 - Skilled Migrant Category
@@ -64,68 +95,67 @@ In New Zealand, boiler or engine operators operate and maintain boilers, steam e
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 获得认证雇主的工作邀请后申请，签证有效期为3年，可续签，满足条件可申请居民签证。 |
-| Subclass SMC（Skilled Migrant Category） | 达到6分制的技术移民，需要工作经验和学历加分，如拥有NZQF学历和工作offer。 |
-| Subclass Green List T2（Green List Tier 2） | 当前不在绿色清单中，但若行业需求变化可能纳入，需密切关注政策更新。 |
+| Subclass AEWV (Accredited Employer Work Visa) | Apply after obtaining a job offer from an approved employer; visa valid for 3 years, renewable, eligible for resident visa if conditions met. |
+| Subclass SMC (Skilled Migrant Category) | Achieving a 6-point system for skilled migration requires work experience and education points, such as holding an NZQF qualification and a job offer. |
+| Subclass Green List T2 (Green List Tier 2) | Currently not on the Green List, but may be included if industry demand changes; closely monitor policy updates. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Boiler or Engine Operator？**
-- 喜欢动手操作和维护机械设备的人
-- 能适应轮班和热、噪环境工作的人
-- 有机械维修背景或愿意从学徒做起的人
-
-**谁不适合学Boiler or Engine Operator？**
-- 不喜欢体力劳动和重复性工作的人
-- 对高温、噪音或密闭空间敏感的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on operation and maintenance of machinery and equipment.
+- People who can adapt to shift work and hot, noisy environments
+- People with mechanical maintenance background or willing to start as apprentices
+
+**Who is not suited**
+- People who dislike physical labor and repetitive work
+- People sensitive to high temperatures, noise, or confined spaces
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a boiler operator in New Zealand?**
+A: Entry-level annual salary approx. NZD 45,000-55,000; mid-level NZD 55,000-70,000; senior NZD 70,000-90,000. Salary is affected by experience, location (e.g., Auckland higher than rural), and industry.
+
+**Q: Can a boiler operator migrate to New Zealand via skilled migration?**
+A: Yes, but you need a job offer from an approved employer and go through the SMC or AEWV pathway. This occupation is not on the Green List, so immigration difficulty is moderate. It is recommended to accumulate over 3 years of experience and relevant certifications.
+
+**Q: What licenses or certificates are needed?**
+A: Operating high-pressure boilers requires a Boiler Operator License from WorkSafe New Zealand. Additionally, the New Zealand National Certificate in Operator (ENP3011) and a first aid certificate are advantageous.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏下（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Boiler or Engine Operator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for boiler operators in New Zealand?**
-答：Entry-level annual salary is around NZD 45,000-55,000, mid-level NZD 55,000-70,000, senior NZD 70,000-90,000. Pay varies by experience, location (e.g., Auckland higher), and industry.
-
-**问：Can a boiler operator immigrate to New Zealand through skilled migration?**
-答：Yes, but requires a job offer from an accredited employer via SMC or AEWV pathways. This occupation is not on the Green List, so immigration is moderate. Recommended to have 3+ years experience and relevant certifications.
-
-**问：What licenses or certifications are required?**
-答：A boiler operator license from WorkSafe New Zealand is mandatory for high-pressure boilers. Additionally, a New Zealand Certificate in Energy and Power Plant (ENP3011) and first aid certificate are beneficial.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

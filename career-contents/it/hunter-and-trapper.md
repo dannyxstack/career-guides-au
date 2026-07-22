@@ -1,60 +1,93 @@
-# Hunter and Trapper（Hunter and Trapper）职业分析 · IT
+# Hunter and Trapper — career analysis · Italy
 
-**职业代码：6224 – Hunter and Trapper。**
+**Occupation code: 6224 (ISCO08)**
 
-In Italy, hunters and trappers engage in wildlife management, hunting, and trapping activities, strictly regulated by law.
+In Italy, hunters and trappers primarily engage in wildlife management, hunting, and trapping activities, strictly regulated by law.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业 | 12年 | —（公立教育免费） |
-| 狩猎许可证培训课程 | 1-2个月 | $500~$1,500（包括理论考试和实践） |
+| High school graduation | 12 years | $0~$0 (Public education is free) |
+| Hunting license training course | 1-2 months | $500~$1,500 (including theoretical exams and practical) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 国家狩猎许可证 | 意大利地区政府 | 必备 | 需通过考试，包括野生动物识别、武器使用和法规 |
-| 武器持有许可证 | 意大利警察局 | 必备 | 需背景审查，有效期5年 |
+| National hunting license | Regional government of Italy | Required | Requires passing exams, including wildlife identification, weapon use, and regulations. |
+| Weapon Possession License | Italian Police Headquarters | Required | Background check required, valid for 5 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★☆☆☆☆）。** 全国从业人数约 85,000。意大利猎人数量呈下降趋势，老龄化严重，新入行者少。就业机会有限，多为兼职或传统家庭传承。
+**Job demand: low (★☆☆☆☆).** National workforce approx. 85,000. The number of Italian hunters is declining, with an aging population and few newcomers. Job opportunities are limited, mostly part-time or traditional family inheritance.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $5,000~$15,000 | 多为兼职，收入取决于猎物销售量 |
-| 中级（3-10年） | $10,000~$25,000 | 部分全职，可兼做导游 |
-| 高级（10年以上） | $20,000~$40,000 | 经验丰富者可能经营狩猎场或提供高端导猎服务 |
+| Median salary | $17,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $5,000~$15,000 | Mostly part-time, income depends on prey sales volume |
+| Intermediate (3-10 years) | $10,000~$25,000 | Part-time, can also work as a tour guide |
+| Senior (10+ years) | $20,000~$40,000 | Experienced individuals may run hunting farms or provide high-end guided hunting services |
+| average salary | $19,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：差（★½☆☆☆）。** 职业发展路径有限，多数为自雇或兼职。可成为狩猎导游或野生动物管理顾问，但需额外认证。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI and automation will significantly reduce traditional work for hunters and trappers, particularly tasks such as monitoring, data analysis, and reporting can be automated, with remaining work relying on physical labor and on-site judgment, leading to fewer job opportunities.
+
+Career development paths are limited; most are self-employed or part-time. Can become a hunting guide or wildlife management consultant, but requires additional certification.
+
+**Tasks most exposed to AI:**
+
+- Wildlife population monitoring and counting (via AI image recognition and drone automation)
+- Capture data recording and report generation (AI automatic sorting and visualization).
+- Predicting animal activity patterns (machine learning models replacing empirical judgment)
+- License application and compliance document processing (automated document system)
+
+**Where AI augments the role:**
+
+- Using AI to analyze satellite imagery and infrared camera data to optimize monitoring efficiency
+- Improves success rate of precise capture and release through real-time tracking with drones and AI.
+- Develop science-based wildlife management strategies using data analysis tools
+- Using VR to train on trap setting and safe operation in complex environments
+
+**Human moat:**
+
+- Physical and manual skills for setting and maintaining field traps
+- Quick decision-making for unexpected situations (e.g., animal injuries, bad weather)
+- Interpersonal communication and negotiation with local communities and landowners.
+- Responsibility for ecological ethics judgement and compliance operations
+
+**Skills to build:**
+
+- Drone operation and maintenance
+- GIS and remote sensing data analysis
+- Ecological modeling and population statistics
+- Basic data analysis using Python or R
+- Wildlife conservation regulations and ethics
+- Project management and basic business skills
+
+**Key growth areas:**
 
 - declining workforce
 - aging population
@@ -63,61 +96,63 @@ In Italy, hunters and trappers engage in wildlife management, hunting, and trapp
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 仅适用于非欧盟季节性工作，但猎人职业不常见于配额清单 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Only applicable for non-EU seasonal work, but the hunter occupation is not commonly on the quota list |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Hunter and Trapper？**
-- 热爱户外和野生动物
-- 熟悉意大利语和地方法规
-- 愿意接受不稳定的收入
+**Who is suited**
+- Passionate about the outdoors and wildlife
+- Familiarity with Italian language and local regulations
+- Willing to accept unstable income
 
-**谁不适合学Hunter and Trapper？**
-- 寻求稳定全职收入者
-- 反对狩猎活动者
+**Who is not suited**
+- For those seeking stable full-time income
+- Anti-hunting activists
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: Do Italian hunters earn high incomes?**
+A: Low income, mostly part-time, with junior annual earnings around EUR 5,000–15,000, and senior positions reaching EUR 40,000 but rarely.
+
+**Q: Can foreigners become hunters in Italy?**
+A: Very difficult, requires Italian residence, weapons license, and regional hunting permit, and is limited to EU citizens or long-term residents.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | low (★☆☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 低（★☆☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 差（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 差（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Hunter and Trapper属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：Do hunters earn high income in Italy?**
-答：Income is low; most work part-time. Entry-level earns €5,000-15,000 annually, senior up to €40,000 but rare.
-
-**问：Can foreigners become hunters in Italy?**
-答：Very difficult; requires Italian residence, weapon license, and regional hunting permit, mainly for EU citizens or long-term residents.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

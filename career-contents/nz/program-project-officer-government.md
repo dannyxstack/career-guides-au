@@ -1,60 +1,94 @@
-# Program / Project Officer (Government)（Program / Project Officer (Government)）职业分析 · 新西兰
+# Program / Project Officer (Government) — career analysis · New Zealand
 
-**职业代码：511113 – Program / Project Officer (Government)。**
+**Occupation code: 511113 (ANZSCO)**
 
-Program/Project Officers in government coordinate project planning, execution, and monitoring, managing stakeholders, budgets, and reporting. This role is key for policy implementation but is not a priority occupation for New Zealand skilled migration.
+Government program officers plan, implement, and monitor projects within central and local government agencies, coordinate stakeholders, manage budgets, and report. This role is central to policy implementation and public service delivery, but it is not a priority occupation for New Zealand skilled migration.
 
-> 注：本职业为**非技术移民职业**，不在新西兰技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 学士学位 | 3年 | $40,000~$50,000（本科年均学费约4-5万NZD） |
-| 硕士学位 | 1-2年 | $50,000~$65,000（硕士年均学费约5-6.5万NZD） |
+| Bachelor's degree | 3 years | $40,000~$50,000 (Average annual undergraduate tuition: approximately NZD 40,000-50,000.) |
+| Master's degree | 1-2 years | $50,000~$65,000 (Average annual tuition for master's: about NZD 50,000-65,000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 项目管理认证（PMP或PRINCE2） | Project Management Institute / AXELOS | 可选 | 非强制但显著提升竞争力 |
-| 相关领域学士学位（公共管理、政治学、商业等） | 新西兰大学 | 必备 | 雇主通常要求 |
+| Bachelor's degree in related field (public administration, political science, business, etc.) | New Zealand universities | Required | Employers typically require |
+| Project management certification (PMP or PRINCE2) | Project Management Institute / AXELOS | Optional | Not mandatory but significantly boosts competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,500。新西兰政府项目官员需求稳定，主要受财政预算与公共政策方向影响。未来5年就业增长预计中等，但竞争较大，尤其在惠灵顿等政治中心。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 3,500. Demand for government project officers in New Zealand is stable, mainly influenced by fiscal budgets and public policy directions. Employment growth over the next 5 years is expected to be moderate, but competition is high, especially in political centers like Wellington.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 基于政府薪资等级 |
-| 中级（3-7年） | $75,000~$95,000 | 通常对应APS6等级 |
-| 高级（7年以上） | $100,000~$130,000 | 高级官员或经理级别 |
+| Median salary | $67,392 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Based on government salary scales |
+| Mid-level (3–7 years) | $75,000~$95,000 | Usually corresponds to APS6 level |
+| Senior (7+ years) | $100,000~$130,000 | Senior official or manager level |
+| average salary | $72,176 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从项目助理或行政岗位起步，积累经验后可晋升为高级项目官员、项目经理或政策顾问。部分人转向私营部门或咨询行业。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
+
+Typically start as a project assistant or administrative role, gain experience to advance to Senior Project Officer, Project Manager, or Policy Advisor. Some transition to the private sector or consulting.
+
+**Tasks most exposed to AI:**
+
+- Template-based report generation and formatting
+- Stakeholder data collection and preliminary organization
+- Meeting minutes and action item extraction
+- Budget tracking and expenditure classification.
+
+**Where AI augments the role:**
+
+- Quickly analyze project data via AI to generate insights
+- Automated stakeholder communication and updates
+- Intelligent schedule management and resource allocation optimization
+- Risk prediction and early warning
+
+**Human moat:**
+
+- Complex budget negotiations and contract decisions
+- Handle cross-departmental politically sensitive issues
+- Policy interpretation and flexible application
+- Senior stakeholder trust and relationship management
+- Crisis Management and Emergency Response
+
+**Skills to build:**
+
+- Project Management Software (e.g., MS Project, Jira)
+- Data analysis and visualization (Tableau, Power BI)
+- AI report generation tools (e.g., ChatGPT, Microsoft Copilot)
+- Basic budgeting and financial modeling
+- Emotional intelligence and cross-cultural communication
+- Agile project management (Agile/Scrum)
+
+**Key growth areas:**
 
 - Government sector
 - Project management
@@ -63,62 +97,64 @@ Program/Project Officers in government coordinate project planning, execution, a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 可申请认证雇主工签，但职业不在绿色清单，需雇主支持，移民难度较大 |
-| Subclass SMC（Skilled Migrant Category） | 如薪资达到中位数或更高，可尝试技术移民，但非优先职业 |
+| Subclass AEWV (Accredited Employer Work Visa) | Eligible for employer-sponsored work visa, but occupation not on the Green List; requires employer support and immigration is relatively difficult |
+| Subclass SMC (Skilled Migrant Category) | If salary meets or exceeds median, skilled migration may be possible, but not a priority occupation |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Program / Project Officer (Government)？**
-- 具备良好组织能力与沟通协调能力者
-- 对公共政策与政府运作感兴趣者
-- 愿意在惠灵顿等政府集中地工作者
+**Who is suited**
+- Those with good organizational and communication coordination skills
+- Those interested in public policy and government operations
+- Those willing to work in government hubs like Wellington
 
-**谁不适合学Program / Project Officer (Government)？**
-- 追求高薪或快速移民者
-- 不喜欢官僚流程与严格层级者
+**Who is not suited**
+- Those seeking high salary or fast immigration
+- Those who dislike bureaucratic processes and strict hierarchies
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary prospects for government project officers in New Zealand?**
+A: Entry-level salary: NZD 55,000–70,000; senior can reach NZD 130,000+; steady but limited growth.
+
+**Q: Can this occupation immigrate through the Green List?**
+A: No, government project officers are not on the Green List; skilled migration requires high salary or employer sponsorship, making immigration relatively difficult.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Program / Project Officer (Government)属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for government program officers in New Zealand?**
-答：Entry-level salaries range from NZD 55,000 to 70,000, while senior roles can exceed NZD 130,000, with steady but limited growth.
-
-**问：Can this occupation lead to migration via the Green List?**
-答：No, it is not on the Green List; skilled migration requires high salary or employer sponsorship, making it challenging.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

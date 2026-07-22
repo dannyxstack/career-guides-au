@@ -1,61 +1,97 @@
-# Cement, Stone and Other Mineral Products Machine Operator（Cement, Stone and Other Mineral Products Machine Operator）职业分析 · IT
+# Cement, Stone and Other Mineral Products Machine Operator — career analysis · Italy
 
-**职业代码：8114 – Cement, Stone and Other Mineral Products Machine Operator。**
+**Occupation code: 8114 (ISCO08)**
 
-Operates machines for processing cement, stone, and other mineral products, playing a key role in Italy's construction and manufacturing sectors.
+Operators of machinery for processing minerals such as cement and stone, performing key roles in Italy's construction and manufacturing industries.
 
-> 注：本职业为**受限技术移民职业**，不在IT独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中/职业培训 | 3年（职业高中） | —（公立学校免学费，材料费约500-2000欧元） |
-| 短期培训课程 | 6个月 | $1,000~$3,000（由行业协会或培训机构提供） |
+| High school / vocational training | 3 years (vocational high school) | $0~$2,000 (Public schools have no tuition fees, material costs about 500-2000 euros) |
+| Short-term training course | 6 months. | $1,000~$3,000 (Provided by industry associations or training providers) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 职业资格证（Qualifica） | 地区职业教育机构 | 必备 | 完成职业高中课程后获得 |
-| 安全培训证书 | INAIL（国家工伤事故保险协会） | 必备 | 必须完成工作场所安全培训 |
-| 操作员执照 | 劳动监察局 | 可选 | 特定机器操作需额外认证 |
+| Vocational qualification (Qualifica) | Regional Vocational Education Institution | Required | Obtained after completing vocational high school program |
+| Safety training certificate | INAIL (National Institute for Insurance against Accidents at Work) | Required | Must complete workplace safety training |
+| Operator license | Labour Inspectorate | Optional | Specific machine operation requires additional certification |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。意大利建筑和基础设施建设持续推动需求，但自动化可能减少低技能岗位，需关注绿色建筑趋势。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Italy's construction and infrastructure development continues to drive demand, but automation may reduce low-skilled positions, requiring attention to green building trends.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 税前年薪 |
-| 中级（3-7年） | $23,000~$28,000 | 税前年薪 |
-| 高级（7年以上） | $29,000~$35,000 | 税前年薪 |
+| Median salary | $25,500 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$22,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $23,000~$28,000 | Annual pre-tax salary |
+| Senior (7+ years) | $29,000~$35,000 | Annual pre-tax salary |
+| average salary | $25,833 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从操作员可晋升为生产线主管或质量控制员，通过培训可转向维护或技术销售岗位。
-**AI替代风险：高（★★★½☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+AI and automation are a mixed blessing: machine operations are easily replaceable, but on-site maintenance, quality assessment, and emergency handling still require human input—occupational risks and opportunities coexist.
+
+Operators can advance to production line supervisor or quality control officer, and through training can move into maintenance or technical sales roles.
+
+**Tasks most exposed to AI:**
+
+- Repetitive tasks in cement batching and feeding.
+- Simple planning of stone cutting paths
+- Automatic visual inspection of finished product appearance.
+- Recording and statistical reporting of production data
+- Remote monitoring and alarm for equipment operation status.
+
+**Where AI augments the role:**
+
+- AI-assisted optimization of cutting parameters to improve yield
+- Augmented reality-guided equipment maintenance and fault diagnosis
+- Data-driven predictive maintenance reduces downtime
+- AI quality inspection system assists in manual judgment of complex defects
+- Smart production scheduling system improves line collaboration efficiency
+
+**Human moat:**
+
+- Quick diagnosis and repair of on-site sudden faults
+- Experience with special materials (e.g., irregular stone) in craftsmanship
+- Responsibility for compliance with Italian safety regulations (e.g., dust, noise)
+- Communicate with clients regarding customised product requirements
+- Team collaboration and on-site coordination skills
+
+**Skills to build:**
+
+- PLC programming and industrial automation basics
+- Data analysis and predictive maintenance of equipment
+- CAD/CAM software and CNC machine operation
+- Knowledge of safety production and environmental protection regulations
+- Basic English (reading equipment manuals)
+- Communication and teamwork skills
+
+**Key growth areas:**
 
 - Construction
 - Manufacturing
@@ -64,69 +100,68 @@ Operates machines for processing cement, stone, and other mineral products, play
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟工人，需大学学历或5年经验，年薪门槛约24,789欧元。 |
-| Subclass Decreto Flussi（Decreto Flussi 配额工作签） | 年度配额，适用于非欧盟工人从事特定行业，需雇主担保。 |
-| Subclass Nulla Osta（Nulla Osta (工作许可)） | 雇主需向移民局申请工作许可，证明无欧盟候选人。 |
+| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU workers, requires university degree or 5 years of experience, annual salary threshold of approximately €24,789. |
+| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota for non-EU workers in specific industries, requiring employer sponsorship. |
+| Subclass Nulla Osta (Nulla Osta (Work Permit)) | Employers must apply to the immigration department for a work permit, proving there is no EU candidate. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Cement, Stone and Other Mineral Products Machine Operator？**
-- 喜欢动手操作机械的人
-- 对建筑和制造业感兴趣的人
-- 愿意从事体力劳动的人
-
-**谁不适合学Cement, Stone and Other Mineral Products Machine Operator？**
-- 倾向于办公室工作的人
-- 不适应噪音和粉尘环境的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy working with machinery
+- People interested in construction and manufacturing
+- People willing to engage in physical labor.
+
+**Who is not suited**
+- People who prefer office work
+- Individuals not suited to noisy and dusty environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation in Italy?**
+A: Entry-level annual salary approx. €18,000-22,000, senior up to €35,000.
+
+**Q: How can non-EU citizens immigrate to Italy through this occupation?**
+A: Work visas can be applied for via the EU Blue Card (for high-skilled workers) or Decreto Flussi (annual quota).
+
+**Q: What training is needed to enter this occupation?**
+A: Typically requires a vocational high school diploma or short-term training, as well as safety certification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★½☆） |
-| PR友好度 | 低（★½☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Cement, Stone and Other Mineral Products Machine Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in Italy?**
-答：Entry-level annual salary is around €18,000-22,000, senior up to €35,000.
-
-**问：How can non-EU citizens immigrate to Italy through this occupation?**
-答：They can apply for an EU Blue Card (high-skilled) or Decreto Flussi (annual quota) work visa.
-
-**问：What training is required to work in this occupation?**
-答：Typically requires a vocational high school diploma or short training, plus safety certification.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

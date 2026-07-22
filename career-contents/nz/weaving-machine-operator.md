@@ -1,60 +1,93 @@
-# Weaving Machine Operator（Weaving Machine Operator）职业分析 · 新西兰
+# Weaving Machine Operator — career analysis · New Zealand
 
-**职业代码：711715 – Weaving Machine Operator。**
+**Occupation code: 711715 (ANZSCO)**
 
-In New Zealand, weaving machine operators set up, operate, and monitor looms to weave yarn into fabric, performing tasks like machine setup, yarn changes, quality checks, and basic maintenance. This occupation typically enters via Accredited Employer Work Visa (AEWV) or specific skill work visas, with limited Skilled Migrant Category pathways.
+In New Zealand, a loom operator operates and monitors looms to weave yarn into fabric, including setting up machines, changing yarn, inspecting quality, and performing basic maintenance. This occupation is typically entered via an Accredited Employer Work Visa (AEWV) or Specific Purpose Work Visa, with limited skilled migration pathways.
 
-> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 在职培训 | 1-2年 | —（雇主提供在职培训，部分需自费参加短期课程） |
-| 证书课程 | 6个月-1年 | $3,000~$8,000（如新西兰纺织培训组织(Textile Training NZ)提供的证书） |
+| On-the-job training | 1-2 years | $0~$2,000 (Employer provides on-the-job training, some require self-funded short courses) |
+| Certificate course | 6 months to 1 year | $3,000~$8,000 (Such as certificates offered by Textile Training NZ) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 新西兰纺织证书（初级） | Textile Training NZ | 可选 | 非强制，但有助于晋升 |
-| 在职技能评估 | 雇主或行业机构 | 可选 | 部分雇主要求通过内部技能测试 |
+| New Zealand Certificate in Textiles (Level 3) | Textile Training NZ | Optional | Not mandatory, but helps with promotion |
+| Skills Assessment for Migration | Employer or industry body | Optional | Some employers require passing internal skills tests |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★★☆☆☆）。** 全国从业人数约 120。新西兰纺织制造业规模较小且自动化程度较高，织机操作员需求整体稳定但增长缓慢。就业机会主要集中在奥塔哥、怀卡托和坎特伯雷地区的纺织厂。预计未来五年岗位增长率为0-5%，受进口竞争和自动化影响。
+**Job demand: low (★★☆☆☆).** National workforce approx. 120. The textile manufacturing industry in New Zealand is small-scale and highly automated, with demand for loom operators remaining stable but growing slowly. Employment opportunities are mainly concentrated in textile factories in the Otago, Waikato, and Canterbury regions. The projected job growth rate over the next five years is 0-5%, impacted by import competition and automation.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$46,000 | 最低薪资通常接近最低工资 |
-| 中级（3-7年） | $46,000~$54,000 | 熟练操作员薪资中位数 |
-| 高级（7年以上） | $54,000~$65,000 | 含团队领导职责 |
+| Median salary | $67,548 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $40,000~$46,000 | Minimum salary usually close to minimum wage |
+| Mid-level (3–7 years) | $46,000~$54,000 | Median salary for skilled operators |
+| Senior (7+ years) | $54,000~$65,000 | Includes team leadership responsibilities |
+| average salary | $71,812 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★☆☆☆）。** 初级织机操作员可通过在职培训晋升为高级操作员或领班，部分可转向纺织机械维修或质量管理岗位。拥有多年经验者可担任生产主管，但管理岗位数量有限。通常无学历要求，行业认证如全国纺织证书可提升竞争力。
-**AI替代风险：高（★★★☆☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Loom operators face higher risk; automation will take over core tasks like machine monitoring and quality inspection, entry-level positions narrow significantly, but maintenance and anomaly handling still require humans.
+
+Junior loom operators can advance to senior operators or team leaders through on-the-job training; some may transition to textile machinery maintenance or quality management. Experienced individuals can become production supervisors, but management positions are limited. Typically no academic requirements; industry certifications like the National Textiles Certificate can enhance competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Real-time monitoring of loom operating parameters (e.g., speed, tension)
+- Automatic detection of fabric defects using vision systems
+- Recording production data and generating reports
+- Basic fault alarm handling
+- Adjusting yarn tension and color matching
+
+**Where AI augments the role:**
+
+- Use AI predictive maintenance systems to optimize machine maintenance schedules
+- Get maintenance guidance through AR glasses to improve complex troubleshooting capabilities
+- Use data analysis tools to optimize process parameters and improve fabric quality
+- Operating multiple automated looms to improve production efficiency
+
+**Human moat:**
+
+- Handling non-standard/sudden machine failures
+- Fine-tuning special fabric process parameters
+- Coordinate multi-process production workflows and material management
+- Communicate with designers to achieve customized weaving requirements
+
+**Skills to build:**
+
+- Industrial automation system operation and debugging
+- Basic programming (e.g., PLC logic control)
+- Data analysis and quality statistics
+- Smart device maintenance and repair
+- Cross-trade collaboration and communication skills
+
+**Key growth areas:**
 
 - AEWV
 - Limited Skilled Migrant Category
@@ -63,65 +96,64 @@ In New Zealand, weaving machine operators set up, operate, and monitor looms to 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 最常见的工签路径，需获得认证雇主的工作邀请，从事该职业通常符合AEWV要求。 |
-| Subclass Specific Purpose Wor（Specific Purpose Work Visa） | 如临时培训或特殊项目，可申请此签证。 |
+| Subclass AEWV (Accredited Employer Work Visa) | The most common visa pathway requires a job offer from an accredited employer; this occupation typically meets AEWV requirements. |
+| Subclass Specific Purpose Wor (Specific Purpose Work Visa) | This visa can be applied for temporary training or special projects. |
 
-**PR难度：高（★★★★☆）。**
+**PR friendliness: low (★☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Weaving Machine Operator？**
-- 愿意从事重复性体力劳动并接受在职培训的人
-- 对新西兰纺织行业有热情且能接受较低薪资水平的人
-- 希望通过工签积累经验但无需长期居留的人
-
-**谁不适合学Weaving Machine Operator？**
-- 寻求快速技术移民和高薪职业的人
-- 对工作环境稳定性要求高且不喜欢单调重复工作的人
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Individuals willing to perform repetitive physical labor and accept on-the-job training
+- Those passionate about New Zealand's textile industry and able to accept lower salary levels
+- People who want to gain experience through a work visa but do not need long-term residence
+
+**Who is not suited**
+- People seeking fast-track skilled migration and high-paying careers
+- People who require high work environment stability and dislike monotonous repetitive work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of loom operators in New Zealand?**
+A: Entry-level operators earn about NZD 40,000-46,000 per year, intermediate NZD 46,000-54,000, and senior up to NZD 54,000-65,000. Salaries generally increase with experience, but the ceiling is relatively low due to industry size.
+
+**Q: Can a loom operator obtain New Zealand residency through skilled migration?**
+A: This occupation is not on the Green List or Long Term Skill Shortage List; Skilled Migrant Category (SMC) is generally difficult. Mainly through Accredited Employer Work Visa (AEWV), with eligibility for residency after meeting conditions, but income threshold applies (median salary around NZ$54,000).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | low (★★☆☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 低（★★☆☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★☆☆☆） |
-| AI替代风险 | 高（★★★☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Weaving Machine Operator为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for a weaving machine operator in New Zealand?**
-答：Entry-level operators earn around NZD 40,000-46,000 per year, mid-level NZD 46,000-54,000, and senior up to NZD 54,000-65,000. Salaries increase with experience but are capped due to the small industry size.
-
-**问：Can a weaving machine operator get New Zealand residency through skilled migration?**
-答：This occupation is not on the Green List or long-term shortage list, making Skilled Migrant Category (SMC) challenging. The main path is via Accredited Employer Work Visa (AEWV), with possible residency after meeting income thresholds (median salary around NZD 54,000).
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

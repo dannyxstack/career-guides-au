@@ -1,60 +1,96 @@
-# Textile Cleaning Occupations（Textile Cleaning Occupations）职业分析 · DE
+# Textile Cleaning Occupations — career analysis · Germany
 
-**职业代码：5413 – Textile Cleaning Occupations。**
+**Occupation code: 5413 (KldB)**
 
-Textile cleaning occupations involve dry cleaning, wet cleaning, ironing, and finishing garments and textiles. Workers are typically employed in laundries, dry cleaners, or hotel laundry facilities, ensuring customer clothes are clean and well-maintained.
+Textile cleaning occupations involve dry cleaning, wet cleaning, ironing, and finishing clothes and textiles. Practitioners typically work in laundries, dry cleaners, or hotel laundry rooms, ensuring customers' clothes are clean and intact.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 职业培训（双元制） | 2年 | —（双元制培训期间有津贴，通常免学费） |
-| 短期培训/入门 | 3-6个月 | $500~$2,000（私人培训机构提供的入门课程） |
+| Vocational training (dual system) | 2 years | $0~$500 (Dual system training offers allowances, usually tuition-free) |
+| Short-term training/entry-level. | 3-6 months | $500~$2,000 (Introductory courses offered by private training institutions) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 纺织品清洁工（认证） | 德国工商会（IHK） | 必备 | 完成双元制培训并通过考试可获得 |
-| 纺织品清洁技师 | 德国工商会（IHK） | 可选 | 通过高级培训获得，可提升职业地位 |
+| Textile cleaner (certified) | German Chamber of Commerce and Industry (IHK) | Required | Can be obtained upon completion of dual system training and passing the exam |
+| Textile Cleaning Technician | German Chamber of Commerce and Industry (IHK) | Optional | Obtained through advanced training, enhancing career status |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 120,000。该行业在德国受自动化影响较大，基础岗位需求稳定但增长缓慢。专业清洁和特殊面料处理技能仍有市场需求，尤其在高端洗衣服务领域。
+**Job demand: medium (★★½☆☆).** National workforce approx. 120,000. This industry is heavily affected by automation in Germany. Basic positions have stable but slow growth. Professional cleaning and special fabric handling skills still have market demand, especially in high-end laundry services.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪，取决于地区和雇主 |
-| 中级（3-6年） | $28,000~$35,000 | — |
-| 高级（6年以上） | $35,000~$42,000 | 含管理或技术岗位 |
+| Median salary | $33,420 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary, varies by region and employer |
+| Mid-level (3–6 years) | $28,000~$35,000 | — |
+| Senior (6+ years) | $35,000~$42,000 | Includes management or technical positions |
+| average salary | $35,700 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★☆☆☆）。** 从业者可从初级洗衣工晋升为高级熨烫工或小组长。通过进修可成为纺织品清洁技师或质检员，也可转向洗衣店管理岗位或自主创业。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium-low (★★☆☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Textile cleaning occupations face high automation risk; smart laundry systems and robots will gradually replace repetitive cleaning and ironing tasks; entry-level positions will shrink, but maintenance and customer interaction roles still have demand.
+
+Practitioners can progress from entry-level laundry worker to senior ironer or team leader. Further study can lead to textile cleaning technician or quality inspector, or transition to laundry management or self-employment.
+
+**Tasks most exposed to AI:**
+
+- Automatically sort clothes and select washing program based on material
+- Perform routine dry and wet cleaning using robots or automated systems
+- Automatic ironing machines perform standardized ironing tasks
+- Automatic packaging and label printing
+- RFID-based inventory tracking and customer pickup notifications
+
+**Where AI augments the role:**
+
+- Uses AI to diagnose special stains and recommend treatment methods
+- Optimizing laundry processes through data analysis to save energy and water
+- Record customer preferences using facial recognition or an app.
+- Remote monitoring and preventive maintenance of smart devices
+- Generates automated reports for inventory and order management
+
+**Human moat:**
+
+- Fine handling of high-end fabrics and special techniques
+- Communicating with clients to handle complex needs and complaints
+- Hands-on ability to handle sudden machine failures on site
+- Aesthetic judgment (e.g., hand ironing and shaping)
+- Quality control and final inspection decisions.
+
+**Skills to build:**
+
+- Operation and maintenance of smart laundry equipment
+- Basic data analysis and process optimization
+- Use of customer relationship management (CRM) systems
+- Sustainable chemicals and environmental knowledge
+- Basic programming and automation scripts
+- Cross-departmental communication and flexible collaboration
+
+**Key growth areas:**
 
 - Stable demand
 - Automation impact
@@ -63,66 +99,68 @@ Textile cleaning occupations involve dry cleaning, wet cleaning, ironing, and fi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高技能非欧盟人才，通常要求大学学历，该职业通常不符合 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 若持有相应职业资格且雇主担保，可申请德国技术移民签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职签证，适合有职业资格但无工作合同的申请人 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talent; usually requires a university degree. This occupation typically does not qualify. |
+| Subclass Skilled Worker (Skilled Worker Visa) | If you hold the relevant professional qualifications and have employer sponsorship, you may apply for a German skilled migration visa. |
+| Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, suitable for applicants with professional qualifications but no job contract |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Textile Cleaning Occupations？**
-- 喜欢动手操作、注重细节的人
-- 希望在德国快速就业、不介意体力劳动的人
-- 对纺织品护理有耐心和兴趣的人
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- People who want to find employment quickly in Germany and are not averse to physical labor
+- People with patience and interest in textile care
 
-**谁不适合学Textile Cleaning Occupations？**
-- 厌恶重复性体力劳动的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- Those who dislike repetitive physical labor
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of textile cleaners in Germany?**
+A: Annual salary for entry-level positions is approximately €22,000-28,000 (pre-tax), rising to over €35,000 with experience. Salary varies by region and employer; overall considered a low-income occupation.
+
+**Q: Can foreigners immigrate to Germany through this occupation?**
+A: Difficult. This occupation is not on Germany's shortage list, and usually requires German language skills and dual system training qualifications. With a vocational qualification (e.g. IHK certification) and an employer, you can apply for a skilled migration visa. The Opportunity Card (Chancenkarte) is also an option.
+
+**Q: What career development opportunities are available in this occupation?**
+A: Can progress from laundry worker to team leader or quality inspector. Through further study, can become a textile cleaning technician or enter management. Can also start a self-owned laundry business.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★☆☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-low (★★☆☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★☆☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★☆☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 不利（★☆☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
-
-Textile Cleaning Occupations属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for textile cleaning occupations in Germany?**
-答：Entry-level positions earn around €22,000-€28,000 per year (gross), with experienced workers reaching over €35,000. Salaries vary by region and employer, generally considered low income.
-
-**问：Can foreigners immigrate to Germany through this occupation?**
-答：It is difficult. The occupation is not a shortage profession and typically requires German language skills and vocational training. With recognized qualifications and a job offer, one can apply for a skilled worker visa. The Opportunity Card is an alternative.
-
-**问：What career development opportunities exist?**
-答：Advancement from laundry worker to team leader or quality inspector. Further training to become a textile cleaning technician, move into management, or start your own laundry business.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

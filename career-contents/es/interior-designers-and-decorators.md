@@ -1,58 +1,94 @@
-# Interior Designers and Decorators（Interior Designers and Decorators）职业分析 · ES
+# Interior Designers and Decorators — career analysis · Spain
 
-**职业代码：3732 – Interior Designers and Decorators。**
+**Occupation code: 3732 (CNO)**
 
-Plan, design, and decorate interior spaces to create aesthetically pleasing, functional, and safe environments.
+Responsible for planning, designing, and decorating interior spaces to create an attractive, functional, and safe environment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 大学本科（Grado） | 4年（Grado） | $1,000~$3,000（公立大学年学费约1000-3000欧元） |
-| 高等职业培训（FP Grado Superior） | 2年（FP Grado Superior） | $200~$1,000（公立FP中心年费约200-1000欧元） |
+| Undergraduate (Grado) | 4 years (Grado) | $1,000~$3,000 (Annual tuition at public universities is about 1000-3000 euros) |
+| Higher Vocational Training (FP Grado Superior) | 2 years (FP Grado Superior) | $200~$1,000 (The annual fee for public FP centers is about 200-1000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 室内设计学位（Grado en Diseño de Interiores） | 西班牙大学或设计学院 | 必备 | 通常需4年本科，是入行基本要求 |
-| 自由执业注册（Alta en el IAE） | 西班牙税务局（AEAT） | 必备 | 自雇从业者需注册经济活动税 |
+| Degree in Interior Design (Grado en Diseño de Interiores) | Spanish universities or design schools | Required | Typically, a 4-year bachelor's degree is required, which is a basic requirement for entering the field |
+| Registration for Independent Practice (Alta en el IAE) | Spanish Tax Authority (AEAT) | Required | Self-employed individuals must register for economic activity tax |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 32,000。西班牙室内设计市场稳步发展，住宅和商业项目需求持续。马德里和巴塞罗那机会较多，但竞争激烈。经济复苏推动装修和翻新项目。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 32,000. The Spanish interior design market is steadily developing, with sustained demand for residential and commercial projects. Madrid and Barcelona have more opportunities, but the competition is fierce. Economic recovery is driving renovation and renovation projects.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$25,000 | 税前年薪，马德里/巴塞罗那略高 |
-| 中级（3-7年） | $25,000~$40,000 | 税前年薪，经验及项目规模影响 |
-| 高级（7年以上） | $40,000~$60,000 | 税前年薪，设计总监或独立工作室 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$25,000 | Pre-tax annual salary: Madrid/Barcelona is slightly higher |
+| Mid-level (3–7 years) | $25,000~$40,000 | Pre-tax annual salary, experience, and project scale impact |
+| Senior (7+ years) | $40,000~$60,000 | Pre-tax annual salary, design director, or independent studio |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从初级室内设计师晋升为高级设计师、设计总监或独立工作室创始人。可向专业化领域发展，如可持续设计、照明设计或无障碍设计。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
+
+You can advance from junior interior designer to senior designer, design director, or founder of an independent studio. Potential for specialized fields such as sustainable design, lighting design, or accessibility design.
+
+**Tasks most exposed to AI:**
+
+- Automatically Generate Concept Renderings in Various Styles (e.g., Midjourney/SketchUp diffusion models)
+- Automatic spatial layout and lighting solutions based on standards and user input
+- Automated material and furniture selection and purchase list generation
+- Standardised verification and conflict detection of construction drawings
+- Basic client needs analysis and style recommendation matching
+
+**Where AI augments the role:**
+
+- AI as an 'inspiration co-pilot' to rapidly iterate design directions, freeing up creative exploration time
+- Real-time rendering and VR/AR integration allow clients to 'walk through' projects, reducing communication gaps
+- AI analysis of past project data for accurate budget control and sustainable material recommendations
+- Automated compliance checks (e.g., disability access, fire codes) reduce manual review errors
+- Collaborating with AI to generate personalized interior design schemes to enhance owner satisfaction and return rate
+
+**Human moat:**
+
+- In-depth communication with owners to interpret hidden needs and emotional preferences
+- Complex decision-making ability balancing aesthetics, functionality, and budget
+- On-site coordination and troubleshooting at construction sites
+- Legal Liability Assumption (e.g., Structural Safety, Compliance Stamping)
+- Cross-cultural, cross-generational aesthetic judgment and narrative ability
+
+**Skills to build:**
+
+- Proficient in AI design tools (e.g., Midjourney, Autodesk Forma, D5 Render AI)
+- Mastering building information modeling (BIM/Revit) and parametric design (Grasshopper)
+- VR/AR immersive presentation and real-time collaboration skills
+- Sustainable design certifications (e.g., Green Star, Passive House)
+- Project management and full-service delivery capability (budget, timeline, construction supervision)
+- Consumer psychology and digital marketing (e.g., Instagram and Xiaohongshu case studies)
+
+**Key growth areas:**
 
 - interior design
 - sustainable design
@@ -61,65 +97,64 @@ Plan, design, and decorate interior spaces to create aesthetically pleasing, fun
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业人才，需大学学历及工作合同，年薪门槛约3.4万欧元 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 针对高学历专业人士，快速居留路径，需工作合同及学历认证 |
-| Subclass Cuenta ajena（Employed Work Permit） | 标准受雇工作居留，需雇主担保及工作合同 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a university degree and work contract, with an annual salary threshold of approximately €34,000 |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly educated professionals, the fast-track residency path requires a work contract and academic credential verification |
+| Subclass Cuenta ajena (Employed Work Permit) | Standard employment-based residence requires employer sponsorship and a work contract |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Interior Designers and Decorators？**
-- 有创意和审美眼光的人
-- 喜欢空间规划和色彩搭配的人
-- 善于沟通、理解客户需求的人
-
-**谁不适合学Interior Designers and Decorators？**
-- 不喜欢频繁修改方案或面对客户变卦的人
-- 对压力敏感且缺乏项目管理能力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with creativity and aesthetic vision
+- For those who enjoy space planning and color coordination
+- Person who is good at communicating and understanding customer needs
+
+**Who is not suited**
+- People who dislike frequent plan revisions or client changing their mind.
+- People who are sensitive to stress and lack project management skills
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of interior designers in Spain?**
+A: Junior designers earn about 18,000-25,000 euros annually, intermediate designers 25,000-40,000 euros, senior designers up to 60,000 euros, and self-employed income fluctuates greatly.
+
+**Q: How can foreign interior designers immigrate to Spain?**
+A: Applications can be made through the EU Blue Card (requiring a university degree and work contract) or the Highly Skilled Professional Visa (Ley 14/2013), which requires academic credential verification.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Interior Designers and Decorators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an interior designer in Spain?**
-答：Entry-level designers earn around €18,000-€25,000, mid-level €25,000-€40,000, and senior up to €60,000 annually.
-
-**问：How can a foreign interior designer immigrate to Spain?**
-答：Through the EU Blue Card (requires degree and job offer) or the Highly Skilled Professional visa (Ley 14/2013), with degree homologation.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

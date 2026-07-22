@@ -1,60 +1,95 @@
-# Upholsterers（Upholsterers）职业分析 · 美国
+# Upholsterers — career analysis · United States
 
-**职业代码：51-6093 – Upholsterers。**
+**Occupation code: 51-6093 (SOC)**
 
-Make, repair, or replace upholstery for household furniture or transportation vehicles, a specialized trade in the U.S. furniture manufacturing and repair industry.
+Making, repairing, or replacing upholstery and padding for household furniture or transport vehicles, a specialized trade in the US furniture manufacturing and repair industry.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立高中免费） |
-| 在职培训/学徒 | 1-2年 | —（可能需自费工具） |
+| High school diploma | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training/apprenticeship | 1-2 years | $0~$5,000 (May need to pay for tools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本要求 |
-| 在职培训证书 | 雇主 | 可选 | 通常由雇主提供 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| On-the-job training certificate | Employer | Optional | Typically provided by employer |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：低（★½☆☆☆）。** 全国从业人数约 20,000。美国劳工统计局预计2024-2034年就业增长约2%，低于平均水平；受家具进口和自动化影响，但定制和修复需求提供稳定岗位。
+**Job demand: low (★½☆☆☆).** National workforce approx. 20,000. The US Bureau of Labor Statistics projects employment growth of about 2% from 2024-2034, below average; affected by furniture imports and automation, but demand for customization and restoration provides stable positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 助手或学徒 |
-| 中级（3-7年） | $35,000~$45,000 | 熟练技工 |
-| 高级（7年以上） | $45,000~$60,000 | 高级技工或主管 |
+| Median salary | $46,340 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$35,000 | Assistant or apprentice |
+| Mid-level (3–7 years) | $35,000~$45,000 | Skilled tradesperson |
+| Senior (7+ years) | $45,000~$60,000 | Senior technician or supervisor |
+| average salary | $47,340 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★☆☆☆☆）。** 从学徒或助手开始，积累经验后可晋升为高级装饰工、主管或自主创业；掌握多种材料和技术可增加竞争力。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★☆☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Furniture finishers face a medium-low automation risk, but AI-driven design tools and automated cutting equipment will compress entry-level positions while enhancing high-skilled work.
+
+Start as apprentice or helper, gain experience to advance to senior finisher, supervisor, or self-employment; mastering multiple materials and techniques increases competitiveness.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software to generate patterns; AI can automatically optimize fabric layout to reduce waste
+- Automatic cutting machines cut fabric precisely based on digital patterns, replacing manual cutting
+- AI-assisted color and texture matching system, replacing manual sample comparison.
+- Inventory management: AI automatically tracks consumables and replenishes stock
+- Basic sewing tasks: robotic arm can perform straight-line stitching.
+
+**Where AI augments the role:**
+
+- AI design tools assist in quickly generating customized decoration plans, improving customer communication efficiency
+- 3D scanning and visualization tools help precisely measure furniture surfaces, improving upholstery fit
+- Augmented reality (AR) previews let clients see the final result before production, reducing rework
+- AI quality inspection system identifies sewing defects in real time, improving product consistency.
+
+**Human moat:**
+
+- Manual binding and shaping skills for complex curved and irregular furniture
+- Artistry of traditional hand embroidery and fine finishing
+- Keen judgment of customer preferences and style trends
+- Expertise in handling special materials (e.g., antique fabrics, leather)
+- Experience in flexible adjustment of furniture structures during on-site installation.
+
+**Skills to build:**
+
+- Use 3D modeling and design software like SketchUp and Rhino
+- Operate CNC equipment such as automatic cutters and computer sewing machines
+- Learn AI-driven textile visualization tools (e.g., VStitcher)
+- Master AR/VR customer presentation technology
+- Specializes in luxury finishes for yachts, private jets, high-end residences, etc.
+- Continuously learning about new eco-friendly and smart textile properties
+
+**Key growth areas:**
 
 - Manual skill
 - Custom furniture
@@ -63,62 +98,64 @@ Make, repair, or replace upholstery for household furniture or transportation ve
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 技工通常不符合专业职业要求，雇主担保困难。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 理论上可行，但需要PERM劳工证，且雇主难寻。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Tradespersons usually do not meet professional occupation requirements, making employer sponsorship difficult. |
+| Subclass EB-3 (EB-3 Skilled Workers) | Theoretically possible, but requires PERM labor certification and employers are hard to find. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Upholsterers？**
-- 喜欢手工制作和精细工作
-- 有耐心和注重细节
-- 愿意通过学徒积累经验
+**Who is suited**
+- Enjoys hands-on crafting and detailed work
+- Patient and detail-oriented
+- Willing to accumulate experience through apprenticeship
 
-**谁不适合学Upholsterers？**
-- 寻求高薪职业
-- 希望快速移民美国
+**Who is not suited**
+- Those seeking high-paying careers
+- Seeking fast-track immigration to the US
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a furniture upholsterer?**
+A: The median annual salary for furniture finishers in the U.S. is about $37,000, with entry-level around $28,000-$35,000 and senior up to $45,000-$60,000, varying by region and experience.
+
+**Q: Can furniture upholsterers immigrate to the US?**
+A: Difficult. This occupation does not meet H-1B specialty occupation requirements; EB-3 green card is theoretically possible but requires PERM labor certification, and employer sponsorship willingness is low; immigration pathways are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | low (★½☆☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | low (★☆☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 低（★½☆☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 低（★☆☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
-
-Upholsterers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for upholsterers?**
-答：The median annual wage for upholsterers in the U.S. is about $37,000, with entry-level earning $28,000-$35,000 and experienced workers $45,000-$60,000, varying by location and experience.
-
-**问：Can upholsterers immigrate to the U.S.?**
-答：It is difficult. This occupation does not qualify as a specialty occupation for H-1B, and EB-3 green card is theoretically possible but requires PERM labor certification, with low employer sponsorship willingness.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

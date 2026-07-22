@@ -1,60 +1,96 @@
-# ICT Installers and Repairers（ICT Installers and Repairers）职业分析 · ES
+# ICT Installers and Repairers — career analysis · Spain
 
-**职业代码：7533 – ICT Installers and Repairers。**
+**Occupation code: 7533 (CNO)**
 
-Install, configure, maintain and repair computer, network and telecom equipment, cabling and terminals to ensure ICT systems function properly. Tasks include wiring, device setup, troubleshooting and user support.
+Responsible for installing, configuring, maintaining, and repairing computers, network equipment, communication lines, and terminal devices to ensure the normal operation of ICT systems for enterprises and households. The work includes wiring, equipment debugging, troubleshooting, and user support.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中级职业培训（FP Grado Medio） | 2年 | —（公立学校免费，私立约400€/年） |
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立免费，私立约600€/年） |
+| Intermediate Vocational Training (FP Grado Medio) | 2 years | $0~$400 (Public schools are free, private ones about €400 per year) |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$600 (Public schools are free, private ones about €600 per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电信安装技术员（中级FP文凭） | 西班牙教育部认可的培训机构 | 可选 | 常见专业：Instalaciones de Telecomunicaciones |
-| 低压电气安装资质（Certificado de Baja Tensión） | 西班牙工业部 | 必备 | 从事电网连接或电气工作必备 |
+| Low-voltage electrical installation qualification (Certificado de Baja Tensión) | Spanish Ministry of Industry | Required | Essential for grid connection or electrical work |
+| Telecommunications Installation Technician (Intermediate FP Diploma) | A training institution recognized by the Spanish Ministry of Education | Optional | Common specialties: Instalaciones de Telecomunicaciones |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 42,000。西班牙数字化转型和光纤网络部署推动ICT安装维修需求持续增长，尤其在马德里、巴塞罗那等大城市和科技园区。但受经济周期影响，竞争中等，需持续更新技能。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 42,000. Spain's digital transformation and fiber optic network deployment are driving continuous growth in ICT installation and maintenance demand, especially in major cities and technology parks like Madrid and Barcelona. However, due to economic cycles and moderate competition, skills need to be continuously updated.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 通常为学徒或合同工 |
-| 中级（3-7年） | $24,000~$32,000 | 含加班和补贴 |
-| 高级（7年以上） | $32,000~$42,000 | 技术主管或自雇 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Usually apprentices or contract workers |
+| Mid-level (3–7 years) | $24,000~$32,000 | Including overtime and subsidies |
+| Senior (7+ years) | $32,000~$42,000 | Technical lead or self-employed |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 职业路径：初级技术员→高级技师→团队主管→技术经理或创业。可通过考取厂商认证（如Cisco、华为）或攻读FP高级课程晋升。部分人转向IT技术支持或网络工程。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The task structure of information and communication technology installers and maintenance personnel is being reshaped by AI and automation: remote diagnostics and automated configuration tools have compressed some troubleshooting work, but abilities such as debugging complex systems, on-site installation, and customer communication have been enhanced by AI, resulting in a mixed mix overall.
+
+Career paths: Junior technician→ senior technician→ team leader→ technical manager, or entrepreneur. You can advance by obtaining manufacturer certifications (such as Cisco or Huawei) or pursuing advanced FP courses. Some people turned to IT technical support or network engineering.
+
+**Tasks most exposed to AI:**
+
+- Automatic diagnostic systems replace manual troubleshooting of common network faults (such as IP conflict detection)
+- Remote firmware upgrade tools replace manual device-by-device updates
+- Automated configuration scripts take over the initial parameter settings of switches and routers
+- AI customer service handles simple user inquiries (such as password resets)
+- Automated wiring testers replace manual continuity checks
+
+**Where AI augments the role:**
+
+- AI-assisted diagnostic tools improve the efficiency of complex fault localization (such as log analysis mode)
+- Augmented Reality (AR) remote guidance improves on-site installation accuracy
+- Predictive maintenance algorithms help detect potential equipment issues in advance
+- Knowledge graphs and intelligent Q&A systems accelerate learning and debugging of new equipment
+- Automated report generation tools free up time engineers spend communicating with customers
+
+**Human moat:**
+
+- In complex networks and security configurations, decision-making ability to understand business logic is required
+- The ability to communicate directly with customers, understand non-standardized requirements, and adjust solutions
+- Flexible installation and physical wiring in harsh environments or non-standard sites
+- Creative problem-solving and on-site response during emergency faults
+- Integration and overall architecture control of multi-vendor heterogeneous systems
+
+**Skills to build:**
+
+- AI/Machine Learning Fundamentals (for predictive analytics and intelligent operations)
+- Network certifications (such as CCNA/CCNP) and cybersecurity knowledge
+- Automation tools (Ansible, scripting such as Python)
+- Cloud Computing Basics (AWS/Azure Network Services)
+- Augmented Reality (AR) maintenance tool operation
+- Client communication and project management foundation
+
+**Key growth areas:**
 
 - Digital Transformation
 - Fiber Optic Expansion
@@ -63,62 +99,67 @@ Install, configure, maintain and repair computer, network and telecom equipment,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Permit (Employed)） | 需获得西班牙雇主工作合同，通过劳动力市场测试（如无合适本地人选）。ICT安装工通常非紧缺，获批难度中等。 |
-| Subclass Autónomo（Self-Employed Work Permit） | 可申请自雇居留，需提交商业计划书并证明对当地经济的贡献。适合有经验者，审批较严格。 |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Must obtain a Spanish employer employment contract and pass a labor market test (if no suitable local candidate is found). ICT installers are usually not in short supply and have moderate approval difficulty. |
+| Subclass Autónomo (Self-Employed Work Permit) | Self-employed residence can be applied for, but a business plan must be submitted and proof of contribution to the local economy. Suitable for experienced applicants, with stricter approvals. |
+
+**PR friendliness: medium (★★½☆☆).**
+
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学ICT Installers and Repairers？**
-- 喜欢动手操作、善于解决硬件故障的人
-- 愿意学习通信技术、拥有电工基础者
-- 能适应爬梯、户外布线等体力工作的人
+**Who is suited**
+- People who enjoy hands-on operations and are good at fixing hardware issues
+- Those willing to learn communication technology and have a foundation in electrical engineering
+- People who can adapt to physical tasks like climbing stairs and outdoor wiring
 
-**谁不适合学ICT Installers and Repairers？**
-- 讨厌重复性体力劳动的人
-- 不想面对客户或进行现场服务者
+**Who is not suited**
+- People who dislike repetitive physical labor
+- Those who do not want to face customers or provide on-site service
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for ICT installation technicians in Spain?**
+A: Entry-level annual salary is about €18,000-24,000, mid-level €24,000-32,000, senior €32,000-42,000. Self-employed income depends on projects, but must cover insurance and tool costs themselves.
+
+**Q: Can foreigners immigrate to Spain through ICT installer work?**
+A: Yes, but difficulty is moderate. Need an employer contract and pass the labour market test. This occupation is not on the shortage list, so you must prove the position cannot be filled by a local. It is recommended to take a FP course first and gain experience.
+
+**Q: How can ICT installers be promoted to better positions?**
+A: You can be promoted to network engineer by obtaining advanced certifications (such as CCNA, Huawei HCIA). Alternatively, after accumulating experience, you can establish your own installation company to undertake corporate and government projects.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-ICT Installers and Repairers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for ICT installers and repairers in Spain?**
-答：Entry-level earns about €18,000-€24,000, mid-level €24,000-€32,000, and senior €32,000-€42,000 per year. Self-employed income varies but must cover insurance and tools.
-
-**问：Can foreigners migrate to Spain as ICT installers?**
-答：Yes, but with moderate difficulty. Need a job offer and labor market test. The occupation is not on shortage lists, so must prove no local candidate available. Studying FP first is recommended.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

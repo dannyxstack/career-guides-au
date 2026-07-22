@@ -1,57 +1,93 @@
-# Paramedics（Paramedics）职业分析 · UK
+# Paramedics — career analysis · United Kingdom
 
-**职业代码：2255 – Paramedics。**
+**Occupation code: 2255 (SOC)**
 
-Paramedics provide first aid and life support treatment in emergency situations and transport sick and injured people who require skilled treatment.
+Paramedics provide emergency first aid and life-sustaining treatment in emergencies and transport injured or ill persons requiring specialist care.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 大学本科（学士学位） | 3年 | $9,250~$12,000（每年学费，国际学生更高） |
+| Bachelor's degree | 3 years | $9,250~$12,000 (Annual tuition fees are higher for international students.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册护理人员资格 | 健康与护理专业委员会（HCPC） | 必备 | 必须持有HCPC注册才能执业 |
-| 护理科学学士学位 | 大学 | 必备 | 完成认可的护理人员学位课程 |
+| Registered nursing qualification | Health and Care Professions Council (HCPC) | Required | Must hold HCPC registration to practice |
+| Bachelor of Nursing Science | University | Required | Complete an approved nursing degree program |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★½）。** 全国从业人数约 32,000。英国对护理人员的需求持续增长，尤其是随着人口老龄化和紧急医疗服务扩展。NHS长期计划增加一线人员，就业前景良好。
+**Job demand: very high (★★★★½).** National workforce approx. 32,000. Demand for nurses in the UK continues to grow, especially with an aging population and expansion of emergency medical services. The NHS Long Term Plan aims to increase frontline staff, ensuring good employment prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $27,000~$32,000 | NHS Band 5 |
-| 中级（3-6年） | $33,000~$40,000 | NHS Band 6 |
-| 高级（6年以上） | $41,000~$51,000 | NHS Band 7 |
+| Median salary | $53,818 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $27,000~$32,000 | NHS Band 5 |
+| Mid-level (3–6 years) | $33,000~$40,000 | NHS Band 6 |
+| Senior (6+ years) | $41,000~$51,000 | NHS Band 7 |
+| average salary | $53,037 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级护理人员可晋升至高级护理人员、团队领导或临床专家（如危重症护理）。也可转向教育、管理或研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
+
+Entry-level care workers can advance to senior care workers, team leaders, or clinical specialists (e.g., critical care). They can also move into education, management, or research roles.
+
+**Tasks most exposed to AI:**
+
+- AI automatic dispatch and route optimization system takes over emergency resource allocation
+- Automatic transcription and generation of electronic health records, replacing manual entry
+- AI-powered initial symptom triage chatbots handle non-urgent calls
+- Automated inventory management systems for counting and replenishing emergency medications
+- Drone automatic delivery of defibrillators and other equipment to the scene
+
+**Where AI augments the role:**
+
+- AI analyzes patient vital signs in real-time and alerts for potential crises
+- AR headset assists on-site rapid assessment and medication use
+- Predictive models optimize ambulance deployment and staff scheduling
+- Remote doctors guide complex procedures via AI-enhanced video systems
+- AI-assisted ECG interpretation and drug dosage calculation
+
+**Human moat:**
+
+- Complex trauma surgery and interventional procedures in the field
+- Clinical judgment and ethical decision-making in unusual situations
+- Emotional communication and psychological comfort with patients' families
+- Team leadership and quick adaptability
+- Medical responsibility and autonomy under legal and regulatory requirements
+
+**Skills to build:**
+
+- Using AI-assisted decision-making tools and interpreting data
+- Telehealth collaboration and video guidance skills
+- Basic programming and AI system configuration
+- Advanced trauma ultrasound (FAST) and airway management
+- Disaster medicine and mass casualty event management
+- Cross-disciplinary team communication and leadership
+
+**Key growth areas:**
 
 - High Demand
 - NHS Expansion
@@ -60,65 +96,64 @@ Paramedics provide first aid and life support treatment in emergency situations 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 适用于获得英国雇主担保的护理人员，需满足薪资和技能要求 |
-| Subclass Health & Care（Health and Care Worker visa） | 为医疗专业人员提供快速通道，费用较低，可带家属 |
-| Subclass Graduate（Graduate visa） | 允许英国毕业生在完成学位后工作2年（博士3年） |
+| Subclass Skilled Worker (Skilled Worker visa) | Applicable to care workers with a UK employer sponsor, meeting salary and skill requirements |
+| Subclass Health & Care (Health and Care Worker visa) | Provides a fast track for medical professionals with lower costs and allows accompanying family members |
+| Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years after completing their degree (3 years for PhD) |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Paramedics？**
-- 冷静果断，能在高压环境下迅速决策
-- 具备同情心和沟通能力，能与患者及家属有效互动
-- 身体健康，能适应轮班和体力工作
-
-**谁不适合学Paramedics？**
-- 无法承受血腥和紧急场面
-- 不善于团队合作或抗压能力弱
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Calm and decisive, able to make quick decisions under high pressure
+- Demonstrate empathy and communication skills to effectively interact with patients and families
+- Physically fit, able to work shifts and perform physical work.
+
+**Who is not suited**
+- Cannot tolerate bloody and emergency scenes
+- Not good at teamwork or weak stress resistance.
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for care workers in the UK?**
+A: Entry-level nursing staff earn approximately £27,000-32,000 per year (NHS Band 5), while senior staff can earn £41,000-51,000 (Band 7).
+
+**Q: What visa do nursing staff need to immigrate to the UK?**
+A: Mainly can apply for Health and Care Worker visa, requiring UK employer sponsorship and meeting salary requirements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★½） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Paramedics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for UK paramedics?**
-答：Entry-level paramedics earn around £27,000-£32,000 (NHS Band 5), while senior paramedics can earn up to £41,000-£51,000 (Band 7).
-
-**问：What visa do paramedics need to migrate to the UK?**
-答：Mainly the Health and Care Worker visa, requiring a UK employer sponsorship and meeting salary thresholds.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,60 +1,93 @@
-# Animal Caretaker and Trainer（Animal Caretaker and Trainer）职业分析 · ES
+# Animal Caretaker and Trainer — career analysis · Spain
 
-**职业代码：5893 – Animal Caretaker and Trainer。**
+**Occupation code: 5893 (CNO)**
 
-Responsible for daily care, feeding, cleaning, and basic training of various animals (pets, farm animals, zoo animals), ensuring their health and welfare.
+Responsible for daily care, feeding, cleaning, and basic training of various animals (pets, farm animals, zoo animals, etc.) to ensure their health and welfare.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Medio） | 2年 | $1,000~$3,000（公立学校学费较低，私立稍高） |
-| 高等职业教育（FP Grado Superior） | 2年 | $1,500~$4,000（如动物健康与福利技术员） |
+| Secondary Vocational Education (FP Grado Medio) | 2 years | $1,000~$3,000 (Public schools have lower tuition fees, while private ones are slightly higher) |
+| Higher Vocational Education (FP Grado Superior) | 2 years | $1,500~$4,000 (For example, animal health and welfare technicians) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 动物看护与训练职业资格证书 | 各自治区劳动部门 | 可选 | 非强制，但雇主常要求 |
-| 危险动物处理许可 | 农业部 | 可选 | 仅针对特定大型或危险动物 |
+| Animal Care and Training Professional Qualification Certificate | Labor departments of all autonomous regions | Optional | Not mandatory, but employers often require it |
+| Dangerous animal handling permits | Ministry of Agriculture | Optional | Only for specific large or dangerous animals |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,300。西班牙宠物经济持续增长，但该职业并非紧缺职业。就业机会主要集中在宠物店、兽医诊所、动物收容所、农场和动物园。竞争中等。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,300. Spain's pet economy continues to grow, but this profession is not in short supply. Job opportunities are mainly concentrated in pet stores, veterinary clinics, animal shelters, farms, and zoos. Competition is moderate.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，小型宠物店或农场 |
-| 中级（3-7年） | $20,000~$26,000 | 大型宠物店、动物园或训练机构 |
-| 高级（7年以上） | $26,000~$32,000 | 高级训练师或管理岗位 |
+| Median salary | $17,023 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, small pet shop or farm |
+| Mid-level (3–7 years) | $20,000~$26,000 | Large pet stores, zoos, or training institutions |
+| Senior (7+ years) | $26,000~$32,000 | Senior trainer or management positions |
+| average salary | $18,993 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从助手晋升为高级看护员或训练师，积累经验后可开设个人宠物服务业务。部分人通过进修成为动物行为专家或兽医助理。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
+
+You can be promoted from assistant to senior caregiver or trainer, and after gaining experience, you can start a personal pet service business. Some people become animal behavior specialists or veterinary assistants through further education.
+
+**Tasks most exposed to AI:**
+
+- Basic bathing and drying (fully automatic equipment)
+- Appointment scheduling and customer communication (chatbot)
+- Photography and editing (AI imaging tools)
+- Inventory and order management (automated systems)
+
+**Where AI augments the role:**
+
+- AI tools assist in designing pet styles (reference images and trend analysis)
+- Smart camera system records before-and-after comparison to enhance presentation
+- AI health monitoring devices warn about skin issues and guide care
+- Automated marketing and social media content generation to expand customer base
+
+**Human moat:**
+
+- Creativity and precision in manual pruning and shaping
+- Safe handling and calming of anxious/restless pets
+- Building Trust and Personalized Service with Pet Owners
+- On-site judgment for sudden health issues (e.g., wounds, allergies)
+
+**Skills to build:**
+
+- Advanced Trimming and Creative Styling (e.g., painting, complex carving)
+- Pet behavior science and positive reinforcement techniques
+- Basic veterinary knowledge (dermatology, first aid)
+- Using AI tools (image generation, social media automation)
+- Customer management and social media operations
+- Safety and hygiene compliance (Australian standards)
+
+**Key growth areas:**
 
 - pet economy growth
 - animal welfare awareness
@@ -63,65 +96,67 @@ Responsible for daily care, feeding, cleaning, and basic training of various ani
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（受雇工作居留） | 需雇主担保，证明无法招到本地人。非紧缺职业，获批难度较高。 |
-| Subclass Busqueda empleo（找工作居留） | 适用于在西班牙完成学业的留学生，可留西一年寻找工作。 |
+| Subclass Cuenta ajena (Employed work residence) | Employer sponsorship is required, proving that local workers cannot be recruited. Non-urgently needed occupations have higher approval difficulties. |
+| Subclass Busqueda empleo (Job search and residence) | This is suitable for international students who have completed their studies in Spain, allowing them to stay in Spain for a year to look for work. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Animal Caretaker and Trainer？**
-- 喜爱动物且有耐心的人
-- 愿意从事体力劳动和户外工作的人
-- 善于观察和沟通的人
+**Who is suited**
+- People who love animals and are patient
+- People willing to do physical labor and outdoor work
+- A person who is good at observation and communication
 
-**谁不适合学Animal Caretaker and Trainer？**
-- 对动物过敏或害怕动物的人
-- 追求高薪和快速晋升的人
+**Who is not suited**
+- People allergic to or afraid of animals
+- Those seeking high salary and rapid promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for animal sitters?**
+A: Entry-level about 16,000-20,000 EUR/year, senior up to 32,000 EUR/year, generally low.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It is very difficult; the profession is not in urgent demand, employers find it hard to prove they cannot recruit locals, and work visa sponsorship is usually not provided.
+
+**Q: What educational background is required?**
+A: Typically, a relevant major in FP Grado Medio (2 years) or Grado Superior (2 years), or extensive practical experience, is required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | medium-low (★★☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 不友好（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Animal Caretaker and Trainer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for animal caretakers?**
-答：Entry-level about 16,000-20,000 EUR/year, senior up to 32,000 EUR/year, generally low.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Very difficult; not a shortage occupation, employers struggle to justify hiring a foreigner, work visa sponsorship is rare.
-
-**问：What educational background is required?**
-答：Usually FP Grado Medio (2 years) or Grado Superior (2 years) in related fields, or extensive practical experience.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,94 @@
-# Sales Representative (Building and Plumbing Supplies)（Sales Representative (Building and Plumbing Supplies)）职业分析 · 新西兰
+# Sales Representative (Building and Plumbing Supplies) — career analysis · New Zealand
 
-**职业代码：611311 – Sales Representative (Building and Plumbing Supplies)。**
+**Occupation code: 611311 (ANZSCO)**
 
-Amid steady construction growth, this role offers migration via AEWV or Skilled Migrant Category, with salaries NZ$55,000-90,000.
+Given the continuing growth in the construction industry, this occupation is eligible for immigration via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC), with an annual salary of approximately NZD 55,000-90,000.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★½☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 无要求 | —（通常最低要求） |
-| 销售或商业相关证书/文凭 | 6个月-1年 | $3,000~$12,000（如NZ Certificate in Sales (Level 4)） |
+| High school diploma or equivalent | No requirements | $0~$0 (Typically minimum requirements) |
+| Sales or business-related certificate/diploma | 6 months to 1 year | $3,000~$12,000 (e.g., NZ Certificate in Sales (Level 4)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制注册/执照 | 无 | 可选 | 通常不需要执照，但行业认证有优势 |
-| 全驾照 | NZ Transport Agency | 可选 | 因需拜访客户，建议持有 |
-| 雅思6.0或同等英语 | IELTS/OET等 | 必备 | 技术移民需至少雅思6.0 |
+| IELTS 6.0 or equivalent English | IELTS/OET, etc. | Required | Skilled migration requires at least IELTS 6.0 |
+| No mandatory registration/license | None | Optional | Generally no license required, but industry certification is an advantage |
+| Full driver's license | NZ Transport Agency | Optional | Recommended to hold as required for client visits. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★★☆☆）。** 全国从业人数约 2,500。新西兰建筑业预计未来五年保持增长，管道用品需求稳定，但销售岗位竞争中等，经验丰富的代表前景良好。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 2,500. New Zealand's construction industry is expected to maintain growth over the next five years, with steady demand for plumbing supplies, but sales positions face moderate competition; experienced representatives have good prospects.
 
-**竞争度：中（★★★☆☆）。**
-**工作强度：中（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 基础薪资加佣金 |
-| 中级（3-7年） | $55,000~$75,000 | 含佣金总收入可达8万 |
-| 高级（7年以上） | $75,000~$90,000 | 资深代表或团队领导 |
+| Median salary | $49,400 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $45,000~$55,000 | Base salary plus commission |
+| Mid-level (3–7 years) | $55,000~$75,000 | Total income including commissions up to $80,000 |
+| Senior (7+ years) | $75,000~$90,000 | Senior Representative or Team Leader |
+| average salary | $52,000 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中（★★★☆☆）。** 晋升路径包括区域销售经理、国家销售经理或转岗至产品管理、市场营销。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
+
+Career progression includes regional sales manager, national sales manager, or transitioning to product management or marketing.
+
+**Tasks most exposed to AI:**
+
+- Use CRM and AI tools to automatically dial calls, screen potential clients, and send standardized follow-up emails
+- Handle common service inquiries, product introductions, and initial needs confirmation via chatbot
+- Use AI to analyze customer historical data, generating personalized sales suggestions and quotation templates.
+- Automates routine contract clause explanation, service level descriptions, and FAQ responses
+- AI-driven sales forecasting and report generation, replacing manual data collation and trend analysis
+
+**Where AI augments the role:**
+
+- AI provides customer behavior insights and real-time recommendations, helping sales reps tailor solutions and increase closing rates
+- Uses Natural Language Processing (NLP) to analyze customer call recordings, identify emotions and purchase intent, and guide communication strategies
+- Automatically records call notes, updates CRM fields, freeing up energy to focus on high-value interactions
+- AI simulates customer roles for sales practice, enhancing salespeople's ability to handle objections and negotiate
+
+**Human moat:**
+
+- Complex needs diagnosis and cross-domain solution integration, requiring understanding of customer business scenarios and pain points
+- Build long-term trust relationships and maintain connections with key decision-makers at senior levels
+- Creative negotiation, flexible pricing decisions, and contract term customization
+- Cross-team coordination (e.g., technical, legal) to deliver complex service solutions
+- Demonstrate emotional intelligence and empathy when handling unexpected client crises and complaints
+
+**Skills to build:**
+
+- Proficiency in operating and configuring mainstream CRM (e.g., Salesforce) and AI sales assistants (e.g., Gong, Clari)
+- Data analysis basics: use Python or BI tools (e.g., Tableau) to analyze sales funnel and customer profiles
+- Customer success and complex project management skills to ensure renewals and expansion sales
+- Short video script creation and social media sales skills, using AI to generate content for customer acquisition
+- Prompt engineering for AI tools, optimizing chatbot scripts and sales email generation quality
+- Cross-cultural communication and remote collaboration skills, for global service sales
+
+**Key growth areas:**
 
 - Construction Boom
 - Infrastructure Investment
@@ -62,68 +97,67 @@ Amid steady construction growth, this role offers migration via AEWV or Skilled 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需认证雇主担保，工作3年后可申请居留 |
-| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+经验），职业在ANZSCO Skill Level 3-4 |
-| Subclass Green List T2（Green List Tier 2） | 不在绿色清单直接居留类别，但可通过工作转居留 |
+| Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsored job with an approved employer; after 3 years of work, can apply for residency. |
+| Subclass SMC (Skilled Migrant Category) | Meet the 6-point system (qualifications + experience), occupation at ANZSCO Skill Level 3-4 |
+| Subclass Green List T2 (Green List Tier 2) | Not in the Green List direct residence category, but can transition to residence through work |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Sales Representative (Building and Plumbing Supplies)？**
-- 擅长沟通和建立客户关系的人
-- 对建筑/管道产品有浓厚兴趣并愿意学习技术知识
-- 喜欢业绩导向的薪资结构，愿意出差
-
-**谁不适合学Sales Representative (Building and Plumbing Supplies)？**
-- 不喜频繁外出拜访客户
-- 对销售业绩压力耐受度低
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People good at communication and building customer relationships
+- Has a strong interest in building/plumbing products and is willing to learn technical knowledge
+- Prefer performance-based salary structure and willing to travel
+
+**Who is not suited**
+- Dislike frequent outings to visit clients
+- Low tolerance for sales performance pressure
+
+---
+
+## 8. FAQ
+
+**Q: How much do building and plumbing supplies sales representatives earn?**
+A: Entry-level annual salary around NZ$45,000-55,000, with commissions up to NZ$80,000. Senior representatives earn NZ$75,000-90,000 annually.
+
+**Q: Is it easy to immigrate to New Zealand in this occupation?**
+A: Skilled migration is possible but must meet salary and education requirements. Can apply for residency after 3 years of work via AEWV.
+
+**Q: What skills are needed for this job?**
+A: Requires sales skills, product knowledge, communication skills, and a driver's license. Typically requires high school diploma or higher.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★½☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★★☆☆） |
-| 竞争度 | 中（★★★☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 中（★★½☆☆） |
-| 发展前景 | 中（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Sales Representative (Building and Plumbing Supplies)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the income for a Sales Representative (Building and Plumbing Supplies)?**
-答：Entry-level salary NZ$45,000-55,000, plus commissions up to NZ$80,000. Senior roles earn NZ$75,000-90,000.
-
-**问：Is it easy to immigrate to New Zealand in this occupation?**
-答：Skilled Migrant Category is possible with wage and qualification criteria. AEWV allows residence after 3 years.
-
-**问：What skills are required for this job?**
-答：Sales skills, product knowledge, communication, and a driver's license. Typically secondary school qualification.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

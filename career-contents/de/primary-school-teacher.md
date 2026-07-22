@@ -1,59 +1,95 @@
-# Primary School Teacher（Primary School Teacher）职业分析 · DE
+# Primary School Teacher — career analysis · Germany
 
-**职业代码：8411 – Primary School Teacher。**
+**Occupation code: 8411 (KldB)**
 
-Primary school teachers in Germany teach grades 1-4 (up to 6 in some states), covering core subjects like German, math, and science, while fostering students' holistic development.
+Primary school teachers in Germany teach at the primary education level, covering grades 1-4 (up to grade 6 in some states), teaching core subjects such as German, math, and natural sciences, and are responsible for fostering students' overall development.
 
-> 注：本职业为**受限技术移民职业**，不在DE独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：高（★★★★☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 硕士（大学） | 5-6年（含见习期） | —（公立大学每学期约150-300欧元注册费，硕士阶段几乎免费） |
+| Master's (University) | 5-6 years (including probationary period) | $0~$1,500 (Public universities charge approximately 150-300 euros per semester in registration fees, with master's programs nearly free) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 教师资格证（Staatsexamen / Master of Education） | 州教育部门 | 必备 | 通过国家考试或硕士学位后完成18-24个月见习期（Referendariat） |
-| 资质认证（Anerkennung） | 各州认证机构（Kultusministerkonferenz） | 必备 | 海外学历需认证等同德国教师资质，可能需补修课程或见习 |
+| Teaching qualification (Staatsexamen / Master of Education) | State education department | Required | Pass a state exam or master's degree, then complete an 18-24 month trainee period (Referendariat) |
+| Qualification recognition (Anerkennung) | State accreditation bodies (Kultusministerkonferenz) | Required | Overseas qualifications need to be recognised as equivalent to German teacher qualifications, may require supplementary courses or internship |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 240,000。德国面临小学教师短缺问题，尤其在乡村和东部地区。预计未来十年需求持续增长，就业机会充足。公立学校教师为公务员或雇员，工作稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 240,000. Germany faces a shortage of primary school teachers, especially in rural and eastern areas. Demand is expected to grow over the next decade, with ample job opportunities. Public school teachers are civil servants or employees with stable jobs.
 
-**竞争度：中（★★☆☆☆）。**
-**工作强度：中（★★★☆☆）。**
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $41,000~$46,000 | 取决于州和公务员等级，约A12级 |
-| 中级（5-15年） | $47,000~$56,000 | 晋升至A13级或更高 |
-| 高级（15年以上） | $57,000~$68,000 | 高级教师或学校领导职位 |
+| Median salary | $64,044 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry-level (0-5 years) | $41,000~$46,000 | Depends on the state and public service grade, approximately A12 level |
+| Intermediate (5-15 years) | $47,000~$56,000 | Promotion to A13 level or higher |
+| Senior (15+ years) | $57,000~$68,000 | Senior teacher or school leadership position |
+| average salary | $64,920 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 晋升路径包括成为资深教师、年级组长、学校领导或教育顾问。也可进入教师培训或教育行政领域。博士学历可通往大学教学或研究岗位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
+
+Career paths include becoming a senior teacher, grade-level leader, school leader, or education consultant. One can also enter teacher training or education administration. A doctoral degree can lead to university teaching or research roles.
+
+**Tasks most exposed to AI:**
+
+- AI automatically generates daily activity plans and lesson plans
+- AI analyzes child development data and generates assessment reports
+- AI handles parent communication emails, notifications, and other text tasks
+- AI management of course resource libraries and material ordering
+- AI-assisted basic English/math concept teaching exercises
+
+**Where AI augments the role:**
+
+- AI real-time observation and recording of children's learning behaviors, providing personalized teaching suggestions
+- AI analyzes early childhood development indicators to warn of potential developmental issues
+- AI assists in designing adaptive games and interactive activities to promote inclusive education
+- AI virtual characters engage in role-playing and language interaction to enrich teaching scenarios
+- AI automatically translates multilingual content, supporting multicultural family communication
+
+**Human moat:**
+
+- Build warm, trusting teacher-student relationships and provide emotional security.
+- Observing and interpreting children's nonverbal signals, emotions, and behaviors
+- Design open, exploratory curricula to stimulate creativity and curiosity
+- In-depth communication with parents to coordinate family and kindergarten education
+- Guiding children through complex social conflicts to develop social and emotional skills
+
+**Skills to build:**
+
+- AI-assisted teaching tools (e.g., child development analysis software)
+- Basic data analysis and evaluation report interpretation
+- Human-AI collaboration course design (e.g., adjusting activities after AI recommendations)
+- Digital communication and multimedia content creation
+- Special education and inclusive education methods
+- Child mental health and early intervention basics
+
+**Key growth areas:**
 
 - teacher shortage
 - demographic change
@@ -62,65 +98,64 @@ Primary school teachers in Germany teach grades 1-4 (up to 6 in some states), co
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)） | 适用于持有德国认可教师资质的外国专业人员，需获得具体工作合同。 |
-| Subclass Job Seeker（Job Seeker Visa (Chancenkarte)） | 允许持有者在德国寻找工作6个月，但需提供经济证明和语言能力。 |
+| Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to foreign professionals holding a German-recognised teaching qualification, must have a specific employment contract. |
+| Subclass Job Seeker (Job Seeker Visa (Chancenkarte)) | Allows holders to look for work in Germany for 6 months, but requires proof of financial resources and language skills. |
 
-**PR难度：中（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Primary School Teacher？**
-- 热爱与儿童工作，有耐心和同理心
-- 具备良好的沟通和组织能力
-- 愿意学习德语至C1水平以适应教学
-
-**谁不适合学Primary School Teacher？**
-- 不擅长与家长或同事协作
-- 对高强度文书工作和纪律管理缺乏准备
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about working with children, patient and empathetic.
+- Strong communication and organizational skills
+- Willing to learn German to C1 level to suit teaching
+
+**Who is not suited**
+- Not good at collaborating with parents or colleagues
+- Lack of preparation for intensive paperwork and discipline management
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of primary school teachers in Germany?**
+A: Approx. pre-tax annual salary €41,000–68,000, depending on state, years of teaching, and position. Public school teachers are usually civil servants, enjoying high benefits and pensions.
+
+**Q: How to become a primary school teacher in Germany with a foreign degree?**
+A: Requires academic credential recognition (Anerkennung), proving equivalence to German teaching qualifications. Typically needs German C1 level, completion of bridging courses, or a probationary period (Referendariat).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★★☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 高（★★★★☆） |
-| 学习难度 | 高（★★★★☆） |
-| 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中（★★☆☆☆） |
-| 收入水平 | 中（★★★☆☆） |
-| 工作强度 | 中（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
-
-Primary School Teacher为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for primary school teachers in Germany?**
-答：Gross annual salary ranges from €41,000 to €68,000, depending on federal state, experience, and position. Public school teachers are usually civil servants with high benefits and pensions.
-
-**问：How can foreign qualifications lead to becoming a primary school teacher in Germany?**
-答：You need to have your qualifications recognized (Anerkennung) as equivalent to German teacher training. Usually requires German at C1 level, additional coursework, or completion of the preparatory service (Referendariat).
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

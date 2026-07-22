@@ -1,59 +1,95 @@
-# Environmental health professionals（Environmental health professionals）职业分析 · UK
+# Environmental health professionals — career analysis · United Kingdom
 
-**职业代码：2483 – Environmental health professionals。**
+**Occupation code: 2483 (SOC)**
 
-Environmental health professionals use specialist technical skills and knowledge to protect people from health risks associated with the environment, maintaining standards and enforcing public health legislation.
+Environmental health professionals use specialized technical knowledge to protect the public from environmental health risks, maintain and enforce standards, including taking legal action to enforce public health regulations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 本科 | 3-4年 | $10,000~$25,000（英国本土学生每年9250英镑，国际学生约15000-25000英镑） |
-| 硕士 | 1年 | $12,000~$30,000（硕士课程通常1年，学费因学校而异） |
+| Bachelor's degree | 3-4 years | $10,000~$25,000 (UK domestic students: £9,250 per year; international students: approximately £15,000-£25,000) |
+| Master's degree | 1 year | $12,000~$30,000 (Master's programs typically last 1 year, tuition varies by school) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 环境卫生学位（认可课程） | CIEH/REHIS认证大学 | 必备 | 需完成CIEH或REHIS认可的学士或硕士课程 |
-| 注册环境卫生执业者 | 环境卫生注册局（ERB） | 必备 | 通过ERB注册考试，获得执业资格 |
-| 持续专业发展（CPD） | CIEH/REHIS | 必备 | 保持注册需要每年完成CPD |
+| Environmental health degree (accredited program) | CIEH/REHIS accredited university | Required | Must complete a bachelor's or master's degree accredited by CIEH or REHIS |
+| Registered Environmental Health Practitioner | Environmental Registration Board (ERB) | Required | Obtain professional qualification by passing the ERB registration exam |
+| Continuing Professional Development (CPD) | CIEH/REHIS | Required | Maintaining registration requires completing CPD annually |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。英国对环境卫生专业人员的需求稳定，受公共卫生意识提高和法规加强驱动。地方政府和环保机构是主要雇主，就业前景良好。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. Demand for environmental health professionals in the UK is stable, driven by increased public health awareness and stricter regulations. Local governments and environmental agencies are major employers, offering good job prospects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 入门级薪资，地方政府为主 |
-| 中级（3-8年） | $32,000~$45,000 | 经验丰富后薪资上升 |
-| 高级（8年以上） | $45,000~$55,000 | 管理或专家职位薪资更高 |
+| Median salary | $41,725 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $25,000~$32,000 | Entry-level salary, mainly local government |
+| Mid-level (3–8 years) | $32,000~$45,000 | Salary increases with experience. |
+| Senior (8+ years) | $45,000~$55,000 | Management or specialist positions have higher salaries |
+| average salary | $43,340 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★½☆）。** 职业发展可从初级环境卫生官员起步，逐步晋升为高级官员、团队领导或管理职位。也可转向政策制定、咨询或学术研究。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will automate some data collection and reporting tasks, but core on-site inspections, enforcement discretion, and public health decision-making responsibilities still require humans; the role presents both risks and opportunities.
+
+Career progression can start from a junior environmental health officer, advancing to senior officer, team leader, or management positions. It can also shift into policy development, consulting, or academic research.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate routine food safety inspection reports and statistical summaries.
+- Automatic online water quality monitoring and anomaly alarm based on sensor data
+- Using natural language processing to extract requirements from regulatory documents and match them against checklists.
+- Automated summary of online infectious disease case reports and preliminary outbreak signal detection
+- Standardized health risk assessment questionnaire auto-distribution and score calculation
+
+**Where AI augments the role:**
+
+- AI-assisted identification of subtle trends and potential pollution sources in water quality monitoring data
+- Historical data-based risk prediction models guide on-site inspection priority allocation
+- Natural language search for quick retrieval of complex public health regulations and precedents
+- AI vision analysis helps identify hygiene risks (e.g., cross-contamination) in food processing areas.
+- Using chatbots to improve public health education and survey response rates
+
+**Human moat:**
+
+- On-site enforcement discretion: assessing violation severity and deciding between immediate penalties or corrective actions
+- Cross-departmental coordination and emergency decision-making in public health crises
+- Deep understanding of community cultural backgrounds to effectively communicate sensitive health issues
+- Legal litigation support: serving as expert witness to explain inspection findings and scientific basis
+- Professional certification (CPHI(C)) required for comprehensive judgment and professional ethics
+
+**Skills to build:**
+
+- Basic data analysis and visualization (Python/R)
+- GIS geospatial analysis for disease outbreak and environmental exposure mapping
+- AI tool usage (e.g., building risk prediction models with AutoML)
+- Compliance knowledge of digital health data privacy regulations (PIPEDA)
+- Human-robot collaboration mindset for on-site inspection workflows
+- Continuously learning about emerging environmental health threats (e.g., microplastics, PFAS)
+
+**Key growth areas:**
 
 - Public Health
 - Regulation
@@ -62,68 +98,67 @@ Environmental health professionals use specialist technical skills and knowledge
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker Visa） | 符合资格的环境卫生专业人员可申请技术工人签证，需雇主担保且薪资达标 |
-| Subclass Health and Care Work（Health and Care Worker Visa） | 若职位涉及医疗保健环境，可能符合健康护理签证，享有更快审理和更低费用 |
-| Subclass Graduate（Graduate Visa） | 毕业生签证允许在英国完成学位的学生留英工作2年（博士3年），积累经验 |
+| Subclass Skilled Worker (Skilled Worker Visa) | Qualified environmental health professionals may apply for skilled worker visas, requiring employer sponsorship and meeting salary thresholds |
+| Subclass Health and Care Work (Health and Care Worker Visa) | If the position involves a healthcare environment, it may qualify for a health care visa, with faster processing and lower fees |
+| Subclass Graduate (Graduate Visa) | Graduate visa allows students who have completed a degree in the UK to stay and work for 2 years (3 years for PhD) to gain experience |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Environmental health professionals？**
-- 对公共卫生和环境问题有强烈兴趣的人
-- 注重细节且具备法律和科学知识的人
-- 愿意与公众和政府部门沟通协作的人
-
-**谁不适合学Environmental health professionals？**
-- 不喜欢文书工作和法规执行的人
-- 对户外工作和现场检查不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- For people with strong interest in public health and environmental issues
+- Detail-oriented individuals with legal and scientific knowledge
+- Someone willing to communicate and collaborate with the public and government departments
+
+**Who is not suited**
+- People who dislike paperwork and regulatory compliance
+- Not suitable for those who dislike outdoor work and field inspections.
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for environmental health professionals?**
+A: Entry-level approx. £25,000-32,000, mid-level £32,000-45,000, senior up to £55,000+. Local government salaries typically have fixed grades.
+
+**Q: Can this occupation lead to immigration to the UK?**
+A: Yes. Environmental health professionals can immigrate via the Skilled Worker visa, requiring employer sponsorship and meeting salary requirements. Health and Care Worker visa may also apply.
+
+**Q: What qualifications are required for this occupation?**
+A: Must complete a CIEH or REHIS recognized university degree program and pass the ERB registration exam to obtain a license. Continuing professional development is also a registration requirement.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较好（★★★½☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Environmental health professionals的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for environmental health professionals?**
-答：Entry-level salaries range from £25,000 to £32,000, mid-level from £32,000 to £45,000, and senior positions can exceed £55,000. Local government salaries follow pay scales.
-
-**问：Can I immigrate to the UK with this occupation?**
-答：Yes. Environmental health professionals can immigrate via the Skilled Worker visa with employer sponsorship and required salary. The Health and Care Worker visa may also apply.
-
-**问：What qualifications are needed for this occupation?**
-答：A CIEH or REHIS-accredited degree is required, followed by registration with the Environmental Health Registration Board (ERB). Continuing professional development is mandatory.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

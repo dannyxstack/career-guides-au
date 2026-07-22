@@ -1,59 +1,95 @@
-# Insurance Underwriters（Insurance Underwriters）职业分析 · 美国
+# Insurance Underwriters — career analysis · United States
 
-**职业代码：13-2053 – Insurance Underwriters。**
+**Occupation code: 13-2053 (SOC)**
 
-Review individual insurance applications to evaluate risk and determine acceptance. Analyze data, set premiums, ensure profitability and regulatory compliance.
+Reviewing individual insurance applications, assessing risk levels and deciding whether to underwrite. Involves analysing data, setting rates, and ensuring profitability and compliance for the insurer.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 本科（学士） | 4年 | $50,000~$120,000（公立大学年均学费约1.2万-3万美元） |
-| 短期证书 | 6-12个月 | $3,000~$10,000（线上保险课程或职业证书） |
+| Bachelor's degree | 4 years | $50,000~$120,000 (Average annual tuition at public universities is about US$12,000-30,000.) |
+| Short-term certificate | 6–12 months | $3,000~$10,000 (Online insurance courses or professional certificates) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 保险核保师从业资格（AINS） | 保险学会（The Institutes） | 可选 | 基础资格，非强制但广泛认可 |
-| 特许财产意外险核保师（CPCU） | 保险学会（The Institutes） | 可选 | 高级资格，提升竞争力 |
-| 州保险执照（如适用） | 各州保险监管局 | 必备 | 部分州要求核保师持有保险生产商执照 |
+| State insurance license (if applicable) | State insurance regulatory authorities | Required | Some states require underwriters to hold an insurance producer license |
+| Insurance underwriting certification (AINS) | The Institutes | Optional | Basic qualification, not mandatory but widely recognized |
+| Chartered Property Casualty Underwriter (CPCU) | The Institutes | Optional | Advanced qualification, enhances competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 126,200。预计2023-2033年就业增长约-2%（下降），因自动化核保技术减少人工需求，但专业领域（如再保险）仍有稳定岗位。
+**Job demand: medium (★★½☆☆).** National workforce approx. 126,200. Projected employment growth of about -2% (decline) from 2023-2033, as automated underwriting reduces demand for manual work, but specialized areas (e.g., reinsurance) still have stable positions.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$65,000 | 起步薪资，小型公司或实习岗位 |
-| 中级（3-7年） | $65,000~$90,000 | 具备独立核保能力 |
-| 高级（7年以上） | $90,000~$130,000 | 资深核保师或团队主管 |
+| Median salary | $81,370 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $45,000~$65,000 | starting salary, small company or internship position |
+| Mid-level (3–7 years) | $65,000~$90,000 | Capable of independent underwriting |
+| Senior (7+ years) | $90,000~$130,000 | Senior underwriter or team leader |
+| average salary | $93,700 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较差（★½☆☆☆）。** 初级核保师→高级核保师→核保经理→核保总监。可通过积累特定险种经验（如健康险、财产险）或转向精算、风险管理等岗位晋升。
-**AI替代风险：较高（★★★½☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Insurance underwriters face mixed changes: AI will automate routine data analysis, rate calculation, and standard risk assessment, but complex underwriting decisions, interpersonal communication, and regulatory accountability still rely on human judgment. Jobs won't disappear but entry barriers will rise.
+
+Junior underwriter → Senior underwriter → Underwriting manager → Underwriting director. Advancement can be achieved by gaining experience in specific insurance lines (e.g., health, property) or transitioning to actuarial, risk management, etc.
+
+**Tasks most exposed to AI:**
+
+- Automate routine data collection and entry, such as extracting information from application forms and verifying consistency
+- Use algorithms for initial risk scoring and premium calculation, replacing manual calculation
+- Apply rule engines to automatically review standard insurance policy applications, eliminating manual line-by-line checks
+- Generate standardized risk assessment reports and quotation documents
+- Use AI prediction models to help identify suspicious or high-risk applications and conduct preliminary screening
+
+**Where AI augments the role:**
+
+- Use AI to analyze historical claims data and big data models to optimize risk pricing strategies
+- Leverage AI tools to quickly compare non-standard applications with similar cases, improving underwriting decision efficiency and accuracy
+- Using natural language processing to automatically parse medical reports or financial documents, extracting key risk factors.
+- Using AI to simulate loss distributions under different underwriting scenarios to assist in designing innovative insurance products.
+- Use AI to monitor market trends and regulatory changes, dynamically adjust underwriting guidelines and rules
+
+**Human moat:**
+
+- Conduct comprehensive assessment of complex, non-standard, or high-value applications, considering moral hazard and applicant intent
+- In-depth communication with agents and clients to explain reasons for denial or negotiate special terms
+- Assume legal and compliance responsibility, sign off on underwriting decisions and explain rationale
+- Leverage industry experience and network to formulate overall risk appetite and underwriting policies for the company
+- Make original assessments in gray areas and emerging risks (e.g., climate change, cybersecurity)
+
+**Skills to build:**
+
+- Data analysis and statistical modeling (Python/R)
+- Machine learning basics and applications in insurance
+- Use of AI tools (e.g., AI-assisted decision platforms)
+- Communication and negotiation skills.
+- Advanced risk management and actuarial knowledge
+- Regulatory compliance and ethical decision-making skills
+
+**Key growth areas:**
 
 - Data Analytics
 - Automation
@@ -62,66 +98,68 @@ Review individual insurance applications to evaluate risk and determine acceptan
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 适用于本科学历及以上的核保师岗位，需抽签，配额有限 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需硕士学位或本科学位加5年经验，通过PERM劳工认证 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于本科学位或以下，需PERM，排期较长 |
-| Subclass Green Card (PERM)（PERM Labor Certification） | 雇主担保绿卡的第一步，需证明无法招聘到合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Applicable to underwriter positions requiring bachelor's degree or above, lottery-based with limited quotas. |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or bachelor's degree plus 5 years of experience, through PERM labor certification. |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable for bachelor's degree or lower, requires PERM, long wait times |
+| Subclass Green Card (PERM) (PERM Labor Certification) | First step for employer-sponsored green card, requires proving inability to hire qualified U.S. workers |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Insurance Underwriters？**
-- 具有分析思维和数据解读能力的人
-- 喜欢在规则框架内做决策的人
-- 对保险行业有兴趣的金融或商业背景者
-
-**谁不适合学Insurance Underwriters？**
-- 不喜欢重复性工作和严格规定的人
-- 追求高薪或快速晋升的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with analytical thinking and data interpretation skills
+- People who enjoy making decisions within a rule framework
+- Those with finance or business backgrounds interested in the insurance industry.
+
+**Who is not suited**
+- People who dislike repetitive work and strict regulations
+- People seeking high salary or rapid promotion
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary outlook for insurance underwriters?**
+A: According to BLS data, 2023 median annual salary approx. $76,000 USD, but growth is slow due to automation. Senior underwriters or those moving into management can earn over $100,000.
+
+**Q: How can an overseas insurance underwriter immigrate to the US?**
+A: Common path is H-1B work visa (requires employer sponsorship and lottery), followed by EB-2 or EB-3 green card. Requires relevant degree and experience, and employer must demonstrate inability to hire US workers.
+
+**Q: How much does automation impact the employment of underwriters?**
+A: Significant impact: many routine underwriting tasks are replaced by AI, leading to expected employment decline. But complex insurance and risk management still require human judgment, shifting roles to advanced analysis.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较差（★½☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Insurance Underwriters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary outlook for insurance underwriters?**
-答：According to BLS, median annual salary was about $76,000 in 2023, but growth is slow due to automation. Senior or managerial roles can exceed $100,000.
-
-**问：How can foreign nationals immigrate to the US as an insurance underwriter?**
-答：Common path is H-1B visa (employer-sponsored, lottery), then EB-2/EB-3 green card. Requires relevant degree, experience, and employer demonstration of labor shortage.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

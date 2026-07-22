@@ -1,59 +1,93 @@
-# Credit Analyst（Credit Analyst）职业分析 · 新西兰
+# Credit Analyst — career analysis · New Zealand
 
-**职业代码：222211 – Credit Analyst。**
+**Occupation code: 222211 (ANZSCO)**
 
-Credit analysts play a key role in assessing lending risk, with sustained demand in New Zealand's banking sector. This occupation meets Skilled Migrant Category requirements and has Green List pathways, making it a viable option for immigration in finance.
+Credit analysts play a key role in assessing loan risk, with ongoing demand for such talent in New Zealand's banking sector. This occupation meets the Skilled Migrant Category requirements and has a Green List pathway, making it a viable option for migrating to New Zealand in the finance field.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 金融/会计学士学位 | 3年 | $40,000~$50,000（新西兰本科学费国际生每年约2.5-3.5万NZD） |
-| 金融硕士 | 1-1.5年 | $50,000~$60,000（国际生总学费约5-6万NZD） |
+| Bachelor degree in Finance/Accounting | 3 years | $40,000~$50,000 (International student tuition for undergraduate degrees in New Zealand is about NZD 25,000-35,000 per year.) |
+| Master of Finance | 1-1.5 years | $50,000~$60,000 (Total international student tuition approx. NZD 50,000–60,000.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 注册财务顾问（RFA） | Financial Markets Authority | 可选 | 从事个人贷款咨询需注册 |
-| CFA 证书 | CFA Institute | 可选 | 提升信用分析专业度，非强制但推荐 |
-| 雅思总分7.0 | IELTS | 必备 | 技术移民语言要求 |
+| IELTS overall score 7.0 | IELTS | Required | Language requirements for skilled migration |
+| Registered Financial Advisor (RFA) | Financial Markets Authority | Optional | Registration required for personal loan advice |
+| CFA certification | CFA Institute | Optional | Enhances credit analysis professionalism; not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 800。新西兰金融业稳定发展，信贷分析师需求预计温和增长，尤其在商业银行、信贷机构和金融科技公司。注册金融顾问（RFA）资格提升竞争力。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 800. New Zealand's financial industry is developing steadily, and demand for credit analysts is expected to grow modestly, especially in commercial banks, credit institutions, and fintech companies. RFA certification enhances competitiveness.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 起步薪资，奥克兰地区偏高 |
-| 中级（3-6年） | $75,000~$95,000 | 有经验分析师 |
-| 高级（6年以上） | $100,000~$130,000 | 高级/团队领导岗位 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $55,000~$70,000 | Starting salary; higher in the Auckland area |
+| Mid-level (3–6 years) | $75,000~$95,000 | Experienced analyst |
+| Senior (6+ years) | $100,000~$130,000 | Senior/team leader positions |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 初级信贷分析师可晋升为高级分析师、信贷经理或风险主管。积累经验后可转向企业银行、风险管理或金融科技领域，部分人走向独立金融顾问。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI will take over data-driven credit assessment and report generation in credit analysis, but complex judgment, client communication, and compliance responsibilities still require humans; risks and opportunities coexist.
+
+Junior Credit Analyst can advance to Senior Analyst, Credit Manager, or Risk Supervisor. With experience, can move into corporate banking, risk management, or fintech; some become independent financial advisors.
+
+**Tasks most exposed to AI:**
+
+- Automatically extracting financial data from systems and generating preliminary credit reports
+- Using machine learning models to automatically calculate credit scores and risk levels
+- Automated compliance checks to flag missing clauses in loan documents
+- Generate standardized financial analysis templates and trend charts
+
+**Where AI augments the role:**
+
+- Using AI prediction models for stress testing and scenario analysis to improve risk assessment accuracy
+- Quick summarization of borrowing company news and industry reports via natural language processing
+- Using visualization tools to present complex financial indicators, supporting communication with clients and approvers
+- AI-assisted writing of high-quality customer default analysis explanations for audit and internal reports
+
+**Human moat:**
+
+- Intuitive judgment on unstructured information (e.g., management integrity, industry cycles)
+- Experience in designing customized loan structures for complex or exceptional cases
+- Communication and negotiation skills to build trust with clients and internal stakeholders
+- Sensitivity to regulatory updates and compliance interpretation responsibility
+- Legal responsibility and professional judgment required for signing final credit decisions
+
+**Skills to build:**
+
+- Proficient in using Python/R for data cleaning and basic modeling.
+- Proficiency in using Power BI or Tableau to create interactive risk dashboards
+- Learn to operate and adjust parameters of AI credit risk assessment platforms (e.g., Zest AI)
+- Strengthen financial modeling and scenario analysis skills
+- Improve regulatory interpretation and compliance report writing skills
+- Learn human-machine collaboration workflow design to optimize exception handling logic
+
+**Key growth areas:**
 
 - Green List Tier 2
 - Skilled Migrant Category
@@ -62,68 +96,67 @@ Credit analysts play a key role in assessing lending risk, with sustained demand
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制下，匹配学历和工作经验可申请 |
-| Subclass Green List T2（Green List Tier 2） | 工作2年后可申请居留，需认证雇主 |
-| Subclass AEWV（Accredited Employer Work Visa） | 常见工签路径，担保就业 |
+| Subclass SMC (Skilled Migrant Category) | Under the 6-point system, matching qualifications and work experience can apply |
+| Subclass Green List T2 (Green List Tier 2) | Can apply for residence after 2 years of work, requires accredited employer |
+| Subclass AEWV (Accredited Employer Work Visa) | Common work visa pathway, sponsored employment |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★½☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Credit Analyst？**
-- 具备金融/会计背景，分析能力强的毕业生
-- 希望在新西兰金融业稳定发展并能适应英语工作环境的人
-- 有计划通过技术移民或绿色清单路径移民新西兰的人
-
-**谁不适合学Credit Analyst？**
-- 对数字分析不感兴趣或数学基础薄弱者
-- 偏好快速高薪或不愿承担学习/考试成本的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Graduates with finance/accounting background and strong analytical skills
+- Those seeking stable growth in New Zealand's finance industry and ability to adapt to an English work environment
+- People planning to immigrate to New Zealand via skilled migration or the Green List pathway
+
+**Who is not suited**
+- Not suitable for those uninterested in digital analysis or with weak math skills
+- Those who prefer fast high salary or are unwilling to bear study/exam costs
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a Credit Analyst in New Zealand?**
+A: Entry-level approximately NZD 60,000-70,000, mid-level NZD 80,000-100,000, senior up to NZD 130,000+, Auckland typically higher.
+
+**Q: Can credit analysts apply for skilled migration to New Zealand?**
+A: Yes. This occupation is at ANZSCO skill level 1, meeting the SMC 6-point requirement, and also qualifies for Green List Tier 2 (residence after 2 years of work).
+
+**Q: What education is needed to become a credit analyst?**
+A: Typically requires a bachelor's degree in finance, accounting, or business; a master's degree may increase competitiveness. New Zealand recognizes overseas qualifications.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | medium-high (★★★½☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★½☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 较高（★★★½☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Credit Analyst的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a credit analyst in New Zealand?**
-答：Entry-level around NZD 60,000-70,000, mid-level NZD 80,000-100,000, senior up to NZD 130,000+, higher in Auckland.
-
-**问：Can a credit analyst apply for New Zealand skilled migration?**
-答：Yes. It is ANZSCO skill level 1, eligible for SMC under the 6-point system, and also on Green List Tier 2 (residence after 2 years).
-
-**问：What qualifications are needed to become a credit analyst?**
-答：A bachelor's degree in finance, accounting, or business is typical; a master's can help. Overseas qualifications are recognized.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

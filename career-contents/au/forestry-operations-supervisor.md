@@ -1,59 +1,92 @@
-# Forestry Operations Supervisor（Forestry Operations Supervisor）职业分析 · 澳大利亚
+# Forestry Operations Supervisor — career analysis · Australia
 
-**职业代码：363113 – Forestry Operations Supervisor。**
+**Occupation code: 363113 (ANZSCO)**
 
-Forestry Operations Supervisors oversee timber harvesting, reforestation, fire management, and sustainable forest practices, coordinating teams and equipment to ensure safe and efficient operations.
+Forestry operations supervisors oversee timber harvesting, reforestation, fire prevention, and sustainable management, coordinate teams and equipment, and ensure safe and efficient operations.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 本科 | 4年 | $25,000~$45,000（例如森林科学或自然资源管理学士） |
-| VET文凭 | 2年 | $15,000~$25,000（例如林业管理或土木工程高级文凭） |
+| Bachelor's degree | 4 years | $25,000~$45,000 (e.g., Bachelor's degree in forest science or natural resource management) |
+| VET diploma. | 2 years | $15,000~$25,000 (For example, an advanced diploma in forestry management or civil engineering) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 林业科学学士 | 澳大利亚大学 | 可选 | 常见入门学位 |
-| 森林防火认证 | AFAC | 可选 | 火灾管理相关岗位需要 |
-| 重型车辆驾照 | 各州交通局 | 必备 | 操作采伐设备可能需要 |
+| Heavy vehicle driving license | State transport departments | Required | Operating logging equipment may require |
+| Bachelor of Forest Science | Australian university | Optional | Common entry-level degree |
+| Forest fire prevention certification | AFAC | Optional | Fire management-related positions require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 3,200。澳洲林业受可持续管理需求、碳汇项目和森林防火驱动，预计未来5年稳定增长。偏远地区岗位增多，但受气候变化和火灾风险影响。
+**Job demand: high (★★★★☆).** National workforce approx. 3,200. Australia's forestry industry is driven by sustainable management needs, carbon sequestration projects, and forest fire prevention, with steady growth expected over the next 5 years. Remote area jobs are increasing, but affected by climate change and fire risks.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 入门级助理主管或团队领导 |
-| 中级（3-7年） | $80,000~$110,000 | 经验丰富的运营主管 |
-| 高级（7年以上） | $110,000~$140,000 | 区域经理或高级运营经理 |
+| Median salary | $95,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $65,000~$80,000 | Entry-level assistant supervisor or team leader |
+| Mid-level (3–7 years) | $80,000~$110,000 | Experienced operations supervisor |
+| Senior (7+ years) | $110,000~$140,000 | Regional Manager or Senior Operations Manager |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 可晋升为林业经理或区域运营经理，也可转向环境咨询或资源管理。积累经验后有机会进入政府或大型林业企业高层。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Forestry operations supervisors face mixed AI impacts: data monitoring and planning tasks will be automated, but on-site decisions, team coordination, and safety supervision still rely on human experience.
+
+Can progress to forestry manager or regional operations manager, or transition to environmental consulting or resource management. With experience, opportunities to enter government or senior roles in large forestry companies.
+
+**Tasks most exposed to AI:**
+
+- Using drones and satellite data for remote sensing monitoring and mapping of forest resources
+- Automatically generate logging and afforestation plans based on sensor data
+- Automated operation and early warning of fire risk prediction models
+- Standardized report generation (e.g., yield, growth statistics)
+
+**Where AI augments the role:**
+
+- Optimize logging routes and timing using AI prediction models to enhance efficiency
+- Using computer vision to assist in identifying pests, diseases, and illegal logging
+- AI-assisted development of customized afforestation plans (tree species selection, spacing)
+- Real-time data dashboards enhance remote monitoring capabilities for field operations.
+
+**Human moat:**
+
+- Rapid diagnosis and emergency decision-making for complex on-site problems (e.g., sudden fires)
+- Cross-team (loggers, ecologists, government) communication and coordination
+- Team safety supervision and accountability in high-risk environments
+- Long-term sustainable management strategy development (ecological and economic balance)
+
+**Skills to build:**
+
+- GIS and Remote Sensing Data Analysis (QGIS, ArcGIS, and Python)
+- Drone operation and basic image processing
+- AI/Machine learning fundamentals (predictive model applications)
+- Data-driven decision making and dashboard tools (Power BI)
+- Knowledge of sustainable forestry and carbon sink management.
+- Leadership and change management skills
+
+**Key growth areas:**
 
 - Sustainable Forestry
 - Carbon Farming
@@ -62,69 +95,68 @@ Forestry Operations Supervisors oversee timber harvesting, reforestation, fire m
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 190（Skilled Nominated Visa） | 需州担保，常见于塔州、西澳等林业大州 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区担保，适合在林业密集区工作 |
-| Subclass 482（Skills in Demand Visa） | 雇主担保，需有经验的林业主管 |
-| Subclass 186（Employer Nomination Scheme） | 雇主提名永居，要求3年工作经验 |
+| Subclass 190 (Skilled Nominated Visa) | Requires state sponsorship, common in Tasmania, Western Australia, and other major forestry states. |
+| Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, suitable for working in forestry-intensive areas |
+| Subclass 482 (Skills in Demand Visa) | Employer sponsorship, requires experienced forestry supervisor |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requiring 3 years of work experience |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Forestry Operations Supervisor？**
-- 喜爱户外工作
-- 有领导力和安全意识
-- 愿意在偏远地区工作
-
-**谁不适合学Forestry Operations Supervisor？**
-- 不习惯体力劳动
-- 无法适应季节性极端天气
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys outdoor work
+- Has leadership and safety awareness
+- Willing to work in remote areas.
+
+**Who is not suited**
+- Not accustomed to physical labor
+- unable to adapt to seasonal extreme weather
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary range for a Forestry Operations Supervisor?**
+A: Junior approx. A$65,000-80,000, mid-level A$80,000-110,000, senior A$110,000-140,000 (pre-tax annual).
+
+**Q: Can forestry operations supervisors migrate to Australia through skilled migration?**
+A: Yes. This occupation is on the CSOL and can be applied for via 189/190/491 visas; regional sponsorship is more favorable.
+
+**Q: What is the future development of this occupation?**
+A: Employment is stable with increased demand for sustainable forestry and carbon sinks. Promotion to manager offers higher salary, and transition to environmental consulting is possible.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中上（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Forestry Operations Supervisor的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a Forestry Operations Supervisor?**
-答：Entry-level: AUD 65,000–80,000; Mid-level: AUD 80,000–110,000; Senior: AUD 110,000–140,000 (pre-tax annual).
-
-**问：Can a Forestry Operations Supervisor migrate to Australia via skilled visa?**
-答：Yes. The occupation is on the CSOL, eligible for 189/190/491 visas. Regional sponsorship is favorable.
-
-**问：What is the future career outlook?**
-答：Steady demand driven by sustainable forestry and carbon farming. Promotion to manager roles or transition to environmental consulting is possible.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

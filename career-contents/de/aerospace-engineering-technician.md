@@ -1,59 +1,93 @@
-# Aerospace Engineering Technician（Aerospace Engineering Technician）职业分析 · DE
+# Aerospace Engineering Technician — career analysis · Germany
 
-**职业代码：2523 – Aerospace Engineering Technician。**
+**Occupation code: 2523 (KldB)**
 
-Technical expert in design, manufacturing, testing, and maintenance of aerospace vehicles and components, including aircraft, satellites, and rocket systems.
+Technical experts who design, manufacture, test, and maintain aerospace vehicles and components, including aircraft, satellites, and rocket systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业教育 | 3.5年 | —（企业承担学费，每月津贴约800-1200欧元） |
-| 本科（应用科学大学） | 4年 | —（公立大学基本免学费，每学期注册费约300欧元） |
+| Dual vocational education and training | 3.5 years | $0~$500 (Employer covers tuition; monthly allowance approx. €800-1,200.) |
+| Bachelor's degree (University of Applied Sciences) | 4 years | $0~$1,500 (Public universities essentially tuition-free, semester registration fee around €300) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK职业资格证书 | 德国工商会 | 必备 | 双元制毕业后获得 |
-| 德语B1证书 | 歌德学院等 | 必备 | 技术移民要求 |
-| 学历认证（Anerkennung） | 德国认证机构 | 必备 | 海外学历需认证 |
+| IHK vocational qualification certificate | German Chamber of Commerce and Industry | Required | Obtained after dual system graduation |
+| German B1 certificate | Goethe-Institut, etc. | Required | Skilled migration requirements |
+| Credential recognition (Anerkennung) | German certification body | Required | Overseas degrees need credential evaluation. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。德国航空航天业稳定增长，特别是在卫星技术、电动飞行和国防领域。联邦政府加大投资，人才需求持续旺盛。
+**Job demand: high (★★★★☆).** National workforce approx. 18,000. Germany's aerospace industry is growing steadily, especially in satellite technology, electric flight, and defense. The federal government is increasing investment, and demand for talent remains strong.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 税前年薪 |
-| 中级（4-7年） | $48,000~$60,000 | 税前年薪 |
-| 高级（8年以上） | $60,000~$78,000 | 税前年薪 |
+| Median salary | $45,864 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $48,000~$60,000 | Annual pre-tax salary |
+| Senior (8+ years) | $60,000~$78,000 | Annual pre-tax salary |
+| average salary | $52,656 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 可从技术员晋升为高级技术专家、项目负责人或转向研发管理。双元制毕业后可通过继续教育成为工程师。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aerospace technicians face a mixed outlook: tasks like design validation and documentation will be automated by AI, but complex operations such as physical assembly, testing, and repair still require human judgment—skills transition is essential.
+
+Can advance from technician to senior technical expert, project leader, or transition to R&D management. After completing dual-system training, can become an engineer through further education.
+
+**Tasks most exposed to AI:**
+
+- Use CAD software for preliminary structural design and modifications
+- Write and update technical documentation and test reports
+- Conduct routine performance simulations using standard tools
+- Quality inspection records on some production lines
+
+**Where AI augments the role:**
+
+- AI-assisted simulation of complex fluid dynamics and thermodynamics
+- Use machine learning to optimize lifecycle maintenance plans for aircraft components
+- Use natural language processing to quickly search technical manuals and fault diagnostics
+- Real-time monitoring and predictive system performance using digital twin technology.
+
+**Human moat:**
+
+- Hands-on operation and intuition in physical testing and repair
+- Problem-solving skills when handling unforeseen mechanical failures
+- Communication skills for interdisciplinary collaboration with engineers and clients
+- Responsibility for making safety-critical decisions within the regulatory framework
+- Physical intuition and experience with new materials under extreme conditions
+
+**Skills to build:**
+
+- AI/Machine Learning Basics: How to apply data-driven methods to fault prediction
+- Automation test script writing (e.g., Python + PyTest)
+- Hands-on practice with digital twin platforms (e.g., Siemens Xcelerator)
+- Understand FAA/EASA airworthiness requirements for AI
+- Data analysis and visualization (processing sensor data)
+- Principles of Additive Manufacturing (3D Printing) Design
+
+**Key growth areas:**
 
 - Aviation
 - Space Technology
@@ -62,68 +96,67 @@ Technical expert in design, manufacturing, testing, and maintenance of aerospace
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于高等教育学历，年薪门槛约43,800欧元（2024年） |
-| Subclass Skilled Worker（Skilled Worker Visa） | 适用于职业资格认证，无工资门槛，需雇主担保 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分系统，允许未找到工作前进入德国，有效期1年 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education degrees; annual salary threshold approx. €43,800 (2024) |
+| Subclass Skilled Worker (Skilled Worker Visa) | Applicable to professional qualification certification, no salary threshold, requires employer sponsorship |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to Germany before finding a job, valid for 1 year |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Aerospace Engineering Technician？**
-- 对航空航天技术有浓厚兴趣，动手能力强
-- 具备工程思维和团队协作能力
-- 愿意学习德语并融入德国工作环境
-
-**谁不适合学Aerospace Engineering Technician？**
-- 不喜欢精密操作和严格质量控制
-- 不能适应偶尔的高强度项目周期
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Strong interest in aerospace technology with hands-on skills
+- Possess engineering mindset and teamwork skills
+- Willing to learn German and integrate into the German work environment
+
+**Who is not suited**
+- dislike precision work and strict quality control
+- Cannot adapt to occasional high-intensity project cycles
+
+---
+
+## 8. FAQ
+
+**Q: What is the starting salary for aerospace technicians in Germany?**
+A: Junior annual pre-tax salary about €38,000-48,000, increasing to over €60,000 with experience.
+
+**Q: How can overseas applicants become aerospace technicians in Germany through skilled migration?**
+A: Requires academic recognition (Anerkennung), German at B1 level, and can apply for the EU Blue Card or skilled worker visa after finding an employer.
+
+**Q: Are there promotion opportunities in this occupation?**
+A: Can advance to senior technician, project supervisor, or become an engineer through further study.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 高（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Aerospace Engineering Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the starting salary for an aerospace engineering technician in Germany?**
-答：Starting gross annual salary is around €38,000-48,000, increasing to over €60,000 with experience.
-
-**问：How can overseas applicants migrate as aerospace technicians in Germany?**
-答：Require recognition of qualifications (Anerkennung), German B1, and a job offer to apply for EU Blue Card or Skilled Worker visa.
-
-**问：Are there promotion opportunities in this career?**
-答：Yes, to senior technician, project manager, or engineer via further education.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

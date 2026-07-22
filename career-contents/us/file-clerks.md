@@ -1,60 +1,96 @@
-# File Clerks（File Clerks）职业分析 · 美国
+# File Clerks — career analysis · United States
 
-**职业代码：43-4071 – File Clerks。**
+**Occupation code: 43-4071 (SOC)**
 
-File correspondence, cards, invoices, receipts, and other records in alphabetical or numerical order and locate materials upon request.
+Responsible for filing letters, invoices, receipts and other records in alphabetical or numerical order, and locating and retrieving files upon request.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 12年 | —（公立高中免费） |
-| 副学士学位（可选） | 2年 | $10,000~$30,000（社区学院学费） |
+| High school diploma | 12 years | $0~$0 (Public high schools are free) |
+| Associate degree (optional) | 2 years | $10,000~$30,000 (Community college tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 高中 | 必备 | 基本要求 |
-| 记录管理认证（CRM） | 档案管理员与管理者协会（ARMA） | 可选 | 可选但有利于晋升 |
+| High school diploma or equivalent | High school | Required | Basic requirements |
+| Certified Records Manager (CRM) | ARMA (Association of Records Managers and Administrators) | Optional | Optional but beneficial for promotion |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 150,000。美国档案管理员岗位预计2023-2033年增长约8%，与平均水平持平。数字化转型减少了纸质档案需求，但医疗和法律领域仍有稳定需求。
+**Job demand: medium (★★½☆☆).** National workforce approx. 150,000. US archivist positions are projected to grow about 8% from 2023-2033, on par with average. Digital transformation reduces demand for paper archives, but healthcare and legal fields still have stable demand.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★☆☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★☆☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 入门级薪资 |
-| 中级（3-7年） | $36,000~$45,000 | 中等经验 |
-| 高级（7年以上） | $45,000~$55,000 | 高级或主管岗位 |
+| Median salary | $43,600 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $28,000~$36,000 | Entry-level salary |
+| Mid-level (3–7 years) | $36,000~$45,000 | Intermediate experience |
+| Senior (7+ years) | $45,000~$55,000 | Senior or supervisory position |
+| average salary | $45,590 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可晋升为高级档案管理员、记录管理专员或办公室主管。进一步学习获得记录管理认证可进入政府或企业档案部门。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+Core tasks of archivists (classification, archiving, retrieval) are highly rule-based and easily replaced by AI-driven document management systems and RPA; demand will decline rapidly, expected to decrease by over 30% in the next 10 years.
+
+Can advance to senior archivist, records management specialist, or office supervisor. Further study and records management certification can lead to government or corporate archives departments.
+
+**Tasks most exposed to AI:**
+
+- Filing paper and electronic documents in alphabetical or numerical order
+- Retrieve specific documents based on requests
+- Physical or digital classification of records such as letters, invoices, receipts
+- Document transfer and storage tracking
+- Basic data entry and indexing
+
+**Where AI augments the role:**
+
+- Using AI tools for intelligent document classification and metadata tagging
+- Use OCR and natural language processing to quickly extract key information from documents
+- Improves retrieval efficiency and handles complex queries through AI search optimization.
+- Monitor accuracy of automated processes and exception handling
+- Manage AI system knowledge base, continuously optimize classification rules.
+
+**Human moat:**
+
+- Deep understanding of organization-specific document classification systems
+- Decision-making ability for handling ambiguous or non-standard documents (e.g., manuscripts, historical materials)
+- Cross-departmental communication and coordination skills for document workflows
+- Responsibility for ensuring record compliance (e.g., legal retention requirements)
+- Document security and confidentiality awareness (involving sensitive information)
+
+**Skills to build:**
+
+- Operation of document management systems (e.g., SharePoint, M-Files)
+- Basic programming (Python/RPA tools for automated file processing)
+- Use of AI tools (e.g., auto-classification, OCR, NLP).
+- Data governance and compliance knowledge
+- Information architecture and metadata design
+- Data analysis (extracting business insights from file data)
+
+**Key growth areas:**
 
 - Digital recordkeeping
 - Healthcare records
@@ -63,62 +99,64 @@ File correspondence, cards, invoices, receipts, and other records in alphabetica
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因学历要求通常为高中，不符合专业职位要求。 |
-| Subclass EB-3（EB-3 Skilled Workers） | 极少数情况下可能通过EB-3移民，但雇主需证明无法找到本地工人。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as education requirement is typically high school, not meeting professional position requirements. |
+| Subclass EB-3 (EB-3 Skilled Workers) | In very rare cases, may immigrate via EB-3, but employer must prove inability to find local workers. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学File Clerks？**
-- 注重细节、有条理的人
-- 喜欢稳定办公室工作的人
-- 寻求低压力入门级工作的人
+**Who is suited**
+- Detail-oriented, organized person
+- People who prefer stable office jobs
+- People seeking low-stress entry-level jobs
 
-**谁不适合学File Clerks？**
-- 期望高薪或快速晋升的人
-- 不喜欢重复性工作的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People who dislike repetitive work
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average salary of an archivist?**
+A: According to BLS data, the median annual wage for archivists in 2023 was approximately $36,000, below the national average. Salary ranges from $28,000 to $55,000 depending on experience and employer.
+
+**Q: Can archivists apply for US work visas or green cards?**
+A: Usually difficult. This occupation typically requires only a high school diploma and does not meet H-1B specialty occupation requirements. Employers may face labor certification issues when applying for PERM green cards. Only in very few cases can immigration be achieved through EB-3, but success rates are low.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★☆☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★☆☆☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（½☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-File Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for file clerks?**
-答：According to BLS, the median annual wage for file clerks in 2023 is about $36,000, below the national average. Salaries range from $28,000 to $55,000 depending on experience and employer.
-
-**问：Can file clerks apply for US work visas or green cards?**
-答：It's difficult. The job typically requires only a high school diploma, not meeting H-1B specialty occupation criteria. Employers may face labor certification issues for PERM green cards. EB-3 is possible but rare with low success rate.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

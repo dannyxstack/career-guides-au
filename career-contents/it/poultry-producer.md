@@ -1,60 +1,96 @@
-# Poultry Producer（Poultry Producer）职业分析 · IT
+# Poultry Producer — career analysis · Italy
 
-**职业代码：6122 – Poultry Producer。**
+**Occupation code: 6122 (ISCO08)**
 
-Poultry producers raise poultry (e.g., chickens, ducks, turkeys) for meat, eggs, or other products, managing feed, health, breeding, and daily farm operations.
+Poultry producers raise poultry (e.g., chickens, ducks, turkeys) to produce meat, eggs, or other products, managing feed, health, breeding, and daily farm operations.
 
-> 注：本职业为**非技术移民职业**，不在IT技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中或职业培训 | 3年 | —（公立职业学校免费或低学费） |
-| 农业技术学位 | 2-3年（专科） | $1,000~$10,000（公立大学学费） |
+| High school or vocational training | 3 years | $0~$5,000 (Free or low tuition at public vocational schools) |
+| Agricultural technology degree | 2-3 years (Diploma) | $1,000~$10,000 (Public university tuition) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 家禽养殖培训证书 | 地区农业培训中心 | 可选 | 部分大区要求 |
-| 动物健康管理证书 | 意大利动物卫生协会 | 可选 | 用于提高养殖水平 |
+| Poultry farming training certificate | Regional agricultural training center | Optional | Required by some regions |
+| Animal Health Management Certificate | Italian Animal Health Association | Optional | To improve farming practices |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。意大利家禽产业稳定，消费需求持续，但面临欧盟环保法规和动物福利标准提高的压力，规模化养殖趋势明显。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. Italy's poultry industry is stable with sustained consumer demand, but faces pressure from EU environmental regulations and higher animal welfare standards, with a clear trend toward large-scale farming.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 农场工人或初级技术员 |
-| 中级（3-7年） | $24,000~$32,000 | 农场主管或独立经营者 |
-| 高级（7年以上） | $32,000~$45,000 | 大型农场经理或业主 |
+| Median salary | $28,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Farm worker or junior technician |
+| Mid-level (3–7 years) | $24,000~$32,000 | Farm supervisor or independent operator |
+| Senior (7+ years) | $32,000~$45,000 | Large farm manager or owner |
+| average salary | $29,167 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初学者可从农场工人起步，积累经验后晋升为农场主管或独立农场主，也可向兽医、营养顾问等专业方向发展。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Poultry producers face mixed AI impact: automation will handle data monitoring and basic health checks, but actual animal care, emergency decisions, and regulatory compliance rely on human judgment; entry-level positions are slightly tighter due to equipment operation requirements.
+
+Beginners can start as farm workers, gain experience and advance to farm supervisor or independent farmer, or develop into professional roles like veterinarian or nutrition advisor.
+
+**Tasks most exposed to AI:**
+
+- Environmental parameter monitoring and recording (temperature, humidity, light)
+- Basic feed delivery and water supply management
+- Mechanized operation of poultry house cleaning and waste disposal
+- Preliminary statistics and report generation for production data
+- Collection of vital signs data in routine health checks.
+
+**Where AI augments the role:**
+
+- Optimize feed ratios and feeding times through AI analysis
+- Early detection of abnormal behavior in sick poultry using computer vision
+- Predicting egg production/slaughter volume based on production data to plan sales
+- Efficiency improved in inspecting large poultry houses with drones or ground robots
+- AI-assisted epidemic early warning and biosecurity decision support
+
+**Human moat:**
+
+- Acute observation and immediate handling of abnormal behavior in individual poultry.
+- veterinary-level disease diagnosis and medication decisions
+- Emergency management for sudden weather or equipment failure
+- Animal welfare operations in special production systems like organic and free-range
+- Regulatory compliance responsibilities related to government quarantine and food certification
+
+**Skills to build:**
+
+- Operation and basic troubleshooting of agricultural IoT devices
+- Data analysis and visualization tools (e.g., Excel, Tableau)
+- Understanding the application of computer vision systems in farming
+- Deepened knowledge of animal behavior and biosecurity
+- IT fundamentals and automated systems management skills
+- Food safety regulations and sustainable farming practices
+
+**Key growth areas:**
 
 - Organic poultry
 - Animal welfare
@@ -63,61 +99,63 @@ Poultry producers raise poultry (e.g., chickens, ducks, turkeys) for meat, eggs,
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Decreto Flussi 配额工作签（Decreto Flussi Work Visa） | 季节性农业劳工配额，需雇主担保，每年名额有限。 |
+| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Seasonal agricultural labor quotas require employer sponsorship, with limited annual slots. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Poultry Producer？**
-- 喜欢户外体力劳动
-- 对动物福利和农业技术有兴趣
-- 愿意在乡村地区生活和工作
+**Who is suited**
+- Enjoys outdoor physical work
+- Interest in animal welfare and agricultural technology
+- Willing to live and work in regional areas
 
-**谁不适合学Poultry Producer？**
-- 偏好城市生活和固定工作时间
-- 无法承受高强度体力劳动
+**Who is not suited**
+- Prefers urban life and fixed working hours
+- Unable to endure high-intensity physical labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: How much do poultry producers earn?**
+A: Junior annual salary approx. 18,000-24,000 euros, mid-level 24,000-32,000 euros, senior 32,000-45,000 euros.
+
+**Q: How do foreigners obtain a work visa for Italian poultry producers?**
+A: Primarily through Decreto Flussi quota work visas, requiring employer sponsorship, with limited annual quotas; it is advisable to follow official announcements.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ISTAT / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Poultry Producer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for poultry producers?**
-答：Entry-level annual salary is about €18,000-24,000, mid-level €24,000-32,000, senior €32,000-45,000.
-
-**问：How can foreigners obtain a work visa for poultry production in Italy?**
-答：Mainly through the Decreto Flussi quota work visa, requiring employer sponsorship with limited annual quotas; check official announcements.
+- ISTAT, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

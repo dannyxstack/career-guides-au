@@ -1,62 +1,98 @@
-# Coastal and Inland Waters Fisher（Coastal and Inland Waters Fisher）职业分析 · ES
+# Coastal and Inland Waters Fisher — career analysis · Spain
 
-**职业代码：6422 – Coastal and Inland Waters Fisher。**
+**Occupation code: 6422 (CNO)**
 
-Engages in commercial fishing in coastal or inland waters, including catching, handling catch, and maintaining gear. Often seasonal with harsh working conditions.
+Engaging in commercial fishing in coastal or inland waters, including catching, handling catch, and maintaining fishing gear. Usually, the working environment is harsh due to seasonal changes.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 义务教育 | 无需正式学历 | —（通常在职培训） |
-| 中等职业教育（FP Básico） | 2年 | $1,000~$3,000（海洋渔业相关专业） |
-| 高级职业教育（FP Grado Superior） | 2年 | $2,000~$5,000（水产养殖或航海专业） |
+| Compulsory education | No formal education required | $0~$0 (Usually on-the-job training) |
+| Secondary Vocational Education (FP Básico) | 2 years | $1,000~$3,000 (Majors related to marine fisheries) |
+| Advanced Vocational Education (FP Grado Superior) | 2 years | $2,000~$5,000 (Aquaculture or navigation majors) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 渔船船员职业资格 | 西班牙交通部（Dirección General de la Marina Mercante） | 必备 | 需完成基础安全培训并取得适任证书 |
-| 渔船船长证书（Patrón de Pesca） | 西班牙交通部 | 必备 | 根据船舶吨位和航区分级，需理论和实践考试 |
-| 海上急救培训 | 红十字会或授权机构 | 可选 | 多数渔船要求 |
+| Fishing vessel crew professional qualification | Spanish Ministry of Transport (Dirección General de la Marina Mercante) | Required | Candidates must complete basic safety training and obtain a competency certificate |
+| Fishing Vessel Captain's Certificate (Patrón de Pesca) | Spanish Ministry of Transport | Required | Classification based on ship tonnage and navigation area, requiring both theoretical and practical exams |
+| Maritime first aid training | Red Cross or authorized organizations | Optional | Most fishing boats require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中（★★½☆☆）。** 全国从业人数约 32,000。西班牙渔业受配额和欧盟共同渔业政策限制，从业人数缓慢下降，但沿海地区仍有稳定需求，尤其是特产捕捞。
+**Job demand: medium (★★½☆☆).** National workforce approx. 32,000. Spanish fisheries are limited by quotas and the EU's common fisheries policy, with the number of workers slowly declining, but there is still stable demand along the coast, especially for specialty fishing.
 
-**竞争度：中（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 多为分成制，税前估算 |
-| 中级（3-7年） | $24,000~$30,000 | 含经验船员或小船长 |
-| 高级（7年以上） | $30,000~$40,000 | 大副/船长或远洋作业 |
+| Median salary | $20,931 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Most use a profit-sharing system, estimating before tax |
+| Mid-level (3–7 years) | $24,000~$30,000 | Including experienced crew members or junior captains |
+| Senior (7+ years) | $30,000~$40,000 | Chief mate/captain or ocean-going operations |
+| average salary | $21,383 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 多数渔民为自雇或家庭经营。晋升机会有限，可升为船长或监控人员。部分转向水产养殖。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
+
+Most fishermen are self-employed or run their own businesses. Promotion opportunities are limited, but you can be promoted to captain or monitor. Some have shifted to aquaculture.
+
+**Tasks most exposed to AI:**
+
+- Manual operation using fishing nets, traps, etc.
+- Assist with repetitive tasks such as hauling nets and handling catches on a fishing vessel
+- Monitor fish migration activities by visual observation or simple instruments
+- Manual data recording of catch species, quantity, and size
+- Routine tasks in aquaculture farms such as feeding and cleaning
+
+**Where AI augments the role:**
+
+- Uses AI to predict fish migration paths and densities, optimizing fishing locations and times
+- Remotely monitor fish farms and equipment using drones or underwater robots
+- Optimize fish processing through data analysis and machine learning to reduce waste
+- Improve catch grading and packaging efficiency with automated sorting systems.
+- Using AI for resource sustainability assessment and compliance report generation.
+
+**Human moat:**
+
+- Handle emergencies in adverse weather or breakdowns (e.g., equipment repair, rescue)
+- Intuitive judgment and response to complex marine environments (e.g., tides, reefs)
+- Perform fine manual operations, such as live capture to avoid injury
+- Decision-making responsibility for complying with environmental regulations, such as releasing protected species.
+- Communication and collaboration with fishing communities and regulatory agencies
+
+**Skills to build:**
+
+- Unmanned vessel/underwater robot operation and maintenance
+- Fisheries IoT and sensor data analysis
+- Use of AI-assisted decision-making systems (e.g., fish school prediction software)
+- Basic programming and automation equipment debugging
+- Knowledge of environmental regulations and sustainable fisheries certification.
+- Multi-skilled (e.g., mechanical repair + data analysis)
+
+**Key growth areas:**
 
 - Sustainable fishing
 - EU quotas
@@ -65,66 +101,68 @@ Engages in commercial fishing in coastal or inland waters, including catching, h
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work permit for employees） | 需西班牙雇主担保，证明职位难以招到本地人。渔业季节性工作通常只发短期许可。 |
-| Subclass Trabajo por cuenta p（Work permit for self-employed） | 自雇渔民需提交商业计划，证明经济活动有利西班牙利益。 |
-| Subclass Tarjeta azul UE（EU Blue Card） | 不适用，因职业通常不满足高技能要求。 |
+| Subclass Cuenta ajena (Work permit for employees) | A Spanish employer sponsorship is required, proving that the position is difficult to recruit locals. Seasonal fisheries work is usually only issued with short-term permits. |
+| Subclass Trabajo por cuenta p (Work permit for self-employed) | Self-employed fishermen must submit a business plan proving that their economic activities benefit Spain's interests. |
+| Subclass Tarjeta azul UE (EU Blue Card) | Not applicable, as the profession usually does not meet high-skill requirements. |
+
+**PR friendliness: very low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Coastal and Inland Waters Fisher？**
-- 喜欢户外和海洋生活的人
-- 能接受体力劳动和不规律作息的人
-- 愿意在沿海地区定居的人
+**Who is suited**
+- People who enjoy outdoor and marine life
+- People who can tolerate physical labor and irregular schedules
+- Those willing to settle in coastal areas
 
-**谁不适合学Coastal and Inland Waters Fisher？**
-- 厌恶海上颠簸或晕船严重者
-- 追求稳定高薪和办公室环境者
+**Who is not suited**
+- Those who dislike rough seas or get severely seasick
+- Those seeking stable, high salaries and office environments
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average annual salary of Spanish fishermen?**
+A: Beginners earn about 18,000-24,000 euros, while experienced individuals can earn 30,000-40,000 euros. Income fluctuates greatly depending on catch volume and season.
+
+**Q: Can foreigners immigrate to Spain through fisherman status?**
+A: It is difficult because this occupation is not a high-skilled or in-demand occupation; short-term work permits can only be obtained through employer sponsorship, and there must be proof that no local applicants are available.
+
+**Q: What qualifications are required to work in fisheries?**
+A: Mandatory professional qualifications (basic safety training) for fishing vessel crew members; if you are a captain, you must obtain an additional captain's certificate (Patrón de Pesca).
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中（★★½☆☆） |
-| 竞争度 | 中（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Coastal and Inland Waters Fisher属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary for a fisherman in Spain?**
-答：Entry-level around €18,000-€24,000, experienced up to €30,000-€40,000, heavily dependent on catch volume and season.
-
-**问：Can foreigners immigrate to Spain as a fisherman?**
-答：Difficult, as it's not a high-skilled or shortage occupation. Only short-term work permits via employer sponsorship are possible, requiring proof that no local candidate is available.
-
-**问：What qualifications are required for fishing?**
-答：Mandatory professional qualification for crew (basic safety training); additional skipper certificate (Patrón de Pesca) for captain roles.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

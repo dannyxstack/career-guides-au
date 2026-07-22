@@ -1,60 +1,93 @@
-# Butchers and Meat Cutters（Butchers and Meat Cutters）职业分析 · 美国
+# Butchers and Meat Cutters — career analysis · United States
 
-**职业代码：51-3021 – Butchers and Meat Cutters。**
+**Occupation code: 51-3021 (SOC)**
 
-Cut, trim, or prepare consumer-sized portions of meat for use or sale in retail establishments, ensuring quality and food safety.
+Cut, trim, or prepare meat to consumer specifications in retail settings, ensuring product quality and food safety.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 4年 | —（公立高中免费） |
-| 在职培训或学徒 | 1-2年 | —（通常由雇主提供带薪培训） |
+| High school diploma or equivalent | 4 years | $0~$0 (Public high schools are free) |
+| On-the-job training or apprenticeship | 1-2 years | $0~$5,000 (Usually employer-provided paid training) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 食品安全认证 | 国家饭店协会等 | 可选 | 如ServSafe，非强制性但常见 |
-| 肉类切割证书 | 社区学院或行业协会 | 可选 | 非强制性，有助于提升技能 |
+| Food safety certification | National Restaurant Association, etc. | Optional | E.g., ServSafe, not mandatory but common |
+| Meat cutting certificate | Community colleges or industry associations | Optional | Not mandatory, but helps improve skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 123,000。美国肉类加工行业就业较稳定，但受自动化影响，就业增速预计为-2%至0%。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 123,000. US meat processing industry employment is relatively stable but affected by automation, with employment growth projected at -2% to 0%.
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: low (★☆☆☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $25,000~$32,000 | 时薪约12-15美元 |
-| 中级（3-6年） | $32,000~$40,000 | 时薪约15-19美元 |
-| 高级（6年以上） | $40,000~$50,000 | 时薪约19-24美元 |
+| Median salary | $40,140 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $25,000~$32,000 | Hourly wage about 12-15 USD |
+| Mid-level (3–6 years) | $32,000~$40,000 | Hourly wage approximately $15-19 |
+| Senior (6+ years) | $40,000~$50,000 | Hourly wage approx. $19-24 |
+| average salary | $42,380 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 从初级切肉工可晋升为资深切肉工、部门主管或超市肉类经理，部分可进入肉类批发或检验领域。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
+
+From entry-level meat cutter to senior meat cutter, department supervisor, or supermarket meat manager; some may move into meat wholesale or inspection.
+
+**Tasks most exposed to AI:**
+
+- Batch cutting and segmentation of standard parts
+- Repetitive motions in deboning and skinning processes
+- Basic processing like meat grinding and sausage stuffing
+- Weighing, labeling, and packaging line operations
+
+**Where AI augments the role:**
+
+- Using AI vision systems for meat grading and defect detection
+- Optimizing cutting plans through data analysis to reduce waste
+- Manage meat preservation and turnover using smart inventory systems
+- Using augmented reality (AR) to assist training new employees in cutting techniques
+
+**Human moat:**
+
+- Hand-finishing special parts and custom cutting according to client requirements
+- Sensory judgment of meat freshness, texture, and abnormalities
+- Flexibility in handling unexpected orders and personalized needs.
+- Provide cooking advice and demonstrate cutting techniques to customers
+
+**Skills to build:**
+
+- Operation and maintenance of automated cutting equipment
+- Food quality and safety management systems (e.g., HACCP)
+- Basic data analysis and inventory management software
+- Customer service and communication skills
+- Fine hand cutting (for high-end customisation)
+- Food safety regulations and traceability knowledge
+
+**Key growth areas:**
 
 - Moderate demand
 - Food processing
@@ -63,65 +96,67 @@ Cut, trim, or prepare consumer-sized portions of meat for use or sale in retail 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2B（H-2B Temporary Non-Agricultural Worker） | 用于非农业临时工，但屠宰工通常为零售业，雇主需证明劳动力短缺，名额有限且年度配额紧张。 |
-| Subclass EB-3（EB-3 Skilled Worker / Unskilled Worker） | 技术或非技术移民，但该职业通常被视为低技能，需PERM劳工认证，排期较长，路径不常见。 |
+| Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | For non-agricultural temporary workers, but slaughterers are usually in retail; employers must prove labor shortage, with limited quotas and tight annual caps. |
+| Subclass EB-3 (EB-3 Skilled Worker / Unskilled Worker) | Skilled or non-skilled migration, but this occupation is often considered low-skilled; requires PERM labor certification, long queue, path is uncommon. |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Butchers and Meat Cutters？**
-- 喜欢动手操作、注重细节的人
-- 适应冷库环境和站立工作的人
-- 愿意接受重复性工作且无需高学历者
+**Who is suited**
+- People who enjoy hands-on work and attention to detail
+- Those who can adapt to cold storage environments and standing work
+- Willing to accept repetitive work, no higher education required
 
-**谁不适合学Butchers and Meat Cutters？**
-- 对低温环境敏感或体力有限者
-- 寻求快速职业晋升或高薪工作的人
+**Who is not suited**
+- Those sensitive to cold environments or with limited physical stamina
+- People seeking rapid career advancement or high-paying jobs
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the annual salary for US slaughterers?**
+A: Depending on experience and region, annual salary is typically between 25,000 and 50,000 USD, with a median of about 33,000 USD.
+
+**Q: Can a slaughterer immigrate to the US through a work visa?**
+A: Very difficult. This occupation is typically low-skilled; H-2B visa has limited numbers and is seasonal; EB-3 has long wait times and requires labor certification; few employers provide sponsorship.
+
+**Q: Is there room for advancement?**
+A: Can advance to senior butcher, meat department supervisor, or store manager, or move into meat wholesale, inspection, or training roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | low (★☆☆☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-Butchers and Meat Cutters属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the annual salary for butchers in the US?**
-答：Annual salary ranges from $25,000 to $50,000 depending on experience and location, with a median around $33,000.
-
-**问：Can butchers immigrate to the US via work visa?**
-答：Very difficult. This is a low-skilled occupation; H-2B is capped and seasonal, EB-3 has long backlogs, and employer sponsorship is rare.
-
-**问：Is there room for advancement?**
-答：Yes, you can advance to senior butcher, meat department manager, or store manager, or move into wholesale, inspection, or training roles.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

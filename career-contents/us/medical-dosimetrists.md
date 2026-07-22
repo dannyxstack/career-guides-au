@@ -1,60 +1,96 @@
-# Medical Dosimetrists（Medical Dosimetrists）职业分析 · 美国
+# Medical Dosimetrists — career analysis · United States
 
-**职业代码：29-2036 – Medical Dosimetrists。**
+**Occupation code: 29-2036 (SOC)**
 
-Medical dosimetrists generate radiation treatment plans, develop dose calculations, communicate and supervise treatment plan implementation, and consult with radiation oncology teams.
+Medical dosimetrists generate radiation treatment plans, calculate radiation doses, and communicate with the radiation oncology team to supervise treatment implementation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000~$150,000（公立大学较低，私立较高） |
-| 医学剂量学硕士 | 2年 | $30,000~$80,000（CAMPEP认证项目） |
-| 临床实习 | 1年 | —（部分项目包含） |
+| Bachelor's degree | 4 years | $40,000~$150,000 (Lower at public universities, higher at private ones) |
+| Medical Dosimetry Master's | 2 years | $30,000~$80,000 (CAMPEP-accredited program) |
+| Clinical internship | 1 year | $0~$0 (Included in some projects) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★½☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 医学剂量学认证 | MDCB (Medical Dosimetrist Certification Board) | 必备 | 通过考试获得，需再认证 |
-| 学士学位 | 认可大学 | 必备 | 通常在物理、辐射科学或相关领域 |
-| CPR认证 | 美国心脏协会等 | 可选 | 部分雇主要求 |
+| Certification in Medical Dosimetry | MDCB (Medical Dosimetrist Certification Board) | Required | Obtained through exams, requires re-certification |
+| Bachelor's degree | Recognised university | Required | Typically in physics, radiation science, or related fields |
+| CPR certification | American Heart Association, etc. | Optional | Some employers require |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。随着癌症发病率的上升和放疗技术的进步，医学剂量师的需求持续增长。美国劳工统计局预计该领域就业增长约为7%（2022-2032年），快于平均水平。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. With rising cancer incidence and advances in radiotherapy technology, demand for medical dosimetrists continues to grow. The U.S. Bureau of Labor Statistics projects employment growth of about 7% (2022–2032), faster than average.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $80,000~$100,000 | 取决于地区和机构 |
-| 中级（3-7年） | $100,000~$130,000 | 经验丰富后提升 |
-| 高级（7年以上） | $130,000~$160,000 | 首席剂量师或管理岗更高 |
+| Median salary | $147,470 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $80,000~$100,000 | Depends on region and institution |
+| Mid-level (3–7 years) | $100,000~$130,000 | Improvement after gaining experience |
+| Senior (7+ years) | $130,000~$160,000 | Higher for chief dosimetrist or management roles |
+| average salary | $148,500 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★½☆）。** 初级剂量师可通过积累临床经验晋升为高级剂量师，进而担任首席剂量师或管理岗位。部分剂量师转向医学物理师或放射治疗师角色，需额外教育或认证。
-**AI替代风险：较低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
+
+Junior dosimetrists can advance to senior dosimetrist through clinical experience, then to chief dosimetrist or management roles. Some transition to medical physicist or radiation therapist roles, requiring additional education or certification.
+
+**Tasks most exposed to AI:**
+
+- Automatically perform positioning and scan parameter settings for routine X-ray, CT, and MRI scans
+- Automatically generate standard positioning guidance and correct minor deviations
+- Automatically completing image quality assessment and repeat scan determination
+- Auto-archive, tag, and transmit medical images to PACS system
+- Automatically performs patient registration, position confirmation, and voice command verification
+
+**Where AI augments the role:**
+
+- AI-assisted analysis of abnormal image areas to improve technicians' sensitivity to lesions
+- AI optimizes scan sequences and dose parameters to improve image quality and patient safety
+- AI provides real-time step prompts and potential risk alerts, reducing human error.
+- AI generates draft reports; technicians only need to review and modify, improving efficiency
+- AI-driven virtual patient simulation training accelerates skill acquisition and assessment
+
+**Human moat:**
+
+- Non-standard scanning decisions and adjustments under complex anatomical variations or pathological conditions
+- Individualized operations and emotional support for critically ill or injured patients (e.g., trauma, children)
+- Manual emergency operations and clinical judgment during equipment failure
+- Cross-department communication, radiation safety compliance, and patient education with human touch
+- Has legal and ethical responsibility for final image quality and diagnostic basis.
+
+**Skills to build:**
+
+- Certification in operating multimodal imaging equipment (CT, MRI, PET-CT)
+- Use of AI-based image analysis tools (e.g., CAD, deep learning post-processing)
+- Radiation dose optimisation and quality management
+- Patient communication and emergency handling (including trauma, pediatrics, geriatric care)
+- Advanced imaging informatics and PACS system features (AI integration, remote collaboration)
+- Continuing education certification (e.g., CAMRT-related AI and new technology courses)
+
+**Key growth areas:**
 
 - Cancer Incidence
 - Radiation Technology
@@ -63,69 +99,68 @@ Medical dosimetrists generate radiation treatment plans, develop dose calculatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupation） | 常见工作签证，需学士以上学位；配额有限，抽签制 |
-| Subclass EB-2（Employment-Based Second Preference (EB-2)） | 需高等学位或杰出能力；PERM劳工认证后申请 |
-| Subclass EB-3（Employment-Based Third Preference (EB-3)） | 适用于技能工人或专业工人；需PERM |
-| Subclass Green Card (PERM)（Permanent Labor Certification (PERM)） | EB-2/EB-3绿卡的前置步骤，证明无合格美国工人 |
+| Subclass H-1B (H-1B Specialty Occupation) | Common work visa; requires bachelor's degree or higher; limited quota with lottery system |
+| Subclass EB-2 (Employment-Based Second Preference (EB-2)) | requires advanced degree or exceptional ability; apply after PERM labour certification |
+| Subclass EB-3 (Employment-Based Third Preference (EB-3)) | For skilled or professional workers; requires PERM |
+| Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Preliminary step for EB-2/EB-3 green cards, proving no qualified US workers available |
 
-**PR难度：较高（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Dosimetrists？**
-- 细心且有数学和物理基础的人
-- 希望在医疗领域从事技术工作的人
-- 具备良好沟通和团队协作能力的人
-
-**谁不适合学Medical Dosimetrists？**
-- 不喜欢精细计算和重复性工作的人
-- 无法承受癌症患者治疗压力的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented individuals with math and physics background
+- People who want to work in the medical field with technical skills
+- People with good communication and teamwork skills
+
+**Who is not suited**
+- People who dislike detailed calculations and repetitive work
+- Those who cannot handle the stress of treating cancer patients
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level of a medical dosimetrist?**
+A: According to the U.S. Bureau of Labor Statistics (BLS), the average annual salary for medical dosimetrists in 2023 was approximately $120,000. Entry-level starts around $80,000, while senior roles can exceed $160,000.
+
+**Q: What are common pathways for medical dosimetrists to immigrate to the US?**
+A: Common paths include H-1B work visa (requires bachelor's degree or higher) and EB-2/EB-3 employment-based green cards. Usually requires employer sponsorship through PERM labor certification.
+
+**Q: What educational background is needed to become a medical dosimetrist?**
+A: Usually requires a bachelor's degree (physics or related field), then complete a CAMPEP-accredited master's program or certificate in medical dosimetry, and pass the MDCB certification exam.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★½☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 较高（★★★☆☆） |
-
-Medical Dosimetrists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for medical dosimetrists?**
-答：According to BLS, the average annual salary for medical dosimetrists in 2023 was around $120,000. Entry-level salaries start at $80,000, while experienced dosimetrists can earn over $160,000.
-
-**问：What are common immigration pathways for medical dosimetrists to the US?**
-答：Common pathways include H-1B visa (requires bachelor's degree or higher) and EB-2/EB-3 green cards. Usually requires employer sponsorship through PERM labor certification.
-
-**问：What education is required to become a medical dosimetrist?**
-答：Typically requires a bachelor's degree in physics or related field, followed by a CAMPEP-accredited medical dosimetry master's or certificate program, and passing the MDCB certification exam.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

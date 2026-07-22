@@ -1,60 +1,96 @@
-# Supervisor - Metalworking（Supervisor - Metalworking）职业分析 · DE
+# Supervisor - Metalworking — career analysis · Germany
 
-**职业代码：2429 – Supervisor - Metalworking。**
+**Occupation code: 2429 (KldB)**
 
-Oversees metalworking production processes, coordinates teams, and ensures quality and safety standards. Typically promoted from skilled technical roles.
+Responsible for overseeing the production process in a metal processing workshop, coordinating the team, and ensuring quality and safety standards. Usually promoted from experienced technical workers.
 
-> 注：本职业为**非技术移民职业**，不在DE技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 完成双元制职业培训 | 3年（双元制） | —（免学费，企业提供津贴） |
-| 进修（如IHK工长） | 1-2年（部分时间制） | $3,000~$8,000（考试费及课程费） |
+| Complete dual vocational training | 3 years (dual system) | $0~$500 (Free tuition, with company-provided allowances) |
+| Advanced Training (e.g. IHK Meister) | 1-2 years (part-time) | $3,000~$8,000 (Exam and course fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| IHK工长证书 或 专科技术员 | 德国工商会（IHK）或 技术学校 | 必备 | 通常要求完成相关双元制培训并有数年工作经验 |
-| 职业安全资格（如SiFa/安全专员） | 德国法定事故保险机构（DGUV）或培训机构 | 可选 | 部分企业要求，尤其涉及重工业 |
+| IHK Master Craftsman Certificate or specialist technician | German Chamber of Commerce (IHK) or technical schools | Required | Usually requires completion of relevant dual vocational training and several years of work experience |
+| Occupational safety qualifications (e.g., SiFa/safety officer) | German statutory accident insurance institution (DGUV) or training provider. | Optional | Some companies require it, especially in heavy industry |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 74,000。德国制造业对金属加工主管需求稳定，尤其是汽车和机械工程领域。数字化带来效率提升，但专业人才仍紧缺。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 74,000. German manufacturing has stable demand for metalworking supervisors, especially in automotive and mechanical engineering fields. Digitalisation brings efficiency gains, but skilled professionals remain scarce.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪 |
+| Median salary | $43,728 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $30,000~$38,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual pre-tax salary |
+| Senior (7+ years) | $48,000~$60,000 | Annual pre-tax salary |
+| average salary | $45,516 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 常见晋升路径：金属加工技工 → 工长/主管 → 生产经理。通过进修（如IHK技术员）可转向更高职位。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Metal fabrication supervisors have mixed feelings about AI: tasks like production scheduling and quality inspection are automated, but core responsibilities such as team coordination, safety management, and complex fault handling are enhanced by AI tools.
+
+Common career progression: metal processing technician → foreman/supervisor → production manager. Further training (e.g., IHK technician) can lead to higher positions.
+
+**Tasks most exposed to AI:**
+
+- Production scheduling and progress tracking (AI-optimised algorithm automatically generated)
+- Quality inspection and defect identification (machine vision automated inspection)
+- Equipment condition monitoring and early warning (IoT + AI predictive maintenance)
+- Standard operating document generation (AI auto-writes based on historical data)
+- Attendance and performance data statistics (AI auto-collects and analyzes)
+
+**Where AI augments the role:**
+
+- Team skills training (AI simulator provides personalized training programs)
+- Complex fault diagnosis (AI-assisted root cause analysis and repair step recommendations)
+- Lean Production Improvement (AI simulates different scenarios to assist decision-making)
+- Safety risk assessment (AI real-time analysis of site data for hazard alerts)
+- Customer needs communication (assisted by AI translation and requirement extraction tools)
+
+**Human moat:**
+
+- Personnel coordination and crisis decision-making in emergency situations
+- Manual adjustment and process innovation for non-standard/unique workpieces
+- Cross-trade communication and team morale maintenance
+- Establishment of safety culture and on-site supervision
+- Experience-based quality judgment and customer relationship maintenance
+
+**Skills to build:**
+
+- AI Production Scheduling and IoT Monitoring Platform Operation
+- Data analysis (Python/Pandas for yield and quality analysis).
+- Automated equipment debugging and simple programming (PLC basics)
+- Digital Twin Software Basics (e.g., Simul8 or AnyLogic)
+- Lean Six Sigma Green Belt Certification
+- Reading English technical documentation (for imported equipment manuals)
+
+**Key growth areas:**
 
 - Manufacturing
 - Industry 4.0
@@ -63,66 +99,68 @@ Oversees metalworking production processes, coordinates teams, and ensures quali
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 适用于大学学历或同等资格，年薪门槛2025年约45,300欧元（普通）或41,041欧元（紧缺）。但该职业通常不要求学历，需通过资质认定。 |
-| Subclass Skilled Worker（Skilled Worker Visa (§18b AufenthG)） | 适用于拥有德国认可职业培训资格的外国人。需获得联邦就业局批准，企业证明无法招聘到本国人。 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制，允许来德找工一年。需通过资质认定或具备相关经验，适合有行业经验者。 |
+| Subclass EU Blue Card (EU Blue Card) | Applicable for university degree or equivalent; annual salary threshold approx. €45,300 (general) or €41,041 (shortage) in 2025. However, this occupation typically does not require a degree and relies on qualification recognition. |
+| Subclass Skilled Worker (Skilled Worker Visa (§18b AufenthG)) | Applicable to foreigners with recognized German vocational training qualifications. Requires approval from the Federal Employment Agency, with the company proving inability to hire local workers. |
+| Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year to find work in Germany. Requires qualification recognition or relevant experience, suitable for those with industry experience. |
+
+**PR friendliness: medium-low (★★☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Supervisor - Metalworking？**
-- 有制造业金属加工经验的技术工人
-- 希望从实操转向管理的一线技工
-- 希望通过进修获得晋升机会者
+**Who is suited**
+- Skilled workers with experience in manufacturing metal processing
+- Skilled workers looking to transition from hands-on work to management
+- Those seeking promotion through further study
 
-**谁不适合学Supervisor - Metalworking？**
-- 缺乏手工操作经验或不愿从事现场工作者
-- 不熟悉德语环境（需与工人及管理层德语沟通）
+**Who is not suited**
+- Lack hands-on experience or unwilling to work on-site
+- Unfamiliarity with German-language environment (must communicate in German with workers and management)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary of a metalworking supervisor in Germany?**
+A: Entry-level annual salary approx. 30,000-38,000 euros, mid-level 38,000-48,000 euros, senior up to 48,000-60,000 euros. Salary varies by region, company size, and industry.
+
+**Q: How can foreigners immigrate to Germany as a metal processing supervisor?**
+A: Requires a German-recognized vocational training qualification (e.g., dual system certificate) or qualification assessment. Can apply for a skilled migration visa (§18b) or Opportunity Card. EU Blue Card usually requires a university degree, which is harder for this occupation.
+
+**Q: What are the career development opportunities for metalworking supervisors?**
+A: Can advance to production manager or workshop director, or through further study become a technician or IHK master craftsman. Future career paths include quality management or industrial management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 一般（★★☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Supervisor - Metalworking属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary of a metalworking supervisor in Germany?**
-答：Entry-level annual salary ranges from €30,000 to €38,000, mid-level €38,000 to €48,000, and senior up to €48,000 to €60,000, depending on region, company size, and industry.
-
-**问：How can a foreigner immigrate to Germany as a metalworking supervisor?**
-答：Requires a recognized German vocational qualification (e.g., dual training certificate) or equivalency assessment. Apply for Skilled Worker Visa (§18b) or Opportunity Card. EU Blue Card is less suitable due to degree requirement.
-
-**问：What are the career prospects for a metalworking supervisor?**
-答：Can advance to production manager or workshop manager, or via further training become a technician or IHK master craftsman. Future moves possible into quality management or industrial management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

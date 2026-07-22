@@ -1,60 +1,96 @@
-# Electrical and Electronics Installers and Repairers, Transportation Equipment（Electrical and Electronics Installers and Repairers, Transportation Equipment）职业分析 · 美国
+# Electrical and Electronics Installers and Repairers, Transportation Equipment — career analysis · United States
 
-**职业代码：49-2093 – Electrical and Electronics Installers and Repairers, Transportation Equipment。**
+**Occupation code: 49-2093 (SOC)**
 
-Install, adjust, or maintain mobile electronics communication equipment, including sound, sonar, security, navigation, and surveillance systems on trains, watercraft, or other mobile equipment.
+Install, adjust, and maintain electronic communication equipment on moving vehicles like trains, ships, including sonar, navigation, surveillance systems.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭或同等学历 | 0年 | —（通常为最低要求） |
-| 大专/技术学校证书（电气/电子技术） | 2年 | $5,000~$20,000（社区学院或技术学校学费） |
-| 学徒培训（在职+课堂） | 4年 | —（通常由雇主资助） |
+| High school diploma or equivalent | 0 years | $0~$0 (Usually the minimum requirement) |
+| Diploma/technical school certificate (Electrical/Electronic Technology) | 2 years | $5,000~$20,000 (Community college or technical school tuition) |
+| apprenticeship training (on-the-job + classroom) | 4 years | $0~$5,000 (Usually employer-sponsored) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 电气/电子技术大专文凭 | 社区学院或技术学校 | 可选 | 通常要求相关领域学历 |
-| FCC通用无线电话运营商执照（GROL） | 美国联邦通信委员会（FCC） | 可选 | 对涉及无线电通信的岗位可能强制要求 |
-| 设备制造商认证 | 制造商（如Raymarine, Furuno等） | 可选 | 证明掌握特定设备维修技能 |
+| Diploma in electrical/electronic technology | Community college or technical school | Optional | Typically requires a degree in a related field |
+| FCC General Radiotelephone Operator License (GROL) | Federal Communications Commission (FCC) | Optional | May be mandatory for positions involving radio communications |
+| Equipment manufacturer certification | Manufacturers (e.g., Raymarine, Furuno, etc.) | Optional | Demonstrate specific equipment maintenance skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 12,900。该职业预计未来十年增长约6%，与整体就业增长持平。随着运输设备电子系统日益复杂，对专业维修人员的需求稳定。但自动化技术的发展可能限制就业增长。
+**Job demand: medium (★★½☆☆).** National workforce approx. 12,900. This occupation is projected to grow about 6% over the next decade, on par with overall employment growth. Demand for specialized repair technicians remains stable as transport equipment electronic systems become more complex. However, automation developments may limit employment growth.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $37,000~$45,000 | 起薪较低，通常需要培训 |
-| 中级（4-7年） | $50,000~$65,000 | 经验丰富的技术员收入中位数 |
-| 高级（8年以上） | $70,000~$90,000 | 高级技师或主管薪资上限 |
+| Median salary | $84,890 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $37,000~$45,000 | Starting salary is low, training typically required |
+| Mid-level (4-7 years) | $50,000~$65,000 | Median income for experienced technicians |
+| Senior (8+ years) | $70,000~$90,000 | Salary cap for senior technician or supervisor |
+| average salary | $83,300 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从学徒或初级技术员起步，积累经验后可晋升为高级技师或主管。部分人员可转入铁路或船舶公司担任技术管理岗位，或创办自己的维修公司。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
+
+Usually start as an apprentice or junior technician, gain experience, and advance to senior technician or supervisor. Some may move to railway or shipping companies for technical management roles or start their own repair business.
+
+**Tasks most exposed to AI:**
+
+- Automatic comparison and recording of routine maintenance checklists (e.g., post-flight checks)
+- AI image recognition initial screening for structural fatigue cracks
+- Automated diagnostic report generation from engine vibration data
+- Maintenance Schedule Optimization (Leveraging Fleet Usage Data)
+- Predictive replenishment and automatic ordering of parts inventory
+
+**Where AI augments the role:**
+
+- Use AR glasses to overlay repair diagrams and real-time data to improve troubleshooting efficiency
+- AI assists in analyzing historical repair case databases to quickly locate rare faults
+- Digital twin simulates maintenance processes to optimize disassembly and assembly steps
+- Use natural language processing to automatically generate maintenance logs and compliance documents
+- Remote expert system collaboration for complex modifications/repairs
+
+**Human moat:**
+
+- Manual craftsmanship and experiential intuition in high-risk repair operations (e.g., engine disassembly, line repair)
+- Creative troubleshooting for unexpected failures (involving cross-system logical reasoning)
+- Legal responsibility and signing authority for airworthiness release (individual license holder bears liability)
+- Communication with and compliance assessment of the regulator (CASA)
+- On-site resource coordination and decision-making during emergency repairs
+
+**Skills to build:**
+
+- Digital twin platform operation and virtual maintenance drills
+- Output verification and bias correction of AI diagnostic tools
+- Aviation data analysis basics (Python/R, focusing on engine margin trends)
+- Using augmented reality (AR) maintenance assistance systems
+- Digital auditing of airworthiness safety management systems (SMS)
+- Remote repair support tools for cross-border collaboration (e.g., Teamcenter)
+
+**Key growth areas:**
 
 - Marine electronics
 - Railway signaling
@@ -63,68 +99,67 @@ Install, adjust, or maintain mobile electronics communication equipment, includi
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 技术岗位通常需学士学位，但大专+经验可能符合，需雇主担保 |
-| Subclass EB-3（Employment-Based Third Preference (Skilled Workers)） | 此职业可能申请EB-3绿卡，需PERM劳工证 |
-| Subclass TN（TN NAFTA Professional） | 加拿大/墨西哥公民可申请TN签证，需符合工程师或技术员类别 |
+| Subclass H-1B (H-1B Specialty Occupations) | Technical positions typically require a bachelor's degree, but a diploma plus experience may suffice; employer sponsorship is needed. |
+| Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | This occupation may apply for an EB-3 green card, requiring a PERM labor certification |
+| Subclass TN (TN NAFTA Professional) | Canadian/Mexican citizens can apply for a TN visa, must qualify as an engineer or technician |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Electrical and Electronics Installers and Repairers, Transportation Equipment？**
-- 喜欢动手操作电子设备的人
-- 能够适应在车间或户外移动环境工作的人
-- 注重细节且具备故障排除能力的人
-
-**谁不适合学Electrical and Electronics Installers and Repairers, Transportation Equipment？**
-- 不喜欢体力劳动或现场维修的人
-- 对频繁出差或不规律工作时间不适应的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work with electronic devices
+- People who can adapt to working in workshops or outdoor mobile environments
+- Detail-oriented with troubleshooting skills
+
+**Who is not suited**
+- Those who dislike physical labor or on-site maintenance
+- People who do not adapt well to frequent travel or irregular working hours
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for this occupation in the United States?**
+A: According to BLS data, the median annual wage for this occupation in 2023 was about $61,000. Entry-level positions are around $37,000-$45,000, and senior technicians can reach $70,000-$90,000.
+
+**Q: Can foreigners work in this occupation with a work visa?**
+A: Yes, but requires employer sponsorship. Typically apply for H-1B (requires associate degree or higher) or EB-3 green card (requires PERM labor certification). Canadian or Mexican citizens can use TN visa.
+
+**Q: What is the future career outlook for this occupation?**
+A: Projected employment growth of about 6%, on par with the average. Trends toward electronic transportation equipment (e.g., GPS, driver-assist systems) create demand, but automated maintenance may restrain growth.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Electrical and Electronics Installers and Repairers, Transportation Equipment的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for this occupation in the US?**
-答：According to BLS, the median annual wage for this occupation was about $61,000 in 2023. Entry-level positions range from $37,000 to $45,000, while senior technicians can earn $70,000 to $90,000.
-
-**问：Can foreigners work in this occupation via work visa?**
-答：Yes, with employer sponsorship. H-1B (requires at least an associate degree) or EB-3 green card (PERM labor certification) are common. Canadian or Mexican citizens may use TN status.
-
-**问：What is the future outlook for this occupation?**
-答：Employment is projected to grow about 6% over the next decade, as fast as average. Increasing electronics in transportation (e.g., GPS, ADAS) drives demand, but automation may limit growth.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

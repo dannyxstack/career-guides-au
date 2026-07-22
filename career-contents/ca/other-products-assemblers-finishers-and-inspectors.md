@@ -1,58 +1,90 @@
-# Other products assemblers, finishers and inspectors（Other products assemblers, finishers and inspectors）职业分析 · 加拿大
+# Other products assemblers, finishers and inspectors — career analysis · Canada
 
-**职业代码：94219 – Other products assemblers, finishers and inspectors。**
+**Occupation code: 94219 (NOC)**
 
-Responsible for assembling, finishing, and inspecting various products in manufacturing settings, ensuring they meet specifications. Work involves materials like metal, plastic, and wood.
+Responsible for product assembly, trimming, grinding, and inspection in manufacturing to ensure compliance with specifications. Work covers various materials including metal, plastic, wood, etc.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (CAD) |
 |---|---|---:|
-| 高中 | 2年 | —（高中毕业或同等学历） |
-| 职业培训证书 | 1年 | $3,000~$10,000（社区学院或职业学校的证书课程） |
+| High school | 2 years | $0~$5,000 (High school graduation or equivalent) |
+| Vocational training certificate | 1 year | $3,000~$10,000 (Certificate programs at community colleges or vocational schools) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中毕业 | 省级教育部 | 必备 | 大多数雇主最低要求 |
-| 在职培训 | 雇主 | 可选 | 通常提供在职培训，时长数月至一年 |
+| High school graduation | Provincial Department of Education | Required | Minimum requirement for most employers |
+| On-the-job training | Employer | Optional | Usually offers on-the-job training lasting several months to a year. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 38,000。预计未来十年需求稳定，制造业回流趋势可能增加岗位。但自动化替代风险较高，就业竞争中等。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 38,000. Demand is expected to remain stable over the next decade, with reshoring trends potentially increasing jobs. However, automation replacement risk is high, and employment competition is moderate.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（CAD） | 备注 |
+| Experience | Annual salary (CAD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 入门级，取决于行业和地区 |
-| 中级（3-7年） | $38,000~$48,000 | 有经验后薪资上升 |
-| 高级（7年以上） | $48,000~$60,000 | 包括组长、检验员等职位 |
+| Median salary | $45,822 | National full-time annual salary median (Source: Canada Job Bank, 2021 Census) |
+| Entry level (0–3 years) | $30,000~$38,000 | Entry-level, depends on industry and region |
+| Mid-level (3–7 years) | $38,000~$48,000 | Salary increases with experience |
+| Senior (7+ years) | $48,000~$60,000 | Includes team leader, inspector, etc. |
+| average salary | $49,920 | National full-time annual salary mean (Source: Canada Job Bank, 2021 Census) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 通常从装配工起步，积累经验后可晋升为检验员、组长或生产主管。部分工人可通过培训转向自动化设备操作或质量控制岗位。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: high (★★★★☆).**
 
-主要增长方向：
+This occupation involves repetitive tasks of operating shoemaking machines (cutting, stitching) that are easily automated. Demand for entry-level positions will decline significantly, but machine maintenance and process optimization still require human oversight.
+
+Usually start as assemblers, and can be promoted to inspector, team leader or production supervisor after accumulating experience. Some workers can transition to automated equipment operation or quality control positions through training.
+
+**Tasks most exposed to AI:**
+
+- Automatic cutting machine replaces manual cutting of shoe upper materials based on templates
+- AI vision system automatically detects stitching quality and adjusts parameters
+- Robots complete automatic bonding and pressing of soles and uppers
+- Automated feeding and sorting systems replace manual handling of semi-finished products
+
+**Where AI augments the role:**
+
+- AI-assisted production scheduling system optimizes changeovers for high-variety, small-batch production
+- Digital twin simulates shoemaking process, predicts machine failures and maintenance cycles
+- AI-driven quality traceability system accurately identifies defect sources, reducing rework
+
+**Human moat:**
+
+- Equipment fault diagnosis and emergency repair skills
+- Collaborate with designers to develop new product process flows.
+- On-site safety supervision and abnormal situation decision-making
+- Training new employees to operate automated equipment
+
+**Skills to build:**
+
+- PLC programming and industrial robot operation
+- Sensor and IoT device maintenance
+- Data analysis and production report interpretation
+- Automated system troubleshooting
+- Continuous improvement and lean manufacturing methods
+- Fundamentals of Cross-Departmental Communication and Project Management
+
+**Key growth areas:**
 
 - Manufacturing
 - Assembly
@@ -61,68 +93,67 @@ Responsible for assembling, finishing, and inspecting various products in manufa
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Express Entry（Express Entry (FSW/CEC)） | 若具备足够工作经验且符合条件，可通过联邦快速通道申请移民。通常需要CLB 7及以上语言成绩。 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份有制造业相关提名项目，如安省、BC省、阿尔伯塔省等。 |
-| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请LMIA支持工签，之后可积累经验申请移民。 |
+| Subclass Express Entry (Express Entry (FSW/CEC)) | If you have sufficient work experience and meet requirements, you can apply for immigration through Express Entry. Typically requires CLB 7 or above language score. |
+| Subclass PNP (Provincial Nominee Program) | Some provinces have manufacturing-related nomination programs, such as Ontario, BC, and Alberta. |
+| Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work permit, then gain experience for immigration. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Other products assemblers, finishers and inspectors？**
-- 注重细节、动手能力强的人
-- 喜欢稳定性、愿意接受重复性工作的人
-- 希望在制造业入门的人
-
-**谁不适合学Other products assemblers, finishers and inspectors？**
-- 追求高收入和快速晋升的人
-- 不喜欢重复性体力劳动的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, hands-on person
+- People who like stability and are willing to accept repetitive work.
+- People looking to enter the manufacturing industry
+
+**Who is not suited**
+- Those seeking high income and rapid promotion
+- People who dislike repetitive physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for this occupation?**
+A: Entry-level annual salary approximately CAD 30,000-38,000, senior up to CAD 48,000-60,000, depending on experience, industry, and region.
+
+**Q: Is it easy to immigrate to Canada with this occupation?**
+A: Possible but not a priority occupation. Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP); some provinces have high manufacturing demand.
+
+**Q: Is this occupation in high demand in Canada?**
+A: Job opportunities are relatively stable, but competition is moderate. Manufacturing hubs like Ontario and Quebec offer more opportunities, but automation risks need attention.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Job Bank | NOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Other products assemblers, finishers and inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for this occupation?**
-答：Entry-level annual salary ranges from CAD 30,000 to 38,000, and experienced workers can earn up to CAD 60,000, depending on experience, industry, and location.
-
-**问：Is it easy to immigrate to Canada with this occupation?**
-答：Possible but not prioritized. You can apply via Express Entry (FSW/CEC) or PNP, with some provinces needing manufacturing workers.
-
-**问：Is it easy to find a job in this occupation in Canada?**
-答：Job prospects are stable but moderately competitive. Opportunities are better in manufacturing hubs like Ontario and Quebec, but automation is a risk.
+- Statistics Canada, Job Bank, NOC 2021
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

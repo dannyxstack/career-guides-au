@@ -1,59 +1,93 @@
-# Teacher of English to Speakers of Other Languages（Teacher of English to Speakers of Other Languages）职业分析 · 澳大利亚
+# Teacher of English to Speakers of Other Languages — career analysis · Australia
 
-**职业代码：249311 – Teacher of English to Speakers of Other Languages。**
+**Occupation code: 249311 (ANZSCO)**
 
-Teachers of English to Speakers of Other Languages provide English language instruction to non-native speakers, covering listening, speaking, reading, writing, and cultural adaptation, typically in language schools, universities, or community colleges.
+Teachers of English to Speakers of Other Languages provide English language instruction, covering listening, speaking, reading, writing skills, and cultural adaptation. They typically work in language schools, universities, community colleges, or private educational institutions.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学士学位 | 3-4年 | $30,000~$50,000（学费因大学而异，国际学生更高） |
-| TESOL证书/文凭 | — | $2,000~$8,000（如CELTA或CertTESOL，通常4-12周） |
+| Bachelor's degree | 3-4 years | $30,000~$50,000 (Tuition fees vary by university; higher for international students) |
+| TESOL certificate/diploma | — | $2,000~$8,000 (Such as CELTA or CertTESOL, usually 4-12 weeks) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| TESOL证书（如CELTA） | 剑桥大学英语考评部等 | 可选 | 许多雇主看重此证书，非强制但强烈推荐 |
-| 学士学位 | 澳洲大学 | 必备 | 通常需要本科学位，专业不限 |
-| 教师注册（部分州要求） | 州教师注册机构 | 可选 | 如在学校系统工作则需注册 |
+| Bachelor's degree | Australian universities | Required | Typically requires a bachelor's degree, any field. |
+| TESOL certificate (e.g., CELTA). | Cambridge Assessment English, etc. | Optional | Many employers value this certification; not mandatory but highly recommended |
+| Teacher registration (required in some states) | State Teacher Registration Body | Optional | Requires registration if working in the school system |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 12,000。随着澳大利亚多元文化社会的发展和国际学生数量增长，TESOL教师需求稳定。尤其在大城市和移民聚居区，成人移民英语项目(AMEP)和私立语言学校持续招聘。预计未来5年增长温和。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 12,000. With the development of Australia's multicultural society and growth in international student numbers, demand for TESOL teachers is stable. Especially in major cities and migrant communities, the Adult Migrant English Program (AMEP) and private language schools continue to recruit. Expected moderate growth over the next 5 years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 常见于私立语言学校或兼职 |
-| 中级（3-7年） | $70,000~$90,000 | 包括大学语言中心或TAFE教师 |
-| 高级（7年以上） | $90,000~$110,000 | 课程协调员或教学主管 |
+| Median salary | $123,032 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Commonly found in private language schools or part-time |
+| Mid-level (3–7 years) | $70,000~$90,000 | Including university language centers or TAFE teachers |
+| Senior (7+ years) | $90,000~$110,000 | Course Coordinator or Teaching Supervisor |
+| average salary | $106,600 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级TESOL教师可从助教或兼职教师起步，积累经验后晋升为高级教师、课程协调员或教学主管。部分教师转向考试培训（如IELTS）、教师培训师或教育管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
+
+Entry-level TESOL teachers can start as assistants or part-time teachers, gaining experience to advance to senior teacher, course coordinator, or teaching supervisor. Some transition to exam preparation (e.g., IELTS), teacher training, or education management.
+
+**Tasks most exposed to AI:**
+
+- Automated grading and feedback for basic grammar and vocabulary exercises
+- Generating standardized homework questions and test papers
+- AI-Driven Assessment and Correction of Spoken Pronunciation
+- Generate simulated exercises for common conversation scenarios
+
+**Where AI augments the role:**
+
+- Use AI to analyze students' language weaknesses and create personalized learning plans
+- Using AI translation tools to assist in explaining complex grammar concepts (especially for low-language-level students)
+- Generate diverse teaching materials using AI (e.g., cultural context dialogues, speech templates)
+- 24/7 language practice support via AI chatbots outside class hours
+
+**Human moat:**
+
+- Cross-cultural communication and emotional support to help students overcome language anxiety
+- Dynamic classroom management and real-time interaction, adjusting teaching pace based on student responses
+- Explain cultural metaphors, humor, and implied meanings in language
+- Creating immersive language environments (e.g., role-plays, field activities)
+- Assess students' oral fluency, pragmatic skills, and other soft skills
+
+**Skills to build:**
+
+- Use of AI educational tools (e.g. adaptive learning platforms, AI teaching assistants)
+- Data-driven teaching methods (analyze learning data to optimize lesson plans)
+- Online Teaching and Blended Course Design
+- Advanced course in second language acquisition theory and cross-cultural communication
+- EdTech Project Management Skills
+- Critical thinking and emotional intelligence development
+
+**Key growth areas:**
 
 - Multicultural education
 - International student demand
@@ -62,69 +96,68 @@ Teachers of English to Speakers of Other Languages provide English language inst
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，适用于有雇主担保的TESOL教师，需在CSOL列表上 |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，482后转186 |
-| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，需获得州提名，要求职业在州担保清单上 |
-| Subclass 491（Skilled Work Regional Visa） | 偏远地区技术移民临时签证，转191永居 |
+| Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa for TESOL teachers with employer sponsorship, must be on the CSOL list |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, transitioning from 482 to 186 |
+| Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state nomination and occupation on state sponsorship list |
+| Subclass 491 (Skilled Work Regional Visa) | Regional Skilled Migration Provisional Visa, transitioning to 191 Permanent Residence |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Teacher of English to Speakers of Other Languages？**
-- 热爱语言教学和文化交流，有耐心和跨文化沟通能力
-- 英语语法和发音功底扎实，能适应多样化学生群体
-- 希望在教育行业获得稳定工作且适合较快移民的候选人
-
-**谁不适合学Teacher of English to Speakers of Other Languages？**
-- 对教学缺乏热情或难以适应成人学生多元需求
-- 希望高薪且快速晋升者（教育行业薪资增长较慢）
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about language teaching and cultural exchange, with patience and cross-cultural communication skills
+- Solid English grammar and pronunciation skills, adaptable to diverse student groups
+- Candidates seeking stable work in education sector with relatively fast immigration
+
+**Who is not suited**
+- Lack of enthusiasm for teaching or difficulty adapting to diverse adult student needs
+- Those seeking high pay and fast promotion (education industry has slower salary growth)
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of TESOL teachers in Australia?**
+A: Full-time average annual salary is about AUD $70,000-90,000, entry-level around $55,000-70,000, senior can reach $90,000-110,000, depending on employer and region.
+
+**Q: Can foreign English teachers immigrate to Australia through skilled migration?**
+A: Yes. This occupation is on the CSOL list and can apply for 189 Skilled Independent visa, 190 State Nominated visa, 491 Skilled Work Regional visa, or 482 Temporary Skill Shortage visa. A skills assessment (e.g., VETASSESS) is required.
+
+**Q: What certifications are needed to become a TESOL teacher?**
+A: Typically requires a bachelor's degree and a TESOL certificate (e.g., CELTA). Working in schools may require state teacher registration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | low (★½☆☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★½☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Teacher of English to Speakers of Other Languages的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a TESOL teacher in Australia?**
-答：Full-time average annual salary is around AUD 70,000-90,000, entry-level AUD 55,000-70,000, senior AUD 90,000-110,000, depending on employer and location.
-
-**问：Can TESOL teachers migrate to Australia through skilled migration?**
-答：Yes. This occupation is on the CSOL list, eligible for 189, 190, 491, or 482 visas. A skills assessment (e.g., VETASSESS) is required.
-
-**问：What certifications are needed to become a TESOL teacher?**
-答：A bachelor's degree and a TESOL certificate (e.g., CELTA) are typically required. State teacher registration may be needed for school settings.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,59 +1,92 @@
-# Bicycle Repairer（Bicycle Repairer）职业分析 · ES
+# Bicycle Repairer — career analysis · Spain
 
-**职业代码：7405 – Bicycle Repairer。**
+**Occupation code: 7405 (CNO)**
 
-Repairs, maintains, and adjusts bicycles, including replacing parts, truing wheels, and adjusting brakes and gears to ensure safe operation.
+Responsible for repairing, maintaining, and commissioning bicycles, including replacing parts, correcting wheels, adjusting brakes and shifting systems, ensuring safe vehicle operation.
 
-> 注：本职业为**非技术移民职业**，不在ES技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等教育及培训 | 无严格学历要求 | —（可通过学徒制或短期课程学习） |
-| 职业培训（FP） | 2年（FP Grado Medio） | $300~$2,000（部分学校提供自行车维修模块） |
+| Secondary education and training | No strict educational requirements | $0~$1,000 (You can study through apprenticeships or short-term courses) |
+| Vocational Training (FP) | 2 years (FP Grado Medio) | $300~$2,000 (Some schools offer bicycle repair modules) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：极低（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制证书 | - | 可选 | 行业不强制要求认证，但经验或培训证明有助于求职 |
+| No mandatory certificate | - | Optional | Certifications are not mandatory in the industry, but proof of experience or training can help with job hunting |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 12,000。西班牙自行车使用率持续上升，电动自行车普及带动维修需求增长。就业稳定，但受季节性影响，夏季需求较高。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 12,000. Bicycle usage in Spain continues to rise, and the widespread adoption of electric bicycles is driving increased maintenance demand. Employment is stable, but due to seasonal factors, demand is higher in summer.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $16,000~$20,000 | 税前年薪，学徒期较低 |
-| 中级（3-8年） | $20,000~$26,000 | 税前年薪 |
-| 高级（8年以上） | $26,000~$32,000 | 税前年薪，含门店主管或自雇收入 |
+| Median salary | $22,080 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $16,000~$20,000 | Pre-tax annual salary, relatively low apprenticeship |
+| Mid-level (3–8 years) | $20,000~$26,000 | Annual pre-tax salary |
+| Senior (8+ years) | $26,000~$32,000 | Pre-tax annual salary, including store supervisor or self-employment income |
+| average salary | $24,318 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 可从学徒或帮手起步，积累经验后晋升为高级技师或门店主管，也可自主创业开设维修店。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Bicycle mechanics face challenges from AI-assisted diagnostics and automated inventory management, but core repair work relies on manual skills and on-site judgment, making it difficult to fully replace and making it a mixed responsibility.
+
+You can start as an apprentice or helper, gain experience, and be promoted to senior technician or store manager, or start your own repair shop.
+
+**Tasks most exposed to AI:**
+
+- Using AI vision systems to automatically detect common issues such as tire wear and loose chains
+- Automatically order frequently used replacement parts through the AI inventory management system
+- Automated wheel calibration and spoke tension adjustment
+- AI generates repair reports and customer communication records
+
+**Where AI augments the role:**
+
+- AI-assisted diagnosis of complex faults improves troubleshooting efficiency
+- Augmented reality (AR) guidance provides real-time demonstrations of repair steps
+- AI optimizes repair processes and recommends the best operation sequence
+- Forecasting customer demand and preparing commonly used parts in advance
+
+**Human moat:**
+
+- Manual precision operations, such as welding the frame and adjusting the transmission
+- On-site detection of non-standard faults (rare modified vehicles)
+- Communicate directly with clients and offer personalized advice
+- Innovative Repair Solutions (Alternatives for Lack of Standard Parts)
+
+**Skills to build:**
+
+- Electric bicycle/electric assist system repair technology
+- AI diagnostic tools (such as Bicycle Doctor) are used
+- IoT module debugging and firmware upgrade
+- Fundamentals of Customer Relationship Management (CRM) software
+- Basic programming (for diagnostic scripts)
+- Sustainable materials and 3D-printed spare parts manufacturing
+
+**Key growth areas:**
 
 - electric bike
 - urban cycling
@@ -62,65 +95,67 @@ Repairs, maintains, and adjusts bicycles, including replacing parts, truing whee
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work contract (employed)） | 需雇主提供工作合同，非紧缺职业，需证明本地无法招聘 |
-| Subclass Busqueda empleo（Job search visa） | 高学历者可申请，但该职业通常不符合高技能要求 |
+| Subclass Cuenta ajena (Work contract (employed)) | Employers must provide a work contract; non-urgently needed occupations must prove local recruitment is not available |
+| Subclass Busqueda empleo (Job search visa) | Those with higher education can apply, but the occupation usually does not meet the high-skill requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Bicycle Repairer？**
-- 喜欢动手修理、对机械有兴趣的人
-- 希望从事户外或体力工作的人
-- 渴望自主创业、开维修店的人
+**Who is suited**
+- People who enjoy hands-on repairs and are interested in machinery
+- People who wish to engage in outdoor or physical work
+- People eager to start their own businesses and open repair shops
 
-**谁不适合学Bicycle Repairer？**
-- 期望高薪或快速晋升的人
-- 不喜欢接触油污或重复性劳动的人
+**Who is not suited**
+- People expecting high salary or fast promotion
+- People who dislike contact with oil stains or repetitive labor
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What are the salary levels for bicycle mechanics in Spain?**
+A: Entry-level annual salary approx. €16,000–20,000, mid-level €20,000–26,000, senior up to €32,000; overall low.
+
+**Q: Can foreigners immigrate to Spain through this profession?**
+A: It's tough. This occupation is not in urgent need and does not require higher education, so it cannot be applied for an EU Blue Card. Even for ordinary work residence, employers must prove that they cannot recruit local workers.
+
+**Q: What are the career development opportunities?**
+A: You can be promoted from mechanic to senior technician, store manager, or open your own shop after accumulating customers, or you can also transition to emerging fields such as electric bicycle repair.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 极低（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Bicycle Repairer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for bicycle repairers in Spain?**
-答：Entry-level annual salary is around €16,000-€20,000, mid-level €20,000-€26,000, and senior up to €32,000, generally low.
-
-**问：Can foreigners immigrate to Spain through this occupation?**
-答：Difficult. It is not a shortage occupation, does not require higher education, and is ineligible for EU Blue Card. Standard work permits require proof that no local worker is available.
-
-**问：What are the career development opportunities?**
-答：Advance from repairer to senior technician, store manager, or start your own shop. You can also specialize in electric bicycle repair.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

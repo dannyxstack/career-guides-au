@@ -1,58 +1,92 @@
-# Hairdressing and beauty salon managers and proprietors（Hairdressing and beauty salon managers and proprietors）职业分析 · UK
+# Hairdressing and beauty salon managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1253 – Hairdressing and beauty salon managers and proprietors。**
+**Occupation code: 1253 (SOC)**
 
-Plan, organise, direct and coordinate activities and resources of hairdressing, nail salons, beauty treatment, pet grooming and similar establishments, including staff management, customer service, financial operations and marketing.
+Responsible for planning, organizing, directing, and coordinating activities and resources in places such as hair salons, nail salons, beauty salons, and pet grooming shops, including staff management, customer service, financial operations, and marketing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中学或同等学历 | 2年 | —（通常无需高等教育，雇主更看重技能和经验） |
-| 职业培训/学徒制 | 2-3年 | —（通过学徒制或职业课程学习，部分由政府资助） |
+| Secondary school or equivalent | 2 years | $0~$0 (Typically no higher education required, employers value skills and experience more) |
+| Vocational training / apprenticeship | 2-3 years | $0~$1,000 (Learn through apprenticeships or vocational courses, some government-funded) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| NVQ/SVQ 美发或美容服务 | City & Guilds / VTCT | 可选 | 行业认可的职业资格，非强制但雇主青睐 |
-| 高级美发/美容技师文凭 | 私立学院或继续教育学院 | 可选 | 可提升就业竞争力，管理层通常需要 |
+| NVQ/SVQ Hairdressing or Beauty Services | City & Guilds / VTCT | Optional | Industry-recognized professional qualification, not mandatory but preferred by employers |
+| Advanced Diploma in Hairdressing/Beauty Therapy | Private colleges or continuing education institutions | Optional | Can enhance employability; management roles typically require this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。英国美发与美容行业就业前景稳定，受消费习惯和人口增长支撑。疫情期间行业受冲击，但复苏较快。预计未来十年从业人数小幅增长，新人入行门槛较低，但竞争激烈。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,000. UK hairdressing and beauty industry employment outlook is stable, supported by consumer habits and population growth. The industry was impacted during the pandemic but recovered quickly. Modest growth in the number of practitioners is expected over the next decade, with low entry barriers but fierce competition.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$22,000 | 助理店长或小型沙龙经理 |
-| 中级（3-7年） | $25,000~$35,000 | 中型沙龙经理或自营业主 |
-| 高级（7年以上） | $35,000~$50,000 | 大型连锁店区域经理或高档沙龙业主 |
+| Median salary | $29,715 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $18,000~$22,000 | Assistant store manager or small salon manager |
+| Mid-level (3–7 years) | $25,000~$35,000 | Medium salon manager or self-employed owner |
+| Senior (7+ years) | $35,000~$50,000 | Regional manager of a large chain or owner of a high-end salon |
+| average salary | $28,360 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初始可从美发师或美容师做起，积累经验后晋升为主管、店长，最终成为经理或自营店主。部分人员转向培训、产品代理或连锁管理岗位。
-**AI替代风险：较低（★½☆☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+The role of a hairdressing and beauty salon manager is mixed: routine tasks like admin, scheduling, and bookings can be automated by AI, reducing costs; but creative services, client emotional connection, and team management remain human core strengths.
+
+Start as a hairdresser or beautician, progress to supervisor, store manager, then manager or business owner. Some move into training, product distribution, or chain management.
+
+**Tasks most exposed to AI:**
+
+- Staff scheduling and shift optimization based on historical data
+- Customer appointment management and reminders (AI chatbot)
+- Routine financial statement generation and automated inventory replenishment
+- Automated social media marketing post generation and scheduling
+
+**Where AI augments the role:**
+
+- Uses AI to analyse customer preferences and provide personalised hairdressing and beauty advice
+- Optimize marketing campaign ROI and customer segmentation through AI tools
+- Use computer vision to assist in assessing hair/skin condition.
+- AI-driven training simulators enhance employee skills
+- Data-driven dynamic pricing and promotion strategies
+
+**Human moat:**
+
+- Creative Hairstyling and Personalised Aesthetic Judgement
+- Ability to build trust and emotional rapport with clients
+- Ability to handle customer complaints and emergencies on-site
+- Team morale motivation and corporate culture shaping
+
+**Skills to build:**
+
+- Digital marketing and AI advertising tools (e.g., Meta Ads AI)
+- Data analysis and business intelligence (e.g., Tableau)
+- Advanced applications of Customer Relationship Management (CRM) systems
+- AI-assisted design software (e.g., Canva AI)
+- Basic programming and automation scripts (Python/Excel VBA)
+- Social media management and content strategy
+
+**Key growth areas:**
 
 - Personal care
 - Self-employment
@@ -61,68 +95,67 @@ Plan, organise, direct and coordinate activities and resources of hairdressing, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 该职业在可担保职业清单上，需雇主担保，年薪需达到一般门槛（通常£25,600+）或现行工资标准。 |
-| Subclass Graduate（Graduate visa） | 适合在英国完成学位的国际毕业生，可在英国工作2年（博士3年），积累经验后转为其他签证。 |
-| Subclass Scale-up（Scale-up visa） | 适合获得英国快速增长企业担保的高技能人才，需达到年薪£33,000+。美发美容行业符合条件的企业较少。 |
+| Subclass Skilled Worker (Skilled Worker visa) | This occupation is on the list of eligible occupations, requires employer sponsorship, and the annual salary must meet the general threshold (usually £25,600+) or the going rate. |
+| Subclass Graduate (Graduate visa) | Suitable for international graduates who have completed degrees in the UK; they can work in the UK for 2 years (3 years for PhDs), accumulating experience before switching to another visa. |
+| Subclass Scale-up (Scale-up visa) | Suitable for highly skilled talent sponsored by UK fast-growing businesses, needing to earn £33,000+ annually. Few hairdressing and beauty businesses meet the criteria. |
 
-**PR难度：较高（★★★½☆）。**
+**PR friendliness: low (★½☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Hairdressing and beauty salon managers and proprietors？**
-- 热爱美发美容行业，具有服务意识和沟通能力
-- 具备管理能力，希望自主创业或成为店长
-- 愿意从基层学习，逐步积累技能和经验
-
-**谁不适合学Hairdressing and beauty salon managers and proprietors？**
-- 不擅长与人打交道或缺乏耐心
-- 反对长时间站立工作和周末节假日工作
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about hairdressing and beauty industry, with service awareness and communication skills
+- Possess management skills and aspire to start their own business or become a store manager
+- Willing to learn from the ground up, gradually accumulating skills and experience
+
+**Who is not suited**
+- Not good at interacting with people or lacking patience
+- Oppose long periods of standing work and weekend/holiday work
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a hairdressing and beauty manager?**
+A: Entry-level positions approximately 18,000-22,000 GBP, mid-level 25,000-35,000 GBP, senior up to 50,000 GBP. Self-employed owners have fluctuating income, potentially higher.
+
+**Q: Can this occupation apply for a UK work visa?**
+A: Yes. This occupation is on the list of eligible occupations for the Skilled Worker visa, requiring employer sponsorship and meeting salary requirements (generally £25,600+ or the going rate).
+
+**Q: How to advance from hairdresser to manager?**
+A: Typically requires several years of experience and management training. Can obtain NVQ advanced qualifications or study business management courses. Internal promotion or moving to a larger venue are common paths.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 较低（★★☆☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Hairdressing and beauty salon managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for hairdressing and beauty salon managers?**
-答：Entry-level around £18,000-22,000, mid-level £25,000-35,000, senior up to £50,000. Self-employed owners may earn more but with variability.
-
-**问：Can this occupation apply for a UK work visa?**
-答：Yes. It is eligible for the Skilled Worker visa, requiring employer sponsorship and meeting salary thresholds (usually £25,600+ or going rate).
-
-**问：How to progress from hairdresser to manager?**
-答：Gain several years of experience, undergo management training, obtain NVQ advanced qualifications, or study business management. Internal promotion or moving to larger establishments are common paths.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

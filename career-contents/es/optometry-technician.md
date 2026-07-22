@@ -1,58 +1,94 @@
-# Optometry Technician（Optometry Technician）职业分析 · ES
+# Optometry Technician — career analysis · Spain
 
-**职业代码：3324 – Optometry Technician。**
+**Occupation code: 3324 (CNO)**
 
-Optometry technicians perform vision tests, refraction, lens fitting, and preliminary eye health assessments under the supervision of optometrists or ophthalmologists.
+Optometry technicians, under the guidance of ophthalmologists or optometrists, perform vision tests, refraction, lens fitting, and preliminary eye health assessments.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 中等职业教育（FP Grado Superior） | 2年 | $500~$2,000（公立学校学费低，私立稍高） |
-| 大学本科（Grado en Óptica y Optometría） | 4年 | $1,000~$4,000（公立大学每年学费约1000-2000欧元） |
+| Secondary Vocational Education (FP Grado Superior) | 2 years | $500~$2,000 (Public schools have lower tuition fees, while private ones are slightly higher) |
+| Undergraduate Degree (Grado en Óptica y Optometría) | 4 years | $1,000~$4,000 (The annual tuition fee for public universities is about 1,000–2,000 euros) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 验光技术员毕业证书 | 西班牙教育机构 | 必备 | 完成FP Grado Superior或大学学位 |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 非欧盟学历需认证 |
+| Optometric technician graduation certificate | Spanish educational institutions | Required | Completed the FP Grado Superior or university degree |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Non-EU qualifications require recognition. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 4,500。西班牙人口老龄化导致视力保健需求上升，验光技术员就业稳定增长。初级岗位较多，高级岗位需专科培训。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 4,500. Spain's aging population has led to increased demand for vision care, and employment for optometry technicians has steadily grown. There are many junior positions, while senior positions require specialized training.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪 |
-| 中级（4-7年） | $24,000~$32,000 | 税前年薪 |
-| 高级（8年以上） | $32,000~$40,000 | 税前年薪 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $18,000~$24,000 | Annual pre-tax salary |
+| Mid-level (4-7 years) | $24,000~$32,000 | Annual pre-tax salary |
+| Senior (8+ years) | $32,000~$40,000 | Annual pre-tax salary |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较高（★★★½☆）。** 可从初级技术员晋升为高级技师或验光师（需大学学位），也可转向眼科诊所管理或光学产品研发。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Optician occupation is significantly augmented rather than replaced by AI; automated tools will handle measurements and order processing, but personalized fitting, client communication, and clinical judgment become more important; demand is stable with moderate growth.
+
+You can be promoted from junior technician to senior technician or optometrist (university degree required), or move into ophthalmology clinic management or optical product development.
+
+**Tasks most exposed to AI:**
+
+- Manual optometry data recording and prescription entry
+- Frame inventory management and basic order processing
+- Conventional lens cutting and polishing processes (automated equipment)
+- Replaced by basic contact lens insertion instructional videos.
+- Client file maintenance and appointment scheduling
+
+**Where AI augments the role:**
+
+- Use AI-powered optometry devices for fast and accurate measurement data
+- Use VR/AR tools to simulate eyeglass frame try-on
+- AI-assisted facial feature analysis to recommend frame styles
+- Digital prescription management improves lens fitting accuracy
+- Online booking and remote consultation services handle routine issues
+
+**Human moat:**
+
+- Precise facial measurement and frame fitting feel
+- Clinical judgment for complex prescriptions (e.g., prisms, multifocals)
+- Build trust with clients, provide personalized advice
+- Physical skill to adjust frames for ergonomics
+- Cross-departmental (ophthalmologist, optometrist) collaboration and communication
+
+**Skills to build:**
+
+- Proficient in digital refraction and 3D scanning equipment
+- Learning AI eyewear fitting software (e.g., Zeiss VisuReal)
+- Improve client communication and consultation skills
+- Basic data analysis skills (tracking customer preferences)
+- Proficient in using VR/AR try-on platforms
+- Understanding of telemedicine and online dispensing processes
+
+**Key growth areas:**
 
 - Aging population
 - Increased vision care awareness
@@ -61,68 +97,67 @@ Optometry technicians perform vision tests, refraction, lens fitting, and prelim
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 需大学学历及工作合同，年薪达标（约33,908欧元） |
-| Subclass Altamente cualificad（Highly Skilled Professional） | 适用于高技能专业人才，需学历认证及工作合同 |
-| Subclass Cuenta ajena（Work Contract (Employed)） | 普通工作居留，需雇主担保及劳工市场测试 |
+| Subclass Tarjeta azul UE (EU Blue Card) | University degree and employment contract required, annual salary meeting (approximately €33,908) |
+| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for highly skilled professionals, requiring academic credentials and a work contract |
+| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary work residence requires employer sponsorship and labor market testing |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Optometry Technician？**
-- 细心、有耐心的人
-- 对眼科护理感兴趣的人
-- 善于与患者沟通的人
-
-**谁不适合学Optometry Technician？**
-- 不擅长精细手工操作的人
-- 对医疗环境不适的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented and patient person
+- For those interested in eye care
+- People who are good at communicating with patients
+
+**Who is not suited**
+- People not good at fine manual work
+- People who are uncomfortable with medical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of an optometry technician in Spain?**
+A: Beginner is about 18,000-24,000 euros, intermediate is about 24,000-32,000 euros, and advanced can reach up to 40,000 euros.
+
+**Q: How can non-EU citizens become optometry technicians in Spain?**
+A: You must obtain a degree recognized by Spain (or undergo academic certification), then find an employer sponsor to apply for work residence or an EU Blue Card.
+
+**Q: Can optometrists be promoted to optometrists?**
+A: Yes, but you must complete a four-year undergraduate optometry program and be registered as an optometrist.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 较高（★★★½☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Optometry Technician的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for an optometry technician in Spain?**
-答：Entry-level: €18,000-24,000; mid-level: €24,000-32,000; senior: up to €40,000 per year.
-
-**问：How can non-EU citizens become optometry technicians in Spain?**
-答：Obtain a recognized degree (or homologation), then secure a job offer for a work visa or EU Blue Card.
-
-**问：Can an optometry technician become an optometrist?**
-答：Yes, by completing a 4-year university degree in optometry and registering as an optometrist.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

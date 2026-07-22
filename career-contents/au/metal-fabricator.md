@@ -1,60 +1,93 @@
-# Metal Fabricator（Metal Fabricator）职业分析 · 澳大利亚
+# Metal Fabricator — career analysis · Australia
 
-**职业代码：322311 – Metal Fabricator。**
+**Occupation code: 322311 (ANZSCO)**
 
-Metal Fabricators manufacture, assemble, and install metal structures and products according to specifications, playing a key role in construction and manufacturing.
+Metal fabricators manufacture, assemble, and install steel structures and metal products according to drawings, a key technical trade in construction and manufacturing.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| 学徒制 | 3-4年 | $5,000~$15,000（包括TAFE费用和工具，政府补贴后较低） |
-| TAFE文凭 | 2年 | $8,000~$20,000（全日制学习，需包括实习） |
+| Apprenticeship | 3-4 years | $5,000~$15,000 (Includes TAFE fees and tools, lower after government subsidies) |
+| TAFE diploma | 2 years | $8,000~$20,000 (Full-time study, must include internship) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Engineering - Fabrication Trade | TAFE或注册培训机构 | 必备 | 核心资格，涵盖焊接和制造技能 |
-| 焊接资格认证（如AS 1796） | 澳大利亚焊接协会或类似机构 | 可选 | 特定工期要求，提升就业竞争力 |
-| 白卡（White Card） | Safe Work Australia认可的培训机构 | 必备 | 建筑工地入场必备 |
-| 技能评估（Trade Recognition） | Trades Recognition Australia (TRA) | 可选 | 移民或海外资格认证必需 |
+| Certificate III in Engineering - Fabrication Trade | TAFE or registered training organizations | Required | Core qualifications covering welding and fabrication skills |
+| White Card | Training providers accredited by Safe Work Australia | Required | Essential for entering a construction site |
+| Welding qualification certification (e.g., AS 1796) | Australian Welding Association or similar bodies | Optional | Specific project duration requirements to enhance employment competitiveness |
+| Skills Assessment (Trade Recognition) | Trades Recognition Australia (TRA) | Optional | Required for immigration or overseas qualification recognition |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。受建筑和基础设施项目持续推动，澳洲对金属制造工需求稳定。未来五年预计保持健康增长，尤其在大型工程和资源项目中。
+**Job demand: high (★★★★☆).** National workforce approx. 28,000. Driven by ongoing construction and infrastructure projects, demand for metal fabricators in Australia is stable. Expected to see healthy growth over the next five years, especially in large-scale engineering and resource projects.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（AUD） | 备注 |
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 刚完成学徒或新入职 |
-| 中级（4-7年） | $70,000~$90,000 | 有经验，能独立完成任务 |
-| 高级（8年以上） | $90,000~$120,000 | 包含主管或特殊技能岗位 |
+| Median salary | $87,776 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Entry level (0–3 years) | $55,000~$70,000 | Recently completed apprenticeship or new hire |
+| Mid-level (4-7 years) | $70,000~$90,000 | Experienced and able to complete tasks independently |
+| Senior (8+ years) | $90,000~$120,000 | Includes supervisor or specialist skill roles |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 学徒完成后可晋升为高级技工、主管，或通过经验积累转向项目管理和质量控制岗位。也可自雇开设加工车间。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Metal fabricators face task restructuring due to AI and automation: simple cutting, welding path planning may be replaced by machines, but complex assembly, on-site installation, and problem-solving skills are enhanced by AI-assisted tools (e.g., smart measurement, AR guidance), balancing risks and opportunities.
+
+After completing apprenticeship, you can advance to senior technician, supervisor, or shift to project management and quality control roles through experience. You can also become self-employed by starting a processing workshop.
+
+**Tasks most exposed to AI:**
+
+- Automatically generate cutting paths and programming based on digital models, replacing manual scribing
+- standardized welding tasks (e.g., straight seams) are performed by automated welding robots
+- Material list calculation and inventory management are automatically completed by AI systems
+- Simple quality checks (e.g. weld appearance) automatically detected by computer vision
+
+**Where AI augments the role:**
+
+- AI-assisted design tools (e.g., generative design) to optimize metal structure connections
+- Augmented reality (AR) headsets provide on-site assembly guidance, reducing reliance on drawings
+- Intelligent sensing and IoT monitoring of welding parameters for real-time feedback to improve quality
+- Drones or robots for high-altitude/hazardous area inspection, aiding maintenance decisions
+
+**Human moat:**
+
+- Flexible judgment and manual adjustments when handling non-standard, complex, or changing site conditions
+- Communication and teamwork in coordinating multiple trades (e.g., coordinating with electricians and welders)
+- Expertise and experience in structural safety and long-term reliability
+- Problem-solving and innovative repair skills under high pressure or time constraints
+
+**Skills to build:**
+
+- 3D modeling and CAD/CAM software (e.g., SolidWorks, Tekla) operation
+- Programming and commissioning of automated equipment (e.g. CNC cutters, robotic welding)
+- Augmented reality (AR) maintenance and operation skills
+- Data analysis and smart sensor integration skills
+- Knowledge of project management and quality control systems (e.g., ISO 3834)
+- Cross-trade collaboration and digital communication tools (e.g., BIM 360) application
+
+**Key growth areas:**
 
 - infrastructure projects
 - mining
@@ -63,69 +96,68 @@ Metal Fabricators manufacture, assemble, and install metal structures and produc
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，需有澳洲雇主offer |
-| Subclass 186（Employer Nomination Scheme） | 雇主担保永居签证，适合有经验的工人 |
-| Subclass 189（Skilled Independent Visa） | 独立技术移民永居签证，需在MLTSSL清单上 |
-| Subclass 190（Skilled Nominated Visa） | 州担保永居签证，需获得州政府提名 |
+| Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa requiring a job offer from an Australian employer |
+| Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, suitable for experienced workers. |
+| Subclass 189 (Skilled Independent Visa) | Permanent residence visa through skilled independent migration, must be on the MLTSSL list. |
+| Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR难度：较低（★★☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Metal Fabricator？**
-- 喜欢动手操作、对金属加工有兴趣的人
-- 注重安全规范、能团队合作
-- 愿意在工地或车间环境中工作
-
-**谁不适合学Metal Fabricator？**
-- 不适应体力劳动或户外工作环境
-- 对精细操作和严格精度缺乏耐心
+**PR difficulty: low (★★☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on work and have an interest in metalworking
+- Focus on safety standards, able to work in a team
+- Willing to work in a construction site or workshop environment
+
+**Who is not suited**
+- Not suitable for physical labor or outdoor work environments
+- Lacks patience for fine operations and strict precision
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for metal fabricators?**
+A: Entry-level annual salary around A$55,000-70,000, mid-to-senior up to A$70,000-120,000. Overtime, remote mine work, or holding special welding certifications can lead to higher income.
+
+**Q: Is it easy for a metal fabricator to immigrate to Australia?**
+A: Relatively easy. This occupation is on the MLTSSL and eligible for visas like 189/190/482. After passing the TRA skills assessment and meeting the EOI score, you can apply.
+
+**Q: Is there a career path for metal fabricators?**
+A: Yes, can progress from tradesperson to supervisor, project manager, or specialise in high-pay areas like pressure vessel welding and underwater welding. With experience, can become self-employed.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| Jobs and Skills Australia | ANZSCO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★★☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
-
-Metal Fabricator的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for Metal Fabricators?**
-答：Entry-level annual salary is around AUD 55,000-70,000, mid-level AUD 70,000-90,000, and senior AUD 90,000-120,000. Overtime, mining work, or special welding certifications can lead to higher pay.
-
-**问：Is it easy for Metal Fabricators to migrate to Australia?**
-答：Relatively easy. The occupation is on the MLTSSL, eligible for visas like 189/190/482. After passing TRA skills assessment and meeting EOI points, migration is feasible.
-
-**问：Are there career progression opportunities for Metal Fabricators?**
-答：Yes. Progression from tradesman to supervisor, project manager, or specialization in high-paying areas like pressure vessel welding or underwater welding. Experienced workers can start their own business.
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

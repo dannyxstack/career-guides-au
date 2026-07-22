@@ -1,59 +1,95 @@
-# Web and Multimedia Analysts, Programmers and Designers（Web and Multimedia Analysts, Programmers and Designers）职业分析 · ES
+# Web and Multimedia Analysts, Programmers and Designers — career analysis · Spain
 
-**职业代码：2713 – Web and Multimedia Analysts, Programmers and Designers。**
+**Occupation code: 2713 (CNO)**
 
-Design, develop and maintain websites, multimedia applications and digital content, combining programming, visual design and user experience. Core role in digital transformation.
+Responsible for designing, developing, and maintaining websites, multimedia applications, and digital content, integrating programming, visual design, and user experience, forming a core role for digital transformation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | —（公立学校免费，私立约€1,400/年） |
-| 大学本科（Grado） | 4年 | $1,000~$3,000（公立大学约€1,000-€2,000/年，私立高达€3,000+/年） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $0~$1,400 (Public schools are free, private ones about €1,400 per year) |
+| Undergraduate (Grado) | 4 years | $1,000~$3,000 (Public universities cost about €1,000–€2,000 per year, while private universities can go up to €3,000+ per year) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士学位 | 西班牙公立或私立大学 | 可选 | 非必需但偏好，可提高竞争力 |
-| 网页开发高级职业培训证书 | 西班牙教育部认可的职业学校 | 可选 | FP Grado Superior en Desarrollo de Aplicaciones Web |
-| 学历认证（Homologación） | 西班牙教育部 | 可选 | 非欧盟学历需认证，但技术岗位通常不强制 |
+| Bachelor's degree in computer science | Public or private universities in Spain | Optional | Not essential but preferred, can enhance competitiveness |
+| Advanced Vocational Training Certificate in Web Development | Vocational schools recognized by the Spanish Ministry of Education | Optional | FP Grado Superior en Desarrollo de Aplicaciones Web |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Optional | Non-EU qualifications require certification, but technical positions are usually not mandatory |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 75,000。西班牙数字化转型推动需求持续增长，尤其在电子商务、远程办公和教育领域。马德里和巴塞罗那集中大量岗位，但远程工作机会增加。预计未来5年增长15%-20%。
+**Job demand: high (★★★★☆).** National workforce approx. 75,000. Spain's digital transformation is driving sustained demand growth, especially in e-commerce, remote work, and education. Madrid and Barcelona concentrated a large number of positions, but remote work opportunities increased. Expected to grow by 15%-20% over the next five years.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$32,000 | 税前年薪，大城市稍高 |
-| 中级（3-6年） | $32,000~$45,000 | 含全栈能力更优 |
-| 高级（6年以上） | $45,000~$65,000 | 技术主管或架构师可超€70,000 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$32,000 | Pre-tax annual salary is slightly higher in big cities |
+| Mid-level (3–6 years) | $32,000~$45,000 | Includes better full-stack capabilities |
+| Senior (6+ years) | $45,000~$65,000 | Technical directors or architects can earn over €70,000 |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 可从初级前端/后端开发者晋升为高级开发者、技术主管或架构师；也可转向项目管理或产品经理；积累经验后自主创业或成为自由职业者。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
+
+Advance from junior front-end/back-end developer to senior developer, technical leader, or architect; You can also transition to project management or product manager; After accumulating experience, start your own business or become a freelancer.
+
+**Tasks most exposed to AI:**
+
+- Repetitive UI component writing and style debugging
+- CRUD code generation for standard REST APIs
+- Building static pages based on templates
+- Writing and executing basic test cases
+- Simple database queries and data migration scripts
+
+**Where AI augments the role:**
+
+- AI-assisted rapid prototyping and code snippet generation to accelerate development iteration
+- AI-driven automated testing and error detection to improve code quality
+- Using AI code review tools to detect potential security vulnerabilities and performance bottlenecks
+- AI-generated documentation and API descriptions to reduce writing time
+- AI-assisted project schedule estimation and technical solution selection
+
+**Human moat:**
+
+- System architecture design and technology selection decisions
+- Understanding of complex business logic and implementation of non-standard requirements
+- Empathy and creativity in user research and experience optimization
+- Cross-Team Communication and Project Management Skills
+- System security, compliance, and operational assurance
+
+**Skills to build:**
+
+- Master advanced usage of AI code assistants (e.g., Copilot, Cody)
+- Learning system architecture design and cloud-native technologies (AWS/Azure/GCP)
+- Strengthen full-stack development skills (frontend + backend + database)
+- Improve knowledge of UX design and accessibility standards
+- Learning AI model integration and API calls (e.g., LangChain, OpenAI API)
+- Cultivating project management and agile methodology (e.g., Scrum, SAFe)
+
+**Key growth areas:**
 
 - Digital Transformation
 - Full Stack Development
@@ -62,65 +98,64 @@ Design, develop and maintain websites, multimedia applications and digital conte
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能岗位，需大学学历或5年经验，年薪门槛约€33,908（2023年），快速获得居留。 |
-| Subclass Altamente cualificad（Highly Skilled Professional (Ley 14/2013)） | 面向高技能专业人才，无需学历认证，合同需满足薪资门槛（通常€40,000+），可带家属。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 雇主担保工作居留，需证明岗位难找本地人，灵活但审批较慢。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, requiring a university degree or 5 years of experience, with an annual salary threshold of about €33,908 (2023), allowing quick residency acquisition. |
+| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeted at highly skilled professionals, no academic credentials required, contracts must meet salary thresholds (usually €40,000+), and family members are allowed. |
+| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored work residency, you need to prove that the position is hard to find locals, flexible but slow to approve. |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Web and Multimedia Analysts, Programmers and Designers？**
-- 喜欢创造并乐于持续学习新技术的人
-- 具备逻辑思维和创意设计双重能力的人
-- 追求高灵活性和远程工作机会的人
-
-**谁不适合学Web and Multimedia Analysts, Programmers and Designers？**
-- 不习惯快速变化的技术环境的人
-- 不喜欢团队协作和客户沟通的人
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy creating and are eager to continuously learn new technologies
+- People with both logical thinking and creative design abilities
+- Those seeking high flexibility and remote work opportunities
+
+**Who is not suited**
+- People who are not used to the rapidly changing technological environment
+- Those who dislike teamwork and client communication
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for web developers in Spain?**
+A: Entry-level salaries are about €24,000-€32,000, intermediate salaries €32,000-€45,000, and seniors can earn over €65,000, with Madrid and Barcelona offering the highest salaries.
+
+**Q: How can non-EU citizens obtain a Spanish web development work visa?**
+A: You can obtain the EU Blue Card (with academic qualifications), a highly skilled talent visa (annual salary threshold of about €40,000), or employer-sponsored work residency. Shortage occupations can be approved expedited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏上（★★★½☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Web and Multimedia Analysts, Programmers and Designers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for web developers in Spain?**
-答：Junior: €24,000-€32,000, mid-level: €32,000-€45,000, senior: up to €65,000+, highest in Madrid and Barcelona.
-
-**问：How can non-EU citizens get a work visa for web development in Spain?**
-答：Via EU Blue Card (degree required), Highly Skilled Professional visa (salary ~€40,000+), or employer-sponsored work permit. Shortage occupation may expedite.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

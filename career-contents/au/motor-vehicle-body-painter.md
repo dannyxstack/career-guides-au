@@ -1,66 +1,93 @@
-# 汽车喷漆工（Motor Vehicle Body Painter）职业分析 · 澳大利亚
+# Motor Vehicle Body Painter — career analysis · Australia
 
-**职业代码：324211 – Motor Vehicle Body Painter。**
+**Occupation code: 324211 (ANZSCO)**
 
-汽车喷漆工（Motor Vehicle Body Painter）负责车辆油漆修复、颜色匹配和喷涂，是碰撞修复行业的核心工种。澳洲持证喷漆工持续短缺，尤其在保险维修中心，CSOL在列。
+A Motor Vehicle Body Painter is responsible for vehicle paint restoration, colour matching, and spray application, and is a core trade in the collision repair industry. Licensed painters are in sustained short supply across Australia, particularly in insurance repair centres, and the occupation is listed on the CSOL.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (AUD) |
 |---|---|---:|
-| Certificate III in Automotive Refinishing Technology | 36~48个月（学徒） | —（各州TAFE） |
-| Water-Based Paint Technology Training | 1~3天 | $200~$800（厂商培训，转型要求） |
-| 海外资质TRA互认 | 12~18个月 | $2,000~$5,000（TRA评估费） |
+| Certificate III in Automotive Refinishing Technology | 36–48 months (apprenticeship) | $0~$2,500 (State TAFE institutions) |
+| Water-Based Paint Technology Training | 1–3 days | $200~$800 (Manufacturer training; transition requirements) |
+| Overseas qualifications recognised through TRA mutual recognition | 12–18 months | $2,000~$5,000 (TRA assessment fee) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| Certificate III in Automotive Refinishing Technology | TAFE/RTO | 必备 | 执业核心资质 |
-| TRA Skills Assessment | TRA | 可选 | 海外学历移民 |
+| Certificate III in Automotive Refinishing Technology | TAFE/RTO | Required | Core practising qualifications |
+| TRA Skills Assessment | TRA | Optional | Overseas-qualified immigrant |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 14,000。极端冰雹事件导致大量翻新任务，喷漆工需求与钣金工同步暴增。EV车型特殊漆面（哑光/特效）需要新技能培训。
+**Job demand: high (★★★★☆).** National workforce approx. 14,000. Extreme hail events have generated a surge in repair work, driving demand for spray painters in line with panel beaters. EV models with specialised paint finishes (matte/special effects) require new skills training.
 
-| 平台 | 实时挂牌量（约） | 备注 |
+**Competition: medium-low (★★☆☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (AUD) | Note |
 |---|---:|---|
-| Seek | 200~500 个 | 全国，城市保险维修中心集中 |
-| Indeed | 100~280 个 | smash repair中心 |
-| LinkedIn | 40~120 个 | 连锁维修集团 |
-
-**竞争度：低（★★☆☆☆）。**
-**工作强度：中等（★★★☆☆）。**
-
----
-
-## 4. 收入范围（学徒 / 中级 / 资深）
-
-| 经验水平 | 年薪（AUD） | 备注 |
-|---|---:|---|
-| 学徒（0~4年） | $25,000~$55,000 | Motor Vehicle Repair Award |
-| 初级喷漆工（1~3年） | $60,000~$78,000 | 独立维修店 |
-| 中级（3~8年） | $78,000~$100,000 | Seek均值约$37~$47/hr（2026） |
-| 高级/颜色调配专家（8年+） | $95,000~$125,000 | 高端修复或冰雹承包商 |
+| Median salary | $100,048 | Full-time weekly median income ×52 annualized (Source: ABS EEH May 2025, ANZSCO 4-digit level) |
+| Apprentice (0–4 years) | $25,000~$55,000 | Motor Vehicle Repair Award |
+| Junior spray painter (1–3 years) | $60,000~$78,000 | Independent repair shop |
+| Mid-level (3–8 years) | $78,000~$100,000 | SEEK average approximately $37–$47/hr (2026) |
+| Senior/Colour Matching Specialist (8+ years) | $95,000~$125,000 | High-end restoration or hail damage contractor |
+| average salary | $91,364 | All employees weekly mean total cash ×52 annualized (Source: ABS EEH May 2025, ANZSCO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较好（★★★★☆）。** 水性漆技术转型（VOC法规）对传统油漆技师提出升级要求。高质量喷漆承包商季节性收入极高，尤其在冰雹季节。
-**AI替代风险：较低（★★☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
 
-主要增长方向：
+Auto painters are affected by AI both positively and negatively: automatic spraying and color matching technology will replace some repetitive tasks, but fine manual work like color blending and defect repair is hard to replace; short-term job demand remains stable.
+
+The shift to water-based paint technology (VOC regulations) requires traditional painters to upskill. High-quality spray painting contractors can earn exceptionally high seasonal income, particularly during hail season.
+
+**Tasks most exposed to AI:**
+
+- Automatic spraying robots perform large-area uniform coating
+- AI color matching system for automatic color adjustment and recipe recommendation
+- Automatic optimization and adjustment of spray parameters (e.g. pressure, flow)
+- Batch spray painting of standard color paint
+
+**Where AI augments the role:**
+
+- AI formulation library for fast and precise color matching
+- AI-optimized spray path planning to reduce overspray and material waste
+- Defect detection: AI identifies paint surface flaws (e.g., orange peel, pin holes)
+- Use AR to simulate spray painting practice during training
+
+**Human moat:**
+
+- Custom color blending and specialty paint (chameleon, matte) techniques
+- Repair judgment for non-standard damage (e.g., plastic parts, aluminum parts)
+- Client communication and rework negotiation skills
+- On-site environment adaptation (manual adjustment for paint effect under different temperatures and humidity)
+
+**Skills to build:**
+
+- Operation and maintenance of AI color matching systems
+- Programming and debugging of automatic spraying robots
+- Digital work orders and non-destructive testing (NDT) basics
+- Knowledge of eco-friendly water-based paints and low-VOC materials
+- Fault diagnosis and equipment repair
+- Customer relationship management (CRM) and quoting software
+
+**Key growth areas:**
 
 - Insurance Smash Repair
 - EV Colour Matching
@@ -69,66 +96,63 @@
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，最长4年 |
-| Subclass 186（ENS） | 永居 |
-| Subclass 190（Skilled Nominated） | 州提名加5分 |
+| Subclass 482 (Skills in Demand) | Employer sponsorship, up to 4 years |
+| Subclass 186 (ENS) | Permanent Residency |
+| Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学汽车喷漆工？**
-- 有汽车喷漆或油漆工艺经验，目标技能移民澳洲
-- 擅长颜色感知和精细手工操作
-
-**谁不适合学汽车喷漆工？**
-- 对油漆化学品和呼吸防护要求有顾虑
-- 无汽车维修或喷漆背景
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Has automotive spray painting or paint finishing experience and is targeting skilled migration to Australia
+- Strong colour perception and fine manual dexterity
+
+**Who is not suited**
+- Concerns about exposure to paint chemicals and respiratory protection requirements
+- No automotive repair or spray painting background
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary for an automotive spray painter in Australia?**
+A: Mid-level automotive spray painters earn approximately $78,000–$100,000 per year ($37–$47/hr). Contractor earnings can significantly exceed this during hail season.
+
+**Q: Is there strong demand for automotive spray painters in Australia?**
+A: Demand is stable and growing. The insurance repair market is large, hail events drive additional demand, and the occupation is listed as a shortage on the CSOL.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| JSA | ANZSCO 324211 数据 |
-| Seek AU | Body Painter 薪资及岗位量（2026） |
-| TRA | 海外技工互认 |
+| Learning duration | medium-high (★★★☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-low (★★☆☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★★☆☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
-| AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-汽车喷漆工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：澳洲汽车喷漆工工资多少？**
-答：中级汽车喷漆工年薪约 $78,000~$100,000（$37~$47/hr）。冰雹季承包商收入可大幅超出。
-
-**问：澳洲汽车喷漆工需求大吗？**
-答：需求稳定且持续增长。保险维修市场庞大，冰雹事件额外拉动需求，CSOL列明短缺。
+- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

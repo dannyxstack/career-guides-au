@@ -1,60 +1,96 @@
-# Shop Sales Assistant（Shop Sales Assistant）职业分析 · NL
+# Shop Sales Assistant — career analysis · Netherlands
 
-**职业代码：5223 – Shop Sales Assistant。**
+**Occupation code: 5223 (ISCO08)**
 
-Shop sales assistants provide product information, assist customers with purchases, handle cash register transactions, and maintain store displays and inventory in retail establishments.
+Store sales assistants provide product information, assist with purchases, handle cash register transactions, and maintain store displays and inventory in retail stores.
 
-> 注：本职业为**非技术移民职业**，不在NL技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高中毕业或同等学历 | 无固定期限 | —（无强制学费，通常在职培训） |
-| 中等职业教育（MBO） | 2-4年 | $1,000~$2,000（每年学费约1000-2000欧元（政府资助后）） |
+| High school graduation or equivalent | No fixed term | $0~$0 (No mandatory tuition fees, usually on-the-job training) |
+| Intermediate Vocational Education (MBO) | 2-4 years | $1,000~$2,000 (Annual tuition approx. 1000-2000 euros (after government subsidy)) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 无强制资格证书 | 无 | 可选 | 雇主通常提供在职培训 |
-| 零售行业证书（可选） | SVGBR等行业协会 | 可选 | 如零售助理证书，提升竞争力 |
+| No mandatory certification | None | Optional | Employers usually provide on-the-job training |
+| Retail industry certificate (optional) | Industry associations such as SVGBR | Optional | Such as a retail assistant certificate to enhance competitiveness |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 300,000。荷兰零售业就业稳定增长，但电商竞争加剧，实体店销售助理需求缓慢增长，更强调客户服务与数字化技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 300,000. Steady employment growth in Dutch retail, but increasing e-commerce competition; slow demand for in-store sales assistants, with greater emphasis on customer service and digital skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$27,000 | 税前年薪，通常按最低工资或略高 |
-| 中级（3-7年） | $27,000~$33,000 | 税前年薪，含经验津贴 |
-| 高级（7年以上） | $33,000~$40,000 | 税前年薪，包括主管或资深销售角色 |
+| Median salary | $30,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$27,000 | Pre-tax annual salary, usually at the minimum wage or slightly higher |
+| Mid-level (3–7 years) | $27,000~$33,000 | Annual salary before tax, including experience allowances |
+| Senior (7+ years) | $33,000~$40,000 | Pre-tax annual salary, including supervisor or senior sales roles. |
+| average salary | $30,333 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★★☆☆）。** 初级销售助理可晋升为高级销售助理、部门主管、商店经理，或横向转岗至采购、视觉陈列等零售支持职能。
-**AI替代风险：高（★★★★☆）。**
+**Future prospect: medium (★★★☆☆).**
+**AI replacement risk: medium-high (★★★★☆).**
 
-主要增长方向：
+Store sales assistants will face significant contraction due to AI automation, with tasks like inventory management, checkout, and basic inquiries being replaced, but interpersonal interaction and complex customer service still require humans.
+
+Junior sales assistants can advance to senior sales assistant, department supervisor, store manager, or move laterally to retail support functions like procurement or visual merchandising.
+
+**Tasks most exposed to AI:**
+
+- Process checkout transactions using self-service systems and mobile payments
+- Automated replenishment and inventory counting using AI inventory management systems
+- Using chatbots or virtual assistants to answer common product questions
+- AI-driven personalized recommendation systems replace basic product inquiries
+- Automatically generate sales reports and customer analysis
+
+**Where AI augments the role:**
+
+- AI assists in analyzing customer purchase history to provide personalized recommendations.
+- Use augmented reality tools to demonstrate product effects and enhance experience
+- AI-driven pricing optimization tools help adjust promotional strategies
+- Follow up leads more efficiently using CRM systems
+- Use AI training simulations to improve sales skills
+
+**Human moat:**
+
+- Build emotional connection and trust with customers
+- Handling complex complaints and special requests
+- Make flexible judgments in unstructured environments.
+- Provide personalized high-end service experiences
+- Cross-category product knowledge integration and consultation
+
+**Skills to build:**
+
+- Learn to use CRM and sales analysis tools.
+- Proficient in AI-driven inventory management systems.
+- Improve communication and negotiation skills
+- Learning data interpretation and customer insights
+- Familiarity with social media and online sales channels
+- Developing Skills for Solving Complex Problems
+
+**Key growth areas:**
 
 - customer service
 - omnichannel retail
@@ -63,65 +99,67 @@ Shop sales assistants provide product information, assist customers with purchas
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Highly Skilled Migra（Highly Skilled Migrant） | 适用于高技能移民，但销售助理通常不满足薪资门槛（2024年约€5,331/月） |
-| Subclass EU Blue Card（EU Blue Card） | 适用于高学历高薪职位，销售助理通常不符合 |
+| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but sales assistants generally do not meet the salary threshold (2024 approx. €5,331/month) |
+| Subclass EU Blue Card (EU Blue Card) | Suitable for high-education, high-salary positions; sales assistants usually do not qualify |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Shop Sales Assistant？**
-- 喜欢与人沟通且服务意识强的人
-- 希望在零售行业积累基础经验的学生或兼职者
-- 适应灵活排班和站立工作的人
+**Who is suited**
+- People who enjoy communicating and have a strong service orientation
+- Students or part-timers looking to gain basic experience in the retail industry
+- Suitable for people who can adapt to flexible schedules and standing work
 
-**谁不适合学Shop Sales Assistant？**
-- 寻求高薪或快速晋升的人
-- 不喜欢频繁与顾客互动或应对投诉的人
+**Who is not suited**
+- Those seeking high salary or rapid promotion
+- People who dislike frequent customer interaction or handling complaints
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for a sales assistant in the Netherlands?**
+A: Entry-level is around €22,000-27,000/year, mid-level up to €33,000, senior up to €40,000, but often paid at minimum wage.
+
+**Q: As a foreigner, can I immigrate to the Netherlands through a sales assistant position?**
+A: Difficult. Sales assistants generally do not meet the salary requirements for high-skilled migration or EU Blue Card, unless through internal transfer or having a partner visa.
+
+**Q: What are the promotion opportunities for sales assistants?**
+A: Can advance to senior sales assistant, department supervisor, store manager, or transition to roles such as purchasing or visual merchandising.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CBS StatLine / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | very low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | medium (★★★☆☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 无（½☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 高（★★★★☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★☆） |
-
-Shop Sales Assistant属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for a shop sales assistant in the Netherlands?**
-答：Entry-level is around €22,000-€27,000 per year, mid-level up to €33,000, and senior up to €40,000, but often based on minimum wage.
-
-**问：Can I immigrate to the Netherlands as a shop sales assistant?**
-答：It is difficult. The position typically does not meet the salary threshold for the Highly Skilled Migrant scheme or EU Blue Card, unless through intra-company transfer or partner visa.
-
-**问：What are the promotion opportunities for a shop sales assistant?**
-答：You can advance to senior sales assistant, department supervisor, store manager, or move into purchasing, visual merchandising, etc.
+- CBS, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

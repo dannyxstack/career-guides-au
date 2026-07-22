@@ -1,60 +1,93 @@
-# Court, Municipal, and License Clerks（Court, Municipal, and License Clerks）职业分析 · 美国
+# Court, Municipal, and License Clerks — career analysis · United States
 
-**职业代码：43-4031 – Court, Municipal, and License Clerks。**
+**Occupation code: 43-4031 (SOC)**
 
-Perform clerical duties for courts, municipalities, or licensing agencies, such as preparing dockets, handling correspondence, issuing permits, collecting fees, and recording data.
+Perform clerical duties for courts, municipal agencies, or government licensing bodies, including preparing case schedules, handling official correspondence, issuing permits, collecting fees, and recording data.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：容易（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中 | 4年 | —（公立高中免费） |
-| 副学士学位 | 2年 | $5,000~$20,000（社区学院年度学费） |
+| High school | 4 years | $0~$0 (Public high schools are free) |
+| Associate degree | 2 years | $5,000~$20,000 (Annual tuition at community colleges) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：无证书要求（½☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高中文凭或同等学历 | 教育部 | 必备 | 基本入职要求 |
-| 在职培训 | 雇主 | 可选 | 通常为期1个月至1年 |
+| High school diploma or equivalent | Ministry of Education | Required | Basic entry requirements |
+| On-the-job training | Employer | Optional | Typically lasts 1 month to 1 year |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 110,200。美国劳工统计局预计2022-2032年就业增长约3%，与平均水平持平。政府预算约束可能限制岗位增长，但退休人员更替将创造一定空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 110,200. The U.S. Bureau of Labor Statistics projects employment growth of about 3% from 2022-2032, similar to the average. Government budget constraints may limit job growth, but retirements will create some openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：低（★½☆☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-5年） | $28,000~$38,000 | 入门级，州/地方政府薪资 |
-| 中级（5-10年） | $38,000~$48,000 | 有经验办事员 |
-| 高级（10年以上） | $48,000~$60,000 | 高级办事员或主管 |
+| Median salary | $48,700 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry-level (0-5 years) | $28,000~$38,000 | Entry-level, state/local government salary. |
+| Intermediate (5-10 years) | $38,000~$48,000 | Experienced clerk |
+| Senior (10+ years) | $48,000~$60,000 | Senior clerk or supervisor |
+| average salary | $52,320 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 通常从初级办事员起步，积累经验后可升任高级办事员、主管或办公室经理。部分人员可通过内部考试转入专业岗位（如法律助理、行政官员）。
-**AI替代风险：中（★★½☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
+
+Usually start as a junior clerk, gain experience to advance to senior clerk, supervisor, or office manager. Some may transfer to professional roles (e.g., legal assistant, administrative officer) through internal exams.
+
+**Tasks most exposed to AI:**
+
+- Use stenotype machines or voice transcription devices to generate real-time court transcripts
+- Proofreading and editing repetitive legal language in routine court proceedings
+- Generate standardized court summaries with timestamps
+- Processing records for uncontested informal hearings
+
+**Where AI augments the role:**
+
+- Using AI transcription drafts to accelerate final record generation, focusing on verifying legal terminology accuracy
+- AI marks key contradictions in witness testimony in real-time to improve court efficiency
+- Using AI to automatically organize indexes and timecodes, freeing time for contract review
+- Assisted identification of speakers via AI voice analysis and managing multi-person conversation records
+
+**Human moat:**
+
+- Deep understanding of legal procedures, evidence rules, and adjudication standards
+- Precise hearing and manual correction in noisy or slurred speech scenarios
+- Declassification of sensitive information (e.g., trade secrets, minors involved in cases)
+- On-site rapid response and subtitle synchronisation (e.g., sudden interruptions, judge instructions)
+- Troubleshooting court technology systems (stenography equipment, real-time captioning software)
+
+**Skills to build:**
+
+- Master the parameter tuning of AI real-time transcription tools (e.g., Otter.ai, Nuance Dragon)
+- Learning Python or low-code platforms for automatic formatting of transcribed text
+- Improve Typing Speed for Legal Terminology in English (especially Latin terms common in Australian case law)
+- Obtaining court process management certification (e.g., APEC hearing coordinator qualification)
+- Develop courtroom data analysis skills (e.g., counting frequency of witness testimony citations)
+
+**Key growth areas:**
 
 - Government Sector
 - Clerical Duties
@@ -63,65 +96,67 @@ Perform clerical duties for courts, municipalities, or licensing agencies, such 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不适用，因该职业通常不要求本科以上学位。 |
-| Subclass Green Card (PERM)（Employment-Based Green Card） | 极少通过PERM劳工认证，因非技术岗位且供过于求。 |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree or higher. |
+| Subclass Green Card (PERM) (Employment-Based Green Card) | Extremely rare through PERM labor certification due to non-skilled positions and oversupply. |
+
+**PR friendliness: very low (½☆☆☆☆).**
+
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Court, Municipal, and License Clerks？**
-- 注重细节、有条理的人
-- 喜欢稳定工作环境、不追求高薪的人
-- 希望进入政府部门的入门级求职者
+**Who is suited**
+- Detail-oriented, organized person
+- People who like a stable work environment and do not seek high salaries
+- Entry-level job seekers aiming to enter government departments
 
-**谁不适合学Court, Municipal, and License Clerks？**
-- 寻求高收入和快速晋升的人
-- 希望在国外发展职业生涯的人（签证限制）
+**Who is not suited**
+- People seeking high income and rapid promotion
+- People hoping to develop a career abroad (visa restrictions)
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level for this occupation in the US?**
+A: According to BLS 2023 data, median annual salary for court, municipal, and license clerks is about $42,000, lowest around $28,000, highest around $60,000.
+
+**Q: Can foreigners immigrate to the US for this occupation via H-1B or green card?**
+A: Difficult. The occupation typically does not require a bachelor's degree, does not meet H-1B professional position standards, and employers often cannot prove labor shortages through PERM.
+
+**Q: Does this career have growth prospects?**
+A: Employment growth is slow, but turnover and retirement create job openings. Can advance to supervisor or other administrative roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | very low (½☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 容易（★☆☆☆☆） |
-| 考证难度 | 无证书要求（½☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 低（★½☆☆☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Court, Municipal, and License Clerks属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for this occupation in the US?**
-答：According to BLS 2023 data, the median annual wage for Court, Municipal, and License Clerks is about $42,000, with a range from $28,000 to $60,000.
-
-**问：Can foreigners immigrate to the US for this occupation via H-1B or green card?**
-答：Unlikely. The occupation typically does not require a bachelor's degree, failing H-1B specialty occupation criteria, and employers face difficulty passing PERM labor certification.
-
-**问：Does this occupation have good career prospects?**
-答：Slow job growth, but turnover and retirements create openings. Advancement to supervisor or other administrative roles is possible.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

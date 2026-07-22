@@ -1,60 +1,96 @@
-# First-Line Supervisors of Farming, Fishing, and Forestry Workers（First-Line Supervisors of Farming, Fishing, and Forestry Workers）职业分析 · 美国
+# First-Line Supervisors of Farming, Fishing, and Forestry Workers — career analysis · United States
 
-**职业代码：45-1011 – First-Line Supervisors of Farming, Fishing, and Forestry Workers。**
+**Occupation code: 45-1011 (SOC)**
 
-Directly supervise and coordinate activities of agricultural, forestry, aquacultural, and related workers to ensure productivity and safety.
+Directly supervise and coordinate activities of agricultural, forestry, aquaculture, and related workers to ensure productivity and safety.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 高中文凭 | 高中毕业 | —（高中或同等学历） |
-| 短期培训 | 数月至1年 | $1,000~$5,000（农业管理培训课程） |
+| High school diploma | High school graduation | $0~$0 (High school diploma or equivalent) |
+| Short-term training | Several months to 1 year | $1,000~$5,000 (Agricultural management training course.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：容易（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 农药施用许可证 | 州农业部门 | 可选 | 部分州要求 |
-| 商业驾驶执照 | 州机动车辆管理局 | 可选 | 若需驾驶重型车辆 |
+| Pesticide Applicator License | State agriculture department | Optional | Required in some states |
+| Commercial driver's license | State motor vehicle department | Optional | If required to drive heavy vehicles |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 20,500。受自动化和贸易影响，就业增长缓慢，但退休人员更替将带来一些职位空缺。
+**Job demand: medium (★★½☆☆).** National workforce approx. 20,500. Affected by automation and trade, employment growth is slow, but retirement replacements will create some job openings.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $38,000~$48,000 | 基于BLS数据 |
-| 中级（3-7年） | $48,000~$60,000 | 含经验技能 |
-| 高级（7年以上） | $60,000~$76,000 | 大型农场管理层 |
+| Median salary | $59,320 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $38,000~$48,000 | Based on BLS data |
+| Mid-level (3–7 years) | $48,000~$60,000 | Includes experience and skills |
+| Senior (7+ years) | $60,000~$76,000 | Large farm management level |
+| average salary | $62,730 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：低（★½☆☆☆）。** 可从普通工人晋升为主管，或转向农场管理、农业技术顾问等职位。
-**AI替代风险：中等（★★½☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium (★★½☆☆).**
 
-主要增长方向：
+Supervisory and administrative tasks for frontline supervisors in agriculture, forestry, and fisheries will be reduced by automation tools, but on-site decision-making and safety coordination are irreplaceable, making the overall risk moderate.
+
+Can advance from general worker to supervisor, or transition to farm management, agricultural technology consultant, etc.
+
+**Tasks most exposed to AI:**
+
+- Shift scheduling and attendance recording (replaced by AI scheduling systems).
+- Production data aggregation and report generation (automated data processing)
+- Inventory and Material Counting (RFID and Drone Counting)
+- Worker performance monitoring and basic feedback (AI analysis of work efficiency)
+- Simple quality inspection (computer vision grading)
+
+**Where AI augments the role:**
+
+- Satellite and drone image-based crop health monitoring decisions
+- Sensor data analysis for precision fertilization and irrigation
+- Use digital twin simulation to optimize production processes
+- AI early warning system assists pest and fire prevention and control
+- Real-time worker positioning and safety risk warnings
+
+**Human moat:**
+
+- On-site judgment for handling sudden mechanical failures and natural disasters
+- Non-standardized interpersonal communication in coordinating multi-ethnic workers
+- Sensory intuition and experiential intervention for abnormal animal behavior
+- Follow organic/sustainable certification compliance decisions
+- Seasonal labor allocation based on regional knowledge
+
+**Skills to build:**
+
+- Agricultural Internet of Things (IoT) and Sensor Integration
+- UAV flight operation and image analysis
+- Data analysis and Excel/Python basics
+- Precision agriculture software operation (e.g., Cropwise)
+- Cross-cultural team management and conflict mediation
+- Knowledge of environmental regulations and carbon accounting
+
+**Key growth areas:**
 
 - Slow growth
 - Retirement replacements
@@ -63,61 +99,63 @@ Directly supervise and coordinate activities of agricultural, forestry, aquacult
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-2A（H-2A Temporary Agricultural Workers） | 季节性农业工人签证，但主管岗位通常不适用 |
-| Subclass H-1B（H-1B Specialty Occupations） | 通常不符合专业职业要求 |
+| Subclass H-2A (H-2A Temporary Agricultural Workers) | Seasonal agricultural worker visa, but supervisor roles usually not applicable |
+| Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements |
+
+**PR friendliness: low (★☆☆☆☆).**
+
+**PR difficulty: very high (★★★★½).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学First-Line Supervisors of Farming, Fishing, and Forestry Workers？**
-- 对农业有热情，愿意户外体力工作的人
-- 有领导能力，能管理季节性工人的人
+**Who is suited**
+- People passionate about agriculture and willing to do outdoor physical work
+- People with leadership skills to manage seasonal workers
 
-**谁不适合学First-Line Supervisors of Farming, Fishing, and Forestry Workers？**
-- 偏好办公室工作或稳定环境的人
-- 期望高薪或快速职业发展的人
+**Who is not suited**
+- Those who prefer office work or a stable environment
+- People expecting high salary or rapid career development
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of frontline supervisors in agriculture, forestry, and fishing?**
+A: Based on BLS 2023 data, the median annual salary is about $54,000, ranging from $38,000 to $76,000 depending on experience and location.
+
+**Q: Are there pathways for this occupation to immigrate to the US?**
+A: This occupation does not meet H-1B specialty occupation requirements; H-2A visas are mainly for short-term workers. Green card pathway through employer sponsorship is difficult, with almost no skilled migration options.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | low (★½☆☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium (★★½☆☆) |
+| PR friendliness | low (★☆☆☆☆) |
+| PR difficulty | very high (★★★★½) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★½☆☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 低（★½☆☆☆） |
-| AI替代风险 | 中等（★★½☆☆） |
-| PR友好度 | 低（★☆☆☆☆） |
-| PR难度 | 高（★★★★½） |
-
-First-Line Supervisors of Farming, Fishing, and Forestry Workers属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for first-line supervisors of farming, fishing, and forestry workers?**
-答：According to BLS 2023 data, the median annual wage is about $54,000, ranging from $38,000 to $76,000 depending on experience and location.
-
-**问：Are there immigration pathways to the US for this occupation?**
-答：This occupation does not meet H-1B specialty occupation criteria; H-2A visa is for temporary workers. Employer-sponsored green card paths are difficult; almost no skilled immigration options.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

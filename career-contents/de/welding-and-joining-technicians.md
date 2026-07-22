@@ -1,59 +1,93 @@
-# Welding and Joining Technicians（Welding and Joining Technicians）职业分析 · DE
+# Welding and Joining Technicians — career analysis · Germany
 
-**职业代码：2442 – Welding and Joining Technicians。**
+**Occupation code: 2442 (KldB)**
 
-Welding and joining technicians perform welding, cutting, brazing, and adhesive bonding of metal or plastic parts, widely used in manufacturing, construction, and maintenance, forming an essential trade in German industry.
+Welding and joining technicians perform welding, cutting, brazing, and bonding of metal or plastic parts, widely used in manufacturing, construction, and repair industries, and are an indispensable skilled trade in German industry.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 双元制职业培训 | 3年 | —（企业承担培训费用，学徒期间有津贴） |
-| 专科学校技术员 | 2年（全日制） | $500~$3,000（部分州免学费，仅收杂费） |
+| Dual vocational training | 3 years | $0~$500 (Employers cover training costs; apprenticeship includes stipend) |
+| Technical college technician | 2 years (full-time) | $500~$3,000 (Tuition-free in some states, only miscellaneous fees apply) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★½☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 焊接技师证书（Schweißfachmann） | 德国焊接学会（DVS） | 可选 | 需通过理论和实践考试 |
-| 国际焊接工程师（IWE） | 国际焊接学会（IIW） | 可选 | 高级资质，要求相关学历 |
-| 职业资格认证（Anerkennung） | 德国联邦劳工局 | 必备 | 海外学历需通过资质认证 |
+| Professional qualification recognition (Anerkennung) | German Federal Employment Agency | Required | Overseas qualifications require credential assessment. |
+| Welding technician certificate (Schweißfachmann) | German Welding Society (DVS) | Optional | Must pass theoretical and practical exams |
+| International Welding Engineer (IWE) | International Institute of Welding (IIW) | Optional | Advanced qualification, relevant degree required. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 120,000。德国制造业和建筑业持续需求焊接技术员，尤其在汽车、机械工程和能源领域。人口老龄化和技术工人短缺导致长期供不应求，就业前景稳定。
+**Job demand: high (★★★★☆).** National workforce approx. 120,000. The German manufacturing and construction sectors have sustained demand for welding technicians, particularly in automotive, mechanical engineering, and energy fields. An aging population and shortage of skilled workers lead to long-term undersupply, ensuring stable employment prospects.
 
-**竞争度：低（★½☆☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: low (★½☆☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$38,000 | 税前年薪，双元制毕业后起薪 |
-| 中级（3-6年） | $38,000~$48,000 | 税前年薪，含加班和津贴 |
-| 高级（6年以上） | $48,000~$60,000 | 税前年薪，技师或监工岗位 |
+| Median salary | $43,836 | Monthly salary gross median ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
+| Entry level (0–3 years) | $28,000~$38,000 | Pre-tax annual salary, starting salary after dual system graduation |
+| Mid-level (3–6 years) | $38,000~$48,000 | Annual pre-tax salary, including overtime and allowances |
+| Senior (6+ years) | $48,000~$60,000 | Annual salary before tax, technician or supervisor position |
+| average salary | $46,476 | Monthly salary gross mean ×12 annualized (Source: Destatis Verdiensterhebung 2025, KldB 3-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 初级焊接工可通过经验积累晋升为焊接技师或监工，进一步可成为焊接工程师或质检专员。双元制培训后亦可考取国际焊接证书，提升薪资空间。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
+
+Entry-level welders can advance to welding technician or supervisor through experience, and further to welding engineer or quality inspector. After dual-system training, they can also obtain international welding certifications to increase salary potential.
+
+**Tasks most exposed to AI:**
+
+- Batch standardised metal parts automatic welding (e.g., car body welding, pipe joints)
+- Robot programming and path planning based on CAD models replace manual teaching
+- Online weld quality inspection (visual inspection + AI defect detection)
+- Automatic adjustment of welding parameters and welding process monitoring
+
+**Where AI augments the role:**
+
+- AI-assisted welding parameter optimization (real-time recommendation of current/voltage based on material thickness and ambient temperature)
+- Augmented reality (AR) welding guidance system improves novice training efficiency
+- Drones/crawler robots equipped with welding modules for high-altitude or hazardous welding
+- Digital twin welding simulation reduces material waste from test pieces
+- AI-driven multi-robot collaborative welding group control
+
+**Human moat:**
+
+- On-site manual welding of non-standard workpieces and confined spaces (e.g., on ships, inside pipes)
+- Welding of pressure vessels and load-bearing structures with high stress and fatigue life requirements
+- Welding process development for dissimilar metals and special alloys (titanium, aluminum-magnesium alloys)
+- Welding quality responsibility determination and repair decisions
+
+**Skills to build:**
+
+- Programming and debugging of welding robots (e.g., FANUC, KUKA, ABB)
+- Welding process simulation software (e.g., Simufact Welding, SYSWELD)
+- Automated welding quality control and testing methods
+- Digital manufacturing basics (CAD/CAM, BOM management)
+- Advanced certifications such as International Welding Engineer (IWE)
+- Operation of AR/VR welding simulation training systems
+
+**Key growth areas:**
 
 - Energy turnaround
 - E-mobility
@@ -62,68 +96,67 @@ Welding and joining technicians perform welding, cutting, brazing, and adhesive 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass EU Blue Card（EU Blue Card） | 如果持有大学学历且薪资达阈值（2024年约43800欧元），可申请蓝卡 |
-| Subclass Skilled Worker（Skilled Worker Visa） | 完成双元制培训并获认证后，可申请技术移民签证 |
-| Subclass Chancenkarte（Opportunity Card） | 基于积分制的求职年签证，适合有资质的焊接技术员 |
+| Subclass EU Blue Card (EU Blue Card) | If holding a university degree and salary threshold is met (approx. €43,800 in 2024), can apply for the Blue Card |
+| Subclass Skilled Worker (Skilled Worker Visa) | After completing and certifying the dual vocational training, you can apply for a skilled migration visa. |
+| Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, suitable for qualified welding technicians |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Welding and Joining Technicians？**
-- 喜欢动手操作和技术工作的人
-- 愿意接受职业培训并考取证书者
-- 寻求稳定就业和蓝领高薪岗位的人
-
-**谁不适合学Welding and Joining Technicians？**
-- 不擅长体力劳动或精细操作的人
-- 对焊接烟雾和噪音敏感者
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who enjoy hands-on and technical work
+- Willing to undergo vocational training and obtain certification
+- Those seeking stable employment and high-paying blue-collar jobs.
+
+**Who is not suited**
+- People not suited for physical labor or fine motor tasks
+- Sensitive to welding fumes and noise
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary cap for Welding Technicians?**
+A: Senior welding technicians or tradespersons can earn up to EUR 60,000 annually; becoming a welding engineer or project manager can exceed EUR 80,000.
+
+**Q: How can overseas welding technicians immigrate to Germany?**
+A: Must first obtain qualification recognition from the German Federal Employment Agency, proving that skills are equivalent to German dual vocational training, then apply for a skilled migration visa or Opportunity Card.
+
+**Q: Can a welding technician be promoted to engineer?**
+A: Yes, by further study to obtain a technician or engineer degree, or by obtaining an International Welding Engineer certificate, you can enter engineering management roles.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BA / destatis | KldB 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | low (★½☆☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★½☆☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Welding and Joining Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary ceiling for welding technicians?**
-答：Senior welding technicians or masters can earn up to €60,000 per year; as welding engineers or project managers, salaries can exceed €80,000.
-
-**问：How can overseas welding technicians immigrate to Germany?**
-答：First obtain recognition of qualifications from the German Federal Employment Agency, then apply for a skilled worker visa or opportunity card.
-
-**问：Can welding technicians become engineers?**
-答：Yes, by pursuing further education to become a technician or engineer, or obtaining an International Welding Engineer certificate, they can move into engineering management.
+- Bundesagentur für Arbeit, Destatis, KldB
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

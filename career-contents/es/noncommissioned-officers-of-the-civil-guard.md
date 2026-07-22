@@ -1,61 +1,97 @@
-# Non-Commissioned Officers of the Civil Guard（Non-Commissioned Officers of the Civil Guard）职业分析 · ES
+# Non-Commissioned Officers of the Civil Guard — career analysis · Spain
 
-**职业代码：3632 – Non-Commissioned Officers of the Civil Guard。**
+**Occupation code: 3632 (CNO)**
 
-Non-commissioned officers of the Civil Guard are mid-level officers in Spain's armed law enforcement agency, responsible for commanding patrols, maintaining public order, border control, traffic enforcement, and counter-terrorism operations. Requires rigorous physical tests and military training.
+National Guard NCOs are mid- to lower-level officers within the Spanish armed forces and law enforcement agencies, responsible for commanding patrols, maintaining public order, border control, traffic enforcement, and counterterrorism operations. They must pass rigorous physical tests and military training.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级中等教育（Bachillerato）或同等学历 | 2年 | —（公立教育免费；书本及材料费自理。） |
-| 军事训练与专业课程（Escala de Suboficiales） | 3年 | —（在军事学院（Academia General del Aire等）受训，食宿和学费由国家承担，学员领取津贴。） |
+| Upper secondary education (Bachillerato) or equivalent | 2 years | $0~$1,000 (Public education is free; Books and materials are self-paid.) |
+| Military Training and Professional Courses (Escala de Suboficiales) | 3 years | $0~$500 (Training at military academies (such as Academia General del Aire), with accommodation, meals, and tuition covered by the state, and cadets receiving allowances.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较高（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 士官专业资质（Diploma de Suboficial） | 国防部（Ministerio de Defensa） | 必备 | 完成军事学院3年课程并通过考试后颁发，是担任士官的必要条件。 |
-| 高级中等教育证书（Bachillerato）或FP Grado Superior | 教育部 | 必备 | 报考基本学历要求，需12年教育或同等职业教育。 |
-| 驾驶执照（B类） | 交通总局（DGT） | 必备 | 岗位职责需要，通常要求B类或以上。 |
+| Non-commissioned Officer Professional Qualification (Diploma de Suboficial) | Ministry of Defense (Ministerio de Defensa) | Required | Awarded after completing the three-year course at a military academy and passing the exam, it is a necessary condition for becoming a non-commissioned officer. |
+| Higher secondary education certificate (Bachillerato) or FP Grado Superior | Ministry of Education | Required | Basic academic requirements for applicants require 12 years of education or equivalent vocational education. |
+| Driver's license (Class B) | Directorate General of Transportation (DGT) | Required | Job responsibilities require this, usually requiring Category B or above. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 45,000。西班牙国民警卫队每年通过公开招录补充约2000名士官岗位，竞争激烈但需求稳定。随着老龄化退役和边境安全需求增加，未来五年员额保持平稳，晋升通道依赖工龄和考核。
+**Job demand: medium (★★½☆☆).** National workforce approx. 45,000. The Spanish National Guard fills about 2,000 NCO positions annually through open recruitment, with fierce competition but stable demand. With aging populations, retirements, and increasing border security needs, the number of personnel will remain stable over the next five years, with promotion paths relying on years of service and assessments.
 
-**竞争度：较高（★★★★☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: high (★★★★☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-5年） | $28,000~$32,000 | 含基本工资、津贴及加班费。 |
-| 中级（5-15年） | $35,000~$45,000 | 含岗位补贴、夜班津贴等。 |
-| 高级（15年以上） | $45,000~$55,000 | 高级士官，含长期服务奖励及特种津贴。 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry-level (0-5 years) | $28,000~$32,000 | Includes base salary, allowances, and overtime pay. |
+| Intermediate (5-15 years) | $35,000~$45,000 | Including post allowances, night shift allowances, etc. |
+| Senior (15+ years) | $45,000~$55,000 | Senior Non-commissioned Officers, including long-term service awards and special allowances. |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★½☆☆）。** 内部晋升路径：从士兵升至士官（Suboficial）通常需8-12年，再通过选拔进修可晋升至高级士官（Suboficial Mayor）或转军官（Oficial）。表现优异者可进入反恐、缉毒等特种单位。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+AI has limited replacement of military tasks, but clerical, planning, and intelligence analysis roles are threatened by automation; AI enhances situational awareness and decision support, presenting both opportunities and risks.
+
+Internal promotion path: It usually takes 8-12 years to advance from soldier to sub-officer, after which further selection and training can lead to promotion to Suboficial Mayor or Oficial. Outstanding performers may enter special units such as counterterrorism and anti-narcotics.
+
+**Tasks most exposed to AI:**
+
+- Administration and clerical work (e.g., scheduling, report compilation)
+- Basic intelligence analysis (pattern recognition, data screening)
+- Basic logistics and supply chain planning and scheduling
+- Routine communication and coding tasks
+- Basic training and simulation scoring
+
+**Where AI augments the role:**
+
+- Real-time battlefield situational awareness (AI fusing multi-sensor data)
+- Decision support system (automatically generates action plan options)
+- Autonomous system monitoring and anomaly detection (drones, unmanned vehicles)
+- Personalized simulation training (AI adjusts difficulty and scenarios)
+- Predictive maintenance of equipment (analyzing vibration, temperature data)
+
+**Human moat:**
+
+- Moral judgment and on-the-spot response in real combat
+- Team leadership and morale maintenance
+- Physical and mental resilience in hazardous environments
+- Adaptability to unstructured and hostile environments
+- Accountability and legal consequences for final decision-making
+
+**Skills to build:**
+
+- Military data literacy and AI tool operation skills
+- Drone/robot system monitoring and coordination
+- Basics of cyber warfare and electronic countermeasures
+- Decision support system usage and validation
+- Cross-domain command and control (C2) system operation and maintenance
+- Basic programming and data analysis (Python, SQL)
+
+**Key growth areas:**
 
 - Internal promotion
 - Specialized units
@@ -64,68 +100,67 @@ Non-commissioned officers of the Civil Guard are mid-level officers in Spain's a
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极低（½☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract (Employed)） | 理论上外国公民可通过工作合同申请，但国民警卫队职位仅限西班牙或欧盟公民，实际上移民路径关闭。 |
-| Subclass Busqueda empleo（Job Search Visa） | 不可用于此类职位，因需西班牙国籍。 |
+| Subclass Cuenta ajena (Work Contract (Employed)) | In theory, foreign citizens can apply through work contracts, but National Guard positions are limited to Spanish or EU citizens, effectively closing immigration pathways. |
+| Subclass Busqueda empleo (Job Search Visa) | Not applicable for such positions, as Spanish nationality is required. |
 
-**PR难度：极高（★★★★★）。**
+**PR friendliness: very low (½☆☆☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Non-Commissioned Officers of the Civil Guard？**
-- 追求稳定职业、热爱军警纪律的人
-- 具有西班牙国籍或长期居留且通过国籍考试者
-- 体能优秀、抗压能力强、适应轮班和夜班者
-
-**谁不适合学Non-Commissioned Officers of the Civil Guard？**
-- 没有西班牙国籍或欧盟国籍者
-- 不喜欢严格等级制度和高强度训练者
+**PR difficulty: very high (★★★★★).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People who pursue stable careers and love military and police discipline
+- Those with Spanish nationality or long-term residency who have passed the nationality exam.
+- Excellent physical fitness, strong stress tolerance, and suitability for shift and night shifts
+
+**Who is not suited**
+- No Spanish or EU nationality
+- Dislikes strict hierarchies and high-intensity training
+
+---
+
+## 8. FAQ
+
+**Q: What is the average annual salary of a National Guard non-commissioned officer?**
+A: Entry-level non-commissioned officer annual salary approximately EUR 28,000-32,000, mid-level EUR 35,000-45,000, senior up to EUR 55,000. Salary includes base pay, position allowances, night shift and weekend overtime pay.
+
+**Q: Can foreign immigrants immigrate to Spain through the National Guard non-commissioned officer position?**
+A: No. This position requires Spanish or EU nationality. Non-EU foreigners cannot hold this position through work residence unless they first obtain Spanish nationality, but nationality usually requires 10 years of legal residence.
+
+**Q: What educational qualifications are required to become a non-commissioned officer?**
+A: Requires completion of upper secondary education (Bachillerato) or equivalent vocational training (FP Grado Superior), then pass a public exam to enter a military academy (e.g., Academia General del Aire) for a 3-year non-commissioned officer course.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | high (★★★★☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | very low (½☆☆☆☆) |
+| PR difficulty | very high (★★★★★) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★★☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 较高（★★★★☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 稳定（★★½☆☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极低（½☆☆☆☆） |
-| PR难度 | 极高（★★★★★） |
-
-Non-Commissioned Officers of the Civil Guard为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average annual salary of a Civil Guard non-commissioned officer?**
-答：Junior NCOs earn around €28,000-€32,000, mid-level €35,000-€45,000, and senior NCOs up to €55,000. Includes base pay, allowances, and overtime.
-
-**问：Can a foreign immigrant migrate to Spain through a Civil Guard NCO position?**
-答：No. The position requires Spanish or EU nationality. Non-EU foreigners cannot obtain a work permit for this role unless they first acquire Spanish nationality, which typically requires 10 years of legal residence.
-
-**问：What education is required to become an NCO?**
-答：Completion of upper secondary education (Bachillerato) or equivalent vocational training (FP Grado Superior), then pass competitive exams to enter a military academy for a 3-year NCO program.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

@@ -1,61 +1,97 @@
-# Specialized Nurse (Except Midwife)（Specialized Nurse (Except Midwife)）职业分析 · ES
+# Specialized Nurse (Except Midwife) — career analysis · Spain
 
-**职业代码：2122 – Specialized Nurse (Except Midwife)。**
+**Occupation code: 2122 (CNO)**
 
-Specialized nurses in Spain provide advanced nursing care in areas such as ICU, surgery, and mental health. They hold a nursing degree and specialized training, focusing on patient assessment, treatment, and health education.
+Specialist nurses provide specialized nursing services in Spanish hospitals or clinics, including operating rooms, intensive care, mental health, and other areas. They must hold a nursing degree and undergo professional training, responsible for patient assessment, treatment implementation, and health education.
 
-> 注：本职业为**受限技术移民职业**，不在ES独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科（Grado en Enfermería） | 4年 | $1,000~$2,500（公立大学学费，私立更高） |
-| 专科培训（Especialidad vía EIR） | 2年 | —（通过住院护士（EIR）考试，带薪培训） |
+| Bachelor's Family (Grado en Enfermería) | 4 years | $1,000~$2,500 (Public university tuition; private is higher) |
+| Specialized Training (Especialidad vía EIR) | 2 years | $0~$500 (Paid training through the Nurse Resident Examination (EIR).) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：困难（★★★★☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 护士学位（Grado en Enfermería） | 西班牙大学 | 必备 | 需为官方学位，方可申请护士资格 |
-| 西班牙护士执照 | 卫生部 | 必备 | 完成学位后须在官方护士协会注册 |
-| 学历认证（Homologación） | 西班牙教育部 | 必备 | 非欧盟学历需认证，耗时1-2年 |
+| Nursing Degree (Grado en Enfermería) | Spanish University | Required | An official degree is required to apply for nursing qualification |
+| Spanish nurse license | Ministry of Health | Required | After completing the degree, you must register with the official Nurses Association |
+| Academic Qualification Certification (Homologación) | Spanish Ministry of Education | Required | Non-EU degrees require certification and take 1-2 years |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 65,000。西班牙老龄化加剧，对专科护士需求持续增长。公共医疗系统扩招，但区域分布不均。COVID-19后重症监护和老年护理岗位增加，预计未来5年就业增长10%以上。
+**Job demand: high (★★★★☆).** National workforce approx. 65,000. Spain's aging population is intensifying, and the demand for specialist nurses continues to grow. The public healthcare system expands enrollment, but regional distribution is uneven. Post-COVID-19, positions in intensive care and aged care have increased, and employment is expected to grow by more than 10% over the next five years.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★★☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: high (★★★★☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $24,000~$30,000 | 公共医院起薪，含夜班补贴 |
-| 中级（4-9年） | $32,000~$38,000 | 有专科经验，私立医院或ICU较高 |
-| 高级（10年以上） | $40,000~$50,000 | 护理主管或专科护士长 |
+| Median salary | $36,790 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $24,000~$30,000 | Starting salary for public hospitals, including night shift allowance |
+| Intermediate (4-9 years) | $32,000~$38,000 | Specialized experience, with higher qualifications in private hospitals or ICUs |
+| Senior (10+ years) | $40,000~$50,000 | Nursing supervisor or specialist head nurse |
+| average salary | $39,356 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：高（★★★★☆）。** 专科护士可从临床护理晋升为护理主管或护士长，也可通过硕士或博士深造成为护理研究员或教育者。部分转向医院管理或公共卫生领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+The work of specialist nurses is being reshaped by AI-assisted technology. Automating tasks such as document processing, data monitoring, and medication verification carries high risks, but core skills such as clinical judgment, patient communication, and emergency response rely on humans, resulting in mixed outcomes overall.
+
+Specialist nurses can be promoted from clinical nursing to nursing supervisor or head nurse, or through master's or doctoral studies, become nursing researchers or educators. Some have shifted toward hospital management or public health.
+
+**Tasks most exposed to AI:**
+
+- Automatic vital sign monitoring and abnormality report generation
+- Medication management and dosage calculation verification
+- Patient care records and electronic medical record document entry
+- Routine patient education Q&A (such as postoperative precautions)
+- Basic data organization and quality indicator tracking
+
+**Where AI augments the role:**
+
+- Using AI-assisted decision support systems for clinical condition assessment
+- Predictive models are used to identify patient deterioration risks in advance
+- Enhance nursing operation skills through virtual reality simulation training
+- Efficiently write nursing reports using natural language processing tools
+- Patient conditions are remotely monitored using smart sensors
+
+**Human moat:**
+
+- Human-machine collaborative judgment and emergency decision-making under complex conditions
+- Empathy and care for patients' psychological and emotional needs
+- Interdisciplinary team coordination and communication leadership
+- Fine tactile feel and adaptability in invasive operations
+- Value judgments and responsibility assumptions in ethical dilemmas
+
+**Skills to build:**
+
+- Clinical data analysis and interpretation of AI predictive models
+- Operation of digital health tools (such as advanced electronic medical record functions and intelligent monitoring platforms).
+- Telecare and virtual care communication skills
+- Medical AI ethics and data privacy protection knowledge
+- Interdisciplinary collaboration and change management capabilities
+- In-depth training in specialized fields (such as intensive care and oncology nursing)
+
+**Key growth areas:**
 
 - Aging population
 - Intensive care
@@ -64,69 +100,68 @@ Specialized nurses in Spain provide advanced nursing care in areas such as ICU, 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：一般（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Cuenta ajena（Work Contract Visa） | 受雇工作居留，需西班牙雇主担保，合同符合最低薪资要求 |
-| Subclass Homologación（Educational Credential Recognition） | 非欧盟护士须先完成学历认证，方可注册执业 |
-| Subclass Altamente cualificad（Highly Skilled Professional Visa） | 适用于高薪（通常>40k€）专科护士，简化流程 |
+| Subclass Cuenta ajena (Work Contract Visa) | Employed work residence requires a Spanish employer sponsor, and the contract meets minimum wage requirements |
+| Subclass Homologación (Educational Credential Recognition) | Non-EU nurses must first complete academic certification before registering to practice |
+| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to highly paid (typically >€40k) specialist nurses, with simplified process. |
 
-**PR难度：困难（★★★★☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Specialized Nurse (Except Midwife)？**
-- 具备耐心和同理心，能在高压环境下工作
-- 愿意接受继续教育和专业培训
-- 希望在西班牙医疗体系长期发展并有移民意向
-
-**谁不适合学Specialized Nurse (Except Midwife)？**
-- 无法承受倒班和夜班压力
-- 不愿花费时间进行学历认证和语言考试
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Patient and empathetic, able to work under high pressure
+- Willing to pursue continuing education and professional training
+- Those who wish to develop long-term in Spain's healthcare system and have immigration intentions
+
+**Who is not suited**
+- They cannot bear the pressure of shifts and night shifts
+- Unwilling to spend time on academic credentials and language exams
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary of specialist nurses in Spain?**
+A: Entry-level about €24,000-30,000/year, mid-level €32,000-38,000, senior up to €40,000-50,000. Public hospitals offer stable salaries, private or special departments are higher.
+
+**Q: What are the main pathways for non-EU nurses to immigrate to Spain?**
+A: Main paths: 1) Complete academic credential authentication (Homologación); 2) Obtain a Spanish employer contract and obtain a work residence permit (Cuenta ajena); 3) If salary meets the requirements, you can apply for a High-Skilled Talent visa (Altamente cualificado).
+
+**Q: What certifications are required for foreign nurses working in Spain?**
+A: Academic credentials (Homologación) must be completed, and registration with the relevant autonomous community nurses association is required. Language proficiency is required, reaching B2 Spanish proficiency.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | high (★★★★☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | high (★★★★☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium (★★★☆☆) |
+| Work intensity | high (★★★★☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 长（★★★★☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 困难（★★★★☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 高（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 一般（★★½☆☆） |
-| PR难度 | 困难（★★★★☆） |
-
-Specialized Nurse (Except Midwife)为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for specialized nurses in Spain?**
-答：Entry-level around €24,000-€30,000, mid-level €32,000-€38,000, senior €40,000-€50,000 annually. Public hospitals offer stability; private or specialized units pay more.
-
-**问：What is the main migration pathway for non-EU nurses to Spain?**
-答：Main pathway: 1) Obtain educational credential recognition (Homologación); 2) Secure a job offer with a work contract visa (Cuenta ajena); 3) If salary meets threshold, apply for Highly Skilled Professional Visa.
-
-**问：What certifications do foreign nurses need to work in Spain?**
-答：Mandatory educational credential recognition (Homologación) and registration with the regional nursing council. Spanish language proficiency at B2 level is required.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

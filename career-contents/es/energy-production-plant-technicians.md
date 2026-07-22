@@ -1,58 +1,91 @@
-# Energy Production Plant Technicians（Energy Production Plant Technicians）职业分析 · ES
+# Energy Production Plant Technicians — career analysis · Spain
 
-**职业代码：3131 – Energy Production Plant Technicians。**
+**Occupation code: 3131 (CNO)**
 
-Operate, maintain, and monitor power generation plants (thermal, hydro, solar, wind) to ensure safe and efficient energy production.
+Responsible for operating, maintaining, and monitoring power generation facilities (thermal, hydro, photovoltaic, wind power, etc.) to ensure safe and efficient operation.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 高级职业培训（FP Grado Superior） | 2年 | $500~$2,000（公立学校学费约500-2000欧元/年，私立较高） |
-| 大学本科（Grado） | 4年 | $1,000~$6,000（公立大学约1000-2000欧元/年，私立可达6000欧元/年） |
+| Advanced Vocational Training (FP Grado Superior) | 2 years | $500~$2,000 (Public school tuition is about 500-2000 euros per year, while private schools are higher) |
+| Undergraduate (Grado) | 4 years | $1,000~$6,000 (Public universities about €1,000-2,000 per year, private up to €6,000 per year.) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 高级技术员（Técnico Superior en Centrales Eléctricas） | 教育部（FP） | 必备 | 官方职业培训学历，必备入门资格 |
-| 高压电操作认证（Hasta Alta Tensión） | 工业部认可的培训机构 | 可选 | 特定岗位需持有，部分雇主强制要求 |
+| Senior Technician (Técnico Superior en centrales eléctricas) | Ministry of Education (FP) | Required | Official vocational training qualifications, mandatory entry qualifications |
+| High Voltage Electrical Operation Certification (Hasta Alta Tensión) | A training institution recognized by the Ministry of Industry | Optional | Certain positions require it, and some employers require it |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★★☆）。** 全国从业人数约 18,000。西班牙能源转型加速，可再生能源装机量持续增长，预计2025-2030年该岗位需求将增长15%，尤其光伏与风电运维岗位。
+**Job demand: medium-high (★★★★☆).** National workforce approx. 18,000. Spain's energy transition is accelerating, with renewable energy installations continuing to grow. Demand for these positions is expected to increase by 15% from 2025 to 2030, especially in photovoltaic and wind power O&M roles.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 税前年薪 |
-| 中级（3-7年） | $28,000~$36,000 | 税前年薪 |
-| 高级（7年以上） | $36,000~$45,000 | 税前年薪，主管级更高 |
+| Median salary | $28,325 | National annual salary median (Source: INE EAES 2022, CNO major group) |
+| Entry level (0–3 years) | $22,000~$28,000 | Annual pre-tax salary |
+| Mid-level (3–7 years) | $28,000~$36,000 | Annual pre-tax salary |
+| Senior (7+ years) | $36,000~$45,000 | Pre-tax annual salary, higher supervisor level |
+| average salary | $31,900 | National annual salary mean (Source: INE EAES 2022, CNO major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技术员晋升为高级技师或团队主管，也可通过进修工程师学位进入项目设计或管理岗位。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
+
+You can be promoted from junior technician to senior technician or team leader, or enter project design or management positions through advanced engineering degrees.
+
+**Tasks most exposed to AI:**
+
+- Monitor power generation equipment dashboards and record data in real time
+- Performs routine startup, shutdown, and load regulation operations
+- Identify and respond to preset alarm signals.
+- Generate daily operation reports and maintenance logs
+
+**Where AI augments the role:**
+
+- AI predictive maintenance: analyzing sensor data to warn of equipment failures early
+- Intelligent dispatching: optimize generation load distribution, improve efficiency and reduce costs
+- Virtual training: use AR/VR to simulate emergency scenarios for practice
+- Remote assistance: AI expert system helps diagnose complex faults
+
+**Human moat:**
+
+- Quick judgment and manual operation skills in emergencies
+- cross-system coordination and communication (grid dispatch, maintenance teams)
+- Intuitive experience with equipment physical characteristics (e.g., abnormal sounds, vibrations)
+- Responsibility and compliance decisions (critical for grid stability and safety)
+
+**Skills to build:**
+
+- Industrial IoT and sensor data analysis
+- AI monitoring system operation and anomaly investigation
+- Basic programming (Python/SCADA scripting)
+- Knowledge of electricity markets and dispatch optimization
+- Emergency response and crisis management
+- Digital operations and maintenance tools (CMMS, digital twins)
+
+**Key growth areas:**
 
 - Renewable energy
 - Energy transition
@@ -61,63 +94,62 @@ Operate, maintain, and monitor power generation plants (thermal, hydro, solar, w
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Tarjeta azul UE（EU Blue Card） | 适用于高技能专业技术员，需大学学历或同等经验，年薪约达33,908欧元（2025门槛）。 |
-| Subclass Cuenta ajena（Work Permit (Employed)） | 西班牙工作居留，需雇主担保，适合持有FP或以上学历者。 |
+| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled technical specialists requiring a university degree or equivalent experience, annual salary approximately €33,908 (2025 threshold). |
+| Subclass Cuenta ajena (Work Permit (Employed)) | Spanish work residence requires employer sponsorship, suitable for those holding an FP or higher qualification. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Energy Production Plant Technicians？**
-- 喜欢动手操作与维护设备的技术型人才
-- 对能源行业感兴趣，愿意接受户外或轮班工作
-
-**谁不适合学Energy Production Plant Technicians？**
-- 无法适应倒班或恶劣天气作业者
-- 希望纯办公室工作或低体力劳动的人
+**PR difficulty: medium (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Technical talent who enjoys hands-on operation and maintenance of equipment
+- Interested in the energy industry, willing to accept outdoor or shift work
+
+**Who is not suited**
+- Those who cannot adapt to shift shifts or harsh weather conditions
+- Those who want pure office work or low physical labor
+
+---
+
+## 8. FAQ
+
+**Q: What are the salary levels for energy technicians in Spain?**
+A: Junior approximately EUR 22,000-28,000/year, intermediate EUR 28,000-36,000/year, senior up to EUR 45,000/year.
+
+**Q: How can third-country citizens immigrate to Spain to work in this profession?**
+A: You can use the EU Blue Card (requiring education and annual salary requirements) or work residence (employer sponsorship). This occupation is in short supply, and some positions may have simplified procedures.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| SEPE / INE | CNO 薪资与需求 |
+| Learning duration | medium (★★★☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium-high (★★★★☆) |
+| Competition | medium (★★★☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Energy Production Plant Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for energy plant technicians in Spain?**
-答：Junior: €22,000-28,000, intermediate: €28,000-36,000, senior: up to €45,000 gross annually.
-
-**问：How can third-country nationals migrate to Spain for this occupation?**
-答：Via EU Blue Card (requires degree and salary threshold) or work permit with employer sponsorship. It is a shortage occupation, easing some procedures.
+- INE, SEPE, CNO-11
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

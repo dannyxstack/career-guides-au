@@ -1,62 +1,93 @@
-# Secretariat（Secretariat）职业分析 · FR
+# Secretariat — career analysis · France
 
-**职业代码：M1607 – Secretariat。**
+**Occupation code: M1607 (ROME)**
 
-A secretary manages administrative tasks, schedules appointments, handles correspondence and documents, supporting efficient organizational operations.
+The secretary is responsible for managing administrative affairs, scheduling, handling communications and documents, and supporting the efficient operation of the organization.
 
-> 注：本职业为**非技术移民职业**，不在FR技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| CAP/BEP 秘书 | 2年 | —（公立免费，私立2000-3000 €） |
-| BTS 秘书或行政管理 | 2年（BTS） | —（公立免费，私立3000-5000 €） |
-| Licence 专业 (行政/秘书) | 3年（Licence） | —（公立大学约0-3000 €，私立5000-8000 €） |
+| Secretary of CAP/BEP | 2 years | $0~$3,000 (Public schools are free, private ones are 2000-3000 €) |
+| BTS secretary or administrative manager | 2 Years (BTS) | $0~$5,000 (Public schools are free, private ones are 3000-5000 €) |
+| Licence Major (Administration/Secretary) | 3 years (Licence) | $0~$8,000 (Public universities cost about €0-3000, private ones €5000-8000) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| CAP/BEP 秘书 | 教育部 | 可选 | 基础文凭，非强制但高中学历即可胜任 |
-| BTS 秘书或行政管理 | 教育部 | 可选 | 最相关文凭，建议持有 |
-| TOEIC 或英语证书 | ETS | 可选 | 部分国际化企业要求 |
+| Secretary of CAP/BEP | Ministry of Education | Optional | A basic diploma is not mandatory, but a high school diploma is sufficient |
+| BTS secretary or administrative manager | Ministry of Education | Optional | The most relevant diplomas are recommended to hold |
+| TOEIC or English certificate | ETS | Optional | Some international enterprises require this |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 250,000。在法国，随着企业数字化，秘书的角色正向更高级的行政支持发展，需求稳定但竞争中等。
+**Job demand: medium-high (★★★½☆).** National workforce approx. 250,000. In France, as companies digitize, the role of secretaries is evolving toward higher-level administrative support, with stable demand but moderate competition.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $18,000~$24,000 | 税前年薪，约SMIC-2000 €/月 |
-| 中级（3-7年） | $24,000~$30,000 | 税前年薪，经验丰富者可达2500 €/月 |
-| 高级（7年以上） | $30,000~$38,000 | 税前年薪，高级秘书或行政助理 |
+| Median salary | $27,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $18,000~$24,000 | Pre-tax annual salary, about SMIC-2000 €/month |
+| Mid-level (3–7 years) | $24,000~$30,000 | Pre-tax annual salary, with experienced individuals reaching up to €2500/month |
+| Senior (7+ years) | $30,000~$38,000 | Pre-tax annual salary, senior secretary or administrative assistant |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 初级秘书可晋升为高级秘书、行政助理或办公室经理，也可通过继续教育转向人力资源管理或项目管理。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+Secretary positions face significant AI impact: core tasks like scheduling and document processing will be automated by AI, while tasks requiring judgment and interpersonal interaction, such as senior administrative assistants and meeting coordination, will be enhanced. The entry threshold is lowered, but senior positions require even higher requirements.
+
+Junior secretaries can be promoted to senior secretaries, administrative assistants, or office managers, and can also transition to human resources management or project management through continuing education.
+
+**Tasks most exposed to AI:**
+
+- Schedule and calendar management: AI can automatically coordinate time and send reminders
+- Basic document processing: drafting templated letters and organizing and archiving
+- Data entry and report generation: Automatically extract key information from meeting minutes
+- Travel booking: AI can search for the best options and complete bookings
+
+**Where AI augments the role:**
+
+- Complex meeting organization: AI helps organize agendas and background materials, while secretaries focus on handling unexpected issues
+- Senior Communication and Coordination: AI provides preference analysis for all participants, and secretaries optimize communication strategies
+- Information filtering and prioritization: AI flags important emails, and secretaries decide the order of processing
+- Internal Process Optimization: AI analyzes administrative data, and secretaries propose improvement plans
+
+**Human moat:**
+
+- Handling fuzzy/exceptions: making judgments when AI outputs are unreasonable
+- Cross-departmental interpersonal coordination: building trust and engaging in sensitive dialogue
+- Confidential information handling: prudent management of privacy and ethics
+- Strategic support: Providing executives with personalized, forward-looking advice
+
+**Skills to build:**
+
+- Master AI office tools: Copilot, Grammarly, Zapier
+- Basic Data Analysis: Extracting insights from administrative data
+- Project Management: Coordinating complex tasks across multiple teams
+- Cross-cultural communication: adapting to a global organization
+- Crisis Management: Quickly respond to emergencies with AI assistance
+
+**Key growth areas:**
 
 - Administrative support
 - Digital transformation
@@ -65,65 +96,67 @@ A secretary manages administrative tasks, schedules appointments, handles corres
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Salarié（Work permit (Salarié)） | 标准受雇工作居留，需法国雇主提供CDI/CDD合同，符合法国就业市场条件。 |
-| Subclass Recherche emploi（Job search permit (Recherche d'emploi)） | 留法学生毕业后可申请此类居留找工作，有效期1年。 |
+| Subclass Salarié (Work permit (Salarié)) | Standard employment-based residence requires a CDI/CDD contract from a French employer to meet the conditions of the French employment market. |
+| Subclass Recherche emploi (Job search permit (Recherche d'emploi)) | After graduation, students studying in France can apply for this type of residence to find work, valid for one year. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: high (★★★★☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Secretariat？**
-- 注重细节、组织能力强的人
-- 善于沟通和协调的人
-- 喜欢稳定办公室环境的人
+**Who is suited**
+- Detail-oriented, organized individuals
+- People who are good at communication and coordination
+- People who prefer a stable office environment
 
-**谁不适合学Secretariat？**
-- 不擅长多任务处理的人
-- 希望高薪或快速晋升的人
+**Who is not suited**
+- People not good at multitasking
+- Those aiming for high salary or fast promotion
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the average pre-tax annual salary for secretaries in France?**
+A: Beginner is about €18-24k, intermediate €24-30k, and advanced €30-38k.
+
+**Q: How can non-EU citizens immigrate to France as a secretary?**
+A: Usually, a French employer must provide a work contract to apply for the Salarié visa; Secretarial positions are not in short supply, and competition is relatively difficult.
+
+**Q: What educational qualifications are required for a French secretary?**
+A: Typically, BTS secretary or administrative management diplomas are the most recognized, but CAP/BEP are also entry-level.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| France Travail / INSEE | ROME 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★½☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | high (★★★★☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
-
-Secretariat属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average gross annual salary for a secretary in France?**
-答：Entry-level about 18-24k €, mid-level 24-30k €, senior 30-38k €.
-
-**问：How can a non-EU citizen immigrate to France as a secretary?**
-答：Requires a job offer from a French employer for a Salarié visa; secretaries are not in shortage, making sponsorship difficult.
-
-**问：What education is required to be a secretary in France?**
-答：A BTS in secretariat or administrative management is preferred, but CAP/BEP can suffice for entry-level.
+- INSEE, France Travail, ROME
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

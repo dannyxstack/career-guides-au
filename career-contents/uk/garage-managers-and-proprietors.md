@@ -1,58 +1,93 @@
-# Garage managers and proprietors（Garage managers and proprietors）职业分析 · UK
+# Garage managers and proprietors — career analysis · United Kingdom
 
-**职业代码：1252 – Garage managers and proprietors。**
+**Occupation code: 1252 (SOC)**
 
-Plan, organise, direct and coordinate the day-to-day running of garages and specialist vehicle maintenance and repair establishments.
+Plan, organize, direct, and coordinate the daily operations of garages and specialist vehicle repair workshops, ensuring profitability and meeting customer needs.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| 中等教育及职业培训 | 2-4年 | —（通过学徒制或职业课程，学费因机构而异） |
-| 高等教育（可选） | 2年 | $9,000~$15,000（部分大学提供汽车管理相关HND或学位） |
+| secondary education and vocational training | 2-4 years | $0~$10,000 (Through apprenticeship or vocational courses, tuition varies by institution) |
+| Higher education (optional) | 2 years | $9,000~$15,000 (Some universities offer automotive management-related HND or degrees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 汽车维修高级文凭 | City & Guilds / IMI | 可选 | 通常要求至少Level 3资格 |
-| 车库管理经验 | 不适用 | 可选 | 多数雇主看重管理经验而非正式学历 |
+| Advanced Diploma of Automotive Repair | City & Guilds / IMI | Optional | Typically requires at least a Level 3 qualification |
+| Garage management experience | Not applicable | Optional | Most employers value management experience over formal qualifications |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。随着汽车保有量稳定增长和电动汽车维修需求上升，该职业就业前景稳定，但竞争激烈。独立经营需较强商业技能。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. With stable growth in vehicle ownership and rising demand for electric vehicle repairs, the employment outlook for this occupation is stable but competitive. Independent operation requires strong business skills.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：高（★★★½☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $22,000~$28,000 | 助理经理或小型车库经营者 |
-| 中级（3-5年） | $28,000~$40,000 | 中型车库经理或自营者 |
-| 高级（5年以上） | $40,000~$60,000 | 大型车库/连锁店经理或成功自营者 |
+| Median salary | $34,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $22,000~$28,000 | Assistant manager or small garage operator |
+| Mid-level (3–5 years) | $28,000~$40,000 | Medium garage manager or self-employed |
+| Senior (5+ years) | $40,000~$60,000 | Large garage/chain manager or successful self-employed operator |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：中等（★★½☆☆）。** 可从高级技师或服务顾问晋升至分店经理或区域经理，也可通过积累经验与资金自主创业开设车库。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+AI will partially replace administrative and diagnostic tasks but enhance repair decision-making and customer service capabilities, expanding the overall scope of responsibilities, requiring mastery of AI tools.
+
+Can progress from senior technician or service advisor to branch manager or regional manager, or start their own garage through accumulated experience and capital.
+
+**Tasks most exposed to AI:**
+
+- Automated scheduling and inventory management systems take over manual scheduling
+- AI diagnostic tools automatically detect vehicle fault codes
+- Online booking and customer service chatbots handle appointments
+- Automation of financial bookkeeping and report generation
+- Supplier quote comparison and automated replenishment system
+
+**Where AI augments the role:**
+
+- AI-assisted vehicle fault diagnosis and repair suggestions
+- Data analysis to optimize workstation utilization and maintenance processes
+- Digital twin technology simulates maintenance plan outcomes
+- Remote expert systems guide complex repairs via AR
+- Customer behavior analysis boosts service loyalty
+
+**Human moat:**
+
+- Creative repair of rare or complex faults
+- Managing customer trust and long-term relationship maintenance
+- Supervising safety compliance and quality control responsibilities
+- Coordinate multi-skilled teams and emergency repair decisions
+- Ethical judgment and client privacy protection
+
+**Skills to build:**
+
+- Operation of AI fault diagnosis tools
+- Data Analysis and Performance Indicator Interpretation
+- Digital inventory and scheduling system management
+- Customer Relationship Management (CRM) and automated marketing
+- Safety regulation updates and compliance knowledge
+- Cross-departmental collaboration and project management
+
+**Key growth areas:**
 
 - Automotive repair
 - Electric vehicle maintenance
@@ -61,67 +96,66 @@ Plan, organise, direct and coordinate the day-to-day running of garages and spec
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 需雇主担保，职位在可担保职业清单上。通常要求年薪不低于£26,200（或Going Rate）。 |
-| Subclass Graduate（Graduate visa） | 适合英国毕业生，允许在英工作2年（博士3年），积累经验后转为工签。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, and the position must be on the list of eligible occupations. Typically requires an annual salary of at least £26,200 (or the Going Rate). |
+| Subclass Graduate (Graduate visa) | Suitable for UK graduates, allows working in the UK for 2 years (3 years for PhD) to gain experience before switching to a work visa. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★½☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Garage managers and proprietors？**
-- 对汽车维修有浓厚兴趣且具备管理能力者
-- 有创业精神，愿意承担经营风险者
-- 具备良好客户服务与团队领导能力者
-
-**谁不适合学Garage managers and proprietors？**
-- 不喜欢直接与客户沟通或处理投诉者
-- 不愿承担财务责任和长时间工作压力者
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Those with strong interest in auto repair and management skills
+- Entrepreneurial individuals willing to take business risks
+- Those with strong customer service and team leadership skills
+
+**Who is not suited**
+- Dislikes direct client communication or handling complaints
+- Those unwilling to bear financial responsibility and long working hours pressure
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a garage manager?**
+A: Entry-level: approximately £22,000-£28,000; mid-level: approximately £28,000-£40,000; senior: up to £40,000-£60,000; self-employed income varies significantly.
+
+**Q: Can overseas individuals come to the UK on a Skilled Worker visa to work as a garage manager?**
+A: Yes, but requires employer sponsorship, salary meeting minimum requirement (usually £26,200), and position on eligible occupations list for Skilled Worker visa.
+
+**Q: What are the career development prospects for a garage manager?**
+A: Can advance from technical role to management; future options include managing franchise chains, opening independent garages, or entering automotive training or consulting.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | medium (★★½☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 中等（★★½☆☆） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Garage managers and proprietors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for a garage manager?**
-答：Entry-level around £22,000-£28,000, mid-level £28,000-£40,000, senior up to £40,000-£60,000; self-employed income varies.
-
-**问：Can overseas workers get a Skilled Worker visa as a garage manager?**
-答：Yes, with employer sponsorship and meeting the minimum salary threshold (typically £26,200), provided the occupation is on the eligible list.
-
-**问：What is the career progression for garage managers?**
-答：Can advance from technical roles to management, eventually manage multiple sites, start own garage, or move into automotive training and consultancy.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

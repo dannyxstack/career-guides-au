@@ -1,58 +1,93 @@
-# Legal secretaries（Legal secretaries）职业分析 · UK
+# Legal secretaries — career analysis · United Kingdom
 
-**职业代码：4212 – Legal secretaries。**
+**Occupation code: 4212 (SOC)**
 
-Legal secretaries file and maintain legal records, transcribe notes and dictation, and perform routine clerical tasks in legal practices.
+Legal secretaries manage document filing, transcribe dictations, and perform other routine clerical tasks in law firms, supporting lawyers efficiently.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：低（★☆☆☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (GBP) |
 |---|---|---:|
-| A-Level或同等学历 | 2年 | —（公立学校免费） |
-| 法律秘书职业文凭 | 1年 | $1,000~$3,000（部分在线课程费用较低） |
+| A-Level or equivalent | 2 years | $0~$0 (Free public schools.) |
+| Diploma in Legal Secretarial Practice | 1 year | $1,000~$3,000 (Some online courses have lower fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 法律秘书文凭 | 英国法律行政协会 | 可选 | 提升就业竞争力 |
-| 秘书技能证书 | 培生或城市行业协会 | 可选 | 常见入门要求 |
+| Diploma of Legal Secretary | Institute of Legal Executives (ILEX). | Optional | Enhance employment competitiveness |
+| Secretarial skills certificate | Pearson or City & Guilds | Optional | Common Entry Requirements |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 45,000。英国法律秘书岗位需求稳定，但受自动化影响增长缓慢。未来十年就业人数预计小幅下降约5%，但法律行业持续需要行政支持。
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 45,000. Demand for legal secretaries in the UK is stable but slow-growing due to automation. Employment is expected to decline slightly by about 5% over the next decade, but the legal industry still needs administrative support.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（GBP） | 备注 |
+| Experience | Annual salary (GBP) | Note |
 |---|---:|---|
-| 初级（0-3年） | $19,000~$24,000 | 伦敦略高 |
-| 中级（3-7年） | $24,000~$30,000 | 具备专业经验 |
-| 高级（7年以上） | $30,000~$38,000 | 大型律所或专项领域 |
+| Median salary | $26,968 | Full-time annual salary gross median (Source: ONS ASHE 2025, SOC 4-digit level) |
+| Entry level (0–3 years) | $19,000~$24,000 | Slightly higher in London |
+| Mid-level (3–7 years) | $24,000~$30,000 | with professional experience |
+| Senior (7+ years) | $30,000~$38,000 | Large law firms or specialized fields |
+| average salary | $29,332 | Full-time annual salary gross mean (Source: ONS ASHE 2025, SOC 4-digit level) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：稳定（★★★☆☆）。** 通常从初级文书起步，积累经验后可晋升为高级法律秘书或办公室经理，也可转向专业法律行政岗位。
-**AI替代风险：中高（★★★½☆）。**
+**Future prospect: medium-high (★★★☆☆).**
+**AI replacement risk: medium-high (★★★½☆).**
 
-主要增长方向：
+Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
+
+Usually start as a junior clerk, advance to senior legal secretary or office manager with experience, or move to specialized legal administrative roles.
+
+**Tasks most exposed to AI:**
+
+- Draft standardized letters and meeting minutes (AI-generated templates)
+- Schedule and manage calendars and reminders (smart scheduling tools)
+- Answer and transfer routine calls (AI voice customer service)
+- Maintain and retrieve paper/electronic files (document management system)
+- Data entry and organization (RPA and OCR automation)
+
+**Where AI augments the role:**
+
+- Responsible for complex or sensitive business communication (requiring empathy and strategy)
+- Coordinating multiple conflicting agendas and making trade-offs (interpersonal negotiation)
+- Training or supervising AI tool output quality (human-machine collaboration)
+- Handling sudden administrative crises (adaptability)
+- Manage confidential or high-level affairs (trust and confidentiality)
+
+**Human moat:**
+
+- Situations requiring empathy and nuanced communication
+- Confidentiality and high-trust working relationships
+- Unstructured problem-solving and handling unexpected situations
+- Cross-department coordination and power dynamics assessment
+
+**Skills to build:**
+
+- AI office tool usage and process optimization
+- Basic data analysis and report making
+- Project coordination and stakeholder management
+- Social media and digital content management
+- Advanced communication and writing skills
+- Ability to quickly learn new software
+
+**Key growth areas:**
 
 - Legal support
 - Administrative efficiency
@@ -61,68 +96,67 @@ Legal secretaries file and maintain legal records, transcribe notes and dictatio
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Skilled Worker（Skilled Worker visa） | 满足薪资门槛（通常£26,200/年）且雇主担保，可申请工作签证。 |
-| Subclass Graduate（Graduate visa） | 在英国完成学位的毕业生可申请2年居留，积累工作经验后转技术工签。 |
-| Subclass Youth Mobility Schem（Youth Mobility Scheme） | 部分国家18-30岁青年可获2年签证，自由工作，适合积累经验。 |
+| Subclass Skilled Worker (Skilled Worker visa) | Meet the salary threshold (usually £26,200/year) and have employer sponsorship to apply for a work visa. |
+| Subclass Graduate (Graduate visa) | Graduates who complete a degree in the UK can apply for a 2-year stay to gain work experience before switching to a skilled work visa. |
+| Subclass Youth Mobility Schem (Youth Mobility Scheme) | In some countries, young people aged 18-30 can get a 2-year visa to work freely, ideal for gaining experience. |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Legal secretaries？**
-- 注重细节、组织能力强的人
-- 希望在法律行业从事辅助工作而非专业角色的人
-- 寻求稳定办公室岗位的人
-
-**谁不适合学Legal secretaries？**
-- 追求高薪或快速晋升的人
-- 不喜欢重复性文书工作的人
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Detail-oriented, organized individuals
+- Those who wish to work in support roles rather than professional positions in the legal industry
+- People seeking stable office positions
+
+**Who is not suited**
+- People seeking high salary or rapid promotion
+- People who dislike repetitive clerical work
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of a legal secretary in the UK?**
+A: Entry-level around GBP 19,000–24,000, mid-level GBP 24,000–30,000, senior up to GBP 38,000. London salaries are typically 10-15% higher.
+
+**Q: Can a legal secretary immigrate to the UK via a skilled work visa?**
+A: Yes, this occupation is on the list of eligible occupations, requires employer sponsorship and meeting salary threshold (usually £26,200/year).
+
+**Q: Is there room for advancement for legal secretaries?**
+A: Can advance to senior secretary, office manager, or transition to legal administrative specialist, but promotion paths are limited.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| ONS ASHE | SOC 薪资与需求 |
+| Learning duration | low (★☆☆☆☆) |
+| Learning difficulty | low (★☆☆☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | medium-high (★★★☆☆) |
+| AI replacement risk | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★☆☆☆☆） |
-| 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Legal secretaries的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for legal secretaries in the UK?**
-答：Entry-level: £19,000-£24,000; mid-level: £24,000-£30,000; senior: up to £38,000. London premiums may apply.
-
-**问：Can a legal secretary migrate to the UK via a Skilled Worker visa?**
-答：Yes, the role is eligible for sponsorship, provided the salary threshold (usually £26,200) is met and an employer sponsors.
-
-**问：Are there career progression opportunities for legal secretaries?**
-答：Yes, to senior secretary, office manager, or legal administration specialist, though limited.
+- ONS, National Careers Service, SOC 2020
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

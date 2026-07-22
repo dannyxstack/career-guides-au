@@ -1,60 +1,96 @@
-# Content Creator (Marketing)（Content Creator (Marketing)）职业分析 · 新西兰
+# Content Creator (Marketing) — career analysis · New Zealand
 
-**职业代码：225114 – Content Creator (Marketing)。**
+**Occupation code: 225114 (ANZSCO)**
 
-Conceptualizes, produces, and distributes digital content (videos, blogs, social media posts) to boost brand awareness, blending creativity with data analysis. Eligible for residence via Green List or Skilled Migrant Category in New Zealand.
+Responsible for planning, creating, and distributing digital content (videos, blogs, social media posts) to enhance brand awareness, combining creativity with data analysis. In New Zealand, may apply for residency via the Green List or skilled migration pathways.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★★☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (NZD) |
 |---|---|---:|
-| 本科（无相关背景） | 3年 | $30,000~$45,000（国际学生学费，本科课程如商科/市场营销） |
-| 文凭/证书（1年加速） | 1年 | $15,000~$25,000（私立院校数字营销/内容创作课程） |
-| 在线课程 | 6个月 | $3,000~$8,000（如Coursera、Google Digital Garage证书） |
+| Bachelor's degree (no relevant background required) | 3 years | $30,000~$45,000 (International student tuition fees for undergraduate programs such as Business/Marketing) |
+| Diploma/Certificate (1-year accelerated) | 1 year | $15,000~$25,000 (Digital marketing/content creation courses from private institutions) |
+| Online courses | 6 months. | $3,000~$8,000 (Certificates like Coursera, Google Digital Garage) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★☆☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 数字营销文凭 | 新西兰理工学院（如Unitec） | 可选 | 非强制，但有助于就业 |
-| Google Analytics认证 | Google | 可选 | 数据分析能力证明 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民语言要求 |
+| IELTS 6.5 | IELTS | Required | Language requirements for skilled migration |
+| Diploma of Digital Marketing | New Zealand Institutes of Technology (e.g., Unitec) | Optional | Not mandatory, but helpful for employment |
+| Google Analytics Certification | Google | Optional | Proof of data analysis skills |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰数字营销行业持续增长，企业对内容创作者需求旺盛，尤其在奥克兰、惠灵顿等城市。预计未来五年岗位增长率为10-15%，但竞争激烈，具备数据分析能力者更受青睐。
+**Job demand: high (★★★★☆).** National workforce approx. 3,500. New Zealand's digital marketing industry continues to grow, with strong demand for content creators, especially in cities like Auckland and Wellington. The job growth rate is expected to be 10-15% over the next five years, but competition is fierce, and candidates with data analysis skills are preferred.
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（NZD） | 备注 |
+| Experience | Annual salary (NZD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 就业初期年薪，包含奖金 |
-| 中级（3-6年） | $65,000~$85,000 | 有经验后薪资提升 |
-| 高级（6年以上） | $85,000~$110,000 | 内容策略师或团队领导角色 |
+| Median salary | $92,768 | Weekly median income ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
+| Entry level (0–3 years) | $50,000~$65,000 | Starting annual salary including bonuses |
+| Mid-level (3–6 years) | $65,000~$85,000 | Salary increases with experience |
+| Senior (6+ years) | $85,000~$110,000 | Content strategist or team leader role |
+| average salary | $99,840 | Weekly mean ×52 annualized (Source: Stats NZ 2025, ANZSCO 1-digit major group) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：好（★★★★☆）。** 初级内容创作者可晋升为高级内容策略师、社交媒体经理或数字营销主管；积累经验后可转向品牌管理或独立创业。持续学习SEO、视频制作和数据分析技能是关键。
-**AI替代风险：中等（★★★☆☆）。**
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+content creators (marketing) are winners in the AI era: automation tools take over repetitive tasks, allowing creators to focus on creativity and strategy, while data analysis capabilities are amplified, but beware of industry barriers rising due to the proliferation of AI tools.
+
+Junior content creators can advance to senior content strategist, social media manager or digital marketing executive; with experience, they can move into brand management or start their own business. Continuous learning of SEO, video production and data analysis skills is key.
+
+**Tasks most exposed to AI:**
+
+- Basic copy generation (e.g., product descriptions, social media post drafts).
+- Data collection and preliminary analysis (e.g., audience insights, content performance reports)
+- Content layout and format adjustment (e.g., auto-adapting to multi-platform sizes)
+- Simple video editing and subtitle generation
+- SEO keyword research and basic optimization
+
+**Where AI augments the role:**
+
+- Creative ideation and strategy planning (AI provides data-driven inspiration suggestions)
+- Personalized content creation (AI-assisted generation of material for different audience segments)
+- Real-time content performance monitoring and optimization (AI automatically adjusts delivery strategies)
+- Multilingual content localization and translation (AI reduces labor costs)
+- Advanced data analysis and attribution modeling (AI reveals deep user behavior patterns)
+
+**Human moat:**
+
+- Deep content creation focused on brand story and emotional resonance
+- Creative direction and strategic decisions based on human intuition
+- Cross-channel integrated marketing and user journey design
+- Ability to build genuine interpersonal relationships with KOLs/clients
+- Ethical judgment in crisis communication and handling sensitive topics
+
+**Skills to build:**
+
+- Advanced application of AI content generation tools (e.g., ChatGPT, Jasper, Midjourney)
+- Data analysis and visualisation (Python/Tableau)
+- Automated marketing tool configuration (e.g., HubSpot, Marketo)
+- Prompt engineering and model fine-tuning
+- Video production and animation basics (improving AI tool collaboration efficiency)
+- A/B testing and conversion rate optimization methodology
+
+**Key growth areas:**
 
 - Digital Marketing
 - Social Media
@@ -63,69 +99,68 @@ Conceptualizes, produces, and distributes digital content (videos, blogs, social
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，需满足6分制（学历+工作经验），职业在ANZSCO技能等级1-3，且时薪不低于中位数（2025年约30.50纽币） |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 绿色清单二类职业，需从事该职业并工作满24个月后申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，需有认证雇主担保，时薪不低于中位数，可衔接居留路径 |
-| Subclass Student / Post-study（Post-study Work Visa） | 毕业后工签，适合完成相关学历的毕业生积累本地工作经验 |
+| Subclass SMC (Skilled Migrant Category) | Skilled migration category, requiring a 6-point system (qualifications + work experience), occupation at ANZSCO skill level 1-3, and hourly wage no less than the median (approx. NZD 30.50 in 2025) |
+| Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2 occupation, requires working in the occupation for 24 months before applying for residence |
+| Subclass AEWV (Accredited Employer Work Visa) | Employer-specific work visa, requires an accredited employer sponsor, hourly wage not below the median, can lead to a residence pathway |
+| Subclass Student / Post-study (Post-study Work Visa) | Post-graduation work visa, suitable for graduates completing relevant qualifications to gain local work experience |
 
-**PR难度：中等（★★★☆☆）。**
+**PR friendliness: medium-high (★★★☆☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Content Creator (Marketing)？**
-- 热爱创意内容制作，具备基础视频/图像编辑技能
-- 对数字营销和社交媒体趋势敏感，乐于数据分析
-- 能独立工作并快速学习新工具
-
-**谁不适合学Content Creator (Marketing)？**
-- 不喜欢频繁更新内容或应对短周期项目
-- 缺乏视觉审美或文案写作能力
+**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Passionate about creative content production, with basic video/image editing skills
+- Sensitive to digital marketing and social media trends, enjoys data analysis
+- Able to work independently and quickly learn new tools
+
+**Who is not suited**
+- Dislikes frequent content updates or short-cycle projects
+- Lack of visual aesthetic or copywriting ability
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary level for content creators in New Zealand?**
+A: Junior salary approximately NZ$50,000-65,000 per year, intermediate NZ$65,000-85,000, senior NZ$85,000-110,000. Salary depends on experience and employer size, slightly higher in Auckland.
+
+**Q: How can content creators migrate to New Zealand through skilled migration?**
+A: Eligible via Skilled Migrant Category (SMC) or Green List Tier 2 pathway. Must meet education, work experience, and salary requirements (hourly rate ≥ NZD 30.50) and find an accredited employer sponsor.
+
+**Q: Is registration or certification required?**
+A: No statutory registration required, but a digital marketing diploma or Google Analytics certification enhances competitiveness. IELTS 6.5 is the language requirement for skilled migration.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| careers.govt.nz | ANZSCO 薪资与需求 |
+| Learning duration | low (★★☆☆☆) |
+| Learning difficulty | medium (★★★☆☆) |
+| Certification difficulty | low (★☆☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★☆☆) |
+| Income level | medium (★★½☆☆) |
+| Work intensity | medium (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
+| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较短（★★☆☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较低（★☆☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
-
-Content Creator (Marketing)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary range for content creators in New Zealand?**
-答：Entry-level: NZD 50,000-65,000; Mid-level: 65,000-85,000; Senior: 85,000-110,000. Salaries vary by experience and employer size, with Auckland slightly higher.
-
-**问：How can content creators settle in New Zealand via skilled migration?**
-答：Through Skilled Migrant Category (SMC) or Green List Tier 2. Requirements include relevant qualifications, work experience, and salary (≥NZD 30.50/hr), along with a job offer from an accredited employer.
-
-**问：Are certifications or licenses required?**
-答：No mandatory registration, but a digital marketing diploma or Google Analytics certification boosts competitiveness. IELTS 6.5 is required for skilled migration.
+- Stats NZ, Careers NZ, ANZSCO
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

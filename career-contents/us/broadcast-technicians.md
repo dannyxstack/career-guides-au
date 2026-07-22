@@ -1,60 +1,96 @@
-# Broadcast Technicians（Broadcast Technicians）职业分析 · 美国
+# Broadcast Technicians — career analysis · United States
 
-**职业代码：27-4012 – Broadcast Technicians。**
+**Occupation code: 27-4012 (SOC)**
 
-Broadcast Technicians set up, operate, and maintain electronic equipment to acquire, edit, and transmit audio and video for radio or television programs, ensuring signal quality and clarity.
+Broadcast technicians set up, operate, and maintain electronic equipment for capturing, editing, and transmitting audio and video, ensuring broadcast signal quality and stability.
 
-> 注：本职业为**非技术移民职业**，不在美国技术移民职业清单上，以下内容主要面向本地就业与职业了解。
+> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 副学士学位 | 2年 | $15,000~$35,000（社区学院学费） |
-| 学士学位（传播/电子工程） | 4年 | $40,000~$120,000（公立/私立大学学费） |
+| Associate degree | 2 years | $15,000~$35,000 (Community college tuition) |
+| Bachelor's degree (Communication/Electronic Engineering) | 4 years | $40,000~$120,000 (Public/private university tuition fees) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：较低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 广播工程认证 | Society of Broadcast Engineers (SBE) | 可选 | 如CEB、CPBE等 |
-| FCC通用无线电操作员许可证 | 联邦通信委员会 | 必备 | 操作发射机必备 |
+| FCC General Radiotelephone Operator License | Federal Communications Commission | Required | Essential for operating transmitters |
+| Broadcast Engineering Certification | Society of Broadcast Engineers (SBE) | Optional | such as CEB, CPBE, etc. |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 30,000。美国广播技术员的就业前景总体稳定，但受媒体数字化转型影响，传统广播岗位增长缓慢，预计2023-2033年就业增长率约为-2%至2%。
+**Job demand: medium (★★½☆☆).** National workforce approx. 30,000. Employment outlook for U.S. broadcast technicians is generally stable, but traditional broadcast roles grow slowly due to media digital transformation, with projected employment change of -2% to 2% from 2023 to 2033.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$45,000 | 小型市场或入门岗位 |
-| 中级（3-7年） | $45,000~$65,000 | 中型市场 |
-| 高级（7年以上） | $65,000~$90,000 | 大型市场或主管职位 |
+| Median salary | $59,570 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $30,000~$45,000 | Small market or entry-level positions |
+| Mid-level (3–7 years) | $45,000~$65,000 | Medium-sized market |
+| Senior (7+ years) | $65,000~$90,000 | Large market or management positions |
+| average salary | $67,960 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：较低（★½☆☆☆）。** 职业发展路径：初级技术员→资深技术员→广播主管→技术总监。也可转向制作、影视工程或IT支持等岗位。
-**AI替代风险：较高（★★★☆☆）。**
+**Future prospect: low (★½☆☆☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
 
-主要增长方向：
+The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
+
+Career path: junior technician → senior technician → broadcast supervisor → technical director. Can also move into production, broadcast engineering, or IT support roles.
+
+**Tasks most exposed to AI:**
+
+- Automatically monitor broadcast signal stability and trigger alerts
+- Automatically convert audio and video formats and transcode
+- Automatically generate broadcast log reports
+- Automatically adjust audio levels using AI tools
+- Automatically switch preset program sources
+
+**Where AI augments the role:**
+
+- Uses AI-assisted real-time audio noise reduction and mixing
+- Use AI to predict equipment failures and perform proactive maintenance
+- Optimizing transmission power and spectrum allocation via AI
+- Automatic subtitle generation using speech recognition
+- Using AI tools for quick editing and tagging of footage
+
+**Human moat:**
+
+- Manual diagnosis and on-site repair of complex faults
+- Communicate creative requirements with the production team
+- Quick decision-making in response to emergencies
+- Deployment and debugging of temporary scenarios like broadcast vehicles
+- Compliant operations to ensure signal safety
+
+**Skills to build:**
+
+- IP network and cloud broadcasting system management
+- Use of AI audio/video processing tools
+- Basic programming (Python/scripting).
+- Data analysis and system monitoring
+- Emergency communication and troubleshooting
+- Digital media file management
+
+**Key growth areas:**
 
 - negative growth
 - digital transformation
@@ -63,62 +99,64 @@ Broadcast Technicians set up, operate, and maintain electronic equipment to acqu
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
+**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 需本科以上学历，雇主担保，竞争激烈，配额限制 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适合在广播领域有杰出成就者，无配额限制 |
+| Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or above, employer sponsorship, fierce competition, quota limits |
+| Subclass O-1 (O-1 Extraordinary Ability) | For those with outstanding achievements in broadcasting, no cap on quota. |
+
+**PR friendliness: low (★½☆☆☆).**
+
+**PR difficulty: medium-high (★★★½☆).**
 
 ---
 
-## 7. 适合人群 / 不适合人群
+## 7. Who is / isn't suited
 
-**谁适合学Broadcast Technicians？**
-- 对广播技术有浓厚兴趣
-- 能适应不规律工作时间
-- 动手能力强且细致
+**Who is suited**
+- Strong interest in broadcast technology
+- Can adapt to irregular working hours
+- Hands-on and detail-oriented
 
-**谁不适合学Broadcast Technicians？**
-- 不喜欢快节奏工作环境
-- 不愿处理压力大、时间敏感的任务
+**Who is not suited**
+- Dislike fast-paced work environment
+- Unwilling to handle stressful, time-sensitive tasks
 
 ---
 
-## 8. 数据来源
+## 8. FAQ
 
-| 来源 | 内容 |
+**Q: What is the salary level of broadcast technicians?**
+A: Average annual salary in the US is about $45,000, entry-level $30,000-$45,000, senior up to $90,000. Salary varies by market size and experience.
+
+**Q: Can a broadcast technician apply for an H-1B visa?**
+A: Yes, but requires a bachelor's degree or equivalent and employer sponsorship. Highly competitive due to quota limits. Exceptional talent may apply for the O-1 visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-low (★★☆☆☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | low (★½☆☆☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+| PR friendliness | low (★½☆☆☆) |
+| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等偏低（★★☆☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
-| 发展前景 | 较低（★½☆☆☆） |
-| AI替代风险 | 较高（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★½☆） |
-
-Broadcast Technicians属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary level for broadcast technicians?**
-答：The average annual salary in the US is around $45,000; entry-level $30,000-$45,000, senior up to $90,000. Salary varies by market size and experience.
-
-**问：Can broadcast technicians apply for an H-1B visa?**
-答：Yes, but requires a bachelor's degree or equivalent and employer sponsorship. Due to quota limits, competition is fierce. Extraordinary individuals may apply for O-1 visa.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

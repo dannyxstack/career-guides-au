@@ -1,59 +1,94 @@
-# Medical Imaging and Therapeutic Equipment Technicians（Medical Imaging and Therapeutic Equipment Technicians）职业分析 · IE
+# Medical Imaging and Therapeutic Equipment Technicians — career analysis · Ireland
 
-**职业代码：3211 – Medical Imaging and Therapeutic Equipment Technicians。**
+**Occupation code: 3211 (ISCO08)**
 
-Operate and maintain medical imaging and therapeutic equipment such as X-ray, CT, MRI, and radiotherapy machines to assist in diagnosis and treatment.
+Operate and maintain medical imaging and therapeutic equipment such as X-ray, CT, MRI, and radiation therapy machines to assist in diagnosis and treatment.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等（★★½☆☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (EUR) |
 |---|---|---:|
-| 本科 | 4年 | $15,000~$25,000（每年学费，欧盟学生约€15,000，非欧盟约€25,000） |
-| 高等教育文凭 | 3年 | $10,000~$18,000（每年学费，理工学院课程） |
+| Bachelor's degree | 4 years | $15,000~$25,000 (Annual tuition: approximately €15,000 for EU students, €25,000 for non-EU) |
+| Higher education diploma | 3 years | $10,000~$18,000 (Annual tuition fees, polytechnic courses) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：中等（★★★☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 放射诊断技师资格 | 爱尔兰放射技师注册委员会（CORU） | 必备 | 必须注册才能执业 |
-| 放射治疗技师资格 | CORU | 必备 | 针对放射治疗设备操作 |
-| MRI安全认证 | 爱尔兰医学物理与工程学会 | 可选 | 非强制但推荐 |
+| Radiographer qualification | Radiographers Registration Board of Ireland (CORU) | Required | Must be registered to practice |
+| Radiation Therapy Technician Qualification | CORU | Required | For operating radiotherapy equipment |
+| MRI safety certification | Irish Institute of Medical Physics and Engineering | Optional | Not mandatory but recommended |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,200。爱尔兰医疗体系扩张与老龄化人口推动需求增长，预计未来10年就业岗位稳步增加，尤其在公立医院和私立诊断中心。
+**Job demand: high (★★★★☆).** National workforce approx. 1,200. The expansion of Ireland's healthcare system and an aging population are driving demand growth, with steady job increases expected over the next 10 years, especially in public hospitals and private diagnostic centers.
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（EUR） | 备注 |
+| Experience | Annual salary (EUR) | Note |
 |---|---:|---|
-| 初级（0-3年） | $30,000~$38,000 | 税前年薪，受雇于HSE或私立诊所 |
-| 中级（3-7年） | $38,000~$48,000 | 税前年薪，含经验加成 |
-| 高级（7年以上） | $48,000~$60,000 | 税前年薪，主管或专家级 |
+| Median salary | $43,000 | Salary median (Estimate: based on midpoint of each experience level interval) |
+| Entry level (0–3 years) | $30,000~$38,000 | Pre-tax annual salary, employed by HSE or private clinics |
+| Mid-level (3–7 years) | $38,000~$48,000 | Annual salary before tax, including experience bonuses |
+| Senior (7+ years) | $48,000~$60,000 | Pre-tax annual salary, supervisor or expert level |
+| average salary | $43,667 | Average salary (estimated: based on midpoint of experience ranges) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：良好（★★★★☆）。** 可从初级技师晋升为高级技师或科室主管，也可通过进修成为应用专家或质量控制经理，部分转向医疗设备销售或培训。
-**AI替代风险：低（★☆☆☆☆）。**
+**Future prospect: medium-high (★★★★☆).**
+**AI replacement risk: low (★☆☆☆☆).**
 
-主要增长方向：
+Some tasks of medical imaging and therapeutic equipment technicians can be automated by AI, but core operations and clinical judgment are hard to replace; AI is more of an enhancement tool, with both risks and opportunities.
+
+Can advance from junior technician to senior technician or department supervisor, or become an application specialist or quality control manager through further study, with some moving into medical device sales or training.
+
+**Tasks most exposed to AI:**
+
+- Automatically generates preliminary image reports and anomaly markings for X-ray/CT/MRI
+- Using AI algorithms for automatic image quality assessment and repeat scan detection
+- Automatically optimize scanning parameters and dose calculations based on historical data
+- AI-assisted preliminary design of radiotherapy plans and dose verification
+
+**Where AI augments the role:**
+
+- AI-assisted real-time optimization of scan sequences and parameters to improve image quality and efficiency
+- Using AI for automated lesion segmentation and quantitative analysis to improve diagnostic accuracy.
+- AI recommends personalized radiotherapy plans, dynamically adjusting based on patient data.
+- Improve operational skills and emergency response through AI-driven simulation training systems
+- AI integrates multimodal imaging data to provide more comprehensive clinical decision support
+
+**Human moat:**
+
+- Manual diagnosis and emergency repair of complex equipment failures
+- Interpersonal interaction with patients, including communication, positioning, and psychological reassurance
+- Clinical questioning and final decision-making responsibility regarding AI results
+- Flexible handling in cases of non-standard anatomical variations or pathological conditions
+- Final oversight of radiation safety and clinical ethics
+
+**Skills to build:**
+
+- Use and verification of AI image analysis tools (e.g., CAD, deep learning models)
+- Medical image data processing and quality assurance (DICOM standard, data cleaning)
+- Basic programming skills (Python/R) to understand AI output and parameter tuning
+- Critical Thinking in Clinical Decision-Making and AI Collaboration
+- Interdisciplinary communication (collaborating with radiologists and engineers)
+- Internet of Medical Things (IoMT) and remote operation capabilities
+
+**Key growth areas:**
 
 - aging population
 - healthcare expansion
@@ -62,68 +97,67 @@ Operate and maintain medical imaging and therapeutic equipment such as X-ray, CT
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass Critical Skills Empl（Critical Skills Employment Permit） | 适用于紧缺职业，直接申请居留，2年后可转永居 |
-| Subclass General Employment P（General Employment Permit） | 需劳动力市场测试，5年后可申请永居 |
-| Subclass Multi-Sectoral Visa （Multi-Sectoral Visa (Hosting Agreement)） | 适用于非EEA国家的高技能人员，需雇主担保 |
+| Subclass Critical Skills Empl (Critical Skills Employment Permit) | For shortage occupations, direct residence application, convertible to permanent residency after 2 years |
+| Subclass General Employment P (General Employment Permit) | Requires labour market testing, can apply for permanent residence after 5 years |
+| Subclass Multi-Sectoral Visa  (Multi-Sectoral Visa (Hosting Agreement)) | For highly skilled personnel from non-EEA countries, requires employer sponsorship |
 
-**PR难度：低（★½☆☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Medical Imaging and Therapeutic Equipment Technicians？**
-- 具备技术操作能力和细致注意力的人
-- 对医疗设备感兴趣且乐于学习新技术的人
-- 希望在医疗领域稳定就业的人
-
-**谁不适合学Medical Imaging and Therapeutic Equipment Technicians？**
-- 不愿与患者直接接触的人
-- 对辐射或医疗环境敏感的人
+**PR difficulty: low (★½☆☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- People with technical operation skills and attention to detail
+- People interested in medical devices and eager to learn new technologies
+- People seeking stable employment in the healthcare field
+
+**Who is not suited**
+- Those unwilling to have direct patient contact
+- Those sensitive to radiation or medical environments
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for a medical imaging technician in Ireland?**
+A: Junior approximately €30,000-€38,000, mid-level approximately €38,000-€48,000, senior can reach €60,000 or more.
+
+**Q: How can overseas medical imaging technologists immigrate to Ireland?**
+A: Can apply via Critical Skills Employment Permit, needs to meet education and English requirements, and obtain CORU registration.
+
+**Q: What qualifications are needed to work in Ireland?**
+A: Must hold CORU-registered diagnostic radiography or radiation therapy qualifications, typically requiring a relevant bachelor's degree.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| CSO / Eurostat | ISCO-08 就业/薪资 |
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★★☆) |
+| AI replacement risk | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | low (★½☆☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
-
-Medical Imaging and Therapeutic Equipment Technicians的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the average salary for medical imaging technicians in Ireland?**
-答：Entry-level around €30,000-€38,000, mid-level €38,000-€48,000, senior up to €60,000+.
-
-**问：How can overseas medical imaging technicians immigrate to Ireland?**
-答：Apply for Critical Skills Employment Permit, meet education and English requirements, and obtain CORU registration.
-
-**问：What qualifications are required to work in Ireland?**
-答：Must hold CORU-registered radiography or radiotherapy qualification, typically a relevant bachelor's degree.
+- CSO Ireland, ISCO-08
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)

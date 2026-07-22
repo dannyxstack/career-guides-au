@@ -1,59 +1,95 @@
-# Software Developers（Software Developers）职业分析 · 美国
+# Software Developers — career analysis · United States
 
-**职业代码：15-1252 – Software Developers。**
+**Occupation code: 15-1252 (SOC)**
 
-Research, design, and develop computer and network software; analyze user needs and create software solutions using principles of computer science and engineering.
+Design and develop computer and network software, analyze user needs, apply computer science and engineering principles to create solutions, and update or enhance existing software functionality.
+
 
 ---
 
-## 1. 教育路径 / 周期 / 费用
+## 1. Education path / duration / cost
 
-**学习难度：中等偏高（★★★½☆）。**
-
-| 阶段 | 周期 | 费用（AUD） |
+| Stage | Duration | Cost (USD) |
 |---|---|---:|
-| 计算机科学学士 | 4年 | $40,000~$120,000（公立大学年均学费1万-3万美元） |
-| 计算机科学硕士 | 2年 | $30,000~$80,000（总学费约3万-8万美元） |
-| 编程训练营 | 3-6个月 | $10,000~$20,000（加速入职选项） |
+| Bachelor's in Computer Science | 4 years | $40,000~$120,000 (Public universities: average annual tuition $10,000-$30,000.) |
+| Master of Computer Science | 2 years | $30,000~$80,000 (Total tuition: approx. $30,000-$80,000) |
+| Coding bootcamp | 3-6 months | $10,000~$20,000 (Accelerated entry option) |
 
 ---
 
-## 2. 考证难度 / 从业资质
+## 2. Qualifications & licensing
 
-**考证难度：低（★½☆☆☆）。**
-
-| 资质 | 发证机构 | 是否必备 | 备注 |
+| Qualification | Issuer | Required | Note |
 |---|---|---|---|
-| 计算机科学学士学位 | 认证大学 | 可选 | 常见入门要求 |
-| 相关工作经验 | 雇主 | 可选 | 多数职位要求1-3年经验 |
+| Bachelor's degree in computer science | Accredited university | Optional | Common Entry Requirements |
+| Relevant work experience | Employer | Optional | Most positions require 1-3 years of experience |
 
 ---
 
-## 3. 职位需求量 / 竞争度 / 工作强度
+## 3. Job demand / competition / intensity
 
-**职位需求量：非常高（★★★★½）。** 全国从业人数约 1,548,200。美国劳工统计局预测2022-2032年软件开发者就业增长25%，远高于平均水平。云计算、大数据和人工智能需求持续驱动高需求。
+**Job demand: very high (★★★★½).** National workforce approx. 1,548,200. The US Bureau of Labor Statistics projects 25% employment growth for software developers from 2022-2032, much faster than average. Cloud computing, big data, and AI continue to drive high demand.
 
-**竞争度：较高（★★★½☆）。**
-**工作强度：较高（★★★½☆）。**
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
 
 ---
 
-## 4. 收入范围（学徒 / 中级 / 资深）
+## 4. Salary range
 
-| 经验水平 | 年薪（USD） | 备注 |
+| Experience | Annual salary (USD) | Note |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 入门级薪资范围 |
-| 中级（3-7年） | $95,000~$130,000 | 有经验者薪资 |
-| 高级（7年以上） | $130,000~$180,000 | 资深开发者薪资 |
+| Median salary | $135,980 | National full-time annual salary median (Source: US BLS OES 2025) |
+| Entry level (0–3 years) | $70,000~$95,000 | Entry-level salary range |
+| Mid-level (3–7 years) | $95,000~$130,000 | Salary for experienced professionals |
+| Senior (7+ years) | $130,000~$180,000 | Senior developer salary |
+| average salary | $148,100 | National full-time annual salary mean (Source: US BLS OES 2025) |
 
 ---
 
-## 5. 未来趋势 / AI替代概率
+## 5. Future outlook / AI exposure
 
-**发展前景：非常好（★★★★½）。** 从初级开发者可晋升为高级开发者、技术主管、架构师，或转向项目管理、产品管理。经验丰富者可担任工程经理或首席技术官。
-**AI替代风险：低（★½☆☆☆）。**
+**Future prospect: very high (★★★★½).**
+**AI replacement risk: low (★½☆☆☆).**
 
-主要增长方向：
+Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
+
+From junior developer, can advance to senior developer, technical lead, architect, or move into project management, product management. Experienced individuals can become engineering managers or CTOs.
+
+**Tasks most exposed to AI:**
+
+- Writing boilerplate code and standard CRUD interfaces
+- Writing basic unit tests and regression tests
+- Simple bug identification and fixing (e.g., null pointers, type errors).
+- Code formatting and documentation comment generation
+- Generate simple function implementations from natural language descriptions
+
+**Where AI augments the role:**
+
+- Using AI assistants like Copilot to improve coding speed and quality
+- Utilise AI for code review, security vulnerability scanning and suggestions.
+- Rapid Prototyping and Architecture Generation with AI
+- Automating test generation and coverage analysis with AI
+- Quickly locate issues using AI-assisted debugging and log analysis
+
+**Human moat:**
+
+- Complex system architecture design and technology selection
+- Cross-team communication, requirements analysis, and business understanding
+- Innovative algorithm development and optimization
+- Ability to handle ambiguous, unstructured problems
+- Ethical decision-making, safety compliance responsibility
+
+**Skills to build:**
+
+- AI/ML basics and model fine-tuning skills
+- Prompt Engineering and AI tool integration
+- Cloud-native architecture (Kubernetes, Serverless)
+- System design and architectural patterns
+- Data analysis and experimental design
+- Cross-functional collaboration and product thinking
+
+**Key growth areas:**
 
 - Cloud Computing
 - Artificial Intelligence
@@ -62,69 +98,68 @@ Research, design, and develop computer and network software; analyze user needs 
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. Migration pathways / PR
 
-**PR友好度：友好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
-| 签证类别 | 说明 |
+| Visa | Description |
 |---|---|
-| Subclass H-1B（H-1B Specialty Occupations） | 常见工作签证，需学士学位，配额抽签制 |
-| Subclass EB-2（Employment-Based Second Preference） | 需硕士及以上或特殊能力，通过PERM劳工证 |
-| Subclass EB-3（Employment-Based Third Preference） | 针对学士学位或技术工人，通过PERM劳工证 |
-| Subclass O-1（O-1 Extraordinary Ability） | 适用于在领域内具有杰出能力的个人 |
+| Subclass H-1B (H-1B Specialty Occupations) | Common work visa, requires a bachelor's degree, quota lottery system |
+| Subclass EB-2 (Employment-Based Second Preference) | Require master's degree or higher, or exceptional ability, through PERM labour certification. |
+| Subclass EB-3 (Employment-Based Third Preference) | For bachelor's degree holders or skilled workers, through PERM labor certification |
+| Subclass O-1 (O-1 Extraordinary Ability) | Applies to individuals with exceptional ability in their field |
 
-**PR难度：中等（★★½☆☆）。**
+**PR friendliness: high (★★★★☆).**
 
----
-
-## 7. 适合人群 / 不适合人群
-
-**谁适合学Software Developers？**
-- 热爱编程及逻辑问题解决
-- 愿意持续学习新技术
-- 具备团队协作与沟通能力
-
-**谁不适合学Software Developers？**
-- 不喜长时间静坐编码
-- 对快速迭代和技术变化感到压力大
+**PR difficulty: medium (★★½☆☆).**
 
 ---
 
-## 8. 数据来源
+## 7. Who is / isn't suited
 
-| 来源 | 内容 |
+**Who is suited**
+- Enjoys programming and logical problem-solving
+- Willingness to continuously learn new technologies
+- Possesses teamwork and communication skills
+
+**Who is not suited**
+- Dislike long periods of sedentary coding
+- Feeling stressed by rapid iteration and technological change
+
+---
+
+## 8. FAQ
+
+**Q: What is the salary of software developers?**
+A: Junior: approx USD 70,000-95,000, mid-level: 95,000-130,000, senior: 130,000-180,000. Salaries are higher in big tech companies or high-cost areas, e.g., Bay Area can exceed 200,000.
+
+**Q: How to get a green card through H-1B?**
+A: Typically, the employer first applies for an H-1B work visa, then applies for an EB-2 or EB-3 green card through PERM labour certification; the entire process takes 3-5 years.
+
+**Q: Can I become a software developer without a computer science degree?**
+A: Yes, many developers transition through coding bootcamps or self-study, but a degree helps with resume screening and obtaining an H-1B visa.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
 |---|---|
-| BLS OEWS | SOC 薪资与需求 |
+| Learning duration | medium-high (★★★★☆) |
+| Learning difficulty | medium-high (★★★½☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | very high (★★★★½) |
+| Competition | medium-high (★★★½☆) |
+| Income level | high (★★★★☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | very high (★★★★½) |
+| AI replacement risk | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
+| PR difficulty | medium (★★½☆☆) |
 
 ---
 
-## 快速结论
+## Data sources
 
-| 维度 | 评级 |
-|---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 中等偏高（★★★½☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 非常高（★★★★½） |
-| 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 非常好（★★★★½） |
-| AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 友好（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
-
-Software Developers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
-
----
-
-## 9. FAQ 常见问题
-
-**问：What is the salary for software developers?**
-答：Entry-level $70k-$95k, mid-level $95k-$130k, senior $130k-$180k. Big tech or high-cost areas like Bay Area can exceed $200k.
-
-**问：How to get a green card via H-1B?**
-答：Employer sponsors H-1B visa, then files PERM labor certification for EB-2 or EB-3 green card; process takes 3-5 years.
-
-**问：Can I become a software developer without a CS degree?**
-答：Yes, many enter via bootcamps or self-study, but a degree helps with resume screening and H-1B eligibility.
+- U.S. BLS OEWS, O*NET, SOC
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
